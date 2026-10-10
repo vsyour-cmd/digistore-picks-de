@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Services"]
 listed_since: "2026-09-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://hcjohannaklatt.com?aff=adminstore#aff=adminstore"
 sales_page: "https://hcjohannaklatt.com"
@@ -22,7 +22,7 @@ language: "de"
 # Female Health Akademie
 
 > Product ID `60039` · Digistore24 productId `632057` · [HTML profile page](../../produkte/female-health-akademie-60039.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

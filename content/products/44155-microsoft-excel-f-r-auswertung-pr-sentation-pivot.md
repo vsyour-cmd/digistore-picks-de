@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2023-03-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://video-schulungen.de/courses/excel-im-bueroalltag-kurs-3/?aff=adminstore#aff=adminstore"
 sales_page: "https://video-schulungen.de/courses/excel-im-bueroalltag-kurs-3/"
@@ -22,7 +22,7 @@ language: "de"
 # Microsoft Excel für Auswertung, Präsentation, Pivot
 
 > Product ID `44155` · Digistore24 productId `488370` · [HTML profile page](../../produkte/microsoft-excel-f-r-auswertung-pr-sentation-pivot-44155.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

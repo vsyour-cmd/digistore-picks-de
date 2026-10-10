@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2021-12-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://www.digistore24.com/redir/420804/adminstore"
 sales_page: "https://affiliatecashclub.de?p=[AFFILIATE]"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Cash Club
 
 > Product ID `39052` · Digistore24 productId `420804` · [HTML profile page](../../produkte/affiliate-cash-club-39052.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

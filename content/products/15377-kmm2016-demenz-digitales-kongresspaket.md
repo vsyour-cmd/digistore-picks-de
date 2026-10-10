@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2017-02-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://digitalewelt.spitzen-praevention.com/kmm-demenz/?aff=adminstore#aff=adminstore"
 sales_page: "https://digitalewelt.spitzen-praevention.com/kmm-demenz/"
@@ -22,7 +22,7 @@ language: "de"
 # KMM2016 Demenz - Digitales Kongresspaket
 
 > Product ID `15377` · Digistore24 productId `119253` · [HTML profile page](../../produkte/kmm2016-demenz-digitales-kongresspaket-15377.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

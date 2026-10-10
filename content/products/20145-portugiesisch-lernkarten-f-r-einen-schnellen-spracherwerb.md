@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2017-10-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://stuffdesk.de/portugiesisch-lernkarten-kaufen/?aff=adminstore#aff=adminstore"
 sales_page: "http://stuffdesk.de/portugiesisch-lernkarten-kaufen/"
@@ -22,7 +22,7 @@ language: "de"
 # Portugiesisch Lernkarten für einen schnellen Spracherwerb
 
 > Product ID `20145` · Digistore24 productId `175237` · [HTML profile page](../../produkte/portugiesisch-lernkarten-f-r-einen-schnellen-spracherwerb-20145.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

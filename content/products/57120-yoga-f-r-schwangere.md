@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children","Sport"]
 listed_since: "2026-06-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://yoga-erfidn-schwanger.lovable.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://yoga-erfidn-schwanger.lovable.app/"
@@ -22,7 +22,7 @@ language: "de"
 # Yoga für Schwangere
 
 > Product ID `57120` · Digistore24 productId `705010` · [HTML profile page](../../produkte/yoga-f-r-schwangere-57120.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

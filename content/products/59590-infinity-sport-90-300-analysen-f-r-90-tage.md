@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Sport"]
 listed_since: "2026-09-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://infinity-sport.business-coach-uwe-boehle.ch/guthaben-sport.php?aff=adminstore#aff=adminstore"
 sales_page: "https://infinity-sport.business-coach-uwe-boehle.ch/guthaben-sport.php"
@@ -22,7 +22,7 @@ language: "de"
 # INFINITY SPORT 90 – 300 Analysen für 90 Tage
 
 > Product ID `59590` · Digistore24 productId `736381` · [HTML profile page](../../produkte/infinity-sport-90-300-analysen-f-r-90-tage-59590.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

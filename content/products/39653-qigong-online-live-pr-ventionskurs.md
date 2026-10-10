@@ -13,7 +13,7 @@ cancel_rate_pct: 4.65
 categories: ["Health & Fitness"]
 listed_since: "2021-05-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://onlineakademie.taichibewegt.de/lp/gesundheitsschuetzendes-qigong-online-kurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://onlineakademie.taichibewegt.de/lp/gesundheitsschuetzendes-qigong-online-kurs/"
@@ -22,7 +22,7 @@ language: "de"
 # Qigong Online Live Präventionskurs
 
 > Product ID `39653` · Digistore24 productId `391836` · [HTML profile page](../../produkte/qigong-online-live-pr-ventionskurs-39653.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

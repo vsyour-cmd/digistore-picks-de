@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-10-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://creatorhandbuch.de?aff=adminstore#aff=adminstore"
 sales_page: "https://creatorhandbuch.de"
@@ -22,7 +22,7 @@ language: "de"
 # Talking-Head-Guide für Coaches: 19 € PDF, Sofort-Download
 
 > Product ID `60134` · Digistore24 productId `740688` · [HTML profile page](../../produkte/talking-head-guide-f-r-coaches-19-pdf-sofort-download-60134.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

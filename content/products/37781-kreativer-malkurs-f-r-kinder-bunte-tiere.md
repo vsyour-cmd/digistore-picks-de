@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2020-11-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://kolibri-school.de/kurse/tiere-malen-mit-kindern/?aff=adminstore#aff=adminstore"
 sales_page: "https://kolibri-school.de/kurse/tiere-malen-mit-kindern/"
@@ -22,7 +22,7 @@ language: "de"
 # Kreativer Malkurs für Kinder "Bunte Tiere"
 
 > Product ID `37781` · Digistore24 productId `356056` · [HTML profile page](../../produkte/kreativer-malkurs-f-r-kinder-bunte-tiere-37781.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0.59
 categories: ["Hobby & Craft"]
 listed_since: "2021-09-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://manylearn.com/kurse/aquarell-zauber?aff=adminstore#aff=adminstore"
 sales_page: "https://manylearn.com/kurse/aquarell-zauber"
@@ -22,7 +22,7 @@ language: "de"
 # Aquarell Online Kurs
 
 > Product ID `39841` · Digistore24 productId `408366` · [HTML profile page](../../produkte/aquarell-online-kurs-39841.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

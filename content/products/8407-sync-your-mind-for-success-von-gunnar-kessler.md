@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2015-03-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://byebyeschufterei.de/sync-your-mind-for-success-7500/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyeschufterei.de/sync-your-mind-for-success-7500/"
@@ -22,7 +22,7 @@ language: "de"
 # Sync Your Mind For Success - von Gunnar Kessler
 
 > Product ID `8407` · Digistore24 productId `44951` · [HTML profile page](../../produkte/sync-your-mind-for-success-von-gunnar-kessler-8407.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

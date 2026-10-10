@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Hobby & Craft","Services","Software"]
 listed_since: "2025-10-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.voumedia.de/voxelprint-pro/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.voumedia.de/voxelprint-pro/"
@@ -22,7 +22,7 @@ language: "de"
 # VoxelPrint Pro – 3D-Druck-Shop für WooCommerce
 
 > Product ID `55152` · Digistore24 productId `643902` · [HTML profile page](../../produkte/voxelprint-pro-3d-druck-shop-f-r-woocommerce-55152.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

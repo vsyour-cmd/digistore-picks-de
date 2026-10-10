@@ -13,7 +13,7 @@ cancel_rate_pct: 5.82
 categories: ["Marketing Services"]
 listed_since: "2025-08-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://contentcreaitorclone.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://contentcreaitorclone.com/"
@@ -22,7 +22,7 @@ language: "de"
 # Content Creator Clone Masterclass 70% Affiliate
 
 > Product ID `53726` · Digistore24 productId `627890` · [HTML profile page](../../produkte/content-creator-clone-masterclass-70-affiliate-53726.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

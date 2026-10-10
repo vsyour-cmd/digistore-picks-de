@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2020-03-31"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://drawtut.com/de/kurse/kinder-vorschule/?aff=adminstore#aff=adminstore"
 sales_page: "https://drawtut.com/de/kurse/kinder-vorschule/"
@@ -22,7 +22,7 @@ language: "de"
 # Zeichenschule für Kindergarten- und Vorschulkinder
 
 > Product ID `32161` · Digistore24 productId `316974` · [HTML profile page](../../produkte/zeichenschule-f-r-kindergarten-und-vorschulkinder-32161.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

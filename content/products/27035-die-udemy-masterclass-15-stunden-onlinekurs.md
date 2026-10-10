@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2017-12-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://sebastian-gloeckner-bonn.de/die-udemy-masterclass/?aff=adminstore#aff=adminstore"
 sales_page: "https://sebastian-gloeckner-bonn.de/die-udemy-masterclass/"
@@ -22,7 +22,7 @@ language: "de"
 # Die Udemy Masterclass (15 Stunden Onlinekurs)
 
 > Product ID `27035` · Digistore24 productId `184381` · [HTML profile page](../../produkte/die-udemy-masterclass-15-stunden-onlinekurs-27035.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

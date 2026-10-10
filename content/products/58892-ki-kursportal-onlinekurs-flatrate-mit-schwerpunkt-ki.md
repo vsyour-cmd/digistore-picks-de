@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
 listed_since: "2026-09-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://onlinekurse-von-experten.com/ki-kursportal-salespage/?aff=adminstore#aff=adminstore"
 sales_page: "https://onlinekurse-von-experten.com/ki-kursportal-salespage/"
@@ -22,7 +22,7 @@ language: "de"
 # KI Kursportal - Onlinekurs Flatrate mit Schwerpunkt KI
 
 > Product ID `58892` · Digistore24 productId `727271` · [HTML profile page](../../produkte/ki-kursportal-onlinekurs-flatrate-mit-schwerpunkt-ki-58892.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

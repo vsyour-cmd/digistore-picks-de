@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2026-01-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://magierschule.de/glueckscoach?aff=adminstore#aff=adminstore"
 sales_page: "https://magierschule.de/glueckscoach"
@@ -22,7 +22,7 @@ language: "de"
 # Glückscoaching-Ausbildung: Glück ist planbar!
 
 > Product ID `55314` · Digistore24 productId `663971` · [HTML profile page](../../produkte/gl-ckscoaching-ausbildung-gl-ck-ist-planbar-55314.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

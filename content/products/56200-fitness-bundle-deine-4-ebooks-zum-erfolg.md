@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Sport"]
 listed_since: "2026-04-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/ebooks/fitness-bundle?aff=adminstore#aff=adminstore"
 sales_page: "https://designs-nf.com/ebooks/fitness-bundle"
@@ -22,7 +22,7 @@ language: "de"
 # Fitness Bundle - Deine 4 eBooks zum Erfolg
 
 > Product ID `56200` · Digistore24 productId `683531` · [HTML profile page](../../produkte/fitness-bundle-deine-4-ebooks-zum-erfolg-56200.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

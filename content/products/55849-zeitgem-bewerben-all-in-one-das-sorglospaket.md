@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2026-03-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://heinzbader.com/workbook-zeitgemaess-bewerben-das-sorglospaket-landingpage/?aff=adminstore#aff=adminstore"
 sales_page: "https://heinzbader.com/workbook-zeitgemaess-bewerben-das-sorglospaket-landingpage/"
@@ -22,7 +22,7 @@ language: "de"
 # Zeitgemäß bewerben - All-in-One - Das Sorglospaket
 
 > Product ID `55849` · Digistore24 productId `674178` · [HTML profile page](../../produkte/zeitgem-bewerben-all-in-one-das-sorglospaket-55849.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

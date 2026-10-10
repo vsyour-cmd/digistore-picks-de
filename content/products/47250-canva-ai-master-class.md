@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2024-02-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/canva-ai/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/canva-ai/"
@@ -22,7 +22,7 @@ language: "de"
 # Canva AI - Master Class
 
 > Product ID `47250` · Digistore24 productId `539446` · [HTML profile page](../../produkte/canva-ai-master-class-47250.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

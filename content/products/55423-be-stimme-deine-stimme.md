@@ -13,7 +13,7 @@ cancel_rate_pct: 5.22
 categories: ["Health & Fitness"]
 listed_since: "2025-12-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/656139?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/656139"
@@ -22,7 +22,7 @@ language: "de"
 # Be (Stimme) deine Stimme
 
 > Product ID `55423` · Digistore24 productId `656139` · [HTML profile page](../../produkte/be-stimme-deine-stimme-55423.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

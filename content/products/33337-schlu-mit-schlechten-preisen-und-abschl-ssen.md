@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Sales Training"]
 listed_since: "2020-07-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://12260.webinaris.co/18063/schluss_mit_schlechten_preisen_und_abschluessen.html?mode=N&mode=N&aff=adminstore#aff=adminstore"
 sales_page: "https://12260.webinaris.co/18063/schluss_mit_schlechten_preisen_und_abschluessen.html?mode=N&mode=N"
@@ -22,7 +22,7 @@ language: "de"
 # "Schluß mit schlechten Preisen und Abschlüssen"
 
 > Product ID `33337` · Digistore24 productId `334681` · [HTML profile page](../../produkte/schlu-mit-schlechten-preisen-und-abschl-ssen-33337.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

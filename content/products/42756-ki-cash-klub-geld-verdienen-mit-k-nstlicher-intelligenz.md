@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2023-02-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/482586/adminstore"
 sales_page: "https://florianschaefer.de/ki-cash-klub/?afid=[AFFILIATE]"
@@ -22,7 +22,7 @@ language: "de"
 # KI Cash Klub - Geld verdienen mit künstlicher Intelligenz
 
 > Product ID `42756` · Digistore24 productId `482586` · [HTML profile page](../../produkte/ki-cash-klub-geld-verdienen-mit-k-nstlicher-intelligenz-42756.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

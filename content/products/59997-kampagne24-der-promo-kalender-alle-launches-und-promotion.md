@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2026-09-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://kampagne24.com/sales-promokalender?aff=adminstore#aff=adminstore"
 sales_page: "https://kampagne24.com/sales-promokalender"
@@ -22,7 +22,7 @@ language: "de"
 # Kampagne24 - Der Promo-Kalender: Alle Launches und Promotion
 
 > Product ID `59997` · Digistore24 productId `717711` · [HTML profile page](../../produkte/kampagne24-der-promo-kalender-alle-launches-und-promotion-59997.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

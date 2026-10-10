@@ -13,7 +13,7 @@ cancel_rate_pct: 0.8
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-03-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://lp.incomebutler.com/self-kinderbuch-masterkurs-vk-lp/?aff=adminstore#aff=adminstore"
 sales_page: "https://lp.incomebutler.com/self-kinderbuch-masterkurs-vk-lp/"
@@ -22,7 +22,7 @@ language: "de"
 # Kinderbuch Masterkurs
 
 > Product ID `47719` · Digistore24 productId `543257` · [HTML profile page](../../produkte/kinderbuch-masterkurs-47719.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

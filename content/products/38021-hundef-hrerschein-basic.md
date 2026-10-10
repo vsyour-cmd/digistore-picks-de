@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2021-05-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://perrocc.coachy.net/lp/hundewissen-kompakt/?aff=AFFILIATE&aff=adminstore#aff=adminstore"
 sales_page: "https://perrocc.coachy.net/lp/hundewissen-kompakt/?aff=AFFILIATE"
@@ -22,7 +22,7 @@ language: "de"
 # Hundeführerschein Basic
 
 > Product ID `38021` · Digistore24 productId `388540` · [HTML profile page](../../produkte/hundef-hrerschein-basic-38021.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

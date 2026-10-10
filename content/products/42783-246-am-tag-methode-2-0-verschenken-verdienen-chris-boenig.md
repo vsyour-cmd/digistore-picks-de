@@ -13,7 +13,7 @@ cancel_rate_pct: 4.24
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2023-02-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://chrisboenig.com/246methode?aff=adminstore#aff=adminstore"
 sales_page: "https://chrisboenig.com/246methode"
@@ -22,7 +22,7 @@ language: "de"
 # 246€ am Tag Methode 2.0: Verschenken+Verdienen! Chris Boenig
 
 > Product ID `42783` · Digistore24 productId `484335` · [HTML profile page](../../produkte/246-am-tag-methode-2-0-verschenken-verdienen-chris-boenig-42783.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

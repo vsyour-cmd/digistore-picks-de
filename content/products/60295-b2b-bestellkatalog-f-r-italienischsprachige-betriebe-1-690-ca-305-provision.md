@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.direzionex.com/offerta/catalogo-per-le-ditte?aff=adminstore#aff=adminstore"
 sales_page: "https://www.direzionex.com/offerta/catalogo-per-le-ditte"
@@ -22,7 +22,7 @@ language: "de"
 # B2B-Bestellkatalog für italienischsprachige Betriebe: 1.690 €, ca. 305 € Provision
 
 > Product ID `60295` · Digistore24 productId `741562` · [HTML profile page](../../produkte/b2b-bestellkatalog-f-r-italienischsprachige-betriebe-1-690-ca-305-provision-60295.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

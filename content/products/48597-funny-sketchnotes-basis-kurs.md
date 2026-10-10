@@ -13,7 +13,7 @@ cancel_rate_pct: 1.7
 categories: ["Fun & Games","Hobby & Craft"]
 listed_since: "2018-08-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.simoneabelmann.com/basis-ebook-start-angebot/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.simoneabelmann.com/basis-ebook-start-angebot/"
@@ -22,7 +22,7 @@ language: "de"
 # Funny Sketchnotes Basis Kurs
 
 > Product ID `48597` · Digistore24 productId `235281` · [HTML profile page](../../produkte/funny-sketchnotes-basis-kurs-48597.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

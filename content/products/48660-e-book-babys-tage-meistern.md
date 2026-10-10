@@ -13,7 +13,7 @@ cancel_rate_pct: 1.86
 categories: ["Family & Children"]
 listed_since: "2022-06-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.babyschlummerland.de/buch-tagesschlaf-baby/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.babyschlummerland.de/buch-tagesschlaf-baby/"
@@ -22,7 +22,7 @@ language: "de"
 # E-Book: "Babys Tage meistern"
 
 > Product ID `48660` · Digistore24 productId `449008` · [HTML profile page](../../produkte/e-book-babys-tage-meistern-48660.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

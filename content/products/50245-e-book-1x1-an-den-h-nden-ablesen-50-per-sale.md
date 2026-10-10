@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Family & Children"]
 listed_since: "2024-10-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://genialeinfachlernen.com/upsell1x1?aff=adminstore#aff=adminstore"
 sales_page: "https://genialeinfachlernen.com/upsell1x1"
@@ -22,7 +22,7 @@ language: "de"
 # E-Book: 1x1 an den Händen ablesen - 50% per Sale
 
 > Product ID `50245` · Digistore24 productId `576458` · [HTML profile page](../../produkte/e-book-1x1-an-den-h-nden-ablesen-50-per-sale-50245.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

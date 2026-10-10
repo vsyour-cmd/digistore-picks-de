@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Green Products & Environmental Protection","Home & Garden"]
 listed_since: "2026-03-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/675451?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/675451"
@@ -22,7 +22,7 @@ language: "de"
 # Ihre Immobilie als Renditebooster inkl. Potentialanalyse
 
 > Product ID `55867` · Digistore24 productId `675451` · [HTML profile page](../../produkte/ihre-immobilie-als-renditebooster-inkl-potentialanalyse-55867.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

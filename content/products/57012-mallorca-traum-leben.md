@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2026-06-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/mallorca-traum-leben?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/mallorca-traum-leben"
@@ -22,7 +22,7 @@ language: "de"
 # Mallorca-Traum leben
 
 > Product ID `57012` · Digistore24 productId `702243` · [HTML profile page](../../produkte/mallorca-traum-leben-57012.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

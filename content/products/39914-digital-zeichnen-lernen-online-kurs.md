@@ -13,7 +13,7 @@ cancel_rate_pct: 1.03
 categories: ["Hobby & Craft"]
 listed_since: "2022-04-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://drawtut.com/de/kurse/digitales-zeichnen/?aff=adminstore#aff=adminstore"
 sales_page: "https://drawtut.com/de/kurse/digitales-zeichnen/"
@@ -22,7 +22,7 @@ language: "de"
 # Digital Zeichnen Lernen Online-Kurs
 
 > Product ID `39914` · Digistore24 productId `439451` · [HTML profile page](../../produkte/digital-zeichnen-lernen-online-kurs-39914.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

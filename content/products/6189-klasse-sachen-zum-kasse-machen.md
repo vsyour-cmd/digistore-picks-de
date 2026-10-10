@@ -13,7 +13,7 @@ cancel_rate_pct: 2.93
 categories: ["Profession & Job"]
 listed_since: "2015-01-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://www.benn-verlag.de/digi-ks1-2/index.html?aff=adminstore#aff=adminstore"
 sales_page: "http://www.benn-verlag.de/digi-ks1-2/index.html"
@@ -22,7 +22,7 @@ language: "de"
 # Klasse Sachen zum Kasse machen
 
 > Product ID `6189` · Digistore24 productId `41469` · [HTML profile page](../../produkte/klasse-sachen-zum-kasse-machen-6189.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

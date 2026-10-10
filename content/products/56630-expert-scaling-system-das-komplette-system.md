@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2026-05-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/623140?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/623140"
@@ -22,7 +22,7 @@ language: "de"
 # Expert Scaling System — Das komplette System
 
 > Product ID `56630` · Digistore24 productId `623140` · [HTML profile page](../../produkte/expert-scaling-system-das-komplette-system-56630.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

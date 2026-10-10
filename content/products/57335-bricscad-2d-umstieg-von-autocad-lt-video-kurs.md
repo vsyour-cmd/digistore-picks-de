@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://cad-video.de/umstieg-von-autocad-zu-bcad?aff=adminstore#aff=adminstore"
 sales_page: "https://cad-video.de/umstieg-von-autocad-zu-bcad"
@@ -22,7 +22,7 @@ language: "de"
 # BricsCAD® 2D Umstieg von AutoCAD/LT Video-Kurs
 
 > Product ID `57335` · Digistore24 productId `568921` · [HTML profile page](../../produkte/bricscad-2d-umstieg-von-autocad-lt-video-kurs-57335.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

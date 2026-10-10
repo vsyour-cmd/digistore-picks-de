@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Home & Garden","Software"]
 listed_since: "2026-10-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.gz-ai-stacks.de/Hofgarten-Almanach/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.gz-ai-stacks.de/Hofgarten-Almanach/"
@@ -22,7 +22,7 @@ language: "de"
 # Hofgarten-Almanach – Gartenplaner mit Amish-Wissen, offline
 
 > Product ID `60181` · Digistore24 productId `738218` · [HTML profile page](../../produkte/hofgarten-almanach-gartenplaner-mit-amish-wissen-offline-60181.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

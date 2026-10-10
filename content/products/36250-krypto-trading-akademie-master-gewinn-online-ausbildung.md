@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Trading Products"]
 listed_since: "2023-07-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/508432?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/508432"
@@ -22,7 +22,7 @@ language: "de"
 # Krypto Trading Akademie Master-Gewinn Online Ausbildung
 
 > Product ID `36250` · Digistore24 productId `508432` · [HTML profile page](../../produkte/krypto-trading-akademie-master-gewinn-online-ausbildung-36250.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

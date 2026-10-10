@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "medium"
 promo_link: "https://www.officetrainings.de/e-books-fuer-assistenzen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.officetrainings.de/e-books-fuer-assistenzen/"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # E-Books für Assistenzen: 10 Praxis-Hacks je Thema, mit Vorlagen-Pack
 
 > Product ID `60394` · Digistore24 productId `635555` · [HTML profile page](../../produkte/e-books-f-r-assistenzen-10-praxis-hacks-je-thema-mit-vorlagen-pack-60394.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -51,7 +51,23 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** E-Books für Assistenzen
+- **Meta description:** Chefentlastung, Outlook, Priorisierung & mehr: 10 E-Books mit Vorlagen-Pack, je 29 € – auch günstiger im Bundle. Sofort als PDF.
+- **Section headlines (H2):**
+  - 10 Themen f&uuml;r souver&auml;neres Arbeiten - je 29 &euro;
+- **CTA button texts:** "Downloads"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/692488
+  - https://www.digistore24.com/product/692923
+  - https://www.digistore24.com/product/635555
+  - https://www.digistore24.com/product/635913
+  - https://www.digistore24.com/product/639424
+- **Opening copy (first paragraphs):**
+  > Praxiserprobte Hacks aus &uuml;ber 30 Jahren Berufserfahrung. Jedes E-Book mit Vorlagen-Pack zum Ausdrucken und Ausf&uuml;llen.
+  > Souver&auml;ner, produktiver, entspannter arbeiten - mit praxiserprobten L&ouml;sungen aus &uuml;ber 30 Jahren Berufserfahrung.
+  > 10 Themen f&uuml;r souver&auml;neres Arbeiten - je 29 &euro; Praxiserprobte Hacks aus &uuml;ber 30 Jahren Berufserfahrung. Jedes E-Book mit Vorlagen-Pack zum Ausdrucken und Ausf&uuml;llen.
+  > Am g&uuml;nstigsten: unsere Pakete Mehrere Themen geb&uuml;ndelt - ideal zum Einstieg. Starter-Bundle sichern
+- **Page word count:** 288
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

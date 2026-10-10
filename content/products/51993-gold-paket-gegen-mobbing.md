@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: ["Education","Family & Children","Profession & Job"]
 listed_since: "2024-12-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "rich"
 promo_link: "https://rinaldo-inabnit-6.mstrpages.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://rinaldo-inabnit-6.mstrpages.com/"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # Gold-Paket gegen Mobbing
 
 > Product ID `51993` · Digistore24 productId `584786` · [HTML profile page](../../produkte/gold-paket-gegen-mobbing-51993.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,19 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Vertrieb
+- **Headline (H1):**
+  > KINDERSCHUTZ
+  > ACHTUNG: NEU AB JANUAR 2026
+  > Mein ChatGPT-Assistent gibt Ihnen nähere Auskunft über die Schulung.
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/584786
+- **Opening copy (first paragraphs):**
+  > Warten Sie nicht, handeln Sie jetzt, um Ihr/e Kind/er zu schützen und einen Beitrag zum Allgemeinwohl zu leisten.
+  > Die Schulung bekommt laufen Updates. Ich werde Sie jeweils darüber informieren, wenn eine neue Lektion aufgeschaltet wurde.
+  > Sie leisten damit einen Beitrag, für die Thematik zu sensibilisieren und dadurch möglichst viel Leid verhindern. Mit den vielen Praxisteilen kommen Sie schnell in die Umsetzung.
+  > Warten Sie nicht, handeln Sie jetzt, um Ihr/e Kind/er zu schützen und einen Beitrag zum Allgemeinwohl zu leisten.
+- **Page word count:** 1120
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

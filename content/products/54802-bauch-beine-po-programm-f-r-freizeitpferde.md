@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2025-02-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://aw.anikas-pferdeakademie.de/bbp?aff=adminstore#aff=adminstore"
 sales_page: "https://aw.anikas-pferdeakademie.de/bbp"
@@ -22,7 +22,7 @@ language: "de"
 # Bauch, Beine, Po-Programm für Freizeitpferde
 
 > Product ID `54802` · Digistore24 productId `594594` · [HTML profile page](../../produkte/bauch-beine-po-programm-f-r-freizeitpferde-54802.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

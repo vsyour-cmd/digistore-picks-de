@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-09-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/724786?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/724786"
@@ -22,7 +22,7 @@ language: "de"
 # Paulownia Project Compact | Проект Павловния Компакт
 
 > Product ID `59434` · Digistore24 productId `724786` · [HTML profile page](../../produkte/paulownia-project-compact-59434.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

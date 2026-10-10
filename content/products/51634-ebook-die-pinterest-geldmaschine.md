@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-02-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://michael-kotzur.de/ebook-pinterest/?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-kotzur.de/ebook-pinterest/"
@@ -22,7 +22,7 @@ language: "de"
 # eBook „Die Pinterest Geldmaschine“
 
 > Product ID `51634` · Digistore24 productId `596477` · [HTML profile page](../../produkte/ebook-die-pinterest-geldmaschine-51634.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

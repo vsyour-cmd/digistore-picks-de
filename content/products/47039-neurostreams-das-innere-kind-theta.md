@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2018-11-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.neurostreams.de/portfolio/das-innere-kind/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.neurostreams.de/portfolio/das-innere-kind/"
@@ -22,7 +22,7 @@ language: "de"
 # Neurostreams™ Das innere Kind [THETA]
 
 > Product ID `47039` · Digistore24 productId `250030` · [HTML profile page](../../produkte/neurostreams-das-innere-kind-theta-47039.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

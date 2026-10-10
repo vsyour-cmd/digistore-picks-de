@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2016-09-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.klicksuite.de/bestellung/?product=96601&aff=adminstore#aff=adminstore"
 sales_page: "https://www.klicksuite.de/bestellung/?product=96601"
@@ -22,7 +22,7 @@ language: "de"
 # Divi Plugin für Klick-Tipp
 
 > Product ID `29687` · Digistore24 productId `96601` · [HTML profile page](../../produkte/divi-plugin-f-r-klick-tipp-29687.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

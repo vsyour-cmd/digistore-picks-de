@@ -13,7 +13,7 @@ cancel_rate_pct: 11.25
 categories: ["Trading Products"]
 listed_since: "2022-07-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/trading-signale/sp-500-cfd-daytrading/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kagels-trading.de/trading-signale/sp-500-cfd-daytrading/"
@@ -22,7 +22,7 @@ language: "de"
 # SP 500 Daytrading Signale von Corvin Schmoller
 
 > Product ID `42279` · Digistore24 productId `450197` · [HTML profile page](../../produkte/sp-500-daytrading-signale-von-corvin-schmoller-42279.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

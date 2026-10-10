@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2021-04-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://home.herozon.de/sexerfolgsgeheimnisse-sp?aff=adminstore#aff=adminstore"
 sales_page: "https://home.herozon.de/sexerfolgsgeheimnisse-sp"
@@ -22,7 +22,7 @@ language: "de"
 # Das (Sex-)Erfolgsgeheimnis außergewöhnlicher Männer
 
 > Product ID `36823` · Digistore24 productId `384858` · [HTML profile page](../../produkte/das-sex-erfolgsgeheimnis-au-ergew-hnlicher-m-nner-36823.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

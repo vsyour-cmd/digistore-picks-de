@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-06-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "medium"
 promo_link: "https://affyro.com/MRRLizenz500.html?aff=adminstore#aff=adminstore"
 sales_page: "https://affyro.com/MRRLizenz500.html"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # MRR Lizenz 500 € nebenbei - Business in a Box
 
 > Product ID `56840` · Digistore24 productId `699605` · [HTML profile page](../../produkte/mrr-lizenz-500-nebenbei-business-in-a-box-56840.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,23 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** MRR Lizenz: 500 € nebenbei | Business in a Box
+- **Headline (H1):**
+  > Überspringe die Erstellung. Starte direkt in den Verkauf.
+- **Section headlines (H2):**
+  - Rein rechnerisches Potenzial (Beispiel):
+  - Was genau in deinem Download-Paket steckt:
+  - Bereit für deinen Launch?
+  - Impressum
+  - Datenschutz
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/699605
+- **Opening copy (first paragraphs):**
+  > Sichere dir das komplette "Business in a Box" von AFFYRO. Verkaufe den Bestseller-Guide "500 € nebenbei" auf eigene Rechnung und behalte 100 % der Einnahmen.
+  > Du erhältst das hochwertige E-Book als fertiges PDF. Keine monatelange Recherche, kein Schreiben, kein Formatieren. Sofort einsatzbereit.
+  > Warum eine Landingpage bauen, wenn du eine funktionierende kopieren kannst? Du bekommst unseren hochkonvertierenden HTML-Code direkt mitgeliefert.
+  > Du bist kein Affiliate mehr. Du bist der Vendor. Verkaufe das Produkt zum vorgegebenen Endkundenpreis von 8,90 € und behalte jeden Cent.
+- **Page word count:** 323
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-10-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://gewerkflow.com/GewerkMobil?aff=adminstore#aff=adminstore"
 sales_page: "https://gewerkflow.com/GewerkMobil"
@@ -22,7 +22,7 @@ language: "de"
 # GewerKMobil – Autohaussoftware mit 50 % Affiliate-Provision
 
 > Product ID `60249` · Digistore24 productId `741140` · [HTML profile page](../../produkte/gewerkmobil-autohaussoftware-mit-50-affiliate-provision-60249.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

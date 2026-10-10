@@ -13,7 +13,7 @@ cancel_rate_pct: 0.34
 categories: ["Health & Fitness"]
 listed_since: "2017-07-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.nadine-beermann.de/onlinekurs-rb/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.nadine-beermann.de/onlinekurs-rb/"
@@ -22,7 +22,7 @@ language: "de"
 # Rückbildungskurs Online von Hebamme Nadine Beermann
 
 > Product ID `19947` · Digistore24 productId `152971` · [HTML profile page](../../produkte/r-ckbildungskurs-online-von-hebamme-nadine-beermann-19947.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

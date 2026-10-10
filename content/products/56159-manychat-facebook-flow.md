@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Software"]
 listed_since: "2025-05-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://ocf.me/420293/492051?aff=adminstore#aff=adminstore"
 sales_page: "https://ocf.me/420293/492051"
@@ -22,7 +22,7 @@ language: "de"
 # Manychat Facebook Flow
 
 > Product ID `56159` · Digistore24 productId `613500` · [HTML profile page](../../produkte/manychat-facebook-flow-56159.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

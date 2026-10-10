@@ -13,7 +13,7 @@ cancel_rate_pct: 6.98
 categories: ["Business & Investment"]
 listed_since: "2020-02-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/309532/adminstore"
 sales_page: "https://start.gruender.de/24-stunden-startup/?utm_source=Digistore24&utm_medium=Affiliate&utm_campaign=Aff%3A%20[AFFILIATE]&utm_content=Cam%3A%20[CAMPAIGNKEY]&dbtr=aff_[AFFILIATE]"
@@ -22,7 +22,7 @@ language: "de"
 # [NEU] 24 Stunden Startup von Thomas Klußmann / Gründer.de
 
 > Product ID `32174` · Digistore24 productId `309532` · [HTML profile page](../../produkte/neu-24-stunden-startup-von-thomas-klu-mann-gr-nder-de-32174.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

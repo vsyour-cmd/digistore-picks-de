@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2020-08-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://xxlpromo.com/instagram-follower-kaufen/?aff=adminstore#aff=adminstore"
 sales_page: "https://xxlpromo.com/instagram-follower-kaufen/"
@@ -22,7 +22,7 @@ language: "de"
 # Social Seeding: 25 echte deutsche Instagram Follower
 
 > Product ID `40681` · Digistore24 productId `339519` · [HTML profile page](../../produkte/social-seeding-25-echte-deutsche-instagram-follower-40681.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

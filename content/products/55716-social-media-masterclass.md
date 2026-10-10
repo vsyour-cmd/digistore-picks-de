@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing"]
 listed_since: "2026-02-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/670803?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/670803"
@@ -22,7 +22,7 @@ language: "de"
 # Social Media Masterclass
 
 > Product ID `55716` · Digistore24 productId `670803` · [HTML profile page](../../produkte/social-media-masterclass-55716.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

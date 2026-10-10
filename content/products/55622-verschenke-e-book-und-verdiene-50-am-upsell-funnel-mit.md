@@ -13,7 +13,7 @@ cancel_rate_pct: 0.11
 categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
 listed_since: "2024-07-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://byebyehamsterrad.de/die-macht-der-bilder/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyehamsterrad.de/die-macht-der-bilder/"
@@ -22,7 +22,7 @@ language: "de"
 # Verschenke E-Book und verdiene 50% am Upsell Funnel mit
 
 > Product ID `55622` · Digistore24 productId `563358` · [HTML profile page](../../produkte/verschenke-e-book-und-verdiene-50-am-upsell-funnel-mit-55622.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2014-04-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "http://www.literatur-mathematik.de?aff=adminstore#aff=adminstore"
 sales_page: "http://www.literatur-mathematik.de"
@@ -22,7 +22,7 @@ language: "de"
 # Schneller kopfrechnen als der Taschenrechner
 
 > Product ID `12931` · Digistore24 productId `24453` · [HTML profile page](../../produkte/schneller-kopfrechnen-als-der-taschenrechner-12931.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

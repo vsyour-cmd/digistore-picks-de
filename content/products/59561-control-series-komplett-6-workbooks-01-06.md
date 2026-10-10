@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://control-bundle.pages.dev/?aff=adminstore#aff=adminstore"
 sales_page: "https://control-bundle.pages.dev/"
@@ -22,7 +22,7 @@ language: "de"
 # CONTROL Series Komplett — 6 Workbooks (01–06)
 
 > Product ID `59561` · Digistore24 productId `736276` · [HTML profile page](../../produkte/control-series-komplett-6-workbooks-01-06-59561.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

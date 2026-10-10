@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-08-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://rita-scheer.de/social-cashflow?aff=adminstore#aff=adminstore"
 sales_page: "https://rita-scheer.de/social-cashflow"
@@ -22,7 +22,7 @@ language: "de"
 # Social Cashflow für Instagram, Facebook Tiktok
 
 > Product ID `58244` · Digistore24 productId `693344` · [HTML profile page](../../produkte/social-cashflow-f-r-instagram-facebook-tiktok-58244.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

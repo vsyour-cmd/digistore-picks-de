@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2026-05-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/4ZBTMEP2xZE2TPxEY?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/4ZBTMEP2xZE2TPxEY"
@@ -22,7 +22,7 @@ language: "de"
 # Commission Kickstart: In 30 Tagen zur ersten Affiliate-Provi
 
 > Product ID `56624` · Digistore24 productId `693278` · [HTML profile page](../../produkte/commission-kickstart-in-30-tagen-zur-ersten-affiliate-provi-56624.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

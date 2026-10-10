@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2020-07-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://kolibri-school.de/sommer-motive?aff=adminstore#aff=adminstore"
 sales_page: "https://kolibri-school.de/sommer-motive"
@@ -22,7 +22,7 @@ language: "de"
 # Kreativer online Malkurs für Kinder "Sommer Motive"
 
 > Product ID `37475` · Digistore24 productId `335967` · [HTML profile page](../../produkte/kreativer-online-malkurs-f-r-kinder-sommer-motive-37475.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

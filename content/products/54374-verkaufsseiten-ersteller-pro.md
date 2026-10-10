@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
 listed_since: "2025-10-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://verkaufsseiten-ersteller-page.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://verkaufsseiten-ersteller-page.netlify.app/"
@@ -22,7 +22,7 @@ language: "de"
 # Verkaufsseiten-Ersteller Pro
 
 > Product ID `54374` · Digistore24 productId `640720` · [HTML profile page](../../produkte/verkaufsseiten-ersteller-pro-54374.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

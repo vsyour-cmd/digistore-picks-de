@@ -13,7 +13,7 @@ cancel_rate_pct: 5.85
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-01-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.zielgesundheit.de/derherrdesgeistes/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.zielgesundheit.de/derherrdesgeistes/"
@@ -22,7 +22,7 @@ language: "de"
 # Der Herr des Geistes
 
 > Product ID `48989` · Digistore24 productId `659362` · [HTML profile page](../../produkte/der-herr-des-geistes-48989.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2017-04-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://www.singwithpassion.com/singen-lernen-online-video-kurs-singen-lernen-das-musst-du-wissen/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.singwithpassion.com/singen-lernen-online-video-kurs-singen-lernen-das-musst-du-wissen/"
@@ -22,7 +22,7 @@ language: "de"
 # Online-Video-Kurs "Singen lernen - Das musst Du wissen"
 
 > Product ID `15871` · Digistore24 productId `130059` · [HTML profile page](../../produkte/online-video-kurs-singen-lernen-das-musst-du-wissen-15871.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

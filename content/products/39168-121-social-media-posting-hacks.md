@@ -13,7 +13,7 @@ cancel_rate_pct: 1.57
 categories: ["Social Media"]
 listed_since: "2015-02-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://torstenjaeger.com/121socialmediapostinghacks?aff=adminstore#aff=adminstore"
 sales_page: "https://torstenjaeger.com/121socialmediapostinghacks"
@@ -22,7 +22,7 @@ language: "de"
 # 121 Social Media Posting Hacks
 
 > Product ID `39168` · Digistore24 productId `42599` · [HTML profile page](../../produkte/121-social-media-posting-hacks-39168.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Personal Development","Profession & Job"]
 listed_since: "2024-04-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://expertentools.shop/360-erfolgskompass/?aff=adminstore#aff=adminstore"
 sales_page: "https://expertentools.shop/360-erfolgskompass/"
@@ -22,7 +22,7 @@ language: "de"
 # Onlinekurs | 360° Erfolgs-Kompass: Vom Frust zum Triumph!
 
 > Product ID `48010` · Digistore24 productId `548110` · [HTML profile page](../../produkte/onlinekurs-360-erfolgs-kompass-vom-frust-zum-triumph-48010.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

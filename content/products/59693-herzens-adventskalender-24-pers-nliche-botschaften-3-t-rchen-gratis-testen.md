@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Family & Children","Hobby & Craft"]
 listed_since: "2026-09-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://ahliving.de/adventskalender/?aff=adminstore#aff=adminstore"
 sales_page: "https://ahliving.de/adventskalender/"
@@ -22,7 +22,7 @@ language: "de"
 # Herzens-Adventskalender – 24 persönliche Botschaften, 3 Türchen gratis testen
 
 > Product ID `59693` · Digistore24 productId `737348` · [HTML profile page](../../produkte/herzens-adventskalender-24-pers-nliche-botschaften-3-t-rchen-gratis-testen-59693.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2020-04-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://erfolgreich-lernen.online/?aff=adminstore#aff=adminstore"
 sales_page: "https://erfolgreich-lernen.online/"
@@ -22,7 +22,7 @@ language: "de"
 # ERFOLGREICH LERNEN - Der Kurs für den Wissensvorsprung
 
 > Product ID `33720` · Digistore24 productId `319119` · [HTML profile page](../../produkte/erfolgreich-lernen-der-kurs-f-r-den-wissensvorsprung-33720.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

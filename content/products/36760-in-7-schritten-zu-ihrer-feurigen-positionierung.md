@@ -13,7 +13,7 @@ cancel_rate_pct: 0.46
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-03-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://buch.der-bayerische-vertriebsfreak.de/in-7-schritten-zur-feurigen-positionierung?aff=adminstore#aff=adminstore"
 sales_page: "https://buch.der-bayerische-vertriebsfreak.de/in-7-schritten-zur-feurigen-positionierung"
@@ -22,7 +22,7 @@ language: "de"
 # In 7 Schritten zu Ihrer feurigen Positionierung
 
 > Product ID `36760` · Digistore24 productId `376616` · [HTML profile page](../../produkte/in-7-schritten-zu-ihrer-feurigen-positionierung-36760.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

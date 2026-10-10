@@ -13,7 +13,7 @@ cancel_rate_pct: 3.05
 categories: ["Dancing & Music","Education","Hobby & Craft"]
 listed_since: "2022-07-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.gitarrenbeginner.de/lagerfeuersessions/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.gitarrenbeginner.de/lagerfeuersessions/"
@@ -22,7 +22,7 @@ language: "de"
 # Gitarre lernen: Die Lagerfeuersessions
 
 > Product ID `46148` · Digistore24 productId `451458` · [HTML profile page](../../produkte/gitarre-lernen-die-lagerfeuersessions-46148.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

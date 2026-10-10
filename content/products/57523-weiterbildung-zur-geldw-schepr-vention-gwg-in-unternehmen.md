@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Law & Justice","Personal Development"]
 listed_since: "2026-07-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://sachkundelehrgaenge.de/digistore24-weiterbildung-zur-geldwaeschepraevention-gwg/?aff=adminstore#aff=adminstore"
 sales_page: "https://sachkundelehrgaenge.de/digistore24-weiterbildung-zur-geldwaeschepraevention-gwg/"
@@ -22,7 +22,7 @@ language: "de"
 # Weiterbildung zur Geldwäscheprävention (GWG) in Unternehmen
 
 > Product ID `57523` · Digistore24 productId `711557` · [HTML profile page](../../produkte/weiterbildung-zur-geldw-schepr-vention-gwg-in-unternehmen-57523.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

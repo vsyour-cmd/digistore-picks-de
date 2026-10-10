@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Photography & Film","Software"]
 listed_since: "2026-09-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/734140?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/734140"
@@ -22,7 +22,7 @@ language: "de"
 # Photoshop CC Bildbearbeitung Komplettkurs
 
 > Product ID `59635` · Digistore24 productId `734140` · [HTML profile page](../../produkte/photoshop-cc-bildbearbeitung-komplettkurs-59635.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

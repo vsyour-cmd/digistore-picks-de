@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-09-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://auranit.de/praktisches-jahr-im-ausland/?aff=adminstore#aff=adminstore"
 sales_page: "https://auranit.de/praktisches-jahr-im-ausland/"
@@ -22,7 +22,7 @@ language: "de"
 # Das Karriere Master-Kit für das praktische Jahr im Ausland
 
 > Product ID `59064` · Digistore24 productId `727265` · [HTML profile page](../../produkte/das-karriere-master-kit-f-r-das-praktische-jahr-im-ausland-59064.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

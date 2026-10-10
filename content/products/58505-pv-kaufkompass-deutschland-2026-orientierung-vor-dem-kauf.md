@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Home & Garden","Finances"]
 listed_since: "2026-08-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/724620?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/724620"
@@ -22,7 +22,7 @@ language: "de"
 # PV-Kaufkompass Deutschland 2026 Orientierung vor dem Kauf
 
 > Product ID `58505` · Digistore24 productId `724620` · [HTML profile page](../../produkte/pv-kaufkompass-deutschland-2026-orientierung-vor-dem-kauf-58505.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

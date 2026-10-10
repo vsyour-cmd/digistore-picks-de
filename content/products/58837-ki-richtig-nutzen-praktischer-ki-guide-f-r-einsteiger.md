@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2026-09-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "http://ki-richtig-nutzen.my.canva.site?aff=adminstore#aff=adminstore"
 sales_page: "http://ki-richtig-nutzen.my.canva.site"
@@ -22,7 +22,7 @@ language: "de"
 # KI richtig nutzen – Praktischer KI-Guide für Einsteiger
 
 > Product ID `58837` · Digistore24 productId `727519` · [HTML profile page](../../produkte/ki-richtig-nutzen-praktischer-ki-guide-f-r-einsteiger-58837.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-09-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://umfragen.geld-verdienen.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://umfragen.geld-verdienen.de/"
@@ -22,7 +22,7 @@ language: "de"
 # Mit Umfragen lukrativ Geld verdienen
 
 > Product ID `49784` · Digistore24 productId `571310` · [HTML profile page](../../produkte/mit-umfragen-lukrativ-geld-verdienen-49784.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

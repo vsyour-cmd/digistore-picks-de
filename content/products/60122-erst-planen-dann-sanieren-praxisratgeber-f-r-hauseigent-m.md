@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Hobby & Craft","Home & Garden","Marketing Services"]
 listed_since: "2026-10-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://haus-energieberater.de/erst-planen-dann-sanieren/?aff=adminstore#aff=adminstore"
 sales_page: "https://haus-energieberater.de/erst-planen-dann-sanieren/"
@@ -22,7 +22,7 @@ language: "de"
 # Erst planen, dann sanieren | Praxisratgeber für Hauseigentüm
 
 > Product ID `60122` · Digistore24 productId `740513` · [HTML profile page](../../produkte/erst-planen-dann-sanieren-praxisratgeber-f-r-hauseigent-m-60122.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 1.02
 categories: ["Online Marketing & E-Business","Photography & Film","Social Media"]
 listed_since: "2020-09-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/iphone-fotokurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.unaufschiebbar.de/iphone-fotokurs/"
@@ -22,7 +22,7 @@ language: "de"
 # iPhone Fotokurs [Online-Kurs]
 
 > Product ID `35457` · Digistore24 productId `349188` · [HTML profile page](../../produkte/iphone-fotokurs-online-kurs-35457.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

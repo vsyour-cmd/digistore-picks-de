@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Leadership & Management"]
 listed_since: "2021-04-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://mq-gesellschaft-koeln.coachy.net/lp/azav-konforme-prozesse-definieren?aff=adminstore#aff=adminstore"
 sales_page: "https://mq-gesellschaft-koeln.coachy.net/lp/azav-konforme-prozesse-definieren"
@@ -22,7 +22,7 @@ language: "de"
 # AZAV Online-Akademie - Prozesse in der AZAV
 
 > Product ID `36522` · Digistore24 productId `384784` · [HTML profile page](../../produkte/azav-online-akademie-prozesse-in-der-azav-36522.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

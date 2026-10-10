@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/pakete/mega-paket?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/pakete/mega-paket"
@@ -22,7 +22,7 @@ language: "de"
 # Mega-Paket: Alle 88 Social-Media-E-Books – 50 % Provision
 
 > Product ID `56998` · Digistore24 productId `701425` · [HTML profile page](../../produkte/mega-paket-alle-88-social-media-e-books-50-provision-56998.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

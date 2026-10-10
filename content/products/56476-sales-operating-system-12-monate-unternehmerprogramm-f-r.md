@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-04-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.verkaufen-mit-system.com?aff=adminstore#aff=adminstore"
 sales_page: "https://www.verkaufen-mit-system.com"
@@ -22,7 +22,7 @@ language: "de"
 # Sales Operating System® – 12 Monate Unternehmerprogramm für
 
 > Product ID `56476` · Digistore24 productId `687033` · [HTML profile page](../../produkte/sales-operating-system-12-monate-unternehmerprogramm-f-r-56476.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

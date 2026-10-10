@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Law & Justice","Profession & Job"]
 listed_since: "2019-06-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.abfindunginfo.de/abfindungsrechner-mein-persoenliches-dankeschoen.html/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.abfindunginfo.de/abfindungsrechner-mein-persoenliches-dankeschoen.html/"
@@ -22,7 +22,7 @@ language: "de"
 # Steuern sparen für Arbeitnehmer - nach dem Job (Ratgeber)
 
 > Product ID `29102` · Digistore24 productId `274687` · [HTML profile page](../../produkte/steuern-sparen-f-r-arbeitnehmer-nach-dem-job-ratgeber-29102.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

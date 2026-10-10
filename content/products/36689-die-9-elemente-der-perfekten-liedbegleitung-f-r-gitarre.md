@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2021-01-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://gitarren-onlinekurse.at/gitarre-lernen-die-9-elemente/?aff=adminstore#aff=adminstore"
 sales_page: "http://gitarren-onlinekurse.at/gitarre-lernen-die-9-elemente/"
@@ -22,7 +22,7 @@ language: "de"
 # Die 9 Elemente der perfekten Liedbegleitung für Gitarre
 
 > Product ID `36689` · Digistore24 productId `369487` · [HTML profile page](../../produkte/die-9-elemente-der-perfekten-liedbegleitung-f-r-gitarre-36689.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

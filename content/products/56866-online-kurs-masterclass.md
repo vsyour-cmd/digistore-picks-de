@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-06-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://anchukoegl.com/obm-sonderpreis/?aff=adminstore#aff=adminstore"
 sales_page: "https://anchukoegl.com/obm-sonderpreis/"
@@ -22,7 +22,7 @@ language: "de"
 # Online Kurs Masterclass
 
 > Product ID `56866` · Digistore24 productId `444328` · [HTML profile page](../../produkte/online-kurs-masterclass-56866.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 

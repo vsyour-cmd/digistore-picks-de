@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Profession & Job"]
 listed_since: "2018-11-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.neurostreams.de/portfolio/gegen-lampenfieber/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.neurostreams.de/portfolio/gegen-lampenfieber/"
@@ -22,7 +22,7 @@ language: "de"
 # Neurostreams™ Heiterkeit vor der Schlacht
 
 > Product ID `47044` · Digistore24 productId `250025` · [HTML profile page](../../produkte/neurostreams-heiterkeit-vor-der-schlacht-47044.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

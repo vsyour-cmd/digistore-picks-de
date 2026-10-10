@@ -13,7 +13,7 @@ cancel_rate_pct: 5.86
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-04-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.lifestylerebell.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.lifestylerebell.de/"
@@ -22,7 +22,7 @@ language: "de"
 # Lifestyle Rebell
 
 > Product ID `50017` · Digistore24 productId `608337` · [HTML profile page](../../produkte/lifestyle-rebell-50017.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

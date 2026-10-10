@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2025-01-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://noebauerfxj.wixsite.com/leben-kroatien?aff=adminstore#aff=adminstore"
 sales_page: "https://noebauerfxj.wixsite.com/leben-kroatien"
@@ -22,7 +22,7 @@ language: "de"
 # Leben und Arbeiten in Kroatien
 
 > Product ID `50964` · Digistore24 productId `590371` · [HTML profile page](../../produkte/leben-und-arbeiten-in-kroatien-50964.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

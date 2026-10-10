@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2025-09-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://marilia.de/ratgeber/ebook-darmgesund-in-30-tagen/?aff=adminstore#aff=adminstore"
 sales_page: "https://marilia.de/ratgeber/ebook-darmgesund-in-30-tagen/"
@@ -22,7 +22,7 @@ language: "de"
 # Darmgesund in 30 Tagen – 60 % Provision - hohe Nachfrage
 
 > Product ID `53963` · Digistore24 productId `634974` · [HTML profile page](../../produkte/darmgesund-in-30-tagen-60-provision-hohe-nachfrage-53963.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

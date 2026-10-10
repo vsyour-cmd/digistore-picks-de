@@ -13,7 +13,7 @@ cancel_rate_pct: 0.71
 categories: ["Health & Fitness","Sport"]
 listed_since: "2014-04-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://pilatesandfriends.com/abo?aff=adminstore#aff=adminstore"
 sales_page: "https://pilatesandfriends.com/abo"
@@ -22,7 +22,7 @@ language: "de"
 # Pilates&Friends Abo - Das Online Pilates Paket
 
 > Product ID `3663` · Digistore24 productId `23599` · [HTML profile page](../../produkte/pilates-friends-abo-das-online-pilates-paket-3663.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2024-02-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://michelweinand.systeme.io/affiliate-star?aff=adminstore#aff=adminstore"
 sales_page: "https://michelweinand.systeme.io/affiliate-star"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Insights
 
 > Product ID `50261` · Digistore24 productId `537534` · [HTML profile page](../../produkte/affiliate-insights-50261.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 12.33
 categories: ["Food & Drink"]
 listed_since: "2021-11-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://machdichschlank.info/66-low-carb-rezepte/?aff=adminstore#aff=adminstore"
 sales_page: "https://machdichschlank.info/66-low-carb-rezepte/"
@@ -22,7 +22,7 @@ language: "de"
 # Die 66 besten Low Carb Rezepte Gratis Buch von MDS
 
 > Product ID `38594` · Digistore24 productId `415828` · [HTML profile page](../../produkte/die-66-besten-low-carb-rezepte-gratis-buch-von-mds-38594.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Sales Training"]
 listed_since: "2026-06-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/649955?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/649955"
@@ -22,7 +22,7 @@ language: "de"
 # Direkt-Vertrieb - Die König Disziplin
 
 > Product ID `56886` · Digistore24 productId `649955` · [HTML profile page](../../produkte/direkt-vertrieb-die-k-nig-disziplin-56886.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

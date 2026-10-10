@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2021-09-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://nadjahorlacher.com/happy-money-girl-starter/?aff=adminstore#aff=adminstore"
 sales_page: "https://nadjahorlacher.com/happy-money-girl-starter/"
@@ -22,7 +22,7 @@ language: "de"
 # Happy Money Girl "Starter"
 
 > Product ID `38048` · Digistore24 productId `405536` · [HTML profile page](../../produkte/happy-money-girl-starter-38048.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

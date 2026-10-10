@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2025-10-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://360gradpferd.de/workbook-anatomie-biomechanik/?aff=adminstore#aff=adminstore"
 sales_page: "https://360gradpferd.de/workbook-anatomie-biomechanik/"
@@ -22,7 +22,7 @@ language: "de"
 # eBook: Anatomie und Biomechanik
 
 > Product ID `55267` · Digistore24 productId `642294` · [HTML profile page](../../produkte/ebook-anatomie-und-biomechanik-55267.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

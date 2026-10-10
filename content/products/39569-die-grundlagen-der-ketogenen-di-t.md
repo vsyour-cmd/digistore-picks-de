@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2022-03-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/DFT9NQ3fBXnsjT3To?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/DFT9NQ3fBXnsjT3To"
@@ -22,7 +22,7 @@ language: "de"
 # Die Grundlagen der Ketogenen Diät
 
 > Product ID `39569` · Digistore24 productId `436041` · [HTML profile page](../../produkte/die-grundlagen-der-ketogenen-di-t-39569.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Trading Products"]
 listed_since: "2023-06-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://christophneuwirth.com/lp/inner-circle-gruppe-exklusive-trading-investment-signale/?aff=adminstore#aff=adminstore"
 sales_page: "https://christophneuwirth.com/lp/inner-circle-gruppe-exklusive-trading-investment-signale/"
@@ -22,7 +22,7 @@ language: "de"
 # Inner Circle Mitgliedschaft. Trading & Investment Gruppe
 
 > Product ID `44934` · Digistore24 productId `502495` · [HTML profile page](../../produkte/inner-circle-mitgliedschaft-trading-investment-gruppe-44934.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

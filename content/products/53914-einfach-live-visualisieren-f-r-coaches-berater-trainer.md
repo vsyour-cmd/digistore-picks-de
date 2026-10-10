@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2025-09-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://einfach-visualisieren.coachy.net/lp/einfach-live-visualisieren/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfach-visualisieren.coachy.net/lp/einfach-live-visualisieren/"
@@ -22,7 +22,7 @@ language: "de"
 # Einfach live visualisieren - für Coaches, Berater, Trainer
 
 > Product ID `53914` · Digistore24 productId `633664` · [HTML profile page](../../produkte/einfach-live-visualisieren-f-r-coaches-berater-trainer-53914.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

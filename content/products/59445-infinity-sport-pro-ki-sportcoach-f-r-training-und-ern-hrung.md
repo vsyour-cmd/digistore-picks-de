@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Sport"]
 listed_since: "2026-09-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://infinity-sport.business-coach-uwe-boehle.ch/guthaben-sport.php?aff=adminstore#aff=adminstore"
 sales_page: "https://infinity-sport.business-coach-uwe-boehle.ch/guthaben-sport.php"
@@ -22,7 +22,7 @@ language: "de"
 # INFINITY SPORT PRO  KI-Sportcoach für Training und Ernährung
 
 > Product ID `59445` · Digistore24 productId `726292` · [HTML profile page](../../produkte/infinity-sport-pro-ki-sportcoach-f-r-training-und-ern-hrung-59445.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

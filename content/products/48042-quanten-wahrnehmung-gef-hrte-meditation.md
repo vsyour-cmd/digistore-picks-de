@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-04-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.matrixreport.blog/quantenwahrnehmung/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.matrixreport.blog/quantenwahrnehmung/"
@@ -22,7 +22,7 @@ language: "de"
 # Quanten Wahrnehmung | Geführte Meditation
 
 > Product ID `48042` · Digistore24 productId `548600` · [HTML profile page](../../produkte/quanten-wahrnehmung-gef-hrte-meditation-48042.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

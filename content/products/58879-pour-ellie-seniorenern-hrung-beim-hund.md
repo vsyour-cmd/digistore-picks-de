@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2026-09-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://lisa-jakob.app.mentortools.com/senior-hunde-und-basis-kurs?aff=adminstore#aff=adminstore"
 sales_page: "https://lisa-jakob.app.mentortools.com/senior-hunde-und-basis-kurs"
@@ -22,7 +22,7 @@ language: "de"
 # Pour Ellie – Seniorenernährung beim Hund
 
 > Product ID `58879` · Digistore24 productId `653103` · [HTML profile page](../../produkte/pour-ellie-seniorenern-hrung-beim-hund-58879.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

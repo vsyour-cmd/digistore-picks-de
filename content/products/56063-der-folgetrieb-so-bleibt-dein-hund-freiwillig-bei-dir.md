@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-03-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/680060?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/680060"
@@ -22,7 +22,7 @@ language: "de"
 # Der Folgetrieb - So bleibt dein Hund freiwillig bei dir
 
 > Product ID `56063` · Digistore24 productId `680060` · [HTML profile page](../../produkte/der-folgetrieb-so-bleibt-dein-hund-freiwillig-bei-dir-56063.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

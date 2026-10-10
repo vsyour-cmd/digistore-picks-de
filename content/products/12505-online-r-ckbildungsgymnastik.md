@@ -13,7 +13,7 @@ cancel_rate_pct: 1.22
 categories: ["Health & Fitness"]
 listed_since: "2016-06-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://mami-first.de/lpg/?aff=adminstore#aff=adminstore"
 sales_page: "https://mami-first.de/lpg/"
@@ -22,7 +22,7 @@ language: "de"
 # Online Rückbildungsgymnastik
 
 > Product ID `12505` · Digistore24 productId `84939` · [HTML profile page](../../produkte/online-r-ckbildungsgymnastik-12505.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

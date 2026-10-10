@@ -13,7 +13,7 @@ cancel_rate_pct: 2.03
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-04-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://traffic-commando.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://traffic-commando.com/"
@@ -22,7 +22,7 @@ language: "de"
 # Traffic Commando
 
 > Product ID `36702` · Digistore24 productId `383261` · [HTML profile page](../../produkte/traffic-commando-36702.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

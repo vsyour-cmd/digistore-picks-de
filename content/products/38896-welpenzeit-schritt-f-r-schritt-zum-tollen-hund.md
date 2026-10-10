@@ -13,7 +13,7 @@ cancel_rate_pct: 0.4
 categories: ["Animals & Pets"]
 listed_since: "2018-12-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://hundeerziehung-hundepension.de/9wzvk7ytt?aff=adminstore#aff=adminstore"
 sales_page: "https://hundeerziehung-hundepension.de/9wzvk7ytt"
@@ -22,7 +22,7 @@ language: "de"
 # WELPENZEIT - Schritt für Schritt zum tollen Hund
 
 > Product ID `38896` · Digistore24 productId `252196` · [HTML profile page](../../produkte/welpenzeit-schritt-f-r-schritt-zum-tollen-hund-38896.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Services","Marketing Services"]
 listed_since: "2026-02-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://rs-webdesign.eu/workbook?aff=adminstore#aff=adminstore"
 sales_page: "https://rs-webdesign.eu/workbook"
@@ -22,7 +22,7 @@ language: "de"
 # Landingpage Workbook für mehr Anfragen
 
 > Product ID `56164` · Digistore24 productId `681695` · [HTML profile page](../../produkte/landingpage-workbook-f-r-mehr-anfragen-56164.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

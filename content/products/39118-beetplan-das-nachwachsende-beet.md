@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2021-03-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.meine-ernte.shop/beetplan-das-nachwachsende-beet-ds24/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meine-ernte.shop/beetplan-das-nachwachsende-beet-ds24/"
@@ -22,7 +22,7 @@ language: "de"
 # Beetplan „Das Nachwachsende Beet“
 
 > Product ID `39118` · Digistore24 productId `380867` · [HTML profile page](../../produkte/beetplan-das-nachwachsende-beet-39118.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

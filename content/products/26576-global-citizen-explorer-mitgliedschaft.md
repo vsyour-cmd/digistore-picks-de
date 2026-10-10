@@ -13,7 +13,7 @@ cancel_rate_pct: 1.75
 categories: ["Business & Investment"]
 listed_since: "2018-07-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.globalcitizenexplorer.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.globalcitizenexplorer.com/"
@@ -22,7 +22,7 @@ language: "de"
 # Global Citizen Explorer Mitgliedschaft
 
 > Product ID `26576` · Digistore24 productId `233950` · [HTML profile page](../../produkte/global-citizen-explorer-mitgliedschaft-26576.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

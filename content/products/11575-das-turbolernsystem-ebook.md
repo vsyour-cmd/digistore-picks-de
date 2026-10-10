@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2014-04-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.lerntipp.com/turbolernstrategie?aff=adminstore#aff=adminstore"
 sales_page: "https://www.lerntipp.com/turbolernstrategie"
@@ -22,7 +22,7 @@ language: "de"
 # Das Turbolernsystem - Ebook
 
 > Product ID `11575` · Digistore24 productId `24351` · [HTML profile page](../../produkte/das-turbolernsystem-ebook-11575.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

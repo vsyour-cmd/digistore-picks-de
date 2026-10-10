@@ -13,7 +13,7 @@ cancel_rate_pct: 29.62
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2022-01-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.michael-koenig-breuss.com/seelensprache-behandlungs-videos/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.michael-koenig-breuss.com/seelensprache-behandlungs-videos/"
@@ -22,7 +22,7 @@ language: "de"
 # COVID-Impfung Ausleitungs-VIDEO
 
 > Product ID `42088` · Digistore24 productId `427128` · [HTML profile page](../../produkte/covid-impfung-ausleitungs-video-42088.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

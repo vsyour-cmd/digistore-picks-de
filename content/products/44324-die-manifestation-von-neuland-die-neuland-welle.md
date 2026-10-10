@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2023-05-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/499575?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/499575"
@@ -22,7 +22,7 @@ language: "de"
 # Die Manifestation von NeuLand​ + Die NeuLand Welle
 
 > Product ID `44324` · Digistore24 productId `499575` · [HTML profile page](../../produkte/die-manifestation-von-neuland-die-neuland-welle-44324.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

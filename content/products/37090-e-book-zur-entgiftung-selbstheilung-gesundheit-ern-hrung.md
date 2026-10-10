@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2021-07-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.mhs-4-you.com/entgiftungsplan?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mhs-4-you.com/entgiftungsplan"
@@ -22,7 +22,7 @@ language: "de"
 # E-Book zur Entgiftung, Selbstheilung, Gesundheit + Ernährung
 
 > Product ID `37090` · Digistore24 productId `396921` · [HTML profile page](../../produkte/e-book-zur-entgiftung-selbstheilung-gesundheit-ern-hrung-37090.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

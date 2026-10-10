@@ -13,7 +13,7 @@ cancel_rate_pct: 29.62
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2022-01-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.michael-koenig-breuss.com/seelensprache-behandlungs-videos/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.michael-koenig-breuss.com/seelensprache-behandlungs-videos/"
@@ -22,7 +22,7 @@ language: "de"
 # PCR-Test Nebenwirkungs-Ausleitungs-VIDEO
 
 > Product ID `42114` · Digistore24 productId `426092` · [HTML profile page](../../produkte/pcr-test-nebenwirkungs-ausleitungs-video-42114.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

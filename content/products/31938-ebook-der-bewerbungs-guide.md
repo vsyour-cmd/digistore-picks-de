@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2020-03-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/313274?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/313274"
@@ -22,7 +22,7 @@ language: "de"
 # eBook: Der Bewerbungs-Guide
 
 > Product ID `31938` · Digistore24 productId `313274` · [HTML profile page](../../produkte/ebook-der-bewerbungs-guide-31938.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

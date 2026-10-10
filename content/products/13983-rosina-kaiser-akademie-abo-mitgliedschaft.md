@@ -13,7 +13,7 @@ cancel_rate_pct: 2.99
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2016-10-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.rosinakaiser.de/webinar?aff=adminstore#aff=adminstore"
 sales_page: "https://www.rosinakaiser.de/webinar"
@@ -22,7 +22,7 @@ language: "de"
 # Rosina-Kaiser-Akademie (ABO-Mitgliedschaft)
 
 > Product ID `13983` · Digistore24 productId `100605` · [HTML profile page](../../produkte/rosina-kaiser-akademie-abo-mitgliedschaft-13983.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

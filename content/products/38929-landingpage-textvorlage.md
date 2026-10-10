@@ -13,7 +13,7 @@ cancel_rate_pct: 1.23
 categories: ["Profession & Job"]
 listed_since: "2022-01-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.jyotimaflak.com/landingpagebauen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.jyotimaflak.com/landingpagebauen/"
@@ -22,7 +22,7 @@ language: "de"
 # Landingpage Textvorlage
 
 > Product ID `38929` · Digistore24 productId `426468` · [HTML profile page](../../produkte/landingpage-textvorlage-38929.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

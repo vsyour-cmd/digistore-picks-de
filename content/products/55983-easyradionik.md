@@ -13,7 +13,7 @@ cancel_rate_pct: 2.03
 categories: ["Software","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-02-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/670575/adminstore"
 sales_page: "https://easyradionik.de/index.php?mtm_source=digistore24&mtm_medium=affiliate&mtm_campaign=dgs_[CAMPAIGNKEY]&mtm_content=aff_[AFFILIATE]"
@@ -22,7 +22,7 @@ language: "de"
 # EasyRadionik
 
 > Product ID `55983` · Digistore24 productId `670575` · [HTML profile page](../../produkte/easyradionik-55983.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

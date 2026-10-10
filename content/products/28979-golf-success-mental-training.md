@@ -13,7 +13,7 @@ cancel_rate_pct: 0.26
 categories: ["Personal Development","Sport"]
 listed_since: "2019-04-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/269752?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/269752"
@@ -22,7 +22,7 @@ language: "de"
 # Golf-Success Mental-Training
 
 > Product ID `28979` · Digistore24 productId `269752` · [HTML profile page](../../produkte/golf-success-mental-training-28979.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

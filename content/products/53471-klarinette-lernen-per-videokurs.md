@@ -13,7 +13,7 @@ cancel_rate_pct: 2.79
 categories: ["Education"]
 listed_since: "2023-08-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://onlineklarinettelernen.com/videokurs-startklar-der-einstieg-ins-klarinettenspiel/?aff=adminstore#aff=adminstore"
 sales_page: "https://onlineklarinettelernen.com/videokurs-startklar-der-einstieg-ins-klarinettenspiel/"
@@ -22,7 +22,7 @@ language: "de"
 # Klarinette lernen per Videokurs
 
 > Product ID `53471` · Digistore24 productId `510473` · [HTML profile page](../../produkte/klarinette-lernen-per-videokurs-53471.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

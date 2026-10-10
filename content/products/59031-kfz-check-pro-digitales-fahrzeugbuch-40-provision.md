@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Hobby & Craft"]
 listed_since: "2026-09-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/731276?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/731276"
@@ -22,7 +22,7 @@ language: "de"
 # KFZ CHECK PRO – Digitales Fahrzeugbuch | 40 % Provision
 
 > Product ID `59031` · Digistore24 productId `731276` · [HTML profile page](../../produkte/kfz-check-pro-digitales-fahrzeugbuch-40-provision-59031.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

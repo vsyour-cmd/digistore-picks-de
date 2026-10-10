@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2019-11-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.ad-campus.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ad-campus.de"
@@ -22,7 +22,7 @@ language: "de"
 # Ad Campus Online Plattform - 40% Lifetime Provision
 
 > Product ID `34308` · Digistore24 productId `295505` · [HTML profile page](../../produkte/ad-campus-online-plattform-40-lifetime-provision-34308.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

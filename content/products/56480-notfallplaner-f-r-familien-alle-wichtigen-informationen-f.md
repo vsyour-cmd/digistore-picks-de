@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children","Health & Fitness","Personal Development"]
 listed_since: "2026-05-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://kayroo-planer.my.canva.site/notfallplaner?aff=adminstore#aff=adminstore"
 sales_page: "https://kayroo-planer.my.canva.site/notfallplaner"
@@ -22,7 +22,7 @@ language: "de"
 # Notfallplaner für Familien – Alle wichtigen Informationen fü
 
 > Product ID `56480` · Digistore24 productId `690188` · [HTML profile page](../../produkte/notfallplaner-f-r-familien-alle-wichtigen-informationen-f-56480.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-02-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://madrigenum.dworak.name/autobiografie-schreiben-schritt-fuer-schritt-zur-eigenen-lebensgeschichte/?aff=adminstore#aff=adminstore"
 sales_page: "http://madrigenum.dworak.name/autobiografie-schreiben-schritt-fuer-schritt-zur-eigenen-lebensgeschichte/"
@@ -22,7 +22,7 @@ language: "de"
 # Erinnerungen verblassen – Ihre Autobiografie bleibt
 
 > Product ID `55476` · Digistore24 productId `667023` · [HTML profile page](../../produkte/erinnerungen-verblassen-ihre-autobiografie-bleibt-55476.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

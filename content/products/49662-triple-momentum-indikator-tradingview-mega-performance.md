@@ -13,7 +13,7 @@ cancel_rate_pct: 10.09
 categories: ["Trading Products"]
 listed_since: "2022-04-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/triple-momentum-trading-indikator/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kagels-trading.de/triple-momentum-trading-indikator/"
@@ -22,7 +22,7 @@ language: "de"
 # Triple Momentum Indikator | TradingView | mega Performance
 
 > Product ID `49662` · Digistore24 productId `439414` · [HTML profile page](../../produkte/triple-momentum-indikator-tradingview-mega-performance-49662.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

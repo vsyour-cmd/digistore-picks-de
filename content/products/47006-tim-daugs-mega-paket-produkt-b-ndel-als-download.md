@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-05-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.timdaugs.com/angebot-mega-paket/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.timdaugs.com/angebot-mega-paket/"
@@ -22,7 +22,7 @@ language: "de"
 # Tim Daugs: MEGA Paket (Produkt-Bündel) als Download
 
 > Product ID `47006` · Digistore24 productId `615173` · [HTML profile page](../../produkte/tim-daugs-mega-paket-produkt-b-ndel-als-download-47006.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

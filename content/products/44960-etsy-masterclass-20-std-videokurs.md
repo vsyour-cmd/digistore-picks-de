@@ -13,7 +13,7 @@ cancel_rate_pct: 6.63
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2023-08-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.lottismasterclass.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.lottismasterclass.de"
@@ -22,7 +22,7 @@ language: "de"
 # Etsy Masterclass - 20 Std Videokurs
 
 > Product ID `44960` · Digistore24 productId `510068` · [HTML profile page](../../produkte/etsy-masterclass-20-std-videokurs-44960.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

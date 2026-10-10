@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2020-02-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://katja-amberg-shop.de/liebeskummerextrem?aff=adminstore#aff=adminstore"
 sales_page: "http://katja-amberg-shop.de/liebeskummerextrem"
@@ -22,7 +22,7 @@ language: "de"
 # Liebeskummer Extrem! | Onlinekurs
 
 > Product ID `40071` · Digistore24 productId `308228` · [HTML profile page](../../produkte/liebeskummer-extrem-onlinekurs-40071.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

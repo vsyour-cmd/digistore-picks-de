@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2020-09-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://tierakademie.andrea-schaedel.de/lp/vermisste-tiere-online/?aff=adminstore#aff=adminstore"
 sales_page: "https://tierakademie.andrea-schaedel.de/lp/vermisste-tiere-online/"
@@ -22,7 +22,7 @@ language: "de"
 # Vermisste Tiere Spezial Online Kurs
 
 > Product ID `37406` · Digistore24 productId `348600` · [HTML profile page](../../produkte/vermisste-tiere-spezial-online-kurs-37406.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

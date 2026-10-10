@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Services"]
 listed_since: "2025-08-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://stephantiegel.online?aff=adminstore#aff=adminstore"
 sales_page: "https://stephantiegel.online"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Startplan – Erfolgreich starten
 
 > Product ID `53538` · Digistore24 productId `629052` · [HTML profile page](../../produkte/affiliate-startplan-erfolgreich-starten-53538.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

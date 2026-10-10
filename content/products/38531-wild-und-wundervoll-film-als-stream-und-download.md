@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2021-11-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.onlinefilmschool.de/wildundwundervollfilm/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.onlinefilmschool.de/wildundwundervollfilm/"
@@ -22,7 +22,7 @@ language: "de"
 # Wild und Wundervoll (Film als Stream und Download)
 
 > Product ID `38531` · Digistore24 productId `417092` · [HTML profile page](../../produkte/wild-und-wundervoll-film-als-stream-und-download-38531.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

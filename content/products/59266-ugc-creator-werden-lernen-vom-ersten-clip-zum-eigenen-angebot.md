@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "rich"
 promo_link: "https://einfachmitmatze.de/ugc/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/ugc/"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # UGC Creator werden lernen: Vom ersten Clip zum eigenen Angebot
 
 > Product ID `59266` · Digistore24 productId `733894` · [HTML profile page](../../produkte/ugc-creator-werden-lernen-vom-ersten-clip-zum-eigenen-angebot-59266.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,29 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** UGC Creator werden lernen · Praxispaket | Einfach mit Matze
+- **Meta description:** UGC mit dem Smartphone lernen: 40 Lerneinheiten, Musterauftrag, Arbeitsbuch und Offline-Werkstatt. Portfolio, Produktvideos und Angebote Schritt für Schritt. 129 € einmalig.
+- **Headline (H1):**
+  > Dein Smartphone. Dein erster Schritt.
+- **Section headlines (H2):**
+  - Ein gutes Video beginnt mit einer guten Frage.
+  - Vom Übungsclip zum eigenen Angebot.
+  - Lesen. Planen. Selber machen.
+  - Einmal kaufen. In deinem Tempo lernen.
+  - Was könntest du als Nächstes filmen?
+  - Das solltest du wissen.
+  - Du musst noch kein Profi sein. Du kannst anfangen zu lernen.
+- **Opening copy (first paragraphs):**
+  > Werkstatt So lernst du Über Matze Einfach mit Matze / UGC-Praxispaket UGC CREATOR WERDEN LERNEN
+  > Du möchtest dir nebenbei etwas aufbauen und filmst gern? Lerne mit Matze, wie du Produktvideos für Marken erstellst – vom ersten Übungsclip bis zum klaren Angebot.
+  > Schriftlicher Selbstlernkurs Deutsch Für Einsteiger „Okay. Wie zeige ich das so, dass man es versteht?“ 129 € inkl. MwSt. · einmalig · kein Abo
+  > Was lerne ich? Die Leseprobe ist verfügbar. Der Verkauf über Digistore24 wird noch eingerichtet.
+- **Questions the sales page answers:**
+  - Welcher Kurs passt zu dir?
+  - Was braucht die Marke?
+  - Was kannst du umsetzen?
+  - Was gehört zum Angebot?
+- **Page word count:** 1504
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

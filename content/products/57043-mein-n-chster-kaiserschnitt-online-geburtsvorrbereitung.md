@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children","Health & Fitness"]
 listed_since: "2026-06-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://bauchgeburt.com/mnk/?aff=adminstore#aff=adminstore"
 sales_page: "https://bauchgeburt.com/mnk/"
@@ -22,7 +22,7 @@ language: "de"
 # Mein nächster Kaiserschnitt – Online Geburtsvorrbereitung
 
 > Product ID `57043` · Digistore24 productId `697892` · [HTML profile page](../../produkte/mein-n-chster-kaiserschnitt-online-geburtsvorrbereitung-57043.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

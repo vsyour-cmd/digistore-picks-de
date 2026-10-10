@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2025-12-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "medium"
 promo_link: "https://www.affyro.com/chatgptmaster.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.affyro.com/chatgptmaster.html"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # CHATGPT MASTER-HANDBUCH 2026
 
 > Product ID `54874` · Digistore24 productId `654439` · [HTML profile page](../../produkte/chatgpt-master-handbuch-2026-54874.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,25 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** ChatGPT Master-Handbuch 2026 | Die Next-Gen Edition
+- **Headline (H1):**
+  > Das ChatGPT Master-Handbuch
+- **Section headlines (H2):**
+  - 95% der Nutzer tippen im Dunkeln.
+  - Das Praxis-System für deinen Alltag
+  - Bereit, der KI einen Schritt voraus zu sein?
+  - Impressum
+  - Datenschutz
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/654439
+- **Opening copy (first paragraphs):**
+  > Die ultimative Anleitung zur professionellen KI-Nutzung. Maximiere deine Produktivität mit GPT-5.5
+  > KI entwickelt sich rasend schnell. Wer ChatGPT heute noch wie eine Suchmaschine bedient, verschenkt 90% des Potenzials. Die 2026 Edition zeigt dir nicht nur, wie du mit der KI chattest, sondern wie du sie als autonomen Assistenten in deinen Alltag integrierst.
+  > Verstehe den entscheidenden Unterschied zwischen dem Allrounder (GPT-5.5) und den neuen "Denker"-Modellen, die komplexe Logik-Ketten (Chain-of-Thought) aufbauen.
+  > Lerne den revolutionären Split-Screen-Modus kennen. Editiere Dokumente und Code live zusammen mit der KI, ohne nerviges Copy-Paste.
+- **Questions the sales page answers:**
+  - Was ist neu in der 2026 Next-Gen Edition?
+- **Page word count:** 294
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

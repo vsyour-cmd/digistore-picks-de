@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Profession & Job","Services"]
 listed_since: "2026-01-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://heinzbader.com/workbook-vorstellungsgespraech-landingpage/?aff=adminstore#aff=adminstore"
 sales_page: "https://heinzbader.com/workbook-vorstellungsgespraech-landingpage/"
@@ -22,7 +22,7 @@ language: "de"
 # Vorstellungsgespräch souverän meistern
 
 > Product ID `55511` · Digistore24 productId `662786` · [HTML profile page](../../produkte/vorstellungsgespr-ch-souver-n-meistern-55511.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

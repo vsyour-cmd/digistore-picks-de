@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2025-12-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://wie-ein-hund-die-welt-sieht.my.canva.site/?aff=adminstore#aff=adminstore"
 sales_page: "https://wie-ein-hund-die-welt-sieht.my.canva.site/"
@@ -22,7 +22,7 @@ language: "de"
 # Wie Hunde die Welt sehen – Hörbuch über Hundepsychologie
 
 > Product ID `54927` · Digistore24 productId `655417` · [HTML profile page](../../produkte/wie-hunde-die-welt-sehen-h-rbuch-ber-hundepsychologie-54927.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Travel & Culture"]
 listed_since: "2026-04-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://bohle-digital.systeme.io/freelancer-toolkit/?aff=adminstore#aff=adminstore"
 sales_page: "https://bohle-digital.systeme.io/freelancer-toolkit/"
@@ -22,7 +22,7 @@ language: "de"
 # 50% Provision: Premium Freelancer Auswanderer Toolkit (97€)
 
 > Product ID `56290` · Digistore24 productId `684867` · [HTML profile page](../../produkte/50-provision-premium-freelancer-auswanderer-toolkit-97-56290.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

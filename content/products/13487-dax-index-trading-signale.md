@@ -13,7 +13,7 @@ cancel_rate_pct: 11.25
 categories: ["Trading Products"]
 listed_since: "2015-07-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://www.kagels-trading.de/dax-signale-vom-profi-trader-nutzen/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.kagels-trading.de/dax-signale-vom-profi-trader-nutzen/"
@@ -22,7 +22,7 @@ language: "de"
 # DAX-Index Trading Signale
 
 > Product ID `13487` · Digistore24 productId `55185` · [HTML profile page](../../produkte/dax-index-trading-signale-13487.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

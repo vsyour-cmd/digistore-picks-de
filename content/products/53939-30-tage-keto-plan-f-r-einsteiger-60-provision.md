@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2025-09-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://marilia.de/ratgeber/ebook-30-tage-keto-plan-fuer-einsteiger/?aff=adminstore#aff=adminstore"
 sales_page: "https://marilia.de/ratgeber/ebook-30-tage-keto-plan-fuer-einsteiger/"
@@ -22,7 +22,7 @@ language: "de"
 # 30-Tage Keto-Plan für Einsteiger – 60% Provision
 
 > Product ID `53939` · Digistore24 productId `634063` · [HTML profile page](../../produkte/30-tage-keto-plan-f-r-einsteiger-60-provision-53939.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

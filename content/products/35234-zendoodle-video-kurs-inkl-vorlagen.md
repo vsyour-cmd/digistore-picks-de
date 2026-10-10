@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2020-12-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://drawtut.com/de/kurse/zendoodles/?aff=adminstore#aff=adminstore"
 sales_page: "https://drawtut.com/de/kurse/zendoodles/"
@@ -22,7 +22,7 @@ language: "de"
 # Zendoodle Video-Kurs inkl. Vorlagen
 
 > Product ID `35234` · Digistore24 productId `362835` · [HTML profile page](../../produkte/zendoodle-video-kurs-inkl-vorlagen-35234.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

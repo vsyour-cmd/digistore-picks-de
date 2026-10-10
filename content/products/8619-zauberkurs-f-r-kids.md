@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2015-09-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://ich-lerne-zaubern.de/zaubern-fuer-kids/?aff=adminstore#aff=adminstore"
 sales_page: "https://ich-lerne-zaubern.de/zaubern-fuer-kids/"
@@ -22,7 +22,7 @@ language: "de"
 # Zauberkurs für Kids
 
 > Product ID `8619` · Digistore24 productId `58279` · [HTML profile page](../../produkte/zauberkurs-f-r-kids-8619.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

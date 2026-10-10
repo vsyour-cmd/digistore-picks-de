@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "rich"
 promo_link: "https://clovernut.com/order.html?aff=adminstore#aff=adminstore"
 sales_page: "https://clovernut.com/order.html"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # CloverNut – KI-Betriebssystem für KMU, 25 % auf alle Tarife
 
 > Product ID `58621` · Digistore24 productId `722489` · [HTML profile page](../../produkte/clovernut-ki-betriebssystem-f-r-kmu-25-auf-alle-tarife-58621.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,22 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Business-Management-Software bestellen | CloverNut über Digistore24
+- **Meta description:** CloverNut organisiert Unternehmen, Labels und Creative Businesses. Kataloge, Teams, Websites und KI-Agenten – ab 19,90 € über Digistore24.
+- **Headline (H1):**
+  > Business-Management-Software & Label-Software in einer Plattform
+- **Section headlines (H2):**
+  - Unternehmensverwaltung, Kataloge und KI in einem System
+  - So startest du mit CloverNut
+  - Preise und Tarife
+  - Häufige Fragen zu CloverNut
+- **Opening copy (first paragraphs):**
+  > CloverNut organisiert Künstler, Produkte, Releases, Kataloge, Teams und digitale Inhalte in einer zentralen Arbeitsumgebung.
+  > Für Musiklabels, Verlage, Studios, Agenturen und andere kleine Unternehmen: branchenspezifische Daten verwalten, im Team arbeiten und Inhalte direkt veröffentlichen.
+  > Künstler, Produkte, Releases, Einträge und branchenspezifische Daten strukturiert verwalten.
+  > Homepage-Builder, Subdomains, Streaming-Links und mehrsprachige Inhalte ohne Medienbruch.
+- **Page word count:** 486
+- **OG image:** https://clovernut.com/images/clovernut-sales-hero.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

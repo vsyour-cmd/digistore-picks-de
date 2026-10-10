@@ -13,7 +13,7 @@ cancel_rate_pct: 0.31
 categories: ["Hobby & Craft"]
 listed_since: "2021-03-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.gps-handbuch.de/garmin-edge-1030-plus-ebook-anleitung/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.gps-handbuch.de/garmin-edge-1030-plus-ebook-anleitung/"
@@ -22,7 +22,7 @@ language: "de"
 # Partnerprogramm von GPS-Handbuch.de
 
 > Product ID `37778` · Digistore24 productId `379427` · [HTML profile page](../../produkte/partnerprogramm-von-gps-handbuch-de-37778.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

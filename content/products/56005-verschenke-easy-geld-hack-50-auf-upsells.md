@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-03-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://byebyehamsterrad.de/easy-money-back/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyehamsterrad.de/easy-money-back/"
@@ -22,7 +22,7 @@ language: "de"
 # Verschenke Easy Geld Hack + 50% auf Upsells
 
 > Product ID `56005` · Digistore24 productId `603861` · [HTML profile page](../../produkte/verschenke-easy-geld-hack-50-auf-upsells-56005.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

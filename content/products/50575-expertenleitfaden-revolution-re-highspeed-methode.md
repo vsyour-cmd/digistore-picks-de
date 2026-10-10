@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-10-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/575187?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/575187"
@@ -22,7 +22,7 @@ language: "de"
 # Expertenleitfaden Revolutionäre Highspeed Methode
 
 > Product ID `50575` · Digistore24 productId `575187` · [HTML profile page](../../produkte/expertenleitfaden-revolution-re-highspeed-methode-50575.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

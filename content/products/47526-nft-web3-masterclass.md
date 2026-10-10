@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Finances"]
 listed_since: "2023-11-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://nft-akademie.com/nft-web3-masterclass-by-nft-akademie/?aff=adminstore#aff=adminstore"
 sales_page: "https://nft-akademie.com/nft-web3-masterclass-by-nft-akademie/"
@@ -22,7 +22,7 @@ language: "de"
 # NFT & Web3 Masterclass
 
 > Product ID `47526` · Digistore24 productId `526446` · [HTML profile page](../../produkte/nft-web3-masterclass-47526.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

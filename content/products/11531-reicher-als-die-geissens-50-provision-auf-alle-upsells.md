@@ -13,7 +13,7 @@ cancel_rate_pct: 18.84
 categories: ["Business & Investment"]
 listed_since: "2016-04-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://alex-fischer-duesseldorf.de/fnl/reicher-als-die-geissens/bestellen?aff=adminstore#aff=adminstore"
 sales_page: "https://alex-fischer-duesseldorf.de/fnl/reicher-als-die-geissens/bestellen"
@@ -22,7 +22,7 @@ language: "de"
 # Reicher als die Geissens - 50% Provision auf alle Upsells
 
 > Product ID `11531` · Digistore24 productId `78297` · [HTML profile page](../../produkte/reicher-als-die-geissens-50-provision-auf-alle-upsells-11531.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

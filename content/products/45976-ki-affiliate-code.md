@@ -13,7 +13,7 @@ cancel_rate_pct: 0.75
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2023-11-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.ki-affiliate-code.de/kacaff/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ki-affiliate-code.de/kacaff/"
@@ -22,7 +22,7 @@ language: "de"
 # KI Affiliate Code
 
 > Product ID `45976` · Digistore24 productId `524999` · [HTML profile page](../../produkte/ki-affiliate-code-45976.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

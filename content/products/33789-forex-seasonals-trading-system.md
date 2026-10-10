@@ -13,7 +13,7 @@ cancel_rate_pct: 10.6
 categories: ["Trading Products"]
 listed_since: "2020-03-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/trading-signale/forex-seasonals-handelssystem/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kagels-trading.de/trading-signale/forex-seasonals-handelssystem/"
@@ -22,7 +22,7 @@ language: "de"
 # Forex Seasonals Trading System
 
 > Product ID `33789` · Digistore24 productId `311075` · [HTML profile page](../../produkte/forex-seasonals-trading-system-33789.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 6.26
 categories: ["Fashion"]
 listed_since: "2023-08-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/511930?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/511930"
@@ -22,7 +22,7 @@ language: "de"
 # Tattoo-Gutscheine für Stuttgart im Wert von 50€ bis 800€
 
 > Product ID `45073` · Digistore24 productId `511930` · [HTML profile page](../../produkte/tattoo-gutscheine-f-r-stuttgart-im-wert-von-50-bis-800-45073.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

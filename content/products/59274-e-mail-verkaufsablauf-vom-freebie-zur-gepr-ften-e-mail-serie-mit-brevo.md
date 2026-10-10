@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Marketing Services"]
 listed_since: "2026-09-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "rich"
 promo_link: "https://einfachmitmatze.de/email-verkaufsablauf/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/email-verkaufsablauf/"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # E-Mail-Verkaufsablauf: Vom Freebie zur geprüften E-Mail-Serie mit Brevo
 
 > Product ID `59274` · Digistore24 productId `733942` · [HTML profile page](../../produkte/e-mail-verkaufsablauf-vom-freebie-zur-gepr-ften-e-mail-serie-mit-brevo-59274.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,28 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** E-Mail-Verkaufsablauf mit Matze | Einfach mit Matze
+- **Meta description:** Jemand interessiert sich für dein Angebot – und dann? Baue mit Matze einen nachvollziehbaren Weg vom kostenlosen Download zur passenden Produktvorstellung. Mit einem konkreten Brevo-Beispiel und ausformulierten Vorlagen.
+- **Headline (H1):**
+  > Deine E-Mails. Ein klarer Ablauf.
+- **Section headlines (H2):**
+  - Ein getesteter Ablauf für Anmeldung, Bestätigung, Download und eine passende Willkommens- und Angebotsfolge.
+  - Ein klarer Startpunkt.
+  - Eine Musterseite ist der Anfang eines Gesprächs.
+  - Schritt für Schritt zu deinem Ergebnis.
+  - Ein vollständiges Praxispaket.
+  - So liest und arbeitest du im Kurs.
+  - E-Mail-Verkaufsablauf
+  - Deine Fragen zum Kurs.
+- **Opening copy (first paragraphs):**
+  > Werkstatt So lernst du Über Matze Kurse / E-Mail-Verkaufsablauf VOM ERSTEN INTERESSE ZUM NÄCHSTEN SCHRITT
+  > Jemand interessiert sich für dein Angebot – und dann? Baue mit Matze einen nachvollziehbaren Weg vom kostenlosen Download zur passenden Produktvorstellung. Mit einem konkreten Brevo-Beispiel und ausformulierten Vorlagen.
+  > Kursinhalt ansehen Leseprobe verfügbar. Der Verkauf startet nach Freigabe durch Digistore24.
+  > Du erarbeitest dein Ergebnis selbst. Beispiele, Aufgaben und Prüfpunkte begleiten dich dabei.
+- **Questions the sales page answers:**
+  - Welcher Kurs passt zu dir?
+  - Für wen ist der Kurs gedacht?
+- **Page word count:** 1136
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

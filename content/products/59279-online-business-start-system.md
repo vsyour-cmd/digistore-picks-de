@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://ki-richtig-nutzen.my.canva.site/online-business-start-system?aff=adminstore#aff=adminstore"
 sales_page: "https://ki-richtig-nutzen.my.canva.site/online-business-start-system"
@@ -22,7 +22,7 @@ language: "de"
 # Online Business - Start System
 
 > Product ID `59279` · Digistore24 productId `729589` · [HTML profile page](../../produkte/online-business-start-system-59279.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

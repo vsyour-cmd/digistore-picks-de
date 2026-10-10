@@ -13,7 +13,7 @@ cancel_rate_pct: 3.04
 categories: ["Software"]
 listed_since: "2022-03-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.webinaris.com?aff=adminstore#aff=adminstore"
 sales_page: "https://www.webinaris.com"
@@ -22,7 +22,7 @@ language: "de"
 # Das optimierte Partnerprogramm von Webinaris. Die Nr. 1
 
 > Product ID `4133` · Digistore24 productId `432363` · [HTML profile page](../../produkte/das-optimierte-partnerprogramm-von-webinaris-die-nr-1-4133.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

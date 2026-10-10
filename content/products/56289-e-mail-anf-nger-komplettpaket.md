@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2026-04-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://affiliate-macher.de/emailmarketingkurs?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliate-macher.de/emailmarketingkurs"
@@ -22,7 +22,7 @@ language: "de"
 # E-Mail Anfänger - Komplettpaket
 
 > Product ID `56289` · Digistore24 productId `684474` · [HTML profile page](../../produkte/e-mail-anf-nger-komplettpaket-56289.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

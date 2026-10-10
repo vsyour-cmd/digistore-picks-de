@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2017-08-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://tierakademie.andrea-schaedel.de/lp/sterbebegleitung-bei-deinem-tier/?aff=adminstore#aff=adminstore"
 sales_page: "https://tierakademie.andrea-schaedel.de/lp/sterbebegleitung-bei-deinem-tier/"
@@ -22,7 +22,7 @@ language: "de"
 # Regenbogenbrücke - Sterbebegleitung bei deinem Tier
 
 > Product ID `32820` · Digistore24 productId `155867` · [HTML profile page](../../produkte/regenbogenbr-cke-sterbebegleitung-bei-deinem-tier-32820.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

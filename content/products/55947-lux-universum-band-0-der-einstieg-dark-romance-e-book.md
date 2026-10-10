@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-02-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/670033?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/670033"
@@ -22,7 +22,7 @@ language: "de"
 # Lux-Universum Band 0 – Der Einstieg | Dark Romance E-Book
 
 > Product ID `55947` · Digistore24 productId `670033` · [HTML profile page](../../produkte/lux-universum-band-0-der-einstieg-dark-romance-e-book-55947.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

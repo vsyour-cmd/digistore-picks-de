@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-03-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://online-hypnose.eu/kurs-hypnose-schlafstoerungen-besser-schlafen-schlafprobleme/?aff=adminstore#aff=adminstore"
 sales_page: "https://online-hypnose.eu/kurs-hypnose-schlafstoerungen-besser-schlafen-schlafprobleme/"
@@ -22,7 +22,7 @@ language: "de"
 # Online Hypnose Schlafstörungen verlieren
 
 > Product ID `25315` · Digistore24 productId `211715` · [HTML profile page](../../produkte/online-hypnose-schlafst-rungen-verlieren-25315.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

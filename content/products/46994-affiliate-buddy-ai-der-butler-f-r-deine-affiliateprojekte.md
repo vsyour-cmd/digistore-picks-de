@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2023-12-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://affiliatebuddyai.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliatebuddyai.com/"
@@ -22,7 +22,7 @@ language: "de"
 # AFFILIATE BUDDY AI - Der Butler für deine Affiliateprojekte
 
 > Product ID `46994` · Digistore24 productId `529631` · [HTML profile page](../../produkte/affiliate-buddy-ai-der-butler-f-r-deine-affiliateprojekte-46994.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

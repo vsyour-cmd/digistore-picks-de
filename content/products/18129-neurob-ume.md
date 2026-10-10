@@ -13,7 +13,7 @@ cancel_rate_pct: 1.08
 categories: ["Personal Development"]
 listed_since: "2017-07-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "http://motivation-art.de/neurobaeume?aff=adminstore#aff=adminstore"
 sales_page: "http://motivation-art.de/neurobaeume"
@@ -22,7 +22,7 @@ language: "de"
 # Neurobäume
 
 > Product ID `18129` · Digistore24 productId `154051` · [HTML profile page](../../produkte/neurob-ume-18129.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

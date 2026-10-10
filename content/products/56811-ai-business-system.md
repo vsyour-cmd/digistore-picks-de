@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Services"]
 listed_since: "2026-06-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "http://ai-agent-business.com/ai-business-system?aff=adminstore#aff=adminstore"
 sales_page: "http://ai-agent-business.com/ai-business-system"
@@ -22,7 +22,7 @@ language: "de"
 # AI- Business System™
 
 > Product ID `56811` · Digistore24 productId `676251` · [HTML profile page](../../produkte/ai-business-system-56811.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

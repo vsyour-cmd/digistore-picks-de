@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2013-06-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://basecamphandbuch.de?aff=adminstore#aff=adminstore"
 sales_page: "http://basecamphandbuch.de"
@@ -22,7 +22,7 @@ language: "de"
 # BaseCamp Handbuch V4
 
 > Product ID `3379` · Digistore24 productId `12747` · [HTML profile page](../../produkte/basecamp-handbuch-v4-3379.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

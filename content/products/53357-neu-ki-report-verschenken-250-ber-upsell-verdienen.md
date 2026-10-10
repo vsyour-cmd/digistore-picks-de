@@ -13,7 +13,7 @@ cancel_rate_pct: 3.3
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-12-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/deYamgkrMZBkQjPF5?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/deYamgkrMZBkQjPF5"
@@ -22,7 +22,7 @@ language: "de"
 # NEU! KI REPORT verschenken + 250€ über Upsell verdienen
 
 > Product ID `53357` · Digistore24 productId `587917` · [HTML profile page](../../produkte/neu-ki-report-verschenken-250-ber-upsell-verdienen-53357.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

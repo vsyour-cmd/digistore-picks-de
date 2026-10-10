@@ -13,7 +13,7 @@ cancel_rate_pct: 3.3
 categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
 listed_since: "2025-11-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://voicefixx.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://voicefixx.com/"
@@ -22,7 +22,7 @@ language: "de"
 # SPRACHSOFTWARE verschenken + 450€ über Upsell verdienen
 
 > Product ID `55264` · Digistore24 productId `646454` · [HTML profile page](../../produkte/sprachsoftware-verschenken-450-ber-upsell-verdienen-55264.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

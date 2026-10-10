@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-06-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/ki-millionaer-90-tage?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/ki-millionaer-90-tage"
@@ -22,7 +22,7 @@ language: "de"
 # In 90 Tagen zum KI-Millionär
 
 > Product ID `57064` · Digistore24 productId `703405` · [HTML profile page](../../produkte/in-90-tagen-zum-ki-million-r-57064.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

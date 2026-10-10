@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Politics & Economy"]
 listed_since: "2026-05-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/695807?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/695807"
@@ -22,7 +22,7 @@ language: "de"
 # Ebook - Wem nützt der Krieg - Teil 3 Taiwan
 
 > Product ID `56707` · Digistore24 productId `695807` · [HTML profile page](../../produkte/ebook-wem-n-tzt-der-krieg-teil-3-taiwan-56707.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

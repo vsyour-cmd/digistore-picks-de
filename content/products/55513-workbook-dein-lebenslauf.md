@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Profession & Job"]
 listed_since: "2025-12-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://heinzbader.com/workbook-lebenslauf-landingpage/?aff=adminstore#aff=adminstore"
 sales_page: "https://heinzbader.com/workbook-lebenslauf-landingpage/"
@@ -22,7 +22,7 @@ language: "de"
 # Workbook – Dein Lebenslauf
 
 > Product ID `55513` · Digistore24 productId `655771` · [HTML profile page](../../produkte/workbook-dein-lebenslauf-55513.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

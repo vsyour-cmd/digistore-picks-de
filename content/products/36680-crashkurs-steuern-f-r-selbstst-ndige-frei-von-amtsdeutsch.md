@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2021-04-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://kleingewerbe-anmelden.org/steuerspar-crashkurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://kleingewerbe-anmelden.org/steuerspar-crashkurs/"
@@ -22,7 +22,7 @@ language: "de"
 # Crashkurs Steuern für Selbstständige - frei von Amtsdeutsch!
 
 > Product ID `36680` · Digistore24 productId `382617` · [HTML profile page](../../produkte/crashkurs-steuern-f-r-selbstst-ndige-frei-von-amtsdeutsch-36680.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

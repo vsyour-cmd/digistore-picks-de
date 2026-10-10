@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children","Health & Fitness","Personal Development"]
 listed_since: "2020-11-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://zauberohr.de/geschichte/zauberwelle-kinder-hoergeschichte/?aff=adminstore#aff=adminstore"
 sales_page: "https://zauberohr.de/geschichte/zauberwelle-kinder-hoergeschichte/"
@@ -22,7 +22,7 @@ language: "de"
 # Hörgeschichte für Kinder: Die Zauberwelle
 
 > Product ID `46314` · Digistore24 productId `360334` · [HTML profile page](../../produkte/h-rgeschichte-f-r-kinder-die-zauberwelle-46314.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

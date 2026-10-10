@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2023-03-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.provi-magnet.de/prodhavkslp/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.provi-magnet.de/prodhavkslp/"
@@ -22,7 +22,7 @@ language: "de"
 # Productivity Hacks - Produktiver und effektiver werden
 
 > Product ID `44123` · Digistore24 productId `489323` · [HTML profile page](../../produkte/productivity-hacks-produktiver-und-effektiver-werden-44123.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

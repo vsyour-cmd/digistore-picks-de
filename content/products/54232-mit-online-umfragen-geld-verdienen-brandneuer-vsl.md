@@ -13,7 +13,7 @@ cancel_rate_pct: 1.99
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-05-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://umfragen-system.de/komplettpaket-start-2/?aff=adminstore#aff=adminstore"
 sales_page: "https://umfragen-system.de/komplettpaket-start-2/"
@@ -22,7 +22,7 @@ language: "de"
 # Mit Online-Umfragen Geld verdienen! | Brandneuer VSL!
 
 > Product ID `54232` · Digistore24 productId `614532` · [HTML profile page](../../produkte/mit-online-umfragen-geld-verdienen-brandneuer-vsl-54232.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

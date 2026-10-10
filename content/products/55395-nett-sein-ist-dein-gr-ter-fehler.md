@@ -13,7 +13,7 @@ cancel_rate_pct: 2.05
 categories: ["Dating, Relationships & Romance","Personal Development","Social Media"]
 listed_since: "2026-01-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/665255?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/665255"
@@ -22,7 +22,7 @@ language: "de"
 # Nett sein ist dein größter Fehler..
 
 > Product ID `55395` · Digistore24 productId `665255` · [HTML profile page](../../produkte/nett-sein-ist-dein-gr-ter-fehler-55395.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

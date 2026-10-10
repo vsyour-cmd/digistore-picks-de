@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2015-11-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://vogelhaus.com/vogelhaus-selber-bauen-linden/?aff=adminstore#aff=adminstore"
 sales_page: "https://vogelhaus.com/vogelhaus-selber-bauen-linden/"
@@ -22,7 +22,7 @@ language: "de"
 # Original Grubert Vogelhaus Bauanleitung Typ "Linden"
 
 > Product ID `9609` · Digistore24 productId `62295` · [HTML profile page](../../produkte/original-grubert-vogelhaus-bauanleitung-typ-linden-9609.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

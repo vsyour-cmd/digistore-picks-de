@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2017-06-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/142235?aff=adminstore"
 sales_page: "https://www.digistore24.com/redir/142235"
@@ -22,7 +22,7 @@ language: "de"
 # Das ultimative PLR Dating Paket
 
 > Product ID `42513` · Digistore24 productId `142235` · [HTML profile page](../../produkte/das-ultimative-plr-dating-paket-42513.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-02-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://erlebt-event.de/membership/?aff=adminstore#aff=adminstore"
 sales_page: "https://erlebt-event.de/membership/"
@@ -22,7 +22,7 @@ language: "de"
 # Erlebt Event Premium Membership
 
 > Product ID `47323` · Digistore24 productId `537341` · [HTML profile page](../../produkte/erlebt-event-premium-membership-47323.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

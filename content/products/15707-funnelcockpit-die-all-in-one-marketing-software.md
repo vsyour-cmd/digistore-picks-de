@@ -13,7 +13,7 @@ cancel_rate_pct: 1.86
 categories: ["Software"]
 listed_since: "2016-10-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://funnelcockpit.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://funnelcockpit.com/"
@@ -22,7 +22,7 @@ language: "de"
 # FunnelCockpit - Die All-In-One Marketing Software
 
 > Product ID `15707` · Digistore24 productId `98201` · [HTML profile page](../../produkte/funnelcockpit-die-all-in-one-marketing-software-15707.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

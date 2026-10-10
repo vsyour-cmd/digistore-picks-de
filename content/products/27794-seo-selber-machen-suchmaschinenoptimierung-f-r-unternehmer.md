@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2019-01-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.webseitenoptimierung-hamburg.de/seo-selber-machen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.webseitenoptimierung-hamburg.de/seo-selber-machen/"
@@ -22,7 +22,7 @@ language: "de"
 # SEO selber machen - Suchmaschinenoptimierung für Unternehmer
 
 > Product ID `27794` · Digistore24 productId `256949` · [HTML profile page](../../produkte/seo-selber-machen-suchmaschinenoptimierung-f-r-unternehmer-27794.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

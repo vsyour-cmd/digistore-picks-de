@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-08-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://reform-fs-frank-dopf.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://reform-fs-frank-dopf.de/"
@@ -22,7 +22,7 @@ language: "de"
 # Führerschein-Kompass 2027 – 40 % Provision für Affiliates
 
 > Product ID `57835` · Digistore24 productId `711394` · [HTML profile page](../../produkte/f-hrerschein-kompass-2027-40-provision-f-r-affiliates-57835.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-08-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.berndkiesewetter.com/deine-reflexionen?aff=adminstore#aff=adminstore"
 sales_page: "https://www.berndkiesewetter.com/deine-reflexionen"
@@ -22,7 +22,7 @@ language: "de"
 # „Deine Reflexionen – Für ein glückliches Leben“ - Workbook
 
 > Product ID `54293` · Digistore24 productId `631548` · [HTML profile page](../../produkte/deine-reflexionen-f-r-ein-gl-ckliches-leben-workbook-54293.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

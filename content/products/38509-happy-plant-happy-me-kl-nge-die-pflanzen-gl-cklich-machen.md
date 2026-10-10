@@ -13,7 +13,7 @@ cancel_rate_pct: 0.26
 categories: ["Home & Garden","Spiri­tua­lity & Esotericism"]
 listed_since: "2021-11-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://brainfood4you.com/lp-happy-plant-happy-me-bundle?aff=adminstore#aff=adminstore"
 sales_page: "https://brainfood4you.com/lp-happy-plant-happy-me-bundle"
@@ -22,7 +22,7 @@ language: "de"
 # Happy Plant - Happy Me -Klänge die Pflanzen glücklich machen
 
 > Product ID `38509` · Digistore24 productId `417713` · [HTML profile page](../../produkte/happy-plant-happy-me-kl-nge-die-pflanzen-gl-cklich-machen-38509.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

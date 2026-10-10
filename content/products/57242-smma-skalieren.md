@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/smma-skalieren?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/smma-skalieren"
@@ -22,7 +22,7 @@ language: "de"
 # SMMA skalieren
 
 > Product ID `57242` · Digistore24 productId `704220` · [HTML profile page](../../produkte/smma-skalieren-57242.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

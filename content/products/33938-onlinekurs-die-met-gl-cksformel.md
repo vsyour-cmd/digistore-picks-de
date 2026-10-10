@@ -13,7 +13,7 @@ cancel_rate_pct: 7.17
 categories: ["Health & Fitness"]
 listed_since: "2014-12-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://franke-akademie.de/met-gluecksformel/?aff=adminstore#aff=adminstore"
 sales_page: "https://franke-akademie.de/met-gluecksformel/"
@@ -22,7 +22,7 @@ language: "de"
 # Onlinekurs "Die MET-Glücksformel"
 
 > Product ID `33938` · Digistore24 productId `38629` · [HTML profile page](../../produkte/onlinekurs-die-met-gl-cksformel-33938.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

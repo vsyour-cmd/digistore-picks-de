@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2014-04-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.powersubliminals.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.powersubliminals.de/"
@@ -22,7 +22,7 @@ language: "de"
 # PowerSubliminals
 
 > Product ID `14047` · Digistore24 productId `24421` · [HTML profile page](../../produkte/powersubliminals-14047.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

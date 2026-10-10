@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2026-04-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://kostenrechnung-ganz-einfach.de/onlinekurs-kaufmaennische-steuerung-af?aff=adminstore#aff=adminstore"
 sales_page: "https://kostenrechnung-ganz-einfach.de/onlinekurs-kaufmaennische-steuerung-af"
@@ -22,7 +22,7 @@ language: "de"
 # Kaufmännische Steuerung für Büromanagement (AP2)
 
 > Product ID `56175` · Digistore24 productId `682425` · [HTML profile page](../../produkte/kaufm-nnische-steuerung-f-r-b-romanagement-ap2-56175.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

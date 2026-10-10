@@ -13,7 +13,7 @@ cancel_rate_pct: 2.71
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-07-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://affiliforge.net/Motivation-Mindset-Onlinebusiness?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/Motivation-Mindset-Onlinebusiness"
@@ -22,7 +22,7 @@ language: "de"
 # Mindset + Motivation für ein erfolgreiches Online-Business
 
 > Product ID `53324` · Digistore24 productId `626639` · [HTML profile page](../../produkte/mindset-motivation-f-r-ein-erfolgreiches-online-business-53324.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

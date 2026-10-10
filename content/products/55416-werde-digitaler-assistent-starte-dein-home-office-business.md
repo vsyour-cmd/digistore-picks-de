@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Profession & Job","Marketing Services"]
 listed_since: "2026-01-31"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://www.digitaler-assistent-werden.com/start?aff=adminstore#aff=adminstore"
 sales_page: "https://www.digitaler-assistent-werden.com/start"
@@ -22,7 +22,7 @@ language: "de"
 # Werde Digitaler Assistent: Starte dein Home-Office Business
 
 > Product ID `55416` · Digistore24 productId `665513` · [HTML profile page](../../produkte/werde-digitaler-assistent-starte-dein-home-office-business-55416.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

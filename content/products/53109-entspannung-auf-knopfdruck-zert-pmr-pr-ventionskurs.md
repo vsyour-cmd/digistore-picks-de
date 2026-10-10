@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-05-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.glueckwaerts.com/anmeldung-otcoachy?aff=adminstore#aff=adminstore"
 sales_page: "https://www.glueckwaerts.com/anmeldung-otcoachy"
@@ -22,7 +22,7 @@ language: "de"
 # Entspannung auf Knopfdruck - zert. PMR Präventionskurs
 
 > Product ID `53109` · Digistore24 productId `613426` · [HTML profile page](../../produkte/entspannung-auf-knopfdruck-zert-pmr-pr-ventionskurs-53109.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

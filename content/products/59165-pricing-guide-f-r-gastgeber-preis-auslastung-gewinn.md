@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Hotels & Gastronomy"]
 listed_since: "2026-09-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://ahliving.de/airbnb-preise-optimieren-fehler-vermeiden-mehr-verdienen/?aff=adminstore#aff=adminstore"
 sales_page: "https://ahliving.de/airbnb-preise-optimieren-fehler-vermeiden-mehr-verdienen/"
@@ -22,7 +22,7 @@ language: "de"
 # Pricing-Guide für Gastgeber – Preis, Auslastung, Gewinn
 
 > Product ID `59165` · Digistore24 productId `706785` · [HTML profile page](../../produkte/pricing-guide-f-r-gastgeber-preis-auslastung-gewinn-59165.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

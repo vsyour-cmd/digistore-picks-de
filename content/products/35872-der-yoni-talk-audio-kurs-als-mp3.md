@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2020-08-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://nhanga.de/audio-kurse/yoni-talk/?aff=adminstore#aff=adminstore"
 sales_page: "https://nhanga.de/audio-kurse/yoni-talk/"
@@ -22,7 +22,7 @@ language: "de"
 # Der Yoni-Talk (Audio-Kurs als mp3)
 
 > Product ID `35872` · Digistore24 productId `339401` · [HTML profile page](../../produkte/der-yoni-talk-audio-kurs-als-mp3-35872.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

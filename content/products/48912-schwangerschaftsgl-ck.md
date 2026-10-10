@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Education","Family & Children"]
 listed_since: "2024-08-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/564702?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/564702"
@@ -22,7 +22,7 @@ language: "de"
 # Schwangerschaftsglück
 
 > Product ID `48912` · Digistore24 productId `564702` · [HTML profile page](../../produkte/schwangerschaftsgl-ck-48912.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

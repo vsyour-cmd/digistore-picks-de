@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2016-09-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.p-neuhof.de/keyboardkurs-vol-2-landingpage/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.p-neuhof.de/keyboardkurs-vol-2-landingpage/"
@@ -22,7 +22,7 @@ language: "de"
 # Keyboardkurs Vol. 2 / Download
 
 > Product ID `31432` · Digistore24 productId `95933` · [HTML profile page](../../produkte/keyboardkurs-vol-2-download-31432.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

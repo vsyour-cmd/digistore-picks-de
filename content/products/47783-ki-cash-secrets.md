@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-04-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.meinneuerlifestyle.vip/geheime-ki-strategien/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.meinneuerlifestyle.vip/geheime-ki-strategien/"
@@ -22,7 +22,7 @@ language: "de"
 # KI Cash Secrets
 
 > Product ID `47783` · Digistore24 productId `547805` · [HTML profile page](../../produkte/ki-cash-secrets-47783.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

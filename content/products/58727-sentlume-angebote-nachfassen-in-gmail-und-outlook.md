@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Software"]
 listed_since: "2026-08-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://sentlume.pages.dev/?aff=adminstore#aff=adminstore"
 sales_page: "https://sentlume.pages.dev/"
@@ -22,7 +22,7 @@ language: "de"
 # Sentlume – Angebote nachfassen in Gmail und Outlook
 
 > Product ID `58727` · Digistore24 productId `724926` · [HTML profile page](../../produkte/sentlume-angebote-nachfassen-in-gmail-und-outlook-58727.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

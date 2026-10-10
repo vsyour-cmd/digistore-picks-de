@@ -13,7 +13,7 @@ cancel_rate_pct: 1.97
 categories: ["Travel & Culture"]
 listed_since: "2015-12-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.thailaendisch-fuer-reisende.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.thailaendisch-fuer-reisende.de"
@@ -22,7 +22,7 @@ language: "de"
 # Thai-Crashkurs - ab dem ersten Tag anwenden
 
 > Product ID `9655` · Digistore24 productId `64997` · [HTML profile page](../../produkte/thai-crashkurs-ab-dem-ersten-tag-anwenden-9655.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

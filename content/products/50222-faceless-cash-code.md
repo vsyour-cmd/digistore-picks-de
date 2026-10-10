@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2024-09-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://facelesscashcode.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://facelesscashcode.de/"
@@ -22,7 +22,7 @@ language: "de"
 # Faceless Cash Code
 
 > Product ID `50222` · Digistore24 productId `572149` · [HTML profile page](../../produkte/faceless-cash-code-50222.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

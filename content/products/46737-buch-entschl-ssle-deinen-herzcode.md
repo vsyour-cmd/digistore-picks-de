@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2021-11-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.christianrupp.ch/das-buch-entschluessle-deinen-herzcode/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.christianrupp.ch/das-buch-entschluessle-deinen-herzcode/"
@@ -22,7 +22,7 @@ language: "de"
 # Buch Entschlüssle deinen HERZcode
 
 > Product ID `46737` · Digistore24 productId `415293` · [HTML profile page](../../produkte/buch-entschl-ssle-deinen-herzcode-46737.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

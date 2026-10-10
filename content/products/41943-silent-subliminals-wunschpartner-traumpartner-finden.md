@@ -13,7 +13,7 @@ cancel_rate_pct: 3.18
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2021-12-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://energetic-eternity.de/produkt/silent-subliminals-wunschpartner/?aff=adminstore#aff=adminstore"
 sales_page: "https://energetic-eternity.de/produkt/silent-subliminals-wunschpartner/"
@@ -22,7 +22,7 @@ language: "de"
 # Silent Subliminals Wunschpartner - Traumpartner finden
 
 > Product ID `41943` · Digistore24 productId `421454` · [HTML profile page](../../produkte/silent-subliminals-wunschpartner-traumpartner-finden-41943.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

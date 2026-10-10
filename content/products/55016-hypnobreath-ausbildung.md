@@ -13,7 +13,7 @@ cancel_rate_pct: 2.93
 categories: ["Education","Profession & Job"]
 listed_since: "2025-08-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://hypnobreath.de/ausbildung?aff=adminstore#aff=adminstore"
 sales_page: "https://hypnobreath.de/ausbildung"
@@ -22,7 +22,7 @@ language: "de"
 # Hypnobreath© Ausbildung
 
 > Product ID `55016` · Digistore24 productId `632070` · [HTML profile page](../../produkte/hypnobreath-ausbildung-55016.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

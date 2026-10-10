@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-04-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://selbstwert-aufbauen.com?aff=adminstore#aff=adminstore"
 sales_page: "https://selbstwert-aufbauen.com"
@@ -22,7 +22,7 @@ language: "de"
 # Ich bin wertvoll VIDEOKURS für Selbstwert und innere Ruhe
 
 > Product ID `54853` · Digistore24 productId `651579` · [HTML profile page](../../produkte/ich-bin-wertvoll-videokurs-f-r-selbstwert-und-innere-ruhe-54853.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

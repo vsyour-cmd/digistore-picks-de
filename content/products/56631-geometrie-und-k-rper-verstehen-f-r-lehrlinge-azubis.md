@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-05-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://academy.e-ducation.cloud/course/geometrie-koerper-verstehen/?aff=adminstore#aff=adminstore"
 sales_page: "https://academy.e-ducation.cloud/course/geometrie-koerper-verstehen/"
@@ -22,7 +22,7 @@ language: "de"
 # Geometrie und Körper verstehen für Lehrlinge/Azubis
 
 > Product ID `56631` · Digistore24 productId `694021` · [HTML profile page](../../produkte/geometrie-und-k-rper-verstehen-f-r-lehrlinge-azubis-56631.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

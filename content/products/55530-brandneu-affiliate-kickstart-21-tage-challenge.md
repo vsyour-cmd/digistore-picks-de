@@ -13,7 +13,7 @@ cancel_rate_pct: 5.17
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-10-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.affiliate-akademie.com/affiliate-kickstart-21-tage-challenge/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.affiliate-akademie.com/affiliate-kickstart-21-tage-challenge/"
@@ -22,7 +22,7 @@ language: "de"
 # BRANDNEU - Affiliate-Kickstart - 21-Tage-Challenge
 
 > Product ID `55530` · Digistore24 productId `640341` · [HTML profile page](../../produkte/brandneu-affiliate-kickstart-21-tage-challenge-55530.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

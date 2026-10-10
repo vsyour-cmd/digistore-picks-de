@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Trading Products"]
 listed_since: "2022-02-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://torstenwiese.com/dax-pro/?aff=adminstore#aff=adminstore"
 sales_page: "https://torstenwiese.com/dax-pro/"
@@ -22,7 +22,7 @@ language: "de"
 # Premium Tradingservice - DAX Professional - Partnerprogramm
 
 > Product ID `39889` · Digistore24 productId `427776` · [HTML profile page](../../produkte/premium-tradingservice-dax-professional-partnerprogramm-39889.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-12-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/473279?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/473279"
@@ -22,7 +22,7 @@ language: "de"
 # Netzwerken für's Onlinebusiness
 
 > Product ID `43464` · Digistore24 productId `473279` · [HTML profile page](../../produkte/netzwerken-f-r-s-onlinebusiness-43464.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

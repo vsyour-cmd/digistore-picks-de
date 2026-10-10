@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://auranit.de/landingpage-self-care-habit-tracking/?aff=adminstore#aff=adminstore"
 sales_page: "https://auranit.de/landingpage-self-care-habit-tracking/"
@@ -22,7 +22,7 @@ language: "de"
 # Self-Care und Habit-Tracking Journal
 
 > Product ID `59059` · Digistore24 productId `729012` · [HTML profile page](../../produkte/self-care-und-habit-tracking-journal-59059.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

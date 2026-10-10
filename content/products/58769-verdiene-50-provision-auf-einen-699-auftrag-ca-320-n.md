@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Services"]
 listed_since: "2026-08-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/726205?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/726205"
@@ -22,7 +22,7 @@ language: "de"
 # Verdiene 50 % Provision auf einen 699 €-Auftrag (ca. 320 € n
 
 > Product ID `58769` · Digistore24 productId `726205` · [HTML profile page](../../produkte/verdiene-50-provision-auf-einen-699-auftrag-ca-320-n-58769.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

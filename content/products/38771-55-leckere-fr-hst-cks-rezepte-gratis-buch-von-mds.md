@@ -13,7 +13,7 @@ cancel_rate_pct: 12.45
 categories: ["Food & Drink"]
 listed_since: "2021-12-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://machdichschlank.info/55-leckere-fruehstuecksrezepte/?aff=adminstore#aff=adminstore"
 sales_page: "https://machdichschlank.info/55-leckere-fruehstuecksrezepte/"
@@ -22,7 +22,7 @@ language: "de"
 # 55 leckere Frühstücks-Rezepte Gratis Buch von MDS
 
 > Product ID `38771` · Digistore24 productId `422571` · [HTML profile page](../../produkte/55-leckere-fr-hst-cks-rezepte-gratis-buch-von-mds-38771.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

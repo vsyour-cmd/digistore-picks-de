@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-07-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.digistore24.com/redir/683993/adminstore"
 sales_page: "https://www.jens-heuchemer.de/strunprov-webinar?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
@@ -22,7 +22,7 @@ language: "de"
 # Mentale Exzellenz in 21 Tagen
 
 > Product ID `57398` · Digistore24 productId `683993` · [HTML profile page](../../produkte/mentale-exzellenz-in-21-tagen-57398.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

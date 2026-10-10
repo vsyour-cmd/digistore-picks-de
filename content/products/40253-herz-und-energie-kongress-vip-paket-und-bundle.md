@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2022-05-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/443717?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/443717"
@@ -22,7 +22,7 @@ language: "de"
 # Herz und Energie Kongress - VIP Paket und Bundle
 
 > Product ID `40253` · Digistore24 productId `443717` · [HTML profile page](../../produkte/herz-und-energie-kongress-vip-paket-und-bundle-40253.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

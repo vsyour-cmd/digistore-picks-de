@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2018-06-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.produkte.fussballtraining-renno.de/6-wochen-power-trainingsprogramm/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.produkte.fussballtraining-renno.de/6-wochen-power-trainingsprogramm/"
@@ -22,7 +22,7 @@ language: "de"
 # Der 6 Wochen Saisonvorbereitungsplan Brandneu
 
 > Product ID `33433` · Digistore24 productId `225984` · [HTML profile page](../../produkte/der-6-wochen-saisonvorbereitungsplan-brandneu-33433.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-03-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://michael-kotzur.de/die-100-besten-traffic-tipps/?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-kotzur.de/die-100-besten-traffic-tipps/"
@@ -22,7 +22,7 @@ language: "de"
 # eBook: Die 100 besten Traffic Tipps
 
 > Product ID `51757` · Digistore24 productId `601980` · [HTML profile page](../../produkte/ebook-die-100-besten-traffic-tipps-51757.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

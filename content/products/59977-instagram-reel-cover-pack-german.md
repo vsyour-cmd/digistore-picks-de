@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-09-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://xaruta4.wordpress.com/reel-cover-starter-pack-de/?aff=adminstore#aff=adminstore"
 sales_page: "https://xaruta4.wordpress.com/reel-cover-starter-pack-de/"
@@ -22,7 +22,7 @@ language: "de"
 # Instagram Reel Cover Pack (German)
 
 > Product ID `59977` · Digistore24 productId `737331` · [HTML profile page](../../produkte/instagram-reel-cover-pack-german-59977.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

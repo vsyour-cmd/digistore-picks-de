@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2020-03-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://jyotimaflak.com/365beitragsideen/?aff=adminstore#aff=adminstore"
 sales_page: "https://jyotimaflak.com/365beitragsideen/"
@@ -22,7 +22,7 @@ language: "de"
 # 365 Beitragsideen für Social-Media
 
 > Product ID `33676` · Digistore24 productId `313884` · [HTML profile page](../../produkte/365-beitragsideen-f-r-social-media-33676.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

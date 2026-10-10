@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-07-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.berndkiesewetter.com/die-drei-stufen-des-erfolgs?aff=adminstore#aff=adminstore"
 sales_page: "https://www.berndkiesewetter.com/die-drei-stufen-des-erfolgs"
@@ -22,7 +22,7 @@ language: "de"
 # Die 3 Stufen deiner Verantwortung - E-Book
 
 > Product ID `54292` · Digistore24 productId `623580` · [HTML profile page](../../produkte/die-3-stufen-deiner-verantwortung-e-book-54292.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

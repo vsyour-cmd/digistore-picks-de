@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children","Personal Development","Leadership & Management"]
 listed_since: "2026-08-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/717925?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/717925"
@@ -22,7 +22,7 @@ language: "de"
 # Pflegende Angehörige Wie du für andere da sein kannst, ohne
 
 > Product ID `58128` · Digistore24 productId `717925` · [HTML profile page](../../produkte/pflegende-angeh-rige-wie-du-f-r-andere-da-sein-kannst-ohne-58128.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

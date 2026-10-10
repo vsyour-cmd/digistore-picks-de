@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://shop.petanthony.com/online-kurse_grenzen-setzen_DS/?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.petanthony.com/online-kurse_grenzen-setzen_DS/"
@@ -22,7 +22,7 @@ language: "de"
 # Hypnose-Onlinekurs Grenzen Setzen und Nein sagen
 
 > Product ID `60058` · Digistore24 productId `570822` · [HTML profile page](../../produkte/hypnose-onlinekurs-grenzen-setzen-und-nein-sagen-60058.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

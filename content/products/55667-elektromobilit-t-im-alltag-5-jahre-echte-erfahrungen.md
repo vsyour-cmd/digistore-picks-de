@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection","Social Media","Travel & Culture"]
 listed_since: "2026-02-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/670155?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/670155"
@@ -22,7 +22,7 @@ language: "de"
 # Elektromobilität im Alltag – 5 Jahre echte Erfahrungen
 
 > Product ID `55667` · Digistore24 productId `670155` · [HTML profile page](../../produkte/elektromobilit-t-im-alltag-5-jahre-echte-erfahrungen-55667.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

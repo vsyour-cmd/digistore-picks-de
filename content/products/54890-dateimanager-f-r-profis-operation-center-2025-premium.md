@@ -13,7 +13,7 @@ cancel_rate_pct: 2.17
 categories: ["Software"]
 listed_since: "2024-09-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/571730?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/571730"
@@ -22,7 +22,7 @@ language: "de"
 # Dateimanager für Profis: Operation Center 2025 Premium
 
 > Product ID `54890` · Digistore24 productId `571730` · [HTML profile page](../../produkte/dateimanager-f-r-profis-operation-center-2025-premium-54890.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

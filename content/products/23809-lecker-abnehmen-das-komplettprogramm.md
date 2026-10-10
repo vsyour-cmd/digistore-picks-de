@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-03-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "thin"
 promo_link: "http://leckerabnehmen.com/komplettprogramm/?aff=adminstore#aff=adminstore"
 sales_page: "http://leckerabnehmen.com/komplettprogramm/"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # Lecker Abnehmen - Das Komplettprogramm
 
 > Product ID `23809` · Digistore24 productId `206935` · [HTML profile page](../../produkte/lecker-abnehmen-das-komplettprogramm-23809.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -51,7 +51,8 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Final URL after redirects:** https://leckerabnehmen.com/komplettprogramm/
+- **Page word count:** 0
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2022-09-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/459068?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/459068"
@@ -22,7 +22,7 @@ language: "de"
 # Gesund und glücklich älter werden–Ruediger Dahlke–Hörbuch
 
 > Product ID `41128` · Digistore24 productId `459068` · [HTML profile page](../../produkte/gesund-und-gl-cklich-lter-werden-ruediger-dahlke-h-rbuch-41128.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

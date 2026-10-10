@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-09-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/716535?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/716535"
@@ -22,7 +22,7 @@ language: "de"
 # Social Media Masterclass FÜR FRAUEN
 
 > Product ID `60061` · Digistore24 productId `716535` · [HTML profile page](../../produkte/social-media-masterclass-f-r-frauen-60061.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

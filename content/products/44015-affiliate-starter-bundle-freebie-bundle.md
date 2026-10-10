@@ -13,7 +13,7 @@ cancel_rate_pct: 2.86
 categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2024-02-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://kb-om.com/affiliate-marketing-das-starter-bundle-special/?aff=adminstore#aff=adminstore"
 sales_page: "https://kb-om.com/affiliate-marketing-das-starter-bundle-special/"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Starter Bundle | Freebie-Bundle
 
 > Product ID `44015` · Digistore24 productId `537368` · [HTML profile page](../../produkte/affiliate-starter-bundle-freebie-bundle-44015.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

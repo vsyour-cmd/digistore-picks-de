@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2021-01-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://perrocc.coachy.net/lp/derdigitalehundefuehrerschein/?aff=AFFILIATE&aff=adminstore#aff=adminstore"
 sales_page: "https://perrocc.coachy.net/lp/derdigitalehundefuehrerschein/?aff=AFFILIATE"
@@ -22,7 +22,7 @@ language: "de"
 # Hundewissen Sachkunde - Der Digitale Hundeführerschein
 
 > Product ID `35625` · Digistore24 productId `366886` · [HTML profile page](../../produkte/hundewissen-sachkunde-der-digitale-hundef-hrerschein-35625.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

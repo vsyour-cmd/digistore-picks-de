@@ -13,7 +13,7 @@ cancel_rate_pct: 2.71
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2024-06-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://affiliforge.net/Das-Perfekte-Freebie?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/Das-Perfekte-Freebie"
@@ -22,7 +22,7 @@ language: "de"
 # Das perfekte Freebie - 17 Fehler vermeiden
 
 > Product ID `48575` · Digistore24 productId `557043` · [HTML profile page](../../produkte/das-perfekte-freebie-17-fehler-vermeiden-48575.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

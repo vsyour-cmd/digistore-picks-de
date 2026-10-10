@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Family & Children","Personal Development"]
 listed_since: "2026-08-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/718869?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/718869"
@@ -22,7 +22,7 @@ language: "de"
 # Safe Family – Der digitale Schutzschild
 
 > Product ID `58221` · Digistore24 productId `718869` · [HTML profile page](../../produkte/safe-family-der-digitale-schutzschild-58221.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

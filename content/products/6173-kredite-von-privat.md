@@ -13,7 +13,7 @@ cancel_rate_pct: 2.93
 categories: ["Business & Investment"]
 listed_since: "2015-01-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://www.benn-verlag.de/digi-kvp/index.html?aff=adminstore#aff=adminstore"
 sales_page: "http://www.benn-verlag.de/digi-kvp/index.html"
@@ -22,7 +22,7 @@ language: "de"
 # KREDITE VON PRIVAT
 
 > Product ID `6173` · Digistore24 productId `41181` · [HTML profile page](../../produkte/kredite-von-privat-6173.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2026-06-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/699161?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/699161"
@@ -22,7 +22,7 @@ language: "de"
 # Faceless TikTok Videos mit KI erstellen - Komplettanleitung
 
 > Product ID `56883` · Digistore24 productId `699161` · [HTML profile page](../../produkte/faceless-tiktok-videos-mit-ki-erstellen-komplettanleitung-56883.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

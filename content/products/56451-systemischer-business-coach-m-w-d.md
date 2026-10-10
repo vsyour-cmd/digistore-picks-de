@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-03-31"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/681020/adminstore"
 sales_page: "https://teamwehner-bildung.mydigibiz24.com/coachingausbildung?aff=[AFFILIATE]"
@@ -22,7 +22,7 @@ language: "de"
 # Systemischer Business-Coach (m/w/d)
 
 > Product ID `56451` · Digistore24 productId `681020` · [HTML profile page](../../produkte/systemischer-business-coach-m-w-d-56451.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 4.08
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2024-01-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://onlinekurse-von-experten.com/kis-frontend/?aff=adminstore#aff=adminstore"
 sales_page: "https://onlinekurse-von-experten.com/kis-frontend/"
@@ -22,7 +22,7 @@ language: "de"
 # KI Kurzvideo erstellen. Für YouTube, TikTok und Instagram
 
 > Product ID `46236` · Digistore24 productId `532685` · [HTML profile page](../../produkte/ki-kurzvideo-erstellen-f-r-youtube-tiktok-und-instagram-46236.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

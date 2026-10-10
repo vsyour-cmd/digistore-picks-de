@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-06-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/7Nx6KwT95ZMWEuBT5?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/7Nx6KwT95ZMWEuBT5"
@@ -22,7 +22,7 @@ language: "de"
 # Buch - Sei Du Selbst sonst lebst du Andere
 
 > Product ID `44177` · Digistore24 productId `394183` · [HTML profile page](../../produkte/buch-sei-du-selbst-sonst-lebst-du-andere-44177.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 3.18
 categories: ["Health & Fitness"]
 listed_since: "2017-04-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "http://energetic-eternity.de/produkt/health-bundle/?aff=adminstore#aff=adminstore"
 sales_page: "http://energetic-eternity.de/produkt/health-bundle/"
@@ -22,7 +22,7 @@ language: "de"
 # Health Bundle – Völlige körperliche und geistige Gesundheit
 
 > Product ID `16207` · Digistore24 productId `133185` · [HTML profile page](../../produkte/health-bundle-v-llige-k-rperliche-und-geistige-gesundheit-16207.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

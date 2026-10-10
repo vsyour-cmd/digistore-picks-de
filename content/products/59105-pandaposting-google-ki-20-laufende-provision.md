@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Software","Marketing Services"]
 listed_since: "2026-09-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://pandaposting.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://pandaposting.de/"
@@ -22,7 +22,7 @@ language: "de"
 # PandaPosting – Google- & KI – 20 % laufende Provision
 
 > Product ID `59105` · Digistore24 productId `731479` · [HTML profile page](../../produkte/pandaposting-google-ki-20-laufende-provision-59105.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

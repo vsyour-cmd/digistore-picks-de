@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Survival"]
 listed_since: "2024-05-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://kindernotfaelle.info/notfallkurs-fuer-eltern-und-grosseltern/?aff=adminstore#aff=adminstore"
 sales_page: "https://kindernotfaelle.info/notfallkurs-fuer-eltern-und-grosseltern/"
@@ -22,7 +22,7 @@ language: "de"
 # Bis der Notarzt kommt - einzigartiger Kinder-Notfall-Kurs
 
 > Product ID `53313` · Digistore24 productId `553233` · [HTML profile page](../../produkte/bis-der-notarzt-kommt-einzigartiger-kinder-notfall-kurs-53313.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

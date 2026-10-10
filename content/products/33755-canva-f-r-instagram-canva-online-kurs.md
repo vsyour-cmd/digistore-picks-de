@@ -13,7 +13,7 @@ cancel_rate_pct: 1.5
 categories: ["Profession & Job"]
 listed_since: "2020-08-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.ts-onlinemedia.de/canva-online-kurs-grafiken-leicht-gemacht/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ts-onlinemedia.de/canva-online-kurs-grafiken-leicht-gemacht/"
@@ -22,7 +22,7 @@ language: "de"
 # Canva für Instagram - Canva Online-Kurs
 
 > Product ID `33755` · Digistore24 productId `340896` · [HTML profile page](../../produkte/canva-f-r-instagram-canva-online-kurs-33755.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

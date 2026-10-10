@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://ki-richtig-nutzen.my.canva.site/30-tage-achtsamkeit-workbook-inkl-50-achtsamkeitskarten?aff=adminstore#aff=adminstore"
 sales_page: "https://ki-richtig-nutzen.my.canva.site/30-tage-achtsamkeit-workbook-inkl-50-achtsamkeitskarten"
@@ -22,7 +22,7 @@ language: "de"
 # 30 Tage Achtsamkeit – Workbook inkl. 50 Achtsamkeitskarten
 
 > Product ID `58867` · Digistore24 productId `728740` · [HTML profile page](../../produkte/30-tage-achtsamkeit-workbook-inkl-50-achtsamkeitskarten-58867.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

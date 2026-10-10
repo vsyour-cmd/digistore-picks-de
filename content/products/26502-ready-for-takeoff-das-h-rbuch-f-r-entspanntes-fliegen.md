@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2018-08-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.cockpitbuddy.com/takeoff?aff=adminstore#aff=adminstore"
 sales_page: "https://www.cockpitbuddy.com/takeoff"
@@ -22,7 +22,7 @@ language: "de"
 # Ready for Takeoff - Das Hörbuch für entspanntes Fliegen
 
 > Product ID `26502` · Digistore24 productId `236650` · [HTML profile page](../../produkte/ready-for-takeoff-das-h-rbuch-f-r-entspanntes-fliegen-26502.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

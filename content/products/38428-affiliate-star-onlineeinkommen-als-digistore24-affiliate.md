@@ -13,7 +13,7 @@ cancel_rate_pct: 4.08
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-11-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://onlinekurse-von-experten.com/as-fe/?aff=adminstore#aff=adminstore"
 sales_page: "https://onlinekurse-von-experten.com/as-fe/"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Star - Onlineeinkommen als Digistore24-Affiliate
 
 > Product ID `38428` · Digistore24 productId `418189` · [HTML profile page](../../produkte/affiliate-star-onlineeinkommen-als-digistore24-affiliate-38428.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

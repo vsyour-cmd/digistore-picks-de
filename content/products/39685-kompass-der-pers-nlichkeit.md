@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2022-02-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://raikgarve.de/beziehung-zu-dir-selbst/geheimnis-deines-typs/?aff=adminstore#aff=adminstore"
 sales_page: "https://raikgarve.de/beziehung-zu-dir-selbst/geheimnis-deines-typs/"
@@ -22,7 +22,7 @@ language: "de"
 # Kompass der Persönlichkeit
 
 > Product ID `39685` · Digistore24 productId `429538` · [HTML profile page](../../produkte/kompass-der-pers-nlichkeit-39685.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

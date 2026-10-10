@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "rich"
 promo_link: "https://cloverlift.com/order.html?aff=adminstore#aff=adminstore"
 sales_page: "https://cloverlift.com/order.html"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # CloverLift – E-Learning für Teams, 25 % Provision
 
 > Product ID `58624` · Digistore24 productId `722501` · [HTML profile page](../../produkte/cloverlift-e-learning-f-r-teams-25-provision-58624.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,23 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** E-Learning für Teams bestellen | CloverLift über Digistore24
+- **Meta description:** CloverLift ist die E-Learning-Plattform für Teams. Kurse erstellen, Fortschritt verfolgen und Zertifikate ausstellen. Ab 19 €.
+- **Headline (H1):**
+  > E-Learning-Plattform für Teams und Unternehmen
+- **Section headlines (H2):**
+  - Lernplattform mit Kursen, Fortschritt und Zertifikaten
+  - So startest du mit CloverLift
+  - Preise und Tarife
+  - Häufige Fragen zu CloverLift
+- **CTA button texts:** "Starter über Digistore24 bestellen"
+- **Opening copy (first paragraphs):**
+  > Interne Schulungen und trainergeführte Kurse einfach digitalisieren: Inhalte anlegen, Teams einladen, Fortschritt sehen und Zertifikate ausstellen.
+  > Ob Onboarding, Compliance oder Produktwissen: Mit CloverLift startet ihr ohne eigenen LMS-Administrator.
+  > Texte, Medien und Lektionen modular zusammenstellen – ohne Programmierkenntnisse.
+  > Monatliche Tarife. Kauf und Zahlung ausschließlich über Digistore24. Preise zzgl. gesetzlicher MwSt., sofern ausgewiesen.
+- **Page word count:** 418
+- **OG image:** https://cloverlift.com/images/cloverlift-sales-hero.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0.26
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-11-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://silentsubs.com/media/gratis-brainwave-audiosessions-silentsubs-entrainment/?aff=adminstore#aff=adminstore"
 sales_page: "https://silentsubs.com/media/gratis-brainwave-audiosessions-silentsubs-entrainment/"
@@ -22,7 +22,7 @@ language: "de"
 # Gratis Rife-Frequenz Test-Set – 0€ Content Cookie-Tracking
 
 > Product ID `46017` · Digistore24 productId `525889` · [HTML profile page](../../produkte/gratis-rife-frequenz-test-set-0-content-cookie-tracking-46017.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

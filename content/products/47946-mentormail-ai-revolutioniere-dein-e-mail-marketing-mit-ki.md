@@ -13,7 +13,7 @@ cancel_rate_pct: 2.12
 categories: ["Email Marketing","Online Marketing & E-Business"]
 listed_since: "2024-04-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.mentormailai.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mentormailai.com/"
@@ -22,7 +22,7 @@ language: "de"
 # MentorMail AI: Revolutioniere Dein E-Mail-Marketing mit "KI"
 
 > Product ID `47946` · Digistore24 productId `548161` · [HTML profile page](../../produkte/mentormail-ai-revolutioniere-dein-e-mail-marketing-mit-ki-47946.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

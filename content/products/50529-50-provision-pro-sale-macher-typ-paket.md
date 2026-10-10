@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-11-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://seelengarten-phoenix.com/bundle-kreativer?aff=adminstore#aff=adminstore"
 sales_page: "https://seelengarten-phoenix.com/bundle-kreativer"
@@ -22,7 +22,7 @@ language: "de"
 # 50 % Provision pro Sale –„Macher-Typ“-Paket!
 
 > Product ID `50529` · Digistore24 productId `582138` · [HTML profile page](../../produkte/50-provision-pro-sale-macher-typ-paket-50529.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

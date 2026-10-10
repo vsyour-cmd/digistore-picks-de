@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Law & Justice"]
 listed_since: "2026-02-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://startklar.company/MPU-Vorbereitung?aff=adminstore#aff=adminstore"
 sales_page: "http://startklar.company/MPU-Vorbereitung"
@@ -22,7 +22,7 @@ language: "de"
 # MPU bestehen leicht gemacht – Der Praxis-Guide
 
 > Product ID `55839` · Digistore24 productId `670358` · [HTML profile page](../../produkte/mpu-bestehen-leicht-gemacht-der-praxis-guide-55839.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

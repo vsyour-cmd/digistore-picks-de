@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "rich"
 promo_link: "https://clovernets.com/order.html?aff=adminstore#aff=adminstore"
 sales_page: "https://clovernets.com/order.html"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # CloverNets – Hosting für Clover und WordPress, 25 % Provision
 
 > Product ID `58625` · Digistore24 productId `722504` · [HTML profile page](../../produkte/clovernets-hosting-f-r-clover-und-wordpress-25-provision-58625.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,23 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Domains & Webhosting bestellen | CloverNets über Digistore24
+- **Meta description:** Webhosting, Domains und Managed WordPress auf EU-Servern. Ab 2,99 € über Digistore24.
+- **Headline (H1):**
+  > Domain registrieren & Webhosting aus einer Hand
+- **Section headlines (H2):**
+  - Hosting, Domains und Managed Services aus einer Hand
+  - So startest du mit CloverNets
+  - Preise und Tarife
+  - Häufige Fragen zu CloverNets
+- **CTA button texts:** "Starter über Digistore24 bestellen"
+- **Opening copy (first paragraphs):**
+  > Zuverlässiges Hosting für Websites, WordPress und Clover-Produkte – von Starter bis vollständig Managed.
+  > EU-Server, SSL und transparente Tarife bilden die technische Grundlage; auf Wunsch übernehmen wir Updates und Betrieb.
+  > Sichere Hosting-Pakete mit SSL und passenden Ressourcen für den jeweiligen Bedarf.
+  > WordPress oder CloverNut betreiben lassen, während wir uns um die Technik kümmern.
+- **Page word count:** 454
+- **OG image:** https://clovernets.com/images/clovernets-sales-hero.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

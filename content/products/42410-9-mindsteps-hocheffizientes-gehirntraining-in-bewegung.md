@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2022-11-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://erichfrischenschlager.com/9-mindsteps/?aff=adminstore#aff=adminstore"
 sales_page: "https://erichfrischenschlager.com/9-mindsteps/"
@@ -22,7 +22,7 @@ language: "de"
 # 9 MINDsteps - Hocheffizientes Gehirntraining in Bewegung
 
 > Product ID `42410` · Digistore24 productId `468846` · [HTML profile page](../../produkte/9-mindsteps-hocheffizientes-gehirntraining-in-bewegung-42410.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

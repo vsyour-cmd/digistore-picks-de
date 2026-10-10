@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-09-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/649020?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/649020"
@@ -22,7 +22,7 @@ language: "de"
 # AI Act Starter-Kit für Arztpraxen und MVZ
 
 > Product ID `59696` · Digistore24 productId `649020` · [HTML profile page](../../produkte/ai-act-starter-kit-f-r-arztpraxen-und-mvz-59696.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

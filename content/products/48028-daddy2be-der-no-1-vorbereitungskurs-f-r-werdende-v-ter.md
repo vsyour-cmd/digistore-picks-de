@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Family & Children","Personal Development"]
 listed_since: "2024-01-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://we4fam.de/daddy/?aff=adminstore#aff=adminstore"
 sales_page: "https://we4fam.de/daddy/"
@@ -22,7 +22,7 @@ language: "de"
 # Daddy2Be - Der No.1 Vorbereitungskurs für werdende Väter!
 
 > Product ID `48028` · Digistore24 productId `536014` · [HTML profile page](../../produkte/daddy2be-der-no-1-vorbereitungskurs-f-r-werdende-v-ter-48028.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2016-03-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://energiebilder-selber-malen.de/index.php?page_id=639&aff=adminstore#aff=adminstore"
 sales_page: "http://energiebilder-selber-malen.de/index.php?page_id=639"
@@ -22,7 +22,7 @@ language: "de"
 # "Energiebilder selber malen" Online Videomalkurs "Mandala"
 
 > Product ID `11007` · Digistore24 productId `74631` · [HTML profile page](../../produkte/energiebilder-selber-malen-online-videomalkurs-mandala-11007.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

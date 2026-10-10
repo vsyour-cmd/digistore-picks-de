@@ -13,7 +13,7 @@ cancel_rate_pct: 5.08
 categories: ["Education"]
 listed_since: "2019-10-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://cashcockpit.de/6-konten-modell-nach-t-harv-eker-in-excel-vorlage-sofort-umsetzen-mm/?aff=adminstore#aff=adminstore"
 sales_page: "https://cashcockpit.de/6-konten-modell-nach-t-harv-eker-in-excel-vorlage-sofort-umsetzen-mm/"
@@ -22,7 +22,7 @@ language: "de"
 # GELD: Monatsübersicht erstellen | Vorlage und Anleitung
 
 > Product ID `30438` · Digistore24 productId `289005` · [HTML profile page](../../produkte/geld-monats-bersicht-erstellen-vorlage-und-anleitung-30438.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

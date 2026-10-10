@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2020-09-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.akademie-fsl.de/buch-glueckspilz-349940/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.akademie-fsl.de/buch-glueckspilz-349940/"
@@ -22,7 +22,7 @@ language: "de"
 # Buch: Sie sind ein Glückspilz
 
 > Product ID `35354` · Digistore24 productId `349940` · [HTML profile page](../../produkte/buch-sie-sind-ein-gl-ckspilz-35354.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

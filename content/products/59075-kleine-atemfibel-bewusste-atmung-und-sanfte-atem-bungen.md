@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2026-09-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://workbooks.bewusstseinsfibel.de/atemfibel?aff=adminstore#aff=adminstore"
 sales_page: "https://workbooks.bewusstseinsfibel.de/atemfibel"
@@ -22,7 +22,7 @@ language: "de"
 # Kleine Atemfibel – bewusste Atmung und sanfte Atemübungen
 
 > Product ID `59075` · Digistore24 productId `731682` · [HTML profile page](../../produkte/kleine-atemfibel-bewusste-atmung-und-sanfte-atem-bungen-59075.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

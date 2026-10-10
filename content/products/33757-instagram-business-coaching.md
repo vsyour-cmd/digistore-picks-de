@@ -13,7 +13,7 @@ cancel_rate_pct: 1.5
 categories: ["Profession & Job"]
 listed_since: "2020-08-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/341389?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/341389"
@@ -22,7 +22,7 @@ language: "de"
 # Instagram Business Coaching
 
 > Product ID `33757` · Digistore24 productId `341389` · [HTML profile page](../../produkte/instagram-business-coaching-33757.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

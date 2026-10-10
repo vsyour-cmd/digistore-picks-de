@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Fun & Games","Home & Garden","Profession & Job"]
 listed_since: "2023-11-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://www.dejansekulic.ch/nimm-dir2-minuten-zeit?aff=adminstore#aff=adminstore"
 sales_page: "http://www.dejansekulic.ch/nimm-dir2-minuten-zeit"
@@ -22,7 +22,7 @@ language: "de"
 # Nimm dir 2 Minuten Zeit - für DICH!
 
 > Product ID `45951` · Digistore24 productId `523760` · [HTML profile page](../../produkte/nimm-dir-2-minuten-zeit-f-r-dich-45951.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

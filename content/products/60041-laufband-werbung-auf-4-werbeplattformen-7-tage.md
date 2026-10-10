@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Email Marketing","Services","Marketing Services"]
 listed_since: "2026-09-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://maximails.de/laufband/?aff=adminstore#aff=adminstore"
 sales_page: "https://maximails.de/laufband/"
@@ -22,7 +22,7 @@ language: "de"
 # Laufband-Werbung auf 4 Werbeplattformen (7 Tage)
 
 > Product ID `60041` · Digistore24 productId `10451` · [HTML profile page](../../produkte/laufband-werbung-auf-4-werbeplattformen-7-tage-60041.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-06-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://sabine-tukovits-fischer.app.mentortools.com/qigong-abo?aff=adminstore#aff=adminstore"
 sales_page: "https://sabine-tukovits-fischer.app.mentortools.com/qigong-abo"
@@ -22,7 +22,7 @@ language: "de"
 # Sabines Qigong-Abo mit kostenloser Probewoche als Freebie
 
 > Product ID `57037` · Digistore24 productId `671247` · [HTML profile page](../../produkte/sabines-qigong-abo-mit-kostenloser-probewoche-als-freebie-57037.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

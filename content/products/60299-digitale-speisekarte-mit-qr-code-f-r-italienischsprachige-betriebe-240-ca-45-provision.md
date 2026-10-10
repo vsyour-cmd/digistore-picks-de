@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.direzionex.com/offerta/menu-con-qr?aff=adminstore#aff=adminstore"
 sales_page: "https://www.direzionex.com/offerta/menu-con-qr"
@@ -22,7 +22,7 @@ language: "de"
 # Digitale Speisekarte mit QR-Code für italienischsprachige Betriebe: 240 €, ca. 45 € Provision
 
 > Product ID `60299` · Digistore24 productId `741568` · [HTML profile page](../../produkte/digitale-speisekarte-mit-qr-code-f-r-italienischsprachige-betriebe-240-ca-45-provision-60299.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

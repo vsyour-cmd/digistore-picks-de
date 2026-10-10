@@ -3,6 +3,15 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "Recherche-Nachtrag: 38 zuvor fehlende Verkaufsseiten-Studien ergänzt (Abdeckung jetzt 3726/4270, 87 %); 544 tote Domains bleiben ehrlich gekennzeichnet. Aufgaben-Warteschlange mit 8 neuen Verbesserungen befüllt.",
+      "changes": [
+        "fetch-research: 38 Angebote wiederhergestellt",
+        "improvements-backlog.json: 8 neue Rotationsaufgaben (Promo-Link-Check, Head-to-Head-Erweiterung, Anbieter-Hubs Top100, Preis-Beobachtung, Blog-Verlinkung, llms-full-Erweiterung)",
+        "prune-stale.js: 0 veraltete Dateien nach Neuaufbau"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "Fehler-Check: Audit-Tools repariert (Schema-Audit validiert jetzt @graph-Entitäten über 6452 Seiten — alle bestanden), falsche Duplicate-Title-Treffer entfernt, Anbieter-Verzeichnis verlinkt, Ghost-Seiten entfernter Angebote gelöscht (neuer prune-stale.js-Schritt). QA alles grün.",
       "changes": [
         "audit-schema.js: @graph-Auswertung + Statistik-Keys repariert",

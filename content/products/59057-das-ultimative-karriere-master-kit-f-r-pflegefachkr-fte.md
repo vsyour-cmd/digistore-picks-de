@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://auranit.de/pflegefachkraefte/?aff=adminstore#aff=adminstore"
 sales_page: "https://auranit.de/pflegefachkraefte/"
@@ -22,7 +22,7 @@ language: "de"
 # Das ultimative Karriere Master-Kit für Pflegefachkräfte
 
 > Product ID `59057` · Digistore24 productId `727256` · [HTML profile page](../../produkte/das-ultimative-karriere-master-kit-f-r-pflegefachkr-fte-59057.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

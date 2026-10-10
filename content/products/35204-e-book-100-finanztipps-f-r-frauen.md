@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-11-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://therichgirl.club/frauen-finanzen-buch-100-tipps/?aff=adminstore#aff=adminstore"
 sales_page: "https://therichgirl.club/frauen-finanzen-buch-100-tipps/"
@@ -22,7 +22,7 @@ language: "de"
 # E-Book "100 Finanztipps für Frauen"
 
 > Product ID `35204` · Digistore24 productId `358910` · [HTML profile page](../../produkte/e-book-100-finanztipps-f-r-frauen-35204.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

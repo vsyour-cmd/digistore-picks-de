@@ -13,7 +13,7 @@ cancel_rate_pct: 3.18
 categories: ["Personal Development"]
 listed_since: "2017-04-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "http://energetic-eternity.de/produkt/personality-bundle/?aff=adminstore#aff=adminstore"
 sales_page: "http://energetic-eternity.de/produkt/personality-bundle/"
@@ -22,7 +22,7 @@ language: "de"
 # Personality Bundle – Damit stärkst du deine Persönlichkeit
 
 > Product ID `16217` · Digistore24 productId `133195` · [HTML profile page](../../produkte/personality-bundle-damit-st-rkst-du-deine-pers-nlichkeit-16217.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

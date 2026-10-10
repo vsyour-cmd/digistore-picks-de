@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Services","Marketing Services"]
 listed_since: "2026-02-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/ai-seo-geo-digistore24-level1/?aff=adminstore#aff=adminstore"
 sales_page: "https://robotics-marketing.com/de-landing/ai-seo-geo-digistore24-level1/"
@@ -22,7 +22,7 @@ language: "de"
 # AI SEO GEO "Level1". Mehr Sichtbar an LLM KI-Systeme Modelle
 
 > Product ID `55464` · Digistore24 productId `666030` · [HTML profile page](../../produkte/ai-seo-geo-level1-mehr-sichtbar-an-llm-ki-systeme-modelle-55464.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

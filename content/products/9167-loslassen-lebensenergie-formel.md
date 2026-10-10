@@ -13,7 +13,7 @@ cancel_rate_pct: 4.58
 categories: ["Personal Development"]
 listed_since: "2015-10-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://erfolg-intuitiv.de/energie-webinar/?aff=adminstore#aff=adminstore"
 sales_page: "https://erfolg-intuitiv.de/energie-webinar/"
@@ -22,7 +22,7 @@ language: "de"
 # Loslassen-Lebensenergie-Formel
 
 > Product ID `9167` · Digistore24 productId `60947` · [HTML profile page](../../produkte/loslassen-lebensenergie-formel-9167.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

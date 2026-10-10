@@ -13,7 +13,7 @@ cancel_rate_pct: 0.33
 categories: ["Personal Development","Profession & Job","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-12-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.freileben4.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.freileben4.de"
@@ -22,7 +22,7 @@ language: "de"
 # Frei Leben Kongress 4 - VIP-Paket und Bundle
 
 > Product ID `55749` · Digistore24 productId `655140` · [HTML profile page](../../produkte/frei-leben-kongress-4-vip-paket-und-bundle-55749.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

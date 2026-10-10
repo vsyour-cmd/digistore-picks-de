@@ -13,7 +13,7 @@ cancel_rate_pct: 2.71
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-10-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://affiliforge.net/Affiliatemarketing-Boss?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/Affiliatemarketing-Boss"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate-Marketing like a BOSS - Eigener Chef im Netz
 
 > Product ID `50132` · Digistore24 productId `576515` · [HTML profile page](../../produkte/affiliate-marketing-like-a-boss-eigener-chef-im-netz-50132.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

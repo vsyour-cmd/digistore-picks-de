@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-11-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/zLMTvfhtetqQbGu93?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/zLMTvfhtetqQbGu93"
@@ -22,7 +22,7 @@ language: "de"
 # Top 10 KI Leitfaden
 
 > Product ID `50466` · Digistore24 productId `579165` · [HTML profile page](../../produkte/top-10-ki-leitfaden-50466.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

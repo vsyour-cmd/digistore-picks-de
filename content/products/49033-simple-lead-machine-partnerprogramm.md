@@ -13,7 +13,7 @@ cancel_rate_pct: 2.38
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2023-07-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/506275/adminstore"
 sales_page: "https://www.profitbuddies.de/slm-wj-oi?utm_source=ds24-partner&utm_medium=affiliate&utm_campaign=slm-webinar&utm_content=[AFFILIATE]&aff=[AFFILIATE]"
@@ -22,7 +22,7 @@ language: "de"
 # Simple Lead Machine | Partnerprogramm
 
 > Product ID `49033` · Digistore24 productId `506275` · [HTML profile page](../../produkte/simple-lead-machine-partnerprogramm-49033.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

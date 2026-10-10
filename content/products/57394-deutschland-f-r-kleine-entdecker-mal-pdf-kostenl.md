@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Family & Children","Personal Development"]
 listed_since: "2026-07-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/706605?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/706605"
@@ -22,7 +22,7 @@ language: "de"
 # Deutschland für kleine Entdecker – Mal-PDF (Kostenl
 
 > Product ID `57394` · Digistore24 productId `706605` · [HTML profile page](../../produkte/deutschland-f-r-kleine-entdecker-mal-pdf-kostenl-57394.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

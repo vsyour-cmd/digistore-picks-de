@@ -13,7 +13,7 @@ cancel_rate_pct: 1.22
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-10-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://einprozentclub.com/LP-Lizenz/?aff=adminstore#aff=adminstore"
 sales_page: "https://einprozentclub.com/LP-Lizenz/"
@@ -22,7 +22,7 @@ language: "de"
 # 1% Lizenz | Instagram - Business - Online Geld verdienen
 
 > Product ID `35011` · Digistore24 productId `352052` · [HTML profile page](../../produkte/1-lizenz-instagram-business-online-geld-verdienen-35011.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

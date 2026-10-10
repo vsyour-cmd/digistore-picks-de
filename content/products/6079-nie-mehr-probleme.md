@@ -13,7 +13,7 @@ cancel_rate_pct: 2.93
 categories: ["Travel & Culture"]
 listed_since: "2015-01-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://www.benn-verlag.de/digi-nmp/index.html?aff=adminstore#aff=adminstore"
 sales_page: "http://www.benn-verlag.de/digi-nmp/index.html"
@@ -22,7 +22,7 @@ language: "de"
 # NIE MEHR PROBLEME
 
 > Product ID `6079` · Digistore24 productId `40915` · [HTML profile page](../../produkte/nie-mehr-probleme-6079.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

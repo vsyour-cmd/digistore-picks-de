@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
 listed_since: "2026-09-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "rich"
 promo_link: "https://www.einfachmitmatze.de/pinterest/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.einfachmitmatze.de/pinterest/"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # Pinterest für Einsteiger: Vom Thema zum fertigen Pin
 
 > Product ID `59219` · Digistore24 productId `732832` · [HTML profile page](../../produkte/pinterest-f-r-einsteiger-vom-thema-zum-fertigen-pin-59219.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,30 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Pinterest-Paket · 99 € | Einfach mit Matze
+- **Meta description:** Pinterest verstehen und selbst umsetzen: Praxispaket mit 53 Seiten Guide, Arbeitsmappe und bearbeitbaren Pin-Vorlagen. Kostenlose PDF-Leseprobe.
+- **Final URL after redirects:** https://einfachmitmatze.de/pinterest/
+- **Headline (H1):**
+  > Von „Wie geht das?“ zu deinem ersten Pin.
+- **Section headlines (H2):**
+  - Für alle, die endlich einen Anfang finden möchten.
+  - Ein Schritt baut auf dem nächsten auf.
+  - Das liest du. Damit arbeitest du.
+  - So erklärt Matze. Mach dir selbst ein Bild.
+  - Alles an einem Ort. Für deinen nächsten Schritt.
+  - Matze fragt. Micha macht’s verständlich.
+  - Deine Fragen. Klare Antworten.
+  - Ein erster Schritt ist schon ein Anfang.
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/732832
+- **Opening copy (first paragraphs):**
+  > PINTEREST LERNEN · MIT MATZE Von „Wie geht das?“ zu deinem ersten Pin. Aus deiner Idee wird ein eigener Pin. Matze begleitet dich vom ersten Fragezeichen bis zur Umsetzung – mit Guide, Arbeitsmappe und bearbeitbaren Vorlagen.
+  > E-Book & Arbeitsmaterial Für Einsteiger Deutsch 99 € inkl. MwSt. · einmalig · kein Abo
+  > PASST DAS ZU DIR? Für alle, die endlich einen Anfang finden möchten. Vielleicht hast du eine Website, eine Produktidee oder ein Thema, das dich begeistert. Dir fehlt der Weg, wie daraus passende Inhalte für Pinterest werden.
+  > Du willst mit deinem eigenen Thema arbeiten. Du bist bereit, Inhalte selbst zu erstellen und zu prüfen. Ein sofortiges oder garantiertes Einkommen gehört nicht zum Leistungsversprechen.
+- **Questions the sales page answers:**
+  - Welcher Kurs passt zu dir?
+- **Page word count:** 1250
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

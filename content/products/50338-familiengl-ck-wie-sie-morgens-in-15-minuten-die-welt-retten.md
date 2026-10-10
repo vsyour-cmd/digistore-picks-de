@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2024-10-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/577855?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/577855"
@@ -22,7 +22,7 @@ language: "de"
 # Familienglück-Wie Sie morgens in 15 Minuten die Welt retten!
 
 > Product ID `50338` · Digistore24 productId `577855` · [HTML profile page](../../produkte/familiengl-ck-wie-sie-morgens-in-15-minuten-die-welt-retten-50338.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

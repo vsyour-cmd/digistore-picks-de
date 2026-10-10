@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2026-05-31"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://angstfrei.shop/produkt/die-12-ruhe-anker/?aff=adminstore#aff=adminstore"
 sales_page: "https://angstfrei.shop/produkt/die-12-ruhe-anker/"
@@ -22,7 +22,7 @@ language: "de"
 # Die 12 Ruhe-Anker: MP3, E-Book + Karten - Angstfrei.shop
 
 > Product ID `56765` · Digistore24 productId `697070` · [HTML profile page](../../produkte/die-12-ruhe-anker-mp3-e-book-karten-angstfrei-shop-56765.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

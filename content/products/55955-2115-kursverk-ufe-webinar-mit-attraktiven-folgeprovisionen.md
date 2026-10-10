@@ -13,7 +13,7 @@ cancel_rate_pct: 1.34
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2026-03-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://byebyehamsterrad.de/masterclass-2115/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyehamsterrad.de/masterclass-2115/"
@@ -22,7 +22,7 @@ language: "de"
 # 2115 Kursverkäufe Webinar mit attraktiven Folgeprovisionen
 
 > Product ID `55955` · Digistore24 productId `662545` · [HTML profile page](../../produkte/2115-kursverk-ufe-webinar-mit-attraktiven-folgeprovisionen-55955.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

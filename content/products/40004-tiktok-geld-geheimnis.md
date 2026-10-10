@@ -13,7 +13,7 @@ cancel_rate_pct: 2.03
 categories: ["Social Media"]
 listed_since: "2022-05-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://social.business-kickstart.de/tgg/?aff=adminstore#aff=adminstore"
 sales_page: "https://social.business-kickstart.de/tgg/"
@@ -22,7 +22,7 @@ language: "de"
 # TikTok Geld Geheimnis
 
 > Product ID `40004` · Digistore24 productId `442573` · [HTML profile page](../../produkte/tiktok-geld-geheimnis-40004.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

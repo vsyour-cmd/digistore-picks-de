@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children","Health & Fitness"]
 listed_since: "2026-09-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://vorbereitet-schwanger.de/naehrstoffbereit/?aff=adminstore#aff=adminstore"
 sales_page: "https://vorbereitet-schwanger.de/naehrstoffbereit/"
@@ -22,7 +22,7 @@ language: "de"
 # Nährstoffbereit vor der Schwangerschaft
 
 > Product ID `58895` · Digistore24 productId `727548` · [HTML profile page](../../produkte/n-hrstoffbereit-vor-der-schwangerschaft-58895.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2026-06-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.dj-setbook.com?aff=adminstore#aff=adminstore"
 sales_page: "https://www.dj-setbook.com"
@@ -22,7 +22,7 @@ language: "de"
 # Party DJ Setbook – Das Navigationssystem für DJs (B2C)
 
 > Product ID `57139` · Digistore24 productId `651700` · [HTML profile page](../../produkte/party-dj-setbook-das-navigationssystem-f-r-djs-b2c-57139.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

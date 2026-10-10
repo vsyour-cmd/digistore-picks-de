@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Marketing Services"]
 listed_since: "2026-06-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://aibandclub.com/global-sound-radar?aff=adminstore#aff=adminstore"
 sales_page: "https://aibandclub.com/global-sound-radar"
@@ -22,7 +22,7 @@ language: "de"
 # Global Sound Radar™ – KI-Trendanalyse für digitale Musikmark
 
 > Product ID `57151` · Digistore24 productId `706016` · [HTML profile page](../../produkte/global-sound-radar-ki-trendanalyse-f-r-digitale-musikmark-57151.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

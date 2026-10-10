@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Social Media","Marketing Services"]
 listed_since: "2024-04-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://www.daswebinar.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.daswebinar.com/"
@@ -22,7 +22,7 @@ language: "de"
 # OneClickFaceless - das profitables Online-Business
 
 > Product ID `48437` · Digistore24 productId `547368` · [HTML profile page](../../produkte/oneclickfaceless-das-profitables-online-business-48437.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 

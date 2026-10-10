@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-03-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://ralfwenda.education/revenue-booster/?aff=adminstore#aff=adminstore"
 sales_page: "https://ralfwenda.education/revenue-booster/"
@@ -22,7 +22,7 @@ language: "de"
 # Revenue Booster - leicht zu 5-10 Sales pro Tag
 
 > Product ID `54623` · Digistore24 productId `603392` · [HTML profile page](../../produkte/revenue-booster-leicht-zu-5-10-sales-pro-tag-54623.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

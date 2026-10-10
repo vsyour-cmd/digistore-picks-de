@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Software"]
 listed_since: "2026-09-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://globallinkpagebio-sales.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://globallinkpagebio-sales.netlify.app/"
@@ -22,7 +22,7 @@ language: "de"
 # GlobalLinkPageBio PRO –v1
 
 > Product ID `58890` · Digistore24 productId `728515` · [HTML profile page](../../produkte/globallinkpagebio-pro-v1-58890.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

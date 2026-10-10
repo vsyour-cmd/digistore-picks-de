@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-05-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://grundbuchwissen.de/xxl-vermieter-vorlagenpaket?aff=adminstore#aff=adminstore"
 sales_page: "https://grundbuchwissen.de/xxl-vermieter-vorlagenpaket"
@@ -22,7 +22,7 @@ language: "de"
 # Vorlagen für Immobilien Vermieter + Investoren (Stand: 2021)
 
 > Product ID `34032` · Digistore24 productId `328416` · [HTML profile page](../../produkte/vorlagen-f-r-immobilien-vermieter-investoren-stand-2021-34032.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

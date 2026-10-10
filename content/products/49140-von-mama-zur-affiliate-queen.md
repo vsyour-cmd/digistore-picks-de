@@ -13,7 +13,7 @@ cancel_rate_pct: 6.61
 categories: ["Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-08-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/564575?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/564575"
@@ -22,7 +22,7 @@ language: "de"
 # Von Mama zur Affiliate-Queen
 
 > Product ID `49140` · Digistore24 productId `564575` · [HTML profile page](../../produkte/von-mama-zur-affiliate-queen-49140.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-12-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/253064?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/253064"
@@ -22,7 +22,7 @@ language: "de"
 # Die Mobility-Lösung (Mobility Warm-ups)
 
 > Product ID `33342` · Digistore24 productId `253064` · [HTML profile page](../../produkte/die-mobility-l-sung-mobility-warm-ups-33342.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

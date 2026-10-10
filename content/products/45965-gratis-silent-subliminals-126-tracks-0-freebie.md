@@ -13,7 +13,7 @@ cancel_rate_pct: 0.26
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-11-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://silentsubs.com/media/gratis/?aff=adminstore#aff=adminstore"
 sales_page: "https://silentsubs.com/media/gratis/"
@@ -22,7 +22,7 @@ language: "de"
 # Gratis Silent Subliminals (126 Tracks / 0€ Freebie)
 
 > Product ID `45965` · Digistore24 productId `573555` · [HTML profile page](../../produkte/gratis-silent-subliminals-126-tracks-0-freebie-45965.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

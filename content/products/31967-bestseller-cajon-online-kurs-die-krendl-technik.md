@@ -13,7 +13,7 @@ cancel_rate_pct: 1.82
 categories: ["Dancing & Music"]
 listed_since: "2019-07-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/278845?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/278845"
@@ -22,7 +22,7 @@ language: "de"
 # Bestseller: CAJON ONLINE-KURS - Die Krendl Technik
 
 > Product ID `31967` · Digistore24 productId `278845` · [HTML profile page](../../produkte/bestseller-cajon-online-kurs-die-krendl-technik-31967.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Online Marketing"]
 listed_since: "2025-06-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://vierstelligimmonat.de/ebook-schmiede?aff=adminstore#aff=adminstore"
 sales_page: "https://vierstelligimmonat.de/ebook-schmiede"
@@ -22,7 +22,7 @@ language: "de"
 # Leadmagnetix: E-Book Schmiede 2.0 (Relaunch)
 
 > Product ID `52809` · Digistore24 productId `616865` · [HTML profile page](../../produkte/leadmagnetix-e-book-schmiede-2-0-relaunch-52809.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

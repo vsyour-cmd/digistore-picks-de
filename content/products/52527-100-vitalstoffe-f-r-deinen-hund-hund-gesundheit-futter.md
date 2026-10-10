@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets","Health & Fitness"]
 listed_since: "2024-04-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://hundegesundheit.little-lovin.de/98046383-2639-4610-ae66-ad5926cba02a/?aff=adminstore#aff=adminstore"
 sales_page: "https://hundegesundheit.little-lovin.de/98046383-2639-4610-ae66-ad5926cba02a/"
@@ -22,7 +22,7 @@ language: "de"
 # 100 Vitalstoffe für deinen Hund - Hund Gesundheit Futter
 
 > Product ID `52527` · Digistore24 productId `546521` · [HTML profile page](../../produkte/100-vitalstoffe-f-r-deinen-hund-hund-gesundheit-futter-52527.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

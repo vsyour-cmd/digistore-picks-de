@@ -13,7 +13,7 @@ cancel_rate_pct: 1.9
 categories: ["Dancing & Music"]
 listed_since: "2017-11-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://www.gitarrenvideounterricht.de/kurse/finger-fitness/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.gitarrenvideounterricht.de/kurse/finger-fitness/"
@@ -22,7 +22,7 @@ language: "de"
 # Finger-Fitness - 50 Übungen in 50 Tagen (Video-Gitarrenkurs)
 
 > Product ID `20857` · Digistore24 productId `180001` · [HTML profile page](../../produkte/finger-fitness-50-bungen-in-50-tagen-video-gitarrenkurs-20857.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

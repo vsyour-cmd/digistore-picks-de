@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-02-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/595777/adminstore"
 sales_page: "https://www.reichmitweite.com/?utm_source=affiliate&utm_content=[AFFILIATE]"
@@ -22,7 +22,7 @@ language: "de"
 # Reich mit Weite – Die Social-Media-Strategie, die verkauft!
 
 > Product ID `51995` · Digistore24 productId `595777` · [HTML profile page](../../produkte/reich-mit-weite-die-social-media-strategie-die-verkauft-51995.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 

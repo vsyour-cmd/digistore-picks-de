@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2017-05-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://zwei-familien-auf-weltreise.de/?aff=adminstore#aff=adminstore"
 sales_page: "http://zwei-familien-auf-weltreise.de/"
@@ -22,7 +22,7 @@ language: "de"
 # Zwei Familien auf Weltreise – Der Film
 
 > Product ID `18661` · Digistore24 productId `138853` · [HTML profile page](../../produkte/zwei-familien-auf-weltreise-der-film-18661.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

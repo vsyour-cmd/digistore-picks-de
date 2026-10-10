@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2020-01-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.soulmatecoaching.de/online-dating-queen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.soulmatecoaching.de/online-dating-queen/"
@@ -22,7 +22,7 @@ language: "de"
 # Online Dating Kurs für Frauen
 
 > Product ID `40631` · Digistore24 productId `305200` · [HTML profile page](../../produkte/online-dating-kurs-f-r-frauen-40631.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Photography & Film"]
 listed_since: "2026-09-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.sanversity.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.sanversity.de/"
@@ -22,7 +22,7 @@ language: "de"
 # KI-Hype E-Book: 100 Midjourney-Prompts Copy + Paste
 
 > Product ID `59104` · Digistore24 productId `598233` · [HTML profile page](../../produkte/ki-hype-e-book-100-midjourney-prompts-copy-paste-59104.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

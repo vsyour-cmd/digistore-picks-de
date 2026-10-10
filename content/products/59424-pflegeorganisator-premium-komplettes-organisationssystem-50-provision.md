@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children","Health & Fitness","Office Organization"]
 listed_since: "2026-09-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://meinevorlagenkiste.de/pflegeorganisator/?aff=adminstore#aff=adminstore"
 sales_page: "https://meinevorlagenkiste.de/pflegeorganisator/"
@@ -22,7 +22,7 @@ language: "de"
 # Pflegeorganisator Premium – komplettes Organisationssystem | 50 % Provision
 
 > Product ID `59424` · Digistore24 productId `735273` · [HTML profile page](../../produkte/pflegeorganisator-premium-komplettes-organisationssystem-50-provision-59424.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

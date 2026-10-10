@@ -13,7 +13,7 @@ cancel_rate_pct: 1.06
 categories: ["Business & Investment","Politics & Economy"]
 listed_since: "2025-11-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://schufa-booster.mrschuldenfrei.de?aff=adminstore#aff=adminstore"
 sales_page: "https://schufa-booster.mrschuldenfrei.de"
@@ -22,7 +22,7 @@ language: "de"
 # Schufa löschen leicht gemacht
 
 > Product ID `55931` · Digistore24 productId `649929` · [HTML profile page](../../produkte/schufa-l-schen-leicht-gemacht-55931.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

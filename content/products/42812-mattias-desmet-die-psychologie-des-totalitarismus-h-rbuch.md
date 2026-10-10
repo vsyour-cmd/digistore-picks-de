@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2023-02-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.isid.de/mattias-desmet-die-psychologie-des-totalitarismus-hoerbuch-download?aff=adminstore#aff=adminstore"
 sales_page: "https://www.isid.de/mattias-desmet-die-psychologie-des-totalitarismus-hoerbuch-download"
@@ -22,7 +22,7 @@ language: "de"
 # Mattias Desmet-Die Psychologie des Totalitarismus-Hörbuch
 
 > Product ID `42812` · Digistore24 productId `485059` · [HTML profile page](../../produkte/mattias-desmet-die-psychologie-des-totalitarismus-h-rbuch-42812.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

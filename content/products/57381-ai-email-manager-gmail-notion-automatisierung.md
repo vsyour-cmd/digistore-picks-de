@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Marketing Services"]
 listed_since: "2026-07-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/708060?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/708060"
@@ -22,7 +22,7 @@ language: "de"
 # AI Email Manager: Gmail Notion Automatisierung
 
 > Product ID `57381` · Digistore24 productId `708060` · [HTML profile page](../../produkte/ai-email-manager-gmail-notion-automatisierung-57381.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

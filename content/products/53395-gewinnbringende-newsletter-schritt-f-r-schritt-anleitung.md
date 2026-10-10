@@ -13,7 +13,7 @@ cancel_rate_pct: 2.71
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2025-08-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://affiliforge.net/Gewinnbringende-Newsletter?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/Gewinnbringende-Newsletter"
@@ -22,7 +22,7 @@ language: "de"
 # Gewinnbringende Newsletter - Schritt für Schritt Anleitung
 
 > Product ID `53395` · Digistore24 productId `627702` · [HTML profile page](../../produkte/gewinnbringende-newsletter-schritt-f-r-schritt-anleitung-53395.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

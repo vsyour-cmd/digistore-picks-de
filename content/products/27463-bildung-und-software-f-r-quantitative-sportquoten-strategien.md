@@ -13,7 +13,7 @@ cancel_rate_pct: 3.08
 categories: ["Betting Systems"]
 listed_since: "2022-04-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/439870?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/439870"
@@ -22,7 +22,7 @@ language: "de"
 # Bildung und Software für quantitative Sportquoten-Strategien
 
 > Product ID `27463` · Digistore24 productId `439870` · [HTML profile page](../../produkte/bildung-und-software-f-r-quantitative-sportquoten-strategien-27463.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

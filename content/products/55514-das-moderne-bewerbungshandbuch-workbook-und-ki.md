@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Profession & Job"]
 listed_since: "2025-12-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://heinzbader.com/workbook-zeitgemaess-bewerben-landingpage1/?aff=adminstore#aff=adminstore"
 sales_page: "https://heinzbader.com/workbook-zeitgemaess-bewerben-landingpage1/"
@@ -22,7 +22,7 @@ language: "de"
 # Das moderne Bewerbungshandbuch – Workbook und KI
 
 > Product ID `55514` · Digistore24 productId `654461` · [HTML profile page](../../produkte/das-moderne-bewerbungshandbuch-workbook-und-ki-55514.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

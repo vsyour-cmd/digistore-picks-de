@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-06-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.startimpulse.online/bundle-plr-business-ernaehrung/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.startimpulse.online/bundle-plr-business-ernaehrung/"
@@ -22,7 +22,7 @@ language: "de"
 # PLR-E-Book-Bundle-Ernährung
 
 > Product ID `57117` · Digistore24 productId `699700` · [HTML profile page](../../produkte/plr-e-book-bundle-ern-hrung-57117.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

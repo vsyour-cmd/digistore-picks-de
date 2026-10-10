@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Finances"]
 listed_since: "2023-07-31"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/509481/adminstore"
 sales_page: "https://www.manityou.com/emotion-control/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
@@ -22,7 +22,7 @@ language: "de"
 # Trading - Emotion Control von manitYou
 
 > Product ID `45036` · Digistore24 productId `509481` · [HTML profile page](../../produkte/trading-emotion-control-von-manityou-45036.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

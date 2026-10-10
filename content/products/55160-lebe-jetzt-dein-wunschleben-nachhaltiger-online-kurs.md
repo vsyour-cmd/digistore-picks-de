@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-06-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://www.thebig3.ch/online-kurse/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.thebig3.ch/online-kurse/"
@@ -22,7 +22,7 @@ language: "de"
 # Lebe jetzt dein Wunschleben – Nachhaltiger Online-Kurs
 
 > Product ID `55160` · Digistore24 productId `558070` · [HTML profile page](../../produkte/lebe-jetzt-dein-wunschleben-nachhaltiger-online-kurs-55160.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

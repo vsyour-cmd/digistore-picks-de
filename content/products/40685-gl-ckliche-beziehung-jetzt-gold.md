@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2021-11-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.soulmatecoaching.de/gbj_gold_mentoring/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.soulmatecoaching.de/gbj_gold_mentoring/"
@@ -22,7 +22,7 @@ language: "de"
 # Glückliche Beziehung Jetzt - Gold!
 
 > Product ID `40685` · Digistore24 productId `417298` · [HTML profile page](../../produkte/gl-ckliche-beziehung-jetzt-gold-40685.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

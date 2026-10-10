@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2026-02-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://myglucosana.com/glucosana-pdp-fe?aff=adminstore#aff=adminstore"
 sales_page: "https://myglucosana.com/glucosana-pdp-fe"
@@ -22,7 +22,7 @@ language: "de"
 # GlucoSana: The Blood Sugar Protocol
 
 > Product ID `55651` · Digistore24 productId `668255` · [HTML profile page](../../produkte/glucosana-the-blood-sugar-protocol-55651.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

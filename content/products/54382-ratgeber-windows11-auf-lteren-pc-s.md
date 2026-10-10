@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2025-08-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/630302?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/630302"
@@ -22,7 +22,7 @@ language: "de"
 # Ratgeber Windows11 auf älteren PC`s
 
 > Product ID `54382` · Digistore24 productId `630302` · [HTML profile page](../../produkte/ratgeber-windows11-auf-lteren-pc-s-54382.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2017-06-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "http://seifen-tutorials.de/?aff=adminstore#aff=adminstore"
 sales_page: "http://seifen-tutorials.de/"
@@ -22,7 +22,7 @@ language: "de"
 # VIDEOKURS "Seife einfach selber machen"
 
 > Product ID `20955` · Digistore24 productId `144229` · [HTML profile page](../../produkte/videokurs-seife-einfach-selber-machen-20955.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

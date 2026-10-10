@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-09-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://socratesdentalacademy.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://socratesdentalacademy.de/"
@@ -22,7 +22,7 @@ language: "de"
 # Der teuerste Zahn deines Lebens
 
 > Product ID `59722` · Digistore24 productId `719976` · [HTML profile page](../../produkte/der-teuerste-zahn-deines-lebens-59722.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

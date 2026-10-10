@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-09-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/732711?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/732711"
@@ -22,7 +22,7 @@ language: "de"
 # Der Wende punkt
 
 > Product ID `59319` · Digistore24 productId `732711` · [HTML profile page](../../produkte/der-wende-punkt-59319.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

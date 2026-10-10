@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2025-06-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/617594?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/617594"
@@ -22,7 +22,7 @@ language: "de"
 # Deal Maker Academy
 
 > Product ID `52823` · Digistore24 productId `617594` · [HTML profile page](../../produkte/deal-maker-academy-52823.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

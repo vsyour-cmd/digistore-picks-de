@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-07-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://heinzbader.com/einwaende-und-antworten-lp/?aff=adminstore#aff=adminstore"
 sales_page: "https://heinzbader.com/einwaende-und-antworten-lp/"
@@ -22,7 +22,7 @@ language: "de"
 # Einwände als Chance nutzen – Das komplette Verkaufstraining-
 
 > Product ID `57342` · Digistore24 productId `706807` · [HTML profile page](../../produkte/einw-nde-als-chance-nutzen-das-komplette-verkaufstraining-57342.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

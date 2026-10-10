@@ -13,7 +13,7 @@ cancel_rate_pct: 1.74
 categories: ["Computer & Internet","Fun & Games"]
 listed_since: "2020-05-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://lol.playershubacademy.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://lol.playershubacademy.de/"
@@ -22,7 +22,7 @@ language: "de"
 # PlayersHUB Academy 6 Monats Paket
 
 > Product ID `42986` · Digistore24 productId `327990` · [HTML profile page](../../produkte/playershub-academy-6-monats-paket-42986.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

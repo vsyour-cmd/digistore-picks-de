@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children","Food & Drink"]
 listed_since: "2026-07-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://wildfree-melonen-kochbuch.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://wildfree-melonen-kochbuch.netlify.app/"
@@ -22,7 +22,7 @@ language: "de"
 # Melonen - Kochbuch für Familien  - 50 % Provision
 
 > Product ID `57587` · Digistore24 productId `711404` · [HTML profile page](../../produkte/melonen-kochbuch-f-r-familien-50-provision-57587.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

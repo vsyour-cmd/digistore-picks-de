@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2025-12-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "medium"
 promo_link: "https://www.affyro.com/500nebenbei.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.affyro.com/500nebenbei.html"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # 500 € nebenbei – realistisch, legal, ohne Online-Bullshit
 
 > Product ID `54968` · Digistore24 productId `656649` · [HTML profile page](../../produkte/500-nebenbei-realistisch-legal-ohne-online-bullshit-54968.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,23 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** 500 € Nebenbei | Realistisch & Legal
+- **Headline (H1):**
+  > 500 € nebenbei – realistisch, legal, ohne Online-Bullshit.
+- **Section headlines (H2):**
+  - Warum dieses Buch anders ist.
+  - Drei konkrete Modelle Schritt-für-Schritt.
+  - Bist du bereit für mehr Luft zum Atmen?
+  - Impressum
+  - Datenschutz
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/656649
+- **Opening copy (first paragraphs):**
+  > Ein ehrlicher Guide für Menschen, die rechnen können. Wie du dir ein stabiles Extra-Einkommen aufbaust – ohne Influencer-Masche und ohne Risiko.
+  > 90% der Online-Tipps scheitern, weil sie falsche Erwartungen wecken. "Passives Einkommen" ist für die meisten am Anfang ein Mythos.
+  > Dieses Buch ist für Menschen geschrieben, die mitten im Leben stehen. Du hast einen Job, wenig Zeit und keine Lust auf Selbstdarstellung im Internet.
+  > Ca. 200 € / Monat. Ideal, wenn du wenig Zeit hast und schnelle Entlastung suchst.
+- **Page word count:** 301
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

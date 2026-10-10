@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2025-12-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://willkommen.hund-und-du.de/Minikurs_Aufmerksamkeitsbooster/Fokus?aff=adminstore#aff=adminstore"
 sales_page: "https://willkommen.hund-und-du.de/Minikurs_Aufmerksamkeitsbooster/Fokus"
@@ -22,7 +22,7 @@ language: "de"
 # Mehr Aufmerksamkeit beim Hund – einfacher 14-Tage-Mini-Kurs
 
 > Product ID `55183` · Digistore24 productId `655964` · [HTML profile page](../../produkte/mehr-aufmerksamkeit-beim-hund-einfacher-14-tage-mini-kurs-55183.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

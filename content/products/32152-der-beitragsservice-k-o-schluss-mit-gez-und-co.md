@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Law & Justice"]
 listed_since: "2020-01-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.wissenmachtfrei.com/beitragsservice-gez.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.wissenmachtfrei.com/beitragsservice-gez.html"
@@ -22,7 +22,7 @@ language: "de"
 # Der Beitragsservice K.O. - Schluss mit GEZ und Co.!
 
 > Product ID `32152` · Digistore24 productId `304949` · [HTML profile page](../../produkte/der-beitragsservice-k-o-schluss-mit-gez-und-co-32152.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

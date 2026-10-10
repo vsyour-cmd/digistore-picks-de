@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job"]
 listed_since: "2026-07-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/710082?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/710082"
@@ -22,7 +22,7 @@ language: "de"
 # Der 5-Stunden-Nebenjob
 
 > Product ID `57481` · Digistore24 productId `710082` · [HTML profile page](../../produkte/der-5-stunden-nebenjob-57481.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

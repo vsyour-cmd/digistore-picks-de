@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Betting Systems"]
 listed_since: "2018-10-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://lottoknacker.net/ds/video-3/?aff=adminstore#aff=adminstore"
 sales_page: "https://lottoknacker.net/ds/video-3/"
@@ -22,7 +22,7 @@ language: "de"
 # Höchste Auszahlung auf kaltem Traffic (Lotto Knacker System)
 
 > Product ID `41307` · Digistore24 productId `242150` · [HTML profile page](../../produkte/h-chste-auszahlung-auf-kaltem-traffic-lotto-knacker-system-41307.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

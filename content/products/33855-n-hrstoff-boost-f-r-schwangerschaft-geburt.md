@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2020-06-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://clevermom.de/schwangerschaft-naehstoffboost/?aff=adminstore#aff=adminstore"
 sales_page: "https://clevermom.de/schwangerschaft-naehstoffboost/"
@@ -22,7 +22,7 @@ language: "de"
 # Nährstoff-Boost für Schwangerschaft & Geburt
 
 > Product ID `33855` · Digistore24 productId `331999` · [HTML profile page](../../produkte/n-hrstoff-boost-f-r-schwangerschaft-geburt-33855.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

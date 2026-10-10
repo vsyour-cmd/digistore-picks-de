@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2020-02-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.onlinegitarrelernen.com//gitarre-lernen-online-masterplan?aff=adminstore#aff=adminstore"
 sales_page: "https://www.onlinegitarrelernen.com//gitarre-lernen-online-masterplan"
@@ -22,7 +22,7 @@ language: "de"
 # Gitarre lernen online Masterplan
 
 > Product ID `31755` · Digistore24 productId `308316` · [HTML profile page](../../produkte/gitarre-lernen-online-masterplan-31755.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

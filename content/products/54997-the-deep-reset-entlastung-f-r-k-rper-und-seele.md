@@ -13,7 +13,7 @@ cancel_rate_pct: 4.51
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-12-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/655261?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/655261"
@@ -22,7 +22,7 @@ language: "de"
 # The Deep Reset - Entlastung für Körper und Seele
 
 > Product ID `54997` · Digistore24 productId `655261` · [HTML profile page](../../produkte/the-deep-reset-entlastung-f-r-k-rper-und-seele-54997.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

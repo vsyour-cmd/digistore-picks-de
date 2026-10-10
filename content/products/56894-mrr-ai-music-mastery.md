@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-06-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "medium"
 promo_link: "https://www.affyro.com/MRRAIMusicMastery.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.affyro.com/MRRAIMusicMastery.html"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # MRR: AI Music Mastery
 
 > Product ID `56894` · Digistore24 productId `701661` · [HTML profile page](../../produkte/mrr-ai-music-mastery-56894.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,22 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** MRR Lizenz: AI Music Mastery | AFFYRO
+- **Headline (H1):**
+  > Verkaufe den begehrtesten KI-Trend des Jahres.
+- **Section headlines (H2):**
+  - Dein fertiges Business-Archiv
+  - Die simple Mathematik
+  - Impressum
+  - Datenschutz
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/701661
+- **Opening copy (first paragraphs):**
+  > Überspringe die wochenlange Produkterstellung. Sichere dir die offizielle Master Resell Rights (MRR) Lizenz für den Bestseller-Guide "AI Music Mastery" und behalte 100 % der Einnahmen.
+  > KI-Musik explodiert gerade. Mit dieser Lizenz verkaufst du nicht nur ein Buch – du lieferst die exakten Workflows (Suno V6), nach denen die Leute gerade suchen.
+  > Der empfohlene Endkundenpreis für den Guide liegt bei lukrativen 19,90 €. Da du bei jedem Verkauf 100 % des Erlöses behältst, sieht die (hypothetische) Rechnung so aus:
+  > Wichtiger Hinweis (Digistore24 Compliance): Dies ist ein reines, mathematisches Rechenbeispiel. Wir garantieren ausdrücklich keine festen Einnahmen oder Gewinne. Dein tatsächlicher Erfolg hängt vollständig von deinen eigenen Marketingmaßnahmen, deinem Traffic und deiner Zielgruppe ab.
+- **Page word count:** 263
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

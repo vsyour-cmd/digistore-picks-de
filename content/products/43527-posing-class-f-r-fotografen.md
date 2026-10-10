@@ -13,7 +13,7 @@ cancel_rate_pct: 3.96
 categories: ["Profession & Job"]
 listed_since: "2019-07-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://juliaandgil.education/live-shoots-workshop/?aff=adminstore#aff=adminstore"
 sales_page: "https://juliaandgil.education/live-shoots-workshop/"
@@ -22,7 +22,7 @@ language: "de"
 # POSING CLASS für Fotografen
 
 > Product ID `43527` · Digistore24 productId `281004` · [HTML profile page](../../produkte/posing-class-f-r-fotografen-43527.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

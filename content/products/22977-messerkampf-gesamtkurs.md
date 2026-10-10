@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2018-02-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://martialarts-online.funnelcockpit.com/knife1/?aff=adminstore#aff=adminstore"
 sales_page: "https://martialarts-online.funnelcockpit.com/knife1/"
@@ -22,7 +22,7 @@ language: "de"
 # Messerkampf Gesamtkurs
 
 > Product ID `22977` · Digistore24 productId `201793` · [HTML profile page](../../produkte/messerkampf-gesamtkurs-22977.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

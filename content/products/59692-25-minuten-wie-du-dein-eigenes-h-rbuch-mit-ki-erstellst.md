@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2026-09-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://25minuten.carstenfeuerbach.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://25minuten.carstenfeuerbach.com/"
@@ -22,7 +22,7 @@ language: "de"
 # 25 Minuten – Wie Du Dein eigenes Hörbuch mit KI erstellst
 
 > Product ID `59692` · Digistore24 productId `727975` · [HTML profile page](../../produkte/25-minuten-wie-du-dein-eigenes-h-rbuch-mit-ki-erstellst-59692.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

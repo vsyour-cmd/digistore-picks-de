@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2025-10-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://suchtfrei.app.mentortools.com/suchtfrei?aff=adminstore#aff=adminstore"
 sales_page: "https://suchtfrei.app.mentortools.com/suchtfrei"
@@ -22,7 +22,7 @@ language: "de"
 # suchtfrei – Raus aus der Alkoholdynamik
 
 > Product ID `54490` · Digistore24 productId `639794` · [HTML profile page](../../produkte/suchtfrei-raus-aus-der-alkoholdynamik-54490.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

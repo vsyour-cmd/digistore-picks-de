@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-01-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/8apLDLGBxyW7oHBWa?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/8apLDLGBxyW7oHBWa"
@@ -22,7 +22,7 @@ language: "de"
 # Katzenhumor - Minka und Leos verrückter Alltag
 
 > Product ID `55396` · Digistore24 productId `663881` · [HTML profile page](../../produkte/katzenhumor-minka-und-leos-verr-ckter-alltag-55396.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

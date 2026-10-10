@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Education","Software"]
 listed_since: "2026-09-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/734143?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/734143"
@@ -22,7 +22,7 @@ language: "de"
 # Windows 11 Komplettkurs für Einsteiger
 
 > Product ID `59639` · Digistore24 productId `734143` · [HTML profile page](../../produkte/windows-11-komplettkurs-f-r-einsteiger-59639.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2017-09-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://digitalewelt.spitzen-praevention.com/kmm-krebserkrankungen/?aff=adminstore#aff=adminstore"
 sales_page: "https://digitalewelt.spitzen-praevention.com/kmm-krebserkrankungen/"
@@ -22,7 +22,7 @@ language: "de"
 # KMM2017 Krebserkrankungen - Digitales Kongresspaket
 
 > Product ID `19587` · Digistore24 productId `164085` · [HTML profile page](../../produkte/kmm2017-krebserkrankungen-digitales-kongresspaket-19587.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

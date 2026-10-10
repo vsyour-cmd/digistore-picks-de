@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
 listed_since: "2025-12-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/blog-artikel-erstellen-posten-guenstig-99euro-digistore24/?aff=adminstore#aff=adminstore"
 sales_page: "https://robotics-marketing.com/de-landing/blog-artikel-erstellen-posten-guenstig-99euro-digistore24/"
@@ -22,7 +22,7 @@ language: "de"
 # 4 Blog-Artikel 88€ / Monat + Bilder erstellen
 
 > Product ID `54835` · Digistore24 productId `652892` · [HTML profile page](../../produkte/4-blog-artikel-88-monat-bilder-erstellen-54835.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

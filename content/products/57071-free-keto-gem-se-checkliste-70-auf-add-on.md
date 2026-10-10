@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2026-06-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://ketogen-ratgeber.de/keto-check-gemuese/?aff=adminstore#aff=adminstore"
 sales_page: "https://ketogen-ratgeber.de/keto-check-gemuese/"
@@ -22,7 +22,7 @@ language: "de"
 # Free Keto Gemüse Checkliste 70% auf Add-on
 
 > Product ID `57071` · Digistore24 productId `674681` · [HTML profile page](../../produkte/free-keto-gem-se-checkliste-70-auf-add-on-57071.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

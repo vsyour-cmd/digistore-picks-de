@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets","Dating, Relationships & Romance","Personal Development"]
 listed_since: "2024-06-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.hundesozialisation.de/ds24-welcher-hund-passt-zu-mir/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.hundesozialisation.de/ds24-welcher-hund-passt-zu-mir/"
@@ -22,7 +22,7 @@ language: "de"
 # Booster-Kurs "Welcher Hund passt zu mir?"
 
 > Product ID `48363` · Digistore24 productId `556112` · [HTML profile page](../../produkte/booster-kurs-welcher-hund-passt-zu-mir-48363.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Hobby & Craft","Home & Garden"]
 listed_since: "2026-03-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.salad-cashflow.de/50m2-matrix-neu?aff=adminstore#aff=adminstore"
 sales_page: "https://www.salad-cashflow.de/50m2-matrix-neu"
@@ -22,7 +22,7 @@ language: "de"
 # 50 Prozent Provision: Das 27.000 Euro Salat-Business
 
 > Product ID `55916` · Digistore24 productId `674898` · [HTML profile page](../../produkte/50-prozent-provision-das-27-000-euro-salat-business-55916.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

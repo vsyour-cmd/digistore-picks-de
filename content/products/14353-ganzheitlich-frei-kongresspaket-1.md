@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2016-07-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://ganzheitlich-frei.com/upsell-kongresspakete1-3/?aff=adminstore#aff=adminstore"
 sales_page: "https://ganzheitlich-frei.com/upsell-kongresspakete1-3/"
@@ -22,7 +22,7 @@ language: "de"
 # Ganzheitlich FREI Kongresspaket 1
 
 > Product ID `14353` · Digistore24 productId `88863` · [HTML profile page](../../produkte/ganzheitlich-frei-kongresspaket-1-14353.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

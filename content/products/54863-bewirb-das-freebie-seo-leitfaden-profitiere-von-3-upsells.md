@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2025-05-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.online-marketing-woman.de/55-der-ultimative-seo-leitfaden-anmeldung?aff=adminstore#aff=adminstore"
 sales_page: "https://www.online-marketing-woman.de/55-der-ultimative-seo-leitfaden-anmeldung"
@@ -22,7 +22,7 @@ language: "de"
 # Bewirb das Freebie "SEO-Leitfaden". Profitiere von 3 Upsells
 
 > Product ID `54863` · Digistore24 productId `611758` · [HTML profile page](../../produkte/bewirb-das-freebie-seo-leitfaden-profitiere-von-3-upsells-54863.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-09-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://nine-to-never.systeme.io/03642f79?aff=adminstore#aff=adminstore"
 sales_page: "http://nine-to-never.systeme.io/03642f79"
@@ -22,7 +22,7 @@ language: "de"
 # 30 Reels in 3 Stunden
 
 > Product ID `60052` · Digistore24 productId `738768` · [HTML profile page](../../produkte/30-reels-in-3-stunden-60052.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

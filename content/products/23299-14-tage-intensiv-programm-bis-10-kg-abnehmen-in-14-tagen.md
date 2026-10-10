@@ -13,7 +13,7 @@ cancel_rate_pct: 2.08
 categories: ["Health & Fitness"]
 listed_since: "2016-05-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.14-tage-intensiv-programm.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.14-tage-intensiv-programm.de/"
@@ -22,7 +22,7 @@ language: "de"
 # 14-Tage-Intensiv-Programm - Bis 10 Kg abnehmen in 14 Tagen
 
 > Product ID `23299` · Digistore24 productId `81835` · [HTML profile page](../../produkte/14-tage-intensiv-programm-bis-10-kg-abnehmen-in-14-tagen-23299.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

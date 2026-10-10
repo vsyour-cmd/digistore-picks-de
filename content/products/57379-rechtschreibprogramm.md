@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-07-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/625038?testpay=3439450-9651235395CaS2vrL3ncVhvxmGehLyZmGNXMU4fRgJ5AK34zVUtT59D&fbclid=PAVERFWASzradwZG9mAmV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABpxr-gC_f2vtUrV7v4u81UQ5A08KVOGKgbBw8ne9qoPq6dtTAs-xd5Oo5P&aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/625038?testpay=3439450-9651235395CaS2vrL3ncVhvxmGehLyZmGNXMU4fRgJ5AK34zVUtT59D&fbclid=PAVERFWASzradwZG9mAmV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABpxr-gC_f2vtUrV7v4u81UQ5A08KVOGKgbBw8ne9qoPq6dtTAs-xd5Oo5P"
@@ -22,7 +22,7 @@ language: "de"
 # Rechtschreibprogramm
 
 > Product ID `57379` · Digistore24 productId `625038` · [HTML profile page](../../produkte/rechtschreibprogramm-57379.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

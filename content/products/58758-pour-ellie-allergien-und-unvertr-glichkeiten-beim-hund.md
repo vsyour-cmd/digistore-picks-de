@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2026-08-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/662692?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/662692"
@@ -22,7 +22,7 @@ language: "de"
 # Pour Ellie – Allergien und Unverträglichkeiten beim Hund
 
 > Product ID `58758` · Digistore24 productId `662692` · [HTML profile page](../../produkte/pour-ellie-allergien-und-unvertr-glichkeiten-beim-hund-58758.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

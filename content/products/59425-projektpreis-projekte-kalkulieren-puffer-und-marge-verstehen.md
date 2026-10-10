@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Software","Project Management"]
 listed_since: "2026-09-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/735303?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/735303"
@@ -22,7 +22,7 @@ language: "de"
 # Projektpreis: Projekte kalkulieren, Puffer und Marge verstehen
 
 > Product ID `59425` · Digistore24 productId `735303` · [HTML profile page](../../produkte/projektpreis-projekte-kalkulieren-puffer-und-marge-verstehen-59425.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

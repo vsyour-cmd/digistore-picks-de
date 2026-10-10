@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2026-02-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.online-starten.info/checkliste-email-marketing/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.online-starten.info/checkliste-email-marketing/"
@@ -22,7 +22,7 @@ language: "de"
 # E-Mail Marketing für Affiliates - Verdiene 80% Provision
 
 > Product ID `55640` · Digistore24 productId `667708` · [HTML profile page](../../produkte/e-mail-marketing-f-r-affiliates-verdiene-80-provision-55640.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

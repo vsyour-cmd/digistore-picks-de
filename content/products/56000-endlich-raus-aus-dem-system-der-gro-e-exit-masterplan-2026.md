@@ -13,7 +13,7 @@ cancel_rate_pct: 7.15
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2025-11-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://nomadmaster.de/exit-masterplan?aff=adminstore#aff=adminstore"
 sales_page: "https://nomadmaster.de/exit-masterplan"
@@ -22,7 +22,7 @@ language: "de"
 # Endlich raus aus dem System: Der große Exit Masterplan 2026
 
 > Product ID `56000` · Digistore24 productId `651384` · [HTML profile page](../../produkte/endlich-raus-aus-dem-system-der-gro-e-exit-masterplan-2026-56000.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 

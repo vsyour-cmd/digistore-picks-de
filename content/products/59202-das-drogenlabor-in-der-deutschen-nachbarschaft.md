@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Home & Garden","Services"]
 listed_since: "2026-09-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://wissenskinder.my.canva.site/grenzblick-drogenlabor-im-mietshaus?aff=adminstore#aff=adminstore"
 sales_page: "https://wissenskinder.my.canva.site/grenzblick-drogenlabor-im-mietshaus"
@@ -22,7 +22,7 @@ language: "de"
 # Das Drogenlabor in der Deutschen Nachbarschaft
 
 > Product ID `59202` · Digistore24 productId `717533` · [HTML profile page](../../produkte/das-drogenlabor-in-der-deutschen-nachbarschaft-59202.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

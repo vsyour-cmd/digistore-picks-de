@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Email Marketing","Social Media","Online Marketing"]
 listed_since: "2025-09-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://vierstelligimmonat.de/12kreels?aff=adminstore#aff=adminstore"
 sales_page: "https://vierstelligimmonat.de/12kreels"
@@ -22,7 +22,7 @@ language: "de"
 # 12K Aesthetic Luxury Reels + PLR/MRR Lizenz
 
 > Product ID `54059` · Digistore24 productId `634096` · [HTML profile page](../../produkte/12k-aesthetic-luxury-reels-plr-mrr-lizenz-54059.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

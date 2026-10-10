@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Skin Care"]
 listed_since: "2026-07-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://freshbreath-24-de.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://freshbreath-24-de.netlify.app/"
@@ -22,7 +22,7 @@ language: "de"
 # Frischer Atem beginnt heute – Ihr kompletter 30-Tag
 
 > Product ID `57409` · Digistore24 productId `708518` · [HTML profile page](../../produkte/frischer-atem-beginnt-heute-ihr-kompletter-30-tag-57409.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

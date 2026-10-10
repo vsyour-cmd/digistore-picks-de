@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Project Management"]
 listed_since: "2026-09-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "http://navigator.connectra.club?aff=adminstore#aff=adminstore"
 sales_page: "http://navigator.connectra.club"
@@ -22,7 +22,7 @@ language: "de"
 # Connectra Business Navigator
 
 > Product ID `59014` · Digistore24 productId `726562` · [HTML profile page](../../produkte/connectra-business-navigator-59014.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

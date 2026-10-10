@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Hobby & Craft","Sport"]
 listed_since: "2023-03-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.sandplatz-tennis.de/mein-tennis-ebook/?aff=AFFILIATE&aff=adminstore#aff=adminstore"
 sales_page: "https://www.sandplatz-tennis.de/mein-tennis-ebook/?aff=AFFILIATE"
@@ -22,7 +22,7 @@ language: "de"
 # Die Tennis Bibel des Amateursports
 
 > Product ID `42967` · Digistore24 productId `488060` · [HTML profile page](../../produkte/die-tennis-bibel-des-amateursports-42967.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

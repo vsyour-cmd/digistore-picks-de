@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2019-04-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://lp.larspilawski.de/auto-insta-marketer/?aff=adminstore#aff=adminstore"
 sales_page: "https://lp.larspilawski.de/auto-insta-marketer/"
@@ -22,7 +22,7 @@ language: "de"
 # Auto-Insta-Marketer
 
 > Product ID `37123` · Digistore24 productId `268789` · [HTML profile page](../../produkte/auto-insta-marketer-37123.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: ["Hobby & Craft","Fashion"]
 listed_since: "2026-06-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "medium"
 promo_link: "https://carola-blessing.app.mentortools.com/com?aff=adminstore#aff=adminstore"
 sales_page: "https://carola-blessing.app.mentortools.com/com"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # Einfach mit dem Glätteisen selber Locken drehen lernen!
 
 > Product ID `56861` · Digistore24 productId `677190` · [HTML profile page](../../produkte/einfach-mit-dem-gl-tteisen-selber-locken-drehen-lernen-56861.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -51,7 +51,20 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Minikurs Locken selber drehen mit dem Glätteisen
+- **Headline (H1):**
+  > Deine Traumlocken: Einfach & schnell mit dem Glätteisen
+- **Section headlines (H2):**
+  - Warum dieser Kurs dein Gamechanger ist
+  - Was du in diesem Minikurs lernst
+  - Echte Frauen, echte Ergebnisse
+  - Bist du bereit für deine Traumlocken?
+- **Opening copy (first paragraphs):**
+  > Vergiss komplizierte Tutorials. Lerne die Profi-Technik, mit der du dir in unter 15 Minuten perfekte, langanhaltende Wellen zauberst.
+  > Verabschiede dich von frustrierenden Morgenstunden vor dem Spiegel. Wir machen das Styling zum Wellness-Moment.
+  > Enorme Zeitersparnis Lerne eine Technik, die so effizient ist, dass du sie sogar an stressigen Montagen in deine Routine einbauen kannst.
+  > Einfache Technik Kein kompliziertes Eindrehen oder Verheddern. Schritt-für-Schritt Anleitungen, die jeder sofort umsetzen kann.
+- **Page word count:** 339
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

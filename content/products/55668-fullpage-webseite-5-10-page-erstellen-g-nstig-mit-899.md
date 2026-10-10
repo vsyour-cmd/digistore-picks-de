@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Services","Marketing Services"]
 listed_since: "2025-12-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/webseite-5-10page-erstellen-guenstig-digistore24/?aff=adminstore#aff=adminstore"
 sales_page: "https://robotics-marketing.com/de-landing/webseite-5-10page-erstellen-guenstig-digistore24/"
@@ -22,7 +22,7 @@ language: "de"
 # Fullpage Webseite " 5-10 Page " erstellen günstig mit 899
 
 > Product ID `55668` · Digistore24 productId `654150` · [HTML profile page](../../produkte/fullpage-webseite-5-10-page-erstellen-g-nstig-mit-899-55668.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

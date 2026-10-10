@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Marketing Services"]
 listed_since: "2025-05-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://kischmiede.funnelcockpit.com/ki-business-suite/?aff=adminstore#aff=adminstore"
 sales_page: "https://kischmiede.funnelcockpit.com/ki-business-suite/"
@@ -22,7 +22,7 @@ language: "de"
 # KI Business Suite, 23 GPTs für Content, Funnel, E-Mail
 
 > Product ID `52648` · Digistore24 productId `615669` · [HTML profile page](../../produkte/ki-business-suite-23-gpts-f-r-content-funnel-e-mail-52648.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

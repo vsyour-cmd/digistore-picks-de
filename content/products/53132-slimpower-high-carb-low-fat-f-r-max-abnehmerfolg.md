@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2025-03-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/603664?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/603664"
@@ -22,7 +22,7 @@ language: "de"
 # SlimPower – High Carb Low Fat für max. Abnehmerfolg!
 
 > Product ID `53132` · Digistore24 productId `603664` · [HTML profile page](../../produkte/slimpower-high-carb-low-fat-f-r-max-abnehmerfolg-53132.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

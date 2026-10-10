@@ -13,7 +13,7 @@ cancel_rate_pct: 5.11
 categories: ["Health & Fitness"]
 listed_since: "2016-01-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://raikgarve.de/irrtuemer-der-medizin/die-4-irrtuemer-der-modernen-herz-medizin/?aff=adminstore#aff=adminstore"
 sales_page: "https://raikgarve.de/irrtuemer-der-medizin/die-4-irrtuemer-der-modernen-herz-medizin/"
@@ -22,7 +22,7 @@ language: "de"
 # HERZ Gesundheit aus ganzheitlicher Sicht
 
 > Product ID `9615` · Digistore24 productId `67593` · [HTML profile page](../../produkte/herz-gesundheit-aus-ganzheitlicher-sicht-9615.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

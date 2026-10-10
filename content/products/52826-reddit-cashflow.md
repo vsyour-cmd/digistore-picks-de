@@ -13,7 +13,7 @@ cancel_rate_pct: 7.42
 categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2025-05-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "http://lp-mircodigital.de/rc/freebie?aff=adminstore#aff=adminstore"
 sales_page: "http://lp-mircodigital.de/rc/freebie"
@@ -22,7 +22,7 @@ language: "de"
 # Reddit Cashflow
 
 > Product ID `52826` · Digistore24 productId `614011` · [HTML profile page](../../produkte/reddit-cashflow-52826.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

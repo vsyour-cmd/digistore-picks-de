@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-04-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://akademie.medumio.de/autoimmunkongress/wissenspaket/?aff=adminstore#aff=adminstore"
 sales_page: "https://akademie.medumio.de/autoimmunkongress/wissenspaket/"
@@ -22,7 +22,7 @@ language: "de"
 # DER KOSTENLOSE AUTOIMMUNKONGRESS
 
 > Product ID `29814` · Digistore24 productId `267630` · [HTML profile page](../../produkte/der-kostenlose-autoimmunkongress-29814.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

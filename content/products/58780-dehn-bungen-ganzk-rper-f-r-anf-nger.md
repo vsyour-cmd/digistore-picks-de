@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/727681?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/727681"
@@ -22,7 +22,7 @@ language: "de"
 # Dehnübungen Ganzkörper für Anfänger
 
 > Product ID `58780` · Digistore24 productId `727681` · [HTML profile page](../../produkte/dehn-bungen-ganzk-rper-f-r-anf-nger-58780.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

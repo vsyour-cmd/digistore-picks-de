@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Services"]
 listed_since: "2025-08-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/631776?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/631776"
@@ -22,7 +22,7 @@ language: "de"
 # LinkedIn Sales Navigator mit fast 70 % Rab. Einrichtungsserv
 
 > Product ID `53664` · Digistore24 productId `631776` · [HTML profile page](../../produkte/linkedin-sales-navigator-mit-fast-70-rab-einrichtungsserv-53664.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

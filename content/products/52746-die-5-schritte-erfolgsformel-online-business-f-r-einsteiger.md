@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-06-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/zCfv69i3ye7pG2kkA?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/zCfv69i3ye7pG2kkA"
@@ -22,7 +22,7 @@ language: "de"
 # Die 5-Schritte-Erfolgsformel: Online-Business für Einsteiger
 
 > Product ID `52746` · Digistore24 productId `616407` · [HTML profile page](../../produkte/die-5-schritte-erfolgsformel-online-business-f-r-einsteiger-52746.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

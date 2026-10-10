@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2021-09-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://ichgebaere.com/affirmationen-e-book-audio-meditation/?aff=adminstore#aff=adminstore"
 sales_page: "https://ichgebaere.com/affirmationen-e-book-audio-meditation/"
@@ -22,7 +22,7 @@ language: "de"
 # Affirmationen zur Geburt - Ebook und Audiodatei
 
 > Product ID `38800` · Digistore24 productId `405502` · [HTML profile page](../../produkte/affirmationen-zur-geburt-ebook-und-audiodatei-38800.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 3.32
 categories: ["Hobby & Craft"]
 listed_since: "2020-05-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://mobiles-bett.de/renault-kangoo-w?aff=adminstore#aff=adminstore"
 sales_page: "https://mobiles-bett.de/renault-kangoo-w"
@@ -22,7 +22,7 @@ language: "de"
 # Bauanleitung - Renault Kangoo W Kombibett
 
 > Product ID `35152` · Digistore24 productId `328643` · [HTML profile page](../../produkte/bauanleitung-renault-kangoo-w-kombibett-35152.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

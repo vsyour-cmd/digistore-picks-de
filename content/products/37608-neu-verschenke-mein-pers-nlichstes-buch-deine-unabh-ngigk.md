@@ -13,7 +13,7 @@ cancel_rate_pct: 2.53
 categories: ["Personal Development"]
 listed_since: "2021-08-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/402184/adminstore"
 sales_page: "https://www.thomasklussmann.de/buch/unabhaengigkeitserklaerung/?utm_source=Digistore24&utm_medium=Affiliate&utm_campaign=Aff%3A%20[AFFILIATE]&utm_content=Cam%3A%20[CAMPAIGNKEY]&dbtr=aff_[AFFILIATE]"
@@ -22,7 +22,7 @@ language: "de"
 # [NEU] Verschenke mein persönlichstes Buch “Deine Unabhängigk
 
 > Product ID `37608` · Digistore24 productId `402184` · [HTML profile page](../../produkte/neu-verschenke-mein-pers-nlichstes-buch-deine-unabh-ngigk-37608.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

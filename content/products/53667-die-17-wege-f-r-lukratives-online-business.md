@@ -13,7 +13,7 @@ cancel_rate_pct: 2.71
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-08-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://affiliforge.net/17-effektive-Wege?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/17-effektive-Wege"
@@ -22,7 +22,7 @@ language: "de"
 # Die 17 Wege für lukratives Online-Business
 
 > Product ID `53667` · Digistore24 productId `631469` · [HTML profile page](../../produkte/die-17-wege-f-r-lukratives-online-business-53667.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

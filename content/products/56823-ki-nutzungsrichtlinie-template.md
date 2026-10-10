@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Services"]
 listed_since: "2026-06-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/698838?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/698838"
@@ -22,7 +22,7 @@ language: "de"
 # KI Nutzungsrichtlinie Template
 
 > Product ID `56823` · Digistore24 productId `698838` · [HTML profile page](../../produkte/ki-nutzungsrichtlinie-template-56823.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

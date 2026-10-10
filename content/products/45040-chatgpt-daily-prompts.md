@@ -13,7 +13,7 @@ cancel_rate_pct: 2.13
 categories: ["Online Marketing & E-Business","Profession & Job","Online Marketing"]
 listed_since: "2023-04-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.aiinzider.com/daily-prompts/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.aiinzider.com/daily-prompts/"
@@ -22,7 +22,7 @@ language: "de"
 # ChatGPT - Daily Prompts
 
 > Product ID `45040` · Digistore24 productId `495580` · [HTML profile page](../../produkte/chatgpt-daily-prompts-45040.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

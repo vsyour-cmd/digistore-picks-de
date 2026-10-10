@@ -13,7 +13,7 @@ cancel_rate_pct: 0.25
 categories: ["Dancing & Music","Dating, Relationships & Romance","Sport"]
 listed_since: "2023-09-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.digistore24.com/redir/516694/adminstore"
 sales_page: "https://lets-dance.net/premium-sales?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
@@ -22,7 +22,7 @@ language: "de"
 # Lets-Dance - Partnerprogramm
 
 > Product ID `49546` · Digistore24 productId `516694` · [HTML profile page](../../produkte/lets-dance-partnerprogramm-49546.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

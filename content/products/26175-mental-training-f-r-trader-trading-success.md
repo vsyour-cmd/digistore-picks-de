@@ -13,7 +13,7 @@ cancel_rate_pct: 0.26
 categories: ["Personal Development","Trading Products"]
 listed_since: "2021-03-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://brainfood4you.com/lp-trading-success-album?aff=adminstore#aff=adminstore"
 sales_page: "https://brainfood4you.com/lp-trading-success-album"
@@ -22,7 +22,7 @@ language: "de"
 # Mental-Training für Trader - TRADING SUCCESS
 
 > Product ID `26175` · Digistore24 productId `377032` · [HTML profile page](../../produkte/mental-training-f-r-trader-trading-success-26175.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

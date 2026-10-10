@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Finances","Personal Development"]
 listed_since: "2025-12-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/657496?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/657496"
@@ -22,7 +22,7 @@ language: "de"
 # Azubi Money Hacks – Premium-Guide + Budget-Excel (sparwerk96
 
 > Product ID `55027` · Digistore24 productId `657496` · [HTML profile page](../../produkte/azubi-money-hacks-premium-guide-budget-excel-sparwerk96-55027.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

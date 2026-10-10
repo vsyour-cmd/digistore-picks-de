@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Marketing Services"]
 listed_since: "2026-03-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://prime-prestige-ventures-b-p.net/prometheus-verkaufsseite/?aff=adminstore#aff=adminstore"
 sales_page: "https://prime-prestige-ventures-b-p.net/prometheus-verkaufsseite/"
@@ -22,7 +22,7 @@ language: "de"
 # PROMETHEUS Cyber Fortress™ – 50 % Provision + Partner-Bonus
 
 > Product ID `56362` · Digistore24 productId `679015` · [HTML profile page](../../produkte/prometheus-cyber-fortress-50-provision-partner-bonus-56362.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

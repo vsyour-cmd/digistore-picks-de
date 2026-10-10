@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/728764?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/728764"
@@ -22,7 +22,7 @@ language: "de"
 # 999 KI-Prompts für Affiliate-Marketer
 
 > Product ID `58863` · Digistore24 productId `728764` · [HTML profile page](../../produkte/999-ki-prompts-f-r-affiliate-marketer-58863.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

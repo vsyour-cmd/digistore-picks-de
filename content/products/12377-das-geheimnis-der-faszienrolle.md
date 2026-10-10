@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2016-07-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://es-welt.de/das-geheimnis-der-faszienrolle-2/?aff=adminstore#aff=adminstore"
 sales_page: "http://es-welt.de/das-geheimnis-der-faszienrolle-2/"
@@ -22,7 +22,7 @@ language: "de"
 # Das Geheimnis der Faszienrolle
 
 > Product ID `12377` · Digistore24 productId `88925` · [HTML profile page](../../produkte/das-geheimnis-der-faszienrolle-12377.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 1.86
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-03-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.kimate.de/sofortc/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kimate.de/sofortc/"
@@ -22,7 +22,7 @@ language: "de"
 # SOFORTCASH
 
 > Product ID `47718` · Digistore24 productId `542435` · [HTML profile page](../../produkte/sofortcash-47718.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

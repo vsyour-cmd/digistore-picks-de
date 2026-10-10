@@ -13,7 +13,7 @@ cancel_rate_pct: 18.86
 categories: ["Profession & Job"]
 listed_since: "2019-11-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://klick.gunnarkessler.info/api/split/1mqmz48rz1fzkz5fdf?aff=adminstore#aff=adminstore"
 sales_page: "https://klick.gunnarkessler.info/api/split/1mqmz48rz1fzkz5fdf"
@@ -22,7 +22,7 @@ language: "de"
 # Das 24 Minuten Cash System - von Gunnar Kessler
 
 > Product ID `31921` · Digistore24 productId `295882` · [HTML profile page](../../produkte/das-24-minuten-cash-system-von-gunnar-kessler-31921.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

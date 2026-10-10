@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-02-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/J5YsjP34xx2Docqow?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/J5YsjP34xx2Docqow"
@@ -22,7 +22,7 @@ language: "de"
 # Mehr Reichweite auf YouTube – klare Strategie für Einsteiger
 
 > Product ID `55537` · Digistore24 productId `667997` · [HTML profile page](../../produkte/mehr-reichweite-auf-youtube-klare-strategie-f-r-einsteiger-55537.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

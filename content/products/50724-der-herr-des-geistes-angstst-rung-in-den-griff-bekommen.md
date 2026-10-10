@@ -13,7 +13,7 @@ cancel_rate_pct: 5.63
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2024-09-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/722701?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/722701"
@@ -22,7 +22,7 @@ language: "de"
 # Der Herr des Geistes - Angststörung in den Griff bekommen
 
 > Product ID `50724` · Digistore24 productId `722701` · [HTML profile page](../../produkte/der-herr-des-geistes-angstst-rung-in-den-griff-bekommen-50724.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

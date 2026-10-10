@@ -13,7 +13,7 @@ cancel_rate_pct: 1.9
 categories: ["Business & Investment"]
 listed_since: "2021-12-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/419814/adminstore"
 sales_page: "https://www.thomasklussmann.de/buch/praxishandbuch/?utm_source=Digistore24&utm_medium=Affiliate&utm_campaign=Aff%3A%20[AFFILIATE]&utm_content=Cam%3A%20[CAMPAIGNKEY]&dbtr=aff_[AFFILIATE]"
@@ -22,7 +22,7 @@ language: "de"
 # [NEU] Verschenke das Online Business Praxishandbuch
 
 > Product ID `38598` · Digistore24 productId `419814` · [HTML profile page](../../produkte/neu-verschenke-das-online-business-praxishandbuch-38598.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 1.4
 categories: ["Real Estate"]
 listed_since: "2025-04-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://www.nolimitclub.de?aff=adminstore#aff=adminstore"
 sales_page: "http://www.nolimitclub.de"
@@ -22,7 +22,7 @@ language: "de"
 # Mitgliedschaft No Limit Club
 
 > Product ID `52167` · Digistore24 productId `608197` · [HTML profile page](../../produkte/mitgliedschaft-no-limit-club-52167.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

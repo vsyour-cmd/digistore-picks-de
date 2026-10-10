@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Photography & Film","Profession & Job"]
 listed_since: "2025-07-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://ugc-community.funnelcockpit.com/angebot/?aff=adminstore#aff=adminstore"
 sales_page: "https://ugc-community.funnelcockpit.com/angebot/"
@@ -22,7 +22,7 @@ language: "de"
 # Als Frau mit UGC Geld verdienen - Extreme Cold Traffic CVR
 
 > Product ID `53921` · Digistore24 productId `624279` · [HTML profile page](../../produkte/als-frau-mit-ugc-geld-verdienen-extreme-cold-traffic-cvr-53921.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

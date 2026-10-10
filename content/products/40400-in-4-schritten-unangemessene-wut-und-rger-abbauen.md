@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2022-03-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.beratung-therapie.de/225-0-4-Schritte-gegen-Wut-und-Aerger.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.beratung-therapie.de/225-0-4-Schritte-gegen-Wut-und-Aerger.html"
@@ -22,7 +22,7 @@ language: "de"
 # In 4 Schritten unangemessene Wut und Ärger abbauen
 
 > Product ID `40400` · Digistore24 productId `436049` · [HTML profile page](../../produkte/in-4-schritten-unangemessene-wut-und-rger-abbauen-40400.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2024-10-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/574643?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/574643"
@@ -22,7 +22,7 @@ language: "de"
 # Hochzeitsreden des Brautpaars: Persönlich und Unvergesslich
 
 > Product ID `54122` · Digistore24 productId `574643` · [HTML profile page](../../produkte/hochzeitsreden-des-brautpaars-pers-nlich-und-unvergesslich-54122.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

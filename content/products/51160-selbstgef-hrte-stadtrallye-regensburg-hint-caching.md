@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Fun & Games","Travel & Culture"]
 listed_since: "2023-02-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://hint-caching.de/stadtrallye-regensburg/?aff=adminstore#aff=adminstore"
 sales_page: "https://hint-caching.de/stadtrallye-regensburg/"
@@ -22,7 +22,7 @@ language: "de"
 # Selbstgeführte Stadtrallye Regensburg | Hint-Caching
 
 > Product ID `51160` · Digistore24 productId `485119` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-regensburg-hint-caching-51160.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

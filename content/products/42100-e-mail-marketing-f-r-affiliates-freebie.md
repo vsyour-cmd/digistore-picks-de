@@ -13,7 +13,7 @@ cancel_rate_pct: 2.86
 categories: ["Email Marketing"]
 listed_since: "2022-10-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://kb-om.com/e-mail-marketing-fuer-affiliates-ds24/?aff=adminstore#aff=adminstore"
 sales_page: "https://kb-om.com/e-mail-marketing-fuer-affiliates-ds24/"
@@ -22,7 +22,7 @@ language: "de"
 # E-Mail Marketing für Affiliates - Freebie
 
 > Product ID `42100` · Digistore24 productId `464834` · [HTML profile page](../../produkte/e-mail-marketing-f-r-affiliates-freebie-42100.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2019-06-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.volleyballfreak.de/athletikkurs-fuer-volleyballer?aff=adminstore#aff=adminstore"
 sales_page: "https://www.volleyballfreak.de/athletikkurs-fuer-volleyballer"
@@ -22,7 +22,7 @@ language: "de"
 # Athletiktraining für Volleyballer
 
 > Product ID `29110` · Digistore24 productId `274234` · [HTML profile page](../../produkte/athletiktraining-f-r-volleyballer-29110.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

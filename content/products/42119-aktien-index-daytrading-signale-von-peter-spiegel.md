@@ -13,7 +13,7 @@ cancel_rate_pct: 11.3
 categories: ["Trading Products"]
 listed_since: "2022-10-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/trading-signale/index-daytrading-peter-spiegel/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kagels-trading.de/trading-signale/index-daytrading-peter-spiegel/"
@@ -22,7 +22,7 @@ language: "de"
 # Aktien-Index Daytrading Signale von Peter Spiegel
 
 > Product ID `42119` · Digistore24 productId `467093` · [HTML profile page](../../produkte/aktien-index-daytrading-signale-von-peter-spiegel-42119.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

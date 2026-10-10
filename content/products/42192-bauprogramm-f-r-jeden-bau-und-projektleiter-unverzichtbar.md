@@ -13,7 +13,7 @@ cancel_rate_pct: 4.14
 categories: ["Home & Garden","Software","Real Estate"]
 listed_since: "2022-01-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/423798/adminstore"
 sales_page: "https://www.bauprogramm.com/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
@@ -22,7 +22,7 @@ language: "de"
 # Bauprogramm - Für jeden Bau- und Projektleiter unverzichtbar
 
 > Product ID `42192` · Digistore24 productId `423798` · [HTML profile page](../../produkte/bauprogramm-f-r-jeden-bau-und-projektleiter-unverzichtbar-42192.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

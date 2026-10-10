@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-03-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://mq-gesellschaft-koeln.coachy.net/lp/azav-online-akademie-grundlagen-und-bestandsaufnahme/?aff=adminstore#aff=adminstore"
 sales_page: "https://mq-gesellschaft-koeln.coachy.net/lp/azav-online-akademie-grundlagen-und-bestandsaufnahme/"
@@ -22,7 +22,7 @@ language: "de"
 # AZAV Online-Akademie
 
 > Product ID `36335` · Digistore24 productId `381027` · [HTML profile page](../../produkte/azav-online-akademie-36335.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

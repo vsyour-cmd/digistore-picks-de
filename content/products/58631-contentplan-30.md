@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Services","Marketing Services"]
 listed_since: "2026-08-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/724354?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/724354"
@@ -22,7 +22,7 @@ language: "de"
 # ContentPlan 30
 
 > Product ID `58631` · Digistore24 productId `724354` · [HTML profile page](../../produkte/contentplan-30-58631.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

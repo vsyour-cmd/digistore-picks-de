@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2021-11-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://fabisdesign-kids.com/de/kreativabenteuer-lp2-1490e/?aff=adminstore#aff=adminstore"
 sales_page: "https://fabisdesign-kids.com/de/kreativabenteuer-lp2-1490e/"
@@ -22,7 +22,7 @@ language: "de"
 # "Rette Herrn Rumpelpumpel" FABI's erstes Kreativ-Abenteuer
 
 > Product ID `38979` · Digistore24 productId `416351` · [HTML profile page](../../produkte/rette-herrn-rumpelpumpel-fabi-s-erstes-kreativ-abenteuer-38979.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

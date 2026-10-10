@@ -13,7 +13,7 @@ cancel_rate_pct: 4.35
 categories: ["Personal Development","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2023-08-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://sandrahirsch.com/seelenplan?aff=adminstore#aff=adminstore"
 sales_page: "https://sandrahirsch.com/seelenplan"
@@ -22,7 +22,7 @@ language: "de"
 # Seelenplan Report: 180 Tage Garantie, Lifetimeprovision
 
 > Product ID `48142` · Digistore24 productId `510260` · [HTML profile page](../../produkte/seelenplan-report-180-tage-garantie-lifetimeprovision-48142.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

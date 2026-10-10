@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-01-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://robotics-marketing.com/de-landing/130euro-monat-2stunde-automat-diensleistungen-digistore24/?aff=adminstore#aff=adminstore"
 sales_page: "https://robotics-marketing.com/de-landing/130euro-monat-2stunde-automat-diensleistungen-digistore24/"
@@ -22,7 +22,7 @@ language: "de"
 # Email Klick Tipp Marketing Automations: Smarte Kampagnen und
 
 > Product ID `55339` · Digistore24 productId `664290` · [HTML profile page](../../produkte/email-klick-tipp-marketing-automations-smarte-kampagnen-und-55339.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

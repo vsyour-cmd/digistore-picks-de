@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-03-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://michael-kotzur.de/chatgpt-fuer-affiliates/?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-kotzur.de/chatgpt-fuer-affiliates/"
@@ -22,7 +22,7 @@ language: "de"
 # eBook: ChatGPT für Affiliate
 
 > Product ID `51747` · Digistore24 productId `600517` · [HTML profile page](../../produkte/ebook-chatgpt-f-r-affiliate-51747.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

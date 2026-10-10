@@ -13,7 +13,7 @@ cancel_rate_pct: 5.86
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-09-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://geldquelle2023.funnelcockpit.com/unendliche-mailkampagne/?aff=adminstore#aff=adminstore"
 sales_page: "https://geldquelle2023.funnelcockpit.com/unendliche-mailkampagne/"
@@ -22,7 +22,7 @@ language: "de"
 # Insider Geldquelle + E-Mail Funnel
 
 > Product ID `48987` · Digistore24 productId `572144` · [HTML profile page](../../produkte/insider-geldquelle-e-mail-funnel-48987.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

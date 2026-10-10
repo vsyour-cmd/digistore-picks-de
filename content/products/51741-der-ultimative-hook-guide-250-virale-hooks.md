@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-02-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://michael-kotzur.de/der-ultimative-hook-guide/?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-kotzur.de/der-ultimative-hook-guide/"
@@ -22,7 +22,7 @@ language: "de"
 # Der ultimative Hook-Guide: 250 VIRALE HOOKS
 
 > Product ID `51741` · Digistore24 productId `596743` · [HTML profile page](../../produkte/der-ultimative-hook-guide-250-virale-hooks-51741.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2018-03-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://andreas-beutel.tv/e-book-die-platonischen-koerper-entdecken/?aff=adminstore#aff=adminstore"
 sales_page: "https://andreas-beutel.tv/e-book-die-platonischen-koerper-entdecken/"
@@ -22,7 +22,7 @@ language: "de"
 # Heilige Geometrie - Platonische Körper - E-Book      Mitglie
 
 > Product ID `23159` · Digistore24 productId `206741` · [HTML profile page](../../produkte/heilige-geometrie-platonische-k-rper-e-book-mitglie-23159.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

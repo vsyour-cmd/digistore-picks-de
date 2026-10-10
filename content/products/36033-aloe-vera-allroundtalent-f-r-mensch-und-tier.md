@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2021-03-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://aloe-vera.funnelcockpit.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://aloe-vera.funnelcockpit.com/"
@@ -22,7 +22,7 @@ language: "de"
 # ALOE VERA - Allroundtalent für Mensch und Tier
 
 > Product ID `36033` · Digistore24 productId `378176` · [HTML profile page](../../produkte/aloe-vera-allroundtalent-f-r-mensch-und-tier-36033.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

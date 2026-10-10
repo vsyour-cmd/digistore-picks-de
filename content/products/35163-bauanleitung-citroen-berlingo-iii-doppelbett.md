@@ -13,7 +13,7 @@ cancel_rate_pct: 3.8
 categories: ["Hobby & Craft"]
 listed_since: "2020-06-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://mobiles-bett.de/citroen-berlingo-III?aff=adminstore#aff=adminstore"
 sales_page: "https://mobiles-bett.de/citroen-berlingo-III"
@@ -22,7 +22,7 @@ language: "de"
 # Bauanleitung - Citroen Berlingo III Doppelbett
 
 > Product ID `35163` · Digistore24 productId `330336` · [HTML profile page](../../produkte/bauanleitung-citroen-berlingo-iii-doppelbett-35163.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

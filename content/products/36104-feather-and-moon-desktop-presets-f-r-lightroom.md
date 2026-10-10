@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Photography & Film"]
 listed_since: "2019-11-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.farbklang-fotografie.de/fuer-fotografen/shop/presets/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.farbklang-fotografie.de/fuer-fotografen/shop/presets/"
@@ -22,7 +22,7 @@ language: "de"
 # Feather and Moon Desktop Presets für Lightroom
 
 > Product ID `36104` · Digistore24 productId `295301` · [HTML profile page](../../produkte/feather-and-moon-desktop-presets-f-r-lightroom-36104.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

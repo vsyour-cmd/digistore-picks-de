@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-12-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://niux.my.canva.site/90tage-eine-entscheidung?aff=adminstore#aff=adminstore"
 sales_page: "https://niux.my.canva.site/90tage-eine-entscheidung"
@@ -22,7 +22,7 @@ language: "de"
 # 90 Tage - Struktur, Klarheit und innere Stabilität
 
 > Product ID `55058` · Digistore24 productId `657479` · [HTML profile page](../../produkte/90-tage-struktur-klarheit-und-innere-stabilit-t-55058.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

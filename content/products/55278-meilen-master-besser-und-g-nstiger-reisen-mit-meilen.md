@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2025-09-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://meilenweitreisen.app.mentortools.com/meilen-master-kurs?aff=adminstore#aff=adminstore"
 sales_page: "https://meilenweitreisen.app.mentortools.com/meilen-master-kurs"
@@ -22,7 +22,7 @@ language: "de"
 # Meilen Master - besser und günstiger Reisen mit Meilen
 
 > Product ID `55278` · Digistore24 productId `638069` · [HTML profile page](../../produkte/meilen-master-besser-und-g-nstiger-reisen-mit-meilen-55278.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

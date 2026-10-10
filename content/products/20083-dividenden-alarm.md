@@ -13,7 +13,7 @@ cancel_rate_pct: 0.17
 categories: ["Business & Investment"]
 listed_since: "2017-10-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://reich-mit-plan.de/dividendenstrategie-dividenden-alarm?aff=adminstore#aff=adminstore"
 sales_page: "https://reich-mit-plan.de/dividendenstrategie-dividenden-alarm"
@@ -22,7 +22,7 @@ language: "de"
 # Dividenden-Alarm
 
 > Product ID `20083` · Digistore24 productId `174217` · [HTML profile page](../../produkte/dividenden-alarm-20083.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

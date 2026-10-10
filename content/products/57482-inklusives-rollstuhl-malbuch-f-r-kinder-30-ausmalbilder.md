@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children","Fun & Games","Hobby & Craft"]
 listed_since: "2026-07-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://gesundleben360.de/mein-buntes-rollstuhl-malbuch/?aff=adminstore#aff=adminstore"
 sales_page: "https://gesundleben360.de/mein-buntes-rollstuhl-malbuch/"
@@ -22,7 +22,7 @@ language: "de"
 # Inklusives Rollstuhl-Malbuch für Kinder – 30 Ausmalbilder +
 
 > Product ID `57482` · Digistore24 productId `710090` · [HTML profile page](../../produkte/inklusives-rollstuhl-malbuch-f-r-kinder-30-ausmalbilder-57482.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

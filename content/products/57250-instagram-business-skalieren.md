@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/instagram-business-skalieren?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/instagram-business-skalieren"
@@ -22,7 +22,7 @@ language: "de"
 # Instagram Business skalieren
 
 > Product ID `57250` · Digistore24 productId `704228` · [HTML profile page](../../produkte/instagram-business-skalieren-57250.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

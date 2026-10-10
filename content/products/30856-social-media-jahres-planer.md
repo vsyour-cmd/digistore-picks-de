@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2019-12-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://torstenjaeger.com/socialmediajahresplaner?aff=adminstore#aff=adminstore"
 sales_page: "https://torstenjaeger.com/socialmediajahresplaner"
@@ -22,7 +22,7 @@ language: "de"
 # Social Media Jahres Planer
 
 > Product ID `30856` · Digistore24 productId `298305` · [HTML profile page](../../produkte/social-media-jahres-planer-30856.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

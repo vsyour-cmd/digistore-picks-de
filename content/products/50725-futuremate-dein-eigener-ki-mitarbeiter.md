@@ -13,7 +13,7 @@ cancel_rate_pct: 5.86
 categories: ["Computer & Internet","Education","Profession & Job"]
 listed_since: "2026-01-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.andreaslangdigital.com/futuremate/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.andreaslangdigital.com/futuremate/"
@@ -22,7 +22,7 @@ language: "de"
 # FutureMate - Dein eigener KI Mitarbeiter
 
 > Product ID `50725` · Digistore24 productId `659605` · [HTML profile page](../../produkte/futuremate-dein-eigener-ki-mitarbeiter-50725.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

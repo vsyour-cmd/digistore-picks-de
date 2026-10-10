@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Sport","Survival"]
 listed_since: "2021-05-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.fma24.com/onlinekurse/palmstick-defense/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.fma24.com/onlinekurse/palmstick-defense/"
@@ -22,7 +22,7 @@ language: "de"
 # Hammer Concept Palmstick Defense Onlinekurs
 
 > Product ID `39160` · Digistore24 productId `391973` · [HTML profile page](../../produkte/hammer-concept-palmstick-defense-onlinekurs-39160.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

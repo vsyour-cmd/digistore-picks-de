@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2026-07-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://mein-kurs-business.com/sofort-starten/?aff=adminstore#aff=adminstore"
 sales_page: "https://mein-kurs-business.com/sofort-starten/"
@@ -22,7 +22,7 @@ language: "de"
 # Geld verdienen mit zahlreichen fertigen Onlinekursen
 
 > Product ID `57572` · Digistore24 productId `444456` · [HTML profile page](../../produkte/geld-verdienen-mit-zahlreichen-fertigen-onlinekursen-57572.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

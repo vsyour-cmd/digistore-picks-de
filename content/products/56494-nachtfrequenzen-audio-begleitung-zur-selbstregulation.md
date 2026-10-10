@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-04-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/682513?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/682513"
@@ -22,7 +22,7 @@ language: "de"
 # Nachtfrequenzen – Audio-Begleitung zur Selbstregulation
 
 > Product ID `56494` · Digistore24 productId `682513` · [HTML profile page](../../produkte/nachtfrequenzen-audio-begleitung-zur-selbstregulation-56494.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

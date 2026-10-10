@@ -13,7 +13,7 @@ cancel_rate_pct: 2.33
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2024-04-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://michael-schlinder.com/Social-Media-Erfolg?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-schlinder.com/Social-Media-Erfolg"
@@ -22,7 +22,7 @@ language: "de"
 # Social Media Erfolg - Die 15 besten Strategien
 
 > Product ID `47973` · Digistore24 productId `550042` · [HTML profile page](../../produkte/social-media-erfolg-die-15-besten-strategien-47973.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

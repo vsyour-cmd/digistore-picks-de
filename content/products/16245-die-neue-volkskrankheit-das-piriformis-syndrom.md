@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2017-04-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://ischias-schmerzen.de/?aff=adminstore#aff=adminstore"
 sales_page: "http://ischias-schmerzen.de/"
@@ -22,7 +22,7 @@ language: "de"
 # Die neue Volkskrankheit: Das Piriformis-Syndrom
 
 > Product ID `16245` · Digistore24 productId `132977` · [HTML profile page](../../produkte/die-neue-volkskrankheit-das-piriformis-syndrom-16245.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Profession & Job"]
 listed_since: "2024-06-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/556373?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/556373"
@@ -22,7 +22,7 @@ language: "de"
 # 200 Faceless Women Reels mit PLR/MRR
 
 > Product ID `48356` · Digistore24 productId `556373` · [HTML profile page](../../produkte/200-faceless-women-reels-mit-plr-mrr-48356.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

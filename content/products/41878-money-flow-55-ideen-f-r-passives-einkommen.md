@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2022-11-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.businessheldinnen.com/money-flow-55-ideen-fuer-passives-einkommen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.businessheldinnen.com/money-flow-55-ideen-fuer-passives-einkommen/"
@@ -22,7 +22,7 @@ language: "de"
 # Money Flow! 55 Ideen für passives Einkommen
 
 > Product ID `41878` · Digistore24 productId `470337` · [HTML profile page](../../produkte/money-flow-55-ideen-f-r-passives-einkommen-41878.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

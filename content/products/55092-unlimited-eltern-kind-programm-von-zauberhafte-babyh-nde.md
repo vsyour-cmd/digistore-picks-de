@@ -13,7 +13,7 @@ cancel_rate_pct: 4.39
 categories: ["Family & Children"]
 listed_since: "2022-07-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://go.zauberhafte-babyhaende.de/unlimited?aff=adminstore#aff=adminstore"
 sales_page: "https://go.zauberhafte-babyhaende.de/unlimited"
@@ -22,7 +22,7 @@ language: "de"
 # UNLIMITED - Eltern-Kind-Programm von Zauberhafte Babyhände®
 
 > Product ID `55092` · Digistore24 productId `451681` · [HTML profile page](../../produkte/unlimited-eltern-kind-programm-von-zauberhafte-babyh-nde-55092.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

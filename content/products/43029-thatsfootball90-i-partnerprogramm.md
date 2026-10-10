@@ -13,7 +13,7 @@ cancel_rate_pct: 1.44
 categories: ["Betting Systems"]
 listed_since: "2023-01-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.digistore.thatsfootball90x.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.digistore.thatsfootball90x.de"
@@ -22,7 +22,7 @@ language: "de"
 # Thatsfootball90 I Partnerprogramm
 
 > Product ID `43029` · Digistore24 productId `481734` · [HTML profile page](../../produkte/thatsfootball90-i-partnerprogramm-43029.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

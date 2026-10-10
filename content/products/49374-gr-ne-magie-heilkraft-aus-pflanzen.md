@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets","Health & Fitness"]
 listed_since: "2024-09-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://stable-stuff.com/heilmittel-fuer-pferde-grundlagen/?aff=adminstore#aff=adminstore"
 sales_page: "https://stable-stuff.com/heilmittel-fuer-pferde-grundlagen/"
@@ -22,7 +22,7 @@ language: "de"
 # Grüne Magie - Heilkraft aus Pflanzen
 
 > Product ID `49374` · Digistore24 productId `569388` · [HTML profile page](../../produkte/gr-ne-magie-heilkraft-aus-pflanzen-49374.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

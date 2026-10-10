@@ -13,7 +13,7 @@ cancel_rate_pct: 0.41
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2023-04-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.profitbuddies.de/digistore24-cheat-sheet?aff=adminstore#aff=adminstore"
 sales_page: "https://www.profitbuddies.de/digistore24-cheat-sheet"
@@ -22,7 +22,7 @@ language: "de"
 # Digistore24 Cheat Sheet | Partnerprogramm
 
 > Product ID `44321` · Digistore24 productId `496588` · [HTML profile page](../../produkte/digistore24-cheat-sheet-partnerprogramm-44321.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

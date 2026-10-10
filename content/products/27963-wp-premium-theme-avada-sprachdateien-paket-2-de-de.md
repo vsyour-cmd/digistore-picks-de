@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing"]
 listed_since: "2019-01-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://optimize-speech.de/wp-theme-avada-in-deutsch/?aff=adminstore#aff=adminstore"
 sales_page: "https://optimize-speech.de/wp-theme-avada-in-deutsch/"
@@ -22,7 +22,7 @@ language: "de"
 # WP-Premium Theme - AVADA - Sprachdateien Paket 2 de_DE
 
 > Product ID `27963` · Digistore24 productId `256064` · [HTML profile page](../../produkte/wp-premium-theme-avada-sprachdateien-paket-2-de-de-27963.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

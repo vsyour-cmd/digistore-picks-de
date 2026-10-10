@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Education","Health & Fitness"]
 listed_since: "2026-05-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/694521?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/694521"
@@ -22,7 +22,7 @@ language: "de"
 # Wie KI unser Leben verlängert – Die Zukunft der Gesundheit
 
 > Product ID `56655` · Digistore24 productId `694521` · [HTML profile page](../../produkte/wie-ki-unser-leben-verl-ngert-die-zukunft-der-gesundheit-56655.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

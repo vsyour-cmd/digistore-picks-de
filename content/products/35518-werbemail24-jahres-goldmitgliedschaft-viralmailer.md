@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing"]
 listed_since: "2013-01-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://werbemail24.com?aff=adminstore#aff=adminstore"
 sales_page: "https://werbemail24.com"
@@ -22,7 +22,7 @@ language: "de"
 # Werbemail24 Jahres Goldmitgliedschaft Viralmailer
 
 > Product ID `35518` · Digistore24 productId `10761` · [HTML profile page](../../produkte/werbemail24-jahres-goldmitgliedschaft-viralmailer-35518.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

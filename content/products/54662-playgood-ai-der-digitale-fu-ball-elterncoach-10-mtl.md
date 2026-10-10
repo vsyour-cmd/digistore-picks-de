@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children","Sport"]
 listed_since: "2025-11-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://playgood.ai?aff=adminstore#aff=adminstore"
 sales_page: "https://playgood.ai"
@@ -22,7 +22,7 @@ language: "de"
 # PlayGood.ai – Der digitale Fußball-Elterncoach | 10 € mtl.
 
 > Product ID `54662` · Digistore24 productId `646435` · [HTML profile page](../../produkte/playgood-ai-der-digitale-fu-ball-elterncoach-10-mtl-54662.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

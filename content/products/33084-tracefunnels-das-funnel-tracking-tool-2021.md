@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2020-12-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://tracefunnels.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://tracefunnels.com/"
@@ -22,7 +22,7 @@ language: "de"
 # TraceFunnels - Das Funnel Tracking Tool 2021
 
 > Product ID `33084` · Digistore24 productId `364920` · [HTML profile page](../../produkte/tracefunnels-das-funnel-tracking-tool-2021-33084.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

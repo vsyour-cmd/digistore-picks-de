@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/736582?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/736582"
@@ -22,7 +22,7 @@ language: "de"
 # Online-Business-Komplettpaket – alle 16 Praxiskurse mit Matze | 40 %
 
 > Product ID `59606` · Digistore24 productId `736582` · [HTML profile page](../../produkte/online-business-komplettpaket-alle-16-praxiskurse-mit-matze-40-59606.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

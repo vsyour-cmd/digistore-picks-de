@@ -13,7 +13,7 @@ cancel_rate_pct: 13.91
 categories: ["Languages"]
 listed_since: "2017-12-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.sprachheld.de/spanisch-challenge/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.sprachheld.de/spanisch-challenge/"
@@ -22,7 +22,7 @@ language: "de"
 # Spanisch lernen mit der Sprachblock-Methode
 
 > Product ID `41554` · Digistore24 productId `187753` · [HTML profile page](../../produkte/spanisch-lernen-mit-der-sprachblock-methode-41554.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

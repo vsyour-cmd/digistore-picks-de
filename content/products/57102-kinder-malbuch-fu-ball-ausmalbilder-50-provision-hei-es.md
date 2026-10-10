@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Family & Children","Sport"]
 listed_since: "2026-06-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://fussballcoloring.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://fussballcoloring.netlify.app/"
@@ -22,7 +22,7 @@ language: "de"
 # Kinder Malbuch Fußball Ausmalbilder – 50% Provision | Heißes
 
 > Product ID `57102` · Digistore24 productId `703474` · [HTML profile page](../../produkte/kinder-malbuch-fu-ball-ausmalbilder-50-provision-hei-es-57102.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

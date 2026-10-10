@@ -13,7 +13,7 @@ cancel_rate_pct: 3.23
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2017-09-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://lp.drlaemmerhirt.com/produkt-dein-system?aff=adminstore#aff=adminstore"
 sales_page: "https://lp.drlaemmerhirt.com/produkt-dein-system"
@@ -22,7 +22,7 @@ language: "de"
 # Endlich frei von Akne – Dein System | Das 6-Schritte-System
 
 > Product ID `56278` · Digistore24 productId `164663` · [HTML profile page](../../produkte/endlich-frei-von-akne-dein-system-das-6-schritte-system-56278.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

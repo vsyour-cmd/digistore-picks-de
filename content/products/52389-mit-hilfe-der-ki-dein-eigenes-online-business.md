@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Online Marketing & E-Business"]
 listed_since: "2024-05-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://viktor-kisman.com/business-starter-lp?aff=adminstore#aff=adminstore"
 sales_page: "https://viktor-kisman.com/business-starter-lp"
@@ -22,7 +22,7 @@ language: "de"
 # Mit Hilfe der KI dein eigenes Online Business
 
 > Product ID `52389` · Digistore24 productId `551627` · [HTML profile page](../../produkte/mit-hilfe-der-ki-dein-eigenes-online-business-52389.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

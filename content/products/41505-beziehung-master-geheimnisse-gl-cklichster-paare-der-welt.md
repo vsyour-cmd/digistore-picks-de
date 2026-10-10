@@ -13,7 +13,7 @@ cancel_rate_pct: 5.73
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2022-08-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://akademie.maximmankevich.com/beziehung-master?aff=adminstore#aff=adminstore"
 sales_page: "https://akademie.maximmankevich.com/beziehung-master"
@@ -22,7 +22,7 @@ language: "de"
 # Beziehung Master: Geheimnisse glücklichster Paare der Welt
 
 > Product ID `41505` · Digistore24 productId `454935` · [HTML profile page](../../produkte/beziehung-master-geheimnisse-gl-cklichster-paare-der-welt-41505.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

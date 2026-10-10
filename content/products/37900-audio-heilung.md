@@ -13,7 +13,7 @@ cancel_rate_pct: 9.97
 categories: ["Personal Development"]
 listed_since: "2016-12-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://bodysense.de/koerperfeldcoaching-audio/?aff=adminstore#aff=adminstore"
 sales_page: "https://bodysense.de/koerperfeldcoaching-audio/"
@@ -22,7 +22,7 @@ language: "de"
 # Audio Heilung
 
 > Product ID `37900` · Digistore24 productId `110115` · [HTML profile page](../../produkte/audio-heilung-37900.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

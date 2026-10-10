@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "medium"
 promo_link: "https://cloversafe.org/order.html?aff=adminstore#aff=adminstore"
 sales_page: "https://cloversafe.org/order.html"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # CloverSafe – Passwort-Tresor, 25 % auf die Lizenz
 
 > Product ID `58627` · Digistore24 productId `722511` · [HTML profile page](../../produkte/cloversafe-passwort-tresor-25-auf-die-lizenz-58627.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,22 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Verschlüsselten Datentresor kaufen | CloverSafe über Digistore24
+- **Meta description:** CloverSafe speichert Passwörter und Geheimnisse lokal und AES-256-verschlüsselt. Einmalig 39,99 €, kein Abo.
+- **Headline (H1):**
+  > Verschlüsselter Datentresor – offline, lokal, AES-256
+- **Section headlines (H2):**
+  - Sensible Daten lokal und verschlüsselt aufbewahren
+  - So startest du mit CloverSafe
+  - Einmalige Lizenz – kein Abo
+  - Häufige Fragen zu CloverSafe
+- **Opening copy (first paragraphs):**
+  > Passwörter, Zugangsdaten und sensible Notizen lokal auf dem eigenen Computer schützen.
+  > CloverSafe arbeitet ohne Cloud-Zwang und ohne Abonnement. Eine einmalige Lizenz gilt für die Desktop-App auf Windows, macOS und Linux.
+  > Passwörter und Geheimnisse mit starker Verschlüsselung vor unbefugtem Zugriff schützen.
+  > Daten auf dem eigenen Gerät speichern – ohne verpflichtende Synchronisation über fremde Cloud-Server.
+- **Page word count:** 387
+- **OG image:** https://cloversafe.org/images/cloversafe-sales-hero.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

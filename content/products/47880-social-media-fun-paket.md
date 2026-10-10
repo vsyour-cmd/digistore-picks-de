@@ -13,7 +13,7 @@ cancel_rate_pct: 2.71
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2024-04-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://affiliforge.net/Social-Media-FUN-Paket?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/Social-Media-FUN-Paket"
@@ -22,7 +22,7 @@ language: "de"
 # Social Media FUN Paket
 
 > Product ID `47880` · Digistore24 productId `548132` · [HTML profile page](../../produkte/social-media-fun-paket-47880.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-06-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://energetischesfacelifting.funnelcockpit.com/sales/?aff=adminstore#aff=adminstore"
 sales_page: "https://energetischesfacelifting.funnelcockpit.com/sales/"
@@ -22,7 +22,7 @@ language: "de"
 # Energetische Verjüngung / Lifting aus Licht
 
 > Product ID `55638` · Digistore24 productId `620580` · [HTML profile page](../../produkte/energetische-verj-ngung-lifting-aus-licht-55638.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Real Estate"]
 listed_since: "2026-02-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/666396?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/666396"
@@ -22,7 +22,7 @@ language: "de"
 # 1. Immobilienquadrant - In 3 Monaten zur ersten Immobilie
 
 > Product ID `55445` · Digistore24 productId `666396` · [HTML profile page](../../produkte/1-immobilienquadrant-in-3-monaten-zur-ersten-immobilie-55445.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

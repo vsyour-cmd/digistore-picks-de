@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Travel & Culture","Marketing Services"]
 listed_since: "2025-12-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/658172?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/658172"
@@ -22,7 +22,7 @@ language: "de"
 # Mallorca Bucket List (Deutsch)
 
 > Product ID `55830` · Digistore24 productId `658172` · [HTML profile page](../../produkte/mallorca-bucket-list-deutsch-55830.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

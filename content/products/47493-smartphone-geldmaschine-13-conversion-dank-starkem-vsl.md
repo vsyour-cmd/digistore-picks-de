@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Profession & Job"]
 listed_since: "2023-11-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://lukessbusiness.systeme.io/geldmaschine-vsl?aff=adminstore#aff=adminstore"
 sales_page: "https://lukessbusiness.systeme.io/geldmaschine-vsl"
@@ -22,7 +22,7 @@ language: "de"
 # Smartphone Geldmaschine - 13% Conversion dank starkem VSL
 
 > Product ID `47493` · Digistore24 productId `525405` · [HTML profile page](../../produkte/smartphone-geldmaschine-13-conversion-dank-starkem-vsl-47493.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

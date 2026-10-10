@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Languages"]
 listed_since: "2025-02-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.dirk-wohlfeil.de/sp-endlich-den-einstieg-in-die-spanische-sprache-meistern-l1-bis-l5/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.dirk-wohlfeil.de/sp-endlich-den-einstieg-in-die-spanische-sprache-meistern-l1-bis-l5/"
@@ -22,7 +22,7 @@ language: "de"
 # eBook Modernes Spanisch lernen - Lektionen 1 bis 5
 
 > Product ID `51898` · Digistore24 productId `595192` · [HTML profile page](../../produkte/ebook-modernes-spanisch-lernen-lektionen-1-bis-5-51898.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

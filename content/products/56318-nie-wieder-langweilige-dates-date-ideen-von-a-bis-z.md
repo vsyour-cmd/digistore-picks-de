@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-04-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/ebooks/nie-wieder-langweilige-dates?aff=adminstore#aff=adminstore"
 sales_page: "https://designs-nf.com/ebooks/nie-wieder-langweilige-dates"
@@ -22,7 +22,7 @@ language: "de"
 # Nie wieder langweilige Dates - Date-Ideen von A bis Z
 
 > Product ID `56318` · Digistore24 productId `685825` · [HTML profile page](../../produkte/nie-wieder-langweilige-dates-date-ideen-von-a-bis-z-56318.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

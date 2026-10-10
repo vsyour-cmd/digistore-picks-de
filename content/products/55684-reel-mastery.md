@@ -13,7 +13,7 @@ cancel_rate_pct: 0.77
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-02-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://go.eugen-grinschuk.de/reel-mastery/?aff=adminstore#aff=adminstore"
 sales_page: "https://go.eugen-grinschuk.de/reel-mastery/"
@@ -22,7 +22,7 @@ language: "de"
 # Reel Mastery
 
 > Product ID `55684` · Digistore24 productId `595161` · [HTML profile page](../../produkte/reel-mastery-55684.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

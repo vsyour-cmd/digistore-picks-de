@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-08-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://seelen-treffpunkt.de/sofort-guide-fuer-mehr-innere-freiheit/?aff=adminstore#aff=adminstore"
 sales_page: "https://seelen-treffpunkt.de/sofort-guide-fuer-mehr-innere-freiheit/"
@@ -22,7 +22,7 @@ language: "de"
 # Sofort-Guide „Innere Freiheit“ mit 50 % Upsell-Provision
 
 > Product ID `54258` · Digistore24 productId `628002` · [HTML profile page](../../produkte/sofort-guide-innere-freiheit-mit-50-upsell-provision-54258.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2021-03-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/379290/adminstore"
 sales_page: "https://www.avocadooo.de/ebooks/ebook-schnelle-rezepte-fuers-home-office/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
@@ -22,7 +22,7 @@ language: "de"
 # Schnelle Rezepte fürs Home-Office
 
 > Product ID `36146` · Digistore24 productId `379290` · [HTML profile page](../../produkte/schnelle-rezepte-f-rs-home-office-36146.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

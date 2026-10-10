@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2026-10-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/708665?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/708665"
@@ -22,7 +22,7 @@ language: "de"
 # KI für Senioren leicht gemacht – Ratgeber für Einsteiger
 
 > Product ID `60313` · Digistore24 productId `708665` · [HTML profile page](../../produkte/ki-f-r-senioren-leicht-gemacht-ratgeber-f-r-einsteiger-60313.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

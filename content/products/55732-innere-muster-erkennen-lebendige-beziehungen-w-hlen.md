@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-02-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://hpheidi-hoeck.systeme.io/ad12725c?aff=adminstore#aff=adminstore"
 sales_page: "https://hpheidi-hoeck.systeme.io/ad12725c"
@@ -22,7 +22,7 @@ language: "de"
 # Innere Muster erkennen - lebendige Beziehungen wählen
 
 > Product ID `55732` · Digistore24 productId `666803` · [HTML profile page](../../produkte/innere-muster-erkennen-lebendige-beziehungen-w-hlen-55732.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

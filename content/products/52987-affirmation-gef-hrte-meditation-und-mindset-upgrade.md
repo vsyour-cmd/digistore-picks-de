@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-10-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.matrixreport.blog/affirmation/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.matrixreport.blog/affirmation/"
@@ -22,7 +22,7 @@ language: "de"
 # Affirmation | Geführte Meditation und Mindset Upgrade
 
 > Product ID `52987` · Digistore24 productId `574519` · [HTML profile page](../../produkte/affirmation-gef-hrte-meditation-und-mindset-upgrade-52987.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

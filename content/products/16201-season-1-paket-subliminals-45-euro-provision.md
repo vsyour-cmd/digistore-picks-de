@@ -13,7 +13,7 @@ cancel_rate_pct: 3.18
 categories: ["Education"]
 listed_since: "2017-02-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "http://energetic-eternity.de/produkt/energetic-eternity-season-1/?aff=adminstore#aff=adminstore"
 sales_page: "http://energetic-eternity.de/produkt/energetic-eternity-season-1/"
@@ -22,7 +22,7 @@ language: "de"
 # Season 1 Paket (Subliminals) – 45 Euro Provision!
 
 > Product ID `16201` · Digistore24 productId `118017` · [HTML profile page](../../produkte/season-1-paket-subliminals-45-euro-provision-16201.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/735000?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/735000"
@@ -22,7 +22,7 @@ language: "de"
 # Reklamationen beantworten – Vorlagen für Onlineshops
 
 > Product ID `59376` · Digistore24 productId `735000` · [HTML profile page](../../produkte/reklamationen-beantworten-vorlagen-f-r-onlineshops-59376.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

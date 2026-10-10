@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2022-10-31"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://academy.health-generation.com/mental-fitness-mental-stark?aff=adminstore#aff=adminstore"
 sales_page: "https://academy.health-generation.com/mental-fitness-mental-stark"
@@ -22,7 +22,7 @@ language: "de"
 # Mental Fitness Potenzial steigern - health-generation
 
 > Product ID `43380` · Digistore24 productId `467235` · [HTML profile page](../../produkte/mental-fitness-potenzial-steigern-health-generation-43380.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

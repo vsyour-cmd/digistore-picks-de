@@ -13,7 +13,7 @@ cancel_rate_pct: 1.78
 categories: ["Social Media"]
 listed_since: "2022-10-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://business-kickstart.de/social-media-vorlagen-gratis/?aff=adminstore#aff=adminstore"
 sales_page: "https://business-kickstart.de/social-media-vorlagen-gratis/"
@@ -22,7 +22,7 @@ language: "de"
 # GRATIS Social Media Vorlagen
 
 > Product ID `41474` · Digistore24 productId `463226` · [HTML profile page](../../produkte/gratis-social-media-vorlagen-41474.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Services","Marketing Services"]
 listed_since: "2026-06-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "http://aiagentbusiness.io/landingpage-erstellen-lassen?aff=adminstore#aff=adminstore"
 sales_page: "http://aiagentbusiness.io/landingpage-erstellen-lassen"
@@ -22,7 +22,7 @@ language: "de"
 # Launch Page Starter™ – fertige B2B-Landingpage für Unternehm
 
 > Product ID `56899` · Digistore24 productId `701698` · [HTML profile page](../../produkte/launch-page-starter-fertige-b2b-landingpage-f-r-unternehm-56899.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

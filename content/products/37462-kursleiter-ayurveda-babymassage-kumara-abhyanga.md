@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2020-12-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://schule-fuer-ayurveda.de/kursleiter-ayurveda-babymassage/?aff=adminstore#aff=adminstore"
 sales_page: "https://schule-fuer-ayurveda.de/kursleiter-ayurveda-babymassage/"
@@ -22,7 +22,7 @@ language: "de"
 # Kursleiter Ayurveda-Babymassage – Kumara-Abhyanga
 
 > Product ID `37462` · Digistore24 productId `364175` · [HTML profile page](../../produkte/kursleiter-ayurveda-babymassage-kumara-abhyanga-37462.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2025-04-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://buch.bodoschaefer.de/karriere-mit-system-aff/?aff=adminstore#aff=adminstore"
 sales_page: "https://buch.bodoschaefer.de/karriere-mit-system-aff/"
@@ -22,7 +22,7 @@ language: "de"
 # Karriere mit System von Bodo Schäfer Buch (gedruckt)
 
 > Product ID `52156` · Digistore24 productId `607895` · [HTML profile page](../../produkte/karriere-mit-system-von-bodo-sch-fer-buch-gedruckt-52156.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

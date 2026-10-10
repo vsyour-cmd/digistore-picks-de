@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2016-08-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://amazilon.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://amazilon.com/"
@@ -22,7 +22,7 @@ language: "de"
 # Amazilon - Amazon PartnerNet Plugin - Medium Lizenz (6 Stk.)
 
 > Product ID `16973` · Digistore24 productId `90365` · [HTML profile page](../../produkte/amazilon-amazon-partnernet-plugin-medium-lizenz-6-stk-16973.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

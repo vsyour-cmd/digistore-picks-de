@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Marketing Services"]
 listed_since: "2026-09-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/728499?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/728499"
@@ -22,7 +22,7 @@ language: "de"
 # Rezeptebuch von Baby bis ins Alter
 
 > Product ID `58893` · Digistore24 productId `728499` · [HTML profile page](../../produkte/rezeptebuch-von-baby-bis-ins-alter-58893.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

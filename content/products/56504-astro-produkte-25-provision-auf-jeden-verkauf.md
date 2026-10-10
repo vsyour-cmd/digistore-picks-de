@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Services","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-05-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/astro?aff=adminstore#aff=adminstore"
 sales_page: "https://designs-nf.com/astro"
@@ -22,7 +22,7 @@ language: "de"
 # Astro-Produkte - 25% Provision auf jeden Verkauf
 
 > Product ID `56504` · Digistore24 productId `691042` · [HTML profile page](../../produkte/astro-produkte-25-provision-auf-jeden-verkauf-56504.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

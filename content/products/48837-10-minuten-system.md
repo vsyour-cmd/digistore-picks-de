@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2023-09-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://lp.renerenk.de/10minuten-system/?aff=adminstore#aff=adminstore"
 sales_page: "https://lp.renerenk.de/10minuten-system/"
@@ -22,7 +22,7 @@ language: "de"
 # 10-Minuten-System
 
 > Product ID `48837` · Digistore24 productId `517395` · [HTML profile page](../../produkte/10-minuten-system-48837.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2020-09-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://6d-affirmationen.de/network?aff=adminstore#aff=adminstore"
 sales_page: "https://6d-affirmationen.de/network"
@@ -22,7 +22,7 @@ language: "de"
 # 6D-Affirmationen - MLM - Erfolgs-Booster
 
 > Product ID `34113` · Digistore24 productId `346312` · [HTML profile page](../../produkte/6d-affirmationen-mlm-erfolgs-booster-34113.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

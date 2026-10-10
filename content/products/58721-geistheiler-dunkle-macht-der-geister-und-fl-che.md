@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism","Travel & Culture"]
 listed_since: "2026-08-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://novaris.de.cool/gh.php?aff=adminstore#aff=adminstore"
 sales_page: "https://novaris.de.cool/gh.php"
@@ -22,7 +22,7 @@ language: "de"
 # Geistheiler, dunkle Macht der Geister und Flüche.
 
 > Product ID `58721` · Digistore24 productId `716529` · [HTML profile page](../../produkte/geistheiler-dunkle-macht-der-geister-und-fl-che-58721.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

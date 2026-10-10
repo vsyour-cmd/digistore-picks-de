@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Skin Care"]
 listed_since: "2026-08-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.jennifer-kemper.de/Das-Workbook/hautsystem-in-dein-7-tage-hautcheck-als-workbook?aff=adminstore#aff=adminstore"
 sales_page: "https://www.jennifer-kemper.de/Das-Workbook/hautsystem-in-dein-7-tage-hautcheck-als-workbook"
@@ -22,7 +22,7 @@ language: "de"
 # Das 7-Tage-Hautcheck-Workbook
 
 > Product ID `57843` · Digistore24 productId `714561` · [HTML profile page](../../produkte/das-7-tage-hautcheck-workbook-57843.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

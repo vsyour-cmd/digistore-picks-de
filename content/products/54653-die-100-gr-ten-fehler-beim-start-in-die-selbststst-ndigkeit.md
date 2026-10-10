@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job"]
 listed_since: "2025-11-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/647949?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/647949"
@@ -22,7 +22,7 @@ language: "de"
 # Die 100 größten Fehler beim Start in die Selbststständigkeit
 
 > Product ID `54653` · Digistore24 productId `647949` · [HTML profile page](../../produkte/die-100-gr-ten-fehler-beim-start-in-die-selbststst-ndigkeit-54653.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

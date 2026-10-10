@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-05-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/689470?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/689470"
@@ -22,7 +22,7 @@ language: "de"
 # Ebook - Good Vibes für ein gutes Leben
 
 > Product ID `56423` · Digistore24 productId `689470` · [HTML profile page](../../produkte/ebook-good-vibes-f-r-ein-gutes-leben-56423.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

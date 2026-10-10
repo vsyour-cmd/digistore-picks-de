@@ -13,7 +13,7 @@ cancel_rate_pct: 2.21
 categories: ["Animals & Pets"]
 listed_since: "2015-07-31"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://martinkreuzer.com/produkte/buch-von-martin-kreuzer?aff=adminstore#aff=adminstore"
 sales_page: "https://martinkreuzer.com/produkte/buch-von-martin-kreuzer"
@@ -22,7 +22,7 @@ language: "de"
 # Ratgeber "PFERDEPSYCHOLOGIE"
 
 > Product ID `23821` · Digistore24 productId `55535` · [HTML profile page](../../produkte/ratgeber-pferdepsychologie-23821.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

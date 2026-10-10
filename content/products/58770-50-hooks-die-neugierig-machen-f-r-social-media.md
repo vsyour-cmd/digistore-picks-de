@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-08-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/727608?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/727608"
@@ -22,7 +22,7 @@ language: "de"
 # 50 Hooks, die neugierig machen – für Social Media
 
 > Product ID `58770` · Digistore24 productId `727608` · [HTML profile page](../../produkte/50-hooks-die-neugierig-machen-f-r-social-media-58770.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

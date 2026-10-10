@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://elevenmarketingdigital.com/magnetische-frau/?aff=adminstore#aff=adminstore"
 sales_page: "https://elevenmarketingdigital.com/magnetische-frau/"
@@ -22,7 +22,7 @@ language: "de"
 # Magnetische Frau
 
 > Product ID `57334` · Digistore24 productId `700673` · [HTML profile page](../../produkte/magnetische-frau-57334.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

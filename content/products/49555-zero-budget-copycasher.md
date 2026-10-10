@@ -13,7 +13,7 @@ cancel_rate_pct: 0.82
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2024-08-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://affiliforge.net/ZBCC?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/ZBCC"
@@ -22,7 +22,7 @@ language: "de"
 # Zero Budget CopyCasher
 
 > Product ID `49555` · Digistore24 productId `567551` · [HTML profile page](../../produkte/zero-budget-copycasher-49555.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

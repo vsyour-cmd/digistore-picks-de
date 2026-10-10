@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2021-08-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://smarthulahoop.de/smart-hula-hoop-video-kurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://smarthulahoop.de/smart-hula-hoop-video-kurs/"
@@ -22,7 +22,7 @@ language: "de"
 # Smart Hula Hoop Kurs
 
 > Product ID `38610` · Digistore24 productId `404895` · [HTML profile page](../../produkte/smart-hula-hoop-kurs-38610.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

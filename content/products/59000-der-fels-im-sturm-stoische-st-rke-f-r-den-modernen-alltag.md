@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://urkraftmindset.ch/der-fels-im-sturm/?aff=adminstore#aff=adminstore"
 sales_page: "https://urkraftmindset.ch/der-fels-im-sturm/"
@@ -22,7 +22,7 @@ language: "de"
 # Der Fels im Sturm – Stoische Stärke für den modernen Alltag
 
 > Product ID `59000` · Digistore24 productId `725111` · [HTML profile page](../../produkte/der-fels-im-sturm-stoische-st-rke-f-r-den-modernen-alltag-59000.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

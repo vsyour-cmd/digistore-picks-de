@@ -13,7 +13,7 @@ cancel_rate_pct: 6.29
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2020-11-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://raikgarve.de/meine-weckruf-serie/das-globale-erwachen-der-menschheit/?aff=adminstore#aff=adminstore"
 sales_page: "https://raikgarve.de/meine-weckruf-serie/das-globale-erwachen-der-menschheit/"
@@ -22,7 +22,7 @@ language: "de"
 # Globales Erwachen der Menschheit
 
 > Product ID `34809` · Digistore24 productId `358906` · [HTML profile page](../../produkte/globales-erwachen-der-menschheit-34809.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

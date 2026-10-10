@@ -13,7 +13,7 @@ cancel_rate_pct: 0.5
 categories: ["Personal Development","Travel & Culture"]
 listed_since: "2025-02-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.skycair.com/turbulenzen?aff=adminstore#aff=adminstore"
 sales_page: "https://www.skycair.com/turbulenzen"
@@ -22,7 +22,7 @@ language: "de"
 # Der Mini-Kurs gegen Angst bei Turbulenzen
 
 > Product ID `54471` · Digistore24 productId `596988` · [HTML profile page](../../produkte/der-mini-kurs-gegen-angst-bei-turbulenzen-54471.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

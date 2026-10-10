@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-03-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/676081?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/676081"
@@ -22,7 +22,7 @@ language: "de"
 # Microsoft Office 2024 Professional Plus
 
 > Product ID `55892` · Digistore24 productId `676081` · [HTML profile page](../../produkte/microsoft-office-2024-professional-plus-55892.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

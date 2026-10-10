@@ -13,7 +13,7 @@ cancel_rate_pct: 0.9
 categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
 listed_since: "2024-09-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://eintrag.ygn-onlinemarketing.de/ebook?aff=adminstore#aff=adminstore"
 sales_page: "https://eintrag.ygn-onlinemarketing.de/ebook"
@@ -22,7 +22,7 @@ language: "de"
 # Yugeen KI Affiliate Code - Vermeide diese 13 Fehler
 
 > Product ID `50062` · Digistore24 productId `572915` · [HTML profile page](../../produkte/yugeen-ki-affiliate-code-vermeide-diese-13-fehler-50062.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-04-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://drblokesch.com/gruebeln-stoppen-kostenlose-einordnung/?aff=adminstore#aff=adminstore"
 sales_page: "https://drblokesch.com/gruebeln-stoppen-kostenlose-einordnung/"
@@ -22,7 +22,7 @@ language: "de"
 # Psychologische Selbstmanagement-Kurse inkl. Praxisbegleiter | Dr. Blokesch
 
 > Product ID `56422` · Digistore24 productId `684851` · [HTML profile page](../../produkte/psychologische-selbstmanagement-kurse-inkl-praxisbegleiter-dr-blokesch-56422.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

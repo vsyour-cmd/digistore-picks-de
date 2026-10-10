@@ -13,7 +13,7 @@ cancel_rate_pct: 2.93
 categories: ["Profession & Job"]
 listed_since: "2015-01-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://www.benn-verlag.de/digi-gq/index.html?aff=adminstore#aff=adminstore"
 sales_page: "http://www.benn-verlag.de/digi-gq/index.html"
@@ -22,7 +22,7 @@ language: "de"
 # SCHUFA-FREIE GELDQUELLEN und mehr
 
 > Product ID `6027` · Digistore24 productId `40579` · [HTML profile page](../../produkte/schufa-freie-geldquellen-und-mehr-6027.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

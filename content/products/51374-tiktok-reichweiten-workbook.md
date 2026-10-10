@@ -13,7 +13,7 @@ cancel_rate_pct: 2.71
 categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
 listed_since: "2025-02-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://affiliforge.net/TikTok-Workbook?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/TikTok-Workbook"
@@ -22,7 +22,7 @@ language: "de"
 # TikTok Reichweiten Workbook
 
 > Product ID `51374` · Digistore24 productId `596741` · [HTML profile page](../../produkte/tiktok-reichweiten-workbook-51374.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

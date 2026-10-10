@@ -13,7 +13,7 @@ cancel_rate_pct: 2.71
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-07-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://affiliforge.net/Produktivitatstipps?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/Produktivitatstipps"
@@ -22,7 +22,7 @@ language: "de"
 # Zeitmanagement und Produktivitätstipps für Online-Business
 
 > Product ID `53323` · Digistore24 productId `626643` · [HTML profile page](../../produkte/zeitmanagement-und-produktivit-tstipps-f-r-online-business-53323.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

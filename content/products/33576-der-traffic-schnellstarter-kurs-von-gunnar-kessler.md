@@ -13,7 +13,7 @@ cancel_rate_pct: 19.29
 categories: ["Profession & Job"]
 listed_since: "2020-09-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://byebyeschufterei.de/tssk-7511/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyeschufterei.de/tssk-7511/"
@@ -22,7 +22,7 @@ language: "de"
 # Der Traffic Schnellstarter Kurs - von Gunnar Kessler
 
 > Product ID `33576` · Digistore24 productId `349057` · [HTML profile page](../../produkte/der-traffic-schnellstarter-kurs-von-gunnar-kessler-33576.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

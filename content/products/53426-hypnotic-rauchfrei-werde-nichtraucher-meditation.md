@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism","Marketing Services"]
 listed_since: "2025-08-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/628138?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/628138"
@@ -22,7 +22,7 @@ language: "de"
 # Hypnotic Rauchfrei: Werde Nichtraucher (Meditation)
 
 > Product ID `53426` · Digistore24 productId `628138` · [HTML profile page](../../produkte/hypnotic-rauchfrei-werde-nichtraucher-meditation-53426.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

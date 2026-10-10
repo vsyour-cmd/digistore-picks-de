@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
 listed_since: "2024-08-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.online-marketing-woman.de/mit-chatgpt-kinderleicht-ein-ebook-schreiben-und-auf-amazon-verkaufen?aff=adminstore#aff=adminstore"
 sales_page: "https://www.online-marketing-woman.de/mit-chatgpt-kinderleicht-ein-ebook-schreiben-und-auf-amazon-verkaufen"
@@ -22,7 +22,7 @@ language: "de"
 # Mit KI kinderleicht ein eBook erstellen und verkaufen
 
 > Product ID `48804` · Digistore24 productId `563697` · [HTML profile page](../../produkte/mit-ki-kinderleicht-ein-ebook-erstellen-und-verkaufen-48804.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

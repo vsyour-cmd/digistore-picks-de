@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2019-07-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://katerinastruhovska.de/heile-dein-herz-7-tage-online-training/?aff=adminstore#aff=adminstore"
 sales_page: "https://katerinastruhovska.de/heile-dein-herz-7-tage-online-training/"
@@ -22,7 +22,7 @@ language: "de"
 # „Heile-Dein-Herz“-7-Tage-Online-Training
 
 > Product ID `34480` · Digistore24 productId `280929` · [HTML profile page](../../produkte/heile-dein-herz-7-tage-online-training-34480.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

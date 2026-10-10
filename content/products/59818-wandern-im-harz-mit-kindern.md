@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Hobby & Craft","Travel & Culture"]
 listed_since: "2026-09-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/737979?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/737979"
@@ -22,7 +22,7 @@ language: "de"
 # Wandern im Harz mit Kindern
 
 > Product ID `59818` · Digistore24 productId `737979` · [HTML profile page](../../produkte/wandern-im-harz-mit-kindern-59818.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

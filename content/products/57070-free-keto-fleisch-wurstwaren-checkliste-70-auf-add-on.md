@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2026-06-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://ketogen-ratgeber.de/keto-check-fleisch-und-wurstwaren/?aff=adminstore#aff=adminstore"
 sales_page: "https://ketogen-ratgeber.de/keto-check-fleisch-und-wurstwaren/"
@@ -22,7 +22,7 @@ language: "de"
 # Free Keto Fleisch / Wurstwaren Checkliste 70% auf Add-on
 
 > Product ID `57070` · Digistore24 productId `674678` · [HTML profile page](../../produkte/free-keto-fleisch-wurstwaren-checkliste-70-auf-add-on-57070.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2018-01-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://haeussler-marketing.de/listung-auf-haeussler-rasenroboter-haendlerseite/?aff=adminstore#aff=adminstore"
 sales_page: "http://haeussler-marketing.de/listung-auf-haeussler-rasenroboter-haendlerseite/"
@@ -22,7 +22,7 @@ language: "de"
 # Listung auf Rasenroboter-Händlerseite
 
 > Product ID `23389` · Digistore24 productId `191677` · [HTML profile page](../../produkte/listung-auf-rasenroboter-h-ndlerseite-23389.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

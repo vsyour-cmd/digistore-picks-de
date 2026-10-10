@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Marketing Services"]
 listed_since: "2026-09-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://dagmar-braaksma.de/rockdeinabsoluteswohlbefinden/?aff=adminstore#aff=adminstore"
 sales_page: "https://dagmar-braaksma.de/rockdeinabsoluteswohlbefinden/"
@@ -22,7 +22,7 @@ language: "de"
 # Rock dein absolutes Wohlbefinden - 50% Provision
 
 > Product ID `59331` · Digistore24 productId `532424` · [HTML profile page](../../produkte/rock-dein-absolutes-wohlbefinden-50-provision-59331.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

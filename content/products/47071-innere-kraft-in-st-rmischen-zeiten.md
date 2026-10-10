@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job"]
 listed_since: "2013-06-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://event.webinarjam.com/register/18/y8y5nb1?aff=adminstore#aff=adminstore"
 sales_page: "https://event.webinarjam.com/register/18/y8y5nb1"
@@ -22,7 +22,7 @@ language: "de"
 # Innere Kraft in stürmischen Zeiten
 
 > Product ID `47071` · Digistore24 productId `13185` · [HTML profile page](../../produkte/innere-kraft-in-st-rmischen-zeiten-47071.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

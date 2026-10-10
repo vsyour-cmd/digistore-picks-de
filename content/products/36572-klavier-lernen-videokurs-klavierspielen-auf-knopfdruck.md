@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2020-04-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.modern-music.org/klavierspielen-auf-knopfdruck?aff=adminstore#aff=adminstore"
 sales_page: "https://www.modern-music.org/klavierspielen-auf-knopfdruck"
@@ -22,7 +22,7 @@ language: "de"
 # Klavier lernen - Videokurs 'Klavierspielen auf Knopfdruck'
 
 > Product ID `36572` · Digistore24 productId `323603` · [HTML profile page](../../produkte/klavier-lernen-videokurs-klavierspielen-auf-knopfdruck-36572.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

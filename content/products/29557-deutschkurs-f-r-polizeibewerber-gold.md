@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2020-09-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.master-your-police-german.ch?aff=adminstore#aff=adminstore"
 sales_page: "https://www.master-your-police-german.ch"
@@ -22,7 +22,7 @@ language: "de"
 # Deutschkurs für Polizeibewerber - Gold
 
 > Product ID `29557` · Digistore24 productId `346980` · [HTML profile page](../../produkte/deutschkurs-f-r-polizeibewerber-gold-29557.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 3.18
 categories: ["Personal Development"]
 listed_since: "2022-11-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://silent-subliminals.eu/?aff=adminstore#aff=adminstore"
 sales_page: "https://silent-subliminals.eu/"
@@ -22,7 +22,7 @@ language: "de"
 # Silent Subliminals Gold: Der Hit für alle Nischen!
 
 > Product ID `42520` · Digistore24 productId `468911` · [HTML profile page](../../produkte/silent-subliminals-gold-der-hit-f-r-alle-nischen-42520.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

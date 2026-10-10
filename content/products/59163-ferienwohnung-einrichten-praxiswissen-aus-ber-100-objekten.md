@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Hotels & Gastronomy"]
 listed_since: "2026-09-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://ahliving.de/ferienwohnung-einrichten-mit-leidenschaft-meine-geheimnisse-aus-ueber-100-ferienwohnung-projekten/?aff=adminstore#aff=adminstore"
 sales_page: "https://ahliving.de/ferienwohnung-einrichten-mit-leidenschaft-meine-geheimnisse-aus-ueber-100-ferienwohnung-projekten/"
@@ -22,7 +22,7 @@ language: "de"
 # Ferienwohnung einrichten – Praxiswissen aus über 100 Objekten
 
 > Product ID `59163` · Digistore24 productId `707689` · [HTML profile page](../../produkte/ferienwohnung-einrichten-praxiswissen-aus-ber-100-objekten-59163.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

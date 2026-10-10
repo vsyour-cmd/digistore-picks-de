@@ -13,7 +13,7 @@ cancel_rate_pct: 4.08
 categories: ["Social Media"]
 listed_since: "2021-10-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://onlinekurse-von-experten.com/wpb-fe/?aff=adminstore#aff=adminstore"
 sales_page: "https://onlinekurse-von-experten.com/wpb-fe/"
@@ -22,7 +22,7 @@ language: "de"
 # Win Pin Business - Einkommen per Pinterest (Vollversion)
 
 > Product ID `37978` · Digistore24 productId `410015` · [HTML profile page](../../produkte/win-pin-business-einkommen-per-pinterest-vollversion-37978.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

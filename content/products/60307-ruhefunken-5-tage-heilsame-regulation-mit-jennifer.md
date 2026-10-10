@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-10-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/651351?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/651351"
@@ -22,7 +22,7 @@ language: "de"
 # RUHEFUNKEN: 5 Tage heilsame Regulation mit Jennifer
 
 > Product ID `60307` · Digistore24 productId `651351` · [HTML profile page](../../produkte/ruhefunken-5-tage-heilsame-regulation-mit-jennifer-60307.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

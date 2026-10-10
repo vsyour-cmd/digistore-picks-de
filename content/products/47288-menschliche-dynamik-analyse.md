@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development","Sport"]
 listed_since: "2023-12-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://talentscore.de/menschliche-dynamik/?aff=adminstore#aff=adminstore"
 sales_page: "https://talentscore.de/menschliche-dynamik/"
@@ -22,7 +22,7 @@ language: "de"
 # Menschliche Dynamik​ - Analyse
 
 > Product ID `47288` · Digistore24 productId `531838` · [HTML profile page](../../produkte/menschliche-dynamik-analyse-47288.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

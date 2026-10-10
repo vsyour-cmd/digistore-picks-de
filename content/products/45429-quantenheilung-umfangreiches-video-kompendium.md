@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-08-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://matrix-inform.com/seminare/themenseminare/das-grosse-matrix-inform-video-kompendium/?aff=adminstore#aff=adminstore"
 sales_page: "https://matrix-inform.com/seminare/themenseminare/das-grosse-matrix-inform-video-kompendium/"
@@ -22,7 +22,7 @@ language: "de"
 # Quantenheilung - umfangreiches Video Kompendium
 
 > Product ID `45429` · Digistore24 productId `511532` · [HTML profile page](../../produkte/quantenheilung-umfangreiches-video-kompendium-45429.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

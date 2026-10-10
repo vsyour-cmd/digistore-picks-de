@@ -13,7 +13,7 @@ cancel_rate_pct: 3.51
 categories: ["Animals & Pets"]
 listed_since: "2020-12-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://mydog365.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://mydog365.de/"
@@ -22,7 +22,7 @@ language: "de"
 # Online-Hundetrainingsplattform - mydog365
 
 > Product ID `37712` · Digistore24 productId `361952` · [HTML profile page](../../produkte/online-hundetrainingsplattform-mydog365-37712.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

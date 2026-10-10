@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-11-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.ad-campus.com/wunschkunde?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ad-campus.com/wunschkunde"
@@ -22,7 +22,7 @@ language: "de"
 # Die 12 erprobten Fragen zu Deinem Wunschkunden
 
 > Product ID `35306` · Digistore24 productId `416183` · [HTML profile page](../../produkte/die-12-erprobten-fragen-zu-deinem-wunschkunden-35306.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

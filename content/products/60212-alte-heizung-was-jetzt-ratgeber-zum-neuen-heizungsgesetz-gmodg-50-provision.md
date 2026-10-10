@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Home & Garden","Law & Justice","Real Estate"]
 listed_since: "2026-10-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://myhome-makler.de/immobilien-guides/ebooks/1-alte-heizung/?aff=adminstore#aff=adminstore"
 sales_page: "https://myhome-makler.de/immobilien-guides/ebooks/1-alte-heizung/"
@@ -22,7 +22,7 @@ language: "de"
 # Alte Heizung – was jetzt? Ratgeber zum neuen Heizungsgesetz (GModG) | 50 % Provision
 
 > Product ID `60212` · Digistore24 productId `739008` · [HTML profile page](../../produkte/alte-heizung-was-jetzt-ratgeber-zum-neuen-heizungsgesetz-gmodg-50-provision-60212.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

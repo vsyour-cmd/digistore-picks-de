@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2025-11-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://byebyehamsterrad.de/e-mail-liste-in-rekordzeit/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyehamsterrad.de/e-mail-liste-in-rekordzeit/"
@@ -22,7 +22,7 @@ language: "de"
 # Gratis E-Book verschenken / automatisch Provision verdienen
 
 > Product ID `55345` · Digistore24 productId `651790` · [HTML profile page](../../produkte/gratis-e-book-verschenken-automatisch-provision-verdienen-55345.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

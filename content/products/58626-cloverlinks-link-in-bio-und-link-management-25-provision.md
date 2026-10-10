@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "medium"
 promo_link: "https://cloverlinks.com/order.html?aff=adminstore#aff=adminstore"
 sales_page: "https://cloverlinks.com/order.html"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # CloverLinks – Link-in-Bio und Link-Management, 25 % Provision
 
 > Product ID `58626` · Digistore24 productId `722509` · [HTML profile page](../../produkte/cloverlinks-link-in-bio-und-link-management-25-provision-58626.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,22 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Digitale Visitenkarte bestellen | CloverLinks über Digistore24
+- **Meta description:** Link-in-Bio, QR-Code, vCard und Link-Analytics für Creator, Selbstständige und Teams. Ab 9 €.
+- **Headline (H1):**
+  > Digitale Visitenkarte & Link-in-Bio
+- **Section headlines (H2):**
+  - Ein Link für Profile, Kontaktdaten und Angebote
+  - So startest du mit CloverLinks
+  - Preise und Tarife
+  - Häufige Fragen zu CloverLinks
+- **Opening copy (first paragraphs):**
+  > Alle wichtigen Links, Kontaktdaten und Angebote auf einer persönlichen, mobilen Seite bündeln.
+  > CloverLinks verbindet Link-in-Bio, QR-Code, vCard und Auswertungen – ideal für Social Media, Events und persönliche Geschäftskontakte.
+  > Monatliche Tarife. Kauf und Zahlung ausschließlich über Digistore24. Preise zzgl. gesetzlicher MwSt., sofern ausgewiesen.
+  > Zahlung, Rechnung und Widerruf laufen über Digistore24. Es gelten die im Checkout ausgewiesenen Bedingungen, die Widerrufsbelehrung von Digistore24 und die AGB von HIH Digital Limited.
+- **Page word count:** 400
+- **OG image:** https://cloverlinks.com/images/cloverlinks-sales-hero.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

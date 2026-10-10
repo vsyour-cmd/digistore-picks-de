@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2021-07-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.inboundly.de/kurs-chimpify-360/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.inboundly.de/kurs-chimpify-360/"
@@ -22,7 +22,7 @@ language: "de"
 # Videokurs Chimpify 360° – Lerne alles zum Marketing-Tool
 
 > Product ID `39573` · Digistore24 productId `399782` · [HTML profile page](../../produkte/videokurs-chimpify-360-lerne-alles-zum-marketing-tool-39573.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

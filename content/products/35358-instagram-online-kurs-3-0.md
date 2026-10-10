@@ -13,7 +13,7 @@ cancel_rate_pct: 0.72
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-12-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://tanjavallee.de/instagramonlinekurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://tanjavallee.de/instagramonlinekurs/"
@@ -22,7 +22,7 @@ language: "de"
 # Instagram online Kurs 3.0
 
 > Product ID `35358` · Digistore24 productId `364829` · [HTML profile page](../../produkte/instagram-online-kurs-3-0-35358.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

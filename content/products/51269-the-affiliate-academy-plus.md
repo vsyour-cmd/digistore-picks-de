@@ -13,7 +13,7 @@ cancel_rate_pct: 9.28
 categories: ["Business & Investment","Social Media"]
 listed_since: "2024-11-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.theaffiliateacademy.de/taaplus+/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.theaffiliateacademy.de/taaplus+/"
@@ -22,7 +22,7 @@ language: "de"
 # The Affiliate Academy Plus
 
 > Product ID `51269` · Digistore24 productId `583562` · [HTML profile page](../../produkte/the-affiliate-academy-plus-51269.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

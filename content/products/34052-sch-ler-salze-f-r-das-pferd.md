@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2020-03-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://www.fortuna-academy.de/pferd-schuessler-salze?aff=adminstore#aff=adminstore"
 sales_page: "http://www.fortuna-academy.de/pferd-schuessler-salze"
@@ -22,7 +22,7 @@ language: "de"
 # Schüßler Salze für das Pferd
 
 > Product ID `34052` · Digistore24 productId `316159` · [HTML profile page](../../produkte/sch-ler-salze-f-r-das-pferd-34052.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

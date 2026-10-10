@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-03-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/FzaqcuWo4AC9DSqeq?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/FzaqcuWo4AC9DSqeq"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate ist kein Hexenwerk
 
 > Product ID `55841` · Digistore24 productId `674448` · [HTML profile page](../../produkte/affiliate-ist-kein-hexenwerk-55841.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

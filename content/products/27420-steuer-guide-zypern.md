@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2018-12-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://bs-holding.limited/steuer-guide-zypern/?aff=adminstore#aff=adminstore"
 sales_page: "https://bs-holding.limited/steuer-guide-zypern/"
@@ -22,7 +22,7 @@ language: "de"
 # Steuer Guide Zypern
 
 > Product ID `27420` · Digistore24 productId `251596` · [HTML profile page](../../produkte/steuer-guide-zypern-27420.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

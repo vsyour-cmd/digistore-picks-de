@@ -13,7 +13,7 @@ cancel_rate_pct: 2.99
 categories: ["Hobby & Craft"]
 listed_since: "2019-02-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://www.online-malkurs.com/limited-offer-testangebot/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.online-malkurs.com/limited-offer-testangebot/"
@@ -22,7 +22,7 @@ language: "de"
 # Paint & Smile LIMITED OFFER Testmonat
 
 > Product ID `30132` · Digistore24 productId `258719` · [HTML profile page](../../produkte/paint-smile-limited-offer-testmonat-30132.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

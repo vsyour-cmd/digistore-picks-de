@@ -13,7 +13,7 @@ cancel_rate_pct: 6.28
 categories: ["Languages"]
 listed_since: "2023-09-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.sprachheld.de/12-wochen-englisch-challenge/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.sprachheld.de/12-wochen-englisch-challenge/"
@@ -22,7 +22,7 @@ language: "de"
 # Englisch lernen mit der Sprachblock-Methode
 
 > Product ID `45349` · Digistore24 productId `515148` · [HTML profile page](../../produkte/englisch-lernen-mit-der-sprachblock-methode-45349.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

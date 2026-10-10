@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2021-03-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://buch.berufungscode.com?aff=adminstore#aff=adminstore"
 sales_page: "https://buch.berufungscode.com"
@@ -22,7 +22,7 @@ language: "de"
 # Buch | Tausche Hamsterrad gegen Traumleben
 
 > Product ID `39937` · Digistore24 productId `378010` · [HTML profile page](../../produkte/buch-tausche-hamsterrad-gegen-traumleben-39937.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

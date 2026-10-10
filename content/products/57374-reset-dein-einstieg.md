@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://kk-schimkus-6815309c.mydigibiz24.com/ticket-kurs-verkauf?aff=adminstore#aff=adminstore"
 sales_page: "https://kk-schimkus-6815309c.mydigibiz24.com/ticket-kurs-verkauf"
@@ -22,7 +22,7 @@ language: "de"
 # Reset - Dein Einstieg
 
 > Product ID `57374` · Digistore24 productId `674774` · [HTML profile page](../../produkte/reset-dein-einstieg-57374.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

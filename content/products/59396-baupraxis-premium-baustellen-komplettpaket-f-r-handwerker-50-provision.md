@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Hobby & Craft","Project Management"]
 listed_since: "2026-09-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://meinevorlagenkiste.de/baupaket/?aff=adminstore#aff=adminstore"
 sales_page: "https://meinevorlagenkiste.de/baupaket/"
@@ -22,7 +22,7 @@ language: "de"
 # BauPraxis Premium – Baustellen-Komplettpaket für Handwerker | 50 % Provision
 
 > Product ID `59396` · Digistore24 productId `735085` · [HTML profile page](../../produkte/baupraxis-premium-baustellen-komplettpaket-f-r-handwerker-50-provision-59396.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2014-04-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://wipec.de/academy/?aff=adminstore#aff=adminstore"
 sales_page: "https://wipec.de/academy/"
@@ -22,7 +22,7 @@ language: "de"
 # WiPeC-Academy und Community
 
 > Product ID `50397` · Digistore24 productId `23837` · [HTML profile page](../../produkte/wipec-academy-und-community-50397.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

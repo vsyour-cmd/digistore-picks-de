@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Services","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-10-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://matrixxer.com/produkt/vitazen-energetische-essenz-gesundheit/?aff=adminstore#aff=adminstore"
 sales_page: "https://matrixxer.com/produkt/vitazen-energetische-essenz-gesundheit/"
@@ -22,7 +22,7 @@ language: "de"
 # Magische Energie Essenzen
 
 > Product ID `50208` · Digistore24 productId `575794` · [HTML profile page](../../produkte/magische-energie-essenzen-50208.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

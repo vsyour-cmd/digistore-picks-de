@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://shop.petanthony.com/online-kurse_bruxismus-ueberwinden_DS/?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.petanthony.com/online-kurse_bruxismus-ueberwinden_DS/"
@@ -22,7 +22,7 @@ language: "de"
 # Hypnose-Onlinekurs Bruxismus überwinden
 
 > Product ID `60025` · Digistore24 productId `549134` · [HTML profile page](../../produkte/hypnose-onlinekurs-bruxismus-berwinden-60025.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

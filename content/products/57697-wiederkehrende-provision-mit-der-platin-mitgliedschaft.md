@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2026-07-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://byebyehamsterrad.de/platin-mitgliedschaft/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyehamsterrad.de/platin-mitgliedschaft/"
@@ -22,7 +22,7 @@ language: "de"
 # Wiederkehrende Provision mit der Platin-Mitgliedschaft
 
 > Product ID `57697` · Digistore24 productId `714186` · [HTML profile page](../../produkte/wiederkehrende-provision-mit-der-platin-mitgliedschaft-57697.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

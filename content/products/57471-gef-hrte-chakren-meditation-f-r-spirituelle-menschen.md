@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2026-07-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://michaelrepkowsky.grweb.site/chakren-meditation?aff=adminstore#aff=adminstore"
 sales_page: "https://michaelrepkowsky.grweb.site/chakren-meditation"
@@ -22,7 +22,7 @@ language: "de"
 # Geführte Chakren Meditation für spirituelle Menschen
 
 > Product ID `57471` · Digistore24 productId `527524` · [HTML profile page](../../produkte/gef-hrte-chakren-meditation-f-r-spirituelle-menschen-57471.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

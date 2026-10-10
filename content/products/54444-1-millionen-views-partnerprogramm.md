@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Services","Social Media"]
 listed_since: "2025-10-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "http://www.viralclipz.de/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.viralclipz.de/"
@@ -22,7 +22,7 @@ language: "de"
 # 1 Millionen Views Partnerprogramm
 
 > Product ID `54444` · Digistore24 productId `641753` · [HTML profile page](../../produkte/1-millionen-views-partnerprogramm-54444.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

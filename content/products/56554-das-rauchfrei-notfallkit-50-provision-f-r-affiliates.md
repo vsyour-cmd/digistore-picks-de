@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-05-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://nichtraucherzone.de/das-rauchfrei-notfallkit/?aff=adminstore#aff=adminstore"
 sales_page: "https://nichtraucherzone.de/das-rauchfrei-notfallkit/"
@@ -22,7 +22,7 @@ language: "de"
 # Das Rauchfrei-Notfallkit – 50 % Provision für Affiliates
 
 > Product ID `56554` · Digistore24 productId `693330` · [HTML profile page](../../produkte/das-rauchfrei-notfallkit-50-provision-f-r-affiliates-56554.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

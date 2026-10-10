@@ -13,7 +13,7 @@ cancel_rate_pct: 1.59
 categories: ["Family & Children","Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2020-12-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://akademie.hallo-homoeopathie.de/grundkurs-homoeopathie?aff=adminstore#aff=adminstore"
 sales_page: "https://akademie.hallo-homoeopathie.de/grundkurs-homoeopathie"
@@ -22,7 +22,7 @@ language: "de"
 # Online-Kurs: Grundlagen der Homöopathie (für Laien)
 
 > Product ID `38187` · Digistore24 productId `364005` · [HTML profile page](../../produkte/online-kurs-grundlagen-der-hom-opathie-f-r-laien-38187.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

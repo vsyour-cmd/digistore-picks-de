@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2023-02-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://katja-amberg-shop.de/trance-ist-er-der-richtige-ist-sie-die-richtige?aff=adminstore#aff=adminstore"
 sales_page: "https://katja-amberg-shop.de/trance-ist-er-der-richtige-ist-sie-die-richtige"
@@ -22,7 +22,7 @@ language: "de"
 # Ist Er der Richtige? Ist Sie die Richtige?|TRANCE| K.Amberg
 
 > Product ID `46435` · Digistore24 productId `485352` · [HTML profile page](../../produkte/ist-er-der-richtige-ist-sie-die-richtige-trance-k-amberg-46435.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

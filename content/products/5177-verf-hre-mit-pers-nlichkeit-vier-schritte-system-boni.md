@@ -13,7 +13,7 @@ cancel_rate_pct: 4.89
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2014-08-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://www.verfuehre-mit-persoenlichkeit.de/das-spiegelgeheimnis/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.verfuehre-mit-persoenlichkeit.de/das-spiegelgeheimnis/"
@@ -22,7 +22,7 @@ language: "de"
 # Verführe Mit Persönlichkeit (Vier-Schritte-System) + Boni
 
 > Product ID `5177` · Digistore24 productId `31479` · [HTML profile page](../../produkte/verf-hre-mit-pers-nlichkeit-vier-schritte-system-boni-5177.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

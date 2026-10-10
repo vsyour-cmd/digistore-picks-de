@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Profession & Job","Leadership & Management"]
 listed_since: "2026-07-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://andreasguenzel.coachy.net/lp/employer-branding/?aff=adminstore#aff=adminstore"
 sales_page: "https://andreasguenzel.coachy.net/lp/employer-branding/"
@@ -22,7 +22,7 @@ language: "de"
 # Employer Branding – Außen sichtbar. Innen wirksam.
 
 > Product ID `57547` · Digistore24 productId `711783` · [HTML profile page](../../produkte/employer-branding-au-en-sichtbar-innen-wirksam-57547.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

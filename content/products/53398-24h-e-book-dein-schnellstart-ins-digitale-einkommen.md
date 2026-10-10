@@ -13,7 +13,7 @@ cancel_rate_pct: 10.51
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-08-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://hermas-marketing.de/24h-ebook/?aff=adminstore#aff=adminstore"
 sales_page: "https://hermas-marketing.de/24h-ebook/"
@@ -22,7 +22,7 @@ language: "de"
 # 24h E-Book: Dein Schnellstart ins digitale Einkommen
 
 > Product ID `53398` · Digistore24 productId `627668` · [HTML profile page](../../produkte/24h-e-book-dein-schnellstart-ins-digitale-einkommen-53398.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0.94
 categories: ["Hobby & Craft","Photography & Film","Travel & Culture"]
 listed_since: "2024-11-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/madeira-bildband/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.unaufschiebbar.de/madeira-bildband/"
@@ -22,7 +22,7 @@ language: "de"
 # MADEIRA: Madeira Bildband [E-Book]
 
 > Product ID `50487` · Digistore24 productId `581795` · [HTML profile page](../../produkte/madeira-madeira-bildband-e-book-50487.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

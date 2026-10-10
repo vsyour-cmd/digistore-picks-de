@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Fun & Games","Travel & Culture"]
 listed_since: "2026-01-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://hint-caching.de/stadtrallye-weimar/?aff=adminstore#aff=adminstore"
 sales_page: "https://hint-caching.de/stadtrallye-weimar/"
@@ -22,7 +22,7 @@ language: "de"
 # Selbstgeführte Stadtrallye Weimar | Hint-Caching
 
 > Product ID `55421` · Digistore24 productId `665434` · [HTML profile page](../../produkte/selbstgef-hrte-stadtrallye-weimar-hint-caching-55421.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

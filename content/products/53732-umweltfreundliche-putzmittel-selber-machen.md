@@ -13,7 +13,7 @@ cancel_rate_pct: 1.54
 categories: ["Green Products & Environmental Protection","Hobby & Craft","Marketing Services"]
 listed_since: "2023-11-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.katharinaruehrt.com/putzmittel-selber-machen?aff=adminstore#aff=adminstore"
 sales_page: "https://www.katharinaruehrt.com/putzmittel-selber-machen"
@@ -22,7 +22,7 @@ language: "de"
 # Umweltfreundliche Putzmittel selber machen
 
 > Product ID `53732` · Digistore24 productId `525811` · [HTML profile page](../../produkte/umweltfreundliche-putzmittel-selber-machen-53732.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

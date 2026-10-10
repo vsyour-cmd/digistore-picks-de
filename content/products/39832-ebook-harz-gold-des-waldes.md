@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2022-04-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://ousuca.com/buecher/harz-ebook/?aff=adminstore#aff=adminstore"
 sales_page: "https://ousuca.com/buecher/harz-ebook/"
@@ -22,7 +22,7 @@ language: "de"
 # eBook Harz: Gold des Waldes
 
 > Product ID `39832` · Digistore24 productId `439453` · [HTML profile page](../../produkte/ebook-harz-gold-des-waldes-39832.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

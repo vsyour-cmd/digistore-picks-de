@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-06-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/vom-kennenlernen-zur-beziehung?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/vom-kennenlernen-zur-beziehung"
@@ -22,7 +22,7 @@ language: "de"
 # Vom Kennenlernen zur festen Beziehung
 
 > Product ID `57187` · Digistore24 productId `701945` · [HTML profile page](../../produkte/vom-kennenlernen-zur-festen-beziehung-57187.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

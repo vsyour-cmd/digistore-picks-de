@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2015-08-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://energiebilder-selber-malen.de/blume-des-lebens-malen/?aff=adminstore#aff=adminstore"
 sales_page: "https://energiebilder-selber-malen.de/blume-des-lebens-malen/"
@@ -22,7 +22,7 @@ language: "de"
 # Videokurs Energiebild malen "Level 1 - Die Blume des Lebens"
 
 > Product ID `9399` · Digistore24 productId `57475` · [HTML profile page](../../produkte/videokurs-energiebild-malen-level-1-die-blume-des-lebens-9399.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

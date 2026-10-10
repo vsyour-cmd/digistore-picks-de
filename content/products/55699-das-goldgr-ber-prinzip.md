@@ -13,7 +13,7 @@ cancel_rate_pct: 0.75
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-10-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://go.eugen-grinschuk.de/gold/?aff=adminstore#aff=adminstore"
 sales_page: "https://go.eugen-grinschuk.de/gold/"
@@ -22,7 +22,7 @@ language: "de"
 # Das Goldgräber Prinzip
 
 > Product ID `55699` · Digistore24 productId `641368` · [HTML profile page](../../produkte/das-goldgr-ber-prinzip-55699.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Trading Products"]
 listed_since: "2022-02-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://daytrader-today.coachy.net/lp/daytrader-today-masterclass-trading-komplett-paket/?aff=adminstore#aff=adminstore"
 sales_page: "https://daytrader-today.coachy.net/lp/daytrader-today-masterclass-trading-komplett-paket/"
@@ -22,7 +22,7 @@ language: "de"
 # Daytrader Today Masterclass Trading Komplett Paket
 
 > Product ID `40365` · Digistore24 productId `429360` · [HTML profile page](../../produkte/daytrader-today-masterclass-trading-komplett-paket-40365.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

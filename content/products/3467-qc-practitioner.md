@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2014-03-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://quantenheilunglernen24.de/?aff=adminstore#aff=adminstore"
 sales_page: "http://quantenheilunglernen24.de/"
@@ -22,7 +22,7 @@ language: "de"
 # QC Practitioner
 
 > Product ID `3467` · Digistore24 productId `22699` · [HTML profile page](../../produkte/qc-practitioner-3467.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Photography & Film"]
 listed_since: "2024-12-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://christofarnold.com/fotografie-grundkurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://christofarnold.com/fotografie-grundkurs/"
@@ -22,7 +22,7 @@ language: "de"
 # Fotografie Grundkurs - In 7 Wochen zu deinen Traum-Bildern
 
 > Product ID `50875` · Digistore24 productId `585772` · [HTML profile page](../../produkte/fotografie-grundkurs-in-7-wochen-zu-deinen-traum-bildern-50875.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

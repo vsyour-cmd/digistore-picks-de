@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Fun & Games","Health & Fitness"]
 listed_since: "2024-01-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://freimutselbst.com/bookshop.html?aff=adminstore#aff=adminstore"
 sales_page: "https://freimutselbst.com/bookshop.html"
@@ -22,7 +22,7 @@ language: "de"
 # Adressbuch Liebespraxis
 
 > Product ID `46909` · Digistore24 productId `535521` · [HTML profile page](../../produkte/adressbuch-liebespraxis-46909.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://ki-richtig-nutzen.my.canva.site/dein-praktischer-stressmanagement-planer?aff=adminstore#aff=adminstore"
 sales_page: "https://ki-richtig-nutzen.my.canva.site/dein-praktischer-stressmanagement-planer"
@@ -22,7 +22,7 @@ language: "de"
 # Stressmanagement-Planer – mehr Ruhe und Klarheit im Alltag
 
 > Product ID `58871` · Digistore24 productId `727941` · [HTML profile page](../../produkte/stressmanagement-planer-mehr-ruhe-und-klarheit-im-alltag-58871.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

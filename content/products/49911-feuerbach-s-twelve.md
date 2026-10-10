@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2024-04-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://carsten-feuerbach-3.mstrpages.com/feuerbachs-twelve?aff=adminstore#aff=adminstore"
 sales_page: "https://carsten-feuerbach-3.mstrpages.com/feuerbachs-twelve"
@@ -22,7 +22,7 @@ language: "de"
 # Feuerbach´s Twelve
 
 > Product ID `49911` · Digistore24 productId `549125` · [HTML profile page](../../produkte/feuerbach-s-twelve-49911.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

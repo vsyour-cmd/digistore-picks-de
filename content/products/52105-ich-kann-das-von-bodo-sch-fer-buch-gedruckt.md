@@ -13,7 +13,7 @@ cancel_rate_pct: 0.56
 categories: ["Marketing Services"]
 listed_since: "2025-04-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://buch.bodoschaefer.de/ich-kann-das-bestellen/?aff=adminstore#aff=adminstore"
 sales_page: "https://buch.bodoschaefer.de/ich-kann-das-bestellen/"
@@ -22,7 +22,7 @@ language: "de"
 # ICH KANN DAS. von Bodo Schäfer Buch (gedruckt)
 
 > Product ID `52105` · Digistore24 productId `606598` · [HTML profile page](../../produkte/ich-kann-das-von-bodo-sch-fer-buch-gedruckt-52105.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

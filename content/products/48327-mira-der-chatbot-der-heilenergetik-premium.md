@@ -13,7 +13,7 @@ cancel_rate_pct: 0.59
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-03-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://fragdochmenzel.net/_premium_abo/?aff=adminstore#aff=adminstore"
 sales_page: "https://fragdochmenzel.net/_premium_abo/"
@@ -22,7 +22,7 @@ language: "de"
 # Mira, der Chatbot der Heilenergetik - Premium
 
 > Product ID `48327` · Digistore24 productId `544220` · [HTML profile page](../../produkte/mira-der-chatbot-der-heilenergetik-premium-48327.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

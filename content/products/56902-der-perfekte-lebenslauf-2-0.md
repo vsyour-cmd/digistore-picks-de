@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Profession & Job","Services","Office Organization"]
 listed_since: "2026-06-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/697430?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/697430"
@@ -22,7 +22,7 @@ language: "de"
 # Der perfekte Lebenslauf 2.0
 
 > Product ID `56902` · Digistore24 productId `697430` · [HTML profile page](../../produkte/der-perfekte-lebenslauf-2-0-56902.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

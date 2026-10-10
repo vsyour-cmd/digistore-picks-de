@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Hobby & Craft","Photography & Film","Travel & Culture"]
 listed_since: "2026-07-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://fotofilmbeginner.com/das-kamera-starter-kit?aff=adminstore#aff=adminstore"
 sales_page: "https://fotofilmbeginner.com/das-kamera-starter-kit"
@@ -22,7 +22,7 @@ language: "de"
 # Das Kamera-Starter-Kit für Fotografie und Videografie.
 
 > Product ID `57589` · Digistore24 productId `710700` · [HTML profile page](../../produkte/das-kamera-starter-kit-f-r-fotografie-und-videografie-57589.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

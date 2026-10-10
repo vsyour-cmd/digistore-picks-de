@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Email Marketing","Family & Children","Online Marketing & E-Business"]
 listed_since: "2026-09-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.book-pilot.app/bookpilot-drache?aff=adminstore#aff=adminstore"
 sales_page: "https://www.book-pilot.app/bookpilot-drache"
@@ -22,7 +22,7 @@ language: "de"
 # BookPilot - Automatisiert mit Kinderbüchern Geld verdienen
 
 > Product ID `59659` · Digistore24 productId `735224` · [HTML profile page](../../produkte/bookpilot-automatisiert-mit-kinderb-chern-geld-verdienen-59659.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

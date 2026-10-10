@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.direzionex.com/offerta/agenda-online?aff=adminstore#aff=adminstore"
 sales_page: "https://www.direzionex.com/offerta/agenda-online"
@@ -22,7 +22,7 @@ language: "de"
 # Online-Terminkalender für italienischsprachige Betriebe: 690 €, ca. 125 € Provision
 
 > Product ID `60297` · Digistore24 productId `741566` · [HTML profile page](../../produkte/online-terminkalender-f-r-italienischsprachige-betriebe-690-ca-125-provision-60297.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

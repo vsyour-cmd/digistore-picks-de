@@ -13,7 +13,7 @@ cancel_rate_pct: 6.76
 categories: ["Online Marketing"]
 listed_since: "2025-03-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://adsmastery.de/fb-ig-ads/?aff=adminstore#aff=adminstore"
 sales_page: "https://adsmastery.de/fb-ig-ads/"
@@ -22,7 +22,7 @@ language: "de"
 # Starte Facebook und Instagram Ads
 
 > Product ID `52062` · Digistore24 productId `601695` · [HTML profile page](../../produkte/starte-facebook-und-instagram-ads-52062.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

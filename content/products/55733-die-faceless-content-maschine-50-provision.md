@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-02-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://e-bookshop.systeme.io/33d275d1?aff=adminstore#aff=adminstore"
 sales_page: "https://e-bookshop.systeme.io/33d275d1"
@@ -22,7 +22,7 @@ language: "de"
 # Die Faceless Content Maschine – 50% Provision
 
 > Product ID `55733` · Digistore24 productId `671416` · [HTML profile page](../../produkte/die-faceless-content-maschine-50-provision-55733.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

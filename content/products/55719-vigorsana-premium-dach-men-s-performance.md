@@ -13,7 +13,7 @@ cancel_rate_pct: 4.2
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2026-02-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://myvigorsana.com/vigorsana-pdp-fe?aff=adminstore#aff=adminstore"
 sales_page: "https://myvigorsana.com/vigorsana-pdp-fe"
@@ -22,7 +22,7 @@ language: "de"
 # VigorSana - Premium DACH Men's Performance
 
 > Product ID `55719` · Digistore24 productId `671283` · [HTML profile page](../../produkte/vigorsana-premium-dach-men-s-performance-55719.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

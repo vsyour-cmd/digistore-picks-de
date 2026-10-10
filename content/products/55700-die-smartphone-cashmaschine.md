@@ -13,7 +13,7 @@ cancel_rate_pct: 0.79
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2020-01-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://go.incomebutler.com/24hzugangscm/?aff=adminstore#aff=adminstore"
 sales_page: "https://go.incomebutler.com/24hzugangscm/"
@@ -22,7 +22,7 @@ language: "de"
 # Die Smartphone Cashmaschine
 
 > Product ID `55700` · Digistore24 productId `305619` · [HTML profile page](../../produkte/die-smartphone-cashmaschine-55700.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

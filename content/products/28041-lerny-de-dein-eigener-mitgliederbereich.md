@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2019-02-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://lerny.de?aff=adminstore#aff=adminstore"
 sales_page: "https://lerny.de"
@@ -22,7 +22,7 @@ language: "de"
 # Lerny.de - dein eigener Mitgliederbereich
 
 > Product ID `28041` · Digistore24 productId `259134` · [HTML profile page](../../produkte/lerny-de-dein-eigener-mitgliederbereich-28041.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

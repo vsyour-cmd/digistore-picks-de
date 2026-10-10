@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Photography & Film"]
 listed_since: "2019-06-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://stefanundkai.de/verkaufsseite-presets/?aff=adminstore#aff=adminstore"
 sales_page: "https://stefanundkai.de/verkaufsseite-presets/"
@@ -22,7 +22,7 @@ language: "de"
 # Into The Woods Lightroom Wedding Presets
 
 > Product ID `29190` · Digistore24 productId `274342` · [HTML profile page](../../produkte/into-the-woods-lightroom-wedding-presets-29190.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

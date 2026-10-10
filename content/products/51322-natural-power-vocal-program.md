@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dancing & Music","Health & Fitness"]
 listed_since: "2022-02-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://naturalpowerbodyprograms.com/vocal/?aff=adminstore#aff=adminstore"
 sales_page: "https://naturalpowerbodyprograms.com/vocal/"
@@ -22,7 +22,7 @@ language: "de"
 # Natural Power Vocal Program
 
 > Product ID `51322` · Digistore24 productId `429193` · [HTML profile page](../../produkte/natural-power-vocal-program-51322.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

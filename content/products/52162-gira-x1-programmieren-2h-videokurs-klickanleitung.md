@@ -13,7 +13,7 @@ cancel_rate_pct: 4.84
 categories: ["Computer & Internet"]
 listed_since: "2020-01-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.smartest-home.com/gira-x1-videokurs-klickanleitung/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.smartest-home.com/gira-x1-videokurs-klickanleitung/"
@@ -22,7 +22,7 @@ language: "de"
 # Gira X1 programmieren - 2h Videokurs Klickanleitung
 
 > Product ID `52162` · Digistore24 productId `303866` · [HTML profile page](../../produkte/gira-x1-programmieren-2h-videokurs-klickanleitung-52162.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

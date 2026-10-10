@@ -13,7 +13,7 @@ cancel_rate_pct: 2.71
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2022-09-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://www.matrixprinzip.de/aft?aff=adminstore#aff=adminstore"
 sales_page: "https://www.matrixprinzip.de/aft"
@@ -22,7 +22,7 @@ language: "de"
 # MATRIXPRINZIP von Coach Cecil
 
 > Product ID `33299` · Digistore24 productId `459976` · [HTML profile page](../../produkte/matrixprinzip-von-coach-cecil-33299.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 

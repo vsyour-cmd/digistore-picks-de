@@ -13,7 +13,7 @@ cancel_rate_pct: 1.5
 categories: ["Social Media"]
 listed_since: "2019-01-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.ts-onlinemedia.de/instagram-coaching-onlinekurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ts-onlinemedia.de/instagram-coaching-onlinekurs/"
@@ -22,7 +22,7 @@ language: "de"
 # Instagram Online Coaching Kurs
 
 > Product ID `27783` · Digistore24 productId `257135` · [HTML profile page](../../produkte/instagram-online-coaching-kurs-27783.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

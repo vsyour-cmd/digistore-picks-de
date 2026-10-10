@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Real Estate"]
 listed_since: "2023-07-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://heimatgeber.academy/gelbgurt?aff=adminstore#aff=adminstore"
 sales_page: "https://heimatgeber.academy/gelbgurt"
@@ -22,7 +22,7 @@ language: "de"
 # Heimatgeber Academy
 
 > Product ID `51503` · Digistore24 productId `508997` · [HTML profile page](../../produkte/heimatgeber-academy-51503.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Hobby & Craft","Home & Garden"]
 listed_since: "2026-09-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/721962?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/721962"
@@ -22,7 +22,7 @@ language: "de"
 # Küstenstil neu gedacht - Mit Feng Shui zu mehr Ruhe und Wohl
 
 > Product ID `59178` · Digistore24 productId `721962` · [HTML profile page](../../produkte/k-stenstil-neu-gedacht-mit-feng-shui-zu-mehr-ruhe-und-wohl-59178.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

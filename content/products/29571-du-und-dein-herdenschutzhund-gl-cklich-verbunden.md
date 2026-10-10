@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2019-06-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.mirjamcordt.com/hundeschule-verhaltenstraining/online-schulungen/du-und-dein-herdenschutzhund?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mirjamcordt.com/hundeschule-verhaltenstraining/online-schulungen/du-und-dein-herdenschutzhund"
@@ -22,7 +22,7 @@ language: "de"
 # Du und Dein Herdenschutzhund - glücklich verbunden
 
 > Product ID `29571` · Digistore24 productId `276887` · [HTML profile page](../../produkte/du-und-dein-herdenschutzhund-gl-cklich-verbunden-29571.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

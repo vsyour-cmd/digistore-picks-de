@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Social Media","Marketing Services"]
 listed_since: "2025-10-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/640205?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/640205"
@@ -22,7 +22,7 @@ language: "de"
 # Canva Masterclass E-Book Bundle
 
 > Product ID `54317` · Digistore24 productId `640205` · [HTML profile page](../../produkte/canva-masterclass-e-book-bundle-54317.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

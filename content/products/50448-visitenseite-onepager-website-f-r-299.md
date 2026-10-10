@@ -13,7 +13,7 @@ cancel_rate_pct: 9.85
 categories: ["Computer & Internet","Online Marketing & E-Business","Services"]
 listed_since: "2024-09-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://visitenseite.de/angebot?aff=adminstore#aff=adminstore"
 sales_page: "https://visitenseite.de/angebot"
@@ -22,7 +22,7 @@ language: "de"
 # Visitenseite | Onepager-Website für 299 €
 
 > Product ID `50448` · Digistore24 productId `570011` · [HTML profile page](../../produkte/visitenseite-onepager-website-f-r-299-50448.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

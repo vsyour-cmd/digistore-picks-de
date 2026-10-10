@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Profession & Job"]
 listed_since: "2026-09-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/734403?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/734403"
@@ -22,7 +22,7 @@ language: "de"
 # 90-Tage-Gründungssystem – Selbstständigkeit starten
 
 > Product ID `59321` · Digistore24 productId `734403` · [HTML profile page](../../produkte/90-tage-gr-ndungssystem-selbstst-ndigkeit-starten-59321.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

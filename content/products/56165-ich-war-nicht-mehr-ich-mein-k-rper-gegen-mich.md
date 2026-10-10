@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-02-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://hormoncod.pages.dev?aff=adminstore#aff=adminstore"
 sales_page: "https://hormoncod.pages.dev"
@@ -22,7 +22,7 @@ language: "de"
 # Ich war nicht mehr ich mein Körper gegen mich
 
 > Product ID `56165` · Digistore24 productId `672126` · [HTML profile page](../../produkte/ich-war-nicht-mehr-ich-mein-k-rper-gegen-mich-56165.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

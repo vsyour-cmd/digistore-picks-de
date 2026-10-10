@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Law & Justice","Finances"]
 listed_since: "2026-10-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/740720?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/740720"
@@ -22,7 +22,7 @@ language: "de"
 # Kredit und Schufa leicht gemacht – Ratgeber + Kredit-Rechner
 
 > Product ID `60381` · Digistore24 productId `740720` · [HTML profile page](../../produkte/kredit-und-schufa-leicht-gemacht-ratgeber-kredit-rechner-60381.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

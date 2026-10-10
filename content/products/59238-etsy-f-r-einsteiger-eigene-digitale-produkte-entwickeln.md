@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "rich"
 promo_link: "https://einfachmitmatze.de/etsy/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/etsy/"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # Etsy für Einsteiger: Eigene digitale Produkte entwickeln
 
 > Product ID `59238` · Digistore24 productId `732911` · [HTML profile page](../../produkte/etsy-f-r-einsteiger-eigene-digitale-produkte-entwickeln-59238.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,29 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Etsy-Paket · 99 € · Geld verdienen lernen | Einfach mit Matze
+- **Meta description:** Eigene digitale Etsy-Produkte entwickeln: 36 Seiten Selbstlernkurs, zwölf Arbeitsblätter, Kosten- und Listing-Werkstatt. Optionale 50 Nischenideen für 9,99 €.
+- **Headline (H1):**
+  > Deine Idee. Dein eigenes Produkt.
+- **Section headlines (H2):**
+  - Etwas anbieten, das jemandem hilft.
+  - Vom ersten Gedanken zum eigenen Angebot.
+  - Lesen. Ausfüllen. Selber rechnen.
+  - Ein vollständiger Arbeitsweg. Ein klarer Preis.
+  - Du suchst noch deine Produktidee?
+  - Das solltest du wissen.
+  - Deine Idee verdient einen konkreten nächsten Schritt.
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/732911
+- **Opening copy (first paragraphs):**
+  > Werkstatt So lernst du Über Matze Einfach mit Matze / Etsy-Paket ETSY LERNEN · MIT MATZE
+  > Lerne, wie du mit eigenen digitalen Produkten auf Etsy Geld verdienen kannst – vom konkreten Nutzen über dein Angebot bis zur ehrlichen Rechnung nach Kosten.
+  > Schriftlicher Selbstlernkurs Deutsch Für Einsteiger „Okay. Was würde jemand wirklich gebrauchen?“ 99 € inkl. MwSt. · einmalig · kein Abo
+  > Was ist enthalten? Bestellung und Download über Digistore24. Die vierseitige Leseprobe ist kostenlos verfügbar.
+- **Questions the sales page answers:**
+  - Welcher Kurs passt zu dir?
+  - Wofür bezahlt dein Käufer?
+- **Page word count:** 1300
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

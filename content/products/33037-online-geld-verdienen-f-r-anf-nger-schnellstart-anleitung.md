@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-06-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/330108?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/330108"
@@ -22,7 +22,7 @@ language: "de"
 # Online Geld verdienen für Anfänger - Schnellstart Anleitung
 
 > Product ID `33037` · Digistore24 productId `330108` · [HTML profile page](../../produkte/online-geld-verdienen-f-r-anf-nger-schnellstart-anleitung-33037.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Software","Trading Products","Finances"]
 listed_since: "2026-07-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://btcbeep.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://btcbeep.com/"
@@ -22,7 +22,7 @@ language: "de"
 # 30 $ US Dollar pro Verkauf verdienen mit einer KI Signal App
 
 > Product ID `57579` · Digistore24 productId `713919` · [HTML profile page](../../produkte/30-us-dollar-pro-verkauf-verdienen-mit-einer-ki-signal-app-57579.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2025-04-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/rzz8wCmTcBk5nx9Kw?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/rzz8wCmTcBk5nx9Kw"
@@ -22,7 +22,7 @@ language: "de"
 # YouTube Short Traffic Booster
 
 > Product ID `52407` · Digistore24 productId `607268` · [HTML profile page](../../produkte/youtube-short-traffic-booster-52407.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

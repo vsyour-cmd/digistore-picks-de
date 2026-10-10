@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-06-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-whatsapp?aff=adminstore#aff=adminstore"
 sales_page: "https://social-media-planer.de/ebooks/neukundengewinnung-ueber-whatsapp"
@@ -22,7 +22,7 @@ language: "de"
 # Neukundengewinnung über WhatsApp
 
 > Product ID `56932` · Digistore24 productId `701365` · [HTML profile page](../../produkte/neukundengewinnung-ber-whatsapp-56932.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

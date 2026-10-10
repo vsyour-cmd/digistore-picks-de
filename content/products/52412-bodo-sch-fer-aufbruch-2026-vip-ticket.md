@@ -13,7 +13,7 @@ cancel_rate_pct: 2.34
 categories: ["Education"]
 listed_since: "2023-11-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://aufbruch7.de/aff/?aff=adminstore#aff=adminstore"
 sales_page: "https://aufbruch7.de/aff/"
@@ -22,7 +22,7 @@ language: "de"
 # Bodo Schäfer AUFBRUCH 2026 VIP-Ticket
 
 > Product ID `52412` · Digistore24 productId `526403` · [HTML profile page](../../produkte/bodo-sch-fer-aufbruch-2026-vip-ticket-52412.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 3.68
 categories: ["Profession & Job","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2025-08-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/631042?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/631042"
@@ -22,7 +22,7 @@ language: "de"
 # High Frequency Kongress 5 - VIP Paket und Bundle
 
 > Product ID `54304` · Digistore24 productId `631042` · [HTML profile page](../../produkte/high-frequency-kongress-5-vip-paket-und-bundle-54304.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Social Media","Marketing Services"]
 listed_since: "2026-08-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://kleingewerbe.my.canva.site/landingpage-business-marketing?aff=adminstore#aff=adminstore"
 sales_page: "https://kleingewerbe.my.canva.site/landingpage-business-marketing"
@@ -22,7 +22,7 @@ language: "de"
 # Business & Marketing Strategie Planer – Canva Vorlage
 
 > Product ID `58512` · Digistore24 productId `720842` · [HTML profile page](../../produkte/business-marketing-strategie-planer-canva-vorlage-58512.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

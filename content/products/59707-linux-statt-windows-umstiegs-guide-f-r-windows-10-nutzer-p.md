@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2026-09-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://shop.code-content-ai.com/linux-statt-windows?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.code-content-ai.com/linux-statt-windows"
@@ -22,7 +22,7 @@ language: "de"
 # Linux statt Windows: Umstiegs-Guide für Windows-10-Nutzer (P
 
 > Product ID `59707` · Digistore24 productId `701424` · [HTML profile page](../../produkte/linux-statt-windows-umstiegs-guide-f-r-windows-10-nutzer-p-59707.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

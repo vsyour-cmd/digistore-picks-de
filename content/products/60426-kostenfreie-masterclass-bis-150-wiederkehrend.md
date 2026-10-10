@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "rich"
 promo_link: "https://byebyehamsterrad.de/masterclass-digital-income/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyehamsterrad.de/masterclass-digital-income/"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # Kostenfreie Masterclass – bis 150 € wiederkehrend
 
 > Product ID `60426` · Digistore24 productId `731646` · [HTML profile page](../../produkte/kostenfreie-masterclass-bis-150-wiederkehrend-60426.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -51,7 +51,28 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Masterclass-Digital-Income - Bye Bye Hamsterrad
+- **Meta description:** DER ENTSCHEIDENDE PUNKT
+- **Headline (H1):**
+  > Baue dir dein erstes digitales Einkommen auf – ohne eigenes Produkt, ohne Webseite und ohne Startkapital.
+- **Section headlines (H2):**
+  - Kennst du das auch? Dein Start muss weder teuer noch kompliziert sein ...
+  - Was wäre, wenn du für deinen Start all das gar nicht brauchst?
+  - Das erwartet dich in der DIGITAL INCOME Masterclass
+  - Hey, ich bin Matthias.
+  - Das sagen Teilnehmer über meine Live-Webinare
+  - Du kannst weiter darauf warten, dass am Ende des Monats irgendwann mehr übrig bleibt.
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/731646
+- **Opening copy (first paragraphs):**
+  > In der kostenfreien DIGITAL INCOME Masterclass zeige ich dir, wie du ganz einfach und ohne Vorerfahrung online starten kannst.
+  > Du gehst arbeiten, dein Gehalt kommt aufs Konto – und ein großer Teil davon ist bereits wieder verplant. Lebensmittel, Wohnen, Auto und der ganz normale Alltag kosten Geld.
+  > Der Wunsch nach einem zusätzlichen Einkommen ist da, aber einfach mal mehrere hundert oder tausend Euro zu investieren, ist für viele keine Option.
+  > Eigene Webseite, Technik, Programmieren, ein eigenes Produkt erstellen – vielleicht hast du genau deshalb bisher gedacht: „Das ist nichts für mich.“
+- **Questions the sales page answers:**
+  - Wo fange ich überhaupt an?
+- **Page word count:** 844
+- **OG image:** https://byebyehamsterrad.de/wp-content/uploads/2026/06/Design-ohne-Titel-e1782402675228.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

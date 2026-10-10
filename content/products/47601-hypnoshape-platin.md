@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Services"]
 listed_since: "2022-12-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/473710?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/473710"
@@ -22,7 +22,7 @@ language: "de"
 # Hypnoshape - Platin
 
 > Product ID `47601` · Digistore24 productId `473710` · [HTML profile page](../../produkte/hypnoshape-platin-47601.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 6.03
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-01-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://erfolg-intuitiv.de/unterbewusstsein-erfolgs-code-online-seminar-vc/?aff=adminstore#aff=adminstore"
 sales_page: "https://erfolg-intuitiv.de/unterbewusstsein-erfolgs-code-online-seminar-vc/"
@@ -22,7 +22,7 @@ language: "de"
 # Unterbewusstsein-Erfolgs-Code
 
 > Product ID `42845` · Digistore24 productId `481475` · [HTML profile page](../../produkte/unterbewusstsein-erfolgs-code-42845.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

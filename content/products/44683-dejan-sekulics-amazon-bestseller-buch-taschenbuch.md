@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Fun & Games","Hotels & Gastronomy","Survival"]
 listed_since: "2023-07-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://dejansekulic.ch/die-qualitaet-deines-woerterbuchs?aff=adminstore#aff=adminstore"
 sales_page: "https://dejansekulic.ch/die-qualitaet-deines-woerterbuchs"
@@ -22,7 +22,7 @@ language: "de"
 # Dejan Sekulics Amazon Bestseller Buch (Taschenbuch)
 
 > Product ID `44683` · Digistore24 productId `506655` · [HTML profile page](../../produkte/dejan-sekulics-amazon-bestseller-buch-taschenbuch-44683.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

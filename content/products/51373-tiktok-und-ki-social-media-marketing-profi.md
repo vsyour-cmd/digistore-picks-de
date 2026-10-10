@@ -13,7 +13,7 @@ cancel_rate_pct: 2.71
 categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
 listed_since: "2025-02-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://affiliforge.net/TikTok-KI-Profi?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/TikTok-KI-Profi"
@@ -22,7 +22,7 @@ language: "de"
 # TikTok und KI Social-Media-Marketing Profi
 
 > Product ID `51373` · Digistore24 productId `596513` · [HTML profile page](../../produkte/tiktok-und-ki-social-media-marketing-profi-51373.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

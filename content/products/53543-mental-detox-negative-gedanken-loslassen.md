@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-08-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/ebooks/mental-detox?aff=adminstore#aff=adminstore"
 sales_page: "https://designs-nf.com/ebooks/mental-detox"
@@ -22,7 +22,7 @@ language: "de"
 # Mental Detox: Negative Gedanken loslassen
 
 > Product ID `53543` · Digistore24 productId `630209` · [HTML profile page](../../produkte/mental-detox-negative-gedanken-loslassen-53543.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

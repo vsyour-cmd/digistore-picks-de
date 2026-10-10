@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Health & Fitness"]
 listed_since: "2026-07-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://mind2soul.de/buch/?aff=adminstore#aff=adminstore"
 sales_page: "https://mind2soul.de/buch/"
@@ -22,7 +22,7 @@ language: "de"
 # Nährstoffe für dein Nervensystem - e-book
 
 > Product ID `57654` · Digistore24 productId `707719` · [HTML profile page](../../produkte/n-hrstoffe-f-r-dein-nervensystem-e-book-57654.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

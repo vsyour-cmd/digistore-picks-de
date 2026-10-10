@@ -13,7 +13,7 @@ cancel_rate_pct: 0.47
 categories: ["Education"]
 listed_since: "2019-06-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://franke-akademie.de/metlifestyle-community-2/?aff=adminstore#aff=adminstore"
 sales_page: "https://franke-akademie.de/metlifestyle-community-2/"
@@ -22,7 +22,7 @@ language: "de"
 # MET lifestyle-Community Abo
 
 > Product ID `44497` · Digistore24 productId `276341` · [HTML profile page](../../produkte/met-lifestyle-community-abo-44497.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

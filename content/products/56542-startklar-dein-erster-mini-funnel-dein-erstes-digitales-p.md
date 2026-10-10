@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-05-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://startklar.idsystem.net/Startklar/?aff=adminstore#aff=adminstore"
 sales_page: "https://startklar.idsystem.net/Startklar/"
@@ -22,7 +22,7 @@ language: "de"
 # STARTKLAR – Dein erster Mini-Funnel. Dein erstes digitales P
 
 > Product ID `56542` · Digistore24 productId `668995` · [HTML profile page](../../produkte/startklar-dein-erster-mini-funnel-dein-erstes-digitales-p-56542.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

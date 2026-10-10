@@ -13,7 +13,7 @@ cancel_rate_pct: 2.38
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2022-07-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://andreas-goldemann.mykajabi.com/magen-darm-edition-e?aff=adminstore#aff=adminstore"
 sales_page: "https://andreas-goldemann.mykajabi.com/magen-darm-edition-e"
@@ -22,7 +22,7 @@ language: "de"
 # „Zurück zum Ursprung - Magen Darm Edition“
 
 > Product ID `42630` · Digistore24 productId `450636` · [HTML profile page](../../produkte/zur-ck-zum-ursprung-magen-darm-edition-42630.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

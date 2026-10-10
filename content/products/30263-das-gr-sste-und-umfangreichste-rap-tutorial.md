@@ -13,7 +13,7 @@ cancel_rate_pct: 1.99
 categories: ["Education"]
 listed_since: "2019-06-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://rap-tutorial.de/kaufen/?aff=adminstore#aff=adminstore"
 sales_page: "https://rap-tutorial.de/kaufen/"
@@ -22,7 +22,7 @@ language: "de"
 # Das grösste und umfangreichste RAP-TUTORIAL
 
 > Product ID `30263` · Digistore24 productId `277027` · [HTML profile page](../../produkte/das-gr-sste-und-umfangreichste-rap-tutorial-30263.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

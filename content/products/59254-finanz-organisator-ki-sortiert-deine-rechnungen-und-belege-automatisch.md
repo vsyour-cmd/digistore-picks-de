@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-09-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://sfo.siluna.li/lp/?aff=adminstore#aff=adminstore"
 sales_page: "https://sfo.siluna.li/lp/"
@@ -22,7 +22,7 @@ language: "de"
 # Finanz-Organisator – KI sortiert deine Rechnungen und Belege automatisch
 
 > Product ID `59254` · Digistore24 productId `727290` · [HTML profile page](../../produkte/finanz-organisator-ki-sortiert-deine-rechnungen-und-belege-automatisch-59254.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

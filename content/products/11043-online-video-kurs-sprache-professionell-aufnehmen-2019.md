@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2015-09-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.isid.de/sprachaufnahme/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.isid.de/sprachaufnahme/"
@@ -22,7 +22,7 @@ language: "de"
 # Online-Video-Kurs "Sprache professionell aufnehmen" 2019
 
 > Product ID `11043` · Digistore24 productId `59355` · [HTML profile page](../../produkte/online-video-kurs-sprache-professionell-aufnehmen-2019-11043.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

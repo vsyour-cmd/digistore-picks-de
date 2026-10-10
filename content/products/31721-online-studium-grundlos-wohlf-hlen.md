@@ -13,7 +13,7 @@ cancel_rate_pct: 1.43
 categories: ["Education","Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2018-09-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.praesenzmedizin.de/grundlos-wohlfuehlen-das-studium?aff=adminstore#aff=adminstore"
 sales_page: "https://www.praesenzmedizin.de/grundlos-wohlfuehlen-das-studium"
@@ -22,7 +22,7 @@ language: "de"
 # Online-Studium: "Grundlos Wohlfühlen"
 
 > Product ID `31721` · Digistore24 productId `241880` · [HTML profile page](../../produkte/online-studium-grundlos-wohlf-hlen-31721.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

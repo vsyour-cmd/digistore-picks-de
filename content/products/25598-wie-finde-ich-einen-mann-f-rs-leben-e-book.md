@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
 listed_since: "2016-07-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.beziehungsratgeber.net/shop/wie-finde-ich-einen-mann-fuers-leben/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.beziehungsratgeber.net/shop/wie-finde-ich-einen-mann-fuers-leben/"
@@ -22,7 +22,7 @@ language: "de"
 # Wie finde ich einen Mann fürs Leben? [E-Book]
 
 > Product ID `25598` · Digistore24 productId `88743` · [HTML profile page](../../produkte/wie-finde-ich-einen-mann-f-rs-leben-e-book-25598.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

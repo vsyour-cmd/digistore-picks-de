@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-03-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/491653?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/491653"
@@ -22,7 +22,7 @@ language: "de"
 # Die Mühelos Marketing-Maschine - KI-gestütztes Marketing
 
 > Product ID `43893` · Digistore24 productId `491653` · [HTML profile page](../../produkte/die-m-helos-marketing-maschine-ki-gest-tztes-marketing-43893.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

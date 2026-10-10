@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2019-01-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://superschaman.de/schamanisches-trommeln.html?aff=adminstore#aff=adminstore"
 sales_page: "http://superschaman.de/schamanisches-trommeln.html"
@@ -22,7 +22,7 @@ language: "de"
 # Schamanisches Trommeln Videokurs
 
 > Product ID `27658` · Digistore24 productId `255743` · [HTML profile page](../../produkte/schamanisches-trommeln-videokurs-27658.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

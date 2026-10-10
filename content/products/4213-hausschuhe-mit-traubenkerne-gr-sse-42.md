@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2013-09-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://www.dots-designs.de/nie-wieder-kalte-fuesse/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.dots-designs.de/nie-wieder-kalte-fuesse/"
@@ -22,7 +22,7 @@ language: "de"
 # Hausschuhe mit Traubenkerne Grösse: 42
 
 > Product ID `4213` · Digistore24 productId `15353` · [HTML profile page](../../produkte/hausschuhe-mit-traubenkerne-gr-sse-42-4213.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

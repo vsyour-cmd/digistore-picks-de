@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2014-09-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.gitarrencrashkurs.de/einsteiger/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.gitarrencrashkurs.de/einsteiger/"
@@ -22,7 +22,7 @@ language: "de"
 # Gitarre Lernen in 4 Wochen Crashkurs
 
 > Product ID `4809` · Digistore24 productId `33329` · [HTML profile page](../../produkte/gitarre-lernen-in-4-wochen-crashkurs-4809.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

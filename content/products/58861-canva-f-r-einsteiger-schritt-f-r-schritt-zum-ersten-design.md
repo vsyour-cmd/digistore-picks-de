@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Social Media","Online Marketing"]
 listed_since: "2026-09-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://ki-richtig-nutzen.my.canva.site/canva-f-r-einsteiger-schritt-f-r-schritt-zum-ersten-eigenen-design?aff=adminstore#aff=adminstore"
 sales_page: "https://ki-richtig-nutzen.my.canva.site/canva-f-r-einsteiger-schritt-f-r-schritt-zum-ersten-eigenen-design"
@@ -22,7 +22,7 @@ language: "de"
 # Canva für Einsteiger - Schritt für Schritt zum ersten Design
 
 > Product ID `58861` · Digistore24 productId `727952` · [HTML profile page](../../produkte/canva-f-r-einsteiger-schritt-f-r-schritt-zum-ersten-design-58861.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

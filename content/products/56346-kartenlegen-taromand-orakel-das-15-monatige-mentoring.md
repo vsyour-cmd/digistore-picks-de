@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-04-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.akasha-portal.com/intensivkurs-kartenlegen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.akasha-portal.com/intensivkurs-kartenlegen/"
@@ -22,7 +22,7 @@ language: "de"
 # Kartenlegen-Taromand-Orakel: Das 15-monatige Mentoring
 
 > Product ID `56346` · Digistore24 productId `681476` · [HTML profile page](../../produkte/kartenlegen-taromand-orakel-das-15-monatige-mentoring-56346.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

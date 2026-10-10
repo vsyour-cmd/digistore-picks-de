@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://einfachmitmatze.de/mini-produkte-canva/zusatzpaket/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/mini-produkte-canva/zusatzpaket/"
@@ -22,7 +22,7 @@ language: "de"
 # Mini-Produkt-Ideenbibliothek – Digitale Produktideen
 
 > Product ID `59389` · Digistore24 productId `733947` · [HTML profile page](../../produkte/mini-produkt-ideenbibliothek-digitale-produktideen-59389.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

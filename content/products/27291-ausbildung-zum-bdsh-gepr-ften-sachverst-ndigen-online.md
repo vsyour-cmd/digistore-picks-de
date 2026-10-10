@@ -13,7 +13,7 @@ cancel_rate_pct: 3.87
 categories: ["Profession & Job"]
 listed_since: "2018-11-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://bisw.de/Sachverstaendiger-Homeseminar/?aff=adminstore#aff=adminstore"
 sales_page: "https://bisw.de/Sachverstaendiger-Homeseminar/"
@@ -22,7 +22,7 @@ language: "de"
 # Ausbildung zum BDSH-geprüften Sachverständigen - Online
 
 > Product ID `27291` · Digistore24 productId `247449` · [HTML profile page](../../produkte/ausbildung-zum-bdsh-gepr-ften-sachverst-ndigen-online-27291.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

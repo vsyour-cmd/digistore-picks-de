@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2021-06-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://meinemusikschule.net/kurse/singen-klassisch/?aff=adminstore#aff=adminstore"
 sales_page: "https://meinemusikschule.net/kurse/singen-klassisch/"
@@ -22,7 +22,7 @@ language: "de"
 # Singen lernen- Kurs mit Susanna Proskura
 
 > Product ID `35195` · Digistore24 productId `394849` · [HTML profile page](../../produkte/singen-lernen-kurs-mit-susanna-proskura-35195.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 4.95
 categories: ["Health & Fitness"]
 listed_since: "2020-05-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://powermuskel.com/produkte/penis-trainieren/?aff=adminstore#aff=adminstore"
 sales_page: "https://powermuskel.com/produkte/penis-trainieren/"
@@ -22,7 +22,7 @@ language: "de"
 # PC-Muskel-Training für Männer - Anastasia Romanova
 
 > Product ID `32711` · Digistore24 productId `325107` · [HTML profile page](../../produkte/pc-muskel-training-f-r-m-nner-anastasia-romanova-32711.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

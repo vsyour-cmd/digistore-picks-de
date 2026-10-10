@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Profession & Job"]
 listed_since: "2026-05-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://adhs-online-test.de?aff=adminstore#aff=adminstore"
 sales_page: "https://adhs-online-test.de"
@@ -22,7 +22,7 @@ language: "de"
 # ADHS-Fokus-Test: Muster erkennen - Selbstreflexion
 
 > Product ID `56669` · Digistore24 productId `689388` · [HTML profile page](../../produkte/adhs-fokus-test-muster-erkennen-selbstreflexion-56669.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

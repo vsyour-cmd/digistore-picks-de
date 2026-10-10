@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection","Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://schoepferinsel.com/360-haushalts-detox-system/?aff=adminstore#aff=adminstore"
 sales_page: "https://schoepferinsel.com/360-haushalts-detox-system/"
@@ -22,7 +22,7 @@ language: "de"
 # 360° Haushalts-Detox-System (von Schöpferinsel)
 
 > Product ID `58993` · Digistore24 productId `724764` · [HTML profile page](../../produkte/360-haushalts-detox-system-von-sch-pferinsel-58993.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

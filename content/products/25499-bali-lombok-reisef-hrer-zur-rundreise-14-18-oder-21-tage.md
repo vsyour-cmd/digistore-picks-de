@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Languages","Social Media","Travel & Culture"]
 listed_since: "2018-02-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/bali-lombok-reisefuehrer-rundreise/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.unaufschiebbar.de/bali-lombok-reisefuehrer-rundreise/"
@@ -22,7 +22,7 @@ language: "de"
 # Bali Lombok Reiseführer zur Rundreise (14, 18 oder 21 Tage)
 
 > Product ID `25499` · Digistore24 productId `203221` · [HTML profile page](../../produkte/bali-lombok-reisef-hrer-zur-rundreise-14-18-oder-21-tage-25499.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

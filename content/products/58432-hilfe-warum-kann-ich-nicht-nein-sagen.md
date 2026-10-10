@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-08-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/?aff=adminstore#aff=adminstore"
 sales_page: "https://beziehungscoach-online.de/grenzen-setzen-in-beziehungen/"
@@ -22,7 +22,7 @@ language: "de"
 # Hilfe! Warum kann ich nicht Nein sagen?
 
 > Product ID `58432` · Digistore24 productId `677497` · [HTML profile page](../../produkte/hilfe-warum-kann-ich-nicht-nein-sagen-58432.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

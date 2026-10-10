@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children","Travel & Culture"]
 listed_since: "2026-09-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/735328?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/735328"
@@ -22,7 +22,7 @@ language: "de"
 # Packbereit: Familien-Packplaner mit Mengen und Taschenzuordnung
 
 > Product ID `59429` · Digistore24 productId `735328` · [HTML profile page](../../produkte/packbereit-familien-packplaner-mit-mengen-und-taschenzuordnung-59429.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

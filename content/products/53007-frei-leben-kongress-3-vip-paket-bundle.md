@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism","Marketing Services"]
 listed_since: "2025-04-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.freileben3.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.freileben3.de"
@@ -22,7 +22,7 @@ language: "de"
 # Frei Leben Kongress 3 - VIP-Paket & Bundle
 
 > Product ID `53007` · Digistore24 productId `610020` · [HTML profile page](../../produkte/frei-leben-kongress-3-vip-paket-bundle-53007.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

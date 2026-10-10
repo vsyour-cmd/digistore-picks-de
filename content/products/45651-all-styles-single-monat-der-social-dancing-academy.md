@@ -13,7 +13,7 @@ cancel_rate_pct: 3.5
 categories: ["Dancing & Music"]
 listed_since: "2021-09-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://socialdancingacademy.com/single-monat?aff=adminstore#aff=adminstore"
 sales_page: "https://socialdancingacademy.com/single-monat"
@@ -22,7 +22,7 @@ language: "de"
 # All Styles Single-Monat der Social Dancing Academy
 
 > Product ID `45651` · Digistore24 productId `409953` · [HTML profile page](../../produkte/all-styles-single-monat-der-social-dancing-academy-45651.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 2.86
 categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2023-10-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://www.kb-om.com/traffic-guide-ds24?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kb-om.com/traffic-guide-ds24"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Traffic-Guide (Freebie)
 
 > Product ID `45674` · Digistore24 productId `521235` · [HTML profile page](../../produkte/affiliate-traffic-guide-freebie-45674.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

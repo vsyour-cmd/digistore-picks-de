@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Sport"]
 listed_since: "2026-09-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://zielfit-pt.com/partner/?aff=adminstore#aff=adminstore"
 sales_page: "https://zielfit-pt.com/partner/"
@@ -22,7 +22,7 @@ language: "de"
 # Zielfit - Individuelle Ernährung & maßgeschneidertes Training in einem Komplettsystem inkl. Memberbereich | starker Kundennutzen - 40 % Provision
 
 > Product ID `58931` · Digistore24 productId `727105` · [HTML profile page](../../produkte/zielfit-individuelle-ern-hrung-ma-geschneidertes-training-in-einem-komplettsystem-inkl-memberbereich-starker-kundennutzen-40-provision-58931.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

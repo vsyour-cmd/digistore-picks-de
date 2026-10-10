@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-04-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://academy.health-generation.com/salespage-mental-health-depression?aff=adminstore#aff=adminstore"
 sales_page: "https://academy.health-generation.com/salespage-mental-health-depression"
@@ -22,7 +22,7 @@ language: "de"
 # Mental Health Depression lösen - health-generation
 
 > Product ID `48733` · Digistore24 productId `547957` · [HTML profile page](../../produkte/mental-health-depression-l-sen-health-generation-48733.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

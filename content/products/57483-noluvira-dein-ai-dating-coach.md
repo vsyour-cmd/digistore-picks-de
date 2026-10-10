@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Software"]
 listed_since: "2026-07-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://www.noluvira.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.noluvira.com/"
@@ -22,7 +22,7 @@ language: "de"
 # Noluvira - Dein AI Dating Coach
 
 > Product ID `57483` · Digistore24 productId `687839` · [HTML profile page](../../produkte/noluvira-dein-ai-dating-coach-57483.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

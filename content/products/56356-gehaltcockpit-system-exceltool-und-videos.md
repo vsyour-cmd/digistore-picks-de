@@ -13,7 +13,7 @@ cancel_rate_pct: 4.95
 categories: ["Computer & Internet","Education","Profession & Job"]
 listed_since: "2026-03-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://cashcockpit.de/gehaltcockpit-system/?aff=adminstore#aff=adminstore"
 sales_page: "https://cashcockpit.de/gehaltcockpit-system/"
@@ -22,7 +22,7 @@ language: "de"
 # GehaltCockpit System | Exceltool und Videos
 
 > Product ID `56356` · Digistore24 productId `679700` · [HTML profile page](../../produkte/gehaltcockpit-system-exceltool-und-videos-56356.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

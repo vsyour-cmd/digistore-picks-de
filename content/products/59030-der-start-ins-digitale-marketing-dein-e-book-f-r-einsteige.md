@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Social Media","Marketing Services"]
 listed_since: "2026-09-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://meinwegzumerfolg.com/deine-ratgeber-anleitungen/?aff=adminstore#aff=adminstore"
 sales_page: "https://meinwegzumerfolg.com/deine-ratgeber-anleitungen/"
@@ -22,7 +22,7 @@ language: "de"
 # Der Start ins Digitale Marketing – Dein E-Book für Einsteige
 
 > Product ID `59030` · Digistore24 productId `730724` · [HTML profile page](../../produkte/der-start-ins-digitale-marketing-dein-e-book-f-r-einsteige-59030.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

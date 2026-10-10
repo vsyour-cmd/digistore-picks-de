@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Marketing Services"]
 listed_since: "2026-09-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://lebenimsein-institut.at/gamma-training.html?aff=adminstore#aff=adminstore"
 sales_page: "https://lebenimsein-institut.at/gamma-training.html"
@@ -22,7 +22,7 @@ language: "de"
 # Gamma-Training Premium
 
 > Product ID `59399` · Digistore24 productId `733217` · [HTML profile page](../../produkte/gamma-training-premium-59399.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 

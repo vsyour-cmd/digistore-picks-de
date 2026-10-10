@@ -13,7 +13,7 @@ cancel_rate_pct: 2.94
 categories: ["Education"]
 listed_since: "2025-06-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://kaf-akademie.de/fitnesstrainer-c-lizenz?aff=adminstore#aff=adminstore"
 sales_page: "https://kaf-akademie.de/fitnesstrainer-c-lizenz"
@@ -22,7 +22,7 @@ language: "de"
 # Fitnesstrainer C-Lizenz
 
 > Product ID `53875` · Digistore24 productId `620102` · [HTML profile page](../../produkte/fitnesstrainer-c-lizenz-53875.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

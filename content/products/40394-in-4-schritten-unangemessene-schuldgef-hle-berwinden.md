@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2022-05-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.beratung-therapie.de/233-0-4-Schritte-gegen-Schuldgefuehle.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.beratung-therapie.de/233-0-4-Schritte-gegen-Schuldgefuehle.html"
@@ -22,7 +22,7 @@ language: "de"
 # In 4 Schritten unangemessene Schuldgefühle überwinden
 
 > Product ID `40394` · Digistore24 productId `442798` · [HTML profile page](../../produkte/in-4-schritten-unangemessene-schuldgef-hle-berwinden-40394.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

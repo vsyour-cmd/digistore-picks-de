@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
 listed_since: "2026-03-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://templateflow.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://templateflow.app/"
@@ -22,7 +22,7 @@ language: "de"
 # KI Website Vorlage in 2 Minuten mit WordPress Kurs
 
 > Product ID `56108` · Digistore24 productId `680128` · [HTML profile page](../../produkte/ki-website-vorlage-in-2-minuten-mit-wordpress-kurs-56108.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

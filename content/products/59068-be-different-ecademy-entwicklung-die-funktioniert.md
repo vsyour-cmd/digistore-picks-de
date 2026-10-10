@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-09-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://be-different-ecademy.com/member?aff=adminstore#aff=adminstore"
 sales_page: "https://be-different-ecademy.com/member"
@@ -22,7 +22,7 @@ language: "de"
 # Be Different ecademy – Entwicklung, die funktioniert
 
 > Product ID `59068` · Digistore24 productId `645039` · [HTML profile page](../../produkte/be-different-ecademy-entwicklung-die-funktioniert-59068.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Software","Real Estate"]
 listed_since: "2026-08-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://assetki.de/go/advisor?aff=adminstore#aff=adminstore"
 sales_page: "https://assetki.de/go/advisor"
@@ -22,7 +22,7 @@ language: "de"
 # AssetKi Advisor – 30 % monatlich wiederkehrende Provision
 
 > Product ID `58359` · Digistore24 productId `721170` · [HTML profile page](../../produkte/assetki-advisor-30-monatlich-wiederkehrende-provision-58359.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

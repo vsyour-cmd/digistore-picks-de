@@ -13,7 +13,7 @@ cancel_rate_pct: 3.18
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2017-01-31"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "http://energetic-eternity.de/produkt/love-bundle/?aff=adminstore#aff=adminstore"
 sales_page: "http://energetic-eternity.de/produkt/love-bundle/"
@@ -22,7 +22,7 @@ language: "de"
 # Love Bundle – Die Liebe für sich selbst und für Andere
 
 > Product ID `16187` · Digistore24 productId `116827` · [HTML profile page](../../produkte/love-bundle-die-liebe-f-r-sich-selbst-und-f-r-andere-16187.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

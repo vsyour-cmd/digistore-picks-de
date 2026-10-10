@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-06-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://geldhuepfer.de/was-die-schule-nicht-lehrt-geld-vermehren-kinderleicht-erklaert?aff=adminstore#aff=adminstore"
 sales_page: "https://geldhuepfer.de/was-die-schule-nicht-lehrt-geld-vermehren-kinderleicht-erklaert"
@@ -22,7 +22,7 @@ language: "de"
 # Was die Schule nicht lehrt - Geld vermehren leicht erklärt
 
 > Product ID `33267` · Digistore24 productId `333486` · [HTML profile page](../../produkte/was-die-schule-nicht-lehrt-geld-vermehren-leicht-erkl-rt-33267.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

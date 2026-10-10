@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet"]
 listed_since: "2026-07-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://eternumtech.eu/ki-schnellstart?aff=adminstore#aff=adminstore"
 sales_page: "https://eternumtech.eu/ki-schnellstart"
@@ -22,7 +22,7 @@ language: "de"
 # ETERNUM KI-Praxis-Kompass – KI verständlich im Alltag nutzen | 39 € | 40 % Provision
 
 > Product ID `57565` · Digistore24 productId `712329` · [HTML profile page](../../produkte/eternum-ki-praxis-kompass-ki-verst-ndlich-im-alltag-nutzen-39-40-provision-57565.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

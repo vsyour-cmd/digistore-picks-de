@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets","Family & Children","Fun & Games"]
 listed_since: "2026-06-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.katzenbeschaeftigung.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.katzenbeschaeftigung.de"
@@ -22,7 +22,7 @@ language: "de"
 # 30 Tage Katzenbeschäftigung – PDF-Bundle für Wohnungskatzen
 
 > Product ID `57313` · Digistore24 productId `706803` · [HTML profile page](../../produkte/30-tage-katzenbesch-ftigung-pdf-bundle-f-r-wohnungskatzen-57313.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

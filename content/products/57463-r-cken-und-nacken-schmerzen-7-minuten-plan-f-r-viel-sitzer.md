@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Profession & Job"]
 listed_since: "2026-07-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://buerostuhl.kaufen/der-sitz-reset?aff=adminstore#aff=adminstore"
 sales_page: "https://buerostuhl.kaufen/der-sitz-reset"
@@ -22,7 +22,7 @@ language: "de"
 # Rücken- und Nacken-Schmerzen: 7-Minuten-Plan für Viel-Sitzer
 
 > Product ID `57463` · Digistore24 productId `708878` · [HTML profile page](../../produkte/r-cken-und-nacken-schmerzen-7-minuten-plan-f-r-viel-sitzer-57463.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

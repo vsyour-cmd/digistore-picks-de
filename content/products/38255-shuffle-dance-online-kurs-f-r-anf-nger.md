@@ -13,7 +13,7 @@ cancel_rate_pct: 2.89
 categories: ["Dancing & Music"]
 listed_since: "2021-10-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.shuffledancemunich.com/shuffle-dance-onlinekurs?aff=adminstore#aff=adminstore"
 sales_page: "https://www.shuffledancemunich.com/shuffle-dance-onlinekurs"
@@ -22,7 +22,7 @@ language: "de"
 # Shuffle Dance Online Kurs - Für Anfänger
 
 > Product ID `38255` · Digistore24 productId `413659` · [HTML profile page](../../produkte/shuffle-dance-online-kurs-f-r-anf-nger-38255.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

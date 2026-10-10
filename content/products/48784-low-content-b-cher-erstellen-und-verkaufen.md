@@ -13,7 +13,7 @@ cancel_rate_pct: 0.68
 categories: ["Education","Hobby & Craft","Online Marketing & E-Business"]
 listed_since: "2024-06-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://jyotimaflak.com/lowcontent?aff=adminstore#aff=adminstore"
 sales_page: "https://jyotimaflak.com/lowcontent"
@@ -22,7 +22,7 @@ language: "de"
 # Low Content Bücher erstellen und verkaufen
 
 > Product ID `48784` · Digistore24 productId `557396` · [HTML profile page](../../produkte/low-content-b-cher-erstellen-und-verkaufen-48784.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

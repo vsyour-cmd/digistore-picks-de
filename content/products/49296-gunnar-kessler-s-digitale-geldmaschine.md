@@ -13,7 +13,7 @@ cancel_rate_pct: 16.58
 categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-08-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://byebyeschufterei.de/dgm-7512/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyeschufterei.de/dgm-7512/"
@@ -22,7 +22,7 @@ language: "de"
 # Gunnar Kessler's "Digitale Geldmaschine"
 
 > Product ID `49296` · Digistore24 productId `714148` · [HTML profile page](../../produkte/gunnar-kessler-s-digitale-geldmaschine-49296.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

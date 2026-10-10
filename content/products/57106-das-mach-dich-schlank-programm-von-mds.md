@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Marketing Services"]
 listed_since: "2026-06-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://mach-dich-schlank-programm.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://mach-dich-schlank-programm.com/"
@@ -22,7 +22,7 @@ language: "de"
 # Das Mach dich schlank Programm von MDS
 
 > Product ID `57106` · Digistore24 productId `328028` · [HTML profile page](../../produkte/das-mach-dich-schlank-programm-von-mds-57106.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

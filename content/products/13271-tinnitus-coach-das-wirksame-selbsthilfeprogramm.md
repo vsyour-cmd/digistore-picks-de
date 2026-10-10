@@ -13,7 +13,7 @@ cancel_rate_pct: 7.61
 categories: ["Health & Fitness"]
 listed_since: "2016-08-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "http://www.tinnitus-coach.eu?aff=adminstore#aff=adminstore"
 sales_page: "http://www.tinnitus-coach.eu"
@@ -22,7 +22,7 @@ language: "de"
 # Tinnitus Coach - das wirksame Selbsthilfeprogramm
 
 > Product ID `13271` · Digistore24 productId `90385` · [HTML profile page](../../produkte/tinnitus-coach-das-wirksame-selbsthilfeprogramm-13271.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

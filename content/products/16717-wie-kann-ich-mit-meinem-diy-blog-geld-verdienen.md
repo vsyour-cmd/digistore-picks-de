@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2017-04-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.kreativlaborberlin.de/wie-kann-ich-mit-meinem-diy-blog-geld-verdienen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kreativlaborberlin.de/wie-kann-ich-mit-meinem-diy-blog-geld-verdienen/"
@@ -22,7 +22,7 @@ language: "de"
 # Wie kann ich mit meinem DIY-Blog Geld verdienen?
 
 > Product ID `16717` · Digistore24 productId `132869` · [HTML profile page](../../produkte/wie-kann-ich-mit-meinem-diy-blog-geld-verdienen-16717.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

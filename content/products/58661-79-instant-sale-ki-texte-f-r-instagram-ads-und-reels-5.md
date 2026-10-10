@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Software","Marketing Services"]
 listed_since: "2026-08-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://app.fit-fuel.at/content?aff=adminstore#aff=adminstore"
 sales_page: "https://app.fit-fuel.at/content"
@@ -22,7 +22,7 @@ language: "de"
 # 79 € Instant-Sale: KI-Texte für Instagram, Ads und Reels – 5
 
 > Product ID `58661` · Digistore24 productId `725148` · [HTML profile page](../../produkte/79-instant-sale-ki-texte-f-r-instagram-ads-und-reels-5-58661.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

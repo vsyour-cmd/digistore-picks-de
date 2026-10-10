@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Sales Training"]
 listed_since: "2025-06-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://anna-versum.funnelcockpit.com/lizenzpakete-2/?aff=adminstore#aff=adminstore"
 sales_page: "https://anna-versum.funnelcockpit.com/lizenzpakete-2/"
@@ -22,7 +22,7 @@ language: "de"
 # Verkaufs-Training für hochpreisige Bodyforming-Studios
 
 > Product ID `54032` · Digistore24 productId `616449` · [HTML profile page](../../produkte/verkaufs-training-f-r-hochpreisige-bodyforming-studios-54032.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

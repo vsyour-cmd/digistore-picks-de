@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children","Health & Fitness"]
 listed_since: "2026-06-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://carolina-stephan.de/kinderwunsch/?aff=adminstore#aff=adminstore"
 sales_page: "https://carolina-stephan.de/kinderwunsch/"
@@ -22,7 +22,7 @@ language: "de"
 # Kinderwunsch Kurs (199 €): Top-Nische Frauengesundheit, 50%
 
 > Product ID `56857` · Digistore24 productId `688993` · [HTML profile page](../../produkte/kinderwunsch-kurs-199-top-nische-frauengesundheit-50-56857.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

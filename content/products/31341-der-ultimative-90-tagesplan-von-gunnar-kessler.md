@@ -13,7 +13,7 @@ cancel_rate_pct: 9.06
 categories: ["Online Marketing & E-Business"]
 listed_since: "2019-09-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://byebyeschufterei.de/90-tageplan-7500/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyeschufterei.de/90-tageplan-7500/"
@@ -22,7 +22,7 @@ language: "de"
 # Der ultimative 90 Tagesplan - von Gunnar Kessler
 
 > Product ID `31341` · Digistore24 productId `286659` · [HTML profile page](../../produkte/der-ultimative-90-tagesplan-von-gunnar-kessler-31341.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

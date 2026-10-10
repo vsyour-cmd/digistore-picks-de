@@ -13,7 +13,7 @@ cancel_rate_pct: 4.74
 categories: ["Law & Justice"]
 listed_since: "2017-10-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://easycontracts.de/vertraege/webservice/webdesign-vertrag/?aff=adminstore#aff=adminstore"
 sales_page: "https://easycontracts.de/vertraege/webservice/webdesign-vertrag/"
@@ -22,7 +22,7 @@ language: "de"
 # Vertrag und AGB für Online Unternehmer
 
 > Product ID `29096` · Digistore24 productId `174749` · [HTML profile page](../../produkte/vertrag-und-agb-f-r-online-unternehmer-29096.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

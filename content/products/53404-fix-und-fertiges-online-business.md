@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-08-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://altersvorsorgevierzigplus.funnelcockpit.com/fertiges-online-business/?aff=adminstore#aff=adminstore"
 sales_page: "https://altersvorsorgevierzigplus.funnelcockpit.com/fertiges-online-business/"
@@ -22,7 +22,7 @@ language: "de"
 # Fix und fertiges Online Business
 
 > Product ID `53404` · Digistore24 productId `627525` · [HTML profile page](../../produkte/fix-und-fertiges-online-business-53404.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

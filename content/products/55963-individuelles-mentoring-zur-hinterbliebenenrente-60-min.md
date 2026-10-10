@@ -13,7 +13,7 @@ cancel_rate_pct: 0.45
 categories: ["Business & Investment","Education"]
 listed_since: "2025-05-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://verwitwet-leben.de/individuelles-mentoring-einzelstunde/?aff=adminstore#aff=adminstore"
 sales_page: "https://verwitwet-leben.de/individuelles-mentoring-einzelstunde/"
@@ -22,7 +22,7 @@ language: "de"
 # Individuelles Mentoring zur Hinterbliebenenrente (60 Min.)
 
 > Product ID `55963` · Digistore24 productId `686387` · [HTML profile page](../../produkte/individuelles-mentoring-zur-hinterbliebenenrente-60-min-55963.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

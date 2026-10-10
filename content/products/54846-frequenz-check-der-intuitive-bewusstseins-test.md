@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Services","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-12-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://andreas-tauscher.coachy.net/lp/frequenz-check/?aff=adminstore#aff=adminstore"
 sales_page: "https://andreas-tauscher.coachy.net/lp/frequenz-check/"
@@ -22,7 +22,7 @@ language: "de"
 # Frequenz-Check – Der intuitive Bewusstseins-Test
 
 > Product ID `54846` · Digistore24 productId `652397` · [HTML profile page](../../produkte/frequenz-check-der-intuitive-bewusstseins-test-54846.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

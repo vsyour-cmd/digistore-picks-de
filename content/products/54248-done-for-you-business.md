@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2024-12-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://altersvorsorgevierzigplus.funnelcockpit.com/done-for-you-business/?aff=adminstore#aff=adminstore"
 sales_page: "https://altersvorsorgevierzigplus.funnelcockpit.com/done-for-you-business/"
@@ -22,7 +22,7 @@ language: "de"
 # Done-for-you-Business
 
 > Product ID `54248` · Digistore24 productId `586859` · [HTML profile page](../../produkte/done-for-you-business-54248.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

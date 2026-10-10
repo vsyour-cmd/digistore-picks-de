@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Family & Children","Fun & Games"]
 listed_since: "2026-07-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://gesundleben360.de/3-starke-malbuecher-in-einem-bundle/?aff=adminstore#aff=adminstore"
 sales_page: "https://gesundleben360.de/3-starke-malbuecher-in-einem-bundle/"
@@ -22,7 +22,7 @@ language: "de"
 # 3 inklusive Malbücher im Bundle
 
 > Product ID `57812` · Digistore24 productId `712154` · [HTML profile page](../../produkte/3-inklusive-malb-cher-im-bundle-57812.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

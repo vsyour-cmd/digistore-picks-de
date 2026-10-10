@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Software","Finances"]
 listed_since: "2026-07-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.headuphigh.de/billfix?aff=adminstore#aff=adminstore"
 sales_page: "https://www.headuphigh.de/billfix"
@@ -22,7 +22,7 @@ language: "de"
 # Billfix (Windows) – E-Rechnung ohne Abo | Einstieg 149 €, 30
 
 > Product ID `57451` · Digistore24 productId `708969` · [HTML profile page](../../produkte/billfix-windows-e-rechnung-ohne-abo-einstieg-149-30-57451.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

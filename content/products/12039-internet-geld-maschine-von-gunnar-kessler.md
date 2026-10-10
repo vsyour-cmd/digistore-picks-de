@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2016-04-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://byebyeschufterei.de/internet-geld-maschine-7500/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyeschufterei.de/internet-geld-maschine-7500/"
@@ -22,7 +22,7 @@ language: "de"
 # Internet Geld Maschine - von Gunnar Kessler
 
 > Product ID `12039` · Digistore24 productId `79507` · [HTML profile page](../../produkte/internet-geld-maschine-von-gunnar-kessler-12039.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

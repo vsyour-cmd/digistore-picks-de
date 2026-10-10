@@ -13,7 +13,7 @@ cancel_rate_pct: 10.51
 categories: ["Trading Products"]
 listed_since: "2018-01-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/trading-signale/dax-future-daytrading-live-trading-signale/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kagels-trading.de/trading-signale/dax-future-daytrading-live-trading-signale/"
@@ -22,7 +22,7 @@ language: "de"
 # DAX Index Daytrading Signale
 
 > Product ID `27737` · Digistore24 productId `190945` · [HTML profile page](../../produkte/dax-index-daytrading-signale-27737.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2024-10-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://gluecksmomente-jeden-tag.com/dein-neustart-jetzt?aff=adminstore#aff=adminstore"
 sales_page: "https://gluecksmomente-jeden-tag.com/dein-neustart-jetzt"
@@ -22,7 +22,7 @@ language: "de"
 # Dein Neustart: Finde Dein erfülltes Leben JETZT!
 
 > Product ID `50207` · Digistore24 productId `577219` · [HTML profile page](../../produkte/dein-neustart-finde-dein-erf-lltes-leben-jetzt-50207.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

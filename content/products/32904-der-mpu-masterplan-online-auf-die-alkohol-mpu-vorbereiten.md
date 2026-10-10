@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2020-02-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://mpu-konkret.de/alkohol-vorbereitungskurs?aff=adminstore#aff=adminstore"
 sales_page: "http://mpu-konkret.de/alkohol-vorbereitungskurs"
@@ -22,7 +22,7 @@ language: "de"
 # Der MPU Masterplan - Online auf die Alkohol MPU vorbereiten
 
 > Product ID `32904` · Digistore24 productId `308549` · [HTML profile page](../../produkte/der-mpu-masterplan-online-auf-die-alkohol-mpu-vorbereiten-32904.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

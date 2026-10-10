@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2026-03-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://affiliforge.net/masterclass-anmeldung?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/masterclass-anmeldung"
@@ -22,7 +22,7 @@ language: "de"
 # Affili Forge Premium Mentoring
 
 > Product ID `56361` · Digistore24 productId `679185` · [HTML profile page](../../produkte/affili-forge-premium-mentoring-56361.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

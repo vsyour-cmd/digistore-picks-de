@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Hobby & Craft","Home & Garden"]
 listed_since: "2026-09-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://all-in-one-aw.de/hauswissen/?aff=adminstore#aff=adminstore"
 sales_page: "https://all-in-one-aw.de/hauswissen/"
@@ -22,7 +22,7 @@ language: "de"
 # Hauswissen vom Praktiker – Band 1 | Praxiswissen fürs Haus
 
 > Product ID `59200` · Digistore24 productId `711257` · [HTML profile page](../../produkte/hauswissen-vom-praktiker-band-1-praxiswissen-f-rs-haus-59200.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

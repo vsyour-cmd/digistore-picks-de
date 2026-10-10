@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2022-01-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.lern-impuls.at/sozialversicherung/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.lern-impuls.at/sozialversicherung/"
@@ -22,7 +22,7 @@ language: "de"
 # Videokurs: Sozialversicherung
 
 > Product ID `44779` · Digistore24 productId `423080` · [HTML profile page](../../produkte/videokurs-sozialversicherung-44779.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

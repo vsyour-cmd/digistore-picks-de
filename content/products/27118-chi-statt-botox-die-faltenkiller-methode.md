@@ -13,8 +13,8 @@ cancel_rate_pct: 0.77
 categories: ["Health & Fitness"]
 listed_since: "2017-02-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "rich"
 promo_link: "https://chi-statt-botox.com/online-kurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://chi-statt-botox.com/online-kurs/"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # Chi statt Botox - die Faltenkiller-Methode
 
 > Product ID `27118` · Digistore24 productId `120183` · [HTML profile page](../../produkte/chi-statt-botox-die-faltenkiller-methode-27118.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -51,7 +51,27 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Online Kurs - Chi statt Botox
+- **Headline (H1):**
+  > 1 Online Kurs – 20 Videos:
+  > Lift & Release: die Wochenformel
+- **Section headlines (H2):**
+  - In 10 Minuten täglich 10 Jahre jünger aussehen - und wieso es funktioniert
+  - Feedback
+  - Ja, ich will noch heute beginnen & den Kurs für nur EUR 149,- (inkl. MwSt.) bestellen.
+  - Wenn du eine oder mehrere der folgenden Problemzonen hast, dann kannst du mit Hilfe der 20 Videos aus meinem Online Kurs dein Gesicht verändern:
+  - Mit meinem Online-Kurs kannst du:
+  - Aufbau des Online Kurses:
+  - FAQs
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/120183
+- **Opening copy (first paragraphs):**
+  > mit uralten fernöstlichen Do-it-Yourself Methoden Falten reduzieren, die Haut straffen und schöne Gesichtskonturen bekommen!
+  > mit uralten fernöstlichen Do-it-Yourself Methoden Falten reduzieren & Haut straffen!
+  > Vergiss teure Cremes und riskante Eingriffe – unser Online-Kurs bietet die Lösung , die du schon immer gesucht hast. Dein Gesicht hat mehr Potenzial, als du dir vorstellen kannst. Lass uns gemeinsam das Beste daraus hervorbringen!
+  > Zu lange haben wir angenommen, dass Kosmetikprodukte und Schönheitschirurgie die einzigen Optionen sind, um den Alterungsprozess der Haut zu bekämpfen. Doch wir zeigen dir, dass du selbst viel mehr Einfluss auf dein Aussehen hast, als du denkst. Mit unserem Kurs wirst du nie wieder blass, fahl oder von unnötigen Falten geplagt sein.
+- **Page word count:** 1247
+- **OG image:** https://chi-statt-botox.com/wp-content/uploads/lift-release-warm-mobil-3.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

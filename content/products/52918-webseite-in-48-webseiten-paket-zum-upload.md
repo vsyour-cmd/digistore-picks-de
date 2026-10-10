@@ -13,7 +13,7 @@ cancel_rate_pct: 0.81
 categories: ["Computer & Internet","Online Marketing"]
 listed_since: "2025-04-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://jyotimaflak.com/webseitein48h?aff=adminstore#aff=adminstore"
 sales_page: "https://jyotimaflak.com/webseitein48h"
@@ -22,7 +22,7 @@ language: "de"
 # Webseite in 48 – Webseiten-Paket zum Upload
 
 > Product ID `52918` · Digistore24 productId `609640` · [HTML profile page](../../produkte/webseite-in-48-webseiten-paket-zum-upload-52918.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

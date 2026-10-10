@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2021-12-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.432hzconverter.com/app2?lang=de&aff=adminstore#aff=adminstore"
 sales_page: "https://www.432hzconverter.com/app2?lang=de"
@@ -22,7 +22,7 @@ language: "de"
 # Audio Frequency Converter
 
 > Product ID `38467` · Digistore24 productId `419418` · [HTML profile page](../../produkte/audio-frequency-converter-38467.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

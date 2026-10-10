@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2026-06-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://angstfrei.shop/produkt/band-9-bundle-die-angst-vor-kontrollverlust/?aff=adminstore#aff=adminstore"
 sales_page: "https://angstfrei.shop/produkt/band-9-bundle-die-angst-vor-kontrollverlust/"
@@ -22,7 +22,7 @@ language: "de"
 # Hochrelevant + 50% Provision: Angst vor Kontrollverlust
 
 > Product ID `56794` · Digistore24 productId `691014` · [HTML profile page](../../produkte/hochrelevant-50-provision-angst-vor-kontrollverlust-56794.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

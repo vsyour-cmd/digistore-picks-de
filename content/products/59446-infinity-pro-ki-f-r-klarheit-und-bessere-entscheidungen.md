@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
 listed_since: "2026-09-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://infinity.business-coach-uwe-boehle.ch/guthaben.php?aff=adminstore#aff=adminstore"
 sales_page: "https://infinity.business-coach-uwe-boehle.ch/guthaben.php"
@@ -22,7 +22,7 @@ language: "de"
 # INFINITY PRO KI für Klarheit und bessere Entscheidungen
 
 > Product ID `59446` · Digistore24 productId `723849` · [HTML profile page](../../produkte/infinity-pro-ki-f-r-klarheit-und-bessere-entscheidungen-59446.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2015-09-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/57899?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/57899"
@@ -22,7 +22,7 @@ language: "de"
 # Abnehmen ohne Hunger - Die Ernährungspläne
 
 > Product ID `8517` · Digistore24 productId `57899` · [HTML profile page](../../produkte/abnehmen-ohne-hunger-die-ern-hrungspl-ne-8517.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

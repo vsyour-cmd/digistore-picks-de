@@ -13,7 +13,7 @@ cancel_rate_pct: 0.49
 categories: ["Computer & Internet","Software"]
 listed_since: "2025-05-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.webpirat.de/ki-musik-geld-maschine/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.webpirat.de/ki-musik-geld-maschine/"
@@ -22,7 +22,7 @@ language: "de"
 # KI Musik Geld Maschine (2025)
 
 > Product ID `52447` · Digistore24 productId `613120` · [HTML profile page](../../produkte/ki-musik-geld-maschine-2025-52447.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

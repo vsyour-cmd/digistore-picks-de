@@ -13,7 +13,7 @@ cancel_rate_pct: 2.9
 categories: ["Animals & Pets"]
 listed_since: "2024-08-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.mehrerehunde-einteam.de/hundegruppen-im-gleichgewicht/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mehrerehunde-einteam.de/hundegruppen-im-gleichgewicht/"
@@ -22,7 +22,7 @@ language: "de"
 # Hundegruppen im Gleichgewicht: Dynamik und Harmonie fördern!
 
 > Product ID `52084` · Digistore24 productId `566575` · [HTML profile page](../../produkte/hundegruppen-im-gleichgewicht-dynamik-und-harmonie-f-rdern-52084.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

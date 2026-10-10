@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Marketing Services"]
 listed_since: "2026-10-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/719244?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/719244"
@@ -22,7 +22,7 @@ language: "de"
 # Story Sales System - 30 Stories für mehr Verkäufe.
 
 > Product ID `60208` · Digistore24 productId `719244` · [HTML profile page](../../produkte/story-sales-system-30-stories-f-r-mehr-verk-ufe-60208.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

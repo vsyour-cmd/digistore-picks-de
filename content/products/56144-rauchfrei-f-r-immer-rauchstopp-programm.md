@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Fun & Games","Health & Fitness","Personal Development"]
 listed_since: "2024-04-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.aufhoeren-rauchen.com/rauchstopp?aff=adminstore#aff=adminstore"
 sales_page: "https://www.aufhoeren-rauchen.com/rauchstopp"
@@ -22,7 +22,7 @@ language: "de"
 # Rauchfrei für immer - Rauchstopp Programm
 
 > Product ID `56144` · Digistore24 productId `546392` · [HTML profile page](../../produkte/rauchfrei-f-r-immer-rauchstopp-programm-56144.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-02-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://michael-kotzur.de/geld-verdienen-amazon-partnerprogramm/?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-kotzur.de/geld-verdienen-amazon-partnerprogramm/"
@@ -22,7 +22,7 @@ language: "de"
 # eBook: Geld verdienen mit dem Amazon Partnerprogramm
 
 > Product ID `51740` · Digistore24 productId `596713` · [HTML profile page](../../produkte/ebook-geld-verdienen-mit-dem-amazon-partnerprogramm-51740.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

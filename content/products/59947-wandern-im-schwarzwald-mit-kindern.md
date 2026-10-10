@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children","Hobby & Craft","Travel & Culture"]
 listed_since: "2026-09-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/738069?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/738069"
@@ -22,7 +22,7 @@ language: "de"
 # Wandern im Schwarzwald mit Kindern
 
 > Product ID `59947` · Digistore24 productId `738069` · [HTML profile page](../../produkte/wandern-im-schwarzwald-mit-kindern-59947.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

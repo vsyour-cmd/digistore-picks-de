@@ -13,7 +13,7 @@ cancel_rate_pct: 1.76
 categories: ["Profession & Job"]
 listed_since: "2023-01-31"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.provi-magnet.de/ytvkslp/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.provi-magnet.de/ytvkslp/"
@@ -22,7 +22,7 @@ language: "de"
 # YouTube Mastery - Leads ohne Ende und ohne Werbekosten
 
 > Product ID `44127` · Digistore24 productId `482119` · [HTML profile page](../../produkte/youtube-mastery-leads-ohne-ende-und-ohne-werbekosten-44127.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

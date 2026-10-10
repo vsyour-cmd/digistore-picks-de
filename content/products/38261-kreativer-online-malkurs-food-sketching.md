@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2021-10-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://kolibri-school.de/food-sketching-malen-lernen/?aff=adminstore#aff=adminstore"
 sales_page: "https://kolibri-school.de/food-sketching-malen-lernen/"
@@ -22,7 +22,7 @@ language: "de"
 # Kreativer online Malkurs "Food Sketching"
 
 > Product ID `38261` · Digistore24 productId `414062` · [HTML profile page](../../produkte/kreativer-online-malkurs-food-sketching-38261.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

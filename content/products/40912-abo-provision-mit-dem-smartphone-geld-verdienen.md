@@ -13,7 +13,7 @@ cancel_rate_pct: 2.66
 categories: ["Profession & Job"]
 listed_since: "2022-08-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://moneten-wissen.de/mit-dem-smartphone-geld-verdienen/?aff=adminstore#aff=adminstore"
 sales_page: "https://moneten-wissen.de/mit-dem-smartphone-geld-verdienen/"
@@ -22,7 +22,7 @@ language: "de"
 # ABO Provision - Mit dem Smartphone Geld verdienen
 
 > Product ID `40912` · Digistore24 productId `456148` · [HTML profile page](../../produkte/abo-provision-mit-dem-smartphone-geld-verdienen-40912.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

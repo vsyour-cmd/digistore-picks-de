@@ -13,7 +13,7 @@ cancel_rate_pct: 1.86
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2017-02-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://andreas-goldemann.mykajabi.com/kraft-der-ahnen-e?aff=adminstore#aff=adminstore"
 sales_page: "https://andreas-goldemann.mykajabi.com/kraft-der-ahnen-e"
@@ -22,7 +22,7 @@ language: "de"
 # „Die Kraft der Ahnen“ - Klärt das Familiensystem
 
 > Product ID `40829` · Digistore24 productId `119917` · [HTML profile page](../../produkte/die-kraft-der-ahnen-kl-rt-das-familiensystem-40829.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

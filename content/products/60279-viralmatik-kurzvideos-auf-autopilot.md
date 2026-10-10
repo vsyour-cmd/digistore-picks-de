@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Software"]
 listed_since: "2026-10-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://viralmatik.com?aff=adminstore#aff=adminstore"
 sales_page: "https://viralmatik.com"
@@ -22,7 +22,7 @@ language: "de"
 # Viralmatik – Kurzvideos auf Autopilot
 
 > Product ID `60279` · Digistore24 productId `730765` · [HTML profile page](../../produkte/viralmatik-kurzvideos-auf-autopilot-60279.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

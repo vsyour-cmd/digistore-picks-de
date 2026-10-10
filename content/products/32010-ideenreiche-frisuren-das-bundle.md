@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2020-02-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.laurie-ibsen.de/das-bundle-ideenreiche-frisuren?aff=adminstore#aff=adminstore"
 sales_page: "https://www.laurie-ibsen.de/das-bundle-ideenreiche-frisuren"
@@ -22,7 +22,7 @@ language: "de"
 # Ideenreiche Frisuren - das Bundle
 
 > Product ID `32010` · Digistore24 productId `306828` · [HTML profile page](../../produkte/ideenreiche-frisuren-das-bundle-32010.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

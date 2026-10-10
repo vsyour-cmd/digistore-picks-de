@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2020-03-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.freitauchen-lernen.com/apnoetauchen-ebook/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.freitauchen-lernen.com/apnoetauchen-ebook/"
@@ -22,7 +22,7 @@ language: "de"
 # Apnoetauchen Schritt-für-Schritt 100 Meter und 5 Minuten
 
 > Product ID `32085` · Digistore24 productId `314290` · [HTML profile page](../../produkte/apnoetauchen-schritt-f-r-schritt-100-meter-und-5-minuten-32085.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

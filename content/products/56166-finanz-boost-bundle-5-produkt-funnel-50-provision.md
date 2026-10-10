@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development","Finances"]
 listed_since: "2026-04-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://heikoboos.com/finanz-boost-bundle-ds24?aff=adminstore#aff=adminstore"
 sales_page: "https://heikoboos.com/finanz-boost-bundle-ds24"
@@ -22,7 +22,7 @@ language: "de"
 # Finanz-Boost-Bundle | 5-Produkt-Funnel | 50% Provision
 
 > Product ID `56166` · Digistore24 productId `681858` · [HTML profile page](../../produkte/finanz-boost-bundle-5-produkt-funnel-50-provision-56166.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

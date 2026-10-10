@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Education","Software"]
 listed_since: "2026-09-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/733809?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/733809"
@@ -22,7 +22,7 @@ language: "de"
 # Adobe Illustrator Designer Komplettkurs
 
 > Product ID `59629` · Digistore24 productId `733809` · [HTML profile page](../../produkte/adobe-illustrator-designer-komplettkurs-59629.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

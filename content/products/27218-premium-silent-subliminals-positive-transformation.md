@@ -13,7 +13,7 @@ cancel_rate_pct: 0.26
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2018-09-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://brainfood4you.com/home?aff=adminstore#aff=adminstore"
 sales_page: "https://brainfood4you.com/home"
@@ -22,7 +22,7 @@ language: "de"
 # Premium Silent Subliminals – Positive Transformation
 
 > Product ID `27218` · Digistore24 productId `241171` · [HTML profile page](../../produkte/premium-silent-subliminals-positive-transformation-27218.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

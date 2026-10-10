@@ -13,7 +13,7 @@ cancel_rate_pct: 2.38
 categories: ["Education","Hobby & Craft"]
 listed_since: "2025-12-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://schmidtszeichenwelt.de/affiliate-seite-produkt-vom-anfaenger-zum-meister/?aff=adminstore#aff=adminstore"
 sales_page: "https://schmidtszeichenwelt.de/affiliate-seite-produkt-vom-anfaenger-zum-meister/"
@@ -22,7 +22,7 @@ language: "de"
 # Zeichenkurs „Vom Anfänger zum Meister" Realistisch zeichnen
 
 > Product ID `54949` · Digistore24 productId `656265` · [HTML profile page](../../produkte/zeichenkurs-vom-anf-nger-zum-meister-realistisch-zeichnen-54949.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

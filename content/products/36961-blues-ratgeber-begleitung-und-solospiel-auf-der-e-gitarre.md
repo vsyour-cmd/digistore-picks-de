@@ -13,7 +13,7 @@ cancel_rate_pct: 2.63
 categories: ["Dancing & Music"]
 listed_since: "2021-06-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.gitarrenvideounterricht.de/kurse/blues-ratgeber/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.gitarrenvideounterricht.de/kurse/blues-ratgeber/"
@@ -22,7 +22,7 @@ language: "de"
 # Blues-Ratgeber - Begleitung und Solospiel auf der E-Gitarre
 
 > Product ID `36961` · Digistore24 productId `394565` · [HTML profile page](../../produkte/blues-ratgeber-begleitung-und-solospiel-auf-der-e-gitarre-36961.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

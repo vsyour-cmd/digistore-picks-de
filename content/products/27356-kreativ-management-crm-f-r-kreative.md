@@ -13,7 +13,7 @@ cancel_rate_pct: 2.76
 categories: ["Business & Investment","Computer & Internet","Software"]
 listed_since: "2023-05-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://kreativ.management?aff=adminstore#aff=adminstore"
 sales_page: "https://kreativ.management"
@@ -22,7 +22,7 @@ language: "de"
 # Kreativ.Management - CRM für Kreative
 
 > Product ID `27356` · Digistore24 productId `498058` · [HTML profile page](../../produkte/kreativ-management-crm-f-r-kreative-27356.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 7.76
 categories: ["Dancing & Music"]
 listed_since: "2019-07-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.guitarschool.at/gitarrenkurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.guitarschool.at/gitarrenkurs/"
@@ -22,7 +22,7 @@ language: "de"
 # Gitarre ONLINE Elementar
 
 > Product ID `29356` · Digistore24 productId `277893` · [HTML profile page](../../produkte/gitarre-online-elementar-29356.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

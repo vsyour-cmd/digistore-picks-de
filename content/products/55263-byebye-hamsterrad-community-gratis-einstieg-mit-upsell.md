@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-12-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://byebyehamsterrad.de/Member/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyehamsterrad.de/Member/"
@@ -22,7 +22,7 @@ language: "de"
 # ByeBye Hamsterrad Community – Gratis Einstieg mit Upsell
 
 > Product ID `55263` · Digistore24 productId `653336` · [HTML profile page](../../produkte/byebye-hamsterrad-community-gratis-einstieg-mit-upsell-55263.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

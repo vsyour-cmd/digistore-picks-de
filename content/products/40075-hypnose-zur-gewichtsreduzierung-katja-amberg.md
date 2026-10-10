@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-02-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://katja-amberg-shop.de/gewichtsreduzierung?aff=adminstore#aff=adminstore"
 sales_page: "http://katja-amberg-shop.de/gewichtsreduzierung"
@@ -22,7 +22,7 @@ language: "de"
 # HYPNOSE ZUR GEWICHTSREDUZIERUNG | Katja Amberg
 
 > Product ID `40075` · Digistore24 productId `308411` · [HTML profile page](../../produkte/hypnose-zur-gewichtsreduzierung-katja-amberg-40075.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

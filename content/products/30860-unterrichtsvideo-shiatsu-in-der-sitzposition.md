@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-12-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.shiatsu.de/muenchen/node/909?aff=adminstore#aff=adminstore"
 sales_page: "https://www.shiatsu.de/muenchen/node/909"
@@ -22,7 +22,7 @@ language: "de"
 # Unterrichtsvideo "Shiatsu in der Sitzposition"
 
 > Product ID `30860` · Digistore24 productId `297717` · [HTML profile page](../../produkte/unterrichtsvideo-shiatsu-in-der-sitzposition-30860.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

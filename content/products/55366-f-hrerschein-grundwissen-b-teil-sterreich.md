@@ -13,7 +13,7 @@ cancel_rate_pct: 6.67
 categories: ["Education","Personal Development"]
 listed_since: "2025-12-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/654471?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/654471"
@@ -22,7 +22,7 @@ language: "de"
 # Führerschein Grundwissen + B-Teil (Österreich)
 
 > Product ID `55366` · Digistore24 productId `654471` · [HTML profile page](../../produkte/f-hrerschein-grundwissen-b-teil-sterreich-55366.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

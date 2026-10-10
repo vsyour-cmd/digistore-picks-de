@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-09-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.kurven-klasse.de/lovescam/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kurven-klasse.de/lovescam/"
@@ -22,7 +22,7 @@ language: "de"
 # Love-Scamming erkennen – Online-Dating ab 50
 
 > Product ID `59967` · Digistore24 productId `738058` · [HTML profile page](../../produkte/love-scamming-erkennen-online-dating-ab-50-59967.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

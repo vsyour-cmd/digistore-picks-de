@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Sport"]
 listed_since: "2025-12-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/656794?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/656794"
@@ -22,7 +22,7 @@ language: "de"
 # Gesund abnehmen Schritt für schritt
 
 > Product ID `54978` · Digistore24 productId `656794` · [HTML profile page](../../produkte/gesund-abnehmen-schritt-f-r-schritt-54978.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

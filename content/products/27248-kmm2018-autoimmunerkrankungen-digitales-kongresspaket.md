@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-05-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://digitalewelt.spitzen-praevention.com/kmm-autoimmun/?aff=adminstore#aff=adminstore"
 sales_page: "https://digitalewelt.spitzen-praevention.com/kmm-autoimmun/"
@@ -22,7 +22,7 @@ language: "de"
 # KMM2018 Autoimmunerkrankungen - Digitales Kongresspaket
 
 > Product ID `27248` · Digistore24 productId `218775` · [HTML profile page](../../produkte/kmm2018-autoimmunerkrankungen-digitales-kongresspaket-27248.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

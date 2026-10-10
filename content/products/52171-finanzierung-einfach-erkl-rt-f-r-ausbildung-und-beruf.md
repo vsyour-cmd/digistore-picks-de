@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2025-04-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://kostenrechnung-ganz-einfach.de/onlinekurs-finanzierung-fur-anfanger-gaaanz-einfach-af/?aff=adminstore#aff=adminstore"
 sales_page: "https://kostenrechnung-ganz-einfach.de/onlinekurs-finanzierung-fur-anfanger-gaaanz-einfach-af/"
@@ -22,7 +22,7 @@ language: "de"
 # Finanzierung einfach erklärt – für Ausbildung und Beruf
 
 > Product ID `52171` · Digistore24 productId `607799` · [HTML profile page](../../produkte/finanzierung-einfach-erkl-rt-f-r-ausbildung-und-beruf-52171.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

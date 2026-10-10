@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-07-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/cnmekDPrfbcwr99qt?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/cnmekDPrfbcwr99qt"
@@ -22,7 +22,7 @@ language: "de"
 # Kostenloses E-Book: Online Geld verdienen mit Geschenken
 
 > Product ID `57773` · Digistore24 productId `714939` · [HTML profile page](../../produkte/kostenloses-e-book-online-geld-verdienen-mit-geschenken-57773.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

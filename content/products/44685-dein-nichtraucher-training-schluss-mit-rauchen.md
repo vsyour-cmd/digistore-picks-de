@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Sport"]
 listed_since: "2020-05-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://past-smoking.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://past-smoking.com/"
@@ -22,7 +22,7 @@ language: "de"
 # Dein Nichtraucher Training - Schluss mit Rauchen
 
 > Product ID `44685` · Digistore24 productId `327046` · [HTML profile page](../../produkte/dein-nichtraucher-training-schluss-mit-rauchen-44685.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

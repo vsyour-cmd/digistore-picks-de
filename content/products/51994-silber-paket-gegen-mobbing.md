@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: ["Education","Family & Children","Profession & Job"]
 listed_since: "2024-08-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "rich"
 promo_link: "https://rinaldo-inabnit-5.mstrpages.com?aff=adminstore#aff=adminstore"
 sales_page: "https://rinaldo-inabnit-5.mstrpages.com"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # Silber-Paket gegen Mobbing!
 
 > Product ID `51994` · Digistore24 productId `563850` · [HTML profile page](../../produkte/silber-paket-gegen-mobbing-51994.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,20 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Vertrieb
+- **Final URL after redirects:** https://rinaldo-inabnit-5.mstrpages.com/
+- **Headline (H1):**
+  > KINDERSCHUTZ
+  > Anti-Mobbing-Schulung mit ca. 300 Lektionen inkl. über 150 Praxisteile!
+  > ACHTUNG - NEU AB JANUAR 2006:
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/563850?voucher=StarkeKinder
+- **Opening copy (first paragraphs):**
+  > Der seelische Schaden, welcher ein Kind erfahren wird, das gemobbt wird, kann nicht berechnet werden. Er kann jedoch verhindert werden, indem Sie diese Schulung kaufen und die vielen, vielen Praxisteile mit Ihren Kindern durchgehen.
+  > Warten Sie nicht, handeln Sie jetzt, um Ihr/e Kind/er zu schützen und einen Beitrag zum Allgemeinwohl zu leisten.
+  > Sie leisten damit einen Beitrag, für die Thematik zu sensibilisieren und dadurch möglichst viel Leid verhindern. Mit den vielen Praxisteilen kommen Sie schnell in die Umsetzung.
+  > Warten Sie nicht, handeln Sie jetzt, um das Lächeln der Kinder nicht verstummen zu lassen. Profitieren Sie von 85 % Rabatt!
+- **Page word count:** 1077
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

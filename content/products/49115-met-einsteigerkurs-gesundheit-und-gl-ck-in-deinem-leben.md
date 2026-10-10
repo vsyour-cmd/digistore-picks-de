@@ -13,7 +13,7 @@ cancel_rate_pct: 18.09
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2024-08-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://franke-akademie.de/klopfen-sie-sich-frei/?aff=adminstore#aff=adminstore"
 sales_page: "https://franke-akademie.de/klopfen-sie-sich-frei/"
@@ -22,7 +22,7 @@ language: "de"
 # MET Einsteigerkurs. Gesundheit und Glück in deinem Leben
 
 > Product ID `49115` · Digistore24 productId `566325` · [HTML profile page](../../produkte/met-einsteigerkurs-gesundheit-und-gl-ck-in-deinem-leben-49115.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

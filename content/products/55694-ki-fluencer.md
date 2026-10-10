@@ -13,7 +13,7 @@ cancel_rate_pct: 0.78
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-09-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.kimate.de/kifvideo/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kimate.de/kifvideo/"
@@ -22,7 +22,7 @@ language: "de"
 # KI Fluencer
 
 > Product ID `55694` · Digistore24 productId `638320` · [HTML profile page](../../produkte/ki-fluencer-55694.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-07-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.eventworker.net/inner-circle?aff=adminstore#aff=adminstore"
 sales_page: "https://www.eventworker.net/inner-circle"
@@ -22,7 +22,7 @@ language: "de"
 # Inner Circle - Die Community für Event-/Hochzeitsdienstl.
 
 > Product ID `57504` · Digistore24 productId `682814` · [HTML profile page](../../produkte/inner-circle-die-community-f-r-event-hochzeitsdienstl-57504.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

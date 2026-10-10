@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2026-05-31"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://angstfrei.shop/produkt/bei-mir-bleiben-ebook-33-satzkarten/?aff=adminstore#aff=adminstore"
 sales_page: "https://angstfrei.shop/produkt/bei-mir-bleiben-ebook-33-satzkarten/"
@@ -22,7 +22,7 @@ language: "de"
 # E-Book + 33 Satzkarten für Selbstwert + Grenzen - Angstfrei
 
 > Product ID `56762` · Digistore24 productId `697038` · [HTML profile page](../../produkte/e-book-33-satzkarten-f-r-selbstwert-grenzen-angstfrei-56762.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

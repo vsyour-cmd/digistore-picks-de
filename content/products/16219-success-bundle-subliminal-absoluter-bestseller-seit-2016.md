@@ -13,7 +13,7 @@ cancel_rate_pct: 3.18
 categories: ["Personal Development"]
 listed_since: "2017-04-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "http://energetic-eternity.de/produkt/success-bundle/?aff=adminstore#aff=adminstore"
 sales_page: "http://energetic-eternity.de/produkt/success-bundle/"
@@ -22,7 +22,7 @@ language: "de"
 # Success Bundle (Subliminal) – Absoluter Bestseller seit 2016
 
 > Product ID `16219` · Digistore24 productId `133183` · [HTML profile page](../../produkte/success-bundle-subliminal-absoluter-bestseller-seit-2016-16219.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 1.35
 categories: ["Business & Investment"]
 listed_since: "2023-01-31"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.provi-magnet.de/cbwaff/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.provi-magnet.de/cbwaff/"
@@ -22,7 +22,7 @@ language: "de"
 # 1 Click Business - Einfaches Copy-Paste Business
 
 > Product ID `44118` · Digistore24 productId `482133` · [HTML profile page](../../produkte/1-click-business-einfaches-copy-paste-business-44118.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

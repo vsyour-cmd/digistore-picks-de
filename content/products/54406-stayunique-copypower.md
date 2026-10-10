@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Online Marketing","Marketing Services"]
 listed_since: "2025-10-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://copypower.sindytammer.com/CopyPower/Entry?aff=adminstore#aff=adminstore"
 sales_page: "https://copypower.sindytammer.com/CopyPower/Entry"
@@ -22,7 +22,7 @@ language: "de"
 # STayUnique CopyPower
 
 > Product ID `54406` · Digistore24 productId `643280` · [HTML profile page](../../produkte/stayunique-copypower-54406.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

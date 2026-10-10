@@ -13,7 +13,7 @@ cancel_rate_pct: 6.85
 categories: ["Health & Fitness"]
 listed_since: "2025-09-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.irenesmiatek.com/2505me-onlinekongress-vorlage-kongresspaket-verkaufsseite?aff=adminstore#aff=adminstore"
 sales_page: "https://www.irenesmiatek.com/2505me-onlinekongress-vorlage-kongresspaket-verkaufsseite"
@@ -22,7 +22,7 @@ language: "de"
 # Onlinekongress Entzündungen entschlüsseln
 
 > Product ID `54960` · Digistore24 productId `637958` · [HTML profile page](../../produkte/onlinekongress-entz-ndungen-entschl-sseln-54960.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

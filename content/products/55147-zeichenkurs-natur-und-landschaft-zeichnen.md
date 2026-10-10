@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Hobby & Craft"]
 listed_since: "2026-01-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://schmidtszeichenwelt.de/affiliate-seite-produkt-natur-und-landschaft-zeichnen/?aff=adminstore#aff=adminstore"
 sales_page: "https://schmidtszeichenwelt.de/affiliate-seite-produkt-natur-und-landschaft-zeichnen/"
@@ -22,7 +22,7 @@ language: "de"
 # Zeichenkurs Natur und Landschaft zeichnen
 
 > Product ID `55147` · Digistore24 productId `660274` · [HTML profile page](../../produkte/zeichenkurs-natur-und-landschaft-zeichnen-55147.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

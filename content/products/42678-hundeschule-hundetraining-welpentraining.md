@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2023-01-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://frohehunde.de/welpentraining/?aff=adminstore#aff=adminstore"
 sales_page: "https://frohehunde.de/welpentraining/"
@@ -22,7 +22,7 @@ language: "de"
 # Hundeschule / Hundetraining - Welpentraining
 
 > Product ID `42678` · Digistore24 productId `479678` · [HTML profile page](../../produkte/hundeschule-hundetraining-welpentraining-42678.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

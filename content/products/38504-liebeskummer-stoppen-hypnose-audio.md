@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2021-01-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://rdmmdl.wixsite.com/liebeskummer-stoppen?aff=adminstore#aff=adminstore"
 sales_page: "https://rdmmdl.wixsite.com/liebeskummer-stoppen"
@@ -22,7 +22,7 @@ language: "de"
 # Liebeskummer stoppen | Hypnose Audio
 
 > Product ID `38504` · Digistore24 productId `368033` · [HTML profile page](../../produkte/liebeskummer-stoppen-hypnose-audio-38504.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

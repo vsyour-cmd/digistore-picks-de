@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dancing & Music","Education"]
 listed_since: "2024-03-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/543973?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/543973"
@@ -22,7 +22,7 @@ language: "de"
 # Alt-Blockflöte spielen - Online-Training +Mitgliederbereich
 
 > Product ID `47878` · Digistore24 productId `543973` · [HTML profile page](../../produkte/alt-blockfl-te-spielen-online-training-mitgliederbereich-47878.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

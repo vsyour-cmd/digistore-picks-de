@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-07-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://cad-video.de/bricscad-bim-channel?aff=adminstore#aff=adminstore"
 sales_page: "https://cad-video.de/bricscad-bim-channel"
@@ -22,7 +22,7 @@ language: "de"
 # BricsCAD BIM Video-Kurs
 
 > Product ID `57336` · Digistore24 productId `536949` · [HTML profile page](../../produkte/bricscad-bim-video-kurs-57336.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

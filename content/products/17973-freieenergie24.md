@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection"]
 listed_since: "2017-07-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://freieenergie24.com?aff=adminstore#aff=adminstore"
 sales_page: "https://freieenergie24.com"
@@ -22,7 +22,7 @@ language: "de"
 # FreieEnergie24
 
 > Product ID `17973` · Digistore24 productId `151443` · [HTML profile page](../../produkte/freieenergie24-17973.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

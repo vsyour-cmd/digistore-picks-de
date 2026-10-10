@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2026-06-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://onlinekurse-von-experten.com/?page_id=8273&preview=true&aff=adminstore#aff=adminstore"
 sales_page: "https://onlinekurse-von-experten.com/?page_id=8273&preview=true"
@@ -22,7 +22,7 @@ language: "de"
 # GEO Traffic - Das neue SEO im KI-Zeitalter
 
 > Product ID `56822` · Digistore24 productId `698057` · [HTML profile page](../../produkte/geo-traffic-das-neue-seo-im-ki-zeitalter-56822.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

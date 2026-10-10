@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Finances"]
 listed_since: "2016-09-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://nadjahorlacher.com/bootcamp/?aff=adminstore#aff=adminstore"
 sales_page: "https://nadjahorlacher.com/bootcamp/"
@@ -22,7 +22,7 @@ language: "de"
 # Happy Money Girl System
 
 > Product ID `45143` · Digistore24 productId `97361` · [HTML profile page](../../produkte/happy-money-girl-system-45143.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

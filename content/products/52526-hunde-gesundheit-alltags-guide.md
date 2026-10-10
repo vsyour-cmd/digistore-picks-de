@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets","Health & Fitness"]
 listed_since: "2025-05-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://hundegesundheit.little-lovin.de/82073a18-0309-4f34-96b6-6d9768dcc7c6/?aff=adminstore#aff=adminstore"
 sales_page: "https://hundegesundheit.little-lovin.de/82073a18-0309-4f34-96b6-6d9768dcc7c6/"
@@ -22,7 +22,7 @@ language: "de"
 # Hunde Gesundheit - Alltags Guide
 
 > Product ID `52526` · Digistore24 productId `612767` · [HTML profile page](../../produkte/hunde-gesundheit-alltags-guide-52526.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

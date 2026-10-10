@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Software","Real Estate"]
 listed_since: "2026-03-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/676553?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/676553"
@@ -22,7 +22,7 @@ language: "de"
 # PRIXUS BauPreis24 – Baukosten-Kalkulation für Profis | 30% Provision
 
 > Product ID `55970` · Digistore24 productId `676553` · [HTML profile page](../../produkte/prixus-baupreis24-baukosten-kalkulation-f-r-profis-30-provision-55970.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

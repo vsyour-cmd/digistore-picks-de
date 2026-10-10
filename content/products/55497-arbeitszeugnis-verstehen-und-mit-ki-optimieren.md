@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Profession & Job","Services"]
 listed_since: "2026-02-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://heinzbader.com/workbook-arb-eitszeugnis-landingpage/?aff=adminstore#aff=adminstore"
 sales_page: "https://heinzbader.com/workbook-arb-eitszeugnis-landingpage/"
@@ -22,7 +22,7 @@ language: "de"
 # Arbeitszeugnis verstehen und mit KI optimieren
 
 > Product ID `55497` · Digistore24 productId `665673` · [HTML profile page](../../produkte/arbeitszeugnis-verstehen-und-mit-ki-optimieren-55497.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

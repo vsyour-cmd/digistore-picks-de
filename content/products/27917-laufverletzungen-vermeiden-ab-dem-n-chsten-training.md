@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2018-07-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://laufheld.com/fvv/0u-lm-vv-01/?aff=adminstore#aff=adminstore"
 sales_page: "https://laufheld.com/fvv/0u-lm-vv-01/"
@@ -22,7 +22,7 @@ language: "de"
 # Laufverletzungen vermeiden ab dem nächsten Training
 
 > Product ID `27917` · Digistore24 productId `233809` · [HTML profile page](../../produkte/laufverletzungen-vermeiden-ab-dem-n-chsten-training-27917.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

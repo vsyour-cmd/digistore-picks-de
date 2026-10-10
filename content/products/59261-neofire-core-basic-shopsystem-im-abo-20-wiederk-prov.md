@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Software","Online Marketing"]
 listed_since: "2026-09-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.neofire.de/partner/digistore24/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.neofire.de/partner/digistore24/"
@@ -22,7 +22,7 @@ language: "de"
 # neofire Core Basic Shopsystem im Abo 20 % wiederk. Prov.
 
 > Product ID `59261` · Digistore24 productId `733493` · [HTML profile page](../../produkte/neofire-core-basic-shopsystem-im-abo-20-wiederk-prov-59261.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2026-06-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://academy.e-ducation.cloud/course/dbm-dorn-breuss-die-praezise-loesung-von-claudia-gorbach?aff=adminstore#aff=adminstore"
 sales_page: "https://academy.e-ducation.cloud/course/dbm-dorn-breuss-die-praezise-loesung-von-claudia-gorbach"
@@ -22,7 +22,7 @@ language: "de"
 # DBM - Dorn-Methode in der Praxis
 
 > Product ID `56848` · Digistore24 productId `698552` · [HTML profile page](../../produkte/dbm-dorn-methode-in-der-praxis-56848.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

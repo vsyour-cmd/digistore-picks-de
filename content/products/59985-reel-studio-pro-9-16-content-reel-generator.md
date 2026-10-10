@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Software"]
 listed_since: "2026-09-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://alex1.work/reel-studio-pro?aff=adminstore#aff=adminstore"
 sales_page: "https://alex1.work/reel-studio-pro"
@@ -22,7 +22,7 @@ language: "de"
 # Reel Studio Pro © - 9:16 Content & Reel-Generator
 
 > Product ID `59985` · Digistore24 productId `735317` · [HTML profile page](../../produkte/reel-studio-pro-9-16-content-reel-generator-59985.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

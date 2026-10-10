@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Politics & Economy"]
 listed_since: "2019-09-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "http://www.fremdbestimmt.com?aff=adminstore#aff=adminstore"
 sales_page: "http://www.fremdbestimmt.com"
@@ -22,7 +22,7 @@ language: "de"
 # Buch Fremdbestimmt
 
 > Product ID `30110` · Digistore24 productId `288273` · [HTML profile page](../../produkte/buch-fremdbestimmt-30110.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

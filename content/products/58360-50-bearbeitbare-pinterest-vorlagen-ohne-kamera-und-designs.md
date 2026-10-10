@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-08-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://rita-scheer.de/50-pinterest-vorlagen/?aff=adminstore#aff=adminstore"
 sales_page: "http://rita-scheer.de/50-pinterest-vorlagen/"
@@ -22,7 +22,7 @@ language: "de"
 # 50 bearbeitbare Pinterest-Vorlagen – ohne Kamera und Designs
 
 > Product ID `58360` · Digistore24 productId `721417` · [HTML profile page](../../produkte/50-bearbeitbare-pinterest-vorlagen-ohne-kamera-und-designs-58360.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

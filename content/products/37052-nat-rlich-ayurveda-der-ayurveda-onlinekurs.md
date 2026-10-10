@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2021-04-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://na.tastykatykurse.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://na.tastykatykurse.de/"
@@ -22,7 +22,7 @@ language: "de"
 # Natürlich Ayurveda - Der Ayurveda Onlinekurs
 
 > Product ID `37052` · Digistore24 productId `387003` · [HTML profile page](../../produkte/nat-rlich-ayurveda-der-ayurveda-onlinekurs-37052.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2018-11-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.neurostreams.de/portfolio/drogenfrei/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.neurostreams.de/portfolio/drogenfrei/"
@@ -22,7 +22,7 @@ language: "de"
 # Neurostreams™ Trocken!
 
 > Product ID `47027` · Digistore24 productId `250032` · [HTML profile page](../../produkte/neurostreams-trocken-47027.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

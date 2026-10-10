@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2026-08-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.ungarnportal.net/auswandern-nach-ungarn-praxis-guide/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ungarnportal.net/auswandern-nach-ungarn-praxis-guide/"
@@ -22,7 +22,7 @@ language: "de"
 # Auswandern nach Ungarn – Praxis-Guide für Auswanderer
 
 > Product ID `58391` · Digistore24 productId `721645` · [HTML profile page](../../produkte/auswandern-nach-ungarn-praxis-guide-f-r-auswanderer-58391.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

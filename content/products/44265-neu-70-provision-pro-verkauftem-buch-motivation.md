@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Fun & Games","Home & Garden","Survival"]
 listed_since: "2022-08-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://dejansekulic.ch/glueck-gedrucktes-buch?aff=adminstore#aff=adminstore"
 sales_page: "https://dejansekulic.ch/glueck-gedrucktes-buch"
@@ -22,7 +22,7 @@ language: "de"
 # (Neu) 70% Provision pro verkauftem Buch! - Motivation
 
 > Product ID `44265` · Digistore24 productId `456413` · [HTML profile page](../../produkte/neu-70-provision-pro-verkauftem-buch-motivation-44265.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

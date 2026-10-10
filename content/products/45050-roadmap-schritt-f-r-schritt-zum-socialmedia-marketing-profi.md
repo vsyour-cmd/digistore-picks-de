@@ -13,7 +13,7 @@ cancel_rate_pct: 2.33
 categories: ["Online Marketing & E-Business","Profession & Job","Social Media"]
 listed_since: "2023-08-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://michael-schlinder.com/Roadmap-Socialmedia?aff=adminstore#aff=adminstore"
 sales_page: "https://michael-schlinder.com/Roadmap-Socialmedia"
@@ -22,7 +22,7 @@ language: "de"
 # Roadmap, Schritt für Schritt zum Socialmedia Marketing Profi
 
 > Product ID `45050` · Digistore24 productId `512053` · [HTML profile page](../../produkte/roadmap-schritt-f-r-schritt-zum-socialmedia-marketing-profi-45050.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

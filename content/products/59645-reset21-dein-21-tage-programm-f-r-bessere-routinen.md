@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-09-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://ki-richtig-nutzen.my.canva.site/reset21-dein-21-tage-programm-f-r-bessere-routinen?aff=adminstore#aff=adminstore"
 sales_page: "https://ki-richtig-nutzen.my.canva.site/reset21-dein-21-tage-programm-f-r-bessere-routinen"
@@ -22,7 +22,7 @@ language: "de"
 # RESET21 – Dein 21-Tage-Programm für bessere Routinen
 
 > Product ID `59645` · Digistore24 productId `736794` · [HTML profile page](../../produkte/reset21-dein-21-tage-programm-f-r-bessere-routinen-59645.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-08-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://rita-scheer.de/90-10-system-band2-verkaufsseite/?aff=adminstore#aff=adminstore"
 sales_page: "https://rita-scheer.de/90-10-system-band2-verkaufsseite/"
@@ -22,7 +22,7 @@ language: "de"
 # Das 90/10-System – Band II: Sichtbar verkaufen
 
 > Product ID `58134` · Digistore24 productId `718278` · [HTML profile page](../../produkte/das-90-10-system-band-ii-sichtbar-verkaufen-58134.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

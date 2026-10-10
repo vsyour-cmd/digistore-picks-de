@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Law & Justice","Profession & Job"]
 listed_since: "2026-10-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/740893?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/740893"
@@ -22,7 +22,7 @@ language: "de"
 # Kündigungsschutz leicht gemacht – Ratgeber + Fristen-Rechner
 
 > Product ID `60261` · Digistore24 productId `740893` · [HTML profile page](../../produkte/k-ndigungsschutz-leicht-gemacht-ratgeber-fristen-rechner-60261.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

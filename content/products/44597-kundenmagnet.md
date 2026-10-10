@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-05-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://business-empowerment.eu/kurs-kundenmagnet/?aff=adminstore#aff=adminstore"
 sales_page: "https://business-empowerment.eu/kurs-kundenmagnet/"
@@ -22,7 +22,7 @@ language: "de"
 # Kundenmagnet
 
 > Product ID `44597` · Digistore24 productId `500301` · [HTML profile page](../../produkte/kundenmagnet-44597.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

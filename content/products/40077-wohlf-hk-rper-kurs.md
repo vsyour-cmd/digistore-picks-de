@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2022-03-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://iss-dich-gesund.info/online-workshop/?aff=adminstore#aff=adminstore"
 sales_page: "https://iss-dich-gesund.info/online-workshop/"
@@ -22,7 +22,7 @@ language: "de"
 # Wohlfühkörper Kurs
 
 > Product ID `40077` · Digistore24 productId `433387` · [HTML profile page](../../produkte/wohlf-hk-rper-kurs-40077.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

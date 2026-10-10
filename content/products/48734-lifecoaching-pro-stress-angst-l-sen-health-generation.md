@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-04-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://academy.health-generation.com/salespage-lifecoachingpro-stress?aff=adminstore#aff=adminstore"
 sales_page: "https://academy.health-generation.com/salespage-lifecoachingpro-stress"
@@ -22,7 +22,7 @@ language: "de"
 # LifeCoaching Pro Stress, Angst lösen - health-generation
 
 > Product ID `48734` · Digistore24 productId `547958` · [HTML profile page](../../produkte/lifecoaching-pro-stress-angst-l-sen-health-generation-48734.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

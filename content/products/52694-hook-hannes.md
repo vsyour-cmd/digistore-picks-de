@@ -13,7 +13,7 @@ cancel_rate_pct: 5.03
 categories: ["Business & Investment","Marketing Services"]
 listed_since: "2025-05-31"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://kischmiede.funnelcockpit.com/hook-hannes/?aff=adminstore#aff=adminstore"
 sales_page: "https://kischmiede.funnelcockpit.com/hook-hannes/"
@@ -22,7 +22,7 @@ language: "de"
 # Hook Hannes
 
 > Product ID `52694` · Digistore24 productId `615995` · [HTML profile page](../../produkte/hook-hannes-52694.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

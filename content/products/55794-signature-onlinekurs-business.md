@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-11-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://expertscalingsystem.ralfwenda.education/webinar-training/?aff=adminstore#aff=adminstore"
 sales_page: "https://expertscalingsystem.ralfwenda.education/webinar-training/"
@@ -22,7 +22,7 @@ language: "de"
 # Signature-Onlinekurs-Business
 
 > Product ID `55794` · Digistore24 productId `646623` · [HTML profile page](../../produkte/signature-onlinekurs-business-55794.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

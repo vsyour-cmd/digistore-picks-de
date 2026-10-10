@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2026-07-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://nie-wieder-impotenz.com/video/?aff=adminstore#aff=adminstore"
 sales_page: "https://nie-wieder-impotenz.com/video/"
@@ -22,7 +22,7 @@ language: "de"
 # TigerFormel: 70% Provision! Potenz-Supplement mit hohem Warenkorb (physisches Produkt)
 
 > Product ID `57656` · Digistore24 productId `225242` · [HTML profile page](../../produkte/tigerformel-70-provision-potenz-supplement-mit-hohem-warenkorb-physisches-produkt-57656.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

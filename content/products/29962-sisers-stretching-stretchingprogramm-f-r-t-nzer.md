@@ -13,7 +13,7 @@ cancel_rate_pct: 0.53
 categories: ["Sport"]
 listed_since: "2019-11-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://sisers-stretching.at/stretching-programm/?aff=adminstore#aff=adminstore"
 sales_page: "https://sisers-stretching.at/stretching-programm/"
@@ -22,7 +22,7 @@ language: "de"
 # Sisers Stretching - Stretchingprogramm für Tänzer
 
 > Product ID `29962` · Digistore24 productId `296282` · [HTML profile page](../../produkte/sisers-stretching-stretchingprogramm-f-r-t-nzer-29962.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

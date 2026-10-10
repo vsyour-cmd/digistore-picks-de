@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2020-04-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://tierakademie.andrea-schaedel.de/lp/aufbaukurs1-tierkommunikation?aff=adminstore#aff=adminstore"
 sales_page: "https://tierakademie.andrea-schaedel.de/lp/aufbaukurs1-tierkommunikation"
@@ -22,7 +22,7 @@ language: "de"
 # Aufbaukurs Tierkommunikation Online - Tierakademie
 
 > Product ID `32819` · Digistore24 productId `323667` · [HTML profile page](../../produkte/aufbaukurs-tierkommunikation-online-tierakademie-32819.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

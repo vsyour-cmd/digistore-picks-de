@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Law & Justice"]
 listed_since: "2026-06-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/mpu-nach-drogen?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/mpu-nach-drogen"
@@ -22,7 +22,7 @@ language: "de"
 # MPU nach Drogen
 
 > Product ID `57027` · Digistore24 productId `702258` · [HTML profile page](../../produkte/mpu-nach-drogen-57027.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

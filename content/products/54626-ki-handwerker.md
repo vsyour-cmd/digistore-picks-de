@@ -13,7 +13,7 @@ cancel_rate_pct: 7.2
 categories: ["Email Marketing","Profession & Job","Marketing Services"]
 listed_since: "2025-11-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://kischmiede.funnelcockpit.com/ki-handwerker/?aff=adminstore#aff=adminstore"
 sales_page: "https://kischmiede.funnelcockpit.com/ki-handwerker/"
@@ -22,7 +22,7 @@ language: "de"
 # KI Handwerker
 
 > Product ID `54626` · Digistore24 productId `647082` · [HTML profile page](../../produkte/ki-handwerker-54626.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-07-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/712707?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/712707"
@@ -22,7 +22,7 @@ language: "de"
 # Landing-Page inkl. E-Mail-Funnel
 
 > Product ID `57643` · Digistore24 productId `712707` · [HTML profile page](../../produkte/landing-page-inkl-e-mail-funnel-57643.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

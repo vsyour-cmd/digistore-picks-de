@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2026-09-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://thailandratgeber.de/auswandern/?aff=adminstore#aff=adminstore"
 sales_page: "https://thailandratgeber.de/auswandern/"
@@ -22,7 +22,7 @@ language: "de"
 # Auswandern nach Thailand — Das Handbuch: Visum, Steuern, Kra
 
 > Product ID `59821` · Digistore24 productId `725205` · [HTML profile page](../../produkte/auswandern-nach-thailand-das-handbuch-visum-steuern-kra-59821.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

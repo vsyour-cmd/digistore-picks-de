@@ -13,7 +13,7 @@ cancel_rate_pct: 1.07
 categories: ["Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2025-05-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://channeling-blog.com/akademie/urvertrauen-onlinekurs-pavlina-klemm/?aff=adminstore#aff=adminstore"
 sales_page: "https://channeling-blog.com/akademie/urvertrauen-onlinekurs-pavlina-klemm/"
@@ -22,7 +22,7 @@ language: "de"
 # Urvertrauen - Onlinekurs mit Pavlina Klemm und den Plejadern
 
 > Product ID `52881` · Digistore24 productId `610784` · [HTML profile page](../../produkte/urvertrauen-onlinekurs-mit-pavlina-klemm-und-den-plejadern-52881.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

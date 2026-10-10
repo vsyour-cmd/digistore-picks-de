@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-02-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://powermuskel.com/produkte/vagina-training/?aff=adminstore#aff=adminstore"
 sales_page: "https://powermuskel.com/produkte/vagina-training/"
@@ -22,7 +22,7 @@ language: "de"
 # Training für die Intim-Muskulatur - Anastasia Romanova
 
 > Product ID `31925` · Digistore24 productId `309461` · [HTML profile page](../../produkte/training-f-r-die-intim-muskulatur-anastasia-romanova-31925.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

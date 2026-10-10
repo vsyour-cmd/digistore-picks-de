@@ -13,7 +13,7 @@ cancel_rate_pct: 2.01
 categories: ["Dancing & Music","Fun & Games","Hobby & Craft"]
 listed_since: "2024-05-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/554153?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/554153"
@@ -22,7 +22,7 @@ language: "de"
 # Handpan Training Cards
 
 > Product ID `48347` · Digistore24 productId `554153` · [HTML profile page](../../produkte/handpan-training-cards-48347.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

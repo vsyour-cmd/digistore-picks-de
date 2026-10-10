@@ -13,7 +13,7 @@ cancel_rate_pct: 0.59
 categories: ["Education"]
 listed_since: "2022-07-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://business-kickstart.de/erfolgsgeheimnis-lp1/?aff=adminstore#aff=adminstore"
 sales_page: "https://business-kickstart.de/erfolgsgeheimnis-lp1/"
@@ -22,7 +22,7 @@ language: "de"
 # Sofort-Erfolgs-Geheimnis
 
 > Product ID `40505` · Digistore24 productId `449302` · [HTML profile page](../../produkte/sofort-erfolgs-geheimnis-40505.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

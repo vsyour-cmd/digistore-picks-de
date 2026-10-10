@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2021-12-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://ousuca.com/buecher/brot-backen-rezepte-ebook/?aff=adminstore#aff=adminstore"
 sales_page: "https://ousuca.com/buecher/brot-backen-rezepte-ebook/"
@@ -22,7 +22,7 @@ language: "de"
 # Brot backen: 10 Rezepte ohne Backofen
 
 > Product ID `38724` · Digistore24 productId `422496` · [HTML profile page](../../produkte/brot-backen-10-rezepte-ohne-backofen-38724.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

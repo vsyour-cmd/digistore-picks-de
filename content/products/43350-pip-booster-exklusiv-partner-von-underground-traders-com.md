@@ -13,7 +13,7 @@ cancel_rate_pct: 1.93
 categories: ["Trading Products"]
 listed_since: "2022-06-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://underground-traders.com/pip-booster-de/?aff=adminstore#aff=adminstore"
 sales_page: "https://underground-traders.com/pip-booster-de/"
@@ -22,7 +22,7 @@ language: "de"
 # PIP BOOSTER - *Exklusiv* Partner von UNDERGROUND-TRADERS.COM
 
 > Product ID `43350` · Digistore24 productId `447740` · [HTML profile page](../../produkte/pip-booster-exklusiv-partner-von-underground-traders-com-43350.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

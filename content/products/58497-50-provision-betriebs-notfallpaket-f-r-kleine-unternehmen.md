@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job"]
 listed_since: "2026-08-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.softpac.de/cms/betriebs-notfallpaket.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.softpac.de/cms/betriebs-notfallpaket.html"
@@ -22,7 +22,7 @@ language: "de"
 # 50 % Provision: Betriebs-Notfallpaket für kleine Unternehmen
 
 > Product ID `58497` · Digistore24 productId `723941` · [HTML profile page](../../produkte/50-provision-betriebs-notfallpaket-f-r-kleine-unternehmen-58497.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2016-04-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.goldfinger-report.com/de/sl/geld-ohne-arbeit/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.goldfinger-report.com/de/sl/geld-ohne-arbeit/"
@@ -22,7 +22,7 @@ language: "de"
 # Absoluter Nischen-Börsenbrief im deutschsprachigen Raum!
 
 > Product ID `11321` · Digistore24 productId `78889` · [HTML profile page](../../produkte/absoluter-nischen-b-rsenbrief-im-deutschsprachigen-raum-11321.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

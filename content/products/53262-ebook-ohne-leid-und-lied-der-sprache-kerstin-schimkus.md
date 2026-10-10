@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2025-07-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://lexosophie.mydigibiz24.com/preview/249c6cac-f73e-4c5d-aa98-132fc299ccfa/59e27087b9f718922f3249e9988f8a2b?aff=adminstore#aff=adminstore"
 sales_page: "https://lexosophie.mydigibiz24.com/preview/249c6cac-f73e-4c5d-aa98-132fc299ccfa/59e27087b9f718922f3249e9988f8a2b"
@@ -22,7 +22,7 @@ language: "de"
 # eBook "Ohne Leid und Lied der Sprache" Kerstin Schimkus
 
 > Product ID `53262` · Digistore24 productId `624962` · [HTML profile page](../../produkte/ebook-ohne-leid-und-lied-der-sprache-kerstin-schimkus-53262.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

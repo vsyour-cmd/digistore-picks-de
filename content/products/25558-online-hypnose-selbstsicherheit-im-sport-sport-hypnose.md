@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2018-07-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://online-hypnose.eu/kurs-010-selbstsicherheit-im-sport-sporthypnose/?aff=adminstore#aff=adminstore"
 sales_page: "https://online-hypnose.eu/kurs-010-selbstsicherheit-im-sport-sporthypnose/"
@@ -22,7 +22,7 @@ language: "de"
 # Online Hypnose Selbstsicherheit im Sport - Sport Hypnose
 
 > Product ID `25558` · Digistore24 productId `231925` · [HTML profile page](../../produkte/online-hypnose-selbstsicherheit-im-sport-sport-hypnose-25558.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

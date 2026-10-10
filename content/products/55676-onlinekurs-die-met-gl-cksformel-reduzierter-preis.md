@@ -13,7 +13,7 @@ cancel_rate_pct: 3.75
 categories: ["Health & Fitness"]
 listed_since: "2014-12-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://franke-akademie.de/met-gluecksformel-instagram?aff=adminstore#aff=adminstore"
 sales_page: "https://franke-akademie.de/met-gluecksformel-instagram"
@@ -22,7 +22,7 @@ language: "de"
 # Onlinekurs "Die MET-Glücksformel"-reduzierter Preis
 
 > Product ID `55676` · Digistore24 productId `38851` · [HTML profile page](../../produkte/onlinekurs-die-met-gl-cksformel-reduzierter-preis-55676.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

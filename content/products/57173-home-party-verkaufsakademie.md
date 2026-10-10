@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Profession & Job","Sales Training","Marketing Services"]
 listed_since: "2026-06-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/705582?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/705582"
@@ -22,7 +22,7 @@ language: "de"
 # Home-Party-Verkaufsakademie
 
 > Product ID `57173` · Digistore24 productId `705582` · [HTML profile page](../../produkte/home-party-verkaufsakademie-57173.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

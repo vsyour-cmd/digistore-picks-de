@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2024-11-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://danieldirks.com/der-weg-zum-geld-vsl?aff=adminstore#aff=adminstore"
 sales_page: "https://danieldirks.com/der-weg-zum-geld-vsl"
@@ -22,7 +22,7 @@ language: "de"
 # 55 % Provision - Ratgeber zur Kapitalbeschaffung für Gründer
 
 > Product ID `53275` · Digistore24 productId `578289` · [HTML profile page](../../produkte/55-provision-ratgeber-zur-kapitalbeschaffung-f-r-gr-nder-53275.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

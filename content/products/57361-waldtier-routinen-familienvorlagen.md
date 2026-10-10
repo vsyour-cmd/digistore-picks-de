@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Family & Children","Hobby & Craft"]
 listed_since: "2026-07-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://gesundleben360.de/routinen-vorlagen-fuer-kinder-zum-ausdrucken/?aff=adminstore#aff=adminstore"
 sales_page: "https://gesundleben360.de/routinen-vorlagen-fuer-kinder-zum-ausdrucken/"
@@ -22,7 +22,7 @@ language: "de"
 # Waldtier-Routinen & Familienvorlagen
 
 > Product ID `57361` · Digistore24 productId `707943` · [HTML profile page](../../produkte/waldtier-routinen-familienvorlagen-57361.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

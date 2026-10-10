@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2020-09-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.danaheidrich.com/start/buecher/rezeptebeikrebs/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.danaheidrich.com/start/buecher/rezeptebeikrebs/"
@@ -22,7 +22,7 @@ language: "de"
 # Rezepte bei Krebs - das eBook für Ernährung bei Chemo
 
 > Product ID `34168` · Digistore24 productId `349780` · [HTML profile page](../../produkte/rezepte-bei-krebs-das-ebook-f-r-ern-hrung-bei-chemo-34168.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

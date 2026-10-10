@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-07-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://ratgeberplatz.de/ratgeber/handwerker-recruiting-plan?aff=adminstore#aff=adminstore"
 sales_page: "https://ratgeberplatz.de/ratgeber/handwerker-recruiting-plan"
@@ -22,7 +22,7 @@ language: "de"
 # Der Handwerker-Recruiting-Plan
 
 > Product ID `57332` · Digistore24 productId `706661` · [HTML profile page](../../produkte/der-handwerker-recruiting-plan-57332.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

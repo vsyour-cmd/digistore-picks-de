@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/732563?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/732563"
@@ -22,7 +22,7 @@ language: "de"
 # Schatten und Licht – Dein 14-Tage-Journal
 
 > Product ID `59313` · Digistore24 productId `732563` · [HTML profile page](../../produkte/schatten-und-licht-dein-14-tage-journal-59313.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

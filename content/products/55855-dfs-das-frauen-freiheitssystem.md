@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2026-03-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.frauensystem.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.frauensystem.de/"
@@ -22,7 +22,7 @@ language: "de"
 # DFS - Das Frauen Freiheitssystem
 
 > Product ID `55855` · Digistore24 productId `673543` · [HTML profile page](../../produkte/dfs-das-frauen-freiheitssystem-55855.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 2.71
 categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2025-10-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://affiliforge.net/Umsetzer-Paket?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/Umsetzer-Paket"
@@ -22,7 +22,7 @@ language: "de"
 # Das Umsetzer-Paket
 
 > Product ID `54465` · Digistore24 productId `641153` · [HTML profile page](../../produkte/das-umsetzer-paket-54465.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

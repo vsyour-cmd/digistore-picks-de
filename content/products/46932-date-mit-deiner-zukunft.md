@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Profession & Job"]
 listed_since: "2023-09-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://erfolgsfilm-boettcher.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://erfolgsfilm-boettcher.de/"
@@ -22,7 +22,7 @@ language: "de"
 # Date mit deiner Zukunft
 
 > Product ID `46932` · Digistore24 productId `516399` · [HTML profile page](../../produkte/date-mit-deiner-zukunft-46932.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Hobby & Craft","Personal Development"]
 listed_since: "2026-05-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/695576?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/695576"
@@ -22,7 +22,7 @@ language: "de"
 # 12 Wochen Schreibmoment - E-Mail-Kurs
 
 > Product ID `56713` · Digistore24 productId `695576` · [HTML profile page](../../produkte/12-wochen-schreibmoment-e-mail-kurs-56713.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

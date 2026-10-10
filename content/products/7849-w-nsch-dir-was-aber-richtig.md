@@ -13,7 +13,7 @@ cancel_rate_pct: 8.81
 categories: ["Personal Development"]
 listed_since: "2016-09-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://quantenresonanz.de/gesetz-der-anziehung-webinar/?aff=adminstore#aff=adminstore"
 sales_page: "https://quantenresonanz.de/gesetz-der-anziehung-webinar/"
@@ -22,7 +22,7 @@ language: "de"
 # Wünsch dir was - aber richtig!
 
 > Product ID `7849` · Digistore24 productId `97531` · [HTML profile page](../../produkte/w-nsch-dir-was-aber-richtig-7849.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

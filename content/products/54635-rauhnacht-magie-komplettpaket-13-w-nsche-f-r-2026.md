@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-11-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/647692?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/647692"
@@ -22,7 +22,7 @@ language: "de"
 # Rauhnacht-Magie Komplettpaket – 13 Wünsche für 2026
 
 > Product ID `54635` · Digistore24 productId `647692` · [HTML profile page](../../produkte/rauhnacht-magie-komplettpaket-13-w-nsche-f-r-2026-54635.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

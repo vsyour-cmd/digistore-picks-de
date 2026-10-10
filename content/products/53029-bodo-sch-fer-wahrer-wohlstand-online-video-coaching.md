@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2025-06-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://millionaer7.de/wahrer-wohlstand-aff/?aff=adminstore#aff=adminstore"
 sales_page: "https://millionaer7.de/wahrer-wohlstand-aff/"
@@ -22,7 +22,7 @@ language: "de"
 # Bodo Schäfer: Wahrer Wohlstand (Online Video-Coaching)
 
 > Product ID `53029` · Digistore24 productId `619337` · [HTML profile page](../../produkte/bodo-sch-fer-wahrer-wohlstand-online-video-coaching-53029.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

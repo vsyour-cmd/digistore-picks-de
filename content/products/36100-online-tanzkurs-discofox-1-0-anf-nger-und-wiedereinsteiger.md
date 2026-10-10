@@ -13,7 +13,7 @@ cancel_rate_pct: 2.26
 categories: ["Dancing & Music"]
 listed_since: "2020-06-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://andyandkellykainz.com/pakete/?aff=adminstore#aff=adminstore"
 sales_page: "https://andyandkellykainz.com/pakete/"
@@ -22,7 +22,7 @@ language: "de"
 # ONLINE TANZKURS DISCOFOX 1.0 | ANFÄNGER und WIEDEREINSTEIGER
 
 > Product ID `36100` · Digistore24 productId `332807` · [HTML profile page](../../produkte/online-tanzkurs-discofox-1-0-anf-nger-und-wiedereinsteiger-36100.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

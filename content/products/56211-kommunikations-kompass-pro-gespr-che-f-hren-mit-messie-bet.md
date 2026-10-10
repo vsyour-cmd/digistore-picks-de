@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-04-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.die-messie-helfer.de/shop/upsell-kompass.php?aff=adminstore#aff=adminstore"
 sales_page: "https://www.die-messie-helfer.de/shop/upsell-kompass.php"
@@ -22,7 +22,7 @@ language: "de"
 # Kommunikations-Kompass PRO – Gespräche führen mit Messie-Bet
 
 > Product ID `56211` · Digistore24 productId `683072` · [HTML profile page](../../produkte/kommunikations-kompass-pro-gespr-che-f-hren-mit-messie-bet-56211.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

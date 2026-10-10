@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Software"]
 listed_since: "2026-08-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://listimo.ai/angebot.html?utm_source=digistore24&utm_medium=affiliate&aff=adminstore#aff=adminstore"
 sales_page: "https://listimo.ai/angebot.html?utm_source=digistore24&utm_medium=affiliate"
@@ -22,7 +22,7 @@ language: "de"
 # Listimo – KI-Amazon-Listing aus 1 Foto | bis 150 € Provision
 
 > Product ID `58506` · Digistore24 productId `724741` · [HTML profile page](../../produkte/listimo-ki-amazon-listing-aus-1-foto-bis-150-provision-58506.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

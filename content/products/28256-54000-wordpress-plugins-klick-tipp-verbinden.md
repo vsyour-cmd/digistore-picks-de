@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Email Marketing"]
 listed_since: "2019-04-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/267756/adminstore"
 sales_page: "https://wp2leads.com/?aff=[AFFILIATE]&affiliate=[AFFILIATE]&campaign=[CAMPAIGNKEY]&cam=[CAMPAIGNKEY]&utm_source=Digistore24-plg-267756-WP2Leads"
@@ -22,7 +22,7 @@ language: "de"
 # 54000 WordPress Plugins + Klick Tipp verbinden
 
 > Product ID `28256` · Digistore24 productId `267756` · [HTML profile page](../../produkte/54000-wordpress-plugins-klick-tipp-verbinden-28256.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

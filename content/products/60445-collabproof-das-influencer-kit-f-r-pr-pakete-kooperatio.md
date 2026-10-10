@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/744138?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/744138"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # CollabProof – Das Influencer-Kit für PR-Pakete  Kooperatio
 
 > Product ID `60445` · Digistore24 productId `744138` · [HTML profile page](../../produkte/collabproof-das-influencer-kit-f-r-pr-pakete-kooperatio-60445.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -51,7 +51,22 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** CollabProof – Das Influencer-Kit für Kooperationen, PR-Pakete, Belege - Digistore24
+- **OG title:** CollabProof – Das Influencer-Kit für Kooperationen, PR-Pakete, Belege
+- **Section headlines (H3):**
+  - CollabProof – Das Influencer-Kit für Kooperationen, PR-Pakete, Belege
+  - CollabProof – Das Influencer-Kit
+  - CollabProof – Das Influencer-Kit für Kooperationen, PR-Pakete, Belege
+  - CollabProof – Das Influencer-Kit
+  - CollabProof – Das Influencer-Kit für Kooperationen, PR-Pakete, Belege
+  - CollabProof – Das Influencer-Kit
+- **Opening copy (first paragraphs):**
+  > Welches PR-Paket hast du bekommen? Was war es wert? Wo liegt der Beleg? Wenn diese Fragen erst Monate später auftauchen, ist „weiß ich nicht mehr“ eine schlechte Ausgangslage.
+  > Mit CollabProof hältst du Kooperationen, Sachzuwendungen und Honorare übersichtlich fest. Erkenne offene Punkte und bereite deine Unterlagen für die Steuerkanzlei vor – statt später dein Postfach nach Nachweisen zu durchsuchen.
+  > Das bekommst du: Offline-App für Kooperationen, PR-Pakete und Honorare PDF-Jahresbericht, CSV-Export und JSON-Backups 9-seitiger PDF-Leitfaden mit Checklisten 6 kopierfertige E-Mail-Vorlagen Beleg-Ordnerstruktur, Beispieldaten und Startanleitung PR-Pakete rein. Chaos raus. Digitaler ZIP-Download. Einmalzahlung, kein Abo, kein App-Konto. Für einen Computer mit aktuellem Browser vorgesehen.
+  > Dokumentationshilfe, keine Steuer- oder Rechtsberatung. Originalbelege separat ablegen und Einträge regelmäßig per JSON-Backup sichern.
+- **Page word count:** 553
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4993123/image/product/UAHZ70RW.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-01-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://daily-balance.at?aff=adminstore#aff=adminstore"
 sales_page: "https://daily-balance.at"
@@ -22,7 +22,7 @@ language: "de"
 # Fit Fuel Premium App – Der digitale Personal Trainer
 
 > Product ID `55627` · Digistore24 productId `665463` · [HTML profile page](../../produkte/fit-fuel-premium-app-der-digitale-personal-trainer-55627.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

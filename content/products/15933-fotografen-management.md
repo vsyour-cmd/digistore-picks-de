@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2017-03-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://fotografen.management/?aff=adminstore#aff=adminstore"
 sales_page: "https://fotografen.management/"
@@ -22,7 +22,7 @@ language: "de"
 # Fotografen.Management
 
 > Product ID `15933` · Digistore24 productId `127933` · [HTML profile page](../../produkte/fotografen-management-15933.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

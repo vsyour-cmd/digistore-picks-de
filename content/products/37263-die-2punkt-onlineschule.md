@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2021-05-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/389005?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/389005"
@@ -22,7 +22,7 @@ language: "de"
 # Die 2Punkt-Onlineschule
 
 > Product ID `37263` · Digistore24 productId `389005` · [HTML profile page](../../produkte/die-2punkt-onlineschule-37263.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

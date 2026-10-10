@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2018-11-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://merchreport.de?aff=adminstore#aff=adminstore"
 sales_page: "https://merchreport.de"
@@ -22,7 +22,7 @@ language: "de"
 # Merchreport für Merch by Amazon (Advanced Membership)
 
 > Product ID `27342` · Digistore24 productId `248863` · [HTML profile page](../../produkte/merchreport-f-r-merch-by-amazon-advanced-membership-27342.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

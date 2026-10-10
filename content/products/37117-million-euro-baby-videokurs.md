@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-01-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://los.larspilawski.de/million-euro-baby-videokurs-ds/?aff=adminstore#aff=adminstore"
 sales_page: "https://los.larspilawski.de/million-euro-baby-videokurs-ds/"
@@ -22,7 +22,7 @@ language: "de"
 # Million Euro Baby Videokurs
 
 > Product ID `37117` · Digistore24 productId `303289` · [HTML profile page](../../produkte/million-euro-baby-videokurs-37117.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

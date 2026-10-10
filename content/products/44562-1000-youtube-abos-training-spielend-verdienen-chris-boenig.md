@@ -13,7 +13,7 @@ cancel_rate_pct: 5.35
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2023-06-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://chrisboenig.com/youtubetrainingup/?aff=adminstore#aff=adminstore"
 sales_page: "https://chrisboenig.com/youtubetrainingup/"
@@ -22,7 +22,7 @@ language: "de"
 # 1000 YouTube Abos Training: Spielend Verdienen! Chris Boenig
 
 > Product ID `44562` · Digistore24 productId `504419` · [HTML profile page](../../produkte/1000-youtube-abos-training-spielend-verdienen-chris-boenig-44562.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

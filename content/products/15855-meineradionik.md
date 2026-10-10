@@ -13,7 +13,7 @@ cancel_rate_pct: 2.03
 categories: ["Software","Spiri­tua­lity & Esotericism"]
 listed_since: "2017-01-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/115687/adminstore"
 sales_page: "https://meine-radionik.de/?pk_campaign=dgs-[AFFILIATE]&pk_kwd=[CAMPAIGNKEY]"
@@ -22,7 +22,7 @@ language: "de"
 # MeineRadionik
 
 > Product ID `15855` · Digistore24 productId `115687` · [HTML profile page](../../produkte/meineradionik-15855.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

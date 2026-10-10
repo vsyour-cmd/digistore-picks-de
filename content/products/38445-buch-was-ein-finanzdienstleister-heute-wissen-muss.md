@@ -13,7 +13,7 @@ cancel_rate_pct: 1.83
 categories: ["Education"]
 listed_since: "2021-09-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.robert-peukert.de/autor/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.robert-peukert.de/autor/"
@@ -22,7 +22,7 @@ language: "de"
 # Buch: Was ein Finanzdienstleister Heute wissen muss…
 
 > Product ID `38445` · Digistore24 productId `407851` · [HTML profile page](../../produkte/buch-was-ein-finanzdienstleister-heute-wissen-muss-38445.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

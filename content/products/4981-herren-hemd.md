@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2014-10-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://www.dots-designs.de/naehen-fuer-maenner/?aff=adminstore#aff=adminstore"
 sales_page: "http://www.dots-designs.de/naehen-fuer-maenner/"
@@ -22,7 +22,7 @@ language: "de"
 # Herren-Hemd
 
 > Product ID `4981` · Digistore24 productId `34111` · [HTML profile page](../../produkte/herren-hemd-4981.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

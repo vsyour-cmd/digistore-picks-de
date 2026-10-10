@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children","Marketing Services"]
 listed_since: "2026-08-31"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.blubo.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.blubo.de"
@@ -22,7 +22,7 @@ language: "de"
 # Blubo Kinderbuch
 
 > Product ID `58804` · Digistore24 productId `296797` · [HTML profile page](../../produkte/blubo-kinderbuch-58804.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

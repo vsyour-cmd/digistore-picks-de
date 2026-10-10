@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2026-04-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://die-profil-blaupause.dein-socialmedia-erfolg.de?aff=adminstore#aff=adminstore"
 sales_page: "http://die-profil-blaupause.dein-socialmedia-erfolg.de"
@@ -22,7 +22,7 @@ language: "de"
 # 50% Provision: "Die Profil Blaupause" (No-Brainer + Upsells)
 
 > Product ID `56508` · Digistore24 productId `681767` · [HTML profile page](../../produkte/50-provision-die-profil-blaupause-no-brainer-upsells-56508.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

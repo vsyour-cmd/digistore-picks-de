@@ -13,7 +13,7 @@ cancel_rate_pct: 12.34
 categories: ["Food & Drink"]
 listed_since: "2021-02-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://machdichschlank.info/77-keto-rezepte/?aff=adminstore#aff=adminstore"
 sales_page: "https://machdichschlank.info/77-keto-rezepte/"
@@ -22,7 +22,7 @@ language: "de"
 # Die 77 besten Keto Rezepte Gratis Buch von MDS
 
 > Product ID `40687` · Digistore24 productId `371872` · [HTML profile page](../../produkte/die-77-besten-keto-rezepte-gratis-buch-von-mds-40687.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

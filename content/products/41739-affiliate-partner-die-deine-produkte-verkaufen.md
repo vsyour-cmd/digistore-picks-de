@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-11-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://page.funnelcockpit.com/FNGNLgBvrxEwjMFk4?aff=adminstore#aff=adminstore"
 sales_page: "https://page.funnelcockpit.com/FNGNLgBvrxEwjMFk4"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Partner, die Deine Produkte verkaufen!
 
 > Product ID `41739` · Digistore24 productId `468518` · [HTML profile page](../../produkte/affiliate-partner-die-deine-produkte-verkaufen-41739.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

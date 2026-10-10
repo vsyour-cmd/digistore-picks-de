@@ -13,7 +13,7 @@ cancel_rate_pct: 1.6
 categories: ["Computer & Internet","Software"]
 listed_since: "2019-09-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://www.coachy.net?aff=adminstore#aff=adminstore"
 sales_page: "http://www.coachy.net"
@@ -22,7 +22,7 @@ language: "de"
 # COACHY - Dein Mitgliederbereich mit Landingpage Builder!
 
 > Product ID `17119` · Digistore24 productId `288552` · [HTML profile page](../../produkte/coachy-dein-mitgliederbereich-mit-landingpage-builder-17119.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

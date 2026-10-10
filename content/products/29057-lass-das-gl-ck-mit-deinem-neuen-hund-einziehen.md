@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2019-02-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/259183?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/259183"
@@ -22,7 +22,7 @@ language: "de"
 # Lass das Glück mit Deinem neuen Hund einziehen!
 
 > Product ID `29057` · Digistore24 productId `259183` · [HTML profile page](../../produkte/lass-das-gl-ck-mit-deinem-neuen-hund-einziehen-29057.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

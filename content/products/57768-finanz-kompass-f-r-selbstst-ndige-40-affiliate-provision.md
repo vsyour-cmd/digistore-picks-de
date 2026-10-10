@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Profession & Job"]
 listed_since: "2026-07-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/715297?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/715297"
@@ -22,7 +22,7 @@ language: "de"
 # Finanz-Kompass für Selbstständige – 40 % Affiliate-Provision
 
 > Product ID `57768` · Digistore24 productId `715297` · [HTML profile page](../../produkte/finanz-kompass-f-r-selbstst-ndige-40-affiliate-provision-57768.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

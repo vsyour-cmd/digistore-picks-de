@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2014-02-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://mein-abnehmblog.de/?aff=adminstore#aff=adminstore"
 sales_page: "http://mein-abnehmblog.de/"
@@ -22,7 +22,7 @@ language: "de"
 # Abnehmformel 2.0 - Abnehm-Kurs mit Abnehm-Journal, Rezepten
 
 > Product ID `2313` · Digistore24 productId `21781` · [HTML profile page](../../produkte/abnehmformel-2-0-abnehm-kurs-mit-abnehm-journal-rezepten-2313.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

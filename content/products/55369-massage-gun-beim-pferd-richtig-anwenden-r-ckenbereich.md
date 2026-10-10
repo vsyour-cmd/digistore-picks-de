@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets","Health & Fitness"]
 listed_since: "2025-12-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.equinemassagegun.de/pferd-ruecken/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.equinemassagegun.de/pferd-ruecken/"
@@ -22,7 +22,7 @@ language: "de"
 # Massage Gun beim Pferd richtig anwenden – Rückenbereich
 
 > Product ID `55369` · Digistore24 productId `657635` · [HTML profile page](../../produkte/massage-gun-beim-pferd-richtig-anwenden-r-ckenbereich-55369.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

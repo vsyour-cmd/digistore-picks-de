@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Services","Online Marketing","Marketing Services"]
 listed_since: "2025-12-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/655486?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/655486"
@@ -22,7 +22,7 @@ language: "de"
 # AI-Agent-Empire 2.0 KI-Agenten Blueprint zum Wiederverkauf
 
 > Product ID `55397` · Digistore24 productId `655486` · [HTML profile page](../../produkte/ai-agent-empire-2-0-ki-agenten-blueprint-zum-wiederverkauf-55397.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

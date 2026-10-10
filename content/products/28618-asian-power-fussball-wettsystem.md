@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Betting Systems","Fun & Games","Sport"]
 listed_since: "2019-04-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.betrevolutionclub.com/asian-power-strategie-anleitung/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.betrevolutionclub.com/asian-power-strategie-anleitung/"
@@ -22,7 +22,7 @@ language: "de"
 # Asian Power (Fussball) Wettsystem
 
 > Product ID `28618` · Digistore24 productId `266994` · [HTML profile page](../../produkte/asian-power-fussball-wettsystem-28618.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2021-11-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://natuerlich-einfach.de/stressbedingter-schwindel/?aff=adminstore#aff=adminstore"
 sales_page: "https://natuerlich-einfach.de/stressbedingter-schwindel/"
@@ -22,7 +22,7 @@ language: "de"
 # Stressbedingter Schwindel - Ratgeber Betroffene - Angehörige
 
 > Product ID `55767` · Digistore24 productId `417751` · [HTML profile page](../../produkte/stressbedingter-schwindel-ratgeber-betroffene-angeh-rige-55767.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

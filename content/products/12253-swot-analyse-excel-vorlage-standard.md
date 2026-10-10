@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2016-02-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://swot-analyse.net/swot-analyse-excel-vorlage-download/?aff=adminstore#aff=adminstore"
 sales_page: "http://swot-analyse.net/swot-analyse-excel-vorlage-download/"
@@ -22,7 +22,7 @@ language: "de"
 # SWOT-Analyse Excel-Vorlage Standard
 
 > Product ID `12253` · Digistore24 productId `72157` · [HTML profile page](../../produkte/swot-analyse-excel-vorlage-standard-12253.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

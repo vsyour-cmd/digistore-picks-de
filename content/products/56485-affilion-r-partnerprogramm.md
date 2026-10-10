@@ -13,7 +13,7 @@ cancel_rate_pct: 18.73
 categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2025-12-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.profitbuddies.de/affilionaer-starter?aff=adminstore#aff=adminstore"
 sales_page: "https://www.profitbuddies.de/affilionaer-starter"
@@ -22,7 +22,7 @@ language: "de"
 # Affilionär | Partnerprogramm
 
 > Product ID `56485` · Digistore24 productId `652688` · [HTML profile page](../../produkte/affilion-r-partnerprogramm-56485.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

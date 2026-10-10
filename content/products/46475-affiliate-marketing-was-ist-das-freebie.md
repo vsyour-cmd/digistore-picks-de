@@ -13,7 +13,7 @@ cancel_rate_pct: 2.86
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2023-12-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://kb-om.com/affiliate-marketing-was-ist-das-ds24/?aff=adminstore#aff=adminstore"
 sales_page: "https://kb-om.com/affiliate-marketing-was-ist-das-ds24/"
@@ -22,7 +22,7 @@ language: "de"
 # Affiliate Marketing - Was ist das? (Freebie)
 
 > Product ID `46475` · Digistore24 productId `529089` · [HTML profile page](../../produkte/affiliate-marketing-was-ist-das-freebie-46475.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Food & Drink"]
 listed_since: "2025-01-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/592116?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/592116"
@@ -22,7 +22,7 @@ language: "de"
 # eBook - Gesunde Ernährung mit Kindern
 
 > Product ID `51364` · Digistore24 productId `592116` · [HTML profile page](../../produkte/ebook-gesunde-ern-hrung-mit-kindern-51364.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

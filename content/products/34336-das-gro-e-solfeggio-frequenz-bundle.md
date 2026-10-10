@@ -13,7 +13,7 @@ cancel_rate_pct: 0.66
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2020-01-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.solfeggio-frequenzen.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.solfeggio-frequenzen.com/"
@@ -22,7 +22,7 @@ language: "de"
 # Das große Solfeggio-Frequenz Bundle
 
 > Product ID `34336` · Digistore24 productId `305026` · [HTML profile page](../../produkte/das-gro-e-solfeggio-frequenz-bundle-34336.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

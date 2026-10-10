@@ -13,7 +13,7 @@ cancel_rate_pct: 4.84
 categories: ["Computer & Internet"]
 listed_since: "2020-04-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.smartest-home.com/gira-homeserver-programmieren/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.smartest-home.com/gira-homeserver-programmieren/"
@@ -22,7 +22,7 @@ language: "de"
 # Gira Homeserver programmieren - 3h Videokurs Klickanleitung
 
 > Product ID `52161` · Digistore24 productId `320544` · [HTML profile page](../../produkte/gira-homeserver-programmieren-3h-videokurs-klickanleitung-52161.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

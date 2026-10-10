@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism","Animals & Pets"]
 listed_since: "2026-04-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/686408?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/686408"
@@ -22,7 +22,7 @@ language: "de"
 # Euer Seelenweg – 11 Audio-Meditationen zur Tierkommunikation
 
 > Product ID `56351` · Digistore24 productId `686408` · [HTML profile page](../../produkte/euer-seelenweg-11-audio-meditationen-zur-tierkommunikation-56351.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

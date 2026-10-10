@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children","Fun & Games"]
 listed_since: "2026-10-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://www.digistore24.com/redir/742050/adminstore"
 sales_page: "https://krimery.de/angebot/die-letzte-seance?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]&ds24tr=[TRACKINGKEY]"
@@ -22,7 +22,7 @@ language: "de"
 # Digitales Krimidiner - Die letzte Séance
 
 > Product ID `60246` · Digistore24 productId `742050` · [HTML profile page](../../produkte/digitales-krimidiner-die-letzte-s-ance-60246.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

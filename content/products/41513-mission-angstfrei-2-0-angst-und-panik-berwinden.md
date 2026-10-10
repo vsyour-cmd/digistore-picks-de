@@ -13,7 +13,7 @@ cancel_rate_pct: 5.59
 categories: ["Personal Development"]
 listed_since: "2022-06-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://go.saschajurek.de/mission-angstfrei-20-neu/?aff=adminstore#aff=adminstore"
 sales_page: "https://go.saschajurek.de/mission-angstfrei-20-neu/"
@@ -22,7 +22,7 @@ language: "de"
 # Mission Angstfrei 2.0: Angst und Panik überwinden
 
 > Product ID `41513` · Digistore24 productId `447376` · [HTML profile page](../../produkte/mission-angstfrei-2-0-angst-und-panik-berwinden-41513.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 3.64
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-04-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/608751?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/608751"
@@ -22,7 +22,7 @@ language: "de"
 # von 0 auf Sichtbarkeit - mit Instagram
 
 > Product ID `52471` · Digistore24 productId `608751` · [HTML profile page](../../produkte/von-0-auf-sichtbarkeit-mit-instagram-52471.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 19.44
 categories: ["Online Marketing & E-Business"]
 listed_since: "2018-06-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://byebyeschufterei.de/smartphone-cash-7500/?aff=adminstore#aff=adminstore"
 sales_page: "https://byebyeschufterei.de/smartphone-cash-7500/"
@@ -22,7 +22,7 @@ language: "de"
 # Smartphone Cash Machine - von Gunnar Kessler
 
 > Product ID `25608` · Digistore24 productId `230451` · [HTML profile page](../../produkte/smartphone-cash-machine-von-gunnar-kessler-25608.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

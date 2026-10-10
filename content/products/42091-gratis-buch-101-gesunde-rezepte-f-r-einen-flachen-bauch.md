@@ -13,7 +13,7 @@ cancel_rate_pct: 5.78
 categories: ["Health & Fitness"]
 listed_since: "2022-02-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://meine-strandfigur.com/101-gesunde-rezepte/?aff=adminstore#aff=adminstore"
 sales_page: "https://meine-strandfigur.com/101-gesunde-rezepte/"
@@ -22,7 +22,7 @@ language: "de"
 # GRATIS Buch: 101 gesunde Rezepte für einen flachen Bauch
 
 > Product ID `42091` · Digistore24 productId `429212` · [HTML profile page](../../produkte/gratis-buch-101-gesunde-rezepte-f-r-einen-flachen-bauch-42091.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

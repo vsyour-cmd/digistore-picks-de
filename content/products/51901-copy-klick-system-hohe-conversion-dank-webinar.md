@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2023-11-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.digitale-profis.com/webinar-eintragung/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.digitale-profis.com/webinar-eintragung/"
@@ -22,7 +22,7 @@ language: "de"
 # Copy Klick System - Hohe Conversion dank Webinar
 
 > Product ID `51901` · Digistore24 productId `525408` · [HTML profile page](../../produkte/copy-klick-system-hohe-conversion-dank-webinar-51901.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

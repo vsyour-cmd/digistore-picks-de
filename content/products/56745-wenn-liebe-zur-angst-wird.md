@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-05-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://noebauerfxj.wixsite.com/verlustangst?aff=adminstore#aff=adminstore"
 sales_page: "https://noebauerfxj.wixsite.com/verlustangst"
@@ -22,7 +22,7 @@ language: "de"
 # Wenn Liebe zur Angst wird
 
 > Product ID `56745` · Digistore24 productId `695752` · [HTML profile page](../../produkte/wenn-liebe-zur-angst-wird-56745.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

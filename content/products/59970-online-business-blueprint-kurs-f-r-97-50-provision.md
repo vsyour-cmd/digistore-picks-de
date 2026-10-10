@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Online Marketing & E-Business"]
 listed_since: "2026-09-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/738079?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/738079"
@@ -22,7 +22,7 @@ language: "de"
 # Online Business Blueprint – Kurs für 97 €, 50 % Provision
 
 > Product ID `59970` · Digistore24 productId `738079` · [HTML profile page](../../produkte/online-business-blueprint-kurs-f-r-97-50-provision-59970.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

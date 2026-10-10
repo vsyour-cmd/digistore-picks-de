@@ -13,7 +13,7 @@ cancel_rate_pct: 12.82
 categories: ["Business & Investment","Trading Products"]
 listed_since: "2025-03-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://dertradingcode.de/kurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://dertradingcode.de/kurs/"
@@ -22,7 +22,7 @@ language: "de"
 # Trading-Code Praxiskurs
 
 > Product ID `52670` · Digistore24 productId `604570` · [HTML profile page](../../produkte/trading-code-praxiskurs-52670.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

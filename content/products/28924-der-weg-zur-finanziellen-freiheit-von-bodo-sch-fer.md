@@ -13,7 +13,7 @@ cancel_rate_pct: 2.09
 categories: ["Personal Development"]
 listed_since: "2019-04-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://buch.bodoschaefer.de/der-weg-zur-finanziellen-freiheit/?aff=adminstore#aff=adminstore"
 sales_page: "https://buch.bodoschaefer.de/der-weg-zur-finanziellen-freiheit/"
@@ -22,7 +22,7 @@ language: "de"
 # Der Weg zur finanziellen Freiheit von Bodo Schäfer
 
 > Product ID `28924` · Digistore24 productId `267357` · [HTML profile page](../../produkte/der-weg-zur-finanziellen-freiheit-von-bodo-sch-fer-28924.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Travel & Culture"]
 listed_since: "2017-09-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "rich"
 promo_link: "https://www.unaufschiebbar.de/digitaler-nomade-werden/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.unaufschiebbar.de/digitaler-nomade-werden/"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # Goodbye 9 to 5: Digitaler Nomade werden PREMIUM [Onlinekurs]
 
 > Product ID `32101` · Digistore24 productId `165221` · [HTML profile page](../../produkte/goodbye-9-to-5-digitaler-nomade-werden-premium-onlinekurs-32101.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,35 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Goodbye 9 to 5 - Digitaler Nomade werden [Online-Kurs]
+- **OG title:** Goodbye9to5 - Digitaler Nomade werden [Online-Kurs] | unaufschiebbar.de
+- **Meta description:** In unserem Online-Kurs Goodbye 9 to 5 lernst du wie du Digitaler Nomade werden kannst ✓ Über 9 Stunden Video-Material ✓ bei 55 Videos ✓und zahlreiche Boni ✓
+- **Headline (H1):**
+  > Goodbye 9 to 5
+- **Section headlines (H2):**
+  - Digitaler Nomade werden [Online-Kurs]
+  - Raus aus dem Hamsterrad
+  - Wir sind u.a. bekannt aus:
+  - Online-Kurs Standard
+  - Online-Kurs Premium Plus
+  - Möchtest du dein Leben verändern?
+  - Wo wir standen
+  - Alle Lektionen auf einem Blick
+  - PLUS: Du bekommst folgendes Bonus-Material in der Premium-Plus-Version
+  - EXCEL-SHEET
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/165223
+  - https://www.digistore24.com/product/165221
+- **Opening copy (first paragraphs):**
+  > Ja, du willst all das und weißt nur nicht, wie du ortsunabhängig Geld verdienen kannst bzw. wie du wirklich ein digitaler Nomade werden kannst?
+  > Wir standen 2014 selber auf dem Schlauch und wussten nicht, wie wir anfangen sollen. Und das betraf viele verschiedene Bereiche: Unternehmensgründung (im In- und Ausland), Buchhaltung, Steuern, regelmäßiges und sicher Geld verdienen, digitale Sicherheit, Bargeld auf Reisen, physische Post empfangen etc.
+  > All diese Themen haben uns außerdem vor große Herausforderungen gestellt. Dennoch haben wir es geschafft. Auch wenn der Weg nicht immer einfach war. Denn auf diesem Weg haben wir viele Fehler gemacht, die du vermeiden kannst.
+  > Damit du nicht dieselben Fehler machst wie wir, wollen wir unseren Erfahrungsschatz in diesem Onlinekurs "Goodbye 9 to 5 - Digitaler Nomade werden" mit dir teilen. Du greifst auf all unsere Erfahrungen der letzten Jahre zu und erfährst, wie auch du zum echten digitalen Nomaden werden kannst. Und wenn du willst, kannst auch du heute noch etwas ändern und direkt starten. Bist du bereit dazu?
+- **Questions the sales page answers:**
+  - ERKENNST DU DICH HIER WIEDER?
+  - Was ist, wenn gar kein Geld hereinkommt?
+- **Page word count:** 2931
+- **OG image:** https://www.unaufschiebbar.de/wp-content/uploads/Goodbye-9-to-5-digitaler-Nomade-werden-klein.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

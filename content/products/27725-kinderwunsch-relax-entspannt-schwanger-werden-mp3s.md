@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2018-09-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.kinderwunsch-in-berlin.de/kinderwunsch-hypnose-cds-mp3s.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kinderwunsch-in-berlin.de/kinderwunsch-hypnose-cds-mp3s.htm"
@@ -22,7 +22,7 @@ language: "de"
 # Kinderwunsch-Relax©: Entspannt schwanger werden (MP3s)
 
 > Product ID `27725` · Digistore24 productId `238483` · [HTML profile page](../../produkte/kinderwunsch-relax-entspannt-schwanger-werden-mp3s-27725.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

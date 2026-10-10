@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-10-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/742507?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/742507"
@@ -22,7 +22,7 @@ language: "de"
 # Hochzeit leicht gemacht – mit Hochzeits-Generator
 
 > Product ID `60374` · Digistore24 productId `742507` · [HTML profile page](../../produkte/hochzeit-leicht-gemacht-mit-hochzeits-generator-60374.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

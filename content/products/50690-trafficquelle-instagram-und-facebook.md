@@ -13,7 +13,7 @@ cancel_rate_pct: 2.71
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2024-12-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://affiliforge.net/Trafficquelle-Instagram?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliforge.net/Trafficquelle-Instagram"
@@ -22,7 +22,7 @@ language: "de"
 # Trafficquelle Instagram und Facebook
 
 > Product ID `50690` · Digistore24 productId `585597` · [HTML profile page](../../produkte/trafficquelle-instagram-und-facebook-50690.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

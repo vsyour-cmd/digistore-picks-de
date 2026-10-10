@@ -13,7 +13,7 @@ cancel_rate_pct: 8.48
 categories: ["Survival"]
 listed_since: "2022-10-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://www.digistore24.com/redir/465280/adminstore"
 sales_page: "https://stromfrei.org/ds/vsl-stromfrei-system-ds-fullsc-yt/?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]&tk=[TRACKINGKEY]"
@@ -22,7 +22,7 @@ language: "de"
 # Höchste Auszahlung auf kaltem Traffic (Stromfrei System)
 
 > Product ID `44606` · Digistore24 productId `465280` · [HTML profile page](../../produkte/h-chste-auszahlung-auf-kaltem-traffic-stromfrei-system-44606.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
 listed_since: "2026-08-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/709737?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/709737"
@@ -22,7 +22,7 @@ language: "de"
 # KI Print-on-Demand System E-Book
 
 > Product ID `58407` · Digistore24 productId `709737` · [HTML profile page](../../produkte/ki-print-on-demand-system-e-book-58407.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2021-09-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://stayhealthywithdona.com/cook-healthy-with-dona?aff=adminstore#aff=adminstore"
 sales_page: "https://stayhealthywithdona.com/cook-healthy-with-dona"
@@ -22,7 +22,7 @@ language: "de"
 # COOK HEALTHY WITH DONA
 
 > Product ID `38130` · Digistore24 productId `409253` · [HTML profile page](../../produkte/cook-healthy-with-dona-38130.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

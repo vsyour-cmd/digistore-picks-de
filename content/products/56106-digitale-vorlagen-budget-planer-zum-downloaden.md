@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2026-03-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/679557?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/679557"
@@ -22,7 +22,7 @@ language: "de"
 # Digitale Vorlagen Budget Planer zum Downloaden
 
 > Product ID `56106` · Digistore24 productId `679557` · [HTML profile page](../../produkte/digitale-vorlagen-budget-planer-zum-downloaden-56106.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

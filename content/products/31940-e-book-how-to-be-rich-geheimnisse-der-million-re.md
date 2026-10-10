@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-03-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://therichgirl.club/geheimnisse-der-millionaere-ebook/?aff=adminstore#aff=adminstore"
 sales_page: "https://therichgirl.club/geheimnisse-der-millionaere-ebook/"
@@ -22,7 +22,7 @@ language: "de"
 # E-Book "How to be rich: Geheimnisse der Millionäre"
 
 > Product ID `31940` · Digistore24 productId `314028` · [HTML profile page](../../produkte/e-book-how-to-be-rich-geheimnisse-der-million-re-31940.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

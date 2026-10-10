@@ -13,7 +13,7 @@ cancel_rate_pct: 11.25
 categories: ["Trading Products"]
 listed_since: "2015-06-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.kagels-trading.de/trading-signale/forex-signale/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kagels-trading.de/trading-signale/forex-signale/"
@@ -22,7 +22,7 @@ language: "de"
 # Forex Trading-Signale (Majors)
 
 > Product ID `13477` · Digistore24 productId `52233` · [HTML profile page](../../produkte/forex-trading-signale-majors-13477.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

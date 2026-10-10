@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2019-03-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.volleyballfreak.de/volleyball-e-book-block-und-feldverteidigung?aff=adminstore#aff=adminstore"
 sales_page: "https://www.volleyballfreak.de/volleyball-e-book-block-und-feldverteidigung"
@@ -22,7 +22,7 @@ language: "de"
 # Volleyball-E-Book: Block- und Feldverteidigung
 
 > Product ID `28287` · Digistore24 productId `262572` · [HTML profile page](../../produkte/volleyball-e-book-block-und-feldverteidigung-28287.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

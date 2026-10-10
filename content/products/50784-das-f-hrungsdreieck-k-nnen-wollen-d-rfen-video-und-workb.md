@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Profession & Job","Leadership & Management"]
 listed_since: "2024-12-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/586934?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/586934"
@@ -22,7 +22,7 @@ language: "de"
 # Das Führungsdreieck – Können, Wollen, Dürfen Video und Workb
 
 > Product ID `50784` · Digistore24 productId `586934` · [HTML profile page](../../produkte/das-f-hrungsdreieck-k-nnen-wollen-d-rfen-video-und-workb-50784.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

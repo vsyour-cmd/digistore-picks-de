@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Software","Finances"]
 listed_since: "2026-10-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.gz-ai-stacks.de/vertrags-kompass/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.gz-ai-stacks.de/vertrags-kompass/"
@@ -22,7 +22,7 @@ language: "de"
 # Vertrags-Kompass – Kündigungsfristen nie wieder verpassen
 
 > Product ID `60185` · Digistore24 productId `719927` · [HTML profile page](../../produkte/vertrags-kompass-k-ndigungsfristen-nie-wieder-verpassen-60185.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
 listed_since: "2018-04-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.beziehungsratgeber.net/shop/bindungsangst-ueberwinden/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.beziehungsratgeber.net/shop/bindungsangst-ueberwinden/"
@@ -22,7 +22,7 @@ language: "de"
 # Bindungsangst überwinden [E-Book]
 
 > Product ID `25603` · Digistore24 productId `217159` · [HTML profile page](../../produkte/bindungsangst-berwinden-e-book-25603.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

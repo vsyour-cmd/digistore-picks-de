@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2024-09-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.jonasklaholz.de/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.jonasklaholz.de/"
@@ -22,7 +22,7 @@ language: "de"
 # Meta Ads Elite
 
 > Product ID `50413` · Digistore24 productId `568194` · [HTML profile page](../../produkte/meta-ads-elite-50413.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

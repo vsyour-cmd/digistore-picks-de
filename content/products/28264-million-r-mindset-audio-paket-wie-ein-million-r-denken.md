@@ -13,7 +13,7 @@ cancel_rate_pct: 3.18
 categories: ["Business & Investment"]
 listed_since: "2018-12-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://energetic-eternity.de/millionaer-mindset-tripwire/?aff=adminstore#aff=adminstore"
 sales_page: "https://energetic-eternity.de/millionaer-mindset-tripwire/"
@@ -22,7 +22,7 @@ language: "de"
 # Millionär Mindset Audio Paket – Wie ein Millionär denken!
 
 > Product ID `28264` · Digistore24 productId `250856` · [HTML profile page](../../produkte/million-r-mindset-audio-paket-wie-ein-million-r-denken-28264.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

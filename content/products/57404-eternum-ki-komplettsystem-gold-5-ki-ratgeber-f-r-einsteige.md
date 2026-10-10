@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Profession & Job","Social Media","Marketing Services"]
 listed_since: "2026-07-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://eternumtech.eu/ki-komplettsystem-gold?aff=adminstore#aff=adminstore"
 sales_page: "https://eternumtech.eu/ki-komplettsystem-gold"
@@ -22,7 +22,7 @@ language: "de"
 # ETERNUM KI-Komplettsystem GOLD – 5 KI-Ratgeber für Einsteige
 
 > Product ID `57404` · Digistore24 productId `708578` · [HTML profile page](../../produkte/eternum-ki-komplettsystem-gold-5-ki-ratgeber-f-r-einsteige-57404.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 7.28
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2018-07-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://raikgarve.de/beziehung-zu-dir-selbst/der-weg-zu-wahrer-selbst-erkenntnis/?aff=adminstore#aff=adminstore"
 sales_page: "https://raikgarve.de/beziehung-zu-dir-selbst/der-weg-zu-wahrer-selbst-erkenntnis/"
@@ -22,7 +22,7 @@ language: "de"
 # Das Phaenomen Leben als wahrer Selbst-Erkenntnisprozess
 
 > Product ID `25783` · Digistore24 productId `234171` · [HTML profile page](../../produkte/das-phaenomen-leben-als-wahrer-selbst-erkenntnisprozess-25783.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

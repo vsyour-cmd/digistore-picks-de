@@ -13,7 +13,7 @@ cancel_rate_pct: 6.22
 categories: ["Personal Development"]
 listed_since: "2026-02-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/666768?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/666768"
@@ -22,7 +22,7 @@ language: "de"
 # Mentoring 2.0 - David Ulubaev
 
 > Product ID `55629` · Digistore24 productId `666768` · [HTML profile page](../../produkte/mentoring-2-0-david-ulubaev-55629.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

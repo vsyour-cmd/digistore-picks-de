@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2024-11-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://michelweinand.systeme.io/bb-bootcamp?aff=adminstore#aff=adminstore"
 sales_page: "https://michelweinand.systeme.io/bb-bootcamp"
@@ -22,7 +22,7 @@ language: "de"
 # Biz Builder Bootcamp
 
 > Product ID `50836` · Digistore24 productId `579927` · [HTML profile page](../../produkte/biz-builder-bootcamp-50836.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

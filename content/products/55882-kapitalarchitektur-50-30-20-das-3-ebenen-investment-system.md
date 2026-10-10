@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Trading Products","Marketing Services"]
 listed_since: "2026-03-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://lenz-investments.com/kurs1?aff=adminstore#aff=adminstore"
 sales_page: "https://lenz-investments.com/kurs1"
@@ -22,7 +22,7 @@ language: "de"
 # Kapitalarchitektur 50/30/20 – Das 3-Ebenen-Investment-System
 
 > Product ID `55882` · Digistore24 productId `673050` · [HTML profile page](../../produkte/kapitalarchitektur-50-30-20-das-3-ebenen-investment-system-55882.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

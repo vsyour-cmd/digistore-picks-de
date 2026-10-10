@@ -13,7 +13,7 @@ cancel_rate_pct: 7.28
 categories: ["Health & Fitness"]
 listed_since: "2016-12-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://raikgarve.de/ganzheitliche-gesundheit/das-geheimnis-wahrer-selbstheilung-und-verjuengung/?aff=adminstore#aff=adminstore"
 sales_page: "https://raikgarve.de/ganzheitliche-gesundheit/das-geheimnis-wahrer-selbstheilung-und-verjuengung/"
@@ -22,7 +22,7 @@ language: "de"
 # Der Gesundheitscode
 
 > Product ID `14271` · Digistore24 productId `109797` · [HTML profile page](../../produkte/der-gesundheitscode-14271.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

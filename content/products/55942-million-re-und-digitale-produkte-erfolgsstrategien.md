@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Online Marketing"]
 listed_since: "2026-03-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "http://www.tradeventures.de?aff=adminstore#aff=adminstore"
 sales_page: "http://www.tradeventures.de"
@@ -22,7 +22,7 @@ language: "de"
 # Millionäre und digitale Produkte – Erfolgsstrategien
 
 > Product ID `55942` · Digistore24 productId `674269` · [HTML profile page](../../produkte/million-re-und-digitale-produkte-erfolgsstrategien-55942.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

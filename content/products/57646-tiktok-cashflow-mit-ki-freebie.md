@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-07-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://vierstelligimmonat.de/tiktokcashflow?aff=adminstore#aff=adminstore"
 sales_page: "https://vierstelligimmonat.de/tiktokcashflow"
@@ -22,7 +22,7 @@ language: "de"
 # TikTok Cashflow mit KI - Freebie
 
 > Product ID `57646` · Digistore24 productId `713053` · [HTML profile page](../../produkte/tiktok-cashflow-mit-ki-freebie-57646.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

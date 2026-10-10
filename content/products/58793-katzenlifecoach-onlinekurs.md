@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets","Education","Family & Children"]
 listed_since: "2026-08-31"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://acatemy-katzen.app.mentortools.com/katzenlifecoach?aff=adminstore#aff=adminstore"
 sales_page: "https://acatemy-katzen.app.mentortools.com/katzenlifecoach"
@@ -22,7 +22,7 @@ language: "de"
 # KATZENLIFECOACH® Onlinekurs
 
 > Product ID `58793` · Digistore24 productId `677027` · [HTML profile page](../../produkte/katzenlifecoach-onlinekurs-58793.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

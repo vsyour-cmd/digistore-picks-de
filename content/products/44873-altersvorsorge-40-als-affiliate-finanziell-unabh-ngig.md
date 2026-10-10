@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-07-31"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://altersvorsorgevierzigplus.funnelcockpit.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://altersvorsorgevierzigplus.funnelcockpit.com/"
@@ -22,7 +22,7 @@ language: "de"
 # Altersvorsorge 40+: Als Affiliate finanziell unabhängig
 
 > Product ID `44873` · Digistore24 productId `509495` · [HTML profile page](../../produkte/altersvorsorge-40-als-affiliate-finanziell-unabh-ngig-44873.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

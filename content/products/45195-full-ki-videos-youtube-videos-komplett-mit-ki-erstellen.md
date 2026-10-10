@@ -13,7 +13,7 @@ cancel_rate_pct: 4.08
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2023-08-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://onlinekurse-von-experten.com/ytki-fe/?aff=adminstore#aff=adminstore"
 sales_page: "https://onlinekurse-von-experten.com/ytki-fe/"
@@ -22,7 +22,7 @@ language: "de"
 # Full KI Videos - YouTube Videos komplett mit KI erstellen
 
 > Product ID `45195` · Digistore24 productId `514484` · [HTML profile page](../../produkte/full-ki-videos-youtube-videos-komplett-mit-ki-erstellen-45195.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

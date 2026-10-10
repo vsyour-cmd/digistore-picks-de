@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Sport"]
 listed_since: "2025-04-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://designs-nf.com/ebooks/15-fitness-drinks?aff=adminstore#aff=adminstore"
 sales_page: "https://designs-nf.com/ebooks/15-fitness-drinks"
@@ -22,7 +22,7 @@ language: "de"
 # 15 Fitness Drinks für Zuhause & Unterwegs
 
 > Product ID `52166` · Digistore24 productId `608744` · [HTML profile page](../../produkte/15-fitness-drinks-f-r-zuhause-unterwegs-52166.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

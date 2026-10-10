@@ -13,7 +13,7 @@ cancel_rate_pct: 1.67
 categories: ["Family & Children"]
 listed_since: "2020-01-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.babyschlummerland.de/ebook-schlummergeheimnisse-fuer-neugeborene/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.babyschlummerland.de/ebook-schlummergeheimnisse-fuer-neugeborene/"
@@ -22,7 +22,7 @@ language: "de"
 # E-Book: Schlummergeheimnisse für Neugeborene
 
 > Product ID `37993` · Digistore24 productId `301611` · [HTML profile page](../../produkte/e-book-schlummergeheimnisse-f-r-neugeborene-37993.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

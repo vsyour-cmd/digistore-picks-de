@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Services","Software"]
 listed_since: "2024-03-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.advernet.de/dms-saas.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advernet.de/dms-saas.html"
@@ -22,7 +22,7 @@ language: "de"
 # Advernet.de DMS SaaS
 
 > Product ID `45932` · Digistore24 productId `544850` · [HTML profile page](../../produkte/advernet-de-dms-saas-45932.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

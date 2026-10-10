@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Finances"]
 listed_since: "2026-03-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://coincircle.eu-5.quentn-site.com?aff=adminstore#aff=adminstore"
 sales_page: "https://coincircle.eu-5.quentn-site.com"
@@ -22,7 +22,7 @@ language: "de"
 # Krypto-Kickstart – Bitcoin kaufen für Anfänger
 
 > Product ID `55845` · Digistore24 productId `672877` · [HTML profile page](../../produkte/krypto-kickstart-bitcoin-kaufen-f-r-anf-nger-55845.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2018-02-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://wasserfilter-doc.com/e-book/?aff=adminstore#aff=adminstore"
 sales_page: "https://wasserfilter-doc.com/e-book/"
@@ -22,7 +22,7 @@ language: "de"
 # Das Experten E-Book über Wasserfilter!
 
 > Product ID `22867` · Digistore24 productId `202329` · [HTML profile page](../../produkte/das-experten-e-book-ber-wasserfilter-22867.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

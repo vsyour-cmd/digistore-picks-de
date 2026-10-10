@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2021-10-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://spirit-food.com/klarer-verstand/?aff=adminstore#aff=adminstore"
 sales_page: "https://spirit-food.com/klarer-verstand/"
@@ -22,7 +22,7 @@ language: "de"
 # Egregoren - Wie wir seit 10.000 Jahren kontrolliert werden
 
 > Product ID `38151` · Digistore24 productId `410602` · [HTML profile page](../../produkte/egregoren-wie-wir-seit-10-000-jahren-kontrolliert-werden-38151.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

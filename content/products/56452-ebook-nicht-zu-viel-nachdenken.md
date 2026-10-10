@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-05-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/689859?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/689859"
@@ -22,7 +22,7 @@ language: "de"
 # Ebook - Nicht zu viel nachdenken
 
 > Product ID `56452` · Digistore24 productId `689859` · [HTML profile page](../../produkte/ebook-nicht-zu-viel-nachdenken-56452.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

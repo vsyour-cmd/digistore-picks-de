@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2026-08-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://jemoris.com/liebe-bis-zum-letzten-planeten.html?aff=adminstore#aff=adminstore"
 sales_page: "https://jemoris.com/liebe-bis-zum-letzten-planeten.html"
@@ -22,7 +22,7 @@ language: "de"
 # LIEBE BIS ZUM LETZTEN PLANETEN - E-Book
 
 > Product ID `58450` · Digistore24 productId `723629` · [HTML profile page](../../produkte/liebe-bis-zum-letzten-planeten-e-book-58450.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2015-07-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.spanisch-fuer-reisende.de?aff=adminstore#aff=adminstore"
 sales_page: "https://www.spanisch-fuer-reisende.de"
@@ -22,7 +22,7 @@ language: "de"
 # Spanisch ohne Vorkenntnisse direkt anwenden
 
 > Product ID `5245` · Digistore24 productId `55161` · [HTML profile page](../../produkte/spanisch-ohne-vorkenntnisse-direkt-anwenden-5245.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

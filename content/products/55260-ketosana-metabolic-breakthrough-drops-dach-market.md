@@ -13,7 +13,7 @@ cancel_rate_pct: 6.47
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2026-01-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://myketosana.com/ketosana-pdp-fe?aff=adminstore#aff=adminstore"
 sales_page: "https://myketosana.com/ketosana-pdp-fe"
@@ -22,7 +22,7 @@ language: "de"
 # KetoSana - Metabolic Breakthrough Drops (DACH Market)
 
 > Product ID `55260` · Digistore24 productId `661129` · [HTML profile page](../../produkte/ketosana-metabolic-breakthrough-drops-dach-market-55260.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

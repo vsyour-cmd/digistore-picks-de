@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-08-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://rita-scheer.de/chatgpt-ohne-angst/?aff=adminstore#aff=adminstore"
 sales_page: "https://rita-scheer.de/chatgpt-ohne-angst/"
@@ -22,7 +22,7 @@ language: "de"
 # ChatGPT ohne Angst: Das verständliche Praxisbuch für Einstei
 
 > Product ID `58448` · Digistore24 productId `721041` · [HTML profile page](../../produkte/chatgpt-ohne-angst-das-verst-ndliche-praxisbuch-f-r-einstei-58448.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

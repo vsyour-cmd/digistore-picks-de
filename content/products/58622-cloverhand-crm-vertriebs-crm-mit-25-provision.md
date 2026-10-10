@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "rich"
 promo_link: "https://cloverhand.com/order.html?aff=adminstore#aff=adminstore"
 sales_page: "https://cloverhand.com/order.html"
 language: "de"
@@ -22,7 +22,7 @@ language: "de"
 # CloverHand CRM – Vertriebs-CRM mit 25 % Provision
 
 > Product ID `58622` · Digistore24 productId `722494` · [HTML profile page](../../produkte/cloverhand-crm-vertriebs-crm-mit-25-provision-58622.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,23 @@ language: "de"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** CRM für kleine Unternehmen bestellen | CloverHand über Digistore24
+- **Meta description:** CloverHand verbindet Kontakte, Aktivitäten, Deals, Rechnungen und Qualitätsmanagement. Ab 19 € über Digistore24.
+- **Headline (H1):**
+  > CRM-Software für kleine Unternehmen – Kundenverwaltung mit CloverHand
+- **Section headlines (H2):**
+  - CRM, Vertrieb und Kundenhistorie übersichtlich verbunden
+  - So startest du mit CloverHand
+  - Preise und Tarife
+  - Häufige Fragen zu CloverHand
+- **CTA button texts:** "Starter über Digistore24 bestellen"
+- **Opening copy (first paragraphs):**
+  > Kontakte, Unternehmen, Gespräche, Aufgaben, Deals und Dokumente an einem geschützten Ort organisieren.
+  > CloverHand bleibt bewusst übersichtlich: weniger suchen, konsequent nachfassen und jederzeit wissen, was im Vertrieb als Nächstes zu tun ist.
+  > Personen, Unternehmen, Rollen, Kontaktdaten und Kommunikationshistorie zusammenführen.
+  > Verkaufschancen, Phasen, Wahrscheinlichkeiten, Follow-ups und Fälligkeiten im Blick behalten.
+- **Page word count:** 418
+- **OG image:** https://cloverhand.com/images/cloverhand-sales-hero.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

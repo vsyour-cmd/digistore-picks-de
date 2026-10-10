@@ -13,7 +13,7 @@ cancel_rate_pct: 1.93
 categories: ["Trading Products"]
 listed_since: "2023-06-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://underground-traders.com/secrets-of-algotrading/?aff=adminstore#aff=adminstore"
 sales_page: "https://underground-traders.com/secrets-of-algotrading/"
@@ -22,7 +22,7 @@ language: "de"
 # SECRETS OF ALGO-TRADING - UNDERGROUND-TRADERS.COM
 
 > Product ID `45352` · Digistore24 productId `502326` · [HTML profile page](../../produkte/secrets-of-algo-trading-underground-traders-com-45352.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

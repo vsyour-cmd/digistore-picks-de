@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Sales Training"]
 listed_since: "2026-07-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://heinzbader.com/landingpage-der-goldene-abschluss/?aff=adminstore#aff=adminstore"
 sales_page: "https://heinzbader.com/landingpage-der-goldene-abschluss/"
@@ -22,7 +22,7 @@ language: "de"
 # Der Goldene Abschluss - Workbook
 
 > Product ID `57528` · Digistore24 productId `710657` · [HTML profile page](../../produkte/der-goldene-abschluss-workbook-57528.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

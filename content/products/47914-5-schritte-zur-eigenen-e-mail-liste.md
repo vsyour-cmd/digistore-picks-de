@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business"]
 listed_since: "2017-05-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://klick-jetzt-hier.net/441684/3116323/DS24?aff=adminstore#aff=adminstore"
 sales_page: "https://klick-jetzt-hier.net/441684/3116323/DS24"
@@ -22,7 +22,7 @@ language: "de"
 # 5 Schritte zur eigenen E-Mail-Liste
 
 > Product ID `47914` · Digistore24 productId `138897` · [HTML profile page](../../produkte/5-schritte-zur-eigenen-e-mail-liste-47914.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2026-05-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/691074?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/691074"
@@ -22,7 +22,7 @@ language: "de"
 # AI ChatBot Pro – KI-Chatbot mit Terminbuchung und Lead-Erfassung
 
 > Product ID `56672` · Digistore24 productId `691074` · [HTML profile page](../../produkte/ai-chatbot-pro-ki-chatbot-mit-terminbuchung-und-lead-erfassung-56672.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

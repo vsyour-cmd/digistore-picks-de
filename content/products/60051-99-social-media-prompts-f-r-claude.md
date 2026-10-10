@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2026-09-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://nine-to-never.systeme.io/bb724170?aff=adminstore#aff=adminstore"
 sales_page: "https://nine-to-never.systeme.io/bb724170"
@@ -22,7 +22,7 @@ language: "de"
 # 99 Social-Media-Prompts für Claude
 
 > Product ID `60051` · Digistore24 productId `738837` · [HTML profile page](../../produkte/99-social-media-prompts-f-r-claude-60051.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

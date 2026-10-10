@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-10-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://46d7-info.systeme.io/gute-nacht-gedankenkarussell?aff=adminstore#aff=adminstore"
 sales_page: "https://46d7-info.systeme.io/gute-nacht-gedankenkarussell"
@@ -22,7 +22,7 @@ language: "de"
 # Gute Nacht Gedankenkarussell
 
 > Product ID `60099` · Digistore24 productId `738790` · [HTML profile page](../../produkte/gute-nacht-gedankenkarussell-60099.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

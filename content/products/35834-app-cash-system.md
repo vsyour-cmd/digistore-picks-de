@@ -13,7 +13,7 @@ cancel_rate_pct: 2.03
 categories: ["Business & Investment","Computer & Internet","Profession & Job"]
 listed_since: "2020-12-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://app-cash-system.de/start-vsl-1/?aff=adminstore#aff=adminstore"
 sales_page: "https://app-cash-system.de/start-vsl-1/"
@@ -22,7 +22,7 @@ language: "de"
 # App Cash System
 
 > Product ID `35834` · Digistore24 productId `362484` · [HTML profile page](../../produkte/app-cash-system-35834.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

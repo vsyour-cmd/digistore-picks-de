@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Personal Development"]
 listed_since: "2026-09-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.heartful-mindset.de/traumjob-transformation-1?aff=adminstore#aff=adminstore"
 sales_page: "https://www.heartful-mindset.de/traumjob-transformation-1"
@@ -22,7 +22,7 @@ language: "de"
 # Premium Online Kurs "Traumjob Transformation"
 
 > Product ID `59095` · Digistore24 productId `651818` · [HTML profile page](../../produkte/premium-online-kurs-traumjob-transformation-59095.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

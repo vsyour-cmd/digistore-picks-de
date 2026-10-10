@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Law & Justice"]
 listed_since: "2018-06-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://easyrechtssicher.de/webdesigner-agenturen-3/?aff=adminstore#aff=adminstore"
 sales_page: "https://easyrechtssicher.de/webdesigner-agenturen-3/"
@@ -22,7 +22,7 @@ language: "de"
 # Impressum und Datenschutz für Agenturen automatisiert
 
 > Product ID `45625` · Digistore24 productId `228023` · [HTML profile page](../../produkte/impressum-und-datenschutz-f-r-agenturen-automatisiert-45625.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

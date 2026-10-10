@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2020-03-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://kaninchenstallwelt.de/kaninchen-e-book/?aff=adminstore#aff=adminstore"
 sales_page: "https://kaninchenstallwelt.de/kaninchen-e-book/"
@@ -22,7 +22,7 @@ language: "de"
 # DAS Kaninchen & Hasen-E-Book - Ideal für Haustierseiten
 
 > Product ID `32305` · Digistore24 productId `314566` · [HTML profile page](../../produkte/das-kaninchen-hasen-e-book-ideal-f-r-haustierseiten-32305.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

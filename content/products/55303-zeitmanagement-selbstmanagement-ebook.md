@@ -13,7 +13,7 @@ cancel_rate_pct: 6.24
 categories: ["Education","Profession & Job"]
 listed_since: "2026-01-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.sieck-consulting.de/ebook-zeitmanagement/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.sieck-consulting.de/ebook-zeitmanagement/"
@@ -22,7 +22,7 @@ language: "de"
 # Zeitmanagement / Selbstmanagement ebook
 
 > Product ID `55303` · Digistore24 productId `660528` · [HTML profile page](../../produkte/zeitmanagement-selbstmanagement-ebook-55303.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
