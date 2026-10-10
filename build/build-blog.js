@@ -268,13 +268,34 @@ ${EN_GUIDE_SLUGS[label] ? `<p class="sub">Dieser Guide ist auch auf <a href="htt
 }
 
 // ---------- Blog-Index ----------
-// ---------- Head-to-head: Top20 相邻两两对比(德语) ----------
+// ---------- Head-to-head: Top60 同品类相邻配对(德语,≤25 篇) ----------
 function headToHead() {
-  const top = [...products].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)).slice(0, 20);
+  const POOL = 60, MAX_ARTICLES = 25;
+  const top = [...products].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)).slice(0, POOL);
   fs.mkdirSync(path.join(ROOT, "blog"), { recursive: true });
+  // 同品类才值得对比;跨品类的"对比"没有搜索价值
+  const byCat = new Map();
+  for (const p of top) {
+    const cat = (p.categories && p.categories[0]) || "Uncategorized";
+    if (!byCat.has(cat)) byCat.set(cat, []);
+    byCat.get(cat).push(p);
+  }
+  let pairs = [];
+  for (const [, arr] of byCat) {
+    for (let i = 0; i + 1 < arr.length; i += 2) pairs.push([arr[i], arr[i + 1]]);
+  }
+  pairs.sort((a, b) => Math.max(b[0].earningsPerSale || 0, b[1].earningsPerSale || 0) - Math.max(a[0].earningsPerSale || 0, a[1].earningsPerSale || 0));
+  pairs = pairs.slice(0, MAX_ARTICLES);
+  const wanted = new Set(pairs.map(([A, B]) => "vs-" + slug(A.label) + "-vs-" + slug(B.label) + ".html"));
+  // vs-* 是生成物:清理不在当前集合里的过期对比文
+  let pruned = 0;
+  for (const f of fs.readdirSync(path.join(ROOT, "blog"))) {
+    if (f.startsWith("vs-") && f.endsWith(".html") && !wanted.has(f)) { fs.unlinkSync(path.join(ROOT, "blog", f)); pruned++; }
+  }
   let built = 0;
-  for (let i = 0; i + 1 < top.length; i += 2) {
-    const A = top[i], B = top[i + 1];
+  // 短标签:预截断到 22 字符,避免双长标签标题经 capTitle 截断后与产品页同名
+  const t22 = (s) => { s = String(s || "").trim().replace(/\s+/g, " "); if (s.length <= 22) return s; const c = s.slice(0, 22); const sp = c.lastIndexOf(" "); return (sp > 12 ? c.slice(0, sp) : c).replace(/[\s,;:.-]+$/g, "") + "…"; };
+  for (const [A, B] of pairs) {
     const slugName = "vs-" + slug(A.label) + "-vs-" + slug(B.label) + ".html";
     const row = (p, self) => `<tr${self ? ' class="self"' : ""}><td>${self ? `<b>${esc(p.label)}</b>` : `<a href="../produkte/${p.slug}.html">${esc(p.label)}</a>`}</td><td>${esc(p.typeDe)}</td><td><b>${money(p.price, p.currency)}</b></td><td>${pct(p.commission)}</td><td><b>${money(p.earningsPerSale, p.currency)}</b></td><td>${pct(p.conversionRate)}</td><td>${pct(p.cancelRate)}</td></tr>`;
     const pick = (label, p) => `<li><b>${label}:</b> <a href="../produkte/${p.slug}.html">${esc(p.label)}</a> — ${money(p.earningsPerSale, p.currency)}/Verkauf, ${pct(p.commission)} Provision, ${money(p.price, p.currency)}</li>`;
@@ -285,7 +306,7 @@ function headToHead() {
     const body = `<article class="review">
 <h1>${esc(A.label)} vs ${esc(B.label)}: welches passt zu dir?</h1>
 <p class="sub">Direktvergleich · offizielle Marktplatz-Daten vom ${UPDATED} · Teil der <a href="top-20-hoechster-verdienst-digistore24-produkte.html">Top-Verdienst-Serie</a></p>
-<div class="notice"><b>Wie dieser Vergleich entstand:</b> beide Angebote liegen nebeneinander im Top-Verdienst-Ranking. Alle Zahlen sind Anbieter-gemeldete Marktplatz-Daten (Snapshot ${UPDATED}) — ein Vergleich der Listings, kein Praxistest.</div>
+<div class="notice"><b>Wie dieser Vergleich entstand:</b> beide Angebote stammen aus derselben Kategorie und gehören zu den Top-Verdienern der Plattform — ein Vergleich auf Augenhöhe. Alle Zahlen sind Anbieter-gemeldete Marktplatz-Daten (Snapshot ${UPDATED}) — ein Vergleich der Listings, kein Praxistest.</div>
 <div class="tldr"><b>Auf einen Blick:</b>
 <ul>
 <li><b>${esc(A.label)}</b>: ${money(A.price, A.currency)}, ${pct(A.commission)} Provision, ${money(A.earningsPerSale, A.currency)}/Verkauf.</li>
@@ -311,10 +332,10 @@ ${row(B)}
 <p>Beide sind High-Ticket-Listings — die richtige Wahl hängt von Zielgruppe und Bewerbungsstil ab, nicht von einer Kennzahl. Lies beide Vollprofile (oben verlinkt) und prüfe die aktuellen Garantien auf den Verkaufsseiten.</p>
 <p>Alternativen: <a href="../alternativen/${A.slug}.html">Alternativen zu ${esc(A.label)}</a> · <a href="../alternativen/${B.slug}.html">Alternativen zu ${esc(B.label)}</a></p>
 </article>`;
-    fs.writeFileSync(path.join(ROOT, "blog", slugName), layout({ title: `${A.label} vs ${B.label} — welches passt zu dir? — ${SITE_NAME}`, desc: `${A.label} (${money(A.price, A.currency)}) vs ${B.label} (${money(B.price, B.currency)}): Preis, Provision, Konversion und Stornoquote im Vergleich auf offiziellen Marktplatz-Daten.`, body, rel: "..", file: slugName }));
+    fs.writeFileSync(path.join(ROOT, "blog", slugName), layout({ title: `${t22(A.label)} vs ${t22(B.label)}: welches passt zu dir?`, desc: `${A.label} (${money(A.price, A.currency)}) vs ${B.label} (${money(B.price, B.currency)}): Preis, Provision, Konversion und Stornoquote im Vergleich auf offiziellen Marktplatz-Daten.`, body, rel: "..", file: slugName }));
     built++;
   }
-  console.log("head-to-head (DE):", built, "Artikel");
+  console.log("head-to-head (DE):", built, "Artikel" + (pruned ? ", " + pruned + " alte entfernt" : ""));
 }
 
 function blogIndex() {

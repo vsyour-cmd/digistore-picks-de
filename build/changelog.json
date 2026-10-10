@@ -3,6 +3,15 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "Head-to-Head-Vergleiche auf 25 erweitert mit Pairing auf Augenhöhe: Produkte derselben Kategorie innerhalb der Top-60-Verdiener (Nahrungsergänzung vs. Nahrungsergänzung, Kurs vs. Kurs). Veraltete Vergleichsseiten werden beim Neuaufbau automatisch entfernt; Titel mit vorgekürzten Labels verhindern Kollisionen mit Produktseiten.",
+      "changes": [
+        "25 Head-to-Head-Artikel, kategoriebasiertes Pairing aus den Top-60-Verdienern",
+        "10 veraltete vs-* Seiten beim Neuaufbau entfernt (automatische Bereinigung)",
+        "Titel-Kollision mit Produktseiten durch vorgekürzte 22-Zeichen-Labels behoben"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "Promo-Link-Audit: alle 5.388 Affiliate-Links live geprüft (94,4 % erreichbar). 139 defekt — ausnahmslos Anbieter-seitig: 18 Digistore24-Weiterleitungen für eingestellte Angebote (Produktseiten bestätigen 404), ein Anbieter blockiert automatisierte Abrufe komplett (34 Links), verstreute 404/5xx. 161 Timeouts bei langsamen/toten Anbieter-Servern. Neues wiederverwendbares Audit-Tool.",
       "changes": [
         "audit-promo-links.js: curl-basierter Prüflauf (Node-fetch-TLS wird von der digistore24.com-Kante zurückgesetzt; curl funktioniert), URL-Dedup, Nebenläufigkeit 16",
