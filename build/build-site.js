@@ -1182,7 +1182,7 @@ function vendorHubs() {
     .filter(([, arr]) => arr.length >= 2)
     .map(([k, arr]) => ({ name: k, items: arr.sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)) }))
     .sort((a, b) => b.items.length - a.items.length)
-    .slice(0, 40);
+    .slice(0, 100);
   const dir = outPath("hersteller");
   fs.mkdirSync(dir, { recursive: true });
   for (const v of vendors) {
@@ -1212,10 +1212,16 @@ ${catObj ? `<p>Primärkategorie: <a href="../kategorie/${catObj.file}.html">${es
     }];
     fs.writeFileSync(path.join(dir, vslug + ".html"), layout({ title: `${v.name} — ${n} Produkte, Preise & Marktplatz-Daten`, desc: `Alle ${n} Digistore24-Produkte des Anbieters ${v.name}: Preise, Provisionen, Konversion und Stornoquoten. Offizielle Marktplatz-Daten, Stand ${datemark(DATA.scrapedAt)}.`, body, rel: "..", path: `hersteller/${vslug}.html`, jsonLd, crumb: [{ label: "Start", href: "../index.html" }, { label: v.name, href: `../hersteller/${vslug}.html` }] }));
   }
+  // hub 页是生成物:清理不在当前集合里的过期 hub(厂商改名/掉出 Top100)
+  const wantedHubs = new Set(vendors.map((v) => slug(v.name) + ".html"));
+  let prunedHubs = 0;
+  for (const f of fs.readdirSync(dir)) {
+    if (f.endsWith(".html") && f !== "index.html" && !wantedHubs.has(f)) { fs.unlinkSync(path.join(dir, f)); prunedHubs++; }
+  }
   const list = vendors.map((v) => `<li><a href="${slug(v.name)}.html">${esc(v.name)}</a> — ${v.items.length} Produkte</li>`).join("");
   const idxBody = `<h1>Anbieter auf Digistore24 (Top ${vendors.length} nach Kataloggröße)</h1><p class="sub">Anbieter-Hubs mit allen Listings und Marktplatz-Daten. Stand ${datemark(DATA.scrapedAt)}.</p><ul style="line-height:2">${list}</ul>`;
   fs.writeFileSync(path.join(dir, "index.html"), layout({ title: `Anbieter-Verzeichnis — ${SITE_NAME}`, desc: `Top Digistore24-Anbieter mit ihren Produkten und offiziellen Marktplatz-Statistiken.`, body: idxBody, rel: "..", path: "hersteller/index.html" }));
-  console.log("vendor hubs:", vendors.length);
+  console.log("vendor hubs:", vendors.length + (prunedHubs ? ", " + prunedHubs + " stale pruned" : ""));
 }
 
 function trustPages() {

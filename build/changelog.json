@@ -3,6 +3,15 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "Anbieter-Hubs auf 100 erweitert (jeder Anbieter mit 2+ Listings, sortiert nach Kataloggröße; 554 Kandidaten). Veraltete Hub-Seiten werden beim Neuaufbau automatisch entfernt.",
+      "changes": [
+        "60 neue Anbieter-Entitätsseiten mit Produkttabellen und ItemList-Markup",
+        "Auto-Bereinigung veralteter Hubs in den Build aufgenommen",
+        "Anbieter-Verzeichnis listet jetzt alle 100"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "Head-to-Head-Vergleiche auf 25 erweitert mit Pairing auf Augenhöhe: Produkte derselben Kategorie innerhalb der Top-60-Verdiener (Nahrungsergänzung vs. Nahrungsergänzung, Kurs vs. Kurs). Veraltete Vergleichsseiten werden beim Neuaufbau automatisch entfernt; Titel mit vorgekürzten Labels verhindern Kollisionen mit Produktseiten.",
       "changes": [
         "25 Head-to-Head-Artikel, kategoriebasiertes Pairing aus den Top-60-Verdienern",
