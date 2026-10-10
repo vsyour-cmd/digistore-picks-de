@@ -3,6 +3,15 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "Promo-Link-Audit: alle 5.388 Affiliate-Links live geprüft (94,4 % erreichbar). 139 defekt — ausnahmslos Anbieter-seitig: 18 Digistore24-Weiterleitungen für eingestellte Angebote (Produktseiten bestätigen 404), ein Anbieter blockiert automatisierte Abrufe komplett (34 Links), verstreute 404/5xx. 161 Timeouts bei langsamen/toten Anbieter-Servern. Neues wiederverwendbares Audit-Tool.",
+      "changes": [
+        "audit-promo-links.js: curl-basierter Prüflauf (Node-fetch-TLS wird von der digistore24.com-Kante zurückgesetzt; curl funktioniert), URL-Dedup, Nebenläufigkeit 16",
+        "Keine Link-Änderungen nötig — alle defekten Links sind Anbieter-seitig",
+        "Folgeaufgabe notiert: die 18 Weiterleitungen eingestellter Angebote beobachten"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "Käufer-Vertrauensseiten: drei neue seitenweite Seiten — Rückerstattung, Seriosität und Kauf-Checkliste. Basieren auf offiziellen Digistore24-Angaben plus eigenem Garantie-Scan (nur 10 % der deutschen Verkaufsseiten nennen Garantie-Formulierungen direkt; wo Tage genannt werden: 90 am häufigsten). QA-Fix: Sitemap-Abdeckung ist jetzt eine echte Prüfung.",
       "changes": [
         "3 neue deutsche Käufer-Seiten (Rückerstattung / Seriosität / Checkliste), seitenweit im Footer verlinkt",

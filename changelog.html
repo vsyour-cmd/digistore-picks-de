@@ -36,6 +36,9 @@
 <h1>Neuigkeiten auf DigistorePicks DE</h1>
 <p class="sub">Jede Verbesserung, täglich protokolliert. Die Marktplatz-Daten aktualisieren sich jeden Morgen automatisch — die Zahlen auf der gesamten Website aktualisieren sich mit.</p>
 <h2>2026-10-10</h2>
+<p>Promo-Link-Audit: alle 5.388 Affiliate-Links live geprüft (94,4 % erreichbar). 139 defekt — ausnahmslos Anbieter-seitig: 18 Digistore24-Weiterleitungen für eingestellte Angebote (Produktseiten bestätigen 404), ein Anbieter blockiert automatisierte Abrufe komplett (34 Links), verstreute 404/5xx. 161 Timeouts bei langsamen/toten Anbieter-Servern. Neues wiederverwendbares Audit-Tool.</p>
+<ul><li>audit-promo-links.js: curl-basierter Prüflauf (Node-fetch-TLS wird von der digistore24.com-Kante zurückgesetzt; curl funktioniert), URL-Dedup, Nebenläufigkeit 16</li><li>Keine Link-Änderungen nötig — alle defekten Links sind Anbieter-seitig</li><li>Folgeaufgabe notiert: die 18 Weiterleitungen eingestellter Angebote beobachten</li></ul>
+<h2>2026-10-10</h2>
 <p>Käufer-Vertrauensseiten: drei neue seitenweite Seiten — Rückerstattung, Seriosität und Kauf-Checkliste. Basieren auf offiziellen Digistore24-Angaben plus eigenem Garantie-Scan (nur 10 % der deutschen Verkaufsseiten nennen Garantie-Formulierungen direkt; wo Tage genannt werden: 90 am häufigsten). QA-Fix: Sitemap-Abdeckung ist jetzt eine echte Prüfung.</p>
 <ul><li>3 neue deutsche Käufer-Seiten (Rückerstattung / Seriosität / Checkliste), seitenweit im Footer verlinkt</li><li>Sitemap: changelog.html + die 3 Vertrauensseiten ergänzt</li><li>qa-links.js: wirkungsloser Sitemap-Abdeckungsfilter repariert — fehlende Seiten werden jetzt gemeldet</li></ul>
 <h2>2026-10-10</h2>
