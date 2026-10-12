@@ -2,6 +2,18 @@
   "site": "de",
   "entries": [
     {
+      "date": "2026-10-13",
+      "summary": "Inhalts-Überholung: jede Kategorie hat jetzt ein 50-Fragen-Käufer-FAQ (jede Antwort aus den eigenen Marktplatz-Zahlen der Kategorie berechnet), Produktseiten haben Reddit-Community-Blöcke (~5 Links: echte Subreddits plus Live-Suchen, kuratierte Käuferfragen bei Schwerpunkt-Angeboten) und einen Amazon.de-Block (Partner-tag adminstorede-21). Neu: /amazon-picks.html mit internationalen Picks und Kategorie-Shortcuts. Marktplatz-Daten weiterhin auf Stand 2026-10-10; ein Frische-Wächter bricht den Build laut ab, wenn der Scrape älter als 26 Stunden ist.",
+      "changes": [
+        "FAQ-Hubs: 45 Kategorieseiten unter faq/{kategorie}.html — je 50 datengetriebene F&A (Kosten, Rückerstattung, Vertrauen, Kaufberatung, Daten & Methode) mit FAQPage-Markup",
+        "Produktseiten: 'Auf Reddit diskutieren' (Subreddit-Map + Live-Suchen), 'Passendes auf Amazon.de' mit Werbe-Kennzeichnung, Link zum kompletten Kategorie-FAQ",
+        "Amazon: /amazon-picks.html — internationale Picks (amzn.to) plus 42 Kategorie-Shortcuts auf amazon.de (tag adminstorede-21); Picks konfigurierbar über data/amazon-picks.json",
+        "Kuratierte 20-Fragen-Sets aus der Community-Recherche in die sechs Schwerpunkt-Angebote eingespielt",
+        "FAQ-Quervernetzung (Ring); Niedrig-Inlink-Kohorte 27 (strukturelle Pagination)",
+        "Frische-Wächter: build-dataset-de bricht mit expliziter Re-Login-Anweisung ab, wenn der Marktplatz-Scrape veraltet ist — keine stille Veröffentlichung eingefrorener Daten mehr"
+      ]
+    },
+    {
       "date": "2026-10-12",
       "summary": "Kategorieseiten verbessert: jede Kategorieseite (inkl. Pagination) hat jetzt einen Auf-einen-Blick-Block und eine Top-10-Verdienst-Tabelle — die DE-Vorlage enthielt die Tabelle noch nicht, nachgetragen. Tagesartikel: die hächsten Stornoquoten auf Digistore24. Dazu live: Anbieter-Hub-Inlinks, llms-full Erweiterung (Top 500 + Indizes), Guide-Verlinkung. Marktplatz-Scrape heute ausgesetzt (Session-Tooling) — Datenstand 2026-10-10.",
       "changes": [
