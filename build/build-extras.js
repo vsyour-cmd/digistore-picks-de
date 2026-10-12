@@ -49,6 +49,8 @@ add("digistore24-rueckerstattung.html", TODAY);
 add("ist-digistore24-sicher.html", TODAY);
 add("sicher-kaufen.html", TODAY);
 add("produkte/index.html", DATA_DATE);
+// 分类 FAQ 枢纽页(50 问/分类)
+for (const c of DATA.categories) add(`faq/${c.file}.html`, TODAY);
 // 目录扫描:分类(含分页)/对比页/Best-of/博客
 for (const d of ["kategorie", "alternativen", "empfehlungen", "blog", "hersteller"]) {
   const dir = path.join(ROOT, d);
