@@ -1,4 +1,4 @@
-# DigistorePicks — vollständiger Datensatz (Top 300 nach Verdienst/Verkauf)
+# DigistorePicks — vollständiger Datensatz (Top 500 nach Verdienst/Verkauf)
 
 > Kompakte Referenz für LLM-Retrieval. Alle Zahlen sind Anbieter-seitige Digistore24-Marktplatz-Statistiken vom 2026-10-10, keine Prognosen. Produktseiten: https://vsyour-cmd.github.io/digistore-picks-de/produkte/
 
@@ -302,3 +302,354 @@
 - Profit Maxima - Profite einfach steigern | Member area and video courses | $262.44 | commission 40% | earnings/sale $151.44 | conversion 3.0% | cancel 1.6% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/profit-maxima-profite-einfach-steigern-44122.html
 - Ihre eigene automatisierte Kalender  "Termin Buchungssystem" | Remote service provided electronically | $504.27 | commission 30% | earnings/sale $151.28 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/ihre-eigene-automatisierte-kalender-termin-buchungssystem-58766.html
 - Der Kern der Verträglichkeit - Fuktoseintoleranz Edition | Member area and video courses | $302.28 | commission 50% | earnings/sale $151.15 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/der-kern-der-vertr-glichkeit-fuktoseintoleranz-edition-48233.html
+- Das vergessene Organ - Exokrine Pankreasinsuffizienz Kurs | Member area and video courses | $302.28 | commission 50% | earnings/sale $151.15 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/das-vergessene-organ-exokrine-pankreasinsuffizienz-kurs-50235.html
+- KapitelZwei | Member area and video courses | $249.92 | commission 60% | earnings/sale $148.70 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/kapitelzwei-57041.html
+- Geldwert-Protektor Premium Online Ausbildung | Member area and video courses | $585.09 | commission 40% | earnings/sale $147.24 | conversion 3.0% | cancel 2.8% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/geldwert-protektor-premium-online-ausbildung-41553.html
+- Affiliate Cash Club | Member area and video courses | $489.70 | commission 30% | earnings/sale $146.91 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/affiliate-cash-club-39052.html
+- UNLIMITED - Eltern-Kind-Programm von Zauberhafte Babyhände® | Member area and video courses | $122.87 | commission 50% | earnings/sale $146.84 | conversion 8.0% | cancel 4.4% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/unlimited-eltern-kind-programm-von-zauberhafte-babyh-nde-55092.html
+- 130 € Provision Hypnose-Intensiv-Workshop in Berlin bewerben | Seminar for business customers | $654.46 | commission 0% | earnings/sale $145.68 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/130-provision-hypnose-intensiv-workshop-in-berlin-bewerben-57686.html
+- Baglama lernen mit Cemil Aydemir | Member area and video courses | $111.31 | commission 40% | earnings/sale $144.92 | conversion 20.0% | cancel 9.9% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/baglama-lernen-mit-cemil-aydemir-27841.html
+- Videokurs "Cashflow-Formel für Immobilien-Investments" | Member area and video courses | $479.31 | commission 30% | earnings/sale $143.80 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/videokurs-cashflow-formel-f-r-immobilien-investments-25587.html
+- Das große Mentoring Paket für Hinterbliebene | Online coaching | $41.20 | commission 15% | earnings/sale $143.01 | conversion 18.0% | cancel 0.5% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/das-gro-e-mentoring-paket-f-r-hinterbliebene-55964.html
+- Malbuch Masterclass | Member area and video courses | $258.66 | commission 30% | earnings/sale $142.38 | conversion 11.0% | cancel 6.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/malbuch-masterclass-53107.html
+- Simple Lead Machine | Partnerprogramm | Member area and video courses | $189.15 | commission 50% | earnings/sale $142.24 | conversion 1.0% | cancel 2.4% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/simple-lead-machine-partnerprogramm-49033.html
+- Business Playbook | Member area and video courses | $1411.96 | commission 10% | earnings/sale $141.20 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/business-playbook-46937.html
+- Der MPU Masterplan - Online auf die Alkohol MPU vorbereiten | Member area and video courses | $469.90 | commission 30% | earnings/sale $140.97 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/der-mpu-masterplan-online-auf-die-alkohol-mpu-vorbereiten-32904.html
+- FLEX3 - Online auf die Drogen MPU vorbereiten | Member area and video courses | $469.90 | commission 30% | earnings/sale $140.97 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/flex3-online-auf-die-drogen-mpu-vorbereiten-36417.html
+- Neurostreams™ ALLES ( Download) | Downloads | $281.56 | commission 50% | earnings/sale $140.78 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/neurostreams-alles-download-47007.html
+- Im Leben klar, in Krisen stark - mit LifeSkripting® | Member area and video courses | $281.56 | commission 50% | earnings/sale $140.78 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/im-leben-klar-in-krisen-stark-mit-lifeskripting-56022.html
+- Storycodes - Die Architektur hinter täglichen Story-Sales | Member area and video courses | $281.56 | commission 50% | earnings/sale $140.78 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/storycodes-die-architektur-hinter-t-glichen-story-sales-55739.html
+- Faszien-Yoga Onlinekurs – 50 % Affiliate-Provision | Member area and video courses | $281.56 | commission 50% | earnings/sale $140.78 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/faszien-yoga-onlinekurs-50-affiliate-provision-55922.html
+- Unternehmer Kompass | Member area and video courses | $281.56 | commission 50% | earnings/sale $140.78 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/unternehmer-kompass-32054.html
+- ETERNUM Komplett-Paket – 9 Produkte, über 500 € Wert | 249 € | Member area and video courses | $234.47 | commission 60% | earnings/sale $140.68 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/eternum-komplett-paket-9-produkte-ber-500-wert-249-57158.html
+- NFT Akademie Grundkurs - From Zero To Moon | Member area and video courses | $562.18 | commission 25% | earnings/sale $140.55 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/nft-akademie-grundkurs-from-zero-to-moon-39379.html
+- 6D-Affirmationen - MLM - Erfolgs-Booster | Downloads | $468.02 | commission 30% | earnings/sale $140.41 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/6d-affirmationen-mlm-erfolgs-booster-34113.html
+- Aivatar Academy – Die Nr.1-Community für Premium KI-Avatare | Member area and video courses | $220.76 | commission 50% | earnings/sale $140.14 | conversion 7.0% | cancel 0.7% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/aivatar-academy-die-nr-1-community-f-r-premium-ki-avatare-54689.html
+- Werde Digitaler Assistent: Starte dein Home-Office Business | Member area and video courses | $279.68 | commission 50% | earnings/sale $139.84 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/werde-digitaler-assistent-starte-dein-home-office-business-55416.html
+- 1x1 Guru: Das Einmaleins lernen mit innovativer Lernmethode | Member area and video courses | $279.68 | commission 50% | earnings/sale $139.84 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/1x1-guru-das-einmaleins-lernen-mit-innovativer-lernmethode-23035.html
+- Egregoren - Wie wir seit 10.000 Jahren kontrolliert werden | Webinar | $279.68 | commission 50% | earnings/sale $139.84 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/egregoren-wie-wir-seit-10-000-jahren-kontrolliert-werden-38151.html
+- Online-Kurs: GEHALTSSPRUNG für "SIE"! | Member area and video courses | $279.68 | commission 50% | earnings/sale $139.84 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/online-kurs-gehaltssprung-f-r-sie-51908.html
+- Die Rettungsweste für dein Geld - Onlinekurs | Member area and video courses | $279.68 | commission 50% | earnings/sale $139.84 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/die-rettungsweste-f-r-dein-geld-onlinekurs-31407.html
+- Online Hormonkurs: PMS verstehen - natürlich handeln | Member area and video courses | $279.68 | commission 50% | earnings/sale $139.84 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/online-hormonkurs-pms-verstehen-nat-rlich-handeln-59720.html
+- Webseite 3-4Page erstellen mit 499 euro | Remote service provided electronically | $559.18 | commission 25% | earnings/sale $139.79 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/webseite-3-4page-erstellen-mit-499-euro-54403.html
+- Newsletter Ghostwriter | Downloads | $297.53 | commission 50% | earnings/sale $139.69 | conversion 15.0% | cancel 3.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/newsletter-ghostwriter-52880.html
+- TrafficBooster - Traffic wie am Fließband | Member area and video courses | $262.44 | commission 40% | earnings/sale $139.20 | conversion 3.0% | cancel 1.6% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/trafficbooster-traffic-wie-am-flie-band-44120.html
+- Verkaufsschlager: Easy Income System - von Gunnar Kessler | Member area and video courses | $164.73 | commission 50% | earnings/sale $139.18 | conversion 11.0% | cancel 27.1% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/verkaufsschlager-easy-income-system-von-gunnar-kessler-16957.html
+- Singen lernen- Kurs mit Susanna Proskura | Member area and video courses | $347.48 | commission 40% | earnings/sale $138.99 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/singen-lernen-kurs-mit-susanna-proskura-35195.html
+- Klavier lernen mit Andreas Czeppel | Member area and video courses | $347.48 | commission 40% | earnings/sale $138.99 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/klavier-lernen-mit-andreas-czeppel-4727.html
+- Story Mastery | Member area and video courses | $336.36 | commission 50% | earnings/sale $137.05 | conversion 10.0% | cancel 0.8% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/story-mastery-55686.html
+- AI4ALL.tools – 49+ KI-Tools für Marketing und Business | Member area and video courses | $271.21 | commission 50% | earnings/sale $135.60 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/ai4all-tools-49-ki-tools-f-r-marketing-und-business-57749.html
+- Rechtschreibprogramm | Member area and video courses | $1344.72 | commission 10% | earnings/sale $134.47 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/rechtschreibprogramm-57379.html
+- WOWING | Downloads | $671.24 | commission 20% | earnings/sale $134.25 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/wowing-28047.html
+- Automation Studio – Wiederkehrende Abläufe für Windows | Software | $335.06 | commission 40% | earnings/sale $134.02 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/automation-studio-wiederkehrende-abl-ufe-f-r-windows-60127.html
+- GlucoTrust German Version | Supplements - health | $202.53 | commission 60% | earnings/sale $133.52 | conversion 12.0% | cancel 9.5% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/glucotrust-german-version-53407.html
+- CLNDSK365 - Die Handwerkersoftware | Software | $444.88 | commission 30% | earnings/sale $133.46 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/clndsk365-die-handwerkersoftware-55446.html
+- KI-Mitarbeiter-System - Das Original | Member area and video courses | $265.58 | commission 50% | earnings/sale $132.79 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/ki-mitarbeiter-system-das-original-57447.html
+- Prime Time Tipps Fussball Analysen | Member area and video courses | $329.59 | commission 40% | earnings/sale $131.84 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/prime-time-tipps-fussball-analysen-35263.html
+- Der Perspektivwechsel - Premium | Online coaching | $658.23 | commission 20% | earnings/sale $131.65 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/der-perspektivwechsel-premium-59401.html
+- Bühner Invest Informationsdienst | Downloads | $375.73 | commission 35% | earnings/sale $131.50 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/b-hner-invest-informationsdienst-687.html
+- Prompting Kurs 2.0 Prompt Engineering inkl. Context Engin. | Member area and video courses | $328.65 | commission 40% | earnings/sale $131.46 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/prompting-kurs-2-0-prompt-engineering-inkl-context-engin-58353.html
+- KI-Komplett-System | 10% Conversion auf Anmeldungen! | Member area and video courses | $187.04 | commission 50% | earnings/sale $131.23 | conversion 9.0% | cancel 2.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/ki-komplett-system-10-conversion-auf-anmeldungen-51672.html
+- AI-Influencer System | Member area and video courses | $187.04 | commission 50% | earnings/sale $131.23 | conversion 9.0% | cancel 2.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/ai-influencer-system-55780.html
+- TigerFormel: 70% Provision! Potenz-Supplement mit hohem Warenkorb (physisches Produkt) | Supplements - for slimming | $187.47 | commission 70% | earnings/sale $131.22 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/tigerformel-70-provision-potenz-supplement-mit-hohem-warenkorb-physisches-produkt-57656.html
+- PotenzFormel: 70% Provision! Video-Komplettpaket für die Männer-Nische (Potenz und Erektion) | Downloads | $187.40 | commission 70% | earnings/sale $131.18 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/potenzformel-70-provision-video-komplettpaket-f-r-die-m-nner-nische-potenz-und-erektion-57672.html
+- 14 Tage Detox-Plan | Member area and video courses | $262.22 | commission 50% | earnings/sale $131.11 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/14-tage-detox-plan-51867.html
+- Internet Cash Machine Online - von Gunnar Kessler | Member area and video courses | $276.26 | commission 40% | earnings/sale $129.51 | conversion 19.0% | cancel 22.1% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/internet-cash-machine-online-von-gunnar-kessler-26706.html
+- SPS Das Copy-Paste Prinzip | Downloads | $258.96 | commission 50% | earnings/sale $129.49 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/sps-das-copy-paste-prinzip-55326.html
+- Webseite in 48 – Webseiten-Paket zum Upload | Member area and video courses | $83.44 | commission 30% | earnings/sale $129.22 | conversion 4.0% | cancel 0.8% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/webseite-in-48-webseiten-paket-zum-upload-52918.html
+- KetoSana - Metabolic Breakthrough Drops (DACH Market) | Supplements - for slimming | $188.40 | commission 65% | earnings/sale $129.14 | conversion 20.0% | cancel 6.5% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/ketosana-metabolic-breakthrough-drops-dach-market-55260.html
+- Faceless Cash Code | Member area and video courses | $258.02 | commission 50% | earnings/sale $129.01 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/faceless-cash-code-50222.html
+- GASTROWORKS Profi Speisekalkulation | Downloads | $257.74 | commission 50% | earnings/sale $128.87 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/gastroworks-profi-speisekalkulation-21249.html
+- „Zurück zum Ursprung - Magen Darm Edition“ | Member area and video courses | $429.94 | commission 33% | earnings/sale $127.22 | conversion 17.0% | cancel 2.4% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/zur-ck-zum-ursprung-magen-darm-edition-42630.html
+- Digitale Vistenkarten - 50% Lifetime | Software | $254.25 | commission 50% | earnings/sale $127.13 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/digitale-vistenkarten-50-lifetime-58630.html
+- ReichweitenBooster | Member area and video courses | $331.61 | commission 50% | earnings/sale $127.11 | conversion 11.0% | cancel 0.8% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/reichweitenbooster-55693.html
+- Sprecher werden - In 1 Jahr zum Profisprecher - Basis | Online coaching | $632.02 | commission 20% | earnings/sale $126.40 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/sprecher-werden-in-1-jahr-zum-profisprecher-basis-43264.html
+- Sketchnotes Figuren Meisterkurs (Online) | Member area and video courses | $504.27 | commission 25% | earnings/sale $126.07 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/sketchnotes-figuren-meisterkurs-online-42770.html
+- Onlinebusiness-Heldin: Dein Onlinebusiness in 3 Monaten | Member area and video courses | $418.11 | commission 30% | earnings/sale $125.43 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/onlinebusiness-heldin-dein-onlinebusiness-in-3-monaten-47774.html
+- Premiumangebot Entspannung beginnt im Kopf | Telephone coaching | $418.11 | commission 30% | earnings/sale $125.43 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/premiumangebot-entspannung-beginnt-im-kopf-56115.html
+- AI Mastery | Member area and video courses | $331.79 | commission 50% | earnings/sale $125.01 | conversion 10.0% | cancel 0.8% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/ai-mastery-55692.html
+- Systemischer Business-Coach (m/w/d) | Member area and video courses | $277.80 | commission 45% | earnings/sale $125.01 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/systemischer-business-coach-m-w-d-56451.html
+- KI SpeedCash | Member area and video courses | $322.62 | commission 50% | earnings/sale $125.00 | conversion 10.0% | cancel 0.9% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/ki-speedcash-47732.html
+- GRATIS Social Media Vorlagen | Member area and video courses | $183.91 | commission 100% | earnings/sale $124.75 | conversion 9.0% | cancel 1.8% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/gratis-social-media-vorlagen-41474.html
+- IG Automation | Member area and video courses | $331.83 | commission 50% | earnings/sale $124.22 | conversion 11.0% | cancel 0.8% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/ig-automation-55688.html
+- Zeichenkurs „Vom Anfänger zum Meister" Realistisch zeichnen | Member area and video courses | $279.68 | commission 50% | earnings/sale $123.13 | conversion 3.0% | cancel 2.4% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/zeichenkurs-vom-anf-nger-zum-meister-realistisch-zeichnen-54949.html
+- Orbli – So klebrig waren Provisionen noch nie! | Remote service provided electronically | $409.02 | commission 30% | earnings/sale $122.71 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/orbli-so-klebrig-waren-provisionen-noch-nie-54919.html
+- 1-Klick Copy+Paste 100K Business | Partnerprogramm | Member area and video courses | $250.62 | commission 50% | earnings/sale $122.43 | conversion 2.0% | cancel 0.9% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/1-klick-copy-paste-100k-business-partnerprogramm-41946.html
+- Bodo Schäfer: Wahrer Wohlstand (Online Video-Coaching) | Member area and video courses | $609.27 | commission 20% | earnings/sale $121.85 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/bodo-sch-fer-wahrer-wohlstand-online-video-coaching-53029.html
+- Online Business - Start System | Downloads | $187.40 | commission 65% | earnings/sale $121.81 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/online-business-start-system-59279.html
+- The Affiliate Academy Plus | Member area and video courses | $376.67 | commission 50% | earnings/sale $120.61 | conversion 3.0% | cancel 9.3% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/the-affiliate-academy-plus-51269.html
+- Ausbildung Mikroimmuntherapie für Fachpersonen | Member area and video courses | $1205.77 | commission 10% | earnings/sale $120.58 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/ausbildung-mikroimmuntherapie-f-r-fachpersonen-45775.html
+- Die Smartphone Cashmaschine | Member area and video courses | $329.96 | commission 50% | earnings/sale $120.34 | conversion 10.0% | cancel 0.8% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/die-smartphone-cashmaschine-55700.html
+- [Live] Sportwetten mit KI | Software | +10% Conversion | Member area and video courses | $343.71 | commission 35% | earnings/sale $120.30 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/live-sportwetten-mit-ki-software-10-conversion-56820.html
+- FlyCalm Ultimate – Der Komplettkurs gegen Flugangst | Member area and video courses | $240.13 | commission 50% | earnings/sale $120.07 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/flycalm-ultimate-der-komplettkurs-gegen-flugangst-55365.html
+- Sichtbarkeits-Masterclass - Der Aufbau einer Personenmarke | Member area and video courses | $240.13 | commission 50% | earnings/sale $120.07 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/sichtbarkeits-masterclass-der-aufbau-einer-personenmarke-38134.html
+- 7Onliners - Die Affiliate Cash Maschine | Member area and video courses | $398.93 | commission 30% | earnings/sale $119.68 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/7onliners-die-affiliate-cash-maschine-38375.html
+- IG Content BootCamp | Member area and video courses | $331.83 | commission 50% | earnings/sale $119.13 | conversion 11.0% | cancel 0.8% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/ig-content-bootcamp-55691.html
+- Tierschutz-Guide – inkl. Premium Plus Paket | Downloads | $474.61 | commission 25% | earnings/sale $118.65 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/tierschutz-guide-inkl-premium-plus-paket-55212.html
+- Liebeskummer Extrem! | Onlinekurs | Downloads | $338.06 | commission 35% | earnings/sale $118.32 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/liebeskummer-extrem-onlinekurs-40071.html
+- ETERNUM KI-Komplettsystem GOLD – 5 KI-Ratgeber für Einsteige | Downloads | $196.81 | commission 60% | earnings/sale $118.09 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/eternum-ki-komplettsystem-gold-5-ki-ratgeber-f-r-einsteige-57404.html
+- TOXISCHE BEZIEHUNGEN - Das Komplettpaket | Katja Amberg | Downloads | $469.90 | commission 25% | earnings/sale $117.47 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/toxische-beziehungen-das-komplettpaket-katja-amberg-32998.html
+- Pinterest Mastery - Geld verdienen und Traffic mit Pinterest | Member area and video courses | $257.20 | commission 50% | earnings/sale $117.45 | conversion 3.0% | cancel 1.7% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/pinterest-mastery-geld-verdienen-und-traffic-mit-pinterest-44124.html
+- Word-Vorlage für die DSGVO-Dokumentation | Downloads | $391.09 | commission 30% | earnings/sale $117.33 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/word-vorlage-f-r-die-dsgvo-dokumentation-27031.html
+- Excel-Vorlage für die DSGVO-Dokumentation | Downloads | $391.09 | commission 30% | earnings/sale $117.33 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/excel-vorlage-f-r-die-dsgvo-dokumentation-27030.html
+- EasyInsta Ai – Instagram-Content in Sekunden | Member area and video courses | $335.06 | commission 35% | earnings/sale $117.27 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/easyinsta-ai-instagram-content-in-sekunden-49619.html
+- Provi Magnet - Das einfachste Affiliate-System der Welt | Member area and video courses | $174.96 | commission 40% | earnings/sale $116.84 | conversion 5.0% | cancel 1.6% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/provi-magnet-das-einfachste-affiliate-system-der-welt-43784.html
+- TikTok Masterclass - Traffic und Geld verdienen mit TikTok | Member area and video courses | $262.44 | commission 50% | earnings/sale $116.84 | conversion 3.0% | cancel 1.6% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/tiktok-masterclass-traffic-und-geld-verdienen-mit-tiktok-44121.html
+- Nischen-Challenge - Videokurs | Downloads | $232.59 | commission 50% | earnings/sale $116.30 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/nischen-challenge-videokurs-37116.html
+- Mental Health Depression lösen - health-generation | Member area and video courses | $232.59 | commission 50% | earnings/sale $116.30 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/mental-health-depression-l-sen-health-generation-48733.html
+- LifeCoaching Pro Stress, Angst lösen - health-generation | Member area and video courses | $232.59 | commission 50% | earnings/sale $116.30 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/lifecoaching-pro-stress-angst-l-sen-health-generation-48734.html
+- Posting Mastery | Member area and video courses | $331.83 | commission 50% | earnings/sale $116.15 | conversion 11.0% | cancel 0.8% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/posting-mastery-55687.html
+- Das 24 Minuten Cash System - von Gunnar Kessler | Member area and video courses | $102.13 | commission 50% | earnings/sale $115.11 | conversion 21.0% | cancel 18.9% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/das-24-minuten-cash-system-von-gunnar-kessler-31921.html
+- Hook Mastery | Member area and video courses | $25.43 | commission 50% | earnings/sale $114.90 | conversion 9.0% | cancel 0.8% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/hook-mastery-55683.html
+- Jetzt die Suchtakademie (Onlinekurs) bewerben | Member area and video courses | $574.43 | commission 20% | earnings/sale $114.88 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/jetzt-die-suchtakademie-onlinekurs-bewerben-47723.html
+- Punktgenau Akupressur + Akupunktur – Fundiert, Alltag | Member area and video courses | $347.48 | commission 33% | earnings/sale $114.67 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/punktgenau-akupressur-akupunktur-fundiert-alltag-55061.html
+- Caption Mastery | Member area and video courses | $337.50 | commission 50% | earnings/sale $114.28 | conversion 11.0% | cancel 0.8% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/caption-mastery-55685.html
+- PRIXUS CallButler – KI-Telefonassistent für Unternehmen | 30% Provision | Software | $375.73 | commission 30% | earnings/sale $112.72 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/prixus-callbutler-ki-telefonassistent-f-r-unternehmen-30-provision-55969.html
+- MyDF-Alive Publish Studio-24 Monate Zugang | Software | $375.73 | commission 30% | earnings/sale $112.72 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/mydf-alive-publish-studio-24-monate-zugang-56876.html
+- Adobe Lightroom Classic - Komplettkurs 2025 | Member area and video courses | $281.56 | commission 40% | earnings/sale $112.62 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/adobe-lightroom-classic-komplettkurs-2025-44530.html
+- Kreative Content-Erstellung mit KI: In 7 Stunden zum eigenen | Member area and video courses | $281.56 | commission 40% | earnings/sale $112.62 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/kreative-content-erstellung-mit-ki-in-7-stunden-zum-eigenen-58215.html
+- ETERNUM KI-Cockpit – KI-Schaltzentrale + Ratgeber | 199 € | Member area and video courses | $187.40 | commission 60% | earnings/sale $112.44 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/eternum-ki-cockpit-ki-schaltzentrale-ratgeber-199-57159.html
+- AI ChatBot Basic – KI-Kundenservice für kleine Unternehmen | wiederkehrende Provision | Remote service provided electronically | $560.30 | commission 20% | earnings/sale $112.06 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/ai-chatbot-basic-ki-kundenservice-f-r-kleine-unternehmen-wiederkehrende-provision-56671.html
+- Lexosleep | Member area and video courses | $1120.60 | commission 10% | earnings/sale $112.06 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/lexosleep-57365.html
+- P.A.R.A. Kontrolle | Downloads | $122.41 | commission 92% | earnings/sale $112.06 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/p-a-r-a-kontrolle-60421.html
+- Besser schlafen mit EFT Tapping | Member area and video courses | $279.68 | commission 40% | earnings/sale $111.87 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/besser-schlafen-mit-eft-tapping-56475.html
+- KI-Kompendium: Die Plattform für die KI-Praxis | Member area and video courses | $559.18 | commission 20% | earnings/sale $111.84 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/ki-kompendium-die-plattform-f-r-die-ki-praxis-50985.html
+- Hypno Meditatives Programmieren | Downloads | $223.18 | commission 50% | earnings/sale $111.59 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/hypno-meditatives-programmieren-49663.html
+- Neu Weltneuheit: Der Auftrags-Generator by Dirk Kreuter | Software | $223.00 | commission 50% | earnings/sale $111.50 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/neu-weltneuheit-der-auftrags-generator-by-dirk-kreuter-33310.html
+- Reel Mastery | Member area and video courses | $310.73 | commission 50% | earnings/sale $111.41 | conversion 10.0% | cancel 0.8% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/reel-mastery-55684.html
+- IG SalesPilot | Member area and video courses | $310.73 | commission 50% | earnings/sale $111.41 | conversion 10.0% | cancel 0.8% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/ig-salespilot-55690.html
+- Der ultimative FOREX Trading Kurs: Währungshandel von A-Z | Member area and video courses | $556.94 | commission 20% | earnings/sale $111.39 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/der-ultimative-forex-trading-kurs-w-hrungshandel-von-a-z-42133.html
+- Smartphone Cash Machine - von Gunnar Kessler | Member area and video courses | $183.36 | commission 50% | earnings/sale $111.29 | conversion 7.0% | cancel 19.4% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/smartphone-cash-machine-von-gunnar-kessler-25608.html
+- Einfach schlank! In 8 Schritten zur Wunschfigur | Member area and video courses | $553.71 | commission 20% | earnings/sale $110.74 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/einfach-schlank-in-8-schritten-zur-wunschfigur-39852.html
+- Creation Master Studio - für Scannerpersönlichkeiten | Member area and video courses | $276.79 | commission 40% | earnings/sale $110.72 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/creation-master-studio-f-r-scannerpers-nlichkeiten-36865.html
+- Tiere besser verstehen durch Tierkommunikation Basis Kurs | Member area and video courses | $442.64 | commission 25% | earnings/sale $110.66 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/tiere-besser-verstehen-durch-tierkommunikation-basis-kurs-32306.html
+- AI SOCIAL CREATOR - Social Media-Inhalte mit "KI" erstellen | Member area and video courses | $220.76 | commission 50% | earnings/sale $110.38 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/ai-social-creator-social-media-inhalte-mit-ki-erstellen-47031.html
+- Der Kurs für Potenzialentfaltung und MEHR Selbstvertrauen | Member area and video courses | $220.76 | commission 50% | earnings/sale $110.38 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/der-kurs-f-r-potenzialentfaltung-und-mehr-selbstvertrauen-44684.html
+- KI-Kickstart für ChatGPT | Downloads | $220.76 | commission 50% | earnings/sale $110.38 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/ki-kickstart-f-r-chatgpt-43016.html
+- Tools von ClearPMO | Software | $367.25 | commission 30% | earnings/sale $110.18 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/tools-von-clearpmo-28586.html
+- Diamond Hands Kurs | Member area and video courses | $734.51 | commission 15% | earnings/sale $110.18 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/diamond-hands-kurs-58515.html
+- Systemisches Stellen für Tiere Online | Member area and video courses | $439.77 | commission 25% | earnings/sale $109.94 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/systemisches-stellen-f-r-tiere-online-41973.html
+- Landingpage für Kampagnen für italienischsprachige Betriebe: 490 €, ca. 90 € Provision | Remote service provided electronically | $549.09 | commission 20% | earnings/sale $109.82 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/landingpage-f-r-kampagnen-f-r-italienischsprachige-betriebe-490-ca-90-provision-60298.html
+- Magische Energie Essenzen | Remote service provided electronically | $312.65 | commission 35% | earnings/sale $109.43 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/magische-energie-essenzen-50208.html
+- SlimSana Weight Loss | Supplements - for slimming | $177.04 | commission 60% | earnings/sale $108.94 | conversion 12.0% | cancel 7.1% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/slimsana-weight-loss-55000.html
+- Auswandern leicht gemacht: Aufenthalt  digitales Einkommen | Downloads | $272.15 | commission 40% | earnings/sale $108.86 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/auswandern-leicht-gemacht-aufenthalt-digitales-einkommen-59686.html
+- Brandneu: neowake®Chroma Watch | Deliverable | $284.52 | commission 0% | earnings/sale $108.63 | conversion 8.0% | cancel 2.3% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/brandneu-neowake-chroma-watch-45162.html
+- Trennung und Liebeskummer überwinden (Onlinekurs) | Member area and video courses | $271.21 | commission 40% | earnings/sale $108.49 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/trennung-und-liebeskummer-berwinden-onlinekurs-37345.html
+- 54000 WordPress Plugins + Klick Tipp verbinden | Software | $433.67 | commission 25% | earnings/sale $108.42 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/54000-wordpress-plugins-klick-tipp-verbinden-28256.html
+- NAVOK® – Das Organisationssystem im Komplettpaket | Downloads | $215.65 | commission 50% | earnings/sale $107.82 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/navok-das-organisationssystem-im-komplettpaket-56744.html
+- 50 % Provision: Führungs-Playbook für HR und Führungskräfte | Downloads | $215.65 | commission 50% | earnings/sale $107.82 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/50-provision-f-hrungs-playbook-f-r-hr-und-f-hrungskr-fte-58785.html
+- 50 % Provision: Entscheidungs-Playbook für Führungskräfte | Downloads | $215.65 | commission 50% | earnings/sale $107.82 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/50-provision-entscheidungs-playbook-f-r-f-hrungskr-fte-58786.html
+- 50 % Provision: Struktur-Playbook für Organisations-Teams | Downloads | $215.65 | commission 50% | earnings/sale $107.82 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/50-provision-struktur-playbook-f-r-organisations-teams-58787.html
+- 50 % Provision: Prozesse-Playbook für Organisations-Teams | Downloads | $215.65 | commission 50% | earnings/sale $107.82 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/50-provision-prozesse-playbook-f-r-organisations-teams-58788.html
+- 50 % Provision: Rollen-Playbook für HR und Organisation | Downloads | $215.65 | commission 50% | earnings/sale $107.82 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/50-provision-rollen-playbook-f-r-hr-und-organisation-58789.html
+- 50 % Provision: Prioritäten-Playbook für Führung | Downloads | $215.65 | commission 50% | earnings/sale $107.82 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/50-provision-priorit-ten-playbook-f-r-f-hrung-58790.html
+- 50% Provision: MicroTool ProzessLandkarte | Downloads | $215.65 | commission 50% | earnings/sale $107.82 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/50-provision-microtool-prozesslandkarte-59529.html
+- 50% Provision: MicroTool RollenLandkarte | Downloads | $215.65 | commission 50% | earnings/sale $107.82 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/50-provision-microtool-rollenlandkarte-59530.html
+- 50% Provision: MicroTool PrioritätenLogik | Downloads | $215.65 | commission 50% | earnings/sale $107.82 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/50-provision-microtool-priorit-tenlogik-59532.html
+- Raus aus TOXISCHEN Beziehungen - Hin zur Liebe | Onlinekurs | Downloads | $356.90 | commission 30% | earnings/sale $107.07 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/raus-aus-toxischen-beziehungen-hin-zur-liebe-onlinekurs-40072.html
+- Global Citizen Explorer Mitgliedschaft | Downloads | $1415.44 | commission 25% | earnings/sale $106.82 | conversion 1.0% | cancel 1.8% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/global-citizen-explorer-mitgliedschaft-26576.html
+- CleanseSana: The Gut "Reboot" | Supplements - health | $158.62 | commission 60% | earnings/sale $106.76 | conversion 19.0% | cancel 5.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/cleansesana-the-gut-reboot-55600.html
+- Aufbaukurs Tierkommunikation Online - Tierakademie | Member area and video courses | $425.64 | commission 25% | earnings/sale $106.41 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/aufbaukurs-tierkommunikation-online-tierakademie-32819.html
+- MetaboSana - Premium DACH Weight Loss Funnel | Supplements - for slimming | $164.92 | commission 60% | earnings/sale $105.74 | conversion 16.0% | cancel 0.8% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/metabosana-premium-dach-weight-loss-funnel-55431.html
+- Piano.University - Intuitiv Klavier spielen | Member area and video courses | $422.81 | commission 25% | earnings/sale $105.71 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/piano-university-intuitiv-klavier-spielen-48274.html
+- Avatar Speak Pro - Lebensechte KIAvatare für mehr Conversion | Software | $262.72 | commission 40% | earnings/sale $105.09 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/avatar-speak-pro-lebensechte-kiavatare-f-r-mehr-conversion-44101.html
+- [NEU - Lifetime Provisionen] Deutschlands YouTube Mastermind | Member area and video courses | $262.72 | commission 40% | earnings/sale $105.09 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/neu-lifetime-provisionen-deutschlands-youtube-mastermind-47987.html
+- Das Partnerprogramm von Dein Sprachcoach: Der C1-Kurs | Member area and video courses | $268.53 | commission 30% | earnings/sale $105.08 | conversion 4.0% | cancel 2.1% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/das-partnerprogramm-von-dein-sprachcoach-der-c1-kurs-48160.html
+- Tim Daugs: MEGA Paket (Produkt-Bündel) auf USB-Stick | Deliverable | $415.28 | commission 25% | earnings/sale $103.82 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/tim-daugs-mega-paket-produkt-b-ndel-auf-usb-stick-53196.html
+- Der Performance Code –  Produktivität auf Autopilot, Erfolg | Member area and video courses | $207.17 | commission 50% | earnings/sale $103.59 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/der-performance-code-produktivit-t-auf-autopilot-erfolg-52435.html
+- Das ultimative PLR Dating Paket | Downloads | $206.22 | commission 50% | earnings/sale $103.12 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/das-ultimative-plr-dating-paket-42513.html
+- Social Dancing Academy - Solo- und Paartanz für alle Levels | Member area and video courses | $138.86 | commission 25% | earnings/sale $103.11 | conversion 21.0% | cancel 4.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/social-dancing-academy-solo-und-paartanz-f-r-alle-levels-34819.html
+- Mentale Exzellenz in 21 Tagen | Member area and video courses | $381.39 | commission 27% | earnings/sale $102.97 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/mentale-exzellenz-in-21-tagen-57398.html
+- Be Different ecademy – Entwicklung, die funktioniert | Member area and video courses | $508.51 | commission 20% | earnings/sale $101.71 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/be-different-ecademy-entwicklung-die-funktioniert-59068.html
+- Noluvira - Dein AI Dating Coach | Software | $253.31 | commission 40% | earnings/sale $101.32 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/noluvira-dein-ai-dating-coach-57483.html
+- PowerSubliminals | Downloads | $202.46 | commission 50% | earnings/sale $101.24 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/powersubliminals-14047.html
+- Energetisch Geistige Wirbelsäulentherapie | Downloads | $201.71 | commission 50% | earnings/sale $100.85 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/energetisch-geistige-wirbels-ulentherapie-25874.html
+- Email Marketing Automations: Smarte Kampagnen und Funnels er | Remote service provided electronically | $336.18 | commission 30% | earnings/sale $100.85 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/email-marketing-automations-smarte-kampagnen-und-funnels-er-54636.html
+- AssetKi Advisor – 30 % monatlich wiederkehrende Provision | Software | $335.06 | commission 30% | earnings/sale $100.52 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/assetki-advisor-30-monatlich-wiederkehrende-provision-58359.html
+- Dein Nichtraucher Training - Schluss mit Rauchen | Member area and video courses | $198.35 | commission 50% | earnings/sale $99.17 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/dein-nichtraucher-training-schluss-mit-rauchen-44685.html
+- Workout Bundle – Schnellere Trainingserfolge (Bestseller) | Downloads | $267.14 | commission 30% | earnings/sale $99.11 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/workout-bundle-schnellere-trainingserfolge-bestseller-16199.html
+- Tierschutz-Guide – inkl. Premium Paket | Downloads | $395.50 | commission 25% | earnings/sale $98.88 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/tierschutz-guide-inkl-premium-paket-55213.html
+- 75% Prov | Higher Self Audios + Buch (€39) | Downloads | $131.84 | commission 75% | earnings/sale $98.88 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/75-prov-higher-self-audios-buch-39-57047.html
+- LNA Hauskurs – Gesichtspflege-Methode für zuhause mit hoher | Member area and video courses | $329.59 | commission 30% | earnings/sale $98.88 | conversion 0.0% | cancel 0.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/lna-hauskurs-gesichtspflege-methode-f-r-zuhause-mit-hoher-58354.html
+- Astrologische Beratung - Radix-Reading Geburtshoroskop | Remote service provided electronically | $546.17 | commission 20% | earnings/sale $98.83 | conversion 5.0% | cancel 3.0% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/astrologische-beratung-radix-reading-geburtshoroskop-39461.html
+- Feminin Bundle – Die eigene Weiblichkeit erwecken | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/feminin-bundle-die-eigene-weiblichkeit-erwecken-16205.html
+- neowake® Meditations Album Source Code - zu verschenken | Downloads | $267.11 | commission 0% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/neowake-meditations-album-source-code-zu-verschenken-30554.html
+- Season 2 Paket (Subliminals) – 45 Euro Provision für dich! | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/season-2-paket-subliminals-45-euro-provision-f-r-dich-16223.html
+- Diät Bundle - Ganzheitlich Abnehmen + neues Selbstbild | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/di-t-bundle-ganzheitlich-abnehmen-neues-selbstbild-16183.html
+- Attraction Bundle – Magnetisch auf Frauen wirken | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/attraction-bundle-magnetisch-auf-frauen-wirken-16181.html
+- Health Bundle – Völlige körperliche und geistige Gesundheit | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/health-bundle-v-llige-k-rperliche-und-geistige-gesundheit-16207.html
+- Millionär Mindset Audio Paket – Wie ein Millionär denken! | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/million-r-mindset-audio-paket-wie-ein-million-r-denken-28264.html
+- Silent Subliminals Gesundheit - Deine Vitalität stärken | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/silent-subliminals-gesundheit-deine-vitalit-t-st-rken-41939.html
+- Personality Bundle – Damit stärkst du deine Persönlichkeit | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/personality-bundle-damit-st-rkst-du-deine-pers-nlichkeit-16217.html
+- Silent Subliminals Wunschpartner - Traumpartner finden | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/silent-subliminals-wunschpartner-traumpartner-finden-41943.html
+- Silent Subliminals Geld - Wohlstand magnetisch anziehen | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/silent-subliminals-geld-wohlstand-magnetisch-anziehen-41938.html
+- Youth Bundle – Jugendlichkeit und Vitalität neu erleben | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/youth-bundle-jugendlichkeit-und-vitalit-t-neu-erleben-16221.html
+- Business Bundle – Erfolgreich, glücklich und finanziell frei | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/business-bundle-erfolgreich-gl-cklich-und-finanziell-frei-16203.html
+- Season 1 Paket (Subliminals) – 45 Euro Provision! | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/season-1-paket-subliminals-45-euro-provision-16201.html
+- Success Bundle (Subliminal) – Absoluter Bestseller seit 2016 | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/success-bundle-subliminal-absoluter-bestseller-seit-2016-16219.html
+- Relationship Bundle – Innige Beziehung mit Partner aufbauen | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/relationship-bundle-innige-beziehung-mit-partner-aufbauen-16195.html
+- Silent Subliminals Intelligenz: Gehirnpotenzial entfalten | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/silent-subliminals-intelligenz-gehirnpotenzial-entfalten-41945.html
+- Maskulin Bundle – Die eigene Männlichkeit erwecken | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/maskulin-bundle-die-eigene-m-nnlichkeit-erwecken-16213.html
+- Law of Attraction Bundle – Gesetz der Anziehung in Aktion | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/law-of-attraction-bundle-gesetz-der-anziehung-in-aktion-16211.html
+- Sleep Bundle – Schnell einschlafen und gesund durchschlafen | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/sleep-bundle-schnell-einschlafen-und-gesund-durchschlafen-16189.html
+- Silent Subliminals Selbstliebe - Kultiviere Liebe nach innen | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/silent-subliminals-selbstliebe-kultiviere-liebe-nach-innen-41941.html
+- Intelligence Bundle – Intelligenz steigern, schneller denken | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/intelligence-bundle-intelligenz-steigern-schneller-denken-16209.html
+- Wohlstand Bundle – Wohlstand auf Knopfdruck anziehen | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/wohlstand-bundle-wohlstand-auf-knopfdruck-anziehen-16197.html
+- All Time Bestseller: Das neowake® Abo | Member area and video courses | $169.50 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/all-time-bestseller-das-neowake-abo-28978.html
+- Happiness Bundle – Jeden Tag fröhlich sein | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/happiness-bundle-jeden-tag-fr-hlich-sein-16185.html
+- Motivation Bundle – Erwecke dein inneres Feuer | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/motivation-bundle-erwecke-dein-inneres-feuer-16215.html
+- Silent Subliminals Liebe - Stärke dein Liebesempfinden | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/silent-subliminals-liebe-st-rke-dein-liebesempfinden-41944.html
+- Silent Subliminals Selbstbewusstsein - Für mentale Stärke | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/silent-subliminals-selbstbewusstsein-f-r-mentale-st-rke-41940.html
+- Silent Subliminals Abnehmen - Gewicht umfassend reduzieren | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/silent-subliminals-abnehmen-gewicht-umfassend-reduzieren-41936.html
+- Love Bundle – Die Liebe für sich selbst und für Andere | Downloads | $267.11 | commission 30% | earnings/sale $98.72 | conversion 8.0% | cancel 3.2% | https://vsyour-cmd.github.io/digistore-picks-de/produkte/love-bundle-die-liebe-f-r-sich-selbst-und-f-r-andere-16187.html
+
+## Kategorien (45)
+
+- Animals & Pets (111 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/digital-products-animals-pets.html
+- Betting Systems (13 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/betting-systems.html
+- Business & Investment (602 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/business-investment.html
+- Computer & Internet (307 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/computer-internet.html
+- Dancing & Music (69 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/dancing-music.html
+- Dating, Relationships & Romance (174 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/dating-relationships-romance.html
+- Education (599 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/education.html
+- Email Marketing (137 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/email-marketing.html
+- Family & Children (268 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/family-children.html
+- Fashion (3 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/digital-products-fashion.html
+- Food & Drink (103 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/food-drink.html
+- Fun & Games (88 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/fun-games.html
+- Green Products & Environmental Protection (28 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/green-products-environmental-protection.html
+- Health & Fitness (577 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/health-fitness.html
+- Hobby & Craft (178 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/hobby-craft.html
+- Home & Garden (88 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/home-garden.html
+- Hotels & Gastronomy (11 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/hotels-gastronomy.html
+- Languages (33 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/languages.html
+- Law & Justice (66 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/law-justice.html
+- Online Marketing & E-Business (827 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/online-marketing-e-business.html
+- Personal Development (712 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/digital-products-personal-development.html
+- Photography & Film (49 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/photography-film.html
+- Politics & Economy (34 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/politics-economy.html
+- Profession & Job (501 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/profession-job.html
+- Services (100 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/services.html
+- Social Media (390 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/social-media.html
+- Software (155 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/software.html
+- Spiri­tua­lity & Esotericism (265 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/spiri-tua-lity-esotericism.html
+- Sport (78 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/sport.html
+- Survival (21 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/survival.html
+- Trading Products (47 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/trading-products.html
+- Travel & Culture (168 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/travel-culture.html
+- Animals & Pets (21 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/events-seminars-animals-pets.html
+- Finances (83 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/finances.html
+- Leadership & Management (58 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/leadership-management.html
+- Office Organization (19 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/office-organization.html
+- Online Marketing (92 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/online-marketing.html
+- Personal Development (83 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/events-seminars-personal-development.html
+- Project Management (23 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/project-management.html
+- Real Estate (28 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/real-estate.html
+- Sales Training (21 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/sales-training.html
+- Fashion (4 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/services-fashion.html
+- Marketing Services (297 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/marketing-services.html
+- Skin Care (4 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/skin-care.html
+- Food Supplements (15 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/kategorie/food-supplements.html
+
+## Top-Anbieter (100, nach Listing-Anzahl)
+
+- pixonmedia (278 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/pixonmedia.html
+- ratgeberleichtgemacht (91 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/ratgeberleichtgemacht.html
+- joebgesbuchverleger39ac (74 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/joebgesbuchverleger39ac.html
+- AndreasLang (56 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/andreaslang.html
+- hintcaching (49 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/hintcaching.html
+- seotech (44 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/seotech.html
+- AffiliForge (43 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/affiliforge.html
+- Spekulatius (43 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/spekulatius.html
+- rheinrost (38 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/rheinrost.html
+- EnergeticTernity (38 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/energeticternity.html
+- Book2Book (38 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/book2book.html
+- einfachmitmatze (35 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/einfachmitmatze.html
+- Ararembe (35 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/ararembe.html
+- newdimension (33 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/newdimension.html
+- MoneyCreators (31 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/moneycreators.html
+- mobilesbett (27 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/mobilesbett.html
+- BIGbenn1 (26 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/bigbenn1.html
+- sattelitevendor (25 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/sattelitevendor.html
+- Freifone (25 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/freifone.html
+- mlangbein51cce0 (24 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/mlangbein51cce0.html
+- xxbeautyliciousbysun8aec (20 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/xxbeautyliciousbysun8aec.html
+- MindshiftDigitalStudio (20 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/mindshiftdigitalstudio.html
+- Diveco (19 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/diveco.html
+- DS-AffiliateSolution (18 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/ds-affiliatesolution.html
+- webpirat (17 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/webpirat.html
+- autorpetermeurerausdemahrtal (17 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/autorpetermeurerausdemahrtal.html
+- Novaris_web (17 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/novaris-web.html
+- Cleriker (16 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/cleriker.html
+- GTK-littlefreilich (16 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/gtk-littlefreilich.html
+- MSchlinder (16 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/mschlinder.html
+- Skenteridis (15 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/skenteridis.html
+- KerstinSchimkus (15 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/kerstinschimkus.html
+- werni1 (15 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/werni1.html
+- Insider-Media (14 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/insider-media.html
+- manuelcosta (14 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/manuelcosta.html
+- HeikoBoos (14 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/heikoboos.html
+- CyrilCash (13 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/cyrilcash.html
+- Jyotima (13 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/jyotima.html
+- ralph70eb (13 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/ralph70eb.html
+- SinaDieterle (13 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/sinadieterle.html
+- lvlBoZzlvl (13 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/lvlbozzlvl.html
+- Erfolg-Intuitiv (13 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/erfolg-intuitiv.html
+- gzaistacks2aae (13 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/gzaistacks2aae.html
+- Herzenswelt (13 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/herzenswelt.html
+- blockchainmediagroupes (13 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/blockchainmediagroupes.html
+- DotsDesigns (13 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/dotsdesigns.html
+- digitalesonlinebusiness (12 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/digitalesonlinebusiness.html
+- MSFS_2218 (12 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/msfs-2218.html
+- petanthony (12 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/petanthony.html
+- geldhuepfer (12 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/geldhuepfer.html
+- JumbMedia-Store (11 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/jumbmedia-store.html
+- isidde (11 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/isidde.html
+- kagels-trading (11 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/kagels-trading.html
+- mldesign (11 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/mldesign.html
+- VeloxForge (11 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/veloxforge.html
+- Trainstitute (11 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/trainstitute.html
+- Plebvin (11 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/plebvin.html
+- rs-onlineagentur (11 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/rs-onlineagentur.html
+- HB1976 (11 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/hb1976.html
+- Vkleber (11 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/vkleber.html
+- smartboostAI (10 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/smartboostai.html
+- Mariposa75 (10 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/mariposa75.html
+- Deinechance (10 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/deinechance.html
+- MUTPUNKT (10 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/mutpunkt.html
+- wileleg (10 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/wileleg.html
+- massarocalogero19976adc (9 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/massarocalogero19976adc.html
+- PERSOFIT (9 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/persofit.html
+- MichaMH (9 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/michamh.html
+- profitbuddies (9 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/profitbuddies.html
+- verwitwet-leben (9 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/verwitwet-leben.html
+- megareichtum (9 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/megareichtum.html
+- sachkundeak (9 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/sachkundeak.html
+- Mathecloud (9 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/mathecloud.html
+- worldxpb (9 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/worldxpb.html
+- RSMedicalWorldwide (9 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/rsmedicalworldwide.html
+- IGCLOSE (9 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/igclose.html
+- Ayurvedaschule (8 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/ayurvedaschule.html
+- DS24-MySana (8 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/ds24-mysana.html
+- BodoSchaefer (8 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/bodoschaefer.html
+- jaqui19926004 (8 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/jaqui19926004.html
+- PourEllie (8 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/pourellie.html
+- musiklehrer (8 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/musiklehrer.html
+- cduffner (8 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/cduffner.html
+- ReneAktivNetz (8 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/reneaktivnetz.html
+- ss-business (8 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/ss-business.html
+- Angelika-Traumerfuellerin (8 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/angelika-traumerfuellerin.html
+- digitalbeat (8 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/digitalbeat.html
+- ima806 (8 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/ima806.html
+- manjushri (8 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/manjushri.html
+- iliasmak (8 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/iliasmak.html
+- jennifersubke (7 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/jennifersubke.html
+- hh-akademie (7 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/hh-akademie.html
+- CADDeutschland (7 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/caddeutschland.html
+- Andrea1A (7 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/andrea1a.html
+- juliaundgil (7 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/juliaundgil.html
+- RaGarve (7 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/ragarve.html
+- hihdigital (7 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/hihdigital.html
+- DreamElfe (7 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/dreamelfe.html
+- powerline (7 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/powerline.html
+- OKsuccess (7 Produkte) | https://vsyour-cmd.github.io/digistore-picks-de/hersteller/oksuccess.html

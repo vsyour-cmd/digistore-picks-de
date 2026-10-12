@@ -13,7 +13,7 @@ cancel_rate_pct: 0.77
 categories: ["Health & Fitness"]
 listed_since: "2017-02-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "rich"
 promo_link: "https://chi-statt-botox.com/online-kurs/?aff=adminstore#aff=adminstore"
 sales_page: "https://chi-statt-botox.com/online-kurs/"
@@ -22,7 +22,7 @@ language: "de"
 # Chi statt Botox - die Faltenkiller-Methode
 
 > Product ID `27118` · Digistore24 productId `120183` · [HTML profile page](../../produkte/chi-statt-botox-die-faltenkiller-methode-27118.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

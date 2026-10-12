@@ -9,13 +9,13 @@ const path = require("path");
 const sharp = require("sharp");
 
 const ROOT = process.env.SITE_ROOT ? path.resolve(process.env.SITE_ROOT) : path.join(__dirname, "..");
-const DATA_DIR = process.env.DATA_DIR || "G:/Digistore24/data";
-const PRODUCTS_FILE = process.env.PRODUCTS_FILE || "products-en.json";
-const DETAILS_FILE = process.env.DETAILS_FILE || "details-en.json";
+const DATA_DIR = process.env.DATA_DIR || "G:/Digistore24/data-de";
+const PRODUCTS_FILE = process.env.PRODUCTS_FILE || "products-de.json";
+const DETAILS_FILE = process.env.DETAILS_FILE || "details-de.json";
 const SRC = path.join(DATA_DIR, PRODUCTS_FILE);
 const OUT = path.join(DATA_DIR, DETAILS_FILE);
 const IMG_DIR = path.join(ROOT, "assets", "products");
-const LANG = process.env.DETAILS_LANG || "en";
+const LANG = process.env.DETAILS_LANG || "de";
 const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
 const CONC = 8;
 

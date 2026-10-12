@@ -2,6 +2,17 @@
   "site": "de",
   "entries": [
     {
+      "date": "2026-10-12",
+      "summary": "Kategorieseiten verbessert: jede Kategorieseite (inkl. Pagination) hat jetzt einen Auf-einen-Blick-Block und eine Top-10-Verdienst-Tabelle — die DE-Vorlage enthielt die Tabelle noch nicht, nachgetragen. Tagesartikel: die hächsten Stornoquoten auf Digistore24. Dazu live: Anbieter-Hub-Inlinks, llms-full Erweiterung (Top 500 + Indizes), Guide-Verlinkung. Marktplatz-Scrape heute ausgesetzt (Session-Tooling) — Datenstand 2026-10-10.",
+      "changes": [
+        "Kategorieseiten: Auf-einen-Blick-Block + Top-10-Vergleichstabelle auf allen Seiten inkl. Pagination",
+        "Tagesartikel: die hächsten Stornoquoten — und wie man die Zahl richtig liest",
+        "10 Deep-Dive-Guides (1.650+ Würter je Seite) unter produkte/{slug}/guide.html",
+        "llms-full.txt: Top 500 + 45 Kategorie- + 100 Anbieter-Indexlinks",
+        "Guide-Verlinkung: Kohorte mit ≤2 Inlinks 113 → 23"
+      ]
+    },
+    {
       "date": "2026-10-10",
       "summary": "Anbieter-Hubs auf 100 erweitert (jeder Anbieter mit 2+ Listings, sortiert nach Kataloggröße; 554 Kandidaten). Veraltete Hub-Seiten werden beim Neuaufbau automatisch entfernt.",
       "changes": [

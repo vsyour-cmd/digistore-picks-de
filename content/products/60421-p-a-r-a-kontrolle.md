@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/742697?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/742697"
@@ -22,7 +22,7 @@ language: "de"
 # P.A.R.A. Kontrolle
 
 > Product ID `60421` · Digistore24 productId `742697` · [HTML profile page](../../produkte/p-a-r-a-kontrolle-60421.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

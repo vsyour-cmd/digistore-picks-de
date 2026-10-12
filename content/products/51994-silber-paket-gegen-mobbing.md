@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Family & Children","Profession & Job"]
 listed_since: "2024-08-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "rich"
 promo_link: "https://rinaldo-inabnit-5.mstrpages.com?aff=adminstore#aff=adminstore"
 sales_page: "https://rinaldo-inabnit-5.mstrpages.com"
@@ -22,7 +22,7 @@ language: "de"
 # Silber-Paket gegen Mobbing!
 
 > Product ID `51994` · Digistore24 productId `563850` · [HTML profile page](../../produkte/silber-paket-gegen-mobbing-51994.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

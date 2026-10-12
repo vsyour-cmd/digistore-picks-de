@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-04-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "rich"
 promo_link: "https://pssthi.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://pssthi.com/"
@@ -22,7 +22,7 @@ language: "de"
 # pssthi – 25 % Lifetime-Provision auf modernes SaaS für Video
 
 > Product ID `56222` · Digistore24 productId `683899` · [HTML profile page](../../produkte/pssthi-25-lifetime-provision-auf-modernes-saas-f-r-video-56222.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

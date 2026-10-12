@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-06-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "medium"
 promo_link: "https://www.affyro.com/MRRAIMusicMastery.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.affyro.com/MRRAIMusicMastery.html"
@@ -22,7 +22,7 @@ language: "de"
 # MRR: AI Music Mastery
 
 > Product ID `56894` · Digistore24 productId `701661` · [HTML profile page](../../produkte/mrr-ai-music-mastery-56894.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

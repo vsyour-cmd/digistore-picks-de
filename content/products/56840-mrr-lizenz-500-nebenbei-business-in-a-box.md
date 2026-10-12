@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-06-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "medium"
 promo_link: "https://affyro.com/MRRLizenz500.html?aff=adminstore#aff=adminstore"
 sales_page: "https://affyro.com/MRRLizenz500.html"
@@ -22,7 +22,7 @@ language: "de"
 # MRR Lizenz 500 € nebenbei - Business in a Box
 
 > Product ID `56840` · Digistore24 productId `699605` · [HTML profile page](../../produkte/mrr-lizenz-500-nebenbei-business-in-a-box-56840.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

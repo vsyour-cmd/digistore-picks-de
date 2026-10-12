@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "rich"
 promo_link: "https://einfachmitmatze.de/social-media-autopilot/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/social-media-autopilot/"
@@ -22,7 +22,7 @@ language: "de"
 # Social Media auf Autopilot: Instagram-Inhalte planen und vorbereitet veröffentlichen
 
 > Product ID `59273` · Digistore24 productId `733940` · [HTML profile page](../../produkte/social-media-auf-autopilot-instagram-inhalte-planen-und-vorbereitet-ver-ffentlichen-59273.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

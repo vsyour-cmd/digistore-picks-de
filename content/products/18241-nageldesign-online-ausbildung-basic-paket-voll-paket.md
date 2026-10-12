@@ -13,7 +13,7 @@ cancel_rate_pct: 3.49
 categories: ["Education"]
 listed_since: "2017-07-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "rich"
 promo_link: "http://nageldesign-online-ausbildung.de?aff=adminstore#aff=adminstore"
 sales_page: "http://nageldesign-online-ausbildung.de"
@@ -22,7 +22,7 @@ language: "de"
 # Nageldesign Online Ausbildung Basic-Paket (Voll-Paket)
 
 > Product ID `18241` · Digistore24 productId `150669` · [HTML profile page](../../produkte/nageldesign-online-ausbildung-basic-paket-voll-paket-18241.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

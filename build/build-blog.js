@@ -99,7 +99,7 @@ ${body}
 </main>
 <footer class="site"><div class="wrap">
   <div class="disclosure"><b>Werbe-Hinweis:</b> ${SITE_NAME} enthält Affiliate-Links. Ranglisten auf dieser Seite werden aus offiziellen Digistore24-Marktplatz-Statistiken berechnet und sind keine Prognose oder Empfehlung von Ergebnissen.</div>
-  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Produktdaten: Digistore24-Marktplatz (Stand ${UPDATED}) · <a href="${rel}/impressum.html">Impressum</a> · <a href="${rel}/datenschutz.html">Datenschutz</a></div>
+  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Produktdaten: Digistore24-Marktplatz (Stand ${UPDATED}) · <a href="${rel}/impressum.html">Impressum</a> · <a href="${rel}/datenschutz.html">Datenschutz</a> · <a href="${rel}/monthly-new.html">Neu in diesem Monat</a></div>
 </div></footer>
 ${GOATCOUNTER}
 </body>
@@ -219,6 +219,7 @@ const EN_GUIDE_SLUGS = {
 
 function categoryGuides() {
   const majors = DATA.categories.filter((c) => c.count >= 5).sort((a, b) => b.count - a.count).map((c) => c.label);
+  const guideMeta = new Map(majors.map((l) => { const c = DATA.categories.find((x) => x.label === l); return [l, { file: slug(catName(c)), section: (c && (c.sectionDe || c.section)) || "", count: c ? c.count : 0 }]; }));
   for (const label of majors) {
     const cat = DATA.categories.find((c) => c.label === label);
     if (!cat) continue;
@@ -229,6 +230,26 @@ function categoryGuides() {
     const types = {};
     for (const p of items) types[p.typeDe] = (types[p.typeDe] || 0) + 1;
     const topTypes = Object.entries(types).sort((a, b) => b[1] - a[1]).slice(0, 3).map(([t, n]) => `${esc(t)} (${n})`).join(", ");
+    // 改进项 blog-crosslink:相关指南互链 — 环形轮转选链。
+    // 原先"同分区优先+体量排序取前5"会把链接集中到同几个大指南(小类长期 0 入链);
+    // 现在同分区取2个(分区内环形)+ 全局环形补足3个,每篇指南稳定获得 ≥3 条入链。
+    const meta = guideMeta.get(label);
+    const allGuides = [...guideMeta.entries()].sort((a, b) => b[1].count - a[1].count);
+    const gIdx = allGuides.findIndex(([l]) => l === label);
+    const secAll = allGuides.filter(([, m]) => m.section === meta.section);
+    const secRank = secAll.findIndex(([l]) => l === label);
+    const rot = (arr, n) => (arr.length ? arr.slice(n % arr.length).concat(arr.slice(0, n % arr.length)) : arr);
+    const sectionRing = rot(secAll.filter(([l]) => l !== label), Math.max(secRank, 0));
+    const globalRing = rot(allGuides.filter(([l]) => l !== label), Math.max(gIdx, 0));
+    const seen = new Set([label]);
+    const related = [];
+    for (const e of [...sectionRing.slice(0, 2), ...globalRing]) {
+      if (related.length >= 5) break;
+      if (seen.has(e[0])) continue;
+      seen.add(e[0]);
+      related.push(e);
+    }
+    const relatedBlock = related.length ? `\n<h2>Verwandte Guides</h2>\n<ul>${related.map(([l, m]) => `<li><a href="guide-${m.file}.html"><b>${esc(l)}: der Daten-Guide</b></a> — ${m.count} Angebote analysiert.</li>`).join("")}</ul>` : "";
     const minP = Math.min(...items.map((p) => p.price || 0));
     const maxP = Math.max(...items.map((p) => p.price || 0));
     const newest = new Date(Math.max(...items.map((p) => new Date(p.createdAt).getTime()))).toISOString().slice(0, 10);
@@ -258,6 +279,7 @@ ${tableRows(top)}
 
 <p>Bewerte jedes Angebot mit der <a href="digistore24-zahlen-checkliste.html">6-Punkte-Zahlen-Checkliste</a> — die Methode hinter diesem Guide. Jedes Produkt verlinkt auf ein vollständiges Profil mit Stornoquote, Anbieter und Listungsalter. Ganze Kategorie: <a href="../kategorie/${cat.file}.html">alle ${items.length} Angebote in ${esc(catName(cat))}</a>. Kurzentschlossene: <a href="../empfehlungen/beste-${cat.file}.html">die rechnerischen Top-Empfehlungen</a>.</p>
 ${EN_GUIDE_SLUGS[label] ? `<p class="sub">Dieser Guide ist auch auf <a href="https://vsyour-cmd.github.io/digistore-picks/blog/guide-${EN_GUIDE_SLUGS[label]}.html" hreflang="en">Englisch verfügbar</a>.</p>` : ""}
+${relatedBlock}
 </article>`;
     fs.writeFileSync(path.join(ROOT, "blog", `guide-${slug(catName(cat))}.html`), layout({
       title: `${catName(cat)} auf Digistore24: ${items.length} Angebote analysiert — ${SITE_NAME}`,
@@ -295,7 +317,10 @@ function headToHead() {
   let built = 0;
   // 短标签:预截断到 22 字符,避免双长标签标题经 capTitle 截断后与产品页同名
   const t22 = (s) => { s = String(s || "").trim().replace(/\s+/g, " "); if (s.length <= 22) return s; const c = s.slice(0, 22); const sp = c.lastIndexOf(" "); return (sp > 12 ? c.slice(0, sp) : c).replace(/[\s,;:.-]+$/g, "") + "…"; };
-  for (const [A, B] of pairs) {
+  // 改进项 blog-crosslink:对比文互链 — 环形轮转(每篇链向后 4 篇),每篇稳定获得 4 条同侪入链
+  const vsMeta = pairs.map(([A, B]) => ({ f: "vs-" + slug(A.label) + "-vs-" + slug(B.label) + ".html", t: `${t22(A.label)} vs ${t22(B.label)}` }));
+  for (let pi = 0; pi < pairs.length; pi++) {
+    const [A, B] = pairs[pi];
     const slugName = "vs-" + slug(A.label) + "-vs-" + slug(B.label) + ".html";
     const row = (p, self) => `<tr${self ? ' class="self"' : ""}><td>${self ? `<b>${esc(p.label)}</b>` : `<a href="../produkte/${p.slug}.html">${esc(p.label)}</a>`}</td><td>${esc(p.typeDe)}</td><td><b>${money(p.price, p.currency)}</b></td><td>${pct(p.commission)}</td><td><b>${money(p.earningsPerSale, p.currency)}</b></td><td>${pct(p.conversionRate)}</td><td>${pct(p.cancelRate)}</td></tr>`;
     const pick = (label, p) => `<li><b>${label}:</b> <a href="../produkte/${p.slug}.html">${esc(p.label)}</a> — ${money(p.earningsPerSale, p.currency)}/Verkauf, ${pct(p.commission)} Provision, ${money(p.price, p.currency)}</li>`;
@@ -331,6 +356,8 @@ ${row(B)}
 <h2>Passung schlägt Zahlen</h2>
 <p>Beide sind High-Ticket-Listings — die richtige Wahl hängt von Zielgruppe und Bewerbungsstil ab, nicht von einer Kennzahl. Lies beide Vollprofile (oben verlinkt) und prüfe die aktuellen Garantien auf den Verkaufsseiten.</p>
 <p>Alternativen: <a href="../alternativen/${A.slug}.html">Alternativen zu ${esc(A.label)}</a> · <a href="../alternativen/${B.slug}.html">Alternativen zu ${esc(B.label)}</a></p>
+${pairs.length > 1 ? `<h2>Weitere direkte Vergleiche</h2>
+<ul>${[...Array(Math.min(4, pairs.length - 1)).keys()].map((k) => vsMeta[(pi + 1 + k) % pairs.length]).map((v) => `<li><a href="${v.f}">${esc(v.t)}</a> — Marktplatz-Vergleich aus derselben Reihe.</li>`).join("\n")}</ul>` : ""}
 </article>`;
     fs.writeFileSync(path.join(ROOT, "blog", slugName), layout({ title: `${t22(A.label)} vs ${t22(B.label)}: welches passt zu dir?`, desc: `${A.label} (${money(A.price, A.currency)}) vs ${B.label} (${money(B.price, B.currency)}): Preis, Provision, Konversion und Stornoquote im Vergleich auf offiziellen Marktplatz-Daten.`, body, rel: "..", file: slugName }));
     built++;
@@ -338,10 +365,47 @@ ${row(B)}
   console.log("head-to-head (DE):", built, "Artikel" + (pruned ? ", " + pruned + " alte entfernt" : ""));
 }
 
+// ---------- 每日文章(2026-10-11):Stornoquoten Top 榜 ----------
+function dailyArticle() {
+  const f = "hoechste-stornoquoten-digistore24.html";
+  const pool = products.filter((p) => p.cancelRate != null && p.cancelRate > 0 && (p.earningsPerSale || 0) > 0)
+    .sort((a, b) => b.cancelRate - a.cancelRate).slice(0, 15);
+  const row = (p, i) => `<tr><td>${i + 1}</td><td><a href="../produkte/${p.slug}.html">${esc(p.label)}</a></td><td>${esc(p.typeDe)}</td><td>${money(p.price, p.currency)}</td><td><b>${pct(p.cancelRate)}</b></td><td>${pct(p.conversionRate)}</td><td>${money(p.earningsPerSale, p.currency)}</td></tr>`;
+  const body = `<article class="review">
+<h1>Die höchsten Stornoquoten auf Digistore24</h1>
+<p class="sub">Von ${SITE_NAME} Redaktion · Anbieter-seitige Marktplatz-Daten · Datenstand ${UPDATED}</p>
+<div class="notice"><b>Recherchemethode:</b> Ranking aus den offiziellen Digistore24-Marktplatz-Datensätzen aller ${DATA.total} deutschsprachigen Angebote (${DATA.withResearch} mit Verkaufsseiten-Recherche). Stornoquote = Anteil stornierter/erstatteter Käufe, vom Anbieter über die Plattform gemeldet. Keine Praxisaussagen.</div>
+<div class="tldr"><b>Kernaussagen</b> (Datenstand ${UPDATED}):
+<ul>
+<li>Höchste gemeldete Stornoquote: <b>${esc(pool[0].label)}</b> mit <b>${pct(pool[0].cancelRate)}</b> (${money(pool[0].price, pool[0].currency)}).</li>
+<li>Eine hohe Stornoquote ist kein Betrugsnachweis — aber ein starkes Signal für aggressive Verkaufstrichter mit Erstattungsdruck.</li>
+<li>Rückerstattungen laufen über Digistore24 als Reseller — <a href="../digistore24-rueckerstattung.html">so funktioniert der Prozess</a>.</li>
+</ul></div>
+<h2>Top 15 nach Stornoquote</h2>
+<table class="specs">
+<tr><th>#</th><th>Produkt</th><th>Typ</th><th>Preis</th><th>Storno*</th><th>Checkout-CR*</th><th>Verdienst/Verkauf</th></tr>
+${pool.map(row).join("\n")}
+</table>
+<p class="sub">* Anbieter-seitige Marktplatz-Statistiken über den gesamten Traffic des Anbieters — keine Prognose Ihrer Ergebnisse.</p>
+<h2>Wie man eine hohe Stornoquote liest</h2>
+<ul>
+<li><b>Was sie bedeutet:</b> Der Anteil der Käufe, die storniert oder erstattet wurden, gemeldet vom Anbieter für dessen gesamten Traffic.</li>
+<li><b>Was sie nicht bedeutet:</b> kein automatischer Betrugsnachweis — sie mischt Erstattungen, Abo-Kündigungen und Kaufreue.</li>
+<li><b>Für Käufer:</b> Garantie auf der Kassenseite bestätigen und Bedingungen sichern (<a href="../sicher-kaufen.html">Checkliste</a>).</li>
+<li><b>Für Affiliates:</b> erst Provision × (1 − Stornoquote) rechnen — dann entscheiden.</li>
+</ul>
+<p>Bewerte jedes Angebot mit der <a href="digistore24-zahlen-checkliste.html">6-Punkte-Zahlen-Checkliste</a>, direkte Vergleiche im <a href="index.html">Head-to-Head-Bereich</a>.</p>
+<p class="sub">Daten: offizieller Digistore24-Marktplatz, Snapshot ${UPDATED}. Anbieterangaben, nicht von uns geprüft.</p>
+</article>`;
+  fs.writeFileSync(path.join(ROOT, "blog", f), layout({ title: "Die höchsten Stornoquoten auf Digistore24 (Daten)", desc: `Die 15 Digistore24-Angebote mit den höchsten gemeldeten Stornoquoten — und wie man die Zahl richtig liest. Snapshot ${UPDATED}.`, body, rel: "..", file: f }));
+  console.log("daily article (DE):", f);
+}
+
 function blogIndex() {
   const files = [
     ["top-20-hoechster-verdienst-digistore24-produkte.html", `Die 20 Digistore24-Produkte mit dem höchsten Verdienst`, `Alle ${DATA.total} deutschen Angebote nach offiziellem Verdienst pro Verkauf. Automatisch aktualisiert.`],
     ["digistore24-zahlen-checkliste.html", "Kaufen oder bewerben? Der 6-Punkte-Zahlen-Check", "Die Methode hinter jedem Profil dieser Website — auf jedes Angebot anwendbar."],
+    ["hoechste-stornoquoten-digistore24.html", "Die höchsten Stornoquoten auf Digistore24 — richtig gelesen", "Top-15 nach Stornoquote, mit Checkout-Konversion daneben — Anbieterangaben."],
   ];
   // Kategorie-Guides ergänzen (bereits generierte Dateien)
   const majors = DATA.categories.filter((c) => c.count >= 5).sort((a, b) => b.count - a.count).map((c) => c.label);
@@ -380,6 +444,7 @@ fs.mkdirSync(path.join(ROOT, "blog"), { recursive: true });
 top20();
 checklist();
 headToHead();
+dailyArticle();
 categoryGuides();
 blogIndex();
 console.log("blog (DE) built: " + fs.readdirSync(path.join(ROOT, "blog")).length + " pages");

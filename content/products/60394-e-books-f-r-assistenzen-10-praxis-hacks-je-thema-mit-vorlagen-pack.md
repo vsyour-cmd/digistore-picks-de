@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "medium"
 promo_link: "https://www.officetrainings.de/e-books-fuer-assistenzen/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.officetrainings.de/e-books-fuer-assistenzen/"
@@ -22,7 +22,7 @@ language: "de"
 # E-Books für Assistenzen: 10 Praxis-Hacks je Thema, mit Vorlagen-Pack
 
 > Product ID `60394` · Digistore24 productId `635555` · [HTML profile page](../../produkte/e-books-f-r-assistenzen-10-praxis-hacks-je-thema-mit-vorlagen-pack-60394.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

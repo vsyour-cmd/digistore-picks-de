@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "rich"
 promo_link: "https://clovernut.com/order.html?aff=adminstore#aff=adminstore"
 sales_page: "https://clovernut.com/order.html"
@@ -22,7 +22,7 @@ language: "de"
 # CloverNut – KI-Betriebssystem für KMU, 25 % auf alle Tarife
 
 > Product ID `58621` · Digistore24 productId `722489` · [HTML profile page](../../produkte/clovernut-ki-betriebssystem-f-r-kmu-25-auf-alle-tarife-58621.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

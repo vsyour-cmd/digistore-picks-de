@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "medium"
 promo_link: "https://cloverqms.com/order.html?aff=adminstore#aff=adminstore"
 sales_page: "https://cloverqms.com/order.html"
@@ -22,7 +22,7 @@ language: "de"
 # CloverQMS – ISO-9001-Software für KMU, 25 % Provision
 
 > Product ID `58623` · Digistore24 productId `722497` · [HTML profile page](../../produkte/cloverqms-iso-9001-software-f-r-kmu-25-provision-58623.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

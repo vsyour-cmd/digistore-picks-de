@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Email Marketing","Marketing Services"]
 listed_since: "2026-09-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "rich"
 promo_link: "https://einfachmitmatze.de/email-verkaufsablauf/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/email-verkaufsablauf/"
@@ -22,7 +22,7 @@ language: "de"
 # E-Mail-Verkaufsablauf: Vom Freebie zur geprüften E-Mail-Serie mit Brevo
 
 > Product ID `59274` · Digistore24 productId `733942` · [HTML profile page](../../produkte/e-mail-verkaufsablauf-vom-freebie-zur-gepr-ften-e-mail-serie-mit-brevo-59274.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -211,6 +211,15 @@ const products = DATA.products
   .map((p) => ({ ...p, label: p.label || `Digistore24 Produkt ${p.id}`, slug: slug(p.label || `produkt-${p.id}`) + "-" + p.id }))
   .sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0));
 
+// Anbieter-Hubs decken nur die Top-100-Anbieter mit ≥2 Produkten ab (gleiche Auswahl wie vendorHubs());
+// vor dem Verweisen im Template prüfen, damit Anbieter außerhalb der Top 100 keine toten Links erzeugen
+const HUB_SLUGS = (() => {
+  const m = new Map();
+  for (const p of products) m.set(p.vendorName, (m.get(p.vendorName) || 0) + 1);
+  return new Set([...m.entries()].filter(([, n]) => n >= 2)
+    .sort((a, b) => b[1] - a[1]).slice(0, 100).map(([k]) => slug(k)));
+})();
+
 {
   const cnt = {};
   for (const c of DATA.categories) { const b = slug(c.label); cnt[b] = (cnt[b] || 0) + 1; }
@@ -308,6 +317,14 @@ function categoryPages() {
         i === idx ? `<b>${i + 1}</b>` : `<a href="${i === 0 ? c.file + ".html" : c.file + "-p" + (i + 1) + ".html"}">${i + 1}</a>`;
       return `<p class="pager">Seiten: ${Array.from({ length: pages.length }, (_, i) => link(i)).join(" · ")}</p>`;
     };
+    // 改进项 category-compare-table:分类级 Top10 收益对比表,所有分页共用(补 credibility 的 comparison-table 缺项)
+    const top10 = [...items].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)).slice(0, 10);
+    const topTable = top10.length ? `<h2>Top-Angebote in ${esc(catName(c))} nach Verdienst/Verkauf — im direkten Vergleich</h2>
+<table class="specs">
+<tr><th>Produkt</th><th>Typ</th><th>Preis</th><th>Provision</th><th>Verdienst/Verkauf</th><th>Warenkorb-Konv.*</th><th>Storno*</th></tr>
+${top10.map((p) => `<tr><td><a href="../produkte/${p.slug}.html">${esc(p.label)}</a></td><td>${esc(p.typeDe || p.type)}</td><td><b>${money(p.price, p.currency)}</b></td><td>${pct(p.commission)}</td><td><b>${money(p.earningsPerSale, p.currency)}</b></td><td>${pct(p.conversionRate)}</td><td>${pct(p.cancelRate)}</td></tr>`).join("\n")}
+</table>
+<p class="sub">* Warenkorb-Konversion und Stornoquote sind Anbieter-seitige Marktplatz-Statistiken und hängen von der Traffic-Qualität ab — keine Prognose. Kategorie-weite Top 10 per ${datemark(DATA.scrapedAt)}; identisch auf allen Seiten dieser Kategorie.</p>` : "";
     pages.forEach((chunk, idx) => {
       const file = idx === 0 ? c.file + ".html" : `${c.file}-p${idx + 1}.html`;
       const pageSub = pages.length > 1 ? ` · Seite ${idx + 1} von ${pages.length}` : "";
@@ -338,6 +355,7 @@ ${bestOf}
 ${chunk.map((p) => productCard(p, "..")).join("\n")}
 </div>
 ${pager(idx)}
+${topTable}
 ${idx === 0 ? faqBlock : ""}
 ${tldrBlock}
 ${methodLine}
@@ -442,6 +460,7 @@ function profilePages(altSlugs) {
     p.vendorSiblings = vendorSiblings;
     const vendorBlock = vendorSiblings.length
       ? `<h2 id="vendor">Weitere Angebote von ${esc(p.vendorName)}</h2>
+${HUB_SLUGS.has(slug(p.vendorName)) ? `<p class="sub">Gesamtes Sortiment: <a href="../hersteller/${slug(p.vendorName)}.html">${esc(p.vendorName)} Anbieter-Hub</a> — alle Listings mit Marktplatz-Daten.</p>` : ""}
 <div class="grid">${vendorSiblings.map((x) => productCard(x, "..")).join("\n")}</div>`
       : "";
 

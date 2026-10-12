@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2025-12-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "medium"
 promo_link: "https://www.affyro.com/500nebenbei.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.affyro.com/500nebenbei.html"
@@ -22,7 +22,7 @@ language: "de"
 # 500 € nebenbei – realistisch, legal, ohne Online-Bullshit
 
 > Product ID `54968` · Digistore24 productId `656649` · [HTML profile page](../../produkte/500-nebenbei-realistisch-legal-ohne-online-bullshit-54968.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

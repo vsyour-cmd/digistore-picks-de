@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Marketing Services"]
 listed_since: "2025-12-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "medium"
 promo_link: "https://researchreport.onepage.me/?aff=adminstore#aff=adminstore"
 sales_page: "https://researchreport.onepage.me/"
@@ -22,7 +22,7 @@ language: "de"
 # Research Report - Krypto Technologie Analyse (PDF+Video)
 
 > Product ID `55275` · Digistore24 productId `656511` · [HTML profile page](../../produkte/research-report-krypto-technologie-analyse-pdf-video-55275.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

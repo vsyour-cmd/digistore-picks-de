@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "medium"
 promo_link: "https://einfachmitmatze.de/ugc/skriptbibliothek/?aff=adminstore#aff=adminstore"
 sales_page: "https://einfachmitmatze.de/ugc/skriptbibliothek/"
@@ -22,7 +22,7 @@ language: "de"
 # 30 UGC-Skripte – Skriptbibliothek mit Matze
 
 > Product ID `59385` · Digistore24 productId `733902` · [HTML profile page](../../produkte/30-ugc-skripte-skriptbibliothek-mit-matze-59385.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
