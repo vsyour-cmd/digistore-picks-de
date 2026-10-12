@@ -171,7 +171,7 @@ ${crumb ? crumbs(crumb) + "\n" : ""}${body}
 <footer class="site"><div class="wrap">
   <div class="disclosure"><b>Werbe-Hinweis:</b> ${SITE_NAME} enthält Affiliate-Links (Werbung). Kaufen Sie über einen Link, erhalten wir ggf. eine Provision vom Anbieter – für Sie entstehen keine Mehrkosten. Alle Marktplatz-Statistiken (Preis, Provision, Konversion, Verdienst) stammen vom offiziellen Digistore24-Marktplatz und sind keine Prognose Ihrer Ergebnisse.</div>
   <div class="buyerlinks"><b>Käufer-Hilfe:</b> <a href="${rel}/digistore24-rueckerstattung.html">Rückerstattungen: So funktioniert's</a> · <a href="${rel}/ist-digistore24-sicher.html">Ist Digistore24 sicher?</a> · <a href="${rel}/sicher-kaufen.html">Checkliste vor dem Kauf</a></div>
-  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Produktdaten: Digistore24-Marktplatz (Stand ${datemark(DATA.scrapedAt)}) · <a href="${rel}/impressum.html">Impressum</a> · <a href="${rel}/datenschutz.html">Datenschutz</a> · <a href="${rel}/about.html">Über uns &amp; Transparenz</a> · <a href="https://vsyour-cmd.github.io/digistore-picks/" hreflang="en">English site</a> · <a href="${rel}/changelog.html">Neuigkeiten</a></div>
+  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Produktdaten: Digistore24-Marktplatz (Stand ${datemark(DATA.scrapedAt)}) · <a href="${rel}/impressum.html">Impressum</a> · <a href="${rel}/datenschutz.html">Datenschutz</a> · <a href="${rel}/about.html">Über uns &amp; Transparenz</a> · <a href="https://vsyour-cmd.github.io/digistore-picks/" hreflang="en">English site</a> · <a href="${rel}/changelog.html">Neuigkeiten</a> · <a href="${rel}/price-watch.html">Preis-Beobachtung</a></div>
 </div></footer>
 ${GOATCOUNTER}
 </body>
@@ -1400,7 +1400,80 @@ const altCount = alternativesPages(altSlugs);
 const bestCount = bestOfPages();
 staticPages();
 trustPages();
+// ---------- Preis-Beobachtung (price-watch-page: History-Snapshots vs. aktueller Datensatz) ----------
+// Unter 7 Tagen Snapshots trotzdem veröffentlichen: kumulierte Änderungen ehrlich zeigen,
+// Hinweis wann das 7-Tage-Fenster greift; mit jedem täglichen Rebuild autom. aktueller
+function priceWatchPage() {
+  const histDir = "G:/Digistore24/data-de/history";
+  const suffix = "-de.json";
+  const snaps = fs.existsSync(histDir) ? fs.readdirSync(histDir).filter((f) => f.endsWith(suffix)).map((f) => f.slice(0, 10)).sort() : [];
+  if (!snaps.length || !snaps[0]) { console.log("price-watch: keine History-Snapshots, übersprungen"); return; }
+  const curIds = new Set(products.map((p) => String(p.id)));
+  const oldest = JSON.parse(fs.readFileSync(path.join(histDir, snaps[0] + suffix), "utf8"));
+  const oldestMap = new Map((oldest.products || []).map((p) => [String(p.id), p]));
+  const pctChg = (a, b) => (a ? Math.round(((b - a) / a) * 1000) / 10 : null);
+  const priceUp = [], priceDown = [], statChanges = [], newListings = [], delisted = [];
+  for (const p of products) {
+    const o = oldestMap.get(String(p.id));
+    if (!o) { newListings.push(p); continue; }
+    const pc = o.price ? pctChg(o.price, p.price) : null;
+    if (pc != null && Math.abs(p.price - o.price) >= 0.5 && Math.abs(pc) >= 1) (pc > 0 ? priceUp : priceDown).push({ p, o, pc });
+    const dc = o.cancelRate != null && p.cancelRate != null ? p.cancelRate - o.cancelRate : null;
+    const dv = o.conversionRate != null && p.conversionRate != null ? p.conversionRate - o.conversionRate : null;
+    const de = o.earningsPerSale ? ((p.earningsPerSale - o.earningsPerSale) / o.earningsPerSale) * 100 : null;
+    if ((dc != null && Math.abs(dc) >= 0.5) || (dv != null && Math.abs(dv) >= 0.5) || (de != null && Math.abs(de) >= 5)) statChanges.push({ p, o, dc, dv, de });
+  }
+  for (const [id, o] of oldestMap) if (!curIds.has(id)) delisted.push(o);
+  const byAbsPc = (a, b) => Math.abs(b.pc) - Math.abs(a.pc);
+  priceUp.sort(byAbsPc); priceDown.sort(byAbsPc);
+  statChanges.sort((a, b) => Math.abs(b.de || 0) - Math.abs(a.de || 0));
+  newListings.sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0));
+  const windowDays = Math.round((Date.now() - Date.parse(snaps[0])) / 86400000);
+  const sevenDayFrom = new Date(Date.parse(snaps[0]) + 7 * 86400000).toISOString().slice(0, 10);
+  const cap = (arr, n) => ({ rows: arr.slice(0, n), more: Math.max(arr.length - n, 0) });
+  const pUp = cap(priceUp, 20), pDown = cap(priceDown, 20), st = cap(statChanges, 20), nl = cap(newListings, 20), dl = cap(delisted, 20);
+  const row = (p, cells) => `<tr><td><a href="../produkte/${p.slug}.html">${esc(p.label)}</a></td>${cells}</tr>`;
+  const body = `
+<h1>Preis-Beobachtung: Was sich auf dem Digistore24-Marktplatz geändert hat</h1>
+<p class="sub">Marktplatz-Daten ${datemark(DATA.scrapedAt)} · Historien-Fenster: ${snaps[0]} → ${snaps[snaps.length - 1]} (${windowDays} Tag${windowDays === 1 ? "" : "e"} Snapshots) · Vergleich: Snapshot ${snaps[0]} gegen den heutigen Datensatz</p>
+<div class="tldr"><b>Auf einen Blick:</b> <ul>
+<li><b>${DATA.total} Produkte beobachtet</b>; seit ${snaps[0]}: <b>${priceUp.length} Preiserhöhungen</b>, <b>${priceDown.length} Preissenkungen</b>, <b>${statChanges.length} wesentliche Kennzahlen-Änderungen</b> (Storno/Konversion/Verdienst).</li>
+<li><b>${newListings.length} neue Listings</b> dazugekommen, <b>${delisted.length} Angebote</b> aus dem Marktplatz-Datensatz verschwunden.</li>
+<li>Alle Zahlen Anbieter-seitige Marktplatz-Statistiken — Änderungen spiegeln die Neupreisung der Anbieter, keine Prognosen von uns.</li>
+</ul></div>
+${windowDays < 7 ? `<div class="notice"><b>Historie sammelt sich an.</b> Tägliche Snapshots beginnen am ${snaps[0]}; die rollierende 7-Tage-Sicht wird ab dem <b>${sevenDayFrom}</b> aussagekräftig. Unten: kumulierte Änderungen seit ${snaps[0]} — aktualisiert sich automatisch mit jedem täglichen Rebuild.</div>` : ""}
+${priceUp.length || priceDown.length ? `<h2 id="preise">Preisänderungen seit ${snaps[0]}</h2>
+${priceUp.length ? `<h3>Erhöht (${priceUp.length})</h3>
+<table class="specs"><tr><th>Produkt</th><th>Alt</th><th>Neu</th><th>Änderung</th></tr>
+${pUp.rows.map(({ p, o, pc }) => row(p, `<td>${money(o.price, p.currency)}</td><td><b>${money(p.price, p.currency)}</b></td><td>+${pc}%</td>`)).join("\n")}
+</table>${pUp.more ? `<p class="sub">…und ${pUp.more} weitere Erhöhungen.</p>` : ""}` : ""}
+${priceDown.length ? `<h3>Gesendet (${priceDown.length})</h3>
+<table class="specs"><tr><th>Produkt</th><th>Alt</th><th>Neu</th><th>Änderung</th></tr>
+${pDown.rows.map(({ p, o, pc }) => row(p, `<td>${money(o.price, p.currency)}</td><td><b>${money(p.price, p.currency)}</b></td><td>${pc}%</td>`)).join("\n")}
+</table>${pDown.more ? `<p class="sub">…und ${pDown.more} weitere Senkungen.</p>` : ""}` : ""}
+<p class="sub">Preise setzt der Anbieter; die Kassenseite ist immer maßgeblich. Eine Preisänderung kann auch ein Relaunch, geänderter Paketinhalt oder eine Währungsanpassung sein — vor Interpretationen das Produktprofil prüfen.</p>` : `<h2 id="preise">Preisänderungen seit ${snaps[0]}</h2><p>Kein Anbieter hat den Listenpreis seit ${snaps[0]} um ≥1% geändert.</p>`}
+${statChanges.length ? `<h2 id="kennzahlen">Wesentliche Kennzahlen-Änderungen (Storno, Konversion, Verdienst/Verkauf)</h2>
+<table class="specs"><tr><th>Produkt</th><th>Storno</th><th>Warenkorb-Konv.</th><th>Verdienst/Verkauf</th></tr>
+${st.rows.map(({ p, o, dc, dv, de }) => row(p, `<td>${o.cancelRate != null && dc != null ? pct(o.cancelRate) + " → " + pct(p.cancelRate) + " (" + (dc > 0 ? "+" : "") + dc.toFixed(1) + "pp)" : "—"}</td><td>${o.conversionRate != null && dv != null ? pct(o.conversionRate) + " → " + pct(p.conversionRate) : "—"}</td><td>${o.earningsPerSale ? money(o.earningsPerSale, p.currency) + " → <b>" + money(p.earningsPerSale, p.currency) + "</b> (" + (de > 0 ? "+" : "") + de.toFixed(1) + "%)" : "—"}</td>`)).join("\n")}
+</table>${st.more ? `<p class="sub">…und ${st.more} weitere.</p>` : ""}
+<p class="sub">Angezeigt: Änderungen ≥0,5pp (Storno/Konversion) oder ≥5% (Verdienst/Verkauf). Diese Statistiken hängen vom Traffic des Anbieters ab — eine bewegliche Zahl ist kein Trend, zwei Punkte ergeben noch keine Linie.</p>` : ""}
+${newListings.length ? `<h2 id="neu">Neue Listings seit ${snaps[0]} (${newListings.length})</h2>
+<table class="specs"><tr><th>Produkt</th><th>Preis</th><th>Verdienst/Verkauf</th><th>Gelistet</th></tr>
+${nl.rows.map((p) => row(p, `<td>${money(p.price, p.currency)}</td><td>${money(p.earningsPerSale, p.currency)}</td><td>${datemark(p.createdAt)}</td>`)).join("\n")}
+</table>${nl.more ? `<p class="sub">…und ${nl.more} weitere — siehe <a href="monthly-new.html">die monatliche Neuheiten-Seite</a>.</p>` : ""}` : ""}
+${delisted.length ? `<h2 id="weg">Nicht mehr im Marktplatz-Datensatz (${delisted.length})</h2>
+<p>In Snapshot ${snaps[0]} vorhanden, heute fehlend: ${dl.rows.map((o) => "<b>" + esc(o.label) + "</b>").join(" · ")}${dl.more ? ` …und ${dl.more} weitere.` : "."} Die Profile bleiben mit Hinweis online, bis <a href="../about.html">unsere Aktualitäts-Politik</a> sie entfernt; über veraltete Seiten nicht kaufen.</p>` : ""}
+<p class="sub">Methode: <a href="blog/digistore24-zahlen-checkliste.html">6-Punkte-Zahlen-Check</a> · <a href="about.html">Recherche-Standards</a>. Beleg- &amp; Validierungsbedingungen: tägliche Voll-Datensatz-Snapshots aus der offiziellen Digistore24-Marktplatz-API (Dateien vom ${snaps.join(", ")}); Änderungen mechanisch zwischen Snapshots berechnet, keine manuelle Kuratierung.</p>`;
+  fs.writeFileSync(outPath("price-watch.html"), layout({
+    title: "Preis-Beobachtung: Digistore24-Marktplatz Änderungen",
+    desc: `Was sich auf dem Digistore24-Marktplatz ändert: Preiserhöhungen und -senkungen, Storno- und Konversions-Bewegungen, neue und verschwundene Angebote seit ${snaps[0]}. Anbieter-Daten, täglich aktualisiert.`,
+    body, path: "price-watch.html",
+  }));
+  console.log(`price-watch: ${priceUp.length} hoch / ${priceDown.length} runter / ${statChanges.length} Kennzahl / ${newListings.length} neu / ${delisted.length} weg (Fenster ${snaps[0]} → jetzt, ${windowDays}d)`);
+}
+
 monthlyNewPage();
+priceWatchPage();
 changelogPage();
 vendorHubs();
 console.log(`Built (DE): index, about, impressum, datenschutz, 404, categories (paginated), ${products.length} profiles, ${altCount} alternatives, ${bestCount} empfehlungen. Articles protected: ${articleIds.size}`);

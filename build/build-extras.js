@@ -41,6 +41,7 @@ function localImg(id) {
 add("", DATA_DATE);
 add("about.html", TODAY);
 add("monthly-new.html", TODAY);
+add("price-watch.html", TODAY);
 add("impressum.html", TODAY);
 add("datenschutz.html", TODAY);
 add("changelog.html", TODAY);

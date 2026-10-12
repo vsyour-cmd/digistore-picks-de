@@ -54,6 +54,15 @@ const TYPE_DE = {
 
 if (!d) { console.error("missing products-de.json"); process.exit(1); }
 
+// 新鲜度守卫:抓取输出超过 26h 未更新 = IAB 会话失效或抓取中断。
+// 用过期数据静默发布会违反"数据每日刷新"承诺(2026-10-12 发现停更 2 天无人察觉),宁可失败并报告。
+const _ageH = (Date.now() - (d.scrapedAt ? Date.parse(d.scrapedAt) : 0)) / 3600000;
+if (_ageH > 26) {
+  console.error(`FRESHNESS GUARD: products-de.json scrapedAt ${d.scrapedAt} is ${_ageH.toFixed(1)}h old (>26h).`);
+  console.error("Digistore24 登录已过期或抓取步骤中断 — 重新登录 IAB、重跑抓取后再构建;不要用过期数据发布。");
+  process.exit(1);
+}
+
 const id2cats = {};
 if (cats) for (const c of cats.categories) {
   for (const pid of (c.ids || [])) {
