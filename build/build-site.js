@@ -343,13 +343,14 @@ ${catQas.map(({ q, a }) => `<h3>${esc(q)}</h3>\n<p>${a}</p>`).join("\n")}`;
         })),
       };
       const bestOf = idx === 0 && isRealCat && items.length >= 8 ? `<p class="sub">Wenig Zeit? Zu den <a href="../empfehlungen/beste-${c.file}.html">Top-Empfehlungen in ${esc(catName(c))}</a> — rechnerisch aus denselben Daten ermittelt.</p>` : "";
-      const tldrBlock = idx === 0 && isRealCat && items.length >= 8 ? `<div class="tldr"><b>Auf einen Blick</b> (Marktplatz-Daten vom ${datemark(DATA.scrapedAt)}): <ul><li><b>${items.length} Angebote</b> in ${esc(catName(c))}, Durchschnittspreis ${money(avg, "USD")}.</li><li>Provisionen ${pct(minC)}–${pct(maxC)}; alle Zahlen sind Anbieter-gemeldete Marktplatz-Daten.</li><li>Top-Auswahl: <a href="../empfehlungen/beste-${c.file}.html">beste ${esc(catName(c))}</a> · Methode: <a href="../blog/digistore24-zahlen-checkliste.html">6-Punkte-Check</a>.</li></ul></div>` : "";
+      const tldrBlock = `<div class="tldr"><b>Auf einen Blick</b> (Marktplatz-Daten vom ${datemark(DATA.scrapedAt)}): <ul><li><b>${items.length} Angebote</b> in ${esc(catName(c))}, Durchschnittspreis ${money(avg, "USD")}.</li><li>Provisionen ${pct(minC)}–${pct(maxC)}; alle Zahlen sind Anbieter-gemeldete Marktplatz-Daten.</li><li>${isRealCat && items.length >= 8 ? `Top-Auswahl: <a href="../empfehlungen/beste-${c.file}.html">beste ${esc(catName(c))}</a> · ` : ""}Methode: <a href="../blog/digistore24-zahlen-checkliste.html">6-Punkte-Check</a>.</li></ul></div>`;
       const methodLine = `<p class="sub">Wie wir bewerten: <a href="../blog/digistore24-zahlen-checkliste.html">6-Punkte-Zahlen-Check</a> · <a href="../about.html">Recherche-Standards</a>.</p>`;
       const evidenceLine = `<p class="sub">Beleg- &amp; Validierungsbedingungen: Statistiken aus der offiziellen Digistore24-Marktplatz-API (Snapshot ${datemark(DATA.scrapedAt)}); aktuelle Preise immer auf offiziellen Seiten prüfen.</p>`;
       const body = `
 <h1>${esc(catName(c))}</h1>
 <p class="sub">${items.length} Produkte · Bereich: ${esc(c.sectionDe || c.section)}${pageSub} · <a href="../index.html">alle Kategorien</a> · <a href="../produkte/index.html">alle Produkte A–Z</a></p>
 ${intro}
+${tldrBlock}
 ${bestOf}
 <div class="grid">
 ${chunk.map((p) => productCard(p, "..")).join("\n")}
@@ -357,7 +358,6 @@ ${chunk.map((p) => productCard(p, "..")).join("\n")}
 ${pager(idx)}
 ${topTable}
 ${idx === 0 ? faqBlock : ""}
-${tldrBlock}
 ${methodLine}
 ${evidenceLine}
 <p class="sub" style="margin-top:22px">* Marktplatz-Statistiken werden von Digistore24 über den Traffic der Anbieter gemeldet; sie hängen von der Traffic-Qualität ab und sind keine Prognose.</p>`;
@@ -703,7 +703,8 @@ ${alts.map(row).join("\n")}
 <li><b>Niedrigste Stornoquote:</b> ${esc([...all].sort((a, b) => (a.cancelRate || 99) - (b.cancelRate || 99))[0].label)} (${pct(Math.min(...all.map((x) => x.cancelRate || 99)))}) — weniger Kaufreue.</li>
 <li><b>Niedrigster Preis:</b> ${esc([...all].sort((a, b) => (a.price || 1e9) - (b.price || 1e9))[0].label)} (${money(Math.min(...all.map((x) => x.price || 1e9)), p.currency)}).</li>
 </ul>
-<p>Jedes Produkt verlinkt auf ein vollständiges Profil mit wörtlicher Verkaufsseiten-Recherche. Preis und Garantie immer auf der offiziellen Seite bestätigen.</p>`;
+<p>Jedes Produkt verlinkt auf ein vollständiges Profil mit wörtlicher Verkaufsseiten-Recherche. Preis und Garantie immer auf der offiziellen Seite bestätigen.</p>
+<p class="sub">Wie wir bewerten: <a href="../blog/digistore24-zahlen-checkliste.html">6-Punkte-Zahlen-Check</a> · <a href="../about.html">Recherche-Standards</a>. Beleg- &amp; Validierungsbedingungen: alle Statistiken aus der offiziellen Digistore24-Marktplatz-API (Snapshot ${datemark(DATA.scrapedAt)}); Vergleiche werden bei jedem täglichen Rebuild neu berechnet.</p>`;
     const jsonLd = [{
       "@context": "https://schema.org",
       "@type": "ItemList",
@@ -765,7 +766,8 @@ ${budget && budget.id !== bestOverall.id && budget.id !== bestConv.id ? pick("�
 <tr><th>#</th><th>Produkt</th><th>Typ</th><th>Preis</th><th>Provision</th><th>Verdienst/Verkauf</th><th>Checkout-CR*</th></tr>
 ${byEps.slice(0, 10).map((p, i) => `<tr><td>${i + 1}</td><td><a href="../produkte/${p.slug}.html">${esc(p.label)}</a></td><td>${esc(p.typeDe)}</td><td>${money(p.price, p.currency)}</td><td>${pct(p.commission)}</td><td><b>${money(p.earningsPerSale, p.currency)}</b></td><td>${pct(p.conversionRate)}</td></tr>`).join("\n")}
 </table>
-<p class="sub">* Anbieter-seitige Statistiken; abhängig von der Traffic-Qualität, keine Prognose. Aktuelle Preise und Garantien immer auf der offiziellen Verkaufsseite prüfen.</p>`;
+<p class="sub">* Anbieter-seitige Statistiken; abhängig von der Traffic-Qualität, keine Prognose. Aktuelle Preise und Garantien immer auf der offiziellen Verkaufsseite prüfen.</p>
+<p class="sub">Wie wir bewerten: <a href="../blog/digistore24-zahlen-checkliste.html">6-Punkte-Zahlen-Check</a> · <a href="../about.html">Recherche-Standards</a>. Beleg- &amp; Validierungsbedingungen: Rangierungen berechnet aus der offiziellen Digistore24-Marktplatz-API (Snapshot ${datemark(DATA.scrapedAt)}); „beste" heißt bestes auf einer gemessenen Dimension, neu berechnet bei jedem täglichen Rebuild.</p>`;
     const jsonLd = [{
       "@context": "https://schema.org",
       "@type": "ItemList",

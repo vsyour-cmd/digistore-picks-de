@@ -356,6 +356,7 @@ ${row(B)}
 <h2>Passung schlägt Zahlen</h2>
 <p>Beide sind High-Ticket-Listings — die richtige Wahl hängt von Zielgruppe und Bewerbungsstil ab, nicht von einer Kennzahl. Lies beide Vollprofile (oben verlinkt) und prüfe die aktuellen Garantien auf den Verkaufsseiten.</p>
 <p>Alternativen: <a href="../alternativen/${A.slug}.html">Alternativen zu ${esc(A.label)}</a> · <a href="../alternativen/${B.slug}.html">Alternativen zu ${esc(B.label)}</a></p>
+<p class="sub">Bewertungsmethode: <a href="digistore24-zahlen-checkliste.html">6-Punkte-Zahlen-Check</a> · <a href="../about.html">Recherche-Standards</a>. Beleg- &amp; Validierungsbedingungen: alle Zahlen aus der offiziellen Digistore24-Marktplatz-API (Snapshot ${UPDATED}); der Vergleich wird bei jedem täglichen Rebuild neu berechnet.</p>
 ${pairs.length > 1 ? `<h2>Weitere direkte Vergleiche</h2>
 <ul>${[...Array(Math.min(4, pairs.length - 1)).keys()].map((k) => vsMeta[(pi + 1 + k) % pairs.length]).map((v) => `<li><a href="${v.f}">${esc(v.t)}</a> — Marktplatz-Vergleich aus derselben Reihe.</li>`).join("\n")}</ul>` : ""}
 </article>`;
