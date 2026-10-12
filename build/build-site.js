@@ -171,7 +171,7 @@ ${crumb ? crumbs(crumb) + "\n" : ""}${body}
 <footer class="site"><div class="wrap">
   <div class="disclosure"><b>Werbe-Hinweis:</b> ${SITE_NAME} enthält Affiliate-Links (Werbung). Kaufen Sie über einen Link, erhalten wir ggf. eine Provision vom Anbieter – für Sie entstehen keine Mehrkosten. Alle Marktplatz-Statistiken (Preis, Provision, Konversion, Verdienst) stammen vom offiziellen Digistore24-Marktplatz und sind keine Prognose Ihrer Ergebnisse.</div>
   <div class="buyerlinks"><b>Käufer-Hilfe:</b> <a href="${rel}/digistore24-rueckerstattung.html">Rückerstattungen: So funktioniert's</a> · <a href="${rel}/ist-digistore24-sicher.html">Ist Digistore24 sicher?</a> · <a href="${rel}/sicher-kaufen.html">Checkliste vor dem Kauf</a></div>
-  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Produktdaten: Digistore24-Marktplatz (Stand ${datemark(DATA.scrapedAt)}) · <a href="${rel}/impressum.html">Impressum</a> · <a href="${rel}/datenschutz.html">Datenschutz</a> · <a href="${rel}/about.html">Über uns &amp; Transparenz</a> · <a href="https://vsyour-cmd.github.io/digistore-picks/" hreflang="en">English site</a> · <a href="${rel}/changelog.html">Neuigkeiten</a> · <a href="${rel}/price-watch.html">Preis-Beobachtung</a></div>
+  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Produktdaten: Digistore24-Marktplatz (Stand ${datemark(DATA.scrapedAt)}) · <a href="${rel}/impressum.html">Impressum</a> · <a href="${rel}/datenschutz.html">Datenschutz</a> · <a href="${rel}/about.html">Über uns &amp; Transparenz</a> · <a href="https://vsyour-cmd.github.io/digistore-picks/" hreflang="en">English site</a> · <a href="${rel}/changelog.html">Neuigkeiten</a> · <a href="${rel}/price-watch.html">Preis-Beobachtung</a> · <a href="${rel}/amazon-picks.html">Amazon-Empfehlungen</a></div>
 </div></footer>
 ${GOATCOUNTER}
 </body>
@@ -513,6 +513,7 @@ ${enList.map((x) => `<li><a href="https://vsyour-cmd.github.io/digistore-picks/r
     const faqHubCat = DATA.categories.find((c) => String(c.catId) === String(primaryCatId));
     const faqHubHtml = faqHubCat ? `<p class="sub"><a href="../faq/${faqHubCat.file}.html">Alle 50 Käuferfragen zu ${esc(catName(faqHubCat))}</a> — das komplette Kategorie-FAQ.</p>` : "";
     const communityHtml = communityBlockDe(p);
+    const amazonHtmlDe = amazonBlockDe(p);
 
     const primaryCat = DATA.categories.find((c) => String(c.catId) === String(primaryCatId));
     const crumbItems = [{ label: "Start", href: "../index.html" }];
@@ -568,6 +569,8 @@ ${faqBlock}
 ${faqHubHtml}
 
 ${communityHtml}
+
+${amazonHtmlDe}
 
 ${relatedBlock}
 
@@ -1570,6 +1573,10 @@ ${entries.map((e) => `<h2>${datemark(e.date)}</h2>
   fs.writeFileSync(outPath("changelog.html"), layout({ title: `Neuigkeiten — ${SITE_NAME}`, desc: `Tägliches Änderungslog von ${SITE_NAME}: Datenaktualisierungen, neue Artikel und Verbesserungen.`, body, path: "changelog.html", hreflangLinks: HREF_HOME }));
 }
 
+
+// ---------- Amazon.de 联盟区块(amazon-blocks-de.js 模块,tagDe 计佣) ----------
+const AMAZON_PICKS = (() => { try { return JSON.parse(fs.readFileSync("G:/Digistore24/data/amazon-picks.json", "utf8")); } catch { return {}; } })();
+const { amazonBlockDe, amazonPicksPageDe } = require("./amazon-blocks-de.js")({ fs, path, DATA, products, catName, esc, pct, money, datemark, outPath, layout, SITE_NAME, AMAZON_PICKS });
 const altSlugs = computeAltSlugs();
 homePage();
 categoryPages();
@@ -1653,6 +1660,7 @@ ${delisted.length ? `<h2 id="weg">Nicht mehr im Marktplatz-Datensatz (${delisted
 monthlyNewPage();
 priceWatchPage();
 faqHubPagesDe();
+amazonPicksPageDe();
 changelogPage();
 vendorHubs();
 console.log(`Built (DE): index, about, impressum, datenschutz, 404, categories (paginated), ${products.length} profiles, ${altCount} alternatives, ${bestCount} empfehlungen. Articles protected: ${articleIds.size}`);
