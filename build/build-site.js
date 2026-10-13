@@ -1080,6 +1080,17 @@ function faqBankDe(cat, items) {
   return out;
 }
 
+// FAQ-Querverweis (faq-hreflang-crosslink): EN-Gegenstück per catId
+function faqEnCounterpart(catId) {
+  if (!EN_DATA) return null;
+  const c2 = EN_DATA.categories.find((c) => String(c.catId) === String(catId));
+  if (!c2) return null;
+  const mk = (cats) => { const cnt = {}; for (const c of cats) { const b = slug(c.label); cnt[b] = (cnt[b] || 0) + 1; } return (c) => (cnt[slug(c.label)] > 1 ? slug(c.section) + "-" + slug(c.label) : slug(c.label)); };
+  const url = "https://vsyour-cmd.github.io/digistore-picks/faq/" + mk(EN_DATA.categories)(c2) + ".html";
+  if (!fs.existsSync("G:/Digistore24/site/faq/" + mk(EN_DATA.categories)(c2) + ".html")) return null;
+  return url;
+}
+
 function faqHubPagesDe() {
   const dir = outPath("faq");
   fs.mkdirSync(dir, { recursive: true });
@@ -1092,7 +1103,10 @@ function faqHubPagesDe() {
     const groups = [...new Set(qas.map((x) => x.g))];
     const best = [...items].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0))[0];
     const med = (() => { const p = items.map((x) => x.price).filter((x) => x != null).sort((a, b) => a - b); return p.length ? p[Math.floor(p.length / 2)] : 0; })();
-    const ringHtml = `<p class="sub">Weitere Kategorie-FAQs: ${[1, 2, 3].map((k) => eligible[(ci + k) % eligible.length]).map((x) => `<a href="../faq/${x.file}.html">${esc(catName(x))}</a>`).join(" · ")}</p>`;
+    const enFaqUrl = faqEnCounterpart(c.catId);
+  const xrefHtml = enFaqUrl ? `<p class="sub">Dieses FAQ gibt es auch auf <a hreflang="en" href="${enFaqUrl}">Englisch</a>.</p>` : "";
+  const faqHref = enFaqUrl ? `<link rel="alternate" hreflang="en" href="${enFaqUrl}"><link rel="alternate" hreflang="de" href="${SITE_URL}/faq/${c.file}.html">` : "";
+  const ringHtml = `<p class="sub">Weitere Kategorie-FAQs: ${[1, 2, 3].map((k) => eligible[(ci + k) % eligible.length]).map((x) => `<a href="../faq/${x.file}.html">${esc(catName(x))}</a>`).join(" · ")}</p>`;
   const body = `
 <h1>${esc(catName(c))} auf Digistore24: 50 Käuferfragen, beantwortet</h1>
 <p class="sub">Kategorie-FAQ · Marktplatz-Daten ${datemark(DATA.scrapedAt)} · ${items.length} Angebote analysiert · Jede Zahl ist Anbieter-seitige Marktplatz-Daten oder als Anbieteraussage gekennzeichnet</p>
@@ -1111,6 +1125,7 @@ function faqHubPagesDe() {
 ${groups.map((g) => `<h2>${esc(g)}</h2>
 ${qas.filter((x) => x.g === g).map((x) => `<h3>${esc(x.q)}</h3>\n<p>${x.a}</p>`).join("\n")}`).join("\n")}
 <p class="sub">Wie wir bewerten: <a href="../blog/digistore24-zahlen-checkliste.html">6-Punkte-Zahlen-Check</a> · <a href="../about.html">${ringHtml}
+${xrefHtml}
 Recherche-Standards</a>. Beleg- &amp; Validierungsbedingungen: Statistiken aus der offiziellen Digistore24-Marktplatz-API (Snapshot ${datemark(DATA.scrapedAt)}); aus Verkaufsseiten zitierte Garantie- und Versprechens-Formulierungen sind als Anbieteraussage gekennzeichnet und nicht unsere Prüfung.</p>`;
   
   const jsonLd = [{
@@ -1121,7 +1136,7 @@ Recherche-Standards</a>. Beleg- &amp; Validierungsbedingungen: Statistiken aus d
     fs.writeFileSync(path.join(dir, c.file + ".html"), layout({
       title: `${catName(c)} auf Digistore24: 50 Käuferfragen beantwortet`,
       desc: `50 echte Käuferfragen zu ${catName(c)} auf Digistore24 — Preise, Rückerstattungen, Stornoquoten, Anbietern, beantwortet mit offiziellen Marktplatz-Daten. Stand ${datemark(DATA.scrapedAt)}.`,
-      body, rel: "..", path: `faq/${c.file}.html`, jsonLd,
+      body, rel: "..", path: `faq/${c.file}.html`, jsonLd, hreflangLinks: faqHref,
       crumb: [{ label: "Start", href: "../index.html" }, { label: catName(c), href: `../kategorie/${c.file}.html` }, { label: "FAQ", href: `../faq/${c.file}.html` }],
     }));
     built++;
