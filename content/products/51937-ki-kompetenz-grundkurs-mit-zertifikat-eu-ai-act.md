@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die neue EU-KI-Verordnung kommt – sind Sie bereit? Unser KI-Kompetenz Grundkurs vermittelt Ihnen praxisnah, wie Sie KI-Tools im Office-Alltag sicher nutzen und steuern. Erwerben Sie essentielles Wissen, um KI effektiv einzusetzen, Risiken zu minimieren und produktiver zu arbeiten. Lernen Sie von Experten, erhalten Sie ein anerkanntes Zertifikat und sichern Sie sich einen entscheidenden Vorteil im Berufsleben. Einfach, verständlich, sofort anwendbar!<br /><br /></p>
+**Vendor's marketplace description:** Die neue EU-KI-Verordnung kommt – sind Sie bereit? Unser KI-Kompetenz Grundkurs vermittelt Ihnen praxisnah, wie Sie KI-Tools im Office-Alltag sicher nutzen und steuern. Erwerben Sie essentielles Wissen, um KI effektiv einzusetzen, Risiken zu minimieren und produktiver zu arbeiten. Lernen Sie von Experten, erhalten Sie ein anerkanntes Zertifikat und sichern Sie sich einen entscheidenden Vorteil im Berufsleben. Einfach, verständlich, sofort anwendbar!
 
 ## 2. Links
 

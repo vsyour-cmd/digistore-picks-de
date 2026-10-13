@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Affiliate Marketing einfach erklärt – mit Unterstützung durch KI.</strong></p>
-<p>Dieses kostenlose E-Book zeigt dir Schritt für Schritt,<br />wie du ohne Vorkenntnisse ins Affiliate-Marketing startest<br />und moderne KI-Tools sinnvoll einsetzt.</p>
-<p><strong>Inhalte u. a.:</strong></p>
-<ul>
-<li>
-<p>Grundlagen des Affiliate-Marketings</p>
-</li>
-<li>
-<p>Einsatz von KI für Content &amp; Automatisierung</p>
-</li>
-<li>
-<p>Erste Schritte zur eigenen Provision</p>
-</li>
-<li>
-<p>Praxisnahe Tipps &amp; typische Anfängerfehler</p>
-</li>
-</ul>
-<p>Ideal für Einsteiger, Selbstständige und alle,<br />die ChatGPT produktiver nutzen möchten.<br /><br /><strong>Hinweis für Affiliates:</strong><br />Dieses kostenlose E-Book dient als Einstieg.<br />Im weiteren Funnel bestehen optionale Upsell-<br />und Add-on-Möglichkeiten mit einem<br />Gesamtpotenzial von bis zu 73 Euro Provision.</p>
+**Vendor's marketplace description:** Affiliate Marketing einfach erklärt – mit Unterstützung durch KI. Dieses kostenlose E-Book zeigt dir Schritt für Schritt, wie du ohne Vorkenntnisse ins Affiliate-Marketing startest und moderne KI-Tools sinnvoll einsetzt. Inhalte u. a.: Grundlagen des Affiliate-Marketings Einsatz von KI für Content & Automatisierung Erste Schritte zur eigenen Provision Praxisnahe Tipps & typische Anfängerfehler Ideal für Einsteiger, Selbstständige und alle, die ChatGPT produktiver nutzen möchten. Hinweis für Affiliates: Dieses kostenlose E-Book dient als Einstieg. Im weiteren Funnel bestehen optionale Upsell- und Add-on-Möglichkeiten mit einem Gesamtpotenzial von bis zu 73 Euro Provision.
 
 ## 2. Links
 

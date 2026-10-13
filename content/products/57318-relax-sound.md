@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bindet euren Affiliate Link auf euren Plattformen so ein, dass die Kunden über euren Link auch kaufen. :)</p>
-<p> </p>
-<p>Es handelt sich hierbei um eine MP3 Datei 30min Relax-Sound , egal ob zum Lernen, in einem Massagestudio, im Wellnesshotel, zum Yoga, für Kurse etc.</p>
-<p>Die Musik darf nach Kauf kommerziell frei genutzt werden.</p>
-<p>Gute Verkäufe dir!:)</p>
-<p>-&gt; Need help?</p>
-<p>conact: worldfinancemovement@outlook.de</p>
+**Vendor's marketplace description:** Bindet euren Affiliate Link auf euren Plattformen so ein, dass die Kunden über euren Link auch kaufen. :) Es handelt sich hierbei um eine MP3 Datei 30min Relax-Sound , egal ob zum Lernen, in einem Massagestudio, im Wellnesshotel, zum Yoga, für Kurse etc. Die Musik darf nach Kauf kommerziell frei genutzt werden. Gute Verkäufe dir!:) -> Need help? conact: worldfinancemovement@outlook.de
 
 ## 2. Links
 

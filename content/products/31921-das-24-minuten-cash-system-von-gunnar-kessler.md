@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das 24 Minuten Cash System</strong> <strong>zeigt seinen Kunden, wie sie ohne eigenes Produkt und ohne großen Aufwand mit Affiliate Marketing täglich mehr Geld als in ihrem Hauptjob verdienen können.</strong><br /><br />Mit dem 24 Minuten Cash System bieten Sie Ihren Kunden eine einmalige Möglichkeit 100%ig, sicher neue passive Einkommensströme über das Internet aufzubauen.<br /><br /><br />Unsere Conversionrate beträgt bei zielgerichtetem Traffic bis zu 19,4% und die Refundrate ist geringer als 1%.<br /><br /></p>
-<p>Die Upsellrate liegt bei über 20%.<br /><br /><br /><strong>Bewerben Sie unser Produkt JETZT an Ihre Liste und sehen schon heute Abend große Summen an Provision in Ihren Account fließen.</strong></p>
+**Vendor's marketplace description:** Das 24 Minuten Cash System zeigt seinen Kunden, wie sie ohne eigenes Produkt und ohne großen Aufwand mit Affiliate Marketing täglich mehr Geld als in ihrem Hauptjob verdienen können. Mit dem 24 Minuten Cash System bieten Sie Ihren Kunden eine einmalige Möglichkeit 100%ig, sicher neue passive Einkommensströme über das Internet aufzubauen. Unsere Conversionrate beträgt bei zielgerichtetem Traffic bis zu 19,4% und die Refundrate ist geringer als 1%. Die Upsellrate liegt bei über 20%. Bewerben Sie unser Produkt JETZT an Ihre Liste und sehen schon heute Abend große Summen an Provision in Ihren Account fließen.
 
 ## 2. Links
 

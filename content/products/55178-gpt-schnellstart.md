@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb jetzt unser Freebie und profitiere von einer extrem guten Conversion und 50% Provision auf alle Addons und Upsells</p>
-<h2>GPT Schnellstart</h2>
-<p><strong>Der 20-Minuten-Blueprint für deinen ersten GPT</strong></p>
-<p>Die schnellste Grundlage für deinen eigenen KI-Assistenten.</p>
-<p>In nur 20 Minuten legst du die Basis für deinen ersten GPT – ohne Technik, ohne Vorwissen, ohne Überforderung.</p>
-<h3>Das bekommst du</h3>
-<p>• Ein klares Ziel für deinen GPT<br />• Eine Mini-Persona für den Einsatzbereich<br />• Eine zentrale Kernaufgabe mit echtem Nutzen<br />• Eine kompakte Inhalts-Checkliste<br />• Einen Mini-Fahrplan für die nächsten Schritte</p>
-<h3>Auslieferung</h3>
-<p>Sofort verfügbar per Download-Link.</p>
+**Vendor's marketplace description:** Bewirb jetzt unser Freebie und profitiere von einer extrem guten Conversion und 50% Provision auf alle Addons und Upsells GPT Schnellstart Der 20-Minuten-Blueprint für deinen ersten GPT Die schnellste Grundlage für deinen eigenen KI-Assistenten. In nur 20 Minuten legst du die Basis für deinen ersten GPT – ohne Technik, ohne Vorwissen, ohne Überforderung. Das bekommst du • Ein klares Ziel für deinen GPT • Eine Mini-Persona für den Einsatzbereich • Eine zentrale Kernaufgabe mit echtem Nutzen • Eine kompakte Inhalts-Checkliste • Einen Mini-Fahrplan für die nächsten Schritte Auslieferung Sofort verfügbar per Download-Link.
 
 ## 2. Links
 

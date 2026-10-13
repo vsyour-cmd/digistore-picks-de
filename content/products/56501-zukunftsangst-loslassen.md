@@ -41,34 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>„Zukunftsangst loslassen – Schritt für Schritt“ ist ein ruhiges, ehrliches Selbsthilfe-E-Book für Menschen mit Zukunftsangst, innerer Unruhe und ständigem Gedankenkarussell – basierend auf persönlichen Erfahrungen.</p>
-<p>Das Produkt kombiniert verständliche Impulse mit konkreten Übungen und einem zusätzlichen Workbook mit 33 weiteren Übungen rund um Loslassen, Selbstliebe und emotionale Entspannung.</p>
-<p>Die Verkaufsseite und das gesamte Branding sind bewusst ruhig, hochwertig und vertrauensvoll aufgebaut.</p>
-<p>Das Produkt eignet sich besonders für:</p>
-<ul>
-<li>Mental Health / Mindset Creator</li>
-<li>YouTube-Kanäle rund um Persönlichkeitsentwicklung</li>
-<li>Instagram-Seiten zu Angst, innerer Ruhe &amp; Selbstliebe</li>
-<li>Blogs &amp; Communities im Bereich mentale Gesundheit</li>
-<li>Newsletter rund um emotionale Freiheit und bewusstes Leben</li>
-</ul>
-<p>Highlights:</p>
-<ul>
-<li>Professionelle Landingpage &amp; hochwertige Mockups</li>
-<li>Sofortdownload</li>
-<li>Inkl. Bonus-Workbook mit 33 Übungen</li>
-<li>Ruhige, vertrauensvolle Positionierung</li>
-<li>Hohe emotionale Relevanz durch stark steigende Nachfrage nach dem Thema „Zukunftsangst“</li>
-</ul>
-<p>Nicht erlaubt:</p>
-<ul>
-<li>Keine unrealistischen Heilversprechen</li>
-<li>Keine Aussagen wie „heilt Angststörungen“ o. Ä.</li>
-<li>Keine bezahlte Werbung auf Plattformen wie Google, YouTube, Meta, TikTok oder Pinterest</li>
-<li>Keine Werbung auf Brand-Keywords oder Markennamen</li>
-<li>Keine irreführenden Werbeaussagen</li>
-<li>Kein Spam-Marketing</li>
-</ul>
+**Vendor's marketplace description:** „Zukunftsangst loslassen – Schritt für Schritt“ ist ein ruhiges, ehrliches Selbsthilfe-E-Book für Menschen mit Zukunftsangst, innerer Unruhe und ständigem Gedankenkarussell – basierend auf persönlichen Erfahrungen. Das Produkt kombiniert verständliche Impulse mit konkreten Übungen und einem zusätzlichen Workbook mit 33 weiteren Übungen rund um Loslassen, Selbstliebe und emotionale Entspannung. Die Verkaufsseite und das gesamte Branding sind bewusst ruhig, hochwertig und vertrauensvoll aufgebaut. Das Produkt eignet sich besonders für: Mental Health / Mindset Creator YouTube-Kanäle rund um Persönlichkeitsentwicklung Instagram-Seiten zu Angst, innerer Ruhe & Selbstliebe Blogs & Communities im Bereich mentale Gesundheit Newsletter rund um emotionale Freiheit und bewusstes Leben Highlights: Professionelle Landingpage & hochwertige Mockups Sofortdownload Inkl. Bonus-Workbook mit 33 Übungen Ruhige, vertrauensvolle Positionierung Hohe emotionale Relevanz durch stark steigende Nachfrage nach dem Thema „Zukunftsangst“ Nicht erlaubt: Keine unrealistischen Heilversprechen Keine Aussagen wie „heilt Angststörungen“ o. Ä. Keine bezahlte Werbung auf Plattformen wie Google, YouTube, Meta, TikTok oder Pinterest Keine Werbung auf Brand-Keywords oder Markennamen Keine irreführenden Werbeaussagen Kein Spam-Marketing
 
 ## 2. Links
 

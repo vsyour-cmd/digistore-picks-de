@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>Realistisch Zeichnen Lernen von Martin Mißfeldt</div>
-<div>
-<p>„<strong>Realistisch Zeichnen Lernen</strong> - <em>Mit Bleistiften beobachten</em>“ von Martin Mißfeldt </p>
-<p><strong>eBook</strong> (PDF, 30 MB Download)</p>
-<p>Umfang: <strong>97 Seiten</strong> (inkl. zahlreiche Abbildungen und Übungen)</p>
-<p>Für <strong>Anfänger</strong> und <strong>Fortgeschrittene</strong> viele hilfreiche Tipps und Tricks. Auch wenn der Fokus auf realistischen Bleistiftzeichnungen liegt: das Buch enthält viel mehr. <strong>"Realistisch" und "Zeichnen" sind zweierlei.</strong> Zum Einen werde die Grundlagen des Zeichnens vermittelt, vom Material und Werkzeug über grundlegende <strong>Zeichentechniken</strong> (z.B. Schraffieren) bis hin zum effektiven Abzeichnen mit einem Raster. Zum Anderen werden die <strong>Grundlagen des Beobachtens</strong> erklärt, die man für jeder Art von realistischem Bild benötigt. Am Ende werden <strong>zahlreiche Inspirationen</strong> für die weitere kreative Entfaltung gegeben. Das Buch enthält zudem 16 Seiten mit Zeichenübungen.</p>
-<p> </p>
-<p>Weitere Infos hier: <a>https://www.martin-missfeldt.de/realistisch-zeichnen-lernen.php</a></p>
-</div>
+**Vendor's marketplace description:** Realistisch Zeichnen Lernen von Martin Mißfeldt „ Realistisch Zeichnen Lernen - Mit Bleistiften beobachten “ von Martin Mißfeldt eBook (PDF, 30 MB Download) Umfang: 97 Seiten (inkl. zahlreiche Abbildungen und Übungen) Für Anfänger und Fortgeschrittene viele hilfreiche Tipps und Tricks. Auch wenn der Fokus auf realistischen Bleistiftzeichnungen liegt: das Buch enthält viel mehr. "Realistisch" und "Zeichnen" sind zweierlei. Zum Einen werde die Grundlagen des Zeichnens vermittelt, vom Material und Werkzeug über grundlegende Zeichentechniken (z.B. Schraffieren) bis hin zum effektiven Abzeichnen mit einem Raster. Zum Anderen werden die Grundlagen des Beobachtens erklärt, die man für jeder Art von realistischem Bild benötigt. Am Ende werden zahlreiche Inspirationen für die weitere kreative Entfaltung gegeben. Das Buch enthält zudem 16 Seiten mit Zeichenübungen. Weitere Infos hier: https://www.martin-missfeldt.de/realistisch-zeichnen-lernen.php
 
 ## 2. Links
 

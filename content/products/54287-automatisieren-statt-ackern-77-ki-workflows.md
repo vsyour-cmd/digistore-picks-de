@@ -41,33 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Automatisieren statt ackern – 77 KI-Workflows, die dir Zeit sparen und Einnahmequellen öffnen</strong></p>
-<p>Dieses E-Book zeigt 77 praxiserprobte KI-Workflows für Alltag, Beruf &amp; Business. Perfekt für alle, die Zeit sparen, Prozesse automatisieren und neue Einnahmequellen entdecken wollen.</p>
-<p><strong>USP (Alleinstellungsmerkmale):</strong></p>
-<ul>
-<li>77 sofort einsetzbare Workflows für Produktivität, Business, Finanzen &amp; Smart Living</li>
-<li>Fokus auf Praxis &amp; schnelle Umsetzbarkeit</li>
-<li>Themen, die 2025 im Trend liegen: KI, Automatisierung, Side Hustles</li>
-<li>Professionell aufgebaut, ideal für Einsteiger &amp; Fortgeschrittene</li>
-</ul>
-<p>Zielgruppen:</p>
-<ul>
-<li>Berufstätige &amp; Selbstständige, die Zeit sparen wollen</li>
-<li>Unternehmer:innen &amp; Coaches, die ihr Business automatisieren möchten</li>
-<li>Side Hustler &amp; Affiliate-Marketer, die zusätzliche Einnahmequellen suchen</li>
-<li>Technik-Interessierte, die KI clever nutzen wollen</li>
-</ul>
-<p><strong>Provision:</strong></p>
-<p>50 % pro Sale – attraktiver Verdienst bei einem Endkundenpreis von 39 €</p>
-<p><strong>Promo-Ideen für Affiliates:</strong></p>
-<ul>
-<li>Poste „Vorher-Nachher“-Vergleiche („1 Stunde Arbeit → 5 Minuten Automation“)</li>
-<li>TikTok/Instagram Reels: „3 Workflows, die dir täglich 2 Stunden sparen“</li>
-<li>Blogartikel: „So verdienst du mit KI-Workflows passives Einkommen“</li>
-<li>Newsletter-Teaser: „Spare Zeit + finde neue Einnahmequellen mit diesen 77 Workflows“</li>
-</ul>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Automatisieren statt ackern – 77 KI-Workflows, die dir Zeit sparen und Einnahmequellen öffnen Dieses E-Book zeigt 77 praxiserprobte KI-Workflows für Alltag, Beruf & Business. Perfekt für alle, die Zeit sparen, Prozesse automatisieren und neue Einnahmequellen entdecken wollen. USP (Alleinstellungsmerkmale): 77 sofort einsetzbare Workflows für Produktivität, Business, Finanzen & Smart Living Fokus auf Praxis & schnelle Umsetzbarkeit Themen, die 2025 im Trend liegen: KI, Automatisierung, Side Hustles Professionell aufgebaut, ideal für Einsteiger & Fortgeschrittene Zielgruppen: Berufstätige & Selbstständige, die Zeit sparen wollen Unternehmer:innen & Coaches, die ihr Business automatisieren möchten Side Hustler & Affiliate-Marketer, die zusätzliche Einnahmequellen suchen Technik-Interessierte, die KI clever nutzen wollen Provision: 50 % pro Sale – attraktiver Verdienst bei einem Endkundenpreis von 39 € Promo-Ideen für Affiliates: Poste „Vorher-Nachher“-Vergleiche („1 Stunde Arbeit → 5 Minuten Automation“) TikTok/Instagram Reels: „3 Workflows, die dir täglich 2 Stunden sparen“ Blogartikel: „So verdienst du mit KI-Workflows passives Einkommen“ Newsletter-Teaser: „Spare Zeit + finde neue Einnahmequellen mit diesen 77 Workflows“
 
 ## 2. Links
 

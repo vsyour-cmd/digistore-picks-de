@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Digitales Bildungs-Workbook (PDF, ~68 S. A4, DE) für Angehörige/Versicherte: Pflegegrad-Antrag oder Höherstufung vorbereiten (Ordner, 14-Tage-Tagebuch, NBA-Module). Preis 34,95 € einmalig, Provision 50 %, Rückgabe 14 Tage. Verkaufsseite <a href="https://pflegegrad-klar.pages.dev/">https://pflegegrad-klar.pages.dev/</a> Orderform <a href="https://www.digistore24.com/product/729268">https://www.digistore24.com/product/729268</a>. Keine Pflegeberatung, kein Heilversprechen, kein garantierter Pflegegrad. Kein Abo.</p>
+**Vendor's marketplace description:** Digitales Bildungs-Workbook (PDF, ~68 S. A4, DE) für Angehörige/Versicherte: Pflegegrad-Antrag oder Höherstufung vorbereiten (Ordner, 14-Tage-Tagebuch, NBA-Module). Preis 34,95 € einmalig, Provision 50 %, Rückgabe 14 Tage. Verkaufsseite https://pflegegrad-klar.pages.dev/ Orderform https://www.digistore24.com/product/729268 . Keine Pflegeberatung, kein Heilversprechen, kein garantierter Pflegegrad. Kein Abo.
 
 ## 2. Links
 

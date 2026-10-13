@@ -41,35 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der Lifehack bei der Einkommensanrechnung (Online-Videokurs)</strong></p>
-<p>Erfahre, wie Du durch eine gezielte Anwendung der Einkommensanrechnung Deine Witwen- oder Witwerrente deutlich weniger kürzen lässt – und so jedes Jahr mehrere Hundert oder sogar Tausende Euro sparst.</p>
-<p>In diesem Videokurs lernst Du verständlich und praxisnah:</p>
-<ul>
-<li>
-<p>die Grundlagen der gesetzlichen Rentenversicherung</p>
-</li>
-<li>
-<p>wie die Einkommensanrechnung wirklich funktioniert</p>
-</li>
-<li>
-<p>welche Einkommensarten berücksichtigt werden</p>
-</li>
-<li>
-<p>wie Du den Lifehack gezielt anwendest</p>
-</li>
-<li>
-<p>worauf Du bei Steuerjahr und Rentenjahr achten musst</p>
-</li>
-<li>
-<p>wie Du Sonderzahlungen, Minijob oder Selbstständigkeit optimal einbeziehst</p>
-</li>
-<li>
-<p>wie Du den Lifehack auch langfristig und in der Altersrente nutzt</p>
-</li>
-</ul>
-<p>Der Kurs enthält zahlreiche Beispiele, konkrete Anleitungen und typische Fehler, die Du vermeiden solltest.</p>
-<p>Dauer: über 1,5 Stunden Videomaterial<br />Zugriff: 30 Tage, beliebig oft abrufbar</p>
-<p><strong>Bonus:</strong> Inklusive Excel-Berechnungshilfe zur direkten Umsetzung.</p>
+**Vendor's marketplace description:** Der Lifehack bei der Einkommensanrechnung (Online-Videokurs) Erfahre, wie Du durch eine gezielte Anwendung der Einkommensanrechnung Deine Witwen- oder Witwerrente deutlich weniger kürzen lässt – und so jedes Jahr mehrere Hundert oder sogar Tausende Euro sparst. In diesem Videokurs lernst Du verständlich und praxisnah: die Grundlagen der gesetzlichen Rentenversicherung wie die Einkommensanrechnung wirklich funktioniert welche Einkommensarten berücksichtigt werden wie Du den Lifehack gezielt anwendest worauf Du bei Steuerjahr und Rentenjahr achten musst wie Du Sonderzahlungen, Minijob oder Selbstständigkeit optimal einbeziehst wie Du den Lifehack auch langfristig und in der Altersrente nutzt Der Kurs enthält zahlreiche Beispiele, konkrete Anleitungen und typische Fehler, die Du vermeiden solltest. Dauer: über 1,5 Stunden Videomaterial Zugriff: 30 Tage, beliebig oft abrufbar Bonus: Inklusive Excel-Berechnungshilfe zur direkten Umsetzung.
 
 ## 2. Links
 

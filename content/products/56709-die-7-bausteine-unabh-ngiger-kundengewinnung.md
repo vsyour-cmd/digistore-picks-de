@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieser Videokurs richtet sich an selbstständige Berater, Coaches und Dienstleister, die systematisch neue Kunden gewinnen wollen, ohne mehr Zeit zu investieren.</p>
-<p> </p>
-<p>In 1,5 Stunden zeige ich die 7 Bausteine unabhängiger Kundengewinnung: vom Zielbild über Positionierung und Angebotskommunikation bis zum Verkaufsprozess und Tracking. 12 Lektionen, 7 Übungen, ein Praxisratgeber.</p>
-<p> </p>
-<p>Warum es sich lohnt, diesen Kurs zu bewerben:</p>
-<p><strong>Du verdienst 50% Provision pro Verkauf.</strong></p>
-<p>Preis: Klar positioniert und kein Premiumpreis der abschreckt. Zielgruppe kauft bewusst und ist qualifiziert.</p>
-<p> </p>
-<p>Der Kurs löst ein konkretes Problem, das fast jeder Selbstständige kennt. Hohe inhaltliche Qualität, 7 Jahre Erfahrung aus Studium und Praxis komprimiert auf das Wesentliche.</p>
-<p> </p>
-<p>Bei Fragen melde dich gerne per Mail: office@ds-onlinemarketing.de</p>
+**Vendor's marketplace description:** Dieser Videokurs richtet sich an selbstständige Berater, Coaches und Dienstleister, die systematisch neue Kunden gewinnen wollen, ohne mehr Zeit zu investieren. In 1,5 Stunden zeige ich die 7 Bausteine unabhängiger Kundengewinnung: vom Zielbild über Positionierung und Angebotskommunikation bis zum Verkaufsprozess und Tracking. 12 Lektionen, 7 Übungen, ein Praxisratgeber. Warum es sich lohnt, diesen Kurs zu bewerben: Du verdienst 50% Provision pro Verkauf. Preis: Klar positioniert und kein Premiumpreis der abschreckt. Zielgruppe kauft bewusst und ist qualifiziert. Der Kurs löst ein konkretes Problem, das fast jeder Selbstständige kennt. Hohe inhaltliche Qualität, 7 Jahre Erfahrung aus Studium und Praxis komprimiert auf das Wesentliche. Bei Fragen melde dich gerne per Mail: office@ds-onlinemarketing.de
 
 ## 2. Links
 

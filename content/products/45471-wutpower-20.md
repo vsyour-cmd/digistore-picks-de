@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>WutPower 20%</p>
+**Vendor's marketplace description:** WutPower 20%
 
 ## 2. Links
 

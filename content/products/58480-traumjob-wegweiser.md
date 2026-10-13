@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ich habe gerade erst mit Digistore24 angefangen und möchte Euch darum bitten mir zu helfen das Produkt zu werben.Danke im Voraus</p>
+**Vendor's marketplace description:** Ich habe gerade erst mit Digistore24 angefangen und möchte Euch darum bitten mir zu helfen das Produkt zu werben.Danke im Voraus
 
 ## 2. Links
 

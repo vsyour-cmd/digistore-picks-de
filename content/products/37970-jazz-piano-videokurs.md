@@ -41,44 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Jazz Piano Videokurs</h3>
-<div>
-<h4><strong>Mache die Ausbildung zum Bar Jazz Pianisten und lerne Jazz Piano leichter und effektiver als je zuvor!</strong></h4>
-<p><strong>Gesamtpaket: Jazz Piano Videokurs für ambitionierte Einsteiger und Fortgeschrittene mit grundlegenden Kenntnissen im Klavierspiel,</strong> über 100 frei einteilbare Videos, mehr als 10 Stunden reine Spielzeit.</p>
-<p> </p>
-<p><strong>Alle Vorteile auf einen Blick:</strong></p>
-<p>  </p>
-<ul>
-<li>
-<p>Werde Solo Jazz Pianist und spiele im Bar &amp; Cocktail Jazz Piano Stil</p>
-</li>
-<li>
-<p>Lerne die wunderschönsten Jazz Melodien auf Deinem Instrument solistisch zu interpretieren</p>
-</li>
-<li>
-<p>Spiele auch komplexe Voicings sauber und mit Selbstverständlichkeit ohne Nachzudenken</p>
-</li>
-<li>
-<p>Lerne eigene Jazz Piano Arrangements mit Akkorden, Licks &amp; Läufen auszuschmücken</p>
-</li>
-<li>
-<p>Werde ein besserer Jazz Pianist in kürzester Zeit und spiele absolut selbstbewusst</p>
-</li>
-<li>
-<p>Von zu Hause aus, zu Deiner Zeit an Deinem Instrument lernen​</p>
-</li>
-<li>
-<p>Komplettpreis für alle Videos und Noten im PDF-Format zum Download</p>
-</li>
-<li>
-<p><span style="color:#ff0000;">Neu:</span><strong> optionales 1-zu-1 online Piano Coaching buchbar!!!</strong></p>
-</li>
-</ul>
-<p> </p>
-<p>Das Kurspaket wird um weitere wertvolle Inhalte erweitert. Der Preis wird weiter steigen!</p>
-<p><strong>Deshalb: Nutze dieses sensationelle Angebot und steige jetzt noch günstig ein!</strong></p>
-<p>Direkt nach der Bezahlung bekommst du deine Zugangsdaten per E-Mail zugeschickt und kannst sofort beginnen!</p>
-</div>
+**Vendor's marketplace description:** Jazz Piano Videokurs Mache die Ausbildung zum Bar Jazz Pianisten und lerne Jazz Piano leichter und effektiver als je zuvor! Gesamtpaket: Jazz Piano Videokurs für ambitionierte Einsteiger und Fortgeschrittene mit grundlegenden Kenntnissen im Klavierspiel, über 100 frei einteilbare Videos, mehr als 10 Stunden reine Spielzeit. Alle Vorteile auf einen Blick: Werde Solo Jazz Pianist und spiele im Bar & Cocktail Jazz Piano Stil Lerne die wunderschönsten Jazz Melodien auf Deinem Instrument solistisch zu interpretieren Spiele auch komplexe Voicings sauber und mit Selbstverständlichkeit ohne Nachzudenken Lerne eigene Jazz Piano Arrangements mit Akkorden, Licks & Läufen auszuschmücken Werde ein besserer Jazz Pianist in kürzester Zeit und spiele absolut selbstbewusst Von zu Hause aus, zu Deiner Zeit an Deinem Instrument lernen​ Komplettpreis für alle Videos und Noten im PDF-Format zum Download Neu: optionales 1-zu-1 online Piano Coaching buchbar!!! Das Kurspaket wird um weitere wertvolle Inhalte erweitert. Der Preis wird weiter steigen! Deshalb: Nutze dieses sensationelle Angebot und steige jetzt noch günstig ein! Direkt nach der Bezahlung bekommst du deine Zugangsdaten per E-Mail zugeschickt und kannst sofort beginnen!
 
 ## 2. Links
 

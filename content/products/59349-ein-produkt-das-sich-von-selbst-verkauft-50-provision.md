@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Bis zu 1.046 € Provision pro Empfehlung — mit einem Produkt, das sich von selbst verkauft.</h2>
-<p>Stell dir vor, du empfiehlst ein Produkt, das nicht nur gut konvertiert, sondern bei jedem einzelnen Verkauf bis zu <strong>1.046 € auf dein Konto</strong> bringt. Genau das ist Marken-Blueprint 360° — und du erhältst darauf <strong>50 % Provision auf den vollen Bestellwert</strong>.</p>
-<p><strong>Warum sich dieses Produkt so leicht verkauft:</strong></p>
-<p>Jeder, der online ein Business starten oder sich professionell präsentieren will, steht vor demselben Problem: Wochen mit Canva-Vorlagen, halbfertigen Texten und einem Logo, das nie fertig wird — und am Ende trotzdem unprofessionell wirken. Marken-Blueprint 360° löst genau das: Aus einem einzigen ausgefüllten Fragebogen entsteht die komplette professionelle Business-Identität — Biografie, Logo, Farbwelt, Unternehmensmappe und Sales-Page, fertig in 7 Tagen.</p>
-<p>Das ist kein weiteres Canva-Template und kein austauschbarer Logo-Generator. Es ist ein hochpreisiges, hochwertiges Premium-Produkt, entwickelt von einem Marketing-Team mit über 30 Jahren Erfahrung in Vertrieb und Online-Marketing — und genau dieser Premium-Charakter ist es, der deine Provision so attraktiv macht.</p>
-<p><strong>Deine Zahlen als Affiliate:</strong></p>
-<ul>
-<li><strong>Provision: 50 %</strong> auf jeden Verkauf</li>
-<li><strong>Bis zu 1.046 € Provision</strong> pro vermitteltem Kunden</li>
-<li>Klar abgegrenzte, leicht ansprechbare Zielgruppe: Angestellte im Sprung in die Selbstständigkeit, Coaches und Berater:innen ohne eigenes Marketing-Team, alle, die auf alfima professionell starten wollen</li>
-</ul>
-<p><strong>Das bekommst du als Affiliate an die Hand:</strong></p>
-<ul>
-<li>Eine fertige, konversionsstarke Sales-Page im durchgängigen Premium-Design</li>
-<li>Vorformulierte Produktbilder und Werbetexte für Social Media</li>
-<li>Eine klare, verständliche Positionierung, die sich in einem Satz erklären lässt — leicht zu bewerben, leicht zu verstehen</li>
-</ul>
-<p>Du musst niemanden von einem vagen Versprechen überzeugen. Du zeigst ein greifbares Ergebnis: eine komplette, professionelle Business-Identität, die man sonst nur mit einem eigenen Marketing-Team oder Wochen an Eigenarbeit bekommt.</p>
-<p><strong>Werde jetzt Affiliate und sichere dir bis zu 1.245 € für jede Empfehlung.</strong></p>
+**Vendor's marketplace description:** Bis zu 1.046 € Provision pro Empfehlung — mit einem Produkt, das sich von selbst verkauft. Stell dir vor, du empfiehlst ein Produkt, das nicht nur gut konvertiert, sondern bei jedem einzelnen Verkauf bis zu 1.046 € auf dein Konto bringt. Genau das ist Marken-Blueprint 360° — und du erhältst darauf 50 % Provision auf den vollen Bestellwert . Warum sich dieses Produkt so leicht verkauft: Jeder, der online ein Business starten oder sich professionell präsentieren will, steht vor demselben Problem: Wochen mit Canva-Vorlagen, halbfertigen Texten und einem Logo, das nie fertig wird — und am Ende trotzdem unprofessionell wirken. Marken-Blueprint 360° löst genau das: Aus einem einzigen ausgefüllten Fragebogen entsteht die komplette professionelle Business-Identität — Biografie, Logo, Farbwelt, Unternehmensmappe und Sales-Page, fertig in 7 Tagen. Das ist kein weiteres Canva-Template und kein austauschbarer Logo-Generator. Es ist ein hochpreisiges, hochwertiges Premium-Produkt, entwickelt von einem Marketing-Team mit über 30 Jahren Erfahrung in Vertrieb und Online-Marketing — und genau dieser Premium-Charakter ist es, der deine Provision so attraktiv macht. Deine Zahlen als Affiliate: Provision: 50 % auf jeden Verkauf Bis zu 1.046 € Provision pro vermitteltem Kunden Klar abgegrenzte, leicht ansprechbare Zielgruppe: Angestellte im Sprung in die Selbstständigkeit, Coaches und Berater:innen ohne eigenes Marketing-Team, alle, die auf alfima professionell starten wollen Das bekommst du als Affiliate an die Hand: Eine fertige, konversionsstarke Sales-Page im durchgängigen Premium-Design Vorformulierte Produktbilder und Werbetexte für Social Media Eine klare, verständliche Positionierung, die sich in einem Satz erklären lässt — leicht zu bewerben, leicht zu verstehen Du musst niemanden von einem vagen Versprechen überzeugen. Du zeigst ein greifbares Ergebnis: eine komplette, professionelle Business-Identität, die man sonst nur mit einem eigenen Marketing-Team oder Wochen an Eigenarbeit bekommt. Werde jetzt Affiliate und sichere dir bis zu 1.245 € für jede Empfehlung.
 
 ## 2. Links
 

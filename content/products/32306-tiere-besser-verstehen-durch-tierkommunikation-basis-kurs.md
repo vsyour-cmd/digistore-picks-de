@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Schritt für Schritt die<strong> nonverbale Kommunikation</strong> mit <strong>Tieren</strong> erlernen.<br />Online Kurs - Tierakademie</p>
-<p>Es sind <strong>KEINE</strong> Vorkenntnisse notwendig. Du kannst <strong>JEDERZEIT</strong> einsteigen. Du kannst in deinem <strong>eigenen Tempo</strong> von zu Hause aus lernen.</p>
-<p><strong>Für wen ist der Kurs geeignet?</strong></p>
-<p>Für jeden der mehr über die Tierkommunikation erfahren möchte oder auch sein Wissen erweitern möchte.</p>
-<p>Für jeden der seinen Traum leben möchte und mit seinem eigenen oder fremden Tieren zu kommunizieren.</p>
-<p>Mit der Tierkommunikation begleitet man Mensch und Tier bei Problemen und kann konkrete Lösungsmöglichkeiten aufzeigen um mehr Klarheit (Gesundheit) und Lebensqualität zu erreichen.</p>
-<p><strong>Geeignet für folgende Personen/-Gruppen:</strong></p>
-<p>Tierliebe Menschen und alle die in Tierberufen arbeiten wie z.B.:  <br />THP <br />Hundeschulen<br />Hundefriseure<br /> Tierpfleger<br /> Tierheim-Mitarbeiter <br />usw.</p>
+**Vendor's marketplace description:** Schritt für Schritt die nonverbale Kommunikation mit Tieren erlernen. Online Kurs - Tierakademie Es sind KEINE Vorkenntnisse notwendig. Du kannst JEDERZEIT einsteigen. Du kannst in deinem eigenen Tempo von zu Hause aus lernen. Für wen ist der Kurs geeignet? Für jeden der mehr über die Tierkommunikation erfahren möchte oder auch sein Wissen erweitern möchte. Für jeden der seinen Traum leben möchte und mit seinem eigenen oder fremden Tieren zu kommunizieren. Mit der Tierkommunikation begleitet man Mensch und Tier bei Problemen und kann konkrete Lösungsmöglichkeiten aufzeigen um mehr Klarheit (Gesundheit) und Lebensqualität zu erreichen. Geeignet für folgende Personen/-Gruppen: Tierliebe Menschen und alle die in Tierberufen arbeiten wie z.B.: THP Hundeschulen Hundefriseure Tierpfleger Tierheim-Mitarbeiter usw.
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>KI Nutzungsrichtlinie für Unternehmen</p>
-<p>Nutzt Ihr Team bereits ChatGPT oder andere KI Werkzeuge?</p>
-<p>Dann brauchen Sie klare Regeln.</p>
-<p>Mit dieser sofort einsetzbaren Vorlage schaffen Sie Sicherheit, Klarheit und verbindliche Vorgaben für den Umgang mit KI im Unternehmen.</p>
-<p>✔ Sofort einsetzbar</p>
-<p>✔ Einfach anpassbar</p>
-<p>✔ Klare Regeln für Mitarbeitende</p>
-<p>✔ Datenschutz und Verantwortlichkeiten berücksichtigt</p>
-<p>✔ Für KMU und Unternehmen jeder Grösse</p>
-<p>Mehr Sicherheit. Weniger Unsicherheit. Klare Regeln für den produktiven Einsatz von KI.</p>
+**Vendor's marketplace description:** KI Nutzungsrichtlinie für Unternehmen Nutzt Ihr Team bereits ChatGPT oder andere KI Werkzeuge? Dann brauchen Sie klare Regeln. Mit dieser sofort einsetzbaren Vorlage schaffen Sie Sicherheit, Klarheit und verbindliche Vorgaben für den Umgang mit KI im Unternehmen. ✔ Sofort einsetzbar ✔ Einfach anpassbar ✔ Klare Regeln für Mitarbeitende ✔ Datenschutz und Verantwortlichkeiten berücksichtigt ✔ Für KMU und Unternehmen jeder Grösse Mehr Sicherheit. Weniger Unsicherheit. Klare Regeln für den produktiven Einsatz von KI.
 
 ## 2. Links
 

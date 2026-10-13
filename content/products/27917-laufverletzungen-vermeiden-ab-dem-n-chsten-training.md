@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Seit Februar 2019:</p>
-<h1>WERDE <strong>PARTNER DER LAUFHELD ACADEMY</strong><br />UND <strong>ERHALTE 50% PROVISION!</strong></h1>
-<p>Sei dabei und <u><a href="https://laufheld.com/affiliate-partner/" target="_blank" rel="noreferrer noopener">werde Affiliate Partner</a></u> der Laufheld Academy und <a href="https://laufheld.com/affiliate-partner/" target="_blank" rel="noreferrer noopener">erhalte 50% Provision</a> für jeden Teilnehmer, der über dich gekommen ist, und Produkte im Funnel kauft (insgesamt deutlich über 100€ an Umsatz pro User möglich).</p>
-<p><strong>Ideal für alle mit Website/Blog, Youtube Kanal, Email-Liste, etc. im Lauf- oder generell im Sport- und Fitness-Bereich!</strong></p>
-<p><strong>Verdiene 50% Provision für die Promotion des Verletzungen vermeiden Funnels (Tripwire+Order Bump, Core Offer + Profit Maximizer)!</strong></p>
-<p>(<a href="https://laufheld.com/affiliate-partner/" target="_blank" rel="noreferrer noopener">auch andere Funnels verfügbar</a>)</p>
-<p>Achtung: Bitte unbedingt auf unserer <a href="https://laufheld.com/affiliate-partner/" target="_blank" rel="noreferrer noopener">Affiliate-Seite</a> vorbeischauen, bevor du startest!</p>
-<p>Die Laufheld Academy bietet ein ständig wachsendes Angebot an Videokursen für Läufer und hilft Hobbyläufern so dabei ihren Laufsport bestmöglich auszuüben und so Verletzungen zu vermeiden, Motivation zum Laufen zu finden und neue Bestzeiten zu laufen.</p>
-<p><strong>Keine Husch-Pfusch Videokurse...</strong></p>
-<p>Die Kurse der Laufheld Academy wurden von Profi-Läufer Andreas Vojta (Olympiateilnehmer und 30-facher Staatsmeister) in Zusammenarbeit mit Top-Experten wie Sportärzten, Physiotherapeuten und Ernährungswissenschaftlern erstellt.</p>
-<p>Beste Conversion mit Content-Link: <a href="https://www.digistore24.com/content/233809/22860/AFFILIATE/CAMPAIGNKEY" target="_blank" rel="noreferrer noopener">https://www.digistore24.com/content/233809/22860/AFFILIATE/CAMPAIGNKEY</a></p>
-<p><strong><a href="https://laufheld.com/affiliate-partner/" target="_blank" rel="noreferrer noopener">Hole dir jetzt alle weiteren Infos auf der Affiliate und Partner Seite!</a></strong></p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Seit Februar 2019: WERDE PARTNER DER LAUFHELD ACADEMY UND ERHALTE 50% PROVISION! Sei dabei und werde Affiliate Partner der Laufheld Academy und erhalte 50% Provision für jeden Teilnehmer, der über dich gekommen ist, und Produkte im Funnel kauft (insgesamt deutlich über 100€ an Umsatz pro User möglich). Ideal für alle mit Website/Blog, Youtube Kanal, Email-Liste, etc. im Lauf- oder generell im Sport- und Fitness-Bereich! Verdiene 50% Provision für die Promotion des Verletzungen vermeiden Funnels (Tripwire+Order Bump, Core Offer + Profit Maximizer)! ( auch andere Funnels verfügbar ) Achtung: Bitte unbedingt auf unserer Affiliate-Seite vorbeischauen, bevor du startest! Die Laufheld Academy bietet ein ständig wachsendes Angebot an Videokursen für Läufer und hilft Hobbyläufern so dabei ihren Laufsport bestmöglich auszuüben und so Verletzungen zu vermeiden, Motivation zum Laufen zu finden und neue Bestzeiten zu laufen. Keine Husch-Pfusch Videokurse... Die Kurse der Laufheld Academy wurden von Profi-Läufer Andreas Vojta (Olympiateilnehmer und 30-facher Staatsmeister) in Zusammenarbeit mit Top-Experten wie Sportärzten, Physiotherapeuten und Ernährungswissenschaftlern erstellt. Beste Conversion mit Content-Link: https://www.digistore24.com/content/233809/22860/AFFILIATE/CAMPAIGNKEY Hole dir jetzt alle weiteren Infos auf der Affiliate und Partner Seite!
 
 ## 2. Links
 

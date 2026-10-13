@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Artgerechte Beschäftigung und Aufbau von Jagdkontrolle</h2>
-<p>Das Thema Spaß mit dem Hund und Kontrolle muss nicht konträr sein. In diesem</p>
-<h3>Reizangel – Webinar</h3>
-<p>zeige ich Dir, dass Du bei Spiel und Spaß mit dem Hund, wunderbar Kontrolle aufbauen kannst.</p>
-<p>So wird Dein Hund artgerecht, seinen Instinkten entsprechend beschäftigt und auf gemeinsame Touren durch den Wald mit jagdlichen Ablenkungsreizen vorbereitet.</p>
-<p><em>Gerade bei diesem Thema „Jagd“ sind wir sehr viel mit Verboten beschäftigt. In diesem Webinar zeige ich Dir, wie Du Kontrolle aufbaust. Ich zeige Dir in aufeinander aufbauenden Trainingseinheiten, welche Möglichkeiten wir mit unseren Hunden haben, wie die Reizangel beschaffen sein sollte, welche Beute am Ende hängt und wie das Handling der Reizangel funktoniert. Desweiteren zeige ich Dir in unterschiedlichen Trainingssequenzen, eine Vielzahl an unterschiedlichen Möglichkeiten zum Thema Jagdkontrolle. Wie man die Übungen nacheinander strukturiert aufbaut und auch was passiert, wenn der Hund über das Ziel hinaus schießt und den jagdlichen Reiz nicht aushalten kann.</em></p>
-<p><strong>Ich wünsche Dir auch mit diesem Webinar viel Spaß und viel Erfolg bei der Umsetzung mit Deinem Hund!</strong></p>
+**Vendor's marketplace description:** Artgerechte Beschäftigung und Aufbau von Jagdkontrolle Das Thema Spaß mit dem Hund und Kontrolle muss nicht konträr sein. In diesem Reizangel – Webinar zeige ich Dir, dass Du bei Spiel und Spaß mit dem Hund, wunderbar Kontrolle aufbauen kannst. So wird Dein Hund artgerecht, seinen Instinkten entsprechend beschäftigt und auf gemeinsame Touren durch den Wald mit jagdlichen Ablenkungsreizen vorbereitet. Gerade bei diesem Thema „Jagd“ sind wir sehr viel mit Verboten beschäftigt. In diesem Webinar zeige ich Dir, wie Du Kontrolle aufbaust. Ich zeige Dir in aufeinander aufbauenden Trainingseinheiten, welche Möglichkeiten wir mit unseren Hunden haben, wie die Reizangel beschaffen sein sollte, welche Beute am Ende hängt und wie das Handling der Reizangel funktoniert. Desweiteren zeige ich Dir in unterschiedlichen Trainingssequenzen, eine Vielzahl an unterschiedlichen Möglichkeiten zum Thema Jagdkontrolle. Wie man die Übungen nacheinander strukturiert aufbaut und auch was passiert, wenn der Hund über das Ziel hinaus schießt und den jagdlichen Reiz nicht aushalten kann. Ich wünsche Dir auch mit diesem Webinar viel Spaß und viel Erfolg bei der Umsetzung mit Deinem Hund!
 
 ## 2. Links
 

@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In dem Buch finden Sie 40 leckere Rezepte für das Frühstück, Mittag, Kaffee und Kuchen und Abendessen. </p>
-<p>Als Bonus gibt es noch 5 Rezepte oben drauf für leckere Snacks für zwischendurch.</p>
+**Vendor's marketplace description:** In dem Buch finden Sie 40 leckere Rezepte für das Frühstück, Mittag, Kaffee und Kuchen und Abendessen. Als Bonus gibt es noch 5 Rezepte oben drauf für leckere Snacks für zwischendurch.
 
 ## 2. Links
 

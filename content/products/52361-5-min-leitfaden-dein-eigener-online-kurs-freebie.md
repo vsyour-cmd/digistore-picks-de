@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb jetzt unser Freebie und profitiere von 50% Provision auf alle Addons + Upsells! </p>
-<p>Über 100€ Provision im Funnel  möglich!</p>
-<p> </p>
-<p>Sichere dir jetzt unser kostenloses Ebook!</p>
-<p> </p>
-<p>Egal ob Anfänger, oder schon dabei - dieses E-Book ist der perfekte Leitfaden für dich!</p>
-<p> </p>
-<p> </p>
-<p>Du willst einen Online-Kurs erstellen, aber weißt nicht, wo du anfangen sollst?</p>
-<p>Dann ist dieser Spezialreport genau dein Einstieg! In nur 5 Minuten erhältst du einen klaren Überblick über alle Schritte – von der Themenwahl über die Plattform-Auswahl bis hin zur Vermarktung.</p>
-<p> </p>
-<p>Ideal für Anfänger und alle, die sofort loslegen wollen.</p>
-<p>✔ Verständlich geschrieben</p>
-<p>✔ Ohne Vorwissen umsetzbar</p>
-<p>✔ Für alle Themen geeignet</p>
+**Vendor's marketplace description:** Bewirb jetzt unser Freebie und profitiere von 50% Provision auf alle Addons + Upsells! Über 100€ Provision im Funnel möglich! Sichere dir jetzt unser kostenloses Ebook! Egal ob Anfänger, oder schon dabei - dieses E-Book ist der perfekte Leitfaden für dich! Du willst einen Online-Kurs erstellen, aber weißt nicht, wo du anfangen sollst? Dann ist dieser Spezialreport genau dein Einstieg! In nur 5 Minuten erhältst du einen klaren Überblick über alle Schritte – von der Themenwahl über die Plattform-Auswahl bis hin zur Vermarktung. Ideal für Anfänger und alle, die sofort loslegen wollen. ✔ Verständlich geschrieben ✔ Ohne Vorwissen umsetzbar ✔ Für alle Themen geeignet
 
 ## 2. Links
 

@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Beschreibung:</strong></p>
-<p>Orbli ist ein physischer QR-Sticker, der zufriedene Kunden automatisch zu echten Bewertungen führt. Kein Bitten. Kein Aufwand. Kein Erklären. Der Sticker macht's.</p>
-<p>Für dich als Affiliate bedeutet das: Du promotest einmal — und das Produkt erklärt sich von selbst. Jeder Gastronom, jeder Friseur, jedes Café ist ein potenzieller Kunde. Millionen davon allein im DACH-Raum.</p>
-<p> </p>
-<p><strong>Warum Orbli sich leicht promoted:</strong></p>
-<ul>
-<li>Sofort verständlich — jeder kennt das Problem</li>
-<li>Physisches Produkt mit echtem Wow-Faktor</li>
-<li>30-Tage-Geld-zurück-Garantie → kaum Rückläufer</li>
-<li>Hoher wahrgenommener Wert, fairer Preis</li>
-</ul>
-<p> </p>
-<p>⚠️ <strong>Wichtiger Hinweis:</strong> Wir akzeptieren ausschließlich Affiliate-Anfragen, die sich über unsere offizielle Affiliate-Support-Seite beworben haben. Direkte Anfragen werden nicht berücksichtigt.</p>
+**Vendor's marketplace description:** Beschreibung: Orbli ist ein physischer QR-Sticker, der zufriedene Kunden automatisch zu echten Bewertungen führt. Kein Bitten. Kein Aufwand. Kein Erklären. Der Sticker macht's. Für dich als Affiliate bedeutet das: Du promotest einmal — und das Produkt erklärt sich von selbst. Jeder Gastronom, jeder Friseur, jedes Café ist ein potenzieller Kunde. Millionen davon allein im DACH-Raum. Warum Orbli sich leicht promoted: Sofort verständlich — jeder kennt das Problem Physisches Produkt mit echtem Wow-Faktor 30-Tage-Geld-zurück-Garantie → kaum Rückläufer Hoher wahrgenommener Wert, fairer Preis ⚠️ Wichtiger Hinweis: Wir akzeptieren ausschließlich Affiliate-Anfragen, die sich über unsere offizielle Affiliate-Support-Seite beworben haben. Direkte Anfragen werden nicht berücksichtigt.
 
 ## 2. Links
 

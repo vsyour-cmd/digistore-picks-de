@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das vielleicht wichtigste Live-Onlineseminar, was du jemals gemacht hast!</strong></p>
-<p>Die Epigenetik bietet bahnbrechende Beweise, dass wir nicht einfach nur Opfer unserer Gene oder Umstände sind. Vielmehr haben wir die Möglichkeit, aktiv Einfluss auf unsere Gene zu nehmen. Und genau hier setzt <strong>METgenetik®</strong> an. Denn mit MET wirst du in der Lage sein, positiv auf deine Gene einzuwirken und damit den Grundstein für dein körperliches und seelisches Wohlbefinden zu setzen.</p>
-<p>Der jeweilige Seminarleiter wird live demonstrieren, wie MET bei verschiedenen Themen angewendet werden kann. In kleinen Übungen wirst du MET an dir selbst ausprobieren und erleben. Selbstverständlich erhältst du ausführliche Seminarunterlagen. Was ist dein Nutzen? Du wirst zunehmend mehr Selbstbewusstsein und Selbstvertrauen, mehr körperliche Gesundheit, mehr Lebensfreude und Leistungsfähigkeit, mehr Glücksgefühle im täglichen Leben, mehr Freude und Gelassenheit entwickeln.</p>
-<p><strong>Inhalte</strong>:</p>
-<ul>
-<li>Einführung energetische Psychologie</li>
-<li>Die 5 Elemente der MET-Klopftechnik</li>
-<li>Anwendungsgebiete von MET</li>
-<li>MET bei Süchten (Schokolade usw.)</li>
-<li>METgenetik® (Projekt innere Wunden heilen)</li>
-<li>MET mit Kindern – inneres Kind heilen</li>
-<li>MET mit Tieren</li>
-<li>Glaubenssätze auflösen</li>
-<li>Körperliche Symptome beklopfen</li>
-</ul>
+**Vendor's marketplace description:** Das vielleicht wichtigste Live-Onlineseminar, was du jemals gemacht hast! Die Epigenetik bietet bahnbrechende Beweise, dass wir nicht einfach nur Opfer unserer Gene oder Umstände sind. Vielmehr haben wir die Möglichkeit, aktiv Einfluss auf unsere Gene zu nehmen. Und genau hier setzt METgenetik® an. Denn mit MET wirst du in der Lage sein, positiv auf deine Gene einzuwirken und damit den Grundstein für dein körperliches und seelisches Wohlbefinden zu setzen. Der jeweilige Seminarleiter wird live demonstrieren, wie MET bei verschiedenen Themen angewendet werden kann. In kleinen Übungen wirst du MET an dir selbst ausprobieren und erleben. Selbstverständlich erhältst du ausführliche Seminarunterlagen. Was ist dein Nutzen? Du wirst zunehmend mehr Selbstbewusstsein und Selbstvertrauen, mehr körperliche Gesundheit, mehr Lebensfreude und Leistungsfähigkeit, mehr Glücksgefühle im täglichen Leben, mehr Freude und Gelassenheit entwickeln. Inhalte : Einführung energetische Psychologie Die 5 Elemente der MET-Klopftechnik Anwendungsgebiete von MET MET bei Süchten (Schokolade usw.) METgenetik® (Projekt innere Wunden heilen) MET mit Kindern – inneres Kind heilen MET mit Tieren Glaubenssätze auflösen Körperliche Symptome beklopfen
 
 ## 2. Links
 

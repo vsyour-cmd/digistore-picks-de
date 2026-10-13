@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>mit der du mit deinem Smartphone Geld verdienen kannst, anonym und ohne eine eigene Webseite!</h3>
-<p>Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt <strong>50% Provision</strong> + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du<strong> auf ca. 400€ Provision im Funnel.</strong></p>
-<p>Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst!</p>
-<p>Das bekommt der Kunde in diesem wertvollen Online-Kurs:</p>
-<ul>
-<li>... wie du nur mit deinem Smartphone Geld verdienen kannst, auch ohne Reichweite</li>
-<li>... wie du <strong>kaufwillige Personen anziehst,</strong> die automatisch über dich kaufen, <strong>ohne, dass du Kontakt mit ihnen haben musst</strong></li>
-<li>... wie du dein <strong>Smartphone für dich arbeiten</strong> lässt, sodass du dadurch geografisch frei arbeiten kannst</li>
-<li>... wie du nahezu alles automatisieren kannst und somit noch <strong>viel mehr Reichweite bekommst</strong> und dazu <strong>noch mehr verdienst</strong></li>
-<li>... wie du dir ein zweites Standbein durch passives Einkommen aufbaust</li>
-<li>​... <strong>inkl. ​Möglichkeit bei der du 700 € kostenfrei</strong> und steuerfrei bekommst, ohne etwas kaufen oder verkaufen zu müssen</li>
-<li><strong>Bonus 1</strong>: Vorlagen (Wert 900€)</li>
-<li><strong>Bonus 2:</strong> Ohne Technik (Wert 350€)</li>
-<li><strong>Bonus 3:</strong> TOP Produkte (Wert 490€)</li>
-<li><strong>Bonus 4</strong>: Updates (Wert 399€)</li>
-<li><strong>Bonus 5:</strong> Sofort-Umsatz-Strategie (Wert 700€)</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** mit der du mit deinem Smartphone Geld verdienen kannst, anonym und ohne eine eigene Webseite! Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. 400€ Provision im Funnel. Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst! Das bekommt der Kunde in diesem wertvollen Online-Kurs: ... wie du nur mit deinem Smartphone Geld verdienen kannst, auch ohne Reichweite ... wie du kaufwillige Personen anziehst, die automatisch über dich kaufen, ohne, dass du Kontakt mit ihnen haben musst ... wie du dein Smartphone für dich arbeiten lässt, sodass du dadurch geografisch frei arbeiten kannst ... wie du nahezu alles automatisieren kannst und somit noch viel mehr Reichweite bekommst und dazu noch mehr verdienst ... wie du dir ein zweites Standbein durch passives Einkommen aufbaust ​... inkl. ​Möglichkeit bei der du 700 € kostenfrei und steuerfrei bekommst, ohne etwas kaufen oder verkaufen zu müssen Bonus 1 : Vorlagen (Wert 900€) Bonus 2: Ohne Technik (Wert 350€) Bonus 3: TOP Produkte (Wert 490€) Bonus 4 : Updates (Wert 399€) Bonus 5: Sofort-Umsatz-Strategie (Wert 700€)
 
 ## 2. Links
 

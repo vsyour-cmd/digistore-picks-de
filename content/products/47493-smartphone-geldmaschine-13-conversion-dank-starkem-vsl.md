@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Neues online Geld verdienen Produkt!</strong></p>
-<p><strong>Durchschnittlicher Verdienst pro Klick: 1.61€</strong></p>
-<p> </p>
-<p><strong>50% auf den gesamten Funnel</strong></p>
-<p><strong>Über 150€ an Nettoprovision möglich pro Kunde</strong></p>
-<p> </p>
-<p>Perfektes Produkt für alle, die online Geld verdienen wollen. </p>
-<p>Ideal für deine E-Mail Liste oder zum Bewerben über Social Media.</p>
-<p><a href="https://www.lukes-channel.com/affiliates/" target="_blank" rel="noreferrer noopener"><strong>Fertige Mailvorlagen findest du auf der Partnerseite</strong></a></p>
+**Vendor's marketplace description:** Neues online Geld verdienen Produkt! Durchschnittlicher Verdienst pro Klick: 1.61€ 50% auf den gesamten Funnel Über 150€ an Nettoprovision möglich pro Kunde Perfektes Produkt für alle, die online Geld verdienen wollen. Ideal für deine E-Mail Liste oder zum Bewerben über Social Media. Fertige Mailvorlagen findest du auf der Partnerseite
 
 ## 2. Links
 

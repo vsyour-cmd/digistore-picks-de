@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div style="background-color:#f7f9f9;">
-<p><strong><span style="background-color:#ffc300;color:#ffffff;">  TIPP  </span></strong></p>
-<p>0€ Freebie ohne E-Mail-Abfrage: 3 Rhythmus-Sessions zur Gehirnwellen-Taktung über normale Raumlautsprecher. Die niedrigste Klickhürde für Fokus- und Produktivitäts-Traffic – Cookie sichern und 50 % auf 314 € kassieren.</p>
-<hr /><hr />
-<p><strong>Gehirnwellen-Taktung direkt über die Boxen – Null Hürden.</strong></p>
-<p>Das stärkste Argument für deine Zielgruppe: Kein Kopfhörer-Zwang und kein E-Mail-Formular. (Fast) Ein Klick, Download startet, Sound läuft über Laptop oder Boxen.</p>
-<p><strong>Was deine Nutzer sofort erhalten:</strong></p>
-<ul>
-<li>
-<p><strong>Session 1: Telepathie</strong> (6,8 Hz Theta-Taktung für feine Wahrnehmung)</p>
-</li>
-<li>
-<p><strong>Session 2: Quantum Mind</strong> (Rhythmus für messerscharfe Fokus-Phasen)</p>
-</li>
-<li>
-<p><strong>Session 3: Deep Astral</strong> (Gepulste Theta-Impulse für schnellen Stressabbau)</p>
-</li>
-<li>
-<p><strong>Inklusive:</strong> Frequenz-Ratgeber (PDF)</p>
-</li>
-</ul>
-<p><strong>Dein Affiliate-Vorteil:</strong></p>
-<p>Ideal für Kanäle zu den Themen Deep Work, Lernen, Produktivität und Stressmanagement. Deine Nutzer bekommen ein hochwertiges Audio-Tool geschenkt, während dein Partner-Cookie für das 314€-High-Ticket-Paket (~140 € Netto-Provision pro Sale) hinterlegt wird.</p>
-</div>
+**Vendor's marketplace description:** TIPP 0€ Freebie ohne E-Mail-Abfrage: 3 Rhythmus-Sessions zur Gehirnwellen-Taktung über normale Raumlautsprecher. Die niedrigste Klickhürde für Fokus- und Produktivitäts-Traffic – Cookie sichern und 50 % auf 314 € kassieren. Gehirnwellen-Taktung direkt über die Boxen – Null Hürden. Das stärkste Argument für deine Zielgruppe: Kein Kopfhörer-Zwang und kein E-Mail-Formular. (Fast) Ein Klick, Download startet, Sound läuft über Laptop oder Boxen. Was deine Nutzer sofort erhalten: Session 1: Telepathie (6,8 Hz Theta-Taktung für feine Wahrnehmung) Session 2: Quantum Mind (Rhythmus für messerscharfe Fokus-Phasen) Session 3: Deep Astral (Gepulste Theta-Impulse für schnellen Stressabbau) Inklusive: Frequenz-Ratgeber (PDF) Dein Affiliate-Vorteil: Ideal für Kanäle zu den Themen Deep Work, Lernen, Produktivität und Stressmanagement. Deine Nutzer bekommen ein hochwertiges Audio-Tool geschenkt, während dein Partner-Cookie für das 314€-High-Ticket-Paket (~140 € Netto-Provision pro Sale) hinterlegt wird.
 
 ## 2. Links
 

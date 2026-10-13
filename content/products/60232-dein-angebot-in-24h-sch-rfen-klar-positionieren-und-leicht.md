@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>„Dein Angebot in 24h schärfen“ unterstützt Selbstständige, Unternehmer und Dienstleister dabei, ihr Angebot klarer zu positionieren und den Mehrwert für potenzielle Kunden verständlich zu kommunizieren.</strong></p>
-<p>Das digitale Produkt führt Schritt für Schritt durch die Schärfung des eigenen Angebots – kompakt, praxisnah und direkt umsetzbar.</p>
-<p><strong>Ideal für Zielgruppen rund um:</strong> Selbstständigkeit, Online-Marketing, Kundengewinnung, Positionierung, Personal Branding und Business-Aufbau.</p>
-<p><strong>Vorteile für Affiliates:</strong> digitales Produkt, klar definierte Zielgruppe und <strong>40 % Affiliate-Provision</strong>.</p>
+**Vendor's marketplace description:** „Dein Angebot in 24h schärfen“ unterstützt Selbstständige, Unternehmer und Dienstleister dabei, ihr Angebot klarer zu positionieren und den Mehrwert für potenzielle Kunden verständlich zu kommunizieren. Das digitale Produkt führt Schritt für Schritt durch die Schärfung des eigenen Angebots – kompakt, praxisnah und direkt umsetzbar. Ideal für Zielgruppen rund um: Selbstständigkeit, Online-Marketing, Kundengewinnung, Positionierung, Personal Branding und Business-Aufbau. Vorteile für Affiliates: digitales Produkt, klar definierte Zielgruppe und 40 % Affiliate-Provision .
 
 ## 2. Links
 

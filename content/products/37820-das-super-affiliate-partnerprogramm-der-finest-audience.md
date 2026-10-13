@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <center>
-<blockquote><span style="background-color:#ffb900;"><strong>Revolutionäre Geschäftsmöglichkeit! </strong><strong>Verdiene bis zu 2500€ pro Partner</strong></span></blockquote>
-</center>
-<p>Erreiche mit Leichtigkeit 10.000+ Euro Provision durch unsere 4 Vergütungswege:</p>
-<ul>
-<li>Vermarkte unsere digitalen Schulungsprodukte und erhalte bis zu 90% Provision (je nach Status im Partnerprogramm)</li>
-<li>Bringe neue Affiliates ins Geschäft und verdiene am Umsatz Deiner Partner mit durch 2-Stufen Provision (Lifetime)</li>
-<li>Baue Dir mit unseren neuen Abonnements ein passives Einkommen durch wiederkehrende Einnahmen auf (auch über 2 Ebenen)</li>
-<li>Lasse Dich als Diamond-Affiliate an unseren hochpreisigen Verkäufen beteiligen (Du bringst die Kontakte, wir machen den Verkauf)</li>
-</ul>
-<blockquote>
-<p style="text-align:center;"><span style="background-color:#ffb900;">Exklusives Gratis Super-Affiliate-Training</span><br /><span style="background-color:#ffb900;"> für alle neuen Partner. Über 100 verkaufsoptimierte Werbemittel und vieles mehr!</span></p>
-</blockquote>
+**Vendor's marketplace description:** Revolutionäre Geschäftsmöglichkeit! Verdiene bis zu 2500€ pro Partner Erreiche mit Leichtigkeit 10.000+ Euro Provision durch unsere 4 Vergütungswege: Vermarkte unsere digitalen Schulungsprodukte und erhalte bis zu 90% Provision (je nach Status im Partnerprogramm) Bringe neue Affiliates ins Geschäft und verdiene am Umsatz Deiner Partner mit durch 2-Stufen Provision (Lifetime) Baue Dir mit unseren neuen Abonnements ein passives Einkommen durch wiederkehrende Einnahmen auf (auch über 2 Ebenen) Lasse Dich als Diamond-Affiliate an unseren hochpreisigen Verkäufen beteiligen (Du bringst die Kontakte, wir machen den Verkauf) Exklusives Gratis Super-Affiliate-Training für alle neuen Partner. Über 100 verkaufsoptimierte Werbemittel und vieles mehr!
 
 ## 2. Links
 

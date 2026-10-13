@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Wenn Hunde alt werden, verändert sich vieles – aber die Liebe bleibt.</strong></h3>
-<p><br />Dieses E-Book begleitet dich durch den Alltag mit deinem älteren Hund und zeigt dir, wie du ihm mit kleinen Anpassungen viel Gutes tun kannst. Ob sanfte Bewegungsübungen, unterstützende Therapieformen oder liebevolle Routinen – hier findest du praktische Tipps, verständlich erklärt und leicht umsetzbar.</p>
-<p><strong>„Graue Schnauzen, große Liebe“</strong> ist mehr als ein Ratgeber – es ist eine Einladung, die gemeinsamen Jahre bewusst zu genießen, dein Tier besser zu verstehen und ihm genau das zu geben, was es jetzt am meisten braucht: Nähe, Aufmerksamkeit und Zeit.</p>
-<p><strong>Für alle, die ihren Hunden nicht nur ein langes, sondern vor allem ein schönes Leben schenken wollen.</strong></p>
-<p> </p>
-<p>Dieses Produkt enthält ein E-Book mit Tipps rund um den Alltag mit deinem Hunde Senior.</p>
-<p>Inklusive Übungen für Zuhause.</p>
+**Vendor's marketplace description:** Wenn Hunde alt werden, verändert sich vieles – aber die Liebe bleibt. Dieses E-Book begleitet dich durch den Alltag mit deinem älteren Hund und zeigt dir, wie du ihm mit kleinen Anpassungen viel Gutes tun kannst. Ob sanfte Bewegungsübungen, unterstützende Therapieformen oder liebevolle Routinen – hier findest du praktische Tipps, verständlich erklärt und leicht umsetzbar. „Graue Schnauzen, große Liebe“ ist mehr als ein Ratgeber – es ist eine Einladung, die gemeinsamen Jahre bewusst zu genießen, dein Tier besser zu verstehen und ihm genau das zu geben, was es jetzt am meisten braucht: Nähe, Aufmerksamkeit und Zeit. Für alle, die ihren Hunden nicht nur ein langes, sondern vor allem ein schönes Leben schenken wollen. Dieses Produkt enthält ein E-Book mit Tipps rund um den Alltag mit deinem Hunde Senior. Inklusive Übungen für Zuhause.
 
 ## 2. Links
 

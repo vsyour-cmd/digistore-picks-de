@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Der Nr. 1 Low Content Videokurs für Amazon KDP</h2>
-<p><span style="text-decoration:underline;">Verdiene 30% Provision für jeden Sale!</span></p>
-<p>Die Low Content Revolution ist ein innovativer Videokurs von Nomad Publishing. Er zeigt in über 20h Video-Content, wie man sich mit Low Content Büchern auf Amazon ein Einkommen aufbaut.</p>
-<p><strong>Hier unsere Highlights:</strong></p>
-<p>▶️ Alleine im Launch wurde der Kurs <strong>über 400x verkauft</strong></p>
-<p>▶️ Wahnsinnig <strong>positives Feedback</strong> (4,92 Sterne auf ProvenExpert - Stand März 2024).</p>
-<p>▶️ Pro Verkauf zum Vollpreis von 997€ macht das eine <strong>Provision von satten 232,79€</strong>. </p>
-<p><a class="w3-button w3-blue w3-hover-orange" href="https://lowcontent.de/affiliate-support-seite/">Zum Partnerprogramm</a></p>
+**Vendor's marketplace description:** Der Nr. 1 Low Content Videokurs für Amazon KDP Verdiene 30% Provision für jeden Sale! Die Low Content Revolution ist ein innovativer Videokurs von Nomad Publishing. Er zeigt in über 20h Video-Content, wie man sich mit Low Content Büchern auf Amazon ein Einkommen aufbaut. Hier unsere Highlights: ▶️ Alleine im Launch wurde der Kurs über 400x verkauft ▶️ Wahnsinnig positives Feedback (4,92 Sterne auf ProvenExpert - Stand März 2024). ▶️ Pro Verkauf zum Vollpreis von 997€ macht das eine Provision von satten 232,79€ . Zum Partnerprogramm
 
 ## 2. Links
 

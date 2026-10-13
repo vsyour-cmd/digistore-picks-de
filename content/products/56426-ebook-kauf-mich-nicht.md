@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein hochaktuelles und stark polarisierendes Thema mit enormem Viralpotenzial:</p>
-<p>Dieses Buch deckt auf, wie Konsumenten täglich durch psychologische Tricks, Preisstrategien und digitale Manipulation beeinflusst werden.</p>
-<p>Es trifft exakt den Nerv einer aufgeklärten, kritischen Zielgruppe, die verstehen will, wie Marketing wirklich funktioniert – und sich davor schützen möchte.</p>
-<p>Die Kombination aus Psychologie, Praxisbeispielen und konkreten Strategien sorgt für hohe Relevanz und starke Kaufimpulse.</p>
-<p>Besonders geeignet für Content in den Bereichen Mindset, Finanzen, Marketing und kritisches Denken.</p>
-<p>Ein aufmerksamkeitsstarkes Produkt mit hoher Klickrate und exzellentem Conversion-Potenzial.</p>
+**Vendor's marketplace description:** Ein hochaktuelles und stark polarisierendes Thema mit enormem Viralpotenzial: Dieses Buch deckt auf, wie Konsumenten täglich durch psychologische Tricks, Preisstrategien und digitale Manipulation beeinflusst werden. Es trifft exakt den Nerv einer aufgeklärten, kritischen Zielgruppe, die verstehen will, wie Marketing wirklich funktioniert – und sich davor schützen möchte. Die Kombination aus Psychologie, Praxisbeispielen und konkreten Strategien sorgt für hohe Relevanz und starke Kaufimpulse. Besonders geeignet für Content in den Bereichen Mindset, Finanzen, Marketing und kritisches Denken. Ein aufmerksamkeitsstarkes Produkt mit hoher Klickrate und exzellentem Conversion-Potenzial.
 
 ## 2. Links
 

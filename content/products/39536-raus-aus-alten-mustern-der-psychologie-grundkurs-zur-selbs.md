@@ -41,43 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Raus aus alten Mustern: </strong>verstehe deine <strong>Psyche</strong> und verändere dein <strong>Leben</strong><br /><br /></h3>
-<p><strong>Onlinekurs mit persönlichem Zertifikat</strong></p>
-<hr />
-<p>Der Schlüssel zu einem erfüllten Leben liegt im Verständnis Deiner eigenen Gedanken und Gefühle. Wir zeigen Dir, wie Du mit einfachem, praxisnahem Wissen aus der Psychologie Dein Denken steuerst und Dein Leben nachhaltig veränderst.</p>
-<hr />
-<h3>Was Dich erwartet:</h3>
-<p>In <strong>5 klar strukturierten Modulen</strong> erhältst Du fundiertes Wissen, das Du sofort im Alltag anwenden kannst:</p>
-<p> </p>
-<p><strong>Modul 1:</strong> Die Geschichte der Psychologie – Die Meilensteine &amp; ihre Pioniere</p>
-<p><strong>Modul 2:</strong> Grundprinzipien verstehen – Das Fundament für Deinen Erfolg</p>
-<p><strong>Modul 3:</strong> Wie Deine Gedanken Dein Verhalten steuern</p>
-<p><strong>Modul 4:</strong> Allgemeine Psychologie kompakt &amp; praxisnah</p>
-<p><strong>Modul 5:</strong> Positive Psychologie – So stärkst Du Dein Wohlbefinden</p>
-<hr />
-<h3>Exklusiv für Dich:</h3>
-<ul>
-<li><strong>6 Bonus-Videos</strong> – Extra Inhalte, die Deinen Durchbruch unterstützen</li>
-<li><strong>5 praktische PDFs</strong> – Zum Download, Mitnehmen &amp; Anwenden</li>
-</ul>
-<p>+ <strong>BONUS KURS<br /><br /></strong></p>
-<h3><strong>30-Tage-Mindset-Challenge</strong></h3>
-<p>Verändere dein Denken – und verändere dein Leben. In 6 kraftvollen Modulen lernst du, alte Blockaden zu lösen, Selbstvertrauen aufzubauen und dein Mindset auf Erfolg, Fülle und Wachstum auszurichten.</p>
-<p><strong>Modul 1:</strong> Mindset Reprogramming – Dein Denken neu ausrichten &amp; innere Blockaden lösen</p>
-<p><strong>Modul 2:</strong> Deep Confidence – Selbstbewusstsein stärken &amp; Ängste überwinden</p>
-<p><strong>Modul 3:</strong> Komfortzone Killen – Mut entwickeln &amp; ins Handeln kommen</p>
-<p><strong>Modul 4:</strong> High-Energy Mindset – Energie, Fokus &amp; Motivation steigern</p>
-<p><strong>Modul 5:</strong> Money Mindset – Finanzielle Glaubenssätze transformieren &amp; Wohlstand anziehen</p>
-<p><strong>Modul 6:</strong> Erfolgsdenken – Die Psychologie der Gewinner verstehen &amp; anwenden</p>
-<p><strong>Bonusmodul:</strong> Alltagstransfer – Neues Mindset festigen &amp; mit Klarheit Ziele erreichen</p>
-<hr />
-<h3>Keine versteckten Kosten – keine Abo-Falle!</h3>
-<p><strong>Einmal zahlen – lebenslang profitieren</strong></p>
-<h3>Aktionspreis nur jetzt:</h3>
-<p><strong>Normalpreis:</strong> 172 €<br /><strong>Dein Preis:</strong> 86 €</p>
-<p><strong>Nutze den Code:</strong> <strong>PG2025</strong> und sichere Dir 50 % Rabatt!</p>
-<hr />
-<p>Starte jetzt und beginne Deine persönliche Transformation – Dein neues Leben wartet!</p>
+**Vendor's marketplace description:** Raus aus alten Mustern: verstehe deine Psyche und verändere dein Leben Onlinekurs mit persönlichem Zertifikat Der Schlüssel zu einem erfüllten Leben liegt im Verständnis Deiner eigenen Gedanken und Gefühle. Wir zeigen Dir, wie Du mit einfachem, praxisnahem Wissen aus der Psychologie Dein Denken steuerst und Dein Leben nachhaltig veränderst. Was Dich erwartet: In 5 klar strukturierten Modulen erhältst Du fundiertes Wissen, das Du sofort im Alltag anwenden kannst: Modul 1: Die Geschichte der Psychologie – Die Meilensteine & ihre Pioniere Modul 2: Grundprinzipien verstehen – Das Fundament für Deinen Erfolg Modul 3: Wie Deine Gedanken Dein Verhalten steuern Modul 4: Allgemeine Psychologie kompakt & praxisnah Modul 5: Positive Psychologie – So stärkst Du Dein Wohlbefinden Exklusiv für Dich: 6 Bonus-Videos – Extra Inhalte, die Deinen Durchbruch unterstützen 5 praktische PDFs – Zum Download, Mitnehmen & Anwenden + BONUS KURS 30-Tage-Mindset-Challenge Verändere dein Denken – und verändere dein Leben. In 6 kraftvollen Modulen lernst du, alte Blockaden zu lösen, Selbstvertrauen aufzubauen und dein Mindset auf Erfolg, Fülle und Wachstum auszurichten. Modul 1: Mindset Reprogramming – Dein Denken neu ausrichten & innere Blockaden lösen Modul 2: Deep Confidence – Selbstbewusstsein stärken & Ängste überwinden Modul 3: Komfortzone Killen – Mut entwickeln & ins Handeln kommen Modul 4: High-Energy Mindset – Energie, Fokus & Motivation steigern Modul 5: Money Mindset – Finanzielle Glaubenssätze transformieren & Wohlstand anziehen Modul 6: Erfolgsdenken – Die Psychologie der Gewinner verstehen & anwenden Bonusmodul: Alltagstransfer – Neues Mindset festigen & mit Klarheit Ziele erreichen Keine versteckten Kosten – keine Abo-Falle! Einmal zahlen – lebenslang profitieren Aktionspreis nur jetzt: Normalpreis: 172 € Dein Preis: 86 € Nutze den Code: PG2025 und sichere Dir 50 % Rabatt! Starte jetzt und beginne Deine persönliche Transformation – Dein neues Leben wartet!
 
 ## 2. Links
 

@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h2> </h2>
-<p>Ich bin 48 Jahre, Alleinerziehend und habe 3 Kids. Habe ein eigenes Business mit Kokosöl aufgezogen.</p>
-<p> </p>
-<p>Ich musste immer lernen gut mit Geld auszukommen. Mittlerweile weiss ich, es ist alles möglich. Man braucht nur den Mut, den Schritt, auf sich selbst zu hören, umzusetzen, dran zu bleiben, und nicht aufzugeben,</p>
-<p> </p>
-<p>Gerne möchte ich dies Online anbeiten. Seit Jahren habe ich schon Online Kurse erstellt und verkauft, aber bis jetzt immer nur als Hobby. Nun möchte ich gerne mit dir zusammen Gas geben. </p>
-<p> </p>
-<p>Folgende Kurse gibt es von mir:</p>
-<p>Happy Money Girl "Starter"</p>
-<p>Happy Money Girl "Runner"</p>
-<p>Happy Money Girl "Invest"</p>
-<p>Nadja's Jahresplan</p>
-<p>Bedienungsanleitung für Kinder</p>
-<p>Geld Sparen im Alltag</p>
-<p> </p>
-<p>Ich freue mich, wenn du meine Initiative unterstützt, wenn etwas ist, dann schreib es mir. </p>
-<p>Grüassli Nadja</p>
-</div>
-<div> </div>
+**Vendor's marketplace description:** Ich bin 48 Jahre, Alleinerziehend und habe 3 Kids. Habe ein eigenes Business mit Kokosöl aufgezogen. Ich musste immer lernen gut mit Geld auszukommen. Mittlerweile weiss ich, es ist alles möglich. Man braucht nur den Mut, den Schritt, auf sich selbst zu hören, umzusetzen, dran zu bleiben, und nicht aufzugeben, Gerne möchte ich dies Online anbeiten. Seit Jahren habe ich schon Online Kurse erstellt und verkauft, aber bis jetzt immer nur als Hobby. Nun möchte ich gerne mit dir zusammen Gas geben. Folgende Kurse gibt es von mir: Happy Money Girl "Starter" Happy Money Girl "Runner" Happy Money Girl "Invest" Nadja's Jahresplan Bedienungsanleitung für Kinder Geld Sparen im Alltag Ich freue mich, wenn du meine Initiative unterstützt, wenn etwas ist, dann schreib es mir. Grüassli Nadja
 
 ## 2. Links
 

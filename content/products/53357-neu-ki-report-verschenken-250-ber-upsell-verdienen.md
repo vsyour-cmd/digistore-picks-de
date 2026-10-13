@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verschenke unser Freebie und verdiene dadurch über unseren Upsell Funnel bis zu 250€<br /><br />Info für Affiliates - <span style="background-color:#ffcc00;">Jeder 5. kauft das ABO im Webinar!</span></strong></p>
-<p><span style="text-decoration:underline;">Dein Verdienst:</span></p>
-<ul>
-<li>Einstiegsprodukt 0€ = 0€ (Gebühr Digistore)</li>
-<li>Upsell 1 KI Webinar Abo Produkt 39€ = 25%</li>
-<li>Provision + weitere Upsells mit bis zu 250€</li>
-</ul>
-<p><span style="text-decoration:underline;">Dein Vorteil:</span></p>
-<ul>
-<li>Produkt aus der Online Geld verdienen Nische</li>
-<li><strong>Verkaufsstarke und professionelle Werbemittel</strong></li>
-<li>Konversionstarke Präsentation</li>
-<li><strong>niedrige Einstiegshürde von 0€</strong></li>
-<li>Ein Produkt mit enormen Mehrwehrt</li>
-<li><strong>ständige Conversion Optimierung</strong><br /><br />Andauernde Split-Tests für optimale Conversionrate.<br /><br /><strong>Werbemittel auf unserer Partnerseite</strong><br /><span style="background-color:#ffcc00;"><a style="background-color:#ffcc00;" href="https://partnerseite.myfunnelcockpit.com/" target="_blank" rel="noreferrer noopener">Hier Klicken</a></span><br /><br /></li>
-</ul>
-<div> </div>
+**Vendor's marketplace description:** Verschenke unser Freebie und verdiene dadurch über unseren Upsell Funnel bis zu 250€ Info für Affiliates - Jeder 5. kauft das ABO im Webinar! Dein Verdienst: Einstiegsprodukt 0€ = 0€ (Gebühr Digistore) Upsell 1 KI Webinar Abo Produkt 39€ = 25% Provision + weitere Upsells mit bis zu 250€ Dein Vorteil: Produkt aus der Online Geld verdienen Nische Verkaufsstarke und professionelle Werbemittel Konversionstarke Präsentation niedrige Einstiegshürde von 0€ Ein Produkt mit enormen Mehrwehrt ständige Conversion Optimierung Andauernde Split-Tests für optimale Conversionrate. Werbemittel auf unserer Partnerseite Hier Klicken
 
 ## 2. Links
 

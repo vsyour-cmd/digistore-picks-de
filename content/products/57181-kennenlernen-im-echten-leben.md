@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Kennenlernen im echten Leben“</strong></p>
-<p>Offline statt App – Genug von Dating-Apps? So lernst du Menschen im Alltag kennen – im Café, beim Sport, überall.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Gelegenheiten im Alltag erkennen</li>
-<li>Natürlich ins Gespräch kommen – ohne Sprüche</li>
-<li>Mit Ablehnung locker umgehen</li>
-<li>Orte, an denen Kennenlernen leicht fällt</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Kennenlernen im echten Leben“ Offline statt App – Genug von Dating-Apps? So lernst du Menschen im Alltag kennen – im Café, beim Sport, überall. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Gelegenheiten im Alltag erkennen Natürlich ins Gespräch kommen – ohne Sprüche Mit Ablehnung locker umgehen Orte, an denen Kennenlernen leicht fällt
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das bekommst du:</strong></p>
-<p>- 5 reichhaltige Video-Lektionen (von Positionierung, Copywriting über Contenterstellung bis hin zum LinkedIn-Algorithmus)</p>
-<p>- 5 digitale Guidebooks zum Nacharbeiten und Üben</p>
-<p>- Strategien, die sich bewährt haben, anstatt das zu tun, was andere tun</p>
-<p>- Speziell abgestimmt auf C-Levels, ohne zu verallgemeinern</p>
-<p>- zeitunabhängig und flexibel</p>
-<p>- Direkter Zugang</p>
-<p>- 365 Tage Zugriff</p>
+**Vendor's marketplace description:** Das bekommst du: - 5 reichhaltige Video-Lektionen (von Positionierung, Copywriting über Contenterstellung bis hin zum LinkedIn-Algorithmus) - 5 digitale Guidebooks zum Nacharbeiten und Üben - Strategien, die sich bewährt haben, anstatt das zu tun, was andere tun - Speziell abgestimmt auf C-Levels, ohne zu verallgemeinern - zeitunabhängig und flexibel - Direkter Zugang - 365 Tage Zugriff
 
 ## 2. Links
 
@@ -61,6 +54,14 @@ language: "de"
 > Sales page not yet researched. This section will be filled by the next research run.
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
 
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 

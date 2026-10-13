@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Erstelle dir ein vollautomatisiertes Online-Business, das Tag und Nacht für dich Geld verdient.<br /></strong></h2>
-<p>Das ist ein absolutes Premium-Programm für alle, die es WIRKLICH ernst meinen, Online Geld zu verdienen und sich ein automatisiertes und erfolgreiches Online-Business aufbauen wollen.</p>
-<p>Das ist <strong>meine exakte Strategie, mit der ich jeden Monat gute fünfstellige Einnahmen erziele</strong>, auf Autopilot, ohne, dass ich ständig am PC oder Handy sitzen muss.</p>
-<p><span style="color:#ff0000;"><strong>Für dich als Affiliate sind pro Verkauf über 490€ drin und im <span style="text-decoration:underline;">gesamten Funnel über 800 - 1000€</span> ! Wir splittesten alles und ständig! <br /></strong></span></p>
-<p>In diesem einzigartigen Programm ist folgendes enthalten:</p>
-<ul>
-<li>… erfahre, wie du die ideale Nische und Thema für deine digitalen Produkte findest, <strong>damit sie dir förmlich aus den Händen gerissen werden!</strong></li>
-<li>... erfahre, wie du dich richtig positionierst, damit deine Zielgruppe nicht anders kann, als von dir zu kaufen!</li>
-<li>... erfahre, wie du alles so einrichtest und verknüpfst, damit <strong>dein Kurs automatisiert verkauft</strong> und ausgeliefert wird, ohne, dass du ständig am Computer sitzen musst!</li>
-<li>... erfahre, wie du <strong>ohne Werbeausgaben dein Kurs von anderen kostenlos vermarkten lässt.</strong></li>
-<li>... erfahre, wie du <strong>kaufwillige Menschen</strong> für deinen Online-Kurs <strong>auf Knopfdruck anziehst.</strong></li>
-<li>... erfahre, wie du die <strong>Technik kinderleicht meisterst</strong> und die Technik zu deinem Freund wird.</li>
-<li>Zugang zur exklusiven Digital Super Hero Community mit gegenseitigem Austausch und Unterstützung!</li>
-<li><strong>... meine komplette Anleitung, wie ich jeden Monat auf Autopilot fünfstellige Einnahmen mache!</strong></li>
-<li>... und noch vieles mehr!</li>
-</ul>
-<p><strong>Inkl. allen Boni</strong> im Gesamtwert von über 8.932 Euro, die du gesehen hast!</p>
+**Vendor's marketplace description:** Erstelle dir ein vollautomatisiertes Online-Business, das Tag und Nacht für dich Geld verdient. Das ist ein absolutes Premium-Programm für alle, die es WIRKLICH ernst meinen, Online Geld zu verdienen und sich ein automatisiertes und erfolgreiches Online-Business aufbauen wollen. Das ist meine exakte Strategie, mit der ich jeden Monat gute fünfstellige Einnahmen erziele , auf Autopilot, ohne, dass ich ständig am PC oder Handy sitzen muss. Für dich als Affiliate sind pro Verkauf über 490€ drin und im gesamten Funnel über 800 - 1000€ ! Wir splittesten alles und ständig! In diesem einzigartigen Programm ist folgendes enthalten: … erfahre, wie du die ideale Nische und Thema für deine digitalen Produkte findest, damit sie dir förmlich aus den Händen gerissen werden! ... erfahre, wie du dich richtig positionierst, damit deine Zielgruppe nicht anders kann, als von dir zu kaufen! ... erfahre, wie du alles so einrichtest und verknüpfst, damit dein Kurs automatisiert verkauft und ausgeliefert wird, ohne, dass du ständig am Computer sitzen musst! ... erfahre, wie du ohne Werbeausgaben dein Kurs von anderen kostenlos vermarkten lässt. ... erfahre, wie du kaufwillige Menschen für deinen Online-Kurs auf Knopfdruck anziehst. ... erfahre, wie du die Technik kinderleicht meisterst und die Technik zu deinem Freund wird. Zugang zur exklusiven Digital Super Hero Community mit gegenseitigem Austausch und Unterstützung! ... meine komplette Anleitung, wie ich jeden Monat auf Autopilot fünfstellige Einnahmen mache! ... und noch vieles mehr! Inkl. allen Boni im Gesamtwert von über 8.932 Euro, die du gesehen hast!
 
 ## 2. Links
 

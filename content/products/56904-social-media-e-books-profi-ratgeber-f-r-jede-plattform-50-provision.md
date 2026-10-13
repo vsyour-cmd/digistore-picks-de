@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>52 Profi-Ratgeber rund um Social-Media-Marketing – 50 % Provision auf jeden Verkauf.</strong></p>
-<p>Digitale E-Books (PDF, Sofort-Download nach dem Kauf) für die wichtigsten Plattformen: Instagram, TikTok, LinkedIn, X, Facebook, Pinterest, WhatsApp, Reddit, Snapchat, Telegram, Twitch, Threads, VK und XING – jeweils in vier Stufen vom Einsteiger über Coach- und Influencer-Aufbau bis zum Business-Wachstum.</p>
-<p><strong>Warum sich das Bewerben lohnt:</strong></p>
-<ul>
-<li>50 % Provision auf jeden Verkauf.</li>
-<li>Funnel mit Upsells: Käufer bekommen nach dem Buch passende Komplett-Pakete angeboten – du verdienst an der ganzen Kette mit.</li>
-<li>Breite Zielgruppe: Creator, Selbstständige, Coaches und Unternehmen, die auf Social Media wachsen wollen.</li>
-<li>Klar strukturierte Ratgeber mit Schritt-für-Schritt-Anleitungen, sofort als PDF lieferbar.</li>
-</ul>
-<p>Alle Produkte und dein persönlicher Affiliate-Link auf der Partner-Seite von social-media-planer.de</p>
+**Vendor's marketplace description:** 52 Profi-Ratgeber rund um Social-Media-Marketing – 50 % Provision auf jeden Verkauf. Digitale E-Books (PDF, Sofort-Download nach dem Kauf) für die wichtigsten Plattformen: Instagram, TikTok, LinkedIn, X, Facebook, Pinterest, WhatsApp, Reddit, Snapchat, Telegram, Twitch, Threads, VK und XING – jeweils in vier Stufen vom Einsteiger über Coach- und Influencer-Aufbau bis zum Business-Wachstum. Warum sich das Bewerben lohnt: 50 % Provision auf jeden Verkauf. Funnel mit Upsells: Käufer bekommen nach dem Buch passende Komplett-Pakete angeboten – du verdienst an der ganzen Kette mit. Breite Zielgruppe: Creator, Selbstständige, Coaches und Unternehmen, die auf Social Media wachsen wollen. Klar strukturierte Ratgeber mit Schritt-für-Schritt-Anleitungen, sofort als PDF lieferbar. Alle Produkte und dein persönlicher Affiliate-Link auf der Partner-Seite von social-media-planer.de
 
 ## 2. Links
 

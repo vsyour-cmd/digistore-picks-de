@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die 24 Bilder Choreografie des Tai Chi ist die am weitesten verbreitete Art dieser chinesichen Entspannungs- und Bewegungskunst.</p>
-<p>Der Ausbilder (höchste deutsche Graduierung), Schulinhaber und Buchautor Jan Leminsky hat ein konzept erstellt, wie man Tai Chi mit einer kurzen Form lernen kann.</p>
-<p>Die ersten Schritte mit einer einfachen Choreografie.</p>
-<p>Im Lehrteil einzeln erklärt und mit einem Trainingsteil an der Elbe.</p>
-<p>Ideal für Zuhause oder über Smartphone auch im freien verfügbar.</p>
+**Vendor's marketplace description:** Die 24 Bilder Choreografie des Tai Chi ist die am weitesten verbreitete Art dieser chinesichen Entspannungs- und Bewegungskunst. Der Ausbilder (höchste deutsche Graduierung), Schulinhaber und Buchautor Jan Leminsky hat ein konzept erstellt, wie man Tai Chi mit einer kurzen Form lernen kann. Die ersten Schritte mit einer einfachen Choreografie. Im Lehrteil einzeln erklärt und mit einem Trainingsteil an der Elbe. Ideal für Zuhause oder über Smartphone auch im freien verfügbar.
 
 ## 2. Links
 

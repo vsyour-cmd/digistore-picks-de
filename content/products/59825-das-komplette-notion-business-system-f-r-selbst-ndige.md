@@ -41,40 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Organisiere Content, Kunden, Finanzen und Aufgaben an einem zentralen Ort</p>
-<p>Verbringst du täglich Zeit damit, zwischen Notizen, Tabellen, Kalendern, E-Mails und verschiedenen Tools zu wechseln?</p>
-<p>Das Notion Business System hilft Creator:innen, Freelancer:innen und digitalen Selbstständigen dabei, ihr gesamtes Business in einer übersichtlichen Struktur zu organisieren.</p>
-<p>Statt Chaos, verlorenen Informationen und ständiger Suche arbeitest du mit einem klaren System für Planung, Umsetzung und Wachstum.</p>
-<p>Das erwartet dich:</p>
-<p>✅ Home-Dashboard für den täglichen Überblick</p>
-<p>✅ Content-System inklusive Redaktionsplanung</p>
-<p>✅ CRM für Kundenverwaltung und Follow-ups</p>
-<p>✅ Business-Finanzen und Einnahmenübersicht</p>
-<p>✅ SOPs und Prozesse für wiederkehrende Aufgaben</p>
-<p>✅ Second Brain für Ideen, Wissen und Notizen</p>
-<p>✅ Workbook zur Umsetzung</p>
-<p>✅ Duplizierbare Notion-Vorlagen</p>
-<p>✅ 7-Tage-Umsetzungsplan</p>
-<p>Für wen geeignet?</p>
-<p>Content Creator</p>
-<p>Social Media Manager:innen</p>
-<p>Freelancer:innen</p>
-<p>Virtuelle Assistent:innen</p>
-<p>Coaches</p>
-<p>Berater:innen</p>
-<p>Digitale Selbstständige</p>
-<p>Typische Probleme, die dieses System löst</p>
-<p>Content-Ideen gehen verloren</p>
-<p>Kundenanfragen werden unübersichtlich</p>
-<p>Aufgaben werden vergessen</p>
-<p>Zu viele Tools gleichzeitig</p>
-<p>Keine zentrale Business-Struktur</p>
-<p>Fehlender Überblick über Projekte und Finanzen</p>
-<p>Dein Ergebnis</p>
-<p>Mit dem Notion Business System baust du dir eine zentrale Schaltzentrale für dein Business auf.</p>
-<p>Du planst effizienter, findest Informationen schneller wieder, behältst Kunden und Projekte im Blick und sparst wertvolle Zeit im Alltag.</p>
-<p>Bonus</p>
-<p> </p>
+**Vendor's marketplace description:** Organisiere Content, Kunden, Finanzen und Aufgaben an einem zentralen Ort Verbringst du täglich Zeit damit, zwischen Notizen, Tabellen, Kalendern, E-Mails und verschiedenen Tools zu wechseln? Das Notion Business System hilft Creator:innen, Freelancer:innen und digitalen Selbstständigen dabei, ihr gesamtes Business in einer übersichtlichen Struktur zu organisieren. Statt Chaos, verlorenen Informationen und ständiger Suche arbeitest du mit einem klaren System für Planung, Umsetzung und Wachstum. Das erwartet dich: ✅ Home-Dashboard für den täglichen Überblick ✅ Content-System inklusive Redaktionsplanung ✅ CRM für Kundenverwaltung und Follow-ups ✅ Business-Finanzen und Einnahmenübersicht ✅ SOPs und Prozesse für wiederkehrende Aufgaben ✅ Second Brain für Ideen, Wissen und Notizen ✅ Workbook zur Umsetzung ✅ Duplizierbare Notion-Vorlagen ✅ 7-Tage-Umsetzungsplan Für wen geeignet? Content Creator Social Media Manager:innen Freelancer:innen Virtuelle Assistent:innen Coaches Berater:innen Digitale Selbstständige Typische Probleme, die dieses System löst Content-Ideen gehen verloren Kundenanfragen werden unübersichtlich Aufgaben werden vergessen Zu viele Tools gleichzeitig Keine zentrale Business-Struktur Fehlender Überblick über Projekte und Finanzen Dein Ergebnis Mit dem Notion Business System baust du dir eine zentrale Schaltzentrale für dein Business auf. Du planst effizienter, findest Informationen schneller wieder, behältst Kunden und Projekte im Blick und sparst wertvolle Zeit im Alltag. Bonus
 
 ## 2. Links
 

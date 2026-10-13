@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><em>Bitte bindet euren Affiliate Link auf euren Plattformen ein, sodass euer Kunden auch über euren Link zur Verkaufsseite gelangt und Ihr eure Provision erhaltet! :)</em></h3>
-<h3>INFO zum Buch:</h3>
-<h3>Du funktionierst – aber du lebst nicht mit Energie.</h3>
-<p>Morgens müde aufwachen. Tagsüber kämpfen. Abends erschöpft, aber der Kopf kommt nicht zur Ruhe.</p>
-<p><strong>Kommt dir das bekannt vor?</strong></p>
-<p>Die Wahrheit ist: Deine Müdigkeit hat selten etwas mit fehlender Willenskraft zu tun – sondern mit den vielen kleinen Energie-Killern, die sich unbemerkt in unseren Alltag eingeschlichen haben.</p>
-<p><strong>„Raus aus der Müdigkeit“</strong> zeigt dir, warum du wirklich erschöpft bist – und wie du bereits in nur sieben Tagen den ersten spürbaren Unterschied erreichst.</p>
-<p>Ohne radikale Diäten.<br />Ohne stundenlangen Sport.<br />Ohne dein Leben komplett umzukrempeln.</p>
-<h3>In diesem Buch erfährst du:</h3>
-<p>• Die <strong>8 Säulen echter Energie</strong> – verständlich erklärt</p>
-<p>• Einen <strong>7-Tage-Reset-Plan</strong> zum sofortigen Umsetzen</p>
-<p>• Praxis-Impulse und Checklisten für den Alltag</p>
-<p>• Wissenschaftlich fundiert – aber ohne Fachchinesisch</p>
-<p>Für alle, die spüren:</p>
-<p><strong>So kann es nicht weitergehen.</strong></p>
-<p>Und endlich verstehen möchten, was ihrem Körper wirklich hilft.</p>
-<p><strong>Einfach. Praxisnah. Nachhaltig. (über 272 Seiten)</strong></p>
+**Vendor's marketplace description:** Bitte bindet euren Affiliate Link auf euren Plattformen ein, sodass euer Kunden auch über euren Link zur Verkaufsseite gelangt und Ihr eure Provision erhaltet! :) INFO zum Buch: Du funktionierst – aber du lebst nicht mit Energie. Morgens müde aufwachen. Tagsüber kämpfen. Abends erschöpft, aber der Kopf kommt nicht zur Ruhe. Kommt dir das bekannt vor? Die Wahrheit ist: Deine Müdigkeit hat selten etwas mit fehlender Willenskraft zu tun – sondern mit den vielen kleinen Energie-Killern, die sich unbemerkt in unseren Alltag eingeschlichen haben. „Raus aus der Müdigkeit“ zeigt dir, warum du wirklich erschöpft bist – und wie du bereits in nur sieben Tagen den ersten spürbaren Unterschied erreichst. Ohne radikale Diäten. Ohne stundenlangen Sport. Ohne dein Leben komplett umzukrempeln. In diesem Buch erfährst du: • Die 8 Säulen echter Energie – verständlich erklärt • Einen 7-Tage-Reset-Plan zum sofortigen Umsetzen • Praxis-Impulse und Checklisten für den Alltag • Wissenschaftlich fundiert – aber ohne Fachchinesisch Für alle, die spüren: So kann es nicht weitergehen. Und endlich verstehen möchten, was ihrem Körper wirklich hilft. Einfach. Praxisnah. Nachhaltig. (über 272 Seiten)
 
 ## 2. Links
 

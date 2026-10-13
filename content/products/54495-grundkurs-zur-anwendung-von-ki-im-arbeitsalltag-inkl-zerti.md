@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der NEXperts Grundkurs zur Anwendung von KI im Arbeitsalltag vermittelt Einsteigern praxisnahes Wissen zu KI-Tools und deren sicherem Einsatz im Arbeitsalltag. In rund 15 Stunden lernt der Teilnehmer durch Videos, interaktive Übungen und Fallbeispiele die wichtigsten Grundlagen zu Anwendung, Prompting, Compliance und AI-Act-konformer Nutzung. Nach erfolgreichem Abschluss erhältst du ein Teilnahmezertifikat.</p>
+**Vendor's marketplace description:** Der NEXperts Grundkurs zur Anwendung von KI im Arbeitsalltag vermittelt Einsteigern praxisnahes Wissen zu KI-Tools und deren sicherem Einsatz im Arbeitsalltag. In rund 15 Stunden lernt der Teilnehmer durch Videos, interaktive Übungen und Fallbeispiele die wichtigsten Grundlagen zu Anwendung, Prompting, Compliance und AI-Act-konformer Nutzung. Nach erfolgreichem Abschluss erhältst du ein Teilnahmezertifikat.
 
 ## 2. Links
 

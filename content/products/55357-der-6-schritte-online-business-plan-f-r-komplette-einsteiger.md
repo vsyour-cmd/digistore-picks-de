@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das perfekte Online-Business in 6 Schritten</strong> ist ein strukturierter Video-Kurs für Menschen, die sich <strong>nebenberuflich ein nachhaltiges Online-Business aufbauen möchten</strong>, aber bisher keinen klaren Fahrplan hatten.</p>
-<p>Viele Einsteiger scheitern nicht am Willen, sondern an:</p>
-<ul>
-<li>
-<p>fehlender Struktur</p>
-</li>
-<li>
-<p>zu komplizierten Kursen</p>
-</li>
-<li>
-<p>widersprüchlichen Strategien</p>
-</li>
-<li>
-<p>technischen Überforderungen</p>
-</li>
-</ul>
-<p>Genau hier setzt dieser Kurs an.</p>
-<h3> </h3>
+**Vendor's marketplace description:** Das perfekte Online-Business in 6 Schritten ist ein strukturierter Video-Kurs für Menschen, die sich nebenberuflich ein nachhaltiges Online-Business aufbauen möchten , aber bisher keinen klaren Fahrplan hatten. Viele Einsteiger scheitern nicht am Willen, sondern an: fehlender Struktur zu komplizierten Kursen widersprüchlichen Strategien technischen Überforderungen Genau hier setzt dieser Kurs an.
 
 ## 2. Links
 

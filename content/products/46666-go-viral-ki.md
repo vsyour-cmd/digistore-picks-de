@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong><em>Bewerbe den Bestseller Kurs: GO Viral</em></strong></div>
-<div> </div>
-<div>
-<p><strong><em>✅  Exponentielles Wachstum der Social Media Kanäle (TikTok, Insta, YouTube usw.)</em></strong></p>
-<p><strong><em>✅ </em> Zum Viralen Inluencer dank KI werden</strong></p>
-<p><strong><em>✅  Man kann auch komplett ANONYM bleiben !!!</em></strong></p>
-<p><strong><em>✅  </em>Als Bonus bekommt deine Communite den Zugang zu unserem Mitgliederbereich und dadurch noch mehr hocherwertigen Content (auch kostenfreier Content)...</strong></p>
-</div>
+**Vendor's marketplace description:** Bewerbe den Bestseller Kurs: GO Viral ✅ Exponentielles Wachstum der Social Media Kanäle (TikTok, Insta, YouTube usw.) ✅ Zum Viralen Inluencer dank KI werden ✅ Man kann auch komplett ANONYM bleiben !!! ✅ Als Bonus bekommt deine Communite den Zugang zu unserem Mitgliederbereich und dadurch noch mehr hocherwertigen Content (auch kostenfreier Content)...
 
 ## 2. Links
 

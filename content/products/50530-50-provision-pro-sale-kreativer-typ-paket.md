@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verdiene 50 % Provision pro Sale als Affiliate!</strong><br />Das „Kreativer-Typ“-Paket unterstützt Menschen dabei, ihre kreative Persönlichkeit zu entfalten, Blockaden zu überwinden und ihre Projekte mit Struktur und Fokus zu verwirklichen. Ideal für deinen Newsletter, Blog oder Social Media!</p>
-<h3>Kurzbeschreibung</h3>
-<p>Hol das Beste aus deinem kreativen Typen heraus! Mit detaillierter Typenanalyse, binauralen Beats und einem praxisorientierten Workbook erhältst du alles, was du brauchst, um deine Ideen und Projekte gezielt umzusetzen.</p>
-<h3><strong>Das erhält der Kunde:</strong></h3>
-<p><strong>Detaillierte Typenanalyse (PDF):</strong><br />Erfahre alles über die Stärken und Entwicklungsmöglichkeiten deines kreativen Typen, um gezielt an deinem Potenzial zu arbeiten.</p>
-<p><strong>Binaurale Beats (MP3):</strong><br />Gezielte Audio-Frequenzen, die dich in einen produktiven Flow versetzen und mentale Blockaden lösen.</p>
-<p><strong>Praxisorientiertes Workbook (PDF):</strong><br />Ein Workbook, das dir hilft, deine Ideen zu strukturieren, deinen Arbeitsstil zu optimieren und kreative Projekte erfolgreich umzusetzen.</p>
-<h3><strong>Was macht dieses Paket so wertvoll?</strong></h3>
-<ul>
-<li><strong>Entfessle deine Kreativität:</strong> Finde neue Wege, deine kreativen Ideen mit Struktur und Fokus zu realisieren.</li>
-<li><strong>Fördere Beziehungen:</strong> Verstehe dich selbst und dein Umfeld besser, um inspirierende Verbindungen aufzubauen.</li>
-<li><strong>Produktivität steigern:</strong> Lerne, deine kreative Energie besser zu lenken und deine Ziele mit Klarheit zu erreichen.</li>
-<li><strong>Entdecke dein Potenzial:</strong> Hol das Maximum aus deiner Persönlichkeit heraus und gestalte dein Leben voller kreativer Erfolge.</li>
-</ul>
+**Vendor's marketplace description:** Verdiene 50 % Provision pro Sale als Affiliate! Das „Kreativer-Typ“-Paket unterstützt Menschen dabei, ihre kreative Persönlichkeit zu entfalten, Blockaden zu überwinden und ihre Projekte mit Struktur und Fokus zu verwirklichen. Ideal für deinen Newsletter, Blog oder Social Media! Kurzbeschreibung Hol das Beste aus deinem kreativen Typen heraus! Mit detaillierter Typenanalyse, binauralen Beats und einem praxisorientierten Workbook erhältst du alles, was du brauchst, um deine Ideen und Projekte gezielt umzusetzen. Das erhält der Kunde: Detaillierte Typenanalyse (PDF): Erfahre alles über die Stärken und Entwicklungsmöglichkeiten deines kreativen Typen, um gezielt an deinem Potenzial zu arbeiten. Binaurale Beats (MP3): Gezielte Audio-Frequenzen, die dich in einen produktiven Flow versetzen und mentale Blockaden lösen. Praxisorientiertes Workbook (PDF): Ein Workbook, das dir hilft, deine Ideen zu strukturieren, deinen Arbeitsstil zu optimieren und kreative Projekte erfolgreich umzusetzen. Was macht dieses Paket so wertvoll? Entfessle deine Kreativität: Finde neue Wege, deine kreativen Ideen mit Struktur und Fokus zu realisieren. Fördere Beziehungen: Verstehe dich selbst und dein Umfeld besser, um inspirierende Verbindungen aufzubauen. Produktivität steigern: Lerne, deine kreative Energie besser zu lenken und deine Ziele mit Klarheit zu erreichen. Entdecke dein Potenzial: Hol das Maximum aus deiner Persönlichkeit heraus und gestalte dein Leben voller kreativer Erfolge.
 
 ## 2. Links
 

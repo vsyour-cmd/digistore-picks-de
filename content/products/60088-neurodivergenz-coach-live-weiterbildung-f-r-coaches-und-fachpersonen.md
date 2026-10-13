@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Live-Weiterbildung für Coaches, Berater:innen, Therapeut:innen und weitere Fachpersonen</strong>, die neurodivergente Menschen begleiten.</p>
-<ul>
-<li>50 Unterrichtsstunden live online im virtuellen Klassenzimmer</li>
-<li>Montags 19:30–21:30 Uhr, dazu zwei Praxis-Samstage</li>
-<li>Start: 30.11.2026, maximal 20 Teilnehmende</li>
-<li>Leitung: Marina Winkler, M.Sc. Psychologin und Hochschuldozentin für Klinische Psychologie</li>
-<li>Abschluss ohne Abschlussprüfung</li>
-</ul>
-<p>Hinweis: Weiterbildung für Fachpersonen. Keine Therapie- oder Diagnostikausbildung, kein staatlich anerkannter Abschluss. Preise und Termine gelten wie auf der Programmseite.</p>
-<p>Provision für Affiliates: 10 %. Informationen und fertiges Bildmaterial für Partner:innen finden Sie auf der Partnerseite der Neurotraining Akademie.</p>
+**Vendor's marketplace description:** Live-Weiterbildung für Coaches, Berater:innen, Therapeut:innen und weitere Fachpersonen , die neurodivergente Menschen begleiten. 50 Unterrichtsstunden live online im virtuellen Klassenzimmer Montags 19:30–21:30 Uhr, dazu zwei Praxis-Samstage Start: 30.11.2026, maximal 20 Teilnehmende Leitung: Marina Winkler, M.Sc. Psychologin und Hochschuldozentin für Klinische Psychologie Abschluss ohne Abschlussprüfung Hinweis: Weiterbildung für Fachpersonen. Keine Therapie- oder Diagnostikausbildung, kein staatlich anerkannter Abschluss. Preise und Termine gelten wie auf der Programmseite. Provision für Affiliates: 10 %. Informationen und fertiges Bildmaterial für Partner:innen finden Sie auf der Partnerseite der Neurotraining Akademie.
 
 ## 2. Links
 

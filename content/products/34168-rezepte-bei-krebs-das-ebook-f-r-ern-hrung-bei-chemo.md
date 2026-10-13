@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Ernährung bei der Chemotherapie</h1>
-<div>
-<p>Sei Affiliate für dieses EBook im pdf-Format zum schnellen Download mit praktikablen Rezepten während einer Krebserkrankung und für die Zeit der Chemotherapie.</p>
-<h2>Warum bist Du ideal als Affiliate?</h2>
-<p>Du beschäftigst dich schon länger mit Ernährung oder gar Krebs? Du hast eine Fitnessseite? Vielleicht bist du gar Ernährungsberater? Du bist ein Verkaufs-Profi?</p>
-<p>Eine Affinität für Essen wäre ideal, ist aber nicht notwendig.</p>
-<h2>USP</h2>
-<p>Maximale Gewinnmarge bei einem Thema, welches fast jeden einmal im Leben betrifft. Wenn glücklicherweise nicht persönlich, dann kennt man doch mindestens einen Betroffenen.</p>
-<p>Es gibt leider viel zu wenige Bücher auf dem Markt, die sich mit dem Thema Ernährung während der Chemotherapie beschäftigen.</p>
-<p>Daher ist dieses Buch einzigartig. Fundierte Fakten, Praxistipps und eigene Erfahrungen. </p>
-<p>Dieses Buch enthält Ernährungstipps und einfach nachzukochende Rezepte direkt von mir, Cateringunternehmerin in Berlin, für jedermann inkl. Mealprep und Tipps fürs Krankenhaus.</p>
-<h2><span style="color:#00ff00;">Tue Gutes, indem du das Produkt bewirbst und helfe Krebs-Betroffenen!</span></h2>
-<h2>Inhalt:</h2>
-<p>In diesem Buch wird folgendes erklärt: </p>
-<ol>
-<li>109 A4 Seiten geballtes Wissen</li>
-<li>Ernährung die vor Krebs schützen kann</li>
-<li>Nahrungsumstellung - und wie ich diese in den Alltag integriere</li>
-<li>praktischer Ernährungsplan für die Chemotherapie</li>
-<li>39 Schmackhafte Rezepte für alle Phasen der Chemotherapie (Aufbaurezepte und Schonkost)</li>
-</ol>
-</div>
+**Vendor's marketplace description:** Ernährung bei der Chemotherapie Sei Affiliate für dieses EBook im pdf-Format zum schnellen Download mit praktikablen Rezepten während einer Krebserkrankung und für die Zeit der Chemotherapie. Warum bist Du ideal als Affiliate? Du beschäftigst dich schon länger mit Ernährung oder gar Krebs? Du hast eine Fitnessseite? Vielleicht bist du gar Ernährungsberater? Du bist ein Verkaufs-Profi? Eine Affinität für Essen wäre ideal, ist aber nicht notwendig. USP Maximale Gewinnmarge bei einem Thema, welches fast jeden einmal im Leben betrifft. Wenn glücklicherweise nicht persönlich, dann kennt man doch mindestens einen Betroffenen. Es gibt leider viel zu wenige Bücher auf dem Markt, die sich mit dem Thema Ernährung während der Chemotherapie beschäftigen. Daher ist dieses Buch einzigartig. Fundierte Fakten, Praxistipps und eigene Erfahrungen. Dieses Buch enthält Ernährungstipps und einfach nachzukochende Rezepte direkt von mir, Cateringunternehmerin in Berlin, für jedermann inkl. Mealprep und Tipps fürs Krankenhaus. Tue Gutes, indem du das Produkt bewirbst und helfe Krebs-Betroffenen! Inhalt: In diesem Buch wird folgendes erklärt: 109 A4 Seiten geballtes Wissen Ernährung die vor Krebs schützen kann Nahrungsumstellung - und wie ich diese in den Alltag integriere praktischer Ernährungsplan für die Chemotherapie 39 Schmackhafte Rezepte für alle Phasen der Chemotherapie (Aufbaurezepte und Schonkost)
 
 ## 2. Links
 

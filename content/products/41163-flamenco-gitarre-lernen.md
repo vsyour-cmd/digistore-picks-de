@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Attraktiver Kurs mit<strong> professioneller Landingpage.</strong></p>
-<p><strong>Gute Verdienstmöglichkeit durch Crossselling mehrerer Kurse auf <a>www.guitarschool.at</a></strong></p>
-<p><strong>Wenn du Fragen hast, melde dich einfach bei mir.</strong></p>
-<div>
-<div>
-<div>
-<div>
-<div>
-<h2>"Kurs Beschreibung</h2>
-<p><strong>Flamenco Gitarre ganz einfach online lernen!</strong></p>
-<p>Du Spielst bereits Gitarre und kannst schon <strong>die ersten Akkorde</strong>?<br />Du interessierst dich für die <strong>spanische Gitarre</strong> und willst <strong>Flamenco</strong> spielen lernen,<br />denkst aber <strong>Flamenco Gitarre</strong> ist zu schwer?<br />Du spielst <strong>Klassische Gitarre</strong> und willst dir die <strong>Welt des Flamencos</strong> erschließen?<br />Du willst dich auf der Gitarre <strong>merklich verbessern</strong>?</p>
-<p><strong>Dann ist dieser Kurs genau der Richtige für DICH!"</strong></p>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Attraktiver Kurs mit professioneller Landingpage. Gute Verdienstmöglichkeit durch Crossselling mehrerer Kurse auf www.guitarschool.at Wenn du Fragen hast, melde dich einfach bei mir. "Kurs Beschreibung Flamenco Gitarre ganz einfach online lernen! Du Spielst bereits Gitarre und kannst schon die ersten Akkorde ? Du interessierst dich für die spanische Gitarre und willst Flamenco spielen lernen, denkst aber Flamenco Gitarre ist zu schwer? Du spielst Klassische Gitarre und willst dir die Welt des Flamencos erschließen? Du willst dich auf der Gitarre merklich verbessern ? Dann ist dieser Kurs genau der Richtige für DICH!"
 
 ## 2. Links
 

@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Bewerben Sie unsere Trading Indikatoren speziell für TradingView! </strong></p>
-<p>Der professionell programmierte FiboCross Indikator gibt automatisiert Einstiegssignale.</p>
-<p><strong>Konditionen für Partner:</strong></p>
-<ul>
-<li>30 % Provision</li>
-<li>Sehr geringe Stornoquote</li>
-</ul>
-<p>Bewerben Sie diesen Indikator jetzt auf Ihrer Webseite, Ihrem Blog oder direkt an Ihre Liste.</p>
-<p> </p>
+**Vendor's marketplace description:** Bewerben Sie unsere Trading Indikatoren speziell für TradingView! Der professionell programmierte FiboCross Indikator gibt automatisiert Einstiegssignale. Konditionen für Partner: 30 % Provision Sehr geringe Stornoquote Bewerben Sie diesen Indikator jetzt auf Ihrer Webseite, Ihrem Blog oder direkt an Ihre Liste.
 
 ## 2. Links
 

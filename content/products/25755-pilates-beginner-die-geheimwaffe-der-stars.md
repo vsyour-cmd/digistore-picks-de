@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Einfaches, effektives Pilates-Online-Training für Frauen, die fit, glücklich und voller Energie sein wollen.</h2>
-<p>Mit Hilfe des Pilates Beginner Programms kannst Du deine Figur innerhalb von nur zehn Wochen sichtbar verbessern.  </p>
-<p>Halb Hollywood schwört auf die sanfte und effektive Trainingsmethode Pilates. Der Fokus liegt hier auf dem Training der Körpermitte, dem „Powerhouse“ oder auch „Kraftzentrum“ genannt. Die fließenden Bewegungen kräftigen, dehnen den Körper und stärken die Tiefenmuskulatur, wie Bauch, Rücken und Beckenboden.  Eine stabile Mitte, eine schlanke Taille und lange schlanke Muskeln sind das Ergebnis. </p>
-<h2><strong>Werde fit, stark, glücklich und fühl dich unterstützt … mit einem flexiblen und realistischen Pilates Training, dass Du von zu Hause aus machen kannst.</strong></h2>
-<p>Hol dir jetzt "Pilates Beginner", um ein Leben voller Energie zu beginnen! </p>
-<ul><li>Pilates Online Kurs mit dauerhaften Zugang zu allen Videos</li>
-<li>Jede Übung wird Schritt für Schritt erklärt und Du kannst sie alle einzeln anwählen</li>
-<li>Detaillierte Beschreibung zu jeder Übung als PDF zum Download</li>
-<li>Deine 45 minütige Pilates Routine für schnelle Erfolge</li>
-<li>Detailliert erklärt und angeleitet vom absoluten Profi</li>
-</ul><p> </p>
-<p> </p>
+**Vendor's marketplace description:** Einfaches, effektives Pilates-Online-Training für Frauen, die fit, glücklich und voller Energie sein wollen. Mit Hilfe des Pilates Beginner Programms kannst Du deine Figur innerhalb von nur zehn Wochen sichtbar verbessern. Halb Hollywood schwört auf die sanfte und effektive Trainingsmethode Pilates. Der Fokus liegt hier auf dem Training der Körpermitte, dem „Powerhouse“ oder auch „Kraftzentrum“ genannt. Die fließenden Bewegungen kräftigen, dehnen den Körper und stärken die Tiefenmuskulatur, wie Bauch, Rücken und Beckenboden. Eine stabile Mitte, eine schlanke Taille und lange schlanke Muskeln sind das Ergebnis. Werde fit, stark, glücklich und fühl dich unterstützt … mit einem flexiblen und realistischen Pilates Training, dass Du von zu Hause aus machen kannst. Hol dir jetzt "Pilates Beginner", um ein Leben voller Energie zu beginnen! Pilates Online Kurs mit dauerhaften Zugang zu allen Videos Jede Übung wird Schritt für Schritt erklärt und Du kannst sie alle einzeln anwählen Detaillierte Beschreibung zu jeder Übung als PDF zum Download Deine 45 minütige Pilates Routine für schnelle Erfolge Detailliert erklärt und angeleitet vom absoluten Profi
 
 ## 2. Links
 

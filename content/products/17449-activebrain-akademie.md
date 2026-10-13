@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<h1>Steigere mit exklusiv entwickelten Gehirnjogging Aufgaben deine kognitive Leistungsfähigkeit und halte dich mit Spielen geistig fit und gesund</h1>
-</div>
-</div>
-<div>
-<div>
-<h2>1 x im Monat bekommst du exklusive Gedächtnisaufgaben und Spiele die deine mathematische, logische, kreative Leistungsfähigkeit verbessern – und mehr…</h2>
-</div>
-</div>
+**Vendor's marketplace description:** Steigere mit exklusiv entwickelten Gehirnjogging Aufgaben deine kognitive Leistungsfähigkeit und halte dich mit Spielen geistig fit und gesund 1 x im Monat bekommst du exklusive Gedächtnisaufgaben und Spiele die deine mathematische, logische, kreative Leistungsfähigkeit verbessern – und mehr…
 
 ## 2. Links
 

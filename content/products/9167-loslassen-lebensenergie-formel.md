@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#ff6600;"><strong>7 Schlüssel zur maximalen Energie!</strong></span></h2>
-<p>Online-Video-Coaching, das sofort verfügbar und sofort umsetzbar ist. 7 Module mit gezielten Aufgaben, Übungen und Checklisten.</p>
-<p><strong>Die Qualität Ihrer Energie bestimmt die Qualität Ihres gesamten Lebens!</strong></p>
-<p>Starke Methoden und Techniken heben den Energie-Level schon nach kurzer Zeit massiv an, wodurch sich Erfolge in allen Lebensbereichen erschließen.</p>
-<h4>Webinar-Einladeseite:</h4>
-<p><strong>https://www.digistore24.com/content/60947/7929/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong></p>
-<h4>Webinar-Replay:</h4>
-<p><strong>https://www.digistore24.com/content/60947/9639/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong></p>
-<p><span style="background-color:#ffff00;"><strong>&gt;&gt; Folgeprovisionen bei weiteren Käufen</strong></span></p>
-<p><strong>Verkauf über tägliches Webeniar.</strong></p>
-<p><strong>Kann jederzeit beworben werden.</strong></p>
-<p><strong>Bei Fragen: <span style="background-color:#ffff00;">info@erfolg-intuitiv.de</span></strong></p>
+**Vendor's marketplace description:** 7 Schlüssel zur maximalen Energie! Online-Video-Coaching, das sofort verfügbar und sofort umsetzbar ist. 7 Module mit gezielten Aufgaben, Übungen und Checklisten. Die Qualität Ihrer Energie bestimmt die Qualität Ihres gesamten Lebens! Starke Methoden und Techniken heben den Energie-Level schon nach kurzer Zeit massiv an, wodurch sich Erfolge in allen Lebensbereichen erschließen. Webinar-Einladeseite: https://www.digistore24.com/content/60947/7929/ AFFILIATE / CAMPAIGNKEY Webinar-Replay: https://www.digistore24.com/content/60947/9639/ AFFILIATE / CAMPAIGNKEY >> Folgeprovisionen bei weiteren Käufen Verkauf über tägliches Webeniar. Kann jederzeit beworben werden. Bei Fragen: info@erfolg-intuitiv.de
 
 ## 2. Links
 

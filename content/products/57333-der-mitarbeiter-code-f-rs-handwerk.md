@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Der Mitarbeiter-Code fürs Handwerk“</strong></p>
-<p>Wie du als Handwerksbetrieb sichtbar wirst und passende Mitarbeiter gewinnst – Die besten Handwerker bewerben sich nicht – sie suchen sich aus, wo sie arbeiten. Dieser Ratgeber zeigt dir den Mitarbeiter-Code: Wie du als Handwerksbetrieb sichtbar wirst, eine starke Arbeitgebermarke aufbaust und genau die Mitarbeiter anziehst, die zu dir passen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 12,48 € pro Verkauf (Verkaufspreis 24,95 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Der Mitarbeiter-Code: warum Sichtbarkeit über dein Personal entscheidet</li>
-<li>Wer passt zu dir? Deine Arbeitgeber-Identität und dein Wunschmitarbeiter</li>
-<li>Sichtbar werden: dein Handwerksbetrieb als Marke – online und vor Ort</li>
-<li>Social Media fürs Handwerk: mit Bildern und Videos Mitarbeiter anziehen</li>
-<li>Deine Arbeitgeber-Botschaft: was du sagst, damit die Richtigen sich melden</li>
-<li>Vom Sichtbar-Sein zur Bewerbung: einfache Wege und schnelle Reaktion</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Der Mitarbeiter-Code fürs Handwerk“ Wie du als Handwerksbetrieb sichtbar wirst und passende Mitarbeiter gewinnst – Die besten Handwerker bewerben sich nicht – sie suchen sich aus, wo sie arbeiten. Dieser Ratgeber zeigt dir den Mitarbeiter-Code: Wie du als Handwerksbetrieb sichtbar wirst, eine starke Arbeitgebermarke aufbaust und genau die Mitarbeiter anziehst, die zu dir passen. Warum dieses E-Book bewerben? 50 % Provision – ca. 12,48 € pro Verkauf (Verkaufspreis 24,95 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Der Mitarbeiter-Code: warum Sichtbarkeit über dein Personal entscheidet Wer passt zu dir? Deine Arbeitgeber-Identität und dein Wunschmitarbeiter Sichtbar werden: dein Handwerksbetrieb als Marke – online und vor Ort Social Media fürs Handwerk: mit Bildern und Videos Mitarbeiter anziehen Deine Arbeitgeber-Botschaft: was du sagst, damit die Richtigen sich melden Vom Sichtbar-Sein zur Bewerbung: einfache Wege und schnelle Reaktion
 
 ## 2. Links
 

@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Schenke Kindern tägliche Dosen an Selbstbewusstsein, innerer Ruhe und Freude!</strong></p>
-<p>Dieses Set enthält 32 liebevoll gestaltete Affirmationskarten zum Selberausdrucken (A4-PDF mit Schnittlinien). Perfekt als Morgenritual vor Schule und Kindergarten, als liebevolle Gesprächsimpulse im Alltag oder für Achtsamkeitsmomente zu Hause.</p>
-<p><strong>Vorteile für Käufer:</strong></p>
-<ul>
-<li>
-<p>Sofortiger Download (PDF mit 32 Karten auf 8 Seiten)</p>
-</li>
-<li>
-<p>Inklusive wertvoller Eltern-Tipps zur Anwendung</p>
-</li>
-<li>
-<p>Hohe Conversion-Rate durch klare Zielgruppe (Eltern, Pädagogen, Großeltern)</p>
-</li>
-</ul>
-<p>Ideal für Affiliates aus den Bereichen Familie, Erziehung, Achtsamkeit und Persönlichkeitsentwicklung!</p>
+**Vendor's marketplace description:** Schenke Kindern tägliche Dosen an Selbstbewusstsein, innerer Ruhe und Freude! Dieses Set enthält 32 liebevoll gestaltete Affirmationskarten zum Selberausdrucken (A4-PDF mit Schnittlinien). Perfekt als Morgenritual vor Schule und Kindergarten, als liebevolle Gesprächsimpulse im Alltag oder für Achtsamkeitsmomente zu Hause. Vorteile für Käufer: Sofortiger Download (PDF mit 32 Karten auf 8 Seiten) Inklusive wertvoller Eltern-Tipps zur Anwendung Hohe Conversion-Rate durch klare Zielgruppe (Eltern, Pädagogen, Großeltern) Ideal für Affiliates aus den Bereichen Familie, Erziehung, Achtsamkeit und Persönlichkeitsentwicklung!
 
 ## 2. Links
 

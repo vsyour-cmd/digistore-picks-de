@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das perfekte Produkt für Deine Nische.<br /><br /></p>
-<p>Familienglück - Das Frühstücksbuch spezialisiert sich auf gesunde Frühstücksrezepte und folgt dem Hype "gesunder Ernährung". </p>
-<p>Zielgruppe sind Familien.</p>
-<p>Voraussichtlich hohe Verkaufszahlen bei dieser speziellen Zielgruppe, da ein ausgewogenes, gesundes Frühstück für diese einen hohen Stellenwert einnimmt, jedoch zumeist wegen Zeitmangel/Stress nicht praktiziert wird.</p>
-<p>Die Rezepte sind auf schnelle Zubereitungszeiten ausgerichtet. Der Untertitel sagt es, "15 Minuten".</p>
+**Vendor's marketplace description:** Das perfekte Produkt für Deine Nische. Familienglück - Das Frühstücksbuch spezialisiert sich auf gesunde Frühstücksrezepte und folgt dem Hype "gesunder Ernährung". Zielgruppe sind Familien. Voraussichtlich hohe Verkaufszahlen bei dieser speziellen Zielgruppe, da ein ausgewogenes, gesundes Frühstück für diese einen hohen Stellenwert einnimmt, jedoch zumeist wegen Zeitmangel/Stress nicht praktiziert wird. Die Rezepte sind auf schnelle Zubereitungszeiten ausgerichtet. Der Untertitel sagt es, "15 Minuten".
 
 ## 2. Links
 

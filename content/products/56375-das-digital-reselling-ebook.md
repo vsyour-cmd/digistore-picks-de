@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses Ebook zeigt dir Schritt für Schritt, wie du mit digitalen Produkten online Geld verdienst — ohne eigenes Produkt, ohne Lager, ohne Startkapital. Von der ersten Nische bis zum skalierten Business.</p>
-<p>Was du bekommst:<br />→ 7 bewährte Reselling-Strategien (PLR, Templates, Software-Lizenzen, E-Books, Kurse &amp; mehr)<br />→ Vollständige Plattform-Guides für Etsy, Gumroad, Amazon KDP &amp; Co.<br />→ Profit-Formeln &amp; Kalkulations-Vorlagen<br />→ Marketing-Strategien für Pinterest, TikTok &amp; E-Mail<br />→ Rechtliches &amp; Steuer-Basics für Deutschland, Österreich &amp; Schweiz<br />→ 90-Tage-Aktionsplan für die ersten €1.000<br />→ Bonus: 50 profitable Nischen + Checklisten</p>
-<p>Für wen ist es?<br />Perfekt für alle, die ein ortsunabhängiges Nebeneinkommen aufbauen wollen — auch ohne Vorkenntnisse und ohne Startkapital.</p>
-<p> </p>
+**Vendor's marketplace description:** Dieses Ebook zeigt dir Schritt für Schritt, wie du mit digitalen Produkten online Geld verdienst — ohne eigenes Produkt, ohne Lager, ohne Startkapital. Von der ersten Nische bis zum skalierten Business. Was du bekommst: → 7 bewährte Reselling-Strategien (PLR, Templates, Software-Lizenzen, E-Books, Kurse & mehr) → Vollständige Plattform-Guides für Etsy, Gumroad, Amazon KDP & Co. → Profit-Formeln & Kalkulations-Vorlagen → Marketing-Strategien für Pinterest, TikTok & E-Mail → Rechtliches & Steuer-Basics für Deutschland, Österreich & Schweiz → 90-Tage-Aktionsplan für die ersten €1.000 → Bonus: 50 profitable Nischen + Checklisten Für wen ist es? Perfekt für alle, die ein ortsunabhängiges Nebeneinkommen aufbauen wollen — auch ohne Vorkenntnisse und ohne Startkapital.
 
 ## 2. Links
 

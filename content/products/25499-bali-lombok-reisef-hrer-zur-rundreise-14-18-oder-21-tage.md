@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehle unser einzigartiges E-Book für alle reisebegeisterte Indonesien Fans mit einer hohen Kaufrate. Deine Vorteile:</p>
-<ul>
-<li><span style="background-color:#ffff00;"><strong>Exzellente Conversions</strong></span>: Profitiere von unseren hohen Conversions (Kaufraten) von bis zu 36%. Das bedeutet, dass im Schnitt mehr als jeder Dritte, den du auf das Bestellformular leitest, kauft!</li>
-<li><span style="background-color:#ffff00;"><strong>Hohe Provisionen</strong></span>: Wir bieten dir bis zu 35 Prozent Provision auf deine vermittelten Verkäufe.</li>
-<li><span style="background-color:#ffff00;"><strong>Wiederkehrende Provisionen für geworbene Affiliates</strong></span>: Erhalte 15 Prozent wiederkehrende Zweistufen-Provisionen auf die Provisionen deiner Affiliates, wenn du einen neuen Affiliate wirbst.</li>
-<li><span style="background-color:#ffff00;"><strong>Provisionen für Folgeprodukte &amp; Upsells</strong></span>: Profitiere automatisch von Provisionen auf den Kauf von Folgeprodukten und Upsells. D.h.: Du bewirbst ein Produkt und verdienst beim Kauf weiterer Produkte automatisch mit.</li>
-<li><span style="background-color:#ffff00;"><strong>Hochkonvertierende Werbemittel</strong></span>: Große Auswahl getesteter und durchoptimierter Werbemittel, die du sofort einsetzen kannst: Klickstarke und hochkonvertierende Banner, Vorlagen für E-Mail-Texte und mehr - für mehr Leads und Verkäufe.</li>
-<li><span style="background-color:#ffff00;"><strong>Geringe Stornoquote</strong></span>: Wir haben eine geringe Stornoquote.</li>
-</ul>
-<p>Besuche jetzt unsere offizielle Seite zum <strong><a href="https://www.unaufschiebbar.de/partner/" target="_blank" rel="noreferrer noopener">Affiiate Partnerprogramm</a></strong>, um noch heute Affiliate zu werden.</p>
+**Vendor's marketplace description:** Empfehle unser einzigartiges E-Book für alle reisebegeisterte Indonesien Fans mit einer hohen Kaufrate. Deine Vorteile: Exzellente Conversions : Profitiere von unseren hohen Conversions (Kaufraten) von bis zu 36%. Das bedeutet, dass im Schnitt mehr als jeder Dritte, den du auf das Bestellformular leitest, kauft! Hohe Provisionen : Wir bieten dir bis zu 35 Prozent Provision auf deine vermittelten Verkäufe. Wiederkehrende Provisionen für geworbene Affiliates : Erhalte 15 Prozent wiederkehrende Zweistufen-Provisionen auf die Provisionen deiner Affiliates, wenn du einen neuen Affiliate wirbst. Provisionen für Folgeprodukte & Upsells : Profitiere automatisch von Provisionen auf den Kauf von Folgeprodukten und Upsells. D.h.: Du bewirbst ein Produkt und verdienst beim Kauf weiterer Produkte automatisch mit. Hochkonvertierende Werbemittel : Große Auswahl getesteter und durchoptimierter Werbemittel, die du sofort einsetzen kannst: Klickstarke und hochkonvertierende Banner, Vorlagen für E-Mail-Texte und mehr - für mehr Leads und Verkäufe. Geringe Stornoquote : Wir haben eine geringe Stornoquote. Besuche jetzt unsere offizielle Seite zum Affiiate Partnerprogramm , um noch heute Affiliate zu werden.
 
 ## 2. Links
 

@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Werde jetzt mein Partner!</h2>
-<p><strong>Das 1x1 des Online Business </strong></p>
-<div>
-<ul><li>50% Provision<br />Aktueller Verkaufspreis 29€ &gt; aktueller Verdienst pro Verkauf 14,50€</li>
-<li>einfache Schritt für Schritt Anleitungen und viele Begriffserklärungen</li>
-<li>Werbemittel vorhanden</li>
-</ul><p> </p>
-<h3>Das Produkt:</h3>
-<div>
-<p><strong>Lerne alle wichtigen Grundlagen zum Aufbau deines Online Business:</strong></p>
-<ul><li>Die Vorbereitung. Erfahre alles Rund um die Vorbereitung für dein Online Business und lerne verschiedene Methoden kennen, mit denen du Online Geld verdienen kannst.</li>
-<li>Finde deine Nische. Ich zeige dir wie du ganz einfach eine profitable Nische für dein Online Business findest.</li>
-<li>Schritt für Schritt Einstieg. Lerne Schritt für Schritt den Ablauf der Methoden zum Geld verdienen kennen. Hier zeige ich dir alles vom Start bis hin zum Generieren der ersten Einnahmen.</li>
-<li>Lebenslang kostenfreie Updates. Das Internet verändert sich ständig, so auch die Methoden und Strategien um Online Geld zu verdienen. Deshalb wird dieser Onlinekurs ständig überarbeitet. Hast du den Kurs einmal gekauft bekommst du vollkommen kostenlos Zugriff auf alle weiteren Updates. (P.S. Der Preis wird sich im Laufe der Zeit dem Umfang des Kurses anpassen. Wer von Anfang an dabei ist spart also am meisten.)</li>
-<li>Support. Du hast Fragen? Mein Team und ich helfen dir kostenfrei weiter!</li>
-</ul></div>
-</div>
+**Vendor's marketplace description:** Werde jetzt mein Partner! Das 1x1 des Online Business 50% Provision Aktueller Verkaufspreis 29€ > aktueller Verdienst pro Verkauf 14,50€ einfache Schritt für Schritt Anleitungen und viele Begriffserklärungen Werbemittel vorhanden Das Produkt: Lerne alle wichtigen Grundlagen zum Aufbau deines Online Business: Die Vorbereitung. Erfahre alles Rund um die Vorbereitung für dein Online Business und lerne verschiedene Methoden kennen, mit denen du Online Geld verdienen kannst. Finde deine Nische. Ich zeige dir wie du ganz einfach eine profitable Nische für dein Online Business findest. Schritt für Schritt Einstieg. Lerne Schritt für Schritt den Ablauf der Methoden zum Geld verdienen kennen. Hier zeige ich dir alles vom Start bis hin zum Generieren der ersten Einnahmen. Lebenslang kostenfreie Updates. Das Internet verändert sich ständig, so auch die Methoden und Strategien um Online Geld zu verdienen. Deshalb wird dieser Onlinekurs ständig überarbeitet. Hast du den Kurs einmal gekauft bekommst du vollkommen kostenlos Zugriff auf alle weiteren Updates. (P.S. Der Preis wird sich im Laufe der Zeit dem Umfang des Kurses anpassen. Wer von Anfang an dabei ist spart also am meisten.) Support. Du hast Fragen? Mein Team und ich helfen dir kostenfrei weiter!
 
 ## 2. Links
 

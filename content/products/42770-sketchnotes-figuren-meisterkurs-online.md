@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Produktinformation:</strong></p>
-<p><strong>26wöchiger Onlinekurs &amp; Mentoring Programm</strong><br />(Klassik, Premium und Premium Plus Paket)</p>
-<p>Die Teilnehmer erleben eine nachhaltige visuelle Transformation – indem sie ihren <strong>einzigartigen Zeichenstil</strong> für ihr <strong>Business entwickeln</strong>, ihre<strong> (Zeichen-)Blockaden endgültig loslassen</strong>, den <strong>kreativen Flow</strong> für sich entdecken – und <strong>ihre authentische Sichtbarkeit </strong>und <strong>wahre Persönlichkeit entfesseln.</strong></p>
-<div> </div>
-<div><strong>Vorteil für Affiliates:</strong></div>
-<ul>
-<li>Qualitativ hochwertige Produkte</li>
-<li>Hohe Zufriedenheit &amp; Upselling-Quote</li>
-<li>25% Provision</li>
-<li>Enger Kontakt zum Vendor</li>
-<li>Infomaterial &amp; Bilder zum Downloaden</li>
-<li>Austausch &amp; Unterstützung per E-Mail<br /><br /></li>
-</ul>
-<p><strong>Zielgruppen:</strong></p>
-<ol>
-<li><strong>Menschen, die regelmäßig präsentieren</strong> (Flipchart/PowerPoint) und ihren eigenen, unverwechselbaren Stil entwickeln möchten</li>
-<li><strong>Typische Berufsgruppen:</strong> <br />Trainer, Coaches, Berater/Consultants, Speaker<br />Selbstständige, Unternehmer<br />Angestellte (z.B. HR, Marketing, Verkauf)</li>
-<li><strong>Typisches Käuferprofil:<br /></strong>Akademiker; Interesse an Lernen &amp; Weiterbildung; Altersgruppe 40+ stark vertreten (nach oben hin offen); weltoffene, neugierige, herzliche, begeisterungsfähige Personen, die ins Tun kommen und ihre Persönlichkeit entwickeln wollen</li>
-<li><strong>Ideale Multiplikatoren: <br /></strong>HR-Verantwortliche in Unternehmen, die hochwertige Kurse für ihre Mitarbeiter suchen</li>
-</ol>
-<p> </p>
+**Vendor's marketplace description:** Produktinformation: 26wöchiger Onlinekurs & Mentoring Programm (Klassik, Premium und Premium Plus Paket) Die Teilnehmer erleben eine nachhaltige visuelle Transformation – indem sie ihren einzigartigen Zeichenstil für ihr Business entwickeln , ihre (Zeichen-)Blockaden endgültig loslassen , den kreativen Flow für sich entdecken – und ihre authentische Sichtbarkeit und wahre Persönlichkeit entfesseln. Vorteil für Affiliates: Qualitativ hochwertige Produkte Hohe Zufriedenheit & Upselling-Quote 25% Provision Enger Kontakt zum Vendor Infomaterial & Bilder zum Downloaden Austausch & Unterstützung per E-Mail Zielgruppen: Menschen, die regelmäßig präsentieren (Flipchart/PowerPoint) und ihren eigenen, unverwechselbaren Stil entwickeln möchten Typische Berufsgruppen: Trainer, Coaches, Berater/Consultants, Speaker Selbstständige, Unternehmer Angestellte (z.B. HR, Marketing, Verkauf) Typisches Käuferprofil: Akademiker; Interesse an Lernen & Weiterbildung; Altersgruppe 40+ stark vertreten (nach oben hin offen); weltoffene, neugierige, herzliche, begeisterungsfähige Personen, die ins Tun kommen und ihre Persönlichkeit entwickeln wollen Ideale Multiplikatoren: HR-Verantwortliche in Unternehmen, die hochwertige Kurse für ihre Mitarbeiter suchen
 
 ## 2. Links
 

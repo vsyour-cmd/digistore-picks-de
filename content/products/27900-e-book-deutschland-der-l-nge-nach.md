@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>2,3 Millionen Schritte | 1735 km | 73 Tage | 8 kg Rucksackgewicht | 7 Bundesländer | 2 Beine | 1½ Paar Wanderschuhe | 1 Ziel</h2>
-<p>Ich erzähle in diesem liebevoll gestalteten E-Book in <strong>18 Berichten und 97 Fotos</strong> von meiner <strong>73 Tage und 1735 km lange Wanderung</strong> <strong>vom südlichsten Punkt Deutschlands</strong>, dem Grenzstein 147 am Haldenwanger Eck in den <strong>Allgäuer Alpen</strong>, <strong>zum nördlichsten Punkt Deutschlands</strong> am Ellenbogen auf <strong>Sylt</strong>.</p>
-<p><strong>Statistiken</strong>, die <strong>Route</strong> auf einer Karte, eine <strong>Packliste, </strong>die <strong>Etappenübersicht</strong> inkl. einer Bewertung jeder einzelnen Etappe und <strong>GPS-Tracks</strong> der kompletten Route gibt es obendrauf.</p>
-<p>Das E-Book "Deutschland der Länge nach – 73 Tage und 1735 km von den Allgäuer Alpen bis nach Sylt" kommt als <strong>PDF mit 99 Seiten</strong>. </p>
-<p><em>Bewerbe mein Produkt und bekomme <strong>30 % Provision</strong>.</em></p>
+**Vendor's marketplace description:** 2,3 Millionen Schritte | 1735 km | 73 Tage | 8 kg Rucksackgewicht | 7 Bundesländer | 2 Beine | 1½ Paar Wanderschuhe | 1 Ziel Ich erzähle in diesem liebevoll gestalteten E-Book in 18 Berichten und 97 Fotos von meiner 73 Tage und 1735 km lange Wanderung vom südlichsten Punkt Deutschlands , dem Grenzstein 147 am Haldenwanger Eck in den Allgäuer Alpen , zum nördlichsten Punkt Deutschlands am Ellenbogen auf Sylt . Statistiken , die Route auf einer Karte, eine Packliste, die Etappenübersicht inkl. einer Bewertung jeder einzelnen Etappe und GPS-Tracks der kompletten Route gibt es obendrauf. Das E-Book "Deutschland der Länge nach – 73 Tage und 1735 km von den Allgäuer Alpen bis nach Sylt" kommt als PDF mit 99 Seiten . Bewerbe mein Produkt und bekomme 30 % Provision .
 
 ## 2. Links
 

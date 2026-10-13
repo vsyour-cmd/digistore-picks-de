@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Raus aus der Geldsorge“</strong></p>
-<p>Finanzielle Sicherheit Schritt für Schritt – Geldsorgen rauben Schlaf und Nerven. Dieser Ratgeber führt dich ohne Vorwürfe heraus – mit Klarheit, einem Budget, das funktioniert, und einem Sicherheitsnetz, das trägt.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Den Teufelskreis aus Sorge und Scham durchbrechen</li>
-<li>Mit einem ehrlichen Kassensturz Klarheit gewinnen</li>
-<li>Ein Budget aufstellen, das im Alltag funktioniert</li>
-<li>Schulden abbauen und einen Notgroschen aufbauen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Raus aus der Geldsorge“ Finanzielle Sicherheit Schritt für Schritt – Geldsorgen rauben Schlaf und Nerven. Dieser Ratgeber führt dich ohne Vorwürfe heraus – mit Klarheit, einem Budget, das funktioniert, und einem Sicherheitsnetz, das trägt. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Den Teufelskreis aus Sorge und Scham durchbrechen Mit einem ehrlichen Kassensturz Klarheit gewinnen Ein Budget aufstellen, das im Alltag funktioniert Schulden abbauen und einen Notgroschen aufbauen
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>In diesem Webinar erfährst Du wichtige Infos über die artgerechte Ernährung des Hundes.</h2>
-<p>Nicht nur <em><strong>was</strong> </em>gefüttert wird ist entscheidend, sondern auch <em><strong>wie</strong></em> der Hund an sein Futter kommt, ist ausschlaggebend für ein glückliches Hundeleben. Worauf ist sinnvoll zu achten? Wie kann man selber die Qualität des Futters beurteilen und wie sollte eine sinnvolle Futtergabe aussehen?</p>
-<p><em>In diesem Webinar bekommst du detaillierte Infos über viele Fragen, die Dich unterstützen, Deinem Hund ein gesundes, glückliches und langes Hundeleben zu ermöglichen.</em></p>
-<p><strong>Das Webinar gibt Dir 1 Stunde und 28 Minuten Informationen zu den  Themen wie eine Futtergabe aussehen sollte, worauf bei der Futterauswahl zu achten ist, welche Krankheiten entstehen können und wie man viele Fehler bei der Ernährung des Hundes vermeiden kann.</strong></p>
+**Vendor's marketplace description:** In diesem Webinar erfährst Du wichtige Infos über die artgerechte Ernährung des Hundes. Nicht nur was gefüttert wird ist entscheidend, sondern auch wie der Hund an sein Futter kommt, ist ausschlaggebend für ein glückliches Hundeleben. Worauf ist sinnvoll zu achten? Wie kann man selber die Qualität des Futters beurteilen und wie sollte eine sinnvolle Futtergabe aussehen? In diesem Webinar bekommst du detaillierte Infos über viele Fragen, die Dich unterstützen, Deinem Hund ein gesundes, glückliches und langes Hundeleben zu ermöglichen. Das Webinar gibt Dir 1 Stunde und 28 Minuten Informationen zu den Themen wie eine Futtergabe aussehen sollte, worauf bei der Futterauswahl zu achten ist, welche Krankheiten entstehen können und wie man viele Fehler bei der Ernährung des Hundes vermeiden kann.
 
 ## 2. Links
 

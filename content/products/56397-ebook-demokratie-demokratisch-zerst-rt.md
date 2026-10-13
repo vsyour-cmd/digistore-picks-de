@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein hochaktuelles und polarisierendes Thema mit starkem Diskussionspotenzial:</p>
-<p>Dieses Buch beleuchtet die schleichende Aushöhlung demokratischer Strukturen in Europa und spricht damit eine politisch interessierte, meinungsstarke Zielgruppe an.</p>
-<p>Die fundierte, datenbasierte Analyse kombiniert mit brisanten Fallstudien sorgt für hohe Relevanz und regt zur aktiven Auseinandersetzung an – ideal für Content-Marketing, Social Media und Debattenformate.</p>
-<p>Durch den emotionalen Trigger „Gefahr für die Demokratie“ und die kontroverse Perspektive entsteht ein starkes Klick- und Kaufinteresse.</p>
-<p>Besonders gut geeignet für Affiliates im Bereich Politik, Gesellschaft, alternative Medien und Aufklärung mit hohem Viralpotenzial.</p>
+**Vendor's marketplace description:** Ein hochaktuelles und polarisierendes Thema mit starkem Diskussionspotenzial: Dieses Buch beleuchtet die schleichende Aushöhlung demokratischer Strukturen in Europa und spricht damit eine politisch interessierte, meinungsstarke Zielgruppe an. Die fundierte, datenbasierte Analyse kombiniert mit brisanten Fallstudien sorgt für hohe Relevanz und regt zur aktiven Auseinandersetzung an – ideal für Content-Marketing, Social Media und Debattenformate. Durch den emotionalen Trigger „Gefahr für die Demokratie“ und die kontroverse Perspektive entsteht ein starkes Klick- und Kaufinteresse. Besonders gut geeignet für Affiliates im Bereich Politik, Gesellschaft, alternative Medien und Aufklärung mit hohem Viralpotenzial.
 
 ## 2. Links
 

@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Maya: digitale Assistentin für WhatsApp und Telefon</h3>
-<p>Maya beantwortet Kundenanfragen kleiner Betriebe rund um die Uhr auf WhatsApp und im Paket mit Telefon auch am Telefon. Sie verschickt Unterlagen wie Exposés oder Leistungsübersichten sofort, bucht Termine direkt in den Kalender des Betriebs und fasst bei offenen Anfragen nach. GEOChatAi richtet Maya für jeden Kunden persönlich ein und betreut sie im laufenden Betrieb.</p>
-<h4>Zielgruppe</h4>
-<p>Immobilienmakler, Handwerksbetriebe und Dienstleister mit vielen Kundenanfragen, vor allem Inhaber und kleine Teams in Deutschland, Österreich und der Schweiz.</p>
-<h4>Ihre Provision</h4>
-<ul>
-<li>20 % auf die Einrichtung: 580 € bei Maya Chat, 980 € bei Maya Chat + Telefon</li>
-<li>10 % auf jede Monatsrate, solange der Kunde zahlt: 75 € oder 139 € pro Monat</li>
-</ul>
-<p>Alle Beträge netto. Die Auszahlung übernimmt Digistore24.</p>
-<h4>So läuft der Verkauf</h4>
-<p>Sie empfehlen Maya und stellen den Kontakt her oder schicken Interessenten Ihren Partnerlink: https://geochatai.de/bestellen?aff=IHRE-DIGISTORE-ID. Herr Tatlici führt das Erstgespräch und übernimmt Einrichtung und Betreuung. Die Bestellung läuft über Digistore24, Ihre Affiliate-ID wird dabei automatisch zugeordnet.</p>
-<h4>Für Ihre Empfehlung gilt</h4>
-<ul>
-<li>Maya heißt nach außen „digitale Assistentin“.</li>
-<li>Keine Zusagen zu Ergebnissen, Anfragen oder Umsätzen und keine Garantieversprechen.</li>
-<li>Keine eigenen Preisnachlässe oder Sonderkonditionen.</li>
-<li>GEOChatAi betreut je Branche einen Betrieb pro Postleitzahl.</li>
-</ul>
-<h4>Partnerschaft</h4>
-<p>Partnerschaften werden persönlich freigegeben. Schreiben Sie kurz, wie Sie Maya empfehlen möchten, an info@geochatai.de.</p>
+**Vendor's marketplace description:** Maya: digitale Assistentin für WhatsApp und Telefon Maya beantwortet Kundenanfragen kleiner Betriebe rund um die Uhr auf WhatsApp und im Paket mit Telefon auch am Telefon. Sie verschickt Unterlagen wie Exposés oder Leistungsübersichten sofort, bucht Termine direkt in den Kalender des Betriebs und fasst bei offenen Anfragen nach. GEOChatAi richtet Maya für jeden Kunden persönlich ein und betreut sie im laufenden Betrieb. Zielgruppe Immobilienmakler, Handwerksbetriebe und Dienstleister mit vielen Kundenanfragen, vor allem Inhaber und kleine Teams in Deutschland, Österreich und der Schweiz. Ihre Provision 20 % auf die Einrichtung: 580 € bei Maya Chat, 980 € bei Maya Chat + Telefon 10 % auf jede Monatsrate, solange der Kunde zahlt: 75 € oder 139 € pro Monat Alle Beträge netto. Die Auszahlung übernimmt Digistore24. So läuft der Verkauf Sie empfehlen Maya und stellen den Kontakt her oder schicken Interessenten Ihren Partnerlink: https://geochatai.de/bestellen?aff=IHRE-DIGISTORE-ID. Herr Tatlici führt das Erstgespräch und übernimmt Einrichtung und Betreuung. Die Bestellung läuft über Digistore24, Ihre Affiliate-ID wird dabei automatisch zugeordnet. Für Ihre Empfehlung gilt Maya heißt nach außen „digitale Assistentin“. Keine Zusagen zu Ergebnissen, Anfragen oder Umsätzen und keine Garantieversprechen. Keine eigenen Preisnachlässe oder Sonderkonditionen. GEOChatAi betreut je Branche einen Betrieb pro Postleitzahl. Partnerschaft Partnerschaften werden persönlich freigegeben. Schreiben Sie kurz, wie Sie Maya empfehlen möchten, an info@geochatai.de.
 
 ## 2. Links
 

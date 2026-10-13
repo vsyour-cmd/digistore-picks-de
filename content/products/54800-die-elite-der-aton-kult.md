@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p> </p>
-<p>Die "Elite" der Aton-Kult zeigt unmissverständlich auf, dass der Sonnenkult seine Macht bist in die Gegenwart aufrecht erhalten hat.</p>
-<p>Dieses Buch bietet eine tiefgehende Analyse des Aton-Kults, der in der Zeit des Pharao Echnaton entstand und sich durch seine radikale Abkehr von den polytheistischen Glaubensvorstellungen Ägyptens auszeichnete. Die Relevanz dieses Themas erstreckt sich bis in die Gegenwart, denn es ist der ATON-KULT, aus dem ALLE monotheistischen Religionen, Geheimgesellschaften, Königsdynastien und verschiedene andere Zweige des Netzwerks aus Macht und Kontrolle stammen.</p>
-<p>Es lässt sich wohl behaupten, dass “Die „Elite“ Der Aton-Kult" nicht nur eine informative Lektüre ist; es ist ein unverzichtbares Werk für alle, die sich mit den komplexen Wechselwirkungen zwischen Glauben und Macht auseinandersetzen möchten. Mit seinem klaren Fokus auf reale Informationen und fundierte Analysen bietet dieses Buch wertvolle Beiträge zur Diskussion über religiöse Bewegungen im Allgemeinen sowie deren Einfluss auf die Gesellschaft im Speziellen.</p>
-<p> </p>
-<p><br />NIEMAND der das Buch gelesen hat, setzt auch nur noch einen Fuß in die Kirche‼️</p>
-<p> </p>
-<p>Eine augenöffnende Lektüre, die schonungslos aufzeigt wer und was die sogenannte „Elite“</p>
-<p>tatsächlich ist, wo sie herkommt und wie sie sämtliche Bereiche unseres Lebens, wie Bildung, Unterhaltung, Politik und Wirtschaft kontrolliert‼️</p>
-<p> </p>
-<p>Also arbeitet mit an der Verbreitung dieses WISSENS‼️‼️‼️</p>
-<p> </p>
-<p>VIELEN DANK</p>
+**Vendor's marketplace description:** Die "Elite" der Aton-Kult zeigt unmissverständlich auf, dass der Sonnenkult seine Macht bist in die Gegenwart aufrecht erhalten hat. Dieses Buch bietet eine tiefgehende Analyse des Aton-Kults, der in der Zeit des Pharao Echnaton entstand und sich durch seine radikale Abkehr von den polytheistischen Glaubensvorstellungen Ägyptens auszeichnete. Die Relevanz dieses Themas erstreckt sich bis in die Gegenwart, denn es ist der ATON-KULT, aus dem ALLE monotheistischen Religionen, Geheimgesellschaften, Königsdynastien und verschiedene andere Zweige des Netzwerks aus Macht und Kontrolle stammen. Es lässt sich wohl behaupten, dass “Die „Elite“ Der Aton-Kult" nicht nur eine informative Lektüre ist; es ist ein unverzichtbares Werk für alle, die sich mit den komplexen Wechselwirkungen zwischen Glauben und Macht auseinandersetzen möchten. Mit seinem klaren Fokus auf reale Informationen und fundierte Analysen bietet dieses Buch wertvolle Beiträge zur Diskussion über religiöse Bewegungen im Allgemeinen sowie deren Einfluss auf die Gesellschaft im Speziellen. NIEMAND der das Buch gelesen hat, setzt auch nur noch einen Fuß in die Kirche‼️ Eine augenöffnende Lektüre, die schonungslos aufzeigt wer und was die sogenannte „Elite“ tatsächlich ist, wo sie herkommt und wie sie sämtliche Bereiche unseres Lebens, wie Bildung, Unterhaltung, Politik und Wirtschaft kontrolliert‼️ Also arbeitet mit an der Verbreitung dieses WISSENS‼️‼️‼️ VIELEN DANK
 
 ## 2. Links
 

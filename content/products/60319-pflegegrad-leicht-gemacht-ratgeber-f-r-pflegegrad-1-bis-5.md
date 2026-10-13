@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Pflegegrad leicht gemacht – Ratgeber für Pflegegrad 1 bis 5</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Für jeden Pflegegrad von 1 bis 5 gibt es einen eigenen Ratgeber mit genau den Beträgen und Leistungen, die dort gelten. Dazu: Antrag, Vorbereitung auf die Begutachtung, Höherstufung, Widerspruch und Musterbriefe.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Angehörige, die Eltern oder Partner pflegen</li>
-<li>Familien, die zum ersten Mal einen Pflegegrad beantragen</li>
-<li>Pflegebedürftige mit zu niedrigem Bescheid</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Der Termin mit dem Gutachter steht an oder der Bescheid ist zu niedrig</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (alle fünf Pflegegrade und Pflege zu Hause) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Pflegegrad leicht gemacht – Ratgeber für Pflegegrad 1 bis 5 Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Für jeden Pflegegrad von 1 bis 5 gibt es einen eigenen Ratgeber mit genau den Beträgen und Leistungen, die dort gelten. Dazu: Antrag, Vorbereitung auf die Begutachtung, Höherstufung, Widerspruch und Musterbriefe. Die Zielgruppe Angehörige, die Eltern oder Partner pflegen Familien, die zum ersten Mal einen Pflegegrad beantragen Pflegebedürftige mit zu niedrigem Bescheid Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Der Termin mit dem Gutachter steht an oder der Bescheid ist zu niedrig Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (alle fünf Pflegegrade und Pflege zu Hause) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

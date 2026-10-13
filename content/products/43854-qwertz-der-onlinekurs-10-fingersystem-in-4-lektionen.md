@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bereite dich auf einen Umsatzschub vor mit qwertz.training, der Plattform, die Weiterbildung neu definiert!</p>
-<p>Mit diesem modernen und innovativen Kurs, basierend auf den neuesten neurowissenschaftlichen Methoden, bist du in der Pole-Position, um lebenslanges Lernen zu fördern und dabei auch noch lukrative Gewinne zu erzielen.</p>
-<p><strong>Was ist das Besondere?</strong></p>
-<p>Das Zehnfingersystem ist der unverzichtbare Fähigkeitsschatz für jeden, der professionell mit E-Mails und Texten auf dem PC umgeht.</p>
-<p><strong>Welchen Mehrwert bietet qwertz.training?</strong></p>
-<p>* Beschleunige die Texteingabe und spare kostbare Zeit<br />* Steigere die Konzentrationsfähigkeit und Effizienz<br />* Reduziere Tippfehler für eine verbesserte <br />   Arbeitsqualität<br />* Mache Arbeitsstunden produktiver<br />* Erlebe Lernvergnügen mit ansprechenden Bildern, <br />   Farben, Audiogeschichten und gehirngerechten <br />   Übungen</p>
-<p><strong>Wie funktioniert dieser revolutionäre Online-Kurs?</strong></p>
-<p>* Er besteht aus 4 umfassenden Lektionen à 2 Stunden<br />* Direkter Download der Kursmaterialien nach dem <br />   Kauf<br />* Ein praktisches Handbuch wird dem Kunden <br />   unmittelbar nach dem Kauf per Post zugeschickt</p>
-<p>Jetzt ist deine Chance, dich als Affiliate zu registrieren und ein passives Einkommen aufzubauen.</p>
-<p>Hole dir beeindruckende 30 % Provision pro verkauftem Kurs für einen Preis von 195 €.</p>
-<p>Benötigst du Unterstützung oder hast du Fragen? Unser freundliches Team steht dir jederzeit unter der Rufnummer <strong>07821 991063</strong> zur Verfügung.</p>
-<p>Komm an Bord und hilf uns, die deutsche Bildungslandschaft in eine spannende, effektive und farbenfrohe Zukunft zu führen!</p>
-<p>Zehnfingersystem - 10-Fingersystem - Schnelltippen - PC-Schreiben - Tastschreiben - Tastaturschreiben - Keybord - Schreibtraining - </p>
+**Vendor's marketplace description:** Bereite dich auf einen Umsatzschub vor mit qwertz.training, der Plattform, die Weiterbildung neu definiert! Mit diesem modernen und innovativen Kurs, basierend auf den neuesten neurowissenschaftlichen Methoden, bist du in der Pole-Position, um lebenslanges Lernen zu fördern und dabei auch noch lukrative Gewinne zu erzielen. Was ist das Besondere? Das Zehnfingersystem ist der unverzichtbare Fähigkeitsschatz für jeden, der professionell mit E-Mails und Texten auf dem PC umgeht. Welchen Mehrwert bietet qwertz.training? * Beschleunige die Texteingabe und spare kostbare Zeit * Steigere die Konzentrationsfähigkeit und Effizienz * Reduziere Tippfehler für eine verbesserte Arbeitsqualität * Mache Arbeitsstunden produktiver * Erlebe Lernvergnügen mit ansprechenden Bildern, Farben, Audiogeschichten und gehirngerechten Übungen Wie funktioniert dieser revolutionäre Online-Kurs? * Er besteht aus 4 umfassenden Lektionen à 2 Stunden * Direkter Download der Kursmaterialien nach dem Kauf * Ein praktisches Handbuch wird dem Kunden unmittelbar nach dem Kauf per Post zugeschickt Jetzt ist deine Chance, dich als Affiliate zu registrieren und ein passives Einkommen aufzubauen. Hole dir beeindruckende 30 % Provision pro verkauftem Kurs für einen Preis von 195 €. Benötigst du Unterstützung oder hast du Fragen? Unser freundliches Team steht dir jederzeit unter der Rufnummer 07821 991063 zur Verfügung. Komm an Bord und hilf uns, die deutsche Bildungslandschaft in eine spannende, effektive und farbenfrohe Zukunft zu führen! Zehnfingersystem - 10-Fingersystem - Schnelltippen - PC-Schreiben - Tastschreiben - Tastaturschreiben - Keybord - Schreibtraining -
 
 ## 2. Links
 

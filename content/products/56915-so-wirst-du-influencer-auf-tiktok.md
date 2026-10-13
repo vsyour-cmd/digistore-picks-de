@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Virale Formate, loyale Community und Markendeals auf der größten Entertainment-Plattform</strong></p>
-<p>TikTok ist die einzige Plattform, auf der du heute mit 500 Followern morgen eine Million Menschen erreichen kannst – wenn du weißt, welche Formate der Algorithmus pusht. Dieses E-Book zeigt dir, wie du virale Konzepte entwickelst, eine loyale Community aufbaust und dich für den TikTok Creator-Marketplace so positionierst, dass Marken von allein auf dich zukommen. Du lernst, welche Formate – Duette, Stitches, Trends-Reinterpretation – konstant große Reichweite erzeugen, wie du Kommentare und Direktnachrichten in echte Fan-Bindung verwandelst und wie du Markendeals professionell verhandelst. Inklusive allem, was du für deine ersten und nächsten bezahlten Kooperationen brauchst.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Virale Formate entwerfen: Duette, Stitches und Trend-Reinterpretation</li>
-<li>Die For-You-Page systematisch bespielen – so bleibt du im Algorithmus</li>
-<li>Aus Followern echte Fans machen: Community-Aufbau auf TikTok</li>
-<li>TikTok Creator-Marketplace: so wirst du für Marken sichtbar</li>
-<li>Markendeals anfragen, verhandeln und fair bepreisen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Virale Formate, loyale Community und Markendeals auf der größten Entertainment-Plattform TikTok ist die einzige Plattform, auf der du heute mit 500 Followern morgen eine Million Menschen erreichen kannst – wenn du weißt, welche Formate der Algorithmus pusht. Dieses E-Book zeigt dir, wie du virale Konzepte entwickelst, eine loyale Community aufbaust und dich für den TikTok Creator-Marketplace so positionierst, dass Marken von allein auf dich zukommen. Du lernst, welche Formate – Duette, Stitches, Trends-Reinterpretation – konstant große Reichweite erzeugen, wie du Kommentare und Direktnachrichten in echte Fan-Bindung verwandelst und wie du Markendeals professionell verhandelst. Inklusive allem, was du für deine ersten und nächsten bezahlten Kooperationen brauchst. Das steckt drin: Virale Formate entwerfen: Duette, Stitches und Trend-Reinterpretation Die For-You-Page systematisch bespielen – so bleibt du im Algorithmus Aus Followern echte Fans machen: Community-Aufbau auf TikTok TikTok Creator-Marketplace: so wirst du für Marken sichtbar Markendeals anfragen, verhandeln und fair bepreisen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

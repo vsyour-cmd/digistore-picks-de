@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Todesfall leicht gemacht – Ratgeber mit Todesfall-Planer</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Der Ratgeber führt Schritt für Schritt durch die ersten Tage und Wochen nach einem Todesfall. Der <strong>Todesfall-Planer</strong> erstellt die Aufgabenliste mit Terminen und schreibt sechs Briefe an Versicherung, Vermieter, Bank und andere.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Hinterbliebene, die plötzlich alles regeln müssen</li>
-<li>Angehörige, die Fristen nicht verpassen wollen</li>
-<li>Familien, die vorbereitet sein möchten</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Ein Todesfall in der Familie</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Witwenrente, Vorsorgevollmacht und Patientenverfügung, Kündigung) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Todesfall leicht gemacht – Ratgeber mit Todesfall-Planer Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Der Ratgeber führt Schritt für Schritt durch die ersten Tage und Wochen nach einem Todesfall. Der Todesfall-Planer erstellt die Aufgabenliste mit Terminen und schreibt sechs Briefe an Versicherung, Vermieter, Bank und andere. Die Zielgruppe Hinterbliebene, die plötzlich alles regeln müssen Angehörige, die Fristen nicht verpassen wollen Familien, die vorbereitet sein möchten Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Ein Todesfall in der Familie Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Witwenrente, Vorsorgevollmacht und Patientenverfügung, Kündigung) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

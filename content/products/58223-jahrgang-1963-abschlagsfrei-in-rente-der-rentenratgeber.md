@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Jahrgang 1963 – jetzt wird die Rente konkret!</strong></p>
-<p>Dieser verständliche Renten-Ratgeber richtet sich speziell an Menschen des Jahrgangs 1963, die wissen möchten, wann und unter welchen Voraussetzungen sie abschlagsfrei in Rente gehen können.</p>
-<p>Das E-Book erklärt das Thema verständlich und praxisnah – ohne unnötiges Fachchinesisch.</p>
-<p><strong>Für Affiliates besonders interessant:</strong> Eine klar definierte Zielgruppe, ein aktuelles Thema und <strong>50 % Affiliate-Provision</strong>.</p>
-<p>Ideal zur Bewerbung über Pinterest, Facebook, Blogs, Newsletter und Webseiten rund um Rente, Ruhestand und Finanzen.</p>
-<p><strong>Jetzt bewerben und Menschen auf ihrem Weg in den Ruhestand erreichen.</strong></p>
+**Vendor's marketplace description:** Jahrgang 1963 – jetzt wird die Rente konkret! Dieser verständliche Renten-Ratgeber richtet sich speziell an Menschen des Jahrgangs 1963, die wissen möchten, wann und unter welchen Voraussetzungen sie abschlagsfrei in Rente gehen können. Das E-Book erklärt das Thema verständlich und praxisnah – ohne unnötiges Fachchinesisch. Für Affiliates besonders interessant: Eine klar definierte Zielgruppe, ein aktuelles Thema und 50 % Affiliate-Provision . Ideal zur Bewerbung über Pinterest, Facebook, Blogs, Newsletter und Webseiten rund um Rente, Ruhestand und Finanzen. Jetzt bewerben und Menschen auf ihrem Weg in den Ruhestand erreichen.
 
 ## 2. Links
 

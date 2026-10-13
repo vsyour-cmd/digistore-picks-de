@@ -41,40 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<h2>Die Cashflow-Garten-Community</h2>
-<h3>Bietet konkrete Anleitungen für mehr Geld und bessere Investments!</h3>
-<p> </p>
-</div>
-<div>
-<div>
-<p>Mit dem InvestmentGärtner (<a href="https://www.instagram.com/investmentgaertner/" target="_blank" rel="noreferrer noopener">bekannt von Instagram</a>)</p>
-<p> </p>
-<p>Der Community-Bereich ist voll mit echten Einblicken in mein Business, mit ganz konkreten Anleitungen, Screenshots, Videos und direktem Kontakt zu mir.</p>
-<p> </p>
-<div>
-<p>Und Woche für Woche kommen neue Inhalte dazu!</p>
-<p> </p>
-<p><strong>Deine Vorteile als Affiliate:</strong></p>
-<p>-&gt; 40% Lifetime Provision</p>
-<p>-&gt; große Zielgruppe</p>
-<p>-&gt; seriöses Produkt</p>
-<p>-&gt; optimierte Landingpage</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Die Cashflow-Garten-Community Bietet konkrete Anleitungen für mehr Geld und bessere Investments! Mit dem InvestmentGärtner ( bekannt von Instagram ) Der Community-Bereich ist voll mit echten Einblicken in mein Business, mit ganz konkreten Anleitungen, Screenshots, Videos und direktem Kontakt zu mir. Und Woche für Woche kommen neue Inhalte dazu! Deine Vorteile als Affiliate: -> 40% Lifetime Provision -> große Zielgruppe -> seriöses Produkt -> optimierte Landingpage
 
 ## 2. Links
 

@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Verschenke den "Dein Erfolgsleitfaden: In 5 Schritten zum profitablen..." und erhalte 50% Provision auf alle Up &amp; Downsells.</strong></h3>
-<p> </p>
-<p><strong>Auf der Partnerseite ist für dich alles vorbereitet. E-Mail Vorlagen, Social Media Texte,...</strong></p>
-<p><strong>Der 5-Schritte-Plan beinhaltet:</strong></p>
-<ul>
-<li><strong>Die 5 wichtigsten Vorteile</strong> eines profitablen Online Business</li>
-<li>Welche Schritte für ein <strong>funktionierendes Business</strong> notwendig sind.</li>
-<li>Es ist eine <strong>Schritt-für-Schritt-Anleitung</strong></li>
-<li>Selbst für <strong>Anfänger geeignet</strong></li>
-</ul>
-<p> </p>
-<p>Im Funnel sind <strong>59 € Provision</strong> für dich möglich</p>
-<p><a href="https://page.funnelcockpit.com/msNLW2FYWJ9dBKkxn" target="_blank" rel="noreferrer noopener">Zu den Werbemitteln &lt;&lt; klick</a></p>
+**Vendor's marketplace description:** Verschenke den "Dein Erfolgsleitfaden: In 5 Schritten zum profitablen..." und erhalte 50% Provision auf alle Up & Downsells. Auf der Partnerseite ist für dich alles vorbereitet. E-Mail Vorlagen, Social Media Texte,... Der 5-Schritte-Plan beinhaltet: Die 5 wichtigsten Vorteile eines profitablen Online Business Welche Schritte für ein funktionierendes Business notwendig sind. Es ist eine Schritt-für-Schritt-Anleitung Selbst für Anfänger geeignet Im Funnel sind 59 € Provision für dich möglich Zu den Werbemitteln << klick
 
 ## 2. Links
 

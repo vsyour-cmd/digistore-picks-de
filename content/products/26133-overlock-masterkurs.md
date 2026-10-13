@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Overlock Masterkurs!</strong> Ein Onlinekurs zum Thema Overlock und wie man Overlockprobleme ganz einfach in den Griff bekommt.</p>
-<p>Dieser Kurs beinhaltet 22 Video-Lektionen + E-Books (PDF) wo spezielle Teilnehmerfragen beantwortet werden.</p>
-<p> </p>
-<p><span style="color:#ff0000;"><strong>Wir teilen fair mit Dir!</strong></span></p>
-<p><span style="color:#ff0000;"><strong>Deshalb gibt es bei uns immer 50% Provision für Dich! ;-)</strong></span></p>
+**Vendor's marketplace description:** Overlock Masterkurs! Ein Onlinekurs zum Thema Overlock und wie man Overlockprobleme ganz einfach in den Griff bekommt. Dieser Kurs beinhaltet 22 Video-Lektionen + E-Books (PDF) wo spezielle Teilnehmerfragen beantwortet werden. Wir teilen fair mit Dir! Deshalb gibt es bei uns immer 50% Provision für Dich! ;-)
 
 ## 2. Links
 

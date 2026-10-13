@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Mit den neuesten Strategien und Werbemitteln kannst du hier täglich attraktive Provisionen verdienen..</strong></p>
-<p><strong>Provisionsmodell:</strong></p>
-<ul>
-<li>50% Provision auf das Frontend Produkt - 49€</li>
-<li>50% Provision auf Upsells - 79€/49€</li>
-<li>50% Provision auf Downsell - 99€</li>
-</ul>
-<p><strong>Mit einem einzigen Verkauf kannst du 100€+ verdienen!</strong></p>
-<p><span style="background-color:#ff9900;"><strong><a style="background-color:#ff9900;" href="https://t.me/+FcqlsbS4PSA4ZDZi" target="_blank" rel="noreferrer noopener">--&gt; Jetzt hier klicken und alle Infos &amp; Launch-News auf Telegram erhalten (KLICK)</a></strong></span></p>
-<p><a href="https://instabusiness.org/insta-ai/partnerprogramm/" target="_blank" rel="noreferrer noopener"><strong>--&gt; Hier gehts zur Partnerprogrammseite mit Werbemitteln!</strong></a></p>
+**Vendor's marketplace description:** Mit den neuesten Strategien und Werbemitteln kannst du hier täglich attraktive Provisionen verdienen.. Provisionsmodell: 50% Provision auf das Frontend Produkt - 49€ 50% Provision auf Upsells - 79€/49€ 50% Provision auf Downsell - 99€ Mit einem einzigen Verkauf kannst du 100€+ verdienen! --> Jetzt hier klicken und alle Infos & Launch-News auf Telegram erhalten (KLICK) --> Hier gehts zur Partnerprogrammseite mit Werbemitteln!
 
 ## 2. Links
 

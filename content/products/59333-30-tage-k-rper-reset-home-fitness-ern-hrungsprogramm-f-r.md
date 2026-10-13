@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><code>30 Tage Körper Reset ist ein digitales 30-Tage-Fitnessprogramm für Anfänger und Wiedereinsteiger, die zuhause trainieren und eine klare Routine für Bewegung und Ernährung aufbauen möchten.</code></p>
-<p><code>Der Funnel besteht aus einem Hauptprodukt für 39 €, einem passenden High-Protein-Rezeptpaket als Order Bump sowie dem Folgeprogramm „Körper Reset Level 2 – Tag 31 bis 90“ als Upsell.</code></p>
-<p><code>Das Angebot eignet sich besonders für Affiliates aus den Bereichen Fitness, Gesundheit, Ernährung, Home-Workout und Lifestyle. Verkaufsseite, Bestellprozess und digitale Produktauslieferung sind vollständig eingerichtet.</code></p>
-<p><code>Affiliate-Vorteile: digitales Produkt, klar definierte Zielgruppe, komplette Verkaufsseite, zusätzlicher Order Bump und Upsell sowie attraktive Provisionen.</code></p>
+**Vendor's marketplace description:** 30 Tage Körper Reset ist ein digitales 30-Tage-Fitnessprogramm für Anfänger und Wiedereinsteiger, die zuhause trainieren und eine klare Routine für Bewegung und Ernährung aufbauen möchten. Der Funnel besteht aus einem Hauptprodukt für 39 €, einem passenden High-Protein-Rezeptpaket als Order Bump sowie dem Folgeprogramm „Körper Reset Level 2 – Tag 31 bis 90“ als Upsell. Das Angebot eignet sich besonders für Affiliates aus den Bereichen Fitness, Gesundheit, Ernährung, Home-Workout und Lifestyle. Verkaufsseite, Bestellprozess und digitale Produktauslieferung sind vollständig eingerichtet. Affiliate-Vorteile: digitales Produkt, klar definierte Zielgruppe, komplette Verkaufsseite, zusätzlicher Order Bump und Upsell sowie attraktive Provisionen.
 
 ## 2. Links
 

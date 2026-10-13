@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Steuerfrei um die Welt“</strong></p>
-<p>Wie du Deutschland hinter dir lässt und weltweit freier lebst – Ortsunabhängig leben und die eigene Steuersituation legal optimieren – dieser Guide erklärt verständlich, wie Wegzug, Wohnsitz und internationale Steuerpflicht zusammenhängen, welche Modelle es gibt und welche Fallstricke lauern. Ehrlich, fundiert, ohne falsche Versprechen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 18,50 € pro Verkauf (Verkaufspreis 37,00 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Wie das deutsche Steuersystem dich an Deutschland bindet</li>
-<li>Wohnsitz, gewöhnlicher Aufenthalt und die 183-Tage-Regel</li>
-<li>Der saubere Wegzug: Abmeldung und Wegzugsbesteuerung</li>
-<li>Wahlheimat finden: Länder, Steuermodelle und Aufenthaltstitel</li>
-<li>Das Perpetual-Traveler-Prinzip und seine Grenzen</li>
-<li>Firma im Ausland: Chancen, Pflichten und typische Fehler</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Steuerfrei um die Welt“ Wie du Deutschland hinter dir lässt und weltweit freier lebst – Ortsunabhängig leben und die eigene Steuersituation legal optimieren – dieser Guide erklärt verständlich, wie Wegzug, Wohnsitz und internationale Steuerpflicht zusammenhängen, welche Modelle es gibt und welche Fallstricke lauern. Ehrlich, fundiert, ohne falsche Versprechen. Warum dieses E-Book bewerben? 50 % Provision – ca. 18,50 € pro Verkauf (Verkaufspreis 37,00 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Wie das deutsche Steuersystem dich an Deutschland bindet Wohnsitz, gewöhnlicher Aufenthalt und die 183-Tage-Regel Der saubere Wegzug: Abmeldung und Wegzugsbesteuerung Wahlheimat finden: Länder, Steuermodelle und Aufenthaltstitel Das Perpetual-Traveler-Prinzip und seine Grenzen Firma im Ausland: Chancen, Pflichten und typische Fehler
 
 ## 2. Links
 

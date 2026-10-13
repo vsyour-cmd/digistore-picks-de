@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Viele traumen davon, mit Trading Geld zu verdienen. Doch was wirklich zahlt, ist Verstandnis, Struktur und<br />Disziplin.<br />In diesem Leitfaden zeige ich dir die 5 wichtigsten Grundlagen, die du kennen solltest, bevor du mit echtem<br />Geld an den Markten startest.</p>
-<p>Du erhältst das Freebie nach Bestellung zum Download auf Deine Mailadresse.</p>
+**Vendor's marketplace description:** Viele traumen davon, mit Trading Geld zu verdienen. Doch was wirklich zahlt, ist Verstandnis, Struktur und Disziplin. In diesem Leitfaden zeige ich dir die 5 wichtigsten Grundlagen, die du kennen solltest, bevor du mit echtem Geld an den Markten startest. Du erhältst das Freebie nach Bestellung zum Download auf Deine Mailadresse.
 
 ## 2. Links
 

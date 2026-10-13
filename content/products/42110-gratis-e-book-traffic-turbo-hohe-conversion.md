@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#ff0000;">1€ E-Book verschenken und bis zu 250€ pro Empfehlung verdienen! </span></h2>
-<p>Verschenke diesen hochwertigen Report und verdiene durch verschiedene Upsells und Folgeangebote bis zu 250€ pro Empfehlung! </p>
-<p> </p>
-<hr />
-<h2><strong>Deine Vorteile</strong></h2>
-<ul>
-<li>
-<p>Extrem hohe Provision und viele Upsells, Downsells, Crossells, etc. </p>
-</li>
-<li>
-<p>Grosse auswahl an hochwertigen Werbemittel</p>
-</li>
-<li>
-<p>Hohe Conversion und permanente Optimierung des Funnels</p>
-</li>
-<li>
-<p>Top Betreuung und Support durch unsere erfahrenen Affiliate Manager</p>
-</li>
-</ul>
-<p> </p>
-<p><strong><a href="https://business-kickstart.de/trafficturbo-partnerprogramm/" target="_blank" rel="noreferrer noopener"><em>Zur Affiliate Supportseite hier klicken!</em></a></strong></p>
-<p> </p>
-<p>Bei Fragen schreibe uns an: <em><a>info@coaching.business-kickstart.de</a></em></p>
-<p> </p>
+**Vendor's marketplace description:** 1€ E-Book verschenken und bis zu 250€ pro Empfehlung verdienen! Verschenke diesen hochwertigen Report und verdiene durch verschiedene Upsells und Folgeangebote bis zu 250€ pro Empfehlung! Deine Vorteile Extrem hohe Provision und viele Upsells, Downsells, Crossells, etc. Grosse auswahl an hochwertigen Werbemittel Hohe Conversion und permanente Optimierung des Funnels Top Betreuung und Support durch unsere erfahrenen Affiliate Manager Zur Affiliate Supportseite hier klicken! Bei Fragen schreibe uns an: info@coaching.business-kickstart.de
 
 ## 2. Links
 

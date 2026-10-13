@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Für Affiliates:</strong> CloverHand CRM für Vertriebsteams. 25 % Provision auf Starter, Pro und Enterprise. Affiliates werden automatisch angenommen.</p>
-<p>Zielgruppe: kleine und mittlere Teams, die Pipeline und Follow-ups führen wollen, ohne ein überladenes Enterprise-CRM.</p>
-<ul>
-<li>Starter ab 19 € / Monat (159 € / Jahr)</li>
-<li>Verwandte Tarife: Pro, Enterprise</li>
-</ul>
-<p>Salespage: <a href="https://cloverhand.com">cloverhand.com</a><br />Affiliate-Support: <a href="https://hih-digital.com/affiliates/cloverhand.html">hih-digital.com/affiliates/cloverhand.html</a></p>
+**Vendor's marketplace description:** Für Affiliates: CloverHand CRM für Vertriebsteams. 25 % Provision auf Starter, Pro und Enterprise. Affiliates werden automatisch angenommen. Zielgruppe: kleine und mittlere Teams, die Pipeline und Follow-ups führen wollen, ohne ein überladenes Enterprise-CRM. Starter ab 19 € / Monat (159 € / Jahr) Verwandte Tarife: Pro, Enterprise Salespage: cloverhand.com Affiliate-Support: hih-digital.com/affiliates/cloverhand.html
 
 ## 2. Links
 

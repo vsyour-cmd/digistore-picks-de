@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h1><strong>Das ultimative magische Abenteuer-Mega-Bundle – 3 Geschichten- &amp; 3 Malbücher</strong></h1>
-<div><strong>✨ Eine riesige Sammlung voller magischer Abenteuer, Kreativität und Spaß!</strong></div>
-<br />
-<div>Bieten Sie Kindern im Alter von 5–9 Jahren stundenlangen, bildschirmfreien Unterhaltungsspaß mit diesem ultimativen 6-Bücher-Mega-Bundle. Es kombiniert herzerwärmende Tierabenteuer mit kreativen Malvorlagen auf insgesamt 258 Seiten voller purer Freude.</div>
-<br />
-<div><strong>◻ Produkttyp:</strong> 100 % digitaler Download (Sofortige Lieferung – kein physischer Versand erforderlich)</div>
-<br />
-<div><strong>◻ Was ist enthalten (258 Seiten insgesamt):</strong></div>
-<br />
-<ol>
-<li>
-<div><strong>Toby der mutige kleine Löwe</strong> (43-seitiges Geschichtenbuch + 35-seitiges Malbuch)</div>
-</li>
-<li>
-<div><strong>Das Geheimnis des magischen Baumes</strong> (53-seitiges Geschichtenbuch + 40-seitiges Malbuch)</div>
-</li>
-<li>
-<div><strong>Die Reise der drei Freunde zum goldenen Beerenbaum</strong> (47-seitiges Geschichtenbuch + 40-seitiges Malbuch)</div>
-</li>
-</ol>
-<div> </div>
-</div>
+**Vendor's marketplace description:** Das ultimative magische Abenteuer-Mega-Bundle – 3 Geschichten- & 3 Malbücher ✨ Eine riesige Sammlung voller magischer Abenteuer, Kreativität und Spaß! Bieten Sie Kindern im Alter von 5–9 Jahren stundenlangen, bildschirmfreien Unterhaltungsspaß mit diesem ultimativen 6-Bücher-Mega-Bundle. Es kombiniert herzerwärmende Tierabenteuer mit kreativen Malvorlagen auf insgesamt 258 Seiten voller purer Freude. ◻ Produkttyp: 100 % digitaler Download (Sofortige Lieferung – kein physischer Versand erforderlich) ◻ Was ist enthalten (258 Seiten insgesamt): Toby der mutige kleine Löwe (43-seitiges Geschichtenbuch + 35-seitiges Malbuch) Das Geheimnis des magischen Baumes (53-seitiges Geschichtenbuch + 40-seitiges Malbuch) Die Reise der drei Freunde zum goldenen Beerenbaum (47-seitiges Geschichtenbuch + 40-seitiges Malbuch)
 
 ## 2. Links
 

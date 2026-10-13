@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><span style="background-color:#ffff00;"><em><strong>Skaliere Dein Business mit Chat GPT</strong></em></span></div>
-<div> </div>
-<div><em><strong>✅ </strong>Deine Community erhält die profitabelsten Strategien zum Geld verdienen im Internet mit Chat GPT.</em></div>
-<div> </div>
-<div><em><strong>✅ Mit diesem EBook und Chat GPT, kann man jedes Online Business skalieren</strong></em></div>
-<div><br /><span style="background-color:#ffff00;"><em><strong>Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm...</strong></em></span></div>
-<div> </div>
-<div><em><strong>Du kannst durch Upsells und AddOn bis zu 173 Euro</strong></em></div>
+**Vendor's marketplace description:** Skaliere Dein Business mit Chat GPT ✅ Deine Community erhält die profitabelsten Strategien zum Geld verdienen im Internet mit Chat GPT. ✅ Mit diesem EBook und Chat GPT, kann man jedes Online Business skalieren Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm... Du kannst durch Upsells und AddOn bis zu 173 Euro
 
 ## 2. Links
 

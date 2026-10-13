@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der perfekte "Impulskauf" für jeden Tierbesitzer!</strong></p>
+**Vendor's marketplace description:** Der perfekte "Impulskauf" für jeden Tierbesitzer!
 
 ## 2. Links
 

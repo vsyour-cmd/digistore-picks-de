@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<blockquote>
-<p><strong>Du möchtest ein Online-Business aufbauen, aber weißt nicht, womit du anfangen sollst?</strong></p>
-<p>„Online starten – Dein klarer 30-Tage-Fahrplan“ begleitet Anfängerinnen und Anfänger Schritt für Schritt durch die wichtigsten Entscheidungen beim Aufbau eines eigenen Online-Business.</p>
-<p>Der Fahrplan hilft dabei, aus ersten Ideen eine klare Richtung zu entwickeln – ohne sich gleichzeitig mit zu vielen Themen zu überfordern.</p>
-<p><strong>Enthalten sind unter anderem:</strong></p>
-<p>• 19 verständliche Kapitel<br />• Ideen-Check für eine passende Business-Richtung<br />• Zielgruppen-Arbeitsblatt<br />• Angebotsvorlage<br />• klare Aufgaben für die nächsten Schritte<br />• ein strukturierter 30-Tage-Plan zur Umsetzung</p>
-<p>Das Workbook umfasst <strong>42 Seiten</strong> und richtet sich besonders an Menschen, die neben dem Beruf starten und einen verständlichen, realistischen Fahrplan suchen.</p>
-<p><strong>Ideal für Affiliates:</strong> Ein klar definiertes Einsteigerprodukt mit einer verständlichen Zielgruppe und einem konkreten Nutzen.</p>
-</blockquote>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Du möchtest ein Online-Business aufbauen, aber weißt nicht, womit du anfangen sollst? „Online starten – Dein klarer 30-Tage-Fahrplan“ begleitet Anfängerinnen und Anfänger Schritt für Schritt durch die wichtigsten Entscheidungen beim Aufbau eines eigenen Online-Business. Der Fahrplan hilft dabei, aus ersten Ideen eine klare Richtung zu entwickeln – ohne sich gleichzeitig mit zu vielen Themen zu überfordern. Enthalten sind unter anderem: • 19 verständliche Kapitel • Ideen-Check für eine passende Business-Richtung • Zielgruppen-Arbeitsblatt • Angebotsvorlage • klare Aufgaben für die nächsten Schritte • ein strukturierter 30-Tage-Plan zur Umsetzung Das Workbook umfasst 42 Seiten und richtet sich besonders an Menschen, die neben dem Beruf starten und einen verständlichen, realistischen Fahrplan suchen. Ideal für Affiliates: Ein klar definiertes Einsteigerprodukt mit einer verständlichen Zielgruppe und einem konkreten Nutzen.
 
 ## 2. Links
 

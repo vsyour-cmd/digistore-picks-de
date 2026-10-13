@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Was ist der Dividenden-Alarm?</strong></p>
-<p>Viele Anleger tun sich oft schwer damit, den Markt sowie einzelne Aktien zu bewerten. Hierbei kann sie der Dividenden-Alarm unterstützen.</p>
-<p>Die Strategie verfolgt einen leicht umzusetzenden Ansatz. Der <strong>Indikator</strong> zeigt an, in welcher Phase sich der Markt befindet und die errechneten <strong>Signale</strong> helfen Anleger Unternehmen zu finden die unterbewertet sind.</p>
-<p>Mit der Dividenden-Alarm Strategie findest du in Zukunft systematisch Dividendenperlen und investierst antizyklisch.</p>
-<h3>Affiliate Parter</h3>
-<p>Auf unserer Affiliate-Supportseite haben wir zahlreiche Werbemittel bereitgestellt und Tipps genannt, wie die Dividenden-Alarm Strategie erfolgreich platziert werden kann.</p>
+**Vendor's marketplace description:** Was ist der Dividenden-Alarm? Viele Anleger tun sich oft schwer damit, den Markt sowie einzelne Aktien zu bewerten. Hierbei kann sie der Dividenden-Alarm unterstützen. Die Strategie verfolgt einen leicht umzusetzenden Ansatz. Der Indikator zeigt an, in welcher Phase sich der Markt befindet und die errechneten Signale helfen Anleger Unternehmen zu finden die unterbewertet sind. Mit der Dividenden-Alarm Strategie findest du in Zukunft systematisch Dividendenperlen und investierst antizyklisch. Affiliate Parter Auf unserer Affiliate-Supportseite haben wir zahlreiche Werbemittel bereitgestellt und Tipps genannt, wie die Dividenden-Alarm Strategie erfolgreich platziert werden kann.
 
 ## 2. Links
 

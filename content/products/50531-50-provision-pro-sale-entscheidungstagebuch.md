@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Hauptbeschreibung</h3>
-<p><strong>Verdiene 50 % Provision pro Sale als Affiliate!</strong><br />Das „Entscheidungstagebuch“ bietet praktische Lösungen für Menschen, die von endlosen Gedankenschleifen geplagt werden. Perfekt für deinen Newsletter, Blog oder Social Media – sprich alle an, die endlich Klarheit in ihren Entscheidungen suchen!</p>
-<h3>Kurzbeschreibung</h3>
-<p>Befreie dich von dem Gedankenkarussell! Dieses Arbeitsbuch hilft dir, Klarheit zu gewinnen, Entscheidungen zu treffen und den Duracell-Hasen aus deinen schlaflosen Nächten endgültig zu verbannen.</p>
-<h3><strong>Das erhält der Kunde:</strong></h3>
-<p><strong>Praktische Tipps und Anleitungen:</strong><br />Lerne, wie du deine Gedanken strukturierst und in wenigen Schritten zur Entscheidung kommst.</p>
-<p><strong>Individuelles Arbeitsbuch:</strong><br />Das Tagebuch begleitet dich durch den Entscheidungsprozess und sorgt dafür, dass du bei jeder Herausforderung den Überblick behältst.</p>
-<p><strong>Dauerhafte Lösungen:</strong><br />Erfahre, wie du das Gedankenkarussell langfristig stoppst und nie wieder schlaflose Nächte durch endlose Grübeleien erlebst.</p>
-<h3><strong>Was macht dieses Arbeitsbuch so wertvoll?</strong></h3>
-<ul>
-<li><strong>Schluss mit schlaflosen Nächten:</strong> Stoppe die ewigen Grübeleien und finde endlich Ruhe.</li>
-<li><strong>Schnelle Entscheidungsfindung:</strong> Werde handlungsfähiger und triff klare Entscheidungen ohne ewiges Hin und Her.</li>
-<li><strong>Mehr Lebensqualität:</strong> Mit Klarheit und Fokus meisterst du deinen Alltag und gewinnst neue Energie.</li>
-<li><strong>Ein Werkzeug fürs Leben:</strong> Das Tagebuch unterstützt dich immer wieder bei kleinen und großen Entscheidungen.</li>
-</ul>
+**Vendor's marketplace description:** Hauptbeschreibung Verdiene 50 % Provision pro Sale als Affiliate! Das „Entscheidungstagebuch“ bietet praktische Lösungen für Menschen, die von endlosen Gedankenschleifen geplagt werden. Perfekt für deinen Newsletter, Blog oder Social Media – sprich alle an, die endlich Klarheit in ihren Entscheidungen suchen! Kurzbeschreibung Befreie dich von dem Gedankenkarussell! Dieses Arbeitsbuch hilft dir, Klarheit zu gewinnen, Entscheidungen zu treffen und den Duracell-Hasen aus deinen schlaflosen Nächten endgültig zu verbannen. Das erhält der Kunde: Praktische Tipps und Anleitungen: Lerne, wie du deine Gedanken strukturierst und in wenigen Schritten zur Entscheidung kommst. Individuelles Arbeitsbuch: Das Tagebuch begleitet dich durch den Entscheidungsprozess und sorgt dafür, dass du bei jeder Herausforderung den Überblick behältst. Dauerhafte Lösungen: Erfahre, wie du das Gedankenkarussell langfristig stoppst und nie wieder schlaflose Nächte durch endlose Grübeleien erlebst. Was macht dieses Arbeitsbuch so wertvoll? Schluss mit schlaflosen Nächten: Stoppe die ewigen Grübeleien und finde endlich Ruhe. Schnelle Entscheidungsfindung: Werde handlungsfähiger und triff klare Entscheidungen ohne ewiges Hin und Her. Mehr Lebensqualität: Mit Klarheit und Fokus meisterst du deinen Alltag und gewinnst neue Energie. Ein Werkzeug fürs Leben: Das Tagebuch unterstützt dich immer wieder bei kleinen und großen Entscheidungen.
 
 ## 2. Links
 

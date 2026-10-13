@@ -41,40 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Rechnen, Proportionalitäten &amp; Algebra</h1>
-<h2>Für deine Berufsausbildung</h2>
-<h2>Kurzbeschreibung</h2>
-<p>Dieser Online-Kurs vermittelt dir die wichtigsten Grundlagen in Rechnen, Proportionalitäten und Algebra – genau das, was du brauchst, um Aufgaben in der Berufsschule zu verstehen und Prüfungen sicher zu bestehen.</p>
-<h2>Zielgruppe</h2>
-<ul>
-<li>Lernende in der beruflichen Grundbildung</li>
-<li>Berufsschüler:innen</li>
-<li>Auszubildende mit Rechenproblemen</li>
-<li>Quereinsteiger:innen</li>
-</ul>
-<h2>Hauptnutzen</h2>
-<ul>
-<li>Grundrechenarten sicher anwenden</li>
-<li>Proportionalitäten verstehen (Dreisatz, Zusammenhänge)</li>
-<li>einfache Gleichungen lösen</li>
-<li>mehr Sicherheit bei Prüfungen und im Unterricht</li>
-</ul>
-<h2>Was macht das Produkt besonders?</h2>
-<ul>
-<li>Fokus auf prüfungsrelevante Inhalte</li>
-<li>Schritt-für-Schritt Erklärungen</li>
-<li>leicht verständlich, auch bei grossen Lücken</li>
-<li>direkt anwendbar im Schulalltag</li>
-</ul>
-<h2>Warum Affiliates dieses Produkt bewerben sollten</h2>
-<ul>
-<li>sehr klares Problem → hohe Kaufbereitschaft</li>
-<li>grosses Marktpotenzial (Mathe ist ein Kernproblem)</li>
-<li>einfach in Content erklärbar (z. B. Dreisatz, Gleichungen)</li>
-<li>ideal für Social Media &amp; Lernplattformen</li>
-</ul>
-<h2>Fazit</h2>
-<p>Ein stark nachgefragtes Lernprodukt mit klarem Nutzen und hoher Relevanz – perfekt für Affiliates, die einfache Lösungen für Lernprobleme vermarkten wollen.</p>
+**Vendor's marketplace description:** Rechnen, Proportionalitäten & Algebra Für deine Berufsausbildung Kurzbeschreibung Dieser Online-Kurs vermittelt dir die wichtigsten Grundlagen in Rechnen, Proportionalitäten und Algebra – genau das, was du brauchst, um Aufgaben in der Berufsschule zu verstehen und Prüfungen sicher zu bestehen. Zielgruppe Lernende in der beruflichen Grundbildung Berufsschüler:innen Auszubildende mit Rechenproblemen Quereinsteiger:innen Hauptnutzen Grundrechenarten sicher anwenden Proportionalitäten verstehen (Dreisatz, Zusammenhänge) einfache Gleichungen lösen mehr Sicherheit bei Prüfungen und im Unterricht Was macht das Produkt besonders? Fokus auf prüfungsrelevante Inhalte Schritt-für-Schritt Erklärungen leicht verständlich, auch bei grossen Lücken direkt anwendbar im Schulalltag Warum Affiliates dieses Produkt bewerben sollten sehr klares Problem → hohe Kaufbereitschaft grosses Marktpotenzial (Mathe ist ein Kernproblem) einfach in Content erklärbar (z. B. Dreisatz, Gleichungen) ideal für Social Media & Lernplattformen Fazit Ein stark nachgefragtes Lernprodukt mit klarem Nutzen und hoher Relevanz – perfekt für Affiliates, die einfache Lösungen für Lernprobleme vermarkten wollen.
 
 ## 2. Links
 

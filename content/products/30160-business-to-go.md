@@ -41,34 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong style="font-size:14px;">BUSINESS TO-GO WURDE KOMPLETT NEU ÜBERARBEITET!</strong></h3>
-<div>
-<p> </p>
-<p><strong>Inhalt: Über 20+ Videos</strong></p>
-<p>Erfahre in über 20 Videos wie Du Dir ein erfolgreiches Online Business aufbaust, vom richtigen Leadmagneten, Landingpage, E-Mail Serie bis hin zum richtigen Verkauf.</p>
-<p> </p>
-<p> </p>
-<p><strong>Ziel: 10.000€ im Jahr</strong></p>
-<p>Das Ziel mit dem Video-Kurs Business to-go ist das wir mit Dir gemeinsam ein erfolgreiches Nebeneinkommen mithilfe von Online Marketing aufbauen, welches Dir 10.000€ im Jahr einbringt!</p>
-<p> </p>
-<p><strong>Was Dich im Video-Kurs erwarten wird:</strong></p>
-<p> </p>
-<p><strong>Tag 1: </strong>Mindset - Leidenschaft &amp; Nische finden</p>
-<p><strong>Tag 2: </strong>Leadmagneten erstellen</p>
-<p><strong>Tag 3: </strong>Landingpage erstellen</p>
-<p><strong>Tag 4: </strong>E-Mail Marketing</p>
-<p><strong>Tag 5: </strong>Mindset - Probleme lösen + Motivation</p>
-<p><strong>Tag 6: </strong>Traffic (Besucher) erhalten</p>
-<p><strong>Tag 7: </strong>Conversion Booster</p>
-<p><strong>Tag 8:</strong> Eigenes Produkt erstellen</p>
-<p><strong>Tag 9: </strong>Produkte richtig launchen</p>
-<p><strong>Tag 10:</strong> Mindset - Werde Unaufhaltbar!</p>
-<p> </p>
-<h3><span style="color:#000000;"><strong>Jetzt kostenlos sichern und dabei sein!</strong></span></h3>
-<p> </p>
-<p><span style="color:#000000;"><strong>FÜR AFFILIATES:</strong></span></p>
-<p><span style="color:#000000;background-color:#ffff99;"><strong>Bewerbe diesen hochkonvertierenden Leadmagneten und profitiere mit <span style="text-decoration:underline;">50% Provision</span> am Upsell (19,95€) mit einer &gt;14% Conversion!</strong></span></p>
-</div>
+**Vendor's marketplace description:** BUSINESS TO-GO WURDE KOMPLETT NEU ÜBERARBEITET! Inhalt: Über 20+ Videos Erfahre in über 20 Videos wie Du Dir ein erfolgreiches Online Business aufbaust, vom richtigen Leadmagneten, Landingpage, E-Mail Serie bis hin zum richtigen Verkauf. Ziel: 10.000€ im Jahr Das Ziel mit dem Video-Kurs Business to-go ist das wir mit Dir gemeinsam ein erfolgreiches Nebeneinkommen mithilfe von Online Marketing aufbauen, welches Dir 10.000€ im Jahr einbringt! Was Dich im Video-Kurs erwarten wird: Tag 1: Mindset - Leidenschaft & Nische finden Tag 2: Leadmagneten erstellen Tag 3: Landingpage erstellen Tag 4: E-Mail Marketing Tag 5: Mindset - Probleme lösen + Motivation Tag 6: Traffic (Besucher) erhalten Tag 7: Conversion Booster Tag 8: Eigenes Produkt erstellen Tag 9: Produkte richtig launchen Tag 10: Mindset - Werde Unaufhaltbar! Jetzt kostenlos sichern und dabei sein! FÜR AFFILIATES: Bewerbe diesen hochkonvertierenden Leadmagneten und profitiere mit 50% Provision am Upsell (19,95€) mit einer >14% Conversion!
 
 ## 2. Links
 

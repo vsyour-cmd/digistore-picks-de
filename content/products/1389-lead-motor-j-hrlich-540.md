@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Lead-Motor beinhaltet eine professionelle E-Mail-Marketing-Software, mit vorgefertigten Landingpages &amp; Freebie-E-Books zum Listenaufbau sowie fertigen Newsletter-Designs. In der angeschlossenen Lern-Werkstatt erhalten Kunden au&szlig;erdem ein umfassendes Coaching zur Bedienung der Software und allen wichtigen Themen zur Online-Leadgenerierung.</p>
-<p>&nbsp;</p>
-<p><strong>Wir zahlen au&szlig;erdem 5% Second-Level-Provision auf die Ums&auml;tze von Affiliates, die Sie uns bringen! Nutzen Sie zum Einladen weiterer Affiliates einfach diesen Link&nbsp;<a href="../../../signup/10373,10441,10387,10440,11077,13075,10398,10442,10372,11528/AFFILIATE">https://www.digistore24.com/signup/10373,10441,10387,10440,11077,13075,10398,10442,10372,11528/AFFILIATE</a>&nbsp;(tauschen Sie "AFFILIATE" am Ende mit Ihrer korrekten DigiStore-ID).</strong></p>
+**Vendor's marketplace description:** Der Lead-Motor beinhaltet eine professionelle E-Mail-Marketing-Software, mit vorgefertigten Landingpages & Freebie-E-Books zum Listenaufbau sowie fertigen Newsletter-Designs. In der angeschlossenen Lern-Werkstatt erhalten Kunden au&szlig;erdem ein umfassendes Coaching zur Bedienung der Software und allen wichtigen Themen zur Online-Leadgenerierung. Wir zahlen au&szlig;erdem 5% Second-Level-Provision auf die Ums&auml;tze von Affiliates, die Sie uns bringen! Nutzen Sie zum Einladen weiterer Affiliates einfach diesen Link https://www.digistore24.com/signup/10373,10441,10387,10440,11077,13075,10398,10442,10372,11528/AFFILIATE (tauschen Sie "AFFILIATE" am Ende mit Ihrer korrekten DigiStore-ID).
 
 ## 2. Links
 

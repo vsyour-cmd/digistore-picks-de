@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehle die #1 Plattform "Ad Campus" für effektives Facebook Marketing und verdiene 40% Lifetime Provision.</p>
-<p>Im Ad Campus lernst Du alle Facebook Marketing Grundlagen von 0 auf an und verstehst anschließend die Funktionen und Mechanismen zu 100%. </p>
-<p><span style="background-color:#ccffcc;"><strong>Deine Vorteile:</strong></span></p>
-<ul>
-<li>Lebenslang 40 % wiederkehrende Provisionen auf Deine Verkäufe </li>
-<li>Eintragungsraten von 18 bis 33 % im ständig hochoptimierten Ad Campus Lead-Funnel.</li>
-<li>Kaufraten von 10-15% im ständig hochoptimierten Ad Campus Sales-Funnel</li>
-<li>Große Auswahl optimierter Webemittel: Du bekommst klickstarke Creatives, Vorlagen für E-Mail-Texte, Videos und alles was Du benötigst um mehr Leads und Verkäufe zu erzielen.</li>
-<li>Schnelle und persönliche Unterstützung auf Deutsch durch Ihren Ad Campus Affiliate-Manager.</li>
-<li>Ständige Live Trainings der Top Affiliates mit dem Gründer persönlich, für noch mehr Umsatz und Provisionen</li>
-</ul>
-<p><strong><span style="background-color:#ffff99;">Wichtiger Hinweis:</span></strong></p>
-<ul style="list-style-type:circle;">
-<li><span style="background-color:#ffcc99;">Ab 50</span> erfolgreichen Verkäufen wird die Provision manuell auf <strong><span style="background-color:#ffcc99;">60% erhöht</span></strong></li>
-<li><span style="background-color:#ffcc99;">Ab 75</span> erfolgreichen Verkäufen wird die Provision manuell auf <strong><span style="background-color:#ffcc99;">80% erhöht</span></strong></li>
-<li><span style="background-color:#ffcc99;">Ab 100</span> erfolgreichen Verkäufen wird die Provision manuell <strong>dauerhaft</strong> auf <strong><span style="background-color:#ffcc99;">100% erhöht</span></strong></li>
-</ul>
-<p>Besuche jetzt unser Affiliate Center, um noch heute Teil der Ad Campus Familie zu werden!</p>
-<p>Herzliche Grüße aus Köln und viel Erfolg beim bewerben</p>
-<p>Christian da Silva  </p>
+**Vendor's marketplace description:** Empfehle die #1 Plattform "Ad Campus" für effektives Facebook Marketing und verdiene 40% Lifetime Provision. Im Ad Campus lernst Du alle Facebook Marketing Grundlagen von 0 auf an und verstehst anschließend die Funktionen und Mechanismen zu 100%. Deine Vorteile: Lebenslang 40 % wiederkehrende Provisionen auf Deine Verkäufe Eintragungsraten von 18 bis 33 % im ständig hochoptimierten Ad Campus Lead-Funnel. Kaufraten von 10-15% im ständig hochoptimierten Ad Campus Sales-Funnel Große Auswahl optimierter Webemittel: Du bekommst klickstarke Creatives, Vorlagen für E-Mail-Texte, Videos und alles was Du benötigst um mehr Leads und Verkäufe zu erzielen. Schnelle und persönliche Unterstützung auf Deutsch durch Ihren Ad Campus Affiliate-Manager. Ständige Live Trainings der Top Affiliates mit dem Gründer persönlich, für noch mehr Umsatz und Provisionen Wichtiger Hinweis: Ab 50 erfolgreichen Verkäufen wird die Provision manuell auf 60% erhöht Ab 75 erfolgreichen Verkäufen wird die Provision manuell auf 80% erhöht Ab 100 erfolgreichen Verkäufen wird die Provision manuell dauerhaft auf 100% erhöht Besuche jetzt unser Affiliate Center, um noch heute Teil der Ad Campus Familie zu werden! Herzliche Grüße aus Köln und viel Erfolg beim bewerben Christian da Silva
 
 ## 2. Links
 

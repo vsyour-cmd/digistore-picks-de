@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h2>Kräuterkraft und Keksgenuss</h2>
-</div>
-<div>
-<div>
-<div>
-<div><strong>Gesunde DIY Pflegeprodukte und Keksgenuss aus 100% Natur Pur.</strong></div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<p>Tauche ein in die Welt der natürlichen Pflege und kulinarischen Verwöhnmomente für dein Pferd! In <strong>„Kräuterkraft und Keksgenuss“</strong> findest du fast 100 einfache und kreative Rezepte, die das Wohlbefinden deines Lieblings steigern – von Leckereien über Pflegeprodukte bis hin zu DIY-Naturkosmetik.</p>
-<p><strong>Was erwartet dich in unserem eBook?</strong></p>
-<p><strong> Leckerlies und Snacks</strong>: Gesunde, selbstgemachte Kekse, Mash-Rezepte, Smoothies und mehr, die dein Pferd lieben wird.<br /><strong> Kräuterpflege</strong>: Salben, Cremes, Seifen und Fliegensprays aus natürlichen Zutaten, um Haut, Fell und Hufe zu pflegen.<br /><strong> Energie für zwischendurch</strong>: Rezepte für Energy Balls und vitaminreiche Salate – ideal für den kleinen Extra-Kick.<br /><strong> DIY-Fliegenspray und Huföl</strong>: Schütze dein Pferd effektiv vor lästigen Insekten und sorge für gesunde Hufe, ganz ohne Chemie.</p>
-<p>Ob für besondere Anlässe oder den täglichen Verwöhn-Moment – mit diesem E-Book zauberst du deinem Pferd gesunde und natürliche Genüsse und Pflegeprodukte. Hol dir jetzt das Wissen über Kräuter und Naturheilkraft für ein rundum glückliches Pferd!</p>
-</div>
-</div>
+**Vendor's marketplace description:** Kräuterkraft und Keksgenuss Gesunde DIY Pflegeprodukte und Keksgenuss aus 100% Natur Pur. Tauche ein in die Welt der natürlichen Pflege und kulinarischen Verwöhnmomente für dein Pferd! In „Kräuterkraft und Keksgenuss“ findest du fast 100 einfache und kreative Rezepte, die das Wohlbefinden deines Lieblings steigern – von Leckereien über Pflegeprodukte bis hin zu DIY-Naturkosmetik. Was erwartet dich in unserem eBook? Leckerlies und Snacks : Gesunde, selbstgemachte Kekse, Mash-Rezepte, Smoothies und mehr, die dein Pferd lieben wird. Kräuterpflege : Salben, Cremes, Seifen und Fliegensprays aus natürlichen Zutaten, um Haut, Fell und Hufe zu pflegen. Energie für zwischendurch : Rezepte für Energy Balls und vitaminreiche Salate – ideal für den kleinen Extra-Kick. DIY-Fliegenspray und Huföl : Schütze dein Pferd effektiv vor lästigen Insekten und sorge für gesunde Hufe, ganz ohne Chemie. Ob für besondere Anlässe oder den täglichen Verwöhn-Moment – mit diesem E-Book zauberst du deinem Pferd gesunde und natürliche Genüsse und Pflegeprodukte. Hol dir jetzt das Wissen über Kräuter und Naturheilkraft für ein rundum glückliches Pferd!
 
 ## 2. Links
 

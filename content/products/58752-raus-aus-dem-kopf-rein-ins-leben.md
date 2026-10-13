@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>„Raus aus dem Kopf – Rein ins Leben“ ist ein praxisnahes PDF-E-Book für Menschen, die häufig grübeln, sich in Gedankenspiralen verlieren oder Entscheidungen immer wieder infrage stellen.</p>
-<p>Der Ratgeber erklärt verständlich, wodurch ständiges Grübeln entsteht und wie belastende Gedankenmuster frühzeitig erkannt und unterbrochen werden können. Praktische Übungen, Gedankenstopp-Techniken und die 5-Minuten-Regel helfen dabei, wieder mehr Ruhe und Klarheit zu gewinnen.</p>
-<p>Weitere Themen sind das Treffen von Entscheidungen ohne ständige Zweifel, der Umgang mit nächtlichem Grübeln sowie die Entwicklung eines persönlichen Anti-Grübel-Notfallplans für akute Situationen.</p>
-<p>Das 38-seitige E-Book unterstützt dabei, langfristig gelassener zu werden und den Alltag wieder bewusster zu erleben. Nach erfolgreicher Bestellung wird es sofort digital als PDF-Datei bereitgestellt. Der Verkaufspreis beträgt einmalig 9,99 €.</p>
+**Vendor's marketplace description:** „Raus aus dem Kopf – Rein ins Leben“ ist ein praxisnahes PDF-E-Book für Menschen, die häufig grübeln, sich in Gedankenspiralen verlieren oder Entscheidungen immer wieder infrage stellen. Der Ratgeber erklärt verständlich, wodurch ständiges Grübeln entsteht und wie belastende Gedankenmuster frühzeitig erkannt und unterbrochen werden können. Praktische Übungen, Gedankenstopp-Techniken und die 5-Minuten-Regel helfen dabei, wieder mehr Ruhe und Klarheit zu gewinnen. Weitere Themen sind das Treffen von Entscheidungen ohne ständige Zweifel, der Umgang mit nächtlichem Grübeln sowie die Entwicklung eines persönlichen Anti-Grübel-Notfallplans für akute Situationen. Das 38-seitige E-Book unterstützt dabei, langfristig gelassener zu werden und den Alltag wieder bewusster zu erleben. Nach erfolgreicher Bestellung wird es sofort digital als PDF-Datei bereitgestellt. Der Verkaufspreis beträgt einmalig 9,99 €.
 
 ## 2. Links
 

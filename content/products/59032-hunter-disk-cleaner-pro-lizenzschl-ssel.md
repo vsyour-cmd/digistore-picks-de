@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hunter Disk Cleaner ist ein modernes, rasend schnelles und schlankes Tool zur Festplattenbereinigung für Windows. Spüren Sie versteckte, überflüssige Dateien sicher auf und entfernen Sie diese, um sofort Speicherplatz auf Ihrem Computer freizugeben und digitalen Ballast zu beseitigen.</p>
-<p>Im Gegensatz zu herkömmlichen, undurchsichtigen Bereinigungsprogrammen bietet Hunter eine transparente Benutzeroberfläche: Sie sehen genau, welche Bereiche analysiert werden, und behalten die volle Kontrolle über Ihre Daten – so wissen Sie stets, wie viel Speicherplatz Sie bereinigen können, ganz ohne versteckte Überraschungen.</p>
-<p>✨ Funktionen</p>
-<p>⚡ Hochgeschwindigkeits-Scan: Eine für Multithreading optimierte Engine durchsucht kritische Bereiche mit Windows-Datenmüll in Sekundenschnelle.</p>
-<p>Und mehr...</p>
+**Vendor's marketplace description:** Hunter Disk Cleaner ist ein modernes, rasend schnelles und schlankes Tool zur Festplattenbereinigung für Windows. Spüren Sie versteckte, überflüssige Dateien sicher auf und entfernen Sie diese, um sofort Speicherplatz auf Ihrem Computer freizugeben und digitalen Ballast zu beseitigen. Im Gegensatz zu herkömmlichen, undurchsichtigen Bereinigungsprogrammen bietet Hunter eine transparente Benutzeroberfläche: Sie sehen genau, welche Bereiche analysiert werden, und behalten die volle Kontrolle über Ihre Daten – so wissen Sie stets, wie viel Speicherplatz Sie bereinigen können, ganz ohne versteckte Überraschungen. ✨ Funktionen ⚡ Hochgeschwindigkeits-Scan: Eine für Multithreading optimierte Engine durchsucht kritische Bereiche mit Windows-Datenmüll in Sekundenschnelle. Und mehr...
 
 ## 2. Links
 

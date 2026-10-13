@@ -41,61 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h1><span style="color:#993300;"><strong>PFLEGE / BETREUUNG </strong></span></h1>
-<h1><span style="color:#993300;">  ” Professionelle – Unterstützung “</span></h1>
-<h1>   WooCommerce – Shopify – WordPress</h1>
-<h1><span style="color:#ff6600;">Mit 145<em>€</em> / Monat</span></h1>
-<h1><span style="color:#ff6600;">(Paket B1 (5h))  </span></h1>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>  ABO / Kündbar / Down-Updatebar</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<h1>ERSTELLEN &amp; PFLEGE</h1>
-<h1> </h1>
-<div>
-<div>
-<p>(Paket DE-Eshop-Pflege-B1-5h = 5Stunden/Monat)</p>
-</div>
-</div>
-<h1>ABO / Kündbar / Down-Updatebar  </h1>
-<p> </p>
-</div>
-<div>
-<div>
-<ul>
-<li>
-<ul>
-<li>#0 Pflege/Betreuung/Unterstützung : bis 5 Stunden/Monat</li>
-<li>#1 Regelmäßige Software-Updates (Plugins, Themes)</li>
-<li>#2 Monatlicher Status-Report mit Übersicht über alle Arbeiten</li>
-<li>  #3 Beratung zu Verbesserungen in Design, Struktur, Marketing</li>
-<li> #4 Produkteinstellungen und ähnliche Dienstleistungen</li>
-<li>  #5 Monitoring ShopFunktionen (Bestellabläufe,Zahlungen usw) </li>
-<li>  #6 SEO-Pflege – laufende Suchmaschinenoptimierung</li>
-<li> </li>
-<li> #7 Inhaltsaktualisierung (Produkte, Texte, Bilder etc.)</li>
-<li>  #8 Optimierung für mobile Geräte – Tests Anpassungen</li>
-<li>  #9 Überwachung der Server-Performance und Hosting</li>
-<li>  #10 Blog-Artikel mit KI, Banner, Chat Support</li>
-<li>  #11 Pages erstellen: Websites, Eshops,Landingpages usw</li>
-</ul>
-</li>
-</ul>
-<p> </p>
-<p> </p>
-<ul>
-<li>Schauen Sie hier unsere Infos &amp; Video, was können wir für Euch tun sehr günstig</li>
-</ul>
-</div>
-</div>
+**Vendor's marketplace description:** PFLEGE / BETREUUNG ” Professionelle – Unterstützung “ WooCommerce – Shopify – WordPress Mit 145 € / Monat (Paket B1 (5h)) ABO / Kündbar / Down-Updatebar ERSTELLEN & PFLEGE (Paket DE-Eshop-Pflege-B1-5h = 5Stunden/Monat) ABO / Kündbar / Down-Updatebar #0 Pflege/Betreuung/Unterstützung : bis 5 Stunden/Monat #1 Regelmäßige Software-Updates (Plugins, Themes) #2 Monatlicher Status-Report mit Übersicht über alle Arbeiten #3 Beratung zu Verbesserungen in Design, Struktur, Marketing #4 Produkteinstellungen und ähnliche Dienstleistungen #5 Monitoring ShopFunktionen (Bestellabläufe,Zahlungen usw) #6 SEO-Pflege – laufende Suchmaschinenoptimierung #7 Inhaltsaktualisierung (Produkte, Texte, Bilder etc.) #8 Optimierung für mobile Geräte – Tests Anpassungen #9 Überwachung der Server-Performance und Hosting #10 Blog-Artikel mit KI, Banner, Chat Support #11 Pages erstellen: Websites, Eshops,Landingpages usw Schauen Sie hier unsere Infos & Video, was können wir für Euch tun sehr günstig
 
 ## 2. Links
 

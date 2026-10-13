@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Langeweile ade! Entdecke 50 kreative und abwechslungsreiche Beschäftigungsideen für Kinder, die sich unkompliziert zu Hause umsetzen lassen. Ideal für Regentage, Ferien, Nachmittage oder einfach für mehr gemeinsame Familienzeit. Die Ideen helfen Eltern dabei, ihre Kinder sinnvoll zu beschäftigen – ohne stundenlang nach passenden Aktivitäten suchen zu müssen.</p>
+**Vendor's marketplace description:** Langeweile ade! Entdecke 50 kreative und abwechslungsreiche Beschäftigungsideen für Kinder, die sich unkompliziert zu Hause umsetzen lassen. Ideal für Regentage, Ferien, Nachmittage oder einfach für mehr gemeinsame Familienzeit. Die Ideen helfen Eltern dabei, ihre Kinder sinnvoll zu beschäftigen – ohne stundenlang nach passenden Aktivitäten suchen zu müssen.
 
 ## 2. Links
 

@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Profite einfach steigern! Monetarisiere jedes Projekt, mehrfach.<br /></strong></h2>
-<p><strong>Für alle Affiliates eine klasse Chance.</strong> Denn du bekommst auf dieses Produkt 40% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann <strong>30 - 50% Provision</strong> gibt.</p>
-<p><strong>Insgesamt können damit über 500 Euro an Provision verdient werden.</strong></p>
-<p>Im Programm ist folgendes enthalten:</p>
-<ul>
-<li>... <strong>7+ extrem geniale Strategien</strong>, um deinen <strong>Profit drastisch zu steigern</strong>.</li>
-<li>... wie du dich für deine <strong>bereits getane Arbeit</strong> <strong>nochmal mehrmals bezahlen lässt.</strong></li>
-<li>... wie du das meiste automatisieren kannst, sodass du einen ständigen Cashflow generierst, <strong>weniger arbeitest</strong>, aber dafür <strong>deutlich mehr verdienst</strong>.</li>
-<li>... wie du <strong>infinitiy und Multi Level Affiliate Partnerprogramme</strong> findest + Beispiele, sodass du dir einen <strong>fürstlichen Cashflow aufbaust.</strong></li>
-<li>... <strong>Premium Landing Pages</strong>, die für dich Leads generieren.</li>
-<li>... fertige Vorlagen für Social Media, Blogs, Paid Ads und noch einiges mehr.</li>
-<li>... wie du nahezu <strong>jedes Projekt extrem profitabel gestaltest</strong>.</li>
-<li>... wie du noch vor dem Start weißt, dass das Projekt profitabel wird.</li>
-<li>... wie du <strong>die künstliche Intelligenz zu deinen Vorteilen</strong> nutzt!</li>
-<li>... wie du in weniger Zeit mehr schaffst.</li>
-<li>... <strong>inkl. aller Templates und Vorlagen</strong>, zum Sofortnachmachen!</li>
-<li>... eine <strong>glasklare Schritt-für-Schritt-Anleitung</strong>, als ob wir neben dir sitzen und dir Schritt-für-Schritt sagen, was du wann machen und wo klicken solltest.</li>
-<li>... und einiges mehr</li>
-</ul>
-<p><strong>Nie wieder Fragen müssen, wie du ein Projekt monetarisierst. Lass dich für deine Arbeit mehrfach bezahlen.<br /></strong></p>
+**Vendor's marketplace description:** Profite einfach steigern! Monetarisiere jedes Projekt, mehrfach. Für alle Affiliates eine klasse Chance. Denn du bekommst auf dieses Produkt 40% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Insgesamt können damit über 500 Euro an Provision verdient werden. Im Programm ist folgendes enthalten: ... 7+ extrem geniale Strategien , um deinen Profit drastisch zu steigern . ... wie du dich für deine bereits getane Arbeit nochmal mehrmals bezahlen lässt. ... wie du das meiste automatisieren kannst, sodass du einen ständigen Cashflow generierst, weniger arbeitest , aber dafür deutlich mehr verdienst . ... wie du infinitiy und Multi Level Affiliate Partnerprogramme findest + Beispiele, sodass du dir einen fürstlichen Cashflow aufbaust. ... Premium Landing Pages , die für dich Leads generieren. ... fertige Vorlagen für Social Media, Blogs, Paid Ads und noch einiges mehr. ... wie du nahezu jedes Projekt extrem profitabel gestaltest . ... wie du noch vor dem Start weißt, dass das Projekt profitabel wird. ... wie du die künstliche Intelligenz zu deinen Vorteilen nutzt! ... wie du in weniger Zeit mehr schaffst. ... inkl. aller Templates und Vorlagen , zum Sofortnachmachen! ... eine glasklare Schritt-für-Schritt-Anleitung , als ob wir neben dir sitzen und dir Schritt-für-Schritt sagen, was du wann machen und wo klicken solltest. ... und einiges mehr Nie wieder Fragen müssen, wie du ein Projekt monetarisierst. Lass dich für deine Arbeit mehrfach bezahlen.
 
 ## 2. Links
 

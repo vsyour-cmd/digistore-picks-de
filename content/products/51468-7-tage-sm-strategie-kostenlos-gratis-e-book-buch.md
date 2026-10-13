@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>7-Tage Social Media Challenge – Dein kostenloses Lead-Magnet-Produkt mit 50% Provision!</strong></h3>
-<p> </p>
+**Vendor's marketplace description:** 7-Tage Social Media Challenge – Dein kostenloses Lead-Magnet-Produkt mit 50% Provision!
 
 ## 2. Links
 

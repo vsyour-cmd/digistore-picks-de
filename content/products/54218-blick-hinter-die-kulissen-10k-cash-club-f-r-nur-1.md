@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Blick hinter die Kulissen – 10K Cash Club für nur 1 €</strong></p>
-<p>Starte jetzt für nur 1 € und erhalte einen exklusiven Einblick in den Mitgliederbereich des 10K Cash Club.</p>
-<p>Hier siehst du, wie echte Resultate erzielt werden – und warum bereits über 1.000 Teilnehmer Teil unseres Rudels sind.</p>
+**Vendor's marketplace description:** Blick hinter die Kulissen – 10K Cash Club für nur 1 € Starte jetzt für nur 1 € und erhalte einen exklusiven Einblick in den Mitgliederbereich des 10K Cash Club. Hier siehst du, wie echte Resultate erzielt werden – und warum bereits über 1.000 Teilnehmer Teil unseres Rudels sind.
 
 ## 2. Links
 

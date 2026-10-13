@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>AI Act Starter-Kit für Arztpraxen &amp; MVZ – 105 Master-Prompts</strong></p>
-<p>Dieses digitale Produkt enthält <strong>105 sofort nutzbare Master-Prompts im PDF-Format</strong> speziell für Arztpraxen, MVZ, Facharztzentren und medizinische Einrichtungen.</p>
-<p>Die Prompts unterstützen bei der strukturierten und verantwortungsvollen Nutzung von KI im Praxisalltag und decken wichtige Themen rund um <strong>EU AI Act, DSGVO, Dokumentation, Qualitätsmanagement und Organisation</strong> ab.</p>
-<p><strong>Geeignet für:</strong></p>
-<ul>
-<li>Arztpraxen und Gemeinschaftspraxen</li>
-<li>Medizinische Versorgungszentren (MVZ)</li>
-<li>Facharztzentren</li>
-<li>Gesundheitszentren und medizinische Einrichtungen</li>
-<li>Praxismanagement und QM-Verantwortliche</li>
-</ul>
-<p><strong>Themenschwerpunkte:</strong></p>
-<ul>
-<li>Dokumentation und Praxisorganisation</li>
-<li>Patientenkommunikation</li>
-<li>Qualitätsmanagement</li>
-<li>Datenschutz und DSGVO</li>
-<li>KI-Risikoanalyse</li>
-<li>Hygiene und interne Abläufe</li>
-<li>strukturierte Nutzung von KI im medizinischen Arbeitsumfeld</li>
-</ul>
-<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales PDF mit 105 Master-Prompts</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
-<p>Die Inhalte dienen der Organisation, Dokumentation und Unterstützung interner Arbeitsprozesse. Sie ersetzen keine medizinische Diagnose, Therapieempfehlung oder individuelle Rechtsberatung.</p>
-<p>Ein klar positioniertes B2B-Produkt für Arztpraxen und medizinische Einrichtungen, die KI strukturiert und nachvollziehbar in ihre bestehenden Abläufe integrieren möchten.</p>
+**Vendor's marketplace description:** AI Act Starter-Kit für Arztpraxen & MVZ – 105 Master-Prompts Dieses digitale Produkt enthält 105 sofort nutzbare Master-Prompts im PDF-Format speziell für Arztpraxen, MVZ, Facharztzentren und medizinische Einrichtungen. Die Prompts unterstützen bei der strukturierten und verantwortungsvollen Nutzung von KI im Praxisalltag und decken wichtige Themen rund um EU AI Act, DSGVO, Dokumentation, Qualitätsmanagement und Organisation ab. Geeignet für: Arztpraxen und Gemeinschaftspraxen Medizinische Versorgungszentren (MVZ) Facharztzentren Gesundheitszentren und medizinische Einrichtungen Praxismanagement und QM-Verantwortliche Themenschwerpunkte: Dokumentation und Praxisorganisation Patientenkommunikation Qualitätsmanagement Datenschutz und DSGVO KI-Risikoanalyse Hygiene und interne Abläufe strukturierte Nutzung von KI im medizinischen Arbeitsumfeld Wichtig: Es handelt sich ausdrücklich um ein digitales PDF mit 105 Master-Prompts und nicht um Software, einen Videokurs oder einen Mitgliederbereich. Die Inhalte dienen der Organisation, Dokumentation und Unterstützung interner Arbeitsprozesse. Sie ersetzen keine medizinische Diagnose, Therapieempfehlung oder individuelle Rechtsberatung. Ein klar positioniertes B2B-Produkt für Arztpraxen und medizinische Einrichtungen, die KI strukturiert und nachvollziehbar in ihre bestehenden Abläufe integrieren möchten.
 
 ## 2. Links
 

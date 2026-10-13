@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehlen Sie das HOCHWERTIGE Produkt für Gesundheit, Wohlbefinden und Abnehmen mit <strong>überragendem Customer Feedback</strong> in unserem <a href="http://lana.li/forum" target="_blank" rel="noreferrer noopener">eigenen Fastenforum</a> und <strong>niedriger Stornoquote</strong>. Ihre Vorteile:</p>
-<ul>
-<li>Lebenslang 50 % Provision auf Ihre Verkäufe</li>
-<li>Hohe Kaufrate <a href="http://lana.li/fasten" target="_blank" rel="noreferrer noopener">in unserem Sales-Funnel</a> (inklusive <a href="http://lana.li/fastentipps" target="_blank" rel="noreferrer noopener">KOSTENLOSEM Vorbereitungsvideo</a> + Tipps) </li>
-<li>Große Auswahl optimierter Webemittel: klickstarke Banner, Vorlage für E-Mail-Text, Bilder der Seminar-Leiterin für mehr Leads und Verkäufe.</li>
-<li>Schnelle und persönliche Unterstützung auf Deutsch durch Ihren Affiliate-Manager auf unserer Support Seite: <a href="http://lana.li/affiliate" target="_blank" rel="noreferrer noopener">http://lana.li/affiliate</a>.</li>
-</ul>
-<p>Wir freuen uns auf eine erfolgreiche Partnerschaft!</p>
+**Vendor's marketplace description:** Empfehlen Sie das HOCHWERTIGE Produkt für Gesundheit, Wohlbefinden und Abnehmen mit überragendem Customer Feedback in unserem eigenen Fastenforum und niedriger Stornoquote . Ihre Vorteile: Lebenslang 50 % Provision auf Ihre Verkäufe Hohe Kaufrate in unserem Sales-Funnel (inklusive KOSTENLOSEM Vorbereitungsvideo + Tipps) Große Auswahl optimierter Webemittel: klickstarke Banner, Vorlage für E-Mail-Text, Bilder der Seminar-Leiterin für mehr Leads und Verkäufe. Schnelle und persönliche Unterstützung auf Deutsch durch Ihren Affiliate-Manager auf unserer Support Seite: http://lana.li/affiliate . Wir freuen uns auf eine erfolgreiche Partnerschaft!
 
 ## 2. Links
 

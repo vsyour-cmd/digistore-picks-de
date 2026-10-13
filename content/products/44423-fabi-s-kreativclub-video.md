@@ -41,51 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<h2>Ein einmaliges Online Erlebnis</h2>
-</div>
-</div>
-<div> …bei dem Kinder viel Spaß haben und spielerisch lernen.</div>
-<div> </div>
-<div>
-<div>
-<h3>Verdiene Geld mit Zeichenkursen und Online Abenteuern für Kinder,</h3>
-</div>
-</div>
-<div>
-<div>…die einen hohen pädagogischen Mehrwert bieten.</div>
-<div> </div>
-<div>
-<div>
-<div>
-<div>
-<h3>Werde Affiliate-Partner von FABI.</h3>
-</div>
-</div>
-</div>
-<div>
-<p>• Mehr als 2000 Kinder haben bereits mit FABI gezeichnet und sind begeistert von den Kreativ-Abenteuern. </p>
-<p>• Erhalte hohe Provisionen für jeden einzelnen Verkauf und auch auf Folgeverkäufe</p>
-<p>• Dank des Abo-Modells erhälst du wiederkehrende Einnahmen.</p>
-<p> </p>
-<div>
-<div>
-<div>
-<div>
-<div>
-<h2>Mehr über meine Zeichenkurse und Kreativ-Abenteuer</h2>
-</div>
-</div>
-</div>
-</div>
-</div>
-<p>In meinen Zeichenkursen und Kreativ-Abenteuern gebe ich euch und euren Kindern einen Perspektivwechsel, indem ich euch in spannende Welten entführe.</p>
-<p>Wir gehen gemeinsam auf Zeichen-Abenteuer, erleben wie viel Fantasie doch in jedem von uns steckt und entdecken z.T. unbekannte Talente. Ich zeige euch, wie ihr mit neuen Zeichen-Methoden tolle Ideen entwickelt und umsetzt. Und das Beste: dabei stärken die Kinder auf einfache und spielerische Weise zusätzlich ihr kreatives Selbstbewusstsein.</p>
-<p>Seid ihr bereit für die kreativen Abenteuer?</p>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Ein einmaliges Online Erlebnis …bei dem Kinder viel Spaß haben und spielerisch lernen. Verdiene Geld mit Zeichenkursen und Online Abenteuern für Kinder, …die einen hohen pädagogischen Mehrwert bieten. Werde Affiliate-Partner von FABI. • Mehr als 2000 Kinder haben bereits mit FABI gezeichnet und sind begeistert von den Kreativ-Abenteuern. • Erhalte hohe Provisionen für jeden einzelnen Verkauf und auch auf Folgeverkäufe • Dank des Abo-Modells erhälst du wiederkehrende Einnahmen. Mehr über meine Zeichenkurse und Kreativ-Abenteuer In meinen Zeichenkursen und Kreativ-Abenteuern gebe ich euch und euren Kindern einen Perspektivwechsel, indem ich euch in spannende Welten entführe. Wir gehen gemeinsam auf Zeichen-Abenteuer, erleben wie viel Fantasie doch in jedem von uns steckt und entdecken z.T. unbekannte Talente. Ich zeige euch, wie ihr mit neuen Zeichen-Methoden tolle Ideen entwickelt und umsetzt. Und das Beste: dabei stärken die Kinder auf einfache und spielerische Weise zusätzlich ihr kreatives Selbstbewusstsein. Seid ihr bereit für die kreativen Abenteuer?
 
 ## 2. Links
 

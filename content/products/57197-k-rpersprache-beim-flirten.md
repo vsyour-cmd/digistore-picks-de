@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Körpersprache beim Flirten“</strong></p>
-<p>Was Körper sagen, wenn Worte schweigen – Der größte Teil des Flirts läuft ohne Worte. Lerne, Signale zu lesen und selbst einladend, sicher und echt zu wirken.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Warum Körpersprache beim Flirten zählt</li>
-<li>Interesse erkennen: die Signale</li>
-<li>Offene &amp; einladende Körpersprache senden</li>
-<li>Blickkontakt &amp; Lächeln</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Körpersprache beim Flirten“ Was Körper sagen, wenn Worte schweigen – Der größte Teil des Flirts läuft ohne Worte. Lerne, Signale zu lesen und selbst einladend, sicher und echt zu wirken. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Warum Körpersprache beim Flirten zählt Interesse erkennen: die Signale Offene & einladende Körpersprache senden Blickkontakt & Lächeln
 
 ## 2. Links
 

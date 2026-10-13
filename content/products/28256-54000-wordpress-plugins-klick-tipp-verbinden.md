@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1 style="text-align:center;"><span style="color:#000000;">Du bist Klick Tipp Certified Consultant oder in der Unternehmensberatung?</span></h1>
-<h1 style="text-align:center;"><span style="color:#000000;">Dann habe ich die die Verbindungssensation</span></h1>
-<p style="text-align:center;"><span style="text-decoration:line-through;color:#000000;">statt unzählige Plugins oder externe Anbieter</span></p>
-<p style="text-align:center;"><span style="color:#000000;">Ein WP-Plugin das deine Daten aus </span><br /><span style="color:#000000;">beliebigen Plugins zu Klick-Tipp überträgt.</span></p>
-<p style="text-align:center;"><span style="color:#000000;"><strong>Eine Mehrwert für deine Kunden in Zeit und Geld</strong></span></p>
-<ol style="text-align:center;">
-<li><span style="color:#000000;"><strong>Jetzt promoten klicken</strong>,</span></li>
-<li><span style="color:#000000;">E-Mail bestätigen und</span></li>
-<li><span style="color:#000000;">freie Version unbegrenzt nutzen.</span></li>
-</ol>
-<h1 style="text-align:center;"><span style="color:#000000;">25% Partner Provision </span><br /><span style="color:#000000;">20% Partner werben Partner Provision </span></h1>
+**Vendor's marketplace description:** Du bist Klick Tipp Certified Consultant oder in der Unternehmensberatung? Dann habe ich die die Verbindungssensation statt unzählige Plugins oder externe Anbieter Ein WP-Plugin das deine Daten aus beliebigen Plugins zu Klick-Tipp überträgt. Eine Mehrwert für deine Kunden in Zeit und Geld Jetzt promoten klicken , E-Mail bestätigen und freie Version unbegrenzt nutzen. 25% Partner Provision 20% Partner werben Partner Provision
 
 ## 2. Links
 

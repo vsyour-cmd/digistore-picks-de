@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3 style="text-align:center;"><strong><span style="color:#ff0000;">YouTube</span> Short Traffic-Booster</strong></h3>
-<p>Bewirb den <strong>„YouTube Short Traffic-Booster“</strong>, ein digitales E-Book rund um YouTube Shorts, Reichweitenaufbau und automatisierte Lead-Generierung.</p>
-<p>Als Affiliate profitierst du von:</p>
-<ul>
-<li>
-<p>einem stark wachsenden Thema (YouTube Shorts &amp; Kurzvideo-Traffic)</p>
-</li>
-<li>
-<p>praxisnahen Inhalten für Einsteiger und Marketer</p>
-</li>
-<li>
-<p><strong>attraktiven Provisionen inklusive Upsell-Verdienst von bis zu 125 € pro Verkauf</strong></p>
-</li>
-</ul>
-<p>Ideal für Affiliates, Creator und Marketer, die Produkte im Bereich Video-Marketing, Traffic und digitales Business bewerben möchten.</p>
+**Vendor's marketplace description:** YouTube Short Traffic-Booster Bewirb den „YouTube Short Traffic-Booster“ , ein digitales E-Book rund um YouTube Shorts, Reichweitenaufbau und automatisierte Lead-Generierung. Als Affiliate profitierst du von: einem stark wachsenden Thema (YouTube Shorts & Kurzvideo-Traffic) praxisnahen Inhalten für Einsteiger und Marketer attraktiven Provisionen inklusive Upsell-Verdienst von bis zu 125 € pro Verkauf Ideal für Affiliates, Creator und Marketer, die Produkte im Bereich Video-Marketing, Traffic und digitales Business bewerben möchten.
 
 ## 2. Links
 

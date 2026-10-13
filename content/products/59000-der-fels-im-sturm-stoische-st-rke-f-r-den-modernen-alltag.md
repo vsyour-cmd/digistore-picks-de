@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Ein hochwertiges digitales Stoizismus-Angebot für die wachsende Zielgruppe rund um Resilienz, mentale Stärke, Gelassenheit und persönliche Entwicklung.</strong></p>
-<p>„Der Fels im Sturm“ begleitet Menschen über 30 Tage dabei, stoische Prinzipien praktisch in ihren Alltag zu übertragen – verständlich, modern und ohne philosophische Vorkenntnisse.</p>
-<p><strong>Zwei Produktvarianten für unterschiedliche Bedürfnisse:</strong></p>
-<p>• <strong>„Der Fels im Sturm“</strong> als Basisversion für die strukturierte 30-Tage-Begleitung<br />• <strong>„Der Fels im Sturm – Die vollständige Praxisbegleitung“</strong> als umfangreichere Variante mit zusätzlichen Praxisinhalten</p>
-<p>Beide Varianten werden auf derselben professionellen Verkaufsseite angeboten und können von Affiliates beworben werden.</p>
-<p><strong>Das erwartet deine Zielgruppe:</strong></p>
-<p>• praxisnaher moderner Stoizismus statt trockener Theorie<br />• strukturierte 30-Tage-Begleitung<br />• konkrete Übungen und Reflexionsimpulse<br />• professionell gestaltete digitale Unterlagen<br />• sofortiger Zugriff nach dem Kauf</p>
-<p><strong>Deine Vorteile als Affiliate:</strong></p>
-<p>• <strong>50 % Affiliate-Provision</strong><br />• zwei Produktvarianten auf einer gemeinsamen Verkaufsseite<br />• klar definierte Zielgruppe im Bereich Persönlichkeitsentwicklung, Mindset und Stoizismus<br />• professionelle Verkaufsseite<br />• fertige Werbemittel und Textvorlagen<br />• geeignet für Blogs, Newsletter, YouTube, Instagram, TikTok und Pinterest<br />• weitere UrkraftMindset-Produkte ermöglichen zusätzliche Cross-Selling-Potenziale</p>
-<p>Besonders interessant für Affiliates mit Zielgruppen aus den Bereichen <strong>Persönlichkeitsentwicklung, Mindset, Resilienz, Selbstführung, Philosophie und Stoizismus</strong>.</p>
-<p><strong>Du erhältst von uns fertige Werbemittel, damit du direkt mit der Bewerbung starten kannst.</strong></p>
+**Vendor's marketplace description:** Ein hochwertiges digitales Stoizismus-Angebot für die wachsende Zielgruppe rund um Resilienz, mentale Stärke, Gelassenheit und persönliche Entwicklung. „Der Fels im Sturm“ begleitet Menschen über 30 Tage dabei, stoische Prinzipien praktisch in ihren Alltag zu übertragen – verständlich, modern und ohne philosophische Vorkenntnisse. Zwei Produktvarianten für unterschiedliche Bedürfnisse: • „Der Fels im Sturm“ als Basisversion für die strukturierte 30-Tage-Begleitung • „Der Fels im Sturm – Die vollständige Praxisbegleitung“ als umfangreichere Variante mit zusätzlichen Praxisinhalten Beide Varianten werden auf derselben professionellen Verkaufsseite angeboten und können von Affiliates beworben werden. Das erwartet deine Zielgruppe: • praxisnaher moderner Stoizismus statt trockener Theorie • strukturierte 30-Tage-Begleitung • konkrete Übungen und Reflexionsimpulse • professionell gestaltete digitale Unterlagen • sofortiger Zugriff nach dem Kauf Deine Vorteile als Affiliate: • 50 % Affiliate-Provision • zwei Produktvarianten auf einer gemeinsamen Verkaufsseite • klar definierte Zielgruppe im Bereich Persönlichkeitsentwicklung, Mindset und Stoizismus • professionelle Verkaufsseite • fertige Werbemittel und Textvorlagen • geeignet für Blogs, Newsletter, YouTube, Instagram, TikTok und Pinterest • weitere UrkraftMindset-Produkte ermöglichen zusätzliche Cross-Selling-Potenziale Besonders interessant für Affiliates mit Zielgruppen aus den Bereichen Persönlichkeitsentwicklung, Mindset, Resilienz, Selbstführung, Philosophie und Stoizismus . Du erhältst von uns fertige Werbemittel, damit du direkt mit der Bewerbung starten kannst.
 
 ## 2. Links
 

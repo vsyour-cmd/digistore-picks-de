@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Fachkundige Stellungnahme</h1>
-<ul>
-<li>für den Gründungszuschuss - Gründer aus ALG I</li>
-<li>für das Einstiegsgeld - Gründer aus ALG II/ Bürgergeld</li>
-</ul>
-<p>Wir prüfen unabhängig und objektiv Ihren Businessplan und erstellen dazu  die fachkundige Stellungnahme –<strong>bundesweit und innerhalb von 24 Stunden</strong>. </p>
-<ul>
-<li><strong>Bundesweit anerkannte fachkundige Stelle</strong></li>
-<li>Schnelle Bearbeitung und Hilfe <strong>innerhalb von 24h</strong></li>
-<li><strong>Prüfung aller wesentlichen Merkmale </strong>(Bedürftigkeit, Tragfähigkeit, schwere Vermittelbarkeit)<strong> </strong>für hohe Erfolgschancen der Gründer</li>
-<li>Sehr hohe <strong>Erfolgsquote</strong> bei der Antragstellung von<strong> 99%</strong></li>
-<li><strong>Geringe Stornoquote</strong></li>
-<li>Erfahrung aus <strong>über 1.500 Stellungnahmen</strong></li>
-<li>Gründungsberatung mit <strong>über 15 Jahren Erfahrung</strong></li>
-<li><strong>Persönlicher Ansprechpartner</strong></li>
-</ul>
-<p style="text-align:center;">weitere Infos unter <a title="Fachkundige Stellungnahme" href="https://www.existenzgruender-helfer.de/gruenderservice-existenzgruenderberatung/fachkundige-stellungnahme-tragfaehigkeitsbescheinigung-tragfahigkeitspruefung-kostenlos/" target="_blank" rel="noreferrer noopener">www.existenzgruender-helfer.de</a></p>
-<p style="text-align:center;">oder per kostenloser Hotline - <a title="Beratungshotline Existenzgründer Helfer" href="tel:+4944354141194" target="_blank" rel="noreferrer noopener">04435/ 414 11 94</a></p>
+**Vendor's marketplace description:** Fachkundige Stellungnahme für den Gründungszuschuss - Gründer aus ALG I für das Einstiegsgeld - Gründer aus ALG II/ Bürgergeld Wir prüfen unabhängig und objektiv Ihren Businessplan und erstellen dazu die fachkundige Stellungnahme – bundesweit und innerhalb von 24 Stunden . Bundesweit anerkannte fachkundige Stelle Schnelle Bearbeitung und Hilfe innerhalb von 24h Prüfung aller wesentlichen Merkmale (Bedürftigkeit, Tragfähigkeit, schwere Vermittelbarkeit) für hohe Erfolgschancen der Gründer Sehr hohe Erfolgsquote bei der Antragstellung von 99% Geringe Stornoquote Erfahrung aus über 1.500 Stellungnahmen Gründungsberatung mit über 15 Jahren Erfahrung Persönlicher Ansprechpartner weitere Infos unter www.existenzgruender-helfer.de oder per kostenloser Hotline - 04435/ 414 11 94
 
 ## 2. Links
 

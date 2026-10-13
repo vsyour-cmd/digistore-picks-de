@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Nachschlage-Tool für Hobbygärtner - zeigt passende Pflanzabstände und Düngeempfehlungen für verschiedene Pflanzenarten.</p>
+**Vendor's marketplace description:** Nachschlage-Tool für Hobbygärtner - zeigt passende Pflanzabstände und Düngeempfehlungen für verschiedene Pflanzenarten.
 
 ## 2. Links
 

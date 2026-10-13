@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das Bestseller E-Book: Traffic Secrets inklusive einem kostenlosen Kurs</strong></p>
-<p> </p>
-<p>Schritt für Schritt Aneitung für mehr Traffic</p>
-<p>Paid Traffic Strategien</p>
-<p>Kostenfreier Traffic Strategien</p>
-<p>Kostenfreier Kurs: Super Affiliate als Bonus</p>
-<p> </p>
-<p>Schenke Deiner Liste das E-Book und kassiere beim kompletten Upsell Prozess satte 55%</p>
+**Vendor's marketplace description:** Das Bestseller E-Book: Traffic Secrets inklusive einem kostenlosen Kurs Schritt für Schritt Aneitung für mehr Traffic Paid Traffic Strategien Kostenfreier Traffic Strategien Kostenfreier Kurs: Super Affiliate als Bonus Schenke Deiner Liste das E-Book und kassiere beim kompletten Upsell Prozess satte 55%
 
 ## 2. Links
 

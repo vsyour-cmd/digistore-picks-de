@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>NEXT CHAPTER ist ein digitales Orientierungsprogramm für berufserfahrene Menschen in beruflichen Veränderungs- und Umbruchsituationen.</strong></p>
-<p>Die Zielgruppe steht vor einer konkreten beruflichen Richtungsentscheidung – beispielsweise nach Kündigung, Freistellung, Stellenabbau oder an einem beruflichen Wendepunkt.</p>
-<p>NEXT CHAPTER führt Schritt für Schritt durch einen strukturierten Orientierungsprozess: Erfahrungen werden eingeordnet, persönliche Kriterien geklärt, realistische berufliche Optionen entwickelt und auf Passung und Umsetzbarkeit geprüft.</p>
-<p><strong>Für Affiliates besonders interessant:</strong><br />klare Zielgruppe · konkreter Kaufanlass · 40 % Affiliate-Provision<br />Digistore24 weist aktuell <strong>83,70 € Nettoverdienst pro Verkauf</strong> aus.</p>
-<p>Fertige E-Mail-Vorlagen und weitere Werbemittel stehen im Affiliatebereich zur Verfügung.</p>
-<p> </p>
-<p><strong>Affiliate-Support &amp; weitere Informationen:</strong><br /><a>www.dein-nextchapter.de/partnerprogramm</a></p>
+**Vendor's marketplace description:** NEXT CHAPTER ist ein digitales Orientierungsprogramm für berufserfahrene Menschen in beruflichen Veränderungs- und Umbruchsituationen. Die Zielgruppe steht vor einer konkreten beruflichen Richtungsentscheidung – beispielsweise nach Kündigung, Freistellung, Stellenabbau oder an einem beruflichen Wendepunkt. NEXT CHAPTER führt Schritt für Schritt durch einen strukturierten Orientierungsprozess: Erfahrungen werden eingeordnet, persönliche Kriterien geklärt, realistische berufliche Optionen entwickelt und auf Passung und Umsetzbarkeit geprüft. Für Affiliates besonders interessant: klare Zielgruppe · konkreter Kaufanlass · 40 % Affiliate-Provision Digistore24 weist aktuell 83,70 € Nettoverdienst pro Verkauf aus. Fertige E-Mail-Vorlagen und weitere Werbemittel stehen im Affiliatebereich zur Verfügung. Affiliate-Support & weitere Informationen: www.dein-nextchapter.de/partnerprogramm
 
 ## 2. Links
 

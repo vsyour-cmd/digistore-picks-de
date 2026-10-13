@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Beziehungsbereit werden“</strong></p>
-<p>Bereit für die Liebe, die bleibt – Bevor die richtige Beziehung gelingt, darf etwas in dir bereit sein. Dieser Ratgeber bereitet dich von innen auf die Liebe vor, die bleibt.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Was Beziehungsbereitschaft wirklich bedeutet</li>
-<li>Altlasten aufarbeiten</li>
-<li>Deine Bindungsmuster verstehen</li>
-<li>Emotional verfügbar werden</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Beziehungsbereit werden“ Bereit für die Liebe, die bleibt – Bevor die richtige Beziehung gelingt, darf etwas in dir bereit sein. Dieser Ratgeber bereitet dich von innen auf die Liebe vor, die bleibt. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Was Beziehungsbereitschaft wirklich bedeutet Altlasten aufarbeiten Deine Bindungsmuster verstehen Emotional verfügbar werden
 
 ## 2. Links
 

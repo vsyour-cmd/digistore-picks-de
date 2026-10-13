@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>„Hauswissen vom Praktiker – Band 1“ ist ein praxisnaher digitaler Ratgeber für alle, die Arbeiten rund um Haus und Grundstück selbst erledigen möchten.</strong></p>
-<p>Statt grauer Theorie stehen verständliche Erklärungen, praktische Lösungswege und Erfahrungen aus der handwerklichen Praxis im Mittelpunkt.</p>
-<p><strong>Geeignete Zielgruppen:</strong> Hausbesitzer, Mieter, Heimwerker, DIY-Interessierte sowie Menschen, die kleinere Arbeiten und Probleme rund ums Haus möglichst selbst lösen möchten.</p>
-<p>Das Produkt eignet sich besonders zur Bewerbung auf Webseiten, Blogs, Social-Media-Kanälen und in Communities aus den Bereichen Haus &amp; Garten, Heimwerken, DIY, Renovierung und Instandhaltung.</p>
-<p><strong>Dein Vorteil als Affiliate:</strong> Du empfiehlst ein praxisorientiertes Produkt mit klar definierter Zielgruppe. Werbemittel und weitere Unterstützung für Affiliates werden bereitgestellt.</p>
+**Vendor's marketplace description:** „Hauswissen vom Praktiker – Band 1“ ist ein praxisnaher digitaler Ratgeber für alle, die Arbeiten rund um Haus und Grundstück selbst erledigen möchten. Statt grauer Theorie stehen verständliche Erklärungen, praktische Lösungswege und Erfahrungen aus der handwerklichen Praxis im Mittelpunkt. Geeignete Zielgruppen: Hausbesitzer, Mieter, Heimwerker, DIY-Interessierte sowie Menschen, die kleinere Arbeiten und Probleme rund ums Haus möglichst selbst lösen möchten. Das Produkt eignet sich besonders zur Bewerbung auf Webseiten, Blogs, Social-Media-Kanälen und in Communities aus den Bereichen Haus & Garten, Heimwerken, DIY, Renovierung und Instandhaltung. Dein Vorteil als Affiliate: Du empfiehlst ein praxisorientiertes Produkt mit klar definierter Zielgruppe. Werbemittel und weitere Unterstützung für Affiliates werden bereitgestellt.
 
 ## 2. Links
 

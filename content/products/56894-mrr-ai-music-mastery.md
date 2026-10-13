@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb den absoluten Megatrend: Künstliche Intelligenz &amp; Musikproduktion. Sichere dir 40 % Provision (ca. 80 € pro Sale!) für das hochwertigste "Business in a Box" auf dem Markt.</p>
-<p>DAS PRODUKT:<br />Du bewirbst kein gewöhnliches E-Book, sondern eine komplette B2B-Business-Lizenz (Master Resell Rights). Deine Käufer erwerben für 199 € das "AI Music Mastery"-Paket und erhalten das Recht, das Produkt auf eigene Rechnung weiterzuverkaufen (inklusive 100 % der eigenen Gewinne).</p>
-<p>Das Paket liefert den Käufern alles schlüsselfertig: Das E-Book (PDF &amp; ePub), eine hochkonvertierende HTML-Verkaufsseite, das offizielle MRR-Zertifikat und ein fertiges Marketing-Kit.</p>
-<p> </p>
-<p>WARUM DIESES PRODUKT EXTREM GUT KONVERTIERT:</p>
-<p><br />Die Nische brennt! Jeder spricht aktuell über KI-Tools wie Suno. Zudem ist das Verkaufsargument für deine Leads ein absoluter "No-Brainer": Das Investment liegt bei 199 €. Der empfohlene Endkundenpreis für das Buch liegt bei 19,90 €. Deine Käufer müssen das Produkt also nur 10-mal verkaufen, um komplett im Plus zu sein!</p>
-<p> </p>
-<p>DEINE VORTEILE ALS AFFILIATE:</p>
-<p>High-Ticket Provisionen: 199 € Verkaufspreis bedeuten für dich ca. 80 € Marge pro Sale.</p>
-<p><br />Boomende Nische: "Geld verdienen im Internet" trifft auf den gigantischen "KI-Trend".</p>
-<p> Extrem geringe Stornoquote: Käufer laden sich das Lizenz-Archiv samt Quellcode herunter, was Retouren minimiert.</p>
-<p>Premium Branding: Das edle, dunkle Tech-Design schafft sofort massives Vertrauen und treibt die Conversions in die Höhe.</p>
-<p>Hol dir jetzt deinen Promo-Link und verdiene an der KI-Goldgräberstimmung mit!</p>
+**Vendor's marketplace description:** Bewirb den absoluten Megatrend: Künstliche Intelligenz & Musikproduktion. Sichere dir 40 % Provision (ca. 80 € pro Sale!) für das hochwertigste "Business in a Box" auf dem Markt. DAS PRODUKT: Du bewirbst kein gewöhnliches E-Book, sondern eine komplette B2B-Business-Lizenz (Master Resell Rights). Deine Käufer erwerben für 199 € das "AI Music Mastery"-Paket und erhalten das Recht, das Produkt auf eigene Rechnung weiterzuverkaufen (inklusive 100 % der eigenen Gewinne). Das Paket liefert den Käufern alles schlüsselfertig: Das E-Book (PDF & ePub), eine hochkonvertierende HTML-Verkaufsseite, das offizielle MRR-Zertifikat und ein fertiges Marketing-Kit. WARUM DIESES PRODUKT EXTREM GUT KONVERTIERT: Die Nische brennt! Jeder spricht aktuell über KI-Tools wie Suno. Zudem ist das Verkaufsargument für deine Leads ein absoluter "No-Brainer": Das Investment liegt bei 199 €. Der empfohlene Endkundenpreis für das Buch liegt bei 19,90 €. Deine Käufer müssen das Produkt also nur 10-mal verkaufen, um komplett im Plus zu sein! DEINE VORTEILE ALS AFFILIATE: High-Ticket Provisionen: 199 € Verkaufspreis bedeuten für dich ca. 80 € Marge pro Sale. Boomende Nische: "Geld verdienen im Internet" trifft auf den gigantischen "KI-Trend". Extrem geringe Stornoquote: Käufer laden sich das Lizenz-Archiv samt Quellcode herunter, was Retouren minimiert. Premium Branding: Das edle, dunkle Tech-Design schafft sofort massives Vertrauen und treibt die Conversions in die Höhe. Hol dir jetzt deinen Promo-Link und verdiene an der KI-Goldgräberstimmung mit!
 
 ## 2. Links
 
@@ -82,6 +70,20 @@ language: "de"
 - **Page word count:** 263
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+> Überspringe die wochenlange Produkterstellung. Sichere dir die offizielle Master Resell Rights (MRR) Lizenz für den Bestseller-Guide "AI Music Mastery" und behalte 100 % der Einnahmen.
+> Wichtiger Hinweis (Digistore24 Compliance): Dies ist ein reines, mathematisches Rechenbeispiel. Wir garantieren ausdrücklich keine festen Einnahmen oder Gewinne. Dein tatsächlicher Erfolg hängt vollständig von deinen eigenen Marketingmaßnahmen, deinem Traffic und deiner Zielgruppe ab.
+
+### 3c. Cautions
+
+> Der Schutz Ihrer Daten ist uns wichtig. Wir erheben auf dieser Seite keine persönlichen Daten. Wenn Sie auf den Kauf-Button klicken, werden Sie zu Digistore24 weitergeleitet. Dort gelten die Datenschutzbestimmungen der Digistore24 GmbH.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56894-g1.webp
+- assets/products/56894-g2.webp
 
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 

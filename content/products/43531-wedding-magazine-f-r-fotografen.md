@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h2>Ein Wedding Guide im Magazin Stil für dich und deine Brautpaare: 42-Seiten Canva-Design-Vorlage inklusive vorgefertigter Texte (individualisierbar) – purer Mehrwert und Inspiration für deine Kunden.</h2>
-</div>
-<div>
-<div>
-<p> </p>
-<div>
-<div>
-<div>Im Gegensatz zu deinen Kunden hast du schon viele Hochzeiten gesehen. Du kennst die Herausforderungen und weißt was wichtig ist, damit die Fotos so werden, wie du und deine Kunden sie sich vorstellen. Die Verantwortung liegt bei uns Fotograf*innen, unsere Paare aufzuklären. <strong>Mach es dir leicht, nutze unsere Texte und unser Design, du musst nur deine Fotos einfügen.</strong></div>
-<div> </div>
-</div>
-<div>
-<div><strong>Der Wedding Guide ist perfekt für dein Hochzeitsbusiness: 42 Seiten vollgepackt mit Informationen rund um die Fotos am Hochzeitstag.</strong> Das Beste ist, dass du den Guide ganz einfach in Canva bearbeiten kannst. Canva ist kostenlos und sehr einfach zu bedienen. Es sind keine Photoshop oder InDesign Fähigkeiten nötig, um Fotos auszutauschen und Texte anzupassen. <strong>Du kannst ihn bearbeiten, als PDF verschicken oder sogar drucken und deinen Paaren zur Verfügung stellen.</strong></div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Ein Wedding Guide im Magazin Stil für dich und deine Brautpaare: 42-Seiten Canva-Design-Vorlage inklusive vorgefertigter Texte (individualisierbar) – purer Mehrwert und Inspiration für deine Kunden. Im Gegensatz zu deinen Kunden hast du schon viele Hochzeiten gesehen. Du kennst die Herausforderungen und weißt was wichtig ist, damit die Fotos so werden, wie du und deine Kunden sie sich vorstellen. Die Verantwortung liegt bei uns Fotograf*innen, unsere Paare aufzuklären. Mach es dir leicht, nutze unsere Texte und unser Design, du musst nur deine Fotos einfügen. Der Wedding Guide ist perfekt für dein Hochzeitsbusiness: 42 Seiten vollgepackt mit Informationen rund um die Fotos am Hochzeitstag. Das Beste ist, dass du den Guide ganz einfach in Canva bearbeiten kannst. Canva ist kostenlos und sehr einfach zu bedienen. Es sind keine Photoshop oder InDesign Fähigkeiten nötig, um Fotos auszutauschen und Texte anzupassen. Du kannst ihn bearbeiten, als PDF verschicken oder sogar drucken und deinen Paaren zur Verfügung stellen.
 
 ## 2. Links
 

@@ -41,35 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Baby oder Kleinkind schläft zu wenig, wacht häufig auf oder schläft sehr schlecht ein?</p>
-<p>Im eBook „Durchschlafen lernen - aber bindungsorientiert!“ zeigt Sarah Mann, sechsfache Mama und zertifizierte Babyschlafberaterin, wie man seinem Baby oder Kleinkind sanft und effektiv das Durchschlafen beibringen kannst.</p>
-<p>Darüber hinaus gibt es altersspezifische Infos und Schlaftipps zu jedem einzelnen Entwicklungsschritt und den damit verbundenen, typischen Schlafregressionen.</p>
-<p>Dieser wunderbare, 270 Seiten-starken Ratgeber ist ein perfekter Wegbegleiter, um unruhige Phasen zu meistern und endlich den Traum vom Durchschlafen zu erfüllen!</p>
-<p>Folgende Inhalte hat das Buch: </p>
-<ul>
-<li>Optimale Tagesabläufe, je nach Nickerchen-Anzahl</li>
-<li>Ausführliche Beschreibung der entwicklungsbedingten Schlafregressionen/-probleme während der Entwicklungsschübe (0-2 Jahre)</li>
-<li>Altersgerechte Lösungsstrategien für jede Phase</li>
-<li>Viele persönliche, ehrliche und authentische Ehrfahrungs-Berichte einer fünffachen, herzzentrierten Mama</li>
-<li>Genaue Beschreibung aller gängigen Schlaflernmethoden mit Empfehlungen für Alter, Persönlichkeit und Erziehungseinstellungen</li>
-<li>Ein unbekanntes bindungsorientiertes Schlaflernprogramm</li>
-<li>Wichtige Übersichten zu Schlafbedarf, Nickerchen, Dauer der Wachphasen etc.</li>
-<li>Nickerchen-Umstellungen meistern (von 3 auf 2 etc.)</li>
-<li>Einfacher und klarer 5-Schritte-Plan, damit Du Deinem Baby/Kleinkind möglichst sanft das Durchschlafen beibringst</li>
-</ul>
-<p>Dazu viele äußerst hilfreiche Hintergrundinformationen wie z.B.:</p>
-<ul>
-<li>Tagesschläfchen-Analyse</li>
-<li>Den natürliche Bio-Rhythmus Deines Babys/Kleinkinds herausfinden und unterstützen</li>
-<li>Nächtliche Entwöhnung (ab wann und wie?)</li>
-<li>Schlafphasen und Schlafprobleme verstehen</li>
-<li>Rituale und Routinen einführen</li>
-<li>Jede Menge Antworten auf heimliche Zweifel und häufige Fragen nach Erfolgsaussichten, Dauer und vieles mehr! :-)</li>
-</ul>
-<p>-&gt; Und als <strong>EXTRA-BONUS</strong> das <strong>Arbeitsheft</strong> "<em>Unser Plan zum Durchschlafen</em>"</p>
-<p> </p>
-<p> </p>
-<p><span style="background-color:#ffff99;">PS: Frage uns nach einem individuellen Rabattcode für deine Community/E-Mail-Liste/etc.</span></p>
+**Vendor's marketplace description:** Baby oder Kleinkind schläft zu wenig, wacht häufig auf oder schläft sehr schlecht ein? Im eBook „Durchschlafen lernen - aber bindungsorientiert!“ zeigt Sarah Mann, sechsfache Mama und zertifizierte Babyschlafberaterin, wie man seinem Baby oder Kleinkind sanft und effektiv das Durchschlafen beibringen kannst. Darüber hinaus gibt es altersspezifische Infos und Schlaftipps zu jedem einzelnen Entwicklungsschritt und den damit verbundenen, typischen Schlafregressionen. Dieser wunderbare, 270 Seiten-starken Ratgeber ist ein perfekter Wegbegleiter, um unruhige Phasen zu meistern und endlich den Traum vom Durchschlafen zu erfüllen! Folgende Inhalte hat das Buch: Optimale Tagesabläufe, je nach Nickerchen-Anzahl Ausführliche Beschreibung der entwicklungsbedingten Schlafregressionen/-probleme während der Entwicklungsschübe (0-2 Jahre) Altersgerechte Lösungsstrategien für jede Phase Viele persönliche, ehrliche und authentische Ehrfahrungs-Berichte einer fünffachen, herzzentrierten Mama Genaue Beschreibung aller gängigen Schlaflernmethoden mit Empfehlungen für Alter, Persönlichkeit und Erziehungseinstellungen Ein unbekanntes bindungsorientiertes Schlaflernprogramm Wichtige Übersichten zu Schlafbedarf, Nickerchen, Dauer der Wachphasen etc. Nickerchen-Umstellungen meistern (von 3 auf 2 etc.) Einfacher und klarer 5-Schritte-Plan, damit Du Deinem Baby/Kleinkind möglichst sanft das Durchschlafen beibringst Dazu viele äußerst hilfreiche Hintergrundinformationen wie z.B.: Tagesschläfchen-Analyse Den natürliche Bio-Rhythmus Deines Babys/Kleinkinds herausfinden und unterstützen Nächtliche Entwöhnung (ab wann und wie?) Schlafphasen und Schlafprobleme verstehen Rituale und Routinen einführen Jede Menge Antworten auf heimliche Zweifel und häufige Fragen nach Erfolgsaussichten, Dauer und vieles mehr! :-) -> Und als EXTRA-BONUS das Arbeitsheft " Unser Plan zum Durchschlafen " PS: Frage uns nach einem individuellen Rabattcode für deine Community/E-Mail-Liste/etc.
 
 ## 2. Links
 

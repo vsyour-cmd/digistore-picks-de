@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb eine deutschsprachige Vorlese-Bilderbuchreihe für Kinder von 5 bis 8 Jahren und ihre Familien.</p>
-<p>Das Angebot:<br />• Sechs digitale PDF-Bände über Körper, Ernährung, Bewegung, Schlaf, Gefühle und das Immunsystem<br />• Warme Vorlesegeschichten mit Aquarellbildern, Schlau-Seiten und Mitmach-Ideen<br />• Jeder Band kostet 9,90 Euro<br />• Eine gemeinsame Verkaufsseite mit Leseproben und allen Bänden</p>
-<p>Deine Vorteile:<br />• 50 Prozent Affiliate-Provision auf jeden Band<br />• Automatische Partnerschaftsfreigabe<br />• Die Bände 2 bis 6 werden zusätzlich zum Bewerben freigeschaltet<br />• Coverbilder, Texte und Vermarktungsleitlinien auf der Affiliate-Support-Seite</p>
-<p>Zielgruppe: Eltern, Großeltern und Bezugspersonen im deutschsprachigen Raum. Bitte transparent als Werbung kennzeichnen und keine Heil-, Diagnose- oder Therapieversprechen verwenden.</p>
+**Vendor's marketplace description:** Bewirb eine deutschsprachige Vorlese-Bilderbuchreihe für Kinder von 5 bis 8 Jahren und ihre Familien. Das Angebot: • Sechs digitale PDF-Bände über Körper, Ernährung, Bewegung, Schlaf, Gefühle und das Immunsystem • Warme Vorlesegeschichten mit Aquarellbildern, Schlau-Seiten und Mitmach-Ideen • Jeder Band kostet 9,90 Euro • Eine gemeinsame Verkaufsseite mit Leseproben und allen Bänden Deine Vorteile: • 50 Prozent Affiliate-Provision auf jeden Band • Automatische Partnerschaftsfreigabe • Die Bände 2 bis 6 werden zusätzlich zum Bewerben freigeschaltet • Coverbilder, Texte und Vermarktungsleitlinien auf der Affiliate-Support-Seite Zielgruppe: Eltern, Großeltern und Bezugspersonen im deutschsprachigen Raum. Bitte transparent als Werbung kennzeichnen und keine Heil-, Diagnose- oder Therapieversprechen verwenden.
 
 ## 2. Links
 

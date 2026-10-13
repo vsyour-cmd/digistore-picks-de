@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2 style="text-align:center;"><strong><span style="color:#00ffff;">T</span>ik<span style="color:#ff0000;">T</span>ok – Cashflow</strong></h2>
-<p>Bewirb <strong>„TikTok – Cashflow“</strong>, ein digitales Produkt rund um TikTok, Reichweitenaufbau und strategische Nutzung der Plattform.</p>
-<p>Als Affiliate profitierst du von:</p>
-<ul>
-<li>
-<p>einem stark nachgefragten TikTok-Thema</p>
-</li>
-<li>
-<p>praxisnahen Inhalten für Einsteiger &amp; Creator</p>
-</li>
-<li>
-<p><strong>attraktiven Provisionen inklusive Upsell-Potenzial von bis zu 180 € pro Verkauf</strong></p>
-</li>
-</ul>
-<p>Ideal für Affiliates, Marketer und Creator, die TikTok-bezogene Produkte bewerben möchten.</p>
+**Vendor's marketplace description:** T ik T ok – Cashflow Bewirb „TikTok – Cashflow“ , ein digitales Produkt rund um TikTok, Reichweitenaufbau und strategische Nutzung der Plattform. Als Affiliate profitierst du von: einem stark nachgefragten TikTok-Thema praxisnahen Inhalten für Einsteiger & Creator attraktiven Provisionen inklusive Upsell-Potenzial von bis zu 180 € pro Verkauf Ideal für Affiliates, Marketer und Creator, die TikTok-bezogene Produkte bewerben möchten.
 
 ## 2. Links
 

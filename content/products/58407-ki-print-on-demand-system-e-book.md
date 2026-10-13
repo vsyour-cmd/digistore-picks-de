@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>KI Print-on-Demand System – Geld verdienen ohne Gesicht zu zeigen</strong></p>
-<p>Lerne Schritt für Schritt, wie du mit KI eigene Designs für T-Shirts, Hoodies, Tassen und Poster erstellst und online vermarktest – ohne selbst vor der Kamera stehen zu müssen.</p>
-<p>Du bekommst praktische Anleitungen, KI-Prompts, Marketing-Strategien und einen klaren 30-Tage-Plan für deinen Start ins Print-on-Demand-Business.</p>
-<p> </p>
-<p>
+**Vendor's marketplace description:** KI Print-on-Demand System – Geld verdienen ohne Gesicht zu zeigen Lerne Schritt für Schritt, wie du mit KI eigene Designs für T-Shirts, Hoodies, Tassen und Poster erstellst und online vermarktest – ohne selbst vor der Kamera stehen zu müssen. Du bekommst praktische Anleitungen, KI-Prompts, Marketing-Strategien und einen klaren 30-Tage-Plan für deinen Start ins Print-on-Demand-Business.
 
 ## 2. Links
 

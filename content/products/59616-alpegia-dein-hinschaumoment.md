@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Alpegia - Dein Hinschaumoment ist ein digitales Workbook für Menschen, die innehalten, ehrlich hinschauen und mehr Klarheit über ihre aktuelle Lebenssituation gewinnen möchten. </p>
-<p>Das Workbook begleitet dich Schritt für Schritt durch Selbstreflektion, Bestandsaufnahme, Loslassen, Wünsche, Ängste und Entscheidungen, bis hin zu einem konkreten nächsten Schritt und deinem persönlichen Kompass für den weiteren Weg. </p>
-<p>Das Produkt:</p>
-<p>- 42 Seiten inkl. Titelblatt und Bonus</p>
-<p>- digitales PDF Workbook</p>
-<p>- direkt digital mit interaktiven Ausfüllfeldern nutzbar      oder alternativ auch ausdruckbar und handschriftlich      ausfüllbar</p>
-<p>Verkaufspreis: 17,- €</p>
+**Vendor's marketplace description:** Alpegia - Dein Hinschaumoment ist ein digitales Workbook für Menschen, die innehalten, ehrlich hinschauen und mehr Klarheit über ihre aktuelle Lebenssituation gewinnen möchten. Das Workbook begleitet dich Schritt für Schritt durch Selbstreflektion, Bestandsaufnahme, Loslassen, Wünsche, Ängste und Entscheidungen, bis hin zu einem konkreten nächsten Schritt und deinem persönlichen Kompass für den weiteren Weg. Das Produkt: - 42 Seiten inkl. Titelblatt und Bonus - digitales PDF Workbook - direkt digital mit interaktiven Ausfüllfeldern nutzbar oder alternativ auch ausdruckbar und handschriftlich ausfüllbar Verkaufspreis: 17,- €
 
 ## 2. Links
 

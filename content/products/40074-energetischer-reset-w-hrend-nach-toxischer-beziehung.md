@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><span style="color:#ff00ff;">KATJA AMBERG</span></h3>
-<h3><span style="color:#ff00ff;">ENERGETISCHER RESET während/ nach TOXISCHER BEZIEHUNG</span></h3>
-<div>
-<div>
-<div>
-<div>
-<p>ENERGETISCHER RESET während und nach TOXISCHER BEZIEHUNG | Katja Amberg</p>
-<p>Fühlst Du Dich unlösbar mit Deinem Partner /Ex Partner verbunden? Egal was Du machst, Du kommst einfach nicht von ihm los? Hast Du das Gefühl, das Du wie auf diesen Menschen gechipt oder programmiert bist? Fühlt es sich an, als ob ein Fluch auf Dir liegt, der Dich einfach nicht loskommen lässt ? Dann ist dieser Energetische Reset genau das Richtige für Dich. Es gibt unterschiedliche toxische Beziehungen. Es gibt Beziehungen, die sind ein wenig toxisch und es gibt Beziehungen, die hoch toxisch sind und bei denen die „normale“ Energetische Trennung aus meinem Kurs „Raus aus toxischen Beziehungen-Hin zur Liebe“ einfach nicht ausreicht. Dieser Energetische Reset ist die Weiterentwicklung, die sich aus der Arbeit mit meinem Klienten ergeben hat, die aus sehr schwer lösbaren Beziehungen kamen. Willst Du endlich wirklich frei werden? Willst Du endlich richtig und vollständig loslassen? Möchtest Du nicht nur im Kopf loslassen, sondern mit Deinem ganzem Gefühl?</p>
-</div>
-</div>
-</div>
-<div>
-<ul>
-<li>Vertauschte Energien</li>
-<li>Trauma-Bänder und Verstrickungen</li>
-<li>Toxische Felder und Programmierungen</li>
-<li>Ahnenthemen</li>
-<li>Flüche</li>
-<li>Schwüre, Eide und Versprechen auflösen</li>
-<li>Drama-Programme</li>
-<li>Manipulationsebenen</li>
-</ul>
-<p>In dieser Tranceanwendung ist es möglich all diese Dinge zu lösen. Diese Tranceanwendung spricht nicht nur Dein Unterbewusstsein an, sondern wir nehmen Dein Überbewusstsein mit ins Boot, welches die Lösung der Themen für Dich vornehmen kann. Es ist eine besondere Vorgehensweise in der Trance, die tiefgreifende Veränderungen erzielen kann.</p>
-</div>
-</div>
+**Vendor's marketplace description:** KATJA AMBERG ENERGETISCHER RESET während/ nach TOXISCHER BEZIEHUNG ENERGETISCHER RESET während und nach TOXISCHER BEZIEHUNG | Katja Amberg Fühlst Du Dich unlösbar mit Deinem Partner /Ex Partner verbunden? Egal was Du machst, Du kommst einfach nicht von ihm los? Hast Du das Gefühl, das Du wie auf diesen Menschen gechipt oder programmiert bist? Fühlt es sich an, als ob ein Fluch auf Dir liegt, der Dich einfach nicht loskommen lässt ? Dann ist dieser Energetische Reset genau das Richtige für Dich. Es gibt unterschiedliche toxische Beziehungen. Es gibt Beziehungen, die sind ein wenig toxisch und es gibt Beziehungen, die hoch toxisch sind und bei denen die „normale“ Energetische Trennung aus meinem Kurs „Raus aus toxischen Beziehungen-Hin zur Liebe“ einfach nicht ausreicht. Dieser Energetische Reset ist die Weiterentwicklung, die sich aus der Arbeit mit meinem Klienten ergeben hat, die aus sehr schwer lösbaren Beziehungen kamen. Willst Du endlich wirklich frei werden? Willst Du endlich richtig und vollständig loslassen? Möchtest Du nicht nur im Kopf loslassen, sondern mit Deinem ganzem Gefühl? Vertauschte Energien Trauma-Bänder und Verstrickungen Toxische Felder und Programmierungen Ahnenthemen Flüche Schwüre, Eide und Versprechen auflösen Drama-Programme Manipulationsebenen In dieser Tranceanwendung ist es möglich all diese Dinge zu lösen. Diese Tranceanwendung spricht nicht nur Dein Unterbewusstsein an, sondern wir nehmen Dein Überbewusstsein mit ins Boot, welches die Lösung der Themen für Dich vornehmen kann. Es ist eine besondere Vorgehensweise in der Trance, die tiefgreifende Veränderungen erzielen kann.
 
 ## 2. Links
 

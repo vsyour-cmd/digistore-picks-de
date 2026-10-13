@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>MPU KONKRET bietet die <strong>komplette Vorbereitung</strong> auf die MPU.  </p>
-<p>Zielgruppe sind Menschen, die eine MPU absolvieren müssen und eine erfolgreiche, schnelle und bequeme Vorbereitung <strong>KOMPLETT ONLINE</strong> machen möchten. </p>
-<p>Die Online Kurse sind nach den neusten Standards der Online-Wissensvermittlung entwickelt und beruhen auf über <strong>10 Jahre Erfahrung</strong> in der MPU Vorbereitung vor Ort. Im MPU Konkret Team befinden sich nicht nur MPU Coaches, sondern auch <strong>Psychologen</strong> und Psychotherapeuten.  </p>
-<p>Werben kannst du für den Kurs:  „<em>FLEX3 - Drogen MPU</em>“. In<strong> 3 Modulen</strong> können sich Kunden mit der FLEX3-Methode perfekt auf die MPU vorbereiten:</p>
-<ol>
-<li><strong>Basiswissen und Organisation</strong>
-<div>Der Kunde bekommt einen Überblick über alle Infos zur MPU – damit er nichts vergisst und wertvolle Zeit verliert!</div>
-</li>
-<li><strong>Dein Fall - Dein roter Faden</strong>
-<div>Der Kunde kann seinen Fall psychologengerecht für die MPU aufarbeiten.</div>
-</li>
-<li><strong>Den Gutachter überzeugen</strong>
-<div>MPU Simulationen, MPU Beispiele und viele MPU Fragen und Antworten helfen dem Kunden, sich optimal vorzubereiten. </div>
-<br />Der Kurs schließt mit einer Bescheinigung, die in der Medizinisch Psychologischen Untersuchung vorgelegt werden kann.<br /><br />Mit den Online Kursen von MPU KONKRET kannst du anderen Menschen helfen, einen <strong>preisgünstigen und dennoch sicheren Weg zurück zum Führerschein</strong> zu ermöglichen. Gleichzeitig bekommst du <strong>30% Provision</strong> für die Vermittlung!</li>
-</ol>
+**Vendor's marketplace description:** MPU KONKRET bietet die komplette Vorbereitung auf die MPU. Zielgruppe sind Menschen, die eine MPU absolvieren müssen und eine erfolgreiche, schnelle und bequeme Vorbereitung KOMPLETT ONLINE machen möchten. Die Online Kurse sind nach den neusten Standards der Online-Wissensvermittlung entwickelt und beruhen auf über 10 Jahre Erfahrung in der MPU Vorbereitung vor Ort. Im MPU Konkret Team befinden sich nicht nur MPU Coaches, sondern auch Psychologen und Psychotherapeuten. Werben kannst du für den Kurs: „ FLEX3 - Drogen MPU “. In 3 Modulen können sich Kunden mit der FLEX3-Methode perfekt auf die MPU vorbereiten: Basiswissen und Organisation Der Kunde bekommt einen Überblick über alle Infos zur MPU – damit er nichts vergisst und wertvolle Zeit verliert! Dein Fall - Dein roter Faden Der Kunde kann seinen Fall psychologengerecht für die MPU aufarbeiten. Den Gutachter überzeugen MPU Simulationen, MPU Beispiele und viele MPU Fragen und Antworten helfen dem Kunden, sich optimal vorzubereiten. Der Kurs schließt mit einer Bescheinigung, die in der Medizinisch Psychologischen Untersuchung vorgelegt werden kann. Mit den Online Kursen von MPU KONKRET kannst du anderen Menschen helfen, einen preisgünstigen und dennoch sicheren Weg zurück zum Führerschein zu ermöglichen. Gleichzeitig bekommst du 30% Provision für die Vermittlung!
 
 ## 2. Links
 

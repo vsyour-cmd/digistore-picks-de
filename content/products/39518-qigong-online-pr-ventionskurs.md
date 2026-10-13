@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Jetzt endlich! Anerkannter Qigong Online Präventionskurs.</strong> <br />In diesem Kurs werden gesunde Bewegungen vermittelt. Teilnehmende am Kurs lernen besser mit Stressbelastungen umzugehen und verbessern den allgemeinen Gesundheitszustand. <br />Die Kursstunden sind professionell gedreht worden und liegen in hochwertiger Qualität vor. <br />Die Krankenkassen erstatten bis zu 100% der Kosten für die Teilnehmenden.<br />Kurs wird in 10 Kurseinheiten à 60 Minuten vermittelt.</p>
-<p>An dem Qigong Kurs kann jede und jeder ohne Vorerfahrung teilnehmen.<br />Kursteilnehmende werden betreut und können jederzeit Fragen stellen.</p>
-<p>Erstellt wurde der Kurs von Tai Chi bewegt. Tai Chi und Qigong Schule in Frankfurt am Main mit wachsendem Onlineangebot.</p>
-<div> Kosten 110 €. 40% Provision</div>
+**Vendor's marketplace description:** Jetzt endlich! Anerkannter Qigong Online Präventionskurs. In diesem Kurs werden gesunde Bewegungen vermittelt. Teilnehmende am Kurs lernen besser mit Stressbelastungen umzugehen und verbessern den allgemeinen Gesundheitszustand. Die Kursstunden sind professionell gedreht worden und liegen in hochwertiger Qualität vor. Die Krankenkassen erstatten bis zu 100% der Kosten für die Teilnehmenden. Kurs wird in 10 Kurseinheiten à 60 Minuten vermittelt. An dem Qigong Kurs kann jede und jeder ohne Vorerfahrung teilnehmen. Kursteilnehmende werden betreut und können jederzeit Fragen stellen. Erstellt wurde der Kurs von Tai Chi bewegt. Tai Chi und Qigong Schule in Frankfurt am Main mit wachsendem Onlineangebot. Kosten 110 €. 40% Provision
 
 ## 2. Links
 

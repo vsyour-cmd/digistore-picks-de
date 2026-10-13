@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit dem ousuca® Partnerprogramm zum Self Reliance Survival Camp (SRSC) kannst du ein passives Einkommen aufbauen.</p>
-<p>Bewerbe das eBook <strong><em>Trinkwasser Basiswissen für Outdoor und Notsituationen</em></strong> zum SRSC Survivalkurs.</p>
-<p><strong>Vorteile für Nutzer:</strong></p>
-<ul><li>157 Seiten Trinkwasser Basiswissen, das jeder Outdoor-Enthusiast kennen sollte</li>
-<li>Über 100 praktische Anwendungen</li>
-<li>95 veranschaulichende Bilder</li>
-</ul><p><strong>Deine Vorteile als Affiliate:</strong></p>
-<ul><li>50 % für jeden Verkauf</li>
-<li>ousuca® SRSC eBook Branding und somit hoher Wiedererkennungswert</li>
-<li>Upsells (geplant) und weitere Verdienstmöglichkeiten mit ousuca® durch Abos zum SRSC möglich</li>
-</ul><p>Werde Partner von ousuca® und vom ersten umfangreichen Online-Survival-Kurs und den einzeln angeboteten Produkten wie die SRSC Survival eBooks und baue dir ein passives Einkommen auf.</p>
+**Vendor's marketplace description:** Mit dem ousuca® Partnerprogramm zum Self Reliance Survival Camp (SRSC) kannst du ein passives Einkommen aufbauen. Bewerbe das eBook Trinkwasser Basiswissen für Outdoor und Notsituationen zum SRSC Survivalkurs. Vorteile für Nutzer: 157 Seiten Trinkwasser Basiswissen, das jeder Outdoor-Enthusiast kennen sollte Über 100 praktische Anwendungen 95 veranschaulichende Bilder Deine Vorteile als Affiliate: 50 % für jeden Verkauf ousuca® SRSC eBook Branding und somit hoher Wiedererkennungswert Upsells (geplant) und weitere Verdienstmöglichkeiten mit ousuca® durch Abos zum SRSC möglich Werde Partner von ousuca® und vom ersten umfangreichen Online-Survival-Kurs und den einzeln angeboteten Produkten wie die SRSC Survival eBooks und baue dir ein passives Einkommen auf.
 
 ## 2. Links
 

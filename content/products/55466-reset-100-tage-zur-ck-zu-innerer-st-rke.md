@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2> RESET 100 – Produktübersicht für Affiliates</h2>
-<p><strong>RESET 100</strong> ist ein digitales 100-Tage-Selbstführungsprogramm zur Unterstützung von Menschen, die mehr Struktur, Klarheit und bewusste Alltagsroutinen entwickeln möchten.</p>
-<p>Das Programm bietet eine klare Schritt-für-Schritt-Struktur über 100 Tage und richtet sich an Personen, die ihre Gewohnheiten reflektieren, ihren Alltag ordnen und ihre Selbstorganisation verbessern wollen.<br />Die Inhalte sind ruhig aufgebaut, leicht umsetzbar und auf Alltagstauglichkeit ausgelegt.</p>
-<hr />
-<h2> Leistungsumfang für Käufer</h2>
-<p>Käufer erhalten ein digitales Begleitprogramm bestehend aus:</p>
-<p>• <strong>4 aufeinander aufbauenden Phasen</strong> (Tag 1–100)<br />• <strong>15 Wochenmodule</strong> als strukturierender Leitfaden<br />• <strong>18 Audio-Sessions</strong> (17 Haupt-Audios + 1 Bonus-Audio)<br />• <strong>24 begleitende PDFs</strong>, darunter:<br />– Start-Dokumente<br />– Wochen-PDFs<br />– Phasen-PDFs<br />– Abschluss-PDF<br />– Bonus-PDF „Notfallplan für herausfordernde Tage“</p>
-<p>Alle Inhalte sind klar gegliedert und so konzipiert, dass sie schrittweise im Alltag angewendet werden können.</p>
-<hr />
-<h2> Die 4 Programm-Phasen</h2>
-<p><strong>Phase 1 (Tag 1–25) – Stabilität im Alltag</strong><br />Fokus auf erste Routinen, bewusste Selbstbeobachtung und Reduktion von Alltagsüberforderung.</p>
-<p><strong>Phase 2 (Tag 26–50) – Struktur &amp; Selbstorganisation</strong><br />Aufbau fester Tagesstrukturen, bewusster Umgang mit Ablenkungen und Stärkung der eigenen Verlässlichkeit.</p>
-<p><strong>Phase 3 (Tag 51–75) – Selbstbild &amp; persönliche Entwicklung</strong><br />Reflexion des eigenen Auftretens, Gewohnheiten und Umfelds sowie Arbeit an langfristigen Verhaltensmustern.</p>
-<p><strong>Phase 4 (Tag 76–100) – Zukunftsorientierte Routinen</strong><br />Festigung neuer Standards, nachhaltige Alltagsroutinen und Abschluss der 100-Tage-Strukturphase.</p>
-<hr />
-<h2> Bonus-Inhalte</h2>
-<p>Zusätzlich enthalten:</p>
-<p>• <strong>Bonus-Audio:</strong> „Wenn du kurz davor bist aufzugeben“<br />• <strong>Bonus-PDF:</strong> „Notfallplan für herausfordernde Tage“</p>
-<p>Diese Inhalte dienen als zusätzliche Orientierungshilfe in schwierigen Momenten.</p>
-<hr />
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** RESET 100 – Produktübersicht für Affiliates RESET 100 ist ein digitales 100-Tage-Selbstführungsprogramm zur Unterstützung von Menschen, die mehr Struktur, Klarheit und bewusste Alltagsroutinen entwickeln möchten. Das Programm bietet eine klare Schritt-für-Schritt-Struktur über 100 Tage und richtet sich an Personen, die ihre Gewohnheiten reflektieren, ihren Alltag ordnen und ihre Selbstorganisation verbessern wollen. Die Inhalte sind ruhig aufgebaut, leicht umsetzbar und auf Alltagstauglichkeit ausgelegt. Leistungsumfang für Käufer Käufer erhalten ein digitales Begleitprogramm bestehend aus: • 4 aufeinander aufbauenden Phasen (Tag 1–100) • 15 Wochenmodule als strukturierender Leitfaden • 18 Audio-Sessions (17 Haupt-Audios + 1 Bonus-Audio) • 24 begleitende PDFs , darunter: – Start-Dokumente – Wochen-PDFs – Phasen-PDFs – Abschluss-PDF – Bonus-PDF „Notfallplan für herausfordernde Tage“ Alle Inhalte sind klar gegliedert und so konzipiert, dass sie schrittweise im Alltag angewendet werden können. Die 4 Programm-Phasen Phase 1 (Tag 1–25) – Stabilität im Alltag Fokus auf erste Routinen, bewusste Selbstbeobachtung und Reduktion von Alltagsüberforderung. Phase 2 (Tag 26–50) – Struktur & Selbstorganisation Aufbau fester Tagesstrukturen, bewusster Umgang mit Ablenkungen und Stärkung der eigenen Verlässlichkeit. Phase 3 (Tag 51–75) – Selbstbild & persönliche Entwicklung Reflexion des eigenen Auftretens, Gewohnheiten und Umfelds sowie Arbeit an langfristigen Verhaltensmustern. Phase 4 (Tag 76–100) – Zukunftsorientierte Routinen Festigung neuer Standards, nachhaltige Alltagsroutinen und Abschluss der 100-Tage-Strukturphase. Bonus-Inhalte Zusätzlich enthalten: • Bonus-Audio: „Wenn du kurz davor bist aufzugeben“ • Bonus-PDF: „Notfallplan für herausfordernde Tage“ Diese Inhalte dienen als zusätzliche Orientierungshilfe in schwierigen Momenten.
 
 ## 2. Links
 

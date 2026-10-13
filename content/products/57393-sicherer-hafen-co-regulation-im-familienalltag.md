@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In diesen 3 Wochen begleite ich dich dabei, dich selbst als sicheren Hafen für dein Kind zu (er)kennen.</p>
-<p>Ein 3-Wochen WhatsApp-Programm, das dich daran erinnert, dass du schon alles in dir trägst, was es braucht, um dich und dein Kind sicher zu fühlen.</p>
-<p><strong>Was dich erwartet:</strong></p>
-<p>Tägliche Nachrichten in dein WhatsApp.</p>
-<p>Über 3 Wochen erhältst du 18 Impulse mit:</p>
-<ul>
-<li>wichtigen Inputs rund ums Nervensystem &amp; Polyvagal-Theorie</li>
-<li>einfachen Co-Regulations-Tools für den Alltag</li>
-<li>kleinen Reflexionsfragen für dich als Mama</li>
-<li>konkreten Übungen, die du gleich mit deinem Kind leben kannst</li>
-</ul>
-<p>Keine Vorkenntnisse nötig. Nur die Bereitschaft, dich selbst ein Stück näher kennenzulernen. Zeitaufwand: wenige Minuten am Tag.</p>
-<p> </p>
-<p><strong>Woche 1: Verstehen statt kontrollieren</strong></p>
-<p>Was Neurozeption ist, warum “Verhalten” nie das eigentliche Problem ist, und wie unser Nervensystem still im Hintergrund jede Reaktion unseres Kindes mitbestimmt.</p>
-<p> </p>
-<p><strong>Woche 2: Der Körper als Anker</strong></p>
-<p>Wie Sicherheit sich im Körper anfühlt, bei dir und bei deinem Kind. Welche kleinen, alltäglichen Dinge unserem Nervensystem signalisieren: Ich bin safe.</p>
-<p> </p>
-<p><strong>Woche 3: Co-Regulation leben</strong></p>
-<p>Wie du in stressigen Momenten zum Anker für dein Kind wirst, nicht durch Perfektion, sondern durch Präsenz. Und wie du dieses Vertrauen langfristig in eurem Alltag verankerst.</p>
+**Vendor's marketplace description:** In diesen 3 Wochen begleite ich dich dabei, dich selbst als sicheren Hafen für dein Kind zu (er)kennen. Ein 3-Wochen WhatsApp-Programm, das dich daran erinnert, dass du schon alles in dir trägst, was es braucht, um dich und dein Kind sicher zu fühlen. Was dich erwartet: Tägliche Nachrichten in dein WhatsApp. Über 3 Wochen erhältst du 18 Impulse mit: wichtigen Inputs rund ums Nervensystem & Polyvagal-Theorie einfachen Co-Regulations-Tools für den Alltag kleinen Reflexionsfragen für dich als Mama konkreten Übungen, die du gleich mit deinem Kind leben kannst Keine Vorkenntnisse nötig. Nur die Bereitschaft, dich selbst ein Stück näher kennenzulernen. Zeitaufwand: wenige Minuten am Tag. Woche 1: Verstehen statt kontrollieren Was Neurozeption ist, warum “Verhalten” nie das eigentliche Problem ist, und wie unser Nervensystem still im Hintergrund jede Reaktion unseres Kindes mitbestimmt. Woche 2: Der Körper als Anker Wie Sicherheit sich im Körper anfühlt, bei dir und bei deinem Kind. Welche kleinen, alltäglichen Dinge unserem Nervensystem signalisieren: Ich bin safe. Woche 3: Co-Regulation leben Wie du in stressigen Momenten zum Anker für dein Kind wirst, nicht durch Perfektion, sondern durch Präsenz. Und wie du dieses Vertrauen langfristig in eurem Alltag verankerst.
 
 ## 2. Links
 

@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>EU AI Act Komplettpaket 2026/2027</strong></p>
-<p>Das Paket enthält <strong>9 digitale Arbeitshefte im PDF-Format</strong> mit Checklisten, Vorlagen, Mustertexten und praktischen Arbeitshilfen rund um die Umsetzung des EU AI Act.</p>
-<p><strong>Geeignet für:</strong> Selbstständige, KMU, Agenturen, Beratungen, Online-Shops, SaaS-Anbieter sowie Marketing-, HR-, IT- und Produktteams.</p>
-<p><strong>Enthaltene Themen:</strong></p>
-<ul>
-<li>Algorithmische Entscheidungen</li>
-<li>XAI &amp; Erklärbarkeit</li>
-<li>Generative KI</li>
-<li>Deepfake &amp; Synthetic Media</li>
-<li>Trainingsdaten</li>
-<li>Datenqualität</li>
-<li>Technische Dokumentation</li>
-<li>Transparenzpflichten</li>
-<li>KI-Risikomanagement</li>
-</ul>
-<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um <strong>digitale PDF-Arbeitshefte</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
-<p><strong>Verkaufspreis:</strong> 89,00 € einmalig<br /><strong>Affiliate-Provision:</strong> 30 %<br /><strong>Auslieferung:</strong> sofort nach dem Kauf als digitaler Download</p>
-<p>Ein klar erklärbares B2B-Produkt zu einem aktuell stark nachgefragten Thema – ideal für Zielgruppen rund um KI, Digitalisierung, Unternehmensführung und Compliance.</p>
+**Vendor's marketplace description:** EU AI Act Komplettpaket 2026/2027 Das Paket enthält 9 digitale Arbeitshefte im PDF-Format mit Checklisten, Vorlagen, Mustertexten und praktischen Arbeitshilfen rund um die Umsetzung des EU AI Act. Geeignet für: Selbstständige, KMU, Agenturen, Beratungen, Online-Shops, SaaS-Anbieter sowie Marketing-, HR-, IT- und Produktteams. Enthaltene Themen: Algorithmische Entscheidungen XAI & Erklärbarkeit Generative KI Deepfake & Synthetic Media Trainingsdaten Datenqualität Technische Dokumentation Transparenzpflichten KI-Risikomanagement Wichtig: Es handelt sich ausdrücklich um digitale PDF-Arbeitshefte und nicht um Software, einen Videokurs oder einen Mitgliederbereich. Verkaufspreis: 89,00 € einmalig Affiliate-Provision: 30 % Auslieferung: sofort nach dem Kauf als digitaler Download Ein klar erklärbares B2B-Produkt zu einem aktuell stark nachgefragten Thema – ideal für Zielgruppen rund um KI, Digitalisierung, Unternehmensführung und Compliance.
 
 ## 2. Links
 

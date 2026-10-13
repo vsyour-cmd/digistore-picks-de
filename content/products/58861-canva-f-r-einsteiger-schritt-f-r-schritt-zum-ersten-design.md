@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Du möchtest Canva nutzen, weißt aber noch nicht genau, wo du anfangen sollst? </strong></p>
-<p><strong><span style="color:#ff6600;">Dieser verständliche Einsteiger-Guide führt dich Schritt für Schritt durch die wichtigsten Grundlagen von Canva. Mit einfachen Erklärungen und vielen anschaulichen Screenshots lernst du die wichtigsten Funktionen kennen und kannst die einzelnen Schritte direkt selbst ausprobieren.</span></strong></p>
-<p>Digitaler Guide zum downloaden</p>
+**Vendor's marketplace description:** Du möchtest Canva nutzen, weißt aber noch nicht genau, wo du anfangen sollst? Dieser verständliche Einsteiger-Guide führt dich Schritt für Schritt durch die wichtigsten Grundlagen von Canva. Mit einfachen Erklärungen und vielen anschaulichen Screenshots lernst du die wichtigsten Funktionen kennen und kannst die einzelnen Schritte direkt selbst ausprobieren. Digitaler Guide zum downloaden
 
 ## 2. Links
 

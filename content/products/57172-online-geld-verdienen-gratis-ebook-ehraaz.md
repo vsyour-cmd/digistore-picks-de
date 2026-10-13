@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><u>Heutzutage gibt es viele verschiedene Möglichkeiten, um online Geld zu verdienen. Viele haben deshalb das Problem, dass sie einfach nicht wissen, wie sie nun am besten anfangen sollen....</u></strong></p>
-<p>In diesem eBook möchte ich dir einfach darüber <strong>Klarheit </strong>verschaffen wie du am besten online Geld verdienen kannst. </p>
-<p>Das eBook bekommst du <strong>sofort </strong>nach der Bestellung an deine E-Mail Adresse zugeschickt. (<strong>Achte darauf die EMAIL ADRESSE RICHTIG anzugeben</strong> - Keine Sorge, ich betreibe kein nerviges E-Mail Marketing)</p>
-<p><strong><span style="background-color:#00ff00;">Hinweis:</span> Das eBook ist komplett Gratis - Kein Abo ! </strong></p>
+**Vendor's marketplace description:** Heutzutage gibt es viele verschiedene Möglichkeiten, um online Geld zu verdienen. Viele haben deshalb das Problem, dass sie einfach nicht wissen, wie sie nun am besten anfangen sollen.... In diesem eBook möchte ich dir einfach darüber Klarheit verschaffen wie du am besten online Geld verdienen kannst. Das eBook bekommst du sofort nach der Bestellung an deine E-Mail Adresse zugeschickt. ( Achte darauf die EMAIL ADRESSE RICHTIG anzugeben - Keine Sorge, ich betreibe kein nerviges E-Mail Marketing) Hinweis: Das eBook ist komplett Gratis - Kein Abo !
 
 ## 2. Links
 

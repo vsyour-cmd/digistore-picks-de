@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Produktivität und Effektivität steigern und endlich mehr schaffen! - </strong><strong>Schaffe ab sofort in 2 Wochen mehr als in 2 Monaten!</strong></h2>
-<p><strong>Für alle Affiliates eine klasse Chance.</strong> Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann <strong>30 - 50% Provision</strong> gibt.</p>
-<p><strong>Insgesamt können damit über 500 Euro an Provision verdient werden.</strong></p>
-<p>Landing Page und Webinar konvertieren sehr gut und es wird immer weiter in kleinen Schritten optimiert.</p>
-<p>Im Programm ist folgendes enthalten:</p>
-<ul>
-<li>... wie du deine Produktivität ab <strong>sofort drastisch steigerst</strong> und somit in 2 Wochen mehr schaffst, als früher in 2 Monaten!</li>
-<li>... wie <strong>in weniger Zeit viel mehr schaffst</strong> und damit früher Feierabend machen kannst.<strong><br /></strong></li>
-<li>... wie du glücklicher sein wirst, weil du <strong>deine Aufgaben ab sofort viel schneller abarbeiten</strong> kannst und am<strong> Abend zufrieden nach Hause gehst.</strong></li>
-<li>... wie du deutlich entspannter sein wirst, weil du <strong>nicht mehr zig unerledigte Aufgaben im Kopf hast,</strong> weil du sie nicht geschafft hast und damit evtl. mehr Überstunden oder am Wochenende arbeiten musst.</li>
-<li>... <strong>inkl. aller Templates und Vorlagen</strong>, zum Sofortnachmachen!</li>
-<li>... eine <strong>glasklare Schritt-für-Schritt-Anleitung</strong>, als ob wir neben dir sitzen und dir Schritt-für-Schritt sagen, was du wann und wie machen solltest.</li>
-<li>... und einiges mehr</li>
-</ul>
-<p>Damit wirst du deine Ziele einfacher erreichen können, als vorher, mit einer ordentlichen Portion an Effektivität.</p>
+**Vendor's marketplace description:** Produktivität und Effektivität steigern und endlich mehr schaffen! - Schaffe ab sofort in 2 Wochen mehr als in 2 Monaten! Für alle Affiliates eine klasse Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Insgesamt können damit über 500 Euro an Provision verdient werden. Landing Page und Webinar konvertieren sehr gut und es wird immer weiter in kleinen Schritten optimiert. Im Programm ist folgendes enthalten: ... wie du deine Produktivität ab sofort drastisch steigerst und somit in 2 Wochen mehr schaffst, als früher in 2 Monaten! ... wie in weniger Zeit viel mehr schaffst und damit früher Feierabend machen kannst. ... wie du glücklicher sein wirst, weil du deine Aufgaben ab sofort viel schneller abarbeiten kannst und am Abend zufrieden nach Hause gehst. ... wie du deutlich entspannter sein wirst, weil du nicht mehr zig unerledigte Aufgaben im Kopf hast, weil du sie nicht geschafft hast und damit evtl. mehr Überstunden oder am Wochenende arbeiten musst. ... inkl. aller Templates und Vorlagen , zum Sofortnachmachen! ... eine glasklare Schritt-für-Schritt-Anleitung , als ob wir neben dir sitzen und dir Schritt-für-Schritt sagen, was du wann und wie machen solltest. ... und einiges mehr Damit wirst du deine Ziele einfacher erreichen können, als vorher, mit einer ordentlichen Portion an Effektivität.
 
 ## 2. Links
 

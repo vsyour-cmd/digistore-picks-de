@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Starte deine Affiliate Marketing Journey<br /></strong></p>
-<p>Die Affiliate Academy Plus ist die Erweiterung der normalen "The Affiliate Academy" und ist perfekt für Leute, die den anderen <em>einen Schritt voraus</em> sein wollen.<br /><br />Ala Affiliate bekommst du lukrative <strong>50% Provision pro Verkauf</strong> und eine Conversion Optimierte Landing Page, welche dir den VErkauf vereinfacht.<br /><br />Die Affiliate Academy Plus enhält:<br /><br />1. Eine Videoanleitung mit 80+ Videos<br />2. Eine Teilnehmergruppe mit über 350 Mitgliedern<br />3. 2 Monate lang Zugang zu allen Live Zoom Meetings (alle 2 Tage)<br /><br />Der perfekte Einstieg für Anfänger ins Affiliate Marketing<br />-&gt; <strong>Wissen, Support, Hilfe</strong></p>
+**Vendor's marketplace description:** Starte deine Affiliate Marketing Journey Die Affiliate Academy Plus ist die Erweiterung der normalen "The Affiliate Academy" und ist perfekt für Leute, die den anderen einen Schritt voraus sein wollen. Ala Affiliate bekommst du lukrative 50% Provision pro Verkauf und eine Conversion Optimierte Landing Page, welche dir den VErkauf vereinfacht. Die Affiliate Academy Plus enhält: 1. Eine Videoanleitung mit 80+ Videos 2. Eine Teilnehmergruppe mit über 350 Mitgliedern 3. 2 Monate lang Zugang zu allen Live Zoom Meetings (alle 2 Tage) Der perfekte Einstieg für Anfänger ins Affiliate Marketing -> Wissen, Support, Hilfe
 
 ## 2. Links
 

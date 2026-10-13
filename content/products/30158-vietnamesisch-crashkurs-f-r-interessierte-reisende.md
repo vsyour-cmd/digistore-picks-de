@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Vietnamesisch ohne Vorkenntnisse im Urlaub anwenden</strong> <strong>Nach dem Anschauen der Videos z.B. auf dem Flug können sich Käufer von Anfang an verständigen. </strong></p>
-<p>Der Videokurs beinhaltet 9 Videos, clevere Spickzettel und Audiodateien.</p>
-<p>Der Kurs für Reisende, die leicht in Kontakt kommen wollen mit Einheimischen und sich dabei einen einfachen, schnellen Einstieg wünschen ohne auswendiglernen zu müssen. </p>
-<p><strong>Jetzt ansehen auf </strong><strong><a href="https://www.vietnamesisch-fuer-reisende.de" target="_blank" rel="noreferrer noopener">www.vietnamesisch-fuer-reisende.de</a> </strong></p>
-<p>Brauchst du Werbemittel? Schau dir unsere Partnerseite an oder frage bei mir nach. Gerne veröffentliche ich auch deinen Gastartikel mit wertvollem Backlink auf einer meiner Webseiten.</p>
-<p>Auf unseren gemeinsamen Erfolg!</p>
-<p><em>Stefan vom Sprachcrashkurs-Team</em></p>
-<p> </p>
-<p>PS: Und hier noch der Extra-Tipp für dich, wenn du mit Thai-Kursen wiederkehrende Einnahmen erzielen möchtest:  <a href="https://www.thailernen.net/partnerprogramm?go=15" target="_blank" rel="noreferrer noopener">Partnerprogramm</a></p>
-<p>Jetzt reinschauen und auch weitere Sprachen bewerben: <br /><a title="Chinesisch für Reisende" href="https://www.chinesisch-fuer-reisende.de" target="_blank" rel="noreferrer noopener">www.chinesisch-fuer-reisende.de<br /></a><a title="Thai online lernen" href="https://www.thailaendisch-fuer-reisende.de" target="_blank" rel="noreferrer noopener">www.thailaendisch-fuer-reisende.de <br /></a><a href="https://www.brasilianisch-fuer-reisende.de" target="_blank" rel="noreferrer noopener">www.brasilianisch-fuer-reisende.de</a><br /><a href="https://www.spanisch-fuer-reisende.de" target="_blank" rel="noreferrer noopener">www.spanisch-fuer-reisende.de</a></p>
-<p> </p>
+**Vendor's marketplace description:** Vietnamesisch ohne Vorkenntnisse im Urlaub anwenden Nach dem Anschauen der Videos z.B. auf dem Flug können sich Käufer von Anfang an verständigen. Der Videokurs beinhaltet 9 Videos, clevere Spickzettel und Audiodateien. Der Kurs für Reisende, die leicht in Kontakt kommen wollen mit Einheimischen und sich dabei einen einfachen, schnellen Einstieg wünschen ohne auswendiglernen zu müssen. Jetzt ansehen auf www.vietnamesisch-fuer-reisende.de Brauchst du Werbemittel? Schau dir unsere Partnerseite an oder frage bei mir nach. Gerne veröffentliche ich auch deinen Gastartikel mit wertvollem Backlink auf einer meiner Webseiten. Auf unseren gemeinsamen Erfolg! Stefan vom Sprachcrashkurs-Team PS: Und hier noch der Extra-Tipp für dich, wenn du mit Thai-Kursen wiederkehrende Einnahmen erzielen möchtest: Partnerprogramm Jetzt reinschauen und auch weitere Sprachen bewerben: www.chinesisch-fuer-reisende.de www.thailaendisch-fuer-reisende.de www.brasilianisch-fuer-reisende.de www.spanisch-fuer-reisende.de
 
 ## 2. Links
 

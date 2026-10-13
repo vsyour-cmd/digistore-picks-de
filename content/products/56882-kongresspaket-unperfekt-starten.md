@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Unperfekt Starten – Challenge &amp; Onlinekongress für dein digitales Freiheitsbusiness mit Jyotima Flak! <br /><br />Kongresspaket Silber <br /><br /></h2>
-<p><strong>Starte dein Onlinebusiness, bevor du bereit bist! </strong></p>
+**Vendor's marketplace description:** Unperfekt Starten – Challenge & Onlinekongress für dein digitales Freiheitsbusiness mit Jyotima Flak! Kongresspaket Silber Starte dein Onlinebusiness, bevor du bereit bist!
 
 ## 2. Links
 

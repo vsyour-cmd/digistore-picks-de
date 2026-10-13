@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>Ein hochaktuelles Zukunftsthema mit enormer Reichweite:</p>
-<p>Dieses Buch macht die unsichtbare Macht der Satelliten greifbar und zeigt eindrucksvoll, wie sie Kommunikation, Wirtschaft, Sicherheit und Alltag steuern.</p>
-<p>Die Verbindung aus verständlicher Wissensvermittlung, technologischer Faszination und gesellschaftlicher Relevanz spricht sowohl Technikinteressierte als auch ein breites Publikum an.</p>
-<p>Besonders stark für Content in den Bereichen Zukunft, KI, Raumfahrt, Digitalisierung und globale Entwicklungen.</p>
-<p>Die Mischung aus Fakten, Praxisbeispielen und visionären Ausblicken sorgt für hohe Aufmerksamkeit und starke Klick- und Kaufimpulse.</p>
-<p>Ein ideales Produkt für Affiliates, die auf Trends, Innovation und Wissenscontent setzen.</p>
-</div>
-</div>
-</div>
-</div>
-<div> </div>
-<div>
-<div> </div>
-</div>
-</div>
-</div>
-
-<div> </div>
+**Vendor's marketplace description:** Ein hochaktuelles Zukunftsthema mit enormer Reichweite: Dieses Buch macht die unsichtbare Macht der Satelliten greifbar und zeigt eindrucksvoll, wie sie Kommunikation, Wirtschaft, Sicherheit und Alltag steuern. Die Verbindung aus verständlicher Wissensvermittlung, technologischer Faszination und gesellschaftlicher Relevanz spricht sowohl Technikinteressierte als auch ein breites Publikum an. Besonders stark für Content in den Bereichen Zukunft, KI, Raumfahrt, Digitalisierung und globale Entwicklungen. Die Mischung aus Fakten, Praxisbeispielen und visionären Ausblicken sorgt für hohe Aufmerksamkeit und starke Klick- und Kaufimpulse. Ein ideales Produkt für Affiliates, die auf Trends, Innovation und Wissenscontent setzen.
 
 ## 2. Links
 

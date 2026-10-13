@@ -41,37 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#ff0054;"><strong>PROFITIERE VOM TIKTOK TREND!</strong></span></h2>
-<p><strong>Profitiere jetzt ganz einfach vom neuen TikTok-Trend, indem du unsere Top-TikTok Produkte bewirbst und für jeden Verkauf saftige Provisionen verdienst!</strong></p>
-<ul>
-<li>
-<p>Neue Platform TikTok zum Geld verdienen nutzen</p>
-</li>
-<li>
-<p>Hohe Provision dank ausgeklügeltem Funnel mit starker Conversion! </p>
-</li>
-<li>
-<p>Kostenlose Betreuung, Kurse und mehr für alle Partner! </p>
-</li>
-</ul>
-<table style="margin-left:auto;margin-right:auto;">
-<tbody>
-<tr>
-<td style="background-color:#ff0363;width:210px;height:50px;text-align:center;">
-<h4><a href="https://www.digistore24.com/signup/449302,362484,422807,362735,362730,367002,435384,442545,442573,442546/" target="_blank" rel="noreferrer noopener"><strong><span style="text-decoration:underline;"><span style="color:#ffffff;text-decoration:underline;">Jetzt Geld verdienen!</span></span></strong></a></h4>
-</td>
-</tr>
-</tbody>
-</table>
-<p style="text-align:center;"><a href="https://www.digistore24.com/signup/449302,362484,422807,362735,362730,367002,435384,442545,442573,442546/" target="_blank" rel="noreferrer noopener"><span style="text-decoration:underline;"><span style="color:#3366ff;text-decoration:underline;"> Jetzt hier klicken!</span></span></a></p>
-<p style="text-align:center;"> </p>
-<p><strong>Worauf wartest du noch?</strong> Werde unser Partner und profitiere von exklusiven Vorteilen!</p>
-<p>Hohe Provisionen, starke Conversion und kostenlose Betreuung durch erfahrene Affiliate-Manager erwarten dich! Das bekommst du sonst nirgends!</p>
-<p><strong>Also, Lass uns jetzt zusammen starten und Geld verdienen!</strong></p>
-<p style="text-align:center;"><a href="https://www.digistore24.com/signup/449302,362484,422807,362735,362730,367002,435384,442545,442573,442546/" target="_blank" rel="noreferrer noopener"><span style="text-decoration:underline;color:#3366ff;">&gt;&gt; Jetzt hier klicken! &lt;&lt;</span></a></p>
-<p> </p>
-<p>→ Werbemittel findest du hier: <span style="color:#3366ff;"><a style="color:#3366ff;" href="https://social.business-kickstart.de/partnerprogramm/" target="_blank" rel="noreferrer noopener">social.business-kickstart.de/partnerprogramm</a></span></p>
-<p>→ Bei Fragen schreibe uns an: info@coaching.business-kickstart.de</p>
+**Vendor's marketplace description:** PROFITIERE VOM TIKTOK TREND! Profitiere jetzt ganz einfach vom neuen TikTok-Trend, indem du unsere Top-TikTok Produkte bewirbst und für jeden Verkauf saftige Provisionen verdienst! Neue Platform TikTok zum Geld verdienen nutzen Hohe Provision dank ausgeklügeltem Funnel mit starker Conversion! Kostenlose Betreuung, Kurse und mehr für alle Partner! Jetzt Geld verdienen! Jetzt hier klicken! Worauf wartest du noch? Werde unser Partner und profitiere von exklusiven Vorteilen! Hohe Provisionen, starke Conversion und kostenlose Betreuung durch erfahrene Affiliate-Manager erwarten dich! Das bekommst du sonst nirgends! Also, Lass uns jetzt zusammen starten und Geld verdienen! >> Jetzt hier klicken! << → Werbemittel findest du hier: social.business-kickstart.de/partnerprogramm → Bei Fragen schreibe uns an: info@coaching.business-kickstart.de
 
 ## 2. Links
 

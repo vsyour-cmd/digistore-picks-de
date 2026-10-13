@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Über Anja</strong></p>
-<p>Viele Menschen spüren, dass sie mehr wahrnehmen, als sie erklären können.</p>
-<p>Anja zeigt ihnen, wie sie genau diese Fähigkeit verstehen und nutzen können.</p>
-<p>Als Unternehmerin und Mentorin verbindet sie <strong>Intuition, Energiearbeit und Business-Aufbau</strong> auf eine Weise, die sowohl tiefgehend als auch praktisch umsetzbar ist.</p>
-<p>In ihren Programmen lernen Teilnehmer:</p>
-<p>✨ ihre Wahrnehmung zu öffnen<br />✨ energetische Signale zu verstehen<br />✨ Telepathie Frequency zu aktivieren<br />✨ Manifestation - bestellt - geliefert in Blitzgeschwindigkeit<br />✨ ihre Fähigkeiten zu stabilisieren<br />✨ daraus ein erfüllendes Business aufzubauen</p>
-<p>Ihre Arbeit richtet sich an Menschen, die nicht nur „spirituell interessiert“ sind –<br />sondern bereit sind, <strong>ihr Potenzial wirklich zu leben und sichtbar zu machen.</strong></p>
+**Vendor's marketplace description:** Über Anja Viele Menschen spüren, dass sie mehr wahrnehmen, als sie erklären können. Anja zeigt ihnen, wie sie genau diese Fähigkeit verstehen und nutzen können. Als Unternehmerin und Mentorin verbindet sie Intuition, Energiearbeit und Business-Aufbau auf eine Weise, die sowohl tiefgehend als auch praktisch umsetzbar ist. In ihren Programmen lernen Teilnehmer: ✨ ihre Wahrnehmung zu öffnen ✨ energetische Signale zu verstehen ✨ Telepathie Frequency zu aktivieren ✨ Manifestation - bestellt - geliefert in Blitzgeschwindigkeit ✨ ihre Fähigkeiten zu stabilisieren ✨ daraus ein erfüllendes Business aufzubauen Ihre Arbeit richtet sich an Menschen, die nicht nur „spirituell interessiert“ sind – sondern bereit sind, ihr Potenzial wirklich zu leben und sichtbar zu machen.
 
 ## 2. Links
 

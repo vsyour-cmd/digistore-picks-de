@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Lesen lernen ist nicht nur aufregend, sondern auch anstrengend für dein Kind aber auch für die Eltern. In diesem Ratgeber zeige ich wie lesen lernen funktioniert, mit welchen Methoden in der Schule gearbeitet wird und zahlreiche Lesepiele. Die Übungen kommen bewusst ohne festen Arbeitsplatz und Arbeitsblatt aus. Als Lehrerin weiß ich, dass es für Erstklässler mit kurzer Konzentrationsphase sehr schwer ist länger still zu sitzen. Meine Übungen greifen das Bedürfnis nach Bewegung auf und verbinden es mit lustigen Lesespielen, die jedem Spaß machen und in jeden Alltag passen für draußen und drinnen.</p>
+**Vendor's marketplace description:** Lesen lernen ist nicht nur aufregend, sondern auch anstrengend für dein Kind aber auch für die Eltern. In diesem Ratgeber zeige ich wie lesen lernen funktioniert, mit welchen Methoden in der Schule gearbeitet wird und zahlreiche Lesepiele. Die Übungen kommen bewusst ohne festen Arbeitsplatz und Arbeitsblatt aus. Als Lehrerin weiß ich, dass es für Erstklässler mit kurzer Konzentrationsphase sehr schwer ist länger still zu sitzen. Meine Übungen greifen das Bedürfnis nach Bewegung auf und verbinden es mit lustigen Lesespielen, die jedem Spaß machen und in jeden Alltag passen für draußen und drinnen.
 
 ## 2. Links
 

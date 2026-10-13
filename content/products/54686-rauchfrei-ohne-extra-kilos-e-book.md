@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In 7 Schritten werden die Lesenden hier unterstützt, nachhaltig und vor allem ohne große Gewichtszunahme mit dem Rauchen aufzuhören. </p>
-<p> </p>
-<p>Ein ganzheitlicher Begleiter auf dem Weg in ein gesundes Rauchfreies Leben. Ein Muss für alle die:</p>
-<p>- bereits gescheiterte Rauchstopp-Versuche hinter sich haben</p>
-<p>- Angst haben Gewicht zuzunehmen</p>
-<p>- beim letzten Rauchstopp Gewicht zugenommen haben und deswegen wieder angefangen haben</p>
-<p> </p>
-<p>Mit dem nötigen Wissen über den eigenen Körper und einer schlauen Planung gelingt der Rauchstopp viel leichter und ohne Stolperfallen. </p>
-<p> </p>
-<p>Viel Freude auf deiner Reise zum Nichtraucher. </p>
-<p>Deine Verena</p>
+**Vendor's marketplace description:** In 7 Schritten werden die Lesenden hier unterstützt, nachhaltig und vor allem ohne große Gewichtszunahme mit dem Rauchen aufzuhören. Ein ganzheitlicher Begleiter auf dem Weg in ein gesundes Rauchfreies Leben. Ein Muss für alle die: - bereits gescheiterte Rauchstopp-Versuche hinter sich haben - Angst haben Gewicht zuzunehmen - beim letzten Rauchstopp Gewicht zugenommen haben und deswegen wieder angefangen haben Mit dem nötigen Wissen über den eigenen Körper und einer schlauen Planung gelingt der Rauchstopp viel leichter und ohne Stolperfallen. Viel Freude auf deiner Reise zum Nichtraucher. Deine Verena
 
 ## 2. Links
 

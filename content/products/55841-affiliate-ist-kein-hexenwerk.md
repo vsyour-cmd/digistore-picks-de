@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<p><strong>Affiliate ist kein Hexenwerk – Der einfache Einstieg für Einsteiger und Online-Neulinge</strong></p>
-<p>Dieses E-Book zeigt dir verständlich und praxisnah,<br />wie du Schritt für Schritt ins Affiliate-Marketing starten kannst –<br />auch ohne eigenes Produkt oder technisches Vorwissen.</p>
-<p>Du lernst die Grundlagen des Online-Business kennen<br />und erhältst eine klare Orientierung, wie du Affiliate-Produkte<br />strukturiert auswählen und bewerben kannst.</p>
-<p><strong>Inhalte u. a.:</strong></p>
-<p>Grundlagen des Affiliate-Marketings für Einsteiger</p>
-<p>Einfache Strategien für den Start im Online-Business</p>
-<p>Praxisnahe Beispiele aus der digitalen Welt</p>
-<p>Typische Anfängerfehler und wie du sie vermeidest</p>
-<p>Klare Schritte für einen verständlichen Einstieg</p>
-<p>Ideal für Einsteiger, Selbstständige und alle,<br />die Affiliate-Marketing besser verstehen möchten.</p>
-<p><strong>Hinweis für Affiliates:</strong><br />Dieses E-Book ist als verständlicher Einstieg konzipiert.<br />Im weiteren Verlauf des Funnels bestehen optionale<br />Zusatzangebote mit weiteren Provisionsmöglichkeiten.</p>
-</div>
-<div> </div>
-<div>
-<div> </div>
-</div>
-</div>
-<div> </div>
+**Vendor's marketplace description:** Affiliate ist kein Hexenwerk – Der einfache Einstieg für Einsteiger und Online-Neulinge Dieses E-Book zeigt dir verständlich und praxisnah, wie du Schritt für Schritt ins Affiliate-Marketing starten kannst – auch ohne eigenes Produkt oder technisches Vorwissen. Du lernst die Grundlagen des Online-Business kennen und erhältst eine klare Orientierung, wie du Affiliate-Produkte strukturiert auswählen und bewerben kannst. Inhalte u. a.: Grundlagen des Affiliate-Marketings für Einsteiger Einfache Strategien für den Start im Online-Business Praxisnahe Beispiele aus der digitalen Welt Typische Anfängerfehler und wie du sie vermeidest Klare Schritte für einen verständlichen Einstieg Ideal für Einsteiger, Selbstständige und alle, die Affiliate-Marketing besser verstehen möchten. Hinweis für Affiliates: Dieses E-Book ist als verständlicher Einstieg konzipiert. Im weiteren Verlauf des Funnels bestehen optionale Zusatzangebote mit weiteren Provisionsmöglichkeiten.
 
 ## 2. Links
 

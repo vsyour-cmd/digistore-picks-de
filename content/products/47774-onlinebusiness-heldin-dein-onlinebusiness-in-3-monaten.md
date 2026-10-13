@@ -41,40 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<p>Der umfassende Onlinekurs für deinen <strong>nachhaltig erfolgreichen Businessaufbau</strong>:</p>
-<p>Von der lukrativen Businessidee bis zur glasklaren Positionierung, attraktiven Angebotspalette, Preisfindung, Money Mindset, Aufbau deiner Marke, sowie authentischem und empathischem Marketing.</p>
-<p><strong>Du bekommst alles was du brauchst, um sofort loszulegen – auch wenn du noch kein technisches Vorwissen hast.</strong></p>
-</div>
-</div>
-<div>
-<div>
-<p><strong>Erwecke deine Idee zum Leben!</strong> Ob Coaching-Business, therapeutische Praxis, Kreativ-Business, eigenes Blog-Magazin, DIY, Mode &amp; Beauty, Food, Reisen –<strong> Ich zeige dir, wie du aus deiner Leidenschaft ein profitables Business machst.</strong></p>
-<div>
-<div>
-<h2>Werde jetzt zur Onlinebusiness-Heldin und bau dir dein sinnstiftendes, erfolgreiches Business!</h2>
-</div>
-</div>
-<div>
-<div>
-<ul>
-<li>Das <strong>All-in-1 Programm</strong> zum Aufbau deines erfolgreichen Onlinebusiness</li>
-<li>Starte dein erfolgreiches Onlinebusiness <strong>in nur 3 Monaten</strong> - auch wenn du noch kein technisches Vorwissen hast</li>
-<li>Von der lukrativen <strong>Businessidee</strong> bis zur <strong>glasklaren Positionierung</strong>, attraktiven <strong>Angebotspalette</strong>, <strong>Preisfindung</strong>, <strong>Money Mindset</strong>, Aufbau deiner <strong>Marke</strong>, sowie authentischem und empathischem <strong>Marketing</strong></li>
-<li>Arbeite die Online-Inhalte <strong>in deinem Tempo</strong> durch, wann und wo du möchtest</li>
-<li>Mehr als 20+ Videos und zahlreiche Workbooks zum direkt Loslegen</li>
-<li><strong>Fundiertes Fachwissen</strong> von mir und 10+ Expertinnen</li>
-<li>Einstieg jederzeit möglich!</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Der umfassende Onlinekurs für deinen nachhaltig erfolgreichen Businessaufbau : Von der lukrativen Businessidee bis zur glasklaren Positionierung, attraktiven Angebotspalette, Preisfindung, Money Mindset, Aufbau deiner Marke, sowie authentischem und empathischem Marketing. Du bekommst alles was du brauchst, um sofort loszulegen – auch wenn du noch kein technisches Vorwissen hast. Erwecke deine Idee zum Leben! Ob Coaching-Business, therapeutische Praxis, Kreativ-Business, eigenes Blog-Magazin, DIY, Mode & Beauty, Food, Reisen – Ich zeige dir, wie du aus deiner Leidenschaft ein profitables Business machst. Werde jetzt zur Onlinebusiness-Heldin und bau dir dein sinnstiftendes, erfolgreiches Business! Das All-in-1 Programm zum Aufbau deines erfolgreichen Onlinebusiness Starte dein erfolgreiches Onlinebusiness in nur 3 Monaten - auch wenn du noch kein technisches Vorwissen hast Von der lukrativen Businessidee bis zur glasklaren Positionierung , attraktiven Angebotspalette , Preisfindung , Money Mindset , Aufbau deiner Marke , sowie authentischem und empathischem Marketing Arbeite die Online-Inhalte in deinem Tempo durch, wann und wo du möchtest Mehr als 20+ Videos und zahlreiche Workbooks zum direkt Loslegen Fundiertes Fachwissen von mir und 10+ Expertinnen Einstieg jederzeit möglich!
 
 ## 2. Links
 

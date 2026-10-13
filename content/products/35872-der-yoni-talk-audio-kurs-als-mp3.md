@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Audio-Kurs richtet sich an Frauen jeden Alters, die sich intensiver mit ihrer Sexualität beschäftigen wollen.</p>
-<p>Der Kurs besteht aus Anleitungen zur Selbsterkundung und Selbstmassage und ist mit hochwertiger Musik unterlegt.</p>
-<p>Mehr Infos auf https://nhanga.de/meditationen-trancen-koerperuebungen/yoni-talk/</p>
-<p> </p>
+**Vendor's marketplace description:** Der Audio-Kurs richtet sich an Frauen jeden Alters, die sich intensiver mit ihrer Sexualität beschäftigen wollen. Der Kurs besteht aus Anleitungen zur Selbsterkundung und Selbstmassage und ist mit hochwertiger Musik unterlegt. Mehr Infos auf https://nhanga.de/meditationen-trancen-koerperuebungen/yoni-talk/
 
 ## 2. Links
 

@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewerbe jetzt unser Freebie und profitiere von 50% Provision auf alle Addons und Upsells.</p>
-<p>Dieser kostenfreie Guide zeigt dir, wie KI dir hilft, bessere Entscheidungen zu treffen, relevanten Content zu erstellen und dein Affiliate-Business skalierbar aufzubauen.</p>
-<p>Du erfährst<br />• Warum Affiliate Marketing ohne System scheitert</p>
-<p>• Die echte Rolle von KI im Affiliate Business</p>
-<p>• Das komplette KIS-Framework in 3 klaren Phasen</p>
-<p>• Ein mentales Modell für bessere Entscheidungen</p>
+**Vendor's marketplace description:** Bewerbe jetzt unser Freebie und profitiere von 50% Provision auf alle Addons und Upsells. Dieser kostenfreie Guide zeigt dir, wie KI dir hilft, bessere Entscheidungen zu treffen, relevanten Content zu erstellen und dein Affiliate-Business skalierbar aufzubauen. Du erfährst • Warum Affiliate Marketing ohne System scheitert • Die echte Rolle von KI im Affiliate Business • Das komplette KIS-Framework in 3 klaren Phasen • Ein mentales Modell für bessere Entscheidungen
 
 ## 2. Links
 

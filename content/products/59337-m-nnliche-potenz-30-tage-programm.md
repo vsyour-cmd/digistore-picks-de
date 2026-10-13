@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>733993 - Männliche Potenz – 30-Tage-Programm</p>
-<p><strong><span style="background-color:#ffff00;">MÄNNLICHE POTENZ – 30-TAGE-PROGRAMM</span></strong></p>
-<p><strong><span style="background-color:#ffff00;">Ein digitales 30-Tage-Programm für Männer, die mehr Struktur in ihren Alltag bringen und sich mit Bewegung, Schlaf, Ernährung, Stressmanagement und bewussten Gewohnheiten beschäftigen möchten.</span></strong></p>
-<p><strong><span style="background-color:#ffff00;">Das Programm kombiniert einen klaren Tagesablauf mit kurzen Workouts, täglichen Aufgaben, Checklisten, Reflexionsimpulsen sowie praktischen Routinen.</span></strong></p>
-<p><strong><span style="background-color:#ffff00;">Warum das Angebot für Affiliates interessant ist:</span></strong></p>
-<p><strong><span style="background-color:#ffff00;">• Verkaufspreis: 37 €</span></strong></p>
-<p><strong><span style="background-color:#ffff00;">• Affiliate-Provision: 63 %</span></strong></p>
-<p><strong><span style="background-color:#ffff00;">• Rechnerischer Provisionsanteil bei 37 €: 23,31 € pro Verkauf</span></strong></p>
-<p><strong><span style="background-color:#ffff00;">• Einmalzahlung – kein Abo</span></strong></p>
-<p><strong><span style="background-color:#ffff00;">• Digitales Produkt</span></strong></p>
-<p><strong><span style="background-color:#ffff00;">• Android-Version mit Offline-Nutzung</span></strong></p>
-<p><strong><span style="background-color:#ffff00;">• Zusätzlich über Web verfügbar</span></strong></p>
-<p><strong><span style="background-color:#ffff00;">• 30 Tage strukturierter Inhalt</span></strong></p>
-<p><strong><span style="background-color:#ffff00;">• 4 aufeinanderfolgende Programmphasen</span></strong></p>
-<p><strong><span style="background-color:#ffff00;">• Kein physischer Versand erforderlich</span></strong></p>
-<p><strong><span style="background-color:#ffff00;">Zielgruppe:</span></strong></p>
-<p><strong><span style="background-color:#ffff00;">Männer, die ihren Alltag strukturieren, regelmäßige Bewegung integrieren und sich bewusster mit Schlaf, Ernährung, Stress und persönlichen Gewohnheiten beschäftigen möchten.</span></strong></p>
-<p><strong><span style="background-color:#ffff00;">Werbematerialien:</span></strong></p>
-<p><strong><span style="background-color:#ffff00;">Affiliates erhalten Zugriff auf offizielle Werbematerialien, darunter Social-Media-Creatives, Werbetexte und weitere Materialien zur Bewerbung des Produkts.</span></strong></p>
-<p><strong><span style="background-color:#ffff00;">Wichtiger Hinweis für Affiliates:</span></strong></p>
-<p><strong><span style="background-color:#ffff00;">Bitte bewirb das Produkt ausschließlich entsprechend der tatsächlichen Leistungsbeschreibung. Medizinische Heilversprechen, garantierte Ergebnisse, Aussagen über die Behandlung von Krankheiten oder irreführende Vorher-Nachher-Versprechen sind nicht zulässig.</span></strong></p>
-<p><strong><span style="background-color:#ffff00;">Die tatsächliche Auszahlung der Provision erfolgt gemäß den jeweils geltenden Bedingungen von Digistore24.</span></strong></p>
+**Vendor's marketplace description:** 733993 - Männliche Potenz – 30-Tage-Programm MÄNNLICHE POTENZ – 30-TAGE-PROGRAMM Ein digitales 30-Tage-Programm für Männer, die mehr Struktur in ihren Alltag bringen und sich mit Bewegung, Schlaf, Ernährung, Stressmanagement und bewussten Gewohnheiten beschäftigen möchten. Das Programm kombiniert einen klaren Tagesablauf mit kurzen Workouts, täglichen Aufgaben, Checklisten, Reflexionsimpulsen sowie praktischen Routinen. Warum das Angebot für Affiliates interessant ist: • Verkaufspreis: 37 € • Affiliate-Provision: 63 % • Rechnerischer Provisionsanteil bei 37 €: 23,31 € pro Verkauf • Einmalzahlung – kein Abo • Digitales Produkt • Android-Version mit Offline-Nutzung • Zusätzlich über Web verfügbar • 30 Tage strukturierter Inhalt • 4 aufeinanderfolgende Programmphasen • Kein physischer Versand erforderlich Zielgruppe: Männer, die ihren Alltag strukturieren, regelmäßige Bewegung integrieren und sich bewusster mit Schlaf, Ernährung, Stress und persönlichen Gewohnheiten beschäftigen möchten. Werbematerialien: Affiliates erhalten Zugriff auf offizielle Werbematerialien, darunter Social-Media-Creatives, Werbetexte und weitere Materialien zur Bewerbung des Produkts. Wichtiger Hinweis für Affiliates: Bitte bewirb das Produkt ausschließlich entsprechend der tatsächlichen Leistungsbeschreibung. Medizinische Heilversprechen, garantierte Ergebnisse, Aussagen über die Behandlung von Krankheiten oder irreführende Vorher-Nachher-Versprechen sind nicht zulässig. Die tatsächliche Auszahlung der Provision erfolgt gemäß den jeweils geltenden Bedingungen von Digistore24.
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie Unternehmen mit Live-Audio-Rooms planbar Anfragen, Leads und Neukunden gewinnen</strong></p>
-<p>Clubhouse ist für Unternehmen kein Unterhaltungsmedium – es ist ein direkter Draht zu deiner Zielgruppe in Echtzeit. Dieses E-Book zeigt dir, wie du Live-Rooms und Clubs entlang der Buyer-Journey einsetzt, einen Funnel vom ersten Zuhören bis zum Erstgespräch aufbaust und über authentische Gespräche auf der Bühne planbar Neukunden gewinnst. Du lernst, wie du wiederkehrende Talks als Lead-Magnet positionierst, wie Netzwerken in Echtzeit Kaltakquise überflüssig macht und wie du den ROI deiner Clubhouse-Aktivitäten messbar machst. Dazu: Repurposing-Strategien, die aus jedem Room zusätzliche Vertriebsinhalte für andere Kanäle machen – damit sich jede Stunde Moderation mehrfach auszahlt.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Rooms und Clubs entlang der Buyer-Journey planen und strukturieren</li>
-<li>Wiederkehrende Talks als Lead-Magnet und Vertrauensanker positionieren</li>
-<li>Netzwerken in Echtzeit: Verkaufsgespräche entstehen im Room</li>
-<li>Der Funnel: von der Bühne über den Direktkontakt zum Abschluss</li>
-<li>Moderationstechnik, die Expertenstatus und Kaufbereitschaft erzeugt</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie Unternehmen mit Live-Audio-Rooms planbar Anfragen, Leads und Neukunden gewinnen Clubhouse ist für Unternehmen kein Unterhaltungsmedium – es ist ein direkter Draht zu deiner Zielgruppe in Echtzeit. Dieses E-Book zeigt dir, wie du Live-Rooms und Clubs entlang der Buyer-Journey einsetzt, einen Funnel vom ersten Zuhören bis zum Erstgespräch aufbaust und über authentische Gespräche auf der Bühne planbar Neukunden gewinnst. Du lernst, wie du wiederkehrende Talks als Lead-Magnet positionierst, wie Netzwerken in Echtzeit Kaltakquise überflüssig macht und wie du den ROI deiner Clubhouse-Aktivitäten messbar machst. Dazu: Repurposing-Strategien, die aus jedem Room zusätzliche Vertriebsinhalte für andere Kanäle machen – damit sich jede Stunde Moderation mehrfach auszahlt. Das steckt drin: Rooms und Clubs entlang der Buyer-Journey planen und strukturieren Wiederkehrende Talks als Lead-Magnet und Vertrauensanker positionieren Netzwerken in Echtzeit: Verkaufsgespräche entstehen im Room Der Funnel: von der Bühne über den Direktkontakt zum Abschluss Moderationstechnik, die Expertenstatus und Kaufbereitschaft erzeugt Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

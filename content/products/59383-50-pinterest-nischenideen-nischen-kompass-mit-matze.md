@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ergänze deine Themenrecherche mit 50 Pinterest-Nischenideen.</p>
-<p>Du erhältst den Nischen-Kompass als PDF-Download. Die Sammlung dient als Ausgangspunkt für deine eigene Auswahl und Prüfung; eine Idee ist kein Nachweis für Nachfrage oder spätere Einnahmen.</p>
-<p>Optionaler Zusatz zum Pinterest-Praxispaket. Der vollständige Hauptkurs ist nicht enthalten und bleibt ohne diesen Zusatz nutzbar. Zum Öffnen genügt ein PDF-Reader.</p>
-<p>Schriftliches Downloadprodukt auf Deutsch. Keine Videolektionen, persönliche Betreuung oder enthaltenen Drittanbieter-Abos. Beispiele sind Übungsmaterial; Verkäufe, Aufträge und Einkommen werden nicht zugesagt. Einmalzahlung, kein Abo.</p>
-<p>Anbieter: Einfach mit Matze / Michael Arndt · info@einfachhaltbar.de. Nutzung für die eigene Arbeit gemäß den beiliegenden Nutzungsregeln. Kein Weiterverkauf der Kursdateien.</p>
-<p>Affiliate-Information: 40,00 % Provision. Eigenständig erhältliches Zusatzpaket; der Hauptkurs ist nicht enthalten. Keine garantierten Verkäufe oder Einnahmen. Kontakt: info@einfachhaltbar.de.</p>
+**Vendor's marketplace description:** Ergänze deine Themenrecherche mit 50 Pinterest-Nischenideen. Du erhältst den Nischen-Kompass als PDF-Download. Die Sammlung dient als Ausgangspunkt für deine eigene Auswahl und Prüfung; eine Idee ist kein Nachweis für Nachfrage oder spätere Einnahmen. Optionaler Zusatz zum Pinterest-Praxispaket. Der vollständige Hauptkurs ist nicht enthalten und bleibt ohne diesen Zusatz nutzbar. Zum Öffnen genügt ein PDF-Reader. Schriftliches Downloadprodukt auf Deutsch. Keine Videolektionen, persönliche Betreuung oder enthaltenen Drittanbieter-Abos. Beispiele sind Übungsmaterial; Verkäufe, Aufträge und Einkommen werden nicht zugesagt. Einmalzahlung, kein Abo. Anbieter: Einfach mit Matze / Michael Arndt · info@einfachhaltbar.de. Nutzung für die eigene Arbeit gemäß den beiliegenden Nutzungsregeln. Kein Weiterverkauf der Kursdateien. Affiliate-Information: 40,00 % Provision. Eigenständig erhältliches Zusatzpaket; der Hauptkurs ist nicht enthalten. Keine garantierten Verkäufe oder Einnahmen. Kontakt: info@einfachhaltbar.de.
 
 ## 2. Links
 

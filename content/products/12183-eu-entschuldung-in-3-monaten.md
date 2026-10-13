@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><span style="color:#800080;"><strong><big>RATZ-FATZ SCHULDENFREI<br /> IN 3 MONATEN<br /> DURCH EU-ENTSCHULDUNG</big></strong></span></p>
-<div><br /> Alle Welt spricht von Globalisierung. Schuldner können das nun auch!</div>
-<div> </div>
-<div>So wie sich Unternehmen die Länder mit den günstigsten Bedingungen aussuchen, so können Sie nun den EU-Mitgliedsstaat wählen, der die für Sie vorteilhaftesten Regelungen bereit hält.</div>
-<div> </div>
-<div>Die ausländischen Insolvenzgerichte dürfen Ihren Insolvenzantrag nicht ablehnen...<br /> Und deutsche Gerichte und deutsche Gläubiger müssen die Entscheidung der ausländischen Insolvenzgerichte akzeptieren...</div>
-<div> </div>
-<div> </div>
-<div>
-<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
-<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
-<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<span style="color:#cc99ff;"><strong><span style="color:#000000;">J</span>eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</strong></span>“.</p>
-<p>2 einfache Schritte:</p>
-<ol>
-<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html</a></span> (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge")</li>
-<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
-</ol>
-<em><strong><br /></strong></em></div>
+**Vendor's marketplace description:** RATZ-FATZ SCHULDENFREI IN 3 MONATEN DURCH EU-ENTSCHULDUNG Alle Welt spricht von Globalisierung. Schuldner können das nun auch! So wie sich Unternehmen die Länder mit den günstigsten Bedingungen aussuchen, so können Sie nun den EU-Mitgliedsstaat wählen, der die für Sie vorteilhaftesten Regelungen bereit hält. Die ausländischen Insolvenzgerichte dürfen Ihren Insolvenzantrag nicht ablehnen... Und deutsche Gerichte und deutsche Gläubiger müssen die Entscheidung der ausländischen Insolvenzgerichte akzeptieren... Möchten Sie ein Ansichtsexemplar? Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz. Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „ J eden T ag R ei*cher “. 2 einfache Schritte: JTR gratis bestellen auf https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge") Email mit Ihrem Ebook-Wunsch an service@big-benn-books.com
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#ff0000;"><strong>Pin-Cash Mastery 2.0</strong></span></h2>
-<p>Die Pin-Cash Mastery 2.0 ist ein Online Kurs für alle, die mit Pinterest und kaum bekannten Strategien Online Geld verdienen wollen – mit Fokus auf KI und zeitsparende Methoden. Alles aus der Praxis und kein Bla Bla Bla.</p>
-<p><strong><em>Du bekommst 60 % Provision auf das Initialprodukt und bis zu 60 % Provision auf alle Upsells.</em></strong></p>
-<p><strong><em>Im Durchlauf sind bis zu 198 € Provision (inkl. Abonnements) möglich.</em></strong></p>
-<p>Dein Yannick</p>
+**Vendor's marketplace description:** Pin-Cash Mastery 2.0 Die Pin-Cash Mastery 2.0 ist ein Online Kurs für alle, die mit Pinterest und kaum bekannten Strategien Online Geld verdienen wollen – mit Fokus auf KI und zeitsparende Methoden. Alles aus der Praxis und kein Bla Bla Bla. Du bekommst 60 % Provision auf das Initialprodukt und bis zu 60 % Provision auf alle Upsells. Im Durchlauf sind bis zu 198 € Provision (inkl. Abonnements) möglich. Dein Yannick
 
 ## 2. Links
 

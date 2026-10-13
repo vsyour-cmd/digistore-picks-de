@@ -41,37 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieser Ayurveda-Kochkurs ist für Anfänger und Fortgeschrittene geeignet.</p>
-<p>Empfehle das einzigartige Produkt &amp; verdiene passives Einkommen durch unser effektives Ayurveda-Ausbildungskonzept!</p>
-<p><strong>Das Wichtigste für Dich als Marketer zuerst:</strong> Bewerbe die Ayurvedaschule, mit der auch Du Geld verdienen kannst:</p>
-<ul>
-<li>20 % Provisionen auf Deine vermittelten Verkäufe + 20 % Provision auf Upsells und Downsells sowie auf Folgeaufträge (<span style="background-color:#ffff00;"><strong>Lifetime!!!</strong></span>)</li>
-<li>Optimierte Verkaufs-Funnel.</li>
-<li>Große Auswahl optimierter Werbemittel: klickstarke Banner, Vorlagen für E-Mail-Texte für mehr Leads und Verkäufe.</li>
-<li>Schnelle und persönliche Unterstützung auf Deutsch durch unser Team</li>
-<li>Besuche jetzt unser Affiliate Center (= unsere Partnerprogramm-Seite), um noch heute Teil der Ayurveda-Online Familie zu werden!</li>
-</ul>
-<p><strong>Was können die Teilnehmer dieses Ayurveda-Kochkurses Online lernen?</strong></p>
-<ul>
-<li>Einführung in den Ayurveda</li>
-<li>Modul 1 – Grundlagen der Ayurvedaküche</li>
-<li>Modul 2 – Frühstück im Ayurveda und tieferes Verständnis der Konstitution</li>
-<li>Modul 3 – Mittagessen im Ayurveda und die Verdauung aus ayurvedischer Sicht</li>
-<li>Modul 4 – Abendessen im Ayurveda und universelle Lebensgesetze</li>
-<li>Modul 5 – Fladenbrote, Chutneys etc. im Ayurveda und Bedeutung vom Geschmack aus ayurvedischer Sicht</li>
-<li>Modul 6 – Die geistige Konstitution und Süße und herzhafte Rezepte</li>
-<li>In diesem Kurs werden über 25 Rezepte vorgekocht mit Anleitung zum Nachkochen inkl. der Rezepte als PDF.</li>
-</ul>
-<p>Das Wissen ist so aufgearbeitet, dass es auch schnell in der Praxis umgesetzt werden kann.</p>
-<p>Ich habe es mir zum Ziel gemacht Ayurveda-Seminare und Ausbildungen so zu revolutionieren, dass Teilnehmer meiner Angebote alles schnell und effizient Online erlernen und direkt umsetzen können!</p>
-<p>Ohne Reisezeit und ohne Reisekosten.</p>
-<p>Erlernbar sind alle Seminar- und Ausbildungsinhalte bequem von zu Hause aus, das Lernen im eigenen Rhythmus ist so möglich.  </p>
-<p><strong>Smarte und effektive Ayurveda-Seminare aus der Praxis für die Praxis</strong></p>
-<p>Meine 30-jährigen Erfahrungswerte und die Erfahrungswerte der Absolventen meiner Ayurveda-Kurse und Ayurveda-Ausbildungen sind in diesem Kurs mit eingearbeitet.</p>
-<p>Zugang zum Kurs bzw. zur Ausbildung auch nach der Ausbildungszeit, so sind die Ausbildungsinhalte als Wissensdatenbank auch weiterhin abrufbar. Das Wissen wird regelmäßig aktualisiert.</p>
-<p>Alle Updates sind dauerhaft kostenfrei in der Investition für die Seminare / Ausbildungen beinhaltet.  </p>
-<p>So sind fast 20 Lektionen dazu gekommen, um damit den Kurs auch für Vegan zu optimieren.</p>
-<p>Partnerunterstützungsseite: https://ayurvedaschule-online.app.mentortools.com/partner/ayurveda-kochkurs</p>
+**Vendor's marketplace description:** Dieser Ayurveda-Kochkurs ist für Anfänger und Fortgeschrittene geeignet. Empfehle das einzigartige Produkt & verdiene passives Einkommen durch unser effektives Ayurveda-Ausbildungskonzept! Das Wichtigste für Dich als Marketer zuerst: Bewerbe die Ayurvedaschule, mit der auch Du Geld verdienen kannst: 20 % Provisionen auf Deine vermittelten Verkäufe + 20 % Provision auf Upsells und Downsells sowie auf Folgeaufträge ( Lifetime!!! ) Optimierte Verkaufs-Funnel. Große Auswahl optimierter Werbemittel: klickstarke Banner, Vorlagen für E-Mail-Texte für mehr Leads und Verkäufe. Schnelle und persönliche Unterstützung auf Deutsch durch unser Team Besuche jetzt unser Affiliate Center (= unsere Partnerprogramm-Seite), um noch heute Teil der Ayurveda-Online Familie zu werden! Was können die Teilnehmer dieses Ayurveda-Kochkurses Online lernen? Einführung in den Ayurveda Modul 1 – Grundlagen der Ayurvedaküche Modul 2 – Frühstück im Ayurveda und tieferes Verständnis der Konstitution Modul 3 – Mittagessen im Ayurveda und die Verdauung aus ayurvedischer Sicht Modul 4 – Abendessen im Ayurveda und universelle Lebensgesetze Modul 5 – Fladenbrote, Chutneys etc. im Ayurveda und Bedeutung vom Geschmack aus ayurvedischer Sicht Modul 6 – Die geistige Konstitution und Süße und herzhafte Rezepte In diesem Kurs werden über 25 Rezepte vorgekocht mit Anleitung zum Nachkochen inkl. der Rezepte als PDF. Das Wissen ist so aufgearbeitet, dass es auch schnell in der Praxis umgesetzt werden kann. Ich habe es mir zum Ziel gemacht Ayurveda-Seminare und Ausbildungen so zu revolutionieren, dass Teilnehmer meiner Angebote alles schnell und effizient Online erlernen und direkt umsetzen können! Ohne Reisezeit und ohne Reisekosten. Erlernbar sind alle Seminar- und Ausbildungsinhalte bequem von zu Hause aus, das Lernen im eigenen Rhythmus ist so möglich. Smarte und effektive Ayurveda-Seminare aus der Praxis für die Praxis Meine 30-jährigen Erfahrungswerte und die Erfahrungswerte der Absolventen meiner Ayurveda-Kurse und Ayurveda-Ausbildungen sind in diesem Kurs mit eingearbeitet. Zugang zum Kurs bzw. zur Ausbildung auch nach der Ausbildungszeit, so sind die Ausbildungsinhalte als Wissensdatenbank auch weiterhin abrufbar. Das Wissen wird regelmäßig aktualisiert. Alle Updates sind dauerhaft kostenfrei in der Investition für die Seminare / Ausbildungen beinhaltet. So sind fast 20 Lektionen dazu gekommen, um damit den Kurs auch für Vegan zu optimieren. Partnerunterstützungsseite: https://ayurvedaschule-online.app.mentortools.com/partner/ayurveda-kochkurs
 
 ## 2. Links
 

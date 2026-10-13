@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Ein praxisnahes E-Book für die wachsende Zielgruppe Online-Dating ab 50.</strong></p>
-<p>„IST DAS WIRKLICH LIEBE?“ zeigt Frauen und Männern, wie sie Love-Scamming, Fake-Profile und typische Manipulationsstrategien frühzeitig erkennen können.</p>
-<p>Behandelt werden unter anderem Love Bombing, widersprüchliche Geschichten, ständig verschobene Treffen, Geldforderungen, Krypto- und Investmentgeschichten sowie KI-Bilder, Deepfakes und gefälschte Stimmen.</p>
-<p>Ein besonderer Bestandteil ist der <strong>30-Punkte-Love-Scam-Check</strong>, mit dem neue Online-Kontakte systematisch eingeschätzt werden können.</p>
-<p><strong>Produkt:</strong> digitales PDF-E-Book<br /><strong>Umfang:</strong> 84 Seiten<br /><strong>Zielgruppe:</strong> Frauen und Männer ab 50 sowie Angehörige<br /><strong>Verkaufspreis:</strong> 12,90 € einmalig<br /><strong>Auslieferung:</strong> sofortiger digitaler Download</p>
+**Vendor's marketplace description:** Ein praxisnahes E-Book für die wachsende Zielgruppe Online-Dating ab 50. „IST DAS WIRKLICH LIEBE?“ zeigt Frauen und Männern, wie sie Love-Scamming, Fake-Profile und typische Manipulationsstrategien frühzeitig erkennen können. Behandelt werden unter anderem Love Bombing, widersprüchliche Geschichten, ständig verschobene Treffen, Geldforderungen, Krypto- und Investmentgeschichten sowie KI-Bilder, Deepfakes und gefälschte Stimmen. Ein besonderer Bestandteil ist der 30-Punkte-Love-Scam-Check , mit dem neue Online-Kontakte systematisch eingeschätzt werden können. Produkt: digitales PDF-E-Book Umfang: 84 Seiten Zielgruppe: Frauen und Männer ab 50 sowie Angehörige Verkaufspreis: 12,90 € einmalig Auslieferung: sofortiger digitaler Download
 
 ## 2. Links
 

@@ -41,33 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>bis zu 10% Provision | 600.000€ Umsatzpotenzial für 2026</strong></p>
-<h3>Marktplatz-Beschreibung</h3>
-<p><strong>Sichern Sie sich Ihren Anteil am Erfolg: Wir suchen exklusive Partner für ein 600.000 € Projekt!</strong></p>
-<p>Die <strong>H|H Akademie</strong> wächst rasant. Für unser Kern-Event, das <strong>Wochenendseminar EnergieHypnose</strong>, haben wir für das restliche Jahr 2026 ein kalkuliertes Umsatzvolumen von insgesamt <strong>600.000 €</strong> offen. Um dieses Ziel gemeinsam mit Qualitätspartnern zu erreichen, öffnen wir nun ausgewählte Plätze für eine direkte Zusammenarbeit.</p>
-<p><strong>Warum Sie jetzt Teil unserer „Seilschaft“ werden sollten:</strong></p>
-<ul>
-<li>
-<p><strong>Attraktive Vergütung:</strong> Sie erhalten <strong>10% Provision</strong> auf jedes vermittelte Ticket des Wochenendseminars.</p>
-</li>
-<li>
-<p><strong>Durchdachte Product-Ladder:</strong> Unser System greift perfekt ineinander. Über die App und das Tagesseminar „Innerer Reset“ führen wir Kunden zum Wochenendseminar und schließlich in die große Ausbildung. Das bedeutet für Sie: Hochqualifizierte Leads und ein stabiles Ökosystem.</p>
-</li>
-<li>
-<p><strong>Enormes Skalierungspotenzial:</strong> Mit einem noch zu erwirtschaftenden Volumen von <strong>600.000 €</strong> in diesem Jahr bieten wir Ihnen eine Partnerschaft, die sich finanziell wirklich lohnt.</p>
-</li>
-<li>
-<p><strong>WKO-Konformität:</strong> Unsere Werbesprache ist sauber auf die Humanenergetik in Österreich abgestimmt (Mentale Stärke &amp; Energetische Balance) – das sorgt für Sicherheit und Vertrauen bei Ihren Kunden.</p>
-</li>
-</ul>
-<p><strong>Wir suchen keine Massen-Affiliates, sondern echte Partner.</strong> Wir legen Wert auf eine enge, persönliche Zusammenarbeit und unterstützen Sie aktiv dabei, unsere Botschaft vom „Glücksfinder-Prinzip“ erfolgreich zu verbreiten.</p>
-<p><strong>Werden Sie jetzt Partner:</strong> Da wir eine enge Kooperation bevorzugen, bitten wir Sie, nach der Anmeldung kurz mit uns Kontakt aufzunehmen, damit wir die Details der Zusammenarbeit persönlich besprechen können.</p>
-<p><strong>Kontakt:</strong> <a href="mailto:kontakt@hh-akademie.at">kontakt@hh-akademie.at </a></p>
-<p><strong>Web:</strong> <a>www.hh-akademie.at</a></p>
-<p>Wir freuen uns auf den gemeinsamen Gipfelsturm!</p>
-<p>Beste Grüße,</p>
-<p><strong>Herta &amp; Heino</strong></p>
-<p>H|H Akademie</p>
+**Vendor's marketplace description:** bis zu 10% Provision | 600.000€ Umsatzpotenzial für 2026 Marktplatz-Beschreibung Sichern Sie sich Ihren Anteil am Erfolg: Wir suchen exklusive Partner für ein 600.000 € Projekt! Die H|H Akademie wächst rasant. Für unser Kern-Event, das Wochenendseminar EnergieHypnose , haben wir für das restliche Jahr 2026 ein kalkuliertes Umsatzvolumen von insgesamt 600.000 € offen. Um dieses Ziel gemeinsam mit Qualitätspartnern zu erreichen, öffnen wir nun ausgewählte Plätze für eine direkte Zusammenarbeit. Warum Sie jetzt Teil unserer „Seilschaft“ werden sollten: Attraktive Vergütung: Sie erhalten 10% Provision auf jedes vermittelte Ticket des Wochenendseminars. Durchdachte Product-Ladder: Unser System greift perfekt ineinander. Über die App und das Tagesseminar „Innerer Reset“ führen wir Kunden zum Wochenendseminar und schließlich in die große Ausbildung. Das bedeutet für Sie: Hochqualifizierte Leads und ein stabiles Ökosystem. Enormes Skalierungspotenzial: Mit einem noch zu erwirtschaftenden Volumen von 600.000 € in diesem Jahr bieten wir Ihnen eine Partnerschaft, die sich finanziell wirklich lohnt. WKO-Konformität: Unsere Werbesprache ist sauber auf die Humanenergetik in Österreich abgestimmt (Mentale Stärke & Energetische Balance) – das sorgt für Sicherheit und Vertrauen bei Ihren Kunden. Wir suchen keine Massen-Affiliates, sondern echte Partner. Wir legen Wert auf eine enge, persönliche Zusammenarbeit und unterstützen Sie aktiv dabei, unsere Botschaft vom „Glücksfinder-Prinzip“ erfolgreich zu verbreiten. Werden Sie jetzt Partner: Da wir eine enge Kooperation bevorzugen, bitten wir Sie, nach der Anmeldung kurz mit uns Kontakt aufzunehmen, damit wir die Details der Zusammenarbeit persönlich besprechen können. Kontakt: kontakt@hh-akademie.at Web: www.hh-akademie.at Wir freuen uns auf den gemeinsamen Gipfelsturm! Beste Grüße, Herta & Heino H|H Akademie
 
 ## 2. Links
 

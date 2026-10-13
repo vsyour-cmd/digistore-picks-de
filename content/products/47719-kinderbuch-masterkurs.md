@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Kinderbuch Masterkurs - Mit simplen Ausmalbüchern Online Geld verdienen<br /></strong></h2>
-<p> </p>
-<p>Du <strong>als Affiliate bekommst 50% +</strong> bist an weiteren Up- und DownSells beteiligt, sodass du <strong>auf ca. 320 Euro Provision kommst!</strong></p>
-<p>Im Hintergrund werden weitere Optimierungen und Splittests durchgeführt und vieles mehr!</p>
-<p>E-Mail-Vorlagen sind dabei, sodass du sie nutzen kannst.</p>
-<p> </p>
-<p>Der Kunde bekommt:</p>
-<ul>
-<li><strong>... wie du schnell und einfach </strong>richtig gute Kinderbücher erstellst, ohne Texte zu schreiben, die sich dafür sehr gut verkaufen lassen!</li>
-<li><strong>...wie du nebenbei starten kannst,</strong> auch dann, wenn du Vollzeit berufstätig bist und nur wenig Zeit hast!</li>
-<li><strong>...wie du dir durch die vielen Vorlagen</strong> sehr viel Zeit sparen kannst und damit sogar einen unfairen Vorteil hast, weil du<strong> qualitativ hochwertige Vorlagen</strong> nutzen kannst.</li>
-<li><strong>...die künstliche Intelligenz für dich nutzen kannst, </strong>sodass du nicht nur schneller bist, sondern es auch noch deutlich einfacher hast und noch mehr aus den Büchern holen kannst!</li>
-<li><strong>...wie du dir ein nachhaltiges Online-Business aufbaust</strong>, mit dem du Geld verdienen kannst, welches bereits vielen Jahren funktioniert.</li>
-<li><strong>... Bonus 1:</strong> 3 Strategien, um es dir so einfach wie nur möglich zu machen!</li>
-<li><strong>... Bonus 2:</strong> Über 1000 Nischen für Kinderbücher! (Kompletter GameChanger!)</li>
-<li><strong>... Bonus 3:</strong> Wie du in lukrativen Nischen erfolgreich werden kannst.</li>
-</ul>
-<p>Am besten jetzt noch zugreifen! Du erhältst <strong>sofort</strong> Zugriff, auch wenn es 3 Uhr Nachts ist! Klicke einfach auf "Jetzt bezahlen" und sichere dir das sensationelle Angebot.</p>
+**Vendor's marketplace description:** Kinderbuch Masterkurs - Mit simplen Ausmalbüchern Online Geld verdienen Du als Affiliate bekommst 50% + bist an weiteren Up- und DownSells beteiligt, sodass du auf ca. 320 Euro Provision kommst! Im Hintergrund werden weitere Optimierungen und Splittests durchgeführt und vieles mehr! E-Mail-Vorlagen sind dabei, sodass du sie nutzen kannst. Der Kunde bekommt: ... wie du schnell und einfach richtig gute Kinderbücher erstellst, ohne Texte zu schreiben, die sich dafür sehr gut verkaufen lassen! ...wie du nebenbei starten kannst, auch dann, wenn du Vollzeit berufstätig bist und nur wenig Zeit hast! ...wie du dir durch die vielen Vorlagen sehr viel Zeit sparen kannst und damit sogar einen unfairen Vorteil hast, weil du qualitativ hochwertige Vorlagen nutzen kannst. ...die künstliche Intelligenz für dich nutzen kannst, sodass du nicht nur schneller bist, sondern es auch noch deutlich einfacher hast und noch mehr aus den Büchern holen kannst! ...wie du dir ein nachhaltiges Online-Business aufbaust , mit dem du Geld verdienen kannst, welches bereits vielen Jahren funktioniert. ... Bonus 1: 3 Strategien, um es dir so einfach wie nur möglich zu machen! ... Bonus 2: Über 1000 Nischen für Kinderbücher! (Kompletter GameChanger!) ... Bonus 3: Wie du in lukrativen Nischen erfolgreich werden kannst. Am besten jetzt noch zugreifen! Du erhältst sofort Zugriff, auch wenn es 3 Uhr Nachts ist! Klicke einfach auf "Jetzt bezahlen" und sichere dir das sensationelle Angebot.
 
 ## 2. Links
 

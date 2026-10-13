@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<p><strong>Nähre deine Seele – Flow, Feel &amp; Heal</strong><br />Dein Weg zu einem freiem Essverhalten, intuitiver Bewegung und innerer Balance<br /><br />Spürst du, dass es an der Zeit ist, dich von alten Mustern zu lösen?<br />Vielleicht bist du gefangen in Gedanken über Essen, Kalorien und Kontrolle.<br />Vielleicht fühlst du dich beim Thema Bewegung oft unter Druck, zwischen Zwang und Schuld.<br />Oder du sehnst dich danach, dass dein Körper wieder im Einklang ist.<br />Wenn du dich hier wiedererkennst: Du bist nicht allein. Und es gibt einen Weg, da raus.</p>
-<p><strong>In diesem Kurs begleite ich dich Schritt für Schritt dabei:</strong><br />- Ein freies Essverhalten ohne Diätgedanken und ohne Schuldgefühle zurückzugewinnen<br />- Dich wieder intuitiv und freudvoll zu bewegen, ganz ohne Zwang<br />- Deinem Körper die Chance zu geben, in Balance zu kommen, auch für einen gesunden Zyklus<br />- Dich mit anderen zu verbinden, die denselben Weg gehen, in einer liebevollen Community voller Unterstützung, Austausch und Motivation</p>
-<p><strong>Was dich erwartet:</strong><br />✔️ Meditationen &amp; Journaling-Aufgaben<br />✔️ Mehr als 20 Videos, PDFs &amp; praktische Übungen für deinen Alltag<br />✔️ Inspirierende Challenges, die dich motivieren, dranzubleiben<br />✔️ Eine Community, in der du dich austauschen, ermutigen und verstanden fühlen kannst<br />✔️ Meine persönliche Begleitung, ich bin so viel wie möglich für dich da</p>
-<p><strong>Warum dieser Kurs?</strong><br />Weil du es verdienst, frei zu leben! Frei von Essensregeln, frei von Zwang, frei von Schuldgefühlen.<br />Weil Heilung leichter wird, wenn du nicht alleine gehst.<br />Weil dein Körper und deine Seele sich nach Balance, Freude und Energie sehnen.</p>
-<p><strong>Über mich</strong><br />Ich bin Joyana und begleite dich in diesem Kurs mit Herz, Erfahrung und Leidenschaft.<br />Mein Wunsch ist es, dir zu zeigen: Recovery ist möglich und du musst diesen Weg nicht alleine gehen.</p>
-</div>
-</div>
-</div>
-<div>
-<div> </div>
-</div>
+**Vendor's marketplace description:** Nähre deine Seele – Flow, Feel & Heal Dein Weg zu einem freiem Essverhalten, intuitiver Bewegung und innerer Balance Spürst du, dass es an der Zeit ist, dich von alten Mustern zu lösen? Vielleicht bist du gefangen in Gedanken über Essen, Kalorien und Kontrolle. Vielleicht fühlst du dich beim Thema Bewegung oft unter Druck, zwischen Zwang und Schuld. Oder du sehnst dich danach, dass dein Körper wieder im Einklang ist. Wenn du dich hier wiedererkennst: Du bist nicht allein. Und es gibt einen Weg, da raus. In diesem Kurs begleite ich dich Schritt für Schritt dabei: - Ein freies Essverhalten ohne Diätgedanken und ohne Schuldgefühle zurückzugewinnen - Dich wieder intuitiv und freudvoll zu bewegen, ganz ohne Zwang - Deinem Körper die Chance zu geben, in Balance zu kommen, auch für einen gesunden Zyklus - Dich mit anderen zu verbinden, die denselben Weg gehen, in einer liebevollen Community voller Unterstützung, Austausch und Motivation Was dich erwartet: ✔️ Meditationen & Journaling-Aufgaben ✔️ Mehr als 20 Videos, PDFs & praktische Übungen für deinen Alltag ✔️ Inspirierende Challenges, die dich motivieren, dranzubleiben ✔️ Eine Community, in der du dich austauschen, ermutigen und verstanden fühlen kannst ✔️ Meine persönliche Begleitung, ich bin so viel wie möglich für dich da Warum dieser Kurs? Weil du es verdienst, frei zu leben! Frei von Essensregeln, frei von Zwang, frei von Schuldgefühlen. Weil Heilung leichter wird, wenn du nicht alleine gehst. Weil dein Körper und deine Seele sich nach Balance, Freude und Energie sehnen. Über mich Ich bin Joyana und begleite dich in diesem Kurs mit Herz, Erfahrung und Leidenschaft. Mein Wunsch ist es, dir zu zeigen: Recovery ist möglich und du musst diesen Weg nicht alleine gehen.
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Sie möchten Ihre Geld- und anderen Sorgen einfach ent-sorgen? Dann ist dieser Selbstcoaching-Kurs aus der Reihe: "Jetzt geht's den Geldblockaden an den Kragen" genau der richtige!</p>
-<address><strong>Das Download-Paket enthält:</strong></address>
-<ul><li><address>Audio-/MP3-Datei 01A: Aufzeichnung des Geldwebinars  mit einer Klärungs- und Balance-Übung, einer Schreibübung zum Herausfinden der Ängste und Sorgen sowie verschiedenen Klopfrunden zum Auflösen der entdeckten Ängste und Befürchtungen  – Dauer: 1 Stunde und 9 Minuten</address></li>
-<li><address>Audio-/MP3-Datei: 01B mit der Leinwandübung “Dissolving Roses – Sich auflösende Rosen” – MP3-Datei, Dauer: 22:15 Minuten</address></li>
-<li><address>Informationen zu EFT und der Technik des Geborgten Nutzens -PDF-Datei</address></li>
-<li><address>Abbildung der Power-Point-Präsentation während des Webinars – PDF-Datei</address></li>
-</ul>
+**Vendor's marketplace description:** Sie möchten Ihre Geld- und anderen Sorgen einfach ent-sorgen? Dann ist dieser Selbstcoaching-Kurs aus der Reihe: "Jetzt geht's den Geldblockaden an den Kragen" genau der richtige! Das Download-Paket enthält: Audio-/MP3-Datei 01A: Aufzeichnung des Geldwebinars mit einer Klärungs- und Balance-Übung, einer Schreibübung zum Herausfinden der Ängste und Sorgen sowie verschiedenen Klopfrunden zum Auflösen der entdeckten Ängste und Befürchtungen – Dauer: 1 Stunde und 9 Minuten Audio-/MP3-Datei: 01B mit der Leinwandübung “Dissolving Roses – Sich auflösende Rosen” – MP3-Datei, Dauer: 22:15 Minuten Informationen zu EFT und der Technik des Geborgten Nutzens -PDF-Datei Abbildung der Power-Point-Präsentation während des Webinars – PDF-Datei
 
 ## 2. Links
 

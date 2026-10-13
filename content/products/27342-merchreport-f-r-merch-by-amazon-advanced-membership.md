@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div><strong>Weniger Zeitaufwand und mehr Einnahmen mit Merch by Amazon?</strong></div>
-<div> </div>
-<div>Ja, das geht! Mit Merchreport, der All-in-One Lösung für MBA in Deutschland! Das Tool unterstützt dich in allen Bereichen des MBA-Business mit durchdachten Funktionen, die speziell für den deutschen Markt entwickelt wurden.</div>
-<div> </div>
-<div>Starte beispielsweise eine umfangreiche Keywordsuche, finde neue Nischen, checke die aktuellen Bestseller, lege dir Favoriten an, verbessere deine Produktlistings oder überwache deine Konkurrenten. Alles an einem Ort und übersichtlich aufbereitet.</div>
-<div> </div>
-<div> </div>
-<div><strong>Partnerprogramm von Merchreport</strong></div>
-<div> </div>
-<div>Jeder Nutzer soll die Möglichkeit haben, das Tool ausgiebig zu testen, bevor er sich für ein Abo entscheidet. Daher bieten wir einen zeitlich unbegrenzten Free-Account (mit eingeschränktem Funktionsumfang) an. Für jeden neuen User, der sich über deinen Partnerlink für einen kostenlosen Account registriert und innerhalb von 180 Tagen ein Upgrade auf eines unserer Abos durchführt, bekommst du für die gesamte Dauer der Mitgliedschaft 20% Provision auf den Abopreis.</div>
-<div> </div>
-<div><span style="background-color:#ffff00;">Mehr Infos auf: <a style="background-color:#ffff00;" href="https://merchreport.de" target="_blank" rel="noreferrer noopener">merchreport.de</a></span></div>
-</div>
-</div>
+**Vendor's marketplace description:** Weniger Zeitaufwand und mehr Einnahmen mit Merch by Amazon? Ja, das geht! Mit Merchreport, der All-in-One Lösung für MBA in Deutschland! Das Tool unterstützt dich in allen Bereichen des MBA-Business mit durchdachten Funktionen, die speziell für den deutschen Markt entwickelt wurden. Starte beispielsweise eine umfangreiche Keywordsuche, finde neue Nischen, checke die aktuellen Bestseller, lege dir Favoriten an, verbessere deine Produktlistings oder überwache deine Konkurrenten. Alles an einem Ort und übersichtlich aufbereitet. Partnerprogramm von Merchreport Jeder Nutzer soll die Möglichkeit haben, das Tool ausgiebig zu testen, bevor er sich für ein Abo entscheidet. Daher bieten wir einen zeitlich unbegrenzten Free-Account (mit eingeschränktem Funktionsumfang) an. Für jeden neuen User, der sich über deinen Partnerlink für einen kostenlosen Account registriert und innerhalb von 180 Tagen ein Upgrade auf eines unserer Abos durchführt, bekommst du für die gesamte Dauer der Mitgliedschaft 20% Provision auf den Abopreis. Mehr Infos auf: merchreport.de
 
 ## 2. Links
 

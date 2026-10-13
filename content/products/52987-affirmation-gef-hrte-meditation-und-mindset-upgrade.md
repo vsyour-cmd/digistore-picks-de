@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<p>Herzreise und Mindset-Upgrade: Affirmation ist eine Sammlung von positiven, wohltuenden und aufbauenden Sätzen, beginnend mit einer meditativen und entspannungsfördernden Einleitung. Belebe und erfrische deinen Geist, verändere dein Denken und damit dein Leben!</p>
-</div>
-</div>
-<div>
-<div> </div>
-</div>
-<div> </div>
-<div>
-<div><strong>Deine Vorteile als Affiliate:</strong></div>
-<div> </div>
-<ul>
-<li>25% Provision für jeden erzielten Verkauf</li>
-<li>Verbreite Ruhe, Entspannung &amp; Kraft!</li>
-</ul>
-<p> </p>
-<p>Unterstütze Menschen dabei sich zu fühlen, zu entspannen, zur Ruhe- und ihre Kraft zu kommen!</p>
-</div>
+**Vendor's marketplace description:** Herzreise und Mindset-Upgrade: Affirmation ist eine Sammlung von positiven, wohltuenden und aufbauenden Sätzen, beginnend mit einer meditativen und entspannungsfördernden Einleitung. Belebe und erfrische deinen Geist, verändere dein Denken und damit dein Leben! Deine Vorteile als Affiliate: 25% Provision für jeden erzielten Verkauf Verbreite Ruhe, Entspannung & Kraft! Unterstütze Menschen dabei sich zu fühlen, zu entspannen, zur Ruhe- und ihre Kraft zu kommen!
 
 ## 2. Links
 

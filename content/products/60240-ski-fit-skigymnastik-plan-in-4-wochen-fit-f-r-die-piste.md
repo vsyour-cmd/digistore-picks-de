@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Skigymnastik für zu Hause: 12 Workouts in 4 Wochen (20–30 Min., ohne Geräte), 10 bebilderte Übungen für Kraft, Balance und stabile Knie, Tipps für die Piste und nach dem Skitag. 20 Seiten PDF, 12,90 €.</p>
-<p><strong>30 % Provision, Hauptsaison Oktober bis Februar.</strong> Werbemittel und fertige Texte: <a href="https://blitzferien.de/partner/">blitzferien.de/partner</a></p>
-<p>Bitte Partnerlinks als Werbung kennzeichnen, keine Heilversprechen.</p>
+**Vendor's marketplace description:** Skigymnastik für zu Hause: 12 Workouts in 4 Wochen (20–30 Min., ohne Geräte), 10 bebilderte Übungen für Kraft, Balance und stabile Knie, Tipps für die Piste und nach dem Skitag. 20 Seiten PDF, 12,90 €. 30 % Provision, Hauptsaison Oktober bis Februar. Werbemittel und fertige Texte: blitzferien.de/partner Bitte Partnerlinks als Werbung kennzeichnen, keine Heilversprechen.
 
 ## 2. Links
 

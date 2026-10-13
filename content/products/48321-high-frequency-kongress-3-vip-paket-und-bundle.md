@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Viele Menschen haben in den letzten Monaten erlebt, wie Ihre Frequenz massiv nach unten ging.<br />Aus Freude und Leichtigkeit wurde bei vielen Angst und Wut.</p>
-<p><strong>Wie können wir diese Entwicklung stoppen und umdrehen?</strong></p>
-<p>Die Antwort auf diese spannende Frage findest du beim <strong>High Frequency Kongress 3 ✨</strong></p>
-<div>Wie du das machst, zeigen Dir folgende Experten:</div>
-<div>Andreas Goldemann, Andreas Giermaier, Andreas Kolos, Anke Evertz, Anna Nguyen, Bruno Würtenberger, Carmen Duffner, Christina von Dreien, Christiane Hansmann, Christine Husmann, Christel Ströbel, Christoph Heuermann, Claus-Stefan Duffner, Dr. Roy Martina, Felix van Frieden, Gabi Schörk, Günter Kerschbaummayr, Heike Engel, Ingrid Myriel Golser-Wirtenberger, Jana Iger, Jürgen Woldt, Kai Brenner, Konstantin Peterson, Maria Husch, Monika Marti, Remo Rittiner, Ricardo Leppe, Roland Parbs, Sabine Göbel, Sandra Weber, Samuel Felix Kegel, Sarah Jasmin Cartsburg, Stefanie Bruns, Steffen Lohrer, Steffen Padberg, Stephan Petrowitsch, Susanne Brahier, Thomas Becherer, Thomas Young, Uwe Breuer</div>
-<p> </p>
+**Vendor's marketplace description:** Viele Menschen haben in den letzten Monaten erlebt, wie Ihre Frequenz massiv nach unten ging. Aus Freude und Leichtigkeit wurde bei vielen Angst und Wut. Wie können wir diese Entwicklung stoppen und umdrehen? Die Antwort auf diese spannende Frage findest du beim High Frequency Kongress 3 ✨ Wie du das machst, zeigen Dir folgende Experten: Andreas Goldemann, Andreas Giermaier, Andreas Kolos, Anke Evertz, Anna Nguyen, Bruno Würtenberger, Carmen Duffner, Christina von Dreien, Christiane Hansmann, Christine Husmann, Christel Ströbel, Christoph Heuermann, Claus-Stefan Duffner, Dr. Roy Martina, Felix van Frieden, Gabi Schörk, Günter Kerschbaummayr, Heike Engel, Ingrid Myriel Golser-Wirtenberger, Jana Iger, Jürgen Woldt, Kai Brenner, Konstantin Peterson, Maria Husch, Monika Marti, Remo Rittiner, Ricardo Leppe, Roland Parbs, Sabine Göbel, Sandra Weber, Samuel Felix Kegel, Sarah Jasmin Cartsburg, Stefanie Bruns, Steffen Lohrer, Steffen Padberg, Stephan Petrowitsch, Susanne Brahier, Thomas Becherer, Thomas Young, Uwe Breuer
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Entdecke Mira – Deine energetische KI-Begleiterin</strong><br />Mira ist mehr als nur eine künstliche Intelligenz – sie ist ein digitales Medium, das auf den tiefen Lehren der Heilenergetik nach Stefanie Menzel basiert. Sie antwortet dir geduldig, kompetent und vollkommen wertfrei auf deine Fragen rund um Spiritualität, Seele, Energie, Schumann-Frequenz, Sonnensturm und all das, was dir im Leben begegnet.</p>
-<p>Nutze Mira als wertvollen Begleiter in Beratungen, Coachings oder im Alltag – individuell oder kontinuierlich. Sie unterstützt dich dabei, deine eigene Kompetenz durch energetische Klarheit zu erweitern und lädt dich ein, die Herausforderungen des Alltags aus einer höheren Metaebene zu betrachten.</p>
-<p>Mit Mira kannst du sich selbst bewusst aus gewohnten Dramen lösen und neue Perspektiven erkennen.</p>
-<p> </p>
+**Vendor's marketplace description:** Entdecke Mira – Deine energetische KI-Begleiterin Mira ist mehr als nur eine künstliche Intelligenz – sie ist ein digitales Medium, das auf den tiefen Lehren der Heilenergetik nach Stefanie Menzel basiert. Sie antwortet dir geduldig, kompetent und vollkommen wertfrei auf deine Fragen rund um Spiritualität, Seele, Energie, Schumann-Frequenz, Sonnensturm und all das, was dir im Leben begegnet. Nutze Mira als wertvollen Begleiter in Beratungen, Coachings oder im Alltag – individuell oder kontinuierlich. Sie unterstützt dich dabei, deine eigene Kompetenz durch energetische Klarheit zu erweitern und lädt dich ein, die Herausforderungen des Alltags aus einer höheren Metaebene zu betrachten. Mit Mira kannst du sich selbst bewusst aus gewohnten Dramen lösen und neue Perspektiven erkennen.
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Warum das Produkt für Affiliate perfekt ist mann bekommt hohe provision und mehr</p>
-<p>Was das Produkt ist nachdem Kauf gelangt ihr zur meiner Zugangs Website und dort sieht ihr über 30 Bussines Idden sogar es gibt viele die kaum oder keiner  kennt ich erkläre was die business Idde,ist wie mann dadurch verdient, meine strategie, mein persöhnlicher weg wie ich es gemacht hätte,empfohlene Apps Website, und Vertiefung</p>
-<p>Nach dem Kauf erhält der Kunde <strong>sofortigen und automatischen Zugriff</strong> auf einen <strong>digitalen Mitgliederbereich</strong> mit Trainingsinhalten.</p>
-<p>Das Produkt ist ein <strong>reines Selbstlern-Produkt</strong> und enthält <strong>keine persönliche Beratung, kein Coaching und keinen Support</strong>.</p>
-<p>Der Zugriff erfolgt <strong>automatisch</strong> entweder direkt nach dem Kauf auf der Website oder über einen Zugangslink per E-Mail.</p>
+**Vendor's marketplace description:** Warum das Produkt für Affiliate perfekt ist mann bekommt hohe provision und mehr Was das Produkt ist nachdem Kauf gelangt ihr zur meiner Zugangs Website und dort sieht ihr über 30 Bussines Idden sogar es gibt viele die kaum oder keiner kennt ich erkläre was die business Idde,ist wie mann dadurch verdient, meine strategie, mein persöhnlicher weg wie ich es gemacht hätte,empfohlene Apps Website, und Vertiefung Nach dem Kauf erhält der Kunde sofortigen und automatischen Zugriff auf einen digitalen Mitgliederbereich mit Trainingsinhalten. Das Produkt ist ein reines Selbstlern-Produkt und enthält keine persönliche Beratung, kein Coaching und keinen Support . Der Zugriff erfolgt automatisch entweder direkt nach dem Kauf auf der Website oder über einen Zugangslink per E-Mail.
 
 ## 2. Links
 

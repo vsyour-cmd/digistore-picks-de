@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>löst das täglichste aller Probleme: 'Was koche ich heute?' Statt endlos zu scrollen, wählt der Nutzer einfach seine Stimmung – Mealody schlägt passende Rezepte vor. 200 Rezepte, Wochenplaner, automatische Einkaufslisten. Zielgruppe: Alle, die kochen, aber keine Lust auf Entscheidungsstress haben – besonders Berufstätige und Familien. Einmalzahlung statt Abo, kein Konto, kein Tracking.</p>
+**Vendor's marketplace description:** löst das täglichste aller Probleme: 'Was koche ich heute?' Statt endlos zu scrollen, wählt der Nutzer einfach seine Stimmung – Mealody schlägt passende Rezepte vor. 200 Rezepte, Wochenplaner, automatische Einkaufslisten. Zielgruppe: Alle, die kochen, aber keine Lust auf Entscheidungsstress haben – besonders Berufstätige und Familien. Einmalzahlung statt Abo, kein Konto, kein Tracking.
 
 ## 2. Links
 

@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „SMMA skalieren“</strong></p>
-<p>Prozesse, Team und Retainer-Kunden systematisch aufbauen – Mehr Kunden ohne System bedeuten oft nur mehr Chaos. Angebot schärfen, Prozesse aufsetzen, ein Team aufbauen, Kunden mit System gewinnen und Retainer planbar machen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Vom Einzelkämpfer zur skalierbaren Agentur</li>
-<li>Angebot schärfen und Preise erhöhen</li>
-<li>Prozesse, Tools und ein Team aufbauen</li>
-<li>Kunden mit System gewinnen und Retainer nutzen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „SMMA skalieren“ Prozesse, Team und Retainer-Kunden systematisch aufbauen – Mehr Kunden ohne System bedeuten oft nur mehr Chaos. Angebot schärfen, Prozesse aufsetzen, ein Team aufbauen, Kunden mit System gewinnen und Retainer planbar machen. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Vom Einzelkämpfer zur skalierbaren Agentur Angebot schärfen und Preise erhöhen Prozesse, Tools und ein Team aufbauen Kunden mit System gewinnen und Retainer nutzen
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>80% Provision für Dich </strong></h2>
-<h2><strong>vom Frontend Kurs</strong></h2>
-<p><strong>Diese Kursinhalte sind pure Praxiserfahrung.</strong></p>
+**Vendor's marketplace description:** 80% Provision für Dich vom Frontend Kurs Diese Kursinhalte sind pure Praxiserfahrung.
 
 ## 2. Links
 

@@ -41,42 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>1:1 Online Training per Video</p>
-<p><strong>Mentale Klarheit auf Knopfdruck – mitten im echten Leben.</strong></p>
-<p>Stell dir vor, du könntest deinen Fokus, deine Gelassenheit und deine Wahrnehmung genau dann umschalten, wenn du es brauchst: In stressigen Meetings, bei wichtigen Entscheidungen oder mitten im turbulenten Alltag.</p>
-<p>Genau das ist der <strong>Gamma-Zustand</strong>.</p>
-<p><strong>Das Gamma-Frequenz-Protokoll: Wissenschaftlich fundierte Neuronetz-Steuerung für den Alltag<br />Die 4 Kernkomponenten des Gamma-Frequenz-Protokolls</strong></p>
-<ul>
-<li>
-<p><strong>1. Der Ziel-Zustand (Gamma-Frequenz):</strong></p>
-<p>Gamma-Gehirnwellen stehen in der Neurowissenschaft für kognitive Spitzenleistung, fokussierte Informationsverarbeitung, neuronale Flexibilität („Aha-Momente“) und die synchrone Vernetzung beider Gehirnhälften.</p>
-</li>
-<li>
-<p><strong>2. Der Anwendungs-Kontext (Die Indikation):</strong></p>
-<p>Es dient als gezielte Interventions-Routine bei akuter kognitiver Überlastung (z. B. durch KI-Transformation, Reizüberflutung), zur schnellen Beseitigung von Brain Fog sowie zur effektiven Regulation von Jetlag und Schlafstörungen bei Vielfliegenden.</p>
-</li>
-<li>
-<p><strong>3. Die Struktur (Der standardisierte Ablauf):</strong></p>
-<p>Kein vages Entspannungsverfahren, sondern eine klare Schritt-für-Schritt-Anleitung. Es definiert exakt, welche spezifischen inneren Techniken (z. B. Atemmuster, Frequenz-Ansteuerung, neuronale Fokusübungen) in welcher Reihenfolge und Dauer angewendet werden.</p>
-</li>
-<li>
-<p><strong>4. Messbarkeit &amp; Alltagstauglichkeit:</strong></p>
-<p>Ein Protokoll zeichnet sich durch seine Reproduzierbarkeit aus. Für Anwender bedeutet das: Eine kompakte, verlässliche Routine, die vor wichtigen Begegnungen wie Meetings, nach Flügen oder bei mentaler Erschöpfung in wenigen Minuten eigenständig abgerufen werden kann.</p>
-</li>
-</ul>
-<h3><strong>Das 1:1 Gamma-Mentoring</strong></h3>
-<p><em>Das Fundament für bewusste Selbstregulation im Alltag.</em></p>
-<ul>
-<li>
-<p><strong>8 persönliche 1:1-Videositzungen</strong> (verteilt über ca. 2–4 Monate, abgestimmt auf dein Lerntempo)</p>
-</li>
-<li>
-<p><strong>Persönlicher Kontakt </strong>über die üblichen Kanäle zwischen den Sitzungen: Ich bin an deiner Seite, wenn im Alltag Fragen oder Hürden auftauchen.</p>
-</li>
-<li>
-<p><strong>Ziel:</strong> Du beherrschst den Gamma-Schalter selbstständig und wendest ihn ganz natürlich in deinem Leben an.</p>
-</li>
-</ul>
+**Vendor's marketplace description:** 1:1 Online Training per Video Mentale Klarheit auf Knopfdruck – mitten im echten Leben. Stell dir vor, du könntest deinen Fokus, deine Gelassenheit und deine Wahrnehmung genau dann umschalten, wenn du es brauchst: In stressigen Meetings, bei wichtigen Entscheidungen oder mitten im turbulenten Alltag. Genau das ist der Gamma-Zustand . Das Gamma-Frequenz-Protokoll: Wissenschaftlich fundierte Neuronetz-Steuerung für den Alltag Die 4 Kernkomponenten des Gamma-Frequenz-Protokolls 1. Der Ziel-Zustand (Gamma-Frequenz): Gamma-Gehirnwellen stehen in der Neurowissenschaft für kognitive Spitzenleistung, fokussierte Informationsverarbeitung, neuronale Flexibilität („Aha-Momente“) und die synchrone Vernetzung beider Gehirnhälften. 2. Der Anwendungs-Kontext (Die Indikation): Es dient als gezielte Interventions-Routine bei akuter kognitiver Überlastung (z. B. durch KI-Transformation, Reizüberflutung), zur schnellen Beseitigung von Brain Fog sowie zur effektiven Regulation von Jetlag und Schlafstörungen bei Vielfliegenden. 3. Die Struktur (Der standardisierte Ablauf): Kein vages Entspannungsverfahren, sondern eine klare Schritt-für-Schritt-Anleitung. Es definiert exakt, welche spezifischen inneren Techniken (z. B. Atemmuster, Frequenz-Ansteuerung, neuronale Fokusübungen) in welcher Reihenfolge und Dauer angewendet werden. 4. Messbarkeit & Alltagstauglichkeit: Ein Protokoll zeichnet sich durch seine Reproduzierbarkeit aus. Für Anwender bedeutet das: Eine kompakte, verlässliche Routine, die vor wichtigen Begegnungen wie Meetings, nach Flügen oder bei mentaler Erschöpfung in wenigen Minuten eigenständig abgerufen werden kann. Das 1:1 Gamma-Mentoring Das Fundament für bewusste Selbstregulation im Alltag. 8 persönliche 1:1-Videositzungen (verteilt über ca. 2–4 Monate, abgestimmt auf dein Lerntempo) Persönlicher Kontakt über die üblichen Kanäle zwischen den Sitzungen: Ich bin an deiner Seite, wenn im Alltag Fragen oder Hürden auftauchen. Ziel: Du beherrschst den Gamma-Schalter selbstständig und wendest ihn ganz natürlich in deinem Leben an.
 
 ## 2. Links
 

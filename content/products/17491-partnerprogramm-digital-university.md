@@ -41,35 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Die Digital University <br /><span style="font-size:14px;">(mit allem was du für ein erfolgreiches Online Business, eine erfolgreiche Website oder WebShop brauchst)</span></h1>
-<div>
-<ul>
-<li>50% Provision<br />Aktueller Verkaufspreis 249,50€ &gt; aktueller Verdienst pro Verkauf 124,75€</li>
-<li>umfangreiches Paket bestehend aus hochwertigen Infoprodukten</li>
-<li>Werbemittel vorhanden</li>
-</ul>
-<p> </p>
-<h2>Das Produkt</h2>
-<p>In meiner Digital University bekommst du erprobte Onlinekurse, die dir zeigen wie du dir ein eigenes Business aufbauen kannst, Online für mehr Verkäufe sorgst, den Traffic deiner Website steigerst und vieles mehr. </p>
-<p>Als Mitglied erhältst du <strong>sofort den Komplettzugang</strong> und kannst auf alle Inhalte zugreifen, inkl. künftigen Erweiterungen und neuen Kurse. (Dienstleistungen ausgeschlossen)</p>
-<p>Mir ist wichtig, dass du wirklich Erfolg mit meinen Strategien und Tipps hast. Deshalb lasse ich dich auch bei Fragen oder Problemen nicht allein. <strong>Persönlicher Support ist bei mir immer inklusive.</strong> Solltest du also Fragen haben oder einen Rat benötigen, kannst du mich jederzeit kontaktieren.</p>
-<p>Die Digital University beinhaltet zum Beispiel die folgenden Produkte:</p>
-<div>
-<ul>
-<li>SEO Traffic Strategie (im Wert von 359€)</li>
-<li>Die Einkommenrakete (im Wert von 157€)</li>
-<li>Das 1x1 des Online Business (im Wert von 49€)</li>
-<li>Mehr als 25 Möglichkeiten zum sofort Geld verdienen (im Wert von 49€)</li>
-<li>Thrive Themes - Die ultimative Anleitung (im Wert von 19€)</li>
-<li>Meine 11 besten Traffic Strategien (im Wert von 79€)</li>
-<li>Premium Content Strategien (im Wert von 29€)</li>
-<li>WordPress Website erstellen (im Wert von 29€)</li>
-<li>Der ultimative Video Sales Letter (im Wert von 49€)</li>
-<li>kostenlosen Zugriff auf alle künftigen Produkte von mir</li>
-</ul>
-</div>
-<p> </p>
-</div>
+**Vendor's marketplace description:** Die Digital University (mit allem was du für ein erfolgreiches Online Business, eine erfolgreiche Website oder WebShop brauchst) 50% Provision Aktueller Verkaufspreis 249,50€ > aktueller Verdienst pro Verkauf 124,75€ umfangreiches Paket bestehend aus hochwertigen Infoprodukten Werbemittel vorhanden Das Produkt In meiner Digital University bekommst du erprobte Onlinekurse, die dir zeigen wie du dir ein eigenes Business aufbauen kannst, Online für mehr Verkäufe sorgst, den Traffic deiner Website steigerst und vieles mehr. Als Mitglied erhältst du sofort den Komplettzugang und kannst auf alle Inhalte zugreifen, inkl. künftigen Erweiterungen und neuen Kurse. (Dienstleistungen ausgeschlossen) Mir ist wichtig, dass du wirklich Erfolg mit meinen Strategien und Tipps hast. Deshalb lasse ich dich auch bei Fragen oder Problemen nicht allein. Persönlicher Support ist bei mir immer inklusive. Solltest du also Fragen haben oder einen Rat benötigen, kannst du mich jederzeit kontaktieren. Die Digital University beinhaltet zum Beispiel die folgenden Produkte: SEO Traffic Strategie (im Wert von 359€) Die Einkommenrakete (im Wert von 157€) Das 1x1 des Online Business (im Wert von 49€) Mehr als 25 Möglichkeiten zum sofort Geld verdienen (im Wert von 49€) Thrive Themes - Die ultimative Anleitung (im Wert von 19€) Meine 11 besten Traffic Strategien (im Wert von 79€) Premium Content Strategien (im Wert von 29€) WordPress Website erstellen (im Wert von 29€) Der ultimative Video Sales Letter (im Wert von 49€) kostenlosen Zugriff auf alle künftigen Produkte von mir
 
 ## 2. Links
 

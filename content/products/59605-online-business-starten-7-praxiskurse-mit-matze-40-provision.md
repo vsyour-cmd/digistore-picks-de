@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Sieben Praxiskurse. Ein Paket für den Einstieg ins Online-Business.</h2>
-<p>Empfiehl deiner deutschsprachigen Zielgruppe ein Paket für Content, Affiliate-Marketing, digitale Bücher und Handel. Die Käufer vergleichen verschiedene Ansätze und entwickeln mit Aufgaben, Arbeitsmappen und Vorlagen ihren eigenen Startplan.</p>
-<ul>
-<li>Faceless-Videos, Amazon KDP, Affiliate-Website und Landingpage.</li>
-<li>Amazon PartnerNet, TikTok Shop Affiliate und Amazon FBA.</li>
-<li>Sieben ZIP-Downloads mit schriftlichen PDF-Lektionen, Arbeitsmappen und bearbeitbaren Vorlagen.</li>
-<li>499 € einmalig, kein Abo. 40 % Affiliate-Provision gemäß Digistore24-Abrechnung.</li>
-</ul>
-<h3>Deine Werbemittel</h3>
-<p>Vollflächiges Matze-Szenencover, Social-Media-Texte, Pinterest-Text, E-Mail-Vorlage und Partnerlink-Generator: direkt zum Produkt auf unserer Affiliate-Support-Seite.</p>
-<p>Für Einsteiger, die ein eigenes Projekt planen und selbst umsetzen wollen. Schriftliches Selbstlernmaterial ohne Videolektionen oder persönliche Betreuung. Externe Konten, Freigaben und Kosten sind nicht enthalten. Keine garantierten Einnahmen oder Verkäufe.</p>
-<p>Affiliate-Support: info@einfachhaltbar.de</p>
+**Vendor's marketplace description:** Sieben Praxiskurse. Ein Paket für den Einstieg ins Online-Business. Empfiehl deiner deutschsprachigen Zielgruppe ein Paket für Content, Affiliate-Marketing, digitale Bücher und Handel. Die Käufer vergleichen verschiedene Ansätze und entwickeln mit Aufgaben, Arbeitsmappen und Vorlagen ihren eigenen Startplan. Faceless-Videos, Amazon KDP, Affiliate-Website und Landingpage. Amazon PartnerNet, TikTok Shop Affiliate und Amazon FBA. Sieben ZIP-Downloads mit schriftlichen PDF-Lektionen, Arbeitsmappen und bearbeitbaren Vorlagen. 499 € einmalig, kein Abo. 40 % Affiliate-Provision gemäß Digistore24-Abrechnung. Deine Werbemittel Vollflächiges Matze-Szenencover, Social-Media-Texte, Pinterest-Text, E-Mail-Vorlage und Partnerlink-Generator: direkt zum Produkt auf unserer Affiliate-Support-Seite. Für Einsteiger, die ein eigenes Projekt planen und selbst umsetzen wollen. Schriftliches Selbstlernmaterial ohne Videolektionen oder persönliche Betreuung. Externe Konten, Freigaben und Kosten sind nicht enthalten. Keine garantierten Einnahmen oder Verkäufe. Affiliate-Support: info@einfachhaltbar.de
 
 ## 2. Links
 

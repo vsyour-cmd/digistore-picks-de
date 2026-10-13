@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Praxisnaher Online-Dating-Ratgeber für Singles, die ihre Kommunikation auf Dating-Apps verbessern möchten.</p>
-<p>Dieses E-Book begleitet den Leser vom eigenen Profil über die erste Nachricht bis hin zum Gesprächsaufbau und dem Übergang zum Date.</p>
-<p>Produktinhalt:</p>
-<ul>
-<li>Über 50 Beispielnachrichten</li>
-<li>5 Schritt-für-Schritt erklärte Beispiel-Chatverläufe</li>
-<li>Schritt-für-Schritt-Anleitung vom Match bis zum Date</li>
-</ul>
-<p>Ideal für Content rund um Online-Dating, Beziehungen und Persönlichkeitsentwicklung.</p>
+**Vendor's marketplace description:** Praxisnaher Online-Dating-Ratgeber für Singles, die ihre Kommunikation auf Dating-Apps verbessern möchten. Dieses E-Book begleitet den Leser vom eigenen Profil über die erste Nachricht bis hin zum Gesprächsaufbau und dem Übergang zum Date. Produktinhalt: Über 50 Beispielnachrichten 5 Schritt-für-Schritt erklärte Beispiel-Chatverläufe Schritt-für-Schritt-Anleitung vom Match bis zum Date Ideal für Content rund um Online-Dating, Beziehungen und Persönlichkeitsentwicklung.
 
 ## 2. Links
 

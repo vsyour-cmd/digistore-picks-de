@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#ff0000;"><strong>Verschenke unsern neuen Bestseller "Das 24 Stunden Startup" an deine Leser / Kunden und wir zahlen dir 5€ Provision für jede Bestellung!</strong></span></h2>
-<ul>
-<li>211 Seiten extrem guter Content</li>
-<li>Hochwertig als echtes Buch produziert</li>
-<li>Das Standard-Werk für alle die schnell ein eigenes Projekt starten wollen</li>
-<li>Über 4.500 Bücher am ersten Tag verschenkt</li>
-<li>Gemeinsam mit Gründercoach Christoph J. F. Schreiber erstellt</li>
-<li>Sehr geringe Stornoquote</li>
-</ul>
-<p><strong>Wir zahlen dir 5€ Provision für jede Bestellung!</strong> Melde dich jetzt als Affiliate an und wir schicken dir sofort eine perfekte Textvorlage zu! </p>
-<p>Beste Grüße aus Köln<br />Dein Thomas Klußmann<br />- Gründer.de -</p>
+**Vendor's marketplace description:** Verschenke unsern neuen Bestseller "Das 24 Stunden Startup" an deine Leser / Kunden und wir zahlen dir 5€ Provision für jede Bestellung! 211 Seiten extrem guter Content Hochwertig als echtes Buch produziert Das Standard-Werk für alle die schnell ein eigenes Projekt starten wollen Über 4.500 Bücher am ersten Tag verschenkt Gemeinsam mit Gründercoach Christoph J. F. Schreiber erstellt Sehr geringe Stornoquote Wir zahlen dir 5€ Provision für jede Bestellung! Melde dich jetzt als Affiliate an und wir schicken dir sofort eine perfekte Textvorlage zu! Beste Grüße aus Köln Dein Thomas Klußmann - Gründer.de -
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein interaktives Premium-Workbook für Menschen, die ihre Identität bewusst verändern und dadurch ihre Realität nachhaltig gestalten möchten.</p>
-<p>Statt oberflächlicher Motivation erhältst du ein strukturiertes System aus Reflexionsfragen, Übungen und Denkmodellen, die dir helfen können, langfristige Veränderungen in deinem Leben aufzubauen.</p>
-<p><strong>Digital • Sofort verfügbar • Mobile optimiert</strong></p>
-<p>Hinweis: Dieses Workbook dient ausschließlich der persönlichen Reflexion und Weiterbildung. Es ersetzt keine psychologische, psychotherapeutische oder medizinische Beratung oder Behandlung. Es werden keine individuellen Erfolge garantiert.</p>
+**Vendor's marketplace description:** Ein interaktives Premium-Workbook für Menschen, die ihre Identität bewusst verändern und dadurch ihre Realität nachhaltig gestalten möchten. Statt oberflächlicher Motivation erhältst du ein strukturiertes System aus Reflexionsfragen, Übungen und Denkmodellen, die dir helfen können, langfristige Veränderungen in deinem Leben aufzubauen. Digital • Sofort verfügbar • Mobile optimiert Hinweis: Dieses Workbook dient ausschließlich der persönlichen Reflexion und Weiterbildung. Es ersetzt keine psychologische, psychotherapeutische oder medizinische Beratung oder Behandlung. Es werden keine individuellen Erfolge garantiert.
 
 ## 2. Links
 

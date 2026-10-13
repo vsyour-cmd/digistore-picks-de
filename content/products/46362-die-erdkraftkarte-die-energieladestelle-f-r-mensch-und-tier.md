@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die Erkraft-Lichtkarte ist die neue Energiemedizin!</strong><br />Sie wird eingesetzt als Ladestation zur Energetisierung, Leistungssteigerung und Meditation.</p>
-<p><strong>Die Erdkraftkarte - Die Energieladestelle für Mensch &amp; Tier!</strong></p>
-<p>Die Lebensenergie die die Erdkraftkarte abgibt, können sensitive Menschen spüren.  Sie sind elanvoller und haben mehr Power.</p>
-<p>Auch normales Wasser, welches man auf der Erdkraftkarte stellt,  lässt sich in Heilwasser umwandeln.</p>
-<p><strong>Die Provision beträgt ca. 16 € netto.</strong></p>
-<p><strong>• Die Zielgruppe:</strong></p>
-<p>Käufer sind Liebhaber von Esoterikartikeln , Reiki-Praktiker/innen und eigentlich alle Menschen, welche die oben genannten Produkteigenschaften zu schätzen wissen (gesundheitsbewußte Menschen, Sportler).</p>
+**Vendor's marketplace description:** Die Erkraft-Lichtkarte ist die neue Energiemedizin! Sie wird eingesetzt als Ladestation zur Energetisierung, Leistungssteigerung und Meditation. Die Erdkraftkarte - Die Energieladestelle für Mensch & Tier! Die Lebensenergie die die Erdkraftkarte abgibt, können sensitive Menschen spüren. Sie sind elanvoller und haben mehr Power. Auch normales Wasser, welches man auf der Erdkraftkarte stellt, lässt sich in Heilwasser umwandeln. Die Provision beträgt ca. 16 € netto. • Die Zielgruppe: Käufer sind Liebhaber von Esoterikartikeln , Reiki-Praktiker/innen und eigentlich alle Menschen, welche die oben genannten Produkteigenschaften zu schätzen wissen (gesundheitsbewußte Menschen, Sportler).
 
 ## 2. Links
 

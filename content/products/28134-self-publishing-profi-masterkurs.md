@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Vermarkte den Self Publishing Profi Masterkurs! Du bekommst dafür <strong>40% Provision</strong>!</p>
-<p>Und für alle weiteren Upsells gibt es ebenfalls Provision!</p>
-<p>Für dieses Produkt bekommst du 90,05 € Provision.</p>
-<p><strong>Du kannst derzeit bis zu 182,70 Euro (alles Einmalzahlung oder 205,54 € bei monatlicher Zahlung) pro Sale verdienen im gesamten Funnel!!</strong></p>
-<p>Das spricht für den Kurs:</p>
-<ul><li>Schritt für Schritt vom Anfänger bis zum ersten eBook und Taschenbuch zum Profi</li>
-<li>Zeigt den Teilnehmern alle Schritte von der Nischenanalyse über Ghostwriter finden, Covererstellung und Marketing, Automatisierung und Skalierung!</li>
-<li>Profi Marketing Strategien</li>
-<li>ständig NEUE Inhalte</li>
-<li>Über<strong> 7,25 Stunden</strong> im Profikurs + 2 Std. Mindset Kurs! =&gt; <strong>9,25 Stunden Content</strong></li>
-<li>Theorie &amp; Praxis!</li>
-<li>Checklisten, Vorlagen, Templates, etc.! All-In-One Package!</li>
-<li>ständige Updates vom Kurs</li>
-<li>VIP Support</li>
-<li>Prüfungsmöglchkeit am Ende des Kurses mit Teilnahmebestätigung und Qualifikation</li>
-</ul><p>Profitiere somit auch du von dem Trend des Self Publishings und des einfachen Einstiegs!</p>
+**Vendor's marketplace description:** Vermarkte den Self Publishing Profi Masterkurs! Du bekommst dafür 40% Provision ! Und für alle weiteren Upsells gibt es ebenfalls Provision! Für dieses Produkt bekommst du 90,05 € Provision. Du kannst derzeit bis zu 182,70 Euro (alles Einmalzahlung oder 205,54 € bei monatlicher Zahlung) pro Sale verdienen im gesamten Funnel!! Das spricht für den Kurs: Schritt für Schritt vom Anfänger bis zum ersten eBook und Taschenbuch zum Profi Zeigt den Teilnehmern alle Schritte von der Nischenanalyse über Ghostwriter finden, Covererstellung und Marketing, Automatisierung und Skalierung! Profi Marketing Strategien ständig NEUE Inhalte Über 7,25 Stunden im Profikurs + 2 Std. Mindset Kurs! => 9,25 Stunden Content Theorie & Praxis! Checklisten, Vorlagen, Templates, etc.! All-In-One Package! ständige Updates vom Kurs VIP Support Prüfungsmöglchkeit am Ende des Kurses mit Teilnahmebestätigung und Qualifikation Profitiere somit auch du von dem Trend des Self Publishings und des einfachen Einstiegs!
 
 ## 2. Links
 

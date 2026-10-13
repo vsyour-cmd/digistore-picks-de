@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Toxische-Fakten-Buch bietet verständliche Orientierung zu Narzissmus, narzisstischen Beziehungsmustern, toxischen Beziehungen und emotionaler Manipulation.</p>
-<p>Behandelt werden unter anderem Gaslighting, Love Bombing, Silent Treatment, Trauma Bonding, Future Faking und Hoovering. Die Inhalte sind ruhig, verständlich und alltagsnah aufbereitet.</p>
-<p>Das Angebot umfasst:<br />• E-Book als PDF mit 136 gestalteten Seiten<br />• 16 Themenkapitel<br />• Workbook zur Einordnung der eigenen Situation<br />• 10 kompakte Checklisten<br />• 4 ausführlich eingeordnete Fallbeispiele<br />• Hörbuch als MP3 mit etwa 2 Stunden 30 Minuten Laufzeit<br />• E-Book und Hörbuch auch gemeinsam als Bundle</p>
-<p>Geeignet für Creator aus den Bereichen Beziehungen, Psychologie, persönliche Entwicklung, Selbstfürsorge und Aufklärung. Eine kompakte Leseprobe, Produktbilder, Story- und Feed-Motive sowie fertige Werbetexte stehen zur Verfügung.</p>
-<p>Die Verkaufsseite führt E-Book, Hörbuch und Bundle transparent auf. Die digitale Auslieferung erfolgt unmittelbar nach dem Kauf. Das Produkt dient der Aufklärung und Bildung und ersetzt keine Therapie, Diagnose oder individuelle Beratung.</p>
+**Vendor's marketplace description:** Das Toxische-Fakten-Buch bietet verständliche Orientierung zu Narzissmus, narzisstischen Beziehungsmustern, toxischen Beziehungen und emotionaler Manipulation. Behandelt werden unter anderem Gaslighting, Love Bombing, Silent Treatment, Trauma Bonding, Future Faking und Hoovering. Die Inhalte sind ruhig, verständlich und alltagsnah aufbereitet. Das Angebot umfasst: • E-Book als PDF mit 136 gestalteten Seiten • 16 Themenkapitel • Workbook zur Einordnung der eigenen Situation • 10 kompakte Checklisten • 4 ausführlich eingeordnete Fallbeispiele • Hörbuch als MP3 mit etwa 2 Stunden 30 Minuten Laufzeit • E-Book und Hörbuch auch gemeinsam als Bundle Geeignet für Creator aus den Bereichen Beziehungen, Psychologie, persönliche Entwicklung, Selbstfürsorge und Aufklärung. Eine kompakte Leseprobe, Produktbilder, Story- und Feed-Motive sowie fertige Werbetexte stehen zur Verfügung. Die Verkaufsseite führt E-Book, Hörbuch und Bundle transparent auf. Die digitale Auslieferung erfolgt unmittelbar nach dem Kauf. Das Produkt dient der Aufklärung und Bildung und ersetzt keine Therapie, Diagnose oder individuelle Beratung.
 
 ## 2. Links
 

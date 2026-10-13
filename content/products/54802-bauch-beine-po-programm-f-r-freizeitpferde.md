@@ -41,69 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<p><strong>BAUCH, BEINE, PO – das Trainingsprogramm für dein Freizeitpferd</strong></p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<p>In nur 8 Wochen Muskulatur, Balance &amp; Tragkraft aufbauen, für ein gesundes, motiviertes Pferd und entspannte Ausritte.</p>
-<p>Die perfekte Vorbereitung für das Leben als Reitpferd.</p>
-<div>
-<div>
-<div>
-<h4><strong>Mit dem richtigen Trainingsplan zu einem tragfähigen Pferd, ganz ohne Frust oder Rätselraten.</strong></h4>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<p>Statt ständig zu grübeln, <strong>was dein Pferd wirklich braucht</strong>, bekommst du eine klare Schritt-für-Schritt-Anleitung, mit der du:</p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<ul>
-<li>
-<p>dein Pferd in nur 2 Monaten kräftigst</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<ul>
-<li>
-<p>sein Gleichgewicht nachhaltig verbesserst</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<ul>
-<li>
-<p>und es optimal auf das Leben als Reitpferd vorbereitest</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<p> </p>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** BAUCH, BEINE, PO – das Trainingsprogramm für dein Freizeitpferd In nur 8 Wochen Muskulatur, Balance & Tragkraft aufbauen, für ein gesundes, motiviertes Pferd und entspannte Ausritte. Die perfekte Vorbereitung für das Leben als Reitpferd. Mit dem richtigen Trainingsplan zu einem tragfähigen Pferd, ganz ohne Frust oder Rätselraten. Statt ständig zu grübeln, was dein Pferd wirklich braucht , bekommst du eine klare Schritt-für-Schritt-Anleitung, mit der du: dein Pferd in nur 2 Monaten kräftigst sein Gleichgewicht nachhaltig verbesserst und es optimal auf das Leben als Reitpferd vorbereitest
 
 ## 2. Links
 

@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Vue JS ist derzeit *das beliebteste* Frontend Framework auf dem Markt. Gemeinsam erlernen wir Vue JS, den grundlegenden Aufbau, die Funktionsweise und gehen dann tiefer in die Materie. Erstellen Sie künftig Top-Anwendungen und Apps für das Web.</p>
-<p><strong>Deine Vorteile</strong></p>
-<p>- Vue JS 3 (Options API und Composition API)<br />- Bewährtes Seminarkonzept (<a href="https://www.vuejs-seminar.de" target="_blank" rel="noreferrer noopener">vuejs-seminar.de</a>) <br />- Theorie und Praxis</p>
-<p>In diesem <strong>umfangreichen Vue JS Online Kurs</strong> erhältst Du Kapitel für Kapitel didaktisch aufbereitete Lerninhalte und praktische Übungsbeispiele.</p>
-<p>Lerne von wo Du willst und starte noch heute! Lerne Vue JS Online!</p>
-<p>Wir beginnen mit den Grundlagen und erörtern, wie gewissen Dinge funktionieren. Dann garnieren wir das Modul mit Beispielen und Livecoding und runden es mit Best Practice Beispielen ab.</p>
+**Vendor's marketplace description:** Vue JS ist derzeit *das beliebteste* Frontend Framework auf dem Markt. Gemeinsam erlernen wir Vue JS, den grundlegenden Aufbau, die Funktionsweise und gehen dann tiefer in die Materie. Erstellen Sie künftig Top-Anwendungen und Apps für das Web. Deine Vorteile - Vue JS 3 (Options API und Composition API) - Bewährtes Seminarkonzept ( vuejs-seminar.de ) - Theorie und Praxis In diesem umfangreichen Vue JS Online Kurs erhältst Du Kapitel für Kapitel didaktisch aufbereitete Lerninhalte und praktische Übungsbeispiele. Lerne von wo Du willst und starte noch heute! Lerne Vue JS Online! Wir beginnen mit den Grundlagen und erörtern, wie gewissen Dinge funktionieren. Dann garnieren wir das Modul mit Beispielen und Livecoding und runden es mit Best Practice Beispielen ab.
 
 ## 2. Links
 

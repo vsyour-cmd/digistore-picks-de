@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Kennen Sie das Problem?<br />Sie wollen mit Social Media Reichweite aufbauen, aber Ihnen fehlen Ideen, Zeit oder verkaufsstarke Formulierungen?</p>
-<p>Mit diesem KI-Prompt erstellen Sie in Sekunden professionelle Social-Media-Posts für jede Branche, jede Plattform und jeden Stil.</p>
-<p>Einfach Branche, Plattform und Stil/Ton eingeben → sofort fertigen Content erhalten → posten → wachsen.</p>
-<p>Inklusive Hooks, Calls-to-Action, Hashtags, Reel-Ideen und Postingplan.<br />Kein Grübeln. Kein Planungsstress. Nur Content, der wirklich funktioniert.</p>
-<p>Ideal für Firmen oder selbständige Creator die schneller sichtbar werden wollen.</p>
-<p> </p>
-<p>Wie funktioniert das Tool?</p>
-<p>Dieses Tool ist ein <strong>fertiger KI-Prompt</strong>: Einfach in ChatGPT oder eine andere KI kopieren.<br />Ersetzen Sie die drei Parameter in den eckigen Klammern: <strong>Branche</strong>, <strong>Plattform</strong> und <strong>Tonfall/Stil</strong>.<br />Die KI erstellt daraufhin <strong>30 sofort einsetzbare Social-Media-Posts</strong> inkl. Hooks, CTAs, Hashtags und Postingplan. Genug für ein ganzes Monat!</p>
+**Vendor's marketplace description:** Kennen Sie das Problem? Sie wollen mit Social Media Reichweite aufbauen, aber Ihnen fehlen Ideen, Zeit oder verkaufsstarke Formulierungen? Mit diesem KI-Prompt erstellen Sie in Sekunden professionelle Social-Media-Posts für jede Branche, jede Plattform und jeden Stil. Einfach Branche, Plattform und Stil/Ton eingeben → sofort fertigen Content erhalten → posten → wachsen. Inklusive Hooks, Calls-to-Action, Hashtags, Reel-Ideen und Postingplan. Kein Grübeln. Kein Planungsstress. Nur Content, der wirklich funktioniert. Ideal für Firmen oder selbständige Creator die schneller sichtbar werden wollen. Wie funktioniert das Tool? Dieses Tool ist ein fertiger KI-Prompt : Einfach in ChatGPT oder eine andere KI kopieren. Ersetzen Sie die drei Parameter in den eckigen Klammern: Branche , Plattform und Tonfall/Stil . Die KI erstellt daraufhin 30 sofort einsetzbare Social-Media-Posts inkl. Hooks, CTAs, Hashtags und Postingplan. Genug für ein ganzes Monat!
 
 ## 2. Links
 

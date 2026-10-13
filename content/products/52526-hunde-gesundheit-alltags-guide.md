@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<p><strong>Fütterungsarten im Überblick</strong> – Vor- und Nachteile, Tipps wie du die beste Ernährung für deinen Hund findest.</p>
-<p><strong>Individuelle Bedürfnisse erkennen.</strong></p>
-<p><strong>Expertenwissen &amp; Mikronährstoffe</strong> - Alles zu Makronährstoffen, Mikronährstoffen, gängigen Supplementen und Superfoods.</p>
-<p><strong>Gesundheit von Kopf bis Pfote</strong> - von Sodbrennen bis Gelenke.</p>
-<p><strong>Naturheilkunde &amp; Kräuter</strong> Die besten Kräuter für Hunde, Anwendung von Kefir, Detox-Methoden und natürliche Vorsorge.</p>
-<p><strong>Praktische Extras für den Alltag &amp; die Gesundheit</strong>, Notfallwissen &amp; Disclaimer</p>
-</div>
+**Vendor's marketplace description:** Fütterungsarten im Überblick – Vor- und Nachteile, Tipps wie du die beste Ernährung für deinen Hund findest. Individuelle Bedürfnisse erkennen. Expertenwissen & Mikronährstoffe - Alles zu Makronährstoffen, Mikronährstoffen, gängigen Supplementen und Superfoods. Gesundheit von Kopf bis Pfote - von Sodbrennen bis Gelenke. Naturheilkunde & Kräuter Die besten Kräuter für Hunde, Anwendung von Kefir, Detox-Methoden und natürliche Vorsorge. Praktische Extras für den Alltag & die Gesundheit , Notfallwissen & Disclaimer
 
 ## 2. Links
 

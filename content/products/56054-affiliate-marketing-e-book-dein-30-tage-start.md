@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Affiliate Marketing E-Book – Dein 30-Tage-Start</strong></p>
-<p>Dein strukturierter Einstieg ins Affiliate Marketing – als E-Book.</p>
-<p>Dieses E-Book begleitet dich über 30 Tage<br />bei deinem Start ins Affiliate-Marketing –<br />verständlich erklärt und ideal zum Nachlesen<br />im eigenen Tempo.</p>
-<p>Du lernst Schritt für Schritt,<br />wie Affiliate Marketing funktioniert,<br />worauf es am Anfang wirklich ankommt<br />und wie du typische Anfängerfehler vermeidest.</p>
-<p><strong>Inhalte u. a.:</strong></p>
-<p>Klarer 30-Tage-Fahrplan für Einsteiger<br />Grundlagen des Affiliate-Marketings verständlich erklärt<br />Praxisnahe Beispiele – leicht verständlich erklärt<br />Struktur statt Überforderung<br />Schritt-für-Schritt-Anleitung für den Einstieg</p>
-<p>Ideal für Einsteiger, Selbstständige und alle,<br />die sich ein solides Grundverständnis<br />im Affiliate Marketing aufbauen möchten.</p>
-<p><strong>Hinweis für Affiliates:</strong><br />Dieses E-Book dient als strukturierter Einstieg<br />und eignet sich gut zur Ansprache einer breiten<br />Einsteiger-Zielgruppe im Online-Business.</p>
-<p>Im weiteren Verlauf des Funnels bestehen optionale<br />Zusatzangebote mit Provisionsmöglichkeiten.</p>
+**Vendor's marketplace description:** Affiliate Marketing E-Book – Dein 30-Tage-Start Dein strukturierter Einstieg ins Affiliate Marketing – als E-Book. Dieses E-Book begleitet dich über 30 Tage bei deinem Start ins Affiliate-Marketing – verständlich erklärt und ideal zum Nachlesen im eigenen Tempo. Du lernst Schritt für Schritt, wie Affiliate Marketing funktioniert, worauf es am Anfang wirklich ankommt und wie du typische Anfängerfehler vermeidest. Inhalte u. a.: Klarer 30-Tage-Fahrplan für Einsteiger Grundlagen des Affiliate-Marketings verständlich erklärt Praxisnahe Beispiele – leicht verständlich erklärt Struktur statt Überforderung Schritt-für-Schritt-Anleitung für den Einstieg Ideal für Einsteiger, Selbstständige und alle, die sich ein solides Grundverständnis im Affiliate Marketing aufbauen möchten. Hinweis für Affiliates: Dieses E-Book dient als strukturierter Einstieg und eignet sich gut zur Ansprache einer breiten Einsteiger-Zielgruppe im Online-Business. Im weiteren Verlauf des Funnels bestehen optionale Zusatzangebote mit Provisionsmöglichkeiten.
 
 ## 2. Links
 

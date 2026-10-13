@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Deine <span style="background-color:#ffff00;">Digistore24 Einstands-Party</span></strong></p>
-<p><strong>Schritt-für-Schritt-Anleitung und Workshop für Anfänger – Lerne, wie Digistore24 funktioniert und Du Dir einfach eine profitablere E-Mail-Liste aufbaust.</strong></p>
-<ul>
-<li>Die Teilnehmer erfahren, wie man sich bei Digistore24 anmeldet und anfängt, als Affiliate hochrentable Produkte zu bewerben.</li>
-<li>Bewährte Strategien, um eine E-Mail-Liste aufzubauen.</li>
-<li>Produkte effektiv vermarkten.</li>
-<li>Expertentipps, wie man Affiliate-Marketing optimiert.</li>
-<li>Zugang zu wertvollen Ressourcen und Tools.</li>
-</ul>
-<p>Die Digistore24 Einstands-Party kostet 9,90 und Du bekommst 50% Provision auf Verkauf, Add-on und Upsell. <br />Plus: 15% Lifetime-Provision auf alle Folgeverkäufe!<br />Der Upsell-Prozess wird laufend optimiert und angepasst.</p>
-<p>Viel Erfolg und fette Beute!</p>
+**Vendor's marketplace description:** Deine Digistore24 Einstands-Party Schritt-für-Schritt-Anleitung und Workshop für Anfänger – Lerne, wie Digistore24 funktioniert und Du Dir einfach eine profitablere E-Mail-Liste aufbaust. Die Teilnehmer erfahren, wie man sich bei Digistore24 anmeldet und anfängt, als Affiliate hochrentable Produkte zu bewerben. Bewährte Strategien, um eine E-Mail-Liste aufzubauen. Produkte effektiv vermarkten. Expertentipps, wie man Affiliate-Marketing optimiert. Zugang zu wertvollen Ressourcen und Tools. Die Digistore24 Einstands-Party kostet 9,90 und Du bekommst 50% Provision auf Verkauf, Add-on und Upsell. Plus: 15% Lifetime-Provision auf alle Folgeverkäufe! Der Upsell-Prozess wird laufend optimiert und angepasst. Viel Erfolg und fette Beute!
 
 ## 2. Links
 

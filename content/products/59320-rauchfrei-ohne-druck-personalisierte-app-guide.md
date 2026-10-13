@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Digitale personalisierte Rauchentwöhnung</strong> für erwachsene, die ihren Konsum schrittweise und ohne abrupten Rauchstopp reduzieren möchten.</p>
-<p>- geeignet für <strong>Zigaretten, IQOS und Vapes</strong>.</p>
-<p>Affiliates erhalten ein leicht verständliches Produkt mit klarer Zielgruppe, überzeugendem Nutzen und einer conversion-orientierten Verkaufsseite.</p>
-<p>Das Angebot besteht aus einem begleitenden <strong>E-Book</strong> <strong>und</strong> uneingeschränktem <strong>App-Zugang</strong> mit automatischem und individuellem Reduktionsplan, Wochenlimits, Fortschrittsanzeige und vielem mehr.</p>
-<p><strong>Produktvorteile:</strong></p>
-<ul>
-<li>einmalige Zahlung, kein Abo</li>
-<li>E-Book und App inklusive</li>
-<li>verständliches, alltagsnahes Konzept</li>
-<li>klare Positionierung: Personalisierte Rauchreduktion ohne Druck und Verzicht</li>
-<li>sofortiger Zugriff nach dem Kauf</li>
-</ul>
-<p>Geeignet für Content-Marketing, Social Media, Blogs, Newsletter und persönliche Empfehlungen im deutschsprachigen Raum.</p>
-<p><strong>Hinweis:</strong> Das Produkt ersetzt keine ärztliche oder therapeutische Beratung. Keine Heil- oder Erfolgsgarantie.</p>
+**Vendor's marketplace description:** Digitale personalisierte Rauchentwöhnung für erwachsene, die ihren Konsum schrittweise und ohne abrupten Rauchstopp reduzieren möchten. - geeignet für Zigaretten, IQOS und Vapes . Affiliates erhalten ein leicht verständliches Produkt mit klarer Zielgruppe, überzeugendem Nutzen und einer conversion-orientierten Verkaufsseite. Das Angebot besteht aus einem begleitenden E-Book und uneingeschränktem App-Zugang mit automatischem und individuellem Reduktionsplan, Wochenlimits, Fortschrittsanzeige und vielem mehr. Produktvorteile: einmalige Zahlung, kein Abo E-Book und App inklusive verständliches, alltagsnahes Konzept klare Positionierung: Personalisierte Rauchreduktion ohne Druck und Verzicht sofortiger Zugriff nach dem Kauf Geeignet für Content-Marketing, Social Media, Blogs, Newsletter und persönliche Empfehlungen im deutschsprachigen Raum. Hinweis: Das Produkt ersetzt keine ärztliche oder therapeutische Beratung. Keine Heil- oder Erfolgsgarantie.
 
 ## 2. Links
 

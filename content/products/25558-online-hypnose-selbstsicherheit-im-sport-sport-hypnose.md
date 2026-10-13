@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><big>Hypnose Kurs: "Selbstsicherheit im Sport - Sporthypnose"</big></h2>
-<h4>1,5 Stunden On-demand Videos für:</h4>
-<ul><li>Mehr Chancen</li>
-<li>Größerer Erfolg</li>
-<li>Positive Gefühle</li>
-<li>Vertrauen</li>
-</ul><p><strong>Kursinhalte, Bewertungen und Vorschauvideos auf der Verkaufsseite.</strong></p>
+**Vendor's marketplace description:** Hypnose Kurs: "Selbstsicherheit im Sport - Sporthypnose" 1,5 Stunden On-demand Videos für: Mehr Chancen Größerer Erfolg Positive Gefühle Vertrauen Kursinhalte, Bewertungen und Vorschauvideos auf der Verkaufsseite.
 
 ## 2. Links
 

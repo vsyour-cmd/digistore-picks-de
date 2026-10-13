@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><span style="background-color:#ffff00;"><strong>Bestseller Geburtsvorbereitungskurs Online mit 25% Lifetime-Provision</strong></span></h3>
-<p><strong>Unsere Vorteile:</strong><br /><br /><strong>✅  180 Tage Cookie-Lifetime</strong><br /><br /> ✅  Geringe Stornoquote<br /><br /> ✅  Wird bereits von vielen Krankenkasse erstattet</p>
-<p>Bei Fragen können Sie sich gerne an uns wenden: info@myhebamme24.de</p>
+**Vendor's marketplace description:** Bestseller Geburtsvorbereitungskurs Online mit 25% Lifetime-Provision Unsere Vorteile: ✅ 180 Tage Cookie-Lifetime ✅ Geringe Stornoquote ✅ Wird bereits von vielen Krankenkasse erstattet Bei Fragen können Sie sich gerne an uns wenden: info@myhebamme24.de
 
 ## 2. Links
 

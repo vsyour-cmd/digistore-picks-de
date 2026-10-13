@@ -41,34 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Digital Money Maker Club: </strong></p>
-<p><strong>Seit Jahren ein Bestseller im gesammten Digistore Marktplatz. </strong></p>
-<p><strong><br /></strong><strong>Passives Einkommen garantiert durch 2stufige Membership</strong> <em>(hochpreisig im Upsell der mit durchschnittlich 41% konvertiert)</em></p>
-<p><em>EPC durchschnittlich 1.21€ (Monat für Monat - bei nur 1jähriger Mitgliedschaft sind das EPC 14,52€!!!)</em></p>
-<p>Mit dem Digital Money Maker Club bieten Sie Ihren Kunden eine einmalige Möglichkeit 100%ig, sicher neue <strong>passive Einkommensströme</strong> über das Internet aufzubauen.</p>
-<p>Der DMMC ist ein hoch qualitatives Produkt welches auf 14 Jahren Online Marketing Erfahrung beruht</p>
-<p>Unsere<strong> Conversionrate beträgt bei zielgerichtetem Traffic bis zu 23.9%</strong> und die Refundrate ist geringer als 1%.</p>
-<p>Wenn Sie unseren Digital Money Maker Club bewerben, erhalten Sie nicht nur die hier angegeben laufenden monatlichen Provisionen für das Front-End Produkt. Sie erhalten <strong>zusätzlich 50% Provision für das Hochpreis-Abo im Upsell PLUS ALLE WEITEREN VERKÄUFE die über Ihre Affiliate ID in unserem LANGEN EMAIL FUNNEL generiert wurden.</strong></p>
-<p><strong>Die Upsellrate liegt bei über 31% (gemessen an mehr als 16900 Verkäufen)</strong></p>
-<p><strong>Die Stickrates im Front-End Abo liegen bei über 96% nach 3 Monaten und über 75% im Back-End Abo! <br /></strong></p>
-<p>Wir haben<strong> jede Menge Affiliate Material</strong> für Sie zusammengestellt, um Sie bei der Promotion zu unterstützen.</p>
-<p>Dieses findet ihr hier: <a href="https://partner.digitalmoneymaker.de/" target="_blank" rel="noreferrer noopener">https://partner.digitalmoneymaker.de/</a></p>
-<p> </p>
-<p>Unsere <strong>Verkaufsseite wird konstant gesplittestet und optimiert,</strong> um für Sie <strong>den höchstmöglichen Profit für Ihren Traffic </strong>zu garantieren.</p>
-<p>Profitieren Sie ab sofort von userer langjährigen Erfahrung und monetarisieren Ihren Traffic mit einem der<strong> stärksten Affiliate Produkte auf dem Deutschen Markt überhaupt. <br /></strong></p>
-<p>Die Zielgruppe sind Menschen, welche gern mehr Geld zur Verfügung haben würden und damit eignet sich dieses Produkt für fast jede Zielgruppe. Der Verkaufsfunnel ist so aufgesetzt, dass er sogar Menschen abholt, welche keine Vorkenntnisse über Geld verdienen im Internet haben.</p>
-<p> </p>
-<p><strong>Hier sind die Benefits für Ihre Kunden:</strong></p>
-<p>Mit dem Digital Money Maker Club können Sie:</p>
-<p>* garantiert 10 Einkommensströme abseits vom Job kennenlernen!</p>
-<p>* sich diese Strategien zu nutze machen und sich damit:</p>
-<p>* sich aus der Abhängigkeit ihres Jobs befreien!</p>
-<p>* es wird alles 1:1 zum Nachmachen für Menschen ohne Vorkenntnisse erklärt!</p>
-<p>* zeitverzögert freigeschaltet, sodass sie definitiv ins Handeln kommen</p>
-<p>* es basiert auf 14 Jahren Online Marketing und Coaching Erfahrung</p>
-<p>* das Ziel ist, dass sie finanziell, örtlich und geografisch frei werden.</p>
-<p>Der Club führt sie Schritt für Schritt dahin ohne sie zu überfordern.</p>
-<p><strong>Bewerben Sie unser Produkt JETZT an Ihre Liste und sehen schon heute Abend große Summen an Provision in Ihren Account fließen und das Monat für Monat, solange die Mitglieder dabei bleiben. Die Kündigungsrate ist sehr gering, da der Kontent permanent geupdated wird und jede Menge Schritte zur Steigerung der Kundenzufriedenheit unternommen werden! Es besteht regelmäßiger Kontakt und Austausch mit den Mitgleidern. <br /></strong></p>
+**Vendor's marketplace description:** Digital Money Maker Club: Seit Jahren ein Bestseller im gesammten Digistore Marktplatz. Passives Einkommen garantiert durch 2stufige Membership (hochpreisig im Upsell der mit durchschnittlich 41% konvertiert) EPC durchschnittlich 1.21€ (Monat für Monat - bei nur 1jähriger Mitgliedschaft sind das EPC 14,52€!!!) Mit dem Digital Money Maker Club bieten Sie Ihren Kunden eine einmalige Möglichkeit 100%ig, sicher neue passive Einkommensströme über das Internet aufzubauen. Der DMMC ist ein hoch qualitatives Produkt welches auf 14 Jahren Online Marketing Erfahrung beruht Unsere Conversionrate beträgt bei zielgerichtetem Traffic bis zu 23.9% und die Refundrate ist geringer als 1%. Wenn Sie unseren Digital Money Maker Club bewerben, erhalten Sie nicht nur die hier angegeben laufenden monatlichen Provisionen für das Front-End Produkt. Sie erhalten zusätzlich 50% Provision für das Hochpreis-Abo im Upsell PLUS ALLE WEITEREN VERKÄUFE die über Ihre Affiliate ID in unserem LANGEN EMAIL FUNNEL generiert wurden. Die Upsellrate liegt bei über 31% (gemessen an mehr als 16900 Verkäufen) Die Stickrates im Front-End Abo liegen bei über 96% nach 3 Monaten und über 75% im Back-End Abo! Wir haben jede Menge Affiliate Material für Sie zusammengestellt, um Sie bei der Promotion zu unterstützen. Dieses findet ihr hier: https://partner.digitalmoneymaker.de/ Unsere Verkaufsseite wird konstant gesplittestet und optimiert, um für Sie den höchstmöglichen Profit für Ihren Traffic zu garantieren. Profitieren Sie ab sofort von userer langjährigen Erfahrung und monetarisieren Ihren Traffic mit einem der stärksten Affiliate Produkte auf dem Deutschen Markt überhaupt. Die Zielgruppe sind Menschen, welche gern mehr Geld zur Verfügung haben würden und damit eignet sich dieses Produkt für fast jede Zielgruppe. Der Verkaufsfunnel ist so aufgesetzt, dass er sogar Menschen abholt, welche keine Vorkenntnisse über Geld verdienen im Internet haben. Hier sind die Benefits für Ihre Kunden: Mit dem Digital Money Maker Club können Sie: * garantiert 10 Einkommensströme abseits vom Job kennenlernen! * sich diese Strategien zu nutze machen und sich damit: * sich aus der Abhängigkeit ihres Jobs befreien! * es wird alles 1:1 zum Nachmachen für Menschen ohne Vorkenntnisse erklärt! * zeitverzögert freigeschaltet, sodass sie definitiv ins Handeln kommen * es basiert auf 14 Jahren Online Marketing und Coaching Erfahrung * das Ziel ist, dass sie finanziell, örtlich und geografisch frei werden. Der Club führt sie Schritt für Schritt dahin ohne sie zu überfordern. Bewerben Sie unser Produkt JETZT an Ihre Liste und sehen schon heute Abend große Summen an Provision in Ihren Account fließen und das Monat für Monat, solange die Mitglieder dabei bleiben. Die Kündigungsrate ist sehr gering, da der Kontent permanent geupdated wird und jede Menge Schritte zur Steigerung der Kundenzufriedenheit unternommen werden! Es besteht regelmäßiger Kontakt und Austausch mit den Mitgleidern.
 
 ## 2. Links
 

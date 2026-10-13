@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Google Ads Mastery“</strong></p>
-<p>Conversion-Tracking, Skalierung und Budget-Optimierung – Wenn die erste Kampagne läuft, beginnt das Handwerk. Conversion-Tracking, Kampagnenstruktur, Smart Bidding und systematisches Testen. Für Fortgeschrittene.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Ein sauberes Conversion-Tracking aufsetzen</li>
-<li>Kampagnen strukturieren und gezielt steuern</li>
-<li>Skalieren, ohne den ROAS zu zerstören</li>
-<li>Datenbasiert testen und ehrlich auswerten</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Google Ads Mastery“ Conversion-Tracking, Skalierung und Budget-Optimierung – Wenn die erste Kampagne läuft, beginnt das Handwerk. Conversion-Tracking, Kampagnenstruktur, Smart Bidding und systematisches Testen. Für Fortgeschrittene. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Ein sauberes Conversion-Tracking aufsetzen Kampagnen strukturieren und gezielt steuern Skalieren, ohne den ROAS zu zerstören Datenbasiert testen und ehrlich auswerten
 
 ## 2. Links
 

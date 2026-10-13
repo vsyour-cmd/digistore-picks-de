@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Spezielle Software (Webapp) im Bereich Schriften und Bildbearbeitung mit Abo-Modell.</strong></p>
-<p>Traumhafte Kompositionen, charmante Schriften und liebevolle Verzierungen. Der Handlettering Generator Plus hilft den Nutzern dabei, genau die Ideen umzusetzen, die sie vor ihrem geistigen Auge sehen. Alternativ erstellen sie mit dem Generator komplett fertige Karten, Logos, Schriftstücke und vieles mehr.</p>
-<p>Link zur App:<br /><a href="https://handletteringlernen.de/generator/">https://handletteringlernen.de/generator/</a></p>
-<p>Link zur Verkaufsseite:<br /><a href="https://handletteringlernen.de/handlettering-generator-plus/">https://handletteringlernen.de/handlettering-generator-plus/</a></p>
+**Vendor's marketplace description:** Spezielle Software (Webapp) im Bereich Schriften und Bildbearbeitung mit Abo-Modell. Traumhafte Kompositionen, charmante Schriften und liebevolle Verzierungen. Der Handlettering Generator Plus hilft den Nutzern dabei, genau die Ideen umzusetzen, die sie vor ihrem geistigen Auge sehen. Alternativ erstellen sie mit dem Generator komplett fertige Karten, Logos, Schriftstücke und vieles mehr. Link zur App: https://handletteringlernen.de/generator/ Link zur Verkaufsseite: https://handletteringlernen.de/handlettering-generator-plus/
 
 ## 2. Links
 

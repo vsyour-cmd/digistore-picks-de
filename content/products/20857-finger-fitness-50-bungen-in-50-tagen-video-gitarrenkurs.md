@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieser Kurs stellt eine Sammlung der besten Fingerübungen für Gitarristen dar.</p>
-<p>Fingerübungen gehören für jeden ambitionierten Gitarristen zum Übealltag. Wie beim Sport, so müssen auch beim Gitarre spielen Muskeln und Bewegungsabläufe regelmäßig trainiert werden, sonst ist kein technischer Fortschritt auf dem Instrument möglich.<br /><br />Im Kurs „Finger-Fitness“ lernst du über einen Zeitraum von 50 Tagen täglich eine Fingerübung für ein bestimmtes spieltechnisches Problem. Alle Übungen vereint, dass sie extrem effektiv sind und schnell Wirkung zeigen. Die Übungen sorgen dafür, dass man die Gitarre ganz einfach besser im Griff hat und dass das spielen leichter fällt.<br />Damit du mit der Vielzahl der Übungen nicht überfordert bist, werden dir die Übungen zeitversetzt freigeschaltet, jeden Tag eine weitere Übung, 50 Tage lang.<br /><br />Das ist im Kurs enthalten:<br /><br /></p>
-<ul>
-<li>50 Videos mit je einer Übung im Detail erklärt</li>
-<li>50 PDF-Dokumente (jede Übung in Noten und Tabulatur)</li>
-<li>Guitar-Pro-Dateien (gpx) zum Abspielen der Übungen</li>
-<li>persönlicher Support bei Fragen</li>
-</ul>
-<p><a title="Erfahrungen &amp; Bewertungen zu Gitarrenvideounterricht anzeigen" href="https://www.provenexpert.com/gitarrenvideounterricht/?utm_source=Widget&amp;utm_medium=Widget&amp;utm_campaign=Widget" target="_blank" rel="noreferrer noopener"><img style="border:0;" src="https://images.provenexpert.com/f8/ee/3bd5667647cdaa8d45ade432ec8f/widget_recommendation_465_0.png?t=1516875157267" alt="Erfahrungen &amp; Bewertungen zu Gitarrenvideounterricht anzeigen" /></a></p>
+**Vendor's marketplace description:** Dieser Kurs stellt eine Sammlung der besten Fingerübungen für Gitarristen dar. Fingerübungen gehören für jeden ambitionierten Gitarristen zum Übealltag. Wie beim Sport, so müssen auch beim Gitarre spielen Muskeln und Bewegungsabläufe regelmäßig trainiert werden, sonst ist kein technischer Fortschritt auf dem Instrument möglich. Im Kurs „Finger-Fitness“ lernst du über einen Zeitraum von 50 Tagen täglich eine Fingerübung für ein bestimmtes spieltechnisches Problem. Alle Übungen vereint, dass sie extrem effektiv sind und schnell Wirkung zeigen. Die Übungen sorgen dafür, dass man die Gitarre ganz einfach besser im Griff hat und dass das spielen leichter fällt. Damit du mit der Vielzahl der Übungen nicht überfordert bist, werden dir die Übungen zeitversetzt freigeschaltet, jeden Tag eine weitere Übung, 50 Tage lang. Das ist im Kurs enthalten: 50 Videos mit je einer Übung im Detail erklärt 50 PDF-Dokumente (jede Übung in Noten und Tabulatur) Guitar-Pro-Dateien (gpx) zum Abspielen der Übungen persönlicher Support bei Fragen
 
 ## 2. Links
 

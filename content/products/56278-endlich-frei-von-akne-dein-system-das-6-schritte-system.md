@@ -41,47 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div style="font-family:Arial, sans-serif;line-height:1.6;color:#2f2f2f;max-width:900px;">
-<h2 style="margin:0 0 12px;font-size:28px;color:#1f1f1f;">Endlich frei von Akne – Dein System</h2>
-<p style="font-size:18px;margin:0 0 18px;"><strong>Das 6-Schritte-System nach Dr. med. Julia Lämmerhirt</strong><br />für eine klare, stabile Haut – ganzheitlich und medizinisch fundiert.</p>
-<div style="background:#f7f4ef;padding:18px 20px;margin:0 0 22px;">
-<p style="margin:0;">Dieses Online-Programm richtet sich an Menschen mit Akne, unreiner Haut oder wiederkehrenden Hautproblemen, die eine nachhaltige Lösung suchen.</p>
-</div>
-<h3 style="font-size:20px;margin:0 0 10px;color:#1f1f1f;">Der entscheidende Unterschied</h3>
-<p style="margin:0 0 18px;">Nicht einzelne Symptome werden behandelt,<br />sondern die Ursachen systematisch verändert.</p>
-<h3 style="font-size:20px;margin:0 0 12px;color:#1f1f1f;">Das Programm führt Schritt für Schritt durch:</h3>
-<ul style="margin:0 0 22px 20px;padding:0;">
-<li>Ernährung &amp; Entzündungen verstehen und anpassen</li>
-<li>Darm, Verdauung &amp; Entgiftung gezielt unterstützen</li>
-<li>Hormone, Stress &amp; psychische Belastung regulieren</li>
-<li>Haut nachhaltig stabilisieren</li>
-<li>Routinen entwickeln, die langfristig wirken</li>
-</ul>
-<h3 style="font-size:20px;margin:0 0 12px;color:#1f1f1f;">Alle Inhalte sind klar strukturiert und direkt umsetzbar:</h3>
-<div style="background:#fcfaf7;border:1px solid #ece6dc;padding:18px 20px;margin-bottom:24px;">
-<p style="margin:0 0 8px;">✔ Video-Module</p>
-<p style="margin:0 0 8px;">✔ Checklisten &amp; Begleitunterlagen</p>
-<p style="margin:0 0 8px;">✔ konkrete Schritt-für-Schritt-Anleitungen</p>
-<p style="margin:0;">✔ ärztlich fundierter Ansatz</p>
-</div>
-<div style="background:#eef5f2;padding:18px 20px;margin-bottom:24px;">
-<h3 style="font-size:20px;margin:0 0 10px;color:#1f1f1f;">Ideal für Affiliates</h3>
-<p style="margin:0;">Der Einstieg erfolgt über einen kostenlosen Online-Vortrag, der die Ursachen erklärt und die Teilnehmer gezielt in das Programm führt.</p>
-</div>
-<h3 style="font-size:20px;margin:0 0 12px;color:#1f1f1f;">Zielgruppe</h3>
-<ul style="margin:0 0 24px 20px;padding:0;">
-<li>Frauen und Männer mit Akne oder unreiner Haut</li>
-<li>Menschen mit wiederkehrenden Hautproblemen</li>
-<li>Personen, die bereits vieles ausprobiert haben</li>
-<li>Menschen mit Interesse an einem ganzheitlichen Ansatz</li>
-</ul>
-<div style="background:#f7f4ef;padding:18px 20px;">
-<h3 style="font-size:20px;margin:0 0 10px;color:#1f1f1f;">Produktdaten</h3>
-<p style="margin:0 0 6px;"><strong>Preis:</strong> 199 €</p>
-<p style="margin:0 0 6px;"><strong>Provision:</strong> 35%</p>
-<p style="margin:0;"><strong>Abwicklung:</strong> über Digistore24</p>
-</div>
-</div>
+**Vendor's marketplace description:** Endlich frei von Akne – Dein System Das 6-Schritte-System nach Dr. med. Julia Lämmerhirt für eine klare, stabile Haut – ganzheitlich und medizinisch fundiert. Dieses Online-Programm richtet sich an Menschen mit Akne, unreiner Haut oder wiederkehrenden Hautproblemen, die eine nachhaltige Lösung suchen. Der entscheidende Unterschied Nicht einzelne Symptome werden behandelt, sondern die Ursachen systematisch verändert. Das Programm führt Schritt für Schritt durch: Ernährung & Entzündungen verstehen und anpassen Darm, Verdauung & Entgiftung gezielt unterstützen Hormone, Stress & psychische Belastung regulieren Haut nachhaltig stabilisieren Routinen entwickeln, die langfristig wirken Alle Inhalte sind klar strukturiert und direkt umsetzbar: ✔ Video-Module ✔ Checklisten & Begleitunterlagen ✔ konkrete Schritt-für-Schritt-Anleitungen ✔ ärztlich fundierter Ansatz Ideal für Affiliates Der Einstieg erfolgt über einen kostenlosen Online-Vortrag, der die Ursachen erklärt und die Teilnehmer gezielt in das Programm führt. Zielgruppe Frauen und Männer mit Akne oder unreiner Haut Menschen mit wiederkehrenden Hautproblemen Personen, die bereits vieles ausprobiert haben Menschen mit Interesse an einem ganzheitlichen Ansatz Produktdaten Preis: 199 € Provision: 35% Abwicklung: über Digistore24
 
 ## 2. Links
 

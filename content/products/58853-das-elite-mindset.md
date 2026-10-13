@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Produktname: </strong>Das Elite-Mindset</p>
-<p><strong>Produkttyp: </strong>E-Book</p>
-<p> </p>
-<p><strong>Warum Affiliate-Partner dieses Produkt bewerben sollten:</strong></p>
-<p>• Breite Zielgruppe im Bereich Persönlichkeitsentwicklung &amp; Psychologie</p>
-<p> • Praxisnahe und leicht verständliche E-Book-Inhalte</p>
-<p> • Interessantes Thema mit starker emotionaler Ansprache</p>
-<p> • Geeignet für Social Media, E-Mail-Marketing, Blogs und Content-Marketing</p>
-<p> • Attraktiver Verkaufspreis von 17,99 €</p>
-<p> • 60 % Affiliate-Provision</p>
-<p> </p>
+**Vendor's marketplace description:** Produktname: Das Elite-Mindset Produkttyp: E-Book Warum Affiliate-Partner dieses Produkt bewerben sollten: • Breite Zielgruppe im Bereich Persönlichkeitsentwicklung & Psychologie • Praxisnahe und leicht verständliche E-Book-Inhalte • Interessantes Thema mit starker emotionaler Ansprache • Geeignet für Social Media, E-Mail-Marketing, Blogs und Content-Marketing • Attraktiver Verkaufspreis von 17,99 € • 60 % Affiliate-Provision
 
 ## 2. Links
 

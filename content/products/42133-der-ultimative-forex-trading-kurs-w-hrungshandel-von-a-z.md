@@ -41,70 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>30% Provison v. €297 netto Produkt + Add Ons<br /><br />Vom Anfänger zum Profi - Lerne profitabel zu traden | Technische Analyse, Trading-Psychologie, Risikomanagement &amp; mehr</p>
-<p>Ein Kurs für alle, die folgendes wissen wollen:</p>
-<ul>
-<li>
-<div>
-<div>Vollständig verstehen, wie der FOREX-Markt funktioniert</div>
-</div>
-</li>
-<li>
-<div>
-<div>Wie man einen Broker wählt und ein FOREX Handelskonto eröffnet</div>
-</div>
-</li>
-<li>
-<div>
-<div>Verstehe Pips, Punkte und Lots, Hebel and Shorten</div>
-</div>
-</li>
-<li>
-<div>
-<div>Verstehe die FOREX Terminologie: Bid, Ask, Spread, etc.</div>
-</div>
-</li>
-<li>
-<div>
-<div>Verstehe, wie du die Technische Analyse und die Fundamentalanalyse nutzen kannst</div>
-</div>
-</li>
-<li>
-<div>
-<div>Meistere die technische Analyse: Kerzencharts, Chartmuster, Volumen und technische Indikatoren</div>
-</div>
-</li>
-<li>
-<div>
-<div>Lerne 2 meiner erfolgreichsten Strategien kennen: Für aktive Daytrader oder Swing Trading für Berufstätige</div>
-</div>
-</li>
-<li>
-<div>
-<div>Filtere den "Lärm" heraus, erfahre, was Trader nutzen und wie sie denken. Erhalte Einblicke aus dem Blickwinkel eines professionellen Traders</div>
-</div>
-</li>
-<li>
-<div>
-<div>Wie man verschiedene Plattformen wie Tradingview oder den Metatrader 4 nutzt</div>
-</div>
-</li>
-<li>
-<div>
-<div>Lerne alle Ordertypen für dein Trading kennen</div>
-</div>
-</li>
-<li>
-<div>
-<div>Risikomanagement: wie man Verluste reduziert und das Gesamtportfolio-Risiko steuert</div>
-</div>
-</li>
-<li>
-<div>
-<div>Money Management: wie man das Risiko jeder Position managt, wie viel man kauft und wo man einen Verlust in Kauf nimmt</div>
-</div>
-</li>
-</ul>
+**Vendor's marketplace description:** 30% Provison v. €297 netto Produkt + Add Ons Vom Anfänger zum Profi - Lerne profitabel zu traden | Technische Analyse, Trading-Psychologie, Risikomanagement & mehr Ein Kurs für alle, die folgendes wissen wollen: Vollständig verstehen, wie der FOREX-Markt funktioniert Wie man einen Broker wählt und ein FOREX Handelskonto eröffnet Verstehe Pips, Punkte und Lots, Hebel and Shorten Verstehe die FOREX Terminologie: Bid, Ask, Spread, etc. Verstehe, wie du die Technische Analyse und die Fundamentalanalyse nutzen kannst Meistere die technische Analyse: Kerzencharts, Chartmuster, Volumen und technische Indikatoren Lerne 2 meiner erfolgreichsten Strategien kennen: Für aktive Daytrader oder Swing Trading für Berufstätige Filtere den "Lärm" heraus, erfahre, was Trader nutzen und wie sie denken. Erhalte Einblicke aus dem Blickwinkel eines professionellen Traders Wie man verschiedene Plattformen wie Tradingview oder den Metatrader 4 nutzt Lerne alle Ordertypen für dein Trading kennen Risikomanagement: wie man Verluste reduziert und das Gesamtportfolio-Risiko steuert Money Management: wie man das Risiko jeder Position managt, wie viel man kauft und wo man einen Verlust in Kauf nimmt
 
 ## 2. Links
 

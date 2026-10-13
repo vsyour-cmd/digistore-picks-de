@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>B2B High-Ticket: Ab 60 € Provision pro Sale! Modernes Webdesign &amp; Onlineshops für lokale Betriebe zum Festpreis.</p>
-<p> </p>
-<p><strong>Verdiene ab 60 € aufwärts mit nur einem einzigen Sale – mit nur einem Promolink für unser gesamtes Portfolio!</strong></p>
-<p>Jeder lokale Handwerker, Händler und Dienstleister braucht einen starken digitalen Auftritt – aber die meisten scheuen die unkalkulierbaren Kosten und endlosen Meetings von klassischen Agenturen. Hier kommst du ins Spiel!</p>
-<p>Bewerbe die Premium Webdesign-Pakete von Affyro. Wir bieten lokalen Unternehmen alles aus einer Hand: von der blitzschnellen "Digitalen Visitenkarte" (ab 399 €) bis hin zum komplexen "Katalog und Shop"-System. Der Clou: Der gesamte Prozess läuft zu 100 % digital und asynchron ab. Der Kunde klickt auf deinen Link, wählt auf unserer Landingpage das für ihn passende Paket, füllt unser Briefing aus, und wir liefern.</p>
-<p><strong>Warum du dieses Produkt bewerben solltest:</strong></p>
-<ul>
-<li>
-<p><strong>Ein Link für alle Pakete (Cross-Selling-Potenzial):</strong> Du bewirbst unsere gesamte Webdesign-Produktfamilie! Der Kunde wählt sein Paket auf der Seite selbst. Egal ob Einstiegs-Webseite oder großer Onlineshop – du erhältst auf jeden Verkauf deine volle Provision.</p>
-</li>
-<li>
-<p><strong>Hoher Verdienst:</strong> 15 % Provision (ab ca. 60 € für das kleinste Paket bis hin zu massiven High-Ticket-Provisionen für große Shop-Projekte!).</p>
-</li>
-<li>
-<p><strong>Riesige Zielgruppe:</strong> Handwerker, Dienstleister, Händler, lokale Berater, Freelancer.</p>
-</li>
-<li>
-<p><strong>Hohe Conversion-Rate:</strong> Unsere transparenten Festpreise sind für B2B-Kunden eine absolute Erleichterung und werden direkt per Kreditkarte, SEPA oder PayPal gebucht.</p>
-</li>
-<li>
-<p><strong>Stornorate gegen Null:</strong> B2B-Kunden stornieren extrem selten, da es sich um eine direkt gelieferte, maßgeschneiderte B2B-Dienstleistung handelt.</p>
-</li>
-</ul>
-<p>Sichere dir jetzt deinen Promolink und monetarisiere deinen B2B-Traffic, deine E-Mail-Liste oder deine Business-Kontakte!</p>
+**Vendor's marketplace description:** B2B High-Ticket: Ab 60 € Provision pro Sale! Modernes Webdesign & Onlineshops für lokale Betriebe zum Festpreis. Verdiene ab 60 € aufwärts mit nur einem einzigen Sale – mit nur einem Promolink für unser gesamtes Portfolio! Jeder lokale Handwerker, Händler und Dienstleister braucht einen starken digitalen Auftritt – aber die meisten scheuen die unkalkulierbaren Kosten und endlosen Meetings von klassischen Agenturen. Hier kommst du ins Spiel! Bewerbe die Premium Webdesign-Pakete von Affyro. Wir bieten lokalen Unternehmen alles aus einer Hand: von der blitzschnellen "Digitalen Visitenkarte" (ab 399 €) bis hin zum komplexen "Katalog und Shop"-System. Der Clou: Der gesamte Prozess läuft zu 100 % digital und asynchron ab. Der Kunde klickt auf deinen Link, wählt auf unserer Landingpage das für ihn passende Paket, füllt unser Briefing aus, und wir liefern. Warum du dieses Produkt bewerben solltest: Ein Link für alle Pakete (Cross-Selling-Potenzial): Du bewirbst unsere gesamte Webdesign-Produktfamilie! Der Kunde wählt sein Paket auf der Seite selbst. Egal ob Einstiegs-Webseite oder großer Onlineshop – du erhältst auf jeden Verkauf deine volle Provision. Hoher Verdienst: 15 % Provision (ab ca. 60 € für das kleinste Paket bis hin zu massiven High-Ticket-Provisionen für große Shop-Projekte!). Riesige Zielgruppe: Handwerker, Dienstleister, Händler, lokale Berater, Freelancer. Hohe Conversion-Rate: Unsere transparenten Festpreise sind für B2B-Kunden eine absolute Erleichterung und werden direkt per Kreditkarte, SEPA oder PayPal gebucht. Stornorate gegen Null: B2B-Kunden stornieren extrem selten, da es sich um eine direkt gelieferte, maßgeschneiderte B2B-Dienstleistung handelt. Sichere dir jetzt deinen Promolink und monetarisiere deinen B2B-Traffic, deine E-Mail-Liste oder deine Business-Kontakte!
 
 ## 2. Links
 

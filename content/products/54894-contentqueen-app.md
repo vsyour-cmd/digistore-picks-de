@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Posts, Reels &amp; Stories auf Basis erprobter verkaufspsychologischer Frameworks - individuell auf DEINE Traumkunden zugeschnitten - in unter einer Minute</p>
+**Vendor's marketplace description:** Posts, Reels & Stories auf Basis erprobter verkaufspsychologischer Frameworks - individuell auf DEINE Traumkunden zugeschnitten - in unter einer Minute
 
 ## 2. Links
 

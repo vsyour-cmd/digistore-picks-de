@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hygiene ist ein zentraler Faktor für Sicherheit und Gesundheit im Arbeitsalltag. In diesem Kurs erhältst du praxisnahes Basiswissen zu Infektionsschutz, Reinigungs- und Desinfektionsmaßnahmen sowie zu den gesetzlichen Rahmenbedingungen. Du erfährst, wie sich Krankheitserreger übertragen, welche Hygienepläne in Betrieben zum Einsatz kommen und wie du mit einfachen Mitteln zur Prävention beitragen kannst.<br />Der Kurs dient der Wissensvermittlung und Sensibilisierung. Er ersetzt keine berufliche Ausbildung oder Qualifikation!</p>
+**Vendor's marketplace description:** Hygiene ist ein zentraler Faktor für Sicherheit und Gesundheit im Arbeitsalltag. In diesem Kurs erhältst du praxisnahes Basiswissen zu Infektionsschutz, Reinigungs- und Desinfektionsmaßnahmen sowie zu den gesetzlichen Rahmenbedingungen. Du erfährst, wie sich Krankheitserreger übertragen, welche Hygienepläne in Betrieben zum Einsatz kommen und wie du mit einfachen Mitteln zur Prävention beitragen kannst. Der Kurs dient der Wissensvermittlung und Sensibilisierung. Er ersetzt keine berufliche Ausbildung oder Qualifikation!
 
 ## 2. Links
 

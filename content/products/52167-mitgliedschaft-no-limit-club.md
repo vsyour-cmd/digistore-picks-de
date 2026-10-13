@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der exklusive Immobilien Club mit echtem Mehrwert!</p>
-<p> </p>
-<p>Hier dreht sich alles um Immobilien, Mindset, Business, Unternehmertum, Networking, Austausch und Lifestyle.</p>
-<p> </p>
-<p>Unser Angebot:</p>
-<p>- WhatsApp Gruppe (Optional) für den schnellen Austausch</p>
-<p>- Academy: Zugang zu Schulungen, Kursen und Workshops, die dich weiterbringen</p>
-<p>- Live Treffen</p>
-<p>- Live Calls</p>
-<p>- Interviews/Workshops</p>
-<p>- Community Austausch</p>
-<p>- Starkes Netzwerk</p>
-<p>- Masterminds / Events / Reisen</p>
-<p>- Transparenz über Zahlen, Daten und Fakten von unseren Deals</p>
-<p>- Leicht zu bedienen, moderiert und respektvoll</p>
-<p>Keine Werbung/Verkauf: Unsere Community bleibt werbefrei, um den Fokus auf echten Mehrwert zu legen.</p>
-<p> </p>
-<p>Probier es einen Monat aus. Du kannst monatlich kündigen.</p>
-<p>Du hast 4 Wochen vollen zugriff auf den gesamten Inhalt und Netzwerk.</p>
+**Vendor's marketplace description:** Der exklusive Immobilien Club mit echtem Mehrwert! Hier dreht sich alles um Immobilien, Mindset, Business, Unternehmertum, Networking, Austausch und Lifestyle. Unser Angebot: - WhatsApp Gruppe (Optional) für den schnellen Austausch - Academy: Zugang zu Schulungen, Kursen und Workshops, die dich weiterbringen - Live Treffen - Live Calls - Interviews/Workshops - Community Austausch - Starkes Netzwerk - Masterminds / Events / Reisen - Transparenz über Zahlen, Daten und Fakten von unseren Deals - Leicht zu bedienen, moderiert und respektvoll Keine Werbung/Verkauf: Unsere Community bleibt werbefrei, um den Fokus auf echten Mehrwert zu legen. Probier es einen Monat aus. Du kannst monatlich kündigen. Du hast 4 Wochen vollen zugriff auf den gesamten Inhalt und Netzwerk.
 
 ## 2. Links
 

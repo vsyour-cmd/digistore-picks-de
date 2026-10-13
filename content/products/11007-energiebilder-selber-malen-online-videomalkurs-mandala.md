@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hallo, wir sind Karsten „Raul Falco“ Wagner und Jeannette Wagner, und ein Künstlerpaar aus Sachsen.</p>
-<p>Wir freuen uns Dir den Online Videomalkurs "Mandala selber malen" vorstellen zu dürfen. Dieser Videokurs existiert seit März 2016, und ist der zweite aus der Reihe "Energiebilder selber malen". Mit unserem ersten Kurs über die Blume des Lebens haben wir schon viele Menschen erreicht, und ihnen beigebracht die Blume des Lebens auf Leinwand in Gold zu malen. </p>
-<p>Nun möchten wir dort anknüpfen, und unser neuestens Baby auch unter die Menschen bringen. </p>
-<p>Dabei kannst Du uns helfen, und wir helfen Dir, indem Du bei jedem Kauf profitieren kannst.</p>
-<p>Pro Empfehlung ist eine Provision bis 20 € für Dich möglich.</p>
-<p>Das ist eine ganze Menge, aber wir möchten auch, dass Du entsprechend honoriert wirst für Deine Empfehlung.</p>
-<p> </p>
-<p> </p>
-<p>Wir würden uns sehr freuen wenn Du Interesse hast unseren wunderbaren Kurs promoten zu wollen. Heute in unser schnelllebigen Zeit sind kreative Auszeiten, und Techniken zum Stressabbau sehr wichtig.</p>
-<p>Hilf uns dabei etwas Gutes zu bewirken, und den Menschen wieder Kraft und Lebensfreude zu schenken.</p>
-<p> </p>
-<p>Jeannette und Karsten</p>
-<p> </p>
-<p>Die Verkaufsseite findest Du hier: <a href="https://energiebilder-selber-malen.de/mandala-malen/" target="_blank" rel="noreferrer noopener"><strong>Verkaufsseite</strong></a></p>
-<p> </p>
-<p>Mehr Hinweise,s owie einige Banner zu unserem Partnerprogramm findest Du unter folgendem Link: <a href="https://energiebilder-selber-malen.de/affiliate-info/" target="_blank" rel="noreferrer noopener"><strong>Partnerpogramm</strong></a></p>
+**Vendor's marketplace description:** Hallo, wir sind Karsten „Raul Falco“ Wagner und Jeannette Wagner, und ein Künstlerpaar aus Sachsen. Wir freuen uns Dir den Online Videomalkurs "Mandala selber malen" vorstellen zu dürfen. Dieser Videokurs existiert seit März 2016, und ist der zweite aus der Reihe "Energiebilder selber malen". Mit unserem ersten Kurs über die Blume des Lebens haben wir schon viele Menschen erreicht, und ihnen beigebracht die Blume des Lebens auf Leinwand in Gold zu malen. Nun möchten wir dort anknüpfen, und unser neuestens Baby auch unter die Menschen bringen. Dabei kannst Du uns helfen, und wir helfen Dir, indem Du bei jedem Kauf profitieren kannst. Pro Empfehlung ist eine Provision bis 20 € für Dich möglich. Das ist eine ganze Menge, aber wir möchten auch, dass Du entsprechend honoriert wirst für Deine Empfehlung. Wir würden uns sehr freuen wenn Du Interesse hast unseren wunderbaren Kurs promoten zu wollen. Heute in unser schnelllebigen Zeit sind kreative Auszeiten, und Techniken zum Stressabbau sehr wichtig. Hilf uns dabei etwas Gutes zu bewirken, und den Menschen wieder Kraft und Lebensfreude zu schenken. Jeannette und Karsten Die Verkaufsseite findest Du hier: Verkaufsseite Mehr Hinweise,s owie einige Banner zu unserem Partnerprogramm findest Du unter folgendem Link: Partnerpogramm
 
 ## 2. Links
 

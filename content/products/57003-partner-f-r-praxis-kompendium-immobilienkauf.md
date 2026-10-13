@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Praxis-Kompendium Immobilienkauf</strong><br />Es ist DAS seriöse Kompendium für den Immobilienkauf in Deutschland.<br />Expertenwissen aus über einem Jahrzehnt in der Immobilienwirtschaft mit über 30 Mio. Euro begleitetem Transaktionsvolumen.<br />Mit den wirklich wichtigen Informationen, Hintergründen und Sachverhalten für einen erfolgreichen und korrekten Kauf.<br />Mit allen Sachverhalten und Insights, welche Ihnen andere <span style="color:#ff0000;">NICHT</span> sagen.</p>
-<p>Das Praxis-Kompendium hier erwerben digital als EBook, es ist so formatiert, dass Sie es bequem am iPad bzw. Tablett lesen können.</p>
+**Vendor's marketplace description:** Praxis-Kompendium Immobilienkauf Es ist DAS seriöse Kompendium für den Immobilienkauf in Deutschland. Expertenwissen aus über einem Jahrzehnt in der Immobilienwirtschaft mit über 30 Mio. Euro begleitetem Transaktionsvolumen. Mit den wirklich wichtigen Informationen, Hintergründen und Sachverhalten für einen erfolgreichen und korrekten Kauf. Mit allen Sachverhalten und Insights, welche Ihnen andere NICHT sagen. Das Praxis-Kompendium hier erwerben digital als EBook, es ist so formatiert, dass Sie es bequem am iPad bzw. Tablett lesen können.
 
 ## 2. Links
 

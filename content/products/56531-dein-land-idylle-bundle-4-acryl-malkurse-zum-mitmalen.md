@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#cc99ff;"><strong>15% Rabatt mit dem Gutschein Code: Idylle</strong></span></p>
-<h1><strong>Land-Idylle Bundle – 4 Kursaufzeichnungen zum Mitmalen</strong></h1>
-<p>Du möchtest ruhige Landschaften, kleine Häuser, warmes Licht und schöne Naturmotive malen?</p>
-<p>Dann ist dieses Bundle genau richtig für dich.</p>
-<p>Mit dem <strong>Land-Idylle Bundle</strong> bekommst du <strong>4 komplette Kursaufzeichnungen</strong>, mit denen du ganz entspannt in deinem Tempo mitmalen kannst.</p>
-<p>Du siehst jeden Schritt und kannst pausieren, zurückspulen und weitermalen, wann es für dich passt.</p>
-<h2><strong>Diese 4 Motive sind im Bundle enthalten:</strong></h2>
-<p><strong>Haus am See im goldenen Schein</strong><br />Ein ruhiges Haus am Wasser, warmes Licht und eine schöne Spiegelung im See.</p>
-<p><strong>Brücke am See</strong><br />Eine kleine Brücke am Wasser mit Abendlicht und sanften Farben.</p>
-<p><strong>Haus am Bach</strong><br />Ein gemütliches Haus am Bach, eingebettet in warme Herbstfarben.</p>
-<p><strong>Sommerliche Blütenpracht</strong><br />Leuchtende Mohnblumen, ein alter Zaun und ein sommerliches Feld voller Farbe.</p>
-<h2><strong>Das bekommst du:</strong></h2>
-<p>• <strong>4 komplette Kursaufzeichnungen zum Mitmalen</strong><br />• <strong>6 Stunden und 43 Minuten Malzeit</strong><br />• <strong>Schritt für Schritt erklärt</strong><br />• <strong>Entspanntes Acrylmalen für zu Hause</strong><br />• <strong>Mini-Ratgeber „Start in die Acrylmalerei“ als PDF dazu</strong></p>
-<p>Der Gesamtwert der 4 Kurse liegt bei <strong>100 €</strong>.</p>
-<p>Mit dem Gutscheincode <strong>IDYLLE</strong> sparst du <strong>15 %</strong> und bekommst das komplette Bundle für <strong>85 €</strong>.</p>
-<h2><strong>Sichere dir jetzt dein Land-Idylle Bundle</strong></h2>
-<p>Male diese vier schönen Landmotive ganz entspannt zu Hause mit.</p>
+**Vendor's marketplace description:** 15% Rabatt mit dem Gutschein Code: Idylle Land-Idylle Bundle – 4 Kursaufzeichnungen zum Mitmalen Du möchtest ruhige Landschaften, kleine Häuser, warmes Licht und schöne Naturmotive malen? Dann ist dieses Bundle genau richtig für dich. Mit dem Land-Idylle Bundle bekommst du 4 komplette Kursaufzeichnungen , mit denen du ganz entspannt in deinem Tempo mitmalen kannst. Du siehst jeden Schritt und kannst pausieren, zurückspulen und weitermalen, wann es für dich passt. Diese 4 Motive sind im Bundle enthalten: Haus am See im goldenen Schein Ein ruhiges Haus am Wasser, warmes Licht und eine schöne Spiegelung im See. Brücke am See Eine kleine Brücke am Wasser mit Abendlicht und sanften Farben. Haus am Bach Ein gemütliches Haus am Bach, eingebettet in warme Herbstfarben. Sommerliche Blütenpracht Leuchtende Mohnblumen, ein alter Zaun und ein sommerliches Feld voller Farbe. Das bekommst du: • 4 komplette Kursaufzeichnungen zum Mitmalen • 6 Stunden und 43 Minuten Malzeit • Schritt für Schritt erklärt • Entspanntes Acrylmalen für zu Hause • Mini-Ratgeber „Start in die Acrylmalerei“ als PDF dazu Der Gesamtwert der 4 Kurse liegt bei 100 € . Mit dem Gutscheincode IDYLLE sparst du 15 % und bekommst das komplette Bundle für 85 € . Sichere dir jetzt dein Land-Idylle Bundle Male diese vier schönen Landmotive ganz entspannt zu Hause mit.
 
 ## 2. Links
 

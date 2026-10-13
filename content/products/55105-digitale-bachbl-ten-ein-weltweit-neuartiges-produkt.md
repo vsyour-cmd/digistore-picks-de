@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Neu! AquaLunaris führt digitale Bachblüten in den etablierten Bachblütenmarkt ein.</strong></h3>
-<p>Es handelt sich um ein weltweit neuartiges Produkt, das die Zielqualitäten der klassischen Bachblüten erstmals vollständig digital verfügbar macht.</p>
-<p>Im Unterschied zu physischen Bachblüten entfallen bei digitalen Bachblüten Herstellung, Lagerung, Versand und der fortlaufende Nachkauf von Fläschchen; sie sind dauerhaft nutzbar.</p>
-<p>Für Affiliates bedeutet dies den Zugang zu einem etablierten Markt mit hoher Bekanntheit, der durch ein neuartiges digitales Produktformat erweitert wird.</p>
-<p>Das Angebot umfasst ein breites digitales Bachblüten-Sortiment und richtet sich sowohl an private Nutzer als auch an professionell tätige Personen im beratenden oder therapeutischen Umfeld.</p>
-<p>Du erhältst eine faire Provision - weitere Informationen findest du auf der Affiliate-Supportseite.</p>
+**Vendor's marketplace description:** Neu! AquaLunaris führt digitale Bachblüten in den etablierten Bachblütenmarkt ein. Es handelt sich um ein weltweit neuartiges Produkt, das die Zielqualitäten der klassischen Bachblüten erstmals vollständig digital verfügbar macht. Im Unterschied zu physischen Bachblüten entfallen bei digitalen Bachblüten Herstellung, Lagerung, Versand und der fortlaufende Nachkauf von Fläschchen; sie sind dauerhaft nutzbar. Für Affiliates bedeutet dies den Zugang zu einem etablierten Markt mit hoher Bekanntheit, der durch ein neuartiges digitales Produktformat erweitert wird. Das Angebot umfasst ein breites digitales Bachblüten-Sortiment und richtet sich sowohl an private Nutzer als auch an professionell tätige Personen im beratenden oder therapeutischen Umfeld. Du erhältst eine faire Provision - weitere Informationen findest du auf der Affiliate-Supportseite.
 
 ## 2. Links
 

@@ -41,33 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Produkteigenschaften:</strong></h2>
-<ul>
-<li><span style="background-color:#ffff00;"><strong>Online-Video-Seminar</strong></span> (aufgeteilt in 5 umfassende Module) als vertiefendes Selbst-Studium <br /> für den beschleunigten individuellen Selbst-Erkenntnis-Prozess“</li>
-<li>ca. <strong>12 Stunden hochwertige Video-Inhalte aufgeteilt auf über 60 Video-Lektionen</strong></li>
-<li><strong>Modul 1:</strong> Die Grundlagen des SEINS</li>
-<li><strong>Modul 2:</strong> Feinstoffliche Anatomie und Psychologie</li>
-<li><strong>Modul 3:</strong> Gesundheit, Krankheit und Selbstheilung</li>
-<li><strong>Modul 4:</strong> Der 4-polige Mensch</li>
-<li><strong>Modul 5:</strong> Grundlagenwissen zur ganzheitlichen Menschenkenntnis</li>
-<li><strong>8 Video-Lektionen:</strong> <span style="background-color:#ffff00;"><strong>Geheimes Templer-Wissen</strong></span> zur Inhaltsvertiefung (ca. 2,5 Stunden)</li>
-<li><strong>Bonus 1:</strong> Vortrag: <span style="background-color:#ffff00;"><strong>Die Geschichte der Medizin</strong></span> (ca. 2,5 Stunden)</li>
-<li><strong>Bonus 2:</strong> 12-teiliger Online-Kurs: <span style="background-color:#ffff00;"><strong>Das VATA-Syndrom</strong></span></li>
-<li><strong>30-Tage-Geld-zurück-Garantie</strong></li>
-<li><strong>25 % Provision</strong> auf den Nettoverkaufspreis: ca. 47,- €</li>
-</ul>
-<h3><strong>Vorteile für dich als Anwender des Online-Kurses </strong><br /><strong>„Das Phänomen Leben als wahrer Selbst-Erkenntnisprozess“:</strong></h3>
-<ul>
-<li>Umfassendes Selbst-Studium für deinen beschleunigten individuellen Selbst-Erkenntnis-Prozess</li>
-<li>Verständlich aufbereitetes Jahrtausende altes Geheimwissen, von dem Du so noch nie zuvor etwas in der Schule gehört hast</li>
-<li>Das Anti-Viren-Programm gegen die heutige Lügen- und Verwirrungs-MATRIX der etablierten Massenmedien. Nach dem Motto: „<em>Erkenne dich selbst, dann erkennst Du auch endlich die </em><br /><em> Wahrheit in deinem Leben und kannst sie so jederzeit von der Lüge und Illusion unterscheiden!</em>“</li>
-<li>Echte Horizont- und Bewusstseinserweiterung in allen wichtigen Bereichen deines Lebens wie z.B. Gesundheit, Partnerschaft, Beruf und Berufung</li>
-<li>Selbst-Erkenntnis als wichtigster Schlüssel zu nachhaltiger Selbst-Heilung und Sinn-Findung im eigenen Leben, wodurch sich viele irrational begründete (Zukunfts-) Ängste, Sorgen, Zweifel und Unsicherheiten dem Leben gegenüber einfach in Luft auflösen lassen und das eigene Selbst-Bewusstsein und Selbst-Vertrauen dadurch enorm gestärkt werden können</li>
-<li>Vermittlung von einfachen und wirkungsvollen Wegen zur Harmonisierung und Regulierung der eigenen Konstitution, so dass Du dir im Bedarfsfall stets selbst zu helfen weißt und hierdurch auch mehr und mehr zu deinem eigenen und persönlichen Gesundheitsexperten werden kannst</li>
-</ul>
-<p><strong>FAZIT:</strong> Der Kurs vermittelt in einem klar strukturierten modularen Aufbau tiefe Einblicke in Jahrtausende altes Wissen über den uns umgebenden multidimensionalen Kosmos sowie auch die feinstofflichen Strukturen, Einflusskräfte und Wirkmechanismen beim Menschen. Mit diesem breit gefächerten und tiefen (Selbst-) Verständnis kann jeder dafür offene Mensch endlich an sein in ihm liegendes riesiges Potenzial gelangen und so viel schneller seinen für ihn „richtigen“ Platz im eigenen Leben einnehmen. Denn erst dadurch werden die Voraussetzungen geschaffen für ein langes, gesundes, glückliches und erfülltes Leben.</p>
-<p>Der Online-Kurs versteht sich in dieser Hinsicht als eine Art von Orientierungshilfe und Abkürzung.</p>
-<p> </p>
+**Vendor's marketplace description:** Produkteigenschaften: Online-Video-Seminar (aufgeteilt in 5 umfassende Module) als vertiefendes Selbst-Studium für den beschleunigten individuellen Selbst-Erkenntnis-Prozess“ ca. 12 Stunden hochwertige Video-Inhalte aufgeteilt auf über 60 Video-Lektionen Modul 1: Die Grundlagen des SEINS Modul 2: Feinstoffliche Anatomie und Psychologie Modul 3: Gesundheit, Krankheit und Selbstheilung Modul 4: Der 4-polige Mensch Modul 5: Grundlagenwissen zur ganzheitlichen Menschenkenntnis 8 Video-Lektionen: Geheimes Templer-Wissen zur Inhaltsvertiefung (ca. 2,5 Stunden) Bonus 1: Vortrag: Die Geschichte der Medizin (ca. 2,5 Stunden) Bonus 2: 12-teiliger Online-Kurs: Das VATA-Syndrom 30-Tage-Geld-zurück-Garantie 25 % Provision auf den Nettoverkaufspreis: ca. 47,- € Vorteile für dich als Anwender des Online-Kurses „Das Phänomen Leben als wahrer Selbst-Erkenntnisprozess“: Umfassendes Selbst-Studium für deinen beschleunigten individuellen Selbst-Erkenntnis-Prozess Verständlich aufbereitetes Jahrtausende altes Geheimwissen, von dem Du so noch nie zuvor etwas in der Schule gehört hast Das Anti-Viren-Programm gegen die heutige Lügen- und Verwirrungs-MATRIX der etablierten Massenmedien. Nach dem Motto: „ Erkenne dich selbst, dann erkennst Du auch endlich die Wahrheit in deinem Leben und kannst sie so jederzeit von der Lüge und Illusion unterscheiden! “ Echte Horizont- und Bewusstseinserweiterung in allen wichtigen Bereichen deines Lebens wie z.B. Gesundheit, Partnerschaft, Beruf und Berufung Selbst-Erkenntnis als wichtigster Schlüssel zu nachhaltiger Selbst-Heilung und Sinn-Findung im eigenen Leben, wodurch sich viele irrational begründete (Zukunfts-) Ängste, Sorgen, Zweifel und Unsicherheiten dem Leben gegenüber einfach in Luft auflösen lassen und das eigene Selbst-Bewusstsein und Selbst-Vertrauen dadurch enorm gestärkt werden können Vermittlung von einfachen und wirkungsvollen Wegen zur Harmonisierung und Regulierung der eigenen Konstitution, so dass Du dir im Bedarfsfall stets selbst zu helfen weißt und hierdurch auch mehr und mehr zu deinem eigenen und persönlichen Gesundheitsexperten werden kannst FAZIT: Der Kurs vermittelt in einem klar strukturierten modularen Aufbau tiefe Einblicke in Jahrtausende altes Wissen über den uns umgebenden multidimensionalen Kosmos sowie auch die feinstofflichen Strukturen, Einflusskräfte und Wirkmechanismen beim Menschen. Mit diesem breit gefächerten und tiefen (Selbst-) Verständnis kann jeder dafür offene Mensch endlich an sein in ihm liegendes riesiges Potenzial gelangen und so viel schneller seinen für ihn „richtigen“ Platz im eigenen Leben einnehmen. Denn erst dadurch werden die Voraussetzungen geschaffen für ein langes, gesundes, glückliches und erfülltes Leben. Der Online-Kurs versteht sich in dieser Hinsicht als eine Art von Orientierungshilfe und Abkürzung.
 
 ## 2. Links
 

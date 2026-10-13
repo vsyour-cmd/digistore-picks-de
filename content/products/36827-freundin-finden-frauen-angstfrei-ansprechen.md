@@ -41,38 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Herzlich Willkommen in meinem Affiliate-Bereich,</strong></p>
-<p>ich bin Matthias und es freut mich, dich hier begrüßen zu dürfen. </p>
-<p>Meine Dating-Kurse-Ratgeber liefern <strong>echten Mehrwert</strong> und der Verkaufsfunnel beschert dir reichlich Provisionen, <strong>satte 50 % auf JEDES Produkt</strong>, also auch 50 % auf alle Upsells und Downsells <strong>UND</strong> <strong>25 %</strong> auf alle direkten Upsells vom Flagship Online-Coaching-Kurs <strong><em>"Der intuitive Verführer"</em></strong>.</p>
-<p>In meinem Verkaufsfunnel erhält der Kunde folgende Produkte in folgender Reihenfolge angezeigt:</p>
-<ul>
-<li>Frontend: <em>Freundin finden / Frauen angstrei ansprechen Bundle</em> - E-Book - Preis:<strong> € 4,99</strong> - Provision 50%</li>
-<li>Upsell 1: <em>(Sex-)Erfolgsgeheimnisse außergewöhnlicher Männer - Online-Kurs - Preis: € 27,- - <strong>Provision 50%</strong></em></li>
-<li>Upsell 2: <em>Der außergewöhnliche Mann - Online-Kurs - Preis: <strong>€ 397,-</strong>  - <strong>Provision 50%</strong></em></li>
-<li><em>Upsell 3: "Der intuitive Verführer" - Online-Coaching-Programm - Preis<strong> € 1.997,-</strong> - P</em><strong>rovision 25 % ODER Option </strong>VIP - Preis <strong>€ 3.997,-</strong> - <strong>Provision 25 %</strong></li>
-</ul>
-<p><strong>================================</strong></p>
-<div>
-<h4>EBOOK 1: FREUNDIN FINDEN</h4>
-</div>
-<ul>
-<li> Ich zeige Dir, die 3-Schritte Abkürzungsformel: Du bekommst sofort einen Vorteil über 95% aller Männer. Nur einer dieser Schritte wird Dein Dating-Leben vollkommen revolutionieren</li>
-<li>Wie Du den Effekt, der Frauen die Ferne suchen lässt, löscht - danach kannst Du aus zahlreichen Frauen auswählen, mit welcher Du heute noch Sex hast</li>
-<li>Die entscheidende Komponente, wie Du zur richtigen Zeit am richtigen Ort bist und so Zugang zu eigentlich unerreichbaren Frauen bekommst. Das ist einer meiner Favoriten</li>
-<li>Die ultimative Stärke von schüchternen, introvertierten Männern aufgedeckt, und wie sie meist am falschen Ort eingesetzt wird: Ändere das, und Du bekommst die heißesten Frauen mühelos</li>
-</ul>
-<div>
-<h4>EBOOK 2: FRAUEN ANGSTFREI ANSPRECHEN </h4>
-</div>
-<div>
-<ul>
-<li>Die 3 Regeln, die Dir fast alle Dating-Experten weiß machen wollen, die Du brechen musst, um noch HEUTE eine heiße Freundin zu finden. Ich mache keinen Spaß, sondern das ist was passiert</li>
-<li>Wie Du wirklich eine heiße Frau ansprichst, warum Pickup-Lines nicht funktionieren, sondern Dir sogar alles ruinieren</li>
-<li>Was Du wirklich im Gespräch mit einer sehr heißen Frauen tun musst. Wenn Du es nicht tust, ruinierst Du all die Anziehung, die bereits da war. Es ist nicht das, was Du denkst</li>
-<li>Wie Du sofort diesen "Wow, von diesem Mann habe ich immer geträumt"-Effekt von Beginn an in einer Frau installierst. Du kannst das tun, auch wenn Du unglaublich schüchtern bist. Es wird Deine Resultate durch die Decke schießen lassen, garantiert</li>
-</ul>
-</div>
-<div> </div>
+**Vendor's marketplace description:** Herzlich Willkommen in meinem Affiliate-Bereich, ich bin Matthias und es freut mich, dich hier begrüßen zu dürfen. Meine Dating-Kurse-Ratgeber liefern echten Mehrwert und der Verkaufsfunnel beschert dir reichlich Provisionen, satte 50 % auf JEDES Produkt , also auch 50 % auf alle Upsells und Downsells UND 25 % auf alle direkten Upsells vom Flagship Online-Coaching-Kurs "Der intuitive Verführer" . In meinem Verkaufsfunnel erhält der Kunde folgende Produkte in folgender Reihenfolge angezeigt: Frontend: Freundin finden / Frauen angstrei ansprechen Bundle - E-Book - Preis: € 4,99 - Provision 50% Upsell 1: (Sex-)Erfolgsgeheimnisse außergewöhnlicher Männer - Online-Kurs - Preis: € 27,- - Provision 50% Upsell 2: Der außergewöhnliche Mann - Online-Kurs - Preis: € 397,- - Provision 50% Upsell 3: "Der intuitive Verführer" - Online-Coaching-Programm - Preis € 1.997,- - P rovision 25 % ODER Option VIP - Preis € 3.997,- - Provision 25 % ================================ EBOOK 1: FREUNDIN FINDEN Ich zeige Dir, die 3-Schritte Abkürzungsformel: Du bekommst sofort einen Vorteil über 95% aller Männer. Nur einer dieser Schritte wird Dein Dating-Leben vollkommen revolutionieren Wie Du den Effekt, der Frauen die Ferne suchen lässt, löscht - danach kannst Du aus zahlreichen Frauen auswählen, mit welcher Du heute noch Sex hast Die entscheidende Komponente, wie Du zur richtigen Zeit am richtigen Ort bist und so Zugang zu eigentlich unerreichbaren Frauen bekommst. Das ist einer meiner Favoriten Die ultimative Stärke von schüchternen, introvertierten Männern aufgedeckt, und wie sie meist am falschen Ort eingesetzt wird: Ändere das, und Du bekommst die heißesten Frauen mühelos EBOOK 2: FRAUEN ANGSTFREI ANSPRECHEN Die 3 Regeln, die Dir fast alle Dating-Experten weiß machen wollen, die Du brechen musst, um noch HEUTE eine heiße Freundin zu finden. Ich mache keinen Spaß, sondern das ist was passiert Wie Du wirklich eine heiße Frau ansprichst, warum Pickup-Lines nicht funktionieren, sondern Dir sogar alles ruinieren Was Du wirklich im Gespräch mit einer sehr heißen Frauen tun musst. Wenn Du es nicht tust, ruinierst Du all die Anziehung, die bereits da war. Es ist nicht das, was Du denkst Wie Du sofort diesen "Wow, von diesem Mann habe ich immer geträumt"-Effekt von Beginn an in einer Frau installierst. Du kannst das tun, auch wenn Du unglaublich schüchtern bist. Es wird Deine Resultate durch die Decke schießen lassen, garantiert
 
 ## 2. Links
 

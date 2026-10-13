@@ -41,40 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#00ff00;"><strong>NextGenFusion - Starter</strong></span> ist ein Coaching, das dir zeigt, wie du mit unseren Strategien im Bereich <strong>Closing</strong> und <strong>Social Media Marketing</strong> online Geld verdienen kannst. Wir haben es uns zur Aufgabe gemacht, möglichst vielen Menschen die Chance zu geben, ein zusätzliches Einkommen aufzubauen – egal, ob du gerade erst anfängst oder schon erste Erfahrungen hast.</p>
-<p>Mit <span style="color:#333399;"><strong>NextGenFusion </strong></span>lernst du Schritt für Schritt, was wirklich funktioniert. Wir bringen dir alles bei, was du wissen musst, um erfolgreich zu werden. Unsere Inhalte sind leicht verständlich und darauf ausgelegt, dass du das Gelernte direkt anwenden kannst. Deine einzige Aufgabe ist es, am Ball zu bleiben und nicht aufzugeben. Denn mit Geduld und Einsatz wirst du Fortschritte sehen!</p>
-<h3>Was du im NextGenFusion - Starter bekommst:</h3>
-<ol>
-<li>
-<p><strong>Allgemein - Die Grundlagen</strong><br />Alles, was du über den Einstieg ins Online-Business wissen musst. Hier legen wir die Basis, damit du sicher starten kannst.</p>
-</li>
-<li>
-<p><strong>Mindset</strong><br />Ein erfolgreiches Mindset ist der Schlüssel zu langfristigem Erfolg. Wir zeigen dir, wie du dir die richtige Einstellung aneignest, um auch bei Herausforderungen motiviert zu bleiben.</p>
-</li>
-<li>
-<p><strong>Social Media Marketing</strong><br />Social Media ist ein mächtiges Tool, um Menschen zu erreichen. Wir zeigen dir, wie du Instagram und TikTok richtig nutzt, um Reichweite aufzubauen und deine Zielgruppe anzusprechen.</p>
-</li>
-<li>
-<p><strong>Erfolgreiche Videos erstellen</strong><br />Videos sind wichtig, um Vertrauen aufzubauen und dein Angebot ansprechend zu präsentieren. Wir erklären dir, wie du gute Videos machst, die bei den Leuten gut ankommen.</p>
-</li>
-<li>
-<p><strong>Verkaufen lernen</strong><br />Verkaufen kann jeder lernen! Wir bringen dir bei, wie du Produkte so anbietest, dass deine Kunden überzeugt sind.</p>
-</li>
-<li><strong>Low-Ticket-Closing</strong><br />In diesem Kapitel lernst du das Low-Ticket-Closing. Das bedeutet, wie du mit potenziellen Kunden Gespräche führst, ihre Bedürfnisse verstehst und sie überzeugend zum Abschluss bringst. Hier zeigen wir dir bewährte Techniken und geben dir Tipps, wie du authentisch bleibst und Vertrauen aufbaust.</li>
-<li>
-<p><strong>Digistore24 Coaching</strong><br />Einführung in Digistore24 – eine Plattform, die dir hilft, digitale Produkte einfach zu verkaufen. Wir zeigen dir, wie du sie optimal nutzt.</p>
-</li>
-<li>
-<p><strong>Digistore Marktplatz</strong><br />Lerne, wie du deine Produkte auf dem Marktplatz von Digistore24 erfolgreich platzierst und damit mehr Menschen erreichst.</p>
-</li>
-<li>
-<p><strong>Rechtliches: Steuern und Gewerbe</strong><br />Die Grundlagen zu Steuern und Gewerbeanmeldung. So vermeidest du typische Fehler und bist rechtlich auf der sicheren Seite.</p>
-</li>
-<li>
-<p><strong>Geschenk</strong><br />Als kleinen Motivationsschub gibt es ein Extra-Geschenk, das dir dabei hilft, mit Energie und Freude loszulegen.</p>
-</li>
-</ol>
-<p><em>Du erhältst das Coaching <u>sofort</u> nach der Bestellung per e-Mail. Auch wenn es gerade 03:00 Uhr Nachts ist.</em></p>
+**Vendor's marketplace description:** NextGenFusion - Starter ist ein Coaching, das dir zeigt, wie du mit unseren Strategien im Bereich Closing und Social Media Marketing online Geld verdienen kannst. Wir haben es uns zur Aufgabe gemacht, möglichst vielen Menschen die Chance zu geben, ein zusätzliches Einkommen aufzubauen – egal, ob du gerade erst anfängst oder schon erste Erfahrungen hast. Mit NextGenFusion lernst du Schritt für Schritt, was wirklich funktioniert. Wir bringen dir alles bei, was du wissen musst, um erfolgreich zu werden. Unsere Inhalte sind leicht verständlich und darauf ausgelegt, dass du das Gelernte direkt anwenden kannst. Deine einzige Aufgabe ist es, am Ball zu bleiben und nicht aufzugeben. Denn mit Geduld und Einsatz wirst du Fortschritte sehen! Was du im NextGenFusion - Starter bekommst: Allgemein - Die Grundlagen Alles, was du über den Einstieg ins Online-Business wissen musst. Hier legen wir die Basis, damit du sicher starten kannst. Mindset Ein erfolgreiches Mindset ist der Schlüssel zu langfristigem Erfolg. Wir zeigen dir, wie du dir die richtige Einstellung aneignest, um auch bei Herausforderungen motiviert zu bleiben. Social Media Marketing Social Media ist ein mächtiges Tool, um Menschen zu erreichen. Wir zeigen dir, wie du Instagram und TikTok richtig nutzt, um Reichweite aufzubauen und deine Zielgruppe anzusprechen. Erfolgreiche Videos erstellen Videos sind wichtig, um Vertrauen aufzubauen und dein Angebot ansprechend zu präsentieren. Wir erklären dir, wie du gute Videos machst, die bei den Leuten gut ankommen. Verkaufen lernen Verkaufen kann jeder lernen! Wir bringen dir bei, wie du Produkte so anbietest, dass deine Kunden überzeugt sind. Low-Ticket-Closing In diesem Kapitel lernst du das Low-Ticket-Closing. Das bedeutet, wie du mit potenziellen Kunden Gespräche führst, ihre Bedürfnisse verstehst und sie überzeugend zum Abschluss bringst. Hier zeigen wir dir bewährte Techniken und geben dir Tipps, wie du authentisch bleibst und Vertrauen aufbaust. Digistore24 Coaching Einführung in Digistore24 – eine Plattform, die dir hilft, digitale Produkte einfach zu verkaufen. Wir zeigen dir, wie du sie optimal nutzt. Digistore Marktplatz Lerne, wie du deine Produkte auf dem Marktplatz von Digistore24 erfolgreich platzierst und damit mehr Menschen erreichst. Rechtliches: Steuern und Gewerbe Die Grundlagen zu Steuern und Gewerbeanmeldung. So vermeidest du typische Fehler und bist rechtlich auf der sicheren Seite. Geschenk Als kleinen Motivationsschub gibt es ein Extra-Geschenk, das dir dabei hilft, mit Energie und Freude loszulegen. Du erhältst das Coaching sofort nach der Bestellung per e-Mail. Auch wenn es gerade 03:00 Uhr Nachts ist.
 
 ## 2. Links
 

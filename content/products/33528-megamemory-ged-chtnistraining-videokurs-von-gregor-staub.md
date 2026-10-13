@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>megamemory Gedächtnistraining, der komplette Selbstlehrgang für Zuhause </strong></p>
-<p>Wer möchte sich nicht leichter Namen, Gesichter oder Zahlen merken können? Sprachen deutlich schneller lernen oder eine Rede halten, ohne auf seine Notizen schauen zu müssen? Gregor Staub bietet eine effiziente Technik bei welcher das Erinnerungsvermögen gestärkt, sowie Daten sicher im Kopf gespeichert und abgerufen werden können.</p>
-<p><strong>megamemory Gedächtnistraining</strong> zeigt Ihnen wie Sie Ihr Gehirn <strong>effektiv</strong> verwenden können. Wie können Sie das vorstellen? Ein Vergleich zum Sport: Jeder kann Sport machen, jeder kann sich bewegen, aber jeder muss den richtigen Bewegungsablauf und vor allem die richtige Technik lernen, um diesen optimal auszuführen.</p>
-<p>In diesem Videokurs zeigt Ihnen Gregor <strong>Abläufe</strong> und <strong>Techniken</strong>, wie Sie in Zukunft Ihr <strong>Gehirn</strong> so einsetzen können, dass Sie sich <strong>alles merken</strong> können, was Sie möchten. Um welches Wissen es sich dabei handelt, spielt keine Rolle.</p>
-<p><strong>Die Themen des Kurses:</strong></p>
-<ul><li>Geniale Methoden für das Merken von:
-<ul><li>Namen &amp; Zahlen</li>
-<li>Fakten &amp; Formeln</li>
-<li>Vokabeln &amp; Regeln</li>
-<li>Reden, Vorträgen &amp; Präsentationen</li>
-</ul></li>
-<li>megamemory für Kinder</li>
-<li>Effiziente Lernhilfe für Schüler und Studenten</li>
-<li>Aktives Lernsystem für Eltern und Kinder</li>
-<li>Gedächtnistraining für Senioren</li>
-<li>Stressabbau durch einfaches und schnelles lernen</li>
-</ul><p>Die megamemory-Gedächtnistraining-Lizenz ist unbegrenzt für Sie und Ihre Familie gültig.<br /><br />Mit iOS, Windows und Android nutzbar, Mit Zeichnungen von Klaus Voormann.</p>
-<p> </p>
-<p><strong>Sie erhalten unmittelbar nach Bestellung und Bezahlung automatisch Ihren Lizenzcode zur sofortigen Nutzung des Online-Systems mit Videos.</strong></p>
+**Vendor's marketplace description:** megamemory Gedächtnistraining, der komplette Selbstlehrgang für Zuhause Wer möchte sich nicht leichter Namen, Gesichter oder Zahlen merken können? Sprachen deutlich schneller lernen oder eine Rede halten, ohne auf seine Notizen schauen zu müssen? Gregor Staub bietet eine effiziente Technik bei welcher das Erinnerungsvermögen gestärkt, sowie Daten sicher im Kopf gespeichert und abgerufen werden können. megamemory Gedächtnistraining zeigt Ihnen wie Sie Ihr Gehirn effektiv verwenden können. Wie können Sie das vorstellen? Ein Vergleich zum Sport: Jeder kann Sport machen, jeder kann sich bewegen, aber jeder muss den richtigen Bewegungsablauf und vor allem die richtige Technik lernen, um diesen optimal auszuführen. In diesem Videokurs zeigt Ihnen Gregor Abläufe und Techniken , wie Sie in Zukunft Ihr Gehirn so einsetzen können, dass Sie sich alles merken können, was Sie möchten. Um welches Wissen es sich dabei handelt, spielt keine Rolle. Die Themen des Kurses: Geniale Methoden für das Merken von: Namen & Zahlen Fakten & Formeln Vokabeln & Regeln Reden, Vorträgen & Präsentationen megamemory für Kinder Effiziente Lernhilfe für Schüler und Studenten Aktives Lernsystem für Eltern und Kinder Gedächtnistraining für Senioren Stressabbau durch einfaches und schnelles lernen Die megamemory-Gedächtnistraining-Lizenz ist unbegrenzt für Sie und Ihre Familie gültig. Mit iOS, Windows und Android nutzbar, Mit Zeichnungen von Klaus Voormann. Sie erhalten unmittelbar nach Bestellung und Bezahlung automatisch Ihren Lizenzcode zur sofortigen Nutzung des Online-Systems mit Videos.
 
 ## 2. Links
 

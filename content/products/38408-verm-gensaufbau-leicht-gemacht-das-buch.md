@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#ff0000;"><strong>[NEU] </strong></span><strong>Empfehlen Sie unser neues Buch "Vermögensaufbau leicht gemacht" und verdiene mit an allen Produkten im Upsell. Ihre Vorteile:</strong></p>
-<div>
-<div>
-<ul>
-<li>Hohe Provisionen von 50% für ALLE Produkte</li>
-<li>über 170 Seiten extrem guter Content</li>
-<li>hochwertig als echtes Buch produziert</li>
-<li>Das Experten-Buch aus über 25 Jahren Erfahrung </li>
-</ul>
-<p>Sie müssen hier keine harte Promo fahren, um Provisionen zu erhalten - sondern lediglich das Buch als Geschenk anbieten!</p>
-<p><strong>Wir zahlen Ihnen 50% Provision für jedes verschenkte Buch sowie zum E-Book (+Hörbuch) und zum Arbeitsbuch!</strong></p>
-<p>Melden Sie sich jetzt als Affiliate an und starten Sie mit dem Promoten von unserem neuen Buch.</p>
-<p>Liebe Grüße<br />Ihr Claus Roppel</p>
-</div>
-</div>
+**Vendor's marketplace description:** [NEU] Empfehlen Sie unser neues Buch "Vermögensaufbau leicht gemacht" und verdiene mit an allen Produkten im Upsell. Ihre Vorteile: Hohe Provisionen von 50% für ALLE Produkte über 170 Seiten extrem guter Content hochwertig als echtes Buch produziert Das Experten-Buch aus über 25 Jahren Erfahrung Sie müssen hier keine harte Promo fahren, um Provisionen zu erhalten - sondern lediglich das Buch als Geschenk anbieten! Wir zahlen Ihnen 50% Provision für jedes verschenkte Buch sowie zum E-Book (+Hörbuch) und zum Arbeitsbuch! Melden Sie sich jetzt als Affiliate an und starten Sie mit dem Promoten von unserem neuen Buch. Liebe Grüße Ihr Claus Roppel
 
 ## 2. Links
 

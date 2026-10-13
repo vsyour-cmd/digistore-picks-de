@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Lausche der tief berührenden, heilenden Musik, die direkt zu deinem Herzen und deiner Seele spricht. Die Frequenzen schenken dir Licht, Liebe, Frieden und Harmonie. Hör einfach hinein, du wirst erstaunt sein, was diese himmlischen Schwingungen bewirken können.</p>
-<p>Du bekommst insgesamt 7 Audio-Tracks in höchster MP3 Qualität (320 kBit/s) zum Herunterladen.</p>
-<p>Dauer: 75 Minuten inklusive Bonustrack</p>
-<p>© 2024 Christoph Eckhardt. Alle Rechte vorbehalten. Die Nutzung dieser Meditationsmusik ist ausschließlich für persönliche und private Zwecke erlaubt. Jegliche Vervielfältigung, Verbreitung, öffentliche Aufführung oder andere Nutzung, die über den persönlichen Gebrauch hinausgeht, ist ohne vorherige schriftliche Zustimmung des Urhebers nicht gestattet.</p>
+**Vendor's marketplace description:** Lausche der tief berührenden, heilenden Musik, die direkt zu deinem Herzen und deiner Seele spricht. Die Frequenzen schenken dir Licht, Liebe, Frieden und Harmonie. Hör einfach hinein, du wirst erstaunt sein, was diese himmlischen Schwingungen bewirken können. Du bekommst insgesamt 7 Audio-Tracks in höchster MP3 Qualität (320 kBit/s) zum Herunterladen. Dauer: 75 Minuten inklusive Bonustrack © 2024 Christoph Eckhardt. Alle Rechte vorbehalten. Die Nutzung dieser Meditationsmusik ist ausschließlich für persönliche und private Zwecke erlaubt. Jegliche Vervielfältigung, Verbreitung, öffentliche Aufführung oder andere Nutzung, die über den persönlichen Gebrauch hinausgeht, ist ohne vorherige schriftliche Zustimmung des Urhebers nicht gestattet.
 
 ## 2. Links
 

@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Willkommen als Partner von Nebenkosten-Guru</strong></p>
-<p>Danke für dein Interesse! Nebenkosten-Guru ist die Software, die Vermietern die komplette Nebenkostenabrechnung abnimmt - ein großer, kaufbereiter Markt: private und Kleinvermieter (1-20 Mieter), die einmal im Jahr selbst abrechnen.</p>
-<ul>
-<li>Heizkosten (HeizkostenV), CO₂-Aufteilung und § 35a-Lohnanteil - automatisch, mit Verweis auf die jeweilige Norm</li>
-<li>Kein Abo, Einmalkauf, läuft lokal im Browser (eine HTML-Datei, keine Cloud, kein Tracking)</li>
-<li>Sofortiger Download nach dem Kauf, kostenfreier Re-Download</li>
-</ul>
-<p><strong>Deine Provision: 50 % auf jede Software-Lizenz</strong> - flach ab dem ersten Verkauf. Abwicklung, Tracking und Auszahlung komplett über Digistore24.</p>
-<ul>
-<li>Standard 39,95 € (Early-Bird bis 30.09.2026, danach 79,90 €)</li>
-<li>Pro 49,95 € (danach 99,90 €)</li>
-<li>Buchhaltungs-Upgrade 29,95 €</li>
-<li>eBook „Nebenkosten": 30 %</li>
-</ul>
-<p><strong>So legst du los:</strong></p>
-<ol>
-<li>Bei Digistore24 als Affiliate bewerben - wir geben dich frei.</li>
-<li>Werbemittel freischalten: auf <a href="https://nebenkosten-guru.de/partner">nebenkosten-guru.de/partner</a> deine E-Mail eintragen. Damit sind Banner, Screenshots, Anzeigen-Motive und fertige Textvorlagen sofort für dich da.</li>
-<li>Mit deinem Affiliate-Link loslegen - im Rahmen der Werberichtlinie.</li>
-</ol>
-<p style="background:#FDF2E9;border:1px solid #E8B37A;padding:10px 14px;color:#9a3b12;font-size:15px;"><strong>Rechtlicher Hinweis:</strong> Nebenkosten-Guru ist ein rechtlich sensibles Produkt. Die Werbemittel und die Werberichtlinie sind <strong>verbindlich</strong>: bitte nur die freigegebenen Aussagen und Materialien nutzen, keine Garantien oder Rechtsberatung versprechen (nicht „garantiert rechtssicher", „100 % fehlerfrei"), Werbung als Werbung kennzeichnen. Falsche Werbeaussagen fallen auf uns beide zurück; Verstöße können zur Sperre und zum Verlust offener Provisionen führen. Die vollständige Richtlinie steht auf der Partnerseite.</p>
-<p><strong>Womit du wirbst</strong><br />Auf der Partnerseite bekommst du den kompletten Werbemittel-Satz: 2 Banner (Social 1200×628 + Display 300×250), 10 Produkt-Screenshots mit anonymen Musterdaten, fertige Anzeigen-Motive im Hochformat (Tool-Anzeigen + die Guru-Maskottchen-Serie für Feed und Stories) sowie fertige Textvorlagen für E-Mail, Facebook-Gruppen, Instagram und YouTube plus Anzeigen-Headlines - jeweils mit [LINK]-Platzhalter für deinen Affiliate-Link. Zum Verlinken findest du dort die Verkaufsseite, fertige Direkt-Bestelllinks (Early-Bird bereits vorbelegt, du hängst nur deine ID an) und die Live-Demo. Fürs eBook gibt es eigene Motive.</p>
-<p><strong>Eigene Werbemittel</strong> darfst du gern erstellen - wir müssen sie vor dem Einsatz nur kurz freigeben. Eine Mail mit dem Werbemittel oder dem Link genügt: <a href="mailto:affiliate@nebenkosten-guru.de">affiliate@nebenkosten-guru.de</a></p>
+**Vendor's marketplace description:** Willkommen als Partner von Nebenkosten-Guru Danke für dein Interesse! Nebenkosten-Guru ist die Software, die Vermietern die komplette Nebenkostenabrechnung abnimmt - ein großer, kaufbereiter Markt: private und Kleinvermieter (1-20 Mieter), die einmal im Jahr selbst abrechnen. Heizkosten (HeizkostenV), CO₂-Aufteilung und § 35a-Lohnanteil - automatisch, mit Verweis auf die jeweilige Norm Kein Abo, Einmalkauf, läuft lokal im Browser (eine HTML-Datei, keine Cloud, kein Tracking) Sofortiger Download nach dem Kauf, kostenfreier Re-Download Deine Provision: 50 % auf jede Software-Lizenz - flach ab dem ersten Verkauf. Abwicklung, Tracking und Auszahlung komplett über Digistore24. Standard 39,95 € (Early-Bird bis 30.09.2026, danach 79,90 €) Pro 49,95 € (danach 99,90 €) Buchhaltungs-Upgrade 29,95 € eBook „Nebenkosten": 30 % So legst du los: Bei Digistore24 als Affiliate bewerben - wir geben dich frei. Werbemittel freischalten: auf nebenkosten-guru.de/partner deine E-Mail eintragen. Damit sind Banner, Screenshots, Anzeigen-Motive und fertige Textvorlagen sofort für dich da. Mit deinem Affiliate-Link loslegen - im Rahmen der Werberichtlinie. Rechtlicher Hinweis: Nebenkosten-Guru ist ein rechtlich sensibles Produkt. Die Werbemittel und die Werberichtlinie sind verbindlich : bitte nur die freigegebenen Aussagen und Materialien nutzen, keine Garantien oder Rechtsberatung versprechen (nicht „garantiert rechtssicher", „100 % fehlerfrei"), Werbung als Werbung kennzeichnen. Falsche Werbeaussagen fallen auf uns beide zurück; Verstöße können zur Sperre und zum Verlust offener Provisionen führen. Die vollständige Richtlinie steht auf der Partnerseite. Womit du wirbst Auf der Partnerseite bekommst du den kompletten Werbemittel-Satz: 2 Banner (Social 1200×628 + Display 300×250), 10 Produkt-Screenshots mit anonymen Musterdaten, fertige Anzeigen-Motive im Hochformat (Tool-Anzeigen + die Guru-Maskottchen-Serie für Feed und Stories) sowie fertige Textvorlagen für E-Mail, Facebook-Gruppen, Instagram und YouTube plus Anzeigen-Headlines - jeweils mit [LINK]-Platzhalter für deinen Affiliate-Link. Zum Verlinken findest du dort die Verkaufsseite, fertige Direkt-Bestelllinks (Early-Bird bereits vorbelegt, du hängst nur deine ID an) und die Live-Demo. Fürs eBook gibt es eigene Motive. Eigene Werbemittel darfst du gern erstellen - wir müssen sie vor dem Einsatz nur kurz freigeben. Eine Mail mit dem Werbemittel oder dem Link genügt: affiliate@nebenkosten-guru.de
 
 ## 2. Links
 

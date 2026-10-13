@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Onlinekurs zur Behandlung von Atemwegsreflux, sogenanntem Stillem Reflux. Typische Symptome sind Heiserkeit, Asthma, Atembeschwerden, rauer Hals, Husten und allergieähnliche Symptome.</p>
-<p>Zum Bewerben eignen sich insbesondere Seiten zum Thema Ernährung, Darm- und Verdauungsgesundheit.</p>
+**Vendor's marketplace description:** Onlinekurs zur Behandlung von Atemwegsreflux, sogenanntem Stillem Reflux. Typische Symptome sind Heiserkeit, Asthma, Atembeschwerden, rauer Hals, Husten und allergieähnliche Symptome. Zum Bewerben eignen sich insbesondere Seiten zum Thema Ernährung, Darm- und Verdauungsgesundheit.
 
 ## 2. Links
 

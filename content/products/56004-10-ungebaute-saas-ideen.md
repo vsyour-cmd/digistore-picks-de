@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><strong>Verdiene 50 % Provision mit dem perfekten Produkt für Programmierer, Entwickler und Solopreneure!</strong></p>
-<p>Auf saas-vault.de verkaufen wir ein exklusives Informationsprodukt: 10 vollständig ausgearbeitete SaaS-Ideen für den DACH-Markt. Keine wage Theorie, sondern echte Baupläne.</p>
-<p><strong>Jedes der 10 Pakete enthält:</strong></p>
-<ul>
-<li>
-<p>Einen fertigen Businessplan (Word)</p>
-</li>
-<li>
-<p>Eine einsatzbereite Landing Page (HTML)</p>
-</li>
-<li>
-<p>Eine 24-Monats-Kostenkalkulation (Excel)</p>
-</li>
-<li>
-<p>Tech-Stack &amp; Roadmap</p>
-</li>
-</ul>
-<p><strong>Dein Vorteil als Affiliate:</strong> Die Zielgruppe hat einen extrem hohen Schmerz (sie wollen bauen, haben aber keine profitable Idee). Unser Produkt überspringt diesen Schmerz. 0 € Funding nötig, sofort baubar. Das Produkt konvertiert hervorragend und bietet dir sehr lukrative Provisionen (Verkaufspreise: 47 € Standard / 67 € Resell).</p>
+**Vendor's marketplace description:** Verdiene 50 % Provision mit dem perfekten Produkt für Programmierer, Entwickler und Solopreneure! Auf saas-vault.de verkaufen wir ein exklusives Informationsprodukt: 10 vollständig ausgearbeitete SaaS-Ideen für den DACH-Markt. Keine wage Theorie, sondern echte Baupläne. Jedes der 10 Pakete enthält: Einen fertigen Businessplan (Word) Eine einsatzbereite Landing Page (HTML) Eine 24-Monats-Kostenkalkulation (Excel) Tech-Stack & Roadmap Dein Vorteil als Affiliate: Die Zielgruppe hat einen extrem hohen Schmerz (sie wollen bauen, haben aber keine profitable Idee). Unser Produkt überspringt diesen Schmerz. 0 € Funding nötig, sofort baubar. Das Produkt konvertiert hervorragend und bietet dir sehr lukrative Provisionen (Verkaufspreise: 47 € Standard / 67 € Resell).
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>MomentumOS ist ein digitales PDF-Dokument (ca. 30 Seiten) das dein regelbasiertes Trading-System vollständig beschreibt — von der Score-Berechnung über Kauf- und Verkaufsregeln bis zur wöchentlichen Routine.</p>
+**Vendor's marketplace description:** MomentumOS ist ein digitales PDF-Dokument (ca. 30 Seiten) das dein regelbasiertes Trading-System vollständig beschreibt — von der Score-Berechnung über Kauf- und Verkaufsregeln bis zur wöchentlichen Routine.
 
 ## 2. Links
 

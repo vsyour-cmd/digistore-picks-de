@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Sprachförderprogramm für Kinder. In der Nacht den Sprachrhytmus erwerben. Eltern spielen ihren Kindern Input vor, mit dem sie den Rhythmus erwerben. Dieser ist die Basis für den kompletten Sprachaufbau und die Voraussetzung für Lesen und Schreiben, inklusive 12 Monate Support über Telegram durch Fachtherapeuten.</p>
+**Vendor's marketplace description:** Sprachförderprogramm für Kinder. In der Nacht den Sprachrhytmus erwerben. Eltern spielen ihren Kindern Input vor, mit dem sie den Rhythmus erwerben. Dieser ist die Basis für den kompletten Sprachaufbau und die Voraussetzung für Lesen und Schreiben, inklusive 12 Monate Support über Telegram durch Fachtherapeuten.
 
 ## 2. Links
 

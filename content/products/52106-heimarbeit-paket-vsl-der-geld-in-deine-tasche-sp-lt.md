@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Neues Top-Conversion Produkt im Bereich online Geld verdienen mit einem starken VSL + mehrere Upsells (Abos für lebenslang passiv Einkommen)</strong></p>
-<p> </p>
-<p>Zielgruppe sind Menschen die heute schon online Geld verdienen möchten (Mamas, Azubis, Rentner, Schüler, Studenten - so gut wie jeder ist geeignet)</p>
-<p> </p>
-<p><strong>Konvertiert auf allen Traffic-Kanälen</strong> wie E-Mail, Social Media und ADS (Wenn du ADS schaltest kannst du eine erhöhte Provision erhalten)</p>
-<p> </p>
-<p><strong>Bewerbe das Heimarbeit-Komplettpaket noch heute und spüle Provisionen in deine Tasche.</strong></p>
-<p><strong>Es gibt 50% auf den gesamten Funnel (Auch auf Abos)</strong></p>
-<p><a href="https://heimarbeit-taetigkeiten.funnelcockpit.com/affiliates/" target="_blank" rel="noreferrer noopener"><strong>Mailvorlagen und alle weiteren Infos findest du auf der Affiliate-Supportseite &lt;&lt; Klicken</strong></a></p>
+**Vendor's marketplace description:** Neues Top-Conversion Produkt im Bereich online Geld verdienen mit einem starken VSL + mehrere Upsells (Abos für lebenslang passiv Einkommen) Zielgruppe sind Menschen die heute schon online Geld verdienen möchten (Mamas, Azubis, Rentner, Schüler, Studenten - so gut wie jeder ist geeignet) Konvertiert auf allen Traffic-Kanälen wie E-Mail, Social Media und ADS (Wenn du ADS schaltest kannst du eine erhöhte Provision erhalten) Bewerbe das Heimarbeit-Komplettpaket noch heute und spüle Provisionen in deine Tasche. Es gibt 50% auf den gesamten Funnel (Auch auf Abos) Mailvorlagen und alle weiteren Infos findest du auf der Affiliate-Supportseite << Klicken
 
 ## 2. Links
 

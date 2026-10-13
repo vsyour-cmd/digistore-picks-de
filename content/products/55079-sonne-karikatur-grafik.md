@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ca. A4 groß,  quer,  Jpg Datei,  in 300 dpi Auflösung. Nutzungsrechte für alle Medien. </p>
+**Vendor's marketplace description:** Ca. A4 groß, quer, Jpg Datei, in 300 dpi Auflösung. Nutzungsrechte für alle Medien.
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die meisten nennen es Vertrauen – in Wahrheit ist es Warten.</strong></p>
-<p>Viele Menschen glauben, sie seien mitten im Dualseelenprozess,<br />während ihr Leben stillsteht.</p>
-<p>Sie warten. Hoffen. Halten sich zurück.<br />Und verlieren sich dabei Stück für Stück selbst.</p>
-<p>Dieses PDF ist kein weiterer „spiritueller Trost“.<br />Es ist ein ehrlicher Blick auf das, was wirklich passiert:</p>
-<p> </p>
+**Vendor's marketplace description:** Die meisten nennen es Vertrauen – in Wahrheit ist es Warten. Viele Menschen glauben, sie seien mitten im Dualseelenprozess, während ihr Leben stillsteht. Sie warten. Hoffen. Halten sich zurück. Und verlieren sich dabei Stück für Stück selbst. Dieses PDF ist kein weiterer „spiritueller Trost“. Es ist ein ehrlicher Blick auf das, was wirklich passiert:
 
 ## 2. Links
 

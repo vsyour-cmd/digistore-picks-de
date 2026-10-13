@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Profitiere auf 50% Provision auf alle Addons + Upsells</p>
-<p> </p>
-<h3>1000 Luxus Auto Reels / Videos GRATIS</h3>
-<div> </div>
-<div>
-<h1>1000 GRATIS REEL VIDEOS  LUXUS AUTOS</h1>
-<p> </p>
-<p> </p>
-<ul>
-<li>Nur für kurze Zeit sind diese Reel Videos für dich verfügbar</li>
-</ul>
-<p> </p>
-<p><strong>DIESES 250 REELS KOSTEN DICH HEUTE NICHTS !</strong></p>
-</div>
+**Vendor's marketplace description:** Profitiere auf 50% Provision auf alle Addons + Upsells 1000 Luxus Auto Reels / Videos GRATIS 1000 GRATIS REEL VIDEOS LUXUS AUTOS Nur für kurze Zeit sind diese Reel Videos für dich verfügbar DIESES 250 REELS KOSTEN DICH HEUTE NICHTS !
 
 ## 2. Links
 

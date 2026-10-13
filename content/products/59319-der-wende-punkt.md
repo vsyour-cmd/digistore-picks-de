@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der Weg zum Licht: Die Wendung</strong></p>
-<p>Spürst du, dass es Zeit für eine Veränderung ist? Möchtest du dein Leben in eine neue, positive Richtung lenken, dich von alten Lasten befreien und vielleicht auch die Kraft des Glaubens neu für dich entdecken?</p>
-<p>In diesem inspirierenden Minibuch teilt der Autor seine persönliche Reise. Es ist eine ehrliche und tiefgründige Auseinandersetzung mit dem Loslassen von Fehlern, dem Finden von Sinn und der transformierenden Kraft des Lichts.</p>
-<p>Das erwartet dich:</p>
-<ul>
-<li>
-<p>Einblicke in eine echte Lebenswende – der Weg aus schwierigen Lebensphasen.</p>
-</li>
-<li>
-<p>Inspirierende Persönlichkeitsentwicklung – für inneren Frieden und Klarheit.</p>
-</li>
-<li>
-<p>Mutmacher-Geschichten – wie Hoffnung und Glaube das Leben von Grund auf verändern können.</p>
-</li>
-</ul>
-<p>Lass dich inspirieren und finde auch du deinen Pfad zu mehr Licht und Freude!</p>
-<p>(Hinweis: In Kürze erscheint ein neues, sehr vielversprechendes Buch, das deine komplette Biografie von früher bis heute noch detaillierter beleuchtet. Alle Käufer und Abonnenten dieses Buches erhalten den 30 % Preis  nachlass auf das kommende Werk, in dem du dich dank der Lebensgeschichte des Autors selbst identifizieren und typische Fehler vermeiden kannst.)</p>
+**Vendor's marketplace description:** Der Weg zum Licht: Die Wendung Spürst du, dass es Zeit für eine Veränderung ist? Möchtest du dein Leben in eine neue, positive Richtung lenken, dich von alten Lasten befreien und vielleicht auch die Kraft des Glaubens neu für dich entdecken? In diesem inspirierenden Minibuch teilt der Autor seine persönliche Reise. Es ist eine ehrliche und tiefgründige Auseinandersetzung mit dem Loslassen von Fehlern, dem Finden von Sinn und der transformierenden Kraft des Lichts. Das erwartet dich: Einblicke in eine echte Lebenswende – der Weg aus schwierigen Lebensphasen. Inspirierende Persönlichkeitsentwicklung – für inneren Frieden und Klarheit. Mutmacher-Geschichten – wie Hoffnung und Glaube das Leben von Grund auf verändern können. Lass dich inspirieren und finde auch du deinen Pfad zu mehr Licht und Freude! (Hinweis: In Kürze erscheint ein neues, sehr vielversprechendes Buch, das deine komplette Biografie von früher bis heute noch detaillierter beleuchtet. Alle Käufer und Abonnenten dieses Buches erhalten den 30 % Preis nachlass auf das kommende Werk, in dem du dich dank der Lebensgeschichte des Autors selbst identifizieren und typische Fehler vermeiden kannst.)
 
 ## 2. Links
 

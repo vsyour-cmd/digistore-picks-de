@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Minikurs: Erziehen ohne Bestrafung</p>
-<p>Viele Eltern wollen liebevoll begleiten und landen trotzdem immer wieder bei Drohungen und Strafen. Nicht, weil sie es so wollen, sondern weil ihnen alltagstaugliche Alternativen fehlen. Genau hier setzt dieser Minikurs an.</p>
-<p>In „Erziehen ohne Bestrafung“ lernen Eltern in einem 30-minütigen Video den klaren Unterschied zwischen Strafe und logischer Konsequenz. Sie erfahren, wie sie Grenzen setzen können, ohne Machtkämpfe auszulösen, und wie Kooperation entsteht, ohne Angst oder Druck. Der Kurs ist praxisnah, verständlich und so aufgebaut, dass die Inhalte sofort im Familienalltag umgesetzt werden können.</p>
-<p>Das bringt der Kurs:</p>
-<p>– weniger Schreien, Drohen und schlechtes Gewissen</p>
-<p>– mehr Gelassenheit und Sicherheit im Erziehungsalltag</p>
-<p>– Kinder, die Regeln aus Einsicht verstehen statt aus Angst</p>
-<p>– eine stärkere Beziehung durch wertschätzende Kommunikation</p>
-<p>Der Minikurs eignet sich ideal für Eltern, die spüren, dass Strafen nicht der Weg sind, aber noch nicht wissen, was stattdessen funktioniert. Mit konkreten Beispielen, klarer Sprache und sofort umsetzbaren Strategien zeigt der Kurs, wie Erziehung ohne Bestrafung wirklich gelingt.</p>
-<p><strong>Affiliate Vorteil:</strong></p>
-<p>Als Affiliate erhältst du <strong>50 % Provision</strong> pro Verkauf.</p>
-<p>Ein stark nachgefragtes Thema, ein klarer Nutzen und ein emotionaler Einstieg machen diesen Minikurs besonders leicht vermittelbar.</p>
+**Vendor's marketplace description:** Minikurs: Erziehen ohne Bestrafung Viele Eltern wollen liebevoll begleiten und landen trotzdem immer wieder bei Drohungen und Strafen. Nicht, weil sie es so wollen, sondern weil ihnen alltagstaugliche Alternativen fehlen. Genau hier setzt dieser Minikurs an. In „Erziehen ohne Bestrafung“ lernen Eltern in einem 30-minütigen Video den klaren Unterschied zwischen Strafe und logischer Konsequenz. Sie erfahren, wie sie Grenzen setzen können, ohne Machtkämpfe auszulösen, und wie Kooperation entsteht, ohne Angst oder Druck. Der Kurs ist praxisnah, verständlich und so aufgebaut, dass die Inhalte sofort im Familienalltag umgesetzt werden können. Das bringt der Kurs: – weniger Schreien, Drohen und schlechtes Gewissen – mehr Gelassenheit und Sicherheit im Erziehungsalltag – Kinder, die Regeln aus Einsicht verstehen statt aus Angst – eine stärkere Beziehung durch wertschätzende Kommunikation Der Minikurs eignet sich ideal für Eltern, die spüren, dass Strafen nicht der Weg sind, aber noch nicht wissen, was stattdessen funktioniert. Mit konkreten Beispielen, klarer Sprache und sofort umsetzbaren Strategien zeigt der Kurs, wie Erziehung ohne Bestrafung wirklich gelingt. Affiliate Vorteil: Als Affiliate erhältst du 50 % Provision pro Verkauf. Ein stark nachgefragtes Thema, ein klarer Nutzen und ein emotionaler Einstieg machen diesen Minikurs besonders leicht vermittelbar.
 
 ## 2. Links
 

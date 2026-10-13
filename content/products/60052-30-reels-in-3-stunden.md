@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du willst neben Job und Familie auf Instagram sichtbar werden, aber abends bleiben dir 30 Minuten, und die gehen für die Frage „Was poste ich heute?“ drauf?</p>
-<p>Das Problem ist nicht zu wenig Zeit. Du produzierst jedes Reel einzeln und fängst deshalb jeden Tag von vorne an.</p>
-<p>„30 Reels in 3 Stunden“ zeigt dir, wie du jeden Arbeitsschritt für alle Reels am Stück erledigst. Aufgeteilt ist das in vier Blöcke, die du auch auf mehrere Abende verteilen kannst:</p>
-<p>✔ <strong>Block 1 · Themen (20 Min.):</strong> 30 konkrete Reel-Ideen per KI-Prompt, sortiert nach deinen 3 Content-Säulen<br />✔ <strong>Block 2 · Skripte (40 Min.):</strong> Hooks und sprechfertige Kurzskripte mit einer erprobten Prompt-Kette, plus Anleitung, damit es nicht nach KI klingt<br />✔ <strong>Block 3 · Dreh (80 Min.):</strong> Drehplan mit Reihenfolge, Regeln gegen Perfektionismus und Tipps gegen Kamera-Hemmung<br />✔ <strong>Block 4 · Schnitt &amp; Planung (40 Min.):</strong> Schnitt-Vorlage, Captions per Prompt und direktes Einplanen für 30 Tage</p>
-<p><strong>Das bekommst du:</strong></p>
-<ul>
-<li>6 fertige KI-Prompts zum Kopieren (z. B. für ChatGPT oder Claude) plus einen Kontext-Baustein, der die Ergebnisse auf dich zuschneidet</li>
-<li>20 Hook-Vorlagen für die ersten 3 Sekunden</li>
-<li>Die Skript-Formel H-P-P-C mit Vorher/Nachher-Beispiel</li>
-<li>Setup-Empfehlungen für Handy, Licht und Ton ohne teures Equipment</li>
-<li>Arbeitsblätter: Themenpool, Session-Checkliste, 30-Tage-Posting-Plan, Auswertung</li>
-</ul>
-<p><strong>Für wen ist das?</strong><br />Für Angestellte, Mütter und Väter, die neben dem Job eine Personal Brand oder ein Nebenbusiness aufbauen und regelmäßig posten wollen, ohne jeden Abend dafür zu opfern.</p>
-<p><strong>Für wen nicht?</strong><br />Für alle, die aufwendige Trend-Reels mit Übergängen und Effekten suchen. Das System setzt bewusst auf ein einfaches Format: Du sprichst direkt in die Kamera, 15–45 Sekunden, mit Untertiteln.</p>
-<p><strong>Format:</strong> PDF, 19 Seiten, sofortiger Download nach dem Kauf.</p>
-<p><em>Hinweis: Die Zeitangaben sind Richtwerte für das beschriebene Format. Die erste Session dauert erfahrungsgemäß länger. Reichweite, Follower oder Umsätze werden nicht garantiert.</em></p>
+**Vendor's marketplace description:** Du willst neben Job und Familie auf Instagram sichtbar werden, aber abends bleiben dir 30 Minuten, und die gehen für die Frage „Was poste ich heute?“ drauf? Das Problem ist nicht zu wenig Zeit. Du produzierst jedes Reel einzeln und fängst deshalb jeden Tag von vorne an. „30 Reels in 3 Stunden“ zeigt dir, wie du jeden Arbeitsschritt für alle Reels am Stück erledigst. Aufgeteilt ist das in vier Blöcke, die du auch auf mehrere Abende verteilen kannst: ✔ Block 1 · Themen (20 Min.): 30 konkrete Reel-Ideen per KI-Prompt, sortiert nach deinen 3 Content-Säulen ✔ Block 2 · Skripte (40 Min.): Hooks und sprechfertige Kurzskripte mit einer erprobten Prompt-Kette, plus Anleitung, damit es nicht nach KI klingt ✔ Block 3 · Dreh (80 Min.): Drehplan mit Reihenfolge, Regeln gegen Perfektionismus und Tipps gegen Kamera-Hemmung ✔ Block 4 · Schnitt & Planung (40 Min.): Schnitt-Vorlage, Captions per Prompt und direktes Einplanen für 30 Tage Das bekommst du: 6 fertige KI-Prompts zum Kopieren (z. B. für ChatGPT oder Claude) plus einen Kontext-Baustein, der die Ergebnisse auf dich zuschneidet 20 Hook-Vorlagen für die ersten 3 Sekunden Die Skript-Formel H-P-P-C mit Vorher/Nachher-Beispiel Setup-Empfehlungen für Handy, Licht und Ton ohne teures Equipment Arbeitsblätter: Themenpool, Session-Checkliste, 30-Tage-Posting-Plan, Auswertung Für wen ist das? Für Angestellte, Mütter und Väter, die neben dem Job eine Personal Brand oder ein Nebenbusiness aufbauen und regelmäßig posten wollen, ohne jeden Abend dafür zu opfern. Für wen nicht? Für alle, die aufwendige Trend-Reels mit Übergängen und Effekten suchen. Das System setzt bewusst auf ein einfaches Format: Du sprichst direkt in die Kamera, 15–45 Sekunden, mit Untertiteln. Format: PDF, 19 Seiten, sofortiger Download nach dem Kauf. Hinweis: Die Zeitangaben sind Richtwerte für das beschriebene Format. Die erste Session dauert erfahrungsgemäß länger. Reichweite, Follower oder Umsätze werden nicht garantiert.
 
 ## 2. Links
 

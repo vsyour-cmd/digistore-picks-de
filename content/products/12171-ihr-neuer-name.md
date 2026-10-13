@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><span style="color:#800080;"><strong>IHR NEUER NAME - legal und amtlich</strong></span></p>
-<p>...in Deutschland<br /> ...in Europa<br /> ...weltweit</p>
-<p>INHALTSANGABE<br /> Die 9 Möglichkeiten der Namensänderung in Deutschland<br /> Neuer Name durch Religionswechsel<br /> Neuer Name durch Wehrdienst<br /> Neuer Name durch neuen Pass<br /> Noch ein cleverer Trick, für eine neue Identität<br /> So leicht bekommen Ausländer einen neuen Namen in England<br /> Das Kit zur Namensänderung in den USA<br /> Neue Identität durch Tarnpass</p>
-<p> </p>
-<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
-<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
-<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<strong>J<span style="color:#cc99ff;">eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</span></strong>“.</p>
-<p>2 einfache Schritte:</p>
-<ol>
-<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html%20" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html </a></span>(dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge")</li>
-<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
-</ol>
-<p> </p>
-<p><em><strong> </strong></em></p>
+**Vendor's marketplace description:** IHR NEUER NAME - legal und amtlich ...in Deutschland ...in Europa ...weltweit INHALTSANGABE Die 9 Möglichkeiten der Namensänderung in Deutschland Neuer Name durch Religionswechsel Neuer Name durch Wehrdienst Neuer Name durch neuen Pass Noch ein cleverer Trick, für eine neue Identität So leicht bekommen Ausländer einen neuen Namen in England Das Kit zur Namensänderung in den USA Neue Identität durch Tarnpass Möchten Sie ein Ansichtsexemplar? Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz. Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „ J eden T ag R ei*cher “. 2 einfache Schritte: JTR gratis bestellen auf https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge") Email mit Ihrem Ebook-Wunsch an service@big-benn-books.com
 
 ## 2. Links
 

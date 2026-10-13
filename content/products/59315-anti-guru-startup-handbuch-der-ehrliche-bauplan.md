@@ -41,33 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Anti-Guru Startup Handbuch: Der ehrliche Bauplan für dein profitables Side-Business – Echtes Fundament statt leere Versprechen!</h2>
-<p><strong>Hast du genug von den "Über-Nacht-reich"-Versprechen der Fake-Gurus?</strong></p>
-<p>Die meisten Nebenberufler scheitern, weil sie an leere Versprechen glauben, statt ehrliche Arbeit zu leisten. Sie folgen lauten Stimmen, die passives Einkommen ohne Aufwand oder sechsstellige Umsätze im Schlaf versprechen. Das Ergebnis? Viel verlorene Zeit, verbranntes Geld und frustrierende Luftschlösser.</p>
-<p><strong>Schluss damit! Hol dir den Bauplan für zählbare Ergebnisse.</strong></p>
-<p>Das "Anti-Guru Startup Handbuch" ist dein persönlicher Anti-Guru-Vertrag mit dir selbst. Es zeigt dir als dein Architekt des Erfolgs, wie du ein stabiles Fundament für dein eigenes profitables Geschäft legst. Du brauchst keinen Zauber, sondern einen klaren Bauplan und echten Zement.</p>
-<p><strong>Das lernst du in diesem praxisnahen Handbuch:</strong></p>
-<ul>
-<li>
-<p><strong>Das echte Fundament:</strong> Erfahre, warum fünf wirklich fokussierte Stunden mehr wert sind als zwanzig geplante. Lerne, wie du den Unterschied zwischen bloßer Beschäftigung und echten, umsatznahen Aufgaben erkennst.</p>
-</li>
-<li>
-<p><strong>Glasklare Positionierung:</strong> Finde Probleme, für die Menschen tatsächlich bezahlen. Formuliere dein erstes ehrliches Angebot mit der Nischen-Formel in einem prägnanten Zwei-Satz-Pitch mit einem klaren Preisanker.</p>
-</li>
-<li>
-<p><strong>Minimalistisches Setup:</strong> Entkomme dem teuren "Tool-Zirkus". Du erfährst, warum du maximal drei Werkzeuge für den Start brauchst, um eine reibungslose Kontaktstrecke, Bezahlung und Auslieferung sauber einzurichten.</p>
-</li>
-<li>
-<p><strong>Umsatz durch Ehrlichkeit:</strong> Begreife, dass Verkaufen keine Manipulation ist, sondern die lauteste Form der Hilfe. Lerne, wie du deine erste Kontaktliste aufbaust und Nachrichten schreibst, die Antworten auslösen.</p>
-</li>
-<li>
-<p><strong>Skalierbares Wachstum:</strong> Werte deinen ersten Umsatz richtig aus, indem du auf Daten statt auf dein Bauchgefühl vertraust. Dokumentiere deine Prozesse und erstelle deinen konkreten 90-Tage-Wachstums-Bauplan.</p>
-</li>
-</ul>
-<p>Dieses Handbuch ist für dich, wenn du bereit bist, die Ärmel hochzukrempeln und ein echtes Side-Business aufzubauen. Jedes Kapitel endet mit einem klaren „Bauauftrag“ – konkreten Schritten, die du sofort umsetzen sollst.</p>
-<p><strong>Hör auf zu träumen und fang an zu betonieren.</strong></p>
-<p> </p>
-<p>
+**Vendor's marketplace description:** Anti-Guru Startup Handbuch: Der ehrliche Bauplan für dein profitables Side-Business – Echtes Fundament statt leere Versprechen! Hast du genug von den "Über-Nacht-reich"-Versprechen der Fake-Gurus? Die meisten Nebenberufler scheitern, weil sie an leere Versprechen glauben, statt ehrliche Arbeit zu leisten. Sie folgen lauten Stimmen, die passives Einkommen ohne Aufwand oder sechsstellige Umsätze im Schlaf versprechen. Das Ergebnis? Viel verlorene Zeit, verbranntes Geld und frustrierende Luftschlösser. Schluss damit! Hol dir den Bauplan für zählbare Ergebnisse. Das "Anti-Guru Startup Handbuch" ist dein persönlicher Anti-Guru-Vertrag mit dir selbst. Es zeigt dir als dein Architekt des Erfolgs, wie du ein stabiles Fundament für dein eigenes profitables Geschäft legst. Du brauchst keinen Zauber, sondern einen klaren Bauplan und echten Zement. Das lernst du in diesem praxisnahen Handbuch: Das echte Fundament: Erfahre, warum fünf wirklich fokussierte Stunden mehr wert sind als zwanzig geplante. Lerne, wie du den Unterschied zwischen bloßer Beschäftigung und echten, umsatznahen Aufgaben erkennst. Glasklare Positionierung: Finde Probleme, für die Menschen tatsächlich bezahlen. Formuliere dein erstes ehrliches Angebot mit der Nischen-Formel in einem prägnanten Zwei-Satz-Pitch mit einem klaren Preisanker. Minimalistisches Setup: Entkomme dem teuren "Tool-Zirkus". Du erfährst, warum du maximal drei Werkzeuge für den Start brauchst, um eine reibungslose Kontaktstrecke, Bezahlung und Auslieferung sauber einzurichten. Umsatz durch Ehrlichkeit: Begreife, dass Verkaufen keine Manipulation ist, sondern die lauteste Form der Hilfe. Lerne, wie du deine erste Kontaktliste aufbaust und Nachrichten schreibst, die Antworten auslösen. Skalierbares Wachstum: Werte deinen ersten Umsatz richtig aus, indem du auf Daten statt auf dein Bauchgefühl vertraust. Dokumentiere deine Prozesse und erstelle deinen konkreten 90-Tage-Wachstums-Bauplan. Dieses Handbuch ist für dich, wenn du bereit bist, die Ärmel hochzukrempeln und ein echtes Side-Business aufzubauen. Jedes Kapitel endet mit einem klaren „Bauauftrag“ – konkreten Schritten, die du sofort umsetzen sollst. Hör auf zu träumen und fang an zu betonieren.
 
 ## 2. Links
 

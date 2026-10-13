@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Hausaufgaben leicht gemacht – Lernplaner mit Lern-Generator</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Der Lernplaner hilft Schulkindern, Hausaufgaben, Klassenarbeiten und das Üben selbst zu organisieren, mit Wochenplan, Lernplan und Rechenblättern mit Lösungen. Der <strong>Lern-Generator</strong> erstellt neue Rechenblätter und rechnet den Notenschnitt.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Eltern von Grundschulkindern</li>
-<li>Familien mit Streit um die Hausaufgaben</li>
-<li>Großeltern und Nachhilfe, die Übungsblätter suchen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Schulstart, Halbjahreszeugnis oder Ärger bei den Hausaufgaben</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Kalender und Planer 2027, Haushaltsbuch und Sparen) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Hausaufgaben leicht gemacht – Lernplaner mit Lern-Generator Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Der Lernplaner hilft Schulkindern, Hausaufgaben, Klassenarbeiten und das Üben selbst zu organisieren, mit Wochenplan, Lernplan und Rechenblättern mit Lösungen. Der Lern-Generator erstellt neue Rechenblätter und rechnet den Notenschnitt. Die Zielgruppe Eltern von Grundschulkindern Familien mit Streit um die Hausaufgaben Großeltern und Nachhilfe, die Übungsblätter suchen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Schulstart, Halbjahreszeugnis oder Ärger bei den Hausaufgaben Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Kalender und Planer 2027, Haushaltsbuch und Sparen) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

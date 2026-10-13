@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Schluss mit dem Rätselraten: alle 16 Matze-Praxiskurse in einem Paket.</h2>
-<p>Für Menschen, die ein Online-Business aufbauen und passende Wege für digitale Produkte, Content, Affiliate-Marketing oder Handel kennenlernen möchten. Deine Zielgruppe erhält eine umfassende schriftliche Kursbibliothek und wählt einen konkreten Schwerpunkt für die Umsetzung.</p>
-<ul>
-<li>Sieben Werkstatt-Kurse: Canva, Etsy, Pinterest, Social Media, E-Mail, UGC und KI-Kundenservice – inklusive der sieben Zusatzpakete.</li>
-<li>Sieben weitere Kurse: Faceless-Videos, Amazon KDP, Affiliate-Website, Landingpage, Amazon PartnerNet, TikTok Shop Affiliate und Amazon FBA.</li>
-<li>Affiliate Marketing für Anfänger und der Digistore24-Praxiskurs.</li>
-<li>Zehn Download-Dateien mit Lektionen, Arbeitsmappen und Vorlagen.</li>
-<li>999 € einmalig, kein Abo. 40 % Affiliate-Provision gemäß Digistore24-Abrechnung.</li>
-</ul>
-<h3>Produktspezifische Werbemittel für deine Kampagne</h3>
-<p>Matze-Szenencover, Social-Media-Texte, Pinterest-Text, E-Mail-Vorlage und Partnerlink-Generator stehen auf der verlinkten Affiliate-Support-Seite bereit.</p>
-<p>Schriftliche Selbstlernkurse ohne Videolektionen oder persönliche Betreuung. Externe Konten, Freigaben und Kosten sind nicht enthalten. Einnahmen und Verkäufe werden nicht garantiert.</p>
-<p>Affiliate-Support: info@einfachhaltbar.de</p>
+**Vendor's marketplace description:** Schluss mit dem Rätselraten: alle 16 Matze-Praxiskurse in einem Paket. Für Menschen, die ein Online-Business aufbauen und passende Wege für digitale Produkte, Content, Affiliate-Marketing oder Handel kennenlernen möchten. Deine Zielgruppe erhält eine umfassende schriftliche Kursbibliothek und wählt einen konkreten Schwerpunkt für die Umsetzung. Sieben Werkstatt-Kurse: Canva, Etsy, Pinterest, Social Media, E-Mail, UGC und KI-Kundenservice – inklusive der sieben Zusatzpakete. Sieben weitere Kurse: Faceless-Videos, Amazon KDP, Affiliate-Website, Landingpage, Amazon PartnerNet, TikTok Shop Affiliate und Amazon FBA. Affiliate Marketing für Anfänger und der Digistore24-Praxiskurs. Zehn Download-Dateien mit Lektionen, Arbeitsmappen und Vorlagen. 999 € einmalig, kein Abo. 40 % Affiliate-Provision gemäß Digistore24-Abrechnung. Produktspezifische Werbemittel für deine Kampagne Matze-Szenencover, Social-Media-Texte, Pinterest-Text, E-Mail-Vorlage und Partnerlink-Generator stehen auf der verlinkten Affiliate-Support-Seite bereit. Schriftliche Selbstlernkurse ohne Videolektionen oder persönliche Betreuung. Externe Konten, Freigaben und Kosten sind nicht enthalten. Einnahmen und Verkäufe werden nicht garantiert. Affiliate-Support: info@einfachhaltbar.de
 
 ## 2. Links
 

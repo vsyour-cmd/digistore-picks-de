@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Nachtfrequenzen sind professionelle deutschsprachige Audio-Sessions zur Selbstregulation für verschiedene Alltagssituationen und innere Zustände.</p>
-<p>Die Editionen begleiten unter anderem bei:</p>
-<p>* Kopfkino/innerer Unruhe (Einschlafen/Schlaf)</p>
-<p>* Liebeskummer (Abstand halten)</p>
-<p>* Süßimpuls (Naschen)</p>
-<p>* Prokrastination (Aufschieben)</p>
-<p>Die Audio-Begleitungen bestehen aus hochwertig produzierten Studioaufnahmen. Jede Edition verbindet eine warme, klare Stimme mit einer psychologisch fundierten Audio-Struktur. Im Premium Mix kommen zusätzlich fein gesetzte neuroakustische Elemente und dezente Links-Rechts-Impulse zum Einsatz. So entsteht ein Audio-Erlebnis, das deutlich über einfache Entspannungsaufnahmen hinausgeht. Es werden zwei Versionen ausgeliefert: Stimme pur und Premium Mix.</p>
-<p>Erhältlich sind Einzel-Editionen sowie Paketkombinationen.</p>
-<p>Digitales Download-Produkt. Kein Heilversprechen. Kein Ersatz für medizinische oder therapeutische Behandlung.</p>
-<p> </p>
+**Vendor's marketplace description:** Nachtfrequenzen sind professionelle deutschsprachige Audio-Sessions zur Selbstregulation für verschiedene Alltagssituationen und innere Zustände. Die Editionen begleiten unter anderem bei: * Kopfkino/innerer Unruhe (Einschlafen/Schlaf) * Liebeskummer (Abstand halten) * Süßimpuls (Naschen) * Prokrastination (Aufschieben) Die Audio-Begleitungen bestehen aus hochwertig produzierten Studioaufnahmen. Jede Edition verbindet eine warme, klare Stimme mit einer psychologisch fundierten Audio-Struktur. Im Premium Mix kommen zusätzlich fein gesetzte neuroakustische Elemente und dezente Links-Rechts-Impulse zum Einsatz. So entsteht ein Audio-Erlebnis, das deutlich über einfache Entspannungsaufnahmen hinausgeht. Es werden zwei Versionen ausgeliefert: Stimme pur und Premium Mix. Erhältlich sind Einzel-Editionen sowie Paketkombinationen. Digitales Download-Produkt. Kein Heilversprechen. Kein Ersatz für medizinische oder therapeutische Behandlung.
 
 ## 2. Links
 

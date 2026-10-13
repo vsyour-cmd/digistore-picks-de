@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Gruppen-Funnel, lokale Leadgenerierung und planbare Anfragen ohne Werbebudget</strong></p>
-<p>Facebook ist für Unternehmen kein Netzwerk mehr – es ist ein Vertriebskanal mit Millionen lokaler und themenaffiner Nutzer. Dieses E-Book zeigt dir, wie du Facebook gezielt zur Neukundengewinnung einsetzt: mit einer eigenen Gruppe als Community-Funnel, mit lokalen Veranstaltungen, die dein Einzugsgebiet aktivieren, und mit organischen Strategien, die Anfragen statt nur Klicks bringen. Du lernst, wie du Diskussions-Posts und native Videos nutzt, um Vertrauen aufzubauen, wie du über Messenger-Kampagnen qualifizierte Leads einleitest und wie du Facebook-Veranstaltungen als Lead-Magnet nutzt. Für Dienstleister, lokale Betriebe und B2B-Unternehmen gleichermaßen. Inklusive Funnel-Vorlage, Messenger-Skripten und einem Reporting-Sheet, das deinen ROI sichtbar macht.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Deine Facebook-Gruppe als Community-Funnel aufbauen</li>
-<li>Lokale Leadgenerierung: dein Einzugsgebiet aktivieren</li>
-<li>Veranstaltungen und Events als Lead-Magnet nutzen</li>
-<li>Diskussions-Posts und native Videos als Vertrauensanker</li>
-<li>Messenger-Strategie: von der Anfrage zum Auftrag</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Gruppen-Funnel, lokale Leadgenerierung und planbare Anfragen ohne Werbebudget Facebook ist für Unternehmen kein Netzwerk mehr – es ist ein Vertriebskanal mit Millionen lokaler und themenaffiner Nutzer. Dieses E-Book zeigt dir, wie du Facebook gezielt zur Neukundengewinnung einsetzt: mit einer eigenen Gruppe als Community-Funnel, mit lokalen Veranstaltungen, die dein Einzugsgebiet aktivieren, und mit organischen Strategien, die Anfragen statt nur Klicks bringen. Du lernst, wie du Diskussions-Posts und native Videos nutzt, um Vertrauen aufzubauen, wie du über Messenger-Kampagnen qualifizierte Leads einleitest und wie du Facebook-Veranstaltungen als Lead-Magnet nutzt. Für Dienstleister, lokale Betriebe und B2B-Unternehmen gleichermaßen. Inklusive Funnel-Vorlage, Messenger-Skripten und einem Reporting-Sheet, das deinen ROI sichtbar macht. Das steckt drin: Deine Facebook-Gruppe als Community-Funnel aufbauen Lokale Leadgenerierung: dein Einzugsgebiet aktivieren Veranstaltungen und Events als Lead-Magnet nutzen Diskussions-Posts und native Videos als Vertrauensanker Messenger-Strategie: von der Anfrage zum Auftrag Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

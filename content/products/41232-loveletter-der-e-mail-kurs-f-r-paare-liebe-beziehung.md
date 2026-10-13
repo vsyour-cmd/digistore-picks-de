@@ -41,41 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><strong>Loveletter. Der E-Mail-Kurs für Paare für mehr Liebe und Freude in der Partnerschaft</strong></h4>
-<p> </p>
-<ul>
-<li>Dauer:<strong> 3 oder 12 Monate</strong></li>
-<li><strong>Wöchentliche E-Mails</strong> mit Aufgaben, Übungen, Tipps und Tricks eines Paartherapeuten</li>
-<li><strong>Leicht in den Alltag integrierbar</strong></li>
-<li><strong>Verschiedenen Schwerpunkte</strong> wählbar
-<ul>
-<li>Kommunikation &amp; Konfliktlösung</li>
-<li>Verbundenheit &amp; Vertrauen</li>
-<li>Sexualität &amp; Intimität</li>
-<li>Leichtigkeit &amp; Lebendigkeit</li>
-</ul>
-</li>
-<li><strong>Große Zielgruppe</strong>: Jedes Paar wünscht sich mehr Liebe, Verbundenheit, Zufriedenheit und eine glückliche Partnerschaft und Beziehung</li>
-<li>Paare können es selbst kaufen, <strong>oder als Geschenk</strong> für Paare</li>
-</ul>
-<p> </p>
-<p> </p>
-<p><strong>Empfehle meinen E-Mail-Kurs für Paare und nutze diese</strong><strong> Vorteile:<br /></strong></p>
-<p> </p>
-<ul>
-<li><strong>Hohe Provision</strong>: Erhalte 30 % Provision</li>
-<li><strong>Hohe Bekanntheit</strong>: Der E-Mail-Kurs eines bekannten Beziehungspsychologen (ARD, ZDF, Focus, Stern …) </li>
-<li><strong>Laufende Optimierung</strong> der Verkaufs-Funnel + geringe Stornoquote</li>
-</ul>
-<p> </p>
-<p> </p>
-<p>Melde dich jetzt als Affiliate an. Ich freue mich auf eine gewinnbringende Zusammenarbeit!</p>
-<p> </p>
-<p><a href="https://www.wielandstolzenburg.de/partnerprogramm/" target="_blank" rel="noreferrer noopener"> &gt; ALLE INFOS ZUM PARTNERPROGRAMM </a></p>
-<p> </p>
-<p>Beste Grüße,<br />Wieland Stolzenburg</p>
-<p> </p>
-<p>PS: Brand-Bidding auf "Loveletter", "Wieland Stolzenburg" und Varianten nicht erlaubt!</p>
+**Vendor's marketplace description:** Loveletter. Der E-Mail-Kurs für Paare für mehr Liebe und Freude in der Partnerschaft Dauer: 3 oder 12 Monate Wöchentliche E-Mails mit Aufgaben, Übungen, Tipps und Tricks eines Paartherapeuten Leicht in den Alltag integrierbar Verschiedenen Schwerpunkte wählbar Kommunikation & Konfliktlösung Verbundenheit & Vertrauen Sexualität & Intimität Leichtigkeit & Lebendigkeit Große Zielgruppe : Jedes Paar wünscht sich mehr Liebe, Verbundenheit, Zufriedenheit und eine glückliche Partnerschaft und Beziehung Paare können es selbst kaufen, oder als Geschenk für Paare Empfehle meinen E-Mail-Kurs für Paare und nutze diese Vorteile: Hohe Provision : Erhalte 30 % Provision Hohe Bekanntheit : Der E-Mail-Kurs eines bekannten Beziehungspsychologen (ARD, ZDF, Focus, Stern …) Laufende Optimierung der Verkaufs-Funnel + geringe Stornoquote Melde dich jetzt als Affiliate an. Ich freue mich auf eine gewinnbringende Zusammenarbeit! > ALLE INFOS ZUM PARTNERPROGRAMM Beste Grüße, Wieland Stolzenburg PS: Brand-Bidding auf "Loveletter", "Wieland Stolzenburg" und Varianten nicht erlaubt!
 
 ## 2. Links
 

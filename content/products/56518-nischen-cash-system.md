@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Perfekter Kurs Anfänger und Fortgeschrittene, wie man spielend leicht und erfolgreich mit Nischenseiten ein Online Business aufbaut</strong></p>
-<p><strong>Der Kurs kostet für den Kunden nur 19,90€</strong></p>
-<p> </p>
-<p>Über € 51 Provision beim Funneldurchlauf für Dich möglich</p>
-<p>Deine Provision dafür ist 50 %</p>
+**Vendor's marketplace description:** Perfekter Kurs Anfänger und Fortgeschrittene, wie man spielend leicht und erfolgreich mit Nischenseiten ein Online Business aufbaut Der Kurs kostet für den Kunden nur 19,90€ Über € 51 Provision beim Funneldurchlauf für Dich möglich Deine Provision dafür ist 50 %
 
 ## 2. Links
 

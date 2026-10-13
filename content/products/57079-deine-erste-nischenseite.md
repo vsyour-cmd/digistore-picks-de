@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Deine erste Nischenseite"</strong></p>
-<p>Eine kleine Website zu einem klaren Thema, die hilfreiche Inhalte bietet und über Affiliate-Links mitverdient: Wie du eine Nische findest, Inhalte schreibst, die helfen und gefunden werden, und Affiliate-Programme sauber einbindest. Passiv kommt erst nach der Arbeit.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema: Online-Business &amp; Geld verdienen</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verstehen, wie eine Nischenseite Leser hilft und mitverdient</li>
-<li>Eine Nische mit echtem Bedarf finden und bewerten</li>
-<li>Keywords und Themen recherchieren, die Besucher bringen</li>
-<li>Inhalte schreiben, die helfen und gefunden werden</li>
-<li>Affiliate-Programme einbinden und Werbung korrekt kennzeichnen</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Menschen, die online ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Deine erste Nischenseite" Eine kleine Website zu einem klaren Thema, die hilfreiche Inhalte bietet und über Affiliate-Links mitverdient: Wie du eine Nische findest, Inhalte schreibst, die helfen und gefunden werden, und Affiliate-Programme sauber einbindest. Passiv kommt erst nach der Arbeit. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema: Online-Business & Geld verdienen Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verstehen, wie eine Nischenseite Leser hilft und mitverdient Eine Nische mit echtem Bedarf finden und bewerten Keywords und Themen recherchieren, die Besucher bringen Inhalte schreiben, die helfen und gefunden werden Affiliate-Programme einbinden und Werbung korrekt kennzeichnen Für deine Zielgruppe: Menschen, die online ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

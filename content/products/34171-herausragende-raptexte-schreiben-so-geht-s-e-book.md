@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses E-Book für Anfänger und Fortgeschrittene Rapper, Raptexter und Ghostwriter vermittelt Schritt für Schritt und mit vielen praktischen Übungen und Fallbeispielen alle Fertigkeiten und Kenntnisse, um einen Raptext schreiben zu können.</p>
-<p>Es werden dabei</p>
-<ul><li>Reime</li>
-<li>Flow</li>
-<li>Die Arbeit mit Hilfsmitteln wie z.B. Reimmaschinen</li>
-<li>Die Kooperation mit anderen Künstlern</li>
-<li>Betonung</li>
-<li>Eloquenz in Texten</li>
-<li>Die richtigen Inhalte</li>
-<li>Geschwindigkeitsvariationen wie Double- und Trippletime und</li>
-<li>Wortspiele</li>
-</ul><p>erklärt, vorgemacht und eingeübt.</p>
-<p>Abgerundet wird das Ganze durch sofort einsetzbare Vorlagen mit denen sofort mit dem texten begonnen werden kann.</p>
-<p>Die <a href="https://rap-text.com/wp-content/uploads/2020/05/Inhalt-RTC-E-Book.pdf" target="_blank" rel="noreferrer noopener">Inhalte auf einen Blick sind hier zu finden</a>.</p>
+**Vendor's marketplace description:** Dieses E-Book für Anfänger und Fortgeschrittene Rapper, Raptexter und Ghostwriter vermittelt Schritt für Schritt und mit vielen praktischen Übungen und Fallbeispielen alle Fertigkeiten und Kenntnisse, um einen Raptext schreiben zu können. Es werden dabei Reime Flow Die Arbeit mit Hilfsmitteln wie z.B. Reimmaschinen Die Kooperation mit anderen Künstlern Betonung Eloquenz in Texten Die richtigen Inhalte Geschwindigkeitsvariationen wie Double- und Trippletime und Wortspiele erklärt, vorgemacht und eingeübt. Abgerundet wird das Ganze durch sofort einsetzbare Vorlagen mit denen sofort mit dem texten begonnen werden kann. Die Inhalte auf einen Blick sind hier zu finden .
 
 ## 2. Links
 

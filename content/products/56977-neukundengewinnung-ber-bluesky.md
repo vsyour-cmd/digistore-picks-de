@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie Unternehmen und Selbstständige auf der dezentralen X-Alternative planbar Anfragen generieren</strong></p>
-<p>Während andere Unternehmen noch auf übersättigten Plattformen um Sichtbarkeit kämpfen, öffnet sich auf Bluesky ein neues Vertriebsfenster – mit organischer Reichweite, die es auf X oder Instagram schon lange nicht mehr gibt. Das AT-Protocol sorgt dafür, dass dein Unternehmensaccount unabhängig von Konzernentscheidungen bleibt, und Custom Feeds ermöglichen gezielte Sichtbarkeit genau dort, wo deine Zielgruppe aktiv ist. Dieses E-Book zeigt dir, wie du Bluesky systematisch als Akquise-Kanal aufbaust: von der Profil-Optimierung mit eigener Domain über Starter Packs als Netzwerk-Beschleuniger bis hin zu einer Konversationsstrategie, die aus Replies qualifizierte Erstgespräche macht. Du bekommst ein System, das nicht auf viralen Zufall setzt, sondern auf die strukturellen Vorteile einer dezentralen Plattform im Wachstum.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Das AT-Protocol als Business-Vorteil: eigene Domain als Vertrauenssignal einsetzen</li>
-<li>Custom Feeds strategisch platzieren, um von der Zielgruppe gefunden zu werden</li>
-<li>Starter Packs als Netzwerk- und Sichtbarkeits-Beschleuniger erstellen</li>
-<li>Konversationsstrategie: aus Replies planbar qualifizierte Anfragen machen</li>
-<li>Den Funnel auf Bluesky aufbauen: vom ersten Kontakt zur Conversion</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie Unternehmen und Selbstständige auf der dezentralen X-Alternative planbar Anfragen generieren Während andere Unternehmen noch auf übersättigten Plattformen um Sichtbarkeit kämpfen, öffnet sich auf Bluesky ein neues Vertriebsfenster – mit organischer Reichweite, die es auf X oder Instagram schon lange nicht mehr gibt. Das AT-Protocol sorgt dafür, dass dein Unternehmensaccount unabhängig von Konzernentscheidungen bleibt, und Custom Feeds ermöglichen gezielte Sichtbarkeit genau dort, wo deine Zielgruppe aktiv ist. Dieses E-Book zeigt dir, wie du Bluesky systematisch als Akquise-Kanal aufbaust: von der Profil-Optimierung mit eigener Domain über Starter Packs als Netzwerk-Beschleuniger bis hin zu einer Konversationsstrategie, die aus Replies qualifizierte Erstgespräche macht. Du bekommst ein System, das nicht auf viralen Zufall setzt, sondern auf die strukturellen Vorteile einer dezentralen Plattform im Wachstum. Das steckt drin: Das AT-Protocol als Business-Vorteil: eigene Domain als Vertrauenssignal einsetzen Custom Feeds strategisch platzieren, um von der Zielgruppe gefunden zu werden Starter Packs als Netzwerk- und Sichtbarkeits-Beschleuniger erstellen Konversationsstrategie: aus Replies planbar qualifizierte Anfragen machen Den Funnel auf Bluesky aufbauen: vom ersten Kontakt zur Conversion Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

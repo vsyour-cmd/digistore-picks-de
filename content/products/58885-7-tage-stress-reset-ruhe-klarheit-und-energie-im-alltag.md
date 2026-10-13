@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb einen kompakten deutschsprachigen Videokurs für Menschen, die im anspruchsvollen Alltag mehr Ruhe, Klarheit und Energie suchen.</p>
-<p>Das Angebot:<br />• 7 Tage mit kurzen Wissensimpulsen, geführter Praxis und Reflexion<br />• ca. 10 Minuten pro Tag, ohne App und ohne Leistungsdruck<br />• Vollzugang zum Bundle (Module 4–7) inklusive PDFs und Zukunftsanker-Bonus<br />• Verkaufsseite mit kostenlosem Starter-Paket als niedrigschwelliger Einstieg</p>
-<p>Deine Vorteile:<br />• 50 % Affiliate-Provision<br />• Automatische Partnerschaftsfreigabe<br />• Die Einzelmodule 4 und 5 werden ebenfalls zum Bewerben freigeschaltet<br />• Werbetexte, Produktbild und klare Vermarktungsleitlinien auf der Affiliate-Support-Seite</p>
-<p>Zielgruppe: deutschsprachige Erwachsene mit wenig Zeit und viel Verantwortung. Bitte transparent als Werbung kennzeichnen und keine Heil-, Diagnose- oder Therapieversprechen verwenden.</p>
+**Vendor's marketplace description:** Bewirb einen kompakten deutschsprachigen Videokurs für Menschen, die im anspruchsvollen Alltag mehr Ruhe, Klarheit und Energie suchen. Das Angebot: • 7 Tage mit kurzen Wissensimpulsen, geführter Praxis und Reflexion • ca. 10 Minuten pro Tag, ohne App und ohne Leistungsdruck • Vollzugang zum Bundle (Module 4–7) inklusive PDFs und Zukunftsanker-Bonus • Verkaufsseite mit kostenlosem Starter-Paket als niedrigschwelliger Einstieg Deine Vorteile: • 50 % Affiliate-Provision • Automatische Partnerschaftsfreigabe • Die Einzelmodule 4 und 5 werden ebenfalls zum Bewerben freigeschaltet • Werbetexte, Produktbild und klare Vermarktungsleitlinien auf der Affiliate-Support-Seite Zielgruppe: deutschsprachige Erwachsene mit wenig Zeit und viel Verantwortung. Bitte transparent als Werbung kennzeichnen und keine Heil-, Diagnose- oder Therapieversprechen verwenden.
 
 ## 2. Links
 

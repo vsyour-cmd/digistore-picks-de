@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Poledance ist anspruchsvoll und aufregend.</p>
-<p>Beim Trainig mit der Pole verbindest Du intensive Kraftübungen mit schönen tänzerischen Elementen. Deine Muskulatur wird gestärkt gedehnt.  </p>
-<p>In Schritt für Schritt Anleitungen bringen wir Dir alle Übungen an der Pole bei. Jeder Bereich (Static, Spinning, Exotic, Floorwork) und jedes Level wird abgedeckt. Einzelne Tricks bis hin zu ganzen Choreos.</p>
-<p>Werde fit und gesund mit Deinem eigenen Körpergewicht.</p>
-<p>Im Paket enthalten sind zusätzlich:Warm Up, Work Out und Stretching.</p>
-<p>Falls Du keine Pole zur Verfügung hast, empfehlen wir das "Fitness für Zuhause" Paket, welches zusätzlich Pilates Übungen für Dich bereit hält.</p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Poledance ist anspruchsvoll und aufregend. Beim Trainig mit der Pole verbindest Du intensive Kraftübungen mit schönen tänzerischen Elementen. Deine Muskulatur wird gestärkt gedehnt. In Schritt für Schritt Anleitungen bringen wir Dir alle Übungen an der Pole bei. Jeder Bereich (Static, Spinning, Exotic, Floorwork) und jedes Level wird abgedeckt. Einzelne Tricks bis hin zu ganzen Choreos. Werde fit und gesund mit Deinem eigenen Körpergewicht. Im Paket enthalten sind zusätzlich:Warm Up, Work Out und Stretching. Falls Du keine Pole zur Verfügung hast, empfehlen wir das "Fitness für Zuhause" Paket, welches zusätzlich Pilates Übungen für Dich bereit hält.
 
 ## 2. Links
 

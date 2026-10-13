@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Feng Shui Online-Kurs</p>
-<p><strong>Entspannt wohnen – entspannt sein  </strong></p>
-<p>Feng Shui, das Jahrtausende erprobte Wissen kann – richtig angewendet – vielleicht auch Deine Lebensqualität enorm steigern! Denn alles um Dich herum prägt Dich und kann unterstützend wirken. Feng Shui vertraut auf die Kraft des äußeren Raumes zur innerlichen Neuausrichtung, um dadurch mehr Entspannung, Energie und Erfolg zu generieren. </p>
-<p>Freue Dich auf viele Tipps, die einfach und sofort anwendbar sind! Viele unserer Teilnehmer wurden bereits von den Wirkungen, die Feng Shui auf ihr Leben hatte, überrascht.</p>
+**Vendor's marketplace description:** Feng Shui Online-Kurs Entspannt wohnen – entspannt sein Feng Shui, das Jahrtausende erprobte Wissen kann – richtig angewendet – vielleicht auch Deine Lebensqualität enorm steigern! Denn alles um Dich herum prägt Dich und kann unterstützend wirken. Feng Shui vertraut auf die Kraft des äußeren Raumes zur innerlichen Neuausrichtung, um dadurch mehr Entspannung, Energie und Erfolg zu generieren. Freue Dich auf viele Tipps, die einfach und sofort anwendbar sind! Viele unserer Teilnehmer wurden bereits von den Wirkungen, die Feng Shui auf ihr Leben hatte, überrascht.
 
 ## 2. Links
 

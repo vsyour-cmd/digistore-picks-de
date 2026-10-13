@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb „New York Loft-Stil“ und inspiriere deine Zielgruppe zu einem urbanen Zuhause mit echtem Großstadtflair! Das digitale Produkt zeigt, wie sich markante Materialien, dunkle Farben, offene Raumkonzepte und stilvolle Industrial-Elemente harmonisch kombinieren lassen. Ideal für alle, die den charakteristischen New Yorker Loft-Look Schritt für Schritt in den eigenen vier Wänden umsetzen möchten.</p>
+**Vendor's marketplace description:** Bewirb „New York Loft-Stil“ und inspiriere deine Zielgruppe zu einem urbanen Zuhause mit echtem Großstadtflair! Das digitale Produkt zeigt, wie sich markante Materialien, dunkle Farben, offene Raumkonzepte und stilvolle Industrial-Elemente harmonisch kombinieren lassen. Ideal für alle, die den charakteristischen New Yorker Loft-Look Schritt für Schritt in den eigenen vier Wänden umsetzen möchten.
 
 ## 2. Links
 

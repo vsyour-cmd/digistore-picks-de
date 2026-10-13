@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das perfekte Produkt für Marketing-, Agentur- und Design-Affiliates mit Performance-Fokus</strong></p>
-<p>Du bewirbst ein strategisches PDF mit echtem Tiefgang – kein oberflächlicher Marketing-„Guide“, sondern ein fundiertes System aus über 8 Jahren Agenturerfahrung.<br />Thema: Psychologische Aufmerksamkeit im Online-Marketing – <strong>ein Muss für alle, die Werbung schalten oder Creatives gestalten.</strong></p>
-<p> </p>
-<h4><span style="color:#ff0000;">Bonus:</span> 100% Steuerlich absetzbar für Unternehmen</h4>
-<p> </p>
-<p><strong>Warum Affiliates damit gern verkaufen:</strong></p>
-<ul>
-<li>
-<p><strong>Hohe Provision:</strong> 40 % vom VK – das sind 6<strong>0 € pro Verkauf</strong></p>
-</li>
-<li>
-<p><strong>Premium-Produkt:</strong> 149,99 € VK – professionell gestaltet, starke Positionierung</p>
-</li>
-<li>
-<p><strong>Klar definierte Zielgruppe:</strong> Werbetreibende, Agenturen, Selbstständige, Coaches, Creator, Gründer, Mitarbeiter, Marketing-Teams</p>
-</li>
-<li>
-<p><strong>Einfache Buyer Journey:</strong> Saubere Verkaufsseite, klarer Call-to-Action, fertig für Ads</p>
-</li>
-<li>
-<p><strong>Erweiterbar durch Bundle &amp; Upsells</strong> – langfristiges Potenzial</p>
-</li>
-</ul>
-<p> </p>
-<p><strong>Wer es verkauft, verdient mit echtem Mehrwert</strong><br />Diese PDF ist Teil einer exklusiven Serie mit insgesamt <strong>10 Modulen</strong> – jedes einzeln verkaufbar, aber viele Käufer entscheiden sich für das komplette Bundle. Das steigert <strong>Warenkorbwert, Wiederkäufe und Upsells</strong> spürbar.</p>
-<p><strong>Affilate Provison: über 500€</strong></p>
+**Vendor's marketplace description:** Das perfekte Produkt für Marketing-, Agentur- und Design-Affiliates mit Performance-Fokus Du bewirbst ein strategisches PDF mit echtem Tiefgang – kein oberflächlicher Marketing-„Guide“, sondern ein fundiertes System aus über 8 Jahren Agenturerfahrung. Thema: Psychologische Aufmerksamkeit im Online-Marketing – ein Muss für alle, die Werbung schalten oder Creatives gestalten. Bonus: 100% Steuerlich absetzbar für Unternehmen Warum Affiliates damit gern verkaufen: Hohe Provision: 40 % vom VK – das sind 6 0 € pro Verkauf Premium-Produkt: 149,99 € VK – professionell gestaltet, starke Positionierung Klar definierte Zielgruppe: Werbetreibende, Agenturen, Selbstständige, Coaches, Creator, Gründer, Mitarbeiter, Marketing-Teams Einfache Buyer Journey: Saubere Verkaufsseite, klarer Call-to-Action, fertig für Ads Erweiterbar durch Bundle & Upsells – langfristiges Potenzial Wer es verkauft, verdient mit echtem Mehrwert Diese PDF ist Teil einer exklusiven Serie mit insgesamt 10 Modulen – jedes einzeln verkaufbar, aber viele Käufer entscheiden sich für das komplette Bundle. Das steigert Warenkorbwert, Wiederkäufe und Upsells spürbar. Affilate Provison: über 500€
 
 ## 2. Links
 

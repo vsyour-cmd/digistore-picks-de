@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h2>Barakah durch Harakah x Invisible Income Academy</h2>
-</div>
-<div>
-<div>
-<p><strong>Barakah durch Harakah</strong> ist die erste und No. 1 halal Digital Marketing Academy für Frauen, die dir zeigt, wie du deine Bestimmung in ein halal Business verwandelst – faceless, ethisch, nachhaltig &amp; im Einklang mit deinen Werten.</p>
-<p><strong>Was du bekommst:</strong></p>
-<p>Launch-Preis – nur für kurze Zeit </p>
-<p>Alle zukünftigen Inhalte &amp; Updates inklusive* </p>
-<p>Workbooks, Templates &amp; Checklisten </p>
-<p>Live Q&amp;A &amp; Muslim Money Mindset Calls </p>
-<p>Exklusiver Safe Space für Frauen</p>
-<p>Möglichkeit BDH Partner zu werden<br /><br /><strong>Für wen ist BDH gemacht?  </strong>Für Frauen, die bereit sind, in ihre Entwicklung zu investieren. Für Frauen, die Verantwortung übernehmen &amp; ernsthaft etwas verändern wollen.</p>
-<p>Egal ob du von Null startest oder schon Coach, Beraterin, Expertin oder im Network Marketing bist – hier lernst du, wie du dein Wissen in ein starkes Business wandelst, Vertrauen aufbaust und mit dem, was du liebst, Geld verdienst. </p>
-<p><strong> Wenn du nicht bereit bist, all in zu gehen – ist BDH nicht für dich.</strong></p>
-<p><strong>Hinweise:</strong> </p>
-<p>* Der Zugang ist langfristig angelegt und bleibt dir für einen ausgedehnten Zeitraum erhalten. Eine lebenslange Verfügbarkeit kann aus rechtlichen und technischen Gründen nicht garantiert werden.</p>
-<p>** Du erhältst aktuell 90 % Provision pro Verkauf (nur als aktive Kundin). Die Provisionshöhe und Teilnahmebedingungen können zukünftig geändert oder beendet werden. Änderungen gelten nur für zukünftige Verkäufe. Die Berechnung erfolgt auf Basis des Netto-Zahlungseingangs nach Abzug aller Gebühren und Umrechnungen. </p>
-<p><strong>Hinweis:</strong> Die Affiliate-Provision wurde auf Wunsch der Community eingeführt. Sie ist <strong>optional</strong> und dient als Möglichkeit für motivierte Frauen, bereits beim Start Einnahmen zu erzielen. Die Erstellerin betont den Fokus darauf zu legen so schnell es geht ein eigenes profitables Angebot zu entwickeln. </p>
-<p> Jetzt Ticket sichern &amp; Teil der ersten und No.1  halal digital Marketing Plattform im DACH Raum für Frauen werden. </p>
-<p> <strong>Barakah durch Harakah</strong> – deine Academy für halal Sichtbarkeit, digitales Einkommen &amp; faceless Erfolg.</p>
-</div>
-</div>
+**Vendor's marketplace description:** Barakah durch Harakah x Invisible Income Academy Barakah durch Harakah ist die erste und No. 1 halal Digital Marketing Academy für Frauen, die dir zeigt, wie du deine Bestimmung in ein halal Business verwandelst – faceless, ethisch, nachhaltig & im Einklang mit deinen Werten. Was du bekommst: Launch-Preis – nur für kurze Zeit Alle zukünftigen Inhalte & Updates inklusive* Workbooks, Templates & Checklisten Live Q&A & Muslim Money Mindset Calls Exklusiver Safe Space für Frauen Möglichkeit BDH Partner zu werden Für wen ist BDH gemacht? Für Frauen, die bereit sind, in ihre Entwicklung zu investieren. Für Frauen, die Verantwortung übernehmen & ernsthaft etwas verändern wollen. Egal ob du von Null startest oder schon Coach, Beraterin, Expertin oder im Network Marketing bist – hier lernst du, wie du dein Wissen in ein starkes Business wandelst, Vertrauen aufbaust und mit dem, was du liebst, Geld verdienst. Wenn du nicht bereit bist, all in zu gehen – ist BDH nicht für dich. Hinweise: * Der Zugang ist langfristig angelegt und bleibt dir für einen ausgedehnten Zeitraum erhalten. Eine lebenslange Verfügbarkeit kann aus rechtlichen und technischen Gründen nicht garantiert werden. ** Du erhältst aktuell 90 % Provision pro Verkauf (nur als aktive Kundin). Die Provisionshöhe und Teilnahmebedingungen können zukünftig geändert oder beendet werden. Änderungen gelten nur für zukünftige Verkäufe. Die Berechnung erfolgt auf Basis des Netto-Zahlungseingangs nach Abzug aller Gebühren und Umrechnungen. Hinweis: Die Affiliate-Provision wurde auf Wunsch der Community eingeführt. Sie ist optional und dient als Möglichkeit für motivierte Frauen, bereits beim Start Einnahmen zu erzielen. Die Erstellerin betont den Fokus darauf zu legen so schnell es geht ein eigenes profitables Angebot zu entwickeln. Jetzt Ticket sichern & Teil der ersten und No.1 halal digital Marketing Plattform im DACH Raum für Frauen werden. Barakah durch Harakah – deine Academy für halal Sichtbarkeit, digitales Einkommen & faceless Erfolg.
 
 ## 2. Links
 

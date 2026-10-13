@@ -41,44 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h2>ONLINE: Dein Tier geht auf seine letzte Reise. <br />Sterbebegleitung bei deinem Tier</h2>
-</div>
-<div>
-<p> </p>
-<p><strong>Was ist jetzt für den Menschen aber vor allem auch für das Tier wichtig!</strong></p>
-<p>Der Onlinekurs ist für alle Menschen geeignet, die Tiere auf Ihrem letzten Gang würdevoll  begleiten wollen.</p>
-</div>
-<div>
-<p>Du solltest dich auf diesen schwierigen Tag vorbereiten.</p>
-<p><strong>Kurs-Thema:</strong> Sterbebegleitung für dein Tier.  Was du für dich und dein Tier tun kannst, um diesen Prozess zu erleichtern.</p>
-<p><strong>Titel:</strong> Tieren den Sterbeprozess erleichtern</p>
-<p> </p>
-<p><em><strong>Mein Kurs hilft dir, dein Tier beim Sterbeprozess würdevoll zu begleiten und ihm diesen zu erleichtern.</strong></em></p>
-</div>
-<p> </p>
-<div>
-<p><strong>Folgende Inhalte erwarten dich:</strong></p>
-<p>- Welche Todesarten gibt es</p>
-<p>- Die einzelnen Sterbephasen</p>
-<p>- Welche möglichen Wegbegleitungen haben wir in den</p>
-<p>  einzelnen Sterbephasen</p>
-<p>- Unterstützende und begleitende Rituale</p>
-<p>- Gebet für überfahrene Tiere</p>
-<p>- Die einzelnen Trauerphasen</p>
-<p>- Welche möglichen Wegbegleitungen haben wir in den</p>
-<p>  einzelnen Trauerphasen</p>
-<p>- Soforthilfe für die Seele</p>
-<p>- Einfache und natürliche Hilfsmittel, die dich und dein </p>
-<p>  Tier unterstützen können</p>
-<p> </p>
-<p>Selbstlernkurs</p>
-<p>Keine aktive Begleitung</p>
-<p>Auf Wunsch gerne persönliche Betreuung und Begleitung buchbar.</p>
-<p>Inhalt: 2 PDF-Skript - 1 Video</p>
-<p> </p>
-<p>Das Online-Seminar ersetzt in <strong>KEINEM</strong> Fall den Besuch bei einem Tierarzt!!! Es findet außerhalb der Heilkunde statt. Es besteht kein Rechtsanspruch!</p>
-</div>
+**Vendor's marketplace description:** ONLINE: Dein Tier geht auf seine letzte Reise. Sterbebegleitung bei deinem Tier Was ist jetzt für den Menschen aber vor allem auch für das Tier wichtig! Der Onlinekurs ist für alle Menschen geeignet, die Tiere auf Ihrem letzten Gang würdevoll begleiten wollen. Du solltest dich auf diesen schwierigen Tag vorbereiten. Kurs-Thema: Sterbebegleitung für dein Tier. Was du für dich und dein Tier tun kannst, um diesen Prozess zu erleichtern. Titel: Tieren den Sterbeprozess erleichtern Mein Kurs hilft dir, dein Tier beim Sterbeprozess würdevoll zu begleiten und ihm diesen zu erleichtern. Folgende Inhalte erwarten dich: - Welche Todesarten gibt es - Die einzelnen Sterbephasen - Welche möglichen Wegbegleitungen haben wir in den einzelnen Sterbephasen - Unterstützende und begleitende Rituale - Gebet für überfahrene Tiere - Die einzelnen Trauerphasen - Welche möglichen Wegbegleitungen haben wir in den einzelnen Trauerphasen - Soforthilfe für die Seele - Einfache und natürliche Hilfsmittel, die dich und dein Tier unterstützen können Selbstlernkurs Keine aktive Begleitung Auf Wunsch gerne persönliche Betreuung und Begleitung buchbar. Inhalt: 2 PDF-Skript - 1 Video Das Online-Seminar ersetzt in KEINEM Fall den Besuch bei einem Tierarzt!!! Es findet außerhalb der Heilkunde statt. Es besteht kein Rechtsanspruch!
 
 ## 2. Links
 

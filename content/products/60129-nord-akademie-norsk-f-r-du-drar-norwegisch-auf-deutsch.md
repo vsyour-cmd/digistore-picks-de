@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>NORD AKADEMIE – Norsk før du drar</strong></p>
-<p>Deutschsprachiger digitaler Norwegischkurs für Menschen, die sich auf Reise, Alltag oder den Start in Norwegen vorbereiten möchten.</p>
-<p><strong>Für Affiliates:</strong><br />
-• 20 % Affiliate-Provision pro Verkauf<br />
-• klar definierte deutschsprachige Norwegen-Zielgruppe<br />
-• digitales Produkt ohne Versand<br />
-• professionelle Verkaufsseite<br />
-• Affiliate-Support-Seite mit Webinar, Promolink-Hilfe und Werbeinformationen</p>
-<p>Geeignet für Blogs, Social Media, Communities und Inhalte rund um Norwegen, Auswandern, Reisen und Sprachenlernen.</p>
+**Vendor's marketplace description:** NORD AKADEMIE – Norsk før du drar Deutschsprachiger digitaler Norwegischkurs für Menschen, die sich auf Reise, Alltag oder den Start in Norwegen vorbereiten möchten. Für Affiliates: • 20 % Affiliate-Provision pro Verkauf • klar definierte deutschsprachige Norwegen-Zielgruppe • digitales Produkt ohne Versand • professionelle Verkaufsseite • Affiliate-Support-Seite mit Webinar, Promolink-Hilfe und Werbeinformationen Geeignet für Blogs, Social Media, Communities und Inhalte rund um Norwegen, Auswandern, Reisen und Sprachenlernen.
 
 ## 2. Links
 

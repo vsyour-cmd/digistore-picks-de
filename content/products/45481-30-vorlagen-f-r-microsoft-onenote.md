@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Mehr als 30 Vorlagen</strong> für verschiedene Zwecke enthält dieses Download-Paket. Du kannst das Notizbuch in <em>OneNote</em> für <em>Windows</em> öffnen und dann dank Synchronisierung auf allen Geräten nutzen könnt.</p>
-<p>Meine Sammlung enthält einfache Vorlagen für Besprechungen, To-Do-Listen, Kalenderseiten, Ernährung, Fitness, Reisen und vieles mehr. Alle Seitenvorlagen lassen sich <strong>beliebig ändern</strong> und an Deine persönlichen Bedürfnisse anpassen.</p>
-<p><strong>Nach dem Download kannst Du die Notizbuchdatei sofort in <em>OneNote</em> für <em>Windows</em> importieren, mit Deinem Benutzerkonto synchronisieren und dann auf allen Geräten nutzen!</strong></p>
+**Vendor's marketplace description:** Mehr als 30 Vorlagen für verschiedene Zwecke enthält dieses Download-Paket. Du kannst das Notizbuch in OneNote für Windows öffnen und dann dank Synchronisierung auf allen Geräten nutzen könnt. Meine Sammlung enthält einfache Vorlagen für Besprechungen, To-Do-Listen, Kalenderseiten, Ernährung, Fitness, Reisen und vieles mehr. Alle Seitenvorlagen lassen sich beliebig ändern und an Deine persönlichen Bedürfnisse anpassen. Nach dem Download kannst Du die Notizbuchdatei sofort in OneNote für Windows importieren, mit Deinem Benutzerkonto synchronisieren und dann auf allen Geräten nutzen!
 
 ## 2. Links
 

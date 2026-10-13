@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>DER EINZIGE KURS ZU DIESEM THEMA</strong></p>
-<p>Der ultimative Videokurs, wie Fotografen ohne großes »Drumherum« auf den Punkt genau erfahren, wie sie Bilder erzeugen, bei denen sich alle fragen, ob es ein Foto oder Gemälde ist.</p>
-<p><strong>√ Alles über Lichtsetzung</strong><br /><strong>√ Profi-Tipps für das Shooting</strong><br /><strong>√ kompletter Workflow in Photoshop</strong><br /><strong>√ .psd Datei inkl. aller Ebenen</strong><br /><strong>√ 3D Setplan zum Download</strong></p>
-<p><strong>Dieses Seminar vermittelt das komplette Wissen</strong></p>
-<p>In diesem Videoseminar (Dauer 80 Minuten) erhalten Hobby- und Profifotografen das komplette Profi-Wissen, wie Sie Bilder erstellen, die auf viele Menschen eine absolut große Faszination ausüben. Corwin von Kuhwede gibt in diesem Videokurs das komplette Wissen von der Idee, über das Fotografieren bis hin zur Bildbearbeitung weiter.</p>
-<p><strong><br />KPI's:</strong></p>
-<ul>
-<li>Cart Conversion: 35 - 45 %</li>
-<li>Stornoquote: 0,3 %</li>
-</ul>
+**Vendor's marketplace description:** DER EINZIGE KURS ZU DIESEM THEMA Der ultimative Videokurs, wie Fotografen ohne großes »Drumherum« auf den Punkt genau erfahren, wie sie Bilder erzeugen, bei denen sich alle fragen, ob es ein Foto oder Gemälde ist. √ Alles über Lichtsetzung √ Profi-Tipps für das Shooting √ kompletter Workflow in Photoshop √ .psd Datei inkl. aller Ebenen √ 3D Setplan zum Download Dieses Seminar vermittelt das komplette Wissen In diesem Videoseminar (Dauer 80 Minuten) erhalten Hobby- und Profifotografen das komplette Profi-Wissen, wie Sie Bilder erstellen, die auf viele Menschen eine absolut große Faszination ausüben. Corwin von Kuhwede gibt in diesem Videokurs das komplette Wissen von der Idee, über das Fotografieren bis hin zur Bildbearbeitung weiter. KPI's: Cart Conversion: 35 - 45 % Stornoquote: 0,3 %
 
 ## 2. Links
 

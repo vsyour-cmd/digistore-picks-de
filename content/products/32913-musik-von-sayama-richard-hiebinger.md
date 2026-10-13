@@ -41,35 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Empfehle die einzigartige Musik von Sayama:<br /></strong><a href="https://www.sayama-music.de/affiliate/" target="_blank" rel="noreferrer noopener">https://www.sayama-music.de/affiliate/</a><br /><br /><strong>HOHE PROVISION</strong> von <strong>33,3%</strong></p>
-<p><strong><br />Alben Übersicht:</strong></p>
-<ul>
-<li>Jetzt Erwachen</li>
-<li>Ayurveda</li>
-<li>Ayurveda Herz Meditation</li>
-<li>Herzschwingungen: Venus</li>
-<li>Herzschwingungen: OM</li>
-<li>Herzschwingungen: Erd Herz</li>
-<li>Herzschwingungen: Trilogie</li>
-<li>Im Herzen von Shambhala</li>
-<li>Qi Gong ~ Tai Chi</li>
-<li>Heilsame Licht~Klänge</li>
-<li>Klangschalen Chakra Meditation</li>
-<li>Quelle der Entspannung und Lebenskraft</li>
-<li>Earth Sound Blessing #1</li>
-<li>Earth Sound Blessing #2</li>
-</ul>
-<p> </p>
-<p>Download in CD+MP3 Qualität:</p>
-<ul>
-<li>Hochwertige CD Qualität in 16bit/44.1kHz und 32bit/96kHz Mastering - obertonreich, transparent, räumlich</li>
-<li>MP3 Qualität in 320 kbit/s </li>
-<li>Artwork komplett mit Cover,  Booklet, Inlaycard, CD Label und allen Infos.</li>
-<li>Die Musik ist GEMA frei</li>
-<li>Inklusive Nutzungslizenz für Massagen, Yogastunden und Seminare etc.</li>
-<li><strong>CD+MP3 Qualität VK: 18,90€</strong></li>
-</ul>
-<p><br />Besuche unsere Affiliate Informationsseite - dort findest Du den Einladungslink für alle Alben und weitere Informationen:<br /><strong><a href="https://www.sayama-music.de/affiliate/" target="_blank" rel="noreferrer noopener">https://www.sayama-music.de/affiliate/</a></strong></p>
+**Vendor's marketplace description:** Empfehle die einzigartige Musik von Sayama: https://www.sayama-music.de/affiliate/ HOHE PROVISION von 33,3% Alben Übersicht: Jetzt Erwachen Ayurveda Ayurveda Herz Meditation Herzschwingungen: Venus Herzschwingungen: OM Herzschwingungen: Erd Herz Herzschwingungen: Trilogie Im Herzen von Shambhala Qi Gong ~ Tai Chi Heilsame Licht~Klänge Klangschalen Chakra Meditation Quelle der Entspannung und Lebenskraft Earth Sound Blessing #1 Earth Sound Blessing #2 Download in CD+MP3 Qualität: Hochwertige CD Qualität in 16bit/44.1kHz und 32bit/96kHz Mastering - obertonreich, transparent, räumlich MP3 Qualität in 320 kbit/s Artwork komplett mit Cover, Booklet, Inlaycard, CD Label und allen Infos. Die Musik ist GEMA frei Inklusive Nutzungslizenz für Massagen, Yogastunden und Seminare etc. CD+MP3 Qualität VK: 18,90€ Besuche unsere Affiliate Informationsseite - dort findest Du den Einladungslink für alle Alben und weitere Informationen: https://www.sayama-music.de/affiliate/
 
 ## 2. Links
 

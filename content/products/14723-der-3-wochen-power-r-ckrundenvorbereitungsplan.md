@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der 3 Wochen Power Rückrundenvorbereitungsplan ist ein kompletter 3 Wochen Fußball Rückrundenvorbereitungsplan für Fußballtrainer worauf man im internen Mitgliederbereich lebenslang zugreifen kann.</p>
-<p>Für jeden einzelnen Tag wurden komplette Trainingseinheiten erstellt, die aufbauend immer für ein klares Trainingsziel ausgerichtet wurden, so dass am Ende der Vorbereitung dein Team komplett fit und taktisch bestens vorbereitet ist, um das Saisonziel zu erreichen.</p>
-<p> </p>
-<p><strong>Affiliate Provision:</strong></p>
-<p><strong>50% auf den 3 Wochen Power-Rückrundenvorbereitungsplan und auf alle hochwertigen Upsell-Produkte.</strong></p>
-<p><strong>Auf die Produkte im Verkaufsfunnel erhältst du ebenfalls 50% Provision.</strong></p>
-<p><strong>Gesamter Warenwert des Funels: 443,95 Euro.</strong></p>
-<p> </p>
-<p>Wir haben momentan eine sehr hohe Verkaufsrate und eine sehr geringe Stornoquote, was für die Qualität des Produkts spricht.</p>
-<p> </p>
+**Vendor's marketplace description:** Der 3 Wochen Power Rückrundenvorbereitungsplan ist ein kompletter 3 Wochen Fußball Rückrundenvorbereitungsplan für Fußballtrainer worauf man im internen Mitgliederbereich lebenslang zugreifen kann. Für jeden einzelnen Tag wurden komplette Trainingseinheiten erstellt, die aufbauend immer für ein klares Trainingsziel ausgerichtet wurden, so dass am Ende der Vorbereitung dein Team komplett fit und taktisch bestens vorbereitet ist, um das Saisonziel zu erreichen. Affiliate Provision: 50% auf den 3 Wochen Power-Rückrundenvorbereitungsplan und auf alle hochwertigen Upsell-Produkte. Auf die Produkte im Verkaufsfunnel erhältst du ebenfalls 50% Provision. Gesamter Warenwert des Funels: 443,95 Euro. Wir haben momentan eine sehr hohe Verkaufsrate und eine sehr geringe Stornoquote, was für die Qualität des Produkts spricht.
 
 ## 2. Links
 

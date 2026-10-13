@@ -41,39 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<h3> </h3>
-<div>
-<p>Ich persönlich arbeite ausschließlich mit Lightroom.  Mit diesem Programm habe ich als Naturfotograf nur eine Software für alle meine Bedürfnisse. Im Vergleich zu anderen Programmen ist es dazu noch relativ einfach und schnell zu erlernen.<br />Ich kann mit Lightroom:<br />-Ordnung in meine gesamten Fotos bringen.<br />-Gesuchte Bilder schnell wieder finden.<br />-RAW-Dateien perfekt bearbeiten.<br />-Panormamaaufnahemn sowie HDR-Fotos einfach erstellen.<br />-Meine Bilder für Druck, Internet etc. perfektionieren<br />und noch so einiges mehr….<br /><br /><strong>7 Stunden Videokurs</strong><br />Mit diesen Videokurs kannst du Lightroom schnell und einfach von Anfang an erlernen. Wir beginnen bei den Grundlagen und blicken immer tiefer in die Möglichkeiten dieses Programms. Weiter gebe ich dir noch Tips zur richtigen Ordnerstruktur und Sicherungen deiner Dateien. Am Ende hast du alles Nötige und sogar mehr rund um Lightroom gelernt!</p>
-</div>
-</div>
-<div>
-<div>
-<p><strong>Vorteile</strong><br />Der LR-Kurs ist top aktuell und beinhaltet die neueste Version von LR-Classic (März 2021). Bis auf sehr wenige Ausnahmen ist er dennoch auch für ältere Versionen geeignet wie z.B Lightroom 6. Du bekommst du den Kurs als Datei. Somit kannst du ihn jederzeit am Computer ansehen auch ohne Internet.</p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<p><strong>Mein Workflow</strong><br />Neben vielen Möglichkeiten die LR bietet lernst du auch meinen persönlichen Workflow kennen. Dieser beginnt bereits bei der Aufnahme. Danach folgt meine Arbeitsweise vom Sortieren bis hin zur Bearbeitung der Fotos. Anhand von einigen Beispielbildern erfährst du Schritt für Schritt wie ich meine RAW-Dateien schnell und natürlich aber trotzdem effektiv entwickle.</p>
-</div>
-</div>
-<div>
-<div>
-<p><strong>Infos zum Videokurs<br />Typ: </strong>Download mp4-Videodatei<strong><br />Dauer:</strong> ca. 7 Stunden<br /><strong>Dateigröße:</strong> ca. 8GB<br /><br /></p>
-<p><strong>Was erwartet dich?</strong></p>
-<div>
-<div>
-<div>
-<p>1. INTRO<br />2. RAW oder JPG<br />3. Sinnvolle Ordnerstruktur am Computer<br />4. Lightroom Versionen im Überblick<br />5. Der Katalog und Grundverständnis<br />6. Einmalige Einstellungen und Übersicht<br />7. Das Wasserzeichen<br />8. BIBLIOTHEK<br />9. Importieren von Bildern<br />10. Vorschau und Optionen beim Import<br />11. Stichwörter ja/nein<br />12. Bildauswahl – Sternchen/Farben<br />13. Bibliotheksfilter<br />14. Sammlungen<br />15. Verschieben von Bildern und Ordner<br />16. ENTWICKELN<br />17. Histogramm<br />18. Meine Arbeitsschritte<br />19. Objektivkorrektur und Chromatische Aberration<br />20. Tranformieren &amp; Freistellungswerkzeug<br />21. Weißabgleich (Grundeinstellungen)<br />22. Tonwert (Grundeinstellungen)<br />23. Präsenz (Grundeinstellungen)<br />24. Gradationskurve<br />25. HSL / Farbe<br />26. Color-Grading<br />27. Details / Schärfen und Entrauschen<br />28. Effekte / Vignettierung und Körnung<br />29. Kalibrierung<br />30. Virtuelle Kopie<br />31. Beispielbild<br />32. Beispielbild 2<br />33. Bereichsreperaturpinsel + Rote Augen<br />34. Verlaufsfilter<br />35. Radialfilter<br />36. Pinsel<br />37. Beispielbild 3<br />38. Vorgaben / Presets<br />39. Eigene Presets erstellen<br />40. Panorama<br />41. HDR<br />42. Stapelverarbeitung<br />43. Protokoll und Schappschüsse<br />44. Export<br />45. Export für Druck<br />46. XMP und DNG<br />47. Datentransfer zwischen Computern<br />48. Karte<br />49. Diashow<br />50. Buch<br />51. Drucken<br />52. Web<br />53. Datensicherung am Computer<br />54. OUTRO</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Ich persönlich arbeite ausschließlich mit Lightroom. Mit diesem Programm habe ich als Naturfotograf nur eine Software für alle meine Bedürfnisse. Im Vergleich zu anderen Programmen ist es dazu noch relativ einfach und schnell zu erlernen. Ich kann mit Lightroom: -Ordnung in meine gesamten Fotos bringen. -Gesuchte Bilder schnell wieder finden. -RAW-Dateien perfekt bearbeiten. -Panormamaaufnahemn sowie HDR-Fotos einfach erstellen. -Meine Bilder für Druck, Internet etc. perfektionieren und noch so einiges mehr…. 7 Stunden Videokurs Mit diesen Videokurs kannst du Lightroom schnell und einfach von Anfang an erlernen. Wir beginnen bei den Grundlagen und blicken immer tiefer in die Möglichkeiten dieses Programms. Weiter gebe ich dir noch Tips zur richtigen Ordnerstruktur und Sicherungen deiner Dateien. Am Ende hast du alles Nötige und sogar mehr rund um Lightroom gelernt! Vorteile Der LR-Kurs ist top aktuell und beinhaltet die neueste Version von LR-Classic (März 2021). Bis auf sehr wenige Ausnahmen ist er dennoch auch für ältere Versionen geeignet wie z.B Lightroom 6. Du bekommst du den Kurs als Datei. Somit kannst du ihn jederzeit am Computer ansehen auch ohne Internet. Mein Workflow Neben vielen Möglichkeiten die LR bietet lernst du auch meinen persönlichen Workflow kennen. Dieser beginnt bereits bei der Aufnahme. Danach folgt meine Arbeitsweise vom Sortieren bis hin zur Bearbeitung der Fotos. Anhand von einigen Beispielbildern erfährst du Schritt für Schritt wie ich meine RAW-Dateien schnell und natürlich aber trotzdem effektiv entwickle. Infos zum Videokurs Typ: Download mp4-Videodatei Dauer: ca. 7 Stunden Dateigröße: ca. 8GB Was erwartet dich? 1. INTRO 2. RAW oder JPG 3. Sinnvolle Ordnerstruktur am Computer 4. Lightroom Versionen im Überblick 5. Der Katalog und Grundverständnis 6. Einmalige Einstellungen und Übersicht 7. Das Wasserzeichen 8. BIBLIOTHEK 9. Importieren von Bildern 10. Vorschau und Optionen beim Import 11. Stichwörter ja/nein 12. Bildauswahl – Sternchen/Farben 13. Bibliotheksfilter 14. Sammlungen 15. Verschieben von Bildern und Ordner 16. ENTWICKELN 17. Histogramm 18. Meine Arbeitsschritte 19. Objektivkorrektur und Chromatische Aberration 20. Tranformieren & Freistellungswerkzeug 21. Weißabgleich (Grundeinstellungen) 22. Tonwert (Grundeinstellungen) 23. Präsenz (Grundeinstellungen) 24. Gradationskurve 25. HSL / Farbe 26. Color-Grading 27. Details / Schärfen und Entrauschen 28. Effekte / Vignettierung und Körnung 29. Kalibrierung 30. Virtuelle Kopie 31. Beispielbild 32. Beispielbild 2 33. Bereichsreperaturpinsel + Rote Augen 34. Verlaufsfilter 35. Radialfilter 36. Pinsel 37. Beispielbild 3 38. Vorgaben / Presets 39. Eigene Presets erstellen 40. Panorama 41. HDR 42. Stapelverarbeitung 43. Protokoll und Schappschüsse 44. Export 45. Export für Druck 46. XMP und DNG 47. Datentransfer zwischen Computern 48. Karte 49. Diashow 50. Buch 51. Drucken 52. Web 53. Datensicherung am Computer 54. OUTRO
 
 ## 2. Links
 

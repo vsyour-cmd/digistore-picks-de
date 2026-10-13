@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Richtig Bedienen | Sicher Arbeiten | Neues Erschaffen</strong></p>
-<h1><strong>Das E-Book zur Oberfräse </strong></h1>
-<p>Die Oberfräse wirkt auf dich wie ein wahnsinnig komplexes Werkzeug mit gefühlt hunderten Möglichkeiten?</p>
-<p>Kein Problem, denn:</p>
-<ul><li>Konstantin Winter erklärt dir alles von A bis Z über die Oberfräse</li>
-<li>Du lernst hochwertiges Arbeiten auf einem ganz neuen Niveau</li>
-<li>Du kannst ab jetzt alles bauen, was Du dir nur vorstellen kannst</li>
-<li>Wir zeigen dir, wie Du dir durch hochwertige Pflege den Preis dieses Buches doppelt sparen kannst</li>
-</ul><p> </p>
-<p>Wir können es kaum erwarten dir unser Wissen weiter zu geben! Aber bist Du auch bereit, frischen Wind in deine Werkstatt zu bringen? </p>
-<p><strong>Ja? Dann schlage jetzt zu!</strong></p>
+**Vendor's marketplace description:** Richtig Bedienen | Sicher Arbeiten | Neues Erschaffen Das E-Book zur Oberfräse Die Oberfräse wirkt auf dich wie ein wahnsinnig komplexes Werkzeug mit gefühlt hunderten Möglichkeiten? Kein Problem, denn: Konstantin Winter erklärt dir alles von A bis Z über die Oberfräse Du lernst hochwertiges Arbeiten auf einem ganz neuen Niveau Du kannst ab jetzt alles bauen, was Du dir nur vorstellen kannst Wir zeigen dir, wie Du dir durch hochwertige Pflege den Preis dieses Buches doppelt sparen kannst Wir können es kaum erwarten dir unser Wissen weiter zu geben! Aber bist Du auch bereit, frischen Wind in deine Werkstatt zu bringen? Ja? Dann schlage jetzt zu!
 
 ## 2. Links
 

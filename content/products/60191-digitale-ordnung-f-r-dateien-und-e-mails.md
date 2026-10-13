@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Digitale Ordnung – ein kompakter Selbstlernkurs für alle, die endlich Ordnung in ihre Dateien, Ordner, Downloads, E-Mails und Fotos bringen möchten.</strong></p>
-<p>Der Kurs richtet sich besonders an Einsteiger und Menschen, die sich eine einfache, verständliche Schritt-für-Schritt-Anleitung wünschen – ohne komplizierte Technik.</p>
-<p><strong>Das bietet der Kurs:</strong><br />• 8 übersichtliche Module<br />• ca. 48 Minuten Videomaterial<br />• 8 begleitende PDFs mit Übungen und Arbeitsblättern<br />• sofortiger digitaler Zugang über den Coachy-Mitgliederbereich<br />• einmaliger Preis von 29 € – kein Abo</p>
-<p><strong>Deine Affiliate-Provision: 5 € pro Verkauf.</strong></p>
-<p>Eine passende Verkaufsseite steht zur Verfügung. Der Kurs eignet sich besonders für Zielgruppen rund um digitale Ordnung, Büroorganisation, Alltag, Computer für Einsteiger und produktiveres Arbeiten.</p>
+**Vendor's marketplace description:** Digitale Ordnung – ein kompakter Selbstlernkurs für alle, die endlich Ordnung in ihre Dateien, Ordner, Downloads, E-Mails und Fotos bringen möchten. Der Kurs richtet sich besonders an Einsteiger und Menschen, die sich eine einfache, verständliche Schritt-für-Schritt-Anleitung wünschen – ohne komplizierte Technik. Das bietet der Kurs: • 8 übersichtliche Module • ca. 48 Minuten Videomaterial • 8 begleitende PDFs mit Übungen und Arbeitsblättern • sofortiger digitaler Zugang über den Coachy-Mitgliederbereich • einmaliger Preis von 29 € – kein Abo Deine Affiliate-Provision: 5 € pro Verkauf. Eine passende Verkaufsseite steht zur Verfügung. Der Kurs eignet sich besonders für Zielgruppen rund um digitale Ordnung, Büroorganisation, Alltag, Computer für Einsteiger und produktiveres Arbeiten.
 
 ## 2. Links
 

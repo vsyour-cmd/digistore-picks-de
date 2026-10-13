@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit diesen lustigen Zeichnen lernen Videos und einem eBook mit Übungsblättern wird dein Kind schnell und einfach zeichnen lernen.</p>
-<p>Mit lustigen Übungen, die von altersgerechten Videos begleitet werden, lernt dein Kind Farben, Formen und das Zeichnen an sich. </p>
-<p>Der Video-Kurs und das eBook beinhaltet Übungen, mit denen dein Kind lernt 30 unterschiedliche Motive zu zeichnen. Angefangen beim Ball bis hin zu einem Segelschiff ist alles dabei.</p>
+**Vendor's marketplace description:** Mit diesen lustigen Zeichnen lernen Videos und einem eBook mit Übungsblättern wird dein Kind schnell und einfach zeichnen lernen. Mit lustigen Übungen, die von altersgerechten Videos begleitet werden, lernt dein Kind Farben, Formen und das Zeichnen an sich. Der Video-Kurs und das eBook beinhaltet Übungen, mit denen dein Kind lernt 30 unterschiedliche Motive zu zeichnen. Angefangen beim Ball bis hin zu einem Segelschiff ist alles dabei.
 
 ## 2. Links
 

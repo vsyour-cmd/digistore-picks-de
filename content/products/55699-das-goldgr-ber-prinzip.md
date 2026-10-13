@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Lass andere deine Produkte für dich verkaufen und deine E-Mail-Liste aufbauen!</strong></h3>
-<p>Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt<strong> 50% Provision</strong> + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du <strong>auf ca. 500€ Provision im Funnel.</strong></p>
-<p>Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst!</p>
-<p>Das bekommt der Kunde in diesem wertvollen Online-Kurs:</p>
-<p>✅ <strong>Modul 1:</strong> Das Goldgräber-Prinzip, wie andere kostenlos für dich verkaufen (Wert: 149 €)<br />✅ <strong>Modul 2:</strong> Wie du die richtigen Goldgräber findest &amp; für dich gewinnst (Wert: 199 €)<br />✅ <strong>Modul 3:</strong> Wie du maximale Unterstützung bekommst &amp; dein Umsatz explodiert (Wert: 99 €)<br />✅ <strong>Modul 4:</strong> Bewährte Vorlagen, mit denen Goldgräber dich <em>anbetteln</em>, deine Produkte zu verkaufen (Wert: 299 €)</p>
-<p><strong>Exklusive Boni:</strong><br /><strong>Bonus 1:</strong> Der Goldgräber-Hack, wie du sehr viele Verkäufer auf einmal anziehst (Wert: 249 €)<br /><strong>Bonus 2:</strong> Wie du an verborgene Goldgräber herankommst, an die niemand denkt (Wert: 149 €)<br /><strong>Bonus 3:</strong> 72h-Schnellstart: Deine ersten Goldgräber in nur 3 Tagen (Wert: 199 €)</p>
-<p> </p>
+**Vendor's marketplace description:** Lass andere deine Produkte für dich verkaufen und deine E-Mail-Liste aufbauen! Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. 500€ Provision im Funnel. Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst! Das bekommt der Kunde in diesem wertvollen Online-Kurs: ✅ Modul 1: Das Goldgräber-Prinzip, wie andere kostenlos für dich verkaufen (Wert: 149 €) ✅ Modul 2: Wie du die richtigen Goldgräber findest & für dich gewinnst (Wert: 199 €) ✅ Modul 3: Wie du maximale Unterstützung bekommst & dein Umsatz explodiert (Wert: 99 €) ✅ Modul 4: Bewährte Vorlagen, mit denen Goldgräber dich anbetteln , deine Produkte zu verkaufen (Wert: 299 €) Exklusive Boni: Bonus 1: Der Goldgräber-Hack, wie du sehr viele Verkäufer auf einmal anziehst (Wert: 249 €) Bonus 2: Wie du an verborgene Goldgräber herankommst, an die niemand denkt (Wert: 149 €) Bonus 3: 72h-Schnellstart: Deine ersten Goldgräber in nur 3 Tagen (Wert: 199 €)
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Praxisnahes digitales Vorlagenpaket für Handwerker, Bauleiter, Monteure, kleine Bauunternehmen und Nachunternehmer.</p>
-<p>Das Produkt löst ein alltägliches Problem: verstreute Notizen, unklare Nachweise und fehlende Übersicht bei Baustellen, Zusatzleistungen und Abnahmen.</p>
-<p>Enthalten sind sofort nutzbare Excel- und PDF-Vorlagen für Bautagebuch, Mängel, Stunden, Material, Nachträge, Abnahmen, Fotodokumentation und Projektübersicht.</p>
-<p>Ihre Affiliate-Vorteile:<br />• 50 % Provision pro vermitteltem Verkauf<br />• Einmalpreis 49,90 €<br />• Klare, kaufstarke Zielgruppe<br />• Konkreter Praxisnutzen statt abstraktem Informationsprodukt<br />• Professionelle Verkaufsseite und sichere Abwicklung über Digistore24<br />• Sofortige digitale Auslieferung</p>
-<p>Ideal für Inhalte rund um Handwerk, Hausbau, Renovierung, Bauleitung, Selbstständigkeit und Projektorganisation.</p>
+**Vendor's marketplace description:** Praxisnahes digitales Vorlagenpaket für Handwerker, Bauleiter, Monteure, kleine Bauunternehmen und Nachunternehmer. Das Produkt löst ein alltägliches Problem: verstreute Notizen, unklare Nachweise und fehlende Übersicht bei Baustellen, Zusatzleistungen und Abnahmen. Enthalten sind sofort nutzbare Excel- und PDF-Vorlagen für Bautagebuch, Mängel, Stunden, Material, Nachträge, Abnahmen, Fotodokumentation und Projektübersicht. Ihre Affiliate-Vorteile: • 50 % Provision pro vermitteltem Verkauf • Einmalpreis 49,90 € • Klare, kaufstarke Zielgruppe • Konkreter Praxisnutzen statt abstraktem Informationsprodukt • Professionelle Verkaufsseite und sichere Abwicklung über Digistore24 • Sofortige digitale Auslieferung Ideal für Inhalte rund um Handwerk, Hausbau, Renovierung, Bauleitung, Selbstständigkeit und Projektorganisation.
 
 ## 2. Links
 

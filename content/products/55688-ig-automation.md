@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Nutze <strong>smarte Automatisierungen auf höchstem Niveau</strong>, die für dich verkaufen und <strong>Kunden wie am Fließband gewinnen</strong>, während du dich um die wirklich wichtigen Dinge im Leben kümmerst.</h2>
-<p>Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. 350€ Provision im Funnel.</p>
-<p>Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst!</p>
-<p>Das bekommt der Kunde in diesem Premium Online-Kurs:</p>
-<ul>
-<li>wie du was <strong>richtig automatisieren</strong> kannst, um <strong>viel einfacher deutlich mehr Follower und Verkäufe zu generieren</strong>…</li>
-<li>wie du <strong>Leads und Sales auf Autopilot generierst, </strong>ohne ständig am Handy oder online zu sein, weil die Automatisierungen für dich alles erledigen (<strong>Achtung</strong>, du könntest plötzlich mehr Freizeit und ein echtes Leben haben, außerhalb von Social Media)…</li>
-<li>mit einem Tag Arbeit deine ganze Woche oder gar Monat geplant hast und den Rest die Automatisierungen erledigen…</li>
-</ul>
-<p><strong>Und als Bonus</strong> bekommst du <strong>unsere Automatisierungsvorlage</strong>, die prüft, fragt, verkauft und sogar Follow-Up macht.</p>
-<p>Und einiges mehr!</p>
-<p>Am besten jetzt noch zugreifen! Du erhältst <strong>sofort</strong> Zugriff, auch wenn es 3 Uhr Nachts ist! Sichere dir daher jetzt das Angebot. <strong>Nur jetzt für einmalig nur 147€!</strong></p>
-<p> </p>
+**Vendor's marketplace description:** Nutze smarte Automatisierungen auf höchstem Niveau , die für dich verkaufen und Kunden wie am Fließband gewinnen , während du dich um die wirklich wichtigen Dinge im Leben kümmerst. Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. 350€ Provision im Funnel. Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst! Das bekommt der Kunde in diesem Premium Online-Kurs: wie du was richtig automatisieren kannst, um viel einfacher deutlich mehr Follower und Verkäufe zu generieren … wie du Leads und Sales auf Autopilot generierst, ohne ständig am Handy oder online zu sein, weil die Automatisierungen für dich alles erledigen ( Achtung , du könntest plötzlich mehr Freizeit und ein echtes Leben haben, außerhalb von Social Media)… mit einem Tag Arbeit deine ganze Woche oder gar Monat geplant hast und den Rest die Automatisierungen erledigen… Und als Bonus bekommst du unsere Automatisierungsvorlage , die prüft, fragt, verkauft und sogar Follow-Up macht. Und einiges mehr! Am besten jetzt noch zugreifen! Du erhältst sofort Zugriff, auch wenn es 3 Uhr Nachts ist! Sichere dir daher jetzt das Angebot. Nur jetzt für einmalig nur 147€!
 
 ## 2. Links
 

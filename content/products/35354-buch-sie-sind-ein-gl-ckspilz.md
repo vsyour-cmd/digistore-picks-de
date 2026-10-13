@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Ratgeber für eine grandios glückliche Lebenszeit!</p>
-<p>Autor: Chris Hohlstamm von Dehnen</p>
-<p>Vom ersten Tag des Lebens an sucht der Mensch nach Glück und setzt dabei alle Hebel in Bewegung, um glücklich zu werden. Doch die meisten Menschen stehen ihrem Glück mit ihrem Tun mehr im Weg, wie sie Glück überhaupt verursachen.</p>
-<p>Christopher Hohlstamm von Dehnen zu Wendhausen ist Lebenslehrer und ganzheitlicher Therapeut. Mit seiner Erfahrung, aus 30 Jahren Seminarpraxis und Erfolgsmanagement, zeigt er hier die einfachsten und besten Wege, um Glück im Leben nicht nur ganz zuverlässig zu verursachen, sondern auch, wie man seine Lebenszeit am besten gestaltet, damit Glück kein Glück und Zufall mehr ist, und wir am Ende sagen können: Es war eine grandios glückliche Lebenszeit!</p>
-<p>Buch (gedruckt)<br />168 Seiten<br />Abmessungen: 14,8 cm x 21 cm</p>
+**Vendor's marketplace description:** Der Ratgeber für eine grandios glückliche Lebenszeit! Autor: Chris Hohlstamm von Dehnen Vom ersten Tag des Lebens an sucht der Mensch nach Glück und setzt dabei alle Hebel in Bewegung, um glücklich zu werden. Doch die meisten Menschen stehen ihrem Glück mit ihrem Tun mehr im Weg, wie sie Glück überhaupt verursachen. Christopher Hohlstamm von Dehnen zu Wendhausen ist Lebenslehrer und ganzheitlicher Therapeut. Mit seiner Erfahrung, aus 30 Jahren Seminarpraxis und Erfolgsmanagement, zeigt er hier die einfachsten und besten Wege, um Glück im Leben nicht nur ganz zuverlässig zu verursachen, sondern auch, wie man seine Lebenszeit am besten gestaltet, damit Glück kein Glück und Zufall mehr ist, und wir am Ende sagen können: Es war eine grandios glückliche Lebenszeit! Buch (gedruckt) 168 Seiten Abmessungen: 14,8 cm x 21 cm
 
 ## 2. Links
 

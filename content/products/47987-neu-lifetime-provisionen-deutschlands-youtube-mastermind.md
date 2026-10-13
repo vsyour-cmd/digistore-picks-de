@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Erhalte Lifetime Provisionen, ohne verkaufen zu müssen</strong></h2>
-<p>Mit Deutschlands größter YouTube Mastermind helfen wir unseren Kunden das größte Problem zu lösen, das 95% der Selbstständigen &amp; Unternehmer haben<strong> - nie wieder Trafficprobleme!</strong></p>
-<p>Wir helfen dem Kunden einen YouTube Kanal organisch aufzubauen, um Sichtbarkeit, Reichweite und Kundenanfragen zu erhalten.</p>
-<h3><strong>Dein Vorteil als Affiliate:</strong></h3>
-<p>- 40<strong>% Lifetime</strong> Provision</p>
-<p>- Verdiene Provisionen <strong>ohne verkaufen zu müssen</strong>, da 7 Tage kostenlos nutzbar, danach Übergang in Abo</p>
-<p>- <strong>geringe Absprungrate</strong>, dank Intensivbetreuung</p>
-<p> </p>
-<h3><strong>Vorteile der YouTube Mastermind als Kunde:</strong></h3>
-<p>- <strong>schnelle Kundenergebnisse</strong> durch <strong>persönliche Unterstützung</strong> (nicht nur ein Videokurs)</p>
-<p>- regelmäßige <strong>Live Fragerunden &amp; Live Challenges</strong> durch Geschäftsführung und Expertenteam persönlich</p>
-<p>- <strong>tägliche Unterstützung</strong> durch Community sorgt für starke Unterstützung und Motivation (Skool Plattform)</p>
-<p>- Zugriff auf <strong>Wissen aus über 10 Jahren YouTube</strong></p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Erhalte Lifetime Provisionen, ohne verkaufen zu müssen Mit Deutschlands größter YouTube Mastermind helfen wir unseren Kunden das größte Problem zu lösen, das 95% der Selbstständigen & Unternehmer haben - nie wieder Trafficprobleme! Wir helfen dem Kunden einen YouTube Kanal organisch aufzubauen, um Sichtbarkeit, Reichweite und Kundenanfragen zu erhalten. Dein Vorteil als Affiliate: - 40 % Lifetime Provision - Verdiene Provisionen ohne verkaufen zu müssen , da 7 Tage kostenlos nutzbar, danach Übergang in Abo - geringe Absprungrate , dank Intensivbetreuung Vorteile der YouTube Mastermind als Kunde: - schnelle Kundenergebnisse durch persönliche Unterstützung (nicht nur ein Videokurs) - regelmäßige Live Fragerunden & Live Challenges durch Geschäftsführung und Expertenteam persönlich - tägliche Unterstützung durch Community sorgt für starke Unterstützung und Motivation (Skool Plattform) - Zugriff auf Wissen aus über 10 Jahren YouTube
 
 ## 2. Links
 

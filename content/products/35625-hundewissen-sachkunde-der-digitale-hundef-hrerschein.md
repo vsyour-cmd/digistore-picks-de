@@ -41,47 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><span style="color:#333333;"><strong>Interaktiver Onlinekurs </strong></span></h1>
-<div><span style="color:#333333;"><strong>Allein in Deutschland gibt es rund 10 Millionen Hundehalter. Dieser Kurs ist für alle Hundehalter geeignet, ob Anfänger oder Hundeprofi. Das Potenzial ist somit riesig für Affiliates.</strong></span></div>
-<div> </div>
-<div><span style="color:#333333;background-color:#ffff00;"><strong>0 % Stornoquote (Stand 20.05.2022)</strong></span></div>
-<div> </div>
-<div>Der digitale Hundeführerschein ist perfekt für dich, wenn du:</div>
-<div> </div>
-<div>
-<ul>
-<li>
-<p><strong>Die grundlegenden Facts</strong> über Hunde erfahren möchtest, und nicht nur Sitz, Platz, Hier. AHA-Effekte garantiert!</p>
-</li>
-<li>
-<p>als <strong>frischgebackener oder werdender Hundebesitzer</strong> von Anfang an alles richtig machen und deinen Hund verstehen möchtest.</p>
-</li>
-<li>
-<p>eine <strong>Sachkundeprüfung</strong> ablegen musst, weil du einen <strong>Listenhund</strong> besitzt, es in deinem Bundesland Pflicht ist oder du eine Hundesportart betreiben möchtest, für die eine Sachkunde verlangt wird.</p>
-</li>
-<li>
-<p>dich <strong>selbstständig machen</strong> möchtest im Bereich Hundefrisör, Hundepension, Gassiservice oder Hundebetreuung.</p>
-</li>
-<li>
-<p>mit dem Gedanken spielst, <strong>Hundetrainer </strong>zu werden und dir schon mal ein Basiswissen aneignen willst.</p>
-</li>
-<li>
-<p>dein bereits erlangtes <strong>Hundewissen überprüfen</strong> möchtest.</p>
-</li>
-</ul>
-</div>
-<h3><strong>Einmalig in dieser Form!</strong></h3>
-<div><strong>Inhalte:</strong></div>
-<ul>
-<li>Interaktives eBook mit mehr als 600 Seiten (für das Smartphone optimiert)</li>
-<li>Kein eBook-Reader nötig</li>
-<li>Geballtes Basiswissen für alle Hundehalter - vom frischgebackenen Hundhalter bishin zum Profi</li>
-<li>Über 140 weiterführende Links zu Websites und Videos</li>
-<li>130 Übungsfragen mit unmittelbarerem Feedback überprüfen und festigen dein Wissen</li>
-<li>Masterprüfung, bestehend aus 80 Multiple Choice Fragen</li>
-<li>Abschluss-Zertifikat mit sofortigem Download</li>
-</ul>
-<h2>Banner und Werbetexte findest du <span style="background-color:#00ffff;"><a style="background-color:#00ffff;" href="https://perrocc.coachy.net/lp/affiliates/" target="_blank" rel="noreferrer noopener">hier</a></span></h2>
+**Vendor's marketplace description:** Interaktiver Onlinekurs Allein in Deutschland gibt es rund 10 Millionen Hundehalter. Dieser Kurs ist für alle Hundehalter geeignet, ob Anfänger oder Hundeprofi. Das Potenzial ist somit riesig für Affiliates. 0 % Stornoquote (Stand 20.05.2022) Der digitale Hundeführerschein ist perfekt für dich, wenn du: Die grundlegenden Facts über Hunde erfahren möchtest, und nicht nur Sitz, Platz, Hier. AHA-Effekte garantiert! als frischgebackener oder werdender Hundebesitzer von Anfang an alles richtig machen und deinen Hund verstehen möchtest. eine Sachkundeprüfung ablegen musst, weil du einen Listenhund besitzt, es in deinem Bundesland Pflicht ist oder du eine Hundesportart betreiben möchtest, für die eine Sachkunde verlangt wird. dich selbstständig machen möchtest im Bereich Hundefrisör, Hundepension, Gassiservice oder Hundebetreuung. mit dem Gedanken spielst, Hundetrainer zu werden und dir schon mal ein Basiswissen aneignen willst. dein bereits erlangtes Hundewissen überprüfen möchtest. Einmalig in dieser Form! Inhalte: Interaktives eBook mit mehr als 600 Seiten (für das Smartphone optimiert) Kein eBook-Reader nötig Geballtes Basiswissen für alle Hundehalter - vom frischgebackenen Hundhalter bishin zum Profi Über 140 weiterführende Links zu Websites und Videos 130 Übungsfragen mit unmittelbarerem Feedback überprüfen und festigen dein Wissen Masterprüfung, bestehend aus 80 Multiple Choice Fragen Abschluss-Zertifikat mit sofortigem Download Banner und Werbetexte findest du hier
 
 ## 2. Links
 

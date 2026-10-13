@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Praxisorientiertes Produktivitäts-System gegen Ablenkung und Prokrastination.</strong></p>
-<p> </p>
-<p>Die 1-Stunden-Fokus-Methode zeigt Schritt für Schritt, wie Menschen ihre Konzentration steigern, Deep Work aufbauen und ihre wichtigsten Aufgaben konsequent umsetzen.</p>
-<p> </p>
-<p><strong>Große Zielgruppe:</strong></p>
-<p>Selbstständige<br />Studenten<br />Unternehmer<br />Wissensarbeiter</p>
-<p> </p>
-<p>✔ professionelles Produktdesign<br />✔ leicht verständliches Thema<br />✔ attraktive <strong>50 % Affiliate-Provision</strong></p>
+**Vendor's marketplace description:** Praxisorientiertes Produktivitäts-System gegen Ablenkung und Prokrastination. Die 1-Stunden-Fokus-Methode zeigt Schritt für Schritt, wie Menschen ihre Konzentration steigern, Deep Work aufbauen und ihre wichtigsten Aufgaben konsequent umsetzen. Große Zielgruppe: Selbstständige Studenten Unternehmer Wissensarbeiter ✔ professionelles Produktdesign ✔ leicht verständliches Thema ✔ attraktive 50 % Affiliate-Provision
 
 ## 2. Links
 

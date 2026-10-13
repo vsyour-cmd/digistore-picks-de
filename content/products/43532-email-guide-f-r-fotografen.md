@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Du bekommst 29 E-Mail-Vorlagen, um deine Anfragen ganz einfach in Buchungen umzuwandeln. Sie werden dir dabei helfen, die Kommunikation mit deinen Kund*innen zu verbessern, Zeit zu sparen und deinen Umsatz zu erhöhen.</strong></p>
-<p>Die Vorlagen unterstützen dich dabei schnell die richtigen Worte für verschiedene Szenarien zu finden. Das verschafft dir Zeit und Geld – und das ohne aggressiv verkaufen zu müssen. Die Vorlagen werden dir dabei helfen, mehr Bewertungen und Testimonials zu bekommen. Außerdem erwartet dich ein Online-Kurs + Workbook mit insgesamt 8 Videos, sodass du einen kompakten Einblick in die Grundlagen der Kommunikation und in relevante Themen wie E-Mail, Organisation, Kundenkommunikation, Kontaktformular, Buchungen und mehr bekommst.</p>
-<p> </p>
-<p>• 29 Vorlagen als PDF</p>
-<p>• 8 Video im Mitgliederbereich</p>
-<p>• Workbook zum ausdrucken</p>
-<p>• Unbegrenzter Zugang</p>
-<p>• Kostenlose Updates</p>
-<p>• Zugriff über Desktop, Mobile oder eigene App</p>
+**Vendor's marketplace description:** Du bekommst 29 E-Mail-Vorlagen, um deine Anfragen ganz einfach in Buchungen umzuwandeln. Sie werden dir dabei helfen, die Kommunikation mit deinen Kund*innen zu verbessern, Zeit zu sparen und deinen Umsatz zu erhöhen. Die Vorlagen unterstützen dich dabei schnell die richtigen Worte für verschiedene Szenarien zu finden. Das verschafft dir Zeit und Geld – und das ohne aggressiv verkaufen zu müssen. Die Vorlagen werden dir dabei helfen, mehr Bewertungen und Testimonials zu bekommen. Außerdem erwartet dich ein Online-Kurs + Workbook mit insgesamt 8 Videos, sodass du einen kompakten Einblick in die Grundlagen der Kommunikation und in relevante Themen wie E-Mail, Organisation, Kundenkommunikation, Kontaktformular, Buchungen und mehr bekommst. • 29 Vorlagen als PDF • 8 Video im Mitgliederbereich • Workbook zum ausdrucken • Unbegrenzter Zugang • Kostenlose Updates • Zugriff über Desktop, Mobile oder eigene App
 
 ## 2. Links
 

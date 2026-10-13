@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>- Hohe nachfrage zum Thema Online Einkommen</p>
-<p>- Digitale Auslieferung ohne Versand</p>
-<p>- Einfache Zielgruppe, Einsteiger und Berufstätige</p>
-<p>- Atraktive Provision</p>
-<p>- Professionelle Bestellabwicklung über Digistore24</p>
+**Vendor's marketplace description:** - Hohe nachfrage zum Thema Online Einkommen - Digitale Auslieferung ohne Versand - Einfache Zielgruppe, Einsteiger und Berufstätige - Atraktive Provision - Professionelle Bestellabwicklung über Digistore24
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>PDF-Workbook (29 Seiten A4) für ein persönliches LIFE-Profil und ein klares Gesamtsystem: Leben als System, Entscheidungen, Schutz &amp; Grenzen, Ordnung, Automatisieren ohne Kontrollverlust und Mensch im Mittelpunkt.</p>
-<p>Einmaliger Kauf, kein Abo. Bildungs-/Arbeitsmaterial — keine Rechts-/Steuer-/Anlage-/Gesundheitsberatung.</p>
-<p><strong>Affiliate-Support:</strong> <a href="https://life-06-ege.pages.dev/affiliates/">https://life-06-ege.pages.dev/affiliates/</a></p>
+**Vendor's marketplace description:** PDF-Workbook (29 Seiten A4) für ein persönliches LIFE-Profil und ein klares Gesamtsystem: Leben als System, Entscheidungen, Schutz & Grenzen, Ordnung, Automatisieren ohne Kontrollverlust und Mensch im Mittelpunkt. Einmaliger Kauf, kein Abo. Bildungs-/Arbeitsmaterial — keine Rechts-/Steuer-/Anlage-/Gesundheitsberatung. Affiliate-Support: https://life-06-ege.pages.dev/affiliates/
 
 ## 2. Links
 

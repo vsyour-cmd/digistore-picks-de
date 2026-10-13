@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Kongresspaket zum Frei Leben Kongress 3.</p>
-<p>Viele Menschen haben in den letzten Jahren erlebt, wie Ihre Freiheit massiv beschnitten wurde. Aus Freude und Leichtigkeit wurde bei vielen Angst und Wut.</p>
-<p><strong>Wie können wir diese Entwicklung stoppen und umdrehen?</strong></p>
-<p>Die Antwort auf diese spannende Frage findest du beim <strong>Frei Leben Kongress 3!</strong></p>
-<p><strong>45 hochfrequente Leader der Neuen Zeit</strong> haben sich versammelt und zeigen dir beim Frei Leben Kongress die besten neuen Wege für deine Freiheit &amp; zu mehr Glück</p>
+**Vendor's marketplace description:** Das Kongresspaket zum Frei Leben Kongress 3. Viele Menschen haben in den letzten Jahren erlebt, wie Ihre Freiheit massiv beschnitten wurde. Aus Freude und Leichtigkeit wurde bei vielen Angst und Wut. Wie können wir diese Entwicklung stoppen und umdrehen? Die Antwort auf diese spannende Frage findest du beim Frei Leben Kongress 3! 45 hochfrequente Leader der Neuen Zeit haben sich versammelt und zeigen dir beim Frei Leben Kongress die besten neuen Wege für deine Freiheit & zu mehr Glück
 
 ## 2. Links
 

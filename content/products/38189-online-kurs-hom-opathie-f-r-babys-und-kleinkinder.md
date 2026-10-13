@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehlen Sie diesen von Kursteilnehmern sehr gut bewerteten Online-Kurs zum Thema "Homöopathie für Babys und Kleinkinder.</p>
-<p>Ihre Vorteile:</p>
-<ul>
-<li>Attraktive Provision von 40% beim direkten Verkauf</li>
-<li>Lebenslang 25 % wiederkehrende Provisionen auf Ihre Verkäufe im Upsell-Prozess (Email)</li>
-<li>Kursangebot wird permament erweitert und ausgebaut</li>
-<li>Schnelle und persönliche Unterstützung auf Deutsch</li>
-</ul>
-<p>Zielgruppen:</p>
-<ul>
-<li>Eltern</li>
-<li>Hebammen</li>
-<li>Menschen, die an alternativen Heilmethoden interessiert sind  </li>
-</ul>
-<p>Der Online-Kurs Homöopathie für das 1. Lebensjahr und Kleinkinder vermittelt alle wichtigen Grundlagen für die erfolgreiche Selbstbehandlung.</p>
+**Vendor's marketplace description:** Empfehlen Sie diesen von Kursteilnehmern sehr gut bewerteten Online-Kurs zum Thema "Homöopathie für Babys und Kleinkinder. Ihre Vorteile: Attraktive Provision von 40% beim direkten Verkauf Lebenslang 25 % wiederkehrende Provisionen auf Ihre Verkäufe im Upsell-Prozess (Email) Kursangebot wird permament erweitert und ausgebaut Schnelle und persönliche Unterstützung auf Deutsch Zielgruppen: Eltern Hebammen Menschen, die an alternativen Heilmethoden interessiert sind Der Online-Kurs Homöopathie für das 1. Lebensjahr und Kleinkinder vermittelt alle wichtigen Grundlagen für die erfolgreiche Selbstbehandlung.
 
 ## 2. Links
 

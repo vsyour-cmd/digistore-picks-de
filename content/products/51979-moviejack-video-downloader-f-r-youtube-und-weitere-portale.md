@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>MovieJack</strong></p>
-<p>Die besten Filme von Youtube &amp; Co. runterladen. Inklusive einem Jahr kostenlose Updates!</p>
-<p>Für Windows 7, 8, 8.1, 10 und 11. </p>
-<p>Die Software ist per Download direkt nach dem Kauf verfügbar. Zudem wird die Seriennummer per E-Mail versendet. </p>
+**Vendor's marketplace description:** MovieJack Die besten Filme von Youtube & Co. runterladen. Inklusive einem Jahr kostenlose Updates! Für Windows 7, 8, 8.1, 10 und 11. Die Software ist per Download direkt nach dem Kauf verfügbar. Zudem wird die Seriennummer per E-Mail versendet.
 
 ## 2. Links
 

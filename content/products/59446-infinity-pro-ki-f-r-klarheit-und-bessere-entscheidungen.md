@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>INFINITY PRO</h3>
-<p><strong>INFINITY PRO ist eine KI-gestützte Web-App</strong>, die Menschen dabei unterstützt, Situationen klarer zu verstehen, Zusammenhänge zu erkennen, Möglichkeiten zu bewerten und eigene Entscheidungen besser vorzubereiten.</p>
-<p>INFINITY unterstützt unter anderem bei:</p>
-<ul>
-<li>persönlichen und beruflichen Entscheidungen</li>
-<li>Veränderungen und neuen Situationen</li>
-<li>Beziehungen und zwischenmenschlichen Fragen</li>
-<li>Prioritäten und Zeitplanung</li>
-<li>dem Erkennen von Zusammenhängen</li>
-<li>dem Bewerten verschiedener Möglichkeiten</li>
-</ul>
-<p><strong>So funktioniert INFINITY:</strong></p>
-<p>Die Nutzung erfolgt direkt als <strong>Web-App über einen Internetbrowser</strong>. Eine Installation ist nicht erforderlich. Für die Nutzung wird eine <strong>Internetverbindung benötigt; dabei kann Datenvolumen verbraucht werden.</strong></p>
-<p>Der Nutzer wählt zunächst aus, worum es bei seiner Situation geht, und gibt die wichtigsten Rahmenbedingungen an. Anschließend kann er seine persönliche Situation, Gedanken, Ziele und Besonderheiten frei beschreiben. INFINITY wertet diese Angaben individuell aus, zeigt Zusammenhänge und mögliche Optionen auf und unterstützt dabei, die eigene Entscheidung vorzubereiten.</p>
-<p><strong>So wird das Analyse-Guthaben verwendet:</strong></p>
-<ul>
-<li><strong>Neue Analyse durchführen:</strong> 1 Analyse</li>
-<li><strong>Analyse als Thema speichern und aktivieren:</strong> 2 Analysen</li>
-<li><strong>Gespeichertes Thema fortsetzen:</strong> 1 Analyse je Fortsetzung</li>
-</ul>
-<p>Das reine Ansehen bereits vorhandener Ergebnisse verbraucht kein zusätzliches Analyse-Guthaben.</p>
-<p><strong>INFINITY PRO enthält:</strong></p>
-<ul>
-<li>50 Analysen + 5 Analysen gratis</li>
-<li>Analysen speichern und später fortsetzen</li>
-<li>persönliches INFINITY-Konto</li>
-<li>Guthaben ohne Abonnement</li>
-<li>12 Monate gültig</li>
-</ul>
-<p><strong>Für Affiliates:</strong> INFINITY PRO ist eine browserbasierte KI-Web-App für persönliche Entscheidungen, Veränderungen und Alltagssituationen. Kunden erhalten ein festes Analyse-Guthaben ohne Abonnement. Die klare Guthabenlogik ermöglicht eine transparente und leicht verständliche Nutzung.</p>
+**Vendor's marketplace description:** INFINITY PRO INFINITY PRO ist eine KI-gestützte Web-App , die Menschen dabei unterstützt, Situationen klarer zu verstehen, Zusammenhänge zu erkennen, Möglichkeiten zu bewerten und eigene Entscheidungen besser vorzubereiten. INFINITY unterstützt unter anderem bei: persönlichen und beruflichen Entscheidungen Veränderungen und neuen Situationen Beziehungen und zwischenmenschlichen Fragen Prioritäten und Zeitplanung dem Erkennen von Zusammenhängen dem Bewerten verschiedener Möglichkeiten So funktioniert INFINITY: Die Nutzung erfolgt direkt als Web-App über einen Internetbrowser . Eine Installation ist nicht erforderlich. Für die Nutzung wird eine Internetverbindung benötigt; dabei kann Datenvolumen verbraucht werden. Der Nutzer wählt zunächst aus, worum es bei seiner Situation geht, und gibt die wichtigsten Rahmenbedingungen an. Anschließend kann er seine persönliche Situation, Gedanken, Ziele und Besonderheiten frei beschreiben. INFINITY wertet diese Angaben individuell aus, zeigt Zusammenhänge und mögliche Optionen auf und unterstützt dabei, die eigene Entscheidung vorzubereiten. So wird das Analyse-Guthaben verwendet: Neue Analyse durchführen: 1 Analyse Analyse als Thema speichern und aktivieren: 2 Analysen Gespeichertes Thema fortsetzen: 1 Analyse je Fortsetzung Das reine Ansehen bereits vorhandener Ergebnisse verbraucht kein zusätzliches Analyse-Guthaben. INFINITY PRO enthält: 50 Analysen + 5 Analysen gratis Analysen speichern und später fortsetzen persönliches INFINITY-Konto Guthaben ohne Abonnement 12 Monate gültig Für Affiliates: INFINITY PRO ist eine browserbasierte KI-Web-App für persönliche Entscheidungen, Veränderungen und Alltagssituationen. Kunden erhalten ein festes Analyse-Guthaben ohne Abonnement. Die klare Guthabenlogik ermöglicht eine transparente und leicht verständliche Nutzung.
 
 ## 2. Links
 

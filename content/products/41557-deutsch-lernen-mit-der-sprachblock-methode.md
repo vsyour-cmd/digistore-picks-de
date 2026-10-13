@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<p><span style="color:#ff0000;"><strong>Bitte bewirb Dich zuerst direkt über <a style="color:#ff0000;" href="https://www.sprachheld.de/affiliates/" target="_blank" rel="noreferrer noopener">unsere Seite</a>!</strong></span></p>
-<p><strong>Du hast einen Sprach- oder Reiseblog, Webseite oder einen Social-Media-Kanal und möchtest mit Deinen Lesern eine ganz neue Methode des Sprachenlernens teilen und dabei Geld verdienen? Dann bewirb Dich auf unser Affiliate-Programm und werde Partner von Sprachheld. </strong></p>
-</div>
-<div>
-<p><strong>Lerne Sprachen mit der Sprachblock-Methode. </strong>Statt mühevolles Grammatik und Vokabel pauken, konzentrieren wir uns auf das wirklich Wichtige: <em>Sprachblöcke</em>.</p>
-<p>In unseren Sprachkursen bekommt der Lerner im ersten Schritt so viel Input wie möglich durch relevante Dialoge und Monologe in der Fremdsprache.</p>
-<p><strong>Anstatt nun Regeln und isolierte Wörter zu lernen, legen wir den Fokus auf Sprachblöcke</strong> - <em>Wortkombinationen, die Muttersprachler immer wieder verwenden und die auch der Lerner ohne Hintergrundwissen benutzen kann.</em></p>
-<p>Im letzten Schritt werden die Sprachblöcke in eigenen Gesprächen verwendet und dadurch verinnerlicht.</p>
-<p> </p>
-<p>Diese Methode haben wir in unsere Sprachkurse implementiert.<a> Mehr zum Affiliate-Programm und unseren Kursen erfährst Du hier.</a></p>
-</div>
+**Vendor's marketplace description:** Bitte bewirb Dich zuerst direkt über unsere Seite ! Du hast einen Sprach- oder Reiseblog, Webseite oder einen Social-Media-Kanal und möchtest mit Deinen Lesern eine ganz neue Methode des Sprachenlernens teilen und dabei Geld verdienen? Dann bewirb Dich auf unser Affiliate-Programm und werde Partner von Sprachheld. Lerne Sprachen mit der Sprachblock-Methode. Statt mühevolles Grammatik und Vokabel pauken, konzentrieren wir uns auf das wirklich Wichtige: Sprachblöcke . In unseren Sprachkursen bekommt der Lerner im ersten Schritt so viel Input wie möglich durch relevante Dialoge und Monologe in der Fremdsprache. Anstatt nun Regeln und isolierte Wörter zu lernen, legen wir den Fokus auf Sprachblöcke - Wortkombinationen, die Muttersprachler immer wieder verwenden und die auch der Lerner ohne Hintergrundwissen benutzen kann. Im letzten Schritt werden die Sprachblöcke in eigenen Gesprächen verwendet und dadurch verinnerlicht. Diese Methode haben wir in unsere Sprachkurse implementiert. Mehr zum Affiliate-Programm und unseren Kursen erfährst Du hier.
 
 ## 2. Links
 

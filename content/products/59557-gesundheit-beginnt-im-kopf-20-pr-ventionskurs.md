@@ -41,37 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Empfehle unseren zertifizierten Gesundheitskurs</h2>
-<p>Mit unserem Onlinekurs „Gesundheit beginnt im Kopf“ hilfst du Menschen mit hoher Stressbelastung ihre Gesundheit an der Wurzel zu stärken – und erhältst für jede erfolgreiche Buchung eine attraktive Provision.</p>
-<p>​Deine Vorteile:</p>
-<ul>
-<li>
-<p>Attraktive Provision: 40 % pro Verkauf</p>
-</li>
-<li>
-<p>Hohe Qualität: Zertifizierter §20 Präventionskurs</p>
-</li>
-<li>
-<p>Hohe Kaufbereitschaft: Die Krankenkassen erstatten 80-100% der Kursgebühr</p>
-</li>
-<li>
-<p>Fertige Werbemittel: erhalte fertige Texte, Bilder und Videos</p>
-</li>
-</ul>
-<p> </p>
-<div>
-<h3>Über unseren Onlinekurs</h3>
-</div>
-<div>
-<p>​✔️ 8 aufeinander aufgebaute Wochenmodule: Sie leiten dich Schritt für Schritt durch den Prozess – leicht verständlich und gut machbar.</p>
-<p>✔️ Inspirierende Lehrvideos</p>
-<p>✔️ Natur - Audioanleitungen zum Download</p>
-<p>✔️ Arbeitsbuch zur Reflexion inkl. Erfolgstagebuch: Halte deine Fortschritte fest, erkenne Muster – und bleibe motiviert.</p>
-<p>✔️ 100 % Kostenerstattung: Deine Krankenkasse übernimmt den Großteil</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=4eabIuW2ZzU" target="_blank" rel="noreferrer noopener">Infovideo zum Kurs</a></li>
-</ul>
-</div>
+**Vendor's marketplace description:** Empfehle unseren zertifizierten Gesundheitskurs Mit unserem Onlinekurs „Gesundheit beginnt im Kopf“ hilfst du Menschen mit hoher Stressbelastung ihre Gesundheit an der Wurzel zu stärken – und erhältst für jede erfolgreiche Buchung eine attraktive Provision. ​Deine Vorteile: Attraktive Provision: 40 % pro Verkauf Hohe Qualität: Zertifizierter §20 Präventionskurs Hohe Kaufbereitschaft: Die Krankenkassen erstatten 80-100% der Kursgebühr Fertige Werbemittel: erhalte fertige Texte, Bilder und Videos Über unseren Onlinekurs ​✔️ 8 aufeinander aufgebaute Wochenmodule: Sie leiten dich Schritt für Schritt durch den Prozess – leicht verständlich und gut machbar. ✔️ Inspirierende Lehrvideos ✔️ Natur - Audioanleitungen zum Download ✔️ Arbeitsbuch zur Reflexion inkl. Erfolgstagebuch: Halte deine Fortschritte fest, erkenne Muster – und bleibe motiviert. ✔️ 100 % Kostenerstattung: Deine Krankenkasse übernimmt den Großteil Infovideo zum Kurs
 
 ## 2. Links
 

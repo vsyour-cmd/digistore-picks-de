@@ -41,52 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>DEIN SPIRITUELLER ONLINE-WORKSHOP</div>
-<p><strong>DIY-Videokurs </strong><strong>für Deine Herzverbindung, Vision, Meditation, Manifestation &amp; Dein neues Mindset </strong></p>
-</div>
-<div>
-<p>Die Reise zu einem erfüllten Leben beginnt jetzt – und Du kannst sie erleben!</p>
-<p>Unser Online-Workshop "Wake up and Shine" bereitet Dich in nur 90 Minuten auf eine tiefgreifende Transformation vor. Wenn Du danach strebst, Deine Gedanken und Emotionen positiv zu verändern, nach mehr Energie sehnst und Deine innere Mitte finden möchtest, dann ist dieser Workshop genau das Richtige für Dich.</p>
-<p>Was erwartet Dich in diesem inspirierenden Workshop?</p>
-<p><strong>7 KRAFTVOLLE MEDITATIONEN</strong></p>
-<p>Diese Meditationen sind der Schlüssel zur Stärkung Deiner Intuition und Herzverbindung. Sie werden Dich auf eine Reise führen, die Dein Leben auf tiefgreifende Weise verändern kann.</p>
-<p><strong>EIN VÖLLIG NEUES MINDSET</strong></p>
-<p>Erfahre, wie Du mehr Energie, Leichtigkeit und Lebensfreude in Dein Leben ziehst. Die Werkzeuge und Einsichten, die Du hier erhältst, sind der Schlüssel zu einem erfüllten Dasein.</p>
-<p><strong>DIE KUNST DES MANIFESTIERENS</strong></p>
-<p>Lerne, wie Du Deine Herzenswünsche richtig manifestierst, um sie zur Wirklichkeit werden zu lassen. Deine Visionen können Realität werden, und wir zeigen Dir, wie das geht.</p>
-<p>Stell Dir vor, wie es wäre, wenn Du regelmäßig und erfolgreich Deine Herzenswünsche manifestierst, um ein erfülltes Leben zu führen. Du wirst erfahren, wie Du Deine Gedanken lenkst und Deine Schwingung erhöhst, um voller Energie zu sein.</p>
-<p> </p>
-<p>Unsere Module im Überblick:</p>
-<ol>
-<li>
-<p><strong>Modul 1: Inneres Gleichgewicht</strong>: Finde Deine innere Stärke und lerne, Stress in Leichtigkeit zu verwandeln. Entdecke, wie Deine Emotionen, Gedanken und Glaubenssätze Dein Leben beeinflussen und wie Du sie positiv verändern kannst.</p>
-</li>
-<li>
-<p><strong>Modul 2: Verbindung mit dem Herzen</strong>: Entdecke den goldenen Schlüssel zum Glücklichsein, indem Du Dich mit Deinem Herzen verbindest. Löse alte Verletzungen auf und finde den Weg zu Deinen Träumen.</p>
-</li>
-<li>
-<p><strong>Modul 3: Manifestieren Deiner Visionen</strong>: Tauche ein in Deine Zukunft und finde Deine verlorenen Wünsche und Träume wieder. Lerne, wie Deine Gedanken Dich bisher blockiert haben und erhalte die Anleitung, wie Du Deine Herzenswünsche verwirklichen kannst.</p>
-</li>
-</ol>
-<p><strong>Bonus-Modul</strong>: Praktische Tipps, um sofort loszulegen und Dein Leben zu verändern.</p>
-<p> </p>
-<p>Zusätzlich erhältst Du 7 wundervolle Meditationen, darunter Chakrenreinigung, Herzheilung und Zielverstärkung.</p>
-<h2><strong>+</strong></h2>
-<div><strong>MANIFESTATION REICHTUM</strong></div>
-<div> </div>
-<div>Aufgaben und Affirmationen zur Manifestation von Reichtum, Wohlstand und finanzielle Fülle in einer Woche</div>
-<div>und 2 Bonusmeditationen für Klarheit &amp; Reichtum</div>
-<div> </div>
-<p>Deine Reise zu einem erfüllten Leben beginnt hier und jetzt!</p>
-<p> </p>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** DEIN SPIRITUELLER ONLINE-WORKSHOP DIY-Videokurs für Deine Herzverbindung, Vision, Meditation, Manifestation & Dein neues Mindset Die Reise zu einem erfüllten Leben beginnt jetzt – und Du kannst sie erleben! Unser Online-Workshop "Wake up and Shine" bereitet Dich in nur 90 Minuten auf eine tiefgreifende Transformation vor. Wenn Du danach strebst, Deine Gedanken und Emotionen positiv zu verändern, nach mehr Energie sehnst und Deine innere Mitte finden möchtest, dann ist dieser Workshop genau das Richtige für Dich. Was erwartet Dich in diesem inspirierenden Workshop? 7 KRAFTVOLLE MEDITATIONEN Diese Meditationen sind der Schlüssel zur Stärkung Deiner Intuition und Herzverbindung. Sie werden Dich auf eine Reise führen, die Dein Leben auf tiefgreifende Weise verändern kann. EIN VÖLLIG NEUES MINDSET Erfahre, wie Du mehr Energie, Leichtigkeit und Lebensfreude in Dein Leben ziehst. Die Werkzeuge und Einsichten, die Du hier erhältst, sind der Schlüssel zu einem erfüllten Dasein. DIE KUNST DES MANIFESTIERENS Lerne, wie Du Deine Herzenswünsche richtig manifestierst, um sie zur Wirklichkeit werden zu lassen. Deine Visionen können Realität werden, und wir zeigen Dir, wie das geht. Stell Dir vor, wie es wäre, wenn Du regelmäßig und erfolgreich Deine Herzenswünsche manifestierst, um ein erfülltes Leben zu führen. Du wirst erfahren, wie Du Deine Gedanken lenkst und Deine Schwingung erhöhst, um voller Energie zu sein. Unsere Module im Überblick: Modul 1: Inneres Gleichgewicht : Finde Deine innere Stärke und lerne, Stress in Leichtigkeit zu verwandeln. Entdecke, wie Deine Emotionen, Gedanken und Glaubenssätze Dein Leben beeinflussen und wie Du sie positiv verändern kannst. Modul 2: Verbindung mit dem Herzen : Entdecke den goldenen Schlüssel zum Glücklichsein, indem Du Dich mit Deinem Herzen verbindest. Löse alte Verletzungen auf und finde den Weg zu Deinen Träumen. Modul 3: Manifestieren Deiner Visionen : Tauche ein in Deine Zukunft und finde Deine verlorenen Wünsche und Träume wieder. Lerne, wie Deine Gedanken Dich bisher blockiert haben und erhalte die Anleitung, wie Du Deine Herzenswünsche verwirklichen kannst. Bonus-Modul : Praktische Tipps, um sofort loszulegen und Dein Leben zu verändern. Zusätzlich erhältst Du 7 wundervolle Meditationen, darunter Chakrenreinigung, Herzheilung und Zielverstärkung. + MANIFESTATION REICHTUM Aufgaben und Affirmationen zur Manifestation von Reichtum, Wohlstand und finanzielle Fülle in einer Woche und 2 Bonusmeditationen für Klarheit & Reichtum Deine Reise zu einem erfüllten Leben beginnt hier und jetzt!
 
 ## 2. Links
 

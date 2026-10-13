@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Es bedeutet uns sehr viel, dass du darüber nachdenkst, unseren Onlinekurs zu vermarkten.</p>
-<p>Das Immobilien-Crashkurs-Bundle wurde von immlab produziert. Darin geben die Experten Erik Renk, Paul Hinrichs und Till Salewski Investoren Einblicke, wie sie mit Immobilien ihre Ziele erreichen können.</p>
-<p>Wir wissen, wieviel Aufwand du betreiben musstest, damit du die Zielgruppe mit deiner Strategie erreichst. Deswegen geben wir dir </p>
-<p><span style="background-color:#ffcc00;">50 % Affiliate Provision möglich</span></p>
-<p>Bisher haben sich schon mehr als 2.000 Teilnehmer in unsere Kurse eingetragen. Somit gehören wir in Deutschland zu den Immobilien Onlinekursen mit der größten Reichweite. Wir freuen uns, wenn du dazu beiträgst, unser langjähriges Immobilien-Wissen den hungrigen Investoren zur Verfügung zu stellen.</p>
-<p>Da wir auch in Zukunft weitere Onlinekurse produzieren werden, kannst du deine Kunden weiterhin mit wertvollem Content beliefern und zugleich Geld verdienen.</p>
-<p>Wir freuen uns auf die gemeinsame Zusammenarbeit.</p>
-<p>Die besten Investorengrüße aus Leipzig</p>
-<p>Erik Renk, Paul Hinrichs &amp; Till Salewski</p>
+**Vendor's marketplace description:** Es bedeutet uns sehr viel, dass du darüber nachdenkst, unseren Onlinekurs zu vermarkten. Das Immobilien-Crashkurs-Bundle wurde von immlab produziert. Darin geben die Experten Erik Renk, Paul Hinrichs und Till Salewski Investoren Einblicke, wie sie mit Immobilien ihre Ziele erreichen können. Wir wissen, wieviel Aufwand du betreiben musstest, damit du die Zielgruppe mit deiner Strategie erreichst. Deswegen geben wir dir 50 % Affiliate Provision möglich Bisher haben sich schon mehr als 2.000 Teilnehmer in unsere Kurse eingetragen. Somit gehören wir in Deutschland zu den Immobilien Onlinekursen mit der größten Reichweite. Wir freuen uns, wenn du dazu beiträgst, unser langjähriges Immobilien-Wissen den hungrigen Investoren zur Verfügung zu stellen. Da wir auch in Zukunft weitere Onlinekurse produzieren werden, kannst du deine Kunden weiterhin mit wertvollem Content beliefern und zugleich Geld verdienen. Wir freuen uns auf die gemeinsame Zusammenarbeit. Die besten Investorengrüße aus Leipzig Erik Renk, Paul Hinrichs & Till Salewski
 
 ## 2. Links
 

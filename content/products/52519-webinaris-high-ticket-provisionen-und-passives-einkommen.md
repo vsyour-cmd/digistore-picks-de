@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Seit 2013 arbeiten wir an einem einzigen Ziel:<br /><strong>Menschen und Unternehmen mit automatisierten Webinaren erfolgreich zu machen.</strong></p>
-<p>Wir sind <strong>Marktführer im deutschsprachigen Raum</strong> für vollautomatisierte Sales-Funnels auf Webinar-Basis – mit tausenden Kunden, unzähligen Launches, Millionenumsätzen.</p>
-<p>Unser Wissen haben wir jetzt in ein Coaching-Produkt gepackt. <strong><span style="background-color:#ffff99;">Dieses Produkt verkaufen wir im Webinar für 997 €</span><br /><br />So funktioniert´s:</strong></p>
-<p>Wenn du nur 10 Leute ins Webinar bringst – kauft im Schnitt einer das Coaching für 997 €.</p>
-<p>Du bekommst 50 % davon: 498,50 € pro Sale. Doch das ist nur der Anfang:</p>
-<p>Jeder Käufer startet automatisch mit einem Abo für 299 € monatlich,in dem er mit unserer Plattform Webinaris sein Webinar auch umsetzt.</p>
-<p><span style="background-color:#ffff99;"><strong>Auch hier bekommst du zusätzlich 25 % Lifetime-Provision: 74,75 € pro Monat – passiv. (auch wenn der Kunde seinen Tarif ändert, bleibt er immer auf dich geschlüsselt und du bekommst immer deine 25 Prozent)</strong></span></p>
-<p> </p>
+**Vendor's marketplace description:** Seit 2013 arbeiten wir an einem einzigen Ziel: Menschen und Unternehmen mit automatisierten Webinaren erfolgreich zu machen. Wir sind Marktführer im deutschsprachigen Raum für vollautomatisierte Sales-Funnels auf Webinar-Basis – mit tausenden Kunden, unzähligen Launches, Millionenumsätzen. Unser Wissen haben wir jetzt in ein Coaching-Produkt gepackt. Dieses Produkt verkaufen wir im Webinar für 997 € So funktioniert´s: Wenn du nur 10 Leute ins Webinar bringst – kauft im Schnitt einer das Coaching für 997 €. Du bekommst 50 % davon: 498,50 € pro Sale. Doch das ist nur der Anfang: Jeder Käufer startet automatisch mit einem Abo für 299 € monatlich,in dem er mit unserer Plattform Webinaris sein Webinar auch umsetzt. Auch hier bekommst du zusätzlich 25 % Lifetime-Provision: 74,75 € pro Monat – passiv. (auch wenn der Kunde seinen Tarif ändert, bleibt er immer auf dich geschlüsselt und du bekommst immer deine 25 Prozent)
 
 ## 2. Links
 

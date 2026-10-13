@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses E-Book zeigt klar und verständlich,<br />wie aus persönlichen Erinnerungen ein individueller Song entsteht.</p>
-<p>Ob Geburtstag, Hochzeit, Jubiläum oder ein besonderer Moment –<br />du lernst, Gefühle, Erlebnisse und gemeinsame Geschichten<br />in einen berührenden Songtext zu verwandeln.</p>
-<p>Ganz ohne musikalische Vorkenntnisse.<br />Mit klarer Struktur und modernen digitalen Möglichkeiten.</p>
-<p>So entsteht ein Geschenk,<br />das in Erinnerung bleibt.</p>
-<hr />
-<h3>Inhalte u. a.:</h3>
-<p>Strukturierte Anleitung von der Idee bis zum fertigen Song<br />Bewährte Vorlagen für verschiedene Anlässe<br />Einfacher Textaufbau – ideal auch für Einsteiger<br />Emotionale Wirkung gezielt einsetzen<br />Digitale Tools sinnvoll in den Prozess einbinden<br />Tipps für Aufnahme, Präsentation und persönliche Übergabe</p>
-<hr />
-<h3>Für wen geeignet:</h3>
-<p>Menschen, die ein wirklich persönliches Geschenk machen möchten<br />Partner, Freunde oder Familienmitglieder<br />Kreative Einsteiger ohne Musik-Erfahrung<br />Alle, die Erinnerungen in Musik verwandeln möchten</p>
-<hr />
-<h3>Hinweis für Affiliates:</h3>
-<p>Ein hochwertiges Geschenkprodukt<br />mit starkem emotionalem Kaufimpuls.</p>
-<p>Weitere Provisionsprodukte<br />sind fest im System integriert.</p>
+**Vendor's marketplace description:** Dieses E-Book zeigt klar und verständlich, wie aus persönlichen Erinnerungen ein individueller Song entsteht. Ob Geburtstag, Hochzeit, Jubiläum oder ein besonderer Moment – du lernst, Gefühle, Erlebnisse und gemeinsame Geschichten in einen berührenden Songtext zu verwandeln. Ganz ohne musikalische Vorkenntnisse. Mit klarer Struktur und modernen digitalen Möglichkeiten. So entsteht ein Geschenk, das in Erinnerung bleibt. Inhalte u. a.: Strukturierte Anleitung von der Idee bis zum fertigen Song Bewährte Vorlagen für verschiedene Anlässe Einfacher Textaufbau – ideal auch für Einsteiger Emotionale Wirkung gezielt einsetzen Digitale Tools sinnvoll in den Prozess einbinden Tipps für Aufnahme, Präsentation und persönliche Übergabe Für wen geeignet: Menschen, die ein wirklich persönliches Geschenk machen möchten Partner, Freunde oder Familienmitglieder Kreative Einsteiger ohne Musik-Erfahrung Alle, die Erinnerungen in Musik verwandeln möchten Hinweis für Affiliates: Ein hochwertiges Geschenkprodukt mit starkem emotionalem Kaufimpuls. Weitere Provisionsprodukte sind fest im System integriert.
 
 ## 2. Links
 

@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Erhalte noch heute diese 42 einzigartigen Neurostreams für die Aktivierung, Harmonisierung, Reinigung und Stärkung deiner Chakren.</strong></p>
-<p>Es gibt 7 verschiedene Chakren: Krone, Stirn, Hals, Herz, Solarplexus, Sakral und Wurzel. </p>
-<p>Für jedes Chakra liegen sechs völlig verschiedene Kompositionen vor:</p>
-<ul>
-<li>eine binaurale und eine isochrone Version komponiert nach <strong>Solfeggio-</strong>Frequenztafel</li>
-<li>eine binaurale und eine isochrone Version komponiert nach <strong>Protonenresonanz-</strong>Stimmtabelle</li>
-<li>eine binaurale und eine isochrone Version komponiert nach <strong>432-Hertz-</strong><strong>Musiktheorie</strong></li>
-</ul>
-<p>Jede Version ist einzigartig und gleicht keiner anderen!</p>
-<p>Dauer eines Streams: 22 Minuten.</p>
-<p>Kopfhörer <strong>unbedingt</strong> benutzen!</p>
-<p>Du musst beim Hören keine Reihenfolge einhalten, du kannst auch immer nur dieselbe Version hören (also deinen "Favoriten") - folge intuitiv deinem Bauch, welche Version du jetzt am liebsten hören möchtest.</p>
-<p>Dateigröße: ca. 900 MB</p>
-<p>Alle Neurostreams™ sind jederzeit auf <strong>unbegrenzt viele</strong> Geräte übertragbar und können <strong>beliebig oft</strong> angehört werden!</p>
-<p><strong>30-Tage</strong>-Geld-zurück-Garantie.</p>
-<p><strong>2 Jahre</strong> Produktsupport inklusive. </p>
+**Vendor's marketplace description:** Erhalte noch heute diese 42 einzigartigen Neurostreams für die Aktivierung, Harmonisierung, Reinigung und Stärkung deiner Chakren. Es gibt 7 verschiedene Chakren: Krone, Stirn, Hals, Herz, Solarplexus, Sakral und Wurzel. Für jedes Chakra liegen sechs völlig verschiedene Kompositionen vor: eine binaurale und eine isochrone Version komponiert nach Solfeggio- Frequenztafel eine binaurale und eine isochrone Version komponiert nach Protonenresonanz- Stimmtabelle eine binaurale und eine isochrone Version komponiert nach 432-Hertz- Musiktheorie Jede Version ist einzigartig und gleicht keiner anderen! Dauer eines Streams: 22 Minuten. Kopfhörer unbedingt benutzen! Du musst beim Hören keine Reihenfolge einhalten, du kannst auch immer nur dieselbe Version hören (also deinen "Favoriten") - folge intuitiv deinem Bauch, welche Version du jetzt am liebsten hören möchtest. Dateigröße: ca. 900 MB Alle Neurostreams™ sind jederzeit auf unbegrenzt viele Geräte übertragbar und können beliebig oft angehört werden! 30-Tage -Geld-zurück-Garantie. 2 Jahre Produktsupport inklusive.
 
 ## 2. Links
 

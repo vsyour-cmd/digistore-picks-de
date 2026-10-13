@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Affiliate Profits – Das System für strukturiertes Affiliate-Marketing</strong></p>
-<p><strong>80 % Provision auf jeden Verkauf sichern</strong></p>
-<p>Bewirb „Affiliate Profits“ und erhalte <strong>80 % Provision</strong> auf jeden Verkauf – inklusive möglicher Upsells und Folgeangebote.</p>
-<p>Deine Vorteile als Partner:</p>
-<p>✓ Hochwertiges digitales Produkt mit klarer Zielgruppe<br />✓ Attraktive Provision von 80 %<br />✓ Professionelle Verkaufsseite mit optimierter Customer Journey<br />✓ Fertige Werbemittel für deine Promotion<br />✓ E-Mail-Vorlagen und Social-Media-Texte zur direkten Nutzung<br />✓ Ideal für Einsteiger und erfahrene Affiliate-Marketer</p>
-<p><strong>Affiliate Profits zeigt Schritt für Schritt, wie ein strukturiertes Affiliate-System aufgebaut wird:</strong></p>
-<p>• Strategien für nachhaltiges Online-Marketing<br />• Praktische Anleitungen zur Umsetzung<br />• Systeme und Prozesse für langfristigen Erfolg<br />• Geeignet für Menschen, die mit Affiliate-Marketing starten oder ihre Ergebnisse verbessern möchten</p>
-<p>Als Partner erhältst du Zugriff auf eine vorbereitete Partnerseite mit:</p>
-<p>✓ Affiliate-Links für deine Bewerbung<br />✓ E-Mail-Vorlagen<br />✓ Social-Media-Posts<br />✓ Grafiken und weitere Werbemittel</p>
-<p><strong>Starte jetzt deine Bewerbung und profitiere von einer starken Produktleiter:</strong></p>
-<ol>
-<li>Affiliate Startplan – Einstieg ins Affiliate-Marketing</li>
-<li>Affiliate Profits – Das System für strukturiertes Affiliate-Marketing</li>
-<li>Provision Mastery – Strategien für die nächste Stufe</li>
-</ol>
-<p><strong>Als Partner erhältst du Zugriff auf unsere exklusive Partnerseite mit fertigen E-Mail-Vorlagen, Social-Media-Posts, und weiteren Werbemitteln:</strong></p>
-<p><a href="https://stephantiegel.online/partnerprogramm" target="_blank" rel="noreferrer noopener">https://stephantiegel.online/partnerprogramm</a></p>
+**Vendor's marketplace description:** Affiliate Profits – Das System für strukturiertes Affiliate-Marketing 80 % Provision auf jeden Verkauf sichern Bewirb „Affiliate Profits“ und erhalte 80 % Provision auf jeden Verkauf – inklusive möglicher Upsells und Folgeangebote. Deine Vorteile als Partner: ✓ Hochwertiges digitales Produkt mit klarer Zielgruppe ✓ Attraktive Provision von 80 % ✓ Professionelle Verkaufsseite mit optimierter Customer Journey ✓ Fertige Werbemittel für deine Promotion ✓ E-Mail-Vorlagen und Social-Media-Texte zur direkten Nutzung ✓ Ideal für Einsteiger und erfahrene Affiliate-Marketer Affiliate Profits zeigt Schritt für Schritt, wie ein strukturiertes Affiliate-System aufgebaut wird: • Strategien für nachhaltiges Online-Marketing • Praktische Anleitungen zur Umsetzung • Systeme und Prozesse für langfristigen Erfolg • Geeignet für Menschen, die mit Affiliate-Marketing starten oder ihre Ergebnisse verbessern möchten Als Partner erhältst du Zugriff auf eine vorbereitete Partnerseite mit: ✓ Affiliate-Links für deine Bewerbung ✓ E-Mail-Vorlagen ✓ Social-Media-Posts ✓ Grafiken und weitere Werbemittel Starte jetzt deine Bewerbung und profitiere von einer starken Produktleiter: Affiliate Startplan – Einstieg ins Affiliate-Marketing Affiliate Profits – Das System für strukturiertes Affiliate-Marketing Provision Mastery – Strategien für die nächste Stufe Als Partner erhältst du Zugriff auf unsere exklusive Partnerseite mit fertigen E-Mail-Vorlagen, Social-Media-Posts, und weiteren Werbemitteln: https://stephantiegel.online/partnerprogramm
 
 ## 2. Links
 

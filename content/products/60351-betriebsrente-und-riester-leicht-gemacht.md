@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Betriebsrente und Riester leicht gemacht – Ratgeber mit Vorsorge-Rechner</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Der Ratgeber erklärt Betriebsrente, Riester-Rente und das neue Altersvorsorgedepot, das Riester ab 2027 ablöst. Der <strong>Vorsorge-Rechner</strong> berechnet Abzüge, Freibeträge und Zulagen im alten und im neuen System.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Arbeitnehmer mit Angebot zur Betriebsrente</li>
-<li>Sparer mit Riester-Vertrag</li>
-<li>Menschen, die fürs Alter vorsorgen wollen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Der Arbeitgeber bietet eine Betriebsrente an oder Riester wird umgestellt</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Rente, Geld anlegen, Steuererklärung für Rentner) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Betriebsrente und Riester leicht gemacht – Ratgeber mit Vorsorge-Rechner Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Der Ratgeber erklärt Betriebsrente, Riester-Rente und das neue Altersvorsorgedepot, das Riester ab 2027 ablöst. Der Vorsorge-Rechner berechnet Abzüge, Freibeträge und Zulagen im alten und im neuen System. Die Zielgruppe Arbeitnehmer mit Angebot zur Betriebsrente Sparer mit Riester-Vertrag Menschen, die fürs Alter vorsorgen wollen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Der Arbeitgeber bietet eine Betriebsrente an oder Riester wird umgestellt Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Rente, Geld anlegen, Steuererklärung für Rentner) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

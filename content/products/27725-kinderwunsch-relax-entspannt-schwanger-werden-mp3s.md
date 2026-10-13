@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#ff00ff;"><strong>AFFILIATE-TIPP!</strong></span> Das praxiserprobte Meditations- und Hypnose-Download-Paket <strong>Kinderwunsch-Relax©</strong> von Kathrin Steinke gibt es exklusiv nur hier auf Digistore24 zu kaufen.</p>
-<p>Seit 2014 hat Kinderwunsch-Relax© bereits viele hunderte Frauen auf dem Weg zu ihrer Schwangerschaft begleitet.</p>
-<p>Alle <strong>Infos</strong>, <strong>Hörproben</strong> und <strong>Erfahrungsberichte</strong> findest du auf www.Kinderwunsch-in-Berlin.de:</p>
-<div>» <span style="color:#ff00ff;"><a style="color:#ff00ff;" title="Meditation und Hypnose mit Kinderwunsch-Relax©" href="https://www.kinderwunsch-in-berlin.de/kinderwunsch-hypnose-cds-mp3s.htm" target="_blank" rel="noreferrer noopener">Meditation und Hypnose mit Kinderwunsch-Relax©</a></span></div>
-<div> </div>
-<div><strong>LIEFERUMFANG</strong> (5 MP3s mit Meditationen / Hypnoseübungen und Entspannungsmusik):</div>
-<ol>
-<li>Wachsen » <strong>Reifung der Eizellen</strong> (22:00)</li>
-<li>Empfangen » <strong>Embryonentransfer</strong> (14:15)</li>
-<li>Wartephase I » <strong>Einnistung des Embryos</strong> (19:51)</li>
-<li>Der Baum » <strong>Kraft und innere Stärke</strong> (21:53)</li>
-<li>Wartephase II » <strong>Im Einklang mit deinem Kind</strong> (15:24)</li>
-</ol>
-<p><strong>Gesamtdauer:</strong> 93:23 Minuten</p>
+**Vendor's marketplace description:** AFFILIATE-TIPP! Das praxiserprobte Meditations- und Hypnose-Download-Paket Kinderwunsch-Relax© von Kathrin Steinke gibt es exklusiv nur hier auf Digistore24 zu kaufen. Seit 2014 hat Kinderwunsch-Relax© bereits viele hunderte Frauen auf dem Weg zu ihrer Schwangerschaft begleitet. Alle Infos , Hörproben und Erfahrungsberichte findest du auf www.Kinderwunsch-in-Berlin.de: » Meditation und Hypnose mit Kinderwunsch-Relax© LIEFERUMFANG (5 MP3s mit Meditationen / Hypnoseübungen und Entspannungsmusik): Wachsen » Reifung der Eizellen (22:00) Empfangen » Embryonentransfer (14:15) Wartephase I » Einnistung des Embryos (19:51) Der Baum » Kraft und innere Stärke (21:53) Wartephase II » Im Einklang mit deinem Kind (15:24) Gesamtdauer: 93:23 Minuten
 
 ## 2. Links
 

@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein <strong>Video-Kurs inkl. Volagen für jeden, der schnell und einfach Zendoodles erlernen will</strong>. Hier werden die Grundlagen schnell erklärt. Anhand von enthaltenen <strong>Vorlagen, Übungsblättern</strong> und dazugehöriger <strong>Video-Tutorials</strong> kann mit diesem Kurs wirklich jeder schnell das Zeichnen von Zendoodles erlernen. </p>
-<p>Dieser Kurs beinhaltet</p>
-<ul>
-<li>Zugang zum Video-Kurs mit 8 Übungen (90 Minuten)</li>
-<li>Vorlagen mit 3 Seiten mit Muster-Beispielen und 3 Vorlagen für Zeichnungen</li>
-</ul>
+**Vendor's marketplace description:** Ein Video-Kurs inkl. Volagen für jeden, der schnell und einfach Zendoodles erlernen will . Hier werden die Grundlagen schnell erklärt. Anhand von enthaltenen Vorlagen, Übungsblättern und dazugehöriger Video-Tutorials kann mit diesem Kurs wirklich jeder schnell das Zeichnen von Zendoodles erlernen. Dieser Kurs beinhaltet Zugang zum Video-Kurs mit 8 Übungen (90 Minuten) Vorlagen mit 3 Seiten mit Muster-Beispielen und 3 Vorlagen für Zeichnungen
 
 ## 2. Links
 

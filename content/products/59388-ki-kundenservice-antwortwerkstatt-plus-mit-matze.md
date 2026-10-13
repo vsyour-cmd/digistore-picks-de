@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Erweitere deine Übungen zu KI-unterstützten Kundenservice-Antworten.</p>
-<p>Enthalten:<br />• Antwortwerkstatt Plus als PDF<br />• Bearbeitbare DOCX-Vorlagen<br />• Antwortwerkstatt als Markdown<br />• Szenarienübersicht als CSV<br />• Startanleitung</p>
-<p>ZIP entpacken. Das Paket liefert Lern- und Vorlagendateien, keinen KI-Zugang oder Chatbot-Service. Optionaler Zusatz zum KI-Kundenservice-Praxispaket; der Hauptkurs ist nicht enthalten.</p>
-<p>Schriftliches Downloadprodukt auf Deutsch. Keine Videolektionen, persönliche Betreuung oder enthaltenen Drittanbieter-Abos. Beispiele sind Übungsmaterial; Verkäufe, Aufträge und Einkommen werden nicht zugesagt. Einmalzahlung, kein Abo.</p>
-<p>Anbieter: Einfach mit Matze / Michael Arndt · info@einfachhaltbar.de. Nutzung für die eigene Arbeit gemäß den beiliegenden Nutzungsregeln. Kein Weiterverkauf der Kursdateien.</p>
-<p>Affiliate-Information: 50,00 % Provision. Eigenständig erhältliches Zusatzpaket; der Hauptkurs ist nicht enthalten. Keine garantierten Verkäufe oder Einnahmen. Kontakt: info@einfachhaltbar.de.</p>
+**Vendor's marketplace description:** Erweitere deine Übungen zu KI-unterstützten Kundenservice-Antworten. Enthalten: • Antwortwerkstatt Plus als PDF • Bearbeitbare DOCX-Vorlagen • Antwortwerkstatt als Markdown • Szenarienübersicht als CSV • Startanleitung ZIP entpacken. Das Paket liefert Lern- und Vorlagendateien, keinen KI-Zugang oder Chatbot-Service. Optionaler Zusatz zum KI-Kundenservice-Praxispaket; der Hauptkurs ist nicht enthalten. Schriftliches Downloadprodukt auf Deutsch. Keine Videolektionen, persönliche Betreuung oder enthaltenen Drittanbieter-Abos. Beispiele sind Übungsmaterial; Verkäufe, Aufträge und Einkommen werden nicht zugesagt. Einmalzahlung, kein Abo. Anbieter: Einfach mit Matze / Michael Arndt · info@einfachhaltbar.de. Nutzung für die eigene Arbeit gemäß den beiliegenden Nutzungsregeln. Kein Weiterverkauf der Kursdateien. Affiliate-Information: 50,00 % Provision. Eigenständig erhältliches Zusatzpaket; der Hauptkurs ist nicht enthalten. Keine garantierten Verkäufe oder Einnahmen. Kontakt: info@einfachhaltbar.de.
 
 ## 2. Links
 

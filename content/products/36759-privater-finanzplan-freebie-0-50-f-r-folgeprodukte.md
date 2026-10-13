@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verschenke den Finanzplan-Freebie </strong>und profitiere von Vollversion-Verkäufen und Upsells 1+2+3+4.</p>
-<p>Deine Vorteile:<br /> </p>
-<ul>
-<li><strong>50% Provision</strong> für Folgeprodukte</li>
-<li>Coversionsrate 62%</li>
-<li>Verkaufsrate der Vollversion 8% </li>
-<li>Stornofreie Provisionen</li>
-<li>Email-Vorlagen</li>
-<li>Blog-Artikel Vorlage</li>
-</ul>
-<p>Melde dich jetzt zum Partnerprogramm an und erhalte Provisionen mit einem für den Markt hoch relevanten und verkaufsstarken Angebot!</p>
+**Vendor's marketplace description:** Verschenke den Finanzplan-Freebie und profitiere von Vollversion-Verkäufen und Upsells 1+2+3+4. Deine Vorteile: 50% Provision für Folgeprodukte Coversionsrate 62% Verkaufsrate der Vollversion 8% Stornofreie Provisionen Email-Vorlagen Blog-Artikel Vorlage Melde dich jetzt zum Partnerprogramm an und erhalte Provisionen mit einem für den Markt hoch relevanten und verkaufsstarken Angebot!
 
 ## 2. Links
 

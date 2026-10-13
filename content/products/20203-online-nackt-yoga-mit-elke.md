@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Onlin</strong><strong>e Nackt Yoga Videos &amp; Workouts mit Elke Lechner</strong></p>
-<p>Nacktyoga.net ist die größte Nackt Yoga Mitgliederseite Deutschlands mit Kunden aus der ganzen Welt. </p>
-<p>In ihren Nackt Yoga Videos zeigt Elke verschiedene Yoga Übungen und Stellungen für Anfänger und Fortgeschrittene. </p>
-<p> </p>
-<p><strong>BEKANNT AUS PRINT, TV, RADIO und WEB</strong></p>
-<p> </p>
-<p>Schwerpunkte sind Gesundheit, Fitness und die anatomisch korrekte Ausführung der Übungen. </p>
-<p> </p>
-<p><a href="https://nacktyoga.net/" target="_blank" rel="noreferrer noopener">www.nacktyoga.net</a></p>
-<p> </p>
+**Vendor's marketplace description:** Onlin e Nackt Yoga Videos & Workouts mit Elke Lechner Nacktyoga.net ist die größte Nackt Yoga Mitgliederseite Deutschlands mit Kunden aus der ganzen Welt. In ihren Nackt Yoga Videos zeigt Elke verschiedene Yoga Übungen und Stellungen für Anfänger und Fortgeschrittene. BEKANNT AUS PRINT, TV, RADIO und WEB Schwerpunkte sind Gesundheit, Fitness und die anatomisch korrekte Ausführung der Übungen. www.nacktyoga.net
 
 ## 2. Links
 

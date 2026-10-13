@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Deine Energie gehört dir</h3>
-<p><em><strong>Der natürliche Umgang mit fremden Energien im Alltag</strong></em></p>
-<p>Dieses Buch zeigt dir einen bodenständigen Weg, wie du dich schützt und klare Grenzen ziehst – ganz ohne Schuldgefühle.</p>
-<h3>Dein Begleiter für:</h3>
-<ul>
-<li>
-<p><strong>Die feine Unterscheidung:</strong> Spüre klar, was wirklich zu dir gehört und was nicht.</p>
-</li>
-<li>
-<p><strong>Natürliche Grenzen:</strong> Erfahre, wie du im Kontakt mit anderen bei dir bleibst.</p>
-</li>
-<li>
-<p><strong>Orientierung im Alltag:</strong> Finde deinen Weg in Beziehungen, im Beruf und im Umgang mit digitalen Reizen.</p>
-</li>
-</ul>
-<h3>Für wen?</h3>
-<p>Für alle Empathen und sensiblen Menschen, die sich nach mehr emotionaler Leichtigkeit sehnen und endlich wieder bei sich selbst bleiben wollen.</p>
-<p> </p>
-<p>Du erhälst dieses Produkt als digitales E-Book direkt nach dem Kauf per Email/Download.</p>
+**Vendor's marketplace description:** Deine Energie gehört dir Der natürliche Umgang mit fremden Energien im Alltag Dieses Buch zeigt dir einen bodenständigen Weg, wie du dich schützt und klare Grenzen ziehst – ganz ohne Schuldgefühle. Dein Begleiter für: Die feine Unterscheidung: Spüre klar, was wirklich zu dir gehört und was nicht. Natürliche Grenzen: Erfahre, wie du im Kontakt mit anderen bei dir bleibst. Orientierung im Alltag: Finde deinen Weg in Beziehungen, im Beruf und im Umgang mit digitalen Reizen. Für wen? Für alle Empathen und sensiblen Menschen, die sich nach mehr emotionaler Leichtigkeit sehnen und endlich wieder bei sich selbst bleiben wollen. Du erhälst dieses Produkt als digitales E-Book direkt nach dem Kauf per Email/Download.
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Wichtige Werte – kindgerecht, farbenfroh und herzerwärmend</h2>
-<p>Blubo ist ein liebevoll illustriertes Vorlesebuch für Kinder ab 3 Jahren – und ein Herzensbuch für die ganze Familie. Es erzählt von Neugier, Vielfalt und dem Zauber echter Freundschaft.</p>
-<p>So vielfältig wie der Regenbogen.<br />Jede Farbe in Blubos Welt erzählt ihre eigene Geschichte:<br />Blau steht für Weite und Sehnsucht, Rot für Wärme und Freundschaft, Gelb für Licht und Freude, Grün für Natur und Wachstum.</p>
-<p>Der Regenbogen vereint sie alle – als Zeichen für Vielfalt, Schönheit und das Wunder des Zusammenlebens.</p>
-<div>
-<div>
-<p>Hochwertiges Hardcover</p>
-<p>Handliches DIN A5 Format</p>
-<p>Leuchtende Illustrationen in 32 Seiten voller Farben</p>
-</div>
-</div>
+**Vendor's marketplace description:** Wichtige Werte – kindgerecht, farbenfroh und herzerwärmend Blubo ist ein liebevoll illustriertes Vorlesebuch für Kinder ab 3 Jahren – und ein Herzensbuch für die ganze Familie. Es erzählt von Neugier, Vielfalt und dem Zauber echter Freundschaft. So vielfältig wie der Regenbogen. Jede Farbe in Blubos Welt erzählt ihre eigene Geschichte: Blau steht für Weite und Sehnsucht, Rot für Wärme und Freundschaft, Gelb für Licht und Freude, Grün für Natur und Wachstum. Der Regenbogen vereint sie alle – als Zeichen für Vielfalt, Schönheit und das Wunder des Zusammenlebens. Hochwertiges Hardcover Handliches DIN A5 Format Leuchtende Illustrationen in 32 Seiten voller Farben
 
 ## 2. Links
 

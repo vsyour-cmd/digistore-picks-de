@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Der Gastro-Recruiting-Plan“</strong></p>
-<p>Wie du Kellner, Köche und Servicekräfte findest, bevor es deine Konkurrenz tut – Gute Köche, Kellner und Servicekräfte zu finden ist für viele Gastronomen die größte Herausforderung. Dieser Ratgeber zeigt dir einen praxiserprobten Recruiting-Plan: von der Stellenanzeige über die besten Kanäle bis zu Bewerbungsgespräch, Einarbeitung und Mitarbeiterbindung.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 12,48 € pro Verkauf (Verkaufspreis 24,95 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Der Fachkräftemangel in der Gastronomie: ehrliche Bestandsaufnahme</li>
-<li>Dein Arbeitgeber-Image: warum gute Leute zu dir wollen sollen</li>
-<li>Die Stellenanzeige, die wirklich gelesen und beantwortet wird</li>
-<li>Die richtigen Kanäle: wo du Köche, Kellner und Servicekräfte findest</li>
-<li>Bewerbungsgespräch und Probearbeiten: die Richtigen erkennen</li>
-<li>Einarbeitung und Onboarding: damit neue Leute bleiben</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Der Gastro-Recruiting-Plan“ Wie du Kellner, Köche und Servicekräfte findest, bevor es deine Konkurrenz tut – Gute Köche, Kellner und Servicekräfte zu finden ist für viele Gastronomen die größte Herausforderung. Dieser Ratgeber zeigt dir einen praxiserprobten Recruiting-Plan: von der Stellenanzeige über die besten Kanäle bis zu Bewerbungsgespräch, Einarbeitung und Mitarbeiterbindung. Warum dieses E-Book bewerben? 50 % Provision – ca. 12,48 € pro Verkauf (Verkaufspreis 24,95 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Der Fachkräftemangel in der Gastronomie: ehrliche Bestandsaufnahme Dein Arbeitgeber-Image: warum gute Leute zu dir wollen sollen Die Stellenanzeige, die wirklich gelesen und beantwortet wird Die richtigen Kanäle: wo du Köche, Kellner und Servicekräfte findest Bewerbungsgespräch und Probearbeiten: die Richtigen erkennen Einarbeitung und Onboarding: damit neue Leute bleiben
 
 ## 2. Links
 

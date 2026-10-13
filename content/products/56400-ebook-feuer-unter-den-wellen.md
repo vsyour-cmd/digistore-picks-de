@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein faszinierendes Sachthema mit hoher Bildungs- und Entdeckungsrelevanz:</p>
-<p>Dieses Buch macht die verborgene Welt der Vulkane im Mittelmeerraum verständlich und verbindet fundiertes Wissen mit anschaulicher Darstellung geologischer Prozesse und historischer Ereignisse.</p>
-<p>Es spricht eine breite Zielgruppe an – von naturwissenschaftlich Interessierten über Reisende bis hin zu wissbegierigen Lesern, die komplexe Zusammenhänge klar erklärt bekommen möchten.</p>
-<p>Die Kombination aus Wissenschaft, Geschichte und realen Gefahren erzeugt starke Aufmerksamkeit und eignet sich ideal für Content rund um Bildung, Dokumentation und Wissensvermittlung.</p>
-<p>Ein überzeugend positioniertes Produkt mit nachhaltigem Interesse und solidem Verkaufspotenzial für Affiliates.</p>
+**Vendor's marketplace description:** Ein faszinierendes Sachthema mit hoher Bildungs- und Entdeckungsrelevanz: Dieses Buch macht die verborgene Welt der Vulkane im Mittelmeerraum verständlich und verbindet fundiertes Wissen mit anschaulicher Darstellung geologischer Prozesse und historischer Ereignisse. Es spricht eine breite Zielgruppe an – von naturwissenschaftlich Interessierten über Reisende bis hin zu wissbegierigen Lesern, die komplexe Zusammenhänge klar erklärt bekommen möchten. Die Kombination aus Wissenschaft, Geschichte und realen Gefahren erzeugt starke Aufmerksamkeit und eignet sich ideal für Content rund um Bildung, Dokumentation und Wissensvermittlung. Ein überzeugend positioniertes Produkt mit nachhaltigem Interesse und solidem Verkaufspotenzial für Affiliates.
 
 ## 2. Links
 

@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Geld verdienen mit KI“</strong></p>
-<p>Wie Einsteiger ChatGPT und Co. sinnvoll nutzen – KI ist ein mächtiges Werkzeug, aber kein Geldautomat. Was KI heute kann und was nicht, realistische Wege Geld zu verdienen, Texte, Bilder und Dienstleistungen mit KI und gute Prompts als Handwerk.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Was KI heute wirklich kann und was nicht</li>
-<li>Realistische Wege, mit KI Geld zu verdienen</li>
-<li>Texte, Bilder und Dienstleistungen mit KI</li>
-<li>Recht, Kennzeichnung und Urheberrecht beachten</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Geld verdienen mit KI“ Wie Einsteiger ChatGPT und Co. sinnvoll nutzen – KI ist ein mächtiges Werkzeug, aber kein Geldautomat. Was KI heute kann und was nicht, realistische Wege Geld zu verdienen, Texte, Bilder und Dienstleistungen mit KI und gute Prompts als Handwerk. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Was KI heute wirklich kann und was nicht Realistische Wege, mit KI Geld zu verdienen Texte, Bilder und Dienstleistungen mit KI Recht, Kennzeichnung und Urheberrecht beachten
 
 ## 2. Links
 

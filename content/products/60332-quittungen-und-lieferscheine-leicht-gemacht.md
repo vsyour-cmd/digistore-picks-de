@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Quittungen und Lieferscheine leicht gemacht – Ratgeber mit Quittungs-Generator</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Mit dem <strong>Quittungs-Generator</strong> entstehen Quittungen und Lieferscheine in 12 Designs als PDF. Er rechnet die Mehrwertsteuer heraus und schreibt den Betrag in Worten. Dazu erklärt eine kurze Anleitung, was auf die Quittung gehört.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Selbstständige und Kleinunternehmer</li>
-<li>Vereine und Vermieter</li>
-<li>Privatleute, die etwas verkaufen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Jemand zahlt bar und braucht eine Quittung</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Rechnungen schreiben, Angebote schreiben, Mahnungen schreiben) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Quittungen und Lieferscheine leicht gemacht – Ratgeber mit Quittungs-Generator Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Mit dem Quittungs-Generator entstehen Quittungen und Lieferscheine in 12 Designs als PDF. Er rechnet die Mehrwertsteuer heraus und schreibt den Betrag in Worten. Dazu erklärt eine kurze Anleitung, was auf die Quittung gehört. Die Zielgruppe Selbstständige und Kleinunternehmer Vereine und Vermieter Privatleute, die etwas verkaufen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Jemand zahlt bar und braucht eine Quittung Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Rechnungen schreiben, Angebote schreiben, Mahnungen schreiben) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

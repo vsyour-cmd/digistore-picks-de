@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<p><span style="background-color:#ffff00;"><strong>Facebook Marketing Secrets </strong></span></p>
-</div>
-</div>
-<div>
-<p><strong>Das ist alles drinnen:</strong></p>
-<p>✅  Das erstellen von gezielten Anzeigen</p>
-<p>✅  Schritt für Schritt zu Deiner ersten Facebook Anzeige</p>
-<p>✅  Tipps und Trick zur Klickrate</p>
-<p>✅  5BS? ist natürlich erlaubt</p>
-<p><span style="background-color:#ffff00;"><strong>Du bekommst 80 % des Netto-Gewinns </strong><strong>(ca. 5 Euro) </strong></span></p>
-<p><span style="background-color:#ffff00;"> <strong>Inklusive 70 % des Netto Gewinn vom Upsell (Video Kurs über Affiliate Marketing ca. 150 Euro Netto Provision)</strong></span></p>
-<p><span style="background-color:#ffff00;"><strong>Hohe Conversion, da es eine Testwoche gibt an der Du mitverdienst!</strong></span></p>
-</div>
+**Vendor's marketplace description:** Facebook Marketing Secrets Das ist alles drinnen: ✅ Das erstellen von gezielten Anzeigen ✅ Schritt für Schritt zu Deiner ersten Facebook Anzeige ✅ Tipps und Trick zur Klickrate ✅ 5BS? ist natürlich erlaubt Du bekommst 80 % des Netto-Gewinns (ca. 5 Euro) Inklusive 70 % des Netto Gewinn vom Upsell (Video Kurs über Affiliate Marketing ca. 150 Euro Netto Provision) Hohe Conversion, da es eine Testwoche gibt an der Du mitverdienst!
 
 ## 2. Links
 

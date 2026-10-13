@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Vom Vorsatz zum System – dein 70-seitiges Workbook für konsequente Umsetzung</strong></p>
-<p>Du weißt häufig, was du tun möchtest – aber im Alltag fehlt dir ein System, das dich auch bei wenig Motivation handlungsfähig hält?</p>
-<p>Dieses Workbook unterstützt dich dabei, deine bisherigen Muster zu reflektieren und Schritt für Schritt ein persönliches, alltagstaugliches Umsetzungssystem zu entwickeln.</p>
-<p><strong>Das erhältst du:</strong></p>
-<ul>
-<li>70 Seiten im A4-Format</li>
-<li>acht aufeinander aufbauende Kapitel</li>
-<li>praktische Reflexionsübungen</li>
-<li>Tracker und direkt nutzbare Vorlagen</li>
-<li>Mindestversionen für schwierige Tage</li>
-<li>Wenn-dann-Pläne für typische Hindernisse</li>
-<li>ein Rückkehrsystem für Unterbrechungen und Rückschläge</li>
-</ul>
-<p><strong>Format:</strong> Statisches PDF ohne direkt ausfüllbare Formularfelder. Du kannst es ausdrucken oder mit den Notiz- und Zeichenfunktionen einer geeigneten PDF-App bearbeiten.</p>
-<p>Nach erfolgreicher Zahlung erhältst du per E-Mail Zugriff auf den PDF-Download.</p>
-<p>Das Workbook dient der persönlichen Reflexion und eigenständigen Umsetzung. Ein bestimmter persönlicher, beruflicher oder wirtschaftlicher Erfolg wird nicht garantiert.</p>
+**Vendor's marketplace description:** Vom Vorsatz zum System – dein 70-seitiges Workbook für konsequente Umsetzung Du weißt häufig, was du tun möchtest – aber im Alltag fehlt dir ein System, das dich auch bei wenig Motivation handlungsfähig hält? Dieses Workbook unterstützt dich dabei, deine bisherigen Muster zu reflektieren und Schritt für Schritt ein persönliches, alltagstaugliches Umsetzungssystem zu entwickeln. Das erhältst du: 70 Seiten im A4-Format acht aufeinander aufbauende Kapitel praktische Reflexionsübungen Tracker und direkt nutzbare Vorlagen Mindestversionen für schwierige Tage Wenn-dann-Pläne für typische Hindernisse ein Rückkehrsystem für Unterbrechungen und Rückschläge Format: Statisches PDF ohne direkt ausfüllbare Formularfelder. Du kannst es ausdrucken oder mit den Notiz- und Zeichenfunktionen einer geeigneten PDF-App bearbeiten. Nach erfolgreicher Zahlung erhältst du per E-Mail Zugriff auf den PDF-Download. Das Workbook dient der persönlichen Reflexion und eigenständigen Umsetzung. Ein bestimmter persönlicher, beruflicher oder wirtschaftlicher Erfolg wird nicht garantiert.
 
 ## 2. Links
 

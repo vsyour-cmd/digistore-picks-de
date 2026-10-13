@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong> Dieses liebevoll gestaltete Achtsamkeits-Workbook begleitet die Käufer Schritt für Schritt durch 30 Tage mit einfachen, alltagstauglichen Übungen und Reflexionsimpulsen. </strong></p>
-<p>Das Workbook eignet sich besonders für Menschen, die Achtsamkeit unkompliziert in ihren Alltag integrieren und sich regelmäßig kleine bewusste Auszeiten nehmen möchten.</p>
-<p><span style="color:#ff9900;"><strong>Das ist enthalten: </strong></span></p>
-<p><span style="color:#ff9900;"><strong>✓ 30 Tagesimpulse rund um Achtsamkeit </strong></span></p>
-<p><span style="color:#ff9900;"><strong>✓ Praktische Übungen für den Alltag </strong></span></p>
-<p><span style="color:#ff9900;"><strong>✓ Reflexionsfragen mit Platz für eigene Gedanken </strong></span></p>
-<p><span style="color:#ff9900;"><strong>✓ Achtsamkeits-Tracker für 30 Tage </strong></span></p>
-<p><span style="color:#ff9900;"><strong>✓ Regelmäßige Wochenrückblicke</strong></span></p>
-<p><span style="color:#ff9900;"><strong> ✓ Persönlicher 30-Tage-Abschluss</strong></span></p>
-<p><span style="color:#ff9900;"><strong> ✓ 50 Achtsamkeitskarten zum Ausschneiden und Verwenden </strong></span></p>
-<p><span style="color:#ff9900;"><strong>✓ Hochwertiges digitales PDF zum direkten Download </strong></span></p>
-<p>Die Übungen beschäftigen sich unter anderem mit bewusstem Atmen, Dankbarkeit, Körperwahrnehmung, achtsamem Essen, Gedanken und Gefühlen, digitalen Pausen, Selbstmitgefühl und kleinen Ruheinseln im Alltag.</p>
-<p><strong>Ideal für Achtsamkeits-Einsteiger, die sich eine klare Struktur wünschen und ohne komplizierte Methoden beginnen möchten. Das Produkt wird nach dem Kauf als digitales PDF bereitgestellt. </strong></p>
-<p>Hinweis: Das Workbook dient der persönlichen Reflexion und allgemeinen Achtsamkeitspraxis und ersetzt keine medizinische oder psychotherapeutische Behandlung. --</p>
+**Vendor's marketplace description:** Dieses liebevoll gestaltete Achtsamkeits-Workbook begleitet die Käufer Schritt für Schritt durch 30 Tage mit einfachen, alltagstauglichen Übungen und Reflexionsimpulsen. Das Workbook eignet sich besonders für Menschen, die Achtsamkeit unkompliziert in ihren Alltag integrieren und sich regelmäßig kleine bewusste Auszeiten nehmen möchten. Das ist enthalten: ✓ 30 Tagesimpulse rund um Achtsamkeit ✓ Praktische Übungen für den Alltag ✓ Reflexionsfragen mit Platz für eigene Gedanken ✓ Achtsamkeits-Tracker für 30 Tage ✓ Regelmäßige Wochenrückblicke ✓ Persönlicher 30-Tage-Abschluss ✓ 50 Achtsamkeitskarten zum Ausschneiden und Verwenden ✓ Hochwertiges digitales PDF zum direkten Download Die Übungen beschäftigen sich unter anderem mit bewusstem Atmen, Dankbarkeit, Körperwahrnehmung, achtsamem Essen, Gedanken und Gefühlen, digitalen Pausen, Selbstmitgefühl und kleinen Ruheinseln im Alltag. Ideal für Achtsamkeits-Einsteiger, die sich eine klare Struktur wünschen und ohne komplizierte Methoden beginnen möchten. Das Produkt wird nach dem Kauf als digitales PDF bereitgestellt. Hinweis: Das Workbook dient der persönlichen Reflexion und allgemeinen Achtsamkeitspraxis und ersetzt keine medizinische oder psychotherapeutische Behandlung. --
 
 ## 2. Links
 

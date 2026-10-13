@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4 style="text-align:left;"><strong>Verschenke das eBook oder verwende es als persönlichen Leadmagnet und sammle E-Mail Adressen am Fließband!</strong></h4>
-<p style="text-align:left;">Du kannst mein eBook verwenden und wirst dafür sogar noch bezahlt.</p>
-<ul>
-<li><strong>50% Provision </strong><strong>an den Orderbumps</strong></li>
-<li>Hohe Conversion durch niedrigen Einstieg(0€)</li>
-<li>50% Provision auf alle Up- &amp; Downsells</li>
-</ul>
-<p style="text-align:left;"><strong>Einfacher kannst Du keine E-Mail Liste aufbauen und noch Geld verdienen. </strong></p>
-<p style="text-align:left;"> </p>
-<p style="text-align:left;"><strong> Deine Vorteile als Affiliate auf einen Blick:</strong></p>
-<ul>
-<li style="text-align:left;"><strong> Durch Order Bump auf der Bestellseite, direkt mehr Provisionen bekommen </strong></li>
-<li style="text-align:left;"><strong>Die Verkaufsseite wird stetig Conversion optimiert </strong></li>
-<li style="text-align:left;"><strong>Ideales Produkt für "jeden" der mit Affiliate Marketing starten möchte</strong></li>
-<li style="text-align:left;"><strong>Die Verkaufsseite ist speziel mobil optimiert, um beste Ergebnisse zu erzielen</strong></li>
-<li style="text-align:left;"><strong>Du kannst es als deinen eigenen Leadmagnet verwenden </strong></li>
-</ul>
-<p style="text-align:left;"> </p>
-<p style="text-align:left;"> </p>
+**Vendor's marketplace description:** Verschenke das eBook oder verwende es als persönlichen Leadmagnet und sammle E-Mail Adressen am Fließband! Du kannst mein eBook verwenden und wirst dafür sogar noch bezahlt. 50% Provision an den Orderbumps Hohe Conversion durch niedrigen Einstieg(0€) 50% Provision auf alle Up- & Downsells Einfacher kannst Du keine E-Mail Liste aufbauen und noch Geld verdienen. Deine Vorteile als Affiliate auf einen Blick: Durch Order Bump auf der Bestellseite, direkt mehr Provisionen bekommen Die Verkaufsseite wird stetig Conversion optimiert Ideales Produkt für "jeden" der mit Affiliate Marketing starten möchte Die Verkaufsseite ist speziel mobil optimiert, um beste Ergebnisse zu erzielen Du kannst es als deinen eigenen Leadmagnet verwenden
 
 ## 2. Links
 

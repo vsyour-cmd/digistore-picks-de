@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Affiliate Marketing skalieren“</strong></p>
-<p>Hochpreis-Provisionen und automatisierte Funnels – Aus gelegentlichen Provisionen wird erst mit System ein planbares Geschäft. Funnels, E-Mail-Listen, Content-Skalierung und Automatisierung – praxisnah.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Vom Nebenverdienst zum planbaren Affiliate-Business</li>
-<li>Hochpreis- und Recurring-Provisionen auswählen</li>
-<li>Funnels und E-Mail-Listen rechtssicher aufbauen (DSGVO)</li>
-<li>Automatisieren, diversifizieren und Risiken im Blick</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Affiliate Marketing skalieren“ Hochpreis-Provisionen und automatisierte Funnels – Aus gelegentlichen Provisionen wird erst mit System ein planbares Geschäft. Funnels, E-Mail-Listen, Content-Skalierung und Automatisierung – praxisnah. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Vom Nebenverdienst zum planbaren Affiliate-Business Hochpreis- und Recurring-Provisionen auswählen Funnels und E-Mail-Listen rechtssicher aufbauen (DSGVO) Automatisieren, diversifizieren und Risiken im Blick
 
 ## 2. Links
 

@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Der Ratgeber um ein ortsunabhängiges und passives Einkommen online aufzubauen ...</h4>
-<p>Erfahre,<strong> wie ich es als Alleinerziehender </strong>mit 2 Kindern online geschafft habe, <strong>ich verrate Dir:</strong></p>
-<p><br />Kostenloses E-Book ...</p>
-<ul>
-<li>Dieses E-Book funktioniert sehr gut für Affiliate Anfänger und Fortgeschrittene</li>
-<li>Perfektes Produkt für "jeden", der mit seinem online Business / Affiliate Marketing starten oder weiterkommen will und nach wertvollen Tipps sucht.</li>
-<li>Du hast mit diesem E-Book ein Geschenk für Deine Community und wirst am kompletten Sales-Funnel beteiligt!</li>
-</ul>
-<p><strong>Hohe Conversion, da es für den Kunden kostenlos ist.</strong><br /><br /><strong>60% Provision auf Verkauf, Add-on und Upsell ein. </strong><br /><strong>Plus: 15% Lifetime-Provision auf alle Folgeverkäufe!</strong><br /><br />Der Upsell-Prozess wird laufend optimiert und angepasst. <br /><br />Über 82€ im Funnel für Dich möglich!<br /><br />Viel Erfolg und fette Beute!</p>
+**Vendor's marketplace description:** Der Ratgeber um ein ortsunabhängiges und passives Einkommen online aufzubauen ... Erfahre, wie ich es als Alleinerziehender mit 2 Kindern online geschafft habe, ich verrate Dir: Kostenloses E-Book ... Dieses E-Book funktioniert sehr gut für Affiliate Anfänger und Fortgeschrittene Perfektes Produkt für "jeden", der mit seinem online Business / Affiliate Marketing starten oder weiterkommen will und nach wertvollen Tipps sucht. Du hast mit diesem E-Book ein Geschenk für Deine Community und wirst am kompletten Sales-Funnel beteiligt! Hohe Conversion, da es für den Kunden kostenlos ist. 60% Provision auf Verkauf, Add-on und Upsell ein. Plus: 15% Lifetime-Provision auf alle Folgeverkäufe! Der Upsell-Prozess wird laufend optimiert und angepasst. Über 82€ im Funnel für Dich möglich! Viel Erfolg und fette Beute!
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><a href="https://drive.google.com/drive/folders/14YeDMdsSLKTB4H_6knkffNzcWpNVoLXj" target="_blank" rel="noreferrer noopener">Vídeos ads</a> for promotions.</p>
-<p>74 Seiten XXL Malbuch: Deutsche Nationalmannschaft 2026 - Zum Ausmalen für echte Fußballfans</p>
-<p style="padding-left:40px;"> </p>
+**Vendor's marketplace description:** Vídeos ads for promotions. 74 Seiten XXL Malbuch: Deutsche Nationalmannschaft 2026 - Zum Ausmalen für echte Fußballfans
 
 ## 2. Links
 

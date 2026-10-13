@@ -41,47 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die meisten Trader scheitern nicht an ihrer Strategie. Sie scheitern an ihrem Zustand.</strong></p>
-<p>FOMO. Revenge Trading. Overtrading. Panic Exit. Paralysis. Das sind keine Charakterschwächen – das sind biologische Reaktionen eines unregulierten Nervensystems. Unter Stress unterdrückt die Amygdala den präfrontalen Kortex. Der Trader weiß, was er tun sollte. Er kann es nur nicht mehr.</p>
-<p><strong>Trading Breathwork ist die Brücke zwischen moderner Nervensystem-Regulation und der Realität am Chart.</strong></p>
-<p>Entwickelt von Corrina Holzner – Breathwork-Trainerin, Unternehmerin und selbst aktive Traderin.</p>
-<hr />
-<p><strong>Was deine Käufer bekommen:</strong></p>
-<p>6 Kapitel · 30+ Lektionen · 1 vollständiges System</p>
-<ul>
-<li>Kapitel 1 – Einführung &amp; Grundlagen</li>
-<li>Kapitel 2 – Dein Nervensystem verstehen</li>
-<li>Kapitel 3 – Die 7 Core-Techniken</li>
-<li>Kapitel 4 – Trading-Routinen (Pre-Market, Pre-Trade, Post-Session)</li>
-<li>Kapitel 5 – Fortgeschrittene Praxis (HRV, CO₂-Toleranz, Stressimpfung)</li>
-<li>Kapitel 6 – Integration &amp; Langzeiterfolg (30-Tage-Plan)</li>
-</ul>
-<hr />
-<p><strong>Die 7 Core-Techniken:</strong></p>
-<ol>
-<li>Box Breathing – Vor Entscheidungen</li>
-<li>1:2 Atmung – Nach Verlusten</li>
-<li>Trading Sigh™ – Sofort-Reset in unter 30 Sekunden (Stanford 2023)</li>
-<li>Resonanz-Atmung – HRV-Langzeittraining</li>
-<li>Aktivierende Atmung – Raus aus der Paralysis</li>
-<li>Trades-Breath – Der Filter zwischen Impuls und Klick</li>
-<li>Abschluss-Reset – Physiologisches Session-Ende</li>
-</ol>
-<hr />
-<p><strong>Warum sich der Kurs für dich als Affiliate lohnt:</strong></p>
-<ul>
-<li><strong>30 % Provision = €74,70 pro Sale</strong></li>
-<li>Klare, hochzahlungsbereite Zielgruppe: aktive Trader im DACH-Raum (28–55)</li>
-<li>Starkes Verkaufsargument: <em>€249 ist weniger als ein einziger schlechter Trade</em></li>
-<li>Premium-Positionierung in einem Markt ohne direkte Konkurrenz</li>
-<li>Markeneigene Technik (Trading Sigh™) – exklusiv in diesem Kurs</li>
-<li>Wissenschaftlich fundiert – niedrige Refund-Quote zu erwarten</li>
-</ul>
-<hr />
-<p><strong>Ideale Bewerbung über:</strong></p>
-<p>Trading-Communities · YouTube-Kanäle zu Daytrading &amp; Krypto · Newsletter rund um Trading-Psychologie · Discord-Server · Instagram &amp; TikTok mit Trader-Audience · Blogs zu Performance-Mindset</p>
-<hr />
-<p><strong>Zielgruppe:</strong> Aktive Trader im DACH-Raum, 28–55 Jahre <strong>Sprache:</strong> Deutsch <strong>Format:</strong> Online-Kurs mit Begleitskript (PDF), lebenslanger Zugang <strong>Verkaufspreis:</strong> €249</p>
+**Vendor's marketplace description:** Die meisten Trader scheitern nicht an ihrer Strategie. Sie scheitern an ihrem Zustand. FOMO. Revenge Trading. Overtrading. Panic Exit. Paralysis. Das sind keine Charakterschwächen – das sind biologische Reaktionen eines unregulierten Nervensystems. Unter Stress unterdrückt die Amygdala den präfrontalen Kortex. Der Trader weiß, was er tun sollte. Er kann es nur nicht mehr. Trading Breathwork ist die Brücke zwischen moderner Nervensystem-Regulation und der Realität am Chart. Entwickelt von Corrina Holzner – Breathwork-Trainerin, Unternehmerin und selbst aktive Traderin. Was deine Käufer bekommen: 6 Kapitel · 30+ Lektionen · 1 vollständiges System Kapitel 1 – Einführung & Grundlagen Kapitel 2 – Dein Nervensystem verstehen Kapitel 3 – Die 7 Core-Techniken Kapitel 4 – Trading-Routinen (Pre-Market, Pre-Trade, Post-Session) Kapitel 5 – Fortgeschrittene Praxis (HRV, CO₂-Toleranz, Stressimpfung) Kapitel 6 – Integration & Langzeiterfolg (30-Tage-Plan) Die 7 Core-Techniken: Box Breathing – Vor Entscheidungen 1:2 Atmung – Nach Verlusten Trading Sigh™ – Sofort-Reset in unter 30 Sekunden (Stanford 2023) Resonanz-Atmung – HRV-Langzeittraining Aktivierende Atmung – Raus aus der Paralysis Trades-Breath – Der Filter zwischen Impuls und Klick Abschluss-Reset – Physiologisches Session-Ende Warum sich der Kurs für dich als Affiliate lohnt: 30 % Provision = €74,70 pro Sale Klare, hochzahlungsbereite Zielgruppe: aktive Trader im DACH-Raum (28–55) Starkes Verkaufsargument: €249 ist weniger als ein einziger schlechter Trade Premium-Positionierung in einem Markt ohne direkte Konkurrenz Markeneigene Technik (Trading Sigh™) – exklusiv in diesem Kurs Wissenschaftlich fundiert – niedrige Refund-Quote zu erwarten Ideale Bewerbung über: Trading-Communities · YouTube-Kanäle zu Daytrading & Krypto · Newsletter rund um Trading-Psychologie · Discord-Server · Instagram & TikTok mit Trader-Audience · Blogs zu Performance-Mindset Zielgruppe: Aktive Trader im DACH-Raum, 28–55 Jahre Sprache: Deutsch Format: Online-Kurs mit Begleitskript (PDF), lebenslanger Zugang Verkaufspreis: €249
 
 ## 2. Links
 

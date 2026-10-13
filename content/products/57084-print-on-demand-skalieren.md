@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Print on Demand skalieren"</strong></p>
-<p>Vom Zufallsverkauf zur echten Marke: Wie du mit Nischen-Branding aus Print on Demand mehr machst – Bestseller erkennen, Serien aufbauen, mehrere Plattformen und einen eigenen Shop nutzen, Designs auslagern und gezielt werben. Praxisnah und ehrlich.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema: Online-Business &amp; Geld verdienen</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Aus einem Einzeldesign eine echte Marke entwickeln</li>
-<li>Eine Nische besetzen und unverwechselbar werden</li>
-<li>Bestseller erkennen und Serien aufbauen</li>
-<li>Mehrere Plattformen und einen eigenen Shop verbinden</li>
-<li>Designs auslagern und gezielt für Reichweite sorgen</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Menschen, die online ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Print on Demand skalieren" Vom Zufallsverkauf zur echten Marke: Wie du mit Nischen-Branding aus Print on Demand mehr machst – Bestseller erkennen, Serien aufbauen, mehrere Plattformen und einen eigenen Shop nutzen, Designs auslagern und gezielt werben. Praxisnah und ehrlich. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema: Online-Business & Geld verdienen Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Aus einem Einzeldesign eine echte Marke entwickeln Eine Nische besetzen und unverwechselbar werden Bestseller erkennen und Serien aufbauen Mehrere Plattformen und einen eigenen Shop verbinden Designs auslagern und gezielt für Reichweite sorgen Für deine Zielgruppe: Menschen, die online ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

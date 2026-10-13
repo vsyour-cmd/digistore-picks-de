@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#ff0000;"><strong>Achtung:</strong> Nur seriöse Affliates mit passendem Traffic gesucht. Bitte kein Spam in Facebook Gruppen! Bei Zuwiderhandlung wird die Partnerschaft umgehend aufgelöst. </span></p>
-<hr />
-<ul>
-<li>Aquarell Online Grundkurs mit 34 Lektionen verteilt auf 8 starke Module</li>
-<li>Inklusive Vorlagen zum Ausdrucken und Farbangaben</li>
-<li>Der perfekte Einstieg in die wunderbare Welt der Aquarellmalerei</li>
-<li>Wichtiges Materialwissen, um Frust zu vermeiden und schnell Erfolge zu sehen.</li>
-<li>Basistechniken lernen ohne sich selbst dabei zu kritisieren.</li>
-<li>Viele Motive malen lernen mit aufeinander aufbauenden Techniken.</li>
-</ul>
+**Vendor's marketplace description:** Achtung: Nur seriöse Affliates mit passendem Traffic gesucht. Bitte kein Spam in Facebook Gruppen! Bei Zuwiderhandlung wird die Partnerschaft umgehend aufgelöst. Aquarell Online Grundkurs mit 34 Lektionen verteilt auf 8 starke Module Inklusive Vorlagen zum Ausdrucken und Farbangaben Der perfekte Einstieg in die wunderbare Welt der Aquarellmalerei Wichtiges Materialwissen, um Frust zu vermeiden und schnell Erfolge zu sehen. Basistechniken lernen ohne sich selbst dabei zu kritisieren. Viele Motive malen lernen mit aufeinander aufbauenden Techniken.
 
 ## 2. Links
 

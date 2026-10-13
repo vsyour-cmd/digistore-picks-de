@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Für Affiliates:</strong> CloverLinks für Link-in-Bio und Link-Management. 25 % Provision auf Pro und Business, automatische Aufnahme.</p>
-<p>Zielgruppe: Creator, Selbstständige und Teams mit professioneller Link-Seite.</p>
-<ul>
-<li>Pro ab 9 € / Monat (90 € / Jahr)</li>
-<li>Verwandter Tarif: Business</li>
-</ul>
-<p>Salespage: <a href="https://cloverlinks.com">cloverlinks.com</a><br />Affiliate-Support: <a href="https://hih-digital.com/affiliates/cloverlinks.html">hih-digital.com/affiliates/cloverlinks.html</a></p>
+**Vendor's marketplace description:** Für Affiliates: CloverLinks für Link-in-Bio und Link-Management. 25 % Provision auf Pro und Business, automatische Aufnahme. Zielgruppe: Creator, Selbstständige und Teams mit professioneller Link-Seite. Pro ab 9 € / Monat (90 € / Jahr) Verwandter Tarif: Business Salespage: cloverlinks.com Affiliate-Support: hih-digital.com/affiliates/cloverlinks.html
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>50% Provision pro Verkauf.</p>
-<p> </p>
-<p>Alle 10 Ratgeber-Themen komplett auf Deutsch: Beziehung, Finanzen, Burnout, Nebenverdienst, Pflege, Angst, Aufschieben, ADHS, Wechseljahre, KI. 10 komplette eBooks für 47€ statt 270€ einzeln.</p>
-<p> </p>
-<p>Cover-Bild: im Marktplatz-Eintrag verfügbar.</p>
+**Vendor's marketplace description:** 50% Provision pro Verkauf. Alle 10 Ratgeber-Themen komplett auf Deutsch: Beziehung, Finanzen, Burnout, Nebenverdienst, Pflege, Angst, Aufschieben, ADHS, Wechseljahre, KI. 10 komplette eBooks für 47€ statt 270€ einzeln. Cover-Bild: im Marktplatz-Eintrag verfügbar.
 
 ## 2. Links
 

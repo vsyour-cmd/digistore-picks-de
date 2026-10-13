@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Digistore24 Affiliatebereich: </h4>
-<h4><strong><span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.digistore24-app.com/account/partnerarea/165719/de">https://www.digistore24-app.com/account/partnerarea/165719/de</a></span></strong></h4>
-<p><strong>5 E-Mails für dein E-Mail Follow Up oder als Newsletter:</strong></p>
-<p><span style="color:#0000ff;"><strong><a style="color:#0000ff;" href="https://drive.google.com/file/d/1LNImsfO-RFGKo9gXwTI6dTFrviJEr616/view?usp=sharing" target="_blank" rel="noreferrer noopener">https://drive.google.com/file/d/1LNImsfO-RFGKo9gXwTI6dTFrviJEr616/view?usp=sharing</a></strong></span></p>
-<p> </p>
-<p>Bewerbe unser brandneues Buch "Die Fettverbrennerformel" in digitaler Form.</p>
-<p>Als Upsell 1 besteht die Möglichkeit unsere bewährten Fett Weg Pläne und Rezepte zu erhalten als Monatsabo</p>
-<p>In den ersten 14 Tagen für 0€, somit hat der Kunde 14 Tage Zeit zu testen und ab 15 Tagen werden dann so wie jeden weiteren Monat 29,97€ fällig (Auf Abos gibt es 50% Provision auf Lebenszeit - Monat für Monat)</p>
-<p>Als zweites Upsell besteht die Möglichkeit unserem Beach Body Club beizutreten als Monatsabo.</p>
-<p>Hier hat der Kunde 21 Tage Zeit um das Produkt für 0€ zu testen und danach werden auch hier 29,97€ monatlich fällig. Auch hier gibt es 50% Abo Provision auf Lebenszeit</p>
-<p>Rückgabezeitraum beträgt lediglich 14 Tage.</p>
-<p>Bewirb jetzt die Fettverbrennerformel und erhalte auf die beiden Abos jeweils 50% Provision lebenslänglich und baue dir somit ein langfristiges monatliches Einkommen mit Abos auf.</p>
-<p>Für weitere Fragen sind wir jeder Zeit erreichbar: <a>support@machdichschlank.info</a></p>
-<p> </p>
+**Vendor's marketplace description:** Digistore24 Affiliatebereich: https://www.digistore24-app.com/account/partnerarea/165719/de 5 E-Mails für dein E-Mail Follow Up oder als Newsletter: https://drive.google.com/file/d/1LNImsfO-RFGKo9gXwTI6dTFrviJEr616/view?usp=sharing Bewerbe unser brandneues Buch "Die Fettverbrennerformel" in digitaler Form. Als Upsell 1 besteht die Möglichkeit unsere bewährten Fett Weg Pläne und Rezepte zu erhalten als Monatsabo In den ersten 14 Tagen für 0€, somit hat der Kunde 14 Tage Zeit zu testen und ab 15 Tagen werden dann so wie jeden weiteren Monat 29,97€ fällig (Auf Abos gibt es 50% Provision auf Lebenszeit - Monat für Monat) Als zweites Upsell besteht die Möglichkeit unserem Beach Body Club beizutreten als Monatsabo. Hier hat der Kunde 21 Tage Zeit um das Produkt für 0€ zu testen und danach werden auch hier 29,97€ monatlich fällig. Auch hier gibt es 50% Abo Provision auf Lebenszeit Rückgabezeitraum beträgt lediglich 14 Tage. Bewirb jetzt die Fettverbrennerformel und erhalte auf die beiden Abos jeweils 50% Provision lebenslänglich und baue dir somit ein langfristiges monatliches Einkommen mit Abos auf. Für weitere Fragen sind wir jeder Zeit erreichbar: support@machdichschlank.info
 
 ## 2. Links
 

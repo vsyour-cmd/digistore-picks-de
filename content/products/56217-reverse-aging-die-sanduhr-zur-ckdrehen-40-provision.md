@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Deutsches E-Book (PDF, 133 Seiten) zum Thema biologische Verjüngung. Eigenes AF-Framework, 7-Tage-Ernährungsplan, Supplement-Tabellen, Einkaufsliste</strong>.</p>
-<p>Conversion-starke Salespage mit Vorher/Nachher-Fotos und kostenloser App (CRON.OS).</p>
-<p><strong>40% Provision = ~7,47 € pro Sale.</strong></p>
+**Vendor's marketplace description:** Deutsches E-Book (PDF, 133 Seiten) zum Thema biologische Verjüngung. Eigenes AF-Framework, 7-Tage-Ernährungsplan, Supplement-Tabellen, Einkaufsliste . Conversion-starke Salespage mit Vorher/Nachher-Fotos und kostenloser App (CRON.OS). 40% Provision = ~7,47 € pro Sale.
 
 ## 2. Links
 

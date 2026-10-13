@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der <strong>Job-Realitäts-Check</strong> ist ein 6-Tage-Onlinekurs für Menschen, die spüren, dass in ihrem Job etwas nicht mehr stimmt, aber noch nicht genau wissen, woran es liegt.</p>
-<p>In täglich 20–30 Minuten geht es darum, die eigenen Werte und Stärken zu erkennen, herauszufinden, was im Job wirklich auslaugt und welche Veränderungen sinnvoll sein könnten.</p>
-<p>Mit über 50-seitigem Workbook, Reflexionen und praktischen Übungen entsteht innerhalb von sechs Tagen mehr Klarheit über die eigene berufliche Situation.</p>
-<p><strong>Ideal für Communities rund um Karriere, Frauen im Beruf, Persönlichkeitsentwicklung und berufliche Veränderung.</strong></p>
-<p><strong>Als Affiliate erhältst du 40 % Provision auf jeden erfolgreichen Verkauf.</strong></p>
+**Vendor's marketplace description:** Der Job-Realitäts-Check ist ein 6-Tage-Onlinekurs für Menschen, die spüren, dass in ihrem Job etwas nicht mehr stimmt, aber noch nicht genau wissen, woran es liegt. In täglich 20–30 Minuten geht es darum, die eigenen Werte und Stärken zu erkennen, herauszufinden, was im Job wirklich auslaugt und welche Veränderungen sinnvoll sein könnten. Mit über 50-seitigem Workbook, Reflexionen und praktischen Übungen entsteht innerhalb von sechs Tagen mehr Klarheit über die eigene berufliche Situation. Ideal für Communities rund um Karriere, Frauen im Beruf, Persönlichkeitsentwicklung und berufliche Veränderung. Als Affiliate erhältst du 40 % Provision auf jeden erfolgreichen Verkauf.
 
 ## 2. Links
 

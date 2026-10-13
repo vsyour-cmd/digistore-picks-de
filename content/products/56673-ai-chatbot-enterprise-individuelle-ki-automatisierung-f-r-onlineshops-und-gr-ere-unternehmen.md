@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der <strong>AI ChatBot Enterprise</strong> ist die individuelle Premium-Lösung für Onlineshops und größere Unternehmen. Er bindet CRM, ERP und Shop-System an, prüft Bestände, bearbeitet Retouren und Auftragsstatus, erstellt Tickets und löst automatisierte Workflows aus.</p>
-<p><strong>Warum sich die Bewerbung lohnt:</strong></p>
-<ul>
-<li>Höchster Warenkorb: 2.500 € einmalige Einrichtung + 500 € monatlich – Premium-Provision pro Sale</li>
-<li>20 % Provision auf die Einrichtung UND auf jede monatliche Rate – starkes wiederkehrendes Einkommen</li>
-<li>Für anspruchsvolle Kunden mit echtem Automatisierungsbedarf</li>
-<li>30 Tage Geld-zurück-Garantie senkt die Kaufhürde</li>
-</ul>
-<p><strong>Ideale Zielgruppe für deine Werbung:</strong> Onlineshops, größere Unternehmen und Dienstleister mit vielen wiederkehrenden Kundenprozessen.</p>
-<p>Anbieter: HeltAIum – KI- und Automatisierungslösungen für Unternehmen.</p>
+**Vendor's marketplace description:** Der AI ChatBot Enterprise ist die individuelle Premium-Lösung für Onlineshops und größere Unternehmen. Er bindet CRM, ERP und Shop-System an, prüft Bestände, bearbeitet Retouren und Auftragsstatus, erstellt Tickets und löst automatisierte Workflows aus. Warum sich die Bewerbung lohnt: Höchster Warenkorb: 2.500 € einmalige Einrichtung + 500 € monatlich – Premium-Provision pro Sale 20 % Provision auf die Einrichtung UND auf jede monatliche Rate – starkes wiederkehrendes Einkommen Für anspruchsvolle Kunden mit echtem Automatisierungsbedarf 30 Tage Geld-zurück-Garantie senkt die Kaufhürde Ideale Zielgruppe für deine Werbung: Onlineshops, größere Unternehmen und Dienstleister mit vielen wiederkehrenden Kundenprozessen. Anbieter: HeltAIum – KI- und Automatisierungslösungen für Unternehmen.
 
 ## 2. Links
 

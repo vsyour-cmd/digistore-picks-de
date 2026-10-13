@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="text-decoration:underline;"><span style="color:#008000;text-decoration:underline;">[NEU] Buchgeschenk für Fußballer! </span></span></h2>
-<p><strong>Wir verschenken unser Buch</strong> und bitten Fußballer &amp; Fußballtrainer lediglich <strong>die Produktions- und Versandkosten zu übernehmen</strong>.</p>
-<p>Damit wollen wir <strong>so viele Fußballer, Trainer und Eltern wie möglich</strong> erreichen und Du kannst uns dabei unterstützen!</p>
-<p>Das Buch wurde <strong>bereits über 11.500 Mal</strong> bestellt und <strong>noch nie zurückgegeben</strong>.</p>
-<p>Die Feedbacks sind beeindruckend.</p>
-<p><strong>Für jedes Buchgeschenk</strong>, dass Du erfolgreich empfiehlst, erhältst Du <strong>sofort 4.00 € Provision</strong>.</p>
-<p> </p>
-<p><strong><span style="text-decoration:underline;color:#008000;">Bewirb Dich jetzt</span> für unser Partnerprogramm</strong> mit Infos zu Dir und Deinem Projekt an: <a href="mailto:philipp.ludwig@soccerkinetics.com" target="_blank" rel="noreferrer noopener">philipp.ludwig@soccerkinetics.com</a></p>
-<p> </p>
-<p>Wir freuen uns auf die Zusammenarbeit!</p>
-<p> </p>
+**Vendor's marketplace description:** [NEU] Buchgeschenk für Fußballer! Wir verschenken unser Buch und bitten Fußballer & Fußballtrainer lediglich die Produktions- und Versandkosten zu übernehmen . Damit wollen wir so viele Fußballer, Trainer und Eltern wie möglich erreichen und Du kannst uns dabei unterstützen! Das Buch wurde bereits über 11.500 Mal bestellt und noch nie zurückgegeben . Die Feedbacks sind beeindruckend. Für jedes Buchgeschenk , dass Du erfolgreich empfiehlst, erhältst Du sofort 4.00 € Provision . Bewirb Dich jetzt für unser Partnerprogramm mit Infos zu Dir und Deinem Projekt an: philipp.ludwig@soccerkinetics.com Wir freuen uns auf die Zusammenarbeit!
 
 ## 2. Links
 

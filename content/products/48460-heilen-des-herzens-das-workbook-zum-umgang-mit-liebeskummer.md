@@ -41,67 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h1>Heilen des Herzens</h1>
-</div>
-<div>
-<div>
-<h2>EIN WORKBOOK ZUM UMGANG MIT LIEBESKUMMER</h2>
-<p>​</p>
-<ul>
-<li>Verstehen des Liebeskummers</li>
-<li>
-<p>Emotionen anerkennen</p>
-</li>
-<li>
-<p>Selbstfürsorge praktizieren</p>
-</li>
-<li>
-<p>Soziale Unterstützung suchen</p>
-</li>
-<li>
-<p>Zukunftsorientierung</p>
-</li>
-<li>
-<p>Wiedererlangung des Selbstwertgefühls</p>
-</li>
-<li>
-<p>Umgang mit Einsamkeit</p>
-</li>
-<li>
-<p>Vergebung und Loslassen</p>
-</li>
-<li>
-<p>Erneute Entdeckung der eigenen Interessen und Leidenschaft</p>
-</li>
-<li>
-<p>Aufbau neuer Beziehungen</p>
-</li>
-</ul>
-<p> </p>
-<p>DEIN UMFASSENDER GUIDE, UM LIEBESKUMMER ZU BESIEGEN.</p>
-<p>ÜBER 90 SEITEN HERZHEILUNG! </p>
-<p>Fakten zum Buch:</p>
-<ul>
-<li>
-<p>ÜBER 90 Seiten gefüllt mit Werkzeugen für Deine HERZHEILUNG</p>
-</li>
-<li>
-<p>Im enthaltenen Workbook notierst du dir Gedanken, Gelerntes und Tipps</p>
-</li>
-<li>
-<p>Der perfekte Start in DEIN neues Leben</p>
-</li>
-</ul>
-<p>​</p>
-<p>Nutze die Möglichkeit deine Ziele zu erreichen. Mach deine Träume und Wünsche zu deinem Ziel und lass sie wahr werden.</p>
-<p>​</p>
-<p>Viel Erfolg beim Umsetzen der Tipps aus diesem Workbook.</p>
-</div>
-<div>
-<h1><span style="font-size:14px;">Das perfekte Workbook für die Herzheilung!</span></h1>
-</div>
-</div>
+**Vendor's marketplace description:** Heilen des Herzens EIN WORKBOOK ZUM UMGANG MIT LIEBESKUMMER ​ Verstehen des Liebeskummers Emotionen anerkennen Selbstfürsorge praktizieren Soziale Unterstützung suchen Zukunftsorientierung Wiedererlangung des Selbstwertgefühls Umgang mit Einsamkeit Vergebung und Loslassen Erneute Entdeckung der eigenen Interessen und Leidenschaft Aufbau neuer Beziehungen DEIN UMFASSENDER GUIDE, UM LIEBESKUMMER ZU BESIEGEN. ÜBER 90 SEITEN HERZHEILUNG! Fakten zum Buch: ÜBER 90 Seiten gefüllt mit Werkzeugen für Deine HERZHEILUNG Im enthaltenen Workbook notierst du dir Gedanken, Gelerntes und Tipps Der perfekte Start in DEIN neues Leben ​ Nutze die Möglichkeit deine Ziele zu erreichen. Mach deine Träume und Wünsche zu deinem Ziel und lass sie wahr werden. ​ Viel Erfolg beim Umsetzen der Tipps aus diesem Workbook. Das perfekte Workbook für die Herzheilung!
 
 ## 2. Links
 

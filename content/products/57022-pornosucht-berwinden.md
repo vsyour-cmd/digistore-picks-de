@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Pornosucht überwinden"</strong></p>
-<p>Heimlicher Konsum, Scham, Kontrollverlust? Dieser diskrete, urteilsfreie Ratgeber zeigt dir einen ehrlichen Weg, problematischen Pornokonsum zu verstehen, neue Gewohnheiten aufzubauen und Schritt für Schritt mehr Freiheit zu gewinnen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe: Sucht &amp; Entzug / Selbsthilfe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Ehrlich einordnen, wann Pornokonsum zum Problem wird</li>
-<li>Verstehen, wie Gewohnheit und Verlangen entstehen</li>
-<li>Scham abbauen statt sich selbst zu verurteilen</li>
-<li>Auslöser erkennen und das Umfeld verändern</li>
-<li>Mit Rückfällen umgehen und dranbleiben</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Menschen, die eine Sucht oder schlechte Gewohnheit überwinden wollen – Gesundheits- &amp; Persönlichkeitsentwicklungs-Zielgruppe</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Pornosucht überwinden" Heimlicher Konsum, Scham, Kontrollverlust? Dieser diskrete, urteilsfreie Ratgeber zeigt dir einen ehrlichen Weg, problematischen Pornokonsum zu verstehen, neue Gewohnheiten aufzubauen und Schritt für Schritt mehr Freiheit zu gewinnen. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe: Sucht & Entzug / Selbsthilfe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Ehrlich einordnen, wann Pornokonsum zum Problem wird Verstehen, wie Gewohnheit und Verlangen entstehen Scham abbauen statt sich selbst zu verurteilen Auslöser erkennen und das Umfeld verändern Mit Rückfällen umgehen und dranbleiben Für deine Zielgruppe: Menschen, die eine Sucht oder schlechte Gewohnheit überwinden wollen – Gesundheits- & Persönlichkeitsentwicklungs-Zielgruppe Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

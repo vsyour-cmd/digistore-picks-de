@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der schnellste Weg in die Welt der Radionik – Ohne Umwege, direkt zum Ergebnis.</strong></p>
-<p>Suchen Sie ein Werkzeug für die Informationsfeld-Arbeit, das Komplexität in Klarheit verwandelt? Während herkömmliche Radionik-Systeme (wie unser Profi-System <em>MeineRadionik</em>) maximale Freiheit und tiefgehende Geräte-Konfiguration bieten, ist <strong>EasyRadionik</strong> radikal auf eines optimiert: <strong>Einfachheit.</strong></p>
-<p>EasyRadionik wurde für Anwender entwickelt, die eine klare Struktur lieben. Unser bewährter <strong>7-Schritte-Prozess</strong> führt den Nutzer sicher von der ersten Analyse bis zur erfolgreichen Harmonisierung. Es ist das ideale „Einstiegs- und Alltagssystem“ für Coaches, Energetiker und Privatpersonen.</p>
-<p>Slots? Ein Slot entspricht einer laufenden Harmonisierung. Je nach gewähltem Tarif steht Ihnen eine bestimmte Anzahl davon zur Verfügung.</p>
+**Vendor's marketplace description:** Der schnellste Weg in die Welt der Radionik – Ohne Umwege, direkt zum Ergebnis. Suchen Sie ein Werkzeug für die Informationsfeld-Arbeit, das Komplexität in Klarheit verwandelt? Während herkömmliche Radionik-Systeme (wie unser Profi-System MeineRadionik ) maximale Freiheit und tiefgehende Geräte-Konfiguration bieten, ist EasyRadionik radikal auf eines optimiert: Einfachheit. EasyRadionik wurde für Anwender entwickelt, die eine klare Struktur lieben. Unser bewährter 7-Schritte-Prozess führt den Nutzer sicher von der ersten Analyse bis zur erfolgreichen Harmonisierung. Es ist das ideale „Einstiegs- und Alltagssystem“ für Coaches, Energetiker und Privatpersonen. Slots? Ein Slot entspricht einer laufenden Harmonisierung. Je nach gewähltem Tarif steht Ihnen eine bestimmte Anzahl davon zur Verfügung.
 
 ## 2. Links
 

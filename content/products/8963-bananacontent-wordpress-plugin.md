@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das WordPress SEO Plugin für Content Marketer. Als Affiliate bekommst du satte 30% Lifetime Provision.</p>
+**Vendor's marketplace description:** Das WordPress SEO Plugin für Content Marketer. Als Affiliate bekommst du satte 30% Lifetime Provision.
 
 ## 2. Links
 

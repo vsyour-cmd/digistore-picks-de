@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der Neuglut-Plan: Handbuch + 30-Tage-Check (PDF) · 39 € einmalig · 50 % Provision</strong></p>
-<p><strong>Worum es geht</strong><br />Fehlende Intimität und emotionale Distanz in Langzeitbeziehungen, aus Sicht des Mannes. Zielgruppe: Männer ca. 35–55 im DACH-Raum, verheiratet oder lange zusammen, oft mit Kindern. Die Nähe ist über Jahre eingeschlafen, und sie reden mit niemandem darüber, auch nicht mit ihr. Der Plan setzt genau dort an: allein anfangen, anonym, ohne Gespräch.</p>
-<p><strong>Was der Käufer bekommt</strong></p>
-<ul>
-<li>Handbuch (34 Seiten, 20 Kapitel in 4 Teilen): Wie die Distanz entsteht · Die ersten 30 Tage · Anziehung wieder aufbauen · Halten</li>
-<li>30-Tage-Check (12 Seiten): Arbeitsheft mit Tracker, ca. 2 Minuten pro Abend</li>
-<li>Kernmodell: vier Wege in dieselbe Stille – Körper/Zeitpunkt, Groll, Erschöpfung, Dynamik</li>
-<li>Nüchterner Ton, keine Tricks, keine Erfolgsgarantie. Coaching-Ansatz, keine Therapie.</li>
-</ul>
-<p><strong>So läuft der Verkauf</strong><br />Anzeige → neuglut.de → anonymes Quiz (5 Fragen, ca. 1 Minute) → Ergebnis mit einem von vier Mustern → Kauf über Digistore24. Rund 71 % der Quiz-Starter schließen das Quiz ab.</p>
-<p><strong>Diskretion</strong><br />Kein Versand, sofortiger PDF-Download. Auf dem Kontoauszug steht „Digistore24“ – für diese Zielgruppe ein wichtiges Kaufargument.</p>
-<p><strong>Was bisher am besten funktioniert</strong></p>
-<ul>
-<li>Hook als Ich-Satz einer Figur mit Widerspruch, z. B.: „Sie sagt, sie liebt mich. Aber sie will mich nicht mehr.“</li>
-<li>Sehr einfache, kurze Sätze.</li>
-<li>Schluss mit Entlastung: „Man kann allein anfangen. Ohne Gespräch. Ein anonymer Test zeigt, woher es kommt.“</li>
-<li>Stil: gezeichnete Graphic-Novel-Szenen aus dem Alltag (Couch, Küche, Abend), Figuren angezogen.</li>
-</ul>
-<p><strong>Werberegeln (Pflicht)</strong></p>
-<ul>
-<li>Keine Ergebnis- oder Zeitversprechen („in 7 Tagen …“, „garantiert wieder …“).</li>
-<li>Keine expliziten Sex-Wörter in Anzeigen (Sex, Lust, Bett) – Meta lehnt solche Anzeigen ab.</li>
-<li>Keine „Du“-Sätze, die dem Zuschauer eine Lage unterstellen („Hast du keinen Sex mehr?“). Stattdessen dritte Person oder Ich-Satz einer Figur.</li>
-<li>Keine Schuldzuweisung („Du bist der Grund“) und nichts Abwertendes über Frauen.</li>
-<li>Keine erfundenen Kundenstimmen oder Testimonials.</li>
-<li>Keine Heil- oder Therapieversprechen, keine medizinischen Themen (z. B. Potenz).</li>
-<li>Kein Bieten auf den Markennamen „Neuglut“ in Suchmaschinen.</li>
-<li>Immer auf neuglut.de (Quiz) verlinken, nicht direkt aufs Bestellformular.</li>
-</ul>
-<p>Bei Verstößen wird die Provision storniert und der Affiliate ausgeschlossen. Fragen: info@neuglut.de</p>
+**Vendor's marketplace description:** Der Neuglut-Plan: Handbuch + 30-Tage-Check (PDF) · 39 € einmalig · 50 % Provision Worum es geht Fehlende Intimität und emotionale Distanz in Langzeitbeziehungen, aus Sicht des Mannes. Zielgruppe: Männer ca. 35–55 im DACH-Raum, verheiratet oder lange zusammen, oft mit Kindern. Die Nähe ist über Jahre eingeschlafen, und sie reden mit niemandem darüber, auch nicht mit ihr. Der Plan setzt genau dort an: allein anfangen, anonym, ohne Gespräch. Was der Käufer bekommt Handbuch (34 Seiten, 20 Kapitel in 4 Teilen): Wie die Distanz entsteht · Die ersten 30 Tage · Anziehung wieder aufbauen · Halten 30-Tage-Check (12 Seiten): Arbeitsheft mit Tracker, ca. 2 Minuten pro Abend Kernmodell: vier Wege in dieselbe Stille – Körper/Zeitpunkt, Groll, Erschöpfung, Dynamik Nüchterner Ton, keine Tricks, keine Erfolgsgarantie. Coaching-Ansatz, keine Therapie. So läuft der Verkauf Anzeige → neuglut.de → anonymes Quiz (5 Fragen, ca. 1 Minute) → Ergebnis mit einem von vier Mustern → Kauf über Digistore24. Rund 71 % der Quiz-Starter schließen das Quiz ab. Diskretion Kein Versand, sofortiger PDF-Download. Auf dem Kontoauszug steht „Digistore24“ – für diese Zielgruppe ein wichtiges Kaufargument. Was bisher am besten funktioniert Hook als Ich-Satz einer Figur mit Widerspruch, z. B.: „Sie sagt, sie liebt mich. Aber sie will mich nicht mehr.“ Sehr einfache, kurze Sätze. Schluss mit Entlastung: „Man kann allein anfangen. Ohne Gespräch. Ein anonymer Test zeigt, woher es kommt.“ Stil: gezeichnete Graphic-Novel-Szenen aus dem Alltag (Couch, Küche, Abend), Figuren angezogen. Werberegeln (Pflicht) Keine Ergebnis- oder Zeitversprechen („in 7 Tagen …“, „garantiert wieder …“). Keine expliziten Sex-Wörter in Anzeigen (Sex, Lust, Bett) – Meta lehnt solche Anzeigen ab. Keine „Du“-Sätze, die dem Zuschauer eine Lage unterstellen („Hast du keinen Sex mehr?“). Stattdessen dritte Person oder Ich-Satz einer Figur. Keine Schuldzuweisung („Du bist der Grund“) und nichts Abwertendes über Frauen. Keine erfundenen Kundenstimmen oder Testimonials. Keine Heil- oder Therapieversprechen, keine medizinischen Themen (z. B. Potenz). Kein Bieten auf den Markennamen „Neuglut“ in Suchmaschinen. Immer auf neuglut.de (Quiz) verlinken, nicht direkt aufs Bestellformular. Bei Verstößen wird die Provision storniert und der Affiliate ausgeschlossen. Fragen: info@neuglut.de
 
 ## 2. Links
 

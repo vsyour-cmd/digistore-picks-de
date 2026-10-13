@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:justify;"><strong>Der schönste Tag im Leben – und Ihnen fehlen die Worte?</strong><br /><br />Eine Hochzeitsrede zu halten ist eine große Ehre, aber oft mit enormem Stress verbunden:</p>
-<ul>
-<li>Welcher Einstieg passt?</li>
-<li>Wie findet man die richtige Mischung aus Humor und Emotion?</li>
-<li>Und wie vermeidet man peinliches Schweigen?</li>
-</ul>
-<p style="text-align:justify;"><br />Mit dem Reden-Paket „Das Ja-Wort zum Nachsprechen“ gehört das Kopfzerbrechen der Vergangenheit an. Sie bieten Ihren Kunden ein professionelles Repertoire, das in wenigen Minuten individuell angepasst werden kann.</p>
-<p><br /><strong>Das ist im Paket enthalten:</strong></p>
-<ul>
-<li style="text-align:justify;">17 fertige Vorlagen: Maßgeschneiderte Reden für jede Rolle – ob Brautvater, Brautmutter, Bräutigam, Trauzeugen, Geschwister oder enge Freunde.</li>
-<li style="text-align:justify;">Vielfältige Stile für jeden Charakter: Von humorvollen Anekdoten und lockeren Sprüchen bis hin zu tief emotionalen und klassisch-eleganten Ansprachen.</li>
-<li style="text-align:justify;">Sofort-Einsatz durch „Copy &amp; Paste“: Der rote Faden steht bereits. Kein mühsames Recherchieren nach Zitaten oder Überleitungen mehr – einfach persönliche Details einfüllen und fertig.</li>
-<li style="text-align:justify;">3 Exklusive Boni für den Erfolg<br /><br /></li>
-</ul>
-<p style="text-align:justify;"><strong>Worte, die das Herz berühren – ohne den Stress des Schreibens.</strong></p>
-<p style="text-align:justify;"><br />Verwandeln Sie Lampenfieber in pure Vorfreude. Sorgen Sie für einen Gänsehaut-Moment, der dem Brautpaar und den Gästen noch lange in Erinnerung bleiben wird.</p>
-<p style="text-align:justify;"><br /><strong>Helfen Sie Ihren Kunden, die richtigen Worte zu finden – jetzt zum Download!</strong></p>
+**Vendor's marketplace description:** Der schönste Tag im Leben – und Ihnen fehlen die Worte? Eine Hochzeitsrede zu halten ist eine große Ehre, aber oft mit enormem Stress verbunden: Welcher Einstieg passt? Wie findet man die richtige Mischung aus Humor und Emotion? Und wie vermeidet man peinliches Schweigen? Mit dem Reden-Paket „Das Ja-Wort zum Nachsprechen“ gehört das Kopfzerbrechen der Vergangenheit an. Sie bieten Ihren Kunden ein professionelles Repertoire, das in wenigen Minuten individuell angepasst werden kann. Das ist im Paket enthalten: 17 fertige Vorlagen: Maßgeschneiderte Reden für jede Rolle – ob Brautvater, Brautmutter, Bräutigam, Trauzeugen, Geschwister oder enge Freunde. Vielfältige Stile für jeden Charakter: Von humorvollen Anekdoten und lockeren Sprüchen bis hin zu tief emotionalen und klassisch-eleganten Ansprachen. Sofort-Einsatz durch „Copy & Paste“: Der rote Faden steht bereits. Kein mühsames Recherchieren nach Zitaten oder Überleitungen mehr – einfach persönliche Details einfüllen und fertig. 3 Exklusive Boni für den Erfolg Worte, die das Herz berühren – ohne den Stress des Schreibens. Verwandeln Sie Lampenfieber in pure Vorfreude. Sorgen Sie für einen Gänsehaut-Moment, der dem Brautpaar und den Gästen noch lange in Erinnerung bleiben wird. Helfen Sie Ihren Kunden, die richtigen Worte zu finden – jetzt zum Download!
 
 ## 2. Links
 

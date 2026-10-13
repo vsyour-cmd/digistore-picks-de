@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Obstacle Course Racing (Hindernislauf) ist eine der am schnellsten wachsenden Sportarten der Welt. </p>
-<p>Hindernisläufer brauchen eine extrem gute Griffkraft und Griffkraftausdauer um ihr Körpergewicht hangelnd durch die Hindernisse tragen zu können. </p>
-<p>Um die notwendige Griffkraft/Griffkraftausdauer aufzubauen ist Know How aber auch ein guter Plan unverzichtbar. </p>
-<p>Das eBook "<em>Griffkrafttraining für Hindernisläufer - 12 Wochen Plan</em>" enthält die wohl umfangreichste Sammlung an Trainingstipps für eine feste Griffkraft, spezialisiert auf Hindernisläufer.</p>
-<p>Neben dem Tutorial beinhaltet das eBook einen 12-Wochen-Plan der als sichere Anleitung zum effizienten Aufbau der Griffkraft dient und den Athleten sicher zu seinem Ziel bringt. </p>
-<p>Wenn Dir unser eBook gefällt und Du einen eigenen Blog hast oder uns auf Social Media weiter empfehlen möchtest, dann bieten wir Dir die Hälfte der Einnahmen.</p>
-<p>Du wirst dadurch nicht reich, aber das Produkt verkauft sich gut und Du generierst ein schönes, passives Einkommen ohne eigenen Aufwand.</p>
+**Vendor's marketplace description:** Obstacle Course Racing (Hindernislauf) ist eine der am schnellsten wachsenden Sportarten der Welt. Hindernisläufer brauchen eine extrem gute Griffkraft und Griffkraftausdauer um ihr Körpergewicht hangelnd durch die Hindernisse tragen zu können. Um die notwendige Griffkraft/Griffkraftausdauer aufzubauen ist Know How aber auch ein guter Plan unverzichtbar. Das eBook " Griffkrafttraining für Hindernisläufer - 12 Wochen Plan " enthält die wohl umfangreichste Sammlung an Trainingstipps für eine feste Griffkraft, spezialisiert auf Hindernisläufer. Neben dem Tutorial beinhaltet das eBook einen 12-Wochen-Plan der als sichere Anleitung zum effizienten Aufbau der Griffkraft dient und den Athleten sicher zu seinem Ziel bringt. Wenn Dir unser eBook gefällt und Du einen eigenen Blog hast oder uns auf Social Media weiter empfehlen möchtest, dann bieten wir Dir die Hälfte der Einnahmen. Du wirst dadurch nicht reich, aber das Produkt verkauft sich gut und Du generierst ein schönes, passives Einkommen ohne eigenen Aufwand.
 
 ## 2. Links
 

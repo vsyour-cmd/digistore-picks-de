@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit diesem Hypnose-Onlinekurs hast Du die Möglichkeit die Vergangenheit loszulassen und ins Jetzt zu kommen. Du verbindest Dich mit Deinem Körper und kannst alte Denkmuster ablegen. So kannst Du für Dich eine neue Identität erschaffen und Deine Zukunft frei von alten Mustern, Gedanken und Gefühlen, nach Deinen wahren Wünschen positiv gestalten.</p>
-<p>Der Kurs enthält neben dem Hypnose-Video samt Audioversion als Download auch ein Video zur richtigen Hypnoseanwendung.</p>
-<p>Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.</p>
+**Vendor's marketplace description:** Mit diesem Hypnose-Onlinekurs hast Du die Möglichkeit die Vergangenheit loszulassen und ins Jetzt zu kommen. Du verbindest Dich mit Deinem Körper und kannst alte Denkmuster ablegen. So kannst Du für Dich eine neue Identität erschaffen und Deine Zukunft frei von alten Mustern, Gedanken und Gefühlen, nach Deinen wahren Wünschen positiv gestalten. Der Kurs enthält neben dem Hypnose-Video samt Audioversion als Download auch ein Video zur richtigen Hypnoseanwendung. Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Paket mit 4 Sprachführern – 50% Provision</p>
-<p> </p>
-<p>Ein Premium-Bundle mit 4 kompletten Sprachführern (Englisch, Spanisch, Französisch, Portugiesisch): fertige Sätze für Reise, Job und Alltag, gezielter Wortschatz und vereinfachte Aussprache, ganz ohne Umweg über trockene Grammatik – zu einem deutlich attraktiveren Preis als beim Einzelkauf.</p>
-<p> </p>
-<p>4 x 46 vollständige Kapitel mit Übungsdialogen und 7-Tage-Plan pro Sprache – ein besonders hoher wahrgenommener Wert, der sich auch im Verkaufspreis widerspiegelt und dir dadurch einen höheren Provisionsertrag pro Verkauf bringt.</p>
-<p> </p>
-<p>Ideale Zielgruppe: Vielreisende, Auswanderer mit mehreren Zielländern, international tätige Berufstätige, und alle, die mehrere Sprachen parallel lernen wollen.</p>
+**Vendor's marketplace description:** Paket mit 4 Sprachführern – 50% Provision Ein Premium-Bundle mit 4 kompletten Sprachführern (Englisch, Spanisch, Französisch, Portugiesisch): fertige Sätze für Reise, Job und Alltag, gezielter Wortschatz und vereinfachte Aussprache, ganz ohne Umweg über trockene Grammatik – zu einem deutlich attraktiveren Preis als beim Einzelkauf. 4 x 46 vollständige Kapitel mit Übungsdialogen und 7-Tage-Plan pro Sprache – ein besonders hoher wahrgenommener Wert, der sich auch im Verkaufspreis widerspiegelt und dir dadurch einen höheren Provisionsertrag pro Verkauf bringt. Ideale Zielgruppe: Vielreisende, Auswanderer mit mehreren Zielländern, international tätige Berufstätige, und alle, die mehrere Sprachen parallel lernen wollen.
 
 ## 2. Links
 

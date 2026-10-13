@@ -41,57 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:justify;"> </p>
-<p>Wimpern und Browlifting Komplettschulung inkl Zertifikat❤️</p>
-<p> </p>
-<p>Du möchtest dein Hobby zum Beruf machen?❤️</p>
-<p>Du möchtest deine Zeit frei einteilen und dein eigener Chef sein?❤️</p>
-<p>Du bist bereits als Wimpernstylistin tätig, oder bist Quereinsteiger?❤️</p>
-<p>Du möchtest Wimpernstylistin werden und sehr gut verdienen? ❤️</p>
-<p>Du möchtest bei freier Zeiteinteilung lernen? ❤️</p>
-<p>Dann ist diese Schulung genau dass richtige für dich❤️</p>
-<p> </p>
-<p>Was lernst du in dieser Schulung?</p>
-<p>Anatomie</p>
-<p>Hygienekunde</p>
-<p>Materialien</p>
-<p>Step by Step beschriebene Anleitungen für eine saubere und professionelle Arbeit </p>
-<p>Step by Step Videos für eine saubere und professionelle Arbeit </p>
-<p>Lifting Brauen </p>
-<p>Lifting Wimpern</p>
-<p>Färben</p>
-<p>Vor und Nachteile</p>
-<p>Produkte</p>
-<p>Vorsorge, Behandlung, Pflege</p>
-<p>Kunden</p>
-<p>Einverständniserklärung </p>
-<p>Etc. </p>
-<p> </p>
-<p>Bonus:❤️</p>
-<p>Einverständniserklärung als Download </p>
-<p>Gewerbeanmeldung </p>
-<p>Kundengewinnung und Marketing </p>
-<p> </p>
-<p>Was erwartet dich:❤️</p>
-<p>Eigener Mitglieder Bereich</p>
-<p>Lebenslanger Zugriff</p>
-<p>Downloads </p>
-<p>Skripte </p>
-<p>Videos und Texte</p>
-<p>Bonusmaterial</p>
-<p>❤️Zertifikat zur Wimpernstylistin in Wimpern und Browlifting ❤️</p>
-<p>Bei Fragen und Anregungen stehe ich euch zur Verfügung ❤️</p>
-<p> </p>
-<p>Auf was wartest du❤️beginne deinen neuen Weg in die Selbstständigkeit als Wimpernstylistin ❤️</p>
-<p> </p>
-<p>Eure Nadinesbeautyoasedeluxe ❤️</p>
-<p style="text-align:justify;">Pmu und Beauty Artistin</p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Wimpern und Browlifting Komplettschulung inkl Zertifikat❤️ Du möchtest dein Hobby zum Beruf machen?❤️ Du möchtest deine Zeit frei einteilen und dein eigener Chef sein?❤️ Du bist bereits als Wimpernstylistin tätig, oder bist Quereinsteiger?❤️ Du möchtest Wimpernstylistin werden und sehr gut verdienen? ❤️ Du möchtest bei freier Zeiteinteilung lernen? ❤️ Dann ist diese Schulung genau dass richtige für dich❤️ Was lernst du in dieser Schulung? Anatomie Hygienekunde Materialien Step by Step beschriebene Anleitungen für eine saubere und professionelle Arbeit Step by Step Videos für eine saubere und professionelle Arbeit Lifting Brauen Lifting Wimpern Färben Vor und Nachteile Produkte Vorsorge, Behandlung, Pflege Kunden Einverständniserklärung Etc. Bonus:❤️ Einverständniserklärung als Download Gewerbeanmeldung Kundengewinnung und Marketing Was erwartet dich:❤️ Eigener Mitglieder Bereich Lebenslanger Zugriff Downloads Skripte Videos und Texte Bonusmaterial ❤️Zertifikat zur Wimpernstylistin in Wimpern und Browlifting ❤️ Bei Fragen und Anregungen stehe ich euch zur Verfügung ❤️ Auf was wartest du❤️beginne deinen neuen Weg in die Selbstständigkeit als Wimpernstylistin ❤️ Eure Nadinesbeautyoasedeluxe ❤️ Pmu und Beauty Artistin
 
 ## 2. Links
 

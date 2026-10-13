@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Audio Book Masterkurs - 3ter Einkommensstrom mit Hörbüchern<br /></strong></h2>
-<p>Vermarkte den Audio Book Masterkurs! Du bekommst dafür <strong>50% Provision</strong>!</p>
-<p>Verdiene hierfür 55,46 € Provision und im gesamten Funnel bis zu 182,70 Euro (alles Einmalzahlung oder 205,54 € bei monatlicher Zahlung) pro Sale im gesamten Funnel!</p>
-<p>Das spricht für den Kurs:</p>
-<ul><li>Schritt für Schritt vom Anfänger bis zum ersten  Hörbuch</li>
-<li>Zeigt den Teilnehmern alle Schritte von der Anmeldung über dem Sprecher finden bis zum Veröffentlichen, Marketing und mehr</li>
-<li>ständig NEUE Inhalte</li>
-<li>Über 2 Stunden Video Material + 2 Stunden Mindset Kurs = 4 Stunden Content (aktuell)</li>
-<li>Theorie &amp; Praxis!</li>
-<li>Checklisten, Vorlagen, Templates, etc.! All-In-One Package!</li>
-<li>ständige Updates vom Kurs</li>
-<li>VIP Support</li>
-</ul><p>Profitiere somit auch du von dem Trend des Self Publishings und der Erstellung von Hörbüchern aufgrund des einfachen Einstiegs!</p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Audio Book Masterkurs - 3ter Einkommensstrom mit Hörbüchern Vermarkte den Audio Book Masterkurs! Du bekommst dafür 50% Provision ! Verdiene hierfür 55,46 € Provision und im gesamten Funnel bis zu 182,70 Euro (alles Einmalzahlung oder 205,54 € bei monatlicher Zahlung) pro Sale im gesamten Funnel! Das spricht für den Kurs: Schritt für Schritt vom Anfänger bis zum ersten Hörbuch Zeigt den Teilnehmern alle Schritte von der Anmeldung über dem Sprecher finden bis zum Veröffentlichen, Marketing und mehr ständig NEUE Inhalte Über 2 Stunden Video Material + 2 Stunden Mindset Kurs = 4 Stunden Content (aktuell) Theorie & Praxis! Checklisten, Vorlagen, Templates, etc.! All-In-One Package! ständige Updates vom Kurs VIP Support Profitiere somit auch du von dem Trend des Self Publishings und der Erstellung von Hörbüchern aufgrund des einfachen Einstiegs!
 
 ## 2. Links
 

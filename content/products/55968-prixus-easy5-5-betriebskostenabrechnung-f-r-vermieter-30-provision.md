@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>PRIXUS EASY5.5</strong> – Desktop-Software für rechtssichere Betriebskostenabrechnungen nach §2 BetrKV. Perfekt für private Vermieter, Eigentümergemeinschaften und kleine Hausverwaltungen.</p>
-<p><strong>Warum dieses Produkt bewerben?</strong></p>
-<ul>
-<li><strong>30% Provision</strong> = 29,70 € pro Verkauf bei 99 € Einmalzahlung</li>
-<li><strong>Kein Abo-Modell</strong> – keine Provision-Rückbuchungen durch Kündigungen</li>
-<li><strong>Klare Zielgruppe:</strong> Private Vermieter, WEG-Verwalter, kleine Hausverwaltungen</li>
-<li><strong>Hohe Conversion:</strong> Einmalzahlung statt teurer Cloud-Abos (20–50 €/Monat)</li>
-<li><strong>Bewährtes Produkt</strong> seit über 10 Jahren auf dem Markt</li>
-</ul>
-<p><strong>Features:</strong> Unbegrenzte Objekte/Mieter, 17 Kostenarten nach BetrKV, automatische Pro-Rata-Berechnung, Fristenwarnung, Ein-Klick-PDF-Export, 100% lokal &amp; DSGVO-konform.</p>
-<p>Verkaufsseite: <a href="https://www.prixus.de/software/easy55/">https://www.prixus.de/software/easy55/</a></p>
+**Vendor's marketplace description:** PRIXUS EASY5.5 – Desktop-Software für rechtssichere Betriebskostenabrechnungen nach §2 BetrKV. Perfekt für private Vermieter, Eigentümergemeinschaften und kleine Hausverwaltungen. Warum dieses Produkt bewerben? 30% Provision = 29,70 € pro Verkauf bei 99 € Einmalzahlung Kein Abo-Modell – keine Provision-Rückbuchungen durch Kündigungen Klare Zielgruppe: Private Vermieter, WEG-Verwalter, kleine Hausverwaltungen Hohe Conversion: Einmalzahlung statt teurer Cloud-Abos (20–50 €/Monat) Bewährtes Produkt seit über 10 Jahren auf dem Markt Features: Unbegrenzte Objekte/Mieter, 17 Kostenarten nach BetrKV, automatische Pro-Rata-Berechnung, Fristenwarnung, Ein-Klick-PDF-Export, 100% lokal & DSGVO-konform. Verkaufsseite: https://www.prixus.de/software/easy55/
 
 ## 2. Links
 

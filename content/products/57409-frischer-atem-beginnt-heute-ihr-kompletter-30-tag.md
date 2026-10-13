@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Frischer Atem beginnt heute – Ihr kompletter 30-Tage-Erfolgsplan wartet auf Sie!</p>
+**Vendor's marketplace description:** Frischer Atem beginnt heute – Ihr kompletter 30-Tage-Erfolgsplan wartet auf Sie!
 
 ## 2. Links
 

@@ -41,34 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das ultimative, vollautomatisierte System für High-End-Skills &amp; Social-Media-Vertrieb. Unser hochkonvertierender Funnel verwandelt kalten Traffic in Rekordzeit in Sales.</p>
-<h3>DEINE VORTEILE ALS AFFILIATE:</h3>
-<ul>
-<li><strong>45 % Provision</strong> auf das Hauptprodukt (gemäß Digistore24-Provisionsmodell).</li>
-</ul>
-<p> </p>
-<ul>
-<li>
-<p><strong>High-Converting Funnel:</strong> Maximale Conversion-Rates und minimale Stornoquoten.</p>
-</li>
-<li>
-<p><strong>Ready-to-use Werbemittel:</strong> Hochkonvertierende Story-Vorlagen, Copy-Vorlagen und Videos stehen sofort bereit.</p>
-</li>
-</ul>
-<hr />
-<h3>WAS IST DIE NEXUS ACADEMY?</h3>
-<p>Kein theoretisches Gelaber, sondern nackte Praxis-Execution in 4 starken Modulen:</p>
-<ul>
-<li>
-<p><strong>START &amp; CORE:</strong> Technische Basics, Digistore24-Setup und virale Instagram-Reichweite (PV-Strategie).</p>
-</li>
-<li>
-<p><strong>SALES &amp; MIND:</strong> Premium Einwandbehandlung, High-Ticket Closing und unerschütterliche Gewinner-Mentalität.</p>
-</li>
-</ul>
-<hr />
-<h3>JETZT PARTNERSCHAFT AKTIVIEREN!</h3>
-<p>Klicke auf <strong>"Partnerschaft aktivieren"</strong>, schnapp dir deine Links und sichere dir deine 45% (gemäß Digistore24-Provisionsmodell).</p>
+**Vendor's marketplace description:** Das ultimative, vollautomatisierte System für High-End-Skills & Social-Media-Vertrieb. Unser hochkonvertierender Funnel verwandelt kalten Traffic in Rekordzeit in Sales. DEINE VORTEILE ALS AFFILIATE: 45 % Provision auf das Hauptprodukt (gemäß Digistore24-Provisionsmodell). High-Converting Funnel: Maximale Conversion-Rates und minimale Stornoquoten. Ready-to-use Werbemittel: Hochkonvertierende Story-Vorlagen, Copy-Vorlagen und Videos stehen sofort bereit. WAS IST DIE NEXUS ACADEMY? Kein theoretisches Gelaber, sondern nackte Praxis-Execution in 4 starken Modulen: START & CORE: Technische Basics, Digistore24-Setup und virale Instagram-Reichweite (PV-Strategie). SALES & MIND: Premium Einwandbehandlung, High-Ticket Closing und unerschütterliche Gewinner-Mentalität. JETZT PARTNERSCHAFT AKTIVIEREN! Klicke auf "Partnerschaft aktivieren" , schnapp dir deine Links und sichere dir deine 45% (gemäß Digistore24-Provisionsmodell).
 
 ## 2. Links
 

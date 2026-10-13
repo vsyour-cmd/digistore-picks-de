@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Social Media Erfolgsplan zeigt dir Schritt für Schritt, wie du dein Online-Marketing in eine<strong> </strong>Verkaufsmaschine verwandelst, ohne ständig online zu sein!</p>
-<p><strong>Hier zeigt </strong><strong>Social-Media-Experte </strong><strong>Tommy Seewald, wie er in seinem eigenen Unternehmen, zweistellige Millionen-Umsätze pro Jahr generiert! </strong></p>
-<p>Konkret lernst du dabei Social-Media-Marketing-Strategien kennen, die in der Praxis nachweislich funktionieren und die du 1 zu 1 für dein Business umsetzen kannst.</p>
-<p>Dabei zeigt er sehr detailliert und ausführlich, wie Social Media grundsätzlich funktioniert und wie man - egal in welchem Unternehmensbereich auch immer - seine persönliche Online-Marketing-Strategie entwickelt.</p>
-<p> </p>
-<p><strong>Das erwartet dich in 10 Modulen und 54 Videos:</strong></p>
-<p><strong>Modul 1: Die Theorie </strong></p>
-<p>Verstehe, was wirklich funktioniert und welche Mythen du sofort vergessen musst!</p>
-<p><strong>Modul 2: Das Geheimnis hinter Viralität</strong> </p>
-<p>Warum Posts durch die Decke gehen und wie du es umsetzt!</p>
-<p><strong>Modul 3: Attraction Marketing</strong> </p>
-<p>Wie du potenzieller Kunden anziehst,</p>
-<p><strong>Modul 4: Der perfekte Content-Plan</strong> </p>
-<p>Wie du nie wieder ratlos nach Inhalten suchst! die für dein Business interessant sind!</p>
-<p><strong>Modul 5: Verkaufen über Social Media</strong></p>
-<p>Wie du Follower in Kunden verwandelst!</p>
-<p><strong>Modul 6-10: Praxisbeispiele &amp; Technik</strong></p>
-<p>Beispiele, wie du das in der Praxis umsetzt!</p>
+**Vendor's marketplace description:** Der Social Media Erfolgsplan zeigt dir Schritt für Schritt, wie du dein Online-Marketing in eine Verkaufsmaschine verwandelst, ohne ständig online zu sein! Hier zeigt Social-Media-Experte Tommy Seewald, wie er in seinem eigenen Unternehmen, zweistellige Millionen-Umsätze pro Jahr generiert! Konkret lernst du dabei Social-Media-Marketing-Strategien kennen, die in der Praxis nachweislich funktionieren und die du 1 zu 1 für dein Business umsetzen kannst. Dabei zeigt er sehr detailliert und ausführlich, wie Social Media grundsätzlich funktioniert und wie man - egal in welchem Unternehmensbereich auch immer - seine persönliche Online-Marketing-Strategie entwickelt. Das erwartet dich in 10 Modulen und 54 Videos: Modul 1: Die Theorie Verstehe, was wirklich funktioniert und welche Mythen du sofort vergessen musst! Modul 2: Das Geheimnis hinter Viralität Warum Posts durch die Decke gehen und wie du es umsetzt! Modul 3: Attraction Marketing Wie du potenzieller Kunden anziehst, Modul 4: Der perfekte Content-Plan Wie du nie wieder ratlos nach Inhalten suchst! die für dein Business interessant sind! Modul 5: Verkaufen über Social Media Wie du Follower in Kunden verwandelst! Modul 6-10: Praxisbeispiele & Technik Beispiele, wie du das in der Praxis umsetzt!
 
 ## 2. Links
 

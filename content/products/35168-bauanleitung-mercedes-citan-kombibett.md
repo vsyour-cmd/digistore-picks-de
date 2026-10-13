@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Schritt-für-Schritt <strong>Bauanleitung</strong> für ein <strong>Mercedes Citan Kombibett</strong>. Die Anleitung beschreibt alle Maße, Materialien und Hölzer, die im Baumarkt zugeschnitten und besorgt werden können. Danach werden die Hölzer und Winkel wie ein Bausatz zusammengesetzt.</p>
-<p> </p>
-<p>Das <strong>Autobett</strong> lässt sich zusammengeschoben platzsparend<strong> im Kofferraum</strong> transportieren und in <strong>wenigen Minuten zum Schlafen ausziehen</strong>.</p>
+**Vendor's marketplace description:** Schritt-für-Schritt Bauanleitung für ein Mercedes Citan Kombibett . Die Anleitung beschreibt alle Maße, Materialien und Hölzer, die im Baumarkt zugeschnitten und besorgt werden können. Danach werden die Hölzer und Winkel wie ein Bausatz zusammengesetzt. Das Autobett lässt sich zusammengeschoben platzsparend im Kofferraum transportieren und in wenigen Minuten zum Schlafen ausziehen .
 
 ## 2. Links
 

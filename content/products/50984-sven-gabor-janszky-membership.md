@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<p>Bist Du bereit, Dein Leben mit den neuesten Erkenntnissen und Trends aktiv zu gestalten? Tritt der ‚Future Me Community‘ bei und profitiere von wöchentlichen Impulsen und monatlichem Live-Coaching durch Sven Gabor Janszky, Europas führendem Zukunftsexperten.</p>
-</div>
-</div>
-<div>
-<ul>
-<li><strong>Zukunfts-Mindset</strong><strong>:</strong> Jede Woche neue Einblicke und Zugriff auf hochkarätige Onlinekurse, um Dein Verständnis für die bevorstehenden globalen Veränderungen zu schärfen.<br /><br /></li>
-<li><strong>Innerer Zirkel</strong><strong>:</strong> Erhalte exklusiven Zugang zu Sven Gabor Janszky in monatlichen Live-Calls und werde Teil einer Community, die Zukunft gestaltet.<br /><br /></li>
-<li><strong>Erstklassige Impulse</strong><strong>:</strong> Nutze personalisierte Entwicklungspläne und exklusive Inhalte, die sonst nirgendwo verfügbar sind, um Deine Persönlichkeit weiterzuentwickeln.</li>
-</ul>
-</div>
-<p> </p>
-<p>INSPIRATION - NETWORKING - ZUKUNFTS-ICH METHODE<br /><br /><strong>Dein Membership Paket im Wert von über 5.000 EURO</strong>, mit Kursen, die Dein Leben verändern werden!<br /><br /></p>
-<ul>
-<li>Erhalte direkt Zugang zu über <strong>11 Onlinekursen</strong> im Wert von über 3.000 EUR, von Sven Gabor Janszky, Hermann Scherer, Reinhard Krechler<br /><br /></li>
-<li><strong>Jeden Monat </strong>einen <strong>Gruppen-Coaching-Call mit Sven Gabor Janszky</strong> im Wert von 1.164 EUR.<br /><br /></li>
-<li><strong>2x </strong><strong>Stammtische mit Deinem persönlichen Zukunfts-Coach</strong> im Wert on 468 EUR.<br /><br /></li>
-<li>Erhalte direkt Zugang zu den Aufzeichnungen des 2b AHEAD Zukunftskongress 2022, 2021 im Wert von 398 EUR.<br /><br /></li>
-<li>Erhalte direkt Zugang zu den <strong>Aufzeichnungen des 2b AHEAD Zukunftstages</strong>, im Wert von 99 EUR.<br /><br /></li>
-<li>Erhalte direkt Zugang zu exklusiven <strong>Trendanalysen des 2b AHEAD ThinkTanks</strong><br /><br /></li>
-<li>Exklusive Episoden und Veröffentlichungen aus dem <strong>Zukunftsmacher Podcast</strong> von Sven Gabor Janszky</li>
-</ul>
-<p> </p>
-<p><strong>Nach dem Kauf erhältst Du direkt Zugang zur</strong> Future.me Skool-Community (<a>https://www.skool.com/</a>)</p>
+**Vendor's marketplace description:** Bist Du bereit, Dein Leben mit den neuesten Erkenntnissen und Trends aktiv zu gestalten? Tritt der ‚Future Me Community‘ bei und profitiere von wöchentlichen Impulsen und monatlichem Live-Coaching durch Sven Gabor Janszky, Europas führendem Zukunftsexperten. Zukunfts-Mindset : Jede Woche neue Einblicke und Zugriff auf hochkarätige Onlinekurse, um Dein Verständnis für die bevorstehenden globalen Veränderungen zu schärfen. Innerer Zirkel : Erhalte exklusiven Zugang zu Sven Gabor Janszky in monatlichen Live-Calls und werde Teil einer Community, die Zukunft gestaltet. Erstklassige Impulse : Nutze personalisierte Entwicklungspläne und exklusive Inhalte, die sonst nirgendwo verfügbar sind, um Deine Persönlichkeit weiterzuentwickeln. INSPIRATION - NETWORKING - ZUKUNFTS-ICH METHODE Dein Membership Paket im Wert von über 5.000 EURO , mit Kursen, die Dein Leben verändern werden! Erhalte direkt Zugang zu über 11 Onlinekursen im Wert von über 3.000 EUR, von Sven Gabor Janszky, Hermann Scherer, Reinhard Krechler Jeden Monat einen Gruppen-Coaching-Call mit Sven Gabor Janszky im Wert von 1.164 EUR. 2x Stammtische mit Deinem persönlichen Zukunfts-Coach im Wert on 468 EUR. Erhalte direkt Zugang zu den Aufzeichnungen des 2b AHEAD Zukunftskongress 2022, 2021 im Wert von 398 EUR. Erhalte direkt Zugang zu den Aufzeichnungen des 2b AHEAD Zukunftstages , im Wert von 99 EUR. Erhalte direkt Zugang zu exklusiven Trendanalysen des 2b AHEAD ThinkTanks Exklusive Episoden und Veröffentlichungen aus dem Zukunftsmacher Podcast von Sven Gabor Janszky Nach dem Kauf erhältst Du direkt Zugang zur Future.me Skool-Community ( https://www.skool.com/ )
 
 ## 2. Links
 

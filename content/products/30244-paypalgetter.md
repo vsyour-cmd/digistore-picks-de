@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit unserem Excel Programm lassen sich Paypaltransaktionen einfach runterladen und weiterverarbeiten.</p>
-<p>Die API Informationen sind im Paypal Login Bereich in das Excel Programm einfach zu kopieren. Schon ist das Programm nutzbar.</p>
-<p>Unter Add-Ins sieht man unter Skriptoptionen die Möglichkeit die Transaktionen von Paypal direkt in Excel herunterzuladen.</p>
-<p>Die Transaktionen können nach dem herunterladen weiterverarbeitet werden.</p>
+**Vendor's marketplace description:** Mit unserem Excel Programm lassen sich Paypaltransaktionen einfach runterladen und weiterverarbeiten. Die API Informationen sind im Paypal Login Bereich in das Excel Programm einfach zu kopieren. Schon ist das Programm nutzbar. Unter Add-Ins sieht man unter Skriptoptionen die Möglichkeit die Transaktionen von Paypal direkt in Excel herunterzuladen. Die Transaktionen können nach dem herunterladen weiterverarbeitet werden.
 
 ## 2. Links
 

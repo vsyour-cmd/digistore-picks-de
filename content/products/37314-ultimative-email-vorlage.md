@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Aktion:<br /><span style="background-color:#ffff99;">Ultimative Email Vorlage</span></h2>
-<p>Nach 6 Jahren täglicher Email und 7stelligen Umsätzen habe ich meine Ultimative Email Vorlage entwickelt.</p>
-<p>Diese Email ART hat mit Abstand die besten Reaktionen, Umsätze und Erfolg erzielt.</p>
-<p> </p>
-<p>Diese Vorlage gibt es in der AKTION für einmalig 17€ statt 198€ netto für Unternehmer</p>
-<p>50% Provision.</p>
-<p>Aktuell als BUMP-OFFER (ADD ON) mit 65% Conversion.<br />Jetzt verfügbar als FRONT-END Angebot.</p>
-<p> </p>
-<p>Oder als BUMP Angebot jetzt bei der 10-TAGE Email Challenge von mir ebenfalls integriert</p>
-<p> </p>
-<p>WAS deine Käufer bekommen:<br /><br /></p>
-<ul>
-<li>Bekomme in diesem Komplett-Training die VORLAGE für die ULTIMATIVE Email.</li>
-<li>Spezielles <strong>Briefing-Formular </strong>für dich selbst mit dem du mühelos deine Emails entwickeln kannst und einfach <strong>die 15 Schritte "schreibst"</strong></li>
-<li><strong>Video-Training zur Vorlage</strong></li>
-<li><strong>BONUS Trainings</strong>, wie die <strong>ADS Methode</strong>, mit der du viel tiefer deinen Klienten verstehst und somit auch deine Emails wirkungsvoller schreiben kannst</li>
-<li>VORLAGE inkl. Beispiel-Email + Briefing-Formular + Video Training + Bonus Videos</li>
-</ul>
+**Vendor's marketplace description:** Aktion: Ultimative Email Vorlage Nach 6 Jahren täglicher Email und 7stelligen Umsätzen habe ich meine Ultimative Email Vorlage entwickelt. Diese Email ART hat mit Abstand die besten Reaktionen, Umsätze und Erfolg erzielt. Diese Vorlage gibt es in der AKTION für einmalig 17€ statt 198€ netto für Unternehmer 50% Provision. Aktuell als BUMP-OFFER (ADD ON) mit 65% Conversion. Jetzt verfügbar als FRONT-END Angebot. Oder als BUMP Angebot jetzt bei der 10-TAGE Email Challenge von mir ebenfalls integriert WAS deine Käufer bekommen: Bekomme in diesem Komplett-Training die VORLAGE für die ULTIMATIVE Email. Spezielles Briefing-Formular für dich selbst mit dem du mühelos deine Emails entwickeln kannst und einfach die 15 Schritte "schreibst" Video-Training zur Vorlage BONUS Trainings , wie die ADS Methode , mit der du viel tiefer deinen Klienten verstehst und somit auch deine Emails wirkungsvoller schreiben kannst VORLAGE inkl. Beispiel-Email + Briefing-Formular + Video Training + Bonus Videos
 
 ## 2. Links
 

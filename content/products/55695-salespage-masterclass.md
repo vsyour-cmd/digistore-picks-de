@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Erstelle verkaufsstarke Verkaufsseiten, die "ICH WILL HABEN" bei deinen Kunden auslösen!</h3>
-<p>Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt <strong>50% Provision</strong> + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf <strong>ca. 520€ Provision im Funnel.</strong></p>
-<p>Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst!</p>
-<p>Eine gute Verkaufsseite ist der Unterschied zwischen Erfolg und Misserfolg!</p>
-<p>Stell dir vor:</p>
-<p>Gute Verkaufsseite: 100 Besucher, 10 Verkäufe = 10 x 37 = 370€.</p>
-<p>Schlechte Verkaufsseite: 100 Besucher, 2 Verkäufe = 2 x 37 = 74€ </p>
-<p><strong>300€ Unterschied,</strong> NUR, weil du eine konversionsstarke Verkaufsseite hast. <strong>Damit also ein NO Brainer!</strong></p>
-<p><strong>Das ist für dich drin:</strong><br />✅ Der richtige Aufbau einer verkaufsstarken Salespage (Wert: 99 €)<br />✅ Die besten Tools, um deine Verkaufsseite aufzubauen (Wert: 89 €)<br />✅ Bewährte KI-Befehle für Texte, Struktur &amp; Conversion-Optimierung (Wert: 149 €)<br />✅ Professionelle Vorlagen, 2 Klicks, fertig importiert (Wert: 199 €)</p>
-<p><strong>Exklusive Boni:</strong></p>
-<p><strong>Bonus 1:</strong> Eigene KI, die deine Salespage fast automatisch schreibt (Wert: 199 €)<br /><strong>Bonus 2:</strong> Profi-Bestellformular-Vorlage für maximale Abschlussrate (Wert: 149 €)<br /><strong>Bonus 3:</strong> Geheime Conversion-Hacks, die Kunden sofort klicken lassen (Wert: 299 €)</p>
-<p> </p>
+**Vendor's marketplace description:** Erstelle verkaufsstarke Verkaufsseiten, die "ICH WILL HABEN" bei deinen Kunden auslösen! Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. 520€ Provision im Funnel. Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst! Eine gute Verkaufsseite ist der Unterschied zwischen Erfolg und Misserfolg! Stell dir vor: Gute Verkaufsseite: 100 Besucher, 10 Verkäufe = 10 x 37 = 370€. Schlechte Verkaufsseite: 100 Besucher, 2 Verkäufe = 2 x 37 = 74€ 300€ Unterschied, NUR, weil du eine konversionsstarke Verkaufsseite hast. Damit also ein NO Brainer! Das ist für dich drin: ✅ Der richtige Aufbau einer verkaufsstarken Salespage (Wert: 99 €) ✅ Die besten Tools, um deine Verkaufsseite aufzubauen (Wert: 89 €) ✅ Bewährte KI-Befehle für Texte, Struktur & Conversion-Optimierung (Wert: 149 €) ✅ Professionelle Vorlagen, 2 Klicks, fertig importiert (Wert: 199 €) Exklusive Boni: Bonus 1: Eigene KI, die deine Salespage fast automatisch schreibt (Wert: 199 €) Bonus 2: Profi-Bestellformular-Vorlage für maximale Abschlussrate (Wert: 149 €) Bonus 3: Geheime Conversion-Hacks, die Kunden sofort klicken lassen (Wert: 299 €)
 
 ## 2. Links
 

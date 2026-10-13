@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein klarer Einstieg für alle, die Instagram und Facebook gezielter nutzen möchten: Dieser schriftliche Selbstlernkurs führt Schritt für Schritt durch Profil-Setup, Zielgruppe und Content-Säulen, Ideenfindung, Posting-Routine sowie einfache Auswertung.</p>
-<p>Enthalten sind ein 30-Tage-Umsetzungsplan, Checklisten, Posting-Vorlagen und 24 plattformspezifische Content-Ideen. Geeignet für Einsteiger, die eine umsetzbare Struktur statt täglichem Rätselraten suchen. Keine Reichweiten-, Kunden- oder Einkommensgarantie.</p>
-<p>Einmalzahlung: 99 € inkl. MwSt. 40 % Affiliate-Provision. Produkt-ID 736804.</p>
+**Vendor's marketplace description:** Ein klarer Einstieg für alle, die Instagram und Facebook gezielter nutzen möchten: Dieser schriftliche Selbstlernkurs führt Schritt für Schritt durch Profil-Setup, Zielgruppe und Content-Säulen, Ideenfindung, Posting-Routine sowie einfache Auswertung. Enthalten sind ein 30-Tage-Umsetzungsplan, Checklisten, Posting-Vorlagen und 24 plattformspezifische Content-Ideen. Geeignet für Einsteiger, die eine umsetzbare Struktur statt täglichem Rätselraten suchen. Keine Reichweiten-, Kunden- oder Einkommensgarantie. Einmalzahlung: 99 € inkl. MwSt. 40 % Affiliate-Provision. Produkt-ID 736804.
 
 ## 2. Links
 

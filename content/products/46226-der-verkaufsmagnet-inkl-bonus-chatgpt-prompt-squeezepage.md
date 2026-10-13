@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>AFFILIATE-PROVISION</p>
-<p>MIT MAGNETISCHER ANZIEHUNG:</p>
-<p>Erschaffe unwiderstehliche Webtexte, die Provision magisch anziehen. Inkl. Copywriting-Formel: E-Mail</p>
-<p>Für Einsteiger im Affiliate Marketing mag Copywriting wie eine entfernte Kunst erscheinen. Dieses E-Book enthüllt jedoch grundlegende Copywriting Skills, die den Grundstein für deinen Online-Business-Erfolg legen. Denn jedes erfolgreiche Affiliate-Marketing-Unternehmen beginnt mit den richtigen Worten.</p>
+**Vendor's marketplace description:** AFFILIATE-PROVISION MIT MAGNETISCHER ANZIEHUNG: Erschaffe unwiderstehliche Webtexte, die Provision magisch anziehen. Inkl. Copywriting-Formel: E-Mail Für Einsteiger im Affiliate Marketing mag Copywriting wie eine entfernte Kunst erscheinen. Dieses E-Book enthüllt jedoch grundlegende Copywriting Skills, die den Grundstein für deinen Online-Business-Erfolg legen. Denn jedes erfolgreiche Affiliate-Marketing-Unternehmen beginnt mit den richtigen Worten.
 
 ## 2. Links
 

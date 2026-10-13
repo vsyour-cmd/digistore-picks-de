@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Gitarre Lernen in 4 Wochen Crashkurs für Einsteiger. Die professionelle Gitarrenausbildung von Georg Norberg.</p>
+**Vendor's marketplace description:** Gitarre Lernen in 4 Wochen Crashkurs für Einsteiger. Die professionelle Gitarrenausbildung von Georg Norberg.
 
 ## 2. Links
 

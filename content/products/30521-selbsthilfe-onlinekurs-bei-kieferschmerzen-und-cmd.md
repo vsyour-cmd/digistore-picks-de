@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#339966;"><strong>Craniomandibuläre Dys­funktion, kurz CMD, ist eine Volkskrankheit, an der viele leiden, ohne es zu wissen!</strong></span></h2>
-<h5><span style="color:#666699;"><strong><a style="color:#666699;">https://cmd-kiefer.de/</a></strong></span></h5>
-<p><span style="color:#339966;"><strong>Von und mit Erfolgsautor Dr. Torsten Pfitzer!</strong></span></p>
-<p><span style="color:#339966;"><strong>Sichern Sie sich jetzt 50% Affiliateprovision!!</strong></span></p>
-<p><strong><span style="color:#339966;">- Klickstarke Werbemittel</span></strong></p>
-<p><strong><span style="color:#339966;">- Aktuelles Gesundheitsthema</span></strong></p>
-<p><strong><span style="color:#339966;">- Medienschwerpunkt</span></strong></p>
-<p><strong><span style="color:#339966;">- Amazon-Bestseller</span></strong></p>
-<p><strong><span style="color:#339966;">- Empfohlen von Deutschlands erfolgreichstem Sachbuchverlag riva</span></strong></p>
-<p><span style="color:#666699;"><strong>Zu den häufigsten Beschwerden zählen:</strong></span></p>
-<p>Zähneknirschen, Kiefer- und Kopfschmerzen beziehungsweise Migräne, Nackenverspannungen, Tinnitus, bis hin zu Abgeschlagenheit, Konzentrationsstörungen, Nervenreizungen, chronischen Rücken- und Gelenkschmerzen.</p>
-<p><strong><span style="color:#666699;">Wie wäre es, wenn Sie wieder ein schmerzfreies, leichtes Leben haben und Ihren geliebten Hobbies nachgehen könnten?</span></strong></p>
-<p>Um Menschen wie Ihnen zu helfen, hat Dr. Torsten Pfitzer - ganzheitlicher Schmerzexperte und Osteopath - sein ganzes Wissen und Herzblut in ein neuartiges Onlineprogramm gesteckt.</p>
-<p><span style="color:#666699;"><strong>Denn oft scheitern Menschen bei der Erstellung Ihres persönlichen Übungsprogramms. Oder sie tun sich schwer, Ihre Übungspläne durchzuziehen, weil sie nicht klar strukturiert aufgeschrieben sind. </strong></span></p>
-<p>Im "Befreit von CMD"-Onlineprogramm begleitet Sie Dr. Pfitzer zusätzlich zu den über 60 Videos mit einem Umsetzungscoaching per E-Mail über vier Monate. So können Sie sich Schritt für Schritt in kleinen Etappen und ohne Überforderung durch Ihren CMD-Befreiungsprozess navigieren lassen. On top gibt er in den E-Mails noch mehr Tipps und weiterführende Empfehlungen.</p>
-<p>Werben Sie in Social Media, Newsletter, Webseiten/Blogs...</p>
-<p><span style="color:#666699;"><strong>Fragen immer, jederzeit und gerne an: onlinekurs@m-vg.de</strong></span></p>
+**Vendor's marketplace description:** Craniomandibuläre Dys­funktion, kurz CMD, ist eine Volkskrankheit, an der viele leiden, ohne es zu wissen! https://cmd-kiefer.de/ Von und mit Erfolgsautor Dr. Torsten Pfitzer! Sichern Sie sich jetzt 50% Affiliateprovision!! - Klickstarke Werbemittel - Aktuelles Gesundheitsthema - Medienschwerpunkt - Amazon-Bestseller - Empfohlen von Deutschlands erfolgreichstem Sachbuchverlag riva Zu den häufigsten Beschwerden zählen: Zähneknirschen, Kiefer- und Kopfschmerzen beziehungsweise Migräne, Nackenverspannungen, Tinnitus, bis hin zu Abgeschlagenheit, Konzentrationsstörungen, Nervenreizungen, chronischen Rücken- und Gelenkschmerzen. Wie wäre es, wenn Sie wieder ein schmerzfreies, leichtes Leben haben und Ihren geliebten Hobbies nachgehen könnten? Um Menschen wie Ihnen zu helfen, hat Dr. Torsten Pfitzer - ganzheitlicher Schmerzexperte und Osteopath - sein ganzes Wissen und Herzblut in ein neuartiges Onlineprogramm gesteckt. Denn oft scheitern Menschen bei der Erstellung Ihres persönlichen Übungsprogramms. Oder sie tun sich schwer, Ihre Übungspläne durchzuziehen, weil sie nicht klar strukturiert aufgeschrieben sind. Im "Befreit von CMD"-Onlineprogramm begleitet Sie Dr. Pfitzer zusätzlich zu den über 60 Videos mit einem Umsetzungscoaching per E-Mail über vier Monate. So können Sie sich Schritt für Schritt in kleinen Etappen und ohne Überforderung durch Ihren CMD-Befreiungsprozess navigieren lassen. On top gibt er in den E-Mails noch mehr Tipps und weiterführende Empfehlungen. Werben Sie in Social Media, Newsletter, Webseiten/Blogs... Fragen immer, jederzeit und gerne an: onlinekurs@m-vg.de
 
 ## 2. Links
 

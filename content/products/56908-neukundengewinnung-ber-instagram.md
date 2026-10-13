@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie Unternehmen mit Instagram planbar Anfragen und Neukunden generieren</strong></p>
-<p>Für Unternehmen ist Instagram kein Spielplatz für Likes, sondern ein Vertriebskanal mit enormem Hebel. Dieses E-Book zeigt dir, wie du Reels und Karussells entlang der Customer Journey einsetzt, einen Funnel über Link in Bio und Story-CTAs aufbaust und DMs in qualifizierte Erstgespräche verwandelst. Du lernst, wie du Caption-SEO und die Explore-Seite nutzt, um gefunden zu werden, wie du Vertrauen in deine Marke aufbaust und wie du den ROI deiner Aktivitäten messbar machst. Ob Dienstleister, lokaler Betrieb oder B2B – du bekommst ein System, das nicht auf virale Zufälle setzt, sondern auf planbare, wiederkehrende Anfragen.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Content entlang der Customer Journey planen und Kaufabsicht treffen</li>
-<li>Funnel über Link in Bio, Story-CTAs und DMs aufbauen</li>
-<li>Caption-SEO und Hashtag-Strategie für maximale Auffindbarkeit</li>
-<li>Reels &amp; Karussells als Lead-Magnet gezielt einsetzen</li>
-<li>Vertrauen &amp; Markenaufbau über Story-Nähe und Social Proof</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie Unternehmen mit Instagram planbar Anfragen und Neukunden generieren Für Unternehmen ist Instagram kein Spielplatz für Likes, sondern ein Vertriebskanal mit enormem Hebel. Dieses E-Book zeigt dir, wie du Reels und Karussells entlang der Customer Journey einsetzt, einen Funnel über Link in Bio und Story-CTAs aufbaust und DMs in qualifizierte Erstgespräche verwandelst. Du lernst, wie du Caption-SEO und die Explore-Seite nutzt, um gefunden zu werden, wie du Vertrauen in deine Marke aufbaust und wie du den ROI deiner Aktivitäten messbar machst. Ob Dienstleister, lokaler Betrieb oder B2B – du bekommst ein System, das nicht auf virale Zufälle setzt, sondern auf planbare, wiederkehrende Anfragen. Das steckt drin: Content entlang der Customer Journey planen und Kaufabsicht treffen Funnel über Link in Bio, Story-CTAs und DMs aufbauen Caption-SEO und Hashtag-Strategie für maximale Auffindbarkeit Reels & Karussells als Lead-Magnet gezielt einsetzen Vertrauen & Markenaufbau über Story-Nähe und Social Proof Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

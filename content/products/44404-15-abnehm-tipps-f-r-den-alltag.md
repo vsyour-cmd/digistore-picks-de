@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Verschenke den Bestseller: 15 Abnehm-Tipps für den Alltag.</strong></span></p>
-<p> </p>
-<p><strong>Das Thema ist natürlich:</strong></p>
-<p><strong>✅ Die besten Abnehm-Tipps, die jeder in seinen Alltag einfügen kann</strong></p>
-<p><strong>✅ Geheime Tipps um den abnehm Erfolg noch zu beschleunigen</strong></p>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Verdiene an den Upsells, satte 70% an Provisonen</strong></span></p>
+**Vendor's marketplace description:** Verschenke den Bestseller: 15 Abnehm-Tipps für den Alltag. Das Thema ist natürlich: ✅ Die besten Abnehm-Tipps, die jeder in seinen Alltag einfügen kann ✅ Geheime Tipps um den abnehm Erfolg noch zu beschleunigen Verdiene an den Upsells, satte 70% an Provisonen
 
 ## 2. Links
 

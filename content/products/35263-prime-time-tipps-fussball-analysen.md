@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#99cc00;">Über 40 MIO Fussball Fans in Deutschland könnten interessiert sein!</span></p>
-<p>Fussball Analysen zur italiernischen Serie A direkt aufs Smartphone - so einfach &amp; schnell ist der Service beschrieben. Experte ist transparent, zeigt sein Gesicht und steht Rede und Antwort. </p>
-<p>Wie viel kannst Du verdienen?</p>
-<ul>
-<li><strong>40% Lifetime pro Verkauf </strong>(ca. 80,00 EUR Bruttoverdienst/Jahr)</li>
-<li>Wiedereinkehrende monatliche Umsätze</li>
-<li>bei Jahresabo sofortige Provisionen bis zu<strong> 80€ pro Sale</strong></li>
-</ul>
-<p><strong>Die Mitgliedschaft kostet nur 19,99 Euro pro Monat - ein echtes Schnäppchen! </strong></p>
-<p>Informationen zum Produkt:</p>
-<p>✅ extrem<strong> verkaufsstarke Landingpage</strong></p>
-<p><strong>✅ Lifetime-Provision </strong>oder hohe Einmalzahlung (je nach Bezahlmodell des Kunden)</p>
-<p>✅ Über 200 zufriedene Kunden (ohne Werbung!)</p>
-<p>✅ hohe Kundenzufriedenheit</p>
-<p>✅ Hohe Nachfrage &amp; <strong>Nischenprodukt</strong></p>
+**Vendor's marketplace description:** Über 40 MIO Fussball Fans in Deutschland könnten interessiert sein! Fussball Analysen zur italiernischen Serie A direkt aufs Smartphone - so einfach & schnell ist der Service beschrieben. Experte ist transparent, zeigt sein Gesicht und steht Rede und Antwort. Wie viel kannst Du verdienen? 40% Lifetime pro Verkauf (ca. 80,00 EUR Bruttoverdienst/Jahr) Wiedereinkehrende monatliche Umsätze bei Jahresabo sofortige Provisionen bis zu 80€ pro Sale Die Mitgliedschaft kostet nur 19,99 Euro pro Monat - ein echtes Schnäppchen! Informationen zum Produkt: ✅ extrem verkaufsstarke Landingpage ✅ Lifetime-Provision oder hohe Einmalzahlung (je nach Bezahlmodell des Kunden) ✅ Über 200 zufriedene Kunden (ohne Werbung!) ✅ hohe Kundenzufriedenheit ✅ Hohe Nachfrage & Nischenprodukt
 
 ## 2. Links
 

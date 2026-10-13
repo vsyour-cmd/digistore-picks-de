@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Von null zum aktiven Reddit-Mitglied mit echtem Karma und echter Community</strong></p>
-<p>Reddit ist anders als alle anderen sozialen Netzwerke – und genau das macht es so wertvoll. Dieses E-Book führt dich von der Kontoeröffnung bis zu deinem ersten Post, der wirklich Anklang findet. Du verstehst, wie Subreddits funktionieren, welche ungeschriebenen Regeln in jeder Community gelten und warum Authentizität auf Reddit keine Strategie ist, sondern eine Pflicht. Du lernst, wie du Karma aufbaust, ohne spammig zu wirken, welche Subreddits für deine Themen relevant sind und wie du durch echten Mehrwert eine Stimme entwickelst, auf die andere hören. Nach diesem E-Book machst du keine typischen Anfängerfehler mehr und weißt, wie Reddit als Lern-, Netzwerk- und Sichtbarkeitsplattform funktioniert.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Das richtige Subreddit finden – für jedes Thema und jedes Ziel</li>
-<li>Karma-Aufbau ohne Spam: so funktioniert Reputation auf Reddit</li>
-<li>Reddit-Etiquette und ungeschriebene Community-Regeln verstehen</li>
-<li>Upvotes statt Stille: was gute Posts von schlechten unterscheidet</li>
-<li>Kommentare schreiben, die gelesen, zitiert und geupvoted werden</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Von null zum aktiven Reddit-Mitglied mit echtem Karma und echter Community Reddit ist anders als alle anderen sozialen Netzwerke – und genau das macht es so wertvoll. Dieses E-Book führt dich von der Kontoeröffnung bis zu deinem ersten Post, der wirklich Anklang findet. Du verstehst, wie Subreddits funktionieren, welche ungeschriebenen Regeln in jeder Community gelten und warum Authentizität auf Reddit keine Strategie ist, sondern eine Pflicht. Du lernst, wie du Karma aufbaust, ohne spammig zu wirken, welche Subreddits für deine Themen relevant sind und wie du durch echten Mehrwert eine Stimme entwickelst, auf die andere hören. Nach diesem E-Book machst du keine typischen Anfängerfehler mehr und weißt, wie Reddit als Lern-, Netzwerk- und Sichtbarkeitsplattform funktioniert. Das steckt drin: Das richtige Subreddit finden – für jedes Thema und jedes Ziel Karma-Aufbau ohne Spam: so funktioniert Reputation auf Reddit Reddit-Etiquette und ungeschriebene Community-Regeln verstehen Upvotes statt Stille: was gute Posts von schlechten unterscheidet Kommentare schreiben, die gelesen, zitiert und geupvoted werden Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

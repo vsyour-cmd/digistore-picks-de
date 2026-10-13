@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Der beste &amp; sicherste Autoposter für <span style="color:#ff0000;"><strong>Facebook</strong></span></h2>
-<p> </p>
-<p><strong>- Geeignet für Apple,Windows,Linux</strong></p>
-<p><strong>- Chrome erweiterung</strong></p>
-<p><strong>- keine Api nutzung</strong></p>
-<p><strong>- Startklar unter 5 Minuten</strong></p>
-<p><strong>- Direkt in deinem Browser nutzen</strong></p>
-<p><strong>- Ohne extralogin für Facebook</strong></p>
-<p><strong>- Kampagnen speichern</strong></p>
-<p><strong>- Kein Limit</strong></p>
-<p><strong>- bis zu 5 unterschiedliche Texte</strong></p>
-<p><strong>- Zufalls Postzeit</strong></p>
-<h2 style="text-align:center;"> </h2>
+**Vendor's marketplace description:** Der beste & sicherste Autoposter für Facebook - Geeignet für Apple,Windows,Linux - Chrome erweiterung - keine Api nutzung - Startklar unter 5 Minuten - Direkt in deinem Browser nutzen - Ohne extralogin für Facebook - Kampagnen speichern - Kein Limit - bis zu 5 unterschiedliche Texte - Zufalls Postzeit
 
 ## 2. Links
 

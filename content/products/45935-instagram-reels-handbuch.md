@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3 style="text-align:center;"><strong>Bewerbe jetzt die Reelvolution</strong></h3>
-<h3 style="text-align:center;"><span style="text-decoration:underline;"><strong>Dein Leitfaden zu ultimativer Instagram-Magie!</strong></span></h3>
-<p> </p>
-<p><span style="text-decoration:underline;"><strong>Hier bekommt man</strong>                                                             </span></p>
-<p><strong>✅  Kreative Ideen: Teile inspirierende Reel-Ideen, die Aufmerksamkeit erregen.</strong></p>
-<p><strong>✅  Storytelling: Betone die Bedeutung einer erzählerischen Herangehensweise.</strong></p>
-<p><strong>✅  Bearbeitungstipps: Zeige, wie man Reels professionell bearbeitet.</strong></p>
-<p><strong>✅  Hashtags und Beschreibungen: Erkläre, wie man Reels optimiert, um Reichweite zu erhöhen.</strong></p>
-<p><strong>✅  Verschenke dieses E-Book an Deine Community.</strong></p>
-<p> </p>
-<p> </p>
-<p style="text-align:center;"><span style="color:#ff6600;"><strong>Im Upsell warten über 100 Euro Netto Provision auf Dich! </strong></span></p>
+**Vendor's marketplace description:** Bewerbe jetzt die Reelvolution Dein Leitfaden zu ultimativer Instagram-Magie! Hier bekommt man ✅ Kreative Ideen: Teile inspirierende Reel-Ideen, die Aufmerksamkeit erregen. ✅ Storytelling: Betone die Bedeutung einer erzählerischen Herangehensweise. ✅ Bearbeitungstipps: Zeige, wie man Reels professionell bearbeitet. ✅ Hashtags und Beschreibungen: Erkläre, wie man Reels optimiert, um Reichweite zu erhöhen. ✅ Verschenke dieses E-Book an Deine Community. Im Upsell warten über 100 Euro Netto Provision auf Dich!
 
 ## 2. Links
 

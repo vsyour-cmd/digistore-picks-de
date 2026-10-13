@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Schluss mit der täglichen Frage: „Was essen wir heute?“</strong> Mit dem digitalen Menüplaner planst Du die Mahlzeiten Deiner Familie in wenigen Minuten oder lässt die komplette Woche automatisch zusammenstellen. Weniger Stress, mehr Abwechslung und entspanntere Familienabende. Sofort online nutzbar auf PC, Tablet und Smartphone.</p>
+**Vendor's marketplace description:** Schluss mit der täglichen Frage: „Was essen wir heute?“ Mit dem digitalen Menüplaner planst Du die Mahlzeiten Deiner Familie in wenigen Minuten oder lässt die komplette Woche automatisch zusammenstellen. Weniger Stress, mehr Abwechslung und entspanntere Familienabende. Sofort online nutzbar auf PC, Tablet und Smartphone.
 
 ## 2. Links
 

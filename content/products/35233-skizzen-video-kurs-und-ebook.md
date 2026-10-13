@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein <strong>Video-Kurs und eBook für jeden, der Skizzieren lernen möchte</strong>. Hier werden die Grundlagen schnell erklärt. Anhand von enthaltenen <strong>Übungsblättern und Video-Tutorials</strong> kann mit diesem Kurs wirklich jeder das Erstellen von Skizzen schnell erlernen. </p>
-<p>Dieser Kurs beinhaltet</p>
-<ul>
-<li>Umfangreiches Wissen rund um Skizzen</li>
-<li>45 Übungsblätter</li>
-<li>40 Videos (6 Stunden) mit Zeichenübungen</li>
-<li>Persönlichen Zugang zum Video-Kurs</li>
-</ul>
+**Vendor's marketplace description:** Ein Video-Kurs und eBook für jeden, der Skizzieren lernen möchte . Hier werden die Grundlagen schnell erklärt. Anhand von enthaltenen Übungsblättern und Video-Tutorials kann mit diesem Kurs wirklich jeder das Erstellen von Skizzen schnell erlernen. Dieser Kurs beinhaltet Umfangreiches Wissen rund um Skizzen 45 Übungsblätter 40 Videos (6 Stunden) mit Zeichenübungen Persönlichen Zugang zum Video-Kurs
 
 ## 2. Links
 

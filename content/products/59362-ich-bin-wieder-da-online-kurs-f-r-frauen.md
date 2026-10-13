@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ich bin wieder da" ist ein neuer Online-Kurs von Beate Lindemann für Frauen ab 40, die viel für andere da sind und dabei sich selbst zunehmend aus den Augen verlieren. In 24 kompakten Video-Lektionen (rund 2,5 Stunden) und einem begleitenden Workbook führt der Kurs Schritt für Schritt dahin, sich selbst wieder zu spüren, das was man braucht, eigene Wünsche zuzulassen und die Partnerschaft neu zu beleben – ohne belehrenden Ton, dafür mit Tiefgang, viel Verständnis für den Alltag berufstätiger und empathischer Frauen. Der Kurs kostet einmalig 197 € (keine Ratenzahlung), ist ein reines Selbstlernprodukt ohne Live-Calls, und die Zielgruppe ist breit gestreut – ideal für Affiliates mit Reichweite im Bereich Coaching, Beziehung, Persönlichkeitsentwicklung oder Selbstfürsorge</p>
+**Vendor's marketplace description:** Ich bin wieder da" ist ein neuer Online-Kurs von Beate Lindemann für Frauen ab 40, die viel für andere da sind und dabei sich selbst zunehmend aus den Augen verlieren. In 24 kompakten Video-Lektionen (rund 2,5 Stunden) und einem begleitenden Workbook führt der Kurs Schritt für Schritt dahin, sich selbst wieder zu spüren, das was man braucht, eigene Wünsche zuzulassen und die Partnerschaft neu zu beleben – ohne belehrenden Ton, dafür mit Tiefgang, viel Verständnis für den Alltag berufstätiger und empathischer Frauen. Der Kurs kostet einmalig 197 € (keine Ratenzahlung), ist ein reines Selbstlernprodukt ohne Live-Calls, und die Zielgruppe ist breit gestreut – ideal für Affiliates mit Reichweite im Bereich Coaching, Beziehung, Persönlichkeitsentwicklung oder Selbstfürsorge
 
 ## 2. Links
 

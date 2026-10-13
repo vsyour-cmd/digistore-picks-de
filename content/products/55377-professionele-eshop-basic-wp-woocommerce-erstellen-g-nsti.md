@@ -41,44 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<h1><span style="color:#993300;"><strong>Professionelle ESHOP erstellen </strong></span></h1>
-<div>
-<h1><span style="color:#993300;"><strong>”  mit WP WooCommerce“</strong></span></h1>
-</div>
-</div>
-<div>Nur mit 2.499<em>€</em></div>
-<div>
-<div>
-<p>Basic Paket</p>
-</div>
-</div>
-</div>
-<div>
-<p> </p>
-<ul>
-<li>
-<ul>
-<li>#0 Eshop in Woocommerce or Shopify erstellen mit kostenlosen Themes</li>
-<li>#1 Eshop ist voll funktionsfähig</li>
-<li>#2 Verknüpfen mit Payments, Checkout, Policies usw.</li>
-<li>  #3 Nach Ihre Bedürfnisse. Fotos,Texte,Videos  </li>
-<li>  #4 +Einfügen die ersten 50-100 Produkten</li>
-<li>  #5 Inkl. Links zu Ihre Social Media</li>
-<li>  #6 Inkl. einfache Kontakt-formular &amp; Map</li>
-<li>  #7 Netto Preis fürs Basic Eshop Erstellen</li>
-<li>  #8 Domain Name &amp; Hosting kostet zusätzlich</li>
-<li>  #9 Nach bezahlen - folgen ZOOM Gespräche - Planung</li>
-<li>  #10 Pflege : Ja möglich zusätzlich kostet  </li>
-</ul>
-</li>
-</ul>
-<p> </p>
-<ul>
-<li>Schauen Sie hier unsere Infos &amp; Video, was können wir für Euch tun sehr günstig</li>
-</ul>
-</div>
+**Vendor's marketplace description:** Professionelle ESHOP erstellen ” mit WP WooCommerce“ Nur mit 2.499 € Basic Paket #0 Eshop in Woocommerce or Shopify erstellen mit kostenlosen Themes #1 Eshop ist voll funktionsfähig #2 Verknüpfen mit Payments, Checkout, Policies usw. #3 Nach Ihre Bedürfnisse. Fotos,Texte,Videos #4 +Einfügen die ersten 50-100 Produkten #5 Inkl. Links zu Ihre Social Media #6 Inkl. einfache Kontakt-formular & Map #7 Netto Preis fürs Basic Eshop Erstellen #8 Domain Name & Hosting kostet zusätzlich #9 Nach bezahlen - folgen ZOOM Gespräche - Planung #10 Pflege : Ja möglich zusätzlich kostet Schauen Sie hier unsere Infos & Video, was können wir für Euch tun sehr günstig
 
 ## 2. Links
 

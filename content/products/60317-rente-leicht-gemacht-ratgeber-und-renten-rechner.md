@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Rente leicht gemacht – Ratgeber und Renten-Rechner</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Abschläge und Lücken kosten jeden Monat Geld, ein Leben lang. Der Ratgeber erklärt Renteninformation, Rentenbeginn, Abschläge und Zuschläge mit allen Werten für 2026, dazu gibt es den <strong>Renten-Rechner</strong>.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Arbeitnehmer ab 50, die ihre Rente planen</li>
-<li>Menschen, die früher in Rente gehen wollen</li>
-<li>Versicherte, die ihre Renteninformation nicht verstehen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Die Renteninformation kommt oder der Rentenbeginn rückt näher</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Steuererklärung, Krankenkasse, Jobcenter und Sozialleistungen) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Rente leicht gemacht – Ratgeber und Renten-Rechner Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Abschläge und Lücken kosten jeden Monat Geld, ein Leben lang. Der Ratgeber erklärt Renteninformation, Rentenbeginn, Abschläge und Zuschläge mit allen Werten für 2026, dazu gibt es den Renten-Rechner . Die Zielgruppe Arbeitnehmer ab 50, die ihre Rente planen Menschen, die früher in Rente gehen wollen Versicherte, die ihre Renteninformation nicht verstehen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Die Renteninformation kommt oder der Rentenbeginn rückt näher Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Steuererklärung, Krankenkasse, Jobcenter und Sozialleistungen) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

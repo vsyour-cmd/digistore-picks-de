@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein ehrlicher, praktischer Ratgeber für Erwachsene mit spät diagnostiziertem ADHS – mit echten, alltagstauglichen Strategien statt "streng dich mehr an". Ideal für Zielgruppen im Bereich mentale Gesundheit, Neurodiversität und Selbsthilfe.</p>
-<p> </p>
-<p>22 Kapitel, warmherzig, ohne Diagnose-Anspruch, mit klarem Hinweis auf fachliche Abklärung. 50% Provision pro Verkauf.</p>
+**Vendor's marketplace description:** Ein ehrlicher, praktischer Ratgeber für Erwachsene mit spät diagnostiziertem ADHS – mit echten, alltagstauglichen Strategien statt "streng dich mehr an". Ideal für Zielgruppen im Bereich mentale Gesundheit, Neurodiversität und Selbsthilfe. 22 Kapitel, warmherzig, ohne Diagnose-Anspruch, mit klarem Hinweis auf fachliche Abklärung. 50% Provision pro Verkauf.
 
 ## 2. Links
 

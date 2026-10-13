@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Professioneller Faszien-Yoga-Onlinekurs für Menschen, die beweglicher bleiben oder wieder beweglicher werden möchten. Der Kurs umfasst 10 ausführliche Online-Einheiten für den gesamten Körper und kann zeit- und ortsunabhängig zu Hause absolviert werden.</p>
-<p>Ideal auch für Menschen, die viel sitzen, sich im Alltag einseitig bewegen oder einen sinnvollen Ausgleich zu anderen Sportarten suchen.</p>
-<p>Entwickelt wurde der Kurs von Elke Maria Krist, Heilpraktikerin, Schmerztherapeutin und Faszien-Yogalehrerin mit über 20 Jahren therapeutischer Erfahrung.</p>
-<p>Für Affiliates besonders interessant: 50 % Provision pro erfolgreich vermitteltem Verkauf – bei einem regulären Verkaufspreis von 299 € rund 150 € Provision. Eine ausführliche Affiliate-Support-Seite mit Promolink, Informationen zum Kurs, Werbemitteln und Kontaktmöglichkeit steht zur Verfügung.</p>
+**Vendor's marketplace description:** Professioneller Faszien-Yoga-Onlinekurs für Menschen, die beweglicher bleiben oder wieder beweglicher werden möchten. Der Kurs umfasst 10 ausführliche Online-Einheiten für den gesamten Körper und kann zeit- und ortsunabhängig zu Hause absolviert werden. Ideal auch für Menschen, die viel sitzen, sich im Alltag einseitig bewegen oder einen sinnvollen Ausgleich zu anderen Sportarten suchen. Entwickelt wurde der Kurs von Elke Maria Krist, Heilpraktikerin, Schmerztherapeutin und Faszien-Yogalehrerin mit über 20 Jahren therapeutischer Erfahrung. Für Affiliates besonders interessant: 50 % Provision pro erfolgreich vermitteltem Verkauf – bei einem regulären Verkaufspreis von 299 € rund 150 € Provision. Eine ausführliche Affiliate-Support-Seite mit Promolink, Informationen zum Kurs, Werbemitteln und Kontaktmöglichkeit steht zur Verfügung.
 
 ## 2. Links
 

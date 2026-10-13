@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Affiliate partner werden und mit verdienen es lohnt sich.</p>
+**Vendor's marketplace description:** Affiliate partner werden und mit verdienen es lohnt sich.
 
 ## 2. Links
 

@@ -41,39 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div style="font-family:Arial, Helvetica, sans-serif;color:#1e2a47;line-height:1.6;font-size:16px;">
-<p style="font-size:18px;margin:0 0 18px;"><strong style="color:#0a1226;"> Empfehlen Sie die KlickTipp Intelligence Platform </strong> – die intelligente Erweiterung für professionelles E-Mail-Marketing mit KlickTipp.</p>
-<p style="margin:0 0 22px;">KIP verbindet vorhandene KlickTipp-Daten und zeigt, was in klassischen Reports verborgen bleibt: Welche Kontakte verlieren gerade das Interesse? Welche sind besonders aktiv oder kaufnah? Bei welchen E-Mail-Providern drohen Zustellprobleme? Und welche Öffnungen stammen vermutlich von Bots?</p>
-<h3 style="color:#3b82f6;font-size:20px;margin:25px 0 10px;">KIP bietet unter anderem:</h3>
-<ul style="margin:0 0 22px;padding-left:24px;">
-<li style="margin-bottom:6px;">3 übersichtliche Dashboards mit mehr als 20 Auswertungen</li>
-<li style="margin-bottom:6px;">Engagement-Scoring und Frühwarnung bei sinkender Aktivität</li>
-<li style="margin-bottom:6px;">Erkennung kaufnaher und reaktivierbarer Kontakte</li>
-<li style="margin-bottom:6px;">Spam-Frühwarnung für einzelne E-Mail-Provider</li>
-<li style="margin-bottom:6px;">Bereinigung automatisierter Bot-Öffnungen</li>
-<li style="margin-bottom:6px;">Deep-Dive bis zum einzelnen Kontakt</li>
-<li style="margin-bottom:6px;">Individuelle KI-Auswertungen in natürlicher Sprache</li>
-<li style="margin-bottom:6px;">Export präziser Zielgruppen für KlickTipp-Kampagnen</li>
-<li style="margin-bottom:6px;">Kostenlose n8n-Automatisierungsplattform</li>
-<li style="margin-bottom:6px;">Dedizierter Server und vollständige Einrichtung</li>
-</ul>
-<p style="margin:0 0 22px;">KIP eignet sich besonders für <strong>Online-Marketer, Coaches, Kursanbieter, Newsletter-Betreiber, Affiliate-Marketer, Agenturen</strong> und <strong>KlickTipp-Consultants</strong>.</p>
-<div style="background-color:#f0f6ff;border-left:5px solid #ff6a2c;padding:16px 20px;margin:25px 0;">
-<h3 style="color:#0a1226;font-size:20px;margin:0 0 10px;">Ihre Vorteile als Affiliate:</h3>
-<ul style="margin:0;padding-left:24px;">
-<li style="margin-bottom:6px;"><strong>Einmalige Provision</strong> auf die Einrichtungsgebühr</li>
-<li style="margin-bottom:6px;"><strong>Wiederkehrende Provision</strong> auf die monatlichen Zahlungen</li>
-<li style="margin-bottom:6px;">Attraktives Software-Abonnement ohne Mindestlaufzeit</li>
-<li style="margin-bottom:6px;">Klar definierte und kaufkräftige B2B-Zielgruppe</li>
-<li style="margin-bottom:6px;">Konkreter Nutzen mit direktem Umsatzbezug</li>
-<li style="margin-bottom:6px;">Professionelle Verkaufsseite mit Produktvorführung</li>
-<li style="margin-bottom:6px;">Persönlicher deutschsprachiger Support</li>
-<li style="margin-bottom:6px;">Werbemittel und Textvorlagen für Ihre Bewerbung</li>
-</ul>
-</div>
-<p style="margin:20px 0 10px;"><strong>Voraussetzung:</strong> Für die Nutzung wird ein KlickTipp-Account mit API-Zugang ab dem Premium-Tarif benötigt.</p>
-<p style="font-size:14px;color:#64748b;margin:15px 0 0;">KIP ist eine unabhängige Erweiterung für KlickTipp und kein Produkt der KlickTipp Limited.</p>
-</div>
+**Vendor's marketplace description:** Empfehlen Sie die KlickTipp Intelligence Platform – die intelligente Erweiterung für professionelles E-Mail-Marketing mit KlickTipp. KIP verbindet vorhandene KlickTipp-Daten und zeigt, was in klassischen Reports verborgen bleibt: Welche Kontakte verlieren gerade das Interesse? Welche sind besonders aktiv oder kaufnah? Bei welchen E-Mail-Providern drohen Zustellprobleme? Und welche Öffnungen stammen vermutlich von Bots? KIP bietet unter anderem: 3 übersichtliche Dashboards mit mehr als 20 Auswertungen Engagement-Scoring und Frühwarnung bei sinkender Aktivität Erkennung kaufnaher und reaktivierbarer Kontakte Spam-Frühwarnung für einzelne E-Mail-Provider Bereinigung automatisierter Bot-Öffnungen Deep-Dive bis zum einzelnen Kontakt Individuelle KI-Auswertungen in natürlicher Sprache Export präziser Zielgruppen für KlickTipp-Kampagnen Kostenlose n8n-Automatisierungsplattform Dedizierter Server und vollständige Einrichtung KIP eignet sich besonders für Online-Marketer, Coaches, Kursanbieter, Newsletter-Betreiber, Affiliate-Marketer, Agenturen und KlickTipp-Consultants . Ihre Vorteile als Affiliate: Einmalige Provision auf die Einrichtungsgebühr Wiederkehrende Provision auf die monatlichen Zahlungen Attraktives Software-Abonnement ohne Mindestlaufzeit Klar definierte und kaufkräftige B2B-Zielgruppe Konkreter Nutzen mit direktem Umsatzbezug Professionelle Verkaufsseite mit Produktvorführung Persönlicher deutschsprachiger Support Werbemittel und Textvorlagen für Ihre Bewerbung Voraussetzung: Für die Nutzung wird ein KlickTipp-Account mit API-Zugang ab dem Premium-Tarif benötigt. KIP ist eine unabhängige Erweiterung für KlickTipp und kein Produkt der KlickTipp Limited.
 
 ## 2. Links
 

@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Bewerbe jetzt das neue LaunchReady System und profitiere von 50% Provision auf alle Addons und Upsells.</strong></p>
-<p><strong>Der schnellste Weg zu deinem eigenen digitalen Produkt</strong></p>
-<p>Mit dem <strong>LaunchReady System</strong> lernst du Schritt für Schritt, wie du dir in kurzer Zeit ein <strong>verkaufsfertiges digitales Produkt</strong> erstellst, es über <strong>Digistore24 veröffentlichst</strong> und deine <strong>ersten Einnahmen erzielst</strong> – ganz ohne Technikfrust, Ideenchaos oder Designprobleme.</p>
-<h3>Inhalte</h3>
-<ul>
-<li>
-<p><strong>Modul 1:</strong> Die 1K-Mechanik, Produktidee &amp; klare Struktur</p>
-</li>
-<li>
-<p><strong>Modul 2:</strong> Inhalte erstellen, Design, Layout &amp; Finalisierung</p>
-</li>
-<li>
-<p><strong>Modul 3:</strong> Digistore24-Setup, Salespage &amp; Funnel</p>
-</li>
-<li>
-<p><strong>Modul 4:</strong> Traffic-Kickstart &amp; 7-Tage-1K-Launchplan</p>
-</li>
-</ul>
-<h3>Für wen ist das LaunchReady System?</h3>
-<ul>
-<li>
-<p>Für <strong>Einsteiger, Quereinsteiger &amp; Creator</strong></p>
-</li>
-<li>
-<p>Für alle, die ihr <strong>erstes digitales Produkt endlich fertigstellen</strong> wollen</p>
-</li>
-<li>
-<p>Für Menschen, die schon angefangen haben, aber <strong>nie richtig gelauncht</strong> haben</p>
-</li>
-</ul>
+**Vendor's marketplace description:** Bewerbe jetzt das neue LaunchReady System und profitiere von 50% Provision auf alle Addons und Upsells. Der schnellste Weg zu deinem eigenen digitalen Produkt Mit dem LaunchReady System lernst du Schritt für Schritt, wie du dir in kurzer Zeit ein verkaufsfertiges digitales Produkt erstellst, es über Digistore24 veröffentlichst und deine ersten Einnahmen erzielst – ganz ohne Technikfrust, Ideenchaos oder Designprobleme. Inhalte Modul 1: Die 1K-Mechanik, Produktidee & klare Struktur Modul 2: Inhalte erstellen, Design, Layout & Finalisierung Modul 3: Digistore24-Setup, Salespage & Funnel Modul 4: Traffic-Kickstart & 7-Tage-1K-Launchplan Für wen ist das LaunchReady System? Für Einsteiger, Quereinsteiger & Creator Für alle, die ihr erstes digitales Produkt endlich fertigstellen wollen Für Menschen, die schon angefangen haben, aber nie richtig gelauncht haben
 
 ## 2. Links
 

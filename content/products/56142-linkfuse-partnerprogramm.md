@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>E-Mail-Marketing ohne Blindflug: Wie LinkFuse deine Affiliate-Einnahmen sicher und transparent trackt</p>
-<p>Werde jetzt Partner von <strong>LinkFuse</strong> und bewirb ein Tool, das die Affiliate-Einnahmen deiner Zielgruppe nachhaltig maximiert!</p>
-<p><strong>Deine Vorteile als Partner im Überblick:</strong></p>
-<ul>
-<li>
-<p><strong>35 % Provision auf den kompletten Funnel:</strong> Bei uns verdienst du an jedem Schritt mit! Du erhältst satte 35 % Provision – nicht nur auf das Front-End-Produkt, sondern auch auf jeden Upsell und Downsell.</p>
-</li>
-<li>
-<p><strong>Hochkonvertierender Sales-Prozess:</strong> Wir setzen auf einen kompromisslos optimierten Funnel, der deine Leads direkt und ohne Umwege in zahlende Kunden verwandelt, was dir schnelle und verlässliche Provisionen sichert.</p>
-</li>
-</ul>
-<ul>
-<li>
-<p><strong>Ready-to-use Werbematerial:</strong> Du erhältst Zugriff auf eine große Auswahl an conversion-optimierten Werbemitteln, damit du sofort starten kannst.</p>
-</li>
-<li>
-<p><strong><a href="https://linkfuse.de/affiliates/" target="_blank" rel="noreferrer noopener">Besuche jetzt unser Affiliate-Center</a></strong>, um noch heute Teil der LinkFuse-Familie zu werden und deine erste Kampagne zu starten!</p>
-</li>
-</ul>
-<p><strong>Alle Produktdetails auf der Affiliate Supportseite!</strong></p>
+**Vendor's marketplace description:** E-Mail-Marketing ohne Blindflug: Wie LinkFuse deine Affiliate-Einnahmen sicher und transparent trackt Werde jetzt Partner von LinkFuse und bewirb ein Tool, das die Affiliate-Einnahmen deiner Zielgruppe nachhaltig maximiert! Deine Vorteile als Partner im Überblick: 35 % Provision auf den kompletten Funnel: Bei uns verdienst du an jedem Schritt mit! Du erhältst satte 35 % Provision – nicht nur auf das Front-End-Produkt, sondern auch auf jeden Upsell und Downsell. Hochkonvertierender Sales-Prozess: Wir setzen auf einen kompromisslos optimierten Funnel, der deine Leads direkt und ohne Umwege in zahlende Kunden verwandelt, was dir schnelle und verlässliche Provisionen sichert. Ready-to-use Werbematerial: Du erhältst Zugriff auf eine große Auswahl an conversion-optimierten Werbemitteln, damit du sofort starten kannst. Besuche jetzt unser Affiliate-Center , um noch heute Teil der LinkFuse-Familie zu werden und deine erste Kampagne zu starten! Alle Produktdetails auf der Affiliate Supportseite!
 
 ## 2. Links
 

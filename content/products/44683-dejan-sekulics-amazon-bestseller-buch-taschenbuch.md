@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><span style="font-size:14px;">Hallo Lieber Affiliate  </span></h4>
-<p>Wenn du mein Buch bewirbst, darfst du dich auf<strong> 70%</strong> <strong>Provision</strong> pro verkauftem Buch (Taschenbuch) freuen :-)<br /><br />...und dann <strong>50% an den Folgeverkäufen</strong>, da es sich um einen Funnel handelt.   <br /><br />Besuche über den Link gerne auch meine Affiliate Support Seite <a href="https://dejan-sekulic.com/partnerprogramm">https://dejan-sekulic.com/partnerprogramm </a><br />dort findest du jede Menge sehr gute und attraktive Werbemittel.   <br />Zu jeder Zeit ist unser Support für dich per Mail erreichbar, zögere also nicht, uns bei Fragen und Unklarheiten zu kontaktieren.   <br /><br /></p>
-<h4><strong>Das bewirbst du: </strong></h4>
-<h4>Dejan Sekulics<br />Amazon Bestseller Buch (Taschenbuch) </h4>
-<h4>Die Qualität deines Wörterbuchs bestimmt die Qualität deines Lebens! Wähle deine Worte weise, denn dein Unterbewusstsein hört immer mit.<br /><br /></h4>
-<h4><em><strong>Darauf dürfen sich deine Kundinnen und Kunden freuen:</strong></em><br /><br /></h4>
-<ul style="list-style-type:disc;">
-<li>Wertvolle Denkanstösse </li>
-<li>Du wirst erkennen, wie mächtig Wort sein können  </li>
-<li>Du erhältst passende Worte für Sätze für die wichtigsten Bereiche deines Lebens</li>
-<li>Du erfährst, warum die richtigen Worte essenziell für persönlichen Erfolg sind</li>
-<li>Du wirst lernen, dir selbst die richtigen Fragen zu stellen</li>
-<li>Das Mindset erfolgreicher Menschen<br /><br /></li>
-<li>10 inspirierende Lebensweisheiten und Alltagstipps für mehr Glück und Lebensfreude</li>
-<li>Wie du dein persönliches Wörterbuch neu schreibst und so neue Ergebnisse in dein Leben ziehst</li>
-<li>Vorstellung wirkungsvoller Techniken des NLP</li>
-<li>Lerne dein Unterbewusstsein besser zu verstehen</li>
-<li>Und noch vieles mehr!!</li>
-</ul>
-<p> </p>
-<ul>
-<li>
-<h4>Jeder Affiliate <span style="background-color:#ffff00;">verdient 70% Provision</span><br />pro verkauftem Buch (Taschenbuch) <br />...und dann <span style="background-color:#ffff00;">am gesamten Funnel!!!</span></h4>
-</li>
-</ul>
+**Vendor's marketplace description:** Hallo Lieber Affiliate Wenn du mein Buch bewirbst, darfst du dich auf 70% Provision pro verkauftem Buch (Taschenbuch) freuen :-) ...und dann 50% an den Folgeverkäufen , da es sich um einen Funnel handelt. Besuche über den Link gerne auch meine Affiliate Support Seite https://dejan-sekulic.com/partnerprogramm dort findest du jede Menge sehr gute und attraktive Werbemittel. Zu jeder Zeit ist unser Support für dich per Mail erreichbar, zögere also nicht, uns bei Fragen und Unklarheiten zu kontaktieren. Das bewirbst du: Dejan Sekulics Amazon Bestseller Buch (Taschenbuch) Die Qualität deines Wörterbuchs bestimmt die Qualität deines Lebens! Wähle deine Worte weise, denn dein Unterbewusstsein hört immer mit. Darauf dürfen sich deine Kundinnen und Kunden freuen: Wertvolle Denkanstösse Du wirst erkennen, wie mächtig Wort sein können Du erhältst passende Worte für Sätze für die wichtigsten Bereiche deines Lebens Du erfährst, warum die richtigen Worte essenziell für persönlichen Erfolg sind Du wirst lernen, dir selbst die richtigen Fragen zu stellen Das Mindset erfolgreicher Menschen 10 inspirierende Lebensweisheiten und Alltagstipps für mehr Glück und Lebensfreude Wie du dein persönliches Wörterbuch neu schreibst und so neue Ergebnisse in dein Leben ziehst Vorstellung wirkungsvoller Techniken des NLP Lerne dein Unterbewusstsein besser zu verstehen Und noch vieles mehr!! Jeder Affiliate verdient 70% Provision pro verkauftem Buch (Taschenbuch) ...und dann am gesamten Funnel!!!
 
 ## 2. Links
 

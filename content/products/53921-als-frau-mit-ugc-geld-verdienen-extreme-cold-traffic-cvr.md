@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><span style="background-color:#ffff00;"><strong>Nischenlücke - Extrem hohe Conversion Rate auf Cold Traffic</strong></span></h1>
-<p><strong>Worum geht's:</strong></p>
-<ul>
-<li>Wie Frauen mit UGC (User Generated Content) Geld verdienen.</li>
-<li>Durch Reels, Fotos oder Produkttests Geld seriös und einfach Geld verdienen</li>
-</ul>
-<p><strong>Deine Vorteile:</strong></p>
-<ul>
-<li>Keine Konkurrenz</li>
-<li>Optimierter VSL</li>
-<li>Order Bump</li>
-<li>Upsell's</li>
-</ul>
-<p><strong>Unsere Empfehlung:</strong></p>
-<ul>
-<li>Targeting: Frauen zwischen 18 - 55 Jahre</li>
-<li>Instagram/TikTok organischer traffic</li>
-<li>E-Mail Listen</li>
-<li>Ads auf Meta, TikTok oder Google</li>
-</ul>
+**Vendor's marketplace description:** Nischenlücke - Extrem hohe Conversion Rate auf Cold Traffic Worum geht's: Wie Frauen mit UGC (User Generated Content) Geld verdienen. Durch Reels, Fotos oder Produkttests Geld seriös und einfach Geld verdienen Deine Vorteile: Keine Konkurrenz Optimierter VSL Order Bump Upsell's Unsere Empfehlung: Targeting: Frauen zwischen 18 - 55 Jahre Instagram/TikTok organischer traffic E-Mail Listen Ads auf Meta, TikTok oder Google
 
 ## 2. Links
 

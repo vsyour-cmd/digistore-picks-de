@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>CONTROL SERIES 05 PDF-Workbook (Cover + 33 A4).</p>
-<p> </p>
-<p>Kern: PRüFEN · BEGRENZEN · FREIGEBEN.</p>
-<p>Agent ≠ Mensch, Decision Gate, Trust-Protokoll und persönlicher TRUST-Pass.</p>
-<p> </p>
-<p>Listenpreis 49,80 € einmalig, kein Abo. Widerruf 14 Tage. Affiliate-Provision 50 %. Auto-Accept.</p>
-<p> </p>
-<p>Partner-Supportseite mit Cover-Downloads und Swipes: <a href="https://trust-05.pages.dev/affiliates/">https://trust-05.pages.dev/affiliates/</a></p>
-<p>Verkaufsseite: <a href="https://trust-05.pages.dev/">https://trust-05.pages.dev/</a></p>
-<p> </p>
-<p>Bildungs-Workbook — keine Rechts-, Steuer- oder Anlageberatung.</p>
+**Vendor's marketplace description:** CONTROL SERIES 05 PDF-Workbook (Cover + 33 A4). Kern: PRüFEN · BEGRENZEN · FREIGEBEN. Agent ≠ Mensch, Decision Gate, Trust-Protokoll und persönlicher TRUST-Pass. Listenpreis 49,80 € einmalig, kein Abo. Widerruf 14 Tage. Affiliate-Provision 50 %. Auto-Accept. Partner-Supportseite mit Cover-Downloads und Swipes: https://trust-05.pages.dev/affiliates/ Verkaufsseite: https://trust-05.pages.dev/ Bildungs-Workbook — keine Rechts-, Steuer- oder Anlageberatung.
 
 ## 2. Links
 

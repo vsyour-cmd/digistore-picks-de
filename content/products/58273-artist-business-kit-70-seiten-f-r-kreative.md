@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Artist Business Kit – Designer Edition Deluxe</strong></p>
-<p>Das Artist Business Kit ist ein digitales Business- und Planungssystem für Künstler, Kreative, Freelancer, Selbstständige und kleine Unternehmen.</p>
-<p>Das Produkt enthält 70 professionell gestaltete PowerPoint-Seiten in 7 Themenbereichen: Portfolio, Kommunikation, Verkauf, Marketing, Social Media, Organisation und Bonus-Ressourcen.</p>
-<p><strong>Warum sich die Bewerbung für Affiliates lohnt:</strong></p>
-<p>• klar definierte Zielgruppe aus Künstlern, Kreativen und Selbstständigen<br />• digitales Produkt mit sofortiger Auslieferung<br />• Verkaufspreis von 67,00 €<br />• professionelles Gold-Schwarz-Design<br />• konkreter Nutzen: Zeitersparnis, Business-Struktur und professionelle Präsentation<br />• zusätzliches Artist Portfolio als passende Erweiterung im Checkout verfügbar<br />• für Social Media, Blogs, YouTube, Newsletter und Creator-Content geeignet</p>
-<p>Das Produkt wird als digitaler Download über Digistore24 ausgeliefert. Käufer erhalten eine bearbeitbare PowerPoint-Datei sowie zusätzliche Materialien und Nutzungshinweise.</p>
-<p>Affiliates können das Produkt insbesondere bei Zielgruppen aus Kunst, Design, Content Creation, Freelancing, Selbstständigkeit und kreativem Business positionieren.</p>
-<p>Affiliate-Provision: 40 % pro vermitteltem Verkauf.</p>
+**Vendor's marketplace description:** Artist Business Kit – Designer Edition Deluxe Das Artist Business Kit ist ein digitales Business- und Planungssystem für Künstler, Kreative, Freelancer, Selbstständige und kleine Unternehmen. Das Produkt enthält 70 professionell gestaltete PowerPoint-Seiten in 7 Themenbereichen: Portfolio, Kommunikation, Verkauf, Marketing, Social Media, Organisation und Bonus-Ressourcen. Warum sich die Bewerbung für Affiliates lohnt: • klar definierte Zielgruppe aus Künstlern, Kreativen und Selbstständigen • digitales Produkt mit sofortiger Auslieferung • Verkaufspreis von 67,00 € • professionelles Gold-Schwarz-Design • konkreter Nutzen: Zeitersparnis, Business-Struktur und professionelle Präsentation • zusätzliches Artist Portfolio als passende Erweiterung im Checkout verfügbar • für Social Media, Blogs, YouTube, Newsletter und Creator-Content geeignet Das Produkt wird als digitaler Download über Digistore24 ausgeliefert. Käufer erhalten eine bearbeitbare PowerPoint-Datei sowie zusätzliche Materialien und Nutzungshinweise. Affiliates können das Produkt insbesondere bei Zielgruppen aus Kunst, Design, Content Creation, Freelancing, Selbstständigkeit und kreativem Business positionieren. Affiliate-Provision: 40 % pro vermitteltem Verkauf.
 
 ## 2. Links
 

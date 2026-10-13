@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>digitales Haushaltsbuch im vertrauten Sparbuch-Look: Einnahmen und Ausgaben erfassen, Überblick behalten, 100% offline und ohne Konto. Zielgruppe: Alle, die ihre Finanzen im Griff haben wollen, aber keine Lust auf Cloud-Apps mit Tracking oder monatliche Abos haben. Einmalzahlung statt Abo, sehr niedrige Kaufhürde.</p>
+**Vendor's marketplace description:** digitales Haushaltsbuch im vertrauten Sparbuch-Look: Einnahmen und Ausgaben erfassen, Überblick behalten, 100% offline und ohne Konto. Zielgruppe: Alle, die ihre Finanzen im Griff haben wollen, aber keine Lust auf Cloud-Apps mit Tracking oder monatliche Abos haben. Einmalzahlung statt Abo, sehr niedrige Kaufhürde.
 
 ## 2. Links
 

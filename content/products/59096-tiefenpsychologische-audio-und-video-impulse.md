@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Einmalige Kombination von tiefenpsychologischer Erfahrung, Persönlichkeitsentwicklung und Managementtraining. </p>
-<p>Der Autor Prof. Dr. Jürgen Polke bringt ein geniales Erfahrungswissen aus Managementtraining, psychotherapeutischem Coaching, unternehmerischem Wissen und internationaler Führungsforschung in diese Audios und Videos ein. </p>
-<p>Ergänzt wird das Angebot der Impulse - Akademie durch Seminare und Vorträge, die sowohl digital als auch in Präsenz durchfgeführt werden.</p>
-<p>Dies macht das Angebot einzigartig, wie viele tausend   Anwender bestätigen.</p>
-<p>Die bereits bei digistore angebotenen Audios sind nur eine kleine Postprobe.</p>
-<p>Das Portfolio der Impulse Akademie bietet in Kürze eine Vielzahl von Seminaren, Lehrgängen und universitären Zertifikaten sowie modularen internationalen Studiengängen.</p>
-<p>Für Influencer mit Interessensfeldern im Feld des Marktes für digitale Bildungsangebote, Entrepreneurship, Persönlichkeitsentwicklung und mentale Gesundheit bietet sich mit der Impulse - Akademie eine tolle Chance zur Partnerschaft in einem innovativen Umfeld mit großem Entwicklungspotential!</p>
+**Vendor's marketplace description:** Einmalige Kombination von tiefenpsychologischer Erfahrung, Persönlichkeitsentwicklung und Managementtraining. Der Autor Prof. Dr. Jürgen Polke bringt ein geniales Erfahrungswissen aus Managementtraining, psychotherapeutischem Coaching, unternehmerischem Wissen und internationaler Führungsforschung in diese Audios und Videos ein. Ergänzt wird das Angebot der Impulse - Akademie durch Seminare und Vorträge, die sowohl digital als auch in Präsenz durchfgeführt werden. Dies macht das Angebot einzigartig, wie viele tausend Anwender bestätigen. Die bereits bei digistore angebotenen Audios sind nur eine kleine Postprobe. Das Portfolio der Impulse Akademie bietet in Kürze eine Vielzahl von Seminaren, Lehrgängen und universitären Zertifikaten sowie modularen internationalen Studiengängen. Für Influencer mit Interessensfeldern im Feld des Marktes für digitale Bildungsangebote, Entrepreneurship, Persönlichkeitsentwicklung und mentale Gesundheit bietet sich mit der Impulse - Akademie eine tolle Chance zur Partnerschaft in einem innovativen Umfeld mit großem Entwicklungspotential!
 
 ## 2. Links
 

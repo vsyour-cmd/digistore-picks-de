@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#ff0000;">10. Überarbeitete Ausgabe</span></p>
-<p>Bist Du auf der Suche nach einer hilfreichen Lektüre, in der Dir alles wichtige zum Auswandern nach Kroatien erklärt wird und Dich dabei an die Hand nimmt?<br /><br />Mein großes Anliegen zur Veröffentlichung dieses Ratgebers lag darin, dass ich selbst Ende September 2018 nach Kroatien ausgewandert bin.</p>
-<p> </p>
-<p><span style="color:#ff0000;"><strong>Bitte unbedingt beachten:</strong></span><br /><span style="color:#ff0000;">Hier handelt es sich um ein digitales Produkt und kein pysisches Buch.</span></p>
+**Vendor's marketplace description:** 10. Überarbeitete Ausgabe Bist Du auf der Suche nach einer hilfreichen Lektüre, in der Dir alles wichtige zum Auswandern nach Kroatien erklärt wird und Dich dabei an die Hand nimmt? Mein großes Anliegen zur Veröffentlichung dieses Ratgebers lag darin, dass ich selbst Ende September 2018 nach Kroatien ausgewandert bin. Bitte unbedingt beachten: Hier handelt es sich um ein digitales Produkt und kein pysisches Buch.
 
 ## 2. Links
 

@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Steuererklärung leicht gemacht – Ratgeber und Rechner für das Steuerjahr 2025</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Viele verzichten auf eine Erstattung, weil sie nicht wissen, was absetzbar ist. Der Ratgeber erklärt die Steuererklärung für 2025 Schritt für Schritt, der <strong>Steuer-Rechner</strong> schätzt die Erstattung und zeigt, welcher Betrag in ELSTER wohin gehört.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Arbeitnehmer, die noch nie eine Steuererklärung gemacht haben</li>
-<li>Menschen, die nicht wissen, was sie absetzen dürfen</li>
-<li>Familien und Paare, die ihre Erstattung selbst holen wollen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Die Steuererklärung steht an oder das Finanzamt fordert sie an</li>
-<li><strong>Fairer Preis:</strong> einmal zahlen, kein Abo</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, besonders vor den Abgabefristen</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Rente, Stromkosten, Mietrecht) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Steuererklärung leicht gemacht – Ratgeber und Rechner für das Steuerjahr 2025 Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Viele verzichten auf eine Erstattung, weil sie nicht wissen, was absetzbar ist. Der Ratgeber erklärt die Steuererklärung für 2025 Schritt für Schritt, der Steuer-Rechner schätzt die Erstattung und zeigt, welcher Betrag in ELSTER wohin gehört. Die Zielgruppe Arbeitnehmer, die noch nie eine Steuererklärung gemacht haben Menschen, die nicht wissen, was sie absetzen dürfen Familien und Paare, die ihre Erstattung selbst holen wollen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Die Steuererklärung steht an oder das Finanzamt fordert sie an Fairer Preis: einmal zahlen, kein Abo Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, besonders vor den Abgabefristen Mehr verdienen: Weitere passende Produkte (Rente, Stromkosten, Mietrecht) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der Onlinekurs „Kapitalarchitektur 50/30/20“ zeigt Privatanlegern ein strukturiertes System zum Aufbau eines stabilen Investment-Depots.</strong></p>
-<p>Statt kurzfristiger Spekulation lernen Teilnehmer ein <strong>3-Ebenen-Modell</strong>, mit dem Kapital systematisch aufgeteilt wird:</p>
-<p>• Fundamentale Assets<br />• Saisonale Strategien<br />• Trading-Assets</p>
-<p>Der Kurs richtet sich an Anleger, die ihr Kapital langfristig strukturiert aufbauen möchten und dabei typische Anfängerfehler vermeiden wollen.</p>
-<p><strong>Vorteile für Affiliates</strong></p>
-<p>✔ sehr verständlicher Kurs für Einsteiger<br />✔ wachsender Markt: private Geldanlage<br />✔ klare Struktur statt Spekulation<br />✔ professionelle Verkaufsseite<br />✔ <strong>50 % Affiliate-Provision</strong></p>
-<p>Der Kurs eignet sich besonders für Zielgruppen wie:</p>
-<p>• Einsteiger im Investment<br />• Menschen, die ihr Geld strukturierter anlegen wollen<br />• Zuschauer von Finanz- und Börsen-Kanälen</p>
+**Vendor's marketplace description:** Der Onlinekurs „Kapitalarchitektur 50/30/20“ zeigt Privatanlegern ein strukturiertes System zum Aufbau eines stabilen Investment-Depots. Statt kurzfristiger Spekulation lernen Teilnehmer ein 3-Ebenen-Modell , mit dem Kapital systematisch aufgeteilt wird: • Fundamentale Assets • Saisonale Strategien • Trading-Assets Der Kurs richtet sich an Anleger, die ihr Kapital langfristig strukturiert aufbauen möchten und dabei typische Anfängerfehler vermeiden wollen. Vorteile für Affiliates ✔ sehr verständlicher Kurs für Einsteiger ✔ wachsender Markt: private Geldanlage ✔ klare Struktur statt Spekulation ✔ professionelle Verkaufsseite ✔ 50 % Affiliate-Provision Der Kurs eignet sich besonders für Zielgruppen wie: • Einsteiger im Investment • Menschen, die ihr Geld strukturierter anlegen wollen • Zuschauer von Finanz- und Börsen-Kanälen
 
 ## 2. Links
 

@@ -41,35 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Affiliate Quiz AI – Launch-Angebot</strong></p>
-<p><strong>Verwandle Links in Erlebnisse.</strong> Hör auf, nackte Affiliate-Links zu verbreiten, die ignoriert oder gesperrt werden. Erstelle in unter 60 Sekunden interaktive Beratungs-Quizzes, die Vertrauen aufbauen und Sales generieren.</p>
-<p><strong>Deine Vorteile auf einen Blick:</strong></p>
-<ul>
-<li>
-<p><strong>60-Sekunden-Setup:</strong> Produkt und Link eingeben, KI-Quiz generieren, fertig.</p>
-</li>
-<li>
-<p><strong>Maximale Conversion:</strong> Beratungs-Quizzes verkaufen nachweislich besser als direkte Links.</p>
-</li>
-<li>
-<p><strong>Keine Technik-Hürden:</strong> Perfekt für Anfänger ohne eigene Website oder Hosting.</p>
-</li>
-<li>
-<p><strong>Volle Personalisierung:</strong> Wähle Themes und füge dein eigenes Experten-Foto hinzu.</p>
-</li>
-<li>
-<p><strong>Inklusive Strategie-Guide:</strong> Schritt-für-Schritt Anleitung für Traffic über Social Media.</p>
-</li>
-</ul>
-<p><strong>Dein Paket:</strong></p>
-<ul>
-<li>
-<p><strong>Vollzugriff</strong> auf das Affiliate Quiz AI Dashboard.</p>
-</li>
-<li>
-<p><strong>Unbegrenzte</strong> Erstellung von Quiz-Funnels.</p>
-</li>
-</ul>
+**Vendor's marketplace description:** Affiliate Quiz AI – Launch-Angebot Verwandle Links in Erlebnisse. Hör auf, nackte Affiliate-Links zu verbreiten, die ignoriert oder gesperrt werden. Erstelle in unter 60 Sekunden interaktive Beratungs-Quizzes, die Vertrauen aufbauen und Sales generieren. Deine Vorteile auf einen Blick: 60-Sekunden-Setup: Produkt und Link eingeben, KI-Quiz generieren, fertig. Maximale Conversion: Beratungs-Quizzes verkaufen nachweislich besser als direkte Links. Keine Technik-Hürden: Perfekt für Anfänger ohne eigene Website oder Hosting. Volle Personalisierung: Wähle Themes und füge dein eigenes Experten-Foto hinzu. Inklusive Strategie-Guide: Schritt-für-Schritt Anleitung für Traffic über Social Media. Dein Paket: Vollzugriff auf das Affiliate Quiz AI Dashboard. Unbegrenzte Erstellung von Quiz-Funnels.
 
 ## 2. Links
 

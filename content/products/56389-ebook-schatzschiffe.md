@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein faszinierendes Thema mit starkem Storytelling-Potenzial:</p>
-<p>Dieses Buch verbindet Abenteuer, Geschichte, Piratenlegenden und echte Schatzsuchen zu einer packenden Reise durch versunkene Reichtümer und maritime Geheimnisse.</p>
-<p>Es spricht Geschichtsinteressierte, Abenteuerfans, Schatzsucher-Enthusiasten und Leser an, die von legendären Wracks wie der Atocha, San José oder Titanic fasziniert sind.</p>
-<p>Die Mischung aus historischen Fakten, verborgenen Schätzen, Piraterie und moderner Bergungstechnologie sorgt für hohe Aufmerksamkeit und starke Klickrates im Content-, Social-Media- und Dokumentationsumfeld.</p>
-<p>Ein emotional aufgeladenes Produkt mit breiter Zielgruppe und hohem Verkaufsreiz für Affiliates.</p>
+**Vendor's marketplace description:** Ein faszinierendes Thema mit starkem Storytelling-Potenzial: Dieses Buch verbindet Abenteuer, Geschichte, Piratenlegenden und echte Schatzsuchen zu einer packenden Reise durch versunkene Reichtümer und maritime Geheimnisse. Es spricht Geschichtsinteressierte, Abenteuerfans, Schatzsucher-Enthusiasten und Leser an, die von legendären Wracks wie der Atocha, San José oder Titanic fasziniert sind. Die Mischung aus historischen Fakten, verborgenen Schätzen, Piraterie und moderner Bergungstechnologie sorgt für hohe Aufmerksamkeit und starke Klickrates im Content-, Social-Media- und Dokumentationsumfeld. Ein emotional aufgeladenes Produkt mit breiter Zielgruppe und hohem Verkaufsreiz für Affiliates.
 
 ## 2. Links
 

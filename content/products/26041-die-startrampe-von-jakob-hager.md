@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>50% Provision jeden Monat! </h1>
-<p>Wir bieten monatlich 50% Provision auf unser Erfolgsprodukt Startrampe. Die Startrampe ist eine leicht bedienbare Marketing- und Landing-Page-Software. Die Startrampe kann verwendet werden, um E-Mail Adressen zu sammeln, Produkte zu verkaufen oder für Kontaktanfragen an ein lokales Unternehmen. Ebenfalls inklusive: ein kompletter Blog, div. Marketingtools wie z.B. die Anbindung an Klick-Tipp, Integration vom Facebook Pixel, Google Analytics Anbindung und unser ausgezeichneter Support. </p>
-<p>Zusätzlich bekommen unsere Partner Zugriff auf den <a>exklusiven Partner-Mitgliederbereich</a> mit Erklärungen zum Produkt, Affiliate-Verkaufsstrategien und Werbemitteln.</p>
-<h2>Mit der Startrampe das eigene Online Business starten! </h2>
-<p>Viele Online Business Anfänger kennen diese Zweifel:</p>
-<ul><li>"Wie funktioniert die Technik?"</li>
-<li>"Warum ist am Anfang alles so teuer?"</li>
-<li>"Wieso dauert alles so lange?"</li>
-<li>"Wie machen das die großen Online-Marketer?"</li>
-</ul><p>Diese Unsicherheiten sind ein häufiger Grund dafür, warum viele tolle Ideen leider nie umgesetzt werden. Mit der Startrampe kann man innerhalb von 10 Minuten eine Geschäftsidee online präsentieren und testen.</p>
-<h2>Mit der Startrampe inkludiert: </h2>
-<ul><li>Landing-Page zum Testen von Produkten</li>
-<li>Blog-Software für Content Marketing</li>
-<li>Verkaufsseiten</li>
-<li>Premium Support von Online Marketing Experten </li>
-<li>Videokurs mit über 100 Einheiten (Von der Business Idee bis zum Produktlaunch) </li>
-</ul>
+**Vendor's marketplace description:** 50% Provision jeden Monat! Wir bieten monatlich 50% Provision auf unser Erfolgsprodukt Startrampe. Die Startrampe ist eine leicht bedienbare Marketing- und Landing-Page-Software. Die Startrampe kann verwendet werden, um E-Mail Adressen zu sammeln, Produkte zu verkaufen oder für Kontaktanfragen an ein lokales Unternehmen. Ebenfalls inklusive: ein kompletter Blog, div. Marketingtools wie z.B. die Anbindung an Klick-Tipp, Integration vom Facebook Pixel, Google Analytics Anbindung und unser ausgezeichneter Support. Zusätzlich bekommen unsere Partner Zugriff auf den exklusiven Partner-Mitgliederbereich mit Erklärungen zum Produkt, Affiliate-Verkaufsstrategien und Werbemitteln. Mit der Startrampe das eigene Online Business starten! Viele Online Business Anfänger kennen diese Zweifel: "Wie funktioniert die Technik?" "Warum ist am Anfang alles so teuer?" "Wieso dauert alles so lange?" "Wie machen das die großen Online-Marketer?" Diese Unsicherheiten sind ein häufiger Grund dafür, warum viele tolle Ideen leider nie umgesetzt werden. Mit der Startrampe kann man innerhalb von 10 Minuten eine Geschäftsidee online präsentieren und testen. Mit der Startrampe inkludiert: Landing-Page zum Testen von Produkten Blog-Software für Content Marketing Verkaufsseiten Premium Support von Online Marketing Experten Videokurs mit über 100 Einheiten (Von der Business Idee bis zum Produktlaunch)
 
 ## 2. Links
 

@@ -41,50 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit diesem <strong>Online-Kurs</strong> lernst du beeindruckende <strong>Bilder am Tablet oder PC zu zeichnen</strong>. Hier bekommst du alle <strong>Grundlagen, viele Tipps und umfangreiche Praxisübungen</strong>. Starte jetzt und werde zum Profi!</p>
-<div>
-<div>
-<h3>Das beinhaltet der Kurs</h3>
-<ul>
-<li><strong>7 Stunden Video-Tutorials </strong>mit 22 Übungen</li>
-<li><strong>Dateien &amp; Vorlagen</strong> zu den Übungen als Download</li>
-</ul>
-<div>
-<div>
-<h3>Mit diesem Kurs lernst du</h3>
-</div>
-</div>
-
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<ul>
-<li>Grundlagen des digitalen Zeichnens</li>
-<li>Alles über die benötigte Hard- &amp; Software</li>
-<li>Alles über die richtige Auflösung &amp; Größe von Bildern</li>
-<li>Komplette Einführung in digitale Zeichenwerkzeuge</li>
-<li>Komplette Übersicht über Anpassungswerkzeuge &amp; Filter</li>
-<li>Digital Skizzieren &amp; Szenen entwerfen</li>
-<li>Erstellen von digitalen Detailzeichnungen &amp; Illustrationen</li>
-<li>igitale Schraffuren &amp; Schattierungen</li>
-<li>Digitales Malen oder Kolorierung von Bildern</li>
-<li>Schritt für Schritt Praxisübungen in mehreren Stilen</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div> </div>
-</div>
-</div>
-
-</div>
-</div>
+**Vendor's marketplace description:** Mit diesem Online-Kurs lernst du beeindruckende Bilder am Tablet oder PC zu zeichnen . Hier bekommst du alle Grundlagen, viele Tipps und umfangreiche Praxisübungen . Starte jetzt und werde zum Profi! Das beinhaltet der Kurs 7 Stunden Video-Tutorials mit 22 Übungen Dateien & Vorlagen zu den Übungen als Download Mit diesem Kurs lernst du Grundlagen des digitalen Zeichnens Alles über die benötigte Hard- & Software Alles über die richtige Auflösung & Größe von Bildern Komplette Einführung in digitale Zeichenwerkzeuge Komplette Übersicht über Anpassungswerkzeuge & Filter Digital Skizzieren & Szenen entwerfen Erstellen von digitalen Detailzeichnungen & Illustrationen igitale Schraffuren & Schattierungen Digitales Malen oder Kolorierung von Bildern Schritt für Schritt Praxisübungen in mehreren Stilen
 
 ## 2. Links
 

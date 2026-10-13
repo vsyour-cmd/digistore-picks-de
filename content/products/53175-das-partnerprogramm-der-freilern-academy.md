@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate-Partner der FreiLern-Academy &amp; verdiene mit!</strong></p>
-<p>Du möchtest Familien auf ihrem Weg raus aus dem Schulsystem begleiten – und dabei selbst ganz nebenbei Geld verdienen?</p>
-<p>Dann werde Affiliate-Partner für <strong>Deschool your Life</strong>, dem ersten Onlinekurs der <strong>FreiLern Academy</strong> und teile eine Botschaft, die die Welt wirklich verändert!</p>
-<hr />
-<p><strong>Deine Vorteile als Affiliate:</strong></p>
-<p>✅ <strong>Faire Provisionen</strong> für jede erfolgreiche Empfehlung<br />✅ <strong>Sinnvolle Mission</strong> – du hilfst Eltern beim mutigen Schritt in ein freies Leben<br />✅ <strong>Erprobtes Produkt</strong> – viele Familien lieben den Kurs bereits<br />✅ <strong>Kein Verkaufsdruck</strong> – du teilst einfach deine Überzeugung<br />✅ <strong>Werbematerial inklusive</strong> – Texte, Grafiken &amp; Vorlagen zur direkten Nutzung<br />✅ <strong>Einfacher Einstieg</strong> – kein technisches Know-how nötig<br />✅ <strong>Ideal für Freilerner, Coaches &amp; Content Creator</strong> mit Herz</p>
+**Vendor's marketplace description:** Werde Affiliate-Partner der FreiLern-Academy & verdiene mit! Du möchtest Familien auf ihrem Weg raus aus dem Schulsystem begleiten – und dabei selbst ganz nebenbei Geld verdienen? Dann werde Affiliate-Partner für Deschool your Life , dem ersten Onlinekurs der FreiLern Academy und teile eine Botschaft, die die Welt wirklich verändert! Deine Vorteile als Affiliate: ✅ Faire Provisionen für jede erfolgreiche Empfehlung ✅ Sinnvolle Mission – du hilfst Eltern beim mutigen Schritt in ein freies Leben ✅ Erprobtes Produkt – viele Familien lieben den Kurs bereits ✅ Kein Verkaufsdruck – du teilst einfach deine Überzeugung ✅ Werbematerial inklusive – Texte, Grafiken & Vorlagen zur direkten Nutzung ✅ Einfacher Einstieg – kein technisches Know-how nötig ✅ Ideal für Freilerner, Coaches & Content Creator mit Herz
 
 ## 2. Links
 

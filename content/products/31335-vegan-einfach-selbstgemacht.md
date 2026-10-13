@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Veganes Kochbuch mit den 60 beliebtesten vollwertigen Rezepten vom Foodblog Beerenlecker. </p>
-<p>Vegan. Vollwertig. Einfach.</p>
-<ul><li>ohne Industriezucker und Auszugsmehle, größtenteils auch ölfrei​</li>
-<li>inklusive Küchentipps rund um ein vollwertiges veganes Leben​</li>
-<li>alltagstauglich und easy</li>
-<li>übersichtlich arrangiert und mit vielen nützlichen Tipps</li>
-</ul>
+**Vendor's marketplace description:** Veganes Kochbuch mit den 60 beliebtesten vollwertigen Rezepten vom Foodblog Beerenlecker. Vegan. Vollwertig. Einfach. ohne Industriezucker und Auszugsmehle, größtenteils auch ölfrei​ inklusive Küchentipps rund um ein vollwertiges veganes Leben​ alltagstauglich und easy übersichtlich arrangiert und mit vielen nützlichen Tipps
 
 ## 2. Links
 

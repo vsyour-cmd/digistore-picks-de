@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Video-Kurs "Sprache professionell aufnehmen"</strong></p>
-<p>Lernen Sie innerhalb weniger Stunden von einem professionellen Sprecher, wie Sie eine professionelle Sprachaufnahme in Tonstudio- und Rundfunk-Qualität aufnehmen können und lassen Sie sich dabei persönlich von Matthias Ernst Holzmann coachen!</p>
-<p>Sie erhalten den Video-Kurs, bis zu 10 Email-Konsultationen und 2 Skype-Sessions mit einer Gesamtdauer von bis zu 60 Minuten.</p>
+**Vendor's marketplace description:** Video-Kurs "Sprache professionell aufnehmen" Lernen Sie innerhalb weniger Stunden von einem professionellen Sprecher, wie Sie eine professionelle Sprachaufnahme in Tonstudio- und Rundfunk-Qualität aufnehmen können und lassen Sie sich dabei persönlich von Matthias Ernst Holzmann coachen! Sie erhalten den Video-Kurs, bis zu 10 Email-Konsultationen und 2 Skype-Sessions mit einer Gesamtdauer von bis zu 60 Minuten.
 
 ## 2. Links
 

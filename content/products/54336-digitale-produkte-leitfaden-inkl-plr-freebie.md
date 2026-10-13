@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Bewerbe jetzt unser Freebie und profitiere auf 50% Provision auf alle Addons + Upsells.</strong></p>
-<p><strong>Es sind weit über 100€ Provision im Funnel möglich.</strong></p>
-<p> </p>
-<p><strong>Der ultimative Digitale Produkte Leitfaden + komplette PLR-Lizenz</strong> </p>
-<p>In diesem Guide erfährst du, was digitale Produkte sind, wie du sie ganz einfach selbst erstellst, die perfekte Nische findest und deine Produkte erfolgreich online verkaufst.<br />Lerne Schritt für Schritt, wie du damit echtes Einkommen aufbauen kannst – inklusive einem <strong>Geheimtipp</strong>, den kaum jemand kennt!</p>
-<p>Diesen Guide bekommst du inkl. PLR-Lizenz</p>
-<p>Das bedeutet:</p>
-<p>• <strong>Du kannst alles nach Belieben anpassen</strong>: Schriftarten, Farben, Cover, Bilder und Design ändern.</p>
-<p>• <strong>Du kannst personalisieren</strong>: Deinen Namen, deine Marke, dein Logo, deinen Instagram oder andere Informationen hinzufügen.</p>
-<p>• <strong>Du kannst sie weiterverkaufen oder verschenken</strong>: Zum Preis deiner Wahl und 100 % des Gewinns behalten.</p>
-<p><strong>Der Guide ist individuell in Canva anpassbar und wird mit einem Vorlagenlink versandt!</strong></p>
-<p><strong>Du bekommst das Produkt sofort nach dem Kauf per E-Mail zugesendet, auch wenn es 3 Uhr Nachts ist.</strong></p>
+**Vendor's marketplace description:** Bewerbe jetzt unser Freebie und profitiere auf 50% Provision auf alle Addons + Upsells. Es sind weit über 100€ Provision im Funnel möglich. Der ultimative Digitale Produkte Leitfaden + komplette PLR-Lizenz In diesem Guide erfährst du, was digitale Produkte sind, wie du sie ganz einfach selbst erstellst, die perfekte Nische findest und deine Produkte erfolgreich online verkaufst. Lerne Schritt für Schritt, wie du damit echtes Einkommen aufbauen kannst – inklusive einem Geheimtipp , den kaum jemand kennt! Diesen Guide bekommst du inkl. PLR-Lizenz Das bedeutet: • Du kannst alles nach Belieben anpassen : Schriftarten, Farben, Cover, Bilder und Design ändern. • Du kannst personalisieren : Deinen Namen, deine Marke, dein Logo, deinen Instagram oder andere Informationen hinzufügen. • Du kannst sie weiterverkaufen oder verschenken : Zum Preis deiner Wahl und 100 % des Gewinns behalten. Der Guide ist individuell in Canva anpassbar und wird mit einem Vorlagenlink versandt! Du bekommst das Produkt sofort nach dem Kauf per E-Mail zugesendet, auch wenn es 3 Uhr Nachts ist.
 
 ## 2. Links
 

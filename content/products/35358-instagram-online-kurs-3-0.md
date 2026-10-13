@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="text-decoration:underline;">Nehme jetzt am offiziellen Partnerprogramm von Tanja Vallee teil und erhalte Provisionen!</span></p>
-<p><strong>Produkt: Instagram online Kurs 2.0</strong></p>
-<p><span style="background-color:#ffff00;">Pro Sale bekommst du <strong>50 Prozent</strong> des Verkaufspreises plus Vergütung an allen Funnel-Folgeprodukten durch ggf. sogar <strong>Lifetime-Provisionen.</strong></span></p>
-<div> </div>
-<div><span style="text-decoration:underline;"><strong>Deine Vorteile:</strong></span></div>
-<div> </div>
-<div>
-<ul>
-<li><strong>50% Provision</strong></li>
-<li><strong>PLUS Provisionen auf alle Upsells (auch im Memberbereich)</strong></li>
-<li><strong>Hohe Kundenzufriedenheit</strong></li>
-</ul>
-</div>
+**Vendor's marketplace description:** Nehme jetzt am offiziellen Partnerprogramm von Tanja Vallee teil und erhalte Provisionen! Produkt: Instagram online Kurs 2.0 Pro Sale bekommst du 50 Prozent des Verkaufspreises plus Vergütung an allen Funnel-Folgeprodukten durch ggf. sogar Lifetime-Provisionen. Deine Vorteile: 50% Provision PLUS Provisionen auf alle Upsells (auch im Memberbereich) Hohe Kundenzufriedenheit
 
 ## 2. Links
 

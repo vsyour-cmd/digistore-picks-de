@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Video-Kurs: Microsoft OneNote im Unternehmen</h1>
-<p>„OneNote ist Ihr digitales Notizbuch, mit dem Sie alles auf allen Ihren mobilen Geräten festhalten und ordnen können. Notieren Sie kurz Ihre Ideen, behalten Sie Kurs- und Besprechungsnotizen im Griff, schneiden Sie Informationen im Web aus, erstellen Sie Aufgabenlisten, und skizzieren und zeichnen Sie Einfälle.“ So beschreibt Microsoft das Anwendungsgebiet von OneNote.</p>
-<h2><strong>Empfehle unsere Videoschulungen weiter und verdiene bei jedem deiner Verkäufe mit!</strong></h2>
-<h4>Wir bieten viele IT-Zertifizierung, System-Administration, Microsoft Office Tutorials Videoschulungen zu günstigen Preisen an.</h4>
-<p>Deine Vorteile als Affiliate Partner</p>
-<ul>
-<li><strong>Hohe Provision von bis zu 50%</strong></li>
-<li>Günstige Kurse die sich leicht verkaufen lassen</li>
-<li>Sehr zufriedene Kunden - durchschnittliche Bewertungsquote 4,7 Sterne</li>
-<li>Bekannte Dozenten durch den Heise Verlag und Udemy mit über 60.000 Verkäufen</li>
-<li>Werbemittel (Banner) verfügbar</li>
-<li>100-prozentiger Affiliate-Schutz: garantiert korrekte und pünktlich ausgezahlte Provisionen sowie Real-Time-Tracking durch Digistore24</li>
-<li>Affiliate Support direkt durch unsere Dozenten</li>
-</ul>
-<p>Werden jetzt Affiliate-Partner und überzeuge deine Zielgruppe von unseren großartigen Online-Kursen.</p>
-<p>Verdiene noch zusätzlich an Upsell und Cross-Sell-Kampagnen!</p>
-<p>Mit deiner Leidenschaft und unserem hochwertigen Angebot kannst du sicher sein, dass die Kunden die bestmögliche Erfahrung bieten und gleichzeitig Ihre Einnahmen steigern werden.</p>
-<p> </p>
+**Vendor's marketplace description:** Video-Kurs: Microsoft OneNote im Unternehmen „OneNote ist Ihr digitales Notizbuch, mit dem Sie alles auf allen Ihren mobilen Geräten festhalten und ordnen können. Notieren Sie kurz Ihre Ideen, behalten Sie Kurs- und Besprechungsnotizen im Griff, schneiden Sie Informationen im Web aus, erstellen Sie Aufgabenlisten, und skizzieren und zeichnen Sie Einfälle.“ So beschreibt Microsoft das Anwendungsgebiet von OneNote. Empfehle unsere Videoschulungen weiter und verdiene bei jedem deiner Verkäufe mit! Wir bieten viele IT-Zertifizierung, System-Administration, Microsoft Office Tutorials Videoschulungen zu günstigen Preisen an. Deine Vorteile als Affiliate Partner Hohe Provision von bis zu 50% Günstige Kurse die sich leicht verkaufen lassen Sehr zufriedene Kunden - durchschnittliche Bewertungsquote 4,7 Sterne Bekannte Dozenten durch den Heise Verlag und Udemy mit über 60.000 Verkäufen Werbemittel (Banner) verfügbar 100-prozentiger Affiliate-Schutz: garantiert korrekte und pünktlich ausgezahlte Provisionen sowie Real-Time-Tracking durch Digistore24 Affiliate Support direkt durch unsere Dozenten Werden jetzt Affiliate-Partner und überzeuge deine Zielgruppe von unseren großartigen Online-Kursen. Verdiene noch zusätzlich an Upsell und Cross-Sell-Kampagnen! Mit deiner Leidenschaft und unserem hochwertigen Angebot kannst du sicher sein, dass die Kunden die bestmögliche Erfahrung bieten und gleichzeitig Ihre Einnahmen steigern werden.
 
 ## 2. Links
 

@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>FreieEnergie24 bietet seinen Kunden eine einmalige Möglichkeit Ihre Stromrechnung deutlich zu senken oder ganz abzuschaffen.</p>
-<p>Unsere Conversionrate beträgt bei zielgerichtetem Traffic bis zu 11.9% und die Refundrate ist geringer als 4%.</p>
-<p>Wenn Sie FreieEnergie24 bewerben erhalten Sie nicht nur die hier angegeben Provision für das Fron-End Produkt MagnetMotor24 Sie erhalten zusätzlich 50% Provision für alle Upsells und Downsells die über Ihre Affiliate ID generiert wurden. Wir haben einen sehr umfangreichen Sales Funnel, einer der Upsells ist ein Club Mitgliedschaft durch die Sie monatliche Provisionen erhalten, solange "Ihr Kunde" Mitglied unseres Clubs ist.</p>
-<p>Seit mehr als 5 Jahren ist dieses Produkt der absolute Bestseller im Markt. Über 40.000 Verkaufte Exemplare(!) sprechen für sich.</p>
-<p>Wir haben jede Menge Affiliate Material für euch zusammengestellt um euch bei der Promotion zu unterstützen.</p>
-<p>Unsere Verkaufsseite wird konstant gesplittestet und optimiert, um Euch das meiste Geld für Euren Traffic zu garantieren.</p>
-<p>Profitiert ab sofort von userer langjährigen Erfahrung und monetarisiert euren Tarffic mit einem der stärksten Affiliate Produkte auf dem Deutschen Markt.</p>
-<p>Die Zielgruppe sind Menschen, welche eine Stromrechnung bezahlen müssen und damit eignet sich dieses Produkt für fast jede Zielgruppe.</p>
-<p> </p>
-<p>Hier sind die Benefits für Eure Kunden:</p>
-<p>Mit dem FreieEnergie24 Paket können Sie:</p>
-<p>* deutlich Ihre Stromrechnung reduzieren – und das in nur 2 Tagen!</p>
-<p>* sich von den gierigen Stromkonzernen verabschieden und Ihren eigenen, kostenlosen Strom erzeugen!</p>
-<p>* Luftverschmutzung verringern und der Umwelt helfen!</p>
-<p>* mobil Strom erzeugen, den Sie überall nutzen können!</p>
-<p>* entdecken, wie wir 1000e € im Jahr an Stromkosten für unser Zuhause und unsere Geräte eingespart haben – und wie Sie das auch schaffen!</p>
-<p>Bewerben Sie unser Produkt JETZT an Ihre Liste und sehen schon heute Abend große Summen an Provision in Ihren Account fließen!</p>
+**Vendor's marketplace description:** FreieEnergie24 bietet seinen Kunden eine einmalige Möglichkeit Ihre Stromrechnung deutlich zu senken oder ganz abzuschaffen. Unsere Conversionrate beträgt bei zielgerichtetem Traffic bis zu 11.9% und die Refundrate ist geringer als 4%. Wenn Sie FreieEnergie24 bewerben erhalten Sie nicht nur die hier angegeben Provision für das Fron-End Produkt MagnetMotor24 Sie erhalten zusätzlich 50% Provision für alle Upsells und Downsells die über Ihre Affiliate ID generiert wurden. Wir haben einen sehr umfangreichen Sales Funnel, einer der Upsells ist ein Club Mitgliedschaft durch die Sie monatliche Provisionen erhalten, solange "Ihr Kunde" Mitglied unseres Clubs ist. Seit mehr als 5 Jahren ist dieses Produkt der absolute Bestseller im Markt. Über 40.000 Verkaufte Exemplare(!) sprechen für sich. Wir haben jede Menge Affiliate Material für euch zusammengestellt um euch bei der Promotion zu unterstützen. Unsere Verkaufsseite wird konstant gesplittestet und optimiert, um Euch das meiste Geld für Euren Traffic zu garantieren. Profitiert ab sofort von userer langjährigen Erfahrung und monetarisiert euren Tarffic mit einem der stärksten Affiliate Produkte auf dem Deutschen Markt. Die Zielgruppe sind Menschen, welche eine Stromrechnung bezahlen müssen und damit eignet sich dieses Produkt für fast jede Zielgruppe. Hier sind die Benefits für Eure Kunden: Mit dem FreieEnergie24 Paket können Sie: * deutlich Ihre Stromrechnung reduzieren – und das in nur 2 Tagen! * sich von den gierigen Stromkonzernen verabschieden und Ihren eigenen, kostenlosen Strom erzeugen! * Luftverschmutzung verringern und der Umwelt helfen! * mobil Strom erzeugen, den Sie überall nutzen können! * entdecken, wie wir 1000e € im Jahr an Stromkosten für unser Zuhause und unsere Geräte eingespart haben – und wie Sie das auch schaffen! Bewerben Sie unser Produkt JETZT an Ihre Liste und sehen schon heute Abend große Summen an Provision in Ihren Account fließen!
 
 ## 2. Links
 

@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><em>10% Lifetime-Provisionen</em><br /><br />Einfacher wird es nicht!</h4>
-<p>Mit Kreativ.Management haben kreative Unternehmen einen perfekten Überblick über ihre Kunden, Aufträge, Rechnungen, Verträge und E-Mails. Das individuelle Kontaktformular für die eigenen Webseite und die direkten automatischen Antworten an die Kunden erhöhen die Kundenbindung und weiters natürlich die Aufträge. </p>
-<p>Die Einrichtung und Bedienung ist kinderleicht und geht extrem schnell. Darüber hinaus ist es zu 100 % DSGVO konform und bietet viele weitere Funktionen, damit man sich im Monat über 20 Stunden Arbeitszeit spart</p>
-<p><br />▶️ Auf Facebook und Google haben wir <strong>nur 5-Sterne Bewertungen!<br />▶️ </strong>Influencer und bekannte Persönlichkeiten wie <strong>Calvin Hollywood, Nina Schnitzenbaumer,</strong> <strong>Vicky Baumann, Carmen und Ingo</strong> uvm. empfehlen es bereits!</p>
-<p> </p>
-<h4>Deine Lifetime-Provisionen</h4>
-<p>Für jeden verkauften Zugang erhälst du eine <strong>Lifetime-Provision in Höhe von 10%!</strong></p>
-<p> </p>
-<p>Bei Fragen einfach an <a href="mailto:kontakt@hochzeit.management">kontakt@kreativ.management</a> melden.</p>
+**Vendor's marketplace description:** 10% Lifetime-Provisionen Einfacher wird es nicht! Mit Kreativ.Management haben kreative Unternehmen einen perfekten Überblick über ihre Kunden, Aufträge, Rechnungen, Verträge und E-Mails. Das individuelle Kontaktformular für die eigenen Webseite und die direkten automatischen Antworten an die Kunden erhöhen die Kundenbindung und weiters natürlich die Aufträge. Die Einrichtung und Bedienung ist kinderleicht und geht extrem schnell. Darüber hinaus ist es zu 100 % DSGVO konform und bietet viele weitere Funktionen, damit man sich im Monat über 20 Stunden Arbeitszeit spart ▶️ Auf Facebook und Google haben wir nur 5-Sterne Bewertungen! ▶️ Influencer und bekannte Persönlichkeiten wie Calvin Hollywood, Nina Schnitzenbaumer, Vicky Baumann, Carmen und Ingo uvm. empfehlen es bereits! Deine Lifetime-Provisionen Für jeden verkauften Zugang erhälst du eine Lifetime-Provision in Höhe von 10%! Bei Fragen einfach an kontakt@kreativ.management melden.
 
 ## 2. Links
 

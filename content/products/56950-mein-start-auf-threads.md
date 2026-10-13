@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Von der Anmeldung zum ersten viralen Post – dein Einstieg in Metas Text-App</strong></p>
-<p>Threads ist die Text-App von Meta – direkt mit Instagram verbunden und ein echtes Frühzeitfenster für alle, die jetzt einsteigen. Wer früh dabei ist, profitiert noch von der organischen Reichweite, die andere Plattformen längst verloren haben. Dieses E-Book nimmt dich Schritt für Schritt an die Hand: von der ersten Profiloptimierung über deinen Instagram-Vorteil bis hin zu deinen ersten Posts, die wirklich gelesen und geteilt werden. Du lernst, wie kurze, pointierte Texte mit starken Hooks funktionieren, warum Replies und Konversationen auf Threads die wichtigste Reichweitenwährung sind und wie du mit einfachen Mitteln und konsequenter Konsistenz schnell erste echte Follower aufbaust – ohne Werbebudget, ohne große Vorkenntnisse.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Instagram-Verbindung nutzen: dein Vorteil als bestehender Meta-Nutzer</li>
-<li>Profil-Optimierung, die sofort Vertrauen schafft</li>
-<li>Hooks für kurze Posts: wie die ersten zwei Zeilen alles entscheiden</li>
-<li>Konversation als Reichweiten-Motor – Replies richtig einsetzen</li>
-<li>Konsistenz-System: wie du täglich postest ohne auszubrennen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Von der Anmeldung zum ersten viralen Post – dein Einstieg in Metas Text-App Threads ist die Text-App von Meta – direkt mit Instagram verbunden und ein echtes Frühzeitfenster für alle, die jetzt einsteigen. Wer früh dabei ist, profitiert noch von der organischen Reichweite, die andere Plattformen längst verloren haben. Dieses E-Book nimmt dich Schritt für Schritt an die Hand: von der ersten Profiloptimierung über deinen Instagram-Vorteil bis hin zu deinen ersten Posts, die wirklich gelesen und geteilt werden. Du lernst, wie kurze, pointierte Texte mit starken Hooks funktionieren, warum Replies und Konversationen auf Threads die wichtigste Reichweitenwährung sind und wie du mit einfachen Mitteln und konsequenter Konsistenz schnell erste echte Follower aufbaust – ohne Werbebudget, ohne große Vorkenntnisse. Das steckt drin: Instagram-Verbindung nutzen: dein Vorteil als bestehender Meta-Nutzer Profil-Optimierung, die sofort Vertrauen schafft Hooks für kurze Posts: wie die ersten zwei Zeilen alles entscheiden Konversation als Reichweiten-Motor – Replies richtig einsetzen Konsistenz-System: wie du täglich postest ohne auszubrennen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Gruppen-Funnel, organische Reichweite und planbare Kunden ohne Werbebudget</strong></p>
-<p>Als Coach ist Vertrauen deine wichtigste Währung – und Facebook-Gruppen sind der wirksamste Weg, genau dieses Vertrauen im großen Maßstab aufzubauen. Dieses E-Book zeigt dir, wie du eine eigene Gruppe als Herzstück deines Funnels aufbaust, deine Wunschkunden dort täglich mit Mehrwert bespielst und Interessenten sanft Richtung Erstgespräch führst. Du lernst, welche Diskussions-Posts und Live-Formate Vertrauen aufbauen, wie du Veranstaltungen und Events auf Facebook zur Kunden-Akquise nutzt und wie du über Messenger und DMs qualifizierte Gespräche einleitest, ohne aufdringlich zu wirken. Dazu: lokale Leadgenerierung für Coaches mit regionalem Einzugsgebiet. Ein komplettes System für planbare Anfragen – komplett ohne bezahlte Werbung.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Deine eigene Facebook-Gruppe als Community-Funnel aufbauen</li>
-<li>Diskussions-Posts und Lives, die Vertrauen aufbauen</li>
-<li>Der sanfte Weg vom Gruppenpost zum Erstgespräch</li>
-<li>Messenger &amp; DMs: qualifizierte Gespräche einleiten</li>
-<li>Veranstaltungen und Events als Akquise-Werkzeug</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Gruppen-Funnel, organische Reichweite und planbare Kunden ohne Werbebudget Als Coach ist Vertrauen deine wichtigste Währung – und Facebook-Gruppen sind der wirksamste Weg, genau dieses Vertrauen im großen Maßstab aufzubauen. Dieses E-Book zeigt dir, wie du eine eigene Gruppe als Herzstück deines Funnels aufbaust, deine Wunschkunden dort täglich mit Mehrwert bespielst und Interessenten sanft Richtung Erstgespräch führst. Du lernst, welche Diskussions-Posts und Live-Formate Vertrauen aufbauen, wie du Veranstaltungen und Events auf Facebook zur Kunden-Akquise nutzt und wie du über Messenger und DMs qualifizierte Gespräche einleitest, ohne aufdringlich zu wirken. Dazu: lokale Leadgenerierung für Coaches mit regionalem Einzugsgebiet. Ein komplettes System für planbare Anfragen – komplett ohne bezahlte Werbung. Das steckt drin: Deine eigene Facebook-Gruppe als Community-Funnel aufbauen Diskussions-Posts und Lives, die Vertrauen aufbauen Der sanfte Weg vom Gruppenpost zum Erstgespräch Messenger & DMs: qualifizierte Gespräche einleiten Veranstaltungen und Events als Akquise-Werkzeug Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

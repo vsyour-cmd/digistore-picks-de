@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du auf Threads durch Konversation Vertrauen aufbaust und Kunden gewinnst</strong></p>
-<p>Threads ist für Coaches und Experten eine der wertvollsten Plattformen gerade: Die organische Reichweite ist hoch, das frühe Chance-Fenster ist noch offen – und wer jetzt mit einer klaren Positioning-Strategie einsteigt, baut sich eine Autorität auf, für die andere Jahre brauchen werden. Dieses E-Book zeigt dir, wie du kurze, pointierte Text-Posts nutzt, um Expertise zu zeigen ohne alles zu verschenken, wie Replies und Konversationen mehr Vertrauen erzeugen als jeder Sales-Post und wie du über die Instagram-Verbindung dein bestehendes Publikum sofort auf Threads überführst. Du bekommst ein vollständiges System: von der Content-Strategie über den Konversations-Funnel bis zum nächsten Erstgespräch.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Positionierung als Experte in wenigen Sätzen – so geht das auf Threads</li>
-<li>Expertise-Posts: Wissen zeigen ohne den ganzen Wert zu verschenken</li>
-<li>Konversations-Funnel: von der Antwort auf einen Thread zur Anfrage</li>
-<li>Instagram-Verbindung strategisch nutzen – beide Kanäle als System</li>
-<li>DMs über Threads: so führst du Gespräche, die zu Kunden werden</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du auf Threads durch Konversation Vertrauen aufbaust und Kunden gewinnst Threads ist für Coaches und Experten eine der wertvollsten Plattformen gerade: Die organische Reichweite ist hoch, das frühe Chance-Fenster ist noch offen – und wer jetzt mit einer klaren Positioning-Strategie einsteigt, baut sich eine Autorität auf, für die andere Jahre brauchen werden. Dieses E-Book zeigt dir, wie du kurze, pointierte Text-Posts nutzt, um Expertise zu zeigen ohne alles zu verschenken, wie Replies und Konversationen mehr Vertrauen erzeugen als jeder Sales-Post und wie du über die Instagram-Verbindung dein bestehendes Publikum sofort auf Threads überführst. Du bekommst ein vollständiges System: von der Content-Strategie über den Konversations-Funnel bis zum nächsten Erstgespräch. Das steckt drin: Positionierung als Experte in wenigen Sätzen – so geht das auf Threads Expertise-Posts: Wissen zeigen ohne den ganzen Wert zu verschenken Konversations-Funnel: von der Antwort auf einen Thread zur Anfrage Instagram-Verbindung strategisch nutzen – beide Kanäle als System DMs über Threads: so führst du Gespräche, die zu Kunden werden Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

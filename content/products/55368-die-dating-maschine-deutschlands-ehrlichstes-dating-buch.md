@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die Dating-Maschine ist kein Dating-Guide voller Tricks.</p>
-<p>Dieses E-Book richtet sich an Männer, die müde sind vom Hoffen, Warten und sich selbst Verlieren.</p>
-<p> </p>
-<p>Es zeigt, warum Dating scheitert, wenn dein Selbstwert von Reaktionen abhängt und wie innere Ruhe, Klarheit und Selbsthaltung echte Anziehung entstehen lassen.</p>
-<p> </p>
-<p>Ohne Spielchen.</p>
-<p>Ohne Manipulation.</p>
-<p>Ohne Beschönigung.</p>
-<p> </p>
-<p>Dating. Ehrlich erzählt.</p>
+**Vendor's marketplace description:** Die Dating-Maschine ist kein Dating-Guide voller Tricks. Dieses E-Book richtet sich an Männer, die müde sind vom Hoffen, Warten und sich selbst Verlieren. Es zeigt, warum Dating scheitert, wenn dein Selbstwert von Reaktionen abhängt und wie innere Ruhe, Klarheit und Selbsthaltung echte Anziehung entstehen lassen. Ohne Spielchen. Ohne Manipulation. Ohne Beschönigung. Dating. Ehrlich erzählt.
 
 ## 2. Links
 

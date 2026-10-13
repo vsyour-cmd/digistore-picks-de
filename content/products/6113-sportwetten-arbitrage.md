@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#800080;"><strong><big><big>IMMER GEWINNEN MIT</big></big><big><big><br /> SPORTWETTEN-ARBITRAGE</big></big></strong></span></p>
-<p>Egal, wie ein Rennen oder ein Spiel ausgeht, Sie gehören immer zu den Gewinnern!</p>
-<p>98% aller Zocker verlieren auf Dauer. Doch was diese verlieren, gewinnen die Strategen und Profis. Das Geld der Verlierer landet auf den Konten der Gewinner.<br /><br /> Doch wie machen das die Gewinner? Haben Sie ein Wissen, das normale Zocker nicht haben? Ja, so ist es!<br /><br /> Seit ein paar Jahren gibt es eine neue Art von Sportwetten-Fans. Sie nennen sich nicht Zocker, Wetter oder Glücksritter, sondern Trader. Sie generieren dauerhaft tagtäglich Gewinne, auch wenn Sie nicht viel Ahnung von Fußball, Pferderennen, Tennis und Co. haben. Sie interessieren sich nicht für die Tabellenstände, Tagesform und Trainingsfleiß, sondern allein für Zahlen und Quoten.<br /><br /> Alles, was diese Insider brauchen, ist ein Internetanschluss, ein frei verkäufliches Programm - und schon sind sie in der Lage, mit 2-4 Stunden "Arbeit" am Tag ein 4-stelliges Monatseinkommen zu generieren. Auf das sie übrigens keine Steuern zahlen (was aber nicht illegal ist, da sie wie ihre Kollegen an der Börse nichts anderes machen, als Kursschwankungen auszunutzen)!</p>
-<p> </p>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
-<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
-<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<span style="color:#cc99ff;"><strong><span style="color:#000000;">J</span>eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</strong></span>“.</p>
-<p>2 einfache Schritte:</p>
-<ol>
-<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html</a></span></li>
-<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
-</ol>
-<p><em><strong> </strong></em></p>
+**Vendor's marketplace description:** IMMER GEWINNEN MIT SPORTWETTEN-ARBITRAGE Egal, wie ein Rennen oder ein Spiel ausgeht, Sie gehören immer zu den Gewinnern! 98% aller Zocker verlieren auf Dauer. Doch was diese verlieren, gewinnen die Strategen und Profis. Das Geld der Verlierer landet auf den Konten der Gewinner. Doch wie machen das die Gewinner? Haben Sie ein Wissen, das normale Zocker nicht haben? Ja, so ist es! Seit ein paar Jahren gibt es eine neue Art von Sportwetten-Fans. Sie nennen sich nicht Zocker, Wetter oder Glücksritter, sondern Trader. Sie generieren dauerhaft tagtäglich Gewinne, auch wenn Sie nicht viel Ahnung von Fußball, Pferderennen, Tennis und Co. haben. Sie interessieren sich nicht für die Tabellenstände, Tagesform und Trainingsfleiß, sondern allein für Zahlen und Quoten. Alles, was diese Insider brauchen, ist ein Internetanschluss, ein frei verkäufliches Programm - und schon sind sie in der Lage, mit 2-4 Stunden "Arbeit" am Tag ein 4-stelliges Monatseinkommen zu generieren. Auf das sie übrigens keine Steuern zahlen (was aber nicht illegal ist, da sie wie ihre Kollegen an der Börse nichts anderes machen, als Kursschwankungen auszunutzen)! Möchten Sie ein Ansichtsexemplar? Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz. Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „ J eden T ag R ei*cher “. 2 einfache Schritte: JTR gratis bestellen auf https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html Email mit Ihrem Ebook-Wunsch an service@big-benn-books.com
 
 ## 2. Links
 

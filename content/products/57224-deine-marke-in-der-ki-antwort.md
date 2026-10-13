@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Deine Marke in der KI-Antwort“</strong></p>
-<p>Wie ChatGPT, Gemini und Perplexity dich empfehlen – Immer mehr Menschen fragen die KI statt Google – und die nennt nur wenige Namen. Lerne, wie KI-Assistenten Marken auswählen und wie du empfohlen wirst.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Wie KI-Assistenten Marken auswählen und nennen</li>
-<li>Bestandsaufnahme: was die KI heute über dich sagt</li>
-<li>Inhalte schaffen, die KI dich empfehlen lassen</li>
-<li>Echte Erwähnungen und Konsistenz im Netz aufbauen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Deine Marke in der KI-Antwort“ Wie ChatGPT, Gemini und Perplexity dich empfehlen – Immer mehr Menschen fragen die KI statt Google – und die nennt nur wenige Namen. Lerne, wie KI-Assistenten Marken auswählen und wie du empfohlen wirst. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Wie KI-Assistenten Marken auswählen und nennen Bestandsaufnahme: was die KI heute über dich sagt Inhalte schaffen, die KI dich empfehlen lassen Echte Erwähnungen und Konsistenz im Netz aufbauen
 
 ## 2. Links
 

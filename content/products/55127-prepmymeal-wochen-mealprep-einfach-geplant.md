@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:right;"> Azubi Money Hacks ist ein digitales Produkt für Auszubildende und junge Erwachsene, die ihre Finanzen einfach und verständlich organisieren wollen.</p>
-<p>Das Produkt bietet praktische Vorlagen und Guides, mit denen Azubis:</p>
-<ul>
-<li>ihr monatliches Budget planen</li>
-<li>Ausgaben besser kontrollieren</li>
-<li>unnötige Kosten vermeiden</li>
-<li>Struktur in ihre Finanzen bringen</li>
-</ul>
-<p> </p>
-<p>Vorteile für Affiliates:</p>
-<ul>
-<li>klare Zielgruppe (Azubis &amp; Berufseinsteiger)</li>
-<li>niedriger Preis → hohe Conversion</li>
-<li>sofortiger digitaler Download</li>
-<li>kein Vorwissen erforderlich</li>
-</ul>
-<p>Ideal für Social Media, Blogs, TikTok, Instagram &amp; Finanz-Content.</p>
-<p>Zahlungsabwicklung erfolgt über Digistore24.</p>
+**Vendor's marketplace description:** Azubi Money Hacks ist ein digitales Produkt für Auszubildende und junge Erwachsene, die ihre Finanzen einfach und verständlich organisieren wollen. Das Produkt bietet praktische Vorlagen und Guides, mit denen Azubis: ihr monatliches Budget planen Ausgaben besser kontrollieren unnötige Kosten vermeiden Struktur in ihre Finanzen bringen Vorteile für Affiliates: klare Zielgruppe (Azubis & Berufseinsteiger) niedriger Preis → hohe Conversion sofortiger digitaler Download kein Vorwissen erforderlich Ideal für Social Media, Blogs, TikTok, Instagram & Finanz-Content. Zahlungsabwicklung erfolgt über Digistore24.
 
 ## 2. Links
 

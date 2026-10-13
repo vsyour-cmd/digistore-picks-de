@@ -41,42 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>5 Premium-Ratgeber + persönliches Gespräch mit dem Gründer – 99 € einmalig</strong></p>
-<p>Digitales Workbook-Paket für Selbstständige, Unternehmer und KI-Einsteiger im DACH-Raum.</p>
-<p><strong>Was der Käufer bekommt:</strong></p>
-<ul>
-<li>
-<p>5 professionelle Workbooks (131 Seiten)</p>
-</li>
-<li>
-<p>Fertige KI-Prompts und Automatisierungs-Workflows</p>
-</li>
-<li>
-<p>Persönliches 15-Minuten-Gespräch mit dem Gründer</p>
-</li>
-<li>
-<p>30 Tage Geld-zurück-Garantie</p>
-</li>
-<li>
-<p>Sofort-Download, kein Abo</p>
-</li>
-</ul>
-<p><strong>Deine Vorteile als Affiliate:</strong></p>
-<ul>
-<li>
-<p>50 % Provision (Frontend 99 €)</p>
-</li>
-<li>
-<p>Auto-Accept, sofortige Freischaltung</p>
-</li>
-<li>
-<p>30 Tage Cookie-Laufzeit</p>
-</li>
-<li>
-<p>Professionelle Verkaufsseite + Affiliate-Support mit fertigen Werbemitteln</p>
-</li>
-</ul>
-<p><strong>Support-Seite:</strong> <a>https://eternumtech.eu/partner</a></p>
+**Vendor's marketplace description:** 5 Premium-Ratgeber + persönliches Gespräch mit dem Gründer – 99 € einmalig Digitales Workbook-Paket für Selbstständige, Unternehmer und KI-Einsteiger im DACH-Raum. Was der Käufer bekommt: 5 professionelle Workbooks (131 Seiten) Fertige KI-Prompts und Automatisierungs-Workflows Persönliches 15-Minuten-Gespräch mit dem Gründer 30 Tage Geld-zurück-Garantie Sofort-Download, kein Abo Deine Vorteile als Affiliate: 50 % Provision (Frontend 99 €) Auto-Accept, sofortige Freischaltung 30 Tage Cookie-Laufzeit Professionelle Verkaufsseite + Affiliate-Support mit fertigen Werbemitteln Support-Seite: https://eternumtech.eu/partner
 
 ## 2. Links
 

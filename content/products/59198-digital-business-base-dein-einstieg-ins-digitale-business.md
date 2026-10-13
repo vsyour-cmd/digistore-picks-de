@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Digital Business Base ist ein deutschsprachiger Online-Kurs für Einsteiger, die die Grundlagen eines digitalen Business kennenlernen und praktisch umsetzen möchten.</p>
-<p> </p>
-<p>Der Kurs vermittelt Schritt für Schritt wichtige Grundlagen rund um digitales Business, Online-Marketing und den Aufbau einer eigenen digitalen Präsenz.</p>
-<p> </p>
-<p>Ideal für Einsteiger:</p>
-<p>• verständlich und übersichtlich aufgebaut</p>
-<p>• praxisorientierte Inhalte</p>
-<p>• Schritt-für-Schritt-Erklärungen</p>
-<p>• komplett auf Deutsch</p>
-<p> </p>
-<p>Verkaufspreis: 89 €</p>
-<p> </p>
-<p>Als Affiliate kannst du Digital Business Base über Digistore24 bewerben und für erfolgreich vermittelte Verkäufe eine Provision erhalten.</p>
+**Vendor's marketplace description:** Digital Business Base ist ein deutschsprachiger Online-Kurs für Einsteiger, die die Grundlagen eines digitalen Business kennenlernen und praktisch umsetzen möchten. Der Kurs vermittelt Schritt für Schritt wichtige Grundlagen rund um digitales Business, Online-Marketing und den Aufbau einer eigenen digitalen Präsenz. Ideal für Einsteiger: • verständlich und übersichtlich aufgebaut • praxisorientierte Inhalte • Schritt-für-Schritt-Erklärungen • komplett auf Deutsch Verkaufspreis: 89 € Als Affiliate kannst du Digital Business Base über Digistore24 bewerben und für erfolgreich vermittelte Verkäufe eine Provision erhalten.
 
 ## 2. Links
 

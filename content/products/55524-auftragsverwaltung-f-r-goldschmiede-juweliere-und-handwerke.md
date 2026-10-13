@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Goldschmiede Pro</h2>
-<h3>Die professionelle Auftragsverwaltung für Handwerk &amp; Manufaktur</h3>
-<p><strong>Strukturiert. Sicher. Lokal.</strong></p>
-<p>Goldschmiede Pro ist eine <strong>lizenzgeschützte Auftrags- und Kundenverwaltung auf Excel-Basis</strong> – entwickelt für Betriebe, die <strong>ohne Cloud, ohne Abo und ohne Excel-Chaos</strong> arbeiten wollen.</p>
-<hr />
-<h3>✔ Auf einen Blick</h3>
-<ul>
-<li>
-<p>Zentrales Dashboard mit Auftragsübersicht</p>
-</li>
-<li>
-<p>Automatische Preis- &amp; Materialberechnung</p>
-</li>
-<li>
-<p>Integrierte Kundenverwaltung</p>
-</li>
-<li>
-<p>PDF-Export mit einem Klick</p>
-</li>
-<li>
-<p>100 % lokale Daten – keine Cloud</p>
-</li>
-</ul>
-<hr />
-<p><strong>Fühlt sich an wie Software.<br />Läuft in Excel.</strong></p>
-<p> </p>
+**Vendor's marketplace description:** Goldschmiede Pro Die professionelle Auftragsverwaltung für Handwerk & Manufaktur Strukturiert. Sicher. Lokal. Goldschmiede Pro ist eine lizenzgeschützte Auftrags- und Kundenverwaltung auf Excel-Basis – entwickelt für Betriebe, die ohne Cloud, ohne Abo und ohne Excel-Chaos arbeiten wollen. ✔ Auf einen Blick Zentrales Dashboard mit Auftragsübersicht Automatische Preis- & Materialberechnung Integrierte Kundenverwaltung PDF-Export mit einem Klick 100 % lokale Daten – keine Cloud Fühlt sich an wie Software. Läuft in Excel.
 
 ## 2. Links
 

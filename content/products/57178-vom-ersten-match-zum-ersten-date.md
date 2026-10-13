@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Vom ersten Match zum ersten Date“</strong></p>
-<p>Aus Chats werden Treffen – Endlich raus aus der endlosen Chatschleife: So führst du Matches sicher zum echten Date.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 7,45 € pro Verkauf (Verkaufspreis 14,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Eröffnungsnachrichten, auf die geantwortet wird</li>
-<li>Das Gespräch lebendig halten</li>
-<li>Den richtigen Moment fürs Date-Angebot</li>
-<li>Absagen souverän einordnen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Vom ersten Match zum ersten Date“ Aus Chats werden Treffen – Endlich raus aus der endlosen Chatschleife: So führst du Matches sicher zum echten Date. Warum dieses E-Book bewerben? 50 % Provision – ca. 7,45 € pro Verkauf (Verkaufspreis 14,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Eröffnungsnachrichten, auf die geantwortet wird Das Gespräch lebendig halten Den richtigen Moment fürs Date-Angebot Absagen souverän einordnen
 
 ## 2. Links
 

@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „TikTok monetarisieren“</strong></p>
-<p>Von viralen Videos zu echtem Umsatz und Markenkooperationen – Virale Videos sind schön. Eigene Produkte, Markenkooperationen, TikTok Shop und Affiliate. Plus Community, Verträge und Werbekennzeichnung.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Die verschiedenen Wege zur Monetarisierung kennen</li>
-<li>Eine Community aufbauen, die wirklich trägt</li>
-<li>Markenkooperationen finden und fair verhandeln</li>
-<li>Verträge, Steuern und Werbekennzeichnung beachten</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „TikTok monetarisieren“ Von viralen Videos zu echtem Umsatz und Markenkooperationen – Virale Videos sind schön. Eigene Produkte, Markenkooperationen, TikTok Shop und Affiliate. Plus Community, Verträge und Werbekennzeichnung. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Die verschiedenen Wege zur Monetarisierung kennen Eine Community aufbauen, die wirklich trägt Markenkooperationen finden und fair verhandeln Verträge, Steuern und Werbekennzeichnung beachten
 
 ## 2. Links
 

@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Online-Kurs Masterclass – bewirb ein digitales Produkt mit starkem Nachfrage-Thema</strong></p>
-<p>Die <strong>Online-Kurs Masterclass</strong> zeigt Selbstständigen, Experten, Coaches, Dienstleistern und Wissensunternehmern Schritt für Schritt, wie sie aus ihrem Wissen einen eigenen Online-Kurs erstellen und diesen automatisiert verkaufen können.</p>
-<p>Der Kurs richtet sich an Menschen, die sich ein digitales Produkt aufbauen möchten, ohne dauerhaft 1:1 arbeiten, live launchen oder jeden Verkauf persönlich abschließen zu müssen.</p>
-<p>Teilnehmer lernen unter anderem:</p>
-<ul>
-<li>wie sie ein profitables Kursthema finden</li>
-<li>wie sie ihr Angebot klar positionieren</li>
-<li>wie sie ihren Online-Kurs strukturiert aufbauen</li>
-<li>wie sie einen automatisierten Verkaufsprozess erstellen</li>
-<li>wie sie mit Webinar-Funnel, E-Mail-Marketing und Ads planbar Kunden gewinnen</li>
-<li>welche Tools und technischen Schritte dafür nötig sind</li>
-</ul>
-<p>Die Online-Kurs Masterclass basiert auf einem praxiserprobten System, mit dem bereits Millionenumsätze im deutschsprachigen Markt erzielt wurden.</p>
-<p><strong>Affiliate-Provision:</strong> 25 % pro vermitteltem Verkauf<br /><strong>Zielgruppe:</strong> Coaches, Berater, Experten, Selbstständige, Creator, Dienstleister und alle, die ihr Wissen digital verkaufen möchten<br /><strong>Preis:</strong> 1.999 € netto oder Ratenzahlung<br /><strong>Verkaufsargument:</strong> Hochpreisiges digitales Produkt in einem starken Wachstumsmarkt mit klarer Schritt-für-Schritt-Umsetzung</p>
-<p>Affiliates erhalten damit die Möglichkeit, ein etabliertes Online-Business-Produkt mit attraktiver Provision zu bewerben.</p>
+**Vendor's marketplace description:** Online-Kurs Masterclass – bewirb ein digitales Produkt mit starkem Nachfrage-Thema Die Online-Kurs Masterclass zeigt Selbstständigen, Experten, Coaches, Dienstleistern und Wissensunternehmern Schritt für Schritt, wie sie aus ihrem Wissen einen eigenen Online-Kurs erstellen und diesen automatisiert verkaufen können. Der Kurs richtet sich an Menschen, die sich ein digitales Produkt aufbauen möchten, ohne dauerhaft 1:1 arbeiten, live launchen oder jeden Verkauf persönlich abschließen zu müssen. Teilnehmer lernen unter anderem: wie sie ein profitables Kursthema finden wie sie ihr Angebot klar positionieren wie sie ihren Online-Kurs strukturiert aufbauen wie sie einen automatisierten Verkaufsprozess erstellen wie sie mit Webinar-Funnel, E-Mail-Marketing und Ads planbar Kunden gewinnen welche Tools und technischen Schritte dafür nötig sind Die Online-Kurs Masterclass basiert auf einem praxiserprobten System, mit dem bereits Millionenumsätze im deutschsprachigen Markt erzielt wurden. Affiliate-Provision: 25 % pro vermitteltem Verkauf Zielgruppe: Coaches, Berater, Experten, Selbstständige, Creator, Dienstleister und alle, die ihr Wissen digital verkaufen möchten Preis: 1.999 € netto oder Ratenzahlung Verkaufsargument: Hochpreisiges digitales Produkt in einem starken Wachstumsmarkt mit klarer Schritt-für-Schritt-Umsetzung Affiliates erhalten damit die Möglichkeit, ein etabliertes Online-Business-Produkt mit attraktiver Provision zu bewerben.
 
 ## 2. Links
 

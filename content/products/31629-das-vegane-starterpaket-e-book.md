@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Heißhunger, Angst vor Nährstoffmangel oder Ideenlosigkeit beim Kochen? Damit ist jetzt Schluss! </strong> </p>
-<p>Fit fühlen, gesund und voller Energie - und zwar jeden Tag! Ade sagen zu Fast Food, Zucker und künstlichen Inhaltsstoffen die dick machen und runterziehen. Ein Leben frei von Schuldgefühlen, im Einklang mit den Tieren und der Natur. Tolle Rezeptideen, die Spaß machen und sich gut anfühlen. Vegane Ernährung ist einfach - mit den richtigen Tools und Strategien. Der Körper in seiner besten Form, weil er ganz genau weißt, welche Nährstoffe er braucht</p>
-<div>
-<div>
-<p><strong>Lerne wie du mit viel Spaß deine Gewohnheiten Schritt für Schritt ändern kannst und das ganz ohne Verzicht!</strong></p>
-</div>
-<p>&gt; Als attraktiven Upsell gibt es noch zwei weitere Produkte dazu. Melde dich auch hierfür als Affiliate an. </p>
-<h3>Um dieses Produkt zu bewerben, schreibe bitte eine Nachricht an <a>melanie@vegaliferocks.de</a> mit folgenden Angaben: </h3>
-<p>- Deine primäre Seite / Plattform, wo du das Produkt bewerben wirst</p>
-<p>- Wie würdest du deine Zielgruppe beschreben?</p>
-<p>- Wie hoch ist deine monatliche Reichweite?</p>
-<p>Vielen Dank</p>
-<p> </p>
-</div>
+**Vendor's marketplace description:** Heißhunger, Angst vor Nährstoffmangel oder Ideenlosigkeit beim Kochen? Damit ist jetzt Schluss! Fit fühlen, gesund und voller Energie - und zwar jeden Tag! Ade sagen zu Fast Food, Zucker und künstlichen Inhaltsstoffen die dick machen und runterziehen. Ein Leben frei von Schuldgefühlen, im Einklang mit den Tieren und der Natur. Tolle Rezeptideen, die Spaß machen und sich gut anfühlen. Vegane Ernährung ist einfach - mit den richtigen Tools und Strategien. Der Körper in seiner besten Form, weil er ganz genau weißt, welche Nährstoffe er braucht Lerne wie du mit viel Spaß deine Gewohnheiten Schritt für Schritt ändern kannst und das ganz ohne Verzicht! > Als attraktiven Upsell gibt es noch zwei weitere Produkte dazu. Melde dich auch hierfür als Affiliate an. Um dieses Produkt zu bewerben, schreibe bitte eine Nachricht an melanie@vegaliferocks.de mit folgenden Angaben: - Deine primäre Seite / Plattform, wo du das Produkt bewerben wirst - Wie würdest du deine Zielgruppe beschreben? - Wie hoch ist deine monatliche Reichweite? Vielen Dank
 
 ## 2. Links
 

@@ -41,37 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong> Verwandle ein "No-Brainer"-Problem in deine Provision.</strong></p>
-<p>Jeder Solopreneur, Coach oder Agenturinhaber kämpft täglich mit E-Mail-Überflutung. Du hast die Lösung, die sie in unter 10 Minuten befreit.</p>
-<p><strong>Warum sich die Promotion für dich lohnt:</strong></p>
-<ul>
-<li>
-<p><strong>Hohe Conversion:</strong> Du verkaufst keine komplizierte Software, sondern "gewonnene Lebenszeit". Das System ist so intuitiv, dass es sich fast von selbst verkauft.</p>
-</li>
-<li>
-<p><strong>Starke Provision:</strong> <strong>50 % Provision</strong> auf jeden Verkauf (ca. 20,50 € netto pro Sale).</p>
-</li>
-<li>
-<p><strong>Full-Support für deine Kunden:</strong> Ich kümmere mich um den kompletten technischen Support. Du musst keine Fragen beantworten – du lieferst nur den Traffic.</p>
-</li>
-<li>
-<p><strong>Fix-und-fertiges Werbepaket:</strong> Du musst nichts entwerfen. Ich stelle dir erprobte Swipe-Files, E-Mail-Vorlagen und Conversion-starkes Bildmaterial zur Verfügung.</p>
-</li>
-</ul>
-<p><strong>So startest du in 5 Minuten:</strong></p>
-<ol>
-<li>
-<p>Klicke auf <strong>"Jetzt promoten"</strong>.</p>
-</li>
-<li>
-<p>Nutze mein <strong>"Affiliate-Starter-Kit"</strong> (Vorlagen &amp; Grafiken), das ich für dich vorbereitet habe.</p>
-</li>
-<li>
-<p>Poste es in deinen Kanal und sieh zu, wie deine Provisionen wachsen.</p>
-</li>
-</ol>
-<p><strong>Hast du spezielle Fragen oder brauchst du eine individuelle Grafik für deine Zielgruppe?</strong> Schreib mir einfach eine Nachricht über Digistore24. Ich unterstütze dich gerne bei deiner Kampagne.</p>
-<p> </p>
+**Vendor's marketplace description:** Verwandle ein "No-Brainer"-Problem in deine Provision. Jeder Solopreneur, Coach oder Agenturinhaber kämpft täglich mit E-Mail-Überflutung. Du hast die Lösung, die sie in unter 10 Minuten befreit. Warum sich die Promotion für dich lohnt: Hohe Conversion: Du verkaufst keine komplizierte Software, sondern "gewonnene Lebenszeit". Das System ist so intuitiv, dass es sich fast von selbst verkauft. Starke Provision: 50 % Provision auf jeden Verkauf (ca. 20,50 € netto pro Sale). Full-Support für deine Kunden: Ich kümmere mich um den kompletten technischen Support. Du musst keine Fragen beantworten – du lieferst nur den Traffic. Fix-und-fertiges Werbepaket: Du musst nichts entwerfen. Ich stelle dir erprobte Swipe-Files, E-Mail-Vorlagen und Conversion-starkes Bildmaterial zur Verfügung. So startest du in 5 Minuten: Klicke auf "Jetzt promoten" . Nutze mein "Affiliate-Starter-Kit" (Vorlagen & Grafiken), das ich für dich vorbereitet habe. Poste es in deinen Kanal und sieh zu, wie deine Provisionen wachsen. Hast du spezielle Fragen oder brauchst du eine individuelle Grafik für deine Zielgruppe? Schreib mir einfach eine Nachricht über Digistore24. Ich unterstütze dich gerne bei deiner Kampagne.
 
 ## 2. Links
 

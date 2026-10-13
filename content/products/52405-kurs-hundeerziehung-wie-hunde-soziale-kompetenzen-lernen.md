@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Für Affiliates:<br /></strong>- 50% Lifetime Provision<br />- Zusätzliche Affiliate Empfehlungsprovision von 10%.<br />- Verlinkung zu einer professionellen Verkaufsseite<br />- Ausführliche Affiliate - Informationsseite<br />- Professionelle Werbematerialien (Bilder, Banner, Videos, Reels) <br /><br />In diesem kompakten Kurs lernst du, <strong>wie du die ersten Monate deines Hundes so gestaltest, dass er eine entspannter und sozial kompetenter Hund wird, der auch Konfliktsituation meidet und andere Hunde lesen kann. </strong>Warum kompliziert, wenn es auch einfach geht?</p>
-<p>Was bedeutet genau Welpenschutz <strong>und kann man sich darauf verlassen?</strong></p>
-<p><strong>Wie verhalten sich erwachsene fremde Hunde zu Junghunden und welche Rolle spielt das Geschlecht?</strong></p>
-<p><strong>Welche Rolle spielen die Rassenunterschiede bei der Sozialisation?</strong></p>
-<p><strong>Wie lernt ein Hund seine Grenzen und die anderer einzuschätzen?</strong></p>
-<p><strong>Welche Rolle spielen deine Reaktionen bei der Entwicklung deines Hundes in seiner Persönlichkeit?<br /><br />Was tut man, wenn eine Situation eskaliert?<br /></strong></p>
+**Vendor's marketplace description:** Für Affiliates: - 50% Lifetime Provision - Zusätzliche Affiliate Empfehlungsprovision von 10%. - Verlinkung zu einer professionellen Verkaufsseite - Ausführliche Affiliate - Informationsseite - Professionelle Werbematerialien (Bilder, Banner, Videos, Reels) In diesem kompakten Kurs lernst du, wie du die ersten Monate deines Hundes so gestaltest, dass er eine entspannter und sozial kompetenter Hund wird, der auch Konfliktsituation meidet und andere Hunde lesen kann. Warum kompliziert, wenn es auch einfach geht? Was bedeutet genau Welpenschutz und kann man sich darauf verlassen? Wie verhalten sich erwachsene fremde Hunde zu Junghunden und welche Rolle spielt das Geschlecht? Welche Rolle spielen die Rassenunterschiede bei der Sozialisation? Wie lernt ein Hund seine Grenzen und die anderer einzuschätzen? Welche Rolle spielen deine Reaktionen bei der Entwicklung deines Hundes in seiner Persönlichkeit? Was tut man, wenn eine Situation eskaliert?
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das E-Book „Was ich wirklich brauche“ richtet sich an Menschen, die ihre eigenen Bedürfnisse besser verstehen und lernen möchten, sie in Beziehungen klarer wahrzunehmen und auszudrücken.</p>
-<p>Es vermittelt verständlich und psychologisch fundiert, wie Bedürfnisse das eigene Erleben und Verhalten beeinflussen, warum es häufig schwerfällt, die eigenen Bedürfnisse überhaupt zu erkennen und wie sie konkret kommuniziert werden können. Die Leser lernen außerdem, mit unterschiedlichen Bedürfnissen in einer Beziehung umzugehen und besser zu unterscheiden, was sie selbst brauchen und was sie vom Gegenüber erwarten können.</p>
-<p>Das E-Book eignet sich zur Bewerbung bei einer Zielgruppe, die sich für Beziehungsmuster, persönliche Entwicklung, Bedürfnisse und eine gesündere Beziehungsgestaltung interessiert.</p>
+**Vendor's marketplace description:** Das E-Book „Was ich wirklich brauche“ richtet sich an Menschen, die ihre eigenen Bedürfnisse besser verstehen und lernen möchten, sie in Beziehungen klarer wahrzunehmen und auszudrücken. Es vermittelt verständlich und psychologisch fundiert, wie Bedürfnisse das eigene Erleben und Verhalten beeinflussen, warum es häufig schwerfällt, die eigenen Bedürfnisse überhaupt zu erkennen und wie sie konkret kommuniziert werden können. Die Leser lernen außerdem, mit unterschiedlichen Bedürfnissen in einer Beziehung umzugehen und besser zu unterscheiden, was sie selbst brauchen und was sie vom Gegenüber erwarten können. Das E-Book eignet sich zur Bewerbung bei einer Zielgruppe, die sich für Beziehungsmuster, persönliche Entwicklung, Bedürfnisse und eine gesündere Beziehungsgestaltung interessiert.
 
 ## 2. Links
 

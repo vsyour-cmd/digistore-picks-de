@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <table>
-<tbody>
-<tr>
-<td>
-<div>
-<h2>Mehr als nur ein Sicherheitskurs</h2>
-<p>Mit unserem einzigartigen und preisgekrönten Konzept „Tigerhase“ haben wir es uns zur Herzensaufgabe gemacht, die Persönlichkeit und das Selbstbewusstsein von Kindern nachhaltig zu stärken. <strong>In kurzer Zeit lernt Dein Kind spielerisch</strong></p>
-<ul>
-<li>selbstbewusst</li>
-<li>authentisch</li>
-<li>empathisch und</li>
-<li>intuitiv zu handeln</li>
-</ul>
-</div>
-</td>
-</tr>
-</tbody>
-</table>
+**Vendor's marketplace description:** Mehr als nur ein Sicherheitskurs Mit unserem einzigartigen und preisgekrönten Konzept „Tigerhase“ haben wir es uns zur Herzensaufgabe gemacht, die Persönlichkeit und das Selbstbewusstsein von Kindern nachhaltig zu stärken. In kurzer Zeit lernt Dein Kind spielerisch selbstbewusst authentisch empathisch und intuitiv zu handeln
 
 ## 2. Links
 

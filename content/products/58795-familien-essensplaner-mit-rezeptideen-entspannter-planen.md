@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Was gibt es heute zu essen? Mit dem Familien-Essensplaner wird die Wochenplanung einfacher und entspannter. Praktische Planungshilfe kombiniert mit leckeren Rezeptideen – perfekt für Familien, die weniger Zeit mit Überlegen und mehr Zeit miteinander verbringen möchten. Ideal für Eltern, die ihren Alltag besser organisieren und stressfreier kochen möchten.</p>
+**Vendor's marketplace description:** Was gibt es heute zu essen? Mit dem Familien-Essensplaner wird die Wochenplanung einfacher und entspannter. Praktische Planungshilfe kombiniert mit leckeren Rezeptideen – perfekt für Familien, die weniger Zeit mit Überlegen und mehr Zeit miteinander verbringen möchten. Ideal für Eltern, die ihren Alltag besser organisieren und stressfreier kochen möchten.
 
 ## 2. Links
 

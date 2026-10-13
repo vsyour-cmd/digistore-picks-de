@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#ff0000;"><strong>Du möchtest als Administrator mehr Geld verdienen? Dann solltest du dich mit der PowerShell beschäftigen. Mit dieser Kompetenz steigerst du deinen Marktwert und kannst in weniger Zeit produktiver sein.</strong></span></p>
-<p> </p>
-<p>Mit PowerShell <strong>automatisierst du Routineaufgaben</strong>, <strong>sparst wertvolle Zeit</strong> – und wirst zur <strong>unverzichtbaren Kraft</strong> in jedem IT-Team.</p>
-<p> </p>
-<p><strong>Du willst PowerShell endlich verstehen und sicher anwenden? </strong></p>
-<p>Dann ist dieses E-Book genau das Richtige für dich!</p>
-<h2><strong>Das lernst du im E-Book:</strong></h2>
-<p> </p>
-<ul>
-<li>PowerShell von Grund auf verstehen – auch ohne Vorwissen</li>
-<li>Dateien, Dienste, Benutzer, Prozesse per Skript verwalten</li>
-<li>Mit Modulen, Schleifen &amp; Fehlerbehandlung professionell arbeiten</li>
-<li>Praxisprojekte, zur Veranschaulichung</li>
-<li>PowerShell mit KI verwenden</li>
-</ul>
-<p><a href="https://it-learner.de/wp-content/uploads/2025/05/PowerShell-fuer-Anfaenger-%E2%80%93-Mehr-erreichen-in-weniger-Zeit-Leseprobe.pdf" target="_blank" rel="noreferrer noopener">→ <strong>Leseprobe aus dem E-Book</strong></a></p>
-<h2><strong>Für wen ist das Buch?</strong></h2>
-<ul>
-<li>Auszubildende in der IT</li>
-<li>angehende Systemadministratoren</li>
-<li>Quereinsteiger im IT-Bereich</li>
-<li>alle, die automatisieren statt klicken wollen</li>
-</ul>
-<h3><span style="color:#ff0000;"><strong>Investiere in dein Wissen – und steigere deinen Wert als IT-Profi</strong></span></h3>
+**Vendor's marketplace description:** Du möchtest als Administrator mehr Geld verdienen? Dann solltest du dich mit der PowerShell beschäftigen. Mit dieser Kompetenz steigerst du deinen Marktwert und kannst in weniger Zeit produktiver sein. Mit PowerShell automatisierst du Routineaufgaben , sparst wertvolle Zeit – und wirst zur unverzichtbaren Kraft in jedem IT-Team. Du willst PowerShell endlich verstehen und sicher anwenden? Dann ist dieses E-Book genau das Richtige für dich! Das lernst du im E-Book: PowerShell von Grund auf verstehen – auch ohne Vorwissen Dateien, Dienste, Benutzer, Prozesse per Skript verwalten Mit Modulen, Schleifen & Fehlerbehandlung professionell arbeiten Praxisprojekte, zur Veranschaulichung PowerShell mit KI verwenden → Leseprobe aus dem E-Book Für wen ist das Buch? Auszubildende in der IT angehende Systemadministratoren Quereinsteiger im IT-Bereich alle, die automatisieren statt klicken wollen Investiere in dein Wissen – und steigere deinen Wert als IT-Profi
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der beste und schnellste Weg, um Beziehungen wieder in den Griff zu bekommen.</p>
-<p> </p>
-<p>Bewerben Sie jetzt diesen Ratgeber und verdienen Sie 50% Provision pro verkauftem E-Book.</p>
+**Vendor's marketplace description:** Der beste und schnellste Weg, um Beziehungen wieder in den Griff zu bekommen. Bewerben Sie jetzt diesen Ratgeber und verdienen Sie 50% Provision pro verkauftem E-Book.
 
 ## 2. Links
 

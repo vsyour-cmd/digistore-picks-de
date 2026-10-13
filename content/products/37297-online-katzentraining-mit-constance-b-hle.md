@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Sie erhalten 25% Abo-Provision und 50% auf alle anderen Produkte in unserem hochoptimierten Funnel - i</strong><strong>nkl. Remarketing auf unsere Kosten!</strong></span></p>
-<p>Die neue Online Katzenschule mit Deutschlands führender Katzenexpertin Constance Böhle (Abo, ab 9,99€ mtl.)</p>
-<p><strong>Ihre Vorteile als Affiliate:</strong></p>
-<ul>
-<li>Hohe Conversion</li>
-<li>Fertige Werbemittel (getestet)</li>
-<li>Markenqualität</li>
-</ul>
-<p>Die neue Online Katzenschule hat das Ziel, eine Katzenwelt zu schaffen, in der ein harmonisches und glückliches Miteinander besteht. Respektvolles und gezieltes Training mit Mensch &amp; Katze führt uns geradewegs ins Katzenparadies.</p>
-<p>Unsere Vision besteht darin, Dir zu zeigen, wie Du mit weniger Zeitinvestment Deinem Katzenparadies immer wieder einen Schritt näher kommst. Wir werden Dir verraten, wie Du Deine Katze verstehen lernst, ihr unterschiedliche Revierzonen schaffst und die wichtigsten Katzenbedürfnisse stillen kannst, damit es ihr so richtig gut geht.</p>
-<ul>
-<li><strong>Live Videos: </strong>Betreuung direkt durch Constance</li>
-<li><strong>Eine große Bibliothek</strong>, die um neue Kurse erweitert wird</li>
-<li><strong>Inklusive Support-Gruppe</strong></li>
-<li><strong>Katzenernährung </strong>auf den Punkt gebracht</li>
-<li><strong>Katzen-Trainingspläne mit Alltagsgarantie: </strong>Katzentipps, die wirklich funktionieren</li>
-</ul>
+**Vendor's marketplace description:** Sie erhalten 25% Abo-Provision und 50% auf alle anderen Produkte in unserem hochoptimierten Funnel - i nkl. Remarketing auf unsere Kosten! Die neue Online Katzenschule mit Deutschlands führender Katzenexpertin Constance Böhle (Abo, ab 9,99€ mtl.) Ihre Vorteile als Affiliate: Hohe Conversion Fertige Werbemittel (getestet) Markenqualität Die neue Online Katzenschule hat das Ziel, eine Katzenwelt zu schaffen, in der ein harmonisches und glückliches Miteinander besteht. Respektvolles und gezieltes Training mit Mensch & Katze führt uns geradewegs ins Katzenparadies. Unsere Vision besteht darin, Dir zu zeigen, wie Du mit weniger Zeitinvestment Deinem Katzenparadies immer wieder einen Schritt näher kommst. Wir werden Dir verraten, wie Du Deine Katze verstehen lernst, ihr unterschiedliche Revierzonen schaffst und die wichtigsten Katzenbedürfnisse stillen kannst, damit es ihr so richtig gut geht. Live Videos: Betreuung direkt durch Constance Eine große Bibliothek , die um neue Kurse erweitert wird Inklusive Support-Gruppe Katzenernährung auf den Punkt gebracht Katzen-Trainingspläne mit Alltagsgarantie: Katzentipps, die wirklich funktionieren
 
 ## 2. Links
 

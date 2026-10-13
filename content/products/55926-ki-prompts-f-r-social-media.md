@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verschenke "KI Prompts für Social Media Bilder" an deine Community!</strong></p>
-<p>Deine Kunden erhalten kostenlos:</p>
-<ul>
-<li>Einen 50-seitigen Guide mit 30 Bild-Prompts und 10 Bonus Video-/Reel-Prompts für ChatGPT, Gemini und Grok</li>
-<li>Geeignet für Instagram, Facebook, Pinterest und TikTok</li>
-<li>Schnell und einfach beeindruckende Social Media Bilder mit KI erstellen – ohne Designkenntnisse und mit geringem Zeitaufwand!</li>
-<li>Perfekt für Content Creator, Affiliate Marketing, Network Marketing, Online-Unternehmer und alle, die mehr Reichweite wollen.</li>
-</ul>
-<p>Einfach Prompt kopieren, in die KI einfügen und sofort loslegen!</p>
-<p><strong>Deine Benefits:</strong></p>
-<ul>
-<li>Du bekommst 50% im kompletten Funneldurchlauf</li>
-<li>Second-Level Provisionen sind 10% für dich passiv</li>
-<li>Du kannst bis zu 120 € Provision bei den Upsells verdienen</li>
-<li>Die Verkaufs- und Upsellseiten werden stetig auf Conversion optimiert</li>
-<li>Hervorragendes Produkt für jeden, der fesselnde KI-generierte Bilder für seine Social Media Kanäle erstellen möchte</li>
-<li>Hohe Conversion, da es kostenlos ist</li>
-</ul>
-<p>Auf unserer Partnerseite erwarten dich neben allen Informationen E-Mail-Vorlagen sowie Headlines und Bilder, die du nutzen kannst, wie du möchtest!</p>
+**Vendor's marketplace description:** Verschenke "KI Prompts für Social Media Bilder" an deine Community! Deine Kunden erhalten kostenlos: Einen 50-seitigen Guide mit 30 Bild-Prompts und 10 Bonus Video-/Reel-Prompts für ChatGPT, Gemini und Grok Geeignet für Instagram, Facebook, Pinterest und TikTok Schnell und einfach beeindruckende Social Media Bilder mit KI erstellen – ohne Designkenntnisse und mit geringem Zeitaufwand! Perfekt für Content Creator, Affiliate Marketing, Network Marketing, Online-Unternehmer und alle, die mehr Reichweite wollen. Einfach Prompt kopieren, in die KI einfügen und sofort loslegen! Deine Benefits: Du bekommst 50% im kompletten Funneldurchlauf Second-Level Provisionen sind 10% für dich passiv Du kannst bis zu 120 € Provision bei den Upsells verdienen Die Verkaufs- und Upsellseiten werden stetig auf Conversion optimiert Hervorragendes Produkt für jeden, der fesselnde KI-generierte Bilder für seine Social Media Kanäle erstellen möchte Hohe Conversion, da es kostenlos ist Auf unserer Partnerseite erwarten dich neben allen Informationen E-Mail-Vorlagen sowie Headlines und Bilder, die du nutzen kannst, wie du möchtest!
 
 ## 2. Links
 

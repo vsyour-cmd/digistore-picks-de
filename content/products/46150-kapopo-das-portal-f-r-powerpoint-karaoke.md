@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Wesentliche bei <strong>KAPOPO</strong> ist, dass ihr euer Publikum unterhaltet, sei es durch den Inhalt oder durch eure Performance.</p>
-<p><strong>Mit KAPOPO habt ihr Zugriff auf über 70 neue Präsentationen in deutscher und englischer Sprache.<br /><br /></strong> Jeden Monat vergrößert sich der Präsentationspool. Um das Spielerlebnis noch unterhaltsamer und kreativer zu gestalten, können unterschiedliche Spielfunktionen aktiviert werden.</p>
-<p>Mit <strong>PowerPoint-Karaoke</strong> verbessert ihr nicht nur spielerisch eure rhetorischen Fähigkeiten, sondern fördert auf humorvolle Weise eure Kreativität und eure Fähigkeit, frei vor Publikum zu sprechen.</p>
+**Vendor's marketplace description:** Das Wesentliche bei KAPOPO ist, dass ihr euer Publikum unterhaltet, sei es durch den Inhalt oder durch eure Performance. Mit KAPOPO habt ihr Zugriff auf über 70 neue Präsentationen in deutscher und englischer Sprache. Jeden Monat vergrößert sich der Präsentationspool. Um das Spielerlebnis noch unterhaltsamer und kreativer zu gestalten, können unterschiedliche Spielfunktionen aktiviert werden. Mit PowerPoint-Karaoke verbessert ihr nicht nur spielerisch eure rhetorischen Fähigkeiten, sondern fördert auf humorvolle Weise eure Kreativität und eure Fähigkeit, frei vor Publikum zu sprechen.
 
 ## 2. Links
 

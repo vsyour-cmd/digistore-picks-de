@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Affiliate-Provision:</strong> 50 % Provision auf alle Addons, Order Bumps und Upsells.<br /><br /></p>
-<p><strong>Business Builder Factory – Basic</strong></p>
-<p>Deine Kunden erstellen mit wenigen Klicks professionelle Checklisten, E-Books, Workbooks und Swipe Files als PDF.</p>
-<p>Sie erhalten sofort nutzbare Prompts, Vorlagen, Produktideen und klare Strukturen, um digitale Produkte schneller umzusetzen.</p>
-<p><strong>Enthalten:</strong></p>
-<p>• Bis zu 10 PDFs pro Monat<br />• Bis zu 20 Seiten pro PDF<br />• Builder für E-Books, Checklisten, Workbooks und Swipe Files<br />• Monatlich neue Produktideen<br />• Funnel Builder für Upsells und Order Bumps<br />• Sofort einsetzbare Vorlagen und Prompts<br />• Direkter digitaler Zugang nach dem Kauf</p>
+**Vendor's marketplace description:** Affiliate-Provision: 50 % Provision auf alle Addons, Order Bumps und Upsells. Business Builder Factory – Basic Deine Kunden erstellen mit wenigen Klicks professionelle Checklisten, E-Books, Workbooks und Swipe Files als PDF. Sie erhalten sofort nutzbare Prompts, Vorlagen, Produktideen und klare Strukturen, um digitale Produkte schneller umzusetzen. Enthalten: • Bis zu 10 PDFs pro Monat • Bis zu 20 Seiten pro PDF • Builder für E-Books, Checklisten, Workbooks und Swipe Files • Monatlich neue Produktideen • Funnel Builder für Upsells und Order Bumps • Sofort einsetzbare Vorlagen und Prompts • Direkter digitaler Zugang nach dem Kauf
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <blockquote>
-<blockquote>
-<p>Verdien 190 Euro netto pro Sale in der unentdecktesten Nische des Jahres!</p>
-<p>Bist du genervt von den ewig gleichen Geld-verdienen-Produkten wie Dropshipping, Krypto oder Trading? Deine Zielgruppe auch!</p>
-<p>Biete deiner Liste endlich etwas Echtes, Handfestes und Hochprofitables an: Das Salat-Gastro-Business.</p>
-<p>Worum geht es?<br />Wir zeigen Menschen, die unzufrieden in ihrem Job sind, wie sie auf nur 100 Quadratmeter Flaeche (z.B. im eigenen Garten) ein echtes System aufbauen, um 27.000 Euro Umsatz zu generieren - als Premium-Lieferant fuer die Gastronomie. Kein Hobby-Gaertnern, sondern ein knallhartes, krisensicheres Business.</p>
-<p>Warum du dieses System jetzt bewerben musst:<br />- Satte 50 Prozent Provision: Bei 497 Euro Brutto-Verkaufspreis wandern ca. 190 Euro Netto pro Sale direkt auf dein Konto! High-Ticket Provision fuer dich.<br />- Hungrige Zielgruppe: Der Schmerz (Raus aus dem Hamsterrad) trifft auf ein extrem greifbares, reales Business-Modell. Das konvertiert wie verrueckt.<br />- Blauer Ozean: Fast null Konkurrenz. Eine brandneue Nische, die noch nicht totbeworben ist.<br />- Storno-Quote gegen Null: Es ist ein ehrliches, durchdachtes System, das funktioniert. Wer das kauft, setzt um und storniert nicht.</p>
-<p>Hol dir jetzt deinen Promolink und erobere diese Nische, bevor die breite Masse sie entdeckt!</p>
-</blockquote>
-</blockquote>
+**Vendor's marketplace description:** Verdien 190 Euro netto pro Sale in der unentdecktesten Nische des Jahres! Bist du genervt von den ewig gleichen Geld-verdienen-Produkten wie Dropshipping, Krypto oder Trading? Deine Zielgruppe auch! Biete deiner Liste endlich etwas Echtes, Handfestes und Hochprofitables an: Das Salat-Gastro-Business. Worum geht es? Wir zeigen Menschen, die unzufrieden in ihrem Job sind, wie sie auf nur 100 Quadratmeter Flaeche (z.B. im eigenen Garten) ein echtes System aufbauen, um 27.000 Euro Umsatz zu generieren - als Premium-Lieferant fuer die Gastronomie. Kein Hobby-Gaertnern, sondern ein knallhartes, krisensicheres Business. Warum du dieses System jetzt bewerben musst: - Satte 50 Prozent Provision: Bei 497 Euro Brutto-Verkaufspreis wandern ca. 190 Euro Netto pro Sale direkt auf dein Konto! High-Ticket Provision fuer dich. - Hungrige Zielgruppe: Der Schmerz (Raus aus dem Hamsterrad) trifft auf ein extrem greifbares, reales Business-Modell. Das konvertiert wie verrueckt. - Blauer Ozean: Fast null Konkurrenz. Eine brandneue Nische, die noch nicht totbeworben ist. - Storno-Quote gegen Null: Es ist ein ehrliches, durchdachtes System, das funktioniert. Wer das kauft, setzt um und storniert nicht. Hol dir jetzt deinen Promolink und erobere diese Nische, bevor die breite Masse sie entdeckt!
 
 ## 2. Links
 

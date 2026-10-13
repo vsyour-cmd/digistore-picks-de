@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die Media Kit Vorlage ist eine sofort nutzbare Vorlage, mit der Influencer, Content Creator und Selbstständige sich professionell bei Marken präsentieren und Kooperationen erhalten können.</p>
-<p>Anstatt stundenlang selbst ein Media Kit zu gestalten, bietet diese Vorlage eine klare Struktur, die den Mehrwert, die Zielgruppe und die Kooperationsmöglichkeiten übersichtlich darstellt.</p>
-<p>Das Produkt löst eines der größten Probleme vieler Creator: sich professionell bei Marken und Unternehmen zu präsentieren.</p>
-<p>Ideal für Influencer, Blogger, Creator und Selbstständige, die sich als professioneller Kooperationspartner positionieren möchten.</p>
-<p>Affiliates können dieses Produkt besonders gut an die schnell wachsende Zielgruppe der Content Creator und Social-Media-Unternehmer vermarkten.</p>
-<p>Vorteile des Produkts:</p>
-<p>• Professionell strukturierte Media-Kit Vorlage<br />• Hilft Creatorn, Kooperationen mit Marken zu erhalten<br />• Spart viele Stunden Design- und Planungsarbeit<br />• Ideal für Influencer, Blogger und Content Creator<br />• Beispiel-Media-Kit zur Inspiration enthalten</p>
-<p>Produktformat: Digitaler Download (Vorlage + Anleitung)</p>
+**Vendor's marketplace description:** Die Media Kit Vorlage ist eine sofort nutzbare Vorlage, mit der Influencer, Content Creator und Selbstständige sich professionell bei Marken präsentieren und Kooperationen erhalten können. Anstatt stundenlang selbst ein Media Kit zu gestalten, bietet diese Vorlage eine klare Struktur, die den Mehrwert, die Zielgruppe und die Kooperationsmöglichkeiten übersichtlich darstellt. Das Produkt löst eines der größten Probleme vieler Creator: sich professionell bei Marken und Unternehmen zu präsentieren. Ideal für Influencer, Blogger, Creator und Selbstständige, die sich als professioneller Kooperationspartner positionieren möchten. Affiliates können dieses Produkt besonders gut an die schnell wachsende Zielgruppe der Content Creator und Social-Media-Unternehmer vermarkten. Vorteile des Produkts: • Professionell strukturierte Media-Kit Vorlage • Hilft Creatorn, Kooperationen mit Marken zu erhalten • Spart viele Stunden Design- und Planungsarbeit • Ideal für Influencer, Blogger und Content Creator • Beispiel-Media-Kit zur Inspiration enthalten Produktformat: Digitaler Download (Vorlage + Anleitung)
 
 ## 2. Links
 

@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Holistisch Mama Affirmationskarten – 31 regulierende Karten für frisch gebackene Mamas (PDF &amp; PNG Download)</strong></p>
-<p>Die ersten Monate als Mama sind intensiv, wunderschön – und manchmal überwältigend.<br />Diese 31 liebevoll formulierten Affirmationskarten unterstützen dich dabei, deinen inneren Druck loszulassen und wieder in deine Ruhe zu finden.</p>
-<p>Statt Perfektionsanspruch bekommst du stärkende Worte, die dich im Wochenbett, in der Stillzeit und im ersten Babyjahr emotional begleiten.</p>
-<p>✔ 31 regulierende Affirmationen<br />✔ Speziell für Wochenbett &amp; frühe Mutterschaft<br />✔ Minimalistisches, warmes Design<br />✔ Druckfertige PDF-Datei &amp; PNG Dateien<br />✔ Sofortiger Download<br />✔ Inklusive Anleitung zum Ausdrucken</p>
-<p>Ideal für dich selbst oder als Geschenk für eine frischgebackene Mama.</p>
-<p>Nach dem Kauf erhältst du sofort Zugriff auf deine Datei und kannst direkt starten.</p>
+**Vendor's marketplace description:** Holistisch Mama Affirmationskarten – 31 regulierende Karten für frisch gebackene Mamas (PDF & PNG Download) Die ersten Monate als Mama sind intensiv, wunderschön – und manchmal überwältigend. Diese 31 liebevoll formulierten Affirmationskarten unterstützen dich dabei, deinen inneren Druck loszulassen und wieder in deine Ruhe zu finden. Statt Perfektionsanspruch bekommst du stärkende Worte, die dich im Wochenbett, in der Stillzeit und im ersten Babyjahr emotional begleiten. ✔ 31 regulierende Affirmationen ✔ Speziell für Wochenbett & frühe Mutterschaft ✔ Minimalistisches, warmes Design ✔ Druckfertige PDF-Datei & PNG Dateien ✔ Sofortiger Download ✔ Inklusive Anleitung zum Ausdrucken Ideal für dich selbst oder als Geschenk für eine frischgebackene Mama. Nach dem Kauf erhältst du sofort Zugriff auf deine Datei und kannst direkt starten.
 
 ## 2. Links
 

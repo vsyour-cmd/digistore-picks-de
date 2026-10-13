@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ff99cc;">Bewerben Sie den ersten und einzigen online Rückbildungskurs für Frauen nach der Entbindung.</span></p>
-<p><strong>Sie haben dabei diese Vorteile:</strong></p>
-<ul>
-<li>50% Provision</li>
-<li>Geringe Stornorate</li>
-<li>Sie profitieren vom angebunden Email-Funnel sowie von Retargeting-Maßnahmen</li>
-<li>Lead-to-Sale Conversion von &gt;15%!</li>
-<li>Sie bekommen professionelle und klickstarke Werbemittel gestellt.</li>
-</ul>
-<p>Erlaubt ist: Werbung in sozialen Medien, in Email-Listen, auf Webseiten/Blogs, Adwords und vieles mehr.</p>
-<p>Bei Fragen können Sie sich gerne an uns wenden: info@mami-first.de</p>
+**Vendor's marketplace description:** Bewerben Sie den ersten und einzigen online Rückbildungskurs für Frauen nach der Entbindung. Sie haben dabei diese Vorteile: 50% Provision Geringe Stornorate Sie profitieren vom angebunden Email-Funnel sowie von Retargeting-Maßnahmen Lead-to-Sale Conversion von >15%! Sie bekommen professionelle und klickstarke Werbemittel gestellt. Erlaubt ist: Werbung in sozialen Medien, in Email-Listen, auf Webseiten/Blogs, Adwords und vieles mehr. Bei Fragen können Sie sich gerne an uns wenden: info@mami-first.de
 
 ## 2. Links
 

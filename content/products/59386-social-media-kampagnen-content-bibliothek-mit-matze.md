@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Erweitere deine Content-Planung mit einer zusätzlichen Kampagnenbibliothek.</p>
-<p>Enthalten:<br />• Zusatzpaket als PDF<br />• Bearbeitbare Vorlagen als DOCX<br />• Kampagnenbibliothek als CSV und Markdown<br />• Startanleitung</p>
-<p>ZIP entpacken; PDF-Reader, Schreibprogramm und Tabellenprogramm nutzen. Optionaler Zusatz zu Social Media auf Autopilot. Der Hauptkurs ist nicht enthalten und bleibt ohne Zusatz vollständig.</p>
-<p>Schriftliches Downloadprodukt auf Deutsch. Keine Videolektionen, persönliche Betreuung oder enthaltenen Drittanbieter-Abos. Beispiele sind Übungsmaterial; Verkäufe, Aufträge und Einkommen werden nicht zugesagt. Einmalzahlung, kein Abo.</p>
-<p>Anbieter: Einfach mit Matze / Michael Arndt · info@einfachhaltbar.de. Nutzung für die eigene Arbeit gemäß den beiliegenden Nutzungsregeln. Kein Weiterverkauf der Kursdateien.</p>
-<p>Affiliate-Information: 50,00 % Provision. Eigenständig erhältliches Zusatzpaket; der Hauptkurs ist nicht enthalten. Keine garantierten Verkäufe oder Einnahmen. Kontakt: info@einfachhaltbar.de.</p>
+**Vendor's marketplace description:** Erweitere deine Content-Planung mit einer zusätzlichen Kampagnenbibliothek. Enthalten: • Zusatzpaket als PDF • Bearbeitbare Vorlagen als DOCX • Kampagnenbibliothek als CSV und Markdown • Startanleitung ZIP entpacken; PDF-Reader, Schreibprogramm und Tabellenprogramm nutzen. Optionaler Zusatz zu Social Media auf Autopilot. Der Hauptkurs ist nicht enthalten und bleibt ohne Zusatz vollständig. Schriftliches Downloadprodukt auf Deutsch. Keine Videolektionen, persönliche Betreuung oder enthaltenen Drittanbieter-Abos. Beispiele sind Übungsmaterial; Verkäufe, Aufträge und Einkommen werden nicht zugesagt. Einmalzahlung, kein Abo. Anbieter: Einfach mit Matze / Michael Arndt · info@einfachhaltbar.de. Nutzung für die eigene Arbeit gemäß den beiliegenden Nutzungsregeln. Kein Weiterverkauf der Kursdateien. Affiliate-Information: 50,00 % Provision. Eigenständig erhältliches Zusatzpaket; der Hauptkurs ist nicht enthalten. Keine garantierten Verkäufe oder Einnahmen. Kontakt: info@einfachhaltbar.de.
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Für Affiliates:</strong> CloverQMS ist digitales Qualitätsmanagement nach ISO 9001:2015. 25 % Provision auf alle drei Tarife, automatische Aufnahme.</p>
-<p>Zielgruppe: KMU und Organisationen, die audit-ready arbeiten wollen, ohne eine Konzern-QMS-Suite.</p>
-<ul>
-<li>Starter ab 29 € / Monat (249 € / Jahr)</li>
-<li>Verwandte Tarife: Pro, Enterprise</li>
-</ul>
-<p>Salespage: <a href="https://cloverqms.com">cloverqms.com</a><br />Affiliate-Support: <a href="https://hih-digital.com/affiliates/cloverqms.html">hih-digital.com/affiliates/cloverqms.html</a></p>
+**Vendor's marketplace description:** Für Affiliates: CloverQMS ist digitales Qualitätsmanagement nach ISO 9001:2015. 25 % Provision auf alle drei Tarife, automatische Aufnahme. Zielgruppe: KMU und Organisationen, die audit-ready arbeiten wollen, ohne eine Konzern-QMS-Suite. Starter ab 29 € / Monat (249 € / Jahr) Verwandte Tarife: Pro, Enterprise Salespage: cloverqms.com Affiliate-Support: hih-digital.com/affiliates/cloverqms.html
 
 ## 2. Links
 
@@ -77,6 +71,14 @@ language: "de"
 - **OG image:** https://cloverqms.com/images/cloverqms-sales-hero.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Die wichtigsten Bausteine für einen klaren und verlässlichen Arbeitsablauf.
 
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 

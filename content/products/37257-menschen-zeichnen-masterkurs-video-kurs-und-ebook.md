@@ -41,57 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit diesem <strong>Menschen zeichnen Masterkurs</strong> wirst du schnell lernen, den <strong>menschlichen Körper in den unterschiedlichsten Posen zu zeichnen</strong>. Umfangreicher Video-Kurs und eBook für Anfänger und Fortgeschrittene.</p>
-<p><strong>Das beinhaltet der Masterkurs</strong></p>
-<ul>
-<li>21 Stunden Video-Tutorials mit 157 Zeichenübungen</li>
-<li>eBook mit 194 Seiten Wissen + Übungsblätter</li>
-</ul>
-<div>
-<div>
-<h3>Mit diesem Kurs lernst du</h3>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<ul>
-<li>Körper in richtigen Proportionen zeichnen</li>
-<li>Unterschiedliche Körperformen zeichnen</li>
-<li>Körper in unterschiedlichem Alter zeichnen</li>
-<li>Knochenstruktur &amp; Muskulatur zeichnen</li>
-<li>Einzelne Körperteile im Detail zeichnen</li>
-<li>Gesichter im Detail zeichnen</li>
-<li>Haare und Frisuren zeichnen</li>
-<li>Posen zeichnen &amp; Actionlinien</li>
-<li>Posen perspektivisch zeichnen</li>
-<li>Kleidung &amp; Faltenwurf zeichnen</li>
-</ul>
-<div>
-<div>
-<h3>Ein Masterkurs voller Tipps &amp; praxisorientierter Übungen</h3>
-</div>
-</div>
-<div>
-<div>
-<div>
-<p>Alle <strong>Video-Übungen sind durchweg kommentiert</strong> und <strong>beinhalten Schritt für Schritt Anleitungen mit vielen Tipps und Tricks</strong>. </p>
-<p>Der Aufbau des Kurses und der einzelnen Übungen soll dich dabei befähigen, sowohl Menschen in unterschiedlichen Posen nachzuzeichnen, als auch Menschen in unterschiedlichen Posen komplett Freihand zu zeichnen.</p>
-<p>Alle Vorlagen für die Übungen sind dabei sehr realitätsnah, so dass du alle Übungen auf Basis realistischer Proportionen und Posen absolvierst. </p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Mit diesem Menschen zeichnen Masterkurs wirst du schnell lernen, den menschlichen Körper in den unterschiedlichsten Posen zu zeichnen . Umfangreicher Video-Kurs und eBook für Anfänger und Fortgeschrittene. Das beinhaltet der Masterkurs 21 Stunden Video-Tutorials mit 157 Zeichenübungen eBook mit 194 Seiten Wissen + Übungsblätter Mit diesem Kurs lernst du Körper in richtigen Proportionen zeichnen Unterschiedliche Körperformen zeichnen Körper in unterschiedlichem Alter zeichnen Knochenstruktur & Muskulatur zeichnen Einzelne Körperteile im Detail zeichnen Gesichter im Detail zeichnen Haare und Frisuren zeichnen Posen zeichnen & Actionlinien Posen perspektivisch zeichnen Kleidung & Faltenwurf zeichnen Ein Masterkurs voller Tipps & praxisorientierter Übungen Alle Video-Übungen sind durchweg kommentiert und beinhalten Schritt für Schritt Anleitungen mit vielen Tipps und Tricks . Der Aufbau des Kurses und der einzelnen Übungen soll dich dabei befähigen, sowohl Menschen in unterschiedlichen Posen nachzuzeichnen, als auch Menschen in unterschiedlichen Posen komplett Freihand zu zeichnen. Alle Vorlagen für die Übungen sind dabei sehr realitätsnah, so dass du alle Übungen auf Basis realistischer Proportionen und Posen absolvierst.
 
 ## 2. Links
 

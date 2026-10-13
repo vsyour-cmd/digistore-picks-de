@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Über 250 € Provision pro Vermittlung: Der 24/7 KI-Mitarbeiter für Unternehmen!</strong></p>
-<p>Künstliche Intelligenz ist das Trend-Thema im Mittelstand. Mit dem <strong>Firmen-KI Chatbot</strong> bieten wir die schlüsselfertige Lösung zum Festpreis: Ein KI-Bot, der exklusiv mit den eigenen Firmen-PDFs und FAQs trainiert wird.</p>
-<p><strong>Deine Affiliate-Vorteile:</strong></p>
-<ul>
-<li>
-<p><strong>Massive Provision:</strong> <strong>258,00 €</strong> mit nur einem einzigen Klick verdienen (20 % Provision).</p>
-</li>
-<li>
-<p><strong>Trend-Markt KI:</strong> Der Markt sucht händeringend nach einfachen KI-Implementierungen für bestehende Websites.</p>
-</li>
-<li>
-<p><strong>Asynchrones Onboarding:</strong> Kein Call nötig – die Landingpage konvertiert kalten und warmen B2B-Traffic direkt.</p>
-</li>
-<li>
-<p><strong>Professionelles Brand:</strong> AFFYRO steht für hochwertige, moderne Software-Assets.</p>
-</li>
-</ul>
-<p><strong>Ideal für:</strong> Digital-Agenturen, Tech-Blogger, KI-Newsletter, B2B-Influencer und E-Commerce-Berater.</p>
+**Vendor's marketplace description:** Über 250 € Provision pro Vermittlung: Der 24/7 KI-Mitarbeiter für Unternehmen! Künstliche Intelligenz ist das Trend-Thema im Mittelstand. Mit dem Firmen-KI Chatbot bieten wir die schlüsselfertige Lösung zum Festpreis: Ein KI-Bot, der exklusiv mit den eigenen Firmen-PDFs und FAQs trainiert wird. Deine Affiliate-Vorteile: Massive Provision: 258,00 € mit nur einem einzigen Klick verdienen (20 % Provision). Trend-Markt KI: Der Markt sucht händeringend nach einfachen KI-Implementierungen für bestehende Websites. Asynchrones Onboarding: Kein Call nötig – die Landingpage konvertiert kalten und warmen B2B-Traffic direkt. Professionelles Brand: AFFYRO steht für hochwertige, moderne Software-Assets. Ideal für: Digital-Agenturen, Tech-Blogger, KI-Newsletter, B2B-Influencer und E-Commerce-Berater.
 
 ## 2. Links
 
@@ -90,6 +73,14 @@ language: "de"
 - **Page word count:** 541
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
 
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 

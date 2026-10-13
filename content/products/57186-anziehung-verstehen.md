@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Anziehung verstehen“</strong></p>
-<p>Was Menschen wirklich verbindet – Was zieht Menschen wirklich zueinander? Die Psychologie der Anziehung – verständlich und anwendbar.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,45 € pro Verkauf (Verkaufspreis 18,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Die Psychologie der Anziehung verstehen</li>
-<li>Echte Verbindung statt Tricks</li>
-<li>Gemeinsamkeiten &amp; Spannung in Balance</li>
-<li>Anziehung langfristig erhalten</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Anziehung verstehen“ Was Menschen wirklich verbindet – Was zieht Menschen wirklich zueinander? Die Psychologie der Anziehung – verständlich und anwendbar. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,45 € pro Verkauf (Verkaufspreis 18,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Die Psychologie der Anziehung verstehen Echte Verbindung statt Tricks Gemeinsamkeiten & Spannung in Balance Anziehung langfristig erhalten
 
 ## 2. Links
 

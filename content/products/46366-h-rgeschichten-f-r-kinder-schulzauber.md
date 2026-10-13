@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Infos für Affiliates:</h3>
-<p>ZauberOhr erstellt liebevolle Hörspiele für Kinder, die ihr Selbstbewusstsein stärken und so für entspanntere Eltern sorgen.</p>
-<p>Unsere Hörgeschichten basieren auf langjähriger Erfahrung als Therapeutinnen und setzen direkt am Unterbewusstsein des Kindes an, so dass es spielerisch zu mehr Lebensqualität kommt.<br /><br /><strong>Produktbeschreibung:</strong></p>
-<div>
-<div>
-<p>In dieser magischen Geschichte taucht dein Kind als Hauptfigur bereits heute in seine bevorstehende Schulzeit und die damit verbundene Vorfreude ab. Wir mobilisieren alle Ressourcen und geben stärkende und freudige Gefühle mit auf den Weg. Personalisierung empfohlen.</p>
-<p>Es gibt in dieser Geschichte eine interaktive Besonderheit für Eltern: Ihr könnt den Inhalt der Schultüte magisch werden lassen!</p>
-</div>
-</div>
-<p> </p>
+**Vendor's marketplace description:** Infos für Affiliates: ZauberOhr erstellt liebevolle Hörspiele für Kinder, die ihr Selbstbewusstsein stärken und so für entspanntere Eltern sorgen. Unsere Hörgeschichten basieren auf langjähriger Erfahrung als Therapeutinnen und setzen direkt am Unterbewusstsein des Kindes an, so dass es spielerisch zu mehr Lebensqualität kommt. Produktbeschreibung: In dieser magischen Geschichte taucht dein Kind als Hauptfigur bereits heute in seine bevorstehende Schulzeit und die damit verbundene Vorfreude ab. Wir mobilisieren alle Ressourcen und geben stärkende und freudige Gefühle mit auf den Weg. Personalisierung empfohlen. Es gibt in dieser Geschichte eine interaktive Besonderheit für Eltern: Ihr könnt den Inhalt der Schultüte magisch werden lassen!
 
 ## 2. Links
 

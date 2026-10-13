@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Willkommen im Affiliate-Programm für unser Hypno-Meditatives Programm! Wir bieten dir 50% Provision auf jede erfolgreiche Empfehlung. Unser Produkt zeichnet sich durch eine sehr geringe Stornoquote aus, da wir für jeden Kunden eine individuelle Hypno-Meditation erstellen, die speziell auf seine Ziele abgestimmt ist. Das Programm umfasst:</p>
-<ul>
-<li><strong>Deine persönliche Hypno-Meditation:</strong> Ein maßgeschneidertes Audio-Programm für deine individuellen Ziele.</li>
-<li><strong>Bonus 1:</strong> Workshop zur Einführung in das Hypno-meditative Programmieren.</li>
-<li><strong>Bonus 2:</strong> Zugang zum exklusiven Memberbereich mit Bonus-Videos und Techniken.</li>
-<li><strong>Bonus 3:</strong> Abschlusszertifikat nach 30 Tagen Anwendung der Meditation.</li>
-</ul>
-<p>Verdiene hohe Provisionen mit einem Produkt, das Menschen nachhaltig unterstützt!</p>
+**Vendor's marketplace description:** Willkommen im Affiliate-Programm für unser Hypno-Meditatives Programm! Wir bieten dir 50% Provision auf jede erfolgreiche Empfehlung. Unser Produkt zeichnet sich durch eine sehr geringe Stornoquote aus, da wir für jeden Kunden eine individuelle Hypno-Meditation erstellen, die speziell auf seine Ziele abgestimmt ist. Das Programm umfasst: Deine persönliche Hypno-Meditation: Ein maßgeschneidertes Audio-Programm für deine individuellen Ziele. Bonus 1: Workshop zur Einführung in das Hypno-meditative Programmieren. Bonus 2: Zugang zum exklusiven Memberbereich mit Bonus-Videos und Techniken. Bonus 3: Abschlusszertifikat nach 30 Tagen Anwendung der Meditation. Verdiene hohe Provisionen mit einem Produkt, das Menschen nachhaltig unterstützt!
 
 ## 2. Links
 

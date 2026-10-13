@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Vorstellungsgespräch souverän meistern – mit Struktur, Klarheit, KI-Unterstützung</h3>
-<div>
-<div> </div>
-</div>
-<div>
-<p><strong>Vorstellungsgespräch souverän meistern – mit Struktur, Klarheit &amp; KI-Unterstützung - PDF-Download</strong></p>
-<p><strong>Sie haben die Einladung zum Vorstellungsgespräch – jetzt entscheidet Ihre Wirkung.</strong></p>
-<p>Dieses Workbook zeigt Ihnen <strong>Schritt für Schritt</strong>, wie Sie sich <strong>klar, souverän und authentisch</strong> auf Ihr Vorstellungsgespräch vorbereiten – inklusive <strong>sofort einsetzbarer KI-Prompts</strong>, die Ihnen Zeit sparen und Sicherheit geben.</p>
-<p>Keine Floskeln. Keine Spielchen. Sondern <strong>moderne, praxiserprobte Vorbereitung</strong> für echte Gespräche.</p>
-</div>
+**Vendor's marketplace description:** Vorstellungsgespräch souverän meistern – mit Struktur, Klarheit, KI-Unterstützung Vorstellungsgespräch souverän meistern – mit Struktur, Klarheit & KI-Unterstützung - PDF-Download Sie haben die Einladung zum Vorstellungsgespräch – jetzt entscheidet Ihre Wirkung. Dieses Workbook zeigt Ihnen Schritt für Schritt , wie Sie sich klar, souverän und authentisch auf Ihr Vorstellungsgespräch vorbereiten – inklusive sofort einsetzbarer KI-Prompts , die Ihnen Zeit sparen und Sicherheit geben. Keine Floskeln. Keine Spielchen. Sondern moderne, praxiserprobte Vorbereitung für echte Gespräche.
 
 ## 2. Links
 

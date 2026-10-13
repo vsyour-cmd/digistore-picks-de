@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Buch Zweitwohnsitz - Werde deine Reizblase endlich los!</h3>
-<div> </div>
-<div>
-<p><strong>[NEU]</strong> <strong>ZWEITWOHNSITZ - Werde deine Reizblase endlich los! </strong>- Das Buch</p>
-<ul>
-<li>170 Seiten | gedrucktes Buch im Softcover | Sprache: Deutsch</li>
-<li>Erfahre nicht nur, warum du unter einer Reizblase leidest, sondern auch, wie du sie wieder loswirst!</li>
-<li>Versand erfolgt durch die deutsche Post - Das Buch ist innerhalb der nächsten 3-5 Tage bei dir!</li>
-<li>Bitte wähle die gewünschte Anzahl der Bücher.</li>
-</ul>
-<p>Ich übernehme die Versand- und Verpackungskosten für dich! Nutze jetzt diese einmalige Aktion!</p>
-<p> </p>
-<p><strong>Für nur: 13,95€</strong></p>
-<p>________________</p>
-</div>
+**Vendor's marketplace description:** Buch Zweitwohnsitz - Werde deine Reizblase endlich los! [NEU] ZWEITWOHNSITZ - Werde deine Reizblase endlich los! - Das Buch 170 Seiten | gedrucktes Buch im Softcover | Sprache: Deutsch Erfahre nicht nur, warum du unter einer Reizblase leidest, sondern auch, wie du sie wieder loswirst! Versand erfolgt durch die deutsche Post - Das Buch ist innerhalb der nächsten 3-5 Tage bei dir! Bitte wähle die gewünschte Anzahl der Bücher. Ich übernehme die Versand- und Verpackungskosten für dich! Nutze jetzt diese einmalige Aktion! Für nur: 13,95€ ________________
 
 ## 2. Links
 

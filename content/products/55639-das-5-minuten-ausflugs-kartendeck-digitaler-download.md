@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Freizeitblick – Das 5-Minuten-Ausflugs-Kartendeck (Digitaler Download)</strong></p>
-<p>Spontane Erlebnisse statt Alltagsroutine: 40 sofort umsetzbare Freizeit-Impulse bringen frische Energie, neue Perspektiven und kleine Abenteuer in nur 5 Minuten Startzeit. Kein Planen, kein Suchen – Karte ziehen und loslegen. Perfekt für alle, die mehr Lebensfreude in ihren Alltag bringen wollen – flexibel, digital und sofort verfügbar.</p>
+**Vendor's marketplace description:** Freizeitblick – Das 5-Minuten-Ausflugs-Kartendeck (Digitaler Download) Spontane Erlebnisse statt Alltagsroutine: 40 sofort umsetzbare Freizeit-Impulse bringen frische Energie, neue Perspektiven und kleine Abenteuer in nur 5 Minuten Startzeit. Kein Planen, kein Suchen – Karte ziehen und loslegen. Perfekt für alle, die mehr Lebensfreude in ihren Alltag bringen wollen – flexibel, digital und sofort verfügbar.
 
 ## 2. Links
 

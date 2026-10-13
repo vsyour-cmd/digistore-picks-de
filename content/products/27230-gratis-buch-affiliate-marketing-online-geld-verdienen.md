@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong><span style="color:#99cc00;">NEU</span> - Gratis Buch zu verschenken (Thema: Affiliate Marketing, WordPress, SEO &amp; Online Geld verdienen)</strong></h2>
-<h4><strong>Das Gratis E-Book ist mit unserem beliebten Video-Coaching "Premium Affiliate Kurs" gekoppelt.  </strong></h4>
-<div>
-<h2><span style="color:#99cc00;">Deine unschlagbaren Vorteile als Affiliate-Partner</span>:</h2>
-<ul>
-<li>Erhalte <strong>50% Provison</strong> pro Kunden</li>
-<li>Zielgruppen: Affiliate Marketing, Wordpress, SEO, Online Geld verdienen, Blogger...</li>
-<li>Sehr <strong>niedrige Stornoquote</strong>, aufgrund der hohen Produktqualität</li>
-<li>Laufende Optimierung der Verkaufsseiten</li>
-<li><strong>Kostenlose Werbemittel</strong> für Affiliates</li>
-<li>Gratis Affiliate Training im Affiliate-Support-Bereich</li>
-<li><strong>Auch für Affiliates</strong> sehr gut geeignet, die nur eine kleine Reichtweite haben.</li>
-</ul>
-<h2>100% Zufriedenheit bei unseren Kunden. </h2>
-<p>Eine Stornoquote von nur 0,4% und das stets positive Feedback unserer Kunden zeigt uns, dass sich die Mühe bei der Erstellung unserer Produkte gelohnt hat.</p>
-<p>Wir stehen zu 100% hinter unseren Produkten.</p>
-<p> </p>
-</div>
+**Vendor's marketplace description:** NEU - Gratis Buch zu verschenken (Thema: Affiliate Marketing, WordPress, SEO & Online Geld verdienen) Das Gratis E-Book ist mit unserem beliebten Video-Coaching "Premium Affiliate Kurs" gekoppelt. Deine unschlagbaren Vorteile als Affiliate-Partner : Erhalte 50% Provison pro Kunden Zielgruppen: Affiliate Marketing, Wordpress, SEO, Online Geld verdienen, Blogger... Sehr niedrige Stornoquote , aufgrund der hohen Produktqualität Laufende Optimierung der Verkaufsseiten Kostenlose Werbemittel für Affiliates Gratis Affiliate Training im Affiliate-Support-Bereich Auch für Affiliates sehr gut geeignet, die nur eine kleine Reichtweite haben. 100% Zufriedenheit bei unseren Kunden. Eine Stornoquote von nur 0,4% und das stets positive Feedback unserer Kunden zeigt uns, dass sich die Mühe bei der Erstellung unserer Produkte gelohnt hat. Wir stehen zu 100% hinter unseren Produkten.
 
 ## 2. Links
 

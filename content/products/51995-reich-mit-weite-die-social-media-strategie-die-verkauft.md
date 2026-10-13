@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2 style="text-align:center;"><span style="color:#ff0000;"><strong>Mehr Sichtbarkeit. Mehr Vertrauen. Mehr Umsatz.</strong></span></h2>
-<p>Mit „<strong>Reich mit Weite – KI Edition</strong>“ verkaufst du ein Produkt, das Menschen zeigt, wie sie ohne Werbung, aber mit Strategie &amp; KI ihre Social-Media-Reichweite gezielt aufbauen – und zur Kundengewinnung nutzen.</p>
-<p><strong>Was Affiliates lieben werden:</strong><br />✅ 50 % Provision pro Sale – 298,50 € Verdienst je Verkauf<br />✅ Automatisiertes Webinar mit hoher Conversion<br />✅ Knapper Angebotszeitraum (3 Tage) erzeugt echten Verkaufsdruck<br />✅ Erprobtes Verkaufs-System mit echtem Social Proof<br />✅ Hochwertiger Content + Bonus-Tools für die Käufer</p>
-<p><strong>Zielgruppe:</strong><br />Content Creator, Coaches, Dienstleister, Berater, Networker &amp; Online-Marketer, die mehr Reichweite wollen – und bereit sind, dafür zu investieren.</p>
-<p> </p>
-<p>Steig jetzt ein, sichere dir deine Provisionen &amp; unterstütze dein Netzwerk mit einem echten Mehrwert!</p>
+**Vendor's marketplace description:** Mehr Sichtbarkeit. Mehr Vertrauen. Mehr Umsatz. Mit „ Reich mit Weite – KI Edition “ verkaufst du ein Produkt, das Menschen zeigt, wie sie ohne Werbung, aber mit Strategie & KI ihre Social-Media-Reichweite gezielt aufbauen – und zur Kundengewinnung nutzen. Was Affiliates lieben werden: ✅ 50 % Provision pro Sale – 298,50 € Verdienst je Verkauf ✅ Automatisiertes Webinar mit hoher Conversion ✅ Knapper Angebotszeitraum (3 Tage) erzeugt echten Verkaufsdruck ✅ Erprobtes Verkaufs-System mit echtem Social Proof ✅ Hochwertiger Content + Bonus-Tools für die Käufer Zielgruppe: Content Creator, Coaches, Dienstleister, Berater, Networker & Online-Marketer, die mehr Reichweite wollen – und bereit sind, dafür zu investieren. Steig jetzt ein, sichere dir deine Provisionen & unterstütze dein Netzwerk mit einem echten Mehrwert!
 
 ## 2. Links
 

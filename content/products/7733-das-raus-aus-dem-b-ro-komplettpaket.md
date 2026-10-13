@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das "Raus aus dem Büro" komplettpaket ist ein wöchentliches Video Coaching mit dem Ziel ein ortsunabhängiges Internet Projekt aufzubauen, welches ein hohes Maß an Freiheit zulässt.</strong></p>
-<p><strong><span style="background-color:#ffff00;">Das Produkt hat beim Verkaufstart auf Digistore24 die höchste Cart Conversion erreicht. Beim Verkauf erzielt das Verkaufsvideo EPV (earning per visitor) Werte von über 12 Euro.</span></strong></p>
-<p>Nach dem Verkauf können sie auch noch durch den Verkauf des Upsell: Restart - die 30 Tage Erfolgs und Motivationschallenge profitieren. Fast die Hälfte der Käufer nehmen auch noch das Usell Produkt im Wert von 29,90 Euro mit! Sie erhalten 50% Provision auf den Verkauf.</p>
-<hr /><p>Es handelt sich um einen interaktiven Videokurs.</p>
-<p>Inhalte:</p>
-<ul><li>Im wöchentlichen „Raus aus dem Büro“ Videocoaching zeige ich dir, wie du in wenigen Monaten ein ortsunabhängiges Online Projekt aufbaust.</li>
-<li>die monatlichen „Raus aus dem Büro“ Live Webinare, inkl. Aufzeichnung, wo alle deine Fragen beantwortet werden.</li>
-<li>der wöchentliche Bonus Kurs: „Freies und selbstbestimmtes Leben“</li>
-<li>der Bonus Kurs „Kostenlos Reisen unter Ausnutzung von Geoarbitrage“</li>
-<li>24/7 Zugriff zu unserer FreedomAcademy Facebook Mastermind Gruppe (so kannst du jederzeit und von überall Hilfe bekommen)</li>
-</ul><p>…und noch vieles mehr!</p>
-<hr /><p><strong>Ein sehr gut konvertrierender Videosalesletter macht aus kaltem Traffic neue Kunden, so dass sich sogar PPC-Werbung lohnt.</strong></p>
-<p><strong>Für Sie lohnt sich die Bewerbung jetzt noch mehr, da wir eine Livetimeprovision von 35% auf das Abo auszahlen. </strong></p>
+**Vendor's marketplace description:** Das "Raus aus dem Büro" komplettpaket ist ein wöchentliches Video Coaching mit dem Ziel ein ortsunabhängiges Internet Projekt aufzubauen, welches ein hohes Maß an Freiheit zulässt. Das Produkt hat beim Verkaufstart auf Digistore24 die höchste Cart Conversion erreicht. Beim Verkauf erzielt das Verkaufsvideo EPV (earning per visitor) Werte von über 12 Euro. Nach dem Verkauf können sie auch noch durch den Verkauf des Upsell: Restart - die 30 Tage Erfolgs und Motivationschallenge profitieren. Fast die Hälfte der Käufer nehmen auch noch das Usell Produkt im Wert von 29,90 Euro mit! Sie erhalten 50% Provision auf den Verkauf. Es handelt sich um einen interaktiven Videokurs. Inhalte: Im wöchentlichen „Raus aus dem Büro“ Videocoaching zeige ich dir, wie du in wenigen Monaten ein ortsunabhängiges Online Projekt aufbaust. die monatlichen „Raus aus dem Büro“ Live Webinare, inkl. Aufzeichnung, wo alle deine Fragen beantwortet werden. der wöchentliche Bonus Kurs: „Freies und selbstbestimmtes Leben“ der Bonus Kurs „Kostenlos Reisen unter Ausnutzung von Geoarbitrage“ 24/7 Zugriff zu unserer FreedomAcademy Facebook Mastermind Gruppe (so kannst du jederzeit und von überall Hilfe bekommen) …und noch vieles mehr! Ein sehr gut konvertrierender Videosalesletter macht aus kaltem Traffic neue Kunden, so dass sich sogar PPC-Werbung lohnt. Für Sie lohnt sich die Bewerbung jetzt noch mehr, da wir eine Livetimeprovision von 35% auf das Abo auszahlen.
 
 ## 2. Links
 

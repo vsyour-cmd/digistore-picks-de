@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „In 90 Tagen zum KI-Millionär"</strong></p>
-<p>Großer Titel, nüchterner Plan: In 90 Tagen baust du mit KI ein echtes Fundament – ein Angebot, erste Kunden, erste Umsätze. Schritt für Schritt, ehrlich und ohne Reichtum auf Knopfdruck.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema: KI, Online-Business &amp; Geld verdienen</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verstehen, was „KI-Millionär“ realistisch bedeutet – und was nicht</li>
-<li>Einen 90-Tage-Rahmen mit Zielen setzen, die wirklich tragen</li>
-<li>Das passende KI-Geschäftsmodell für dich finden</li>
-<li>In drei Phasen zu Fundament, ersten Umsätzen und Ausbau</li>
-<li>Aus dem Projekt ein tragfähiges Business machen</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Menschen, die mit KI und Online-Business ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „In 90 Tagen zum KI-Millionär" Großer Titel, nüchterner Plan: In 90 Tagen baust du mit KI ein echtes Fundament – ein Angebot, erste Kunden, erste Umsätze. Schritt für Schritt, ehrlich und ohne Reichtum auf Knopfdruck. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema: KI, Online-Business & Geld verdienen Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verstehen, was „KI-Millionär“ realistisch bedeutet – und was nicht Einen 90-Tage-Rahmen mit Zielen setzen, die wirklich tragen Das passende KI-Geschäftsmodell für dich finden In drei Phasen zu Fundament, ersten Umsätzen und Ausbau Aus dem Projekt ein tragfähiges Business machen Für deine Zielgruppe: Menschen, die mit KI und Online-Business ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

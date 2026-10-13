@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Bewirb den Führerschein-Kompass 2027 und erhalte 40 % Provision pro erfolgreichem Verkauf.</strong></p>
-<p>Der Führerschein-Kompass 2027 ist ein digitaler Guide für Fahrschüler und angehende Fahrschüler. Er unterstützt sie dabei, sich strukturiert auf die Fahrausbildung vorzubereiten, typische Fehler zu vermeiden und besser vorbereitet in Theorie und Praxis zu starten.</p>
-<p><strong>Deine Vorteile als Affiliate:</strong><br />• 40 % Provision pro erfolgreichem Verkauf<br />• Aktueller Verkaufspreis: 14,90 € statt 29,90 €<br />• Klare Zielgruppe: Fahrschüler und zukünftige Fahrschüler<br />• Ideal für TikTok, Instagram, YouTube und andere Social-Media-Kanäle<br />• Fertige Werbemittel und Creatives stehen zur Verfügung<br />• Digitales Produkt – direkte Auslieferung nach dem Kauf</p>
-<p>Besonders interessant für Creator und Seiten aus den Bereichen Führerschein, Auto, Motorrad, Fahrschule, Ausbildung und junge Zielgruppen.</p>
-<p>Auf unserer Affiliate-Support-Seite findest du weitere Informationen, Werbemittel und Unterstützung für deine Bewerbung.</p>
+**Vendor's marketplace description:** Bewirb den Führerschein-Kompass 2027 und erhalte 40 % Provision pro erfolgreichem Verkauf. Der Führerschein-Kompass 2027 ist ein digitaler Guide für Fahrschüler und angehende Fahrschüler. Er unterstützt sie dabei, sich strukturiert auf die Fahrausbildung vorzubereiten, typische Fehler zu vermeiden und besser vorbereitet in Theorie und Praxis zu starten. Deine Vorteile als Affiliate: • 40 % Provision pro erfolgreichem Verkauf • Aktueller Verkaufspreis: 14,90 € statt 29,90 € • Klare Zielgruppe: Fahrschüler und zukünftige Fahrschüler • Ideal für TikTok, Instagram, YouTube und andere Social-Media-Kanäle • Fertige Werbemittel und Creatives stehen zur Verfügung • Digitales Produkt – direkte Auslieferung nach dem Kauf Besonders interessant für Creator und Seiten aus den Bereichen Führerschein, Auto, Motorrad, Fahrschule, Ausbildung und junge Zielgruppen. Auf unserer Affiliate-Support-Seite findest du weitere Informationen, Werbemittel und Unterstützung für deine Bewerbung.
 
 ## 2. Links
 

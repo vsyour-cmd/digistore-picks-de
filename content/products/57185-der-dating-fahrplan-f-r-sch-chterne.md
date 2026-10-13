@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Der Dating-Fahrplan für Schüchterne“</strong></p>
-<p>Schritt für Schritt aus der Komfortzone – Schüchtern? Kein Problem. Dieser sanfte Stufenplan bringt dich behutsam, aber sicher ans Ziel.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Sanfter Stufenplan in kleinen Schritten</li>
-<li>Nervosität in Ruhe verwandeln</li>
-<li>Vorbereitete Sätze als Sicherheitsnetz</li>
-<li>Erfolge feiern und ausbauen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Der Dating-Fahrplan für Schüchterne“ Schritt für Schritt aus der Komfortzone – Schüchtern? Kein Problem. Dieser sanfte Stufenplan bringt dich behutsam, aber sicher ans Ziel. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Sanfter Stufenplan in kleinen Schritten Nervosität in Ruhe verwandeln Vorbereitete Sätze als Sicherheitsnetz Erfolge feiern und ausbauen
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><a title="Unterstütze PARKI auszutricksen!" href="https://youtube.com/shorts/TLFbooqTkbQ?si=06uU2v_FKRkyTVUX" target="_blank" rel="noreferrer noopener">https://youtube.com/shorts/TLFbooqTkbQ?si=06uU2v_FKRkyTVUX</a></p>
-<p>Stell dir vor, Parkinson bekommt ein Gesicht. Nicht, um Angst zu machen – sondern um ihn greifbar zu machen.</p>
-<p>Wir nennen ihn Parki: den Kobold, der jeden Tag andere Streiche spielt. Mal bremst er aus, mal raubt er Mut, mal macht er den Alltag schwer. Und genau deshalb wird Parki jetzt berühmt – damit er nicht mehr im Verborgenen gewinnt.</p>
-<p>Denn was sichtbar wird, kann man austricksen.</p>
-<p>Und was viele gemeinsam austricksen, wird zur Bewegung.</p>
-<p>Als Affiliate-Partner bist du nicht „Werber“. Du bist Mitstarter einer Idee, die Menschen sofort verstehen – und die sich viral verbreiten kann, weil sie Hoffnung gibt:</p>
-<p>Betroffene und Angehörige teilen ihren „Parki-Moment“ – und bekommen echte Konter, Tipps und kleine Siege zurück. Genau dafür sind unsere Bücher gemacht: verständlich, motivierend, alltagstauglich – damit aus Ohnmacht wieder Handlung wird.</p>
-<p><strong>Und jetzt kommt deine Chance:</strong></p>
-<p>Du hilfst, <a title="Unterstütze Menschen PARKI auszutricksen" href="https://parkinson.mydigibiz24.com/parki" target="_blank" rel="noreferrer noopener">Parki</a> groß zu machen – und wirst dabei fair beteiligt. Mit jedem Menschen, den du zu dieser Buchwelt führst, wächst nicht nur deine Provision… sondern auch das Gefühl: „Ich bin nicht allein. Wir drehen den Spieß um.“</p>
-<p>Mach Parki berühmt – damit Menschen wieder berühmt werden: für ihre kleinen Siege, ihren Mut und ihr vitales Leben trotz Parkinson.</p>
+**Vendor's marketplace description:** https://youtube.com/shorts/TLFbooqTkbQ?si=06uU2v_FKRkyTVUX Stell dir vor, Parkinson bekommt ein Gesicht. Nicht, um Angst zu machen – sondern um ihn greifbar zu machen. Wir nennen ihn Parki: den Kobold, der jeden Tag andere Streiche spielt. Mal bremst er aus, mal raubt er Mut, mal macht er den Alltag schwer. Und genau deshalb wird Parki jetzt berühmt – damit er nicht mehr im Verborgenen gewinnt. Denn was sichtbar wird, kann man austricksen. Und was viele gemeinsam austricksen, wird zur Bewegung. Als Affiliate-Partner bist du nicht „Werber“. Du bist Mitstarter einer Idee, die Menschen sofort verstehen – und die sich viral verbreiten kann, weil sie Hoffnung gibt: Betroffene und Angehörige teilen ihren „Parki-Moment“ – und bekommen echte Konter, Tipps und kleine Siege zurück. Genau dafür sind unsere Bücher gemacht: verständlich, motivierend, alltagstauglich – damit aus Ohnmacht wieder Handlung wird. Und jetzt kommt deine Chance: Du hilfst, Parki groß zu machen – und wirst dabei fair beteiligt. Mit jedem Menschen, den du zu dieser Buchwelt führst, wächst nicht nur deine Provision… sondern auch das Gefühl: „Ich bin nicht allein. Wir drehen den Spieß um.“ Mach Parki berühmt – damit Menschen wieder berühmt werden: für ihre kleinen Siege, ihren Mut und ihr vitales Leben trotz Parkinson.
 
 ## 2. Links
 

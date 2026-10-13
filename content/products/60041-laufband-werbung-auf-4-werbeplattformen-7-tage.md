@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>Kurz: Ein günstiges Produkt für alle, die selbst etwas bewerben. Die Zielgruppe sitzt schon in deiner Nische.</div>
-<div> </div>
-<div>Für wen es passt: Affiliate-Marketer, Online-Marketer, Leute mit eigenem Info-Produkt und alle, die bereits Mailer oder Traffic-Tauscher nutzen. Wer Werbung schaltet, braucht Plätze für seine Links, und genau die verkauft das Laufband.</div>
-<div> </div>
-<div>Was der Käufer bekommt: Sein Text läuft 7 oder 30 Tage im Mitgliederbereich von MaxiMails, WerbeMail24, ViralMonster und ProAdz. Er trägt bis zu 5 Texte und seinen Link selbst ein und sieht im Kundenbereich, welcher Text auf welcher Plattform wie oft geklickt wurde. Bots und doppelte Klicks zählen nicht mit. Mit 30 Tagen plant er mehrere Aktionen nacheinander, jede mit eigenem Link, und lässt sich Texte per KI vorschlagen.</div>
-<div> </div>
-<div>Warum du es bewerben kannst:</div>
-<div>- Kleiner Preis, kleine Hürde: 27 € für 7 Tage, 67 € für 30 Tage.</div>
-<div>- Der Käufer sieht in der Statistik, was sein Text bringt. Das verkauft die Verlängerung von selbst.</div>
-<div>- Der Nutzen passt in einen Satz: dein Text im Mitgliederbereich von 4 Werbeplattformen.</div>
-<div>- Über 8.000 aktive Mitglieder auf den 4 Plattformen zusammen.</div>
-<div> </div>
-<div>Deine Provision: 30 % vom Verkaufspreis. Bei 27 € sind das rechnerisch 8,10 €, bei 67 € rechnerisch 20,10 €. Die Auszahlung berechnet Digistore24 nach seinen Regeln.</div>
-<div> </div>
-<div>Verkaufsseite: maximails.de/laufband/, mit Verkaufsvideo. Bitte versprich keine Klickzahlen und keine Einnahmen. Ehrlich ist: Klicks hängen vom Text und vom Angebot des Käufers ab.</div>
-<div> </div>
-<div>Werbemittel (Mails, Social-Posts, Textzeilen) findest du im Werbemittelbereich dieses Eintrags.</div>
+**Vendor's marketplace description:** Kurz: Ein günstiges Produkt für alle, die selbst etwas bewerben. Die Zielgruppe sitzt schon in deiner Nische. Für wen es passt: Affiliate-Marketer, Online-Marketer, Leute mit eigenem Info-Produkt und alle, die bereits Mailer oder Traffic-Tauscher nutzen. Wer Werbung schaltet, braucht Plätze für seine Links, und genau die verkauft das Laufband. Was der Käufer bekommt: Sein Text läuft 7 oder 30 Tage im Mitgliederbereich von MaxiMails, WerbeMail24, ViralMonster und ProAdz. Er trägt bis zu 5 Texte und seinen Link selbst ein und sieht im Kundenbereich, welcher Text auf welcher Plattform wie oft geklickt wurde. Bots und doppelte Klicks zählen nicht mit. Mit 30 Tagen plant er mehrere Aktionen nacheinander, jede mit eigenem Link, und lässt sich Texte per KI vorschlagen. Warum du es bewerben kannst: - Kleiner Preis, kleine Hürde: 27 € für 7 Tage, 67 € für 30 Tage. - Der Käufer sieht in der Statistik, was sein Text bringt. Das verkauft die Verlängerung von selbst. - Der Nutzen passt in einen Satz: dein Text im Mitgliederbereich von 4 Werbeplattformen. - Über 8.000 aktive Mitglieder auf den 4 Plattformen zusammen. Deine Provision: 30 % vom Verkaufspreis. Bei 27 € sind das rechnerisch 8,10 €, bei 67 € rechnerisch 20,10 €. Die Auszahlung berechnet Digistore24 nach seinen Regeln. Verkaufsseite: maximails.de/laufband/, mit Verkaufsvideo. Bitte versprich keine Klickzahlen und keine Einnahmen. Ehrlich ist: Klicks hängen vom Text und vom Angebot des Käufers ab. Werbemittel (Mails, Social-Posts, Textzeilen) findest du im Werbemittelbereich dieses Eintrags.
 
 ## 2. Links
 

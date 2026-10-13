@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Endlich Ruhe für ruhelose Geister: 10 Neurostreams™ gegen ständiges Gedankenkreisen.</p>
-<p><strong>Sofort-Download.</strong></p>
-<p>Jede dieser 10 abwechslungsreichen Sessions dauert 30 Minuten. </p>
-<p><strong>Unbedingt</strong> Stereo-Kopfhörer benutzen!</p>
-<p>Alle Neurostreams™ sind jederzeit auf<strong> unbegrenzt viele </strong>Geräte übertragbar und können <strong>beliebig oft </strong>angehört werden!</p>
-<p>Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux.</p>
-<p>Dateigröße: ca. 300 MB</p>
-<p><strong>2 Jahre </strong>Produktsupport inklusive.</p>
+**Vendor's marketplace description:** Endlich Ruhe für ruhelose Geister: 10 Neurostreams™ gegen ständiges Gedankenkreisen. Sofort-Download. Jede dieser 10 abwechslungsreichen Sessions dauert 30 Minuten. Unbedingt Stereo-Kopfhörer benutzen! Alle Neurostreams™ sind jederzeit auf unbegrenzt viele Geräte übertragbar und können beliebig oft angehört werden! Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux. Dateigröße: ca. 300 MB 2 Jahre Produktsupport inklusive.
 
 ## 2. Links
 

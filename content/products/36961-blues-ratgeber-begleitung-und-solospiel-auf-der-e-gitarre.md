@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieser Kurs vermittelt die stiltypische Begleitung und das Solospiel im Blues.<br />Egal, ob du gerade erst anfängst, dich mit Blues zu beschäftigen, oder ob du bereits über grundlegende Blues-Kenntnisse verfügst, hier kannst du dein Können garantiert noch verbessern.</p>
-<p>Inhalt des Kurses</p>
-<ul>
-<li>25 Videos (insgesamt über 3 Stunden Laufzeit)</li>
-<li>6 komplette Beispielstücke mit Band-Begleitungen (Backingtracks)</li>
-<li>alle Stücke auch als Noten/Tabs (PDF und Guitar-Pro-Dateien)</li>
-<li>Begleitheft mit allen Übungen, Griffbildern, Grafiken (PDF)</li>
-<li>persönlicher Support per Kommentarfunktion</li>
-</ul>
+**Vendor's marketplace description:** Dieser Kurs vermittelt die stiltypische Begleitung und das Solospiel im Blues. Egal, ob du gerade erst anfängst, dich mit Blues zu beschäftigen, oder ob du bereits über grundlegende Blues-Kenntnisse verfügst, hier kannst du dein Können garantiert noch verbessern. Inhalt des Kurses 25 Videos (insgesamt über 3 Stunden Laufzeit) 6 komplette Beispielstücke mit Band-Begleitungen (Backingtracks) alle Stücke auch als Noten/Tabs (PDF und Guitar-Pro-Dateien) Begleitheft mit allen Übungen, Griffbildern, Grafiken (PDF) persönlicher Support per Kommentarfunktion
 
 ## 2. Links
 

@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Beim 10-Minuten-System handelt es sich um ein extrem gut konvertierendes Produkt mit monatlich oder jährlich wiederkehrenden Einnahmen für den Affiliate.</strong></p>
-<p><strong>Die Zielgruppe sind hauptsächlich Menschen, die online Geld verdienen , sich ein Nebeneinkommen oder ein Online-Business aufbauen möchten.</strong></p>
+**Vendor's marketplace description:** Beim 10-Minuten-System handelt es sich um ein extrem gut konvertierendes Produkt mit monatlich oder jährlich wiederkehrenden Einnahmen für den Affiliate. Die Zielgruppe sind hauptsächlich Menschen, die online Geld verdienen , sich ein Nebeneinkommen oder ein Online-Business aufbauen möchten.
 
 ## 2. Links
 

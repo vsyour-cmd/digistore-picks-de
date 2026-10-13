@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie Unternehmen mit einem Telegram-Kanal planbar Anfragen und Neukunden generieren</strong></p>
-<p>Für Unternehmen ist Telegram kein Chat-Tool, sondern ein Direktkanal mit enormem Potenzial: keine Algorithmus-Filter, keine Reichweiten-Drosselung, volle Kontrolle über deine Botschaft. Dieses E-Book zeigt dir, wie du einen Unternehmens-Kanal strategisch aufbaust, einen Bot-Funnel für automatische Lead-Erfassung einrichtest und Telegram-Gruppen als Kundenbindungs- und Vertriebskanal nutzt. Du lernst, wie du Link-Sharing ohne Drosselung als Conversion-Hebel einsetzt, wie Cross-Promo und Telegram Ads neue Zielgruppen erschließen und wie du den ROI deiner Aktivitäten messbar machst. Ob Dienstleister, E-Commerce oder B2B – du bekommst ein System für planbare, wiederkehrende Anfragen ohne Algorithmus-Abhängigkeit.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Unternehmens-Kanal strategisch aufbauen: Struktur, Ton und Posting-Plan</li>
-<li>Bot-Funnel einrichten: automatische Lead-Erfassung und Qualifizierung</li>
-<li>Link-Sharing ohne Drosselung als Conversion-Hebel nutzen</li>
-<li>Telegram-Gruppen als Kundenbindungs- und Upselling-Kanal aufbauen</li>
-<li>Cross-Promo und Telegram Ads für gezielte Neukunden-Akquise</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie Unternehmen mit einem Telegram-Kanal planbar Anfragen und Neukunden generieren Für Unternehmen ist Telegram kein Chat-Tool, sondern ein Direktkanal mit enormem Potenzial: keine Algorithmus-Filter, keine Reichweiten-Drosselung, volle Kontrolle über deine Botschaft. Dieses E-Book zeigt dir, wie du einen Unternehmens-Kanal strategisch aufbaust, einen Bot-Funnel für automatische Lead-Erfassung einrichtest und Telegram-Gruppen als Kundenbindungs- und Vertriebskanal nutzt. Du lernst, wie du Link-Sharing ohne Drosselung als Conversion-Hebel einsetzt, wie Cross-Promo und Telegram Ads neue Zielgruppen erschließen und wie du den ROI deiner Aktivitäten messbar machst. Ob Dienstleister, E-Commerce oder B2B – du bekommst ein System für planbare, wiederkehrende Anfragen ohne Algorithmus-Abhängigkeit. Das steckt drin: Unternehmens-Kanal strategisch aufbauen: Struktur, Ton und Posting-Plan Bot-Funnel einrichten: automatische Lead-Erfassung und Qualifizierung Link-Sharing ohne Drosselung als Conversion-Hebel nutzen Telegram-Gruppen als Kundenbindungs- und Upselling-Kanal aufbauen Cross-Promo und Telegram Ads für gezielte Neukunden-Akquise Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

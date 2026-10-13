@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Eine einzelne Seite mit einem einzigen Ziel, für eine Werbekampagne oder ein Angebot: Texte von uns, Kontaktformular und WhatsApp-Button, schnell und perfekt am Handy.</p><p><strong>Für wen:</strong> Betriebe, die Werbung schalten oder ein Angebot starten und sofort Anfragen wollen.</p><p><strong>Deine Provision:</strong> 20 % pro Verkauf, ca. 90 € bei 490 € netto. Einmalzahlung, kein Abo.</p><p><strong>Wichtig:</strong> Verkaufsseite, Gespräche und Umsetzung sind auf Italienisch. Ideal, wenn du italienischsprachige Selbstständige in Italien, Deutschland oder der Schweiz erreichst.</p><p><strong>So läuft es:</strong> Nach der Bestellung meldet sich unser Team beim Kunden, bespricht alles per Videocall und setzt das Projekt komplett um. Du bringst den Kontakt, wir machen den Rest.</p>
+**Vendor's marketplace description:** Eine einzelne Seite mit einem einzigen Ziel, für eine Werbekampagne oder ein Angebot: Texte von uns, Kontaktformular und WhatsApp-Button, schnell und perfekt am Handy. Für wen: Betriebe, die Werbung schalten oder ein Angebot starten und sofort Anfragen wollen. Deine Provision: 20 % pro Verkauf, ca. 90 € bei 490 € netto. Einmalzahlung, kein Abo. Wichtig: Verkaufsseite, Gespräche und Umsetzung sind auf Italienisch. Ideal, wenn du italienischsprachige Selbstständige in Italien, Deutschland oder der Schweiz erreichst. So läuft es: Nach der Bestellung meldet sich unser Team beim Kunden, bespricht alles per Videocall und setzt das Projekt komplett um. Du bringst den Kontakt, wir machen den Rest.
 
 ## 2. Links
 

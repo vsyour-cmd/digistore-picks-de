@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Affiliate Marketing mit laufender Provision"</strong></p>
-<p>Neun erprobte deutsche Aboprodukte mit wiederkehrender Provision – von E-Mail-Marketing über Funnels und Mitgliedschaften bis Webinar und Hosting. Mit Kriterien, ehrlicher Einordnung und Anmelde-Hinweisen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema: Affiliate Marketing &amp; wiederkehrende Provisionen</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Neun deutsche Aboprodukte mit laufender Provision kennenlernen</li>
-<li>Klare Kriterien für die Auswahl des passenden Programms</li>
-<li>E-Mail-Marketing, Funnels, Mitgliedschaften, Webinar, Hosting im Vergleich</li>
-<li>Wissen, wo und wie du dich als Affiliate anmeldest</li>
-<li>Dich auf ein Programm festlegen statt zu verzetteln</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> angehende und aktive Affiliates, Blogger, Newsletter- und Social-Media-Betreiber, Online-Business-Interessierte</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Affiliate Marketing mit laufender Provision" Neun erprobte deutsche Aboprodukte mit wiederkehrender Provision – von E-Mail-Marketing über Funnels und Mitgliedschaften bis Webinar und Hosting. Mit Kriterien, ehrlicher Einordnung und Anmelde-Hinweisen. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema: Affiliate Marketing & wiederkehrende Provisionen Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Neun deutsche Aboprodukte mit laufender Provision kennenlernen Klare Kriterien für die Auswahl des passenden Programms E-Mail-Marketing, Funnels, Mitgliedschaften, Webinar, Hosting im Vergleich Wissen, wo und wie du dich als Affiliate anmeldest Dich auf ein Programm festlegen statt zu verzetteln Für deine Zielgruppe: angehende und aktive Affiliates, Blogger, Newsletter- und Social-Media-Betreiber, Online-Business-Interessierte Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

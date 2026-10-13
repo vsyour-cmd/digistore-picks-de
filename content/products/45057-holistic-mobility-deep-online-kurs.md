@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der DEEP Kurs wendet sich speziell an dich als <strong>Trainer, Coach, Therapeut, Gesundheitsexperte oder -enthusiast</strong>.</p>
-<p>Werde zum <strong>holistischen Bewegungsexperten</strong> mit einer Synergie aus m<strong>oderner Wissenschaft, altbewährter Weisheit und meiner Erfahrung</strong>.</p>
-<p>Mit meinem <strong>ganzheitlichen Ansatz</strong> erlangst du Klarheit über den Körper, Freiheit und Leichtigkeit in Bewegung und kannst <strong>Symptome endlich ursächlich verstehen und lösen</strong>.</p>
-<p>Lerne in über <strong>150 Lektionen</strong> ein Körperverständnis, dass in der Essenz in nur<strong> 5-15 Minuten am Tag</strong> kultiviert werden kann. <a>Hier findest du detaillierte Inhalte.</a></p>
-<ul>
-<li><strong>150+ Video-Lektionen:</strong> Tauche ein in prägnante und effektive Videos</li>
-<li><strong>30+ Stunden Video- und Audioinhalt</strong></li>
-<li>Bewegungsroutinen: <strong>Komplette Routinen</strong> (5 - 30 Minuten)</li>
-<li><strong>Geführte Meditationen</strong>: Erlebe einen ganzheitlichen Ansatz mit Achtsamkeitspraktiken, die einen tieferen Einblick in deinen Körper bieten</li>
-<li>Zusätzliche <strong>herunterladbare Ressourcen</strong>: Exklusive Arbeitsblätter, Leitfäden und Lesematerialien für zusätzliche Anleitung und Unterstützung</li>
-<li><strong>Live-Sessions</strong>: Nimm regelmäßig an Live-Sessions teil. Im Kurs findest du alle Aufzeichnungen vergangener Sessions</li>
-<li><strong>Community</strong>: Werde Teil einer Gemeinschaft für Unterstützung, gemeinsame Erfahrungen und Expertenratschläge</li>
-<li><strong>Regelmäßige Updates</strong>: Bleibe mit neuen Erkenntnissen auf dem neuesten Stand</li>
-<li><strong>Benutzerfreundliche App</strong> und<strong> Browser</strong>-Plattform, die Flexibilität und Komfort bietet</li>
-<li><strong>Abschlusszertifikat</strong>: Bei Abschluss aller Lektionen bekommst du ein Zertifikat.</li>
-</ul>
-<p>Das ist DIE Bildung, dich ICH mir immer gewünscht hätte.</p>
+**Vendor's marketplace description:** Der DEEP Kurs wendet sich speziell an dich als Trainer, Coach, Therapeut, Gesundheitsexperte oder -enthusiast . Werde zum holistischen Bewegungsexperten mit einer Synergie aus m oderner Wissenschaft, altbewährter Weisheit und meiner Erfahrung . Mit meinem ganzheitlichen Ansatz erlangst du Klarheit über den Körper, Freiheit und Leichtigkeit in Bewegung und kannst Symptome endlich ursächlich verstehen und lösen . Lerne in über 150 Lektionen ein Körperverständnis, dass in der Essenz in nur 5-15 Minuten am Tag kultiviert werden kann. Hier findest du detaillierte Inhalte. 150+ Video-Lektionen: Tauche ein in prägnante und effektive Videos 30+ Stunden Video- und Audioinhalt Bewegungsroutinen: Komplette Routinen (5 - 30 Minuten) Geführte Meditationen : Erlebe einen ganzheitlichen Ansatz mit Achtsamkeitspraktiken, die einen tieferen Einblick in deinen Körper bieten Zusätzliche herunterladbare Ressourcen : Exklusive Arbeitsblätter, Leitfäden und Lesematerialien für zusätzliche Anleitung und Unterstützung Live-Sessions : Nimm regelmäßig an Live-Sessions teil. Im Kurs findest du alle Aufzeichnungen vergangener Sessions Community : Werde Teil einer Gemeinschaft für Unterstützung, gemeinsame Erfahrungen und Expertenratschläge Regelmäßige Updates : Bleibe mit neuen Erkenntnissen auf dem neuesten Stand Benutzerfreundliche App und Browser -Plattform, die Flexibilität und Komfort bietet Abschlusszertifikat : Bei Abschluss aller Lektionen bekommst du ein Zertifikat. Das ist DIE Bildung, dich ICH mir immer gewünscht hätte.
 
 ## 2. Links
 

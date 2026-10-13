@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Vollmachten leicht gemacht – Ratgeber mit Vollmachts-Generator</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Mit dem <strong>Vollmachts-Generator</strong> entsteht aus zehn Vorlagen die passende Vollmacht zum Ausdrucken, etwa für Behörde, Arzt oder Reisen mit Kind. Dazu erklärt der Ratgeber, was hineingehört und wie man sie widerruft.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Berufstätige, die Termine nicht selbst wahrnehmen können</li>
-<li>Eltern, deren Kind ohne sie verreist</li>
-<li>Angehörige, die für andere etwas erledigen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Ein Termin bei Behörde oder Arzt steht an</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Vorsorgevollmacht und Patientenverfügung, Kündigung, Betrug erkennen) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Vollmachten leicht gemacht – Ratgeber mit Vollmachts-Generator Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Mit dem Vollmachts-Generator entsteht aus zehn Vorlagen die passende Vollmacht zum Ausdrucken, etwa für Behörde, Arzt oder Reisen mit Kind. Dazu erklärt der Ratgeber, was hineingehört und wie man sie widerruft. Die Zielgruppe Berufstätige, die Termine nicht selbst wahrnehmen können Eltern, deren Kind ohne sie verreist Angehörige, die für andere etwas erledigen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Ein Termin bei Behörde oder Arzt steht an Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Vorsorgevollmacht und Patientenverfügung, Kündigung, Betrug erkennen) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

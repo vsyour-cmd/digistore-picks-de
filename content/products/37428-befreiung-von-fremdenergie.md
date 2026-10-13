@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>8 Module mit <span style="color:#ffcc00;"><strong>intensiv wirkungsvollen Transformationstools</strong></span> zum geistigen Erwachen für ein selbstbestimmtes Leben.</p>
-<p>Du bekommst Einblicke in Grenzbereiche der Quantenphysik, Kosmologie, Spiritualität sowie in den energetisch-anatomischen Bauplan des Menschen, der Erde und des Kosmos.</p>
-<p>Erkenntnisse zur Förderung deines geistigen Erwachens. Wissen, welches dein Selbst- und Weltbild verändert. <br /><br /><span style="color:#ffcc00;"><strong>INHALTE DES MASTERKURSES</strong></span></p>
-<ul>
-<li>Erkennen von Manipulationskreisläufen</li>
-<li>Was sind fremde Energien, Welten und Dimensionen</li>
-<li>Desillusionierung der Spiritualität</li>
-<li>konkrete Techniken zur Felder-Klärung</li>
-<li>Neutralisierungsschritte zur Entstörung von Fremdenergien</li>
-<li>Umgang mit dem Dunkel der inneren und äußeren Welt</li>
-<li>Wahrnehmungstraining und Bewusstseinsweite</li>
-<li>Werkzeuge zur Potentialentfaltung</li>
-<li>Wege in die Selbstführung</li>
-</ul>
-<p><span style="color:#ffcc00;"> <strong>Du bekommst umfangreiches Arbeitsmaterial</strong> </span></p>
-<ul>
-<li>19 Videos</li>
-<li>18 Audios</li>
-<li>15 Workbooks als PDFs &amp; Checklisten</li>
-<li>1 Ebook</li>
-</ul>
+**Vendor's marketplace description:** 8 Module mit intensiv wirkungsvollen Transformationstools zum geistigen Erwachen für ein selbstbestimmtes Leben. Du bekommst Einblicke in Grenzbereiche der Quantenphysik, Kosmologie, Spiritualität sowie in den energetisch-anatomischen Bauplan des Menschen, der Erde und des Kosmos. Erkenntnisse zur Förderung deines geistigen Erwachens. Wissen, welches dein Selbst- und Weltbild verändert. INHALTE DES MASTERKURSES Erkennen von Manipulationskreisläufen Was sind fremde Energien, Welten und Dimensionen Desillusionierung der Spiritualität konkrete Techniken zur Felder-Klärung Neutralisierungsschritte zur Entstörung von Fremdenergien Umgang mit dem Dunkel der inneren und äußeren Welt Wahrnehmungstraining und Bewusstseinsweite Werkzeuge zur Potentialentfaltung Wege in die Selbstführung Du bekommst umfangreiches Arbeitsmaterial 19 Videos 18 Audios 15 Workbooks als PDFs & Checklisten 1 Ebook
 
 ## 2. Links
 

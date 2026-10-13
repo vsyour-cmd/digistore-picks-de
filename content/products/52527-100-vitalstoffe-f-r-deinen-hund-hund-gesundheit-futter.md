@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die 100 wichtigsten Vitalstoffe für Hunde – Dein Schlüssel zu einem gesunden und glücklichen Hund! </p>
-<p><strong>Beschreibung:</strong><br />Du möchtest, dass dein Hund gesund, vital und voller Lebensfreude bleibt? Mit unserem kompakten eBook erhältst du alle Informationen über die 100 essenziellen Vitalstoffe, die dein Hund für ein langes und glückliches Leben braucht – übersichtlich, verständlich und praxisnah!</p>
+**Vendor's marketplace description:** Die 100 wichtigsten Vitalstoffe für Hunde – Dein Schlüssel zu einem gesunden und glücklichen Hund! Beschreibung: Du möchtest, dass dein Hund gesund, vital und voller Lebensfreude bleibt? Mit unserem kompakten eBook erhältst du alle Informationen über die 100 essenziellen Vitalstoffe, die dein Hund für ein langes und glückliches Leben braucht – übersichtlich, verständlich und praxisnah!
 
 ## 2. Links
 

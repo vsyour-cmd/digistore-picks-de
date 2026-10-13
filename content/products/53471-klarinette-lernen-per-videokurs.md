@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Startklar um Klarinette zu lernen?</p>
-<p>Lerne mithilfe dieses Online-Videokursen Klarinette und das ganz bequem von zuhause aus.</p>
-<p>Du erhältst Zugang zum eigenen Mitgliederbereich und kannst in deinem eigenen Tempo lernen.</p>
-<p>Das Beste: Du benötigst keinerlei Vorkenntnisse, lediglich das Instrument.</p>
-<p> </p>
-<p>Inhalt des Videokurses:</p>
-<ul>
-<li>15 Videolektionen (insgesamt 3 Stunden Laufzeit)</li>
-<li>7 Einführungsvideos (insgesamt 25 min Laufzeit)</li>
-<li>18 Playalongs (Duo und Einzelstimme)</li>
-<li>39-seitiges Begleitmaterial (PDF mit Noten)</li>
-<li>Bequemer Zugriff auf den Kurs mit Smartphone-App</li>
-</ul>
-<p> </p>
-<div>
-<div>
-<p><strong>Kurszugang für ein ganzes Jahr mit persönlichem Login. Das Notenmaterial und die Playalongs können auch heruntergeladen werden und bleiben dir ein Leben lang.</strong></p>
-</div>
-</div>
+**Vendor's marketplace description:** Startklar um Klarinette zu lernen? Lerne mithilfe dieses Online-Videokursen Klarinette und das ganz bequem von zuhause aus. Du erhältst Zugang zum eigenen Mitgliederbereich und kannst in deinem eigenen Tempo lernen. Das Beste: Du benötigst keinerlei Vorkenntnisse, lediglich das Instrument. Inhalt des Videokurses: 15 Videolektionen (insgesamt 3 Stunden Laufzeit) 7 Einführungsvideos (insgesamt 25 min Laufzeit) 18 Playalongs (Duo und Einzelstimme) 39-seitiges Begleitmaterial (PDF mit Noten) Bequemer Zugriff auf den Kurs mit Smartphone-App Kurszugang für ein ganzes Jahr mit persönlichem Login. Das Notenmaterial und die Playalongs können auch heruntergeladen werden und bleiben dir ein Leben lang.
 
 ## 2. Links
 

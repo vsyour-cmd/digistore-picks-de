@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Disziplin, Motivation &amp; Businessstart – kompakt erklärt, motivierend geschrieben.<br />Dieses 39-seitige E-Book zeigt jungen Unternehmern und Creator-Typen, wie sie ihr Online-Business wirklich durchziehen – mit Struktur, Zielsetzung und Fokus.</p>
-<p>✅ inkl. 90-Tage-Zielsetzungs-Vorlage<br />✅ Themen: Mindset, Umsetzung, Widerstand überwinden<br />✅ Sofortdownload, starke Copy &amp; hohe Conversion</p>
-<p><strong>Optimiert für Impulskäufe &amp; Social-Media-Traffic.</strong></p>
+**Vendor's marketplace description:** Disziplin, Motivation & Businessstart – kompakt erklärt, motivierend geschrieben. Dieses 39-seitige E-Book zeigt jungen Unternehmern und Creator-Typen, wie sie ihr Online-Business wirklich durchziehen – mit Struktur, Zielsetzung und Fokus. ✅ inkl. 90-Tage-Zielsetzungs-Vorlage ✅ Themen: Mindset, Umsetzung, Widerstand überwinden ✅ Sofortdownload, starke Copy & hohe Conversion Optimiert für Impulskäufe & Social-Media-Traffic.
 
 ## 2. Links
 

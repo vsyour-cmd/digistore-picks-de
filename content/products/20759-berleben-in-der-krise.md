@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><strong><span style="color:#ff0000;">"Überleben in der Krise"</span><br />Deutschlands ERSTER Krisenschutzbrief!</strong></p>
-<p style="text-align:center;"><span style="background-color:#ffff00;"><strong>Jetzt 90% Provision sichern!</strong></span></p>
-<p style="text-align:left;"><strong>"Überleben in der Krise" </strong>ist Deutschlands wichtigster und erster Krisenschutzbrief von <strong>WATERGATE.TV </strong>! Über 20.000 Menschen lesen, kommentieren und teilen <strong>jeden Tag</strong> unsere exklusiven Inhalte.</p>
-<p style="text-align:left;"><strong>"Überleben in der Krise"</strong> enthält in jeder Ausgabe ausführliche und erprobte Survival-Tipps, die JEDER kennen sollte.</p>
-<p style="text-align:left;"><strong>Wir bieten Ihnen:</strong></p>
-<ul><li style="text-align:left;">100% werblich getestete Landing-Pages!</li>
-<li style="text-align:left;">Responsive Design!</li>
-<li style="text-align:left;"><strong><span style="color:#ff0000;background-color:#ffff00;">... und natürlich 90% Provision!</span></strong></li>
-</ul><p> </p>
+**Vendor's marketplace description:** "Überleben in der Krise" Deutschlands ERSTER Krisenschutzbrief! Jetzt 90% Provision sichern! "Überleben in der Krise" ist Deutschlands wichtigster und erster Krisenschutzbrief von WATERGATE.TV ! Über 20.000 Menschen lesen, kommentieren und teilen jeden Tag unsere exklusiven Inhalte. "Überleben in der Krise" enthält in jeder Ausgabe ausführliche und erprobte Survival-Tipps, die JEDER kennen sollte. Wir bieten Ihnen: 100% werblich getestete Landing-Pages! Responsive Design! ... und natürlich 90% Provision!
 
 ## 2. Links
 

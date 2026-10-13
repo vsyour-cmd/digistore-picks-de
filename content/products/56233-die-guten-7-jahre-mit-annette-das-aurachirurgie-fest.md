@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Das Aurachirurgie Fest:</strong></h3>
-<h2><strong>DIE GUTEN 7 JAHRE MIT ANNETTE</strong></h2>
-<h3><em>Geburtstagsfestival!!!</em></h3>
-<p>Nach 25 Jahren Seminartätigkeit und Heilerischem Wirken in eigenen Räumen hat <strong>Annette Grübnau</strong> im Juli 2019 die Wahl getroffen, auch über Facebook online ihre Ausbildungen anzubieten.</p>
-<ul>
-<li> In diesem Festival feiern wir <strong>Die guten 7 Jahre mit Annette</strong>.</li>
-<li>Die <strong>AURACHIRURGIE</strong> wird 7 Jahre alt und dazu kommen noch tolle Deals</li>
-<li>zum 51. Geburtstag von Oma Annette selbst.</li>
-<li>Du bekommst<strong> 4 Wochen Lives, Clearings, Audios und 6 Zooms mit Annette</strong>.</li>
-<li>Lerne, warum Dir nichts anderes hilft, als ohne Vergangenheit in Deine Zukunft zu gehen.</li>
-<li>Lerne, dass Dich alle anlügen, wenn sie Dir erzählen, dass es einfach ist.</li>
-<li>Lerne, dass Dein Neues Leben auf "unter-lassen" gebaut wird und nicht auf "los-lassen".</li>
-<li>Gründe den Rest Deines Lebens auf einem festen Fundament. Lerne die Moves der Aurachirurgie Millionärinnen.</li>
-</ul>
-<p>PS: es gibt keine Blockaden und man kann Energiefelder nicht ändern.</p>
-<p><strong>Wie wär's mal mit krass?</strong><br />Teppich ausrollen und reinfliegen</p>
-<p><strong>23. Juli - 19. August 26</strong><br /><strong>Das Aurachirurgie Fest - Die guten 7 Jahre mit Annette </strong></p>
-<p><em>Nach dem Kauf erhältst Du die Links um den Gruppen beizutreten</em></p>
-<p> </p>
-<p></p>
+**Vendor's marketplace description:** Das Aurachirurgie Fest: DIE GUTEN 7 JAHRE MIT ANNETTE Geburtstagsfestival!!! Nach 25 Jahren Seminartätigkeit und Heilerischem Wirken in eigenen Räumen hat Annette Grübnau im Juli 2019 die Wahl getroffen, auch über Facebook online ihre Ausbildungen anzubieten. In diesem Festival feiern wir Die guten 7 Jahre mit Annette . Die AURACHIRURGIE wird 7 Jahre alt und dazu kommen noch tolle Deals zum 51. Geburtstag von Oma Annette selbst. Du bekommst 4 Wochen Lives, Clearings, Audios und 6 Zooms mit Annette . Lerne, warum Dir nichts anderes hilft, als ohne Vergangenheit in Deine Zukunft zu gehen. Lerne, dass Dich alle anlügen, wenn sie Dir erzählen, dass es einfach ist. Lerne, dass Dein Neues Leben auf "unter-lassen" gebaut wird und nicht auf "los-lassen". Gründe den Rest Deines Lebens auf einem festen Fundament. Lerne die Moves der Aurachirurgie Millionärinnen. PS: es gibt keine Blockaden und man kann Energiefelder nicht ändern. Wie wär's mal mit krass? Teppich ausrollen und reinfliegen 23. Juli - 19. August 26 Das Aurachirurgie Fest - Die guten 7 Jahre mit Annette Nach dem Kauf erhältst Du die Links um den Gruppen beizutreten
 
 ## 2. Links
 

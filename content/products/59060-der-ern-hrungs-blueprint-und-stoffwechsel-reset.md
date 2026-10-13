@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Ernährungs-Blueprint – Dein 4-Wochen-Orientierungsguide für einen bewussteren Umgang mit Ernährung</strong></p>
-<p>Der Ernährungs-Blueprint begleitet dich vier Wochen lang mit einem alltagstauglichen System aus Wochenplänen, einfachen Rezepten und Einkaufslisten – ohne Verbote, ohne Diät-Druck, mit klaren Orientierungshilfen für den Supermarkt-Alltag. Sofort als PDF verfügbar.</p>
-<p>Das ist enthalten:</p>
-<ul>
-<li>Orientierungswissen zu Makro- und Mikronährstoffen</li>
-<li>4-Wochen-Wochenplan mit über 20 einfachen Rezepten</li>
-<li>Fertige Einkaufslisten für Discounter (Aldi, Lidl, Rewe)</li>
-<li>30-Tage-Habit-Tracker für Ernährungsgewohnheiten</li>
-<li>Meal-Prep-Anleitungen für die Wochenvorbereitung</li>
-<li>Bonus: Schnelle Notfall-Rezepte für stressige Tage</li>
-</ul>
-<p>Sofortiger Download – kein Abo, keine versteckten Kosten.</p>
+**Vendor's marketplace description:** Ernährungs-Blueprint – Dein 4-Wochen-Orientierungsguide für einen bewussteren Umgang mit Ernährung Der Ernährungs-Blueprint begleitet dich vier Wochen lang mit einem alltagstauglichen System aus Wochenplänen, einfachen Rezepten und Einkaufslisten – ohne Verbote, ohne Diät-Druck, mit klaren Orientierungshilfen für den Supermarkt-Alltag. Sofort als PDF verfügbar. Das ist enthalten: Orientierungswissen zu Makro- und Mikronährstoffen 4-Wochen-Wochenplan mit über 20 einfachen Rezepten Fertige Einkaufslisten für Discounter (Aldi, Lidl, Rewe) 30-Tage-Habit-Tracker für Ernährungsgewohnheiten Meal-Prep-Anleitungen für die Wochenvorbereitung Bonus: Schnelle Notfall-Rezepte für stressige Tage Sofortiger Download – kein Abo, keine versteckten Kosten.
 
 ## 2. Links
 

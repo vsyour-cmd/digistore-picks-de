@@ -41,61 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Professionelle Whitepaper-Erstellung – Ihr Schlüssel zu erfolgreichem Content-Marketing</strong></p>
-<p>Dieses Angebot richtet sich an Unternehmer:innen, Coaches und Agenturen, die ihre Expertise sichtbar machen und hochwertige Leads gewinnen möchten – mit einem individuell erstellten Whitepaper, das informiert, überzeugt und verkauft.</p>
-<p>Das Whitepaper wird vollständig nach Ihrem Branding und Themenfokus entwickelt – inklusive Konzept, Text, Struktur und professionellem Layout für digitale und gedruckte Nutzung.<br />Jedes Projekt basiert auf journalistischer und marketingorientierter Erfahrung aus über 10 Jahren Content-Entwicklung im B2B- und Kreativbereich.</p>
-<p><strong>Affiliate-Vorteile:</strong><br />Dieses Produkt eignet sich ideal für Zielgruppen, die professionelle Sichtbarkeit aufbauen oder ihre Dienstleistungen über Content-Marketing positionieren möchten.<br />Mit einem Preis von 890 € (zzgl. MwSt) und einer Provision von <strong>25 % pro Verkauf</strong> erhalten Affiliates rund <strong>222,50 € pro vermitteltem Kunden</strong>.</p>
-<p><strong>Leistungsumfang:</strong></p>
-<ul>
-<li>
-<p>Individuelles Whitepaper (Konzept + Text + Layout)</p>
-</li>
-<li>
-<p>Keyword- und Themenanalyse zur Leadgenerierung</p>
-</li>
-<li>
-<p>Anpassung an Corporate Design &amp; Markenstil</p>
-</li>
-<li>
-<p>Bereitstellung als PDF (druck- und weboptimiert)</p>
-</li>
-<li>
-<p>Optionale Übersetzung (DE/EN)</p>
-</li>
-</ul>
-<p><strong>Ideal für folgende Zielgruppen:</strong></p>
-<ul>
-<li>
-<p>Coaches, Berater:innen, Selbstständige</p>
-</li>
-<li>
-<p>Marketingagenturen und KMU</p>
-</li>
-<li>
-<p>Verlage, Autor:innen und Kreative</p>
-</li>
-<li>
-<p>Start-ups mit erklärungsbedürftigen Produkten</p>
-</li>
-</ul>
-<p><strong>Warum dieses Produkt für Affiliates attraktiv ist:</strong></p>
-<ul>
-<li>
-<p>Hoher Auftragswert (890 €)</p>
-</li>
-<li>
-<p>Überdurchschnittliche Provision (25 %)</p>
-</li>
-<li>
-<p>Hohe Conversion-Rate durch klaren Business-Nutzen</p>
-</li>
-<li>
-<p>Professionelle Verkaufsseite, Werbetexte und Grafiken bereitgestellt</p>
-</li>
-<li>
-<p>Geeignet für Business-, Marketing- und Freelancer-Communities</p>
-</li>
-</ul>
+**Vendor's marketplace description:** Professionelle Whitepaper-Erstellung – Ihr Schlüssel zu erfolgreichem Content-Marketing Dieses Angebot richtet sich an Unternehmer:innen, Coaches und Agenturen, die ihre Expertise sichtbar machen und hochwertige Leads gewinnen möchten – mit einem individuell erstellten Whitepaper, das informiert, überzeugt und verkauft. Das Whitepaper wird vollständig nach Ihrem Branding und Themenfokus entwickelt – inklusive Konzept, Text, Struktur und professionellem Layout für digitale und gedruckte Nutzung. Jedes Projekt basiert auf journalistischer und marketingorientierter Erfahrung aus über 10 Jahren Content-Entwicklung im B2B- und Kreativbereich. Affiliate-Vorteile: Dieses Produkt eignet sich ideal für Zielgruppen, die professionelle Sichtbarkeit aufbauen oder ihre Dienstleistungen über Content-Marketing positionieren möchten. Mit einem Preis von 890 € (zzgl. MwSt) und einer Provision von 25 % pro Verkauf erhalten Affiliates rund 222,50 € pro vermitteltem Kunden . Leistungsumfang: Individuelles Whitepaper (Konzept + Text + Layout) Keyword- und Themenanalyse zur Leadgenerierung Anpassung an Corporate Design & Markenstil Bereitstellung als PDF (druck- und weboptimiert) Optionale Übersetzung (DE/EN) Ideal für folgende Zielgruppen: Coaches, Berater:innen, Selbstständige Marketingagenturen und KMU Verlage, Autor:innen und Kreative Start-ups mit erklärungsbedürftigen Produkten Warum dieses Produkt für Affiliates attraktiv ist: Hoher Auftragswert (890 €) Überdurchschnittliche Provision (25 %) Hohe Conversion-Rate durch klaren Business-Nutzen Professionelle Verkaufsseite, Werbetexte und Grafiken bereitgestellt Geeignet für Business-, Marketing- und Freelancer-Communities
 
 ## 2. Links
 

@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Vorteile für Affilates</strong></h2>
-<ul><li>Dieser Kurs ist für Neu-, oder Wieder Einsteiger an der Gitarre.</li>
-<li>Ständige Erfolgserlebnisse halten den Teilnehmer motiviert.</li>
-<li>Die Zielgruppe der Teilnehmer m/w ab ca 40 Jahren</li>
-<li>Einer der bekanntesten Gitarrenkurs im deutschsprachigen Raum.</li>
-<li>50% Provision für Affilates.</li>
-<li>TOP-Support für Teilnehmer.</li>
-<li>TOP-Support für Affiliates .</li>
-<li>Sehr geringe Stornierungsrate.</li>
-<li>Der Kurs ist seit 2015 auf dem Markt und wird stetig weiter verbessert.</li>
-<li>Werben mit einem der bekanntesten YouTube-Gitarrenlehrer aus Deutschland.</li>
-</ul><h3>Infos zum Kurs</h3>
-<div>Der Werkzeugkasten für Gitarre spielen, alle notwendigen Tools die man fürs Gitarre spielen braucht, lernt man in diesem Kurs. <br />Der Gitarre lernen online Masterplan ist ein praxisorientierter Gitarrenkurs, der Fähigkeiten vermittelt um mit der Gitarre unterwegs zu sein.<br />In diesem Kurs lernt der Teilnehmer: Die wichtigsten Akkorde, die wichtigsten Anschlags- und Zupfmuster, Noten und Tabulatur spielen werden. Viele Songs sorgen für </div>
+**Vendor's marketplace description:** Vorteile für Affilates Dieser Kurs ist für Neu-, oder Wieder Einsteiger an der Gitarre. Ständige Erfolgserlebnisse halten den Teilnehmer motiviert. Die Zielgruppe der Teilnehmer m/w ab ca 40 Jahren Einer der bekanntesten Gitarrenkurs im deutschsprachigen Raum. 50% Provision für Affilates. TOP-Support für Teilnehmer. TOP-Support für Affiliates . Sehr geringe Stornierungsrate. Der Kurs ist seit 2015 auf dem Markt und wird stetig weiter verbessert. Werben mit einem der bekanntesten YouTube-Gitarrenlehrer aus Deutschland. Infos zum Kurs Der Werkzeugkasten für Gitarre spielen, alle notwendigen Tools die man fürs Gitarre spielen braucht, lernt man in diesem Kurs. Der Gitarre lernen online Masterplan ist ein praxisorientierter Gitarrenkurs, der Fähigkeiten vermittelt um mit der Gitarre unterwegs zu sein. In diesem Kurs lernt der Teilnehmer: Die wichtigsten Akkorde, die wichtigsten Anschlags- und Zupfmuster, Noten und Tabulatur spielen werden. Viele Songs sorgen für
 
 ## 2. Links
 

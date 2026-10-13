@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Kunden-Magnet 2.0 ist ein praxisorientiertes digitales KI-Akquise-System für Freelancer, virtuelle Assistenzen und selbstständige Dienstleister. Es unterstützt Käufer dabei, ihre Zielgruppe klarer einzugrenzen, persönliche Erstkontakte zu formulieren, Angebote verständlich zu kommunizieren und professionell nachzufassen – mit KI als Werkzeug und ohne unpersönliche Massenansprache.</p>
-<p>Das digitale Arbeitspaket enthält:</p>
-<p>• einen 34-seitigen PDF-Leitfaden</p>
-<p><br />• 30 direkt einsetzbare KI-Prompts als separate TXT-Datei</p>
-<p><br />• einen bearbeitbaren Excel-Akquise-Tracker</p>
-<p><br />• drei vollständige Praxisbeispiele</p>
-<p><br />• einen 7-Tage-Umsetzungsplan</p>
-<p><br />• Strategien und Vorlagen für LinkedIn, E-Mail, Empfehlungen, Netzwerke, Reaktivierung und warme Kontakte</p>
-<p>Warum sich die Bewerbung für Affiliates lohnt:</p>
-<p>• klar definierte Zielgruppe rund um Freelancing, virtuelle Assistenz und Solo-Selbstständigkeit</p>
-<p><br />• Verbindung des dauerhaften Bedarfs „Kundengewinnung“ mit dem aktuellen Thema künstliche Intelligenz</p>
-<p><br />• niedrigschwelliger Verkaufspreis von einmalig 19 € – kein Abonnement</p>
-<p><br />• 50 % Affiliate-Provision</p>
-<p><br />• vielseitige Werbeansätze für Newsletter, Blogs, YouTube, Social Media sowie Freelancer-, Business- und KI-Communitys</p>
-<p><br />• automatische Freischaltung von Affiliate-Partnerschaften</p>
-<p>Das Produkt eignet sich besonders für Affiliates, deren Zielgruppe selbstständig arbeitet, neue Kunden gewinnen möchte oder KI praktisch im Geschäftsalltag einsetzen will. Der Schwerpunkt liegt auf persönlicher und seriöser Ansprache statt auf Massenmailings. Automatische Aufträge oder bestimmte Umsätze werden nicht versprochen.</p>
+**Vendor's marketplace description:** Der Kunden-Magnet 2.0 ist ein praxisorientiertes digitales KI-Akquise-System für Freelancer, virtuelle Assistenzen und selbstständige Dienstleister. Es unterstützt Käufer dabei, ihre Zielgruppe klarer einzugrenzen, persönliche Erstkontakte zu formulieren, Angebote verständlich zu kommunizieren und professionell nachzufassen – mit KI als Werkzeug und ohne unpersönliche Massenansprache. Das digitale Arbeitspaket enthält: • einen 34-seitigen PDF-Leitfaden • 30 direkt einsetzbare KI-Prompts als separate TXT-Datei • einen bearbeitbaren Excel-Akquise-Tracker • drei vollständige Praxisbeispiele • einen 7-Tage-Umsetzungsplan • Strategien und Vorlagen für LinkedIn, E-Mail, Empfehlungen, Netzwerke, Reaktivierung und warme Kontakte Warum sich die Bewerbung für Affiliates lohnt: • klar definierte Zielgruppe rund um Freelancing, virtuelle Assistenz und Solo-Selbstständigkeit • Verbindung des dauerhaften Bedarfs „Kundengewinnung“ mit dem aktuellen Thema künstliche Intelligenz • niedrigschwelliger Verkaufspreis von einmalig 19 € – kein Abonnement • 50 % Affiliate-Provision • vielseitige Werbeansätze für Newsletter, Blogs, YouTube, Social Media sowie Freelancer-, Business- und KI-Communitys • automatische Freischaltung von Affiliate-Partnerschaften Das Produkt eignet sich besonders für Affiliates, deren Zielgruppe selbstständig arbeitet, neue Kunden gewinnen möchte oder KI praktisch im Geschäftsalltag einsetzen will. Der Schwerpunkt liegt auf persönlicher und seriöser Ansprache statt auf Massenmailings. Automatische Aufträge oder bestimmte Umsätze werden nicht versprochen.
 
 ## 2. Links
 

@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Handwerker KI-Büro V1.0 ist ein digitales Starter-Paket für kleine Handwerksbetriebe und Einzelunternehmer, die Angebote, Aufträge, Nachfassaktionen und Kundenkommunikation übersichtlicher organisieren möchten.</p>
-<p>Veraufspreis: 39 € einmalig</p>
-<p>Affiliate-Provision: 30%</p>
-<p>Kein monatlicher Produktpreis.</p>
-<p>Enthalten sind unter anderem:</p>
-<p>-Excel-Cockpit</p>
-<p>-Nachichtenvorlagen</p>
-<p>-KI-Prompts</p>
-<p>-Musterauftrag</p>
-<p>-START-HIER und Anleitung</p>
-<p>-Onboarding-Video</p>
-<p>Zielgruppe: Kleine Handwerksbetriebe und Einzelunternehmer, die ihre Büroorganisation bisher mit einzelnen Dateien, Nachichten, Notizen oder einfachen Listen erledigen.</p>
-<p>Geeignet für Affiliates mit Zielgruppen rund um Handwerk, Selbstständigkeit, Digitalisierung, KI, Büroorganisation und Zeitersparnis.</p>
+**Vendor's marketplace description:** Das Handwerker KI-Büro V1.0 ist ein digitales Starter-Paket für kleine Handwerksbetriebe und Einzelunternehmer, die Angebote, Aufträge, Nachfassaktionen und Kundenkommunikation übersichtlicher organisieren möchten. Veraufspreis: 39 € einmalig Affiliate-Provision: 30% Kein monatlicher Produktpreis. Enthalten sind unter anderem: -Excel-Cockpit -Nachichtenvorlagen -KI-Prompts -Musterauftrag -START-HIER und Anleitung -Onboarding-Video Zielgruppe: Kleine Handwerksbetriebe und Einzelunternehmer, die ihre Büroorganisation bisher mit einzelnen Dateien, Nachichten, Notizen oder einfachen Listen erledigen. Geeignet für Affiliates mit Zielgruppen rund um Handwerk, Selbstständigkeit, Digitalisierung, KI, Büroorganisation und Zeitersparnis.
 
 ## 2. Links
 

@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Flirten lernen“</strong></p>
-<p>Natürlich, charmant und ohne Verstellen – Flirten ist keine Kunst für Auserwählte. Lerne, natürlich, charmant und ganz du selbst zu flirten – online wie offline.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Was Flirten wirklich ist</li>
-<li>Die innere Haltung: spielerisch &amp; echt</li>
-<li>Signale senden &amp; lesen</li>
-<li>Charmant ins Gespräch kommen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Flirten lernen“ Natürlich, charmant und ohne Verstellen – Flirten ist keine Kunst für Auserwählte. Lerne, natürlich, charmant und ganz du selbst zu flirten – online wie offline. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Was Flirten wirklich ist Die innere Haltung: spielerisch & echt Signale senden & lesen Charmant ins Gespräch kommen
 
 ## 2. Links
 

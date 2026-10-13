@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Community aufbauen, Boosts gewinnen und im Fediverse zur gefragten Stimme werden</strong></p>
-<p>Auf Mastodon gibt es keinen Algorithmus, der deinen Content pusht oder ausbremst – deine Reichweite entsteht ausschließlich durch Relevanz, Haltung und gegenseitige Unterstützung. Das ist anspruchsvoller als auf anderen Plattformen, aber auch nachhaltiger: Wer hier wächst, hat eine Community, die wirklich zuhört. Dieses E-Book zeigt dir, wie du mit konsequenter Hashtag-Arbeit gefunden wirst, warum Boosts die wichtigste Währung im Fediverse sind und wie du durch Alt-Texte und Inhaltswarnungen zur respektierten Stimme wirst. Du lernst, wie Threads Tiefe schaffen, wie Nischen-Instanzen Multiplikatoren sind und wie du aus einer kleinen, engagierten Community echte Wirkung erzeugst.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Hashtag-Strategie: wie du im chronologischen Feed langfristig sichtbar bleibst</li>
-<li>Boosts gezielt gewinnen: was anderen Wert genug ist zum Weiterteilen</li>
-<li>Threads als Tiefformat: Reichweite durch Mehrwert in Serien</li>
-<li>Nischen-Instanzen als Multiplikatoren für deine Inhalte nutzen</li>
-<li>Alt-Texte und Inhaltswarnungen: Kultur, die dir Respekt einbringt</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Community aufbauen, Boosts gewinnen und im Fediverse zur gefragten Stimme werden Auf Mastodon gibt es keinen Algorithmus, der deinen Content pusht oder ausbremst – deine Reichweite entsteht ausschließlich durch Relevanz, Haltung und gegenseitige Unterstützung. Das ist anspruchsvoller als auf anderen Plattformen, aber auch nachhaltiger: Wer hier wächst, hat eine Community, die wirklich zuhört. Dieses E-Book zeigt dir, wie du mit konsequenter Hashtag-Arbeit gefunden wirst, warum Boosts die wichtigste Währung im Fediverse sind und wie du durch Alt-Texte und Inhaltswarnungen zur respektierten Stimme wirst. Du lernst, wie Threads Tiefe schaffen, wie Nischen-Instanzen Multiplikatoren sind und wie du aus einer kleinen, engagierten Community echte Wirkung erzeugst. Das steckt drin: Hashtag-Strategie: wie du im chronologischen Feed langfristig sichtbar bleibst Boosts gezielt gewinnen: was anderen Wert genug ist zum Weiterteilen Threads als Tiefformat: Reichweite durch Mehrwert in Serien Nischen-Instanzen als Multiplikatoren für deine Inhalte nutzen Alt-Texte und Inhaltswarnungen: Kultur, die dir Respekt einbringt Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>VorsorgeInventur<br />Analyse- und Beratungssoftware</h4>
-<div>Praxisbewährte Analyse- und Beratungssoftware zur Altersvorsorge, Erwerbsminderung, Berufsunfähigkeit, Hinterbliebenenversorgung, Pflegeabsicherung inkl. Finanzrechner wie Darlehensrechner, Zinsrechner mit Dynamik, Entnahmerechner mit und ohne Kapitalverzehr u.v.a.<br /><br /></div>
-<div><strong>Windows-Version</strong></div>
-<div>für alle Windows Betriebssysteme (ausser Windows RT)
-<div><br />Kündigungsfrist: 3 Monate vor Ablauf der 12 monatigen Laufzeit. Gilt ab Leistungsdatum lt. erster Rechnungslegung;<br /> </div>
-<div>Update-/Release-Versionen im lfd. Jahr: - kostenfrei -</div>
-</div>
+**Vendor's marketplace description:** VorsorgeInventur Analyse- und Beratungssoftware Praxisbewährte Analyse- und Beratungssoftware zur Altersvorsorge, Erwerbsminderung, Berufsunfähigkeit, Hinterbliebenenversorgung, Pflegeabsicherung inkl. Finanzrechner wie Darlehensrechner, Zinsrechner mit Dynamik, Entnahmerechner mit und ohne Kapitalverzehr u.v.a. Windows-Version für alle Windows Betriebssysteme (ausser Windows RT) Kündigungsfrist: 3 Monate vor Ablauf der 12 monatigen Laufzeit. Gilt ab Leistungsdatum lt. erster Rechnungslegung; Update-/Release-Versionen im lfd. Jahr: - kostenfrei -
 
 ## 2. Links
 

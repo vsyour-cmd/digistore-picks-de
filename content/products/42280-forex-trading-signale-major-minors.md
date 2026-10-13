@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Sie suchen nach einem Trading-Partnerprogramm, das seriös ist und regelmäßig wiederkehrende Umsätze bringt?</strong></p>
-<p>Dann haben Sie mit unseren<strong> Forex Trading-Signalen (Majors &amp; Minors)</strong> genau das richtige gefunden.</p>
-<p>Unsere professionellen Forex-Signale richten sich an Einsteiger und fortgeschrittene Forex-Trader.</p>
-<p>Die Forex-Signale werden ausgesucht von dem bekannten Berufs-Trader Karsten Kagels.</p>
-<p><strong>Einfacher Erstverkauf durch 1 Euro Testangebot!</strong></p>
-<p><strong>Konditionen für Partner:</strong></p>
-<ul>
-<li>15 % Provision als Passiv-Einkommen (monatlich)</li>
-<li>Lebenslange Provisionszahlungen für die Monatsbeiträge Ihrer geworbenen Kunden</li>
-<li>Hohe Anmelde- &amp; Teilnehmerquote</li>
-<li>Hohe Conversion durch 1€-Testmöglichkeit</li>
-<li>Sehr geringe Stornoquote</li>
-</ul>
-<p>Bewerben Sie unsere Trading-Produkte jetzt auf Ihrer Webseite, Ihrem Blog oder direkt an Ihre Liste und Sie werden sehen, wie regelmäßig hohe Provisionen in Ihren Account fließen und das Monat für Monat, solange die Abonnenten dabei bleiben. Die Kündigungsrate ist gering.</p>
+**Vendor's marketplace description:** Sie suchen nach einem Trading-Partnerprogramm, das seriös ist und regelmäßig wiederkehrende Umsätze bringt? Dann haben Sie mit unseren Forex Trading-Signalen (Majors & Minors) genau das richtige gefunden. Unsere professionellen Forex-Signale richten sich an Einsteiger und fortgeschrittene Forex-Trader. Die Forex-Signale werden ausgesucht von dem bekannten Berufs-Trader Karsten Kagels. Einfacher Erstverkauf durch 1 Euro Testangebot! Konditionen für Partner: 15 % Provision als Passiv-Einkommen (monatlich) Lebenslange Provisionszahlungen für die Monatsbeiträge Ihrer geworbenen Kunden Hohe Anmelde- & Teilnehmerquote Hohe Conversion durch 1€-Testmöglichkeit Sehr geringe Stornoquote Bewerben Sie unsere Trading-Produkte jetzt auf Ihrer Webseite, Ihrem Blog oder direkt an Ihre Liste und Sie werden sehen, wie regelmäßig hohe Provisionen in Ihren Account fließen und das Monat für Monat, solange die Abonnenten dabei bleiben. Die Kündigungsrate ist gering.
 
 ## 2. Links
 

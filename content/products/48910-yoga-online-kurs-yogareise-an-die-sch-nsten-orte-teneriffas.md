@@ -41,39 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Komm mit auf eine Yoga-Reise durch Teneriffa. Dich erwarten 10 Yogastunden als Video-Kurs, der Dich mitnimmt an die schönsten Ecken Teneriffas.</p>
-<p>Tu Dir selbst etwas Gutes mit diesem Yoga Video-Kurs. Die Einheiten sind mal kurz (20 Minuten), mal umfassender und lang (60 Minuten). </p>
-<p>Der Kurs ist ideal für Yoga Anfänger, Wiedereinsteiger bis Mittelstufe. Im Zentrum stehen Bewegung, Entspannung und Dein Wohlbefinden. Du kannst mit den Videos jederzeit und überall für Dich Yoga praktizieren und immer die Einheit wählen, die Dir heute zusagt. </p>
-<p><strong>Deine Vorteile:</strong></p>
-<ul>
-<li>
-<p>Jederzeit von überall: flexibler Zugriff auf die Yoga-Videos</p>
-</li>
-<li>
-<p>10 Einheiten unterschiedlicher länge (20-60 Minuten)</p>
-</li>
-<li>Rücken Yoga, Nacken Yoga, Flow Yoga, Hatha Yoga, Anti Stress Yoga, Meditation </li>
-<li>
-<p>Ideale Kombination aus Kräftigung, Dehnung und Mobilisation in jeder Kurs-Einheit</p>
-</li>
-<li>Yoga mit traumhafter Teneriffa-Kulisse </li>
-</ul>
-<p><strong>Was Dich erwartet:</strong></p>
-<ol>
-<li>Yoga Morgen Flow | 20 Minuten</li>
-<li>Nacken &amp; Schultern Yoga | 30 Minuten</li>
-<li>Anti Stress Yoga | 50 Minuten</li>
-<li>Yoga für offene Hüften | 40 Minuten</li>
-<li>Kurz &amp; Knackig Yoga-Flow | 20 Minuten</li>
-<li>Yoga für neue Energie | 20 Minuten</li>
-<li>Geführte Meditation | 12 Minuten</li>
-<li>Yoga zum Wohlfühlen | 60 Minuten</li>
-<li>Yoga Morgen Stretch |  20 Minuten</li>
-<li>Rücken Yoga | 30 Minuten</li>
-</ol>
-<p>Tu Dir selbst etwas Gutes und gönn Dir diesen 10-teiligen Yoga-Online-Kurs, um eine regelmäßige Yoga-Praxis aufzubauen. Egal wo, egal wann. </p>
-<p><strong>100% Zufriedenheitsgarantie</strong></p>
-<p>Wir bieten Dir 14 Tage eine Geld-zurück-Garantie, sollte Dir der Kurs nicht gefallen.</p>
+**Vendor's marketplace description:** Komm mit auf eine Yoga-Reise durch Teneriffa. Dich erwarten 10 Yogastunden als Video-Kurs, der Dich mitnimmt an die schönsten Ecken Teneriffas. Tu Dir selbst etwas Gutes mit diesem Yoga Video-Kurs. Die Einheiten sind mal kurz (20 Minuten), mal umfassender und lang (60 Minuten). Der Kurs ist ideal für Yoga Anfänger, Wiedereinsteiger bis Mittelstufe. Im Zentrum stehen Bewegung, Entspannung und Dein Wohlbefinden. Du kannst mit den Videos jederzeit und überall für Dich Yoga praktizieren und immer die Einheit wählen, die Dir heute zusagt. Deine Vorteile: Jederzeit von überall: flexibler Zugriff auf die Yoga-Videos 10 Einheiten unterschiedlicher länge (20-60 Minuten) Rücken Yoga, Nacken Yoga, Flow Yoga, Hatha Yoga, Anti Stress Yoga, Meditation Ideale Kombination aus Kräftigung, Dehnung und Mobilisation in jeder Kurs-Einheit Yoga mit traumhafter Teneriffa-Kulisse Was Dich erwartet: Yoga Morgen Flow | 20 Minuten Nacken & Schultern Yoga | 30 Minuten Anti Stress Yoga | 50 Minuten Yoga für offene Hüften | 40 Minuten Kurz & Knackig Yoga-Flow | 20 Minuten Yoga für neue Energie | 20 Minuten Geführte Meditation | 12 Minuten Yoga zum Wohlfühlen | 60 Minuten Yoga Morgen Stretch | 20 Minuten Rücken Yoga | 30 Minuten Tu Dir selbst etwas Gutes und gönn Dir diesen 10-teiligen Yoga-Online-Kurs, um eine regelmäßige Yoga-Praxis aufzubauen. Egal wo, egal wann. 100% Zufriedenheitsgarantie Wir bieten Dir 14 Tage eine Geld-zurück-Garantie, sollte Dir der Kurs nicht gefallen.
 
 ## 2. Links
 

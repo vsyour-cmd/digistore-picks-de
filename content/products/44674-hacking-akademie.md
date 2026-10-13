@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die Hacking-Akademie ist eine Learning-Plattform für alle angehenden Pen-Tester und White-Hat-Hacker.</p>
-<p>Von Eric Amberg gegründet bietet die Hacking-Akademie umfangreiches modular aufgebautes Videomaterial, welches in sogenannten Capture-The-Flag-Aufgaben angewandt werden kann.</p>
-<p>Kommt ein User nicht weiter, kann er sich auf die umfangreiche Hilfe von den Dozenten im exklusiven Forum verlassen.</p>
-<p>Hier könnt ihr Euch ein erstes Bild von der Plattform machen:</p>
-<p><a href="http://www.hacking-akademie.de">www.hacking-akademie.de</a></p>
-<p>Wir bieten aktuell ein interessantes Affiliate-Programm an, an welchem ihr mit einer <strong>Lifetime-Provision</strong> mitverdienen könnt.</p>
-<p>Die Provision kann sich auf bis zu <strong>30%</strong> über die gesamte Laufzeit der jeweiligen Mitgliedschaften belaufen.</p>
-<p>Der reguläre Monatsbeitrag beläuft sich auf 29,90€, der Jahresbeitrag auf 299€.</p>
-<p>Rabatte können nach Absprache ebenfalls gewährt werden, falls sich dies verkaufsfördernd widerspiegelt.</p>
-<p>Übrigens: </p>
-<p>Als besonderes Alleinstellungsmerkmal zu anderen Anbietern auf dem Markt ist die Hacking-Akademie das einzige deutschsprachige Angebot.</p>
-<p>Für weiter Details und Fragen nehmt gerne Kontakt mit Philipp auf:</p>
-<p><a href="mailto:philipp@hacking-akademie.de">philipp@hacking-akademie.de</a></p>
-<p>+49 160 820 6196</p>
+**Vendor's marketplace description:** Die Hacking-Akademie ist eine Learning-Plattform für alle angehenden Pen-Tester und White-Hat-Hacker. Von Eric Amberg gegründet bietet die Hacking-Akademie umfangreiches modular aufgebautes Videomaterial, welches in sogenannten Capture-The-Flag-Aufgaben angewandt werden kann. Kommt ein User nicht weiter, kann er sich auf die umfangreiche Hilfe von den Dozenten im exklusiven Forum verlassen. Hier könnt ihr Euch ein erstes Bild von der Plattform machen: www.hacking-akademie.de Wir bieten aktuell ein interessantes Affiliate-Programm an, an welchem ihr mit einer Lifetime-Provision mitverdienen könnt. Die Provision kann sich auf bis zu 30% über die gesamte Laufzeit der jeweiligen Mitgliedschaften belaufen. Der reguläre Monatsbeitrag beläuft sich auf 29,90€, der Jahresbeitrag auf 299€. Rabatte können nach Absprache ebenfalls gewährt werden, falls sich dies verkaufsfördernd widerspiegelt. Übrigens: Als besonderes Alleinstellungsmerkmal zu anderen Anbietern auf dem Markt ist die Hacking-Akademie das einzige deutschsprachige Angebot. Für weiter Details und Fragen nehmt gerne Kontakt mit Philipp auf: philipp@hacking-akademie.de +49 160 820 6196
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>90 Tage – Struktur, Klarheit &amp; innere Stabilität</strong></p>
-<p>Dieses 90-Tage-Programm richtet sich an Menschen, die sich festgefahren fühlen, innerlich unruhig sind oder den Kontakt zu sich selbst verloren haben.<br />Es bietet einen klaren, ruhigen Rahmen, um Schritt für Schritt wieder Struktur, Orientierung und Stabilität im Alltag aufzubauen.</p>
-<p>Das Programm verzichtet bewusst auf Druck, Selbstoptimierungszwang oder unrealistische Versprechen.<br />Im Fokus stehen kleine, machbare Schritte, die langfristig wirken – ohne Überforderung.</p>
-<hr />
-<h3> </h3>
+**Vendor's marketplace description:** 90 Tage – Struktur, Klarheit & innere Stabilität Dieses 90-Tage-Programm richtet sich an Menschen, die sich festgefahren fühlen, innerlich unruhig sind oder den Kontakt zu sich selbst verloren haben. Es bietet einen klaren, ruhigen Rahmen, um Schritt für Schritt wieder Struktur, Orientierung und Stabilität im Alltag aufzubauen. Das Programm verzichtet bewusst auf Druck, Selbstoptimierungszwang oder unrealistische Versprechen. Im Fokus stehen kleine, machbare Schritte, die langfristig wirken – ohne Überforderung.
 
 ## 2. Links
 

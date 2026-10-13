@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ayurveda für Anfänger – <em>vegan, glutenfrei und ohne industriellen Zucker</em> – Die besten Rezepte von Tasty Katy’s Blog, ausgewählt in einem liebevoll aufbereiteten eBook.</p>
-<p> </p>
-<p><strong>Inhalt des eBooks:</strong></p>
-<ul>
-<li>Lerne den Einstieg in den Ayurveda</li>
-<li>Infos über die Doshas, Verdauung im Ayurveda + Gewürztipps, Achtsam essen, Gewürzkunde und mehr</li>
-<li>Über 20 leckere Frühstücksrezepte (vegan, glutenfrei &amp; zuckerfrei)</li>
-<li>Viele ayurvedische Tipps &amp; Tricks für deine Gesundheit</li>
-<li>Neu kreierte Rezepte &amp; die besten ayurvedischen Rezepte vom Blog</li>
-<li>Download als PDF</li>
-<li>Umfang: 70 Seiten</li>
-</ul>
-<p> </p>
-<p><strong>Preis:</strong> 14,95€ inkl. MwSt</p>
+**Vendor's marketplace description:** Ayurveda für Anfänger – vegan, glutenfrei und ohne industriellen Zucker – Die besten Rezepte von Tasty Katy’s Blog, ausgewählt in einem liebevoll aufbereiteten eBook. Inhalt des eBooks: Lerne den Einstieg in den Ayurveda Infos über die Doshas, Verdauung im Ayurveda + Gewürztipps, Achtsam essen, Gewürzkunde und mehr Über 20 leckere Frühstücksrezepte (vegan, glutenfrei & zuckerfrei) Viele ayurvedische Tipps & Tricks für deine Gesundheit Neu kreierte Rezepte & die besten ayurvedischen Rezepte vom Blog Download als PDF Umfang: 70 Seiten Preis: 14,95€ inkl. MwSt
 
 ## 2. Links
 

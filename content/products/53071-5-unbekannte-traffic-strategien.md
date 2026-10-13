@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mehr Sichtbarkeit, mehr Besucher, mehr Umsatz – ohne Werbebudget.</p>
-<p><br />Dieses E-Book zeigt dir 5 smarte Wege, wie du kostenlosen Traffic für dein Online-Business aufbaust. Einfach umsetzen, sofort starten.</p>
+**Vendor's marketplace description:** Mehr Sichtbarkeit, mehr Besucher, mehr Umsatz – ohne Werbebudget. Dieses E-Book zeigt dir 5 smarte Wege, wie du kostenlosen Traffic für dein Online-Business aufbaust. Einfach umsetzen, sofort starten.
 
 ## 2. Links
 

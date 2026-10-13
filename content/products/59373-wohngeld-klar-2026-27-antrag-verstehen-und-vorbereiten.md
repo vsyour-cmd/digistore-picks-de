@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Digitales Arbeitsbuch zum Wohngeld-Antrag in Deutschland. Checklisten und Orientierung – Bildungs-Workbook, keine Rechtsberatung, keine Erfolgsgarantie. Digistore24 Checkout, 50 % Commission.</p>
+**Vendor's marketplace description:** Digitales Arbeitsbuch zum Wohngeld-Antrag in Deutschland. Checklisten und Orientierung – Bildungs-Workbook, keine Rechtsberatung, keine Erfolgsgarantie. Digistore24 Checkout, 50 % Commission.
 
 ## 2. Links
 

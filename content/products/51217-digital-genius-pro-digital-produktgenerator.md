@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>"Digital Genius Pro - Digital-Produktgenerator"</strong> –  Werkzeug für eine rasche und nachhaltige Digital Produkt Erstellung.<br /><br />Schritt für Schritt Guide und Generator zum Erstellen und vermarkten von eigenen digitalen Podukten.<br /><br />Prima Gelegenheit, um seine Provisionen aufzupeppen!</p>
-<ul>
-<li>Dieses Produkt funktioniert für Affiliate Anfänger und Fortgeschrittene.</li>
-<li>Perfektes Produkt für "jeden", der mit seinem online Business / Social-Media-Marketing starten will, weiterkommen will und nach wertvollen Tipps sucht.</li>
-<li>Du hast mit diesem Generator ein Top-Produkt für deine Community und wirst am kompletten Sales-Funnel beteiligt!</li>
-</ul>
-<p>Hohe Conversion, da es aktuelle Themen behandelt.<br /><strong><br />Der Preis beträgt 17,90€, im Upsell ist ein 97€ Kurs und weitere Produkte vorhanden. </strong>Du bist überall <strong>mit 50% beteiligt</strong> an Add-On, Up- und Downsell, so wie im gesamten Funnel.<br /><br /><strong>und 15% Lifetime Provision gibt es obendrauf!</strong><br /><br />Über 115€ im Funnel für dich möglich!<br /><br />Der Funnel wird ständig angepasst und erweitert.<br /><br />Viel Erfolg und fette Beute!</p>
+**Vendor's marketplace description:** "Digital Genius Pro - Digital-Produktgenerator" – Werkzeug für eine rasche und nachhaltige Digital Produkt Erstellung. Schritt für Schritt Guide und Generator zum Erstellen und vermarkten von eigenen digitalen Podukten. Prima Gelegenheit, um seine Provisionen aufzupeppen! Dieses Produkt funktioniert für Affiliate Anfänger und Fortgeschrittene. Perfektes Produkt für "jeden", der mit seinem online Business / Social-Media-Marketing starten will, weiterkommen will und nach wertvollen Tipps sucht. Du hast mit diesem Generator ein Top-Produkt für deine Community und wirst am kompletten Sales-Funnel beteiligt! Hohe Conversion, da es aktuelle Themen behandelt. Der Preis beträgt 17,90€, im Upsell ist ein 97€ Kurs und weitere Produkte vorhanden. Du bist überall mit 50% beteiligt an Add-On, Up- und Downsell, so wie im gesamten Funnel. und 15% Lifetime Provision gibt es obendrauf! Über 115€ im Funnel für dich möglich! Der Funnel wird ständig angepasst und erweitert. Viel Erfolg und fette Beute!
 
 ## 2. Links
 

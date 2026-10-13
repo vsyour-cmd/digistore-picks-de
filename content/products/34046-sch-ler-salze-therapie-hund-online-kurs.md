@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#ff6600;"><strong>50% Provision</strong></span> auf ein <strong><span style="color:#ff6600;">"tierisch"</span> </strong>guten Online Kurs <span style="color:#ff6600;"><strong>"Die Schüßler Salze Therapie für den Hund"</strong></span></p>
-<p>Deine Vorteile: Bei über <span style="color:#ff6600;"><strong>15 Millionen</strong></span> Hunden ist die Bachblüten Therapie für jeden nutzbar. Jedes Tier partizipiert von der Bachblüten Therapie, ob bei Ängsten, Traumata oder bei gesundheitlichen Themen. Somit ist ein <span style="color:#ff6600;"><strong>riesen Potenzial</strong> </span>an Verkäufen für Dich möglich</p>
-<p><span style="color:#ff6600;"><strong>Darum lohnt sich dieses tierisch gute Partnerprogramm</strong></span></p>
-<p>♥ Hochqualitative Produkte mit geringer Stornoquote von &lt;1%</p>
-<p>♥ 50% Provision auf alle von dir empfohlenen Produkte </p>
-<p>♥ Vorgefertigte, hochwertige Werbematerialien</p>
-<h5><span style="color:#ff6600;"><strong>Darum geht es in dem Online Kurs:</strong> </span></h5>
-<h5><strong>Verhaltensauffälligkeiten, die durch Stress, Ängste, Aggressionen und  emotionale Traumata ausgelöst wurden, können durch Bachblüten positiv beeinflusst werden. Die Bachblüten eignen sich hervorragend, um Therapieerfolge ganzheitlich zu unterstützen und das Pferd zu harmonisieren.</strong> <strong>Ein sehr Umfangreicher Online Kurs mit Zertifikat.</strong></h5>
-<p><span style="color:#ff6600;"><strong>Deine Provision: 50 %</strong></span></p>
-<p>Bei dem derzeitigen Verkaufspreis von <strong>29,95 €</strong> (Brutto)</p>
+**Vendor's marketplace description:** 50% Provision auf ein "tierisch" guten Online Kurs "Die Schüßler Salze Therapie für den Hund" Deine Vorteile: Bei über 15 Millionen Hunden ist die Bachblüten Therapie für jeden nutzbar. Jedes Tier partizipiert von der Bachblüten Therapie, ob bei Ängsten, Traumata oder bei gesundheitlichen Themen. Somit ist ein riesen Potenzial an Verkäufen für Dich möglich Darum lohnt sich dieses tierisch gute Partnerprogramm ♥ Hochqualitative Produkte mit geringer Stornoquote von <1% ♥ 50% Provision auf alle von dir empfohlenen Produkte ♥ Vorgefertigte, hochwertige Werbematerialien Darum geht es in dem Online Kurs: Verhaltensauffälligkeiten, die durch Stress, Ängste, Aggressionen und emotionale Traumata ausgelöst wurden, können durch Bachblüten positiv beeinflusst werden. Die Bachblüten eignen sich hervorragend, um Therapieerfolge ganzheitlich zu unterstützen und das Pferd zu harmonisieren. Ein sehr Umfangreicher Online Kurs mit Zertifikat. Deine Provision: 50 % Bei dem derzeitigen Verkaufspreis von 29,95 € (Brutto)
 
 ## 2. Links
 

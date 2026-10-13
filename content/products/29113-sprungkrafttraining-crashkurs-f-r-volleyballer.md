@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In unserem 12 minütigen Crashkurs zeigt dir Volleyballer und Personaltrainer Tim Burwitz Basisübungen, damit du als Volleyballer selbst deine Sprungkraft trainieren kannst. </p>
+**Vendor's marketplace description:** In unserem 12 minütigen Crashkurs zeigt dir Volleyballer und Personaltrainer Tim Burwitz Basisübungen, damit du als Volleyballer selbst deine Sprungkraft trainieren kannst.
 
 ## 2. Links
 

@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Dating-Fehler, die fast jeder macht“</strong></p>
-<p>Und wie du sie vermeidest – Die häufigsten Stolperfallen beim Dating – und wie du sie clever umgehst.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 7,45 € pro Verkauf (Verkaufspreis 14,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Die 15 häufigsten Dating-Fehler</li>
-<li>Für jeden Fehler eine konkrete Lösung</li>
-<li>Echte Beispiele aus dem Dating-Alltag</li>
-<li>Sofort anwendbare Korrekturen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Dating-Fehler, die fast jeder macht“ Und wie du sie vermeidest – Die häufigsten Stolperfallen beim Dating – und wie du sie clever umgehst. Warum dieses E-Book bewerben? 50 % Provision – ca. 7,45 € pro Verkauf (Verkaufspreis 14,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Die 15 häufigsten Dating-Fehler Für jeden Fehler eine konkrete Lösung Echte Beispiele aus dem Dating-Alltag Sofort anwendbare Korrekturen
 
 ## 2. Links
 

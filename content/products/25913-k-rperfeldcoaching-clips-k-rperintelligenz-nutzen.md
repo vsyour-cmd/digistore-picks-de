@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<p><strong>Körperfeldcoaching Clips verbessern deinen Energiefluß und stärken deine Selbst-Regulationsfähigkeit!</strong></p>
-<p>Empfehlen Sie unser einzigartiges Produkt für Gesundheit, Heilung, Therapie und Selbstfindung.</p>
-<p>Ihre Vorteile:</p>
-<ul>
-<li>Abomodell: 2<strong>0 %</strong> wiederkehrende Provisionen auf Ihre Verkäufe</li>
-<li>Schnelle und persönliche Unterstützung auf Deutsch durch unser Team</li>
-<li>Weltweit einzigartiges Produkt ganz auf erforschter wissenschaftlicher Grundlage</li>
-<li>Auf unsere Affiliate Support Seite erhalten Sie eine Kurzeinführung, Bilder und E-Mail Texte</li>
-</ul>
-<p><span style="color:#ff0000;"><strong>Hinweis:</strong></span> Nach dem Klick auf <strong>"Jetzt promoten" </strong>erhältst du eine E-Mail von uns. Absender: doitAkademie<strong><br /></strong></p>
-<p><span style="color:#ff0000;"><strong>Bitte bestätige deine E-Mail Adresse</strong></span> mit Klick auf den Link in der E-Mail mit dem Betreff: "Ein Klick fehlt noch..." um weitere Unterstützung und Informationen per E-Mail von uns zu erhalten.</p>
-</div>
+**Vendor's marketplace description:** Körperfeldcoaching Clips verbessern deinen Energiefluß und stärken deine Selbst-Regulationsfähigkeit! Empfehlen Sie unser einzigartiges Produkt für Gesundheit, Heilung, Therapie und Selbstfindung. Ihre Vorteile: Abomodell: 2 0 % wiederkehrende Provisionen auf Ihre Verkäufe Schnelle und persönliche Unterstützung auf Deutsch durch unser Team Weltweit einzigartiges Produkt ganz auf erforschter wissenschaftlicher Grundlage Auf unsere Affiliate Support Seite erhalten Sie eine Kurzeinführung, Bilder und E-Mail Texte Hinweis: Nach dem Klick auf "Jetzt promoten" erhältst du eine E-Mail von uns. Absender: doitAkademie Bitte bestätige deine E-Mail Adresse mit Klick auf den Link in der E-Mail mit dem Betreff: "Ein Klick fehlt noch..." um weitere Unterstützung und Informationen per E-Mail von uns zu erhalten.
 
 ## 2. Links
 

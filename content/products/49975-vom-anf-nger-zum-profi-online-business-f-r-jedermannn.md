@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>BRANDNEU </strong></p>
-<p><strong>Verschenke das <span style="color:#ff0000;">ONLINE BUSINESS FÜR JEDERMANN</span> und erhalte 50% Provision auf alle Up &amp; Downsells.</strong></p>
-<p> </p>
-<p><strong>Auf der Partnerseite ist für dich alles vorbereitet. E-Mail Vorlagen, Social Media Texte,... </strong></p>
-<p><strong>ONLINE BUSINESS FÜR JEDERMANN beinhaltet Folgendes:</strong></p>
-<ul>
-<li><strong>Die 5 wichtigsten Vorteile</strong> eines profitablen Online Business</li>
-<li>Was ein <strong>Salesfunnel</strong> ist und wie er<strong> verkauft</strong></li>
-<li>Wie man mit <strong>nur 1nem Klick</strong> ein <strong>eigenes profitables Online Business</strong> erstellt und Einnahmen generiert</li>
-<li>Perfekt für jeden, der Online Geld verdienen möchte</li>
-</ul>
-<p>Im Funnel sind <strong>71€ Provision</strong> für dich möglich</p>
-<p><a href="https://page.funnelcockpit.com/kz5phdF2QcXdLDmrK" target="_blank" rel="noreferrer noopener">Zu den Werbemitteln &lt;&lt; klick </a></p>
+**Vendor's marketplace description:** BRANDNEU Verschenke das ONLINE BUSINESS FÜR JEDERMANN und erhalte 50% Provision auf alle Up & Downsells. Auf der Partnerseite ist für dich alles vorbereitet. E-Mail Vorlagen, Social Media Texte,... ONLINE BUSINESS FÜR JEDERMANN beinhaltet Folgendes: Die 5 wichtigsten Vorteile eines profitablen Online Business Was ein Salesfunnel ist und wie er verkauft Wie man mit nur 1nem Klick ein eigenes profitables Online Business erstellt und Einnahmen generiert Perfekt für jeden, der Online Geld verdienen möchte Im Funnel sind 71€ Provision für dich möglich Zu den Werbemitteln << klick
 
 ## 2. Links
 

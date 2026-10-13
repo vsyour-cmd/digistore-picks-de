@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>NEU AUF DEM MARKT !!!</strong></h3>
-<p> </p>
-<h4>Der Kurs ist perfekt für <strong>Affiliates</strong>, da er:</h4>
-<p> </p>
-<ul>
-<li>
-<h4>einen <strong>niedrigen Einstiegspreis für Kunden</strong> hat</h4>
-</li>
-<li> </li>
-<li>
-<h4><strong>50% Provision pro Verkauf</strong> bietet</h4>
-</li>
-<li> </li>
-<li>
-<h4><strong>sofort digital ausgeliefert</strong> wird</h4>
-</li>
-<li> </li>
-<li>
-<h4>eine <strong>hohe Conversionrate</strong> durch einfache Inhalte ermöglicht</h4>
-</li>
-</ul>
-<h3>WENN DU ANFANGEN WILLST DANN DRÜCKE OBEN AUF Jetzt promoten</h3>
+**Vendor's marketplace description:** NEU AUF DEM MARKT !!! Der Kurs ist perfekt für Affiliates , da er: einen niedrigen Einstiegspreis für Kunden hat 50% Provision pro Verkauf bietet sofort digital ausgeliefert wird eine hohe Conversionrate durch einfache Inhalte ermöglicht WENN DU ANFANGEN WILLST DANN DRÜCKE OBEN AUF Jetzt promoten
 
 ## 2. Links
 

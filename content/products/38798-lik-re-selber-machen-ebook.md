@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses EBook ist der perfekte Einstieg in die Welt der Liköre. </p>
-<p>Auf 164 Seiten wird man Schritt für Schritt in die Likörherstellung eingeführt. </p>
-<p>Geeignet für Anfänger und Fortgeschrittene! </p>
-<p>Ich verkaufe das EBook über meine Website, freue mich aber über jeden Affiliate. </p>
-<p>Für jeden vermittelten Verkauf gibt es 60% Provision. </p>
-<p>Für weitere Infos zum Produkt siehe Verkaufsseite. </p>
-<p>Bei weiteren Fragen einfach mich kontaktieren. </p>
+**Vendor's marketplace description:** Dieses EBook ist der perfekte Einstieg in die Welt der Liköre. Auf 164 Seiten wird man Schritt für Schritt in die Likörherstellung eingeführt. Geeignet für Anfänger und Fortgeschrittene! Ich verkaufe das EBook über meine Website, freue mich aber über jeden Affiliate. Für jeden vermittelten Verkauf gibt es 60% Provision. Für weitere Infos zum Produkt siehe Verkaufsseite. Bei weiteren Fragen einfach mich kontaktieren.
 
 ## 2. Links
 

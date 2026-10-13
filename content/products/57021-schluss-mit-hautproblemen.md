@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Schluss mit Hautproblemen"</strong></p>
-<p>Rötungen, Pickel, Juckreiz verstehen und beruhigen: Lerne die Grundlagen gesunder Haut, baue eine sanfte Pflege-Routine auf, erkenne Auslöser – und wisse, wann der Hautarzt gefragt ist.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe: Haut &amp; Haar / Gesundheit</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Die Haut und ihre Schutzbarriere verstehen</li>
-<li>Hautsignale wie Rötung, Pickel und Juckreiz deuten</li>
-<li>Eine sanfte Basis-Pflege nach dem Prinzip weniger ist mehr</li>
-<li>Reizstoffe und Auslöser im Alltag erkennen</li>
-<li>Wissen, wann der Hautarzt gefragt ist</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Menschen mit Haut- &amp; Haarproblemen, Beauty-, Pflege- und Gesundheits-Zielgruppe</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Schluss mit Hautproblemen" Rötungen, Pickel, Juckreiz verstehen und beruhigen: Lerne die Grundlagen gesunder Haut, baue eine sanfte Pflege-Routine auf, erkenne Auslöser – und wisse, wann der Hautarzt gefragt ist. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe: Haut & Haar / Gesundheit Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Die Haut und ihre Schutzbarriere verstehen Hautsignale wie Rötung, Pickel und Juckreiz deuten Eine sanfte Basis-Pflege nach dem Prinzip weniger ist mehr Reizstoffe und Auslöser im Alltag erkennen Wissen, wann der Hautarzt gefragt ist Für deine Zielgruppe: Menschen mit Haut- & Haarproblemen, Beauty-, Pflege- und Gesundheits-Zielgruppe Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

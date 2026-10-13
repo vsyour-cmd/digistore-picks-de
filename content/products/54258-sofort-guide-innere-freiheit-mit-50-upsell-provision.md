@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verschenke echten Mehrwert – und verdiene automatisch mit!</strong></p>
-<p><br />Mit dem <strong>Sofort-Guide „ ( mehr )Innere Freiheit“</strong> schenkst du deinen Kontakten ein wertvolles Freebie, das sofort Vertrauen aufbaut und echten Nutzen bietet.<br />Ein geführter Mini-Kurs zur emotionalen Befreiung, Blockadenlösung und Energiearbeit – komplett kostenlos für deine Zielgruppe.</p>
-<p><strong>Dein Vorteil:</strong></p>
-<p><br />Du verschenkst den Guide, und <strong>ich übernehme das Upselling für dich!</strong></p>
-<p><br />Der dazugehörige <strong>3-Tage-Detox-Kurs</strong> wird als Add-on <strong>direkt auf der Danke-Seite</strong> und zusätzlich <strong>in meiner nachfolgenden E-Mail-Serie</strong> beworben.</p>
-<p><br />So steigt deine Chance auf eine Provision <strong>massiv</strong>, ohne dass du selbst etwas verkaufen musst.</p>
-<p><strong>Deine Vorteile auf einen Blick:</strong></p>
-<ul>
-<li>
-<p>Freebie mit sehr hoher Conversionrate</p>
-</li>
-<li>
-<p><strong>50 % Provision</strong> auf den Detox-Upsell</p>
-</li>
-<li>
-<p>Upsell wird automatisch durch meine E-Mail-Serie &amp; Danke-Seite verkauft</p>
-</li>
-<li>
-<p>Starkes Thema: Energiearbeit, Selbstheilung, innere Balance</p>
-</li>
-<li>
-<p>Ideal für Coaches, Heiler, Achtsamkeits- &amp; Mindset-Communities</p>
-</li>
-</ul>
-<p><strong>Jetzt Affiliate-Link sichern und direkt loslegen!</strong></p>
+**Vendor's marketplace description:** Verschenke echten Mehrwert – und verdiene automatisch mit! Mit dem Sofort-Guide „ ( mehr )Innere Freiheit“ schenkst du deinen Kontakten ein wertvolles Freebie, das sofort Vertrauen aufbaut und echten Nutzen bietet. Ein geführter Mini-Kurs zur emotionalen Befreiung, Blockadenlösung und Energiearbeit – komplett kostenlos für deine Zielgruppe. Dein Vorteil: Du verschenkst den Guide, und ich übernehme das Upselling für dich! Der dazugehörige 3-Tage-Detox-Kurs wird als Add-on direkt auf der Danke-Seite und zusätzlich in meiner nachfolgenden E-Mail-Serie beworben. So steigt deine Chance auf eine Provision massiv , ohne dass du selbst etwas verkaufen musst. Deine Vorteile auf einen Blick: Freebie mit sehr hoher Conversionrate 50 % Provision auf den Detox-Upsell Upsell wird automatisch durch meine E-Mail-Serie & Danke-Seite verkauft Starkes Thema: Energiearbeit, Selbstheilung, innere Balance Ideal für Coaches, Heiler, Achtsamkeits- & Mindset-Communities Jetzt Affiliate-Link sichern und direkt loslegen!
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Amazon FBA für Anfänger – Kosten und Risiken prüfen mit Matze</p>
-<p>Produktidee, Stückrechnung, Lieferkette und Pilotentscheidung bewerten. Dieser deutschsprachige Selbstlernkurs begleitet dich von der Idee bis zum Ergebnis: eine Kostenrechnung und Kriterien für eine kleine Pilotentscheidung. Matze zeigt jeden Schritt am durchgehenden fiktiven Beispiel. Die Aufgaben überträgst du auf dein eigenes Projekt.</p>
-<p>Das lernst du:<br />1. Modell und Kapitalbedarf<br />2. Kundenbedarf und Produktregeln<br />3. Lieferanten und Muster<br />4. Vollständige Stückrechnung<br />5. Listing, Bestand und Test<br />6. Pilot auswerten</p>
-<p>Für wen? Einsteiger, die ein physisches Produkt für Amazon FBA sorgfältig prüfen möchten.</p>
-<p>Im Paket: PDF-Praxiskurs, PDF-Arbeitsmappe und vier bearbeitbare Vorlagen. Du gehst im eigenen Tempo vor und prüfst deine Ergebnisse anhand der Aufgaben.</p>
-<p>Transparenz: Das Beispiel ist fiktiv. Ein eigener dokumentierter FBA-Pilotfall des Kursanbieters fehlt noch; diese Fassung bleibt bis dahin unveröffentlicht.</p>
-<p>Für Affiliates: Der Kurs zeigt konkrete Arbeitsschritte und verspricht keine Umsätze oder Aufnahme in externe Programme. Bewirb ihn mit eigener Erfahrung, klarer Werbekennzeichnung und deinem persönlichen Digistore24-Promolink. Digitale Einmalzahlung; Affiliate-Provision laut Angebot: 40 %.</p>
-<p>Planungstools sind optional. Im Kurs kann ein gekennzeichneter Metricool-Affiliate-Link enthalten sein.</p>
+**Vendor's marketplace description:** Amazon FBA für Anfänger – Kosten und Risiken prüfen mit Matze Produktidee, Stückrechnung, Lieferkette und Pilotentscheidung bewerten. Dieser deutschsprachige Selbstlernkurs begleitet dich von der Idee bis zum Ergebnis: eine Kostenrechnung und Kriterien für eine kleine Pilotentscheidung. Matze zeigt jeden Schritt am durchgehenden fiktiven Beispiel. Die Aufgaben überträgst du auf dein eigenes Projekt. Das lernst du: 1. Modell und Kapitalbedarf 2. Kundenbedarf und Produktregeln 3. Lieferanten und Muster 4. Vollständige Stückrechnung 5. Listing, Bestand und Test 6. Pilot auswerten Für wen? Einsteiger, die ein physisches Produkt für Amazon FBA sorgfältig prüfen möchten. Im Paket: PDF-Praxiskurs, PDF-Arbeitsmappe und vier bearbeitbare Vorlagen. Du gehst im eigenen Tempo vor und prüfst deine Ergebnisse anhand der Aufgaben. Transparenz: Das Beispiel ist fiktiv. Ein eigener dokumentierter FBA-Pilotfall des Kursanbieters fehlt noch; diese Fassung bleibt bis dahin unveröffentlicht. Für Affiliates: Der Kurs zeigt konkrete Arbeitsschritte und verspricht keine Umsätze oder Aufnahme in externe Programme. Bewirb ihn mit eigener Erfahrung, klarer Werbekennzeichnung und deinem persönlichen Digistore24-Promolink. Digitale Einmalzahlung; Affiliate-Provision laut Angebot: 40 %. Planungstools sind optional. Im Kurs kann ein gekennzeichneter Metricool-Affiliate-Link enthalten sein.
 
 ## 2. Links
 

@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>100 professionelle ChatGPT- und KI-Marketing-Prompts für Selbstständige, Freelancer und Unternehmen</strong></p>
-<p>Erstellen Sie schneller Inhalte für Social Media, Werbetexte, E-Mails, Blogartikel und Verkaufsseiten.</p>
-<p>Sie erhalten:</p>
-<ul>
-<li>100 sofort einsetzbare Prompts</li>
-<li>Digitale PDF-Datei</li>
-<li>Sofortiger Download nach dem Kauf</li>
-<li>Für Anfänger und Fortgeschrittene geeignet</li>
-</ul>
-<p>Ideal für:</p>
-<ul>
-<li>Unternehmen</li>
-<li>Selbstständige</li>
-<li>Freelancer</li>
-<li>Agenturen</li>
-<li>Coaches</li>
-<li>Online-Shops</li>
-</ul>
+**Vendor's marketplace description:** 100 professionelle ChatGPT- und KI-Marketing-Prompts für Selbstständige, Freelancer und Unternehmen Erstellen Sie schneller Inhalte für Social Media, Werbetexte, E-Mails, Blogartikel und Verkaufsseiten. Sie erhalten: 100 sofort einsetzbare Prompts Digitale PDF-Datei Sofortiger Download nach dem Kauf Für Anfänger und Fortgeschrittene geeignet Ideal für: Unternehmen Selbstständige Freelancer Agenturen Coaches Online-Shops
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Partizipiere jetzt mit der Bewerbung des Erfolgsprogramms "Schlank ohne Diät" von Dr. med. Schmitz-Urban!</p>
-<p> </p>
-<p>"Schlank ohne Diät" ist ein 8-wöchiges Online-Programm, das es den Teilnehmern ermöglicht, auf gesunde Art nachhaltig ihr Wohlfühlgewicht zu erreichen.</p>
-<p> </p>
-<p>Dies alles ohne Hunger, Quälerei oder Jojo-Effekt.</p>
-<p> </p>
-<p>Das Programm ist vom Arzt und Ernährungsexperten Ingo Schmitz-Urban entwickelt worden: In diesem Konzept hat er die wirksamsten Prinzipien und Strategien als Destillat seiner jahrelangen Arbeit mit Patienten und Klienten zusammen gebracht.</p>
-<p> </p>
-<p>Und das Beste: Das Programm ist bei den gesetzlichen Krankenkassen zertifiziert, sodass die Teilnehmer nach Kursabschluss den Großteil oder sogar die kompletten Teilnahmegebühren zurück erstattet bekommen!</p>
-<p> </p>
-<p>Jetzt registrieren!</p>
+**Vendor's marketplace description:** Partizipiere jetzt mit der Bewerbung des Erfolgsprogramms "Schlank ohne Diät" von Dr. med. Schmitz-Urban! "Schlank ohne Diät" ist ein 8-wöchiges Online-Programm, das es den Teilnehmern ermöglicht, auf gesunde Art nachhaltig ihr Wohlfühlgewicht zu erreichen. Dies alles ohne Hunger, Quälerei oder Jojo-Effekt. Das Programm ist vom Arzt und Ernährungsexperten Ingo Schmitz-Urban entwickelt worden: In diesem Konzept hat er die wirksamsten Prinzipien und Strategien als Destillat seiner jahrelangen Arbeit mit Patienten und Klienten zusammen gebracht. Und das Beste: Das Programm ist bei den gesetzlichen Krankenkassen zertifiziert, sodass die Teilnehmer nach Kursabschluss den Großteil oder sogar die kompletten Teilnahmegebühren zurück erstattet bekommen! Jetzt registrieren!
 
 ## 2. Links
 

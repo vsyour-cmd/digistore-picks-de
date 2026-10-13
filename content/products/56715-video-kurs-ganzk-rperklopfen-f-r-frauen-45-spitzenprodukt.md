@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hallo lieber Affiliate, wenn du dieses Produkt bewirbst, dann kannst du auf satte </p>
-<h2><strong>50% Provision pro Verkauf</strong></h2>
-<p>rechnen.</p>
-<p><strong>Zu jeder Zeit bin ich für dich per Email aber auch per WhatsApp 0034-649393395 erreichbar und erstelle auf Wunsch auch gerne individuelle Werbemittel.</strong></p>
-<p>Besuche über den Link unten auch gerne meine <strong>Affiliate Supportseite</strong>, denn dort findest du jede Menge sehr gute und <strong>attraktive Werbemittel:</strong> Vorlage-Newsletter, Werbebanner in allen Größen,...</p>
-<p><strong>Das bewirbst du:</strong></p>
-<p>Dieser Qigong-Kurs ist hilfreich</p>
-<ul>
-<li>um im ganzen Körper die Durchblutung anzuregen</li>
-<li>Verspannungen zu lösen</li>
-<li>Ruhe ins Nervensystem zu bringen</li>
-<li>bei hormonellen Beschwerden: Wechseljahre, Schmerzen, Osteoporose...</li>
-<li>um mehr Energie aufzubauen </li>
-</ul>
-<p><strong>Zielgruppe:</strong></p>
-<p>Frauen <strong>45+</strong>, welche aktiv für ihr Wohlbefinden sorgen und wieder ihre wohlverdiente <strong>körperliche Gesundheit und emotionale Ausgeglichenheit mit Qigong zurückerobern</strong> wollen.</p>
+**Vendor's marketplace description:** Hallo lieber Affiliate, wenn du dieses Produkt bewirbst, dann kannst du auf satte 50% Provision pro Verkauf rechnen. Zu jeder Zeit bin ich für dich per Email aber auch per WhatsApp 0034-649393395 erreichbar und erstelle auf Wunsch auch gerne individuelle Werbemittel. Besuche über den Link unten auch gerne meine Affiliate Supportseite , denn dort findest du jede Menge sehr gute und attraktive Werbemittel: Vorlage-Newsletter, Werbebanner in allen Größen,... Das bewirbst du: Dieser Qigong-Kurs ist hilfreich um im ganzen Körper die Durchblutung anzuregen Verspannungen zu lösen Ruhe ins Nervensystem zu bringen bei hormonellen Beschwerden: Wechseljahre, Schmerzen, Osteoporose... um mehr Energie aufzubauen Zielgruppe: Frauen 45+ , welche aktiv für ihr Wohlbefinden sorgen und wieder ihre wohlverdiente körperliche Gesundheit und emotionale Ausgeglichenheit mit Qigong zurückerobern wollen.
 
 ## 2. Links
 

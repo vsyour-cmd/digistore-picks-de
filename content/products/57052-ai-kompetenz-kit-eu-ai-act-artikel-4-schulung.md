@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Pflichtthema mit Rückenwind: Seit Februar 2025 müssen Unternehmen ihre<br />Mitarbeitenden nach EU AI Act Artikel 4 in KI-Kompetenz schulen — die<br />behördliche Durchsetzung startet August 2026. Jedes KMU ist betroffen.</p>
-<p>Das AI-Kompetenz-Kit ist das schlüsselfertige Komplettpaket: 6 Online-Module<br />(je ~25 Min., Video + Quiz), fertige AI-Use-Policy-Vorlage, Doku-Vorlagen und<br />Teilnahmezertifikat — Einmalkauf statt Abo.</p>
-<p>Ideal für Affiliates mit KMU-Kontakt (IT-Dienstleister, externe<br />Datenschutzbeauftragte, Unternehmensberater): Du empfiehlst eine fertige,<br />rechtssichere Lösung an deinen eigenen Bestand und verdienst 40 % Provision<br />pro Verkauf (Team-10 ~80 €, Team-25 ~160 €).</p>
-<p>Preise: Einzel 79 € · Team-10 199 € · Team-25 399 € (netto, Einmalkauf).<br />14 Tage Widerrufsrecht über Digistore24.</p>
+**Vendor's marketplace description:** Pflichtthema mit Rückenwind: Seit Februar 2025 müssen Unternehmen ihre Mitarbeitenden nach EU AI Act Artikel 4 in KI-Kompetenz schulen — die behördliche Durchsetzung startet August 2026. Jedes KMU ist betroffen. Das AI-Kompetenz-Kit ist das schlüsselfertige Komplettpaket: 6 Online-Module (je ~25 Min., Video + Quiz), fertige AI-Use-Policy-Vorlage, Doku-Vorlagen und Teilnahmezertifikat — Einmalkauf statt Abo. Ideal für Affiliates mit KMU-Kontakt (IT-Dienstleister, externe Datenschutzbeauftragte, Unternehmensberater): Du empfiehlst eine fertige, rechtssichere Lösung an deinen eigenen Bestand und verdienst 40 % Provision pro Verkauf (Team-10 ~80 €, Team-25 ~160 €). Preise: Einzel 79 € · Team-10 199 € · Team-25 399 € (netto, Einmalkauf). 14 Tage Widerrufsrecht über Digistore24.
 
 ## 2. Links
 

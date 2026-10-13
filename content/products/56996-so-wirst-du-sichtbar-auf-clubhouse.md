@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Reichweite aufbauen, eine Stimmen-Marke etablieren und als Experte wahrgenommen werden</strong></p>
-<p>Auf Clubhouse zählt keine Filterfunktion und kein perfektes Bild – hier entscheidet allein deine Stimme, ob Menschen wiederkommen. Dieses E-Book zeigt dir, wie du aus einem stillen Zuhörer eine gefragte Stimme wirst, der Hunderte von Menschen in Live-Rooms lauschen. Du lernst, wie du dich auf der Bühne profilierst, wie Moderatoren-Rollen und eigene Clubs deine Reichweite exponentiell steigern und wie du über wiederkehrende Talks einen unverwechselbaren Expertenstatus aufbaust. Dazu: wie du Gespräche in Echtzeit für Kooperationsanfragen nutzt, dein persönliches Marken-Profil schärfst und durch Repurposing aus jedem Room sichtbaren Content für andere Plattformen erzeugst.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Vom Zuhörer zum regelmäßigen Speaker – der Weg auf die Bühne</li>
-<li>Moderations-Skills, die anderen Moderatoren auffallen und zu Einladungen führen</li>
-<li>Clubs als Reichweiten-Multiplikator strategisch nutzen</li>
-<li>Wiederkehrende Talk-Formate als Markenzeichen etablieren</li>
-<li>In Echtzeit netzwerken: Kooperationen entstehen im Room</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Reichweite aufbauen, eine Stimmen-Marke etablieren und als Experte wahrgenommen werden Auf Clubhouse zählt keine Filterfunktion und kein perfektes Bild – hier entscheidet allein deine Stimme, ob Menschen wiederkommen. Dieses E-Book zeigt dir, wie du aus einem stillen Zuhörer eine gefragte Stimme wirst, der Hunderte von Menschen in Live-Rooms lauschen. Du lernst, wie du dich auf der Bühne profilierst, wie Moderatoren-Rollen und eigene Clubs deine Reichweite exponentiell steigern und wie du über wiederkehrende Talks einen unverwechselbaren Expertenstatus aufbaust. Dazu: wie du Gespräche in Echtzeit für Kooperationsanfragen nutzt, dein persönliches Marken-Profil schärfst und durch Repurposing aus jedem Room sichtbaren Content für andere Plattformen erzeugst. Das steckt drin: Vom Zuhörer zum regelmäßigen Speaker – der Weg auf die Bühne Moderations-Skills, die anderen Moderatoren auffallen und zu Einladungen führen Clubs als Reichweiten-Multiplikator strategisch nutzen Wiederkehrende Talk-Formate als Markenzeichen etablieren In Echtzeit netzwerken: Kooperationen entstehen im Room Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

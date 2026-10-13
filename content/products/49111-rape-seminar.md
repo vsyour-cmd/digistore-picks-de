@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Geschichte und Tradition:</strong> Wir werden die historische und kulturelle Bedeutung von Rape erkunden, von ihren Ursprüngen in den alten Traditionen der indigenen Völker des Amazonasbeckens bis hin zu ihrer heutigen Verwendung als spirituelles Werkzeug.</p>
-<p> </p>
-<p><strong>Applikation und Intention: </strong>Du wirst lernen, wie Rape traditionell angewendet wird, sowie die tiefe spirituelle Intention hinter ihrer Verwendung für Reinigung, Klärung und spirituelles Wachstum verstehen.</p>
-<p> </p>
-<p><strong>Verschiedene Sorten: </strong>Du wirst die Vielfalt der Rape-Sorten kennenlernen und verstehen, wie jede Sorte ihre eigenen einzigartigen Eigenschaften und Wirkungen hat.</p>
-<p> </p>
-<p><strong>Pustechniken: </strong>Wir werden die wichtigsten Pustechniken praktisch üben, um dir zu zeigen, wie du Rapé sicher und effektiv anwenden kannst, um das bestmögliche Ergebnis zu erzielen.</p>
-<p> </p>
-<p><strong>Risiken:</strong> Ein sehr wichtiger Punkt um jegliches Risiko zu vermindern wenn man mit dem Spirit von Rapé arbeitet.</p>
-<p> </p>
-<p>Geführte Praxis: Abschließend werden wir eine geführte Praxis durchführen, um dir dabei zu helfen, deine eigene Erfahrung mit Rapé zu vertiefen und die transformative Kraft dieser heiligen Pflanzenmedizin zu erfahren.</p>
+**Vendor's marketplace description:** Geschichte und Tradition: Wir werden die historische und kulturelle Bedeutung von Rape erkunden, von ihren Ursprüngen in den alten Traditionen der indigenen Völker des Amazonasbeckens bis hin zu ihrer heutigen Verwendung als spirituelles Werkzeug. Applikation und Intention: Du wirst lernen, wie Rape traditionell angewendet wird, sowie die tiefe spirituelle Intention hinter ihrer Verwendung für Reinigung, Klärung und spirituelles Wachstum verstehen. Verschiedene Sorten: Du wirst die Vielfalt der Rape-Sorten kennenlernen und verstehen, wie jede Sorte ihre eigenen einzigartigen Eigenschaften und Wirkungen hat. Pustechniken: Wir werden die wichtigsten Pustechniken praktisch üben, um dir zu zeigen, wie du Rapé sicher und effektiv anwenden kannst, um das bestmögliche Ergebnis zu erzielen. Risiken: Ein sehr wichtiger Punkt um jegliches Risiko zu vermindern wenn man mit dem Spirit von Rapé arbeitet. Geführte Praxis: Abschließend werden wir eine geführte Praxis durchführen, um dir dabei zu helfen, deine eigene Erfahrung mit Rapé zu vertiefen und die transformative Kraft dieser heiligen Pflanzenmedizin zu erfahren.
 
 ## 2. Links
 

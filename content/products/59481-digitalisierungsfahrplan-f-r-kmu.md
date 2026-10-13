@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Digitalisierungs-Fahrplan für KMU ist eine kompakte PDF-Broschüre (ca. 26 Seiten) für Inhaberinnen und Inhaber kleiner und mittlerer Unternehmen ohne IT- oder Steuervorwissen.</p>
-<p>Inhalt:<br />- Selbstcheck mit Punktesystem zur Standortbestimmung<br />- Vier-Schritte-Methode: Bestandsaufnahme, Zielbild, SMART-Ziele, Maßnahmenplan<br />- Prozesse ohne Spezialsoftware sichtbar machen<br />- Verständlicher Kurzüberblick zu GoBD, E-Rechnung, Datenschutz und NIS2<br />- Schnellcheck-Tabelle und ausfüllbarer 90-Tage-Fahrplan<br />- Glossar</p>
-<p>Preis: 29,90 EUR inkl. MwSt., Sofort-Download als PDF. Es gilt das gesetzliche 14-Tage-Widerrufsrecht.</p>
-<p>Wichtig für die Bewerbung: Die Broschüre ist eine praxisnahe Orientierungshilfe und ersetzt keine individuelle Steuer- oder Rechtsberatung. Rechtsstand: August 2026. Bitte keine Garantien, Erfolgsversprechen, erfundenen Zahlen oder Bewertungen verwenden, keine Aussagen zum Ausschluss des Widerrufs und keine Rabatt- oder Knappheitsaktionen. Empfehlungen mit Affiliate-Link bitte als Werbung kennzeichnen.</p>
-<p>Verkaufsseite: https://digitalisierungsfahrplan-kmu.klarer-kurs.online/</p>
+**Vendor's marketplace description:** Der Digitalisierungs-Fahrplan für KMU ist eine kompakte PDF-Broschüre (ca. 26 Seiten) für Inhaberinnen und Inhaber kleiner und mittlerer Unternehmen ohne IT- oder Steuervorwissen. Inhalt: - Selbstcheck mit Punktesystem zur Standortbestimmung - Vier-Schritte-Methode: Bestandsaufnahme, Zielbild, SMART-Ziele, Maßnahmenplan - Prozesse ohne Spezialsoftware sichtbar machen - Verständlicher Kurzüberblick zu GoBD, E-Rechnung, Datenschutz und NIS2 - Schnellcheck-Tabelle und ausfüllbarer 90-Tage-Fahrplan - Glossar Preis: 29,90 EUR inkl. MwSt., Sofort-Download als PDF. Es gilt das gesetzliche 14-Tage-Widerrufsrecht. Wichtig für die Bewerbung: Die Broschüre ist eine praxisnahe Orientierungshilfe und ersetzt keine individuelle Steuer- oder Rechtsberatung. Rechtsstand: August 2026. Bitte keine Garantien, Erfolgsversprechen, erfundenen Zahlen oder Bewertungen verwenden, keine Aussagen zum Ausschluss des Widerrufs und keine Rabatt- oder Knappheitsaktionen. Empfehlungen mit Affiliate-Link bitte als Werbung kennzeichnen. Verkaufsseite: https://digitalisierungsfahrplan-kmu.klarer-kurs.online/
 
 ## 2. Links
 

@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:left;">Der <a title="Happiness Booster" href="https://www.yes-onlinekurs.ch/lp/happiness-booster/" target="_blank" rel="noreferrer noopener"><strong>Happiness Booster</strong></a> ist ein 21-Tage-Audio-Training für Kinder und Jugendliche von 11 - 16 Jahren.</p>
-<p style="text-align:left;">Lade dich mit Kraft und Positivität auf, entwickle neue Gewohnheiten und werde dein eigener <strong>Glückscoach!</strong></p>
-<p>Du findest in diesem Kurs:</p>
-<div>
-<ul>
-<li>Entspannungstricks, um Stress abzubauen und dich besser zu konzentrieren</li>
-<li>Kreative Gestaltungsindeen für innere Ruhe, Gelassenheit und erholsamen Schlaf</li>
-<li>Positive Affirmationen, um deine Ziele zu erreichen</li>
-<li>Notfalltipps, mit denen du dich gleich besser fühlst</li>
-<li>Geleitete Meditationen für mehr Selbstvertrauen</li>
-<li>2 Yoga Specials für Energie und Ausgleich im Schulalltag</li>
-<li>Hilfestellungen, wie du für deine Freundinnen und Freunde in schwierigen Situationen da sein kannst</li>
-<li>Rezepte für einen extra Schub Glück</li>
-</ul>
-<h4 style="text-align:left;"><span style="background-color:#ff0000;color:#ccffff;"><a style="background-color:#ff0000;color:#ccffff;" href="https://www.yes-onlinekurs.ch/lp/support-fur-partnerinnen-1/" target="_blank" rel="noreferrer noopener"><span style="color:#00ffff;">Alle Infos zum Partnerprogramm</span></a></span></h4>
-</div>
-<div> </div>
+**Vendor's marketplace description:** Der Happiness Booster ist ein 21-Tage-Audio-Training für Kinder und Jugendliche von 11 - 16 Jahren. Lade dich mit Kraft und Positivität auf, entwickle neue Gewohnheiten und werde dein eigener Glückscoach! Du findest in diesem Kurs: Entspannungstricks, um Stress abzubauen und dich besser zu konzentrieren Kreative Gestaltungsindeen für innere Ruhe, Gelassenheit und erholsamen Schlaf Positive Affirmationen, um deine Ziele zu erreichen Notfalltipps, mit denen du dich gleich besser fühlst Geleitete Meditationen für mehr Selbstvertrauen 2 Yoga Specials für Energie und Ausgleich im Schulalltag Hilfestellungen, wie du für deine Freundinnen und Freunde in schwierigen Situationen da sein kannst Rezepte für einen extra Schub Glück Alle Infos zum Partnerprogramm
 
 ## 2. Links
 

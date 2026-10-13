@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#800080;"><strong>KLASSE SACHEN ZUM KASSE MACHEN</strong></span></p>
-<p>Der Klassiker und Bestseller ist endlich wieder da! Generalüberholt und in der 16. Auflage enhält er auf rund 150 Seiten über 80 Themen, die seinem Titel alle Ehre machen.</p>
-<p>Band 2 macht da weiter. Denn wenn Sie im Leben etwas erreichen wollen, müssen Sie endlich für sich selber arbeiten! Werden Sie Ihr eigener Chef! Wie und womit? Dieser Band 2 verrät Ihnen über 50 weitere Konzepte, mit denen es gelingen wird.</p>
-<p>NEU: Band 3 enthält über 77 Tipps zum Geldverdienen im Internet.</p>
-<p>Insgesamt rund 360 Seiten Lesestoff.</p>
-<p> </p>
-<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
-<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
-<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<span style="color:#cc99ff;"><strong><span style="color:#000000;">J</span>eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</strong></span>“.</p>
-<p>2 einfache Schritte:</p>
-<ol>
-<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html</a></span> (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge")</li>
-<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
-</ol>
-<p><em><strong> </strong></em></p>
+**Vendor's marketplace description:** KLASSE SACHEN ZUM KASSE MACHEN Der Klassiker und Bestseller ist endlich wieder da! Generalüberholt und in der 16. Auflage enhält er auf rund 150 Seiten über 80 Themen, die seinem Titel alle Ehre machen. Band 2 macht da weiter. Denn wenn Sie im Leben etwas erreichen wollen, müssen Sie endlich für sich selber arbeiten! Werden Sie Ihr eigener Chef! Wie und womit? Dieser Band 2 verrät Ihnen über 50 weitere Konzepte, mit denen es gelingen wird. NEU: Band 3 enthält über 77 Tipps zum Geldverdienen im Internet. Insgesamt rund 360 Seiten Lesestoff. Möchten Sie ein Ansichtsexemplar? Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz. Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „ J eden T ag R ei*cher “. 2 einfache Schritte: JTR gratis bestellen auf https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge") Email mit Ihrem Ebook-Wunsch an service@big-benn-books.com
 
 ## 2. Links
 

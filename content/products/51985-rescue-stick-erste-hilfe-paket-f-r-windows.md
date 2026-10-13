@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>SecuPerts Rescue Stick – Ihr digitaler Notfallhelfer!</strong></p>
-<p>Plötzlich startet Ihr Computer nicht mehr? Viren, Malware oder ein Windows-Fehler machen Ihnen das Leben schwer? Mit dem SecuPerts Rescue Stick sind Sie auf jede Situation vorbereitet! Unser USB-Notfall-Stick hilft Ihnen, Ihre Daten zu sichern, Viren zu entfernen und Ihren PC wiederherzustellen – schnell, sicher und einfach.</p>
-<p>Kompatibel mit Windows XP, 7, 8, 10, 11 &amp; Linux</p>
-<p>- Sichert und rettet Ihre wertvollen Daten</p>
-<p>- Erkennt und entfernt Viren &amp; Schadsoftware</p>
-<p>- Ermöglicht den Zugriff auf gesperrte PCs</p>
-<p>- Löscht Daten unwiderruflich bei Bedarf</p>
-<p>Lieferung erfolgt umgehend per Download und die Software muss auf einem USB Stick installiert werden (dieser wird nicht mitgeliefert).</p>
+**Vendor's marketplace description:** SecuPerts Rescue Stick – Ihr digitaler Notfallhelfer! Plötzlich startet Ihr Computer nicht mehr? Viren, Malware oder ein Windows-Fehler machen Ihnen das Leben schwer? Mit dem SecuPerts Rescue Stick sind Sie auf jede Situation vorbereitet! Unser USB-Notfall-Stick hilft Ihnen, Ihre Daten zu sichern, Viren zu entfernen und Ihren PC wiederherzustellen – schnell, sicher und einfach. Kompatibel mit Windows XP, 7, 8, 10, 11 & Linux - Sichert und rettet Ihre wertvollen Daten - Erkennt und entfernt Viren & Schadsoftware - Ermöglicht den Zugriff auf gesperrte PCs - Löscht Daten unwiderruflich bei Bedarf Lieferung erfolgt umgehend per Download und die Software muss auf einem USB Stick installiert werden (dieser wird nicht mitgeliefert).
 
 ## 2. Links
 

@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Das Stammkunden-Prinzip im Affiliate Marketing"</strong></p>
-<p>Was wäre, wenn ein einziger gewonnener Kunde dich über Jahre bezahlt? Das ist das Stammkunden-Prinzip. Erfahre, wie dauerhafte Provisionen funktionieren, was ein Kunde langfristig wert ist und wie du Kunden gewinnst, die bleiben.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema: Affiliate Marketing &amp; wiederkehrende Provisionen</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Das Stammkunden-Prinzip einfach und ehrlich verstehen</li>
-<li>Den langfristigen Wert eines einzigen Kunden einschätzen</li>
-<li>Echte dauerhafte Provision von begrenzten Provisionen unterscheiden</li>
-<li>Programme mit echtem Dauerprovisions-Modell kennenlernen</li>
-<li>Kunden gewinnen, die lange bleiben – über Vertrauen</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> angehende und aktive Affiliates, Blogger, Newsletter- und Social-Media-Betreiber, Online-Business-Interessierte</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Das Stammkunden-Prinzip im Affiliate Marketing" Was wäre, wenn ein einziger gewonnener Kunde dich über Jahre bezahlt? Das ist das Stammkunden-Prinzip. Erfahre, wie dauerhafte Provisionen funktionieren, was ein Kunde langfristig wert ist und wie du Kunden gewinnst, die bleiben. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema: Affiliate Marketing & wiederkehrende Provisionen Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Das Stammkunden-Prinzip einfach und ehrlich verstehen Den langfristigen Wert eines einzigen Kunden einschätzen Echte dauerhafte Provision von begrenzten Provisionen unterscheiden Programme mit echtem Dauerprovisions-Modell kennenlernen Kunden gewinnen, die lange bleiben – über Vertrauen Für deine Zielgruppe: angehende und aktive Affiliates, Blogger, Newsletter- und Social-Media-Betreiber, Online-Business-Interessierte Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

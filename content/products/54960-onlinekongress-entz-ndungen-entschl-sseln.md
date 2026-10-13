@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Onlinekongress Entzündungen entschlüsseln - Für ein Leben in Energie, Leichtigkeit und Gesundheit.</p>
-<p><strong>Erlebe 18 Expertinnen und Experten,<br />die dir praxisnah zeigen,<br /></strong><strong>wie wir unsere Gesundheit durch die<br />richtige Ernährung und Lebensweise bewusst<br />gestalten können </strong><strong>und welche Rolle<br />stille, chronische Entzündungen dabei spielen</strong></p>
-<div>
-<p><strong>und entdecke deinen neuen Blick auf Gesundheit:</strong></p>
-</div>
-<div>
-<ul>
-<li>Erkenne die <strong>verborgenen Ursachen</strong> von <strong>Erschöpfung, Schmerzen </strong>und <strong>Krankheiten</strong> – und wie du sie mit <strong>einfachen Schritten</strong> auflösen kannst </li>
-<li>Entdecke, wie <strong>gezielte Ernährung</strong> und <strong>kleine Lebensstilveränderungen</strong> Entzündungen stoppen und dir <strong>neue Energie</strong> schenken können </li>
-<li>Lerne <strong>praxiserprobte Strategien</strong> kennen, die <strong>Genuss</strong>, <strong>Vitalität </strong>und <strong>innere Balance</strong> dauerhaft in dein Leben bringen </li>
-</ul>
-</div>
+**Vendor's marketplace description:** Onlinekongress Entzündungen entschlüsseln - Für ein Leben in Energie, Leichtigkeit und Gesundheit. Erlebe 18 Expertinnen und Experten, die dir praxisnah zeigen, wie wir unsere Gesundheit durch die richtige Ernährung und Lebensweise bewusst gestalten können und welche Rolle stille, chronische Entzündungen dabei spielen und entdecke deinen neuen Blick auf Gesundheit: Erkenne die verborgenen Ursachen von Erschöpfung, Schmerzen und Krankheiten – und wie du sie mit einfachen Schritten auflösen kannst Entdecke, wie gezielte Ernährung und kleine Lebensstilveränderungen Entzündungen stoppen und dir neue Energie schenken können Lerne praxiserprobte Strategien kennen, die Genuss , Vitalität und innere Balance dauerhaft in dein Leben bringen
 
 ## 2. Links
 

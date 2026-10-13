@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In 3 Monaten zu mehr Energie, weniger Schmerzen und einem gesunden Körper. <strong>Mit Ernährung, Naturkraft</strong> &amp; einfachen Alltagsschritten <strong>ohne Chemie.</strong></p>
-<p> </p>
-<div>
-<ul>
-<li>Sofort umsetzbar: Alles ist praxisnah, ohne komplizierte oder teure Methoden. Viele Heilkräuter findest du kostenlos am Wegesrand oder kannst sie gezielt in Kapselform zu Dir nehmen.</li>
-<li>Ganzheitlich: Wir kombinieren Ernährung, Lifestyle und Naturkraft – so wie dein Körper als Ganzes funktioniert.</li>
-<li>Klarer Fahrplan: Du weißt immer, was der nächste Schritt ist – kein Rätselraten mehr.</li>
-<li>Erprobt: Das sind die Strategien, die ich seit Jahren erfolgreich in meiner Praxis anwende – an tausenden Patienten und an mir selbst.</li>
-<li>Fundiert: Du verstehst nicht nur das „Was“, sondern auch das „Warum“ – so kannst du selbstbestimmt entscheiden.</li>
-<li>Schriftlich: Die Kursinhalte bekommst Du in kompakter Form schriftlich zum Ausdrucken.</li>
-</ul>
-<p> </p>
-<p>✅ Bonus-Kapitel: "Smart Shopping: Wo Bio Sinn macht und wo du getrost sparen kannst"</p>
-</div>
+**Vendor's marketplace description:** In 3 Monaten zu mehr Energie, weniger Schmerzen und einem gesunden Körper. Mit Ernährung, Naturkraft & einfachen Alltagsschritten ohne Chemie. Sofort umsetzbar: Alles ist praxisnah, ohne komplizierte oder teure Methoden. Viele Heilkräuter findest du kostenlos am Wegesrand oder kannst sie gezielt in Kapselform zu Dir nehmen. Ganzheitlich: Wir kombinieren Ernährung, Lifestyle und Naturkraft – so wie dein Körper als Ganzes funktioniert. Klarer Fahrplan: Du weißt immer, was der nächste Schritt ist – kein Rätselraten mehr. Erprobt: Das sind die Strategien, die ich seit Jahren erfolgreich in meiner Praxis anwende – an tausenden Patienten und an mir selbst. Fundiert: Du verstehst nicht nur das „Was“, sondern auch das „Warum“ – so kannst du selbstbestimmt entscheiden. Schriftlich: Die Kursinhalte bekommst Du in kompakter Form schriftlich zum Ausdrucken. ✅ Bonus-Kapitel: "Smart Shopping: Wo Bio Sinn macht und wo du getrost sparen kannst"
 
 ## 2. Links
 

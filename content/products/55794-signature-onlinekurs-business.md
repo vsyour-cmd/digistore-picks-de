@@ -41,41 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Viele haben ein gutes Angebot – aber verkaufen es „nett“ statt überzeugend.<br />Das</p>
-<p>Viele haben ein gutes Angebot – aber verkaufen es „nett“ statt überzeugend.<br />Das <strong>Signature-Onlinekurs-Business</strong> zeigt, wie du <strong>VSLs und Webinare</strong> so aufbaust, dass Menschen nicht nur zuschauen, sondern kaufen.</p>
-<p>Enthalten sind:</p>
-<ul>
-<li>
-<p>klare Video- und Webinar-Strukturen (roter Faden)</p>
-</li>
-<li>
-<p>„Fill-in-the-Blank“-Folienvorlagen</p>
-</li>
-<li>
-<p>Prompts/Skripte für Headlines, Story, Offer, Einwandbehandlung</p>
-</li>
-<li>
-<p>fertige Frameworks, um aus einem Angebot ein Premium-Asset zu machen</p>
-</li>
-</ul>
-<p>Für Coaches/Trainer/Berater, die mehr Umsatz pro Kunde wollen und ein System suchen, das sie sofort umsetzen können.</p>
-<p> zeigt, wie du <strong>VSLs und Webinare</strong> so aufbaust, dass Menschen nicht nur zuschauen, sondern kaufen.</p>
-<p>Enthalten sind:</p>
-<ul>
-<li>
-<p>klare Video- und Webinar-Strukturen (roter Faden)</p>
-</li>
-<li>
-<p>„Fill-in-the-Blank“-Folienvorlagen</p>
-</li>
-<li>
-<p>Prompts/Skripte für Headlines, Story, Offer, Einwandbehandlung</p>
-</li>
-<li>
-<p>fertige Frameworks, um aus einem Angebot ein Premium-Asset zu machen</p>
-</li>
-</ul>
-<p>Für Coaches/Trainer/Berater, die mehr Umsatz pro Kunde wollen und ein System suchen, das sie sofort umsetzen können.</p>
+**Vendor's marketplace description:** Viele haben ein gutes Angebot – aber verkaufen es „nett“ statt überzeugend. Das Viele haben ein gutes Angebot – aber verkaufen es „nett“ statt überzeugend. Das Signature-Onlinekurs-Business zeigt, wie du VSLs und Webinare so aufbaust, dass Menschen nicht nur zuschauen, sondern kaufen. Enthalten sind: klare Video- und Webinar-Strukturen (roter Faden) „Fill-in-the-Blank“-Folienvorlagen Prompts/Skripte für Headlines, Story, Offer, Einwandbehandlung fertige Frameworks, um aus einem Angebot ein Premium-Asset zu machen Für Coaches/Trainer/Berater, die mehr Umsatz pro Kunde wollen und ein System suchen, das sie sofort umsetzen können. zeigt, wie du VSLs und Webinare so aufbaust, dass Menschen nicht nur zuschauen, sondern kaufen. Enthalten sind: klare Video- und Webinar-Strukturen (roter Faden) „Fill-in-the-Blank“-Folienvorlagen Prompts/Skripte für Headlines, Story, Offer, Einwandbehandlung fertige Frameworks, um aus einem Angebot ein Premium-Asset zu machen Für Coaches/Trainer/Berater, die mehr Umsatz pro Kunde wollen und ein System suchen, das sie sofort umsetzen können.
 
 ## 2. Links
 

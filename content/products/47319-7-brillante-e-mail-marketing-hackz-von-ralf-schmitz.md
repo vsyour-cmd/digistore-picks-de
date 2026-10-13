@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Affiliates aufgepasst:<br /><br /></strong>Mit diesem Produkt startet ein Funnel mit Upsells und einigen E-Mails zum nachfassen die Dir schon im ersten Schritt Provisionen bis zu 152€ einbringen können. Im Anschluss kommt noch ein Abo da ca. 55% der Käufer in Anspruch nehmen. Hier winken Dir nochmal zusätzlich Lifetime Provisionen.</p>
-<p>---</p>
-<p>Brandneuer PDF Report mit 7 brillanten E-Mail Marketing Hackz die Dein E-Mail Marketing und Deine Newsletter in eine andere Dimension katapultieren. <strong>Öffnungsraten und Klicks werden explodieren.</strong></p>
-<p>Jetzt kurze Zeit für nur 1€ statt regulär 59,90€</p>
+**Vendor's marketplace description:** Affiliates aufgepasst: Mit diesem Produkt startet ein Funnel mit Upsells und einigen E-Mails zum nachfassen die Dir schon im ersten Schritt Provisionen bis zu 152€ einbringen können. Im Anschluss kommt noch ein Abo da ca. 55% der Käufer in Anspruch nehmen. Hier winken Dir nochmal zusätzlich Lifetime Provisionen. --- Brandneuer PDF Report mit 7 brillanten E-Mail Marketing Hackz die Dein E-Mail Marketing und Deine Newsletter in eine andere Dimension katapultieren. Öffnungsraten und Klicks werden explodieren. Jetzt kurze Zeit für nur 1€ statt regulär 59,90€
 
 ## 2. Links
 

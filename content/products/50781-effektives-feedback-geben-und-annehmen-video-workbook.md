@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Effektives Feedback ist der Schlüssel zu einer besseren Zusammenarbeit und persönlichen Entwicklung.</p>
-<p>In diesem kompakten Paket erhältst Du:</p>
-<ol>
-<li>Ein 30-minütiges Video, das Dir die Grundlagen und Techniken vermittelt, um Feedback klar und lösungsorientiert zu geben.</li>
-<li>Ein Workbook, das Dich mit praktischen Übungen und Reflexionsfragen dabei unterstützt, das Gelernte direkt umzusetzen.</li>
-</ol>
-<p>Das lernst Du:</p>
-<ul>
-<li>Warum Feedback wichtig ist und wie Du es effektiv einsetzt.</li>
-<li>Wie Du konstruktive Kritik klar und respektvoll formulierst.</li>
-<li>Tipps, wie Du Feedback offen annimmst und daraus wächst.</li>
-</ul>
-<p>Für wen geeignet:</p>
-<ul>
-<li>Führungskräfte und Teammitglieder, die ihre Kommunikation verbessern möchten.</li>
-<li>Alle, die eine offene Feedback-Kultur schaffen wollen.</li>
-</ul>
-<p>Preis: Nur 7,99 €</p>
+**Vendor's marketplace description:** Effektives Feedback ist der Schlüssel zu einer besseren Zusammenarbeit und persönlichen Entwicklung. In diesem kompakten Paket erhältst Du: Ein 30-minütiges Video, das Dir die Grundlagen und Techniken vermittelt, um Feedback klar und lösungsorientiert zu geben. Ein Workbook, das Dich mit praktischen Übungen und Reflexionsfragen dabei unterstützt, das Gelernte direkt umzusetzen. Das lernst Du: Warum Feedback wichtig ist und wie Du es effektiv einsetzt. Wie Du konstruktive Kritik klar und respektvoll formulierst. Tipps, wie Du Feedback offen annimmst und daraus wächst. Für wen geeignet: Führungskräfte und Teammitglieder, die ihre Kommunikation verbessern möchten. Alle, die eine offene Feedback-Kultur schaffen wollen. Preis: Nur 7,99 €
 
 ## 2. Links
 

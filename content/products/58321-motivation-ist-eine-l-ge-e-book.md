@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Keine Motivation? Dieses E-Book zeigt, wie man auch ohne Motivation ins Handeln kommt – mit einem konkreten System statt Willenskraft-Kämpfen. Themen: Mikro-Gewohnheiten, Umgebungsdesign, Disziplin als System, 30-Tage-Umsetzungsprogramm. Zielgruppe: alle, die sich ständig etwas vornehmen und an fehlendem Antrieb scheitern. Starke Nachfrage in den Nischen Produktivität, Persönlichkeitsentwicklung, Selbstorganisation und Coaching.</p>
+**Vendor's marketplace description:** Keine Motivation? Dieses E-Book zeigt, wie man auch ohne Motivation ins Handeln kommt – mit einem konkreten System statt Willenskraft-Kämpfen. Themen: Mikro-Gewohnheiten, Umgebungsdesign, Disziplin als System, 30-Tage-Umsetzungsprogramm. Zielgruppe: alle, die sich ständig etwas vornehmen und an fehlendem Antrieb scheitern. Starke Nachfrage in den Nischen Produktivität, Persönlichkeitsentwicklung, Selbstorganisation und Coaching.
 
 ## 2. Links
 

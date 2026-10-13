@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>28 Neurostreams™ für die Steigerung und Festigung der mentalen Performance.</p>
-<ul>
-<li>5 mal IQ 7000</li>
-<li>5 mal Kognition Munition</li>
-<li>5 mal HyperbrainPower</li>
-<li>3 mal PureBeat-Sessions</li>
-<li>10 mal Brainstorms</li>
-</ul>
-<p><strong>Sofort-Download.</strong></p>
-<p>Alle Neurostreams™ sind jederzeit auf <strong>unbegrenzt viele</strong> Geräte übertragbar und können <strong>beliebig oft</strong> angehört werden!</p>
-<p>Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux.</p>
-<p>Dateigröße: ca. 1 GB</p>
-<p><strong>2 Jahre </strong>Produktsupport inklusive.</p>
+**Vendor's marketplace description:** 28 Neurostreams™ für die Steigerung und Festigung der mentalen Performance. 5 mal IQ 7000 5 mal Kognition Munition 5 mal HyperbrainPower 3 mal PureBeat-Sessions 10 mal Brainstorms Sofort-Download. Alle Neurostreams™ sind jederzeit auf unbegrenzt viele Geräte übertragbar und können beliebig oft angehört werden! Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux. Dateigröße: ca. 1 GB 2 Jahre Produktsupport inklusive.
 
 ## 2. Links
 

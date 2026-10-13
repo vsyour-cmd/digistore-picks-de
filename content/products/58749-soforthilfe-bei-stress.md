@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>„Soforthilfe bei Stress“ ist ein praxisnahes PDF-E-Book für Menschen, die sich im Alltag häufig angespannt, überfordert oder innerlich unruhig fühlen.</p>
-<p>Der Ratgeber vermittelt verständliche Impulse, praktische Übungen und alltagstaugliche Möglichkeiten, um akute Stressmomente bewusster wahrzunehmen, die innere Anspannung zu reduzieren und wieder mehr Ruhe und Klarheit zu finden.</p>
-<p>Das E-Book unterstützt dabei, persönliche Stressauslöser besser zu erkennen, rechtzeitig gegenzusteuern und hilfreiche Strategien für einen gelasseneren Umgang mit belastenden Situationen zu entwickeln.</p>
-<p>Nach erfolgreicher Bestellung wird das E-Book sofort digital als PDF-Datei bereitgestellt. Der Verkaufspreis beträgt einmalig 9,99 €.</p>
+**Vendor's marketplace description:** „Soforthilfe bei Stress“ ist ein praxisnahes PDF-E-Book für Menschen, die sich im Alltag häufig angespannt, überfordert oder innerlich unruhig fühlen. Der Ratgeber vermittelt verständliche Impulse, praktische Übungen und alltagstaugliche Möglichkeiten, um akute Stressmomente bewusster wahrzunehmen, die innere Anspannung zu reduzieren und wieder mehr Ruhe und Klarheit zu finden. Das E-Book unterstützt dabei, persönliche Stressauslöser besser zu erkennen, rechtzeitig gegenzusteuern und hilfreiche Strategien für einen gelasseneren Umgang mit belastenden Situationen zu entwickeln. Nach erfolgreicher Bestellung wird das E-Book sofort digital als PDF-Datei bereitgestellt. Der Verkaufspreis beträgt einmalig 9,99 €.
 
 ## 2. Links
 

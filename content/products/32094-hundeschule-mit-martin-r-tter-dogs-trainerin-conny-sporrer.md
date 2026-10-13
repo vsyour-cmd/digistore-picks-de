@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>25% Abo-Provision (Mindestlaufzeit 12 Monate), hochoptimierter Funnel - i</strong><strong>nkl. Remarketing auf unsere Kosten!</strong></span></p>
-<p>Die neue Online Hundeschule mit Martin Rütter DOGS Trainerin Conny Sporrer (Abo, ab 29,99€ mtl.)</p>
-<p><strong>Ihre Vorteile als Affiliate:</strong></p>
-<ul>
-<li>Hohe Conversion</li>
-<li>Fertige Werbemittel (getestet)</li>
-<li>Markenqualität</li>
-</ul>
-<p><strong>Seit über 15 Jahren erfolgreich am Markt:</strong></p>
-<p>Die Online Hundeschule hat das Ziel, eine Hundewelt zu schaffen, in der aufeinander Rücksicht genommen wird. Es gibt vielleicht trotzdem immer wieder mal kleine Problemchen, aber Du weißt nun richtig mit ihnen umzugehen.</p>
-<p>Unsere Vision besteht also nicht in einer perfekten Welt, sondern aus Hundemenschen, die das Verhalten ihrer Tiere richtig interpretieren können und damit entsprechend umzugehen wissen. Genau hierbei unterstützen wir Dich! Und zwar nicht nur mit oberflächlichen 0815-Tipps, sondern mit auf deinen Hund angepassten Ratschlägen, der Beantwortung individueller Fragen und vielen wichtigen Inputs für eine harmonische Beziehung zu Deinem Hund!</p>
-<ul>
-<li><strong>Live Videos: </strong>Betreuung direkt durch Conny Sporrer</li>
-<li><strong>Eine große Bibliothek</strong>, die ständig um neue Kurse erweitert wird</li>
-<li><strong>Inklusive Support-Gruppe</strong></li>
-<li><strong>Live Events</strong> und Austausch mit anderen Branchenexperten</li>
-<li><strong>Modernes Hundetraining:</strong> mit Spaß und ohne Stress </li>
-</ul>
+**Vendor's marketplace description:** 25% Abo-Provision (Mindestlaufzeit 12 Monate), hochoptimierter Funnel - i nkl. Remarketing auf unsere Kosten! Die neue Online Hundeschule mit Martin Rütter DOGS Trainerin Conny Sporrer (Abo, ab 29,99€ mtl.) Ihre Vorteile als Affiliate: Hohe Conversion Fertige Werbemittel (getestet) Markenqualität Seit über 15 Jahren erfolgreich am Markt: Die Online Hundeschule hat das Ziel, eine Hundewelt zu schaffen, in der aufeinander Rücksicht genommen wird. Es gibt vielleicht trotzdem immer wieder mal kleine Problemchen, aber Du weißt nun richtig mit ihnen umzugehen. Unsere Vision besteht also nicht in einer perfekten Welt, sondern aus Hundemenschen, die das Verhalten ihrer Tiere richtig interpretieren können und damit entsprechend umzugehen wissen. Genau hierbei unterstützen wir Dich! Und zwar nicht nur mit oberflächlichen 0815-Tipps, sondern mit auf deinen Hund angepassten Ratschlägen, der Beantwortung individueller Fragen und vielen wichtigen Inputs für eine harmonische Beziehung zu Deinem Hund! Live Videos: Betreuung direkt durch Conny Sporrer Eine große Bibliothek , die ständig um neue Kurse erweitert wird Inklusive Support-Gruppe Live Events und Austausch mit anderen Branchenexperten Modernes Hundetraining: mit Spaß und ohne Stress
 
 ## 2. Links
 

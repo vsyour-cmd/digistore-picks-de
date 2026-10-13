@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#003300;">Die <strong>Naturmedizin</strong> - vor allem die <strong><em>Pflanzenheilkunde</em></strong> <em>(Phytotherapie)</em> - erfreut sich einer immer grösseren Beliebtheit. Immer mehr Menschen möchten sich bei Krankheiten nicht nur auf die Schulmedizin verlassen, sondern suchen auch nach anderen Wegen, um wieder gesund zu werden oder es zu bleiben.</span></p>
-<p><span style="color:#003300;"><em>Und bei dieser Suche werden dem Interessierten diese eBook's äusserst wertvolle Anregungen und Hilfen vermitteln. Denn mit diesen eBook's erhält er einen wesentlichen Teil des Wissens an die Hand, welches er für die Behandlung mit pflanzlichen Heilmitteln benötigt.</em></span></p>
-<p><span style="color:#003300;"><strong><em>Der Markt mit natürlichen Heilmitteln boomt enorm! Seien Sie mit dabei!</em></strong></span></p>
-<h5><em><strong><span style="color:#993300;">Bitte beachten: Auf der Verkaufsseite befinden sich auch die Links zu der Teilen 2 + 3.</span></strong></em></h5>
-<p><span style="color:#003300;">Anleitung zum Einfügen eines eigenen Promolinks bei Bedarf unter bit.ly//2mb5OeM </span></p>
+**Vendor's marketplace description:** Die Naturmedizin - vor allem die Pflanzenheilkunde (Phytotherapie) - erfreut sich einer immer grösseren Beliebtheit. Immer mehr Menschen möchten sich bei Krankheiten nicht nur auf die Schulmedizin verlassen, sondern suchen auch nach anderen Wegen, um wieder gesund zu werden oder es zu bleiben. Und bei dieser Suche werden dem Interessierten diese eBook's äusserst wertvolle Anregungen und Hilfen vermitteln. Denn mit diesen eBook's erhält er einen wesentlichen Teil des Wissens an die Hand, welches er für die Behandlung mit pflanzlichen Heilmitteln benötigt. Der Markt mit natürlichen Heilmitteln boomt enorm! Seien Sie mit dabei! Bitte beachten: Auf der Verkaufsseite befinden sich auch die Links zu der Teilen 2 + 3. Anleitung zum Einfügen eines eigenen Promolinks bei Bedarf unter bit.ly//2mb5OeM
 
 ## 2. Links
 

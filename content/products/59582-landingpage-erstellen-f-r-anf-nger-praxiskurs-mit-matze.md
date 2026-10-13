@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Landingpage erstellen für Anfänger – Praxiskurs mit Matze</p>
-<p>Angebotsseite texten, mobil prüfen und den Anfrageweg testen. Dieser deutschsprachige Selbstlernkurs begleitet dich von der Idee bis zum Ergebnis: einen Seitenentwurf mit Text, Layout und geprüftem Formular- oder Kaufweg. Matze zeigt jeden Schritt am durchgehenden fiktiven Beispiel. Die Aufgaben überträgst du auf dein eigenes Projekt.</p>
-<p>Das lernst du:<br />1. Ziel und Besucher verstehen<br />2. Ein überprüfbares Nutzenversprechen<br />3. Seitenfolge und Belege<br />4. Text und Handlungsaufruf<br />5. Technik und Zugriff prüfen<br />6. Auswertung ohne Scheingenauigkeit</p>
-<p>Für wen? Einsteiger, die eine klare Angebotsseite für eine konkrete Handlung gestalten möchten.</p>
-<p>Im Paket: PDF-Praxiskurs, PDF-Arbeitsmappe und vier bearbeitbare Vorlagen. Du gehst im eigenen Tempo vor und prüfst deine Ergebnisse anhand der Aufgaben.</p>
-<p>Für Affiliates: Der Kurs zeigt konkrete Arbeitsschritte und verspricht keine Umsätze oder Aufnahme in externe Programme. Bewirb ihn mit eigener Erfahrung, klarer Werbekennzeichnung und deinem persönlichen Digistore24-Promolink. Digitale Einmalzahlung; Affiliate-Provision laut Angebot: 40 %.</p>
-<p>Planungstools sind optional. Im Kurs kann ein gekennzeichneter Metricool-Affiliate-Link enthalten sein.</p>
+**Vendor's marketplace description:** Landingpage erstellen für Anfänger – Praxiskurs mit Matze Angebotsseite texten, mobil prüfen und den Anfrageweg testen. Dieser deutschsprachige Selbstlernkurs begleitet dich von der Idee bis zum Ergebnis: einen Seitenentwurf mit Text, Layout und geprüftem Formular- oder Kaufweg. Matze zeigt jeden Schritt am durchgehenden fiktiven Beispiel. Die Aufgaben überträgst du auf dein eigenes Projekt. Das lernst du: 1. Ziel und Besucher verstehen 2. Ein überprüfbares Nutzenversprechen 3. Seitenfolge und Belege 4. Text und Handlungsaufruf 5. Technik und Zugriff prüfen 6. Auswertung ohne Scheingenauigkeit Für wen? Einsteiger, die eine klare Angebotsseite für eine konkrete Handlung gestalten möchten. Im Paket: PDF-Praxiskurs, PDF-Arbeitsmappe und vier bearbeitbare Vorlagen. Du gehst im eigenen Tempo vor und prüfst deine Ergebnisse anhand der Aufgaben. Für Affiliates: Der Kurs zeigt konkrete Arbeitsschritte und verspricht keine Umsätze oder Aufnahme in externe Programme. Bewirb ihn mit eigener Erfahrung, klarer Werbekennzeichnung und deinem persönlichen Digistore24-Promolink. Digitale Einmalzahlung; Affiliate-Provision laut Angebot: 40 %. Planungstools sind optional. Im Kurs kann ein gekennzeichneter Metricool-Affiliate-Link enthalten sein.
 
 ## 2. Links
 

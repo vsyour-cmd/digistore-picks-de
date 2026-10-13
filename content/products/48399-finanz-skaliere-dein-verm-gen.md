@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><span style="background-color:#ffff00;"><em><strong>Geballtes Finanzwissen:</strong></em></span></div>
-<div> </div>
-<div><em><strong>Drei Module geballtes Fachwissen über Finanzen</strong></em></div>
-<div> </div>
-<div><em><strong>✅ 1: Anlage &amp; Investment</strong></em></div>
-<div><em><strong>✅ 2: Finanzielle Freiheit</strong></em></div>
-<div><em><strong>✅ 3: Aktien, ETFs, Immobilien und Krypto </strong></em></div>
-<div> </div>
-<div> </div>
-<div><em><strong>✅ <span style="background-color:#ffff00;">Die Coaches: Dirk Kreuter, André Stagge, Jana Misar, Christoph J. F. Schreiber, uvm</span></strong></em></div>
+**Vendor's marketplace description:** Geballtes Finanzwissen: Drei Module geballtes Fachwissen über Finanzen ✅ 1: Anlage & Investment ✅ 2: Finanzielle Freiheit ✅ 3: Aktien, ETFs, Immobilien und Krypto ✅ Die Coaches: Dirk Kreuter, André Stagge, Jana Misar, Christoph J. F. Schreiber, uvm
 
 ## 2. Links
 

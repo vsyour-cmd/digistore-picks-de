@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><em>"Raus aus der Schule und rein ins Leben deiner Träume"</em></p>
-<p> </p>
-<p><strong>Viele junge Menschen wissen nicht, was sie beruflich machen möchten.</strong></p>
-<p> </p>
-<p>Es fehlt an Durchblick und Orientierung. Dies spiegelt sich in unbesetzten Lehrstellen, Abbruchquoten im Studium und allgemeiner Unzufriedenheit unter den jungen Menschen wider.</p>
-<p> </p>
-<p>Der "Traumjob Leitfaden" ist ein <strong>interaktives Workbook</strong>, welches junge Menschen dabei unterstützt die ersten Schritte Richtung Traumleben zu gehen. Mit <strong>hilfreichen Übungen</strong> und <strong>vielfältigen Fragestellungen</strong> entdecken sie Schritt für Schritt ihre Fähigkeiten, Interessen und Leidenschaften, um den perfekten Job für sich zu finden.</p>
-<p>Der "Traumjob Leitfaden" unterstützt junge Menschen dabei, <strong>sich selbst besser kennenzulernen und seine Ziele klar zu definieren</strong>.</p>
-<p> </p>
-<p><strong>Sei ein Impulsgeber und hilf jungen Menschen dabei, ihren persönlichen Traumjob zu finden!</strong></p>
+**Vendor's marketplace description:** "Raus aus der Schule und rein ins Leben deiner Träume" Viele junge Menschen wissen nicht, was sie beruflich machen möchten. Es fehlt an Durchblick und Orientierung. Dies spiegelt sich in unbesetzten Lehrstellen, Abbruchquoten im Studium und allgemeiner Unzufriedenheit unter den jungen Menschen wider. Der "Traumjob Leitfaden" ist ein interaktives Workbook , welches junge Menschen dabei unterstützt die ersten Schritte Richtung Traumleben zu gehen. Mit hilfreichen Übungen und vielfältigen Fragestellungen entdecken sie Schritt für Schritt ihre Fähigkeiten, Interessen und Leidenschaften, um den perfekten Job für sich zu finden. Der "Traumjob Leitfaden" unterstützt junge Menschen dabei, sich selbst besser kennenzulernen und seine Ziele klar zu definieren . Sei ein Impulsgeber und hilf jungen Menschen dabei, ihren persönlichen Traumjob zu finden!
 
 ## 2. Links
 

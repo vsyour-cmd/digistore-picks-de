@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <blockquote>
-<p style="text-align:left;">   Zielgruppe:<br />• Nutzer alter Laptops &amp; PCs (ohne TPM)<br />• Firmen, die Windows offline brauchen<br />• IT-YouTuber, TikToker &amp; Technik-Blogs</p>
-<p style="text-align:left;">   Vorteile für Affiliates:<br />• Extrem günstiges Produkt (7,90 €)<br />• 50 % Provision = 3,95 € pro Verkauf<br />• Konvertiert sehr gut durch YouTube &amp; Shorts<br />• Ideal für Datenschutz- und Offline-Communities</p>
-<p style="text-align:left;">  Inhalt:<br />Schritt-für-Schritt PDF-Guide mit echten Screenshots, BIOS-Tipps &amp; Rufus</p>
-<p style="text-align:left;"> Produkt-Videos &amp; Shorts auf YouTube:<br /> https://www.youtube.com/@WindowsHandyTipps</p>
-<p style="text-align:left;"> Bonus:   </p>
-<p style="text-align:left;">Werbetexte &amp; Banner auf Anfrage –   einfach melden:   windowshandytipps@gmail.com</p>
-</blockquote>
+**Vendor's marketplace description:** Zielgruppe: • Nutzer alter Laptops & PCs (ohne TPM) • Firmen, die Windows offline brauchen • IT-YouTuber, TikToker & Technik-Blogs Vorteile für Affiliates: • Extrem günstiges Produkt (7,90 €) • 50 % Provision = 3,95 € pro Verkauf • Konvertiert sehr gut durch YouTube & Shorts • Ideal für Datenschutz- und Offline-Communities Inhalt: Schritt-für-Schritt PDF-Guide mit echten Screenshots, BIOS-Tipps & Rufus Produkt-Videos & Shorts auf YouTube: https://www.youtube.com/@WindowsHandyTipps Bonus: Werbetexte & Banner auf Anfrage – einfach melden: windowshandytipps@gmail.com
 
 ## 2. Links
 

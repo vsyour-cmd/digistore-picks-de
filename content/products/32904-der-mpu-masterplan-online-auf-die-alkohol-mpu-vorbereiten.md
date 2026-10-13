@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>MPU KONKRET bietet die <strong>komplette Vorbereitung</strong> auf die MPU.  </p>
-<p>Zielgruppe sind Menschen, die eine MPU absolvieren müssen und eine erfolgreiche, schnelle und bequeme Vorbereitung <strong>KOMPLETT ONLINE</strong> machen möchten. </p>
-<p>Die Online Kurse sind nach den neusten Standards der Online-Wissensvermittlung entwickelt und beruhen auf über <strong>10 Jahre Erfahrung</strong> in der MPU Vorbereitung vor Ort. Im MPU Konkret Team befinden sich nicht nur MPU Coaches, sondern auch <strong>Psychologen</strong> und Psychotherapeuten.  </p>
-<p>Werben könnt ihr für den Kurs:  „<em>Sicher durch die Alkohol MPU</em>“. In einem<strong> 5 Schritte Programm</strong> können sich Kunden mit dem MPU Masterplan perfekt auf die MPU wegen Alkohol vorbereiten. Der funktioniert so:  </p>
-<ol>
-<li><strong>MPU Masterliste</strong>
-<div>Der Kunde bekommt einen Überblick über alle Infos zur MPU – damit er nichts vergisst und wertvolle Zeit verliert!</div>
-</li>
-<li><strong>MPU Basics</strong>
-<div>Der Kunde erfährst alles über den Ablauf der MPU und worauf er achten muss.</div>
-</li>
-<li><strong>MPU Spezialkurs</strong>
-<div>Der Kunde macht die komplette Vorbereitung auf den psychologischen Teil der MPU als Videokurs!</div>
-</li>
-<li><strong>MPU Fragen</strong>
-<div>MPU Simulationen, MPU Beispiele und viele MPU Fragen und Antworten helfen dem Kunden, sich optimal vorzubereiten.</div>
-</li>
-<li><strong>Bescheinigung</strong>
-<div>Mit der Bescheinigung kann der Kunde in der MPU zeigen, dass er sich vorbereitet hat.</div>
-<p> </p>
-Mit den Online Kursen von MPU KONKRET kannst du anderen Menschen helfen, einen <strong>preisgünstigen und dennoch sicheren Weg zurück zum Führerschein</strong> zu ermöglichen. Gleichzeitig bekommst du <strong>30% Provision</strong> für die Vermittlung!</li>
-</ol>
+**Vendor's marketplace description:** MPU KONKRET bietet die komplette Vorbereitung auf die MPU. Zielgruppe sind Menschen, die eine MPU absolvieren müssen und eine erfolgreiche, schnelle und bequeme Vorbereitung KOMPLETT ONLINE machen möchten. Die Online Kurse sind nach den neusten Standards der Online-Wissensvermittlung entwickelt und beruhen auf über 10 Jahre Erfahrung in der MPU Vorbereitung vor Ort. Im MPU Konkret Team befinden sich nicht nur MPU Coaches, sondern auch Psychologen und Psychotherapeuten. Werben könnt ihr für den Kurs: „ Sicher durch die Alkohol MPU “. In einem 5 Schritte Programm können sich Kunden mit dem MPU Masterplan perfekt auf die MPU wegen Alkohol vorbereiten. Der funktioniert so: MPU Masterliste Der Kunde bekommt einen Überblick über alle Infos zur MPU – damit er nichts vergisst und wertvolle Zeit verliert! MPU Basics Der Kunde erfährst alles über den Ablauf der MPU und worauf er achten muss. MPU Spezialkurs Der Kunde macht die komplette Vorbereitung auf den psychologischen Teil der MPU als Videokurs! MPU Fragen MPU Simulationen, MPU Beispiele und viele MPU Fragen und Antworten helfen dem Kunden, sich optimal vorzubereiten. Bescheinigung Mit der Bescheinigung kann der Kunde in der MPU zeigen, dass er sich vorbereitet hat. Mit den Online Kursen von MPU KONKRET kannst du anderen Menschen helfen, einen preisgünstigen und dennoch sicheren Weg zurück zum Führerschein zu ermöglichen. Gleichzeitig bekommst du 30% Provision für die Vermittlung!
 
 ## 2. Links
 

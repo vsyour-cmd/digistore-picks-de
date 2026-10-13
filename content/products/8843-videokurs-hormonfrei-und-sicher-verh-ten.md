@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>Online Video Kurs - Hormonfrei und Sicher Verhüten</div>
-<div>
-<p>Lerne die sichere, hormonfreie und gesunde symptothermale Methode als Alternative zur Pille kennen und lerne es selbständig anzuwenden.</p>
-<p><strong>Wie die symptothermale Methode funktioniert?</strong></p>
-<p>Du kannst mit der symptothermalen Methode die fruchtbaren und unfruchtbaren Tage im Zyklus bestimmen. An den unfruchtbaren Tagen kannst du Sex haben ohne davon schwanger zu werden. An den fruchtbaren Tagen kannst du z. B. Barrieremethoden wie das Kondom und Diaphragma nutzen, um zu verhüten.</p>
-<ul>
-<li><strong>5 Module + Bonus-Modul</strong></li>
-<li><strong>35 Videos</strong></li>
-<li><strong>Spielzeit: 330 Minuten</strong></li>
-</ul>
-</div>
+**Vendor's marketplace description:** Online Video Kurs - Hormonfrei und Sicher Verhüten Lerne die sichere, hormonfreie und gesunde symptothermale Methode als Alternative zur Pille kennen und lerne es selbständig anzuwenden. Wie die symptothermale Methode funktioniert? Du kannst mit der symptothermalen Methode die fruchtbaren und unfruchtbaren Tage im Zyklus bestimmen. An den unfruchtbaren Tagen kannst du Sex haben ohne davon schwanger zu werden. An den fruchtbaren Tagen kannst du z. B. Barrieremethoden wie das Kondom und Diaphragma nutzen, um zu verhüten. 5 Module + Bonus-Modul 35 Videos Spielzeit: 330 Minuten
 
 ## 2. Links
 

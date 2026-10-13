@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><strong>Die Glücklichsein-Checkliste ist ein Initial-Produkt...</strong></h4>
-<p>Das bedeutet, dass der Interessent als erstes die kostenlose <strong>"Glücklichsein-Checkliste"</strong> bekommt, wofür er seine E-Mail-Adresse einträgt. Nach Eintragung wird er direkt auf eine Upsell-Seite weitergeleitet, wo er zu seiner Checkliste den passenden <strong>"Videokurs"</strong> für nur 7,- Euro erhalten kann. Danach kommen noch weitere Upsell-Angebote auf <strong>"Glücklichsein-Sofortmaßnahmen"</strong> (47,- Euro) und auf den <strong>"Glücksnavigator"</strong> (97,- Euro).</p>
-<p><strong>&gt;&gt; Jeweils 50% Provision.</strong></p>
-<p><span style="color:#ff0000;"><strong>Diesen Promolink verwenden:</strong></span></p>
-<p><strong><a href="https://www.digistore24.com/content/249553/23177/AFFILIATE/CAMPAIGNKEY" target="_blank" rel="noreferrer noopener"><span style="background-color:#ffff00;">https://www.digistore24.com/content/249553/23177/AFFILIATE/CAMPAIGNKEY</span></a></strong></p>
+**Vendor's marketplace description:** Die Glücklichsein-Checkliste ist ein Initial-Produkt... Das bedeutet, dass der Interessent als erstes die kostenlose "Glücklichsein-Checkliste" bekommt, wofür er seine E-Mail-Adresse einträgt. Nach Eintragung wird er direkt auf eine Upsell-Seite weitergeleitet, wo er zu seiner Checkliste den passenden "Videokurs" für nur 7,- Euro erhalten kann. Danach kommen noch weitere Upsell-Angebote auf "Glücklichsein-Sofortmaßnahmen" (47,- Euro) und auf den "Glücksnavigator" (97,- Euro). >> Jeweils 50% Provision. Diesen Promolink verwenden: https://www.digistore24.com/content/249553/23177/AFFILIATE/CAMPAIGNKEY
 
 ## 2. Links
 

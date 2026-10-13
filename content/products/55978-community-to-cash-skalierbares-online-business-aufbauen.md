@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><span style="color:#ff0000;">Bewerbe unser E-Book "Community to Cash" und erhalte 50 % Provision!</span></h1>
-<p>In 21 Kapiteln erklären wir, wie man mit Pinterest, Newsletter Automatisierung, KI und Memberships ein skalierbares Online Business aufbaut.</p>
-<p>Viele scheitern nicht am Fleiß, sondern an der fehlenden Struktur. Dieses Buch gibt Online Unternehmern praxiserprobte Strategien an die Hand, um langfristig erfolgreich zu sein.</p>
+**Vendor's marketplace description:** Bewerbe unser E-Book "Community to Cash" und erhalte 50 % Provision! In 21 Kapiteln erklären wir, wie man mit Pinterest, Newsletter Automatisierung, KI und Memberships ein skalierbares Online Business aufbaut. Viele scheitern nicht am Fleiß, sondern an der fehlenden Struktur. Dieses Buch gibt Online Unternehmern praxiserprobte Strategien an die Hand, um langfristig erfolgreich zu sein.
 
 ## 2. Links
 

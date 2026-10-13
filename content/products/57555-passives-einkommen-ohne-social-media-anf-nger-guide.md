@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Viele Leute wollen online Geld verdienen, scheuen aber Social-Media-Präsenz. Dieser Guide zeigt genau diesen Weg – ideal zu bewerben in Nischen wie "Finanzen ohne Reichweite", "Introvertiert Geld verdienen" oder "Online-Business ohne Kamera".</p>
-<p>✅ Klare Alleinstellung gegenüber Standard-Guides</p>
-<p>✅ 35% Provision</p>
-<p>✅ Digitaler Download, sofort lieferbar</p>
+**Vendor's marketplace description:** Viele Leute wollen online Geld verdienen, scheuen aber Social-Media-Präsenz. Dieser Guide zeigt genau diesen Weg – ideal zu bewerben in Nischen wie "Finanzen ohne Reichweite", "Introvertiert Geld verdienen" oder "Online-Business ohne Kamera". ✅ Klare Alleinstellung gegenüber Standard-Guides ✅ 35% Provision ✅ Digitaler Download, sofort lieferbar
 
 ## 2. Links
 

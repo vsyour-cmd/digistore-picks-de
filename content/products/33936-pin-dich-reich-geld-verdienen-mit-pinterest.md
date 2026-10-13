@@ -41,46 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong> Pin dich Reich - </strong></div>
-<div>
-<div>
-<div><strong>passives Einkommen mit Pinterest aufbauen</strong></div>
-<div> </div>
-<div><strong>Sei dabei und vermarkte mein E-Book und erhalte ganze 60 % pro Verkauf! </strong></div>
-<div> </div>
-</div>
-</div>
-<div>
-<div>
-<div>Egal ob man Mutter, Hausfrau, Student, Schüler ist oder einfach nur Lust hast, sich nebenbei ein passives Einkommen mit Pinterest aufzubauen:</div>
-<div> </div>
-</div>
-<div>
-<div>Das lernen die Käufer in dem E-Book</div>
-</div>
-</div>
-<div>
-<div><br /><div> </div>
-<ul><li>eine Komplett Anleitung (Schritt für Schritt erklärt) möchtest, wie man sich ein mächtiges Pinterest Profil aufbaut, mit dem man tatsächlich Geld verdienen kann</li>
-</ul><p> </p>
-<ul><li>wie man nach wenigen Wochen bereits 1000 € und mehr mit Pinterest verdienen kann</li>
-</ul><p> </p>
-<ul><li>wie man die volle Kraft von Pinterest als Trafficquelle kennenlernt</li>
-</ul><p> </p>
-<ul><li>wie man die erfolgreichsten Nischen bei Pinterest kennenlernt</li>
-</ul><p> </p>
-<ul><li>wie man den größten Nutzen aus Pinterest Analytics ziehen kann</li>
-</ul><p> </p>
-<div> </div>
-<div>u. v. m.</div>
-<div> </div>
-<div>+ BONUS: 50 Conversionstarke Überschriften</div>
-<div> </div>
-+ BONUS: Pinterest Checkliste für optimalen Erfolg</div>
-<div> </div>
-<div> </div>
-</div>
-<div> </div>
+**Vendor's marketplace description:** Pin dich Reich - passives Einkommen mit Pinterest aufbauen Sei dabei und vermarkte mein E-Book und erhalte ganze 60 % pro Verkauf! Egal ob man Mutter, Hausfrau, Student, Schüler ist oder einfach nur Lust hast, sich nebenbei ein passives Einkommen mit Pinterest aufzubauen: Das lernen die Käufer in dem E-Book eine Komplett Anleitung (Schritt für Schritt erklärt) möchtest, wie man sich ein mächtiges Pinterest Profil aufbaut, mit dem man tatsächlich Geld verdienen kann wie man nach wenigen Wochen bereits 1000 € und mehr mit Pinterest verdienen kann wie man die volle Kraft von Pinterest als Trafficquelle kennenlernt wie man die erfolgreichsten Nischen bei Pinterest kennenlernt wie man den größten Nutzen aus Pinterest Analytics ziehen kann u. v. m. + BONUS: 50 Conversionstarke Überschriften + BONUS: Pinterest Checkliste für optimalen Erfolg
 
 ## 2. Links
 

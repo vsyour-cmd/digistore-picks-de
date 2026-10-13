@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>&nbsp;</p>
-<h2>Bieten Sie Ihren Kunden &uuml;ber 100 erprobte, sorgf&auml;ltig durchdachte Mailings an und sparen Sie jede Menge Zeit!</h2>
-<p>&Uuml;ber 100 Mailings habe ich vergangenes Jahr an meine eigene Newsletterliste versendet. &Uuml;ber 100 sorgf&auml;ltig getextete und von Profis konzipierte Mailings liegen nun hier und k&ouml;nnen von mir selbst nicht wieder an meine Newsletterkunden verschickt werden. Aber an Ihre! Ganz unabh&auml;ngig davon, welche Produkte Sie selbst im Sortiment haben!</p>
-<p>&nbsp;</p>
-<p><strong>Laden Sie auch Ihre Kontakte und Affiliates zu unserem Partnerprogramm bei digistore24 ein</strong>, Sie erhalten 10% Sub Affiliate Provision!<br /><br /> https://www.digistore24.com/signup/20853/AFFILIATE ersetzen Sie AFFILIATE mit Ihrer Digistore ID und werben Sie neue Sub Affiliates.<br /><br /><br /><strong>Nutzen Sie auch unsere Leadseiten</strong> (ersetzen Sie AFFILIATE mit Ihrer Digistore ID):<br /><br /><br /> Xing erfolgreich nutzen - Kostenloses Ebook<br /><br /> http://promo.AFFILIATE.20219.2935.digistore24.com/CAMPAIGNKEY<br /><br /><br /> 15 Minuten gratis Coaching<br /><br /> http://promo.AFFILIATE.20493.2937.digistore24.com/CAMPAIGNKEY<br /><br /><br /> Sie erhalten 0,50 Cent + % auf jeden Verkauf innerhalb der Cookielaufzeit.</p>
-<p><strong>&nbsp;</strong></p>
+**Vendor's marketplace description:** Bieten Sie Ihren Kunden &uuml;ber 100 erprobte, sorgf&auml;ltig durchdachte Mailings an und sparen Sie jede Menge Zeit! &Uuml;ber 100 Mailings habe ich vergangenes Jahr an meine eigene Newsletterliste versendet. &Uuml;ber 100 sorgf&auml;ltig getextete und von Profis konzipierte Mailings liegen nun hier und k&ouml;nnen von mir selbst nicht wieder an meine Newsletterkunden verschickt werden. Aber an Ihre! Ganz unabh&auml;ngig davon, welche Produkte Sie selbst im Sortiment haben! Laden Sie auch Ihre Kontakte und Affiliates zu unserem Partnerprogramm bei digistore24 ein , Sie erhalten 10% Sub Affiliate Provision! https://www.digistore24.com/signup/20853/AFFILIATE ersetzen Sie AFFILIATE mit Ihrer Digistore ID und werben Sie neue Sub Affiliates. Nutzen Sie auch unsere Leadseiten (ersetzen Sie AFFILIATE mit Ihrer Digistore ID): Xing erfolgreich nutzen - Kostenloses Ebook http://promo.AFFILIATE.20219.2935.digistore24.com/CAMPAIGNKEY 15 Minuten gratis Coaching http://promo.AFFILIATE.20493.2937.digistore24.com/CAMPAIGNKEY Sie erhalten 0,50 Cent + % auf jeden Verkauf innerhalb der Cookielaufzeit.
 
 ## 2. Links
 

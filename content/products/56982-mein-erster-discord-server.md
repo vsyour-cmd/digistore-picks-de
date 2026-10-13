@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Von der leeren Oberfläche zum aktiven Community-Treffpunkt, dem Menschen gern angehören</strong></p>
-<p>Du willst endlich deinen eigenen Discord-Server gründen, weißt aber nicht, wo du anfangen sollst? Dieses E-Book nimmt dich Schritt für Schritt an die Hand – von der ersten Servereinrichtung über die Channel-Struktur bis zu deinen ersten 100 aktiven Mitgliedern. Du lernst, wie du Text-, Voice-, Forum- und Stage-Channels sinnvoll kombinierst, Rollen und ein Onboarding-System einrichtest, das neue Mitglieder sofort willkommen heißt, und wie du die Community am Leben hältst. Kein Entwicklerwissen nötig, keine teuren Bots: nur ein klarer, umsetzbarer Plan, den du heute Abend umsetzen kannst. Nach der Lektüre weißt du nicht nur, was zu tun ist – du verstehst auch, warum bestimmte Server wachsen und andere einschlafen.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Serverstruktur planen: die richtige Mischung aus Text-, Voice-, Forum- und Stage-Channels</li>
-<li>Rollen-System einrichten, das Mitglieder motiviert und Ordnung schafft</li>
-<li>Onboarding mit Verifizierung und Willkommenskanal aufsetzen</li>
-<li>Die 5 häufigsten Einsteigerfehler – und wie du sie souverän vermeidest</li>
-<li>Erste Mitglieder gewinnen, ohne bereits eine große Reichweite zu haben</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Von der leeren Oberfläche zum aktiven Community-Treffpunkt, dem Menschen gern angehören Du willst endlich deinen eigenen Discord-Server gründen, weißt aber nicht, wo du anfangen sollst? Dieses E-Book nimmt dich Schritt für Schritt an die Hand – von der ersten Servereinrichtung über die Channel-Struktur bis zu deinen ersten 100 aktiven Mitgliedern. Du lernst, wie du Text-, Voice-, Forum- und Stage-Channels sinnvoll kombinierst, Rollen und ein Onboarding-System einrichtest, das neue Mitglieder sofort willkommen heißt, und wie du die Community am Leben hältst. Kein Entwicklerwissen nötig, keine teuren Bots: nur ein klarer, umsetzbarer Plan, den du heute Abend umsetzen kannst. Nach der Lektüre weißt du nicht nur, was zu tun ist – du verstehst auch, warum bestimmte Server wachsen und andere einschlafen. Das steckt drin: Serverstruktur planen: die richtige Mischung aus Text-, Voice-, Forum- und Stage-Channels Rollen-System einrichten, das Mitglieder motiviert und Ordnung schafft Onboarding mit Verifizierung und Willkommenskanal aufsetzen Die 5 häufigsten Einsteigerfehler – und wie du sie souverän vermeidest Erste Mitglieder gewinnen, ohne bereits eine große Reichweite zu haben Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>KNX Wetterstation in 2h programmieren</h3>
-<div>
-<p>ist der Videokurs, der es dir ermöglicht, gezielt und mit geringstmöglichem Zeitaufwand die Jalousien/Rollläden eines beliebigen Wohnhauses/Bürogebäudes mit einer KNX Wetterstation zu automatisieren und zu programmieren.</p>
-<ul>
-<li><strong>Bauherren, Elektriker und Systemintegratoren</strong>, die schnell eine Jalousiesteuerung eines Gebäudes mit einer KNX Wetterstation automatisieren wollen</li>
-<li><strong>Elektriker</strong>, die <strong>viel Zeit und Geld sparen</strong> und die Jalousien/Rollläden auch bei größeren <strong>Gebäuden</strong> mit mehreren Fassaden automatisieren wollen</li>
-<li><strong>Bauherren</strong>, die am PC mit <strong>ETS Software</strong> alles selbst einrichten und programmieren</li>
-</ul>
-<h3> </h3>
-</div>
+**Vendor's marketplace description:** KNX Wetterstation in 2h programmieren ist der Videokurs, der es dir ermöglicht, gezielt und mit geringstmöglichem Zeitaufwand die Jalousien/Rollläden eines beliebigen Wohnhauses/Bürogebäudes mit einer KNX Wetterstation zu automatisieren und zu programmieren. Bauherren, Elektriker und Systemintegratoren , die schnell eine Jalousiesteuerung eines Gebäudes mit einer KNX Wetterstation automatisieren wollen Elektriker , die viel Zeit und Geld sparen und die Jalousien/Rollläden auch bei größeren Gebäuden mit mehreren Fassaden automatisieren wollen Bauherren , die am PC mit ETS Software alles selbst einrichten und programmieren
 
 ## 2. Links
 

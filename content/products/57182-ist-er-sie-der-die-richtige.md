@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Ist er/sie der/die Richtige?“</strong></p>
-<p>Wie du es wirklich erkennst – Verliebt – aber passt es wirklich? Dieser Ratgeber gibt dir Klarheit statt Bauchgefühl-Chaos.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,45 € pro Verkauf (Verkaufspreis 18,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verliebtheit von echter Passung unterscheiden</li>
-<li>Werte- und Lebensziel-Abgleich</li>
-<li>Warnsignale ernst nehmen</li>
-<li>Eine fundierte Entscheidung treffen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Ist er/sie der/die Richtige?“ Wie du es wirklich erkennst – Verliebt – aber passt es wirklich? Dieser Ratgeber gibt dir Klarheit statt Bauchgefühl-Chaos. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,45 € pro Verkauf (Verkaufspreis 18,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verliebtheit von echter Passung unterscheiden Werte- und Lebensziel-Abgleich Warnsignale ernst nehmen Eine fundierte Entscheidung treffen
 
 ## 2. Links
 

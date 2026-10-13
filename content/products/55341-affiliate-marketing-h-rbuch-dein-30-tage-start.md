@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Dein strukturierter Einstieg ins Affiliate Marketing – als Hörbuch.</strong></p>
-<p>Dieses Hörbuch begleitet dich über 30 Tage<br />bei deinem Start ins Affiliate-Marketing –<br />verständlich erklärt und ideal zum Anhören<br />im Alltag oder unterwegs.</p>
-<p>Du lernst Schritt für Schritt,<br />wie Affiliate Marketing funktioniert,<br />worauf es am Anfang wirklich ankommt<br />und wie du typische Anfängerfehler vermeidest.</p>
-<p><strong>Inhalte u. a.:</strong></p>
-<ul>
-<li>
-<p>Klarer 30-Tage-Fahrplan für Einsteiger</p>
-</li>
-<li>
-<p>Grundlagen des Affiliate-Marketings verständlich erklärt</p>
-</li>
-<li>
-<p>Praxisnahe Beispiele ohne Fachchinesisch</p>
-</li>
-<li>
-<p>Struktur statt Überforderung</p>
-</li>
-</ul>
-<p>Ideal für Einsteiger, Selbstständige und alle,<br />die sich Wissen lieber anhören als lesen.</p>
-<hr />
-<p><strong>Hinweis für Affiliates:</strong><br />Dieses Hörbuch dient als Einstieg.<br />Im weiteren Verlauf des Funnels gibt es optionale<br />Zusatzangebote mit zusätzlichen<br />Provisionsmöglichkeiten.</p>
+**Vendor's marketplace description:** Dein strukturierter Einstieg ins Affiliate Marketing – als Hörbuch. Dieses Hörbuch begleitet dich über 30 Tage bei deinem Start ins Affiliate-Marketing – verständlich erklärt und ideal zum Anhören im Alltag oder unterwegs. Du lernst Schritt für Schritt, wie Affiliate Marketing funktioniert, worauf es am Anfang wirklich ankommt und wie du typische Anfängerfehler vermeidest. Inhalte u. a.: Klarer 30-Tage-Fahrplan für Einsteiger Grundlagen des Affiliate-Marketings verständlich erklärt Praxisnahe Beispiele ohne Fachchinesisch Struktur statt Überforderung Ideal für Einsteiger, Selbstständige und alle, die sich Wissen lieber anhören als lesen. Hinweis für Affiliates: Dieses Hörbuch dient als Einstieg. Im weiteren Verlauf des Funnels gibt es optionale Zusatzangebote mit zusätzlichen Provisionsmöglichkeiten.
 
 ## 2. Links
 

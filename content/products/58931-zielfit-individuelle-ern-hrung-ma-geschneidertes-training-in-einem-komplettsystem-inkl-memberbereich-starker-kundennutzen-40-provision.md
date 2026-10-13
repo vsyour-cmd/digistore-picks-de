@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>40 % Affiliate-Provision auf alle drei Zielfit-Angebote.</p>
-<p>Zielfit richtet sich an deutschsprachige Erwachsene, die Ernährung und Training endlich mit einem klaren, persönlichen System umsetzen möchten – passend zu Ziel, Alltag, Ernährungsweise, Erfahrung, Trainingsort und Equipment.</p>
-<p>Das Hauptangebot: Zielfit Komplettsystem für 179 € einmalig. Enthalten sind ein persönlicher Ernährungs- und Trainingsplan, ein persönlicher Kalorien- und Makronährstoffrahmen, mehr als 200 Rezepte, knapp 300 Lebensmittel, Trainingsanleitungen, Grundlagenwissen, Muskelatlas und 24 Monate Member-Bereich. Kein Plan-Abo.</p>
-<p>Zusätzlich bewerbbar: persönlicher Ernährungsplan für 149 € und persönlicher Trainingsplan für 99 €, jeweils einmalig.</p>
-<p>Affiliates erhalten 126 fertige Grafiken in sechs Formaten, E-Mail-Sequenzen, Social Posts, Anzeigen-Hooks, Blogtexte, Story- und Kurzvideo-Skripte sowie klare Werberegeln. Den persönlichen Digistore-Promolink einfach in die Vorlagen einsetzen.</p>
-<p>Wichtig: Keine Ergebnisgarantien, Heilversprechen, erfundenen Rabatte oder künstliche Verknappung.</p>
+**Vendor's marketplace description:** 40 % Affiliate-Provision auf alle drei Zielfit-Angebote. Zielfit richtet sich an deutschsprachige Erwachsene, die Ernährung und Training endlich mit einem klaren, persönlichen System umsetzen möchten – passend zu Ziel, Alltag, Ernährungsweise, Erfahrung, Trainingsort und Equipment. Das Hauptangebot: Zielfit Komplettsystem für 179 € einmalig. Enthalten sind ein persönlicher Ernährungs- und Trainingsplan, ein persönlicher Kalorien- und Makronährstoffrahmen, mehr als 200 Rezepte, knapp 300 Lebensmittel, Trainingsanleitungen, Grundlagenwissen, Muskelatlas und 24 Monate Member-Bereich. Kein Plan-Abo. Zusätzlich bewerbbar: persönlicher Ernährungsplan für 149 € und persönlicher Trainingsplan für 99 €, jeweils einmalig. Affiliates erhalten 126 fertige Grafiken in sechs Formaten, E-Mail-Sequenzen, Social Posts, Anzeigen-Hooks, Blogtexte, Story- und Kurzvideo-Skripte sowie klare Werberegeln. Den persönlichen Digistore-Promolink einfach in die Vorlagen einsetzen. Wichtig: Keine Ergebnisgarantien, Heilversprechen, erfundenen Rabatte oder künstliche Verknappung.
 
 ## 2. Links
 

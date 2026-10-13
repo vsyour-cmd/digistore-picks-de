@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werden Sie Teil unserer Erfolgsgeschichte: 600.000 € Umsatzpotenzial für 2026!</strong></p>
-<p>Wir, Herta &amp; Heino von der <strong>H|H Akademie</strong>, suchen keine Gelegenheits-Affiliates, sondern echte Partner, die mit uns gemeinsam Menschen zu mehr mentaler Stärke und energetischer Balance führen möchten.</p>
-<p>Für unser Kern-Event, das <strong>Wochenendseminar EnergieHypnose</strong>, bieten wir Ihnen eine attraktive Partnerschaft mit langfristiger Perspektive.</p>
-<p><strong>Ihre Vorteile als Partner:</strong></p>
-<ul>
-<li>
-<p><strong>10% Provision</strong> auf jedes verkaufte Ticket des Wochenendseminars.</p>
-</li>
-<li>
-<p><strong>Starkes Ökosystem:</strong> Unser Funnel ist auf maximale Wertschöpfung ausgelegt. Kunden starten oft mit der App oder dem Tagesseminar „Innerer Reset“, vertiefen ihr Wissen im Wochenendseminar und führen ihren Weg in unserer großen Practitioner-Ausbildung fort.</p>
-</li>
-<li>
-<p><strong>Hohes Umsatzvolumen:</strong> Für das restliche Jahr 2026 planen wir ein verbleibendes Umsatzvolumen von <strong>600.000 €</strong> – sichern Sie sich Ihren Anteil daran!</p>
-</li>
-<li>
-<p><strong>Professionelle Begleitung:</strong> Wir arbeiten eng mit unseren Partnern zusammen und unterstützen Sie bei der Implementierung.</p>
-</li>
-</ul>
-<p><strong>Wer wir sind:</strong> Die H|H Akademie steht für die Symbiose aus energetischen Methoden und mentaler Fokussierung. Mit unserem bewährten „Glücksfinder-Prinzip“ begleiten wir Menschen auf ihrem persönlichen „Gipfelsturm“ zu mehr Lebensqualität und Wohlbefinden.</p>
-<p><strong>Direkte Zusammenarbeit gewünscht:</strong> Da wir Wert auf Qualität und eine gemeinsame Vision legen, suchen wir den direkten Draht zu Ihnen. Wir möchten Partner, die unsere Philosophie verstehen und authentisch transportieren.</p>
-<p><strong>Interessiert an einer engen Kooperation?</strong> Bitte setzen Sie sich direkt mit uns in Verbindung, um Details zur Zusammenarbeit und Sonderkonditionen für Top-Partner zu besprechen.</p>
-<p><strong>Kontakt:</strong> <a href="mailto:kontakt@hh-akademie.at">kontakt@hh-akademie.at </a></p>
-<p><strong>Web:</strong> <a>www.hh-akademie.at</a></p>
-<p>Beste Grüße, Herta &amp; Heino</p>
+**Vendor's marketplace description:** Werden Sie Teil unserer Erfolgsgeschichte: 600.000 € Umsatzpotenzial für 2026! Wir, Herta & Heino von der H|H Akademie , suchen keine Gelegenheits-Affiliates, sondern echte Partner, die mit uns gemeinsam Menschen zu mehr mentaler Stärke und energetischer Balance führen möchten. Für unser Kern-Event, das Wochenendseminar EnergieHypnose , bieten wir Ihnen eine attraktive Partnerschaft mit langfristiger Perspektive. Ihre Vorteile als Partner: 10% Provision auf jedes verkaufte Ticket des Wochenendseminars. Starkes Ökosystem: Unser Funnel ist auf maximale Wertschöpfung ausgelegt. Kunden starten oft mit der App oder dem Tagesseminar „Innerer Reset“, vertiefen ihr Wissen im Wochenendseminar und führen ihren Weg in unserer großen Practitioner-Ausbildung fort. Hohes Umsatzvolumen: Für das restliche Jahr 2026 planen wir ein verbleibendes Umsatzvolumen von 600.000 € – sichern Sie sich Ihren Anteil daran! Professionelle Begleitung: Wir arbeiten eng mit unseren Partnern zusammen und unterstützen Sie bei der Implementierung. Wer wir sind: Die H|H Akademie steht für die Symbiose aus energetischen Methoden und mentaler Fokussierung. Mit unserem bewährten „Glücksfinder-Prinzip“ begleiten wir Menschen auf ihrem persönlichen „Gipfelsturm“ zu mehr Lebensqualität und Wohlbefinden. Direkte Zusammenarbeit gewünscht: Da wir Wert auf Qualität und eine gemeinsame Vision legen, suchen wir den direkten Draht zu Ihnen. Wir möchten Partner, die unsere Philosophie verstehen und authentisch transportieren. Interessiert an einer engen Kooperation? Bitte setzen Sie sich direkt mit uns in Verbindung, um Details zur Zusammenarbeit und Sonderkonditionen für Top-Partner zu besprechen. Kontakt: kontakt@hh-akademie.at Web: www.hh-akademie.at Beste Grüße, Herta & Heino
 
 ## 2. Links
 

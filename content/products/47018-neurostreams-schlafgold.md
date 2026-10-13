@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>7 Neurostreams zum effektiven Einschlafen als Sofort-Download (MP3).</p>
-<ul>
-<li>3 mal „Schlafunterstützung“ (je 60 min.)</li>
-<li>2 mal „Einschlaf-Erzwingung“ (kurze und lange Version)</li>
-<li>1 mal „Nachtschlaftraining“ (30 min)</li>
-<li>Bonus: „Der Rest ist Schweigen“ (30 min)</li>
-</ul>
-<p><strong>Sofort-Download.</strong></p>
-<p>Stereo-Kopfhörer empfohlen!</p>
-<p>Alle Neurostreams™ sind jederzeit auf <strong>unbegrenzt viele</strong> Geräte übertragbar und können <strong>beliebig oft</strong> angehört werden!</p>
-<p>Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux.</p>
-<p>Dateigröße: ca. 300 MB</p>
-<p><strong>2 Jahre </strong>Produktsupport inklusive.</p>
+**Vendor's marketplace description:** 7 Neurostreams zum effektiven Einschlafen als Sofort-Download (MP3). 3 mal „Schlafunterstützung“ (je 60 min.) 2 mal „Einschlaf-Erzwingung“ (kurze und lange Version) 1 mal „Nachtschlaftraining“ (30 min) Bonus: „Der Rest ist Schweigen“ (30 min) Sofort-Download. Stereo-Kopfhörer empfohlen! Alle Neurostreams™ sind jederzeit auf unbegrenzt viele Geräte übertragbar und können beliebig oft angehört werden! Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux. Dateigröße: ca. 300 MB 2 Jahre Produktsupport inklusive.
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Ihr eigenes virtuelles Radionikgerät</strong></p>
-<p>Jetzt ist die Zeit für eine Radioniksoftware gekommen, die rein internetbasiert arbeitet, bezahlbar ist, keine Zusatzgeräte benötigt und von überall aus zu benutzen ist.</p>
-<p>MeineRadionik analysiert und harmonisiert die bioenergetischen Felder von Personen, Tieren und Pflanzen, sowie von Objekten, Gebäuden und Ökosystemen. Auch soziale Systeme, wie z.B. Familien, Gruppen, Unternehmen können damit bearbeitet werden. Radionik ist eine Methode, mit der Gedanken, Muster und Schwingungen übertragen werden können. Dies funktioniert sogar, ohne dass der Klient persönlich anwesend sein muss.</p>
-<p>Durch intensive Forschungsarbeit ist es uns gelungen, ihnen eine Software bereitzustellen, die rein internetbasiert arbeitet. Sie benötigen weder teure Zusatzgeräte, noch sind stoffliche Proben der Klienten notwendig. MeineRadionik richtet sich an Anfänger genauso wie an Profis und bietet eine einfach zu bedienende und hocheffektive Methode, um aktiv mit bioenergetischen Feldern zu arbeiten.</p>
+**Vendor's marketplace description:** Ihr eigenes virtuelles Radionikgerät Jetzt ist die Zeit für eine Radioniksoftware gekommen, die rein internetbasiert arbeitet, bezahlbar ist, keine Zusatzgeräte benötigt und von überall aus zu benutzen ist. MeineRadionik analysiert und harmonisiert die bioenergetischen Felder von Personen, Tieren und Pflanzen, sowie von Objekten, Gebäuden und Ökosystemen. Auch soziale Systeme, wie z.B. Familien, Gruppen, Unternehmen können damit bearbeitet werden. Radionik ist eine Methode, mit der Gedanken, Muster und Schwingungen übertragen werden können. Dies funktioniert sogar, ohne dass der Klient persönlich anwesend sein muss. Durch intensive Forschungsarbeit ist es uns gelungen, ihnen eine Software bereitzustellen, die rein internetbasiert arbeitet. Sie benötigen weder teure Zusatzgeräte, noch sind stoffliche Proben der Klienten notwendig. MeineRadionik richtet sich an Anfänger genauso wie an Profis und bietet eine einfach zu bedienende und hocheffektive Methode, um aktiv mit bioenergetischen Feldern zu arbeiten.
 
 ## 2. Links
 

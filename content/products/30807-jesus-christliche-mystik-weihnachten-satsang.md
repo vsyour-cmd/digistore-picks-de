@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Video-Aufzeichnung vom Satsang "Jesus, christliche Mystik und Weihnachten".</p>
-<p>Satsang &amp; Darshan (Vortrag sowie Fragen &amp; Antworten)</p>
-<p>Von OWK Edgar Hofer, Länge 1h 44m. Inklusive MP3-Audiodatei. Für Download sowie online abspielbar. </p>
-<p>(In der Tradition des Advaita = Nondualität in der indischen spirituellen Philosophie; Edgar Hofer aka OWK Devananda Naatha ist eingeweihter Yogi des indischen Nath-Ordens) </p>
+**Vendor's marketplace description:** Video-Aufzeichnung vom Satsang "Jesus, christliche Mystik und Weihnachten". Satsang & Darshan (Vortrag sowie Fragen & Antworten) Von OWK Edgar Hofer, Länge 1h 44m. Inklusive MP3-Audiodatei. Für Download sowie online abspielbar. (In der Tradition des Advaita = Nondualität in der indischen spirituellen Philosophie; Edgar Hofer aka OWK Devananda Naatha ist eingeweihter Yogi des indischen Nath-Ordens)
 
 ## 2. Links
 

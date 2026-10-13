@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Eine bislang noch einzigartige Ausbildung auf dem Markt für eine interessante Zielgruppe!</p>
-<p>Das Pferdegestützte Coaching auf Basis systemischer Grundlagen erlernen und dadurch Menschen mit Pferden in ihrer Persönlichkeitsentwicklung zu begleiten ist ein aufstrebender Markt!</p>
-<p>- <strong>Ich biete 25% Provision auf den VK von 2495,- inkl. MwSt.</strong></p>
-<p>Wir kombinieren eine Online Ausbildung mit Präsenztagen vor Ort. Das Präsenztraining gibt es on Top für den Kunden. Eine hochwertige Ausbildung mit einem inhaltsreichen Skript und vielen Videobeispielen.</p>
-<p>Auch kontinuierliche Zoom Meetings mit live Coachings sind für die Teilnehmer kostenlos.</p>
-<p> </p>
+**Vendor's marketplace description:** Eine bislang noch einzigartige Ausbildung auf dem Markt für eine interessante Zielgruppe! Das Pferdegestützte Coaching auf Basis systemischer Grundlagen erlernen und dadurch Menschen mit Pferden in ihrer Persönlichkeitsentwicklung zu begleiten ist ein aufstrebender Markt! - Ich biete 25% Provision auf den VK von 2495,- inkl. MwSt. Wir kombinieren eine Online Ausbildung mit Präsenztagen vor Ort. Das Präsenztraining gibt es on Top für den Kunden. Eine hochwertige Ausbildung mit einem inhaltsreichen Skript und vielen Videobeispielen. Auch kontinuierliche Zoom Meetings mit live Coachings sind für die Teilnehmer kostenlos.
 
 ## 2. Links
 

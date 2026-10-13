@@ -41,60 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p> </p>
-<h4><strong>Was dieses Trainingsprogramm ist:</strong></h4>
-<ul>
-<li>
-<h4>Für ALLE Menschen, die die Schnauze voll von der Zigarette haben und für immer Nichtraucher <br />werden dürfen</h4>
-</li>
-<li>
-<h4>Eine Software für ein rauchfreies und gesundes Leben</h4>
-</li>
-<li>
-<h4>Eine große Auswahl an äußerst wirkungsvollen Übungen, die du selber – ohne Vorkenntnisse einfach nachgemachen kannst</h4>
-</li>
-<li>
-<h4>Für Persönlichkeiten, die lernen möchten, wie Nichtraucher zu denken und zu fühlen</h4>
-</li>
-<li>
-<h4>Eine Schritt-für-Schritt Anleitung, die dich sanft und ohne Nebenwirkungen an dein Ziel führt<br /><br /></h4>
-</li>
-</ul>
-<h4><strong>Und was erwartet dich sonst noch?</strong><br /><br /></h4>
-<ul>
-<li>
-<h4>Wertvolles Knowhow mit zahlreichen Tipps und Tricks, die für viele Lebensbereiche angewendet werden können</h4>
-</li>
-<li>
-<h4>Das Erfolgsgeheimnis von „schlanken“ Nichtrauchern</h4>
-</li>
-<li>
-<h4>Wirkungsvolle Mentaltechniken für ein gesundes und glückliches Leben</h4>
-</li>
-</ul>
-<h4> </h4>
-<h4>5 unfassbar wertvolle Bonusse:</h4>
-<h4> </h4>
-<h4><strong>Bonus 1</strong>:</h4>
-<div>
-<h4>Das past-smoking Mental Video</h4>
-<h4>Dieses Video ist so konzipiert, dass es sowohl dein Bewusstsein, vor allem aber dein Unterbewusstsein positiv beeinflussen wird. Wollen wir dauerhafte Veränderungen in unserem Leben erreichen, kommen wir nicht darum herum, unser Unterbewusstsein zu unserem engsten Verbündeten zu machen.<br /><br /></h4>
-<h4><strong>Bonus 2:</strong></h4>
-</div>
-<h4>Das past-smoking Audio Training</h4>
-<h4>Dieses Audioprogramm ist dein mentales Training für unterwegs. Lass die Suggestionen tief in dein Unterbewusstsein rein und programmiere dich Schritt für Schritt zum Nichtraucher!</h4>
-<h4> </h4>
-<h4><strong>Bonus 3:</strong></h4>
-<h4>Mental Video Lifestyle und Idealgewicht</h4>
-<h4>Dieses Video wird dir helfen, dich attraktiver zu fühlen und dich beim Abnehmen oder Halten deins Idealgewichtes zu unterstützen.</h4>
-<h4> </h4>
-<h4><strong>Bonus 4:</strong></h4>
-<h4>Lifestyle und Idealgewicht Audio Training</h4>
-<h4>Mentales Lifestyle- und Idealgewichtstraining für unterwegs.<br />Lass die Suggestionen tief in dein Unterbewusstsein rein und programmiere dich Schritt für Schritt zum Nichtraucher!</h4>
-<h4> </h4>
-<h4><strong>Bonus 5:</strong></h4>
-<h4>past-smoking - Das Trainingsbuch (Ebook)</h4>
-<h4>Die Essenz aus past-smoking zusammengefasst in einem Buch. Vertiefe dein Wissen und komm deinem Ziel immer näher.</h4>
+**Vendor's marketplace description:** Was dieses Trainingsprogramm ist: Für ALLE Menschen, die die Schnauze voll von der Zigarette haben und für immer Nichtraucher werden dürfen Eine Software für ein rauchfreies und gesundes Leben Eine große Auswahl an äußerst wirkungsvollen Übungen, die du selber – ohne Vorkenntnisse einfach nachgemachen kannst Für Persönlichkeiten, die lernen möchten, wie Nichtraucher zu denken und zu fühlen Eine Schritt-für-Schritt Anleitung, die dich sanft und ohne Nebenwirkungen an dein Ziel führt Und was erwartet dich sonst noch? Wertvolles Knowhow mit zahlreichen Tipps und Tricks, die für viele Lebensbereiche angewendet werden können Das Erfolgsgeheimnis von „schlanken“ Nichtrauchern Wirkungsvolle Mentaltechniken für ein gesundes und glückliches Leben 5 unfassbar wertvolle Bonusse: Bonus 1 : Das past-smoking Mental Video Dieses Video ist so konzipiert, dass es sowohl dein Bewusstsein, vor allem aber dein Unterbewusstsein positiv beeinflussen wird. Wollen wir dauerhafte Veränderungen in unserem Leben erreichen, kommen wir nicht darum herum, unser Unterbewusstsein zu unserem engsten Verbündeten zu machen. Bonus 2: Das past-smoking Audio Training Dieses Audioprogramm ist dein mentales Training für unterwegs. Lass die Suggestionen tief in dein Unterbewusstsein rein und programmiere dich Schritt für Schritt zum Nichtraucher! Bonus 3: Mental Video Lifestyle und Idealgewicht Dieses Video wird dir helfen, dich attraktiver zu fühlen und dich beim Abnehmen oder Halten deins Idealgewichtes zu unterstützen. Bonus 4: Lifestyle und Idealgewicht Audio Training Mentales Lifestyle- und Idealgewichtstraining für unterwegs. Lass die Suggestionen tief in dein Unterbewusstsein rein und programmiere dich Schritt für Schritt zum Nichtraucher! Bonus 5: past-smoking - Das Trainingsbuch (Ebook) Die Essenz aus past-smoking zusammengefasst in einem Buch. Vertiefe dein Wissen und komm deinem Ziel immer näher.
 
 ## 2. Links
 

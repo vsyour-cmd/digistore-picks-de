@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2 style="font-family:Arial;"><big>Hypnose Kurs: "Lass mehr Optimismus in Dein Leben"</big></h2>
-<h4><span style="font-family:Arial;"><span style="font-weight:bold;">1,5 Stunden On-demand Videos für:</span></span></h4>
-<ul><li><span style="font-family:Arial;">Mehr Optimismus</span></li>
-<li><span style="font-family:Arial;">Gute Gefühle</span></li>
-<li><span style="font-family:Arial;">Positives Denken</span></li>
-<li><span style="font-family:Arial;">Selbstkontrolle</span></li>
-</ul><p><strong><span style="font-family:Arial;">Kursinhalte, Bewertungen und Vorschauvideos auf der Verkaufsseite.</span></strong></p>
-<p> </p>
+**Vendor's marketplace description:** Hypnose Kurs: "Lass mehr Optimismus in Dein Leben" 1,5 Stunden On-demand Videos für: Mehr Optimismus Gute Gefühle Positives Denken Selbstkontrolle Kursinhalte, Bewertungen und Vorschauvideos auf der Verkaufsseite.
 
 ## 2. Links
 

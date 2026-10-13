@@ -41,40 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p><strong>Online-Hypnose für deinen Weg zum Nichtraucher</strong></p>
-<p>Diese persönliche Online-Hypnose richtet sich an Menschen, die mit dem Rauchen aufhören möchten und sich dabei individuelle Unterstützung wünschen.</p>
-<p>Die Sitzung wird auf das persönliche Anliegen vorbereitet und findet bequem per Videochat statt. Vorab gibt es ein kurzes persönliches Gespräch sowie einige Fragen zur Vorbereitung.</p>
-<p><strong>Dauer:</strong> ca. 60 Minuten<br /><strong>Preis:</strong> 169 €<br /><strong>Affiliate-Provision:</strong> 35 %</p>
-<p>Ein klares Angebot für Menschen, die ihren Weg in ein rauchfreies Leben beginnen möchten.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Online-Hypnose für deinen Weg zum Nichtraucher Diese persönliche Online-Hypnose richtet sich an Menschen, die mit dem Rauchen aufhören möchten und sich dabei individuelle Unterstützung wünschen. Die Sitzung wird auf das persönliche Anliegen vorbereitet und findet bequem per Videochat statt. Vorab gibt es ein kurzes persönliches Gespräch sowie einige Fragen zur Vorbereitung. Dauer: ca. 60 Minuten Preis: 169 € Affiliate-Provision: 35 % Ein klares Angebot für Menschen, die ihren Weg in ein rauchfreies Leben beginnen möchten.
 
 ## 2. Links
 

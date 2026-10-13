@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bitte bindet euren persönlichen Affiliate-Link auf eurer Platform / eurer Webseite / in eurem Werbevideo etc. ein, sodass der Käufer über euren Affiliate Link zur Verkauksseite gelangt und du deine Provision pro Verkauf erhältst. :-)</p>
-<p>In diesem Videokurs inkl. 2 x PDF Checkliste + Promt-Liste geht es um die Entwicklung einer mit Hilfe von KI einfach zu erstellenden WEB-App + App. Es wir der schnellste Weg von der Erstellung, über die Veröffentlichung bishin zum Verkauf alles Schritt für Schritt in unter einer Stunde erklärt.</p>
-<p>Mit Hilfe dieses Videkurses kann der Käufer eine eigene App bauen, diese für sich selbst nutzen, verkaufen oder individuell für Firmen erstellen.</p>
-<p>-&gt; <a href="https://ki-app-masterclass.carrd.co" target="_blank" rel="noreferrer noopener">https://ki-app-masterclass.carrd.co</a> (Webseite)</p>
-<p>Viel Erfolg bei erfolgreichen Vermarkten und ganz viele Provisionseinnahmen für DICH!</p>
+**Vendor's marketplace description:** Bitte bindet euren persönlichen Affiliate-Link auf eurer Platform / eurer Webseite / in eurem Werbevideo etc. ein, sodass der Käufer über euren Affiliate Link zur Verkauksseite gelangt und du deine Provision pro Verkauf erhältst. :-) In diesem Videokurs inkl. 2 x PDF Checkliste + Promt-Liste geht es um die Entwicklung einer mit Hilfe von KI einfach zu erstellenden WEB-App + App. Es wir der schnellste Weg von der Erstellung, über die Veröffentlichung bishin zum Verkauf alles Schritt für Schritt in unter einer Stunde erklärt. Mit Hilfe dieses Videkurses kann der Käufer eine eigene App bauen, diese für sich selbst nutzen, verkaufen oder individuell für Firmen erstellen. -> https://ki-app-masterclass.carrd.co (Webseite) Viel Erfolg bei erfolgreichen Vermarkten und ganz viele Provisionseinnahmen für DICH!
 
 ## 2. Links
 

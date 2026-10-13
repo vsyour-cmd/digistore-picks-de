@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>PlayersHUB Academy </p>
-<ul>
-<li>Verkauf von Mitgliedschaften und Abo´s</li>
-<li>25 % wiederkehrende Provision</li>
-</ul>
+**Vendor's marketplace description:** PlayersHUB Academy Verkauf von Mitgliedschaften und Abo´s 25 % wiederkehrende Provision
 
 ## 2. Links
 

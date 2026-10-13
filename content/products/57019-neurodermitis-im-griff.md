@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Neurodermitis im Griff"</strong></p>
-<p>Gereizte, juckende Haut beruhigen: Erkenne deine Trigger, baue die richtige Basispflege auf, durchbrich den Juckreiz und komme ruhiger durch Schübe – ergänzend zur ärztlichen Behandlung.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe: Haut &amp; Haar / Gesundheit</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verstehen, was bei Neurodermitis in der Haut passiert</li>
-<li>Persönliche Trigger erkennen und meiden</li>
-<li>Mit der richtigen Basispflege die Haut beruhigen</li>
-<li>Den Juck-Kratz-Kreislauf durchbrechen</li>
-<li>Ruhiger durch Schübe kommen – mit Plan</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Menschen mit Haut- &amp; Haarproblemen, Beauty-, Pflege- und Gesundheits-Zielgruppe</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Neurodermitis im Griff" Gereizte, juckende Haut beruhigen: Erkenne deine Trigger, baue die richtige Basispflege auf, durchbrich den Juckreiz und komme ruhiger durch Schübe – ergänzend zur ärztlichen Behandlung. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe: Haut & Haar / Gesundheit Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verstehen, was bei Neurodermitis in der Haut passiert Persönliche Trigger erkennen und meiden Mit der richtigen Basispflege die Haut beruhigen Den Juck-Kratz-Kreislauf durchbrechen Ruhiger durch Schübe kommen – mit Plan Für deine Zielgruppe: Menschen mit Haut- & Haarproblemen, Beauty-, Pflege- und Gesundheits-Zielgruppe Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

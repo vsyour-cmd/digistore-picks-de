@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Das große Mentoring Paket für Hinterbliebene</strong></h3>
-<div>
-<p>Das Rundum-Paket für Deine finanzielle Klarheit: persönliche Begleitung kombiniert mit fundiertem Fachwissen. Im Mentoring klären wir Deine persönliche Situation und entwickeln konkrete Strategien zu Rente, Einkommen und Steuern. </p>
-<p>✅ Leistungen ähnlich wie beim <a><strong>Individuellen Mentoring intensiv</strong></a>: </p>
-<ul>
-<li>Drei individuelle 1:1 Sessions (je ca. 60 Minuten)</li>
-<li>Zusätzlich: Bei Bedarf eine <strong>vierte Session ohne zusätzliche Kosten</strong></li>
-<li><strong>persönliche Begleitung über 3 Monate per WhatsApp,</strong> Sprachnachricht oder E-Mail. Antworten gesammelt, persönlich und strukturiert innerhalb dieser drei Monate. </li>
-</ul>
-<hr />
-<p><strong>✅ Zwischen den Terminen:</strong></p>
-<p>Du hast die Möglichkeit, <strong>mir Fragen per E-Mail oder Sprachnachricht</strong> zu stellen. Ich antworte dir gesammelt und strukturiert – in der Regel innerhalb weniger Tage.</p>
-<hr />
-<p><strong>✅ Plus diese vier wichtigsten Videokurse:</strong></p>
-<ul>
-<li>Online-Video-Kurs: <a><strong>Die 6 wichtigsten Stolperfallen bei der Hinterbliebenenrente</strong> </a>(90 Tage Zugriff) im Wert von 149 €</li>
-<li>Online-Video-Kurs: <a><strong>Der Lifehack zur Einkommensanrechnung</strong></a> (90 Tage Zugriff) im Wert von 149 €</li>
-<li>Online-Video-Kurs: <a><strong>Vermietete Immobilien als Anlageform</strong></a> sind unschlagbar – gerade für Hinterbliebene (90 Tage Zugriff,) im Wert von 149 €</li>
-<li>Online-Video-Kurs: <a><strong>Witwenrente und Steuern verständlich erklärt </strong></a>(90 Tage Zugriff) im Wert von 149 €</li>
-</ul>
-<hr />
-<p>✅ Inklusive <strong><a>Excel-Berechnungshilfe</a> </strong>mit Lifehack im Wert von 79 €!</p>
-<hr />
-<p><strong>Individuelle Terminvereinbarung nach dem Kauf möglich. </strong></p>
-<p><strong>Sofortiger Zugriff zu den Videokursen nach dem Kauf. </strong></p>
-</div>
+**Vendor's marketplace description:** Das große Mentoring Paket für Hinterbliebene Das Rundum-Paket für Deine finanzielle Klarheit: persönliche Begleitung kombiniert mit fundiertem Fachwissen. Im Mentoring klären wir Deine persönliche Situation und entwickeln konkrete Strategien zu Rente, Einkommen und Steuern. ✅ Leistungen ähnlich wie beim Individuellen Mentoring intensiv : Drei individuelle 1:1 Sessions (je ca. 60 Minuten) Zusätzlich: Bei Bedarf eine vierte Session ohne zusätzliche Kosten persönliche Begleitung über 3 Monate per WhatsApp, Sprachnachricht oder E-Mail. Antworten gesammelt, persönlich und strukturiert innerhalb dieser drei Monate. ✅ Zwischen den Terminen: Du hast die Möglichkeit, mir Fragen per E-Mail oder Sprachnachricht zu stellen. Ich antworte dir gesammelt und strukturiert – in der Regel innerhalb weniger Tage. ✅ Plus diese vier wichtigsten Videokurse: Online-Video-Kurs: Die 6 wichtigsten Stolperfallen bei der Hinterbliebenenrente (90 Tage Zugriff) im Wert von 149 € Online-Video-Kurs: Der Lifehack zur Einkommensanrechnung (90 Tage Zugriff) im Wert von 149 € Online-Video-Kurs: Vermietete Immobilien als Anlageform sind unschlagbar – gerade für Hinterbliebene (90 Tage Zugriff,) im Wert von 149 € Online-Video-Kurs: Witwenrente und Steuern verständlich erklärt (90 Tage Zugriff) im Wert von 149 € ✅ Inklusive Excel-Berechnungshilfe mit Lifehack im Wert von 79 €! Individuelle Terminvereinbarung nach dem Kauf möglich. Sofortiger Zugriff zu den Videokursen nach dem Kauf.
 
 ## 2. Links
 

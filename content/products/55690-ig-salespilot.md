@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Mit Leichtigkeit, viel Spaß und Freude verkaufen, wie der beste Kumpel einem eine gute Empfehlung gibt, die man gerne annimmt. (Dein Verkaufsturbo)</h2>
-<p>Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. 350€ Provision im Funnel.</p>
-<p>Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst!</p>
-<p>Das bekommt der Kunde in diesem wertvollen Online-Kurs:</p>
-<ul>
-<li>wie du smarte Verkaufstechniken so einsetzt, dass die Kunden ab sofort dich darum bitten werden, bei dir kaufen zu können, auch später…</li>
-<li>wie du <strong>Verlangen bei deinen Kunden auslöst</strong>, und du somit mit Leichtigkeit, Freude und Spaß dir die Taler zustecken lässt…</li>
-<li>wie du deinen Kunden ein wahres Einkaufserlebnis der Superlative anbietest, ihnen den roten Teppich ausrollst und sie wie der König fühlen lässt, (wofür sie dich gerne königlich entlohnen möchten)</li>
-</ul>
-<p><strong>Und als Bonus</strong> bekommst du einige hilfreiche Vorlagen, Beispiele und Hacks, die dir noch mehr Freude bereiten werden.</p>
-<p>Und einiges mehr!</p>
-<p> </p>
+**Vendor's marketplace description:** Mit Leichtigkeit, viel Spaß und Freude verkaufen, wie der beste Kumpel einem eine gute Empfehlung gibt, die man gerne annimmt. (Dein Verkaufsturbo) Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. 350€ Provision im Funnel. Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst! Das bekommt der Kunde in diesem wertvollen Online-Kurs: wie du smarte Verkaufstechniken so einsetzt, dass die Kunden ab sofort dich darum bitten werden, bei dir kaufen zu können, auch später… wie du Verlangen bei deinen Kunden auslöst , und du somit mit Leichtigkeit, Freude und Spaß dir die Taler zustecken lässt… wie du deinen Kunden ein wahres Einkaufserlebnis der Superlative anbietest, ihnen den roten Teppich ausrollst und sie wie der König fühlen lässt, (wofür sie dich gerne königlich entlohnen möchten) Und als Bonus bekommst du einige hilfreiche Vorlagen, Beispiele und Hacks, die dir noch mehr Freude bereiten werden. Und einiges mehr!
 
 ## 2. Links
 

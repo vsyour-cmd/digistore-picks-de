@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehlen Sie das einzigartige Produkt für E-Mail-Marketing und Marketing-Automatisierung mit <strong>überragender Customer Lifetime</strong>.</p>
-<p>Besuchen Sie jetzt die <a href="https://www.klicktipp.com/de/partnerprogramm/" target="_blank" rel="noreferrer noopener">Partnerprogramm-Seite von KlickTipp</a>, um noch heute Teil der KlickTipp Familie zu werden!</p>
-<p> </p>
-<p><strong>Ihre Vorteile</strong>:</p>
-<p>• Lebenslang 25 % wiederkehrende Provisionen auf Ihre Verkäufe + 20 % wiederkehrende Zweistufen-Provisionen auf die Provisionen Ihrer Affiliates.</p>
-<p>• Kaufraten von 17 bis 38 % im hochoptimierten KlickTipp Sales-Funnel.</p>
-<p>• Nie wieder Verluste durch wechselnde Browser und Geräte dank des einzigartigen KlickTipp Multi-Device-Trackings (im Durchschnitt 46 % höhere Provisionen).</p>
-<p>• <a href="https://www.klicktipp.com/de/partnerprogramm/" target="_blank" rel="noreferrer noopener">Große Auswahl optimierter Werbemittel</a>: klickstarke Banner, Vorlagen für E-Mail-Texte, Videos, Blog-Beiträge und mehr für mehr Leads und Verkäufe.</p>
-<p>• Schnelle und persönliche Unterstützung auf Deutsch durch Ihren KlickTipp Affiliate-Experten.</p>
-<p> </p>
-<p><span style="text-decoration:underline;">Wichtige Hinweise:</span></p>
-<p>• Nach der Anmeldung finden Sie auf der <a href="https://www.klicktipp.com/de/partnerprogramm/" target="_blank" rel="noreferrer noopener">Partnerprogramm-Seite von KlickTipp</a> alle Informationen, Werbemittel sowie die <a href="https://www.klicktipp.com/de/support/wissensdatenbank/werberichtlinien-und-provisionsregelungen-affiliates/" target="_blank" rel="noreferrer noopener">Werberichtlinien</a>, die einzuhalten sind.</p>
-<p>• Nutzen Sie den Affiliate-Link mit der KlickTipp-ID, sodass Ihre Provisionen automatisch nachverfolgt und ausgezahlt werden können.</p>
-<p>• Stellen Sie sicher, dass Werbeanzeigen nicht suggerieren, Sie seien selbst KlickTipp - sondern machen Sie deutlich, dass Sie KlickTipp als Partner empfehlen.</p>
-<p>• Keywords, die für Werbeanzeigen erlaubt sind, finden Sie in den <a href="https://www.klicktipp.com/de/support/wissensdatenbank/werberichtlinien-und-provisionsregelungen-affiliates/" target="_blank" rel="noreferrer noopener">Werberichtlinien</a>.</p>
+**Vendor's marketplace description:** Empfehlen Sie das einzigartige Produkt für E-Mail-Marketing und Marketing-Automatisierung mit überragender Customer Lifetime . Besuchen Sie jetzt die Partnerprogramm-Seite von KlickTipp , um noch heute Teil der KlickTipp Familie zu werden! Ihre Vorteile : • Lebenslang 25 % wiederkehrende Provisionen auf Ihre Verkäufe + 20 % wiederkehrende Zweistufen-Provisionen auf die Provisionen Ihrer Affiliates. • Kaufraten von 17 bis 38 % im hochoptimierten KlickTipp Sales-Funnel. • Nie wieder Verluste durch wechselnde Browser und Geräte dank des einzigartigen KlickTipp Multi-Device-Trackings (im Durchschnitt 46 % höhere Provisionen). • Große Auswahl optimierter Werbemittel : klickstarke Banner, Vorlagen für E-Mail-Texte, Videos, Blog-Beiträge und mehr für mehr Leads und Verkäufe. • Schnelle und persönliche Unterstützung auf Deutsch durch Ihren KlickTipp Affiliate-Experten. Wichtige Hinweise: • Nach der Anmeldung finden Sie auf der Partnerprogramm-Seite von KlickTipp alle Informationen, Werbemittel sowie die Werberichtlinien , die einzuhalten sind. • Nutzen Sie den Affiliate-Link mit der KlickTipp-ID, sodass Ihre Provisionen automatisch nachverfolgt und ausgezahlt werden können. • Stellen Sie sicher, dass Werbeanzeigen nicht suggerieren, Sie seien selbst KlickTipp - sondern machen Sie deutlich, dass Sie KlickTipp als Partner empfehlen. • Keywords, die für Werbeanzeigen erlaubt sind, finden Sie in den Werberichtlinien .
 
 ## 2. Links
 

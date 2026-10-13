@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>50 % Affiliate-Provision auf jeden zugeordneten Verkauf.</strong></p>
-<p>RESONANZ ist ein praxisnaher digitaler Guide rund um Online-Reputation, Kundenbewertungen und die Frage, wie Unternehmen durch ihren digitalen ersten Eindruck mehr Vertrauen bei potenziellen Kunden schaffen können.</p>
-<p><strong>Geeignet für Affiliates mit Zielgruppen aus:</strong><br />Unternehmern, Selbstständigen, Dienstleistern, lokalen Unternehmen, Online-Marketing, Social Media und Business.</p>
-<p><strong>Das Produkt behandelt unter anderem:</strong><br />• warum Online-Bewertungen Kaufentscheidungen beeinflussen<br />• wie Unternehmen professionell auf Bewertungen reagieren<br />• typische Fehler im Bewertungsmanagement<br />• den Aufbau von Vertrauen durch einen stärkeren Online-Auftritt<br />• konkrete und direkt umsetzbare Praxisansätze</p>
-<p><strong>Deine Vorteile als Affiliate:</strong><br />• 50 % Provision<br />• digitales Produkt ohne Versand oder Logistik<br />• professioneller Verkaufsfunnel bereits vorhanden<br />• klar definierte B2B-Zielgruppe<br />• sofortige digitale Produktauslieferung über Digistore24</p>
-<p>Du kannst Interessenten direkt über deinen persönlichen Affiliate-Link auf unsere Verkaufsseite schicken. Die technische Zuordnung und Abwicklung erfolgt über Digistore24.</p>
+**Vendor's marketplace description:** 50 % Affiliate-Provision auf jeden zugeordneten Verkauf. RESONANZ ist ein praxisnaher digitaler Guide rund um Online-Reputation, Kundenbewertungen und die Frage, wie Unternehmen durch ihren digitalen ersten Eindruck mehr Vertrauen bei potenziellen Kunden schaffen können. Geeignet für Affiliates mit Zielgruppen aus: Unternehmern, Selbstständigen, Dienstleistern, lokalen Unternehmen, Online-Marketing, Social Media und Business. Das Produkt behandelt unter anderem: • warum Online-Bewertungen Kaufentscheidungen beeinflussen • wie Unternehmen professionell auf Bewertungen reagieren • typische Fehler im Bewertungsmanagement • den Aufbau von Vertrauen durch einen stärkeren Online-Auftritt • konkrete und direkt umsetzbare Praxisansätze Deine Vorteile als Affiliate: • 50 % Provision • digitales Produkt ohne Versand oder Logistik • professioneller Verkaufsfunnel bereits vorhanden • klar definierte B2B-Zielgruppe • sofortige digitale Produktauslieferung über Digistore24 Du kannst Interessenten direkt über deinen persönlichen Affiliate-Link auf unsere Verkaufsseite schicken. Die technische Zuordnung und Abwicklung erfolgt über Digistore24.
 
 ## 2. Links
 

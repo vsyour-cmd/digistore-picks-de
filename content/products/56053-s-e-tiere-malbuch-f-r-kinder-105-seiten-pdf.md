@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Süße Tiere Malbuch für Kinder – 105 Seiten (PDF zum Ausdrucken)</p>
+**Vendor's marketplace description:** Süße Tiere Malbuch für Kinder – 105 Seiten (PDF zum Ausdrucken)
 
 ## 2. Links
 

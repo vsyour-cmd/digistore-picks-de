@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Online-Kurs wird über tägliche Webinare verkauft. Das bedeutet das kostenlose Webinar kann als kostenloser Content als reiner Mehrwert beworben werden. Den Rest übernehme ich.<strong><br /></strong></p>
-<p><strong>Das führt zu einer sehr starken Konvertierung.</strong></p>
-<p>Der Online-Kurs „Wünsch dir was –aber richtig!“ selbst ist ein <strong>30-tägiger E-Mail-Kurs.</strong></p>
-<p>Der Online-Kurs enthält eine<strong> Schritt für Schritt - Anleitung</strong>, um sein Leben nach seinen eigenen Wünschen zu gestalten.</p>
-<p>Die Kursteilnehmer lernen, wie sie das <strong>Gesetz der Anziehung optimal anwenden</strong> und die erfolgreiche Anwendung so in ihrem Leben integrieren, dass diese Technik <strong>in Ihrem Unterbewusstsein verankert</strong> wird.</p>
-<p>Dabei erhalten die Kursteilnehmer 30 Tage lang jeden Tag eine E-Mail mit einer PDF-Datei. Diese E-Mail enthält <strong>Hintergrundwissen</strong> und einen <strong>kleinen Teil dieser Theorie</strong> als Übungseinheit. Dadurch kann der Kursteilnehmer sich die Theorie noch einmal vergegenwärtigen.</p>
-<p>Außerdem enthält die E-Mail jeden Tag <strong>eine Aufgabe</strong>, die an diesem Tag erledigt werden sollte. Durch diese p<strong>raktischen Übungen</strong>, wie diese Technik anwendet werden kann, wird diese Stück für Stück im Leben integriert. Mit den einzelnen Aufgaben bzw. praktischen Übungen wird Stück für Stück die bewusste Anwendung des Gesetzes der Anziehung erlernt.</p>
-<p>Das Lesen der E-Mail und das Erledigen der Aufgabe <strong>dauert ca. eine halbe Stunde.</strong></p>
-<p>Wenn der Kunde einmal keine Zeit hat, die E-Mail zu bearbeiten, kann er jederzeit selbstständig eine <strong>Versandpause</strong> einlegen.  </p>
-<p>Der Online-Kurs gliedert sich in vier Bereiche:  </p>
-<p>1.   <strong>Die Formulierung der Wünsche</strong></p>
-<p>2.   <strong>Verstärkung der Schwingungen der Wünsche</strong></p>
-<p>3.   <strong>Blockaden und Ängste erkennen</strong></p>
-<p>4.   <strong>Blockaden auflösen, Wünsche empfangen</strong></p>
-<p> </p>
-<p>Zusätzlich dazu werden folgende Boni angeboten:</p>
-<p> </p>
-<ul><li>den Affirmationsfinder (im Wert von 29,95 Euro)</li>
-<li>Das Handbuch "Glaubenssätze entschlüsseln" (im Wert von 29,95 Euro)</li>
-<li>Checklisten für die einzelnen Abschnitte (im Wert von 59,95 Euro)</li>
-<li><strong>inkl. Sonderaktion während des Webinars: Silent Subliminals "So sind Sie ein Magnet für Reichtum, Wohlstand und Fülle." (im Wert von 49,00 Euro)</strong></li>
-</ul><p> </p>
+**Vendor's marketplace description:** Der Online-Kurs wird über tägliche Webinare verkauft. Das bedeutet das kostenlose Webinar kann als kostenloser Content als reiner Mehrwert beworben werden. Den Rest übernehme ich. Das führt zu einer sehr starken Konvertierung. Der Online-Kurs „Wünsch dir was –aber richtig!“ selbst ist ein 30-tägiger E-Mail-Kurs. Der Online-Kurs enthält eine Schritt für Schritt - Anleitung , um sein Leben nach seinen eigenen Wünschen zu gestalten. Die Kursteilnehmer lernen, wie sie das Gesetz der Anziehung optimal anwenden und die erfolgreiche Anwendung so in ihrem Leben integrieren, dass diese Technik in Ihrem Unterbewusstsein verankert wird. Dabei erhalten die Kursteilnehmer 30 Tage lang jeden Tag eine E-Mail mit einer PDF-Datei. Diese E-Mail enthält Hintergrundwissen und einen kleinen Teil dieser Theorie als Übungseinheit. Dadurch kann der Kursteilnehmer sich die Theorie noch einmal vergegenwärtigen. Außerdem enthält die E-Mail jeden Tag eine Aufgabe , die an diesem Tag erledigt werden sollte. Durch diese p raktischen Übungen , wie diese Technik anwendet werden kann, wird diese Stück für Stück im Leben integriert. Mit den einzelnen Aufgaben bzw. praktischen Übungen wird Stück für Stück die bewusste Anwendung des Gesetzes der Anziehung erlernt. Das Lesen der E-Mail und das Erledigen der Aufgabe dauert ca. eine halbe Stunde. Wenn der Kunde einmal keine Zeit hat, die E-Mail zu bearbeiten, kann er jederzeit selbstständig eine Versandpause einlegen. Der Online-Kurs gliedert sich in vier Bereiche: 1. Die Formulierung der Wünsche 2. Verstärkung der Schwingungen der Wünsche 3. Blockaden und Ängste erkennen 4. Blockaden auflösen, Wünsche empfangen Zusätzlich dazu werden folgende Boni angeboten: den Affirmationsfinder (im Wert von 29,95 Euro) Das Handbuch "Glaubenssätze entschlüsseln" (im Wert von 29,95 Euro) Checklisten für die einzelnen Abschnitte (im Wert von 59,95 Euro) inkl. Sonderaktion während des Webinars: Silent Subliminals "So sind Sie ein Magnet für Reichtum, Wohlstand und Fülle." (im Wert von 49,00 Euro)
 
 ## 2. Links
 

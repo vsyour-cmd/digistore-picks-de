@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Der GAME CHANGER der Trading Branche </strong></h2>
-<div>
-<h3><strong>Wie du deine Performance in 3 Monaten nach oben schraubst?</strong></h3>
-<h3>Die Power, alles zu verändern.</h3>
-<p>Das weltweit erste Trade Management System das dich in allen Bereichen unterstützt.</p>
-<p>Du möchtest wissen wo deine Fehler liegen und was du dagegen machen musst? Du möchtest alle deine Trades an einem Ort dokumentiert haben? Du willst endlich wissen an welcher Emotion du arbeiten musst bzw. wie du daran arbeiten musst um nachaltig deine Trading Ergebnisse zu steigern? Du möchtest einen Experten der dich beobachtet und dir Tipps gibt? Du möchtest endlich erfolgreich sein und ein Profitabler Trader werden?</p>
-<p><span style="background-color:#00ff00;"><strong>JETZT KOSTENLOS 30 TAGE TESTEN!</strong></span></p>
-</div>
+**Vendor's marketplace description:** Der GAME CHANGER der Trading Branche Wie du deine Performance in 3 Monaten nach oben schraubst? Die Power, alles zu verändern. Das weltweit erste Trade Management System das dich in allen Bereichen unterstützt. Du möchtest wissen wo deine Fehler liegen und was du dagegen machen musst? Du möchtest alle deine Trades an einem Ort dokumentiert haben? Du willst endlich wissen an welcher Emotion du arbeiten musst bzw. wie du daran arbeiten musst um nachaltig deine Trading Ergebnisse zu steigern? Du möchtest einen Experten der dich beobachtet und dir Tipps gibt? Du möchtest endlich erfolgreich sein und ein Profitabler Trader werden? JETZT KOSTENLOS 30 TAGE TESTEN!
 
 ## 2. Links
 

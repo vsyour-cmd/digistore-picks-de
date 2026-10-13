@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In diesem umfangreichen eBook liefern wir dir alle benötigten Informationen, um mit Epoxidharz zu arbeiten und einen möglichst einfachen Einstieg in die Materie zu finden. Neben den Grundlagen findest du viele wertvolle Informationen sowie eine Auswahl spannender Projekte. Im Bonusteil gibt es dann nützliche Tipps und Tricks. Tauche ein in die kreative Welt von Epoxidharz und Resin und kreiere deine ersten atemberaubenden Kunstwerke.</p>
-<p> </p>
-<p>Mit unserem eBook für das kreative Gestalten mit Epoxidharz lernst du auf 125 Seiten: </p>
-<ul>
-<li>Was Epoxidharz genau ist und wie du damit sicher arbeitest</li>
-<li>Alle notwendigen Materialien, Hacks und Werkzeuge für beste Ergebnisse kennen</li>
-<li>Leicht verständliche Schritt-für-Schritt-Anleitungen für das Mischen und die richtige Konsistenz</li>
-<li>Detaillierte Anleitungen für 6 kreative Projekte</li>
-</ul>
-<p> </p>
-<p><strong>Bonus Inhalte:</strong></p>
-<ul>
-<li>Alles zu Aushärtungszeiten</li>
-<li>Welche Trennmittel wirklich funktionieren</li>
-<li>Welche Fehler du bei der Arbeit mit Epoxidharz vermeiden solltest</li>
-</ul>
+**Vendor's marketplace description:** In diesem umfangreichen eBook liefern wir dir alle benötigten Informationen, um mit Epoxidharz zu arbeiten und einen möglichst einfachen Einstieg in die Materie zu finden. Neben den Grundlagen findest du viele wertvolle Informationen sowie eine Auswahl spannender Projekte. Im Bonusteil gibt es dann nützliche Tipps und Tricks. Tauche ein in die kreative Welt von Epoxidharz und Resin und kreiere deine ersten atemberaubenden Kunstwerke. Mit unserem eBook für das kreative Gestalten mit Epoxidharz lernst du auf 125 Seiten: Was Epoxidharz genau ist und wie du damit sicher arbeitest Alle notwendigen Materialien, Hacks und Werkzeuge für beste Ergebnisse kennen Leicht verständliche Schritt-für-Schritt-Anleitungen für das Mischen und die richtige Konsistenz Detaillierte Anleitungen für 6 kreative Projekte Bonus Inhalte: Alles zu Aushärtungszeiten Welche Trennmittel wirklich funktionieren Welche Fehler du bei der Arbeit mit Epoxidharz vermeiden solltest
 
 ## 2. Links
 

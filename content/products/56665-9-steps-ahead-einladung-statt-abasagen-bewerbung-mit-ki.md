@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>9 Steps Ahead – Einladung statt Absagen: Bewerbung mit KI</strong></p>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>Mit diesem Online-Kurs lernst du Schritt für Schritt, wie du deine Bewerbung mit Hilfe von KI professionell optimierst damit du wieder Einladungen zum Bewerbungsgespräch bekommst.</p>
-<p>Du erfährst, wie du wichtige ATS-Keywords aus Stellenausschreibungen erkennst, deinen Lebenslauf gezielt anpasst, ein überzeugendes Anschreiben erstellst und deine Bewerbungsunterlagen professionell per E-Mail versendest.</p>
-<p>Zusätzlich zeige ich dir, worauf ein gutes Bewerbungsfoto achten sollte und wie du mit KI ein professionelles Business-Foto für deine Bewerbung erstellen kannst.</p>
-<p>Der Kurs besteht aus <strong>3 Modulen mit insgesamt 15 Lektionen</strong> und ist so aufgebaut, dass du die Inhalte einfach nachvollziehen und direkt für deine eigene Bewerbung umsetzen kannst.</p>
-<p><strong>Du lernst im Kurs:</strong></p>
-<p>✓ ATS-Keywords aus Stellenanzeigen erkennen<br />✓ Lebenslauf ATS-freundlich optimieren<br />✓ Anschreiben mit KI professionell erstellen<br />✓ Bewerbungsfoto mit KI verbessern oder erstellen<br />✓ Bewerbungsunterlagen professionell per E-Mail versenden</p>
-<p>Nach dem Kauf erhältst du deine Zugangsdaten zum Online-Kurs per E-Mail.</p>
-<p><strong>Ideal für Jobsuchende, die ihre Bewerbung moderner, klarer und passender zur gewünschten Stelle gestalten möchten.</strong></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** 9 Steps Ahead – Einladung statt Absagen: Bewerbung mit KI Mit diesem Online-Kurs lernst du Schritt für Schritt, wie du deine Bewerbung mit Hilfe von KI professionell optimierst damit du wieder Einladungen zum Bewerbungsgespräch bekommst. Du erfährst, wie du wichtige ATS-Keywords aus Stellenausschreibungen erkennst, deinen Lebenslauf gezielt anpasst, ein überzeugendes Anschreiben erstellst und deine Bewerbungsunterlagen professionell per E-Mail versendest. Zusätzlich zeige ich dir, worauf ein gutes Bewerbungsfoto achten sollte und wie du mit KI ein professionelles Business-Foto für deine Bewerbung erstellen kannst. Der Kurs besteht aus 3 Modulen mit insgesamt 15 Lektionen und ist so aufgebaut, dass du die Inhalte einfach nachvollziehen und direkt für deine eigene Bewerbung umsetzen kannst. Du lernst im Kurs: ✓ ATS-Keywords aus Stellenanzeigen erkennen ✓ Lebenslauf ATS-freundlich optimieren ✓ Anschreiben mit KI professionell erstellen ✓ Bewerbungsfoto mit KI verbessern oder erstellen ✓ Bewerbungsunterlagen professionell per E-Mail versenden Nach dem Kauf erhältst du deine Zugangsdaten zum Online-Kurs per E-Mail. Ideal für Jobsuchende, die ihre Bewerbung moderner, klarer und passender zur gewünschten Stelle gestalten möchten.
 
 ## 2. Links
 

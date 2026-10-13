@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4 style="text-align:center;"><span style="background-color:#99cc00;"><em><strong>  ALOE-VERA Produkte selber machen   </strong></em></span></h4>
-<p style="text-align:center;"><span style="color:#008000;"><em><strong>&gt; Brandneues Ebook &lt;</strong></em></span></p>
-<p style="text-align:center;"><span style="color:#008000;"><em><strong>- Inklusive zweier Upsell-Produkten -</strong></em></span></p>
-<p>Aloe-Vera, deiner Gesundheit zu Liebe!</p>
-<p> In dem Buch „Aloe-Vera Produkte selber machen“ findest du 45 Rezepte wie man die eigenen Aloe-Vera Pflege- und Wohlfühlprodukte selber machen kann.  </p>
-<p>Zusätzlich enthalten ist eine Zutatenliste und verschiedene Informationen über die Aloe-Vera!  </p>
-<p>Die Natur schenkte uns mit der Aloe eine der erstaunlichsten Pflanze auf unserer Erde.  </p>
-<p>Verwöhnen Sie sich regelmäßig mit dem Besten, was die natürliche Wirkstoffkombination aus der Wüstenlilie zu bieten hat.</p>
-<p> </p>
-<p> <em><strong>Was bekommen Sie in diesem Ebook „ALOE-VERA selber machen“:</strong></em></p>
-<p>&gt; In diesem Buch finden Sie eine Auflistung von 45 verschiedenen Rezepten wie man sich eigene Aloe-Vera Produkte selber machen kann!      </p>
-<p>&gt; Sie erhalten jede Menge Informationen über die Aloe-Vera, deren Eigenschaften, Einsatzgebiete, Wirkstoffe und Wirkungsweisen.</p>
-<p>&gt; Im Bestellmodus werden noch 2 Upsell Produkte angeboten, die gerne mitgekauft werden, auch dafür bekommen Sie 50% Provision!</p>
-<p> </p>
-<p><em><strong>Zusammenfassend bekommen Sie:</strong></em></p>
-<p>- Hohe Affiliateprovison von 50 %</p>
-<p>- 50 % auf zwei weitere Upsell Produkte</p>
-<p>- Erlaubnis zur Verwendung aller Werbemittel</p>
-<p> </p>
-<p style="text-align:center;"><span style="background-color:#ffcc00;"><strong>&gt;&gt; Das „Brandneue“ Ebook ist zur Zeit von 24,90 Euro auf 9,90 Euro reduziert! &lt;&lt; </strong></span></p>
-<p style="text-align:center;"><span style="background-color:#ffcc00;"><strong>Eine Ersparniss für den Käufer von 15,00 Euro!</strong></span></p>
-<h3 style="text-align:center;"><span style="color:#008000;"><strong>&gt; Brandneues Ebook &lt;</strong></span></h3>
+**Vendor's marketplace description:** ALOE-VERA Produkte selber machen > Brandneues Ebook < - Inklusive zweier Upsell-Produkten - Aloe-Vera, deiner Gesundheit zu Liebe! In dem Buch „Aloe-Vera Produkte selber machen“ findest du 45 Rezepte wie man die eigenen Aloe-Vera Pflege- und Wohlfühlprodukte selber machen kann. Zusätzlich enthalten ist eine Zutatenliste und verschiedene Informationen über die Aloe-Vera! Die Natur schenkte uns mit der Aloe eine der erstaunlichsten Pflanze auf unserer Erde. Verwöhnen Sie sich regelmäßig mit dem Besten, was die natürliche Wirkstoffkombination aus der Wüstenlilie zu bieten hat. Was bekommen Sie in diesem Ebook „ALOE-VERA selber machen“: > In diesem Buch finden Sie eine Auflistung von 45 verschiedenen Rezepten wie man sich eigene Aloe-Vera Produkte selber machen kann! > Sie erhalten jede Menge Informationen über die Aloe-Vera, deren Eigenschaften, Einsatzgebiete, Wirkstoffe und Wirkungsweisen. > Im Bestellmodus werden noch 2 Upsell Produkte angeboten, die gerne mitgekauft werden, auch dafür bekommen Sie 50% Provision! Zusammenfassend bekommen Sie: - Hohe Affiliateprovison von 50 % - 50 % auf zwei weitere Upsell Produkte - Erlaubnis zur Verwendung aller Werbemittel >> Das „Brandneue“ Ebook ist zur Zeit von 24,90 Euro auf 9,90 Euro reduziert! << Eine Ersparniss für den Käufer von 15,00 Euro! > Brandneues Ebook <
 
 ## 2. Links
 

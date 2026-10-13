@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein leicht verständliches Einstiegsprodukt für Pinterest-Nutzer, die mit KI strukturierter und schneller Inhalte planen möchten.</p>
-<p>Der Pinterest-KI-Fahrplan führt Käufer in fünf konkreten Schritten durch Profil, Keywords, Pin-Erstellung, SEO und Auswertung. Das digitale PDF ist sofort verfügbar und eignet sich besonders für Einsteiger, Selbstständige, Blogger und Affiliate-Marketer.</p>
-<p>Darum lässt sich das Produkt gut bewerben:</p>
-<p>✓ klarer Pinterest- und KI-Nutzen<br />✓ niedrige Einstiegshürde durch einen Preis von nur 7 €<br />✓ professionelle, mobil optimierte Verkaufsseite<br />✓ 40 % Affiliate-Provision<br />✓ sofortige digitale Auslieferung</p>
-<p>Affiliates können das Produkt gezielt über Inhalte zu Pinterest-Marketing, KI-Tools, Contentplanung, Blog-Traffic und Online-Marketing bewerben.</p>
+**Vendor's marketplace description:** Ein leicht verständliches Einstiegsprodukt für Pinterest-Nutzer, die mit KI strukturierter und schneller Inhalte planen möchten. Der Pinterest-KI-Fahrplan führt Käufer in fünf konkreten Schritten durch Profil, Keywords, Pin-Erstellung, SEO und Auswertung. Das digitale PDF ist sofort verfügbar und eignet sich besonders für Einsteiger, Selbstständige, Blogger und Affiliate-Marketer. Darum lässt sich das Produkt gut bewerben: ✓ klarer Pinterest- und KI-Nutzen ✓ niedrige Einstiegshürde durch einen Preis von nur 7 € ✓ professionelle, mobil optimierte Verkaufsseite ✓ 40 % Affiliate-Provision ✓ sofortige digitale Auslieferung Affiliates können das Produkt gezielt über Inhalte zu Pinterest-Marketing, KI-Tools, Contentplanung, Blog-Traffic und Online-Marketing bewerben.
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Stoffwechselkur E-Book von Nina Wolves, Bloggerin und Model. </p>
-<p>Mit mehr als 4 Jahren Erfahrung mit der Stoffwechselkur ist Nina eine Koryphäe auf ihrem Gebiet.</p>
-<p>Auf 184 Seiten beschreibt Nina alle wichtigen Details zur Stoffwechselkur und verrät alle ihre Tipps und Tricks die sie mühsam über die Jahre gesammelt hat.</p>
-<p>Das Buch enthält außerdem 84 selbst erstellte und bebilderte Rezepte mit Schritt-für-Schritt Anleitung zum nachkochen. </p>
-<p>Dieses Buch stellt den ultimativen Ablaufplan für jede Stoffwechselkur dar. </p>
+**Vendor's marketplace description:** Das Stoffwechselkur E-Book von Nina Wolves, Bloggerin und Model. Mit mehr als 4 Jahren Erfahrung mit der Stoffwechselkur ist Nina eine Koryphäe auf ihrem Gebiet. Auf 184 Seiten beschreibt Nina alle wichtigen Details zur Stoffwechselkur und verrät alle ihre Tipps und Tricks die sie mühsam über die Jahre gesammelt hat. Das Buch enthält außerdem 84 selbst erstellte und bebilderte Rezepte mit Schritt-für-Schritt Anleitung zum nachkochen. Dieses Buch stellt den ultimativen Ablaufplan für jede Stoffwechselkur dar.
 
 ## 2. Links
 

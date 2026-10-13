@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>!!!BRANDNEUE MOBILE VSL 2025 VERDOPPELT DEINE CONVERSIONRATEN!!!</strong></span></p>
-<p><strong>Der Money Magnet 2.0 </strong><br /><br /><strong><span style="color:#ff0000;">60% Provision auf das Frontend Produkt - 50% Provision auf die Upsells.</span></strong></p>
-<p><strong>Bis zu 255 € Provision sind im Funnel für Dich möglich + durch das Abo monatlich weitere Lifetime Provisionen.</strong></p>
-<p><strong>Deine Vorteile:</strong></p>
-<ul>
-<li>Ideales Produkt für jeden der Online Geld verdienen möchte</li>
-<li>Conversionsstarke VSL</li>
-<li>Die Verkaufs- und Upsellseiten werden stetig auf Conversion optimiert.</li>
-</ul>
-<p>Von den E-Mail Vorlagen bis hin zu Werbebildern ist alles für dich vorbereitet.</p>
-<p><a href="https://moneymagnet.funnelcockpit.com/partnerseite-2-2/" target="_blank" rel="noreferrer noopener">&gt;&gt;Hier klicken für die Werbemittel&lt;&lt;</a></p>
+**Vendor's marketplace description:** !!!BRANDNEUE MOBILE VSL 2025 VERDOPPELT DEINE CONVERSIONRATEN!!! Der Money Magnet 2.0 60% Provision auf das Frontend Produkt - 50% Provision auf die Upsells. Bis zu 255 € Provision sind im Funnel für Dich möglich + durch das Abo monatlich weitere Lifetime Provisionen. Deine Vorteile: Ideales Produkt für jeden der Online Geld verdienen möchte Conversionsstarke VSL Die Verkaufs- und Upsellseiten werden stetig auf Conversion optimiert. Von den E-Mail Vorlagen bis hin zu Werbebildern ist alles für dich vorbereitet. >>Hier klicken für die Werbemittel<<
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das <strong>ETERNUM Digital Business System</strong> ist ein digitales Komplettpaket für alle, die mit KI strukturiert ein digitales Business aufbauen wollen: praxiserprobte Systeme, Workbooks, fertige KI-Prompts, Content-Vorlagen, Funnel-Bausteine und ein kompletter 30-Tage-Plan – ehrlich, fundiert und ohne leere Reich-werden-Versprechen.</p>
-<p><strong>Deine Vorteile als Affiliate:</strong></p>
-<ul>
-<li><strong>50 % Provision auf den gesamten Funnel</strong> (Frontend + Order-Bump + Upsell)</li>
-<li>Sofortige Freischaltung ohne Wartezeit (Auto-Accept)</li>
-<li>Professionelle, conversion-optimierte Verkaufsseite</li>
-<li>30 Tage Geld-zurück-Garantie senkt die Kaufhürde</li>
-<li>Affiliate-Support-Seite mit fertigen Werbemitteln: E-Mail-Vorlagen, Social-Media-Posts und Textbausteinen</li>
-</ul>
-<p><strong>Zielgruppe:</strong> Angestellte, Selbstständige, Creator und KI-Einsteiger im DACH-Raum, die ein seriöses digitales Nebenprojekt starten wollen – ein stark wachsender Markt.</p>
-<p>Verkauf, Abwicklung und Rechnung laufen sicher über Digistore24. Bewerbung nur über seriöse, transparente Kanäle – keine Spam- oder Fake-Methoden.</p>
+**Vendor's marketplace description:** Das ETERNUM Digital Business System ist ein digitales Komplettpaket für alle, die mit KI strukturiert ein digitales Business aufbauen wollen: praxiserprobte Systeme, Workbooks, fertige KI-Prompts, Content-Vorlagen, Funnel-Bausteine und ein kompletter 30-Tage-Plan – ehrlich, fundiert und ohne leere Reich-werden-Versprechen. Deine Vorteile als Affiliate: 50 % Provision auf den gesamten Funnel (Frontend + Order-Bump + Upsell) Sofortige Freischaltung ohne Wartezeit (Auto-Accept) Professionelle, conversion-optimierte Verkaufsseite 30 Tage Geld-zurück-Garantie senkt die Kaufhürde Affiliate-Support-Seite mit fertigen Werbemitteln: E-Mail-Vorlagen, Social-Media-Posts und Textbausteinen Zielgruppe: Angestellte, Selbstständige, Creator und KI-Einsteiger im DACH-Raum, die ein seriöses digitales Nebenprojekt starten wollen – ein stark wachsender Markt. Verkauf, Abwicklung und Rechnung laufen sicher über Digistore24. Bewerbung nur über seriöse, transparente Kanäle – keine Spam- oder Fake-Methoden.
 
 ## 2. Links
 

@@ -41,55 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="text-decoration:underline;"><span style="color:#ff0000;text-decoration:underline;"><strong>Neuauflage: April 2026</strong></span></span></p>
-<p><span style="text-decoration:underline;"><span style="color:#ff0000;text-decoration:underline;"><strong>Seit 2018 etabliert – jetzt komplett überarbeitet, aktualisiert und erweitert.</strong></span></span></p>
-<p><span style="color:#333333;"><strong>Dein Weg aus der Anziehung zwischen Hochsensiblen und Narzissten – zurück zu Dir selbst.</strong></span></p>
-<p>Du spürst, dass in Deiner Beziehung etwas nicht stimmt.<br />Du kannst Dich nicht wirklich zeigen, hast Angst vor Ablehnung oder Kritik – und trotzdem hält Dich etwas fest.</p>
-<p>Dieses Buch hilft Dir, diese Dynamik zu verstehen und eine klare Entscheidung zu treffen.</p>
-<p><strong>Was Dich erwartet:</strong></p>
-<ul>
-<li>
-<p>Grundlagenwissen zu narzisstischen Stilen, Schemata und Beziehungsspielen</p>
-</li>
-<li>
-<p>Klarheit darüber, wie stark die Ausprägung Deines Partners ist</p>
-</li>
-<li>
-<p>Konkrete Strategien für Grenzen, Selbstschutz und Beziehungsgestaltung</p>
-</li>
-<li>
-<p>Orientierung, ob die Beziehung noch Sinn macht</p>
-</li>
-<li>
-<p>Hilfe für eine klare und möglichst kräfteschonende Trennung</p>
-</li>
-<li>
-<p>Verständnis für Deine eigenen Bindungsmuster und dafür, warum Dich solche Beziehungen anziehen</p>
-</li>
-</ul>
-<p><strong>Ein anderer Blick auf Narzissmus</strong></p>
-<p>Jenseits einfacher Opfer-Täter-Klischees geht es um Eigenverantwortung, Selbstachtung und Mitgefühl.</p>
-<p>Nicht jede narzisstische Ausprägung bedeutet automatisch das Ende einer Beziehung. Aber Liebe allein reicht nicht.</p>
-<p>Am Ende geht es darum, klarer zu sehen, bei Dir zu bleiben und den vielleicht radikalsten Weg zu wählen:</p>
-<p><strong>den Weg der Liebe – ohne Dich selbst zu verlieren.</strong></p>
-<p><strong>Das Komplettpaket:</strong></p>
-<ul>
-<li>
-<p>E-Book <em>Der liebende Narzisst</em> – Neuauflage April 2026</p>
-</li>
-<li>
-<p>2 Bonus-Videos</p>
-</li>
-<li>
-<p>10-seitiges Booklet</p>
-</li>
-<li>
-<p>Checkliste mit 20 Fragen</p>
-</li>
-</ul>
-<p>Nach dem Kauf erhältst Du sofort Zugriff auf alle Inhalte als PDF und EPUB.</p>
-<p>----</p>
-<p><strong>Affiliate-Partner erhalten 40 % Provision pro verkauftem Komplettpaket.</strong></p>
+**Vendor's marketplace description:** Neuauflage: April 2026 Seit 2018 etabliert – jetzt komplett überarbeitet, aktualisiert und erweitert. Dein Weg aus der Anziehung zwischen Hochsensiblen und Narzissten – zurück zu Dir selbst. Du spürst, dass in Deiner Beziehung etwas nicht stimmt. Du kannst Dich nicht wirklich zeigen, hast Angst vor Ablehnung oder Kritik – und trotzdem hält Dich etwas fest. Dieses Buch hilft Dir, diese Dynamik zu verstehen und eine klare Entscheidung zu treffen. Was Dich erwartet: Grundlagenwissen zu narzisstischen Stilen, Schemata und Beziehungsspielen Klarheit darüber, wie stark die Ausprägung Deines Partners ist Konkrete Strategien für Grenzen, Selbstschutz und Beziehungsgestaltung Orientierung, ob die Beziehung noch Sinn macht Hilfe für eine klare und möglichst kräfteschonende Trennung Verständnis für Deine eigenen Bindungsmuster und dafür, warum Dich solche Beziehungen anziehen Ein anderer Blick auf Narzissmus Jenseits einfacher Opfer-Täter-Klischees geht es um Eigenverantwortung, Selbstachtung und Mitgefühl. Nicht jede narzisstische Ausprägung bedeutet automatisch das Ende einer Beziehung. Aber Liebe allein reicht nicht. Am Ende geht es darum, klarer zu sehen, bei Dir zu bleiben und den vielleicht radikalsten Weg zu wählen: den Weg der Liebe – ohne Dich selbst zu verlieren. Das Komplettpaket: E-Book Der liebende Narzisst – Neuauflage April 2026 2 Bonus-Videos 10-seitiges Booklet Checkliste mit 20 Fragen Nach dem Kauf erhältst Du sofort Zugriff auf alle Inhalte als PDF und EPUB. ---- Affiliate-Partner erhalten 40 % Provision pro verkauftem Komplettpaket.
 
 ## 2. Links
 

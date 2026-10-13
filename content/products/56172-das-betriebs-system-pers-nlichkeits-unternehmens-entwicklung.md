@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>„Das Betriebs-System" ist ein neues und erprobtes Selbstverbesserungstraining für persönliche und unternehmerische Entwicklung, das auf mehreren Unternehmer-Seminaren bereits sehr gut angenommen wurde. (Einschätzungen und Reviews siehe Support-Seite.)</p>
-<p>Es folgt dem Prinzip: Wer sich selbst verbessert, produziert in der Folge bessere Ergebnisse – in jedem Bereich.</p>
-<p>Angeboten wird es im Videoformat in Deutsch und Englisch, begleitet von Bonus-Informationen in Textform. Die zugehörige Website ermöglicht Kurseinblicke vorab und qualifiziert Interessenten selbst – was die Conversionqualität erhöht.</p>
-<p>Der Zugang wird automatisch nach Kauf freigeschaltet.</p>
-<p>Das Training fußt rein auf Prinzipien, wurde aus gelebter Erfahrung erschaffen und bereits von Freunden und Seminargruppen erfolgreich getestet.</p>
-<p>Die Support-Seite bietet tiefere Einblicke, weiterführende Informationen sowie die Möglichkeit zur direkten Rückfrage.</p>
-<p>Wir laden alle interessierten Affiliates herzlich ein, sich dort einen Eindruck zu verschaffen und bei Fragen gerne auf uns zuzukommen.</p>
+**Vendor's marketplace description:** „Das Betriebs-System" ist ein neues und erprobtes Selbstverbesserungstraining für persönliche und unternehmerische Entwicklung, das auf mehreren Unternehmer-Seminaren bereits sehr gut angenommen wurde. (Einschätzungen und Reviews siehe Support-Seite.) Es folgt dem Prinzip: Wer sich selbst verbessert, produziert in der Folge bessere Ergebnisse – in jedem Bereich. Angeboten wird es im Videoformat in Deutsch und Englisch, begleitet von Bonus-Informationen in Textform. Die zugehörige Website ermöglicht Kurseinblicke vorab und qualifiziert Interessenten selbst – was die Conversionqualität erhöht. Der Zugang wird automatisch nach Kauf freigeschaltet. Das Training fußt rein auf Prinzipien, wurde aus gelebter Erfahrung erschaffen und bereits von Freunden und Seminargruppen erfolgreich getestet. Die Support-Seite bietet tiefere Einblicke, weiterführende Informationen sowie die Möglichkeit zur direkten Rückfrage. Wir laden alle interessierten Affiliates herzlich ein, sich dort einen Eindruck zu verschaffen und bei Fragen gerne auf uns zuzukommen.
 
 ## 2. Links
 

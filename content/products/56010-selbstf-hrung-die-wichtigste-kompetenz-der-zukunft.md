@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Selbstführung ist das Megatrend-Thema unserer Zeit</strong> – und dieses Buch trifft genau den Nerv deiner Community.</p>
-<p>„Positive Selbstführung" richtet sich an alle Menschen, die ihr Leben aktiv gestalten, in Krisen stark bleiben und echte Resilienz aufbauen wollen. Eine riesige, kaufbereite Zielgruppe – ideal für Coaches, Trainer, Therapeuten, Blogger und alle, die im Bereich Persönlichkeitsentwicklung, Mindset oder mentale Gesundheit aktiv sind.</p>
-<p>Das Buch überzeugt durch:</p>
-<ul>
-<li>✅ Klare Struktur in 10 Schlüsselbereichen des Lebens</li>
-<li>✅ Sofort umsetzbare Methoden &amp; Strategien</li>
-<li>✅ Breite Zielgruppe – vom Berufseinsteiger bis zur Führungskraft</li>
-<li>✅ Kein Selbstoptimierungs-Hype, sondern echte, nachhaltige Persönlichkeitsentwicklung</li>
-</ul>
-<p>Ein Buch, das du deiner Community mit voller Überzeugung empfehlen kannst.</p>
+**Vendor's marketplace description:** Selbstführung ist das Megatrend-Thema unserer Zeit – und dieses Buch trifft genau den Nerv deiner Community. „Positive Selbstführung" richtet sich an alle Menschen, die ihr Leben aktiv gestalten, in Krisen stark bleiben und echte Resilienz aufbauen wollen. Eine riesige, kaufbereite Zielgruppe – ideal für Coaches, Trainer, Therapeuten, Blogger und alle, die im Bereich Persönlichkeitsentwicklung, Mindset oder mentale Gesundheit aktiv sind. Das Buch überzeugt durch: ✅ Klare Struktur in 10 Schlüsselbereichen des Lebens ✅ Sofort umsetzbare Methoden & Strategien ✅ Breite Zielgruppe – vom Berufseinsteiger bis zur Führungskraft ✅ Kein Selbstoptimierungs-Hype, sondern echte, nachhaltige Persönlichkeitsentwicklung Ein Buch, das du deiner Community mit voller Überzeugung empfehlen kannst.
 
 ## 2. Links
 

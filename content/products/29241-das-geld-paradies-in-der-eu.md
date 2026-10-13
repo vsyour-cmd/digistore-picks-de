@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mein Ebook "<span style="color:#800080;"><strong>Das Geld-Paradies in der EU</strong></span>" ist ein Bestseller, weil es zwei Fliegen mit einer Klappe schlägt:</p>
-<p>1. Das Geldparadies für Vermögende:<br /> Hier können Sie Geld anlegen, ohne legal Steuern zahlen zu müssen.<br /><br /> 2. Das Geldparadies für Mittellose:<br /> Hier erhalten Sie als EU-Bürger vor Ort jeden Monat über 1.100 Euro vom Staat, auch wenn Sie nichts dafür tun.<br /><br /> Und weil es nicht am anderen Ende der Welt liegt, sondern hier in der EU!</p>
-<p> </p>
-<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
-<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
-<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<strong>J<span style="color:#cc99ff;">eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</span></strong>“.</p>
-<p>2 einfache Schritte:</p>
-<ol>
-<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html </a></span>(dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge")</li>
-<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
-</ol>
-<p> </p>
-<p><strong><em> </em></strong></p>
+**Vendor's marketplace description:** Mein Ebook " Das Geld-Paradies in der EU " ist ein Bestseller, weil es zwei Fliegen mit einer Klappe schlägt: 1. Das Geldparadies für Vermögende: Hier können Sie Geld anlegen, ohne legal Steuern zahlen zu müssen. 2. Das Geldparadies für Mittellose: Hier erhalten Sie als EU-Bürger vor Ort jeden Monat über 1.100 Euro vom Staat, auch wenn Sie nichts dafür tun. Und weil es nicht am anderen Ende der Welt liegt, sondern hier in der EU! Möchten Sie ein Ansichtsexemplar? Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz. Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „ J eden T ag R ei*cher “. 2 einfache Schritte: JTR gratis bestellen auf https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge") Email mit Ihrem Ebook-Wunsch an service@big-benn-books.com
 
 ## 2. Links
 

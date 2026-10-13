@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Dein persönlicher KI-Sportcoach für 90 Tage.</strong></p>
-<p>INFINITY SPORT 90 richtet sich an alle, die ihr Training nicht nur einmal analysieren, sondern über einen längeren Zeitraum <strong>planen, begleiten und regelmäßig anpassen</strong> möchten.</p>
-<p>Du erhältst <strong>300 Analysen</strong>, die dir ab Aktivierung <strong>90 Tage lang</strong> zur Verfügung stehen.</p>
-<p>Mit INFINITY SPORT kannst du unter anderem:</p>
-<ul>
-<li>deine aktuelle Trainingssituation und deine Ziele analysieren</li>
-<li>individuelle Trainingspläne erstellen lassen</li>
-<li>Trainingspläne speichern und später weiterentwickeln</li>
-<li>bis zu <strong>3 Trainingspläne gleichzeitig</strong> verwalten und zwischen ihnen wechseln</li>
-<li>Training und Fortschritt regelmäßig neu analysieren</li>
-<li>Trainingspläne an Veränderungen, neue Ziele oder deine aktuelle Situation anpassen</li>
-<li>Ernährung und Regeneration in deine Analyse einbeziehen</li>
-<li>den Lebensmittel-Scanner und Rezeptideen nutzen</li>
-</ul>
-<p><strong>300 Analysen geben dir genügend Spielraum, INFINITY SPORT intensiv über die gesamten 90 Tage zu nutzen – vom ersten Trainingsplan bis zur laufenden Anpassung.</strong></p>
-<p>INFINITY SPORT ist eine <strong>KI-gestützte Web-App</strong>. Du nutzt sie direkt über deinen Browser – ohne Installation.</p>
-<p><strong>Enthalten:</strong><br /><strong>300 Analysen · 90 Tage Nutzungszeit</strong><br /><br /><br /></p>
-<p>Nicht verbrauchte Analysen verfallen nach Ablauf der 90 Tage und können nicht auf einen späteren Zeitraum übertragen werden.</p>
-<p><strong>INFINITY SPORT 90 – Dein Training. Dein Ziel. Dein Plan.<br /><br />Für Affiliates: INFINITY SPORT 90 ist eine browserbasierte KI-Sportanwendung für Freizeit-, Fitness- und ambitionierte Sportler. Das Produkt kann nach dem Kauf direkt genutzt werden und kombiniert individuelle Sportanalysen mit Trainingsplanung und Lebensmittelscanner.</strong></p>
+**Vendor's marketplace description:** Dein persönlicher KI-Sportcoach für 90 Tage. INFINITY SPORT 90 richtet sich an alle, die ihr Training nicht nur einmal analysieren, sondern über einen längeren Zeitraum planen, begleiten und regelmäßig anpassen möchten. Du erhältst 300 Analysen , die dir ab Aktivierung 90 Tage lang zur Verfügung stehen. Mit INFINITY SPORT kannst du unter anderem: deine aktuelle Trainingssituation und deine Ziele analysieren individuelle Trainingspläne erstellen lassen Trainingspläne speichern und später weiterentwickeln bis zu 3 Trainingspläne gleichzeitig verwalten und zwischen ihnen wechseln Training und Fortschritt regelmäßig neu analysieren Trainingspläne an Veränderungen, neue Ziele oder deine aktuelle Situation anpassen Ernährung und Regeneration in deine Analyse einbeziehen den Lebensmittel-Scanner und Rezeptideen nutzen 300 Analysen geben dir genügend Spielraum, INFINITY SPORT intensiv über die gesamten 90 Tage zu nutzen – vom ersten Trainingsplan bis zur laufenden Anpassung. INFINITY SPORT ist eine KI-gestützte Web-App . Du nutzt sie direkt über deinen Browser – ohne Installation. Enthalten: 300 Analysen · 90 Tage Nutzungszeit Nicht verbrauchte Analysen verfallen nach Ablauf der 90 Tage und können nicht auf einen späteren Zeitraum übertragen werden. INFINITY SPORT 90 – Dein Training. Dein Ziel. Dein Plan. Für Affiliates: INFINITY SPORT 90 ist eine browserbasierte KI-Sportanwendung für Freizeit-, Fitness- und ambitionierte Sportler. Das Produkt kann nach dem Kauf direkt genutzt werden und kombiniert individuelle Sportanalysen mit Trainingsplanung und Lebensmittelscanner.
 
 ## 2. Links
 

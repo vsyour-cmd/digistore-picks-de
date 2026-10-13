@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Allgemein:</strong> <br />Seit 2008 gibt die Autorin und Diplom Psychologin, Angelika King, Seminare im Internet mit tausenden Teilnehmern, mit dem Ziel Selbstsabotage und Blockaden zu lösen, alte Verletzungen zu heilen, Ängste zu bewältigen, Beziehungen zu klären und Geldsorgen zu entsorgen. </p>
-<p><strong>Das Produkt:</strong> <br />Im Laufe der Zeit sind daraus über 40 digitale Kurse entstanden, die alle in der Akademie zu finden sind.</p>
-<p>Die Kurse sind gegliedert in 3 Themen-Bereiche:</p>
-<ul><li>Geld &amp; Erfolg</li>
-<li>Beziehungen &amp; Selbstliebe</li>
-<li>Emotionscoaching, Stress- und Selbstmanagement</li>
-</ul><p>BONUS-Inhalte: E-Books, Blog- und in verschiedenen Fachzeitschriften veröffentlichte Artikel von Angelika King sowie die beliebten King-Selbstcoaching-Tipps.</p>
-<p>Darüber hinaus gibt es 1 x monatlich ein Live-Coaching-Webinar und die Einladung zur privaten Facebook-Gruppe.</p>
-<p>Über 60 Stunden hoch qualitative Kurse und geballtes Wissen zum Durcharbeiten an einem Ort. </p>
-<p> <br /><strong>3 verschiedene Preismodelle</strong></p>
-<ul><li>Monatlich: Den ersten Monat testen für 27€ und danach 37€ monatlich</li>
-<li>Jährlich: 370€ (2 Monate gespart)</li>
-<li>Lifetime: einmalig nur 497€ für lebenslangen Zugriff!
-<div> </div>
-</li>
-</ul><p>Werde jetzt Affiliate und verdiene mit deiner Empfehlung satte 30% Provision!  </p>
+**Vendor's marketplace description:** Allgemein: Seit 2008 gibt die Autorin und Diplom Psychologin, Angelika King, Seminare im Internet mit tausenden Teilnehmern, mit dem Ziel Selbstsabotage und Blockaden zu lösen, alte Verletzungen zu heilen, Ängste zu bewältigen, Beziehungen zu klären und Geldsorgen zu entsorgen. Das Produkt: Im Laufe der Zeit sind daraus über 40 digitale Kurse entstanden, die alle in der Akademie zu finden sind. Die Kurse sind gegliedert in 3 Themen-Bereiche: Geld & Erfolg Beziehungen & Selbstliebe Emotionscoaching, Stress- und Selbstmanagement BONUS-Inhalte: E-Books, Blog- und in verschiedenen Fachzeitschriften veröffentlichte Artikel von Angelika King sowie die beliebten King-Selbstcoaching-Tipps. Darüber hinaus gibt es 1 x monatlich ein Live-Coaching-Webinar und die Einladung zur privaten Facebook-Gruppe. Über 60 Stunden hoch qualitative Kurse und geballtes Wissen zum Durcharbeiten an einem Ort. 3 verschiedene Preismodelle Monatlich: Den ersten Monat testen für 27€ und danach 37€ monatlich Jährlich: 370€ (2 Monate gespart) Lifetime: einmalig nur 497€ für lebenslangen Zugriff! Werde jetzt Affiliate und verdiene mit deiner Empfehlung satte 30% Provision!
 
 ## 2. Links
 

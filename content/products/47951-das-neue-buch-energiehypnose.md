@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<h2>EnergieHypnose</h2>
-</div>
-</div>
-<div>
-<p>Wie du durch eine praktische Schritt für Schritt Navigation die EnergieHypnose erlernst</p>
-<ul>
-<li>Einzigartige Kombination von Hypnose und Energiearbeit, die dein Leben ganzheitlich verändern kann.</li>
-<li>Direkt anwendbare HIH Techniken für individuelle Bedürfnisse und tiefgreifende Transformation die speziell für dich entwickelt wurden.</li>
-<li>Schritt-für-Schritt-Anleitungen und praktische Übungen für Anfänger und Fortgeschrittene zur Selbstentwicklung und Heilung</li>
-</ul>
-<p> </p>
-<p>„EnergieHypnose“ ist das perfekte Werkzeug für Anfänger und Fortgeschrittene in den Bereichen Hypnose und Energiearbeit. Es bietet grundlegende Einführungen und fortgeschrittene Techniken, die das Fachwissen von Therapeuten, Coaches und Beratern erweitern. Zudem unterstützt es Menschen auf ihrem spirituellen Weg und bei der Stressbewältigung durch ganzheitliche Ansätze für persönliches Wachstum, emotionale Heilung und Aktivierung von Selbstheilungskräften. Kurz gesagt, dieses Buch ist für alle, die eine tiefere Verbindung zu sich selbst herstellen, ihre inneren Heilungskräfte aktivieren und ein erfülltes, glückliches Leben gestalten möchten.</p>
-</div>
+**Vendor's marketplace description:** EnergieHypnose Wie du durch eine praktische Schritt für Schritt Navigation die EnergieHypnose erlernst Einzigartige Kombination von Hypnose und Energiearbeit, die dein Leben ganzheitlich verändern kann. Direkt anwendbare HIH Techniken für individuelle Bedürfnisse und tiefgreifende Transformation die speziell für dich entwickelt wurden. Schritt-für-Schritt-Anleitungen und praktische Übungen für Anfänger und Fortgeschrittene zur Selbstentwicklung und Heilung „EnergieHypnose“ ist das perfekte Werkzeug für Anfänger und Fortgeschrittene in den Bereichen Hypnose und Energiearbeit. Es bietet grundlegende Einführungen und fortgeschrittene Techniken, die das Fachwissen von Therapeuten, Coaches und Beratern erweitern. Zudem unterstützt es Menschen auf ihrem spirituellen Weg und bei der Stressbewältigung durch ganzheitliche Ansätze für persönliches Wachstum, emotionale Heilung und Aktivierung von Selbstheilungskräften. Kurz gesagt, dieses Buch ist für alle, die eine tiefere Verbindung zu sich selbst herstellen, ihre inneren Heilungskräfte aktivieren und ein erfülltes, glückliches Leben gestalten möchten.
 
 ## 2. Links
 

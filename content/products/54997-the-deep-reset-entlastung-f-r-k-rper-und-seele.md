@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>The Deep Reset-Entlastung für Körper und Seele</h3>
-<div>
-<p><strong>The Deep Reset</strong> - Entlastung für Körper und Seele</p>
-<p> </p>
-<p>Diese Meditation ist eine Einladung, <strong>wirklich bei dir anzukommen.</strong></p>
-<p>In einer ruhigen, klar geführten Bodyscan-Meditation wirst du Schritt für Schritt durch deinen Körper geführt - von den Füßen bis zum Kopf.</p>
-<p>Du nimmst wahr, wo Anspannung, Druck oder Schwere sitzt und darfst genau dort bewusst loslassen.</p>
-<p><strong>Ohne Musik. Ohne Ablenkung. Nur deine Wahrnehmung und eine klare, tragende Stimme.</strong></p>
-<p>Diese Meditation eigent sich besonders, wenn du</p>
-<ul>
-<li>dich innerlich angespannt oder erschöpft fühlst</li>
-<li>mental viel trägst und schwer abschalten kannst</li>
-<li>wieder mehr Verbindung zu deinem Körper suchst</li>
-<li>deinem Nervensystem bewusst Ruhe schenken möchtest.</li>
-</ul>
-<p>The Deep Reset ist <strong><em>kein</em></strong> klassischer Bodyscan.</p>
-<p>Er wurde weiterentwickelt mit dem Fokus auf tiefe Entlastung, Präsenz und Regulation.</p>
-<p>Wichtiger Hinweis: Diese Meditation ist für jeden geeignet und es werden keine Vorerfahrungen benötigt.</p>
-</div>
+**Vendor's marketplace description:** The Deep Reset-Entlastung für Körper und Seele The Deep Reset - Entlastung für Körper und Seele Diese Meditation ist eine Einladung, wirklich bei dir anzukommen. In einer ruhigen, klar geführten Bodyscan-Meditation wirst du Schritt für Schritt durch deinen Körper geführt - von den Füßen bis zum Kopf. Du nimmst wahr, wo Anspannung, Druck oder Schwere sitzt und darfst genau dort bewusst loslassen. Ohne Musik. Ohne Ablenkung. Nur deine Wahrnehmung und eine klare, tragende Stimme. Diese Meditation eigent sich besonders, wenn du dich innerlich angespannt oder erschöpft fühlst mental viel trägst und schwer abschalten kannst wieder mehr Verbindung zu deinem Körper suchst deinem Nervensystem bewusst Ruhe schenken möchtest. The Deep Reset ist kein klassischer Bodyscan. Er wurde weiterentwickelt mit dem Fokus auf tiefe Entlastung, Präsenz und Regulation. Wichtiger Hinweis: Diese Meditation ist für jeden geeignet und es werden keine Vorerfahrungen benötigt.
 
 ## 2. Links
 

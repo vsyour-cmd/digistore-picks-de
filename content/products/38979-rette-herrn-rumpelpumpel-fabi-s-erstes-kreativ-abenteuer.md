@@ -41,52 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<h2><span style="color:#003366;">Ein einmaliges Online Erlebnis</span></h2>
-</div>
-</div>
-<div> …bei dem Kinder viel Spaß haben und spielerisch lernen.</div>
-<div> </div>
-<div>
-<div>
-<h3><span style="color:#003366;">Verdiene Geld mit Online Abenteuern für Kinder,</span></h3>
-</div>
-</div>
-<div>
-<div>…die einen hohen pädagogischen Mehrwert bieten.</div>
-<div> </div>
-<div>
-<div>
-<div>
-<div>
-<h3>Werde Affiliate-Partner von FABI.</h3>
-</div>
-</div>
-</div>
-<div> </div>
-<div>
-<div>
-<div>
-<p>• Hunderte Kinder haben bereits mit FABI gezeichnet und sind begeistert von den Kreativ-Abenteuern. </p>
-<p>• Erhalte hohe Provisionen für jeden einzelnen Verkauf und auch auf Folgeverkäufe</p>
-<p>• viele weitere Abenteuer und größere Upsells werden hinzukommen</p>
-<p> </p>
-<h2>Mehr über meine Abenteuer</h2>
-</div>
-</div>
-</div>
-</div>
-</div>
-<p>In meinen Kreativ-Abenteuern gebe ich euch und euren Kindern einen Perspektivwechsel, indem ich euch in spannende Welten entführe. Wir gehen gemeinsam auf Zeichen-Abenteuer, erleben wie viel Fantasie doch in jedem von uns steckt und entdecken z.T. unbekannte Talente. Ich zeige euch, wie ihr mit neuen Zeichen-Methoden tolle Ideen entwickelt und umsetzt. Und das Beste: dabei stärken die Kinder auf einfache und spielerische Weise zusätzlich ihr kreatives Selbstbewusstsein.</p>
-<p>In mehreren Videos, die im Memberbereich nach dem Kauf zur Verfügung stehen, wird dein Kind durch das Abenteuer geführt. </p>
-<p><strong>Gesamtspielzeit der Videos: ca. 65min</strong></p>
-<p><strong>Kreativzeit der Kinder ca. 2-3 Stunden.</strong></p>
-<p> </p>
-<p><strong>"Rette Herrn Rumpelpumpel"</strong></p>
-<p>In diesem Kreativ-Abenteuer dreht sich alles um Herrn Rumpelpumpel. Er ist ein netter Zeitgenosse, der in einer heilen Welt lebt. Aber eines Tages passiert etwas total Verrücktes! Herr Rumpelpumpel kommt ganz unverschuldet in eine schwierige Lage und weiß sich selbst nicht zu helfen. Jetzt sind kreative Ideen gefragt!</p>
-<p>Es müssen Lösungen gefunden werden, um Herrn Rumpelpumpel aus seiner verzwickten Lage zu helfen. Aber das ist kein Problem für uns, denn wir haben ja zuvor gelernt mit unserer Ausrüstung umzugehen und Lösungen zu finden. So auch für Herrn Rumpelpumpel. Wir meistern diese Herausforderung dank unserer Ideen und etwas Geduld.</p>
-<p>Seid ihr bereit für diese kreative Abenteuerreise?</p>
+**Vendor's marketplace description:** Ein einmaliges Online Erlebnis …bei dem Kinder viel Spaß haben und spielerisch lernen. Verdiene Geld mit Online Abenteuern für Kinder, …die einen hohen pädagogischen Mehrwert bieten. Werde Affiliate-Partner von FABI. • Hunderte Kinder haben bereits mit FABI gezeichnet und sind begeistert von den Kreativ-Abenteuern. • Erhalte hohe Provisionen für jeden einzelnen Verkauf und auch auf Folgeverkäufe • viele weitere Abenteuer und größere Upsells werden hinzukommen Mehr über meine Abenteuer In meinen Kreativ-Abenteuern gebe ich euch und euren Kindern einen Perspektivwechsel, indem ich euch in spannende Welten entführe. Wir gehen gemeinsam auf Zeichen-Abenteuer, erleben wie viel Fantasie doch in jedem von uns steckt und entdecken z.T. unbekannte Talente. Ich zeige euch, wie ihr mit neuen Zeichen-Methoden tolle Ideen entwickelt und umsetzt. Und das Beste: dabei stärken die Kinder auf einfache und spielerische Weise zusätzlich ihr kreatives Selbstbewusstsein. In mehreren Videos, die im Memberbereich nach dem Kauf zur Verfügung stehen, wird dein Kind durch das Abenteuer geführt. Gesamtspielzeit der Videos: ca. 65min Kreativzeit der Kinder ca. 2-3 Stunden. "Rette Herrn Rumpelpumpel" In diesem Kreativ-Abenteuer dreht sich alles um Herrn Rumpelpumpel. Er ist ein netter Zeitgenosse, der in einer heilen Welt lebt. Aber eines Tages passiert etwas total Verrücktes! Herr Rumpelpumpel kommt ganz unverschuldet in eine schwierige Lage und weiß sich selbst nicht zu helfen. Jetzt sind kreative Ideen gefragt! Es müssen Lösungen gefunden werden, um Herrn Rumpelpumpel aus seiner verzwickten Lage zu helfen. Aber das ist kein Problem für uns, denn wir haben ja zuvor gelernt mit unserer Ausrüstung umzugehen und Lösungen zu finden. So auch für Herrn Rumpelpumpel. Wir meistern diese Herausforderung dank unserer Ideen und etwas Geduld. Seid ihr bereit für diese kreative Abenteuerreise?
 
 ## 2. Links
 

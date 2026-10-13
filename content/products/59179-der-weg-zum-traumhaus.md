@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb „Der Weg zum Traumhaus“ und begleite deine Zielgruppe Schritt für Schritt auf dem Weg ins eigene Zuhause. Der digitale Leitfaden unterstützt bei der Grundstückssuche, Finanzierung, Planung, Bauphase und Einrichtung bis hin zum Einzug. Ideal für alle, die ihr Traumhaus gut organisiert, sicher und mit einer klaren Struktur verwirklichen möchten.</p>
+**Vendor's marketplace description:** Bewirb „Der Weg zum Traumhaus“ und begleite deine Zielgruppe Schritt für Schritt auf dem Weg ins eigene Zuhause. Der digitale Leitfaden unterstützt bei der Grundstückssuche, Finanzierung, Planung, Bauphase und Einrichtung bis hin zum Einzug. Ideal für alle, die ihr Traumhaus gut organisiert, sicher und mit einer klaren Struktur verwirklichen möchten.
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Entspannung beginnt im Kopf</h2>
-<h2>Kopf frei-Kraft tanken-in Balance</h2>
-<p>"Kopf voll, Körper angespannt? Dieser professionelle Onlinekurs zeigt dir einfache Wege, um Stress abzubauen, den Kopf frei zu bekommen und wieder Energie zu tanken. Perfekt für engagierte Menschen, die sich nach mehr Ruhe, Entspannung und Balance sehnen.</p>
-<p>Seit über 15 Jahren als Beziehungscoach, Heilpraktikerin, Astrologin und Autorin tätig.</p>
-<p>Eigene etablierte Website und zufriedene Klientenstimmen unter:www.naturheilpraxis-hoeck.de</p>
-<p>Cookielaufzeit: Standardeinstellung:Digistore24</p>
-<p>Gerne gebe ich 30%Provision bei erfolgreichem Verkauf</p>
-<p>Suche gerne den Kontakt über <a href="mailto:hpheidi.hoeck@gmail.com">hpheidi.hoeck@gmail.com</a> bezüglich weiteres Werbematerial, Texte, Bilder</p>
+**Vendor's marketplace description:** Entspannung beginnt im Kopf Kopf frei-Kraft tanken-in Balance "Kopf voll, Körper angespannt? Dieser professionelle Onlinekurs zeigt dir einfache Wege, um Stress abzubauen, den Kopf frei zu bekommen und wieder Energie zu tanken. Perfekt für engagierte Menschen, die sich nach mehr Ruhe, Entspannung und Balance sehnen. Seit über 15 Jahren als Beziehungscoach, Heilpraktikerin, Astrologin und Autorin tätig. Eigene etablierte Website und zufriedene Klientenstimmen unter:www.naturheilpraxis-hoeck.de Cookielaufzeit: Standardeinstellung:Digistore24 Gerne gebe ich 30%Provision bei erfolgreichem Verkauf Suche gerne den Kontakt über hpheidi.hoeck@gmail.com bezüglich weiteres Werbematerial, Texte, Bilder
 
 ## 2. Links
 

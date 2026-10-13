@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>5 Tage Challenge für eine einfache und gesunde Feierabendküche. Lerne schnelle Rezepte, clevere Routinen und alltagstaugliche Strategien für weniger Stress und mehr Genuss beim Kochen.</p>
+**Vendor's marketplace description:** 5 Tage Challenge für eine einfache und gesunde Feierabendküche. Lerne schnelle Rezepte, clevere Routinen und alltagstaugliche Strategien für weniger Stress und mehr Genuss beim Kochen.
 
 ## 2. Links
 

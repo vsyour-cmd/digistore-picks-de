@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Bewerbe diesen Bestseller zum Geld verdienen im Internet</strong></span></p>
-<p><strong>Hier gibt es alles über:</strong></p>
-<p><strong>✅  Die 9 lukrativsten Möglichkeiten um im Internet Geld zu verdienen</strong></p>
-<p><strong>✅  Affiliate Marketing, Dropshipping, Geld mit Apps, Youtuber, Bilder verkaufen uvm.</strong></p>
-<p><strong>✅ Inklusive Checklisten</strong> </p>
-<p><span style="background-color:#ffff00;"><strong>Im Upsell warten über 200 Euro Netto Provision auf Dich inklusive einem Abo! Hohe Conversion, da es teilweise Testwochen gibt (an der Du auch verdienst)!</strong></span></p>
+**Vendor's marketplace description:** Bewerbe diesen Bestseller zum Geld verdienen im Internet Hier gibt es alles über: ✅ Die 9 lukrativsten Möglichkeiten um im Internet Geld zu verdienen ✅ Affiliate Marketing, Dropshipping, Geld mit Apps, Youtuber, Bilder verkaufen uvm. ✅ Inklusive Checklisten Im Upsell warten über 200 Euro Netto Provision auf Dich inklusive einem Abo! Hohe Conversion, da es teilweise Testwochen gibt (an der Du auch verdienst)!
 
 ## 2. Links
 

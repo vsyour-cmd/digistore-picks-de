@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="text-align:justify;">• Quick-Start in 30 Min: 3-Schritte-Budget + 3-Konten-Modell</span></p>
-<p style="text-align:justify;">• Fixkosten senken &amp; variable Ausgaben im Griff (praxisnah)<br />• Bonus: Excel-Budgetplaner (PRO) mit Formeln &amp; Übersicht<br />• Fallbeispiel, 7-Tage-Plan, kompakte Steuer-Checkliste im Guide</p>
-<p>Enthalten:<br />– Premium-Guide (PDF, kompakt)<br />– Budget-Excel (Einnahmen/Fix/Variabel/Sparen, Diagramm)</p>
-<p>Preis: 14,90 € • Sprache: Deutsch<br />Affiliate-Info: 50 % Provision, DE-Zielgruppe, mobil-optimiertes Checkout.<br />Hooks: „30 Min zum Budget“, „3-Konten-Modell leicht erklärt“, „Sofort Geld finden“<br />Support: sparwerk96@gmail.com</p>
+**Vendor's marketplace description:** • Quick-Start in 30 Min: 3-Schritte-Budget + 3-Konten-Modell • Fixkosten senken & variable Ausgaben im Griff (praxisnah) • Bonus: Excel-Budgetplaner (PRO) mit Formeln & Übersicht • Fallbeispiel, 7-Tage-Plan, kompakte Steuer-Checkliste im Guide Enthalten: – Premium-Guide (PDF, kompakt) – Budget-Excel (Einnahmen/Fix/Variabel/Sparen, Diagramm) Preis: 14,90 € • Sprache: Deutsch Affiliate-Info: 50 % Provision, DE-Zielgruppe, mobil-optimiertes Checkout. Hooks: „30 Min zum Budget“, „3-Konten-Modell leicht erklärt“, „Sofort Geld finden“ Support: sparwerk96@gmail.com
 
 ## 2. Links
 

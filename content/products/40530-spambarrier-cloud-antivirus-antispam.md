@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>spambarrier Cloud AntiSpam &amp; AntiVirus</h1>
-<div>
-<ul>
-<li>Erstklassiger Spam- und Virenschutz für Ihre Domain.</li>
-<li>Ohne Nutzer- oder Traffic-Limit. Einfache Einrichtung, lernender Spamfilter, die Kraft der Cloud.</li>
-</ul>
-</div>
-<p>spambarrier.de ist ein Cloud-basierter Spam- und Virenfilter. Dieser wird vor den eigenen Mailserver geschaltet. Dort filtert er Spam und Viren bereits, bevor diese Nachrichten beim eigenen Mailserver ankommen. Das entlastet die eigene Infrastruktur.</p>
-<p>Das System ist redundant ausgelegt und hält auch Mails vor, wenn z.B. der eigene Mailserver nicht erreichbar ist.</p>
-<p>- In Deutschland entwickelt und gehostet</p>
-<p>- Ausgezeichnet mit dem Fair-Digital Siegel</p>
-<p> <img src="https://www.spambarrier.de/images/logo-made-in-germany-online.jpg" alt="logo-made-in-germany-online.jpg" /> <img src="https://www.spambarrier.de/images/fairdigital.png" alt="fairdigital.png" /></p>
+**Vendor's marketplace description:** spambarrier Cloud AntiSpam & AntiVirus Erstklassiger Spam- und Virenschutz für Ihre Domain. Ohne Nutzer- oder Traffic-Limit. Einfache Einrichtung, lernender Spamfilter, die Kraft der Cloud. spambarrier.de ist ein Cloud-basierter Spam- und Virenfilter. Dieser wird vor den eigenen Mailserver geschaltet. Dort filtert er Spam und Viren bereits, bevor diese Nachrichten beim eigenen Mailserver ankommen. Das entlastet die eigene Infrastruktur. Das System ist redundant ausgelegt und hält auch Mails vor, wenn z.B. der eigene Mailserver nicht erreichbar ist. - In Deutschland entwickelt und gehostet - Ausgezeichnet mit dem Fair-Digital Siegel
 
 ## 2. Links
 

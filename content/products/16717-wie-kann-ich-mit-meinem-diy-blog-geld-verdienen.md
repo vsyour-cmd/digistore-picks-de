@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>160 Seiten im Format A4 als digitale PDF zum Sofort-Download (nach Zahlungseingang). Die PDF-Datei kann mit den gängigen PDF-Readern am PC, Mac oder Tablet gelesen oder auf A4-Papier ausgedruckt werden.</p>
-<h2>Das erwartet dich in meinem Ebook:</h2>
-<ul><li>Ich zeige dir Schritt für Schritt wie du deinen DIY-Blog zum Erfolg führen und deinen ganz eigenen Stil entwickeln kannst.</li>
-<li>Du erfährst alles über Einnahmequellen speziell für DIY-Blogs und wie du diese in deinem Blog einbinden kannst. Außerdem verrate ich dir Tipps &amp; Tricks zum Umgang mit Kooperationspartnern und wie du an spannende Projekte herankommst.</li>
-<li>Ich verrate dir, wie du das Beste aus deinen Fotos und Texten herausholen und herausragende DIY-Anleitungen, Ebooks und Druckvorlagen erstellen kannst.</li>
-<li>Du lernst außerdem wie du ein Gewerbe anmeldest, wie du deine Entwürfe schützen kannst und was die häufigsten Fehler von DIY-Bloggern sind.</li>
-<li>Zusätzlich findest du im Ebook zahlreiche Interviews mit erfolgreichen DIY-Bloggern und Unternehmen aus dem DIY-Bereich, die von ihre Erfahrungen mit der gegenseitigen Zusammenarbeit berichten und dir viele Tipps und konkrete Ratschläge mit auf den Weg geben. Mit dabei sind unter anderem: DaWanda.de, makerist.de, Snaply.de, Luisa von Luloveshandmade.com, Dani von gingeredthings.blogspot.de und viele mehr.</li>
-</ul><p>Mithilfe des Ebooks kannst du deinen DIY-Blog aufs nächste Level heben und damit lukrative Kooperationen an Land ziehen. Lass dich inspirieren!</p>
-<p> </p>
+**Vendor's marketplace description:** 160 Seiten im Format A4 als digitale PDF zum Sofort-Download (nach Zahlungseingang). Die PDF-Datei kann mit den gängigen PDF-Readern am PC, Mac oder Tablet gelesen oder auf A4-Papier ausgedruckt werden. Das erwartet dich in meinem Ebook: Ich zeige dir Schritt für Schritt wie du deinen DIY-Blog zum Erfolg führen und deinen ganz eigenen Stil entwickeln kannst. Du erfährst alles über Einnahmequellen speziell für DIY-Blogs und wie du diese in deinem Blog einbinden kannst. Außerdem verrate ich dir Tipps & Tricks zum Umgang mit Kooperationspartnern und wie du an spannende Projekte herankommst. Ich verrate dir, wie du das Beste aus deinen Fotos und Texten herausholen und herausragende DIY-Anleitungen, Ebooks und Druckvorlagen erstellen kannst. Du lernst außerdem wie du ein Gewerbe anmeldest, wie du deine Entwürfe schützen kannst und was die häufigsten Fehler von DIY-Bloggern sind. Zusätzlich findest du im Ebook zahlreiche Interviews mit erfolgreichen DIY-Bloggern und Unternehmen aus dem DIY-Bereich, die von ihre Erfahrungen mit der gegenseitigen Zusammenarbeit berichten und dir viele Tipps und konkrete Ratschläge mit auf den Weg geben. Mit dabei sind unter anderem: DaWanda.de, makerist.de, Snaply.de, Luisa von Luloveshandmade.com, Dani von gingeredthings.blogspot.de und viele mehr. Mithilfe des Ebooks kannst du deinen DIY-Blog aufs nächste Level heben und damit lukrative Kooperationen an Land ziehen. Lass dich inspirieren!
 
 ## 2. Links
 

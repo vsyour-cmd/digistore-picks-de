@@ -41,43 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Im Grunde weiß es jeder: Rauchen ist extrem schädlich und kostet im Laufe eines Lebens ein kleines Vermögen!</strong></p>
-<p><strong><span style="background-color:#ff6600;color:#ffffff;">    Du erhälst faire 50% Provison!    </span> </strong></p>
-<p>Mit diesem Booster Pack wird der Raucher dabei unterstützt, ein Leben voller gesundheitlicher und finanzieller Vorteile zu beginnen.</p>
-<p><strong>Er lernt:</strong></p>
-<ul>
-<li>Nikotinsucht zu überwinden und ohne Zwänge zu leben</li>
-<li>
-<div>sich auch ohne Nikotin entspannen zu können</div>
-</li>
-<li>
-<div>innere Stärke und Willenskraft aufzubauen </div>
-</li>
-<li>
-<div>das Unterbewusstsein auf Nichtrauchen zu konditionieren</div>
-</li>
-<li>
-<div>die geistige Kraft zu aktivieren, rauchfrei zu bleiben </div>
-</li>
-<li>
-<div>sich als Nichtraucher zu akzeptieren und Freiheit zu spüren  </div>
-</li>
-<li>
-<div>die Fremdbestimmtheit durch Glimmstengel zu beenden</div>
-</li>
-</ul>
-<p><strong>Das "Endlich rauchfrei Booster Pack" hilft dem Raucher, genau diese Aspekte zu festigen.</strong></p>
-<p>Mithilfe von Neuroprogrammen wird das Bewusstsein, Unterbewusstsein und die Körperzellen des Rauchers auf diesen Wunschzustand konditioniert.</p>
-<p><strong>Tiger Woods nutzt seit seinem 6.Lebensjahr dieselbe Technologie um seine Ziele zu erreichen und wurde zu einem der besten Spieler aller Zeiten.</strong></p>
-<p> </p>
-<p><span style="color:#ffffff;"><strong><span style="background-color:#ff6600;">    Du erhälst faire 50% Provison!    </span>  </strong></span></p>
-<p> </p>
-<p><strong>Dieses Booster Pack enthält zum Aktionspreis:</strong></p>
-<p>1 - Album zur Programmierung des Unterbewusstseins</p>
-<p>2 - H2O - Album zur Trinkwasser-Energetisierung</p>
-<p>3 - Meditation Video &amp; Audio + Silent Subliminal</p>
-<p>4 - Ebook "So wirst du Nichtraucher"</p>
-<p>5 - Nichtrauchervertrag mit sich selbst</p>
+**Vendor's marketplace description:** Im Grunde weiß es jeder: Rauchen ist extrem schädlich und kostet im Laufe eines Lebens ein kleines Vermögen! Du erhälst faire 50% Provison! Mit diesem Booster Pack wird der Raucher dabei unterstützt, ein Leben voller gesundheitlicher und finanzieller Vorteile zu beginnen. Er lernt: Nikotinsucht zu überwinden und ohne Zwänge zu leben sich auch ohne Nikotin entspannen zu können innere Stärke und Willenskraft aufzubauen das Unterbewusstsein auf Nichtrauchen zu konditionieren die geistige Kraft zu aktivieren, rauchfrei zu bleiben sich als Nichtraucher zu akzeptieren und Freiheit zu spüren die Fremdbestimmtheit durch Glimmstengel zu beenden Das "Endlich rauchfrei Booster Pack" hilft dem Raucher, genau diese Aspekte zu festigen. Mithilfe von Neuroprogrammen wird das Bewusstsein, Unterbewusstsein und die Körperzellen des Rauchers auf diesen Wunschzustand konditioniert. Tiger Woods nutzt seit seinem 6.Lebensjahr dieselbe Technologie um seine Ziele zu erreichen und wurde zu einem der besten Spieler aller Zeiten. Du erhälst faire 50% Provison! Dieses Booster Pack enthält zum Aktionspreis: 1 - Album zur Programmierung des Unterbewusstseins 2 - H2O - Album zur Trinkwasser-Energetisierung 3 - Meditation Video & Audio + Silent Subliminal 4 - Ebook "So wirst du Nichtraucher" 5 - Nichtrauchervertrag mit sich selbst
 
 ## 2. Links
 

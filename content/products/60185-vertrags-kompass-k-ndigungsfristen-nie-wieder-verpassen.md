@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Offline-Web-App für alle Abos und Verträge auf einen Blick: berechnet automatisch den spätesten Kündigungstermin, exportiert Erinnerungen als Kalenderdatei (ICS) und sichert die Daten als Backup-Datei.</p>
-<p>Zielgruppe: Privathaushalte, die den Überblick über Abos, Versicherungen und Verträge behalten wollen.</p>
-<p>Einmaliger Kaufpreis 12,90 €, kein Abo, kein Konto, keine Cloud. Verkaufsseite: https://www.gz-ai-stacks.de/vertrags-kompass/</p>
+**Vendor's marketplace description:** Offline-Web-App für alle Abos und Verträge auf einen Blick: berechnet automatisch den spätesten Kündigungstermin, exportiert Erinnerungen als Kalenderdatei (ICS) und sichert die Daten als Backup-Datei. Zielgruppe: Privathaushalte, die den Überblick über Abos, Versicherungen und Verträge behalten wollen. Einmaliger Kaufpreis 12,90 €, kein Abo, kein Konto, keine Cloud. Verkaufsseite: https://www.gz-ai-stacks.de/vertrags-kompass/
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Unser <strong>WordPress Klick-Tipp Plugin für das wunderschöne Divi Theme von <a>elegantthemes.com</a></strong> ermöglicht es, mit wenigen Klicks ein E-Mail Opt-In Formular in eine mit dem Divi Theme / dem Divi Builder gestaltete Seite einzubinden. Dabei wird ganz einfach der RAW Code eines Klick-Tipp-Optin-Formulares in das Seitenelement kopiert und schon ist ein in das Design integriertes Opt-In Formular fertig.</p>
+**Vendor's marketplace description:** Unser WordPress Klick-Tipp Plugin für das wunderschöne Divi Theme von elegantthemes.com ermöglicht es, mit wenigen Klicks ein E-Mail Opt-In Formular in eine mit dem Divi Theme / dem Divi Builder gestaltete Seite einzubinden. Dabei wird ganz einfach der RAW Code eines Klick-Tipp-Optin-Formulares in das Seitenelement kopiert und schon ist ein in das Design integriertes Opt-In Formular fertig.
 
 ## 2. Links
 

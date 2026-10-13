@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses Buch trifft einen hochaktuellen Nerv: die wachsende Verunsicherung rund um 5G, elektromagnetische Strahlung und Windkraft.</p>
-<p> </p>
-<p>Es spricht gezielt eine kritische, informationssuchende Zielgruppe an und bietet reichlich Diskussionsstoff mit starkem emotionalem Trigger rund um Gesundheit und Umwelt.</p>
-<p> </p>
-<p>Die klare Positionierung und der investigative Ansatz machen es besonders attraktiv für Content-Marketing, Social Media und alternative Medienkanäle.</p>
-<p> </p>
-<p>Durch die kontroverse Thematik entsteht ein hohes Viralitäts- und Verkaufs­potenzial.</p>
-<p> </p>
-<p>Ein Produkt, das sich ideal für reichweitenstarke Kampagnen eignet und starke Conversion-Chancen bietet.</p>
+**Vendor's marketplace description:** Dieses Buch trifft einen hochaktuellen Nerv: die wachsende Verunsicherung rund um 5G, elektromagnetische Strahlung und Windkraft. Es spricht gezielt eine kritische, informationssuchende Zielgruppe an und bietet reichlich Diskussionsstoff mit starkem emotionalem Trigger rund um Gesundheit und Umwelt. Die klare Positionierung und der investigative Ansatz machen es besonders attraktiv für Content-Marketing, Social Media und alternative Medienkanäle. Durch die kontroverse Thematik entsteht ein hohes Viralitäts- und Verkaufs­potenzial. Ein Produkt, das sich ideal für reichweitenstarke Kampagnen eignet und starke Conversion-Chancen bietet.
 
 ## 2. Links
 

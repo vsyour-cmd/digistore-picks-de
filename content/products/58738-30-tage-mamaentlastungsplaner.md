@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>30-Tage Mama-Entlastungsplaner – mehr Struktur, weniger Stress im Mama-Alltag</h3>
-<p>Du hast das Gefühl, dass im Alltag alles gleichzeitig auf dich wartet? Haushalt, Familie, Termine und die eigenen Bedürfnisse kommen dabei oft zu kurz?</p>
-<p>Der <strong>30-Tage Mama-Entlastungsplaner</strong> unterstützt Mamas dabei, den Alltag einfacher zu strukturieren, Aufgaben bewusst zu planen und sich Schritt für Schritt mehr Freiraum zu schaffen.</p>
-<p>Der digitale Planer begleitet dich <strong>30 Tage lang</strong> und hilft dir dabei:</p>
-<ul>
-<li>
-<p>deinen Tag übersichtlicher zu planen</p>
-</li>
-<li>
-<p>wichtige Aufgaben von unwichtigen zu unterscheiden</p>
-</li>
-<li>
-<p>Prioritäten zu setzen</p>
-</li>
-<li>
-<p>kleine Auszeiten für dich einzuplanen</p>
-</li>
-<li>
-<p>den Haushalt und Familienalltag besser zu organisieren</p>
-</li>
-<li>
-<p>Aufgaben bewusster zu verteilen</p>
-</li>
-<li>
-<p>mehr Struktur und Ruhe in den Alltag zu bringen</p>
-</li>
-</ul>
-<p>Der Planer ist als <strong>PDF</strong> erhältlich und kann bequem digital genutzt oder ausgedruckt werden.</p>
-<p><strong>Für Mamas, die nicht noch mehr leisten möchten, sondern ihren Alltag einfacher gestalten wollen.</strong></p>
-<p>Starte heute deine <strong>30 Tage zu mehr Struktur, Entlastung und Me-Time</strong>.</p>
+**Vendor's marketplace description:** 30-Tage Mama-Entlastungsplaner – mehr Struktur, weniger Stress im Mama-Alltag Du hast das Gefühl, dass im Alltag alles gleichzeitig auf dich wartet? Haushalt, Familie, Termine und die eigenen Bedürfnisse kommen dabei oft zu kurz? Der 30-Tage Mama-Entlastungsplaner unterstützt Mamas dabei, den Alltag einfacher zu strukturieren, Aufgaben bewusst zu planen und sich Schritt für Schritt mehr Freiraum zu schaffen. Der digitale Planer begleitet dich 30 Tage lang und hilft dir dabei: deinen Tag übersichtlicher zu planen wichtige Aufgaben von unwichtigen zu unterscheiden Prioritäten zu setzen kleine Auszeiten für dich einzuplanen den Haushalt und Familienalltag besser zu organisieren Aufgaben bewusster zu verteilen mehr Struktur und Ruhe in den Alltag zu bringen Der Planer ist als PDF erhältlich und kann bequem digital genutzt oder ausgedruckt werden. Für Mamas, die nicht noch mehr leisten möchten, sondern ihren Alltag einfacher gestalten wollen. Starte heute deine 30 Tage zu mehr Struktur, Entlastung und Me-Time .
 
 ## 2. Links
 

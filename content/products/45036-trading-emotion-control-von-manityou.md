@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Emotionen kontrollieren durch Hypnose!</strong></p>
-<p><strong>Emotion Control von manitYou.</strong></p>
-<p>Das speziell für Trader entwickelte Hypnose-Programm dient in erster Linie dazu <strong>Verlust zu vermeiden</strong> und bessere, <strong>rationale Entscheidungen zu treffen</strong>!</p>
-<p><strong>Emotion Control </strong>wurde in Zusammenarbeit mit <strong>Profi-Tradern</strong> entwickelt.</p>
-<p>Des Weiteren bietet Emotion Control die Möglichkeit <strong>vergangene Verluste aufzuarbeiten</strong> und einen verbesserten mentalen<strong>Umgang mit Gewinn und Verlust</strong>.</p>
-<p> </p>
+**Vendor's marketplace description:** Emotionen kontrollieren durch Hypnose! Emotion Control von manitYou. Das speziell für Trader entwickelte Hypnose-Programm dient in erster Linie dazu Verlust zu vermeiden und bessere, rationale Entscheidungen zu treffen ! Emotion Control wurde in Zusammenarbeit mit Profi-Tradern entwickelt. Des Weiteren bietet Emotion Control die Möglichkeit vergangene Verluste aufzuarbeiten und einen verbesserten mentalen Umgang mit Gewinn und Verlust .
 
 ## 2. Links
 

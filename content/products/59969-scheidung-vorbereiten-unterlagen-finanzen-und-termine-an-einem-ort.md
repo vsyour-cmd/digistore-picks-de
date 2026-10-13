@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Anti-Rosenkrieg-Kompass von AssetShield-X ist ein Programm, das Sie im Browser öffnen — auf Ihrem Rechner, Ihrem Tablet oder Ihrem Telefon.</p>
-<p>Wenn beide wollen, dass es anständig bleibt, scheitert es selten am Willen. Es scheitert daran, dass niemand die Übersicht hat und jedes Gespräch wieder bei null anfängt.</p>
-<p>Im Kompass steckt alles, was auch im Rosenkrieg-Navigator steckt. Dazu halten Sie in der Zeile „Absprachen“ fest, was Sie beide besprochen haben. Daraus drucken Sie ein Einigungspapier für die Kanzlei. Sie schreiben die Regelung zu den Kindern auf: Betreuung, Wochen, Ferien, Übergaben. Die zweite Person bekommt über einen Einladungslink einen eigenen Zugang für 299 EUR inkl. Mehrwertsteuer. Sie sieht die gemeinsamen Bereiche, aber nicht Ihre Vermögensangaben.</p>
-<p>Für drei Geräte Ihrer Wahl, keine Cloud. Sieben Anleitungen zum Lesen und als PDF.</p>
-<p>999 EUR einmalig, inkl. Mehrwertsteuer. 30 Tage Geld zurück — ohne Angabe von Gründen. Eine freiwillige Zusage, zusätzlich zu Ihren gesetzlichen Rechten.</p>
-<p>Mehr erfahren: <a href="https://assetshield-x.com/partner.html">assetshield-x.com/partner.html</a></p>
-<p>Information und Organisation, keine Rechtsdienstleistung im Sinne des § 2 RDG.</p>
+**Vendor's marketplace description:** Der Anti-Rosenkrieg-Kompass von AssetShield-X ist ein Programm, das Sie im Browser öffnen — auf Ihrem Rechner, Ihrem Tablet oder Ihrem Telefon. Wenn beide wollen, dass es anständig bleibt, scheitert es selten am Willen. Es scheitert daran, dass niemand die Übersicht hat und jedes Gespräch wieder bei null anfängt. Im Kompass steckt alles, was auch im Rosenkrieg-Navigator steckt. Dazu halten Sie in der Zeile „Absprachen“ fest, was Sie beide besprochen haben. Daraus drucken Sie ein Einigungspapier für die Kanzlei. Sie schreiben die Regelung zu den Kindern auf: Betreuung, Wochen, Ferien, Übergaben. Die zweite Person bekommt über einen Einladungslink einen eigenen Zugang für 299 EUR inkl. Mehrwertsteuer. Sie sieht die gemeinsamen Bereiche, aber nicht Ihre Vermögensangaben. Für drei Geräte Ihrer Wahl, keine Cloud. Sieben Anleitungen zum Lesen und als PDF. 999 EUR einmalig, inkl. Mehrwertsteuer. 30 Tage Geld zurück — ohne Angabe von Gründen. Eine freiwillige Zusage, zusätzlich zu Ihren gesetzlichen Rechten. Mehr erfahren: assetshield-x.com/partner.html Information und Organisation, keine Rechtsdienstleistung im Sinne des § 2 RDG.
 
 ## 2. Links
 

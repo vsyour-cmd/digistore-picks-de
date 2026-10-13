@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>✅ Starte jetzt dein neues Körpergefühl – ganz ohne Diäten &amp; Verzicht!</h3>
-<p>Mit dem <strong>„Abnehmen zum Wunschgewicht“-System</strong> bekommst du alles, was du brauchst, um gesund und dauerhaft abzunehmen – <strong>ohne Hunger, ohne Frust, Shakes, Pillen und ohne Jojo-Effekt.</strong></p>
-<p><strong>Bestelle jetzt und verändere dein gesamtes Leben noch heute!</strong></p>
+**Vendor's marketplace description:** ✅ Starte jetzt dein neues Körpergefühl – ganz ohne Diäten & Verzicht! Mit dem „Abnehmen zum Wunschgewicht“-System bekommst du alles, was du brauchst, um gesund und dauerhaft abzunehmen – ohne Hunger, ohne Frust, Shakes, Pillen und ohne Jojo-Effekt. Bestelle jetzt und verändere dein gesamtes Leben noch heute!
 
 ## 2. Links
 

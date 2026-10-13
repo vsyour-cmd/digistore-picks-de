@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Amazon FBA Profi“</strong></p>
-<p>Private Label, PPC-Optimierung und Exit-Strategien – Wenn das erste Produkt läuft, beginnt das eigentliche Geschäft: eine eigene Marke aufbauen, Werbung profitabel steuern und das Sortiment erweitern.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Aus einem Produkt eine eigene Marke machen</li>
-<li>Amazon PPC profitabel steuern (ACOS und TACOS)</li>
-<li>Ranking und Sichtbarkeit langfristig sichern</li>
-<li>Marke schützen und einen Exit vorbereiten</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Amazon FBA Profi“ Private Label, PPC-Optimierung und Exit-Strategien – Wenn das erste Produkt läuft, beginnt das eigentliche Geschäft: eine eigene Marke aufbauen, Werbung profitabel steuern und das Sortiment erweitern. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Aus einem Produkt eine eigene Marke machen Amazon PPC profitabel steuern (ACOS und TACOS) Ranking und Sichtbarkeit langfristig sichern Marke schützen und einen Exit vorbereiten
 
 ## 2. Links
 

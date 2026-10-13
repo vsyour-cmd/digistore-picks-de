@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Termin</strong></p>
-<p>Das Seminar findet vom 24.04.bis 27.04.2025 im Seminarhotel Jonathan am schönen Chiemsee mitten in der Natur statt. Dabei kannst Du das Seminar direkt bei uns buchen.<br /><br />Seminarbeginn: <br />24.04. um 10:00 Uhr<br /><br />Seminarende:<br />27.04. um 14:00 Uhr</p>
-<p> </p>
-<p><strong>Kosten</strong></p>
-<p>Dein dabei sein beläuft sich auf € 2498 inkl MWST<br /><br />(zzgl. Unterkunftspauschale des Seminarhotels Jonathan, welche vor Ort zu begleichen ist - siehe 'Unterkunft')</p>
-<p> </p>
-<p><strong>Unterkunft</strong></p>
-<p>Seminarhaus Jonathan<br />Kellerstraße 5<br />83339 Chieming OT Hart<br /><br />Einzelzimmer (419€)<br />Doppelzimmer (329€)<br /><br />Es gibt außerdem die Möglichkeit, extern zu übernachten oder zu zelten/campen. Deine Präferenz kannst Du uns bei der Buchung angeben und wir werden uns dann per E-Mail bei Dir melden.</p>
+**Vendor's marketplace description:** Termin Das Seminar findet vom 24.04.bis 27.04.2025 im Seminarhotel Jonathan am schönen Chiemsee mitten in der Natur statt. Dabei kannst Du das Seminar direkt bei uns buchen. Seminarbeginn: 24.04. um 10:00 Uhr Seminarende: 27.04. um 14:00 Uhr Kosten Dein dabei sein beläuft sich auf € 2498 inkl MWST (zzgl. Unterkunftspauschale des Seminarhotels Jonathan, welche vor Ort zu begleichen ist - siehe 'Unterkunft') Unterkunft Seminarhaus Jonathan Kellerstraße 5 83339 Chieming OT Hart Einzelzimmer (419€) Doppelzimmer (329€) Es gibt außerdem die Möglichkeit, extern zu übernachten oder zu zelten/campen. Deine Präferenz kannst Du uns bei der Buchung angeben und wir werden uns dann per E-Mail bei Dir melden.
 
 ## 2. Links
 

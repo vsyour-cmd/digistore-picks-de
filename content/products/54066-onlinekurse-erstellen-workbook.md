@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Erstelle deinen eigenen Onlinekurs und verkaufe ihn automatisiert – mit Strategie statt Technikstress.</strong></p>
-<p>Der <strong>Onlinekurs-Turbo</strong> zeigt dir in einem klar strukturierten <strong>Workbook + Bonusvideo</strong>, wie du in 5 einfachen Schritten ein digitales Onlineprodukt entwickelst, das dir <strong>10.000–12.000 € monatlich</strong> bringen kann.</p>
-<p>Ideal für <strong>Coaches, Berater:innen und Selbstständige</strong>, die ihr Wissen in ein freies, ortsunabhängiges Onlinebusiness verwandeln möchten.</p>
-<p><strong>Du bekommst:</strong><br />• Ein 43-seitiges Workbook<br />• Ein Bonusvideo für erfolgreiche Onlinekurse (inkl. 5-Schritte-Methode)</p>
+**Vendor's marketplace description:** Erstelle deinen eigenen Onlinekurs und verkaufe ihn automatisiert – mit Strategie statt Technikstress. Der Onlinekurs-Turbo zeigt dir in einem klar strukturierten Workbook + Bonusvideo , wie du in 5 einfachen Schritten ein digitales Onlineprodukt entwickelst, das dir 10.000–12.000 € monatlich bringen kann. Ideal für Coaches, Berater:innen und Selbstständige , die ihr Wissen in ein freies, ortsunabhängiges Onlinebusiness verwandeln möchten. Du bekommst: • Ein 43-seitiges Workbook • Ein Bonusvideo für erfolgreiche Onlinekurse (inkl. 5-Schritte-Methode)
 
 ## 2. Links
 

@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Download-Paket mit verlässlich wirksamen Neurostreams™ zur Unterstützung grundlegender Mentaltechniken. </p>
-<p>Du bekommst alle Neurostreams™ KLASSIKER:</p>
-<p>(insgesamt 70 Streams)</p>
-<ul>
-<li><strong>DNA Talk</strong> <strong>in 432 Hertz</strong> erzeugt starke Meditations-Erlebnisse</li>
-<li><strong>Co-Creation Galaxie</strong> eignet sich für erfolgreiche Autosuggestion</li>
-<li><strong>Wellness Walk</strong> sorgt für Befreiung von Stress und Anspannung</li>
-<li><strong>Die Zukunft schauen</strong> hilft beim Visualisieren von Zielen</li>
-<li><strong>Delta Frischzellenkur</strong> für zügige körperliche Regeneration</li>
-<li><strong>Gaia Club Radio</strong> läuft haarscharf an der Schlaf/Wach-Grenze</li>
-<li><strong>Flow trifft Genie</strong> optimiert Rhythmen und sorgt für emotionale Stabilität</li>
-</ul>
-<p> </p>
-<p>Alle Neurostreams™ sind jederzeit auf <strong>unbegrenzt viele</strong> Geräte übertragbar und können <strong>beliebig oft</strong> angehört werden!</p>
-<p>Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux.</p>
-<p><strong>Speicherplatz:</strong> 3 GB</p>
-<p><strong>2 Jahre Produktsupport</strong> inklusive.</p>
+**Vendor's marketplace description:** Das Download-Paket mit verlässlich wirksamen Neurostreams™ zur Unterstützung grundlegender Mentaltechniken. Du bekommst alle Neurostreams™ KLASSIKER: (insgesamt 70 Streams) DNA Talk in 432 Hertz erzeugt starke Meditations-Erlebnisse Co-Creation Galaxie eignet sich für erfolgreiche Autosuggestion Wellness Walk sorgt für Befreiung von Stress und Anspannung Die Zukunft schauen hilft beim Visualisieren von Zielen Delta Frischzellenkur für zügige körperliche Regeneration Gaia Club Radio läuft haarscharf an der Schlaf/Wach-Grenze Flow trifft Genie optimiert Rhythmen und sorgt für emotionale Stabilität Alle Neurostreams™ sind jederzeit auf unbegrenzt viele Geräte übertragbar und können beliebig oft angehört werden! Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux. Speicherplatz: 3 GB 2 Jahre Produktsupport inklusive.
 
 ## 2. Links
 

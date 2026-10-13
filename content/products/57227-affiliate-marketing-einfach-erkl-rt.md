@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Affiliate Marketing einfach erklärt“</strong></p>
-<p>Dein Start ins provisionsbasierte Online-Business – Affiliate Marketing heißt: empfehlen, was wirklich hilft, und fair daran mitverdienen. Wie das Modell funktioniert, wie du eine Nische findest und ehrliche Inhalte erstellst.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verstehen, wie Affiliate Marketing funktioniert</li>
-<li>Die richtige Nische und Partnerprogramme finden</li>
-<li>Deine Plattform aufbauen: Blog, YouTube oder Social Media</li>
-<li>Recht, Steuern und dauerhaft seriös bleiben</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Affiliate Marketing einfach erklärt“ Dein Start ins provisionsbasierte Online-Business – Affiliate Marketing heißt: empfehlen, was wirklich hilft, und fair daran mitverdienen. Wie das Modell funktioniert, wie du eine Nische findest und ehrliche Inhalte erstellst. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verstehen, wie Affiliate Marketing funktioniert Die richtige Nische und Partnerprogramme finden Deine Plattform aufbauen: Blog, YouTube oder Social Media Recht, Steuern und dauerhaft seriös bleiben
 
 ## 2. Links
 

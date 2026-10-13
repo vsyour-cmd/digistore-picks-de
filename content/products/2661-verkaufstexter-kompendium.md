@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Autor: Bernfried Opala<br /></strong></p>
-<h1><span style="color:#800000;">Verkaufstexter-Kompendium</span></h1>
-<h2><span style="color:#3366ff;">Das Standardwerk für angehende Verkaufs- und Werbetexter. </span></h2>
-<p>Lehrbuch der Deutschen Verkaufstexter-Akademie.</p>
-<p>312 Seiten, erschienen: März 2014</p>
-<p> </p>
-<p><strong>Das sagen Kunden:</strong></p>
-<p>Das Verkaufstexter-Kompendium ist für mich als ausgebildete Verkaufstexterin ein wunderbares Nachschlagewerk. Alles, was wirklich wichtig ist und was man immer zur Hand haben sollte, ist darin auf über 300 Seiten sehr übersichtlich und gut lesbar zusammengefasst. Gerade wenn man sich, wie ich, einige Zeit anderen Dingen zuwendet und dann wieder Verkaufstexte (und Blogartikel!) schreibt - egal ob für Kunden, oder für eigene Produkte und Dienstleistungen - ist ein Blick ins Verkaufstexter-Kompendium unerlässlich.</p>
-<p><em>Dipl.-Ing. Annette Scholz</em><br /><em>freiberufliche Verkaufstexterin und Technische Redakteurin</em></p>
-<p> </p>
-<p>Bei meinen Vorbildern hat es in den vergangenen Monaten einen großen Rutsch gegeben. Ich las viel über Claude Hopkins, Albert E. Lasker, Joe Sugarman und Ted Nicholas. Alles Verkäufer. Sie sind schon lange meine Vorbilder, aber jetzt fast ausschließlich. Ich kann keine Theorien mehr hören. Ich will Praxis. Wie die der genannten Verkaufsmillionäre. Sehr kritisch las ich nun in den letzten 2 Wochen Bernfried Opalas „Verkaufstexter-Kompendium”. Es ist absolut das Handbuch eines Verkäufers. Ich gab in den letzten 20 Jahren locker 100.000 Dollar für Weiterbildung in den USA aus. Immer mehr meine ich, dass uns Kartoffeln manche US-Gurus ganz schön verarschen. Und Theorien erzählen, die sie selbst nicht anwenden. Deshalb: Kauft das „Verkaufstexter-Kompendium” mit bestem Gefühl. Wer dann nicht sofort erfolgreich mit dem Verkaufen loslegt, hat keine Ausrede mehr...</p>
-<p><em>Peter Jürgen Beck</em><br /><em>DM-Texter</em></p>
-<p> </p>
+**Vendor's marketplace description:** Autor: Bernfried Opala Verkaufstexter-Kompendium Das Standardwerk für angehende Verkaufs- und Werbetexter. Lehrbuch der Deutschen Verkaufstexter-Akademie. 312 Seiten, erschienen: März 2014 Das sagen Kunden: Das Verkaufstexter-Kompendium ist für mich als ausgebildete Verkaufstexterin ein wunderbares Nachschlagewerk. Alles, was wirklich wichtig ist und was man immer zur Hand haben sollte, ist darin auf über 300 Seiten sehr übersichtlich und gut lesbar zusammengefasst. Gerade wenn man sich, wie ich, einige Zeit anderen Dingen zuwendet und dann wieder Verkaufstexte (und Blogartikel!) schreibt - egal ob für Kunden, oder für eigene Produkte und Dienstleistungen - ist ein Blick ins Verkaufstexter-Kompendium unerlässlich. Dipl.-Ing. Annette Scholz freiberufliche Verkaufstexterin und Technische Redakteurin Bei meinen Vorbildern hat es in den vergangenen Monaten einen großen Rutsch gegeben. Ich las viel über Claude Hopkins, Albert E. Lasker, Joe Sugarman und Ted Nicholas. Alles Verkäufer. Sie sind schon lange meine Vorbilder, aber jetzt fast ausschließlich. Ich kann keine Theorien mehr hören. Ich will Praxis. Wie die der genannten Verkaufsmillionäre. Sehr kritisch las ich nun in den letzten 2 Wochen Bernfried Opalas „Verkaufstexter-Kompendium”. Es ist absolut das Handbuch eines Verkäufers. Ich gab in den letzten 20 Jahren locker 100.000 Dollar für Weiterbildung in den USA aus. Immer mehr meine ich, dass uns Kartoffeln manche US-Gurus ganz schön verarschen. Und Theorien erzählen, die sie selbst nicht anwenden. Deshalb: Kauft das „Verkaufstexter-Kompendium” mit bestem Gefühl. Wer dann nicht sofort erfolgreich mit dem Verkaufen loslegt, hat keine Ausrede mehr... Peter Jürgen Beck DM-Texter
 
 ## 2. Links
 

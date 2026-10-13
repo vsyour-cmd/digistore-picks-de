@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Vermietung in der Steuererklärung leicht gemacht – Ratgeber mit Rechner</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Der Ratgeber erklärt, wie Mieteinnahmen versteuert werden: Einnahmen, Abschreibung, Zinsen, Reparaturen und Anlage V. Ein Jahr ist durchgerechnet, der <strong>Vermietungs-Rechner</strong> zeigt Jahresergebnis und Abschreibung.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Private Vermieter</li>
-<li>Menschen, die eine Wohnung gekauft oder geerbt haben</li>
-<li>Eltern, die an ihre Kinder vermieten</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Die erste Steuererklärung mit Mieteinnahmen steht an</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Mietrecht, Steuererklärung, Geld anlegen) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Vermietung in der Steuererklärung leicht gemacht – Ratgeber mit Rechner Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Der Ratgeber erklärt, wie Mieteinnahmen versteuert werden: Einnahmen, Abschreibung, Zinsen, Reparaturen und Anlage V. Ein Jahr ist durchgerechnet, der Vermietungs-Rechner zeigt Jahresergebnis und Abschreibung. Die Zielgruppe Private Vermieter Menschen, die eine Wohnung gekauft oder geerbt haben Eltern, die an ihre Kinder vermieten Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Die erste Steuererklärung mit Mieteinnahmen steht an Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Mietrecht, Steuererklärung, Geld anlegen) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

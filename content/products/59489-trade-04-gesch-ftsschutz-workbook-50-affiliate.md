@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>TRADE 04 – Geschäftsschutz-Workbook · 50 % Affiliate</p>
-<p> </p>
-<p>Für Affiliates: Ein evergreen Workbook der TRADE/CONTROL-Serie zum Thema Geschäftsschutz und strukturierte Kontrolle  klar erklärt auf der Salespage.</p>
-<p> </p>
-<p>Warum bewerben: 50 % Affiliate-Provision bei einem einmaligen Preis von 49,80 €. Fertige Swipes stehen auf der Affiliate-Support-Seite bereit.</p>
-<p> </p>
-<p>14-Tage-Rückgaberecht. Digistore24 ist Merchant of Record.</p>
+**Vendor's marketplace description:** TRADE 04 – Geschäftsschutz-Workbook · 50 % Affiliate Für Affiliates: Ein evergreen Workbook der TRADE/CONTROL-Serie zum Thema Geschäftsschutz und strukturierte Kontrolle klar erklärt auf der Salespage. Warum bewerben: 50 % Affiliate-Provision bei einem einmaligen Preis von 49,80 €. Fertige Swipes stehen auf der Affiliate-Support-Seite bereit. 14-Tage-Rückgaberecht. Digistore24 ist Merchant of Record.
 
 ## 2. Links
 

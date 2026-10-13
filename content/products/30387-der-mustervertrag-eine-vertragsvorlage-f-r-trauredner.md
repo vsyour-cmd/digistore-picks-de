@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>MUSTERVERTRAG FÜR TRAUREDNER / -INNEN</h1>
-<p>Dieses Produkt richtet sich an alle Traurednerinnen und Trauredner in Deutschland. Derzeit gibt es rund 1000 Rednerinnen deutschlandweit. Tendenz steigend.</p>
-<p>ALLE diese Redner benötigen einen Vertrag, der die Zusammenarbeit mit dem Brautpaar bis ins Detail regelt.</p>
-<p>Schnell, einfach und unkompliziert bekommt der Redner / die Rednerin hier eine anwaltlich geprüfte Vorlage.</p>
-<p>Die Trauredner Vertragsvorlage von <a href="https://www.martinredet.de" target="_blank" rel="noreferrer noopener">martinredet</a></p>
-<p>martinredet ist einer der bekanntesten Trauredner in Deutschland und gilt für viele Hochzeitsmagazine als Pionier der Freien Trauung.</p>
-<p>Er und sein Team begleiten rund 300 Hochzeiten Jahr für Jahr.</p>
-<p>Andere Redner können nun davon profitieren. Mit dem Mustervertrag für Trauredner:</p>
-<p><strong>✔ Fachanwaltlich geprüft</strong></p>
-<p><strong>✔ Spare viel Geld &amp; Zeit</strong>(der Vertrag sichert dich für alle Eventualitäten ab)</p>
-<p><strong>✔ Ausführlich und detailliert</strong></p>
-<p><strong>✔ Moderne Formulierung </strong>(auch für gleichgeschlechtliche Paare geeignet)</p>
-<p><strong>✔ Für Mac &amp; PC </strong>(Als Word und PDF Datei)</p>
-<p> </p>
-<h3>Schnell, einfach, aktuell.</h3>
-<h3>Und dazu: anwaltlich geprüft.</h3>
-<h3>Jetzt bestellen!</h3>
-<p> </p>
-<p><strong>Wer sind wir?</strong></p>
-<p>martinredet ist bekannt aus TV &amp; Radio.<br />Das Team von martinredet begleitet in Deutschland &amp; im Ausland rund 300 Brautpaare Jahr für Jahr. <br />Alles vertragliche, was Du für Dein erfolgreiches Business benötigst, erhältst Du nun hier in der Vertragsvorlage für Trauredner.</p>
-<p><strong>Jetzt bestellen!</strong></p>
+**Vendor's marketplace description:** MUSTERVERTRAG FÜR TRAUREDNER / -INNEN Dieses Produkt richtet sich an alle Traurednerinnen und Trauredner in Deutschland. Derzeit gibt es rund 1000 Rednerinnen deutschlandweit. Tendenz steigend. ALLE diese Redner benötigen einen Vertrag, der die Zusammenarbeit mit dem Brautpaar bis ins Detail regelt. Schnell, einfach und unkompliziert bekommt der Redner / die Rednerin hier eine anwaltlich geprüfte Vorlage. Die Trauredner Vertragsvorlage von martinredet martinredet ist einer der bekanntesten Trauredner in Deutschland und gilt für viele Hochzeitsmagazine als Pionier der Freien Trauung. Er und sein Team begleiten rund 300 Hochzeiten Jahr für Jahr. Andere Redner können nun davon profitieren. Mit dem Mustervertrag für Trauredner: ✔ Fachanwaltlich geprüft ✔ Spare viel Geld & Zeit (der Vertrag sichert dich für alle Eventualitäten ab) ✔ Ausführlich und detailliert ✔ Moderne Formulierung (auch für gleichgeschlechtliche Paare geeignet) ✔ Für Mac & PC (Als Word und PDF Datei) Schnell, einfach, aktuell. Und dazu: anwaltlich geprüft. Jetzt bestellen! Wer sind wir? martinredet ist bekannt aus TV & Radio. Das Team von martinredet begleitet in Deutschland & im Ausland rund 300 Brautpaare Jahr für Jahr. Alles vertragliche, was Du für Dein erfolgreiches Business benötigst, erhältst Du nun hier in der Vertragsvorlage für Trauredner. Jetzt bestellen!
 
 ## 2. Links
 

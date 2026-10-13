@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p> </p>
-<p>Dieses E-Book enthält 12 praxiserprobte KI-Prompts, mit denen Sie in kurzer Zeit hochwertige und vielseitig einsetzbare Bilder erstellen können.</p>
-<p>Die Inhalte sind klar strukturiert und ermöglichen auch Einsteigern einen schnellen Zugang zur Arbeit mit KI-Tools. Neben den Prompts erhalten Sie eine verständliche Anleitung zur Anwendung sowie konkrete Beispiele für mögliche Einsatzbereiche, etwa im Online-Marketing, Social Media oder für digitale Produkte.</p>
-<p>Ziel ist es, Ihnen eine sofort umsetzbare Lösung bereitzustellen, mit der Sie Zeit sparen und effizient Ergebnisse erzielen.</p>
-<p>Das Produkt eignet sich für alle, die ohne technische Vorkenntnisse professionelle Bilder erstellen und ihre kreativen oder geschäftlichen Projekte unterstützen möchten.</p>
-<p> </p>
+**Vendor's marketplace description:** Dieses E-Book enthält 12 praxiserprobte KI-Prompts, mit denen Sie in kurzer Zeit hochwertige und vielseitig einsetzbare Bilder erstellen können. Die Inhalte sind klar strukturiert und ermöglichen auch Einsteigern einen schnellen Zugang zur Arbeit mit KI-Tools. Neben den Prompts erhalten Sie eine verständliche Anleitung zur Anwendung sowie konkrete Beispiele für mögliche Einsatzbereiche, etwa im Online-Marketing, Social Media oder für digitale Produkte. Ziel ist es, Ihnen eine sofort umsetzbare Lösung bereitzustellen, mit der Sie Zeit sparen und effizient Ergebnisse erzielen. Das Produkt eignet sich für alle, die ohne technische Vorkenntnisse professionelle Bilder erstellen und ihre kreativen oder geschäftlichen Projekte unterstützen möchten.
 
 ## 2. Links
 

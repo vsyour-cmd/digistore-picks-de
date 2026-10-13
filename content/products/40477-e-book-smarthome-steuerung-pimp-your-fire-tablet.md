@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In dieser Anleitung erfährst du unter anderem wie man auf einem <strong>Fire HD Tablet</strong> google Dienste installiert. Damit hast du Zugriff auf den playstore und kannst alle darin enthaltenen Apps installieren, die vorher über den Amazon Appstore nicht verfügbar waren.<br /><br />Aber nicht nur das. Ich zeige auch wie man mit der <strong>Motion Detection</strong> das Tablet über die Bewegungserkennung der Kamera aus dem Standby aktiviert. Damit hebst du das Fire HD Tablet auf das <strong>nächste Level!</strong><br /><br />Wenn Du dir das nicht vorstellen kannst, schau dir einfach das <a>Video</a> auf meinem Youtube Kanal an:</p>
-<p>https://www.youtube.com/watch?v=s4MzhY_DpTg&amp;feature=emb_imp_woyt</p>
+**Vendor's marketplace description:** In dieser Anleitung erfährst du unter anderem wie man auf einem Fire HD Tablet google Dienste installiert. Damit hast du Zugriff auf den playstore und kannst alle darin enthaltenen Apps installieren, die vorher über den Amazon Appstore nicht verfügbar waren. Aber nicht nur das. Ich zeige auch wie man mit der Motion Detection das Tablet über die Bewegungserkennung der Kamera aus dem Standby aktiviert. Damit hebst du das Fire HD Tablet auf das nächste Level! Wenn Du dir das nicht vorstellen kannst, schau dir einfach das Video auf meinem Youtube Kanal an: https://www.youtube.com/watch?v=s4MzhY_DpTg&feature=emb_imp_woyt
 
 ## 2. Links
 

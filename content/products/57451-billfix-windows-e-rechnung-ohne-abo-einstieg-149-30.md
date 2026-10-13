@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Billfix — das Rechnungsprogramm zum Einmalkauf, ganz ohne Abo (für Windows).</strong></p>
-<p> </p>
-<p>Warum sich das Bewerben lohnt:</p>
-<p> </p>
-<p>Aktueller Bedarf: E-Rechnungspflicht 2027/2028 im B2B — Millionen Solo-Selbstständige und Kleinbetriebe brauchen eine bezahlbare Lösung.</p>
-<p> </p>
-<p>Einstiegspreis: 149 € statt monatlicher Abo-Kosten. 100 % lokal auf dem Windows-PC — keine Cloud, kein Konto, kein Abo.</p>
-<p> </p>
-<p>Funktionsumfang: E-Rechnung nach EU-Norm EN 16931 (ZUGFeRD/XRechnung), Mahnwesen, Teilzahlungen, GiroCode, Artikelstamm, Belegablage mit Handy-Scan, Kontoauszugs-Abgleich, zwei Gewerbe.</p>
-<p> </p>
-<p>Zielgruppe: Solo-Selbstständige und Ein-Personen-Betriebe, die ihre Rechnungen selbst schreiben — Coaches, Berater:innen, Handwerk im Nebenerwerb, Freelancer.</p>
+**Vendor's marketplace description:** Billfix — das Rechnungsprogramm zum Einmalkauf, ganz ohne Abo (für Windows). Warum sich das Bewerben lohnt: Aktueller Bedarf: E-Rechnungspflicht 2027/2028 im B2B — Millionen Solo-Selbstständige und Kleinbetriebe brauchen eine bezahlbare Lösung. Einstiegspreis: 149 € statt monatlicher Abo-Kosten. 100 % lokal auf dem Windows-PC — keine Cloud, kein Konto, kein Abo. Funktionsumfang: E-Rechnung nach EU-Norm EN 16931 (ZUGFeRD/XRechnung), Mahnwesen, Teilzahlungen, GiroCode, Artikelstamm, Belegablage mit Handy-Scan, Kontoauszugs-Abgleich, zwei Gewerbe. Zielgruppe: Solo-Selbstständige und Ein-Personen-Betriebe, die ihre Rechnungen selbst schreiben — Coaches, Berater:innen, Handwerk im Nebenerwerb, Freelancer.
 
 ## 2. Links
 

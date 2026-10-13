@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Bewerbe: Erfolgreich mit Affiliate Marketing und erhalte 50% Provision auf alle Up &amp; Downsells.</strong></p>
-<p><strong>Auf der Partnerseite ist für dich alles vorbereitet. E-Mail Vorlagen, Social Media Texte,...</strong></p>
-<p><strong>Erfolgreich mit Affiliate-Marketing beinhaltet Folgendes:</strong></p>
-<ul>
-<li>Bewährte Taktiken im Affiliate Marketing</li>
-<li>Schritt-für-Schritt-Anleitungen</li>
-<li>Die typischen Anfängerfehler</li>
-<li>Perfekt für jeden, der Online Geld verdienen möchte</li>
-</ul>
-<p>Im Funnel sind <strong>67 € Provision</strong> für dich möglich</p>
-<p><a href="https://page.funnelcockpit.com/MWjM4GC2zDri47Pr8" target="_blank" rel="noreferrer noopener">Zu den Werbemitteln &lt;&lt; klick</a></p>
+**Vendor's marketplace description:** Bewerbe: Erfolgreich mit Affiliate Marketing und erhalte 50% Provision auf alle Up & Downsells. Auf der Partnerseite ist für dich alles vorbereitet. E-Mail Vorlagen, Social Media Texte,... Erfolgreich mit Affiliate-Marketing beinhaltet Folgendes: Bewährte Taktiken im Affiliate Marketing Schritt-für-Schritt-Anleitungen Die typischen Anfängerfehler Perfekt für jeden, der Online Geld verdienen möchte Im Funnel sind 67 € Provision für dich möglich Zu den Werbemitteln << klick
 
 ## 2. Links
 

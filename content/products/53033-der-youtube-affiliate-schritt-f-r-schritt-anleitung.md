@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das E-Book <strong>"Der YouTube - Affiliate - Schritt für Schritt zur YouTube Monetarisierung - Vom Video zum Einkommen"</strong> wird kostenlos angeboten.<br /><br />Prima Geschenk für Deine Leser!</p>
-<ul>
-<li>Dieses E-Book funktioniert für Affiliate Anfänger und Fortgeschrittene.</li>
-<li>Perfektes Produkt für "jeden", der mit seinem Affiliate Business / Social-Media-Marketing starten will und nach wertvollen Tipps sucht.</li>
-<li>Du hast mit diesem E-Book ein Geschenk für Deine Community und wirst am kompletten Sales-Funnel beteiligt!</li>
-</ul>
-<p>Hohe Conversion, da es für den Kunden kostenlos ist und aktuelle Themen behandelt.<br /><br />50% Provision! Beteiligt an Add-On, Up- und Downsell.<br />+ 15% Lifetime Provision, ABO Produkt im Upsell für wiederkehrende Provisionen.<br />Über 115€ im Funnel für Dich möglich!<br /><br />Funnel wird ständig angepasst und erweitert.<br /><br />Viel Erfolg und fette Beute!</p>
+**Vendor's marketplace description:** Das E-Book "Der YouTube - Affiliate - Schritt für Schritt zur YouTube Monetarisierung - Vom Video zum Einkommen" wird kostenlos angeboten. Prima Geschenk für Deine Leser! Dieses E-Book funktioniert für Affiliate Anfänger und Fortgeschrittene. Perfektes Produkt für "jeden", der mit seinem Affiliate Business / Social-Media-Marketing starten will und nach wertvollen Tipps sucht. Du hast mit diesem E-Book ein Geschenk für Deine Community und wirst am kompletten Sales-Funnel beteiligt! Hohe Conversion, da es für den Kunden kostenlos ist und aktuelle Themen behandelt. 50% Provision! Beteiligt an Add-On, Up- und Downsell. + 15% Lifetime Provision, ABO Produkt im Upsell für wiederkehrende Provisionen. Über 115€ im Funnel für Dich möglich! Funnel wird ständig angepasst und erweitert. Viel Erfolg und fette Beute!
 
 ## 2. Links
 

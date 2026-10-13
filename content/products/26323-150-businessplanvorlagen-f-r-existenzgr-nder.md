@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p> </p>
-<p style="text-align:center;"><span style="color:#ff0000;"><strong>Gruenderplan.de bietet </strong></span></p>
-<p style="text-align:center;"><span style="color:#ff0000;"><strong>150 verschiedene Businessplanvorlagen </strong></span></p>
-<p style="text-align:center;"><span style="color:#ff0000;"><strong>für Existenzgründer an. </strong></span></p>
-<p style="text-align:center;"> </p>
-<ul style="list-style-type:disc;">
-<li><strong>Einzigartiges Marktpotential</strong></li>
-<li><strong>Riesige Auswahl: Businessplanvorlagen für ca. 150 Branchen</strong></li>
-<li><strong>30 % Provision auf deine Verkäufe</strong></li>
-<li><strong>zusätzlich 10 % Zweistufen-Provisionen auf die Provisionen der von dir geworbenen Affiliates</strong></li>
-</ul>
-<p style="text-align:center;"><strong> </strong></p>
+**Vendor's marketplace description:** Gruenderplan.de bietet 150 verschiedene Businessplanvorlagen für Existenzgründer an. Einzigartiges Marktpotential Riesige Auswahl: Businessplanvorlagen für ca. 150 Branchen 30 % Provision auf deine Verkäufe zusätzlich 10 % Zweistufen-Provisionen auf die Provisionen der von dir geworbenen Affiliates
 
 ## 2. Links
 

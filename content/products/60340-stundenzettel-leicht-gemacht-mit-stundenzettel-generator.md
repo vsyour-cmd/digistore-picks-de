@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Stundenzettel leicht gemacht – Ratgeber mit Stundenzettel-Generator</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Der Ratgeber erklärt, wer Arbeitszeiten aufzeichnen muss und welche Grenzen gelten. Der <strong>Stundenzettel-Generator</strong> erstellt das Monatsblatt, rechnet Stunden und Pausen und prüft Mindestlohn und Minijob-Grenze.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Minijobber und Aushilfen</li>
-<li>Kleine Arbeitgeber und Privathaushalte</li>
-<li>Arbeitnehmer, die Überstunden belegen wollen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Der Arbeitgeber verlangt Stundenzettel</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Minijob und Nebenjob, Kalender und Planer 2027, Teilzeit und Elternzeit) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Stundenzettel leicht gemacht – Ratgeber mit Stundenzettel-Generator Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Der Ratgeber erklärt, wer Arbeitszeiten aufzeichnen muss und welche Grenzen gelten. Der Stundenzettel-Generator erstellt das Monatsblatt, rechnet Stunden und Pausen und prüft Mindestlohn und Minijob-Grenze. Die Zielgruppe Minijobber und Aushilfen Kleine Arbeitgeber und Privathaushalte Arbeitnehmer, die Überstunden belegen wollen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Der Arbeitgeber verlangt Stundenzettel Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Minijob und Nebenjob, Kalender und Planer 2027, Teilzeit und Elternzeit) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

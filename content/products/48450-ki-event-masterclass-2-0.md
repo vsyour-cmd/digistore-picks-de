@@ -41,49 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Werde Teil des Erfolgs der KI EVENT MASTERCLASS 2.0</strong></h2>
-<p>Unsere KI Event Masterclass 2.0 lässt Menschen weltklasse Event Konzepte mit Unterstützung der KI erstellen. Mit den perfekt abgestimmten Promptvorlagen wird die Konzeptionszeit um 90% reduziert.</p>
-<p> </p>
-<p><strong>Deine Vorteile als </strong><strong>Affiliate:</strong></p>
-<ul>
-<li>70% Provision pro Verkauf</li>
-<li>Große Auswahl an Werbemittel</li>
-</ul>
-<p> </p>
-<h2><strong>Das erwartet die Teilnehmenden</strong></h2>
-<div>
-<div>
-<h4>Durch die KI Event Masterclass 2.0 …</h4>
-</div>
-</div>
-<div>
-<div>
-<ul>
-<li>... lernen sie Weltklasse Event Konzepte mit Unterstützung der KI zu erstellen</li>
-</ul>
-</div>
-</div>
-<div>
-<div>
-<ul>
-<li>... lernen sie das unveröffentlichte KESCH Eventkonzept Framework kennen</li>
-</ul>
-</div>
-</div>
-<div>
-<div>
-<ul>
-<li>... erhalten sie Promptvorlagen, die ihre Konzeptionszeit um 90% reduzieren</li>
-</ul>
-</div>
-</div>
-<div>
-<div>
-<ul>
-<li>... bekommen sie KI Tools an die Hand, die sie dabei unterstützen mehr Menschen zu den Events zu bringen!</li>
-</ul>
-</div>
-</div>
+**Vendor's marketplace description:** Werde Teil des Erfolgs der KI EVENT MASTERCLASS 2.0 Unsere KI Event Masterclass 2.0 lässt Menschen weltklasse Event Konzepte mit Unterstützung der KI erstellen. Mit den perfekt abgestimmten Promptvorlagen wird die Konzeptionszeit um 90% reduziert. Deine Vorteile als Affiliate: 70% Provision pro Verkauf Große Auswahl an Werbemittel Das erwartet die Teilnehmenden Durch die KI Event Masterclass 2.0 … ... lernen sie Weltklasse Event Konzepte mit Unterstützung der KI zu erstellen ... lernen sie das unveröffentlichte KESCH Eventkonzept Framework kennen ... erhalten sie Promptvorlagen, die ihre Konzeptionszeit um 90% reduzieren ... bekommen sie KI Tools an die Hand, die sie dabei unterstützen mehr Menschen zu den Events zu bringen!
 
 ## 2. Links
 

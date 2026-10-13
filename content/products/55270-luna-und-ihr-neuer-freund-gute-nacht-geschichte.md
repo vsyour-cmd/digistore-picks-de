@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Produkt</h2>
-<p>Luna und ihr neuer Freund eBook</p>
-<p>+ Hörbuch</p>
-<h2>Vorteile für dich als Affiliate</h2>
-<p>✔ Hilft Eltern als Gute-Nacht-Geschichte für die kleinen Engel <strong>(100% passend) ★</strong> 3,8 Sterne Amazon (ohne Hörbuch)</p>
-<p>✔ Ebook kostengünstig + Hörbuch um noch besser weiterempfehlen <strong>(100% ehrlich)</strong></p>
+**Vendor's marketplace description:** Produkt Luna und ihr neuer Freund eBook + Hörbuch Vorteile für dich als Affiliate ✔ Hilft Eltern als Gute-Nacht-Geschichte für die kleinen Engel (100% passend) ★ 3,8 Sterne Amazon (ohne Hörbuch) ✔ Ebook kostengünstig + Hörbuch um noch besser weiterempfehlen (100% ehrlich)
 
 ## 2. Links
 

@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>✅</strong> 120 Instagram Hooks for Reels, Posts &amp; Stories for:<br />➡️ viral &amp; curiosity<br />➡️ business &amp; marketing<br />➡️ reels<br />➡️ personal brand<br />➡️ AI &amp; future<br />➡️ engagement<br />➡️ sales &amp; conversion</p>
-<p>✅ 10 Bonus Materials</p>
+**Vendor's marketplace description:** ✅ 120 Instagram Hooks for Reels, Posts & Stories for: ➡️ viral & curiosity ➡️ business & marketing ➡️ reels ➡️ personal brand ➡️ AI & future ➡️ engagement ➡️ sales & conversion ✅ 10 Bonus Materials
 
 ## 2. Links
 

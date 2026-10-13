@@ -41,70 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>60% Provision + 50% Provision an Order Bump + Up- und Downsell! </strong></h2>
-<p>Der Funnel ist auf <span style="color:#339966;"><strong>maximale Provisionen für Dich</strong></span> ausgelegt.  </p>
-<hr />
-<p><span style="color:#ff6600;"><strong>&gt;&gt; Das Ultimate Social Media Bundle - 450 fertige Social Media Templates &lt;&lt;</strong></span></p>
-<p> </p>
-<p>Mit dem Ultimate Social Media Bundle haben deine Kunden nie wieder Stress mit Ihrem Social Media Auftritt. Sie bekommen 450 "Ready to Use" Templates an die Hand und können direkt starten.</p>
-<p>Das "Ultimate Social Media Bundle" ist das Einzige Bundle, dass Deinen Kunden über 1 Jahr an Social Media Arbeit abnimmt.</p>
-<p> </p>
-<p><strong>Inhalt:</strong></p>
-<ul>
-<li>
-<div><strong>450 fertige</strong> Social Media Vorlagen inkl. Stories</div>
-</li>
-<li>
-<div><strong>Über 1 Jahr</strong> an Social Media Posts <strong>fix und fertig</strong></div>
-</li>
-<li>
-<div><strong>Nie wieder Gedanken machen</strong> was sie posten müssen</div>
-</li>
-<li><strong>Simpel</strong> in Canva zu editieren</li>
-<li>
-<div><strong>Exakte Video Anleitung</strong> wie sie die Vorlagen für sich nutzt</div>
-</li>
-<li>
-<div>Templates mit dem <strong>besten</strong> Preis-Leistungs-Verhältnis</div>
-</li>
-<li>
-<div><strong>Perfekt für</strong> Instagram, Facebook oder Pinterest</div>
-</li>
-</ul>
-<p> </p>
-<p><strong>Deine Kunden werden Dir dankbar sein, dass Du ihnen dieses Produkt empfohlen hast.</strong></p>
-<p> </p>
-<p><strong>Zielgruppe: </strong></p>
-<p>Das Ultimate Social Media Bundle ist ideal für Neueinsteiger und Fortgeschrittenen auf Social Media geeignet. </p>
-<p>Egal ob sie sich gerade den ersten Instagram Account aufbauen möchten oder ob der Profi Affiliate einen zweiten oder dritten Account zur monetarisierung haben möchte, dass Ultimate Social Media Bundle ist für alle das ideale Produkt.</p>
-<p>Sie bekommen im Handumdrehen mehr Freizeit und verdienen gleichzeitig mehr Geld oder sammeln neue Kundenkontakte (Leads).</p>
-<p>Somit hast Du eine große Zielgruppe, was Dir wiederrum mehr Provisionen einbringt!</p>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Deine Vorteile als Affiliate auf einen Blick:</strong></span></p>
-<ul>
-<li><strong>Das Erste Bundle dieser Art</strong>, daher hast Du mit diesem Angebot ein Alleinstellungsmerkmal.</li>
-<li>
-<div>Durch <strong>Order Bump</strong> auf der Bestellseite, direkt <strong>mehr Provisionen</strong> bekommen.</div>
-</li>
-<li>
-<div>Die Verkaufsseite wird <strong>stetig Conversion optimiert.</strong></div>
-</li>
-<li>
-<div>Ideales Produkt für<strong> "jeden" </strong>der mit Social Media Erfolg haben möchte.</div>
-</li>
-<li>
-<div><strong>50% Provision</strong> pro Verkauf des Hauptproduktes.</div>
-</li>
-<li><strong>50% Provision an Upsell &amp; Downsell</strong> Angebot integriert.</li>
-<li>Du wirst an den <strong>Upsells &amp; Downsells beteiligt.</strong></li>
-<li>Die Verkaufsseite ist speziel <strong>mobil optimiert</strong>, um beste Ergebnisse zu erzielen.</li>
-<li><strong>Funnel wird kontinuierlich optimiert.</strong></li>
-</ul>
-<p> </p>
-<h5><strong>Jetzt loslegen und die ersten Provisionen abstauben!</strong></h5>
-<div>-------------------------------------------------</div>
-<div> </div>
-<div>Klicke rechts auf den Menüpunkt "Affiliate-Support-Seite" und du erhälst, Bilder, Videos, E-Mail Texte und mehr!</div>
+**Vendor's marketplace description:** 60% Provision + 50% Provision an Order Bump + Up- und Downsell! Der Funnel ist auf maximale Provisionen für Dich ausgelegt. >> Das Ultimate Social Media Bundle - 450 fertige Social Media Templates << Mit dem Ultimate Social Media Bundle haben deine Kunden nie wieder Stress mit Ihrem Social Media Auftritt. Sie bekommen 450 "Ready to Use" Templates an die Hand und können direkt starten. Das "Ultimate Social Media Bundle" ist das Einzige Bundle, dass Deinen Kunden über 1 Jahr an Social Media Arbeit abnimmt. Inhalt: 450 fertige Social Media Vorlagen inkl. Stories Über 1 Jahr an Social Media Posts fix und fertig Nie wieder Gedanken machen was sie posten müssen Simpel in Canva zu editieren Exakte Video Anleitung wie sie die Vorlagen für sich nutzt Templates mit dem besten Preis-Leistungs-Verhältnis Perfekt für Instagram, Facebook oder Pinterest Deine Kunden werden Dir dankbar sein, dass Du ihnen dieses Produkt empfohlen hast. Zielgruppe: Das Ultimate Social Media Bundle ist ideal für Neueinsteiger und Fortgeschrittenen auf Social Media geeignet. Egal ob sie sich gerade den ersten Instagram Account aufbauen möchten oder ob der Profi Affiliate einen zweiten oder dritten Account zur monetarisierung haben möchte, dass Ultimate Social Media Bundle ist für alle das ideale Produkt. Sie bekommen im Handumdrehen mehr Freizeit und verdienen gleichzeitig mehr Geld oder sammeln neue Kundenkontakte (Leads). Somit hast Du eine große Zielgruppe, was Dir wiederrum mehr Provisionen einbringt! Deine Vorteile als Affiliate auf einen Blick: Das Erste Bundle dieser Art , daher hast Du mit diesem Angebot ein Alleinstellungsmerkmal. Durch Order Bump auf der Bestellseite, direkt mehr Provisionen bekommen. Die Verkaufsseite wird stetig Conversion optimiert. Ideales Produkt für "jeden" der mit Social Media Erfolg haben möchte. 50% Provision pro Verkauf des Hauptproduktes. 50% Provision an Upsell & Downsell Angebot integriert. Du wirst an den Upsells & Downsells beteiligt. Die Verkaufsseite ist speziel mobil optimiert , um beste Ergebnisse zu erzielen. Funnel wird kontinuierlich optimiert. Jetzt loslegen und die ersten Provisionen abstauben! ------------------------------------------------- Klicke rechts auf den Menüpunkt "Affiliate-Support-Seite" und du erhälst, Bilder, Videos, E-Mail Texte und mehr!
 
 ## 2. Links
 

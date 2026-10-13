@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Mehr Struktur, mehr Übersicht, mehr Führung – mit dem Quick-Modell</strong>.</p>
-<p>Dieses bewährte Handlungsmodell hilft Dir, Führung klarer, strukturierter und lösungsorientierter zu gestalten.</p>
-<p>In diesem kompakten Paket erhältst Du:</p>
-<ul>
-<li>Ein 30-minütiges Video, das Dir die vier Quadranten des Quick-Modells erklärt: Struktur + Zeitmanagement + Feedback +Teamführung.</li>
-<li>Ein Workbook, das praktische Übungen, Reflexionen und Checklisten bietet, um das Gelernte direkt umzusetzen.</li>
-</ul>
-<p>Das lernst Du:</p>
-<ul>
-<li>Wie Du das Quick-Modell im Führungsalltag anwendest.</li>
-<li>Wie Du Zeit effektiver nutzt und klare Prioritäten setzt.</li>
-<li>Wie Du Deine Kommunikation stärkst und Konflikte im Team proaktiv angehst.</li>
-</ul>
-<p>Für wen geeignet:</p>
-<ul>
-<li>Führungskräfte, die ihre Arbeitsabläufe verbessern möchten.</li>
-<li>Coaches und Mediatoren, die das Modell als Werkzeug in der Arbeit mit Teams einsetzen wollen.</li>
-</ul>
-<p>Preis: Nur 7,99 €</p>
-<p> </p>
+**Vendor's marketplace description:** Mehr Struktur, mehr Übersicht, mehr Führung – mit dem Quick-Modell . Dieses bewährte Handlungsmodell hilft Dir, Führung klarer, strukturierter und lösungsorientierter zu gestalten. In diesem kompakten Paket erhältst Du: Ein 30-minütiges Video, das Dir die vier Quadranten des Quick-Modells erklärt: Struktur + Zeitmanagement + Feedback +Teamführung. Ein Workbook, das praktische Übungen, Reflexionen und Checklisten bietet, um das Gelernte direkt umzusetzen. Das lernst Du: Wie Du das Quick-Modell im Führungsalltag anwendest. Wie Du Zeit effektiver nutzt und klare Prioritäten setzt. Wie Du Deine Kommunikation stärkst und Konflikte im Team proaktiv angehst. Für wen geeignet: Führungskräfte, die ihre Arbeitsabläufe verbessern möchten. Coaches und Mediatoren, die das Modell als Werkzeug in der Arbeit mit Teams einsetzen wollen. Preis: Nur 7,99 €
 
 ## 2. Links
 

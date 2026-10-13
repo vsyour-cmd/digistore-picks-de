@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>PROFILING EXPERT: Die Profiling Masterclass mit 4 Online-Kursen sowie dem großen Profiler Workbook</h2>
-<p><strong>Mit den 4 Online-Kursen "Profiling Practitioner", "Lügen sicher erkennen", "Narzissten erkennen" und dem umfangreichen Face Reading Kurs "FaceProfiler® Practitioner" sowie mit dem exklusiven Profiler-Workbook können die Teilner*innen lernen, das Gegenüber schnell einzuschätzen, Risiken zu reduzieren und die Effizienz und den eigenen Erfolg zu erhöhen.</strong></p>
-<p><strong>Inhalte des PROFILING EXPERTS sind:</strong></p>
-<ul>
-<li>Online-Kurs “<a href="https://www.profiling.me/menschenkenntnis/" target="_blank" rel="noreferrer noopener">Profiling Practitioner</a>” mit fast 5 Stunden.</li>
-<li>
-<p>Online-Kurs "<a href="https://www.profiling.me/luegen-erkennen" target="_blank" rel="noreferrer noopener">Lügen sicher erkennen</a>" mit ca. 5 Stunden inkl. Workbook.</p>
-</li>
-<li>
-<p>Online-Kurs "<a href="https://www.profiling.me/narzissten" target="_blank" rel="noreferrer noopener">Narzissten erkennen</a>" mit ca. 2,5 Stunden inkl. Workbook.</p>
-</li>
-<li>
-<p>Online-Kurs "<a href="https://www.profiling.me/gesichtlesen" target="_blank" rel="noreferrer noopener">FaceProfiler® Practitioner</a>" mit mehr als 8 Stunden inkl. Workbook.</p>
-</li>
-<li>
-<p>Profiler-Workbook "<a href="https://www.profiling.me/buch" target="_blank" rel="noreferrer noopener">Menschen entschlüsseln - mit dem SpeedProfiling System</a>" mit mehr als 440 Seiten als PDF-Download.</p>
-</li>
-</ul>
+**Vendor's marketplace description:** PROFILING EXPERT: Die Profiling Masterclass mit 4 Online-Kursen sowie dem großen Profiler Workbook Mit den 4 Online-Kursen "Profiling Practitioner", "Lügen sicher erkennen", "Narzissten erkennen" und dem umfangreichen Face Reading Kurs "FaceProfiler® Practitioner" sowie mit dem exklusiven Profiler-Workbook können die Teilner*innen lernen, das Gegenüber schnell einzuschätzen, Risiken zu reduzieren und die Effizienz und den eigenen Erfolg zu erhöhen. Inhalte des PROFILING EXPERTS sind: Online-Kurs “ Profiling Practitioner ” mit fast 5 Stunden. Online-Kurs " Lügen sicher erkennen " mit ca. 5 Stunden inkl. Workbook. Online-Kurs " Narzissten erkennen " mit ca. 2,5 Stunden inkl. Workbook. Online-Kurs " FaceProfiler® Practitioner " mit mehr als 8 Stunden inkl. Workbook. Profiler-Workbook " Menschen entschlüsseln - mit dem SpeedProfiling System " mit mehr als 440 Seiten als PDF-Download.
 
 ## 2. Links
 

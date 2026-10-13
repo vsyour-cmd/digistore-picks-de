@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit diesem Hypnose-Onlinekurs von Pet Anthony kannst Du das schädliche Zähneknirschen endlich hinter Dir lassen. </p>
-<p>Bei diesem Vorhaben hast Du den stärksten Unterstützer an Deiner Seite: Dein Unterbewusstsein hilft Dir tagsüber und in der Nacht während Du schläfst, Dein Kiefer zu entspannen und die Energie wieder fließen zu lassen.  Mit dieser Hypnose wirst Du lernen, anders als bisher mit Stressauslösern umzugehen – ohne Verspannungen im Körper und Kiefer.</p>
-<p>Der Kurs enthält insgesamt 3 Videolektionen inklusive einer speziellen Hypnose sowie eine praktische Übungsanleitung.</p>
-<p>Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.</p>
+**Vendor's marketplace description:** Mit diesem Hypnose-Onlinekurs von Pet Anthony kannst Du das schädliche Zähneknirschen endlich hinter Dir lassen. Bei diesem Vorhaben hast Du den stärksten Unterstützer an Deiner Seite: Dein Unterbewusstsein hilft Dir tagsüber und in der Nacht während Du schläfst, Dein Kiefer zu entspannen und die Energie wieder fließen zu lassen. Mit dieser Hypnose wirst Du lernen, anders als bisher mit Stressauslösern umzugehen – ohne Verspannungen im Körper und Kiefer. Der Kurs enthält insgesamt 3 Videolektionen inklusive einer speziellen Hypnose sowie eine praktische Übungsanleitung. Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.
 
 ## 2. Links
 

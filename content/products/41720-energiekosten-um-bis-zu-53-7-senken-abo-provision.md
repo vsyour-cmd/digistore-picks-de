@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb jetzt unser 80 Cent Ebook und erhalte 50% monatliche Provision auf unsere hochkonvertierenden Upsells und sichere dir langfristige, passive Abo Provision.</p>
-<p>Da das Hauptprodukt nur 80 Cent kostet, kommen besonders viele Käufe zu Stande, die Kunden sehen es nicht wirklich als Kauf und durch die hohe Conversion des Upsells, kannst du dir so leicht ein 100% passives Einkommen aufbauen.</p>
-<h3><strong>Dein weiterer großer Vorteil</strong></h3>
-<p>Du wirst ebenfalls an unseren Produkten in unserem langen Follow up beteiligt, wenn der Kunde dort etwas kauft.</p>
-<h3>Allgemeine Informationen</h3>
-<p>Die Zielgruppe sind theoretisch alle Menschen, da vor allem aktuell jeder von der Preiserhöhung betroffen ist und jeder Geld sparen möchte. Das Produkt ist trotz des geringen Preises von nur 80 Cent auf einem sehr hohen Niveau, was Design und Inhalt betrifft.</p>
-<p>Hier sind die Vorteile des Produkts für Sie und den Kunden:</p>
-<ul>
-<li>Sie tun dem Kunden etwas Gutes, weil das Produkt nur 80 Cent (einmalig) kostet und er dadurch seine Kosten für Energie deutlich reduzieren kann</li>
-<li>Viele Sales durch günstigen Front Preis + Top Conversion auf den Abo Upsell</li>
-<li>Inhalte des Abo-Upsells werden zeitverzögert freigeschaltet, sodass die Kunden lange dabei bleiben</li>
-<li>Auch wenn der Kunde nicht kauft, wird Ihr Affiliate Link hinterlegt. Somit werden Sie auch an Verkäufen beteiligt, die in unserem Follow up passieren</li>
-</ul>
-<p> </p>
-<p>Das Produkt wird durch andauernde Splittests kontinuierlich weiter optimiert.</p>
-<p>Weitere Fragen bitte an: support@moneten-wissen.de</p>
+**Vendor's marketplace description:** Bewirb jetzt unser 80 Cent Ebook und erhalte 50% monatliche Provision auf unsere hochkonvertierenden Upsells und sichere dir langfristige, passive Abo Provision. Da das Hauptprodukt nur 80 Cent kostet, kommen besonders viele Käufe zu Stande, die Kunden sehen es nicht wirklich als Kauf und durch die hohe Conversion des Upsells, kannst du dir so leicht ein 100% passives Einkommen aufbauen. Dein weiterer großer Vorteil Du wirst ebenfalls an unseren Produkten in unserem langen Follow up beteiligt, wenn der Kunde dort etwas kauft. Allgemeine Informationen Die Zielgruppe sind theoretisch alle Menschen, da vor allem aktuell jeder von der Preiserhöhung betroffen ist und jeder Geld sparen möchte. Das Produkt ist trotz des geringen Preises von nur 80 Cent auf einem sehr hohen Niveau, was Design und Inhalt betrifft. Hier sind die Vorteile des Produkts für Sie und den Kunden: Sie tun dem Kunden etwas Gutes, weil das Produkt nur 80 Cent (einmalig) kostet und er dadurch seine Kosten für Energie deutlich reduzieren kann Viele Sales durch günstigen Front Preis + Top Conversion auf den Abo Upsell Inhalte des Abo-Upsells werden zeitverzögert freigeschaltet, sodass die Kunden lange dabei bleiben Auch wenn der Kunde nicht kauft, wird Ihr Affiliate Link hinterlegt. Somit werden Sie auch an Verkäufen beteiligt, die in unserem Follow up passieren Das Produkt wird durch andauernde Splittests kontinuierlich weiter optimiert. Weitere Fragen bitte an: support@moneten-wissen.de
 
 ## 2. Links
 

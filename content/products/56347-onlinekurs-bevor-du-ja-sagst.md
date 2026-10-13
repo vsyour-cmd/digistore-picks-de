@@ -41,70 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Affiliate-Partnerprogramm: Onlinekurs „Bevor du JA sagst“</strong></p>
-<p><strong>Provision: 50% (99,50€ pro Verkauf)</strong></p>
-<p>Als Affiliate erhältst du <strong>50% Provision auf jeden vermittelten Verkauf</strong>.<br />Die Auszahlung erfolgt automatisch über Digistore24 gemäß deren Abrechnungsbedingungen.</p>
-<p> </p>
-<p><strong>Warum sich die Bewerbung lohnt</strong></p>
-<ul>
-<li><strong>Hohe Provision (50%):</strong> attraktive Vergütung pro Verkauf</li>
-<li><strong>Emotional starkes Thema</strong>: Liebe, Beziehungen und Lebensentscheidungen sprechen eine große Zielgruppe an</li>
-<li><strong>Klare Positionierung</strong>: ideal für Zielgruppen in den Bereichen Coaching, Persönlichkeitsentwicklung, Spiritualität und Beziehungen</li>
-<li><strong>Digitales Produkt</strong>: keine Logistik, sofort verfügbar, hohe Conversion-Chancen</li>
-<li><strong>Evergreen-Thema</strong>: dauerhaft relevant (Liebe &amp; Partnerschaft betreffen jeden Menschen)</li>
-</ul>
-<p> </p>
-<p><strong>Kurzbeschreibung des Produkts</strong></p>
-<p>„<strong>Bevor du JA sagst</strong>“ ist ein Onlinekurs, der Menschen dabei unterstützt, <strong>eine bewusste und klare Entscheidung in der Partnerwahl zu treffen</strong>.</p>
-<p>Mithilfe von Beziehungspsychologie und Numerologie lernen die Teilnehmer:innen:</p>
-<ul>
-<li>ihre Beziehungsmuster zu erkennen</li>
-<li>den sogenannten „Harmony-Score“ zu berechnen</li>
-<li>Klarheit über die Qualität und Zukunft ihrer Beziehung zu gewinnen</li>
-</ul>
-<p>Der Kurs richtet sich an Menschen, die:</p>
-<ul>
-<li>vor einer wichtigen Beziehungsentscheidung stehen</li>
-<li>Angst haben, die falsche Entscheidung zu treffen</li>
-<li>Torschlußpanik vor der Hochzeit haben</li>
-<li>mehrmals geschieden oder getrennt sind und nun endlich die oder den Richtige/n finden wollen</li>
-<li>wiederkehrende Beziehungsmuster verstehen möchten</li>
-<li>sich mehr Sicherheit, Klarheit und emotionale Stabilität wünschen</li>
-</ul>
-<p> </p>
-<p><strong>Inhalte des Kurses</strong></p>
-<ul>
-<li>ca. <strong>6 Stunden Videomaterial</strong></li>
-<li><strong>Workbook (58 Seiten PDF)</strong> mit Übungen &amp; Reflexionen</li>
-<li><strong>E-Book (120 Seiten)</strong> „Vergiss alles, was du über Liebe gelernt hast“</li>
-</ul>
-<p> </p>
-<p><strong>Affiliate-Link &amp; Werbemittel</strong></p>
-<p>Deinen persönlichen Affiliate-Link erhältst du direkt über Digistore24 im Marktplatz oder kopiere ihn dir hier:<br /><br /></p>
-<p><a>https://www.checkout-ds24.com/redir/676916/AFFILIATE/CAMPAIGNKEY</a> </p>
-<p>Hier auch der Link zum Bestellformular:<br /><br /></p>
-<p><a>https://www.checkout-ds24.com/product/676916</a> </p>
-<p><br />Diese kannst du flexibel einsetzen:</p>
-<ul>
-<li>Social Media (z. B. Instagram, LinkedIn)</li>
-<li>Newsletter</li>
-<li>Blogartikel oder Webseiten</li>
-<li>Webinare oder Empfehlungen im Coaching-Kontext</li>
-</ul>
-<p>Bei Bedarf stellen wir dir gerne zusätzliche Werbematerialien oder Textbausteine zur Verfügung.</p>
-<p> </p>
-<p><strong>Für wen eignet sich die Bewerbung besonders?</strong></p>
-<ul>
-<li>Coaches, Therapeut:innen, Berater:innen</li>
-<li>Influencer:innen im Bereich Beziehungen &amp; Persönlichkeitsentwicklung</li>
-<li>Content Creator im Bereich Spiritualität, Liebe &amp; Selbstentwicklung</li>
-</ul>
-<p> </p>
-<p><strong>Kontakt für Affiliates</strong></p>
-<p>Bei Fragen, Kooperationen oder individuellen Anliegen erreichst du uns jederzeit unter:</p>
-<p><strong>info@heilpraxis-gesunde-beziehungen.de</strong></p>
-<p>Wir freuen uns auf eine erfolgreiche Zusammenarbeit!</p>
-<p>Herzliche Grüße<br />Johanna Maghsoudi</p>
+**Vendor's marketplace description:** Affiliate-Partnerprogramm: Onlinekurs „Bevor du JA sagst“ Provision: 50% (99,50€ pro Verkauf) Als Affiliate erhältst du 50% Provision auf jeden vermittelten Verkauf . Die Auszahlung erfolgt automatisch über Digistore24 gemäß deren Abrechnungsbedingungen. Warum sich die Bewerbung lohnt Hohe Provision (50%): attraktive Vergütung pro Verkauf Emotional starkes Thema : Liebe, Beziehungen und Lebensentscheidungen sprechen eine große Zielgruppe an Klare Positionierung : ideal für Zielgruppen in den Bereichen Coaching, Persönlichkeitsentwicklung, Spiritualität und Beziehungen Digitales Produkt : keine Logistik, sofort verfügbar, hohe Conversion-Chancen Evergreen-Thema : dauerhaft relevant (Liebe & Partnerschaft betreffen jeden Menschen) Kurzbeschreibung des Produkts „ Bevor du JA sagst “ ist ein Onlinekurs, der Menschen dabei unterstützt, eine bewusste und klare Entscheidung in der Partnerwahl zu treffen . Mithilfe von Beziehungspsychologie und Numerologie lernen die Teilnehmer:innen: ihre Beziehungsmuster zu erkennen den sogenannten „Harmony-Score“ zu berechnen Klarheit über die Qualität und Zukunft ihrer Beziehung zu gewinnen Der Kurs richtet sich an Menschen, die: vor einer wichtigen Beziehungsentscheidung stehen Angst haben, die falsche Entscheidung zu treffen Torschlußpanik vor der Hochzeit haben mehrmals geschieden oder getrennt sind und nun endlich die oder den Richtige/n finden wollen wiederkehrende Beziehungsmuster verstehen möchten sich mehr Sicherheit, Klarheit und emotionale Stabilität wünschen Inhalte des Kurses ca. 6 Stunden Videomaterial Workbook (58 Seiten PDF) mit Übungen & Reflexionen E-Book (120 Seiten) „Vergiss alles, was du über Liebe gelernt hast“ Affiliate-Link & Werbemittel Deinen persönlichen Affiliate-Link erhältst du direkt über Digistore24 im Marktplatz oder kopiere ihn dir hier: https://www.checkout-ds24.com/redir/676916/AFFILIATE/CAMPAIGNKEY Hier auch der Link zum Bestellformular: https://www.checkout-ds24.com/product/676916 Diese kannst du flexibel einsetzen: Social Media (z. B. Instagram, LinkedIn) Newsletter Blogartikel oder Webseiten Webinare oder Empfehlungen im Coaching-Kontext Bei Bedarf stellen wir dir gerne zusätzliche Werbematerialien oder Textbausteine zur Verfügung. Für wen eignet sich die Bewerbung besonders? Coaches, Therapeut:innen, Berater:innen Influencer:innen im Bereich Beziehungen & Persönlichkeitsentwicklung Content Creator im Bereich Spiritualität, Liebe & Selbstentwicklung Kontakt für Affiliates Bei Fragen, Kooperationen oder individuellen Anliegen erreichst du uns jederzeit unter: info@heilpraxis-gesunde-beziehungen.de Wir freuen uns auf eine erfolgreiche Zusammenarbeit! Herzliche Grüße Johanna Maghsoudi
 
 ## 2. Links
 

@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Kalender und Planer 2027 leicht gemacht – Ratgeber mit Kalender-Generator</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Der Ratgeber zeigt alle Feiertage und Brückentage 2027 für jedes Bundesland. Mit dem <strong>Kalender-Generator</strong> entstehen Jahreskalender, Monats- und Wochenplaner in 36 Designs zum Ausdrucken.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Familien, die Termine an einem Ort sehen wollen</li>
-<li>Berufstätige, die ihren Urlaub klug planen</li>
-<li>Menschen, die gern mit Papier planen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Das neue Jahr wird geplant</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> besonders gefragt von Oktober bis Januar</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Haushaltsbuch und Sparen, Teilzeit und Elternzeit, Minijob und Nebenjob) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Kalender und Planer 2027 leicht gemacht – Ratgeber mit Kalender-Generator Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Der Ratgeber zeigt alle Feiertage und Brückentage 2027 für jedes Bundesland. Mit dem Kalender-Generator entstehen Jahreskalender, Monats- und Wochenplaner in 36 Designs zum Ausdrucken. Die Zielgruppe Familien, die Termine an einem Ort sehen wollen Berufstätige, die ihren Urlaub klug planen Menschen, die gern mit Papier planen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Das neue Jahr wird geplant Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: besonders gefragt von Oktober bis Januar Mehr verdienen: Weitere passende Produkte (Haushaltsbuch und Sparen, Teilzeit und Elternzeit, Minijob und Nebenjob) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

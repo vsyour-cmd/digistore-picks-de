@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>50% PROVISION – PERFEKTER UPSELL!</p>
-<p>"Erfolgreicher Content Creator mit KI - Teil 2: Wachstum" <br />29,95 € Verkauf → 14,98 € PROVISION PRO VERKAUF!</p>
-<p>HOHE CONVERSION RATE – GENAU FÜR:<br />• Teil 1 Käufer (perfekte Reihenfolge)<br />• Creator mit 1k-10k Followern<br />• Von Reichweite zu Einnahmen<br />• Skalierungssystem 5k → 10k€/Monat</p>
-<p>WAS DRIN IST – KONKRET:<br />Kapitel 6: Plattform-Strategie (IG/TikTok/YT)<br />Kapitel 7: 1 Stunde → 50 Posts (Recycling)<br />Kapitel 8: VIP-Community Pyramide<br />Kapitel 9: Monetarisierung 0→10k€<br />Kapitel 10: Team-Aufbau + 12-Monats-Plan</p>
-<p>BESTE ANSPRECHFORM:<br />"Teil 1 war dein Fundament. Teil 2 dein Business!"<br />"5k Follower? Jetzt 10k€/Monat machen"</p>
+**Vendor's marketplace description:** 50% PROVISION – PERFEKTER UPSELL! "Erfolgreicher Content Creator mit KI - Teil 2: Wachstum" 29,95 € Verkauf → 14,98 € PROVISION PRO VERKAUF! HOHE CONVERSION RATE – GENAU FÜR: • Teil 1 Käufer (perfekte Reihenfolge) • Creator mit 1k-10k Followern • Von Reichweite zu Einnahmen • Skalierungssystem 5k → 10k€/Monat WAS DRIN IST – KONKRET: Kapitel 6: Plattform-Strategie (IG/TikTok/YT) Kapitel 7: 1 Stunde → 50 Posts (Recycling) Kapitel 8: VIP-Community Pyramide Kapitel 9: Monetarisierung 0→10k€ Kapitel 10: Team-Aufbau + 12-Monats-Plan BESTE ANSPRECHFORM: "Teil 1 war dein Fundament. Teil 2 dein Business!" "5k Follower? Jetzt 10k€/Monat machen"
 
 ## 2. Links
 

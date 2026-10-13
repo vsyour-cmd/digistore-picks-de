@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Heartness Practitioner</strong></p>
-<p>Als Coach, Berater oder Therapeut kannst du diese Ausbildung jedem Klienten / Patienten empfehlen, der stressstabil und kraftvoll sein Leben gestalten möchte - insbesondere Menschen die viel Stress erleben oder Burnout-gefährdet sind, sowie Menschen, die sich für die vielschichtigen Funktionen des Herzens interessieren und herzbewusst leben möchten.</p>
-<p>Die Ausbildung zum Heartness Practitioner leitet Menschen an, wie sie mithilfe der Herzkohärenz die vielen alltäglichen Stressmomente meistern und auf vielen Ebenen - körperlich, mental, emotional und energetisch - stabiler und ausgeglichener ihr Leben genießen können.</p>
+**Vendor's marketplace description:** Heartness Practitioner Als Coach, Berater oder Therapeut kannst du diese Ausbildung jedem Klienten / Patienten empfehlen, der stressstabil und kraftvoll sein Leben gestalten möchte - insbesondere Menschen die viel Stress erleben oder Burnout-gefährdet sind, sowie Menschen, die sich für die vielschichtigen Funktionen des Herzens interessieren und herzbewusst leben möchten. Die Ausbildung zum Heartness Practitioner leitet Menschen an, wie sie mithilfe der Herzkohärenz die vielen alltäglichen Stressmomente meistern und auf vielen Ebenen - körperlich, mental, emotional und energetisch - stabiler und ausgeglichener ihr Leben genießen können.
 
 ## 2. Links
 

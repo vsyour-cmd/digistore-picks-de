@@ -41,33 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Dein Zuhasue soll sauber sein und die Umwelt auch?</strong></p>
-<p>In diesem Workshop zeige ich dir, wie du dir deine Putzmittel selbst herstellst. Und zwar aus umweltfreundlichen, traditionellen Zutaten wie Natron, Zitronensäure und Essig. </p>
-<p>Du lernst 8 Rezepte kennen, die du ruckzuck für dich und deine Familie anrühren kannst. Außerdem erkläre ich dir die Wirkung aller Zutaten genau, sodass du in Zukunft weißt, wie du sie vielseitig nutzen kannst.</p>
-<p>Danach siehst du so klar, wie durch eine frisch geputzte Fensterscheibe, denn ich zeige dir alles Schritt-für-Schritt und verspreche dir: Umweltfreundlich putzen ist genial einfach!</p>
-<p><strong>Was?</strong></p>
-<p>Gemeinsam stellen wir folgende Reinigungsmittel her:</p>
-<ul>
-<li>Flüssigwaschmittel,</li>
-<li>Wollwaschmittel,</li>
-<li>Kastanienwaschmittel,</li>
-<li>Glasreiniger,</li>
-<li>WC-Reiniger,</li>
-<li>Essig-Allzweckreiniger,</li>
-<li>Geschirrspülpulver für die Spülmaschine und</li>
-<li>Klarspüler für die Spülmaschine.</li>
-</ul>
-<div>
-<div>
-<div>
-<div><strong>Wann?</strong></div>
-</div>
-</div>
-</div>
-<div>
-<p>Sofort, wenn du magst! Nach deiner Buchung schalte ich dir den Workshop direkt frei. Dann kannst du innerhalb der nächsten 6 Monate in deinem Tempo rühren und dir die Aufzeichnung immer wieder anschauen.</p>
-<p><a>https://www.katharinaruehrt.com/putzmittel-selber-machen</a></p>
-</div>
+**Vendor's marketplace description:** Dein Zuhasue soll sauber sein und die Umwelt auch? In diesem Workshop zeige ich dir, wie du dir deine Putzmittel selbst herstellst. Und zwar aus umweltfreundlichen, traditionellen Zutaten wie Natron, Zitronensäure und Essig. Du lernst 8 Rezepte kennen, die du ruckzuck für dich und deine Familie anrühren kannst. Außerdem erkläre ich dir die Wirkung aller Zutaten genau, sodass du in Zukunft weißt, wie du sie vielseitig nutzen kannst. Danach siehst du so klar, wie durch eine frisch geputzte Fensterscheibe, denn ich zeige dir alles Schritt-für-Schritt und verspreche dir: Umweltfreundlich putzen ist genial einfach! Was? Gemeinsam stellen wir folgende Reinigungsmittel her: Flüssigwaschmittel, Wollwaschmittel, Kastanienwaschmittel, Glasreiniger, WC-Reiniger, Essig-Allzweckreiniger, Geschirrspülpulver für die Spülmaschine und Klarspüler für die Spülmaschine. Wann? Sofort, wenn du magst! Nach deiner Buchung schalte ich dir den Workshop direkt frei. Dann kannst du innerhalb der nächsten 6 Monate in deinem Tempo rühren und dir die Aufzeichnung immer wieder anschauen. https://www.katharinaruehrt.com/putzmittel-selber-machen
 
 ## 2. Links
 

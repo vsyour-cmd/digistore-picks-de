@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><span style="color:#ffcc00;background-color:#000000;"><strong>In 3 Monaten zur ersten Kapitalanlage – ohne Eigenakquise, mit echtem Zugriff auf Off-Market-Objekte</strong></span></p>
-<p style="text-align:center;"><span style="color:#ffcc00;background-color:#000000;">Du willst endlich in Immobilien investieren, aber dir fehlt der Zugang, das Wissen und ein klarer Plan? Ich zeige dir, wie du als Angestellter, Selbstständiger oder Unternehmer deine erste Immobilie kaufst – Schritt für Schritt, ohne Theorieballast und ohne typische Anfängerfehler.</span></p>
-<p style="text-align:center;"><span style="color:#ffcc00;background-color:#000000;"><strong>Für wen ist dieser Kurs?</strong></span></p>
-<ul style="text-align:center;">
-<li><span style="color:#ffcc00;background-color:#000000;">Du verdienst über 2500€ netto</span></li>
-<li><span style="color:#ffcc00;background-color:#000000;">Du hast keine Konsumschulden</span></li>
-<li><span style="color:#ffcc00;background-color:#000000;">Du hast verstanden, dass die Renten-/Pensionslücke geschlossen werden muss</span></li>
-<li><span style="color:#ffcc00;background-color:#000000;">Du möchtest mehr als 10% Rendite pro Jahr</span></li>
-<li><span style="color:#ffcc00;background-color:#000000;">Du hast geerbt/ein hohes Einkommen/Eigenkapital und möchtest Dein Vermögen konservativ und nachhaltig mit hohen Renditen steigern</span></li>
-<li><span style="color:#ffcc00;background-color:#000000;">Dir fehlt das Grundlagenwissen zu Immobilien</span></li>
-</ul>
-<p style="text-align:center;"><span style="color:#ffcc00;background-color:#000000;"><strong>Dein Ergebnis nach 3 Monaten!</strong></span></p>
-<ul style="text-align:center;">
-<li><span style="color:#ffcc00;background-color:#000000;">Du verstehst wie Kapitalanlage-Immobilien funktionieren</span></li>
-<li><span style="color:#ffcc00;background-color:#000000;">Du hast Zugriff auf exklusive Offmarket Immobilien über unseren Makler-Call</span></li>
-<li><span style="color:#ffcc00;background-color:#000000;">Du hast Deine erste Immobilie gekauft und kannst diese passiv halten</span></li>
-<li><span style="color:#ffcc00;background-color:#000000;">Du verstehst die Basics als Vermieter und hast empfehlenswerter Weise Deine Hausverwaltung mit dem Mangement betraut</span></li>
-</ul>
-<p style="text-align:center;"><span style="color:#ffcc00;background-color:#000000;"><strong>Warum mit mir?</strong></span></p>
-<p style="text-align:center;"><span style="color:#ffcc00;background-color:#000000;">Ich startete selber als Kapitalanleger und habe mir in 4 Jahren über 100 Einheiten aufgebaut. Ich bin alle 4 Immobilienquadranten durchlaufen und weiß, wie Du startest, ohne Fehler zu machen, ohne Dich zu verzetteln und ohne Zeitverlust.</span><br /><span style="color:#ffcc00;background-color:#000000;">Dazu bringe ich meine Erfahrung als systemischer Leadershipcoach an der Hochschule mit über 500 Führungskräften mit. KLARHEIT UMSETZUNG und ZIELORIENTIERUNG<br /><a href="https://www.christianbleser.de/werde-kapitalanleger" target="_blank" rel="noreferrer noopener">1. Immobilienquadrant - Kapitalanleger</a><br /></span></p>
+**Vendor's marketplace description:** In 3 Monaten zur ersten Kapitalanlage – ohne Eigenakquise, mit echtem Zugriff auf Off-Market-Objekte Du willst endlich in Immobilien investieren, aber dir fehlt der Zugang, das Wissen und ein klarer Plan? Ich zeige dir, wie du als Angestellter, Selbstständiger oder Unternehmer deine erste Immobilie kaufst – Schritt für Schritt, ohne Theorieballast und ohne typische Anfängerfehler. Für wen ist dieser Kurs? Du verdienst über 2500€ netto Du hast keine Konsumschulden Du hast verstanden, dass die Renten-/Pensionslücke geschlossen werden muss Du möchtest mehr als 10% Rendite pro Jahr Du hast geerbt/ein hohes Einkommen/Eigenkapital und möchtest Dein Vermögen konservativ und nachhaltig mit hohen Renditen steigern Dir fehlt das Grundlagenwissen zu Immobilien Dein Ergebnis nach 3 Monaten! Du verstehst wie Kapitalanlage-Immobilien funktionieren Du hast Zugriff auf exklusive Offmarket Immobilien über unseren Makler-Call Du hast Deine erste Immobilie gekauft und kannst diese passiv halten Du verstehst die Basics als Vermieter und hast empfehlenswerter Weise Deine Hausverwaltung mit dem Mangement betraut Warum mit mir? Ich startete selber als Kapitalanleger und habe mir in 4 Jahren über 100 Einheiten aufgebaut. Ich bin alle 4 Immobilienquadranten durchlaufen und weiß, wie Du startest, ohne Fehler zu machen, ohne Dich zu verzetteln und ohne Zeitverlust. Dazu bringe ich meine Erfahrung als systemischer Leadershipcoach an der Hochschule mit über 500 Führungskräften mit. KLARHEIT UMSETZUNG und ZIELORIENTIERUNG 1. Immobilienquadrant - Kapitalanleger
 
 ## 2. Links
 

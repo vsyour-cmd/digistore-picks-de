@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein ehrlicher, praxisnaher Ratgeber für Paare, die sich auseinandergelebt haben, aber noch eine Chance sehen. Starke Zielgruppe: Beziehungscoaching, Selbsthilfe, Paartherapie-Interessierte.</p>
-<p> </p>
-<p>29 Kapitel mit echten Übungen, wöchentlichem Fahrplan, Selbsttest und 50 Gesprächsfragen. Verkaufspreis 27€, 50% Provision pro Verkauf.</p>
+**Vendor's marketplace description:** Ein ehrlicher, praxisnaher Ratgeber für Paare, die sich auseinandergelebt haben, aber noch eine Chance sehen. Starke Zielgruppe: Beziehungscoaching, Selbsthilfe, Paartherapie-Interessierte. 29 Kapitel mit echten Übungen, wöchentlichem Fahrplan, Selbsttest und 50 Gesprächsfragen. Verkaufspreis 27€, 50% Provision pro Verkauf.
 
 ## 2. Links
 

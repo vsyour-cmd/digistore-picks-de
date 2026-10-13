@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Glückscoach-Jahresausbildung</h2>
-<p>Empfehlen Sie einen <strong>hochwertigen, kostenlosen Online-Einstieg zum Thema Glück &amp; Lebensfreude</strong>,<br />der Teilnehmer schrittweise zu einer <strong>intensiven Glückscoach-Jahresausbildung</strong> führt.</p>
-<p>Die Bewerbung erfolgt <strong>nicht über direkten Verkauf</strong>, sondern über einen kostenlosen Video-Einstieg, z.B. das Ausfüllen eines kostenlose ausfüllen eines Lebensrads, 4 kostenlose Videolektionen etc. Zur Ausbildung führt dann ein 12 - Videokurs (Smile), für 40 € mit 40 % Provision zusäztlich.<br /><br /></p>
-<hr />
-<h3>Ihre Vorteile als Affiliate:</h3>
-<p>• <strong>Attraktische Provision:</strong> 40% pro Verkauf der Glückscoach-Jahresausbildung (&gt; 800 € Provision)<br />• <strong>Niedrige Einstiegshürde:</strong> kostenloser Mehrwert für Ihre Community<br />• <strong>Hohe Vertrauensbasis:</strong> zweistufiges Video-Training vor dem Kauf<br />• <strong>Langfristiges Tracking:</strong> automatische Zuordnung über Digistore<br />• <strong>Kein Support- oder Verkaufsaufwand</strong> für Sie<br /><br /></p>
-<hr />
-<h3>Zielgruppe:</h3>
-<p>Menschen mit Interesse an persönlicher Entwicklung, Glück, Lebensfreude, Bewusstseins-<br />und Coaching-Themen.</p>
-<hr />
-<h3>Wichtig für Affiliates:</h3>
-<p>Es wird <strong>ausschließlich der kostenlose Einstieg</strong> beworben. Alle weiteren Schritte und der Verkauf der Jahresausbildung erfolgen automatisiert.</p>
-<p> </p>
+**Vendor's marketplace description:** Glückscoach-Jahresausbildung Empfehlen Sie einen hochwertigen, kostenlosen Online-Einstieg zum Thema Glück & Lebensfreude , der Teilnehmer schrittweise zu einer intensiven Glückscoach-Jahresausbildung führt. Die Bewerbung erfolgt nicht über direkten Verkauf , sondern über einen kostenlosen Video-Einstieg, z.B. das Ausfüllen eines kostenlose ausfüllen eines Lebensrads, 4 kostenlose Videolektionen etc. Zur Ausbildung führt dann ein 12 - Videokurs (Smile), für 40 € mit 40 % Provision zusäztlich. Ihre Vorteile als Affiliate: • Attraktische Provision: 40% pro Verkauf der Glückscoach-Jahresausbildung (> 800 € Provision) • Niedrige Einstiegshürde: kostenloser Mehrwert für Ihre Community • Hohe Vertrauensbasis: zweistufiges Video-Training vor dem Kauf • Langfristiges Tracking: automatische Zuordnung über Digistore • Kein Support- oder Verkaufsaufwand für Sie Zielgruppe: Menschen mit Interesse an persönlicher Entwicklung, Glück, Lebensfreude, Bewusstseins- und Coaching-Themen. Wichtig für Affiliates: Es wird ausschließlich der kostenlose Einstieg beworben. Alle weiteren Schritte und der Verkauf der Jahresausbildung erfolgen automatisiert.
 
 ## 2. Links
 

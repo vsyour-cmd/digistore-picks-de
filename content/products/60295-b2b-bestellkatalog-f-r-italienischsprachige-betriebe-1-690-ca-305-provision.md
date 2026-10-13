@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Online-Katalog mit eigenem Zugang für jede Firma: Jeder Kunde sieht seine Preise und bestellt online, ohne Telefonate. Wiederkehrende Bestellungen sind schon vorausgefüllt.</p><p><strong>Für wen:</strong> Großhändler, Hersteller und Lieferanten, die an andere Firmen verkaufen.</p><p><strong>Deine Provision:</strong> 20 % pro Verkauf, ca. 305 € bei 1.690 € netto. Einmalzahlung, kein Abo.</p><p><strong>Wichtig:</strong> Verkaufsseite, Gespräche und Umsetzung sind auf Italienisch. Ideal, wenn du italienischsprachige Selbstständige in Italien, Deutschland oder der Schweiz erreichst.</p><p><strong>So läuft es:</strong> Nach der Bestellung meldet sich unser Team beim Kunden, bespricht alles per Videocall und setzt das Projekt komplett um. Du bringst den Kontakt, wir machen den Rest.</p>
+**Vendor's marketplace description:** Online-Katalog mit eigenem Zugang für jede Firma: Jeder Kunde sieht seine Preise und bestellt online, ohne Telefonate. Wiederkehrende Bestellungen sind schon vorausgefüllt. Für wen: Großhändler, Hersteller und Lieferanten, die an andere Firmen verkaufen. Deine Provision: 20 % pro Verkauf, ca. 305 € bei 1.690 € netto. Einmalzahlung, kein Abo. Wichtig: Verkaufsseite, Gespräche und Umsetzung sind auf Italienisch. Ideal, wenn du italienischsprachige Selbstständige in Italien, Deutschland oder der Schweiz erreichst. So läuft es: Nach der Bestellung meldet sich unser Team beim Kunden, bespricht alles per Videocall und setzt das Projekt komplett um. Du bringst den Kontakt, wir machen den Rest.
 
 ## 2. Links
 

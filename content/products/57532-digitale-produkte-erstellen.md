@@ -41,59 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Digitale Produkte erstellen – Dein erster Verkauf in 30 Tagen</h2>
-<p>Du möchtest dir ein zusätzliches Einkommen aufbauen, weißt aber nicht, womit du starten sollst? Dieses E-Book zeigt dir Schritt für Schritt, wie du dein erstes digitales Produkt entwickelst, professionell gestaltest und erfolgreich verkaufst – auch ohne Vorkenntnisse oder großes Startkapital.</p>
-<p>Statt komplizierter Theorie erhältst du einen klaren Fahrplan mit praktischen Anleitungen, Checklisten und sofort umsetzbaren Strategien.</p>
-<h3>Das erwartet dich:</h3>
-<ul>
-<li>
-<p>Die besten digitalen Produkte mit hohem Verkaufspotenzial</p>
-</li>
-<li>
-<p>Die passende Produktidee für deine Zielgruppe finden</p>
-</li>
-<li>
-<p>E-Books, Vorlagen &amp; Co. professionell erstellen</p>
-</li>
-<li>
-<p>Verkaufsseiten schreiben, die überzeugen</p>
-</li>
-<li>
-<p>Den richtigen Preis festlegen</p>
-</li>
-<li>
-<p>Marketing ohne Werbebudget</p>
-</li>
-<li>
-<p>Ein realistischer 90-Tage-Plan bis zu den ersten Verkäufen</p>
-</li>
-<li>
-<p>Die häufigsten Anfängerfehler vermeiden</p>
-</li>
-</ul>
-<h3>Inklusive Bonusmaterial:</h3>
-<ul>
-<li>
-<p>Produktideen-Workbook</p>
-</li>
-<li>
-<p>Zielgruppen-Worksheet</p>
-</li>
-<li>
-<p>Preisrechner</p>
-</li>
-<li>
-<p>Launch-Checkliste</p>
-</li>
-<li>
-<p>Contentplan</p>
-</li>
-<li>
-<p>Zahlreiche Vorlagen und Checklisten</p>
-</li>
-</ul>
-<p><strong>Sofort nach dem Kauf erhältst du das E-Book als PDF inklusive aller Bonusmaterialien zum direkten Download.</strong></p>
-<p>Starte noch heute und mache den ersten Schritt zu deinem eigenen digitalen Produkt und einem nachhaltigen Nebeneinkommen.</p>
+**Vendor's marketplace description:** Digitale Produkte erstellen – Dein erster Verkauf in 30 Tagen Du möchtest dir ein zusätzliches Einkommen aufbauen, weißt aber nicht, womit du starten sollst? Dieses E-Book zeigt dir Schritt für Schritt, wie du dein erstes digitales Produkt entwickelst, professionell gestaltest und erfolgreich verkaufst – auch ohne Vorkenntnisse oder großes Startkapital. Statt komplizierter Theorie erhältst du einen klaren Fahrplan mit praktischen Anleitungen, Checklisten und sofort umsetzbaren Strategien. Das erwartet dich: Die besten digitalen Produkte mit hohem Verkaufspotenzial Die passende Produktidee für deine Zielgruppe finden E-Books, Vorlagen & Co. professionell erstellen Verkaufsseiten schreiben, die überzeugen Den richtigen Preis festlegen Marketing ohne Werbebudget Ein realistischer 90-Tage-Plan bis zu den ersten Verkäufen Die häufigsten Anfängerfehler vermeiden Inklusive Bonusmaterial: Produktideen-Workbook Zielgruppen-Worksheet Preisrechner Launch-Checkliste Contentplan Zahlreiche Vorlagen und Checklisten Sofort nach dem Kauf erhältst du das E-Book als PDF inklusive aller Bonusmaterialien zum direkten Download. Starte noch heute und mache den ersten Schritt zu deinem eigenen digitalen Produkt und einem nachhaltigen Nebeneinkommen.
 
 ## 2. Links
 

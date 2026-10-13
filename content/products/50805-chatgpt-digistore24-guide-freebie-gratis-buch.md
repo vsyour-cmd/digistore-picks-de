@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Verdiene mit uns: 60 % Provision auf alle Upsells! 
+**Vendor's marketplace description:** Verdiene mit uns: 60 % Provision auf alle Upsells!
 
 ## 2. Links
 

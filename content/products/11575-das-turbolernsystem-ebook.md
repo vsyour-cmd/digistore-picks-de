@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>AFFILIATES:</p>
-<p>Affiliates erhalten 50% Provision für das Turbolernsystem und 50% für die Upsellprodukte.</p>
-<p>Die Verkaufspreise gehen von 29.- Euro bis hin zu 340.- Euro und mehr. Das ergibt satte Provisionen für dich als Affiliate.</p>
-<p>Affiliates erhalten auf alle Verkäufe eine Provision! Führe einfach deinen Traffic auf die Verkaufsseite dieses Ebooks, oder zur Landingpage für die kostenlose Eintragung, und wir machen den Rest.</p>
-<p style="text-align:left;">------------------</p>
-<p>BESCHREIBUNG:</p>
-<p>Das Turbolernsystem zeigt Lerntechniken, die weit über die Lernmethoden aus der Schule hinausgehen, mit denen du neues Wissen bis 5 Mal schneller lernen und lesen kannst.</p>
-<p>Ausserdem verbesserst du mit diesem System gleichzeitig spürbar dein Gedächtnis!</p>
-<p>Du wirst dadurch mehr Freizeit haben und trotzdem Bestnoten schreiben oder dich persönlich im Eiltempo weiterbilden.</p>
-<p>Du erhältst sofort nach der Zahlung den Download per E-Mail, auch wenn es gerade 3 Uhr nachts ist.</p>
-<p>Außerdem hast du eine 30 Tage Geld-Zurück-Garantie.</p>
-<p> </p>
+**Vendor's marketplace description:** AFFILIATES: Affiliates erhalten 50% Provision für das Turbolernsystem und 50% für die Upsellprodukte. Die Verkaufspreise gehen von 29.- Euro bis hin zu 340.- Euro und mehr. Das ergibt satte Provisionen für dich als Affiliate. Affiliates erhalten auf alle Verkäufe eine Provision! Führe einfach deinen Traffic auf die Verkaufsseite dieses Ebooks, oder zur Landingpage für die kostenlose Eintragung, und wir machen den Rest. ------------------ BESCHREIBUNG: Das Turbolernsystem zeigt Lerntechniken, die weit über die Lernmethoden aus der Schule hinausgehen, mit denen du neues Wissen bis 5 Mal schneller lernen und lesen kannst. Ausserdem verbesserst du mit diesem System gleichzeitig spürbar dein Gedächtnis! Du wirst dadurch mehr Freizeit haben und trotzdem Bestnoten schreiben oder dich persönlich im Eiltempo weiterbilden. Du erhältst sofort nach der Zahlung den Download per E-Mail, auch wenn es gerade 3 Uhr nachts ist. Außerdem hast du eine 30 Tage Geld-Zurück-Garantie.
 
 ## 2. Links
 

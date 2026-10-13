@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Handwerk-KI Masterclass – Affiliate-Partnerschaft</p>
-<p>Zielgruppe: Handwerksbetriebe (Dachdecker, Elektriker, Maler, SHK und alle anderen Gewerke), die ihre Büroarbeit mit KI automatisieren wollen. Über 1 Million Handwerksbetriebe allein in Deutschland.</p>
-<p>Das Produkt: 7-Module-Masterclass zum Lesen und Nachbauen. Fertige KI-Prompts für Mail-Kommunikation, Angebotserstellung und Belegsortierung. Entwickelt von einem Dachdeckermeister, der das System selbst täglich nutzt.</p>
-<p>Warum es konvertiert:<br />- Klares Vorher/Nachher: 3-4 Stunden Angebotsarbeit → 3 Minuten<br />- Echte Praxiserfahrung, kein Theorie-Kurs<br />- Starker Preisanker: IT-Agentur ab 7.000 € vs. Masterclass 249 €<br />- Professionelle Landingpage mit Video und FAQ<br />- Niedrige Einstiegshürde, hoher wahrgenommener Wert</p>
-<p>Deine Provision:<br />- 25% auf die Einmalzahlung (249 €) = ca. 62 € pro Verkauf<br />- 20% auf das monatliche Abo (49 €/Monat) = ca. 10 €/Monat wiederkehrend<br />- Du verdienst nicht nur einmal, sondern jeden Monat weiter</p>
-<p>Werbematerial: Fertige Anzeigentexte, Produktbilder und Social-Media-Posts werden bereitgestellt.</p>
-<p>Perfekt für Affiliates mit Reichweite in: Handwerk, Selbständigkeit, Digitalisierung, KI/Automatisierung, Kleinunternehmen.</p>
+**Vendor's marketplace description:** Handwerk-KI Masterclass – Affiliate-Partnerschaft Zielgruppe: Handwerksbetriebe (Dachdecker, Elektriker, Maler, SHK und alle anderen Gewerke), die ihre Büroarbeit mit KI automatisieren wollen. Über 1 Million Handwerksbetriebe allein in Deutschland. Das Produkt: 7-Module-Masterclass zum Lesen und Nachbauen. Fertige KI-Prompts für Mail-Kommunikation, Angebotserstellung und Belegsortierung. Entwickelt von einem Dachdeckermeister, der das System selbst täglich nutzt. Warum es konvertiert: - Klares Vorher/Nachher: 3-4 Stunden Angebotsarbeit → 3 Minuten - Echte Praxiserfahrung, kein Theorie-Kurs - Starker Preisanker: IT-Agentur ab 7.000 € vs. Masterclass 249 € - Professionelle Landingpage mit Video und FAQ - Niedrige Einstiegshürde, hoher wahrgenommener Wert Deine Provision: - 25% auf die Einmalzahlung (249 €) = ca. 62 € pro Verkauf - 20% auf das monatliche Abo (49 €/Monat) = ca. 10 €/Monat wiederkehrend - Du verdienst nicht nur einmal, sondern jeden Monat weiter Werbematerial: Fertige Anzeigentexte, Produktbilder und Social-Media-Posts werden bereitgestellt. Perfekt für Affiliates mit Reichweite in: Handwerk, Selbständigkeit, Digitalisierung, KI/Automatisierung, Kleinunternehmen.
 
 ## 2. Links
 

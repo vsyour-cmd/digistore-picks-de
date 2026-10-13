@@ -41,49 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Wenn du auch eine kreative Seele bist und dieses Glückstagebuch empfiehlst freuen wir uns auf eine gute Kooperation.</p>
-<p>______________</p>
-<p>Bewerbungstext:</p>
-<p>Mit diesem Workbook lernst du einfache Grafiken und Schriften/Handletterings zeichnen, brauchst keine Vorkenntnisse und gestaltest dein persönliches Glückstagebuch, das dir deine täglichen Glücksmomente vor Augen führt. Wir haben sie alle, unsere kleinen und größeren Glücksmomente, wir müssen sie uns nur bewusst machen. Und hier hilft das liebevoll gestaltete Glücks- und Dankbarkeitstagebuch von den Pinselstiften.</p>
-<p>Mit dem Glücks- und Dankbarkeitstagebuch findest du heraus, was dir gut tut. Ein Glückstagebuch hilft dir mit Spaß und Freude deine persönlichen Happy Moments zu finden und durch diese bewusste und regelmäßige Aufspüren, erfährst du ein MEER an Glücksgefühlen –  das wirkt sich positiv auf deine Stimmung und dein seelisches und körperliches Wohlbefinden aus.</p>
-<div>
-<div>
-<div>
-<h4>WAS ERWARTET DICH?</h4>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<p>Auf 100 Seiten bekommst du einen Leitfaden, der dich auf dem Weg zu deinem persönlichen Glücks- und Dankbarkeitstagebuch begleitet.</p>
-<ul>
-<li><strong>Mehr Achtsamkeit: </strong>Fokus auf das, was wirklich zählt im Leben</li>
-<li><strong>Weniger Stress: </strong>tägliche Kreativeinheit = spürbare Entlastung</li>
-<li><strong>Wissenschaftlich bewiesen:</strong> Dankbarkeit fördert langfristiges Wohlbefinden</li>
-<li><strong>Kreativer Ausdruck:</strong> Platz für Gedanken, Zitate, etc.</li>
-<li><strong>Wunderschönes Geschenk:</strong> Für Herzensmenschen oder dich selbst</li>
-</ul>
-<p> </p>
-<p><strong><u>Dieser kreative Leitfaden zu ein bisschen Glück enthält: </u></strong></p>
-<p>- Informationen zum Glückstagebuch führen, zu vielen verschiedenen Themen, die uns in unserem Leben begleiten wie zB Veränderungen, Herausforderungen, Selbstliebe, Selbstreflexion, etc.</p>
-<p>- Du spürst in diesem Glücks- und Dankbarkeitstagebuch deine täglichen Happy Moments auf, die dir in Zukunft positive Energie geben, weil du sie bewusst wahrnimmst.</p>
-<p>- Wie erkenne ich meine täglichen Glücklichmacher?</p>
-<p>- Einblicke in verschiedene Zeichenstile wie Sketchnotes, Zentangle oder Line Art.</p>
-<p>- Das Thema Bullet Journaling für deine Glücksmonate, Glückswochen, usw. </p>
-<p>- In diesem Leitfaden gibt es ganzseitige Sujets, die du nachzeichnen kannst bzw. die dich anregen, deiner Kreativität freien Lauf zu lassen. </p>
-<p>-  Ausgewählte Sprüche gelettert und gezeichnet.</p>
-<p>- Tipps &amp; Tricks fürs unperfekte Zeichnen - du wirst erstaunt sein, was DU alles kannst. </p>
-<p>- Handlettering Basics, Pinselstift-Methode, Aquarell-ieren, Verzaubern mit "Dingle-Dongels"</p>
-<p>- ... und einfach pure Freude beim kreativen Gestalten.</p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div> </div>
-</div>
-</div>
+**Vendor's marketplace description:** Wenn du auch eine kreative Seele bist und dieses Glückstagebuch empfiehlst freuen wir uns auf eine gute Kooperation. ______________ Bewerbungstext: Mit diesem Workbook lernst du einfache Grafiken und Schriften/Handletterings zeichnen, brauchst keine Vorkenntnisse und gestaltest dein persönliches Glückstagebuch, das dir deine täglichen Glücksmomente vor Augen führt. Wir haben sie alle, unsere kleinen und größeren Glücksmomente, wir müssen sie uns nur bewusst machen. Und hier hilft das liebevoll gestaltete Glücks- und Dankbarkeitstagebuch von den Pinselstiften. Mit dem Glücks- und Dankbarkeitstagebuch findest du heraus, was dir gut tut. Ein Glückstagebuch hilft dir mit Spaß und Freude deine persönlichen Happy Moments zu finden und durch diese bewusste und regelmäßige Aufspüren, erfährst du ein MEER an Glücksgefühlen – das wirkt sich positiv auf deine Stimmung und dein seelisches und körperliches Wohlbefinden aus. WAS ERWARTET DICH? Auf 100 Seiten bekommst du einen Leitfaden, der dich auf dem Weg zu deinem persönlichen Glücks- und Dankbarkeitstagebuch begleitet. Mehr Achtsamkeit: Fokus auf das, was wirklich zählt im Leben Weniger Stress: tägliche Kreativeinheit = spürbare Entlastung Wissenschaftlich bewiesen: Dankbarkeit fördert langfristiges Wohlbefinden Kreativer Ausdruck: Platz für Gedanken, Zitate, etc. Wunderschönes Geschenk: Für Herzensmenschen oder dich selbst Dieser kreative Leitfaden zu ein bisschen Glück enthält: - Informationen zum Glückstagebuch führen, zu vielen verschiedenen Themen, die uns in unserem Leben begleiten wie zB Veränderungen, Herausforderungen, Selbstliebe, Selbstreflexion, etc. - Du spürst in diesem Glücks- und Dankbarkeitstagebuch deine täglichen Happy Moments auf, die dir in Zukunft positive Energie geben, weil du sie bewusst wahrnimmst. - Wie erkenne ich meine täglichen Glücklichmacher? - Einblicke in verschiedene Zeichenstile wie Sketchnotes, Zentangle oder Line Art. - Das Thema Bullet Journaling für deine Glücksmonate, Glückswochen, usw. - In diesem Leitfaden gibt es ganzseitige Sujets, die du nachzeichnen kannst bzw. die dich anregen, deiner Kreativität freien Lauf zu lassen. - Ausgewählte Sprüche gelettert und gezeichnet. - Tipps & Tricks fürs unperfekte Zeichnen - du wirst erstaunt sein, was DU alles kannst. - Handlettering Basics, Pinselstift-Methode, Aquarell-ieren, Verzaubern mit "Dingle-Dongels" - ... und einfach pure Freude beim kreativen Gestalten.
 
 ## 2. Links
 

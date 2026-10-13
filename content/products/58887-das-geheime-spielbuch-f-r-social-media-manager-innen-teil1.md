@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Ein praxisorientierter digitaler Guide für angehende und aktive Social Media Manager:innen, die ihr Angebot professionell aufbauen, Kunden gewinnen und ihr Social-Media-Business strukturiert entwickeln möchten.</strong></p>
-<p>„Das geheime Spielbuch für Social Media Manager:innen“ verbindet praxisnahes Wissen mit konkreten Strategien und umsetzbaren Schritten.</p>
-<p><strong>Zielgruppe:</strong><br />• angehende Social Media Manager:innen<br />• Freelancer:innen und Selbstständige im Social-Media-Bereich<br />• Personen, die mit Social Media Management ein eigenes Business aufbauen möchten<br />• Social Media Manager:innen, die professioneller Kunden gewinnen und arbeiten möchten</p>
-<p><strong>Warum das Produkt interessant für Affiliates ist:</strong><br />• klare und wachsende Zielgruppe im Bereich Social Media &amp; Online-Business<br />• digitales Produkt mit sofortiger Auslieferung<br />• konkreter Praxisnutzen statt reiner Theorie<br />• geeignet für Content rund um Social Media, Selbstständigkeit, Kundenakquise, Online-Business und digitale Dienstleistungen<br />• Teil einer Produktreihe mit weiterführendem Teil 2 für Wachstum und Skalierung</p>
-<p><strong>Preis:</strong> 99 €</p>
+**Vendor's marketplace description:** Ein praxisorientierter digitaler Guide für angehende und aktive Social Media Manager:innen, die ihr Angebot professionell aufbauen, Kunden gewinnen und ihr Social-Media-Business strukturiert entwickeln möchten. „Das geheime Spielbuch für Social Media Manager:innen“ verbindet praxisnahes Wissen mit konkreten Strategien und umsetzbaren Schritten. Zielgruppe: • angehende Social Media Manager:innen • Freelancer:innen und Selbstständige im Social-Media-Bereich • Personen, die mit Social Media Management ein eigenes Business aufbauen möchten • Social Media Manager:innen, die professioneller Kunden gewinnen und arbeiten möchten Warum das Produkt interessant für Affiliates ist: • klare und wachsende Zielgruppe im Bereich Social Media & Online-Business • digitales Produkt mit sofortiger Auslieferung • konkreter Praxisnutzen statt reiner Theorie • geeignet für Content rund um Social Media, Selbstständigkeit, Kundenakquise, Online-Business und digitale Dienstleistungen • Teil einer Produktreihe mit weiterführendem Teil 2 für Wachstum und Skalierung Preis: 99 €
 
 ## 2. Links
 

@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>ME-DARK SYSTEM  - Volume 1</strong></p>
-<p><strong>Ist ein praxisorientiertes  Schritt-für-Schritt-Sysrem für Anfänger, die ihr erstes digitales Online-Business aufbauen möchten. </strong></p>
-<p> </p>
-<p><strong>Das Produkt zeigt verständlich den kompletten Weg von Website, E-Mail-Marketing und Funnel bis hin zu Digistore24 und Affiliate-Marketing.</strong></p>
-<p> </p>
-<p><strong>Vorteile für Affiliates:</strong></p>
-<ul>
-<li>50 % Affiliate-Provision</li>
-<li>Verkaufspreis: 99 €</li>
-<li>klare Zielgruppe: Anfänger im Online-Business </li>
-<li>digitales Produkt mit sofortiger Auslieferung</li>
-<li>bereits von Digistore24 genehmigt </li>
-<li>ehrliche Positionierung ohne unrealistische Einkommensversprechen</li>
-<li>Fertige Werbemittel über die Affiliate-Support-Seite verfügbar</li>
-</ul>
-<p style="text-align:left;"> </p>
-<p style="text-align:left;"><strong>ME-DARK SYSTEM  eignet sich besonders für Traffic aus den Bereichen Online-Business, Affiliate-Marketing, digitale Produkte und E-Mail-Marketing.</strong></p>
+**Vendor's marketplace description:** ME-DARK SYSTEM - Volume 1 Ist ein praxisorientiertes Schritt-für-Schritt-Sysrem für Anfänger, die ihr erstes digitales Online-Business aufbauen möchten. Das Produkt zeigt verständlich den kompletten Weg von Website, E-Mail-Marketing und Funnel bis hin zu Digistore24 und Affiliate-Marketing. Vorteile für Affiliates: 50 % Affiliate-Provision Verkaufspreis: 99 € klare Zielgruppe: Anfänger im Online-Business digitales Produkt mit sofortiger Auslieferung bereits von Digistore24 genehmigt ehrliche Positionierung ohne unrealistische Einkommensversprechen Fertige Werbemittel über die Affiliate-Support-Seite verfügbar ME-DARK SYSTEM eignet sich besonders für Traffic aus den Bereichen Online-Business, Affiliate-Marketing, digitale Produkte und E-Mail-Marketing.
 
 ## 2. Links
 

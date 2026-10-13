@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>30 % Provision und viele Upsells in der Akademie von Jyotima Flak, Top-Expertin und Onlinebusiness-Mentorin</strong></p>
-<p><span style="color:#ff0000;"><strong><br /></strong></span><span style="color:#ff0000;"><strong>Landingpage-Textvorlage Worksbook! <br /><br /></strong><strong>Magische Landingpage bauen und Follower zu Kunden machen!</strong></span><strong><br /></strong> <br />“Mit dieser Vorlage verdiene ich 5-stellig, pro Launch!” Jyotima</p>
-<div>
-<div>
-<div>
-<p><strong>Baue deine Landingpages so auf, dass Lieblingskunden bei dir kaufen!<br /></strong> <br />• Ob für ein Freebie, Minikurs, Onlinekurs oder ein Premium-Programm – Du kannst ab jetzt nichts mehr falsch machen!</p>
-<p>• Lerne alle emotionalen Verkaufsgründe kennen, die auf einer Landingpage nicht fehlen dürfen!</p>
-<p>• Gewinne Kunden mit hochwertigen Inhalten und Kommunikation mit deinem Herzen: authentisch und empathisch!</p>
-<p><strong>Jetzt deine Textvorlage + Workbook (Ebook) erwerben und loslegen!</strong></p>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** 30 % Provision und viele Upsells in der Akademie von Jyotima Flak, Top-Expertin und Onlinebusiness-Mentorin Landingpage-Textvorlage Worksbook! Magische Landingpage bauen und Follower zu Kunden machen! “Mit dieser Vorlage verdiene ich 5-stellig, pro Launch!” Jyotima Baue deine Landingpages so auf, dass Lieblingskunden bei dir kaufen! • Ob für ein Freebie, Minikurs, Onlinekurs oder ein Premium-Programm – Du kannst ab jetzt nichts mehr falsch machen! • Lerne alle emotionalen Verkaufsgründe kennen, die auf einer Landingpage nicht fehlen dürfen! • Gewinne Kunden mit hochwertigen Inhalten und Kommunikation mit deinem Herzen: authentisch und empathisch! Jetzt deine Textvorlage + Workbook (Ebook) erwerben und loslegen!
 
 ## 2. Links
 

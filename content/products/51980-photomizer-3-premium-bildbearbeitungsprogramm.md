@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Photomizer 3 Premium</strong></p>
-<p>Digitale Fotos optimieren und reparieren! Ganz einfach bessere Fotos - automatisch am eigenen PC.</p>
-<p>Vollautomatische Farbanpassung, inkl. Objekterkennung, Neuverteilung der Tonwerte, Weiß-Abgleich, Einstellen des Farbtons, Sättigung, Kontrastoptimierung und Hell/Dunkel-Korrektur. Neben JPG, BMP und TIFF werden auch sehr viele RAW-Formate unterstützt: raw, crw, orf, 3fr, nef, raf, mrw, nrw, dng, cr2, arw, x3f, rw2</p>
-<p>Kompatibel mit Windows 7/8/10 (jeweils 32- und 64-Bit) und Windows 11.</p>
+**Vendor's marketplace description:** Photomizer 3 Premium Digitale Fotos optimieren und reparieren! Ganz einfach bessere Fotos - automatisch am eigenen PC. Vollautomatische Farbanpassung, inkl. Objekterkennung, Neuverteilung der Tonwerte, Weiß-Abgleich, Einstellen des Farbtons, Sättigung, Kontrastoptimierung und Hell/Dunkel-Korrektur. Neben JPG, BMP und TIFF werden auch sehr viele RAW-Formate unterstützt: raw, crw, orf, 3fr, nef, raf, mrw, nrw, dng, cr2, arw, x3f, rw2 Kompatibel mit Windows 7/8/10 (jeweils 32- und 64-Bit) und Windows 11.
 
 ## 2. Links
 

@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#666699;">NIE WIEDER IMPINGEMENT-SYNDROM DER SCHULTER!<br /></span></h2>
-<div>
-<p><strong>Einfache und effektive Techniken gegen akute und chronische Schmerzen in der Schulter</strong></p>
-<div><span style="color:#808080;"><strong>EIN DETAILLIERTES, AUF DAS SCHULTERIMPINGEMENT UND SCHULTERSCHMERZEN ZUGESCHNITTENES TRAININGSPROGRAMM BESTEHEND AUS ÜBER 30 ÜBUNGEN UND 6 TRAININGSPLÄNEN IN ECHTZEITLÄNGE!</strong></span>
-<h4>EINFACHE, ABER EFFEKTIVE ATEM- UND DEHNÜBUNGEN ✓</h4>
-<h4>MYOFASZINALES ENTSPANNEN ✓</h4>
-<h4>KRÄFTIGUNG DER ROTATORENMANSCHETTE ✓</h4>
-<h4>BEGLEITENDE MASSNAHMEN FÜR IHRE SCHULTER UND DIE SCHULTERMUSKULATUR ✓</h4>
-<p style="text-align:left;">Zusammen mit Katharina Brinkmann:</p>
-<p style="text-align:left;">Katharina ist Gründerin von YOU Personal Training. Sie liebt Bewegung über alles und teilt diese Freude gerne in ihren Kursen und Einzeltrainings mit ihren Teilnehmern. Die zertifizierte Personal Trainerin ist spezialisiert auf dynamisches Yoga und Faszien-Yoga und lässt sich gerne von anderen Stilen inspirieren.</p>
-<p style="text-align:left;">Als Referentin ist sie auf allen großen Fitnesssummits und Events zu finden: Zu ihren Schwerpunkten gehören auch hier Yoga und Faszientraining.</p>
-<p style="text-align:left;">Neben vielen Fachpublikationen und ihren Büchern „Yoga-Faszientraining“  und „Functional Training für Frauen“ hat sie zusammen mit Nicolai Napolski den Amazon-Bestseller „Ischiasbeschwerden und das Piriformis-Syndrom“ verfasst.</p>
-<h3 style="text-align:left;"><span style="color:#666699;"><strong>LERNEN SIE, WIE SIE DAS SCHULTER-IMPINGEMENT SELBST BEHANDELN KÖNNEN, SODASS IHR SCHMERZ BALD DER VERGANGENHEIT ANGEHÖRT!</strong></span></h3>
-</div>
-<h2><strong> </strong></h2>
-</div>
+**Vendor's marketplace description:** NIE WIEDER IMPINGEMENT-SYNDROM DER SCHULTER! Einfache und effektive Techniken gegen akute und chronische Schmerzen in der Schulter EIN DETAILLIERTES, AUF DAS SCHULTERIMPINGEMENT UND SCHULTERSCHMERZEN ZUGESCHNITTENES TRAININGSPROGRAMM BESTEHEND AUS ÜBER 30 ÜBUNGEN UND 6 TRAININGSPLÄNEN IN ECHTZEITLÄNGE! EINFACHE, ABER EFFEKTIVE ATEM- UND DEHNÜBUNGEN ✓ MYOFASZINALES ENTSPANNEN ✓ KRÄFTIGUNG DER ROTATORENMANSCHETTE ✓ BEGLEITENDE MASSNAHMEN FÜR IHRE SCHULTER UND DIE SCHULTERMUSKULATUR ✓ Zusammen mit Katharina Brinkmann: Katharina ist Gründerin von YOU Personal Training. Sie liebt Bewegung über alles und teilt diese Freude gerne in ihren Kursen und Einzeltrainings mit ihren Teilnehmern. Die zertifizierte Personal Trainerin ist spezialisiert auf dynamisches Yoga und Faszien-Yoga und lässt sich gerne von anderen Stilen inspirieren. Als Referentin ist sie auf allen großen Fitnesssummits und Events zu finden: Zu ihren Schwerpunkten gehören auch hier Yoga und Faszientraining. Neben vielen Fachpublikationen und ihren Büchern „Yoga-Faszientraining“ und „Functional Training für Frauen“ hat sie zusammen mit Nicolai Napolski den Amazon-Bestseller „Ischiasbeschwerden und das Piriformis-Syndrom“ verfasst. LERNEN SIE, WIE SIE DAS SCHULTER-IMPINGEMENT SELBST BEHANDELN KÖNNEN, SODASS IHR SCHMERZ BALD DER VERGANGENHEIT ANGEHÖRT!
 
 ## 2. Links
 

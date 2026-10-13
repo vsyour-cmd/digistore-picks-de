@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><strong>Die 5-Schritte-Meditations-Anleitung ist ein Initial-Produkt...</strong></h4>
-<p>Das bedeutet, dass der Interessent als erstes die kostenlose <strong>"5-Schritte-Meditations-Anleitung</strong><strong>"</strong> bekommt, wofür er seine E-Mail-Adresse einträgt. Nach Eintragung wird er direkt auf eine Upsell-Seite weitergeleitet, wo er zu seiner Anleitung das passende <strong>"Videotraining"</strong> für nur 7,- Euro erhalten kann. Danach kommen noch weitere Upsell-Angebote auf <strong>"Anziehungskraft-Dreieck"</strong> (47,- Euro) und auf das <strong>"Anziehungskraft-Masterplan-Videocoaching"</strong> (97,- Euro).</p>
-<p><span style="background-color:#ffff00;"><strong>Provision jeweils 50%</strong></span></p>
-<p><strong>Danach geht es weiter im Funnel, wo noch </strong><strong>weitere Folgeprovisionen auf Dich warten.</strong></p>
-<p><strong>Promo-Link Optin-Seite:</strong></p>
-<p><strong>https://www.digistore24.com/content/501143/43715/AFFILIATE/CAMPAIGNKEY<br /></strong></p>
-<p><strong>Promo-Link Verkaufsseite:</strong></p>
-<p><strong>https://www.digistore24.com/content/501143/43716/AFFILIATE/CAMPAIGNKEY</strong></p>
+**Vendor's marketplace description:** Die 5-Schritte-Meditations-Anleitung ist ein Initial-Produkt... Das bedeutet, dass der Interessent als erstes die kostenlose "5-Schritte-Meditations-Anleitung " bekommt, wofür er seine E-Mail-Adresse einträgt. Nach Eintragung wird er direkt auf eine Upsell-Seite weitergeleitet, wo er zu seiner Anleitung das passende "Videotraining" für nur 7,- Euro erhalten kann. Danach kommen noch weitere Upsell-Angebote auf "Anziehungskraft-Dreieck" (47,- Euro) und auf das "Anziehungskraft-Masterplan-Videocoaching" (97,- Euro). Provision jeweils 50% Danach geht es weiter im Funnel, wo noch weitere Folgeprovisionen auf Dich warten. Promo-Link Optin-Seite: https://www.digistore24.com/content/501143/43715/AFFILIATE/CAMPAIGNKEY Promo-Link Verkaufsseite: https://www.digistore24.com/content/501143/43716/AFFILIATE/CAMPAIGNKEY
 
 ## 2. Links
 

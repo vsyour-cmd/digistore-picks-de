@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehlen Sie die ideale Ergänzug zu Klick-Tipp.</p>
-<p>Mit dem Klick-Tipp Manager erstellen Sie datenschutzkonforme Formulare und übertragen  die Formulardaten direkt an Klick-Tipp.</p>
-<p><strong>Ihre Vorteile:</strong></p>
-<ul><li>Lebenslang 50 % wiederkehrende Provisionen auf Ihre Verkäufe</li>
-<li>Zusätzliche Folge- und Zusatz-Provisionen im optimierten Backend-Funnel</li>
-<li>Schnelle und persönliche Unterstützung auf Deutsch durch Ihren Klick-Tipp Affiliate-Manager</li>
-</ul>
+**Vendor's marketplace description:** Empfehlen Sie die ideale Ergänzug zu Klick-Tipp. Mit dem Klick-Tipp Manager erstellen Sie datenschutzkonforme Formulare und übertragen die Formulardaten direkt an Klick-Tipp. Ihre Vorteile: Lebenslang 50 % wiederkehrende Provisionen auf Ihre Verkäufe Zusätzliche Folge- und Zusatz-Provisionen im optimierten Backend-Funnel Schnelle und persönliche Unterstützung auf Deutsch durch Ihren Klick-Tipp Affiliate-Manager
 
 ## 2. Links
 

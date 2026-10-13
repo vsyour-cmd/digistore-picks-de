@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bildungs-Workbook PDF (73 Seiten DIN-A4, Deutsch, Stand September 2026) fr Eltern in Deutschland: ersten Elterngeld-Antrag oder Bezugsmonate (Basis / Plus / Partnerschaftsbonus) vorbereiten — Checklisten, Monatsplaner, Unterlagenordner, Fristen. Kein Abo, keine Beratung. Verkaufspreis 39,95 € einmalig. Affiliate-Provision 50 %. Rückerstattung 14 Tage. Verkaufsseite: <a href="https://elterngeld-klar.pages.dev">https://elterngeld-klar.pages.dev</a> — Orderform: <a href="https://www.digistore24.com/product/729754">https://www.digistore24.com/product/729754</a>. Keine Elterngeld-, Rechts- oder Steuerberatung; keine Euro-/Betragszusage.</p>
+**Vendor's marketplace description:** Bildungs-Workbook PDF (73 Seiten DIN-A4, Deutsch, Stand September 2026) fr Eltern in Deutschland: ersten Elterngeld-Antrag oder Bezugsmonate (Basis / Plus / Partnerschaftsbonus) vorbereiten — Checklisten, Monatsplaner, Unterlagenordner, Fristen. Kein Abo, keine Beratung. Verkaufspreis 39,95 € einmalig. Affiliate-Provision 50 %. Rückerstattung 14 Tage. Verkaufsseite: https://elterngeld-klar.pages.dev — Orderform: https://www.digistore24.com/product/729754 . Keine Elterngeld-, Rechts- oder Steuerberatung; keine Euro-/Betragszusage.
 
 ## 2. Links
 

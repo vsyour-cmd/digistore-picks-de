@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Staatlich anerkannte Fitnesstrainer C-Lizenz zu einem unschlagbarem Preis. Jetzt mit profitieren!</p>
+**Vendor's marketplace description:** Staatlich anerkannte Fitnesstrainer C-Lizenz zu einem unschlagbarem Preis. Jetzt mit profitieren!
 
 ## 2. Links
 

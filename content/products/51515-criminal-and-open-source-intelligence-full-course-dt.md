@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>"Criminal and Open Source Intelligence - Full Course (dt.)"</strong></p>
-<p>Erfahren Sie mehr über theoretische Ansätze und Modelle aus Kriminologie, Kriminalistik, Kriminalprävention und Intelligence-Forschung für eine effizientere Recherche- und Analysetätigkeit; über Intelligence-Grundlagen und Intelligenceprozesse (z.B. Intelligence Cycles) sowie den Umgang mit Quellen, Informationen und Risikoeinschätzungen im Zusammenhang mit (Web-)Recherchen.</p>
-<p>Steigen Sie mit mir ein in die in die Grundlagen der Open Source Intelligence und Internet-Recherche zu Personen u. Organisationen und erlernen sie die notwendigen Basics für um Ihre Privatspähre während Ihrer Recherchen zu gewährleisten.</p>
-<p><em>Dieser Kurs ist in deutscher Sprache, aktuell (noch) ohne englische Untertitel und richtet sich primär an Quer- und Neueinsteiger in die Thematik sowie an "alte Hasen" die ihre praktischen Fähigkeiten um theoretisches Kontext und Theoriewissen ergänzen wollen. </em></p>
-<p> </p>
-<p>Ich freue mich, euch in meinem Kurs begrüßen zu dürfen.</p>
-<p> </p>
-<p>Euer Kursleiter Stephan!</p>
+**Vendor's marketplace description:** "Criminal and Open Source Intelligence - Full Course (dt.)" Erfahren Sie mehr über theoretische Ansätze und Modelle aus Kriminologie, Kriminalistik, Kriminalprävention und Intelligence-Forschung für eine effizientere Recherche- und Analysetätigkeit; über Intelligence-Grundlagen und Intelligenceprozesse (z.B. Intelligence Cycles) sowie den Umgang mit Quellen, Informationen und Risikoeinschätzungen im Zusammenhang mit (Web-)Recherchen. Steigen Sie mit mir ein in die in die Grundlagen der Open Source Intelligence und Internet-Recherche zu Personen u. Organisationen und erlernen sie die notwendigen Basics für um Ihre Privatspähre während Ihrer Recherchen zu gewährleisten. Dieser Kurs ist in deutscher Sprache, aktuell (noch) ohne englische Untertitel und richtet sich primär an Quer- und Neueinsteiger in die Thematik sowie an "alte Hasen" die ihre praktischen Fähigkeiten um theoretisches Kontext und Theoriewissen ergänzen wollen. Ich freue mich, euch in meinem Kurs begrüßen zu dürfen. Euer Kursleiter Stephan!
 
 ## 2. Links
 

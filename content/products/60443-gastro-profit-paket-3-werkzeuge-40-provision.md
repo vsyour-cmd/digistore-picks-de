@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Precoria Gastro-Profit-Paket bündelt drei sofort einsetzbare Excel-Werkzeuge für Gastronomiebetriebe: Personalbudget-Ampel, Gastro-Kalkulations-Starter und Gastro-Gewinn-Cockpit – insgesamt 12 Precoria-gebrandete Dateien.</p>
-<p>Zielgruppe: Inhaber, Geschäftsführer und Betriebsleiter von Restaurants, Cafés, Bars, Hotels und Cateringbetrieben, die Personal-, Wareneinsatz- und Gewinnzahlen schneller steuern möchten.</p>
-<p>Dein Affiliate-Vorteil: 40 % Provision, klare B2B-Zielgruppe, einmaliger Kauf ohne Software-Abo und eine fertige Precoria-Supportseite mit Positionierung, Zielgruppen, Werbetexten und Promolink.</p>
-<p>Wichtige Nutzenargumente: eigene betriebliche Werte statt pauschaler Vorgaben; lokal in Excel nutzbar; Personalbudget, Kalkulation und Gewinnsteuerung aus einem Guss; sofortiger digitaler Zugriff nach dem Kauf. Keine Erfolgs- oder Gewinnversprechen.</p>
+**Vendor's marketplace description:** Das Precoria Gastro-Profit-Paket bündelt drei sofort einsetzbare Excel-Werkzeuge für Gastronomiebetriebe: Personalbudget-Ampel, Gastro-Kalkulations-Starter und Gastro-Gewinn-Cockpit – insgesamt 12 Precoria-gebrandete Dateien. Zielgruppe: Inhaber, Geschäftsführer und Betriebsleiter von Restaurants, Cafés, Bars, Hotels und Cateringbetrieben, die Personal-, Wareneinsatz- und Gewinnzahlen schneller steuern möchten. Dein Affiliate-Vorteil: 40 % Provision, klare B2B-Zielgruppe, einmaliger Kauf ohne Software-Abo und eine fertige Precoria-Supportseite mit Positionierung, Zielgruppen, Werbetexten und Promolink. Wichtige Nutzenargumente: eigene betriebliche Werte statt pauschaler Vorgaben; lokal in Excel nutzbar; Personalbudget, Kalkulation und Gewinnsteuerung aus einem Guss; sofortiger digitaler Zugriff nach dem Kauf. Keine Erfolgs- oder Gewinnversprechen.
 
 ## 2. Links
 
@@ -75,6 +72,14 @@ language: "de"
 - **OG image:** https://precoria.de/vorlagen/gastro-profit-paket/opengraph-image?d697938f6166096c
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
 
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 

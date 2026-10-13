@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><em>Kurzweilig - kompakt - flexibel - frei und dabei praxisnah und persönlich, beruhigend und kompeten</em>t.</p>
-<p> </p>
-<p>Das ist mein Ziel dieses Kurses, sodass Du in nur knapp 2 Stunden reiner Filmzeit alle wichtigen Erste-Hilfe-am-Kind-Themen bearbeiten kannst.</p>
-<p>Kürzer, als ein Kurs vor Ort und doch viel intensiver und auf den Punkt gebracht.</p>
-<p>Folgende Themen sind für dich dabei:</p>
-<p>Notruf absetzen</p>
-<p>Fieberkrampf</p>
-<p>Pseudokruppanfall</p>
-<p>Vergiftungen</p>
-<p>Stürze</p>
-<p>Verbrennungen/Verbrühungen</p>
-<p>Fremdkörperaspiration</p>
-<p>Ertrinken</p>
-<p>Reanimation am Säugling und am Kind</p>
-<p>Jedes Thema kannst Du übersichtlich in wenigen Minuten erarbeiten und erlernen, sodass Du auch im Alltag immer wieder ein Filmchen anschauen kannst.</p>
-<p>Auch an die Praxis habe ich gedacht. Natürlich kann ich Dir keine Reanimationspuppen online zur Verfügung stellen, aber für die Säuglingsreanimation und die Fremdkörperaspiration, also das Einatmen eines Fremdkörpers habe ich mir etwas einfallen lassen, damit Du mit wenigen Utensilien aus dem Haushalt eine kleine Demopuppe nachbauen kannst und so die Beatmung und die Herzdruckmassage eines Babys zuhause üben kannst.</p>
-<p>Starte doch gleich jetzt - für mehr Sicherheit für dein Kind.</p>
-<p>Hast Du Fragen zum Kurs? Dann schicke mir eine Mail an info@zartes-Glueck.de</p>
-<p>Ich wünsche Dir von Herzen ganz viel Spaß und Freue mit Deinem Kind. Mit meinem Kurs hast Du nun weniger Sorgen, denn Du weißt dann, was bei kleineren und großen Notfällen im Alltag zu tun ist.</p>
-<p> </p>
-<p><em>Alles Liebe, deine Svenja Höse, Fachkinderkrankenschwester, Osteopathin und Heilpraktikerin und 3-fache Mama</em></p>
-<p> </p>
+**Vendor's marketplace description:** Kurzweilig - kompakt - flexibel - frei und dabei praxisnah und persönlich, beruhigend und kompeten t. Das ist mein Ziel dieses Kurses, sodass Du in nur knapp 2 Stunden reiner Filmzeit alle wichtigen Erste-Hilfe-am-Kind-Themen bearbeiten kannst. Kürzer, als ein Kurs vor Ort und doch viel intensiver und auf den Punkt gebracht. Folgende Themen sind für dich dabei: Notruf absetzen Fieberkrampf Pseudokruppanfall Vergiftungen Stürze Verbrennungen/Verbrühungen Fremdkörperaspiration Ertrinken Reanimation am Säugling und am Kind Jedes Thema kannst Du übersichtlich in wenigen Minuten erarbeiten und erlernen, sodass Du auch im Alltag immer wieder ein Filmchen anschauen kannst. Auch an die Praxis habe ich gedacht. Natürlich kann ich Dir keine Reanimationspuppen online zur Verfügung stellen, aber für die Säuglingsreanimation und die Fremdkörperaspiration, also das Einatmen eines Fremdkörpers habe ich mir etwas einfallen lassen, damit Du mit wenigen Utensilien aus dem Haushalt eine kleine Demopuppe nachbauen kannst und so die Beatmung und die Herzdruckmassage eines Babys zuhause üben kannst. Starte doch gleich jetzt - für mehr Sicherheit für dein Kind. Hast Du Fragen zum Kurs? Dann schicke mir eine Mail an info@zartes-Glueck.de Ich wünsche Dir von Herzen ganz viel Spaß und Freue mit Deinem Kind. Mit meinem Kurs hast Du nun weniger Sorgen, denn Du weißt dann, was bei kleineren und großen Notfällen im Alltag zu tun ist. Alles Liebe, deine Svenja Höse, Fachkinderkrankenschwester, Osteopathin und Heilpraktikerin und 3-fache Mama
 
 ## 2. Links
 

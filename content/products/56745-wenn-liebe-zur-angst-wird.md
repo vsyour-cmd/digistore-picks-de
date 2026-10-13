@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Wenn Liebe zur Angst wird</h3>
-<h4>Verlustangst verstehen • Emotionale Abhängigkeit lösen • Innere Ruhe finden</h4>
-<p>Leidest du unter Verlustangst, Overthinking oder emotionaler Unsicherheit? Verlierst du dich in Beziehungen oder hast ständig Angst, nicht genug zu sein?</p>
-<p>Dann ist dieser Ratgeber genau für dich.</p>
-<p>„Wenn Liebe zur Angst wird“ zeigt dir:<br />✔ wie emotionale Abhängigkeit entsteht<br />✔ warum Verlustangst Beziehungen belastet<br />✔ wie du deinen Selbstwert stärkst<br />✔ wie du mentale Ruhe findest<br />✔ und gesunde Beziehungen aufbaust</p>
-<p>Mit praxisnahen Übungen, Reflexionsfragen, Journaling-Seiten und konkreten Strategien für emotionale Heilung.</p>
+**Vendor's marketplace description:** Wenn Liebe zur Angst wird Verlustangst verstehen • Emotionale Abhängigkeit lösen • Innere Ruhe finden Leidest du unter Verlustangst, Overthinking oder emotionaler Unsicherheit? Verlierst du dich in Beziehungen oder hast ständig Angst, nicht genug zu sein? Dann ist dieser Ratgeber genau für dich. „Wenn Liebe zur Angst wird“ zeigt dir: ✔ wie emotionale Abhängigkeit entsteht ✔ warum Verlustangst Beziehungen belastet ✔ wie du deinen Selbstwert stärkst ✔ wie du mentale Ruhe findest ✔ und gesunde Beziehungen aufbaust Mit praxisnahen Übungen, Reflexionsfragen, Journaling-Seiten und konkreten Strategien für emotionale Heilung.
 
 ## 2. Links
 

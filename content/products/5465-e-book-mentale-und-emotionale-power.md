@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Inspirierendes E-Book "Mentale und emotionale Power für körperliches Wohlbefinden und körperliche Fitness"</strong></p>
-<p> </p>
-<p>Vielen Menschen wollen an Gewicht verlieren oder körperlich fitter werden und schaffen es dennoch nicht.</p>
-<p> </p>
-<p><strong>Warum?</strong></p>
-<p>Ich habe es in vielen Versuchen und vielen Studien herausgefunden. Die meisten Menschen verstehen nicht, dass ihr Gewicht das Ergebnis ihres täglichen Handelns ist und nicht die Ursache. Das Gewicht ist das Symptom, und nicht die Ursache.</p>
-<p> </p>
-<p><strong>Es geht nämlich vordergründig nicht um das Gewicht, sondern um Dich selbst. Das Gewicht ist die Spiegelung der inneren Entwicklung.</strong></p>
-<p> </p>
-<p>Deshalb ist es wichtig:</p>
-<p>Sich nicht um sein Gewicht, sondern um sich selbst zu kümmern. Nicht das Gewicht, sondern zu allererst das Denken, den mentalen und emotionalen Zustand zu verbessern. Wenn mentale Programmierungen geändert werden, kommt auch nach und nach ein körperliches Wohlbefinden und eine bessere körperliche Fitness zu Stande.</p>
-<p>Wer körperliche Fitness aufbauen, an Gewicht verlieren will und ein besseres körperliches Wohlbefinden haben will braucht das starke Fundament der wirksamen Selbstmotivation, der mentalen und emotionalen Power.</p>
-<p> </p>
-<p><strong>Deshalb lernen die Leser in diesem E-Book:</strong></p>
-<p><em>Ihren eigenen Weg laserscharf festzulegen und zu kennen.</em></p>
-<p><em>Wie sie den inneren Schweinehund zähmen und überwinden können.</em></p>
-<p><em>Wie sie eine starke Selbstdisziplin aufbauen und auch das tun was sie wirklich tun wollen.</em></p>
-<p><em>Wie sie eine richtige und auch erfolgreiche Motivation aufbauen.</em></p>
-<p><em>30 Gründe, warum sich ein besseres Körpergefühl und körperliche Fitness lohnen.</em></p>
-<p><em>Persönlich klar sein und klar werden sowie ein starkes persönliches Commitment aufzubauen.</em></p>
-<p> </p>
-<p>Bei meiner eigenen körperlichen "Optimierung" habe ich das für mich vor einigen Jahren alles berücksichtigt und habe es so geschafft, in einigen Monaten fast 20 Kilogramm zu verlieren und einige Zeit später sogar meinen ersten Marathon zu laufen.</p>
-<p> </p>
-<p>Denn wer immer körperlich fitter und ein körperlich besseres Wohlgefühl haben will der braucht als Grundlage dafür die drei wesentlichen Bausteine: <strong>Wirksame Motivation, mentale und emotionale Power.</strong></p>
+**Vendor's marketplace description:** Inspirierendes E-Book "Mentale und emotionale Power für körperliches Wohlbefinden und körperliche Fitness" Vielen Menschen wollen an Gewicht verlieren oder körperlich fitter werden und schaffen es dennoch nicht. Warum? Ich habe es in vielen Versuchen und vielen Studien herausgefunden. Die meisten Menschen verstehen nicht, dass ihr Gewicht das Ergebnis ihres täglichen Handelns ist und nicht die Ursache. Das Gewicht ist das Symptom, und nicht die Ursache. Es geht nämlich vordergründig nicht um das Gewicht, sondern um Dich selbst. Das Gewicht ist die Spiegelung der inneren Entwicklung. Deshalb ist es wichtig: Sich nicht um sein Gewicht, sondern um sich selbst zu kümmern. Nicht das Gewicht, sondern zu allererst das Denken, den mentalen und emotionalen Zustand zu verbessern. Wenn mentale Programmierungen geändert werden, kommt auch nach und nach ein körperliches Wohlbefinden und eine bessere körperliche Fitness zu Stande. Wer körperliche Fitness aufbauen, an Gewicht verlieren will und ein besseres körperliches Wohlbefinden haben will braucht das starke Fundament der wirksamen Selbstmotivation, der mentalen und emotionalen Power. Deshalb lernen die Leser in diesem E-Book: Ihren eigenen Weg laserscharf festzulegen und zu kennen. Wie sie den inneren Schweinehund zähmen und überwinden können. Wie sie eine starke Selbstdisziplin aufbauen und auch das tun was sie wirklich tun wollen. Wie sie eine richtige und auch erfolgreiche Motivation aufbauen. 30 Gründe, warum sich ein besseres Körpergefühl und körperliche Fitness lohnen. Persönlich klar sein und klar werden sowie ein starkes persönliches Commitment aufzubauen. Bei meiner eigenen körperlichen "Optimierung" habe ich das für mich vor einigen Jahren alles berücksichtigt und habe es so geschafft, in einigen Monaten fast 20 Kilogramm zu verlieren und einige Zeit später sogar meinen ersten Marathon zu laufen. Denn wer immer körperlich fitter und ein körperlich besseres Wohlgefühl haben will der braucht als Grundlage dafür die drei wesentlichen Bausteine: Wirksame Motivation, mentale und emotionale Power.
 
 ## 2. Links
 

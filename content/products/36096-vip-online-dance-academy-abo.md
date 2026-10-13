@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Wir sind die erste Tanzschule, die das gesamte Programm (Schritte und Figuren) von <strong>Bronze bis Gold Star Level</strong> (plus viele weitere beliebte Figuren) online zum <strong>selber Lernen</strong> und/oder <strong>kursunterstützend</strong> anbietet. <br />Ideal auch zur Vorbereitung auf die nächste Tanzleistungsprüfung in deiner Tanzschule!</p>
-<p><strong>Detaillierte Schritte- und Figurenerklärungen</strong> mit vielen weiteren <strong>wertvollen Expertentipps von Andy &amp; Kelly</strong>.</p>
-<p>Alles wird auch aus verschiedenen Richtungen <strong>mit Musik</strong> gezeigt - inklusive <strong>Musterfigurenfolgen</strong>. </p>
-<p>Die VIP Academy entwickelt sich je nach Kunden Feedback laufend weiter! </p>
-<h2>Andy &amp; Kelly's langjährige Erfahrung in Kombination mit ihrem einzigartigen Unterhaltungsfaktor machen den Unterschied</h2>
-<ul>
-<li>lange erfolgreiche Tanzsportkarriere in den Top 10 der Amateure und Profis</li>
-<li>mehrfache österreichische und britische Meister</li>
-<li>Blackpool Sieger</li>
-<li>ex österreichische Nationaltrainer</li>
-<li>5 Jahre bei ORF Dancingstars (österr. Let’s Dance)</li>
-<li>20 Jahre Erfahrung als Tanzprofis</li>
-<li>digitale Tanzschule seit 2019</li>
-</ul>
-<h2>Vorteile</h2>
-<ol>
-<li><strong>Qualitätsprodukt</strong></li>
-<li><strong>Bekanntheit der Trainer</strong> aus dem Fernsehen (<strong>ORF/RTL</strong>)</li>
-<li><strong>Stornoquote verschwindend gering</strong></li>
-<li><strong>Ausgesprochen geringe Anzahl an Abo-Kündigungen:</strong> <br />Viele Kunden sind schon seit dem Start der VIP Academy (Sommer 2020) dabei. Wenn eine Kündigung vorgenommen wird dann nicht aus Qualitätsgründen.</li>
-<li><strong>15% monatliche Provision</strong> - aufgrund des <strong>Abos</strong></li>
-<li><strong>Persönlicher Support</strong></li>
-<li><strong>Promomaterial</strong> auf Anfrage</li>
-</ol>
+**Vendor's marketplace description:** Wir sind die erste Tanzschule, die das gesamte Programm (Schritte und Figuren) von Bronze bis Gold Star Level (plus viele weitere beliebte Figuren) online zum selber Lernen und/oder kursunterstützend anbietet. Ideal auch zur Vorbereitung auf die nächste Tanzleistungsprüfung in deiner Tanzschule! Detaillierte Schritte- und Figurenerklärungen mit vielen weiteren wertvollen Expertentipps von Andy & Kelly . Alles wird auch aus verschiedenen Richtungen mit Musik gezeigt - inklusive Musterfigurenfolgen . Die VIP Academy entwickelt sich je nach Kunden Feedback laufend weiter! Andy & Kelly's langjährige Erfahrung in Kombination mit ihrem einzigartigen Unterhaltungsfaktor machen den Unterschied lange erfolgreiche Tanzsportkarriere in den Top 10 der Amateure und Profis mehrfache österreichische und britische Meister Blackpool Sieger ex österreichische Nationaltrainer 5 Jahre bei ORF Dancingstars (österr. Let’s Dance) 20 Jahre Erfahrung als Tanzprofis digitale Tanzschule seit 2019 Vorteile Qualitätsprodukt Bekanntheit der Trainer aus dem Fernsehen ( ORF/RTL ) Stornoquote verschwindend gering Ausgesprochen geringe Anzahl an Abo-Kündigungen: Viele Kunden sind schon seit dem Start der VIP Academy (Sommer 2020) dabei. Wenn eine Kündigung vorgenommen wird dann nicht aus Qualitätsgründen. 15% monatliche Provision - aufgrund des Abos Persönlicher Support Promomaterial auf Anfrage
 
 ## 2. Links
 

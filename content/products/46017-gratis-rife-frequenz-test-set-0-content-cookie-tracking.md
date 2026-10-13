@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div style="background-color:#f7f9f9;">
-<p><strong><span style="background-color:#ffc300;color:#ffffff;">  TIPP  </span></strong></p>
-<p>Keine E-Mail-Schranke, sofortiger Download: Biete deiner Community 3 vollwertige Rife-Sessions (963 Hz &amp; 111 Hz) als kostenloses Goodie an. Setze den Affiliate-Cookie ohne Eintragungshürde und profitiere von Folgekäufen des 199€-Komplettpakets (50 % Provision).</p>
-<hr /><hr />
-<p><strong>Verschenke echten Mehrwert an deine Community – ohne E-Mail-Hürde!</strong></p>
-<p>Die meisten Freebies scheitern an langen Opt-in-Formularen. Bei diesem Rife-Test-Set erhält deine Zielgruppe den Sofort-Download per Klick – ohne Dateneingabe, ohne Hürden.</p>
-<p><strong>Was deine Nutzer sofort herunterladen können:</strong></p>
-<ul>
-<li>
-<p><strong>Session 1: Quantensprung</strong> (963 Hz zur Bewusstseinserweiterung)</p>
-</li>
-<li>
-<p><strong>Session 2: Subatomare Stille</strong> (111 Hz mit braunem Rauschen für das Nervensystem)</p>
-</li>
-<li>
-<p><strong>Session 3: Unendliche Weite</strong> (963 Hz für mentale Neuausrichtung)</p>
-</li>
-<li>
-<p><strong>Inklusive:</strong> Offizieller Frequenz-Leitfaden (PDF)</p>
-</li>
-</ul>
-<p><strong>Dein Affiliate-Vorteil:</strong></p>
-<p>Nutze dieses Set als kostenloses Geschenk in deinen YouTube-Beschreibungen, Blogbeiträgen oder Social-Media-Kanälen. Der Nutzer testet die High-End-Qualität (320 kBit/s MP3) auf seiner eigenen Hardware, fängt sich über deinen Link den Affiliate-Cookie ein und wird im Webshop automatisch zum 199€-Komplettpaket geführt.</p>
-</div>
+**Vendor's marketplace description:** TIPP Keine E-Mail-Schranke, sofortiger Download: Biete deiner Community 3 vollwertige Rife-Sessions (963 Hz & 111 Hz) als kostenloses Goodie an. Setze den Affiliate-Cookie ohne Eintragungshürde und profitiere von Folgekäufen des 199€-Komplettpakets (50 % Provision). Verschenke echten Mehrwert an deine Community – ohne E-Mail-Hürde! Die meisten Freebies scheitern an langen Opt-in-Formularen. Bei diesem Rife-Test-Set erhält deine Zielgruppe den Sofort-Download per Klick – ohne Dateneingabe, ohne Hürden. Was deine Nutzer sofort herunterladen können: Session 1: Quantensprung (963 Hz zur Bewusstseinserweiterung) Session 2: Subatomare Stille (111 Hz mit braunem Rauschen für das Nervensystem) Session 3: Unendliche Weite (963 Hz für mentale Neuausrichtung) Inklusive: Offizieller Frequenz-Leitfaden (PDF) Dein Affiliate-Vorteil: Nutze dieses Set als kostenloses Geschenk in deinen YouTube-Beschreibungen, Blogbeiträgen oder Social-Media-Kanälen. Der Nutzer testet die High-End-Qualität (320 kBit/s MP3) auf seiner eigenen Hardware, fängt sich über deinen Link den Affiliate-Cookie ein und wird im Webshop automatisch zum 199€-Komplettpaket geführt.
 
 ## 2. Links
 

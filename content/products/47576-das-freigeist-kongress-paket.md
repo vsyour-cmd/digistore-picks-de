@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffffff;"><strong>DER FREIGEIST ONLINE KONGRESS | 26.04.24 bis 05.05.24 | Das große Freigeist-Kongress-Paket |</strong></span></p>
-<p> </p>
-<p><span style="text-decoration:underline;"><strong>Einige unserer Experten:</strong></span></p>
-<p>Steffen Lohrer, Prof. Dr. Gerald Hüther, Armin Risi, Dr. Johanna Graf, Prof. Dr.-Ing. Hans Jacobi, Günther &amp; Mark Luitz, Andreas Popp, Sandro Grellmann, Marc Friedrich, Freiherr von Hinkelbein, Alena Knöpfler, Dr. Harald Hüther, Ursula Warga, Dr. Harald Wiesendanger, Florian Sauer, Ulrike von Aufschnaiter, Andreas Bernknecht, Matthias Alexander Pauqué, Dr. Beate Hannemann, Felix van Frieden, Dr. Martina Kunze, Ricardo Leppe, Armir Weiss, Peter Freiherr von Liechtenstein, Oliver Atunovic, Luca Infeld, Timo Steipe, Enrico Eckebrecht, Dipl.-Betriebswirt Bruno Hillebrand und Dr. Thomas Baumgärtner.</p>
-<p> </p>
-<p><strong>Im Rahmen des FREIGEIST KONGRESSES bieten wir unseren Zuschauern das FREIGEIST-ONLINE-KONGRESS-PAKET an.</strong></p>
-<p><strong>Alle Interviews der Experten werden unserem Kunden in einem Member Bereich für mindestens 24 Monate zur freien Verfügung gestellt.</strong></p>
-<p> </p>
-<p> </p>
-<p>+30 VIDEOS als STREAMING mit den wichtigsten Inahlten zu: FINANZEN, IMMOBILIEN, FIRMENGRÜNDUNG &amp; GANZHEITLICHER GESUNDHEIT</p>
-<div>
-<div><span style="text-decoration:underline;"><strong>ÜBER 30 VIDEOS ZU DEN WICHTIGSTEN THEMEN</strong></span></div>
-</div>
-<div>
-<div>
-<p>Gesundheit &amp; Alternative Medizin</p>
-<p>Persönlichkeitswachstum &amp; Mindset</p>
-<p>Kinder &amp; Familie</p>
-<p>Dezentrale Finanzen &amp; Vermögensschutz</p>
-<p>Immobiliensicherung</p>
-<p>Firmengründung &amp; Innovative Geldverwaltung</p>
-</div>
-</div>
+**Vendor's marketplace description:** DER FREIGEIST ONLINE KONGRESS | 26.04.24 bis 05.05.24 | Das große Freigeist-Kongress-Paket | Einige unserer Experten: Steffen Lohrer, Prof. Dr. Gerald Hüther, Armin Risi, Dr. Johanna Graf, Prof. Dr.-Ing. Hans Jacobi, Günther & Mark Luitz, Andreas Popp, Sandro Grellmann, Marc Friedrich, Freiherr von Hinkelbein, Alena Knöpfler, Dr. Harald Hüther, Ursula Warga, Dr. Harald Wiesendanger, Florian Sauer, Ulrike von Aufschnaiter, Andreas Bernknecht, Matthias Alexander Pauqué, Dr. Beate Hannemann, Felix van Frieden, Dr. Martina Kunze, Ricardo Leppe, Armir Weiss, Peter Freiherr von Liechtenstein, Oliver Atunovic, Luca Infeld, Timo Steipe, Enrico Eckebrecht, Dipl.-Betriebswirt Bruno Hillebrand und Dr. Thomas Baumgärtner. Im Rahmen des FREIGEIST KONGRESSES bieten wir unseren Zuschauern das FREIGEIST-ONLINE-KONGRESS-PAKET an. Alle Interviews der Experten werden unserem Kunden in einem Member Bereich für mindestens 24 Monate zur freien Verfügung gestellt. +30 VIDEOS als STREAMING mit den wichtigsten Inahlten zu: FINANZEN, IMMOBILIEN, FIRMENGRÜNDUNG & GANZHEITLICHER GESUNDHEIT ÜBER 30 VIDEOS ZU DEN WICHTIGSTEN THEMEN Gesundheit & Alternative Medizin Persönlichkeitswachstum & Mindset Kinder & Familie Dezentrale Finanzen & Vermögensschutz Immobiliensicherung Firmengründung & Innovative Geldverwaltung
 
 ## 2. Links
 

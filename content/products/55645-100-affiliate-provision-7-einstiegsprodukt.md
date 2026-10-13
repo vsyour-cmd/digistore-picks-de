@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Easy Sales Page Kickstart ist ein Einsteiger-Kurs für alle, die schnell eine eigene Verkaufsseite erstellen möchten, um digitale oder empfohlene Produkte professionell zu präsentieren.</p>
-<p>Ideal für eine große Zielgruppe mit Wunsch nach einfachem Online-Start.</p>
-<p>• 100% Provision auf das Frontend (7 €)<br />• Low-Ticket mit extrem niedriger Kaufhürde<br />• Hohe Conversion durch klares Start-Versprechen<br />• Perfekt für Einsteiger &amp; Affiliate-Starter<br />• Ideal für Meta Ads und Retargeting<br />• Du generierst Käufer statt Freebie-Leads<br />• Folgeprovisionen bei weiteren Käufen innerhalb der Academy</p>
-<p>Ein starkes Einstiegsprodukt mit Upsell-Potenzial innerhalb der Academy.</p>
-<p>Traffic draufgeben. Käufer generieren. Provision sichern.</p>
-<p> </p>
-<p style="text-align:center;"><span style="background-color:#ffff99;"><strong>Mehr Infos findest du auf der Affiliate-Support-Seite mit Werbematerial, E-Mail-Vorlagen und Social-Media-Posts.</strong></span></p>
+**Vendor's marketplace description:** Easy Sales Page Kickstart ist ein Einsteiger-Kurs für alle, die schnell eine eigene Verkaufsseite erstellen möchten, um digitale oder empfohlene Produkte professionell zu präsentieren. Ideal für eine große Zielgruppe mit Wunsch nach einfachem Online-Start. • 100% Provision auf das Frontend (7 €) • Low-Ticket mit extrem niedriger Kaufhürde • Hohe Conversion durch klares Start-Versprechen • Perfekt für Einsteiger & Affiliate-Starter • Ideal für Meta Ads und Retargeting • Du generierst Käufer statt Freebie-Leads • Folgeprovisionen bei weiteren Käufen innerhalb der Academy Ein starkes Einstiegsprodukt mit Upsell-Potenzial innerhalb der Academy. Traffic draufgeben. Käufer generieren. Provision sichern. Mehr Infos findest du auf der Affiliate-Support-Seite mit Werbematerial, E-Mail-Vorlagen und Social-Media-Posts.
 
 ## 2. Links
 

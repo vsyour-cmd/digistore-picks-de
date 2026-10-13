@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses Buch trifft einen hochaktuellen Nerv:</p>
-<p>Wölfe polarisieren, faszinieren und sorgen europaweit für intensive Debatten über Naturschutz, Landwirtschaft und das Zusammenleben von Mensch und Wildtier.</p>
-<p>Es verbindet Geschichte, Mythologie, Wissenschaft und aktuelle Entwicklungen zu einem emotional aufgeladenen Thema mit breiter Zielgruppe – von Naturfreunden über Jäger bis hin zu politisch Interessierten.</p>
-<p>Besonders stark vermarktbar ist die Kombination aus kontroversem Thema, fundierter Recherche und spannender Erzählweise, die Neugier weckt und Diskussionen auslöst.</p>
-<p>Ein ideales Produkt für Affiliates, die Bücher mit gesellschaftlicher Relevanz, hoher Aufmerksamkeit und starkem Informationswert erfolgreich bewerben möchten.</p>
+**Vendor's marketplace description:** Dieses Buch trifft einen hochaktuellen Nerv: Wölfe polarisieren, faszinieren und sorgen europaweit für intensive Debatten über Naturschutz, Landwirtschaft und das Zusammenleben von Mensch und Wildtier. Es verbindet Geschichte, Mythologie, Wissenschaft und aktuelle Entwicklungen zu einem emotional aufgeladenen Thema mit breiter Zielgruppe – von Naturfreunden über Jäger bis hin zu politisch Interessierten. Besonders stark vermarktbar ist die Kombination aus kontroversem Thema, fundierter Recherche und spannender Erzählweise, die Neugier weckt und Diskussionen auslöst. Ein ideales Produkt für Affiliates, die Bücher mit gesellschaftlicher Relevanz, hoher Aufmerksamkeit und starkem Informationswert erfolgreich bewerben möchten.
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dorian ist ein Coach für Menschen, die wiederkehrende Verhaltensmuster erkennen oder von anderen gespiegelt bekommen und diese gezielt verändern möchten. Eine ausführliche Bestandsaufnahme bildet die Grundlage für die ersten Gespräche mit Dorian.</p>
-<p>Im Mittelpunkt stehen typische Reaktionen in wiederkehrenden Situationen, Konfliktdynamiken, Selbstreflexion und konkrete Ansatzpunkte für Veränderung.</p>
-<p>Dorian wird im Hintergrund durch KI unterstützt. Anders als ein allgemeiner KI-Chat beginnt Dorian jedoch nicht mit einer leeren Unterhaltung. Die vorherige Bestandsaufnahme bildet von Anfang an die Grundlage für das Gespräch. Auswertung und Gesprächsführung folgen dabei einem eigenen Vorgehen.</p>
-<p><a href="https://doriansway.app/partner/" target="_blank" rel="noreferrer noopener">Zu unserer Partnerseite hier klicken!</a></p>
-<p>Fragen? <a href="https://doriansway.app/kontakt/" target="_blank" rel="noreferrer noopener">Schreibe uns!</a></p>
+**Vendor's marketplace description:** Dorian ist ein Coach für Menschen, die wiederkehrende Verhaltensmuster erkennen oder von anderen gespiegelt bekommen und diese gezielt verändern möchten. Eine ausführliche Bestandsaufnahme bildet die Grundlage für die ersten Gespräche mit Dorian. Im Mittelpunkt stehen typische Reaktionen in wiederkehrenden Situationen, Konfliktdynamiken, Selbstreflexion und konkrete Ansatzpunkte für Veränderung. Dorian wird im Hintergrund durch KI unterstützt. Anders als ein allgemeiner KI-Chat beginnt Dorian jedoch nicht mit einer leeren Unterhaltung. Die vorherige Bestandsaufnahme bildet von Anfang an die Grundlage für das Gespräch. Auswertung und Gesprächsführung folgen dabei einem eigenen Vorgehen. Zu unserer Partnerseite hier klicken! Fragen? Schreibe uns!
 
 ## 2. Links
 

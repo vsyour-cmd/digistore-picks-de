@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Dejan Sekulics<br />Amazon Bestseller Buch (Erstes Kapitel kostenlos) </h1>
-<h4>Verschenke das erste Kapitel und verdiene anschliessend am <span style="background-color:#ffff00;">gesamten Funnel 50% Provision!!</span></h4>
-<p> </p>
-<h4><em>Das Glück liebt glückliche Menschen!<br />Nahrung für Geist und Seele.</em><br /><em>Zitate, Metaphern, Geschichten,<br />Alltagstipps für mehr Glück, Erfolg und Lebensfreude</em></h4>
-<h4><br /><em><strong>In diesem Buch erwarten DICH:</strong></em><br /><br /></h4>
-<ul>
-<li>
-<h4>Nahrung für Geist und Seele</h4>
-</li>
-<li><strong>Motivation und Inspiration </strong></li>
-<li>
-<h4>Hilfreiche Lebensweisheiten  </h4>
-</li>
-<li>
-<h4>Motivierende Zitate von grossen Persönlichkeiten</h4>
-</li>
-<li>
-<h4>Inspirierende Metaphern sowie nützliche Denkanstösse</h4>
-</li>
-<li>
-<h4>Praxistipps für mehr Glück und Lebensfreude</h4>
-</li>
-<li>
-<h4>Das Mindset erfolgreicher Menschen<br /><br /><br /><span style="background-color:#ffff00;">Verschenke das erste Kapitel und verdiene anschliessend am gesamten Funnel 50% Provision!!</span> </h4>
-</li>
-</ul>
+**Vendor's marketplace description:** Dejan Sekulics Amazon Bestseller Buch (Erstes Kapitel kostenlos) Verschenke das erste Kapitel und verdiene anschliessend am gesamten Funnel 50% Provision!! Das Glück liebt glückliche Menschen! Nahrung für Geist und Seele. Zitate, Metaphern, Geschichten, Alltagstipps für mehr Glück, Erfolg und Lebensfreude In diesem Buch erwarten DICH: Nahrung für Geist und Seele Motivation und Inspiration Hilfreiche Lebensweisheiten Motivierende Zitate von grossen Persönlichkeiten Inspirierende Metaphern sowie nützliche Denkanstösse Praxistipps für mehr Glück und Lebensfreude Das Mindset erfolgreicher Menschen Verschenke das erste Kapitel und verdiene anschliessend am gesamten Funnel 50% Provision!!
 
 ## 2. Links
 

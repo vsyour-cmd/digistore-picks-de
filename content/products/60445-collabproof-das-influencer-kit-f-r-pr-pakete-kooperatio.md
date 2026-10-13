@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>CollabProof – Das Influencer-Kit für PR-Pakete &amp; Kooperationen</h3>
-<p><strong>Deine Zielgruppe bekommt PR-Pakete und bezahlt Kooperationen? Dann braucht sie auch Ordnung bei den Nachweisen.</strong></p>
-<p>Welche Marke hat was geschickt? Welchen Wert hatte das Produkt? Wo liegt der Beleg? CollabProof hilft Influencern und UGC-Creatorn, diese Fragen rechtzeitig zu dokumentieren – bevor die Steuerkanzlei oder das Finanzamt nachfragt.</p>
-<h4>Das erhalten Käufer</h4>
-<ul>
-<li>Offline-App zum Erfassen von Kooperationen, PR-Paketen und Honoraren</li>
-<li>PDF-Jahresbericht, CSV-Export und JSON-Backups</li>
-<li>PDF-Leitfaden mit Checklisten und 6 kopierfertigen E-Mail-Vorlagen</li>
-<li>Beleg-Ordnerstruktur, Beispieldaten und Startanleitung</li>
-</ul>
-<p><strong>Einmal kaufen, ohne Abo und ohne App-Konto nutzen.</strong> Das digitale Kit wird als ZIP-Download geliefert und ist für einen Computer mit aktuellem Browser vorgesehen.</p>
-<h4>Deine Vorteile als Affiliate</h4>
-<ul>
-<li><strong>50 % Affiliate-Provision</strong></li>
-<li><strong>47 € einmaliger Verkaufspreis</strong></li>
-<li>Konkreter Nutzen für Influencer, UGC-Creator und deren Coaches</li>
-<li>Passend für Inhalte über PR-Pakete, Markenkooperationen und die Organisation des Creator-Business</li>
-</ul>
-<p><strong>Dein Aufhänger: „PR-Pakete rein. Chaos raus. Dokumentiere deine Kooperationen – bevor das Finanzamt nachfragt.“</strong></p>
-<p><small>CollabProof ist eine Dokumentationshilfe und ersetzt keine Steuer- oder Rechtsberatung. Die Affiliate-Provision wird auf die von Digistore24 festgelegte Provisionsbasis berechnet.</small></p>
+**Vendor's marketplace description:** CollabProof – Das Influencer-Kit für PR-Pakete & Kooperationen Deine Zielgruppe bekommt PR-Pakete und bezahlt Kooperationen? Dann braucht sie auch Ordnung bei den Nachweisen. Welche Marke hat was geschickt? Welchen Wert hatte das Produkt? Wo liegt der Beleg? CollabProof hilft Influencern und UGC-Creatorn, diese Fragen rechtzeitig zu dokumentieren – bevor die Steuerkanzlei oder das Finanzamt nachfragt. Das erhalten Käufer Offline-App zum Erfassen von Kooperationen, PR-Paketen und Honoraren PDF-Jahresbericht, CSV-Export und JSON-Backups PDF-Leitfaden mit Checklisten und 6 kopierfertigen E-Mail-Vorlagen Beleg-Ordnerstruktur, Beispieldaten und Startanleitung Einmal kaufen, ohne Abo und ohne App-Konto nutzen. Das digitale Kit wird als ZIP-Download geliefert und ist für einen Computer mit aktuellem Browser vorgesehen. Deine Vorteile als Affiliate 50 % Affiliate-Provision 47 € einmaliger Verkaufspreis Konkreter Nutzen für Influencer, UGC-Creator und deren Coaches Passend für Inhalte über PR-Pakete, Markenkooperationen und die Organisation des Creator-Business Dein Aufhänger: „PR-Pakete rein. Chaos raus. Dokumentiere deine Kooperationen – bevor das Finanzamt nachfragt.“ CollabProof ist eine Dokumentationshilfe und ersetzt keine Steuer- oder Rechtsberatung. Die Affiliate-Provision wird auf die von Digistore24 festgelegte Provisionsbasis berechnet.
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieser Videokurs besteht aus 7 Modulen und führt einmal Schritt für Schritt durch ein komplettes Immobilien-Investment.</p>
-<p>Angefangen bei den Basics und der Strategiefindung, der Regionenanalyse, der Objektsuche und dem -kauf, weiter über die vermieterfreundliche Vermietung bis hin zu einem Ausblick auf die zukünftigen Aufgaben eines Vermieters.</p>
-<p>So begleite ich den angehenden Investor bei jedem Schritt und vermittle ihm das notwendige Wissen, damit auch er sicher in eine rentable Immobilie investiert.</p>
-<p>Der reguläre Verkaufspreis für dieses Produkt liegt bei 297,- €. Bei Ratenzahlung wird ein Aufschlag erhoben. Als Upsell gilt ein Verkaufspreis von 197,- €. Alle Preise inkl. MWST. Du bekommst 30 % Affiliateprovision.</p>
+**Vendor's marketplace description:** Dieser Videokurs besteht aus 7 Modulen und führt einmal Schritt für Schritt durch ein komplettes Immobilien-Investment. Angefangen bei den Basics und der Strategiefindung, der Regionenanalyse, der Objektsuche und dem -kauf, weiter über die vermieterfreundliche Vermietung bis hin zu einem Ausblick auf die zukünftigen Aufgaben eines Vermieters. So begleite ich den angehenden Investor bei jedem Schritt und vermittle ihm das notwendige Wissen, damit auch er sicher in eine rentable Immobilie investiert. Der reguläre Verkaufspreis für dieses Produkt liegt bei 297,- €. Bei Ratenzahlung wird ein Aufschlag erhoben. Als Upsell gilt ein Verkaufspreis von 197,- €. Alle Preise inkl. MWST. Du bekommst 30 % Affiliateprovision.
 
 ## 2. Links
 

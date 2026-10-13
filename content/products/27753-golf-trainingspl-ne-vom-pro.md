@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>PGA Pro Michael Behrens hat <strong>36 Premium Golf Trainingspläne</strong> auf über 114 Seiten als PDF zum Mitnehmen auf die Runde und den Platz erstellt. </p>
-<ul><li>Unsere Trainingspläne machen aus Dir einen unabhängigen Golfer.</li>
-<li>Du lernst dich selber auf dem Platz und der Range zu korrigieren</li>
-<li>Die Pläne sind auf verschiedene HCP Klassen angepasst.</li>
-<li>Du trainierst wirksam, individuell, ansteigend, richtig, variierend, wechselnd und optimal.</li>
-<li>Erprobt in der Praxis</li>
-<li>Auschaulich bebildert für ausgezeichnete Trainingseinheiten</li>
-<li>Optimal zur Saisonvorbereitung &amp; während der Saison</li>
-</ul><p><strong>Spiele die Runde deines Lebens</strong>.</p>
-<p>Trainiere jetzt mit den Premium Trainingsplänen und werde zu Nummer Eins in Flight.</p>
+**Vendor's marketplace description:** PGA Pro Michael Behrens hat 36 Premium Golf Trainingspläne auf über 114 Seiten als PDF zum Mitnehmen auf die Runde und den Platz erstellt. Unsere Trainingspläne machen aus Dir einen unabhängigen Golfer. Du lernst dich selber auf dem Platz und der Range zu korrigieren Die Pläne sind auf verschiedene HCP Klassen angepasst. Du trainierst wirksam, individuell, ansteigend, richtig, variierend, wechselnd und optimal. Erprobt in der Praxis Auschaulich bebildert für ausgezeichnete Trainingseinheiten Optimal zur Saisonvorbereitung & während der Saison Spiele die Runde deines Lebens . Trainiere jetzt mit den Premium Trainingsplänen und werde zu Nummer Eins in Flight.
 
 ## 2. Links
 

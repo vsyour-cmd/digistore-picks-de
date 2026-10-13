@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Volles Haar zurückgewinnen"</strong></p>
-<p>Volles Haar zurück – ehrlich betrachtet. Erfahre, was bei Haarverlust wirklich helfen kann, was nicht, und wie du mit realistischem Blick, guter Pflege und Geduld dranbleibst.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe: Haut &amp; Haar / Gesundheit</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Realistisch einschätzen, was bei Haarverlust möglich ist</li>
-<li>Den Haarzyklus und die Ursachen wirklich verstehen</li>
-<li>Bewährte von überschätzten Ansätzen unterscheiden</li>
-<li>Haar schonend pflegen und optisch mehr Fülle schaffen</li>
-<li>Selbstbewusst mit dünnerem Haar umgehen</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Menschen mit Haut- &amp; Haarproblemen, Beauty-, Pflege- und Gesundheits-Zielgruppe</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Volles Haar zurückgewinnen" Volles Haar zurück – ehrlich betrachtet. Erfahre, was bei Haarverlust wirklich helfen kann, was nicht, und wie du mit realistischem Blick, guter Pflege und Geduld dranbleibst. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe: Haut & Haar / Gesundheit Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Realistisch einschätzen, was bei Haarverlust möglich ist Den Haarzyklus und die Ursachen wirklich verstehen Bewährte von überschätzten Ansätzen unterscheiden Haar schonend pflegen und optisch mehr Fülle schaffen Selbstbewusst mit dünnerem Haar umgehen Für deine Zielgruppe: Menschen mit Haut- & Haarproblemen, Beauty-, Pflege- und Gesundheits-Zielgruppe Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

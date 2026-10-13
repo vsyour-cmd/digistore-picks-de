@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><strong>Der Kurs:</strong></h4>
-<p>ABJETZT/YOGA ist einer der ersten nach § 20 SGB V zertifizierten online Yoga-Präventionskurse, mit bis zu 80 bis 100 % Kostenerstattung durch die gesetzlichen Krankenkassen. Der ABJETZT/YOGA Präventionskurs gleicht Stress und psychische Belastungen des Alltags aus.</p>
-<ul>
-<li>Der 10-wöchige Yogakurs besteht aus zehn Trainingseinheiten</li>
-<li>Alle Yogaübungen werden von einer zertifizierten Yogalehrerin geleitet</li>
-<li>Teilnehmer haben zu jeder Zeit Zugriff</li>
-<li>ABJETZT/YOGA bietet ein Gesamtkonzept für den Körper und ist ideal dafür geeignet, den Geist zu stärken, die richtigen Entspannungstechniken zu lernen und Bewegung in den Alltag zu integrieren</li>
-<li>Teilnehmer erhalten nach jedem Trainingsvideo begleitende Inhalte zum Lesen, die das Thema der jeweiligen Woche noch einmal aufgreifen und festigen</li>
-</ul>
-<p> </p>
-<h4><strong>Vorteile für Affiliates:</strong></h4>
-<ul>
-<li><strong>35,60€</strong> Provision pro Kauf </li>
-<li>Yoga befindet sich in einem schnell wachsenden Markt</li>
-<li>Umfassende Werbemittel</li>
-<li>Mobil optimierte Verkaufsseite</li>
-<li>Du förderst die Gesundheit anderer Menschen</li>
-<li>Der Yogakurs entspricht hohen Qualitätskriterien der Krankenkassen </li>
-</ul>
-<p>Hast Du noch Fragen zum Affiliate-Programm? Dann schreibt uns einfach eine Mail an <a>support@abjetzt.de</a>.</p>
+**Vendor's marketplace description:** Der Kurs: ABJETZT/YOGA ist einer der ersten nach § 20 SGB V zertifizierten online Yoga-Präventionskurse, mit bis zu 80 bis 100 % Kostenerstattung durch die gesetzlichen Krankenkassen. Der ABJETZT/YOGA Präventionskurs gleicht Stress und psychische Belastungen des Alltags aus. Der 10-wöchige Yogakurs besteht aus zehn Trainingseinheiten Alle Yogaübungen werden von einer zertifizierten Yogalehrerin geleitet Teilnehmer haben zu jeder Zeit Zugriff ABJETZT/YOGA bietet ein Gesamtkonzept für den Körper und ist ideal dafür geeignet, den Geist zu stärken, die richtigen Entspannungstechniken zu lernen und Bewegung in den Alltag zu integrieren Teilnehmer erhalten nach jedem Trainingsvideo begleitende Inhalte zum Lesen, die das Thema der jeweiligen Woche noch einmal aufgreifen und festigen Vorteile für Affiliates: 35,60€ Provision pro Kauf Yoga befindet sich in einem schnell wachsenden Markt Umfassende Werbemittel Mobil optimierte Verkaufsseite Du förderst die Gesundheit anderer Menschen Der Yogakurs entspricht hohen Qualitätskriterien der Krankenkassen Hast Du noch Fragen zum Affiliate-Programm? Dann schreibt uns einfach eine Mail an support@abjetzt.de .
 
 ## 2. Links
 

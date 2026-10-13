@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Für Einsteiger und Profis</h2>
-<p> </p>
-<p>Unser Video-Portal richtet sich an alle Anwender, die keine oder wenig Erfahrung mit BricsCAD haben, oder die Ihre Kenntnisse auffrischen möchten. Mit dem Video-Portal erarbeiten Sie sich nicht nur eine solide CAD-Basis, sondern finden auch viele Tipps und Tricks um den CAD-Alltag noch effizienter zu gestalten. Entscheiden Sie selbst, wann Sie welches Kapitel sehen, wiederholen und vertiefen wollen.</p>
-<p> </p>
-<p>Der Kurs führt <strong>in acht Modulen</strong> durch alle wesentlichen Themen der 2D-Konstruktion: von Benutzeroberfläche und Zeichenbefehlen über Ändern-Befehle, Objektfänge und das Layersystem bis hin zu Texten, Bemaßungen, Blöcken, Xrefs und der professionellen Planausgabe mit Layouts und Multiplott.<br /><br /></p>
-<p><strong>Ziel: </strong>Sie beherrschen BricsCAD® 2D von A bis Z – vom ersten Strich bis zum druckfertigen Plan.</p>
-<p>Mit dem Paket 2D-Channel des BricsCAD Premium Video-Portals schalten Sie alle Videos des 2D-Channels für 1 Jahr frei und können die Videos in diesem Zeitraum anschauen, sooft und wann immer Sie wollen.</p>
-<p> </p>
-<p><strong>Machen Sie diese Video-Plattform zu Ihrem „BricsCAD-Personal-Trainer“, der Ihnen 24 Stunden täglich und 7 Tage die Woche zur Seite steht.</strong></p>
+**Vendor's marketplace description:** Für Einsteiger und Profis Unser Video-Portal richtet sich an alle Anwender, die keine oder wenig Erfahrung mit BricsCAD haben, oder die Ihre Kenntnisse auffrischen möchten. Mit dem Video-Portal erarbeiten Sie sich nicht nur eine solide CAD-Basis, sondern finden auch viele Tipps und Tricks um den CAD-Alltag noch effizienter zu gestalten. Entscheiden Sie selbst, wann Sie welches Kapitel sehen, wiederholen und vertiefen wollen. Der Kurs führt in acht Modulen durch alle wesentlichen Themen der 2D-Konstruktion: von Benutzeroberfläche und Zeichenbefehlen über Ändern-Befehle, Objektfänge und das Layersystem bis hin zu Texten, Bemaßungen, Blöcken, Xrefs und der professionellen Planausgabe mit Layouts und Multiplott. Ziel: Sie beherrschen BricsCAD® 2D von A bis Z – vom ersten Strich bis zum druckfertigen Plan. Mit dem Paket 2D-Channel des BricsCAD Premium Video-Portals schalten Sie alle Videos des 2D-Channels für 1 Jahr frei und können die Videos in diesem Zeitraum anschauen, sooft und wann immer Sie wollen. Machen Sie diese Video-Plattform zu Ihrem „BricsCAD-Personal-Trainer“, der Ihnen 24 Stunden täglich und 7 Tage die Woche zur Seite steht.
 
 ## 2. Links
 

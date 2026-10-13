@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>30 Tage sichtbar – der Social-Media-Contentplan für Anfänger</strong></p>
-<p>Viele möchten auf Social Media regelmäßig sichtbar sein, wissen aber oft nicht, was sie posten sollen. Genau hier setzt „30 Tage sichtbar“ an.</p>
-<p>Der Contentplan bietet 30 Tage lang konkrete Content-Ideen, Hooks, Story-Impulse und Post-Vorlagen und hilft dabei, mehr Struktur und Klarheit in die eigene Contentplanung zu bringen.</p>
-<p>Ideal für Anfänger, Selbstständige, Creator und alle, die mit Social Media starten oder regelmäßiger posten möchten.</p>
-<p><strong>Das erwartet die Käufer:</strong><br />• 30 Tage Content-Ideen<br />• Hooks und Story-Impulse<br />• Post-Vorlagen<br />• einfache und verständliche Umsetzung<br />• motivierende und praktische Impulse</p>
-<p><strong>Verkaufspreis: 19,90 €</strong></p>
+**Vendor's marketplace description:** 30 Tage sichtbar – der Social-Media-Contentplan für Anfänger Viele möchten auf Social Media regelmäßig sichtbar sein, wissen aber oft nicht, was sie posten sollen. Genau hier setzt „30 Tage sichtbar“ an. Der Contentplan bietet 30 Tage lang konkrete Content-Ideen, Hooks, Story-Impulse und Post-Vorlagen und hilft dabei, mehr Struktur und Klarheit in die eigene Contentplanung zu bringen. Ideal für Anfänger, Selbstständige, Creator und alle, die mit Social Media starten oder regelmäßiger posten möchten. Das erwartet die Käufer: • 30 Tage Content-Ideen • Hooks und Story-Impulse • Post-Vorlagen • einfache und verständliche Umsetzung • motivierende und praktische Impulse Verkaufspreis: 19,90 €
 
 ## 2. Links
 

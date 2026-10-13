@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb eines der neusten Möglichkeiten der KI Welt, bereits über 100 Kunden in 15 Tagen generiert. <br /><br />60% Provision auf das Produkt und Orderbump (97€ und 12€) <br />50% auf den Downsell I (67 €)<br /><br />Sei mit dabei und sichere dir fertige Werbemittel für deine Landingpage, E-Mails oder Social Media Kanäle</p>
+**Vendor's marketplace description:** Bewirb eines der neusten Möglichkeiten der KI Welt, bereits über 100 Kunden in 15 Tagen generiert. 60% Provision auf das Produkt und Orderbump (97€ und 12€) 50% auf den Downsell I (67 €) Sei mit dabei und sichere dir fertige Werbemittel für deine Landingpage, E-Mails oder Social Media Kanäle
 
 ## 2. Links
 

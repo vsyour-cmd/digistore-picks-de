@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong> </strong><strong>Bist du auf stumm geschaltet? Finde den Ursprung deiner Stimme </strong>- Das Buch<strong><br /></strong></p>
-<p>Um einen wahren Zugriff zu Ihrem Stimmpotential zu bekommen, erhalten sie folgende Produkte:</p>
-<p>Buch - e-Book - Arbeitsbuch</p>
-<div>Wie eng <strong>deine Stimme</strong> an <strong>deine</strong> <strong>Gefühle</strong> gekoppelt ist</div>
-<div> </div>
-<div>Wie du dir <strong>leichter</strong> <strong>Gehör </strong>verschaffen kannst, indem du lernst, deine <strong>Aussagen klarer rüberzubringen</strong></div>
-<div> </div>
-<div>Wieviel <strong>Sprachlosigkeit</strong> du durch das Beseitigen deiner Blockaden <strong>überwinden</strong> kannst</div>
-<div> </div>
-<div>Wie <strong>viel mehr Liebe</strong> dadurch <strong>kommuniziert wird</strong></div>
-<div> </div>
-<div><strong>Insbesondere für Menschen die täglich auf das Funktionieren ihrer Stimme anggewiesen sind wie: Lehrer, Coaches Speaker, Dozenten, Sänger, Menschen die an der Entwicklung ihrer Stimme interessiert sind.</strong></div>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Bist du auf stumm geschaltet? Finde den Ursprung deiner Stimme - Das Buch Um einen wahren Zugriff zu Ihrem Stimmpotential zu bekommen, erhalten sie folgende Produkte: Buch - e-Book - Arbeitsbuch Wie eng deine Stimme an deine Gefühle gekoppelt ist Wie du dir leichter Gehör verschaffen kannst, indem du lernst, deine Aussagen klarer rüberzubringen Wieviel Sprachlosigkeit du durch das Beseitigen deiner Blockaden überwinden kannst Wie viel mehr Liebe dadurch kommuniziert wird Insbesondere für Menschen die täglich auf das Funktionieren ihrer Stimme anggewiesen sind wie: Lehrer, Coaches Speaker, Dozenten, Sänger, Menschen die an der Entwicklung ihrer Stimme interessiert sind.
 
 ## 2. Links
 

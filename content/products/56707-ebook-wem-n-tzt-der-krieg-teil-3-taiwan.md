@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>Dieses Buch verbindet eines der brisantesten geopolitischen Themen unserer Zeit mit wirtschaftlichen Interessen, Halbleiter-Dominanz und der realen Gefahr eines globalen Konflikts.</p>
-<p>Die Mischung aus Taiwan, China, USA, Machtpolitik und globalen Lieferketten schafft hohe Relevanz für Leser, die verstehen wollen, wie Krisen Wirtschaft, Technologie und Weltordnung beeinflussen.</p>
-<p>Kontroverse Inhalte, starke Zukunftsszenarien und die Verbindung von Krieg, Märkten und geopolitischen Interessen bieten enormes Potenzial für Aufmerksamkeit, Diskussionen und starke Conversion im Sachbuch- und Politiksegment.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Dieses Buch verbindet eines der brisantesten geopolitischen Themen unserer Zeit mit wirtschaftlichen Interessen, Halbleiter-Dominanz und der realen Gefahr eines globalen Konflikts. Die Mischung aus Taiwan, China, USA, Machtpolitik und globalen Lieferketten schafft hohe Relevanz für Leser, die verstehen wollen, wie Krisen Wirtschaft, Technologie und Weltordnung beeinflussen. Kontroverse Inhalte, starke Zukunftsszenarien und die Verbindung von Krieg, Märkten und geopolitischen Interessen bieten enormes Potenzial für Aufmerksamkeit, Diskussionen und starke Conversion im Sachbuch- und Politiksegment.
 
 ## 2. Links
 

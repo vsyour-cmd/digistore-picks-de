@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bekommst du Anerkennung und Zuspruch für deine Fotos? <strong>Denkst du darüber nach, dein Hobby zum Beruf zu machen oder möchtest du deinen Umsatz erhöhen? </strong>Möchtest du weniger arbeiten, aber mehr verdienen? Hier bist du richtig! Dieser Online-Kurs wird dir die Angst vor der Selbstständigkeit nehmen und dir zeigen, wie du dich im Hochpreissegment aufstellst. Egal ob Teilzeit oder Vollzeit - Wenn du darüber nachdenkst, Geld mit der Fotografie zu verdienen, dann ist dieser Workshop dein Kickstart in ein professionelles Business.</p>
-<div>
-<div>
-<p> </p>
-<p>Nachdem du alle Module absolviert hast, wirst du dich sicher und rund um gut aufgestellt fühlen. <strong>Du wirst herausfinden, wer deine Kund*innen sind und wie du für sie sichtbar wirst.</strong> Egal ob Instagram, Website, Preise oder Workflow - Alles wird dir leichter fallen. In der exklusiven Facebookgruppe und auf unserem Discordserver kannst du dich außerdem mit anderen Teilnehmer*innen austauschen.</p>
-<p> </p>
-<p>Die Kosten um gesehen zu werden, waren nie geringer. Das führt dazu, dass täglich neue Fotograf*innen in den Markt drängen. Die Auswahl wird größer, zeitgleich sinkt die Aufmerksamkeitsspanne potentieller Kunden. <strong>Gute Fotos allein reichen daher nicht mehr aus, um uns von den vielen Kolleg*innen zu unterscheiden.</strong> Wenn du dich allein auf deine Fotos verlässt und du dich über deine Preise oder Leistungen vermarktest, wirst du immer in Konkurrenz mit anderen Fotograf*innen stehen.</p>
-<p> </p>
-<p>In der Business School lernst du, wie du dein Business langfristig und beständig aufbaust, sodass du stolz darauf sein kannst. Es erwartet dich der umfangreichste Kurs über das Business hinter der Fotografie im deutschsprachigen Raum. <strong>Lass dir von niemandem erzählen, dass es nicht möglich ist, von der Fotografie zu leben.</strong></p>
-</div>
- </div>
-<div>
-<blockquote>
-<p>"Der Workshop ist jeden Cent wert und schon jetzt die beste Business-Entscheidung 2021 gewesen. Von Herzen Danke an euch Beiden für all die Denkanstöße, eure ehrliche und sympathische Art und die Einblicke." - Annika &amp; Gabriel Fotografie</p>
-</blockquote>
-</div>
-<p> </p>
+**Vendor's marketplace description:** Bekommst du Anerkennung und Zuspruch für deine Fotos? Denkst du darüber nach, dein Hobby zum Beruf zu machen oder möchtest du deinen Umsatz erhöhen? Möchtest du weniger arbeiten, aber mehr verdienen? Hier bist du richtig! Dieser Online-Kurs wird dir die Angst vor der Selbstständigkeit nehmen und dir zeigen, wie du dich im Hochpreissegment aufstellst. Egal ob Teilzeit oder Vollzeit - Wenn du darüber nachdenkst, Geld mit der Fotografie zu verdienen, dann ist dieser Workshop dein Kickstart in ein professionelles Business. Nachdem du alle Module absolviert hast, wirst du dich sicher und rund um gut aufgestellt fühlen. Du wirst herausfinden, wer deine Kund*innen sind und wie du für sie sichtbar wirst. Egal ob Instagram, Website, Preise oder Workflow - Alles wird dir leichter fallen. In der exklusiven Facebookgruppe und auf unserem Discordserver kannst du dich außerdem mit anderen Teilnehmer*innen austauschen. Die Kosten um gesehen zu werden, waren nie geringer. Das führt dazu, dass täglich neue Fotograf*innen in den Markt drängen. Die Auswahl wird größer, zeitgleich sinkt die Aufmerksamkeitsspanne potentieller Kunden. Gute Fotos allein reichen daher nicht mehr aus, um uns von den vielen Kolleg*innen zu unterscheiden. Wenn du dich allein auf deine Fotos verlässt und du dich über deine Preise oder Leistungen vermarktest, wirst du immer in Konkurrenz mit anderen Fotograf*innen stehen. In der Business School lernst du, wie du dein Business langfristig und beständig aufbaust, sodass du stolz darauf sein kannst. Es erwartet dich der umfangreichste Kurs über das Business hinter der Fotografie im deutschsprachigen Raum. Lass dir von niemandem erzählen, dass es nicht möglich ist, von der Fotografie zu leben. "Der Workshop ist jeden Cent wert und schon jetzt die beste Business-Entscheidung 2021 gewesen. Von Herzen Danke an euch Beiden für all die Denkanstöße, eure ehrliche und sympathische Art und die Einblicke." - Annika & Gabriel Fotografie
 
 ## 2. Links
 

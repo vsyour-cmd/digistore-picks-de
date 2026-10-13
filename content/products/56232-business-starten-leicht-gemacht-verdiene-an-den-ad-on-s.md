@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verdienen Sie bis zu 50 % Provision mit dem kostenlosen Erfolgs‑Ebook „Business starten leicht gemacht“</strong></p>
-<p>Dieses eBook richtet sich gezielt an Anfänger, die ohne Vorwissen ein eigenes Business starten möchten. Klare Strategien, echte Praxis, kein unnötiger Ballast – das ist der Kern dieses Erfolgs-Guides.</p>
-<p>Der Clou: Das eBook ist <strong>komplett kostenlos</strong> und sorgt für extrem hohe Conversion‑Rates. Ihre Provision erhalten Sie auf die <strong>Add‑Ons und weiterführenden Angebote</strong>, die sich perfekt an das Interesse des Lesers anschließen – mit <strong>bis zu 50 % Umsatzbeteiligung</strong>.</p>
-<p><strong>Ihre Vorteile als Affiliate:</strong><br />– Kostenloses Hauptprodukt = einfache Werbung &amp; hohe Reichweite<br />– Automatische Provision auf alle Add‑On‑Sales (50 %)<br />– Professionelles Funnel‑System, das für Sie verkauft<br />– Ideal für Einsteiger, Business‑ und Erfolgs‑Zielgruppen</p>
-<p>Wer dieses eBook liest, will anschließend mehr. Promoten Sie jetzt mit minimalem Aufwand ein hochwertiges Angebot mit maximalem Vertriebsnutzen.</p>
+**Vendor's marketplace description:** Verdienen Sie bis zu 50 % Provision mit dem kostenlosen Erfolgs‑Ebook „Business starten leicht gemacht“ Dieses eBook richtet sich gezielt an Anfänger, die ohne Vorwissen ein eigenes Business starten möchten. Klare Strategien, echte Praxis, kein unnötiger Ballast – das ist der Kern dieses Erfolgs-Guides. Der Clou: Das eBook ist komplett kostenlos und sorgt für extrem hohe Conversion‑Rates. Ihre Provision erhalten Sie auf die Add‑Ons und weiterführenden Angebote , die sich perfekt an das Interesse des Lesers anschließen – mit bis zu 50 % Umsatzbeteiligung . Ihre Vorteile als Affiliate: – Kostenloses Hauptprodukt = einfache Werbung & hohe Reichweite – Automatische Provision auf alle Add‑On‑Sales (50 %) – Professionelles Funnel‑System, das für Sie verkauft – Ideal für Einsteiger, Business‑ und Erfolgs‑Zielgruppen Wer dieses eBook liest, will anschließend mehr. Promoten Sie jetzt mit minimalem Aufwand ein hochwertiges Angebot mit maximalem Vertriebsnutzen.
 
 ## 2. Links
 

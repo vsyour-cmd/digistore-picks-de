@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Als Affiliate bekommst du 50% Provision!</strong></p>
-<p>Das tägliche Kochen im Home-Office ist ein brandaktuelles Thema.</p>
-<p>Das EBook (58 Seiten) enthält <strong>40 Rezepte</strong>, jeweils mit Foto und Nährwertangabe. Außerdem gibt es Tipps&amp;Tricks für ein leichtes (Koch-)Leben. </p>
-<p>Die Rezepte sind</p>
-<ul>
-<li>schnell zubereitet (max. 30 min.)</li>
-<li>glutenfrei</li>
-<li>ohne Zucker</li>
-<li>voller Nährstoffe</li>
-<li>ungewöhnlich</li>
-<li>vorwiegend vegetarisch, leicht in eine vegane Form abwandelbar</li>
-<li>kindergeeigent, da Gemüse versteckt und vor allem mit Obst gesüßt wird</li>
-</ul>
-<p>Das EBook kostet €14,90.</p>
-<p>Du bekommst für jeden Verkauf des EBooks über deinen Affiliate-Link €5,87.</p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Als Affiliate bekommst du 50% Provision! Das tägliche Kochen im Home-Office ist ein brandaktuelles Thema. Das EBook (58 Seiten) enthält 40 Rezepte , jeweils mit Foto und Nährwertangabe. Außerdem gibt es Tipps&Tricks für ein leichtes (Koch-)Leben. Die Rezepte sind schnell zubereitet (max. 30 min.) glutenfrei ohne Zucker voller Nährstoffe ungewöhnlich vorwiegend vegetarisch, leicht in eine vegane Form abwandelbar kindergeeigent, da Gemüse versteckt und vor allem mit Obst gesüßt wird Das EBook kostet €14,90. Du bekommst für jeden Verkauf des EBooks über deinen Affiliate-Link €5,87.
 
 ## 2. Links
 

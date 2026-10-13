@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das ist die mächtigste Social-Media-Kooperation, die der deutschsprachige Raum jemals gesehen hat.</strong></p>
-<p>Wenn die <strong>TikTok-Ikone Social Media Buddy</strong>, der den Algorithmus nicht nur versteht, sondern <strong>dominiert</strong>, mit <strong>Bora Imren</strong>, einem der erfahrensten Online-Marketer Deutschlands mit über <strong>20 Jahren Erfahrung</strong>, CapCut-Mastery und verkaufspsychologischer Perfektion, zusammenkommt – dann entsteht etwas, das sofort klar macht:</p>
-<p> </p>
+**Vendor's marketplace description:** Das ist die mächtigste Social-Media-Kooperation, die der deutschsprachige Raum jemals gesehen hat. Wenn die TikTok-Ikone Social Media Buddy , der den Algorithmus nicht nur versteht, sondern dominiert , mit Bora Imren , einem der erfahrensten Online-Marketer Deutschlands mit über 20 Jahren Erfahrung , CapCut-Mastery und verkaufspsychologischer Perfektion, zusammenkommt – dann entsteht etwas, das sofort klar macht:
 
 ## 2. Links
 

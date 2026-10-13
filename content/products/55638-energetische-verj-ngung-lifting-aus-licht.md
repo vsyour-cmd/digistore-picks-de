@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong> Hochwertiger Video-Kurs mit Mitgliederbereich</strong></p>
-<p>Energetische Selbstanwendung</p>
-<p>Der Kurs läuft über eine optimierte Salespage mit integriertem Funnel-System  </p>
-<p>Zielgruppe: Frauen 45+, spirituell offen, interessiert an energetischer Verjüngung ohne kosmetische Eingriffe</p>
+**Vendor's marketplace description:** Hochwertiger Video-Kurs mit Mitgliederbereich Energetische Selbstanwendung Der Kurs läuft über eine optimierte Salespage mit integriertem Funnel-System Zielgruppe: Frauen 45+, spirituell offen, interessiert an energetischer Verjüngung ohne kosmetische Eingriffe
 
 ## 2. Links
 

@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Reklamation leicht gemacht – Ratgeber mit Reklamations-Generator</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Der Ratgeber erklärt die Rechte bei Mängeln, Widerruf, Garantie und Lieferverzug. Der <strong>Reklamations-Generator</strong> rechnet die Fristen aus und schreibt sieben Briefe, von der Mängelanzeige bis zum Rücktritt.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Käufer mit defekter Ware</li>
-<li>Online-Käufer, die zurückschicken wollen</li>
-<li>Verbraucher, die vom Händler abgewimmelt werden</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Ein Gerät ist kaputt oder die Lieferung kommt nicht</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Kündigung, Betrug erkennen, Schulden und Inkasso) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Reklamation leicht gemacht – Ratgeber mit Reklamations-Generator Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Der Ratgeber erklärt die Rechte bei Mängeln, Widerruf, Garantie und Lieferverzug. Der Reklamations-Generator rechnet die Fristen aus und schreibt sieben Briefe, von der Mängelanzeige bis zum Rücktritt. Die Zielgruppe Käufer mit defekter Ware Online-Käufer, die zurückschicken wollen Verbraucher, die vom Händler abgewimmelt werden Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Ein Gerät ist kaputt oder die Lieferung kommt nicht Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Kündigung, Betrug erkennen, Schulden und Inkasso) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

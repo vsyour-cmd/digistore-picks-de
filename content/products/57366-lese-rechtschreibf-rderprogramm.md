@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die Schreibstark®- Hefte (Anleitungs- und Übungsheft) helfen Kindern von 7-17 Jahren bei Lese-Rechtschreibschwierigkeiten. Sie basieren auf der Methode der Lexosophie und bilden die Basis für korrekte Dopplung und Dehnung. </p>
-<p>Das Anleitungsheft zeigt ausführlichst, wie das Übungsheft bearbeitet wird.</p>
+**Vendor's marketplace description:** Die Schreibstark®- Hefte (Anleitungs- und Übungsheft) helfen Kindern von 7-17 Jahren bei Lese-Rechtschreibschwierigkeiten. Sie basieren auf der Methode der Lexosophie und bilden die Basis für korrekte Dopplung und Dehnung. Das Anleitungsheft zeigt ausführlichst, wie das Übungsheft bearbeitet wird.
 
 ## 2. Links
 

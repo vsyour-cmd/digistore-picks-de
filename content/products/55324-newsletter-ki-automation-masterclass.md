@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Newsletter KI-Automation Masterclass</h1>
-<p>Erstelle deinen Newsletter in 90 Minuten statt 8 Stunden</p>
-<p> </p>
-<h2>Warum dieser Kurs?</h2>
-<p>Nicht einfach "ChatGPT, schreib mir was" – sondern ein kompletter Workflow inkl. Automation.</p>
-<p><strong>Das Problem:</strong> 90% scheitern an API-Keys, n8n-Setup und Workflow-Konfiguration.</p>
-<p><strong>Unsere Lösung:</strong> Wir zeigen dir alles Schritt-für-Schritt. Einfach mitklicken. Fertig.</p>
-<p> </p>
-<h2>Was du bekommst</h2>
-<p><br /><strong>PRAXIS PAKET (Wert: 1.221€):</strong></p>
-<ul>
-<li>4+ Stunden Video-Material – kompakt &amp; praxisnah (Wert 497€)</li>
-<li>n8n-Workflows Schritt-für-Schritt erklärt (unbezahlbar)</li>
-<li>Templates &amp; Checklisten für deinen Workflow (Wert 147€)</li>
-<li>7 n8n Blueprints (Wert 197€)</li>
-<li>Bonus: KI-Agenten Prompt-Bibliothek (Wert 97 €)</li>
-<li>Bonus: 6 Monate Community-Zugang (Wert 234€)</li>
-<li>Bonus: Pre-Flight Checkliste (Wert 49€)</li>
-</ul>
-<p> </p>
-<h2>Für wen?</h2>
-<p>Selbstständige, Coaches, Berater, Unternehmer – alle, die ihren Newsletter nicht mehr stundenlang von Hand erstellen wollen.</p>
-<p> </p>
-<p><strong>Keine Tech-Vorkenntnisse nötig.</strong> Wenn du ChatGPT öffnen kannst, reicht das.</p>
+**Vendor's marketplace description:** Newsletter KI-Automation Masterclass Erstelle deinen Newsletter in 90 Minuten statt 8 Stunden Warum dieser Kurs? Nicht einfach "ChatGPT, schreib mir was" – sondern ein kompletter Workflow inkl. Automation. Das Problem: 90% scheitern an API-Keys, n8n-Setup und Workflow-Konfiguration. Unsere Lösung: Wir zeigen dir alles Schritt-für-Schritt. Einfach mitklicken. Fertig. Was du bekommst PRAXIS PAKET (Wert: 1.221€): 4+ Stunden Video-Material – kompakt & praxisnah (Wert 497€) n8n-Workflows Schritt-für-Schritt erklärt (unbezahlbar) Templates & Checklisten für deinen Workflow (Wert 147€) 7 n8n Blueprints (Wert 197€) Bonus: KI-Agenten Prompt-Bibliothek (Wert 97 €) Bonus: 6 Monate Community-Zugang (Wert 234€) Bonus: Pre-Flight Checkliste (Wert 49€) Für wen? Selbstständige, Coaches, Berater, Unternehmer – alle, die ihren Newsletter nicht mehr stundenlang von Hand erstellen wollen. Keine Tech-Vorkenntnisse nötig. Wenn du ChatGPT öffnen kannst, reicht das.
 
 ## 2. Links
 

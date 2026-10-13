@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Jahresmitgliedschaft im <strong>Kontaktfluss Inner Circle </strong>für den Bereich Network Marketing/Direktvertrieb mit folgenden Inhalten:<br /><br /></p>
-<h4><strong>2 LIVE Gruppen-Zoomcalls pro Monat mit Marcel Renner</strong></h4>
-<ul>
-<li><strong>Mittwoch alle 2 Wochen</strong> <strong>um 20:00</strong> <br />(in den geraden Kalenderwochen).</li>
-<li><strong>Dauer pro Call:</strong> <br />ca. 1 Stunde.</li>
-<li><strong>Inhalt der Live Calls:</strong><br />Content zum Thema Network Marketing &amp; Direktvertrieb / Vertiefung relevanter Fähigkeiten / Richtiger Social Media Auftritt und tägliche Arbeitsmethodik / Generieren neuer Kontakte / Einladen und Führen von Präsentationen / Behandlung von Einwänden / Führung und Duplikation / Leadership / mentale Einstellung im Unternehmertum / Selbstorganisation und Zeitmanagement.<br /><br /></li>
-</ul>
-<h4><strong>Begleitende E-Learning Plattform mit Videos über 15 Stunden zu folgenden Schwerpunkten</strong></h4>
-<ul>
-<li>Verständnis des <strong>Berufsbildes Network Marketing</strong>.</li>
-<li><strong>Setup</strong> und nebenberufliches <strong>Zeitmanagement </strong>für effizientes Arbeiten.</li>
-<li><strong>Mindset &amp; persönliche Entwicklung: </strong>Die wichtigsten mentalen Durchbrüche vom Bitsteller zum Chancengeber.</li>
-<li>Richtige <strong>Zielsetzung</strong> und <strong>tägliche Arbeitsmethodik.<br /></strong></li>
-<li><strong>Generieren von unlimitierten Kontakten</strong> offline und über Social Media.<strong><br /></strong></li>
-<li><strong>Die Schlüsselfähigkeit Einladen:</strong> Gespräche in neugiereige Interessenten verwandeln. Konkrete Wordings und Leitfäden zum eigenen Download.</li>
-<li><strong>Selbstbewusste Kommunikation</strong>: Network Marketing on point erklären durch fesselndes Storytelling und einen präzisen Elevator Pitch. </li>
-<li><strong>Closing &amp; Abschluss<br /></strong>Basics und Leitfäden zum Abschluss neuer Kunden &amp; Vertriebspartner.</li>
-</ul>
-<p> </p>
-<p><span style="color:#999999;"><strong>Hinweis:</strong></span><br /><span style="color:#999999;">Diese Dienstleistung ist kein Fernunterricht im Sinne des FernUSG. Es gibt keinen festen Lehrplan, keine Lernerfolgskontrollen und es werden keine Lernziele vereinbart. Die Livecalls machen mit rund 66% der Zeit den Hauptteil unserer Leistung aus. Der ergänzende Zugang zu unserer Online-Video-Plattform ist eine unabhängige Zusatzleistung, die im eigenen Tempo angesehen werden kann. Fragen zu den Inhalten dieser Videoplattform sind kein Bestandteil der Beratungsgespräche.</span></p>
+**Vendor's marketplace description:** Jahresmitgliedschaft im Kontaktfluss Inner Circle für den Bereich Network Marketing/Direktvertrieb mit folgenden Inhalten: 2 LIVE Gruppen-Zoomcalls pro Monat mit Marcel Renner Mittwoch alle 2 Wochen um 20:00 (in den geraden Kalenderwochen). Dauer pro Call: ca. 1 Stunde. Inhalt der Live Calls: Content zum Thema Network Marketing & Direktvertrieb / Vertiefung relevanter Fähigkeiten / Richtiger Social Media Auftritt und tägliche Arbeitsmethodik / Generieren neuer Kontakte / Einladen und Führen von Präsentationen / Behandlung von Einwänden / Führung und Duplikation / Leadership / mentale Einstellung im Unternehmertum / Selbstorganisation und Zeitmanagement. Begleitende E-Learning Plattform mit Videos über 15 Stunden zu folgenden Schwerpunkten Verständnis des Berufsbildes Network Marketing . Setup und nebenberufliches Zeitmanagement für effizientes Arbeiten. Mindset & persönliche Entwicklung: Die wichtigsten mentalen Durchbrüche vom Bitsteller zum Chancengeber. Richtige Zielsetzung und tägliche Arbeitsmethodik. Generieren von unlimitierten Kontakten offline und über Social Media. Die Schlüsselfähigkeit Einladen: Gespräche in neugiereige Interessenten verwandeln. Konkrete Wordings und Leitfäden zum eigenen Download. Selbstbewusste Kommunikation : Network Marketing on point erklären durch fesselndes Storytelling und einen präzisen Elevator Pitch. Closing & Abschluss Basics und Leitfäden zum Abschluss neuer Kunden & Vertriebspartner. Hinweis: Diese Dienstleistung ist kein Fernunterricht im Sinne des FernUSG. Es gibt keinen festen Lehrplan, keine Lernerfolgskontrollen und es werden keine Lernziele vereinbart. Die Livecalls machen mit rund 66% der Zeit den Hauptteil unserer Leistung aus. Der ergänzende Zugang zu unserer Online-Video-Plattform ist eine unabhängige Zusatzleistung, die im eigenen Tempo angesehen werden kann. Fragen zu den Inhalten dieser Videoplattform sind kein Bestandteil der Beratungsgespräche.
 
 ## 2. Links
 

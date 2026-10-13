@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><em><span style="color:#ff0000;">NEU - MAGIC PROFIT 2.0</span></em><br /></strong><br /><strong>50% Provision auf das Frontend Produkt - 50% Provision auf die Upsells.</strong></p>
-<p><strong><span style="background-color:#ffff00;">Bis zu 345 Euro Provision</span> sind im Funnel für dich möglich + durch das Abo monatlich weitere Provisionen.</strong></p>
-<p><strong>Deine Vorteile:</strong></p>
-<ul>
-<li>Ideales Produkt für jeden der Online Geld verdienen möchte</li>
-<li>Conversionsstarke VSL</li>
-<li>Die Verkaufs- und Upsellseiten werden stetig auf Conversion optimiert.</li>
-</ul>
-<p>Von den E-Mail Vorlagen bis hin zu Werbebildern ist alles für dich vorbereitet.</p>
-<p><span style="color:#3366ff;"><a style="color:#3366ff;" href="https://magicprofit.funnelcockpit.com/partnerprogramm/" target="_blank" rel="noreferrer noopener">&gt;&gt;Hier klicken für die Werbemittel&lt;&lt;</a></span></p>
+**Vendor's marketplace description:** NEU - MAGIC PROFIT 2.0 50% Provision auf das Frontend Produkt - 50% Provision auf die Upsells. Bis zu 345 Euro Provision sind im Funnel für dich möglich + durch das Abo monatlich weitere Provisionen. Deine Vorteile: Ideales Produkt für jeden der Online Geld verdienen möchte Conversionsstarke VSL Die Verkaufs- und Upsellseiten werden stetig auf Conversion optimiert. Von den E-Mail Vorlagen bis hin zu Werbebildern ist alles für dich vorbereitet. >>Hier klicken für die Werbemittel<<
 
 ## 2. Links
 

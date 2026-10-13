@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><span style="color:#ff9900;"><span style="color:#ff6600;">Die Neuheit für Fußball-Trainer</span> ⚽️</span></h4>
-<p>Mit diesem Online <strong>Scoring-Tool</strong> können Fußball-Trainer die fußballerischen Talente ihrer Spieler einfach online bewerten.</p>
-<p>Hier kannst du die &gt; <span style="color:#3366ff;"><a style="color:#3366ff;" href="https://talentscore.de/spieler-scoring/" target="_blank" rel="noreferrer noopener">Free-Version</a></span> selbst testen.</p>
-<p> </p>
-<h3>Dein Verdienst:</h3>
-<p> </p>
-<p><strong>- 25% Provision</strong> auf alle unsere Produkte, egal welches Produkt durch deine Empfehlung gekauft wird</p>
-<p><strong>- plus weitere 10%</strong> <strong>Zweistufen-Provisionen</strong> auf die Verkäufe deiner Werbe-Partner, die du als deine Affiliates gewinnst</p>
-<p>- <strong>Werbemittel</strong> und Text-Vorlagen findest du hier <span style="color:#3366ff;"><a style="color:#3366ff;" href="https://www.digistore24-app.com/account/partnerarea/1043952" target="_blank" rel="noreferrer noopener">&gt; Affiliate-Support-Seite</a></span></p>
-<p> </p>
-<h3>Details zum Produkt:</h3>
-<hr />
-<h4> </h4>
-<h4><strong><span style="color:#ff9900;">Spieler Scoring 5D Expert</span></strong></h4>
-<p>- Das Scoring Tool bewertet <strong>53 fußballerische </strong><strong>+ 77 menschliche</strong><span style="color:#ff6600;"> </span>Fähigkeiten.</p>
-<p>- Anhand dieser 130 Talent-Faktoren wird die <span style="color:#ff9900;"><strong>Talent Performance</strong></span> eines Fussballspielers berechnet.</p>
-<p>- Als Ergebnis erhält man ein <strong>Spieler-Profil</strong> unterteilt in 18 Kategorien, die für einen Fußballer am relevantesten sind.</p>
-<hr />
-<p> </p>
-<p><strong>Das Produkt ist ideal für:</strong></p>
-<p>- Fußball-Trainer, Lehrer<br />- Coaches<br />- Berater<br />- Scouts<br />- Fußball-Akademien </p>
-<p> </p>
-<p><span style="color:#339966;"><strong>&gt; Promote jetzt</strong> </span>und werde Teil unserer Erfolgsstory.</p>
+**Vendor's marketplace description:** Die Neuheit für Fußball-Trainer ⚽️ Mit diesem Online Scoring-Tool können Fußball-Trainer die fußballerischen Talente ihrer Spieler einfach online bewerten. Hier kannst du die > Free-Version selbst testen. Dein Verdienst: - 25% Provision auf alle unsere Produkte, egal welches Produkt durch deine Empfehlung gekauft wird - plus weitere 10% Zweistufen-Provisionen auf die Verkäufe deiner Werbe-Partner, die du als deine Affiliates gewinnst - Werbemittel und Text-Vorlagen findest du hier > Affiliate-Support-Seite Details zum Produkt: Spieler Scoring 5D Expert - Das Scoring Tool bewertet 53 fußballerische + 77 menschliche Fähigkeiten. - Anhand dieser 130 Talent-Faktoren wird die Talent Performance eines Fussballspielers berechnet. - Als Ergebnis erhält man ein Spieler-Profil unterteilt in 18 Kategorien, die für einen Fußballer am relevantesten sind. Das Produkt ist ideal für: - Fußball-Trainer, Lehrer - Coaches - Berater - Scouts - Fußball-Akademien > Promote jetzt und werde Teil unserer Erfolgsstory.
 
 ## 2. Links
 

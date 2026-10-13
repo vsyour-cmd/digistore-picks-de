@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Suchbegriff "Geld verdienen" ist einer der meisten in den Sozialen Medien. Ähnlich verhält es sich mit "Finanzielle Freiheit".</p>
-<p>Deshalb habe ich dieses Buch geschrieben, weil ebenfalls überall im Internet für das erfolgreiche Trading geworben wird.</p>
-<p>Im Gegensatz aber zu vielen allgemeinen Darstellungen zu diesen Themen in Büchern oder (überteuerten) Online-Kursen gebe ich in einer ausführlichen Beschreibung, jederzeit logisch nachvollziehbar, mit vielen Bildern, Tabellen, Hinweisen und Gewinn-Nachweisen einen jederzeit nachschlagbaren und stets aktuellen Leitfaden zum Geldverdienen.   </p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Der Suchbegriff "Geld verdienen" ist einer der meisten in den Sozialen Medien. Ähnlich verhält es sich mit "Finanzielle Freiheit". Deshalb habe ich dieses Buch geschrieben, weil ebenfalls überall im Internet für das erfolgreiche Trading geworben wird. Im Gegensatz aber zu vielen allgemeinen Darstellungen zu diesen Themen in Büchern oder (überteuerten) Online-Kursen gebe ich in einer ausführlichen Beschreibung, jederzeit logisch nachvollziehbar, mit vielen Bildern, Tabellen, Hinweisen und Gewinn-Nachweisen einen jederzeit nachschlagbaren und stets aktuellen Leitfaden zum Geldverdienen.
 
 ## 2. Links
 

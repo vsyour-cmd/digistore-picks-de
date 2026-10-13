@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In diesem Videotraining erlernst du die Techniken dieser 3 schnellen Hochsteckfrisuren, die du einfach nachstecken und kreativ umwandeln kannst.</p>
-<p>Mit diesen Frisuren möchte ich dir zeigen, dass es auch ohne viel Aufwand und lästiges Vorarbeiten möglich, ist schnell und einfach lang haltende Frisuren zu kreieren. Die richtige Technik und die passende Produktwahl sorgt für lockere und haltbare Frisuren, die oft ohne oder nur mit wenig Einsatz von Lockenstab oder Glätteisen erzielt werden können. Mein Ziel für dich ist es, dass du sicherer und einfallsreicher im Hochstecken wirst und bei Hochzeitsgesellschaften mehr Gaststylings in kürzerer Zeit annehmen und umsetzen kannst.</p>
+**Vendor's marketplace description:** In diesem Videotraining erlernst du die Techniken dieser 3 schnellen Hochsteckfrisuren, die du einfach nachstecken und kreativ umwandeln kannst. Mit diesen Frisuren möchte ich dir zeigen, dass es auch ohne viel Aufwand und lästiges Vorarbeiten möglich, ist schnell und einfach lang haltende Frisuren zu kreieren. Die richtige Technik und die passende Produktwahl sorgt für lockere und haltbare Frisuren, die oft ohne oder nur mit wenig Einsatz von Lockenstab oder Glätteisen erzielt werden können. Mein Ziel für dich ist es, dass du sicherer und einfallsreicher im Hochstecken wirst und bei Hochzeitsgesellschaften mehr Gaststylings in kürzerer Zeit annehmen und umsetzen kannst.
 
 ## 2. Links
 

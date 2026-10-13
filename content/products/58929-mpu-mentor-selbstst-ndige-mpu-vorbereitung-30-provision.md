@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>MPU Mentor – Vorbereitung auf die Medizinisch-Psychologische Untersuchung</strong></p>
-<p>MPU Mentor ist ein strukturierter Online-Videokurs, der Betroffene auf die MPU vorbereitet – nicht mit auswendig gelernten Musterantworten, sondern mit einem klaren Verständnis dafür, wie Gutachter Aussagen tatsächlich bewerten.</p>
-<p><strong>Warum sich das Bewerben lohnt:</strong></p>
-<ul>
-<li>30% Affiliate-Provision pro Verkauf</li>
-<li>Konstante Nachfrage: Jährlich müssen in Deutschland zehntausende Menschen eine MPU absolvieren – das Thema ist zeitlos und nicht saisonabhängig</li>
-<li>Klare Zielgruppe: Menschen, die konkret nach Hilfe suchen, keine vage Interessentengruppe</li>
-<li>12 Monate Zugang für die Kunden, kein wiederkehrender Support-Aufwand für dich als Affiliate</li>
-</ul>
-<p>Ob du im Bereich Führerschein/Verkehrsrecht content-erstellst, eine Reichweite im Bereich Persönlichkeitsentwicklung/Psychologie hast, oder das Produkt über andere Kanäle bewirbst – jeder, der eine passende Zielgruppe erreicht, ist willkommen.</p>
+**Vendor's marketplace description:** MPU Mentor – Vorbereitung auf die Medizinisch-Psychologische Untersuchung MPU Mentor ist ein strukturierter Online-Videokurs, der Betroffene auf die MPU vorbereitet – nicht mit auswendig gelernten Musterantworten, sondern mit einem klaren Verständnis dafür, wie Gutachter Aussagen tatsächlich bewerten. Warum sich das Bewerben lohnt: 30% Affiliate-Provision pro Verkauf Konstante Nachfrage: Jährlich müssen in Deutschland zehntausende Menschen eine MPU absolvieren – das Thema ist zeitlos und nicht saisonabhängig Klare Zielgruppe: Menschen, die konkret nach Hilfe suchen, keine vage Interessentengruppe 12 Monate Zugang für die Kunden, kein wiederkehrender Support-Aufwand für dich als Affiliate Ob du im Bereich Führerschein/Verkehrsrecht content-erstellst, eine Reichweite im Bereich Persönlichkeitsentwicklung/Psychologie hast, oder das Produkt über andere Kanäle bewirbst – jeder, der eine passende Zielgruppe erreicht, ist willkommen.
 
 ## 2. Links
 

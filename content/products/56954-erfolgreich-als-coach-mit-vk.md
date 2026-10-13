@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du Expertenpositionierung und VK-Communities nutzt, um planbar Kunden im russischsprachigen Markt zu gewinnen</strong></p>
-<p>Als Coach, der die GUS-Diaspora oder osteuropäische Kunden ansprechen will, ist VK dein stärkster Hebel – wenn du die Plattform richtig verstehst. Dieses E-Book zeigt dir, wie du über VK-Gruppen, Beiträge und den integrierten Messenger ein Vertrauensverhältnis aufbaust, das planbar zu Erstgesprächen führt. Du lernst, wie du in bestehenden Communities Autorität aufbaust ohne aufdringlich zu wirken, eigene Gruppen als Funnelkanal nutzt und VK-Artikel für tiefgehenden Mehrwert-Content einsetzt. Dazu: wie du VK-Werbung für Coaching-Angebote gezielt schaltest und welche kulturellen Besonderheiten osteuropäischer Zielgruppen du kennen musst, um Vertrauen zu gewinnen. Ein System, das nicht auf Zufälle setzt, sondern auf Struktur, Nähe und Kontinuität.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Positionierung als Experte in VK-Communities ohne Spam-Wirkung</li>
-<li>Eigene VK-Gruppe als Funnel für Coaching-Kunden aufbauen</li>
-<li>VK-Artikel und Long-Form-Content für Vertrauen und Autorität nutzen</li>
-<li>Den VK-Messenger als Erstgespräch-Kanal professionell einsetzen</li>
-<li>VK Ads für Coaching-Angebote schalten – Budget-effizient und zielgenau</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du Expertenpositionierung und VK-Communities nutzt, um planbar Kunden im russischsprachigen Markt zu gewinnen Als Coach, der die GUS-Diaspora oder osteuropäische Kunden ansprechen will, ist VK dein stärkster Hebel – wenn du die Plattform richtig verstehst. Dieses E-Book zeigt dir, wie du über VK-Gruppen, Beiträge und den integrierten Messenger ein Vertrauensverhältnis aufbaust, das planbar zu Erstgesprächen führt. Du lernst, wie du in bestehenden Communities Autorität aufbaust ohne aufdringlich zu wirken, eigene Gruppen als Funnelkanal nutzt und VK-Artikel für tiefgehenden Mehrwert-Content einsetzt. Dazu: wie du VK-Werbung für Coaching-Angebote gezielt schaltest und welche kulturellen Besonderheiten osteuropäischer Zielgruppen du kennen musst, um Vertrauen zu gewinnen. Ein System, das nicht auf Zufälle setzt, sondern auf Struktur, Nähe und Kontinuität. Das steckt drin: Positionierung als Experte in VK-Communities ohne Spam-Wirkung Eigene VK-Gruppe als Funnel für Coaching-Kunden aufbauen VK-Artikel und Long-Form-Content für Vertrauen und Autorität nutzen Den VK-Messenger als Erstgespräch-Kanal professionell einsetzen VK Ads für Coaching-Angebote schalten – Budget-effizient und zielgenau Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

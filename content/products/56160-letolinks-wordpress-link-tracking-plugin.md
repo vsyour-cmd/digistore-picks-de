@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>LetoLinks ist ein WordPress-Plugin für Link-Tracking und URL-Management – entwickelt speziell für den deutschsprachigen Markt. Deine Besucher können kostenlos starten und upgraden, wenn sie den Mehrwert sehen. Das senkt die Hemmschwelle und erhöht deine Conversion-Rate als Affiliate.</p>
+**Vendor's marketplace description:** LetoLinks ist ein WordPress-Plugin für Link-Tracking und URL-Management – entwickelt speziell für den deutschsprachigen Markt. Deine Besucher können kostenlos starten und upgraden, wenn sie den Mehrwert sehen. Das senkt die Hemmschwelle und erhöht deine Conversion-Rate als Affiliate.
 
 ## 2. Links
 

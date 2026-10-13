@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>GIRA X1 Videokurs "Programmierung in 2 Stunden"</h3>
-<div>
-<p>ist der Videokurs, der dich dauerhaft von <strong>Programmierern und GIRA-Systemintegratoren</strong> <strong>unabhängig macht</strong> und dir ermöglicht, mit geringstmöglichem Zeitaufwand jedes Wohnhaus/Wohnung mit GIRA X1 selbst zu programmieren und in Betrieb zu nehmen.</p>
-<ul>
-<li><strong>Bauherren und Elektriker</strong>, die schnell ein „Haus/Wohnung“ per GIRA X1 steuern wollen</li>
-<li>Bauherren, die <strong>viel Zeit und Geld sparen</strong> und die Gira Smart Home <strong>Visualisierung auf Tablet/Smartphone/Touchscreen</strong> einrichten wollen</li>
-<li><strong>Interessenten ohne Vorkenntnisse</strong>, die am PC mit der kostenlosen GIRA <strong>GPA Software</strong> alles selbst einrichten und programmieren</li>
-</ul>
-<p> </p>
-</div>
+**Vendor's marketplace description:** GIRA X1 Videokurs "Programmierung in 2 Stunden" ist der Videokurs, der dich dauerhaft von Programmierern und GIRA-Systemintegratoren unabhängig macht und dir ermöglicht, mit geringstmöglichem Zeitaufwand jedes Wohnhaus/Wohnung mit GIRA X1 selbst zu programmieren und in Betrieb zu nehmen. Bauherren und Elektriker , die schnell ein „Haus/Wohnung“ per GIRA X1 steuern wollen Bauherren, die viel Zeit und Geld sparen und die Gira Smart Home Visualisierung auf Tablet/Smartphone/Touchscreen einrichten wollen Interessenten ohne Vorkenntnisse , die am PC mit der kostenlosen GIRA GPA Software alles selbst einrichten und programmieren
 
 ## 2. Links
 

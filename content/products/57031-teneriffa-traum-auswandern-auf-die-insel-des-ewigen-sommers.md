@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Teneriffa-Traum: Auswandern auf die Insel des ewigen Sommers"</strong></p>
-<p>Grüne Berge im Norden, Sonne satt im Süden, der Teide über allem: Dieser Ratgeber nimmt dich mit auf Teneriffa und zeigt dir, wo und wie sich auf der Insel gut leben lässt.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe: Auswandern auf die Kanaren</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Die zwei Gesichter Teneriffas verstehen (Norden vs. Süden)</li>
-<li>Den grünen Norden mit La Laguna und Puerto de la Cruz kennenlernen</li>
-<li>Den sonnigen Süden um Costa Adeje und Los Cristianos entdecken</li>
-<li>Die passende Region für dein Leben finden</li>
-<li>Mit einem klaren Plan auf die Insel umziehen</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Auswanderungs-Interessierte, Kanaren-/Teneriffa-Fans, Reise- und Expat-Zielgruppen</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Teneriffa-Traum: Auswandern auf die Insel des ewigen Sommers" Grüne Berge im Norden, Sonne satt im Süden, der Teide über allem: Dieser Ratgeber nimmt dich mit auf Teneriffa und zeigt dir, wo und wie sich auf der Insel gut leben lässt. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe: Auswandern auf die Kanaren Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Die zwei Gesichter Teneriffas verstehen (Norden vs. Süden) Den grünen Norden mit La Laguna und Puerto de la Cruz kennenlernen Den sonnigen Süden um Costa Adeje und Los Cristianos entdecken Die passende Region für dein Leben finden Mit einem klaren Plan auf die Insel umziehen Für deine Zielgruppe: Auswanderungs-Interessierte, Kanaren-/Teneriffa-Fans, Reise- und Expat-Zielgruppen Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

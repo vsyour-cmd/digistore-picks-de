@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehle die Angebote zur Kungengewinnung von Coaching24 für Coaches und Berater. Deine Vorteile:</p>
-<ul>
-<li><span style="text-decoration:underline;">250,00 € Provision</span> für jeden Verkauf (Einzelkauf) + <span style="text-decoration:underline;">250,00 € Lifetime-Provision</span> auf Verkäufe (Abos) + <span style="text-decoration:underline;">10% wiederkehrende Zweistufen-Provisionen</span> auf die Provisionen aller deiner geworbenen Affiliates.</li>
-<li>Hohe Kaufraten im hochoptimierten Sales-Funnel.</li>
-<li><span style="text-decoration:underline;"><a>Große Auswahl optimierter Werbemittel</a>:</span> klickstarke Banner, Vorlagen für E-Mail-Texte, Videos, Blog-Beiträge und mehr für mehr Leads und Verkäufe.</li>
-<li>Schnelle und persönliche Unterstützung durch dein Affiliate-Manager.</li>
-</ul>
-<p>Besuche jetzt unsere <span style="text-decoration:underline;"><a>Affiliate Support Seite</a></span> und werde noch heute Teil unseres Partnerprgammms für Premium Affiliates!</p>
+**Vendor's marketplace description:** Empfehle die Angebote zur Kungengewinnung von Coaching24 für Coaches und Berater. Deine Vorteile: 250,00 € Provision für jeden Verkauf (Einzelkauf) + 250,00 € Lifetime-Provision auf Verkäufe (Abos) + 10% wiederkehrende Zweistufen-Provisionen auf die Provisionen aller deiner geworbenen Affiliates. Hohe Kaufraten im hochoptimierten Sales-Funnel. Große Auswahl optimierter Werbemittel : klickstarke Banner, Vorlagen für E-Mail-Texte, Videos, Blog-Beiträge und mehr für mehr Leads und Verkäufe. Schnelle und persönliche Unterstützung durch dein Affiliate-Manager. Besuche jetzt unsere Affiliate Support Seite und werde noch heute Teil unseres Partnerprgammms für Premium Affiliates!
 
 ## 2. Links
 

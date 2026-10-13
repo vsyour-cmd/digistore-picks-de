@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das RESET 6 Wochen Schulter-Mobility-Programm ist online!</p>
-<p>Mit diesem Programm machen wir Deine Schulter beweglich und stark!</p>
-<div>
-<p>Diese Inhalte erwarten Dich:</p>
-<ul><li>Strukturierter 6 Wochen Trainingsplan mit verschiedenen Intensitätsleveln</li>
-</ul><p> </p>
-<ul><li>Mehr als 30 Videos - erklärt durch Bild, Video und Ton</li>
-</ul><p> </p>
-<ul><li>60-minütiges Webinar zum Thema "Beweglich &amp; stark, Deine Schulter"</li>
-</ul><p> </p>
-<ul><li>Einfach ins eigene Training integrierbar: als Warm-Up, Cool-Down oder auch als eigenständiger Trainingsteil</li>
-</ul><p> </p>
-<ul><li>Ganzheitlicher Ansatz: Integration von Wirbelsäule, Atemdrills und Gelenksrotationen</li>
-</ul><p> </p>
-<ul><li>Kein Ablaufdatum - Einmal erworben, für immer Deins!</li>
-</ul><p> </p>
-<ul><li>Mit Vorwort von <a>Johannes Kwella</a></li>
-</ul><p> </p>
-<p>UND vielen weiteren wertvollen Inhalten!</p>
-<p> </p>
-<p>Wer mehr weiß, kann mehr bewegen.</p>
-<p>Bleib geschmeidig!</p>
-<p>Dein Mobility Coach Benni</p>
-</div>
+**Vendor's marketplace description:** Das RESET 6 Wochen Schulter-Mobility-Programm ist online! Mit diesem Programm machen wir Deine Schulter beweglich und stark! Diese Inhalte erwarten Dich: Strukturierter 6 Wochen Trainingsplan mit verschiedenen Intensitätsleveln Mehr als 30 Videos - erklärt durch Bild, Video und Ton 60-minütiges Webinar zum Thema "Beweglich & stark, Deine Schulter" Einfach ins eigene Training integrierbar: als Warm-Up, Cool-Down oder auch als eigenständiger Trainingsteil Ganzheitlicher Ansatz: Integration von Wirbelsäule, Atemdrills und Gelenksrotationen Kein Ablaufdatum - Einmal erworben, für immer Deins! Mit Vorwort von Johannes Kwella UND vielen weiteren wertvollen Inhalten! Wer mehr weiß, kann mehr bewegen. Bleib geschmeidig! Dein Mobility Coach Benni
 
 ## 2. Links
 

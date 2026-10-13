@@ -41,34 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Bewirb unsere Astro-Produkte als Affiliate und verdiene 25% Provision auf jeden erfolgreichen Verkauf.</strong></h3>
-<p>Unsere Produkte sind professionell aufgebaut, conversionoptimiert und perfekt für Zielgruppen aus den Bereichen:</p>
-<ul>
-<li>Astrologie</li>
-<li>Spiritualität</li>
-<li>Horoskope</li>
-<li>Lifestyle</li>
-<li>Persönlichkeitsentwicklung</li>
-</ul>
-<ul style="list-style-type:square;">
-<li> 25% Provision auf alle Produkte</li>
-<li> Hochwertige Astro-Produkte</li>
-<li> Digitale Produkte &amp; Abo-Angebote</li>
-<li> Professionelle Verkaufsseiten<br /><br /></li>
-</ul>
-<p><strong>Jetzt Affiliate werden und gemeinsam wachsen.</strong></p>
-<hr />
-<p> </p>
-<ul style="list-style-type:circle;">
-<li>Monats-Horoskop – 9,99 €<br />Persönliche astrologische Monatsanalyse mit Einblicken in Liebe, Energiephasen, Glückstage und persönliche Entwicklungen.<br /><br /></li>
-<li>Jahres-Horoskop – 19,99 €<br />Umfassende Jahresanalyse für Liebe, Karriere, Finanzen, Gesundheit und persönliche Entwicklung.<br /><br /></li>
-<li>Partner-Horoskop – 24,99 €<br />Astrologische Beziehungsanalyse mit Kompatibilität, Harmonievorschlägen und Zukunftstendenzen.<br /><br /></li>
-<li>Persönliche Glückszahlen – 7,99 €<br />Individuelle Glückszahlen basierend auf astrologischen und numerologischen Einflüssen.<br /><br /></li>
-<li>Premium Komplettanalyse – 39,99 €<br />Die umfangreichste persönliche Gesamtanalyse mit mehreren astrologischen Auswertungen und exklusiven Einblicken.<br /><br /></li>
-<li>Wochen-Horoskop ABO Standard – 6,99 €<br />Wöchentliche astrologische Analyse mit Glückstagen, Energiephasen und wichtigen Wochen-Tendenzen.<br /><br /></li>
-<li>Wochen-Horoskop ABO Premium – 9,99 €<br />Erweiterte Wochenanalyse inklusive Liebe, persönliche Entwicklungen und exklusivem Astro-Tipp der Woche.<br /><br /></li>
-<li>Wochen-Glückszahlen ABO – 4,99 €<br />Wöchentliche persönliche Glückszahlen inklusive Glückstage und astrologischer Zahlenkombinationen.</li>
-</ul>
+**Vendor's marketplace description:** Bewirb unsere Astro-Produkte als Affiliate und verdiene 25% Provision auf jeden erfolgreichen Verkauf. Unsere Produkte sind professionell aufgebaut, conversionoptimiert und perfekt für Zielgruppen aus den Bereichen: Astrologie Spiritualität Horoskope Lifestyle Persönlichkeitsentwicklung 25% Provision auf alle Produkte Hochwertige Astro-Produkte Digitale Produkte & Abo-Angebote Professionelle Verkaufsseiten Jetzt Affiliate werden und gemeinsam wachsen. Monats-Horoskop – 9,99 € Persönliche astrologische Monatsanalyse mit Einblicken in Liebe, Energiephasen, Glückstage und persönliche Entwicklungen. Jahres-Horoskop – 19,99 € Umfassende Jahresanalyse für Liebe, Karriere, Finanzen, Gesundheit und persönliche Entwicklung. Partner-Horoskop – 24,99 € Astrologische Beziehungsanalyse mit Kompatibilität, Harmonievorschlägen und Zukunftstendenzen. Persönliche Glückszahlen – 7,99 € Individuelle Glückszahlen basierend auf astrologischen und numerologischen Einflüssen. Premium Komplettanalyse – 39,99 € Die umfangreichste persönliche Gesamtanalyse mit mehreren astrologischen Auswertungen und exklusiven Einblicken. Wochen-Horoskop ABO Standard – 6,99 € Wöchentliche astrologische Analyse mit Glückstagen, Energiephasen und wichtigen Wochen-Tendenzen. Wochen-Horoskop ABO Premium – 9,99 € Erweiterte Wochenanalyse inklusive Liebe, persönliche Entwicklungen und exklusivem Astro-Tipp der Woche. Wochen-Glückszahlen ABO – 4,99 € Wöchentliche persönliche Glückszahlen inklusive Glückstage und astrologischer Zahlenkombinationen.
 
 ## 2. Links
 

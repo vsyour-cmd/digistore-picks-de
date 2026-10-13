@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Entdecken Sie die ultimative Lösung für Ihre Dokumentationsanforderungen: “Clickslog-Professional”. Dieses fortschrittliche Tool wurde speziell entwickelt, um Ihre Arbeit zu vereinfachen und Klick für Klick Dokumentationen mit Leichtigkeit zu erstellen.</p>
-<p><strong>Hauptmerkmale und Funktionen:</strong></p>
-<ul>
-<li><strong>Unbegrenzte Screenshots:</strong> Keine Beschränkung der Dokumentationsschritte (Screenshots). Ideal für umfassende und detaillierte Dokumentationen.</li>
-<li><strong>Optimierte Bildbearbeitung:</strong> Bearbeiten Sie Ihre Bilder direkt in optimierten Bildeditor. Nutzen Sie unbegrenzt sämtliche Werkzeuge und passen Sie Ihre Dokumentation nach Ihren Wünschen an.</li>
-<li><strong>Vielseitiger Export:</strong> Flexibilität steht im Vordergrund. Exportieren Sie Ihre Dokumentationen in verschiedenen Formaten wie Docx, PDF und HTML. Ideal für unterschiedliche Verwendungszwecke und Zielgruppen.</li>
-<li><strong>Unbegrenzte Dokumentationen:</strong> Erstellen Sie so viele Dokumentationen, wie Sie möchten.</li>
-<li><strong>Privacy Filter:</strong> Schützen Sie sensible Informationen mit unserem integrierten Privacy Filter. Ideal für Dokumentationen, die vertrauliche Daten enthalten.</li>
-<li><strong>Brandingfreie Bilder:</strong> Erhalten Sie reine, unverfälschte Bilder ohne jegliches Branding. Perfekt für professionelle Präsentationen und Berichte.</li>
-<li><strong>Eigene Dokumentationsvorlagen:</strong> Erstellen Sie Ihre eigenen Vorlagen für Dokumentationen, um den Prozess zu beschleunigen und einen einheitlichen Look zu gewährleisten.</li>
-<li><strong>Einfügen von eigenen Wasserzeichen:</strong> Schützen Sie Ihre Arbeit und fügen Sie Ihren Dokumentationen Ihr eigenes Wasserzeichen hinzu.</li>
-<li><strong>Corporate Design:</strong> Von gezeichneten Objekten im Editor über den Aufnahmerahmen während der Erstellung einer Dokumentation bis hin zum Export. Passen Sie ClicksLog an Ihr Unternehmen an!</li>
-</ul>
-<p><strong>Zusätzliche Leistungen:</strong></p>
-<ul>
-<li><strong>Kostenloser Support via Email:</strong> Bei Fragen oder Problemen steht Ihnen unser Support-Team während der gesamten Vertragslaufzeit zur Verfügung.</li>
-<li><strong>Kostenlose Updates:</strong> Profitieren Sie von regelmäßigen kostenlosen Updates und bleiben Sie immer auf dem neuesten Stand.</li>
-</ul>
-<p><br /><br />Mit Clickslog-Professional wird Dokumentation zum Kinderspiel. Nutzen Sie die umfassenden Funktionen, um Zeit zu sparen und professionelle Ergebnisse zu erzielen. Es ist das perfekte Tool für alle, die Wert auf Qualität und Effizienz legen.</p>
+**Vendor's marketplace description:** Entdecken Sie die ultimative Lösung für Ihre Dokumentationsanforderungen: “Clickslog-Professional”. Dieses fortschrittliche Tool wurde speziell entwickelt, um Ihre Arbeit zu vereinfachen und Klick für Klick Dokumentationen mit Leichtigkeit zu erstellen. Hauptmerkmale und Funktionen: Unbegrenzte Screenshots: Keine Beschränkung der Dokumentationsschritte (Screenshots). Ideal für umfassende und detaillierte Dokumentationen. Optimierte Bildbearbeitung: Bearbeiten Sie Ihre Bilder direkt in optimierten Bildeditor. Nutzen Sie unbegrenzt sämtliche Werkzeuge und passen Sie Ihre Dokumentation nach Ihren Wünschen an. Vielseitiger Export: Flexibilität steht im Vordergrund. Exportieren Sie Ihre Dokumentationen in verschiedenen Formaten wie Docx, PDF und HTML. Ideal für unterschiedliche Verwendungszwecke und Zielgruppen. Unbegrenzte Dokumentationen: Erstellen Sie so viele Dokumentationen, wie Sie möchten. Privacy Filter: Schützen Sie sensible Informationen mit unserem integrierten Privacy Filter. Ideal für Dokumentationen, die vertrauliche Daten enthalten. Brandingfreie Bilder: Erhalten Sie reine, unverfälschte Bilder ohne jegliches Branding. Perfekt für professionelle Präsentationen und Berichte. Eigene Dokumentationsvorlagen: Erstellen Sie Ihre eigenen Vorlagen für Dokumentationen, um den Prozess zu beschleunigen und einen einheitlichen Look zu gewährleisten. Einfügen von eigenen Wasserzeichen: Schützen Sie Ihre Arbeit und fügen Sie Ihren Dokumentationen Ihr eigenes Wasserzeichen hinzu. Corporate Design: Von gezeichneten Objekten im Editor über den Aufnahmerahmen während der Erstellung einer Dokumentation bis hin zum Export. Passen Sie ClicksLog an Ihr Unternehmen an! Zusätzliche Leistungen: Kostenloser Support via Email: Bei Fragen oder Problemen steht Ihnen unser Support-Team während der gesamten Vertragslaufzeit zur Verfügung. Kostenlose Updates: Profitieren Sie von regelmäßigen kostenlosen Updates und bleiben Sie immer auf dem neuesten Stand. Mit Clickslog-Professional wird Dokumentation zum Kinderspiel. Nutzen Sie die umfassenden Funktionen, um Zeit zu sparen und professionelle Ergebnisse zu erzielen. Es ist das perfekte Tool für alle, die Wert auf Qualität und Effizienz legen.
 
 ## 2. Links
 

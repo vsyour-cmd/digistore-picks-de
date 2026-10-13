@@ -41,33 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><span style="background-color:#ff99cc;"><strong>NEU AUF DEM MARKT !!!</strong></span></h3>
-<p> </p>
-<h4>Der Kurs ist perfekt für <strong>Affiliates</strong>, da er:</h4>
-<p> </p>
-<ul>
-<li>
-<h4>einen <strong>niedrigen Einstiegspreis von (149,98 €) für Kunden</strong> hat</h4>
-</li>
-<li> </li>
-<li>
-<h4><span style="background-color:#ff99cc;"><strong>50% Provision pro Verkauf</strong></span> bietet</h4>
-</li>
-<li> </li>
-<li>
-<h4><strong>sofort digital ausgeliefert</strong> wird</h4>
-</li>
-<li> </li>
-<li>
-<h4>eine <span style="background-color:#ff99cc;"><strong>hohe Conversionrate</strong></span> durch einfache Inhalte ermöglicht</h4>
-</li>
-<li> </li>
-<li>
-<h4><strong>Jeder Kunden einen kostenlosen Social Media Planer dazu bekommt</strong></h4>
-</li>
-<li> </li>
-</ul>
-<h3><span style="background-color:#ff99cc;">WENN DU ANFANGEN WILLST DANN DRÜCKE OBEN AUF Jetzt promoten</span></h3>
+**Vendor's marketplace description:** NEU AUF DEM MARKT !!! Der Kurs ist perfekt für Affiliates , da er: einen niedrigen Einstiegspreis von (149,98 €) für Kunden hat 50% Provision pro Verkauf bietet sofort digital ausgeliefert wird eine hohe Conversionrate durch einfache Inhalte ermöglicht Jeder Kunden einen kostenlosen Social Media Planer dazu bekommt WENN DU ANFANGEN WILLST DANN DRÜCKE OBEN AUF Jetzt promoten
 
 ## 2. Links
 

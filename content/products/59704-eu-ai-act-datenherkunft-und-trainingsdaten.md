@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>EU Datenherkunft und Trainingsdaten – Nachweis Compliance Pack 2026/2027</strong></p>
-<p>Dieses digitale Produkt ist ein <strong>praktisches PDF-Arbeitsheft</strong> für Unternehmen, die KI-Systeme einsetzen und Herkunft, Nutzung und Dokumentation von Trainings- und Ausgangsdaten strukturiert erfassen möchten.</p>
-<p>Das Arbeitsheft unterstützt bei typischen Aufgaben rund um <strong>EU AI Act, Datenherkunft, Trainingsdaten, Nachweise und interne KI-Dokumentation</strong>.</p>
-<p><strong>Geeignet für:</strong></p>
-<ul>
-<li>Selbstständige und KMU</li>
-<li>Unternehmen mit eigener oder externer KI-Nutzung</li>
-<li>IT-, Produkt- und Compliance-Teams</li>
-<li>Agenturen und Beratungen</li>
-<li>Verantwortliche für KI-Governance und Dokumentation</li>
-</ul>
-<p><strong>Themenschwerpunkte:</strong></p>
-<ul>
-<li>Herkunft und Nutzung von Daten dokumentieren</li>
-<li>Trainingsdaten strukturiert erfassen</li>
-<li>Datenquellen und Nachweise festhalten</li>
-<li>interne Verantwortlichkeiten definieren</li>
-<li>Risiken und offene Punkte dokumentieren</li>
-<li>Prüf- und Nachweisprozesse vorbereiten</li>
-</ul>
-<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales Arbeitsheft im PDF-Format</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
-<p>Das Arbeitsheft dient als praktische Arbeits-, Strukturierungs- und Dokumentationshilfe und ersetzt keine individuelle Rechtsberatung.</p>
-<p><strong>Verkaufspreis: 29,00 €</strong> – digitaler Sofortdownload nach dem Kauf.</p>
+**Vendor's marketplace description:** EU Datenherkunft und Trainingsdaten – Nachweis Compliance Pack 2026/2027 Dieses digitale Produkt ist ein praktisches PDF-Arbeitsheft für Unternehmen, die KI-Systeme einsetzen und Herkunft, Nutzung und Dokumentation von Trainings- und Ausgangsdaten strukturiert erfassen möchten. Das Arbeitsheft unterstützt bei typischen Aufgaben rund um EU AI Act, Datenherkunft, Trainingsdaten, Nachweise und interne KI-Dokumentation . Geeignet für: Selbstständige und KMU Unternehmen mit eigener oder externer KI-Nutzung IT-, Produkt- und Compliance-Teams Agenturen und Beratungen Verantwortliche für KI-Governance und Dokumentation Themenschwerpunkte: Herkunft und Nutzung von Daten dokumentieren Trainingsdaten strukturiert erfassen Datenquellen und Nachweise festhalten interne Verantwortlichkeiten definieren Risiken und offene Punkte dokumentieren Prüf- und Nachweisprozesse vorbereiten Wichtig: Es handelt sich ausdrücklich um ein digitales Arbeitsheft im PDF-Format und nicht um Software, einen Videokurs oder einen Mitgliederbereich. Das Arbeitsheft dient als praktische Arbeits-, Strukturierungs- und Dokumentationshilfe und ersetzt keine individuelle Rechtsberatung. Verkaufspreis: 29,00 € – digitaler Sofortdownload nach dem Kauf.
 
 ## 2. Links
 

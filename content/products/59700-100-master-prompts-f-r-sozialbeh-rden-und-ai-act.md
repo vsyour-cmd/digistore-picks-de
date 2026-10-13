@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Sozial Compliance-Kit 2026/2027 – 100 Master-Prompts für AI Act, DSGVO &amp; KI-Governance</strong></p>
-<p>Dieses digitale Compliance-Kit enthält <strong>100 direkt nutzbare Master-Prompts</strong> speziell für Sozialbehörden, Jobcenter, kommunale Träger und Organisationen des Sozialwesens.</p>
-<p>Die Inhalte unterstützen bei der strukturierten Nutzung und Dokumentation von KI sowie bei typischen Aufgaben rund um <strong>EU AI Act, DSGVO, Hochrisiko-KI und interne KI-Governance</strong>.</p>
-<p><strong>Geeignet für:</strong></p>
-<ul>
-<li>Sozialbehörden und Sozialverwaltungen</li>
-<li>Jobcenter und Leistungsstellen</li>
-<li>Jugendämter und Jugendhilfe</li>
-<li>kommunale Träger</li>
-<li>Pflege- und Sozialdienste</li>
-<li>Integrationsdienste</li>
-<li>Verwaltungs-, Datenschutz- und Compliance-Teams</li>
-</ul>
-<p><strong>Themenschwerpunkte:</strong></p>
-<ul>
-<li>KI-Risikoanalyse und Governance</li>
-<li>DSGVO und Datenschutz</li>
-<li>Hochrisiko-KI im Sozialbereich</li>
-<li>Transparenz und Nachvollziehbarkeit</li>
-<li>Dokumentation und interne Prüfprozesse</li>
-<li>Bias- und Diskriminierungsrisiken</li>
-<li>menschliche Aufsicht und Verantwortlichkeiten</li>
-<li>Checklisten, SOPs und strukturierte Arbeitsabläufe</li>
-</ul>
-<p><strong>Wichtig:</strong> Es handelt sich um ein <strong>digitales Download-Produkt mit 100 Master-Prompts und Arbeitshilfen</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
-<p>Ein spezialisiertes B2B-/B2G-Produkt für Behörden, kommunale Träger und soziale Einrichtungen, die KI einsetzen oder ihren zukünftigen KI-Einsatz strukturiert und nachvollziehbar vorbereiten möchten.</p>
+**Vendor's marketplace description:** Sozial Compliance-Kit 2026/2027 – 100 Master-Prompts für AI Act, DSGVO & KI-Governance Dieses digitale Compliance-Kit enthält 100 direkt nutzbare Master-Prompts speziell für Sozialbehörden, Jobcenter, kommunale Träger und Organisationen des Sozialwesens. Die Inhalte unterstützen bei der strukturierten Nutzung und Dokumentation von KI sowie bei typischen Aufgaben rund um EU AI Act, DSGVO, Hochrisiko-KI und interne KI-Governance . Geeignet für: Sozialbehörden und Sozialverwaltungen Jobcenter und Leistungsstellen Jugendämter und Jugendhilfe kommunale Träger Pflege- und Sozialdienste Integrationsdienste Verwaltungs-, Datenschutz- und Compliance-Teams Themenschwerpunkte: KI-Risikoanalyse und Governance DSGVO und Datenschutz Hochrisiko-KI im Sozialbereich Transparenz und Nachvollziehbarkeit Dokumentation und interne Prüfprozesse Bias- und Diskriminierungsrisiken menschliche Aufsicht und Verantwortlichkeiten Checklisten, SOPs und strukturierte Arbeitsabläufe Wichtig: Es handelt sich um ein digitales Download-Produkt mit 100 Master-Prompts und Arbeitshilfen und nicht um Software, einen Videokurs oder einen Mitgliederbereich. Ein spezialisiertes B2B-/B2G-Produkt für Behörden, kommunale Träger und soziale Einrichtungen, die KI einsetzen oder ihren zukünftigen KI-Einsatz strukturiert und nachvollziehbar vorbereiten möchten.
 
 ## 2. Links
 

@@ -41,60 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dein Traumjob passt perfekt zu dir – aber deine Bewerbung kriegt nur Absagen?</p>
-<p><em>Aha-Moment:</em> Wusstest du, dass Recruiter im Schnitt nur 6 Sekunden für den ersten Blick auf deinen Lebenslauf brauchen? Wenn du in dieser Zeit nicht überzeugst, bist du raus. Schluss mit Nächten voller „leeres Blatt“-Panik und dem Gefühl, unsichtbar zu sein.</p>
-<h3><strong>Die Probleme (Pains)</strong></h3>
-<p>Bewerben fühlt sich oft an wie ein Kampf gegen Windmühlen:</p>
-<ul>
-<li>
-<p>Du weißt nicht, wie du deine Soft Skills authentisch rüberbringst.</p>
-</li>
-<li>
-<p>Das Anschreiben klingt wie von 2010 – floskelhaft und langweilig.</p>
-</li>
-<li>
-<p>Die Angst, im Vorstellungsgespräch sprachlos zu sein, lähmt dich.</p>
-</li>
-</ul>
-<h3><strong>Die Lösung &amp; Der Nutzen (All-in-One Sorglospacket)</strong></h3>
-<p>Es ist Zeit für die Abkürzung. Das <strong>„Zeitgemäß bewerben Workbook – All-in-One“</strong> ist dein kompletter Fahrplan zum Vertrag. Wir zeigen dir, wie du modern, kompetent und mit Plan statt Panik überzeugst.</p>
-<p><strong>Dein direkter Nutzen:</strong></p>
-<ul>
-<li>
-<p><strong>90% Zeitersparnis:</strong> Exklusive KI-Prompts schreiben authentische Anschreiben für dich. Du fütterst die KI, sie liefert den Text.</p>
-</li>
-<li>
-<p><strong>Auffallen ohne Aufwand:</strong> 3 sofort umsetzbare Lebenslauf-Lösungen, damit du aus der Masse herausstichst.</p>
-</li>
-<li>
-<p><strong>Souveränität im Schlaf:</strong> 64 konkrete Antwort-Vorschläge für fiese Fragen im Vorstellungsgespräch. Nie wieder sprachlos.</p>
-</li>
-</ul>
-<h3><strong>Der Inhalt (Gliederung &amp; Transparenz)</strong></h3>
-<p>Du bekommst ein System, kein eBook:</p>
-<ol>
-<li>
-<p><strong>Moderne Selbstanalyse:</strong> Finde deine echten Stärken.</p>
-</li>
-<li>
-<p><strong>Lebenslauf-Architekt:</strong> Perfekte Struktur für das Onlinebusiness.</p>
-</li>
-<li>
-<p><strong>KI-Schreibwerkstatt:</strong> Anschreiben, die Nutzen kommunizieren.</p>
-</li>
-<li>
-<p><strong>Interview-Masterclass:</strong> Moderne Vorbereitung, auch mit KI-Power.</p>
-</li>
-<li>
-<p><strong>Der Interview-Kompass:</strong> 64 Fragen, Antworten &amp; Strategien.</p>
-</li>
-<li>
-<p><strong>Follow-up System:</strong> Die perfekte Feedback-E-Mail nach dem Gespräch.</p>
-</li>
-</ol>
-<h3><strong>Der Bundle-Vorteil (Decoy Pricing)</strong></h3>
-<p>Statt dich durch mühsam gesammelte Einzelteile zu kämpfen (Gesamtwert ~~124,40 €~~), bekommst du das komplette Sorglospacket jetzt im Einführungspreis für nur <strong>69,00 €</strong>!</p>
-<p>Hör auf zu raten, fang an zu überzeugen. Hol dir das System, das dich zum Vertrag führt!</p>
+**Vendor's marketplace description:** Dein Traumjob passt perfekt zu dir – aber deine Bewerbung kriegt nur Absagen? Aha-Moment: Wusstest du, dass Recruiter im Schnitt nur 6 Sekunden für den ersten Blick auf deinen Lebenslauf brauchen? Wenn du in dieser Zeit nicht überzeugst, bist du raus. Schluss mit Nächten voller „leeres Blatt“-Panik und dem Gefühl, unsichtbar zu sein. Die Probleme (Pains) Bewerben fühlt sich oft an wie ein Kampf gegen Windmühlen: Du weißt nicht, wie du deine Soft Skills authentisch rüberbringst. Das Anschreiben klingt wie von 2010 – floskelhaft und langweilig. Die Angst, im Vorstellungsgespräch sprachlos zu sein, lähmt dich. Die Lösung & Der Nutzen (All-in-One Sorglospacket) Es ist Zeit für die Abkürzung. Das „Zeitgemäß bewerben Workbook – All-in-One“ ist dein kompletter Fahrplan zum Vertrag. Wir zeigen dir, wie du modern, kompetent und mit Plan statt Panik überzeugst. Dein direkter Nutzen: 90% Zeitersparnis: Exklusive KI-Prompts schreiben authentische Anschreiben für dich. Du fütterst die KI, sie liefert den Text. Auffallen ohne Aufwand: 3 sofort umsetzbare Lebenslauf-Lösungen, damit du aus der Masse herausstichst. Souveränität im Schlaf: 64 konkrete Antwort-Vorschläge für fiese Fragen im Vorstellungsgespräch. Nie wieder sprachlos. Der Inhalt (Gliederung & Transparenz) Du bekommst ein System, kein eBook: Moderne Selbstanalyse: Finde deine echten Stärken. Lebenslauf-Architekt: Perfekte Struktur für das Onlinebusiness. KI-Schreibwerkstatt: Anschreiben, die Nutzen kommunizieren. Interview-Masterclass: Moderne Vorbereitung, auch mit KI-Power. Der Interview-Kompass: 64 Fragen, Antworten & Strategien. Follow-up System: Die perfekte Feedback-E-Mail nach dem Gespräch. Der Bundle-Vorteil (Decoy Pricing) Statt dich durch mühsam gesammelte Einzelteile zu kämpfen (Gesamtwert ~~124,40 €~~), bekommst du das komplette Sorglospacket jetzt im Einführungspreis für nur 69,00 € ! Hör auf zu raten, fang an zu überzeugen. Hol dir das System, das dich zum Vertrag führt!
 
 ## 2. Links
 

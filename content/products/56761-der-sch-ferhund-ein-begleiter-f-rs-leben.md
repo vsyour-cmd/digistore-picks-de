@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><em>„Der Schäferhund – Ein Begleiter fürs Leben“</em> ist ein praxisnaher Ratgeber für alle Liebhaber des Deutschen Schäferhundes. Das Buch begleitet Sie von der Auswahl des Welpen über Erziehung, Training, Ernährung und Gesundheit bis hin zum harmonischen Zusammenleben im Alltag. Mit wertvollen Tipps, verständlichen Erklärungen und fundiertem Wissen erfahren Sie, wie Sie eine starke und vertrauensvolle Bindung zu Ihrem Schäferhund aufbauen und ihm ein glückliches, artgerechtes Leben ermöglichen.</p>
-<p><strong>Ideal für Hundehalter, Familien und alle, die den Deutschen Schäferhund besser verstehen möchten.</strong></p>
+**Vendor's marketplace description:** „Der Schäferhund – Ein Begleiter fürs Leben“ ist ein praxisnaher Ratgeber für alle Liebhaber des Deutschen Schäferhundes. Das Buch begleitet Sie von der Auswahl des Welpen über Erziehung, Training, Ernährung und Gesundheit bis hin zum harmonischen Zusammenleben im Alltag. Mit wertvollen Tipps, verständlichen Erklärungen und fundiertem Wissen erfahren Sie, wie Sie eine starke und vertrauensvolle Bindung zu Ihrem Schäferhund aufbauen und ihm ein glückliches, artgerechtes Leben ermöglichen. Ideal für Hundehalter, Familien und alle, die den Deutschen Schäferhund besser verstehen möchten.
 
 ## 2. Links
 

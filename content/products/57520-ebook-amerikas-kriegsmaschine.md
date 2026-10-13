@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p><strong>Amerikas Kriegsmaschine – Macht, Innovation und globaler Einfluss</strong> beleuchtet die Entstehung und Entwicklung des militärisch-industriellen Komplexes der Vereinigten Staaten – von seinen historischen Wurzeln bis zu seiner Bedeutung im digitalen Zeitalter. Dabei werden politische, wirtschaftliche und technologische Zusammenhänge verständlich und fundiert dargestellt.</p>
-<p>Das Buch richtet sich an Leser mit Interesse an Geschichte, Geopolitik, Militär, Wirtschaft und internationaler Politik. Es zeigt, wie Rüstungsindustrie, Wissenschaft, Politik und Wirtschaft über Jahrzehnte ein globales Machtgefüge geschaffen haben, das bis heute internationale Konflikte und sicherheitspolitische Entscheidungen beeinflusst.</p>
-<p>Auf über 400 Seiten verbindet das Werk historische Ereignisse mit aktuellen Entwicklungen wie Cyberkrieg, Künstlicher Intelligenz, Raumfahrt und dem technologischen Wettstreit zwischen den USA und China. Die klare Struktur ermöglicht sowohl das fortlaufende Lesen als auch den gezielten Einstieg in einzelne Themenbereiche.</p>
-<p>Durch die Kombination aus fundierter Recherche, verständlicher Sprache und hoher Aktualität spricht das Buch eine breite Zielgruppe im Sachbuchsegment an. Die dauerhaft hohe Relevanz geopolitischer Themen und internationaler Sicherheitsfragen macht es zu einem Produkt mit ausgezeichnetem Vermarktungspotenzial für Affiliates.</p>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div> </div>
+**Vendor's marketplace description:** Amerikas Kriegsmaschine – Macht, Innovation und globaler Einfluss beleuchtet die Entstehung und Entwicklung des militärisch-industriellen Komplexes der Vereinigten Staaten – von seinen historischen Wurzeln bis zu seiner Bedeutung im digitalen Zeitalter. Dabei werden politische, wirtschaftliche und technologische Zusammenhänge verständlich und fundiert dargestellt. Das Buch richtet sich an Leser mit Interesse an Geschichte, Geopolitik, Militär, Wirtschaft und internationaler Politik. Es zeigt, wie Rüstungsindustrie, Wissenschaft, Politik und Wirtschaft über Jahrzehnte ein globales Machtgefüge geschaffen haben, das bis heute internationale Konflikte und sicherheitspolitische Entscheidungen beeinflusst. Auf über 400 Seiten verbindet das Werk historische Ereignisse mit aktuellen Entwicklungen wie Cyberkrieg, Künstlicher Intelligenz, Raumfahrt und dem technologischen Wettstreit zwischen den USA und China. Die klare Struktur ermöglicht sowohl das fortlaufende Lesen als auch den gezielten Einstieg in einzelne Themenbereiche. Durch die Kombination aus fundierter Recherche, verständlicher Sprache und hoher Aktualität spricht das Buch eine breite Zielgruppe im Sachbuchsegment an. Die dauerhaft hohe Relevanz geopolitischer Themen und internationaler Sicherheitsfragen macht es zu einem Produkt mit ausgezeichnetem Vermarktungspotenzial für Affiliates.
 
 ## 2. Links
 

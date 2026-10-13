@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Begeistere deine Follower oder Websitebesucher und erhalte 50% Provision</h2>
-<p>Das Lecker Abnehmen Komplettprogramm ist ein einzigartiges Konzept, welches den Teilnehmern ohne Diät und ohne zu hungern zu ihrer Traumfigur verhilft.</p>
-<p>Bewirb es jetzt auf deinen Social Media Kanälen und deiner Website und erhalte 50% des Kaufpreises auf dein Konto.</p>
-<p>Neben dem hochwertigen Produkt profitierst du auch von unserer stark convertierenden Landingpage und einer Stornoquote von weniger als 1,5%!</p>
-<p>Bei Fragen sende uns einfach eine E-Mail an: <a href="mailto:team@leckerabnehmen.com">team@leckerabnehmen.com</a></p>
+**Vendor's marketplace description:** Begeistere deine Follower oder Websitebesucher und erhalte 50% Provision Das Lecker Abnehmen Komplettprogramm ist ein einzigartiges Konzept, welches den Teilnehmern ohne Diät und ohne zu hungern zu ihrer Traumfigur verhilft. Bewirb es jetzt auf deinen Social Media Kanälen und deiner Website und erhalte 50% des Kaufpreises auf dein Konto. Neben dem hochwertigen Produkt profitierst du auch von unserer stark convertierenden Landingpage und einer Stornoquote von weniger als 1,5%! Bei Fragen sende uns einfach eine E-Mail an: team@leckerabnehmen.com
 
 ## 2. Links
 

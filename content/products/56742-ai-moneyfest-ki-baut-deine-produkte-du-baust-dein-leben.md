@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>**AI MONEYFEST – Das perfekte Einstiegsprodukt für deine Audience!**</p>
-<p>Das komplette AI-Automation Starter-System für nur 9,99€.</p>
-<p>**Was ist enthalten?**<br />- 8 Module (AI Money Roadmap, Produkt mit ChatGPT bauen, Funnel &amp; E-Mail Systeme, Traffic &amp; Content etc.)<br />- 6 starke Bonus Packs (50 Hooks, Prompt Vault, 100 Content Ideas, Automation Blueprint uvm.)<br />- Alles sofort einsetzbar für Reels, TikTok, Shorts &amp; digitale Produkte</p>
-<p>**Warum Affiliates lieben:**<br />- Sehr niedriger Preis → hohe Conversion Rate<br />- Aktuelles KI-Hype-Thema (sehr gefragt 2026)<br />- Perfekt als Lead-Magnet oder Einstiegsangebot<br />- Digitale Lieferung → keine Versandprobleme<br />- Hohe Kundenzufriedenheit durch praktische, sofort umsetzbare Inhalte</p>
-<p>**Provision:** [hier trägst du später z.B. 40-50% ein → 4–5 € pro Verkauf]</p>
-<p>Zielgruppe: Menschen die mit AI Geld verdienen wollen, Creator, Side-Hustler, Einsteiger im Online-Business.</p>
+**Vendor's marketplace description:** **AI MONEYFEST – Das perfekte Einstiegsprodukt für deine Audience!** Das komplette AI-Automation Starter-System für nur 9,99€. **Was ist enthalten?** - 8 Module (AI Money Roadmap, Produkt mit ChatGPT bauen, Funnel & E-Mail Systeme, Traffic & Content etc.) - 6 starke Bonus Packs (50 Hooks, Prompt Vault, 100 Content Ideas, Automation Blueprint uvm.) - Alles sofort einsetzbar für Reels, TikTok, Shorts & digitale Produkte **Warum Affiliates lieben:** - Sehr niedriger Preis → hohe Conversion Rate - Aktuelles KI-Hype-Thema (sehr gefragt 2026) - Perfekt als Lead-Magnet oder Einstiegsangebot - Digitale Lieferung → keine Versandprobleme - Hohe Kundenzufriedenheit durch praktische, sofort umsetzbare Inhalte **Provision:** [hier trägst du später z.B. 40-50% ein → 4–5 € pro Verkauf] Zielgruppe: Menschen die mit AI Geld verdienen wollen, Creator, Side-Hustler, Einsteiger im Online-Business.
 
 ## 2. Links
 

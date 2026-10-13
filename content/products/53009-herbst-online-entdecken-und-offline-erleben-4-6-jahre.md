@@ -41,34 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Herbst online entdecken und offline erleben (4–6 Jahre)</h3>
-<div> </div>
-<div>
-<p><strong>Jetzt Natur entdecken: Die Beta-Version vom Herbstkurs ist da!</strong></p>
-<p>Begleite dein Kind auf eine magische Reise durch den Herbst – mit spannenden Geschichten, kreativen Aufgaben und echten Naturabenteuern.<br />In dieser <strong>Beta-Version</strong> erhältst du den kompletten Kurs für nur <strong>27 € statt 47 €</strong>!</p>
-<p>Gibt den Code<strong> Herbstfreude</strong> ein</p>
-<p>Mit dabei:</p>
-<ul>
-<li>
-<p>4 fantasievolle Audio-Geschichten</p>
-</li>
-<li>
-<p>passendes Workbook zum Ausdrucken</p>
-</li>
-<li>
-<p>Naturaufträge, Rätsel und Malseiten</p>
-</li>
-<li>
-<p>liebevoll gestaltete Überraschungen (Rezept &amp; Bastelidee pro Modul)</p>
-</li>
-<li>
-<p>inklusive Naturspürnasen-Urkunde</p>
-</li>
-</ul>
-<p>Ideal für Kinder von 4 bis 6 Jahren und alle, die den Herbst mit offenen Augen erleben wollen.</p>
-<p><br />Du bekommst den Kurs günstiger und darfst mir im Anschluss gerne Feedback geben.</p>
-<p><strong>Nur für kurze Zeit zum Beta-Preis!</strong></p>
-</div>
+**Vendor's marketplace description:** Herbst online entdecken und offline erleben (4–6 Jahre) Jetzt Natur entdecken: Die Beta-Version vom Herbstkurs ist da! Begleite dein Kind auf eine magische Reise durch den Herbst – mit spannenden Geschichten, kreativen Aufgaben und echten Naturabenteuern. In dieser Beta-Version erhältst du den kompletten Kurs für nur 27 € statt 47 € ! Gibt den Code Herbstfreude ein Mit dabei: 4 fantasievolle Audio-Geschichten passendes Workbook zum Ausdrucken Naturaufträge, Rätsel und Malseiten liebevoll gestaltete Überraschungen (Rezept & Bastelidee pro Modul) inklusive Naturspürnasen-Urkunde Ideal für Kinder von 4 bis 6 Jahren und alle, die den Herbst mit offenen Augen erleben wollen. Du bekommst den Kurs günstiger und darfst mir im Anschluss gerne Feedback geben. Nur für kurze Zeit zum Beta-Preis!
 
 ## 2. Links
 

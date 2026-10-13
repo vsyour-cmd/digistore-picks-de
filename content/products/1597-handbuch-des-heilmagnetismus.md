@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div class="title" style="line-height:24px;font-weight:bold;font-family:arial, helvetica;font-size:14px;background-color:#f3f4f5;">Handbuch des Heilmagnetismus - als PDF-Datei / eBook<br /><span style="font-size:x-small;line-height:17px;">von Heinz Schiegl</span></div>
-<div class="description" style="font-size:13px;font-family:arial, helvetica;line-height:17px;background-color:#f3f4f5;">
-<p> </p>
-<p>Das "Handbuch des Heilmagnetismus" von Heinz Schiegl wurde von dem ehemaligen Bauer-Verlag vertrieben. Bei Amazon ist es noch gelistet aber nicht mehr erhältlich.</p>
-<p>Das Handbuch wurde überarbeitet und ohne Werbung als Ebook über Digistore24 seit einigen Jahren verkauft. Es gab keine Stornos.</p>
-<p> </p>
-</div>
+**Vendor's marketplace description:** Handbuch des Heilmagnetismus - als PDF-Datei / eBook von Heinz Schiegl Das "Handbuch des Heilmagnetismus" von Heinz Schiegl wurde von dem ehemaligen Bauer-Verlag vertrieben. Bei Amazon ist es noch gelistet aber nicht mehr erhältlich. Das Handbuch wurde überarbeitet und ohne Werbung als Ebook über Digistore24 seit einigen Jahren verkauft. Es gab keine Stornos.
 
 ## 2. Links
 

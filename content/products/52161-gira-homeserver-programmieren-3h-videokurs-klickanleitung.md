@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Gira Homeserver in 3 Stunden einrichten/programmieren</h3>
-<div>
-<p>ist der Videokurs, der dich dauerhaft von <strong>Programmierern und GIRA-Systemintegratoren</strong> <strong>unabhängig macht</strong> und dir ermöglicht, mit geringstmöglichem Zeitaufwand jedes Haus/Villa mit GIRA Homeserver selbst zu programmieren und in Betrieb zu nehmen.</p>
-<ul>
-<li><strong>Bauherren, Elektriker und Systemintegratoren</strong>, die schnell ein „Haus/Villa oder Gewerbegebäude“ per GIRA Homeserver steuern wollen</li>
-<li>Elektriker, die <strong>viel Zeit und Geld sparen</strong> und die Gira Homeserver <strong>Visualisierung auf Tablet/Smartphone/Touchscreen</strong> einrichten wollen</li>
-<li><strong>Interessenten ohne Vorkenntnisse</strong>, die am PC mit der kostenlosen GIRA Experte<strong> Software</strong> alles selbst einrichten und programmieren wollen</li>
-</ul>
-<p> </p>
-</div>
+**Vendor's marketplace description:** Gira Homeserver in 3 Stunden einrichten/programmieren ist der Videokurs, der dich dauerhaft von Programmierern und GIRA-Systemintegratoren unabhängig macht und dir ermöglicht, mit geringstmöglichem Zeitaufwand jedes Haus/Villa mit GIRA Homeserver selbst zu programmieren und in Betrieb zu nehmen. Bauherren, Elektriker und Systemintegratoren , die schnell ein „Haus/Villa oder Gewerbegebäude“ per GIRA Homeserver steuern wollen Elektriker, die viel Zeit und Geld sparen und die Gira Homeserver Visualisierung auf Tablet/Smartphone/Touchscreen einrichten wollen Interessenten ohne Vorkenntnisse , die am PC mit der kostenlosen GIRA Experte Software alles selbst einrichten und programmieren wollen
 
 ## 2. Links
 

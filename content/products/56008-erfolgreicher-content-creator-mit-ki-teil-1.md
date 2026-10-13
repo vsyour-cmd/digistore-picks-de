@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>50% PROVISION – NEUER BESTSELLER!</p>
-<p>"Erfolgreicher Content Creator mit KI - Teil 1: Fundament"<br />29,95 € Verkauf → 14,98 € PROVISION PRO VERKAUF!</p>
-<p>HOHE CONVERSION RATE – PERFEKT FÜR:<br />• Anfänger ohne Plan <br />• Nischenfindung (wo 90% scheitern)<br />• KI-Workflow für Reels &amp; Posts<br />• Content-Strategie von 0 auf 5k Follower</p>
-<p>GENAU DAS, WAS DEINE AUDIENCE SUCHT:<br />- Schritt-für-Schritt System<br />- Templates, KI-Prompts, Kalender<br />- Positionierung gegen Konkurrenz<br />- Von Null auf erste Reichweite</p>
-<p>KERNINHALT DES EBOOKS:<br />Kapitel 1: Warum KI alles verändert<br />Kapitel 2: Nische finden (Scorecard-Template)<br />Kapitel 3: Zielgruppe + USP-Formel <br />Kapitel 4: 4-Wochen-Content-Plan<br />Kapitel 5: 2-Stunden-KI-Workflow</p>
-<p>BEWÄHRTE PROMO-WINKEL:<br />"90% scheitern an der Nische – nicht du!"</p>
+**Vendor's marketplace description:** 50% PROVISION – NEUER BESTSELLER! "Erfolgreicher Content Creator mit KI - Teil 1: Fundament" 29,95 € Verkauf → 14,98 € PROVISION PRO VERKAUF! HOHE CONVERSION RATE – PERFEKT FÜR: • Anfänger ohne Plan • Nischenfindung (wo 90% scheitern) • KI-Workflow für Reels & Posts • Content-Strategie von 0 auf 5k Follower GENAU DAS, WAS DEINE AUDIENCE SUCHT: - Schritt-für-Schritt System - Templates, KI-Prompts, Kalender - Positionierung gegen Konkurrenz - Von Null auf erste Reichweite KERNINHALT DES EBOOKS: Kapitel 1: Warum KI alles verändert Kapitel 2: Nische finden (Scorecard-Template) Kapitel 3: Zielgruppe + USP-Formel Kapitel 4: 4-Wochen-Content-Plan Kapitel 5: 2-Stunden-KI-Workflow BEWÄHRTE PROMO-WINKEL: "90% scheitern an der Nische – nicht du!"
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du auf Discord eine engagierte Kunden-Community aufbaust und Wissen profitabel verkaufst</strong></p>
-<p>Als Coach lebt dein Business von Vertrauen und Gemeinschaft – und Discord bietet dafür die ideale Infrastruktur. Dieses E-Book zeigt dir, wie du einen Premium-Community-Server aufbaust, der dein Angebot täglich erlebbar macht: von exklusiven Coaching-Channels und strukturierten Lernbereichen über monatliche Stage-Calls bis hin zu Server-Abos als wiederkehrendem Umsatz. Du lernst, wie du dein Onboarding so gestaltest, dass neue Kunden sofort Mehrwert spüren, wie Bots Verwaltungsaufwand reduzieren und wie du externen Traffic aus Podcast, Social Media und E-Mail gezielt in deinen Server leitest. Nach diesem E-Book hast du kein zufälliges Community-Experiment, sondern ein durchdachtes System, das deinen Kalender mit qualifizierten Erstgesprächen füllt.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Premium-Community-Server aufbauen, der dein Angebot täglich erlebbar macht</li>
-<li>Coaching-Channels, Lernbereiche und Stage-Calls sinnvoll strukturieren</li>
-<li>Server-Abos einrichten und als wiederkehrende Einnahmequelle nutzen</li>
-<li>Onboarding, das neue Kunden sofort Mehrwert spüren lässt</li>
-<li>Bots zur Automatisierung einsetzen und Verwaltungsaufwand reduzieren</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du auf Discord eine engagierte Kunden-Community aufbaust und Wissen profitabel verkaufst Als Coach lebt dein Business von Vertrauen und Gemeinschaft – und Discord bietet dafür die ideale Infrastruktur. Dieses E-Book zeigt dir, wie du einen Premium-Community-Server aufbaust, der dein Angebot täglich erlebbar macht: von exklusiven Coaching-Channels und strukturierten Lernbereichen über monatliche Stage-Calls bis hin zu Server-Abos als wiederkehrendem Umsatz. Du lernst, wie du dein Onboarding so gestaltest, dass neue Kunden sofort Mehrwert spüren, wie Bots Verwaltungsaufwand reduzieren und wie du externen Traffic aus Podcast, Social Media und E-Mail gezielt in deinen Server leitest. Nach diesem E-Book hast du kein zufälliges Community-Experiment, sondern ein durchdachtes System, das deinen Kalender mit qualifizierten Erstgesprächen füllt. Das steckt drin: Premium-Community-Server aufbauen, der dein Angebot täglich erlebbar macht Coaching-Channels, Lernbereiche und Stage-Calls sinnvoll strukturieren Server-Abos einrichten und als wiederkehrende Einnahmequelle nutzen Onboarding, das neue Kunden sofort Mehrwert spüren lässt Bots zur Automatisierung einsetzen und Verwaltungsaufwand reduzieren Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

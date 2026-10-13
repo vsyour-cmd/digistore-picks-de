@@ -41,47 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Closet Cleanse and Style Transformation Video-Kurs</h3>
-<p>Ein umfassender Videokurs in 7 Videos, der dir hilft, einen Kleiderschrank und Style zu schaffen, der deinen Erfolg widerspiegelt, dein Selbstvertrauen stärkt und ideale Kunden anzieht.</p>
-<h3>Was dich erwartet</h3>
-<p><strong>Modul 1: Deine Style-Vision für dein erfolgreiches ICH</strong></p>
-<ul>
-<li>Detaillierte Video-Lektionen, um deinen idealen Style zu visualisieren.</li>
-<li>Tiefgehende Übungen, um deinen Style mit deinen Zielen (privat/beruflich) in Einklang zu bringen.</li>
-<li>Vision-Boarding-Aktivitäten und Style-Kreation.</li>
-</ul>
-<p><strong>Modul 2: Kleiderschrank Intention</strong></p>
-<ul>
-<li>Schritt-für-Schritt Anleitung zum Setzen bewusster Ziele für deinen Kleiderschrank.</li>
-<li>Praktische Übungen, um sicherzustellen, das dein Kleiderschrank dein tägliches Leben und deine Ambitionen unterstützt.</li>
-</ul>
-<p><strong>Modul 3: Energetisches Clearing und Evaluierung </strong></p>
-<ul>
-<li>Aktivitäten, um Kleidung in "Erste Klasse" und "Economy Klasse" zu sortieren.</li>
-<li>Energetische Loslass-Techniken zur Vorbereitung auf Wohlstand.</li>
-</ul>
-<p><strong>Modul 4: Style your Mindset</strong></p>
-<ul>
-<li>Video zum Verständnis der Verbindung zwischen deinen Gewohnheiten vor dem Kleiderschrank und deiner finanziellen Einstellung.</li>
-<li>Übungen und Journaling, um eine wohlhabende Denkweise zu fördern.</li>
-</ul>
-<p><strong>Modul 5: Struktur vom Closet Cleanse</strong></p>
-<ul>
-<li>Detaillierter Schritt-für-Schritt-Prozess zum Ausmisten und Organisieren deines Kleiderschranks.</li>
-<li>Praktische Tipps und Strategien zur Aufrechterhaltung eines tollen und organisierten Kleiderschrankes.</li>
-</ul>
-<p><strong>Modul 6: Neuorganisation Kleiderschrank</strong></p>
-<ul>
-<li>Meine Tipps, wie ich meinen Kleiderschrank organisiere.</li>
-</ul>
-<p><strong>Modul 7: Deine Styling Area</strong></p>
-<ul>
-<li>Meine Tipps und Ideen zur Gestaltung eines inspirierenden und wunderschönen Styling-Raums für deine Me-Time.</li>
-</ul>
-<h3>Zusätzliche Ressourcen:</h3>
-<ul>
-<li>Dein Closet Cleanse Guide</li>
-</ul>
+**Vendor's marketplace description:** Closet Cleanse and Style Transformation Video-Kurs Ein umfassender Videokurs in 7 Videos, der dir hilft, einen Kleiderschrank und Style zu schaffen, der deinen Erfolg widerspiegelt, dein Selbstvertrauen stärkt und ideale Kunden anzieht. Was dich erwartet Modul 1: Deine Style-Vision für dein erfolgreiches ICH Detaillierte Video-Lektionen, um deinen idealen Style zu visualisieren. Tiefgehende Übungen, um deinen Style mit deinen Zielen (privat/beruflich) in Einklang zu bringen. Vision-Boarding-Aktivitäten und Style-Kreation. Modul 2: Kleiderschrank Intention Schritt-für-Schritt Anleitung zum Setzen bewusster Ziele für deinen Kleiderschrank. Praktische Übungen, um sicherzustellen, das dein Kleiderschrank dein tägliches Leben und deine Ambitionen unterstützt. Modul 3: Energetisches Clearing und Evaluierung Aktivitäten, um Kleidung in "Erste Klasse" und "Economy Klasse" zu sortieren. Energetische Loslass-Techniken zur Vorbereitung auf Wohlstand. Modul 4: Style your Mindset Video zum Verständnis der Verbindung zwischen deinen Gewohnheiten vor dem Kleiderschrank und deiner finanziellen Einstellung. Übungen und Journaling, um eine wohlhabende Denkweise zu fördern. Modul 5: Struktur vom Closet Cleanse Detaillierter Schritt-für-Schritt-Prozess zum Ausmisten und Organisieren deines Kleiderschranks. Praktische Tipps und Strategien zur Aufrechterhaltung eines tollen und organisierten Kleiderschrankes. Modul 6: Neuorganisation Kleiderschrank Meine Tipps, wie ich meinen Kleiderschrank organisiere. Modul 7: Deine Styling Area Meine Tipps und Ideen zur Gestaltung eines inspirierenden und wunderschönen Styling-Raums für deine Me-Time. Zusätzliche Ressourcen: Dein Closet Cleanse Guide
 
 ## 2. Links
 

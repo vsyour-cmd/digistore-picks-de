@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein stark nachgefragtes Wissens- und Aufklärungsthema:</p>
-<p>Dieses Buch verbindet verständliche Wissenschaft mit realen Katastrophenszenarien und spricht damit eine breite Zielgruppe von Interessierten, Lernenden und sicherheitsbewussten Lesern an.</p>
-<p>Der Mix aus fundiertem Hintergrundwissen, globalen Fallbeispielen und konkreten Ansätzen zur Vorsorge erzeugt hohen praktischen Nutzen und emotionale Relevanz zugleich. Besonders attraktiv für Affiliates im Bereich Bildung, Survival, Wissenschaft und Dokumentation.</p>
-<p>Die klare, zugängliche Darstellung komplexer Zusammenhänge sorgt für hohe Leserbindung und gute Conversion-Chancen.</p>
-<p>Ein Content-starkes Produkt mit dauerhaftem Interesse und vielseitigen Vermarktungswinkeln.</p>
+**Vendor's marketplace description:** Ein stark nachgefragtes Wissens- und Aufklärungsthema: Dieses Buch verbindet verständliche Wissenschaft mit realen Katastrophenszenarien und spricht damit eine breite Zielgruppe von Interessierten, Lernenden und sicherheitsbewussten Lesern an. Der Mix aus fundiertem Hintergrundwissen, globalen Fallbeispielen und konkreten Ansätzen zur Vorsorge erzeugt hohen praktischen Nutzen und emotionale Relevanz zugleich. Besonders attraktiv für Affiliates im Bereich Bildung, Survival, Wissenschaft und Dokumentation. Die klare, zugängliche Darstellung komplexer Zusammenhänge sorgt für hohe Leserbindung und gute Conversion-Chancen. Ein Content-starkes Produkt mit dauerhaftem Interesse und vielseitigen Vermarktungswinkeln.
 
 ## 2. Links
 

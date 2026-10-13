@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><big><big><strong><em>Fremdenergien Clearing<br /></em></strong></big></big></p>
-<p> </p>
-<p><big><big><strong>Hilfe zur Blockadelösung und zum Schutz sowie bei Besetzungen jeglicher Art:</strong></big></big></p>
-<p><strong>* Fremdenergien durch dunkle Wesenheiten<br /> * Gelübde, Schwüre und Eide aus früheren Leben<br /> * erdgebundene Seelen, die sich anhaften<br /> * Energievampire</strong></p>
-<p> </p>
-<p><strong><big><big><em>Das Fremdenergien Clearing besteht aus:</em></big></big></strong></p>
-<p><strong>1x Audio-Programm MP3 27 Minuten<br /></strong></p>
-<p><strong>1x E-Book PDF 82 Seiten Experten-Ratgeber „Was Sie über Fremdenergien wissen sollten“ <br /></strong></p>
-<p> </p>
-<p><strong>Bei Fragen bitte an: info@gehvoran.com</strong></p>
+**Vendor's marketplace description:** Fremdenergien Clearing Hilfe zur Blockadelösung und zum Schutz sowie bei Besetzungen jeglicher Art: * Fremdenergien durch dunkle Wesenheiten * Gelübde, Schwüre und Eide aus früheren Leben * erdgebundene Seelen, die sich anhaften * Energievampire Das Fremdenergien Clearing besteht aus: 1x Audio-Programm MP3 27 Minuten 1x E-Book PDF 82 Seiten Experten-Ratgeber „Was Sie über Fremdenergien wissen sollten“ Bei Fragen bitte an: info@gehvoran.com
 
 ## 2. Links
 

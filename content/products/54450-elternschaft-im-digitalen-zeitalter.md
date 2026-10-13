@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Promote „Elternschaft im digitalen Zeitalter: Kinder klug &amp; gesund erziehen“</strong> — ein hochkonvertierendes, zeitloses eBook für moderne Eltern.<br />Verdiene <strong>50 % Provision pro Verkauf</strong> mit einem bewährten Funnel und einer professionell gestalteten Verkaufsseite.</p>
-<h3> </h3>
+**Vendor's marketplace description:** Promote „Elternschaft im digitalen Zeitalter: Kinder klug & gesund erziehen“ — ein hochkonvertierendes, zeitloses eBook für moderne Eltern. Verdiene 50 % Provision pro Verkauf mit einem bewährten Funnel und einer professionell gestalteten Verkaufsseite.
 
 ## 2. Links
 

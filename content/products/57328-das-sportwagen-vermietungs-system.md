@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Das Sportwagen-Vermietungs-System“</strong></p>
-<p>Wie du mit Luxusautos ein exklusives Vermietungs-Business aufbaust – Luxus- und Sportwagen zu vermieten kann ein lukratives Standbein sein. Dieser Ratgeber zeigt dir Schritt für Schritt, wie du eine Sportwagen-Vermietung aufbaust: vom ersten Fahrzeug über Versicherung, Recht und Preise bis zu Marketing und Schadensmanagement.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 17,48 € pro Verkauf (Verkaufspreis 34,95 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Das Geschäftsmodell verstehen: Chancen, Risiken und Realität</li>
-<li>Der Start: erstes Fahrzeug, Kapital und Rechtsform</li>
-<li>Versicherung, Verträge und rechtliche Absicherung</li>
-<li>Preise, Kalkulation und Wirtschaftlichkeit</li>
-<li>Kunden gewinnen: Marketing für eine Luxus-Vermietung</li>
-<li>Übergabe, Schäden und Risikomanagement im Alltag</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Das Sportwagen-Vermietungs-System“ Wie du mit Luxusautos ein exklusives Vermietungs-Business aufbaust – Luxus- und Sportwagen zu vermieten kann ein lukratives Standbein sein. Dieser Ratgeber zeigt dir Schritt für Schritt, wie du eine Sportwagen-Vermietung aufbaust: vom ersten Fahrzeug über Versicherung, Recht und Preise bis zu Marketing und Schadensmanagement. Warum dieses E-Book bewerben? 50 % Provision – ca. 17,48 € pro Verkauf (Verkaufspreis 34,95 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Das Geschäftsmodell verstehen: Chancen, Risiken und Realität Der Start: erstes Fahrzeug, Kapital und Rechtsform Versicherung, Verträge und rechtliche Absicherung Preise, Kalkulation und Wirtschaftlichkeit Kunden gewinnen: Marketing für eine Luxus-Vermietung Übergabe, Schäden und Risikomanagement im Alltag
 
 ## 2. Links
 

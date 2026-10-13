@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Selbstbewusst single“</strong></p>
-<p>Und bereit für mehr – Erst glücklich allein, dann glücklich zu zweit. So wirst du als Single stark – und bereit für die richtige Beziehung.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Das Single-Leben wirklich genießen</li>
-<li>Unabhängigkeit als Stärke nutzen</li>
-<li>Bereit sein, ohne verzweifelt zu wirken</li>
-<li>Anziehend durch innere Zufriedenheit</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Selbstbewusst single“ Und bereit für mehr – Erst glücklich allein, dann glücklich zu zweit. So wirst du als Single stark – und bereit für die richtige Beziehung. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Das Single-Leben wirklich genießen Unabhängigkeit als Stärke nutzen Bereit sein, ohne verzweifelt zu wirken Anziehend durch innere Zufriedenheit
 
 ## 2. Links
 

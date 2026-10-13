@@ -41,73 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>„Der Sitz-Reset“ ist ein kompaktes E-Book für Menschen, die viel sitzen – im Büro, am Schreibtisch oder im Homeoffice.</p>
-<p>Das Produkt hilft Lesern, typische Sitzfallen zu erkennen, ihren Arbeitsplatz bewusster zu prüfen und mit einfachen Wechseln mehr Bewegung, Entlastung und Körperwahrnehmung in den Arbeitsalltag zu bringen.</p>
-<p>Im Mittelpunkt steht ein praktischer 7-Minuten-Sitz-Reset, ergänzt durch eine kurze 3-Minuten-Version für volle Tage und eine kompakte Checkliste.</p>
-<p>Das E-Book eignet sich besonders für Zielgruppen rund um Homeoffice, Büroarbeit, Ergonomie, Rückengesundheit, Nackenschmerzen, Schreibtischarbeit, Selbstständige, Angestellte, Coaches, Gesundheitsportale, BGM-Themen, Arbeitsplatzgestaltung und bewusste Lebensführung.</p>
-<p>Für Affiliates ist das Thema interessant, weil sehr viele Menschen täglich lange sitzen und sich bei Nacken, Schultern, Rücken, Homeoffice-Provisorien und unpassenden Arbeitsplätzen sofort wiedererkennen.</p>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<pre><code><strong>Geeignet für Zielgruppen rund um:</strong><br /><br />- Homeoffice<br />- Büroarbeit<br />- Schreibtischarbeit<br />- Ergonomie<br />- Rückengesundheit<br />- Nacken- und Schulterverspannungen<br />- Arbeitsplatzgestaltung<br />- Selbstständige und Angestellte<br />- Coaches und Berater<br />- Gesundheitsnewsletter<br />- BGM und Prävention<br />- bewusste Lebensführung</code></pre>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<pre><code><strong>Warum dieses Produkt gut bewerbbar ist:</strong><br /><br />- sehr breites Alltagsthema<br />- viele Menschen sitzen täglich zu lange<br />- hoher Wiedererkennungswert bei Büro- und Homeoffice-Zielgruppen<br />- niedriger Einstiegspreis<br />- klarer praktischer Nutzen<br />- keine komplizierte Theorie<br />- keine Heilversprechen<br />- mit 7-Minuten-Plan und Checkliste<br />- geeignet für Newsletter, Blogartikel, Webseiten und Empfehlungsseiten</code></pre>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<p>Hinweis: Das Produkt ist kein medizinisches Schmerzprogramm und ersetzt keine ärztliche, physiotherapeutische oder therapeutische Beratung. Es macht keine Heilversprechen, sondern hilft Viel-Sitzern, typische Sitzfallen zu erkennen und mehr Wechsel in den Arbeitsalltag zu bringen.</p>
+**Vendor's marketplace description:** „Der Sitz-Reset“ ist ein kompaktes E-Book für Menschen, die viel sitzen – im Büro, am Schreibtisch oder im Homeoffice. Das Produkt hilft Lesern, typische Sitzfallen zu erkennen, ihren Arbeitsplatz bewusster zu prüfen und mit einfachen Wechseln mehr Bewegung, Entlastung und Körperwahrnehmung in den Arbeitsalltag zu bringen. Im Mittelpunkt steht ein praktischer 7-Minuten-Sitz-Reset, ergänzt durch eine kurze 3-Minuten-Version für volle Tage und eine kompakte Checkliste. Das E-Book eignet sich besonders für Zielgruppen rund um Homeoffice, Büroarbeit, Ergonomie, Rückengesundheit, Nackenschmerzen, Schreibtischarbeit, Selbstständige, Angestellte, Coaches, Gesundheitsportale, BGM-Themen, Arbeitsplatzgestaltung und bewusste Lebensführung. Für Affiliates ist das Thema interessant, weil sehr viele Menschen täglich lange sitzen und sich bei Nacken, Schultern, Rücken, Homeoffice-Provisorien und unpassenden Arbeitsplätzen sofort wiedererkennen. Geeignet für Zielgruppen rund um: - Homeoffice - Büroarbeit - Schreibtischarbeit - Ergonomie - Rückengesundheit - Nacken- und Schulterverspannungen - Arbeitsplatzgestaltung - Selbstständige und Angestellte - Coaches und Berater - Gesundheitsnewsletter - BGM und Prävention - bewusste Lebensführung Warum dieses Produkt gut bewerbbar ist: - sehr breites Alltagsthema - viele Menschen sitzen täglich zu lange - hoher Wiedererkennungswert bei Büro- und Homeoffice-Zielgruppen - niedriger Einstiegspreis - klarer praktischer Nutzen - keine komplizierte Theorie - keine Heilversprechen - mit 7-Minuten-Plan und Checkliste - geeignet für Newsletter, Blogartikel, Webseiten und Empfehlungsseiten Hinweis: Das Produkt ist kein medizinisches Schmerzprogramm und ersetzt keine ärztliche, physiotherapeutische oder therapeutische Beratung. Es macht keine Heilversprechen, sondern hilft Viel-Sitzern, typische Sitzfallen zu erkennen und mehr Wechsel in den Arbeitsalltag zu bringen.
 
 ## 2. Links
 

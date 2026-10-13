@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der Glücksnavigator </strong>ist das Navigationssystem für Glück und Erfolg im Leben.</p>
-<p>Lernen Sie Schritt für Schritt, wie Sie Ihr Unterbewusstsein gezielt auf Glück und Erfolg programmieren, wodurch Sie Ihre Lebensqualität massiv steigern.</p>
-<p>Komprimiertes Wissen, aufgeteilt in acht Videolektionen für ein tiefgreifendes Glücks- und Erfolgscoaching.</p>
-<p>Jede Videolektion enthält gezielte Aufgaben, durch die Sie die Anziehungskraft für glückliche Situationen aktivieren und eine erfolgreiche Lebensweise fest verankern.</p>
-<p><strong>Direktverkauf:</strong></p>
-<ol>
-<li><strong>Webinar-Einladeseite:</strong><br /><br /><strong>https://www.digistore24.com/content/22771/7925/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong><br /> </li>
-<li><strong>Webinar-Aufzeichnung:</strong><br /><br /><strong>https://www.digistore24.com/content/22771/9637/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong></li>
-</ol>
-<p><span style="background-color:#ffff00;"><strong>Vertrauensaufbauender Gratis-Content dazu (Verkauf über Funnel):</strong></span></p>
-<ol>
-<li><strong>Glücklichsein-Checkliste (gratis) + Upsell auf passenden Schnell-Videokurs (7,-€):</strong><br /><br /><strong>https://www.digistore24.com/content/249553/23177/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong><br /> </li>
-</ol>
-<p>&gt;&gt; Bei Eitragung durchläuft der Interessent einen Funnel mit wertvollen Tipps - Das steigert die Kaufrate im folgenden Webinar - Zudem erhält der Interessent noch weiter Angebote</p>
-<p><span style="background-color:#ffff00;"><strong>&gt;&gt; Folgeprovisionen bei weiteren Käufen</strong></span></p>
-<ul>
-<li><strong>Sehr starke Konvertierung !!!</strong></li>
-<li><strong>Verkauf über tägliches Webeniar.</strong></li>
-<li><strong>Kann jederzeit beworben werden.</strong></li>
-</ul>
-<p><strong>Bei Fragen: <span style="background-color:#ffff00;">info@erfolg-intuitiv.de</span></strong></p>
+**Vendor's marketplace description:** Der Glücksnavigator ist das Navigationssystem für Glück und Erfolg im Leben. Lernen Sie Schritt für Schritt, wie Sie Ihr Unterbewusstsein gezielt auf Glück und Erfolg programmieren, wodurch Sie Ihre Lebensqualität massiv steigern. Komprimiertes Wissen, aufgeteilt in acht Videolektionen für ein tiefgreifendes Glücks- und Erfolgscoaching. Jede Videolektion enthält gezielte Aufgaben, durch die Sie die Anziehungskraft für glückliche Situationen aktivieren und eine erfolgreiche Lebensweise fest verankern. Direktverkauf: Webinar-Einladeseite: https://www.digistore24.com/content/22771/7925/ AFFILIATE / CAMPAIGNKEY Webinar-Aufzeichnung: https://www.digistore24.com/content/22771/9637/ AFFILIATE / CAMPAIGNKEY Vertrauensaufbauender Gratis-Content dazu (Verkauf über Funnel): Glücklichsein-Checkliste (gratis) + Upsell auf passenden Schnell-Videokurs (7,-€): https://www.digistore24.com/content/249553/23177/ AFFILIATE / CAMPAIGNKEY >> Bei Eitragung durchläuft der Interessent einen Funnel mit wertvollen Tipps - Das steigert die Kaufrate im folgenden Webinar - Zudem erhält der Interessent noch weiter Angebote >> Folgeprovisionen bei weiteren Käufen Sehr starke Konvertierung !!! Verkauf über tägliches Webeniar. Kann jederzeit beworben werden. Bei Fragen: info@erfolg-intuitiv.de
 
 ## 2. Links
 

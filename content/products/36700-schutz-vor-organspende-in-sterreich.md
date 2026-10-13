@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In Österreich ist jeder Mensch der sich dort aufhält automatisch Organspender, mit dieser PDF Anleitung erfahren Sie die wichtigsten Hinweise um sich vor einer Organspende gegen Ihren Willen in Österreich zu schützen.</p>
+**Vendor's marketplace description:** In Österreich ist jeder Mensch der sich dort aufhält automatisch Organspender, mit dieser PDF Anleitung erfahren Sie die wichtigsten Hinweise um sich vor einer Organspende gegen Ihren Willen in Österreich zu schützen.
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>10 Tage vorbereitet ist ein praxisorientierter digitaler Vorsorgeplan für private Haushalte. Das PDF hilft dabei, die eigene Vorbereitung strukturiert zu prüfen und Schritt für Schritt sinnvoll zu ergänzen.<br /><br />Enthalten sind unter anderem eine 3-, 7- und 10-Tage-Planung, Wasser- und Vorratsplanung, Stromausfall-Check, priorisierte Einkaufsliste, Dokumenten- und Kontaktplanung sowie ein persönlicher Aktions- und Budgetplan.<br /><br />Zielgruppe: Menschen, die ihren Haushalt vernünftig auf unerwartete Situationen vorbereiten möchten – übersichtlich, alltagstauglich und ohne Panikmache.<br /><br />Verkaufspreis: 39 €<br /><br />Affiliate-Provision: 30 %<br /><br />Das Produkt wird als digitales PDF bereitgestellt und kann direkt heruntergeladen und ausgedruckt werden.</p>
+**Vendor's marketplace description:** 10 Tage vorbereitet ist ein praxisorientierter digitaler Vorsorgeplan für private Haushalte. Das PDF hilft dabei, die eigene Vorbereitung strukturiert zu prüfen und Schritt für Schritt sinnvoll zu ergänzen. Enthalten sind unter anderem eine 3-, 7- und 10-Tage-Planung, Wasser- und Vorratsplanung, Stromausfall-Check, priorisierte Einkaufsliste, Dokumenten- und Kontaktplanung sowie ein persönlicher Aktions- und Budgetplan. Zielgruppe: Menschen, die ihren Haushalt vernünftig auf unerwartete Situationen vorbereiten möchten – übersichtlich, alltagstauglich und ohne Panikmache. Verkaufspreis: 39 € Affiliate-Provision: 30 % Das Produkt wird als digitales PDF bereitgestellt und kann direkt heruntergeladen und ausgedruckt werden.
 
 ## 2. Links
 

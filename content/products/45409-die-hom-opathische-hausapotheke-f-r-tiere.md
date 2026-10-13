@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In dieser<strong> 4-teiligen Webinarreihe </strong>geht es um die <strong>Behandlung von akuten Problemen beim Tier</strong> mit dem passenden homöopathischen Mittel. </p>
-<p>Du lernst wie die Homöopathie entstanden ist und sich entwickelt hat. Du wirst die Basics einer homöopathischen Mittelauswahl und Dosierung lernen und auch was man diesbezüglich unbedingt beachten oder vermeiden sollte.</p>
-<p>Du kannst nach diesem Webinar verschiedene gängige Potenzen unterscheiden und weißt warum Du eine bestimmte aussuchst.</p>
-<p>Natürlich besprechen wir auch wo man die Mittel am besten kauft und wie man seine Apotheke zusammenstellt und am besten aufbewahrt.</p>
-<p>Und natürlich geht es um die <strong>gängigsten Mittel die akuten Beschwerden nützlich sind.</strong> Es sind ca.<strong> 18 Mittel</strong> die wir im Detail besprechen und noch einige weitere die weniger ausführlich besprochen werden.  </p>
-<p>In der Webinar-Reihe geht es um</p>
-<ul>
-<li>Wunden und Verletzungen</li>
-<li>Lahmheiten</li>
-<li>Probleme im Bewegungsapparat</li>
-<li>Augenprobleme</li>
-<li>Verbrennungen</li>
-<li>Insektenstiche</li>
-<li>Verbrennungen</li>
-<li>Magen/Darm Probleme</li>
-<li>Blasenprobleme</li>
-<li>und einiges andere</li>
-</ul>
-<p>Zusätzlich gibt es ettliche<strong> echte Fälle aus meiner Praxis</strong>, für die wir gemeinsam das passende Mittel erarbeiten und so das gelernte praktisch umsetzen. </p>
-<p>Natürlich bekommst Du auch ein <strong>sehr umfangreiches Skript</strong> !<br /><br />Nach Ende der Reihe findest Du dann auch noch einen Quiz im Kurs, mit dem du das gelernte selbst überprüfen kannst! Da es ja auch ein wenig spannend sein soll, können bei jeder Frage unterschiedlich viele Antworten richtig sein. Wieviele genau und ob es evtl. sogar alle sind, darfst Du selbst herausfinden ;-) </p>
-<p>Viel Spass dabei! </p>
+**Vendor's marketplace description:** In dieser 4-teiligen Webinarreihe geht es um die Behandlung von akuten Problemen beim Tier mit dem passenden homöopathischen Mittel. Du lernst wie die Homöopathie entstanden ist und sich entwickelt hat. Du wirst die Basics einer homöopathischen Mittelauswahl und Dosierung lernen und auch was man diesbezüglich unbedingt beachten oder vermeiden sollte. Du kannst nach diesem Webinar verschiedene gängige Potenzen unterscheiden und weißt warum Du eine bestimmte aussuchst. Natürlich besprechen wir auch wo man die Mittel am besten kauft und wie man seine Apotheke zusammenstellt und am besten aufbewahrt. Und natürlich geht es um die gängigsten Mittel die akuten Beschwerden nützlich sind. Es sind ca. 18 Mittel die wir im Detail besprechen und noch einige weitere die weniger ausführlich besprochen werden. In der Webinar-Reihe geht es um Wunden und Verletzungen Lahmheiten Probleme im Bewegungsapparat Augenprobleme Verbrennungen Insektenstiche Verbrennungen Magen/Darm Probleme Blasenprobleme und einiges andere Zusätzlich gibt es ettliche echte Fälle aus meiner Praxis , für die wir gemeinsam das passende Mittel erarbeiten und so das gelernte praktisch umsetzen. Natürlich bekommst Du auch ein sehr umfangreiches Skript ! Nach Ende der Reihe findest Du dann auch noch einen Quiz im Kurs, mit dem du das gelernte selbst überprüfen kannst! Da es ja auch ein wenig spannend sein soll, können bei jeder Frage unterschiedlich viele Antworten richtig sein. Wieviele genau und ob es evtl. sogar alle sind, darfst Du selbst herausfinden ;-) Viel Spass dabei!
 
 ## 2. Links
 

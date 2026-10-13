@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit diesem Audio Titel gerät man in weniger als 10 Minuten, alleine durch das Hören, in einen optimalen lernbereiten, besonders aufnahmefähigen und konzentrierten Zustand. Besonders geeignet um Wissen einfacher und schneller aufzunehmen und Arbeit konzentriert zu verrichten.</p>
-<p>50% Provision für Affiliates, inkl. Upsells</p>
+**Vendor's marketplace description:** Mit diesem Audio Titel gerät man in weniger als 10 Minuten, alleine durch das Hören, in einen optimalen lernbereiten, besonders aufnahmefähigen und konzentrierten Zustand. Besonders geeignet um Wissen einfacher und schneller aufzunehmen und Arbeit konzentriert zu verrichten. 50% Provision für Affiliates, inkl. Upsells
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Praxisnah, sofort umsetzbar und wissenschaftlich fundiert!</p>
-<p><strong>Wie du deine Zukunft aktiv und selbstbestimmt gestaltest</strong></p>
-<p><em>Autor René Penselin</em></p>
-<p>In diesem Buch findest du ein Programm, mit dem du die Vergangenheit hinter dir lassen kannst, um eine neue, strahlende Zukunft zu kreieren und dein wahres Wesen zu entdecken. Das Buch ist ein Leitfaden und ein Werkzeug, das dich dabei unterstützt, dich auf natürliche Weise zu verändern und dein Potenzial zu leben. Denn dies hier ist DEIN Leben und DEINE Entscheidung! Und DU bist Schöpfer deines Lebens!</p>
-<p><em>UVP nur 19,95€<br /></em><em>inkl. kostenfreier Versand &amp; Zugang zum kostenlosen Online-Bonusmaterial</em></p>
+**Vendor's marketplace description:** Praxisnah, sofort umsetzbar und wissenschaftlich fundiert! Wie du deine Zukunft aktiv und selbstbestimmt gestaltest Autor René Penselin In diesem Buch findest du ein Programm, mit dem du die Vergangenheit hinter dir lassen kannst, um eine neue, strahlende Zukunft zu kreieren und dein wahres Wesen zu entdecken. Das Buch ist ein Leitfaden und ein Werkzeug, das dich dabei unterstützt, dich auf natürliche Weise zu verändern und dein Potenzial zu leben. Denn dies hier ist DEIN Leben und DEINE Entscheidung! Und DU bist Schöpfer deines Lebens! UVP nur 19,95€ inkl. kostenfreier Versand & Zugang zum kostenlosen Online-Bonusmaterial
 
 ## 2. Links
 

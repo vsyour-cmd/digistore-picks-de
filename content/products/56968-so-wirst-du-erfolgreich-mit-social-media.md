@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Reichweite auf den richtigen Plattformen aufbauen, eine Community binden und Einnahmen diversifizieren</strong></p>
-<p>Erfolgreich als Creator zu werden ist kein Zufall – es ist ein Handwerk, das du auf jeder Plattform lernen kannst. Dieses E-Book zeigt dir, wie du herausfindest, auf welchen Kanälen deine Zielgruppe wirklich aktiv ist, wie du Inhalte erstellst, die Reichweite und Bindung gleichzeitig erzeugen, und wie du durch Content-Repurposing mehrere Plattformen parallel bespielst ohne doppelt so viel Arbeit zu haben. Du lernst, wie Algorithmus-Grundprinzipien auf YouTube, TikTok und Instagram zusammenspielen, wie du eine engagierte Community aufbaust, die kauft und teilt, und wie du dich für Markenkooperationen, Affiliate-Deals und eigene Produkte professionell aufstellst.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Plattformstrategie: wo du mit deinem Content-Typ die größte Hebelwirkung hast</li>
-<li>Algorithmus-Grundprinzipien: was Instagram, TikTok und YouTube gemeinsam belohnen</li>
-<li>Content-Repurposing: ein Inhalt, mehrere Plattformen – ohne doppelte Arbeit</li>
-<li>Aus Followern echte Fans und eine plattformübergreifend aktive Community machen</li>
-<li>Dein Marken-Kit: Mediadaten, die Kooperationen auf jeder Plattform gewinnen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Reichweite auf den richtigen Plattformen aufbauen, eine Community binden und Einnahmen diversifizieren Erfolgreich als Creator zu werden ist kein Zufall – es ist ein Handwerk, das du auf jeder Plattform lernen kannst. Dieses E-Book zeigt dir, wie du herausfindest, auf welchen Kanälen deine Zielgruppe wirklich aktiv ist, wie du Inhalte erstellst, die Reichweite und Bindung gleichzeitig erzeugen, und wie du durch Content-Repurposing mehrere Plattformen parallel bespielst ohne doppelt so viel Arbeit zu haben. Du lernst, wie Algorithmus-Grundprinzipien auf YouTube, TikTok und Instagram zusammenspielen, wie du eine engagierte Community aufbaust, die kauft und teilt, und wie du dich für Markenkooperationen, Affiliate-Deals und eigene Produkte professionell aufstellst. Das steckt drin: Plattformstrategie: wo du mit deinem Content-Typ die größte Hebelwirkung hast Algorithmus-Grundprinzipien: was Instagram, TikTok und YouTube gemeinsam belohnen Content-Repurposing: ein Inhalt, mehrere Plattformen – ohne doppelte Arbeit Aus Followern echte Fans und eine plattformübergreifend aktive Community machen Dein Marken-Kit: Mediadaten, die Kooperationen auf jeder Plattform gewinnen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

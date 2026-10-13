@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Online Training AZAV unterstützt alle, die sich für eine Zulassung als AZAV-Träger interessieren oder die Zulassung sinnvoll aufrechterhalten wollen.</p>
-<p>Die Module sind praxisorientiert konzipiert - und können zumindest einen Teil der sonst notwendigen Beratung ersetzen.</p>
-<p>Schritt für Schritt werden die Teilnehmer*innen durch die Theorie, die Regeln und den Ablauf der AZAV geführt und das immer am praktischen Beispiel.</p>
-<p>Das Training ersetzt keine Beratung, verringert aber die Anzahl der notwendigen Beratungstage :-).</p>
-<p><strong>Die ersten drei Lektionen sind kostenlos!</strong></p>
+**Vendor's marketplace description:** Das Online Training AZAV unterstützt alle, die sich für eine Zulassung als AZAV-Träger interessieren oder die Zulassung sinnvoll aufrechterhalten wollen. Die Module sind praxisorientiert konzipiert - und können zumindest einen Teil der sonst notwendigen Beratung ersetzen. Schritt für Schritt werden die Teilnehmer*innen durch die Theorie, die Regeln und den Ablauf der AZAV geführt und das immer am praktischen Beispiel. Das Training ersetzt keine Beratung, verringert aber die Anzahl der notwendigen Beratungstage :-). Die ersten drei Lektionen sind kostenlos!
 
 ## 2. Links
 

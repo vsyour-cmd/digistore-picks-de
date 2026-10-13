@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die digitale Mitglieder-Plattform für ein gesundes Abnehmen und aktiveres Leben enthält folgende Inhalte:</p>
-<ul>
-<li>alle 3 Wochen gibt es ein Ernährungsplan</li>
-<li>wertvolle Geheimtipps</li>
-<li>Bonusrezepte</li>
-<li>individuelle Betreuung </li>
-<li>gemeinsames Forum mit allen Mitgliedern, um Fragen zu klären und Erfahrungen bzw. Erfolge zu teilen</li>
-<li>Blogbeiträge mit Tipps und Tricks</li>
-</ul>
+**Vendor's marketplace description:** Die digitale Mitglieder-Plattform für ein gesundes Abnehmen und aktiveres Leben enthält folgende Inhalte: alle 3 Wochen gibt es ein Ernährungsplan wertvolle Geheimtipps Bonusrezepte individuelle Betreuung gemeinsames Forum mit allen Mitgliedern, um Fragen zu klären und Erfahrungen bzw. Erfolge zu teilen Blogbeiträge mit Tipps und Tricks
 
 ## 2. Links
 

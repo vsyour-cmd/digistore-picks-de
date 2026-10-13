@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Stoffwechseljahre – Was Ihnen niemand über Ihre Wechseljahre erzählt</strong></p>
-<p>Millionen Frauen durchleben die Wechseljahre mit Symptomen, die sie niemand erklärt hat – Gewichtszunahme, Schlafprobleme, Stimmungsschwankungen und ein Stoffwechsel, der plötzlich nicht mehr mitmacht. Dieses eBook liefert endlich die Antworten, die Ärzte oft schuldig bleiben.</p>
-<p><strong>Was Affiliates erwartet:</strong></p>
-<ul>
-<li>50% Provision auf jeden Verkauf</li>
-<li>Hochkonvertierende Verkaufsseite</li>
-<li>Riesige Zielgruppe: Frauen 45–65 Jahre</li>
-<li>Extrem hoher Leidensdruck &amp; Kaufbereitschaft</li>
-<li>Thema mit stetig wachsendem Suchvolumen</li>
-</ul>
-<p><strong>Für wen ist dieses Produkt?</strong> Frauen in der Peri- oder Menopause, die unter Gewichtszunahme, Erschöpfung, Hitzewallungen oder Hormonchaos leiden – eine der emotionalsten und kaufstärksten Zielgruppen im deutschsprachigen Gesundheitsmarkt.</p>
-<p>Bewerbe jetzt und profitiere von einer Zielgruppe, die aktiv nach Lösungen sucht!</p>
+**Vendor's marketplace description:** Stoffwechseljahre – Was Ihnen niemand über Ihre Wechseljahre erzählt Millionen Frauen durchleben die Wechseljahre mit Symptomen, die sie niemand erklärt hat – Gewichtszunahme, Schlafprobleme, Stimmungsschwankungen und ein Stoffwechsel, der plötzlich nicht mehr mitmacht. Dieses eBook liefert endlich die Antworten, die Ärzte oft schuldig bleiben. Was Affiliates erwartet: 50% Provision auf jeden Verkauf Hochkonvertierende Verkaufsseite Riesige Zielgruppe: Frauen 45–65 Jahre Extrem hoher Leidensdruck & Kaufbereitschaft Thema mit stetig wachsendem Suchvolumen Für wen ist dieses Produkt? Frauen in der Peri- oder Menopause, die unter Gewichtszunahme, Erschöpfung, Hitzewallungen oder Hormonchaos leiden – eine der emotionalsten und kaufstärksten Zielgruppen im deutschsprachigen Gesundheitsmarkt. Bewerbe jetzt und profitiere von einer Zielgruppe, die aktiv nach Lösungen sucht!
 
 ## 2. Links
 

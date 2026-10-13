@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><span style="color:#993366;">Lektinfreie Ernährung leicht gemacht!</span></h1>
-<div>
-<p><span style="color:#800080;">Weniger Blähbauch. Mehr Energie. Strahlende Haut.</span></p>
-<p>Viele Menschen ernähren sich gesund – und fühlen sind dennoch aufgebläht, müde oder chronisch krank. Ein möglicher Grund, der oft übersehen wird: Lektine. Diese pflanzlichen Eiweißstoffe stecken in vielen alltäglichen Lebensmitteln und können bei empfindlichen Menschen den Darm reizen und das Immunsystem belasten.</p>
-<p>In meinem Onlinekurs zeige ich dir, wie du Lektine in deiner Ernährung erkennst, schonend reduzierst und deine Ernährung so anpasst, dass sie dir wirklich guttut – alltagstauglich, genussvoll und ohne Verzicht. Mit fundiertem Wissen, praktischen Tipps, leckeren Rezepten und meiner persönlichen Begleitung findest du Schritt für Schritt zurück zu mehr Wohlbefinden.</p>
-<p>Für alle, die trotz gesunder Ernährung unter Beschwerden leiden – und endlich verstehen wollen, warum.</p>
-</div>
+**Vendor's marketplace description:** Lektinfreie Ernährung leicht gemacht! Weniger Blähbauch. Mehr Energie. Strahlende Haut. Viele Menschen ernähren sich gesund – und fühlen sind dennoch aufgebläht, müde oder chronisch krank. Ein möglicher Grund, der oft übersehen wird: Lektine. Diese pflanzlichen Eiweißstoffe stecken in vielen alltäglichen Lebensmitteln und können bei empfindlichen Menschen den Darm reizen und das Immunsystem belasten. In meinem Onlinekurs zeige ich dir, wie du Lektine in deiner Ernährung erkennst, schonend reduzierst und deine Ernährung so anpasst, dass sie dir wirklich guttut – alltagstauglich, genussvoll und ohne Verzicht. Mit fundiertem Wissen, praktischen Tipps, leckeren Rezepten und meiner persönlichen Begleitung findest du Schritt für Schritt zurück zu mehr Wohlbefinden. Für alle, die trotz gesunder Ernährung unter Beschwerden leiden – und endlich verstehen wollen, warum.
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>AZF Sprechfunkzeugnis (EN) für den Flugfunk - Online-Kurs-Live</strong></p>
-<p><strong>Empfehlen Sie diesen Online-Livekurs!</strong></p>
-<p>Dieses Sprechfunkzeugnis ist erforderlich, wenn Sie planen die Instrumentenflugberechtigung IR, CBIR/ EIR, Berufspiloten- oder Verkehrspilotenlizenz zu erwerben. Ohne AZF ist keine Ausbildung für diese Lizenzen möglich!</p>
-<p>Dieser <strong>Livekurs</strong> bereitet den angehenden Piloten auf die Prüfung bei der Bundesnetzagentur vor und berechtigt zu Sichtflügen- &amp; Instrumentenflügen (IFR) in <strong>DEUTSCH</strong> und <strong>ENGLISCH.<br /></strong>Teilname auch über <strong>Mobilgeräte</strong> wie <strong>iPad/iPhone</strong> oder allen Mobilgeräten unter <strong>Androide</strong> möglich!<br /><br /><strong>Vorteile:<br /></strong></p>
-<ul>
-<li>Es gibt keine langen Anfahrtswege, zumal die meisten Ausbildungsstätten nicht gerade um die Ecke sind. Lernen Sie bequem von zu Hause, Hotel, Büro oder auch aus dem Urlaub bzw. von Ihrem Lieblingsort (weltweit).</li>
-<li>Zeitlich flexibler Einstieg möglich; ein Kurseinstieg ist somit jederzeit möglich.</li>
-<li>Man lernt den Umgang mit einem Flugplan, der zugleich als Teilnahmeanmeldung für den jeweiligen Ausbildungsabend gilt. Praxisnahe Terminierung verpackt als Flugplan!</li>
-</ul>
-<p><strong>Gültigkeit:</strong> 365 Tage nach Anmeldung<br /><strong>Art der Durchführung:</strong> Live &amp; Echtzeit mit Fluglehrern und Controllern über das Internet</p>
+**Vendor's marketplace description:** AZF Sprechfunkzeugnis (EN) für den Flugfunk - Online-Kurs-Live Empfehlen Sie diesen Online-Livekurs! Dieses Sprechfunkzeugnis ist erforderlich, wenn Sie planen die Instrumentenflugberechtigung IR, CBIR/ EIR, Berufspiloten- oder Verkehrspilotenlizenz zu erwerben. Ohne AZF ist keine Ausbildung für diese Lizenzen möglich! Dieser Livekurs bereitet den angehenden Piloten auf die Prüfung bei der Bundesnetzagentur vor und berechtigt zu Sichtflügen- & Instrumentenflügen (IFR) in DEUTSCH und ENGLISCH. Teilname auch über Mobilgeräte wie iPad/iPhone oder allen Mobilgeräten unter Androide möglich! Vorteile: Es gibt keine langen Anfahrtswege, zumal die meisten Ausbildungsstätten nicht gerade um die Ecke sind. Lernen Sie bequem von zu Hause, Hotel, Büro oder auch aus dem Urlaub bzw. von Ihrem Lieblingsort (weltweit). Zeitlich flexibler Einstieg möglich; ein Kurseinstieg ist somit jederzeit möglich. Man lernt den Umgang mit einem Flugplan, der zugleich als Teilnahmeanmeldung für den jeweiligen Ausbildungsabend gilt. Praxisnahe Terminierung verpackt als Flugplan! Gültigkeit: 365 Tage nach Anmeldung Art der Durchführung: Live & Echtzeit mit Fluglehrern und Controllern über das Internet
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb die <strong>One Funnel Academy ganz einfach über ein kostenfreies Webinar</strong> – ohne eigene Inhalte erstellen zu müssen. Interessenten lernen mich und meine Strategien unverbindlich kennen, <em>während der gesamte Verkaufsprozess automatisiert</em> im Hintergrund läuft.</p>
-<p> </p>
-<p><strong>Deine Vorteile als Affiliate:</strong></p>
-<p style="padding-left:40px;">• <u>60 % Provision</u> auf jeden Verkauf<br />• Du <strong>bewirbst nur ein kostenfreies Webinar</strong> – der Verkaufsprozess erfolgt im Webinar<br />• <em>Komplett automatisierter Funnel</em> übernimmt die Conversion<br />• Kein komplexes Marketing erforderlich<br />• Ideal für Einsteiger und erfahrene Affiliates<br />• Conversion durch <strong>bewährtes Webinar-System</strong></p>
-<p> </p>
-<p>Hier kannst du dir meine Arbeit und auch die Erfahrungen anderer Teilnehmerinnen ansehen (Testimonials): <a href="https://jessicaginabusse.myfunnelcockpit.com/angebote/" target="_blank" rel="noreferrer noopener">Mehr Einblicke &amp; Testimonials</a></p>
-<p>Wenn du Fragen hast, schreib mir gern eine Mail an <a>info@achtsam-busse.de</a> – ich freue mich, von dir zu hören.</p>
+**Vendor's marketplace description:** Bewirb die One Funnel Academy ganz einfach über ein kostenfreies Webinar – ohne eigene Inhalte erstellen zu müssen. Interessenten lernen mich und meine Strategien unverbindlich kennen, während der gesamte Verkaufsprozess automatisiert im Hintergrund läuft. Deine Vorteile als Affiliate: • 60 % Provision auf jeden Verkauf • Du bewirbst nur ein kostenfreies Webinar – der Verkaufsprozess erfolgt im Webinar • Komplett automatisierter Funnel übernimmt die Conversion • Kein komplexes Marketing erforderlich • Ideal für Einsteiger und erfahrene Affiliates • Conversion durch bewährtes Webinar-System Hier kannst du dir meine Arbeit und auch die Erfahrungen anderer Teilnehmerinnen ansehen (Testimonials): Mehr Einblicke & Testimonials Wenn du Fragen hast, schreib mir gern eine Mail an info@achtsam-busse.de – ich freue mich, von dir zu hören.
 
 ## 2. Links
 

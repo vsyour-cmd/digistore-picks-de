@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>DU BIST HIER GENAU RICHTIG!</strong></h2>
-<p>Wenn du schnell und einfach mehr über Instagram erfahren möchtest um einen erfolgreichen Instagram Account zu führen.</p>
-<p>In dem Leitfaden gebe ich dir wichtige Tipps wie du mit deinem Instagram Account erfolgreich wirst und worauf es ankommt.</p>
-<h3><strong>Du wirst lernen wie du Instagram richtig für Dich und dein Unternehmen einsetzen kannst:</strong></h3>
-<ul><li>Produkte finden</li>
-<li>Zielgruppe bestimmen</li>
-<li>Content planen</li>
-<li>Content erstellen</li>
-<li>Dein Account Name</li>
-<li>Instagram Beitrag</li>
-<li>Instagram Biografie</li>
-<li>Account Bild</li>
-<li>Instagram Beitrag</li>
-<li>Instagram Story</li>
-<li>IGTV</li>
-<li>Live -Video</li>
-<li>Reels</li>
-<li>Reichweite erhöhen</li>
-<li>Hilfreiche Apps</li>
-<li>Wichtige Tipps</li>
-</ul>
+**Vendor's marketplace description:** DU BIST HIER GENAU RICHTIG! Wenn du schnell und einfach mehr über Instagram erfahren möchtest um einen erfolgreichen Instagram Account zu führen. In dem Leitfaden gebe ich dir wichtige Tipps wie du mit deinem Instagram Account erfolgreich wirst und worauf es ankommt. Du wirst lernen wie du Instagram richtig für Dich und dein Unternehmen einsetzen kannst: Produkte finden Zielgruppe bestimmen Content planen Content erstellen Dein Account Name Instagram Beitrag Instagram Biografie Account Bild Instagram Beitrag Instagram Story IGTV Live -Video Reels Reichweite erhöhen Hilfreiche Apps Wichtige Tipps
 
 ## 2. Links
 

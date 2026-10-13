@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Werden auch Sie <strong>Teil unserer Vertriebsfreak-Gemeinschaft <a href="https://affiliate.der-bayerische-vertriebsfreak.de/uebersicht" target="_blank" rel="noreferrer noopener">(Hier klicken!)</a></strong>. Und profitiere so von einem einzigartigen und legendären Affiliate-Programm.<br /><br />Ihr unglaublicher Nutzen für Ihr Vertriebsfeuerwerk:</p>
-<ul style="list-style-type:square;">
-<li>Einzigartig hohe Provisionen: <strong>20 % Provision </strong>auf Hochpreisprodukte. Und <strong>50 % Provisionen </strong>auf alle Kleinprodukte.</li>
-<li>Verdienen Sie als Affiliate <strong>bis zu 999,80 Euro pro Verkauf!</strong></li>
-<li><strong>Außerordentliche Kaufraten</strong> aufgrund einem hochoptimierten <strong>Verkaufsfunnel</strong> mit dem Ziel: Verkauf der exklusiven Vertriebsfreaks-Akademie.</li>
-<li><strong>Lebenslange Provisionen</strong> auf alle weiteren Verkäufe.</li>
-<li>Durchschnittlicher <strong>Warenkorb von 75 Euro</strong>.</li>
-<li>Regelmäßig weitere Folgeprodukte für Ihre Kunden, die Ihnen so auch <strong>Lifetime-Provisionen</strong> bescheren. </li>
-</ul>
-<p><strong>Nutze auch Sie den Bekanntheitsgrad von Uwe Rieder,</strong> dem bayerischen Vertriebsfreak. <a href="https://affiliate.der-bayerische-vertriebsfreak.de/uebersicht" target="_blank" rel="noreferrer noopener">Klicken Sie hier &gt;&gt;</a></p>
+**Vendor's marketplace description:** Werden auch Sie Teil unserer Vertriebsfreak-Gemeinschaft (Hier klicken!) . Und profitiere so von einem einzigartigen und legendären Affiliate-Programm. Ihr unglaublicher Nutzen für Ihr Vertriebsfeuerwerk: Einzigartig hohe Provisionen: 20 % Provision auf Hochpreisprodukte. Und 50 % Provisionen auf alle Kleinprodukte. Verdienen Sie als Affiliate bis zu 999,80 Euro pro Verkauf! Außerordentliche Kaufraten aufgrund einem hochoptimierten Verkaufsfunnel mit dem Ziel: Verkauf der exklusiven Vertriebsfreaks-Akademie. Lebenslange Provisionen auf alle weiteren Verkäufe. Durchschnittlicher Warenkorb von 75 Euro . Regelmäßig weitere Folgeprodukte für Ihre Kunden, die Ihnen so auch Lifetime-Provisionen bescheren. Nutze auch Sie den Bekanntheitsgrad von Uwe Rieder, dem bayerischen Vertriebsfreak. Klicken Sie hier >>
 
 ## 2. Links
 

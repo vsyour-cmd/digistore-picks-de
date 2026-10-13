@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<p><strong>Baue dir deinen eigenen, unabhängigen Umsatzkanal auf – ohne Technik-Chaos oder teure Tools.</strong></p>
-<p>In 19 praxisnahen Lektionen lernst du Schritt für Schritt, wie du mit E-Mail-Marketing echte Ergebnisse erzielst und dich unabhängig von Algorithmen machst.</p>
-<p>✔ <strong>Das technische Fundament</strong><br />Sauberes Setup, Domain-Authentifizierung (SPF, DKIM, DMARC) und die richtige Nutzung von Listen und Tags.</p>
-<p>✔<strong> Die Schreib-Routine</strong><br />Die bewährte Sweet-Spot-Struktur für Newsletter und Betreffzeilen, die Vertrauen aufbauen und Klicks generieren.</p>
-<p>✔ <strong>Ruhige Monetarisierung</strong><br />Affiliate-Empfehlungen, Evergreen-Automationen und kleine Launches, die verkaufen, ohne aufdringlich zu wirken.</p>
-<p>✔ <strong>Wachstum ohne Werbebudget</strong><br />Erprobte Wege, um deine ersten Leads organisch und ohne bezahlte Anzeigen zu gewinnen.</p>
-<h3>Dein Mega-Komplettpaket</h3>
-<p><strong>Dein Mega-Komplettpaket</strong></p>
-<p>✔ Der komplette Kurs mit 19 Lektionen – Schritt-für-Schritt von den Grundlagen bis zur eigenen funktionierenden E-Mail-Marketing-Strategie<br />✔ Workbook zur direkten Umsetzung<br />✔ Über 30 fertige Leadmagneten und digitale Produkte<br />✔ Checkliste für deinen perfekten Start<br />✔ E-Mail Vorlagen zum direkten Verwenden<br />✔ KlickTipp Starterkurs</p>
-</div>
+**Vendor's marketplace description:** Baue dir deinen eigenen, unabhängigen Umsatzkanal auf – ohne Technik-Chaos oder teure Tools. In 19 praxisnahen Lektionen lernst du Schritt für Schritt, wie du mit E-Mail-Marketing echte Ergebnisse erzielst und dich unabhängig von Algorithmen machst. ✔ Das technische Fundament Sauberes Setup, Domain-Authentifizierung (SPF, DKIM, DMARC) und die richtige Nutzung von Listen und Tags. ✔ Die Schreib-Routine Die bewährte Sweet-Spot-Struktur für Newsletter und Betreffzeilen, die Vertrauen aufbauen und Klicks generieren. ✔ Ruhige Monetarisierung Affiliate-Empfehlungen, Evergreen-Automationen und kleine Launches, die verkaufen, ohne aufdringlich zu wirken. ✔ Wachstum ohne Werbebudget Erprobte Wege, um deine ersten Leads organisch und ohne bezahlte Anzeigen zu gewinnen. Dein Mega-Komplettpaket Dein Mega-Komplettpaket ✔ Der komplette Kurs mit 19 Lektionen – Schritt-für-Schritt von den Grundlagen bis zur eigenen funktionierenden E-Mail-Marketing-Strategie ✔ Workbook zur direkten Umsetzung ✔ Über 30 fertige Leadmagneten und digitale Produkte ✔ Checkliste für deinen perfekten Start ✔ E-Mail Vorlagen zum direkten Verwenden ✔ KlickTipp Starterkurs
 
 ## 2. Links
 

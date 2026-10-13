@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>„Mit KI Ordnung schaffen“</strong> ist ein praxisorientiertes eBook für Selbstständige, kleine Unternehmen und KMU, die künstliche Intelligenz sinnvoll in ihren Arbeitsalltag integrieren möchten.</p>
-<p>Im Mittelpunkt stehen keine technischen Spielereien, sondern konkrete Einsatzmöglichkeiten: Informationen strukturieren, Inhalte zusammenfassen, Aufgaben vorbereiten, Texte und Dokumente effizienter erstellen, wiederkehrende Arbeiten vereinfachen und bestehende Abläufe übersichtlicher gestalten.</p>
-<p>Das eBook richtet sich besonders an Menschen, die KI bereits kennen oder erste Erfahrungen gesammelt haben, aber noch nach einem strukturierten und praxisnahen Einsatz suchen. Programmierkenntnisse sind nicht erforderlich.</p>
-<p><strong>Zielgruppen:</strong><br />Selbstständige, Unternehmer, KMU, Berater, Dienstleister sowie Interessenten aus den Bereichen Digitalisierung, Produktivität, Büroorganisation, Prozessoptimierung und künstliche Intelligenz.</p>
-<p><strong>Produktart:</strong> digitales eBook als PDF<br /><strong>Verkaufspreis:</strong> 12,99 €<br /><strong>Affiliate-Provision:</strong> 30 %</p>
-<p>Das Produkt eignet sich insbesondere für Affiliates mit Zielgruppen rund um Selbstständigkeit, Business, Digitalisierung, KI und produktiveres Arbeiten.</p>
+**Vendor's marketplace description:** „Mit KI Ordnung schaffen“ ist ein praxisorientiertes eBook für Selbstständige, kleine Unternehmen und KMU, die künstliche Intelligenz sinnvoll in ihren Arbeitsalltag integrieren möchten. Im Mittelpunkt stehen keine technischen Spielereien, sondern konkrete Einsatzmöglichkeiten: Informationen strukturieren, Inhalte zusammenfassen, Aufgaben vorbereiten, Texte und Dokumente effizienter erstellen, wiederkehrende Arbeiten vereinfachen und bestehende Abläufe übersichtlicher gestalten. Das eBook richtet sich besonders an Menschen, die KI bereits kennen oder erste Erfahrungen gesammelt haben, aber noch nach einem strukturierten und praxisnahen Einsatz suchen. Programmierkenntnisse sind nicht erforderlich. Zielgruppen: Selbstständige, Unternehmer, KMU, Berater, Dienstleister sowie Interessenten aus den Bereichen Digitalisierung, Produktivität, Büroorganisation, Prozessoptimierung und künstliche Intelligenz. Produktart: digitales eBook als PDF Verkaufspreis: 12,99 € Affiliate-Provision: 30 % Das Produkt eignet sich insbesondere für Affiliates mit Zielgruppen rund um Selbstständigkeit, Business, Digitalisierung, KI und produktiveres Arbeiten.
 
 ## 2. Links
 

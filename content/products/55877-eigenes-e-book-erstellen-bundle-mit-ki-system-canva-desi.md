@@ -41,49 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>E-Book Creator Bundle – Eigenes E-Book mit KI erstellen &amp; in Canva gestalten</strong></p>
-<p>Erstelle dein eigenes E-Book – mit KI schreiben und mit Canva professionell gestalten (nur 49 €).</p>
-<p>Das <strong>E-Book Creator Bundle</strong> zeigt Schritt für Schritt, wie ein eigenes E-Book entwickelt, geschrieben und professionell gestaltet wird – auch ohne Vorerfahrung.</p>
-<p>Das Bundle kombiniert zwei Guides, die perfekt zusammenpassen:</p>
-<p><strong>E-Book Generator PRO</strong> – entwickle dein E-Book mit einem klaren Schritt-für-Schritt-System und gezielten KI-Prompts.</p>
-<p><strong>Canva Mastery für E-Books</strong> – gestalte dein fertiges E-Book professionell mit Canva, damit es direkt hochwertig und verkaufsbereit wirkt.</p>
-<p>Das Ergebnis:<br />Ein eigenes fertiges E-Book, das als digitales Produkt verkauft, als Lead-Magnet genutzt oder als Experten-Guide eingesetzt werden kann.</p>
-<p><strong>Ideal für:</strong></p>
-<ul>
-<li>
-<p>Blogger</p>
-</li>
-<li>
-<p>Online-Business Starter</p>
-</li>
-<li>
-<p>Coaches &amp; Selbstständige</p>
-</li>
-<li>
-<p>Creator mit eigenem Wissen</p>
-</li>
-<li>
-<p>Menschen, die ihr erstes digitales Produkt erstellen möchten</p>
-</li>
-</ul>
-<p><strong>Warum sich das Bundle gut bewerben lässt:</strong></p>
-<ul>
-<li>
-<p>großes Interesse am Thema „digitales Produkt erstellen“</p>
-</li>
-<li>
-<p>aktuelle Themen: KI + Canva</p>
-</li>
-<li>
-<p>klares Ergebnis: eigenes fertiges E-Book</p>
-</li>
-<li>
-<p>besonders geeignet für Anfänger</p>
-</li>
-<li>
-<p>attraktive <strong>50 % Affiliate-Provision</strong></p>
-</li>
-</ul>
+**Vendor's marketplace description:** E-Book Creator Bundle – Eigenes E-Book mit KI erstellen & in Canva gestalten Erstelle dein eigenes E-Book – mit KI schreiben und mit Canva professionell gestalten (nur 49 €). Das E-Book Creator Bundle zeigt Schritt für Schritt, wie ein eigenes E-Book entwickelt, geschrieben und professionell gestaltet wird – auch ohne Vorerfahrung. Das Bundle kombiniert zwei Guides, die perfekt zusammenpassen: E-Book Generator PRO – entwickle dein E-Book mit einem klaren Schritt-für-Schritt-System und gezielten KI-Prompts. Canva Mastery für E-Books – gestalte dein fertiges E-Book professionell mit Canva, damit es direkt hochwertig und verkaufsbereit wirkt. Das Ergebnis: Ein eigenes fertiges E-Book, das als digitales Produkt verkauft, als Lead-Magnet genutzt oder als Experten-Guide eingesetzt werden kann. Ideal für: Blogger Online-Business Starter Coaches & Selbstständige Creator mit eigenem Wissen Menschen, die ihr erstes digitales Produkt erstellen möchten Warum sich das Bundle gut bewerben lässt: großes Interesse am Thema „digitales Produkt erstellen“ aktuelle Themen: KI + Canva klares Ergebnis: eigenes fertiges E-Book besonders geeignet für Anfänger attraktive 50 % Affiliate-Provision
 
 ## 2. Links
 

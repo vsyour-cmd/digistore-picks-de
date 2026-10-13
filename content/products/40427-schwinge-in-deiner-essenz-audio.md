@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#ffcc00;"><span style="color:#000000;">Anleitung, </span><span style="color:#000000;">um dich mit deiner</span><strong> Essenz zu verbinden und den Flow zu erreichen.</strong></span></p>
-<p>Eins der machtvollsten geistigen Werkzeuge. Du bewirkt tiefgreifende <strong>Veränderungsprozesse</strong>. Du machst den ersten Schritt in eine neue Welt, in dem du deine <strong>Realität aktiv mitgestaltest</strong>.</p>
-<p>Steigere dein mentales und mediales Potenzial und erreiche Ziele, die du nie für möglich gehalten hättest.</p>
-<p>Mit dieser Anleitung trainierst du deine geistigen Fähigkeiten zur Realitätsgestaltung und beginnst deine Reise zur Selbstverwirklichung. Sei gespannt auf deine eigene Wandlungs- und Steuerungskraft! </p>
-<p>Du verknüpfst deinen <strong>Atem mit deiner Imagination. </strong>Regelmäßig angewendet, wird es dein Power Tool zu deiner geistigen <strong>Kraft- und Machtentfaltung</strong>. </p>
-<p>Die Einflüsse und Umstände von außen können dich in diesem Zustand weder beeinflussen noch manipulieren. Experimentiere mit diesem machtvollen geistig-energetischen Transformation, um die Erfahrung der Zustandswandlung sekundenschnell einzuleiten.</p>
-<p><em>Du kannst den Flow nicht erzwingen. </em><em>Indem du loslässt und dich einlässt, mitzufließen, synchronisierst du deine Energiefelder und Selbstheilung geschieht.</em></p>
-<p>Dauer: Ca. 14 Minuten (Audio)<br />Format: Audiodatei (MP3)<br />Gesprochen von Anja Wagner</p>
+**Vendor's marketplace description:** Anleitung, um dich mit deiner Essenz zu verbinden und den Flow zu erreichen. Eins der machtvollsten geistigen Werkzeuge. Du bewirkt tiefgreifende Veränderungsprozesse . Du machst den ersten Schritt in eine neue Welt, in dem du deine Realität aktiv mitgestaltest . Steigere dein mentales und mediales Potenzial und erreiche Ziele, die du nie für möglich gehalten hättest. Mit dieser Anleitung trainierst du deine geistigen Fähigkeiten zur Realitätsgestaltung und beginnst deine Reise zur Selbstverwirklichung. Sei gespannt auf deine eigene Wandlungs- und Steuerungskraft! Du verknüpfst deinen Atem mit deiner Imagination. Regelmäßig angewendet, wird es dein Power Tool zu deiner geistigen Kraft- und Machtentfaltung . Die Einflüsse und Umstände von außen können dich in diesem Zustand weder beeinflussen noch manipulieren. Experimentiere mit diesem machtvollen geistig-energetischen Transformation, um die Erfahrung der Zustandswandlung sekundenschnell einzuleiten. Du kannst den Flow nicht erzwingen. Indem du loslässt und dich einlässt, mitzufließen, synchronisierst du deine Energiefelder und Selbstheilung geschieht. Dauer: Ca. 14 Minuten (Audio) Format: Audiodatei (MP3) Gesprochen von Anja Wagner
 
 ## 2. Links
 

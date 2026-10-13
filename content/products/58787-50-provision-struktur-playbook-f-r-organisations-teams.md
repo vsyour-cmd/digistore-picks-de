@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Klare Verantwortlichkeiten und stabile Schnittstellen entscheiden oft mehr über den <strong>Erfolg einer Organisation</strong> als jede Strategie — und genau das ist eines der gefragtesten Themen bei Geschäftsführung und Organisationsentwicklern, wenn Reorganisationen ins Stocken geraten.</p>
-<p>Das <strong>NAVOK Dimension Struktur-Playbook</strong> liefert ein konkretes System: Diagnose-Tool, Prinzipien-Templates und ein 7/30/90-Tage-Plan zur Umsetzung — entwickelt von einem erfahrenen Organisationsarchitekten und Interim Manager.</p>
-<p><strong>Zielgruppe:</strong> Geschäftsführung im Mittelstand, HR- und Organisationsentwickler, Berater und Coaches im B2B-Umfeld.</p>
-<p><strong>Für Sie als Affiliate:</strong> Aktuell zeitlich befristet 50 % Provision <strong>PLUS</strong> 15 € Bonus pro Verkauf. Über die NAVOK-Lifetime-Regel erhalten Sie zusätzlich automatisch Provision, wenn derselbe Kunde später eines der anderen sechs NAVOK-Produkte kauft — ganz ohne erneuten Klick auf Ihren Link. Fertige Werbemittel und Texte finden Sie auf unserer Affiliate-Support-Seite.</p>
-<p>Digitaler Download, sofort verfügbar.</p>
+**Vendor's marketplace description:** Klare Verantwortlichkeiten und stabile Schnittstellen entscheiden oft mehr über den Erfolg einer Organisation als jede Strategie — und genau das ist eines der gefragtesten Themen bei Geschäftsführung und Organisationsentwicklern, wenn Reorganisationen ins Stocken geraten. Das NAVOK Dimension Struktur-Playbook liefert ein konkretes System: Diagnose-Tool, Prinzipien-Templates und ein 7/30/90-Tage-Plan zur Umsetzung — entwickelt von einem erfahrenen Organisationsarchitekten und Interim Manager. Zielgruppe: Geschäftsführung im Mittelstand, HR- und Organisationsentwickler, Berater und Coaches im B2B-Umfeld. Für Sie als Affiliate: Aktuell zeitlich befristet 50 % Provision PLUS 15 € Bonus pro Verkauf. Über die NAVOK-Lifetime-Regel erhalten Sie zusätzlich automatisch Provision, wenn derselbe Kunde später eines der anderen sechs NAVOK-Produkte kauft — ganz ohne erneuten Klick auf Ihren Link. Fertige Werbemittel und Texte finden Sie auf unserer Affiliate-Support-Seite. Digitaler Download, sofort verfügbar.
 
 ## 2. Links
 

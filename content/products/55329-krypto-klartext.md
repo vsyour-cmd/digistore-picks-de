@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2 style="text-align:center;"><strong>Krypto <span style="color:#99cc00;">Klar</span><span style="color:#ff0000;">text</span> – Dein einfacher Einstieg in <span style="color:#ffcc00;">Bitcoin</span>, <span style="color:#999999;">Blockchain</span> &amp; Co.</strong></h2>
-<p>Bewirb <strong>„Krypto Klartext – Dein einfacher Einstieg in Bitcoin, Blockchain &amp; Co.“</strong>, ein digitales E-Book, das Einsteigern die Grundlagen von Kryptowährungen verständlich und praxisnah erklärt.</p>
-<p>Als Affiliate profitierst du von:</p>
-<ul>
-<li>
-<p>einem stark nachgefragten Einsteiger-Thema (Krypto &amp; Blockchain)</p>
-</li>
-<li>
-<p>einer klar strukturierten, leicht verständlichen Produktpositionierung</p>
-</li>
-<li>
-<p><strong>attraktiven <span style="color:#99cc00;">Upsell-Verdienst</span> von bis zu 210 € pro Verkauf</strong></p>
-</li>
-</ul>
-<p>Ideal für Affiliates, Marketer und Content Creator, die Krypto-Einsteiger seriös ansprechen möchten.</p>
+**Vendor's marketplace description:** Krypto Klar text – Dein einfacher Einstieg in Bitcoin , Blockchain & Co. Bewirb „Krypto Klartext – Dein einfacher Einstieg in Bitcoin, Blockchain & Co.“ , ein digitales E-Book, das Einsteigern die Grundlagen von Kryptowährungen verständlich und praxisnah erklärt. Als Affiliate profitierst du von: einem stark nachgefragten Einsteiger-Thema (Krypto & Blockchain) einer klar strukturierten, leicht verständlichen Produktpositionierung attraktiven Upsell-Verdienst von bis zu 210 € pro Verkauf Ideal für Affiliates, Marketer und Content Creator, die Krypto-Einsteiger seriös ansprechen möchten.
 
 ## 2. Links
 

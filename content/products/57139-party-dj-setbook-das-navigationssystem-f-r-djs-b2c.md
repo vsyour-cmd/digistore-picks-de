@@ -41,53 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Party DJ Setbook – Persönliche PRO-Lizenz (B2C)</strong></h2>
-<p>Die <strong>Party DJ Setbook Persönliche PRO-Lizenz (B2C)</strong> richtet sich an <strong>einzelne DJs</strong>, die ihre Auftritte strukturierter, sicherer und professioneller gestalten möchten.</p>
-<p>Das Party DJ Setbook ist <strong>keine Playlist</strong>, <strong>keine DJ-Software</strong> und <strong>kein Autopilot</strong>.</p>
-<p>Es ist ein <strong>DJ-Navigationssystem</strong>, das bewährte Entscheidungswege statt einzelner Songvorschläge zeigt. Statt ständig zu überlegen <em>„Was spiele ich als Nächstes?“</em>, arbeitest du mit einem klar strukturierten System, das dich durch nahezu jede Party-Situation führt.</p>
-<p> </p>
-<h3><strong>Das Alleinstellungsmerkmal</strong></h3>
-<p>Im Gegensatz zu vielen Songlisten und Playlist-Sammlungen, die lediglich Musiktitel auflisten, basiert das Party DJ Setbook auf einem durchgängigen Navigationssystem aus:</p>
-<ul>
-<li>bewährten <strong>3er- und 5er-Setstrukturen</strong></li>
-<li>einer <strong>BPM-Struktur</strong> für stimmige Energieverläufe</li>
-<li>einer <strong>Camelot-Key-Struktur</strong> für harmonische Übergänge</li>
-</ul>
-<p>Dadurch entstehen nicht nur Songlisten, sondern nachvollziehbare <strong>Entscheidungswege</strong>, an denen sich DJs orientieren können.</p>
-<p> </p>
-<h3><strong>Enthalten sind</strong></h3>
-<ul>
-<li>605 praxiserprobte DJ-Sets</li>
-<li>über 2.400 Partyhits aus 70 Jahren Musikgeschichte</li>
-<li>5 Hauptgenres (Pop, Rock, EDM, Urban, German)</li>
-<li>über 40 Subgenres</li>
-<li>157 Seiten digitales PDF</li>
-<li>Sofort-Download</li>
-<li>lebenslang gültige persönliche B2C-Lizenz</li>
-<li>kein Abo</li>
-<li>keine Software</li>
-<li>keine laufenden Kosten</li>
-</ul>
-<h3> </h3>
-<h3><strong>Wichtiger Hinweis</strong></h3>
-<p>Das Party DJ Setbook enthält <strong>keine Audiodateien</strong>, <strong>keine Musikdownloads</strong>, <strong>keine MP3-Dateien</strong>, <strong>keine Streaming-Playlists</strong> und <strong>keinen Zugriff auf Musikstreaming-Dienste</strong>.</p>
-<p><strong>Das Party DJ Setbook ersetzt keine Musikbibliothek, es ergänzt sie um ein strukturiertes Navigationssystem für professionelle DJ-Sets.</strong></p>
-<p>Es handelt sich ausschließlich um ein strukturiertes DJ-Navigationssystem mit Songtiteln, BPM-, Camelot-Key- und Setstrukturen. Die aufgeführten Musiktitel müssen vom Nutzer selbst rechtmäßig erworben bzw. bereits in der eigenen Musikbibliothek vorhanden sein. Dieser Hinweis entspricht auch den rechtlichen Erläuterungen der Preview.</p>
-<h3> </h3>
-<h3><strong>Geeignet für</strong></h3>
-<ul>
-<li>Mobile DJs</li>
-<li>Hochzeits-DJs</li>
-<li>Event-DJs</li>
-<li>Geburtstags-DJs</li>
-<li>Vereins- und Festzelt-DJs</li>
-<li>Einsteiger</li>
-<li>Fortgeschrittene</li>
-<li>Profis</li>
-</ul>
-<h3> </h3>
-<h3><strong>Nicht geeignet für</strong></h3>
-<p>Diese Lizenz gilt ausschließlich für <strong>einen einzelnen DJ</strong>. Sie ist personenbezogen und nicht übertragbar. Sie ist nicht für DJ-Teams, Agenturen, Veranstalter oder Unternehmen bestimmt. Für den Einsatz durch mehrere DJs oder Organisationen sind separate Business-Lizenzmodelle vorgesehen.</p>
+**Vendor's marketplace description:** Party DJ Setbook – Persönliche PRO-Lizenz (B2C) Die Party DJ Setbook Persönliche PRO-Lizenz (B2C) richtet sich an einzelne DJs , die ihre Auftritte strukturierter, sicherer und professioneller gestalten möchten. Das Party DJ Setbook ist keine Playlist , keine DJ-Software und kein Autopilot . Es ist ein DJ-Navigationssystem , das bewährte Entscheidungswege statt einzelner Songvorschläge zeigt. Statt ständig zu überlegen „Was spiele ich als Nächstes?“ , arbeitest du mit einem klar strukturierten System, das dich durch nahezu jede Party-Situation führt. Das Alleinstellungsmerkmal Im Gegensatz zu vielen Songlisten und Playlist-Sammlungen, die lediglich Musiktitel auflisten, basiert das Party DJ Setbook auf einem durchgängigen Navigationssystem aus: bewährten 3er- und 5er-Setstrukturen einer BPM-Struktur für stimmige Energieverläufe einer Camelot-Key-Struktur für harmonische Übergänge Dadurch entstehen nicht nur Songlisten, sondern nachvollziehbare Entscheidungswege , an denen sich DJs orientieren können. Enthalten sind 605 praxiserprobte DJ-Sets über 2.400 Partyhits aus 70 Jahren Musikgeschichte 5 Hauptgenres (Pop, Rock, EDM, Urban, German) über 40 Subgenres 157 Seiten digitales PDF Sofort-Download lebenslang gültige persönliche B2C-Lizenz kein Abo keine Software keine laufenden Kosten Wichtiger Hinweis Das Party DJ Setbook enthält keine Audiodateien , keine Musikdownloads , keine MP3-Dateien , keine Streaming-Playlists und keinen Zugriff auf Musikstreaming-Dienste . Das Party DJ Setbook ersetzt keine Musikbibliothek, es ergänzt sie um ein strukturiertes Navigationssystem für professionelle DJ-Sets. Es handelt sich ausschließlich um ein strukturiertes DJ-Navigationssystem mit Songtiteln, BPM-, Camelot-Key- und Setstrukturen. Die aufgeführten Musiktitel müssen vom Nutzer selbst rechtmäßig erworben bzw. bereits in der eigenen Musikbibliothek vorhanden sein. Dieser Hinweis entspricht auch den rechtlichen Erläuterungen der Preview. Geeignet für Mobile DJs Hochzeits-DJs Event-DJs Geburtstags-DJs Vereins- und Festzelt-DJs Einsteiger Fortgeschrittene Profis Nicht geeignet für Diese Lizenz gilt ausschließlich für einen einzelnen DJ . Sie ist personenbezogen und nicht übertragbar. Sie ist nicht für DJ-Teams, Agenturen, Veranstalter oder Unternehmen bestimmt. Für den Einsatz durch mehrere DJs oder Organisationen sind separate Business-Lizenzmodelle vorgesehen.
 
 ## 2. Links
 

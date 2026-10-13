@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der Handlettering Online Kurs - ein großartiges, kreatives Produkt mit viel Potential.</strong></p>
-<hr />
-<p> <span style="color:#ff0000;"><strong>Achtung:</strong> Nur seriöse Affliates mit passendem Traffic gesucht. Bitte kein Spam in Facebook Gruppen! Bei Zuwiderhandlung wird die Partnerschaft umgehend aufgelöst.</span></p>
-<hr />
-<p>Profitiere vom Trend der kreativen Handschrift. Immer mehr Menschen suchen einen Ausgleich zur Arbeit am PC, und zu seelenloser KI-Kunst. Das Handlettering ist dabei das ideale Hobby.</p>
-<ul>
-<li>In meinem Handlettering Online Kurs lernen die Teilnehmer das Handlettering vom ersten Strich bis zum finalen Foto.</li>
-<li>Unzählige exklusive Übungsblätter (PDFs) begleiten den Workshop und helfen beim effektiven Lernen.</li>
-<li>Massig Material, das auch nach dem Kurs noch hilfreich ist (Grundlinienraster mit verschiedenen Proportionen, Punktraster)</li>
-<li>In 55 Lektionen &amp; Videos bringe ich dem Teilnehmer alles bei, um selbst zum Handlettering Artist zu werden.</li>
-<li>Selbst entwickelte, exklusive Zusatztools (Style-Picker, Layout-Designer) für alle Kursteilnehmer.</li>
-<li>Eine private Community zum Kurs, um seine Werke mit Gleichgesinnten teilen zu können</li>
-</ul>
+**Vendor's marketplace description:** Der Handlettering Online Kurs - ein großartiges, kreatives Produkt mit viel Potential. Achtung: Nur seriöse Affliates mit passendem Traffic gesucht. Bitte kein Spam in Facebook Gruppen! Bei Zuwiderhandlung wird die Partnerschaft umgehend aufgelöst. Profitiere vom Trend der kreativen Handschrift. Immer mehr Menschen suchen einen Ausgleich zur Arbeit am PC, und zu seelenloser KI-Kunst. Das Handlettering ist dabei das ideale Hobby. In meinem Handlettering Online Kurs lernen die Teilnehmer das Handlettering vom ersten Strich bis zum finalen Foto. Unzählige exklusive Übungsblätter (PDFs) begleiten den Workshop und helfen beim effektiven Lernen. Massig Material, das auch nach dem Kurs noch hilfreich ist (Grundlinienraster mit verschiedenen Proportionen, Punktraster) In 55 Lektionen & Videos bringe ich dem Teilnehmer alles bei, um selbst zum Handlettering Artist zu werden. Selbst entwickelte, exklusive Zusatztools (Style-Picker, Layout-Designer) für alle Kursteilnehmer. Eine private Community zum Kurs, um seine Werke mit Gleichgesinnten teilen zu können
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Künstlerische und zeitlose Farben für Fotografen</h3>
-<p>Du bist auf der Suche nach Lightroom Presets, die <strong>einfach zu handhaben</strong> sind, <strong>natürliche Hauttöne</strong> zaubern und dennoch <strong>künstlerisch</strong> wirken? Dann bist du hier genau richtig.</p>
-<p>Mit unseren Presets möchten wir eine <strong>Bildbearbeitung mit nur wenigen Klicks</strong> ermöglichen. Wir bearbeiten unsere Fotos aktuell selbst mit genau diesen Presets. Angewendet wurden sie bisher auf Canon-, Nikon- und Sony-Kameras.</p>
-<p>Das Preset-Pack beinhaltet insgesamt acht Vorgaben, davon sechs Farb-Presets und zwei Schwarz-Weiß-Presets. Zusätzlich liegt eine Installationsanleitung (PDF) bei.</p>
-<p>Die Presets bieten dir die perfekte Grundlage für einen künstlerischen und dennoch zeitlosen Bearbeitungslook mit erdigen Farbtönen.</p>
-<p><strong>Lieferumfang</strong></p>
-<p>- 8 Presets (6x Farbe und 2x SW)</p>
-<p>- Installationsanleitung</p>
+**Vendor's marketplace description:** Künstlerische und zeitlose Farben für Fotografen Du bist auf der Suche nach Lightroom Presets, die einfach zu handhaben sind, natürliche Hauttöne zaubern und dennoch künstlerisch wirken? Dann bist du hier genau richtig. Mit unseren Presets möchten wir eine Bildbearbeitung mit nur wenigen Klicks ermöglichen. Wir bearbeiten unsere Fotos aktuell selbst mit genau diesen Presets. Angewendet wurden sie bisher auf Canon-, Nikon- und Sony-Kameras. Das Preset-Pack beinhaltet insgesamt acht Vorgaben, davon sechs Farb-Presets und zwei Schwarz-Weiß-Presets. Zusätzlich liegt eine Installationsanleitung (PDF) bei. Die Presets bieten dir die perfekte Grundlage für einen künstlerischen und dennoch zeitlosen Bearbeitungslook mit erdigen Farbtönen. Lieferumfang - 8 Presets (6x Farbe und 2x SW) - Installationsanleitung
 
 ## 2. Links
 

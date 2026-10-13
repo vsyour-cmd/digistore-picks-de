@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>„Warum werde ich auf FB und Insta gesperrt?“</strong> <br />0 € E-Book zum Verschenken!</p>
-<ul>
-<li>Dieses E-Book funktioniert für Affiliate Anfänger</li>
-<li>Perfektes Produkt für <strong>„jeden“</strong>, der mit seinem online Business / Affiliate-Marketing starten will und nach wertvollen Tipps sucht.</li>
-<li>Du hast mit <strong>diesem E-Book ein Geschenk für deine Community</strong> und wirst am<strong> kompletten Sales-Funnel beteiligt!</strong></li>
-</ul>
-<p>Hohe Conversion, da es für den Kunden kostenlos ist.</p>
-<h4>60 % Provision bei Upsell!</h4>
-<p>Beteiligt an Up- und Downsell<br /><strong>Über 69 € im Funnel für dich möglich!</strong></p>
+**Vendor's marketplace description:** „Warum werde ich auf FB und Insta gesperrt?“ 0 € E-Book zum Verschenken! Dieses E-Book funktioniert für Affiliate Anfänger Perfektes Produkt für „jeden“ , der mit seinem online Business / Affiliate-Marketing starten will und nach wertvollen Tipps sucht. Du hast mit diesem E-Book ein Geschenk für deine Community und wirst am kompletten Sales-Funnel beteiligt! Hohe Conversion, da es für den Kunden kostenlos ist. 60 % Provision bei Upsell! Beteiligt an Up- und Downsell Über 69 € im Funnel für dich möglich!
 
 ## 2. Links
 

@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „SEO skalieren“</strong></p>
-<p>Content-Cluster, Backlinks und Traffic-Strategien für Profis – Mehr Inhalt ohne Strategie verpufft. Themencluster und Pillar-Pages, Content-Produktion mit System, Backlinks und digitale PR. Für Fortgeschrittene.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Von einzelnen Beiträgen zur Content-Strategie</li>
-<li>Themencluster und Pillar-Pages aufbauen</li>
-<li>Backlinks und digitale PR seriös aufbauen</li>
-<li>Große Websites technisch und nachhaltig skalieren</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „SEO skalieren“ Content-Cluster, Backlinks und Traffic-Strategien für Profis – Mehr Inhalt ohne Strategie verpufft. Themencluster und Pillar-Pages, Content-Produktion mit System, Backlinks und digitale PR. Für Fortgeschrittene. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Von einzelnen Beiträgen zur Content-Strategie Themencluster und Pillar-Pages aufbauen Backlinks und digitale PR seriös aufbauen Große Websites technisch und nachhaltig skalieren
 
 ## 2. Links
 

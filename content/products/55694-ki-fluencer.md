@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Anonym Reichweite, Leads und Sales generieren, dank realistischen KI-Avatar!<br /></strong></h2>
-<p>Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt<strong> 50% Provision</strong> + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. <strong>320€ Provision im Funnel.</strong></p>
-<p>Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst!</p>
-<p>Das bekommt der Kunde in diesem wertvollen Online-Kurs:</p>
-<ul>
-<li>...realistischen(!) KI Avatar <strong>in unter 30 Minuten erstellen</strong></li>
-<li>...eigenen KI-Zwilling als Klon generieren.</li>
-<li>...Content Ideen, die funktionieren in Überfluss.</li>
-<li>...Content erstellen, der Views und Sales bringt.</li>
-<li><strong>...auf Instagram und TikTok viral gehen</strong></li>
-<li><strong>Bonus 1:</strong> 11 KI Beispielprofile (Wert: 99€)</li>
-<li><strong>Bonus 2:</strong> 30 Tage Content Plan (Wert: 149€)</li>
-<li><strong>Bonus 3:</strong> 100 virale Content Ideen (Wert: 249€)</li>
-<li><strong>Bonus 4:</strong> 600€ Refinanzierungsstrategie (Wert: 390€)</li>
-<li><strong>Bonus 5:</strong> KI-Automatisierungstemplate (Wert: 499€)<br />
-<p> </p>
-</li>
-</ul>
+**Vendor's marketplace description:** Anonym Reichweite, Leads und Sales generieren, dank realistischen KI-Avatar! Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. 320€ Provision im Funnel. Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst! Das bekommt der Kunde in diesem wertvollen Online-Kurs: ...realistischen(!) KI Avatar in unter 30 Minuten erstellen ...eigenen KI-Zwilling als Klon generieren. ...Content Ideen, die funktionieren in Überfluss. ...Content erstellen, der Views und Sales bringt. ...auf Instagram und TikTok viral gehen Bonus 1: 11 KI Beispielprofile (Wert: 99€) Bonus 2: 30 Tage Content Plan (Wert: 149€) Bonus 3: 100 virale Content Ideen (Wert: 249€) Bonus 4: 600€ Refinanzierungsstrategie (Wert: 390€) Bonus 5: KI-Automatisierungstemplate (Wert: 499€)
 
 ## 2. Links
 

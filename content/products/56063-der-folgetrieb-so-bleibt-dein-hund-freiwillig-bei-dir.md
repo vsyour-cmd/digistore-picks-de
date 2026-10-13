@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieser Kurs richtet sich an Hundehalter, deren Hund sich stark an der Umwelt orientiert und wenig Bezug zum Menschen zeigt - ein häufiges Problem im Alltag.</p>
-<p>Im Fokus steht der sogenannte Folgetrieb, der als Grundlage für freiwillige Orientierung und stabile Bindung dient. Statt Kontrolle oder ständigem Eingreifen vermittelt der Kurs, wie der Hund von sich aus beim Menschen bleiben möchte.</p>
-<p>Dieser Ansatz spricht besonders Hundehalter an, die sich eine natürliche Zusammenarbeit mit ihrem Hund wünschen und sich von klassischen Trainingsmethoden lösen möchten.</p>
-<p>Geeignet für:<br />– Hundehalter mit wenig Orientierung des Hundes<br />– Einsteiger und Fortgeschrittene im Training<br />– Zielgruppe mit Wunsch nach mehr Bindung und entspannter Führung</p>
-<p>Das Thema eignet sich sehr gut für Content, Social Media und edukative Inhalte, da viele Hundehalter genau dieses Problem im Alltag erleben.</p>
+**Vendor's marketplace description:** Dieser Kurs richtet sich an Hundehalter, deren Hund sich stark an der Umwelt orientiert und wenig Bezug zum Menschen zeigt - ein häufiges Problem im Alltag. Im Fokus steht der sogenannte Folgetrieb, der als Grundlage für freiwillige Orientierung und stabile Bindung dient. Statt Kontrolle oder ständigem Eingreifen vermittelt der Kurs, wie der Hund von sich aus beim Menschen bleiben möchte. Dieser Ansatz spricht besonders Hundehalter an, die sich eine natürliche Zusammenarbeit mit ihrem Hund wünschen und sich von klassischen Trainingsmethoden lösen möchten. Geeignet für: – Hundehalter mit wenig Orientierung des Hundes – Einsteiger und Fortgeschrittene im Training – Zielgruppe mit Wunsch nach mehr Bindung und entspannter Führung Das Thema eignet sich sehr gut für Content, Social Media und edukative Inhalte, da viele Hundehalter genau dieses Problem im Alltag erleben.
 
 ## 2. Links
 

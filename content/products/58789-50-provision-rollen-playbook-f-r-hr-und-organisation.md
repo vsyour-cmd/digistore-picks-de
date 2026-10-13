@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Wer entscheidet, wer verantwortlich ist und wie Übergaben zwischen Rollen funktionieren — das ist eines der Themen, bei denen<strong> Organisationen am häufigsten hängen bleiben</strong>.</p>
-<p>Das <strong>NAVOK Dimension Rollen &amp; Verantwortung-Playbook</strong> schafft Klarheit mit RollenLeitbild, RollenLandkarte und direkt einsetzbaren Templates — entwickelt von einem erfahrenen Organisationsarchitekten und Interim Manager.</p>
-<p><strong>Zielgruppe:</strong> Geschäftsführung im Mittelstand, HR- und Organisationsentwickler, Berater und Coaches im B2B-Umfeld.</p>
-<p><strong>Für Sie als Affiliate:</strong> Aktuell zeitlich befristet 50 % Provision <strong>PLUS</strong> 15 € Bonus pro Verkauf. Über die NAVOK-Lifetime-Regel erhalten Sie zusätzlich automatisch Provision, wenn derselbe Kunde später eines der anderen sechs NAVOK-Produkte kauft — ganz ohne erneuten Klick auf Ihren Link. Fertige Werbemittel und Texte finden Sie auf unserer Affiliate-Support-Seite.</p>
-<p>Digitaler Download, sofort verfügbar.</p>
+**Vendor's marketplace description:** Wer entscheidet, wer verantwortlich ist und wie Übergaben zwischen Rollen funktionieren — das ist eines der Themen, bei denen Organisationen am häufigsten hängen bleiben . Das NAVOK Dimension Rollen & Verantwortung-Playbook schafft Klarheit mit RollenLeitbild, RollenLandkarte und direkt einsetzbaren Templates — entwickelt von einem erfahrenen Organisationsarchitekten und Interim Manager. Zielgruppe: Geschäftsführung im Mittelstand, HR- und Organisationsentwickler, Berater und Coaches im B2B-Umfeld. Für Sie als Affiliate: Aktuell zeitlich befristet 50 % Provision PLUS 15 € Bonus pro Verkauf. Über die NAVOK-Lifetime-Regel erhalten Sie zusätzlich automatisch Provision, wenn derselbe Kunde später eines der anderen sechs NAVOK-Produkte kauft — ganz ohne erneuten Klick auf Ihren Link. Fertige Werbemittel und Texte finden Sie auf unserer Affiliate-Support-Seite. Digitaler Download, sofort verfügbar.
 
 ## 2. Links
 

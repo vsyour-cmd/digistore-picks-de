@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „KDP-Verlag aufbauen“</strong></p>
-<p>Mehrere Bücher, Serien und ein planbares Self-Publishing-Business – Ein einzelnes Buch ist ein Anfang – ein Katalog ist ein Geschäft. Themen und Serien planen, das Schreiben skalieren und eine Backlist aufbauen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Aus einzelnen Büchern einen eigenen Katalog machen</li>
-<li>Themen, Serien und eine Backlist mit System planen</li>
-<li>Schreiben skalieren – selbst, mit Vorlagen oder auslagern</li>
-<li>Mit echten Rezensionen und Werbung sichtbar werden</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „KDP-Verlag aufbauen“ Mehrere Bücher, Serien und ein planbares Self-Publishing-Business – Ein einzelnes Buch ist ein Anfang – ein Katalog ist ein Geschäft. Themen und Serien planen, das Schreiben skalieren und eine Backlist aufbauen. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Aus einzelnen Büchern einen eigenen Katalog machen Themen, Serien und eine Backlist mit System planen Schreiben skalieren – selbst, mit Vorlagen oder auslagern Mit echten Rezensionen und Werbung sichtbar werden
 
 ## 2. Links
 

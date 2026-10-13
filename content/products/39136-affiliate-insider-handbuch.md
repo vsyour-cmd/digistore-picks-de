@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="background-color:#ff0000;color:#ffffff;"><strong>Empfehle das Affiliate Insider Handbuch und verdiene bis zu 40% jeden Monat an Provisionen!</strong></span></h2>
-<p>Du kannst das "Affiliate Insider Handbuch" an deine Liste oder Kontakte weiterempfehlen.</p>
-<p><a href="https://torstenjaeger.com/partnerprogramm-affiliate-insider/" target="_blank" rel="noreferrer noopener"><strong>Hier geht es zum Partnerprogramm</strong></a></p>
-<hr />
-<div>
-<h3><strong><span style="color:#ff0000;">Deine Vorteile</span></strong></h3>
-<p>Mit dem <strong>Affiliate Insider Handbuch</strong> bekommst du eine klare Schritt-für-Schritt Erfolgs-Formel und geheime Strategien an die Hand, wie du mit Affiliate Marketing dein Online Business startest.</p>
-<ul>
-<li>Perfekt geeignet für <strong>Anfänger ohne Vorkenntnisse<br /></strong></li>
-<li>Schritt für Schritt Anleitung, wie du ganz leicht mit Affiliate Marketing deine <strong>eigene E-Mail Liste</strong> aufbaust (In der Liste liegt das Geld!)</li>
-</ul>
-</div>
-<h3><strong><span style="color:#ff0000;">Dein Verdienst</span></strong></h3>
-<ul>
-<li>40% an <strong>wiederkehrenden Provisionen<br /></strong></li>
-<li><strong>Bis zu 324€ </strong>(netto) jährliche Provision je Lead möglich<strong><br /></strong></li>
-<li>Der Funnel ist so aufgebaut, dass danach verschiedene Upsellprodukte mit Abomodellen angeboten werden und du somit <strong>monatlich wiederkehrende Provisionen</strong> verdienen kannst</li>
-<li>Perfekt geeignet für <strong>Anfänger ohne Vorkenntnisse</strong></li>
-</ul>
-<hr />
-<p><br />Wir haben viele verschiedene Werbemittel im Partnerprogrammbereich für dich vorbereitet. <br /><strong><a href="https://torstenjaeger.com/partnerprogramm-affiliate-insider/" target="_blank" rel="noreferrer noopener">Hier klicken</a></strong></p>
-<div> </div>
+**Vendor's marketplace description:** Empfehle das Affiliate Insider Handbuch und verdiene bis zu 40% jeden Monat an Provisionen! Du kannst das "Affiliate Insider Handbuch" an deine Liste oder Kontakte weiterempfehlen. Hier geht es zum Partnerprogramm Deine Vorteile Mit dem Affiliate Insider Handbuch bekommst du eine klare Schritt-für-Schritt Erfolgs-Formel und geheime Strategien an die Hand, wie du mit Affiliate Marketing dein Online Business startest. Perfekt geeignet für Anfänger ohne Vorkenntnisse Schritt für Schritt Anleitung, wie du ganz leicht mit Affiliate Marketing deine eigene E-Mail Liste aufbaust (In der Liste liegt das Geld!) Dein Verdienst 40% an wiederkehrenden Provisionen Bis zu 324€ (netto) jährliche Provision je Lead möglich Der Funnel ist so aufgebaut, dass danach verschiedene Upsellprodukte mit Abomodellen angeboten werden und du somit monatlich wiederkehrende Provisionen verdienen kannst Perfekt geeignet für Anfänger ohne Vorkenntnisse Wir haben viele verschiedene Werbemittel im Partnerprogrammbereich für dich vorbereitet. Hier klicken
 
 ## 2. Links
 

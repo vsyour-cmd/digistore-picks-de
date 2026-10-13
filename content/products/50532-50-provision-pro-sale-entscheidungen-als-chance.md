@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verdiene 50 % Provision pro Sale als Affiliate!</strong><br />Das „Entscheidungen als Chance“-Arbeitsbuch unterstützt Menschen dabei, schwierige Entscheidungen zu treffen und die Kontrolle über ihr Leben zurückzugewinnen. Perfekt für deinen Newsletter, Blog oder Social Media!</p>
-<h3>Kurzbeschreibung</h3>
-<p>Sieh Entscheidungen nicht länger als Last, sondern als Chance! Mit diesem Arbeitsbuch lernst du einfache und effektive Methoden, um selbstbewusst Entscheidungen zu treffen, die dein Leben in die gewünschte Richtung lenken.</p>
-<h3><strong>Das erhält der Kunde:</strong></h3>
-<p><strong>10 bewährte Entscheidungs-Methoden:</strong><br />Von einfachen bis hin zu umfassenderen Ansätzen – für jede Situation die passende Anleitung, um sichere Entscheidungen zu treffen.</p>
-<p><strong>Klare Strategien:</strong><br />Erfahre, wie du deine Ängste und Zweifel überwindest und die Kontrolle über dein Leben zurückgewinnst.</p>
-<p><strong>Selbstbewusste Entscheidungen:</strong><br />Lerne, Entscheidungen zu treffen, die für dich und deine Ziele arbeiten – nicht gegen dich.</p>
-<h3><strong>Was macht dieses Workbook so wertvoll?</strong></h3>
-<ul>
-<li><strong>Keine Angst mehr vor Entscheidungen:</strong> Entlarve deine größten Zweifel und finde den Mut, zu handeln.</li>
-<li><strong>Erreiche deine Ziele:</strong> Triff Entscheidungen, die dich weiterbringen und dir langfristig Erfolg und Erfüllung ermöglichen.</li>
-<li><strong>Ein Werkzeug für jede Situation:</strong> Die vielseitigen Methoden machen dieses Workbook zu einem unverzichtbaren Begleiter in deinem Alltag.</li>
-<li><strong>Werde handlungsfähig:</strong> Lass das Grübeln hinter dir und ergreife die Chance, dein Leben aktiv zu gestalten.</li>
-</ul>
+**Vendor's marketplace description:** Verdiene 50 % Provision pro Sale als Affiliate! Das „Entscheidungen als Chance“-Arbeitsbuch unterstützt Menschen dabei, schwierige Entscheidungen zu treffen und die Kontrolle über ihr Leben zurückzugewinnen. Perfekt für deinen Newsletter, Blog oder Social Media! Kurzbeschreibung Sieh Entscheidungen nicht länger als Last, sondern als Chance! Mit diesem Arbeitsbuch lernst du einfache und effektive Methoden, um selbstbewusst Entscheidungen zu treffen, die dein Leben in die gewünschte Richtung lenken. Das erhält der Kunde: 10 bewährte Entscheidungs-Methoden: Von einfachen bis hin zu umfassenderen Ansätzen – für jede Situation die passende Anleitung, um sichere Entscheidungen zu treffen. Klare Strategien: Erfahre, wie du deine Ängste und Zweifel überwindest und die Kontrolle über dein Leben zurückgewinnst. Selbstbewusste Entscheidungen: Lerne, Entscheidungen zu treffen, die für dich und deine Ziele arbeiten – nicht gegen dich. Was macht dieses Workbook so wertvoll? Keine Angst mehr vor Entscheidungen: Entlarve deine größten Zweifel und finde den Mut, zu handeln. Erreiche deine Ziele: Triff Entscheidungen, die dich weiterbringen und dir langfristig Erfolg und Erfüllung ermöglichen. Ein Werkzeug für jede Situation: Die vielseitigen Methoden machen dieses Workbook zu einem unverzichtbaren Begleiter in deinem Alltag. Werde handlungsfähig: Lass das Grübeln hinter dir und ergreife die Chance, dein Leben aktiv zu gestalten.
 
 ## 2. Links
 

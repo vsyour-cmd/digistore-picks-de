@@ -41,43 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Dein schlüsselfertiges „Done for You“-Business</strong></p>
-<p><strong>Was du bekommst:</strong></p>
-<p><strong> Kompletter Aufbau deines Geschäfts</strong></p>
-<ul>
-<li>Produktentwicklung: Dein eigenes, verkaufsstarkes Produkt (z. B. ein Online-Kurs) und Leadmagnet.</li>
-<li>Verkaufsstrategien: Für deine Zielgruppe und deine Nische.</li>
-</ul>
-<p><strong>Installation und Konfiguration aller Tools</strong></p>
-<ul>
-<li>Ich richte alles ein: <strong>FunnelCockpit, Systeme.io, Quentn, Digistore24 und Mentortools</strong> – Du musst dich um nichts kümmern( Ich wähle für Dich die benötigten Tools aus).</li>
-</ul>
-<p><strong>Produktpaket inklusive Leadmagnet und Online-Kurs</strong></p>
-<ul>
-<li>Erstellung eines hochwertigen Leadmagnets zur Leadgenerierung.</li>
-<li>Entwicklung eines fertigen Kurses mit Verkaufs-, Danke- und Partnerprogramm-Seiten.</li>
-</ul>
-<p><strong>Partnerprogramm-Einrichtung auf Digistore24</strong></p>
-<ul>
-<li>Dein Produkt wird professionell auf dem Marktplatz von Digistore24 platziert.</li>
-<li>Ich erstelle Partnerprogramm-Seiten, damit Du Affiliates für den Vertrieb deines Produktes gewinnst.</li>
-</ul>
-<p><strong>E-Mail-Marketing-Kampagnen</strong></p>
-<ul>
-<li>Einrichtung effektiver E-Mail-Kampagnen, die Kunden binden und Verkäufe generieren.</li>
-</ul>
-<p><strong>Erprobte Traffic-Strategien</strong></p>
-<ul>
-<li>Ich zeige Dir bewährte Methoden, um qualifizierte Besucher auf deine Seite zu bringen.</li>
-</ul>
-<p><strong>Persönliches Übergabe-Coaching</strong></p>
-<ul>
-<li>Eine individuelle Einweisung in dein Business: Lerne, wie alles funktioniert, und erhalte einen klaren Fahrplan für den Erfolg.</li>
-</ul>
-<p><strong>2 Stunden Einzelcoaching zur Unterstützung</strong></p>
-<ul>
-<li>Persönliches Coaching, um offene Fragen zu klären und dein Business weiter zu entwickeln.</li>
-</ul>
+**Vendor's marketplace description:** Dein schlüsselfertiges „Done for You“-Business Was du bekommst: Kompletter Aufbau deines Geschäfts Produktentwicklung: Dein eigenes, verkaufsstarkes Produkt (z. B. ein Online-Kurs) und Leadmagnet. Verkaufsstrategien: Für deine Zielgruppe und deine Nische. Installation und Konfiguration aller Tools Ich richte alles ein: FunnelCockpit, Systeme.io, Quentn, Digistore24 und Mentortools – Du musst dich um nichts kümmern( Ich wähle für Dich die benötigten Tools aus). Produktpaket inklusive Leadmagnet und Online-Kurs Erstellung eines hochwertigen Leadmagnets zur Leadgenerierung. Entwicklung eines fertigen Kurses mit Verkaufs-, Danke- und Partnerprogramm-Seiten. Partnerprogramm-Einrichtung auf Digistore24 Dein Produkt wird professionell auf dem Marktplatz von Digistore24 platziert. Ich erstelle Partnerprogramm-Seiten, damit Du Affiliates für den Vertrieb deines Produktes gewinnst. E-Mail-Marketing-Kampagnen Einrichtung effektiver E-Mail-Kampagnen, die Kunden binden und Verkäufe generieren. Erprobte Traffic-Strategien Ich zeige Dir bewährte Methoden, um qualifizierte Besucher auf deine Seite zu bringen. Persönliches Übergabe-Coaching Eine individuelle Einweisung in dein Business: Lerne, wie alles funktioniert, und erhalte einen klaren Fahrplan für den Erfolg. 2 Stunden Einzelcoaching zur Unterstützung Persönliches Coaching, um offene Fragen zu klären und dein Business weiter zu entwickeln.
 
 ## 2. Links
 

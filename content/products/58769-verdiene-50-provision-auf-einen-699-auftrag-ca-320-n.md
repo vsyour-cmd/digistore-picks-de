@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verdiene 50 % Provision mit schlüsselfertigen Firmenwebsites!</strong></p>
-<p>Du suchst ein hochwertiges Produkt, das sich leicht verkaufen lässt und für das du nicht ständig Support leisten musst? Dann ist dieses Angebot perfekt für dich.</p>
-<p><strong>Was bietest du deinen Kunden an?</strong><br />Eine professionelle, DSGVO-konforme 5-Seiten-Website inkl. SEO- und KI-Optimierung. Der Kunde muss sich um nichts kümmern – wir übernehmen die komplette Umsetzung!</p>
-<p><strong>Deine Vorteile als Affiliate:</strong></p>
-<ul>
-<li>
-<p><strong>Hohe Provision:</strong> 50 % auf jeden Verkauf (ca. 320 € Netto pro Verkauf).</p>
-</li>
-<li>
-<p><strong>Wiederkehrende Einnahmen:</strong> Zusätzlich gibt es eine monatliche Provision auf den 19 € Grundservice (Hosting &amp; Wartung).</p>
-</li>
-<li>
-<p><strong>Einfacher Verkauf:</strong> Der Kunde bekommt ein Komplettpaket zum Festpreis. Keine versteckten Kosten.</p>
-</li>
-<li>
-<p><strong>Wir kümmern uns um alles:</strong> Kein Support nötig – wir erstellen die Website für den Kunden.</p>
-</li>
-<li>
-<p><strong>Hohe Conversion:</strong> Das Produkt ist klar strukturiert und sofort verständlich.</p>
-</li>
-</ul>
-<p><strong>Für wen ist das Produkt geeignet?</strong><br />Für Kleinunternehmer, Selbstständige, Handwerker und alle, die schnell eine professionelle Online-Präsenz benötigen.</p>
-<p>Überzeuge dich selbst und starte noch heute mit dem Verkauf!</p>
+**Vendor's marketplace description:** Verdiene 50 % Provision mit schlüsselfertigen Firmenwebsites! Du suchst ein hochwertiges Produkt, das sich leicht verkaufen lässt und für das du nicht ständig Support leisten musst? Dann ist dieses Angebot perfekt für dich. Was bietest du deinen Kunden an? Eine professionelle, DSGVO-konforme 5-Seiten-Website inkl. SEO- und KI-Optimierung. Der Kunde muss sich um nichts kümmern – wir übernehmen die komplette Umsetzung! Deine Vorteile als Affiliate: Hohe Provision: 50 % auf jeden Verkauf (ca. 320 € Netto pro Verkauf). Wiederkehrende Einnahmen: Zusätzlich gibt es eine monatliche Provision auf den 19 € Grundservice (Hosting & Wartung). Einfacher Verkauf: Der Kunde bekommt ein Komplettpaket zum Festpreis. Keine versteckten Kosten. Wir kümmern uns um alles: Kein Support nötig – wir erstellen die Website für den Kunden. Hohe Conversion: Das Produkt ist klar strukturiert und sofort verständlich. Für wen ist das Produkt geeignet? Für Kleinunternehmer, Selbstständige, Handwerker und alle, die schnell eine professionelle Online-Präsenz benötigen. Überzeuge dich selbst und starte noch heute mit dem Verkauf!
 
 ## 2. Links
 

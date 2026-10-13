@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>UMBAUHELD UNI MITGLIEDERBEREICH</strong></p>
-<p>- <strong>Die Kunden haben Zugriff auf alle vorhandenen und zukünftig erscheinenden Online-Kurse, Tipps und Tricks, exklusive Videos und Informationen!</strong></p>
-<h4>- Zusätzlich gibt es wöchentliche Workshops, in denen live die Fragen der Kunden beantwortet werden.</h4>
-<h4>- Mehr als 70 Videos mit Profi-Fachwissen aus über 25 Jahren Erfahrung in der Altbausanierung!</h4>
-<h4>- Genaue Schritt für Schritt Anleitungen, direkt zum Nachmachen!</h4>
-<h4>- Für Anfänger genauso geeignet wie für fortgeschrittene Heimwerker, verständlich gezeigt und erklärt!</h4>
-<h4>- Praxisnahe Tutorials direkt von der Baustelle!</h4>
-<h4> - Die Zielgruppe sind Heimwerker, Haus-oder Wohnungseigentümer und Leute, die Spaß am Anpacken haben. Alter ca. 25-55 Jahre</h4>
-<p>- Es handelt sich hier um <strong>ein Abo.</strong></p>
-<p> </p>
+**Vendor's marketplace description:** UMBAUHELD UNI MITGLIEDERBEREICH - Die Kunden haben Zugriff auf alle vorhandenen und zukünftig erscheinenden Online-Kurse, Tipps und Tricks, exklusive Videos und Informationen! - Zusätzlich gibt es wöchentliche Workshops, in denen live die Fragen der Kunden beantwortet werden. - Mehr als 70 Videos mit Profi-Fachwissen aus über 25 Jahren Erfahrung in der Altbausanierung! - Genaue Schritt für Schritt Anleitungen, direkt zum Nachmachen! - Für Anfänger genauso geeignet wie für fortgeschrittene Heimwerker, verständlich gezeigt und erklärt! - Praxisnahe Tutorials direkt von der Baustelle! - Die Zielgruppe sind Heimwerker, Haus-oder Wohnungseigentümer und Leute, die Spaß am Anpacken haben. Alter ca. 25-55 Jahre - Es handelt sich hier um ein Abo.
 
 ## 2. Links
 

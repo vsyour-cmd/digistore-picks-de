@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;">Dieses umfassende Ebook bietet Ihnen einen tiefen <strong>Einblick in die Welt der Makro- und Mikronährstoffe</strong>, praktische Tipps für eine <u>ausgewogene Ernährungsweise</u> und wertvolle Informationen über die Auswirkungen der Ernährung auf <u>verschiedene Lebensphasen und Gesundheitszustände.</u></p>
-<p style="text-align:center;">Von der <strong><u>Bedeutung von Kohlenhydraten, Proteinen und Fetten</u></strong> über die Rolle von <strong>Vitaminen und Mineralstoffen</strong> bis hin zu <u>speziellen Ernährungsansätzen </u>wie <strong>vegetarischer, veganer und ketogener Ernährung</strong> – dieses Buch deckt alles ab.</p>
-<p style="text-align:center;">Zudem erhalten Sie praktische Anleitungen zur <strong>Mahlzeitenplanung, Einkaufstipps</strong> und Einblicke in die <u>neuesten Trends und Entwicklungen</u> in der <u>Ernährungswissenschaft.</u></p>
-<p style="text-align:center;"><strong>"Essentielle Ernährung" ist mehr als nur ein Ratgeber – es ist Ihr Wegweiser zu einem gesünderen, ausgeglichenen Lebensstil. </strong></p>
+**Vendor's marketplace description:** Dieses umfassende Ebook bietet Ihnen einen tiefen Einblick in die Welt der Makro- und Mikronährstoffe , praktische Tipps für eine ausgewogene Ernährungsweise und wertvolle Informationen über die Auswirkungen der Ernährung auf verschiedene Lebensphasen und Gesundheitszustände. Von der Bedeutung von Kohlenhydraten, Proteinen und Fetten über die Rolle von Vitaminen und Mineralstoffen bis hin zu speziellen Ernährungsansätzen wie vegetarischer, veganer und ketogener Ernährung – dieses Buch deckt alles ab. Zudem erhalten Sie praktische Anleitungen zur Mahlzeitenplanung, Einkaufstipps und Einblicke in die neuesten Trends und Entwicklungen in der Ernährungswissenschaft. "Essentielle Ernährung" ist mehr als nur ein Ratgeber – es ist Ihr Wegweiser zu einem gesünderen, ausgeglichenen Lebensstil.
 
 ## 2. Links
 

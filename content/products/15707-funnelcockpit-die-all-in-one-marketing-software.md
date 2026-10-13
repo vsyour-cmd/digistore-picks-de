@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die All-In-One Software zur Erstellung von effektiven Salesfunnels - inkl. Conversion-Elementen und vielen innovativen Tools wie z.B.:<br /> <br />- PageBuilder<br />- CRM<br />- E-Mail Marketing Tool (tagbasiert)<br />- Splittest-Tool<br />- Maustracking<br />- Conversion Pixel<br />- Optimierter Videoplayer<br />- Mitgliederbereiche<br />- Video Funnels<br />- Webinar-Tool und vieles mehr...</p>
+**Vendor's marketplace description:** Die All-In-One Software zur Erstellung von effektiven Salesfunnels - inkl. Conversion-Elementen und vielen innovativen Tools wie z.B.: - PageBuilder - CRM - E-Mail Marketing Tool (tagbasiert) - Splittest-Tool - Maustracking - Conversion Pixel - Optimierter Videoplayer - Mitgliederbereiche - Video Funnels - Webinar-Tool und vieles mehr...
 
 ## 2. Links
 

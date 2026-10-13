@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Nutze die unterschätzte Power von Captions und werde zum absoluten Liebling vom Algorithmus und deinen Kunden.</h2>
-<p><strong>Für alle Affiliates eine super Chance.</strong> Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann <strong>30 - 50% Provision</strong> gibt. Damit kommst du auf ca. 350€ Provision im Funnel.</p>
-<p>Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst!</p>
-<p>Das bekommt der Kunde in diesem wertvollen Online-Kurs:</p>
-<ul>
-<li>wie der Algorithmus wirklich tickt, sodass du <strong>zum absoluten Algo-Liebling </strong>wirst und dein Content <strong>deutlich mehr Chancen hat, viral zu gehen</strong>!</li>
-<li>wie du die richtigen Captions, die richtigen Wörter und alles <strong>in der richtigen Reihenfolge verwendest</strong>, damit eine Sogwirkung entstehen kann.</li>
-<li>wie du wann und <strong>welche CTAs richtig platzierst</strong>, damit </li>
-</ul>
-<p><strong>Und als Bonus</strong> bekommst du eine Vorlage für deine Captions. Nutze sie jedes Mal, wenn du geniale Captions erstellen willst.</p>
-<p> </p>
+**Vendor's marketplace description:** Nutze die unterschätzte Power von Captions und werde zum absoluten Liebling vom Algorithmus und deinen Kunden. Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. 350€ Provision im Funnel. Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst! Das bekommt der Kunde in diesem wertvollen Online-Kurs: wie der Algorithmus wirklich tickt, sodass du zum absoluten Algo-Liebling wirst und dein Content deutlich mehr Chancen hat, viral zu gehen ! wie du die richtigen Captions, die richtigen Wörter und alles in der richtigen Reihenfolge verwendest , damit eine Sogwirkung entstehen kann. wie du wann und welche CTAs richtig platzierst , damit Und als Bonus bekommst du eine Vorlage für deine Captions. Nutze sie jedes Mal, wenn du geniale Captions erstellen willst.
 
 ## 2. Links
 

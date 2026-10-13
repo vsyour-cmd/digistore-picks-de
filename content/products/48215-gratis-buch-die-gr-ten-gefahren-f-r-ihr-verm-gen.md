@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#ff0000;"><strong>Verschenken Sie mein Buch an Ihre Leser / Kunden und ich zahle Ihnen 10€ Provision für jede Bestellung!</strong></span></h2>
-<ul>
-<li>Über 107 Seiten | Sprache: Deutsch</li>
-<li>Die größten Gefahren für Ihr Vermögen ... und wie Sie sich heute noch dagegen schützen können</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** Verschenken Sie mein Buch an Ihre Leser / Kunden und ich zahle Ihnen 10€ Provision für jede Bestellung! Über 107 Seiten | Sprache: Deutsch Die größten Gefahren für Ihr Vermögen ... und wie Sie sich heute noch dagegen schützen können
 
 ## 2. Links
 

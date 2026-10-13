@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Prompt-Profi werden“</strong></p>
-<p>Die Fähigkeit, die 2026 bares Geld wert ist – Wer KI klare Anweisungen geben kann, bekommt bessere Ergebnisse – im Job, freiberuflich und im Alltag. Lerne, wie du das Beste aus ChatGPT &amp; Co. herausholst.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verstehen, wie KI-Sprachmodelle arbeiten</li>
-<li>Gute Prompts bauen: Rolle, Kontext, Aufgabe, Format</li>
-<li>Die häufigsten Prompt-Fehler vermeiden</li>
-<li>Eine eigene Prompt-Bibliothek aufbauen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Prompt-Profi werden“ Die Fähigkeit, die 2026 bares Geld wert ist – Wer KI klare Anweisungen geben kann, bekommt bessere Ergebnisse – im Job, freiberuflich und im Alltag. Lerne, wie du das Beste aus ChatGPT & Co. herausholst. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verstehen, wie KI-Sprachmodelle arbeiten Gute Prompts bauen: Rolle, Kontext, Aufgabe, Format Die häufigsten Prompt-Fehler vermeiden Eine eigene Prompt-Bibliothek aufbauen
 
 ## 2. Links
 

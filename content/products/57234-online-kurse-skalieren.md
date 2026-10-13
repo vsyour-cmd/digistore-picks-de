@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Online-Kurse skalieren“</strong></p>
-<p>Launch-Strategien und Evergreen-Funnels für stabilen Umsatz – Ein einzelner Kurs ist ein Anfang. Positionierung, Preise, Funnels, Launch- und Evergreen-Strategien sowie bezahlte Werbung. Für Fortgeschrittene.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Vom einzelnen Kurs zum planbaren Geschäft</li>
-<li>Positionierung und Preis schärfen</li>
-<li>Funnels bauen, die aus Interessenten Käufer machen</li>
-<li>Launches und Evergreen-Funnels gezielt einsetzen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Online-Kurse skalieren“ Launch-Strategien und Evergreen-Funnels für stabilen Umsatz – Ein einzelner Kurs ist ein Anfang. Positionierung, Preise, Funnels, Launch- und Evergreen-Strategien sowie bezahlte Werbung. Für Fortgeschrittene. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Vom einzelnen Kurs zum planbaren Geschäft Positionierung und Preis schärfen Funnels bauen, die aus Interessenten Käufer machen Launches und Evergreen-Funnels gezielt einsetzen
 
 ## 2. Links
 

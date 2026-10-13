@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Silent Subliminals sind digitale Audioformate zur unterbewussten Ausrichtung von Denk- und Verhaltensmustern, ohne bewusst gehört werden zu müssen.</p>
-<p>Sie werden genutzt, um persönliche Ziele, Gewohnheiten und mentale Fokussierung im Alltag positiv zu unterstützen - ohne aktiven Aufwand.</p>
-<p><span style="background-color:#0000ff;color:#ffffff;"> Du erhältst faire 50 % Provision auf alle Produkte   (aktuell über 350 Produkte im Shop). </span></p>
-<p><strong>Wir führen mehrere Produktgruppen :</strong></p>
-<p> </p>
-<ol>
-<li><strong>Silent Subliminals</strong> – Audio-Sessions zur unterbewussten Programmierung</li>
-<li><strong>H2O Silent Subliminals</strong> – Audio-Sessions in Verbindung mit Trinkwasser</li>
-<li><strong>Brain &amp; Water Shots</strong> – 1500 Affirmationen in 90 Sekunden (visuell &amp; auditiv)</li>
-<li><strong>Booster Packs</strong> – Kombinierte Inhalte für verschiedene Themenbereiche</li>
-<li> </li>
-</ol>
-<p>Die Kombination von Subliminals für das Unterbewusstsein mit den Subliminals für die Wasser-Energetisierung ist einzigartig.</p>
-<p>Die Produkte im Shop werden stetig erweitert!</p>
-<p> </p>
-<p><strong>Du bist selbstverständlich an allen Upsells beteiligt! </strong><strong>Wir freuen uns auf auf eine Kooperation mir dir!</strong></p>
-<p> </p>
+**Vendor's marketplace description:** Silent Subliminals sind digitale Audioformate zur unterbewussten Ausrichtung von Denk- und Verhaltensmustern, ohne bewusst gehört werden zu müssen. Sie werden genutzt, um persönliche Ziele, Gewohnheiten und mentale Fokussierung im Alltag positiv zu unterstützen - ohne aktiven Aufwand. Du erhältst faire 50 % Provision auf alle Produkte (aktuell über 350 Produkte im Shop). Wir führen mehrere Produktgruppen : Silent Subliminals – Audio-Sessions zur unterbewussten Programmierung H2O Silent Subliminals – Audio-Sessions in Verbindung mit Trinkwasser Brain & Water Shots – 1500 Affirmationen in 90 Sekunden (visuell & auditiv) Booster Packs – Kombinierte Inhalte für verschiedene Themenbereiche Die Kombination von Subliminals für das Unterbewusstsein mit den Subliminals für die Wasser-Energetisierung ist einzigartig. Die Produkte im Shop werden stetig erweitert! Du bist selbstverständlich an allen Upsells beteiligt! Wir freuen uns auf auf eine Kooperation mir dir!
 
 ## 2. Links
 

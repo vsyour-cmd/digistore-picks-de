@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h1>Digitales Essen &amp; Food Porn</h1>
-</div>
-<div>
-<h2>Wie Algorithmen und Bilder dein Belohnungssystem kapern – und wie du deine Macht zurückgewinnst</h2>
-</div>
-<p>Entdecke die geheimen Mechanismen hinter unwiderstehlichem Essen!</p>
-<p>"Digitales Essen &amp; Food Porn" enthüllt, wie die Lebensmittelindustrie mit dem sogenannten Bliss Point – der perfekten Kombination aus Zucker, Fett und Salz – unser Gehirn manipuliert und uns zu übermäßigem Konsum verführt.</p>
-<p>Dieses eBook erklärt, warum wir bei bestimmten Lebensmitteln nicht aufhören können zu essen und wie wir diesen Mechanismus durchbrechen können.</p>
-<p>Perfekt für alle, die ihre Ernährungsgewohnheiten verstehen und bewusster leben möchten.</p>
+**Vendor's marketplace description:** Digitales Essen & Food Porn Wie Algorithmen und Bilder dein Belohnungssystem kapern – und wie du deine Macht zurückgewinnst Entdecke die geheimen Mechanismen hinter unwiderstehlichem Essen! "Digitales Essen & Food Porn" enthüllt, wie die Lebensmittelindustrie mit dem sogenannten Bliss Point – der perfekten Kombination aus Zucker, Fett und Salz – unser Gehirn manipuliert und uns zu übermäßigem Konsum verführt. Dieses eBook erklärt, warum wir bei bestimmten Lebensmitteln nicht aufhören können zu essen und wie wir diesen Mechanismus durchbrechen können. Perfekt für alle, die ihre Ernährungsgewohnheiten verstehen und bewusster leben möchten.
 
 ## 2. Links
 

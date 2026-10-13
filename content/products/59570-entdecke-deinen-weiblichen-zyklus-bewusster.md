@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Mein Zyklus</strong></p>
-<p><strong><br />Entdecke deinen weiblichen Zyklus bewusster und lerne, die Signale deines Körpers besser wahrzunehmen.<br /><br />Dieses liebevoll gestaltete 24-seitige PDF-Workbook begleitet dich durch die vier Zyklusphasen und verbindet Zykluswissen mit Journaling, Selbstfürsorge und spirituellen Impulsen.<br />Enthalten sind:<br /><br />Zyklus- &amp; Tagestracker<br />Reflexions- und Journalingfragen<br />Rituale &amp; Intentionen<br />Mondphasen &amp; weibliche Archetypen<br />Übungen für Körperbewusstsein und Selbstverbindung<br /><br />Dein Körper. Dein Rhythmus. Deine weibliche Kraft.<br /><br />Digitales PDF zum direkten Nutzen und Ausdrucken.<br /><br /></strong><strong>Hinweis: Das Workbook dient der Information und Selbstreflexion und ersetzt keine medizinische oder therapeutische Beratung.</strong></p>
+**Vendor's marketplace description:** Mein Zyklus Entdecke deinen weiblichen Zyklus bewusster und lerne, die Signale deines Körpers besser wahrzunehmen. Dieses liebevoll gestaltete 24-seitige PDF-Workbook begleitet dich durch die vier Zyklusphasen und verbindet Zykluswissen mit Journaling, Selbstfürsorge und spirituellen Impulsen. Enthalten sind: Zyklus- & Tagestracker Reflexions- und Journalingfragen Rituale & Intentionen Mondphasen & weibliche Archetypen Übungen für Körperbewusstsein und Selbstverbindung Dein Körper. Dein Rhythmus. Deine weibliche Kraft. Digitales PDF zum direkten Nutzen und Ausdrucken. Hinweis: Das Workbook dient der Information und Selbstreflexion und ersetzt keine medizinische oder therapeutische Beratung.
 
 ## 2. Links
 

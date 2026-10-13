@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Die Flugzeit reicht aus, um sich mit diesen Sprachvideos vorzubereiten. Damit können sich Käufer von Anfang an auf Chinesisch verständigen.</h2>
-<p><span style="font-size:11px;">Der einzige Chinesisch-Onlinekurs, der genau das liefert was man braucht, um bestens "durchzukommen" und echte chinesische Freundlichkeit zu erleben.</span> </p>
-<h2><span style="color:#000000;">Über 190 Minuten Videotraining und über 200 Wörter und Sätze für die China-Reise. </span></h2>
-<h1 style="padding-left:30px;"><span style="color:#339966;">Jetzt anschauen bei: <a href="https://www.chinesisch-fuer-reisende.de" target="_blank" rel="noreferrer noopener">www.chinesisch-fuer-reisende.de</a><a href="http://www.sprachcrashkurs.de/partnerprogramm" target="_blank" rel="noreferrer noopener"> und www.sprachcrashkurs.de/partnerprogramm </a></span></h1>
-<h5 style="padding-left:30px;"><span style="color:#3366ff;"><span style="color:#333333;">Folgende anderen Sprachen sind auch im Partnerprogramm verfügbar:</span></span></h5>
-<h5 style="padding-left:30px;"><a href="https://www.vietnamesisch-fuer-reisende.de">www.vietnamesisch-fuer-reisende.de</a></h5>
-<h5 style="padding-left:30px;"><strong><a href="https://www.brasilianisch-fuer-reisende.de">www.brasilianisch-fuer-reisende.de</a></strong></h5>
-<h5 style="padding-left:30px;"><a href="https://www.spanisch-fuer-reisende.de">www.spanisch-fuer-reisende.de</a></h5>
-<h5 style="padding-left:30px;"><a href="https://www.thailaendisch-fuer-reisende.de" target="_blank" rel="noreferrer noopener">www.thailaendisch-fuer-reisende.de</a></h5>
-<p>Sag Bescheid, wenn du eine Frage hast oder Werbemittel brauchst. </p>
-<p>Und hier noch der Extra-Tipp für dich, wenn du mit Thai-Kursen <span style="font-weight:bold;">wiederkehrende </span>Einnahmen erzielen möchtest:  <a href="https://www.thailernen.net/partnerprogramm?go=15" target="_blank" rel="noreferrer noopener"><span style="font-weight:bold;font-style:italic;">Partnerprogramm</span></a></p>
-<p><span style="font-weight:bold;">Auf unseren gemeinsamen Erfolg!</span></p>
+**Vendor's marketplace description:** Die Flugzeit reicht aus, um sich mit diesen Sprachvideos vorzubereiten. Damit können sich Käufer von Anfang an auf Chinesisch verständigen. Der einzige Chinesisch-Onlinekurs, der genau das liefert was man braucht, um bestens "durchzukommen" und echte chinesische Freundlichkeit zu erleben. Über 190 Minuten Videotraining und über 200 Wörter und Sätze für die China-Reise. Jetzt anschauen bei: www.chinesisch-fuer-reisende.de und www.sprachcrashkurs.de/partnerprogramm Folgende anderen Sprachen sind auch im Partnerprogramm verfügbar: www.vietnamesisch-fuer-reisende.de www.brasilianisch-fuer-reisende.de www.spanisch-fuer-reisende.de www.thailaendisch-fuer-reisende.de Sag Bescheid, wenn du eine Frage hast oder Werbemittel brauchst. Und hier noch der Extra-Tipp für dich, wenn du mit Thai-Kursen wiederkehrende Einnahmen erzielen möchtest: Partnerprogramm Auf unseren gemeinsamen Erfolg!
 
 ## 2. Links
 

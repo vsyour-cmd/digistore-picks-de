@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><span style="color:#ff0000;"><strong>Empfehle unsere Mindset Programme von health-generation und verdiene an allen weiteren Upsells/Cross-Sells!</strong></span></h4>
-<div>
-<p><strong>Deine Vorteile:</strong></p>
-<p>--&gt; Hohe Provisionen von <strong>55%</strong> für alle Produkte im Bereich zwischen 7-200 Euro</p>
-<p>--&gt; Hohe Conversions und hoher Kundenwert: Profitiere mit an unseren <strong>hochoptimierten Segmentierungs-Verkaufsfunneln </strong></p>
-<p>--&gt; Schneller und professioneller Support durch unseren Affiliate-Manager</p>
-<p> </p>
-<p>Nach dem Verkauf über dich wird der Kunde systematisch durch zahlreiche Upsell- und Cross-Sell-Kampagnen geführt.</p>
-<p>Du erhältst Provisionen für jeden weiteren Verkauf!</p>
-<p>Melde dich jetzt als Affiliate an und baue dir ein passives Einkommen auf.</p>
-<p>Auf eine erfolgreiche Aktion!</p>
-<p>health-generation ist <strong>Experte für Mental Coaching &amp; Hypnose</strong>. Mit allen Programmen kannst du jederzeit höchste menschliche Erfahrungen machen. Diese Erfahrungen können deine Selbstheilungskräfte aktivieren, inneres Glück &amp; Frieden freisetzen, deine Weltsicht transformieren, dich von Ängsten befreien oder dich zum erreichen deiner Ziele, Wünsche und Ideale befähigen.</p>
-<p>Beste Grüße,<br />Josef Kryenbuehl von health-geneation</p>
-</div>
+**Vendor's marketplace description:** Empfehle unsere Mindset Programme von health-generation und verdiene an allen weiteren Upsells/Cross-Sells! Deine Vorteile: --> Hohe Provisionen von 55% für alle Produkte im Bereich zwischen 7-200 Euro --> Hohe Conversions und hoher Kundenwert: Profitiere mit an unseren hochoptimierten Segmentierungs-Verkaufsfunneln --> Schneller und professioneller Support durch unseren Affiliate-Manager Nach dem Verkauf über dich wird der Kunde systematisch durch zahlreiche Upsell- und Cross-Sell-Kampagnen geführt. Du erhältst Provisionen für jeden weiteren Verkauf! Melde dich jetzt als Affiliate an und baue dir ein passives Einkommen auf. Auf eine erfolgreiche Aktion! health-generation ist Experte für Mental Coaching & Hypnose . Mit allen Programmen kannst du jederzeit höchste menschliche Erfahrungen machen. Diese Erfahrungen können deine Selbstheilungskräfte aktivieren, inneres Glück & Frieden freisetzen, deine Weltsicht transformieren, dich von Ängsten befreien oder dich zum erreichen deiner Ziele, Wünsche und Ideale befähigen. Beste Grüße, Josef Kryenbuehl von health-geneation
 
 ## 2. Links
 

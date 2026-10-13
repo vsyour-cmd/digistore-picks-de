@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Verdiene satte 50% Provision für jeden Kunden den du uns bringst!</h2>
-<p> </p>
-<p>Auf das erste Upsell gibt es nochmals 50% und auf das zweite 10%, da es ein Highprice Coaching ist.</p>
-<p> </p>
-<p><strong>Insgesamt kannst du über 250,-€ netto Provision pro vermittelten Kunden verdienen!</strong></p>
-<p> </p>
-<p>Im Kurs Meta Ads Elite, geht es um PPC Marketing mit Facebook und Instagram. Wir zeigen deinen Kunden alles von A-Z, sodass diese ihr Unternehmen skalieren können.</p>
-<p> </p>
-<p>Bei Fragen, schreibt uns gerne direkt an:<br />ultimateaffiliatesystem-team@gv9.de</p>
+**Vendor's marketplace description:** Verdiene satte 50% Provision für jeden Kunden den du uns bringst! Auf das erste Upsell gibt es nochmals 50% und auf das zweite 10%, da es ein Highprice Coaching ist. Insgesamt kannst du über 250,-€ netto Provision pro vermittelten Kunden verdienen! Im Kurs Meta Ads Elite, geht es um PPC Marketing mit Facebook und Instagram. Wir zeigen deinen Kunden alles von A-Z, sodass diese ihr Unternehmen skalieren können. Bei Fragen, schreibt uns gerne direkt an: ultimateaffiliatesystem-team@gv9.de
 
 ## 2. Links
 

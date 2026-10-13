@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hi, bewerbe jetzt BookPilot und profitiere von einer riesigen Nachfrage.</p>
-<p><strong>Hol dir BOOKPILOT und erstelle mit wenigen Klicks komplette, verkaufsfertige Kinderbücher – von der ersten Idee bis zur Veröffentlichung.</strong></p>
-<p><strong>Das bekommst du – ALLES inklusive:</strong></p>
-<ul>
-<li>Kinderbücher, Ausmalbücher, Mandalas, Rätselhefte, Kurzgeschichten, <strong>Hörbücher</strong> &amp; mehr  erstellen</li>
-<li>Komplette Inhalte und Buchseiten automatisch  generieren</li>
-<li>Professionelle Illustrationen und passende Cover mit 1 Klick erstellen</li>
-<li>Integrierter Nischenfinder für neue Buchideen &amp; Themen - Ideen mit 1-Klick übernehmen</li>
-<li>KI-Assistent für Ideen, Inhalte &amp; Optimierung</li>
-<li>Verkaufsbilder, Produkttexte &amp; Listings automatisch erstellen</li>
-<li>Direkte Veröffentlichung auf Plattformen wie Etsy, Gumroad &amp; Co.</li>
-<li>Bis zu <strong>3 Bücher pro Tag</strong> erstellen</li>
-<li>Nutzung in <strong>8 Sprachen</strong></li>
-<li>Alle zukünftigen Updates kostenlos</li>
-</ul>
-<p><strong>Einmal bezahlen – dauerhaft nutzen. Keine Credits. Kein Abo.</strong></p>
+**Vendor's marketplace description:** Hi, bewerbe jetzt BookPilot und profitiere von einer riesigen Nachfrage. Hol dir BOOKPILOT und erstelle mit wenigen Klicks komplette, verkaufsfertige Kinderbücher – von der ersten Idee bis zur Veröffentlichung. Das bekommst du – ALLES inklusive: Kinderbücher, Ausmalbücher, Mandalas, Rätselhefte, Kurzgeschichten, Hörbücher & mehr erstellen Komplette Inhalte und Buchseiten automatisch generieren Professionelle Illustrationen und passende Cover mit 1 Klick erstellen Integrierter Nischenfinder für neue Buchideen & Themen - Ideen mit 1-Klick übernehmen KI-Assistent für Ideen, Inhalte & Optimierung Verkaufsbilder, Produkttexte & Listings automatisch erstellen Direkte Veröffentlichung auf Plattformen wie Etsy, Gumroad & Co. Bis zu 3 Bücher pro Tag erstellen Nutzung in 8 Sprachen Alle zukünftigen Updates kostenlos Einmal bezahlen – dauerhaft nutzen. Keine Credits. Kein Abo.
 
 ## 2. Links
 

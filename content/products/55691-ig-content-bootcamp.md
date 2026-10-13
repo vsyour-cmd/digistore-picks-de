@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Verkaufsstarken Content mit wenig Aufwand erstelllen, der richtig knallt (auch auf deinem Bankkonto)</h2>
-<p>Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. 350€ Provision im Funnel.</p>
-<p>Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst!</p>
-<p>Das bekommt der Kunde in diesem wertvollen Online-Kurs:</p>
-<ul>
-<li>wie du deinen Kunden den Content gibst, <strong>den sie dir aus der Hand reißen werden </strong>und lieber deinen Content konsumieren als Netflix…</li>
-<li>wie du <strong>100 Postings oder 100 Reels </strong>(oder auch 1000) <strong>in nur 15 - 30 Minuten erstellst, </strong>einfach, hochwertig und so, dass deine Zuschauer sie lieben werden<strong>…</strong></li>
-<li>wie du genialen Content, den deine Kunden ohnehin schon lieben, multiplizierst, damit sie ihn doppelt und dreifach lieben und erneut bei dir kaufen…</li>
-</ul>
-<p><strong>Und als Bonus</strong> bekommst du über 600 hochwertige Videos dazu, die du direkt nutzen kannst!</p>
-<p>Und einiges mehr!</p>
-<p> </p>
+**Vendor's marketplace description:** Verkaufsstarken Content mit wenig Aufwand erstelllen, der richtig knallt (auch auf deinem Bankkonto) Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. 350€ Provision im Funnel. Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst! Das bekommt der Kunde in diesem wertvollen Online-Kurs: wie du deinen Kunden den Content gibst, den sie dir aus der Hand reißen werden und lieber deinen Content konsumieren als Netflix… wie du 100 Postings oder 100 Reels (oder auch 1000) in nur 15 - 30 Minuten erstellst, einfach, hochwertig und so, dass deine Zuschauer sie lieben werden … wie du genialen Content, den deine Kunden ohnehin schon lieben, multiplizierst, damit sie ihn doppelt und dreifach lieben und erneut bei dir kaufen… Und als Bonus bekommst du über 600 hochwertige Videos dazu, die du direkt nutzen kannst! Und einiges mehr!
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die SoftPac Whiskydatenbank ist eine Windows-Anwendung für private Whisky-Sammler und Whisky-Enthusiasten.</strong></p>
-<p>Nutzer können ihre Flaschen, Käufe, Samples, Verkostungsnotizen, Fassanteile und Auswertungen strukturiert verwalten. Belege und Zertifikate lassen sich den jeweiligen Einträgen zuordnen, Statistiken und Datensicherungsfunktionen ergänzen den Funktionsumfang.</p>
-<p>Ein besonderes Merkmal ist die <strong>lokale Datenhaltung ohne Cloud-Zwang</strong>: Die persönlichen Sammlungsdaten bleiben auf dem eigenen Windows-PC.</p>
-<p>Die Anwendung wird über den Microsoft Store installiert und aktualisiert. Die Nutzung erfolgt über eine separat erworbene SoftPac-Lizenz.</p>
-<p><strong>Endkundenpreis: 59,90 € einmalig – kein Abonnement.</strong></p>
-<p><strong>Affiliate-Provision: 30 %.</strong></p>
-<p>Besonders geeignet für Blogs, YouTube-Kanäle, Newsletter, Social-Media-Angebote und Communities rund um Whisky, Tastings, Samples und Sammlungen.</p>
-<p>Für Affiliates stehen eine eigene Support-Seite, freigegebene Produktaussagen und aktuelle Produkt-Screenshots zur Verfügung. Eigene Werbetexte und Creatives sind ausdrücklich möglich, solange die verwendeten Produktangaben den freigegebenen Aussagen entsprechen.</p>
+**Vendor's marketplace description:** Die SoftPac Whiskydatenbank ist eine Windows-Anwendung für private Whisky-Sammler und Whisky-Enthusiasten. Nutzer können ihre Flaschen, Käufe, Samples, Verkostungsnotizen, Fassanteile und Auswertungen strukturiert verwalten. Belege und Zertifikate lassen sich den jeweiligen Einträgen zuordnen, Statistiken und Datensicherungsfunktionen ergänzen den Funktionsumfang. Ein besonderes Merkmal ist die lokale Datenhaltung ohne Cloud-Zwang : Die persönlichen Sammlungsdaten bleiben auf dem eigenen Windows-PC. Die Anwendung wird über den Microsoft Store installiert und aktualisiert. Die Nutzung erfolgt über eine separat erworbene SoftPac-Lizenz. Endkundenpreis: 59,90 € einmalig – kein Abonnement. Affiliate-Provision: 30 %. Besonders geeignet für Blogs, YouTube-Kanäle, Newsletter, Social-Media-Angebote und Communities rund um Whisky, Tastings, Samples und Sammlungen. Für Affiliates stehen eine eigene Support-Seite, freigegebene Produktaussagen und aktuelle Produkt-Screenshots zur Verfügung. Eigene Werbetexte und Creatives sind ausdrücklich möglich, solange die verwendeten Produktangaben den freigegebenen Aussagen entsprechen.
 
 ## 2. Links
 

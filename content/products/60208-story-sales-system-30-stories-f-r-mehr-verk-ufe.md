@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>30 fertige Story-Sequenzen für Selbständige, Content Creator und Online-Business-Starter, die über instagram gezielt verkaufen möchten.</p>
-<p>Das Story Sales System liefert klare Vorlagen für verkaufsstarke Instagram Stories - einfach anpassen und direkt einsetzen.</p>
-<p>Ideal für alle, die regelmäßig Content erstellen, aber nicht jeden Tag übrtlrgrn möchten, was sie in ihrer Story posten sollen.</p>
-<p><strong>Deine Affiliate-Provision: 50%</strong></p>
+**Vendor's marketplace description:** 30 fertige Story-Sequenzen für Selbständige, Content Creator und Online-Business-Starter, die über instagram gezielt verkaufen möchten. Das Story Sales System liefert klare Vorlagen für verkaufsstarke Instagram Stories - einfach anpassen und direkt einsetzen. Ideal für alle, die regelmäßig Content erstellen, aber nicht jeden Tag übrtlrgrn möchten, was sie in ihrer Story posten sollen. Deine Affiliate-Provision: 50%
 
 ## 2. Links
 

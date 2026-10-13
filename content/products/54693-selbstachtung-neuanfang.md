@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>✨ Selbstachtung &amp; Neuanfang – Finde zurück zu dir selbst</h1>
-<p>Vielleicht fühlst du dich gerade …</p>
-<p>müde.<br />orientierungslos.<br />nicht mehr wirklich verbunden mit dir selbst.</p>
-<p>Du funktionierst im Alltag –<br />aber innerlich spürst du:</p>
-<p><strong>So wie es gerade ist …<br />möchte ich nicht weitermachen.</strong></p>
-<p>Und genau hier beginnt dein Wendepunkt.</p>
-<hr />
-<h2>
+**Vendor's marketplace description:** ✨ Selbstachtung & Neuanfang – Finde zurück zu dir selbst Vielleicht fühlst du dich gerade … müde. orientierungslos. nicht mehr wirklich verbunden mit dir selbst. Du funktionierst im Alltag – aber innerlich spürst du: So wie es gerade ist … möchte ich nicht weitermachen. Und genau hier beginnt dein Wendepunkt.
 
 ## 2. Links
 

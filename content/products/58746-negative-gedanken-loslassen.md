@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>„Negative Gedanken loslassen“ ist ein praxisnahes PDF-E-Book für Menschen, die häufig grübeln, sich selbst unter Druck setzen oder immer wieder von belastenden Gedanken und Sorgen eingeholt werden.</p>
-<p>Der Ratgeber vermittelt verständliche Impulse, praktische Übungen und alltagstaugliche Möglichkeiten, um negative Denkmuster zu erkennen, Gedanken bewusster zu hinterfragen und den Blick wieder stärker auf hilfreiche und positive Perspektiven zu richten.</p>
-<p>Das E-Book unterstützt dabei, mehr innere Ruhe und Zuversicht zu entwickeln und einen bewussteren Umgang mit belastenden Gedanken zu finden.</p>
-<p>Nach erfolgreicher Bestellung wird das E-Book sofort digital als PDF-Datei bereitgestellt. Der Verkaufspreis beträgt einmalig 9,99 €.</p>
+**Vendor's marketplace description:** „Negative Gedanken loslassen“ ist ein praxisnahes PDF-E-Book für Menschen, die häufig grübeln, sich selbst unter Druck setzen oder immer wieder von belastenden Gedanken und Sorgen eingeholt werden. Der Ratgeber vermittelt verständliche Impulse, praktische Übungen und alltagstaugliche Möglichkeiten, um negative Denkmuster zu erkennen, Gedanken bewusster zu hinterfragen und den Blick wieder stärker auf hilfreiche und positive Perspektiven zu richten. Das E-Book unterstützt dabei, mehr innere Ruhe und Zuversicht zu entwickeln und einen bewussteren Umgang mit belastenden Gedanken zu finden. Nach erfolgreicher Bestellung wird das E-Book sofort digital als PDF-Datei bereitgestellt. Der Verkaufspreis beträgt einmalig 9,99 €.
 
 ## 2. Links
 

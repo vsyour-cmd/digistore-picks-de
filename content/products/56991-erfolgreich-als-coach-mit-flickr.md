@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du mit hochwertigen Bildern Expertise demonstrierst und Fotografen-Aufträge gewinnst</strong></p>
-<p>Als Coach oder Fotografie-Experte ist dein visuelles Portfolio dein stärkstes Verkaufsargument – und Flickr ist die Plattform, auf der Fachkenntnis und Bildqualität unmittelbar Vertrauen erzeugen. Dieses E-Book zeigt dir, wie du dein Profil als Experten-Schaufenster aufbaust, durch Kommentare und Gruppen-Interaktionen eine loyale Fangemeinde gewinnst und gezielt Fotografen-Aufträge sowie Coaching-Anfragen generierst. Du lernst, wie du mit Bildbeschreibungen und Hintergrundgeschichten Mehrwert schaffst ohne alles zu verschenken, wie Creative-Commons-Lizenzen deine Sichtbarkeit erhöhen und wie du Interessenten über Flickr-Mail und externe Links in Erstkontakte verwandelst.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Profil als Experten-Schaufenster positionieren – mit Biografie und Galerie-Strategie</li>
-<li>Bildbeschreibungen als Lehr-Content nutzen: Mehrwert zeigen ohne alles zu verschenken</li>
-<li>Gruppen moderieren oder führen und sich als Autorität etablieren</li>
-<li>Aufträge über Flickr-Profile und Direktnachrichten gewinnen</li>
-<li>Creative-Commons-Lizenzen strategisch für mehr Sichtbarkeit einsetzen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du mit hochwertigen Bildern Expertise demonstrierst und Fotografen-Aufträge gewinnst Als Coach oder Fotografie-Experte ist dein visuelles Portfolio dein stärkstes Verkaufsargument – und Flickr ist die Plattform, auf der Fachkenntnis und Bildqualität unmittelbar Vertrauen erzeugen. Dieses E-Book zeigt dir, wie du dein Profil als Experten-Schaufenster aufbaust, durch Kommentare und Gruppen-Interaktionen eine loyale Fangemeinde gewinnst und gezielt Fotografen-Aufträge sowie Coaching-Anfragen generierst. Du lernst, wie du mit Bildbeschreibungen und Hintergrundgeschichten Mehrwert schaffst ohne alles zu verschenken, wie Creative-Commons-Lizenzen deine Sichtbarkeit erhöhen und wie du Interessenten über Flickr-Mail und externe Links in Erstkontakte verwandelst. Das steckt drin: Profil als Experten-Schaufenster positionieren – mit Biografie und Galerie-Strategie Bildbeschreibungen als Lehr-Content nutzen: Mehrwert zeigen ohne alles zu verschenken Gruppen moderieren oder führen und sich als Autorität etablieren Aufträge über Flickr-Profile und Direktnachrichten gewinnen Creative-Commons-Lizenzen strategisch für mehr Sichtbarkeit einsetzen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

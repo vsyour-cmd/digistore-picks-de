@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Salesnavigator: gezielte B2B-Kundengewinnung über LinkedIn</strong></p>
-<p>Der Salesnavigator ist ein offizielles Premium-Tool von LinkedIn – und kostet regulär <strong>1.020 € pro Jahr</strong>.</p>
-<p>Mit diesem Sonderdeal bekommst du:<br />✔ <strong>Den Salesnavigator für nur ca. 300 € jährlich</strong><br />✔ <strong>Die Einrichtung in deinem LinkedIn-Konto für einmalig 130 €</strong></p>
+**Vendor's marketplace description:** Salesnavigator: gezielte B2B-Kundengewinnung über LinkedIn Der Salesnavigator ist ein offizielles Premium-Tool von LinkedIn – und kostet regulär 1.020 € pro Jahr . Mit diesem Sonderdeal bekommst du: ✔ Den Salesnavigator für nur ca. 300 € jährlich ✔ Die Einrichtung in deinem LinkedIn-Konto für einmalig 130 €
 
 ## 2. Links
 

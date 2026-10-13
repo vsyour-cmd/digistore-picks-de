@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Selbstliebe Journal ist ein liebevoll gestaltetes 31-Seiten-Workbook im PDF-Format.<br />Ideal für Frauen, die mehr Ruhe, Klarheit und Achtsamkeit in den Alltag bringen möchten.</p>
-<p>Perfekt für deine Zielgruppe, wenn sie sich für Spiritualität, Selbstwert, Achtsamkeit oder Persönlichkeitsentwicklung interessiert.</p>
-<p><strong>Highlights:</strong><br />• 31 gestaltete Seiten zum Reflektieren und Ausfüllen<br />• Sofort-Download als PDF<br />• Ideal für Social Media Traffic (TikTok, Instagram, Pinterest)<br />• Hohe Conversion durch schönes Design<br />• Perfekt als Low-Ticket Frontend für deine Funnels</p>
+**Vendor's marketplace description:** Das Selbstliebe Journal ist ein liebevoll gestaltetes 31-Seiten-Workbook im PDF-Format. Ideal für Frauen, die mehr Ruhe, Klarheit und Achtsamkeit in den Alltag bringen möchten. Perfekt für deine Zielgruppe, wenn sie sich für Spiritualität, Selbstwert, Achtsamkeit oder Persönlichkeitsentwicklung interessiert. Highlights: • 31 gestaltete Seiten zum Reflektieren und Ausfüllen • Sofort-Download als PDF • Ideal für Social Media Traffic (TikTok, Instagram, Pinterest) • Hohe Conversion durch schönes Design • Perfekt als Low-Ticket Frontend für deine Funnels
 
 ## 2. Links
 

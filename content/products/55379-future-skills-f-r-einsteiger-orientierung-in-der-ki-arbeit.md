@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Future Skills für Einsteiger ist ein strukturierter Onlinekurs für Menschen, die Orientierung in einer sich wandelnden, KI-geprägten Arbeitswelt suchen.</p>
-<p>Der Kurs richtet sich an Einsteiger ohne technisches Vorwissen und vermittelt Denkmodelle, Zukunftskompetenzen und Entscheidungsgrundlagen.</p>
-<p>Es handelt sich nicht um einen Tool- oder Technik-Kurs. Der Fokus liegt auf Verständnis, Einordnung und praxisnaher Orientierung.</p>
-<p>Zielgruppe sind Berufstätige, Selbstständige und Weiterbildungsinteressierte, die sich mit den Auswirkungen von KI auf Arbeit und Gesellschaft auseinandersetzen möchten.</p>
-<p>Affiliates erhalten 30 % Provision pro Verkauf.</p>
-<p>Keine Einkommensversprechen. Keine Jobgarantien. Seriöses Bildungsprodukt.</p>
+**Vendor's marketplace description:** Future Skills für Einsteiger ist ein strukturierter Onlinekurs für Menschen, die Orientierung in einer sich wandelnden, KI-geprägten Arbeitswelt suchen. Der Kurs richtet sich an Einsteiger ohne technisches Vorwissen und vermittelt Denkmodelle, Zukunftskompetenzen und Entscheidungsgrundlagen. Es handelt sich nicht um einen Tool- oder Technik-Kurs. Der Fokus liegt auf Verständnis, Einordnung und praxisnaher Orientierung. Zielgruppe sind Berufstätige, Selbstständige und Weiterbildungsinteressierte, die sich mit den Auswirkungen von KI auf Arbeit und Gesellschaft auseinandersetzen möchten. Affiliates erhalten 30 % Provision pro Verkauf. Keine Einkommensversprechen. Keine Jobgarantien. Seriöses Bildungsprodukt.
 
 ## 2. Links
 

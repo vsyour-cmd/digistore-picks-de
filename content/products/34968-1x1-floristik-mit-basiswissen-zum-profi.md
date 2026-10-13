@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein Floristik-Online-Kurs der die aller wichtigsten Grundlagen detaliert und einfach erklärt.</p>
-<p>Geeignet für:</p>
-<p>- Azubis der Floristik</p>
-<p>- Alle die selbst kreativ werden möchten</p>
-<p>- Alle die gerne etwas neues erlernen möchten</p>
-<p>- Alle die es sich Zuhause mit ihren eigenen Kreationen gemütlich machen möchten.</p>
+**Vendor's marketplace description:** Ein Floristik-Online-Kurs der die aller wichtigsten Grundlagen detaliert und einfach erklärt. Geeignet für: - Azubis der Floristik - Alle die selbst kreativ werden möchten - Alle die gerne etwas neues erlernen möchten - Alle die es sich Zuhause mit ihren eigenen Kreationen gemütlich machen möchten.
 
 ## 2. Links
 

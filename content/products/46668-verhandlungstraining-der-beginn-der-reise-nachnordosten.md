@@ -41,68 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<p>Professionell verhandeln lernen in unserem<strong> interaktiven Verhandlungstraining</strong> in Nürnberg. Wir zeigen Ihnen, wie Sie:</p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<ul>
-<li>Messbar bessere Verhandlungsergebnisse erzielen.</li>
-<li>Komplexe Verhandlungen souverän und stressfrei meistern.</li>
-<li>Ihre Ziele in Verhandlungen OHNE Beziehungsbelastung durchsetzen.</li>
-<li>Ihrem Gegenüber gezielt die richtigen Fragen stellen.</li>
-<li>Ihr neu erlerntes Wissen sofort gewinnbringend einsetzen</li>
-</ul>
-<div>
-<div>
-<div>
-<div>
-<div>
-<h4>Mehrwerte für Sie</h4>
-</div>
-</div>
-<div>
-<div>
-<ul>
-<li>Sie erfahren, wie gut Sie wirklich verhandeln</li>
-<li>Sie lernen die Grunddynamiken des Verhandelns kennen</li>
-<li>Sie verbessern Ihre Verhandlungsergebnisse (direkter ROI)</li>
-<li>Sie lernen, wie Sie wichtige Informationen vom Verhandlungspartner gewinnen</li>
-<li>Sie erweitern Ihr Netzwerk und verhandeln live mit anderen Teilnehmern.</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<h4>Leistungen von uns</h4>
-</div>
-</div>
-<div>
-<div>
-<ul>
-<li>Ganztägiger Workshop (09:00-17:00) in Nürnberg</li>
-<li>3 interaktive Simulationen zur Messung der Verhandlungsperformance</li>
-<li>Assessment zur individuellen Verhandlungsperformance</li>
-<li>Exklusive Publikation „Der Beginn der Reise“</li>
-<li>Elegantes Zertifikat</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Professionell verhandeln lernen in unserem interaktiven Verhandlungstraining in Nürnberg. Wir zeigen Ihnen, wie Sie: Messbar bessere Verhandlungsergebnisse erzielen. Komplexe Verhandlungen souverän und stressfrei meistern. Ihre Ziele in Verhandlungen OHNE Beziehungsbelastung durchsetzen. Ihrem Gegenüber gezielt die richtigen Fragen stellen. Ihr neu erlerntes Wissen sofort gewinnbringend einsetzen Mehrwerte für Sie Sie erfahren, wie gut Sie wirklich verhandeln Sie lernen die Grunddynamiken des Verhandelns kennen Sie verbessern Ihre Verhandlungsergebnisse (direkter ROI) Sie lernen, wie Sie wichtige Informationen vom Verhandlungspartner gewinnen Sie erweitern Ihr Netzwerk und verhandeln live mit anderen Teilnehmern. Leistungen von uns Ganztägiger Workshop (09:00-17:00) in Nürnberg 3 interaktive Simulationen zur Messung der Verhandlungsperformance Assessment zur individuellen Verhandlungsperformance Exklusive Publikation „Der Beginn der Reise“ Elegantes Zertifikat
 
 ## 2. Links
 

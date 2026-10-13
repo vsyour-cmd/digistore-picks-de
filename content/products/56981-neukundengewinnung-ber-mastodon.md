@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie Unternehmen das Fediverse als authentischen Vertriebskanal nutzen</strong></p>
-<p>Mastodon ist der einzige große Kanal, auf dem du ohne Werbebudget und ohne Algorithmus-Gunst echte Geschäftskontakte aufbauen kannst. Das Netzwerk belohnt Unternehmen, die genuinen Mehrwert bieten, aktiv in Communities interagieren und ihre Haltung klar kommunizieren. Dieses E-Book zeigt dir, wie du mit einer konsequenten Hashtag-Strategie von Wunschkunden gefunden wirst, wie du durch dezentrale Nischen-Instanzen genau die Communities erreichst, in denen deine Zielgruppe aktiv ist, und wie du einen Funnel aufbaust, der ohne Paid Social auskommt. Du bekommst ein System, das zu Mastodon passt: authentisch, gemeinschaftsorientiert und nachhaltig – und trotzdem messbar auf Neukunden ausgerichtet.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Nischen-Instanzen identifizieren, auf denen deine Zielgruppe aktiv ist</li>
-<li>Hashtag-Strategie für maximale Auffindbarkeit ohne Algorithmus</li>
-<li>Content entlang der Customer Journey im chronologischen Feed planen</li>
-<li>Boosts als Empfehlungs-Wirtschaft: wie du andere Accounts als Multiplikatoren gewinnst</li>
-<li>Funnel ohne Paid Social: von der Sichtbarkeit zur Anfrage</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie Unternehmen das Fediverse als authentischen Vertriebskanal nutzen Mastodon ist der einzige große Kanal, auf dem du ohne Werbebudget und ohne Algorithmus-Gunst echte Geschäftskontakte aufbauen kannst. Das Netzwerk belohnt Unternehmen, die genuinen Mehrwert bieten, aktiv in Communities interagieren und ihre Haltung klar kommunizieren. Dieses E-Book zeigt dir, wie du mit einer konsequenten Hashtag-Strategie von Wunschkunden gefunden wirst, wie du durch dezentrale Nischen-Instanzen genau die Communities erreichst, in denen deine Zielgruppe aktiv ist, und wie du einen Funnel aufbaust, der ohne Paid Social auskommt. Du bekommst ein System, das zu Mastodon passt: authentisch, gemeinschaftsorientiert und nachhaltig – und trotzdem messbar auf Neukunden ausgerichtet. Das steckt drin: Nischen-Instanzen identifizieren, auf denen deine Zielgruppe aktiv ist Hashtag-Strategie für maximale Auffindbarkeit ohne Algorithmus Content entlang der Customer Journey im chronologischen Feed planen Boosts als Empfehlungs-Wirtschaft: wie du andere Accounts als Multiplikatoren gewinnst Funnel ohne Paid Social: von der Sichtbarkeit zur Anfrage Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

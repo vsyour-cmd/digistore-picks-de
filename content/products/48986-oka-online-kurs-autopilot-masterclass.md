@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Verdiene 50% Provision mit der #1 Masterclass für Online-Kurs-Business</h2>
-<p>Promote das <strong>kostenlose Online Training „Online Kurse erstellen und passiv verkaufen mit KI“ </strong>von<strong> Michael Rolle</strong> und verdiene <strong>50% Provision pro Sale</strong>.</p>
-<p>Du bewirbst kein Produkt – du bewirbst ein <strong>hochkonvertierendes Gratis-Webinar</strong>.<br />Der Verkauf der OKA Masterclass erfolgt vollautomatisch über unseren bewährten Webinar-Funnel.</p>
-<h2> </h2>
-<h2>So funktioniert es</h2>
-<p><strong>1. Erhalte deinen persönlichen Affiliate-Link</strong></p>
-<p>2. Teile den Link mit deiner Zielgruppe</p>
-<p>3. Deine Interessenten landen im kostenlosen Webinar</p>
-<p>4. Das Webinar verkauft automatisch das Produkt</p>
-<p>5. Du erhältst <strong>50% Provision pro Verkauf</strong></p>
-<p> </p>
-<p>Kein Closing.<br />Kein Support.<br />Keine Technik.<br />Kein Risiko.</p>
-<p>Zusätzliche Infos für Affiliates + Anleitung:<br /><a href="https://partner.michaelrolle.de/" target="_blank" rel="noreferrer noopener">https://partner.michaelrolle.de/</a></p>
+**Vendor's marketplace description:** Verdiene 50% Provision mit der #1 Masterclass für Online-Kurs-Business Promote das kostenlose Online Training „Online Kurse erstellen und passiv verkaufen mit KI“ von Michael Rolle und verdiene 50% Provision pro Sale . Du bewirbst kein Produkt – du bewirbst ein hochkonvertierendes Gratis-Webinar . Der Verkauf der OKA Masterclass erfolgt vollautomatisch über unseren bewährten Webinar-Funnel. So funktioniert es 1. Erhalte deinen persönlichen Affiliate-Link 2. Teile den Link mit deiner Zielgruppe 3. Deine Interessenten landen im kostenlosen Webinar 4. Das Webinar verkauft automatisch das Produkt 5. Du erhältst 50% Provision pro Verkauf Kein Closing. Kein Support. Keine Technik. Kein Risiko. Zusätzliche Infos für Affiliates + Anleitung: https://partner.michaelrolle.de/
 
 ## 2. Links
 

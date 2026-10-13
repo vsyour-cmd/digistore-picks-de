@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Endlich Fokus im Feierabend-Business! </strong></p>
-<p>UNPLUGGABLE ist der praxiserprobte Leitfaden für Angestellte, die nach einem langen Arbeitstag die mentale Energie und den Fokus finden wollen, um ihr eigenes Kleingewerbe gewinnbringend aufzubauen.</p>
-<p><strong>Das erwartet deine Zielgruppe: </strong></p>
-<ul>
-<li>12 praxisnahe Kapitel für sofort umsetzbaren Fokus</li>
-<li>Schluss mit digitaler Reizüberflutung und Aufschieberitis</li>
-<li>4 sofort nutzbare Bonus-Arbeitsvorlagen</li>
-</ul>
-<p><strong>Deine Vorteile als Affiliate: </strong> </p>
-<ul>
-<li><strong>50% Provision</strong> pro verkauftem E-Book</li>
-<li>Hohe Conversion-Rate durch klare Problem-Lösungs-Positionierung</li>
-<li>Starke, kaufbereite Zielgruppe (Side-Hustler, Gründer &amp; Angestellte)</li>
-</ul>
-<p>Sichere dir jetzt deinen Affiliate-Link und verdiene bei jedem Verkauf mit!</p>
+**Vendor's marketplace description:** Endlich Fokus im Feierabend-Business! UNPLUGGABLE ist der praxiserprobte Leitfaden für Angestellte, die nach einem langen Arbeitstag die mentale Energie und den Fokus finden wollen, um ihr eigenes Kleingewerbe gewinnbringend aufzubauen. Das erwartet deine Zielgruppe: 12 praxisnahe Kapitel für sofort umsetzbaren Fokus Schluss mit digitaler Reizüberflutung und Aufschieberitis 4 sofort nutzbare Bonus-Arbeitsvorlagen Deine Vorteile als Affiliate: 50% Provision pro verkauftem E-Book Hohe Conversion-Rate durch klare Problem-Lösungs-Positionierung Starke, kaufbereite Zielgruppe (Side-Hustler, Gründer & Angestellte) Sichere dir jetzt deinen Affiliate-Link und verdiene bei jedem Verkauf mit!
 
 ## 2. Links
 

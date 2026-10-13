@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>„Komm zum Punkt!“ ist Thilo Baums wichtigstes Buch. Es bündelt das relevante Wissen, damit sich Menschen in Unternehmen klar ausdrücken.<br /><br />Das Buch ist erstmals 2009 bei Eichborn erschienen und gehört heute zu Thilo Baums Eigenverlag. Die vierte Auflage ist aktualisiert und um neue Beispiele aus Seminaren ergänzt.<br /><br />Erfahren Sie auf 230 Seiten, wie klare Sprache funktioniert und wie Sie sie im Unternehmen konkret anwenden – mit mehr als 100 leicht anwendbaren und anschaulichen Klartext-Tipps.<br /><br />Das E-Book erhalten Sie hier für 5,90 Euro.</h4>
+**Vendor's marketplace description:** „Komm zum Punkt!“ ist Thilo Baums wichtigstes Buch. Es bündelt das relevante Wissen, damit sich Menschen in Unternehmen klar ausdrücken. Das Buch ist erstmals 2009 bei Eichborn erschienen und gehört heute zu Thilo Baums Eigenverlag. Die vierte Auflage ist aktualisiert und um neue Beispiele aus Seminaren ergänzt. Erfahren Sie auf 230 Seiten, wie klare Sprache funktioniert und wie Sie sie im Unternehmen konkret anwenden – mit mehr als 100 leicht anwendbaren und anschaulichen Klartext-Tipps. Das E-Book erhalten Sie hier für 5,90 Euro.
 
 ## 2. Links
 

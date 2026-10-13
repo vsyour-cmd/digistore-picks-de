@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>„Das 90/10-System – Band II: Sichtbar verkaufen“ ist ein digitales Workbook für Anfängerinnen und Anfänger, die ihr fertiges digitales Produkt klar präsentieren und sichtbar machen möchten.</p>
-<p>Das Workbook zeigt Schritt für Schritt, wie du eine verständliche Verkaufsbotschaft entwickelst, passende Inhalte erstellst, eine geeignete Plattform auswählst und einen einfachen Verkaufsprozess aufbaust.</p>
-<p>Behandelt werden unter anderem:</p>
-<p>• klare Botschaften und aufmerksamkeitsstarke Hooks <br />• Content für Instagram, TikTok und Pinterest <br />• Auswahl einer passenden Hauptplattform <br />• Funnel, Freebie und Verkaufsseite <br />• Preisfindung und E-Mail-Marketing <br />• ein realistischer 7-Tage-Mini-Launch <br />• Auswertung und kontinuierliche Verbesserung</p>
-<p>Das Produkt richtet sich an Menschen, die ihr digitales Produkt bereits erstellt haben und nun ohne übertriebene Versprechen oder komplizierte Marketingstrategien sichtbar werden möchten.</p>
-<p>Preis: 27 € einmalig.</p>
-<p>Affiliate-Support mit Werbetexten und weiteren Informationen:<br />https://rita-scheer.de/affiliate-support/</p>
+**Vendor's marketplace description:** „Das 90/10-System – Band II: Sichtbar verkaufen“ ist ein digitales Workbook für Anfängerinnen und Anfänger, die ihr fertiges digitales Produkt klar präsentieren und sichtbar machen möchten. Das Workbook zeigt Schritt für Schritt, wie du eine verständliche Verkaufsbotschaft entwickelst, passende Inhalte erstellst, eine geeignete Plattform auswählst und einen einfachen Verkaufsprozess aufbaust. Behandelt werden unter anderem: • klare Botschaften und aufmerksamkeitsstarke Hooks • Content für Instagram, TikTok und Pinterest • Auswahl einer passenden Hauptplattform • Funnel, Freebie und Verkaufsseite • Preisfindung und E-Mail-Marketing • ein realistischer 7-Tage-Mini-Launch • Auswertung und kontinuierliche Verbesserung Das Produkt richtet sich an Menschen, die ihr digitales Produkt bereits erstellt haben und nun ohne übertriebene Versprechen oder komplizierte Marketingstrategien sichtbar werden möchten. Preis: 27 € einmalig. Affiliate-Support mit Werbetexten und weiteren Informationen: https://rita-scheer.de/affiliate-support/
 
 ## 2. Links
 

@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieser Kurs bringt Gitarren-Einsteigern in 12 Monaten bei, beliebige Lieder (aus Liederbüchern etc.) auf der Gitarre zu begleiten. Schritt für Schritt werden alle nötigen Akkorde, Rhythmen, Zupfmuster und das nötige Verständnis vermittelt, damit man beliebige Songs auf der Gitarre begleiten kann.</p>
-<p>Der studierte Gitarrist Christian Konrad (Studium Jazz-Rock-Pop-Gitarre HfM Dresden, Kontaktstudiengang Popularmusik HfMT Hamburg) konzipierte seinen Kurs auf der Basis von 15 Jahren Lehrerfahrung im Bereich Anfänger-Unterricht an Musikschulen.</p>
-<p><br />Im Zentrum des Kurses stehen aufeinander aufbauende Unterrichtsvideos, die jeweils durch schriftliche Dokumente, Playalongs und andere Materialien ergänzt werden.<br />Ähnlich dem Unterricht bei einem Instrumentallehrer vor Ort ist das Lehrmaterial in einzelne wöchentliche Lektionen gegliedert, die dich fordern, aber nicht überfordern sollen.</p>
-<p>Inhalt:</p>
-<ul>
-<li>56 wöchentlich freigeschaltete Videolektionen (insgesamt über 22 Stunden Videomaterial)</li>
-<li>wöchentliche Übepläne (PDF)</li>
-<li>schriftliches Begleitmaterial zu jedem Video</li>
-<li>Backingtracks zum Mitspielen (MP3)</li>
-<li>persönlicher Support bei Fragen (Kommentarfunktion)</li>
-<li>auch über das Jahr hinaus zeitlich unbegrenzter Zugang zum Kurs</li>
-<li>Bonuskurs: Die 15 schönsten Weihnachtslieder auf der Gitarre begleiten (90 min Video)</li>
-</ul>
-<p><a title="Erfahrungen &amp; Bewertungen zu Gitarrenvideounterricht anzeigen" href="https://www.provenexpert.com/gitarrenvideounterricht/?utm_source=Widget&amp;utm_medium=Widget&amp;utm_campaign=Widget" target="_blank" rel="noreferrer noopener"><img style="border:0;" src="https://images.provenexpert.com/f8/ee/3bd5667647cdaa8d45ade432ec8f/widget_recommendation_465_0.png?t=1516875157267" alt="Erfahrungen &amp; Bewertungen zu Gitarrenvideounterricht anzeigen" /></a></p>
+**Vendor's marketplace description:** Dieser Kurs bringt Gitarren-Einsteigern in 12 Monaten bei, beliebige Lieder (aus Liederbüchern etc.) auf der Gitarre zu begleiten. Schritt für Schritt werden alle nötigen Akkorde, Rhythmen, Zupfmuster und das nötige Verständnis vermittelt, damit man beliebige Songs auf der Gitarre begleiten kann. Der studierte Gitarrist Christian Konrad (Studium Jazz-Rock-Pop-Gitarre HfM Dresden, Kontaktstudiengang Popularmusik HfMT Hamburg) konzipierte seinen Kurs auf der Basis von 15 Jahren Lehrerfahrung im Bereich Anfänger-Unterricht an Musikschulen. Im Zentrum des Kurses stehen aufeinander aufbauende Unterrichtsvideos, die jeweils durch schriftliche Dokumente, Playalongs und andere Materialien ergänzt werden. Ähnlich dem Unterricht bei einem Instrumentallehrer vor Ort ist das Lehrmaterial in einzelne wöchentliche Lektionen gegliedert, die dich fordern, aber nicht überfordern sollen. Inhalt: 56 wöchentlich freigeschaltete Videolektionen (insgesamt über 22 Stunden Videomaterial) wöchentliche Übepläne (PDF) schriftliches Begleitmaterial zu jedem Video Backingtracks zum Mitspielen (MP3) persönlicher Support bei Fragen (Kommentarfunktion) auch über das Jahr hinaus zeitlich unbegrenzter Zugang zum Kurs Bonuskurs: Die 15 schönsten Weihnachtslieder auf der Gitarre begleiten (90 min Video)
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Geschmeidiges Trailvergnügen und atemberaubende Aussichten – hier findest Du die besten MTB-Trails in den Voralpen südlich von München und am nördlichen Gardasee, all samt Trail-optimierte Touren im oberen Schwierigkeitsgrad.Top Trails im Tessin, ausgefallene Touren in Graubünden, sowie MTB-Hochtouren bis in die 3.000er Regionen runden das Angebot ab und liefern Trail-Spass vom Feinsten. </p>
-<p>Das Angebot richtet sich vor allem an versierte Trailrider und Cracks, denn auch die werden hier bei einigen Abfahrten an ihre Grenzen stoßen.</p>
-<p>Mit dem Freeride.Today DropIn erhältst Du Zugriff auf alle Inhalte von Freeride.Today. Explizit erwirbst Du für jede Tour eine exakte Tourenbeschreibung, eine Einschätzung zur Schwierigkeit, Hinweise zu Untergründen, Fotos, die Line-, Trail- oder Schlüsselstellen zeigen, sowie Maps-Routen mit Höhenprofilen und GPX-Tracks zum Download.</p>
+**Vendor's marketplace description:** Geschmeidiges Trailvergnügen und atemberaubende Aussichten – hier findest Du die besten MTB-Trails in den Voralpen südlich von München und am nördlichen Gardasee, all samt Trail-optimierte Touren im oberen Schwierigkeitsgrad.Top Trails im Tessin, ausgefallene Touren in Graubünden, sowie MTB-Hochtouren bis in die 3.000er Regionen runden das Angebot ab und liefern Trail-Spass vom Feinsten. Das Angebot richtet sich vor allem an versierte Trailrider und Cracks, denn auch die werden hier bei einigen Abfahrten an ihre Grenzen stoßen. Mit dem Freeride.Today DropIn erhältst Du Zugriff auf alle Inhalte von Freeride.Today. Explizit erwirbst Du für jede Tour eine exakte Tourenbeschreibung, eine Einschätzung zur Schwierigkeit, Hinweise zu Untergründen, Fotos, die Line-, Trail- oder Schlüsselstellen zeigen, sowie Maps-Routen mit Höhenprofilen und GPX-Tracks zum Download.
 
 ## 2. Links
 

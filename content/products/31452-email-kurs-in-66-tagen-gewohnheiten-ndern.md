@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div> </div>
-<div>
-<h3>Was Sie mit diesem eMail-Kurs bekommen:</h3>
-<ul><li>Alle fünf Tage per <strong>eMail</strong> eine Lektion von ca. 8 - 14 Seiten. Direkt auf Ihr Smartphone, Tablet, PC.</li>
-<li>Zusätzlich als <strong>PDF</strong> zum bequemeren Lesen, Ausdrucken und Aufbewahren.</li>
-<li>Zusätzlich jede Lektion als <strong>MP3-Audio</strong>-Datei zum Anhören auf Ihrem PC, Mac oder Smartphone.</li>
-<li>Zusätzlich alle 12 Lektion als <strong>eBook</strong>, um alles noch einmal in Ruhe zu  lesen.</li>
-<li>Und Zugang zur geschlossenen <a><strong>Facebook-Gruppe</strong></a> für Ihre Erfahrungen und Fragen.</li>
-</ul><p>Damit haben Sie alle Informationen, um gute Gewohnheiten aufzubauen - und schlechte Gewohnheiten loszuwerden.</p>
-</div>
+**Vendor's marketplace description:** Was Sie mit diesem eMail-Kurs bekommen: Alle fünf Tage per eMail eine Lektion von ca. 8 - 14 Seiten. Direkt auf Ihr Smartphone, Tablet, PC. Zusätzlich als PDF zum bequemeren Lesen, Ausdrucken und Aufbewahren. Zusätzlich jede Lektion als MP3-Audio -Datei zum Anhören auf Ihrem PC, Mac oder Smartphone. Zusätzlich alle 12 Lektion als eBook , um alles noch einmal in Ruhe zu lesen. Und Zugang zur geschlossenen Facebook-Gruppe für Ihre Erfahrungen und Fragen. Damit haben Sie alle Informationen, um gute Gewohnheiten aufzubauen - und schlechte Gewohnheiten loszuwerden.
 
 ## 2. Links
 

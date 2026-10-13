@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>My Business Organizer ist eine Excel-Vorlage für Freelancer, Kreative und Selbstständige, die ihre Jobs, Rechnungen, Einnahmen, Ausgaben und offenen Zahlungen an einem Ort organisieren möchten.</p>
-<p>Das Produkt eignet sich besonders für Inhalte rund um Selbstständigkeit, Freelancer-Alltag, Business-Organisation, Excel-Vorlagen und den Überblick über offene Rechnungen. Statt einzelne Listen zu führen, können Käufer ihre wichtigsten Geschäftsdaten in einer Vorlage zusammenhalten.</p>
-<p>Der Verkaufspreis beträgt 29 € als Einmalzahlung. Nach dem Kauf erhalten Kunden die Excel-Vorlage mit einer leeren Arbeitsversion, einer Demo-Version und einer Kurzanleitung als PDF. Eine Vorschau und weitere Produktinformationen findest du auf <a>mybusinessorganizer.de</a>.</p>
-<p>Als Affiliate kannst du das Produkt deiner passenden Zielgruppe über deinen Digistore24-Promolink empfehlen. Die für dich geltende Provision wird in den Produkteinstellungen und im Marktplatzeintrag angezeigt. Bitte verwende bei der Bewerbung nur Funktionen und Ergebnisse, die auf der Verkaufsseite tatsächlich beschrieben sind.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div> </div>
-</div>
-</div>
+**Vendor's marketplace description:** My Business Organizer ist eine Excel-Vorlage für Freelancer, Kreative und Selbstständige, die ihre Jobs, Rechnungen, Einnahmen, Ausgaben und offenen Zahlungen an einem Ort organisieren möchten. Das Produkt eignet sich besonders für Inhalte rund um Selbstständigkeit, Freelancer-Alltag, Business-Organisation, Excel-Vorlagen und den Überblick über offene Rechnungen. Statt einzelne Listen zu führen, können Käufer ihre wichtigsten Geschäftsdaten in einer Vorlage zusammenhalten. Der Verkaufspreis beträgt 29 € als Einmalzahlung. Nach dem Kauf erhalten Kunden die Excel-Vorlage mit einer leeren Arbeitsversion, einer Demo-Version und einer Kurzanleitung als PDF. Eine Vorschau und weitere Produktinformationen findest du auf mybusinessorganizer.de . Als Affiliate kannst du das Produkt deiner passenden Zielgruppe über deinen Digistore24-Promolink empfehlen. Die für dich geltende Provision wird in den Produkteinstellungen und im Marktplatzeintrag angezeigt. Bitte verwende bei der Bewerbung nur Funktionen und Ergebnisse, die auf der Verkaufsseite tatsächlich beschrieben sind.
 
 ## 2. Links
 

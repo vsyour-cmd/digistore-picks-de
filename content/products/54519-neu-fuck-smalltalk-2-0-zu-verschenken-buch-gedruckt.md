@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Verschenke dieses Buch und erhalte 5€ Provision pro Buch! </strong></h2>
-<p><strong>Extrem beliebt bei Zielgruppen im Bereich Persönlichkeitsentwicklung &amp; Dating!</strong></p>
-<ul>
-<li>138 Seiten purer Mehrwert | Softcover</li>
-<li>Im Buch lernt der Leser wie er Schritt für Schritt mehr Selbstvertrauen gewinnst, echte Gespräche führst und tiefere Verbindungen aufbaut.</li>
-<li>Als Bonus zum Buch erhält der Käufer sofortigen Zugang zum Ebook &amp; dazu einen 3-Teiligen begleitenden Videokurs.</li>
-<li>Extrem geringe Stornoquote</li>
-</ul>
-<p><strong>Wir zahlen dir 5€ Provision für jede Bestellung!</strong></p>
+**Vendor's marketplace description:** Verschenke dieses Buch und erhalte 5€ Provision pro Buch! Extrem beliebt bei Zielgruppen im Bereich Persönlichkeitsentwicklung & Dating! 138 Seiten purer Mehrwert | Softcover Im Buch lernt der Leser wie er Schritt für Schritt mehr Selbstvertrauen gewinnst, echte Gespräche führst und tiefere Verbindungen aufbaut. Als Bonus zum Buch erhält der Käufer sofortigen Zugang zum Ebook & dazu einen 3-Teiligen begleitenden Videokurs. Extrem geringe Stornoquote Wir zahlen dir 5€ Provision für jede Bestellung!
 
 ## 2. Links
 

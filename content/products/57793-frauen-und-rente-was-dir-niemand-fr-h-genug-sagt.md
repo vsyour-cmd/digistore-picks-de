@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses E-Book zeigt Frauen verständlich, worauf es bei der gesetzlichen Rente ankommt. Es erklärt Rentenbeginn, Abschläge, Rentenlücken, Vorsorge und wichtige Tipps für finanzielle Sicherheit im Ruhestand. Ideal für alle, die ihre Rentenplanung rechtzeitig selbst in die Hand nehmen möchten.</p>
+**Vendor's marketplace description:** Dieses E-Book zeigt Frauen verständlich, worauf es bei der gesetzlichen Rente ankommt. Es erklärt Rentenbeginn, Abschläge, Rentenlücken, Vorsorge und wichtige Tipps für finanzielle Sicherheit im Ruhestand. Ideal für alle, die ihre Rentenplanung rechtzeitig selbst in die Hand nehmen möchten.
 
 ## 2. Links
 

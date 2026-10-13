@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><strong>Wasserauto24</strong></h1>
-<p>Mit dem WasserAuto24 bieten Sie Ihren Kunden eine einmalige Möglichkeit Ihre Tankrechnung deutlich zu senken oder gar zu halbieren.</p>
-<p>Wasserauto24 ist ein hoch qualitatives Produkt im Bereich der Alternativen Energiegewinnung und ist der einzige funktionierende HHO Umbau!</p>
-<p>Unsere<strong> Conversionrate beträgt bei zielgerichtetem Traffic bis zu 13.3%</strong> und die Refundrate ist geringer als 2%.</p>
-<p>Wenn Sie unser Wasserauto24 bewerben erhalten Sie nicht nur die hier angegeben Provision für das Fron-End Produkt Wasserauto24, Sie erhalten <strong>zusätzlich 50% Provision für alle Upsells und Downsells</strong> die über Ihre Affiliate ID generiert wurden. Wir haben einen sehr umfangreichen Sales Funnel, einer der Upsells ist ein<strong> Club Mitgliedschaft durch die Sie monatliche Provisionen erhalten</strong>, solange "Ihr Kunde" Mitglied unseres Clubs ist.</p>
-<p>Seit mehr als 9 Jahren ist dieses Produkt der absolute Bestseller im Markt. <strong>Über 62.000 Verkaufte Exemplare(!)</strong> sprechen für sich.</p>
-<p>Wir haben<strong> jede Menge Affiliate Material</strong> für euch zusammengestellt, um euch bei der Promotion zu unterstützen.</p>
-<p>Unsere <strong>Verkaufsseite wird konstant gesplittestet und optimiert,</strong> um Euch <strong>das meiste Geld für Euren Traffic</strong> zu garantieren.</p>
-<p>Profitiert ab sofort von userer langjährigen Erfahrung und monetarisiert euren Tarffic mit einem der<strong> stärksten Affiliate Produkte auf dem Deutschen Markt.</strong></p>
-<p>Die Zielgruppe sind alle Autofahrer, Tüftler, Umweltschützer, Rebellen und damit eignet sich dieses Produkt für fast jede Zielgruppe.</p>
-<p> </p>
-<p>Hier sind die Benefits für Eure Kunden:</p>
-<p>Mit den „Wasserauto 24“ Plänen können Sie:</p>
-<p>* deutlich Ihre Tankrechnung reduzieren – und das in nur 2 Tagen!</p>
-<p>* sich von den gierigen Ölkonzernen unabhängig machen!</p>
-<p>* Luftverschmutzung massiv verringern und der Umwelt helfen!</p>
-<p>* entdecken, wie wir 1000e € im Jahr an Benzin- oder Dieselkosten mit unseren Autos eingespart haben – und wie Sie das auch schaffen!</p>
-<p><strong>Bewerben Sie unser Produkt JETZT an Ihre Liste und sehen schon heute Abend große Summen an Provision in Ihren Account fließen!</strong></p>
-<p><strong> </strong></p>
+**Vendor's marketplace description:** Wasserauto24 Mit dem WasserAuto24 bieten Sie Ihren Kunden eine einmalige Möglichkeit Ihre Tankrechnung deutlich zu senken oder gar zu halbieren. Wasserauto24 ist ein hoch qualitatives Produkt im Bereich der Alternativen Energiegewinnung und ist der einzige funktionierende HHO Umbau! Unsere Conversionrate beträgt bei zielgerichtetem Traffic bis zu 13.3% und die Refundrate ist geringer als 2%. Wenn Sie unser Wasserauto24 bewerben erhalten Sie nicht nur die hier angegeben Provision für das Fron-End Produkt Wasserauto24, Sie erhalten zusätzlich 50% Provision für alle Upsells und Downsells die über Ihre Affiliate ID generiert wurden. Wir haben einen sehr umfangreichen Sales Funnel, einer der Upsells ist ein Club Mitgliedschaft durch die Sie monatliche Provisionen erhalten , solange "Ihr Kunde" Mitglied unseres Clubs ist. Seit mehr als 9 Jahren ist dieses Produkt der absolute Bestseller im Markt. Über 62.000 Verkaufte Exemplare(!) sprechen für sich. Wir haben jede Menge Affiliate Material für euch zusammengestellt, um euch bei der Promotion zu unterstützen. Unsere Verkaufsseite wird konstant gesplittestet und optimiert, um Euch das meiste Geld für Euren Traffic zu garantieren. Profitiert ab sofort von userer langjährigen Erfahrung und monetarisiert euren Tarffic mit einem der stärksten Affiliate Produkte auf dem Deutschen Markt. Die Zielgruppe sind alle Autofahrer, Tüftler, Umweltschützer, Rebellen und damit eignet sich dieses Produkt für fast jede Zielgruppe. Hier sind die Benefits für Eure Kunden: Mit den „Wasserauto 24“ Plänen können Sie: * deutlich Ihre Tankrechnung reduzieren – und das in nur 2 Tagen! * sich von den gierigen Ölkonzernen unabhängig machen! * Luftverschmutzung massiv verringern und der Umwelt helfen! * entdecken, wie wir 1000e € im Jahr an Benzin- oder Dieselkosten mit unseren Autos eingespart haben – und wie Sie das auch schaffen! Bewerben Sie unser Produkt JETZT an Ihre Liste und sehen schon heute Abend große Summen an Provision in Ihren Account fließen!
 
 ## 2. Links
 

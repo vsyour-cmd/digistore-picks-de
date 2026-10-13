@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Was ist Affiliate Marketing?</h3>
-<p>Die wichtigste Frage für jeden, der sich in der Findungsphase befindet und online Geld verdienen möchte ... Was ist Affiliate Marketing? An dieser Frage kommt man nicht vorbei und dieses E-Book soll alle Fragen beantworten und als Leitfaden dienen, um sich für den Aufbau eines Affiliate Business zu entscheiden.</p>
-<p> </p>
-<p><span style="text-decoration:underline;"><strong>Deine Kunden erhalten...</strong></span></p>
-<p>... Eine Einführung in das Affiliate Marketing und wie es funktioniert</p>
-<p>... Eine Erklärung zu den verschiedenen Arten von Provisionen</p>
-<p>... Die besten Tools und Ressourcen für angehende Affiliate Marketer</p>
-<p>... Tipps &amp; Tricks für Deinen optimalen Start ins eigene Affiliate  Business!</p>
-<p> </p>
-<p><span style="text-decoration:underline;"><strong>Was DU davon hast:</strong></span></p>
-<ul>
-<li>50% Provision bei allen Add-ons, Up- und Downlsales!</li>
-<li>Lifetime Provision</li>
-<li>2nd Level Provision möglich</li>
-<li>Werbemittel</li>
-<li>Wettbewerbe mit tollen preisen und mehr</li>
-</ul>
-<p> </p>
-<p><em>Lass uns gemeinsam neue Affiliates gewinnen und gemeinsam erfolgreich werden!</em></p>
-<p> </p>
-<p style="text-align:center;"><a href="https://kb-om.com/affiliate-support-seite-was-ist-affiliate-marketing/" target="_blank" rel="noreferrer noopener"><strong><span style="background-color:#ff0000;"><span style="color:#ffffff;">Jetzt Partner werden</span></span></strong></a></p>
-<p> </p>
+**Vendor's marketplace description:** Was ist Affiliate Marketing? Die wichtigste Frage für jeden, der sich in der Findungsphase befindet und online Geld verdienen möchte ... Was ist Affiliate Marketing? An dieser Frage kommt man nicht vorbei und dieses E-Book soll alle Fragen beantworten und als Leitfaden dienen, um sich für den Aufbau eines Affiliate Business zu entscheiden. Deine Kunden erhalten... ... Eine Einführung in das Affiliate Marketing und wie es funktioniert ... Eine Erklärung zu den verschiedenen Arten von Provisionen ... Die besten Tools und Ressourcen für angehende Affiliate Marketer ... Tipps & Tricks für Deinen optimalen Start ins eigene Affiliate Business! Was DU davon hast: 50% Provision bei allen Add-ons, Up- und Downlsales! Lifetime Provision 2nd Level Provision möglich Werbemittel Wettbewerbe mit tollen preisen und mehr Lass uns gemeinsam neue Affiliates gewinnen und gemeinsam erfolgreich werden! Jetzt Partner werden
 
 ## 2. Links
 

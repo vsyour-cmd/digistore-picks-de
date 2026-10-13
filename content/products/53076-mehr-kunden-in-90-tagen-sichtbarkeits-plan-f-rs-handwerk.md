@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Der 90-Tage-Plan für mehr Sichtbarkeit im Handwerk.</h3>
-<p>Klare Schritte, fertige Ideen und ein System, das dir zuverlässig neue Anfragen bringt. Ein Social Media Plan fürs Handwerk, sofort umsetzbar und ohne Vorwissen nutzbar.</p>
-<hr />
-<p> </p>
-<p>Dieses Produkt ist auf Handwerksbetriebe zugeschnitten und bietet Affiliates eine klare Zielgruppe mit hohem Bedarf.</p>
-<p> </p>
-<p><span style="color:#008000;"><strong>Was ist drin:</strong></span><br /><strong><span style="color:#008000;">✔</span></strong> Der komplette 90-Tage-Sichtbarkeits-Plan (18-seitiges Haupt-PDF + Bonus-Dateien)<br /><span style="color:#008000;"><strong>✔</strong></span> Wöchentliche Themen und klare Wochenziele<br /><strong><span style="color:#008000;">✔</span></strong> Postideen speziell für Handwerksbetriebe<br /><span style="color:#008000;"><strong>✔</strong></span> Klare Übersicht: Was du wann postest und warum<br /><span style="color:#008000;"><strong>✔</strong></span> Canva Praxis-Guide: Inhalte gestalten wie ein Profi<br /><span style="color:#008000;"><strong>✔</strong></span> Reel-Power für dein Handwerk, mehr Sichtbarkeit mit Videos<br /><strong><span style="color:#008000;">✔</span></strong> Ideen-Booster mit 10 starken Posting-Ideen<br /><span style="color:#008000;"><strong>✔</strong></span> Hashtag-Turbo für mehr Reichweite auf Social Media<br /><span style="color:#008000;"><strong>✔</strong></span> Trend-Check mit 5 aktuellen Formaten<br /><span style="color:#008000;"><strong>✔</strong></span> Editierbarer Posting-Kalender (Excel/Sheets)<br /><span style="color:#008000;"><strong>✔</strong></span> 30-Minuten-Checkliste für den schnellen Einstieg</p>
-<p> </p>
-<hr />
-<p> </p>
-<p><span style="color:#008000;"><strong>Für wen geeignet:</strong></span><br />SHK-Betriebe, Zimmereien, Bauunternehmen, Elektriker, Metallbauer, Maler und viele weitere Handwerksbranchen.<br />Ideal für Betriebe, die regelmäßig posten wollen, aber keine Agentur beauftragen möchten.</p>
-<p> </p>
-<hr />
-<p> </p>
-<p><span style="color:#008000;"><strong>Warum dieses Produkt:</strong></span><br />Viele Handwerksbetriebe wissen, dass sie online sichtbar sein müssen, aber es fehlt an Zeit, Struktur oder Ideen.<br />Dieser Plan liefert eine klare Lösung mit System, Planung und direkt umsetzbaren Inhalten. Kein Blabla, keine Technikhürden.</p>
-<p> </p>
-<hr />
-<p> </p>
-<p><span style="color:#008000;"><strong>Affiliate-Vorteile:</strong></span><br /><span style="color:#008000;">✔</span> Klar definierte Zielgruppe mit hohem Bedarf<br /><span style="color:#008000;">✔</span> Leicht zu bewerben über Instagram, Facebook, E-Mail oder Website<br /><span style="color:#008000;">✔</span> <strong>50 % Provision</strong> auf den Netto-Verkaufspreis<br /><span style="color:#008000;">✔</span> Bewerbung unserer Social Media Pakete ebenfalls möglich<br /><span style="color:#008000;">✔</span> Perfekt für alle, die Zielgruppen im Handwerk erreichen</p>
-<p> </p>
-<hr />
-<p><strong>Jetzt als Affiliate durchstarten und mit einem praxisnahen, klar positionierten Produkt fürs Handwerk mitverdienen.</strong></p>
-<hr />
-<p><strong>Tags:</strong> sichtbarkeitsplan, handwerk, social media handwerk, online marketing, content ideen, social media vorlagen, sichtbarkeit, handwerksbetriebe, social media agentur, marketing handwerk, someonmarketing</p>
+**Vendor's marketplace description:** Der 90-Tage-Plan für mehr Sichtbarkeit im Handwerk. Klare Schritte, fertige Ideen und ein System, das dir zuverlässig neue Anfragen bringt. Ein Social Media Plan fürs Handwerk, sofort umsetzbar und ohne Vorwissen nutzbar. Dieses Produkt ist auf Handwerksbetriebe zugeschnitten und bietet Affiliates eine klare Zielgruppe mit hohem Bedarf. Was ist drin: ✔ Der komplette 90-Tage-Sichtbarkeits-Plan (18-seitiges Haupt-PDF + Bonus-Dateien) ✔ Wöchentliche Themen und klare Wochenziele ✔ Postideen speziell für Handwerksbetriebe ✔ Klare Übersicht: Was du wann postest und warum ✔ Canva Praxis-Guide: Inhalte gestalten wie ein Profi ✔ Reel-Power für dein Handwerk, mehr Sichtbarkeit mit Videos ✔ Ideen-Booster mit 10 starken Posting-Ideen ✔ Hashtag-Turbo für mehr Reichweite auf Social Media ✔ Trend-Check mit 5 aktuellen Formaten ✔ Editierbarer Posting-Kalender (Excel/Sheets) ✔ 30-Minuten-Checkliste für den schnellen Einstieg Für wen geeignet: SHK-Betriebe, Zimmereien, Bauunternehmen, Elektriker, Metallbauer, Maler und viele weitere Handwerksbranchen. Ideal für Betriebe, die regelmäßig posten wollen, aber keine Agentur beauftragen möchten. Warum dieses Produkt: Viele Handwerksbetriebe wissen, dass sie online sichtbar sein müssen, aber es fehlt an Zeit, Struktur oder Ideen. Dieser Plan liefert eine klare Lösung mit System, Planung und direkt umsetzbaren Inhalten. Kein Blabla, keine Technikhürden. Affiliate-Vorteile: ✔ Klar definierte Zielgruppe mit hohem Bedarf ✔ Leicht zu bewerben über Instagram, Facebook, E-Mail oder Website ✔ 50 % Provision auf den Netto-Verkaufspreis ✔ Bewerbung unserer Social Media Pakete ebenfalls möglich ✔ Perfekt für alle, die Zielgruppen im Handwerk erreichen Jetzt als Affiliate durchstarten und mit einem praxisnahen, klar positionierten Produkt fürs Handwerk mitverdienen. Tags: sichtbarkeitsplan, handwerk, social media handwerk, online marketing, content ideen, social media vorlagen, sichtbarkeit, handwerksbetriebe, social media agentur, marketing handwerk, someonmarketing
 
 ## 2. Links
 

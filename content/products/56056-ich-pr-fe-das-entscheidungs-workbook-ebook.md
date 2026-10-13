@@ -41,59 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Was ist "ICH PRÜFE" — Das Entscheidungs-Workbook (eBook) von Elke Höller?</strong></h2>
-<p>Das „ICH PRÜFE“-Workbook (eBook) ist ein strukturiertes Entscheidungs-System für UnternehmerInnen und selbständige Frauen, die fundierte Entscheidungen treffen wollen – ohne Unsicherheit, Druck oder Selbstzweifel.</p>
-<p>Kein klassisches Workbook, sondern ein klar aufgebautes Tool, das Schritt für Schritt durch den Entscheidungsprozess führt.</p>
-<hr />
-<h2><strong>Welches Problem löst das Produkt?</strong></h2>
-<p>Viele treffen Entscheidungen nicht aus Klarheit, sondern aus Unsicherheit, Druck oder alten Mustern.</p>
-<p>Typische Situationen:</p>
-<ul>
-<li>Investitionen im Business</li>
-<li>Mitarbeiter einstellen</li>
-<li>neue Projekte starten</li>
-<li>strategische Richtungsentscheidungen</li>
-</ul>
-<p>Das Ergebnis: teure Fehlentscheidungen, Zeitverlust und innere Unsicherheit.</p>
-<hr />
-<h2><strong>Die Lösung</strong></h2>
-<p>Das „ICH PRÜFE“-Entscheidungs-Workbook bringt Struktur in den Entscheidungsprozess:</p>
-<p>✔ klare Fragelogik<br />✔ ehrliche Selbstreflexion<br />✔ Bewertungssystem zur Einordnung<br />✔ sofort anwendbar (PDF-Download)</p>
-<p>Ziel: Klarheit vor der Entscheidung – nicht danach.</p>
-<hr />
-<h2><strong>Für wen eignet sich das Produkt?</strong></h2>
-<ul>
-<li>selbständige Frauen</li>
-<li>UnternehmerInnen</li>
-<li>Coaches, BeraterInnen</li>
-<li>Frauen &amp; Männer in Verantwortung</li>
-</ul>
-<hr />
-<h2><strong>Warum lässt sich das Produkt gut verkaufen?</strong></h2>
-<ul>
-<li>klares Problem (Unsicherheit bei Entscheidungen)</li>
-<li>hohe Relevanz im Business-Alltag</li>
-<li>sofort anwendbar</li>
-<li>emotional + rational verständlich</li>
-<li>attraktiver Einstiegspreis (39 €)</li>
-</ul>
-<hr />
-<h2><strong>Deine Vorteile als Affiliate</strong></h2>
-<ul>
-<li>20 % Provision pro Verkauf</li>
-<li>digitales Produkt (keine Logistik)</li>
-<li>sofortige Lieferung</li>
-<li>gut geeignet für Social Media, Newsletter und Ads</li>
-</ul>
-<hr />
-<h2><strong>Hook-Ideen für deine Promotion</strong></h2>
-<ul>
-<li>„Die teuersten Entscheidungen erkennst du erst später.“</li>
-<li>„Du triffst Entscheidungen – aber bist du dir wirklich sicher?“</li>
-<li>„Warum wir oft falsch entscheiden – obwohl wir alles durchdenken“</li>
-</ul>
-<hr />
-<p>Empfiehl das „ICH PRÜFE“- Workbook deiner Community, wenn sie vor Entscheidungen steht und Klarheit braucht.</p>
+**Vendor's marketplace description:** Was ist "ICH PRÜFE" — Das Entscheidungs-Workbook (eBook) von Elke Höller? Das „ICH PRÜFE“-Workbook (eBook) ist ein strukturiertes Entscheidungs-System für UnternehmerInnen und selbständige Frauen, die fundierte Entscheidungen treffen wollen – ohne Unsicherheit, Druck oder Selbstzweifel. Kein klassisches Workbook, sondern ein klar aufgebautes Tool, das Schritt für Schritt durch den Entscheidungsprozess führt. Welches Problem löst das Produkt? Viele treffen Entscheidungen nicht aus Klarheit, sondern aus Unsicherheit, Druck oder alten Mustern. Typische Situationen: Investitionen im Business Mitarbeiter einstellen neue Projekte starten strategische Richtungsentscheidungen Das Ergebnis: teure Fehlentscheidungen, Zeitverlust und innere Unsicherheit. Die Lösung Das „ICH PRÜFE“-Entscheidungs-Workbook bringt Struktur in den Entscheidungsprozess: ✔ klare Fragelogik ✔ ehrliche Selbstreflexion ✔ Bewertungssystem zur Einordnung ✔ sofort anwendbar (PDF-Download) Ziel: Klarheit vor der Entscheidung – nicht danach. Für wen eignet sich das Produkt? selbständige Frauen UnternehmerInnen Coaches, BeraterInnen Frauen & Männer in Verantwortung Warum lässt sich das Produkt gut verkaufen? klares Problem (Unsicherheit bei Entscheidungen) hohe Relevanz im Business-Alltag sofort anwendbar emotional + rational verständlich attraktiver Einstiegspreis (39 €) Deine Vorteile als Affiliate 20 % Provision pro Verkauf digitales Produkt (keine Logistik) sofortige Lieferung gut geeignet für Social Media, Newsletter und Ads Hook-Ideen für deine Promotion „Die teuersten Entscheidungen erkennst du erst später.“ „Du triffst Entscheidungen – aber bist du dir wirklich sicher?“ „Warum wir oft falsch entscheiden – obwohl wir alles durchdenken“ Empfiehl das „ICH PRÜFE“- Workbook deiner Community, wenn sie vor Entscheidungen steht und Klarheit braucht.
 
 ## 2. Links
 

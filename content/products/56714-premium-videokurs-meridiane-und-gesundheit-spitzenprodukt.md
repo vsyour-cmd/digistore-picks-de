@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hallo lieber Affiliate, wenn du dieses Produkt bewirbst, dann kannst du auf satte </p>
-<h3><strong>50% Provision pro Verkauf</strong></h3>
-<p>rechnen.</p>
-<p><strong>Zu jeder Zeit bin ich für dich per Email aber auch per WhatsApp 0034-649393395 erreichbar und erstelle auf Wunsch auch gerne individuelle Werbemittel.</strong></p>
-<p>Besuche über den Link unten auch gerne meine <strong>Affiliate Supportseite,</strong> denn dort findest du jede Menge sehr gute und <strong>attraktive Werbemittel</strong>: Vorlage-Newsletter, Werbebanner in allen Größen,...</p>
-<p><strong>Das bewirbst du:</strong></p>
-<p>Qigong-Video-Kurs: "Meridiane &amp; Wie sie deine körperliche, emotionale und geistige Gesundheit beeinflussen...",</p>
-<ul>
-<li>wo wertvolles TCM-Wissen leicht und verständlich weitergegeben wird.</li>
-<li>Praktische Meridian-Übungen zum Mitmachen.</li>
-<li>Symptomenaufstellung: als PDF zum Herunterladen</li>
-</ul>
-<p><strong>Zielgruppe:</strong></p>
-<p>Frauen <strong>45+</strong>, welche aktiv für ihr Wohlbefinden sorgen und wieder ihre wohlverdiente <strong>körperliche Gesundheit und emotionale Ausgeglichenheit mit Qigong zurückerobern</strong> wollen.</p>
+**Vendor's marketplace description:** Hallo lieber Affiliate, wenn du dieses Produkt bewirbst, dann kannst du auf satte 50% Provision pro Verkauf rechnen. Zu jeder Zeit bin ich für dich per Email aber auch per WhatsApp 0034-649393395 erreichbar und erstelle auf Wunsch auch gerne individuelle Werbemittel. Besuche über den Link unten auch gerne meine Affiliate Supportseite, denn dort findest du jede Menge sehr gute und attraktive Werbemittel : Vorlage-Newsletter, Werbebanner in allen Größen,... Das bewirbst du: Qigong-Video-Kurs: "Meridiane & Wie sie deine körperliche, emotionale und geistige Gesundheit beeinflussen...", wo wertvolles TCM-Wissen leicht und verständlich weitergegeben wird. Praktische Meridian-Übungen zum Mitmachen. Symptomenaufstellung: als PDF zum Herunterladen Zielgruppe: Frauen 45+ , welche aktiv für ihr Wohlbefinden sorgen und wieder ihre wohlverdiente körperliche Gesundheit und emotionale Ausgeglichenheit mit Qigong zurückerobern wollen.
 
 ## 2. Links
 

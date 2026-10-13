@@ -41,51 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h1>4 BANNER - THUMBNAIL GRAPHICS / MONAT </h1>
-<h1>Nur mit 78<em>€</em> / Monat (Paket BA2 -4)  </h1>
-<div>
-<div> </div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>  ABO / Kündbar / Down-Updatebar</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<h1>ABO / Kündbar / Down-Updatebar  </h1>
-<p> </p>
-</div>
-<div>
-<div>
-<ul>
-<li>
-<ul>
-<li>#0 Regelmäßige Design-Erstellung – 4 Stück / Monat</li>
-<li>#1 Individuelle Gestaltung nach deinem Branding</li>
-<li>#2 Formate für alle Social-Media-Plattformen</li>
-<li> #3 Optimiert für hohe Klick- &amp; Aufmerksamkeitseffekte</li>
-<li> #4 Themen- und Motivabstimmung nach Wunsch</li>
-<li>  #5 Jedes Design von Grund auf neu erstellt</li>
-<li>  # 6 Inklusive einer Überarbeitung pro Design</li>
-<li> #7 Lieferung in hochwertigen Dateiformaten</li>
-<li> #8 Schnelle &amp; zuverlässige Monatslieferung</li>
-<li>  #9 Flexible Abo-Struktur – jederzeit kündbar</li>
-<li>  #10 Design-Support &amp; kleine Anpassungen inklusive</li>
-</ul>
-</li>
-</ul>
-<p> </p>
-<ul>
-<li>Schauen Sie hier unsere Infos &amp; Video, was können wir für Euch tun sehr günstig</li>
-</ul>
-</div>
-</div>
+**Vendor's marketplace description:** 4 BANNER - THUMBNAIL GRAPHICS / MONAT Nur mit 78 € / Monat (Paket BA2 -4) ABO / Kündbar / Down-Updatebar ABO / Kündbar / Down-Updatebar #0 Regelmäßige Design-Erstellung – 4 Stück / Monat #1 Individuelle Gestaltung nach deinem Branding #2 Formate für alle Social-Media-Plattformen #3 Optimiert für hohe Klick- & Aufmerksamkeitseffekte #4 Themen- und Motivabstimmung nach Wunsch #5 Jedes Design von Grund auf neu erstellt # 6 Inklusive einer Überarbeitung pro Design #7 Lieferung in hochwertigen Dateiformaten #8 Schnelle & zuverlässige Monatslieferung #9 Flexible Abo-Struktur – jederzeit kündbar #10 Design-Support & kleine Anpassungen inklusive Schauen Sie hier unsere Infos & Video, was können wir für Euch tun sehr günstig
 
 ## 2. Links
 

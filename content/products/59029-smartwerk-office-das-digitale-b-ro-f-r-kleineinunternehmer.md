@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>SmartWerk Office – Büroorganisation einfach gemacht</strong></p>
-<p>SmartWerk Office ist eine digitale Bürosoftware speziell für Handwerker, kleine Betriebe und Selbstständige. Angebote, Aufträge, Rechnungen, Zahlungen, Ausgaben, Mitarbeiterplanung, Termine, Reklamationen und weitere wichtige Büroaufgaben werden übersichtlich in einer Anwendung zusammengeführt.</p>
-<p><strong>Ihre Vorteile als Affiliate:</strong><br />• Klare Zielgruppe: Handwerker, Hausmeisterservices, Montagebetriebe und kleine Dienstleistungsunternehmen<br />• Verständlicher, praktischer Nutzen<br />• Digitales Produkt mit sofortiger Auslieferung<br />• Verkaufspreis: 49 € einmalig<br />• Affiliate-Provision: 30 %<br />• Keine laufenden Kosten für den Käufer</p>
-<p>SmartWerk Office läuft lokal auf dem Computer und richtet sich besonders an kleinere Betriebe, die ihre Büroorganisation vereinfachen möchten, ohne sich in komplizierte Unternehmenssoftware einarbeiten zu müssen.</p>
+**Vendor's marketplace description:** SmartWerk Office – Büroorganisation einfach gemacht SmartWerk Office ist eine digitale Bürosoftware speziell für Handwerker, kleine Betriebe und Selbstständige. Angebote, Aufträge, Rechnungen, Zahlungen, Ausgaben, Mitarbeiterplanung, Termine, Reklamationen und weitere wichtige Büroaufgaben werden übersichtlich in einer Anwendung zusammengeführt. Ihre Vorteile als Affiliate: • Klare Zielgruppe: Handwerker, Hausmeisterservices, Montagebetriebe und kleine Dienstleistungsunternehmen • Verständlicher, praktischer Nutzen • Digitales Produkt mit sofortiger Auslieferung • Verkaufspreis: 49 € einmalig • Affiliate-Provision: 30 % • Keine laufenden Kosten für den Käufer SmartWerk Office läuft lokal auf dem Computer und richtet sich besonders an kleinere Betriebe, die ihre Büroorganisation vereinfachen möchten, ohne sich in komplizierte Unternehmenssoftware einarbeiten zu müssen.
 
 ## 2. Links
 

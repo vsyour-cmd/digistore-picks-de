@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Ziehharmonika Online Kurs</strong> </p>
-<p><strong>Abo-Modell</strong></p>
-<p>Beim Abo-Modell erhält der Kunde Zugriff auf alle Lernmaterialien! Er hat die Möglichkeit mit einem Anfängerkurs das Ziehharmonika spielen oder bekannte Lieder zu lernen.</p>
-<p> </p>
-<p><strong>Für Affiliates: </strong></p>
-<p>Beim Abo-Modell erhalten Sie 35% für jedes gezahlte Monat oder Jahr.</p>
-<p>Sollten Sie mehr Informationen brauchen, zögern Sie nicht mir eine E-Mail zu schreiben. Euer Manuel!</p>
-<p> </p>
+**Vendor's marketplace description:** Ziehharmonika Online Kurs Abo-Modell Beim Abo-Modell erhält der Kunde Zugriff auf alle Lernmaterialien! Er hat die Möglichkeit mit einem Anfängerkurs das Ziehharmonika spielen oder bekannte Lieder zu lernen. Für Affiliates: Beim Abo-Modell erhalten Sie 35% für jedes gezahlte Monat oder Jahr. Sollten Sie mehr Informationen brauchen, zögern Sie nicht mir eine E-Mail zu schreiben. Euer Manuel!
 
 ## 2. Links
 

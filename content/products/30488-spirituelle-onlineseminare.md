@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Spirituelle Onlineseminare mit Jonathan Dilas und Nicki Schreiber bekannt als die Matrixxer</h1>
-<p>Die spirituellen Onlineseminare mit den Matrixxern von Youtube, Jonathan und Nicki, sind seit Jahren beliebt und werden mit unterschiedlichen spirituellen Themen angeboten.</p>
-<p>Favorisiert werden die Onlineseminare zum Thema Astralreisen, Zirbeldrüse aktivieren und das Erlernen der stärksten Technik, die "Spirituelle Dissoziation" sowie "Raus aus der Matrix" und "Hinter den Kulissen der Matrix".</p>
-<p><strong>Die folgenden Onlineseminare werden momentan angeboten:</strong></p>
-<h2><strong>"Astralreisen Monroe"</strong></h2>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>Astralreisen lernen auf dem Onlineseminar „Astralreisen Monroe“ mit den Themen: Außerkörperliches Reisen in Theorie und Praxis mit vielen Techniken, Hilfsmittel Ernährung, Hilfsmittel Flugsalben, Hilfsmittel Nahrungsergänzungen, Hilfsmittel Binaural Beats, die Astralebenen, der Astralkörper und der Mentalkörper, Leben im Jenseits, die 49 Welten, Nahtoderfahrungen, was geschieht nach dem Tod, Retrieving und die Rettung Verstorbener u.v.m. (Produktnummer 296655)</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<h2><strong><a>D</a>as Lovecraft-Onlineseminar "Aktiviere Deine Zirbeldrüse"</strong></h2>
-<p>Mit den Themen: Das Dritte Auge als Stargate, Zugang zum Wurmloch-Universum, körpereigenes DMT, Zirbeldrüse entkalken, spirituelle und basische Ernährung. So kann die Zirbeldrüse stimuliert und aktiviert werden. Sie macht es möglich, PSI-Fähigkeiten wie das Hellsehen zu aktivieren, eine stärkere Empathie und somit Telepathie zu entwickeln, Geistwesen zu sehen oder mit seinem Bewusstsein einfach in andere Welten zu springen, sich an seine vergangenen Leben zu erinnern, Astralreisen und luzide Träume erfahrbar zu machen u.v.m. (Produktnummer 321392)</p>
-<h2><strong>Das Onlineseminar "Raus aus der Matrix"</strong></h2>
-<p>Mit den Themen: Lichtfalle, die Matrix, Aufbau der Matrix, die 7 Ebenen, Erdmatrix und die multidimensionale Matrix, Licht und Schwärze, die drei Ausgänge aus der Matrix, was ist jenseits der Matrix, die Image-Presse, die Vergessenheitsmaschine, der Reinkarnationszyklus u.v.a. (Produktnummer 301872)</p>
-<h2><strong>Das Onlineseminar "Die Spirituelle Dissoziation"</strong></h2>
-<p>Das Online-Seminar für Selbsterkenntnis, luzides Träumen und Astralreisen durch die Kraft der Dissoziation. Die Dissoziation ist die stärkste Technik als Master-Technik für die Selbsterkenntnis, Erleuchtung, Astralreisen, luzides Träumen und mehr Energie und Power im Leben. (Produktnummer 364612)</p>
-<p>...und viele mehr.</p>
-<p> </p>
+**Vendor's marketplace description:** Spirituelle Onlineseminare mit Jonathan Dilas und Nicki Schreiber bekannt als die Matrixxer Die spirituellen Onlineseminare mit den Matrixxern von Youtube, Jonathan und Nicki, sind seit Jahren beliebt und werden mit unterschiedlichen spirituellen Themen angeboten. Favorisiert werden die Onlineseminare zum Thema Astralreisen, Zirbeldrüse aktivieren und das Erlernen der stärksten Technik, die "Spirituelle Dissoziation" sowie "Raus aus der Matrix" und "Hinter den Kulissen der Matrix". Die folgenden Onlineseminare werden momentan angeboten: "Astralreisen Monroe" Astralreisen lernen auf dem Onlineseminar „Astralreisen Monroe“ mit den Themen: Außerkörperliches Reisen in Theorie und Praxis mit vielen Techniken, Hilfsmittel Ernährung, Hilfsmittel Flugsalben, Hilfsmittel Nahrungsergänzungen, Hilfsmittel Binaural Beats, die Astralebenen, der Astralkörper und der Mentalkörper, Leben im Jenseits, die 49 Welten, Nahtoderfahrungen, was geschieht nach dem Tod, Retrieving und die Rettung Verstorbener u.v.m. (Produktnummer 296655) D as Lovecraft-Onlineseminar "Aktiviere Deine Zirbeldrüse" Mit den Themen: Das Dritte Auge als Stargate, Zugang zum Wurmloch-Universum, körpereigenes DMT, Zirbeldrüse entkalken, spirituelle und basische Ernährung. So kann die Zirbeldrüse stimuliert und aktiviert werden. Sie macht es möglich, PSI-Fähigkeiten wie das Hellsehen zu aktivieren, eine stärkere Empathie und somit Telepathie zu entwickeln, Geistwesen zu sehen oder mit seinem Bewusstsein einfach in andere Welten zu springen, sich an seine vergangenen Leben zu erinnern, Astralreisen und luzide Träume erfahrbar zu machen u.v.m. (Produktnummer 321392) Das Onlineseminar "Raus aus der Matrix" Mit den Themen: Lichtfalle, die Matrix, Aufbau der Matrix, die 7 Ebenen, Erdmatrix und die multidimensionale Matrix, Licht und Schwärze, die drei Ausgänge aus der Matrix, was ist jenseits der Matrix, die Image-Presse, die Vergessenheitsmaschine, der Reinkarnationszyklus u.v.a. (Produktnummer 301872) Das Onlineseminar "Die Spirituelle Dissoziation" Das Online-Seminar für Selbsterkenntnis, luzides Träumen und Astralreisen durch die Kraft der Dissoziation. Die Dissoziation ist die stärkste Technik als Master-Technik für die Selbsterkenntnis, Erleuchtung, Astralreisen, luzides Träumen und mehr Energie und Power im Leben. (Produktnummer 364612) ...und viele mehr.
 
 ## 2. Links
 
@@ -78,6 +55,14 @@ language: "de"
 > Sales page not yet researched. This section will be filled by the next research run.
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
 
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 

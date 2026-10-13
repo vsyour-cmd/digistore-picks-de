@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Software-as-a-Service Lösung meinOnlineBüro, CRM, Auftragsabwicklung, Rechnungschreiben, Zeiterfassung. Es ist eine Standardlösung die als Monats- oder Jahresabo über Digistore gebucht und bezahlt werden kann. Es gibt auch die Möglichkeit der individuellen Anpassung der Standardlösung gegen Aufpreis. Spezielle Lösungen gibt es für Energiemakler und Bestatter. Wir bieten dem Affiliate dauerhafte 20% auf die Buchung eines Business- oder Premium-Jahresabos. </p>
+**Vendor's marketplace description:** Software-as-a-Service Lösung meinOnlineBüro, CRM, Auftragsabwicklung, Rechnungschreiben, Zeiterfassung. Es ist eine Standardlösung die als Monats- oder Jahresabo über Digistore gebucht und bezahlt werden kann. Es gibt auch die Möglichkeit der individuellen Anpassung der Standardlösung gegen Aufpreis. Spezielle Lösungen gibt es für Energiemakler und Bestatter. Wir bieten dem Affiliate dauerhafte 20% auf die Buchung eines Business- oder Premium-Jahresabos.
 
 ## 2. Links
 

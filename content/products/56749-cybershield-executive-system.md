@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>CyberShield Executive System</strong></p>
-<p>Das <strong>CyberShield Executive System</strong> unterstützt Unternehmen dabei, Cyber-Risiken zu erkennen, Sicherheitsmassnahmen strukturiert umzusetzen und die Handlungsfähigkeit im Notfall vorzubereiten.</p>
-<p>Für Affiliates bietet das System eine praxisnahe Lösung mit hoher Relevanz für KMU, Geschäftsleitungen und sicherheitsbewusste Organisationen im deutschsprachigen Raum.</p>
-<p>Produktebeschrieb:</p>
-<p>Das sofort einsetzbare Cyber Resilience Toolkit für KMU im deutschsprachigen Raum – mit Cyber Risiko Schnellcheck, 30 Tage Cyber Hygiene Plan, Funktionalem Cyber Notfallplan, Recovery und Wiederanlauf Checklisten, Awareness Training, KI Nutzungsrichtlinie, Vorlagen für Vorbereitung und Wiederherstellung sowie dem CEO Cyber Dashboard für mehr Transparenz, Struktur und Handlungsfähigkeit im Ernstfall.</p>
-<p><strong>Empfohlene Kommunikation:</strong><br />Cyber-Risiken sichtbar machen, Cyber Hygiene stärken und Unternehmen auf Notfälle vorbereiten.</p>
-<p>Bitte kommunizieren Sie das Angebot sachlich und im Einklang mit den Nutzungs- und Markenrichtlinien.</p>
+**Vendor's marketplace description:** CyberShield Executive System Das CyberShield Executive System unterstützt Unternehmen dabei, Cyber-Risiken zu erkennen, Sicherheitsmassnahmen strukturiert umzusetzen und die Handlungsfähigkeit im Notfall vorzubereiten. Für Affiliates bietet das System eine praxisnahe Lösung mit hoher Relevanz für KMU, Geschäftsleitungen und sicherheitsbewusste Organisationen im deutschsprachigen Raum. Produktebeschrieb: Das sofort einsetzbare Cyber Resilience Toolkit für KMU im deutschsprachigen Raum – mit Cyber Risiko Schnellcheck, 30 Tage Cyber Hygiene Plan, Funktionalem Cyber Notfallplan, Recovery und Wiederanlauf Checklisten, Awareness Training, KI Nutzungsrichtlinie, Vorlagen für Vorbereitung und Wiederherstellung sowie dem CEO Cyber Dashboard für mehr Transparenz, Struktur und Handlungsfähigkeit im Ernstfall. Empfohlene Kommunikation: Cyber-Risiken sichtbar machen, Cyber Hygiene stärken und Unternehmen auf Notfälle vorbereiten. Bitte kommunizieren Sie das Angebot sachlich und im Einklang mit den Nutzungs- und Markenrichtlinien.
 
 ## 2. Links
 

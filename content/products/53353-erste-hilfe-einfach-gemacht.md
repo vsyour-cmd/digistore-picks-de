@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>                   ONLINE-ERSTE-HILFE-KURS </strong></p>
-<p><strong>                       </strong><strong>LebenRetterAkademie</strong></p>
-<p>Dieser Kurs wird dir das Wissen geben, um im Notfall schnell und richtig zu handeln.</p>
-<p>Du lernst, Leben zu retten . und das bequem von Zuhause aus, flexibel und in deinem Tempo.</p>
-<p>Viele Menschen haben Angst, bei einem Unfall etwas falsch zu machen. Doch keine Hilfe ist schlimmer als falsche Hilfe.</p>
-<p>In diesem Kurs bekommst du alle wichtigen Grundlagenbund Du lernst, wie Du deine Angst uberwindest und sicher reagierst.</p>
-<p>Lass uns gemeinsam starten und dafur sorgen, dass du im Ernstfall Leben retten<br />kannst!</p>
-<p><strong>Zielgruppen...</strong></p>
-<p>- Privatpersonen (Eltern, Senioren, Sportbegeisterte)<br />. Betriebe (Mitarbeiter-Schulungen)<br />. Fahrschuler (als Vorbereitung auf den Fuhrerschein)<br />. Alle, die ihr Wissen auffrischen wollen</p>
-<p><br /><strong>Kursziele - </strong>Teilnehmer sollen nach dem Kurs...</p>
-<p>. in Notfallen sicher reagieren konnen<br />. lebensrettende Sofortmasnahmen anwenden<br />. Risiken erkennen und vermeiden<br />. Angste abbauen und selbstbewusst helfen</p>
-<p><strong>Kursdauer...</strong></p>
-<p>- Gesamtdauer: ca. 2-3 Stunden (in kurze, leicht konsumierbare Videos aufgeteilt)<br />. Einzelvideos: 3.10 Minuten je Thema<br /><br /><strong>Modul 1: Einführung &amp; Motivation</strong><br />. Warum Erste Hilfe wichtig ist<br />. Rechtliche Grundlagen und Helferpflicht<br />. Eigenschutz</p>
-<p><strong>Modul 2: Basiswissen - Verhalten am Unfallort</strong><br />. Notruf korrekt absetzen (112)<br />. Richtiges Verhalten am Unfallort<br />. Notfallcheck: Bewusstsein, Atmung, Kreislauf</p>
-<p><strong>Modul 3: Lebensrettende Sofortmasnahmen</strong><br />. Stabile Seitenlage</p>
-<p><strong>Modul 4: Herz-Lungen-Wiederbelebung</strong><br />. Herz-Lungen-Wiederbelebung (HLW) bei Erwachsenen &amp; Kindern<br />. Umgang mit Defibrillatoren (AED)</p>
-<p><strong>Modul 5: Haufige Notfalle</strong><br />. Blutungen stillen<br />. Schock erkennen und behandeln<br />. Verbrennungen &amp; Verbruhungen<br />. Knochenbruche &amp; Gelenkverletzungen<br />. Stromunfalle<br />. Verschlucken / Fremdkorper in den Atemwegen</p>
-<p><strong>Modul 6: Erste Hilfe bei Kindern &amp; Babys</strong><br />. Besonderheiten bei Sauglingen<br />. Kinder in der Notfallsituation beruhigen</p>
-<p><strong>Modul 7: Spezielle Situationen</strong><br />. Herzinfarkt &amp; Schlaganfall<br />. Allergischer Schock (Anaphylaxie)<br />. Asthmaanfalle<br />. Unterkuhlung &amp; Hitzeerschopfung</p>
-<p><strong>Modul 8: Abschluss &amp; Zertifikat</strong><br />. Checklisten fur den Haushalt / Arbeitsplatz<br />. Inhalte einer Erste-Hilfe-Tasche<br /><br /></p>
+**Vendor's marketplace description:** ONLINE-ERSTE-HILFE-KURS LebenRetterAkademie Dieser Kurs wird dir das Wissen geben, um im Notfall schnell und richtig zu handeln. Du lernst, Leben zu retten . und das bequem von Zuhause aus, flexibel und in deinem Tempo. Viele Menschen haben Angst, bei einem Unfall etwas falsch zu machen. Doch keine Hilfe ist schlimmer als falsche Hilfe. In diesem Kurs bekommst du alle wichtigen Grundlagenbund Du lernst, wie Du deine Angst uberwindest und sicher reagierst. Lass uns gemeinsam starten und dafur sorgen, dass du im Ernstfall Leben retten kannst! Zielgruppen... - Privatpersonen (Eltern, Senioren, Sportbegeisterte) . Betriebe (Mitarbeiter-Schulungen) . Fahrschuler (als Vorbereitung auf den Fuhrerschein) . Alle, die ihr Wissen auffrischen wollen Kursziele - Teilnehmer sollen nach dem Kurs... . in Notfallen sicher reagieren konnen . lebensrettende Sofortmasnahmen anwenden . Risiken erkennen und vermeiden . Angste abbauen und selbstbewusst helfen Kursdauer... - Gesamtdauer: ca. 2-3 Stunden (in kurze, leicht konsumierbare Videos aufgeteilt) . Einzelvideos: 3.10 Minuten je Thema Modul 1: Einführung & Motivation . Warum Erste Hilfe wichtig ist . Rechtliche Grundlagen und Helferpflicht . Eigenschutz Modul 2: Basiswissen - Verhalten am Unfallort . Notruf korrekt absetzen (112) . Richtiges Verhalten am Unfallort . Notfallcheck: Bewusstsein, Atmung, Kreislauf Modul 3: Lebensrettende Sofortmasnahmen . Stabile Seitenlage Modul 4: Herz-Lungen-Wiederbelebung . Herz-Lungen-Wiederbelebung (HLW) bei Erwachsenen & Kindern . Umgang mit Defibrillatoren (AED) Modul 5: Haufige Notfalle . Blutungen stillen . Schock erkennen und behandeln . Verbrennungen & Verbruhungen . Knochenbruche & Gelenkverletzungen . Stromunfalle . Verschlucken / Fremdkorper in den Atemwegen Modul 6: Erste Hilfe bei Kindern & Babys . Besonderheiten bei Sauglingen . Kinder in der Notfallsituation beruhigen Modul 7: Spezielle Situationen . Herzinfarkt & Schlaganfall . Allergischer Schock (Anaphylaxie) . Asthmaanfalle . Unterkuhlung & Hitzeerschopfung Modul 8: Abschluss & Zertifikat . Checklisten fur den Haushalt / Arbeitsplatz . Inhalte einer Erste-Hilfe-Tasche
 
 ## 2. Links
 

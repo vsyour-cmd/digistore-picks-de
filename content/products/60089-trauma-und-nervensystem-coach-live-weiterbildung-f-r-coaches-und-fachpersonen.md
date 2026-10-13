@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Live-Weiterbildung für Coaches, Berater:innen, Therapeut:innen und weitere Fachpersonen</strong>, die Menschen traumasensibel begleiten und dabei das Nervensystem einbeziehen.</p>
-<ul>
-<li>60 Unterrichtsstunden live online im virtuellen Klassenzimmer</li>
-<li>Freitags 19:00–21:00 Uhr, dazu vier Embodiment-Samstage</li>
-<li>Start: Februar 2027</li>
-<li>Leitung: Marina Winkler, M.Sc. Psychologin und Hochschuldozentin für Klinische Psychologie</li>
-</ul>
-<p>Hinweis: Weiterbildung für Fachpersonen. Keine Therapie- oder Diagnostikausbildung, kein staatlich anerkannter Abschluss. Preise und Termine gelten wie auf der Programmseite.</p>
-<p>Provision für Affiliates: 10 %. Informationen und fertiges Bildmaterial für Partner:innen finden Sie auf der Partnerseite der Neurotraining Akademie.</p>
+**Vendor's marketplace description:** Live-Weiterbildung für Coaches, Berater:innen, Therapeut:innen und weitere Fachpersonen , die Menschen traumasensibel begleiten und dabei das Nervensystem einbeziehen. 60 Unterrichtsstunden live online im virtuellen Klassenzimmer Freitags 19:00–21:00 Uhr, dazu vier Embodiment-Samstage Start: Februar 2027 Leitung: Marina Winkler, M.Sc. Psychologin und Hochschuldozentin für Klinische Psychologie Hinweis: Weiterbildung für Fachpersonen. Keine Therapie- oder Diagnostikausbildung, kein staatlich anerkannter Abschluss. Preise und Termine gelten wie auf der Programmseite. Provision für Affiliates: 10 %. Informationen und fertiges Bildmaterial für Partner:innen finden Sie auf der Partnerseite der Neurotraining Akademie.
 
 ## 2. Links
 

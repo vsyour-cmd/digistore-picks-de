@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehlen Sie das HOCHWERTIGE Produkt für Gesundheit, Entschlacken und Entgiften mit <strong>überragendem Customer Feedback</strong> in unserem <a href="https://lana.li/forum" target="_blank" rel="noreferrer noopener">eigenen Gesundheitsforum</a> und <strong>niedriger Stornoquote</strong>.</p>
-<p>Ihre Vorteile:</p>
-<ul>
-<li>Lebenslang 50 % Provision auf Ihre Verkäufe</li>
-<li>Hohe Kaufrate in unserem <a href="https://lana.li/entgiftung" target="_blank" rel="noreferrer noopener">Sales-Funnel</a> (inklusive <a href="http://lana.li/ldkur" target="_blank" rel="noreferrer noopener">KOSTENLOSEM Video zur Kur</a> + Tipps) </li>
-<li>Große Auswahl optimierter Webemittel: klickstarke Banner, Vorlage für E-Mail-Text, Bilder der Seminar-Leiterin für mehr Leads und Verkäufe.</li>
-</ul>
-<p>Schnelle und persönliche Unterstützung auf Deutsch durch Ihren Affiliate-Manager auf unserer Support Seite: <a href="https://lana.li/affiliate">https://lana.li/affiliate</a>.</p>
-<p>Wir freuen uns auf eine erfolgreiche Partnerschaft!</p>
+**Vendor's marketplace description:** Empfehlen Sie das HOCHWERTIGE Produkt für Gesundheit, Entschlacken und Entgiften mit überragendem Customer Feedback in unserem eigenen Gesundheitsforum und niedriger Stornoquote . Ihre Vorteile: Lebenslang 50 % Provision auf Ihre Verkäufe Hohe Kaufrate in unserem Sales-Funnel (inklusive KOSTENLOSEM Video zur Kur + Tipps) Große Auswahl optimierter Webemittel: klickstarke Banner, Vorlage für E-Mail-Text, Bilder der Seminar-Leiterin für mehr Leads und Verkäufe. Schnelle und persönliche Unterstützung auf Deutsch durch Ihren Affiliate-Manager auf unserer Support Seite: https://lana.li/affiliate . Wir freuen uns auf eine erfolgreiche Partnerschaft!
 
 ## 2. Links
 

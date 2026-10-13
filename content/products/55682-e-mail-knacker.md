@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>E-Mails, die den Geldbeutel deiner Kunden öffnen!</strong></h2>
-<p><strong>Für alle Affiliates eine klasse Chance.</strong> Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann <strong>30 - 50% Provision</strong> gibt.</p>
-<p><strong>Insgesamt können damit über 400 Euro an Provision verdient werden.</strong></p>
-<p>Im Programm ist folgendes enthalten:</p>
-<ul>
-<li>... fertige <strong>E-Mail-Funnel</strong>, die du mit <strong>1-Click-Installation</strong> bei dir integrieren und <strong>sofort nutzen kannst</strong>.</li>
-<li>... Tipps, <strong>Vorlagen und Formeln</strong> für messerscharfe Headlines, die die <strong>Herzen und Geldbeutel deiner Zielgruppe öffnen</strong>.</li>
-<li>... starke <strong>Rabatte für verschiedene Profi-Tools</strong>, die du nutzen kannst, um deine Zielgruppe direkt zu erreichen.</li>
-<li>... Strategien für virale Kampagnen, die deine E-Mail-Liste <strong>automatisch ohne Werbeausgaben zum Überfüllen</strong> bringen.</li>
-<li>... eine Komplettübersicht verschiedener magischer Wörter, die deine <strong>Öffnungs- und Conversionrate explodieren</strong> lassen.</li>
-<li>... unzählig viele Beispiele <strong>bereits erprobter und funktionierender Headlines</strong>, die du direkt übernehmen kannst.</li>
-<li>... und einiges mehr</li>
-</ul>
-<p><strong> </strong></p>
+**Vendor's marketplace description:** E-Mails, die den Geldbeutel deiner Kunden öffnen! Für alle Affiliates eine klasse Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Insgesamt können damit über 400 Euro an Provision verdient werden. Im Programm ist folgendes enthalten: ... fertige E-Mail-Funnel , die du mit 1-Click-Installation bei dir integrieren und sofort nutzen kannst . ... Tipps, Vorlagen und Formeln für messerscharfe Headlines, die die Herzen und Geldbeutel deiner Zielgruppe öffnen . ... starke Rabatte für verschiedene Profi-Tools , die du nutzen kannst, um deine Zielgruppe direkt zu erreichen. ... Strategien für virale Kampagnen, die deine E-Mail-Liste automatisch ohne Werbeausgaben zum Überfüllen bringen. ... eine Komplettübersicht verschiedener magischer Wörter, die deine Öffnungs- und Conversionrate explodieren lassen. ... unzählig viele Beispiele bereits erprobter und funktionierender Headlines , die du direkt übernehmen kannst. ... und einiges mehr
 
 ## 2. Links
 

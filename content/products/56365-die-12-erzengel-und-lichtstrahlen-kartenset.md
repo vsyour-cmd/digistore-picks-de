@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>13 hochwertige Karten im Set, basierend auf handgemalten Originalbildern und wichtigen Informationen zum jeweiligen Erzengel und dem entsprechenden Lichtstrahl auf der Rückseite.</p>
-<p>Die Vorderseite zeigt das handgemalte Symbol als hochwertigen Kunstdruck. Auf der Rückseite der Übersichtskarte findest du wichtige Informationen zu jedem Symbol sowie konkrete Inspirationen, wie du die Karten in deinen Alltag und deine Praxis integrierst.</p>
-<p><strong>Perfekte Zielgruppe</strong></p>
-<p>Lichtarbeiter, Yoga- und Meditationspraktizierende, Coaches, Heilpraktikerinnen und spirituell Interessierte. Hohe Nachfrage, einzigartiges Produkt, starke Conversion durch emotionale Ansprache.</p>
+**Vendor's marketplace description:** 13 hochwertige Karten im Set, basierend auf handgemalten Originalbildern und wichtigen Informationen zum jeweiligen Erzengel und dem entsprechenden Lichtstrahl auf der Rückseite. Die Vorderseite zeigt das handgemalte Symbol als hochwertigen Kunstdruck. Auf der Rückseite der Übersichtskarte findest du wichtige Informationen zu jedem Symbol sowie konkrete Inspirationen, wie du die Karten in deinen Alltag und deine Praxis integrierst. Perfekte Zielgruppe Lichtarbeiter, Yoga- und Meditationspraktizierende, Coaches, Heilpraktikerinnen und spirituell Interessierte. Hohe Nachfrage, einzigartiges Produkt, starke Conversion durch emotionale Ansprache.
 
 ## 2. Links
 

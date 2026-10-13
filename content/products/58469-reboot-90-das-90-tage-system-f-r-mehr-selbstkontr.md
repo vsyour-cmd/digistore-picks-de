@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>REBOOT 90 – Das 90-Tage-System für mehr Selbstkontrolle</p>
+**Vendor's marketplace description:** REBOOT 90 – Das 90-Tage-System für mehr Selbstkontrolle
 
 ## 2. Links
 

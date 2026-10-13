@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb "Verstehen statt verurteilen" — ein einfühlsames, fundiertes eBook zu einem stark wachsenden Themenbereich: Autismus im Erwachsenenalter.</p>
-<p> </p>
-<p>Was macht dieses Produkt leicht verkäuflich: Das Bewusstsein für Autismus bei Erwachsenen (besonders bei spät diagnostizierten Frauen und Menschen mit "leichteren" Ausprägungen) wächst rasant, während es vergleichsweise wenig gute, undogmatische deutschsprachige Literatur speziell für diese Zielgruppe gibt. Viele Menschen suchen aktiv nach Antworten, warum sie sich "anders" fühlen.</p>
-<p> </p>
-<p>Zielgruppe: Erwachsene, die eine Autismus-Diagnose vermuten oder bereits erhalten haben; Menschen, die sich mit dem Begriff "Neurodiversität" identifizieren; Angehörige und Partner:innen autistischer Erwachsener; HR- und Führungskräfte, die neurodivers arbeitende Teammitglieder besser verstehen wollen.</p>
-<p> </p>
-<p>Wichtigste Verkaufsargumente:</p>
-<p>- Modernes, wertschätzendes Neurodiversitäts-Verständnis statt Defizit-Fokus</p>
-<p>- Deckt späte Diagnose, Selbstidentifikation, Masking und autistisches Burnout ab — Themen, die in älteren Ratgebern fehlen</p>
-<p>- Praktische Alltagsstrategien für Beruf, Beziehungen und Selbstfürsorge</p>
-<p>- Sofortiger digitaler Download</p>
-<p> </p>
-<p>Funktioniert besonders gut in Content rund um Neurodiversität, mentale Gesundheit, und Selbstakzeptanz-Themen.</p>
+**Vendor's marketplace description:** Bewirb "Verstehen statt verurteilen" — ein einfühlsames, fundiertes eBook zu einem stark wachsenden Themenbereich: Autismus im Erwachsenenalter. Was macht dieses Produkt leicht verkäuflich: Das Bewusstsein für Autismus bei Erwachsenen (besonders bei spät diagnostizierten Frauen und Menschen mit "leichteren" Ausprägungen) wächst rasant, während es vergleichsweise wenig gute, undogmatische deutschsprachige Literatur speziell für diese Zielgruppe gibt. Viele Menschen suchen aktiv nach Antworten, warum sie sich "anders" fühlen. Zielgruppe: Erwachsene, die eine Autismus-Diagnose vermuten oder bereits erhalten haben; Menschen, die sich mit dem Begriff "Neurodiversität" identifizieren; Angehörige und Partner:innen autistischer Erwachsener; HR- und Führungskräfte, die neurodivers arbeitende Teammitglieder besser verstehen wollen. Wichtigste Verkaufsargumente: - Modernes, wertschätzendes Neurodiversitäts-Verständnis statt Defizit-Fokus - Deckt späte Diagnose, Selbstidentifikation, Masking und autistisches Burnout ab — Themen, die in älteren Ratgebern fehlen - Praktische Alltagsstrategien für Beruf, Beziehungen und Selbstfürsorge - Sofortiger digitaler Download Funktioniert besonders gut in Content rund um Neurodiversität, mentale Gesundheit, und Selbstakzeptanz-Themen.
 
 ## 2. Links
 

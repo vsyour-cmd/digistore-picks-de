@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<h2>Seife sieden ist nicht kompliziert!</h2>
-</div>
-<div>
-<p>In diesem Workshop zeige ich dir, wie du dir deine eigenen Seifen herstellst. Ich erkläre dir, wie du deine Küche mit wenigen Handgriffen zu einem geeigneten Arbeitsplatz machst und sicher mit der Lauge umgehst. Wenn du weißt, wie es richtig geht, ist Seife sieden genial einfach.</p>
-<p>Schon bald kannst du dich über deine erste selbstgesiedete Seife freuen, die herrlich nach Kräutern duften. Und das Beste ist: Seifen sieden macht irre Spaß!</p>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div><strong>Wann?</strong></div>
-</div>
-</div>
-</div>
-<div>
-<p>Sofort, wenn du magst! Nach deiner Buchung schalte ich dir den Workshop direkt frei. Dann kannst du innerhalb der nächsten 6 Monate in deinem Tempo rühren und dir die Aufzeichnung immer wieder anschauen.</p>
-<p> </p>
-<p><a>https://www.katharinaruehrt.com/seife-selber-machen</a></p>
-</div>
+**Vendor's marketplace description:** Seife sieden ist nicht kompliziert! In diesem Workshop zeige ich dir, wie du dir deine eigenen Seifen herstellst. Ich erkläre dir, wie du deine Küche mit wenigen Handgriffen zu einem geeigneten Arbeitsplatz machst und sicher mit der Lauge umgehst. Wenn du weißt, wie es richtig geht, ist Seife sieden genial einfach. Schon bald kannst du dich über deine erste selbstgesiedete Seife freuen, die herrlich nach Kräutern duften. Und das Beste ist: Seifen sieden macht irre Spaß! Wann? Sofort, wenn du magst! Nach deiner Buchung schalte ich dir den Workshop direkt frei. Dann kannst du innerhalb der nächsten 6 Monate in deinem Tempo rühren und dir die Aufzeichnung immer wieder anschauen. https://www.katharinaruehrt.com/seife-selber-machen
 
 ## 2. Links
 

@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Vermarkte den Self Publishing AIO Mastery Kurs! Du bekommst dafür <strong>35% Provision</strong>!</p>
-<p>Und für alle weiteren Upsells ebenfalls!</p>
-<p><strong>Du kannst derzeit bis zu 133,10 Euro pro Sale verdienen!!</strong></p>
-<p>Das spricht für den Kurs:</p>
-<ul>
-<li>Schritt für Schritt vom Anfänger bis zum ersten eBook, Taschenbuch und Hörbuch zum Vollprofi</li>
-<li>Zeigt den Teilnehmern alle Schritte von der Nischenanalyse über Ghostwriter finden, Covererstellung und Marketing, Automatisierung und Skalierung!</li>
-<li>Profi Marketing Strategien</li>
-<li>ständig NEUE Inhalte</li>
-<li>Über <strong>5 Stunden Videomaterial</strong> im Basiskurs und über <strong>7,25 Stunden</strong> im Profikurs + 2 Stunden im Audio Book Kurs + 2 Std. Mindset Kurs! =&gt; <strong>16,25 Stunden Content</strong></li>
-<li>Theorie &amp; Praxis!</li>
-<li>Sehr viele Checklisten, Vorlagen, Templates, Empfehlungen, etc.! All-In-One Package!</li>
-<li>ständige Updates vom Kurs</li>
-<li>VIP Support!</li>
-<li>Prüfungsmöglchkeit am Ende des Kurses mit Teilnahmebestätigung und Qualifikation</li>
-</ul>
-<p>Profitiere somit auch du von dem Trend des Self Publishings und des einfachen Einstiegs!</p>
+**Vendor's marketplace description:** Vermarkte den Self Publishing AIO Mastery Kurs! Du bekommst dafür 35% Provision ! Und für alle weiteren Upsells ebenfalls! Du kannst derzeit bis zu 133,10 Euro pro Sale verdienen!! Das spricht für den Kurs: Schritt für Schritt vom Anfänger bis zum ersten eBook, Taschenbuch und Hörbuch zum Vollprofi Zeigt den Teilnehmern alle Schritte von der Nischenanalyse über Ghostwriter finden, Covererstellung und Marketing, Automatisierung und Skalierung! Profi Marketing Strategien ständig NEUE Inhalte Über 5 Stunden Videomaterial im Basiskurs und über 7,25 Stunden im Profikurs + 2 Stunden im Audio Book Kurs + 2 Std. Mindset Kurs! => 16,25 Stunden Content Theorie & Praxis! Sehr viele Checklisten, Vorlagen, Templates, Empfehlungen, etc.! All-In-One Package! ständige Updates vom Kurs VIP Support! Prüfungsmöglchkeit am Ende des Kurses mit Teilnahmebestätigung und Qualifikation Profitiere somit auch du von dem Trend des Self Publishings und des einfachen Einstiegs!
 
 ## 2. Links
 

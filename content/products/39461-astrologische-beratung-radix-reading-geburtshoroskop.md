@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehlen Sie die einzigartigen und seriösen Readings von Ernst Albrecht Vöhringer, dem ersten Wirtschaftsastrologen Deutschlands. Die Einzelberatungen zum individuellen astrologischen Geburtshoroskop sind sehr beliebt und unterstützen die Kunden dabei ein selbstbestimmten Leben zu führen.</p>
-<p>Der Verkaufsprozess ist vollautomatisiert und mehrfach erprobt. Bisher wurden nur ausgewählte Influencer als Affiliates aufgenommen. Nun geben wir neben großen Influencern auch jedem Einzelnen die Möglichkeit das Reading zu empfehlen und daran zu partizipieren. Ihre Vorteile:</p>
-<ul>
-<li>20% Affiliate Provision auf alle Verkäufe über Ihren Affiliate Link.</li>
-<li>wenn Sie über 50 Verkäufe generieren erhöhen wir Ihre Provision.</li>
-<li>weitere 10% Provision über unser Affiliate-Empfehlungsprogramm möglich.</li>
-<li>weitere 10% Lifetime-Provision; wenn ein von Ihnen vermittelter Käufer weitere digitale Produkte von uns kauft, dann sind Sie ebenfalls beteiligt.</li>
-<li>schneller und professioneller Affiliate und Kunden-Support über Email.</li>
-</ul>
-<p>Besuchen Sie auch unsere Affiliate-Support-Seite für mehr Informationen und Werbemittel.</p>
+**Vendor's marketplace description:** Empfehlen Sie die einzigartigen und seriösen Readings von Ernst Albrecht Vöhringer, dem ersten Wirtschaftsastrologen Deutschlands. Die Einzelberatungen zum individuellen astrologischen Geburtshoroskop sind sehr beliebt und unterstützen die Kunden dabei ein selbstbestimmten Leben zu führen. Der Verkaufsprozess ist vollautomatisiert und mehrfach erprobt. Bisher wurden nur ausgewählte Influencer als Affiliates aufgenommen. Nun geben wir neben großen Influencern auch jedem Einzelnen die Möglichkeit das Reading zu empfehlen und daran zu partizipieren. Ihre Vorteile: 20% Affiliate Provision auf alle Verkäufe über Ihren Affiliate Link. wenn Sie über 50 Verkäufe generieren erhöhen wir Ihre Provision. weitere 10% Provision über unser Affiliate-Empfehlungsprogramm möglich. weitere 10% Lifetime-Provision; wenn ein von Ihnen vermittelter Käufer weitere digitale Produkte von uns kauft, dann sind Sie ebenfalls beteiligt. schneller und professioneller Affiliate und Kunden-Support über Email. Besuchen Sie auch unsere Affiliate-Support-Seite für mehr Informationen und Werbemittel.
 
 ## 2. Links
 

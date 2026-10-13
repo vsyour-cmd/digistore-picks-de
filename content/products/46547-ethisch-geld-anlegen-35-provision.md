@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ich biete 35% Provision für Affiliates, welche Abonennten für meinen Dienst "Ethische Rendite Premium" generieren.</p>
-<p><br />Um was es dabei geht - zum Produkt: <br /><br />"Geldanlage mit Herz UND Verstand. Im Premium-Bereich von <a href="http://www.ethische-rendite.de">www.ethische-rendite.de</a> präsentieren wir Aktien / Anleihen etc., die als Wohlfühl-Investments gelten können. Die Fundamentaldaten und auch das Geschäftsfeld sehen aussichtsreich aus. Die Abonnenten zahlen 19,99 Euro Euro inkl. MwSt., fair ohne lange Kündigungsfristen monatlich kündbar auf Wunsch."</p>
-<p>Vorteil für die Affiliates:</p>
-<p>Affiliates erhalten bei erfolgreicher Vermittlung 35% Provision.  Bei Fragen bin ich über <a href="mailto:redaktion@ethische-rendite.de">redaktion@ethische-rendite.de</a> erreichbar</p>
-<p>Viele Grüße,</p>
-<p>Michael Vaupel</p>
+**Vendor's marketplace description:** Ich biete 35% Provision für Affiliates, welche Abonennten für meinen Dienst "Ethische Rendite Premium" generieren. Um was es dabei geht - zum Produkt: "Geldanlage mit Herz UND Verstand. Im Premium-Bereich von www.ethische-rendite.de präsentieren wir Aktien / Anleihen etc., die als Wohlfühl-Investments gelten können. Die Fundamentaldaten und auch das Geschäftsfeld sehen aussichtsreich aus. Die Abonnenten zahlen 19,99 Euro Euro inkl. MwSt., fair ohne lange Kündigungsfristen monatlich kündbar auf Wunsch." Vorteil für die Affiliates: Affiliates erhalten bei erfolgreicher Vermittlung 35% Provision. Bei Fragen bin ich über redaktion@ethische-rendite.de erreichbar Viele Grüße, Michael Vaupel
 
 ## 2. Links
 

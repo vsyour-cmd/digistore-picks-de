@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein hochaktuelles Sachbuch für politisch interessierte Leser, das die verborgenen Mechanismen globaler Machtstrategien verständlich und tiefgehend aufbereitet.</p>
-<p> </p>
-<p>Es trifft den Nerv einer wachsenden Zielgruppe, die geopolitische Zusammenhänge, Konflikte und Einflussstrukturen wirklich durchdringen will.</p>
-<p> </p>
-<p>Die klare Positionierung rund um RAND, Kalter Krieg, China und moderne Kriegsführung sorgt für starke Nachfrage im Bereich Politik, Geschichte und kritisches Denken.</p>
-<p> </p>
-<p>Dank umfangreicher Inhalte und modularer Kapitelstruktur bietet das Produkt hohen wahrgenommenen Wert und eignet sich ideal für Content-Marketing, YouTube oder Telegram-Zielgruppen.</p>
-<p> </p>
-<p>Ein polarisierendes, diskussionsstarkes Thema mit hohem Engagement- und Conversion-Potenzial.</p>
+**Vendor's marketplace description:** Ein hochaktuelles Sachbuch für politisch interessierte Leser, das die verborgenen Mechanismen globaler Machtstrategien verständlich und tiefgehend aufbereitet. Es trifft den Nerv einer wachsenden Zielgruppe, die geopolitische Zusammenhänge, Konflikte und Einflussstrukturen wirklich durchdringen will. Die klare Positionierung rund um RAND, Kalter Krieg, China und moderne Kriegsführung sorgt für starke Nachfrage im Bereich Politik, Geschichte und kritisches Denken. Dank umfangreicher Inhalte und modularer Kapitelstruktur bietet das Produkt hohen wahrgenommenen Wert und eignet sich ideal für Content-Marketing, YouTube oder Telegram-Zielgruppen. Ein polarisierendes, diskussionsstarkes Thema mit hohem Engagement- und Conversion-Potenzial.
 
 ## 2. Links
 

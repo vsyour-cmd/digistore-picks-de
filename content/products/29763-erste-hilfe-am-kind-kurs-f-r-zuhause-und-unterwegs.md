@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Erste-Hilfe-am-Kind Onlinekurs für Zuhause oder von überall</strong></h3>
-<p><em>Kurzweilig - kompakt - flexibel - frei und dabei praxisnah und persönlich, beruhigend und kompeten</em>t.</p>
-<p>In ca. 4 Stunden reiner Filmzeit kannst Du alle wichtigen Erste-Hilfe-am-Kind-Themen bearbeiten.</p>
-<p>Kürzer, als ein Kurs vor Ort und doch viel intensiver und auf den Punkt gebracht.</p>
-<p>Jedes Thema kannst du übersichtlich in wenigen Minuten erarbeiten und erlernen, sodass du auch im Alltag immer wieder ein Filmchen anschauen kannst.</p>
-<p>Interessant für deutschsprachige Familien, die im Ausland wohnen. Für Familien auf dem Land. Für Alleinerziehende, für Familien ohne Babysitter, Schwangere, die liegen müssen oder auch für Leute, die einfach ganz flexibel bleiben möchten.</p>
-<p>Es ist mir ein Herzensthema und ich bedanke mich für deine Unterstützung. Für mehr Sicherheit für alle mit Kind.</p>
+**Vendor's marketplace description:** Erste-Hilfe-am-Kind Onlinekurs für Zuhause oder von überall Kurzweilig - kompakt - flexibel - frei und dabei praxisnah und persönlich, beruhigend und kompeten t. In ca. 4 Stunden reiner Filmzeit kannst Du alle wichtigen Erste-Hilfe-am-Kind-Themen bearbeiten. Kürzer, als ein Kurs vor Ort und doch viel intensiver und auf den Punkt gebracht. Jedes Thema kannst du übersichtlich in wenigen Minuten erarbeiten und erlernen, sodass du auch im Alltag immer wieder ein Filmchen anschauen kannst. Interessant für deutschsprachige Familien, die im Ausland wohnen. Für Familien auf dem Land. Für Alleinerziehende, für Familien ohne Babysitter, Schwangere, die liegen müssen oder auch für Leute, die einfach ganz flexibel bleiben möchten. Es ist mir ein Herzensthema und ich bedanke mich für deine Unterstützung. Für mehr Sicherheit für alle mit Kind.
 
 ## 2. Links
 

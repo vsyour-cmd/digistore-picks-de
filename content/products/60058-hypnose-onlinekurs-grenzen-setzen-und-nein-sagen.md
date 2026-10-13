@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<p>Sag JA zur Dir selbst!</p>
-</div>
-</div>
-<div>
-<div>
-<p>Mit diesem Hypnose-Onlinekurs kannst Du mit dem schädlichen Verhalten aus Deiner Vergangenheit abschließen und lernst mit gutem Gewissen Grenzen zu setzen und Nein zu sagen.</p>
-<p>Damit baust Du Schritt für Schritt ein neues Selbstbewusst auf und kannst Dich gestärkt auf Deinen ganz persönlichen Lebens-Weg machen: nach Deinen Zielen, Wünschen und Bedürfnissen.</p>
-</div>
-</div>
-<div>
-<div>
-<p>Kursinhalt</p>
-</div>
-</div>
-<div>
-<ul>
-<li>Video Lektion Grenzen setzen und Nein sagen</li>
-<li>Info-Video für die richtige Hypnoseanwendung</li>
-<li>Hypnose-Video mit Audioversion zum Download für Unterwegs</li>
-</ul>
-</div>
-<p>Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.</p>
+**Vendor's marketplace description:** Sag JA zur Dir selbst! Mit diesem Hypnose-Onlinekurs kannst Du mit dem schädlichen Verhalten aus Deiner Vergangenheit abschließen und lernst mit gutem Gewissen Grenzen zu setzen und Nein zu sagen. Damit baust Du Schritt für Schritt ein neues Selbstbewusst auf und kannst Dich gestärkt auf Deinen ganz persönlichen Lebens-Weg machen: nach Deinen Zielen, Wünschen und Bedürfnissen. Kursinhalt Video Lektion Grenzen setzen und Nein sagen Info-Video für die richtige Hypnoseanwendung Hypnose-Video mit Audioversion zum Download für Unterwegs Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.
 
 ## 2. Links
 

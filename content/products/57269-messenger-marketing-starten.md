@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Messenger Marketing starten“</strong></p>
-<p>Verkaufen, wo deine Kunden wirklich lesen – Messenger-Nachrichten werden gelesen. Wie du Messenger-Marketing über WhatsApp, Messenger und Co. startest: rechtssicher mit Opt-in und DSGVO, eine Nachrichten-Strategie, verkaufen und sinnvoll automatisieren.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Warum Messenger so gut konvertiert</li>
-<li>Die Kanäle: WhatsApp, Messenger und Co.</li>
-<li>Rechtssicher starten mit Opt-in und DSGVO</li>
-<li>Einfache Automatisierung, Bots und Datenschutz</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Messenger Marketing starten“ Verkaufen, wo deine Kunden wirklich lesen – Messenger-Nachrichten werden gelesen. Wie du Messenger-Marketing über WhatsApp, Messenger und Co. startest: rechtssicher mit Opt-in und DSGVO, eine Nachrichten-Strategie, verkaufen und sinnvoll automatisieren. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Warum Messenger so gut konvertiert Die Kanäle: WhatsApp, Messenger und Co. Rechtssicher starten mit Opt-in und DSGVO Einfache Automatisierung, Bots und Datenschutz
 
 ## 2. Links
 

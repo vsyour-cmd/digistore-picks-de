@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der Rentner-Guide Spanien – Alles, was du für einen sorgenfreien Ruhestand in Spanien wissen musst</strong></p>
-<p><strong>Über 100 Seiten Praxiswissen für deinen Ruhestand unter der spanischen Sonne.</strong></p>
-<p>✅ Rente, Gesundheit, Steuern &amp; Finanzen<br />✅ Die besten Regionen für Rentner<br />✅ Alltag, Wohnen &amp; Lebensqualität<br />✅ Sofort als PDF herunterladen<br />✅ Exklusiv von Nachrichten.es</p>
-<p>Du liebst Spanien und hast eine Community, die sich für <strong>Reisen, Mallorca, Auswandern, Camping, Wohnmobil, Ruhestand oder das Leben in Spanien</strong> interessiert?</p>
-<p>Dann werde <strong>Creator &amp; Influencer Partner von Nachrichten.es</strong> und empfehle unsere digitalen Spanien-Ratgeber deiner Community.</p>
-<p>Du erhältst dabei <strong>50 % Provision auf jeden erfolgreichen Verkauf</strong> über deinen persönlichen Affiliate-Link.</p>
+**Vendor's marketplace description:** Der Rentner-Guide Spanien – Alles, was du für einen sorgenfreien Ruhestand in Spanien wissen musst Über 100 Seiten Praxiswissen für deinen Ruhestand unter der spanischen Sonne. ✅ Rente, Gesundheit, Steuern & Finanzen ✅ Die besten Regionen für Rentner ✅ Alltag, Wohnen & Lebensqualität ✅ Sofort als PDF herunterladen ✅ Exklusiv von Nachrichten.es Du liebst Spanien und hast eine Community, die sich für Reisen, Mallorca, Auswandern, Camping, Wohnmobil, Ruhestand oder das Leben in Spanien interessiert? Dann werde Creator & Influencer Partner von Nachrichten.es und empfehle unsere digitalen Spanien-Ratgeber deiner Community. Du erhältst dabei 50 % Provision auf jeden erfolgreichen Verkauf über deinen persönlichen Affiliate-Link.
 
 ## 2. Links
 

@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><strong>LOSLASSEN in verrückten Zeiten</strong></h4>
-<h4><strong>3 Tages intensiv Workshop für mehr Energie &amp; Klarheit </strong></h4>
-<p><strong>Kummer und Ängste spürbar loslassen<br /><br /></strong></p>
-<p><span style="color:#ff6600;"><strong>Fr.  2.12.: Sofort Angst und Unsicherheiten loslassen<br />Sa. 3.12.: Selbstzweifel loslassen<br />So. 4.12.: Nachhaltig loslassen</strong></span></p>
-<p><br /><strong>+ Audio Coaching mit einer geführten Work (zum sofort-Download) zum Glaubenssatz "Ich schaffe das nicht"<br /></strong></p>
-<h2>Hinweise für Affiliates:</h2>
-<p>Sehr gute Conversion durch hohen Wert für Teilnehmer (3-Tage live Online-Seminar) und Einzigartigkeit des Events. Wir rechnen damit wieder hunderte von Teilnehmern zu gewinnen. </p>
-<p>80% Affiliate Provision. </p>
-<h2>Was die Teilnehmer im Workshop erwartet:</h2>
-<ul>
-<li>Ich zeige dir einfache und alltagstaugliche Möglichkeiten, wie du loslassen kannst, was dich stresst</li>
-<li>Du wirst belastende Glaubenssätze auflösen und dich dadurch freier fühlen</li>
-<li>Freundliche Blickwinkel warten auf dich, die du als wahr erkennen wirst</li>
-<li>Du lernst, wie du Zeit und Energie sparst, die du dann für dich zur Verfügung hast</li>
-<li>Du erfährst, wie du dir selber gut tun kannst</li>
-<li>Du entdeckst Fähigkeiten und Eigenschaften, die (unentdeckt) in dir schlummern</li>
-<li>Du kommst aus dem übermäßigen Nachdenken raus.<br /><br /></li>
-</ul>
-<p>Dieses 3 Tage Intensiv-Seminar findet nur am <strong>2.12. – 4.12.22</strong> statt.<br />Die Seminarzeiten sind jeweils 18.30 – 21.00 Uhr</p>
-<p><strong><span style="color:#ff9900;"><br /></span></strong>Solltest du einmal nicht dabei sein können, so wird es eine Aufzeichnung geben. </p>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
+**Vendor's marketplace description:** LOSLASSEN in verrückten Zeiten 3 Tages intensiv Workshop für mehr Energie & Klarheit Kummer und Ängste spürbar loslassen Fr. 2.12.: Sofort Angst und Unsicherheiten loslassen Sa. 3.12.: Selbstzweifel loslassen So. 4.12.: Nachhaltig loslassen + Audio Coaching mit einer geführten Work (zum sofort-Download) zum Glaubenssatz "Ich schaffe das nicht" Hinweise für Affiliates: Sehr gute Conversion durch hohen Wert für Teilnehmer (3-Tage live Online-Seminar) und Einzigartigkeit des Events. Wir rechnen damit wieder hunderte von Teilnehmern zu gewinnen. 80% Affiliate Provision. Was die Teilnehmer im Workshop erwartet: Ich zeige dir einfache und alltagstaugliche Möglichkeiten, wie du loslassen kannst, was dich stresst Du wirst belastende Glaubenssätze auflösen und dich dadurch freier fühlen Freundliche Blickwinkel warten auf dich, die du als wahr erkennen wirst Du lernst, wie du Zeit und Energie sparst, die du dann für dich zur Verfügung hast Du erfährst, wie du dir selber gut tun kannst Du entdeckst Fähigkeiten und Eigenschaften, die (unentdeckt) in dir schlummern Du kommst aus dem übermäßigen Nachdenken raus. Dieses 3 Tage Intensiv-Seminar findet nur am 2.12. – 4.12.22 statt. Die Seminarzeiten sind jeweils 18.30 – 21.00 Uhr Solltest du einmal nicht dabei sein können, so wird es eine Aufzeichnung geben.
 
 ## 2. Links
 

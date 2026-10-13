@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div style="text-align:left;">
-<div align="center"><strong><span style="font-size:14pt;line-height:115%;color:#000000;">Von Andreas Beutel</span></strong></div>
-<div align="center"><strong><span style="font-size:28pt;line-height:115%;color:#c00000;">E-Book „Den Sterntetraeder bauen und selber entdecken“</span></strong></div>
-</div>
-<p align="center"><strong><span style="font-size:14pt;line-height:115%;color:#000000;">Entdecke die faszinierende Grundform der Mer-Ka-Ba!</span></strong></p>
-<h2 style="line-height:1.38;text-align:center;">Was Du mit diesem E-Book erhältst:</h2>
-<ul>
-<li>18 seitiges E-Book</li>
-<li>inkl. Bauplan für Deinen Sterntetraeder</li>
-<li>15 min Video FullHD mit vier Kameraperspektiven, in dem ich Dir zeige, wie ich geometrische Modelle zusammenklebe</li>
-<li>Materialliste die Du zum Basteln benötigst</li>
-<li>Einführung in die geheime Sprache der Geometrie</li>
-</ul>
+**Vendor's marketplace description:** Von Andreas Beutel E-Book „Den Sterntetraeder bauen und selber entdecken“ Entdecke die faszinierende Grundform der Mer-Ka-Ba! Was Du mit diesem E-Book erhältst: 18 seitiges E-Book inkl. Bauplan für Deinen Sterntetraeder 15 min Video FullHD mit vier Kameraperspektiven, in dem ich Dir zeige, wie ich geometrische Modelle zusammenklebe Materialliste die Du zum Basteln benötigst Einführung in die geheime Sprache der Geometrie
 
 ## 2. Links
 

@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Verdiene <strong>30 % Provision</strong> mit einem Produkt, das täglich gebraucht wird:<br /><strong>„Große Linien – Ausmalbuch für Senioren und Menschen mit Demenz“.</strong></p>
-<p> </p>
+**Vendor's marketplace description:** Verdiene 30 % Provision mit einem Produkt, das täglich gebraucht wird: „Große Linien – Ausmalbuch für Senioren und Menschen mit Demenz“.
 
 ## 2. Links
 

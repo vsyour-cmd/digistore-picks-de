@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1 style="text-align:center;"><strong>Keyboardkurs der 1000 Tipps für fortgeschrittene Spieler<br /></strong></h1>
-<p style="text-align:center;"><span style="color:#ff0000;"><strong>NICHT DEN PROMO LINK <br />auf der rechten Seite VERWENDEN!</strong></span></p>
-<p style="text-align:center;"> </p>
-<p style="text-align:center;"><span style="font-size:medium;"><a href="https://onlinemusikschule.info/partnerprogramm" target="_blank" rel="noreferrer noopener"><span style="background-color:#ffff99;"><strong>&gt;ACHTUNG! HIER KLICKEN&lt;<br /> <br />um auf ONLINEMUSIKSCHULE.info<br />das umfangreichste und größte AFFILIATE PARTNERPROGRAMM für Musikinstrumente lernen auf Digistore24 zu bewerben</strong></span></a></span></p>
-<p style="text-align:center;"> </p>
-<hr />
-<h3 style="text-align:center;"><span style="color:#0000ff;">SEI DABEI! Der Onlinemusikschule AFFILIATE WETTBEWERB welcher jedes Jahr am 1.10. bis zum Folgejahr am 30.9. mit mega Preisen läuft, ist am Laufen</span><br /><br /><span style="color:#0000ff;">Sei auch du dabei und verdiene neben hohen 50% Provisionen mit top Conversionrates und niedrigen Stornos - auch mega Gewinne und Überraschungen</span>.</h3>
-<hr />
-<h3><strong>Verdiene mit unseren Produkten immer</strong></h3>
-<hr />
-<p><strong><span style="color:#ff0000;">Verdiene mit unseren Produkten immer hohe Provisionen und nimm auch automatisch an unsererem OLM Affiliate Wettbewerb mit tollen Preisen teil. Jeder aktive Partner erhälte tolle Geschenke und Überraschungen </span><br /><br /></strong></p>
-<p><span style="font-size:small;"><span style="background-color:#ffff99;">ACHTUNG: Anmeldungen zu unserem kompletten Partnerprogramm mit allen richtigen Links zur Bewerbung und Werbemitteln nur mit obigem Link oder rechts unten unter Affiliate-Support-Seite !</span><br /></span></p>
-<p> </p>
-<p><span style="font-size:small;"><strong>Bitte nicht</strong> den "Promolink" rechts zur Bewerbung nutzen, denn dann können dir evt. Provisionen durch erprobte Funnels und Verkaufssysteme entgehen.</span></p>
-<p><span style="font-size:small;">Alle Informationen zu unseren einzelnen Angeboten findest du nach Bewerbung und Registrierung zu unserem Partnerprogramm</span></p>
-<p><span style="font-size:small;">Bis dann<br />dein <br />Helmut Eder<br /><a href="%20https%3A//onlinemusikschule.info/partnerprogramm" target="_blank" rel="noreferrer noopener"><span style="text-decoration:underline;">onlinemusikschule.info/partnerprogramm</span></a><br /><br /><br />* Angezeigte Conversion rate  und Stornoquote sind verfälscht, da es 2013 auf Digistore noch KEINE up- und downsells gab und Monatsabos manuell storniert werden mussten, wenn Teilnehmer die Einmalzahlung genutzt haben.</span></p>
-<p><span style="font-size:small;"> Infos dazu im <a href="%20https%3A//onlinemusikschule.info/partnerprogramm" target="_blank" rel="noreferrer noopener"><span style="text-decoration:underline;"><strong>Partnerbereich</strong></span></a></span></p>
+**Vendor's marketplace description:** Keyboardkurs der 1000 Tipps für fortgeschrittene Spieler NICHT DEN PROMO LINK auf der rechten Seite VERWENDEN! >ACHTUNG! HIER KLICKEN< um auf ONLINEMUSIKSCHULE.info das umfangreichste und größte AFFILIATE PARTNERPROGRAMM für Musikinstrumente lernen auf Digistore24 zu bewerben SEI DABEI! Der Onlinemusikschule AFFILIATE WETTBEWERB welcher jedes Jahr am 1.10. bis zum Folgejahr am 30.9. mit mega Preisen läuft, ist am Laufen Sei auch du dabei und verdiene neben hohen 50% Provisionen mit top Conversionrates und niedrigen Stornos - auch mega Gewinne und Überraschungen . Verdiene mit unseren Produkten immer Verdiene mit unseren Produkten immer hohe Provisionen und nimm auch automatisch an unsererem OLM Affiliate Wettbewerb mit tollen Preisen teil. Jeder aktive Partner erhälte tolle Geschenke und Überraschungen ACHTUNG: Anmeldungen zu unserem kompletten Partnerprogramm mit allen richtigen Links zur Bewerbung und Werbemitteln nur mit obigem Link oder rechts unten unter Affiliate-Support-Seite ! Bitte nicht den "Promolink" rechts zur Bewerbung nutzen, denn dann können dir evt. Provisionen durch erprobte Funnels und Verkaufssysteme entgehen. Alle Informationen zu unseren einzelnen Angeboten findest du nach Bewerbung und Registrierung zu unserem Partnerprogramm Bis dann dein Helmut Eder onlinemusikschule.info/partnerprogramm * Angezeigte Conversion rate und Stornoquote sind verfälscht, da es 2013 auf Digistore noch KEINE up- und downsells gab und Monatsabos manuell storniert werden mussten, wenn Teilnehmer die Einmalzahlung genutzt haben. Infos dazu im Partnerbereich
 
 ## 2. Links
 

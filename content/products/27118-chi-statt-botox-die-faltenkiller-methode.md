@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><strong>Diese 4 Methoden sind ein <span style="color:#ff0000;"><span style="color:#3366ff;">FALTEN</span>KILLER</span>!</strong></h1>
-<p>- erprobt, gesund, effektiv und zum Selbst-anwenden </p>
-<p>- im fernen Osten seit Jahrhunderten angewandt </p>
-<div><strong>In diesem <span style="color:#ff0000;">Online-Kurs</span> werden folgende 4 Methoden theoretisch vorgestellt und praktisch vorgezeigt:</strong></div>
-<p>- Gesichtsyoga</p>
-<p>- Gesichts-Schröpfen</p>
-<p>- Gesichts-Schaben</p>
-<p>- Dien Cham (vietnamesische Gesichts-Reflex-Massage)</p>
-<p><strong><span style="color:#ff0000;">DER KURS <span style="color:#000000;">wurde von</span> Christina Schmid <span style="color:#000000;">erstellt,</span> </span>der <span style="color:#ff0000;">Autorin</span> des erfolgreichen <span style="color:#ff0000;">Buchs "Chi statt Botox"</span> selbst (9 Auflagen in 6 Jahren).</strong></p>
+**Vendor's marketplace description:** Diese 4 Methoden sind ein FALTEN KILLER ! - erprobt, gesund, effektiv und zum Selbst-anwenden - im fernen Osten seit Jahrhunderten angewandt In diesem Online-Kurs werden folgende 4 Methoden theoretisch vorgestellt und praktisch vorgezeigt: - Gesichtsyoga - Gesichts-Schröpfen - Gesichts-Schaben - Dien Cham (vietnamesische Gesichts-Reflex-Massage) DER KURS wurde von Christina Schmid erstellt, der Autorin des erfolgreichen Buchs "Chi statt Botox" selbst (9 Auflagen in 6 Jahren).
 
 ## 2. Links
 

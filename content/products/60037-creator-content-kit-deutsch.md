@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Total: 200+ Content Assets<br />✅ All-in-One-Produkt – alles, was du brauchst, um bessere Instagram-Inhalte zu erstellen.</p>
-<p><strong>Format</strong>: Canva<br /><br /><strong>Inhalt:</strong><br />100x Instagram Hook Pack<br />30x Reel Cover Pack<br />15x Instagram Post Vorlagen<br />10x Carousel Vorlagen<br />15x Story Vorlagen<br />30x Caption Vorlagen<br />30x CTA Pack<br />50x Content Ideen<br />Mini Brand Kit<br />Kurzanleitung für Creator</p>
+**Vendor's marketplace description:** Total: 200+ Content Assets ✅ All-in-One-Produkt – alles, was du brauchst, um bessere Instagram-Inhalte zu erstellen. Format : Canva Inhalt: 100x Instagram Hook Pack 30x Reel Cover Pack 15x Instagram Post Vorlagen 10x Carousel Vorlagen 15x Story Vorlagen 30x Caption Vorlagen 30x CTA Pack 50x Content Ideen Mini Brand Kit Kurzanleitung für Creator
 
 ## 2. Links
 

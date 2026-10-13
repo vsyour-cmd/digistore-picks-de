@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Online-Kurs „Liebe – von Herzen gern!“ ist ein <strong>30-tägiger E-Mail-Kurs.</strong></p>
-<p> </p>
-<p>Der Online-Kurs enthält eine<strong> Schritt für Schritt - Anleitung</strong>, um sein Leben nach seinen eigenen Wünschen zu gestalten.</p>
-<p> </p>
-<p>Die Kursteilnehmer lernen, wie sie das <strong>Gesetz der Anziehung optimal anwenden</strong> und die erfolgreiche Anwendung so in ihrem Leben integrieren, dass diese Technik <strong>in Ihrem Unterbewusstsein verankert</strong> wird.</p>
-<p> </p>
-<p>Dabei erhalten die Kursteilnehmer 30 Tage lang jeden Tag eine E-Mail mit einer PDF-Datei. Diese E-Mail enthält <strong>Hintergrundwissen</strong> und einen <strong>kleinen Teil dieser Theorie</strong> als Übungseinheit. Dadurch kann der Kursteilnehmer sich die Theorie noch einmal vergegenwärtigen.</p>
-<p> </p>
-<p>Außerdem enthält die E-Mail jeden Tag <strong>eine Aufgabe</strong>, die an diesem Tag erledigt werden sollte. Durch diese <strong>praktischen Übungen</strong>, wie diese Technik anwendet werden kann, wird diese Stück für Stück im Leben integriert. Mit den einzelnen Aufgaben bzw. praktischen Übungen wird Stück für Stück die bewusste Anwendung des Gesetzes der Anziehung erlernt.</p>
-<p> </p>
-<p>Das Lesen der E-Mail und das Erledigen der Aufgabe <strong>dauert ca. eine halbe Stunde.</strong></p>
-<p> </p>
-<p>Wenn der Kunde einmal keine Zeit hat, die E-Mail zu bearbeiten, kann er jederzeit selbstständig eine <strong>Versandpause</strong> einlegen.  </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Der Online-Kurs „Liebe – von Herzen gern!“ ist ein 30-tägiger E-Mail-Kurs. Der Online-Kurs enthält eine Schritt für Schritt - Anleitung , um sein Leben nach seinen eigenen Wünschen zu gestalten. Die Kursteilnehmer lernen, wie sie das Gesetz der Anziehung optimal anwenden und die erfolgreiche Anwendung so in ihrem Leben integrieren, dass diese Technik in Ihrem Unterbewusstsein verankert wird. Dabei erhalten die Kursteilnehmer 30 Tage lang jeden Tag eine E-Mail mit einer PDF-Datei. Diese E-Mail enthält Hintergrundwissen und einen kleinen Teil dieser Theorie als Übungseinheit. Dadurch kann der Kursteilnehmer sich die Theorie noch einmal vergegenwärtigen. Außerdem enthält die E-Mail jeden Tag eine Aufgabe , die an diesem Tag erledigt werden sollte. Durch diese praktischen Übungen , wie diese Technik anwendet werden kann, wird diese Stück für Stück im Leben integriert. Mit den einzelnen Aufgaben bzw. praktischen Übungen wird Stück für Stück die bewusste Anwendung des Gesetzes der Anziehung erlernt. Das Lesen der E-Mail und das Erledigen der Aufgabe dauert ca. eine halbe Stunde. Wenn der Kunde einmal keine Zeit hat, die E-Mail zu bearbeiten, kann er jederzeit selbstständig eine Versandpause einlegen.
 
 ## 2. Links
 

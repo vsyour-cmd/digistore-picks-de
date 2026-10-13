@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Affiliate Partner die Deine Produkte verkaufen!</strong></span></p>
-<p><strong> Hier gibt es alles über:</strong></p>
-<p><strong>✅ konkrete Tipps für den Aufbau Deiner ersten Partnerschaften</strong></p>
-<p><strong>✅ Der Schlüsselfaktor für erfolgreiche Partnerprogramme</strong></p>
-<p><strong>✅ Wie Du mit dem richtigen Informationsprogramm schnell erfolgreich wirst</strong></p>
-<p><strong>✅ Sei anders als die Anderen</strong></p>
-<p><span style="background-color:#ffff00;"><strong>Das E-Book ist Gratis für Dich und Deine Community!</strong></span></p>
-<p><span style="background-color:#ffff00;"><strong>Im Upsell warten über 150 Euro Netto Provision auf Dich! Hohe Conversion, da es eine Testwoche gibt (an der Du auch verdienst)!</strong></span></p>
+**Vendor's marketplace description:** Affiliate Partner die Deine Produkte verkaufen! Hier gibt es alles über: ✅ konkrete Tipps für den Aufbau Deiner ersten Partnerschaften ✅ Der Schlüsselfaktor für erfolgreiche Partnerprogramme ✅ Wie Du mit dem richtigen Informationsprogramm schnell erfolgreich wirst ✅ Sei anders als die Anderen Das E-Book ist Gratis für Dich und Deine Community! Im Upsell warten über 150 Euro Netto Provision auf Dich! Hohe Conversion, da es eine Testwoche gibt (an der Du auch verdienst)!
 
 ## 2. Links
 

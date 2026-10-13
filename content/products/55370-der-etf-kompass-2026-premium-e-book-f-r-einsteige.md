@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p> Der ETF-Kompass 2026 – Premium E-Book für Einsteiger [ETF investieren, ETFs für Anfänger, Geld anlege]</p>
+**Vendor's marketplace description:** Der ETF-Kompass 2026 – Premium E-Book für Einsteiger [ETF investieren, ETFs für Anfänger, Geld anlege]
 
 ## 2. Links
 

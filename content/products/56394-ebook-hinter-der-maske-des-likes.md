@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>Ein hochaktuelles Thema mit enormem Reichweitenpotenzial:</div>
-<div>Dieses Buch enthüllt die Realität hinter der glamourösen Influencer-Welt und spricht gezielt eine breite, digital affine Zielgruppe an, die Social Media täglich konsumiert.</div>
-<div>Es verbindet Aufklärung, Einblicke in Geldströme, psychologische Belastungen und gesellschaftliche Auswirkungen zu einem starken, diskussionswürdigen Gesamtbild.</div>
-<div>Die Mischung aus Neugier („Was steckt wirklich dahinter?“) und Relevanz für nahezu jeden Social-Media-Nutzer sorgt für hohe Klick- und Conversion-Chancen.</div>
-<div>Besonders geeignet für Content rund um Online-Business, Social Media, Selbstständigkeit und Medienkritik – ein Produkt mit klar erkennbarem Viralpotenzial und starker Nachfrage.</div>
-<div> </div>
+**Vendor's marketplace description:** Ein hochaktuelles Thema mit enormem Reichweitenpotenzial: Dieses Buch enthüllt die Realität hinter der glamourösen Influencer-Welt und spricht gezielt eine breite, digital affine Zielgruppe an, die Social Media täglich konsumiert. Es verbindet Aufklärung, Einblicke in Geldströme, psychologische Belastungen und gesellschaftliche Auswirkungen zu einem starken, diskussionswürdigen Gesamtbild. Die Mischung aus Neugier („Was steckt wirklich dahinter?“) und Relevanz für nahezu jeden Social-Media-Nutzer sorgt für hohe Klick- und Conversion-Chancen. Besonders geeignet für Content rund um Online-Business, Social Media, Selbstständigkeit und Medienkritik – ein Produkt mit klar erkennbarem Viralpotenzial und starker Nachfrage.
 
 ## 2. Links
 

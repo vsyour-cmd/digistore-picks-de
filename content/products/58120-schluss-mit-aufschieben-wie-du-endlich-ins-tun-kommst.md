@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein ehrlicher, praktischer Ratgeber gegen Aufschieben – mit über 20 echten Übungen, die man sofort ausprobieren kann. Ideal für Zielgruppen im Bereich Produktivität, Selbstorganisation und mentale Gesundheit.</p>
-<p> </p>
-<p>Kein erhobener Zeigefinger, sondern echte, alltagstaugliche Strategien. 50% Provision pro Verkauf.</p>
+**Vendor's marketplace description:** Ein ehrlicher, praktischer Ratgeber gegen Aufschieben – mit über 20 echten Übungen, die man sofort ausprobieren kann. Ideal für Zielgruppen im Bereich Produktivität, Selbstorganisation und mentale Gesundheit. Kein erhobener Zeigefinger, sondern echte, alltagstaugliche Strategien. 50% Provision pro Verkauf.
 
 ## 2. Links
 

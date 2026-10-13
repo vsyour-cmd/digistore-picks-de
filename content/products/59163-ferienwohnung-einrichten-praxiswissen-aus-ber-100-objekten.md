@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Für wen:</strong> Gastgeberinnen und Gastgeber, die eine Ferienwohnung oder ein Airbnb neu einrichten oder auffrischen – und wissen wollen, welche Einrichtung Buchungen und gute Bewertungen bringt statt nur hübsch auszusehen. Dazu eine PDF mit dem passenden Kleininventar und ein Reinigungprotokoll</p>
-<p><strong>Was drin ist:</strong> Die Einrichtungserfahrung aus über 100 Ferienwohnungen: was Gäste wirklich brauchen, was sich nach zwei Saisons als Fehlkauf erweist, welche Materialien die Reinigung überstehen und wie ein Raum auf Fotos wirkt, die gebucht werden.</p>
-<p><strong>Preis:</strong> 24,90 €  |  <strong>Provision:</strong> 40 %</p>
-<p><strong>Warum es sich verkauft:</strong> Die Autorin ist gelernte Raumausstatterin mit über 25 Jahren Praxis, hat mehr als 100 Ferienwohnungen eingerichtet und vermietet drei eigene. Einrichten ist für viele Gastgeber die größte Unsicherheit vor dem Start – und der Posten, an dem am meisten Geld falsch ausgegeben wird.</p>
-<p><strong>Passende Kanäle:</strong> Blogs, Newsletter und Accounts rund um Ferienwohnung, Airbnb-Gastgeber, Vermietung als Nebeneinkommen, Immobilien, Einrichten und Interior. Ganzjährig, mit Spitzen vor der Saison.</p>
+**Vendor's marketplace description:** Für wen: Gastgeberinnen und Gastgeber, die eine Ferienwohnung oder ein Airbnb neu einrichten oder auffrischen – und wissen wollen, welche Einrichtung Buchungen und gute Bewertungen bringt statt nur hübsch auszusehen. Dazu eine PDF mit dem passenden Kleininventar und ein Reinigungprotokoll Was drin ist: Die Einrichtungserfahrung aus über 100 Ferienwohnungen: was Gäste wirklich brauchen, was sich nach zwei Saisons als Fehlkauf erweist, welche Materialien die Reinigung überstehen und wie ein Raum auf Fotos wirkt, die gebucht werden. Preis: 24,90 € | Provision: 40 % Warum es sich verkauft: Die Autorin ist gelernte Raumausstatterin mit über 25 Jahren Praxis, hat mehr als 100 Ferienwohnungen eingerichtet und vermietet drei eigene. Einrichten ist für viele Gastgeber die größte Unsicherheit vor dem Start – und der Posten, an dem am meisten Geld falsch ausgegeben wird. Passende Kanäle: Blogs, Newsletter und Accounts rund um Ferienwohnung, Airbnb-Gastgeber, Vermietung als Nebeneinkommen, Immobilien, Einrichten und Interior. Ganzjährig, mit Spitzen vor der Saison.
 
 ## 2. Links
 

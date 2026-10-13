@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses Produkt richtet sich an Frauen, die sich im Alltag überfordert und innerlich angespannt fühlen.<br />Es bietet einen einfachen Einstieg in die Nervensystem-Regulation – mit nur 5 Minuten täglich.</p>
-<p>Besonders geeignet für Creator im Bereich:<br />– Achtsamkeit<br />– Nervensystem / Stress<br />– Weiblichkeit / Selbstfürsorge<br />– Natur / Pflanzen</p>
-<p>Provision 30%</p>
+**Vendor's marketplace description:** Dieses Produkt richtet sich an Frauen, die sich im Alltag überfordert und innerlich angespannt fühlen. Es bietet einen einfachen Einstieg in die Nervensystem-Regulation – mit nur 5 Minuten täglich. Besonders geeignet für Creator im Bereich: – Achtsamkeit – Nervensystem / Stress – Weiblichkeit / Selbstfürsorge – Natur / Pflanzen Provision 30%
 
 ## 2. Links
 

@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#008000;background-color:#ccffcc;"><strong> In nur 2,5 Stunden das Steuer 1 x 1 für Selbstständige lernen! Frei von Juristendeutsch! </strong></span></h2>
-<p><span style="background-color:#ffff00;"><strong><span style="color:#ff0000;">96% aller Selbstständigen verschenken regelmäßig gutes Geld an das Finanzamt!</span></strong> </span></p>
-<p>Wissenslücken, Desinteresse, Zeitmangel, unverständliches Juristendeutsch oder gar Angst vor dem Thema Steuern sind nur einige Gründe, warum Unternehmer von Jahr zu Jahr tausende Euros verbrennen!</p>
-<p>In dem <strong>einzigartigen Crashkurs</strong> lernen Selbstständige – auch ohne Vorkenntnisse - alles, was Sie brauchen, damit keiner ihrer hart verdienten Euros mehr aus Versehen an das Finanzamt wandert.<span style="background-color:#ccffcc;"><em><strong> </strong></em><strong>Statt grauer Theorie und Juristendeutsch wird das erforderliche Wissen gut verständlich und praxisnah präsentiert – Steuern sparen inklusive.</strong></span></p>
-<p> </p>
-<p><strong>Bewirb das Seminar und helfe <span style="color:#000000;">Deinen</span> Kontakten, Steuern zu sparen. <span style="background-color:#ccffcc;color:#000000;">Das Beste: Du bekommst 60% Provision!</span></strong><span style="background-color:#ccffcc;color:#000000;"> </span></p>
+**Vendor's marketplace description:** In nur 2,5 Stunden das Steuer 1 x 1 für Selbstständige lernen! Frei von Juristendeutsch! 96% aller Selbstständigen verschenken regelmäßig gutes Geld an das Finanzamt! Wissenslücken, Desinteresse, Zeitmangel, unverständliches Juristendeutsch oder gar Angst vor dem Thema Steuern sind nur einige Gründe, warum Unternehmer von Jahr zu Jahr tausende Euros verbrennen! In dem einzigartigen Crashkurs lernen Selbstständige – auch ohne Vorkenntnisse - alles, was Sie brauchen, damit keiner ihrer hart verdienten Euros mehr aus Versehen an das Finanzamt wandert. Statt grauer Theorie und Juristendeutsch wird das erforderliche Wissen gut verständlich und praxisnah präsentiert – Steuern sparen inklusive. Bewirb das Seminar und helfe Deinen Kontakten, Steuern zu sparen. Das Beste: Du bekommst 60% Provision!
 
 ## 2. Links
 

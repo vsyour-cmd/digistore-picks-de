@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Profitieren Sie von einem attraktiven DIY-Thema für Familien und Heimwerker! Bewerben Sie unsere vielfältige Auswahl an professionellen Bauplänen für Spieltürme und Spielhäuser aus Holz.</p>
-<p><strong>Das macht unser Angebot für Affiliates interessant:</strong></p>
-<ul>
-<li>
-<p><strong>40 % Provision</strong> auf vermittelte Verkäufe</p>
-</li>
-<li>
-<p><strong>Große Produktauswahl:</strong> Spieltürme, Spielhäuser und Modelle mit Rutschen, Schaukeln oder Kletterelementen</p>
-</li>
-<li>
-<p><strong>Klare Zielgruppe:</strong> Eltern, Großeltern, Familien und DIY-Begeisterte</p>
-</li>
-<li>
-<p><strong>Digitale Produkte:</strong> Sofortiger PDF-Download ohne Versandkosten</p>
-</li>
-<li>
-<p><strong>Professionelle Baupläne:</strong> Detaillierte Zeichnungen, Maßangaben und Materiallisten</p>
-</li>
-<li>
-<p><strong>Wachsendes Sortiment:</strong> Regelmäßig neue Modelle</p>
-</li>
-</ul>
-<p>Ob auf Pinterest, in DIY-Blogs, auf Webseiten oder über Social Media – Spieltürme und Spielhäuser bieten zahlreiche Möglichkeiten für eine zielgerichtete Bewerbung.</p>
-<p><strong>Jetzt Affiliate werden und mit jedem vermittelten Bauplan-Verkauf 40 % Provision verdienen!</strong></p>
+**Vendor's marketplace description:** Profitieren Sie von einem attraktiven DIY-Thema für Familien und Heimwerker! Bewerben Sie unsere vielfältige Auswahl an professionellen Bauplänen für Spieltürme und Spielhäuser aus Holz. Das macht unser Angebot für Affiliates interessant: 40 % Provision auf vermittelte Verkäufe Große Produktauswahl: Spieltürme, Spielhäuser und Modelle mit Rutschen, Schaukeln oder Kletterelementen Klare Zielgruppe: Eltern, Großeltern, Familien und DIY-Begeisterte Digitale Produkte: Sofortiger PDF-Download ohne Versandkosten Professionelle Baupläne: Detaillierte Zeichnungen, Maßangaben und Materiallisten Wachsendes Sortiment: Regelmäßig neue Modelle Ob auf Pinterest, in DIY-Blogs, auf Webseiten oder über Social Media – Spieltürme und Spielhäuser bieten zahlreiche Möglichkeiten für eine zielgerichtete Bewerbung. Jetzt Affiliate werden und mit jedem vermittelten Bauplan-Verkauf 40 % Provision verdienen!
 
 ## 2. Links
 

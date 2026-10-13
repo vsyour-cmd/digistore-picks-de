@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hast du dich auch schon gefragt, warum manche Menschen mit Ihrem Onlinebusiness so schnell voran kommen?<br />Der Schlüssel heißt: <strong>NETZWERKEN</strong>. In diesem Onlinekurs zeige ich Dir Schritt für Schritt meine besten <strong>Strategien zum Nachmachen</strong>. Du wirst begeistert sein, was du alles zurückbekommst, wenn du echten Mehrwert stiftest. Dein Onlinebusiness kann dadurch wie bei mir in kurzer Zeit auf das <strong>nächste Level</strong> kommen.</p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Hast du dich auch schon gefragt, warum manche Menschen mit Ihrem Onlinebusiness so schnell voran kommen? Der Schlüssel heißt: NETZWERKEN . In diesem Onlinekurs zeige ich Dir Schritt für Schritt meine besten Strategien zum Nachmachen . Du wirst begeistert sein, was du alles zurückbekommst, wenn du echten Mehrwert stiftest. Dein Onlinebusiness kann dadurch wie bei mir in kurzer Zeit auf das nächste Level kommen.
 
 ## 2. Links
 

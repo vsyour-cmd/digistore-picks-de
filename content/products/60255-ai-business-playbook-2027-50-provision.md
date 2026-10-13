@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb das AI Business Playbook 2027 von Koeniq Software. Der 28-seitige digitale Praxisleitfaden hilft Selbstständigen, Freelancern, Creatorn und kleinen Unternehmen, Fokus zu setzen, Systeme zu bauen und KI in die Umsetzung zu bringen. Digitales Produkt ohne Versand oder Lagerbestand. Verkaufspreis 14,99 €, Affiliate-Provision 50 %. Automatische Partnerannahme, fertige Werbetexte und eine eigene Affiliate-Support-Seite.</p>
-<p> </p>
-<p>Ideal für Business-, Produktivitäts- und KI-Content.</p>
+**Vendor's marketplace description:** Bewirb das AI Business Playbook 2027 von Koeniq Software. Der 28-seitige digitale Praxisleitfaden hilft Selbstständigen, Freelancern, Creatorn und kleinen Unternehmen, Fokus zu setzen, Systeme zu bauen und KI in die Umsetzung zu bringen. Digitales Produkt ohne Versand oder Lagerbestand. Verkaufspreis 14,99 €, Affiliate-Provision 50 %. Automatische Partnerannahme, fertige Werbetexte und eine eigene Affiliate-Support-Seite. Ideal für Business-, Produktivitäts- und KI-Content.
 
 ## 2. Links
 

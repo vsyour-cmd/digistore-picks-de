@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Digitales Kochbuch als PDF mit 99 Keto-Rezepten, für den Alltag</p>
-<p>an Menschen gerichtet, die einfache, alltagstaugliche Keto- und Low-Carb-Rezepte suchen.</p>
+**Vendor's marketplace description:** Digitales Kochbuch als PDF mit 99 Keto-Rezepten, für den Alltag an Menschen gerichtet, die einfache, alltagstaugliche Keto- und Low-Carb-Rezepte suchen.
 
 ## 2. Links
 

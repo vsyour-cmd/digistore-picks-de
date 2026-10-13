@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong style="color:#e57c23;">KI wie ein Handwerker – Das komplette Prompt-System</strong></p>
-<p>Ein digitales E-Book (PDF), das zeigt, wie du Prompts so formulierst, dass KI liefert, was du wirklich brauchst. Klar, verständlich und wiederholbar. Entwickelt für Selbstständige, Affiliates und Creator, die mit KI arbeiten wollen, ohne sich in Technik oder Fachsprache zu verlieren.</p>
-<ul style="background:#f8f9fb;padding:14px 20px;color:#1e1e2e;">
-<li>16 praxisbewährte Prompts mit Beispielen</li>
-<li>Strukturierte Anleitung für Content, SEO und Automatisierung</li>
-<li>Einfach erklärt, sofort nutzbar</li>
-<li>Einmalzahlung, kein Abo</li>
-<li>Sofortiger Zugriff über Digistore24 nach Kauf</li>
-</ul>
-<p style="color:#0077b6;font-weight:600;margin-top:10px;">Ideal für alle, die KI wie ein Werkzeug nutzen wollen, praktisch, verständlich, effizient.</p>
-<p style="font-size:0.9em;color:#9fb2c8;margin-top:12px;">Lieferung: Digitaler Sofort-Download über <strong>Digistore24</strong> nach Zahlungseingang. Kein physisches Produkt. Kompatibel mit allen Geräten (PDF-Format).</p>
+**Vendor's marketplace description:** KI wie ein Handwerker – Das komplette Prompt-System Ein digitales E-Book (PDF), das zeigt, wie du Prompts so formulierst, dass KI liefert, was du wirklich brauchst. Klar, verständlich und wiederholbar. Entwickelt für Selbstständige, Affiliates und Creator, die mit KI arbeiten wollen, ohne sich in Technik oder Fachsprache zu verlieren. 16 praxisbewährte Prompts mit Beispielen Strukturierte Anleitung für Content, SEO und Automatisierung Einfach erklärt, sofort nutzbar Einmalzahlung, kein Abo Sofortiger Zugriff über Digistore24 nach Kauf Ideal für alle, die KI wie ein Werkzeug nutzen wollen, praktisch, verständlich, effizient. Lieferung: Digitaler Sofort-Download über Digistore24 nach Zahlungseingang. Kein physisches Produkt. Kompatibel mit allen Geräten (PDF-Format).
 
 ## 2. Links
 

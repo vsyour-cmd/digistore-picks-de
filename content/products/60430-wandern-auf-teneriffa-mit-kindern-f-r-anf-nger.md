@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Wandern auf Teneriffa mit Kindern – Der entspannte Guide für Familien und Einsteiger!</strong></h2>
-<p>Träumst du von einem unvergesslichen Familienurlaub auf Teneriffa, möchtest aber wissen, wie das Wandern mit Kindern wirklich stressfrei klappt? Dieses E-Book ist der perfekte Begleiter für alle Eltern, die die wunderschöne Natur der Kanareninsel gemeinsam mit ihren Kleinen entdecken wollen – ganz ohne Frust, quengelnde Kinder oder zu steile Anstiege.</p>
-<p> </p>
-<h3><strong>Das erwartet dich im Buch:</strong></h3>
-<p> </p>
-<p><strong> • Kinderfreundliche Routen:</strong> Handverlesene Wanderwege, die garantiert auch kleine Beine nicht überfordern.</p>
-<p><strong> • Tipps gegen Langeweile:</strong> Spielerische Ideen, wie du den Wegrand in ein spannendes Abenteuer verwandelst.</p>
-<p><strong> • Praktische Vorbereitung:</strong> Alles zu Ausrüstung, Snacks, der idealen Tageszeit und dem perfekten Sonnenschutz.</p>
-<p><strong> • Stressfrei unterwegs:</strong> Wertvolle Ratschläge für entspannte Pausen und motivierende Etappenziele.</p>
-<p> </p>
-<p><strong>Mach den nächsten Familienurlaub zu einem gemeinsamen Naturerlebnis, an das sich alle gerne zurückerinnern!</strong></p>
-<p> </p>
+**Vendor's marketplace description:** Wandern auf Teneriffa mit Kindern – Der entspannte Guide für Familien und Einsteiger! Träumst du von einem unvergesslichen Familienurlaub auf Teneriffa, möchtest aber wissen, wie das Wandern mit Kindern wirklich stressfrei klappt? Dieses E-Book ist der perfekte Begleiter für alle Eltern, die die wunderschöne Natur der Kanareninsel gemeinsam mit ihren Kleinen entdecken wollen – ganz ohne Frust, quengelnde Kinder oder zu steile Anstiege. Das erwartet dich im Buch: • Kinderfreundliche Routen: Handverlesene Wanderwege, die garantiert auch kleine Beine nicht überfordern. • Tipps gegen Langeweile: Spielerische Ideen, wie du den Wegrand in ein spannendes Abenteuer verwandelst. • Praktische Vorbereitung: Alles zu Ausrüstung, Snacks, der idealen Tageszeit und dem perfekten Sonnenschutz. • Stressfrei unterwegs: Wertvolle Ratschläge für entspannte Pausen und motivierende Etappenziele. Mach den nächsten Familienurlaub zu einem gemeinsamen Naturerlebnis, an das sich alle gerne zurückerinnern!
 
 ## 2. Links
 

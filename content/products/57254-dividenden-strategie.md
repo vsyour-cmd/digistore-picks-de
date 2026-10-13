@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Dividenden-Strategie“</strong></p>
-<p>Dividenden verstehen und langfristig Erträge aufbauen – Information und Bildung, keine Anlageberatung. Wie Dividenden funktionieren, Dividenden-Aktien und Kennzahlen einordnen, streuen und den Zinseszins nutzen. Erträge sind nicht garantiert.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 17,45 € pro Verkauf (Verkaufspreis 34,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verstehen, was Dividenden sind und woher sie kommen</li>
-<li>Dividenden-Aktien und Kennzahlen einordnen</li>
-<li>Ein Depot aufbauen, streuen und wiederanlegen</li>
-<li>Risiken wie Dividendenkürzungen erkennen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Dividenden-Strategie“ Dividenden verstehen und langfristig Erträge aufbauen – Information und Bildung, keine Anlageberatung. Wie Dividenden funktionieren, Dividenden-Aktien und Kennzahlen einordnen, streuen und den Zinseszins nutzen. Erträge sind nicht garantiert. Warum dieses E-Book bewerben? 50 % Provision – ca. 17,45 € pro Verkauf (Verkaufspreis 34,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verstehen, was Dividenden sind und woher sie kommen Dividenden-Aktien und Kennzahlen einordnen Ein Depot aufbauen, streuen und wiederanlegen Risiken wie Dividendenkürzungen erkennen
 
 ## 2. Links
 

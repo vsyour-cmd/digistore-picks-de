@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Dating ohne Drama“</strong></p>
-<p>Klar kommunizieren von Anfang an – Missverständnisse, Funkstille, Eifersucht? Lerne, von der ersten Nachricht an klar und souverän zu kommunizieren.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Bedürfnisse aussprechen, ohne zu fordern</li>
-<li>Grenzen setzen, ohne kalt zu wirken</li>
-<li>Konkrete Formulierungen für schwierige Gespräche</li>
-<li>Funkstille &amp; Ghosting souverän begegnen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Dating ohne Drama“ Klar kommunizieren von Anfang an – Missverständnisse, Funkstille, Eifersucht? Lerne, von der ersten Nachricht an klar und souverän zu kommunizieren. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Bedürfnisse aussprechen, ohne zu fordern Grenzen setzen, ohne kalt zu wirken Konkrete Formulierungen für schwierige Gespräche Funkstille & Ghosting souverän begegnen
 
 ## 2. Links
 

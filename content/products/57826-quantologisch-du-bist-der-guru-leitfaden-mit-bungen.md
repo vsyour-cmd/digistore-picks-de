@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Quantologisch - Dein digitaler Leitfaden für energetische Souveränität &amp; Klarheit</strong></p>
-<p>Schütze deinen energetischen Raum konsequent, halte dich von fremden Einflüssen frei und bleibe in deiner vollen Kraft. Dieses kompakte Praxis-E-Book liefert deinen Kunden klare, direkt umsetzbare Werkzeuge für maximale energetische Klarheit im Alltag. </p>
-<p><strong>Worum geht es im E-Book?</strong></p>
-<p>Deine Community erhält einen fundierten Leitfaden, um energetische Blockaden zu erkennen, sich effektiv abzugrenzen und die eigene Frequenz stabil und rein zu halten. Perfekt für alle, die sich persönlich und mental weiterentwickeln und geschützt durch den Alltag gehen wollen. </p>
-<p><strong>Deine Vorteile als Affiliate-Partner</strong></p>
-<ul>
-<li>Hohe Nachfrage: Themen wie energetische Abgrenzung, Schutz und mentale Klarheit treffen genau den Nerv der Zeit. </li>
-<li>Starke Provision: Profitiere von attraktiven <strong>40 % pro vermitteltem Verkauf.</strong></li>
-<li>Fertige Werbemittel: Sofort einsatzbereit für deine Kanäle, deine Liste oder deine Community. </li>
-</ul>
-<p>Sichere dir jetzt deinen Affiliate-Link direkt über den <strong>Digistore24-Marktplatz</strong> und starte mit der Vermarktung! </p>
+**Vendor's marketplace description:** Quantologisch - Dein digitaler Leitfaden für energetische Souveränität & Klarheit Schütze deinen energetischen Raum konsequent, halte dich von fremden Einflüssen frei und bleibe in deiner vollen Kraft. Dieses kompakte Praxis-E-Book liefert deinen Kunden klare, direkt umsetzbare Werkzeuge für maximale energetische Klarheit im Alltag. Worum geht es im E-Book? Deine Community erhält einen fundierten Leitfaden, um energetische Blockaden zu erkennen, sich effektiv abzugrenzen und die eigene Frequenz stabil und rein zu halten. Perfekt für alle, die sich persönlich und mental weiterentwickeln und geschützt durch den Alltag gehen wollen. Deine Vorteile als Affiliate-Partner Hohe Nachfrage: Themen wie energetische Abgrenzung, Schutz und mentale Klarheit treffen genau den Nerv der Zeit. Starke Provision: Profitiere von attraktiven 40 % pro vermitteltem Verkauf. Fertige Werbemittel: Sofort einsatzbereit für deine Kanäle, deine Liste oder deine Community. Sichere dir jetzt deinen Affiliate-Link direkt über den Digistore24-Marktplatz und starte mit der Vermarktung!
 
 ## 2. Links
 

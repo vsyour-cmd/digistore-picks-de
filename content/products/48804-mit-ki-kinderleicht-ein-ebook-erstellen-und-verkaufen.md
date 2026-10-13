@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#ff0000;"><strong>50% Provision!!!</strong></span></h2>
-<h2><span style="color:#ff0000;"><strong>Alle wollen diese Schritt für Schritt Anleitung: </strong></span></h2>
-<h3><strong>Warum? Weil jeder mit dieser brandaktuellen Anleitung und den neusten ChatGPTs Tipps innerhalb kürzester Zeit sein eigenes eBook erstellen und erfolgreich verkaufen kann.</strong></h3>
-<h2> </h2>
-<h2>Keine Vorerfahrung nötig - Kein Startkapital nötig</h2>
-<h2><span style="background-color:#ff9900;"><strong>Mit KI schnell und einfach ein eBook schreiben, auf Amazon KDP veröffentlichen und vermarkten und so ein regelmäßiges passives Einkommen generieren!</strong></span></h2>
-<p> </p>
-<p>Für jeden stehen die ersten Seiten des eBooks zum kostenlosen Download bereit, um das Buch zu präsentieren und vorzustellen.</p>
-<p>Weiterhin stehen den Affiliates Werbeanzeigen und E-Mail Vorlagen zur Verfügung.</p>
-<p> </p>
-<p><strong>Warum ist das Schreiben eines eBooks so lukrativ?</strong><br />Ganz einfach: Man investiert einmal Zeit und kann dann dauerhaft Einnahmen durch den Verkauf des eBooks generieren.<br /><br /><strong>Wie genau verdient man mit eBooks Geld?</strong><br />eBooks sind eine vielversprechende Einnahmequelle für Autoren, Verleger und Unternehmer.<br />Man kann mit eBooks auf vielen verschiedenen Wegen Geld verdienen:</p>
-<ul>
-<li>Der direkte Verkauf: Durch den direkten Verkauf auf Plattformen wie Amazon KDP, Digistore24, Google Play Books, Thalia und Hugendubel erhält man Tantiemen.</li>
-<li>Affiliate Marketing: Durch den Einbau von Affiliate Links, welche zu Produkten und Dienstleistungen führen, durch dessen Verkauf man Provisionen erhält.</li>
-<li>Lead Generierung: eBooks dienen auch als Werkzeuge zur Lead-Generierung, indem sie mit den eBooks Interessenten anlocken, sie dann über Verlinkungen auf Ihre Website ziehen und dort Kontaktdaten sammeln.</li>
-<li>Werbung für Videokurse: Weiterhin können eBooks als Grundlage oder Ergänzung für Online-Kurse oder Workshops dienen, was weitere Einnahmen schafft.</li>
-</ul>
-<p><br /><strong>Der neue Ratgeber "Mit KI kinderleicht ein eBook schreiben und auf Amazon verkaufen" bietet genau das Wissen, was benötigt wird, um einfach zu starten.</strong><br /><br /><strong>Schritt für Schritt Anleitungen und hilfreiche Tools, chronologisch aufgebaut: </strong>Sofort starten ohne Eigenkapital und ohne technisches Vorwissen.</p>
+**Vendor's marketplace description:** 50% Provision!!! Alle wollen diese Schritt für Schritt Anleitung: Warum? Weil jeder mit dieser brandaktuellen Anleitung und den neusten ChatGPTs Tipps innerhalb kürzester Zeit sein eigenes eBook erstellen und erfolgreich verkaufen kann. Keine Vorerfahrung nötig - Kein Startkapital nötig Mit KI schnell und einfach ein eBook schreiben, auf Amazon KDP veröffentlichen und vermarkten und so ein regelmäßiges passives Einkommen generieren! Für jeden stehen die ersten Seiten des eBooks zum kostenlosen Download bereit, um das Buch zu präsentieren und vorzustellen. Weiterhin stehen den Affiliates Werbeanzeigen und E-Mail Vorlagen zur Verfügung. Warum ist das Schreiben eines eBooks so lukrativ? Ganz einfach: Man investiert einmal Zeit und kann dann dauerhaft Einnahmen durch den Verkauf des eBooks generieren. Wie genau verdient man mit eBooks Geld? eBooks sind eine vielversprechende Einnahmequelle für Autoren, Verleger und Unternehmer. Man kann mit eBooks auf vielen verschiedenen Wegen Geld verdienen: Der direkte Verkauf: Durch den direkten Verkauf auf Plattformen wie Amazon KDP, Digistore24, Google Play Books, Thalia und Hugendubel erhält man Tantiemen. Affiliate Marketing: Durch den Einbau von Affiliate Links, welche zu Produkten und Dienstleistungen führen, durch dessen Verkauf man Provisionen erhält. Lead Generierung: eBooks dienen auch als Werkzeuge zur Lead-Generierung, indem sie mit den eBooks Interessenten anlocken, sie dann über Verlinkungen auf Ihre Website ziehen und dort Kontaktdaten sammeln. Werbung für Videokurse: Weiterhin können eBooks als Grundlage oder Ergänzung für Online-Kurse oder Workshops dienen, was weitere Einnahmen schafft. Der neue Ratgeber "Mit KI kinderleicht ein eBook schreiben und auf Amazon verkaufen" bietet genau das Wissen, was benötigt wird, um einfach zu starten. Schritt für Schritt Anleitungen und hilfreiche Tools, chronologisch aufgebaut: Sofort starten ohne Eigenkapital und ohne technisches Vorwissen.
 
 ## 2. Links
 

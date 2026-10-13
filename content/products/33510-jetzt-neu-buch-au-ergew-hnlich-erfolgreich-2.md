@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#ff0000;">Verschenke unseren neuen Bestseller "Außergewöhnlich Erfolgreich" an deine Leser / Kunden und wir zahlen dir 5€ Provision für jede Bestellung!</span></h2>
-<ul>
-<li>über 270 Seiten extrem guter Content</li>
-<li>30 außergewöhnlich erfolgreiche Persönlichkeiten verraten, wie sie ihr Geld verdienen</li>
-<li>Mit dabei: Lena Gercke, Nico Rosberg, Joey &amp; Luke Kelly, Knossi uvm.</li>
-<li>Sehr geringe Stornoquote</li>
-</ul>
-<p>Wir zahlen dir 5€ Provision für jede Bestellung! Melde dich jetzt als Affiliate an und wir schicken dir sofort eine perfekte Textvorlage zu! </p>
-<p>Beste Grüße aus Köln<br />Dein Thomas Klußmann und Christoph J.F. Schreiber<br />- Gründer.de -</p>
+**Vendor's marketplace description:** Verschenke unseren neuen Bestseller "Außergewöhnlich Erfolgreich" an deine Leser / Kunden und wir zahlen dir 5€ Provision für jede Bestellung! über 270 Seiten extrem guter Content 30 außergewöhnlich erfolgreiche Persönlichkeiten verraten, wie sie ihr Geld verdienen Mit dabei: Lena Gercke, Nico Rosberg, Joey & Luke Kelly, Knossi uvm. Sehr geringe Stornoquote Wir zahlen dir 5€ Provision für jede Bestellung! Melde dich jetzt als Affiliate an und wir schicken dir sofort eine perfekte Textvorlage zu! Beste Grüße aus Köln Dein Thomas Klußmann und Christoph J.F. Schreiber - Gründer.de -
 
 ## 2. Links
 

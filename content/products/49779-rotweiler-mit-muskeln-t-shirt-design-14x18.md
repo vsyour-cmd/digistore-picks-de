@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>T-Shirt Design</strong></p>
-<p><strong>Rottweiler mit Muskeln </strong><br /><br />Diese Auflistung ist ein sofortiger digitaler Download. Sie erhalten 1 PNG-Datei mit transparentem Hintergrund - Hohe Auflösung - 300 DPI<br />Größe ist 14x18 Zoll<br /><br />Es kann auch in der Größe angepasst werden, um verschiedenen Größen zu passen - mit Canva.<br /><br />Wichtig! Dies ist nur ein digitaler Download. Es wird kein physischer Artikel gesendet.<br /><br />Sie können diese Dateien für persönliche und kommerzielle Zwecke auf physischen Gegenständen verwenden, aber Sie können die digitalen Dateien nicht kopieren, freigeben oder weiterverkaufen.<br />Bei Fragen können Sie mich gerne kontaktieren.<br /><br />Die Bilder werden als Sofort-Download verfügbar sein.<br />So laden Sie digitale Dateien herunter.<br />Sobald Sie den Artikel bezahlt haben, erhalten Sie die Dateien sofort. </p>
+**Vendor's marketplace description:** T-Shirt Design Rottweiler mit Muskeln Diese Auflistung ist ein sofortiger digitaler Download. Sie erhalten 1 PNG-Datei mit transparentem Hintergrund - Hohe Auflösung - 300 DPI Größe ist 14x18 Zoll Es kann auch in der Größe angepasst werden, um verschiedenen Größen zu passen - mit Canva. Wichtig! Dies ist nur ein digitaler Download. Es wird kein physischer Artikel gesendet. Sie können diese Dateien für persönliche und kommerzielle Zwecke auf physischen Gegenständen verwenden, aber Sie können die digitalen Dateien nicht kopieren, freigeben oder weiterverkaufen. Bei Fragen können Sie mich gerne kontaktieren. Die Bilder werden als Sofort-Download verfügbar sein. So laden Sie digitale Dateien herunter. Sobald Sie den Artikel bezahlt haben, erhalten Sie die Dateien sofort.
 
 ## 2. Links
 

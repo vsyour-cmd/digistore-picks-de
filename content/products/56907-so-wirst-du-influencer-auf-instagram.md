@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Reichweite aufbauen, eine Community binden und Markendeals sicher landen</strong></p>
-<p>Influencer zu werden ist kein Zufall – es ist Handwerk, das du lernen kannst. Dieses E-Book zeigt dir den Weg vom kleinen Account zur gefragten Creator-Marke: wie du mit Reels als Reichweiten-Motor schnell wächst, mit Karussells eine treue Community aufbaust und dich für Markenkooperationen professionell positionierst. Du lernst, wie der Instagram-Algorithmus Trend-Audio und Engagement bewertet, wie du durch Karussells maximale Saves und Shares erzielst und wie du Mediadaten erstellst, die Marken überzeugen. Dazu: UGC als Einnahmequelle, Preise selbstbewusst aufrufen und Deals verhandeln, die fair bezahlt sind.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Reels-Strategie: Trend-Audio, Hooks und der Explore-Seiten-Effekt</li>
-<li>Karussells für maximale Saves, Shares und Algorithmus-Reichweite</li>
-<li>Aus Followern echte Fans und eine aktive Community machen</li>
-<li>Dein Marken-Kit: Mediadaten, die Kooperationen gewinnen</li>
-<li>UGC als Einnahmequelle nutzen – auch ohne riesige Reichweite</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Reichweite aufbauen, eine Community binden und Markendeals sicher landen Influencer zu werden ist kein Zufall – es ist Handwerk, das du lernen kannst. Dieses E-Book zeigt dir den Weg vom kleinen Account zur gefragten Creator-Marke: wie du mit Reels als Reichweiten-Motor schnell wächst, mit Karussells eine treue Community aufbaust und dich für Markenkooperationen professionell positionierst. Du lernst, wie der Instagram-Algorithmus Trend-Audio und Engagement bewertet, wie du durch Karussells maximale Saves und Shares erzielst und wie du Mediadaten erstellst, die Marken überzeugen. Dazu: UGC als Einnahmequelle, Preise selbstbewusst aufrufen und Deals verhandeln, die fair bezahlt sind. Das steckt drin: Reels-Strategie: Trend-Audio, Hooks und der Explore-Seiten-Effekt Karussells für maximale Saves, Shares und Algorithmus-Reichweite Aus Followern echte Fans und eine aktive Community machen Dein Marken-Kit: Mediadaten, die Kooperationen gewinnen UGC als Einnahmequelle nutzen – auch ohne riesige Reichweite Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

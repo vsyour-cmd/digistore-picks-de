@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><strong>✅ Deine Vorteile als Affiliate:</strong></h4>
-<p>• <strong>20% Provision</strong> für den Verkauf des Online Kurses.</p>
-<p><span style="background-color:#ffff00;"><strong>Unsere Empfehlung: </strong></span><br />Bewerbe den Online Kurs mit dem sehr erfolgreichen <strong>KOSTENLOSEN Selbstliebe-Webinar mit Pavlina Klemm</strong>, zu dem sich bereits mehr als 25.000 Menschen angemeldet haben. Nach dem Webinar werden die Teilnehmer zum Online-Kurs geführt und eingeladen, mit dem Kurs den Weg zur Selbstliebe weiterzugehen!</p>
-<p><strong>DEIN AFFILIATE-LINK für das GRATIS-Webinar: <em><span style="background-color:#00ff00;">(Empfohlen)</span></em></strong><br /><a href="https://www.digistore24.com/content/424136/38234/AFFILIATE/CAMPAIGNKEY" target="_blank" rel="noreferrer noopener">https://www.digistore24.com/content/424136/38234/AFFILIATE/CAMPAIGNKEY</a><br /><em>(Einfach "AFFILIATE" mit Deiner Digistore24-ID ersetzen)</em></p>
-<p><strong>Texte, Grafiken und weitere Infos findest Du unter folgender Seite:</strong><br /><a href="https://channeling-blog.com/akademie/partnerprogramm/#CAOK_01" target="_blank" rel="noreferrer noopener">https://channeling-blog.com/akademie/partnerprogramm/#CAOK_01</a></p>
-<p>Den Affiliate Link der direkt zur Verkaufsseite des Online Kurses führt findest Du ebenfalls auf der Partnerprogramm Seite oder Rechts über dem Affiliate Link Generator.</p>
-<p><strong>Werde jetzt zum Affiliate! Wir freuen uns auf die Zusammenarbeit.</strong></p>
-<p>Bei Fragen oder wenn Du weitere Grafiken und Material benötigst, kontaktiere uns gerne über <a href="mailto:support@channeling-akademie.de" target="_blank" rel="noreferrer noopener">support@channeling-akademie.de</a></p>
-<div>
-<div><strong>Mehr Infos findest Du auf der Verkauf- und Affiliate Seite!</strong></div>
-<div> </div>
-<div><strong>Alles Liebe!<br />Michael &amp; Jonas<br />und das Team der Channeling Akademie</strong></div>
-</div>
+**Vendor's marketplace description:** ✅ Deine Vorteile als Affiliate: • 20% Provision für den Verkauf des Online Kurses. Unsere Empfehlung: Bewerbe den Online Kurs mit dem sehr erfolgreichen KOSTENLOSEN Selbstliebe-Webinar mit Pavlina Klemm , zu dem sich bereits mehr als 25.000 Menschen angemeldet haben. Nach dem Webinar werden die Teilnehmer zum Online-Kurs geführt und eingeladen, mit dem Kurs den Weg zur Selbstliebe weiterzugehen! DEIN AFFILIATE-LINK für das GRATIS-Webinar: (Empfohlen) https://www.digistore24.com/content/424136/38234/AFFILIATE/CAMPAIGNKEY (Einfach "AFFILIATE" mit Deiner Digistore24-ID ersetzen) Texte, Grafiken und weitere Infos findest Du unter folgender Seite: https://channeling-blog.com/akademie/partnerprogramm/#CAOK_01 Den Affiliate Link der direkt zur Verkaufsseite des Online Kurses führt findest Du ebenfalls auf der Partnerprogramm Seite oder Rechts über dem Affiliate Link Generator. Werde jetzt zum Affiliate! Wir freuen uns auf die Zusammenarbeit. Bei Fragen oder wenn Du weitere Grafiken und Material benötigst, kontaktiere uns gerne über support@channeling-akademie.de Mehr Infos findest Du auf der Verkauf- und Affiliate Seite! Alles Liebe! Michael & Jonas und das Team der Channeling Akademie
 
 ## 2. Links
 

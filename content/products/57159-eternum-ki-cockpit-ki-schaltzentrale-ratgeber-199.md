@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das ETERNUM KI-Cockpit ist die zentrale KI-Schaltzentrale für alle, die Künstliche Intelligenz endlich konkret im Alltag und Business nutzen wollen – ohne Technik-Studium und ohne sich in unzähligen Tools zu verlieren.</p>
-<p> </p>
-<p>Was der Käufer bekommt: das KI-Cockpit als zentrale Software-Oberfläche (läuft im Browser, keine Installation), umfangreiche Ratgeber und Workbooks mit konkretem Umsetzungswissen, fertige KI-Prompts und Automatisierungs-Workflows sowie eine Schritt-für-Schritt-Begleitung statt Theorie-Wüste.</p>
-<p> </p>
-<p>Entwickelt von Ernst Schrempf – kein anonymer Guru, sondern ein echter Praktiker mit über 20 Jahren Unternehmererfahrung, der seine Systeme selbst programmiert und persönlich für sein Produkt steht.</p>
-<p> </p>
-<p>Einmalig 199 €. Kein Abo. Keine versteckten Kosten. 30 Tage Geld-zurück-Garantie über Digistore24.</p>
-<p> </p>
-<p>Für Affiliates: 50 % Provision auf jeden Verkauf, 180 Tage Cookie-Laufzeit, Auto-Freigabe für neue Partner. Fertige Werbemittel und E-Mail-Swipes findest du auf unserer Partnerseite: https://eternumtech.eu/partner</p>
+**Vendor's marketplace description:** Das ETERNUM KI-Cockpit ist die zentrale KI-Schaltzentrale für alle, die Künstliche Intelligenz endlich konkret im Alltag und Business nutzen wollen – ohne Technik-Studium und ohne sich in unzähligen Tools zu verlieren. Was der Käufer bekommt: das KI-Cockpit als zentrale Software-Oberfläche (läuft im Browser, keine Installation), umfangreiche Ratgeber und Workbooks mit konkretem Umsetzungswissen, fertige KI-Prompts und Automatisierungs-Workflows sowie eine Schritt-für-Schritt-Begleitung statt Theorie-Wüste. Entwickelt von Ernst Schrempf – kein anonymer Guru, sondern ein echter Praktiker mit über 20 Jahren Unternehmererfahrung, der seine Systeme selbst programmiert und persönlich für sein Produkt steht. Einmalig 199 €. Kein Abo. Keine versteckten Kosten. 30 Tage Geld-zurück-Garantie über Digistore24. Für Affiliates: 50 % Provision auf jeden Verkauf, 180 Tage Cookie-Laufzeit, Auto-Freigabe für neue Partner. Fertige Werbemittel und E-Mail-Swipes findest du auf unserer Partnerseite: https://eternumtech.eu/partner
 
 ## 2. Links
 

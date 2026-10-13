@@ -41,74 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<h4>Affiliate Provision 20 %</h4>
-<h2>Beschreibung des Online-Kurses:</h2>
-</div>
-</div>
-</div>
-</div>
-<h2><a>Onlinekurs "Die MET-Glücksformel"</a></h2>
-<div>
-<div>
-<h4>Starte jetzt deinen Onlinekurs „Die MET-Glücksformel“ (6 Std. Dauer)</h4>
-<h4>Hier ist alles, was du für nur <strong>99</strong> Euro statt <del>199 Euro</del> (inkl. MwSt.) bekommst:</h4>
-<h4>Außerdem gebe dir eine 14-Tage-Zufriedenheitsgarantie (sonst Geld zurück)!</h4>
-<h3>Du lernst im Onlinekurs:</h3>
-<ul>
-<li>
-<h4>Die MET-Technik, mit der du Ängste, Trauer und andere negative Gefühle schnell und dauerhaft auflösen kannst.</h4>
-</li>
-<li>
-<h4>Ich zeige dir, wie du deine körperlichen Symptome beklopfen kannst und wie du das Klopfen zur Gesundheitsprophylaxe einsetzen kannst.</h4>
-</li>
-<li>
-<h4>Ich zeige dir, wie du emotionale Belastungen aus der Vergangenheit auflösen kannst.</h4>
-</li>
-<li>
-<h4>Ich zeige dir, wie du mit Wahlsätzen und Affirmationen klopfen kannst.</h4>
-</li>
-<li>
-<h4>Du lernst, wie du Stress erfolgreich bekämpfst.</h4>
-</li>
-<li>
-<h4>Du lernst, wie du blockierende Glaubenssätze auflösen kannst.</h4>
-</li>
-<li>
-<h4>Ich zeige dir, wie du mehr Selbstvertrauen und Energie bekommst.</h4>
-</li>
-<li>
-<h4>Du lernst, was Epigenetik ist und was METgenetik® ist.</h4>
-</li>
-<li>
-<h4>Du lernst die Anwendungsgebiete von MET.</h4>
-</li>
-</ul>
-<h3>Vorteile</h3>
-<ul>
-<li>
-<h4>Dein Online Kurs mit eigenem Mitgliederbereich.</h4>
-</li>
-<li>
-<h4>Weltweit abrufbar auf PC, Laptop, iPad.</h4>
-</li>
-<li>
-<h4>Du kannst den Kurs so oft wiederholen, wie du willst.</h4>
-</li>
-</ul>
-<h4>Mein Wissen der letzten 39 Jahre komprimiert in 5 Onlinekursen, mit 35 Videos in HD (Laufzeit insgesamt 6 Std.) und umfangreichen Begleitmaterialien.</h4>
-<h2>Die MET-Glücksformel</h2>
-<div>Kosten: 99 € statt 199,00 €</div>
-</div>
-</div>
-<h4> </h4>
-</div>
-</div>
+**Vendor's marketplace description:** Affiliate Provision 20 % Beschreibung des Online-Kurses: Onlinekurs "Die MET-Glücksformel" Starte jetzt deinen Onlinekurs „Die MET-Glücksformel“ (6 Std. Dauer) Hier ist alles, was du für nur 99 Euro statt 199 Euro (inkl. MwSt.) bekommst: Außerdem gebe dir eine 14-Tage-Zufriedenheitsgarantie (sonst Geld zurück)! Du lernst im Onlinekurs: Die MET-Technik, mit der du Ängste, Trauer und andere negative Gefühle schnell und dauerhaft auflösen kannst. Ich zeige dir, wie du deine körperlichen Symptome beklopfen kannst und wie du das Klopfen zur Gesundheitsprophylaxe einsetzen kannst. Ich zeige dir, wie du emotionale Belastungen aus der Vergangenheit auflösen kannst. Ich zeige dir, wie du mit Wahlsätzen und Affirmationen klopfen kannst. Du lernst, wie du Stress erfolgreich bekämpfst. Du lernst, wie du blockierende Glaubenssätze auflösen kannst. Ich zeige dir, wie du mehr Selbstvertrauen und Energie bekommst. Du lernst, was Epigenetik ist und was METgenetik® ist. Du lernst die Anwendungsgebiete von MET. Vorteile Dein Online Kurs mit eigenem Mitgliederbereich. Weltweit abrufbar auf PC, Laptop, iPad. Du kannst den Kurs so oft wiederholen, wie du willst. Mein Wissen der letzten 39 Jahre komprimiert in 5 Onlinekursen, mit 35 Videos in HD (Laufzeit insgesamt 6 Std.) und umfangreichen Begleitmaterialien. Die MET-Glücksformel Kosten: 99 € statt 199,00 €
 
 ## 2. Links
 

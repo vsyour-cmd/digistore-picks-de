@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Von der Kanal-Idee zu deinen ersten 500 Abonnenten – ohne Algorithmus-Stress</strong></p>
-<p>Du willst einen Telegram-Kanal starten, weißt aber nicht, wo anfangen? Telegram ist einzigartig: kein Algorithmus filtert deine Beiträge, kein Feed versteckt deine Nachrichten – wer deinen Kanal abonniert, sieht jeden Post. Dieses E-Book nimmt dich Schritt für Schritt an die Hand: von der Themenwahl und dem Kanalnamen über die ersten Beiträge bis zu deinen ersten 500 echten Abonnenten. Du lernst, wie chronologische Zustellung dein Vorteil ist, wie du mit Weiterleitungen und Cross-Promo in anderen Kanälen organisch wächst und warum Link-Sharing auf Telegram ohne Reichweiten-Drosselung funktioniert. Kein Fachjargon, keine teuren Tools – nur ein klarer, umsetzbarer Plan, den du heute noch starten kannst.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Thema &amp; Zielgruppe finden, die zu dir und zur Nachfrage passen</li>
-<li>Kanal richtig einrichten: Name, Beschreibung, Profilbild und Links</li>
-<li>Chronologische Zustellung als Reichweiten-Vorteil nutzen</li>
-<li>Cross-Promo &amp; Weiterleitungen als wichtigsten Wachstumshebel auf Telegram</li>
-<li>Posting-Rhythmus finden, der Abonnenten bindet statt nervt</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Von der Kanal-Idee zu deinen ersten 500 Abonnenten – ohne Algorithmus-Stress Du willst einen Telegram-Kanal starten, weißt aber nicht, wo anfangen? Telegram ist einzigartig: kein Algorithmus filtert deine Beiträge, kein Feed versteckt deine Nachrichten – wer deinen Kanal abonniert, sieht jeden Post. Dieses E-Book nimmt dich Schritt für Schritt an die Hand: von der Themenwahl und dem Kanalnamen über die ersten Beiträge bis zu deinen ersten 500 echten Abonnenten. Du lernst, wie chronologische Zustellung dein Vorteil ist, wie du mit Weiterleitungen und Cross-Promo in anderen Kanälen organisch wächst und warum Link-Sharing auf Telegram ohne Reichweiten-Drosselung funktioniert. Kein Fachjargon, keine teuren Tools – nur ein klarer, umsetzbarer Plan, den du heute noch starten kannst. Das steckt drin: Thema & Zielgruppe finden, die zu dir und zur Nachfrage passen Kanal richtig einrichten: Name, Beschreibung, Profilbild und Links Chronologische Zustellung als Reichweiten-Vorteil nutzen Cross-Promo & Weiterleitungen als wichtigsten Wachstumshebel auf Telegram Posting-Rhythmus finden, der Abonnenten bindet statt nervt Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

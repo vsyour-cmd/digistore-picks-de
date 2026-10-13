@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Faceless YouTube mit KI“</strong></p>
-<p>Ein Kanal, der für dich arbeitet – Einen YouTube-Kanal aufbauen, ohne dein Gesicht oder eine Kamera zu zeigen. Lerne, wie du mit KI Ideen, Skripte, Stimme und Bild erstellst – ehrlich erklärt.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Einen Kanal ohne Gesicht und Kamera aufbauen</li>
-<li>Mit KI Ideen, Skripte, Stimme und Bild erstellen</li>
-<li>Videos veröffentlichen: Titel, Thumbnail, Beschreibung</li>
-<li>Die Regeln von YouTube und das Urheberrecht beachten</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Faceless YouTube mit KI“ Ein Kanal, der für dich arbeitet – Einen YouTube-Kanal aufbauen, ohne dein Gesicht oder eine Kamera zu zeigen. Lerne, wie du mit KI Ideen, Skripte, Stimme und Bild erstellst – ehrlich erklärt. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Einen Kanal ohne Gesicht und Kamera aufbauen Mit KI Ideen, Skripte, Stimme und Bild erstellen Videos veröffentlichen: Titel, Thumbnail, Beschreibung Die Regeln von YouTube und das Urheberrecht beachten
 
 ## 2. Links
 

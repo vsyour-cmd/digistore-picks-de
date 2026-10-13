@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Premiumangebot Entspannung beginnt im Kopf</h2>
-<p>Kopf frei - Kraft tanken -in Balance</p>
-<p>Hier trifft fundiertes Wissen auf schnelle Umsetzung. Wahlweise -Traditionelle Entspannungsmethoden im Onlinekurs- inclusive 4 wöchtige professionelle Coachingbegleitung um den Stresslevel zu reduzieren.</p>
-<p>oder Individuelles Geburtschartreading um die Stressfaktoren zu identifizieren und 4 wöchige professionelle Coachingbegleitung um den Stresslevel zu reduzieren.</p>
-<p>oder 40 Minuten persönliches Telefoncoaching mit individueller Stressanalyse und 4 wöchige professionelle Coachingbegleitung um den Stresslevel zu reduzieren.</p>
-<p>Seit über 15 Jahren als Entspannungstherapeutin, Coach, Heilpraktikerin, Astrologin und Autorin tätig.</p>
-<p>Eigene etablierte Website mit zufriedenen Klientenstimmen: <a href="http://www.naturheilpraxis-hoeck.de">www.naturheilpraxis-hoeck.de</a></p>
-<p>Gerne gebe ich 30% Affiliate Provision auf erfolgreiche Verkäufe.</p>
-<p>Cookielaufzeit: Standard Digistore 24 Einstellung</p>
-<p>Suche gerne den Kontakt unter <a href="mailto:hpheidi.hoeck@gmail.com">hpheidi.hoeck@gmail.com</a> bezüglich weiteres Werbematerial, Texte, Bilder</p>
+**Vendor's marketplace description:** Premiumangebot Entspannung beginnt im Kopf Kopf frei - Kraft tanken -in Balance Hier trifft fundiertes Wissen auf schnelle Umsetzung. Wahlweise -Traditionelle Entspannungsmethoden im Onlinekurs- inclusive 4 wöchtige professionelle Coachingbegleitung um den Stresslevel zu reduzieren. oder Individuelles Geburtschartreading um die Stressfaktoren zu identifizieren und 4 wöchige professionelle Coachingbegleitung um den Stresslevel zu reduzieren. oder 40 Minuten persönliches Telefoncoaching mit individueller Stressanalyse und 4 wöchige professionelle Coachingbegleitung um den Stresslevel zu reduzieren. Seit über 15 Jahren als Entspannungstherapeutin, Coach, Heilpraktikerin, Astrologin und Autorin tätig. Eigene etablierte Website mit zufriedenen Klientenstimmen: www.naturheilpraxis-hoeck.de Gerne gebe ich 30% Affiliate Provision auf erfolgreiche Verkäufe. Cookielaufzeit: Standard Digistore 24 Einstellung Suche gerne den Kontakt unter hpheidi.hoeck@gmail.com bezüglich weiteres Werbematerial, Texte, Bilder
 
 ## 2. Links
 

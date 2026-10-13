@@ -41,39 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Seit 2020 sind <span style="text-decoration:underline;">PCR-, Gurgel &amp; Rachen-Test</span>-Nebenwirkungen in aller Munde! </strong></p>
-<p>Viele <strong>Betroffene haben Kopfschmerzen, Fremdkörpergefühl, Albträume, hören innere Stimmen...nach den "Tests"!</strong></p>
-<p>Geschichten von NICHT deklatierten Inhaltsstoffen, DNA Veränderung, Schmiergeldaffären uvm. zwingen zum GENAU hinschauen was da läuft!</p>
-<p>Mit DIESEN Energetischen-Transformations-VIDEOS<strong> können Wunder geschehen!</strong></p>
-<p>Empfehle unsere Energetischen Transformations-Videos &amp; Programme weiter und</p>
-<ul>
-<li>rette Menschenleben!</li>
-<li>rette Väter, Mütter, Kinder, Nachbarn!</li>
-<li>unterstütze die Bewusstseinserweiterung!</li>
-<li>verdiene mit an  Upsells/Cross-Sells!  </li>
-</ul>
-<p><span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.digistore24.com/product/426092" target="_blank" rel="noreferrer noopener">PCR-Test-Nebenwirkungs-Ausleitungs-VIDEO</a></span></p>
-<p> </p>
-<p>Es ist somit seeeehr leicht möglich, dass Aggression, Wut, Schmerzen, Krankheit gar NICHT "DIE EIGENEN" sind, sondern von den TEST´s erzeugt!</p>
-<p>100ten Auflösungen haben dies gezeigt!</p>
-<p><strong>SEELENSPRACHE Reinigungs-Videos </strong>haben  WUNDER bewirkt die andere Methoden nicht ermöglichen!</p>
-<p>Erlebe es LIVE!</p>
-<p>Die Wirkung ist phänomenal, umwerfend, beinahe märchenhaft!</p>
-<p> </p>
-<p><strong>Deine Vorteile:</strong></p>
-<p>--&gt; Hohe eigene Zufriedenheit und Freude, wenn Menschen dadurch geholfen wird</p>
-<p>--&gt; Hohe Provisionen von <strong>30%</strong> für alle Produkte!</p>
-<p>--&gt; Garantiert etwas für deine Kunden dabei: <strong>Nischen</strong></p>
-<ul>
-<li>COVID-Impf &amp; PCR-Test Ausleitung</li>
-<li>EMF-Elektrosmog &amp; Fremdenergie Reinigung</li>
-<li>Karma- &amp; Fremdneregie Erlösung</li>
-<li>Schuld-Scham Erlösung</li>
-<li>Energetische Hausreinigung etc.)</li>
-</ul>
-<p>--&gt; Melde dich jetzt als Affiliate an und baue dir mit "Menschen helfen" ein passives Einkommen auf.  </p>
-<p>Auf eine erfolgreiches Zusammenwirken!  </p>
-<p>Beste Grüße, Michael König-Breuss</p>
+**Vendor's marketplace description:** Seit 2020 sind PCR-, Gurgel & Rachen-Test -Nebenwirkungen in aller Munde! Viele Betroffene haben Kopfschmerzen, Fremdkörpergefühl, Albträume, hören innere Stimmen...nach den "Tests"! Geschichten von NICHT deklatierten Inhaltsstoffen, DNA Veränderung, Schmiergeldaffären uvm. zwingen zum GENAU hinschauen was da läuft! Mit DIESEN Energetischen-Transformations-VIDEOS können Wunder geschehen! Empfehle unsere Energetischen Transformations-Videos & Programme weiter und rette Menschenleben! rette Väter, Mütter, Kinder, Nachbarn! unterstütze die Bewusstseinserweiterung! verdiene mit an Upsells/Cross-Sells! PCR-Test-Nebenwirkungs-Ausleitungs-VIDEO Es ist somit seeeehr leicht möglich, dass Aggression, Wut, Schmerzen, Krankheit gar NICHT "DIE EIGENEN" sind, sondern von den TEST´s erzeugt! 100ten Auflösungen haben dies gezeigt! SEELENSPRACHE Reinigungs-Videos haben WUNDER bewirkt die andere Methoden nicht ermöglichen! Erlebe es LIVE! Die Wirkung ist phänomenal, umwerfend, beinahe märchenhaft! Deine Vorteile: --> Hohe eigene Zufriedenheit und Freude, wenn Menschen dadurch geholfen wird --> Hohe Provisionen von 30% für alle Produkte! --> Garantiert etwas für deine Kunden dabei: Nischen COVID-Impf & PCR-Test Ausleitung EMF-Elektrosmog & Fremdenergie Reinigung Karma- & Fremdneregie Erlösung Schuld-Scham Erlösung Energetische Hausreinigung etc.) --> Melde dich jetzt als Affiliate an und baue dir mit "Menschen helfen" ein passives Einkommen auf. Auf eine erfolgreiches Zusammenwirken! Beste Grüße, Michael König-Breuss
 
 ## 2. Links
 

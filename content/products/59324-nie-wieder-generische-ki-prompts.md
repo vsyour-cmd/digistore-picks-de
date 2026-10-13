@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Jeder nutzt ChatGPT. Deshalb klingen auch alle Texte gleich.</strong></p>
-<p>Du tippst eine Anfrage, bekommst einen Text und irgendwie hast du das Gefühl, den gibt's schon zehnmal genauso im Netz. Das liegt nicht an dir. Das liegt daran, dass KI ohne Kontext nur Durchschnitt liefert.</p>
-<p><strong>37</strong> <strong>Prompts. </strong>Mit einem entscheidenden Unterschied: einem Positionierungs-Vorprompt, der deine Zielgruppe, deinen Tonfall und deine Alleinstellung fest einbaut – bevor ein Wort geschrieben wird. Für Headlines, Landingpages, E-Mail, Social Media und mehr. Funktioniert für ChatGPT, Claude und Gemini. Sofortiger Download. Für jede Branche einsetzbar.</p>
+**Vendor's marketplace description:** Jeder nutzt ChatGPT. Deshalb klingen auch alle Texte gleich. Du tippst eine Anfrage, bekommst einen Text und irgendwie hast du das Gefühl, den gibt's schon zehnmal genauso im Netz. Das liegt nicht an dir. Das liegt daran, dass KI ohne Kontext nur Durchschnitt liefert. 37 Prompts. Mit einem entscheidenden Unterschied: einem Positionierungs-Vorprompt, der deine Zielgruppe, deinen Tonfall und deine Alleinstellung fest einbaut – bevor ein Wort geschrieben wird. Für Headlines, Landingpages, E-Mail, Social Media und mehr. Funktioniert für ChatGPT, Claude und Gemini. Sofortiger Download. Für jede Branche einsetzbar.
 
 ## 2. Links
 

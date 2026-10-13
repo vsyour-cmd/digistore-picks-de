@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In diesem Videokurs (Dauer 52min 22sek) erlernt der Käufer wie man kostenlos einen E-Mail Marketing-funnel mit automatisierten E-Mails inkl. Landingpage einrichtet. </p>
-<p>In dem Kurs geht es um die Einrichtung und den Ablauf zum E-Mail Marketingfunnel. Es soll ermöglicht werden so einen Funnel welcher in der Regel 500-1.500€ kostet innerhalb unter 1h einzurichten. Dadurch wird im Videokurs lediglich der Ablauf und die Einrichtung erklärt und das Design und andere Funktionen (wichtig, nicht berücksichtigt).</p>
-<p>Was enthalten ist:</p>
-<p>-&gt; Account Erstellung </p>
-<p>-&gt; Mailfunnel Einrichtung</p>
-<p>-&gt; Automatisch Einrichtung</p>
-<p>-&gt; Landingpage Erstellung</p>
-<p>-&gt; Verknüpfung auf der Landing-Page mit Automation</p>
-<p>-&gt; PDF-Checkliste / Dokument mit rechtlichen Infos (welche auf der Landing-Page und in den Mails mit enthalten sein müssen)</p>
-<p> </p>
-<p>Bitte bindet euren Affiliate Link auf euren Plattformen ein, sodass euer Kunde den Kauf über euren Affiliate Link abwickelt.</p>
-<p>Viel Spaß &amp; gute Provisionen! :)</p>
+**Vendor's marketplace description:** In diesem Videokurs (Dauer 52min 22sek) erlernt der Käufer wie man kostenlos einen E-Mail Marketing-funnel mit automatisierten E-Mails inkl. Landingpage einrichtet. In dem Kurs geht es um die Einrichtung und den Ablauf zum E-Mail Marketingfunnel. Es soll ermöglicht werden so einen Funnel welcher in der Regel 500-1.500€ kostet innerhalb unter 1h einzurichten. Dadurch wird im Videokurs lediglich der Ablauf und die Einrichtung erklärt und das Design und andere Funktionen (wichtig, nicht berücksichtigt). Was enthalten ist: -> Account Erstellung -> Mailfunnel Einrichtung -> Automatisch Einrichtung -> Landingpage Erstellung -> Verknüpfung auf der Landing-Page mit Automation -> PDF-Checkliste / Dokument mit rechtlichen Infos (welche auf der Landing-Page und in den Mails mit enthalten sein müssen) Bitte bindet euren Affiliate Link auf euren Plattformen ein, sodass euer Kunde den Kauf über euren Affiliate Link abwickelt. Viel Spaß & gute Provisionen! :)
 
 ## 2. Links
 

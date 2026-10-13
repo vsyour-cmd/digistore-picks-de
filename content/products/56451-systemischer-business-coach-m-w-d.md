@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Online-Coachingausbildung inkl. Zugang zum digitalen Mitgliederbereich mit sämtlichen Ausbildungsinhalten.</p>
-<p> </p>
-<p>Die Ausbildung umfasst strukturierte Lernmodule, Coaching-Methoden, praxisorientierte Übungen sowie Bonusmaterial zur persönlichen und fachlichen Weiterentwicklung.</p>
-<p> </p>
-<p>Es handelt sich um ein digitales Produkt (Onlinekurs).</p>
+**Vendor's marketplace description:** Online-Coachingausbildung inkl. Zugang zum digitalen Mitgliederbereich mit sämtlichen Ausbildungsinhalten. Die Ausbildung umfasst strukturierte Lernmodule, Coaching-Methoden, praxisorientierte Übungen sowie Bonusmaterial zur persönlichen und fachlichen Weiterentwicklung. Es handelt sich um ein digitales Produkt (Onlinekurs).
 
 ## 2. Links
 

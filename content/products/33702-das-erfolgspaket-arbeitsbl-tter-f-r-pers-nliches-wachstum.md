@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>50% Provision für jeden Verkauf.</h3>
-<p> </p>
-<p><strong>Kurze Beschreibung des Produktes:</strong></p>
-<p>Das Erfolgspaket enthält 17+ Arbeitsblätter für Planung, Reflexion, Organisation, Weiterbildung, Zielesetzung etc. Die besten und wirkungsvollsten Methoden und Werkzeuge, verpackt in 17 selbsterklärenden Arbeitsblättern. Kurze, aber prägnante Tipps und Erklärungen, die den Kunden im Leben auf ein neues Level bringen. Kein langer Video-Kurs mit theoretischem Gelaber. Man kann sofort mit der Umsetzung beginnen.</p>
-<p> </p>
-<p><strong>Deine Vorteile:</strong></p>
-<ul><li>Hohe Provisionen von <strong>50%</strong> für alle Produkte</li>
-<li>Schnelle und professionelle Hilfe bei Problemen</li>
-</ul><p> </p>
-<p>Melde Dich jetzt als Affiliate an und baue Dir ein passives Einkommen auf.</p>
-<p>Wir freuen uns auf eine erfolgreiche Zusammenarbeit!</p>
-<p>Viele Grüße,<br />Eugen und Manuel von einfachtäglich</p>
+**Vendor's marketplace description:** 50% Provision für jeden Verkauf. Kurze Beschreibung des Produktes: Das Erfolgspaket enthält 17+ Arbeitsblätter für Planung, Reflexion, Organisation, Weiterbildung, Zielesetzung etc. Die besten und wirkungsvollsten Methoden und Werkzeuge, verpackt in 17 selbsterklärenden Arbeitsblättern. Kurze, aber prägnante Tipps und Erklärungen, die den Kunden im Leben auf ein neues Level bringen. Kein langer Video-Kurs mit theoretischem Gelaber. Man kann sofort mit der Umsetzung beginnen. Deine Vorteile: Hohe Provisionen von 50% für alle Produkte Schnelle und professionelle Hilfe bei Problemen Melde Dich jetzt als Affiliate an und baue Dir ein passives Einkommen auf. Wir freuen uns auf eine erfolgreiche Zusammenarbeit! Viele Grüße, Eugen und Manuel von einfachtäglich
 
 ## 2. Links
 

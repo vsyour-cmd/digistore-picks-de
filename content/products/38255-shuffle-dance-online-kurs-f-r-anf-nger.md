@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Shuffle Dance tanzen lernen Wann und Wo man will - und das vor allem mit Spaß.</strong></p>
-<p>Es gibt tausende Festival-Liebhaber und Menschen, die Elektro/House Musik feiern.</p>
-<p>Selbst auf Social Media findet man tagtäglich Shuffle Dance Videos mit mehreren tausenden an Views und Likes.</p>
-<p>Als erfahrener Shuffle Dance Trainer habe ich erlebt wie Kinder als auch Erwachsene, sich für die mitreißenden Beats und Moves begeistern lassen konnten und die <strong>Altersgruppe der Tänzer zwischen - 8-60</strong> liegen kann.</p>
-<p>Dieser Shuffle Dance Online Kurs #1 ist einer von einer Reihe von Shuffle Dance Kursen, die in den kommenden Monaten auf den Markt kommen werden.</p>
-<p><strong>#1-#3 der Anfängerkurse sind bereits abgedreht und #4-#6 sind in Planung für 2022.</strong></p>
-<p> </p>
-<p><strong>Dieser Shuffle Dance Onlinekurs beinhaltet 6 Kapitel, 57 Lektionen und über 2 Stunden Videomaterial. </strong></p>
-<p>In diesem Shuffle Dance Online Kurs #1 geht es um die Grundlagen des Shuffle Dance, die ersten Variationsmöglichkeiten und vor allem darum - in seinem eigenen Lerntempo zu trainieren.</p>
-<p>Der Kurs ist ideal für alle tanzbegeisterten Anfänger und bring mit einer guten Struktur, den Spaß am Tanzen nach Hause.</p>
-<p>Es werden die bekanntesten Shuffle Dance Moves unterrichtet, wie zum Beispiel der <strong>Running Man, T-Step, Charleston oder Happyfeet.</strong></p>
-<p>Nach jedem Move und seinen dazugehörigen Variationen, folgt eine Kombination mit den gelernten Schritten, um diese erst langsam und dann immer schneller auf Musik zu üben.</p>
-<p>Anders als bei den üblichen Tutorials, die es überall auf Social Media gibt, werden hier nicht nur Moves, sondern auch Vorübungen zu den Tanzschritten, Trainingstipps zur Geschwindigkeit, Informationen zu Schwerpunktverlagerung und individuelles Feedback gegeben!</p>
-<p> </p>
-<p>Ich freue mich auf alle Kooperationen und stehe für Fragen und Ideen jederzeit zur Verfügung.</p>
-<p> </p>
-<p>Fabian Richt</p>
-<p> </p>
+**Vendor's marketplace description:** Shuffle Dance tanzen lernen Wann und Wo man will - und das vor allem mit Spaß. Es gibt tausende Festival-Liebhaber und Menschen, die Elektro/House Musik feiern. Selbst auf Social Media findet man tagtäglich Shuffle Dance Videos mit mehreren tausenden an Views und Likes. Als erfahrener Shuffle Dance Trainer habe ich erlebt wie Kinder als auch Erwachsene, sich für die mitreißenden Beats und Moves begeistern lassen konnten und die Altersgruppe der Tänzer zwischen - 8-60 liegen kann. Dieser Shuffle Dance Online Kurs #1 ist einer von einer Reihe von Shuffle Dance Kursen, die in den kommenden Monaten auf den Markt kommen werden. #1-#3 der Anfängerkurse sind bereits abgedreht und #4-#6 sind in Planung für 2022. Dieser Shuffle Dance Onlinekurs beinhaltet 6 Kapitel, 57 Lektionen und über 2 Stunden Videomaterial. In diesem Shuffle Dance Online Kurs #1 geht es um die Grundlagen des Shuffle Dance, die ersten Variationsmöglichkeiten und vor allem darum - in seinem eigenen Lerntempo zu trainieren. Der Kurs ist ideal für alle tanzbegeisterten Anfänger und bring mit einer guten Struktur, den Spaß am Tanzen nach Hause. Es werden die bekanntesten Shuffle Dance Moves unterrichtet, wie zum Beispiel der Running Man, T-Step, Charleston oder Happyfeet. Nach jedem Move und seinen dazugehörigen Variationen, folgt eine Kombination mit den gelernten Schritten, um diese erst langsam und dann immer schneller auf Musik zu üben. Anders als bei den üblichen Tutorials, die es überall auf Social Media gibt, werden hier nicht nur Moves, sondern auch Vorübungen zu den Tanzschritten, Trainingstipps zur Geschwindigkeit, Informationen zu Schwerpunktverlagerung und individuelles Feedback gegeben! Ich freue mich auf alle Kooperationen und stehe für Fragen und Ideen jederzeit zur Verfügung. Fabian Richt
 
 ## 2. Links
 

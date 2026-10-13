@@ -41,34 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>EU Digital Wallet Transition Pack 2026/2027 – Unternehmer Edition</strong></p>
-<p>Dieses digitale Produkt ist ein <strong>praktisches PDF-Arbeits- und Vorbereitungspaket für Unternehmen</strong>, die sich auf die EU Digital Identity Wallet und die damit verbundenen digitalen Identitäts-, Login-, Verifizierungs- und Vertragsprozesse vorbereiten möchten.</p>
-<p>Das PDF enthält <strong>41 Seiten mit 36 praxisorientierten Modulen</strong>, Checklisten, Mustertexten, Prozessvorlagen und Arbeitshilfen.</p>
-<p><strong>Geeignet für:</strong></p>
-<ul>
-<li>Selbstständige und kleine Unternehmen</li>
-<li>Online-Shops und Plattformbetreiber</li>
-<li>SaaS- und digitale Dienstleister</li>
-<li>Unternehmen mit Kundenkonten und Login-Systemen</li>
-<li>Anbieter mit Identitäts- oder Altersprüfungen</li>
-<li>Agenturen, Berater und digitale Dienstleister</li>
-</ul>
-<p><strong>Enthalten sind unter anderem:</strong></p>
-<ul>
-<li>10-Schritte-Vorbereitungscheck</li>
-<li>Prüfung bestehender Login- und Identifikationsprozesse</li>
-<li>Kundenverifizierung und Altersnachweise</li>
-<li>digitale Vertrags- und Signaturprozesse</li>
-<li>Datenschutz- und Datenminimierungs-Check</li>
-<li>Kundenkommunikation für Website, E-Mail und FAQ</li>
-<li>technische Vorbereitung verständlich für Nicht-Techniker</li>
-<li>Risiko- und Fehlerprotokolle</li>
-<li>Test- und Pilotplanung</li>
-<li>Roadmap und 30-Tage-Umsetzungsplan</li>
-</ul>
-<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales PDF-Arbeitspaket</strong> und nicht um Software, eine Wallet-App, einen Videokurs oder einen Mitgliederbereich.</p>
-<p>Das Transition Pack unterstützt Unternehmen bei der strukturierten Vorbereitung ihrer digitalen Prozesse. Es ersetzt keine individuelle Rechtsberatung oder technische Implementierung.</p>
-<p><strong>Verkaufspreis: 29,00 €</strong> – digitaler Sofortdownload nach dem Kauf.</p>
+**Vendor's marketplace description:** EU Digital Wallet Transition Pack 2026/2027 – Unternehmer Edition Dieses digitale Produkt ist ein praktisches PDF-Arbeits- und Vorbereitungspaket für Unternehmen , die sich auf die EU Digital Identity Wallet und die damit verbundenen digitalen Identitäts-, Login-, Verifizierungs- und Vertragsprozesse vorbereiten möchten. Das PDF enthält 41 Seiten mit 36 praxisorientierten Modulen , Checklisten, Mustertexten, Prozessvorlagen und Arbeitshilfen. Geeignet für: Selbstständige und kleine Unternehmen Online-Shops und Plattformbetreiber SaaS- und digitale Dienstleister Unternehmen mit Kundenkonten und Login-Systemen Anbieter mit Identitäts- oder Altersprüfungen Agenturen, Berater und digitale Dienstleister Enthalten sind unter anderem: 10-Schritte-Vorbereitungscheck Prüfung bestehender Login- und Identifikationsprozesse Kundenverifizierung und Altersnachweise digitale Vertrags- und Signaturprozesse Datenschutz- und Datenminimierungs-Check Kundenkommunikation für Website, E-Mail und FAQ technische Vorbereitung verständlich für Nicht-Techniker Risiko- und Fehlerprotokolle Test- und Pilotplanung Roadmap und 30-Tage-Umsetzungsplan Wichtig: Es handelt sich ausdrücklich um ein digitales PDF-Arbeitspaket und nicht um Software, eine Wallet-App, einen Videokurs oder einen Mitgliederbereich. Das Transition Pack unterstützt Unternehmen bei der strukturierten Vorbereitung ihrer digitalen Prozesse. Es ersetzt keine individuelle Rechtsberatung oder technische Implementierung. Verkaufspreis: 29,00 € – digitaler Sofortdownload nach dem Kauf.
 
 ## 2. Links
 

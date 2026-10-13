@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Die 12 Musik-Frequenzen als Medizin</h3>
-<div>
-<p> </p>
-<p><strong>„Die Medizin der Zukunft wird eine Medizin der Frequenzen sein!“ </strong><em>Zitat von Albert Einstein</em></p>
-<p> </p>
-<p>⇒ 12 Titel in einem Paket (MP3) – Laufzeit insgesamt 2 Stunden, 19 Minuten und 12 Sekunden</p>
-<p><strong>Verkaufspreis:</strong> <strong>48,00 Euro</strong></p>
-</div>
-<p>Du verdienst 30 % Provision.</p>
-<p>Wir freuen uns auf Dich!</p>
-<p>Herzliche Grüße!</p>
-<p> </p>
+**Vendor's marketplace description:** Die 12 Musik-Frequenzen als Medizin „Die Medizin der Zukunft wird eine Medizin der Frequenzen sein!“ Zitat von Albert Einstein ⇒ 12 Titel in einem Paket (MP3) – Laufzeit insgesamt 2 Stunden, 19 Minuten und 12 Sekunden Verkaufspreis: 48,00 Euro Du verdienst 30 % Provision. Wir freuen uns auf Dich! Herzliche Grüße!
 
 ## 2. Links
 

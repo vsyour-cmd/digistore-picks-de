@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ist deine Website abgesichert gegen Abmahnungen? Der Website-Check analysiert bis zu 20 Unterseiten auf technische Fehler, Datenschutz- und Compliance-Risiken, SEO sowie Performance. Nutzer erhalten einen verständlichen, priorisierten Prüfbericht mit konkreten Verbesserungsvorschlägen – ideal für Selbstständige, Unternehmen und Websitebetreiber.</p>
+**Vendor's marketplace description:** Ist deine Website abgesichert gegen Abmahnungen? Der Website-Check analysiert bis zu 20 Unterseiten auf technische Fehler, Datenschutz- und Compliance-Risiken, SEO sowie Performance. Nutzer erhalten einen verständlichen, priorisierten Prüfbericht mit konkreten Verbesserungsvorschlägen – ideal für Selbstständige, Unternehmen und Websitebetreiber.
 
 ## 2. Links
 

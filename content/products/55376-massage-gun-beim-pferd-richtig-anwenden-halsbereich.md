@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Hals &amp; Genick – Losgelassenheit verbessern und feine Anlehnung ermöglichen</strong></h3>
-<p><br /><strong>Gezielte Massage‑Gun‑Anwendung für Hals &amp; Genick</strong></p>
-<ul>
-<li>Klare Punkte, klare Reihenfolge, sofort umsetzbar</li>
-<li>Ideal bei fester Oberlinie, fehlender Stellung/Biegung und Problemen im Vorwärts‑Abwärts</li>
-<li>Perfekt für Trainer &amp; Pferdebesitzer</li>
-<li>Unterstützt Losgelassenheit, Dehnungshaltung und feine Anlehnung</li>
-</ul>
-<p><strong>50 % Provision auf den Kurs + 70 % auf den Komplettkurs‑Upsell.</strong></p>
+**Vendor's marketplace description:** Hals & Genick – Losgelassenheit verbessern und feine Anlehnung ermöglichen Gezielte Massage‑Gun‑Anwendung für Hals & Genick Klare Punkte, klare Reihenfolge, sofort umsetzbar Ideal bei fester Oberlinie, fehlender Stellung/Biegung und Problemen im Vorwärts‑Abwärts Perfekt für Trainer & Pferdebesitzer Unterstützt Losgelassenheit, Dehnungshaltung und feine Anlehnung 50 % Provision auf den Kurs + 70 % auf den Komplettkurs‑Upsell.
 
 ## 2. Links
 

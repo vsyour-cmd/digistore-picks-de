@@ -41,47 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Nährstoffe für dein Nervensystem</h1>
-<p>Mikronährstoffe, Ernährung und Übungen für Frauen – dein gesamtes Wissen kompakt in einem Buch. Von Alina Hertlein, zertifizierte Beraterin für Nahrungsergänzungsmittel und Stressmanagement.</p>
-<ul>
-<li>146 Seiten kompaktes, verständliches Wissen – kein Fachchinesisch</li>
-<li>Inklusive Tracker &amp; Nährstoff-Tabelle zum direkten Anwenden</li>
-<li>30-60-90-Tage-Plan, mit dem du sofort loslegen kannst</li>
-</ul>
-<p> </p>
-<h2>Du funktionierst. Aber irgendwas stimmt nicht.</h2>
-<p>Du schläfst und bist trotzdem müde. Du bist gereizt, obwohl eigentlich alles okay ist. Dein Kopf ist unruhig, dein Bauch macht Ärger, dein Zyklus spielt verrückt. Du hast schon vieles ausprobiert – Yoga, Meditation, mehr Schlaf – aber niemand hat mit dir über die biochemische Seite gesprochen: darüber, wonach dein Nervensystem tatsächlich hungert.</p>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<h3> </h3>
-<h3>Das Buch ist für dich, wenn …</h3>
-<ul>
-<li>du verstehen willst, wie Nährstoffe dein Nervensystem beeinflussen</li>
-<li>du einen klaren, strukturierten Plan statt loser Tipps willst</li>
-<li>du lieber selbst trackst und Zusammenhänge verstehst, als blind Präparate zu kaufen</li>
-<li>du bereit bist, 30–90 Tage dranzubleiben</li>
-</ul>
-<p> </p>
-<h3>Das Buch ist nicht für dich, wenn …</h3>
-<ul>
-<li>du akute Beschwerden hast, die ärztlich abgeklärt werden müssen</li>
-<li>du eine schnelle Wunderlösung ohne eigenes Zutun suchst</li>
-<li>du keine Bereitschaft hast, Gewohnheiten zu hinterfragen</li>
-</ul>
-<h2> </h2>
-<h2>Hör auf zu raten. Fang an zu verstehen.</h2>
-<p>146 Seiten, ein klarer Plan, ein Nervensystem, das wieder zu dir passt.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<p> </p>
+**Vendor's marketplace description:** Nährstoffe für dein Nervensystem Mikronährstoffe, Ernährung und Übungen für Frauen – dein gesamtes Wissen kompakt in einem Buch. Von Alina Hertlein, zertifizierte Beraterin für Nahrungsergänzungsmittel und Stressmanagement. 146 Seiten kompaktes, verständliches Wissen – kein Fachchinesisch Inklusive Tracker & Nährstoff-Tabelle zum direkten Anwenden 30-60-90-Tage-Plan, mit dem du sofort loslegen kannst Du funktionierst. Aber irgendwas stimmt nicht. Du schläfst und bist trotzdem müde. Du bist gereizt, obwohl eigentlich alles okay ist. Dein Kopf ist unruhig, dein Bauch macht Ärger, dein Zyklus spielt verrückt. Du hast schon vieles ausprobiert – Yoga, Meditation, mehr Schlaf – aber niemand hat mit dir über die biochemische Seite gesprochen: darüber, wonach dein Nervensystem tatsächlich hungert. Das Buch ist für dich, wenn … du verstehen willst, wie Nährstoffe dein Nervensystem beeinflussen du einen klaren, strukturierten Plan statt loser Tipps willst du lieber selbst trackst und Zusammenhänge verstehst, als blind Präparate zu kaufen du bereit bist, 30–90 Tage dranzubleiben Das Buch ist nicht für dich, wenn … du akute Beschwerden hast, die ärztlich abgeklärt werden müssen du eine schnelle Wunderlösung ohne eigenes Zutun suchst du keine Bereitschaft hast, Gewohnheiten zu hinterfragen Hör auf zu raten. Fang an zu verstehen. 146 Seiten, ein klarer Plan, ein Nervensystem, das wieder zu dir passt.
 
 ## 2. Links
 

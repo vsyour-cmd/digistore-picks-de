@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Mediensucht stoppen"</strong></p>
-<p>Bildschirme bestimmen den Familienalltag? Dieser Ratgeber zeigt Erwachsenen und Kindern einen realistischen Weg zu gesünderem Medienkonsum – mit klaren Familienregeln, schönen Alternativen und ohne ständigen Streit.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe: Sucht &amp; Entzug / Selbsthilfe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Erkennen, wann Mediennutzung zum Problem wird</li>
-<li>Verstehen, wie Apps und Medien fesseln</li>
-<li>Klare Medienregeln für die ganze Familie finden</li>
-<li>Kinder altersgerecht begleiten statt nur verbieten</li>
-<li>Bildschirmfreie Zeiten und schöne Alternativen schaffen</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Menschen, die eine Sucht oder schlechte Gewohnheit überwinden wollen – Gesundheits- &amp; Persönlichkeitsentwicklungs-Zielgruppe</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Mediensucht stoppen" Bildschirme bestimmen den Familienalltag? Dieser Ratgeber zeigt Erwachsenen und Kindern einen realistischen Weg zu gesünderem Medienkonsum – mit klaren Familienregeln, schönen Alternativen und ohne ständigen Streit. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe: Sucht & Entzug / Selbsthilfe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Erkennen, wann Mediennutzung zum Problem wird Verstehen, wie Apps und Medien fesseln Klare Medienregeln für die ganze Familie finden Kinder altersgerecht begleiten statt nur verbieten Bildschirmfreie Zeiten und schöne Alternativen schaffen Für deine Zielgruppe: Menschen, die eine Sucht oder schlechte Gewohnheit überwinden wollen – Gesundheits- & Persönlichkeitsentwicklungs-Zielgruppe Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

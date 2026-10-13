@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><span style="font-size:18px;">Kapitalkongress Kongresspaket</span></strong></p>
-<p><span style="background-color:#ff9900;"><strong>Du erhältst 50% Provision für jedes verkaufte Kongresspaket</strong></span></p>
-<p><span style="text-decoration:underline;">Kapitalkongress Evergreen (Wie funktioniert es): </span><br />Die Teilnehmer können sich über die Landingpage kostenfrei für die Aufzeichnungen des Kapitalkongress März 2026 eintragen und erhalten 4 Tage Zugang zu allen Interviews und Vorträgen.</p>
-<p>Nach Ablaufen der 4 Tage wird der Zugang entzogen. Während und nach den 4 Tagen bekommt der Teilnehmer immer wieder das Kongresspaket angeboten. </p>
-<p>Wird ein Kongresspaket über dich verkauft, erhältst du 50% vom Verdienst am Kongresspaket (Es wird für alle Kongressteilnehmer im Angebot für 97€ verkauft)</p>
-<p> </p>
-<p>Was ist im Kongresspaket enthalten:</p>
-<ul>
-<li>Zugang zu allen Interviews und Vorträgen des Kapitalkongress März 2026</li>
-<li>Exklusives Bonus Material der Speaker</li>
-<li>Gutscheincodes für tolle Angebote der Speaker</li>
-</ul>
-<p><br />Zum Bewerben benutze bitte folgenden Link und trage an der Stelle "AFFILIATE" deine Digistore24 ID ein:<br /><a href="https://www.digistore24.com/content/663277/54465/AFFILIATE/CAMPAIGNKEY" target="_blank" rel="noreferrer noopener">https://www.digistore24.com/content/663277/54465/AFFILIATE/CAMPAIGNKEY</a></p>
+**Vendor's marketplace description:** Kapitalkongress Kongresspaket Du erhältst 50% Provision für jedes verkaufte Kongresspaket Kapitalkongress Evergreen (Wie funktioniert es): Die Teilnehmer können sich über die Landingpage kostenfrei für die Aufzeichnungen des Kapitalkongress März 2026 eintragen und erhalten 4 Tage Zugang zu allen Interviews und Vorträgen. Nach Ablaufen der 4 Tage wird der Zugang entzogen. Während und nach den 4 Tagen bekommt der Teilnehmer immer wieder das Kongresspaket angeboten. Wird ein Kongresspaket über dich verkauft, erhältst du 50% vom Verdienst am Kongresspaket (Es wird für alle Kongressteilnehmer im Angebot für 97€ verkauft) Was ist im Kongresspaket enthalten: Zugang zu allen Interviews und Vorträgen des Kapitalkongress März 2026 Exklusives Bonus Material der Speaker Gutscheincodes für tolle Angebote der Speaker Zum Bewerben benutze bitte folgenden Link und trage an der Stelle "AFFILIATE" deine Digistore24 ID ein: https://www.digistore24.com/content/663277/54465/AFFILIATE/CAMPAIGNKEY
 
 ## 2. Links
 

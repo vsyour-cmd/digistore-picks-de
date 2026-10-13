@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>„Wieder Aufstehen – Eine Lebensgeschichte“ ist die ehrliche und bewegende Geschichte von Gerd Hopfstock. Nach fast 40 Jahren im Beruf folgen Kündigung, der Verlust seiner Partnerin, ein Suizidversuch, Koma und schließlich der Weg zurück ins Leben.</strong></p>
-<p><strong>Das Buch richtet sich an Menschen, die selbst schwere Zeiten, Verluste, Rückschläge oder einen persönlichen Neuanfang erlebt haben. Es vermittelt Mut, Hoffnung und die Botschaft, dass ein neuer Anfang immer möglich ist.</strong></p>
-<p><strong>Für Affiliates bietet das Produkt eine klare emotionale Zielgruppe und vielseitige Werbemöglichkeiten über Social Media, Newsletter, Blogs, Podcasts und persönliche Empfehlungen.</strong></p>
-<p><strong>Ihre Vorteile als Affiliate:</strong></p>
-<ul>
-<li><strong>50 % Provision pro Verkauf</strong></li>
-<li><strong>ein authentisches Produkt mit echter Geschichte</strong></li>
-<li><strong>eine große Zielgruppe im Bereich Persönlichkeitsentwicklung, Lebenshilfe und Neubeginn</strong></li>
-<li><strong>automatische Genehmigung der Partnerschaft</strong></li>
-<li><strong>fertige Werbetexte und Werbemittel werden bereitgestellt</strong></li>
-</ul>
-<p><strong>Dieses Buch eignet sich besonders für Coaches, Buchblogger, Mutmacher-Seiten, Trauerbegleiter, Newsletter-Betreiber und Menschen, die ihrer Community Hoffnung und neue Perspektiven vermitteln möchten.</strong></p>
+**Vendor's marketplace description:** „Wieder Aufstehen – Eine Lebensgeschichte“ ist die ehrliche und bewegende Geschichte von Gerd Hopfstock. Nach fast 40 Jahren im Beruf folgen Kündigung, der Verlust seiner Partnerin, ein Suizidversuch, Koma und schließlich der Weg zurück ins Leben. Das Buch richtet sich an Menschen, die selbst schwere Zeiten, Verluste, Rückschläge oder einen persönlichen Neuanfang erlebt haben. Es vermittelt Mut, Hoffnung und die Botschaft, dass ein neuer Anfang immer möglich ist. Für Affiliates bietet das Produkt eine klare emotionale Zielgruppe und vielseitige Werbemöglichkeiten über Social Media, Newsletter, Blogs, Podcasts und persönliche Empfehlungen. Ihre Vorteile als Affiliate: 50 % Provision pro Verkauf ein authentisches Produkt mit echter Geschichte eine große Zielgruppe im Bereich Persönlichkeitsentwicklung, Lebenshilfe und Neubeginn automatische Genehmigung der Partnerschaft fertige Werbetexte und Werbemittel werden bereitgestellt Dieses Buch eignet sich besonders für Coaches, Buchblogger, Mutmacher-Seiten, Trauerbegleiter, Newsletter-Betreiber und Menschen, die ihrer Community Hoffnung und neue Perspektiven vermitteln möchten.
 
 ## 2. Links
 

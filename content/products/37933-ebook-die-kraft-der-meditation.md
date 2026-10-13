@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffffff;color:#800080;"><strong>eBook – Die Kraft der Meditation.</strong></span></p>
-<p><span style="color:#800080;"><span style="background-color:#ffffff;">Kunden erleben unser H | H Geheimnis, welches</span> völlig neu und einzigartig ist. </span><strong> </strong></p>
-<p><span style="background-color:#ffff99;"><strong>Durch dieses E-Book besteht ein toller Zugang zu Neu-Kunden</strong></span></p>
-<p><span style="background-color:#ffff99;color:#800080;"><strong>Schau dir unsere Produktpalette in Digistore24 an. Somit hast du ein eBook und anschließend eine Vielzahl an Produkten welche du verkaufen kannst.</strong></span></p>
-<p><span style="background-color:#ffffff;color:#ff0000;"><strong>Mit unserer <span style="background-color:#ffff99;">gesamten Produktpalette</span> sind im Jahr <span style="background-color:#ffff99;">ca. 200.000 € Provisionen</span> zu erwirtschaften.</strong></span></p>
-<p><strong>Ist dein <span style="color:#ff6600;">Interesse geweckt</span>, dann setz dich mit uns in Verbindung. Wir können auch <span style="color:#ff6600;">spezielle Aktionen</span> fahren. Je nach dem, was du bewerben möchtest und in welcher Intensität.</strong></p>
-<p> </p>
-<div>Weitere Infos über uns:</div>
-<div><a>www.hh-akademie.at</a></div>
-<div> </div>
-<div>Unsere Affiliate Support Seite:</div>
-<div>
-<div><a>https://hh-akademie.at/digistore24-support-affiliate/</a></div>
-</div>
-<div> </div>
-<div> </div>
-<div> </div>
+**Vendor's marketplace description:** eBook – Die Kraft der Meditation. Kunden erleben unser H | H Geheimnis, welches völlig neu und einzigartig ist. Durch dieses E-Book besteht ein toller Zugang zu Neu-Kunden Schau dir unsere Produktpalette in Digistore24 an. Somit hast du ein eBook und anschließend eine Vielzahl an Produkten welche du verkaufen kannst. Mit unserer gesamten Produktpalette sind im Jahr ca. 200.000 € Provisionen zu erwirtschaften. Ist dein Interesse geweckt , dann setz dich mit uns in Verbindung. Wir können auch spezielle Aktionen fahren. Je nach dem, was du bewerben möchtest und in welcher Intensität. Weitere Infos über uns: www.hh-akademie.at Unsere Affiliate Support Seite: https://hh-akademie.at/digistore24-support-affiliate/
 
 ## 2. Links
 

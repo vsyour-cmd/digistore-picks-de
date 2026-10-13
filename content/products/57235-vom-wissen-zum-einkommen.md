@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Vom Wissen zum Einkommen“</strong></p>
-<p>Dein ehrlicher Start als Coach oder Berater – Dein Wissen kann anderen helfen. Wie du als Coach oder Berater startest: Nische und Angebot finden, Pakete und Preise gestalten, erste Klienten gewinnen und gute Gespräche führen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Was Coaching und Beratung wirklich bedeuten</li>
-<li>Deine Nische, dein Angebot und faire Preise finden</li>
-<li>Die ersten Klienten gewinnen – auch ohne Reichweite</li>
-<li>Recht, Steuern und die Grenzen des Coachings kennen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Vom Wissen zum Einkommen“ Dein ehrlicher Start als Coach oder Berater – Dein Wissen kann anderen helfen. Wie du als Coach oder Berater startest: Nische und Angebot finden, Pakete und Preise gestalten, erste Klienten gewinnen und gute Gespräche führen. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Was Coaching und Beratung wirklich bedeuten Deine Nische, dein Angebot und faire Preise finden Die ersten Klienten gewinnen – auch ohne Reichweite Recht, Steuern und die Grenzen des Coachings kennen
 
 ## 2. Links
 

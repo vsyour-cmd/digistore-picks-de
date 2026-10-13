@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><span style="background-color:#ff9900;color:#ffffff;">Der Content König - Dein Ass im Ärmel für automatisches erfolgreiches Content Marketing mit "Künstlicher Intelligenz"</span></h1>
-<div>
-<p><strong>100 % automatische XXL-Artikelerstellung mit "KI" und "menschlich geschriebenen Artikel - zu jedem The</strong><strong>ma und Nische mit automtischem Posting.</strong></p>
-<p>Hast du jemals vom "<strong>Content König</strong>" gehört? Nein? Dann solltest du jetzt unbedingt weiterlesen.</p>
-<p>Der "<strong>Content König</strong>" ist ein <strong>revolutionäres</strong> <strong>Premium WordPress-Plugin</strong>, das dir hilft, <strong>hochwertige XXL-Artikel</strong> zu erstellen und zu posten zu lassen, fertig formatiert inkl. passendem Bild - und das <strong>100% vollautomatisch</strong> zu jeder gewünschten Tages und Nachtzeit!</p>
-<p>Der Content König erstellt und postet "<strong>menschliche geschriebene" KI-XXL-Artikel</strong> auf deine Wordpress-Seite.  </p>
-<p>Funktioniert in jeder Nische, zu jedem Thema!</p>
-<p> </p>
-</div>
+**Vendor's marketplace description:** Der Content König - Dein Ass im Ärmel für automatisches erfolgreiches Content Marketing mit "Künstlicher Intelligenz" 100 % automatische XXL-Artikelerstellung mit "KI" und "menschlich geschriebenen Artikel - zu jedem The ma und Nische mit automtischem Posting. Hast du jemals vom " Content König " gehört? Nein? Dann solltest du jetzt unbedingt weiterlesen. Der " Content König " ist ein revolutionäres Premium WordPress-Plugin , das dir hilft, hochwertige XXL-Artikel zu erstellen und zu posten zu lassen, fertig formatiert inkl. passendem Bild - und das 100% vollautomatisch zu jeder gewünschten Tages und Nachtzeit! Der Content König erstellt und postet " menschliche geschriebene" KI-XXL-Artikel auf deine Wordpress-Seite. Funktioniert in jeder Nische, zu jedem Thema!
 
 ## 2. Links
 

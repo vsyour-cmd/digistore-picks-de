@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Provisionen, die verkaufen“</strong></p>
-<p>Das Vergütungsmodell der Top-Vendoren – Das Provisionsmodell entscheidet, ob Affiliates dein Produkt bewerben. Prozent, Fix und Stufen, wiederkehrende Provisionen, Boni und Anreize, faires Kalkulieren sowie Tracking und Auszahlung.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Warum das Provisionsmodell über den Erfolg entscheidet</li>
-<li>Prozent, Fix, Stufen und wiederkehrende Provisionen</li>
-<li>Fair kalkulieren: Umsatz ist nicht Gewinn</li>
-<li>Tracking, Auszahlung und transparente Bedingungen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Provisionen, die verkaufen“ Das Vergütungsmodell der Top-Vendoren – Das Provisionsmodell entscheidet, ob Affiliates dein Produkt bewerben. Prozent, Fix und Stufen, wiederkehrende Provisionen, Boni und Anreize, faires Kalkulieren sowie Tracking und Auszahlung. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Warum das Provisionsmodell über den Erfolg entscheidet Prozent, Fix, Stufen und wiederkehrende Provisionen Fair kalkulieren: Umsatz ist nicht Gewinn Tracking, Auszahlung und transparente Bedingungen
 
 ## 2. Links
 

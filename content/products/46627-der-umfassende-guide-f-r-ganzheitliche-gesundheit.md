@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><strong><u>Entdecken Sie in "Lebenskraft und Wohlbefinden: Der umfassende Guide für ganzheitliche Gesundheit" die Geheimnisse eines gesunden Lebens.</u></strong></p>
-<p style="text-align:center;">Dieses E-Book bietet fundiertes Wissen und praktische Tipps zu wichtigen <strong><u>Gesundheitsaspekten – von Ernährung und Fitness</u></strong> bis hin zu <u>mentaler Stärke und Umweltgesundheit</u>. Erfahren Sie, wie Sie Ihre <strong>Gesundheit durch bewusste Ernährung</strong> und <u>körperliche Aktivität verbessern</u>, <strong>Stress effektiv bewältigen</strong> und Ihr <strong><u>Immunsystem stärken</u></strong> können.</p>
-<p style="text-align:center;">Mit Kapiteln über <strong><u>Schlaf, Alterspflege, psychische Gesundheit am Arbeitsplatz</u></strong> und vieles mehr, ist dieses Buch ein unverzichtbarer Ratgeber für jeden, der ein gesünderes, ausgeglicheneres Leben anstrebt.</p>
-<p style="text-align:center;">Egal ob Sie Wege zur <u>Stressbewältigung</u> suchen, sich für <strong>Alternativmedizin</strong> interessieren oder sich über die <strong><u>neuesten Gesundheitstrends</u></strong> informieren möchten – dieses Buch hat alles, was Sie brauchen.  </p>
+**Vendor's marketplace description:** Entdecken Sie in "Lebenskraft und Wohlbefinden: Der umfassende Guide für ganzheitliche Gesundheit" die Geheimnisse eines gesunden Lebens. Dieses E-Book bietet fundiertes Wissen und praktische Tipps zu wichtigen Gesundheitsaspekten – von Ernährung und Fitness bis hin zu mentaler Stärke und Umweltgesundheit . Erfahren Sie, wie Sie Ihre Gesundheit durch bewusste Ernährung und körperliche Aktivität verbessern , Stress effektiv bewältigen und Ihr Immunsystem stärken können. Mit Kapiteln über Schlaf, Alterspflege, psychische Gesundheit am Arbeitsplatz und vieles mehr, ist dieses Buch ein unverzichtbarer Ratgeber für jeden, der ein gesünderes, ausgeglicheneres Leben anstrebt. Egal ob Sie Wege zur Stressbewältigung suchen, sich für Alternativmedizin interessieren oder sich über die neuesten Gesundheitstrends informieren möchten – dieses Buch hat alles, was Sie brauchen.
 
 ## 2. Links
 

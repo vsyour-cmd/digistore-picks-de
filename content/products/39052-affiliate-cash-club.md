@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2 style="text-align:center;"><span style="background-color:#ffff00;color:#ff0000;"><strong>Einzigartiges System für Affiliates</strong></span></h2>
-<h2 style="text-align:center;"><span style="background-color:#ffff00;color:#ff0000;"><strong> Weltweit einzigartig </strong></span></h2>
-<p> </p>
-<p><strong>Der Affiliate Cash Club ist die perfekte Kombination aus Strategie und Software.</strong></p>
-<p> </p>
-<h4 style="text-align:left;text-decoration:underline;">Deine Vorteile:</h4>
-<p>- 108,15 € Provision pro Verkauf</p>
-<p>- Multi Device Tracking</p>
-<p>- Automatischer Affiliates Aufbau</p>
-<p>- Einzigartiges System</p>
-<p> </p>
-<p>Du verdienst nicht nur eine Provision, wenn du den Affiliate Cash Club verkaufst, sondern du gewinnst gleichzeitig einen Affiliate an dem du 20 % auf 2 Ebene mitverdienst.<br /><br />Im Hintergrund haben wir eine E-Mail Kampagne laufen für potenzielle Kunden die durch dich geworben werden. Sollte der potenzielle Kunde über einer unsere Mail kaufen, wird dir auch die Provision gutgeschrieben.</p>
-<p><strong> </strong></p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Einzigartiges System für Affiliates Weltweit einzigartig Der Affiliate Cash Club ist die perfekte Kombination aus Strategie und Software. Deine Vorteile: - 108,15 € Provision pro Verkauf - Multi Device Tracking - Automatischer Affiliates Aufbau - Einzigartiges System Du verdienst nicht nur eine Provision, wenn du den Affiliate Cash Club verkaufst, sondern du gewinnst gleichzeitig einen Affiliate an dem du 20 % auf 2 Ebene mitverdienst. Im Hintergrund haben wir eine E-Mail Kampagne laufen für potenzielle Kunden die durch dich geworben werden. Sollte der potenzielle Kunde über einer unsere Mail kaufen, wird dir auch die Provision gutgeschrieben.
 
 ## 2. Links
 

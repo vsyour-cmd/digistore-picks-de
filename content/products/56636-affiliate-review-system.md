@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-
-<div>
-<p><strong>Mit dem Affiliate Review System erstellst du professionelle Affiliate-Reviews deutlich schneller</strong> – ohne komplizierte Technik, ohne WordPress-Zwang und ohne Datenbank.</p>
-<p>Das System kombiniert vorbereitete Review-Templates, eine fertige Webseiten-Struktur und einen speziellen ChatGPT-Master-Prompt, damit du moderne Review-Seiten in wenigen Minuten erstellen kannst.</p>
-<h3>Das erwartet dich:</h3>
-<ul>
-<li>Professionelle Affiliate-Review-Templates</li>
-<li>Fertige Webseiten-Struktur</li>
-<li>ChatGPT-Master-Prompt für schnelle Reviews</li>
-<li>Einfach anpassbar</li>
-<li>Ohne Datenbank</li>
-<li>Ohne WordPress notwendig</li>
-<li>Schnell auf normalem Webspace einsetzbar</li>
-</ul>
-<p>Ideal für alle, die Affiliate-Marketing einfacher, strukturierter und professioneller umsetzen möchten.</p>
-</div>
-<div><a href="https://www.imhub.de/lp/affiliates" target="_blank" rel="noreferrer noopener">Hier findest du Werbematerialien</a></div>
-<div>
-<div> </div>
-</div>
-
-</div>
-<div> </div>
+**Vendor's marketplace description:** Mit dem Affiliate Review System erstellst du professionelle Affiliate-Reviews deutlich schneller – ohne komplizierte Technik, ohne WordPress-Zwang und ohne Datenbank. Das System kombiniert vorbereitete Review-Templates, eine fertige Webseiten-Struktur und einen speziellen ChatGPT-Master-Prompt, damit du moderne Review-Seiten in wenigen Minuten erstellen kannst. Das erwartet dich: Professionelle Affiliate-Review-Templates Fertige Webseiten-Struktur ChatGPT-Master-Prompt für schnelle Reviews Einfach anpassbar Ohne Datenbank Ohne WordPress notwendig Schnell auf normalem Webspace einsetzbar Ideal für alle, die Affiliate-Marketing einfacher, strukturierter und professioneller umsetzen möchten. Hier findest du Werbematerialien
 
 ## 2. Links
 

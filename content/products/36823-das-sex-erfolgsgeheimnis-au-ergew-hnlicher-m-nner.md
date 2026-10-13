@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<p><strong>Herzlich Willkommen in meinem Affiliate-Bereich,</strong></p>
-<p>ich bin Matthias und es freut mich, dich hier begrüßen zu dürfen. </p>
-<p>Meine Dating-Kurse-Ratgeber liefern <strong>echten Mehrwert</strong> und der Verkaufsfunnel beschert dir reichlich Provisionen, <strong>satte 50 % auf JEDES Produkt</strong>, also auch 50 % auf alle Upsells und Downsells <strong>UND</strong> <strong>25 %</strong> auf alle direkten Upsells vom Flagship Online-Coaching-Kurs <strong><em>"Der intuitive Verführer"</em></strong>.</p>
-<p>In meinem Verkaufsfunnel erhält der Kunde folgende Produkte in folgender Reihenfolge angezeigt:</p>
-<ul>
-<li>Frontend: <em>Freundin finden / Frauen angstrei ansprechen Bundle</em> - E-Book - Preis:<strong> € 4,99</strong> - Provision 50%</li>
-<li>Upsell 1: <em>(Sex-)Erfolgsgeheimnisse außergewöhnlicher Männer - Online-Kurs - Preis: € 27,- - <strong>Provision 50%</strong></em></li>
-<li>Upsell 2: <em>Der außergewöhnliche Mann - Online-Kurs - Preis: <strong>€ 397,-</strong>  - <strong>Provision 50%</strong></em></li>
-<li><em>Upsell 3: "Der intuitive Verführer" - Online-Coaching-Programm - Preis<strong> € 1.997,-</strong> - P</em><strong>rovision 25 % ODER Option </strong>VIP - Preis <strong>€ 3.997,-</strong> - <strong>Provision 25 %</strong></li>
-</ul>
-<p><strong>================================</strong></p>
-<p><strong>INHALT von Das (Sex-)Erfolgsgeheimnis außergewöhnlicher Männer:</strong></p>
-<p>Willst Du weiterhin selber einsam Hand anlegen, anstatt realen tabulosen Sex zu erleben?</p>
-</div>
-<div>
-<ul>
-<li>Erfahre die 5 nachweislichen, radikalen Veränderungen, wenn Du das (Sex-)Erfolgsgeheimnis für Dich nutzt </li>
-<li>Erhalte eine einfache Übung, mit der Du sofort testen kannst, ob Du ein Leck im Getriebe hast, das Deine Liebhaber-Qualitäten blockiert</li>
-<li>Erfahre, ob Dein hoher Testosteronwert Dich daran hindert, das (Sex-)Erfolgsgeheimnis zu nutzen</li>
-<li>5 simple Strategien, mit denen Du das (Sex-)Erfolgsgeheimnis, sofort aktivierst und davon profitierst </li>
-<li>Mit dieser Methode gehörst Du zu den 1 % der Männer, die dieses (Sex-)Erfolgsgeheimnis nutzen, und sich damit an der Spitze platzieren</li>
-</ul>
-</div>
+**Vendor's marketplace description:** Herzlich Willkommen in meinem Affiliate-Bereich, ich bin Matthias und es freut mich, dich hier begrüßen zu dürfen. Meine Dating-Kurse-Ratgeber liefern echten Mehrwert und der Verkaufsfunnel beschert dir reichlich Provisionen, satte 50 % auf JEDES Produkt , also auch 50 % auf alle Upsells und Downsells UND 25 % auf alle direkten Upsells vom Flagship Online-Coaching-Kurs "Der intuitive Verführer" . In meinem Verkaufsfunnel erhält der Kunde folgende Produkte in folgender Reihenfolge angezeigt: Frontend: Freundin finden / Frauen angstrei ansprechen Bundle - E-Book - Preis: € 4,99 - Provision 50% Upsell 1: (Sex-)Erfolgsgeheimnisse außergewöhnlicher Männer - Online-Kurs - Preis: € 27,- - Provision 50% Upsell 2: Der außergewöhnliche Mann - Online-Kurs - Preis: € 397,- - Provision 50% Upsell 3: "Der intuitive Verführer" - Online-Coaching-Programm - Preis € 1.997,- - P rovision 25 % ODER Option VIP - Preis € 3.997,- - Provision 25 % ================================ INHALT von Das (Sex-)Erfolgsgeheimnis außergewöhnlicher Männer: Willst Du weiterhin selber einsam Hand anlegen, anstatt realen tabulosen Sex zu erleben? Erfahre die 5 nachweislichen, radikalen Veränderungen, wenn Du das (Sex-)Erfolgsgeheimnis für Dich nutzt Erhalte eine einfache Übung, mit der Du sofort testen kannst, ob Du ein Leck im Getriebe hast, das Deine Liebhaber-Qualitäten blockiert Erfahre, ob Dein hoher Testosteronwert Dich daran hindert, das (Sex-)Erfolgsgeheimnis zu nutzen 5 simple Strategien, mit denen Du das (Sex-)Erfolgsgeheimnis, sofort aktivierst und davon profitierst Mit dieser Methode gehörst Du zu den 1 % der Männer, die dieses (Sex-)Erfolgsgeheimnis nutzen, und sich damit an der Spitze platzieren
 
 ## 2. Links
 

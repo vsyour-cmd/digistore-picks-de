@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein hochaktuelles Sachbuch im stark wachsenden Nachhaltigkeits- und Gesellschaftsmarkt, das ein engagiertes, bildungsnahes Publikum aus Umweltbewussten, Entscheidern und Zukunftsdenkern anspricht.</p>
-<p>Die Verbindung aus ökologischer Dringlichkeit, konkreten Lösungsansätzen und systemischer Gesellschaftsanalyse schafft eine außergewöhnlich starke inhaltliche Tiefe mit hohem Mehrwert.</p>
-<p>Themen wie Klimawandel, regionale Selbstversorgung und nachhaltige Lebensmodelle bieten enorme Relevanz und vielfältige Hook-Ansätze für Content, Ads und Aufklärungskampagnen.</p>
-<p>Durch die klare Vision einer neuen Lebens- und Wirtschaftsweise entsteht ein starkes Identifikationspotenzial bei einer kaufkräftigen, werteorientierten Zielgruppe.</p>
-<p>Ein inhaltlich umfangreiches, differenziertes Produkt mit hoher Glaubwürdigkeit und exzellentem Potenzial für langfristig performende Affiliate-Kampagnen.</p>
+**Vendor's marketplace description:** Ein hochaktuelles Sachbuch im stark wachsenden Nachhaltigkeits- und Gesellschaftsmarkt, das ein engagiertes, bildungsnahes Publikum aus Umweltbewussten, Entscheidern und Zukunftsdenkern anspricht. Die Verbindung aus ökologischer Dringlichkeit, konkreten Lösungsansätzen und systemischer Gesellschaftsanalyse schafft eine außergewöhnlich starke inhaltliche Tiefe mit hohem Mehrwert. Themen wie Klimawandel, regionale Selbstversorgung und nachhaltige Lebensmodelle bieten enorme Relevanz und vielfältige Hook-Ansätze für Content, Ads und Aufklärungskampagnen. Durch die klare Vision einer neuen Lebens- und Wirtschaftsweise entsteht ein starkes Identifikationspotenzial bei einer kaufkräftigen, werteorientierten Zielgruppe. Ein inhaltlich umfangreiches, differenziertes Produkt mit hoher Glaubwürdigkeit und exzellentem Potenzial für langfristig performende Affiliate-Kampagnen.
 
 ## 2. Links
 

@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In diesem Zirbeldrüsen Masterkurs lernen die Nutzer wirkungsvolle Techniken, um die Zirbeldrüse zu aktivieren, die jeder im Alltag anwenden kann und durch ein erweitertes Bewusstsein zu seiner kosmischen Anbindung zurückfindet.</p>
-<p>Alle Geheimnisse der Zirbeldrüse und wie man sie für das unsägliche Wohl von sich selbst und seinen Liebsten einsetzt.</p>
-<ul>
-<li>
-<p>Praktische Übungen &amp; Tools zur Aktivierung der Zirbeldrüse</p>
-</li>
-<li>
-<p>Vertiefung des Verständnisses des "Dritten Auges"</p>
-</li>
-<li>
-<p>Tipps, was im Alltag zu vermeiden ist</p>
-</li>
-<li>
-<p>Bestimmung des Aktivitätsgrads der eigenen Zirbeldrüse</p>
-</li>
-<li>
-<p>Einfluss von Klängen, Frequenzen und Umgebung auf die Bewusstseinserweiterung</p>
-</li>
-<li>
-<p>und vieles mehr</p>
-</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** In diesem Zirbeldrüsen Masterkurs lernen die Nutzer wirkungsvolle Techniken, um die Zirbeldrüse zu aktivieren, die jeder im Alltag anwenden kann und durch ein erweitertes Bewusstsein zu seiner kosmischen Anbindung zurückfindet. Alle Geheimnisse der Zirbeldrüse und wie man sie für das unsägliche Wohl von sich selbst und seinen Liebsten einsetzt. Praktische Übungen & Tools zur Aktivierung der Zirbeldrüse Vertiefung des Verständnisses des "Dritten Auges" Tipps, was im Alltag zu vermeiden ist Bestimmung des Aktivitätsgrads der eigenen Zirbeldrüse Einfluss von Klängen, Frequenzen und Umgebung auf die Bewusstseinserweiterung und vieles mehr
 
 ## 2. Links
 

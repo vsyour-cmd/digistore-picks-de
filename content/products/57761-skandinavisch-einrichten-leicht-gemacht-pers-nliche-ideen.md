@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Das digitale Planungs- und Inspirationsbuch für deine individuelle Wohnraumgestaltung</h2>
-<p>Verwandle deine Einrichtungsideen in ein durchdachtes Wohnkonzept. Mit <strong>„Skandinavisch einrichten leicht gemacht – Persönliche Ideen“</strong> erhältst du weit mehr als ein gewöhnliches E-Book – es ist dein persönlicher Wohnplaner, Ideensammler und Kreativbegleiter für ein Zuhause im beliebten skandinavischen Stil.</p>
-<h2>Das erwartet dich</h2>
-<p>✔ Einführung in den skandinavischen Wohnstil und seine wichtigsten Gestaltungsprinzipien</p>
-<p>✔ Wandfarben-Planer für harmonische Farbkonzepte</p>
-<p>✔ Materialfirmen- und Baumarktübersicht für eine einfache Projektplanung</p>
-<p>✔ Terminplaner zur Organisation deiner Einrichtungsvorhaben</p>
-<p>✔ Aufgabenlisten für jeden Projektschritt</p>
-<p>✔ Farbauftrags-Planer für Wand- und Gestaltungsarbeiten</p>
-<p>✔ Zimmerplaner zur Entwicklung individueller Raumkonzepte</p>
-<p>✔ Farbenplaner für Farbkombinationen und Materialideen</p>
-<p>✔ Grundriss-Planer zur optimalen Raumaufteilung</p>
-<p>✔ Moodboard-Seiten für Möbel-, Stoff- und Dekorationsideen</p>
-<p>✔ Monatlicher Planer für langfristige Einrichtungsprojekte</p>
-<p>✔ Viel Platz für persönliche Notizen, Skizzen und kreative Ideen</p>
-<p> </p>
+**Vendor's marketplace description:** Das digitale Planungs- und Inspirationsbuch für deine individuelle Wohnraumgestaltung Verwandle deine Einrichtungsideen in ein durchdachtes Wohnkonzept. Mit „Skandinavisch einrichten leicht gemacht – Persönliche Ideen“ erhältst du weit mehr als ein gewöhnliches E-Book – es ist dein persönlicher Wohnplaner, Ideensammler und Kreativbegleiter für ein Zuhause im beliebten skandinavischen Stil. Das erwartet dich ✔ Einführung in den skandinavischen Wohnstil und seine wichtigsten Gestaltungsprinzipien ✔ Wandfarben-Planer für harmonische Farbkonzepte ✔ Materialfirmen- und Baumarktübersicht für eine einfache Projektplanung ✔ Terminplaner zur Organisation deiner Einrichtungsvorhaben ✔ Aufgabenlisten für jeden Projektschritt ✔ Farbauftrags-Planer für Wand- und Gestaltungsarbeiten ✔ Zimmerplaner zur Entwicklung individueller Raumkonzepte ✔ Farbenplaner für Farbkombinationen und Materialideen ✔ Grundriss-Planer zur optimalen Raumaufteilung ✔ Moodboard-Seiten für Möbel-, Stoff- und Dekorationsideen ✔ Monatlicher Planer für langfristige Einrichtungsprojekte ✔ Viel Platz für persönliche Notizen, Skizzen und kreative Ideen
 
 ## 2. Links
 

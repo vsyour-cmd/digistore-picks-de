@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Empfehle das neue exklusive Produkt:</h1>
-<h2><span style="color:#0000ff;"><strong>Lead Magnetix PLR KURS Paket</strong></span></h2>
-<p><a><strong>Deine Vorteile:</strong></a></p>
-<ul>
-<li>Du verdienst <strong>50 % Provision</strong> bei allen Up- und Downsells!</li>
-<li>Die Verkaufs- und Upsellseiten werden <strong>kontinuierlich auf Conversion</strong> optimiert.</li>
-<li>Ideales Produkt für <strong>"jeden"</strong>, der mit seinem Online Business / E-Mail Marketing starten möchte oder optimieren will!</li>
-</ul>
+**Vendor's marketplace description:** Empfehle das neue exklusive Produkt: Lead Magnetix PLR KURS Paket Deine Vorteile: Du verdienst 50 % Provision bei allen Up- und Downsells! Die Verkaufs- und Upsellseiten werden kontinuierlich auf Conversion optimiert. Ideales Produkt für "jeden" , der mit seinem Online Business / E-Mail Marketing starten möchte oder optimieren will!
 
 ## 2. Links
 

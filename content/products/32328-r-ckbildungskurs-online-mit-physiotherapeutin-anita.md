@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieser <strong>Rückbildungskurs online</strong> ist ein 10-wöchiges-Online-Rückbildungsprogramm für Frauen nach einer Schwangerschaft mit <strong>Physiotherapeutin &amp; Rückbildungscoach Anita</strong>.</p>
-<ul style="list-style-type:circle;">
-<li>Verkaufpreis 67 - 97 Euro</li>
-<li>40% Provision</li>
-<li>perfekt für Partner die im Bereich Schwangerschaft, Rückbildung, Baby und Mamas unterwegs sind.</li>
-</ul>
-<p>Physiotherapeutin Anita unterstützt seit Jahren Frauen nach einer Schwangerschaft, um wieder eine stabile &amp; schöne Körpermitte zu erhalten. Anita ist auf Rückbildung, Beckenboden und Rektusdiastase therapeutisch spezialisiert.</p>
-<p>Die Frauen lernen effektive Übungen für den Bauch und Beckenboden, um Beckenbodenprobleme und Rückenschmerzen vorzubeugen oder loszuwerden und um wieder einen schönen, stabilen Bauch zu erhalten. Dieser Kurs beinhaltet zusätzlich ein Workbook mit allen wichtigen Infos, Tests und Übungen zum Downloaden.</p>
+**Vendor's marketplace description:** Dieser Rückbildungskurs online ist ein 10-wöchiges-Online-Rückbildungsprogramm für Frauen nach einer Schwangerschaft mit Physiotherapeutin & Rückbildungscoach Anita . Verkaufpreis 67 - 97 Euro 40% Provision perfekt für Partner die im Bereich Schwangerschaft, Rückbildung, Baby und Mamas unterwegs sind. Physiotherapeutin Anita unterstützt seit Jahren Frauen nach einer Schwangerschaft, um wieder eine stabile & schöne Körpermitte zu erhalten. Anita ist auf Rückbildung, Beckenboden und Rektusdiastase therapeutisch spezialisiert. Die Frauen lernen effektive Übungen für den Bauch und Beckenboden, um Beckenbodenprobleme und Rückenschmerzen vorzubeugen oder loszuwerden und um wieder einen schönen, stabilen Bauch zu erhalten. Dieser Kurs beinhaltet zusätzlich ein Workbook mit allen wichtigen Infos, Tests und Übungen zum Downloaden.
 
 ## 2. Links
 

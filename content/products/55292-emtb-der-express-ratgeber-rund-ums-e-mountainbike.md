@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Kurz, kompakt und praxisnah</strong> – dieser Ratgeber liefert dir alles, was du über E-Mountainbikes wissen musst. Ob du gerade erst einsteigst oder dein Wissen auffrischen willst: In diesem Guide findest du die wichtigsten Infos zu Technik, Fahrverhalten, Kaufberatung, Wartung, Sicherheit und Zubehör – auf den Punkt gebracht.</p>
-<p><strong>Ideal für Einsteiger und alle, die schnell und verständlich ins eMTB-Universum eintauchen wollen.</strong></p>
+**Vendor's marketplace description:** Kurz, kompakt und praxisnah – dieser Ratgeber liefert dir alles, was du über E-Mountainbikes wissen musst. Ob du gerade erst einsteigst oder dein Wissen auffrischen willst: In diesem Guide findest du die wichtigsten Infos zu Technik, Fahrverhalten, Kaufberatung, Wartung, Sicherheit und Zubehör – auf den Punkt gebracht. Ideal für Einsteiger und alle, die schnell und verständlich ins eMTB-Universum eintauchen wollen.
 
 ## 2. Links
 

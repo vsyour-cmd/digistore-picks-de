@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:justify;">Der <strong>Online-Leitfaden „Aus Freude am Schreiben“</strong> ist ein strukturierter <strong>Selbstlernkurs</strong> für <strong>kreatives</strong> und <strong>literarisches Schreiben</strong>.<br />Er vermittelt <strong>Grundlagen</strong> zu <strong>Ideenfindung</strong>, <strong>Figuren</strong>, <strong>Szenen</strong>, <strong>Dialogen</strong> und <strong>Stil</strong> anhand von <strong>Theorie</strong> und <strong>praktischen Schreibübungen</strong>.<br />Das Produkt wird als <strong>PDF-Download</strong> bereitgestellt und eignet sich für <strong>Einsteiger</strong> wie <strong>Fortgeschrittene</strong> im Bereich <strong>Persönlichkeitsentwicklung</strong> und <strong>Kreativität</strong>.<br /><br /></p>
-<p><strong>Online-Leitfaden „Aus Freude am Schreiben“</strong></p>
-<p style="text-align:justify;">Der <strong>Online-Leitfaden „Aus Freude am Schreiben“</strong> richtet sich an Menschen, die ihre kreative Ausdrucksfähigkeit entwickeln und Freude am Schreiben literarischer Texte gewinnen möchten.</p>
-<p style="text-align:justify;">Der Leitfaden vermittelt grundlegende und vertiefende <strong>Aspekte des belletristischen Schreibens</strong> – von <strong>Ideenfindung</strong>, <strong>Beobachtung</strong> und <strong>Wahrnehmung</strong> über <strong>Figurenentwicklung</strong>, <strong>Szenenaufbau</strong> und <strong>Dialoggestaltung</strong> bis hin zu <strong>Spannung</strong> und <strong>Stil</strong>.</p>
-<p style="text-align:justify;"><strong>Das Produkt besteht aus 20 strukturierten Lektionen:</strong></p>
-<ul>
-<li style="text-align:justify;">theoretische Inhalte mit Arbeitsblättern</li>
-<li style="text-align:justify;">praktische Schreibübungen zur eigenständigen Umsetzung</li>
-</ul>
-<p style="text-align:justify;">Der Kurs ist als reiner <strong>Selbstlern-Leitfaden</strong> konzipiert und wird als PDF-Datei zum Download bereitgestellt.<br />24/7 Zugriff auf alle Materialien (nach dem Download von Ihrem Endgerät aus).</p>
-<p style="text-align:justify;"><strong>Hinweis:</strong><br />Dieser Kurs ist kein Coaching, kein Fernunterricht und keine betreute Ausbildung.<br />Es gibt keine persönliche Betreuung, Lernerfolgskontrolle oder individuelle Rückmeldung.</p>
-<p style="text-align:justify;"><strong>Geeignet für:</strong></p>
-<ul>
-<li style="text-align:justify;">Schreibinteressierte Einsteiger</li>
-<li style="text-align:justify;">Fortgeschrittene Autoren</li>
-</ul>
-<p style="text-align:justify;">Menschen, die Schreiben als Form der persönlichen Entwicklung und kreativen Selbstreflexion nutzen möchten</p>
+**Vendor's marketplace description:** Der Online-Leitfaden „Aus Freude am Schreiben“ ist ein strukturierter Selbstlernkurs für kreatives und literarisches Schreiben . Er vermittelt Grundlagen zu Ideenfindung , Figuren , Szenen , Dialogen und Stil anhand von Theorie und praktischen Schreibübungen . Das Produkt wird als PDF-Download bereitgestellt und eignet sich für Einsteiger wie Fortgeschrittene im Bereich Persönlichkeitsentwicklung und Kreativität . Online-Leitfaden „Aus Freude am Schreiben“ Der Online-Leitfaden „Aus Freude am Schreiben“ richtet sich an Menschen, die ihre kreative Ausdrucksfähigkeit entwickeln und Freude am Schreiben literarischer Texte gewinnen möchten. Der Leitfaden vermittelt grundlegende und vertiefende Aspekte des belletristischen Schreibens – von Ideenfindung , Beobachtung und Wahrnehmung über Figurenentwicklung , Szenenaufbau und Dialoggestaltung bis hin zu Spannung und Stil . Das Produkt besteht aus 20 strukturierten Lektionen: theoretische Inhalte mit Arbeitsblättern praktische Schreibübungen zur eigenständigen Umsetzung Der Kurs ist als reiner Selbstlern-Leitfaden konzipiert und wird als PDF-Datei zum Download bereitgestellt. 24/7 Zugriff auf alle Materialien (nach dem Download von Ihrem Endgerät aus). Hinweis: Dieser Kurs ist kein Coaching, kein Fernunterricht und keine betreute Ausbildung. Es gibt keine persönliche Betreuung, Lernerfolgskontrolle oder individuelle Rückmeldung. Geeignet für: Schreibinteressierte Einsteiger Fortgeschrittene Autoren Menschen, die Schreiben als Form der persönlichen Entwicklung und kreativen Selbstreflexion nutzen möchten
 
 ## 2. Links
 

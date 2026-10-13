@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hierbei wird durch die Impulse Systems Agency ein Marketing-Funnel nach Kauf schnellstmöglich an den Käufer ausgeliefert.</p>
-<p>Bitte bindet euren Affiliate Link auf euren Plattformen ein, sodass Ihr pro Verkauf eure Provision erhaltet.</p>
+**Vendor's marketplace description:** Hierbei wird durch die Impulse Systems Agency ein Marketing-Funnel nach Kauf schnellstmöglich an den Käufer ausgeliefert. Bitte bindet euren Affiliate Link auf euren Plattformen ein, sodass Ihr pro Verkauf eure Provision erhaltet.
 
 ## 2. Links
 

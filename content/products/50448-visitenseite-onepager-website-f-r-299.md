@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Wir haben unsere Prozesse zum Entwickeln einer Website bzw. einer Homepage so standardisiert und professionalisiert, dass wir eine Website</p>
-<p>-</p>
-<ul>
-<li>für Einsteiger,</li>
-<li>für Gründer,</li>
-<li>für Virtuelle Assisten:innen, </li>
-<li>für Network-Marketer</li>
-<li>für lokale Unternehmen</li>
-</ul>
-<p>-</p>
-<p>super GÜNSTIG und richtig SCHNELL erstellen können.</p>
-<p> </p>
-<p>Im Prinzip also für jeden, der günstig im Web gefunden werden möchte und sich nicht erstmal mit einer riesigen Webseiten-Investition und/oder einem komplizierten SEO-Konzept bzw. Online-Marketing-Konzept beschäftigen will. </p>
-<p>Das braucht es am Anfang nicht. </p>
-<p> </p>
-<p><strong>Kennst du also jemanden, der gerade eine Website möchte? </strong></p>
-<p>Empfehle unser Angebot der <strong>Visitenseite</strong> und verdiene eine attraktive Provision. </p>
-<p> </p>
-<p>Wir freuen uns auf die Zusammenarbeit mit dir.</p>
+**Vendor's marketplace description:** Wir haben unsere Prozesse zum Entwickeln einer Website bzw. einer Homepage so standardisiert und professionalisiert, dass wir eine Website - für Einsteiger, für Gründer, für Virtuelle Assisten:innen, für Network-Marketer für lokale Unternehmen - super GÜNSTIG und richtig SCHNELL erstellen können. Im Prinzip also für jeden, der günstig im Web gefunden werden möchte und sich nicht erstmal mit einer riesigen Webseiten-Investition und/oder einem komplizierten SEO-Konzept bzw. Online-Marketing-Konzept beschäftigen will. Das braucht es am Anfang nicht. Kennst du also jemanden, der gerade eine Website möchte? Empfehle unser Angebot der Visitenseite und verdiene eine attraktive Provision. Wir freuen uns auf die Zusammenarbeit mit dir.
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><em>Endlich richtig gut Keyboard od. Klavier spielen können !</em></h1>
-<h5>Nach ca. 15 Wochen kannst Du 14 Lieder mit 5 verschiedenen Akkorden und Rhythmus spielen. Schritt für Schritt Anleitung für Anfänger und Einsteiger. Das Lehrbuch wurde von einem erfahrenen Musiklehrer entwickelt und ist für Kinder, Jugendliche und Erwachsene geeignet.</h5>
-<h5>Der USB-Stick enthält 16 Video-Lektionen.</h5>
+**Vendor's marketplace description:** Endlich richtig gut Keyboard od. Klavier spielen können ! Nach ca. 15 Wochen kannst Du 14 Lieder mit 5 verschiedenen Akkorden und Rhythmus spielen. Schritt für Schritt Anleitung für Anfänger und Einsteiger. Das Lehrbuch wurde von einem erfahrenen Musiklehrer entwickelt und ist für Kinder, Jugendliche und Erwachsene geeignet. Der USB-Stick enthält 16 Video-Lektionen.
 
 ## 2. Links
 

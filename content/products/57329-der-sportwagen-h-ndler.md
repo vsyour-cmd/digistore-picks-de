@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Der Sportwagen-Händler“</strong></p>
-<p>Wie du in den Markt für Porsche, Ferrari, Lamborghini &amp; Co. einsteigst – Mit Luxus- und Sportwagen zu handeln kann ein lukratives Geschäft sein, wenn man den Markt versteht. Dieser Ratgeber zeigt dir Schritt für Schritt, wie du als Sportwagen-Händler einsteigst: vom ersten Fahrzeug über Einkauf, Bewertung, Recht und Finanzierung bis zu Verkauf, Netzwerk und Skalierung.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 17,48 € pro Verkauf (Verkaufspreis 34,95 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Der Markt für Luxus- und Sportwagen: Chancen, Risiken und Realität</li>
-<li>Der Einstieg: erstes Fahrzeug, Kapital und Rechtsform</li>
-<li>Fahrzeuge finden und richtig bewerten: Einkauf ohne Fehlkauf</li>
-<li>Recht, Gewährleistung und Steuern beim Autohandel</li>
-<li>Kalkulation und Finanzierung: so rechnet sich der Handel</li>
-<li>Verkaufen: Inszenierung, Käufer finden und verhandeln</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Der Sportwagen-Händler“ Wie du in den Markt für Porsche, Ferrari, Lamborghini & Co. einsteigst – Mit Luxus- und Sportwagen zu handeln kann ein lukratives Geschäft sein, wenn man den Markt versteht. Dieser Ratgeber zeigt dir Schritt für Schritt, wie du als Sportwagen-Händler einsteigst: vom ersten Fahrzeug über Einkauf, Bewertung, Recht und Finanzierung bis zu Verkauf, Netzwerk und Skalierung. Warum dieses E-Book bewerben? 50 % Provision – ca. 17,48 € pro Verkauf (Verkaufspreis 34,95 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Der Markt für Luxus- und Sportwagen: Chancen, Risiken und Realität Der Einstieg: erstes Fahrzeug, Kapital und Rechtsform Fahrzeuge finden und richtig bewerten: Einkauf ohne Fehlkauf Recht, Gewährleistung und Steuern beim Autohandel Kalkulation und Finanzierung: so rechnet sich der Handel Verkaufen: Inszenierung, Käufer finden und verhandeln
 
 ## 2. Links
 

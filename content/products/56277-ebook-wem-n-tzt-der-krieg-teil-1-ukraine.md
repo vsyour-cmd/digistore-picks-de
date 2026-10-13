@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses Buch greift ein hochaktuelles, kontroverses Thema mit enormer medialer Präsenz auf und spricht eine informationshungrige Zielgruppe an, die nach tiefergehenden Analysen jenseits offizieller Narrative sucht.</p>
-<p> </p>
-<p>Es bietet eine differenzierte, kritisch-analytische Betrachtung geopolitischer Machtstrukturen, wirtschaftlicher Interessen und strategischer Zusammenhänge rund um den Ukraine-Konflikt.</p>
-<p> </p>
-<p>Die klare Leitfrage „Wem nützt der Krieg?“ erzeugt starke Neugier, hohe Leserbindung und intensive Auseinandersetzung.</p>
-<p> </p>
-<p>Besonders verkaufsstark ist die Kombination aus politischer Brisanz, intellektuellem Anspruch und emotionaler Relevanz.</p>
-<p> </p>
-<p>Ein ideales Produkt für Affiliates in den Bereichen Politik, Wirtschaft und Zeitgeschehen mit hoher Aufmerksamkeit und starkem Conversion-Potenzial.</p>
+**Vendor's marketplace description:** Dieses Buch greift ein hochaktuelles, kontroverses Thema mit enormer medialer Präsenz auf und spricht eine informationshungrige Zielgruppe an, die nach tiefergehenden Analysen jenseits offizieller Narrative sucht. Es bietet eine differenzierte, kritisch-analytische Betrachtung geopolitischer Machtstrukturen, wirtschaftlicher Interessen und strategischer Zusammenhänge rund um den Ukraine-Konflikt. Die klare Leitfrage „Wem nützt der Krieg?“ erzeugt starke Neugier, hohe Leserbindung und intensive Auseinandersetzung. Besonders verkaufsstark ist die Kombination aus politischer Brisanz, intellektuellem Anspruch und emotionaler Relevanz. Ein ideales Produkt für Affiliates in den Bereichen Politik, Wirtschaft und Zeitgeschehen mit hoher Aufmerksamkeit und starkem Conversion-Potenzial.
 
 ## 2. Links
 

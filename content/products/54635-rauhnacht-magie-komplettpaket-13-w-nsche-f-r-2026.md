@@ -41,40 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><em>Teile die Magie der Rauhnächte – und verdiene mit jedem verkauften Journal 25 % Provision!</em></strong></p>
-<h4>Verdiene mit der Magie der Rauhnächte</h4>
-<p>„Rauhnacht-Magie 2025/2026“ ist ein digitales Journal, das Käuferinnen und Käufer durch die 12 heiligen Nächte begleitet – mit Ritualen, Reflexionsfragen, Wunschzeremonien und inspirierenden Texten.<br />Ein gefragtes Produkt für alle, die Achtsamkeit, Spiritualität, Manifestation und Selbstreflexion lieben – ideal auch als Geschenk in der Vorweihnachtszeit.</p>
-<h4>Warum dieses Produkt ideal für Affiliates ist</h4>
-<ul>
-<li>
-<p>Hohe Conversion-Rate durch ein emotionales, visuell starkes Thema</p>
-</li>
-<li>
-<p>Beliebte Zielgruppe: Frauen 25–60 mit Interesse an Spiritualität, Achtsamkeit und Persönlichkeitsentwicklung</p>
-</li>
-<li>
-<p>25 % Provision pro Verkauf</p>
-</li>
-<li>
-<p>60 Tage Cookie-Laufzeit</p>
-</li>
-<li>
-<p>Promo-Marketing-Video abrufbar!</p>
-</li>
-<li>
-<p>Textvorlagen für Social-Media-Posts</p>
-</li>
-</ul>
-<h4>So kannst du das Produkt bewerben</h4>
-<ul>
-<li>Social-Media-Beiträge zum Thema Selbstreflexion</li>
-<li>
-<p>Pinterest-Pins und Instagram-Posts mit inspirierenden Zitaten</p>
-</li>
-<li>
-<p>Erwähnungen in spirituellen Communities oder Facebook-Gruppen</p>
-</li>
-</ul>
+**Vendor's marketplace description:** Teile die Magie der Rauhnächte – und verdiene mit jedem verkauften Journal 25 % Provision! Verdiene mit der Magie der Rauhnächte „Rauhnacht-Magie 2025/2026“ ist ein digitales Journal, das Käuferinnen und Käufer durch die 12 heiligen Nächte begleitet – mit Ritualen, Reflexionsfragen, Wunschzeremonien und inspirierenden Texten. Ein gefragtes Produkt für alle, die Achtsamkeit, Spiritualität, Manifestation und Selbstreflexion lieben – ideal auch als Geschenk in der Vorweihnachtszeit. Warum dieses Produkt ideal für Affiliates ist Hohe Conversion-Rate durch ein emotionales, visuell starkes Thema Beliebte Zielgruppe: Frauen 25–60 mit Interesse an Spiritualität, Achtsamkeit und Persönlichkeitsentwicklung 25 % Provision pro Verkauf 60 Tage Cookie-Laufzeit Promo-Marketing-Video abrufbar! Textvorlagen für Social-Media-Posts So kannst du das Produkt bewerben Social-Media-Beiträge zum Thema Selbstreflexion Pinterest-Pins und Instagram-Posts mit inspirierenden Zitaten Erwähnungen in spirituellen Communities oder Facebook-Gruppen
 
 ## 2. Links
 

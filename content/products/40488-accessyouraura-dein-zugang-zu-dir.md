@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Erfahre, wie du dich über erste Tools und Übungen aus alten <strong>Blockaden</strong> befreien und deinen <strong>Fokus</strong> neu ausrichten kannst.</p>
-<p> </p>
-<p>Erfahre mehr über meine <strong>Methode AccessyourAura- geistiges Heilen</strong>, wie du es erlernen und für dich, deine Familie und Tiere nutzen kannst.</p>
-<p> </p>
-<p>​Triff für dich eine großartige Wahl … Was wäre, wenn alle Versuche, etwas in der Vergangenheit aufzulösen, deine Probleme noch größer werden lassen und es nur den Blick darauf braucht - Wie du es gerne hättest? </p>
+**Vendor's marketplace description:** Erfahre, wie du dich über erste Tools und Übungen aus alten Blockaden befreien und deinen Fokus neu ausrichten kannst. Erfahre mehr über meine Methode AccessyourAura- geistiges Heilen , wie du es erlernen und für dich, deine Familie und Tiere nutzen kannst. ​Triff für dich eine großartige Wahl … Was wäre, wenn alle Versuche, etwas in der Vergangenheit aufzulösen, deine Probleme noch größer werden lassen und es nur den Blick darauf braucht - Wie du es gerne hättest?
 
 ## 2. Links
 

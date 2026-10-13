@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Alle Schritt-f&uuml;r-Schritt-Vorlagen</h2>
-<p>Du erh&auml;ltst alle Schritt-f&uuml;r-Schritt-Vorlagen zum &bdquo;Ziele-sicher-erreichen!&ldquo;-Paket. Die Vorlagen sind nutzbar mit&nbsp;allen kompatiblen Pr&auml;sentationswerkzeugen, z.B. Microsoft PowerPoint, Open Office, Google Presentation.</p>
-<p>&nbsp;</p>
-<h2>Das eBook "Ziele sicher erreichen!"</h2>
-<p>Das eBook &bdquo;Ziele sicher erreichen &ndash; Die 7 Komponenten f&uuml;r dauerhafte Erfolge und Zufriedenheit&ldquo; steht Dir als interaktives PDF zur Verf&uuml;gung und erl&auml;utert die einzelnen Schritte zu Deinem pers&ouml;nlichen Ziel.</p>
-<p>&nbsp;</p>
-<h2>BONUS: Zitate-CD</h2>
-<p>Die besten und motivierendsten Zitate zu den Themen Erfolg und Ziele sind als attraktiver Bonus im PDF-Format sowie als JPG-Dateien beigef&uuml;gt. Du kannst sie herunterladen, ausdrucken, gut sichtbar aufh&auml;ngen, guten Freunden schenken oder bei Facebook, Twitter etc. posten.</p>
-<p>&nbsp;</p>
+**Vendor's marketplace description:** Alle Schritt-f&uuml;r-Schritt-Vorlagen Du erh&auml;ltst alle Schritt-f&uuml;r-Schritt-Vorlagen zum &bdquo;Ziele-sicher-erreichen!&ldquo;-Paket. Die Vorlagen sind nutzbar mit allen kompatiblen Pr&auml;sentationswerkzeugen, z.B. Microsoft PowerPoint, Open Office, Google Presentation. Das eBook "Ziele sicher erreichen!" Das eBook &bdquo;Ziele sicher erreichen &ndash; Die 7 Komponenten f&uuml;r dauerhafte Erfolge und Zufriedenheit&ldquo; steht Dir als interaktives PDF zur Verf&uuml;gung und erl&auml;utert die einzelnen Schritte zu Deinem pers&ouml;nlichen Ziel. BONUS: Zitate-CD Die besten und motivierendsten Zitate zu den Themen Erfolg und Ziele sind als attraktiver Bonus im PDF-Format sowie als JPG-Dateien beigef&uuml;gt. Du kannst sie herunterladen, ausdrucken, gut sichtbar aufh&auml;ngen, guten Freunden schenken oder bei Facebook, Twitter etc. posten.
 
 ## 2. Links
 

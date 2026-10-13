@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><strong>The Power of Love<br /></strong></h1>
-<h1><strong>Die Online-Jahresreise mit Thomas Young</strong></h1>
-<p><strong>Bewerbung jetzt möglich! - Werbezeitraum ab Dez '25</strong></p>
-<p><strong>Wir starten am 18.01.2026</strong></p>
-<p>In THE POWER OF LOVE werden die Teilnehmer ganz praktisch und aktiv 13 Monde lang mit den spezifischen Qualitäten, Stärken und Begabungen der einzelnen Clanmütter verbunden. Die in 13 Einweihungsschritten aufeinander abgestimmten Module und einzigartigen, der Verankerung dienenden, Meditationen, Impulse, Überraschungen, und Live Calls mit Thomas führen die Teilnehmer in ihre Höchste Kraft und machen sie gleichzeitig vertraut mit dem geheimen Wissen heiliger Medizinfrauen und den aktuellen Herzlehren.</p>
-<h1> </h1>
-<p>Thomas Young ist Bestsellerautor und erfolgreicher Weisheitslehrer, der seit über 20 Jahren seine Heilerfahrungen mit unzähligen Kursteilnehmern in der ganzen Welt teilt. Dieser Kurs umfasst die Quintessenz und populärsten Meditationen seiner Herzlehren. Die grosse Liebe, welche jede der 13 Clanmütter zur Schöpfung, zur Natur, zum Leben trägt, wird diese Jahresreise tief durchwirken und die Teilnehmer in eine neue Art zu lieben führen.</p>
-<p>Der Kurs enthält viele Bonuse, Meditationen und Extras, was deine Conversion steigert:</p>
-<h5>13  Video-Sessions mit 13 Intensiv-Meditationen</h5>
-<h5>plus 13 Online-Live-Events, Workbook und vieles mehr . .</h5>
-<h4>Werde daher jetzt zu unserem Partner und empfiehl deinen Kontakten unsere Jahresreise: <strong>THE POWER OF LOVE.</strong></h4>
-<div>Wir freuen uns auf Dich!</div>
-<div>Team Thomas Young</div>
+**Vendor's marketplace description:** The Power of Love Die Online-Jahresreise mit Thomas Young Bewerbung jetzt möglich! - Werbezeitraum ab Dez '25 Wir starten am 18.01.2026 In THE POWER OF LOVE werden die Teilnehmer ganz praktisch und aktiv 13 Monde lang mit den spezifischen Qualitäten, Stärken und Begabungen der einzelnen Clanmütter verbunden. Die in 13 Einweihungsschritten aufeinander abgestimmten Module und einzigartigen, der Verankerung dienenden, Meditationen, Impulse, Überraschungen, und Live Calls mit Thomas führen die Teilnehmer in ihre Höchste Kraft und machen sie gleichzeitig vertraut mit dem geheimen Wissen heiliger Medizinfrauen und den aktuellen Herzlehren. Thomas Young ist Bestsellerautor und erfolgreicher Weisheitslehrer, der seit über 20 Jahren seine Heilerfahrungen mit unzähligen Kursteilnehmern in der ganzen Welt teilt. Dieser Kurs umfasst die Quintessenz und populärsten Meditationen seiner Herzlehren. Die grosse Liebe, welche jede der 13 Clanmütter zur Schöpfung, zur Natur, zum Leben trägt, wird diese Jahresreise tief durchwirken und die Teilnehmer in eine neue Art zu lieben führen. Der Kurs enthält viele Bonuse, Meditationen und Extras, was deine Conversion steigert: 13 Video-Sessions mit 13 Intensiv-Meditationen plus 13 Online-Live-Events, Workbook und vieles mehr . . Werde daher jetzt zu unserem Partner und empfiehl deinen Kontakten unsere Jahresreise: THE POWER OF LOVE. Wir freuen uns auf Dich! Team Thomas Young
 
 ## 2. Links
 

@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Fette Provisionen mit dem <a href="https://kampagne24.com/sales-promokalender" target="_blank" rel="noreferrer noopener">Kampagne24-Promo-Kalender</a> von Carsten Feuerbach</strong></p>
-<p>Behalte alle geplanten Launches und Promotions auf einen Blick, mit automatisch generierten Affiliate-Links für jede Aktion. Kein Chaos mehr in Notizen oder Tabellen, ein Blick genügt.</p>
-<p><strong>Provision:</strong> 50% auf den Promo-Kalender (37€, also 18,50€ pro Sale für dich) PLUS 50% auf den <a href="https://kampagne24.com/sales-spielbericht" target="_blank" rel="noreferrer noopener"><strong>Kampagne24-E-Mail-Spielbericht</strong> </a>als Upsell direkt im selben Funnel (nochmal 37€, also weitere 18,50€ pro Sale). Bis zu 37€ Provision pro Kunde möglich.</p>
-<p><strong>Start:</strong> Ab sofort, direkt loslegen!</p>
-<p>✅ Kalenderansicht für alle geplanten Launches und E-Mail-Promotions<br />✅ Automatische Affiliate-Link-Generierung für jede Aktion<br />✅ Direkt danach wird der E-Mail-Spielbericht als Upsell angeboten (37€, 50% Provision für dich)<br />✅ Sofortiger, automatischer Zugang, rund um die Uhr, egal wann bestellt wird</p>
-<p><strong>Zielgruppe:</strong></p>
-<ul>
-<li>Affiliates und E-Mail-Marketer, die planbarer launchen wollen</li>
-<li>Jeder, der mehrere Promotions/Launches parallel im Blick behalten muss</li>
-<li>Ideal für alle, die bereits mit Kampagne24-Produkten vertraut sind</li>
-</ul>
-<p><strong>Deine Vorteile als Partner:</strong></p>
-<ul>
-<li>Zwei Provisionen aus einem Funnel (Promo-Kalender + Spielbericht-Upsell)</li>
-<li>Hohe Relevanz für jeden, der E-Mail-Marketing aktiv betreibt</li>
-<li>Schnelle Abrechnung über Digistore24</li>
-</ul>
-<p><a href="https://go.carstenfeuerbach.de/partnerprogramm" target="_blank" rel="noreferrer noopener"><strong>Jetzt Partner werden und mit dem Promo-Kalender starten!</strong></a></p>
-<p>Weitere Infos, Werbemittel &amp; weitere Produkte von Carsten Feuerbach unter:<br /><strong><a href="https://go.carstenfeuerbach.de/partnerprogramm" target="_blank" rel="noreferrer noopener">https://go.carstenfeuerbach.de/partnerprogramm</a></strong></p>
+**Vendor's marketplace description:** Fette Provisionen mit dem Kampagne24-Promo-Kalender von Carsten Feuerbach Behalte alle geplanten Launches und Promotions auf einen Blick, mit automatisch generierten Affiliate-Links für jede Aktion. Kein Chaos mehr in Notizen oder Tabellen, ein Blick genügt. Provision: 50% auf den Promo-Kalender (37€, also 18,50€ pro Sale für dich) PLUS 50% auf den Kampagne24-E-Mail-Spielbericht als Upsell direkt im selben Funnel (nochmal 37€, also weitere 18,50€ pro Sale). Bis zu 37€ Provision pro Kunde möglich. Start: Ab sofort, direkt loslegen! ✅ Kalenderansicht für alle geplanten Launches und E-Mail-Promotions ✅ Automatische Affiliate-Link-Generierung für jede Aktion ✅ Direkt danach wird der E-Mail-Spielbericht als Upsell angeboten (37€, 50% Provision für dich) ✅ Sofortiger, automatischer Zugang, rund um die Uhr, egal wann bestellt wird Zielgruppe: Affiliates und E-Mail-Marketer, die planbarer launchen wollen Jeder, der mehrere Promotions/Launches parallel im Blick behalten muss Ideal für alle, die bereits mit Kampagne24-Produkten vertraut sind Deine Vorteile als Partner: Zwei Provisionen aus einem Funnel (Promo-Kalender + Spielbericht-Upsell) Hohe Relevanz für jeden, der E-Mail-Marketing aktiv betreibt Schnelle Abrechnung über Digistore24 Jetzt Partner werden und mit dem Promo-Kalender starten! Weitere Infos, Werbemittel & weitere Produkte von Carsten Feuerbach unter: https://go.carstenfeuerbach.de/partnerprogramm
 
 ## 2. Links
 

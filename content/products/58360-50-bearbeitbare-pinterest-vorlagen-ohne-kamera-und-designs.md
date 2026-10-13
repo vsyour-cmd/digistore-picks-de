@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>„50 bearbeitbare Pinterest-Vorlagen“ richtet sich an Pinterest-Anfänger, Selbstständige und Faceless Creator, die regelmäßig Pins veröffentlichen möchten, ohne jedes Design von Grund auf neu zu erstellen.</p>
-<p>Das Paket enthält 50 anpassbare Canva-Vorlagen im Pinterest-Format 1000 × 1500 Pixel. Dazu gehören Hook-Pins, Listen, Checklisten, Schritt-für-Schritt-Pins, Mythos-vs.-Fakt-Pins sowie Vorlagen für Produkte und Freebies.</p>
-<p>Warum sich die Bewerbung für Affiliates lohnt:</p>
-<p>• klar definierte Zielgruppe mit einem konkreten Problem<br />• 50 direkt bearbeitbare Vorlagen statt leerer Designs<br />• einfache Anpassung von Texten, Farben und Schriften<br />• einmaliger Verkaufspreis von 14,90 €<br />• 50 % Affiliate-Provision bei jedem erfolgreichen Verkauf<br />• fertige Werbetexte und direkter Kontakt bei Fragen</p>
-<p>Das Produkt verspricht keine automatische Reichweite oder garantierte Klicks. Es nimmt Käuferinnen und Käufern jedoch einen großen Teil der regelmäßigen Gestaltungsarbeit ab.</p>
+**Vendor's marketplace description:** „50 bearbeitbare Pinterest-Vorlagen“ richtet sich an Pinterest-Anfänger, Selbstständige und Faceless Creator, die regelmäßig Pins veröffentlichen möchten, ohne jedes Design von Grund auf neu zu erstellen. Das Paket enthält 50 anpassbare Canva-Vorlagen im Pinterest-Format 1000 × 1500 Pixel. Dazu gehören Hook-Pins, Listen, Checklisten, Schritt-für-Schritt-Pins, Mythos-vs.-Fakt-Pins sowie Vorlagen für Produkte und Freebies. Warum sich die Bewerbung für Affiliates lohnt: • klar definierte Zielgruppe mit einem konkreten Problem • 50 direkt bearbeitbare Vorlagen statt leerer Designs • einfache Anpassung von Texten, Farben und Schriften • einmaliger Verkaufspreis von 14,90 € • 50 % Affiliate-Provision bei jedem erfolgreichen Verkauf • fertige Werbetexte und direkter Kontakt bei Fragen Das Produkt verspricht keine automatische Reichweite oder garantierte Klicks. Es nimmt Käuferinnen und Käufern jedoch einen großen Teil der regelmäßigen Gestaltungsarbeit ab.
 
 ## 2. Links
 

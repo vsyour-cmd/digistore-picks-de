@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Es gibt ein warmes, sonniges Land auf unserer Erde, das aus 7.107 Inseln besteht, wovon über 6.000 immer noch unbewohnt sind.</p>
-<p>In diesem Inselreich wohnen meiner eigenen Erfahrung nach die freundlichsten Menschen der Welt.</p>
-<p>Hier sind die Lebenshaltungskosten so günstig, dass Sie selbst mit einem Monatseinkommen in der Größenordnung von Hartz IV schon als reich gelten!</p>
-<p><strong>Sind Sie reif für die Insel?</strong></p>
-<p>Weil das Leben in Deutschland immer unerträglicher wird.<br /><br /> Weil man immer um den Arbeitsplatz zittern muss ( wenn man einen hat).<br /> Weil die Preise und Steuern ständig steigen.<br /> Weil das Wetter meist lausig ist.<br /><br /> Leiden Sie nicht länger!<br /> Schütteln Sie Kälte, Stress und Bevormundung ab!!<br /> Fangen Sie an zu leben!</p>
-<p> </p>
-<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
-<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
-<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<span style="color:#cc99ff;"><strong><span style="color:#000000;">J</span>eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</strong></span>“.</p>
-<p>2 einfache Schritte:</p>
-<ol>
-<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html%20" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html </a></span>(dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge")</li>
-<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
-</ol>
-<p> </p>
-<p><em><strong> </strong></em></p>
+**Vendor's marketplace description:** Es gibt ein warmes, sonniges Land auf unserer Erde, das aus 7.107 Inseln besteht, wovon über 6.000 immer noch unbewohnt sind. In diesem Inselreich wohnen meiner eigenen Erfahrung nach die freundlichsten Menschen der Welt. Hier sind die Lebenshaltungskosten so günstig, dass Sie selbst mit einem Monatseinkommen in der Größenordnung von Hartz IV schon als reich gelten! Sind Sie reif für die Insel? Weil das Leben in Deutschland immer unerträglicher wird. Weil man immer um den Arbeitsplatz zittern muss ( wenn man einen hat). Weil die Preise und Steuern ständig steigen. Weil das Wetter meist lausig ist. Leiden Sie nicht länger! Schütteln Sie Kälte, Stress und Bevormundung ab!! Fangen Sie an zu leben! Möchten Sie ein Ansichtsexemplar? Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz. Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „ J eden T ag R ei*cher “. 2 einfache Schritte: JTR gratis bestellen auf https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge") Email mit Ihrem Ebook-Wunsch an service@big-benn-books.com
 
 ## 2. Links
 

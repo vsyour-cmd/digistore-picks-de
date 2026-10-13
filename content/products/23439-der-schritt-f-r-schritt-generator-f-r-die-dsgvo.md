@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das ist der <strong>erste und einzige</strong> Generator für die Dokumentation nach DSGVO auf dem Markt. Jeder, der im Internet aktiv ist braucht es und so gut wie jeder sucht nach einer Lösung die Zeit und Geld spart um das Thema DSGVO abzuhaken.</p>
-<ul><li>Vom Datenschutzauditor (TÜV) erstellt und vorausgefüllt</li>
-<li>Mit ausführlichen Anleitungen direkt zur fertigen Dokumentation</li>
-<li>Für kleine- und mittelständische Betriebe, Einzelunternehmer, kleine Arzt-, Heil- und sonstige Praxen, Freelancer uvm.!</li>
-</ul><p>Bieten Sie Ihren Kunden die Möglichkeit mit einer einfachen Schritt-für-Schritt Anleitung die Dokumentation nach DSGVO abzuschließen.</p>
-<p>Die Leute sind genervt von Kursen und Webinaren, die am ende doch nur sagen, was man alles machen soll aber keine konkreten Vorschläge haben.</p>
-<p>Der Generator ist für Rechtslaien konzipiert, jeder sollte sich sofort zurechtfinden.</p>
-<p><strong>Inklusive sind:</strong></p>
-<ul><li>Über <strong>40</strong> vorausgefüllte Verarbeitungstätigkeiten, direkt zum Übernehmen!</li>
-<li>Fertiges Verzeichnis von Verarbeitungstätigkeiten</li>
-<li>Dokumentation der technischen und organisatorischen Maßnahmen (TOM) mit wenigen Klicks - über <strong>100</strong> vorgefertigte Maßnahmen</li>
-<li>Risikoabschätzung für alle Verarbeitungstätigkeiten</li>
-<li>Löschkonzept mit über <strong>100</strong> Datenarten inkl. Rechtsgrundlage und Löschprotokoll</li>
-<li>Vorausgefülltes Datenschutzkonzept</li>
-<li>Checkliste zur Umsetzung der DSGVO mit Praxisbeispielen</li>
-<li>Erfassung Ihrer Auftragsdatenverarbeiter</li>
-<li>Muster für eine Datenschutz-Folgenabschätzung</li>
-<li>Dokumentation zum Datenschutzbeauftragten</li>
-<li>DSGVO Basisschulung inkl. Teilnahmezertifikat</li>
-<li>Muster für einen AV-Vertrag (früher: ADV)</li>
-<li>Muster für eine Verpflichtung von Mitarbeitern oder sonstigen Beauftragten zur Einhaltung des Datenschutzes und der Vertraulichkeit</li>
-<li>Muster zur Bestellung eines Datenschutzbeauftragten (DSB)</li>
-<li>Muster für die Beantwortung von Betroffenenanfragen (Auskunft nach DSGVO)</li>
-<li>Muster für Datenschutzhinweise nach Artikel 13 &amp; 14 DSGVO zum Aushängen oder unterschreiben lassen</li>
-<li>Muster Bewerbereinwilligung</li>
-<li>Muster Einwilligung Mitarbeiterfotos / Jubiläum</li>
-<li>Muster für eine Passwortrichtlinie nach DSGVO</li>
-<li>Muster für einen Tätigkeitsbericht eines DSB</li>
-<li>Muster für einen Auditbericht</li>
-</ul><p>Die Nichterstellung dieser Dokumentation zieht hohe Bußgelder nach sich, weswegen es sehr beliebt bei Ihren Kunden sein sollte.</p>
+**Vendor's marketplace description:** Das ist der erste und einzige Generator für die Dokumentation nach DSGVO auf dem Markt. Jeder, der im Internet aktiv ist braucht es und so gut wie jeder sucht nach einer Lösung die Zeit und Geld spart um das Thema DSGVO abzuhaken. Vom Datenschutzauditor (TÜV) erstellt und vorausgefüllt Mit ausführlichen Anleitungen direkt zur fertigen Dokumentation Für kleine- und mittelständische Betriebe, Einzelunternehmer, kleine Arzt-, Heil- und sonstige Praxen, Freelancer uvm.! Bieten Sie Ihren Kunden die Möglichkeit mit einer einfachen Schritt-für-Schritt Anleitung die Dokumentation nach DSGVO abzuschließen. Die Leute sind genervt von Kursen und Webinaren, die am ende doch nur sagen, was man alles machen soll aber keine konkreten Vorschläge haben. Der Generator ist für Rechtslaien konzipiert, jeder sollte sich sofort zurechtfinden. Inklusive sind: Über 40 vorausgefüllte Verarbeitungstätigkeiten, direkt zum Übernehmen! Fertiges Verzeichnis von Verarbeitungstätigkeiten Dokumentation der technischen und organisatorischen Maßnahmen (TOM) mit wenigen Klicks - über 100 vorgefertigte Maßnahmen Risikoabschätzung für alle Verarbeitungstätigkeiten Löschkonzept mit über 100 Datenarten inkl. Rechtsgrundlage und Löschprotokoll Vorausgefülltes Datenschutzkonzept Checkliste zur Umsetzung der DSGVO mit Praxisbeispielen Erfassung Ihrer Auftragsdatenverarbeiter Muster für eine Datenschutz-Folgenabschätzung Dokumentation zum Datenschutzbeauftragten DSGVO Basisschulung inkl. Teilnahmezertifikat Muster für einen AV-Vertrag (früher: ADV) Muster für eine Verpflichtung von Mitarbeitern oder sonstigen Beauftragten zur Einhaltung des Datenschutzes und der Vertraulichkeit Muster zur Bestellung eines Datenschutzbeauftragten (DSB) Muster für die Beantwortung von Betroffenenanfragen (Auskunft nach DSGVO) Muster für Datenschutzhinweise nach Artikel 13 & 14 DSGVO zum Aushängen oder unterschreiben lassen Muster Bewerbereinwilligung Muster Einwilligung Mitarbeiterfotos / Jubiläum Muster für eine Passwortrichtlinie nach DSGVO Muster für einen Tätigkeitsbericht eines DSB Muster für einen Auditbericht Die Nichterstellung dieser Dokumentation zieht hohe Bußgelder nach sich, weswegen es sehr beliebt bei Ihren Kunden sein sollte.
 
 ## 2. Links
 

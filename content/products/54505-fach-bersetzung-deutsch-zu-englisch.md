@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Fachübersetzung ohne PR-Erstellung</h3>
-<p>Verdiene <strong>20 % Provision auf alle Leistungen</strong> – inklusive AddOns!</p>
-<p><br /><strong>Jetzt Partner werden und vom Express-Service profitieren!</strong></p>
-<p>Mit unserem Produkt <strong>„Fachübersetzung ohne PR-Erstellung“</strong> bieten wir eine hochwertige Lösung für professionelle, mehrsprachige Fachkommunikation – ideal für Unternehmen, Agenturen, Coaches, Selbstständige und Autor*innen, die ihre Texte schnell, präzise und stilistisch perfekt übersetzt haben möchten.</p>
-<p>Dank des beliebten AddOns <strong>„24 h Express-Auftrag“</strong> lassen sich selbst kurzfristige Projekte zuverlässig umsetzen – ein klarer Verkaufsbooster mit hoher Nachfrage.</p>
-<h3>Deine Vorteile als Affiliate</h3>
-<ul>
-<li>
-<p><strong>20 % Provision vom gesamten Nettopreis</strong> pro erfolgreichem Verkauf<br />(inklusive aller AddOns – z. B. Express, Übersetzung Englisch, SEO-AddOn)</p>
-</li>
-<li>
-<p><strong>Attraktives Gesamtpotenzial:</strong> bis zu <strong>79,20 € Provision</strong> pro Auftrag</p>
-</li>
-<li>
-<p><strong>Hochwertiges B2B-Produkt</strong> mit klarem Nutzen und konstantem Bedarf</p>
-</li>
-<li>
-<p><strong>Schnell &amp; einfach vermarktbar:</strong> kein eigenes Produkt nötig</p>
-</li>
-<li>
-<p><strong>Professionelle Werbematerialien:</strong> Banner, Textvorlagen, Social-Media-Motive, Videos</p>
-</li>
-<li>
-<p><strong>Transparente Abwicklung:</strong> Alles läuft über <strong>Digistore24</strong> – Tracking, Auszahlung, Übersicht</p>
-</li>
-<li>
-<p><strong>Sofortiger Zugang zu Werbemitteln: (coming soon)</strong></p>
-</li>
-</ul>
-<p><strong>Wir freuen uns auf die gute Zusammenarbeit!</strong></p>
+**Vendor's marketplace description:** Fachübersetzung ohne PR-Erstellung Verdiene 20 % Provision auf alle Leistungen – inklusive AddOns! Jetzt Partner werden und vom Express-Service profitieren! Mit unserem Produkt „Fachübersetzung ohne PR-Erstellung“ bieten wir eine hochwertige Lösung für professionelle, mehrsprachige Fachkommunikation – ideal für Unternehmen, Agenturen, Coaches, Selbstständige und Autor*innen, die ihre Texte schnell, präzise und stilistisch perfekt übersetzt haben möchten. Dank des beliebten AddOns „24 h Express-Auftrag“ lassen sich selbst kurzfristige Projekte zuverlässig umsetzen – ein klarer Verkaufsbooster mit hoher Nachfrage. Deine Vorteile als Affiliate 20 % Provision vom gesamten Nettopreis pro erfolgreichem Verkauf (inklusive aller AddOns – z. B. Express, Übersetzung Englisch, SEO-AddOn) Attraktives Gesamtpotenzial: bis zu 79,20 € Provision pro Auftrag Hochwertiges B2B-Produkt mit klarem Nutzen und konstantem Bedarf Schnell & einfach vermarktbar: kein eigenes Produkt nötig Professionelle Werbematerialien: Banner, Textvorlagen, Social-Media-Motive, Videos Transparente Abwicklung: Alles läuft über Digistore24 – Tracking, Auszahlung, Übersicht Sofortiger Zugang zu Werbemitteln: (coming soon) Wir freuen uns auf die gute Zusammenarbeit!
 
 ## 2. Links
 

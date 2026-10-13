@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Profitiere auf 50% Provision auf alle Addons + Upsells</h3>
-<h3>InstaBoost AI</h3>
-<div> </div>
-<div>
-<h2>Mit <strong>„InstaBoost AI“</strong> nutzt du die Power von künstlicher Intelligenz, um dein Instagram-Business <strong>effizient aufzubauen und zu automatisieren</strong>.</h2>
-<br />
-<h2>Von KI-generierten Beiträgen bis hin zu smarten Monetarisierungsstrategien – dieser Kurs zeigt dir, wie du mit <strong>weniger Zeitaufwand mehr Reichweite, Engagement und Umsatz erzielst!</strong> </h2>
-</div>
+**Vendor's marketplace description:** Profitiere auf 50% Provision auf alle Addons + Upsells InstaBoost AI Mit „InstaBoost AI“ nutzt du die Power von künstlicher Intelligenz, um dein Instagram-Business effizient aufzubauen und zu automatisieren . Von KI-generierten Beiträgen bis hin zu smarten Monetarisierungsstrategien – dieser Kurs zeigt dir, wie du mit weniger Zeitaufwand mehr Reichweite, Engagement und Umsatz erzielst!
 
 ## 2. Links
 

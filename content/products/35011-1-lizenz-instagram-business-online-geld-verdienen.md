@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><strong>1% Lizenz - <span style="background-color:#ffff00;">50% pro Verkauf!</span></strong><strong><br /></strong></h4>
-<p><strong>Erschaffe dir dein eigenes Netzwerk und erhalte 20% passive Provisionen von jedem Verkauf!</strong></p>
-<p><span style="color:#000000;"><strong>✘ <span style="color:#000000;"><span style="color:#ff0000;"><span style="color:#000000;">Hinweis!</span> </span></span></strong>Funnel beginnt immer mit dem 1% Club.</span></p>
-<p><strong><span style="text-decoration:underline;">Einzigartig:</span><br /></strong>• 75% Provision vom 1% Club - 15€<br />• 50% Provision auf Up/Downsale - 25€/18€<br />• 50% Provision auf Follow Up - 100€/56€<br />• Zusätzlich 20% vom Order Bump<strong><br /><br /></strong>Verdiene als Affiliate bis zu <span style="background-color:#ffff00;"><strong>215€ pro Verkauf!</strong><strong> </strong></span></p>
-<p><strong><span style="text-decoration:underline;">2. Level Provisionen:</span><br /></strong>Verdiene weitere 20% passiv für jeden Verkauf eines von dir beworbenen Affiliates! (exkl. für Mitglieder)</p>
-<p><strong>Affiliate Reward:<br /></strong>Erhalte als Top Affiliate zusätzliche monatliche Preise für deine Leistung.</p>
-<p><span style="color:#0000ff;"><a style="color:#0000ff;" href="https://einprozentclub.com/Affiliate-Support/" target="_blank" rel="noreferrer noopener"><strong>&gt;&gt; Hinweise zum Partnerprogramm (hier klicken) &lt;&lt;</strong></a></span></p>
-<p><strong><a href="https://einprozentclub.com/Affiliate-Reward/" target="_blank" rel="noreferrer noopener">&gt; Affiliate Reward Rangliste &lt;</a></strong></p>
+**Vendor's marketplace description:** 1% Lizenz - 50% pro Verkauf! Erschaffe dir dein eigenes Netzwerk und erhalte 20% passive Provisionen von jedem Verkauf! ✘ Hinweis! Funnel beginnt immer mit dem 1% Club. Einzigartig: • 75% Provision vom 1% Club - 15€ • 50% Provision auf Up/Downsale - 25€/18€ • 50% Provision auf Follow Up - 100€/56€ • Zusätzlich 20% vom Order Bump Verdiene als Affiliate bis zu 215€ pro Verkauf! 2. Level Provisionen: Verdiene weitere 20% passiv für jeden Verkauf eines von dir beworbenen Affiliates! (exkl. für Mitglieder) Affiliate Reward: Erhalte als Top Affiliate zusätzliche monatliche Preise für deine Leistung. >> Hinweise zum Partnerprogramm (hier klicken) << > Affiliate Reward Rangliste <
 
 ## 2. Links
 

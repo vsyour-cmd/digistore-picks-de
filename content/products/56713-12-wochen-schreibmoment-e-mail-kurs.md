@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>12 Wochen Schreibmoment</strong> ist ein E-Mail-Kurs für Menschen, die wieder ins Schreiben kommen möchten – ohne Druck, ohne Perfektionismus und ohne Vorkenntnisse. Die Teilnehmenden erhalten über 12 Wochen wöchentlich eine inspirierende E-Mail mit Schreibimpulsen, Reflexionsfragen und einem passenden Workbook als PDF. Der Kurs eignet sich für alle, die Gedanken sortieren, Erinnerungen festhalten, persönliche Texte schreiben oder eine kleine Schreibroutine entwickeln möchten.</p>
+**Vendor's marketplace description:** 12 Wochen Schreibmoment ist ein E-Mail-Kurs für Menschen, die wieder ins Schreiben kommen möchten – ohne Druck, ohne Perfektionismus und ohne Vorkenntnisse. Die Teilnehmenden erhalten über 12 Wochen wöchentlich eine inspirierende E-Mail mit Schreibimpulsen, Reflexionsfragen und einem passenden Workbook als PDF. Der Kurs eignet sich für alle, die Gedanken sortieren, Erinnerungen festhalten, persönliche Texte schreiben oder eine kleine Schreibroutine entwickeln möchten.
 
 ## 2. Links
 

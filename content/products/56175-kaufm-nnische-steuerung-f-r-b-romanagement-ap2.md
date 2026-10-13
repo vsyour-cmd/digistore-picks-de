@@ -41,66 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Kaufmännische Steuerung für Büromanagement gaaanz einfach! – Das Komplettpaket für die AP2</strong></h2>
-<p><strong>Das ultimative Bundle für den häufigsten Ausbildungsberuf Deutschlands – hohe Provision bei maximalem Kundennutzen.</strong></p>
-<p>„Kaufmännische Steuerung für Büromanagement gaaanz einfach!“ ist das Rundum-Sorglos-Paket für alle, die sich sicher und ohne Stress auf die <strong>Abschlussprüfung Teil 2 (AP2)</strong> vorbereiten wollen. Das Bundle kombiniert meine 3 Erfolgskurse (Buchführung, KLR und Finanzierung) mit einem exklusiven Prüfungsheft.</p>
-<p>Statt trockener Theorie erwartet die Teilnehmenden eine unterhaltsame, verständliche und motivierende Vermittlung mit <strong>Tischler Martin</strong>, dem Helden meiner animierten Zeichentrickgeschichten. So wird aus einem „Angstfach“ ein echtes Erfolgserlebnis.</p>
-<p><strong>Das steckt im Kurs:</strong></p>
-<ul>
-<li>
-<p><strong>236 Videos (ca. 15 Std.)</strong> – alle wichtigen Themen (Buchführung, KLR, Finanzierung) klar und humorvoll erklärt.</p>
-</li>
-<li>
-<p><strong>310 Seiten Arbeitshefte</strong> – mit Aufgaben und Lösungen.</p>
-</li>
-<li>
-<p><strong>247 Seiten Übungshefte</strong> – mit prüfungsnahen Aufgaben und Musterlösungen.</p>
-</li>
-<li>
-<p><strong>180-seitiges Prüfungsheft</strong> – mit Aufgaben im Stil von 10 Originalprüfungen (AP2) inklusive Lösungen.</p>
-</li>
-<li>
-<p><strong>Schritt-für-Schritt-Anleitungen</strong>, Lösungsschemata, Übersichten &amp; Online-Tests.</p>
-</li>
-<li>
-<p><strong>Kein Vorwissen nötig</strong> – perfekt zum Lernen von Null an sowie zum Wiederholen und Vertiefen.</p>
-</li>
-</ul>
-<p><strong>Für wen ist der Kurs ideal:</strong></p>
-<ul>
-<li>
-<p><strong>Auszubildende und Umschüler</strong> im Beruf Kaufmann/Kauffrau für Büromanagement.</p>
-</li>
-<li>
-<p><strong>Berufsschulen, Bildungsträger</strong> und Prüfungsvorbereitungskurse.</p>
-</li>
-</ul>
-<p><strong>Was den Kurs besonders macht:</strong></p>
-<p>Statt starrer Theorie gibt es eine <strong>einzigartige Kombination aus Storytelling, Humor und Fachwissen</strong>. Teilnehmende begleiten Tischler Martin durch seinen Betrieb und lernen komplexe Themen genau dann, wenn sie in der Praxis auftreten. Zudem bietet das Bundle einen massiven <strong>Preisvorteil von fast 100 €</strong> gegenüber den Einzelkursen, was die Kaufentscheidung extrem erleichtert. Die Rückmeldungen sind eindeutig: Die Teilnehmenden fühlen sich endlich sicher und haben beim Lernen sogar gelacht.</p>
-<p><strong>Hinweis zur Affiliate-Partnerschaft:</strong></p>
-<p>Die Affiliate-Partnerschaft wird <strong>nicht automatisch freigegeben</strong>. Bitte stelle deine Anfrage über den Button auf dieser Seite. Ich melde mich dann <strong>persönlich bei dir</strong>, und wir besprechen gemeinsam, wie du das Komplettpaket am besten bewirbst. Ich unterstütze dich aktiv mit Material, Strategie und ehrlichem Interesse an deinem Erfolg.</p>
-<p><strong>Warum du diesen Kurs bewerben solltest:</strong></p>
-<ul>
-<li>
-<p><strong>Riesige Zielgruppe:</strong> Büromanagement ist der häufigste Ausbildungsberuf in Deutschland mit enormem Prüfungsdruck.</p>
-</li>
-<li>
-<p><strong>Unschlagbares Angebot:</strong> Hoher Warenkorbwert (149 €) bei gleichzeitig massivem Ersparnis-Argument für den Kunden.</p>
-</li>
-<li>
-<p><strong>50 % Provision</strong> pro Verkauf.</p>
-</li>
-<li>
-<p><strong>Rückgabequote unter 1 %</strong> durch hohe Qualität und den beliebten „Tischler Martin“-Ansatz.</p>
-</li>
-<li>
-<p><strong>Durchschnittlich 4,8 Sterne</strong> auf anderen Plattformen.</p>
-</li>
-<li>
-<p><strong>Persönliche Betreuung</strong> statt Massenfreigabe.</p>
-</li>
-</ul>
-<p>Ich arbeite lieber mit wenigen, engagierten Partnern,  dafür mit echter Unterstützung und einer Win-Win-Zusammenarbeit.</p>
+**Vendor's marketplace description:** Kaufmännische Steuerung für Büromanagement gaaanz einfach! – Das Komplettpaket für die AP2 Das ultimative Bundle für den häufigsten Ausbildungsberuf Deutschlands – hohe Provision bei maximalem Kundennutzen. „Kaufmännische Steuerung für Büromanagement gaaanz einfach!“ ist das Rundum-Sorglos-Paket für alle, die sich sicher und ohne Stress auf die Abschlussprüfung Teil 2 (AP2) vorbereiten wollen. Das Bundle kombiniert meine 3 Erfolgskurse (Buchführung, KLR und Finanzierung) mit einem exklusiven Prüfungsheft. Statt trockener Theorie erwartet die Teilnehmenden eine unterhaltsame, verständliche und motivierende Vermittlung mit Tischler Martin , dem Helden meiner animierten Zeichentrickgeschichten. So wird aus einem „Angstfach“ ein echtes Erfolgserlebnis. Das steckt im Kurs: 236 Videos (ca. 15 Std.) – alle wichtigen Themen (Buchführung, KLR, Finanzierung) klar und humorvoll erklärt. 310 Seiten Arbeitshefte – mit Aufgaben und Lösungen. 247 Seiten Übungshefte – mit prüfungsnahen Aufgaben und Musterlösungen. 180-seitiges Prüfungsheft – mit Aufgaben im Stil von 10 Originalprüfungen (AP2) inklusive Lösungen. Schritt-für-Schritt-Anleitungen , Lösungsschemata, Übersichten & Online-Tests. Kein Vorwissen nötig – perfekt zum Lernen von Null an sowie zum Wiederholen und Vertiefen. Für wen ist der Kurs ideal: Auszubildende und Umschüler im Beruf Kaufmann/Kauffrau für Büromanagement. Berufsschulen, Bildungsträger und Prüfungsvorbereitungskurse. Was den Kurs besonders macht: Statt starrer Theorie gibt es eine einzigartige Kombination aus Storytelling, Humor und Fachwissen . Teilnehmende begleiten Tischler Martin durch seinen Betrieb und lernen komplexe Themen genau dann, wenn sie in der Praxis auftreten. Zudem bietet das Bundle einen massiven Preisvorteil von fast 100 € gegenüber den Einzelkursen, was die Kaufentscheidung extrem erleichtert. Die Rückmeldungen sind eindeutig: Die Teilnehmenden fühlen sich endlich sicher und haben beim Lernen sogar gelacht. Hinweis zur Affiliate-Partnerschaft: Die Affiliate-Partnerschaft wird nicht automatisch freigegeben . Bitte stelle deine Anfrage über den Button auf dieser Seite. Ich melde mich dann persönlich bei dir , und wir besprechen gemeinsam, wie du das Komplettpaket am besten bewirbst. Ich unterstütze dich aktiv mit Material, Strategie und ehrlichem Interesse an deinem Erfolg. Warum du diesen Kurs bewerben solltest: Riesige Zielgruppe: Büromanagement ist der häufigste Ausbildungsberuf in Deutschland mit enormem Prüfungsdruck. Unschlagbares Angebot: Hoher Warenkorbwert (149 €) bei gleichzeitig massivem Ersparnis-Argument für den Kunden. 50 % Provision pro Verkauf. Rückgabequote unter 1 % durch hohe Qualität und den beliebten „Tischler Martin“-Ansatz. Durchschnittlich 4,8 Sterne auf anderen Plattformen. Persönliche Betreuung statt Massenfreigabe. Ich arbeite lieber mit wenigen, engagierten Partnern, dafür mit echter Unterstützung und einer Win-Win-Zusammenarbeit.
 
 ## 2. Links
 

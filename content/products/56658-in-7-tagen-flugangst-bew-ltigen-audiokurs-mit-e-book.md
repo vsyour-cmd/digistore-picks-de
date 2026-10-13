@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Flugangst bewältigen | Ein Online-Audiokurs in 7 Schritten</p>
-<div>
-<p>Dieser Kurs hilft dir dabei, wieder ruhiger zu werden, Kontrolle zurückzugewinnen und Fliegen Schritt für Schritt entspannter zu erleben.</p>
-<p>Mit verständlichen Audio-Einheiten, sanften Übungen und klaren psychologischen Impulsen lernst du, deinen Körper und deine Gedanken während des Fliegens besser zu regulieren.</p>
-<p>Viele Menschen vermeiden Reisen jahrelang wegen ihrer Flugangst.<strong>Du kannst heute beginnen, das zu verändern.</strong></p>
-</div>
+**Vendor's marketplace description:** Flugangst bewältigen | Ein Online-Audiokurs in 7 Schritten Dieser Kurs hilft dir dabei, wieder ruhiger zu werden, Kontrolle zurückzugewinnen und Fliegen Schritt für Schritt entspannter zu erleben. Mit verständlichen Audio-Einheiten, sanften Übungen und klaren psychologischen Impulsen lernst du, deinen Körper und deine Gedanken während des Fliegens besser zu regulieren. Viele Menschen vermeiden Reisen jahrelang wegen ihrer Flugangst. Du kannst heute beginnen, das zu verändern.
 
 ## 2. Links
 

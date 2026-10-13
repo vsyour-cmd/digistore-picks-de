@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Vom kleinen Kanal zur gefragten Creator-Marke – mit Weiterleitungen, Kooperationen und Monetarisierung</strong></p>
-<p>Reichweite auf Telegram aufzubauen funktioniert anders als auf Instagram oder TikTok – und das ist dein Vorteil. Kein Algorithmus, der dich ausbremst: Weiterleitungen und Cross-Promo mit anderen Kanälen sind auf Telegram der wichtigste Wachstumsmotor überhaupt. Dieses E-Book zeigt dir den Weg vom kleinen Kanal zur gefragten Creator-Marke: wie du durch strategische Kanal-Kooperationen schnell wächst, mit Gruppen eine loyale Community bindest und dich für gesponserte Posts und Telegram Ads professionell aufstellst. Du lernst, wie du Mediadaten für Telegram erstellst, die Werbepartner überzeugen, wie du Telegram Stars als direktes Trinkgeld-System nutzt und wie du Premium-Zugänge als Abo-Modell aufbaust.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Cross-Promo &amp; Weiterleitungen: der wichtigste Wachstumshebel auf Telegram</li>
-<li>Kanal-Kooperationen finden, anfragen und erfolgreich umsetzen</li>
-<li>Aus Abonnenten eine aktive Community in Gruppen machen</li>
-<li>Dein Mediadaten-Kit: gesponserte Posts, die Werbepartner überzeugen</li>
-<li>Telegram Stars als direktes Trinkgeld- und Unterstützungs-System nutzen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Vom kleinen Kanal zur gefragten Creator-Marke – mit Weiterleitungen, Kooperationen und Monetarisierung Reichweite auf Telegram aufzubauen funktioniert anders als auf Instagram oder TikTok – und das ist dein Vorteil. Kein Algorithmus, der dich ausbremst: Weiterleitungen und Cross-Promo mit anderen Kanälen sind auf Telegram der wichtigste Wachstumsmotor überhaupt. Dieses E-Book zeigt dir den Weg vom kleinen Kanal zur gefragten Creator-Marke: wie du durch strategische Kanal-Kooperationen schnell wächst, mit Gruppen eine loyale Community bindest und dich für gesponserte Posts und Telegram Ads professionell aufstellst. Du lernst, wie du Mediadaten für Telegram erstellst, die Werbepartner überzeugen, wie du Telegram Stars als direktes Trinkgeld-System nutzt und wie du Premium-Zugänge als Abo-Modell aufbaust. Das steckt drin: Cross-Promo & Weiterleitungen: der wichtigste Wachstumshebel auf Telegram Kanal-Kooperationen finden, anfragen und erfolgreich umsetzen Aus Abonnenten eine aktive Community in Gruppen machen Dein Mediadaten-Kit: gesponserte Posts, die Werbepartner überzeugen Telegram Stars als direktes Trinkgeld- und Unterstützungs-System nutzen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

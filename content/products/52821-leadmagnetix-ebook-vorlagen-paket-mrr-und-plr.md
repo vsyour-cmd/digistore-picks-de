@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Profitiere von 50% Provision auf dieses Produkt + Addons+Upsells</p>
-<p>Erstelle und verkaufe dein eigenes digitales Produkt mit Leichtigkeit! Unsere <strong>MRR &amp; PLR Canva-Vorlage</strong> bietet dir alles, was du brauchst, um ansprechende eBooks, Arbeitsbücher oder Leitfäden zu gestalten. Vollständig <strong>editierbar und individuell anpassbar</strong>, sparst du Zeit und erhältst eine professionelle Lösung, die du dank Privatlabel- und Master-Wiederverkaufsrechten als eigenes Produkt verkaufen kannst.</p>
-<p><strong>Features auf einen Blick</strong>:</p>
-<ul>
-<li>Umfangreiches Branding- und Designkit mit <strong>40+ vorgefertigten Seiten</strong>.</li>
-<li>Enthält Seiten für Inhalte, Diagramme, Checklisten, Call-to-Actions, FAQs und mehr.</li>
-<li><strong>Bonus Social Media Planner</strong> für deine Marketingstrategie.</li>
-<li>Kompatibel mit <strong>Canva</strong> für einfache Bearbeitung – auch für Anfänger.</li>
-<li><strong>Größenoptionen:</strong> US Letter und A4 für maximale Flexibilität.</li>
-</ul>
-<p><strong>Ideal für</strong> Coaches, Etsy-Verkäufer und digitale Entrepreneure, die ihre Angebote aufwerten möchten. <strong>Lade es sofort herunter</strong>, bearbeite es, füge dein Branding hinzu, und erziele Einnahmen mit einem professionellen Produkt.</p>
+**Vendor's marketplace description:** Profitiere von 50% Provision auf dieses Produkt + Addons+Upsells Erstelle und verkaufe dein eigenes digitales Produkt mit Leichtigkeit! Unsere MRR & PLR Canva-Vorlage bietet dir alles, was du brauchst, um ansprechende eBooks, Arbeitsbücher oder Leitfäden zu gestalten. Vollständig editierbar und individuell anpassbar , sparst du Zeit und erhältst eine professionelle Lösung, die du dank Privatlabel- und Master-Wiederverkaufsrechten als eigenes Produkt verkaufen kannst. Features auf einen Blick : Umfangreiches Branding- und Designkit mit 40+ vorgefertigten Seiten . Enthält Seiten für Inhalte, Diagramme, Checklisten, Call-to-Actions, FAQs und mehr. Bonus Social Media Planner für deine Marketingstrategie. Kompatibel mit Canva für einfache Bearbeitung – auch für Anfänger. Größenoptionen: US Letter und A4 für maximale Flexibilität. Ideal für Coaches, Etsy-Verkäufer und digitale Entrepreneure, die ihre Angebote aufwerten möchten. Lade es sofort herunter , bearbeite es, füge dein Branding hinzu, und erziele Einnahmen mit einem professionellen Produkt.
 
 ## 2. Links
 

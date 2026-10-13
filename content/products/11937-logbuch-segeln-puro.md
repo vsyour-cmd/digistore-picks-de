@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Logbuch Segeln. Puro.</h2>
-<h2>PDF - Sofort-Selber-Drucken</h2>
-<ul>
-<li>erweiterte Logbuch-Seiten f&uuml;r Charter-Skipper</li>
-<li>f&uuml;r 6 T&ouml;rns, 160 Seiten</li>
-<li>farbig oder s/w drucken, DIN A4 oder A5</li>
-<li>sofort runterladen - drucken - segeln _/)_</li>
-<li>Details: <a title="Logbuch Segeln. Puro. PDF zum Sofort-Selber-Drucken" href="http://charter-logbuch.de/index.php/logbuch-vorlage-pdf-ebook" target="_blank">www.charter-logbuch.de</a></li>
-<li><strong>Bonus:</strong> <a title="eBook: Checklisten f&uuml;r Segelt&ouml;rns zur Vorbereitung" href="http://charter-logbuch.de/index.php/downloads/epub-checklisten-fuer-segeltoerns" target="_blank">Checklisten f&uuml;r Segelt&ouml;rns zur Vorbereitung</a></li>
-</ul>
+**Vendor's marketplace description:** Logbuch Segeln. Puro. PDF - Sofort-Selber-Drucken erweiterte Logbuch-Seiten f&uuml;r Charter-Skipper f&uuml;r 6 T&ouml;rns, 160 Seiten farbig oder s/w drucken, DIN A4 oder A5 sofort runterladen - drucken - segeln _/)_ Details: www.charter-logbuch.de Bonus: Checklisten f&uuml;r Segelt&ouml;rns zur Vorbereitung
 
 ## 2. Links
 

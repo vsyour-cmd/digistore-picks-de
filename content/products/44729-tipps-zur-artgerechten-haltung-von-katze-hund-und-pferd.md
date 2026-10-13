@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Dieser wertvolle Ratgeber wird statt € 29,90 kostenlos angeboten</strong></p>
-<ul>
-<li><strong>Mach dich mit der artgerechten Tierhaltung vertraut</strong></li>
-<li>Tipps &amp; Anleitungen</li>
-<li><strong>Du wirst die Fachbegriffe verstehen</strong></li>
-<li>Zeit sparen und sofort anwenden</li>
-<li><strong>Schritt für Schritt</strong> Erklärung</li>
-<li>Du hast mit <strong>diesem E-Book ein Geschenk für deine Community</strong> und wirst am<strong> kompletten Sales-Funnel beteiligt!</strong></li>
-</ul>
-<p>Wenn du ein Tierliebhaber bist und darüber nachdenkst, dein Zuhause zu einem tierfreundlichen Ort zu machen, dann bist du hier genau richtig!</p>
-<p>In diesem E-Book möchte ich meine persönlichen Tipps zur tiergerechten Haltung von Hunden, Katzen und Pferden geben. </p>
-<p>Hohe Conversion, da es für den Kunden kostenlos ist.</p>
-<h4>55 % Provision!</h4>
-<p>Beteiligt an Up- und Downsell<br /><strong>Über 47 € im Funnel für dich möglich!</strong></p>
+**Vendor's marketplace description:** Dieser wertvolle Ratgeber wird statt € 29,90 kostenlos angeboten Mach dich mit der artgerechten Tierhaltung vertraut Tipps & Anleitungen Du wirst die Fachbegriffe verstehen Zeit sparen und sofort anwenden Schritt für Schritt Erklärung Du hast mit diesem E-Book ein Geschenk für deine Community und wirst am kompletten Sales-Funnel beteiligt! Wenn du ein Tierliebhaber bist und darüber nachdenkst, dein Zuhause zu einem tierfreundlichen Ort zu machen, dann bist du hier genau richtig! In diesem E-Book möchte ich meine persönlichen Tipps zur tiergerechten Haltung von Hunden, Katzen und Pferden geben. Hohe Conversion, da es für den Kunden kostenlos ist. 55 % Provision! Beteiligt an Up- und Downsell Über 47 € im Funnel für dich möglich!
 
 ## 2. Links
 

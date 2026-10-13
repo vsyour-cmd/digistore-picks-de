@@ -41,62 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>In nur 48 Stunden zur eigenen Webseite – professionell, einfach und ohne Technik-Stress. Inklusive zwei Landingpages! Perfekt fürs Coaching-Business: In 48 Stunden ready to sell! <br /><br />Von Jyotima Flak, Top-Expertin im Bereich Online-Marketing<br /><br />WordPress-Webseite in 48 Stunden:</strong> Verkaufsstark, 9 Seiten inklusive 2 Landingpages!<br /><br /><strong>Inklusive:</strong></p>
-<div>
-<div>
-<div>
-<div>
-<p><strong>• Komplett fertige WordPress-Webseite mit Divi-Templates</strong> – individuell anpassbar! Upload in wenigen Minuten als komplette Webseite oder Einzelseiten!</p>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<p><strong>• 9 gestaltete Seiten</strong>: Startseite, Über mich, Angebote, Kontakt, Rechtliches + 2 Landingpages für Freebie, Workshop oder Onlinekurs!</p>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<p><strong>• Texthilfen und Textvorlagen mit Positionierungs-Workbook</strong>, die deine Zielgruppe direkt ansprechen!</p>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<p><strong>• Design-Guides, Farbcodes und Canva-Vorlagen</strong> für Bilder und Grafiken, damit deine Webseite ein Juwel wird!</p>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<p><strong>• SEO-Starttipps</strong>, wie du Bilder und Texte optimierst, damit dich deine Kundinnen im Internet finden und buchen!</p>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<p><strong>• Rechtliche Seiten</strong> (Datenschutz, Impressum, Cookie-Banner) bereits vorinstalliert, starte unbesorgt in deine Sichtbarkeit!<br /><br /><br />Mehr Infos: <a href="https://jyotimaflak.com/webseitein48h/">https://jyotimaflak.com/webseitein48h/</a><br />Supportseite: <a href="https://jyotimaflak.com/partner-werden/">https://jyotimaflak.com/partner-werden/</a></p>
-<p> </p>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** In nur 48 Stunden zur eigenen Webseite – professionell, einfach und ohne Technik-Stress. Inklusive zwei Landingpages! Perfekt fürs Coaching-Business: In 48 Stunden ready to sell! Von Jyotima Flak, Top-Expertin im Bereich Online-Marketing WordPress-Webseite in 48 Stunden: Verkaufsstark, 9 Seiten inklusive 2 Landingpages! Inklusive: • Komplett fertige WordPress-Webseite mit Divi-Templates – individuell anpassbar! Upload in wenigen Minuten als komplette Webseite oder Einzelseiten! • 9 gestaltete Seiten : Startseite, Über mich, Angebote, Kontakt, Rechtliches + 2 Landingpages für Freebie, Workshop oder Onlinekurs! • Texthilfen und Textvorlagen mit Positionierungs-Workbook , die deine Zielgruppe direkt ansprechen! • Design-Guides, Farbcodes und Canva-Vorlagen für Bilder und Grafiken, damit deine Webseite ein Juwel wird! • SEO-Starttipps , wie du Bilder und Texte optimierst, damit dich deine Kundinnen im Internet finden und buchen! • Rechtliche Seiten (Datenschutz, Impressum, Cookie-Banner) bereits vorinstalliert, starte unbesorgt in deine Sichtbarkeit! Mehr Infos: https://jyotimaflak.com/webseitein48h/ Supportseite: https://jyotimaflak.com/partner-werden/
 
 ## 2. Links
 

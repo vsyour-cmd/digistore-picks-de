@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><span style="background-color:#ffff00;color:#000000;">Werde Affiliate-Partner und verdiene 25% Provision!</span></h4>
-<p>Launch: 13.03.2022</p>
-<h4><span style="text-decoration:underline;"><span style="color:#ff9900;text-decoration:underline;">Der neue NFT Kurs von der NFT Akademie</span></span></h4>
-<h4>✅ <strong>NFTs lernen und Geld verdienen mit NFTs im Online-Video-Kurs</strong><strong>!</strong> </h4>
-<ul>
-<li>NFTs verstehen und alle wichtigen Grundlagen</li>
-<li>Richtig in NFTs investieren</li>
-<li>Alle Do's und Dont's in der NFT-Welt</li>
-<li>Profitable NFTs finden, kaufen und flippen</li>
-<li>Eigene NFTs erstellen, veröffentlichen und verkaufen</li>
-<li>Fallbeispiele, Strategien und Insights</li>
-<li>Checklisten, Guides und Tools</li>
-</ul>
-<p> </p>
-<p>In über 50 Lektionen und Tools lernen NFTs zu verstehen, richtig in NFTs zu investieren, alle Do’s and Dont’s und wie erfolgreicher Vermögensaufbau mit NFTs funktioniert.</p>
-<p> </p>
-<p><span style="text-decoration:underline;"><strong>Zielgruppe: </strong></span>Alle die Online Geld verdienen wollen, gerne investieren und sich ein Nebeneinkommen aufbauen wollen. Investieren in NFTs</p>
+**Vendor's marketplace description:** Werde Affiliate-Partner und verdiene 25% Provision! Launch: 13.03.2022 Der neue NFT Kurs von der NFT Akademie ✅ NFTs lernen und Geld verdienen mit NFTs im Online-Video-Kurs ! NFTs verstehen und alle wichtigen Grundlagen Richtig in NFTs investieren Alle Do's und Dont's in der NFT-Welt Profitable NFTs finden, kaufen und flippen Eigene NFTs erstellen, veröffentlichen und verkaufen Fallbeispiele, Strategien und Insights Checklisten, Guides und Tools In über 50 Lektionen und Tools lernen NFTs zu verstehen, richtig in NFTs zu investieren, alle Do’s and Dont’s und wie erfolgreicher Vermögensaufbau mit NFTs funktioniert. Zielgruppe: Alle die Online Geld verdienen wollen, gerne investieren und sich ein Nebeneinkommen aufbauen wollen. Investieren in NFTs
 
 ## 2. Links
 

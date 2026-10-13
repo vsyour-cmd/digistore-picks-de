@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Unterstütze Tierbesitzer dabei, in kritischen Situationen schnell und richtig zu handeln – und profitiere gleichzeitig von attraktiven Provisionen.</p>
-<div>Dieses digitale Handbuch richtet sich an eine hoch engagierte Zielgruppe: Menschen, die die Sicherheit und das Wohl ihres Tieres ernst nehmen und im Ernstfall vorbereitet sein möchten.</div>
-<div> </div>
+**Vendor's marketplace description:** Unterstütze Tierbesitzer dabei, in kritischen Situationen schnell und richtig zu handeln – und profitiere gleichzeitig von attraktiven Provisionen. Dieses digitale Handbuch richtet sich an eine hoch engagierte Zielgruppe: Menschen, die die Sicherheit und das Wohl ihres Tieres ernst nehmen und im Ernstfall vorbereitet sein möchten.
 
 ## 2. Links
 

@@ -41,74 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Online Ausbildung zum Holistic Skin &amp; Health Expert, staatlich Zugelassen mit Abschlusszertifikat</h4>
-<h4>( 6 Monate)</h4>
-<p>Werde zertifizierter Holistic Skin &amp; Health Expert nach der Gesundhaut® Methode </p>
-<h3><strong>Deine Vorteile auf einen Blick:</strong></h3>
-<ul>
-<li><strong>ZFU-zertifizierter Fernlehrgang:</strong> Ein staatlich geprüfter Fernunterricht nach dem FernUSG.</li>
-<li><strong>Sofortiger Start:</strong> Dein Zugang zur Lernplattform wird unmittelbar nach Zahlungseingang freigeschaltet.</li>
-<li><strong>Praxisnahe Inhalte:</strong> 10 Module inkl. Videoinhalten, von Stoffwechselgrundlagen über Blut- und Darmdiagnostik bis hin zum Lifestylemanagement.</li>
-</ul>
-<ul>
-<li><strong>Interaktive Lernerfolgskontrolle:</strong> Multiple-Choice-Tests nach den Modulen sowie zwei fachkundig begleitete Fallarbeiten (Blut- und Darmbefund).</li>
-<li><strong>Zertifizierter Abschluss:</strong> Nach Bestehen der internen Abschlussprüfung erhältst du dein Zertifikat, welches zudem die Zulassungsvoraussetzung für eine optionale personenbezogene TÜV Rheinland Zertifizierung erfüllt</li>
-<li>Während der 6 Monate erhältst du Zugriff auf deine Community</li>
-<li>Du erhälst persönliches Feedback bei deiner Umsetzung über die Abgabefunktionen in deiner Lernplattform ( Learning Suite)</li>
-<li>18 Monate Zugriff auf die Lerninhalte</li>
-</ul>
-<h3><strong>Modulübersicht der Ausbildung</strong></h3>
-<ul>
-<li>
-<p><strong>Dein Start</strong> 10 Lektionen | 67 Min.</p>
-</li>
-<li>
-<p><strong>Modul 1: Einführung in die Gesundhaut Methode</strong> 6 Lektionen | 79 Min.</p>
-</li>
-<li>
-<p><strong>Modul 2: Grundlagen Stoffwechsel</strong> 20 Lektionen | 321 Min.</p>
-</li>
-<li>
-<p><strong>Modul 3: Haut als Wegweiser – Korneotherapeutisch denken</strong> 37 Lektionen | 525 Min.</p>
-</li>
-<li>
-<p><strong>Modul 4: Anamnese / Fragebögen</strong> 23 Lektionen | 192 Min.</p>
-</li>
-<li>
-<p><strong>Modul 5: Blutwerte in der Praxis</strong> 40 Lektionen | 370 Min.</p>
-</li>
-<li>
-<p><strong>Modul 6: Darmdiagnostik in der Praxis</strong> 30 Lektionen | 317 Min.</p>
-</li>
-<li>
-<p><strong>Modul 7: Nährstoffmedizin</strong> 25 Lektionen | 251 Min.</p>
-</li>
-<li>
-<p><strong>Modul 8: Stoffwechselungleichgewichte erkennen und regulieren</strong> 31 Lektionen | 553 Min.</p>
-</li>
-<li>
-<p><strong>Modul 9: GESUNDHAUT Reset Ernährungskonzept</strong> 27 Lektionen | 355 Min.</p>
-</li>
-<li>
-<p><strong>Modul 10: Lifestylemanagement</strong> 22 Lektionen | 252 Min.</p>
-<h3><strong>Exklusive Bonusinhalte</strong></h3>
-<p>Zusätzlich zu den Kernmodulen erhältst du Zugriff auf umfangreiches Bonusmaterial für deine Praxis:</p>
-<ul>
-<li>
-<p><strong>Bonus: Health &amp; Skin Tools</strong> (6 Lektionen | 176 Min.)</p>
-</li>
-<li>
-<p><strong>Bonus: Skin Tools: DIY Hautpflege</strong> (11 Lektionen | 335 Min.)</p>
-</li>
-<li>
-<p><strong>Bonus: Deine ersten Schritte als Expertin</strong> (19 Lektionen | 171 Min.)</p>
-</li>
-<li>
-<p><strong>Bonus: Ganzheitliches Coaching &amp; Kommunikation in der Praxis</strong> (4 Lektionen | 35 Min.)</p>
-</li>
-</ul>
-</li>
-</ul>
+**Vendor's marketplace description:** Online Ausbildung zum Holistic Skin & Health Expert, staatlich Zugelassen mit Abschlusszertifikat ( 6 Monate) Werde zertifizierter Holistic Skin & Health Expert nach der Gesundhaut® Methode Deine Vorteile auf einen Blick: ZFU-zertifizierter Fernlehrgang: Ein staatlich geprüfter Fernunterricht nach dem FernUSG. Sofortiger Start: Dein Zugang zur Lernplattform wird unmittelbar nach Zahlungseingang freigeschaltet. Praxisnahe Inhalte: 10 Module inkl. Videoinhalten, von Stoffwechselgrundlagen über Blut- und Darmdiagnostik bis hin zum Lifestylemanagement. Interaktive Lernerfolgskontrolle: Multiple-Choice-Tests nach den Modulen sowie zwei fachkundig begleitete Fallarbeiten (Blut- und Darmbefund). Zertifizierter Abschluss: Nach Bestehen der internen Abschlussprüfung erhältst du dein Zertifikat, welches zudem die Zulassungsvoraussetzung für eine optionale personenbezogene TÜV Rheinland Zertifizierung erfüllt Während der 6 Monate erhältst du Zugriff auf deine Community Du erhälst persönliches Feedback bei deiner Umsetzung über die Abgabefunktionen in deiner Lernplattform ( Learning Suite) 18 Monate Zugriff auf die Lerninhalte Modulübersicht der Ausbildung Dein Start 10 Lektionen | 67 Min. Modul 1: Einführung in die Gesundhaut Methode 6 Lektionen | 79 Min. Modul 2: Grundlagen Stoffwechsel 20 Lektionen | 321 Min. Modul 3: Haut als Wegweiser – Korneotherapeutisch denken 37 Lektionen | 525 Min. Modul 4: Anamnese / Fragebögen 23 Lektionen | 192 Min. Modul 5: Blutwerte in der Praxis 40 Lektionen | 370 Min. Modul 6: Darmdiagnostik in der Praxis 30 Lektionen | 317 Min. Modul 7: Nährstoffmedizin 25 Lektionen | 251 Min. Modul 8: Stoffwechselungleichgewichte erkennen und regulieren 31 Lektionen | 553 Min. Modul 9: GESUNDHAUT Reset Ernährungskonzept 27 Lektionen | 355 Min. Modul 10: Lifestylemanagement 22 Lektionen | 252 Min. Exklusive Bonusinhalte Zusätzlich zu den Kernmodulen erhältst du Zugriff auf umfangreiches Bonusmaterial für deine Praxis: Bonus: Health & Skin Tools (6 Lektionen | 176 Min.) Bonus: Skin Tools: DIY Hautpflege (11 Lektionen | 335 Min.) Bonus: Deine ersten Schritte als Expertin (19 Lektionen | 171 Min.) Bonus: Ganzheitliches Coaching & Kommunikation in der Praxis (4 Lektionen | 35 Min.)
 
 ## 2. Links
 

@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>P</strong><strong>rofitiere</strong> von einem einzigartigen Affiliate Programm!</p>
-<p><strong>Einzigartig [hohe Conversion]:<br /></strong>• 60% Provision vom GRATIS Buch - 3,90€<br />• 60% Provision auf Upsell - 22,84€<br />• 60% Provision auf Downsell - 52,96€<br />• Zusätzlich 60% vom Order Bump - 11,18€<strong><br /><br /></strong>Verdiene als Affiliate bis zu <strong>90€ pro Verkauf!</strong></p>
+**Vendor's marketplace description:** P rofitiere von einem einzigartigen Affiliate Programm! Einzigartig [hohe Conversion]: • 60% Provision vom GRATIS Buch - 3,90€ • 60% Provision auf Upsell - 22,84€ • 60% Provision auf Downsell - 52,96€ • Zusätzlich 60% vom Order Bump - 11,18€ Verdiene als Affiliate bis zu 90€ pro Verkauf!
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Unser Fotografie-Grundkurs ist ein 7-wöchiger Online-Kurs und zeigt dir, wie du umwerfend schöne Bilder machst. Egal, welche Kamera du hast. Ideal für Anfänger und Hobbyfotografen, die sicherer und kreativer mit ihrer Kamera arbeiten wollen. Der Kurs deckt ein breites Spektrum ab. Vom sicheren Beherrschen der eigenen Kamera über Blitztechniken, Bildgestaltung, Umgang mir der Person vor der Kamera bis hin zu Bildbearbeitung in Lightroom und Photoshop und vieles mehr. Lehrreich, unterhaltsam und charmant führt Christof Arnold durch die über 30 Video-Lektionen, auf die jeder Kurs-Teilnehmer zeitlich unbegrenzt Zugriff bekommt. Sehr beliebt ist die im Preis inbegriffene App, mit der man von überall aus mit dem Handy auf die Inhalte zugreifen kann.</p>
+**Vendor's marketplace description:** Unser Fotografie-Grundkurs ist ein 7-wöchiger Online-Kurs und zeigt dir, wie du umwerfend schöne Bilder machst. Egal, welche Kamera du hast. Ideal für Anfänger und Hobbyfotografen, die sicherer und kreativer mit ihrer Kamera arbeiten wollen. Der Kurs deckt ein breites Spektrum ab. Vom sicheren Beherrschen der eigenen Kamera über Blitztechniken, Bildgestaltung, Umgang mir der Person vor der Kamera bis hin zu Bildbearbeitung in Lightroom und Photoshop und vieles mehr. Lehrreich, unterhaltsam und charmant führt Christof Arnold durch die über 30 Video-Lektionen, auf die jeder Kurs-Teilnehmer zeitlich unbegrenzt Zugriff bekommt. Sehr beliebt ist die im Preis inbegriffene App, mit der man von überall aus mit dem Handy auf die Inhalte zugreifen kann.
 
 ## 2. Links
 

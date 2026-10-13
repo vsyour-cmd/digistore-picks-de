@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Sicherlich arbeitet ihr viel an der Wirkung und Körperwahrnehmung eurer Pferde. Und was ist mit eurer Ausstrahlung, Wahrnehmungskraft und Präsenz? Wie trainiert ihr diese?</p>
-<p>Und habt ihr euch bereits einmal Gedanken gemacht, wie eure Präsenz die Beziehung zu eurem Pferd unterstützen kann?</p>
-<p>In diesem Online Kurs erhaltet ihr 2 Methoden die euch dabei unterstützen, eine bewusste Körperwahrnehmung und dadurch Wirkung und Präsenz zu erlangen. Diese Übungen dienen nicht nur im Umgang mit eurem Pferd. Diese können euch in jedem Kontext dienlich sein. Eine positive Wirkung und Ausstrahlung ist in jedem Lebensbereich sinnvoll. </p>
-<p>Mehr über Alexandra Lohr, Persönlichkeitstrainerin unter <a href="http://www.bewusst-wirken.de" target="_blank" rel="noreferrer noopener">www.bewusst-wirken.de</a></p>
+**Vendor's marketplace description:** Sicherlich arbeitet ihr viel an der Wirkung und Körperwahrnehmung eurer Pferde. Und was ist mit eurer Ausstrahlung, Wahrnehmungskraft und Präsenz? Wie trainiert ihr diese? Und habt ihr euch bereits einmal Gedanken gemacht, wie eure Präsenz die Beziehung zu eurem Pferd unterstützen kann? In diesem Online Kurs erhaltet ihr 2 Methoden die euch dabei unterstützen, eine bewusste Körperwahrnehmung und dadurch Wirkung und Präsenz zu erlangen. Diese Übungen dienen nicht nur im Umgang mit eurem Pferd. Diese können euch in jedem Kontext dienlich sein. Eine positive Wirkung und Ausstrahlung ist in jedem Lebensbereich sinnvoll. Mehr über Alexandra Lohr, Persönlichkeitstrainerin unter www.bewusst-wirken.de
 
 ## 2. Links
 

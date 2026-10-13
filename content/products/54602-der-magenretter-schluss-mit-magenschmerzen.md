@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Das erwartet die Käufer beim Kurs „Der Magenretter“:</strong></h3>
-<p>Der ganzheitliche Online-Kurs gegen chronische Magenprobleme – <strong>verständlich, praxisnah und natürlich umsetzbar.</strong></p>
-<p>Wer ständig Magenschmerzen, Sodbrennen oder Druck im Bauch hat und endlich eine echte Lösung will, findet hier die Antwort.</p>
-<p><strong>Der Magenretter</strong> zeigt Schritt für Schritt, wie du deine Magenschleimhaut beruhigst, Entzündungen löst und wieder sorglos essen kannst – <strong>ohne Medikamente, ohne Verzicht.</strong></p>
-<p>✅ <strong>Ursachen verstehen statt Symptome bekämpfen</strong> – leicht erklärt, auch für Einsteiger.</p>
-<p>✅ <strong>Ganzheitliche Betrachtungsweise</strong> – durch Ernährung, Schleimhautaufbau, &amp; Stressabbau.</p>
-<p>✅ <strong>Praxisnahe Videos</strong> – kein Fachchinesisch, sondern einfache Umsetzung für den Alltag.</p>
-<p>✅ <strong>SOS-Strategien für akute Phasen</strong> – was du sofort tun kannst, wenn der Magen Probleme macht.</p>
-<p>✅ <strong>Begleitmaterial &amp; Checklisten</strong> – zur einfachen Anwendung im eigenen Tempo.</p>
-<p>✅ <strong>Bonusmodul:</strong> Kochbuch &amp; Vitamineinnameplan von mir persönlich sowie als Vorlage zum selbstausfüllen bei Magenproblemen.</p>
-<p>Dieser Kurs wird Menschen dabei helfen, <strong>endlich beschwerdefrei zu werden – ganz ohne Medikamente mit Nebenwirkung die nur Symptome Jahrelang unterdrücken statt Probleme langfrisitg zu lösen.</strong></p>
-<hr />
-<h3><strong>Vorteile für Affiliates – warum du HEUTE noch starten solltest:</strong></h3>
-<p><strong>50 % Provision pro Verkauf</strong> </p>
-<p><strong>Boomender Markt:</strong> Millionen Menschen leiden unter Magenbeschwerden, aber finden keine echte Hilfe.</p>
-<p><strong>Top-Zielgruppe:</strong> 25–60 Jährige mit chronischen Magenproblemen, Sodbrennen, Gastritis oder PPI-Abhängigkeit.</p>
-<p><strong>Starke Conversion:</strong> Emotionale Verkaufsseite, authentische Story &amp; Social Proof durch echte Erfahrungen.</p>
-<hr />
-<h3><strong>Komplettes Affiliate-Material inklusive:</strong></h3>
-<ul>
-<li>
-<p>3D-Produktbox</p>
-</li>
-<li>
-<p>Story-Vorlagen (Hook – Story – Offer)</p>
-</li>
-<li>
-<p>Zielgruppenanalyse </p>
-</li>
-</ul>
+**Vendor's marketplace description:** Das erwartet die Käufer beim Kurs „Der Magenretter“: Der ganzheitliche Online-Kurs gegen chronische Magenprobleme – verständlich, praxisnah und natürlich umsetzbar. Wer ständig Magenschmerzen, Sodbrennen oder Druck im Bauch hat und endlich eine echte Lösung will, findet hier die Antwort. Der Magenretter zeigt Schritt für Schritt, wie du deine Magenschleimhaut beruhigst, Entzündungen löst und wieder sorglos essen kannst – ohne Medikamente, ohne Verzicht. ✅ Ursachen verstehen statt Symptome bekämpfen – leicht erklärt, auch für Einsteiger. ✅ Ganzheitliche Betrachtungsweise – durch Ernährung, Schleimhautaufbau, & Stressabbau. ✅ Praxisnahe Videos – kein Fachchinesisch, sondern einfache Umsetzung für den Alltag. ✅ SOS-Strategien für akute Phasen – was du sofort tun kannst, wenn der Magen Probleme macht. ✅ Begleitmaterial & Checklisten – zur einfachen Anwendung im eigenen Tempo. ✅ Bonusmodul: Kochbuch & Vitamineinnameplan von mir persönlich sowie als Vorlage zum selbstausfüllen bei Magenproblemen. Dieser Kurs wird Menschen dabei helfen, endlich beschwerdefrei zu werden – ganz ohne Medikamente mit Nebenwirkung die nur Symptome Jahrelang unterdrücken statt Probleme langfrisitg zu lösen. Vorteile für Affiliates – warum du HEUTE noch starten solltest: 50 % Provision pro Verkauf Boomender Markt: Millionen Menschen leiden unter Magenbeschwerden, aber finden keine echte Hilfe. Top-Zielgruppe: 25–60 Jährige mit chronischen Magenproblemen, Sodbrennen, Gastritis oder PPI-Abhängigkeit. Starke Conversion: Emotionale Verkaufsseite, authentische Story & Social Proof durch echte Erfahrungen. Komplettes Affiliate-Material inklusive: 3D-Produktbox Story-Vorlagen (Hook – Story – Offer) Zielgruppenanalyse
 
 ## 2. Links
 

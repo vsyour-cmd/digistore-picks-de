@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><strong>3 Manifestierungs-Schlüssel zur gezielten Realitätserschaffung…</strong></h4>
-<p><strong>Verkauf über Sales-Page mit Video-Trailer</strong></p>
-<p>Die <a><strong>Anziehungskraft-Dreieck-Verkaufsseite</strong></a> ist eine Art "Infomercial", eine Kombination aus Verkauf und wertvollen Informationen für den Kunden.</p>
-<p>Im ersten Teil bekommt der Interessent einen wertvollen Tipp, den er sofort anwenden kann. Im zweiten Teil geht es zum Verkauf.</p>
-<p>Bei einem Kauf wird der Kunde auf die Upsell-Seite für das Premium-Produkt (Anziehungskraft-Masterplan) weitergeleitet. Auch dafür gibt es 50% Provision.</p>
-<p>Zudem durchlaufen Kunden noch E-Mail-Kampagnen mit weiteren Angeboten, woraus noch zusätzliche Folgeprovisionen entstehen können.</p>
+**Vendor's marketplace description:** 3 Manifestierungs-Schlüssel zur gezielten Realitätserschaffung… Verkauf über Sales-Page mit Video-Trailer Die Anziehungskraft-Dreieck-Verkaufsseite ist eine Art "Infomercial", eine Kombination aus Verkauf und wertvollen Informationen für den Kunden. Im ersten Teil bekommt der Interessent einen wertvollen Tipp, den er sofort anwenden kann. Im zweiten Teil geht es zum Verkauf. Bei einem Kauf wird der Kunde auf die Upsell-Seite für das Premium-Produkt (Anziehungskraft-Masterplan) weitergeleitet. Auch dafür gibt es 50% Provision. Zudem durchlaufen Kunden noch E-Mail-Kampagnen mit weiteren Angeboten, woraus noch zusätzliche Folgeprovisionen entstehen können.
 
 ## 2. Links
 

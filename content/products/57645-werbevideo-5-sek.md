@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="padding-left:40px;">Bitte bindet euren Affiliate Link ein, sodass ihr beim Verkauf eure Provision erhaltet. Die Impulse Systems Agency liefert dem Kunden schnellstmöglich nach Kauf das Video (nach vorheriger Rücksprache und Kundenanforderung).</p>
+**Vendor's marketplace description:** Bitte bindet euren Affiliate Link ein, sodass ihr beim Verkauf eure Provision erhaltet. Die Impulse Systems Agency liefert dem Kunden schnellstmöglich nach Kauf das Video (nach vorheriger Rücksprache und Kundenanforderung).
 
 ## 2. Links
 

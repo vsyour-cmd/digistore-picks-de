@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Nr.-1-Kurs zur Kaiserschnitt-Vorbereitung – 20 % Provision, kaum Konkurrenz</p>
-<p>Der erste und führende deutschsprachige Online-Kurs für Frauen mit geplantem Kaiserschnitt – seit 2019 am Markt, über 4.700 Teilnehmerinnen in DACH. Über 70 Kapitel, Experten-Talks, Meditationen und Checklisten, entwickelt mit 35 Fachpersonen aus Medizin, Geburtshilfe, Physiotherapie und Psychologie.</p>
-<p>Warum sich das Bewerben lohnt:</p>
-<ul>
-<li>Glasklare, eng umrissene Zielgruppe: Schwangere mit geplantem Kaiserschnitt – sie suchen aktiv und kaufen schnell, weil ihr Geburtstermin näherrückt.<br /><br /></li>
-<li>Kein vergleichbares Konkurrenzprodukt im deutschsprachigen Raum. Du bewirbst einen Marktführer, keine Me-too-Lösung.<br /><br /></li>
-<li>Starke Marke: <a href="https://www.instagram.com/bauchgeburt/" target="_blank" rel="noreferrer noopener">@bauchgeburt</a> erreicht über 1 Mio. Menschen pro Monat, hohe Wiedererkennung und Vertrauen.</li>
-</ul>
-<p><br />Ideal für Affiliates mit Reichweite zu Schwangeren, Mamas, Geburtsvorbereitung, Hebammen-Content oder Frauengesundheit.</p>
-<p> </p>
+**Vendor's marketplace description:** Der Nr.-1-Kurs zur Kaiserschnitt-Vorbereitung – 20 % Provision, kaum Konkurrenz Der erste und führende deutschsprachige Online-Kurs für Frauen mit geplantem Kaiserschnitt – seit 2019 am Markt, über 4.700 Teilnehmerinnen in DACH. Über 70 Kapitel, Experten-Talks, Meditationen und Checklisten, entwickelt mit 35 Fachpersonen aus Medizin, Geburtshilfe, Physiotherapie und Psychologie. Warum sich das Bewerben lohnt: Glasklare, eng umrissene Zielgruppe: Schwangere mit geplantem Kaiserschnitt – sie suchen aktiv und kaufen schnell, weil ihr Geburtstermin näherrückt. Kein vergleichbares Konkurrenzprodukt im deutschsprachigen Raum. Du bewirbst einen Marktführer, keine Me-too-Lösung. Starke Marke: @bauchgeburt erreicht über 1 Mio. Menschen pro Monat, hohe Wiedererkennung und Vertrauen. Ideal für Affiliates mit Reichweite zu Schwangeren, Mamas, Geburtsvorbereitung, Hebammen-Content oder Frauengesundheit.
 
 ## 2. Links
 

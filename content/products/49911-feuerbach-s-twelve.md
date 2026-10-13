@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Fette Provisionen mit dem bombösen</strong><br /><strong>"FEUERBACH´S TWELVE" Videotainmentkurs</strong></p>
-<p><strong>Provision:</strong><br />50% auf alle Angebote (maximal 210,75€ pro Sale)</p>
-<p><strong>Start:</strong> Kann sofort beworben werden!</p>
-<p><strong>Inhalt:</strong> Lerne, wie du als blutiger Anfänger automatisiert Geld mit geheimen Affiliate-Marketing-Hacks verdienst, in 7 Tagen eine E-Mail-Liste aufbaust und deinen eigenen Mitgliederbereich in unter 5 Minuten erstellst.</p>
-<p>Erhalte exklusive Einblicke und geheime Enthüllungen von 12 Online-Marketing-Titanen wie u.a. der Affiliatekönig Ralf Schmitz, Jakob Hager, Daniel Dirks, Gunnar Kessler, Mario Burgard uvm. mit Fokus auf Mindset, Disziplin und Erfolg.</p>
-<p><strong>Details:</strong> Über 7 Stunden exklusive private Einblicke. Geheime sehr brisante Enthüllungen und Exklusive Offenbarungen der 12 Online Marketing Titanen.</p>
-<p><strong>Zielgruppe:</strong> für Blutige Anfänger, Anfänger, Fortgeschrittene, komplett ohne Vorkenntnisse, Rentner, Hausfrauen, Schüler und Studenten. Nebenberuflich, Zusatzeinkommen u.v.m.</p>
-<p><strong>Deine Vorteile:</strong><br />➡️ 50% Provision<br />➡️ PLUS Provisionen auf alle Upsells<br />➡️ Hohe Conversion<br />➡️ Extrem tiefe Stornoquote<br />➡️ Hohe Kundenzufriedenheit</p>
-<p>Bereits nach wenigen Tagen 4-stellig an Provisionen für meine Partner ausgezahlt!</p>
-<p><strong><a href="https://go.carstenfeuerbach.de/partnerprogramm" target="_blank" rel="noreferrer noopener">&gt;&gt; Jetzt Partner werden!</a></strong></p>
-<p><strong>Besonderheiten als Partner:</strong><br />➡️ Exklusive Partner Betreuung<br />➡️ Austausch mit anderen Partnern<br />➡️ Regelmäßige Updates &amp; die neuesten und getesteten Werbemittel<br />➡️ Sonder-Wettbewerbe mit einzigartigem Leadeboard, fetten Sachpreisen &amp; Sonderprämien</p>
-<p><strong><a href="https://go.carstenfeuerbach.de/partnerprogramm" target="_blank" rel="noreferrer noopener">&gt;&gt; Kein Blabla – Partner werden, Cash kassieren!</a></strong></p>
-<p>Weitere Infos &amp; Produkte unter:<br /><a href="https://go.carstenfeuerbach.de/partnerprogramm" target="_blank" rel="noreferrer noopener"><strong>https://go.carstenfeuerbach.de/partnerprogramm</strong></a></p>
+**Vendor's marketplace description:** Fette Provisionen mit dem bombösen "FEUERBACH´S TWELVE" Videotainmentkurs Provision: 50% auf alle Angebote (maximal 210,75€ pro Sale) Start: Kann sofort beworben werden! Inhalt: Lerne, wie du als blutiger Anfänger automatisiert Geld mit geheimen Affiliate-Marketing-Hacks verdienst, in 7 Tagen eine E-Mail-Liste aufbaust und deinen eigenen Mitgliederbereich in unter 5 Minuten erstellst. Erhalte exklusive Einblicke und geheime Enthüllungen von 12 Online-Marketing-Titanen wie u.a. der Affiliatekönig Ralf Schmitz, Jakob Hager, Daniel Dirks, Gunnar Kessler, Mario Burgard uvm. mit Fokus auf Mindset, Disziplin und Erfolg. Details: Über 7 Stunden exklusive private Einblicke. Geheime sehr brisante Enthüllungen und Exklusive Offenbarungen der 12 Online Marketing Titanen. Zielgruppe: für Blutige Anfänger, Anfänger, Fortgeschrittene, komplett ohne Vorkenntnisse, Rentner, Hausfrauen, Schüler und Studenten. Nebenberuflich, Zusatzeinkommen u.v.m. Deine Vorteile: ➡️ 50% Provision ➡️ PLUS Provisionen auf alle Upsells ➡️ Hohe Conversion ➡️ Extrem tiefe Stornoquote ➡️ Hohe Kundenzufriedenheit Bereits nach wenigen Tagen 4-stellig an Provisionen für meine Partner ausgezahlt! >> Jetzt Partner werden! Besonderheiten als Partner: ➡️ Exklusive Partner Betreuung ➡️ Austausch mit anderen Partnern ➡️ Regelmäßige Updates & die neuesten und getesteten Werbemittel ➡️ Sonder-Wettbewerbe mit einzigartigem Leadeboard, fetten Sachpreisen & Sonderprämien >> Kein Blabla – Partner werden, Cash kassieren! Weitere Infos & Produkte unter: https://go.carstenfeuerbach.de/partnerprogramm
 
 ## 2. Links
 

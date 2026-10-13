@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Heilung der Zirbeldrüse</h3>
-<div>⇒ 3 Titel in einem Paket (MP3) – insgesamt 1:39:12 Std. Laufzeit</div>
-<div> </div>
-<div>
-<p><strong>Die Titel:</strong></p>
-<p>Reinigung und Aktivierung der Zirbeldrüse – 432 Hertz<em> - 31:30 Min</em><br />Heilung der Zirbeldrüse – 528 Hertz<em> - 36:22 Min.</em><br />Unsere Antenne zu höherem Gewahrsein – 528 Hertz - <em>31:20 Min.</em></p>
-<p> </p>
-<p>Verkaufspreis: 45,00 Euro</p>
-</div>
-<p> </p>
-<p>Du verdienst 30 % Provision.</p>
-<p> </p>
-<p>Wir freuen uns auf Dich!</p>
-<p>Herzliche Grüße!</p>
+**Vendor's marketplace description:** Heilung der Zirbeldrüse ⇒ 3 Titel in einem Paket (MP3) – insgesamt 1:39:12 Std. Laufzeit Die Titel: Reinigung und Aktivierung der Zirbeldrüse – 432 Hertz - 31:30 Min Heilung der Zirbeldrüse – 528 Hertz - 36:22 Min. Unsere Antenne zu höherem Gewahrsein – 528 Hertz - 31:20 Min. Verkaufspreis: 45,00 Euro Du verdienst 30 % Provision. Wir freuen uns auf Dich! Herzliche Grüße!
 
 ## 2. Links
 

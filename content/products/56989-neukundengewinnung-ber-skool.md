@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie Unternehmen und Dienstleister Skool als Community-Funnel nutzen und planbar Neukunden gewinnen</strong></p>
-<p>Skool ist nicht nur eine Community-Plattform – für Unternehmen ist es ein Akquise-System, das auf Vertrauen statt auf Kaltakquise setzt. Dieses E-Book zeigt dir, wie du eine kostenlose oder kostenpflichtige Skool-Gruppe als Top-of-Funnel nutzt, Interessenten durch Kurse und Community-Inhalte zu Kunden konvertierst und Gamification so einsetzt, dass Mitglieder aktiv, sichtbar und kaufbereit bleiben. Du lernst, wie du die Community von außen befüllst – über Content-Marketing, Ads und Partnerschaften –, wie du den Onboarding-Prozess als ersten Vertrauensschritt gestaltest und wie du den Übergang von Community-Mitglied zu zahlenden Kunden strukturiert und wiederholbar machst. Das Ergebnis: ein Community-Funnel, der rund um die Uhr für dich arbeitet.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Skool als Community-Funnel verstehen und strategisch aufbauen</li>
-<li>Kostenlose Einstiegsgruppe als Lead-Magnet und Vertrauensaufbau nutzen</li>
-<li>Classroom mit Mehrwert-Kursen bestücken, die Kaufbereitschaft erzeugen</li>
-<li>Gamification: Leaderboard und Levels als Engagement- und Sichtbarkeits-Hebel</li>
-<li>Community von außen befüllen: Content-Marketing, Ads und Partnerschaften</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie Unternehmen und Dienstleister Skool als Community-Funnel nutzen und planbar Neukunden gewinnen Skool ist nicht nur eine Community-Plattform – für Unternehmen ist es ein Akquise-System, das auf Vertrauen statt auf Kaltakquise setzt. Dieses E-Book zeigt dir, wie du eine kostenlose oder kostenpflichtige Skool-Gruppe als Top-of-Funnel nutzt, Interessenten durch Kurse und Community-Inhalte zu Kunden konvertierst und Gamification so einsetzt, dass Mitglieder aktiv, sichtbar und kaufbereit bleiben. Du lernst, wie du die Community von außen befüllst – über Content-Marketing, Ads und Partnerschaften –, wie du den Onboarding-Prozess als ersten Vertrauensschritt gestaltest und wie du den Übergang von Community-Mitglied zu zahlenden Kunden strukturiert und wiederholbar machst. Das Ergebnis: ein Community-Funnel, der rund um die Uhr für dich arbeitet. Das steckt drin: Skool als Community-Funnel verstehen und strategisch aufbauen Kostenlose Einstiegsgruppe als Lead-Magnet und Vertrauensaufbau nutzen Classroom mit Mehrwert-Kursen bestücken, die Kaufbereitschaft erzeugen Gamification: Leaderboard und Levels als Engagement- und Sichtbarkeits-Hebel Community von außen befüllen: Content-Marketing, Ads und Partnerschaften Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

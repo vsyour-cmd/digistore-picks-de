@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehle das Vegan Kickstarter E-Book! <strong><br /></strong></p>
-<p>Das über 400 mal verkaufte interaktive E-Book ist 40 Seiten stark und nimmt den Leser mit auf die Reise sein individuelles Ziel zu erreichen.</p>
-<p>Auf dieser Reise kann der Leser seinen Fitnessstatus bestimmen und bekommt, aus einer Auswahl der 20 besten Rezepte, seine ganz individuelle Rezepte vorgeschlagen!</p>
-<p><strong>Ziele des Lesers können sein:</strong></p>
-<p><strong>Abnehmen, Muskeln aufbauen, Definieren &amp; Fit werden</strong></p>
-<p> </p>
-<p>Deine Vorteile auf einen Blick:</p>
-<ul><li>über 400mal verkauft</li>
-<li>Stornoquote &lt; 5%</li>
-<li>Hohe Glaubwürdigkeit</li>
-<li>ca. 5€ Einnahmen pro Verkauf bei einem Einstiegsprodukt</li>
-<li>Kaufraten von 15 - 30% im optimierten Sales Funnel</li>
-<li>schnelle Unterstützung auf Deutsch bei Rückfragen über Affiliate Manager</li>
-</ul><p> </p>
+**Vendor's marketplace description:** Empfehle das Vegan Kickstarter E-Book! Das über 400 mal verkaufte interaktive E-Book ist 40 Seiten stark und nimmt den Leser mit auf die Reise sein individuelles Ziel zu erreichen. Auf dieser Reise kann der Leser seinen Fitnessstatus bestimmen und bekommt, aus einer Auswahl der 20 besten Rezepte, seine ganz individuelle Rezepte vorgeschlagen! Ziele des Lesers können sein: Abnehmen, Muskeln aufbauen, Definieren & Fit werden Deine Vorteile auf einen Blick: über 400mal verkauft Stornoquote < 5% Hohe Glaubwürdigkeit ca. 5€ Einnahmen pro Verkauf bei einem Einstiegsprodukt Kaufraten von 15 - 30% im optimierten Sales Funnel schnelle Unterstützung auf Deutsch bei Rückfragen über Affiliate Manager
 
 ## 2. Links
 

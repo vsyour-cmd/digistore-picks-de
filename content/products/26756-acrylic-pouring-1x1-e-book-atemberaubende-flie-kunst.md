@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><em><strong>Das Acrylic Pouring 1X1 - E-Book ist der perfekte Einstieg für Hobbykünstler und Fortgeschrittene in die neue Welt des Acrylic Pourings! Hier lernen sie die erfolgreiche Anwendung der Farben-Fließtechnik, die im letzten Jahr einen regelrechten Hype erfahren hat.</strong></em></p>
-<p><em>Thema</em>: Zeitgenössische Kunst, DIY, Handwerken, Acrylic Pouring, Dekoration, Design, Crafts, Kunterbunte Farben, Upcycling<br /><br /><em>Zielgruppe</em>: Insbesondere Neulinge in der Fließkunst aus dem Handwerken / Upcycling und DIY-Bereich.</p>
-<p><em>Inhalt</em> des über 60-seitigen Ebook:</p>
-<ul><li>Alle notwendigen Materialien, Hacks und Tools für die besten Resultate</li>
-<li>Acrylic Pouring verstehen und richtig umsetzen</li>
-<li>Leicht verständliche Schritt-für-Schritt Anleitungen zum Mischen und der richtigen Konsistenz</li>
-<li>Detailierte Beschreibungen zu allen Techniken wie z.B. Swipe, Dirty Pour, Flip-Cup, etc.</li>
-<li>Wirkungsvolle Lösungen für gängige Fehlerquellen</li>
-<li>Exklusive Tipps &amp; Tricks für bessere Pours und den 'besonderen Touch'</li>
-</ul><p>Das E-Book ist für jeden geeignet und setzt <strong>keinerlei Vorkenntnisse </strong>im Pouring vorraus. Es geht schließlich darum, zu vermitteln, wie viel Spaß die Fließkunst machen kann!<br /><br /></p>
-<p><strong>Über den Autor:</strong></p>
-<p>Mein Name ist Max Ruebensal - seit Jahren bin ich nicht nur leidenschaftlicher Künstler, sondern gebe mein Wissen und meine Erfahrung als Blogger weiter. Dabei sind vor allem meine eigenen Acrylic Pouring Werke sehr gut angenommen wurden - nach etlichen Nachfragen habe ich mich dann dazu entschlossen, dieses E-Book zu schreiben. Es ist derzeit das einzig deutsprachige Werk, dass in diesem Umfang das Thema Acrylic Pouring behandelt. Ich hoffe dadurch, möglichst viele Leute für die noch junge Art der Kunst zu begeistern und ihnen bei ihren ersten Schritten die nötige Unterstützung zukommen zu lassen.</p>
+**Vendor's marketplace description:** Das Acrylic Pouring 1X1 - E-Book ist der perfekte Einstieg für Hobbykünstler und Fortgeschrittene in die neue Welt des Acrylic Pourings! Hier lernen sie die erfolgreiche Anwendung der Farben-Fließtechnik, die im letzten Jahr einen regelrechten Hype erfahren hat. Thema : Zeitgenössische Kunst, DIY, Handwerken, Acrylic Pouring, Dekoration, Design, Crafts, Kunterbunte Farben, Upcycling Zielgruppe : Insbesondere Neulinge in der Fließkunst aus dem Handwerken / Upcycling und DIY-Bereich. Inhalt des über 60-seitigen Ebook: Alle notwendigen Materialien, Hacks und Tools für die besten Resultate Acrylic Pouring verstehen und richtig umsetzen Leicht verständliche Schritt-für-Schritt Anleitungen zum Mischen und der richtigen Konsistenz Detailierte Beschreibungen zu allen Techniken wie z.B. Swipe, Dirty Pour, Flip-Cup, etc. Wirkungsvolle Lösungen für gängige Fehlerquellen Exklusive Tipps & Tricks für bessere Pours und den 'besonderen Touch' Das E-Book ist für jeden geeignet und setzt keinerlei Vorkenntnisse im Pouring vorraus. Es geht schließlich darum, zu vermitteln, wie viel Spaß die Fließkunst machen kann! Über den Autor: Mein Name ist Max Ruebensal - seit Jahren bin ich nicht nur leidenschaftlicher Künstler, sondern gebe mein Wissen und meine Erfahrung als Blogger weiter. Dabei sind vor allem meine eigenen Acrylic Pouring Werke sehr gut angenommen wurden - nach etlichen Nachfragen habe ich mich dann dazu entschlossen, dieses E-Book zu schreiben. Es ist derzeit das einzig deutsprachige Werk, dass in diesem Umfang das Thema Acrylic Pouring behandelt. Ich hoffe dadurch, möglichst viele Leute für die noch junge Art der Kunst zu begeistern und ihnen bei ihren ersten Schritten die nötige Unterstützung zukommen zu lassen.
 
 ## 2. Links
 

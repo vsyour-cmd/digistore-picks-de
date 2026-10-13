@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In <strong>nur 1 Tag</strong> mit der <strong>richtigen Lerntechnik </strong>perfekt für die Führerscheinprüfung vorbereitet!</p>
-<p>Mit der <strong>MegaMemory-Technik</strong> kommst du <strong>ohne langweiliges Auswendiglernen</strong> zum Erfolg! Anhang von <strong>lustigen Geschichten</strong> merkst du dir <strong>ganz einfach die Antworten</strong> und Zahlen.</p>
-<p>Unser Training eignet sich besonders für Menschen, die sich beim Lernen schwer tun.</p>
-<p>Es wird zunächst ein <strong>Testzugang für 1€ promoted</strong>, bei dem die ersten 2 Lektionen freigeschaltet werden.</p>
-<p>Es gibt zudem einen Upsell für einen lebenslangen Zugriff im Wert von 29€.</p>
+**Vendor's marketplace description:** In nur 1 Tag mit der richtigen Lerntechnik perfekt für die Führerscheinprüfung vorbereitet! Mit der MegaMemory-Technik kommst du ohne langweiliges Auswendiglernen zum Erfolg! Anhang von lustigen Geschichten merkst du dir ganz einfach die Antworten und Zahlen. Unser Training eignet sich besonders für Menschen, die sich beim Lernen schwer tun. Es wird zunächst ein Testzugang für 1€ promoted , bei dem die ersten 2 Lektionen freigeschaltet werden. Es gibt zudem einen Upsell für einen lebenslangen Zugriff im Wert von 29€.
 
 ## 2. Links
 

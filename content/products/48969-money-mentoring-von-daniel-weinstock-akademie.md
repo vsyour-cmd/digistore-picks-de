@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>MONEY³ - In nur 6 Wochen zu einem neuen Reichtumsbewusstsein mit Daniel Weinstock</h3>
-<p>Der stressfreie und sichere Weg zur nachhaltigen Reichtumskonditionierung!</p>
-<p>- MONEY³ - Das KickOff<br />- MONEY³ - 6 Wochen für Reichtum &amp; Erfolg<br />- Faszination Geld - Das 200 Tage Neurotraining<br />- Positive MONEY³ Mindset Community</p>
-<p>3 fette BONI werden mit dazu geliefert!<br /><br />20% AFFILIATE Provision!<br /><br />Wir haben für dieses Produkt ein <strong>kostenfreies Webinar "Der Erfolgscode"</strong> geschaltet, nutze dieses ab sofort für Deinen Funnel. Gib Deine DigistoreID am Ende des Anmeldelinks an und der Prozess sorgt dafür, dass Käufe nach dem Webinar für Dich verprovisioniert werden:<br /><br />https://home.weinstock-erfolgstraining.de/erfolgscode?utm_source=AFFILIATE</p>
+**Vendor's marketplace description:** MONEY³ - In nur 6 Wochen zu einem neuen Reichtumsbewusstsein mit Daniel Weinstock Der stressfreie und sichere Weg zur nachhaltigen Reichtumskonditionierung! - MONEY³ - Das KickOff - MONEY³ - 6 Wochen für Reichtum & Erfolg - Faszination Geld - Das 200 Tage Neurotraining - Positive MONEY³ Mindset Community 3 fette BONI werden mit dazu geliefert! 20% AFFILIATE Provision! Wir haben für dieses Produkt ein kostenfreies Webinar "Der Erfolgscode" geschaltet, nutze dieses ab sofort für Deinen Funnel. Gib Deine DigistoreID am Ende des Anmeldelinks an und der Prozess sorgt dafür, dass Käufe nach dem Webinar für Dich verprovisioniert werden: https://home.weinstock-erfolgstraining.de/erfolgscode?utm_source=AFFILIATE
 
 ## 2. Links
 

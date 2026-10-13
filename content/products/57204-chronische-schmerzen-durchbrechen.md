@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Chronische Schmerzen durchbrechen“</strong></p>
-<p>Leben ohne ständiges Leiden – Chronischer Schmerz folgt eigenen Regeln. Wenn du sie verstehst, kannst du den Teufelskreis durchbrechen und dir Stück für Stück dein Leben zurückholen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verstehen, warum chronischer Schmerz anders funktioniert</li>
-<li>Das Schmerzgedächtnis beruhigen statt bekämpfen</li>
-<li>Den Kreis aus Schmerz, Schonung und Angst durchbrechen</li>
-<li>Mit sanfter Bewegung und Pacing wieder aktiv werden</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Chronische Schmerzen durchbrechen“ Leben ohne ständiges Leiden – Chronischer Schmerz folgt eigenen Regeln. Wenn du sie verstehst, kannst du den Teufelskreis durchbrechen und dir Stück für Stück dein Leben zurückholen. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verstehen, warum chronischer Schmerz anders funktioniert Das Schmerzgedächtnis beruhigen statt bekämpfen Den Kreis aus Schmerz, Schonung und Angst durchbrechen Mit sanfter Bewegung und Pacing wieder aktiv werden
 
 ## 2. Links
 

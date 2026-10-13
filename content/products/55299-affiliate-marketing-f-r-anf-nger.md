@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3 style="text-align:center;"><strong>Affiliate Marketing für Anfänger</strong></h3>
-<p>Bewirb das digitale E-Book <strong>„Affiliate Marketing für Anfänger“</strong>, einen strukturierten Leitfaden für den Einstieg in Affiliate Marketing und Online-Marketing-Grundlagen.</p>
-<p>Als Affiliate profitierst du von:</p>
-<ul>
-<li>
-<p>einem einsteigerfreundlichen Produkt mit breiter Zielgruppe</p>
-</li>
-<li>
-<p>einer klar aufgebauten Verkaufsseite</p>
-</li>
-<li>
-<p><strong>attraktiven Provisionen inklusive Upsell-Verdienst von bis zu 156 € pro Verkauf</strong></p>
-</li>
-</ul>
-<p>Ideal für Affiliates, Marketer und Content Creator, die ein solides Einstiegsprodukt im Online-Marketing-Bereich bewerben möchten.</p>
+**Vendor's marketplace description:** Affiliate Marketing für Anfänger Bewirb das digitale E-Book „Affiliate Marketing für Anfänger“ , einen strukturierten Leitfaden für den Einstieg in Affiliate Marketing und Online-Marketing-Grundlagen. Als Affiliate profitierst du von: einem einsteigerfreundlichen Produkt mit breiter Zielgruppe einer klar aufgebauten Verkaufsseite attraktiven Provisionen inklusive Upsell-Verdienst von bis zu 156 € pro Verkauf Ideal für Affiliates, Marketer und Content Creator, die ein solides Einstiegsprodukt im Online-Marketing-Bereich bewerben möchten.
 
 ## 2. Links
 

@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Mit diesem umfangreichen "PLR Dating Paket" erhält der User ein einzigartiges Business, inklusive aller wichtigen Lizenzen.</strong><strong><br /></strong></p>
-<p>Das Paket besteht aus mehreren EBooks, aus dem Bereich Dating, die sowohl für Männer, als auch Frauen geeignet sind.</p>
-<p><strong><em>Komm in unseren Telegram-Kanal für Partner, damit du nichts verpasst und noch mehr Geld verdienst:</em> <a href="https://t.me/wolfpartner" target="_blank" rel="noreferrer noopener">HIER IN DIE TELEGRAMGRUPPE KLICKEN</a></strong><a href="https://t.me/wolfpartner" target="_blank" rel="noreferrer noopener"><strong> &lt;&lt;</strong></a></p>
-<p> </p>
-<p>Im PLR-Paket enthalten sind nicht nur die EBooks selbst, sondern auch bearbeitbare Cover, vorgeschriebene Verkaufstexte, sowie alle für die Monetarisierung nötigen Lizenzen.</p>
-<p><strong>Was darfst der Käufer alles machen?</strong></p>
-<p>Mit dem Erwerb der PLR‐Lizenz zu diesem Dating-Ratgeber-Paket ist folgendes erlaubt:</p>
-<ul>
-<li>Alle E-Books zum Listenaufbau verwenden</li>
-<li>Jedes Produkt mit anderen Produkten bündeln</li>
-<li>Die eBooks als Bonus anbieten</li>
-<li>Alle eBooks komplett bearbeiten (zb. kürzen, Text ändern, usw.)</li>
-<li>Die beigefügten EBook-Cover bearbeiten oder auswechseln</li>
-<li>Sich selbst als Autor benennen</li>
-<li>Das Produkt auf bezahlten Mitgliedschaftsseiten hinzufügen</li>
-<li>Das Produkt als Ganzes oder auch in Teilen verkaufen</li>
-<li>Die Resale‐Rights verkaufen</li>
-<li>Die Master‐Resale‐Rights verkaufen</li>
-<li>Die Private‐Label‐Rights verkaufen</li>
-</ul>
-<p> </p>
-<p> Mit dem PLR Dating Paket erhalten die User ein hochwertiges Business Paket mit allen wichtigen Rechten für die Vermarktung.</p>
-<p> </p>
-<p><strong>Alle Werbemittel sowie den Partner-Verteiler findest du auf <a href="https://wolfpartner.net" target="_blank" rel="noreferrer noopener">https://wolfpartner.net</a></strong></p>
+**Vendor's marketplace description:** Mit diesem umfangreichen "PLR Dating Paket" erhält der User ein einzigartiges Business, inklusive aller wichtigen Lizenzen. Das Paket besteht aus mehreren EBooks, aus dem Bereich Dating, die sowohl für Männer, als auch Frauen geeignet sind. Komm in unseren Telegram-Kanal für Partner, damit du nichts verpasst und noch mehr Geld verdienst: HIER IN DIE TELEGRAMGRUPPE KLICKEN << Im PLR-Paket enthalten sind nicht nur die EBooks selbst, sondern auch bearbeitbare Cover, vorgeschriebene Verkaufstexte, sowie alle für die Monetarisierung nötigen Lizenzen. Was darfst der Käufer alles machen? Mit dem Erwerb der PLR‐Lizenz zu diesem Dating-Ratgeber-Paket ist folgendes erlaubt: Alle E-Books zum Listenaufbau verwenden Jedes Produkt mit anderen Produkten bündeln Die eBooks als Bonus anbieten Alle eBooks komplett bearbeiten (zb. kürzen, Text ändern, usw.) Die beigefügten EBook-Cover bearbeiten oder auswechseln Sich selbst als Autor benennen Das Produkt auf bezahlten Mitgliedschaftsseiten hinzufügen Das Produkt als Ganzes oder auch in Teilen verkaufen Die Resale‐Rights verkaufen Die Master‐Resale‐Rights verkaufen Die Private‐Label‐Rights verkaufen Mit dem PLR Dating Paket erhalten die User ein hochwertiges Business Paket mit allen wichtigen Rechten für die Vermarktung. Alle Werbemittel sowie den Partner-Verteiler findest du auf https://wolfpartner.net
 
 ## 2. Links
 

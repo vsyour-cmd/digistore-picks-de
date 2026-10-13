@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Formulieren Sie Schritt für Schritt Ihre prägnante Botschaft: Ideal für die Unternehmenskommunikation – ob schriftlich, mündlich, intern oder extern. Mithilfe dieser Checklisten (PDF) erarbeiten Sie Ihre Botschaft, Ihre Argumentation, Ihre Formulierungen und Ihre Überschrift.<br />​<br />Geeignet für die alltägliche Kommunikation im Unternehmen – von E-Mails über Entscheidungsvorlagen bis hin zu Pressemitteilungen. Geeignet für Ihre nächste Rede und sogar für Ihr nächstes Buch.<br />​<br />Holen Sie sich jetzt Thilo Baums Checklisten für Ihren klaren Ausdruck!</h4>
+**Vendor's marketplace description:** Formulieren Sie Schritt für Schritt Ihre prägnante Botschaft: Ideal für die Unternehmenskommunikation – ob schriftlich, mündlich, intern oder extern. Mithilfe dieser Checklisten (PDF) erarbeiten Sie Ihre Botschaft, Ihre Argumentation, Ihre Formulierungen und Ihre Überschrift. ​ Geeignet für die alltägliche Kommunikation im Unternehmen – von E-Mails über Entscheidungsvorlagen bis hin zu Pressemitteilungen. Geeignet für Ihre nächste Rede und sogar für Ihr nächstes Buch. ​ Holen Sie sich jetzt Thilo Baums Checklisten für Ihren klaren Ausdruck!
 
 ## 2. Links
 

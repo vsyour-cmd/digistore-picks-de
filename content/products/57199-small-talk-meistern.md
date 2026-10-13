@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Small Talk meistern“</strong></p>
-<p>Von der Floskel zur echten Verbindung – Small Talk ist die Tür zu jeder Verbindung. Lerne, locker einzusteigen und aus Floskeln echte, tiefere Gespräche zu machen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Warum Small Talk wichtig ist</li>
-<li>Locker einsteigen</li>
-<li>Von oberflächlich zu tiefer: die Brücke</li>
-<li>Offene Fragen &amp; aktives Zuhören</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Small Talk meistern“ Von der Floskel zur echten Verbindung – Small Talk ist die Tür zu jeder Verbindung. Lerne, locker einzusteigen und aus Floskeln echte, tiefere Gespräche zu machen. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Warum Small Talk wichtig ist Locker einsteigen Von oberflächlich zu tiefer: die Brücke Offene Fragen & aktives Zuhören
 
 ## 2. Links
 

@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Sie erhalten 1€ pro Buch Bestellung und 50% Provision auf alle Produkte im Funnel, die nach dem Buch folgen.</strong></span></p>
-<p><span style="background-color:#ffff00;"><strong>Inkl. Remarketing auf unsere Kosten!</strong></span></p>
-<p><strong>Ihre Vorteile als Affiliate:</strong></p>
-<ul>
-<li>Hohe Conversion</li>
-<li>Fertige Werbemittel (getestet)</li>
-<li>Markenqualität</li>
-</ul>
-<p><strong>Seit über 10 Jahren erfolgreich am Markt:</strong> </p>
-<p>Benedikt Ahlfeld und ZHI stehen für höchste Qualität und wissenschaftliche Fundiertheit. Nicht ohne Grund arbeiten ATX Vorstandsvorsitzende, Spitzensportler, Studenten, Ärzte, Unternehmer, Pädagogen, Top-Manager, Therapeuten und Weltmeister mit uns. Wir sind bekannt aus TV (PRO7, Puls4), Radio (Krone Hit, Radio Arabella), Print (GQ, Junfermann), Online Medien (Huffington Post, Junge Gründer), Tageszeitungen (Die Presse, Kurier) u.v.a.m.</p>
-<p><strong>Produktinfo: </strong></p>
-<p>Keine Zeit, schlechtes Wetter, zu viel Stress – ob privat, im Sport oder im Beruf, täglich finden wir unzählige Ausreden dafür, unsere Vorhaben und Pläne nicht in die Tat umzusetzen. Meist stehen wir uns dabei selbst im Weg und hängen zwischen der anpackenden Person, die wir sein wollen, und der, die wir tatsächlich sind.</p>
-<p>Benedikt Ahlfeld weiß, wie man aus dieser Lage entkommt: keine Ausflüchte, den inneren Schweinehund überwinden und bewusst Verantwortung für das eigene Leben übernehmen. So befreit man sich von Konflikten und findet den Mut, sein Leben selbstbestimmt zu gestalten. Seine 5 Prinzipien des erfolgreichen Selbstmanagements – wie beispielsweise zu beobachten, anstatt zu bewerten, sich Herausforderungen mutig entgegenzustellen und ehrlich mit sich selbst zu sein – weisen den Weg, Ziele endlich motiviert anzugehen und die Weichen so auf mehr Lebensqualität, Glück in der Partnerschaft und Erfolg im Beruf zu stellen.</p>
-<p><strong>Hinweis: </strong>Es gelten die Regeln des Partnerprogramms von ZHI (<a>partner.ZHI.at</a>)</p>
+**Vendor's marketplace description:** Sie erhalten 1€ pro Buch Bestellung und 50% Provision auf alle Produkte im Funnel, die nach dem Buch folgen. Inkl. Remarketing auf unsere Kosten! Ihre Vorteile als Affiliate: Hohe Conversion Fertige Werbemittel (getestet) Markenqualität Seit über 10 Jahren erfolgreich am Markt: Benedikt Ahlfeld und ZHI stehen für höchste Qualität und wissenschaftliche Fundiertheit. Nicht ohne Grund arbeiten ATX Vorstandsvorsitzende, Spitzensportler, Studenten, Ärzte, Unternehmer, Pädagogen, Top-Manager, Therapeuten und Weltmeister mit uns. Wir sind bekannt aus TV (PRO7, Puls4), Radio (Krone Hit, Radio Arabella), Print (GQ, Junfermann), Online Medien (Huffington Post, Junge Gründer), Tageszeitungen (Die Presse, Kurier) u.v.a.m. Produktinfo: Keine Zeit, schlechtes Wetter, zu viel Stress – ob privat, im Sport oder im Beruf, täglich finden wir unzählige Ausreden dafür, unsere Vorhaben und Pläne nicht in die Tat umzusetzen. Meist stehen wir uns dabei selbst im Weg und hängen zwischen der anpackenden Person, die wir sein wollen, und der, die wir tatsächlich sind. Benedikt Ahlfeld weiß, wie man aus dieser Lage entkommt: keine Ausflüchte, den inneren Schweinehund überwinden und bewusst Verantwortung für das eigene Leben übernehmen. So befreit man sich von Konflikten und findet den Mut, sein Leben selbstbestimmt zu gestalten. Seine 5 Prinzipien des erfolgreichen Selbstmanagements – wie beispielsweise zu beobachten, anstatt zu bewerten, sich Herausforderungen mutig entgegenzustellen und ehrlich mit sich selbst zu sein – weisen den Weg, Ziele endlich motiviert anzugehen und die Weichen so auf mehr Lebensqualität, Glück in der Partnerschaft und Erfolg im Beruf zu stellen. Hinweis: Es gelten die Regeln des Partnerprogramms von ZHI ( partner.ZHI.at )
 
 ## 2. Links
 

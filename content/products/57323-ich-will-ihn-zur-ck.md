@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Ich will ihn zurück“</strong></p>
-<p>Der ehrliche Ratgeber für Frauen, die ihre Liebe nicht aufgeben wollen – Du willst deinen Ex zurück? Dieser Ratgeber zeigt dir Schritt für Schritt, wie du nach der Trennung ruhig bleibst, typische Fehler vermeidest und echte Anziehung neu aufbaust – ehrlich und ohne Manipulation.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Warum er gegangen ist – und was du daraus lernen kannst</li>
-<li>Die Kontaktsperre: warum Abstand der erste Schritt ist</li>
-<li>Die typischen Fehler, die fast jede Frau macht</li>
-<li>Dich selbst wieder finden – bevor du ihn zurückgewinnst</li>
-<li>Den ersten Kontakt richtig gestalten</li>
-<li>Anziehung neu aufbauen: was ihn wirklich anzieht</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Ich will ihn zurück“ Der ehrliche Ratgeber für Frauen, die ihre Liebe nicht aufgeben wollen – Du willst deinen Ex zurück? Dieser Ratgeber zeigt dir Schritt für Schritt, wie du nach der Trennung ruhig bleibst, typische Fehler vermeidest und echte Anziehung neu aufbaust – ehrlich und ohne Manipulation. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Warum er gegangen ist – und was du daraus lernen kannst Die Kontaktsperre: warum Abstand der erste Schritt ist Die typischen Fehler, die fast jede Frau macht Dich selbst wieder finden – bevor du ihn zurückgewinnst Den ersten Kontakt richtig gestalten Anziehung neu aufbauen: was ihn wirklich anzieht
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ccffcc;">Verschenke das kostenfreie E-Book <strong>„E-Mail Liste in Rekordzeit“</strong></span> und verdiene automatisch an den Folgeangeboten im fertigen Upsell-Funnel.</p>
-<p><strong>Deine Provision</strong><br /><span style="background-color:#ffff99;">50 Prozent auf die Onlinekurse</span><br /><span style="background-color:#ffff99;">30 Prozent wiederkehrend auf die Gold Mitgliedschaft</span></p>
-<p><strong>Warum es gut funktioniert</strong><br />Kostenloses E-Book mit hoher Eintragungsrate<br />Große Zielgruppe rund um Online Einkommen<br />Praxisstrategie, mit der ich selbst ins Affiliate Marketing gestartet bin und meinen Job kündigen konnte</p>
-<p><strong>Was der Leser durch das E-Book lernt</strong><br />Aufbau einer eigenen E-Mail-Liste Schritt für Schritt<br />Start ins Online-Business auch ohne Vorkenntnisse<br />Unabhängigkeit von Social Media durch <strong>eigene Kontakte </strong><strong>Grundlage für ein nachhaltiges Online-Einkommen</strong></p>
-<p><strong><span style="background-color:#ffff99;">Du bringst Leads ins System und verdienst nachhaltig am Upsell-Funnel mit.</span></strong></p>
+**Vendor's marketplace description:** Verschenke das kostenfreie E-Book „E-Mail Liste in Rekordzeit“ und verdiene automatisch an den Folgeangeboten im fertigen Upsell-Funnel. Deine Provision 50 Prozent auf die Onlinekurse 30 Prozent wiederkehrend auf die Gold Mitgliedschaft Warum es gut funktioniert Kostenloses E-Book mit hoher Eintragungsrate Große Zielgruppe rund um Online Einkommen Praxisstrategie, mit der ich selbst ins Affiliate Marketing gestartet bin und meinen Job kündigen konnte Was der Leser durch das E-Book lernt Aufbau einer eigenen E-Mail-Liste Schritt für Schritt Start ins Online-Business auch ohne Vorkenntnisse Unabhängigkeit von Social Media durch eigene Kontakte Grundlage für ein nachhaltiges Online-Einkommen Du bringst Leads ins System und verdienst nachhaltig am Upsell-Funnel mit.
 
 ## 2. Links
 

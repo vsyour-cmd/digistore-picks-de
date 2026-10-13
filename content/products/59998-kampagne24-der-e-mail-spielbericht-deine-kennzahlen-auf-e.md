@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Fette Provisionen mit dem <a href="https://kampagne24.com/sales-spielbericht" target="_blank" rel="noreferrer noopener">Kampagne24-E-Mail-Spielbericht</a> von Carsten Feuerbach</strong></p>
-<p>Trag deine Kennzahlen pro E-Mail-Versand ein, den Rest rechnet der Spielbericht automatisch: Öffnungsrate, Klickrate, Conversion, Umsatz aus Hauptprodukt, Orderbump und Upsells, dazu Formkurve und Bestwerte auf einen Blick. Kein Google Sheet mehr nötig.</p>
-<p><strong>Provision:</strong> 50% auf den Spielbericht (37€, also 18,50€ pro Sale für dich) PLUS 50% auf den <a href="https://kampagne24.com/sales-promokalender" target="_blank" rel="noreferrer noopener"><strong>Kampagne24-Promo-Kalender</strong></a> als Upsell direkt im selben Funnel (nochmal 37€, also weitere 18,50€ pro Sale). Bis zu 37€ Provision pro Kunde möglich.</p>
-<p><strong>Start:</strong> Ab sofort, direkt loslegen!</p>
-<p>✅ Öffnungsrate, Klickrate, Conversion und Umsatz automatisch berechnet, inklusive Orderbump/Upsell-Aufschlüsselung<br />✅ Formkurve und Benchmark-Ampel zeigen sofort, ob ein Versand gut oder schlecht lief<br />✅ Direkt danach wird der Promo-Kalender als Upsell angeboten (37€, 50% Provision für dich)<br />✅ Sofortiger, automatischer Zugang, rund um die Uhr, egal wann bestellt wird</p>
-<p><strong>Zielgruppe:</strong></p>
-<ul>
-<li>Affiliates und E-Mail-Marketer, die ihre Versand-Performance endlich messen wollen</li>
-<li>Jeder, der aktuell noch mit Google Sheets oder gar nicht trackt</li>
-<li>Ideal für alle, die bereits mit Kampagne24-Produkten vertraut sind</li>
-</ul>
-<p><strong>Deine Vorteile als Partner:</strong></p>
-<ul>
-<li>Zwei Provisionen aus einem Funnel (Spielbericht + Promo-Kalender-Upsell)</li>
-<li>Hohe Relevanz für jeden, der E-Mail-Marketing aktiv betreibt</li>
-<li>Schnelle Abrechnung über Digistore24</li>
-</ul>
-<p><a href="https://go.carstenfeuerbach.de/partnerprogramm" target="_blank" rel="noreferrer noopener"><strong>Jetzt Partner werden und mit dem Spielbericht starten!</strong></a></p>
-<p>Weitere Infos, Werbemittel und weitere Produkte von Carsten Feuerbach unter:<br /><strong><a href="https://go.carstenfeuerbach.de/partnerprogramm" target="_blank" rel="noreferrer noopener">https://go.carstenfeuerbach.de/partnerprogramm</a></strong></p>
+**Vendor's marketplace description:** Fette Provisionen mit dem Kampagne24-E-Mail-Spielbericht von Carsten Feuerbach Trag deine Kennzahlen pro E-Mail-Versand ein, den Rest rechnet der Spielbericht automatisch: Öffnungsrate, Klickrate, Conversion, Umsatz aus Hauptprodukt, Orderbump und Upsells, dazu Formkurve und Bestwerte auf einen Blick. Kein Google Sheet mehr nötig. Provision: 50% auf den Spielbericht (37€, also 18,50€ pro Sale für dich) PLUS 50% auf den Kampagne24-Promo-Kalender als Upsell direkt im selben Funnel (nochmal 37€, also weitere 18,50€ pro Sale). Bis zu 37€ Provision pro Kunde möglich. Start: Ab sofort, direkt loslegen! ✅ Öffnungsrate, Klickrate, Conversion und Umsatz automatisch berechnet, inklusive Orderbump/Upsell-Aufschlüsselung ✅ Formkurve und Benchmark-Ampel zeigen sofort, ob ein Versand gut oder schlecht lief ✅ Direkt danach wird der Promo-Kalender als Upsell angeboten (37€, 50% Provision für dich) ✅ Sofortiger, automatischer Zugang, rund um die Uhr, egal wann bestellt wird Zielgruppe: Affiliates und E-Mail-Marketer, die ihre Versand-Performance endlich messen wollen Jeder, der aktuell noch mit Google Sheets oder gar nicht trackt Ideal für alle, die bereits mit Kampagne24-Produkten vertraut sind Deine Vorteile als Partner: Zwei Provisionen aus einem Funnel (Spielbericht + Promo-Kalender-Upsell) Hohe Relevanz für jeden, der E-Mail-Marketing aktiv betreibt Schnelle Abrechnung über Digistore24 Jetzt Partner werden und mit dem Spielbericht starten! Weitere Infos, Werbemittel und weitere Produkte von Carsten Feuerbach unter: https://go.carstenfeuerbach.de/partnerprogramm
 
 ## 2. Links
 

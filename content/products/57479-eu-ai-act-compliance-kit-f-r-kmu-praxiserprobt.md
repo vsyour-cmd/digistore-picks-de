@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Achtung Kollegen aus dem Datenschutz, IT-Consulting und Systemhaus-Umfeld! <br />Im August 2026 greift die erste harte Stufe des EU AI Acts. Ihre Mandanten und Bestandskunden führen im Hintergrund rasant generative KI (ChatGPT, APIs, Make-Automationen) ein – stehen regulatorisch und dokumentarisch aber komplett nackt da.</p>
-<p>Das Risiko von Haftung und Datenlecks wächst täglich. Die Kunden rennen Ihnen jetzt die Bude ein.</p>
-<p>Aber haben Sie die Zeit und die Vorlagen, um für jedes KMU individuelle Risikoanalysen und ISO-42001-Register von Null aufzubauen?</p>
-<p>Die Lösung:</p>
-<p>Das Binarsolve KI-Compliance Kit (v2.1)</p>
-<p>Bieten Sie Ihren Kunden ein schlüsselfertiges, sofort einsatzbereites Framework auf absolutem Enterprise-Niveau, entwickelt von einem KRITIS- und Banking-IT-Auditor (Oliver Krüll: CISSP, ITIL-Expert, DSB-TÜV).</p>
-<p>Was im Kit enthalten ist (alles Copy-Paste-ready für KMU bis 100MA):</p>
-<p>1. KI-Nutzungsrichtlinie (Word): Inkl. § 87 BetrVG (Betriebsrat) und glasklaren Mitarbeiter-Regeln.</p>
-<p>2. KI-Inventar &amp; Register (Excel): Mit automatisierter Risiko-Klassifizierungs-Logik nach EU AI Act.</p>
-<p>3. KI-Lieferanten-Prüfbogen (Excel): 44 tiefe Due-Diligence-Fragen für den IT-Einkauf.</p>
-<p>4. KI-Vorfalls-Log (Excel): Lückenlose Dokumentation von Incident-Meldepflichten.</p>
-<p>5. KI-Vorfalls-Log &amp; Incident Register (Excel): Lückenlose Dokumentation von gesetzlichen Meldepflichten.</p>
-<p>Warum sich die Partnerschaft für Sie massiv lohnt:</p>
-<p>* 30 % feste Partner-Provision: Bei unserem stabilen B2B-Verkaufspreis für die Enterprise Edition verdienen Sie ein hochattraktives, faires Nebeneinkommen pro einfacher Empfehlung.</p>
-<p>* Null Haftung für Sie: Sie empfehlen ein validiertes Premium-Produkt. Das Haftungsrisiko der korrekten Umsetzung liegt beim Endkunden.</p>
-<p> </p>
-<p>So einfach geht's:</p>
-<p>Schalten Sie sich jetzt mit einem Klick als Affiliate frei. Nutzen Sie unsere fertigen Mail-Vorlagen auf der Affiliate-Support-Seite und senden Sie diese an Ihre Mandanten. Sie lösen deren dringlichstes Problem im Jahr 2026 und verdienen hochprofitabel mit.</p>
+**Vendor's marketplace description:** Achtung Kollegen aus dem Datenschutz, IT-Consulting und Systemhaus-Umfeld! Im August 2026 greift die erste harte Stufe des EU AI Acts. Ihre Mandanten und Bestandskunden führen im Hintergrund rasant generative KI (ChatGPT, APIs, Make-Automationen) ein – stehen regulatorisch und dokumentarisch aber komplett nackt da. Das Risiko von Haftung und Datenlecks wächst täglich. Die Kunden rennen Ihnen jetzt die Bude ein. Aber haben Sie die Zeit und die Vorlagen, um für jedes KMU individuelle Risikoanalysen und ISO-42001-Register von Null aufzubauen? Die Lösung: Das Binarsolve KI-Compliance Kit (v2.1) Bieten Sie Ihren Kunden ein schlüsselfertiges, sofort einsatzbereites Framework auf absolutem Enterprise-Niveau, entwickelt von einem KRITIS- und Banking-IT-Auditor (Oliver Krüll: CISSP, ITIL-Expert, DSB-TÜV). Was im Kit enthalten ist (alles Copy-Paste-ready für KMU bis 100MA): 1. KI-Nutzungsrichtlinie (Word): Inkl. § 87 BetrVG (Betriebsrat) und glasklaren Mitarbeiter-Regeln. 2. KI-Inventar & Register (Excel): Mit automatisierter Risiko-Klassifizierungs-Logik nach EU AI Act. 3. KI-Lieferanten-Prüfbogen (Excel): 44 tiefe Due-Diligence-Fragen für den IT-Einkauf. 4. KI-Vorfalls-Log (Excel): Lückenlose Dokumentation von Incident-Meldepflichten. 5. KI-Vorfalls-Log & Incident Register (Excel): Lückenlose Dokumentation von gesetzlichen Meldepflichten. Warum sich die Partnerschaft für Sie massiv lohnt: * 30 % feste Partner-Provision: Bei unserem stabilen B2B-Verkaufspreis für die Enterprise Edition verdienen Sie ein hochattraktives, faires Nebeneinkommen pro einfacher Empfehlung. * Null Haftung für Sie: Sie empfehlen ein validiertes Premium-Produkt. Das Haftungsrisiko der korrekten Umsetzung liegt beim Endkunden. So einfach geht's: Schalten Sie sich jetzt mit einem Klick als Affiliate frei. Nutzen Sie unsere fertigen Mail-Vorlagen auf der Affiliate-Support-Seite und senden Sie diese an Ihre Mandanten. Sie lösen deren dringlichstes Problem im Jahr 2026 und verdienen hochprofitabel mit.
 
 ## 2. Links
 

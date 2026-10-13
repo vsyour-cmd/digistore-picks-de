@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bitcoin Einsteiger E-Book für Anfänger.</p>
-<p>Perfekt für Zielgruppen im Bereich:<br />• Finanzen<br />• Kryptowährungen<br />• Side Hustles<br />• Online Geld verdienen</p>
-<p>Highlights für Affiliates:</p>
-<p>• 70 % Provision<br />• Einsteigerfreundliches Produkt<br />• Sehr große Zielgruppe (Bitcoin-Interesse wächst ständig)<br />• Einfach zu bewerben über Social Media</p>
-<p>Ideal für Influencer, Blogger und Content Creator im Finanzbereich.</p>
+**Vendor's marketplace description:** Bitcoin Einsteiger E-Book für Anfänger. Perfekt für Zielgruppen im Bereich: • Finanzen • Kryptowährungen • Side Hustles • Online Geld verdienen Highlights für Affiliates: • 70 % Provision • Einsteigerfreundliches Produkt • Sehr große Zielgruppe (Bitcoin-Interesse wächst ständig) • Einfach zu bewerben über Social Media Ideal für Influencer, Blogger und Content Creator im Finanzbereich.
 
 ## 2. Links
 

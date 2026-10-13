@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Magnetische Frau</strong> ist ein digitales Ebook für Frauen, die ihren Selbstwert stärken, moderne Weiblichkeit bewusster leben und emotionale Klarheit entwickeln möchten. Es hilft dabei, eigene Muster zu erkennen, gesündere Grenzen zu setzen, selbstbewusster zu kommunizieren und Beziehungen mit mehr Respekt, Ruhe und Gegenseitigkeit aufzubauen.</p>
+**Vendor's marketplace description:** Magnetische Frau ist ein digitales Ebook für Frauen, die ihren Selbstwert stärken, moderne Weiblichkeit bewusster leben und emotionale Klarheit entwickeln möchten. Es hilft dabei, eigene Muster zu erkennen, gesündere Grenzen zu setzen, selbstbewusster zu kommunizieren und Beziehungen mit mehr Respekt, Ruhe und Gegenseitigkeit aufzubauen.
 
 ## 2. Links
 

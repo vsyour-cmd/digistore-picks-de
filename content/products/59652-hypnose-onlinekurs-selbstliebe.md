@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><em>Mit dieser Hypnose stellst Du eine Verbindung zu Dir Selbst her und lernst Dich anzunehmen genauso wie Du bist.</em></p>
-<p>Der Kurs enthält insgesamt 3 Videolektionen mit einer speziellen körpertherapeutischen Hypnose.</p>
-<p>Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.</p>
+**Vendor's marketplace description:** Mit dieser Hypnose stellst Du eine Verbindung zu Dir Selbst her und lernst Dich anzunehmen genauso wie Du bist. Der Kurs enthält insgesamt 3 Videolektionen mit einer speziellen körpertherapeutischen Hypnose. Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.
 
 ## 2. Links
 

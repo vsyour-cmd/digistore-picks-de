@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Wenn Dein Hund gegangen ist - In 7 Schritten durch die Trauer | Ein begleitender Online-Audio-Kurs</p>
-<div>
-<p>Dieser Kurs begleitet dich behutsam durch die ersten schweren Tage nach dem Verlust deines geliebten Hundes – mit verständlichen Audio-Impulsen, sanften Ritualen und einem E-Book, das dich Schritt für Schritt auffängt.</p>
-<p>Für viele Menschen war ihr Tier Familie. Genau deshalb darf auch die Trauer ihren Platz haben.</p>
-<p><strong>Beginne jetzt deinen ersten Schritt aus der Ohnmacht – in deinem Tempo.</strong></p>
-</div>
+**Vendor's marketplace description:** Wenn Dein Hund gegangen ist - In 7 Schritten durch die Trauer | Ein begleitender Online-Audio-Kurs Dieser Kurs begleitet dich behutsam durch die ersten schweren Tage nach dem Verlust deines geliebten Hundes – mit verständlichen Audio-Impulsen, sanften Ritualen und einem E-Book, das dich Schritt für Schritt auffängt. Für viele Menschen war ihr Tier Familie. Genau deshalb darf auch die Trauer ihren Platz haben. Beginne jetzt deinen ersten Schritt aus der Ohnmacht – in deinem Tempo.
 
 ## 2. Links
 

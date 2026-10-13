@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Verkaufe unseren Bestseller in der Abnhem Branche!</strong></span></p>
-<p><span style="background-color:#ffff00;"><strong>Ernährunsplan für die Ketogene Diät!</strong></span></p>
-<p> </p>
-<p><strong>Du bekommst hier:</strong></p>
-<ul>
-<li><strong>✅ Die leckersten Rezepte zum abnehmen</strong></li>
-<li><strong>✅ Einkaufsliste für alle Rezepte</strong></li>
-<li><strong>✅ Tipps und Tricks für die Ketogene Diät</strong></li>
-<li><strong>✅ und noch vieles mehr</strong><strong> </strong></li>
-<li><strong>✅  5BS? ist natürlich erlaubt</strong></li>
-</ul>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Du bekommst 80 % Provision (ca. 2,80 Euro Netto) auf das E-Book !!!</strong></span></p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Verkaufe unseren Bestseller in der Abnhem Branche! Ernährunsplan für die Ketogene Diät! Du bekommst hier: ✅ Die leckersten Rezepte zum abnehmen ✅ Einkaufsliste für alle Rezepte ✅ Tipps und Tricks für die Ketogene Diät ✅ und noch vieles mehr ✅ 5BS? ist natürlich erlaubt Du bekommst 80 % Provision (ca. 2,80 Euro Netto) auf das E-Book !!!
 
 ## 2. Links
 

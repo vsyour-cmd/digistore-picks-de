@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Langjährige Erfahrung, geniale neue Ansätze und viel Forschung. Die Autorinnen und Pferdeexpertinnen Myriam Zahrte und Nina Hartmann geben offen ihr Wissen weiter.</p>
-<p> <strong>Heart Connection – Im Dialog mit deinem Pferd</strong> <strong>Dein Weg zu einer echten Herzensverbindung</strong> Stell dir vor, du verstehst die wahren Bedürfnisse deines Pferdes – und ihr wachst gemeinsam über euch hinaus. Mit <strong>Heart Connection</strong> baust du eine tiefere Beziehung auf, die auf Vertrauen, Achtsamkeit und echter Kommunikation basiert.</p>
-<p> </p>
+**Vendor's marketplace description:** Langjährige Erfahrung, geniale neue Ansätze und viel Forschung. Die Autorinnen und Pferdeexpertinnen Myriam Zahrte und Nina Hartmann geben offen ihr Wissen weiter. Heart Connection – Im Dialog mit deinem Pferd Dein Weg zu einer echten Herzensverbindung Stell dir vor, du verstehst die wahren Bedürfnisse deines Pferdes – und ihr wachst gemeinsam über euch hinaus. Mit Heart Connection baust du eine tiefere Beziehung auf, die auf Vertrauen, Achtsamkeit und echter Kommunikation basiert.
 
 ## 2. Links
 

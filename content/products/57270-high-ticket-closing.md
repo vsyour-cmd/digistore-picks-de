@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „High Ticket Closing“</strong></p>
-<p>Die Kunst, im Gespräch zu verkaufen – Hochpreisige Angebote verkaufen sich im echten Gespräch. Wie High Ticket Closing seriös funktioniert: die richtige Haltung (beraten statt überreden), ein strukturiertes Verkaufsgespräch, Wert zeigen und Einwände auflösen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Was High Ticket Closing wirklich ist</li>
-<li>Die richtige Haltung: beraten statt überreden</li>
-<li>Das Verkaufsgespräch klar strukturieren</li>
-<li>Seriös verkaufen, mit Ethik und Recht</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „High Ticket Closing“ Die Kunst, im Gespräch zu verkaufen – Hochpreisige Angebote verkaufen sich im echten Gespräch. Wie High Ticket Closing seriös funktioniert: die richtige Haltung (beraten statt überreden), ein strukturiertes Verkaufsgespräch, Wert zeigen und Einwände auflösen. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Was High Ticket Closing wirklich ist Die richtige Haltung: beraten statt überreden Das Verkaufsgespräch klar strukturieren Seriös verkaufen, mit Ethik und Recht
 
 ## 2. Links
 

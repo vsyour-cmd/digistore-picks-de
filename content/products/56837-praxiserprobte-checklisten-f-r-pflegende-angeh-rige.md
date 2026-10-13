@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Verkaufen Sie die perfekte Hilfe für pflegende Angehörige!</p>
-<p>Meine Checklisten lösen echte Alltagsprobleme (z.B. Hilfsmittelkompass, MDK - Vorbereitung).</p>
-<p>Sie erhalten faire 30% Provision pro Verkauf. Werden Sie</p>
-<p>jetzt Partner von PflegeKompassDigital!</p>
+**Vendor's marketplace description:** Verkaufen Sie die perfekte Hilfe für pflegende Angehörige! Meine Checklisten lösen echte Alltagsprobleme (z.B. Hilfsmittelkompass, MDK - Vorbereitung). Sie erhalten faire 30% Provision pro Verkauf. Werden Sie jetzt Partner von PflegeKompassDigital!
 
 ## 2. Links
 

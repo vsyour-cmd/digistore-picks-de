@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das Komplettpaket der KI-Schmiede, alle 23 GPTs in einem System</strong><br /><br />Die KI Business Suite ist dein digitales Marketing-Team auf Knopfdruck: 22 spezialisierte GPTs für Content-Erstellung, Funnelbau, Reels, E-Mails, Leadmagnete und mehr.<br /><br />• Sofort einsatzbereit, keine Prompt-Experimente • Inklusive Funnel-GPTs, Launch-Mails, E-Mail-Serien, Freebie-Generator • Erstelle Reels, Karussells &amp; Social Media Content • Ideal für Affiliates, Coaches, Funnelbauer &amp; Creator • Klar strukturierte AI-Mitarbeiter, kein ChatGPT-Raten<br /><br /><strong>Für alle, die smart arbeiten wollen, statt sich durch Tools zu klicken.</strong><br />Keine Abo-Kosten. Einmal kaufen. Voller Zugriff.</p>
+**Vendor's marketplace description:** Das Komplettpaket der KI-Schmiede, alle 23 GPTs in einem System Die KI Business Suite ist dein digitales Marketing-Team auf Knopfdruck: 22 spezialisierte GPTs für Content-Erstellung, Funnelbau, Reels, E-Mails, Leadmagnete und mehr. • Sofort einsatzbereit, keine Prompt-Experimente • Inklusive Funnel-GPTs, Launch-Mails, E-Mail-Serien, Freebie-Generator • Erstelle Reels, Karussells & Social Media Content • Ideal für Affiliates, Coaches, Funnelbauer & Creator • Klar strukturierte AI-Mitarbeiter, kein ChatGPT-Raten Für alle, die smart arbeiten wollen, statt sich durch Tools zu klicken. Keine Abo-Kosten. Einmal kaufen. Voller Zugriff.
 
 ## 2. Links
 

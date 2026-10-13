@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses Buch greift eines der relevantesten Zukunftsthemen unserer Zeit auf:<br />Seltene Erden als Schlüsselrohstoffe für Technologie, Energiewende, Geopolitik und nationale Sicherheit.</p>
-<p>Die umfassende und leicht verständliche Aufbereitung spricht sowohl wirtschaftlich und politisch Interessierte als auch Anleger, Fachkräfte und technologieaffine Leser an.</p>
-<p>Durch die Verbindung von Rohstoffmärkten, globalen Machtverschiebungen, Nachhaltigkeit und Investitionschancen bietet das Werk eine breite Zielgruppe und hohe Aktualität.</p>
-<p>Ein starkes Informationsprodukt mit großem Diskussions- und Nachfragepotenzial, das sich hervorragend im Umfeld von Finanzen, Wirtschaft, Politik, Technologie und Zukunftstrends vermarkten lässt.</p>
+**Vendor's marketplace description:** Dieses Buch greift eines der relevantesten Zukunftsthemen unserer Zeit auf: Seltene Erden als Schlüsselrohstoffe für Technologie, Energiewende, Geopolitik und nationale Sicherheit. Die umfassende und leicht verständliche Aufbereitung spricht sowohl wirtschaftlich und politisch Interessierte als auch Anleger, Fachkräfte und technologieaffine Leser an. Durch die Verbindung von Rohstoffmärkten, globalen Machtverschiebungen, Nachhaltigkeit und Investitionschancen bietet das Werk eine breite Zielgruppe und hohe Aktualität. Ein starkes Informationsprodukt mit großem Diskussions- und Nachfragepotenzial, das sich hervorragend im Umfeld von Finanzen, Wirtschaft, Politik, Technologie und Zukunftstrends vermarkten lässt.
 
 ## 2. Links
 

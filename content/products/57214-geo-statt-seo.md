@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „GEO statt SEO“</strong></p>
-<p>Sichtbar bleiben im KI-Zeitalter – Die Suche wird zur KI-Antwort – wer nur auf klassisches SEO setzt, verschwindet. Lerne, wie Generative Engine Optimization deine Inhalte in ChatGPT, Gemini &amp; Co. sichtbar hält.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Wie sich Suche zur KI-Antwort wandelt</li>
-<li>SEO und GEO richtig zusammen denken</li>
-<li>Wie KI-Systeme Inhalte auswählen und zitieren</li>
-<li>Deinen eigenen GEO-Fahrplan umsetzen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „GEO statt SEO“ Sichtbar bleiben im KI-Zeitalter – Die Suche wird zur KI-Antwort – wer nur auf klassisches SEO setzt, verschwindet. Lerne, wie Generative Engine Optimization deine Inhalte in ChatGPT, Gemini & Co. sichtbar hält. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Wie sich Suche zur KI-Antwort wandelt SEO und GEO richtig zusammen denken Wie KI-Systeme Inhalte auswählen und zitieren Deinen eigenen GEO-Fahrplan umsetzen
 
 ## 2. Links
 

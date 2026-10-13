@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Kanaren-Guide: Welche Insel passt zu deinem neuen Leben?"</strong></p>
-<p>Teneriffa, Gran Canaria, Fuerteventura oder doch La Palma? Dieser Guide vergleicht die sieben Inseln nach Klima, Kosten und Lebensgefühl – damit du die Insel findest, die wirklich zu dir passt.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe: Auswandern auf die Kanaren</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Die Entscheidungskriterien für die richtige Insel kennen</li>
-<li>Teneriffa und Gran Canaria als große Allrounder einordnen</li>
-<li>Fuerteventura, Lanzarote und die grünen Westinseln vergleichen</li>
-<li>Klima, Kosten und Infrastruktur gegenüberstellen</li>
-<li>Mit einer Selbsteinschätzung deine Insel finden</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Auswanderungs-Interessierte, Kanaren-/Teneriffa-Fans, Reise- und Expat-Zielgruppen</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Kanaren-Guide: Welche Insel passt zu deinem neuen Leben?" Teneriffa, Gran Canaria, Fuerteventura oder doch La Palma? Dieser Guide vergleicht die sieben Inseln nach Klima, Kosten und Lebensgefühl – damit du die Insel findest, die wirklich zu dir passt. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe: Auswandern auf die Kanaren Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Die Entscheidungskriterien für die richtige Insel kennen Teneriffa und Gran Canaria als große Allrounder einordnen Fuerteventura, Lanzarote und die grünen Westinseln vergleichen Klima, Kosten und Infrastruktur gegenüberstellen Mit einer Selbsteinschätzung deine Insel finden Für deine Zielgruppe: Auswanderungs-Interessierte, Kanaren-/Teneriffa-Fans, Reise- und Expat-Zielgruppen Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

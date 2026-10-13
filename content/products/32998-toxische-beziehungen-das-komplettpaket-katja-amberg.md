@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:left;">Dieses Komplett-Paket besteht aus 2 auch einzeln erhältlichen Kursen "RAUS AUS TOXISCHEN BEZIEHUNGEN - HIN ZUR LIEBE" und "LIEBESKUMMER EXTREM". (Online-Anwendung)</p>
-<p style="text-align:left;"><strong>Der Zugang zu diesem Produkt erfolgt über den Mitgliederbereich von <a>www.katja-amberg-coaching.de</a> über gesonderten Login. Die Login-Daten werden nach Kaufabschluß per Mail übermittelt. </strong></p>
-<p style="text-align:left;">Dieses Paket ist DEIN MUST HAVE für Lebens - und Liebesglück und die Grundvoraussetzung für eine glückliche Beziehung, wenn die Vergangenheit durch eine toxische Beziehung belastet war - oder auch noch ist!</p>
-<p style="text-align:left;">Du leidest unter einem extremen Liebeskummer? Du willst Dich endlich wieder besser fühlen und den EX-Partner vergessen? Nimmt dieser Liebeskummer absolut kein Ende, egal was Du tust, egal wieviel Zeit verstreicht? Warst Du in einer ON/OFF-Beziehung, einer toxischen Beziehung mit einem Narzissten oder einem Menschen mit starker Bindungsangst?</p>
-<p style="text-align:left;">Du hast Liebeskummer OBWOHL Du Dich noch in der Beziehung befindest? Hast Du also Liebeskummer IN der Beziehung?  </p>
-<p style="text-align:left;">Dann ist dieser Doppelkurs genau das Richtige für Dich!</p>
-<p style="text-align:left;"> </p>
-<div> </div>
+**Vendor's marketplace description:** Dieses Komplett-Paket besteht aus 2 auch einzeln erhältlichen Kursen "RAUS AUS TOXISCHEN BEZIEHUNGEN - HIN ZUR LIEBE" und "LIEBESKUMMER EXTREM". (Online-Anwendung) Der Zugang zu diesem Produkt erfolgt über den Mitgliederbereich von www.katja-amberg-coaching.de über gesonderten Login. Die Login-Daten werden nach Kaufabschluß per Mail übermittelt. Dieses Paket ist DEIN MUST HAVE für Lebens - und Liebesglück und die Grundvoraussetzung für eine glückliche Beziehung, wenn die Vergangenheit durch eine toxische Beziehung belastet war - oder auch noch ist! Du leidest unter einem extremen Liebeskummer? Du willst Dich endlich wieder besser fühlen und den EX-Partner vergessen? Nimmt dieser Liebeskummer absolut kein Ende, egal was Du tust, egal wieviel Zeit verstreicht? Warst Du in einer ON/OFF-Beziehung, einer toxischen Beziehung mit einem Narzissten oder einem Menschen mit starker Bindungsangst? Du hast Liebeskummer OBWOHL Du Dich noch in der Beziehung befindest? Hast Du also Liebeskummer IN der Beziehung? Dann ist dieser Doppelkurs genau das Richtige für Dich!
 
 ## 2. Links
 

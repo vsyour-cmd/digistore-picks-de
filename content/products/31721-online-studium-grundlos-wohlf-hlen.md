@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das<strong> Ende von Angst und Leiden . . .  </strong></p>
-<p>Ein Online-Studium, um sich <strong>grundlos</strong> wohl zu fühlen? Wozu?</p>
-<p>Die Frage ist: Wozu alles andere, wenn Sie sich immer wieder oder gar ständig „mies“ fühlen?</p>
-<p>Und wenn Sie merken, dass <strong>ohne Ende grundlos</strong> wohlfühlen völlig natürlich ist, während mies fühlen unnatürlich ist...,</p>
-<p>…ist es vielleicht auch für Sie an der Zeit, einmal ALLES zu hinterfragen und genau hinzuschauen, so dass die ganze „Leiderei“ für Sie ein Ende haben kann.</p>
-<p>Es klingt vielleicht absurd – ein Leben ohne Leiden – aber es ist völlig natürlich.</p>
-<p>Es geht in dem Studium darum, <strong>dass die Ursache allen Leidens als Illusion durchschaut wird.</strong></p>
-<p>Hierzu erhalten Sie ein Jahr lang, aufeinander aufbauend, Online-Video-Coachings, zahlreiche ergänzende Texte, Audiodateien, Frage-Antwort-Interviews und Übungen.</p>
-<div> </div>
-<hr />
-<p>Sie brauchen keinerlei Vorkenntnisse</p>
-<p>Alles wird Schritt für Schritt, einfach verständlich und vollkommen logisch erklärt und… Sie brauchen absolut nichts zu glauben.</p>
-<p>Es geht „nur“ darum, dass Sie sich <strong>ohne Ende grundlos</strong> wohlfühlen… weil es natürlich ist.</p>
+**Vendor's marketplace description:** Das Ende von Angst und Leiden . . . Ein Online-Studium, um sich grundlos wohl zu fühlen? Wozu? Die Frage ist: Wozu alles andere, wenn Sie sich immer wieder oder gar ständig „mies“ fühlen? Und wenn Sie merken, dass ohne Ende grundlos wohlfühlen völlig natürlich ist, während mies fühlen unnatürlich ist..., …ist es vielleicht auch für Sie an der Zeit, einmal ALLES zu hinterfragen und genau hinzuschauen, so dass die ganze „Leiderei“ für Sie ein Ende haben kann. Es klingt vielleicht absurd – ein Leben ohne Leiden – aber es ist völlig natürlich. Es geht in dem Studium darum, dass die Ursache allen Leidens als Illusion durchschaut wird. Hierzu erhalten Sie ein Jahr lang, aufeinander aufbauend, Online-Video-Coachings, zahlreiche ergänzende Texte, Audiodateien, Frage-Antwort-Interviews und Übungen. Sie brauchen keinerlei Vorkenntnisse Alles wird Schritt für Schritt, einfach verständlich und vollkommen logisch erklärt und… Sie brauchen absolut nichts zu glauben. Es geht „nur“ darum, dass Sie sich ohne Ende grundlos wohlfühlen… weil es natürlich ist.
 
 ## 2. Links
 

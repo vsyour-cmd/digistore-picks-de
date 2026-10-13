@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#ff0000;"><strong>Für Affiliate Partner rund um Social-Media und Online-Marketing! 25% Provision –<br /><br /><br /><br />Die 12 Archetypen im Social-Media. Power-Branding für dein Business! Mit Jyotima Flak<br /><br />Wie du es schaffst, als unwiderstehliche Marke im Gedächtnis deiner Kunden zu bleiben (und zu verkaufen)!</strong></span><strong><br /></strong></p>
-<p>Mit umfangreichem Workbook, Videos, 12 Meditationen, Vorlagen für Branding &amp; Fotolook je Archetyp und mit 300 fertigen Canva-Social-Media Vorlagen zum Sofort-Loslegen!</p>
-<p>Jetzt mit dem Power-Branding der 12 Archetypen zur unverwechselbaren Marke werden!<strong><br /></strong><br />Alle Inhalte hier: https://www.jyotimaflak.com/archetypen</p>
-<p><strong> </strong></p>
+**Vendor's marketplace description:** Für Affiliate Partner rund um Social-Media und Online-Marketing! 25% Provision – Die 12 Archetypen im Social-Media. Power-Branding für dein Business! Mit Jyotima Flak Wie du es schaffst, als unwiderstehliche Marke im Gedächtnis deiner Kunden zu bleiben (und zu verkaufen)! Mit umfangreichem Workbook, Videos, 12 Meditationen, Vorlagen für Branding & Fotolook je Archetyp und mit 300 fertigen Canva-Social-Media Vorlagen zum Sofort-Loslegen! Jetzt mit dem Power-Branding der 12 Archetypen zur unverwechselbaren Marke werden! Alle Inhalte hier: https://www.jyotimaflak.com/archetypen
 
 ## 2. Links
 

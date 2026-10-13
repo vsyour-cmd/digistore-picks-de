@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Die 15-Tage KI-Provision-Challenge von Webpirat: Jetzt GRATIS für 0€ statt 27 €</h2>
-<p>Ahoi liebe/r Geschäfts-Partner/in!</p>
-<p>Ich freue mich riesig, dir dieses brandneue Webpirat.de E-Book inklusive echter 15 Tage KI-Challenge anbieten zu können – für kurze Zeit komplett kostenlos.</p>
-<p>Die Challenge ist vollgepackt mit umsetzbaren Schritten, wertvollen Tools, smarten Prompts und jeder Menge Praxiswissen rund um KI, Automatisierung und Online-Geldverdienen.</p>
-<p><strong>Deine Zielgruppe und deine Leads werden dieses Produkt lieben und dir mit satten Provisionen danken!</strong></p>
-<p>Das Beste: Deine Community bekommt ein starkes Gratisprodukt mit echtem Mehrwert – und du erhältst bis zu <strong>60 % Provision auf alle Upsells &amp; Addons</strong>, die nahtlos auf das Hauptprodukt abgestimmt sind.</p>
-<p>Wir haben einen bewährten, hochkonvertierenden Funnel, der Leads gezielt auf ein 497 € Produkt und Dienstleistungen über 1.000 € vorbereitet.</p>
-<p><strong>Unsere Technik läuft stabil, unsere E-Mails kommen an und deine Provision ist bei uns sicher.</strong></p>
-<p>Und falls doch mal was nicht klappt? Dann schreib mir persönlich an <a>info@webpirat.de</a> | Ich kümmer mich drum. Versprochen.</p>
-<p>Also: Werde Partner, teile den Link  und verdiene mit einem kostenlosen Produkt.</p>
-<h3> </h3>
+**Vendor's marketplace description:** Die 15-Tage KI-Provision-Challenge von Webpirat: Jetzt GRATIS für 0€ statt 27 € Ahoi liebe/r Geschäfts-Partner/in! Ich freue mich riesig, dir dieses brandneue Webpirat.de E-Book inklusive echter 15 Tage KI-Challenge anbieten zu können – für kurze Zeit komplett kostenlos. Die Challenge ist vollgepackt mit umsetzbaren Schritten, wertvollen Tools, smarten Prompts und jeder Menge Praxiswissen rund um KI, Automatisierung und Online-Geldverdienen. Deine Zielgruppe und deine Leads werden dieses Produkt lieben und dir mit satten Provisionen danken! Das Beste: Deine Community bekommt ein starkes Gratisprodukt mit echtem Mehrwert – und du erhältst bis zu 60 % Provision auf alle Upsells & Addons , die nahtlos auf das Hauptprodukt abgestimmt sind. Wir haben einen bewährten, hochkonvertierenden Funnel, der Leads gezielt auf ein 497 € Produkt und Dienstleistungen über 1.000 € vorbereitet. Unsere Technik läuft stabil, unsere E-Mails kommen an und deine Provision ist bei uns sicher. Und falls doch mal was nicht klappt? Dann schreib mir persönlich an info@webpirat.de | Ich kümmer mich drum. Versprochen. Also: Werde Partner, teile den Link und verdiene mit einem kostenlosen Produkt.
 
 ## 2. Links
 

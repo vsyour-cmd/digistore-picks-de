@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das E-Book „Vom Konflikt zu mehr Verbindung“ richtet sich an Menschen, die in ihrer Beziehung immer wieder in ähnliche Konflikte geraten und verstehen möchten, was hinter diesen Auseinandersetzungen steckt und wie sie konstruktiver damit umgehen können.</p>
-<p>Es vermittelt verständlich und psychologisch fundiert, wie Konflikte entstehen, welche Gefühle, Bedürfnisse, Erwartungen und Interpretationen dabei eine Rolle spielen und warum Gespräche so schnell eskalieren oder festfahren können. Die Leser lernen, schwierige Themen klarer anzusprechen, problematische Kommunikationsmuster zu erkennen, tragfähige Lösungen zu entwickeln und Verletzungen nach einem Streit wieder aufzuarbeiten.</p>
-<p>Das E-Book eignet sich zur Bewerbung bei einer Zielgruppe, die sich für Beziehungspsychologie, Kommunikation und einen konstruktiveren Umgang mit Konflikten in Partnerschaften interessiert.</p>
+**Vendor's marketplace description:** Das E-Book „Vom Konflikt zu mehr Verbindung“ richtet sich an Menschen, die in ihrer Beziehung immer wieder in ähnliche Konflikte geraten und verstehen möchten, was hinter diesen Auseinandersetzungen steckt und wie sie konstruktiver damit umgehen können. Es vermittelt verständlich und psychologisch fundiert, wie Konflikte entstehen, welche Gefühle, Bedürfnisse, Erwartungen und Interpretationen dabei eine Rolle spielen und warum Gespräche so schnell eskalieren oder festfahren können. Die Leser lernen, schwierige Themen klarer anzusprechen, problematische Kommunikationsmuster zu erkennen, tragfähige Lösungen zu entwickeln und Verletzungen nach einem Streit wieder aufzuarbeiten. Das E-Book eignet sich zur Bewerbung bei einer Zielgruppe, die sich für Beziehungspsychologie, Kommunikation und einen konstruktiveren Umgang mit Konflikten in Partnerschaften interessiert.
 
 ## 2. Links
 

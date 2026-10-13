@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><span style="color:#000000;"><strong>THE 1% CLUB - <span style="background-color:#ffff00;">15€ pro Verkauf!!</span></strong><strong><br /></strong></span></h4>
-<p><span style="color:#000000;"><strong>Werde Teil der Community</strong> und profitiere von einem legendären und einzigartigen Affiliate Programm!</span></p>
-<p><span style="color:#000000;"><strong><span style="text-decoration:underline;">Einzigartig</span> [hohe Conversion]:<br /></strong>• 75% Provision vom 1% Club - 15€</span><br /><span style="color:#000000;">• 50% Provision auf Up/Downsale - 25€/18€</span><br /><span style="color:#000000;">• 50% Provision auf Follow Up - 100€/56€/</span><br /><span style="color:#000000;">• Zusätzlich 20% vom Order Bump<strong><br /><br /></strong>Verdiene als Affiliate bis zu <span style="background-color:#ffff00;"><strong>215€ pro Verkauf!</strong></span></span></p>
-<p><span style="color:#000000;"><strong><span style="text-decoration:underline;">2. Level Provisionen:</span><br /></strong>Verdiene weitere 20% passiv für jeden Verkauf eines von dir beworbenen Affiliates! (exkl. für Mitglieder)</span></p>
-<p><span style="color:#000000;"><span style="text-decoration:underline;"><strong>Affiliate Reward:<br /></strong></span>Erhalte als Top Affiliate zusätzliche monatliche Preise für deine Leistung.</span><br /><br /></p>
-<p><span style="color:#000000;"><a style="color:#000000;" href="https://einprozentclub.com/Affiliate-Support/" target="_blank" rel="noreferrer noopener"><strong>&gt;&gt; Hinweise zum Partnerprogramm (hier klicken) &lt;&lt;</strong></a></span></p>
-<p><span style="color:#000000;"><strong><a style="color:#000000;" href="https://einprozentclub.com/Affiliate-Reward/" target="_blank" rel="noreferrer noopener">&gt; Affiliate Reward Rangliste &lt;</a></strong></span></p>
-<div><span style="color:#000000;"> </span></div>
+**Vendor's marketplace description:** THE 1% CLUB - 15€ pro Verkauf!! Werde Teil der Community und profitiere von einem legendären und einzigartigen Affiliate Programm! Einzigartig [hohe Conversion]: • 75% Provision vom 1% Club - 15€ • 50% Provision auf Up/Downsale - 25€/18€ • 50% Provision auf Follow Up - 100€/56€/ • Zusätzlich 20% vom Order Bump Verdiene als Affiliate bis zu 215€ pro Verkauf! 2. Level Provisionen: Verdiene weitere 20% passiv für jeden Verkauf eines von dir beworbenen Affiliates! (exkl. für Mitglieder) Affiliate Reward: Erhalte als Top Affiliate zusätzliche monatliche Preise für deine Leistung. >> Hinweise zum Partnerprogramm (hier klicken) << > Affiliate Reward Rangliste <
 
 ## 2. Links
 

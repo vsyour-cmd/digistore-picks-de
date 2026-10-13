@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>easyRechtssicher Komplett-Schutz</strong>: Datenschutzerklärung, Impressum, Cookie-Banner und Widerrufsbelehrung für Websites – von Rechtsanwalt Dr. Ronald Kandelhard erstellt und laufend an die Rechtslage angepasst. Abo-Produkt.</p>
-<p><strong>Warum es sich lohnt, das zu bewerben:</strong></p>
-<ul>
-<li><strong>18 € Provision je Zahlung</strong> – nicht nur auf die erste: Bei jeder Folgezahlung des Abos verdienst Du erneut mit, solange der Kunde bleibt.</li>
-<li><strong>Dauerbedarf statt Modethema</strong>: Jede Website braucht Rechtstexte, und jede Gesetzesänderung bringt sie zurück auf den Tisch.</li>
-<li><strong>Breite Zielgruppe</strong>: Selbstständige, Coaches, Berater, Webdesigner, Shop-Betreiber.</li>
-<li><strong>Verkauf, Support und Rechtstexte übernehmen wir</strong> – Du empfiehlst, wir machen den Rest.</li>
-<li><strong>Werbemittel</strong>: Banner, Vorlagen für E-Mail-Texte, Blog-Beiträge, Partnersiegel.</li>
-</ul>
-<p>Alle Infos für Partner: <a href="https://easyrechtssicher.de/partner-programm-ihre-vorteile">easyrechtssicher.de/partner-programm-ihre-vorteile</a></p>
+**Vendor's marketplace description:** easyRechtssicher Komplett-Schutz : Datenschutzerklärung, Impressum, Cookie-Banner und Widerrufsbelehrung für Websites – von Rechtsanwalt Dr. Ronald Kandelhard erstellt und laufend an die Rechtslage angepasst. Abo-Produkt. Warum es sich lohnt, das zu bewerben: 18 € Provision je Zahlung – nicht nur auf die erste: Bei jeder Folgezahlung des Abos verdienst Du erneut mit, solange der Kunde bleibt. Dauerbedarf statt Modethema : Jede Website braucht Rechtstexte, und jede Gesetzesänderung bringt sie zurück auf den Tisch. Breite Zielgruppe : Selbstständige, Coaches, Berater, Webdesigner, Shop-Betreiber. Verkauf, Support und Rechtstexte übernehmen wir – Du empfiehlst, wir machen den Rest. Werbemittel : Banner, Vorlagen für E-Mail-Texte, Blog-Beiträge, Partnersiegel. Alle Infos für Partner: easyrechtssicher.de/partner-programm-ihre-vorteile
 
 ## 2. Links
 

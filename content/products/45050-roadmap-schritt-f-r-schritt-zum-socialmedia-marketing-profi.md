@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>"Roadmap - Schritt für Schritt zum<br />Social-Media Marketing-Profi<br />-Facebook und Instagram für Anfänger-"</strong> </p>
-<ul>
-<li>Dieses E-Book funktioniert gut für Affiliate Anfänger</li>
-<li>Perfektes Produkt für <strong>"jeden"</strong>, der mit seinem online Business / Affiliate Marketing starten und weiter kommen will und nach wertvollen Tipps sucht.</li>
-<li>Du hast mit <strong>diesem E-Book ein Geschenk für deine Community</strong> und wirst am<strong> kompletten Sales-Funnel beteiligt!</strong></li>
-</ul>
-<p>Hohe Conversion, da es für den Kunden kostenlos ist.</p>
-<h4>60% Provision!</h4>
-<p>Beteiligt an Up- und Downsell<br /><strong>Über 72€ im Funnel für dich möglich!</strong></p>
+**Vendor's marketplace description:** "Roadmap - Schritt für Schritt zum Social-Media Marketing-Profi -Facebook und Instagram für Anfänger-" Dieses E-Book funktioniert gut für Affiliate Anfänger Perfektes Produkt für "jeden" , der mit seinem online Business / Affiliate Marketing starten und weiter kommen will und nach wertvollen Tipps sucht. Du hast mit diesem E-Book ein Geschenk für deine Community und wirst am kompletten Sales-Funnel beteiligt! Hohe Conversion, da es für den Kunden kostenlos ist. 60% Provision! Beteiligt an Up- und Downsell Über 72€ im Funnel für dich möglich!
 
 ## 2. Links
 

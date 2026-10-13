@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Sie suchen nach einem Trading-Partnerprogramm, das seriös ist und regelmäßig wiederkehrende Umsätze bringt?</strong></p>
-<p>Dann haben Sie mit unseren<strong> DAX-Index Trading Signalen </strong>genau das richtige gefunden.</p>
-<p>Unsere professionellen DAX-Index-Signale richten sich an Einsteiger und fortgeschrittene Trader des Dax-Index.</p>
-<p>Die DAX-Trading-Signale werden ausgesucht von dem Profi Trader Peter Zöller.</p>
-<p><strong>Einfacher Erstverkauf durch 19,90 Euro Testangebot!</strong></p>
-<p><strong>Konditionen für Partner:</strong></p>
-<ul>
-<li>30 % Provision als Passiv-Einkommen (monatlich)</li>
-<li>Lebenslange Provisionszahlungen für die Monatsbeiträge Ihrer geworbenen Kunden</li>
-<li>Hohe Anmelde- &amp; Teilnehmerquote</li>
-<li>Hohe Conversion durch Testmöglichkeit</li>
-<li>Sehr geringe Stornoquote </li>
-</ul>
-<p>Bewerben Sie unsere Trading-Produkte jetzt auf Ihrer Webseite, Ihrem Blog oder direkt an Ihre Liste.</p>
-<p>Sie werden sehen, wie regelmäßig hohe Provisionen in Ihren Account fließen und das Monat für Monat, solange die Abonnenten dabei bleiben.</p>
-<p>Die Kündigungsrate ist gering.</p>
-<p> </p>
+**Vendor's marketplace description:** Sie suchen nach einem Trading-Partnerprogramm, das seriös ist und regelmäßig wiederkehrende Umsätze bringt? Dann haben Sie mit unseren DAX-Index Trading Signalen genau das richtige gefunden. Unsere professionellen DAX-Index-Signale richten sich an Einsteiger und fortgeschrittene Trader des Dax-Index. Die DAX-Trading-Signale werden ausgesucht von dem Profi Trader Peter Zöller. Einfacher Erstverkauf durch 19,90 Euro Testangebot! Konditionen für Partner: 30 % Provision als Passiv-Einkommen (monatlich) Lebenslange Provisionszahlungen für die Monatsbeiträge Ihrer geworbenen Kunden Hohe Anmelde- & Teilnehmerquote Hohe Conversion durch Testmöglichkeit Sehr geringe Stornoquote Bewerben Sie unsere Trading-Produkte jetzt auf Ihrer Webseite, Ihrem Blog oder direkt an Ihre Liste. Sie werden sehen, wie regelmäßig hohe Provisionen in Ihren Account fließen und das Monat für Monat, solange die Abonnenten dabei bleiben. Die Kündigungsrate ist gering.
 
 ## 2. Links
 

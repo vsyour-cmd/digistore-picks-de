@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die eigene Gartenbank aus Edelstahl nachbauen.</strong></p>
-<p>Das E-Book enthält insgesamt 38 Seiten mit:</p>
-<p>1. Stücklisten für die Bestellung der einzelnen Materialien</p>
-<p>2. Konkrete Maßangaben für den Zuschnitt</p>
-<p>3. Normbezeichnungen und Positionsnummern</p>
-<p>4. Technische Zeichnungen mit den Maßen von den benötigten Einzelteilen</p>
-<p>5. Darstellungen der Bauteile in verschiedenen Ansichten </p>
-<p>6. Bilder von der Herstellung (Eigenbau)</p>
-<p> </p>
-<p style="text-align:left;">Mit diesen technischen Zeichnungen und Materiallisten ist es auf einfache Art und Weise möglich die Edelstahl Gartenbank nachzubauen.</p>
+**Vendor's marketplace description:** Die eigene Gartenbank aus Edelstahl nachbauen. Das E-Book enthält insgesamt 38 Seiten mit: 1. Stücklisten für die Bestellung der einzelnen Materialien 2. Konkrete Maßangaben für den Zuschnitt 3. Normbezeichnungen und Positionsnummern 4. Technische Zeichnungen mit den Maßen von den benötigten Einzelteilen 5. Darstellungen der Bauteile in verschiedenen Ansichten 6. Bilder von der Herstellung (Eigenbau) Mit diesen technischen Zeichnungen und Materiallisten ist es auf einfache Art und Weise möglich die Edelstahl Gartenbank nachzubauen.
 
 ## 2. Links
 

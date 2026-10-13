@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Im Fitnessbereich ist die Nachfrage nach kurzen Trainings, die die Beweglichkeit verbessern, in den letzten Jahren deutlich gestiegen.</p>
-<p>In Mobility Warm-ups werden neben einer Einführung ins Beweglichkeitstraining 52 Programme vorgestellt, die in der Durchführung jeweils nur 10 bis 15 Minuten dauern (fast 3 Stunden an Videomaterial).</p>
-<p>Diese Programme wurden jahrelang als Aufwärmprogramme bei unseren funktionellen Trainings erfolgreich eingesetzt, können aber auch als kleine Bewegungseinheit im Tagesverlauf durchgeführt werden.</p>
-<p>Alle Übungen werden mit verlinkten Erklärvideos in verschiedenen Schwierigkeitsgraden gezeigt.</p>
-<p>Das Produkt wird mit einem Webinar beworben und durch zwei Upsell-Angebote ergänzt:</p>
-<ul><li>ein Videokurs, in dem man lernt wie sich die Gesundheit, Konzentration und Produktivität im Büro schnell und spürbar steigern lassen (u. a. durch die Einrichtung eines dynamischen Arbeitsplatzes)</li>
-<li>Ein Videozusammenschnitt eines Mobility-Seminares, das wir für Freizeitsportler, Trainer und Therapeuten angeboten haben.</li>
-</ul>
+**Vendor's marketplace description:** Im Fitnessbereich ist die Nachfrage nach kurzen Trainings, die die Beweglichkeit verbessern, in den letzten Jahren deutlich gestiegen. In Mobility Warm-ups werden neben einer Einführung ins Beweglichkeitstraining 52 Programme vorgestellt, die in der Durchführung jeweils nur 10 bis 15 Minuten dauern (fast 3 Stunden an Videomaterial). Diese Programme wurden jahrelang als Aufwärmprogramme bei unseren funktionellen Trainings erfolgreich eingesetzt, können aber auch als kleine Bewegungseinheit im Tagesverlauf durchgeführt werden. Alle Übungen werden mit verlinkten Erklärvideos in verschiedenen Schwierigkeitsgraden gezeigt. Das Produkt wird mit einem Webinar beworben und durch zwei Upsell-Angebote ergänzt: ein Videokurs, in dem man lernt wie sich die Gesundheit, Konzentration und Produktivität im Büro schnell und spürbar steigern lassen (u. a. durch die Einrichtung eines dynamischen Arbeitsplatzes) Ein Videozusammenschnitt eines Mobility-Seminares, das wir für Freizeitsportler, Trainer und Therapeuten angeboten haben.
 
 ## 2. Links
 

@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der <strong>Inner Gold Adventskalender 2025</strong> ist ein kostenfreies, gemeinnütziges Bildungsprojekt der <em>Akademie für Leadership &amp; bewusstes Wirken</em></p>
-<p>(Österreich, ZVR 1749110439).<br />Er begleitet Führungspersönlichkeiten, Unternehmer:innen und Menschen mit Verantwortung im Dezember mit täglichen Impulsen zu Klarheit, Ruhe und bewusster Selbstführung.</p>
-<p>Als Partner kannst du diesen Adventskalender über deinen persönlichen Affiliate-Link weiterempfehlen.<br />Alle Personen, die sich über deinen Link anmelden, werden automatisch deinem Account zugeordnet.<br />Wenn sie sich später für ein vertiefendes Angebot oder ein anderes Programm der Akademie entscheiden, erhältst du die jeweils angegebene Provision.</p>
-<p>Der Adventskalender selbst ist und bleibt kostenfrei.<br />Unser Anliegen ist es, Menschen in herausfordernden Zeiten Räume für Achtsamkeit, Klarheit und innere Balance zu eröffnen. Vielen Dank, dass du diese Arbeit unterstützt und Menschen in deiner Community den Zugang zu Inner Gold ermöglichst.</p>
-<hr />
-<h2><strong>Angebote, die im Adventskalender vorgestellt werden</strong></h2>
-<p><em>(Preise &amp; Provisionen für Partner)</em></p>
-<p>Im Rahmen des Inner Gold Adventskalenders werden folgende vertiefende Bildungsangebote vorgestellt.<br />Für jedes dieser Angebote erhältst du eine Provision, sofern der Kauf von einer Person getätigt wird, die ursprünglich über deinen Adventskalender-Link gekommen ist.</p>
-<hr />
-<h3><strong>1. Entscheiden leicht gemacht – Die 7-Tage-Challenge</strong></h3>
-<p>Preis: <strong>97 €</strong><br />Provision: <strong>20 %</strong></p>
-<p>Ein 7-tägiges Programm für Menschen, die klarere Entscheidungen treffen, Entscheidungsmüdigkeit reduzieren und wieder mehr Zugang zu ihrer inneren Führung finden möchten.</p>
-<hr />
-<h3><strong>2. Leadership Kudo Karten</strong></h3>
-<p>Preis: <strong>37 €</strong><br />Provision: <strong>50 %</strong></p>
-<p>Ein wirksames, achtsames Tool zur Stärkung von Teamkultur, Wertschätzung und bewusster Führung.<br />Ideal für Führungskräfte und Teams, die Kommunikation und Verbindung vertiefen möchten.</p>
-<hr />
-<h3><strong>3. Klarheits-Journal – Dein Begleiter für bewusste Selbstführung</strong></h3>
-<p>Preis: <strong>24,97 €</strong><br />Provision: <strong>40 %</strong></p>
-<p>Ein strukturierter Reflexionsbegleiter für Fokus, innere Ruhe und tägliche Klarheit.<br />Perfekt als Ergänzung zu den Impulsen des Adventskalenders.</p>
-<hr />
-<h2><strong>Wichtiger Hinweis zur Provision</strong></h2>
-<p>Alle Käufe, die innerhalb der gültigen Affiliate-Lifetime erfolgen, werden automatisch deinem Partnerkonto zugeordnet.</p>
-<p><br />Die Cookie-Laufzeit beträgt <strong>180 Tage</strong>, sodass auch spätere Entscheidungen fair und transparent vergütet werden.</p>
+**Vendor's marketplace description:** Der Inner Gold Adventskalender 2025 ist ein kostenfreies, gemeinnütziges Bildungsprojekt der Akademie für Leadership & bewusstes Wirken (Österreich, ZVR 1749110439). Er begleitet Führungspersönlichkeiten, Unternehmer:innen und Menschen mit Verantwortung im Dezember mit täglichen Impulsen zu Klarheit, Ruhe und bewusster Selbstführung. Als Partner kannst du diesen Adventskalender über deinen persönlichen Affiliate-Link weiterempfehlen. Alle Personen, die sich über deinen Link anmelden, werden automatisch deinem Account zugeordnet. Wenn sie sich später für ein vertiefendes Angebot oder ein anderes Programm der Akademie entscheiden, erhältst du die jeweils angegebene Provision. Der Adventskalender selbst ist und bleibt kostenfrei. Unser Anliegen ist es, Menschen in herausfordernden Zeiten Räume für Achtsamkeit, Klarheit und innere Balance zu eröffnen. Vielen Dank, dass du diese Arbeit unterstützt und Menschen in deiner Community den Zugang zu Inner Gold ermöglichst. Angebote, die im Adventskalender vorgestellt werden (Preise & Provisionen für Partner) Im Rahmen des Inner Gold Adventskalenders werden folgende vertiefende Bildungsangebote vorgestellt. Für jedes dieser Angebote erhältst du eine Provision, sofern der Kauf von einer Person getätigt wird, die ursprünglich über deinen Adventskalender-Link gekommen ist. 1. Entscheiden leicht gemacht – Die 7-Tage-Challenge Preis: 97 € Provision: 20 % Ein 7-tägiges Programm für Menschen, die klarere Entscheidungen treffen, Entscheidungsmüdigkeit reduzieren und wieder mehr Zugang zu ihrer inneren Führung finden möchten. 2. Leadership Kudo Karten Preis: 37 € Provision: 50 % Ein wirksames, achtsames Tool zur Stärkung von Teamkultur, Wertschätzung und bewusster Führung. Ideal für Führungskräfte und Teams, die Kommunikation und Verbindung vertiefen möchten. 3. Klarheits-Journal – Dein Begleiter für bewusste Selbstführung Preis: 24,97 € Provision: 40 % Ein strukturierter Reflexionsbegleiter für Fokus, innere Ruhe und tägliche Klarheit. Perfekt als Ergänzung zu den Impulsen des Adventskalenders. Wichtiger Hinweis zur Provision Alle Käufe, die innerhalb der gültigen Affiliate-Lifetime erfolgen, werden automatisch deinem Partnerkonto zugeordnet. Die Cookie-Laufzeit beträgt 180 Tage , sodass auch spätere Entscheidungen fair und transparent vergütet werden.
 
 ## 2. Links
 

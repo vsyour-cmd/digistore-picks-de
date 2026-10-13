@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>AFFILIATE INFO – Vital Leben mit Parkinson</p>
-<p>„Vital Leben mit Parkinson“ ist mehr als ein eBook – es gibt Menschen Hoffnung, Mut und neue Kraft.</p>
-<p>Als Affiliate teilst du echte Erfahrungen, die Betroffenen helfen, ihren Alltag vitaler zu leben – und verdienst dabei attraktiv mit.</p>
-<p>Ein emotional starkes Thema, hohe Nachfrage, sinnvolle Mission.</p>
-<p>Du empfiehlst Licht – und wirst dafür belohnt.</p>
-<p>Gemeinsam verändern wir Leben. </p>
+**Vendor's marketplace description:** AFFILIATE INFO – Vital Leben mit Parkinson „Vital Leben mit Parkinson“ ist mehr als ein eBook – es gibt Menschen Hoffnung, Mut und neue Kraft. Als Affiliate teilst du echte Erfahrungen, die Betroffenen helfen, ihren Alltag vitaler zu leben – und verdienst dabei attraktiv mit. Ein emotional starkes Thema, hohe Nachfrage, sinnvolle Mission. Du empfiehlst Licht – und wirst dafür belohnt. Gemeinsam verändern wir Leben.
 
 ## 2. Links
 

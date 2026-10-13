@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verdiene 50% Provision mit dem voll anpassbaren Business &amp; Marketing Strategie Planer!</strong></p>
-<p>Der Planer ist das perfekte digitale Werkzeug für Selbstständige, Content Creator und Unternehmer, die mehr Struktur, Fokus und messbaren Erfolg in ihr Marketing bringen wollen. Da das Produkt als editierbares Canva-Template geliefert wird, ist der Mehrwert für die Zielgruppe extrem hoch!</p>
-<p><strong>Deine Vorteile als Affiliate:</strong></p>
-<p>* <strong>50% saftige Provivion</strong> pro Verkauf (ca 12,75€ netto für dich!)</p>
-<p>* <strong>Verkaufsstarke Landingpage</strong> (vollständig für mobile Endgeräte optimiert</p>
-<p>* <strong>Automatische Freischaltung </strong>- du kannst SOFORT starten und deinen Link teilen!</p>
-<p>* <strong>Niedrige Stornoquote </strong>durch erstklassige Produktqualität</p>
-<p> </p>
-<p><strong>Perfekte Zielgruppe:</strong></p>
-<p><strong>* Gründer &amp; Selbstständige</strong></p>
-<p><strong>* Social Media Manager &amp; Marketer</strong></p>
-<p><strong>* Content Creator, Blogger &amp; Influencer</strong></p>
-<p><strong>* Etsy-Verkäufer &amp; Digitale Product Creator</strong></p>
-<p>Hol dir jetzt deinen Promo-Link und profitiere vom Wachstumsmarkt "Digital Products &amp; Canva Templates"!</p>
+**Vendor's marketplace description:** Verdiene 50% Provision mit dem voll anpassbaren Business & Marketing Strategie Planer! Der Planer ist das perfekte digitale Werkzeug für Selbstständige, Content Creator und Unternehmer, die mehr Struktur, Fokus und messbaren Erfolg in ihr Marketing bringen wollen. Da das Produkt als editierbares Canva-Template geliefert wird, ist der Mehrwert für die Zielgruppe extrem hoch! Deine Vorteile als Affiliate: * 50% saftige Provivion pro Verkauf (ca 12,75€ netto für dich!) * Verkaufsstarke Landingpage (vollständig für mobile Endgeräte optimiert * Automatische Freischaltung - du kannst SOFORT starten und deinen Link teilen! * Niedrige Stornoquote durch erstklassige Produktqualität Perfekte Zielgruppe: * Gründer & Selbstständige * Social Media Manager & Marketer * Content Creator, Blogger & Influencer * Etsy-Verkäufer & Digitale Product Creator Hol dir jetzt deinen Promo-Link und profitiere vom Wachstumsmarkt "Digital Products & Canva Templates"!
 
 ## 2. Links
 

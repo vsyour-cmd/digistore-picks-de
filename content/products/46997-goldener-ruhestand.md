@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Dieser wertvolle Ratgeber wird statt € 27,90, kostenlos angeboten</strong></p>
-<p><strong>Folgendes wird dein Kunde erfahren:</strong></p>
-<ul>
-<li><strong>Eröffne neue Möglichkeiten, indem du Online-Geld verdienst</strong></li>
-<li>Nutze das Potenzial des Internets, um deine finanzielle Lage zu verbessern</li>
-<li><strong>Erfahre, wie du online ein Einkommen aufbauen kannst und unabhängig wirst</strong></li>
-<li>Du erfährst, wie du auch ohne Vorwissen online Geld verdienen kannst</li>
-<li>Du hast mit <strong>diesem E-Book ein Geschenk für deine Community</strong> und wirst am<strong> kompletten Sales-Funnel beteiligt!</strong></li>
-</ul>
-<p>Hohe Conversion, da es für den Kunden kostenlos ist.</p>
-<h4>55 % Provision!</h4>
-<p>Beteiligt an Up- und Downsell<br /><strong>Über 74 € im Funnel für dich möglich!</strong></p>
+**Vendor's marketplace description:** Dieser wertvolle Ratgeber wird statt € 27,90, kostenlos angeboten Folgendes wird dein Kunde erfahren: Eröffne neue Möglichkeiten, indem du Online-Geld verdienst Nutze das Potenzial des Internets, um deine finanzielle Lage zu verbessern Erfahre, wie du online ein Einkommen aufbauen kannst und unabhängig wirst Du erfährst, wie du auch ohne Vorwissen online Geld verdienen kannst Du hast mit diesem E-Book ein Geschenk für deine Community und wirst am kompletten Sales-Funnel beteiligt! Hohe Conversion, da es für den Kunden kostenlos ist. 55 % Provision! Beteiligt an Up- und Downsell Über 74 € im Funnel für dich möglich!
 
 ## 2. Links
 

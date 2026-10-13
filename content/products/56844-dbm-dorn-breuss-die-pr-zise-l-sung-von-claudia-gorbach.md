@@ -41,40 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>DBM – Dorn-Breuss: Die präzise Lösung</h3>
-<h3>Der Minikurs für alle, die Dorn-Breuss wirklich verstehen wollen</h3>
-<p>Viele Menschen lernen die Dorn-Breuss-Methode über Techniken und Abläufe. Dennoch bleiben Ergebnisse oft instabil oder müssen immer wieder korrigiert werden.</p>
-<p>Genau hier setzt dieser Minikurs an.</p>
-<p>Claudia Gorbach zeigt, warum nachhaltige Wirkung nicht allein durch Technik entsteht, sondern durch Ordnung, Wahrnehmung und systemische Orientierung. Der Kurs vermittelt die grundlegenden Zusammenhänge, die in vielen Ausbildungen nur am Rande behandelt werden.</p>
-<p>Als langjährige Dorn-Breuss-Expertin, Autorin und Ausbilderin verbindet Claudia Gorbach traditionelle Dorn-Breuss-Anwendung mit einem tiefen Verständnis für Selbstregulation, Wahrnehmung und funktionelle Ordnung.</p>
-<p>Der Kurs ist bewusst kompakt aufgebaut und eignet sich ideal als Einstieg in eine hochwertige Weiterbildungs- und Produktwelt.</p>
-<hr />
-<h3>Warum Affiliates dieses Produkt gerne bewerben</h3>
-<p>✔ Klare und verständliche Positionierung<br />✔ Hochinteressante Zielgruppe aus Therapie, Gesundheit und Körperarbeit<br />✔ Starkes Problem-Bewusstsein bei der Zielgruppe<br />✔ Niedrige Einstiegshürde durch kompaktes Kursformat<br />✔ Idealer Einstieg in weiterführende Produkte, Seminare und Ausbildungen<br />✔ Hohe Relevanz für Dorn-Breuss-Anwender und Gesundheitsinteressierte</p>
-<hr />
-<h3>Zielgruppe</h3>
-<ul>
-<li>Dorn-Breuss-Anwender</li>
-<li>Therapeutinnen und Therapeuten</li>
-<li>Heilpraktikerinnen und Heilpraktiker</li>
-<li>Masseure und Körpertherapeuten</li>
-<li>Gesundheitscoaches</li>
-<li>Gesundheitsbewusste Menschen mit Interesse an ganzheitlichen Zusammenhängen</li>
-</ul>
-<hr />
-<h3>Die zentrale Botschaft</h3>
-<p><strong>Dorn-Breuss wirkt. Doch ohne Ordnung bleibt die Methode begrenzt.</strong></p>
-<p>Dieser Minikurs zeigt die fehlende Ebene zwischen Technik und nachhaltiger Wirkung.</p>
-<hr />
-<h3>Langfristiges Potenzial</h3>
-<p>Dieses Produkt ist Teil einer wachsenden Dorn-Breuss-Produktwelt.</p>
-<p>Nach dem Einstieg folgen weitere Kurse, Vertiefungen, Fachthemen sowie hochwertige Präsenzseminare und Weiterbildungen.</p>
-<p>Dadurch profitieren Affiliates nicht nur von einzelnen Verkäufen, sondern von einer langfristigen Kundenentwicklung.</p>
-<hr />
-<h3>Jetzt als Affiliate bewerben</h3>
-<p>Empfehlen Sie ein Produkt mit fachlicher Substanz, klarer Positionierung und langfristigem Entwicklungspotenzial.</p>
-<p><strong>Ordnung. Wahrnehmung. Wirkung.</strong><br /><strong>DBM – Dorn-Breuss: Die präzise Lösung.</strong></p>
-<p> </p>
+**Vendor's marketplace description:** DBM – Dorn-Breuss: Die präzise Lösung Der Minikurs für alle, die Dorn-Breuss wirklich verstehen wollen Viele Menschen lernen die Dorn-Breuss-Methode über Techniken und Abläufe. Dennoch bleiben Ergebnisse oft instabil oder müssen immer wieder korrigiert werden. Genau hier setzt dieser Minikurs an. Claudia Gorbach zeigt, warum nachhaltige Wirkung nicht allein durch Technik entsteht, sondern durch Ordnung, Wahrnehmung und systemische Orientierung. Der Kurs vermittelt die grundlegenden Zusammenhänge, die in vielen Ausbildungen nur am Rande behandelt werden. Als langjährige Dorn-Breuss-Expertin, Autorin und Ausbilderin verbindet Claudia Gorbach traditionelle Dorn-Breuss-Anwendung mit einem tiefen Verständnis für Selbstregulation, Wahrnehmung und funktionelle Ordnung. Der Kurs ist bewusst kompakt aufgebaut und eignet sich ideal als Einstieg in eine hochwertige Weiterbildungs- und Produktwelt. Warum Affiliates dieses Produkt gerne bewerben ✔ Klare und verständliche Positionierung ✔ Hochinteressante Zielgruppe aus Therapie, Gesundheit und Körperarbeit ✔ Starkes Problem-Bewusstsein bei der Zielgruppe ✔ Niedrige Einstiegshürde durch kompaktes Kursformat ✔ Idealer Einstieg in weiterführende Produkte, Seminare und Ausbildungen ✔ Hohe Relevanz für Dorn-Breuss-Anwender und Gesundheitsinteressierte Zielgruppe Dorn-Breuss-Anwender Therapeutinnen und Therapeuten Heilpraktikerinnen und Heilpraktiker Masseure und Körpertherapeuten Gesundheitscoaches Gesundheitsbewusste Menschen mit Interesse an ganzheitlichen Zusammenhängen Die zentrale Botschaft Dorn-Breuss wirkt. Doch ohne Ordnung bleibt die Methode begrenzt. Dieser Minikurs zeigt die fehlende Ebene zwischen Technik und nachhaltiger Wirkung. Langfristiges Potenzial Dieses Produkt ist Teil einer wachsenden Dorn-Breuss-Produktwelt. Nach dem Einstieg folgen weitere Kurse, Vertiefungen, Fachthemen sowie hochwertige Präsenzseminare und Weiterbildungen. Dadurch profitieren Affiliates nicht nur von einzelnen Verkäufen, sondern von einer langfristigen Kundenentwicklung. Jetzt als Affiliate bewerben Empfehlen Sie ein Produkt mit fachlicher Substanz, klarer Positionierung und langfristigem Entwicklungspotenzial. Ordnung. Wahrnehmung. Wirkung. DBM – Dorn-Breuss: Die präzise Lösung.
 
 ## 2. Links
 

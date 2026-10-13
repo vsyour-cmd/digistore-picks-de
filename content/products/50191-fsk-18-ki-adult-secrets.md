@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div><span style="background-color:#ffff00;"><em><strong>Adult Secrets: FSK 18 KI</strong></em></span></div>
-<div> </div>
-<div><em><strong>✅  </strong>Deine Community verdient Geld mit Adult Content durch Social Media </em></div>
-<div> </div>
-<div><strong><em>✅  Dank KI bleibt man komplett Anonym</em></strong></div>
-<div> </div>
-<div><em>✅  Und Sie bekommen noch weitere kostenlose Online Geld verdien Strategien (Canva, Chat GPT uvm.) in unserem Mitgliederbereich!!!</em></div>
-</div>
-<div> </div>
-<div><span style="background-color:#ffff00;"><em><strong>Du kannst durch Upsells und AddOn insgesamt bis zu 237 Euro verdienen</strong></em></span></div>
+**Vendor's marketplace description:** Adult Secrets: FSK 18 KI ✅ Deine Community verdient Geld mit Adult Content durch Social Media ✅ Dank KI bleibt man komplett Anonym ✅ Und Sie bekommen noch weitere kostenlose Online Geld verdien Strategien (Canva, Chat GPT uvm.) in unserem Mitgliederbereich!!! Du kannst durch Upsells und AddOn insgesamt bis zu 237 Euro verdienen
 
 ## 2. Links
 

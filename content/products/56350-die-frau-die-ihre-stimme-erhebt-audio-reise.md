@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Deine Stimme ist der Schlüssel.</strong> Lange hast du geschwiegen, jetzt beginnt dein Ausdruck. Dieses Bundle ist kein bloßes Musikalbum – es ist dein 8-teiliger Prozess zur radikalen Selbstverwirklichung.</p>
-<p><strong>Inhalt: Deine 8 Audio-Reisen</strong></p>
-<ol>
-<li>
-<p><strong>Erhebung:</strong> Finde deine eigene Stimme wieder.</p>
-</li>
-<li>
-<p><strong>Resonanz:</strong> Erlebe, wie du endlich gehört wirst.</p>
-</li>
-<li>
-<p><strong>Wahrheit:</strong> Sprich ohne Filter und Ausreden.</p>
-</li>
-<li>
-<p><strong>Befreiung:</strong> Höre auf, dich zurückzuhalten.</p>
-</li>
-<li>
-<p><strong>Sichtbarkeit:</strong> Zeig dich, wie du wirklich bist.</p>
-</li>
-<li>
-<p><strong>Klarheit:</strong> Kommuniziere deine Bedürfnisse souverän.</p>
-</li>
-<li>
-<p><strong>Grenzen:</strong> Lerne, „Nein“ zu sagen, um „Ja“ zu dir zu sagen.</p>
-</li>
-<li>
-<p><strong>Präsenz:</strong> Lebe deine Botschaft im Alltag.</p>
-</li>
-</ol>
-<p><strong>Warum dieses Bundle?</strong> Diese Audio-Reisen sind Spiegel und Aktivierung zugleich. Sie begleiten dich dabei, vom Schweigen in deine volle Kraft zu wachsen. Egal, ob deine Stimme noch zittert oder schon bereit ist: Hier findest du den Raum, um dich zu entfalten.</p>
-<p><strong>Triff heute die Entscheidung für deine Größe. Dein Ausdruck wartet auf dich.</strong></p>
+**Vendor's marketplace description:** Deine Stimme ist der Schlüssel. Lange hast du geschwiegen, jetzt beginnt dein Ausdruck. Dieses Bundle ist kein bloßes Musikalbum – es ist dein 8-teiliger Prozess zur radikalen Selbstverwirklichung. Inhalt: Deine 8 Audio-Reisen Erhebung: Finde deine eigene Stimme wieder. Resonanz: Erlebe, wie du endlich gehört wirst. Wahrheit: Sprich ohne Filter und Ausreden. Befreiung: Höre auf, dich zurückzuhalten. Sichtbarkeit: Zeig dich, wie du wirklich bist. Klarheit: Kommuniziere deine Bedürfnisse souverän. Grenzen: Lerne, „Nein“ zu sagen, um „Ja“ zu dir zu sagen. Präsenz: Lebe deine Botschaft im Alltag. Warum dieses Bundle? Diese Audio-Reisen sind Spiegel und Aktivierung zugleich. Sie begleiten dich dabei, vom Schweigen in deine volle Kraft zu wachsen. Egal, ob deine Stimme noch zittert oder schon bereit ist: Hier findest du den Raum, um dich zu entfalten. Triff heute die Entscheidung für deine Größe. Dein Ausdruck wartet auf dich.
 
 ## 2. Links
 

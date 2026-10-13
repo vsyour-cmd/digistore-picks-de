@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>14-Tage - Testversion, erst nach Eingabe des Freischaltcodes ist WAWIKUKL unbegrenzt lauffähig.</p>
+**Vendor's marketplace description:** 14-Tage - Testversion, erst nach Eingabe des Freischaltcodes ist WAWIKUKL unbegrenzt lauffähig.
 
 ## 2. Links
 

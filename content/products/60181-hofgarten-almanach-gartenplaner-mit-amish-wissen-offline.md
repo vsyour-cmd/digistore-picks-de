@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Gartenplaner für den Gemüsegarten, der komplett im Browser läuft, auch ohne Netz: Beete und Fruchtfolge über Jahre planen (mit Warnung, wenn eine Pflanzenfamilie zu früh zurückkehrt), Aussaatkalender, Boden-pH, Saatgut-Vorrat mit Einkaufsliste, Gieß-, Ernte- und Schädlings-Tagebuch pro Beet und Gartenbericht zum Drucken oder als PDF.</p>
-<p>Zielgruppe: Hobbygärtner mit Gemüsebeeten, Selbstversorger, Kleingärtner und alle, die ihre Gartendaten lieber auf dem eigenen Gerät behalten.</p>
-<p>Einmaliger Kaufpreis 24,90 €, kein Abo, kein Konto, keine Cloud. Verkaufsseite mit Handbuch zum Vorablesen: https://www.gz-ai-stacks.de/Hofgarten-Almanach/</p>
+**Vendor's marketplace description:** Gartenplaner für den Gemüsegarten, der komplett im Browser läuft, auch ohne Netz: Beete und Fruchtfolge über Jahre planen (mit Warnung, wenn eine Pflanzenfamilie zu früh zurückkehrt), Aussaatkalender, Boden-pH, Saatgut-Vorrat mit Einkaufsliste, Gieß-, Ernte- und Schädlings-Tagebuch pro Beet und Gartenbericht zum Drucken oder als PDF. Zielgruppe: Hobbygärtner mit Gemüsebeeten, Selbstversorger, Kleingärtner und alle, die ihre Gartendaten lieber auf dem eigenen Gerät behalten. Einmaliger Kaufpreis 24,90 €, kein Abo, kein Konto, keine Cloud. Verkaufsseite mit Handbuch zum Vorablesen: https://www.gz-ai-stacks.de/Hofgarten-Almanach/
 
 ## 2. Links
 

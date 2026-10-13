@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Ein exzellentes Produkt für die Bereiche Kreativität, Beruf und Hobbies!</strong></p>
-<hr />
-<p><span style="color:#ff0000;"><strong>Achtung:</strong> Nur seriöse Affliates mit passendem Traffic gesucht. Bitte kein Spam in Facebook Gruppen! Bei Zuwiderhandlung wird die Partnerschaft umgehend aufgelöst.</span></p>
-<hr />
-<p>In meinem großen Sketchnotes Kurs zeige ich den TeinehmerInnen, wie sie geniale Sketchnotes erstellen können – sei es für Flipcharts, Coachings, Präsentationen oder einfach nur für die privaten Notizen.</p>
-<ul>
-<li>Sketchnoting Workshop <strong>für Anfänger</strong></li>
-<li><strong>Schritt für Schritt</strong> und <strong>Strich für Strich</strong> Bildsprache lernen</li>
-<li><strong>33 Lektionen und Videos</strong> mit Live-Sketchnotings (fast 5 Stunden reines Video-Material!)</li>
-<li><strong>Insider-Tipps</strong> für zukünftige SketchnoterInnen</li>
-<li><strong>Bonus #1: Exklusive Sketchnote-Spickzettel</strong> zum selber ausdrucken. Am Ende hast du ein richtiges Heft mit wertvollen Erinnerungen an die Inhalte des Workshops.</li>
-<li><strong>Bonus #2: Exklusive Übungsaufgaben</strong> zu jeder Lektion trainieren das frisch Erlernte. Sehr effektiv!</li>
-<li><strong>Bonus #3:</strong> Zugriff auf alle <strong>zukünftigen Inhalte</strong> des Workshops</li>
-</ul>
+**Vendor's marketplace description:** Ein exzellentes Produkt für die Bereiche Kreativität, Beruf und Hobbies! Achtung: Nur seriöse Affliates mit passendem Traffic gesucht. Bitte kein Spam in Facebook Gruppen! Bei Zuwiderhandlung wird die Partnerschaft umgehend aufgelöst. In meinem großen Sketchnotes Kurs zeige ich den TeinehmerInnen, wie sie geniale Sketchnotes erstellen können – sei es für Flipcharts, Coachings, Präsentationen oder einfach nur für die privaten Notizen. Sketchnoting Workshop für Anfänger Schritt für Schritt und Strich für Strich Bildsprache lernen 33 Lektionen und Videos mit Live-Sketchnotings (fast 5 Stunden reines Video-Material!) Insider-Tipps für zukünftige SketchnoterInnen Bonus #1: Exklusive Sketchnote-Spickzettel zum selber ausdrucken. Am Ende hast du ein richtiges Heft mit wertvollen Erinnerungen an die Inhalte des Workshops. Bonus #2: Exklusive Übungsaufgaben zu jeder Lektion trainieren das frisch Erlernte. Sehr effektiv! Bonus #3: Zugriff auf alle zukünftigen Inhalte des Workshops
 
 ## 2. Links
 

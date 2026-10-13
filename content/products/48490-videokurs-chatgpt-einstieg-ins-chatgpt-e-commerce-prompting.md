@@ -41,37 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Videokurs: Einstieg ins ChatGPT E-Commerce Prompting </h3>
-<div>
-<p>Bist du bereit, dein E-Commerce Business auf das nächste Level zu bringen? Unser exklusives Video <strong>"Einstieg ins ChatGPT E-Commerce Prompting"</strong> ist genau das, was du brauchst!</p>
-<h3>Was erwartet dich?</h3>
-<p>In diesem Power-Praxisvideo erfährst du alles, was du wissen musst, um mit ChatGPT und anderen KI-Tools dein E-Commerce Geschäft zu revolutionieren. Unsere Experten Florian und Torsten, mit über 20 Jahren Erfahrung als Manager und Business Coaches, führen dich Schritt für Schritt durch die Welt der Künstlichen Intelligenz.</p>
-<h3>Das wirst du lernen:</h3>
-<ul>
-<li><strong>Perfekte Prompts erstellen</strong>: Nutze die PROMPT-Methode und maximiere die Leistung von ChatGPT für dein E-Commerce.</li>
-<li><strong>Effiziente Kundenkommunikation</strong>: Beantworte Kunden-E-Mails schneller und professioneller.</li>
-<li><strong>Starke Texte aus Bildern generieren</strong>: Verwandle Produktbilder in überzeugende Verkaufstexte.</li>
-<li><strong>Blitzschnelle Datenanalyse</strong>: Analysiere Kundendaten im Handumdrehen und optimiere deine Marketingstrategien.</li>
-</ul>
-<h3>E-Commerce Praxisbeispiele:</h3>
-<ol>
-<li><strong>Brainstorming neuer Produktideen</strong>: Lass dich von ChatGPT bei der Entwicklung innovativer Produktideen unterstützen und finde neue Nischenmärkte.</li>
-<li><strong>Produktbeschreibungen erstellen</strong>: Erstelle detaillierte und ansprechende Produktbeschreibungen, die deine Kunden begeistern und zum Kauf anregen.</li>
-<li><strong>Kundenkommunikation optimieren</strong>: Automatisiere und verbessere deine Kundenkommunikation, um schnell und freundlich auf Anfragen und Beschwerden zu reagieren.</li>
-<li><strong>SEO-Analyse</strong>: Optimiere deine Website für Suchmaschinen und steigere deine Sichtbarkeit und Reichweite im Internet.</li>
-<li><strong>Kundendatenanalyse</strong>: Nutze die Macht der Datenanalyse, um wertvolle Einblicke in das Verhalten und die Vorlieben deiner Kunden zu gewinnen.</li>
-</ol>
-<h3>Warum dieses Video?</h3>
-<ul>
-<li><strong>Einfache Anwendung</strong>: Verstehe, wie KI funktioniert und setze es direkt in deinem E-Commerce Business ein.</li>
-<li><strong>Praxisnah und umsetzbar</strong>: Viele praxisnahe Beispiele speziell für den E-Commerce.</li>
-<li><strong>Erprobte Methoden</strong>: Profitiere von erprobten und getesteten Prompts und Tricks.</li>
-</ul>
-<h3>Dein Vorteil:</h3>
-<p> Hol dir Inspiration und wertvolles Wissen von den Profis und hebe dein E-Commerce Business auf ein neues Level.</p>
-<h3>Hol dir das Wissen zum Superpreis</h3>
-<p>Klick jetzt auf den Link und starte durch!</p>
-</div>
+**Vendor's marketplace description:** Videokurs: Einstieg ins ChatGPT E-Commerce Prompting Bist du bereit, dein E-Commerce Business auf das nächste Level zu bringen? Unser exklusives Video "Einstieg ins ChatGPT E-Commerce Prompting" ist genau das, was du brauchst! Was erwartet dich? In diesem Power-Praxisvideo erfährst du alles, was du wissen musst, um mit ChatGPT und anderen KI-Tools dein E-Commerce Geschäft zu revolutionieren. Unsere Experten Florian und Torsten, mit über 20 Jahren Erfahrung als Manager und Business Coaches, führen dich Schritt für Schritt durch die Welt der Künstlichen Intelligenz. Das wirst du lernen: Perfekte Prompts erstellen : Nutze die PROMPT-Methode und maximiere die Leistung von ChatGPT für dein E-Commerce. Effiziente Kundenkommunikation : Beantworte Kunden-E-Mails schneller und professioneller. Starke Texte aus Bildern generieren : Verwandle Produktbilder in überzeugende Verkaufstexte. Blitzschnelle Datenanalyse : Analysiere Kundendaten im Handumdrehen und optimiere deine Marketingstrategien. E-Commerce Praxisbeispiele: Brainstorming neuer Produktideen : Lass dich von ChatGPT bei der Entwicklung innovativer Produktideen unterstützen und finde neue Nischenmärkte. Produktbeschreibungen erstellen : Erstelle detaillierte und ansprechende Produktbeschreibungen, die deine Kunden begeistern und zum Kauf anregen. Kundenkommunikation optimieren : Automatisiere und verbessere deine Kundenkommunikation, um schnell und freundlich auf Anfragen und Beschwerden zu reagieren. SEO-Analyse : Optimiere deine Website für Suchmaschinen und steigere deine Sichtbarkeit und Reichweite im Internet. Kundendatenanalyse : Nutze die Macht der Datenanalyse, um wertvolle Einblicke in das Verhalten und die Vorlieben deiner Kunden zu gewinnen. Warum dieses Video? Einfache Anwendung : Verstehe, wie KI funktioniert und setze es direkt in deinem E-Commerce Business ein. Praxisnah und umsetzbar : Viele praxisnahe Beispiele speziell für den E-Commerce. Erprobte Methoden : Profitiere von erprobten und getesteten Prompts und Tricks. Dein Vorteil: Hol dir Inspiration und wertvolles Wissen von den Profis und hebe dein E-Commerce Business auf ein neues Level. Hol dir das Wissen zum Superpreis Klick jetzt auf den Link und starte durch!
 
 ## 2. Links
 

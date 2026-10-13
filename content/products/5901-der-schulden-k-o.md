@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#800080;"><strong>DER SCHULDEN-K.o.</strong></span></p>
-<p><big><small>Deutschlands umfangreichster Schuldenratgeber mit über 300 Seiten! Dieses Buch zeigt alle Auswege und Tricks, wie Sie Schulden und Gläubiger besiegen.</small></big></p>
-<p><big><small>K.O. ist OK - wenn es um Ihre Schulden geht. Dieses neue E-Book lässt Sie den Kampf gegen Ihre Schulden in fünf Runden gewinnen:</small></big></p>
-<p><big>Runde 1 - C</big>levere Art, das Schuldenproblem zu lösen</p>
-<p><big>Runde 2 -</big> Feine Art, das Schuldenproblem zu lösen</p>
-<p><big>Runde 3 -</big> Unfeine Art, das Schuldenproblem zu lösen</p>
-<p><big>Runde 4 -</big> Legale Art, das Schuldenproblem zu lösen</p>
-<p><big>Runde 5 -</big> Die Taktik, die die Privat-Insolvenz noch toppt: Die neu geschaffene Verbraucherinsolvenz ist schon gut, aber diese Strategie ist noch besser.</p>
-<p>DER SCHULDEN-KO ist auch hervorragend geeignet für Selbständige und Freiberufler.</p>
-<p> </p>
-<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
-<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
-<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<strong>J<span style="color:#cc99ff;">eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</span></strong>“.</p>
-<p>2 einfache Schritte:</p>
-<ol>
-<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html </a></span>(dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge")</li>
-<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
-</ol>
-<p> </p>
-<p><em><strong> </strong></em></p>
+**Vendor's marketplace description:** DER SCHULDEN-K.o. Deutschlands umfangreichster Schuldenratgeber mit über 300 Seiten! Dieses Buch zeigt alle Auswege und Tricks, wie Sie Schulden und Gläubiger besiegen. K.O. ist OK - wenn es um Ihre Schulden geht. Dieses neue E-Book lässt Sie den Kampf gegen Ihre Schulden in fünf Runden gewinnen: Runde 1 - C levere Art, das Schuldenproblem zu lösen Runde 2 - Feine Art, das Schuldenproblem zu lösen Runde 3 - Unfeine Art, das Schuldenproblem zu lösen Runde 4 - Legale Art, das Schuldenproblem zu lösen Runde 5 - Die Taktik, die die Privat-Insolvenz noch toppt: Die neu geschaffene Verbraucherinsolvenz ist schon gut, aber diese Strategie ist noch besser. DER SCHULDEN-KO ist auch hervorragend geeignet für Selbständige und Freiberufler. Möchten Sie ein Ansichtsexemplar? Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz. Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „ J eden T ag R ei*cher “. 2 einfache Schritte: JTR gratis bestellen auf https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge") Email mit Ihrem Ebook-Wunsch an service@big-benn-books.com
 
 ## 2. Links
 

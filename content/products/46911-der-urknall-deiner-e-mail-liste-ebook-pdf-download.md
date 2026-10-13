@@ -41,38 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<h2><span style="color:#ff0000;"><strong>Der Urknall Deiner E-Mail-Liste</strong></span></h2>
-<h4><span style="color:#000000;background-color:#ffff00;">Wie Du mit diesen knallharten Methoden in der Lage sein kannst,</span><br /><span style="color:#000000;background-color:#ffff00;">Dein E-Mail-Listen-Wachstum auf Knopfdruck zu automatisieren!</span></h4>
-<hr />
-<p><strong>In dieser Praxisanleitung erfährt der Leser wie ..</strong></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div>
-<ul>
-<li>E-Mail Adressen und somit potenzielle Neukunden gewonnen werden, wie er zeitnah Provisionen generieren kann.</li>
-<li>er seine Empfehlungen automatisiert, Neukunden dauerhaft an sich bindet und mit wertvollen Content einfängt</li>
-<li>er sich das Vertrauen seiner Abonnenten mit den Inhalten seiner E-Mail-Serie verdienen kann und somit aus seinen Empfehlungen Provisionen werden können.</li>
-</ul>
-<p>seine zukünftigen Kunden seine Empfehlungen annehmen und seine Provisionen regelmäßig bei ihm eintreffen können.</p>
-<p><span style="background-color:#ffff00;"><strong>Deine Vorteile als Affiliate:<br /></strong></span></p>
-<ul>
-<li><span style="background-color:#ffff00;"><span style="background-color:#ffffff;">Verschenke das eBook "Der Urknall Deiner E-Mail-Liste"</span><br /><span style="background-color:#ffffff;">und verdiene 30 % Provision bei allen Ups- und Downsells</span><strong><br /></strong></span></li>
-<li>Die Verkaufs- und Upsellseiten werden stetig auf Conversion optimiert.</li>
-<li>Ideales Produkt für <strong>"jeden"</strong>, der mit Affiliate | E-Mail Marketing starten möchte.</li>
-</ul>
-<p><span style="background-color:#ffff00;"><strong>Importiere meine E-Mail Vorlagen, FB- Post Vorlagen, Intagramm Vorlagen, sowie Bilder und starte<br />uneingeschrängt mit dem Bewerben dieser Praxisanleitung und Folgeprodukte.</strong></span></p>
-<p>Die gängigsten Werbemittel warten auf Dich im  Partnerprogramm Bereich zur uneingeschränkten Nutzung. <a href="https://mario-kozlowski0partnerprogramm.funnelcockpit.com/" target="_blank" rel="noreferrer noopener">Klicke hier<br /></a></p>
-</div>
+**Vendor's marketplace description:** Der Urknall Deiner E-Mail-Liste Wie Du mit diesen knallharten Methoden in der Lage sein kannst, Dein E-Mail-Listen-Wachstum auf Knopfdruck zu automatisieren! In dieser Praxisanleitung erfährt der Leser wie .. E-Mail Adressen und somit potenzielle Neukunden gewonnen werden, wie er zeitnah Provisionen generieren kann. er seine Empfehlungen automatisiert, Neukunden dauerhaft an sich bindet und mit wertvollen Content einfängt er sich das Vertrauen seiner Abonnenten mit den Inhalten seiner E-Mail-Serie verdienen kann und somit aus seinen Empfehlungen Provisionen werden können. seine zukünftigen Kunden seine Empfehlungen annehmen und seine Provisionen regelmäßig bei ihm eintreffen können. Deine Vorteile als Affiliate: Verschenke das eBook "Der Urknall Deiner E-Mail-Liste" und verdiene 30 % Provision bei allen Ups- und Downsells Die Verkaufs- und Upsellseiten werden stetig auf Conversion optimiert. Ideales Produkt für "jeden" , der mit Affiliate | E-Mail Marketing starten möchte. Importiere meine E-Mail Vorlagen, FB- Post Vorlagen, Intagramm Vorlagen, sowie Bilder und starte uneingeschrängt mit dem Bewerben dieser Praxisanleitung und Folgeprodukte. Die gängigsten Werbemittel warten auf Dich im Partnerprogramm Bereich zur uneingeschränkten Nutzung. Klicke hier
 
 ## 2. Links
 

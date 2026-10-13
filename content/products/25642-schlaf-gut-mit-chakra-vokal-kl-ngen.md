@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>CD als Downloadprodukt für 14 EUR mit 50% Provision</p>
-<p><strong>besser einschlafen?</strong></p>
-<p><strong>tiefer schlafen?</strong></p>
-<p><strong>erholt und erfrischt aufwachen?</strong></p>
-<p>Die CD für einen guten und erholsamen Schlaf.</p>
-<div>
-<div>
-<p>Gutes Einschlafen sowie Durchschlafen sind wichtig für unser Wohlbefinden.</p>
-<p>Durch die Harmonisierung mit Chakra-Vokal-Klängen kann der Gedankenfluss zur Ruhe kommen und das Bewusstsein besser mit dem Körper verbunden werden. Beides schafft die Grundlage für einen tieferen und erholsamen Schlaf.</p>
-<p>Die CD wurde entwickelt von Joachim Sevenich. Er hat mittlerweile 30 Jahre Erfahrung mit dem Chakra-Vokal-Training (Buch, CDs, Seminare). Die Webseite ist:  <a href="http://www.chakraklang.de" target="_blank" rel="noreferrer noopener">www.chakraklang.de</a></p>
-<p>Produkt-Nr.: 232178</p>
-<p>Promolink: https://www.digistore24.com/redir/232178/AFFILIATE/CAMPAIGNKEY</p>
-</div>
-</div>
+**Vendor's marketplace description:** CD als Downloadprodukt für 14 EUR mit 50% Provision besser einschlafen? tiefer schlafen? erholt und erfrischt aufwachen? Die CD für einen guten und erholsamen Schlaf. Gutes Einschlafen sowie Durchschlafen sind wichtig für unser Wohlbefinden. Durch die Harmonisierung mit Chakra-Vokal-Klängen kann der Gedankenfluss zur Ruhe kommen und das Bewusstsein besser mit dem Körper verbunden werden. Beides schafft die Grundlage für einen tieferen und erholsamen Schlaf. Die CD wurde entwickelt von Joachim Sevenich. Er hat mittlerweile 30 Jahre Erfahrung mit dem Chakra-Vokal-Training (Buch, CDs, Seminare). Die Webseite ist: www.chakraklang.de Produkt-Nr.: 232178 Promolink: https://www.digistore24.com/redir/232178/AFFILIATE/CAMPAIGNKEY
 
 ## 2. Links
 

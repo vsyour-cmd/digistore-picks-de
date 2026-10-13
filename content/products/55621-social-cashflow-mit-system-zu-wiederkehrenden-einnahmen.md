@@ -41,42 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses E-Book zeigt dir verständlich und praxisnah,<br />wie du digitale Produkte und smarte Tools nutzen kannst,<br />um dir Schritt für Schritt ein nachhaltiges Online-Einkommen aufzubauen.</p>
-<p>Du erhältst eine klare Struktur – auch ohne Vorkenntnisse –<br />und lernst, wie du Social Media gezielt für deinen Cashflow einsetzt.</p>
-<p><strong>Inhalte u. a.:</strong></p>
-<ul>
-<li>
-<p>Grundlagen für ein nachhaltiges Online-Einkommen</p>
-</li>
-<li>
-<p>Einsatz digitaler Tools zur Automatisierung</p>
-</li>
-<li>
-<p>Social-Media-Strategien für Einsteiger</p>
-</li>
-<li>
-<p>Strukturierter Aufbau eines einfachen Systems</p>
-</li>
-<li>
-<p>Typische Fehler und wie du sie vermeidest</p>
-</li>
-</ul>
-<p><strong>Für wen geeignet:</strong></p>
-<ul>
-<li>
-<p>Einsteiger ins Online-Business</p>
-</li>
-<li>
-<p>Affiliates, die ein strukturiertes System suchen</p>
-</li>
-<li>
-<p>Selbstständige, die digitale Einnahmequellen aufbauen möchten</p>
-</li>
-<li>
-<p>Personen, die Social Media gezielt einsetzen möchten</p>
-</li>
-</ul>
-<p><strong>Hinweis für Affiliates:</strong><br />Dieses Produkt ist als strukturierter Einstieg konzipiert.<br />Im weiteren Verlauf des Funnels bestehen optionale<br />Zusatzangebote mit weiteren Provisionsmöglichkeiten.</p>
+**Vendor's marketplace description:** Dieses E-Book zeigt dir verständlich und praxisnah, wie du digitale Produkte und smarte Tools nutzen kannst, um dir Schritt für Schritt ein nachhaltiges Online-Einkommen aufzubauen. Du erhältst eine klare Struktur – auch ohne Vorkenntnisse – und lernst, wie du Social Media gezielt für deinen Cashflow einsetzt. Inhalte u. a.: Grundlagen für ein nachhaltiges Online-Einkommen Einsatz digitaler Tools zur Automatisierung Social-Media-Strategien für Einsteiger Strukturierter Aufbau eines einfachen Systems Typische Fehler und wie du sie vermeidest Für wen geeignet: Einsteiger ins Online-Business Affiliates, die ein strukturiertes System suchen Selbstständige, die digitale Einnahmequellen aufbauen möchten Personen, die Social Media gezielt einsetzen möchten Hinweis für Affiliates: Dieses Produkt ist als strukturierter Einstieg konzipiert. Im weiteren Verlauf des Funnels bestehen optionale Zusatzangebote mit weiteren Provisionsmöglichkeiten.
 
 ## 2. Links
 

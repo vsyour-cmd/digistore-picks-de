@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In der "DIGITAL HEART BUSINESS ACADEMY" bekommst du ein monatliches Masterteaching live per Zoom inkl. Aufzeichnung, sowie 3 Onlinekurse und alle Aufzeichnungen der Masterteachings. Dies ist der Turbo für dein Onlinebusiness.</p>
-<p>Deine Provision: <strong>20% pro Monat, Mindestlaufzeit des Abonnements 12 Monate</strong></p>
-<p>Beim derzeitigen Verkaufspreis von<strong> 58,31 €</strong> (brutto) sind das für dich nach Abzug der Gebühren und der Steuer <strong>104,16€</strong> (netto pro Jahr) für dich.</p>
+**Vendor's marketplace description:** In der "DIGITAL HEART BUSINESS ACADEMY" bekommst du ein monatliches Masterteaching live per Zoom inkl. Aufzeichnung, sowie 3 Onlinekurse und alle Aufzeichnungen der Masterteachings. Dies ist der Turbo für dein Onlinebusiness. Deine Provision: 20% pro Monat, Mindestlaufzeit des Abonnements 12 Monate Beim derzeitigen Verkaufspreis von 58,31 € (brutto) sind das für dich nach Abzug der Gebühren und der Steuer 104,16€ (netto pro Jahr) für dich.
 
 ## 2. Links
 

@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die deutsche Grammatik in 12 Modulen!</p>
-<p>Sie erhalten ein kompaktes Grammatikwissen mit sprachwissenschaftlichen Grundlagen und methodischen Tipps für die Umsetzung!</p>
-<p>Der Kurs umfasst:</p>
-<ul><li>12 wichtige Themen der deutschen Grammatik</li>
-<li>Sprachwissenschaftliche Grundlagen</li>
-<li>Methodik der Grammatikvermittlung</li>
-<li>Grammatik-Präsentationen (A2-C1)</li>
-<li>Videos und Lernunterlagen</li>
-<li>Lebenslangen Zugang zum Online-Kursbereich</li>
-<li>Interaktive Arbeitsblätter</li>
-<li>Präsentationen für den Unterricht</li>
-<li>Online-Lerntools</li>
-<li>Teilnahme bequem von zu Hause</li>
-<li>Möglichkeit, individuellen Support für den Unterricht zu bekommen</li>
-</ul><p>Der Kurs ist sowohl für die Neu- und Quereinsteiger sowie für erfahrene Sprachlehrer geeignet, die ihre Kenntnisse der deutschen Grammatik und der Methodik erweitern bzw. auffrischen möchten.</p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Die deutsche Grammatik in 12 Modulen! Sie erhalten ein kompaktes Grammatikwissen mit sprachwissenschaftlichen Grundlagen und methodischen Tipps für die Umsetzung! Der Kurs umfasst: 12 wichtige Themen der deutschen Grammatik Sprachwissenschaftliche Grundlagen Methodik der Grammatikvermittlung Grammatik-Präsentationen (A2-C1) Videos und Lernunterlagen Lebenslangen Zugang zum Online-Kursbereich Interaktive Arbeitsblätter Präsentationen für den Unterricht Online-Lerntools Teilnahme bequem von zu Hause Möglichkeit, individuellen Support für den Unterricht zu bekommen Der Kurs ist sowohl für die Neu- und Quereinsteiger sowie für erfahrene Sprachlehrer geeignet, die ihre Kenntnisse der deutschen Grammatik und der Methodik erweitern bzw. auffrischen möchten.
 
 ## 2. Links
 

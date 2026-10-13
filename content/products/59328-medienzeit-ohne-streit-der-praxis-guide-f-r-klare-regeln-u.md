@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;">Medienzeit ohne Streit... ist der praktische Familienratgeber für alle, die weniger Diskussionen und mehr Klarheit bei der Bildschirmzeit wollen... Statt starrer Verbote setzt das Buch auf ein faires... Punkte und Bonussystem... das Verantwortung belohnt... Mit alltagstauglichen Beispielen... Checklisten und Vorlagen... für Medienregeln... Wochenziele und Belohnungen... Eltern bekommen damit eine klare Struktur... und Kinder und Jugendliche echte Mitgestaltung.</p>
+**Vendor's marketplace description:** Medienzeit ohne Streit... ist der praktische Familienratgeber für alle, die weniger Diskussionen und mehr Klarheit bei der Bildschirmzeit wollen... Statt starrer Verbote setzt das Buch auf ein faires... Punkte und Bonussystem... das Verantwortung belohnt... Mit alltagstauglichen Beispielen... Checklisten und Vorlagen... für Medienregeln... Wochenziele und Belohnungen... Eltern bekommen damit eine klare Struktur... und Kinder und Jugendliche echte Mitgestaltung.
 
 ## 2. Links
 

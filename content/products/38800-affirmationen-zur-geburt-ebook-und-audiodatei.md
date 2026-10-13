@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Nur die Theorie nutzt nichts, wenn man nicht handelt.</p>
-<p>Nur die Praxis nutzt nichts, wenn man nicht weiß, warum es funktioniert.</p>
-<p>Die Kombination aus beidem macht es.</p>
-<p>Deshalb besteht dieses Set aus einem E-Book mit Hintergrundinfos und einer über zwanzigminütigen Mp3-Datei mit stärkenden Geburtsaffirmationen.</p>
-<p>Natürlich gibt es ein Rückgaberecht bei Nichtgefallen.</p>
+**Vendor's marketplace description:** Nur die Theorie nutzt nichts, wenn man nicht handelt. Nur die Praxis nutzt nichts, wenn man nicht weiß, warum es funktioniert. Die Kombination aus beidem macht es. Deshalb besteht dieses Set aus einem E-Book mit Hintergrundinfos und einer über zwanzigminütigen Mp3-Datei mit stärkenden Geburtsaffirmationen. Natürlich gibt es ein Rückgaberecht bei Nichtgefallen.
 
 ## 2. Links
 

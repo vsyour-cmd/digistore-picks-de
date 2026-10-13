@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Ziehharmonika Online Kurs</strong></p>
-<p>Der Anfängerkurs ist ein perfekte Möglichkeit für jeden Harmonika interessierten das Harmonika spielen gut und sauber zu lernen. Der Kurs besteht aus 21 Lektionen in den Stimmungen G/C/F/B und B/Es/As/Des.<strong> <br /></strong></p>
-<p> </p>
-<p><strong>Für Affiliates: </strong></p>
-<p>Beim Anfängerkurs erhalten Sie 50%.</p>
-<p> </p>
-<p> </p>
-<p>Sollten Sie mehr Informationen brauchen, zögern Sie nicht mir eine E-Mail zu schreiben. Euer Manuel!</p>
-<p> </p>
+**Vendor's marketplace description:** Ziehharmonika Online Kurs Der Anfängerkurs ist ein perfekte Möglichkeit für jeden Harmonika interessierten das Harmonika spielen gut und sauber zu lernen. Der Kurs besteht aus 21 Lektionen in den Stimmungen G/C/F/B und B/Es/As/Des. Für Affiliates: Beim Anfängerkurs erhalten Sie 50%. Sollten Sie mehr Informationen brauchen, zögern Sie nicht mir eine E-Mail zu schreiben. Euer Manuel!
 
 ## 2. Links
 

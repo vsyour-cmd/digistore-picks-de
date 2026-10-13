@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Bewerbe den Bestseller: Pinterest Insider Secrets!</strong></p>
-<p><span style="background-color:#ffff00;"><strong>Das bekommt Deine Community:</strong></span></p>
-<p><strong>✅ Rocke Pinterest mit den besten Insider Tipps! </strong></p>
-<p><strong>✅ So macht man seine Follower glücklich</strong></p>
-<p><strong>✅ So wächst der Account schneller als alle andere</strong></p>
-<p><strong>✅ Geldmaschine Pinterest! So gehts...</strong></p>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Sehr gute Conversion:</strong></span></p>
-<p><strong>Deine Community bekommt das EBook + 3 Kurse Geschenkt und Du verdienst am Upsell Prozess (Pinterest Produkte) bis zu 137 Euro</strong></p>
+**Vendor's marketplace description:** Bewerbe den Bestseller: Pinterest Insider Secrets! Das bekommt Deine Community: ✅ Rocke Pinterest mit den besten Insider Tipps! ✅ So macht man seine Follower glücklich ✅ So wächst der Account schneller als alle andere ✅ Geldmaschine Pinterest! So gehts... Sehr gute Conversion: Deine Community bekommt das EBook + 3 Kurse Geschenkt und Du verdienst am Upsell Prozess (Pinterest Produkte) bis zu 137 Euro
 
 ## 2. Links
 

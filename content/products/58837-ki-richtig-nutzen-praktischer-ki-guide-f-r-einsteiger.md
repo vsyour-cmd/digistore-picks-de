@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong> Ein praxisnaher KI-Guide speziell für Einsteiger – verständlich erklärt und direkt umsetzbar. </strong></p>
-<p>„KI richtig nutzen“ zeigt Schritt für Schritt, wie bessere Prompts erstellt und KI-Tools sinnvoll im Alltag und Beruf eingesetzt werden können – ganz ohne technisches Vorwissen.</p>
-<p><strong>Das erwartet die Käufer: </strong></p>
-<p><strong>✓ Die praktische 4-Punkte-Prompt-Formel </strong></p>
-<p><strong>✓ KI sinnvoll für Alltag und Beruf einsetzen </strong></p>
-<p><strong>✓ Typische Fehler erkennen und vermeiden </strong></p>
-<p><strong>✓ Verständliche praktische Beispiele </strong></p>
-<p><strong>✓ 10 fertige Prompts zum direkten Kopieren </strong></p>
-<p>Ideal für Einsteiger, die KI endlich verstehen und praktisch nutzen möchten, ohne sich durch komplizierte technische Erklärungen arbeiten zu müssen. Das Produkt wird als digitaler Guide zum Download bereitgestellt.</p>
+**Vendor's marketplace description:** Ein praxisnaher KI-Guide speziell für Einsteiger – verständlich erklärt und direkt umsetzbar. „KI richtig nutzen“ zeigt Schritt für Schritt, wie bessere Prompts erstellt und KI-Tools sinnvoll im Alltag und Beruf eingesetzt werden können – ganz ohne technisches Vorwissen. Das erwartet die Käufer: ✓ Die praktische 4-Punkte-Prompt-Formel ✓ KI sinnvoll für Alltag und Beruf einsetzen ✓ Typische Fehler erkennen und vermeiden ✓ Verständliche praktische Beispiele ✓ 10 fertige Prompts zum direkten Kopieren Ideal für Einsteiger, die KI endlich verstehen und praktisch nutzen möchten, ohne sich durch komplizierte technische Erklärungen arbeiten zu müssen. Das Produkt wird als digitaler Guide zum Download bereitgestellt.
 
 ## 2. Links
 

@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verbreiten Sie Positivität und profitieren Sie gleichzeitig!</strong></p>
-<p>Unser Dankbarkeitstagebuch bietet jedem die Möglichkeit, durch tägliche Reflexion ein erfüllteres Leben zu führen. Als Affiliate haben Sie die einzigartige Chance, dieses wertvolle Werkzeug kostenlos an Ihre Leserschaft zu verschenken und gleichzeitig an allen weiterführenden Verkäufen, die über Ihre Empfehlungen generiert werden, zu verdienen.</p>
-<ul>
-<li><strong>Verschenken Sie Inspiration:</strong> Bieten Sie Ihren Followern unser kostenloses Dankbarkeitstagebuch an und helfen Sie ihnen, den ersten Schritt zu einem dankbareren Leben zu machen.</li>
-<li><strong>Erhalten Sie Provisionen:</strong> Verdienen Sie eine Provision für jedes Upgrade oder zusätzliche Produkt, das Ihre Leser kaufen.</li>
-</ul>
+**Vendor's marketplace description:** Verbreiten Sie Positivität und profitieren Sie gleichzeitig! Unser Dankbarkeitstagebuch bietet jedem die Möglichkeit, durch tägliche Reflexion ein erfüllteres Leben zu führen. Als Affiliate haben Sie die einzigartige Chance, dieses wertvolle Werkzeug kostenlos an Ihre Leserschaft zu verschenken und gleichzeitig an allen weiterführenden Verkäufen, die über Ihre Empfehlungen generiert werden, zu verdienen. Verschenken Sie Inspiration: Bieten Sie Ihren Followern unser kostenloses Dankbarkeitstagebuch an und helfen Sie ihnen, den ersten Schritt zu einem dankbareren Leben zu machen. Erhalten Sie Provisionen: Verdienen Sie eine Provision für jedes Upgrade oder zusätzliche Produkt, das Ihre Leser kaufen.
 
 ## 2. Links
 

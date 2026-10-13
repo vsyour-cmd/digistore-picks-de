@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Geld mit KI: 10 Methoden für 2026 – Das Praxis-Handbuch für deinen Einstieg</strong></p>
-<p>Dieses Handbuch zeigt dir 10 konkrete Wege, wie du mit KI-Tools Geld verdienen kannst – mit einer Entscheidungsmatrix, die dir zeigt welche Methode zu deiner Zeit, deinem Budget und deinen Fähigkeiten passt, und einem 30-Tage-Startplan für den direkten Einstieg. Kein Hype, kein Versprechen – ein strukturiertes System zum Umsetzen. Sofort als PDF verfügbar.</p>
-<p>Das ist enthalten:</p>
-<ul>
-<li>Entscheidungsmatrix: Welche der 10 Methoden passt zu dir? (nach Zeit, Budget, Vorwissen, Kundenkontakt)</li>
-<li>10 vollständige Methoden-Kapitel: Freelancing, Digitale Produkte, Content-Monetarisierung, Prompt-Engineering, Übersetzung, Automatisierung, KI-Beratung, Print-on-Demand, Affiliate Marketing, Visuelle Inhalte</li>
-<li>30-Tage-Startplan – konkret und mit täglichen Aufgaben für jede Methode</li>
-<li>Kunden-Briefing-Vorlage (sofort nutzbar für erste Aufträge)</li>
-<li>Kalkulations-Sheet zur Preisfindung für Dienstleistungen</li>
-<li>Angebots-E-Mail-Vorlage (kopierfertig)</li>
-<li>30 universelle KI-Prompts für den Soforteinsatz</li>
-<li>Tool-Übersicht: Welches Tool für welche Aufgabe – ohne Hype</li>
-</ul>
-<p>Sofortiger Download – kein Abo, keine versteckten Kosten.</p>
-<p><em>Alle Zahlenbeispiele in diesem Guide sind fiktive Orientierungswerte – kein Verdienstversprechen. Reale Ergebnisse variieren je nach Einsatz, Nische und individuellen Umständen. Kein Ersatz für individuelle Finanz- oder Steuerberatung.</em></p>
+**Vendor's marketplace description:** Geld mit KI: 10 Methoden für 2026 – Das Praxis-Handbuch für deinen Einstieg Dieses Handbuch zeigt dir 10 konkrete Wege, wie du mit KI-Tools Geld verdienen kannst – mit einer Entscheidungsmatrix, die dir zeigt welche Methode zu deiner Zeit, deinem Budget und deinen Fähigkeiten passt, und einem 30-Tage-Startplan für den direkten Einstieg. Kein Hype, kein Versprechen – ein strukturiertes System zum Umsetzen. Sofort als PDF verfügbar. Das ist enthalten: Entscheidungsmatrix: Welche der 10 Methoden passt zu dir? (nach Zeit, Budget, Vorwissen, Kundenkontakt) 10 vollständige Methoden-Kapitel: Freelancing, Digitale Produkte, Content-Monetarisierung, Prompt-Engineering, Übersetzung, Automatisierung, KI-Beratung, Print-on-Demand, Affiliate Marketing, Visuelle Inhalte 30-Tage-Startplan – konkret und mit täglichen Aufgaben für jede Methode Kunden-Briefing-Vorlage (sofort nutzbar für erste Aufträge) Kalkulations-Sheet zur Preisfindung für Dienstleistungen Angebots-E-Mail-Vorlage (kopierfertig) 30 universelle KI-Prompts für den Soforteinsatz Tool-Übersicht: Welches Tool für welche Aufgabe – ohne Hype Sofortiger Download – kein Abo, keine versteckten Kosten. Alle Zahlenbeispiele in diesem Guide sind fiktive Orientierungswerte – kein Verdienstversprechen. Reale Ergebnisse variieren je nach Einsatz, Nische und individuellen Umständen. Kein Ersatz für individuelle Finanz- oder Steuerberatung.
 
 ## 2. Links
 

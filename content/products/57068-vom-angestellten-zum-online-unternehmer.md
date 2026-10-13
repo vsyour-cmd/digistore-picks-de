@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Vom Angestellten zum Online-Unternehmer"</strong></p>
-<p>Neben dem Job ein eigenes Online-Business aufbauen – in 6 Monaten, Schritt für Schritt. Vom Unternehmer-Denken über die tragfähige Idee bis zu ersten Kunden, ohne Hauruck-Kündigung.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema: KI, Online-Business &amp; Geld verdienen</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Vom Angestellten- zum Unternehmer-Denken finden</li>
-<li>Eine realistische, tragfähige Geschäftsidee entwickeln</li>
-<li>Sicher neben dem Job starten – ohne Risiko-Sprung</li>
-<li>In klaren Etappen erste Kunden und Umsätze aufbauen</li>
-<li>Ehrlich entscheiden, wann ein Absprung sinnvoll ist</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Menschen, die mit KI und Online-Business ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Vom Angestellten zum Online-Unternehmer" Neben dem Job ein eigenes Online-Business aufbauen – in 6 Monaten, Schritt für Schritt. Vom Unternehmer-Denken über die tragfähige Idee bis zu ersten Kunden, ohne Hauruck-Kündigung. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema: KI, Online-Business & Geld verdienen Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Vom Angestellten- zum Unternehmer-Denken finden Eine realistische, tragfähige Geschäftsidee entwickeln Sicher neben dem Job starten – ohne Risiko-Sprung In klaren Etappen erste Kunden und Umsätze aufbauen Ehrlich entscheiden, wann ein Absprung sinnvoll ist Für deine Zielgruppe: Menschen, die mit KI und Online-Business ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

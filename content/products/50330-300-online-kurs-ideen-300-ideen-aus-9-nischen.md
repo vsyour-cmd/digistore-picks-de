@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>PDF/Anleitung - 300 Ideen</strong> für top Kurse aus 9 angesagten Nischen und Bereiche.<br />+ Bonus: Anleitung zum einfachen Erstellen von Online Kursen, für 9 Bereichen oder Nischen </p>
-<p><strong>PDF+Anleitung um 0€ …</strong></p>
-<ul>
-<li>Dieses Freebie funktioniert sehr gut für Affiliate Anfänger und Fortgeschrittene</li>
-<li>Perfektes Produkt für "jeden", der mit einem Freebie oder Freebie-Funnel starten oder weiterkommen will und nach wertvollen Tipps sucht.</li>
-<li>Du hast mit diesem PDF ein angesagtes Produkt für Deine Community und wirst am kompletten Sales-Funnel beteiligt!</li>
-</ul>
-<p><strong>Hohe Conversion</strong>, da es für den Kunden kostenlos ist. </p>
-<p><strong>0€ Freebie - 50% auf Add-on und Up- /Downsell. </strong><strong><br /></strong><strong>Plus: 15% Lifetime-Provision auf alle Folgeverkäufe! <br /></strong><strong>Über 82€ im Funnel für Dich möglich!</strong><br /><br />Der Upsell-Prozess wird laufend optimiert und angepasst.<br />Über 82€ im Funnel für Dich möglich!</p>
-<p><strong>Viel Erfolg und fette Beute!</strong></p>
+**Vendor's marketplace description:** PDF/Anleitung - 300 Ideen für top Kurse aus 9 angesagten Nischen und Bereiche. + Bonus: Anleitung zum einfachen Erstellen von Online Kursen, für 9 Bereichen oder Nischen PDF+Anleitung um 0€ … Dieses Freebie funktioniert sehr gut für Affiliate Anfänger und Fortgeschrittene Perfektes Produkt für "jeden", der mit einem Freebie oder Freebie-Funnel starten oder weiterkommen will und nach wertvollen Tipps sucht. Du hast mit diesem PDF ein angesagtes Produkt für Deine Community und wirst am kompletten Sales-Funnel beteiligt! Hohe Conversion , da es für den Kunden kostenlos ist. 0€ Freebie - 50% auf Add-on und Up- /Downsell. Plus: 15% Lifetime-Provision auf alle Folgeverkäufe! Über 82€ im Funnel für Dich möglich! Der Upsell-Prozess wird laufend optimiert und angepasst. Über 82€ im Funnel für Dich möglich! Viel Erfolg und fette Beute!
 
 ## 2. Links
 

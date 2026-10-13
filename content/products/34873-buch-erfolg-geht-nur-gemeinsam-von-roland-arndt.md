@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><strong>„Erfolg geht nur gemeinsam“</strong></h1>
-<h3><strong>Menschen gewinnen in veränderten Zeiten</strong></h3>
-<p><strong>von Roland Arndt</strong></p>
-<p>Egal, was Sie sich wünschen und wo Ihre Reise zum Lebens-Erfolg hingehen soll … für jeden Bereich ist es von großer Bedeutung, Beziehungen aufzubauen.</p>
-<p>Dann geht es darum, diese Verbindungen weiter zu entwickeln und zu pflegen. Wie Ihnen das am besten gelingen kann, dabei möchte ich Sie gern mit diesem Buch unterstützen.</p>
-<p>Unsere Beziehungen spielen im Leben die Hauptrollen. Ganz gleich ob privat oder geschäftlich, wir brauchen wertvolle menschliche Verbindungen, die uns Halt geben und uns mit Liebe, Lebensfreude und Erfolg bereichern.</p>
-<p>Und wenn in einem Lebensbereich eventuelle Beziehungs-Probleme auftauchen, ein oder mehrere Nachteile können schnell auf die anderen menschlichen Verbindungen überspringen. Und meistens haben wir für diese neuen Situationen keine Erfahrungswerte zur Hand.</p>
-<p>Aber es gibt große Hoffnung und neue Perspektiven; denn in jedem von uns stecken viel mehr Talente und Ressourcen für unseren Lebens-Erfolg als uns bewusst ist.</p>
-<p>Unser Potenzial ist also vorhanden. Was wir zusätzlich brauchen sind neue Vorgehensweisen in der Kommunikation. Und zwar nicht erst, wenn das Kind in den Brunnen gefallen ist, sondern kurz-, mittel- und langfristig.</p>
-<p>Weg von der Suche nach cleveren Tricks, um unser Gegenüber zu manipulieren und zu dominieren. Hin zu mehr Nutzen und Klarheit in der Gesprächsführung mit wirklich gelebter emotionaler Kompetenz.</p>
-<p>Und es gibt das Buch im Buch. Ab Seite 120 finden Sie das „Praxis-Handbuch für die wirksamsten Sprachnachrichten“.</p>
-<p>Mit diesen Formulierungen werden Sie im Vertrieb und Verkauf in unseren veränderten Zeiten neue Menschen für das Erreichen Ihrer Ziele gewinnen.</p>
-<p>1. Aufl. 2020, Hardcover (One World Distribution)</p>
-<p><strong>Produktinfo:</strong><br />229 Seiten, Maße: 21,5 x 15,5 cm, Buch<br />ISBN: 978-3-95778-225-0</p>
-<p> </p>
+**Vendor's marketplace description:** „Erfolg geht nur gemeinsam“ Menschen gewinnen in veränderten Zeiten von Roland Arndt Egal, was Sie sich wünschen und wo Ihre Reise zum Lebens-Erfolg hingehen soll … für jeden Bereich ist es von großer Bedeutung, Beziehungen aufzubauen. Dann geht es darum, diese Verbindungen weiter zu entwickeln und zu pflegen. Wie Ihnen das am besten gelingen kann, dabei möchte ich Sie gern mit diesem Buch unterstützen. Unsere Beziehungen spielen im Leben die Hauptrollen. Ganz gleich ob privat oder geschäftlich, wir brauchen wertvolle menschliche Verbindungen, die uns Halt geben und uns mit Liebe, Lebensfreude und Erfolg bereichern. Und wenn in einem Lebensbereich eventuelle Beziehungs-Probleme auftauchen, ein oder mehrere Nachteile können schnell auf die anderen menschlichen Verbindungen überspringen. Und meistens haben wir für diese neuen Situationen keine Erfahrungswerte zur Hand. Aber es gibt große Hoffnung und neue Perspektiven; denn in jedem von uns stecken viel mehr Talente und Ressourcen für unseren Lebens-Erfolg als uns bewusst ist. Unser Potenzial ist also vorhanden. Was wir zusätzlich brauchen sind neue Vorgehensweisen in der Kommunikation. Und zwar nicht erst, wenn das Kind in den Brunnen gefallen ist, sondern kurz-, mittel- und langfristig. Weg von der Suche nach cleveren Tricks, um unser Gegenüber zu manipulieren und zu dominieren. Hin zu mehr Nutzen und Klarheit in der Gesprächsführung mit wirklich gelebter emotionaler Kompetenz. Und es gibt das Buch im Buch. Ab Seite 120 finden Sie das „Praxis-Handbuch für die wirksamsten Sprachnachrichten“. Mit diesen Formulierungen werden Sie im Vertrieb und Verkauf in unseren veränderten Zeiten neue Menschen für das Erreichen Ihrer Ziele gewinnen. 1. Aufl. 2020, Hardcover (One World Distribution) Produktinfo: 229 Seiten, Maße: 21,5 x 15,5 cm, Buch ISBN: 978-3-95778-225-0
 
 ## 2. Links
 

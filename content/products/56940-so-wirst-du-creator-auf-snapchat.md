@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Reichweite auf Spotlight aufbauen, eine Community binden und Markendeals sicher landen</strong></p>
-<p>Creator auf Snapchat zu werden ist kein Zufall – es ist Handwerk, das du lernen kannst. Dieses E-Book zeigt dir den Weg vom kleinen Account zur gefragten Creator-Marke: wie du mit Spotlight-Videos als Reichweiten-Motor schnell wächst, mit Stories eine treue Gen-Z-Community aufbaust und dich für Markenkooperationen professionell positionierst. Du lernst, wie der Snapchat-Algorithmus Retention und Wiederschaurate bewertet, wie du AR-Lenses und Discover-Inhalte für maximale Sichtbarkeit nutzt und wie du Mediadaten erstellst, die Marken überzeugen. Dazu: Snapchat-Monetarisierungsprogramme verstehen, Preise selbstbewusst aufrufen und Deals verhandeln, die fair bezahlt sind.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Spotlight-Strategie: Hooks, Retention und der Algorithmus-Hebel</li>
-<li>Stories für maximale Bindung und Rücklaufquote</li>
-<li>Aus Followern echte Fans und eine aktive Snapchat-Community machen</li>
-<li>AR-Lenses selbst erstellen und als Marken-Tool einsetzen</li>
-<li>Dein Marken-Kit: Mediadaten, die Kooperationen gewinnen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Reichweite auf Spotlight aufbauen, eine Community binden und Markendeals sicher landen Creator auf Snapchat zu werden ist kein Zufall – es ist Handwerk, das du lernen kannst. Dieses E-Book zeigt dir den Weg vom kleinen Account zur gefragten Creator-Marke: wie du mit Spotlight-Videos als Reichweiten-Motor schnell wächst, mit Stories eine treue Gen-Z-Community aufbaust und dich für Markenkooperationen professionell positionierst. Du lernst, wie der Snapchat-Algorithmus Retention und Wiederschaurate bewertet, wie du AR-Lenses und Discover-Inhalte für maximale Sichtbarkeit nutzt und wie du Mediadaten erstellst, die Marken überzeugen. Dazu: Snapchat-Monetarisierungsprogramme verstehen, Preise selbstbewusst aufrufen und Deals verhandeln, die fair bezahlt sind. Das steckt drin: Spotlight-Strategie: Hooks, Retention und der Algorithmus-Hebel Stories für maximale Bindung und Rücklaufquote Aus Followern echte Fans und eine aktive Snapchat-Community machen AR-Lenses selbst erstellen und als Marken-Tool einsetzen Dein Marken-Kit: Mediadaten, die Kooperationen gewinnen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

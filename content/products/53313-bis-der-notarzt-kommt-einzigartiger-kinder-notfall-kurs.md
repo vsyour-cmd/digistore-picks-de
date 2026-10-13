@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Dieser Kinder-Notfall-Kurs ist auf seine Art einzigartig.</strong> Er bietet in 10+3 Videolektionen kurze knackige lebenswichtige Informationen bei einem Notfall eines Kindes.</p>
-<p>Der Kurs ist deshalb so einzigartig, weil andere Kurse nicht genau so auf den Punkt kommen. Dieser Kurs soll keine allgemeinbildenden Maßnahmen lehren, sondern genau die Lücke zwischen Un-/Notfall und dem Eintreffen des Notarztes schließen.</p>
-<p>Der Kurs schließt mit einem Zertifikat ab.</p>
-<p><span style="background-color:#ccffff;">Wir verkaufen bisher unsere Kurse an über 1000 Firmenkunden mit über 30.000 Teilnehmern in den letzten 5 Jahren. Dieser Kurs ist für Endkunden bestimmt.</span></p>
-<p>DENN GENAU DARUM GEHTS. Bis der Notarzt kommt. Mehr nicht. Wir wollen mit dem Kurs nicht reich werden, sondern möglichst viele Menschen erreichen.</p>
-<p>Daher gibts für dich lieber Affiliate <span style="color:#ff0000;"><strong>nicht nur</strong><strong><span style="color:#ff0000;"> 5</span>0% Provision</strong></span>, sondern auch einen eigenen kostenlosen Zugang zu diesem Kurs. Dazu einfach ne kurze WhatsApp Nachricht an: 0159-06399194.</p>
+**Vendor's marketplace description:** Dieser Kinder-Notfall-Kurs ist auf seine Art einzigartig. Er bietet in 10+3 Videolektionen kurze knackige lebenswichtige Informationen bei einem Notfall eines Kindes. Der Kurs ist deshalb so einzigartig, weil andere Kurse nicht genau so auf den Punkt kommen. Dieser Kurs soll keine allgemeinbildenden Maßnahmen lehren, sondern genau die Lücke zwischen Un-/Notfall und dem Eintreffen des Notarztes schließen. Der Kurs schließt mit einem Zertifikat ab. Wir verkaufen bisher unsere Kurse an über 1000 Firmenkunden mit über 30.000 Teilnehmern in den letzten 5 Jahren. Dieser Kurs ist für Endkunden bestimmt. DENN GENAU DARUM GEHTS. Bis der Notarzt kommt. Mehr nicht. Wir wollen mit dem Kurs nicht reich werden, sondern möglichst viele Menschen erreichen. Daher gibts für dich lieber Affiliate nicht nur 5 0% Provision , sondern auch einen eigenen kostenlosen Zugang zu diesem Kurs. Dazu einfach ne kurze WhatsApp Nachricht an: 0159-06399194.
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein zeitloses Erfolgs-Audio einer Weltmarke – mit guter Provision.</p>
-<p><strong>Das Produkt:</strong> In „12 Power Prinzipien" gibt Bob Proctor die Prinzipien weiter, nach denen erfolgreiche Menschen handeln – als Audio-Programm zum Anhören, wann immer der Kunde will. Preis: 147 €.</p>
-<p><strong>Warum sich das für dich lohnt:</strong></p>
-<ul>
-<li><strong>Gute Provision pro Verkauf</strong> (die genaue Höhe siehst du direkt bei Digistore).</li>
-<li><strong>Marke Bob Proctor / „The Secret":</strong> weltbekannt, leicht zu bewerben.</li>
-<li><strong>Breite Zielgruppe:</strong> alle, die sich für Persönlichkeitsentwicklung und Erfolg interessieren.</li>
-<li><strong>Offener deutschsprachiger Markt.</strong></li>
-<li><strong>Fertige Werbemittel vorhanden.</strong></li>
-</ul>
-<p><strong>Persönlicher Support:</strong> Spezielle Werbemittel- oder Gutschein-Wünsche? Melde dich – wir helfen dir gern.</p>
+**Vendor's marketplace description:** Ein zeitloses Erfolgs-Audio einer Weltmarke – mit guter Provision. Das Produkt: In „12 Power Prinzipien" gibt Bob Proctor die Prinzipien weiter, nach denen erfolgreiche Menschen handeln – als Audio-Programm zum Anhören, wann immer der Kunde will. Preis: 147 €. Warum sich das für dich lohnt: Gute Provision pro Verkauf (die genaue Höhe siehst du direkt bei Digistore). Marke Bob Proctor / „The Secret": weltbekannt, leicht zu bewerben. Breite Zielgruppe: alle, die sich für Persönlichkeitsentwicklung und Erfolg interessieren. Offener deutschsprachiger Markt. Fertige Werbemittel vorhanden. Persönlicher Support: Spezielle Werbemittel- oder Gutschein-Wünsche? Melde dich – wir helfen dir gern.
 
 ## 2. Links
 

@@ -41,76 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Kostenrechnung für Kaufleute für Büromanagement – ideal für die AP2-Prüfung</strong></p>
-<p> </p>
-<p>„Kostenrechnung für Kaufleute für Büromanagement – gaaanz einfach!“ ist der perfekte Kurs für alle, die sich gezielt und sicher auf die <strong>Kostenrechnungsthemen der IHK-Abschlussprüfung Teil 2 (AP2)</strong> vorbereiten möchten.</p>
-<p> </p>
-<p>Der Kurs richtet sich <strong>ausschließlich an Kaufleute für Büromanagement</strong> – dem <strong>häufigsten Ausbildungs- und Umschulungsberuf in Deutschland</strong> – und wurde exakt auf die Anforderungen der AP2 abgestimmt.</p>
-<p> </p>
-<p>Und das Beste: Auch bei diesem Kurs gilt wie immer – <strong>Lernen darf (und soll!) Spaß machen</strong>.</p>
-<p>Statt trockener Theorie erwartet die Teilnehmenden eine <strong>unterhaltsame, verständliche und motivierende Vermittlung</strong>. Alles wird so erklärt, dass man es wirklich versteht – mit vielen Aha-Momenten und garantiert <strong>ohne Gähnen</strong>.</p>
-<p> </p>
-<p><strong>Das steckt im Kurs:</strong></p>
-<ul>
-<li>
-<p>Erklärvideos mit anschaulichen, praxisnahen Beispielen</p>
-</li>
-<li>
-<p>Digitales Arbeitsheft mit Aufgaben und Lösungen</p>
-</li>
-<li>
-<p>Schritt-für-Schritt-Anleitungen und Schemaübersichten</p>
-</li>
-<li>
-<p>Prüfungsheft mit Aufgaben im Stil der IHK-Prüfung</p>
-</li>
-<li>
-<p>Kein Vorwissen nötig – perfekt zum Wiederholen und Vertiefen</p>
-</li>
-</ul>
-<p> </p>
-<p><strong>Für wen ist der Kurs ideal:</strong></p>
-<ul>
-<li>
-<p>Auszubildende und Umschüler im Beruf Kaufmann/Kauffrau für Büromanagement</p>
-</li>
-<li>
-<p>Bildungsträger, Prüfungsvorbereitungskurse</p>
-</li>
-</ul>
-<p> </p>
-<p><strong>Was den Kurs besonders macht:</strong></p>
-<p><strong>Keine trockene Theorie – sondern motivierendes Lernen mit einem Augenzwinkern.</strong></p>
-<p>Teilnehmende sind begeistert, wie leicht verständlich selbst komplizierte Themen erklärt werden – und wie gut sie dadurch <strong>auf die echte Prüfung vorbereitet</strong> sind.</p>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Hinweis zur Affiliate-Partnerschaft:</strong></span></p>
-<p>Die Affiliate-Partnerschaft wird <strong>nicht automatisch freigegeben</strong>.</p>
-<p>Bitte stelle deine Anfrage über den Button auf dieser Seite. Ich melde mich dann <strong>persönlich bei dir</strong>, und wir besprechen gemeinsam, wie du den Kurs am besten bewirbst.</p>
-<p>Ich unterstütze dich aktiv mit Material, Strategie und Erfahrung.</p>
-<p> </p>
-<p><strong>Warum du diesen Kurs bewerben solltest:</strong></p>
-<ul>
-<li>
-<p>Große und sehr konkrete Zielgruppe mit hohem Prüfungsbedarf</p>
-</li>
-<li>
-<p>Humorvolle und verständliche Vermittlung – ohne Theoriefrust</p>
-</li>
-<li>
-<p>50 % Provision pro Verkauf</p>
-</li>
-<li>
-<p>Rückgabequote unter 1 %</p>
-</li>
-<li>
-<p>Persönliche Betreuung statt Massenfreigabe</p>
-</li>
-<li>
-<p>Bewährte Zusammenarbeit mit engagierten Partnern</p>
-</li>
-</ul>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Ich arbeite lieber mit wenigen, motivierten Affiliates – mit echtem Austausch und einer Zusammenarbeit, bei der alle gewinnen.</strong></span></p>
+**Vendor's marketplace description:** Kostenrechnung für Kaufleute für Büromanagement – ideal für die AP2-Prüfung „Kostenrechnung für Kaufleute für Büromanagement – gaaanz einfach!“ ist der perfekte Kurs für alle, die sich gezielt und sicher auf die Kostenrechnungsthemen der IHK-Abschlussprüfung Teil 2 (AP2) vorbereiten möchten. Der Kurs richtet sich ausschließlich an Kaufleute für Büromanagement – dem häufigsten Ausbildungs- und Umschulungsberuf in Deutschland – und wurde exakt auf die Anforderungen der AP2 abgestimmt. Und das Beste: Auch bei diesem Kurs gilt wie immer – Lernen darf (und soll!) Spaß machen . Statt trockener Theorie erwartet die Teilnehmenden eine unterhaltsame, verständliche und motivierende Vermittlung . Alles wird so erklärt, dass man es wirklich versteht – mit vielen Aha-Momenten und garantiert ohne Gähnen . Das steckt im Kurs: Erklärvideos mit anschaulichen, praxisnahen Beispielen Digitales Arbeitsheft mit Aufgaben und Lösungen Schritt-für-Schritt-Anleitungen und Schemaübersichten Prüfungsheft mit Aufgaben im Stil der IHK-Prüfung Kein Vorwissen nötig – perfekt zum Wiederholen und Vertiefen Für wen ist der Kurs ideal: Auszubildende und Umschüler im Beruf Kaufmann/Kauffrau für Büromanagement Bildungsträger, Prüfungsvorbereitungskurse Was den Kurs besonders macht: Keine trockene Theorie – sondern motivierendes Lernen mit einem Augenzwinkern. Teilnehmende sind begeistert, wie leicht verständlich selbst komplizierte Themen erklärt werden – und wie gut sie dadurch auf die echte Prüfung vorbereitet sind. Hinweis zur Affiliate-Partnerschaft: Die Affiliate-Partnerschaft wird nicht automatisch freigegeben . Bitte stelle deine Anfrage über den Button auf dieser Seite. Ich melde mich dann persönlich bei dir , und wir besprechen gemeinsam, wie du den Kurs am besten bewirbst. Ich unterstütze dich aktiv mit Material, Strategie und Erfahrung. Warum du diesen Kurs bewerben solltest: Große und sehr konkrete Zielgruppe mit hohem Prüfungsbedarf Humorvolle und verständliche Vermittlung – ohne Theoriefrust 50 % Provision pro Verkauf Rückgabequote unter 1 % Persönliche Betreuung statt Massenfreigabe Bewährte Zusammenarbeit mit engagierten Partnern Ich arbeite lieber mit wenigen, motivierten Affiliates – mit echtem Austausch und einer Zusammenarbeit, bei der alle gewinnen.
 
 ## 2. Links
 

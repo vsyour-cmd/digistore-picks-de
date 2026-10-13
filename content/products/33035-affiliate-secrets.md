@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div style="padding:30px 15px 15px 15px;margin-top:-15px;">
-<div style="background:#DF401E;color:#fff;padding:0 5px;text-align:center;margin-top:-30px;margin-left:-15px;height:20px;width:50px;line-height:20px;font-weight:bold;margin-bottom:10px;">NEU</div>
-<h2>Wie man als Affiliate durchstartet, Traffic und Gewinne erzielt.</h2>
-<p>Affiliate-Marketing ist eines der einfachsten Modelle für Anfänger um Online Geld zu verdienen. Du brauchst kein eigenes Produkt, musst keinen Support aufbauen und du kannst sogar am ganzen Verkaufsprozess mitverdienen.</p>
-<p><strong>Bewirb Affiliate Secrets JETZT und erhalte <span style="color:#99cc00;">50%</span> Provision für jede erfolgreiche Vermittlung.</strong></p>
-</div>
+**Vendor's marketplace description:** NEU Wie man als Affiliate durchstartet, Traffic und Gewinne erzielt. Affiliate-Marketing ist eines der einfachsten Modelle für Anfänger um Online Geld zu verdienen. Du brauchst kein eigenes Produkt, musst keinen Support aufbauen und du kannst sogar am ganzen Verkaufsprozess mitverdienen. Bewirb Affiliate Secrets JETZT und erhalte 50% Provision für jede erfolgreiche Vermittlung.
 
 ## 2. Links
 

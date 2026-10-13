@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>BAföG leicht gemacht – Ratgeber mit BAföG-Rechner</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Der Ratgeber erklärt, wer BAföG bekommt, wie das Einkommen der Eltern zählt, wie der Antrag läuft und was zurückzuzahlen ist. Der <strong>BAföG-Rechner</strong> schätzt den Anspruch und zeigt jeden Rechenschritt.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Studierende und Studienanfänger</li>
-<li>Schüler und Auszubildende</li>
-<li>Eltern, die ihre Kinder unterstützen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Studienbeginn oder der nächste Antrag steht an</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Erste eigene Wohnung, Ausbildung, Wohngeld) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** BAföG leicht gemacht – Ratgeber mit BAföG-Rechner Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Der Ratgeber erklärt, wer BAföG bekommt, wie das Einkommen der Eltern zählt, wie der Antrag läuft und was zurückzuzahlen ist. Der BAföG-Rechner schätzt den Anspruch und zeigt jeden Rechenschritt. Die Zielgruppe Studierende und Studienanfänger Schüler und Auszubildende Eltern, die ihre Kinder unterstützen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Studienbeginn oder der nächste Antrag steht an Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Erste eigene Wohnung, Ausbildung, Wohngeld) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

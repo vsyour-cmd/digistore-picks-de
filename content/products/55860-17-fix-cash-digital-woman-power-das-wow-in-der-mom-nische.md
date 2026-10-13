@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><span style="color:#993366;">DIGITAL.<span style="color:#ffcc00;">WOMAN</span>.<span style="color:#999999;">POWER</span>.</span> - Komplettsystem!</strong></p>
-<h3><strong>Schluss mit Technik-Frust – Kassiere 17€ pro Sale in der boomenden Mom-Nische!</strong></h3>
-<p>Suchst du ein Produkt, das fast von alleine verkauft? Das <strong>DWP Komplettsystem</strong> ist die ultimative Abkürzung für Mütter und Frauen, die ihr eigenes Online-Business starten wollen, ohne an der Technik zu verzweifeln.</p>
-<p><strong>Deine unschlagbaren Partner-Vorteile:</strong></p>
-<ul>
-<li>
-<p><strong><span style="color:#993366;">17 € FIX-PROVISION</span>:</strong> Du bekommst garantiert 17 € für jeden Abschluss – keine komplizierten Rechnungen!</p>
-</li>
-<li>
-<p><strong><span style="color:#333399;">EXTREME CONVERSION</span>:</strong> Durch den strategischen Einstiegspreis von nur 49 € ist die Kaufhürde minimal.</p>
-</li>
-<li>
-<p><strong><span style="color:#ff6600;">HEISSE ZIELGRUPPE</span>:</strong> Du bedienst den riesigen Markt der "Mom-Preneurinnen" und digitalen Gründerinnen.</p>
-</li>
-<li>
-<p><strong><span style="color:#ff00ff;">VOLLER WERT</span>:</strong> Deine Kunden erhalten E-Books, KI-Prompts und einen glasklaren Fahrplan.</p>
-</li>
-<li>
-<p style="text-align:left;"><strong>Ich verzichte aktuell bewusst auf eigenes </strong><strong>E-Mail-Marketing. Das bedeutet für euch: Das Feld gehört euch allein!</strong></p>
-<p>​Es gibt keine Konkurrenz durch meine eigenen Kampagnen in den Postfächern eurer Kunden. Ihr kennt eure Zielgruppe am besten und wisst genau, welche Worte und welcher Rhythmus bei euren Abonnenten funktionieren.</p>
-<p><strong>​Was das für euch bedeutet:</strong></p>
-<p><span style="color:#339966;"><strong>​Maximale Freiheit: Nutzt eure eigenen E-Mail-Sequenzen, Werbetexte und Strategien.</strong></span></p>
-</li>
-</ul>
-<p><strong>Werde jetzt Partner und profitiere von einem System, das echten Mehrwert liefert und dein Konto füllt!</strong></p>
-<p> </p>
+**Vendor's marketplace description:** DIGITAL. WOMAN . POWER . - Komplettsystem! Schluss mit Technik-Frust – Kassiere 17€ pro Sale in der boomenden Mom-Nische! Suchst du ein Produkt, das fast von alleine verkauft? Das DWP Komplettsystem ist die ultimative Abkürzung für Mütter und Frauen, die ihr eigenes Online-Business starten wollen, ohne an der Technik zu verzweifeln. Deine unschlagbaren Partner-Vorteile: 17 € FIX-PROVISION : Du bekommst garantiert 17 € für jeden Abschluss – keine komplizierten Rechnungen! EXTREME CONVERSION : Durch den strategischen Einstiegspreis von nur 49 € ist die Kaufhürde minimal. HEISSE ZIELGRUPPE : Du bedienst den riesigen Markt der "Mom-Preneurinnen" und digitalen Gründerinnen. VOLLER WERT : Deine Kunden erhalten E-Books, KI-Prompts und einen glasklaren Fahrplan. Ich verzichte aktuell bewusst auf eigenes E-Mail-Marketing. Das bedeutet für euch: Das Feld gehört euch allein! ​Es gibt keine Konkurrenz durch meine eigenen Kampagnen in den Postfächern eurer Kunden. Ihr kennt eure Zielgruppe am besten und wisst genau, welche Worte und welcher Rhythmus bei euren Abonnenten funktionieren. ​Was das für euch bedeutet: ​Maximale Freiheit: Nutzt eure eigenen E-Mail-Sequenzen, Werbetexte und Strategien. Werde jetzt Partner und profitiere von einem System, das echten Mehrwert liefert und dein Konto füllt!
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#ff0000;"><strong>[BRANDNEU 2026] Affiliate-Kickstart - 21-Tage-Challenge</strong></span></h2>
-<p>Die 21-Tage-Challenge zeigt den exakten Weg zur ersten Affiliate-Provision in 21 Tagen. Der Kurs besteht aus einem Theorie-Teil und der 21-Tage-Challenge als Praxis-Teil.</p>
-<p><strong>Du bekommst 60 % Provision auf den Kurs und bis zu 60 % Provision auf alle Upsells. </strong></p>
-<p><strong>Im Durchlauf sind +259 € Provision (inkl. Abonnements) möglich.</strong></p>
+**Vendor's marketplace description:** [BRANDNEU 2026] Affiliate-Kickstart - 21-Tage-Challenge Die 21-Tage-Challenge zeigt den exakten Weg zur ersten Affiliate-Provision in 21 Tagen. Der Kurs besteht aus einem Theorie-Teil und der 21-Tage-Challenge als Praxis-Teil. Du bekommst 60 % Provision auf den Kurs und bis zu 60 % Provision auf alle Upsells. Im Durchlauf sind +259 € Provision (inkl. Abonnements) möglich.
 
 ## 2. Links
 

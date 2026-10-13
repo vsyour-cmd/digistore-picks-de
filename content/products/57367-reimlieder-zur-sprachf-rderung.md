@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Speziell konzipierte Reimlieder, die den Rhythmus der Sprache unterstützen.</p>
-<p>Die deutsche Sprache basiert auf einem bestimmten Betonungsmuster auf dem alle sprachlichen Regeln basieren. Dieses wird mit den Reimliedern unterstützt.</p>
-<p>Zugang 12 Monate.</p>
+**Vendor's marketplace description:** Speziell konzipierte Reimlieder, die den Rhythmus der Sprache unterstützen. Die deutsche Sprache basiert auf einem bestimmten Betonungsmuster auf dem alle sprachlichen Regeln basieren. Dieses wird mit den Reimliedern unterstützt. Zugang 12 Monate.
 
 ## 2. Links
 

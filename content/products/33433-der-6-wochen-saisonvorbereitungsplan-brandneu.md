@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="background-color:#ffff00;"><strong>NEU: Fussballtraining Bestseller Neuauflage 2020 - Sofort 40% Provision für dich bei hoher Verkaufsrate!</strong></span></h2>
-<p><br /><br />Der 6 Wochen Saisonvorbereitungsplan ist ein kompletter 6 Wochen Fußball Vorbereitungsplan für Fußballtrainer worauf man im internen Mitgliederbereich lebenslang zugreifen kann.</p>
-<p>Es wurden wurden komplette Trainingseinheiten erstellt, die aufbauend immer für ein klares Trainingsziel ausgerichtet wurden, so dass am Ende der Vorbereitung dein Team komplett fit und taktisch bestens vorbereitet ist, um das Saisonziel zu erreichen.</p>
-<h2><br /><span style="background-color:#ffff00;"><strong>Platz 1 bei Digistore in der Rubrik Sport </strong><strong>unter Cart-Conversion - Aktuell 40% Cart-Conversion...!!!</strong></span><br /><br /></h2>
-<p><strong>Affiliate Provision:</strong></p>
-<p><strong>40% auf den 6 Wochen Saisonvorbereitungsplan<br />  <br /></strong></p>
-<p> <br />Wir haben momentan eine sehr hohe Verkaufsrate und eine sehr geringe Stornoquote, was für die Qualität des Produkts spricht.<br /><br /><br />Du hast eine große Liste oder möchtest eine Kooperation starten? Schreib uns eine E-Mail an rene@fussballtraining-renno.de<br /><br />Weitere Informationen findest du auf unserer Affiliate-Support-Seite: <a>http://www.produkte.fussballtraining-renno.de/partnerprogramm/</a></p>
-<p> </p>
+**Vendor's marketplace description:** NEU: Fussballtraining Bestseller Neuauflage 2020 - Sofort 40% Provision für dich bei hoher Verkaufsrate! Der 6 Wochen Saisonvorbereitungsplan ist ein kompletter 6 Wochen Fußball Vorbereitungsplan für Fußballtrainer worauf man im internen Mitgliederbereich lebenslang zugreifen kann. Es wurden wurden komplette Trainingseinheiten erstellt, die aufbauend immer für ein klares Trainingsziel ausgerichtet wurden, so dass am Ende der Vorbereitung dein Team komplett fit und taktisch bestens vorbereitet ist, um das Saisonziel zu erreichen. Platz 1 bei Digistore in der Rubrik Sport unter Cart-Conversion - Aktuell 40% Cart-Conversion...!!! Affiliate Provision: 40% auf den 6 Wochen Saisonvorbereitungsplan Wir haben momentan eine sehr hohe Verkaufsrate und eine sehr geringe Stornoquote, was für die Qualität des Produkts spricht. Du hast eine große Liste oder möchtest eine Kooperation starten? Schreib uns eine E-Mail an rene@fussballtraining-renno.de Weitere Informationen findest du auf unserer Affiliate-Support-Seite: http://www.produkte.fussballtraining-renno.de/partnerprogramm/
 
 ## 2. Links
 

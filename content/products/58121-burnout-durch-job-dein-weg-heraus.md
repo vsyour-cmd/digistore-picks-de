@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein ehrlicher, praktischer Ratgeber gegen Job-Burnout – mit echten Übungen und konkreten Schritten für den Weg zurück zu Kraft und Energie. Ideal für Zielgruppen im Bereich mentale Gesundheit, Selbstfürsorge und Work-Life-Balance.</p>
-<p> </p>
-<p>Warmherzig, ohne Beschönigung, mit klarem Hinweis auf professionelle Hilfe wo nötig. 50% Provision pro Verkauf.</p>
+**Vendor's marketplace description:** Ein ehrlicher, praktischer Ratgeber gegen Job-Burnout – mit echten Übungen und konkreten Schritten für den Weg zurück zu Kraft und Energie. Ideal für Zielgruppen im Bereich mentale Gesundheit, Selbstfürsorge und Work-Life-Balance. Warmherzig, ohne Beschönigung, mit klarem Hinweis auf professionelle Hilfe wo nötig. 50% Provision pro Verkauf.
 
 ## 2. Links
 

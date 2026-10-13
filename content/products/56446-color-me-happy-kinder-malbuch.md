@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Verdiene <strong>50% Provision</strong> mit den Kinder-Malbüchern <strong>Color Me Happy</strong> und <strong>Color Me Happy 2</strong>. Die beiden eBooks bieten Eltern eine einfache, sofort nutzbare Lösung für kreative Kinderbeschäftigung: direkt als PDF auf Tablet oder PC nutzbar und zusätzlich problemlos ausdruckbar.</p>
-<p>Diese Produkte sprechen eine klare Zielgruppe an: Eltern, Großeltern und Familien, die nach einer unkomplizierten, niedlichen und sinnvollen Beschäftigung für Kinder suchen. Durch die einfache Präsentation, die sofortige Verfügbarkeit und den hohen praktischen Nutzen haben Affiliates sehr gute Chancen auf starke Conversions.</p>
-<p><strong>Ihre Vorteile als Affiliate:</strong></p>
-<ul>
-<li>
-<p>50% Provision pro Verkauf.</p>
-</li>
-<li>
-<p>Hohe Attraktivität für Eltern und Familien.</p>
-</li>
-<li>
-<p>Sofort downloadbares PDF.</p>
-</li>
-<li>
-<p>Auch ausdruckbar für klassische Nutzung.</p>
-</li>
-<li>
-<p>Leicht verständliches Produkt mit klarem Nutzen.</p>
-</li>
-</ul>
-<p>Wenn Sie ein Produkt bewerben möchten, das emotional anspricht, einfach erklärt werden kann und einen direkten Mehrwert bietet, dann sind diese Malbücher eine hervorragende Empfehlung für Ihre Zielgruppe.</p>
+**Vendor's marketplace description:** Verdiene 50% Provision mit den Kinder-Malbüchern Color Me Happy und Color Me Happy 2 . Die beiden eBooks bieten Eltern eine einfache, sofort nutzbare Lösung für kreative Kinderbeschäftigung: direkt als PDF auf Tablet oder PC nutzbar und zusätzlich problemlos ausdruckbar. Diese Produkte sprechen eine klare Zielgruppe an: Eltern, Großeltern und Familien, die nach einer unkomplizierten, niedlichen und sinnvollen Beschäftigung für Kinder suchen. Durch die einfache Präsentation, die sofortige Verfügbarkeit und den hohen praktischen Nutzen haben Affiliates sehr gute Chancen auf starke Conversions. Ihre Vorteile als Affiliate: 50% Provision pro Verkauf. Hohe Attraktivität für Eltern und Familien. Sofort downloadbares PDF. Auch ausdruckbar für klassische Nutzung. Leicht verständliches Produkt mit klarem Nutzen. Wenn Sie ein Produkt bewerben möchten, das emotional anspricht, einfach erklärt werden kann und einen direkten Mehrwert bietet, dann sind diese Malbücher eine hervorragende Empfehlung für Ihre Zielgruppe.
 
 ## 2. Links
 

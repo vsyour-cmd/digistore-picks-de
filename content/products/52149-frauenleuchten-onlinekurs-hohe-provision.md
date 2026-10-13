@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit dem Onlinekurs <em>Frauenleuchten</em> bietest du deinen Kundinnen ein Produkt, das echten Mehrwert liefert und sich hervorragend verkaufen lässt:</p>
-<ul>
-<li>
-<p><strong>Kompetente Kursleitung:</strong> Nina Hartmann ist Juristin, erfahrene Personalentwicklerin, Familienunternehmerin, Verbandspolitikerin, Speakerin und Autorin. Sie verbindet Praxisnähe mit fundierter Expertise.</p>
-</li>
-<li>
-<p><strong>Einzigartiger Ansatz:</strong> Sichtbarkeit für Frauen – jenseits von Oberflächlichkeiten. Der Kurs arbeitet mit praxiserprobten Methoden zu Positionierung, Netzwerken und Wirksamkeit.</p>
-</li>
-<li>
-<p><strong>Großer Markt:</strong> Frauen in Business, Selbständigkeit und Unternehmen suchen nach Lösungen, um sichtbar zu werden. Das Thema boomt.</p>
-</li>
-<li>
-<p><strong>Echter Mehrwert:</strong> 4 kompakte Module, laufend erweitertes Bonusmaterial, sofort umsetzbar – mit nachhaltiger Wirkung.</p>
-</li>
-<li>
-<p><strong>Hohe Empfehlungsqualität:</strong> Ein Kurs, der Frauen motiviert, stärkt und in ihre Kraft bringt. Authentische, positive Kundenerfahrungen erhöhen die Weiterempfehlungsrate.</p>
-</li>
-<li>
-<p><strong>Attraktive Provision:</strong> Affiliates profitieren von einem zukunftsrelevanten Thema und einem Produkt, das sich leicht bewerben lässt – weil es ein klares Problem löst.</p>
-</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** Mit dem Onlinekurs Frauenleuchten bietest du deinen Kundinnen ein Produkt, das echten Mehrwert liefert und sich hervorragend verkaufen lässt: Kompetente Kursleitung: Nina Hartmann ist Juristin, erfahrene Personalentwicklerin, Familienunternehmerin, Verbandspolitikerin, Speakerin und Autorin. Sie verbindet Praxisnähe mit fundierter Expertise. Einzigartiger Ansatz: Sichtbarkeit für Frauen – jenseits von Oberflächlichkeiten. Der Kurs arbeitet mit praxiserprobten Methoden zu Positionierung, Netzwerken und Wirksamkeit. Großer Markt: Frauen in Business, Selbständigkeit und Unternehmen suchen nach Lösungen, um sichtbar zu werden. Das Thema boomt. Echter Mehrwert: 4 kompakte Module, laufend erweitertes Bonusmaterial, sofort umsetzbar – mit nachhaltiger Wirkung. Hohe Empfehlungsqualität: Ein Kurs, der Frauen motiviert, stärkt und in ihre Kraft bringt. Authentische, positive Kundenerfahrungen erhöhen die Weiterempfehlungsrate. Attraktive Provision: Affiliates profitieren von einem zukunftsrelevanten Thema und einem Produkt, das sich leicht bewerben lässt – weil es ein klares Problem löst.
 
 ## 2. Links
 

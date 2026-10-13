@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<p><strong>In der Video Class lernst du, wie du mitreißende und stimmungsvolle Videos machst, ohne zusätzliches Equipment.</strong></p>
-</div>
-</div>
-<div>
-<div>
-<p>Dabei ist es egal, mit welcher Kameramarke du arbeitest oder welches Schnittprogramm du verwendest. Videos werden immer wichtiger und sie sind aus unserem Berufsleben, aber auch aus unserem Privatleben nicht mehr wegzudenken. Sie transportieren Emotionen auf mehreren Ebenen und damit das gelingt ist es entscheidend, das Zusammenspiel zwischen Perspektive, Licht, Moment und Musik zu verstehen. Früher dachten wir, Hochzeitsvideos müssten romantisch und mit kitschiger Musik unterlegt sein. Zum Glück haben wir irgendwann gelernt, dass das nicht so sein muss. Wenn du lernen möchtest, wie wir unsere Videos machen, wie wir einen Vibe kreieren, wie wir sie schneiden, wie wir einen Farblook kreieren, wie wir es schaffen, das Besondere an den Hochzeitstagen festzuhalten, herauszufiltern und auf eine Bühne zu stellen, wie wir unsere Musik finden und wie das Sounddesign funktioniert, dann ist dieser Kurs perfekt für dich.</p>
-</div>
-</div>
+**Vendor's marketplace description:** In der Video Class lernst du, wie du mitreißende und stimmungsvolle Videos machst, ohne zusätzliches Equipment. Dabei ist es egal, mit welcher Kameramarke du arbeitest oder welches Schnittprogramm du verwendest. Videos werden immer wichtiger und sie sind aus unserem Berufsleben, aber auch aus unserem Privatleben nicht mehr wegzudenken. Sie transportieren Emotionen auf mehreren Ebenen und damit das gelingt ist es entscheidend, das Zusammenspiel zwischen Perspektive, Licht, Moment und Musik zu verstehen. Früher dachten wir, Hochzeitsvideos müssten romantisch und mit kitschiger Musik unterlegt sein. Zum Glück haben wir irgendwann gelernt, dass das nicht so sein muss. Wenn du lernen möchtest, wie wir unsere Videos machen, wie wir einen Vibe kreieren, wie wir sie schneiden, wie wir einen Farblook kreieren, wie wir es schaffen, das Besondere an den Hochzeitstagen festzuhalten, herauszufiltern und auf eine Bühne zu stellen, wie wir unsere Musik finden und wie das Sounddesign funktioniert, dann ist dieser Kurs perfekt für dich.
 
 ## 2. Links
 

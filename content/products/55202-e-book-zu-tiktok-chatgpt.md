@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses Produkt ist ein ehrlicher Praxis-Leitfaden<br />zum Thema Online Geld verdienen mit TikTok &amp; ChatGPT.</p>
-<p>Kein Hype, keine Einkommensversprechen, keine Abkürzungen.<br />Das E-Book richtet sich an Anfänger und Fortgeschrittene<br />im deutschsprachigen Raum, die realistische Systeme<br />statt leerer Versprechen suchen.</p>
-<p>Produktdetails:<br />– Digitales E-Book (PDF)<br />– Sofortiger Download nach Kauf<br />– Einmalzahlung (27 €)<br />– 50 % Affiliate-Provision<br />– Abwicklung &amp; Auszahlung über Digistore24</p>
-<p>Geeignet für:<br />– Blogs<br />– YouTube<br />– E-Mail-Listen<br />– ruhige Social-Media-Kanäle</p>
-<p>Nicht geeignet für:<br />– „Schnell reich werden“-Marketing<br />– Einkommens- oder Erfolgsgarantien</p>
-<p>Dieses Produkt setzt auf Vertrauen, Klarheit<br />und langfristige Bewerbbarkeit.</p>
+**Vendor's marketplace description:** Dieses Produkt ist ein ehrlicher Praxis-Leitfaden zum Thema Online Geld verdienen mit TikTok & ChatGPT. Kein Hype, keine Einkommensversprechen, keine Abkürzungen. Das E-Book richtet sich an Anfänger und Fortgeschrittene im deutschsprachigen Raum, die realistische Systeme statt leerer Versprechen suchen. Produktdetails: – Digitales E-Book (PDF) – Sofortiger Download nach Kauf – Einmalzahlung (27 €) – 50 % Affiliate-Provision – Abwicklung & Auszahlung über Digistore24 Geeignet für: – Blogs – YouTube – E-Mail-Listen – ruhige Social-Media-Kanäle Nicht geeignet für: – „Schnell reich werden“-Marketing – Einkommens- oder Erfolgsgarantien Dieses Produkt setzt auf Vertrauen, Klarheit und langfristige Bewerbbarkeit.
 
 ## 2. Links
 

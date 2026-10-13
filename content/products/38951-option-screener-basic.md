@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Dieses Produkt erlaubt Ihnen Cash Secured Puts zu scannen. Sie erhalten aus über 1.000.000 Optionsketten, die täglich wechseln Handelssignale, die auch durch Sie angepasst werden können. Es können die Optionszeiträume, die Strike Preise und das Delta angepasst werden. Auch lange erprobte Handelssignale stehen zur Verfügung. Diverse Filter erlauben Ihnen extrem schnell Scanergebnisse zu erhalten. Alle Daten beziehen sich auf Tagesendpreise des vergangenen Handelstages und werden über Nacht aktualisiert</strong></p>
+**Vendor's marketplace description:** Dieses Produkt erlaubt Ihnen Cash Secured Puts zu scannen. Sie erhalten aus über 1.000.000 Optionsketten, die täglich wechseln Handelssignale, die auch durch Sie angepasst werden können. Es können die Optionszeiträume, die Strike Preise und das Delta angepasst werden. Auch lange erprobte Handelssignale stehen zur Verfügung. Diverse Filter erlauben Ihnen extrem schnell Scanergebnisse zu erhalten. Alle Daten beziehen sich auf Tagesendpreise des vergangenen Handelstages und werden über Nacht aktualisiert
 
 ## 2. Links
 

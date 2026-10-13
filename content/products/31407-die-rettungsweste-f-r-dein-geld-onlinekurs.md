@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Finanzielle Freiheit für Jedermann</p>
-<p>Helfe den Menschen durch die Vermittlung dieses Onlinekurses dabei, sich von den Fesseln der Finanzindustrie zu befreien.</p>
-<p>Ab sofort gibt es keine Zinsen mehr - sondern nur noch Renditen und Gewinne.</p>
-<p>Sinnvolle Entscheidungen können jedoch nur getroffen werden, wenn man unser Finanzsystem sowie die dort angebotenen Produkte zu 100% versteht.</p>
-<p><strong>Genau das ist "Die Rettungsweste für dein Geld".</strong></p>
-<p>Kein geringerer, als Deutschlands Sachwertexperte #1 - Daniel Sauer - erklärt darin Grundlagen, Zusammenhänge und gibt konkrete Handlungsempfehlungen.</p>
-<p>Für deine Kunden bedeutet dies wiederum:</p>
-<p><strong>Finanzcoaching auf Champions-League-Niveau!</strong></p>
-<p>Weshalb fallen denn die Menschen immer wieder auf dieselben Versprechen rein? Weshalb schließen sie auch heute noch Bausparverträge oder Lebensversicherungen ab? Ganz einfach, weil ihnen der Produktverkäufer im entscheidenden Moment überlegen ist.</p>
-<p><span style="color:#ff0000;"><strong>Das wird sich ab sofort jedoch ändern!</strong></span></p>
-<p>Dieser Kurs hat den Anspruch, genau das Wissen zu vermitteln, welches uns von Regierung, Banken und Schulen vorenthalten wird.</p>
-<p>Deine Kunden dürfen sich auf unterhaltsamen und hochwertigsten Content freuen. </p>
-<p>Dieses Wissen können sie sofort anwenden und spielen dadurch ein Vielfaches des Kaufpreises wieder ein.</p>
-<p>Für deine Vermittlungsbemühung erhältst du von uns eine faire Provision von 50%.</p>
-<p>Bei Fragen zum Produkt oder zum Verkauf, stehen wir dir sehr gerne zur Verfügung.</p>
-<p>Dein Team von locos.de</p>
+**Vendor's marketplace description:** Finanzielle Freiheit für Jedermann Helfe den Menschen durch die Vermittlung dieses Onlinekurses dabei, sich von den Fesseln der Finanzindustrie zu befreien. Ab sofort gibt es keine Zinsen mehr - sondern nur noch Renditen und Gewinne. Sinnvolle Entscheidungen können jedoch nur getroffen werden, wenn man unser Finanzsystem sowie die dort angebotenen Produkte zu 100% versteht. Genau das ist "Die Rettungsweste für dein Geld". Kein geringerer, als Deutschlands Sachwertexperte #1 - Daniel Sauer - erklärt darin Grundlagen, Zusammenhänge und gibt konkrete Handlungsempfehlungen. Für deine Kunden bedeutet dies wiederum: Finanzcoaching auf Champions-League-Niveau! Weshalb fallen denn die Menschen immer wieder auf dieselben Versprechen rein? Weshalb schließen sie auch heute noch Bausparverträge oder Lebensversicherungen ab? Ganz einfach, weil ihnen der Produktverkäufer im entscheidenden Moment überlegen ist. Das wird sich ab sofort jedoch ändern! Dieser Kurs hat den Anspruch, genau das Wissen zu vermitteln, welches uns von Regierung, Banken und Schulen vorenthalten wird. Deine Kunden dürfen sich auf unterhaltsamen und hochwertigsten Content freuen. Dieses Wissen können sie sofort anwenden und spielen dadurch ein Vielfaches des Kaufpreises wieder ein. Für deine Vermittlungsbemühung erhältst du von uns eine faire Provision von 50%. Bei Fragen zum Produkt oder zum Verkauf, stehen wir dir sehr gerne zur Verfügung. Dein Team von locos.de
 
 ## 2. Links
 

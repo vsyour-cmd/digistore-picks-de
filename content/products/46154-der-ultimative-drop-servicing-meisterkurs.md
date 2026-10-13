@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><strong>Drop Shipping war gestern - Drop Servicing ist die Zukunft! </strong></h1>
-<h2>Verdiene bis zu €200 mit nur einem einzigen Verkauf!</h2>
-<p>Nie mehr Logistikprobleme und lange Lieferzeiten wie bei Dropshipping - Hier werden Dienstleistungen geliefert.</p>
-<p>Geeignet für alle Zielgruppen, die zusätzlich mehr Geld verdienen wollen. </p>
-<p><strong>Dieser hochwertige Videokurs mit über 100 aufwendig produzierten Videos und einer Vielzahl an Bonusmaterial und mehr zeigt eine Mega einfache Strategie, wie man im Internet durch Dienstleistungsvermittlung oder Service Flipping online Geld verdienen kann.<br /><br /></strong><span style="text-decoration:underline;">Noch Fragen?</span><strong><br /></strong></p>
-<p>Geh auf die Affiliates Support-Seite oder schreibe eine Email an <a href="mailto:affiliates@christophneuwirth.com">affiliates@christophneuwirth.com</a><br /><br /><br />*Hinweis: Alle Affiliate-Angebote und Provisionen können sich jederzeit ändern, da wir hier ständig optimieren, um für alle Beteiligten das Beste Ergebnis zu erzielen!</p>
+**Vendor's marketplace description:** Drop Shipping war gestern - Drop Servicing ist die Zukunft! Verdiene bis zu €200 mit nur einem einzigen Verkauf! Nie mehr Logistikprobleme und lange Lieferzeiten wie bei Dropshipping - Hier werden Dienstleistungen geliefert. Geeignet für alle Zielgruppen, die zusätzlich mehr Geld verdienen wollen. Dieser hochwertige Videokurs mit über 100 aufwendig produzierten Videos und einer Vielzahl an Bonusmaterial und mehr zeigt eine Mega einfache Strategie, wie man im Internet durch Dienstleistungsvermittlung oder Service Flipping online Geld verdienen kann. Noch Fragen? Geh auf die Affiliates Support-Seite oder schreibe eine Email an affiliates@christophneuwirth.com *Hinweis: Alle Affiliate-Angebote und Provisionen können sich jederzeit ändern, da wir hier ständig optimieren, um für alle Beteiligten das Beste Ergebnis zu erzielen!
 
 ## 2. Links
 

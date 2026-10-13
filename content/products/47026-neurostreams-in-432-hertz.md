@@ -41,70 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<p>432 Hertz ist die "vor-moderne" (alte, traditionelle) Frequenz des musikalischen Kammertons A4.</p>
-<p>Alle diese Neurostreams™-Versionen wurden auf Basis dieses Kammertons neu komponiert und abgemischt.</p>
-<p>Enthalten sind jeweils ein Stream pro Titel:</p>
-<p> </p>
-<p><strong>Neurostreams™ KLASSIKER in 432 Hz</strong></p>
-<ul>
-<li>DNA Talk</li>
-<li>Flow trifft Genie</li>
-<li>Co-Creation Galaxie</li>
-<li>DELTA Frischzellenkur</li>
-<li>Die Zukunft schauen</li>
-<li>Gaia Club Radio</li>
-<li>Wellness Walk</li>
-</ul>
-<p> </p>
-<p><strong>Neurostreams™ LABOR in 432 Hz</strong></p>
-<ul>
-<li>Bei der Sache</li>
-<li>Das innere Kind (THETA)</li>
-<li>Den Löwen reiten</li>
-<li>Happiness</li>
-<li>Heiterkeit vor der Schlacht</li>
-<li>Mini Alpha Breaks</li>
-<li>Morphium Jaccuzzi</li>
-<li>Planet Relax</li>
-<li>Power Kur</li>
-<li>Blutdruck-Schleusenöffner</li>
-<li>Treffpunkt Garten Eden</li>
-</ul>
-</div>
-<div>
-<p> </p>
-<p><strong>Neurostreams™ SPECIALS in 432 Hz</strong></p>
-<p><em>Aus der „ZenBox“</em></p>
-<ul>
-<li>DNA Talk</li>
-<li>Zen Quasar</li>
-<li>Silberfaden</li>
-<li>Kyoto Dimension</li>
-</ul>
-<p><em>Aus den „Antriebswellen“</em></p>
-<ul>
-<li>Gamma Hammer</li>
-<li>Sturm und Drang</li>
-<li>Pure Lebendigkeit</li>
-<li>Frühaufsteherbelohnung</li>
-</ul>
-<p><em>Aus der „Megabrain Suite“</em></p>
-<ul>
-<li>IQ 7000</li>
-<li>HyperBrainPower</li>
-<li>KognitionMunition</li>
-<li>Brainstorms</li>
-</ul>
-<p> </p>
-<p><strong>Sofortiger Zugang</strong> nach Bezahlung</p>
-</div>
-</div>
-<p><strong>Umfang: </strong>31 völlig neue zusätzliche Streams in 432 Hz</p>
-<p><strong>Spieldauer:</strong> insgesamt ca. 15 Stunden</p>
-<p><strong>Speicherplatz:</strong> 1,3 Gigabyte </p>
-<p><strong>Mp3-Format:</strong> Maximal beste Qualität: 320 kbit/s</p>
+**Vendor's marketplace description:** 432 Hertz ist die "vor-moderne" (alte, traditionelle) Frequenz des musikalischen Kammertons A4. Alle diese Neurostreams™-Versionen wurden auf Basis dieses Kammertons neu komponiert und abgemischt. Enthalten sind jeweils ein Stream pro Titel: Neurostreams™ KLASSIKER in 432 Hz DNA Talk Flow trifft Genie Co-Creation Galaxie DELTA Frischzellenkur Die Zukunft schauen Gaia Club Radio Wellness Walk Neurostreams™ LABOR in 432 Hz Bei der Sache Das innere Kind (THETA) Den Löwen reiten Happiness Heiterkeit vor der Schlacht Mini Alpha Breaks Morphium Jaccuzzi Planet Relax Power Kur Blutdruck-Schleusenöffner Treffpunkt Garten Eden Neurostreams™ SPECIALS in 432 Hz Aus der „ZenBox“ DNA Talk Zen Quasar Silberfaden Kyoto Dimension Aus den „Antriebswellen“ Gamma Hammer Sturm und Drang Pure Lebendigkeit Frühaufsteherbelohnung Aus der „Megabrain Suite“ IQ 7000 HyperBrainPower KognitionMunition Brainstorms Sofortiger Zugang nach Bezahlung Umfang: 31 völlig neue zusätzliche Streams in 432 Hz Spieldauer: insgesamt ca. 15 Stunden Speicherplatz: 1,3 Gigabyte Mp3-Format: Maximal beste Qualität: 320 kbit/s
 
 ## 2. Links
 

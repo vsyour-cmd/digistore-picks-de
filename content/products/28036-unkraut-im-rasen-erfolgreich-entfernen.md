@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewerben Sie ein tolles eBook, in dem Ihre User lernen, wie man die 30 am weitesten verbreiteten Unkräuter im Rasen erfolgreich entfernen kann.</p>
-<p>Auf<strong> über 100 Seiten</strong> haben wir die wichtigsten Merkmale zum Identifizieren zusammengefasst und die individuell notwendigen Schritte für die langfristige Entfernung der Unkraut-Pflanzen aufgeschrieben.</p>
-<p>Jedes Unkraut wird mit Bild und Text vorgestellt. Die niedrige Stornoquote spricht für die gute Qualität des Produktes.</p>
-<p>Für jeden erfolgreichen Verkauf, erhalten <strong>Sie 30% des Netto-Verkaufspreises</strong> als Provision.</p>
-<p>Viel Erfolg bei der Bewerbung dieses wirklich tollen Produktes!</p>
+**Vendor's marketplace description:** Bewerben Sie ein tolles eBook, in dem Ihre User lernen, wie man die 30 am weitesten verbreiteten Unkräuter im Rasen erfolgreich entfernen kann. Auf über 100 Seiten haben wir die wichtigsten Merkmale zum Identifizieren zusammengefasst und die individuell notwendigen Schritte für die langfristige Entfernung der Unkraut-Pflanzen aufgeschrieben. Jedes Unkraut wird mit Bild und Text vorgestellt. Die niedrige Stornoquote spricht für die gute Qualität des Produktes. Für jeden erfolgreichen Verkauf, erhalten Sie 30% des Netto-Verkaufspreises als Provision. Viel Erfolg bei der Bewerbung dieses wirklich tollen Produktes!
 
 ## 2. Links
 

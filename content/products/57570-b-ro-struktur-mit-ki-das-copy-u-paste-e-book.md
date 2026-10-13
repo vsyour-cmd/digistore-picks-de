@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>​Der leichteste KI-Einstieg fürs Büro! </strong></p>
-<p>20 gelingsichere Prompts für sofortige Zeitersparnis<br />​<br />​Kennst du das Gefühl, vor einer leeren E-Mail zu sitzen und wertvolle Minuten mit der passenden Formulierung zu verlieren? Damit ist jetzt Schluss!</p>
-<p><br />​„BÜRO-STRUKTUR MIT KI“ ist das praxisnahe Einstiegs-Workbook für alle Selbstständigen, Gewerbetreibenden, Dienstleister und Büro-Kräfte, die ohne Vorkenntnisse direkt mit Künstlicher Intelligenz Zeit sparen wollen.</p>
-<p><br /><strong>​Warum Kunden dieses E-Book lieben:</strong><br />​20 sofort nutzbare Copy-&amp;-Paste-Prompts: Für tägliche E-Mails, Vorlagen, Kundenantworten &amp; Notizen.<br />​Sanfter &amp; verständlicher KI-Einstieg: Schritt für Schritt erklärt – ohne Fachchinesisch, ideal für absolute Anfänger.</p>
-<p><br />​Sofortige Zeitersparnis: Vorlage kopieren, eigene Notizen einfügen und in Sekunden fertige Texte erhalten.<br />​Praxisnah: Speziell entwickelt für den echten Büroalltag im D-A-CH-Raum.</p>
-<p><br />​<strong>Deine Vorteile als Affiliate:</strong><br />​40 % Provision pro Verkauf (15,60 € pro Deal bei 39,00 € Verkaufspreis)<br />​</p>
-<p>Attraktiver Einstiegspreis von 39,00 € löst ein konkretes Schmerzproblem (Schreibaufwand &amp; Zeitmangel).</p>
-<p><strong>​Zielgruppe:</strong> Selbstständige, Freiberufler, Handwerker, Studio-Inhaber, Dienstleister, Virtuelle Assistenten und Bürokräfte.</p>
-<p> </p>
+**Vendor's marketplace description:** ​Der leichteste KI-Einstieg fürs Büro! 20 gelingsichere Prompts für sofortige Zeitersparnis ​ ​Kennst du das Gefühl, vor einer leeren E-Mail zu sitzen und wertvolle Minuten mit der passenden Formulierung zu verlieren? Damit ist jetzt Schluss! ​„BÜRO-STRUKTUR MIT KI“ ist das praxisnahe Einstiegs-Workbook für alle Selbstständigen, Gewerbetreibenden, Dienstleister und Büro-Kräfte, die ohne Vorkenntnisse direkt mit Künstlicher Intelligenz Zeit sparen wollen. ​Warum Kunden dieses E-Book lieben: ​20 sofort nutzbare Copy-&-Paste-Prompts: Für tägliche E-Mails, Vorlagen, Kundenantworten & Notizen. ​Sanfter & verständlicher KI-Einstieg: Schritt für Schritt erklärt – ohne Fachchinesisch, ideal für absolute Anfänger. ​Sofortige Zeitersparnis: Vorlage kopieren, eigene Notizen einfügen und in Sekunden fertige Texte erhalten. ​Praxisnah: Speziell entwickelt für den echten Büroalltag im D-A-CH-Raum. ​ Deine Vorteile als Affiliate: ​40 % Provision pro Verkauf (15,60 € pro Deal bei 39,00 € Verkaufspreis) ​ Attraktiver Einstiegspreis von 39,00 € löst ein konkretes Schmerzproblem (Schreibaufwand & Zeitmangel). ​Zielgruppe: Selbstständige, Freiberufler, Handwerker, Studio-Inhaber, Dienstleister, Virtuelle Assistenten und Bürokräfte.
 
 ## 2. Links
 

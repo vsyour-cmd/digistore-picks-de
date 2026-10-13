@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Trennung und Scheidung leicht gemacht – Ratgeber mit Scheidungs-Rechner</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Der Ratgeber erklärt den Weg von der Trennung bis zur Scheidung: Trennungsjahr, Wohnung, Unterhalt, Zugewinn, Rente und Kinder. Der <strong>Scheidungs-Rechner</strong> zeigt Termin, Kosten und Zugewinnausgleich.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Menschen, die über eine Trennung nachdenken</li>
-<li>Getrennt lebende Paare</li>
-<li>Eltern, die die Folgen für die Kinder klären wollen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Die Trennung ist ausgesprochen</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Elterngeld, Kinderzuschlag, Wohngeld) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Trennung und Scheidung leicht gemacht – Ratgeber mit Scheidungs-Rechner Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Der Ratgeber erklärt den Weg von der Trennung bis zur Scheidung: Trennungsjahr, Wohnung, Unterhalt, Zugewinn, Rente und Kinder. Der Scheidungs-Rechner zeigt Termin, Kosten und Zugewinnausgleich. Die Zielgruppe Menschen, die über eine Trennung nachdenken Getrennt lebende Paare Eltern, die die Folgen für die Kinder klären wollen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Die Trennung ist ausgesprochen Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Elterngeld, Kinderzuschlag, Wohngeld) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

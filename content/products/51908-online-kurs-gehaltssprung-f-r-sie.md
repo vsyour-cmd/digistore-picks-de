@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Mit der PIAZZA-Formel® in 6 konkreten Schritten die Gehaltsverhandlung perfekt vorbereiten - ohne stundenlanges Googeln und Grübeln.</strong></p>
-<div>
-<ul>
-<li>Die wichtigsten und lukrativsten Jobgespräche sind Gehaltsverhandlungen. Es wäre ein sehr teurer und karriereschädlicher Fehler, diesen aus dem Weg zu gehen.</li>
-<li>Mit EINEM gut vorbereiteten Gespräch sichert man sich Respekt, Anerkennung und Wertschätzung. Die Voraussetzungen für MEHR GEHALT.</li>
-<li>Hinweis: Dieser Kurs ist auch hervorragend geeignet zur Vorbereitung von Mitarbeitergespräch, Jahresgespräch, Feedbackgespräch etc. </li>
-<li>
-<p>Teilnehmer profitieren in diesem Online-Kurs von der Erfahrung aus 100ten erfolgreicher 1:1-Coachings.</p>
-</li>
-</ul>
-</div>
-<div>
-<div>Ca. 4 Stunden Videoinhalte.</div>
-<div> </div>
-<div> </div>
-<div>Viele Grüße</div>
-<div> </div>
-<div>Karin Schwaer </div>
-<div> </div>
-<div>Hier geht es zum <a href="https://www.piazzaformel.com/webinar-gehaltsverhandlung/" target="_blank" rel="noreferrer noopener">Verkaufswebinar.</a> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-</div>
+**Vendor's marketplace description:** Mit der PIAZZA-Formel® in 6 konkreten Schritten die Gehaltsverhandlung perfekt vorbereiten - ohne stundenlanges Googeln und Grübeln. Die wichtigsten und lukrativsten Jobgespräche sind Gehaltsverhandlungen. Es wäre ein sehr teurer und karriereschädlicher Fehler, diesen aus dem Weg zu gehen. Mit EINEM gut vorbereiteten Gespräch sichert man sich Respekt, Anerkennung und Wertschätzung. Die Voraussetzungen für MEHR GEHALT. Hinweis: Dieser Kurs ist auch hervorragend geeignet zur Vorbereitung von Mitarbeitergespräch, Jahresgespräch, Feedbackgespräch etc. Teilnehmer profitieren in diesem Online-Kurs von der Erfahrung aus 100ten erfolgreicher 1:1-Coachings. Ca. 4 Stunden Videoinhalte. Viele Grüße Karin Schwaer Hier geht es zum Verkaufswebinar.
 
 ## 2. Links
 

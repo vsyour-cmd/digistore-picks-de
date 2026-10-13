@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Das neue Buch von Alex “Düsseldorf” Fischer</h3>
-<p> </p>
-<h3>Mit über 300.000 verkauften Exemplaren hat er bereits damals einen Bestseller mit seinem Buch “Reicher als die Geissens” auf den Markt gebracht.</h3>
-<p> </p>
-<p>Nach 8 Jahren hat er nun sein nächstes neues Buch mit dem Namen “<em><strong>Charismatic Leadership</strong></em>” veröffentlicht.</p>
-<p> </p>
-<p>Du hast jetzt die Möglichkeit uns bei unserer Mission zu unterstützen und das Buch gemeinsam mit uns zu verbreiten. Und das als einer der Ersten!  </p>
-<p> </p>
-<p><strong>Das erwartet Dich:</strong></p>
-<ul>
-<li>Du verdienst 100 % am Buchverkauf (Preis: 6,95 €)</li>
-<li>Du bekommst 33 % Provision (bis zu 21 €) auf alle Bundle-Pakete</li>
-<li>Du bekommst 33 % Provision (bis zu 494 €) auf den Upsell zum Buch (das Leadership Weekend)</li>
-</ul>
-<p> </p>
-<p><strong>Zudem erwarten Dich exklusive Preise bei erreichten Meilensteinen:</strong></p>
-<ul>
-<li>75 verkaufte Bücher: 1 VIP-Ticket für unser Leadership Weekend (Wert: 2997 €)</li>
-<li>150 verkaufte Bücher: Unser Eventpass für 2 Events Deiner Wahl (Wert: 4997 €)</li>
-<li>500 verkaufte Bücher: Ein Wochenende auf Mallorca mit unseren Premiumkunden (Wert: 14.997 €)</li>
-<li>1000 verkaufte Bücher: Ein Eventpass für 12 Monate zu all unseren Events (Wert: 29.997 €)</li>
-<li>3000 verkaufte Bücher: 1 Tag mit Alex Fischer persönlich auf seiner Finca auf Mallorca (Wert: nicht käuflich)<br /><br /></li>
-</ul>
-<p><strong>Das Ziel des Buchs:</strong> Mit den 36 Eigenschaften aus diesem Buch helfen wir Menschen dabei, ihr volles Potenzial zu entfachen und zur Inspirationsquelle in ihrem Umfeld zu werden, sodass andere Menschen sie auf dem Weg zu ihren Zielen unterstützen.</p>
+**Vendor's marketplace description:** Das neue Buch von Alex “Düsseldorf” Fischer Mit über 300.000 verkauften Exemplaren hat er bereits damals einen Bestseller mit seinem Buch “Reicher als die Geissens” auf den Markt gebracht. Nach 8 Jahren hat er nun sein nächstes neues Buch mit dem Namen “ Charismatic Leadership ” veröffentlicht. Du hast jetzt die Möglichkeit uns bei unserer Mission zu unterstützen und das Buch gemeinsam mit uns zu verbreiten. Und das als einer der Ersten! Das erwartet Dich: Du verdienst 100 % am Buchverkauf (Preis: 6,95 €) Du bekommst 33 % Provision (bis zu 21 €) auf alle Bundle-Pakete Du bekommst 33 % Provision (bis zu 494 €) auf den Upsell zum Buch (das Leadership Weekend) Zudem erwarten Dich exklusive Preise bei erreichten Meilensteinen: 75 verkaufte Bücher: 1 VIP-Ticket für unser Leadership Weekend (Wert: 2997 €) 150 verkaufte Bücher: Unser Eventpass für 2 Events Deiner Wahl (Wert: 4997 €) 500 verkaufte Bücher: Ein Wochenende auf Mallorca mit unseren Premiumkunden (Wert: 14.997 €) 1000 verkaufte Bücher: Ein Eventpass für 12 Monate zu all unseren Events (Wert: 29.997 €) 3000 verkaufte Bücher: 1 Tag mit Alex Fischer persönlich auf seiner Finca auf Mallorca (Wert: nicht käuflich) Das Ziel des Buchs: Mit den 36 Eigenschaften aus diesem Buch helfen wir Menschen dabei, ihr volles Potenzial zu entfachen und zur Inspirationsquelle in ihrem Umfeld zu werden, sodass andere Menschen sie auf dem Weg zu ihren Zielen unterstützen.
 
 ## 2. Links
 

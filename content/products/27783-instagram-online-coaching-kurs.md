@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du möchtest, dass deine Beiträge wieder gesehen werden?</p>
-<p>Du möchtest Likes und Kommentare erhalten?</p>
-<p>Deine Story soll mehr Aufrufe bekommen?</p>
-<p>Du möchtest mit deinem Account Geld verdienen ?</p>
-<p>Ich habe all meine Erfahrungen in diesen Online Kurs gepackt, damit dir Instagram wieder Spaß macht und du das ganze Potential ausschöpfen kannst, dass in Instagram steckt.</p>
-<p>Du wirst lernen wie du Instagram richtig für Dich und Dein Unternehmen einsetzen kannst:</p>
-<ul><li>Optimale Account Gestaltung</li>
-<li>Die richtige Zielgruppe ansprechen</li>
-<li>Die richtigen Follower</li>
-<li>Wie du Reichweite aufbaust</li>
-<li>Algorithmus Hacks</li>
-<li>Storys erstellen mit allen Funktionen</li>
-<li>Wie du mit deinem Account Geld verdienst</li>
-</ul><p>Dies und vieles mehr habe ich in den Online Kurs für Dich rein gepackt.</p>
-<p>Ich wünsche dir viel Spaß und Erfolg bei der Umsetzung.</p>
+**Vendor's marketplace description:** Du möchtest, dass deine Beiträge wieder gesehen werden? Du möchtest Likes und Kommentare erhalten? Deine Story soll mehr Aufrufe bekommen? Du möchtest mit deinem Account Geld verdienen ? Ich habe all meine Erfahrungen in diesen Online Kurs gepackt, damit dir Instagram wieder Spaß macht und du das ganze Potential ausschöpfen kannst, dass in Instagram steckt. Du wirst lernen wie du Instagram richtig für Dich und Dein Unternehmen einsetzen kannst: Optimale Account Gestaltung Die richtige Zielgruppe ansprechen Die richtigen Follower Wie du Reichweite aufbaust Algorithmus Hacks Storys erstellen mit allen Funktionen Wie du mit deinem Account Geld verdienst Dies und vieles mehr habe ich in den Online Kurs für Dich rein gepackt. Ich wünsche dir viel Spaß und Erfolg bei der Umsetzung.
 
 ## 2. Links
 

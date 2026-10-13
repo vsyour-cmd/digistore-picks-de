@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Von der leeren Gruppe zur aktiven Community mit Kursen, Gamification und echten Mitgliedern</strong></p>
-<p>Du willst auf Skool starten, weißt aber nicht, wo anfangen? Dieses E-Book nimmt dich Schritt für Schritt an die Hand – von der Einrichtung deiner Gruppe über das Classroom-Setup bis zum Onboarding deiner ersten Mitglieder. Du lernst, wie das Gamification-System mit Leaderboard und Levels deine Community aktiv hält, wie du Kurse strukturierst, die wirklich durchgezogen werden, und warum Skool für Einsteiger eine der einfachsten Plattformen ist, um Wissen professionell anzubieten. Kein technisches Vorwissen nötig: nur ein klarer, umsetzbarer Fahrplan, den du Schritt für Schritt umsetzen kannst. Nach der Lektüre steht dein erster Account – und du weißt, wie du ihn von innen und außen befüllst.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Skool-Account einrichten: Gruppe, Branding und erste Einstellungen</li>
-<li>Classroom aufbauen: Kurse anlegen, Module strukturieren, Inhalte hochladen</li>
-<li>Gamification verstehen: Leaderboard, Levels und Punkte als Aktivierungs-Hebel</li>
-<li>Onboarding-Flow für neue Mitglieder einrichten, der Aktivität erzeugt</li>
-<li>Community von außen befüllen: erste Mitglieder gewinnen ohne Ads</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Von der leeren Gruppe zur aktiven Community mit Kursen, Gamification und echten Mitgliedern Du willst auf Skool starten, weißt aber nicht, wo anfangen? Dieses E-Book nimmt dich Schritt für Schritt an die Hand – von der Einrichtung deiner Gruppe über das Classroom-Setup bis zum Onboarding deiner ersten Mitglieder. Du lernst, wie das Gamification-System mit Leaderboard und Levels deine Community aktiv hält, wie du Kurse strukturierst, die wirklich durchgezogen werden, und warum Skool für Einsteiger eine der einfachsten Plattformen ist, um Wissen professionell anzubieten. Kein technisches Vorwissen nötig: nur ein klarer, umsetzbarer Fahrplan, den du Schritt für Schritt umsetzen kannst. Nach der Lektüre steht dein erster Account – und du weißt, wie du ihn von innen und außen befüllst. Das steckt drin: Skool-Account einrichten: Gruppe, Branding und erste Einstellungen Classroom aufbauen: Kurse anlegen, Module strukturieren, Inhalte hochladen Gamification verstehen: Leaderboard, Levels und Punkte als Aktivierungs-Hebel Onboarding-Flow für neue Mitglieder einrichten, der Aktivität erzeugt Community von außen befüllen: erste Mitglieder gewinnen ohne Ads Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong>40 aufeinander aufbauende Trainingspläne</strong>
-<div>
-<div>
-<div>
-<p>Über den <a href="https://www.xn--kraulkraftverstrker-uwb.de/10-technik-fehler-kraulschwimmen/" target="_blank" rel="noreferrer noopener">Online-Kurs</a> und die <a href="https://www.xn--kraulkraftverstrker-uwb.de/video-stil-analyse-schwimmen" target="_blank" rel="noreferrer noopener">Schwimmstil-Video-Analyse</a> hinaus erhalten Schwimmer ein Konstrukt von 40 aufeinander aufbauenden Trainingsplänen für unterschiedliche Leistungsstufen mit dem Schwerpunkt Kraulschwimmen.</p>
-<p>Sieh dir dazu <a href="https://www.xn--kraulkraftverstrker-uwb.de/trainingsplaene-kraulschwimmen/" target="_blank" rel="noreferrer noopener">dieses Video</a> an, in dem ich dir erkläre, wie das im Detail funktioniert.</p>
-<p>Den ersten Trainingsplan zum Kennenlernen sowie eine ausführliche Erklärung zum Aufbau erhältst du <strong>für nur 1,- Euro</strong>. Die weiteren 39 Pläne folgen nach 1 Woche in <strong>3 Abschnitten zu je 13 aufeinander aufbauenden Plänen</strong> im Abstand von je 2 Monaten für 2,99 € pro Trainingsplan.</p>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** 40 aufeinander aufbauende Trainingspläne Über den Online-Kurs und die Schwimmstil-Video-Analyse hinaus erhalten Schwimmer ein Konstrukt von 40 aufeinander aufbauenden Trainingsplänen für unterschiedliche Leistungsstufen mit dem Schwerpunkt Kraulschwimmen. Sieh dir dazu dieses Video an, in dem ich dir erkläre, wie das im Detail funktioniert. Den ersten Trainingsplan zum Kennenlernen sowie eine ausführliche Erklärung zum Aufbau erhältst du für nur 1,- Euro . Die weiteren 39 Pläne folgen nach 1 Woche in 3 Abschnitten zu je 13 aufeinander aufbauenden Plänen im Abstand von je 2 Monaten für 2,99 € pro Trainingsplan.
 
 ## 2. Links
 

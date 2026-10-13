@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du über Broadcasts, Direktkontakt und Status planbar Kunden gewinnst</strong></p>
-<p>Als Coach ist Vertrauen alles – und nirgendwo entsteht es schneller als in einer persönlichen WhatsApp-Nachricht. Dieses E-Book zeigt dir, wie du Broadcasts als Mehrwert-Kanal aufbaust, der Interessenten Schritt für Schritt in Käufer verwandelt. Du lernst, wie du Status und Direktnachrichten als Funnel-Elemente einsetzt, wie du ohne aufdringliche Werbebotschaften echte Gesprächsanfragen erzeugst und wie du Erstgespräche direkt über WhatsApp einlädst. Die hohen Öffnungsraten der Plattform spielen dir dabei in die Hände: Was du sendest, wird tatsächlich gelesen. Statt Algorithmen zu bekämpfen, nutzt du den direktesten Kanal zu deiner Zielgruppe – und baust so ein System auf, das deinen Kalender regelmäßig füllt.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Broadcast-Funnel aufbauen: von der ersten Nachricht bis zur Buchung</li>
-<li>Mehrwert-Nachrichten schreiben, die Vertrauen statt Ablehnung erzeugen</li>
-<li>Status als tägliche Touchpoints im Coach-Funnel einsetzen</li>
-<li>Direktnachrichten nutzen, um Erstgespräche zu initiieren – ohne Druck</li>
-<li>WhatsApp-Community für Gruppencoachings oder Mastermind-Formate</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du über Broadcasts, Direktkontakt und Status planbar Kunden gewinnst Als Coach ist Vertrauen alles – und nirgendwo entsteht es schneller als in einer persönlichen WhatsApp-Nachricht. Dieses E-Book zeigt dir, wie du Broadcasts als Mehrwert-Kanal aufbaust, der Interessenten Schritt für Schritt in Käufer verwandelt. Du lernst, wie du Status und Direktnachrichten als Funnel-Elemente einsetzt, wie du ohne aufdringliche Werbebotschaften echte Gesprächsanfragen erzeugst und wie du Erstgespräche direkt über WhatsApp einlädst. Die hohen Öffnungsraten der Plattform spielen dir dabei in die Hände: Was du sendest, wird tatsächlich gelesen. Statt Algorithmen zu bekämpfen, nutzt du den direktesten Kanal zu deiner Zielgruppe – und baust so ein System auf, das deinen Kalender regelmäßig füllt. Das steckt drin: Broadcast-Funnel aufbauen: von der ersten Nachricht bis zur Buchung Mehrwert-Nachrichten schreiben, die Vertrauen statt Ablehnung erzeugen Status als tägliche Touchpoints im Coach-Funnel einsetzen Direktnachrichten nutzen, um Erstgespräche zu initiieren – ohne Druck WhatsApp-Community für Gruppencoachings oder Mastermind-Formate Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

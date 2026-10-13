@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>KI Cash Maker</strong></p>
-<p><strong>Wie Du mit Hilfe verschiedener KI-Tools Geld verdienen kannst</strong></p>
-<p>-Vorstellung verschiedener KI-Tools zum Geldverdienen</p>
-<p>-Videokurs zeigt Dir verschiedenste Möglichkeiten wie Du mit diesen KI-Tools Geldverdienen kannst</p>
-<p>-Einfach umsetzbar</p>
-<p>-Für Anfänger und Fortgeschrittene</p>
+**Vendor's marketplace description:** KI Cash Maker Wie Du mit Hilfe verschiedener KI-Tools Geld verdienen kannst -Vorstellung verschiedener KI-Tools zum Geldverdienen -Videokurs zeigt Dir verschiedenste Möglichkeiten wie Du mit diesen KI-Tools Geldverdienen kannst -Einfach umsetzbar -Für Anfänger und Fortgeschrittene
 
 ## 2. Links
 

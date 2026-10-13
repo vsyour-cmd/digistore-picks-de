@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die Hinzuverdienstgrenze leicht erklärt (Online-Videokurs)</strong></p>
-<p>Verstehe endlich, wie die Hinzuverdienstgrenze funktioniert – und wie Du durch kluge Planung Deine Hinterbliebenenrente optimal nutzt und unnötige Kürzungen vermeidest.</p>
-<p>In diesem Videokurs lernst Du verständlich und praxisnah:</p>
-<ul>
-<li>
-<p>die wichtigsten Grundlagen der gesetzlichen Rentenversicherung</p>
-</li>
-<li>
-<p>wie Einkommensanrechnung und Freibeträge wirken</p>
-</li>
-<li>
-<p>welche Einkommensarten berücksichtigt werden</p>
-</li>
-<li>
-<p>wie Du den Lifehack gezielt einsetzt</p>
-</li>
-<li>
-<p>worauf Du bei Steuerjahr, Rentenjahr und Sonderzahlungen achten musst</p>
-</li>
-<li>
-<p>wie Steuern Deine Rente beeinflussen und wie Du besser planst</p>
-</li>
-</ul>
-<p>Du erhältst klare Erklärungen, konkrete Beispiele und direkt umsetzbares Wissen für Deine finanzielle Planung.</p>
-<p>Dauer: ca. 3,5 Stunden Videomaterial<br />Zugriff: 30 Tage, beliebig oft abrufbar</p>
-<p><strong>Bonus:</strong> Inklusive Excel-Berechnungshilfe mit Lifehack.</p>
+**Vendor's marketplace description:** Die Hinzuverdienstgrenze leicht erklärt (Online-Videokurs) Verstehe endlich, wie die Hinzuverdienstgrenze funktioniert – und wie Du durch kluge Planung Deine Hinterbliebenenrente optimal nutzt und unnötige Kürzungen vermeidest. In diesem Videokurs lernst Du verständlich und praxisnah: die wichtigsten Grundlagen der gesetzlichen Rentenversicherung wie Einkommensanrechnung und Freibeträge wirken welche Einkommensarten berücksichtigt werden wie Du den Lifehack gezielt einsetzt worauf Du bei Steuerjahr, Rentenjahr und Sonderzahlungen achten musst wie Steuern Deine Rente beeinflussen und wie Du besser planst Du erhältst klare Erklärungen, konkrete Beispiele und direkt umsetzbares Wissen für Deine finanzielle Planung. Dauer: ca. 3,5 Stunden Videomaterial Zugriff: 30 Tage, beliebig oft abrufbar Bonus: Inklusive Excel-Berechnungshilfe mit Lifehack.
 
 ## 2. Links
 

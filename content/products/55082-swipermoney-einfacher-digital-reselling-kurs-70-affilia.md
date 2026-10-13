@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#00ff00;">NEU AUF DEM MARKT !!!</span></p>
-<p>Der Kurs ist perfekt für <strong>Affiliates</strong>, da er:</p>
-<ul>
-<li>
-<p>einen <strong>niedrigen Einstiegspreis (112,98 €)</strong> hat</p>
-</li>
-<li>
-<p><strong>70% Provision pro Verkauf</strong> bietet</p>
-</li>
-<li>
-<p><strong>sofort digital ausgeliefert</strong> wird</p>
-</li>
-<li>
-<p>eine <strong>hohe Conversionrate</strong> durch einfache Inhalte ermöglicht</p>
-</li>
-</ul>
-<h3>WENN DU ANFANGEN WILLST DANN DRÜCKE OBEN AUF <span style="background-color:#00ff00;">Jetzt promoten</span></h3>
+**Vendor's marketplace description:** NEU AUF DEM MARKT !!! Der Kurs ist perfekt für Affiliates , da er: einen niedrigen Einstiegspreis (112,98 €) hat 70% Provision pro Verkauf bietet sofort digital ausgeliefert wird eine hohe Conversionrate durch einfache Inhalte ermöglicht WENN DU ANFANGEN WILLST DANN DRÜCKE OBEN AUF Jetzt promoten
 
 ## 2. Links
 

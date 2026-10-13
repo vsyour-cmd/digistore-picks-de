@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die 30 besten Frühstücksrezepte – <em>vegan, glutenfrei und ohne industriellen Zucker</em> – von Tasty Katy’s Blog, ausgewählt in einem liebevoll aufbereiteten eBook.</p>
-<p>Die Rezepte sind leicht umsetzbar und einfach beschrieben.</p>
-<p> </p>
-<p><strong> Inhalt des eBooks:</strong></p>
-<p>• 30 leckere Frühstücksrezepte</p>
-<p>  (vegan, glutenfrei &amp; zuckerfrei)</p>
-<p>• Rezepte für cremige Porridges, leckere Brote und tolle Extras </p>
-<p>• Template für eigene Rezepte</p>
-<p>• Template für eine Einkaufsliste</p>
-<p> </p>
-<p>Biete deinen Kunden ein einzigartiges eBook mit vielen liebevoll aufbereiteten Rezepten für ein leckeres &amp; gesundes Frühstück.</p>
+**Vendor's marketplace description:** Die 30 besten Frühstücksrezepte – vegan, glutenfrei und ohne industriellen Zucker – von Tasty Katy’s Blog, ausgewählt in einem liebevoll aufbereiteten eBook. Die Rezepte sind leicht umsetzbar und einfach beschrieben. Inhalt des eBooks: • 30 leckere Frühstücksrezepte (vegan, glutenfrei & zuckerfrei) • Rezepte für cremige Porridges, leckere Brote und tolle Extras • Template für eigene Rezepte • Template für eine Einkaufsliste Biete deinen Kunden ein einzigartiges eBook mit vielen liebevoll aufbereiteten Rezepten für ein leckeres & gesundes Frühstück.
 
 ## 2. Links
 

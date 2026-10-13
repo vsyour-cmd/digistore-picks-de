@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieser Ratgeber unterstützt angehende Auswanderer mit Tipps und Impulsen bei ihrem ortsunabhängigen Neustart als Freelancer (B2B/digitale Dienstleistungen) innerhalb der EU. Das Buch begleitet deine Zielgruppe von der ersten Ideenfindung für die selbstständige Tätigkeit bis hin zur konkreten Umsetzung. Deine Leser erfahren, wie sie eine fundierte Marktanalyse durchführen, sich als Experten positionieren und die Bereiche Vertrieb, Marketing sowie Finanzplanung erfolgreich meistern. Zusätzlich hilft ihnen der Ratgeber bei der Auswahl des optimalen Standorts. Das E-Book kann einzeln oder in Kombination mit dem begleitenden Workbook erworben werden.</p>
+**Vendor's marketplace description:** Dieser Ratgeber unterstützt angehende Auswanderer mit Tipps und Impulsen bei ihrem ortsunabhängigen Neustart als Freelancer (B2B/digitale Dienstleistungen) innerhalb der EU. Das Buch begleitet deine Zielgruppe von der ersten Ideenfindung für die selbstständige Tätigkeit bis hin zur konkreten Umsetzung. Deine Leser erfahren, wie sie eine fundierte Marktanalyse durchführen, sich als Experten positionieren und die Bereiche Vertrieb, Marketing sowie Finanzplanung erfolgreich meistern. Zusätzlich hilft ihnen der Ratgeber bei der Auswahl des optimalen Standorts. Das E-Book kann einzeln oder in Kombination mit dem begleitenden Workbook erworben werden.
 
 ## 2. Links
 

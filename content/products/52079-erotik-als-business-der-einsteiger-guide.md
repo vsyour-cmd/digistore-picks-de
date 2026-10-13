@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2 style="text-align:center;"><span style="background-color:#ffff00;">"Erotik als Business – Der Einsteiger-Guide"</span><br />Dieses E-Book zeigt Schritt für Schritt, wie man in einem Milliardenmarkt durchstartest – mit Strategie, Stil und echten Einkommensmodellen.</h2>
-<p style="text-align:center;"><strong>Was Du erhältst:</strong><br /><br />Bewirb unseren kostenlosen Ratgeber und erhalte <strong>50% Provision</strong> auf Addon und Upsells, sowie <strong>15% Lifetime-Provision</strong> auf alle Folgeverkäufe!</p>
-<p style="text-align:center;"> </p>
-<p style="text-align:center;"><strong>Für wen geeignet:</strong></p>
-<p style="text-align:center;">Ideal für Einsteiger, Affiliates, Creator oder digitale Unternehmer.</p>
-<p style="text-align:center;"> </p>
-<p style="text-align:center;"><strong>Werde jetzt unser Partner und verdiene online Geld!</strong></p>
+**Vendor's marketplace description:** "Erotik als Business – Der Einsteiger-Guide" Dieses E-Book zeigt Schritt für Schritt, wie man in einem Milliardenmarkt durchstartest – mit Strategie, Stil und echten Einkommensmodellen. Was Du erhältst: Bewirb unseren kostenlosen Ratgeber und erhalte 50% Provision auf Addon und Upsells, sowie 15% Lifetime-Provision auf alle Folgeverkäufe! Für wen geeignet: Ideal für Einsteiger, Affiliates, Creator oder digitale Unternehmer. Werde jetzt unser Partner und verdiene online Geld!
 
 ## 2. Links
 

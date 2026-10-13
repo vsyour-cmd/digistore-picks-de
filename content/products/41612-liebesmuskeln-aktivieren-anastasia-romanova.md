@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Liebesmuskeln einer Frau aktivieren!</h1>
-<p>Das Angebot ist im gesamten Markt einzigartig da es ein rießen Potenzial darstellt. Grundsätzlich werden alle Frauen nach der Schwangerschaft angesprochen oder auch generell Fauen die auf Grund von Alterserscheinigungen anatomische Veränderungen empfinden.</p>
-<p>Mit einer Provision von 35% auf Erst- sowie auf Folgeprodukte ist es besonders attraktiv unsere Angebote zu bewerben.</p>
-<p>Weitere Kurs-Angebote werden in kürze folgen.</p>
-<p>Gemeinsam mit Intimfitness Expertin Anastasia Romanova entwickeln wir Angebote für das Tabuthema rund um den Beckenboden und haben für den deutschsprachigen Raum die Vision das Thema in eine positive Richtung zu mobilisieren.</p>
+**Vendor's marketplace description:** Liebesmuskeln einer Frau aktivieren! Das Angebot ist im gesamten Markt einzigartig da es ein rießen Potenzial darstellt. Grundsätzlich werden alle Frauen nach der Schwangerschaft angesprochen oder auch generell Fauen die auf Grund von Alterserscheinigungen anatomische Veränderungen empfinden. Mit einer Provision von 35% auf Erst- sowie auf Folgeprodukte ist es besonders attraktiv unsere Angebote zu bewerben. Weitere Kurs-Angebote werden in kürze folgen. Gemeinsam mit Intimfitness Expertin Anastasia Romanova entwickeln wir Angebote für das Tabuthema rund um den Beckenboden und haben für den deutschsprachigen Raum die Vision das Thema in eine positive Richtung zu mobilisieren.
 
 ## 2. Links
 

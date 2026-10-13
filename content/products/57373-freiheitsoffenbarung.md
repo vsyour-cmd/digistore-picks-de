@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die Aufzeichnung mit Karin und Kerstin Schimkus. 3 Kurse für Dein Mindset in deine Freiheit - 30 Impulse. Es sind nützliche Tools, Fragen und Möglichkeiten für dich in deinem Alltag.</p>
-<p>Befreie Dich von Ansichten, Geschichten und Einklemmungen, die du schon so lange in dir trägst.</p>
-<p>Freischaltung im Mitgliederbereich für 12 Monate. </p>
+**Vendor's marketplace description:** Die Aufzeichnung mit Karin und Kerstin Schimkus. 3 Kurse für Dein Mindset in deine Freiheit - 30 Impulse. Es sind nützliche Tools, Fragen und Möglichkeiten für dich in deinem Alltag. Befreie Dich von Ansichten, Geschichten und Einklemmungen, die du schon so lange in dir trägst. Freischaltung im Mitgliederbereich für 12 Monate.
 
 ## 2. Links
 

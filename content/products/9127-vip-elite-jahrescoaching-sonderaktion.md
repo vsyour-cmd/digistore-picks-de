@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Tägliches (!) ELITE VIP Erfolgs-Coaching per Video mit Helmut Ament<br />365 Videos - Weltweit einzigartig (!)</h2>
-<p><strong>365 Tage ein weltweit einzigartiges Erfolgs-Coaching!<br />Insgesamt 365 Coaching-Videos<br />+ auch ausdruckbar (1.240 Seiten A4)<br />+ SelfControl-Panel für Erfolgs-Entwicklung<br />+ zahlreiche Wordfiles mit eindrucksvollen Übungsvorlagen<br />+ 12 Hörbücher als mp3 (monatliche Zusammenfassung des Coachings)<br />+ tägliche motivierende Erfolgs-Zitate<br />+ abends Zusammenfassung der Tageslektion via E-Mail<br />+ tägliche Erinnerung der gesetzten Ziele<br />+ Kommentarmöglichkeit zu jeder Coaching-Einheit</strong></p>
-<p><strong>Die Erstellung dieses Coachings benötigte<br />mehr als 2 Jahre und kostete über 400.000 Euro</strong></p>
-<h2> </h2>
+**Vendor's marketplace description:** Tägliches (!) ELITE VIP Erfolgs-Coaching per Video mit Helmut Ament 365 Videos - Weltweit einzigartig (!) 365 Tage ein weltweit einzigartiges Erfolgs-Coaching! Insgesamt 365 Coaching-Videos + auch ausdruckbar (1.240 Seiten A4) + SelfControl-Panel für Erfolgs-Entwicklung + zahlreiche Wordfiles mit eindrucksvollen Übungsvorlagen + 12 Hörbücher als mp3 (monatliche Zusammenfassung des Coachings) + tägliche motivierende Erfolgs-Zitate + abends Zusammenfassung der Tageslektion via E-Mail + tägliche Erinnerung der gesetzten Ziele + Kommentarmöglichkeit zu jeder Coaching-Einheit Die Erstellung dieses Coachings benötigte mehr als 2 Jahre und kostete über 400.000 Euro
 
 ## 2. Links
 

@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mein erster Online Kurs: Cheat Book ist ein ultimativer Leitfaden mit tollen Checklisten und Insider-Cheats für die Erstellung eines lukrativen Online Kurses, womit man Passiv Einnahmen generieren kann.</p>
-<p><strong>100% Affiliate Provision nur für kurze Zeit</strong></p>
-<p>Das ist ein Freebie-Funnel, allerdings kostet der direkte Upsell 4,90€ und hat 100% Affiliate Provision. Das bedeutet: du bewirbst einen kostenfreien Leadmagneten + bekommst 100% Provision auf den Tripwire + 50% auf die Folge-Produkte.</p>
-<p>Inhalt:</p>
-<ul>
-<li>12 Seiten voll mit Checklisten und Cheats</li>
-<li>Ultimativer Leitfaden für den perfekten eigenen Kurs</li>
-<li>100% Provision auf den direkten Upsell</li>
-<li>Sehr hohe Conversionrate</li>
-</ul>
-<p>ZielGruppe:</p>
-<ul>
-<li>Menschen, die Online Geld verdienen möchten</li>
-<li>Menschen, die von Zuhause aus Geld verdienen möchten</li>
-<li>Anfänger im Online Marketing</li>
-<li>Anfänger im Online Kurs Erstellung</li>
-</ul>
-<div style="width:0px;height:0px;"> </div>
-<div style="width:0px;height:0px;"></div>
+**Vendor's marketplace description:** Mein erster Online Kurs: Cheat Book ist ein ultimativer Leitfaden mit tollen Checklisten und Insider-Cheats für die Erstellung eines lukrativen Online Kurses, womit man Passiv Einnahmen generieren kann. 100% Affiliate Provision nur für kurze Zeit Das ist ein Freebie-Funnel, allerdings kostet der direkte Upsell 4,90€ und hat 100% Affiliate Provision. Das bedeutet: du bewirbst einen kostenfreien Leadmagneten + bekommst 100% Provision auf den Tripwire + 50% auf die Folge-Produkte. Inhalt: 12 Seiten voll mit Checklisten und Cheats Ultimativer Leitfaden für den perfekten eigenen Kurs 100% Provision auf den direkten Upsell Sehr hohe Conversionrate ZielGruppe: Menschen, die Online Geld verdienen möchten Menschen, die von Zuhause aus Geld verdienen möchten Anfänger im Online Marketing Anfänger im Online Kurs Erstellung
 
 ## 2. Links
 

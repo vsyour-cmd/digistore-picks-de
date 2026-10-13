@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Nutze 50 Etsy-Nischenideen als Ausgangspunkt für deine eigene Produktentwicklung und Recherche.</p>
-<p>Du erhältst die Sammlung als PDF-Download. Prüfe Zielgruppe, Nachfrage und Umsetzbarkeit selbst, bevor du ein Produkt entwickelst. Die Ideen sind keine fertigen Shop-Produkte und keine Absatzprognose.</p>
-<p>Optionaler Zusatz zum Etsy-Praxispaket. Der Hauptkurs ist nicht enthalten und bleibt ohne diesen Zusatz vollständig. Zum Öffnen genügt ein PDF-Reader.</p>
-<p>Schriftliches Downloadprodukt auf Deutsch. Keine Videolektionen, persönliche Betreuung oder enthaltenen Drittanbieter-Abos. Beispiele sind Übungsmaterial; Verkäufe, Aufträge und Einkommen werden nicht zugesagt. Einmalzahlung, kein Abo.</p>
-<p>Anbieter: Einfach mit Matze / Michael Arndt · info@einfachhaltbar.de. Nutzung für die eigene Arbeit gemäß den beiliegenden Nutzungsregeln. Kein Weiterverkauf der Kursdateien.</p>
-<p>Affiliate-Information: 40 % Provision. Eigenständiges Zusatzpaket ohne Hauptkurs. Keine Umsatzgarantie. Kontakt: info@einfachhaltbar.de.</p>
+**Vendor's marketplace description:** Nutze 50 Etsy-Nischenideen als Ausgangspunkt für deine eigene Produktentwicklung und Recherche. Du erhältst die Sammlung als PDF-Download. Prüfe Zielgruppe, Nachfrage und Umsetzbarkeit selbst, bevor du ein Produkt entwickelst. Die Ideen sind keine fertigen Shop-Produkte und keine Absatzprognose. Optionaler Zusatz zum Etsy-Praxispaket. Der Hauptkurs ist nicht enthalten und bleibt ohne diesen Zusatz vollständig. Zum Öffnen genügt ein PDF-Reader. Schriftliches Downloadprodukt auf Deutsch. Keine Videolektionen, persönliche Betreuung oder enthaltenen Drittanbieter-Abos. Beispiele sind Übungsmaterial; Verkäufe, Aufträge und Einkommen werden nicht zugesagt. Einmalzahlung, kein Abo. Anbieter: Einfach mit Matze / Michael Arndt · info@einfachhaltbar.de. Nutzung für die eigene Arbeit gemäß den beiliegenden Nutzungsregeln. Kein Weiterverkauf der Kursdateien. Affiliate-Information: 40 % Provision. Eigenständiges Zusatzpaket ohne Hauptkurs. Keine Umsatzgarantie. Kontakt: info@einfachhaltbar.de.
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses Buch adressiert ein universelles, emotional stark aufgeladenes Thema: den Umgang mit Leid und die Suche nach Sinn in Krisen.</p>
-<p>Es kombiniert psychologische, philosophische und biologische Perspektiven zu einem tiefgehenden, zugleich zugänglichen Gesamtbild, das eine breite Zielgruppe im Bereich Persönlichkeitsentwicklung und mentale Stärke anspricht.</p>
-<p>Der klare Fokus auf Transformation, Resilienz und Sinnstiftung erzeugt hohe Identifikation und ein starkes Bedürfnis nach Lösung.</p>
-<p>Besonders attraktiv für Affiliates ist die zeitlose Relevanz und die emotionale Tiefe, die intensive Kaufmotivation auslösen kann.</p>
-<p>Ein inhaltlich substanzielles Produkt mit starkem Story- und Experten-Charakter, das sich hervorragend im Mindset- und Coaching-Markt positionieren lässt.</p>
+**Vendor's marketplace description:** Dieses Buch adressiert ein universelles, emotional stark aufgeladenes Thema: den Umgang mit Leid und die Suche nach Sinn in Krisen. Es kombiniert psychologische, philosophische und biologische Perspektiven zu einem tiefgehenden, zugleich zugänglichen Gesamtbild, das eine breite Zielgruppe im Bereich Persönlichkeitsentwicklung und mentale Stärke anspricht. Der klare Fokus auf Transformation, Resilienz und Sinnstiftung erzeugt hohe Identifikation und ein starkes Bedürfnis nach Lösung. Besonders attraktiv für Affiliates ist die zeitlose Relevanz und die emotionale Tiefe, die intensive Kaufmotivation auslösen kann. Ein inhaltlich substanzielles Produkt mit starkem Story- und Experten-Charakter, das sich hervorragend im Mindset- und Coaching-Markt positionieren lässt.
 
 ## 2. Links
 

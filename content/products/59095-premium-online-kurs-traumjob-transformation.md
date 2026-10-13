@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Traumjob Transformation</h3>
-<p>Die <strong>Traumjob Transformation</strong> ist ein Onlinekurs für Menschen, die beruflich unzufrieden sind oder spüren, dass es Zeit für Veränderung ist, aber noch nicht wissen, wohin ihr Weg führen soll.</p>
-<p>Der Kurs hilft dabei, herauszufinden, <strong>was wirklich zu einem passt</strong>, die eigenen Stärken, Werte und Bedürfnisse zu erkennen und eine konkrete berufliche Perspektive zu entwickeln.</p>
-<p>Ideal für Communities rund um <strong>Frauen, Karriere, Persönlichkeitsentwicklung und berufliche Neuorientierung</strong>.</p>
-<p><strong>Als Affiliate erhältst du 40 % Provision auf jeden erfolgreichen Verkauf.</strong></p>
+**Vendor's marketplace description:** Traumjob Transformation Die Traumjob Transformation ist ein Onlinekurs für Menschen, die beruflich unzufrieden sind oder spüren, dass es Zeit für Veränderung ist, aber noch nicht wissen, wohin ihr Weg führen soll. Der Kurs hilft dabei, herauszufinden, was wirklich zu einem passt , die eigenen Stärken, Werte und Bedürfnisse zu erkennen und eine konkrete berufliche Perspektive zu entwickeln. Ideal für Communities rund um Frauen, Karriere, Persönlichkeitsentwicklung und berufliche Neuorientierung . Als Affiliate erhältst du 40 % Provision auf jeden erfolgreichen Verkauf.
 
 ## 2. Links
 

@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>Optionsstrategien für die Praxis (Buch)</div>
-<div>
-<p>Als erfahrener Options-Profi weiß Jens Rabe, wovon er spricht. Schritt für Schritt führt er in alle Aspekte des Optionshandels ein. Mit einem Fragenkatalog am Ende jedes Kapitels können Sie Ihre Lernerfolge überprüfen. Die Lösungen und noch vieles mehr finden Sie hier. Dieses Buch ist ein Muss für alle, für die Börse mehr als nur ein Hobby ist und die ernsthaft an einer Professionalisierung ihrer Handelstätigkeit interessiert sind.</p>
-<p>Sie träumen davon, an der Börse ein Vermögen zu verdienen? Unzählige Bücher versprechen Ihnen die Erfüllung dieses Traumes. Doch dieses Buch ist anders! Es versucht erst gar nicht, die Story vom schnellen Reichtum zu erzählen. Stattdessen zeigt es auf, wie Sie mithilfe einer durchdachten und praxiserprobten Strategie ein regelmäßiges Einkommen an der Börse erzielen können.</p>
-<p>Jens Rabe führt Sie in die für Außenstehende “geheimnisvolle” Welt der Optionen ein und zeigt, wie dieses Instrument von Profis genutzt wird. Er gibt Ihnen das Rüstzeug an die Hand, mit dem Sie selbst erfolgreich Optionen handeln können.</p>
-</div>
+**Vendor's marketplace description:** Optionsstrategien für die Praxis (Buch) Als erfahrener Options-Profi weiß Jens Rabe, wovon er spricht. Schritt für Schritt führt er in alle Aspekte des Optionshandels ein. Mit einem Fragenkatalog am Ende jedes Kapitels können Sie Ihre Lernerfolge überprüfen. Die Lösungen und noch vieles mehr finden Sie hier. Dieses Buch ist ein Muss für alle, für die Börse mehr als nur ein Hobby ist und die ernsthaft an einer Professionalisierung ihrer Handelstätigkeit interessiert sind. Sie träumen davon, an der Börse ein Vermögen zu verdienen? Unzählige Bücher versprechen Ihnen die Erfüllung dieses Traumes. Doch dieses Buch ist anders! Es versucht erst gar nicht, die Story vom schnellen Reichtum zu erzählen. Stattdessen zeigt es auf, wie Sie mithilfe einer durchdachten und praxiserprobten Strategie ein regelmäßiges Einkommen an der Börse erzielen können. Jens Rabe führt Sie in die für Außenstehende “geheimnisvolle” Welt der Optionen ein und zeigt, wie dieses Instrument von Profis genutzt wird. Er gibt Ihnen das Rüstzeug an die Hand, mit dem Sie selbst erfolgreich Optionen handeln können.
 
 ## 2. Links
 

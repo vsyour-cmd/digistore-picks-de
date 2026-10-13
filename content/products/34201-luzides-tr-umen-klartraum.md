@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Luzide Träume und Klarträume sind Träume, in denen wir, während wir träumen, erkennen, dass wir träumen, und wissen, dass wir im Traum uns entscheiden und frei handeln können. Wir erkennen also den Traum als Traum und können unsere Träume beeinflussen. Wir befinden uns wie in einem inneren Film – einem Tableau vivant. Der Träumer betritt seinen Traum, er ist Autor, Regisseur, Schauspieler, Requisite, Kulisse und Filmproduzent in einem. Man befindet sich in der eigenen Traumrealität, die eben nicht virtuell, sondern traumhaft ist. Im Klartraum ist alles möglich, der Fantasie sind keine Grenzen gesetzt. Diese große Freiheit ist kaum vorstellbar.</p>
-<p>Dem Klarträumer stehen viele Möglichkeiten offen:</p>
-<ul><li>Er kann den Traumzustand erkennen und beobachten</li>
-<li>Er kann den Traum verändern</li>
-<li>Er kann den Traum stoppen</li>
-<li>Er kann den Traum auch bewusst weiterlaufen lassen, sich vom Traum überraschen lassen und – wie im Wachzustand – entscheiden, was er als Nächstes tun möchte.</li>
-</ul><p>In diesem Kurs führe ich ein Gespräch mit einem Klartraum interessierten Sportler. Als Ziel hat er sich gesetzt, Bewegungsabläufe im Rahmen von Luziden Träumen zu trainieren und zu verbessern.</p>
-<p>Schritt für Schritt nähern wir uns dem Thema des Luziden Traumes, denn erzwingen kann man das bewusste Träumen nicht, ob luzid oder nicht. Man erspürt den Traum, beschäftigt und verbündet sich mit ihm, bis er sich ganz von selbst offenbart und bewusst erlebt werden kann, mit all der Freude, die er uns bereiten kann.</p>
-<p>Dr. Brigitte Holzinger</p>
+**Vendor's marketplace description:** Luzide Träume und Klarträume sind Träume, in denen wir, während wir träumen, erkennen, dass wir träumen, und wissen, dass wir im Traum uns entscheiden und frei handeln können. Wir erkennen also den Traum als Traum und können unsere Träume beeinflussen. Wir befinden uns wie in einem inneren Film – einem Tableau vivant. Der Träumer betritt seinen Traum, er ist Autor, Regisseur, Schauspieler, Requisite, Kulisse und Filmproduzent in einem. Man befindet sich in der eigenen Traumrealität, die eben nicht virtuell, sondern traumhaft ist. Im Klartraum ist alles möglich, der Fantasie sind keine Grenzen gesetzt. Diese große Freiheit ist kaum vorstellbar. Dem Klarträumer stehen viele Möglichkeiten offen: Er kann den Traumzustand erkennen und beobachten Er kann den Traum verändern Er kann den Traum stoppen Er kann den Traum auch bewusst weiterlaufen lassen, sich vom Traum überraschen lassen und – wie im Wachzustand – entscheiden, was er als Nächstes tun möchte. In diesem Kurs führe ich ein Gespräch mit einem Klartraum interessierten Sportler. Als Ziel hat er sich gesetzt, Bewegungsabläufe im Rahmen von Luziden Träumen zu trainieren und zu verbessern. Schritt für Schritt nähern wir uns dem Thema des Luziden Traumes, denn erzwingen kann man das bewusste Träumen nicht, ob luzid oder nicht. Man erspürt den Traum, beschäftigt und verbündet sich mit ihm, bis er sich ganz von selbst offenbart und bewusst erlebt werden kann, mit all der Freude, die er uns bereiten kann. Dr. Brigitte Holzinger
 
 ## 2. Links
 

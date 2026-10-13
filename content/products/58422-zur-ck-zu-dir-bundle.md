@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das „Zurück zu dir“-Bundle richtet sich an Menschen, die in Beziehungen immer wieder ihre eigenen Grenzen, Gefühle und Bedürfnisse aus dem Blick verlieren, sich stark anpassen oder Schwierigkeiten haben, für sich selbst einzustehen.</p>
-<p>Das Bundle enthält sieben E-Books zu den Themen Gefühle, Bedürfnisse und persönliche Grenzen. Die Leser lernen, ihre eigenen Gefühle und Bedürfnisse besser zu verstehen, Grenzen frühzeitig wahrzunehmen und klarer zu kommunizieren. Sie beschäftigen sich außerdem mit Anpassung und Selbstverlust, Rückzug und inneren Mauern sowie dem Umgang mit Grenzüberschreitungen.</p>
-<p>Das Bundle eignet sich besonders für eine Zielgruppe, die sich intensiv mit Beziehungsmustern, persönlicher Entwicklung und einem gesünderen Umgang mit den eigenen Grenzen beschäftigt.</p>
+**Vendor's marketplace description:** Das „Zurück zu dir“-Bundle richtet sich an Menschen, die in Beziehungen immer wieder ihre eigenen Grenzen, Gefühle und Bedürfnisse aus dem Blick verlieren, sich stark anpassen oder Schwierigkeiten haben, für sich selbst einzustehen. Das Bundle enthält sieben E-Books zu den Themen Gefühle, Bedürfnisse und persönliche Grenzen. Die Leser lernen, ihre eigenen Gefühle und Bedürfnisse besser zu verstehen, Grenzen frühzeitig wahrzunehmen und klarer zu kommunizieren. Sie beschäftigen sich außerdem mit Anpassung und Selbstverlust, Rückzug und inneren Mauern sowie dem Umgang mit Grenzüberschreitungen. Das Bundle eignet sich besonders für eine Zielgruppe, die sich intensiv mit Beziehungsmustern, persönlicher Entwicklung und einem gesünderen Umgang mit den eigenen Grenzen beschäftigt.
 
 ## 2. Links
 

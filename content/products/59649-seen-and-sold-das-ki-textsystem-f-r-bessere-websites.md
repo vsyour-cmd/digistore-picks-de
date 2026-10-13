@@ -41,63 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <blockquote>
-<h3 style="text-align:left;"><strong>Seen &amp; Sold ist das SEO-Light-Textsystem für Selbstständige, Freelancer und kleine Unternehmen, die ihre Website mit ChatGPT oder Claude selbst erstellen oder </strong></h3>
-<h3 style="text-align:left;"><strong>überarbeiten möchten - ohne generische KI-Texte und ohne technisches KI-Know-how.</strong></h3>
-</blockquote>
-<p> </p>
-<hr />
-<p><br />Entwickelt von einer <strong>professionellen SEO-Copywriterin</strong> mit über <strong>15 Jahren Erfahrung</strong> und mehr als <strong>200 realisierten Projekten.</strong></p>
-<p><br />Professionelles <strong>SEO-Copywriting-Wissen</strong>. Übersetzt in ein <strong>System</strong>, das du selbst mit ChatGPT oder Claude anwenden kannst.</p>
-<p>Seen &amp; Sold ist aus der <strong>Praxis entstanden</strong>: Mein Wissen aus <strong>professionellem SEO-Copywriting, Content-Strategie, Suchintention, Conversion und Website-Texterstellung</strong> steckt in einem strukturierten System aus <strong>erprobten</strong> Prompts, Vorlagen, Checklisten und Workflows.</p>
-<p><br />Die Prompts sind nicht einfach aus einer KI-Ausgabe zusammenkopiert oder willkürlich zusammengesammelt. Sie wurden mit dem Ziel entwickelt, brauchbare, markengerechte und SEO-taugliche Website-Texte zu erstellen – und gleichzeitig typische KI-Floskeln und austauschbare Formulierungen zu vermeiden.</p>
-<p> </p>
-<hr />
-<h2> </h2>
-<h2>Für wen ist Seen &amp; Sold gemacht?</h2>
-<p> </p>
-<p>Für Selbstständige, Freelancer und kleine Unternehmen, die professionelle Website-Texte selbst erstellen möchten, statt ein <strong>komplettes Copywriting-Projekt auszulagern.</strong></p>
-<p>Seen &amp; Sold ist besonders interessant für Menschen, die professionelle Copywriting-Strukturen nutzen möchten, ohne dafür <strong>mehrere hundert Euro oder mehr</strong> für die komplette Texterstellung ihrer Website auszugeben.</p>
-<p>Gleichzeitig richtet sich Seen &amp; Sold bewusst an eine Zielgruppe, die KI nutzen möchte, <strong>ohne daraus ein Technikprojekt zu machen.</strong></p>
-<p> </p>
-<ul>
-<li>Du musst keinen eigenen KI-Agenten bauen.</li>
-<li>Du brauchst kein GitHub.</li>
-<li>Du musst keine API einrichten.</li>
-<li>Du musst keine komplexen Claude-Workflows programmieren.</li>
-<li>Du brauchst kein technisches KI-Wissen.</li>
-<li> </li>
-</ul>
-<p>Du brauchst lediglich ChatGPT oder Claude - und das System führt dich Schritt für Schritt durch den Prozess.</p>
-<p>Das ist <strong>kein technisches KI-System für Entwickler</strong>. Und es ist auch <strong>kein beliebiger Prompt-Baukasten</strong>.</p>
-<p>Es ist professionelles SEO-Copywriting-Wissen als einfach anwendbares DIY-System für deine Website.</p>
-<p> </p>
-<hr />
-<h2> </h2>
-<h2>Was macht Seen &amp; Sold anders?</h2>
-<p><br />Statt dir einfach eine Sammlung einzelner Prompts zu geben, bekommst du ein <strong>komplettes System</strong> für bessere Website-Texte:</p>
-<p><br />• einen persönlichen Master-Block für Unternehmen, Zielgruppe, Positionierung und Tonalität<br />• fertige Prompts für Startseite, Über-mich-Seite, Leistungsseiten, Kontaktseite und FAQ<br />• Prompts für Meta Titles und Meta Descriptions<br />• ein Keyword-Recherche- und Search-Intent-System<br />• SEO-Light-Strukturen für Website und Content<br />• Content- und Blog-Workflows<br />• Anti-KI-, Fakten-, SEO- und Conversion-Checks<br />• ein Publish-Gate zur Qualitätskontrolle<br />• einen konkreten 7-Tage-Umsetzungsplan<br />• zusätzliche Vorlagen, Checklisten und Workflows für die praktische Umsetzung</p>
-<p><br />Die Idee dahinter: KI soll nicht einfach irgendeinen Text schreiben. Sie bekommt den <strong>Kontext, die Strategie, die Struktur und die Regeln</strong>, die professionelle Website-Texte brauchen.</p>
-<p><br />So wird aus<strong> „Schreib mir eine Startseite und "schreibe wie ein Mensch"</strong> ein strukturierter Prozess, mit dem Selbstständige und kleine Unternehmen ihre Website-Texte deutlich gezielter selbst erstellen können.</p>
-<p> </p>
-<hr />
-<h2><br />Warum Seen &amp; Sold für Affiliates interessant ist</h2>
-<p> </p>
-<p>Seen &amp; Sold verbindet mehrere Themen mit hoher Content-Relevanz: <strong>KI, ChatGPT, Claude, Website, SEO, Copywriting und Online-Sichtbarkeit.</strong></p>
-<p> </p>
-<h3>Die Zielgruppe ist klar definiert und über zahlreiche Content-Themen erreichbar:</h3>
-<p> </p>
-<p>Selbstständige, Freelancer, Coaches, Berater, lokale Dienstleister, Beauty- und Wellnessanbieter, Handwerksbetriebe und kleine Unternehmen, die ihre Website selbst erstellen oder überarbeiten möchten.</p>
-<p> </p>
-<h3><strong>Das Produkt bietet Affiliates zahlreiche natürliche Content-Einstiege, zum Beispiel:</strong></h3>
-<p> </p>
-<p>• Warum deine ChatGPT-Texte immer gleich klingen<br />• So schreibst du deine Website mit KI, ohne dass sie nach KI klingt<br />• 5 typische Fehler bei KI-Webseitentexten<br />• ChatGPT für deine Website nutzen – ohne SEO-Studium<br />• Website selbst schreiben oder Copywriting auslagern?<br />• So gibst du ChatGPT den richtigen Kontext für bessere Website-Texte<br />• Wie du KI-Texte persönlicher und markengerechter machst</p>
-<p> </p>
-<p>Damit liefert Seen &amp; Sold nicht nur ein konkretes Produkt, sondern zahlreiche konkrete Content-Anlässe, über die Affiliates das Produkt authentisch empfehlen können.</p>
-<p> </p>
-<p><br />Affiliates erhalten einen direkten Promolink. Zusätzlich können fertige Werbemittel, Content-Ideen und weitere Materialien bereitgestellt werden, damit die Bewerbung mit möglichst wenig Vorbereitungsaufwand starten kann.</p>
-<p> </p>
-<p><span style="color:#ff6600;"><strong>Seen &amp; Sold ist für Menschen, die professionelle Texte wollen, ohne selbst Copywriter zu sein – und KI nutzen wollen, ohne selbst zum KI-Techniker werden zu müssen.</strong></span></p>
+**Vendor's marketplace description:** Seen & Sold ist das SEO-Light-Textsystem für Selbstständige, Freelancer und kleine Unternehmen, die ihre Website mit ChatGPT oder Claude selbst erstellen oder überarbeiten möchten - ohne generische KI-Texte und ohne technisches KI-Know-how. Entwickelt von einer professionellen SEO-Copywriterin mit über 15 Jahren Erfahrung und mehr als 200 realisierten Projekten. Professionelles SEO-Copywriting-Wissen . Übersetzt in ein System , das du selbst mit ChatGPT oder Claude anwenden kannst. Seen & Sold ist aus der Praxis entstanden : Mein Wissen aus professionellem SEO-Copywriting, Content-Strategie, Suchintention, Conversion und Website-Texterstellung steckt in einem strukturierten System aus erprobten Prompts, Vorlagen, Checklisten und Workflows. Die Prompts sind nicht einfach aus einer KI-Ausgabe zusammenkopiert oder willkürlich zusammengesammelt. Sie wurden mit dem Ziel entwickelt, brauchbare, markengerechte und SEO-taugliche Website-Texte zu erstellen – und gleichzeitig typische KI-Floskeln und austauschbare Formulierungen zu vermeiden. Für wen ist Seen & Sold gemacht? Für Selbstständige, Freelancer und kleine Unternehmen, die professionelle Website-Texte selbst erstellen möchten, statt ein komplettes Copywriting-Projekt auszulagern. Seen & Sold ist besonders interessant für Menschen, die professionelle Copywriting-Strukturen nutzen möchten, ohne dafür mehrere hundert Euro oder mehr für die komplette Texterstellung ihrer Website auszugeben. Gleichzeitig richtet sich Seen & Sold bewusst an eine Zielgruppe, die KI nutzen möchte, ohne daraus ein Technikprojekt zu machen. Du musst keinen eigenen KI-Agenten bauen. Du brauchst kein GitHub. Du musst keine API einrichten. Du musst keine komplexen Claude-Workflows programmieren. Du brauchst kein technisches KI-Wissen. Du brauchst lediglich ChatGPT oder Claude - und das System führt dich Schritt für Schritt durch den Prozess. Das ist kein technisches KI-System für Entwickler . Und es ist auch kein beliebiger Prompt-Baukasten . Es ist professionelles SEO-Copywriting-Wissen als einfach anwendbares DIY-System für deine Website. Was macht Seen & Sold anders? Statt dir einfach eine Sammlung einzelner Prompts zu geben, bekommst du ein komplettes System für bessere Website-Texte: • einen persönlichen Master-Block für Unternehmen, Zielgruppe, Positionierung und Tonalität • fertige Prompts für Startseite, Über-mich-Seite, Leistungsseiten, Kontaktseite und FAQ • Prompts für Meta Titles und Meta Descriptions • ein Keyword-Recherche- und Search-Intent-System • SEO-Light-Strukturen für Website und Content • Content- und Blog-Workflows • Anti-KI-, Fakten-, SEO- und Conversion-Checks • ein Publish-Gate zur Qualitätskontrolle • einen konkreten 7-Tage-Umsetzungsplan • zusätzliche Vorlagen, Checklisten und Workflows für die praktische Umsetzung Die Idee dahinter: KI soll nicht einfach irgendeinen Text schreiben. Sie bekommt den Kontext, die Strategie, die Struktur und die Regeln , die professionelle Website-Texte brauchen. So wird aus „Schreib mir eine Startseite und "schreibe wie ein Mensch" ein strukturierter Prozess, mit dem Selbstständige und kleine Unternehmen ihre Website-Texte deutlich gezielter selbst erstellen können. Warum Seen & Sold für Affiliates interessant ist Seen & Sold verbindet mehrere Themen mit hoher Content-Relevanz: KI, ChatGPT, Claude, Website, SEO, Copywriting und Online-Sichtbarkeit. Die Zielgruppe ist klar definiert und über zahlreiche Content-Themen erreichbar: Selbstständige, Freelancer, Coaches, Berater, lokale Dienstleister, Beauty- und Wellnessanbieter, Handwerksbetriebe und kleine Unternehmen, die ihre Website selbst erstellen oder überarbeiten möchten. Das Produkt bietet Affiliates zahlreiche natürliche Content-Einstiege, zum Beispiel: • Warum deine ChatGPT-Texte immer gleich klingen • So schreibst du deine Website mit KI, ohne dass sie nach KI klingt • 5 typische Fehler bei KI-Webseitentexten • ChatGPT für deine Website nutzen – ohne SEO-Studium • Website selbst schreiben oder Copywriting auslagern? • So gibst du ChatGPT den richtigen Kontext für bessere Website-Texte • Wie du KI-Texte persönlicher und markengerechter machst Damit liefert Seen & Sold nicht nur ein konkretes Produkt, sondern zahlreiche konkrete Content-Anlässe, über die Affiliates das Produkt authentisch empfehlen können. Affiliates erhalten einen direkten Promolink. Zusätzlich können fertige Werbemittel, Content-Ideen und weitere Materialien bereitgestellt werden, damit die Bewerbung mit möglichst wenig Vorbereitungsaufwand starten kann. Seen & Sold ist für Menschen, die professionelle Texte wollen, ohne selbst Copywriter zu sein – und KI nutzen wollen, ohne selbst zum KI-Techniker werden zu müssen.
 
 ## 2. Links
 

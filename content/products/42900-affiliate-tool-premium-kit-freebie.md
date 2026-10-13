@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong><span style="background-color:#ffff00;">NEUES FREEBIE</span> - sammle Leads wie am Schnürchen!</strong></h2>
-<p> </p>
-<p><strong>Verschenke</strong> mein eBook oder nutze es als Leadmagneten um deine Leads zu sammeln! Erhalte außerdem <strong>50% Provision</strong> pro Sale, auch bei <strong>Order Bump + Up- &amp; Downsells!</strong></p>
-<p> </p>
-<p><span style="color:#ff0000;"><strong><em>Über 100€</em> Provision beim Upsell Durchlauf möglich!</strong></span></p>
-<p> </p>
-<p><strong>Das erwartet dich:</strong></p>
-<p><strong>✅ 50% Provision</strong> pro Sale, auch bei <strong>Order Bump + Up- &amp; Downsells!</strong></p>
-<p><strong>✅ 2nd-Level-Provisionen,</strong> dank Partner-wirbt-Partner Progamm!</p>
-<p><strong>✅ Wettbewerbe und Events</strong>, mit tollen Preisen, höheren Provisonen etc.!</p>
-<p>✅ <strong>Lifetime-Provision!</strong><em><br /></em></p>
-<p>✅ <strong>fertige Vorlagen und Werbemittel!</strong></p>
-<p>Dieses eBook beinhaltet alles was nötig ist, um ein professionelles Online Business aufzubauen und zu betreiben! Starker Mehrwert und daher sehr beliebt!</p>
-<p> </p>
-<h2><strong>Affiliate Tool - Premium Kit <br /></strong></h2>
-<p>✔️ <strong>Erhalte die besten Tools für dein Affiliate Business, die sich bereits jahrelang bewährt haben! <br /></strong></p>
-<p><strong>✔️ </strong>Professionelle Tools und Helfer, die dir deine Arbeit abnehmen und erleichtern!<strong><br /></strong></p>
-<p><strong>✔️ Die besten Partnerprogramme und Geheim-Tipps der besten Affiliates!<br /></strong></p>
-<p><strong>✔️ </strong>Erfahre, warum Super-Affiliates ohne viel Arbeit mindesten 100K im Jahr verdienen!<strong><br /></strong></p>
-<p><strong>✔️ <span style="color:#339966;">*BONUS</span> -  Komplette Link-Sammlung integriert! Spare massig Zeit und lege sofort los!<br /></strong></p>
-<p> </p>
-<p>Deine Kunden werden dankbar sein, dass Du ihnen diesen kostenlosen Mehrwert an die Hand gibst!</p>
-<p> </p>
-<p style="text-align:center;"><a href="https://kb-om.com/affiliate-support-seite/" target="_blank" rel="noreferrer noopener"><span style="background-color:#ff0000;"><strong>Jetzt Partner werden!</strong></span></a></p>
+**Vendor's marketplace description:** NEUES FREEBIE - sammle Leads wie am Schnürchen! Verschenke mein eBook oder nutze es als Leadmagneten um deine Leads zu sammeln! Erhalte außerdem 50% Provision pro Sale, auch bei Order Bump + Up- & Downsells! Über 100€ Provision beim Upsell Durchlauf möglich! Das erwartet dich: ✅ 50% Provision pro Sale, auch bei Order Bump + Up- & Downsells! ✅ 2nd-Level-Provisionen, dank Partner-wirbt-Partner Progamm! ✅ Wettbewerbe und Events , mit tollen Preisen, höheren Provisonen etc.! ✅ Lifetime-Provision! ✅ fertige Vorlagen und Werbemittel! Dieses eBook beinhaltet alles was nötig ist, um ein professionelles Online Business aufzubauen und zu betreiben! Starker Mehrwert und daher sehr beliebt! Affiliate Tool - Premium Kit ✔️ Erhalte die besten Tools für dein Affiliate Business, die sich bereits jahrelang bewährt haben! ✔️ Professionelle Tools und Helfer, die dir deine Arbeit abnehmen und erleichtern! ✔️ Die besten Partnerprogramme und Geheim-Tipps der besten Affiliates! ✔️ Erfahre, warum Super-Affiliates ohne viel Arbeit mindesten 100K im Jahr verdienen! ✔️ *BONUS - Komplette Link-Sammlung integriert! Spare massig Zeit und lege sofort los! Deine Kunden werden dankbar sein, dass Du ihnen diesen kostenlosen Mehrwert an die Hand gibst! Jetzt Partner werden!
 
 ## 2. Links
 

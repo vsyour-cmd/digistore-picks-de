@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Für wen:</strong> Eltern, die ihren Kindern den Zauber der Wichteltür schenken wollen, ohne sich 24 Tage lang jeden Abend etwas ausdenken zu müssen.</p>
-<p><strong>Was drin ist:</strong> Statt täglicher Inszenierung zieht nur ein kleiner Briefkasten ein, in dem ab und zu Post vom Wichtel landet. Alle Briefe sind fertig geschrieben – herzlich, kindgerecht, in einem einheitlichen weihnachtlichen Design, zum Ausdrucken. Alles lässt sich schon im Oktober vorbereiten.</p>
-<p><strong>Preis:</strong> 12,90 €  |  <strong>Provision:</strong> 40 %</p>
-<p><strong>Warum es sich verkauft:</strong> Niedriger Preis, sofort verständlicher Nutzen und ein Schmerz, den jede Familie mit Wichteltür kennt: der vergessene Tag und die Tränen am Morgen danach. Das macht die Kaufentscheidung leicht.</p>
-<p><strong>Saison:</strong> Die Suche startet Anfang Oktober und gipfelt Anfang bis Mitte November. Bewerbung ab Oktober einplanen.</p>
-<p><strong>Passende Kanäle:</strong> Eltern- und Familienblogs, Accounts rund um Wichteltür, Advent, Weihnachten mit Kindern, Pinterest.</p>
+**Vendor's marketplace description:** Für wen: Eltern, die ihren Kindern den Zauber der Wichteltür schenken wollen, ohne sich 24 Tage lang jeden Abend etwas ausdenken zu müssen. Was drin ist: Statt täglicher Inszenierung zieht nur ein kleiner Briefkasten ein, in dem ab und zu Post vom Wichtel landet. Alle Briefe sind fertig geschrieben – herzlich, kindgerecht, in einem einheitlichen weihnachtlichen Design, zum Ausdrucken. Alles lässt sich schon im Oktober vorbereiten. Preis: 12,90 € | Provision: 40 % Warum es sich verkauft: Niedriger Preis, sofort verständlicher Nutzen und ein Schmerz, den jede Familie mit Wichteltür kennt: der vergessene Tag und die Tränen am Morgen danach. Das macht die Kaufentscheidung leicht. Saison: Die Suche startet Anfang Oktober und gipfelt Anfang bis Mitte November. Bewerbung ab Oktober einplanen. Passende Kanäle: Eltern- und Familienblogs, Accounts rund um Wichteltür, Advent, Weihnachten mit Kindern, Pinterest.
 
 ## 2. Links
 

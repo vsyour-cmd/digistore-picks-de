@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der umfassende Praxis-Guide für alle, die in Spanien leben, überwintern oder regelmäßig Zeit im Land verbringen.</strong></p>
-<p>Der Alltag in Spanien hält immer wieder Situationen bereit, auf die viele Deutsche nicht vorbereitet sind. Ein wichtiger Behördenbrief liegt im Briefkasten, der Strom fällt aus, der Handwerker erscheint nicht, eine unerwartete Abbuchung belastet das Konto oder nach einem Verkehrsunfall stellt sich die Frage, wie es jetzt weitergeht.</p>
-<p><strong>Der große Spanien-Überlebensguide</strong> hilft dir dabei, genau diese Situationen besser zu verstehen und sicher zu meistern. Statt Informationen mühsam aus Foren, sozialen Netzwerken oder unzähligen Webseiten zusammenzusuchen, findest du verständliche Erklärungen, praktische Lösungen und konkrete Handlungsempfehlungen übersichtlich in einem einzigen Nachschlagewerk.</p>
-<p>Du liebst Spanien und hast eine Community, die sich für <strong>Reisen, Mallorca, Auswandern, Camping, Wohnmobil, Ruhestand oder das Leben in Spanien</strong> interessiert?</p>
-<p>Dann werde <strong>Creator &amp; Influencer Partner von Nachrichten.es</strong> und empfehle unsere digitalen Spanien-Ratgeber deiner Community.</p>
-<p>Du erhältst dabei <strong>50 % Provision auf jeden erfolgreichen Verkauf</strong> über deinen persönlichen Affiliate-Link.</p>
+**Vendor's marketplace description:** Der umfassende Praxis-Guide für alle, die in Spanien leben, überwintern oder regelmäßig Zeit im Land verbringen. Der Alltag in Spanien hält immer wieder Situationen bereit, auf die viele Deutsche nicht vorbereitet sind. Ein wichtiger Behördenbrief liegt im Briefkasten, der Strom fällt aus, der Handwerker erscheint nicht, eine unerwartete Abbuchung belastet das Konto oder nach einem Verkehrsunfall stellt sich die Frage, wie es jetzt weitergeht. Der große Spanien-Überlebensguide hilft dir dabei, genau diese Situationen besser zu verstehen und sicher zu meistern. Statt Informationen mühsam aus Foren, sozialen Netzwerken oder unzähligen Webseiten zusammenzusuchen, findest du verständliche Erklärungen, praktische Lösungen und konkrete Handlungsempfehlungen übersichtlich in einem einzigen Nachschlagewerk. Du liebst Spanien und hast eine Community, die sich für Reisen, Mallorca, Auswandern, Camping, Wohnmobil, Ruhestand oder das Leben in Spanien interessiert? Dann werde Creator & Influencer Partner von Nachrichten.es und empfehle unsere digitalen Spanien-Ratgeber deiner Community. Du erhältst dabei 50 % Provision auf jeden erfolgreichen Verkauf über deinen persönlichen Affiliate-Link.
 
 ## 2. Links
 

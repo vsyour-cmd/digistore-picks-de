@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Automatische Signale zur Gold/Silber-Ratio, dem Kursverhaeltnis von Gold zu Silber – direkt per Telegram und im persoenlichen Web-Dashboard.</p>
-<p>Kunden bekommen taeglich zum Tagesschluss, bei Ueber-/Unterschreiten fester Schwellen und bei starken Ausschlaegen eine kurze Nachricht. Dazu: Gold-/Silberpreis in USD, EUR und CHF, historische Einordnung der Ratio (20 Jahre und seit 1968) sowie ein Umschichtungs-Rechner.</p>
-<p>Zielgruppe: Edelmetall-Sparer und Ratio-Trader, die Gold und Silber gegeneinander umschichten und den richtigen Moment nicht verpassen wollen.</p>
-<p>Monatsabo CHF 14, monatlich kuendbar. Digitales Produkt, sofortiger Zugang nach Kauf.</p>
+**Vendor's marketplace description:** Automatische Signale zur Gold/Silber-Ratio, dem Kursverhaeltnis von Gold zu Silber – direkt per Telegram und im persoenlichen Web-Dashboard. Kunden bekommen taeglich zum Tagesschluss, bei Ueber-/Unterschreiten fester Schwellen und bei starken Ausschlaegen eine kurze Nachricht. Dazu: Gold-/Silberpreis in USD, EUR und CHF, historische Einordnung der Ratio (20 Jahre und seit 1968) sowie ein Umschichtungs-Rechner. Zielgruppe: Edelmetall-Sparer und Ratio-Trader, die Gold und Silber gegeneinander umschichten und den richtigen Moment nicht verpassen wollen. Monatsabo CHF 14, monatlich kuendbar. Digitales Produkt, sofortiger Zugang nach Kauf.
 
 ## 2. Links
 

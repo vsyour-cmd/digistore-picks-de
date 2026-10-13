@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>GEMATRIA der kabbalistische Zahlencode</p>
-<p>ist ein Ebook zum Erlernen der gematrischen Chiffre.</p>
-<p> </p>
-<p>Die Gematria ist so alt wie die Sprache selbst und wird insbesondere von den "Eliten" genutzt um Medienartikel zu codieren.</p>
-<p> </p>
-<p>Dieses kleine Workbook wird euren Kunden einen starken Schleier von den Augen nehmen und die Welt mit anderen Augen sehen lassen.</p>
+**Vendor's marketplace description:** GEMATRIA der kabbalistische Zahlencode ist ein Ebook zum Erlernen der gematrischen Chiffre. Die Gematria ist so alt wie die Sprache selbst und wird insbesondere von den "Eliten" genutzt um Medienartikel zu codieren. Dieses kleine Workbook wird euren Kunden einen starken Schleier von den Augen nehmen und die Welt mit anderen Augen sehen lassen.
 
 ## 2. Links
 

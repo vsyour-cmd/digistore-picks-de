@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Reichweite im DACH-Business-Netzwerk aufbauen und als Thought Leader wahrgenommen werden</strong></p>
-<p>Sichtbar zu werden auf XING ist kein Zufall – es ist eine Strategie, die du lernen kannst. Dieses E-Book zeigt dir den Weg vom wenig genutzten Konto zur gefragten Stimme in deiner Branche: wie du mit regelmäßigen Beiträgen und Fachartikeln als Thought Leader wahrgenommen wirst, wie der XING-Algorithmus Engagement bewertet und welche Inhalte im DACH-Business-Kontext wirklich geteilt werden. Du lernst, wie du Gruppen als Bühne nutzt, mit Events und Netzwerk-Momenten Aufmerksamkeit erzeugst und wie du Partnerschaften und Kooperationen über deine Sichtbarkeit gewinnst. XING-Sichtbarkeit öffnet Türen zu Vorträgen, Medien-Anfragen und B2B-Partnerschaften, die andere nie bekommen.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Content-Strategie für XING: welche Formate echte Reichweite bringen</li>
-<li>Beiträge schreiben, die kommentiert, geteilt und gespeichert werden</li>
-<li>Thought Leadership aufbauen: Fachartikel und Meinungs-Content</li>
-<li>Gruppen als Bühne: Sichtbarkeit in der richtigen Community</li>
-<li>XING-Events als Türöffner für Kooperationen und Anfragen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Reichweite im DACH-Business-Netzwerk aufbauen und als Thought Leader wahrgenommen werden Sichtbar zu werden auf XING ist kein Zufall – es ist eine Strategie, die du lernen kannst. Dieses E-Book zeigt dir den Weg vom wenig genutzten Konto zur gefragten Stimme in deiner Branche: wie du mit regelmäßigen Beiträgen und Fachartikeln als Thought Leader wahrgenommen wirst, wie der XING-Algorithmus Engagement bewertet und welche Inhalte im DACH-Business-Kontext wirklich geteilt werden. Du lernst, wie du Gruppen als Bühne nutzt, mit Events und Netzwerk-Momenten Aufmerksamkeit erzeugst und wie du Partnerschaften und Kooperationen über deine Sichtbarkeit gewinnst. XING-Sichtbarkeit öffnet Türen zu Vorträgen, Medien-Anfragen und B2B-Partnerschaften, die andere nie bekommen. Das steckt drin: Content-Strategie für XING: welche Formate echte Reichweite bringen Beiträge schreiben, die kommentiert, geteilt und gespeichert werden Thought Leadership aufbauen: Fachartikel und Meinungs-Content Gruppen als Bühne: Sichtbarkeit in der richtigen Community XING-Events als Türöffner für Kooperationen und Anfragen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

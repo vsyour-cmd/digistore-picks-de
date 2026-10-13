@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du Live-Audio-Rooms nutzt, um Vertrauen aufzubauen und planbar Kunden zu gewinnen</strong></p>
-<p>Als Coach ist deine Stimme dein mächtigstes Werkzeug – und auf Clubhouse steht sie im Mittelpunkt. Dieses E-Book zeigt dir, wie du regelmäßige Live-Rooms als Bühne für deine Expertise nutzt, eine loyale Zuhörerschaft aufbaust und aus echten Gesprächen planbar Erstgespräche und Kunden gewinnst. Du lernst, wie du Clubhouse-Talks strukturierst, die deinen Expertenstatus stärken, ohne dein gesamtes Wissen zu verschenken, wie du über Clubs eine Community aufbaust, die auf jede Session wartet, und wie du den Funnel von der Bühne über den direkten Austausch bis zum Abschluss aufbaust. Authentizität ist hier kein Schlagwort – sie ist der entscheidende Hebel, der auf Clubhouse über Erfolg oder Misserfolg entscheidet.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Room-Konzepte entwickeln, die deine Wunschkunden anziehen</li>
-<li>Expertise zeigen ohne alles zu verraten – die goldene Balance</li>
-<li>Wiederkehrende Talk-Formate für konstante Sichtbarkeit und Bindung</li>
-<li>Moderations-Techniken, die Vertrauen und Autorität ausstrahlen</li>
-<li>Von der Bühne zum Erstgespräch: der Clubhouse-Funnel für Coaches</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du Live-Audio-Rooms nutzt, um Vertrauen aufzubauen und planbar Kunden zu gewinnen Als Coach ist deine Stimme dein mächtigstes Werkzeug – und auf Clubhouse steht sie im Mittelpunkt. Dieses E-Book zeigt dir, wie du regelmäßige Live-Rooms als Bühne für deine Expertise nutzt, eine loyale Zuhörerschaft aufbaust und aus echten Gesprächen planbar Erstgespräche und Kunden gewinnst. Du lernst, wie du Clubhouse-Talks strukturierst, die deinen Expertenstatus stärken, ohne dein gesamtes Wissen zu verschenken, wie du über Clubs eine Community aufbaust, die auf jede Session wartet, und wie du den Funnel von der Bühne über den direkten Austausch bis zum Abschluss aufbaust. Authentizität ist hier kein Schlagwort – sie ist der entscheidende Hebel, der auf Clubhouse über Erfolg oder Misserfolg entscheidet. Das steckt drin: Room-Konzepte entwickeln, die deine Wunschkunden anziehen Expertise zeigen ohne alles zu verraten – die goldene Balance Wiederkehrende Talk-Formate für konstante Sichtbarkeit und Bindung Moderations-Techniken, die Vertrauen und Autorität ausstrahlen Von der Bühne zum Erstgespräch: der Clubhouse-Funnel für Coaches Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>ZUGRIFF FÜR ALLE!</p>
-<p>Jede Person, die ein Arbeitsverhältnis mit Ihnen als Schulgemeinde hat sowie eine E-Mail-Adresse von Ihrer Schule, hat die Zufriffsberechtigung auf die Online-Schulung.</p>
-<p>Schützen wir die Kinder durch Stärken gegen Mobbing und andere Gewalt. </p>
+**Vendor's marketplace description:** ZUGRIFF FÜR ALLE! Jede Person, die ein Arbeitsverhältnis mit Ihnen als Schulgemeinde hat sowie eine E-Mail-Adresse von Ihrer Schule, hat die Zufriffsberechtigung auf die Online-Schulung. Schützen wir die Kinder durch Stärken gegen Mobbing und andere Gewalt.
 
 ## 2. Links
 

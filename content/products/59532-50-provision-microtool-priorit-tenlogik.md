@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Entstehen Prioritäten bei Ihnen durch Logik – oder durch Lautstärke und Historie? Die<br />NAVOK PrioritätenLogik macht das in einer Vorlage sichtbar: Priorität, Zielbeitrag,<br />Kriterien, Ressourcen &amp; Kapazität, Abhängigkeiten und Stabilisierung.</p>
-<p>Das zugrunde liegende Werkzeug stammt aus der Beratungspraxis und wurde dort bereits vielfach erfolgreich eingesetzt.</p>
-<p><strong>Zielgruppe:</strong> Führungskräfte und Teams, die schnell Klarheit über eine konkrete<br />Priorisierungsfrage brauchen, ohne gleich das komplette System einzuführen.</p>
-<p><strong>Für Sie als Affiliate:</strong> 50 % Provision. Ideal als niedrigschwelliger Einstiegspunkt für<br />Zielgruppen, die noch nicht bereit für das 229-€-Playbook sind.</p>
-<p>Digitaler Download, sofort verfügbar, ca. 2 Seiten.</p>
+**Vendor's marketplace description:** Entstehen Prioritäten bei Ihnen durch Logik – oder durch Lautstärke und Historie? Die NAVOK PrioritätenLogik macht das in einer Vorlage sichtbar: Priorität, Zielbeitrag, Kriterien, Ressourcen & Kapazität, Abhängigkeiten und Stabilisierung. Das zugrunde liegende Werkzeug stammt aus der Beratungspraxis und wurde dort bereits vielfach erfolgreich eingesetzt. Zielgruppe: Führungskräfte und Teams, die schnell Klarheit über eine konkrete Priorisierungsfrage brauchen, ohne gleich das komplette System einzuführen. Für Sie als Affiliate: 50 % Provision. Ideal als niedrigschwelliger Einstiegspunkt für Zielgruppen, die noch nicht bereit für das 229-€-Playbook sind. Digitaler Download, sofort verfügbar, ca. 2 Seiten.
 
 ## 2. Links
 

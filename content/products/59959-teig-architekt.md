@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Teig-Architekt: Deine Intuition, perfekt ergänzt</strong></p>
-<p>Backen nach Gefühl ist eine Kunst – doch selbst das beste Gespür freut sich über ein Sicherheitsnetz. Der Teig-Architekt, dein Brot-Hydratationsrechner, ist für alle gedacht, die ihre Teige lieben: vom Anfänger, der Sicherheit sucht, bis zum erfahrenen Bäcker, der seine Intuition präzise untermauern möchte.</p>
-<p>Das macht den Rechner besonders:</p>
-<p><strong>Sicherheit durch Präzision:</strong> Wähle deine Mehle und die Wunsch-Konsistenz – der Rechner liefert dir die exakte Wasserzugabe.</p>
-<p><strong>Der Panik-Button:</strong> Dein Retter in der Not! Wenn der Teig doch mal zu weich geraten ist, zeigt dir der Button sofort, wie du ihn wieder perfekt in Balance bringst.</p>
-<p><strong>Sprach-Notizen:</strong> Halte deine Ideen direkt während des Knetens fest – ganz ohne mehlige Finger über das Mikrofon.</p>
-<p><strong>Rezept-Export:</strong> Speichere deine perfekten Ergebnisse als Bild für dein eigenes Archiv oder zum Teilen mit anderen.</p>
-<p><strong>Anfängerfreundlich:</strong> Klare Schritte führen dich zum perfekten Teig, ohne komplizierte Fachbegriffe.</p>
-<p>Mach Schluss mit dem Rätselraten und backe mit vollem Vertrauen.</p>
-<p>Es gelten unsere Nutzungsbedingungen (einzusehen auf brotmitherz.de/agb)</p>
+**Vendor's marketplace description:** Teig-Architekt: Deine Intuition, perfekt ergänzt Backen nach Gefühl ist eine Kunst – doch selbst das beste Gespür freut sich über ein Sicherheitsnetz. Der Teig-Architekt, dein Brot-Hydratationsrechner, ist für alle gedacht, die ihre Teige lieben: vom Anfänger, der Sicherheit sucht, bis zum erfahrenen Bäcker, der seine Intuition präzise untermauern möchte. Das macht den Rechner besonders: Sicherheit durch Präzision: Wähle deine Mehle und die Wunsch-Konsistenz – der Rechner liefert dir die exakte Wasserzugabe. Der Panik-Button: Dein Retter in der Not! Wenn der Teig doch mal zu weich geraten ist, zeigt dir der Button sofort, wie du ihn wieder perfekt in Balance bringst. Sprach-Notizen: Halte deine Ideen direkt während des Knetens fest – ganz ohne mehlige Finger über das Mikrofon. Rezept-Export: Speichere deine perfekten Ergebnisse als Bild für dein eigenes Archiv oder zum Teilen mit anderen. Anfängerfreundlich: Klare Schritte führen dich zum perfekten Teig, ohne komplizierte Fachbegriffe. Mach Schluss mit dem Rätselraten und backe mit vollem Vertrauen. Es gelten unsere Nutzungsbedingungen (einzusehen auf brotmitherz.de/agb)
 
 ## 2. Links
 

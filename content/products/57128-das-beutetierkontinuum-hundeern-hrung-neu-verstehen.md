@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Viele Hundehalter sind unsicher, welches Futter wirklich zu ihrem Hund passt. Zwischen Trockenfutter, Nassfutter, BARF und unzähligen Meinungen fehlt oft eine verständliche Orientierung.</p>
-<p>„Das Beutetierkontinuum“ vermittelt einen neuen Blick auf Hundeernährung und erklärt die biologischen Zusammenhänge verständlich und praxisnah.</p>
-<p>Ideal für Zielgruppen rund um Hundeernährung, Hundegesundheit und verantwortungsvolle Hundehaltung.</p>
-<p>✔ Hochrelevantes Thema für Hundehalter</p>
-<p>✔ Verständlich geschrieben und praxisnah erklärt</p>
-<p>✔ Professioneller Verkaufsfunnel vorhanden</p>
-<p><strong>✔ 50 % Affiliate-Provision</strong></p>
-<p>Geeignet für Tierheilpraktiker, Hundetrainer, Ernährungsberater, Tierphysiotherapeuten, Hundeschulen und hundeaffine Communities.</p>
+**Vendor's marketplace description:** Viele Hundehalter sind unsicher, welches Futter wirklich zu ihrem Hund passt. Zwischen Trockenfutter, Nassfutter, BARF und unzähligen Meinungen fehlt oft eine verständliche Orientierung. „Das Beutetierkontinuum“ vermittelt einen neuen Blick auf Hundeernährung und erklärt die biologischen Zusammenhänge verständlich und praxisnah. Ideal für Zielgruppen rund um Hundeernährung, Hundegesundheit und verantwortungsvolle Hundehaltung. ✔ Hochrelevantes Thema für Hundehalter ✔ Verständlich geschrieben und praxisnah erklärt ✔ Professioneller Verkaufsfunnel vorhanden ✔ 50 % Affiliate-Provision Geeignet für Tierheilpraktiker, Hundetrainer, Ernährungsberater, Tierphysiotherapeuten, Hundeschulen und hundeaffine Communities.
 
 ## 2. Links
 

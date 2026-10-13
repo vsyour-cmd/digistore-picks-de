@@ -41,71 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div> </div>
-<div>
-<div>
-<h2><strong>Der komplette Marketing-Kurs , um Nischen-Webseiten, Webinar-Marketing und Email-Marketing  zu starten. </strong></h2>
-<h2><strong><span style="background-color:#ffff00;">Du wirst mit 50% lebenslang beteiligt.</span><br /></strong></h2>
-<strong>10 Gründe, warum du den einmaligen Auto-Nischen-Marketer promoten solltest:</strong> <br />
-<ul>
-<li><strong>Mit 50% dauerhafte Beteiligung die höchste Provision im Profi-Internet-Marketing-Bereich</strong></li>
-</ul>
-<ul>
-<li><strong>Du bekommst automatische Anleitungen zum optimalen Bewerben meiner Produkte</strong></li>
-<li>
-<p><strong>Hohe Verkaufsraten in der Geld im Internet verdienen Nische, da es Mehr für weniger Geld gibt<br /></strong></p>
-</li>
-<li>
-<p><strong>Vollautomatische Auszahlung deiner Provision durch Digistore24</strong></p>
-</li>
-<li>
-<p><strong>Direkt-Verkauf ohne großes Blabla und ohne versteckten Salesfunnel<br /></strong></p>
-</li>
-<li><strong>keine überteuerten Produkte und dadurch ~0% Stornoquote</strong></li>
-<li>
-<p><strong>Produkte, die Menschen wirklich helfen und es nicht nur vorgaukeln<br /></strong></p>
-</li>
-<li>
-<p><strong>Lars-Support (Ich helfe Dir, wenn du etwas nicht verstehst)<br /></strong></p>
-</li>
-<li>
-<p><strong>Ausführliche und ständige Conversion Optimierung</strong></p>
-</li>
-<li>
-<p><strong>Regelmäßige Affiliate Wettbewerbe <br />(Preis und Geschenke)</strong></p>
-</li>
-</ul>
-<p><strong>Wichtig: Klicke jetzt unten rechts auf „Affiliate Support-Seite“ und erfahre konkret, wie du loslegen kannst, damit Du noch heute deine ersten Provisionen erhalten kannst!</strong></p>
-</div>
-</div>
-<div><strong>Inhalt + Präsentation des Auto-Nischen-Marketers</strong></div>
-<div><strong>-----------------------------------------------&gt;&gt;&gt;</strong></div>
-<div>
-<p>Sie erwerben hiermit den einzigartigen <strong>Auto-Nischen-Marketer</strong> , mit dem Sie automatisiert Nischen-Marketing und E-Mail-Marketing umsetzen, <strong>um in wenigen Monaten 4-stellige Einnahmen zu fahren</strong>.</p>
-<p>Alle Vorgänge sind mit Strategie-Videos und Schritt-für-Schritt-Anleitungen bestückt.</p>
-<p><strong>Auto-Nischen-Marketer beinhaltet:</strong></p>
-<ol>
-<li>Nischen-Webseiten-Video-Kurs <strong>(250€)</strong></li>
-<li>E-Mail-Marketing-Video-Kurs<strong><strong> (150€)</strong></strong></li>
-<li>Geschenke-Methode Videokurs <strong>(37€)</strong></li>
-<li>Nischen-Shop Videokurs<strong> (299€)<br /></strong></li>
-<li>Automatische Webseiten-Erstellung <strong>(99€)<br /></strong></li>
-<li>Kostenlose SSL-Zertifikate <strong>(199€/Jahr)</strong></li>
-<li>Nischen-Club-Interaktion<strong> (47€/monatlich)</strong></li>
-<li>Zugriff auf mein Marketing-Wissen</li>
-<li>Motivations-Videos für harte Zeiten</li>
-<li>Kostenloses performantes Hosting</li>
-<li>50% Provision Partnerprogramm</li>
-<li>14 Tage Geld-Zurück-Garantie</li>
-<li>24/7 <a>Lars-Support</a> <em>(auch für Fragen vorher)</em></li>
-<li><strong>Bonus</strong>: 2400 Nischen-Ideen</li>
-<li><strong>Bonus</strong>: Bannermaterial</li>
-<li><strong>Bonus</strong>: vorgefertigtes Impressum</li>
-<li><strong>Bonus</strong>: Backlink-Austausch mit mir</li>
-<li><strong>Bonus</strong>: Manuelle Webseiten-Analyse</li>
-<li><strong>Bonus</strong>: Techniken Erfolg ausbauen<strong><br /></strong></li>
-</ol>
-</div>
+**Vendor's marketplace description:** Der komplette Marketing-Kurs , um Nischen-Webseiten, Webinar-Marketing und Email-Marketing zu starten. Du wirst mit 50% lebenslang beteiligt. 10 Gründe, warum du den einmaligen Auto-Nischen-Marketer promoten solltest: Mit 50% dauerhafte Beteiligung die höchste Provision im Profi-Internet-Marketing-Bereich Du bekommst automatische Anleitungen zum optimalen Bewerben meiner Produkte Hohe Verkaufsraten in der Geld im Internet verdienen Nische, da es Mehr für weniger Geld gibt Vollautomatische Auszahlung deiner Provision durch Digistore24 Direkt-Verkauf ohne großes Blabla und ohne versteckten Salesfunnel keine überteuerten Produkte und dadurch ~0% Stornoquote Produkte, die Menschen wirklich helfen und es nicht nur vorgaukeln Lars-Support (Ich helfe Dir, wenn du etwas nicht verstehst) Ausführliche und ständige Conversion Optimierung Regelmäßige Affiliate Wettbewerbe (Preis und Geschenke) Wichtig: Klicke jetzt unten rechts auf „Affiliate Support-Seite“ und erfahre konkret, wie du loslegen kannst, damit Du noch heute deine ersten Provisionen erhalten kannst! Inhalt + Präsentation des Auto-Nischen-Marketers ----------------------------------------------->>> Sie erwerben hiermit den einzigartigen Auto-Nischen-Marketer , mit dem Sie automatisiert Nischen-Marketing und E-Mail-Marketing umsetzen, um in wenigen Monaten 4-stellige Einnahmen zu fahren . Alle Vorgänge sind mit Strategie-Videos und Schritt-für-Schritt-Anleitungen bestückt. Auto-Nischen-Marketer beinhaltet: Nischen-Webseiten-Video-Kurs (250€) E-Mail-Marketing-Video-Kurs (150€) Geschenke-Methode Videokurs (37€) Nischen-Shop Videokurs (299€) Automatische Webseiten-Erstellung (99€) Kostenlose SSL-Zertifikate (199€/Jahr) Nischen-Club-Interaktion (47€/monatlich) Zugriff auf mein Marketing-Wissen Motivations-Videos für harte Zeiten Kostenloses performantes Hosting 50% Provision Partnerprogramm 14 Tage Geld-Zurück-Garantie 24/7 Lars-Support (auch für Fragen vorher) Bonus : 2400 Nischen-Ideen Bonus : Bannermaterial Bonus : vorgefertigtes Impressum Bonus : Backlink-Austausch mit mir Bonus : Manuelle Webseiten-Analyse Bonus : Techniken Erfolg ausbauen
 
 ## 2. Links
 

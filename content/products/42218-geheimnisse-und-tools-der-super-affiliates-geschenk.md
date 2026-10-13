@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Schenke diesen vollwertigen Online Kurs für 0€ und verdiene bis zu 306€ pro Klick / Kunde.</p>
-<p><strong>Geheimnisse &amp; Tools der Super-Affiliates</strong></p>
-<p>Vollwertiger Online Kurs mit mehr als 25 Lektionen voll mit Tipps und Strategien für Affiliates. <strong>Bei genauer Umsetzung sind Umsatzsteigerungen garantiert</strong>.</p>
-<p><span style="background-color:#ffcc00;"><strong>Wie sieht der Funnel aus?</strong></span></p>
-<ul>
-<li>Kostenfreie Mitgliedschaft (kein Abo, keine versteckten Kosten) im Frontend</li>
-<li>7€ Order-Bump (50% Provision)</li>
-<li>47€ Direkt-Upsell 1 (50% Provision)</li>
-<li>197€ Direkt-Upsell 2 (50% Provision)</li>
-<li>27€ Direkt-Upsell 3 (50% Provision)</li>
-<li>1397€ Upsell 4 per E-Mail Kampagne (12% Provision)</li>
-</ul>
-<p><span style="background-color:#ffcc00;"><strong>Mögliche Provision pro Klick / Kunde</strong>:</span></p>
-<ul>
-<li>Insgesamt 306,64€ pro Klick / Kunde möglich</li>
-</ul>
-<p><span style="background-color:#ffcc00;"><strong>Zielgruppe</strong>:</span></p>
-<ul>
-<li>Affiliate Marketing</li>
-<li>Automatisiert Verkaufen</li>
-<li>Verkaufen ohne zu Verkaufen</li>
-</ul>
+**Vendor's marketplace description:** Schenke diesen vollwertigen Online Kurs für 0€ und verdiene bis zu 306€ pro Klick / Kunde. Geheimnisse & Tools der Super-Affiliates Vollwertiger Online Kurs mit mehr als 25 Lektionen voll mit Tipps und Strategien für Affiliates. Bei genauer Umsetzung sind Umsatzsteigerungen garantiert . Wie sieht der Funnel aus? Kostenfreie Mitgliedschaft (kein Abo, keine versteckten Kosten) im Frontend 7€ Order-Bump (50% Provision) 47€ Direkt-Upsell 1 (50% Provision) 197€ Direkt-Upsell 2 (50% Provision) 27€ Direkt-Upsell 3 (50% Provision) 1397€ Upsell 4 per E-Mail Kampagne (12% Provision) Mögliche Provision pro Klick / Kunde : Insgesamt 306,64€ pro Klick / Kunde möglich Zielgruppe : Affiliate Marketing Automatisiert Verkaufen Verkaufen ohne zu Verkaufen
 
 ## 2. Links
 

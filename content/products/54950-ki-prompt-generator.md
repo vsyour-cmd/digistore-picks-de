@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Der intelligente Promptgenerator für perfekte KI-Ergebnisse</h2>
-<p>Viele Menschen nutzen KI-Tools wie ChatGPT oder DeepSeek - doch nur wenige bekommen wirklich <strong>exzellente Ergebnisse</strong>. Der Grund ist fast immer derselbe: <strong>der Prompt</strong>. Wer nicht exakt weiß, <em>WIE</em> man eine Anfrage formuliert, erhält nur mittelmäßige oder ungenaue Antworten. Ein Ergebnis ist immer nur so gut wie der Prompt.</p>
-<p>Genau hier setzt dieser <strong>intelligente Promptgenerator</strong> an.</p>
-<p>Dieses Tool erstellt <strong>jeden beliebigen Prompt für jeden Anwendungsfall</strong> - egal ob für Alltag, Beruf, Marketing, Programmierung, Content-Erstellung, Analyse oder Unternehmensprozesse. Sie müssen <strong>kein Prompt-Experte</strong> sein und keinerlei Vorkenntnisse haben.</p>
-<h3>So funktioniert es:</h3>
-<p>Beschreiben Sie einfach einfach Ihr Problem oder Ziel in normalen Worten. Der Promptgenerator übernimmt den Rest.<br />Die KI stellt Ihnen <strong>gezielte Rückfragen</strong>, um Ihr Anliegen wirklich zu verstehen - genau so, wie es ein erfahrener Experte tun würde. Schritt für Schritt wird Ihr Bedarf präzisiert, bis daraus ein <strong>perfekt strukturierter, optimaler Prompt</strong> entsteht.</p>
-<p><strong>Das Ergebnis:</strong><br />Ein Prompt, der exakt auf Ihr Ziel zugeschnitten ist und <strong>maximale KI-Ergebnisse liefert.</strong></p>
-<h3>Ihr Vorteil:</h3>
-<ul>
-<li>
-<p>Funktioniert für <strong>jeden Anwendungsfall</strong></p>
-</li>
-<li>
-<p>Geeignet für <strong>Einsteiger, Profis, Teams und Unternehmen</strong></p>
-</li>
-<li>
-<p>Spart Zeit, reduziert Fehler und erhöht die Qualität der KI-Antworten drastisch</p>
-</li>
-<li>
-<p>Macht komplexes Prompt-Wissen <strong>überflüssig</strong></p>
-</li>
-</ul>
-<p>Ob privat oder im Business:<br />Dieses Tool denkt für Sie mit, stellt die richtigen Fragen und liefert Ihnen <strong>immer den perfekten Prompt</strong> - ganz ohne Vorwissen.</p>
-<p><strong>Sie erhalten einen speziellen Master-Prompt, mit dem Sie in ChatGPT oder DeepSeek selbst jeden beliebigen anderen Prompt erstellen können - für jeden Zweck und jedes Ziel. </strong></p>
+**Vendor's marketplace description:** Der intelligente Promptgenerator für perfekte KI-Ergebnisse Viele Menschen nutzen KI-Tools wie ChatGPT oder DeepSeek - doch nur wenige bekommen wirklich exzellente Ergebnisse . Der Grund ist fast immer derselbe: der Prompt . Wer nicht exakt weiß, WIE man eine Anfrage formuliert, erhält nur mittelmäßige oder ungenaue Antworten. Ein Ergebnis ist immer nur so gut wie der Prompt. Genau hier setzt dieser intelligente Promptgenerator an. Dieses Tool erstellt jeden beliebigen Prompt für jeden Anwendungsfall - egal ob für Alltag, Beruf, Marketing, Programmierung, Content-Erstellung, Analyse oder Unternehmensprozesse. Sie müssen kein Prompt-Experte sein und keinerlei Vorkenntnisse haben. So funktioniert es: Beschreiben Sie einfach einfach Ihr Problem oder Ziel in normalen Worten. Der Promptgenerator übernimmt den Rest. Die KI stellt Ihnen gezielte Rückfragen , um Ihr Anliegen wirklich zu verstehen - genau so, wie es ein erfahrener Experte tun würde. Schritt für Schritt wird Ihr Bedarf präzisiert, bis daraus ein perfekt strukturierter, optimaler Prompt entsteht. Das Ergebnis: Ein Prompt, der exakt auf Ihr Ziel zugeschnitten ist und maximale KI-Ergebnisse liefert. Ihr Vorteil: Funktioniert für jeden Anwendungsfall Geeignet für Einsteiger, Profis, Teams und Unternehmen Spart Zeit, reduziert Fehler und erhöht die Qualität der KI-Antworten drastisch Macht komplexes Prompt-Wissen überflüssig Ob privat oder im Business: Dieses Tool denkt für Sie mit, stellt die richtigen Fragen und liefert Ihnen immer den perfekten Prompt - ganz ohne Vorwissen. Sie erhalten einen speziellen Master-Prompt, mit dem Sie in ChatGPT oder DeepSeek selbst jeden beliebigen anderen Prompt erstellen können - für jeden Zweck und jedes Ziel.
 
 ## 2. Links
 

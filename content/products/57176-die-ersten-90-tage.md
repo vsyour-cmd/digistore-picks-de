@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Die ersten 90 Tage“</strong></p>
-<p>So findest du den richtigen Partner – Ein 90-Tage-Fahrplan, der dich systematisch von „allein“ zu „gemeinsam mit dem richtigen Menschen“ führt.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Tag-für-Tag-Struktur für die ersten 90 Tage</li>
-<li>Frühwarnzeichen erkennen, bevor du dich verlierst</li>
-<li>Die richtigen Fragen für echte Klarheit</li>
-<li>Tempo bestimmen, ohne zu drängen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Die ersten 90 Tage“ So findest du den richtigen Partner – Ein 90-Tage-Fahrplan, der dich systematisch von „allein“ zu „gemeinsam mit dem richtigen Menschen“ führt. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Tag-für-Tag-Struktur für die ersten 90 Tage Frühwarnzeichen erkennen, bevor du dich verlierst Die richtigen Fragen für echte Klarheit Tempo bestimmen, ohne zu drängen
 
 ## 2. Links
 

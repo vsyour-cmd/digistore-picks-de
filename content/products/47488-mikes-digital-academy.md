@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In diesem Lehrgang werden Ihnen rund 6 Stunden Videomaterial, sowie zahlreiche nützliche Vorlagen und Dateien zur Verfügung gestellt, die sich auf die Erstellung digitaler Produkte und deren Vertrieb über Etsy konzentrieren.</p>
+**Vendor's marketplace description:** In diesem Lehrgang werden Ihnen rund 6 Stunden Videomaterial, sowie zahlreiche nützliche Vorlagen und Dateien zur Verfügung gestellt, die sich auf die Erstellung digitaler Produkte und deren Vertrieb über Etsy konzentrieren.
 
 ## 2. Links
 

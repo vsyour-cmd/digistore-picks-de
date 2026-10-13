@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieser ultrakompakte Videokurs behandelt das Thema Powerchords. Angefangen mit der Definition des Begriffs, über die gängigen Spielweisen, Griffe und Umkehrungen auf allen Saitenkombinationen bis zu farbenfrohen Erweiterungen und Tricks: Ich erkläre dir in 60 Minuten ohne Schnickschnack alles, was ich in 30 Jahren als Gitarrist Wichtiges zum Thema Powerchords gelernt habe und worauf ich auch heute noch immer wieder zurückgreife.<br />Alle gezeigten Powerchord-Varianten findest du auch im ergänzenden PDF, so dass du bei Bedarf jederzeit schnell darauf zurückgreifen kannst.</p>
+**Vendor's marketplace description:** Dieser ultrakompakte Videokurs behandelt das Thema Powerchords. Angefangen mit der Definition des Begriffs, über die gängigen Spielweisen, Griffe und Umkehrungen auf allen Saitenkombinationen bis zu farbenfrohen Erweiterungen und Tricks: Ich erkläre dir in 60 Minuten ohne Schnickschnack alles, was ich in 30 Jahren als Gitarrist Wichtiges zum Thema Powerchords gelernt habe und worauf ich auch heute noch immer wieder zurückgreife. Alle gezeigten Powerchord-Varianten findest du auch im ergänzenden PDF, so dass du bei Bedarf jederzeit schnell darauf zurückgreifen kannst.
 
 ## 2. Links
 

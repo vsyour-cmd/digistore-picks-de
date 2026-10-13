@@ -41,39 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><strong>Berufliche Grundbildung – Mathematik Grundlagen (DACH)</strong></h1>
-<h2>Kurzbeschreibung</h2>
-<p>Der erste strukturierte Online-Lehrgang für mathematische Grundlagen in der beruflichen Grundbildung.<br />Ideal für Lernende, Berufsschüler:innen und Quereinsteiger, die ihre Mathelücken schliessen und sicher durch Prüfungen kommen wollen.</p>
-<h2>Zielgruppe</h2>
-<ul>
-<li>Lernende in der beruflichen Grundbildung</li>
-<li>Berufsschüler:innen</li>
-<li>Quereinsteiger:innen mit Mathelücken</li>
-<li>Eltern</li>
-</ul>
-<h2>Hauptnutzen</h2>
-<ul>
-<li>Mathe endlich verstehen (statt auswendig lernen)</li>
-<li>Wissenslücken gezielt schliessen</li>
-<li>bessere Noten &amp; weniger Prüfungsstress</li>
-<li>mehr Sicherheit im Berufsalltag</li>
-</ul>
-<h2>Was macht das Produkt besonders?</h2>
-<ul>
-<li>Speziell für die berufliche Grundbildung entwickelt</li>
-<li>Praxisnah &amp; verständlich aufgebaut</li>
-<li>Fokus auf prüfungsrelevante Inhalte</li>
-<li>Schnelle Erfolgserlebnisse für Lernende</li>
-</ul>
-<h2>Warum lohnt sich die Bewerbung für Affiliates?</h2>
-<ul>
-<li>grosses, dauerhaftes Marktsegment (Bildung)</li>
-<li>starkes Problem → hohe Kaufmotivation</li>
-<li>emotionaler Trigger (Prüfung, Zukunft, Karriere)</li>
-<li>ideal für Social Media &amp; Content-Marketing</li>
-</ul>
-<h2>Fazit</h2>
-<p>Ein stark nachgefragtes Bildungsprodukt mit klarer Zielgruppe und hoher Relevanz – perfekt für Affiliates, die nachhaltige Umsätze aufbauen wollen.</p>
+**Vendor's marketplace description:** Berufliche Grundbildung – Mathematik Grundlagen (DACH) Kurzbeschreibung Der erste strukturierte Online-Lehrgang für mathematische Grundlagen in der beruflichen Grundbildung. Ideal für Lernende, Berufsschüler:innen und Quereinsteiger, die ihre Mathelücken schliessen und sicher durch Prüfungen kommen wollen. Zielgruppe Lernende in der beruflichen Grundbildung Berufsschüler:innen Quereinsteiger:innen mit Mathelücken Eltern Hauptnutzen Mathe endlich verstehen (statt auswendig lernen) Wissenslücken gezielt schliessen bessere Noten & weniger Prüfungsstress mehr Sicherheit im Berufsalltag Was macht das Produkt besonders? Speziell für die berufliche Grundbildung entwickelt Praxisnah & verständlich aufgebaut Fokus auf prüfungsrelevante Inhalte Schnelle Erfolgserlebnisse für Lernende Warum lohnt sich die Bewerbung für Affiliates? grosses, dauerhaftes Marktsegment (Bildung) starkes Problem → hohe Kaufmotivation emotionaler Trigger (Prüfung, Zukunft, Karriere) ideal für Social Media & Content-Marketing Fazit Ein stark nachgefragtes Bildungsprodukt mit klarer Zielgruppe und hoher Relevanz – perfekt für Affiliates, die nachhaltige Umsätze aufbauen wollen.
 
 ## 2. Links
 

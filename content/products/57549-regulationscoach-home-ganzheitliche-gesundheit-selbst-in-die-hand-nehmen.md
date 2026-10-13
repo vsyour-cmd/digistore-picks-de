@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hole Dir das komplette Wissen und Können für Dich und Deine Familie – werde Dein eigener Gesundheits-Coach.</p>
-<p> </p>
-<p>Die Ausbildung zum RegulationsCoach Home ist ein Programm mit 9 Lern-Modulen und 2 Aufbaumodulen, speziell für alle, die ihre Gesundheit selbst in die Hand nehmen und endlich Klarheit gewinnen möchten. Mit praktischen, leicht verständlichen Trainingsvideos vermittelt die Ausbildung eine komplette, ganzheitliche Methode für optimale Gesundheit.</p>
-<p> </p>
-<p>Im Paket enthalten:</p>
-<p>- 9 Lern-Module + 2 Aufbaumodule im Video- und Audioformat</p>
-<p>- RegulationsCoach Home Testsatz + Polfilter mit 66 ausgewählten Substanzen</p>
-<p>- Arbeitsunterlagen zum Herunterladen</p>
-<p>- Mitgliedschaft in der geschlossenen Telegram-Community</p>
-<p>- Zugang zu monatlichen Live-Frage-und-Antwort-Sessions</p>
-<p>- Bonuskurse: Umgang mit Tensor und Signalverstärkern sowie extra R-MFT Sessions</p>
-<p> </p>
-<p>Ein hochpreisiges Premium-Produkt mit attraktiver Affiliate-Provision – ideal für Zielgruppen aus den Bereichen Gesundheit, Selbstheilung und ganzheitliche Lebensführung.</p>
+**Vendor's marketplace description:** Hole Dir das komplette Wissen und Können für Dich und Deine Familie – werde Dein eigener Gesundheits-Coach. Die Ausbildung zum RegulationsCoach Home ist ein Programm mit 9 Lern-Modulen und 2 Aufbaumodulen, speziell für alle, die ihre Gesundheit selbst in die Hand nehmen und endlich Klarheit gewinnen möchten. Mit praktischen, leicht verständlichen Trainingsvideos vermittelt die Ausbildung eine komplette, ganzheitliche Methode für optimale Gesundheit. Im Paket enthalten: - 9 Lern-Module + 2 Aufbaumodule im Video- und Audioformat - RegulationsCoach Home Testsatz + Polfilter mit 66 ausgewählten Substanzen - Arbeitsunterlagen zum Herunterladen - Mitgliedschaft in der geschlossenen Telegram-Community - Zugang zu monatlichen Live-Frage-und-Antwort-Sessions - Bonuskurse: Umgang mit Tensor und Signalverstärkern sowie extra R-MFT Sessions Ein hochpreisiges Premium-Produkt mit attraktiver Affiliate-Provision – ideal für Zielgruppen aus den Bereichen Gesundheit, Selbstheilung und ganzheitliche Lebensführung.
 
 ## 2. Links
 

@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Jetzt als Affiliate bewerben und 50 % Provision auf alle Sales inklusive Up- &amp; Downsells sichern!</strong></p>
-<p><strong>Produktbeschreibung:</strong><br />Biz Builder Basics ist ein kostenloser Videokurs mit drei freigeschalteten Lektionen (60 Minuten), der Einsteigern zeigt, wie sie ihr eigenes Online-Business aufbauen – ohne Vorkenntnisse und ohne Startkapital.</p>
-<p><strong>Das erwartet die Teilnehmer:</strong></p>
-<ul>
-<li>Die richtigen Tools: Kostenlose Systeme für einen schnellen und professionellen Start</li>
-<li>Affiliate Marketing leicht gemacht: Bewährte Strategien verständlich erklärt</li>
-<li>Die perfekte Nische finden: Erfolgreich in einer lukrativen Nische durchstarten</li>
-</ul>
-<p><strong>Attraktive Vergütung für Affiliates:</strong></p>
-<ul>
-<li>50 % Provision auf alle Sales inklusive Up- &amp; Downsells</li>
-<li>Hohe Conversion-Rate durch kostenloses Einstiegsangebot</li>
-<li>Ideal für Einsteiger und angehende Online-Unternehmer</li>
-</ul>
+**Vendor's marketplace description:** Jetzt als Affiliate bewerben und 50 % Provision auf alle Sales inklusive Up- & Downsells sichern! Produktbeschreibung: Biz Builder Basics ist ein kostenloser Videokurs mit drei freigeschalteten Lektionen (60 Minuten), der Einsteigern zeigt, wie sie ihr eigenes Online-Business aufbauen – ohne Vorkenntnisse und ohne Startkapital. Das erwartet die Teilnehmer: Die richtigen Tools: Kostenlose Systeme für einen schnellen und professionellen Start Affiliate Marketing leicht gemacht: Bewährte Strategien verständlich erklärt Die perfekte Nische finden: Erfolgreich in einer lukrativen Nische durchstarten Attraktive Vergütung für Affiliates: 50 % Provision auf alle Sales inklusive Up- & Downsells Hohe Conversion-Rate durch kostenloses Einstiegsangebot Ideal für Einsteiger und angehende Online-Unternehmer
 
 ## 2. Links
 

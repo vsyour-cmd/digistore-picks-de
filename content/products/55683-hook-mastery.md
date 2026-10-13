@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Erstelle Hooks, die fesseln und einen Kaufdrang auslösen!</strong></h2>
-<p>Erhalte als Affiliate 50% auf dieses Produkt und auf alle Produkte im Funnel. Insgesamt können über 350€ an Provision verdient werden! Am Ende wird sogar noch ein High Ticket Produkt vermarktet, was die Provision auch verdoppeln kann!</p>
-<p>Das bekommt der Kunde in diesem grandiosen Online-Kurs:</p>
-<ul>
-<li>welche <strong>Arten von Hooks</strong> es gibt, und wann du sie gezielt einsetzt, um deine <strong>Chancen auf Viralität deutlich zu steigern</strong>!</li>
-<li>wie du Social Media User aufhören lässt zu scrollen und einen Kaufdrang auslöst! wie du <strong>die richtigen Worte findest,</strong> sodass sie an deinen Lippen hängen!</li>
-<li>wie du weitere Scrollstopper verwendest und einbaust!</li>
-</ul>
-<p><strong>Und als Bonus</strong>: 33 starke Hooks, die du sofort verwenden kannst!</p>
-<p>Und einiges mehr!</p>
-<p>Am besten jetzt noch zugreifen! Du erhältst <strong>sofort</strong> Zugriff, auch wenn es 3 Uhr Nachts ist! Sichere dir daher jetzt das Angebot.</p>
-<p><strong>Nur jetzt für einmalig nur 27€!</strong></p>
-<p> </p>
+**Vendor's marketplace description:** Erstelle Hooks, die fesseln und einen Kaufdrang auslösen! Erhalte als Affiliate 50% auf dieses Produkt und auf alle Produkte im Funnel. Insgesamt können über 350€ an Provision verdient werden! Am Ende wird sogar noch ein High Ticket Produkt vermarktet, was die Provision auch verdoppeln kann! Das bekommt der Kunde in diesem grandiosen Online-Kurs: welche Arten von Hooks es gibt, und wann du sie gezielt einsetzt, um deine Chancen auf Viralität deutlich zu steigern ! wie du Social Media User aufhören lässt zu scrollen und einen Kaufdrang auslöst! wie du die richtigen Worte findest, sodass sie an deinen Lippen hängen! wie du weitere Scrollstopper verwendest und einbaust! Und als Bonus : 33 starke Hooks, die du sofort verwenden kannst! Und einiges mehr! Am besten jetzt noch zugreifen! Du erhältst sofort Zugriff, auch wenn es 3 Uhr Nachts ist! Sichere dir daher jetzt das Angebot. Nur jetzt für einmalig nur 27€!
 
 ## 2. Links
 

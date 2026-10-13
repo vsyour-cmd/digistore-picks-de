@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Englisch-Guide Deluxe – 50% Provision</p>
-<p> </p>
-<p>Ein Premium-Sprachführer, mit dem man schnell Englisch lernt: fertige Sätze für Reise, Job und Alltag, gezielter Wortschatz und vereinfachte Aussprache, ganz ohne Umweg über trockene Grammatik.</p>
-<p> </p>
-<p>46 vollständige Kapitel mit Übungsdialogen und 7-Tage-Plan – ein dichter Inhalt, der deinen Käufer:innen echten Mehrwert vermittelt und dir dadurch eine höhere Conversion bringt.</p>
-<p> </p>
-<p>Ideale Zielgruppe: Reisende, Auswanderer, Berufstätige mit englischsprachigen Kolleg:innen, und alle, die schnell vorankommen wollen, ohne klassisches Schulbuch.</p>
+**Vendor's marketplace description:** Englisch-Guide Deluxe – 50% Provision Ein Premium-Sprachführer, mit dem man schnell Englisch lernt: fertige Sätze für Reise, Job und Alltag, gezielter Wortschatz und vereinfachte Aussprache, ganz ohne Umweg über trockene Grammatik. 46 vollständige Kapitel mit Übungsdialogen und 7-Tage-Plan – ein dichter Inhalt, der deinen Käufer:innen echten Mehrwert vermittelt und dir dadurch eine höhere Conversion bringt. Ideale Zielgruppe: Reisende, Auswanderer, Berufstätige mit englischsprachigen Kolleg:innen, und alle, die schnell vorankommen wollen, ohne klassisches Schulbuch.
 
 ## 2. Links
 

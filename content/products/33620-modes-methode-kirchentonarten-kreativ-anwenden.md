@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <table>
-<tbody>
-<tr>
-<td>
-<div>
-<p>In diesem Kurs für fortgeschrittene Gitarristen lernst du, die sieben Modes (Kirchentonarten) der Durtonleiter als interessante Klangfarben für Improvisation und Songwriting zu nutzen. Neben den theoretischen Grundlagen geht es hier vor allem darum, die unterschiedlichen Sounds der Modes über das Gehör zu erfassen, zu verinnerlichen und gleich praktisch anzuwenden. Der Kurs hilft dir, dein musikalisches Vokabular zu erweitern und somit Songs und Soli farbenfroher zu gestalten, als es dir bisher möglich war.</p>
-<ul>
-<li>40 Videos (insgesamt über 4 Stunden Laufzeit)</li>
-<li>21 Backingtracks (3 Bandbegleitungen zu jedem Mode)</li>
-<li>Begleitheft mit allen Übungen, Griffbildern, Grafiken (PDF)</li>
-<li>inkl. persönlichem Support per Kommentarfunktion und E-Mail</li>
-<li>systematische Erklärungen, die direkt auf die Pentatonik aufbauen, keine Modes-Vorkenntnisse erforderlich</li>
-</ul>
-</div>
-</td>
-</tr>
-</tbody>
-</table>
+**Vendor's marketplace description:** In diesem Kurs für fortgeschrittene Gitarristen lernst du, die sieben Modes (Kirchentonarten) der Durtonleiter als interessante Klangfarben für Improvisation und Songwriting zu nutzen. Neben den theoretischen Grundlagen geht es hier vor allem darum, die unterschiedlichen Sounds der Modes über das Gehör zu erfassen, zu verinnerlichen und gleich praktisch anzuwenden. Der Kurs hilft dir, dein musikalisches Vokabular zu erweitern und somit Songs und Soli farbenfroher zu gestalten, als es dir bisher möglich war. 40 Videos (insgesamt über 4 Stunden Laufzeit) 21 Backingtracks (3 Bandbegleitungen zu jedem Mode) Begleitheft mit allen Übungen, Griffbildern, Grafiken (PDF) inkl. persönlichem Support per Kommentarfunktion und E-Mail systematische Erklärungen, die direkt auf die Pentatonik aufbauen, keine Modes-Vorkenntnisse erforderlich
 
 ## 2. Links
 

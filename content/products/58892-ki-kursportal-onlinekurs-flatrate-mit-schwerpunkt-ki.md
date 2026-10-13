@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Mit dem KI-Kursportal erhalten deine Kontakte Zugriff auf zahlreichen Videokurse mit den Themenschwerpunkten „KI“ und „Online Business“ (Kurs-Flatrate).</strong></p>
-<p><strong><br />Neue Kurse kommen nach und nach dazu und werden zahlenden Abonnenten freigeschaltet. <br /><br />Zielgruppe:<br /></strong>Die Zielgruppe sind Personen, die KI nutzen möchten, um damit im Internet Einnahmen zu erzielen und in Sachen „KI“ auf dem neuesten Stand bleiben wollen.</p>
-<p><strong><br />Lifetime-Provisionen</strong></p>
-<p>Sofern sich deine Kontakte für das <strong>KI-Kursportal</strong> interessieren, können sie ab sofort auf unserer Seite für nur <strong>49 € pro Monat</strong> auf das Portal zugreifen (Abozahlungen). </p>
-<p><strong>Pro Zahlung erhältst Du eine Lifetime-Provision von </strong><strong>40 %!*<br /><br /></strong>*Hinweis: Alle Affiliate-Angebote und Provisionen können sich jederzeit ändern, da wir hier ständig optimieren, um für alle Beteiligten das Beste Ergebnis zu erzielen!</p>
-<p><br /><strong>Zum Inhalt KI Kursportal:</strong><br /><br />Inhaltliche Schwerpunkte:</p>
-<ul>
-<li>KI-Werkzeuge für Text, Bild, Audio und Video</li>
-<li>Wege, mit KI im Internet Geld zu verdienen</li>
-<li>Aufbau eigener Onlineangebote und digitaler Produkte</li>
-<li>Sichtbarkeit, Traffic und Verkauf im Internet</li>
-<li>Praktische Anwendung von KI in unterschiedlichen Themenfeldern</li>
-</ul>
-<p>Hinweis:<br />Wir erweitern das Portal fortlaufend um neue Kurse zu aktuellen Themen. Damit die Inhalte auf dem neuesten Stand bleiben, nehmen wir gelegentlich ältere Kurse heraus, die überholt sind.<br /><br />Bei Fragen: partner@ararembe.com</p>
+**Vendor's marketplace description:** Mit dem KI-Kursportal erhalten deine Kontakte Zugriff auf zahlreichen Videokurse mit den Themenschwerpunkten „KI“ und „Online Business“ (Kurs-Flatrate). Neue Kurse kommen nach und nach dazu und werden zahlenden Abonnenten freigeschaltet. Zielgruppe: Die Zielgruppe sind Personen, die KI nutzen möchten, um damit im Internet Einnahmen zu erzielen und in Sachen „KI“ auf dem neuesten Stand bleiben wollen. Lifetime-Provisionen Sofern sich deine Kontakte für das KI-Kursportal interessieren, können sie ab sofort auf unserer Seite für nur 49 € pro Monat auf das Portal zugreifen (Abozahlungen). Pro Zahlung erhältst Du eine Lifetime-Provision von 40 %!* *Hinweis: Alle Affiliate-Angebote und Provisionen können sich jederzeit ändern, da wir hier ständig optimieren, um für alle Beteiligten das Beste Ergebnis zu erzielen! Zum Inhalt KI Kursportal: Inhaltliche Schwerpunkte: KI-Werkzeuge für Text, Bild, Audio und Video Wege, mit KI im Internet Geld zu verdienen Aufbau eigener Onlineangebote und digitaler Produkte Sichtbarkeit, Traffic und Verkauf im Internet Praktische Anwendung von KI in unterschiedlichen Themenfeldern Hinweis: Wir erweitern das Portal fortlaufend um neue Kurse zu aktuellen Themen. Damit die Inhalte auf dem neuesten Stand bleiben, nehmen wir gelegentlich ältere Kurse heraus, die überholt sind. Bei Fragen: partner@ararembe.com
 
 ## 2. Links
 

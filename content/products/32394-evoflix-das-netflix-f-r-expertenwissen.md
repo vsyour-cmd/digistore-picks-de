@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<h2>EVOFLIX IST...</h2>
-</div>
-</div>
-<div>
-<p>... eine Streamingplattform für Expertenwissen, auf der <strong>hunderte Experteninterviews</strong> gesammelt sind und von den Mitgliedern unbegrenzt angesehen werden können.</p>
-<p>Für Menschen, die an Weiterbildung und Entwicklung interessiert sind, gibt es hier eine große Auswahl an Experten und Themen im kleinen Monatsabo von 19,90 €</p>
-<p>Bewerben kannst du einen <strong>kostenlosen Persönlichkeitstest</strong> oder Evoflix für 1€ für 14 Tage risikofrei testen. Dafür stellen wir Werbemittel zur Verfügung. </p>
-<p>Durch das Testergebnis können die Leute mit sehr gezielt im E-Mailfunnesl angesprochen werden. </p>
-<p>Deine Provision beträgt 30% vom Abo bei einer 1/4-jährlichen Abrechnung. </p>
-<p>Das Bestellformular konvertiert zur Zeit mit 17,9 %</p>
-<p><strong>Vorteile für die Mitglieder sind: </strong></p>
-<ul><li>Überall verfügbar durch <strong>eigenen App</strong></li>
-<li>Keine teuren Kurse für Expertenwissen</li>
-<li>Riesige Auswahl an verschiedenen Themen</li>
-<li>Austausch der Mitglieder im eigenen Chat</li>
-</ul></div>
+**Vendor's marketplace description:** EVOFLIX IST... ... eine Streamingplattform für Expertenwissen, auf der hunderte Experteninterviews gesammelt sind und von den Mitgliedern unbegrenzt angesehen werden können. Für Menschen, die an Weiterbildung und Entwicklung interessiert sind, gibt es hier eine große Auswahl an Experten und Themen im kleinen Monatsabo von 19,90 € Bewerben kannst du einen kostenlosen Persönlichkeitstest oder Evoflix für 1€ für 14 Tage risikofrei testen. Dafür stellen wir Werbemittel zur Verfügung. Durch das Testergebnis können die Leute mit sehr gezielt im E-Mailfunnesl angesprochen werden. Deine Provision beträgt 30% vom Abo bei einer 1/4-jährlichen Abrechnung. Das Bestellformular konvertiert zur Zeit mit 17,9 % Vorteile für die Mitglieder sind: Überall verfügbar durch eigenen App Keine teuren Kurse für Expertenwissen Riesige Auswahl an verschiedenen Themen Austausch der Mitglieder im eigenen Chat
 
 ## 2. Links
 

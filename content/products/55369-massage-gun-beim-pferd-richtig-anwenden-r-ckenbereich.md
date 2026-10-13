@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Rückenverspannungen lösen und die Tragkraft des Pferdes verbessern.</strong></h3>
-<p> </p>
-<p><strong>Präzise Massage-Gun-Anwendung für Rücken &amp; Sattelbereich</strong></p>
-<ul>
-<li>Klare Reihenfolge und sofort umsetzbare Anleitung<br />Ideal bei Verspannungen, Sattelproblemen und Taktunreinheiten</li>
-<li>Perfekt für Trainer &amp; Pferdebesitzer</li>
-<li>Unterstützt Losgelassenheit, Schwung und Stabilität</li>
-</ul>
-<p><strong>50 % Provision auf den Kurs + 70 % auf den Komplettkurs-Upsell.</strong></p>
+**Vendor's marketplace description:** Rückenverspannungen lösen und die Tragkraft des Pferdes verbessern. Präzise Massage-Gun-Anwendung für Rücken & Sattelbereich Klare Reihenfolge und sofort umsetzbare Anleitung Ideal bei Verspannungen, Sattelproblemen und Taktunreinheiten Perfekt für Trainer & Pferdebesitzer Unterstützt Losgelassenheit, Schwung und Stabilität 50 % Provision auf den Kurs + 70 % auf den Komplettkurs-Upsell.
 
 ## 2. Links
 

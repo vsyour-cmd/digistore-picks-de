@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der komplette Leitfaden zum Führerschein Klasse B / BF17 als PDF - 5-Phasen-Methode, Kostenwissen, Bedienelemente-Checkliste, Fristen und Behördengänge, Umgang mit Prüfungsangst. Plus Bonus: der Fahrschul-Spickzettel. Sofort nach dem Kauf zum Download.</p>
+**Vendor's marketplace description:** Der komplette Leitfaden zum Führerschein Klasse B / BF17 als PDF - 5-Phasen-Methode, Kostenwissen, Bedienelemente-Checkliste, Fristen und Behördengänge, Umgang mit Prüfungsangst. Plus Bonus: der Fahrschul-Spickzettel. Sofort nach dem Kauf zum Download.
 
 ## 2. Links
 

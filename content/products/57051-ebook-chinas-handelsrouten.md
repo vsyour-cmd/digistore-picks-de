@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses fundierte Sachbuch beleuchtet Chinas Aufstieg von der historischen Seidenstraße bis zur modernen Belt-and-Road-Initiative und trifft damit ein hochaktuelles Thema mit großer wirtschaftlicher und geopolitischer Relevanz.</p>
-<p>Es spricht Leser an, die globale Machtverschiebungen, internationale Handelsstrukturen und die Zukunft der Weltwirtschaft verstehen möchten.</p>
-<p>Die Kombination aus historischer Analyse, aktuellen Entwicklungen, Fallstudien und wirtschaftlichen Zusammenhängen schafft einen klaren Mehrwert und eine starke Kaufmotivation für wissensorientierte Zielgruppen.</p>
-<p>Ein attraktives Informationsprodukt mit breiter Zielgruppe und hoher Vermarktbarkeit im Bereich Wirtschaft, Politik und internationale Beziehungen.</p>
+**Vendor's marketplace description:** Dieses fundierte Sachbuch beleuchtet Chinas Aufstieg von der historischen Seidenstraße bis zur modernen Belt-and-Road-Initiative und trifft damit ein hochaktuelles Thema mit großer wirtschaftlicher und geopolitischer Relevanz. Es spricht Leser an, die globale Machtverschiebungen, internationale Handelsstrukturen und die Zukunft der Weltwirtschaft verstehen möchten. Die Kombination aus historischer Analyse, aktuellen Entwicklungen, Fallstudien und wirtschaftlichen Zusammenhängen schafft einen klaren Mehrwert und eine starke Kaufmotivation für wissensorientierte Zielgruppen. Ein attraktives Informationsprodukt mit breiter Zielgruppe und hoher Vermarktbarkeit im Bereich Wirtschaft, Politik und internationale Beziehungen.
 
 ## 2. Links
 

@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>StereoTrader MT4</strong> - hochprofessionelle Lösung für den IntradayHandel von CFDs und Forex (MetaTrader basiert)</p>
-<p>Zur <em>Word of Trading</em> in Frankfurt in 2016 zum ersten Mal der Öffentlichkeit vorgestellt, gewinnt der StereoTrader als AddTop für den MetaTrader zunehmend an Beliebtheit. </p>
-<p>Der StereoTrader wurde entwickelt von Dirk Hilger mit dem Ziel, die professionellste Plattform für den Intradayhandel zu schaffen und als einzige Plattform den Vorteil von CFDs wirklich zu nutzen.</p>
-<p><strong>Public Relations, Testimonials etc.</strong></p>
-<ul><li>Bekannte Händler wie z. B. auch Thorsten Helbig sind inzwischen auf den StereoTrader eingeschworen und vertreibt den StereoTrader z. B. in einer eigenen Edition und eigenen Add-Ons.<br /><br /></li>
-<li>Klaren Zuspruch gibt es ausserdem von von weiteren Bekanntheiten wie Michael Voigt, Giovanni Cicivelli, Oliver Schwab, Oliver Najjar oder auch Thomas Bopp, der die Plattform z. B. im "<em>Traders</em>" vorstellt.<br /><br /></li>
-<li>Der StereoTrader ist offzielles Handelsinstrument der <em>Inveus Trading Awards 2017</em> - der Weltmeisterschaft für Forex und CFD Handel.<br /><br /></li>
-</ul><p><strong>Live-Trading / Promotion</strong></p>
-<ul><li>Dirk Hilger postet fast täglich in diversen Facebook-Gruppen mit einer Reichweite von &gt;10.000 Mitlesern Setups für den DAX oder Dow und handelt diese en Detail mit allen Besonderheiten des StereoTraders unter kritischer Beobachtung vor.<br /><br /></li>
-<li>1-2x monatlich werden Live-Trading-Webinare von Dirk Hilger für JFD Brokers gehalten.</li>
-</ul><p><br /><strong>Provisionen</strong> beziehen sich auf Einmalkäufe, Upsells als auch auf Abos = dauerhafte Einnahmen für Affiliates. Die Kunden werden dabei persönlich betreut und nicht nur beliefert, womit eine Nachhaltigkeit zu erwarten ist.</p>
-<p>(Bei Interesse an weiterführenden Kooperationen benutzen Sie bitte das Kontaktformular.)</p>
+**Vendor's marketplace description:** StereoTrader MT4 - hochprofessionelle Lösung für den IntradayHandel von CFDs und Forex (MetaTrader basiert) Zur Word of Trading in Frankfurt in 2016 zum ersten Mal der Öffentlichkeit vorgestellt, gewinnt der StereoTrader als AddTop für den MetaTrader zunehmend an Beliebtheit. Der StereoTrader wurde entwickelt von Dirk Hilger mit dem Ziel, die professionellste Plattform für den Intradayhandel zu schaffen und als einzige Plattform den Vorteil von CFDs wirklich zu nutzen. Public Relations, Testimonials etc. Bekannte Händler wie z. B. auch Thorsten Helbig sind inzwischen auf den StereoTrader eingeschworen und vertreibt den StereoTrader z. B. in einer eigenen Edition und eigenen Add-Ons. Klaren Zuspruch gibt es ausserdem von von weiteren Bekanntheiten wie Michael Voigt, Giovanni Cicivelli, Oliver Schwab, Oliver Najjar oder auch Thomas Bopp, der die Plattform z. B. im " Traders " vorstellt. Der StereoTrader ist offzielles Handelsinstrument der Inveus Trading Awards 2017 - der Weltmeisterschaft für Forex und CFD Handel. Live-Trading / Promotion Dirk Hilger postet fast täglich in diversen Facebook-Gruppen mit einer Reichweite von >10.000 Mitlesern Setups für den DAX oder Dow und handelt diese en Detail mit allen Besonderheiten des StereoTraders unter kritischer Beobachtung vor. 1-2x monatlich werden Live-Trading-Webinare von Dirk Hilger für JFD Brokers gehalten. Provisionen beziehen sich auf Einmalkäufe, Upsells als auch auf Abos = dauerhafte Einnahmen für Affiliates. Die Kunden werden dabei persönlich betreut und nicht nur beliefert, womit eine Nachhaltigkeit zu erwarten ist. (Bei Interesse an weiterführenden Kooperationen benutzen Sie bitte das Kontaktformular.)
 
 ## 2. Links
 

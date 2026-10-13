@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Hochpreis-Coaching“</strong></p>
-<p>Premium-Klienten gewinnen und hochwertige Angebote abschließen – Premium-Angebote leben von Vertrauen und Substanz. Positionierung, hochwertige Angebote, Premium-Klienten und überzeugende Gespräche ohne Manipulation.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Was Premium-Angebote wirklich ausmacht</li>
-<li>Dich glaubwürdig im Hochpreis-Segment positionieren</li>
-<li>Premium-Klienten finden und ohne Druck überzeugen</li>
-<li>Ergebnisse ermöglichen und seriös abrechnen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Hochpreis-Coaching“ Premium-Klienten gewinnen und hochwertige Angebote abschließen – Premium-Angebote leben von Vertrauen und Substanz. Positionierung, hochwertige Angebote, Premium-Klienten und überzeugende Gespräche ohne Manipulation. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Was Premium-Angebote wirklich ausmacht Dich glaubwürdig im Hochpreis-Segment positionieren Premium-Klienten finden und ohne Druck überzeugen Ergebnisse ermöglichen und seriös abrechnen
 
 ## 2. Links
 

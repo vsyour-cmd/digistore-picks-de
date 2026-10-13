@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Du bekommst 50% Provision!</h2>
-<h3>Infos zum Kurs:</h3>
-<p><strong>Formate:</strong></p>
-<ul>
-<li>Bearbeitbares Workbook</li>
-<li>Audio-Dateien voller Übungsanleitungen</li>
-</ul>
-<p><strong>Inhalte:</strong></p>
-<ul>
-<li>Deutlicher sprechen, ohne zu nuschen</li>
-<li>Verhaspeln vermeiden</li>
-<li>Endsilben klar aussprechen</li>
-<li>Insgesamt: deutlich, klar und verständlich sprechen und dadurch sicher und kompetent wirken</li>
-</ul>
-<p><strong>Zielgruppe:</strong></p>
-<ul>
-<li>Alle, die täglich viel sprechen</li>
-<li>Menschen, die beruflich oder privat Situationen erleben, in denen sie nicht gut verstanden werden</li>
-<li>Personen, die auf eine deutliche Aussprache angewiesen sind (auch Berufsgruppen wie Telefonservice-Mitarbeitende und Altenpfleger*innen)</li>
-</ul>
+**Vendor's marketplace description:** Du bekommst 50% Provision! Infos zum Kurs: Formate: Bearbeitbares Workbook Audio-Dateien voller Übungsanleitungen Inhalte: Deutlicher sprechen, ohne zu nuschen Verhaspeln vermeiden Endsilben klar aussprechen Insgesamt: deutlich, klar und verständlich sprechen und dadurch sicher und kompetent wirken Zielgruppe: Alle, die täglich viel sprechen Menschen, die beruflich oder privat Situationen erleben, in denen sie nicht gut verstanden werden Personen, die auf eine deutliche Aussprache angewiesen sind (auch Berufsgruppen wie Telefonservice-Mitarbeitende und Altenpfleger*innen)
 
 ## 2. Links
 

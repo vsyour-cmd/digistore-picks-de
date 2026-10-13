@@ -41,37 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses Produkt hilft Menschen nach einer Trennung, emotionale Überforderung in <strong>7 Tagen</strong> spürbar zu reduzieren – mit einem klaren, leicht umsetzbaren <strong>PDF-Plan</strong> (ohne Therapie-Gerede, ohne Druck). Ideal für deine Community, wenn sie unter Herzschmerz, Grübeln, Kontakt-Drang und innerer Unruhe leidet.</p>
-<p><strong>Was Käufer bekommen:</strong></p>
-<ul>
-<li>
-<p>7-Tage Schritt-für-Schritt Reset (PDF)</p>
-</li>
-<li>
-<p>tägliche Mini-Übungen (einfach, alltagstauglich)</p>
-</li>
-<li>
-<p>Fokus: Ruhe im Kopf, weniger Trigger, wieder Kontrolle</p>
-</li>
-</ul>
-<p><strong>Für wen geeignet:</strong></p>
-<ul>
-<li>
-<p>frisch getrennt / On-Off / emotional abhängig</p>
-</li>
-<li>
-<p>Menschen, die sofort etwas Konkretes brauchen (statt nur Motivation)</p>
-</li>
-</ul>
-<p><strong>Preis &amp; Provision:</strong></p>
-<ul>
-<li>
-<p>Preis: <strong>49€</strong></p>
-</li>
-<li>
-<p>Affiliate-Provision: <strong>50%</strong></p>
-</li>
-</ul>
+**Vendor's marketplace description:** Dieses Produkt hilft Menschen nach einer Trennung, emotionale Überforderung in 7 Tagen spürbar zu reduzieren – mit einem klaren, leicht umsetzbaren PDF-Plan (ohne Therapie-Gerede, ohne Druck). Ideal für deine Community, wenn sie unter Herzschmerz, Grübeln, Kontakt-Drang und innerer Unruhe leidet. Was Käufer bekommen: 7-Tage Schritt-für-Schritt Reset (PDF) tägliche Mini-Übungen (einfach, alltagstauglich) Fokus: Ruhe im Kopf, weniger Trigger, wieder Kontrolle Für wen geeignet: frisch getrennt / On-Off / emotional abhängig Menschen, die sofort etwas Konkretes brauchen (statt nur Motivation) Preis & Provision: Preis: 49€ Affiliate-Provision: 50%
 
 ## 2. Links
 

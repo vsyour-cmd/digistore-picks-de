@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><strong>⭐ Das #1 Gehalt Management-Produkt in Deutschland! | Funnel + Upsells</strong></h1>
-<h2>Konvertierende Email-Vorlagen</h2>
-<div> </div>
-<div><strong>Gehalt-Management mit diesem System ist gerade extrem heiß! Sichere dir jetzt deinen Teil von diesem revolutionären Modell für "Angestellte, ohne Plan für ihr Geld". Bewirb das GehaltCockpit System mit den psychologischen Trigger-Email-Vorlagen und verdiene schnelle Provisionen!</strong></div>
-<div>
-<div> </div>
-</div>
-<p><strong>✔︎</strong> Revolutionäres Produkt in einem Evergreen-Markt!</p>
-<p><strong><strong>✔︎ </strong></strong>Erstellt von erfahrenen Digistore-Vendoren!</p>
-<p><strong><strong>✔︎ </strong></strong>Aussergewöhnlich schnelle Provision!</p>
-<p><strong><strong>✔︎ </strong></strong>Hohe Conversion auf Frontend + Upsells!</p>
-<p><strong><strong>✔︎ </strong></strong>Top Support für Affiliates</p>
-<p> </p>
-<p><em><strong>Klicke jetzt auf den Button um zu den Werbemitteln zu gelangen!</strong></em></p>
-<p><a href="https://cashcockpit.de/gehaltcockpit-system/affiliate-support-seite/" target="_blank" rel="noreferrer noopener"><img src="https://cashcockpit.de/wp-content/uploads/2026/04/BUTTON-WERBEMITTEL-Digistore24.png" alt="WERBEMITTEL" width="222" height="49" /></a></p>
-<p> </p>
-<p>Bei Fragen schreibe uns eine E-Mail an <a href="mailto:team@cashcockpit.de">team@cashcockpit.de</a> </p>
+**Vendor's marketplace description:** ⭐ Das #1 Gehalt Management-Produkt in Deutschland! | Funnel + Upsells Konvertierende Email-Vorlagen Gehalt-Management mit diesem System ist gerade extrem heiß! Sichere dir jetzt deinen Teil von diesem revolutionären Modell für "Angestellte, ohne Plan für ihr Geld". Bewirb das GehaltCockpit System mit den psychologischen Trigger-Email-Vorlagen und verdiene schnelle Provisionen! ✔︎ Revolutionäres Produkt in einem Evergreen-Markt! ✔︎ Erstellt von erfahrenen Digistore-Vendoren! ✔︎ Aussergewöhnlich schnelle Provision! ✔︎ Hohe Conversion auf Frontend + Upsells! ✔︎ Top Support für Affiliates Klicke jetzt auf den Button um zu den Werbemitteln zu gelangen! Bei Fragen schreibe uns eine E-Mail an team@cashcockpit.de
 
 ## 2. Links
 

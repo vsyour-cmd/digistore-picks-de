@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>88 schnelle, gesunde &amp; leckere Rezepte</strong> für Frühstück, Mittagessen, Abendessen und Snacks</h2>
-<ul><li><strong>Grundzutaten einer vollwertigen veganen Ernährung, </strong>die zu Zuhause haben solltest</li>
-<li><strong>Essenspläne über 8 Wochen</strong> einfach im Alltag umzusetzen
-<ul><li>Fokus: Unter 1500 Kalorien</li>
-<li>Fokus: Fitnessrezepte mit viel Protein</li>
-<li>Fokus: Zuckerfreie Rezepte</li>
-<li>Fokus: Glutenfreie Rezepte</li>
-<li>Fokus: einfache und schnelle Rezepte</li>
-<li>Fokus: grüne Zutaten und High Energy</li>
-<li>Fokus: Gerichte mit wenig Zutaten</li>
-<li>Fokus: Verwöhngerichte</li>
-</ul></li>
-</ul><p>Bonus 1: <strong>8 Wochen Mahlzeitenplan</strong> als Pdf + <strong>Mahlzeitenplaner Vorlage als beschreibbares Pdf</strong> - für deine eigenen kreativen Pläne</p>
-<p>Bonus 2 : <strong>Die vegane Ernährungspyramide und die tägl. 12</strong> als Pdf zum Ausdrucken</p>
-<div>&gt; Als attraktiven Upsell gibt es noch zwei weitere Produkte dazu. Melde dich auch hierfür als Affiliate an.  </div>
-<div> </div>
-<h3>Um dieses Produkt zu bewerben, schreibe bitte eine Nachricht an <a href="mailto:melanie@vegaliferocks.de">melanie@vegaliferocks.de</a> mit folgenden Angaben: </h3>
-<p>- Deine primäre Seite / Plattform, wo du das Produkt bewerben wirst</p>
-<p>- Wie würdest du deine Zielgruppe beschreben?</p>
-<p>- Wie hoch ist deine monatliche Reichweite?</p>
-<p>Vielen Dank</p>
+**Vendor's marketplace description:** 88 schnelle, gesunde & leckere Rezepte für Frühstück, Mittagessen, Abendessen und Snacks Grundzutaten einer vollwertigen veganen Ernährung, die zu Zuhause haben solltest Essenspläne über 8 Wochen einfach im Alltag umzusetzen Fokus: Unter 1500 Kalorien Fokus: Fitnessrezepte mit viel Protein Fokus: Zuckerfreie Rezepte Fokus: Glutenfreie Rezepte Fokus: einfache und schnelle Rezepte Fokus: grüne Zutaten und High Energy Fokus: Gerichte mit wenig Zutaten Fokus: Verwöhngerichte Bonus 1: 8 Wochen Mahlzeitenplan als Pdf + Mahlzeitenplaner Vorlage als beschreibbares Pdf - für deine eigenen kreativen Pläne Bonus 2 : Die vegane Ernährungspyramide und die tägl. 12 als Pdf zum Ausdrucken > Als attraktiven Upsell gibt es noch zwei weitere Produkte dazu. Melde dich auch hierfür als Affiliate an. Um dieses Produkt zu bewerben, schreibe bitte eine Nachricht an melanie@vegaliferocks.de mit folgenden Angaben: - Deine primäre Seite / Plattform, wo du das Produkt bewerben wirst - Wie würdest du deine Zielgruppe beschreben? - Wie hoch ist deine monatliche Reichweite? Vielen Dank
 
 ## 2. Links
 

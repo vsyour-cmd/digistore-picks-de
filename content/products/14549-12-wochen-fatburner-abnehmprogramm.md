@@ -41,38 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><span style="color:#000000;">Deine Schritt für Schritt Anleitung, um erfolgreich, gesund und dauerhaft abzunehmen.</span></h4>
-<h5><strong><span style="color:#cc99ff;">(Perfekt für Anfänger)</span></strong></h5>
-<ul><li><span style="color:#000000;">84 FULL-HD Videos</span></li>
-<li><span style="color:#000000;"><span style="color:#000000;">12 Wochen-Module</span></span><span style="color:#000000;"><br /></span></li>
-<li><span style="color:#000000;">12 Monate Zugang </span></li>
-<li><span style="color:#000000;">30 Tage Rückgaberecht<br /></span></li>
-<li><span style="color:#000000;">Interaktiver Rezepteplaner<br /></span></li>
-<li><span style="color:#000000;">Mobil auf allen Geräten nutzbar<br /></span></li>
-<li><span style="color:#000000;">Sofortiger Zugang<br /></span></li>
-<li><span style="color:#000000;">Zusätzliche Downloads</span><em><br /></em></li>
-<li><span style="color:#000000;">Zugang zur Fatburner Community</span></li>
-</ul><h4><span style="color:#cc99ff;"><br /><strong>Du bekommst:</strong></span></h4>
-<ul><li>Über 120 Abnehm-Rezepte</li>
-<li>36 Fatburner Workouts</li>
-<li>12 Ernährungsvideos</li>
-<li>12 Kochvideos</li>
-<li>12 Trainingsvideos</li>
-<li>12 Übungsvideos</li>
-<li>12 Entspannungsaudios</li>
-</ul><p>Und jede Menge Motivation von Anna! Deinem neuen Abnehmcoach :)</p>
-<h4><strong><br /><span style="color:#cc99ff;">Bonusmaterial:</span></strong></h4>
-<ul><li>Die Starter-Einkaufsliste</li>
-<li>Das Ernährungs-Booklet</li>
-<li>Der Danach-Guide</li>
-</ul><p> </p>
-<p>Preismodell:</p>
-<p>89,00 Euro einmalig, Zugangsdauer 12 Monate, danach 9,90 Euro als Abo, monatlich kündbar</p>
-<p><br />oder</p>
-<p><br />9,90 Euro/Monat, Mindestlaufzeit 12 Monate, danach monatlich kündbar</p>
-<h4><strong> </strong></h4>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Deine Schritt für Schritt Anleitung, um erfolgreich, gesund und dauerhaft abzunehmen. (Perfekt für Anfänger) 84 FULL-HD Videos 12 Wochen-Module 12 Monate Zugang 30 Tage Rückgaberecht Interaktiver Rezepteplaner Mobil auf allen Geräten nutzbar Sofortiger Zugang Zusätzliche Downloads Zugang zur Fatburner Community Du bekommst: Über 120 Abnehm-Rezepte 36 Fatburner Workouts 12 Ernährungsvideos 12 Kochvideos 12 Trainingsvideos 12 Übungsvideos 12 Entspannungsaudios Und jede Menge Motivation von Anna! Deinem neuen Abnehmcoach :) Bonusmaterial: Die Starter-Einkaufsliste Das Ernährungs-Booklet Der Danach-Guide Preismodell: 89,00 Euro einmalig, Zugangsdauer 12 Monate, danach 9,90 Euro als Abo, monatlich kündbar oder 9,90 Euro/Monat, Mindestlaufzeit 12 Monate, danach monatlich kündbar
 
 ## 2. Links
 

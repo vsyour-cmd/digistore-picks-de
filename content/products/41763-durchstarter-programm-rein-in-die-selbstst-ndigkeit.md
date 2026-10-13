@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>WOW, das gab es noch nie. Für gerade mal 79 Euro gibt es ein pickepackevolles Programm um erfolgreich in die Selbstständigkeit zu starten. Das Programm hat es in sich. <strong>SATTE 20 Prozent Provision für dich.</strong> </p>
-<p>✅ <strong>Sofort umsetzbarer Gründerkurs</strong> - In meinem Gründerkurs erkläre ich dir alles, was du für deine Gründung brauchst. Die richtige Rechtsform, der passende Aufbau und das perfekte Marketing. (Wert 499.00 Euro)</p>
-<p>✅ <strong>Ganz konkrete Anleitung</strong> - Mit meiner Anleitung gebe ich dir eine perfekte Checkliste an die Hand, welchen Punkt du wann machen solltest. (Wert 89.00 Euro)</p>
-<p>✅ <strong>Inhaltsstarke Ebooks </strong>- Auf über hundert Seiten und in mehreren Ebooks kriegst du mein komplettes Wissen zu Finanzierung, Ideenentwicklung und Kundengewinnung. (Wert 79.00 Euro)</p>
-<p>✅ <strong>Vorlagen für die direkte Umsetzung</strong> - Du bekommst mehrere Vorlagen mit denen du sofort loslegen kannst.</p>
-<ul>
-<li>Du bekommst eine Vorlage für den Businessplan, in der du genau erkennst, wo was einzutragen ist.</li>
-<li>Du bekommst eine Vorlage für die komplette Finanzkalkulation deines Unternehmens, inklusive einer Videoanleitung, wie du alles ausfüllen musst.</li>
-</ul>
-<p> (Wert 579.00 Euro)</p>
-<p>✅ <strong>Steuern im Griff</strong> - Professor Christoph Juhn gibt dir die wichtigsten Infos zum Thema Steuern in seinem Kurs (Wert 299.00 Euro)</p>
-<p>✅ <strong>Exklusiver Business Plan Kurs -</strong> Holger Grünhagen erklärt, wie du den perfekten Business Plan schreibst</p>
-<p>✅ <strong>Interner Mitgliederbereich mit Sofortzugriff</strong> - Du kannst auf alle Inhalte sofort zugreifen und gleich in die Umsetzung kommen.  </p>
-<p>...und weitere Inhalte.</p>
-<p><strong>DAS BESTE: Der Käufer kann ein Zertifikat erwerben und hat so einen Nachweis für Banken oder die Arbeitsagentur. </strong></p>
-<p> </p>
+**Vendor's marketplace description:** WOW, das gab es noch nie. Für gerade mal 79 Euro gibt es ein pickepackevolles Programm um erfolgreich in die Selbstständigkeit zu starten. Das Programm hat es in sich. SATTE 20 Prozent Provision für dich. ✅ Sofort umsetzbarer Gründerkurs - In meinem Gründerkurs erkläre ich dir alles, was du für deine Gründung brauchst. Die richtige Rechtsform, der passende Aufbau und das perfekte Marketing. (Wert 499.00 Euro) ✅ Ganz konkrete Anleitung - Mit meiner Anleitung gebe ich dir eine perfekte Checkliste an die Hand, welchen Punkt du wann machen solltest. (Wert 89.00 Euro) ✅ Inhaltsstarke Ebooks - Auf über hundert Seiten und in mehreren Ebooks kriegst du mein komplettes Wissen zu Finanzierung, Ideenentwicklung und Kundengewinnung. (Wert 79.00 Euro) ✅ Vorlagen für die direkte Umsetzung - Du bekommst mehrere Vorlagen mit denen du sofort loslegen kannst. Du bekommst eine Vorlage für den Businessplan, in der du genau erkennst, wo was einzutragen ist. Du bekommst eine Vorlage für die komplette Finanzkalkulation deines Unternehmens, inklusive einer Videoanleitung, wie du alles ausfüllen musst. (Wert 579.00 Euro) ✅ Steuern im Griff - Professor Christoph Juhn gibt dir die wichtigsten Infos zum Thema Steuern in seinem Kurs (Wert 299.00 Euro) ✅ Exklusiver Business Plan Kurs - Holger Grünhagen erklärt, wie du den perfekten Business Plan schreibst ✅ Interner Mitgliederbereich mit Sofortzugriff - Du kannst auf alle Inhalte sofort zugreifen und gleich in die Umsetzung kommen. ...und weitere Inhalte. DAS BESTE: Der Käufer kann ein Zertifikat erwerben und hat so einen Nachweis für Banken oder die Arbeitsagentur.
 
 ## 2. Links
 

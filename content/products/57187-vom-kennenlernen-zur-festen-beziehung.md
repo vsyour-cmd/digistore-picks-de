@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Vom Kennenlernen zur festen Beziehung“</strong></p>
-<p>Den Übergang sicher meistern – Die kritische Phase zwischen Daten und Beziehung – so führst du sie sicher zum gemeinsamen „Wir“.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Den richtigen Zeitpunkt erkennen</li>
-<li>Das „Wir“-Gespräch souverän führen</li>
-<li>Erwartungen klären ohne Druck</li>
-<li>Gemeinsam Verbindlichkeit aufbauen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Vom Kennenlernen zur festen Beziehung“ Den Übergang sicher meistern – Die kritische Phase zwischen Daten und Beziehung – so führst du sie sicher zum gemeinsamen „Wir“. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Den richtigen Zeitpunkt erkennen Das „Wir“-Gespräch souverän führen Erwartungen klären ohne Druck Gemeinsam Verbindlichkeit aufbauen
 
 ## 2. Links
 

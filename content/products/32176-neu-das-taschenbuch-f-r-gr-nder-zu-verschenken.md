@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#ff0000;"><strong>Verschenke unser "Taschenbuch für Gründer" an deine Leser / Kunden und wir zahlen dir 5€ Provision für jede Bestellung!</strong></span></h2>
-<ul>
-<li>über 250 Seiten extrem guter Content</li>
-<li>Hochwertig als echtes Buch produziert</li>
-<li>10 exklusive Kapitel mit allen essenziellen Themen für den Start in das eigene Online Business</li>
-<li>Gemeinsam mit Gründercoach Christoph J. F. Schreiber geschrieben</li>
-<li>Sehr geringe Stornoquote</li>
-</ul>
-<p><strong>Wir zahlen dir 5€ Provision für jede Bestellung! </strong>Melde dich jetzt als Affiliate an und starte mit dem Promoten von unserem neuen Buch.</p>
-<p>Beste Grüße aus Köln<br />Dein Thomas Klußmann<br />- Gründer.de -</p>
+**Vendor's marketplace description:** Verschenke unser "Taschenbuch für Gründer" an deine Leser / Kunden und wir zahlen dir 5€ Provision für jede Bestellung! über 250 Seiten extrem guter Content Hochwertig als echtes Buch produziert 10 exklusive Kapitel mit allen essenziellen Themen für den Start in das eigene Online Business Gemeinsam mit Gründercoach Christoph J. F. Schreiber geschrieben Sehr geringe Stornoquote Wir zahlen dir 5€ Provision für jede Bestellung! Melde dich jetzt als Affiliate an und starte mit dem Promoten von unserem neuen Buch. Beste Grüße aus Köln Dein Thomas Klußmann - Gründer.de -
 
 ## 2. Links
 

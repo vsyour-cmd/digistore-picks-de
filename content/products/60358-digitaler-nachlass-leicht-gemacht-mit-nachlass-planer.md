@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Digitaler Nachlass leicht gemacht – Ratgeber mit Nachlass-Planer</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Der Ratgeber erklärt, wie man den digitalen Nachlass regelt und wie Hinterbliebene Konten finden, kündigen und löschen. Der <strong>Nachlass-Planer</strong> erstellt Konten-Liste, Vollmacht und vier Schreiben an Anbieter.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Menschen, die ihre Online-Konten regeln wollen</li>
-<li>Hinterbliebene, die Konten abwickeln müssen</li>
-<li>Familien mit vielen Abos und Zugängen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Ein Todesfall oder weiterlaufende Abos eines Verstorbenen</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Vollmachten, Vorsorgevollmacht und Patientenverfügung, Betrug erkennen) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Digitaler Nachlass leicht gemacht – Ratgeber mit Nachlass-Planer Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Der Ratgeber erklärt, wie man den digitalen Nachlass regelt und wie Hinterbliebene Konten finden, kündigen und löschen. Der Nachlass-Planer erstellt Konten-Liste, Vollmacht und vier Schreiben an Anbieter. Die Zielgruppe Menschen, die ihre Online-Konten regeln wollen Hinterbliebene, die Konten abwickeln müssen Familien mit vielen Abos und Zugängen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Ein Todesfall oder weiterlaufende Abos eines Verstorbenen Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Vollmachten, Vorsorgevollmacht und Patientenverfügung, Betrug erkennen) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

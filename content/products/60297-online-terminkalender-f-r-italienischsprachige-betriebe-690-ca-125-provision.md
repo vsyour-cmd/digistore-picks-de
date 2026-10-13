@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Online-Terminbuchung: Der Kunde wählt Tag und Uhrzeit selbst und bekommt am Vortag eine Erinnerung. Der Kalender ist immer aktuell auf dem Handy, auch außerhalb der Öffnungszeiten.</p><p><strong>Für wen:</strong> Friseure, Kosmetikstudios, Praxen, Werkstätten.</p><p><strong>Deine Provision:</strong> 20 % pro Verkauf, ca. 125 € bei 690 € netto. Einmalzahlung, kein Abo.</p><p><strong>Wichtig:</strong> Verkaufsseite, Gespräche und Umsetzung sind auf Italienisch. Ideal, wenn du italienischsprachige Selbstständige in Italien, Deutschland oder der Schweiz erreichst.</p><p><strong>So läuft es:</strong> Nach der Bestellung meldet sich unser Team beim Kunden, bespricht alles per Videocall und setzt das Projekt komplett um. Du bringst den Kontakt, wir machen den Rest.</p>
+**Vendor's marketplace description:** Online-Terminbuchung: Der Kunde wählt Tag und Uhrzeit selbst und bekommt am Vortag eine Erinnerung. Der Kalender ist immer aktuell auf dem Handy, auch außerhalb der Öffnungszeiten. Für wen: Friseure, Kosmetikstudios, Praxen, Werkstätten. Deine Provision: 20 % pro Verkauf, ca. 125 € bei 690 € netto. Einmalzahlung, kein Abo. Wichtig: Verkaufsseite, Gespräche und Umsetzung sind auf Italienisch. Ideal, wenn du italienischsprachige Selbstständige in Italien, Deutschland oder der Schweiz erreichst. So läuft es: Nach der Bestellung meldet sich unser Team beim Kunden, bespricht alles per Videocall und setzt das Projekt komplett um. Du bringst den Kontakt, wir machen den Rest.
 
 ## 2. Links
 

@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Für wen:</strong> Familien mit Kindern, die eine Wichteltür haben oder sich eine wünschen – und im Dezember nicht jeden Abend um halb zwölf eine neue Idee aus dem Hut zaubern wollen.</p>
-<p><strong>Was drin ist:</strong> Ein fertiger 24-Tage-Wichtelplan als PDF mit 24 Streichen samt Aufbauzeit, Materialangabe und Aufräum-Ampel, zu jedem Tag eine schnelle Ausweich-Idee, Einkaufsliste, 15 fertige Wichtelbriefe zum Ausdrucken, 27 Streich- und 9 Notfall-Karten, 12 Türschilder, Fußspuren, Umzugskarton, Wichtel-Spielbrett – und eine Rettungs-Seite für den Morgen, an dem man es vergessen hat. Sofort nach dem Kauf per Mail, jedes Jahr wieder nutzbar.</p>
-<p><strong>Provision:</strong> 40 %</p>
-<p><strong>Warum es sich verkauft:</strong> Die Wichteltür ist in den letzten Jahren zum Massenphänomen geworden, und der Druck, 24 Tage durchzuhalten, ist das Problem, über das alle Eltern klagen. Das Produkt löst genau das – und es löst es sofort.</p>
-<p><strong>Saison:</strong> Die Suche startet Anfang Oktober und gipfelt Anfang bis Mitte November, weil alle vor dem 1. Dezember fertig sein wollen. Bewerbung ab Oktober einplanen.</p>
-<p><strong>Passende Kanäle:</strong> Eltern- und Familienblogs, Accounts rund um Wichteltür, Advent, Basteln mit Kindern, Pinterest.</p>
+**Vendor's marketplace description:** Für wen: Familien mit Kindern, die eine Wichteltür haben oder sich eine wünschen – und im Dezember nicht jeden Abend um halb zwölf eine neue Idee aus dem Hut zaubern wollen. Was drin ist: Ein fertiger 24-Tage-Wichtelplan als PDF mit 24 Streichen samt Aufbauzeit, Materialangabe und Aufräum-Ampel, zu jedem Tag eine schnelle Ausweich-Idee, Einkaufsliste, 15 fertige Wichtelbriefe zum Ausdrucken, 27 Streich- und 9 Notfall-Karten, 12 Türschilder, Fußspuren, Umzugskarton, Wichtel-Spielbrett – und eine Rettungs-Seite für den Morgen, an dem man es vergessen hat. Sofort nach dem Kauf per Mail, jedes Jahr wieder nutzbar. Provision: 40 % Warum es sich verkauft: Die Wichteltür ist in den letzten Jahren zum Massenphänomen geworden, und der Druck, 24 Tage durchzuhalten, ist das Problem, über das alle Eltern klagen. Das Produkt löst genau das – und es löst es sofort. Saison: Die Suche startet Anfang Oktober und gipfelt Anfang bis Mitte November, weil alle vor dem 1. Dezember fertig sein wollen. Bewerbung ab Oktober einplanen. Passende Kanäle: Eltern- und Familienblogs, Accounts rund um Wichteltür, Advent, Basteln mit Kindern, Pinterest.
 
 ## 2. Links
 

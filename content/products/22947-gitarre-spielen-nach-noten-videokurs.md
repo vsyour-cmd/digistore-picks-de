@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein Videokurs für Gitarristen, egal ob Anfänger oder Fortgeschrittene, zum Erlernen des Gitarrenspiels nach Noten. Der professionelle Gitarrenlehrer Christian Konrad (Studium HfM Dresden) vermittelt in diesem Kurs über eine Dauer von 10 Wochen die Grundlagen des Notenspiels. Die einzelnen Lektionen bestehend aus Videos, Übungsstücken und schriftlichem Begleitmaterial werden im wöchentlichen Rhythmus freigeschaltet.</p>
-<p>Inhalt:</p>
-<ul><li>10 Wochen lang je eine neue Videolektion (insgesamt über 3 Stunden Laufzeit)</li>
-<li>50 Etüden (Übungsstücke) PDF</li>
-<li>schriftliche Unterlagen zu jeder Lektion</li>
-<li>persönlicher Support bei Fragen (Kommentarfunktion)</li>
-<li>zeitlich unbegrenzter Zugang zum Kurs</li>
-<li>auf Wusch auch gleich komplette Freischaltung aller Materialien</li>
-</ul><p><a title="Erfahrungen &amp; Bewertungen zu Gitarrenvideounterricht anzeigen" href="https://www.provenexpert.com/gitarrenvideounterricht/?utm_source=Widget&amp;utm_medium=Widget&amp;utm_campaign=Widget" target="_blank" rel="noreferrer noopener"><img style="border:0;" src="https://images.provenexpert.com/f8/ee/3bd5667647cdaa8d45ade432ec8f/widget_recommendation_465_0.png?t=1516875157267" alt="Erfahrungen &amp; Bewertungen zu Gitarrenvideounterricht anzeigen" /></a></p>
+**Vendor's marketplace description:** Ein Videokurs für Gitarristen, egal ob Anfänger oder Fortgeschrittene, zum Erlernen des Gitarrenspiels nach Noten. Der professionelle Gitarrenlehrer Christian Konrad (Studium HfM Dresden) vermittelt in diesem Kurs über eine Dauer von 10 Wochen die Grundlagen des Notenspiels. Die einzelnen Lektionen bestehend aus Videos, Übungsstücken und schriftlichem Begleitmaterial werden im wöchentlichen Rhythmus freigeschaltet. Inhalt: 10 Wochen lang je eine neue Videolektion (insgesamt über 3 Stunden Laufzeit) 50 Etüden (Übungsstücke) PDF schriftliche Unterlagen zu jeder Lektion persönlicher Support bei Fragen (Kommentarfunktion) zeitlich unbegrenzter Zugang zum Kurs auf Wusch auch gleich komplette Freischaltung aller Materialien
 
 ## 2. Links
 

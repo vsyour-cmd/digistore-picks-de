@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehlen Sie das größte und einzigartige Kopfschmerzen und Migräne Frei Komplettpaket in der neuesten Ausgabe 2026 für E-Mail-Marketing, Facebook und Marketing-Automatisierung mit geringer Stornorate!</p>
-<p>Ihre Vorteile:</p>
-<ul>
-<li><span style="color:#000000;background-color:#ffcc00;">Bis zu 149 Euro Netto pro Verkauf</span> mit Up und Downsells!</li>
-<li>Neueste Schritt für Schritt Heilmethoden mit Ernährungsplaner und Praxis Übungen</li>
-<li>Großer neuer Mitgliederbereich wo der Kunde noch weitere Gesundheits Produkte und hochwertige Coachings kaufen kann und du davon profitierst!</li>
-<li>Für die weiteren Pakete im Mitgliederbereich gibt es nochmal extra 48 Euro Netto Verdienst für dich!</li>
-<li>Für den Videokurs nochmal extra 98 Euro Netto Verdienst für dich!</li>
-<li>Unsere <strong>Verkaufsseiten werden konstant gesplittestet und optimiert,</strong> um Euch <strong>das meiste Geld für Euren Traffic</strong> zu garantieren.</li>
-<li>Geringe Stornoquote</li>
-</ul>
+**Vendor's marketplace description:** Empfehlen Sie das größte und einzigartige Kopfschmerzen und Migräne Frei Komplettpaket in der neuesten Ausgabe 2026 für E-Mail-Marketing, Facebook und Marketing-Automatisierung mit geringer Stornorate! Ihre Vorteile: Bis zu 149 Euro Netto pro Verkauf mit Up und Downsells! Neueste Schritt für Schritt Heilmethoden mit Ernährungsplaner und Praxis Übungen Großer neuer Mitgliederbereich wo der Kunde noch weitere Gesundheits Produkte und hochwertige Coachings kaufen kann und du davon profitierst! Für die weiteren Pakete im Mitgliederbereich gibt es nochmal extra 48 Euro Netto Verdienst für dich! Für den Videokurs nochmal extra 98 Euro Netto Verdienst für dich! Unsere Verkaufsseiten werden konstant gesplittestet und optimiert, um Euch das meiste Geld für Euren Traffic zu garantieren. Geringe Stornoquote
 
 ## 2. Links
 

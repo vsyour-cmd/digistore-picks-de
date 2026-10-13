@@ -41,56 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Krimery.de – Das interaktive Krimidinner für zuhause</strong></p>
-<p>Mit <strong>Krimery.de</strong> verwandelst du dein Wohnzimmer in den Schauplatz eines packenden Kriminalfalls! Unsere digitalen Krimidinner bieten dir und deinen Freunden das perfekte Event für einen unvergesslichen Spieleabend.</p>
-<p><strong>Was macht Krimery besonders?</strong></p>
-<ul>
-<li>
-<p><strong>100 % Digital &amp; Sofort Startklar:</strong> Kein Warten auf Post oder Versand – nach dem Kauf bzw. der Key-Einlösung könnt ihr direkt loslegen.</p>
-</li>
-<li>
-<p><strong>Interaktives Spielerlebnis:</strong> Digitale Rollenakten, geheime Hinweise, Audiospuren und Beweismittel direkt auf Smartphone, Tablet oder Laptop.</p>
-</li>
-<li>
-<p><strong>Perfekt für jeden Anlass:</strong> Ideal für Spieleabende mit Freunden, Geburtstage, Familienfeiern oder virtuelle Gaming-Events.</p>
-</li>
-<li>
-<p><strong>Maximale Spannung &amp; Rätselspaß:</strong> Ausgetüftelte Storylines, überraschende Wendungen und eine dichte Atmosphäre garantieren Nervenkitzel bis zur letzten Minute.</p>
-</li>
-</ul>
-<p>Schlüpft in eure Rollen, sammelt Beweise, überführt den Täter – und findet heraus, wer unter euch am besten lügen kann!</p>
-<p> </p>
-<p><strong>Warum Krimery.de das perfekte digitale Event-Produkt ist:</strong></p>
-<ol>
-<li>
-<p><strong>Stark steigender Trend-Markt:</strong> Krimidinner und Escape Games sind beliebter denn je. Krimery schließt die Lücke zwischen klassischem Brettspiel und moderner digitaler Unterhaltung.</p>
-</li>
-<li>
-<p><strong>Null Versandkosten, maximale Spontanität:</strong> Als rein digitales Produkt gibt es keine Lieferzeiten oder Lagerkosten. Das macht Krimery zum idealen Last-Minute-Geschenk und perfekten Impulskauf am Wochenende.</p>
-</li>
-<li>
-<p><strong>Hohe Kundenzufriedenheit &amp; Weiterempfehlung:</strong> Krimidinner werden in Gruppen gespielt (meist 4 bis 8 Personen). Jeder gelungene Spieleabend erzeugt automatisch neue Begeisterung und organische Mundpropaganda bei allen Mitspielenden.</p>
-</li>
-<li>
-<p><strong>Optimierte Conversion &amp; Top-Qualität:</strong> Professionell geschriebene Fälle, ansprechend gestaltetes Digitalmaterial und ein intuitives Einlöse-System sorgen für eine hohe Kauf- und Abschlussquote.</p>
-</li>
-<li>
-<p><strong>Skalierbares Sortiment:</strong> Durch fortlaufend neue Fälle und Storylines entsteht ein hoher Wiederholungsbedarf für bestehende Kunden (Cross-Selling &amp; Stammkunden-Potential).</p>
-</li>
-</ol>
-<h2><br />Worum geht’s?</h2>
-<p>Seit Generationen lädt die Familie von Dornwald an Halloween zur „Nacht der Erinnerung“ – einer Séance, mit der sie angeblich Kontakt zu den Toten des Hauses aufnimmt. Diesmal bleibt es nicht bei Kerzenlicht und Kribbeln im Nacken: Als das Licht zurückkehrt, sitzt Hausherr Viktor von Dornwald reglos an seinem Platz. Acht Gäste, ein sturmumtostes Herrenhaus, keine Handyverbindung – und eine jahrhundertealte Legende, die plötzlich sehr real wirkt. Ein Fall über Familiengeheimnisse, Aberglauben und die sehr menschlichen Gründe, aus denen Menschen einander etwas antun.</p>
-<p><strong>Für wen lohnt sich das?</strong> Für Freundeskreise und Familien, die Halloween nicht nur mit Kürbissen, sondern mit echtem Gänsehaut-Grusel feiern wollen: ein düsterer Krimidinner für 6 bis 8 Personen über eine alte Familienlegende, einen Séance-Abend und die Frage, was im Dunkeln wirklich geschah. Ideal für die eigene Halloween-Party, mit oder ohne Kostüme.</p>
-<h2>Das ist dabei</h2>
-<ul>
-<li>Rollenhefte für 8 Figuren, online und als PDF zum Ausdrucken</li>
-<li>Regie-Leitfaden für dich als Gastgeber:in, damit du entspannt mitspielen oder moderieren kannst</li>
-<li>4 Spielrunden mit Vorlese-Texten, Hinweisen und Aufgaben</li>
-<li>Auflösung zum gemeinsamen Vorlesen am Ende des Abends</li>
-<li>Menü-Vorschlag mit Rezepten passend zum Abend</li>
-<li>Ambiente-Bilder und Tatort-Material für die richtige Stimmung</li>
-<li>Jederzeit Zugriff in deinem Konto, du kannst den Fall später erneut mit anderen Gästen spielen</li>
-</ul>
+**Vendor's marketplace description:** Krimery.de – Das interaktive Krimidinner für zuhause Mit Krimery.de verwandelst du dein Wohnzimmer in den Schauplatz eines packenden Kriminalfalls! Unsere digitalen Krimidinner bieten dir und deinen Freunden das perfekte Event für einen unvergesslichen Spieleabend. Was macht Krimery besonders? 100 % Digital & Sofort Startklar: Kein Warten auf Post oder Versand – nach dem Kauf bzw. der Key-Einlösung könnt ihr direkt loslegen. Interaktives Spielerlebnis: Digitale Rollenakten, geheime Hinweise, Audiospuren und Beweismittel direkt auf Smartphone, Tablet oder Laptop. Perfekt für jeden Anlass: Ideal für Spieleabende mit Freunden, Geburtstage, Familienfeiern oder virtuelle Gaming-Events. Maximale Spannung & Rätselspaß: Ausgetüftelte Storylines, überraschende Wendungen und eine dichte Atmosphäre garantieren Nervenkitzel bis zur letzten Minute. Schlüpft in eure Rollen, sammelt Beweise, überführt den Täter – und findet heraus, wer unter euch am besten lügen kann! Warum Krimery.de das perfekte digitale Event-Produkt ist: Stark steigender Trend-Markt: Krimidinner und Escape Games sind beliebter denn je. Krimery schließt die Lücke zwischen klassischem Brettspiel und moderner digitaler Unterhaltung. Null Versandkosten, maximale Spontanität: Als rein digitales Produkt gibt es keine Lieferzeiten oder Lagerkosten. Das macht Krimery zum idealen Last-Minute-Geschenk und perfekten Impulskauf am Wochenende. Hohe Kundenzufriedenheit & Weiterempfehlung: Krimidinner werden in Gruppen gespielt (meist 4 bis 8 Personen). Jeder gelungene Spieleabend erzeugt automatisch neue Begeisterung und organische Mundpropaganda bei allen Mitspielenden. Optimierte Conversion & Top-Qualität: Professionell geschriebene Fälle, ansprechend gestaltetes Digitalmaterial und ein intuitives Einlöse-System sorgen für eine hohe Kauf- und Abschlussquote. Skalierbares Sortiment: Durch fortlaufend neue Fälle und Storylines entsteht ein hoher Wiederholungsbedarf für bestehende Kunden (Cross-Selling & Stammkunden-Potential). Worum geht’s? Seit Generationen lädt die Familie von Dornwald an Halloween zur „Nacht der Erinnerung“ – einer Séance, mit der sie angeblich Kontakt zu den Toten des Hauses aufnimmt. Diesmal bleibt es nicht bei Kerzenlicht und Kribbeln im Nacken: Als das Licht zurückkehrt, sitzt Hausherr Viktor von Dornwald reglos an seinem Platz. Acht Gäste, ein sturmumtostes Herrenhaus, keine Handyverbindung – und eine jahrhundertealte Legende, die plötzlich sehr real wirkt. Ein Fall über Familiengeheimnisse, Aberglauben und die sehr menschlichen Gründe, aus denen Menschen einander etwas antun. Für wen lohnt sich das? Für Freundeskreise und Familien, die Halloween nicht nur mit Kürbissen, sondern mit echtem Gänsehaut-Grusel feiern wollen: ein düsterer Krimidinner für 6 bis 8 Personen über eine alte Familienlegende, einen Séance-Abend und die Frage, was im Dunkeln wirklich geschah. Ideal für die eigene Halloween-Party, mit oder ohne Kostüme. Das ist dabei Rollenhefte für 8 Figuren, online und als PDF zum Ausdrucken Regie-Leitfaden für dich als Gastgeber:in, damit du entspannt mitspielen oder moderieren kannst 4 Spielrunden mit Vorlese-Texten, Hinweisen und Aufgaben Auflösung zum gemeinsamen Vorlesen am Ende des Abends Menü-Vorschlag mit Rezepten passend zum Abend Ambiente-Bilder und Tatort-Material für die richtige Stimmung Jederzeit Zugriff in deinem Konto, du kannst den Fall später erneut mit anderen Gästen spielen
 
 ## 2. Links
 

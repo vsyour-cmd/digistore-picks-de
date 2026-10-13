@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Jetzt ist AUSGEMOBBT!</p>
-<p>Schützen Sie Ihr Kind vor Mobbing - ganz nach dem Motto "Kinder schützen durch Stärken"!</p>
+**Vendor's marketplace description:** Jetzt ist AUSGEMOBBT! Schützen Sie Ihr Kind vor Mobbing - ganz nach dem Motto "Kinder schützen durch Stärken"!
 
 ## 2. Links
 

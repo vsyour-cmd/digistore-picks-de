@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Notfallmappe leicht gemacht – Ratgeber mit Notfallmappen-Generator</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Der Ratgeber zeigt, was in eine Notfallmappe gehört. Der <strong>Notfallmappen-Generator</strong> erstellt die vollständige Mappe mit zwölf Abschnitten und eine Notfallkarte für die Geldbörse.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Familien, die vorsorgen wollen</li>
-<li>Alleinlebende und Senioren</li>
-<li>Menschen mit verstreuten Unterlagen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Ein Krankheitsfall im Umfeld oder der Wunsch nach Ordnung</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Vollmachten, Vorsorgevollmacht und Patientenverfügung, Versicherungen) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Notfallmappe leicht gemacht – Ratgeber mit Notfallmappen-Generator Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Der Ratgeber zeigt, was in eine Notfallmappe gehört. Der Notfallmappen-Generator erstellt die vollständige Mappe mit zwölf Abschnitten und eine Notfallkarte für die Geldbörse. Die Zielgruppe Familien, die vorsorgen wollen Alleinlebende und Senioren Menschen mit verstreuten Unterlagen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Ein Krankheitsfall im Umfeld oder der Wunsch nach Ordnung Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Vollmachten, Vorsorgevollmacht und Patientenverfügung, Versicherungen) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

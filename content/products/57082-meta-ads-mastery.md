@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Meta Ads Mastery"</strong></p>
-<p>Für Fortgeschrittene: Wie du Meta-Werbung skalierst, ohne den ROAS zu zerstören – mit Funnels, Retargeting, sauberem Tracking über Pixel und Conversions-API und systematischem Kreativ-Testen. Ehrlich: mehr Budget ist nicht automatisch mehr Gewinn.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema: Online-Business &amp; Geld verdienen</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Vom Testen zum Skalieren in der richtigen Reihenfolge</li>
-<li>Funnels von der kalten Zielgruppe bis zum Kauf bauen</li>
-<li>Retargeting gezielt für warme Kontakte einsetzen</li>
-<li>Pixel und Conversions-API sauber aufsetzen</li>
-<li>Budget skalieren, ohne den ROAS zu zerstören</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Menschen, die online ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Meta Ads Mastery" Für Fortgeschrittene: Wie du Meta-Werbung skalierst, ohne den ROAS zu zerstören – mit Funnels, Retargeting, sauberem Tracking über Pixel und Conversions-API und systematischem Kreativ-Testen. Ehrlich: mehr Budget ist nicht automatisch mehr Gewinn. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema: Online-Business & Geld verdienen Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Vom Testen zum Skalieren in der richtigen Reihenfolge Funnels von der kalten Zielgruppe bis zum Kauf bauen Retargeting gezielt für warme Kontakte einsetzen Pixel und Conversions-API sauber aufsetzen Budget skalieren, ohne den ROAS zu zerstören Für deine Zielgruppe: Menschen, die online ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

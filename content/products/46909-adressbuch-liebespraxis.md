@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<p>Hrsg. Fairlagshaus Berlin. ISBN 978-3-8442-8565-9</p>
-<p>Vor tausenden von Jahren wusste man in Indien, dass sexuelles Glück der Frau eine Frage der Praxis ist, die einfach weitergegeben wurde und selbstverständlich war. Osho und andere Zeitgenossen haben dieses Wissen wieder aufgegriffen, das inzwischen auch in der Sexualwissenschaft angekommen und von einigen Autoren/innen in eine populäre Form gegossen worden ist. Seitdem kann jeder wissen, dass „Bumsen“ und viele andere Arten gängiger sexueller Praxis brutale Folgen moderner Ausblendung des Bedürfnisses nach echter erfüllender Begegnung sind.</p>
-<p>Dieses Adressbuch will jene Erkenntnis aktiv verbreiten helfen und damit auch Glücksbringer sein. Es fasst das Herzstück des alten Wissens als kurzen Praxisweg zusammen und lässt Raum für eigene Notizen. Es kann aber auch einfach nur ein edles Merkbuch bleiben, das die Liebesfrage im Bewusstsein hält. Und es kann Wissen in die Zukunft tragen helfen, das sich immer wieder neu erwerben und verschenken lässt.</p>
-</div>
+**Vendor's marketplace description:** Hrsg. Fairlagshaus Berlin. ISBN 978-3-8442-8565-9 Vor tausenden von Jahren wusste man in Indien, dass sexuelles Glück der Frau eine Frage der Praxis ist, die einfach weitergegeben wurde und selbstverständlich war. Osho und andere Zeitgenossen haben dieses Wissen wieder aufgegriffen, das inzwischen auch in der Sexualwissenschaft angekommen und von einigen Autoren/innen in eine populäre Form gegossen worden ist. Seitdem kann jeder wissen, dass „Bumsen“ und viele andere Arten gängiger sexueller Praxis brutale Folgen moderner Ausblendung des Bedürfnisses nach echter erfüllender Begegnung sind. Dieses Adressbuch will jene Erkenntnis aktiv verbreiten helfen und damit auch Glücksbringer sein. Es fasst das Herzstück des alten Wissens als kurzen Praxisweg zusammen und lässt Raum für eigene Notizen. Es kann aber auch einfach nur ein edles Merkbuch bleiben, das die Liebesfrage im Bewusstsein hält. Und es kann Wissen in die Zukunft tragen helfen, das sich immer wieder neu erwerben und verschenken lässt.
 
 ## 2. Links
 

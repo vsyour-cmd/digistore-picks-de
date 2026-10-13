@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><span style="color:#800080;"><strong>DIE VIELFRASS-DIÄT</strong></span></p>
-<p style="text-align:center;">Wie selbst Diät-Muffel erfolgreich abnehmen</p>
-<p>Jetzt kriegen auch Sie Ihr Fett weg! Erfolgreiches Abnehmen mit dauerhaftem Schlankbleiben folgt seinen eigenen Gesetzen.</p>
-<p>Anstatt sich an die herkömmlichen Diätkonzepte mit vielen Verzichten, Sport, Einkaufsvorgaben, Brrechnungen und Militärplan zu halten, beschreibt dieses Ebook eine unkonventionelle, aber hocheffektive Vorgehensweise, die ohne grosse Anstrengungen umzusetzen und mit keiner vergleichbaren Diät vergleichbar ist.</p>
-<p>Eine einzigartige, sensationelle Erfolgsmethode, die anstatt auf Disziplin und Umstellung in Kochtopf und Kühlschrank auf eigene angenehme Auswahl der besten Fatburner-Tipps baut.</p>
-<p>Verzicht, Sport, Kalorienzählen und strenge Regeln fallen weg!!... und jede Diät ist die Beste - die Entscheidungsfindung! Wege aus dem widersprüchlichen Dschungel.</p>
-<p> </p>
-<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
-<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
-<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<strong>J<span style="color:#cc99ff;">eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</span></strong>“.</p>
-<p>2 einfache Schritte:</p>
-<ol>
-<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html </a></span>(dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge")</li>
-<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
-</ol>
-<p> </p>
-<p><em><strong> </strong></em></p>
+**Vendor's marketplace description:** DIE VIELFRASS-DIÄT Wie selbst Diät-Muffel erfolgreich abnehmen Jetzt kriegen auch Sie Ihr Fett weg! Erfolgreiches Abnehmen mit dauerhaftem Schlankbleiben folgt seinen eigenen Gesetzen. Anstatt sich an die herkömmlichen Diätkonzepte mit vielen Verzichten, Sport, Einkaufsvorgaben, Brrechnungen und Militärplan zu halten, beschreibt dieses Ebook eine unkonventionelle, aber hocheffektive Vorgehensweise, die ohne grosse Anstrengungen umzusetzen und mit keiner vergleichbaren Diät vergleichbar ist. Eine einzigartige, sensationelle Erfolgsmethode, die anstatt auf Disziplin und Umstellung in Kochtopf und Kühlschrank auf eigene angenehme Auswahl der besten Fatburner-Tipps baut. Verzicht, Sport, Kalorienzählen und strenge Regeln fallen weg!!... und jede Diät ist die Beste - die Entscheidungsfindung! Wege aus dem widersprüchlichen Dschungel. Möchten Sie ein Ansichtsexemplar? Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz. Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „ J eden T ag R ei*cher “. 2 einfache Schritte: JTR gratis bestellen auf https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge") Email mit Ihrem Ebook-Wunsch an service@big-benn-books.com
 
 ## 2. Links
 

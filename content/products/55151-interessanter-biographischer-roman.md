@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Autor des eBooks beschreibt in einer unterhaltsamen Art und Weise unter Einfügung vieler Episoden und Geschichten sein wahrhaft abwechslungsreiches und interessantes Leben.</p>
-<p>Es werden die vielseitigen Erlebnisse der Kindheit und seiner Jugend erzählt sowie warum er ins Gefängnis kam.</p>
-<p>Auch seine für ihn nicht schöne Armeezeit wird in interessanten Details dargelegt.</p>
-<p>Später hat er alles unternommen, um seiner Familie ein angehmes Leben zu bieten.</p>
-<p>Es wurden mehrere Firmen gegründet und aufgezeigt, wie trotz vieler Tiefs es auch Hochs gab und so Millionen verdient wurden.</p>
-<p>Das wird alles sehr detailreich und interessant beschrieben, aber auch lehrreich !</p>
-<p>Weitere spannende, lustige und interessante Geschichten aus dem Leben und seinen Reisen werden blumenreich erzählt.</p>
-<p>Dieses (neu heraus gekommene) Buch ist neben der Unterhaltung mit viel Spaß auch sehr lehrreich - was die Rezensionen auf Amazon beweisen.  </p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Der Autor des eBooks beschreibt in einer unterhaltsamen Art und Weise unter Einfügung vieler Episoden und Geschichten sein wahrhaft abwechslungsreiches und interessantes Leben. Es werden die vielseitigen Erlebnisse der Kindheit und seiner Jugend erzählt sowie warum er ins Gefängnis kam. Auch seine für ihn nicht schöne Armeezeit wird in interessanten Details dargelegt. Später hat er alles unternommen, um seiner Familie ein angehmes Leben zu bieten. Es wurden mehrere Firmen gegründet und aufgezeigt, wie trotz vieler Tiefs es auch Hochs gab und so Millionen verdient wurden. Das wird alles sehr detailreich und interessant beschrieben, aber auch lehrreich ! Weitere spannende, lustige und interessante Geschichten aus dem Leben und seinen Reisen werden blumenreich erzählt. Dieses (neu heraus gekommene) Buch ist neben der Unterhaltung mit viel Spaß auch sehr lehrreich - was die Rezensionen auf Amazon beweisen.
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du mit Wissens-Videos Vertrauen aufbaust und Kunden gewinnst</strong></p>
-<p>Als Coach lebst du von Vertrauen – und kein Kanal baut Vertrauen so stark auf wie YouTube. Dieses E-Book zeigt dir, wie du aus deinem Fachwissen Videos machst, die nicht nur Reichweite bringen, sondern planbar Anfragen und Kunden. Du lernst, wie du Themen wählst, nach denen deine Wunschkunden aktiv suchen, wie du Expertise zeigst ohne alles zu verschenken und wie du jeden Zuschauer sanft Richtung Erstgespräch führst. Statt für Klicks zu produzieren, baust du ein System, das dich als die Autorität deiner Nische positioniert – und deinen Kalender füllt.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Die Content-Strategie, die Vertrauen UND Anfragen erzeugt</li>
-<li>Themen finden, nach denen deine Wunschkunden suchen</li>
-<li>Expertise zeigen, ohne dein Angebot zu verschenken</li>
-<li>Der sanfte Call-to-Action zum Erstgespräch</li>
-<li>Video-Funnel: vom Zuschauer zum zahlenden Kunden</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du mit Wissens-Videos Vertrauen aufbaust und Kunden gewinnst Als Coach lebst du von Vertrauen – und kein Kanal baut Vertrauen so stark auf wie YouTube. Dieses E-Book zeigt dir, wie du aus deinem Fachwissen Videos machst, die nicht nur Reichweite bringen, sondern planbar Anfragen und Kunden. Du lernst, wie du Themen wählst, nach denen deine Wunschkunden aktiv suchen, wie du Expertise zeigst ohne alles zu verschenken und wie du jeden Zuschauer sanft Richtung Erstgespräch führst. Statt für Klicks zu produzieren, baust du ein System, das dich als die Autorität deiner Nische positioniert – und deinen Kalender füllt. Das steckt drin: Die Content-Strategie, die Vertrauen UND Anfragen erzeugt Themen finden, nach denen deine Wunschkunden suchen Expertise zeigen, ohne dein Angebot zu verschenken Der sanfte Call-to-Action zum Erstgespräch Video-Funnel: vom Zuschauer zum zahlenden Kunden Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

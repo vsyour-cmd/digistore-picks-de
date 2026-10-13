@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Lerne in unserem 8-Wochen Kurs, wie du Achtsamkeit in dein Leben integrieren und Stress reduzieren kannst. Der Kurs basiert auf dem Konzept der Mindfulness-based Stress Reduction (MBSR) und dient als sanfte Einführung. </p>
-<p>Außerdem sind 15 praktische Übungen und Meditationen enthalten, welche zum ganzheitlichen Erspüren der eigenen Körperempfindungen und tiefer Entspannung beitragen. Der Kurs befähigt die Teilnehmer, Achtsamkeit und MBSR aktiv in ihr Leben einzubinden und die vielfältigen Heilwirkungen zu verstehen und zu genießen.</p>
-<p><strong>Im Kurs inklusive:</strong><br />✓ Umfangreiche Unterlagen als PDF-Datei mit 60 Seiten<br />✓ Dauerhafter Zugriff auf alle Inhalte<br />✓ 15 Übungen und Meditationen<br />✓ Audiolektionen zu den Meditationen<br />✓ Arbeitsblätter zum Ausdrucken</p>
+**Vendor's marketplace description:** Lerne in unserem 8-Wochen Kurs, wie du Achtsamkeit in dein Leben integrieren und Stress reduzieren kannst. Der Kurs basiert auf dem Konzept der Mindfulness-based Stress Reduction (MBSR) und dient als sanfte Einführung. Außerdem sind 15 praktische Übungen und Meditationen enthalten, welche zum ganzheitlichen Erspüren der eigenen Körperempfindungen und tiefer Entspannung beitragen. Der Kurs befähigt die Teilnehmer, Achtsamkeit und MBSR aktiv in ihr Leben einzubinden und die vielfältigen Heilwirkungen zu verstehen und zu genießen. Im Kurs inklusive: ✓ Umfangreiche Unterlagen als PDF-Datei mit 60 Seiten ✓ Dauerhafter Zugriff auf alle Inhalte ✓ 15 Übungen und Meditationen ✓ Audiolektionen zu den Meditationen ✓ Arbeitsblätter zum Ausdrucken
 
 ## 2. Links
 

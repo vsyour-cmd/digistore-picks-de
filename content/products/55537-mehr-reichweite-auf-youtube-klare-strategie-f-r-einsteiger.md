@@ -41,42 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses kostenlose E-Book zeigt dir verständlich und praxisnah,<br />wie du YouTube gezielt für dein Online-Business einsetzen kannst.</p>
-<p>Du erhältst einen klaren Einstieg – auch ohne Vorkenntnisse –<br />und lernst, wie du mehr Reichweite aufbaust<br />und deine Inhalte strukturiert veröffentlichst.</p>
-<p><strong>Inhalte u. a.:</strong></p>
-<ul>
-<li>
-<p>Strategien für mehr Reichweite auf YouTube</p>
-</li>
-<li>
-<p>Klarer Aufbau eines YouTube-Kanals</p>
-</li>
-<li>
-<p>Einfache Umsetzungsschritte für Einsteiger</p>
-</li>
-<li>
-<p>Typische Anfängerfehler und wie du sie vermeidest</p>
-</li>
-<li>
-<p>Strukturierte Vorgehensweise für nachhaltiges Wachstum</p>
-</li>
-</ul>
-<p><strong>Für wen geeignet:</strong></p>
-<ul>
-<li>
-<p>Einsteiger ins Online-Business</p>
-</li>
-<li>
-<p>Selbstständige, die YouTube nutzen möchten</p>
-</li>
-<li>
-<p>Personen, die digitale Tools gezielt einsetzen wollen</p>
-</li>
-<li>
-<p>Affiliates, die mit einem Mehrwert-Freebie arbeiten</p>
-</li>
-</ul>
-<p><strong>Hinweis für Affiliates:</strong><br />Dieses kostenlose E-Book ist als Einstieg konzipiert.<br />Im weiteren Verlauf des Funnels gibt es optionale<br />Upsell- und Zusatzangebote mit zusätzlichen<br />Provisionsmöglichkeiten.</p>
+**Vendor's marketplace description:** Dieses kostenlose E-Book zeigt dir verständlich und praxisnah, wie du YouTube gezielt für dein Online-Business einsetzen kannst. Du erhältst einen klaren Einstieg – auch ohne Vorkenntnisse – und lernst, wie du mehr Reichweite aufbaust und deine Inhalte strukturiert veröffentlichst. Inhalte u. a.: Strategien für mehr Reichweite auf YouTube Klarer Aufbau eines YouTube-Kanals Einfache Umsetzungsschritte für Einsteiger Typische Anfängerfehler und wie du sie vermeidest Strukturierte Vorgehensweise für nachhaltiges Wachstum Für wen geeignet: Einsteiger ins Online-Business Selbstständige, die YouTube nutzen möchten Personen, die digitale Tools gezielt einsetzen wollen Affiliates, die mit einem Mehrwert-Freebie arbeiten Hinweis für Affiliates: Dieses kostenlose E-Book ist als Einstieg konzipiert. Im weiteren Verlauf des Funnels gibt es optionale Upsell- und Zusatzangebote mit zusätzlichen Provisionsmöglichkeiten.
 
 ## 2. Links
 

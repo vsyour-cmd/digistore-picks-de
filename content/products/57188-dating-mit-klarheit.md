@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Dating mit Klarheit“</strong></p>
-<p>Wissen, was du willst – Wer weiß, was er will, datet entspannter und erfolgreicher. So findest du deine Klarheit.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Deine echten Beziehungswünsche erkennen</li>
-<li>Werte &amp; Dealbreaker definieren</li>
-<li>Klar kommunizieren, was du suchst</li>
-<li>Entscheidungen ohne Selbstzweifel</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Dating mit Klarheit“ Wissen, was du willst – Wer weiß, was er will, datet entspannter und erfolgreicher. So findest du deine Klarheit. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Deine echten Beziehungswünsche erkennen Werte & Dealbreaker definieren Klar kommunizieren, was du suchst Entscheidungen ohne Selbstzweifel
 
 ## 2. Links
 

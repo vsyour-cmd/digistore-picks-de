@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>CONTROL Series Komplett</strong> — sechs PDF-Workbooks (CONTROL, DATA, MONEY, TRADE, TRUST, LIFE).</p>
-<p>Einmaliger Kauf, kein Abo. Bildungs- und Arbeitsmaterial mit klarer, praktischer Struktur.</p>
-<p><strong>Warum bewerben?</strong><br />Ein klar umrissenes digitales Bundle für deutschsprachige Zielgruppen, sofortiger Zugriff auf sechs thematisch abgestimmte Workbooks und transparente Produktkommunikation. Geeignet für Affiliates mit passender Bildungs- und Produktivitätszielgruppe. Keine Einkommensversprechen; keine Rechts-, Steuer-, Anlage- oder Gesundheitsberatung.</p>
+**Vendor's marketplace description:** CONTROL Series Komplett — sechs PDF-Workbooks (CONTROL, DATA, MONEY, TRADE, TRUST, LIFE). Einmaliger Kauf, kein Abo. Bildungs- und Arbeitsmaterial mit klarer, praktischer Struktur. Warum bewerben? Ein klar umrissenes digitales Bundle für deutschsprachige Zielgruppen, sofortiger Zugriff auf sechs thematisch abgestimmte Workbooks und transparente Produktkommunikation. Geeignet für Affiliates mit passender Bildungs- und Produktivitätszielgruppe. Keine Einkommensversprechen; keine Rechts-, Steuer-, Anlage- oder Gesundheitsberatung.
 
 ## 2. Links
 

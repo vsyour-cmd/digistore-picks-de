@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><big><span style="color:#800080;"><strong><big>Die besten Auslandskonten</big></strong></span><br /><strong><small>ohne Schufa, Staat, Bonitätsnachweis,<br /> aber mit neuem Bankgeheimnis und Kreditkarten</small></strong><br /></big></p>
-<div>Jetzt reicht´s aber! Erst wurde das Bankgeheimnis abgeschafft, dann begannen die Staaten Kontendaten untereinander auszutauschen und nun sollen laut EU-Richtlinie auch noch private Firmen wie Google, Amazon usw. Einblick auf unsere Konten nehmen dürfen. Aber es gibt tolle Lösungen gegen diese Schnüffelei…</div>
-<div> </div>
-<div> </div>
-<div>
-<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
-<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
-<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<strong>J<span style="color:#cc99ff;">eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</span></strong>“.</p>
-<p>2 einfache Schritte:</p>
-<ol>
-<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html </a></span>(dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge")</li>
-<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
-</ol>
-<em><strong><br /></strong></em></div>
+**Vendor's marketplace description:** Die besten Auslandskonten ohne Schufa, Staat, Bonitätsnachweis, aber mit neuem Bankgeheimnis und Kreditkarten Jetzt reicht´s aber! Erst wurde das Bankgeheimnis abgeschafft, dann begannen die Staaten Kontendaten untereinander auszutauschen und nun sollen laut EU-Richtlinie auch noch private Firmen wie Google, Amazon usw. Einblick auf unsere Konten nehmen dürfen. Aber es gibt tolle Lösungen gegen diese Schnüffelei… Möchten Sie ein Ansichtsexemplar? Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz. Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „ J eden T ag R ei*cher “. 2 einfache Schritte: JTR gratis bestellen auf https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge") Email mit Ihrem Ebook-Wunsch an service@big-benn-books.com
 
 ## 2. Links
 

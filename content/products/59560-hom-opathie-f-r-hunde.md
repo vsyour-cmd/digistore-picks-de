@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Homöopathie für Hunde – E-Book</strong></h2>
-<p> <strong>Preis:</strong> 17,99 €</p>
-<p> <strong>Provision:</strong> 60% für Affiliates</p>
-<p> </p>
-<h3><strong>Kurzbeschreibung für Digistore24</strong></h3>
-<p>Der ultimative Ratgeber für natürliche Tiergesundheit! Dieses E-Book zeigt Hundehaltern praxisnah, wie sie typische Beschwerden ihrer Vierbeiner sanft und sicher mit Homöopathie behandeln können.</p>
-<p> <strong>• Top-Zielgruppe:</strong> Riesiger Markt im Bereich Haustiere &amp; Naturheilkunde<strong>.</strong></p>
-<p><strong> • Hohe Provision:</strong> 60% </p>
-<p> <strong>• Perfekt für:</strong> E-Mail-Marketing, Social Media &amp; Blogs.</p>
-<p>Jetzt promote und lukrative Provisionen sichern!</p>
-<p> </p>
+**Vendor's marketplace description:** Homöopathie für Hunde – E-Book Preis: 17,99 € Provision: 60% für Affiliates Kurzbeschreibung für Digistore24 Der ultimative Ratgeber für natürliche Tiergesundheit! Dieses E-Book zeigt Hundehaltern praxisnah, wie sie typische Beschwerden ihrer Vierbeiner sanft und sicher mit Homöopathie behandeln können. • Top-Zielgruppe: Riesiger Markt im Bereich Haustiere & Naturheilkunde . • Hohe Provision: 60% • Perfekt für: E-Mail-Marketing, Social Media & Blogs. Jetzt promote und lukrative Provisionen sichern!
 
 ## 2. Links
 

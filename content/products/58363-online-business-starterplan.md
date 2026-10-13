@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div style="font-family:Arial, Helvetica, sans-serif;line-height:1.65;color:#0f2f48;">
-<div style="padding:22px 24px;background:#0f2f48;margin-bottom:22px;">
-<div style="font-size:13px;letter-spacing:1.8px;text-transform:uppercase;color:#e6d8c3;font-weight:bold;margin-bottom:6px;">Remote Creators Club</div>
-<div style="font-size:25px;line-height:1.25;color:#ffffff;font-weight:800;">RCC Tools für Affiliates</div>
-<div style="font-size:16px;color:#e6d8c3;margin-top:7px;">Digitale Produkte bewerben. 100 % Affiliate-Provision erhalten.</div>
-</div>
-<p style="font-size:16px;margin:0 0 18px 0;">Bewirb die digitalen <strong>RCC Tools</strong> des Remote Creators Club und erhalte <strong>100 % Affiliate-Provision auf den Nettoerlös</strong> der vermittelten Tools.</p>
-<div style="border-left:4px solid #d7c2a3;background:#f8f5f0;padding:16px 18px;margin:22px 0;"><strong style="font-size:17px;">Dein Affiliate-Bereich beinhaltet:</strong></div>
-<div style="margin:0 0 24px 0;">
-<p style="margin:9px 0;"><strong>✓ Affiliate-Links</strong><br /><span style="color:#52616d;">Direkte Werbelinks zu allen verfügbaren RCC Tools.</span></p>
-<p style="margin:14px 0;"><strong>✓ Direktlinks zum Bestellformular</strong><br /><span style="color:#52616d;">Verlinke Interessenten auf Wunsch direkt zum jeweiligen Checkout.</span></p>
-<p style="margin:14px 0;"><strong>✓ Affiliate-Link-Generator</strong><br /><span style="color:#52616d;">Erstelle deine persönlichen Partnerlinks schnell und unkompliziert.</span></p>
-<p style="margin:14px 0;"><strong>✓ Provisionsübersicht</strong><br /><span style="color:#52616d;">Sieh auf einen Blick, welche Provisionen bei den einzelnen Tools möglich sind.</span></p>
-</div>
-<div style="padding:18px 20px;border:1px solid #e2d7c7;background:#ffffff;margin:22px 0;">
-<div style="font-size:13px;text-transform:uppercase;letter-spacing:1.3px;color:#8c7355;font-weight:bold;">Besonders geeignet für</div>
-<div style="margin-top:7px;font-size:15px;">Online-Business · Affiliate-Marketing · Digitale Produkte · KI · Content · Selbstständigkeit</div>
-</div>
-<div style="text-align:center;background:#f8f5f0;padding:20px;margin-top:24px;">
-<div style="font-size:20px;font-weight:800;color:#0f2f48;">100 % Provision.</div>
-<div style="font-size:15px;color:#52616d;margin-top:4px;">Digitale RCC Tools. Klare Links. Einfach bewerben.</div>
-</div>
-</div>
+**Vendor's marketplace description:** Remote Creators Club RCC Tools für Affiliates Digitale Produkte bewerben. 100 % Affiliate-Provision erhalten. Bewirb die digitalen RCC Tools des Remote Creators Club und erhalte 100 % Affiliate-Provision auf den Nettoerlös der vermittelten Tools. Dein Affiliate-Bereich beinhaltet: ✓ Affiliate-Links Direkte Werbelinks zu allen verfügbaren RCC Tools. ✓ Direktlinks zum Bestellformular Verlinke Interessenten auf Wunsch direkt zum jeweiligen Checkout. ✓ Affiliate-Link-Generator Erstelle deine persönlichen Partnerlinks schnell und unkompliziert. ✓ Provisionsübersicht Sieh auf einen Blick, welche Provisionen bei den einzelnen Tools möglich sind. Besonders geeignet für Online-Business · Affiliate-Marketing · Digitale Produkte · KI · Content · Selbstständigkeit 100 % Provision. Digitale RCC Tools. Klare Links. Einfach bewerben.
 
 ## 2. Links
 

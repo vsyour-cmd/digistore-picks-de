@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieser Kurs richtet sich an Hundehalter, die einen zuverlässigen Rückruf aufbauen möchten - eines der wichtigsten und gleichzeitig schwierigsten Themen im Alltag mit dem Hund.</p>
-<p>Statt klassischer Methoden wie Locken, Rufen oder Korrigieren setzt dieser Kurs auf ein klares Bindungssignal, das Orientierung schafft und den Hund zuverlässig zurückführt. Dieser Ansatz hebt sich deutlich von vielen Standardlösungen ab und spricht besonders Hundehalter an, die nachhaltige Ergebnisse suchen.</p>
-<p>Der Kurs zeigt praxisnah, wie sich Hunde auch unter Ablenkung aus Reizen lösen und sich am Menschen orientieren - ein zentrales Bedürfnis vieler Hundebesitzer.</p>
-<p>Geeignet für:<br />– Hundehalter mit unsicherem oder unzuverlässigem Rückruf<br />– Einsteiger und Fortgeschrittene im Training<br />– Zielgruppe mit Wunsch nach mehr Kontrolle und Sicherheit im Alltag</p>
-<p>Das Thema eignet sich hervorragend für Content, Social Media und Erfahrungsberichte, da nahezu jeder Hundehalter mit dem Rückruf-Thema konfrontiert ist.</p>
+**Vendor's marketplace description:** Dieser Kurs richtet sich an Hundehalter, die einen zuverlässigen Rückruf aufbauen möchten - eines der wichtigsten und gleichzeitig schwierigsten Themen im Alltag mit dem Hund. Statt klassischer Methoden wie Locken, Rufen oder Korrigieren setzt dieser Kurs auf ein klares Bindungssignal, das Orientierung schafft und den Hund zuverlässig zurückführt. Dieser Ansatz hebt sich deutlich von vielen Standardlösungen ab und spricht besonders Hundehalter an, die nachhaltige Ergebnisse suchen. Der Kurs zeigt praxisnah, wie sich Hunde auch unter Ablenkung aus Reizen lösen und sich am Menschen orientieren - ein zentrales Bedürfnis vieler Hundebesitzer. Geeignet für: – Hundehalter mit unsicherem oder unzuverlässigem Rückruf – Einsteiger und Fortgeschrittene im Training – Zielgruppe mit Wunsch nach mehr Kontrolle und Sicherheit im Alltag Das Thema eignet sich hervorragend für Content, Social Media und Erfahrungsberichte, da nahezu jeder Hundehalter mit dem Rückruf-Thema konfrontiert ist.
 
 ## 2. Links
 

@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>233 Seiten Erfahrung, Wissen und Praxis - Wie kannst Du Sprachauffälligkeiten schön frühzeitig erkennen, und Sprache im frühen Kindesalter zu hause fördern.</p>
-<p>Inklusive Elterfragebogen zur Einschätzung der Sprache und Schritt-für-Schritt-Förderanleitung der rhythmusbasierten Sprachförderung für Kinder unter 3 Jahren.</p>
+**Vendor's marketplace description:** 233 Seiten Erfahrung, Wissen und Praxis - Wie kannst Du Sprachauffälligkeiten schön frühzeitig erkennen, und Sprache im frühen Kindesalter zu hause fördern. Inklusive Elterfragebogen zur Einschätzung der Sprache und Schritt-für-Schritt-Förderanleitung der rhythmusbasierten Sprachförderung für Kinder unter 3 Jahren.
 
 ## 2. Links
 

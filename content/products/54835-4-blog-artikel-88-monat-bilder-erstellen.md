@@ -41,52 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h1><span style="color:#993300;">4 BLOG ARTIKEL / MONAT  </span></h1>
-<h1><span style="color:#993300;">+ 1 Bild erstellen für jedes Artikel </span></h1>
-<h1>“Nur mit 88<em>€</em> / Monat (Paket BL2 -4)  </h1>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>  ABO / Kündbar / Down-Updatebar</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<h1><span style="color:#993300;">ABO / Kündbar / Down-Updatebar </span> </h1>
-<p> </p>
-</div>
-<div>
-<div>
-<ul>
-<li>
-<ul>
-<li>#</li>
-<li>0 Regelmäßige Erstellung – 4 Artikel pro Monat</li>
-<li>#1Humanized Writing – natürliche, menschliche Texte</li>
-<li>#2 Bis zu 1.000 Wörter pro Artikel</li>
-<li>  #3 SEO-freundliche Struktur &amp; Optimierung</li>
-<li> #4 Individuelle Themen nach deinen Wünschen</li>
-<li>  #5 Keyword-Integration &amp; Zielgruppen-Ausrichtung</li>
-<li>  #6 Professionelle Recherche für jeden Artikel</li>
-<li> </li>
-<li>  #7 Eine Überarbeitung pro Artikel inklusive  </li>
-<li>  #8 Lieferung in deinem Wunschformat</li>
-<li>  #9 Pünktliche monatliche Lieferung</li>
-<li>  #10 Voll flexibel – monatlich kündbar  </li>
-</ul>
-</li>
-</ul>
-<p> </p>
-<p> </p>
-<ul>
-<li>Schauen Sie hier unsere Infos &amp; Video, was können wir für Euch tun sehr günstig</li>
-</ul>
-</div>
-</div>
+**Vendor's marketplace description:** 4 BLOG ARTIKEL / MONAT + 1 Bild erstellen für jedes Artikel “Nur mit 88 € / Monat (Paket BL2 -4) ABO / Kündbar / Down-Updatebar ABO / Kündbar / Down-Updatebar # 0 Regelmäßige Erstellung – 4 Artikel pro Monat #1Humanized Writing – natürliche, menschliche Texte #2 Bis zu 1.000 Wörter pro Artikel #3 SEO-freundliche Struktur & Optimierung #4 Individuelle Themen nach deinen Wünschen #5 Keyword-Integration & Zielgruppen-Ausrichtung #6 Professionelle Recherche für jeden Artikel #7 Eine Überarbeitung pro Artikel inklusive #8 Lieferung in deinem Wunschformat #9 Pünktliche monatliche Lieferung #10 Voll flexibel – monatlich kündbar Schauen Sie hier unsere Infos & Video, was können wir für Euch tun sehr günstig
 
 ## 2. Links
 

@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Komplette Ausbildung MIT (Paket zum Sonderpreis)</h1>
-<div>
-<p>Du möchtest kompakt und zielführend lernen und Du möchtest jetzt richtig einsteigen in die <strong>Mikroimmuntherapie! <br /></strong></p>
-<p><strong>Nur für Fachprsonen</strong></p>
-<p> </p>
-<blockquote>
-<h3>Aus der Praxis-</h3>
-<h3>                            für die Praxis</h3>
-</blockquote>
-<p>Ich habe die gesamte Ausbildung nun als Paket zusammengeschnürt. Wenn Du die Ausbildung mit allen Modulen gemacht hast, bist Du ganz sicher fit für Deine Patienten.</p>
-<p>Alle Module kannst Du so oft, wie Du willst, anschauen. Du bekommst zu jedem Modul die einzelnen Folien als PDF, sodass Du Dir Notizen und Ergänzungen machen kannst.</p>
-<p>Ich empfehle Dir, zur Ausbildung das <a>Buch Mikroimmuntherapie</a> zu kaufen. Du wirst es immer wieder in der Praxis benützen, um schnell etwas nachschlagen zu können.</p>
-<hr />
-<blockquote>
-<p>Mit diesem Paket kannst Du die komplette Ausbildung buchen. Du hast so viel Zeit zur Verfügung wie Du möchtest oder wie Du brauchst.</p>
-</blockquote>
-<p> </p>
-<p>Das Paket besteht aus:</p>
-<p><a>Einführung in die Mikroimmuntherapie  </a></p>
-<p>den beiden Basiskursen</p>
-<p><a>Basiskurs Mikroimmuntherapie Teil I</a></p>
-<p><a>Basiskurs Mikroimmuntherapie Teil II</a></p>
-<p>Mehr Informationen hier:</p>
-<p><a>https://naturheilkunde-akademie.com/komplette-ausbildung-mit-paket-zum-sonderpreis/</a></p>
-</div>
+**Vendor's marketplace description:** Komplette Ausbildung MIT (Paket zum Sonderpreis) Du möchtest kompakt und zielführend lernen und Du möchtest jetzt richtig einsteigen in die Mikroimmuntherapie! Nur für Fachprsonen Aus der Praxis- für die Praxis Ich habe die gesamte Ausbildung nun als Paket zusammengeschnürt. Wenn Du die Ausbildung mit allen Modulen gemacht hast, bist Du ganz sicher fit für Deine Patienten. Alle Module kannst Du so oft, wie Du willst, anschauen. Du bekommst zu jedem Modul die einzelnen Folien als PDF, sodass Du Dir Notizen und Ergänzungen machen kannst. Ich empfehle Dir, zur Ausbildung das Buch Mikroimmuntherapie zu kaufen. Du wirst es immer wieder in der Praxis benützen, um schnell etwas nachschlagen zu können. Mit diesem Paket kannst Du die komplette Ausbildung buchen. Du hast so viel Zeit zur Verfügung wie Du möchtest oder wie Du brauchst. Das Paket besteht aus: Einführung in die Mikroimmuntherapie den beiden Basiskursen Basiskurs Mikroimmuntherapie Teil I Basiskurs Mikroimmuntherapie Teil II Mehr Informationen hier: https://naturheilkunde-akademie.com/komplette-ausbildung-mit-paket-zum-sonderpreis/
 
 ## 2. Links
 

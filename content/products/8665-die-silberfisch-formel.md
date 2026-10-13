@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die Silberfisch-Formel</strong> ist eine leicht verst&auml;ndliche und effektive Schritt-f&uuml;r-Schritt Anleitung, die zeigt, wie man Silberfische erfolgreich bek&auml;mpft. Und zwar innerhalb k&uuml;rzester Zeit, mit einfachsten Mitteln, ohne Chemie und vollst&auml;ndig.</p>
-<p>&nbsp;</p>
-<p>Diese Anleitung hat sich vielfach bew&auml;hrt und ist einfach nachvollziehbar. Vom&nbsp;Finden der Quelle bis zur restlosen Vernichtung ohne Chance auf Wiederkehr, ist alles Schritt f&uuml;r Schritt erkl&auml;rt.&nbsp;Egal welches Ausma&szlig; die Plage hat, der Erfolg ist garantiert!</p>
-<p>&nbsp;</p>
-<p>JETZT AFFILIATE WERDEN!</p>
+**Vendor's marketplace description:** Die Silberfisch-Formel ist eine leicht verst&auml;ndliche und effektive Schritt-f&uuml;r-Schritt Anleitung, die zeigt, wie man Silberfische erfolgreich bek&auml;mpft. Und zwar innerhalb k&uuml;rzester Zeit, mit einfachsten Mitteln, ohne Chemie und vollst&auml;ndig. Diese Anleitung hat sich vielfach bew&auml;hrt und ist einfach nachvollziehbar. Vom Finden der Quelle bis zur restlosen Vernichtung ohne Chance auf Wiederkehr, ist alles Schritt f&uuml;r Schritt erkl&auml;rt. Egal welches Ausma&szlig; die Plage hat, der Erfolg ist garantiert! JETZT AFFILIATE WERDEN!
 
 ## 2. Links
 

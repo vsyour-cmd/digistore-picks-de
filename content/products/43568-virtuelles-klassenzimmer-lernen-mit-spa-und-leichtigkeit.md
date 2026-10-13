@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verdiene dir monatlich ganz nebenbei etwas dazu!</strong></p>
-<p>Bring Harmonie in die Familien, denn jedes Kind hat ein Recht darauf, mit Spaß und Leichtigkeit zu lernen. </p>
-<p> </p>
-<p>Lesen, Schreiben und Rechnen lernt ein Kind in den ersten Schuljahren. </p>
-<p>Doch oft:</p>
-<ul>
-<li>kann das Kind nicht richtig lesen</li>
-<li>zählt das Kind noch mit den Fingern</li>
-<li>kann sich das Kind nicht konzentrieren</li>
-<li>ist nur Frust statt Spaß angesagt</li>
-<li>kann das Kind nicht richtig schreiben/abschreiben</li>
-</ul>
-<p><strong>Aber das muss nicht sein.</strong></p>
-<p> </p>
-<p>Mit dem <strong>Virtuellen Klassenzimmer können Eltern zu Hause ihr Kind spielerisch, effektiv und harmonisch</strong> beim Lernen begleiten.</p>
-<p> </p>
-<p>Sei auch <span style="background-color:#333399;color:#ffffff;">du Botschafter vom Virtuellen Klassenzimmer</span> und bring mehr Leichtigkeit in Lernen... für die Kinder!</p>
-<p> </p>
-<p>Also vorauf warten? Werde auch du zum Partner. <strong>Starte jetzt, tue etwas Gutes und verdiene Geld ganz nebenbei.</strong></p>
-<p>Hast du Fragen? Dann schreibe an kontakt@miaundmika.de</p>
+**Vendor's marketplace description:** Verdiene dir monatlich ganz nebenbei etwas dazu! Bring Harmonie in die Familien, denn jedes Kind hat ein Recht darauf, mit Spaß und Leichtigkeit zu lernen. Lesen, Schreiben und Rechnen lernt ein Kind in den ersten Schuljahren. Doch oft: kann das Kind nicht richtig lesen zählt das Kind noch mit den Fingern kann sich das Kind nicht konzentrieren ist nur Frust statt Spaß angesagt kann das Kind nicht richtig schreiben/abschreiben Aber das muss nicht sein. Mit dem Virtuellen Klassenzimmer können Eltern zu Hause ihr Kind spielerisch, effektiv und harmonisch beim Lernen begleiten. Sei auch du Botschafter vom Virtuellen Klassenzimmer und bring mehr Leichtigkeit in Lernen... für die Kinder! Also vorauf warten? Werde auch du zum Partner. Starte jetzt, tue etwas Gutes und verdiene Geld ganz nebenbei. Hast du Fragen? Dann schreibe an kontakt@miaundmika.de
 
 ## 2. Links
 

@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Finanz-Kompass für Selbstständige und Gründer</strong></p>
-<p>Der Finanz-Kompass ist ein verständlicher PDF-Leitfaden für Selbstständige, Kleinunternehmer und Gründer, die ihre Einnahmen und Ausgaben übersichtlich erfassen und ihre Unterlagen besser organisieren möchten.</p>
-<p>Das Produkt richtet sich besonders an Einsteiger, die einfache Erklärungen, praktische Übersichten und direkt nutzbare Checklisten suchen.</p>
-<p><strong>Enthalten sind unter anderem:</strong></p>
-<ul>
-<li>Einnahmen- und Ausgabenplaner</li>
-<li>Monatsübersichten</li>
-<li>Jahresübersicht</li>
-<li>Checklisten für die eigene Organisation</li>
-<li>Einfach erklärtes Finanzamt-Wörterbuch</li>
-<li>Hinweise zur übersichtlichen Vorbereitung der Buchhaltung</li>
-</ul>
-<p><strong>Vorteile für Käufer:</strong></p>
-<ul>
-<li>Verständliche und einfache Sprache</li>
-<li>Kein unnötiges Fachwissen erforderlich</li>
-<li>Sofort als PDF verfügbar</li>
-<li>Für Selbstständige, Kleinunternehmer und Gründer geeignet</li>
-<li>Praktischer Einstiegspreis von 4,99 Euro</li>
-</ul>
-<p><strong>Vorteile für Affiliates:</strong></p>
-<ul>
-<li>40 Prozent Affiliate-Provision</li>
-<li>Niedrige Kaufhürde durch den günstigen Produktpreis</li>
-<li>Klare Zielgruppe</li>
-<li>Digitales Produkt mit sofortiger Auslieferung</li>
-<li>Geeignet für Social Media, Blogs, Newsletter und Business-Communities</li>
-</ul>
-<p>Das Produkt eignet sich besonders für Inhalte rund um Selbstständigkeit, Gründung, Kleinunternehmer, Buchhaltung, Einnahmen, Ausgaben und Organisation.</p>
-<p>Hinweis: Der Finanz-Kompass ersetzt keine individuelle Steuerberatung. Es handelt sich um einen allgemeinen Leitfaden zur besseren Organisation und Übersicht.</p>
+**Vendor's marketplace description:** Finanz-Kompass für Selbstständige und Gründer Der Finanz-Kompass ist ein verständlicher PDF-Leitfaden für Selbstständige, Kleinunternehmer und Gründer, die ihre Einnahmen und Ausgaben übersichtlich erfassen und ihre Unterlagen besser organisieren möchten. Das Produkt richtet sich besonders an Einsteiger, die einfache Erklärungen, praktische Übersichten und direkt nutzbare Checklisten suchen. Enthalten sind unter anderem: Einnahmen- und Ausgabenplaner Monatsübersichten Jahresübersicht Checklisten für die eigene Organisation Einfach erklärtes Finanzamt-Wörterbuch Hinweise zur übersichtlichen Vorbereitung der Buchhaltung Vorteile für Käufer: Verständliche und einfache Sprache Kein unnötiges Fachwissen erforderlich Sofort als PDF verfügbar Für Selbstständige, Kleinunternehmer und Gründer geeignet Praktischer Einstiegspreis von 4,99 Euro Vorteile für Affiliates: 40 Prozent Affiliate-Provision Niedrige Kaufhürde durch den günstigen Produktpreis Klare Zielgruppe Digitales Produkt mit sofortiger Auslieferung Geeignet für Social Media, Blogs, Newsletter und Business-Communities Das Produkt eignet sich besonders für Inhalte rund um Selbstständigkeit, Gründung, Kleinunternehmer, Buchhaltung, Einnahmen, Ausgaben und Organisation. Hinweis: Der Finanz-Kompass ersetzt keine individuelle Steuerberatung. Es handelt sich um einen allgemeinen Leitfaden zur besseren Organisation und Übersicht.
 
 ## 2. Links
 

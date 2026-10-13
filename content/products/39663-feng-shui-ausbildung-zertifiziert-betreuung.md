@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>Feng Shui Berater Ausbildung</div>
-<div>
-<p><strong>Schritt für Schritt zum Feng Shui Profi</strong></p>
-<p>Seit vielen Jahren erprobtes Ausbildungskonzept für angehende Feng Shui Berater. Der hohe Qualifikationsstandard der Ausbildung und die internationale Anerkennung machen den Unterricht zu einem Erlebnis!<br />Zeitlich unbegrenzter Zugriff auf den Online-Kurs mit bis zu 3 Endgeräten (z.B. Deinem PC, Tablett und Handy).<br /><strong><br /></strong><strong>Inklusive: Live-Seminar und 2 Praxistage.</strong> <strong>PLUS:</strong> Eine speziell für Feng Shui Berater entwickelte Marketingstrategie – damit Du gleich nach der Ausbildung loslegen kannst.</p>
-<p> </p>
-<p><strong>PLUS: </strong>persönliche Betreuung von Petra Coll Exposito, zwei Trainings inklusive.</p>
-<p>Nutze diese Gelegenheit, professionelles Feng Shui Wissen und Berater-Kompetenzen zu erwerben. Und das zu einem unglaublich günstigen Preis.</p>
-<p><em><strong>Jetzt 14 Tage kostenlos testen!</strong></em></p>
-</div>
+**Vendor's marketplace description:** Feng Shui Berater Ausbildung Schritt für Schritt zum Feng Shui Profi Seit vielen Jahren erprobtes Ausbildungskonzept für angehende Feng Shui Berater. Der hohe Qualifikationsstandard der Ausbildung und die internationale Anerkennung machen den Unterricht zu einem Erlebnis! Zeitlich unbegrenzter Zugriff auf den Online-Kurs mit bis zu 3 Endgeräten (z.B. Deinem PC, Tablett und Handy). Inklusive: Live-Seminar und 2 Praxistage. PLUS: Eine speziell für Feng Shui Berater entwickelte Marketingstrategie – damit Du gleich nach der Ausbildung loslegen kannst. PLUS: persönliche Betreuung von Petra Coll Exposito, zwei Trainings inklusive. Nutze diese Gelegenheit, professionelles Feng Shui Wissen und Berater-Kompetenzen zu erwerben. Und das zu einem unglaublich günstigen Preis. Jetzt 14 Tage kostenlos testen!
 
 ## 2. Links
 

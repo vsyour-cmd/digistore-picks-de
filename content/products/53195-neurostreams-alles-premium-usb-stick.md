@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die vollständige Sammlung "ALLES" enthält ausnahmslos alle Neurostreams™ auf einem erstklassigen USB-Stick. </p>
-<p>Diese legendäre Sammlung ist sehr umfangreich und reicht für ein ganzes Leben...</p>
-<p>Voller Produktsupport für 2 Jahre inklusive. </p>
-<p>Ein sagenhaftes Sammlerstück für Neuro-Fans! </p>
+**Vendor's marketplace description:** Die vollständige Sammlung "ALLES" enthält ausnahmslos alle Neurostreams™ auf einem erstklassigen USB-Stick. Diese legendäre Sammlung ist sehr umfangreich und reicht für ein ganzes Leben... Voller Produktsupport für 2 Jahre inklusive. Ein sagenhaftes Sammlerstück für Neuro-Fans!
 
 ## 2. Links
 

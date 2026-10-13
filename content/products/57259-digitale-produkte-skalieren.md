@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Digitale Produkte skalieren“</strong></p>
-<p>Vom einzelnen Download zum automatisierten Shop – Einzelne Verkäufe sind schön. Sortiment und Produktlinien, automatisierter Verkaufsprozess, Reichweite über Content, SEO und E-Mail sowie sinnvolle Werbung. Für Fortgeschrittene.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Vom einzelnen Download zum Shop denken</li>
-<li>Sortiment und Produktlinien planen</li>
-<li>Einen automatisierten Verkaufsprozess aufbauen</li>
-<li>Reichweite über Content, SEO und E-Mail gewinnen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Digitale Produkte skalieren“ Vom einzelnen Download zum automatisierten Shop – Einzelne Verkäufe sind schön. Sortiment und Produktlinien, automatisierter Verkaufsprozess, Reichweite über Content, SEO und E-Mail sowie sinnvolle Werbung. Für Fortgeschrittene. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Vom einzelnen Download zum Shop denken Sortiment und Produktlinien planen Einen automatisierten Verkaufsprozess aufbauen Reichweite über Content, SEO und E-Mail gewinnen
 
 ## 2. Links
 

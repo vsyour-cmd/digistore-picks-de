@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewerben Sie jetzt die '6-Konten-Modell Excelvorlage' als Affiliate und profitieren Sie von einem qualitativ hochwertigen Angebot und hohen Conversion Rates! Ihre Vorteile:<br /> </p>
-<ul>
-<li>25% Provision für jeden einzelnen Verkauf (gilt für jedes verkaufte Produkt)</li>
-<li>Verkaufsraten von durchschnittlich 7,2% durch hoch konvertierende Seiten</li>
-<li>Alle Marketing-Materialien bereits fix und fertig vorbereitet – erstellt mit wenigen Klicks</li>
-<li>Vielfach getestetes und optimiertes Marketing</li>
-</ul>
-<p>Melden Sie sich jetzt zum Partnerprogramm an und generieren Sie sofort die ersten Provisionen mit einem für den Markt hoch relevanten und verkaufsstarken Angebot!</p>
+**Vendor's marketplace description:** Bewerben Sie jetzt die '6-Konten-Modell Excelvorlage' als Affiliate und profitieren Sie von einem qualitativ hochwertigen Angebot und hohen Conversion Rates! Ihre Vorteile: 25% Provision für jeden einzelnen Verkauf (gilt für jedes verkaufte Produkt) Verkaufsraten von durchschnittlich 7,2% durch hoch konvertierende Seiten Alle Marketing-Materialien bereits fix und fertig vorbereitet – erstellt mit wenigen Klicks Vielfach getestetes und optimiertes Marketing Melden Sie sich jetzt zum Partnerprogramm an und generieren Sie sofort die ersten Provisionen mit einem für den Markt hoch relevanten und verkaufsstarken Angebot!
 
 ## 2. Links
 

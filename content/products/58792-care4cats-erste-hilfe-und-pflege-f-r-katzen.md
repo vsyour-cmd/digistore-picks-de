@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>CARE4CATS® – Katzenkrankheiten · Erste Hilfe · Entspannt zum Tierarzt</h2>
-<p>Ein umfangreicher Onlinekurs für Katzenhalter, die im Alltag und im Notfall <strong>mehr Sicherheit im Umgang mit ihrer Katze</strong> gewinnen möchten.</p>
-<p>CARE4CATS® vermittelt praxisnahes Wissen zu <strong>häufigen Katzenkrankheiten, Erster Hilfe, Vergiftungen und Reanimation, Schmerzerkennung, Körperpflege, Medikamentengabe sowie stressfreiem Tierarztbesuch und Transporttraining</strong>.</p>
-<p>Der Kurs enthält <strong>91 Seiten PDF-Skripten, 36 besprochene Lernfolien und über 40 Minuten Videomaterial</strong> und ist jederzeit online abrufbar.</p>
-<p>Die Inhalte stammen von erfahrenen Profis aus der Praxis – unter anderem aus der <strong>Tierarztpraxis Entenfellner</strong>.</p>
-<p><strong>Ideal für Affiliates mit einer Community rund um Katzen, Tiergesundheit, Katzenhaltung, Tierschutz und verantwortungsvolle Tierbetreuung.</strong></p>
+**Vendor's marketplace description:** CARE4CATS® – Katzenkrankheiten · Erste Hilfe · Entspannt zum Tierarzt Ein umfangreicher Onlinekurs für Katzenhalter, die im Alltag und im Notfall mehr Sicherheit im Umgang mit ihrer Katze gewinnen möchten. CARE4CATS® vermittelt praxisnahes Wissen zu häufigen Katzenkrankheiten, Erster Hilfe, Vergiftungen und Reanimation, Schmerzerkennung, Körperpflege, Medikamentengabe sowie stressfreiem Tierarztbesuch und Transporttraining . Der Kurs enthält 91 Seiten PDF-Skripten, 36 besprochene Lernfolien und über 40 Minuten Videomaterial und ist jederzeit online abrufbar. Die Inhalte stammen von erfahrenen Profis aus der Praxis – unter anderem aus der Tierarztpraxis Entenfellner . Ideal für Affiliates mit einer Community rund um Katzen, Tiergesundheit, Katzenhaltung, Tierschutz und verantwortungsvolle Tierbetreuung.
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewerbe das E-Book Traffic Secrets - Die Rakete</p>
-<p> </p>
-<p>- Kostenfreier Traffic</p>
-<p>- Kostenloser Traffic</p>
-<p>- Traffic bis zum Mars...</p>
-<p> </p>
-<p>Schenke das E-Book Deiner Community und du verdienst in den Upsells bis zu 119 Euro</p>
-<p> </p>
+**Vendor's marketplace description:** Bewerbe das E-Book Traffic Secrets - Die Rakete - Kostenfreier Traffic - Kostenloser Traffic - Traffic bis zum Mars... Schenke das E-Book Deiner Community und du verdienst in den Upsells bis zu 119 Euro
 
 ## 2. Links
 

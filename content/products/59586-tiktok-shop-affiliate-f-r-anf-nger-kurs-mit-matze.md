@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>TikTok Shop Affiliate für Anfänger – Kurs mit Matze</p>
-<p>Produkte prüfen, hilfreiche Videos erstellen und die Teilnahme klären. Dieser deutschsprachige Selbstlernkurs begleitet dich von der Idee bis zum Ergebnis: einen Videoplan und eine Checkliste für Eignung, Kennzeichnung und Veröffentlichung. Matze zeigt jeden Schritt am durchgehenden fiktiven Beispiel. Die Aufgaben überträgst du auf dein eigenes Projekt.</p>
-<p>Das lernst du:<br />1. Markt und Berechtigung<br />2. Produkt und eigene Prüfung<br />3. Video mit echter Demonstration<br />4. Offenlegung und Verknüpfung<br />5. Veröffentlichung und Kundenfragen<br />6. Abrechnung und Lernen</p>
-<p>Für wen? Creator, die eine ehrliche Produktdemonstration für TikTok Shop Affiliate vorbereiten möchten.</p>
-<p>Im Paket: PDF-Praxiskurs, PDF-Arbeitsmappe und vier bearbeitbare Vorlagen. Du gehst im eigenen Tempo vor und prüfst deine Ergebnisse anhand der Aufgaben.</p>
-<p>Für Affiliates: Der Kurs zeigt konkrete Arbeitsschritte und verspricht keine Umsätze oder Aufnahme in externe Programme. Bewirb ihn mit eigener Erfahrung, klarer Werbekennzeichnung und deinem persönlichen Digistore24-Promolink. Digitale Einmalzahlung; Affiliate-Provision laut Angebot: 40 %.</p>
-<p>Planungstools sind optional. Im Kurs kann ein gekennzeichneter Metricool-Affiliate-Link enthalten sein.</p>
+**Vendor's marketplace description:** TikTok Shop Affiliate für Anfänger – Kurs mit Matze Produkte prüfen, hilfreiche Videos erstellen und die Teilnahme klären. Dieser deutschsprachige Selbstlernkurs begleitet dich von der Idee bis zum Ergebnis: einen Videoplan und eine Checkliste für Eignung, Kennzeichnung und Veröffentlichung. Matze zeigt jeden Schritt am durchgehenden fiktiven Beispiel. Die Aufgaben überträgst du auf dein eigenes Projekt. Das lernst du: 1. Markt und Berechtigung 2. Produkt und eigene Prüfung 3. Video mit echter Demonstration 4. Offenlegung und Verknüpfung 5. Veröffentlichung und Kundenfragen 6. Abrechnung und Lernen Für wen? Creator, die eine ehrliche Produktdemonstration für TikTok Shop Affiliate vorbereiten möchten. Im Paket: PDF-Praxiskurs, PDF-Arbeitsmappe und vier bearbeitbare Vorlagen. Du gehst im eigenen Tempo vor und prüfst deine Ergebnisse anhand der Aufgaben. Für Affiliates: Der Kurs zeigt konkrete Arbeitsschritte und verspricht keine Umsätze oder Aufnahme in externe Programme. Bewirb ihn mit eigener Erfahrung, klarer Werbekennzeichnung und deinem persönlichen Digistore24-Promolink. Digitale Einmalzahlung; Affiliate-Provision laut Angebot: 40 %. Planungstools sind optional. Im Kurs kann ein gekennzeichneter Metricool-Affiliate-Link enthalten sein.
 
 ## 2. Links
 

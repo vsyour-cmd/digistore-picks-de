@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Ausbildung zum Imaginationspractitioner – 500 € Provision pro Verkauf für dich!</strong></p>
-<p>Bewirb eine hochwertige Ausbildung für Coaches, Therapeutinnen, Heilpraktikerinnen, Beraterinnen, Hypnose- und Entspannungsbegleiterinnen sowie Menschen in begleitenden Berufen.</p>
-<p>Die Ausbildung vermittelt Imaginationsarbeit, innere Bilder, innere Kind Arbeit, Körperwahrnehmung, emotionale Prozessbegleitung, NLP-Impulse, Selbsterfahrung und praktische Anwendung.</p>
-<p>Teilnehmerinnen und Teilnehmer lernen, Imaginationsprozesse professionell vorzubereiten, anzuleiten und achtsam zu begleiten.</p>
-<p><strong>Affiliate-Provision: </strong><strong>500 € pro Verkauf</strong><br />Zahlung über Digistore24, Einmalzahlung und Ratenzahlung möglich.</p>
-<p><strong>Wichtiger Hinweis: </strong>Bitte ohne Heilversprechen bewerben. Die Ausbildung ersetzt keine staatlich geregelte therapeutische, medizinische oder heilkundliche Qualifikation.</p>
+**Vendor's marketplace description:** Ausbildung zum Imaginationspractitioner – 500 € Provision pro Verkauf für dich! Bewirb eine hochwertige Ausbildung für Coaches, Therapeutinnen, Heilpraktikerinnen, Beraterinnen, Hypnose- und Entspannungsbegleiterinnen sowie Menschen in begleitenden Berufen. Die Ausbildung vermittelt Imaginationsarbeit, innere Bilder, innere Kind Arbeit, Körperwahrnehmung, emotionale Prozessbegleitung, NLP-Impulse, Selbsterfahrung und praktische Anwendung. Teilnehmerinnen und Teilnehmer lernen, Imaginationsprozesse professionell vorzubereiten, anzuleiten und achtsam zu begleiten. Affiliate-Provision: 500 € pro Verkauf Zahlung über Digistore24, Einmalzahlung und Ratenzahlung möglich. Wichtiger Hinweis: Bitte ohne Heilversprechen bewerben. Die Ausbildung ersetzt keine staatlich geregelte therapeutische, medizinische oder heilkundliche Qualifikation.
 
 ## 2. Links
 

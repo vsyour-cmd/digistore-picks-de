@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Alles Wichtige  zu allen 7 Chakren – auf einen Blick, klar strukturiert und wunderschön gestaltet. Kein Suchen mehr in dicken Büchern. Alle wichtigen Infos auf einem einzigen Poster.</p>
-<p><strong>Welche Infos sind enthalten?</strong></p>
-<p>Für jedes der 7 Hauptchakren bekommst du folgende Informationen:</p>
-<ul>
-<li>Sanskritname, zugeordnete Farbe, Symbol und Element</li>
-<li>Lage im Körper und zugehörige Lebensthemen</li>
-<li>Körperliche Zuordnungen und geistig-seelisches Prinzip</li>
-<li>Blockaden und gesundheitliche Störungen – erkenne, was aus dem Gleichgewicht geraten ist</li>
-<li>Wirkender Farbstrahl und zugeordneter Aufgestiegener Meister (12 Göttliche Strahlen)</li>
-<li>Heilsteine, Heilkräuter, Ätherische Öle und Bachblüten</li>
-<li>Unterstützender Vokallaut, Mantra und Affirmation</li>
-<li>Alltagstipps zur Chakrenaktivierung</li>
-<li>Passende Yogaübungen</li>
-</ul>
-<p><strong>Für wen ist dieses Poster?</strong></p>
-<p>Für alle, die in der Energiearbeit, im Coaching, in der Heilarbeit oder auf dem spirituellen Weg unterwegs sind – egal ob Anfänger oder Fortgeschrittene. Auch ideal als dekoratives und gleichzeitig informatives Element in Praxisräumen, Yogastudios oder im Homeoffice.</p>
+**Vendor's marketplace description:** Alles Wichtige zu allen 7 Chakren – auf einen Blick, klar strukturiert und wunderschön gestaltet. Kein Suchen mehr in dicken Büchern. Alle wichtigen Infos auf einem einzigen Poster. Welche Infos sind enthalten? Für jedes der 7 Hauptchakren bekommst du folgende Informationen: Sanskritname, zugeordnete Farbe, Symbol und Element Lage im Körper und zugehörige Lebensthemen Körperliche Zuordnungen und geistig-seelisches Prinzip Blockaden und gesundheitliche Störungen – erkenne, was aus dem Gleichgewicht geraten ist Wirkender Farbstrahl und zugeordneter Aufgestiegener Meister (12 Göttliche Strahlen) Heilsteine, Heilkräuter, Ätherische Öle und Bachblüten Unterstützender Vokallaut, Mantra und Affirmation Alltagstipps zur Chakrenaktivierung Passende Yogaübungen Für wen ist dieses Poster? Für alle, die in der Energiearbeit, im Coaching, in der Heilarbeit oder auf dem spirituellen Weg unterwegs sind – egal ob Anfänger oder Fortgeschrittene. Auch ideal als dekoratives und gleichzeitig informatives Element in Praxisräumen, Yogastudios oder im Homeoffice.
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Deine Kunden entdecken mit dem „<em>Traffic Schnellstarter Kurs</em>“ die eine ultimative Fähigkeit mit der sie für den Rest ihres Lebens in der Lage sein werden, 1.357€ oder mehr im Internet zu verdienen!<br /><br />Mit dem TSSK lernen deine Kunden wie sie Traffic Generieren. <br />Traffic Generieren = die eine Fähigkeit, welche den Unterschied macht zwischen allen erfolglosen und den Internet Riesen, wie Facebook, Amazon und Ebay. Diese eine Fähigkeit hat allein dieses Jahr schon mehr Millionäre geschaffen als Lotto in den vergangen 50 Jahren!</p>
-<p>Unsere Conversionrate beträgt bei zielgerichtetem Traffic bis zu 16,3% und die Refundrate ist geringer als 1%.</p>
-<p>Die Upsellrate liegt bei über 17% (gemessen an mehr als 1000 Verkäufen)<br /><br /><br /><strong>Das sind die Benefits für deine Kunden:</strong><br /><br />Mit dem Traffic Schnellstarter Kurs können sie…</p>
-<ul>
-<li>…die Traffic Hacks der Meister in unter 3 Stunden lernen.</li>
-<li>…Lebenslang in der Lage sein fast aus dem nichts Geld zu verdienen.</li>
-<li>…erfolgreich werden, ohne Kenntnisse von Technik oder einem genauen Plan in welche Richtung sich ihr Business entwickeln soll.</li>
-<li>… alles wird 1:1 zum Nachmachen erklärt.<br /><br /></li>
-</ul>
-<p>Bewerben Sie unser Produkt JETZT an Ihre Liste und sehen schon heute Abend große Summen an Provision in Ihren Account fließen.</p>
+**Vendor's marketplace description:** Deine Kunden entdecken mit dem „ Traffic Schnellstarter Kurs “ die eine ultimative Fähigkeit mit der sie für den Rest ihres Lebens in der Lage sein werden, 1.357€ oder mehr im Internet zu verdienen! Mit dem TSSK lernen deine Kunden wie sie Traffic Generieren. Traffic Generieren = die eine Fähigkeit, welche den Unterschied macht zwischen allen erfolglosen und den Internet Riesen, wie Facebook, Amazon und Ebay. Diese eine Fähigkeit hat allein dieses Jahr schon mehr Millionäre geschaffen als Lotto in den vergangen 50 Jahren! Unsere Conversionrate beträgt bei zielgerichtetem Traffic bis zu 16,3% und die Refundrate ist geringer als 1%. Die Upsellrate liegt bei über 17% (gemessen an mehr als 1000 Verkäufen) Das sind die Benefits für deine Kunden: Mit dem Traffic Schnellstarter Kurs können sie… …die Traffic Hacks der Meister in unter 3 Stunden lernen. …Lebenslang in der Lage sein fast aus dem nichts Geld zu verdienen. …erfolgreich werden, ohne Kenntnisse von Technik oder einem genauen Plan in welche Richtung sich ihr Business entwickeln soll. … alles wird 1:1 zum Nachmachen erklärt. Bewerben Sie unser Produkt JETZT an Ihre Liste und sehen schon heute Abend große Summen an Provision in Ihren Account fließen.
 
 ## 2. Links
 

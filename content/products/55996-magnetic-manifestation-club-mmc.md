@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Verdiene bis <span style="background-color:#ff6600;">50% wiederkehrende Provision + Upsellprovision</span> pro geworbenen Kunden</strong></h2>
-<p>Empfiehl eine der am schnellsten wachsenden Manifestations-Communities und baue dir ein monatliches Einkommen mit wiederkehrenden Provisionen auf.</p>
-<p><br /><strong>DEIN VERDIENST</strong><br />✓ 50 % wiederkehrende Provision auf jeden aktiven Kunden<br />✓ + 37,25 € wiederkehrende Jahresprovision bei jedem Jahresupgrade<br /><br /><strong>DARUM LOHNT ES SICH</strong><br />✓ Hohe Nachfrage im Manifestations-Trend<br />✓ Einzigartige Community mit Top Experten<br />✓ Einfach zu empfehlen dank conversionstarker Landingpage<br /><br /><strong>BEISPIEL</strong><br />35 Kunden = 422,80 € monatlich wiederkehrend<br />+ 37,25 € Extra-Provision auf jedes Jahresupgrade möglich<br /><br /><strong>ZIELGRUPPE SIND MENSCHEN, die....</strong><br />✓ ihre Traumbeziehung manifestieren wollen<br />✓ endlich eine glückliche &amp; erfüllte Beziehung finden wollen<br />✓ Ex-Freund zurück möchten oder sich davon lösen</p>
-<p>✓ Persönlichkeitsenwicklung mit Manifestation<br /><br /><strong>Jetzt Partner werden und wiederkehrend mitverdienen.</strong></p>
+**Vendor's marketplace description:** Verdiene bis 50% wiederkehrende Provision + Upsellprovision pro geworbenen Kunden Empfiehl eine der am schnellsten wachsenden Manifestations-Communities und baue dir ein monatliches Einkommen mit wiederkehrenden Provisionen auf. DEIN VERDIENST ✓ 50 % wiederkehrende Provision auf jeden aktiven Kunden ✓ + 37,25 € wiederkehrende Jahresprovision bei jedem Jahresupgrade DARUM LOHNT ES SICH ✓ Hohe Nachfrage im Manifestations-Trend ✓ Einzigartige Community mit Top Experten ✓ Einfach zu empfehlen dank conversionstarker Landingpage BEISPIEL 35 Kunden = 422,80 € monatlich wiederkehrend + 37,25 € Extra-Provision auf jedes Jahresupgrade möglich ZIELGRUPPE SIND MENSCHEN, die.... ✓ ihre Traumbeziehung manifestieren wollen ✓ endlich eine glückliche & erfüllte Beziehung finden wollen ✓ Ex-Freund zurück möchten oder sich davon lösen ✓ Persönlichkeitsenwicklung mit Manifestation Jetzt Partner werden und wiederkehrend mitverdienen.
 
 ## 2. Links
 

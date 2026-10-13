@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Zeichnen lernen: Der Online-Zeichenkurs „Natur und Landschaft zeichnen“</strong></p>
-<p>Der Zeichenkurs ist ein umfassender Online-Zeichenkurs für realistisch zeichnende Menschen, die ihre Fähigkeiten systematisch aufbauen oder vertiefen möchten. Er ist ein Zeichenkurs der Akademie Schmidt's Zeichenwelt.</p>
-<p>Mit der Drei-Schritte-Methode von Ralf Wilhelm Schmidt lernst du, Berge, Blumen, Steine, Wolken und mehr Schritt für Schritt aufs Papier zu bringen – klar, verständlich und auch ohne Vorwissen.</p>
-<p>Am Ende entsteht eine <strong>vollständige Landschaft</strong>, in der sich alle Motive zu einer harmonischen Szene verbinden –ein <strong>kreativer Höhepunkt, der Freude und Urlaubsfeeling</strong> verbindet.</p>
-<p>Geleitet wird der Kurs von Ralf Wilhelm Schmidt, freischaffender Künstler mit langjähriger Unterrichtserfahrung. Der Kurs ist so aufgebaut, dass schnell sichtbare Fortschritte entstehen und echtes zeichnerisches Verständnis wächst.</p>
-<p>Die Verkaufsseite bietet eine klare Struktur, transparente Preisgestaltung und eine bewährte Conversion-Führung. Affiliates verlinken direkt auf die offizielle Kursseite.</p>
-<p><strong>Geeignet für:</strong></p>
-<p>– Zeichenanfänger und Fortgeschrittene</p>
-<p>– Kreative Erwachsene</p>
-<p>– Kunst- und Zeicheninteressierte</p>
-<p> </p>
-<p><strong>Produkt:</strong></p>
-<p>hochwertiger Einzelkurs, langfristig nutzbar</p>
-<p>Provision:</p>
-<p>attraktiv und fair</p>
-<p> </p>
-<p><strong>Wichtiger Hinweis für Affiliate-Partner</strong></p>
-<p>Wir suchen seriöse, langfristige Affiliate-Partner mit einer passenden Zielgruppe im deutschsprachigen Raum.</p>
-<p>Bitte gib bei Deiner Bewerbung an, über welche Webseite, welchen Social-Media-Kanal oder welche andere konkrete Plattform Du unser Zeichenheft bewerben möchtest.</p>
-<p>Anfragen ohne nachvollziehbare Angaben zum geplanten Werbekanal werden nicht berücksichtigt.</p>
-<p>Weitere Informationen zur Zusammenarbeit findest Du auf unserer Affiliate-Partnerseite.</p>
+**Vendor's marketplace description:** Zeichnen lernen: Der Online-Zeichenkurs „Natur und Landschaft zeichnen“ Der Zeichenkurs ist ein umfassender Online-Zeichenkurs für realistisch zeichnende Menschen, die ihre Fähigkeiten systematisch aufbauen oder vertiefen möchten. Er ist ein Zeichenkurs der Akademie Schmidt's Zeichenwelt. Mit der Drei-Schritte-Methode von Ralf Wilhelm Schmidt lernst du, Berge, Blumen, Steine, Wolken und mehr Schritt für Schritt aufs Papier zu bringen – klar, verständlich und auch ohne Vorwissen. Am Ende entsteht eine vollständige Landschaft , in der sich alle Motive zu einer harmonischen Szene verbinden –ein kreativer Höhepunkt, der Freude und Urlaubsfeeling verbindet. Geleitet wird der Kurs von Ralf Wilhelm Schmidt, freischaffender Künstler mit langjähriger Unterrichtserfahrung. Der Kurs ist so aufgebaut, dass schnell sichtbare Fortschritte entstehen und echtes zeichnerisches Verständnis wächst. Die Verkaufsseite bietet eine klare Struktur, transparente Preisgestaltung und eine bewährte Conversion-Führung. Affiliates verlinken direkt auf die offizielle Kursseite. Geeignet für: – Zeichenanfänger und Fortgeschrittene – Kreative Erwachsene – Kunst- und Zeicheninteressierte Produkt: hochwertiger Einzelkurs, langfristig nutzbar Provision: attraktiv und fair Wichtiger Hinweis für Affiliate-Partner Wir suchen seriöse, langfristige Affiliate-Partner mit einer passenden Zielgruppe im deutschsprachigen Raum. Bitte gib bei Deiner Bewerbung an, über welche Webseite, welchen Social-Media-Kanal oder welche andere konkrete Plattform Du unser Zeichenheft bewerben möchtest. Anfragen ohne nachvollziehbare Angaben zum geplanten Werbekanal werden nicht berücksichtigt. Weitere Informationen zur Zusammenarbeit findest Du auf unserer Affiliate-Partnerseite.
 
 ## 2. Links
 

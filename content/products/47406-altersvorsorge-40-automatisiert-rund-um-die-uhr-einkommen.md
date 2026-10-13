@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Dieser wertvolle Ratgeber wird  kostenlos angeboten</strong></p>
-<p><strong>Folgendes wird dein Kunde erfahren:</strong></p>
-<p><strong>Eröffnet ihm neue Möglichkeiten, </strong>wie er als Affiliate Zusatzeinkommen generieren kannt</p>
-<p><strong>Wie du ohne Vorkenntnisse </strong>mit Hilfe der Affiliate Funnel Power Cash Box deinen Affiliate-Funnel erstellst und automatisierst um damit ein Zusatzeinkommen generieren zu können</p>
-<p>Die ganze Strategie ist <strong>ohne eigenes Produkt oder Angebot</strong> umsetzbar</p>
-<p><strong>Es sind einfache Schritte</strong>, die du leicht umsetzen kannst</p>
-<p>Du hast mit <strong>diesem E-Book ein Geschenk für deine Community</strong> und wirst am<strong> kompletten Sales-Funnel beteiligt!</strong></p>
-<p>Hohe Conversion, da es für den Kunden kostenlos ist. <strong>55 % Affiliate-Provision!</strong></p>
-<p>Beteiligt an alle Up- und Downsell einschliesslich anschliessendem E-Mail-Funnel</p>
+**Vendor's marketplace description:** Dieser wertvolle Ratgeber wird kostenlos angeboten Folgendes wird dein Kunde erfahren: Eröffnet ihm neue Möglichkeiten, wie er als Affiliate Zusatzeinkommen generieren kannt Wie du ohne Vorkenntnisse mit Hilfe der Affiliate Funnel Power Cash Box deinen Affiliate-Funnel erstellst und automatisierst um damit ein Zusatzeinkommen generieren zu können Die ganze Strategie ist ohne eigenes Produkt oder Angebot umsetzbar Es sind einfache Schritte , die du leicht umsetzen kannst Du hast mit diesem E-Book ein Geschenk für deine Community und wirst am kompletten Sales-Funnel beteiligt! Hohe Conversion, da es für den Kunden kostenlos ist. 55 % Affiliate-Provision! Beteiligt an alle Up- und Downsell einschliesslich anschliessendem E-Mail-Funnel
 
 ## 2. Links
 

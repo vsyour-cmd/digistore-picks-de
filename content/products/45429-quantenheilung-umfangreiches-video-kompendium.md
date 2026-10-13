@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Umfangreiches Video Kompendium über Quantenheilung und Matrix vom Bestsellerautor.</p>
-<p>In diesem einzigartigen Video-Kompendium haben wir das geballte Wissen aus 15 Jahren Quantenheilung mit Matrix-Inform mit über 3.000 Seminaren und mehr als 70.000 Teilnehmern zusammengefasst.</p>
+**Vendor's marketplace description:** Umfangreiches Video Kompendium über Quantenheilung und Matrix vom Bestsellerautor. In diesem einzigartigen Video-Kompendium haben wir das geballte Wissen aus 15 Jahren Quantenheilung mit Matrix-Inform mit über 3.000 Seminaren und mehr als 70.000 Teilnehmern zusammengefasst.
 
 ## 2. Links
 

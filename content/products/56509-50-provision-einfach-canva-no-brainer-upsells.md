@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Sichere dir schnelle Provisionen mit dem ultimativen No-Brainer für besseres Design!</strong></p>
-<p>Auffällige Grafiken und professionelle Posts sind auf Social Media heute Pflicht – doch den meisten fehlt die Zeit oder das technische Know-how. Genau da setzt mein Praxis-Guide "Einfach Canva!" an. Er zeigt, wie jeder ohne Vorkenntnisse in Rekordzeit beeindruckende Designs erstellt. Ein absolutes Must-have für eine riesige Zielgruppe und deine Chance auf regelmäßige Provisionen!</p>
-<p><strong>Warum "Einfach Canva!" perfekt für dich als Affiliate ist:</strong></p>
-<ul>
-<li>
-<p><strong>50 % Provision</strong> für jeden vermittelten Verkauf!</p>
-</li>
-<li>
-<p><strong>Lukrative Order Bumps:</strong> Im Bestellformular biete ich weitere extrem gut passende Guides (z. B. für Instagram-Wachstum) als Zusatzoptionen an. Dadurch klettert deine Provision aktuell auf bis zu <strong>15 € pro Sale</strong>!</p>
-</li>
-<li>
-<p><strong>Extreme Conversion-Rate:</strong> Durch den unschlagbar günstigen Preis überlegen deine Follower nicht lange. Es ist ein reines Impulskauf-Produkt, das sich fast von selbst über Storys, Reels oder deinen Link in der Bio verkauft.</p>
-</li>
-<li>
-<p><strong>Breite Zielgruppe:</strong> Content Creator, Coaches, Virtuelle Assistenzen oder Kleinunternehmer – fast jeder nutzt heute Canva und will darin besser &amp; schneller werden.</p>
-</li>
-<li>
-<p><strong>Sofort loslegen:</strong> Keine Wartezeit auf Freigaben! Deine Partnerschaft wird automatisch genehmigt, du kannst direkt starten.</p>
-</li>
-</ul>
-<p><strong>So füllst du dein Konto:</strong> Hol dir deinen Promolink, teile ihn mit deiner Community (z.B. wenn du das nächste Mal zeigst, wie du einen Post erstellst) und profitiere von der Masse an Verkäufen, die dieser Low-Ticket-Guide generiert.</p>
-<p>Generiere dir jetzt deinen Link und lass uns gemeinsam wachsen!</p>
+**Vendor's marketplace description:** Sichere dir schnelle Provisionen mit dem ultimativen No-Brainer für besseres Design! Auffällige Grafiken und professionelle Posts sind auf Social Media heute Pflicht – doch den meisten fehlt die Zeit oder das technische Know-how. Genau da setzt mein Praxis-Guide "Einfach Canva!" an. Er zeigt, wie jeder ohne Vorkenntnisse in Rekordzeit beeindruckende Designs erstellt. Ein absolutes Must-have für eine riesige Zielgruppe und deine Chance auf regelmäßige Provisionen! Warum "Einfach Canva!" perfekt für dich als Affiliate ist: 50 % Provision für jeden vermittelten Verkauf! Lukrative Order Bumps: Im Bestellformular biete ich weitere extrem gut passende Guides (z. B. für Instagram-Wachstum) als Zusatzoptionen an. Dadurch klettert deine Provision aktuell auf bis zu 15 € pro Sale ! Extreme Conversion-Rate: Durch den unschlagbar günstigen Preis überlegen deine Follower nicht lange. Es ist ein reines Impulskauf-Produkt, das sich fast von selbst über Storys, Reels oder deinen Link in der Bio verkauft. Breite Zielgruppe: Content Creator, Coaches, Virtuelle Assistenzen oder Kleinunternehmer – fast jeder nutzt heute Canva und will darin besser & schneller werden. Sofort loslegen: Keine Wartezeit auf Freigaben! Deine Partnerschaft wird automatisch genehmigt, du kannst direkt starten. So füllst du dein Konto: Hol dir deinen Promolink, teile ihn mit deiner Community (z.B. wenn du das nächste Mal zeigst, wie du einen Post erstellst) und profitiere von der Masse an Verkäufen, die dieser Low-Ticket-Guide generiert. Generiere dir jetzt deinen Link und lass uns gemeinsam wachsen!
 
 ## 2. Links
 

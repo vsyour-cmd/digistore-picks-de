@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Handpan Training Cards</h1>
-<div>
-<p>Lerne mit den Handpan Lernkarten / Handpan Spielkarten, die Akkorde deiner Handpan auf spielerische Weise.</p>
-<p><strong>Spielvarianten:</strong></p>
-<ul>
-<li><strong>Karteikartensystem:</strong> Nutze die Karten wie Karteikarten, um deine Akkorde zu lernen. Wiederhole die Akkorde, bis du sie sicher beherrschst.</li>
-<li><strong>Zufällige Akkordfolgen:</strong> Ziehe zufällig Karten und bilde daraus eine Akkordfolge. Spiele diese Akkordfolge auf deiner Handpan und übe so das freie Spiel.</li>
-<li><strong>Spielerisches Lernen:</strong> Lasse deiner Kreativität freien Lauf und erfinde deine eigenen Spielvarianten. So lernst du deine Handpan auf spielerische und motivierende Weise kennen.</li>
-</ul>
-<p><strong>Lieferumfang:</strong></p>
-<p><strong>PDF-Datei:</strong> Du erhältst eine PDF-Datei, die alle Handpan Akkordkarten im Überblick enthält. Fertig zum ausdrucken und ausschneiden. Die Anzahl variiert je nach Handpan. Bei einer D-Kurd / d-Moll sind es z.B. 28 Akkord-Karten.</p>
-<p><strong>Einzelne PNG-Dateien:</strong> Jede Akkordkarte ist zusätzlich als einzelne PNG-Datei verfügbar. So kannst du die Karten flexibel ausdrucken und verwenden.</p>
-<p>Karten Größe: <strong>6,3 x 8,8cm</strong></p>
-</div>
+**Vendor's marketplace description:** Handpan Training Cards Lerne mit den Handpan Lernkarten / Handpan Spielkarten, die Akkorde deiner Handpan auf spielerische Weise. Spielvarianten: Karteikartensystem: Nutze die Karten wie Karteikarten, um deine Akkorde zu lernen. Wiederhole die Akkorde, bis du sie sicher beherrschst. Zufällige Akkordfolgen: Ziehe zufällig Karten und bilde daraus eine Akkordfolge. Spiele diese Akkordfolge auf deiner Handpan und übe so das freie Spiel. Spielerisches Lernen: Lasse deiner Kreativität freien Lauf und erfinde deine eigenen Spielvarianten. So lernst du deine Handpan auf spielerische und motivierende Weise kennen. Lieferumfang: PDF-Datei: Du erhältst eine PDF-Datei, die alle Handpan Akkordkarten im Überblick enthält. Fertig zum ausdrucken und ausschneiden. Die Anzahl variiert je nach Handpan. Bei einer D-Kurd / d-Moll sind es z.B. 28 Akkord-Karten. Einzelne PNG-Dateien: Jede Akkordkarte ist zusätzlich als einzelne PNG-Datei verfügbar. So kannst du die Karten flexibel ausdrucken und verwenden. Karten Größe: 6,3 x 8,8cm
 
 ## 2. Links
 

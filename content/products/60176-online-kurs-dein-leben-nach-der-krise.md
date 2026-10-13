@@ -41,35 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Finde deine Richtung. Triff deine Entscheidungen. Komm ins Handeln.</strong></p>
-<p>Ein strukturierter Online-Kurs für Menschen, die ihr Leben nach einer schweren Erkrankung, einem Schicksalsschlag oder einem tiefen Umbruch neu ausrichten wollen.</p>
-<p>Heike Spreter-Krick und ihr Vater Christian Spreter verbinden persönliche Krisenerfahrungen mit ihrer Lebensformel:</p>
-<p><strong>Erkennen × Entscheiden × Handeln = dein bestes Leben leben</strong></p>
-<p>Der Kurs unterstützt Teilnehmende dabei, ihre aktuelle Situation zu sortieren, Prioritäten zu setzen und konkrete Veränderungen im Alltag anzugehen – passend zu ihrer heutigen Kraft und Lebenssituation.</p>
-<p><strong>Das bietet der Kurs:</strong></p>
-<ul>
-<li>
-<p>Praxisnahe Module zu Erkennen, Entscheiden und Handeln</p>
-</li>
-<li>
-<p>Orientierung in sechs Lebensbereichen: Beruf, Gesundheit, Selbstbild und Sinn, Beziehungen, Lebensfreude und finanzielle Absicherung</p>
-</li>
-<li>
-<p>Digitale Arbeitsblätter, Reflexionsfragen und praktische Übungen</p>
-</li>
-<li>
-<p>FragenFächer und KI-gestützte Reflexion zur Entwicklung eigener Antworten und neuer Perspektiven</p>
-</li>
-<li>
-<p>Selbstständiges Lernen im eigenen Tempo</p>
-</li>
-<li>
-<p>365 Tage Zugang über die Kursplattform Flenski</p>
-</li>
-</ul>
-<p><strong>Zielgruppe:</strong><br />Menschen nach Erkrankungen, persönlichen Krisen oder einschneidenden Veränderungen, die Orientierung suchen und ihr Leben bewusst gestalten möchten.</p>
-<p><strong>Für Affiliate-Partner:</strong><br />Thematisch passend für Inhalte und Communitys rund um Krisenbewältigung, persönliche Neuorientierung, Selbstfürsorge und Lebensgestaltung.</p>
-<p><strong>Verkaufspreis:</strong> 297 €</p>
+**Vendor's marketplace description:** Finde deine Richtung. Triff deine Entscheidungen. Komm ins Handeln. Ein strukturierter Online-Kurs für Menschen, die ihr Leben nach einer schweren Erkrankung, einem Schicksalsschlag oder einem tiefen Umbruch neu ausrichten wollen. Heike Spreter-Krick und ihr Vater Christian Spreter verbinden persönliche Krisenerfahrungen mit ihrer Lebensformel: Erkennen × Entscheiden × Handeln = dein bestes Leben leben Der Kurs unterstützt Teilnehmende dabei, ihre aktuelle Situation zu sortieren, Prioritäten zu setzen und konkrete Veränderungen im Alltag anzugehen – passend zu ihrer heutigen Kraft und Lebenssituation. Das bietet der Kurs: Praxisnahe Module zu Erkennen, Entscheiden und Handeln Orientierung in sechs Lebensbereichen: Beruf, Gesundheit, Selbstbild und Sinn, Beziehungen, Lebensfreude und finanzielle Absicherung Digitale Arbeitsblätter, Reflexionsfragen und praktische Übungen FragenFächer und KI-gestützte Reflexion zur Entwicklung eigener Antworten und neuer Perspektiven Selbstständiges Lernen im eigenen Tempo 365 Tage Zugang über die Kursplattform Flenski Zielgruppe: Menschen nach Erkrankungen, persönlichen Krisen oder einschneidenden Veränderungen, die Orientierung suchen und ihr Leben bewusst gestalten möchten. Für Affiliate-Partner: Thematisch passend für Inhalte und Communitys rund um Krisenbewältigung, persönliche Neuorientierung, Selbstfürsorge und Lebensgestaltung. Verkaufspreis: 297 €
 
 ## 2. Links
 

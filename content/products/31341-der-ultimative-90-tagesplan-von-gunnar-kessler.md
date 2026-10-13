@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der ultimative 90 Tagesplan zum dauerhaften Online Einkommen</strong><br /><br /><strong>Der 90 Tage Produktplan zeigt seinen Kunden, wie sie mit 60 Minuten Aufwand am Tag mehr als 500€ Monatlich mehr verdienen können </strong><br /><br />Mit dem 90 Tage Produktplan bieten Sie Ihren Kunden eine einmalige Möglichkeit 100%ig, sicher neue passive Einkommensströme über das Internet aufzubauen.<br /><br /><br />Unsere Conversionrate beträgt bei zielgerichtetem Traffic bis zu 21,7% und die Refundrate ist geringer als 1%.<br /><br /></p>
-<p>Die Upsellrate liegt bei über 24% (gemessen an mehr als 1000 Verkäufen)<br /><br />Hier sind die Benefits für Ihre Kunden:<br /><br /></p>
-<p>Mit dem 90 Tages Produktplan können Sie:</p>
-<p>* mit einem 90-tägigem Plan Schritt für Schirtt ihr eigenes Geld erwirtschaftendes Online Business aufbauen.</p>
-<p>* für unter 0,10€ am Tag, die Tools sehen, mit dennen ich mir meinen jetztigen Lebensstil leisten kann</p>
-<p>* erfolgreich werden, ohne Kentnnise von Technick oder einem genauen Plan in welche Richtung sich ihr Bussines entwickeln soll<br /><br />* alles wird 1:1 zum Nachmachen erklärt<br /><br /><strong>Bewerben Sie unser Produkt JETZT an Ihre Liste und sehen schon heute Abend große Summen an Provision in Ihren Account fließen.</strong></p>
+**Vendor's marketplace description:** Der ultimative 90 Tagesplan zum dauerhaften Online Einkommen Der 90 Tage Produktplan zeigt seinen Kunden, wie sie mit 60 Minuten Aufwand am Tag mehr als 500€ Monatlich mehr verdienen können Mit dem 90 Tage Produktplan bieten Sie Ihren Kunden eine einmalige Möglichkeit 100%ig, sicher neue passive Einkommensströme über das Internet aufzubauen. Unsere Conversionrate beträgt bei zielgerichtetem Traffic bis zu 21,7% und die Refundrate ist geringer als 1%. Die Upsellrate liegt bei über 24% (gemessen an mehr als 1000 Verkäufen) Hier sind die Benefits für Ihre Kunden: Mit dem 90 Tages Produktplan können Sie: * mit einem 90-tägigem Plan Schritt für Schirtt ihr eigenes Geld erwirtschaftendes Online Business aufbauen. * für unter 0,10€ am Tag, die Tools sehen, mit dennen ich mir meinen jetztigen Lebensstil leisten kann * erfolgreich werden, ohne Kentnnise von Technick oder einem genauen Plan in welche Richtung sich ihr Bussines entwickeln soll * alles wird 1:1 zum Nachmachen erklärt Bewerben Sie unser Produkt JETZT an Ihre Liste und sehen schon heute Abend große Summen an Provision in Ihren Account fließen.
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Endlich Profitabel – Die einzige Strategie, die du brauchst</strong></h3>
-<p><strong>Du hast genug von unklaren Signalen, überladenen Charts und dem ständigen Gefühl, im Markt immer einen Schritt zu spät zu sein?</strong>Dann ist dieses E-Book genau für dich gemacht.</p>
-<p>In <em>„Endlich Profitabel“</em> bekommst du <strong>eine klare, praxiserprobte Strategie</strong>, die dir zeigt, wie du mit beliebten Indikatoren, Trendbestimmung und Preiszonen kombinierst – für einfache, saubere und profitable Trades.</p>
-<p> </p>
-<h3> </h3>
+**Vendor's marketplace description:** Endlich Profitabel – Die einzige Strategie, die du brauchst Du hast genug von unklaren Signalen, überladenen Charts und dem ständigen Gefühl, im Markt immer einen Schritt zu spät zu sein? Dann ist dieses E-Book genau für dich gemacht. In „Endlich Profitabel“ bekommst du eine klare, praxiserprobte Strategie , die dir zeigt, wie du mit beliebten Indikatoren, Trendbestimmung und Preiszonen kombinierst – für einfache, saubere und profitable Trades.
 
 ## 2. Links
 

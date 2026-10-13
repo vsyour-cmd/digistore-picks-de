@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>1MILLIONVIEWS SYSTEM™ – Affiliate-Programm (50 % Provision)</h3>
-<hr />
-<h3>Über das Produkt</h3>
-<p>Das <strong>1MILLIONVIEWS SYSTEM™</strong> ist ein virales Social-Media-Framework, das Coaches, Beratern, Agenturen und Content-Creatorn zeigt, wie sie in nur 30 Tagen über <strong>eine Million Aufrufe</strong> erzielen – organisch, systematisch und wiederholbar.</p>
-<p>Das System basiert auf echten Ergebnissen (17 Millionen Views in 30 Tagen) und einem 6-Phasen-Blueprint:</p>
-<p><strong>Hooks → Algorithmus → Viralität → Retention → Content-Matrix → Monetarisierung</strong></p>
-<p>Kein Zufall, keine Trends – nur Struktur, Psychologie und bewährte Prozesse.</p>
-<hr />
-<h3>Funnel-Aufbau</h3>
-<p><strong>Frontend:</strong><br />1MILLIONVIEWS SYSTEM – 67 €<br />Das Hauptprodukt mit allen Modulen, Templates und Hook-Formeln.<br />Konversionsstarkes Einstiegsprodukt (Durchschnittliche Conversion: 4–8 % je nach Traffic).</p>
-<p><strong>Order Bump 1:</strong><br />Virale Hook-Liste – 12 €<br />50 getestete Hook-Vorlagen für sofortige Anwendung.</p>
-<p><strong>Order Bump 2:</strong><br />Story View System – 17 €<br />Das 14-Tage-Protokoll, das aus Story-Zuschauern Kunden macht.</p>
-<p><strong>Upsell 1:</strong><br />ContentMaster KI-Agent – 149 €<br />Ein KI-gestütztes Tool, das in 10 Sekunden komplette Reels mit Hook, Story und CTA erstellt.</p>
-<p><strong>Downsell:</strong><br />KI-Light-Version – 78 €<br />Abgespeckte Version des KI-Agents für kleinere Budgets.</p>
-<p><strong>Upsell 2:</strong><br />ManyChat Mastery Templates – 249 €<br />12 fertige Automations-Flows, die Kommentare und DMs automatisch in Verkäufe umwandeln.</p>
+**Vendor's marketplace description:** 1MILLIONVIEWS SYSTEM™ – Affiliate-Programm (50 % Provision) Über das Produkt Das 1MILLIONVIEWS SYSTEM™ ist ein virales Social-Media-Framework, das Coaches, Beratern, Agenturen und Content-Creatorn zeigt, wie sie in nur 30 Tagen über eine Million Aufrufe erzielen – organisch, systematisch und wiederholbar. Das System basiert auf echten Ergebnissen (17 Millionen Views in 30 Tagen) und einem 6-Phasen-Blueprint: Hooks → Algorithmus → Viralität → Retention → Content-Matrix → Monetarisierung Kein Zufall, keine Trends – nur Struktur, Psychologie und bewährte Prozesse. Funnel-Aufbau Frontend: 1MILLIONVIEWS SYSTEM – 67 € Das Hauptprodukt mit allen Modulen, Templates und Hook-Formeln. Konversionsstarkes Einstiegsprodukt (Durchschnittliche Conversion: 4–8 % je nach Traffic). Order Bump 1: Virale Hook-Liste – 12 € 50 getestete Hook-Vorlagen für sofortige Anwendung. Order Bump 2: Story View System – 17 € Das 14-Tage-Protokoll, das aus Story-Zuschauern Kunden macht. Upsell 1: ContentMaster KI-Agent – 149 € Ein KI-gestütztes Tool, das in 10 Sekunden komplette Reels mit Hook, Story und CTA erstellt. Downsell: KI-Light-Version – 78 € Abgespeckte Version des KI-Agents für kleinere Budgets. Upsell 2: ManyChat Mastery Templates – 249 € 12 fertige Automations-Flows, die Kommentare und DMs automatisch in Verkäufe umwandeln.
 
 ## 2. Links
 

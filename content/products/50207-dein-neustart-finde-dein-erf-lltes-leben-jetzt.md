@@ -41,45 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die <strong>Bewerbung</strong> des Online-Kurses findet <strong>über den Link für das Miniprodukt "4-Wochen-Money-Reset" statt.</strong></p>
-<p><strong>Die Beschreibung findest Du im Affiliate-Programm auf der Affiliate-Support-Seite.</strong></p>
-<p>Der Online-Kurs "Dein Neustart: Finde Dein erfülltes Leben JETZT!" ist ein Selbstlernkurs für Frauen, die eine Veränderung im Leben wollen, es jedoch bisher nicht geschafft haben, weil die Zweifel und Ängste stärker waren.</p>
-<p>Inhalt:</p>
-<p><strong>Modul 1</strong> <strong>Mindset und Transformation</strong></p>
-<div>
-<ul>
-<li>6 transformative Video-Lektionen</li>
-<li>insgesamt über 3 Stunden Laufzeit</li>
-<li>auch als Audio herunterzuladen</li>
-<li>Übungen, um das Gelernte zu festigen.</li>
-</ul>
-<p><strong>Modul 2</strong> <strong>Money-Mindset</strong></p>
-<div>
-<ul>
-<li>9 transformative Video-Lektionen</li>
-<li>insgesamt über 2 Stunden Laufzeit</li>
-<li>auch als Audio herunterzuladen</li>
-<li>Übungen, um das Gelernte zu festigen.</li>
-</ul>
-<p> </p>
-</div>
-</div>
-<div>
-<p><strong>Der Kurs ist anders, als Du es möglicherweise bereits kennst. Denn er zeigt Dir Wege auf, die Dir vielleicht noch nicht bekannt sind. </strong></p>
-<p>Doch er führt Dich Schritt für Schritt durch Deinen Veränderungsprozess und gibt Dir die Werkzeuge an die Hand, um Deine Zweifel zu überwinden und Dein Leben nach Deinen eigenen Wünschen zu gestalten.</p>
-<p><strong>Du lernst, wie Du…</strong></p>
-<ul>
-<li>mangelndes Selbstvertrauen und Deine Selbstzweifel ablegen kannst</li>
-<li>den Glauben an Dich und Deine Fähigkeiten stärkst</li>
-<li>Unsicherheiten und Ängste transformierst </li>
-<li>Dich von negativen Gedanken über Geld befreist</li>
-<li>eine gesunde, kraftvolle Beziehung zu Geld und Fülle aufbaust</li>
-<li>endlich mit Leichtigkeit mehr Wohlstand, Freiheit und Lebensqualität in Dein Leben ziehst</li>
-</ul>
-<p><strong>Ohne Druck. Ohne Zwang. Schritt für Schritt in die finanzielle Fülle, die Dir zusteht.</strong></p>
-<p><strong>Du brauchst keine komplizierten Strategien oder stundenlanges Meditieren.</strong><br /><strong>Alles, was Du brauchst, ist bereits in Dir!</strong></p>
-</div>
-<p> </p>
+**Vendor's marketplace description:** Die Bewerbung des Online-Kurses findet über den Link für das Miniprodukt "4-Wochen-Money-Reset" statt. Die Beschreibung findest Du im Affiliate-Programm auf der Affiliate-Support-Seite. Der Online-Kurs "Dein Neustart: Finde Dein erfülltes Leben JETZT!" ist ein Selbstlernkurs für Frauen, die eine Veränderung im Leben wollen, es jedoch bisher nicht geschafft haben, weil die Zweifel und Ängste stärker waren. Inhalt: Modul 1 Mindset und Transformation 6 transformative Video-Lektionen insgesamt über 3 Stunden Laufzeit auch als Audio herunterzuladen Übungen, um das Gelernte zu festigen. Modul 2 Money-Mindset 9 transformative Video-Lektionen insgesamt über 2 Stunden Laufzeit auch als Audio herunterzuladen Übungen, um das Gelernte zu festigen. Der Kurs ist anders, als Du es möglicherweise bereits kennst. Denn er zeigt Dir Wege auf, die Dir vielleicht noch nicht bekannt sind. Doch er führt Dich Schritt für Schritt durch Deinen Veränderungsprozess und gibt Dir die Werkzeuge an die Hand, um Deine Zweifel zu überwinden und Dein Leben nach Deinen eigenen Wünschen zu gestalten. Du lernst, wie Du… mangelndes Selbstvertrauen und Deine Selbstzweifel ablegen kannst den Glauben an Dich und Deine Fähigkeiten stärkst Unsicherheiten und Ängste transformierst Dich von negativen Gedanken über Geld befreist eine gesunde, kraftvolle Beziehung zu Geld und Fülle aufbaust endlich mit Leichtigkeit mehr Wohlstand, Freiheit und Lebensqualität in Dein Leben ziehst Ohne Druck. Ohne Zwang. Schritt für Schritt in die finanzielle Fülle, die Dir zusteht. Du brauchst keine komplizierten Strategien oder stundenlanges Meditieren. Alles, was Du brauchst, ist bereits in Dir!
 
 ## 2. Links
 

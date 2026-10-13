@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>LingChat ist eine KI-gestützte Sprachlern-App, die Nutzern hilft, mehr als 60 Sprachen mit KI- und echten Gesprächspartnern zu üben. Sie wurde für Studierende, Reisende, Berufstätige und Prüfungskandidaten entwickelt, die ihre Sprachflüssigkeit schnell und kostengünstig verbessern möchten.</strong></p>
-<p>Affiliates erhalten <strong><span style="color:#ff0000;">60 % Provision</span> auf jeden Erstverkauf</strong> (5,99 $/Monat oder 41,99 $/Jahr). Affiliates, die innerhalb von 30 Tagen 20 oder mehr neue zahlende Nutzer gewinnen, können ein Upgrade beantragen, um <strong>Provisionen auf Verlängerungen (Rebilling Commissions)</strong> für Abonnement-Erneuerungen zu erhalten.</p>
-<p><strong>Warum LingChat bewerben?</strong></p>
-<ul>
-<li>
-<p>Attraktive Preisgestaltung: 9,99 $/Monat oder 69,99 $/Jahr</p>
-</li>
-<li>
-<p>Hohes Conversion-Potenzial: einfacher Einstieg, kein aufwändiger Einrichtungsprozess</p>
-</li>
-<li>
-<p>Breite Marktnachfrage: Sprachlernende, Auslandsstudierende, Prüfungskandidaten, Berufstätige</p>
-</li>
-<li>
-<p>Affiliate-Support: Zugriff auf sofort einsetzbare Banner, Werbetexte und Videos über unser <a href="https://drive.google.com/drive/folders/1INkr32WhTvB-3SiXLLi5W0mEHTlJFa46?usp=drive_link" target="_blank" rel="noreferrer noopener">Marketing-Kit</a></p>
-</li>
-</ul>
-<p><strong>Dies ist Ihre Chance, eine schnell wachsende App im globalen Sprachlernmarkt zu bewerben – mit hohen Provisionen und dedizierter Affiliate-Unterstützung.</strong></p>
-<div>
-<div class="gtx-trans-icon"> </div>
-</div>
+**Vendor's marketplace description:** LingChat ist eine KI-gestützte Sprachlern-App, die Nutzern hilft, mehr als 60 Sprachen mit KI- und echten Gesprächspartnern zu üben. Sie wurde für Studierende, Reisende, Berufstätige und Prüfungskandidaten entwickelt, die ihre Sprachflüssigkeit schnell und kostengünstig verbessern möchten. Affiliates erhalten 60 % Provision auf jeden Erstverkauf (5,99 $/Monat oder 41,99 $/Jahr). Affiliates, die innerhalb von 30 Tagen 20 oder mehr neue zahlende Nutzer gewinnen, können ein Upgrade beantragen, um Provisionen auf Verlängerungen (Rebilling Commissions) für Abonnement-Erneuerungen zu erhalten. Warum LingChat bewerben? Attraktive Preisgestaltung: 9,99 $/Monat oder 69,99 $/Jahr Hohes Conversion-Potenzial: einfacher Einstieg, kein aufwändiger Einrichtungsprozess Breite Marktnachfrage: Sprachlernende, Auslandsstudierende, Prüfungskandidaten, Berufstätige Affiliate-Support: Zugriff auf sofort einsetzbare Banner, Werbetexte und Videos über unser Marketing-Kit Dies ist Ihre Chance, eine schnell wachsende App im globalen Sprachlernmarkt zu bewerben – mit hohen Provisionen und dedizierter Affiliate-Unterstützung.
 
 ## 2. Links
 

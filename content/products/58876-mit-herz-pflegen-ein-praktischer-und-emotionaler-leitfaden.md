@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Mit Herz pflegen – Ein praktischer und emotionaler Leitfaden für pflegende Angehörige und Betreuungskräfte</strong></p>
-<p>Ein praktisches und einfühlsames E-Book über die menschliche Seite der Pflege.</p>
-<p>Dieses Buch richtet sich an pflegende Angehörige und Betreuungskräfte, die ältere oder hilfsbedürftige Menschen begleiten. Es verbindet praktische Hinweise mit persönlichen Erfahrungen und zeigt, wie Würde, Geduld, Empathie, respektvolle Kommunikation und menschliche Nähe den Pflegealltag bereichern können.</p>
-<p><strong>Warum dieses Buch interessant für Affiliates ist:</strong></p>
-<ul>
-<li>Relevantes Thema für Angehörige und Betreuungskräfte</li>
-<li>Verbindung von praktischen Pflegeimpulsen und emotionalen Erfahrungen</li>
-<li>Authentischer und menschlicher Ansatz</li>
-<li>Geeignet für Leser, die sich mit Pflege, Seniorenbetreuung und menschlicher Begleitung beschäftigen</li>
-<li>Digitales E-Book im PDF-Format</li>
-<li>Sofortiger digitaler Zugriff nach dem Kauf</li>
-</ul>
-<p>Das Buch eignet sich besonders für Menschen, die Unterstützung, Orientierung und einen menschlichen Blick auf die Herausforderungen der Pflege suchen.</p>
-<p><strong>Produkt:</strong> Digitales E-Book (PDF)<br /><strong>Preis:</strong> 27,00 €<br /><strong>Sprache:</strong> Deutsch</p>
+**Vendor's marketplace description:** Mit Herz pflegen – Ein praktischer und emotionaler Leitfaden für pflegende Angehörige und Betreuungskräfte Ein praktisches und einfühlsames E-Book über die menschliche Seite der Pflege. Dieses Buch richtet sich an pflegende Angehörige und Betreuungskräfte, die ältere oder hilfsbedürftige Menschen begleiten. Es verbindet praktische Hinweise mit persönlichen Erfahrungen und zeigt, wie Würde, Geduld, Empathie, respektvolle Kommunikation und menschliche Nähe den Pflegealltag bereichern können. Warum dieses Buch interessant für Affiliates ist: Relevantes Thema für Angehörige und Betreuungskräfte Verbindung von praktischen Pflegeimpulsen und emotionalen Erfahrungen Authentischer und menschlicher Ansatz Geeignet für Leser, die sich mit Pflege, Seniorenbetreuung und menschlicher Begleitung beschäftigen Digitales E-Book im PDF-Format Sofortiger digitaler Zugriff nach dem Kauf Das Buch eignet sich besonders für Menschen, die Unterstützung, Orientierung und einen menschlichen Blick auf die Herausforderungen der Pflege suchen. Produkt: Digitales E-Book (PDF) Preis: 27,00 € Sprache: Deutsch
 
 ## 2. Links
 

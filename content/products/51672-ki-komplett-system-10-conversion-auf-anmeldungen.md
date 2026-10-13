@@ -41,43 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>⭐ Brandneues Conversion-Monster! ⭐</strong><br /><strong><span style="background-color:#ffff00;">10% Sales-Conversion</span> auf Webinar-Anmeldungen!</strong></h2>
-<p> </p>
-<h3><strong>≈111,43€ Provision pro Sale</strong>!</h3>
-<p> </p>
-<p><strong>Bewirb unser brandneues Produkt <span style="text-decoration:underline;">KI-Komplett-System</span> und verwandle deine Leads in bares Geld!</strong></p>
-<p> </p>
-<p><strong>✔︎</strong> Brandneues Produkt in der KI-Nische!</p>
-<p><strong>✔︎</strong> Erstellt von erfahrenen Digistore-Vendoren!</p>
-<p><strong>✔︎</strong> Aussergewöhnlich hohe Provision!</p>
-<p><strong>✔︎</strong> +10% Sales-Conversion auf Webinar-Anmeldungen!</p>
-<p><strong>✔︎</strong> Neuer E-Mail-Generator für Affiliates!</p>
-<p> </p>
-<p><em><strong>Hier geht es zu den Werbemittel!</strong></em></p>
-<p><a href="https://business-kickstart.de/ki-komplett-partnerprogramm/" target="_blank" rel="noreferrer noopener"><img src="https://www.digistore24-app.com/pb/img/merchant_831468/image/orderform_image/BR1WKQDS.png" alt="Beschreibung des Bildes" width="200" /></a></p>
-<p> </p>
-<hr />
-<p> </p>
-<h3><strong>✅ Kostenloser Affiliate-Kurs für Anfänger!</strong></h3>
-<p> </p>
-<table style="border-collapse:collapse;width:100%;" border="1">
-<tbody>
-<tr>
-<td style="width:53.1316%;">
-<p>Für alle Anfänger im Affiliate Marketing haben wir einen kostenlosen Kurs zusammengestellt der dir hilft möglichst schnell und einfach mit unseren Affiiate-Produkten Geld zu verdienen!</p>
-<p> </p>
-<p><em><strong>Klicke jetzt auf den Button um dir den kostenlosen Kurs zu sichern und noch Heute durchzustarten!</strong></em></p>
-<p> <a href="https://business-kickstart.de/affiliate-starter/#aff=AFFILIATE&amp;cam=marktplatz-ki-komplettsystem-590882" target="_blank" rel="noreferrer noopener"><img src="https://www.digistore24-app.com/pb/img/merchant_831468/image/orderform_image/Y25H71LJ.png" alt="Beschreibung des Bildes" width="240" /></a></p>
-</td>
-<td style="width:46.8684%;"><a href="https://business-kickstart.de/affiliate-starter/#aff=AFFILIATE&amp;cam=marktplatz-ki-komplettsystem-590882" target="_blank" rel="noreferrer noopener"><img src="https://www.digistore24-app.com/pb/img/merchant_831468/image/product/1704XU33.png" alt="Beschreibung des Bildes" width="240" /></a></td>
-</tr>
-</tbody>
-</table>
-<p> </p>
-<hr />
-<p> </p>
-<p>Bei Fragen schreibe uns eine E-Mail an <span style="color:#0000ff;"><a href="mailto:info@coaching.business-kickstart.de">info@coaching.business-kickstart.de</a></span></p>
-<p> </p>
+**Vendor's marketplace description:** ⭐ Brandneues Conversion-Monster! ⭐ 10% Sales-Conversion auf Webinar-Anmeldungen! ≈111,43€ Provision pro Sale ! Bewirb unser brandneues Produkt KI-Komplett-System und verwandle deine Leads in bares Geld! ✔︎ Brandneues Produkt in der KI-Nische! ✔︎ Erstellt von erfahrenen Digistore-Vendoren! ✔︎ Aussergewöhnlich hohe Provision! ✔︎ +10% Sales-Conversion auf Webinar-Anmeldungen! ✔︎ Neuer E-Mail-Generator für Affiliates! Hier geht es zu den Werbemittel! ✅ Kostenloser Affiliate-Kurs für Anfänger! Für alle Anfänger im Affiliate Marketing haben wir einen kostenlosen Kurs zusammengestellt der dir hilft möglichst schnell und einfach mit unseren Affiiate-Produkten Geld zu verdienen! Klicke jetzt auf den Button um dir den kostenlosen Kurs zu sichern und noch Heute durchzustarten! Bei Fragen schreibe uns eine E-Mail an info@coaching.business-kickstart.de
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Für Umsteiger von AutoCAD/LT auf BricsCAD 2D</h2>
-<p> </p>
-<p>Entscheiden Sie selbst, wann Sie welches Kapitel sehen, wiederholen und vertiefen wollen. Mit dem Kauf dieses Video -Kurses erhalten Sie vollen Zugriff auf den Kurs Umstieg BricsCAD® 2D von AutoCAD®/LT unter CAD-Video.de für 3 Monate und können die Videos in diesem Zeitraum anschauen, sooft und wann immer Sie wollen.</p>
-<p>Dieser Kurs eignet sich für alle CAD User, die bereits (erste) Erfahrungen mit der CAD Software AutoCAD®/LT gemacht haben und nun auf BricsCAD® umsteigen möchten. </p>
-<p>BricsCAD® ist von der Oberfläche und Funktionsweise AutoCAD®/LT sehr ähnlich sind, weshalb eine steile Lernkurve möglich ist, es wird deutlich weniger Zeit benötigt, wie es ohne Vorkenntnisse in AutoCAD der Fall wäre.<br /><br /><strong>Drei Module</strong> bringen Sie gezielt auf Kurs: BricsCAD-Oberfläche (Arbeitsbereiche, Panels, Quad-Menü), Einstellungen (Anzeigestile, Objektfänge, Plotstile) und Unterschiede zu AutoCAD® (19 Lektionen zu Layer, Blöcken, Xrefs, Bibliotheken, Layout-Manager u. v. m.).<br /><br /><strong>Ziel:</strong> Sie wechseln sicher und produktiv von AutoCAD®/LT zu BricsCAD® – und nutzen Ihre gewohnten Workflows vom ersten Tag an weiter.</p>
+**Vendor's marketplace description:** Für Umsteiger von AutoCAD/LT auf BricsCAD 2D Entscheiden Sie selbst, wann Sie welches Kapitel sehen, wiederholen und vertiefen wollen. Mit dem Kauf dieses Video -Kurses erhalten Sie vollen Zugriff auf den Kurs Umstieg BricsCAD® 2D von AutoCAD®/LT unter CAD-Video.de für 3 Monate und können die Videos in diesem Zeitraum anschauen, sooft und wann immer Sie wollen. Dieser Kurs eignet sich für alle CAD User, die bereits (erste) Erfahrungen mit der CAD Software AutoCAD®/LT gemacht haben und nun auf BricsCAD® umsteigen möchten. BricsCAD® ist von der Oberfläche und Funktionsweise AutoCAD®/LT sehr ähnlich sind, weshalb eine steile Lernkurve möglich ist, es wird deutlich weniger Zeit benötigt, wie es ohne Vorkenntnisse in AutoCAD der Fall wäre. Drei Module bringen Sie gezielt auf Kurs: BricsCAD-Oberfläche (Arbeitsbereiche, Panels, Quad-Menü), Einstellungen (Anzeigestile, Objektfänge, Plotstile) und Unterschiede zu AutoCAD® (19 Lektionen zu Layer, Blöcken, Xrefs, Bibliotheken, Layout-Manager u. v. m.). Ziel: Sie wechseln sicher und produktiv von AutoCAD®/LT zu BricsCAD® – und nutzen Ihre gewohnten Workflows vom ersten Tag an weiter.
 
 ## 2. Links
 

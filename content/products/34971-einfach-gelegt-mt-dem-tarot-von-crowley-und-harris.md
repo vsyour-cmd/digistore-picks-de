@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Tarot ist ein westlicher Einweihungsweg, der von der Kabbala abstammt. Weil jede Einweihung immer erst dann zur Wirkung kommen kann, wenn man sie im Alltagserleben anwendet, bewegen sich dieKartendeutungen dieses Buches auf drei Ebenen: Spirituell, psychologisch und vor allem auf praktische Handlungen ausgerichtet. So werden die Tarotkarten ein neutraler und zugleich ganzheitlicher Ratgeber für jede Art von Entscheidungen.</p>
-<p>Armin Denner befasst sich seit 1986 mit Tarot und Kabbala. Seine langjährige Beratungsarbeit zeigte ihm, dass seriös und bodenständig angewandter Tarot die Balance zwischen Seele und Körper anstrebt. Die Essenz der umfassenden Erfahrung des Autors findet in diesem Buch ihren Niederschlag: Der Tarot als Coach zu innerem und äußerem Wohl-Stand. Aus der Praxis für die Praxis!</p>
+**Vendor's marketplace description:** Der Tarot ist ein westlicher Einweihungsweg, der von der Kabbala abstammt. Weil jede Einweihung immer erst dann zur Wirkung kommen kann, wenn man sie im Alltagserleben anwendet, bewegen sich dieKartendeutungen dieses Buches auf drei Ebenen: Spirituell, psychologisch und vor allem auf praktische Handlungen ausgerichtet. So werden die Tarotkarten ein neutraler und zugleich ganzheitlicher Ratgeber für jede Art von Entscheidungen. Armin Denner befasst sich seit 1986 mit Tarot und Kabbala. Seine langjährige Beratungsarbeit zeigte ihm, dass seriös und bodenständig angewandter Tarot die Balance zwischen Seele und Körper anstrebt. Die Essenz der umfassenden Erfahrung des Autors findet in diesem Buch ihren Niederschlag: Der Tarot als Coach zu innerem und äußerem Wohl-Stand. Aus der Praxis für die Praxis!
 
 ## 2. Links
 

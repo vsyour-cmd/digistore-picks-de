@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Profitiere von <span style="background-color:#ffff99;"><strong>15 % wiederkehrender Provision</strong></span> auf aktive Platin-Mitgliedschaften sowie von <span style="background-color:#ffff99;"><strong>50 % Provision auf alle Käufe innerhalb der Academy</strong></span>, wenn Mitglieder Kurse <strong>über ihre Mitgliedschaft hinaus</strong> erwerben möchten.</p>
-<p>Mit der Bye Bye Hamsterrad Platin-Mitgliedschaft empfiehlst du eine umfassende Online-Business-Academy für alle, die sich Schritt für Schritt ein eigenes digitales Business aufbauen möchten.</p>
-<p>Mitglieder erhalten sofortigen Zugriff auf alle aktuellen und zukünftigen Kurse der Academy sowie auf eine stetig wachsende Wissensplattform rund um digitale Produkte, Webseiten, Landingpages, E-Mail-Marketing, Mitgliederbereiche, Funnels, Automatisierungen und den sinnvollen Einsatz von KI.</p>
-<p>Zusätzlich beinhaltet die Platin-Mitgliedschaft regelmäßige Live-Lehr-Calls, monatliche Q&amp;A-Sessions, kostenfreien Zugang zu allen Live-Workshops, die exklusive Platin-Community sowie einen persönlichen Strategie-Call.</p>
-<p><strong>Deine Vorteile als Affiliate:</strong></p>
-<ul>
-<li><span style="background-color:#ffff99;">15 % wiederkehrende Provision</span> auf aktive Platin-Mitgliedschaften</li>
-<li><span style="background-color:#ffff99;">50 % Provision auf zusätzliche Käufe</span> innerhalb der Academy</li>
-<li>Professionelle Verkaufsseite mit Erklärvideo</li>
-<li>14 Tage risikofreie Testphase für deine Empfehlungen</li>
-</ul>
-<p> </p>
-<p>Mit der Platin-Mitgliedschaft empfiehlst du eine hochwertige Academy mit regelmäßig neuen Inhalten, Live-Formaten und einer aktiven Community – ideal für Menschen, die sich langfristig ein eigenes Online-Business aufbauen möchten.</p>
+**Vendor's marketplace description:** Profitiere von 15 % wiederkehrender Provision auf aktive Platin-Mitgliedschaften sowie von 50 % Provision auf alle Käufe innerhalb der Academy , wenn Mitglieder Kurse über ihre Mitgliedschaft hinaus erwerben möchten. Mit der Bye Bye Hamsterrad Platin-Mitgliedschaft empfiehlst du eine umfassende Online-Business-Academy für alle, die sich Schritt für Schritt ein eigenes digitales Business aufbauen möchten. Mitglieder erhalten sofortigen Zugriff auf alle aktuellen und zukünftigen Kurse der Academy sowie auf eine stetig wachsende Wissensplattform rund um digitale Produkte, Webseiten, Landingpages, E-Mail-Marketing, Mitgliederbereiche, Funnels, Automatisierungen und den sinnvollen Einsatz von KI. Zusätzlich beinhaltet die Platin-Mitgliedschaft regelmäßige Live-Lehr-Calls, monatliche Q&A-Sessions, kostenfreien Zugang zu allen Live-Workshops, die exklusive Platin-Community sowie einen persönlichen Strategie-Call. Deine Vorteile als Affiliate: 15 % wiederkehrende Provision auf aktive Platin-Mitgliedschaften 50 % Provision auf zusätzliche Käufe innerhalb der Academy Professionelle Verkaufsseite mit Erklärvideo 14 Tage risikofreie Testphase für deine Empfehlungen Mit der Platin-Mitgliedschaft empfiehlst du eine hochwertige Academy mit regelmäßig neuen Inhalten, Live-Formaten und einer aktiven Community – ideal für Menschen, die sich langfristig ein eigenes Online-Business aufbauen möchten.
 
 ## 2. Links
 

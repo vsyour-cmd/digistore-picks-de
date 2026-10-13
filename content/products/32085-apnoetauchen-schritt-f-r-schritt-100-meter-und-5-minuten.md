@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="background-color:#3366ff;color:#ffffff;"><strong>Werde Teil der zunehmenden Beliebtheit des Apnoetauchens und baue dir ein passives Einkommen auf.</strong></span></h2>
-<p>Durch die geringe Eintrittsbarriere ist die Conversionrate unglaublich gut.</p>
-<p>Meine Kunden durchlaufen einen Sales Funnel und erhalten Zugriff auf ein einmaliges Angebot, welches ca. <strong>10-15 %</strong> aller Käufer/innen annehmen.</p>
-<p>Den <strong>1-Click Order Bump</strong> "<em>Essential Freediving Techniques</em>" nehmen ebenfalls über <strong>70% aller Käufer</strong> des Apnoetauchen eBooks wahr und erhöhen somit den Gesamtumsatz.</p>
-<p>Conversion geprüft und in <em>ständiger Optimierung</em> des Sales Funnels freue ich mich dir für jeden Verkauf <strong>50% Provision zukommen zu lassen</strong>.</p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Werde Teil der zunehmenden Beliebtheit des Apnoetauchens und baue dir ein passives Einkommen auf. Durch die geringe Eintrittsbarriere ist die Conversionrate unglaublich gut. Meine Kunden durchlaufen einen Sales Funnel und erhalten Zugriff auf ein einmaliges Angebot, welches ca. 10-15 % aller Käufer/innen annehmen. Den 1-Click Order Bump " Essential Freediving Techniques " nehmen ebenfalls über 70% aller Käufer des Apnoetauchen eBooks wahr und erhöhen somit den Gesamtumsatz. Conversion geprüft und in ständiger Optimierung des Sales Funnels freue ich mich dir für jeden Verkauf 50% Provision zukommen zu lassen .
 
 ## 2. Links
 

@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<p>Die 50 attraktivsten und (steuer)freien Länder für Dich im Vergleich!</p>
-</div>
-</div>
-<div>
-<ul>
-<li>wichtige Fakten zum Land</li>
-<li>Steuersystem im Detail</li>
-<li>Einwanderungsoptionen</li>
-<li>Lebensbedingungen</li>
-<li>Bürgerliche Freiheiten</li>
-</ul>
-<p>Ausführliche Informationen in deutscher Sprache zu potentiellen Auswanderungsländern sind rar gesät. Insbesondere trifft dies auf die eigentlich für Unternehmer und Investoren attraktiven Wohnsitzländer zu. Gute Informationen gibt es nur für Steuerhöllen wie Westeuropa, Kanada und Australien.</p>
-<p>Dieses Lexikon stellt erstmals 50 Nationen weltweit aus allen Regionen zusammen, die durch attraktive Lebensbedingungen, niedrige oder keine Besteuerung und erfüllbare Einwanderungsbedingungen punkten und vergleicht sie nach relevanten Indikatoren.</p>
-</div>
+**Vendor's marketplace description:** Die 50 attraktivsten und (steuer)freien Länder für Dich im Vergleich! wichtige Fakten zum Land Steuersystem im Detail Einwanderungsoptionen Lebensbedingungen Bürgerliche Freiheiten Ausführliche Informationen in deutscher Sprache zu potentiellen Auswanderungsländern sind rar gesät. Insbesondere trifft dies auf die eigentlich für Unternehmer und Investoren attraktiven Wohnsitzländer zu. Gute Informationen gibt es nur für Steuerhöllen wie Westeuropa, Kanada und Australien. Dieses Lexikon stellt erstmals 50 Nationen weltweit aus allen Regionen zusammen, die durch attraktive Lebensbedingungen, niedrige oder keine Besteuerung und erfüllbare Einwanderungsbedingungen punkten und vergleicht sie nach relevanten Indikatoren.
 
 ## 2. Links
 

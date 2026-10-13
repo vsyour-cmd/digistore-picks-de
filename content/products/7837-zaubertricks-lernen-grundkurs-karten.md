@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du wolltest schon immer das Zaubern erlernen?<br />Kartentricks interessieren dich besonders?</p>
-<p>Niemand verr&auml;t dir, wei die Tricks funktionieren?</p>
-<p>Die L&ouml;sung ist dieser Kurs!<br />Hier erlernst du alles, was die Profis wissen. Alle Geheimnisse werden offen gelegt. Nichts wird verschwiegen. Erhalte sofort Zugang zu den Tricks der Profis. In diesem Grundkurs, der &uuml;ber 4 Stunden l&auml;uft, erlernst du die Grundtechniken f&uuml;r Kartenk&uuml;nstler und kannst danach selbst deine Freunde verbl&uuml;ffen. 11 Starke Kartentricks sind Bestandteil dieses Kurses.</p>
+**Vendor's marketplace description:** Du wolltest schon immer das Zaubern erlernen? Kartentricks interessieren dich besonders? Niemand verr&auml;t dir, wei die Tricks funktionieren? Die L&ouml;sung ist dieser Kurs! Hier erlernst du alles, was die Profis wissen. Alle Geheimnisse werden offen gelegt. Nichts wird verschwiegen. Erhalte sofort Zugang zu den Tricks der Profis. In diesem Grundkurs, der &uuml;ber 4 Stunden l&auml;uft, erlernst du die Grundtechniken f&uuml;r Kartenk&uuml;nstler und kannst danach selbst deine Freunde verbl&uuml;ffen. 11 Starke Kartentricks sind Bestandteil dieses Kurses.
 
 ## 2. Links
 

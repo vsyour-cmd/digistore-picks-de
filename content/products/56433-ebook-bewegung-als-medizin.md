@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein hochrelevantes Gesundheitsthema mit enormer Zielgruppe:</p>
-<p>Menschen mit sitzendem Lebensstil, Stress und ersten körperlichen Beschwerden suchen nach einfachen, alltagstauglichen Lösungen.</p>
-<p>Das Buch verbindet wissenschaftliche Erkenntnisse mit praktischer Umsetzbarkeit und positioniert Bewegung bewusst als leicht integrierbare „Medizin“ statt als aufwendiges Fitnessprogramm.</p>
-<p>Besonders stark ist der Fokus auf niedrigschwellige Einstiegshürden und nachhaltige Gewohnheiten – ideal für breite Ansprache und hohe Conversion.</p>
-<p>Die Kombination aus evidenzbasierter Argumentation, emotionalem Nutzen (mehr Energie, mentale Klarheit, Lebensqualität) und klarer Alltagsrelevanz macht das Produkt extrem gut vermarktbar.</p>
-<p>Ein Evergreen-Thema mit konstant hoher Nachfrage und vielseitigen Hook-Ansätzen im Health-, Lifestyle- und Selbstoptimierungsbereich.</p>
+**Vendor's marketplace description:** Ein hochrelevantes Gesundheitsthema mit enormer Zielgruppe: Menschen mit sitzendem Lebensstil, Stress und ersten körperlichen Beschwerden suchen nach einfachen, alltagstauglichen Lösungen. Das Buch verbindet wissenschaftliche Erkenntnisse mit praktischer Umsetzbarkeit und positioniert Bewegung bewusst als leicht integrierbare „Medizin“ statt als aufwendiges Fitnessprogramm. Besonders stark ist der Fokus auf niedrigschwellige Einstiegshürden und nachhaltige Gewohnheiten – ideal für breite Ansprache und hohe Conversion. Die Kombination aus evidenzbasierter Argumentation, emotionalem Nutzen (mehr Energie, mentale Klarheit, Lebensqualität) und klarer Alltagsrelevanz macht das Produkt extrem gut vermarktbar. Ein Evergreen-Thema mit konstant hoher Nachfrage und vielseitigen Hook-Ansätzen im Health-, Lifestyle- und Selbstoptimierungsbereich.
 
 ## 2. Links
 

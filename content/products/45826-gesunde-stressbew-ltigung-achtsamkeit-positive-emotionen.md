@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Baue mit unserem zertifizierten Krankenkassen-Kurs "Gesunde Stressbewältigung durch Achtsamkeit und positive Emotionen" effektiv Stress ab, sei glücklich, ausgeglichen und gesund!</h3>
-<h3>Deine Vorteile</h3>
-<ul>
-<li>Besser fühlen, besser schlafen und entspannter und streibefreiter sein</li>
-<li>Bis zu <strong>100% Rückerstattung</strong> der Kosten durch deine Krankenkasse!</li>
-<li>Zugang zur LUMEUS-App für 6 Monate inklusive</li>
-<li>Vielfältige Inhalte mit effektiven Methoden der gesunden Stressbewältigung</li>
-<li>Basierend auf MBSR (Mindfulness-based stress reduction) und positiver Psychologie</li>
-<li>Wissenschaftlich erprobte und bestätigte Methode</li>
-<li>Mehr als 300.000 Erfolgsgeschichten</li>
-</ul>
-<p>Jetzt teilnehmen und kostenlos Stress abbauen: <a href="https://lumeus-app.de/krankenkasse/">https://lumeus-app.de/krankenkasse/</a></p>
-<p> </p>
+**Vendor's marketplace description:** Baue mit unserem zertifizierten Krankenkassen-Kurs "Gesunde Stressbewältigung durch Achtsamkeit und positive Emotionen" effektiv Stress ab, sei glücklich, ausgeglichen und gesund! Deine Vorteile Besser fühlen, besser schlafen und entspannter und streibefreiter sein Bis zu 100% Rückerstattung der Kosten durch deine Krankenkasse! Zugang zur LUMEUS-App für 6 Monate inklusive Vielfältige Inhalte mit effektiven Methoden der gesunden Stressbewältigung Basierend auf MBSR (Mindfulness-based stress reduction) und positiver Psychologie Wissenschaftlich erprobte und bestätigte Methode Mehr als 300.000 Erfolgsgeschichten Jetzt teilnehmen und kostenlos Stress abbauen: https://lumeus-app.de/krankenkasse/
 
 ## 2. Links
 

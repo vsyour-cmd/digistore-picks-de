@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Wenn der Kopf anders tickt – 3 Ratgeber für mehr Verständnis | 50% Provision</p>
-<p> </p>
-<p>Bewirb ein Bundle aus drei gefragten Ratgebern zu ADHS, Autismus und Borderline: "Verstehen statt verurteilen – ADHS", "Verstehen statt verurteilen – Autismus" und "Wenn dein Partner Borderline hat" – zum Vorteilspreis von 36€ statt 81€.</p>
-<p> </p>
-<p>Neurodivergenz und Borderline betreffen enorm viele Menschen und ihre Angehörigen, entsprechend breit lässt sich das Bundle bewerben – ob über Social Media, Selbsthilfe-Communities, E-Mail-Liste oder eigene Website. Du erhältst 50% Provision auf jeden Verkauf, dazu fertige Werbemittel (Social-Media-Posts, E-Mail-Vorlagen) direkt im Partnerprogramm.</p>
-<p> </p>
-<p>Zielgruppe: neurodivergente Menschen, Angehörige und Partner von Menschen mit ADHS, Autismus oder Borderline.</p>
+**Vendor's marketplace description:** Wenn der Kopf anders tickt – 3 Ratgeber für mehr Verständnis | 50% Provision Bewirb ein Bundle aus drei gefragten Ratgebern zu ADHS, Autismus und Borderline: "Verstehen statt verurteilen – ADHS", "Verstehen statt verurteilen – Autismus" und "Wenn dein Partner Borderline hat" – zum Vorteilspreis von 36€ statt 81€. Neurodivergenz und Borderline betreffen enorm viele Menschen und ihre Angehörigen, entsprechend breit lässt sich das Bundle bewerben – ob über Social Media, Selbsthilfe-Communities, E-Mail-Liste oder eigene Website. Du erhältst 50% Provision auf jeden Verkauf, dazu fertige Werbemittel (Social-Media-Posts, E-Mail-Vorlagen) direkt im Partnerprogramm. Zielgruppe: neurodivergente Menschen, Angehörige und Partner von Menschen mit ADHS, Autismus oder Borderline.
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3 style="text-align:center;">Kostenloser Ratgeber</h3>
-<h3 style="text-align:center;"><span style="background-color:#ffff00;">"Traffic im Online- und</span><br /><span style="background-color:#ffff00;">AffiliateMarketing"</span><br />Der ultimative Leitfaden ...</h3>
-<p>Er beinhaltet detailreiche Anleitungen, bewährte Tipps und übersichtliche Infografiken, mit denen Du Deine Zielgruppe schnell und effektiv erreichst. Keine Vorkenntnisse nötig, nur Deine Entscheidung, jetzt loszulegen.</p>
-<p>Nutze diesen Leitfaden, um Deinen Traffic zu steigern und Deine Online-Präsenz zu verbessern. Starte noch heute Deinen Weg zum Erfolg. </p>
-<p>Hohe Conversion, da es für den Kunden kostenlos ist.</p>
-<h4>60% Provision!</h4>
-<p>Beteiligt an Up- und Downsell, 15% Lifetime<br /><strong>Über 69€ im Funnel für dich möglich!</strong></p>
+**Vendor's marketplace description:** Kostenloser Ratgeber "Traffic im Online- und AffiliateMarketing" Der ultimative Leitfaden ... Er beinhaltet detailreiche Anleitungen, bewährte Tipps und übersichtliche Infografiken, mit denen Du Deine Zielgruppe schnell und effektiv erreichst. Keine Vorkenntnisse nötig, nur Deine Entscheidung, jetzt loszulegen. Nutze diesen Leitfaden, um Deinen Traffic zu steigern und Deine Online-Präsenz zu verbessern. Starte noch heute Deinen Weg zum Erfolg. Hohe Conversion, da es für den Kunden kostenlos ist. 60% Provision! Beteiligt an Up- und Downsell, 15% Lifetime Über 69€ im Funnel für dich möglich!
 
 ## 2. Links
 

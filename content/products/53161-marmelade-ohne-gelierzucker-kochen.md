@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>25 leckere und erprobte Marmeladenrezepte ohne Gelierzucker</h2>
-<p>Das aufwendig gestaltete 42-seitige <strong>eBook</strong>* enthält:</p>
-<ol>
-<li><strong>Alles über Gelierzucker</strong></li>
-<li><strong>Marmelade und Allergie:</strong> Was bei den Rezepten zu beachten ist</li>
-<li><strong>Saisonkalender:</strong> Alle Früchte im Überblick</li>
-<li><strong>Grundrezept</strong>: mit Schritt-für-Schritt-Fotos und vielen Tipps aus der Jahreszeitenküche</li>
-<li><strong>25 erprobte Rezepte</strong> ohne Gelierzucker</li>
-<li><strong>Index:</strong> Alle Themen nach Stichworten sortiert</li>
-</ol>
+**Vendor's marketplace description:** 25 leckere und erprobte Marmeladenrezepte ohne Gelierzucker Das aufwendig gestaltete 42-seitige eBook * enthält: Alles über Gelierzucker Marmelade und Allergie: Was bei den Rezepten zu beachten ist Saisonkalender: Alle Früchte im Überblick Grundrezept : mit Schritt-für-Schritt-Fotos und vielen Tipps aus der Jahreszeitenküche 25 erprobte Rezepte ohne Gelierzucker Index: Alle Themen nach Stichworten sortiert
 
 ## 2. Links
 

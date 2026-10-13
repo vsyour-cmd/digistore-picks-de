@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Viele Menschen haben in den letzten Monaten erlebt, wie Ihre Frequenz massiv nach unten ging.<br />Aus Freude und Leichtigkeit wurde bei vielen Angst und Wut.</p>
-<p><strong>Wie können wir diese Entwicklung stoppen und umdrehen?</strong></p>
-<p>Die Antwort auf diese spannende Frage findest du beim <strong>High Frequency Kongress 5! ✨</strong></p>
+**Vendor's marketplace description:** Viele Menschen haben in den letzten Monaten erlebt, wie Ihre Frequenz massiv nach unten ging. Aus Freude und Leichtigkeit wurde bei vielen Angst und Wut. Wie können wir diese Entwicklung stoppen und umdrehen? Die Antwort auf diese spannende Frage findest du beim High Frequency Kongress 5! ✨
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieser <strong>6 Wochen Kurs</strong> ist für Paare, welche Ihr Liebesleben wieder in Schwung bringen wollen und ihr Sex nachhaltig und anhaltend verbessern möchten.</p>
-<p>Der Kurs wurde von der <strong>Sexualpädagogin</strong> Anja Drews speziell entwickelt, um die Kunden mit Charm und Wissen an Ihr Ziel bringen. </p>
-<p>6 Wochenmodule mit Videos, Meditationen + vielen Downloads sorgen für ein hochwertiges und seriöses Produkt im Bereich der online Sexualtherapie.</p>
-<p>Die Zufriedenheit der Kurs Teilnehmer steht bei uns im Vordergrund. Die stetige Pflege und Optimierung soll so auch unseren Affiliates zu gute kommen, um beste Verkaufsraten zu erlangen.</p>
-<p>Weitere Details zu den Inhalten des Kurses entnehmen Sie bitte der Verkaufsseite.</p>
+**Vendor's marketplace description:** Dieser 6 Wochen Kurs ist für Paare, welche Ihr Liebesleben wieder in Schwung bringen wollen und ihr Sex nachhaltig und anhaltend verbessern möchten. Der Kurs wurde von der Sexualpädagogin Anja Drews speziell entwickelt, um die Kunden mit Charm und Wissen an Ihr Ziel bringen. 6 Wochenmodule mit Videos, Meditationen + vielen Downloads sorgen für ein hochwertiges und seriöses Produkt im Bereich der online Sexualtherapie. Die Zufriedenheit der Kurs Teilnehmer steht bei uns im Vordergrund. Die stetige Pflege und Optimierung soll so auch unseren Affiliates zu gute kommen, um beste Verkaufsraten zu erlangen. Weitere Details zu den Inhalten des Kurses entnehmen Sie bitte der Verkaufsseite.
 
 ## 2. Links
 

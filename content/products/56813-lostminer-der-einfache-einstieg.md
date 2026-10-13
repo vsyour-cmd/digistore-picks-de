@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:left;"> </p>
-<p>Lostminer ist ein digitaler Leitfaden für Einsteiger, die lernen möchten, wie Kryptowährungs-Mining funktioniert. Das Produkt zeigt Schritt für Schritt die Grundlagen des Minings, die benötigte Software und Hardware sowie die wichtigsten Sicherheits- und Kostenfaktoren.</p>
-<p> </p>
-<p>Inhalt:<br />• Einführung in das Krypto-Mining<br />• Einrichtung der benötigten Software<br />• Auswahl geeigneter Hardware<br />• Sicherheits- und Risikohinweise<br />• Praktische Anleitungen für Einsteiger<br />• Download sofort nach dem Kauf</p>
-<p> </p>
-<p>Geeignet für:<br />Anfänger und Interessierte, die einen verständlichen Einstieg in das Thema Kryptowährungs-Mining suchen.</p>
-<p> </p>
-<p>Lieferung:<br />Digitaler Download direkt nach dem Kauf.</p>
+**Vendor's marketplace description:** Lostminer ist ein digitaler Leitfaden für Einsteiger, die lernen möchten, wie Kryptowährungs-Mining funktioniert. Das Produkt zeigt Schritt für Schritt die Grundlagen des Minings, die benötigte Software und Hardware sowie die wichtigsten Sicherheits- und Kostenfaktoren. Inhalt: • Einführung in das Krypto-Mining • Einrichtung der benötigten Software • Auswahl geeigneter Hardware • Sicherheits- und Risikohinweise • Praktische Anleitungen für Einsteiger • Download sofort nach dem Kauf Geeignet für: Anfänger und Interessierte, die einen verständlichen Einstieg in das Thema Kryptowährungs-Mining suchen. Lieferung: Digitaler Download direkt nach dem Kauf.
 
 ## 2. Links
 

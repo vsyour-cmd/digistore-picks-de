@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Gut laufendes eBook mit weiteren Upsells, die den Umsatz erhöhen.</p>
-<p>Thema: Garmin GPS Empfänger GPSMAP 62 und 64 Anleitung, Benutzung, Navigation.</p>
-<p>Zielgruppe: Wanderer, Radfahrer und Outdoor-Leute, die einen GPSMAP besitzen.</p>
+**Vendor's marketplace description:** Gut laufendes eBook mit weiteren Upsells, die den Umsatz erhöhen. Thema: Garmin GPS Empfänger GPSMAP 62 und 64 Anleitung, Benutzung, Navigation. Zielgruppe: Wanderer, Radfahrer und Outdoor-Leute, die einen GPSMAP besitzen.
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Excel-Vorlage für die Einnahmen-Überschuss-Rechnung von Kleinunternehmern in Deutschland. Funktioniert in Excel, LibreOffice und Google Sheets.</p>
-<p><strong>Highlights:</strong></p>
-<ul>
-<li>12 Monatsblätter mit automatischer Summenbildung</li>
-<li>EÜR-Jahresabschluss fertig für ELSTER</li>
-<li>Steuerrücklage 40% wird automatisch berechnet</li>
-<li>Rechnungsvorlage inklusive (§19 UStG)</li>
-</ul>
-<p><strong>Attraktive Provision</strong> · 180 Tage Cookie · Sofort-Download · Niedrige Stornoquote</p>
-<p>Fertige Werbemittel und alle Infos: <a href="https://partner.bloomgeneration.de">partner.bloomgeneration.de</a></p>
+**Vendor's marketplace description:** Excel-Vorlage für die Einnahmen-Überschuss-Rechnung von Kleinunternehmern in Deutschland. Funktioniert in Excel, LibreOffice und Google Sheets. Highlights: 12 Monatsblätter mit automatischer Summenbildung EÜR-Jahresabschluss fertig für ELSTER Steuerrücklage 40% wird automatisch berechnet Rechnungsvorlage inklusive (§19 UStG) Attraktive Provision · 180 Tage Cookie · Sofort-Download · Niedrige Stornoquote Fertige Werbemittel und alle Infos: partner.bloomgeneration.de
 
 ## 2. Links
 

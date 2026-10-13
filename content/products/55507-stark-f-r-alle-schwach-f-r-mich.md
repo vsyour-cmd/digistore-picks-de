@@ -41,34 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Stark für alle. Schwach für mich.</strong></p>
-<p><em>Glücklich nach außen. Innerlich kaputt.</em></p>
-<p> </p>
-<p>Ein ehrliches E-Book für Menschen, die nach außen funktionieren, aber sich innerlich oft leer, müde oder überfordert fühlen. Dieses Buch spricht aus, was viele denken und zeigt dir Schritt für Schritt, wie du wieder zu dir selbst findest.</p>
-<p> </p>
-<p><strong>Das erwartet dich:</strong></p>
-<p> </p>
-<ul>
-<li>
-<p>Tiefgehende Einblicke in innere Erschöpfung &amp; Selbstzweifel</p>
-</li>
-<li>
-<p>Praktische Übungen für mehr Klarheit im Kopf</p>
-</li>
-<li>
-<p>Hilfe beim Grenzen setzen ohne Schuldgefühl</p>
-</li>
-<li>
-<p>Impulse für Selbstwert, innere Ruhe und emotionale Stärke</p>
-</li>
-</ul>
-<p> </p>
-<p><strong>Für wen ist dieses Buch?</strong></p>
-<p>Für alle, die immer stark wirken müssen, sich selbst aber dabei verloren haben und endlich wieder lernen wollen, auf die eigene Stimme zu hören.</p>
-<p> </p>
-<p><strong>Kurz gesagt:</strong></p>
-<p>Kein trockenes Ratgeberbuch, sondern ein emotionaler Begleiter, der dich daran erinnert:</p>
-<p>Du musst nicht perfekt sein. Du darfst echt sein.</p>
+**Vendor's marketplace description:** Stark für alle. Schwach für mich. Glücklich nach außen. Innerlich kaputt. Ein ehrliches E-Book für Menschen, die nach außen funktionieren, aber sich innerlich oft leer, müde oder überfordert fühlen. Dieses Buch spricht aus, was viele denken und zeigt dir Schritt für Schritt, wie du wieder zu dir selbst findest. Das erwartet dich: Tiefgehende Einblicke in innere Erschöpfung & Selbstzweifel Praktische Übungen für mehr Klarheit im Kopf Hilfe beim Grenzen setzen ohne Schuldgefühl Impulse für Selbstwert, innere Ruhe und emotionale Stärke Für wen ist dieses Buch? Für alle, die immer stark wirken müssen, sich selbst aber dabei verloren haben und endlich wieder lernen wollen, auf die eigene Stimme zu hören. Kurz gesagt: Kein trockenes Ratgeberbuch, sondern ein emotionaler Begleiter, der dich daran erinnert: Du musst nicht perfekt sein. Du darfst echt sein.
 
 ## 2. Links
 

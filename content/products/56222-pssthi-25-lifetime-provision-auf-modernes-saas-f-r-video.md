@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit pssthi bewirbst du ein modernes SaaS-Tool, mit dem Unternehmen, Coaches, Agenturen, Creator und Dienstleister Videos als auffällige Bubble auf ihrer Website einbinden können.</p>
-<p> </p>
-<p>Das Produkt ist leicht verständlich, visuell stark und für viele Zielgruppen interessant, die ihre Website persönlicher, moderner und interaktiver machen möchten.</p>
-<p> </p>
-<p><strong>Warum Affiliates pssthi bewerben sollten:</strong></p>
-<ul>
-<li>
-<p>25 % Lifetime-Provision auf wiederkehrende Zahlungen</p>
-</li>
-<li>
-<p>modernes SaaS-Modell mit attraktivem Abo-Potenzial</p>
-</li>
-<li>
-<p>einfach erklärbares Produkt mit klarem Nutzen</p>
-</li>
-<li>
-<p>ideal für Zielgruppen aus Marketing, Coaching, Agenturen, SaaS, E-Commerce und Dienstleistungen</p>
-</li>
-<li>
-<p>spannendes Tool für mehr Aufmerksamkeit, Vertrauen und Interaktion auf Websites</p>
-</li>
-</ul>
+**Vendor's marketplace description:** Mit pssthi bewirbst du ein modernes SaaS-Tool, mit dem Unternehmen, Coaches, Agenturen, Creator und Dienstleister Videos als auffällige Bubble auf ihrer Website einbinden können. Das Produkt ist leicht verständlich, visuell stark und für viele Zielgruppen interessant, die ihre Website persönlicher, moderner und interaktiver machen möchten. Warum Affiliates pssthi bewerben sollten: 25 % Lifetime-Provision auf wiederkehrende Zahlungen modernes SaaS-Modell mit attraktivem Abo-Potenzial einfach erklärbares Produkt mit klarem Nutzen ideal für Zielgruppen aus Marketing, Coaching, Agenturen, SaaS, E-Commerce und Dienstleistungen spannendes Tool für mehr Aufmerksamkeit, Vertrauen und Interaktion auf Websites
 
 ## 2. Links
 

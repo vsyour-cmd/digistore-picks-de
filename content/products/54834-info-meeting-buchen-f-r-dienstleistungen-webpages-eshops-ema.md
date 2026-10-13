@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><span style="color:#ff9900;">INFO-MEETING BUCHEN</span></h1>
-<h1><span style="color:#ff9900;">FÜR MEINE DIENSLEISTUNGEN</span></h1>
-<h1><strong>HAST DU NOCH FRAGEN – für meine Dienstleistungen.?</strong></h1>
-<h1><span style="color:#ff9900;"><strong>Webseiten - Eshops - Email Marketing Automatisierungen - Terminbuchungssysteme - Chatbots usw. ?</strong></span></h1>
-<h1> </h1>
-<h5><strong>KAUFE FÜR symbolisches  2 EURO  15-30 Minuten ZOOM MEETING</strong></h5>
-<p> </p>
-<p>Informiere dich mehr beim Landingpage</p>
-<ul>
-<li>Schauen Sie hier unsere Infos &amp; Video, was können wir für Euch tun sehr günstig</li>
-</ul>
+**Vendor's marketplace description:** INFO-MEETING BUCHEN FÜR MEINE DIENSLEISTUNGEN HAST DU NOCH FRAGEN – für meine Dienstleistungen.? Webseiten - Eshops - Email Marketing Automatisierungen - Terminbuchungssysteme - Chatbots usw. ? KAUFE FÜR symbolisches 2 EURO 15-30 Minuten ZOOM MEETING Informiere dich mehr beim Landingpage Schauen Sie hier unsere Infos & Video, was können wir für Euch tun sehr günstig
 
 ## 2. Links
 

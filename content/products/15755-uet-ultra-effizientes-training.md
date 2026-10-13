@@ -41,46 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><span style="color:#ff0000;"><strong>UET</strong></span> – Ultra Effizientes Training<span style="color:#ff0000;"><strong>.</strong></span></h1>
-<p><strong>Bist du unzufrieden mit deiner Figur? <span style="color:#ff0000;">✓</span><br /></strong></p>
-<p><strong>Hast du das Gefühl, dein Training bringt nichts? <span style="color:#ff0000;">✓</span><br /></strong></p>
-<p><strong>Willst du endlich mal einen Trainingsplan durchzuziehen? <span style="color:#ff0000;">✓</span><br /></strong></p>
-<p><strong>Würdest du gerne fitter sein? <span style="color:#ff0000;">✓</span><br /></strong></p>
-<p><strong>Fehlt dir im Alltag die Zeit für regelmäßiges Training? <span style="color:#ff0000;">✓</span></strong></p>
-<p><span style="color:#ff0000;"><strong>Investiere jeden Tag 6 Minuten und du bekommst dafür den Körper, von dem du immer geträumt hast!</strong></span></p>
-<p>Deine tägliche Trainingseinheit besteht aus 4 Übungen. Diese sind so konzipiert, dass sie einen maximalen Trainingsreiz bewirken.</p>
-<p>Jeden Tag steht eine andere Körperpartie auf dem Programm, damit dein Muskelwachstum durch die Split-Superkompensation optimal ausgereizt wird.</p>
-<p>Du trainierst dabei auschließlich mit dem eigenen Körpergewicht und kannst jede Übung problemlos bei dir zuhause durchführen.</p>
-<p>Viele Fitnessprogramme sind zeitlich nicht mit Job und Familie vereinbar.</p>
-<h2><span style="color:#ff0000;"><strong>Das ist bei UET anders!</strong></span></h2>
-<p>Hier bekommst du einen stressigen Alltag, deine Portion Sport und deinen Traumkörper locker unter einen Hut!</p>
-<p>Mit nur  <strong>20 % Prozent Zeiteinsatz </strong>satte<strong> 80 % Trainingserfolg</strong> erzielen!</p>
-<h1>Was bekommst du im <span style="color:#ff0000;"><strong>UET</strong></span>-Programm<span style="color:#ff0000;"><strong>?</strong></span></h1>
-<p> </p>
-<ul><li>
-<div>
-<h4><strong>Einen personalisierten Trainingsplan</strong></h4>
-<div>
-<ul><li><strong>6 Minuten Training am Tag</strong></li>
-<li><strong>4 ultra effiziente Übungen pro Einheit</strong></li>
-<li><strong>jeden Tag eine andere Muskelgruppe</strong></li>
-<li><strong>lebenslanger Zugriff auf das komplette Programm im Videoformat!</strong></li>
-</ul></div>
-</div>
-<div> </div>
-</li>
-<li>
-<div><strong>Einen gesunden und durchtrainierten Körper</strong></div>
-<div>
-<div>
-<ul><li><strong>mehr Muskelmasse</strong></li>
-<li><strong>weniger Körperfett</strong></li>
-<li><strong>ein gesünderes Körpergefühl</strong></li>
-</ul><h2><span style="color:#ff0000;"><strong>JETZT STARTEN!</strong></span></h2>
-</div>
-</div>
-</li>
-</ul><p> </p>
+**Vendor's marketplace description:** UET – Ultra Effizientes Training . Bist du unzufrieden mit deiner Figur? ✓ Hast du das Gefühl, dein Training bringt nichts? ✓ Willst du endlich mal einen Trainingsplan durchzuziehen? ✓ Würdest du gerne fitter sein? ✓ Fehlt dir im Alltag die Zeit für regelmäßiges Training? ✓ Investiere jeden Tag 6 Minuten und du bekommst dafür den Körper, von dem du immer geträumt hast! Deine tägliche Trainingseinheit besteht aus 4 Übungen. Diese sind so konzipiert, dass sie einen maximalen Trainingsreiz bewirken. Jeden Tag steht eine andere Körperpartie auf dem Programm, damit dein Muskelwachstum durch die Split-Superkompensation optimal ausgereizt wird. Du trainierst dabei auschließlich mit dem eigenen Körpergewicht und kannst jede Übung problemlos bei dir zuhause durchführen. Viele Fitnessprogramme sind zeitlich nicht mit Job und Familie vereinbar. Das ist bei UET anders! Hier bekommst du einen stressigen Alltag, deine Portion Sport und deinen Traumkörper locker unter einen Hut! Mit nur 20 % Prozent Zeiteinsatz satte 80 % Trainingserfolg erzielen! Was bekommst du im UET -Programm ? Einen personalisierten Trainingsplan 6 Minuten Training am Tag 4 ultra effiziente Übungen pro Einheit jeden Tag eine andere Muskelgruppe lebenslanger Zugriff auf das komplette Programm im Videoformat! Einen gesunden und durchtrainierten Körper mehr Muskelmasse weniger Körperfett ein gesünderes Körpergefühl JETZT STARTEN!
 
 ## 2. Links
 

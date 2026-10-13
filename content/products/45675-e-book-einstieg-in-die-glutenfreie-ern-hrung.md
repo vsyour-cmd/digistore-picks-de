@@ -41,35 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du hast Zöliakie, eine Glutenunverträglichkeit, oder möchtest dich gerne glutenfrei ernähren? Bist du noch ganz am Anfang und kennst dich noch kaum mit der glutenfreien Ernährung aus? Stehst du auch manchmal im Supermarkt und weisst nicht, was du einkaufen kannst? Dann ist mein e-Book „Einstieg in die glutenfreie Ernährung – inkl. Einkaufsliste“ genau das Richtige für dich! </p>
-<p> </p>
-<p>Mein e-Book soll dir helfen, langfristig einen ausgeglichenen, gesunden und glutenfreien Lifestyle zu führen, um vorallem stressfrei einzukaufen, zu kochen &amp; zu backen! Diesen Ratgeber habe ich aus viel eigener Rechere und meinen eigenen Erfahrungen zusammengestellt, um dir deinen glutenfreien Alltag zu erleichtern.</p>
-<p> </p>
-<p>Dieses e-Book begrenzt sich nicht nur auf wenige Seiten, sondern liefert dir wertvolle Informationen zum Einstieg in die glutenfreie Ernährung.</p>
-<p> </p>
-<div>
-<div>
-<h2><strong>Folgende Kapitel sind enthalten</strong>:</h2>
-</div>
-</div>
-<div>
-<ul>
-<li>Lecker essen, ohne Gluten</li>
-<li>Die ersten Schritte</li>
-<li>Zöliakie</li>
-<li>glutenhaltige Lebensmittel</li>
-<li>praktische Einkaufsliste</li>
-<li>Kinder &amp; die glutenfreie Ernährung</li>
-<li>Essen gehen</li>
-<li>Glutenfrei „to go“</li>
-<li>glutenfreie Küche</li>
-<li>Must-Haves</li>
-<li>Küchenhelfer</li>
-<li>Meine Empfehlungen</li>
-</ul>
-<h2><u>Du bekommst <strong>sofort</strong> ein 61-setiges PDF per E-Mail zugeschickt</u></h2>
-<p> </p>
-</div>
+**Vendor's marketplace description:** Du hast Zöliakie, eine Glutenunverträglichkeit, oder möchtest dich gerne glutenfrei ernähren? Bist du noch ganz am Anfang und kennst dich noch kaum mit der glutenfreien Ernährung aus? Stehst du auch manchmal im Supermarkt und weisst nicht, was du einkaufen kannst? Dann ist mein e-Book „Einstieg in die glutenfreie Ernährung – inkl. Einkaufsliste“ genau das Richtige für dich! Mein e-Book soll dir helfen, langfristig einen ausgeglichenen, gesunden und glutenfreien Lifestyle zu führen, um vorallem stressfrei einzukaufen, zu kochen & zu backen! Diesen Ratgeber habe ich aus viel eigener Rechere und meinen eigenen Erfahrungen zusammengestellt, um dir deinen glutenfreien Alltag zu erleichtern. Dieses e-Book begrenzt sich nicht nur auf wenige Seiten, sondern liefert dir wertvolle Informationen zum Einstieg in die glutenfreie Ernährung. Folgende Kapitel sind enthalten : Lecker essen, ohne Gluten Die ersten Schritte Zöliakie glutenhaltige Lebensmittel praktische Einkaufsliste Kinder & die glutenfreie Ernährung Essen gehen Glutenfrei „to go“ glutenfreie Küche Must-Haves Küchenhelfer Meine Empfehlungen Du bekommst sofort ein 61-setiges PDF per E-Mail zugeschickt
 
 ## 2. Links
 

@@ -41,38 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Machen Sie Ihr Unternehmen sicherer – flexibel und ortsunabhängig.</p>
-<p>Unsere Online-Schulung zum Sicherheitsbeauftragten vermittelt alle notwendigen Grundlagen für eine wirksame Unterstützung des Arbeitsschutzes im Betrieb.</p>
-<p> </p>
-<p>Schulungsinhalte:</p>
-<p> </p>
-<ul>
-<li>Aufgaben, Rechte und Pflichten des Sicherheitsbeauftragten</li>
-<li>Grundlagen des Arbeits- und Gesundheitsschutzes</li>
-<li>Erkennen und Bewerten von Gefährdungen</li>
-<li>Unfallverhütung und sicheres Verhalten im Arbeitsalltag</li>
-<li>Zusammenarbeit mit Führungskräften und Fachkräften für Arbeitssicherheit</li>
-<li>Praxisnahe Beispiele aus dem Betriebsalltag</li>
-</ul>
-<p> </p>
-<p> </p>
-<p>Rahmenbedingungen:</p>
-<p> </p>
-<ul>
-<li>Umfang: 16 Unterrichtseinheiten à 45 Minuten</li>
-<li>Format: 100 % Online-Schulung</li>
-<li>Zielgruppe: Bestellte oder angehende Sicherheitsbeauftragte</li>
-<li>Abschluss: Teilnahmebescheinigung</li>
-</ul>
-<p> </p>
-<p> </p>
-<p>Ihre Vorteile:</p>
-<p> </p>
-<ul>
-<li>Teilnahme von überall möglich</li>
-<li>Keine Reise- oder Übernachtungskosten</li>
-<li>Aktuelle Inhalte gemäß gesetzlichen Vorgaben</li>
-</ul>
+**Vendor's marketplace description:** Machen Sie Ihr Unternehmen sicherer – flexibel und ortsunabhängig. Unsere Online-Schulung zum Sicherheitsbeauftragten vermittelt alle notwendigen Grundlagen für eine wirksame Unterstützung des Arbeitsschutzes im Betrieb. Schulungsinhalte: Aufgaben, Rechte und Pflichten des Sicherheitsbeauftragten Grundlagen des Arbeits- und Gesundheitsschutzes Erkennen und Bewerten von Gefährdungen Unfallverhütung und sicheres Verhalten im Arbeitsalltag Zusammenarbeit mit Führungskräften und Fachkräften für Arbeitssicherheit Praxisnahe Beispiele aus dem Betriebsalltag Rahmenbedingungen: Umfang: 16 Unterrichtseinheiten à 45 Minuten Format: 100 % Online-Schulung Zielgruppe: Bestellte oder angehende Sicherheitsbeauftragte Abschluss: Teilnahmebescheinigung Ihre Vorteile: Teilnahme von überall möglich Keine Reise- oder Übernachtungskosten Aktuelle Inhalte gemäß gesetzlichen Vorgaben
 
 ## 2. Links
 

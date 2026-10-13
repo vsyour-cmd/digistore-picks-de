@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Vermarkte den Schnupperkurs des Self Publishing Masterkurses! Du bekommst dafür <strong>1,00€ Provision</strong>!</p>
-<p>Und für alle weiteren Upsells wirst du ebenfalls vergütet!</p>
-<p><strong>Du kannst derzeit bis zu 182,70 Euro (alles Einmalzahlung oder 205,54 € bei monatlicher Zahlung) pro Sale verdienen!! +1,00 für diesen Schnupperkurs als Lead Magnet.<br /></strong></p>
-<p>Das spricht für den kompletten Kurs:</p>
-<ul>
-<li>Schritt für Schritt vom Anfänger bis zum ersten eBook, Taschenbuch und Hörbuch (upsell)</li>
-<li>Zeigt den Teilnehmern alle Schritte von der Nischenanalyse über Ghostwriter finden, Covererstellung und Marketing</li>
-<li>Profi Marketing Strategien (Upsell)</li>
-<li>ständig NEUE Inhalte</li>
-<li>Über <strong>6 Stunden Videomaterial</strong> im Masterkurs und über <strong>8 Stunden</strong> im Profikurs + <strong>2 Stunden</strong> im Audio Book Kurs + 2 Stunden Mindset Kurs.</li>
-<li>Theorie &amp; Praxis!</li>
-<li>Checklisten, Vorlagen, Templates, etc.! All-In-One Package!</li>
-<li>ständige Updates vom Kurs</li>
-<li>VIP Support</li>
-<li>Prüfungsmöglchkeit am Ende des Kurses mit Teilnahmebestätigung und Qualifikation</li>
-</ul>
-<p>Profitiere somit auch du von dem Trend des Self Publishings und des einfachen Einstiegs!</p>
+**Vendor's marketplace description:** Vermarkte den Schnupperkurs des Self Publishing Masterkurses! Du bekommst dafür 1,00€ Provision ! Und für alle weiteren Upsells wirst du ebenfalls vergütet! Du kannst derzeit bis zu 182,70 Euro (alles Einmalzahlung oder 205,54 € bei monatlicher Zahlung) pro Sale verdienen!! +1,00 für diesen Schnupperkurs als Lead Magnet. Das spricht für den kompletten Kurs: Schritt für Schritt vom Anfänger bis zum ersten eBook, Taschenbuch und Hörbuch (upsell) Zeigt den Teilnehmern alle Schritte von der Nischenanalyse über Ghostwriter finden, Covererstellung und Marketing Profi Marketing Strategien (Upsell) ständig NEUE Inhalte Über 6 Stunden Videomaterial im Masterkurs und über 8 Stunden im Profikurs + 2 Stunden im Audio Book Kurs + 2 Stunden Mindset Kurs. Theorie & Praxis! Checklisten, Vorlagen, Templates, etc.! All-In-One Package! ständige Updates vom Kurs VIP Support Prüfungsmöglchkeit am Ende des Kurses mit Teilnahmebestätigung und Qualifikation Profitiere somit auch du von dem Trend des Self Publishings und des einfachen Einstiegs!
 
 ## 2. Links
 

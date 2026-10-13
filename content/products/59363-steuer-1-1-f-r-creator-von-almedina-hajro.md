@@ -41,33 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Steuer 1×1 für Creator – von Almedina Hajro</p>
-<p>Steuern, Buchhaltung und finanzielle Planung gehören zu jeder professionellen Selbstständigkeit – gerade für Creator, Influencer, Freelancer und andere digitale Dienstleister. Gleichzeitig wirken diese Themen im Business-Alltag schnell kompliziert und unübersichtlich.</p>
-<p>Der „Steuer 1×1 für Creator“ von Almedina Hajro hilft dir dabei, die wichtigsten steuerlichen und finanziellen Grundlagen deiner Selbstständigkeit strukturiert zu verstehen und deine Finanzen besser zu organisieren.</p>
-<p>Du erhältst praxisnahe Informationen und direkt einsetzbare Werkzeuge rund um:</p>
-<p>steuerliche Grundlagen für Selbstständige und Creator</p>
-<p>Buchhaltung und Einnahmen-Ausgaben-Organisation</p>
-<p>Rechnungen und wichtige Anforderungen</p>
-<p>Rücklagen für Steuern und finanzielle Planung</p>
-<p>Kleinunternehmerregelung</p>
-<p>typische Fehler und wichtige Stolperfallen</p>
-<p>geschäftliche Ausgaben und deren Dokumentation</p>
-<p>Organisation deiner Unterlagen</p>
-<p>Vorbereitung auf die Zusammenarbeit mit einer Steuerberatung</p>
-<p>Das ist enthalten:</p>
-<p>Premium-PDF-Guide</p>
-<p>Workbook</p>
-<p>Finanz- &amp; Rücklagenrechner</p>
-<p>Einnahmen-/Ausgaben-Tracker</p>
-<p>PR-Sample-Tracker</p>
-<p>Checklisten und Vorlagen</p>
-<p>Steuerkalender</p>
-<p>weitere praktische Organisationstools</p>
-<p>Damit hast du nicht nur theoretisches Wissen, sondern ein komplettes digitales Arbeitspaket, das dich bei der strukturierten Organisation deiner finanziellen Themen im Business unterstützt.</p>
-<p>Für wen ist der Guide geeignet?</p>
-<p>Für Content Creator, Influencer, UGC-Creator, Freelancer, Social Media Manager und andere Selbstständige, die ihre steuerlichen und finanziellen Themen besser verstehen und professioneller organisieren möchten.</p>
-<p>Wichtiger Hinweis:</p>
-<p>Der Guide dient ausschließlich der allgemeinen Information und Weiterbildung. Er ersetzt keine individuelle Steuer-, Rechts- oder Finanzberatung. Bei persönlichen steuerlichen oder rechtlichen Fragen solltest du eine entsprechend qualifizierte Fachperson konsultieren.</p>
+**Vendor's marketplace description:** Steuer 1×1 für Creator – von Almedina Hajro Steuern, Buchhaltung und finanzielle Planung gehören zu jeder professionellen Selbstständigkeit – gerade für Creator, Influencer, Freelancer und andere digitale Dienstleister. Gleichzeitig wirken diese Themen im Business-Alltag schnell kompliziert und unübersichtlich. Der „Steuer 1×1 für Creator“ von Almedina Hajro hilft dir dabei, die wichtigsten steuerlichen und finanziellen Grundlagen deiner Selbstständigkeit strukturiert zu verstehen und deine Finanzen besser zu organisieren. Du erhältst praxisnahe Informationen und direkt einsetzbare Werkzeuge rund um: steuerliche Grundlagen für Selbstständige und Creator Buchhaltung und Einnahmen-Ausgaben-Organisation Rechnungen und wichtige Anforderungen Rücklagen für Steuern und finanzielle Planung Kleinunternehmerregelung typische Fehler und wichtige Stolperfallen geschäftliche Ausgaben und deren Dokumentation Organisation deiner Unterlagen Vorbereitung auf die Zusammenarbeit mit einer Steuerberatung Das ist enthalten: Premium-PDF-Guide Workbook Finanz- & Rücklagenrechner Einnahmen-/Ausgaben-Tracker PR-Sample-Tracker Checklisten und Vorlagen Steuerkalender weitere praktische Organisationstools Damit hast du nicht nur theoretisches Wissen, sondern ein komplettes digitales Arbeitspaket, das dich bei der strukturierten Organisation deiner finanziellen Themen im Business unterstützt. Für wen ist der Guide geeignet? Für Content Creator, Influencer, UGC-Creator, Freelancer, Social Media Manager und andere Selbstständige, die ihre steuerlichen und finanziellen Themen besser verstehen und professioneller organisieren möchten. Wichtiger Hinweis: Der Guide dient ausschließlich der allgemeinen Information und Weiterbildung. Er ersetzt keine individuelle Steuer-, Rechts- oder Finanzberatung. Bei persönlichen steuerlichen oder rechtlichen Fragen solltest du eine entsprechend qualifizierte Fachperson konsultieren.
 
 ## 2. Links
 

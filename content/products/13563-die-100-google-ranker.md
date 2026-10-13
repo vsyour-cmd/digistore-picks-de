@@ -41,51 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Die 100 Google Ranker<br /></strong></h2>
-<h2><strong><span style="background-color:#ffff00;">Der erste Videokurs, der 100 Marketing-Techniken zeigt, wie man seine Webseiten auf die 200 Google Faktoren SEO-optimiert.</span></strong></h2>
-<p> </p>
-<div><strong>10 Gründe, warum du Geld verdienen mit E-Books verschenken promoten solltest:</strong> <br /><ul><li><strong>Mit 60% die höchste Provision im Profi-Internet-Marketing-Bereich</strong></li>
-<li>
-<p><strong>Hohe Verkaufsraten in der Geld im Internet verdienen Nische, da es Mehr für weniger Geld gibt<br /></strong></p>
-</li>
-<li>
-<p><strong>Vollautomatische Auszahlung deiner Provision durch Digistore24</strong></p>
-</li>
-<li>
-<p><strong>Direkt-Verkauf ohne großes Blabla und ohne versteckten Salesfunnel<br /></strong></p>
-</li>
-<li><strong>keine überteuerten Produkte und dadurch ~0% Stornoquote</strong></li>
-<li>
-<p><strong>Produkte, die Menschen wirklich helfen</strong></p>
-</li>
-<li>
-<p><strong>Lars-Support (Ich helfe Dir, wenn du etwas nicht verstehst)<br /></strong></p>
-</li>
-<li>
-<p><strong>Ausführliche und ständige Conversion Optimierung</strong></p>
-</li>
-<li>
-<p><strong>Regelmäßige Affiliate Wettbewerbe <br />(Preis und Geschenke)<br /></strong></p>
-</li>
-<li>
-<p><strong>Du bekomsmt automatisch Anleitungen zugesendet, mit denen du meine Produkte optimal bewerben kannst.<br /></strong></p>
-</li>
-</ul><p><strong>Wichtig: Klicke jetzt unten rechts auf „Affiliate Support-Seite“ und erfahre konkret, wie du loslegen kannst, damit Du noch heute deine ersten Provisionen erhalten kannst!</strong></p>
-<p><strong>----------------------------------------&gt;&gt;&gt;</strong></p>
-<div>Das beinhaltet "<strong>Die 100 Google Ranker"</strong></div>
-<div>
-<p>Sie erwerben hiermit den einzigartigen Videokurs <strong>die 100 Google Ranker</strong> , mit dem Sie in kurzer Zeit und auf Dauer ihre Seite an die Spitze von Google katapultieren.</p>
-<p><strong>Die 100 Google Ranker beinhalten:</strong></p>
-<ol><li>26 Videos Onpage Optimierung von Texten</li>
-<li>9 Videos zur Keyword Optimierung</li>
-<li>17 Videos zu Optimierug von Webseite, Struktur, Code und Performance</li>
-<li>18 Videos zur Offpage-Optimierung</li>
-<li>11 Videos zur Verringerung der Absprungrate</li>
-<li>14 Tage Geld-Zurück-Garantie</li>
-<li>7/24 <a>Lars-Support</a> <em>(auch für Fragen vorher)</em></li>
-</ol><p><strong>Standardpreis: 57€<br />Sie sparen heute 30€.</strong></p>
-</div>
-</div>
+**Vendor's marketplace description:** Die 100 Google Ranker Der erste Videokurs, der 100 Marketing-Techniken zeigt, wie man seine Webseiten auf die 200 Google Faktoren SEO-optimiert. 10 Gründe, warum du Geld verdienen mit E-Books verschenken promoten solltest: Mit 60% die höchste Provision im Profi-Internet-Marketing-Bereich Hohe Verkaufsraten in der Geld im Internet verdienen Nische, da es Mehr für weniger Geld gibt Vollautomatische Auszahlung deiner Provision durch Digistore24 Direkt-Verkauf ohne großes Blabla und ohne versteckten Salesfunnel keine überteuerten Produkte und dadurch ~0% Stornoquote Produkte, die Menschen wirklich helfen Lars-Support (Ich helfe Dir, wenn du etwas nicht verstehst) Ausführliche und ständige Conversion Optimierung Regelmäßige Affiliate Wettbewerbe (Preis und Geschenke) Du bekomsmt automatisch Anleitungen zugesendet, mit denen du meine Produkte optimal bewerben kannst. Wichtig: Klicke jetzt unten rechts auf „Affiliate Support-Seite“ und erfahre konkret, wie du loslegen kannst, damit Du noch heute deine ersten Provisionen erhalten kannst! ---------------------------------------->>> Das beinhaltet " Die 100 Google Ranker" Sie erwerben hiermit den einzigartigen Videokurs die 100 Google Ranker , mit dem Sie in kurzer Zeit und auf Dauer ihre Seite an die Spitze von Google katapultieren. Die 100 Google Ranker beinhalten: 26 Videos Onpage Optimierung von Texten 9 Videos zur Keyword Optimierung 17 Videos zu Optimierug von Webseite, Struktur, Code und Performance 18 Videos zur Offpage-Optimierung 11 Videos zur Verringerung der Absprungrate 14 Tage Geld-Zurück-Garantie 7/24 Lars-Support (auch für Fragen vorher) Standardpreis: 57€ Sie sparen heute 30€.
 
 ## 2. Links
 

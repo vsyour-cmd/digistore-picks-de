@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein Kurs, der offen anspricht, was im Coaching- und Beratungsalltag oft noch nicht Standard ist: der Umgang mit Klienten, die durch Trauma schwer belastet sind – und wie leicht Coaches und Berater dabei selbst an die eigenen Grenzen geraten, das Erlebte mit nach Hause nehmen oder nach der Sitzung nicht mehr abschalten können.</p>
-<p>Der Kurs vermittelt zugleich ein fundiertes Verständnis der inneren Reaktionsmuster schwer belasteter Menschen im Alltag – psychoedukativ über die zugrundeliegenden Mechanismen erschlossen, nicht über belastende Falldarstellungen, sodass das Nachvollziehen selbst nicht zur Belastung wird.</p>
-<p>24 Video-Lektionen in 7 Kapiteln (ca. 3 Stunden), ein 14-seitiges Workbook und vier Praxis-Arbeitsblätter (u. a. Grenzen-Selbstcheck, Notfallkoffer-Vorlage) vermitteln konkrete, sofort anwendbare Skills – nicht nur theoretisches Grundlagenwissen, sondern auch Handwerkszeug für den echten Berufsalltag.</p>
-<p>Kursleiterin Beate Lindemann ist Coach mit viel Erfahrung im Engagement für Traumatisierte und eigener Trauma-Fortbildung. Sie führt auf Experten-Niveau durch die Lektionen und spricht die Themen so klar und fundiert an, wie es in klassischen Ausbildungen selten vorkommt.</p>
-<p>Zielgruppe: Coaches, Berater und Therapeuten, die beruflich mit schwer belasteten Menschen arbeiten – eine klar abgegrenzte, kaufbereite Nische mit bisher wenig vergleichbaren Angeboten auf dem Markt.</p>
+**Vendor's marketplace description:** Ein Kurs, der offen anspricht, was im Coaching- und Beratungsalltag oft noch nicht Standard ist: der Umgang mit Klienten, die durch Trauma schwer belastet sind – und wie leicht Coaches und Berater dabei selbst an die eigenen Grenzen geraten, das Erlebte mit nach Hause nehmen oder nach der Sitzung nicht mehr abschalten können. Der Kurs vermittelt zugleich ein fundiertes Verständnis der inneren Reaktionsmuster schwer belasteter Menschen im Alltag – psychoedukativ über die zugrundeliegenden Mechanismen erschlossen, nicht über belastende Falldarstellungen, sodass das Nachvollziehen selbst nicht zur Belastung wird. 24 Video-Lektionen in 7 Kapiteln (ca. 3 Stunden), ein 14-seitiges Workbook und vier Praxis-Arbeitsblätter (u. a. Grenzen-Selbstcheck, Notfallkoffer-Vorlage) vermitteln konkrete, sofort anwendbare Skills – nicht nur theoretisches Grundlagenwissen, sondern auch Handwerkszeug für den echten Berufsalltag. Kursleiterin Beate Lindemann ist Coach mit viel Erfahrung im Engagement für Traumatisierte und eigener Trauma-Fortbildung. Sie führt auf Experten-Niveau durch die Lektionen und spricht die Themen so klar und fundiert an, wie es in klassischen Ausbildungen selten vorkommt. Zielgruppe: Coaches, Berater und Therapeuten, die beruflich mit schwer belasteten Menschen arbeiten – eine klar abgegrenzte, kaufbereite Nische mit bisher wenig vergleichbaren Angeboten auf dem Markt.
 
 ## 2. Links
 
@@ -81,6 +77,18 @@ language: "de"
 - **Page word count:** 1052
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+> In 7 Kapiteln, insgesamt rund drei Stunden – Schritt für Schritt, in Ihrem eigenen Tempo.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58681-g1.webp
 
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 

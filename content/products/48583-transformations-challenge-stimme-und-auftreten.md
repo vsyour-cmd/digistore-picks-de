@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Du bekommst 50% Provision!</h2>
-<h3>Infos zum Kurs:</h3>
-<p>Mit dieser Challenge, die über Audio-Aufnahmen in einer WhatsApp-Gruppe stattfindet, optimieren wir gemeinsam:</p>
-<ul>
-<li>Die Stimme: wie sie klingt, wie wir sie verändern, wie sie wirkt</li>
-<li>Die Sprechweise: was wir steuern können um unsere Wirkung zu steuern und Gespräche zu lenken</li>
-<li>Auftreten und Kommunikation: wie wir wahrgenommen werden, wie wir Inhalte vermitteln</li>
-</ul>
-<p>Mit 21 effektiven Tricks und Übungen arbeiten wir uns täglich einen Schritt weiter vor, hin zu einem Werkzeugkasten, den wir unser Leben lang nutzen können.</p>
-<h3>Top 3 Ziele:</h3>
-<ul>
-<li>sich selbstbewusst und sicher fühlen</li>
-<li>souverän auftreten und überzeugen</li>
-<li>die Wirkung bewusst steuern lernen</li>
-</ul>
+**Vendor's marketplace description:** Du bekommst 50% Provision! Infos zum Kurs: Mit dieser Challenge, die über Audio-Aufnahmen in einer WhatsApp-Gruppe stattfindet, optimieren wir gemeinsam: Die Stimme: wie sie klingt, wie wir sie verändern, wie sie wirkt Die Sprechweise: was wir steuern können um unsere Wirkung zu steuern und Gespräche zu lenken Auftreten und Kommunikation: wie wir wahrgenommen werden, wie wir Inhalte vermitteln Mit 21 effektiven Tricks und Übungen arbeiten wir uns täglich einen Schritt weiter vor, hin zu einem Werkzeugkasten, den wir unser Leben lang nutzen können. Top 3 Ziele: sich selbstbewusst und sicher fühlen souverän auftreten und überzeugen die Wirkung bewusst steuern lernen
 
 ## 2. Links
 

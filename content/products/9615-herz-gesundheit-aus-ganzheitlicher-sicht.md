@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2> </h2>
-<h2>Produkteigenschaften:</h2>
-<ul style="list-style-type:disc;">
-<li><span style="background-color:#ffff00;"><strong>29-teiliges Online-Video-Seminar</strong></span> (ca. 8 Stunden Dauer)</li>
-<li>Teil 1: Die Vielschichtigkeit des Herz-Themas</li>
-<li>Teil 2: Die Grundprinzipien der Biologie in Hinblick auf das Herz</li>
-<li>Teil 3: Die Physiologie der Harmonie</li>
-<li>Teil 4: Widersprüche der "modernen" Herz-Medizin</li>
-<li>Teil 5: Neues Verständnis des Herz-Kreislauf-Systems</li>
-<li>Teil 6: Erprobte Wege zur Stärkung des Herz-Kreislauf-Systems</li>
-<li><span style="background-color:#ffff00;"><strong>38 Bonus-Videos</strong></span> zur Inhaltsvertiefung (ca. 12 Stunden Dauer)</li>
-<li>diverse PDF-Skripte und Übersichtsgrafiken zum Download zur Verständnisvertiefung der einzelnen Video-Lektionen</li>
-<li>neuestes und <strong>ganzheitliches medizinisches Insider-Wissen</strong> zur Stärkung des Herz-Kreislauf-Systems</li>
-<li><span style="background-color:#ffff00;"><strong>13-teiliger Bonus-Video-Kurs:</strong></span> „Richtiges Atmen mit der richtigen Luft“ mit ca. 3,5 Stunden Video-Gesamt-Dauer</li>
-<li>30-Tage Geld-zurück-Garantie</li>
-</ul>
-<p> </p>
-<h2>Vorteile für den Anwender des Online-Video-Seminars:</h2>
-<ul style="list-style-type:disc;">
-<li>Das Seminar nimmt durch die klare Vermittlung wichtiger Zusammenhänge völlig irrational begründete Ängste bezogen auf das Herz (v.a. bei Krankheitsbildern wie Herzinfarkt, Bluthochdruck, Herzschwäche usw.)</li>
-<li>Das Seminar liefert wenig bekannte Hintergründe zur Funktionsweise des Herzens und zeigt gleichzeitig bewährte Wege und einfache Strategien zur Stärkung des gesamten Herz-Kreislauf-Systems auf, die jeder für sich Zuhause leicht umsetzen kann</li>
-<li>Das Seminar löst verschiedenen Mythen und Fehlannahmen bezüglich des Herzens auf: z.B. dass unser Herz eine reine Druck-Pumpe sei, Herzinfarkte ursächlich durch verstopfte Herzkranzgefäße entstünden oder dass Bluthochdruck nicht heilbar sei (All diese Annahmen über das Herz-Kreislauf-System sind aus ganzheitlich-medizinischer Sichtweise nachweislich FALSCH!!)</li>
-<li>Das Seminar schärft den Blick für ganzheitliche Zusammenhänge bezogen auf unsere Herz-Gesundheit</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** Produkteigenschaften: 29-teiliges Online-Video-Seminar (ca. 8 Stunden Dauer) Teil 1: Die Vielschichtigkeit des Herz-Themas Teil 2: Die Grundprinzipien der Biologie in Hinblick auf das Herz Teil 3: Die Physiologie der Harmonie Teil 4: Widersprüche der "modernen" Herz-Medizin Teil 5: Neues Verständnis des Herz-Kreislauf-Systems Teil 6: Erprobte Wege zur Stärkung des Herz-Kreislauf-Systems 38 Bonus-Videos zur Inhaltsvertiefung (ca. 12 Stunden Dauer) diverse PDF-Skripte und Übersichtsgrafiken zum Download zur Verständnisvertiefung der einzelnen Video-Lektionen neuestes und ganzheitliches medizinisches Insider-Wissen zur Stärkung des Herz-Kreislauf-Systems 13-teiliger Bonus-Video-Kurs: „Richtiges Atmen mit der richtigen Luft“ mit ca. 3,5 Stunden Video-Gesamt-Dauer 30-Tage Geld-zurück-Garantie Vorteile für den Anwender des Online-Video-Seminars: Das Seminar nimmt durch die klare Vermittlung wichtiger Zusammenhänge völlig irrational begründete Ängste bezogen auf das Herz (v.a. bei Krankheitsbildern wie Herzinfarkt, Bluthochdruck, Herzschwäche usw.) Das Seminar liefert wenig bekannte Hintergründe zur Funktionsweise des Herzens und zeigt gleichzeitig bewährte Wege und einfache Strategien zur Stärkung des gesamten Herz-Kreislauf-Systems auf, die jeder für sich Zuhause leicht umsetzen kann Das Seminar löst verschiedenen Mythen und Fehlannahmen bezüglich des Herzens auf: z.B. dass unser Herz eine reine Druck-Pumpe sei, Herzinfarkte ursächlich durch verstopfte Herzkranzgefäße entstünden oder dass Bluthochdruck nicht heilbar sei (All diese Annahmen über das Herz-Kreislauf-System sind aus ganzheitlich-medizinischer Sichtweise nachweislich FALSCH!!) Das Seminar schärft den Blick für ganzheitliche Zusammenhänge bezogen auf unsere Herz-Gesundheit
 
 ## 2. Links
 

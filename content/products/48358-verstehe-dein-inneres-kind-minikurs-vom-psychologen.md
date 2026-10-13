@@ -41,35 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Verstehe dein inneres Kind ist ein psychologischer Minikurs, der den Teilnehmern beibringt:</p>
-<ul>
-<li>welche Kindheitsprägungen es gibt</li>
-<li>wie diese in der Kindheit entstehen</li>
-<li>wie diese sich im Erwachsenalter ausdrücken</li>
-<li>und mithilfe von den inkludierten Fragebögen können die Teilnehmer für sich selbst feststellen, welche Kindheitsprägungen, sie selbst haben</li>
-</ul>
-<p>Die perfekte Grundlage für eine fundierte Persönlichkeitsentwicklung.</p>
-<p> </p>
-<p><strong>Dieses Produkt bekommt sehr viel positives Feedback und wurde bereits 1400+ Mal organisch verkauft.</strong></p>
-<p> </p>
-<p>Das tollste Verkaufsargument für den Kurs ist, dass die Teilnehmer - obwohl sie nur 1malig zahlen - jeden Monat einen Gruppen-Live-Call mit Ramón persönlich bekommen; gratis als Bonus oben drauf. In diesem Call können Sie ihm persönlich alle möglichen Fragen zum Thema Kindheitsaufarbeitung und Persönlichkeitsentwicklung stellen.</p>
-<p> </p>
-<p>Der Ersteller des Minikurses ist der klinische Psychologe (M.Sc.) Ramón Schlemmbach. <strong>Er ist einer der bekanntesten Experten für psychologische Kindheitsaufarbeitung im deutschsprachigen Raum</strong> mit einer Reichweite auf verschiedenen Social Media Plattformen.</p>
-<p>Youtube: 48.000+ Abonennten</p>
-<p>Instagram: 120.000+ Follower</p>
-<p>Facebook: 67.000+ Follower</p>
-<p>Tktok: 260.000+ Follower</p>
-<p> </p>
-<p>Damit steht Ihnen als Affiliate eine starke Marke mit hohem Wiedererkennungswert zur Vermarktung zur Verfügung.</p>
-<p> </p>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
+**Vendor's marketplace description:** Verstehe dein inneres Kind ist ein psychologischer Minikurs, der den Teilnehmern beibringt: welche Kindheitsprägungen es gibt wie diese in der Kindheit entstehen wie diese sich im Erwachsenalter ausdrücken und mithilfe von den inkludierten Fragebögen können die Teilnehmer für sich selbst feststellen, welche Kindheitsprägungen, sie selbst haben Die perfekte Grundlage für eine fundierte Persönlichkeitsentwicklung. Dieses Produkt bekommt sehr viel positives Feedback und wurde bereits 1400+ Mal organisch verkauft. Das tollste Verkaufsargument für den Kurs ist, dass die Teilnehmer - obwohl sie nur 1malig zahlen - jeden Monat einen Gruppen-Live-Call mit Ramón persönlich bekommen; gratis als Bonus oben drauf. In diesem Call können Sie ihm persönlich alle möglichen Fragen zum Thema Kindheitsaufarbeitung und Persönlichkeitsentwicklung stellen. Der Ersteller des Minikurses ist der klinische Psychologe (M.Sc.) Ramón Schlemmbach. Er ist einer der bekanntesten Experten für psychologische Kindheitsaufarbeitung im deutschsprachigen Raum mit einer Reichweite auf verschiedenen Social Media Plattformen. Youtube: 48.000+ Abonennten Instagram: 120.000+ Follower Facebook: 67.000+ Follower Tktok: 260.000+ Follower Damit steht Ihnen als Affiliate eine starke Marke mit hohem Wiedererkennungswert zur Vermarktung zur Verfügung.
 
 ## 2. Links
 

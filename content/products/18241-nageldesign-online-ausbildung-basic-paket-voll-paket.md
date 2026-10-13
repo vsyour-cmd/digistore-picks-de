@@ -41,37 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Lerne von Zuhause aus</strong>, kostengünstig, ortsunabhängig und bei freier Zeiteinteilung deinen neuen <span style="background-color:#ffff99;"><strong>Traumberuf zum Nageldesigner/Nageldesignerin mit Zertifikat!</strong></span></h2>
-<div> </div>
-<div><strong>So kannst Du schnell selbstständig arbeiten und dein erstes Geld in deinem neuen Beruf mit einem eigenen Studio oder von zuhause aus </strong><strong>verdienen.</strong></div>
-<div> </div>
-<div>Nageldesign Ausbildung Jetzt online lernen!</div>
-<div><span style="text-decoration:underline;background-color:#ffff99;"><strong>Nageldesign Online-Ausbildung Basic-Paket</strong></span>
-<p><strong>Du erhältst mehrere Stunden Videomaterial persönlichen WhatsApp Support und im Vollpaket zusätzliche telefonische Unterstützung bis 3 Monate nach Kauf des Produktes:</strong></p>
-<ul>
-<li>1. Video Modul Geräte und Materialkunde</li>
-<li>2. Video Modul Neumodellage Gelnägel</li>
-<li>3. Video Modul Auffüllen Gelnägel</li>
-<li>4. wichtige unterstützende Unterlagen als PDF</li>
-<li>5. Persönliche Unterstützung durch WatsApp Zugang</li>
-<li><strong>Abschlußzertifikat</strong> </li>
-</ul>
-<p><strong><span style="background-color:#ffff99;">Wenn sich ein Kunde für das Voll-Paket auf der Verkaufseite für 97,00 € entscheidet</span>, wird dies ebenso mit 60% Provision über den Promolink von uns vergütet.</strong> </p>
-<span style="text-decoration:underline;background-color:#ffff99;"><strong>Inhalt Nageldesign-Online-Ausbildung Voll-Paket:</strong></span>
-<ul>
-<li>1. Video Modul Geräte und Materialkunde</li>
-<li>2. Video Modul Neumodellage Gelnägel</li>
-<li>3. Video Modul Auffüllen Gelnägel</li>
-<li>4. Video Modul French Pediküre</li>
-<li>5. Video Modul Nailart</li>
-<li>6. wichtige unterstützende Unterlage als PDF</li>
-<li>7. WhatsApp Zugang</li>
-<li>8. Office Hours (telefonische direkt Betreuung)</li>
-<li><span style="background-color:#ffff99;"><strong>9.</strong> <strong>Bonus:</strong> <strong>Unser 113 seitiges E-Book</strong></span> für Nageldesigner/innen zum erfolgreichen Start in die Selbstständigkeit mit wertvollen Tipps aus der Praxis für Deinen Erfolg</li>
-<li><strong>Abschlußzertifikat</strong></li>
-</ul>
-<p> </p>
-</div>
+**Vendor's marketplace description:** Lerne von Zuhause aus , kostengünstig, ortsunabhängig und bei freier Zeiteinteilung deinen neuen Traumberuf zum Nageldesigner/Nageldesignerin mit Zertifikat! So kannst Du schnell selbstständig arbeiten und dein erstes Geld in deinem neuen Beruf mit einem eigenen Studio oder von zuhause aus verdienen. Nageldesign Ausbildung Jetzt online lernen! Nageldesign Online-Ausbildung Basic-Paket Du erhältst mehrere Stunden Videomaterial persönlichen WhatsApp Support und im Vollpaket zusätzliche telefonische Unterstützung bis 3 Monate nach Kauf des Produktes: 1. Video Modul Geräte und Materialkunde 2. Video Modul Neumodellage Gelnägel 3. Video Modul Auffüllen Gelnägel 4. wichtige unterstützende Unterlagen als PDF 5. Persönliche Unterstützung durch WatsApp Zugang Abschlußzertifikat Wenn sich ein Kunde für das Voll-Paket auf der Verkaufseite für 97,00 € entscheidet , wird dies ebenso mit 60% Provision über den Promolink von uns vergütet. Inhalt Nageldesign-Online-Ausbildung Voll-Paket: 1. Video Modul Geräte und Materialkunde 2. Video Modul Neumodellage Gelnägel 3. Video Modul Auffüllen Gelnägel 4. Video Modul French Pediküre 5. Video Modul Nailart 6. wichtige unterstützende Unterlage als PDF 7. WhatsApp Zugang 8. Office Hours (telefonische direkt Betreuung) 9. Bonus: Unser 113 seitiges E-Book für Nageldesigner/innen zum erfolgreichen Start in die Selbstständigkeit mit wertvollen Tipps aus der Praxis für Deinen Erfolg Abschlußzertifikat
 
 ## 2. Links
 

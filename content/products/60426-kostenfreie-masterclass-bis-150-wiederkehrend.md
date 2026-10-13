@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb die <strong>kostenfreie DIGITAL INCOME Masterclass</strong> und sichere dir attraktive, wiederkehrende Provisionen über das anschließende Angebot!</p>
-<p>In der Masterclass erfahren die Teilnehmer, wie sie sich Schritt für Schritt ein eigenes Online-Business aufbauen können – <strong>ohne eigenes Produkt, ohne eigene Webseite und ohne Startkapital.</strong></p>
-<p>Im Anschluss wird der <strong>Easy Income Club</strong> vorgestellt – eine Gemeinschaft für Menschen, die gemeinsam ihr Online-Business aufbauen und wachsen möchten.</p>
-<p><strong>Deine Provisionen:</strong></p>
-<ul>
-<li>
-<p><strong>15 € wiederkehrend</strong> für jedes vermittelte Monatsabo</p>
-</li>
-<li>
-<p><strong>150 € wiederkehrend pro Jahr</strong> für jedes vermittelte Jahresabo</p>
-</li>
-<li>
-<p><strong>50 % Provision</strong> auf weitere Online-Kurse, die deine vermittelten Kunden innerhalb der Bye Bye Hamsterrad Academy erwerben</p>
-</li>
-</ul>
-<p>Die Höhe und Häufigkeit deiner Provision richten sich nach der gewählten Mitgliedschaft und den jeweiligen Käufen.</p>
-<p><strong>Dein Vorteil:</strong></p>
-<p>Du bewirbst eine vollkommen kostenfreie Masterclass mit echtem Mehrwert. Deine Interessenten erhalten sofortigen Zugriff und lernen die Grundlagen für den Einstieg ins Online-Business kennen.</p>
-<p><strong>Bewirb wertvollen Content, hilf Menschen beim Einstieg und profitiere langfristig von den Verkäufen innerhalb der Academy!</strong></p>
+**Vendor's marketplace description:** Bewirb die kostenfreie DIGITAL INCOME Masterclass und sichere dir attraktive, wiederkehrende Provisionen über das anschließende Angebot! In der Masterclass erfahren die Teilnehmer, wie sie sich Schritt für Schritt ein eigenes Online-Business aufbauen können – ohne eigenes Produkt, ohne eigene Webseite und ohne Startkapital. Im Anschluss wird der Easy Income Club vorgestellt – eine Gemeinschaft für Menschen, die gemeinsam ihr Online-Business aufbauen und wachsen möchten. Deine Provisionen: 15 € wiederkehrend für jedes vermittelte Monatsabo 150 € wiederkehrend pro Jahr für jedes vermittelte Jahresabo 50 % Provision auf weitere Online-Kurse, die deine vermittelten Kunden innerhalb der Bye Bye Hamsterrad Academy erwerben Die Höhe und Häufigkeit deiner Provision richten sich nach der gewählten Mitgliedschaft und den jeweiligen Käufen. Dein Vorteil: Du bewirbst eine vollkommen kostenfreie Masterclass mit echtem Mehrwert. Deine Interessenten erhalten sofortigen Zugriff und lernen die Grundlagen für den Einstieg ins Online-Business kennen. Bewirb wertvollen Content, hilf Menschen beim Einstieg und profitiere langfristig von den Verkäufen innerhalb der Academy!
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die Tradingcode Signale sind ein digitaler Informationsdienst in Form von konkreten Trading-Ideen, die in einer geschlossenen Telegram-Gruppe bereitgestellt werden.</p>
-<p>Jedes Signal enthält klar definierte Angaben zum Markt, zur Handelsrichtung (Long oder Short), zum Einstieg, zu einem Stop-Loss zur Risikobegrenzung sowie zu einem oder mehreren Take-Profit-Zielen. Ergänzend wird zu jedem Setup eine kurze Einordnung bereitgestellt, wie und warum diese Trading-Idee entstanden ist.</p>
-<p>Mit dem Kauf erhältst du den zeitlich begrenzten Zugang zur Telegram-Gruppe sowie begleitende Hinweise zur Umsetzung der Signale. Der Preis <strong>69 Euro pro Monat und du kannst den Dienst jederzeit kündigen</strong>.</p>
-<p>Die Tradingcode Signale richten sich insbesondere an Einsteiger und Nutzer mit wenig Zeit, die keine eigenen umfangreichen Marktanalysen durchführen möchten. Die bereitgestellten Inhalte dienen ausschließlich der Information. Du entscheidest jederzeit selbst, ob und in welcher Form du ein Signal umsetzt.</p>
-<p>Die Signale stellen <strong>keine Anlageberatung</strong> dar und enthalten <strong>keine Garantie auf Gewinne oder bestimmte Ergebnisse</strong>.</p>
+**Vendor's marketplace description:** Die Tradingcode Signale sind ein digitaler Informationsdienst in Form von konkreten Trading-Ideen, die in einer geschlossenen Telegram-Gruppe bereitgestellt werden. Jedes Signal enthält klar definierte Angaben zum Markt, zur Handelsrichtung (Long oder Short), zum Einstieg, zu einem Stop-Loss zur Risikobegrenzung sowie zu einem oder mehreren Take-Profit-Zielen. Ergänzend wird zu jedem Setup eine kurze Einordnung bereitgestellt, wie und warum diese Trading-Idee entstanden ist. Mit dem Kauf erhältst du den zeitlich begrenzten Zugang zur Telegram-Gruppe sowie begleitende Hinweise zur Umsetzung der Signale. Der Preis 69 Euro pro Monat und du kannst den Dienst jederzeit kündigen . Die Tradingcode Signale richten sich insbesondere an Einsteiger und Nutzer mit wenig Zeit, die keine eigenen umfangreichen Marktanalysen durchführen möchten. Die bereitgestellten Inhalte dienen ausschließlich der Information. Du entscheidest jederzeit selbst, ob und in welcher Form du ein Signal umsetzt. Die Signale stellen keine Anlageberatung dar und enthalten keine Garantie auf Gewinne oder bestimmte Ergebnisse .
 
 ## 2. Links
 

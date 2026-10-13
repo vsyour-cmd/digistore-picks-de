@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Freelancing starten“</strong></p>
-<p>Wie du online erste Kunden findest und Geld verdienst – Du hast eine Fähigkeit, die andere brauchen. Wie du dein Angebot findest, ein Profil aufbaust, die ersten Kunden gewinnst und Honorare fair kalkulierst.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Dein verkäufliches Angebot und deine Nische finden</li>
-<li>Ein überzeugendes Profil und Portfolio aufbauen</li>
-<li>Die ersten Kunden gewinnen – auch ohne Netzwerk</li>
-<li>Recht, Verträge und Steuern für Freelancer regeln</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Freelancing starten“ Wie du online erste Kunden findest und Geld verdienst – Du hast eine Fähigkeit, die andere brauchen. Wie du dein Angebot findest, ein Profil aufbaust, die ersten Kunden gewinnst und Honorare fair kalkulierst. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Dein verkäufliches Angebot und deine Nische finden Ein überzeugendes Profil und Portfolio aufbauen Die ersten Kunden gewinnen – auch ohne Netzwerk Recht, Verträge und Steuern für Freelancer regeln
 
 ## 2. Links
 

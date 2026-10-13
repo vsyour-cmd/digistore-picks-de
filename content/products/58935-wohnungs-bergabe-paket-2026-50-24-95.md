@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Vorlagen-ZIP (5 PDFs) Einzug/Auszug, 24,95 , 50 %, 14 Tage. Seite <a href="https://wohnungsuebergabe.pages.dev/">https://wohnungsuebergabe.pages.dev/</a> Orderform <a href="https://www.digistore24.com/product/728861">https://www.digistore24.com/product/728861</a>. Private Arbeitsvorlagen, kein amtliches Formular, keine Rechtsberatung.</p>
+**Vendor's marketplace description:** Vorlagen-ZIP (5 PDFs) Einzug/Auszug, 24,95 , 50 %, 14 Tage. Seite https://wohnungsuebergabe.pages.dev/ Orderform https://www.digistore24.com/product/728861 . Private Arbeitsvorlagen, kein amtliches Formular, keine Rechtsberatung.
 
 ## 2. Links
 

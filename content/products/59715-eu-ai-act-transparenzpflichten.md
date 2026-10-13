@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>EU AI Act Transparenzpflichten 2026/2027</strong></p>
-<p>Dieses digitale Produkt ist ein <strong>praktisches PDF-Arbeitsheft</strong> für Unternehmen, die KI-Systeme einsetzen und ihre Informations-, Kennzeichnungs- und Transparenzpflichten strukturiert umsetzen und dokumentieren möchten.</p>
-<p>Das Arbeitsheft unterstützt bei typischen Aufgaben rund um <strong>EU AI Act, KI-Transparenz, Nutzerinformation, Kennzeichnung und interne Nachweisführung</strong>.</p>
-<p><strong>Geeignet für:</strong></p>
-<ul>
-<li>Selbstständige und KMU</li>
-<li>Unternehmen mit KI-gestützten Anwendungen</li>
-<li>Agenturen und Beratungen</li>
-<li>Marketing-, Service- und Kommunikationsteams</li>
-<li>Compliance- und Datenschutzverantwortliche</li>
-<li>Unternehmen ohne eigene KI-Compliance-Abteilung</li>
-</ul>
-<p><strong>Enthalten sind unter anderem:</strong></p>
-<ul>
-<li>Vorlagen für KI-Transparenzhinweise</li>
-<li>Nutzer- und Kundeninformationen</li>
-<li>Kennzeichnung von KI-Einsatz</li>
-<li>Dokumentation von Informationspflichten</li>
-<li>interne Verantwortlichkeiten und Freigaben</li>
-<li>Prüf- und Nachweisprozesse</li>
-<li>Checklisten für verschiedene KI-Anwendungsfälle</li>
-<li>Audit- und Dokumentationshilfen</li>
-</ul>
-<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales Arbeitsheft im PDF-Format</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
-<p>Das Arbeitsheft dient als praktische Arbeits-, Strukturierungs- und Dokumentationshilfe für Transparenzpflichten beim Einsatz von KI und ersetzt keine individuelle Rechtsberatung.</p>
-<p><strong>Verkaufspreis: 29,00 €</strong> – digitaler Sofortdownload nach dem Kauf.</p>
+**Vendor's marketplace description:** EU AI Act Transparenzpflichten 2026/2027 Dieses digitale Produkt ist ein praktisches PDF-Arbeitsheft für Unternehmen, die KI-Systeme einsetzen und ihre Informations-, Kennzeichnungs- und Transparenzpflichten strukturiert umsetzen und dokumentieren möchten. Das Arbeitsheft unterstützt bei typischen Aufgaben rund um EU AI Act, KI-Transparenz, Nutzerinformation, Kennzeichnung und interne Nachweisführung . Geeignet für: Selbstständige und KMU Unternehmen mit KI-gestützten Anwendungen Agenturen und Beratungen Marketing-, Service- und Kommunikationsteams Compliance- und Datenschutzverantwortliche Unternehmen ohne eigene KI-Compliance-Abteilung Enthalten sind unter anderem: Vorlagen für KI-Transparenzhinweise Nutzer- und Kundeninformationen Kennzeichnung von KI-Einsatz Dokumentation von Informationspflichten interne Verantwortlichkeiten und Freigaben Prüf- und Nachweisprozesse Checklisten für verschiedene KI-Anwendungsfälle Audit- und Dokumentationshilfen Wichtig: Es handelt sich ausdrücklich um ein digitales Arbeitsheft im PDF-Format und nicht um Software, einen Videokurs oder einen Mitgliederbereich. Das Arbeitsheft dient als praktische Arbeits-, Strukturierungs- und Dokumentationshilfe für Transparenzpflichten beim Einsatz von KI und ersetzt keine individuelle Rechtsberatung. Verkaufspreis: 29,00 € – digitaler Sofortdownload nach dem Kauf.
 
 ## 2. Links
 

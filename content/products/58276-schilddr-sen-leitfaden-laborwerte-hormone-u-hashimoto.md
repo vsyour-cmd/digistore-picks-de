@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Schilddrüsen-Leitfaden vermittelt verständlich und übersichtlich die wichtigsten Grundlagen zu Aufbau und Funktion der Schilddrüse, hormonellen Regelkreisen, Laborwerten, Antikörpern und den häufigsten Schilddrüsenerkrankungen.</p>
-<p>Der Leitfaden eignet sich besonders für Websites, Blogs, Newsletter und Social-Media-Kanäle mit den Themen Schilddrüse, Hashimoto, Gesundheit, Ernährung und Laborwerte.</p>
-<p>Das digitale Produkt ist mit 8,90 € bewusst niedrigpreisig und lässt sich daher leicht als ergänzendes Angebot für eine gesundheitsinteressierte Zielgruppe empfehlen. Affiliates erhalten eine Provision von 30 % pro erfolgreicher Vermittlung.</p>
-<p>Eine professionelle Verkaufsseite sowie geeignetes Werbematerial unterstützen die Bewerbung des Leitfadens</p>
+**Vendor's marketplace description:** Der Schilddrüsen-Leitfaden vermittelt verständlich und übersichtlich die wichtigsten Grundlagen zu Aufbau und Funktion der Schilddrüse, hormonellen Regelkreisen, Laborwerten, Antikörpern und den häufigsten Schilddrüsenerkrankungen. Der Leitfaden eignet sich besonders für Websites, Blogs, Newsletter und Social-Media-Kanäle mit den Themen Schilddrüse, Hashimoto, Gesundheit, Ernährung und Laborwerte. Das digitale Produkt ist mit 8,90 € bewusst niedrigpreisig und lässt sich daher leicht als ergänzendes Angebot für eine gesundheitsinteressierte Zielgruppe empfehlen. Affiliates erhalten eine Provision von 30 % pro erfolgreicher Vermittlung. Eine professionelle Verkaufsseite sowie geeignetes Werbematerial unterstützen die Bewerbung des Leitfadens
 
 ## 2. Links
 

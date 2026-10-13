@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Als Immobilien-Investor benötigt man jede Menge Formulare, Tools und Informationen. Genau dafür gibt es diesen Praxis-Kurs! Die Abonnenten bekommen jeden Monat neue Tools, Video- und Audio-Schulungen, Informationen und Dokument-Vorlagen aus der Praxis für die Praxis. Und das fast geschenkt!</p>
-<p>Und im 1. Monat gibt es meinem beliebten Renditerechner Immobilien inklusive!</p>
-<p>Der reguläre Verkaufspreis für dieses Abo-Produkt liegt bei 1,- € im ersten Monat und 9,- € für jeden weiteren Monat. Als Upsell gilt der gleiche Verkaufspreis. Alle Preise inkl. MWST. Du bekommst 33 % Affiliateprovision, wobei der eine Euro im ersten Monat für Digistore-Gebühren komplett wegfällt.</p>
+**Vendor's marketplace description:** Als Immobilien-Investor benötigt man jede Menge Formulare, Tools und Informationen. Genau dafür gibt es diesen Praxis-Kurs! Die Abonnenten bekommen jeden Monat neue Tools, Video- und Audio-Schulungen, Informationen und Dokument-Vorlagen aus der Praxis für die Praxis. Und das fast geschenkt! Und im 1. Monat gibt es meinem beliebten Renditerechner Immobilien inklusive! Der reguläre Verkaufspreis für dieses Abo-Produkt liegt bei 1,- € im ersten Monat und 9,- € für jeden weiteren Monat. Als Upsell gilt der gleiche Verkaufspreis. Alle Preise inkl. MWST. Du bekommst 33 % Affiliateprovision, wobei der eine Euro im ersten Monat für Digistore-Gebühren komplett wegfällt.
 
 ## 2. Links
 

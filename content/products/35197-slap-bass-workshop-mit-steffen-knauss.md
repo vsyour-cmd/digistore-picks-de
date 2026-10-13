@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Empfehle die einzigartigen Produkte von www.meineMusikschule.net</strong></p>
-<p><em>meineMusikschule.net - so lernt man heute Instrumente spielen ;-)</em></p>
-<p><strong>Deine Vorteile:</strong></p>
-<ul>
-<li>Einmal-/ und Aboverkäufe</li>
-<li>40% wiederkehrende Provisionen (solange der Kunde bei uns aktiv ist!)</li>
-<li>10% an Provision für vermittelte Affiliates</li>
-<li>umfangreiche Anleitungen für Affiliates im Partnerbereich</li>
-<li>große Auswahl an Werbemittel (Banner, Textvorlagen etc.) im Partnerbereich</li>
-<li>persönliche und direkte Unterstützung der Affiliatepartner </li>
-<li>und vieles mehr</li>
-</ul>
-<p><strong>Besuche jetzt unser Affiliate-Center und bewerbe dich für eine Zusammenarbeit!</strong></p>
+**Vendor's marketplace description:** Empfehle die einzigartigen Produkte von www.meineMusikschule.net meineMusikschule.net - so lernt man heute Instrumente spielen ;-) Deine Vorteile: Einmal-/ und Aboverkäufe 40% wiederkehrende Provisionen (solange der Kunde bei uns aktiv ist!) 10% an Provision für vermittelte Affiliates umfangreiche Anleitungen für Affiliates im Partnerbereich große Auswahl an Werbemittel (Banner, Textvorlagen etc.) im Partnerbereich persönliche und direkte Unterstützung der Affiliatepartner und vieles mehr Besuche jetzt unser Affiliate-Center und bewerbe dich für eine Zusammenarbeit!
 
 ## 2. Links
 

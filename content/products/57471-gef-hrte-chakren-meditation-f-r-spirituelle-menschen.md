@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#993366;color:#ffffff;"><strong>Erhalte 50% Provision pro Verkauf. GEwinn wird einfach geteilt!</strong></span></p>
-<p>Einige Affiliates verdienen damit richtig gut. Sei du der nächste.</p>
-<p><span style="background-color:#993366;color:#ffffff;"><strong>Zielgruppe:</strong></span> Stressabbau, innere Ordnung und Ruhe, besser Schlafen, Ängste loswerden, Spiritualität und Bewusstsein.</p>
+**Vendor's marketplace description:** Erhalte 50% Provision pro Verkauf. GEwinn wird einfach geteilt! Einige Affiliates verdienen damit richtig gut. Sei du der nächste. Zielgruppe: Stressabbau, innere Ordnung und Ruhe, besser Schlafen, Ängste loswerden, Spiritualität und Bewusstsein.
 
 ## 2. Links
 

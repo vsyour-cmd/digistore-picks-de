@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Der Handwerker-Recruiting-Plan“</strong></p>
-<p>Schritt für Schritt zu mehr Bewerbern, besseren Gesprächen und neuen Mitarbeitern – Gute Gesellen, Monteure und Fachkräfte zu finden ist für Handwerksbetriebe die größte Wachstumsbremse. Dieser Ratgeber zeigt dir einen praxiserprobten Recruiting-Plan: von mehr Bewerbern über die richtige Stellenanzeige und moderne Kanäle bis zu besseren Gesprächen, Einarbeitung und Mitarbeiterbindung.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 12,48 € pro Verkauf (Verkaufspreis 24,95 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Der Fachkräftemangel im Handwerk: ehrliche Bestandsaufnahme</li>
-<li>Dein Arbeitgeber-Image: warum gute Handwerker zu dir wollen sollen</li>
-<li>Mehr Bewerber: die Stellenanzeige, die wirklich ankommt</li>
-<li>Die richtigen Kanäle: wo du Gesellen, Monteure und Azubis findest</li>
-<li>Bessere Gespräche: Bewerber überzeugen und die Richtigen erkennen</li>
-<li>Schnell zusagen und sauber einarbeiten: damit neue Leute bleiben</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Der Handwerker-Recruiting-Plan“ Schritt für Schritt zu mehr Bewerbern, besseren Gesprächen und neuen Mitarbeitern – Gute Gesellen, Monteure und Fachkräfte zu finden ist für Handwerksbetriebe die größte Wachstumsbremse. Dieser Ratgeber zeigt dir einen praxiserprobten Recruiting-Plan: von mehr Bewerbern über die richtige Stellenanzeige und moderne Kanäle bis zu besseren Gesprächen, Einarbeitung und Mitarbeiterbindung. Warum dieses E-Book bewerben? 50 % Provision – ca. 12,48 € pro Verkauf (Verkaufspreis 24,95 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Der Fachkräftemangel im Handwerk: ehrliche Bestandsaufnahme Dein Arbeitgeber-Image: warum gute Handwerker zu dir wollen sollen Mehr Bewerber: die Stellenanzeige, die wirklich ankommt Die richtigen Kanäle: wo du Gesellen, Monteure und Azubis findest Bessere Gespräche: Bewerber überzeugen und die Richtigen erkennen Schnell zusagen und sauber einarbeiten: damit neue Leute bleiben
 
 ## 2. Links
 

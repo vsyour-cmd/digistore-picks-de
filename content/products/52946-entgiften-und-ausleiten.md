@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Ständig krank? Viel öfter als früher?</strong></p>
-<p>Müde und abgeschlagen? Angst vor gesundheitlichen Schicksalsschlägen? Leidest du an etwas was als „Long Covid“ bezeichnet wird?</p>
-<p>Entdecke die Kraft der Entgiftung und Ausleitung für Deine Gesundheit!  </p>
-<p>Unser Körper ist täglich einer Vielzahl an schädlichen Stoffen ausgesetzt – von Schwermetallen bis hin zu Rückständen aus Impfungen.</p>
-<p>Doch wie können wir unseren Körper effektiv und sicher von diesen Belastungen befreien?  </p>
-<p>Komm mit auf eine fundierte Reise durch die Welt der Entgiftung mit wissenschaftlich basierten Ansätzen. Leite Schadstoffe, zum Beispiel aus Impfungen, gezielt aus Deinem Körper. Erfahre, wie du mit natürlichen Methoden und gezielten Maßnahmen deinen Körper dazu bringst, deine Super-Power wiederzuerwecken.</p>
-<p>Mit über 400 Seiten wissenschaftlich fundierter Informationen und einfach umsetzbarer Tipps bringt dir dieses Buch das Wissen und die Erfahrung aus über 30 Jahren in den Bereichen Gesundheit, Biochemie, Naturheilkunde und Nahrungsergänzung näher.  </p>
-<p>· Verabschiede dich von der Angst vor Blitzkrebs, Schlaganfall, Herzkrankheiten und „plötzlich und unerwartet“-Schicksalen</p>
-<p>· Gesteigerte Energie, großartige Libido, schöne Haut und vor allem: Lebensfreude!</p>
-<p>· Funktionierendes Immunsystem. Feiere das Leben, anstatt ständig krank zu sein</p>
-<p>· Erlebe, wie gut sich dein Körper wirklich anfühlen kann</p>
-<p>· Verlängere deine Lebenserwartung und erhöhe deine Lebensqualität  </p>
-<p>Dein Weg zu einem gesünderen und vitaleren Leben beginnt hier!</p>
+**Vendor's marketplace description:** Ständig krank? Viel öfter als früher? Müde und abgeschlagen? Angst vor gesundheitlichen Schicksalsschlägen? Leidest du an etwas was als „Long Covid“ bezeichnet wird? Entdecke die Kraft der Entgiftung und Ausleitung für Deine Gesundheit! Unser Körper ist täglich einer Vielzahl an schädlichen Stoffen ausgesetzt – von Schwermetallen bis hin zu Rückständen aus Impfungen. Doch wie können wir unseren Körper effektiv und sicher von diesen Belastungen befreien? Komm mit auf eine fundierte Reise durch die Welt der Entgiftung mit wissenschaftlich basierten Ansätzen. Leite Schadstoffe, zum Beispiel aus Impfungen, gezielt aus Deinem Körper. Erfahre, wie du mit natürlichen Methoden und gezielten Maßnahmen deinen Körper dazu bringst, deine Super-Power wiederzuerwecken. Mit über 400 Seiten wissenschaftlich fundierter Informationen und einfach umsetzbarer Tipps bringt dir dieses Buch das Wissen und die Erfahrung aus über 30 Jahren in den Bereichen Gesundheit, Biochemie, Naturheilkunde und Nahrungsergänzung näher. · Verabschiede dich von der Angst vor Blitzkrebs, Schlaganfall, Herzkrankheiten und „plötzlich und unerwartet“-Schicksalen · Gesteigerte Energie, großartige Libido, schöne Haut und vor allem: Lebensfreude! · Funktionierendes Immunsystem. Feiere das Leben, anstatt ständig krank zu sein · Erlebe, wie gut sich dein Körper wirklich anfühlen kann · Verlängere deine Lebenserwartung und erhöhe deine Lebensqualität Dein Weg zu einem gesünderen und vitaleren Leben beginnt hier!
 
 ## 2. Links
 

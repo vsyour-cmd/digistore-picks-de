@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <ul>
-<li>Über 230 Seiten extrem guter Content</li>
-<li>Hochwertig als Buch produziert</li>
-<li>3 exklusive Teile zu den Themen Planen, Gründen und Skalieren: Alles, was der Leser zum Aufbau eines eigenen Online Business braucht, in einem Buch!</li>
-<li><strong>Teil 1</strong>: Mein modifizierter Businessplan für eine effiziente Planung.</li>
-<li><strong>Teil 2:</strong> Vorstellung der 5 lukrativsten Online Geschäftsmodelle mit zahlreichen nationalen und internationalen Praxisbeispielen.</li>
-<li><strong>Teil 3</strong>: Die 25 wirkungsvollsten Online Marketingstrategien - so hebt der Leser sein Business auf’s nächste Level.</li>
-<li><strong>Bonus:</strong> Ausführliche Tool-Liste mit Vorstellung der besten Softwares, Plattformen und Werkzeuge.</li>
-<li><strong>Sonderbonus:</strong> Mein Geschäftsmodell-Vergleich: Ich bewerte alle Geschäftsmodelle mit einer eigens entwickelten Matrix, damit der Leser das Modell findet, dass am besten zu seiner Gründerpersönlichkeit passt!</li>
-<li>Sehr geringe Stornoquote</li>
-</ul>
-<div> </div>
-<div><strong>Wir zahlen dir 5€ Provision für jede Bestellung!</strong></div>
-<div>Melde dich jetzt als Affiliate an und starte mit dem Promoten von meinem neuen Buch.</div>
-<div> </div>
-<div>Beste Grüße aus Köln</div>
-<div>Dein Thomas Klußmann</div>
+**Vendor's marketplace description:** Über 230 Seiten extrem guter Content Hochwertig als Buch produziert 3 exklusive Teile zu den Themen Planen, Gründen und Skalieren: Alles, was der Leser zum Aufbau eines eigenen Online Business braucht, in einem Buch! Teil 1 : Mein modifizierter Businessplan für eine effiziente Planung. Teil 2: Vorstellung der 5 lukrativsten Online Geschäftsmodelle mit zahlreichen nationalen und internationalen Praxisbeispielen. Teil 3 : Die 25 wirkungsvollsten Online Marketingstrategien - so hebt der Leser sein Business auf’s nächste Level. Bonus: Ausführliche Tool-Liste mit Vorstellung der besten Softwares, Plattformen und Werkzeuge. Sonderbonus: Mein Geschäftsmodell-Vergleich: Ich bewerte alle Geschäftsmodelle mit einer eigens entwickelten Matrix, damit der Leser das Modell findet, dass am besten zu seiner Gründerpersönlichkeit passt! Sehr geringe Stornoquote Wir zahlen dir 5€ Provision für jede Bestellung! Melde dich jetzt als Affiliate an und starte mit dem Promoten von meinem neuen Buch. Beste Grüße aus Köln Dein Thomas Klußmann
 
 ## 2. Links
 

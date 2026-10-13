@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Für Einsteiger und Profis</h2>
-<p> </p>
-<p>Unser Video-Portal richtet sich an alle Anwender, die keine oder wenig Erfahrung mit BricsCAD haben, oder die Ihre Kenntnisse auffrischen möchten. Mit dem Video-Portal erarbeiten Sie sich nicht nur eine solide CAD-Basis, sondern finden auch viele Tipps und Tricks um den CAD-Alltag noch effizienter zu gestalten. Entscheiden Sie selbst, wann Sie welches Kapitel sehen, wiederholen und vertiefen wollen.</p>
-<p>Lernen Sie innerhalb kürzester Zeit die wichtigsten BricsCAD 2D und 3D, BIM, Mechanical und 2D+3D Parametrik Funktionen kennen und nutzen. <br /><br />Mit dem Kauf des Paketes CAD-Video Selection erhalten Sie vollen Zugriff auf die Kurse BricsCAD 2D und 3D, BIM, Mechanical und 2D+3D Parametrik unter CAD-Video.de für 1 Jahr und können die Videos in diesem Zeitraum anschauen, sooft und wann immer Sie wollen.</p>
-<p>Machen Sie diese Video-Plattform zu Ihrem „BricsCAD-Personal-Trainer“, der Ihnen 24 Stunden täglich und 7 Tage die Woche zur Seite steht.</p>
+**Vendor's marketplace description:** Für Einsteiger und Profis Unser Video-Portal richtet sich an alle Anwender, die keine oder wenig Erfahrung mit BricsCAD haben, oder die Ihre Kenntnisse auffrischen möchten. Mit dem Video-Portal erarbeiten Sie sich nicht nur eine solide CAD-Basis, sondern finden auch viele Tipps und Tricks um den CAD-Alltag noch effizienter zu gestalten. Entscheiden Sie selbst, wann Sie welches Kapitel sehen, wiederholen und vertiefen wollen. Lernen Sie innerhalb kürzester Zeit die wichtigsten BricsCAD 2D und 3D, BIM, Mechanical und 2D+3D Parametrik Funktionen kennen und nutzen. Mit dem Kauf des Paketes CAD-Video Selection erhalten Sie vollen Zugriff auf die Kurse BricsCAD 2D und 3D, BIM, Mechanical und 2D+3D Parametrik unter CAD-Video.de für 1 Jahr und können die Videos in diesem Zeitraum anschauen, sooft und wann immer Sie wollen. Machen Sie diese Video-Plattform zu Ihrem „BricsCAD-Personal-Trainer“, der Ihnen 24 Stunden täglich und 7 Tage die Woche zur Seite steht.
 
 ## 2. Links
 

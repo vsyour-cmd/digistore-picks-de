@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><span style="background-color:#ff99cc;">Erhalte 5 Euro Provision pro Verkauf. Der Videokurs zum Bestseller-Buch. </span></strong><span style="background-color:#ff99cc;">(Das Hörbuch ist ebenfalls ein Affiliate-Produkt - suche nach "Hochsensibel und glücklich")</span></p>
-<p>Einige Affiliates verdienen damit richtig gut mit diesem Videokurs. Sei du der nächste.</p>
-<p><strong><span style="background-color:#ff99cc;">Zielgruppe:</span></strong> Stressabbau, Selbstannahme, <strong>Hochsensibilität</strong>, ADHS.</p>
+**Vendor's marketplace description:** Erhalte 5 Euro Provision pro Verkauf. Der Videokurs zum Bestseller-Buch. (Das Hörbuch ist ebenfalls ein Affiliate-Produkt - suche nach "Hochsensibel und glücklich") Einige Affiliates verdienen damit richtig gut mit diesem Videokurs. Sei du der nächste. Zielgruppe: Stressabbau, Selbstannahme, Hochsensibilität , ADHS.
 
 ## 2. Links
 

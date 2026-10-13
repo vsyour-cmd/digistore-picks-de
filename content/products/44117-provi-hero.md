@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Super einfache Strategie, um Geld zu verdienen!<br /></strong></h2>
-<p><strong>Für alle Affiliates eine klasse Chance.</strong> Denn du bekommst auf dieses Produkt 100% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann <strong>30 - 50% Provision</strong> gibt.</p>
-<p><strong>Insgesamt können damit über 443,17 Euro an Provision verdient werden.</strong></p>
-<p>Verkauft wird über einen kurzen VSL, da das Produkt extrem günstig ist und es wird immer weiter in kleinen Schritten optimiert.</p>
-<p>Im Programm ist folgendes enthalten:</p>
-<ul>
-<li>... eine Möglichkeit, wie der Kunde für sich 200 - 230 Euro bekommt<strong><br /></strong></li>
-<li>... <strong>Strategie, </strong>die er mit kostenlosem Traffic 100 Euro pro Anfrage (Lead) bekommt (inkl. dem Partnerprogramm)</li>
-<li>... inkl. aller Checklisten, Templates und Vorlagen!</li>
-<li>... und noch einiges mehr</li>
-</ul>
-<p>Anschließend kommen weitere Up- und Downsells, da es nur ein Einstiegsprodukt ist.</p>
-<p><strong>Es ist DIE Chance DEINES Lebens!</strong></p>
+**Vendor's marketplace description:** Super einfache Strategie, um Geld zu verdienen! Für alle Affiliates eine klasse Chance. Denn du bekommst auf dieses Produkt 100% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Insgesamt können damit über 443,17 Euro an Provision verdient werden. Verkauft wird über einen kurzen VSL, da das Produkt extrem günstig ist und es wird immer weiter in kleinen Schritten optimiert. Im Programm ist folgendes enthalten: ... eine Möglichkeit, wie der Kunde für sich 200 - 230 Euro bekommt ... Strategie, die er mit kostenlosem Traffic 100 Euro pro Anfrage (Lead) bekommt (inkl. dem Partnerprogramm) ... inkl. aller Checklisten, Templates und Vorlagen! ... und noch einiges mehr Anschließend kommen weitere Up- und Downsells, da es nur ein Einstiegsprodukt ist. Es ist DIE Chance DEINES Lebens!
 
 ## 2. Links
 

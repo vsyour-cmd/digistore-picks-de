@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Erziele <span style="color:#ff0000;">60%</span> <span style="color:#ff0000;">von 99,00 €</span> Digistore24-Provision</strong>*<br /><br /></p>
-<p><strong>Zum Produkt:<br /></strong>Der Crashkurs „AI Avatar Creator“ zeigt Einsteigern und Fortgeschrittenen, wie sie Talking-Head-Avatarvideos in Longform erstellen können – für YouTube, Onlinekurse und andere Longformate.</p>
-<p> </p>
-<p><strong>Noch Fragen?</strong></p>
-<p><a href="https://www.ararembe.com/serviceportal/kurs/ai-avatar-creator/" target="_blank" rel="noreferrer noopener">Affiliate-Supportseite &gt;&gt;</a></p>
-<p><br />Partner-Programm-Support: <a>partner@ararembe.com</a></p>
-<p> </p>
-<p>*Hinweis: Alle Affiliate-Angebote und Provisionen können sich jederzeit ändern, da wir hier ständig optimieren, um für alle Beteiligten das Beste Ergebnis zu erzielen!</p>
+**Vendor's marketplace description:** Erziele 60% von 99,00 € Digistore24-Provision * Zum Produkt: Der Crashkurs „AI Avatar Creator“ zeigt Einsteigern und Fortgeschrittenen, wie sie Talking-Head-Avatarvideos in Longform erstellen können – für YouTube, Onlinekurse und andere Longformate. Noch Fragen? Affiliate-Supportseite >> Partner-Programm-Support: partner@ararembe.com *Hinweis: Alle Affiliate-Angebote und Provisionen können sich jederzeit ändern, da wir hier ständig optimieren, um für alle Beteiligten das Beste Ergebnis zu erzielen!
 
 ## 2. Links
 

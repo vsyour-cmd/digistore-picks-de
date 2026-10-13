@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Kinderwunsch Kurs von Carolina Stephan (@travelmom89, 46.000+ Follower auf TikTok und Instagram) richtet sich an Frauen, die beim Kinderwunsch nicht weiterkommen oder nach einer Fehlgeburt Antworten suchen, bevor sie in die Kinderwunschklinik gehen.</p>
-<p>6 Module, 36 Lektionen:</p>
-<ul>
-<li>Blutwerte verstehen (Normbereich vs. optimal für Kinderwunsch)</li>
-<li>Zyklus lesen</li>
-<li>Supplements nach Studienlage</li>
-<li>Lebensstil</li>
-<li>Männliche Fruchtbarkeit</li>
-<li>Der richtige Zeitpunkt für die Klinik</li>
-</ul>
-<p>Evidenzbasiert aufbereitet, mit klarer Abgrenzung: Bildung und Information, kein Heilversprechen, keine medizinische Beratung. Rechtssicher formulierte Verkaufsseite und Werbematerialien.</p>
-<p>Warum sich die Promotion lohnt:</p>
-<ul>
-<li>Die Zielgruppe ist hochmotiviert und gibt in dieser Lebensphase bereits dreistellige Beträge für Tests und Supplements aus. Preis 199 € (Einführungspreis, später 249 €),</li>
-<li>Ratenzahlung ab 49,99 €</li>
-<li>30 Tage Geld-zurück-Garantie für niedrige Kaufhürde.</li>
-<li>Conversion-optimierte Verkaufsseite mit Video</li>
-<li>Kostenfreier Lead-Magnet (PDF "7 Ursachen die kaum jemand testet") als Einstieg für deine Liste.</li>
-</ul>
-<p>Passend für:</p>
-<p>Affiliates und Creator in den Bereichen Frauengesundheit, Mama, Schwangerschaft, Zyklus, ganzheitliche Gesundheit, Ernährung. Email-Listen mit weiblicher Zielgruppe 28 bis 42.</p>
-<p>Werbematerial (Email-Vorlagen, Grafiken, Textbausteine) auf Anfrage. Kontakt: affiliate@carolina-stephan.de</p>
+**Vendor's marketplace description:** Der Kinderwunsch Kurs von Carolina Stephan (@travelmom89, 46.000+ Follower auf TikTok und Instagram) richtet sich an Frauen, die beim Kinderwunsch nicht weiterkommen oder nach einer Fehlgeburt Antworten suchen, bevor sie in die Kinderwunschklinik gehen. 6 Module, 36 Lektionen: Blutwerte verstehen (Normbereich vs. optimal für Kinderwunsch) Zyklus lesen Supplements nach Studienlage Lebensstil Männliche Fruchtbarkeit Der richtige Zeitpunkt für die Klinik Evidenzbasiert aufbereitet, mit klarer Abgrenzung: Bildung und Information, kein Heilversprechen, keine medizinische Beratung. Rechtssicher formulierte Verkaufsseite und Werbematerialien. Warum sich die Promotion lohnt: Die Zielgruppe ist hochmotiviert und gibt in dieser Lebensphase bereits dreistellige Beträge für Tests und Supplements aus. Preis 199 € (Einführungspreis, später 249 €), Ratenzahlung ab 49,99 € 30 Tage Geld-zurück-Garantie für niedrige Kaufhürde. Conversion-optimierte Verkaufsseite mit Video Kostenfreier Lead-Magnet (PDF "7 Ursachen die kaum jemand testet") als Einstieg für deine Liste. Passend für: Affiliates und Creator in den Bereichen Frauengesundheit, Mama, Schwangerschaft, Zyklus, ganzheitliche Gesundheit, Ernährung. Email-Listen mit weiblicher Zielgruppe 28 bis 42. Werbematerial (Email-Vorlagen, Grafiken, Textbausteine) auf Anfrage. Kontakt: affiliate@carolina-stephan.de
 
 ## 2. Links
 

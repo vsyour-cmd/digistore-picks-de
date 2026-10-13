@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Stadtwerke &amp; Wasser KRITIS Compliance-Kit 2026/2027 – 100 Master-Prompts für NIS2, EU AI Act, OT &amp; KI-Governance</strong></p>
-<p>Dieses digitale Produkt enthält <strong>100 direkt nutzbare Master-Prompts im PDF-Format</strong> speziell für Stadtwerke, Wasser- und Abwasserbetriebe, Energieversorger, Netzbetreiber sowie weitere KRITIS-Unternehmen.</p>
-<p>Die Prompts unterstützen bei der strukturierten Bearbeitung typischer Aufgaben rund um <strong>NIS2, EU AI Act, OT/ICS, KI-Governance, Incident Management und revisionssichere Dokumentation</strong>.</p>
-<p><strong>Geeignet für:</strong></p>
-<ul>
-<li>Stadtwerke und kommunale Versorgungsunternehmen</li>
-<li>Wasser- und Abwasserbetriebe</li>
-<li>Energieversorger und Netzbetreiber</li>
-<li>KRITIS-Unternehmen</li>
-<li>CISO- und IT-Security-Verantwortliche</li>
-<li>OT-/ICS-Verantwortliche und technische Leiter</li>
-<li>Compliance- und Datenschutzteams</li>
-</ul>
-<p><strong>Themenschwerpunkte:</strong></p>
-<ul>
-<li>EU AI Act Einstufung und Lieferanten-Compliance</li>
-<li>NIS2 und KI-Governance</li>
-<li>Human Oversight und Verantwortlichkeiten</li>
-<li>OT-/ICS-Dokumentation und KI-Logbücher</li>
-<li>Risikoanalysen und Risikoregister</li>
-<li>Incident Management und Eskalationsprozesse</li>
-<li>Notfall- und Business-Continuity-Prozesse</li>
-<li>Audit-Vorbereitung, SOPs und revisionssichere Dokumentation</li>
-</ul>
-<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales PDF mit 100 Master-Prompts und Arbeitshilfen</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
-<p>Ein spezialisiertes B2B-Produkt für Versorger und KRITIS-Unternehmen mit hohem Bedarf an strukturierter Sicherheits-, Governance- und Compliance-Dokumentation.</p>
+**Vendor's marketplace description:** Stadtwerke & Wasser KRITIS Compliance-Kit 2026/2027 – 100 Master-Prompts für NIS2, EU AI Act, OT & KI-Governance Dieses digitale Produkt enthält 100 direkt nutzbare Master-Prompts im PDF-Format speziell für Stadtwerke, Wasser- und Abwasserbetriebe, Energieversorger, Netzbetreiber sowie weitere KRITIS-Unternehmen. Die Prompts unterstützen bei der strukturierten Bearbeitung typischer Aufgaben rund um NIS2, EU AI Act, OT/ICS, KI-Governance, Incident Management und revisionssichere Dokumentation . Geeignet für: Stadtwerke und kommunale Versorgungsunternehmen Wasser- und Abwasserbetriebe Energieversorger und Netzbetreiber KRITIS-Unternehmen CISO- und IT-Security-Verantwortliche OT-/ICS-Verantwortliche und technische Leiter Compliance- und Datenschutzteams Themenschwerpunkte: EU AI Act Einstufung und Lieferanten-Compliance NIS2 und KI-Governance Human Oversight und Verantwortlichkeiten OT-/ICS-Dokumentation und KI-Logbücher Risikoanalysen und Risikoregister Incident Management und Eskalationsprozesse Notfall- und Business-Continuity-Prozesse Audit-Vorbereitung, SOPs und revisionssichere Dokumentation Wichtig: Es handelt sich ausdrücklich um ein digitales PDF mit 100 Master-Prompts und Arbeitshilfen und nicht um Software, einen Videokurs oder einen Mitgliederbereich. Ein spezialisiertes B2B-Produkt für Versorger und KRITIS-Unternehmen mit hohem Bedarf an strukturierter Sicherheits-, Governance- und Compliance-Dokumentation.
 
 ## 2. Links
 

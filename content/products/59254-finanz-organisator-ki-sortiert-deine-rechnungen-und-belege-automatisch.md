@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Rechnungen, Belege, Verträge und Kontoauszüge einfach hochladen – eine KI liest sie aus, sortiert sie nach Kategorie, erkennt Doppelzahlungen und laufende Abos und baut eine To-do-Liste mit Fälligkeiten.</p>
-<p>Dazu ein Monats-Dashboard der Ausgaben und ein Schulden-Modul mit Tilgungs-Strategie und Musterbrief für Gläubiger.</p>
-<p>Zielgruppe: Privatpersonen und Selbständige, die den Überblick über ihre laufenden Finanzen behalten wollen, ohne Buchhaltungs-Vorwissen.</p>
-<p>Monatsabo CHF 19, monatlich kündbar. Digitales Produkt, sofortiger Online-Zugang nach Kauf per E-Mail.</p>
+**Vendor's marketplace description:** Rechnungen, Belege, Verträge und Kontoauszüge einfach hochladen – eine KI liest sie aus, sortiert sie nach Kategorie, erkennt Doppelzahlungen und laufende Abos und baut eine To-do-Liste mit Fälligkeiten. Dazu ein Monats-Dashboard der Ausgaben und ein Schulden-Modul mit Tilgungs-Strategie und Musterbrief für Gläubiger. Zielgruppe: Privatpersonen und Selbständige, die den Überblick über ihre laufenden Finanzen behalten wollen, ohne Buchhaltungs-Vorwissen. Monatsabo CHF 19, monatlich kündbar. Digitales Produkt, sofortiger Online-Zugang nach Kauf per E-Mail.
 
 ## 2. Links
 

@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong><em>Bewerbe den Bestseller Kurs: Pinterest Cash - Master Class</em></strong></div>
-<div> </div>
-<div>
-<p><span style="background-color:#ffff00;"><strong><em>Deine Community bekommt:</em></strong></span></p>
-<p><strong><em>✅  Über 500 editierbare Pinvorlagen für Canva – die Geheimwaffe für atemberaubende Pins</em></strong></p>
-<p> </p>
-<p><strong><em>✅ 68 erstklassige Blogbeiträge, fertig für deren Website oder deren Blog</em></strong></p>
-<p> </p>
-<p><strong><em>✅ Eine revolutionäre KI-Strategie, um automatisch Pins zu erstellen und zu posten</em></strong></p>
-<p> </p>
-<p><strong><em>✅  </em>Als Bonus gibt es den Zugang zu unserem Mitgliederbereich und dadurch noch mehr hocherwertigen Content (auch kostenfreier Content)...</strong></p>
-</div>
+**Vendor's marketplace description:** Bewerbe den Bestseller Kurs: Pinterest Cash - Master Class Deine Community bekommt: ✅ Über 500 editierbare Pinvorlagen für Canva – die Geheimwaffe für atemberaubende Pins ✅ 68 erstklassige Blogbeiträge, fertig für deren Website oder deren Blog ✅ Eine revolutionäre KI-Strategie, um automatisch Pins zu erstellen und zu posten ✅ Als Bonus gibt es den Zugang zu unserem Mitgliederbereich und dadurch noch mehr hocherwertigen Content (auch kostenfreier Content)...
 
 ## 2. Links
 

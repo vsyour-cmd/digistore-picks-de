@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;">Pubertät ohne Dauerstreit ist ein praxisnahes E-Book für Eltern von Teenagern, das 60 typische Konfliktsituationen greifbar macht und konkrete Lösungen anbietet. Statt grauer Theorie bekommen Eltern klare Erklärungen, praxiserprobte Handlungsvorschläge und Formulierungsbeispiele, die im Alltag sofort anwendbar sind. Das digitale E-Book mit 98 Seiten richtet sich besonders an Eltern, die weniger Machtkämpfe und mehr Verbindung in der Pubertät erreichen möchten. Nach dem Kauf erfolgt der Download als PDF-Datei; kein gedrucktes Buch.</p>
+**Vendor's marketplace description:** Pubertät ohne Dauerstreit ist ein praxisnahes E-Book für Eltern von Teenagern, das 60 typische Konfliktsituationen greifbar macht und konkrete Lösungen anbietet. Statt grauer Theorie bekommen Eltern klare Erklärungen, praxiserprobte Handlungsvorschläge und Formulierungsbeispiele, die im Alltag sofort anwendbar sind. Das digitale E-Book mit 98 Seiten richtet sich besonders an Eltern, die weniger Machtkämpfe und mehr Verbindung in der Pubertät erreichen möchten. Nach dem Kauf erfolgt der Download als PDF-Datei; kein gedrucktes Buch.
 
 ## 2. Links
 

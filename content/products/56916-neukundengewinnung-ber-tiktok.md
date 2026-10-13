@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie Unternehmen mit kurzen Videos planbar Leads, Anfragen und Neukunden gewinnen</strong></p>
-<p>TikTok ist längst kein Jugend-Spielplatz mehr – die Plattform ist eine der günstigsten Möglichkeiten, um heute organisch Tausende potenzielle Kunden zu erreichen. Dieses E-Book zeigt dir, wie du als Unternehmen oder Selbstständiger kurze Videos gezielt zur Neukundengewinnung einsetzt: mit Inhalten, die deine Zielgruppe stoppen, einem Bio-Link-Funnel, der Zuschauer in Leads verwandelt, und Serienformaten, die deine Marke verlässlich wachsen lassen. Du lernst, wie du Gen-Z und Millennials gleichermaßen erreichst, welche Hook-Typen für lokale und B2B-Anbieter funktionieren und wie du den ROI deiner organischen TikTok-Arbeit konkret messbar machst. Inklusive fertiger Vorlagen für Skripte, Funnel und Reporting.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>TikTok-Funnel aufbauen: vom ersten View zur Kundenanfrage</li>
-<li>Hook-Typen, die für Unternehmen und Dienstleister funktionieren</li>
-<li>Bio-Link, Lead-Magnet und Landingpage aufeinander abstimmen</li>
-<li>Serienformate, die deine Marke bekannt und vertrauenswürdig machen</li>
-<li>Gen-Z und Millennials als Zielgruppe richtig ansprechen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie Unternehmen mit kurzen Videos planbar Leads, Anfragen und Neukunden gewinnen TikTok ist längst kein Jugend-Spielplatz mehr – die Plattform ist eine der günstigsten Möglichkeiten, um heute organisch Tausende potenzielle Kunden zu erreichen. Dieses E-Book zeigt dir, wie du als Unternehmen oder Selbstständiger kurze Videos gezielt zur Neukundengewinnung einsetzt: mit Inhalten, die deine Zielgruppe stoppen, einem Bio-Link-Funnel, der Zuschauer in Leads verwandelt, und Serienformaten, die deine Marke verlässlich wachsen lassen. Du lernst, wie du Gen-Z und Millennials gleichermaßen erreichst, welche Hook-Typen für lokale und B2B-Anbieter funktionieren und wie du den ROI deiner organischen TikTok-Arbeit konkret messbar machst. Inklusive fertiger Vorlagen für Skripte, Funnel und Reporting. Das steckt drin: TikTok-Funnel aufbauen: vom ersten View zur Kundenanfrage Hook-Typen, die für Unternehmen und Dienstleister funktionieren Bio-Link, Lead-Magnet und Landingpage aufeinander abstimmen Serienformate, die deine Marke bekannt und vertrauenswürdig machen Gen-Z und Millennials als Zielgruppe richtig ansprechen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

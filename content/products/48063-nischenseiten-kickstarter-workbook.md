@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Umfassendes E-Book zum Thema Nischenseiten</p>
-<p><br /><strong>248 Seiten stark.</strong></p>
-<p> </p>
-<h4>Vorteile für dich als Affiliate</h4>
-<ul>
-<li>Hohe Conversion durch optimierte Landingpages</li>
-<li>Zuverlässiges Tracking &amp; 180 Tage Cookielaufzeit</li>
-<li>Keine Stornierungen</li>
-</ul>
-<p> </p>
-<p>Pro vermittelten Verkauf bekommst du <strong>30 % Provision</strong></p>
-<p>Ebenso bekommst du <strong>auf alle geplanten Upsells 20 % Provision</strong>! </p>
-<p><a href="https://campus.affiliateschool.de/partnerprogramm/partnerprogramm-nischenseiten-kickstarter-workbook/" target="_blank" rel="noreferrer noopener"><strong>&gt;&gt; Alle Hinweise zum Partnerprogramm &lt;&lt;</strong></a></p>
+**Vendor's marketplace description:** Umfassendes E-Book zum Thema Nischenseiten 248 Seiten stark. Vorteile für dich als Affiliate Hohe Conversion durch optimierte Landingpages Zuverlässiges Tracking & 180 Tage Cookielaufzeit Keine Stornierungen Pro vermittelten Verkauf bekommst du 30 % Provision Ebenso bekommst du auf alle geplanten Upsells 20 % Provision ! >> Alle Hinweise zum Partnerprogramm <<
 
 ## 2. Links
 

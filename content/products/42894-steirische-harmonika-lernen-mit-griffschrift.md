@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hier können sie die Steirische Harmonika mit Griffschrift in Video Kursen Lernen!</p>
+**Vendor's marketplace description:** Hier können sie die Steirische Harmonika mit Griffschrift in Video Kursen Lernen!
 
 ## 2. Links
 

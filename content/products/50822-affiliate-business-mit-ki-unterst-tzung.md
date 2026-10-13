@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Starte jetzt mit unserem KI-Guide für Quereinsteiger und verdiene 50 % Provision auf jedes verkaufte Produkt – inklusive Upsells!</strong></p>
-<p><strong>Was macht diesen Funnel so besonders?</strong></p>
-<ul>
-<li><strong>Perfekt für Anfänger:</strong> Keine Vorkenntnisse nötig – alles wird Schritt für Schritt erklärt.</li>
-<li><strong>Hohe Conversion-Raten:</strong> Durch getestete Verkaufsseiten und bewährte Strategien.</li>
-<li><strong>KI-Tools inklusive:</strong> Automatisierte Content-Erstellung und Marketingprozesse.</li>
-<li><strong>Provisionen auf alle Verkäufe:</strong> Auch auf Upsells und Folgeprodukte – maximaler Verdienst!</li>
-</ul>
-<p><strong>Das erwartet deine Kunden:</strong><br />✅ Ein digitaler KI-Guide mit praktischen Vorlagen und Anleitungen. <br />✅ Sofort anwendbare Strategien für Affiliate-Marketing. <br />✅ Ein bewährtes Funnel-System für maximale Gewinne.</p>
-<p><a><strong>https://reneaktivnetzmarketing.funnelcockpit.com/handwerk-trifft-ki/#aff=AFFILIATE&amp;cam=CAMPAIGNKEY</strong></a></p>
+**Vendor's marketplace description:** Starte jetzt mit unserem KI-Guide für Quereinsteiger und verdiene 50 % Provision auf jedes verkaufte Produkt – inklusive Upsells! Was macht diesen Funnel so besonders? Perfekt für Anfänger: Keine Vorkenntnisse nötig – alles wird Schritt für Schritt erklärt. Hohe Conversion-Raten: Durch getestete Verkaufsseiten und bewährte Strategien. KI-Tools inklusive: Automatisierte Content-Erstellung und Marketingprozesse. Provisionen auf alle Verkäufe: Auch auf Upsells und Folgeprodukte – maximaler Verdienst! Das erwartet deine Kunden: ✅ Ein digitaler KI-Guide mit praktischen Vorlagen und Anleitungen. ✅ Sofort anwendbare Strategien für Affiliate-Marketing. ✅ Ein bewährtes Funnel-System für maximale Gewinne. https://reneaktivnetzmarketing.funnelcockpit.com/handwerk-trifft-ki/#aff=AFFILIATE&cam=CAMPAIGNKEY
 
 ## 2. Links
 

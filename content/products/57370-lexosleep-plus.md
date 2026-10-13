@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Neurolinguistisches Sprachförderprogramm, welches durch ausgewählten Input, in der Nacht abspielbar, den Sprachrhythmus im Schlaf fördert: zur Unterstützung des prototypischen deutschen Wortes, Mehrzahlbildung, Wortzusammensetzung und Mehrsilber, die Voraussetzung für den Satzbau und die Grammatik sind.</p>
+**Vendor's marketplace description:** Neurolinguistisches Sprachförderprogramm, welches durch ausgewählten Input, in der Nacht abspielbar, den Sprachrhythmus im Schlaf fördert: zur Unterstützung des prototypischen deutschen Wortes, Mehrzahlbildung, Wortzusammensetzung und Mehrsilber, die Voraussetzung für den Satzbau und die Grammatik sind.
 
 ## 2. Links
 

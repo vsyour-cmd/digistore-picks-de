@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der einzige eBay-Gebührenrechner der gewerbliche Händler <br />wirklich vollständig kalkuliert.</p>
-<p>✓ Brutto/Netto mit MwSt.-Vorsteuer<br />✓ Alle 4 Versanddienstleister (DHL, Hermes, DPD, GLS)<br />✓ Wunschmarge, Mehrfach-Kalkulation, Plattformvergleich<br />✓ Läuft offline im Browser – kein Login, kein Abo</p>
-<p>Zielgruppe: Gewerbliche eBay-Händler in Deutschland</p>
-<p>Warum bewerben:<br />→ 30% Provision = 11,70 € pro Verkauf<br />→ Einmalkauf = hohe Conversion, keine Stornos<br />→ Aktiv gesuchtes Thema: "eBay Gebühren berechnen 2026"<br />→ Cookie-Laufzeit 180 Tage</p>
-<p>Support: info@lunukin.de</p>
+**Vendor's marketplace description:** Der einzige eBay-Gebührenrechner der gewerbliche Händler wirklich vollständig kalkuliert. ✓ Brutto/Netto mit MwSt.-Vorsteuer ✓ Alle 4 Versanddienstleister (DHL, Hermes, DPD, GLS) ✓ Wunschmarge, Mehrfach-Kalkulation, Plattformvergleich ✓ Läuft offline im Browser – kein Login, kein Abo Zielgruppe: Gewerbliche eBay-Händler in Deutschland Warum bewerben: → 30% Provision = 11,70 € pro Verkauf → Einmalkauf = hohe Conversion, keine Stornos → Aktiv gesuchtes Thema: "eBay Gebühren berechnen 2026" → Cookie-Laufzeit 180 Tage Support: info@lunukin.de
 
 ## 2. Links
 

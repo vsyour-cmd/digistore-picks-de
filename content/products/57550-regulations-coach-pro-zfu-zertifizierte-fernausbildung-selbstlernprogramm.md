@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Selbstlernprogramm zum Regulations Coach – ganzheitliches Coaching-Wissen zur persönlichen Weiterentwicklung, im eigenen Tempo lernen.</p>
-<p><strong>Leistungsumfang:</strong></p>
-<ul>
-<li>Digitale Inhalte (Video &amp; PDF): 24/7-Zugriff auf strukturierte Impulse zur Selbstreflexion, energetischen Balance und bewussten Lebensgestaltung, ergänzt durch Live-Calls und Workshops.</li>
-<li>Selbstlernstruktur mit praxisnahen Übungen zur Anwendung im Alltag und Entwicklung einer individuellen Coaching-Haltung.</li>
-<li>Downloadbare Materialien: alle Handouts, Arbeitsblätter und Anleitungen als PDF.</li>
-<li>ZFU-Zulassung: nach dem Fernunterrichtsschutzgesetz (FernUSG) zugelassen (Zulassungsnummer 75758-26). Abschluss über 7 Prüfungen mit Regulations-Coach-Zertifikat.</li>
-</ul>
-<p><strong>8 Impuls-Module (Video &amp; PDF):</strong> Stress &amp; Energie, Reizverarbeitung, Körperwahrnehmung, Mentaltechniken, Alltagsgestaltung, Beziehung &amp; Kommunikation, Werte &amp; Lebensführung, Methodenkoffer.</p>
-<p><strong>Zielgruppe:</strong> Menschen, die sich selbst besser verstehen und stärken wollen, sowie Coaches &amp; Berater:innen, die neue Impulse für ihre persönliche Weiterentwicklung suchen.</p>
-<p>Premium-Ausbildung mit hohem Warenkorbwert und attraktiver Affiliate-Festprovision – ideal für Zielgruppen aus Persönlichkeitsentwicklung, Coaching und ganzheitlicher Gesundheit.</p>
-<p><em>Hinweis: Keine therapeutische oder medizinische Maßnahme; ersetzt keine ärztliche oder psychologische Beratung.</em></p>
+**Vendor's marketplace description:** Selbstlernprogramm zum Regulations Coach – ganzheitliches Coaching-Wissen zur persönlichen Weiterentwicklung, im eigenen Tempo lernen. Leistungsumfang: Digitale Inhalte (Video & PDF): 24/7-Zugriff auf strukturierte Impulse zur Selbstreflexion, energetischen Balance und bewussten Lebensgestaltung, ergänzt durch Live-Calls und Workshops. Selbstlernstruktur mit praxisnahen Übungen zur Anwendung im Alltag und Entwicklung einer individuellen Coaching-Haltung. Downloadbare Materialien: alle Handouts, Arbeitsblätter und Anleitungen als PDF. ZFU-Zulassung: nach dem Fernunterrichtsschutzgesetz (FernUSG) zugelassen (Zulassungsnummer 75758-26). Abschluss über 7 Prüfungen mit Regulations-Coach-Zertifikat. 8 Impuls-Module (Video & PDF): Stress & Energie, Reizverarbeitung, Körperwahrnehmung, Mentaltechniken, Alltagsgestaltung, Beziehung & Kommunikation, Werte & Lebensführung, Methodenkoffer. Zielgruppe: Menschen, die sich selbst besser verstehen und stärken wollen, sowie Coaches & Berater:innen, die neue Impulse für ihre persönliche Weiterentwicklung suchen. Premium-Ausbildung mit hohem Warenkorbwert und attraktiver Affiliate-Festprovision – ideal für Zielgruppen aus Persönlichkeitsentwicklung, Coaching und ganzheitlicher Gesundheit. Hinweis: Keine therapeutische oder medizinische Maßnahme; ersetzt keine ärztliche oder psychologische Beratung.
 
 ## 2. Links
 

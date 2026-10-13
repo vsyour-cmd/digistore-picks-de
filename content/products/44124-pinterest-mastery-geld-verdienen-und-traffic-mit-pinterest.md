@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Die geheime Strategien, wie du mit Pinterest Traffic generierst und Geld verdienst!<br /></strong></h2>
-<p><strong>Für alle Affiliates eine klasse Chance.</strong> Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann <strong>30 - 50% Provision</strong> gibt.</p>
-<p><strong>Insgesamt können damit über 400 Euro an Provision verdient werden.</strong></p>
-<p>Im Programm ist folgendes enthalten:</p>
-<ul>
-<li>... wie du ein <strong>professionelle Pinterest Kanal</strong> aufbaust.</li>
-<li>... wie du <strong>Besucher und Leads ohne Ende</strong> dank Pinterest gewinnst und das ohne Marketingkosten.</li>
-<li>... wie du dein Pinterest Profil so aufbaust, dass <strong>er für dich neue Kunden gewinnt</strong>.<strong><br /></strong></li>
-<li>... wie du Pins erstellst, die deine Interessenten zum <strong>Klicken, Schauen und Eintragen animieren</strong>.</li>
-<li>... wie du <strong>klickstarke CTAs und Pins </strong>erstellst, inkl. Beispielen und Vorlagen.</li>
-<li>... wie du <strong>die künstliche Intelligenz zu deinen Vorteilen</strong> nutzt!</li>
-<li>... wie du in weniger Zeit mehr schaffst.</li>
-<li>... <strong>inkl. aller Templates und Vorlagen</strong>, zum Sofortnachmachen!</li>
-<li>... eine glasklare Schritt-für-Schritt-Anleitung, als ob wir neben dir sitzen und dir Schritt-für-Schritt sagen, was du wann machen und wo klicken solltest.</li>
-<li>... und einiges mehr</li>
-</ul>
-<p><strong>Eines der unterschätzten Plattformen überhaupt zu deinem unfairen Vorteil nutzen.<br /></strong></p>
+**Vendor's marketplace description:** Die geheime Strategien, wie du mit Pinterest Traffic generierst und Geld verdienst! Für alle Affiliates eine klasse Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Insgesamt können damit über 400 Euro an Provision verdient werden. Im Programm ist folgendes enthalten: ... wie du ein professionelle Pinterest Kanal aufbaust. ... wie du Besucher und Leads ohne Ende dank Pinterest gewinnst und das ohne Marketingkosten. ... wie du dein Pinterest Profil so aufbaust, dass er für dich neue Kunden gewinnt . ... wie du Pins erstellst, die deine Interessenten zum Klicken, Schauen und Eintragen animieren . ... wie du klickstarke CTAs und Pins erstellst, inkl. Beispielen und Vorlagen. ... wie du die künstliche Intelligenz zu deinen Vorteilen nutzt! ... wie du in weniger Zeit mehr schaffst. ... inkl. aller Templates und Vorlagen , zum Sofortnachmachen! ... eine glasklare Schritt-für-Schritt-Anleitung, als ob wir neben dir sitzen und dir Schritt-für-Schritt sagen, was du wann machen und wo klicken solltest. ... und einiges mehr Eines der unterschätzten Plattformen überhaupt zu deinem unfairen Vorteil nutzen.
 
 ## 2. Links
 

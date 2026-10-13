@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Kongresspaket zum Frei Leben Kongress 2.</p>
+**Vendor's marketplace description:** Das Kongresspaket zum Frei Leben Kongress 2.
 
 ## 2. Links
 

@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses kostenlose Playbook ist der ideale Einstieg in das Thema Social-Media-Systeme. Es erklärt verständlich, warum Reichweite kein Zufall ist, welche Denkfehler die meisten machen und wie strukturierter Content aufgebaut wird – ohne Tools-Overload oder leere Versprechen.</p>
-<p>Das Playbook dient als <strong>Lead-Magnet</strong> und Vorqualifizierung. Leser erhalten Orientierung, Vertrauen und ein klares Verständnis für das SPS-Prinzip. Anschließend werden sie logisch an die weiterführenden Programme (Entry, Mid, Master, All-In, VIP) herangeführt.</p>
-<p><span style="background-color:#ffff00;">Ideal für:</span></p>
-<ul>
-<li>
-<p><span style="background-color:#ffff00;">kalte Zielgruppen</span></p>
-</li>
-<li>
-<p><span style="background-color:#ffff00;">Social-Media-Traffic</span></p>
-</li>
-<li>
-<p><span style="background-color:#ffff00;">Content-Creator &amp; Themenseiten</span></p>
-</li>
-<li>
-<p><span style="background-color:#ffff00;">nachhaltigen Funnel-Aufbau</span></p>
-</li>
-</ul>
-<p><span style="background-color:#ffff00;">Kein Verkauf, kein Druck – sondern Mehrwert als Einstieg.</span></p>
+**Vendor's marketplace description:** Dieses kostenlose Playbook ist der ideale Einstieg in das Thema Social-Media-Systeme. Es erklärt verständlich, warum Reichweite kein Zufall ist, welche Denkfehler die meisten machen und wie strukturierter Content aufgebaut wird – ohne Tools-Overload oder leere Versprechen. Das Playbook dient als Lead-Magnet und Vorqualifizierung. Leser erhalten Orientierung, Vertrauen und ein klares Verständnis für das SPS-Prinzip. Anschließend werden sie logisch an die weiterführenden Programme (Entry, Mid, Master, All-In, VIP) herangeführt. Ideal für: kalte Zielgruppen Social-Media-Traffic Content-Creator & Themenseiten nachhaltigen Funnel-Aufbau Kein Verkauf, kein Druck – sondern Mehrwert als Einstieg.
 
 ## 2. Links
 

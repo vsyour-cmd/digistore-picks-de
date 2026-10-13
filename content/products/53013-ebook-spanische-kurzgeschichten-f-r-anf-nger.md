@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Lerne strukturiert und nachhaltig Spanisch mit unserem eBook und insgesamt 9 spanischen Kurzgeschichten, die als MP3-Audio-Dateien in dem eBook enthalten sind. Die Kurzgeschichten bestehen aus einfachen spanischen Sätzen und sind daher ideal geeignet deine ersten Spanisch-Kenntnisse zu festigen und zu erweitern. </p>
+**Vendor's marketplace description:** Lerne strukturiert und nachhaltig Spanisch mit unserem eBook und insgesamt 9 spanischen Kurzgeschichten, die als MP3-Audio-Dateien in dem eBook enthalten sind. Die Kurzgeschichten bestehen aus einfachen spanischen Sätzen und sind daher ideal geeignet deine ersten Spanisch-Kenntnisse zu festigen und zu erweitern.
 
 ## 2. Links
 

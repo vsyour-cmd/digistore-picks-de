@@ -41,46 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><span style="color:#800080;"><strong><big>DER 2in1 GOLD-REPORT</big></strong></span></p>
-<div>2 tolle Informationen in 1 Ebook:<br />
-<ol>
-<li>Die Lieferquelle, wo Sie gratis 1 Gramm reines Gold und/oder 1 Feinunze echtes Silber geschenkt bekommen.</li>
-<li>Der goldrichtige Vermögensschutz für jeden in JEDER Krise mit der besten Währung der Welt.</li>
-</ol>
-<p>Erfahren Sie in diesem fantastischen Report,</p>
-<ul>
-<li>wie Sie mit physischen Gold jede Krise glänzend überstehen,</li>
-<li>welche weiteren Edelmetalle dazu auch geeignet sind,</li>
-<li>welche edlen Metalle Kurspotenzial haben,</li>
-<li>die besten Lieferquellen,</li>
-<li>die seriösesten Händler,</li>
-<li>die besten Lagerplätze,</li>
-<li>die besten Verstecke,</li>
-<li>welche Fehler Sie vermeiden müssen,</li>
-<li>wie Sie die besten Preise bekommen,</li>
-<li>den Durchschnittskosten-Trick,</li>
-<li>den Differenzbesteuerungs-Trick</li>
-<li>wie Sie Edelmetalle anonym kaufen,</li>
-<li>die Vor- und Nachteile von Papiergold,</li>
-<li>wie Sie jede Inflation schlagen,</li>
-<li>wie Sie legal die Abgeltungssteuer umgehen,</li>
-<li>wie Sie legal die Mehrwertsteuer austricksen,</li>
-<li>wo Sie eine goldgedeckte Kreditkarte bekommen</li>
-<li>wie Sie sich eine goldene Nase verdienen,</li>
-<li>und vieles andere mehr.</li>
-</ul>
-<p> </p>
-<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
-<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
-<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<strong>J<span style="color:#cc99ff;">eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</span></strong>“.</p>
-<p>2 einfache Schritte:</p>
-<ol>
-<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html </a></span>(dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge")</li>
-<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
-</ol>
-<br />
-<p><em><strong> </strong></em></p>
-</div>
+**Vendor's marketplace description:** DER 2in1 GOLD-REPORT 2 tolle Informationen in 1 Ebook: Die Lieferquelle, wo Sie gratis 1 Gramm reines Gold und/oder 1 Feinunze echtes Silber geschenkt bekommen. Der goldrichtige Vermögensschutz für jeden in JEDER Krise mit der besten Währung der Welt. Erfahren Sie in diesem fantastischen Report, wie Sie mit physischen Gold jede Krise glänzend überstehen, welche weiteren Edelmetalle dazu auch geeignet sind, welche edlen Metalle Kurspotenzial haben, die besten Lieferquellen, die seriösesten Händler, die besten Lagerplätze, die besten Verstecke, welche Fehler Sie vermeiden müssen, wie Sie die besten Preise bekommen, den Durchschnittskosten-Trick, den Differenzbesteuerungs-Trick wie Sie Edelmetalle anonym kaufen, die Vor- und Nachteile von Papiergold, wie Sie jede Inflation schlagen, wie Sie legal die Abgeltungssteuer umgehen, wie Sie legal die Mehrwertsteuer austricksen, wo Sie eine goldgedeckte Kreditkarte bekommen wie Sie sich eine goldene Nase verdienen, und vieles andere mehr. Möchten Sie ein Ansichtsexemplar? Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz. Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „ J eden T ag R ei*cher “. 2 einfache Schritte: JTR gratis bestellen auf https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge") Email mit Ihrem Ebook-Wunsch an service@big-benn-books.com
 
 ## 2. Links
 

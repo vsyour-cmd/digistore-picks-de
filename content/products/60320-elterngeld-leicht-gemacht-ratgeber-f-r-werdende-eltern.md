@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Elterngeld leicht gemacht – Ratgeber für werdende Eltern</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Beim Elterngeld verschenken viele Familien Geld, weil die Regeln kompliziert sind. Der Ratgeber erklärt Basiselterngeld, ElterngeldPlus und Partnerschaftsbonus mit Beispielrechnungen und Musterbriefen.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Werdende Eltern</li>
-<li>Paare, die die Elternzeit aufteilen wollen</li>
-<li>Familien, die den Antrag sicher ausfüllen möchten</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Ein Baby ist unterwegs und der Antrag steht an</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Steuererklärung, Krankenkasse, Mietrecht) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Elterngeld leicht gemacht – Ratgeber für werdende Eltern Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Beim Elterngeld verschenken viele Familien Geld, weil die Regeln kompliziert sind. Der Ratgeber erklärt Basiselterngeld, ElterngeldPlus und Partnerschaftsbonus mit Beispielrechnungen und Musterbriefen. Die Zielgruppe Werdende Eltern Paare, die die Elternzeit aufteilen wollen Familien, die den Antrag sicher ausfüllen möchten Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Ein Baby ist unterwegs und der Antrag steht an Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Steuererklärung, Krankenkasse, Mietrecht) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

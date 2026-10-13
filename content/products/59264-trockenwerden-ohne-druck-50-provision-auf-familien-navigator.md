@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein ruhiger, alltagstauglicher Familien-Navigator für Eltern, die ihr Kind beim Trockenwerden ohne Druck begleiten möchten.</p>
-<p>Das digitale PDF verbindet einen 12-Fragen-Situationscheck mit einer flexiblen 14-Tage-Begleitung. Eltern erhalten konkrete Formulierungen, Routinen und Hilfen für Widerstand, Rückschritte, Kita, unterwegs sowie Tag und Nacht.</p>
-<p>• 44 Seiten als sofort verfügbarer PDF-Download<br />• Verkaufspreis: 19,90 € inkl. MwSt.<br />• 50 % Affiliate-Provision<br />• Klare Zielgruppe: Eltern von Kleinkindern<br />• Professionelle Verkaufsseite und automatische Auslieferung<br />• Kein Heil- oder Erfolgversprechen; medizinische Warnzeichen sind klar benannt</p>
-<p>Geeignet für familien-, erziehungs- und alltagsnahe Reichweiten. Affiliates werden automatisch akzeptiert.</p>
+**Vendor's marketplace description:** Ein ruhiger, alltagstauglicher Familien-Navigator für Eltern, die ihr Kind beim Trockenwerden ohne Druck begleiten möchten. Das digitale PDF verbindet einen 12-Fragen-Situationscheck mit einer flexiblen 14-Tage-Begleitung. Eltern erhalten konkrete Formulierungen, Routinen und Hilfen für Widerstand, Rückschritte, Kita, unterwegs sowie Tag und Nacht. • 44 Seiten als sofort verfügbarer PDF-Download • Verkaufspreis: 19,90 € inkl. MwSt. • 50 % Affiliate-Provision • Klare Zielgruppe: Eltern von Kleinkindern • Professionelle Verkaufsseite und automatische Auslieferung • Kein Heil- oder Erfolgversprechen; medizinische Warnzeichen sind klar benannt Geeignet für familien-, erziehungs- und alltagsnahe Reichweiten. Affiliates werden automatisch akzeptiert.
 
 ## 2. Links
 

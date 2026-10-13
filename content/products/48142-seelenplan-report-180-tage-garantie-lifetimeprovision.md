@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Laufend auf kalten Traffic optimierter Sales-Prozess</strong> ermöglicht hohe Conversionraten </p>
-<p><strong>In 5 Minuten kopiert und verschickt:</strong></p>
-<p>Wir haben eine große Vielfalt an Conversion-geprüften Text- und Bild- Vorlagen (klicke auf dan "Affiliate-Support-Seite" Link)</p>
-<p>Ideal für Listen mit spirituellem Interesse: Klick-zu-Kauf-Conversionraten liegt hierbei im Schnitt deutlich über 10%, aber laut unseren Messungen auch interessant für nicht-spirituell orientierten Listen!</p>
-<p><strong>Das Besondere: Wer lieben und leben „Lifetime-Provision“</strong></p>
-<p>Dies bezeichnet ein Provisionsmodell, bei dem du nicht nur für den ersten Kauf eines von dir vermittelten Leads vergütet wirst, sondern für alle zukünftigen Käufe, die dieser Lead über unseren Backend-Funnel tätigt.</p>
-<p><strong>Das Besondere - im Besonderen: Du verdienst auch bei Fremdprodukten mit!</strong></p>
-<p>Nur bei ME: Wir beitten Lifetime-Provision für dich auf ME Produkte,<strong> als auch beworbene Fremdprodukte</strong> die wir im Backend-Funnel bewerben.</p>
-<p>Wir erstellen bei unseren Werbe-Emails mit ActiveCampaign dynamische Werbe-Links, die deine digistore24-ID inne haben. Zur Info, wie wir dies tun lese hier weiter "<a href="https://help.digistore24.com/de/articles/1187-geraeteuebergreifende-affiliate-attribution-daten-in-autoresponder-uebertragen" target="_blank" rel="noreferrer noopener">Geräteübergreifende Affiliate-Attribution</a>" </p>
-<p>In anderen Worten: Wenn du einmal erfolgreich einen Kunden für uns gewonnen hast, wirst du für die gesamte Dauer der Kundenbeziehung finanziell entlohnt – für jedes Folgeprodukt im Funnel, das dein Lead über unseren Newsletter erwirbt. Mehr zu unserem Kodex unter <a href="https://start.me.jetzt/partnerprogramm/lifetimeprovision/" target="_blank" rel="noreferrer noopener">https://start.me.jetzt/partnerprogramm/lifetimeprovision/</a></p>
-<p> </p>
+**Vendor's marketplace description:** Laufend auf kalten Traffic optimierter Sales-Prozess ermöglicht hohe Conversionraten In 5 Minuten kopiert und verschickt: Wir haben eine große Vielfalt an Conversion-geprüften Text- und Bild- Vorlagen (klicke auf dan "Affiliate-Support-Seite" Link) Ideal für Listen mit spirituellem Interesse: Klick-zu-Kauf-Conversionraten liegt hierbei im Schnitt deutlich über 10%, aber laut unseren Messungen auch interessant für nicht-spirituell orientierten Listen! Das Besondere: Wer lieben und leben „Lifetime-Provision“ Dies bezeichnet ein Provisionsmodell, bei dem du nicht nur für den ersten Kauf eines von dir vermittelten Leads vergütet wirst, sondern für alle zukünftigen Käufe, die dieser Lead über unseren Backend-Funnel tätigt. Das Besondere - im Besonderen: Du verdienst auch bei Fremdprodukten mit! Nur bei ME: Wir beitten Lifetime-Provision für dich auf ME Produkte, als auch beworbene Fremdprodukte die wir im Backend-Funnel bewerben. Wir erstellen bei unseren Werbe-Emails mit ActiveCampaign dynamische Werbe-Links, die deine digistore24-ID inne haben. Zur Info, wie wir dies tun lese hier weiter " Geräteübergreifende Affiliate-Attribution " In anderen Worten: Wenn du einmal erfolgreich einen Kunden für uns gewonnen hast, wirst du für die gesamte Dauer der Kundenbeziehung finanziell entlohnt – für jedes Folgeprodukt im Funnel, das dein Lead über unseren Newsletter erwirbt. Mehr zu unserem Kodex unter https://start.me.jetzt/partnerprogramm/lifetimeprovision/
 
 ## 2. Links
 

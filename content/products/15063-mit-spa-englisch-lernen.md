@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><strong>Premium Account für die Webseite:</strong></h1>
-<p><a title="Englisch Nachhilfe Pforzheim - Übungen" href="https://englisch-nachhilfe-pforzheim.de/" target="_blank" rel="noreferrer noopener">Englisch-Nachhilfe-Pforzheim</a></p>
-<ul><li>Zugriff auf <strong>über 100 extra </strong>Online-Übungen, Texte, Diktate, Multiple Choice Aufgaben und Übersetzungsübungen.</li>
-<li>Über 100 DIN A4 Seiten Bonusmaterial zum Ausdrucken <strong>gratis</strong></li>
-</ul><p> </p>
+**Vendor's marketplace description:** Premium Account für die Webseite: Englisch-Nachhilfe-Pforzheim Zugriff auf über 100 extra Online-Übungen, Texte, Diktate, Multiple Choice Aufgaben und Übersetzungsübungen. Über 100 DIN A4 Seiten Bonusmaterial zum Ausdrucken gratis
 
 ## 2. Links
 

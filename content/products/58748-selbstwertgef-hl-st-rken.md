@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>„Selbstwertgefühl stärken“ ist ein praxisnahes PDF-E-Book für Menschen, die häufig an sich zweifeln, sich mit anderen vergleichen oder den eigenen Wert zu wenig wahrnehmen.</p>
-<p>Der Ratgeber vermittelt verständliche Impulse, praktische Übungen und alltagstaugliche Möglichkeiten, um negative Selbstbewertungen zu erkennen, die eigenen Stärken bewusster wahrzunehmen und einen wertschätzenden Umgang mit sich selbst zu entwickeln.</p>
-<p>Das E-Book unterstützt dabei, mehr Selbstvertrauen und innere Sicherheit aufzubauen, persönliche Grenzen besser zu achten und den eigenen Bedürfnissen mehr Bedeutung zu geben.</p>
-<p>Nach erfolgreicher Bestellung wird das E-Book sofort digital als PDF-Datei bereitgestellt. Der Verkaufspreis beträgt einmalig 9,99 €.</p>
+**Vendor's marketplace description:** „Selbstwertgefühl stärken“ ist ein praxisnahes PDF-E-Book für Menschen, die häufig an sich zweifeln, sich mit anderen vergleichen oder den eigenen Wert zu wenig wahrnehmen. Der Ratgeber vermittelt verständliche Impulse, praktische Übungen und alltagstaugliche Möglichkeiten, um negative Selbstbewertungen zu erkennen, die eigenen Stärken bewusster wahrzunehmen und einen wertschätzenden Umgang mit sich selbst zu entwickeln. Das E-Book unterstützt dabei, mehr Selbstvertrauen und innere Sicherheit aufzubauen, persönliche Grenzen besser zu achten und den eigenen Bedürfnissen mehr Bedeutung zu geben. Nach erfolgreicher Bestellung wird das E-Book sofort digital als PDF-Datei bereitgestellt. Der Verkaufspreis beträgt einmalig 9,99 €.
 
 ## 2. Links
 

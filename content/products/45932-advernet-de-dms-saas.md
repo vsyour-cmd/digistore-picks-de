@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehlen Sie das Advernet.de DMS!</p>
-<p>Es kann auch als Software-as-a-Service genutzt werden und bietet unter anderem eine webbasierte Benutzeroberfläche, eine REST-API und verschiedene Automatisierungsmöglichkeiten.</p>
-<p>Sehen Sie sich die Affiliate-Support-Seite und die verschiedenen Varianten der Software auf der Verkaufsseite an.</p>
-<p><a title="Impressum der Advernet.de GmbH" href="https://www.advernet.de/impressum.html" target="_blank" rel="noreferrer noopener">Impressum der Advernet.de GmbH</a></p>
+**Vendor's marketplace description:** Empfehlen Sie das Advernet.de DMS! Es kann auch als Software-as-a-Service genutzt werden und bietet unter anderem eine webbasierte Benutzeroberfläche, eine REST-API und verschiedene Automatisierungsmöglichkeiten. Sehen Sie sich die Affiliate-Support-Seite und die verschiedenen Varianten der Software auf der Verkaufsseite an. Impressum der Advernet.de GmbH
 
 ## 2. Links
 

@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div style="background-color:#f7f9f9;">
-<p><strong><span style="background-color:#ffc300;color:#ffffff;">  TIPP  </span></strong></p>
-<p>Direkter Audio-Download ohne Newsletter-Zwang: 3 präzise Solfeggio-Sessions (Stirnchakra, Herzchakra, Bindu Visarga). Ideales Content-Geschenk für deine spirituelle Zielgruppe mit Cookie-Drop für das 154€-Komplettpaket.</p>
-<hr /><hr />
-<p><strong>Pragmatische Resonanz-Sessions zum sofortigen Ausprobieren.</strong></p>
-<p>Keine E-Mail-Schranken, keine Werbefallen. Deine Community lädt sich die 3 Chakra Moods© direkt auf das Smartphone oder den Rechner.</p>
-<p><strong>Was deine Nutzer sofort erhalten:</strong></p>
-<ul>
-<li>
-<p><strong>Session 1: Ajna Opening</strong> (852, 639, 963 Hz für das Stirnchakra)</p>
-</li>
-<li>
-<p><strong>Session 2: Bindu Visarga</strong> (1008 Hz &amp; 999 Hz zur neuronalen Zentrierung)</p>
-</li>
-<li>
-<p><strong>Session 3: Hridaya</strong> (341 Hz &amp; 432 Hz für emotionale Entlastung im Herzchakra)</p>
-</li>
-<li>
-<p><strong>Inklusive:</strong> Offizieller Praxis-Leitfaden (PDF)</p>
-</li>
-</ul>
-<p><strong>Dein Affiliate-Vorteil:</strong></p>
-<p>Binde den Link als Mehrwert in deinen Content rund um Yoga, Meditation und Achtsamkeit ein. Durch das direkte Erlebnis ohne Kauf- oder Eintragungsdruck konvertieren die Nutzer auf der Seite organisch zum 154€-Chakren-Komplettpaket.</p>
-</div>
+**Vendor's marketplace description:** TIPP Direkter Audio-Download ohne Newsletter-Zwang: 3 präzise Solfeggio-Sessions (Stirnchakra, Herzchakra, Bindu Visarga). Ideales Content-Geschenk für deine spirituelle Zielgruppe mit Cookie-Drop für das 154€-Komplettpaket. Pragmatische Resonanz-Sessions zum sofortigen Ausprobieren. Keine E-Mail-Schranken, keine Werbefallen. Deine Community lädt sich die 3 Chakra Moods© direkt auf das Smartphone oder den Rechner. Was deine Nutzer sofort erhalten: Session 1: Ajna Opening (852, 639, 963 Hz für das Stirnchakra) Session 2: Bindu Visarga (1008 Hz & 999 Hz zur neuronalen Zentrierung) Session 3: Hridaya (341 Hz & 432 Hz für emotionale Entlastung im Herzchakra) Inklusive: Offizieller Praxis-Leitfaden (PDF) Dein Affiliate-Vorteil: Binde den Link als Mehrwert in deinen Content rund um Yoga, Meditation und Achtsamkeit ein. Durch das direkte Erlebnis ohne Kauf- oder Eintragungsdruck konvertieren die Nutzer auf der Seite organisch zum 154€-Chakren-Komplettpaket.
 
 ## 2. Links
 

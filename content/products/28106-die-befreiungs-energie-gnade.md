@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Die Befreiungsenergie Gnade – Musik für die Seele</h3>
-<h4>⇒ 3 Titel in einem Paket (MP3) – insgesamt 1:39:54 Std. Laufzeit</h4>
-<div>
-<p><br /><strong>Die Titel:</strong></p>
-<p>Adonai `Tsebayoth – 432 Hertz - <em>37:12 Min.</em><br />Ehyeh Asher Ehyeh – 432 Hertz - <em>31:42 Min.</em><br />Die Befreiungsenergie Gnade – 528 Hertz<em> - 31:00 Min.</em></p>
-<p> </p>
-<p>Verkaufspreis: 45,00 Euro</p>
-<p> </p>
-</div>
-<p>Du verdienst 30 % Provision.</p>
-<p> </p>
-<p>Wir freuen uns auf Dich!</p>
-<p>Herzliche Grüße!</p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Die Befreiungsenergie Gnade – Musik für die Seele ⇒ 3 Titel in einem Paket (MP3) – insgesamt 1:39:54 Std. Laufzeit Die Titel: Adonai `Tsebayoth – 432 Hertz - 37:12 Min. Ehyeh Asher Ehyeh – 432 Hertz - 31:42 Min. Die Befreiungsenergie Gnade – 528 Hertz - 31:00 Min. Verkaufspreis: 45,00 Euro Du verdienst 30 % Provision. Wir freuen uns auf Dich! Herzliche Grüße!
 
 ## 2. Links
 

@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><em>Ihr Schlüssel zu mehr Resilienz, Stressmanagement und persönlichem Erfolg im Privat- und Berufsalltag</em></h2>
-<div>
-<div>
-<h4>Mehr Gelassenheit. Mehr Wiederstandskraft. Ein erfüllteres Leben – wissenschaftlich fundiert und praxisnah.</h4>
-<p>Mit der WiPeC Academy erhalten Sie die besten, <strong>wissenschaftlich gestützten Strategien aus der positiven Psychologie sowie der Resilienz- und Glücksforschung</strong>, um Stress zu bewältigen, Ängste zu überwinden, besser zu schlafen, innere Ruhe zu finden und Ihre persönliche Weiterentwicklung zu fördern.</p>
-<p>Für alle, die im Alltag und Beruf mehr Gelassenheit, Resilienz und nachhaltigen Erfolg im Leben suchen: Praxisnahe Unterstützung für Ihre persönliche und berufliche Weiterentwicklung.</p>
-</div>
-</div>
-<p> </p>
+**Vendor's marketplace description:** Ihr Schlüssel zu mehr Resilienz, Stressmanagement und persönlichem Erfolg im Privat- und Berufsalltag Mehr Gelassenheit. Mehr Wiederstandskraft. Ein erfüllteres Leben – wissenschaftlich fundiert und praxisnah. Mit der WiPeC Academy erhalten Sie die besten, wissenschaftlich gestützten Strategien aus der positiven Psychologie sowie der Resilienz- und Glücksforschung , um Stress zu bewältigen, Ängste zu überwinden, besser zu schlafen, innere Ruhe zu finden und Ihre persönliche Weiterentwicklung zu fördern. Für alle, die im Alltag und Beruf mehr Gelassenheit, Resilienz und nachhaltigen Erfolg im Leben suchen: Praxisnahe Unterstützung für Ihre persönliche und berufliche Weiterentwicklung.
 
 ## 2. Links
 

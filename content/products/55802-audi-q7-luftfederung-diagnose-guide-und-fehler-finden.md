@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Viele Audi Q7 Fahrer haben Probleme mit der Luftfederung</p>
-<p>oder dem Kompressor.</p>
-<p>Dieser Praxis-Guide zeigt:</p>
-<p>. Diagnose der Luftfederung</p>
-<p>. typische Fehlerbilder</p>
-<p>. Kompressor prüfen</p>
-<p>. Reparaturmöglichkeiten </p>
-<p>Basierend auf einem echten Audi Q7 4L mit über 300.000km Erfahrung.</p>
-<p>Provision für Affiliates 50 %</p>
+**Vendor's marketplace description:** Viele Audi Q7 Fahrer haben Probleme mit der Luftfederung oder dem Kompressor. Dieser Praxis-Guide zeigt: . Diagnose der Luftfederung . typische Fehlerbilder . Kompressor prüfen . Reparaturmöglichkeiten Basierend auf einem echten Audi Q7 4L mit über 300.000km Erfahrung. Provision für Affiliates 50 %
 
 ## 2. Links
 

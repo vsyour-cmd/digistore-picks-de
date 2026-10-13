@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Das Videokurs-Komplettpaket richtet sich an:</strong></h3>
-<ul>
-<li><strong>Bauherren und Elektriker</strong>, die schnell ihr „KNX Smart Home“ umsetzen wollen</li>
-<li>Bauherren, die <strong>viele tausend Euro sparen</strong> (oftmals &gt;15.000 Euro) und ihr Wohnhaus/Gewerbegebäude sofort selbst umsetzen wollen</li>
-<li><strong>Interessenten ohne Vorkenntnisse</strong>, die am PC mit der aktuellsten KNX <strong>ETS5/6-Software</strong> alles selbst einrichten und programmieren, ein Gebäude in <strong>wenigen Stunden in Betrieb nehmen</strong> wollen</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** Das Videokurs-Komplettpaket richtet sich an: Bauherren und Elektriker , die schnell ihr „KNX Smart Home“ umsetzen wollen Bauherren, die viele tausend Euro sparen (oftmals >15.000 Euro) und ihr Wohnhaus/Gewerbegebäude sofort selbst umsetzen wollen Interessenten ohne Vorkenntnisse , die am PC mit der aktuellsten KNX ETS5/6-Software alles selbst einrichten und programmieren, ein Gebäude in wenigen Stunden in Betrieb nehmen wollen
 
 ## 2. Links
 

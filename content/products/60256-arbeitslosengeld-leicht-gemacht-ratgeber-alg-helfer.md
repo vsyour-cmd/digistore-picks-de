@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Arbeitslosengeld leicht gemacht – der verständliche Ratgeber mit ALG-Helfer</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Wer arbeitslos wird, steht unter <strong>Zeitdruck</strong>: arbeitsuchend melden, Antrag stellen, Sperrzeit vermeiden. Der Ratgeber erklärt <strong>Schritt für Schritt und in einfacher Sprache</strong>, was jetzt zu tun ist, wie viel Arbeitslosengeld zusteht und welche Fehler bares Geld kosten. Dazu gibt es den <strong>interaktiven ALG-Helfer</strong>.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Arbeitnehmer, denen <strong>gekündigt</strong> wurde</li>
-<li>Menschen, die <strong>selbst kündigen</strong> wollen oder deren Vertrag ausläuft</li>
-<li>Angehörige, die bei Antrag und Fristen <strong>helfen</strong> möchten</li>
-</ul>
-<p>Ein Thema, das <strong>jedes Jahr sehr viele Menschen</strong> in Deutschland betrifft, <strong>unabhängig von der Saison</strong>.</p>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Akutes Problem mit Zeitdruck:</strong> Käufer suchen sofort nach einer Lösung</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Passt perfekt</strong> zu Inhalten über Job, Kündigung, Bewerbung, Finanzen und Sozialleistungen</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Ratgeber (Kündigungsschutz, Jobcenter, Widerspruch, Bewerbung, Lebenslauf, Vorstellungsgespräch) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechtsberatung</strong> im Einzelfall</li>
-<li><strong>Keine Behördennamen oder -logos</strong> (z. B. Bundesagentur für Arbeit, Jobcenter) als Absender verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Arbeitslosengeld leicht gemacht – der verständliche Ratgeber mit ALG-Helfer Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Wer arbeitslos wird, steht unter Zeitdruck : arbeitsuchend melden, Antrag stellen, Sperrzeit vermeiden. Der Ratgeber erklärt Schritt für Schritt und in einfacher Sprache , was jetzt zu tun ist, wie viel Arbeitslosengeld zusteht und welche Fehler bares Geld kosten. Dazu gibt es den interaktiven ALG-Helfer . Die Zielgruppe Arbeitnehmer, denen gekündigt wurde Menschen, die selbst kündigen wollen oder deren Vertrag ausläuft Angehörige, die bei Antrag und Fristen helfen möchten Ein Thema, das jedes Jahr sehr viele Menschen in Deutschland betrifft, unabhängig von der Saison . Warum sich die Bewerbung für Sie lohnt Akutes Problem mit Zeitdruck: Käufer suchen sofort nach einer Lösung Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Passt perfekt zu Inhalten über Job, Kündigung, Bewerbung, Finanzen und Sozialleistungen Mehr verdienen: Weitere passende Ratgeber (Kündigungsschutz, Jobcenter, Widerspruch, Bewerbung, Lebenslauf, Vorstellungsgespräch) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechtsberatung im Einzelfall Keine Behördennamen oder -logos (z. B. Bundesagentur für Arbeit, Jobcenter) als Absender verwenden Kein Spam
 
 ## 2. Links
 

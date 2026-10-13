@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du verdienst gut – aber weißt nicht, wo dein Geld bleibt?</p>
-<p>Du bist selbstständig, arbeitest hart und verdienst anständig. Aber am Ende des Monats bleibt wenig übrig. Steuernachzahlungen überraschen dich. Rücklagen fehlen. Und an Vermögensaufbau ist noch gar nicht zu denken.</p>
-<p>Das ist kein Zufall – niemand bringt dir als Selbstständiger bei, wie du mit Geld umgehst.</p>
-<p>Dieses E-Book ändert das.</p>
-<hr />
-<p><strong>Was du in diesem E-Book lernst:</strong></p>
-<p>✅ Das 4-Konten-Modell – so strukturierst du deine Finanzen ein für alle Mal<br />✅ Steuern richtig planen – nie wieder böse Überraschungen vom Finanzamt<br />✅ Notgroschen aufbauen – dein finanzieller Schutzschild als Selbstständiger<br />✅ Vermögensaufbau mit ETFs – dein Geld arbeitet für dich<br />✅ Altersvorsorge als Selbstständiger – was du wirklich brauchst<br />✅ Die 7 häufigsten Fehler – und wie du sie von Anfang an vermeidest<br />✅ Dein persönlicher 90-Tage-Finanzplan – konkret und umsetzbar</p>
-<hr />
-<p><strong>Für wen ist dieses E-Book?</strong></p>
-<p>→ Selbstständige und Freiberufler die endlich Struktur in ihre Finanzen bringen wollen<br />→ Unternehmer die mehr vom verdienten Geld behalten wollen<br />→ Freelancer und Influencer die sich zum ersten Mal ernsthaft mit Vermögensaufbau beschäftigen<br />→ Alle die aufgehört haben zu hoffen dass es irgendwie von alleine besser wird</p>
-<hr />
-<p><strong>Was dieses E-Book besonders macht:</strong></p>
-<p>Kein theoretisches Fachwissen. Keine komplizierten Fachbegriffe. Sondern das Wissen, das Marco Bürgel täglich in seiner Beratung mit Selbstständigen, Unternehmern und Freelancern anwendet – verständlich, direkt und sofort umsetzbar.</p>
-<hr />
-<p><strong>Über den Autor:</strong></p>
-<p>Marco Bürgel ist unabhängiger Finanz- und Vermögensberater mit Sitz in Deutschland. Er berät Selbstständige, Unternehmer und Influencer dabei, ihre Finanzen zu strukturieren und langfristig Vermögen aufzubauen.</p>
+**Vendor's marketplace description:** Du verdienst gut – aber weißt nicht, wo dein Geld bleibt? Du bist selbstständig, arbeitest hart und verdienst anständig. Aber am Ende des Monats bleibt wenig übrig. Steuernachzahlungen überraschen dich. Rücklagen fehlen. Und an Vermögensaufbau ist noch gar nicht zu denken. Das ist kein Zufall – niemand bringt dir als Selbstständiger bei, wie du mit Geld umgehst. Dieses E-Book ändert das. Was du in diesem E-Book lernst: ✅ Das 4-Konten-Modell – so strukturierst du deine Finanzen ein für alle Mal ✅ Steuern richtig planen – nie wieder böse Überraschungen vom Finanzamt ✅ Notgroschen aufbauen – dein finanzieller Schutzschild als Selbstständiger ✅ Vermögensaufbau mit ETFs – dein Geld arbeitet für dich ✅ Altersvorsorge als Selbstständiger – was du wirklich brauchst ✅ Die 7 häufigsten Fehler – und wie du sie von Anfang an vermeidest ✅ Dein persönlicher 90-Tage-Finanzplan – konkret und umsetzbar Für wen ist dieses E-Book? → Selbstständige und Freiberufler die endlich Struktur in ihre Finanzen bringen wollen → Unternehmer die mehr vom verdienten Geld behalten wollen → Freelancer und Influencer die sich zum ersten Mal ernsthaft mit Vermögensaufbau beschäftigen → Alle die aufgehört haben zu hoffen dass es irgendwie von alleine besser wird Was dieses E-Book besonders macht: Kein theoretisches Fachwissen. Keine komplizierten Fachbegriffe. Sondern das Wissen, das Marco Bürgel täglich in seiner Beratung mit Selbstständigen, Unternehmern und Freelancern anwendet – verständlich, direkt und sofort umsetzbar. Über den Autor: Marco Bürgel ist unabhängiger Finanz- und Vermögensberater mit Sitz in Deutschland. Er berät Selbstständige, Unternehmer und Influencer dabei, ihre Finanzen zu strukturieren und langfristig Vermögen aufzubauen.
 
 ## 2. Links
 

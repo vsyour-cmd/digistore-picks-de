@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><span style="color:#ff0000;"><strong>*</strong><strong>Neu</strong><strong>* </strong></span><strong>Jetzt 40% Provision für angeworbene Abonnenten! Passives Einkommen aufbauen!</strong></span></p>
-<p>Bewerben Sie jetzt den so im deutschsprachigen Raum einmaligen Börsendienst, der sich auf Derivate und 10 Bagger im Rahmen der <em>„neuen Weltordnung“</em> und der österreichischen Schule der Ökonomie spezialisiert hat.</p>
-<p>Schaffen Sie sich so ein passives Einkommen, durch unser Abonnementsystem und profitieren Sie gleich mehrmals pro angeworbenen Kunden.</p>
-<p><span style="text-decoration:underline;"><strong>Das heißt im Klartext für Sie</strong>:</span> Einmal anwerben und jeden Monat erneut bezahlt werden. Viele Kunden werden zu Stammkunden, was Ihnen wiederum jährliche Einnahmen sichert, die zudem monatlich an Sie ausgezahlt werden. Allein durch diesen Umstand können sich schon nach einigen Monaten sehr große Summen anhäufen.</p>
-<p><strong>Eine bessere Verdienstmöglichkeit als Affiliate bietet kaum ein anderes System!</strong></p>
-<p>E-Mail-Listen, PPC-Netzwerke und Finanzwebseiten erweisen sich meistens als sehr erträglich.</p>
-<p>Auch <em>„Truther-“</em> sowie Trading-Blogs,  sind gute Werbeplattformen für unseren Börsenbrief!</p>
-<p> </p>
-<p>Fangen Sie noch heute an sich ein passives Einkommen aufzubauen.</p>
-<p>Für Werbematerial oder vorgefertigte E-Mails, schreiben Sie uns einfach per E-Mail an:</p>
-<p><a title="info@goldfinger-report.com" href="mailto:info@goldfinger-report.com" target="_blank" rel="noreferrer noopener">info@goldfinger-report.com</a></p>
+**Vendor's marketplace description:** * Neu * Jetzt 40% Provision für angeworbene Abonnenten! Passives Einkommen aufbauen! Bewerben Sie jetzt den so im deutschsprachigen Raum einmaligen Börsendienst, der sich auf Derivate und 10 Bagger im Rahmen der „neuen Weltordnung“ und der österreichischen Schule der Ökonomie spezialisiert hat. Schaffen Sie sich so ein passives Einkommen, durch unser Abonnementsystem und profitieren Sie gleich mehrmals pro angeworbenen Kunden. Das heißt im Klartext für Sie : Einmal anwerben und jeden Monat erneut bezahlt werden. Viele Kunden werden zu Stammkunden, was Ihnen wiederum jährliche Einnahmen sichert, die zudem monatlich an Sie ausgezahlt werden. Allein durch diesen Umstand können sich schon nach einigen Monaten sehr große Summen anhäufen. Eine bessere Verdienstmöglichkeit als Affiliate bietet kaum ein anderes System! E-Mail-Listen, PPC-Netzwerke und Finanzwebseiten erweisen sich meistens als sehr erträglich. Auch „Truther-“ sowie Trading-Blogs, sind gute Werbeplattformen für unseren Börsenbrief! Fangen Sie noch heute an sich ein passives Einkommen aufzubauen. Für Werbematerial oder vorgefertigte E-Mails, schreiben Sie uns einfach per E-Mail an: info@goldfinger-report.com
 
 ## 2. Links
 

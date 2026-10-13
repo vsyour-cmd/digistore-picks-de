@@ -41,39 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2 style="text-align:center;"><span style="color:#ff0000;background-color:#ffffff;"><strong>regelmäßige Provision - jeden Monat</strong></span></h2>
-<h1 style="text-align:center;"><a href="https://www.sms-signale.de/angebot.html" target="_blank"><span style="color:#0000ff;background-color:#ffffff;"><strong>SMS-Signaldienst !!!</strong></span></a></h1>
-<h2 style="text-align:center;"><span style="color:#ff0000;background-color:#ffff00;"><strong>Einfache Handelsstrategien die langfristig funktionieren und nachweislich an der Börse Geld verdienen.</strong></span></h2>
-<p style="text-align:justify;"><strong> Sie suchen nach einem professionellen Börsen-Signaldienst, der für Ihre Kunden Geld verdient und Ihnen damit regelmäßig wiederkehrende Umsätze einbringt? Dann werden Sie jetzt Verkaufspartner von:</strong></p>
-<h1 style="text-align:center;"><a href="https://www.sms-signale.de/angebot.html" target="_blank"><span style="color:#0000ff;background-color:#ffffff;"><strong>www.SMS-Signale.de !!!</strong></span></a></h1>
-<p> </p>
-<p><strong>exklusive Konditionen für Partner:</strong></p>
-<ul><li>50% Provision als Passiv-Einkommen <span style="color:#ff0000;">(regelmäßig monatlich)</span></li>
-<li><span style="color:#ff0000;">Lebenslange Provisionsszahlungen für die Monatsbeiträge Ihrer geworbenen Kunden</span></li>
-<li>kostengünstige Handelsstrategien vom Börsenprofi</li>
-<li>Herausragender Wertzuwachs bei geringen Schwankungen seit 14 Jahren. Jedes Jahr mit Gewinn abgeschlossen.</li>
-<li>Hohe Anmelde- &amp; Teilnehmerquote</li>
-<li>Sehr geringe Stornoquote</li>
-<li>Zufriedenheitsgarantie</li>
-</ul><p><strong>Bewerben Sie SMS-Signale vom Börsenprofi:</strong></p>
-<ul><li>in Ihrem Freundeskreis</li>
-<li>in Ihrem Blog</li>
-<li>in Ihrem Newsletter </li>
-</ul><p>und Sie werden sehen, wie regelmäßig hohe Provisionen in Ihren Account fließen und das Monat für Monat, solange die Abonnenten dabei bleiben.</p>
-<h2 style="text-align:center;"><strong><a href="https://www.sms-signale.de/" target="_blank">--&gt; wir beraten Sie gern &lt;--</a></strong></h2>
-<p><strong>unsere Verkaufsargumente für Kunden:</strong><strong>      </strong></p>
-<div>
-<ul><li>Sie profitieren weiter von einfachen Strategien die Ihnen einen langfristigen statistischen Vorteil an der Börse verschaffen.</li>
-<li>Jedes SMS-Signal wird mindestens eine Stunde bevor Sie am Markt aktiv werden sollten an Sie versandt. Sie haben damit genug Zeit für die Umsetzung des Signals.</li>
-<li>Sie erhalten Zugang zu allen Daten und Backtests. Dadurch könnn Sie jede Strategie zu 100% transparent und einfach nachvollziehen.</li>
-<li>Es wird einen Trade des Monats geben, mit welchem Sie eine qualitativ hochwertige Empfehlung für einzelne Aktien oder Renten bekommen.</li>
-<li>Alle Signale können einfach mit CFDs, Zertifikaten, Optionsscheinen, Futures, Optionen oder ETFs umgesetzt werden.</li>
-<li>Alle Strategien beruhen auf kausalen Zusammenhängen und lassen sich eindeutig wissenschaftlich begründen.</li>
-<li>Bei der Umsetzung der Signale sind Sie weiterhin unabhängig. Sie entscheiden, welches SMS-Signal Sie mit welchem Instrument und bei welchem Broker umsetzen.</li>
-<li>Sie profitieren von neuen Strategien auf Aktien, Renten, Währungen und Rohstoffen.</li>
-<li>Wenn Sie ein guter Trader sind, können Sie die angebotenen statistischen Vorteile durch individuelles Trading noch weiter verbessern.</li>
-</ul></div>
-<p> </p>
+**Vendor's marketplace description:** regelmäßige Provision - jeden Monat SMS-Signaldienst !!! Einfache Handelsstrategien die langfristig funktionieren und nachweislich an der Börse Geld verdienen. Sie suchen nach einem professionellen Börsen-Signaldienst, der für Ihre Kunden Geld verdient und Ihnen damit regelmäßig wiederkehrende Umsätze einbringt? Dann werden Sie jetzt Verkaufspartner von: www.SMS-Signale.de !!! exklusive Konditionen für Partner: 50% Provision als Passiv-Einkommen (regelmäßig monatlich) Lebenslange Provisionsszahlungen für die Monatsbeiträge Ihrer geworbenen Kunden kostengünstige Handelsstrategien vom Börsenprofi Herausragender Wertzuwachs bei geringen Schwankungen seit 14 Jahren. Jedes Jahr mit Gewinn abgeschlossen. Hohe Anmelde- & Teilnehmerquote Sehr geringe Stornoquote Zufriedenheitsgarantie Bewerben Sie SMS-Signale vom Börsenprofi: in Ihrem Freundeskreis in Ihrem Blog in Ihrem Newsletter und Sie werden sehen, wie regelmäßig hohe Provisionen in Ihren Account fließen und das Monat für Monat, solange die Abonnenten dabei bleiben. --> wir beraten Sie gern <-- unsere Verkaufsargumente für Kunden: Sie profitieren weiter von einfachen Strategien die Ihnen einen langfristigen statistischen Vorteil an der Börse verschaffen. Jedes SMS-Signal wird mindestens eine Stunde bevor Sie am Markt aktiv werden sollten an Sie versandt. Sie haben damit genug Zeit für die Umsetzung des Signals. Sie erhalten Zugang zu allen Daten und Backtests. Dadurch könnn Sie jede Strategie zu 100% transparent und einfach nachvollziehen. Es wird einen Trade des Monats geben, mit welchem Sie eine qualitativ hochwertige Empfehlung für einzelne Aktien oder Renten bekommen. Alle Signale können einfach mit CFDs, Zertifikaten, Optionsscheinen, Futures, Optionen oder ETFs umgesetzt werden. Alle Strategien beruhen auf kausalen Zusammenhängen und lassen sich eindeutig wissenschaftlich begründen. Bei der Umsetzung der Signale sind Sie weiterhin unabhängig. Sie entscheiden, welches SMS-Signal Sie mit welchem Instrument und bei welchem Broker umsetzen. Sie profitieren von neuen Strategien auf Aktien, Renten, Währungen und Rohstoffen. Wenn Sie ein guter Trader sind, können Sie die angebotenen statistischen Vorteile durch individuelles Trading noch weiter verbessern.
 
 ## 2. Links
 

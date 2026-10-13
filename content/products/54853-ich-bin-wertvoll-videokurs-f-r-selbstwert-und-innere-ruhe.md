@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#000000;"><strong><span style="background-color:#99cc00;">5 Euro Provision </span></strong></span></p>
-<p>1. Du sendest den Link zum Selbstwert-Videokurs an potenzielle Käufer </p>
-<p>2. Käufer bestellen</p>
-<p>3. Du erhältst 5 Euro Provision</p>
-<p>Über 540 Minuten Videolektionen vom Nr. 1 BILD-Bestsellerautor! <strong>Ein absolut seriöses und solides Produkt.</strong></p>
-<p><span style="background-color:#ff9900;">Zielgruppe:</span> Persönlichkeitsentwicklung, Psychologie, Selbstliebe, Achtsamkeit, Spiritualität, Dating (Selbstliebe stärken statt im Außen suchen) usw.</p>
-<p> </p>
+**Vendor's marketplace description:** 5 Euro Provision 1. Du sendest den Link zum Selbstwert-Videokurs an potenzielle Käufer 2. Käufer bestellen 3. Du erhältst 5 Euro Provision Über 540 Minuten Videolektionen vom Nr. 1 BILD-Bestsellerautor! Ein absolut seriöses und solides Produkt. Zielgruppe: Persönlichkeitsentwicklung, Psychologie, Selbstliebe, Achtsamkeit, Spiritualität, Dating (Selbstliebe stärken statt im Außen suchen) usw.
 
 ## 2. Links
 

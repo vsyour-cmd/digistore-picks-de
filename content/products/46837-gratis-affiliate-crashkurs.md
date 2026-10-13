@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><span style="background-color:#ffff00;"><strong>Affiliate Crashkurs 3.0</strong></span></h3>
-<p>In diesem Gratis online Affiliate-Kurs werden alle Grundlagen des Online Geldverdienen mit Affiliate-Marketing erklärt.<br />Die Teilnehmer werden bei 0 abgeholt und es werden alle Bereiche des Affiliate-Marketing erklärt.</p>
-<p><br /><span style="background-color:#ffff00;"><strong>Im Detail bietet der Kurs folgende Vorteile für Deine Kunden:</strong> </span></p>
-<ul>
-<li><strong>Methoden für den Einstieg:</strong> Kunden erlernen eine unkomplizierte, sichere Methode, mit der auch ohne Vorkenntnisse, Website oder Startkapital sofort losgelegt werden kann.  </li>
-</ul>
-<ul>
-<li><strong>Wahrung der Anonymität:</strong> Der Kurs führt Interessenten durch die Prozesse, ein Einkommen im Internet zu generieren, ohne ihre Anonymität aufgeben zu müssen. </li>
-</ul>
-<ul>
-<li><strong>Verzicht auf Verkaufstätigkeit:</strong> Es handelt sich um eine seriöse und legale Verdienstmöglichkeit; der Kurs distanziert sich von Praktiken wie Multi-Level-Marketing, Glücksspiel oder Kryptowährungshandel. </li>
-</ul>
-<ul>
-<li><strong>Komfortables Lernen:</strong> Der gesamte Lehrstoff ist zugänglich über Smartphone oder PC, was das Lernen von zu Hause aus ermöglicht und ideal für den Aufbau eines Online-Nebenerwerbs ist.</li>
-</ul>
-<ul>
-<li><strong>Inspiration durch Erfolgsgeschichten:</strong> Der Kurs bietet Kunden Zugriff auf Geschichten anderer Personen, die bereits Einkommen online generiert haben, was als Inspirations- und Motivationsquelle dienen kann.</li>
-</ul>
-<ul>
-<li><strong>Verständliche Erklärungen:</strong> Mit einfachen, klaren Instruktionen fordert der Kurs weder komplizierte Fachjargonkenntnisse noch unnötigen Mehrwert. </li>
-</ul>
-<ul>
-<li><strong>Erprobte Strategien:</strong> Kunden lernen etablierte Methoden kennen, die bereits von erfolgreichen Online-Verdienern genutzt werden. So müssen sie nicht bei Null beginnen.</li>
-</ul>
-<ul>
-<li><strong>Risikoloses Angebot:</strong> Es entstehen keine versteckten Kosten und es gibt keine verpflichtenden Bindungen für Kunden, die den Kurs wahrnehmen möchten.</li>
-</ul>
-<ul>
-<li><strong>Unmittelbarer Kurszugang:</strong> Nach der Anmeldung erhalten Kunden prompt per E-Mail Zugangsdaten zum Mitgliederbereich und können zu jeder Tages- und Nachtzeit – auch um 3 Uhr morgens – auf den Kurs zugreifen und starten.<br /><br /><span style="background-color:#ffff00;"><strong>Du bekommst:</strong></span><br />Bewirb unseren "Affiliate Crashkurs" und sacke <strong>60% Provision auf Add-on und Upsell ein. </strong><br /><strong>Plus: 15% Lifetime-Provision</strong> auf alle Folgeverkäufe!<br />Der Upsell-Prozess wird laufend optimiert und angepasst.<br /><br />Viel Erfolg und fette Beute!</li>
-</ul>
+**Vendor's marketplace description:** Affiliate Crashkurs 3.0 In diesem Gratis online Affiliate-Kurs werden alle Grundlagen des Online Geldverdienen mit Affiliate-Marketing erklärt. Die Teilnehmer werden bei 0 abgeholt und es werden alle Bereiche des Affiliate-Marketing erklärt. Im Detail bietet der Kurs folgende Vorteile für Deine Kunden: Methoden für den Einstieg: Kunden erlernen eine unkomplizierte, sichere Methode, mit der auch ohne Vorkenntnisse, Website oder Startkapital sofort losgelegt werden kann. Wahrung der Anonymität: Der Kurs führt Interessenten durch die Prozesse, ein Einkommen im Internet zu generieren, ohne ihre Anonymität aufgeben zu müssen. Verzicht auf Verkaufstätigkeit: Es handelt sich um eine seriöse und legale Verdienstmöglichkeit; der Kurs distanziert sich von Praktiken wie Multi-Level-Marketing, Glücksspiel oder Kryptowährungshandel. Komfortables Lernen: Der gesamte Lehrstoff ist zugänglich über Smartphone oder PC, was das Lernen von zu Hause aus ermöglicht und ideal für den Aufbau eines Online-Nebenerwerbs ist. Inspiration durch Erfolgsgeschichten: Der Kurs bietet Kunden Zugriff auf Geschichten anderer Personen, die bereits Einkommen online generiert haben, was als Inspirations- und Motivationsquelle dienen kann. Verständliche Erklärungen: Mit einfachen, klaren Instruktionen fordert der Kurs weder komplizierte Fachjargonkenntnisse noch unnötigen Mehrwert. Erprobte Strategien: Kunden lernen etablierte Methoden kennen, die bereits von erfolgreichen Online-Verdienern genutzt werden. So müssen sie nicht bei Null beginnen. Risikoloses Angebot: Es entstehen keine versteckten Kosten und es gibt keine verpflichtenden Bindungen für Kunden, die den Kurs wahrnehmen möchten. Unmittelbarer Kurszugang: Nach der Anmeldung erhalten Kunden prompt per E-Mail Zugangsdaten zum Mitgliederbereich und können zu jeder Tages- und Nachtzeit – auch um 3 Uhr morgens – auf den Kurs zugreifen und starten. Du bekommst: Bewirb unseren "Affiliate Crashkurs" und sacke 60% Provision auf Add-on und Upsell ein. Plus: 15% Lifetime-Provision auf alle Folgeverkäufe! Der Upsell-Prozess wird laufend optimiert und angepasst. Viel Erfolg und fette Beute!
 
 ## 2. Links
 

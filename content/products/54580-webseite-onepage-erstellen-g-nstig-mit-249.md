@@ -41,48 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <ul>
-<li>
-<ul>
-<li>
-<div>
-<div>
-<h1>WEBSEITE ERSTELLEN</h1>
-</div>
-</div>
-<div>
-<div>
-<h1>” One Page “</h1>
-</div>
-</div>
-<div>
-<div>
-<p>Nur mit 249<em>€</em></p>
-<p> </p>
-<ul>
-<li>#1 Alles Wichtige in Eine Seiten  Responsive Seite</li>
-<li>#2 Nach Ihre Bedürfnisse. Fotos,Texte,Videos</li>
-<li>#3 Dienstleistungen-Produkten in Kürze</li>
-<li>  #4 Inkl. Links zu Ihre Social Media</li>
-<li>  #5 Inkl. einfache Kontakt-formular &amp; Map</li>
-<li>  #6 Netto Preis fürs Webseite Erstellen</li>
-<li>  #7 Domain Name &amp; Hosting zusätzlich kosten</li>
-<li>  #8 Nach bezahlen - folgen ZOOM Gespräche - Planung  </li>
-</ul>
-<ul>
-<li>#9 Pflege : Ja möglich zusätzlich kosten</li>
-<li>Schauen Sie hier unsere Video, was können wir für Euch tun sehr günstig</li>
-</ul>
-</div>
-</div>
-</li>
-</ul>
-</li>
-</ul>
-<p> </p>
-<ul>
-<li>Schauen Sie hier unsere Infos &amp; Video, was können wir für Euch tun sehr günstig</li>
-</ul>
+**Vendor's marketplace description:** WEBSEITE ERSTELLEN ” One Page “ Nur mit 249 € #1 Alles Wichtige in Eine Seiten Responsive Seite #2 Nach Ihre Bedürfnisse. Fotos,Texte,Videos #3 Dienstleistungen-Produkten in Kürze #4 Inkl. Links zu Ihre Social Media #5 Inkl. einfache Kontakt-formular & Map #6 Netto Preis fürs Webseite Erstellen #7 Domain Name & Hosting zusätzlich kosten #8 Nach bezahlen - folgen ZOOM Gespräche - Planung #9 Pflege : Ja möglich zusätzlich kosten Schauen Sie hier unsere Video, was können wir für Euch tun sehr günstig Schauen Sie hier unsere Infos & Video, was können wir für Euch tun sehr günstig
 
 ## 2. Links
 

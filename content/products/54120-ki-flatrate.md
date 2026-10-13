@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>KI ist da - aber die meisten nutzen nur 5% ihres Potenzials<br /><br /></h3>
-<div>
-<div>
-<div>
-<h2>Ihre KI-Flatrate: Live-Trainings &amp; Experten-Support praxisnah, sofort umsetzbar</h2>
-</div>
-</div>
-</div>
-<div>
-<p>Vergessen Sie teure Einzelkurse und endlose Tutorials. Mit der <strong>KI-Flatrate</strong> bekommen Sie <strong>wöchentliche Live-Trainings</strong>, direkten <strong>Experten-Support</strong> und Zugriff auf eine exklusive <strong>Vorlagen- &amp; Prompt-Bibliothek</strong>. So setzen Sie ChatGPT, Midjourney &amp; Co. sofort gewinnbringend in Ihrem Business ein – ohne Technikfrust.</p>
-<p><strong>Ergebnis: Sie sparen Zeit, senken Kosten und steigern Umsatz </strong><strong>– mit KI-Insiderwissen, was wirklich funktioniert.</strong> </p>
-<div>
-<h3 style="text-align:center;"><strong>STARTER </strong><br /><strong>Für Einsteiger &amp; </strong><br /><strong>Freelancer</strong> <br /><br /></h3>
-</div>
-<div style="text-align:center;">
-<div>
-<div>
-<p>KI-Basics → Grundlagen + Tools </p>
-<p>2x pro Monat Live-Session a' 1,5h</p>
-<p>500+ Prompts &amp; Vorlagen </p>
-<p>Aufzeichnungen der jeweiligen Sessions zum Download</p>
-<p>Ideal zum Einstieg <br /><br />99,- €/Monat (netto zzgl. MwSt.)<br /><br />Jetzt mehr als 20% sparen mit dem Jahresplan:<br /> 948,- € p.a. netto <br />(= 79,- €/Monat netto zzgl. MwSt.)</p>
-<p><strong>✔ Einstieg jederzeit möglich</strong></p>
-<p><strong>✔ Jederzeit kündbar </strong><strong> </strong></p>
-<p><strong>✔ Keine versteckten Kosten</strong><strong> </strong></p>
-</div>
-</div>
-</div>
-<p style="text-align:center;"> </p>
-</div>
+**Vendor's marketplace description:** KI ist da - aber die meisten nutzen nur 5% ihres Potenzials Ihre KI-Flatrate: Live-Trainings & Experten-Support praxisnah, sofort umsetzbar Vergessen Sie teure Einzelkurse und endlose Tutorials. Mit der KI-Flatrate bekommen Sie wöchentliche Live-Trainings , direkten Experten-Support und Zugriff auf eine exklusive Vorlagen- & Prompt-Bibliothek . So setzen Sie ChatGPT, Midjourney & Co. sofort gewinnbringend in Ihrem Business ein – ohne Technikfrust. Ergebnis: Sie sparen Zeit, senken Kosten und steigern Umsatz – mit KI-Insiderwissen, was wirklich funktioniert. STARTER Für Einsteiger & Freelancer KI-Basics → Grundlagen + Tools 2x pro Monat Live-Session a' 1,5h 500+ Prompts & Vorlagen Aufzeichnungen der jeweiligen Sessions zum Download Ideal zum Einstieg 99,- €/Monat (netto zzgl. MwSt.) Jetzt mehr als 20% sparen mit dem Jahresplan: 948,- € p.a. netto (= 79,- €/Monat netto zzgl. MwSt.) ✔ Einstieg jederzeit möglich ✔ Jederzeit kündbar ✔ Keine versteckten Kosten
 
 ## 2. Links
 

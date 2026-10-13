@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Digitales Whiteboard für Notizen, Skizzen und Planung - komplett offline, keine Cloud nötig. Haftnotizen, PDF/Bild-Import per Drag&amp;Drop, verschiedene Raster/Hintergründe (auch für Social-Media-Formate wie Story/Quadrat), Export als PNG, PDF oder sogar als Video/GIF-Animation. Hell/Dunkel-Modus, Mikrofonaufnahme, QR-Code-Generator eingebaut.</p>
+**Vendor's marketplace description:** Digitales Whiteboard für Notizen, Skizzen und Planung - komplett offline, keine Cloud nötig. Haftnotizen, PDF/Bild-Import per Drag&Drop, verschiedene Raster/Hintergründe (auch für Social-Media-Formate wie Story/Quadrat), Export als PNG, PDF oder sogar als Video/GIF-Animation. Hell/Dunkel-Modus, Mikrofonaufnahme, QR-Code-Generator eingebaut.
 
 ## 2. Links
 

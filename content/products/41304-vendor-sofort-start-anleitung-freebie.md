@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1 style="text-align:left;"><strong><span style="color:#000000;">Die Erfolgs-Strategie der</span> <span style="color:#3366ff;">Affiliate-Millionäre<br /></span></strong></h1>
-<p> </p>
-<p>Bewerbe mein fast geschenktes eBook und erhalte <strong>50% Provision</strong> pro Sale, auch bei  Order Bump + Up- &amp; Downsells!</p>
-<p><span style="color:#ff0000;"><em><strong>Über 100€ Provision beim Upsell Durchlauf möglich!</strong></em> </span></p>
-<p> </p>
-<p><strong>Außerdem erwarten dich:</strong></p>
-<p><strong>✅ 2nd-Level-Provisionen,</strong> dank Partner-wirbt-Partner Progamm</p>
-<p><strong>✅ Wettbewerbe und Events</strong>, mit tollen Preisen, höheren Provisonen etc.</p>
-<p><strong>✅ hohe Verkaufschancen durch großen Mehrwert und lächerlich geringen Preis!</strong></p>
-<p><strong>✅ fertige Vorlagen und Werbemittel!</strong></p>
-<p> </p>
-<h2 style="text-align:left;"><span style="text-decoration:underline;"><strong>Vendor Sofort-Start Anleitung<br /></strong></span></h2>
-<p><strong>✔️ Nutze die geheime Strategie der Affiliate Millionäre!</strong></p>
-<p><strong>✔️ Schritt-für-Schritt Anleitung, mit der du ohne arbeiten Geld verdienst!</strong></p>
-<p><strong>✔️ Die besten Tools und Tricks, um schneller mehr Geld zu verdienen!</strong></p>
-<p><span style="background-color:#ffffff;color:#000000;"><strong>✔️ Der neuste US-Hack, um automatisch Geld zu verdienen, ohne Werbeanzeigen erstellen zu müssen!</strong></span></p>
-<p><span style="background-color:#ffffff;color:#000000;"><strong>✔️ Rechtliche Tipps für einen sauberen Start!</strong></span></p>
-<p> </p>
-<p><span style="background-color:#ffffff;color:#000000;">Deine Kunden werden begeistert sein, wie einfach man erfolgreich werden kann!</span></p>
-<p> </p>
-<p style="text-align:center;"><a href="https://www.digistore24.com/signup/452314,460665/" target="_blank" rel="noreferrer noopener"><span style="background-color:#ff0000;color:#ffffff;"><strong>Jetzt Partner werden!</strong></span></a></p>
-<h5 style="text-align:center;"> </h5>
+**Vendor's marketplace description:** Die Erfolgs-Strategie der Affiliate-Millionäre Bewerbe mein fast geschenktes eBook und erhalte 50% Provision pro Sale, auch bei Order Bump + Up- & Downsells! Über 100€ Provision beim Upsell Durchlauf möglich! Außerdem erwarten dich: ✅ 2nd-Level-Provisionen, dank Partner-wirbt-Partner Progamm ✅ Wettbewerbe und Events , mit tollen Preisen, höheren Provisonen etc. ✅ hohe Verkaufschancen durch großen Mehrwert und lächerlich geringen Preis! ✅ fertige Vorlagen und Werbemittel! Vendor Sofort-Start Anleitung ✔️ Nutze die geheime Strategie der Affiliate Millionäre! ✔️ Schritt-für-Schritt Anleitung, mit der du ohne arbeiten Geld verdienst! ✔️ Die besten Tools und Tricks, um schneller mehr Geld zu verdienen! ✔️ Der neuste US-Hack, um automatisch Geld zu verdienen, ohne Werbeanzeigen erstellen zu müssen! ✔️ Rechtliche Tipps für einen sauberen Start! Deine Kunden werden begeistert sein, wie einfach man erfolgreich werden kann! Jetzt Partner werden!
 
 ## 2. Links
 

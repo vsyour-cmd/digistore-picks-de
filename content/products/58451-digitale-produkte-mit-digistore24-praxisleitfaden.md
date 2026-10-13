@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Praxisorientiertes PDF-E-Book für Einsteiger, Selbstständige, Coaches, Berater und Content Creator.</strong></p>
-<p>Der Leitfaden erklärt verständlich, wie ein digitales Produkt mit Digistore24 eingerichtet und verkauft wird. Behandelt werden unter anderem:</p>
-<p> </p>
-<p>– Einrichtung des Digistore24-Kontos<br />– Vendor-, Affiliate- und Reseller-Modell<br />– Produktanlage und Preisgestaltung<br />– Zahlungspläne und Bestellformular<br />– digitale Produktauslieferung<br />– Testkauf und Qualitätskontrolle<br />– typische Fehler bei der Produkteinrichtung<br />– Grundlagen der Affiliate-Vermarktung<br />– praktische Checklisten zur Umsetzung</p>
-<p> </p>
-<p>Verkaufspreis: einmalig 59,00 € inkl. MwSt.<br />Affiliate-Provision: 50 %<br />Auslieferung: sofort als PDF-Download</p>
+**Vendor's marketplace description:** Praxisorientiertes PDF-E-Book für Einsteiger, Selbstständige, Coaches, Berater und Content Creator. Der Leitfaden erklärt verständlich, wie ein digitales Produkt mit Digistore24 eingerichtet und verkauft wird. Behandelt werden unter anderem: – Einrichtung des Digistore24-Kontos – Vendor-, Affiliate- und Reseller-Modell – Produktanlage und Preisgestaltung – Zahlungspläne und Bestellformular – digitale Produktauslieferung – Testkauf und Qualitätskontrolle – typische Fehler bei der Produkteinrichtung – Grundlagen der Affiliate-Vermarktung – praktische Checklisten zur Umsetzung Verkaufspreis: einmalig 59,00 € inkl. MwSt. Affiliate-Provision: 50 % Auslieferung: sofort als PDF-Download
 
 ## 2. Links
 

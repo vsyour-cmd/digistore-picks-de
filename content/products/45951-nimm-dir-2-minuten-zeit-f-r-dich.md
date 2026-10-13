@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p> </p>
-<p>Hallo Lieber Affiliate   <br />Wenn du mein Buch bewirbst, darfst du dich <strong>auf 70%</strong> <strong>Provision pro verkauftem Buch (Taschenbuch</strong>) freuen :-) ...und dann 50% an den Folgeverkäufen, da es sich um einen Funnel handelt.  </p>
-<p>Besuche über den Link gerne auch meine Affiliate Support Seite <a href="https://dejan-sekulic.com/partnerprogramm">https://dejan-sekulic.com/partnerprogramm</a><br />dort findest du jede Menge sehr gute und attraktive Werbemittel.  </p>
-<p>Zu jeder Zeit ist unser Support für dich per Mail erreichbar, zögere also nicht, uns bei Fragen und Unklarheiten zu kontaktieren.   <br /><br /><strong>Das bewirbst du:<br /><br /></strong>Dejan Sekulics Buch Nimm dir 2 Minuten Zeit - für DICH! </p>
-<p> </p>
-<h4><em><strong>Darauf dürfen sich deine Kundinnen und Kunden freuen:</strong></em></h4>
-<p><br />In diesem wunderbaren Buch erwarten den Leser herzergreifende und inspirierende Geschichten, die sein Leben bereichern werden. Schenke dir und deiner Seele täglich 2 Minuten deiner Zeit und tanke neue sowie aufbauende Energie!</p>
-<p> </p>
-<ul>
-<li>Hat auch dich dein Alltag ganz fest im Griff?</li>
-<li>Fühlst du dich manchmal überfordert, bist gestresst und rennst von Termin zu Termin?<br /><br /></li>
-</ul>
-<p>Dann gönne dir doch bitte jetzt eine kurze Auszeit!<br />Dieses Buch wird dich daran erinnern, was im Leben wirklich wichtig ist, und es wird dir dabei helfen, das Leben wieder zu genießen und wertzuschätzen. Es soll dich ein wenig wachrütteln und dir neue Sichtweisen vermitteln.</p>
-<p>Gleichzeitig soll es dich dabei unterstützen, die Herausforderungen des Alltags besser zu meistern. Nimm dir 2 Minuten Zeit - für DICH! - sei es DIR wert! </p>
+**Vendor's marketplace description:** Hallo Lieber Affiliate Wenn du mein Buch bewirbst, darfst du dich auf 70% Provision pro verkauftem Buch (Taschenbuch ) freuen :-) ...und dann 50% an den Folgeverkäufen, da es sich um einen Funnel handelt. Besuche über den Link gerne auch meine Affiliate Support Seite https://dejan-sekulic.com/partnerprogramm dort findest du jede Menge sehr gute und attraktive Werbemittel. Zu jeder Zeit ist unser Support für dich per Mail erreichbar, zögere also nicht, uns bei Fragen und Unklarheiten zu kontaktieren. Das bewirbst du: Dejan Sekulics Buch Nimm dir 2 Minuten Zeit - für DICH! Darauf dürfen sich deine Kundinnen und Kunden freuen: In diesem wunderbaren Buch erwarten den Leser herzergreifende und inspirierende Geschichten, die sein Leben bereichern werden. Schenke dir und deiner Seele täglich 2 Minuten deiner Zeit und tanke neue sowie aufbauende Energie! Hat auch dich dein Alltag ganz fest im Griff? Fühlst du dich manchmal überfordert, bist gestresst und rennst von Termin zu Termin? Dann gönne dir doch bitte jetzt eine kurze Auszeit! Dieses Buch wird dich daran erinnern, was im Leben wirklich wichtig ist, und es wird dir dabei helfen, das Leben wieder zu genießen und wertzuschätzen. Es soll dich ein wenig wachrütteln und dir neue Sichtweisen vermitteln. Gleichzeitig soll es dich dabei unterstützen, die Herausforderungen des Alltags besser zu meistern. Nimm dir 2 Minuten Zeit - für DICH! - sei es DIR wert!
 
 ## 2. Links
 

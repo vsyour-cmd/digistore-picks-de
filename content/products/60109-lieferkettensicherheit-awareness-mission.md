@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Interaktive, browserbasierte Cyber-Awareness-Mission zur Sicherheit in der Lieferkette. Teilnehmende trainieren Lieferantenprüfung, Zugriffssteuerung, Nachweisanforderungen, Eskalation und den Umgang mit Sicherheitsvorfällen bei Dienstleistern anhand realistischer Entscheidungssituationen. Start per Mission-Code, ohne persönliche Teilnehmerkonten und ohne Abo. Unternehmen erhalten ein nachvollziehbares Ergebnis und einen Teilnahme-Nachweis. 40 % Affiliate-Provision – beim 100er-Paket entspricht das nominal bis zu 79,60 € Provision pro Verkauf.</p>
+**Vendor's marketplace description:** Interaktive, browserbasierte Cyber-Awareness-Mission zur Sicherheit in der Lieferkette. Teilnehmende trainieren Lieferantenprüfung, Zugriffssteuerung, Nachweisanforderungen, Eskalation und den Umgang mit Sicherheitsvorfällen bei Dienstleistern anhand realistischer Entscheidungssituationen. Start per Mission-Code, ohne persönliche Teilnehmerkonten und ohne Abo. Unternehmen erhalten ein nachvollziehbares Ergebnis und einen Teilnahme-Nachweis. 40 % Affiliate-Provision – beim 100er-Paket entspricht das nominal bis zu 79,60 € Provision pro Verkauf.
 
 ## 2. Links
 

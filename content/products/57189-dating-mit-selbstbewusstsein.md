@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Dating mit Selbstbewusstsein“</strong></p>
-<p>Souverän auftreten, echt bleiben – Echtes Selbstbewusstsein ist lernbar. So trittst du souverän auf, bleibst du selbst – und ziehst genau damit an.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Was echtes Selbstbewusstsein ist</li>
-<li>Die Wurzeln deiner Unsicherheit erkennen</li>
-<li>Selbstbewusstsein von innen aufbauen</li>
-<li>Souverän auftreten: Körpersprache &amp; Stimme</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Dating mit Selbstbewusstsein“ Souverän auftreten, echt bleiben – Echtes Selbstbewusstsein ist lernbar. So trittst du souverän auf, bleibst du selbst – und ziehst genau damit an. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Was echtes Selbstbewusstsein ist Die Wurzeln deiner Unsicherheit erkennen Selbstbewusstsein von innen aufbauen Souverän auftreten: Körpersprache & Stimme
 
 ## 2. Links
 

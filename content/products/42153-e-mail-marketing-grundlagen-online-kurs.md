@@ -41,43 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Wir bauen die beste Online Marketing Community auf - und du kannst ein Teil davon sein!</p>
-<p><strong>Webpirat Membership Pass</strong></p>
-<p>Schenke deinen Kontakten den Zugang zu unzähligen Ressourcen, Tools und kostenfreien Online Kursen zum Thema Online Marketing.</p>
-<p><span style="background-color:#ff0000;color:#ffffff;">Zum Beispiel ist dieser E-Mail Marketing Grundlagen Online Kurs komplett kostenfrei im Mitgliederbereich erhältlich!</span></p>
-<p><strong>Wie sieht der Funnel aus?</strong></p>
-<ul>
-<li>Kostenfreie Mitgliedschaft (kein Abo, keine versteckten Kosten) im Frontend</li>
-<li>7€ Order-Bump (50% Provision)</li>
-<li>37€ Upsell 1 (50% Provision)</li>
-<li>197€ Upsell 2 (50% Provision)</li>
-<li>47€ Downsell (50% Provision)</li>
-</ul>
-<p><strong>Mögliche Provision pro Klick / Kunde</strong>:</p>
-<ul>
-<li>Insgesamt 144€ pro Klick / Kunde möglich</li>
-</ul>
-<p><strong>Was enthält die Webpirat Mitgliedschaft?</strong></p>
-<ul>
-<li>Kostenlose Online Kurse</li>
-<li>Kostenlose Webinare</li>
-<li>Kostenlose E-Books</li>
-<li>Kostenlose Tutorials</li>
-<li>Kostenlose Tools für Online Marketer</li>
-<li>Listen mit exklusiven Affiliate-Netzwerken und Partnerprogrammen</li>
-<li>Kostenloses Forum</li>
-<li><strong>Wöchentliche Updates</strong> mit weiteren kostenfreien Ressourcen für dein Online Business</li>
-<li>Exklusiver VIP Newsletter (Jederzeit widerrufbar)</li>
-<li>Und vieles mehr...</li>
-</ul>
-<p><strong>Zielgruppe</strong>:</p>
-<ul>
-<li>Unternehmer</li>
-<li>Selbstständige</li>
-<li>Affiliates</li>
-<li>Coaches</li>
-<li>(Jeder der Online Geld verdienen möchte)</li>
-</ul>
+**Vendor's marketplace description:** Wir bauen die beste Online Marketing Community auf - und du kannst ein Teil davon sein! Webpirat Membership Pass Schenke deinen Kontakten den Zugang zu unzähligen Ressourcen, Tools und kostenfreien Online Kursen zum Thema Online Marketing. Zum Beispiel ist dieser E-Mail Marketing Grundlagen Online Kurs komplett kostenfrei im Mitgliederbereich erhältlich! Wie sieht der Funnel aus? Kostenfreie Mitgliedschaft (kein Abo, keine versteckten Kosten) im Frontend 7€ Order-Bump (50% Provision) 37€ Upsell 1 (50% Provision) 197€ Upsell 2 (50% Provision) 47€ Downsell (50% Provision) Mögliche Provision pro Klick / Kunde : Insgesamt 144€ pro Klick / Kunde möglich Was enthält die Webpirat Mitgliedschaft? Kostenlose Online Kurse Kostenlose Webinare Kostenlose E-Books Kostenlose Tutorials Kostenlose Tools für Online Marketer Listen mit exklusiven Affiliate-Netzwerken und Partnerprogrammen Kostenloses Forum Wöchentliche Updates mit weiteren kostenfreien Ressourcen für dein Online Business Exklusiver VIP Newsletter (Jederzeit widerrufbar) Und vieles mehr... Zielgruppe : Unternehmer Selbstständige Affiliates Coaches (Jeder der Online Geld verdienen möchte)
 
 ## 2. Links
 

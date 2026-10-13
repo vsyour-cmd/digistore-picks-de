@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>DAS MENTORING ZU DEINEM ERFOLG ALS MANN:</strong></p>
-<p> </p>
-<p>Exklusiver 1:1 Zugang zu mir als Coach</p>
-<p>Starte Jetzt! Dieser Preis gilt nur für kurze Zeit!</p>
-<p> </p>
-<p><strong>STARTE DEINE TRANSFORMATION:</strong></p>
-<p> </p>
-<p>Lerne, wie du deinen emotionalen Druck löst.</p>
-<p>Etabliere eine  glasklare Macher-Mentalität.</p>
-<p>Steigere dein Testosteron und Dominanz.</p>
-<p>Finde deinen Nordstern und deine Mission als Mann.</p>
-<p>Lerne, wie man mit Frauen spricht und sie anzieht.</p>
-<p> </p>
-<p>Sofortiger Zugriff auf alle Inhalte, Live-Calls &amp; Aufzeichnungen</p>
-<p>Schritt für Schritt Fahrplan für deinen Erfolg</p>
-<p>24/7 an deiner Seite, um dich nach vorn zu bringen</p>
-<p>2x Live Calls die Woche in denen alle deine Fragen beantwortet werden. Die Live-Calls werden aufgezeichnet und zur Verfügung gestellt. So kannst du nichts verpassen.</p>
+**Vendor's marketplace description:** DAS MENTORING ZU DEINEM ERFOLG ALS MANN: Exklusiver 1:1 Zugang zu mir als Coach Starte Jetzt! Dieser Preis gilt nur für kurze Zeit! STARTE DEINE TRANSFORMATION: Lerne, wie du deinen emotionalen Druck löst. Etabliere eine glasklare Macher-Mentalität. Steigere dein Testosteron und Dominanz. Finde deinen Nordstern und deine Mission als Mann. Lerne, wie man mit Frauen spricht und sie anzieht. Sofortiger Zugriff auf alle Inhalte, Live-Calls & Aufzeichnungen Schritt für Schritt Fahrplan für deinen Erfolg 24/7 an deiner Seite, um dich nach vorn zu bringen 2x Live Calls die Woche in denen alle deine Fragen beantwortet werden. Die Live-Calls werden aufgezeichnet und zur Verfügung gestellt. So kannst du nichts verpassen.
 
 ## 2. Links
 

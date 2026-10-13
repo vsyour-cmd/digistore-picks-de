@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>So wird aus Lesen echte Hilfe vor Ort!</strong></p>
-<p><strong>Im Guide erfahren Sie:</strong></p>
-<ul>
-<li>
-<p>Warum Tierschutz heute wichtiger ist den je</p>
-</li>
-<li>
-<p>Was wirklich im Tierschutzalltag so passiert</p>
-</li>
-<li>
-<p>Die 5 größten Irrtümer über Spenden</p>
-</li>
-<li>
-<p>Warum regelmäßige Hilfe mehr bewirkt als Einmalaktionen</p>
-</li>
-<li>
-<p>7 einfache Schritte, mit denen Sie heute starten können</p>
-</li>
-</ul>
-<p><strong>Enthalten:</strong></p>
-<ul>
-<li>
-<p>PDF-Guide (ca. 10 Min. Lesezeit)</p>
-</li>
-</ul>
+**Vendor's marketplace description:** So wird aus Lesen echte Hilfe vor Ort! Im Guide erfahren Sie: Warum Tierschutz heute wichtiger ist den je Was wirklich im Tierschutzalltag so passiert Die 5 größten Irrtümer über Spenden Warum regelmäßige Hilfe mehr bewirkt als Einmalaktionen 7 einfache Schritte, mit denen Sie heute starten können Enthalten: PDF-Guide (ca. 10 Min. Lesezeit)
 
 ## 2. Links
 

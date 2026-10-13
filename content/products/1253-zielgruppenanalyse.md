@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit der Zielgruppenanalyse finden Sie heraus, wie Ihre Zielgruppe tickt..</p>
-<p>Sie sind in der Lage</p>
-<ul>
-<li>Ihre Zielgruppe zu definieren</li>
-<li>in die Denkweise Ihrer Zielgruppe einzudringen</li>
-<li>die Größe Ihrer Zielgruppe zu bestimmen</li>
-<li>sich Ihren Idealkunden vorzustellen</li>
-</ul>
-<p>Die Zielgruppenanalyse kommt vor dem Verkauf. Mit der Zielgruppenanalyse stimmen Sie sich auf Ihren Kunden ein. Sie bereiten Ihr Verkaufsgespräch menschenezogen und nicht produktbezogen vor.</p>
-<p><span style="background-color:#ffff00;"><strong>Sprechen Sie mit der Zielgruppenanalyse folgende Interessenten an:</strong></span></p>
-<ul>
-<li>Verkäufer</li>
-<li>Web-Shop Inhaber</li>
-<li>Vereinsvorstände</li>
-<li>Coaches</li>
-<li>Führungskräfte im Network</li>
-<li>ebook Verkäufer in Nischen</li>
-<li>Nischenanbieter</li>
-<li>Vertriebler</li>
-<li>Außendienstmitarbeiter</li>
-</ul>
+**Vendor's marketplace description:** Mit der Zielgruppenanalyse finden Sie heraus, wie Ihre Zielgruppe tickt.. Sie sind in der Lage Ihre Zielgruppe zu definieren in die Denkweise Ihrer Zielgruppe einzudringen die Größe Ihrer Zielgruppe zu bestimmen sich Ihren Idealkunden vorzustellen Die Zielgruppenanalyse kommt vor dem Verkauf. Mit der Zielgruppenanalyse stimmen Sie sich auf Ihren Kunden ein. Sie bereiten Ihr Verkaufsgespräch menschenezogen und nicht produktbezogen vor. Sprechen Sie mit der Zielgruppenanalyse folgende Interessenten an: Verkäufer Web-Shop Inhaber Vereinsvorstände Coaches Führungskräfte im Network ebook Verkäufer in Nischen Nischenanbieter Vertriebler Außendienstmitarbeiter
 
 ## 2. Links
 

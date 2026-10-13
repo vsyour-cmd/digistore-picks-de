@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Nachfolgend ein kleiner Textauszug zum Onlineprogramm:</strong></p>
-<p><em>"EINFACH SCHLANK ist mehr als nur ein Abnehmprogramm. EINFACH SCHLANK ist die gezielte Ernährungsumstellung für deinen gesünderen Neustart! In diesem Onlinekurs lernst du Schritt für Schritt wie du<strong> in nur 8 Wochen</strong> deine Ernährung effektiv umstellen und ohne Verzicht und miese Laune <strong>deine Wunschfigur</strong> erreichen kannst.</em></p>
-<p><em>In <strong>8 Modulen</strong> lernst du alles, was du wissen musst, um dich gesünder zu ernähren, einfach abzunehmen und dauerhaft schlank zu bleiben.</em></p>
-<p><em>Jedes Modul besteht aus <strong>Videos</strong> und enthält Aufgaben im <strong>Workbook</strong>, die ganz wesentlich zu deinem Erfolg beitragen.</em></p>
-<p><em>Zusätzlich erhältst du jede Menge <strong>Freebies</strong> zum Ausdrucken sowie ein <strong>Cookbook</strong> mit gesunden, schnellen und vor allem genussvollen Rezepten!</em></p>
-<p><em>In meinem <strong>Einzelseminar</strong> und mit meinem <strong>Premium Support</strong> begleite ich dich auf deinem Weg zu deiner Wunschfigur."</em></p>
+**Vendor's marketplace description:** Nachfolgend ein kleiner Textauszug zum Onlineprogramm: "EINFACH SCHLANK ist mehr als nur ein Abnehmprogramm. EINFACH SCHLANK ist die gezielte Ernährungsumstellung für deinen gesünderen Neustart! In diesem Onlinekurs lernst du Schritt für Schritt wie du in nur 8 Wochen deine Ernährung effektiv umstellen und ohne Verzicht und miese Laune deine Wunschfigur erreichen kannst. In 8 Modulen lernst du alles, was du wissen musst, um dich gesünder zu ernähren, einfach abzunehmen und dauerhaft schlank zu bleiben. Jedes Modul besteht aus Videos und enthält Aufgaben im Workbook , die ganz wesentlich zu deinem Erfolg beitragen. Zusätzlich erhältst du jede Menge Freebies zum Ausdrucken sowie ein Cookbook mit gesunden, schnellen und vor allem genussvollen Rezepten! In meinem Einzelseminar und mit meinem Premium Support begleite ich dich auf deinem Weg zu deiner Wunschfigur."
 
 ## 2. Links
 

@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p> <strong>„Beckenboden-ONLINE“ Kurs für Frauen von spezialisierter Physiotherapeutin</strong></p>
-<p><strong>Gesundheitskurs *<span style="background-color:#ff99cc;">10 teiliger Online-Kurs </span></strong><strong>zeitlich flexibel</strong></p>
-<p><strong>Prävention,</strong> aber auch <span style="background-color:#ff99cc;"><strong>"after baby"</strong></span>, bei leichter <strong>Inkontinenz,</strong> bei Senkungen, in den <span style="background-color:#ff99cc;"><strong>Wechseljahren</strong></span>.     Stärkt die „Mitte“, fördert die Weiblichkeit.</p>
-<p><strong>Deine Vorteile:</strong> --&gt; Provisionen von <strong>10%</strong> für alle Produkte im Bereich ONLINE-Kurse</p>
-<p>--&gt; Garantiert etwas für deine Kunden dabei: In vielen<strong> Nischen</strong> aktiv (z.B Gesundheit, Prophylaxe, Physiotherapie, Naturheilkunde, Beckenbodentherapie, Entspannung, Aromatherapie, Bewusstsein, Fitness, Prävention etc.)</p>
-<p>--&gt; <strong>Getestet und optimiert:</strong> Bereits über 25 Jahren mit 1000en Patienten in der Praxis in Präventionskursen und durchgeführt.</p>
-<p>Du erhältst <strong>Provisionen</strong> <strong>für jeden verkauften Kurs, der über deine Empfehlung zustande kommt.</strong></p>
-<p>Melde dich jetzt als Affiliate an und baue dir ein passives Einkommen auf.</p>
-<p>Auf eine erfolgreiche Aktion!</p>
-<p>Beste Grüße</p>
-<p>Silke Tiede</p>
-<p>Bei Fragen erreichst du mich hier: https://physiotherapie-rostock.de/</p>
+**Vendor's marketplace description:** „Beckenboden-ONLINE“ Kurs für Frauen von spezialisierter Physiotherapeutin Gesundheitskurs * 10 teiliger Online-Kurs zeitlich flexibel Prävention, aber auch "after baby" , bei leichter Inkontinenz, bei Senkungen, in den Wechseljahren . Stärkt die „Mitte“, fördert die Weiblichkeit. Deine Vorteile: --> Provisionen von 10% für alle Produkte im Bereich ONLINE-Kurse --> Garantiert etwas für deine Kunden dabei: In vielen Nischen aktiv (z.B Gesundheit, Prophylaxe, Physiotherapie, Naturheilkunde, Beckenbodentherapie, Entspannung, Aromatherapie, Bewusstsein, Fitness, Prävention etc.) --> Getestet und optimiert: Bereits über 25 Jahren mit 1000en Patienten in der Praxis in Präventionskursen und durchgeführt. Du erhältst Provisionen für jeden verkauften Kurs, der über deine Empfehlung zustande kommt. Melde dich jetzt als Affiliate an und baue dir ein passives Einkommen auf. Auf eine erfolgreiche Aktion! Beste Grüße Silke Tiede Bei Fragen erreichst du mich hier: https://physiotherapie-rostock.de/
 
 ## 2. Links
 

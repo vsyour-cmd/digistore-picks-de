@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Von null zur aktiven Seite mit echten Fans und ersten Erfolgen</strong></p>
-<p>Du hast eine Idee, ein Hobby oder ein kleines Projekt – und willst endlich auf Facebook sichtbar werden. Aber wo fängst du an, wie funktioniert der Algorithmus und warum reagiert niemand auf deine Beiträge? Dieses E-Book nimmt dich an die Hand: vom Einrichten deiner Seite über die ersten Beiträge bis zu deinen ersten echten Fans. Du lernst, was Facebook heute wirklich ausspielt – nämlich Inhalte, die echte Diskussionen, Kommentare und Shares auslösen, nicht nur Likes. Du entdeckst, wie Reels auch kleine Seiten in die Reichweite pushen, warum Gruppen der stärkste Hebel für organisches Wachstum sind und wie du mit einem einfachen Redaktionsplan kontinuierlich präsent bleibst. Kein Technik-Frust, kein Rätselraten – sondern ein klarer Fahrplan, den du heute noch umsetzen kannst.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Deine Facebook-Seite professionell einrichten und optimieren</li>
-<li>Den Algorithmus verstehen: Kommentare &amp; Shares &gt; Likes</li>
-<li>Reels als Wachstumstreiber – auch für kleine Seiten</li>
-<li>Deine erste Facebook-Gruppe starten und richtig nutzen</li>
-<li>Beitragsformate, die Diskussionen auslösen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Von null zur aktiven Seite mit echten Fans und ersten Erfolgen Du hast eine Idee, ein Hobby oder ein kleines Projekt – und willst endlich auf Facebook sichtbar werden. Aber wo fängst du an, wie funktioniert der Algorithmus und warum reagiert niemand auf deine Beiträge? Dieses E-Book nimmt dich an die Hand: vom Einrichten deiner Seite über die ersten Beiträge bis zu deinen ersten echten Fans. Du lernst, was Facebook heute wirklich ausspielt – nämlich Inhalte, die echte Diskussionen, Kommentare und Shares auslösen, nicht nur Likes. Du entdeckst, wie Reels auch kleine Seiten in die Reichweite pushen, warum Gruppen der stärkste Hebel für organisches Wachstum sind und wie du mit einem einfachen Redaktionsplan kontinuierlich präsent bleibst. Kein Technik-Frust, kein Rätselraten – sondern ein klarer Fahrplan, den du heute noch umsetzen kannst. Das steckt drin: Deine Facebook-Seite professionell einrichten und optimieren Den Algorithmus verstehen: Kommentare & Shares > Likes Reels als Wachstumstreiber – auch für kleine Seiten Deine erste Facebook-Gruppe starten und richtig nutzen Beitragsformate, die Diskussionen auslösen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

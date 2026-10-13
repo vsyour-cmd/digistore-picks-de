@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><span style="color:#ff0000;">BRANDNEU</span></strong></p>
-<p><strong>Verschenke die 5 Schritte Formel und erhalte 50% Provision auf alle Up &amp; Downsells.</strong></p>
-<p><strong>Auf der Partnerseite ist für dich alles vorbereitet. E-Mail Vorlagen, Social Media Texte,...</strong></p>
-<ul>
-<li>Die 5 Schritte Formel beinhaltet folgendes</li>
-<li>5 einfache Schritte zum profitablen Business</li>
-<li>Wie man ohne Produkt rasch passives Einkommen aufbaut</li>
-<li>Die 4 größten Fehlannahmen im Online Business</li>
-<li>Perfekt für jeden, der Online Geld verdienen möchte</li>
-</ul>
-<h4>Im Funnel sind 73€ Provision für dich möglich</h4>
-<p><a href="https://page.funnelcockpit.com/dr8gdt7EPZY9QHZCc" target="_blank" rel="noreferrer noopener">Zu den Werbemitteln &lt;&lt; klick</a></p>
+**Vendor's marketplace description:** BRANDNEU Verschenke die 5 Schritte Formel und erhalte 50% Provision auf alle Up & Downsells. Auf der Partnerseite ist für dich alles vorbereitet. E-Mail Vorlagen, Social Media Texte,... Die 5 Schritte Formel beinhaltet folgendes 5 einfache Schritte zum profitablen Business Wie man ohne Produkt rasch passives Einkommen aufbaut Die 4 größten Fehlannahmen im Online Business Perfekt für jeden, der Online Geld verdienen möchte Im Funnel sind 73€ Provision für dich möglich Zu den Werbemitteln << klick
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Baue dein Online-Business rasch und profitabel auf - ohne technisches Vorwissen, ohne stundenlange Recherche und ohne das Rad neu erfinden zu müssen.</p>
-<p>Zu diesem E-Book-Bundle erhältst du zusätzlich eine <strong>PLR-Lizenz</strong>, um jedes E-Book auch als dein eigenes Produkt weiterverkaufen zu können.</p>
-<p>Dazu erhältst du ein fertiges Canva-Template, indem du das Produkt nach belieben anpassen kannst.</p>
+**Vendor's marketplace description:** Baue dein Online-Business rasch und profitabel auf - ohne technisches Vorwissen, ohne stundenlange Recherche und ohne das Rad neu erfinden zu müssen. Zu diesem E-Book-Bundle erhältst du zusätzlich eine PLR-Lizenz , um jedes E-Book auch als dein eigenes Produkt weiterverkaufen zu können. Dazu erhältst du ein fertiges Canva-Template, indem du das Produkt nach belieben anpassen kannst.
 
 ## 2. Links
 

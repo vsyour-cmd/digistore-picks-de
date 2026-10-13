@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Abnehmen für Anfänger – Das 12-Wochen-System</strong> ist ein praxisnaher digitaler Kurs für Menschen, die Schritt für Schritt gesündere Gewohnheiten aufbauen und ihr Gewicht langfristig verbessern möchten.</p>
-<p>Das Produkt richtet sich an <strong>Frauen und Männer</strong>, die ohne Crash-Diäten, ohne komplizierte Regeln und ohne Überforderung starten wollen.</p>
-<h3>Das erwartet den Käufer:</h3>
-<ul>
-<li>12 strukturierte Wochen mit klaren Themen</li>
-<li>Frühstück-, Mittag- und Abendessen-Ideen</li>
-<li>Bewegungsseiten für den Alltag</li>
-<li>Checklisten und praktische Zusatzseiten</li>
-<li>Bonusmaterialien zum Ausfüllen und Mitmachen</li>
-<li>alltagstaugliche Tipps für langfristige Veränderungen</li>
-</ul>
-<h3>Vorteile für den Käufer:</h3>
-<ul>
-<li>leichter Einstieg in gesündere Ernährung</li>
-<li>einfache Umsetzung im Alltag</li>
-<li>klare Struktur statt Chaos</li>
-<li>motivierende Aufgaben und Vorlagen</li>
-<li>geeignet für Anfänger</li>
-</ul>
-<h3>Enthalten:</h3>
-<ul>
-<li>kompletter 12-Wochen-Kurs</li>
-<li>Bonusseiten und Tracker</li>
-<li>Einkaufslisten und Vorlagen</li>
-<li>Abschlussseite</li>
-</ul>
+**Vendor's marketplace description:** Abnehmen für Anfänger – Das 12-Wochen-System ist ein praxisnaher digitaler Kurs für Menschen, die Schritt für Schritt gesündere Gewohnheiten aufbauen und ihr Gewicht langfristig verbessern möchten. Das Produkt richtet sich an Frauen und Männer , die ohne Crash-Diäten, ohne komplizierte Regeln und ohne Überforderung starten wollen. Das erwartet den Käufer: 12 strukturierte Wochen mit klaren Themen Frühstück-, Mittag- und Abendessen-Ideen Bewegungsseiten für den Alltag Checklisten und praktische Zusatzseiten Bonusmaterialien zum Ausfüllen und Mitmachen alltagstaugliche Tipps für langfristige Veränderungen Vorteile für den Käufer: leichter Einstieg in gesündere Ernährung einfache Umsetzung im Alltag klare Struktur statt Chaos motivierende Aufgaben und Vorlagen geeignet für Anfänger Enthalten: kompletter 12-Wochen-Kurs Bonusseiten und Tracker Einkaufslisten und Vorlagen Abschlussseite
 
 ## 2. Links
 

@@ -41,45 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Der Patient als Geschäftsmodell</h2>
-<h3>Wie Konzerne, Lobbyismus und Profitinteressen unsere Gesundheit beeinflussen</h3>
-<p><strong>Gesundheit ist längst mehr als Heilung geworden.</strong><br />Sie ist Milliardenmarkt, Machtfaktor, Datenquelle und Zukunftsindustrie zugleich.</p>
-<p>Doch was bedeutet das eigentlich für den Menschen?</p>
-<p>Warum nehmen chronische Erkrankungen trotz modernster Medizin weiter zu?<br />Warum fühlen sich viele Menschen trotz medizinischen Fortschritts zunehmend verunsichert?<br />Und welche Rolle spielen Pharmaindustrie, Politik, Krankenkassen, Lobbyismus, KI und wirtschaftliche Interessen innerhalb moderner Gesundheitssysteme?</p>
-<p>In <em>Der Patient als Geschäftsmodell</em> analysiert Lukas Valeon kritisch, tiefgründig und gesellschaftlich hochaktuell die Entwicklung moderner Medizin zwischen Fortschritt, Profit, Kontrolle und wachsender Skepsis.</p>
-<p>Dieses Buch beleuchtet unter anderem:</p>
-<ul>
-<li>die wirtschaftliche Macht der Pharmaindustrie</li>
-<li>chronische Erkrankungen und Dauertherapien</li>
-<li>Lobbyismus und politische Einflussnahme</li>
-<li>Ärzte zwischen Ethik und Systemdruck</li>
-<li>KI, Genetik und digitale Gesundheitsüberwachung</li>
-<li>Biohacking, Longevity und Selbstoptimierung</li>
-<li>Prävention, Ernährung und Stoffwechselmedizin</li>
-<li>die Frage nach echter Heilung oder dem perfekten Dauerpatienten</li>
-</ul>
-<p>Dabei geht es nicht um pauschale Schuldzuweisungen oder Verschwörungserzählungen – sondern um unbequeme Fragen, die immer mehr Menschen beschäftigen.</p>
-<p>Ein provokantes, modernes und gleichzeitig sachliches Buch über die Zukunft unserer Gesundheit und die zentrale Frage:</p>
-<h3>Dient Medizin noch in erster Linie dem Menschen – oder zunehmend einem System aus Profit, Kontrolle und wirtschaftlichen Interessen?</h3>
-<p> </p>
-<p> </p>
-<h3>Gesundheit ist zum Milliardenmarkt geworden.</h3>
-<p>Warum steigen chronische Erkrankungen trotz modernster Medizin?<br />Weshalb wächst die Skepsis gegenüber Pharmaindustrie, Politik und Gesundheitssystemen?<br />Und wer profitiert eigentlich wirklich von Krankheit?</p>
-<p><em>Der Patient als Geschäftsmodell</em> wirft einen kritischen, spannenden und hochaktuellen Blick hinter die Kulissen moderner Medizin.</p>
-<p>Ein Buch über:<br />✔ Pharmaindustrie<br />✔ Lobbyismus<br />✔ KI &amp; Gesundheitsdaten<br />✔ Dauertherapien<br />✔ Prävention &amp; Selbstoptimierung<br />✔ Die Zukunft unserer Gesundheit</p>
-<p> </p>
-<h1>Ihre Vorteile als Affiliate:</h1>
-<p>• Starkes, gesellschaftlich hochaktuelles Gesundheitsthema<br />• Hohe Aufmerksamkeit durch kontroverse und emotionale Inhalte<br />• Große Zielgruppe im Bereich Gesundheit, Prävention &amp; Gesellschaft<br />• Ideal für Social Media, Content-Marketing und Diskussionen<br />• Perfekt für Zielgruppen rund um Medizin, Ernährung, KI &amp; Gesundheitsaufklärung<br />• Verständlich, spannend und provokant geschrieben<br />• Hohe Relevanz durch aktuelle Debatten über Pharmaindustrie, Gesundheitssysteme und Digitalisierung</p>
-<p>Gesundheit gehört zu den stärksten und dauerhaft gefragtesten Themen überhaupt – besonders dann, wenn Menschen beginnen, moderne Gesundheitssysteme kritisch zu hinterfragen.</p>
-<p>Genau darin liegt das enorme Potenzial dieses Produkts.</p>
-<p><em>Der Patient als Geschäftsmodell</em> richtet sich an gesundheitsbewusste Menschen, Leser gesellschaftskritischer Sachbücher, Interessierte an Prävention, Medizin, Ernährung, Biohacking, Stoffwechselmedizin sowie an Menschen, die sich intensiver mit den Entwicklungen moderner Gesundheitssysteme beschäftigen möchten.</p>
-<p>Das Buch verbindet gesellschaftliche Analyse, medizinische Entwicklungen, wirtschaftliche Zusammenhänge und aktuelle Zukunftsthemen wie KI, personalisierte Medizin und digitale Gesundheitsüberwachung zu einem spannenden Gesamtbild unserer Zeit.</p>
-<p>Dabei bleibt das Buch verständlich geschrieben, emotional greifbar und gleichzeitig sachlich genug für eine breite Zielgruppe.</p>
-<p><em>Der Patient als Geschäftsmodell</em> trifft genau den Nerv aktueller gesellschaftlicher Diskussionen rund um Gesundheit, Vertrauen, Profitinteressen und die Zukunft der Medizin.</p>
-<p> </p>
-<p> </p>
-<h1>Affiliate-Materialien &amp; Provisionsübersicht</h1>
-<p><a title="Affiliate-Materialien &amp; Provisionsübersicht" href="https://sites.google.com/view/persofit/affiliate-support-seite/affiliate-materialien" target="_blank" rel="noreferrer noopener">https://sites.google.com/view/persofit/affiliate-support-seite/affiliate-materialien</a></p>
+**Vendor's marketplace description:** Der Patient als Geschäftsmodell Wie Konzerne, Lobbyismus und Profitinteressen unsere Gesundheit beeinflussen Gesundheit ist längst mehr als Heilung geworden. Sie ist Milliardenmarkt, Machtfaktor, Datenquelle und Zukunftsindustrie zugleich. Doch was bedeutet das eigentlich für den Menschen? Warum nehmen chronische Erkrankungen trotz modernster Medizin weiter zu? Warum fühlen sich viele Menschen trotz medizinischen Fortschritts zunehmend verunsichert? Und welche Rolle spielen Pharmaindustrie, Politik, Krankenkassen, Lobbyismus, KI und wirtschaftliche Interessen innerhalb moderner Gesundheitssysteme? In Der Patient als Geschäftsmodell analysiert Lukas Valeon kritisch, tiefgründig und gesellschaftlich hochaktuell die Entwicklung moderner Medizin zwischen Fortschritt, Profit, Kontrolle und wachsender Skepsis. Dieses Buch beleuchtet unter anderem: die wirtschaftliche Macht der Pharmaindustrie chronische Erkrankungen und Dauertherapien Lobbyismus und politische Einflussnahme Ärzte zwischen Ethik und Systemdruck KI, Genetik und digitale Gesundheitsüberwachung Biohacking, Longevity und Selbstoptimierung Prävention, Ernährung und Stoffwechselmedizin die Frage nach echter Heilung oder dem perfekten Dauerpatienten Dabei geht es nicht um pauschale Schuldzuweisungen oder Verschwörungserzählungen – sondern um unbequeme Fragen, die immer mehr Menschen beschäftigen. Ein provokantes, modernes und gleichzeitig sachliches Buch über die Zukunft unserer Gesundheit und die zentrale Frage: Dient Medizin noch in erster Linie dem Menschen – oder zunehmend einem System aus Profit, Kontrolle und wirtschaftlichen Interessen? Gesundheit ist zum Milliardenmarkt geworden. Warum steigen chronische Erkrankungen trotz modernster Medizin? Weshalb wächst die Skepsis gegenüber Pharmaindustrie, Politik und Gesundheitssystemen? Und wer profitiert eigentlich wirklich von Krankheit? Der Patient als Geschäftsmodell wirft einen kritischen, spannenden und hochaktuellen Blick hinter die Kulissen moderner Medizin. Ein Buch über: ✔ Pharmaindustrie ✔ Lobbyismus ✔ KI & Gesundheitsdaten ✔ Dauertherapien ✔ Prävention & Selbstoptimierung ✔ Die Zukunft unserer Gesundheit Ihre Vorteile als Affiliate: • Starkes, gesellschaftlich hochaktuelles Gesundheitsthema • Hohe Aufmerksamkeit durch kontroverse und emotionale Inhalte • Große Zielgruppe im Bereich Gesundheit, Prävention & Gesellschaft • Ideal für Social Media, Content-Marketing und Diskussionen • Perfekt für Zielgruppen rund um Medizin, Ernährung, KI & Gesundheitsaufklärung • Verständlich, spannend und provokant geschrieben • Hohe Relevanz durch aktuelle Debatten über Pharmaindustrie, Gesundheitssysteme und Digitalisierung Gesundheit gehört zu den stärksten und dauerhaft gefragtesten Themen überhaupt – besonders dann, wenn Menschen beginnen, moderne Gesundheitssysteme kritisch zu hinterfragen. Genau darin liegt das enorme Potenzial dieses Produkts. Der Patient als Geschäftsmodell richtet sich an gesundheitsbewusste Menschen, Leser gesellschaftskritischer Sachbücher, Interessierte an Prävention, Medizin, Ernährung, Biohacking, Stoffwechselmedizin sowie an Menschen, die sich intensiver mit den Entwicklungen moderner Gesundheitssysteme beschäftigen möchten. Das Buch verbindet gesellschaftliche Analyse, medizinische Entwicklungen, wirtschaftliche Zusammenhänge und aktuelle Zukunftsthemen wie KI, personalisierte Medizin und digitale Gesundheitsüberwachung zu einem spannenden Gesamtbild unserer Zeit. Dabei bleibt das Buch verständlich geschrieben, emotional greifbar und gleichzeitig sachlich genug für eine breite Zielgruppe. Der Patient als Geschäftsmodell trifft genau den Nerv aktueller gesellschaftlicher Diskussionen rund um Gesundheit, Vertrauen, Profitinteressen und die Zukunft der Medizin. Affiliate-Materialien & Provisionsübersicht https://sites.google.com/view/persofit/affiliate-support-seite/affiliate-materialien
 
 ## 2. Links
 

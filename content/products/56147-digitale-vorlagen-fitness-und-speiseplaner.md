@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Willkommen im Affiliate-Programm!</strong></p>
-<p>Glückwunsch – du bist jetzt offiziell Affiliate und kannst sofort starten!</p>
-<p>Deine Zugangsdaten wurden dir soeben angezeigt und zusätzlich per E-Mail zugeschickt. Bitte speichere diese sicher ab.</p>
-<h3><strong>Deine nächsten Schritte:</strong></h3>
-<ol>
-<li><strong>Einloggen:</strong><br />Melde dich in deinem Affiliate-Bereich an und verschaffe dir einen Überblick.</li>
-<li><strong>Werbemittel nutzen:</strong><br />Dort findest du bereits fertige <strong>Werbetexte, Promolinks und Materialien</strong>, die du direkt verwenden kannst.</li>
-<li><strong>Deinen persönlichen Affiliate-Link verwenden:</strong><br />Nutze ausschließlich deinen individuellen Link, damit alle Verkäufe korrekt dir zugeordnet werden.</li>
-</ol>
-<h3><strong>Tipps für mehr Erfolg:</strong></h3>
-<ul>
-<li>Teile den Planer auf <strong>Instagram, TikTok oder Pinterest</strong></li>
-<li>Nutze emotionale Storys und echte Probleme (z. B. „Geld am Monatsende weg“)</li>
-<li>Zeige konkrete Ergebnisse oder Vorteile</li>
-</ul>
-<h3><strong>Weitere Infos &amp; Unterstützung, Fragen ?</strong></h3>
-<p>Wenn du Unterstützung brauchst, melde dich jederzeit – wir helfen dir gerne weiter!</p>
-<p>E-mail:mkshopon25@gmail.com</p>
-<p><strong>Starte jetzt und verdiene  20% Provision mit jedem Verkauf!</strong></p>
+**Vendor's marketplace description:** Willkommen im Affiliate-Programm! Glückwunsch – du bist jetzt offiziell Affiliate und kannst sofort starten! Deine Zugangsdaten wurden dir soeben angezeigt und zusätzlich per E-Mail zugeschickt. Bitte speichere diese sicher ab. Deine nächsten Schritte: Einloggen: Melde dich in deinem Affiliate-Bereich an und verschaffe dir einen Überblick. Werbemittel nutzen: Dort findest du bereits fertige Werbetexte, Promolinks und Materialien , die du direkt verwenden kannst. Deinen persönlichen Affiliate-Link verwenden: Nutze ausschließlich deinen individuellen Link, damit alle Verkäufe korrekt dir zugeordnet werden. Tipps für mehr Erfolg: Teile den Planer auf Instagram, TikTok oder Pinterest Nutze emotionale Storys und echte Probleme (z. B. „Geld am Monatsende weg“) Zeige konkrete Ergebnisse oder Vorteile Weitere Infos & Unterstützung, Fragen ? Wenn du Unterstützung brauchst, melde dich jederzeit – wir helfen dir gerne weiter! E-mail:mkshopon25@gmail.com Starte jetzt und verdiene 20% Provision mit jedem Verkauf!
 
 ## 2. Links
 

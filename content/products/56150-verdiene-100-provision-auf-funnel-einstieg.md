@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du erhältst 100% Provision auf jede erfolgreiche Empfehlung dieses 7€ Einstiegprodukts.</p>
-<p>Das Produkt ist einfach zu bewerben, leicht verständlich und trifft genau den Punkt, an dem viele Einsteiger feststecken.</p>
-<p>Durch den niedrigen Preis ist die Einstiegshürde minimal, was zu einer hohen Conversion führt.</p>
-<p>Zusätzlich profitierst du automatisch von weiteren Käufen im Mitgliederbereich, wenn dein Kunde zusätzliche Produkte nutzt.</p>
-<hr />
-<p>Easy Membership Kickstart zeigt Einsteigern Schritt für Schritt, wie sie ihre eigene Membership aufbauen und ihr erstes digitales Produkt online bringen.</p>
-<p>Der Fokus liegt auf Umsetzung statt Theorie.</p>
-<p>Die Nutzer erstellen ihren eigenen Mitgliederbereich, bauen ihren ersten Kurs auf und bringen alles an einen Ort, statt sich weiter zu verzetteln.</p>
-<p>Das Produkt richtet sich an Anfänger, die starten wollen, aber nicht wissen wie.</p>
+**Vendor's marketplace description:** Du erhältst 100% Provision auf jede erfolgreiche Empfehlung dieses 7€ Einstiegprodukts. Das Produkt ist einfach zu bewerben, leicht verständlich und trifft genau den Punkt, an dem viele Einsteiger feststecken. Durch den niedrigen Preis ist die Einstiegshürde minimal, was zu einer hohen Conversion führt. Zusätzlich profitierst du automatisch von weiteren Käufen im Mitgliederbereich, wenn dein Kunde zusätzliche Produkte nutzt. Easy Membership Kickstart zeigt Einsteigern Schritt für Schritt, wie sie ihre eigene Membership aufbauen und ihr erstes digitales Produkt online bringen. Der Fokus liegt auf Umsetzung statt Theorie. Die Nutzer erstellen ihren eigenen Mitgliederbereich, bauen ihren ersten Kurs auf und bringen alles an einen Ort, statt sich weiter zu verzetteln. Das Produkt richtet sich an Anfänger, die starten wollen, aber nicht wissen wie.
 
 ## 2. Links
 

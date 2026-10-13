@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewerbe BEZIEHUNG MASTER - dem Besten Coaching-Produkt am Markt für eine erfüllte Beziehung.</p>
-<h1>Als Partner erhältst du 51% pro Verkauf! </h1>
-<p>Gerne erstellen wir mit dir zusammen Kampagnen die zu deiner Zielgruppe passen!</p>
-<p>Infos zum Produkt: <a href="https://akademie.maximmankevich.com/beziehung-master">https://akademie.maximmankevich.com/beziehung-master</a></p>
-<p><br />Infos für Affiliates/Partner:</p>
-<p><a href="https://maximmankevich.com/partnerprogramm" target="_blank" rel="noreferrer noopener">https://maximmankevich.com/partnerprogramm</a></p>
-<p> </p>
-<p>Bei Fragen melde Dich gerne via E-Mail:</p>
-<p><a href="mailto:support@maximmankevich.com" target="_blank" rel="noreferrer noopener">support@maximmankevich.com</a></p>
+**Vendor's marketplace description:** Bewerbe BEZIEHUNG MASTER - dem Besten Coaching-Produkt am Markt für eine erfüllte Beziehung. Als Partner erhältst du 51% pro Verkauf! Gerne erstellen wir mit dir zusammen Kampagnen die zu deiner Zielgruppe passen! Infos zum Produkt: https://akademie.maximmankevich.com/beziehung-master Infos für Affiliates/Partner: https://maximmankevich.com/partnerprogramm Bei Fragen melde Dich gerne via E-Mail: support@maximmankevich.com
 
 ## 2. Links
 

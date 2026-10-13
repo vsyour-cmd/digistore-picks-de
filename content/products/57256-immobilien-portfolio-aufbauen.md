@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Immobilien-Portfolio aufbauen“</strong></p>
-<p>Finanzierung, Cashflow und Skalierung – Information und Bildung, keine Beratung. Strategie, Finanzierung mit Hebel, Cashflow-Management, Verwaltung mehrerer Objekte, Risikostreuung und Steuern. Kredit erhöht Chancen und Risiken.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 17,45 € pro Verkauf (Verkaufspreis 34,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Vom ersten Objekt zum Portfolio denken</li>
-<li>Finanzierung mit Hebel und Bonität steuern</li>
-<li>Cashflow-Management und Rücklagen aufbauen</li>
-<li>Steuern, Rechtsform und Exit verstehen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Immobilien-Portfolio aufbauen“ Finanzierung, Cashflow und Skalierung – Information und Bildung, keine Beratung. Strategie, Finanzierung mit Hebel, Cashflow-Management, Verwaltung mehrerer Objekte, Risikostreuung und Steuern. Kredit erhöht Chancen und Risiken. Warum dieses E-Book bewerben? 50 % Provision – ca. 17,45 € pro Verkauf (Verkaufspreis 34,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Vom ersten Objekt zum Portfolio denken Finanzierung mit Hebel und Bonität steuern Cashflow-Management und Rücklagen aufbauen Steuern, Rechtsform und Exit verstehen
 
 ## 2. Links
 

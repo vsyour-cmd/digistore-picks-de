@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Einwände gehören ganz normal zum Verkaufsgespräch dazu. Wichtig ist, die richtige Einstellung zu Einwänden zu entwickeln, denn meist sind es Kaufsignale des Kunden.<br />Auf diesem Impuls-Hörbuch lernen Sie 21 unterschiedliche Techniken, wie Sie kommende Einwände behandeln und positiv überwinden können.<br />Erfahrungsgemäss geben die meisten Verkäufer schon beim ersten oder zweiten Einwand auf. Wenn Sie mit den richtigen Techniken gewappnet sind, werden Sie selbstbewusst viel mehr Einwände überwinden und somit deutlich mehr erreichen können.</p>
+**Vendor's marketplace description:** Einwände gehören ganz normal zum Verkaufsgespräch dazu. Wichtig ist, die richtige Einstellung zu Einwänden zu entwickeln, denn meist sind es Kaufsignale des Kunden. Auf diesem Impuls-Hörbuch lernen Sie 21 unterschiedliche Techniken, wie Sie kommende Einwände behandeln und positiv überwinden können. Erfahrungsgemäss geben die meisten Verkäufer schon beim ersten oder zweiten Einwand auf. Wenn Sie mit den richtigen Techniken gewappnet sind, werden Sie selbstbewusst viel mehr Einwände überwinden und somit deutlich mehr erreichen können.
 
 ## 2. Links
 

@@ -41,33 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>EU Reparaturpflicht – Compliance Pack 2025</strong></p>
-<p>Dieses digitale Produkt ist ein <strong>praktisches PDF-Arbeitsheft</strong> für Händler, Werkstätten, Reparaturbetriebe und Dienstleister, die Reparaturprozesse, Kundeninformationen und interne Nachweise strukturiert dokumentieren möchten.</p>
-<p>Das Compliance Pack unterstützt bei typischen Aufgaben rund um <strong>EU-Reparaturpflicht, Kundeninformation, Reparaturdokumentation, Ersatzteile und interne Abläufe</strong>.</p>
-<p><strong>Geeignet für:</strong></p>
-<ul>
-<li>Reparaturbetriebe und Werkstätten</li>
-<li>Elektronik- und Geräteservice</li>
-<li>Händler und Online-Shops</li>
-<li>Serviceanbieter mit Reparaturleistungen</li>
-<li>kleine und mittlere Unternehmen</li>
-</ul>
-<p><strong>Enthalten sind unter anderem:</strong></p>
-<ul>
-<li>Reparaturprotokoll</li>
-<li>Kundenhinweise zur Reparatur</li>
-<li>Ersatzteil- und Komponenten-Dokumentation</li>
-<li>Wartungs- und Prüfplan</li>
-<li>Reparaturangebot und Freigabeformular</li>
-<li>Reparaturbestätigung</li>
-<li>Vorher-Nachher-Nachweise</li>
-<li>interner Reparaturprozess</li>
-<li>Risiko- und Fehlerprotokoll</li>
-<li>DSGVO-Hinweise</li>
-</ul>
-<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales Arbeitsheft im PDF-Format</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
-<p>Das Pack dient als praktische Arbeits-, Dokumentations- und Orientierungshilfe für Unternehmen mit Reparatur- und Serviceprozessen und ersetzt keine individuelle Rechtsberatung.</p>
-<p><strong>Verkaufspreis: 29,00 €</strong> – digitaler Sofortdownload nach dem Kauf.</p>
+**Vendor's marketplace description:** EU Reparaturpflicht – Compliance Pack 2025 Dieses digitale Produkt ist ein praktisches PDF-Arbeitsheft für Händler, Werkstätten, Reparaturbetriebe und Dienstleister, die Reparaturprozesse, Kundeninformationen und interne Nachweise strukturiert dokumentieren möchten. Das Compliance Pack unterstützt bei typischen Aufgaben rund um EU-Reparaturpflicht, Kundeninformation, Reparaturdokumentation, Ersatzteile und interne Abläufe . Geeignet für: Reparaturbetriebe und Werkstätten Elektronik- und Geräteservice Händler und Online-Shops Serviceanbieter mit Reparaturleistungen kleine und mittlere Unternehmen Enthalten sind unter anderem: Reparaturprotokoll Kundenhinweise zur Reparatur Ersatzteil- und Komponenten-Dokumentation Wartungs- und Prüfplan Reparaturangebot und Freigabeformular Reparaturbestätigung Vorher-Nachher-Nachweise interner Reparaturprozess Risiko- und Fehlerprotokoll DSGVO-Hinweise Wichtig: Es handelt sich ausdrücklich um ein digitales Arbeitsheft im PDF-Format und nicht um Software, einen Videokurs oder einen Mitgliederbereich. Das Pack dient als praktische Arbeits-, Dokumentations- und Orientierungshilfe für Unternehmen mit Reparatur- und Serviceprozessen und ersetzt keine individuelle Rechtsberatung. Verkaufspreis: 29,00 € – digitaler Sofortdownload nach dem Kauf.
 
 ## 2. Links
 

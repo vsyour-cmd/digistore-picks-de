@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Digitale Produkte verkaufen“</strong></p>
-<p>Einnahmen aufbauen, während du schläfst – Ein eBook, eine Vorlage, ein kleiner Kurs: einmal erstellen, immer wieder verkaufen. Lerne ehrlich, wie das funktioniert – von der Idee bis zur Verkaufsseite.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Was digitale Produkte sind und warum sie sich lohnen</li>
-<li>Die richtige Produktidee finden und prüfen</li>
-<li>Dein erstes Produkt erstellen, auch mit KI-Hilfe</li>
-<li>Sichtbar werden und die ersten Käufer gewinnen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Digitale Produkte verkaufen“ Einnahmen aufbauen, während du schläfst – Ein eBook, eine Vorlage, ein kleiner Kurs: einmal erstellen, immer wieder verkaufen. Lerne ehrlich, wie das funktioniert – von der Idee bis zur Verkaufsseite. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Was digitale Produkte sind und warum sie sich lohnen Die richtige Produktidee finden und prüfen Dein erstes Produkt erstellen, auch mit KI-Hilfe Sichtbar werden und die ersten Käufer gewinnen
 
 ## 2. Links
 

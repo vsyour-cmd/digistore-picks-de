@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Workbook - Dein Lebenslauf</h3>
-<div>
-<div> </div>
-</div>
-<div>
-<p><strong>Die 3 sofort umsetzbaren Lösungen für Deinen Erfolg:</strong></p>
-<p><strong>1. SOFORT-LÖSUNG: KI-Prompts zum Kopieren &amp; Einfügen</strong></p>
-<p><strong>Du bekommst</strong> alle <em>fertig formulierten</em> Prompts, um KI als Deinen persönlichen Assistenten zu nutzen.</p>
-<p><strong>Wende sie sofort an</strong> um:</p>
-<p>Deine Tätigkeiten <em>ergebnisorientiert umzuformulieren</em> – Fokus auf Deinen Mehrwert statt nur auf Aufgaben.</p>
-<p>Dein persönliches <em>XXL-Karriere-Archiv</em> in Stichpunkten zu erstellen und zu strukturieren.</p>
-<p><strong>Zeit sparen</strong> und <strong>Struktur</strong> gewinnen.</p>
-<p><strong>2. ERFOLGS-FOKUS: Ergebnisse statt Aufgaben</strong> <strong>Wir zeigen Dir</strong> in Kapitel 5, wie Du Deine <em>Berufserfahrung</em> in messbare Erfolge verwandelst (z.B. statt "Kunden betreut" -&gt; "Betreuung von 40 B2B-Kunden mit Umsatzsteigerung von 18%")</p>
-<p><strong>Lerne</strong>, wie Du Deine <em>Fähigkeiten &amp; Kompetenzen</em> glaubwürdig darstellst und leere Schlagworte vermeidest.</p>
-<p><strong>3. MAXIMALE RELEVANZ: Der Ziel-CV</strong></p>
-<p><strong>Nutze</strong> das interne Master-Dokument als Grundlage und wende den <em>3-Fragen-Relevanz-Check</em>  an.</p>
-<p><strong>Das Ergebnis:</strong> Ein <em>reduzierter, fokussierter und maximal relevanter</em> Lebenslauf , der in <em>jeder</em> Form überzeugt – ob International, Sachlich oder als Power-CV.</p>
-<p><strong>Dein Nutzen ist glasklar:</strong></p>
-<p>Du erhältst eine <strong>Strategie</strong> , mit der Du für jeden Job den perfekten CV aus der Tasche ziehst und Personaler (bewusst oder unbewusst) die Fragen beantwortest: "Passt diese Person fachlich? Bringt sie die nötigen Kompetenzen mit? <em>Löst sie mein Problem?</em>".</p>
-<p><strong>Warte nicht auf den nächsten Job. Öffne die Türen zu Deiner Zukunft.</strong></p>
-<p><strong>Klicke jetzt auf KAUFEN und starte noch heute mit Deiner erfolgreichen, KI-gestützten Bewerbungsstrategie!</strong></p>
-</div>
+**Vendor's marketplace description:** Workbook - Dein Lebenslauf Die 3 sofort umsetzbaren Lösungen für Deinen Erfolg: 1. SOFORT-LÖSUNG: KI-Prompts zum Kopieren & Einfügen Du bekommst alle fertig formulierten Prompts, um KI als Deinen persönlichen Assistenten zu nutzen. Wende sie sofort an um: Deine Tätigkeiten ergebnisorientiert umzuformulieren – Fokus auf Deinen Mehrwert statt nur auf Aufgaben. Dein persönliches XXL-Karriere-Archiv in Stichpunkten zu erstellen und zu strukturieren. Zeit sparen und Struktur gewinnen. 2. ERFOLGS-FOKUS: Ergebnisse statt Aufgaben Wir zeigen Dir in Kapitel 5, wie Du Deine Berufserfahrung in messbare Erfolge verwandelst (z.B. statt "Kunden betreut" -> "Betreuung von 40 B2B-Kunden mit Umsatzsteigerung von 18%") Lerne , wie Du Deine Fähigkeiten & Kompetenzen glaubwürdig darstellst und leere Schlagworte vermeidest. 3. MAXIMALE RELEVANZ: Der Ziel-CV Nutze das interne Master-Dokument als Grundlage und wende den 3-Fragen-Relevanz-Check an. Das Ergebnis: Ein reduzierter, fokussierter und maximal relevanter Lebenslauf , der in jeder Form überzeugt – ob International, Sachlich oder als Power-CV. Dein Nutzen ist glasklar: Du erhältst eine Strategie , mit der Du für jeden Job den perfekten CV aus der Tasche ziehst und Personaler (bewusst oder unbewusst) die Fragen beantwortest: "Passt diese Person fachlich? Bringt sie die nötigen Kompetenzen mit? Löst sie mein Problem? ". Warte nicht auf den nächsten Job. Öffne die Türen zu Deiner Zukunft. Klicke jetzt auf KAUFEN und starte noch heute mit Deiner erfolgreichen, KI-gestützten Bewerbungsstrategie!
 
 ## 2. Links
 

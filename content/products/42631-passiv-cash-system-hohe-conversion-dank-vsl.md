@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Neues online Geld verdienen Produkt!</strong></p>
-<p><strong>Durchschnittlicher Verdienst pro Klick: 1.41€</strong></p>
-<p> </p>
-<p><strong>50% auf den gesamten Funnel</strong></p>
-<p><strong>Über 220€ an Nettoprovision möglich pro Kunde</strong></p>
-<p> </p>
-<p>Perfektes Produkt für alle, die online Geld verdienen wollen. </p>
-<p>Ideal für deine E-Mail Liste oder zum Bewerben über Social Media.</p>
-<p><a href="https://passiv-cash.funnelcockpit.com/affiliate-seite/" target="_blank" rel="noreferrer noopener"><strong>Fertige Mailvorlagen findest du auf der Partnerseite</strong></a></p>
-<p style="text-align:center;"> </p>
-<p style="text-align:center;"><strong><span style="background-color:#ffffff;">Verdiene maximale Provisionen mit einem Produkt, das einzigartig auf dem gesamten deutschen Markt ist.</span></strong></p>
-<p style="text-align:left;"> </p>
+**Vendor's marketplace description:** Neues online Geld verdienen Produkt! Durchschnittlicher Verdienst pro Klick: 1.41€ 50% auf den gesamten Funnel Über 220€ an Nettoprovision möglich pro Kunde Perfektes Produkt für alle, die online Geld verdienen wollen. Ideal für deine E-Mail Liste oder zum Bewerben über Social Media. Fertige Mailvorlagen findest du auf der Partnerseite Verdiene maximale Provisionen mit einem Produkt, das einzigartig auf dem gesamten deutschen Markt ist.
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>HOCHZEIT PLANEN, OHNE ZETTELCHAOS, TABELLEN-WIRRWARR UND VERLORENE ABSPRACHEN</p>
-<p>Der Hochzeitsplaner Premium ist ein sofort verfügbares digitales Komplettpaket für verlobte Paare, Trauzeug:innen und alle, die eine Hochzeit strukturiert vorbereiten möchten.</p>
-<p>DAS ERHALTEN KUNDINNEN UND KUNDEN</p>
-<p>• 60-seitiger Hochzeitsplaner als Druckversion und digital ausfüllbare PDF<br />• Excel-Steuerzentrale mit 20 Bereichen für Budget, Gäste, Sitzplan, Aufgaben und Termine<br />• zusätzliche Werkzeuge für Risiken, Plan B, Dokumente, Kommunikation und Hochzeitstag-Regie<br />• 20 sofort anpassbare Textbausteine für Dienstleister und Gäste<br />• Schnellstart-Anleitung und sofortiger digitaler Download</p>
-<p>STARKER KLICKGRUND</p>
-<p>Statt vieler einzelner Listen führt dieses System Entscheidungen, Kosten, Gäste, Dienstleister und den Ablauf an einem Ort zusammen.</p>
-<p>IDEAL FÜR IHRE ZIELGRUPPE</p>
-<p>Verlobte Paare in der aktiven Planungsphase, Hochzeits- und Lifestyle-Communities, Wedding-Creator, Trauzeug:innen und beratungsnahe Dienstleister.</p>
-<p>AFFILIATE-VORTEILE</p>
-<p>50 % Provision, klarer Problemlöser, emotionales Thema und ein umfangreiches Produkt mit konkretem Sofortnutzen.</p>
+**Vendor's marketplace description:** HOCHZEIT PLANEN, OHNE ZETTELCHAOS, TABELLEN-WIRRWARR UND VERLORENE ABSPRACHEN Der Hochzeitsplaner Premium ist ein sofort verfügbares digitales Komplettpaket für verlobte Paare, Trauzeug:innen und alle, die eine Hochzeit strukturiert vorbereiten möchten. DAS ERHALTEN KUNDINNEN UND KUNDEN • 60-seitiger Hochzeitsplaner als Druckversion und digital ausfüllbare PDF • Excel-Steuerzentrale mit 20 Bereichen für Budget, Gäste, Sitzplan, Aufgaben und Termine • zusätzliche Werkzeuge für Risiken, Plan B, Dokumente, Kommunikation und Hochzeitstag-Regie • 20 sofort anpassbare Textbausteine für Dienstleister und Gäste • Schnellstart-Anleitung und sofortiger digitaler Download STARKER KLICKGRUND Statt vieler einzelner Listen führt dieses System Entscheidungen, Kosten, Gäste, Dienstleister und den Ablauf an einem Ort zusammen. IDEAL FÜR IHRE ZIELGRUPPE Verlobte Paare in der aktiven Planungsphase, Hochzeits- und Lifestyle-Communities, Wedding-Creator, Trauzeug:innen und beratungsnahe Dienstleister. AFFILIATE-VORTEILE 50 % Provision, klarer Problemlöser, emotionales Thema und ein umfangreiches Produkt mit konkretem Sofortnutzen.
 
 ## 2. Links
 

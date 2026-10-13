@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#ff0000;"><strong>[BRANDNEU 2026] Pin-Cash Mastery 2.0</strong></span></h2>
-<p>Der Pin-Cash Codes 2.0 ist ein Online Kurs für Anfänger, die mit Pinterest Geld verdienen wollen. Ich stelle meine bewährten Pinterest Fast-Cash Methoden zum Kopieren vor.</p>
-<p><strong><em>Du bekommst 60 % Provision auf das Initialprodukt und bis zu 60 % Provision auf alle Upsells.</em></strong></p>
-<p><strong><em>Im Durchlauf sind +162 € Affiliate-Provision (inkl. Abonnements) möglich.</em></strong></p>
+**Vendor's marketplace description:** [BRANDNEU 2026] Pin-Cash Mastery 2.0 Der Pin-Cash Codes 2.0 ist ein Online Kurs für Anfänger, die mit Pinterest Geld verdienen wollen. Ich stelle meine bewährten Pinterest Fast-Cash Methoden zum Kopieren vor. Du bekommst 60 % Provision auf das Initialprodukt und bis zu 60 % Provision auf alle Upsells. Im Durchlauf sind +162 € Affiliate-Provision (inkl. Abonnements) möglich.
 
 ## 2. Links
 

@@ -41,40 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>NEUSTART – 6 Monate Messenger-Coaching für Gesundheit &amp; Energie</strong></p>
-<p>Ein persönliches Coaching im Gesundheitsbereich mit klarer Zielgruppe und ca. <strong>88 € Provision pro Sale</strong>.<br />Ideal für Affiliates, die echte Veränderung statt kurzfristiger Produkte bewerben möchten.</p>
-<hr />
-<p><strong>Was wird verkauft?</strong><br />Ein 6-monatiges, individuelles Messenger-Coaching mit persönlicher Betreuung über WhatsApp oder Signal.<br />Kunden werden Schritt für Schritt begleitet zu:</p>
-<ul>
-<li>mehr Energie</li>
-<li>besserem Schlaf</li>
-<li>gesunder Ernährung</li>
-<li>nachhaltiger Lebensweise</li>
-</ul>
-<p>Kein Kurs, keine Plattform – direkte Umsetzung im Alltag.</p>
-<hr />
-<p><strong>Zielgruppe</strong></p>
-<ul>
-<li>Menschen mit wenig Energie, Stress oder Heißhunger</li>
-<li>Personen, die bereits Diäten ausprobiert haben</li>
-<li>Kunden, die eine nachhaltige Lösung mit persönlicher Begleitung suchen</li>
-</ul>
-<hr />
-<p><strong>Warum konvertiert das Produkt?</strong></p>
-<ul>
-<li>Starker Bedarf (Energie, Gesundheit, Alltag)</li>
-<li>Persönliche Betreuung statt anonymem Kurs</li>
-<li>Messenger-Format = niedrige Einstiegshürde</li>
-<li>Klare 6-Monats-Transformation</li>
-<li>Begrenzte Plätze durch individuelle Betreuung</li>
-</ul>
-<hr />
-<p><strong>Preis &amp; Provision</strong></p>
-<ul>
-<li>697 € einmalig (6 Monate)</li>
-<li>15 % Provision = ca. 88 € pro Sale</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** NEUSTART – 6 Monate Messenger-Coaching für Gesundheit & Energie Ein persönliches Coaching im Gesundheitsbereich mit klarer Zielgruppe und ca. 88 € Provision pro Sale . Ideal für Affiliates, die echte Veränderung statt kurzfristiger Produkte bewerben möchten. Was wird verkauft? Ein 6-monatiges, individuelles Messenger-Coaching mit persönlicher Betreuung über WhatsApp oder Signal. Kunden werden Schritt für Schritt begleitet zu: mehr Energie besserem Schlaf gesunder Ernährung nachhaltiger Lebensweise Kein Kurs, keine Plattform – direkte Umsetzung im Alltag. Zielgruppe Menschen mit wenig Energie, Stress oder Heißhunger Personen, die bereits Diäten ausprobiert haben Kunden, die eine nachhaltige Lösung mit persönlicher Begleitung suchen Warum konvertiert das Produkt? Starker Bedarf (Energie, Gesundheit, Alltag) Persönliche Betreuung statt anonymem Kurs Messenger-Format = niedrige Einstiegshürde Klare 6-Monats-Transformation Begrenzte Plätze durch individuelle Betreuung Preis & Provision 697 € einmalig (6 Monate) 15 % Provision = ca. 88 € pro Sale
 
 ## 2. Links
 

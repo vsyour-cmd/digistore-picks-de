@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>​Praktischer Leitfaden für Struktur, Verständnis und Leichtigkeit im Familienleben</p>
-<p>​Einleitung: Willkommen auf dieser Reise</p>
-<p>​Ein Kind im Autismus-Spektrum zu begleiten bedeutet, die Welt durch eine völlig neue Perspektive kennenzulernen. Es ist ein Weg voller tiefer Verbindungen, besonderer Wahrnehmungen – aber auch voller Herausforderungen in einer Umwelt, die größtenteils für neurotypische Menschen gestaltet ist.</p>
-<p>​Dieses E-Book dient als konkreter, verständnisvoller und praxisnaher Begleiter. Es liefert dir erprobte Werkzeuge für den Alltag, hilft dir in Krisen ruhig zu bleiben und zeigt Wege auf, wie dein Familienleben von mehr Vorhersehbarkeit und Harmonie geprägt werden kann.</p>
-<p> </p>
+**Vendor's marketplace description:** ​Praktischer Leitfaden für Struktur, Verständnis und Leichtigkeit im Familienleben ​Einleitung: Willkommen auf dieser Reise ​Ein Kind im Autismus-Spektrum zu begleiten bedeutet, die Welt durch eine völlig neue Perspektive kennenzulernen. Es ist ein Weg voller tiefer Verbindungen, besonderer Wahrnehmungen – aber auch voller Herausforderungen in einer Umwelt, die größtenteils für neurotypische Menschen gestaltet ist. ​Dieses E-Book dient als konkreter, verständnisvoller und praxisnaher Begleiter. Es liefert dir erprobte Werkzeuge für den Alltag, hilft dir in Krisen ruhig zu bleiben und zeigt Wege auf, wie dein Familienleben von mehr Vorhersehbarkeit und Harmonie geprägt werden kann.
 
 ## 2. Links
 

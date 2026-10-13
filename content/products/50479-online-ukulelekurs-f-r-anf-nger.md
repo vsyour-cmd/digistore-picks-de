@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Lerne 3 Lieder mit 3 Akkorden in einem Videokurs:</strong></p>
-<p><strong>Happy Birthday, My Bonnie, Auld lang syne.</strong></p>
-<p><strong>15 Lehrvideos jederzeit und überall online abrufbar.</strong></p>
-<p><strong>Hol Musik in Dein Leben.</strong></p>
+**Vendor's marketplace description:** Lerne 3 Lieder mit 3 Akkorden in einem Videokurs: Happy Birthday, My Bonnie, Auld lang syne. 15 Lehrvideos jederzeit und überall online abrufbar. Hol Musik in Dein Leben.
 
 ## 2. Links
 

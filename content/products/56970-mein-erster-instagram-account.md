@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Von der leeren Seite zum aktiven Profil, das echte Follower anzieht</strong></p>
-<p>Du willst endlich auf Instagram starten, weißt aber nicht, wo anfangen? Dieses E-Book nimmt dich Schritt für Schritt an die Hand – von der Nischenwahl über die Profil-Optimierung bis zu deinen ersten 500 echten Followern. Du lernst, wie du einen ästhetisch ansprechenden Feed aufbaust, der sofort Vertrauen schafft, wie Reels als Reichweiten-Motor funktionieren und warum Karussell-Posts mehr Saves und Shares bringen als alles andere. Kein Fachjargon, keine teuren Tools: nur ein klarer, umsetzbarer Plan, den du mit dem Smartphone in der Hand starten kannst. Nach der Lektüre weißt du nicht nur, was zu tun ist – du weißt auch, warum es funktioniert.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Nische &amp; Zielgruppe finden, die zu dir UND zur Nachfrage passen</li>
-<li>Bio &amp; Profil-Optimierung für den ersten guten Eindruck</li>
-<li>Reels-Grundlagen: so nutzt du Trend-Audio für organische Reichweite</li>
-<li>Karussell-Strategie: Saves und Shares statt nur Likes</li>
-<li>Feed-Ästhetik: ein einheitlicher Look ohne Grafik-Studium</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Von der leeren Seite zum aktiven Profil, das echte Follower anzieht Du willst endlich auf Instagram starten, weißt aber nicht, wo anfangen? Dieses E-Book nimmt dich Schritt für Schritt an die Hand – von der Nischenwahl über die Profil-Optimierung bis zu deinen ersten 500 echten Followern. Du lernst, wie du einen ästhetisch ansprechenden Feed aufbaust, der sofort Vertrauen schafft, wie Reels als Reichweiten-Motor funktionieren und warum Karussell-Posts mehr Saves und Shares bringen als alles andere. Kein Fachjargon, keine teuren Tools: nur ein klarer, umsetzbarer Plan, den du mit dem Smartphone in der Hand starten kannst. Nach der Lektüre weißt du nicht nur, was zu tun ist – du weißt auch, warum es funktioniert. Das steckt drin: Nische & Zielgruppe finden, die zu dir UND zur Nachfrage passen Bio & Profil-Optimierung für den ersten guten Eindruck Reels-Grundlagen: so nutzt du Trend-Audio für organische Reichweite Karussell-Strategie: Saves und Shares statt nur Likes Feed-Ästhetik: ein einheitlicher Look ohne Grafik-Studium Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

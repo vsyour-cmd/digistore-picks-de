@@ -41,8 +41,6 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>
-
 ## 2. Links
 
 - **Promo link (affiliate):** https://aufbruch7.de/aff/?aff=adminstore#aff=adminstore

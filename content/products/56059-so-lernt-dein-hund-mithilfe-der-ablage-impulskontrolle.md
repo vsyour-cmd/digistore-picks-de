@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieser Kurs richtet sich an Hundehalter, deren Hund im Alltag schnell aufgeregt ist, schwer zur Ruhe kommt oder impulsiv reagiert - ein sehr verbreitetes Problem mit hoher Relevanz.</p>
-<p>Im Fokus steht die sogenannte „Ablage“ (Decke), die hier nicht als reines Kommando, sondern als Werkzeug zur inneren Ruhe und Selbstregulation des Hundes aufgebaut wird. Dieser Ansatz hebt sich deutlich von klassischen Trainingsmethoden ab und spricht besonders Hundehalter an, die nachhaltige Lösungen suchen.</p>
-<p>Der Kurs zeigt verschiedene Herangehensweisen (mit und ohne Futter sowie über Raumdefinition), wodurch eine breite Zielgruppe angesprochen wird - vom Welpenbesitzer bis zum Halter eines erwachsenen Hundes.</p>
-<p>Geeignet für:<br />– Hundehalter mit unruhigen oder impulsiven Hunden<br />– Einsteiger und Fortgeschrittene im Training<br />– Zielgruppe mit Wunsch nach mehr Ruhe im Alltag</p>
-<p>Das Thema eignet sich sehr gut für Content, Social Media und beratungsnahe Inhalte, da viele Hundehalter täglich mit genau diesem Problem konfrontiert sind.</p>
+**Vendor's marketplace description:** Dieser Kurs richtet sich an Hundehalter, deren Hund im Alltag schnell aufgeregt ist, schwer zur Ruhe kommt oder impulsiv reagiert - ein sehr verbreitetes Problem mit hoher Relevanz. Im Fokus steht die sogenannte „Ablage“ (Decke), die hier nicht als reines Kommando, sondern als Werkzeug zur inneren Ruhe und Selbstregulation des Hundes aufgebaut wird. Dieser Ansatz hebt sich deutlich von klassischen Trainingsmethoden ab und spricht besonders Hundehalter an, die nachhaltige Lösungen suchen. Der Kurs zeigt verschiedene Herangehensweisen (mit und ohne Futter sowie über Raumdefinition), wodurch eine breite Zielgruppe angesprochen wird - vom Welpenbesitzer bis zum Halter eines erwachsenen Hundes. Geeignet für: – Hundehalter mit unruhigen oder impulsiven Hunden – Einsteiger und Fortgeschrittene im Training – Zielgruppe mit Wunsch nach mehr Ruhe im Alltag Das Thema eignet sich sehr gut für Content, Social Media und beratungsnahe Inhalte, da viele Hundehalter täglich mit genau diesem Problem konfrontiert sind.
 
 ## 2. Links
 

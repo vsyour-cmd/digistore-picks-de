@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Partner für das SocialCreator Starterkit 2026!</strong></p>
-<p>Suchst du ein perfektes Einstiegsprodukt (Tripwire) für deine Community? Das SocialCreator Starterkit hilft jedem dabei, endlich als Creator sichtbar zu werden – ohne Stunden in Recherche zu verlieren.</p>
-<p><strong>Deine Vorteile:</strong></p>
-<ul>
-<li>
-<p><strong>50% Provision:</strong> Du verdienst an jedem Verkauf direkt mit.</p>
-</li>
-<li>
-<p><strong>Top Preis-Leistung:</strong> Für nur 27€ ist die Kaufhürde extrem niedrig (hohe Conversion).</p>
-</li>
-<li>
-<p><strong>Zielgruppe:</strong> Angehende Creator und Business-Starter in jeder Nische.</p>
-</li>
-</ul>
-<p><strong>Starte jetzt und profitiere von einem wachsenden Markt!</strong></p>
+**Vendor's marketplace description:** Werde Partner für das SocialCreator Starterkit 2026! Suchst du ein perfektes Einstiegsprodukt (Tripwire) für deine Community? Das SocialCreator Starterkit hilft jedem dabei, endlich als Creator sichtbar zu werden – ohne Stunden in Recherche zu verlieren. Deine Vorteile: 50% Provision: Du verdienst an jedem Verkauf direkt mit. Top Preis-Leistung: Für nur 27€ ist die Kaufhürde extrem niedrig (hohe Conversion). Zielgruppe: Angehende Creator und Business-Starter in jeder Nische. Starte jetzt und profitiere von einem wachsenden Markt!
 
 ## 2. Links
 

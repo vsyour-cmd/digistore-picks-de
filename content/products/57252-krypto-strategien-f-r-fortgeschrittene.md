@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Krypto-Strategien für Fortgeschrittene“</strong></p>
-<p>Portfolio, Risikomanagement und DeFi – Information und Bildung, keine Anlageberatung. Portfolio, Risikomanagement, Diversifikation und DeFi – mit ehrlichem Blick auf Risiken von Staking, Lending und Smart Contracts.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 17,45 € pro Verkauf (Verkaufspreis 34,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Ein durchdachtes Krypto-Portfolio aufbauen</li>
-<li>Risikomanagement als Fundament verstehen</li>
-<li>DeFi, Staking und Lending samt Risiken einordnen</li>
-<li>Psychologie, Fehler und Disziplin meistern</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Krypto-Strategien für Fortgeschrittene“ Portfolio, Risikomanagement und DeFi – Information und Bildung, keine Anlageberatung. Portfolio, Risikomanagement, Diversifikation und DeFi – mit ehrlichem Blick auf Risiken von Staking, Lending und Smart Contracts. Warum dieses E-Book bewerben? 50 % Provision – ca. 17,45 € pro Verkauf (Verkaufspreis 34,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Ein durchdachtes Krypto-Portfolio aufbauen Risikomanagement als Fundament verstehen DeFi, Staking und Lending samt Risiken einordnen Psychologie, Fehler und Disziplin meistern
 
 ## 2. Links
 

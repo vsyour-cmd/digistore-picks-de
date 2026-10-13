@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#fc2669;"><strong>Extra viel Provision für Dich!</strong></span></h2>
-<p><strong>Mit diesem einfach zu verkaufenden Instagram-Geld-verdienen Produkt regnet es regelrecht Provisionen für Dich!</strong></p>
-<p><strong>Verdiene unglaubliche 70% Provision auf den Upsell und auf den Orderbump + FollowUp Produkte!</strong></p>
-<p><strong><span style="background-color:#ffff00;">Überzeuge Dich selber und werde jetzt Partner!</span></strong></p>
-<p> </p>
-<h4><strong><span style="text-decoration:underline;">Das bekommst Du nur hier!</span> </strong></h4>
-<ul>
-<li>
-<p><strong>Extrem hohe Provision </strong>(70% auf Hauptprodukt + 70% auf den Orderbump + Weitere Produkte im Upsellfunnel!</p>
-</li>
-<li>
-<p><strong>Extrem grosse Auswahl an Werbemittel</strong> (Schau auf unserer <a href="https://business-kickstart.de/instaclub-partnerprogramm/" target="_blank" rel="noreferrer noopener">Affiliate Support-Seite</a> vorbei! </p>
-</li>
-<li><strong>Hohe Conversion</strong> und permanente Optimierung des Funnels</li>
-<li>
-<p><strong>Top Betreuung und Support</strong> durch unsere Affiliate Manager</p>
-</li>
-</ul>
-<p><span style="color:#0000ff;"><a style="color:#0000ff;" href="https://business-kickstart.de/instaclub-partnerprogramm/" target="_blank" rel="noreferrer noopener">Werbemittel findest du hier!</a></span></p>
-<p>Bei Fragen schreibe uns an: <em>info@coaching.business-kickstart.de</em></p>
+**Vendor's marketplace description:** Extra viel Provision für Dich! Mit diesem einfach zu verkaufenden Instagram-Geld-verdienen Produkt regnet es regelrecht Provisionen für Dich! Verdiene unglaubliche 70% Provision auf den Upsell und auf den Orderbump + FollowUp Produkte! Überzeuge Dich selber und werde jetzt Partner! Das bekommst Du nur hier! Extrem hohe Provision (70% auf Hauptprodukt + 70% auf den Orderbump + Weitere Produkte im Upsellfunnel! Extrem grosse Auswahl an Werbemittel (Schau auf unserer Affiliate Support-Seite vorbei! Hohe Conversion und permanente Optimierung des Funnels Top Betreuung und Support durch unsere Affiliate Manager Werbemittel findest du hier! Bei Fragen schreibe uns an: info@coaching.business-kickstart.de
 
 ## 2. Links
 

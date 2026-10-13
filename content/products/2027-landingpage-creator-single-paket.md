@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><span style="background-color:#ffff00;">Laufende jährlich wiederkehrende Provision!! </span></strong></p>
-<p>Der Landingpage-Creator ist eine <strong>All-Inklusive Profi-Landingpage</strong> Lösung!</p>
-<p>Vorgefertigte Landingpages können für den Aufbau einer großen Email Liste genutzt werden, für das Bewerben eines Webinars, für den direkten Verkauf eines Produkts, usw.</p>
-<p><span style="text-decoration:underline;">Vorteile für den Käufer:</span></p>
-<p>In wenigen Minuten und ohne technische Vorkenntnisse kann eine Profi-Landingpage erstellt werden und im Netz zur Leadgenerierung stehen. Im Paket ist die Domain, der Webspace und das Hosting schon drin, also das ideale Paket für den Einsteiger oder Fortgeschrittene, die sich nicht mit der Technik rumschlagen möchten.</p>
-<p>Mit dem Landingpage-Creator ist das Erstellen einer Landingpage kinderleicht.</p>
-<p><span style="background-color:#ffff00;"><strong>Viel besser als z.B. Leadpages</strong></span><br />Der Landingpage Creator ist trotz der Qualität günstiger und die Seite kann ohne Probleme komplett angepasst werden, was bei Leadpages nicht der Fall ist!</p>
-<p><span style="text-decoration:underline;">Zielgruppe:</span></p>
-<p>Der Landingpage-Creator kann für <strong>Affiliate Marketing</strong> genutzt werden. Eine zusätzliche Homepage wird nicht benötigt. Aber auch für Unternehmen um über das Internet <strong>Produkte zu verkaufen</strong> oder <strong>Leads/Interessenten zu gewinnen</strong>.</p>
-<p>&gt;&gt;&gt; Da es keine hohen Anschaffungskosten gibt ist dieses Produkt <strong><span style="color:#ff6600;">ideal</span></strong>, um es <strong><span style="color:#ff6600;">als</span> <span style="color:#ff6600;">Einsteigerprodukt</span> </strong>zu bewerben.</p>
+**Vendor's marketplace description:** Laufende jährlich wiederkehrende Provision!! Der Landingpage-Creator ist eine All-Inklusive Profi-Landingpage Lösung! Vorgefertigte Landingpages können für den Aufbau einer großen Email Liste genutzt werden, für das Bewerben eines Webinars, für den direkten Verkauf eines Produkts, usw. Vorteile für den Käufer: In wenigen Minuten und ohne technische Vorkenntnisse kann eine Profi-Landingpage erstellt werden und im Netz zur Leadgenerierung stehen. Im Paket ist die Domain, der Webspace und das Hosting schon drin, also das ideale Paket für den Einsteiger oder Fortgeschrittene, die sich nicht mit der Technik rumschlagen möchten. Mit dem Landingpage-Creator ist das Erstellen einer Landingpage kinderleicht. Viel besser als z.B. Leadpages Der Landingpage Creator ist trotz der Qualität günstiger und die Seite kann ohne Probleme komplett angepasst werden, was bei Leadpages nicht der Fall ist! Zielgruppe: Der Landingpage-Creator kann für Affiliate Marketing genutzt werden. Eine zusätzliche Homepage wird nicht benötigt. Aber auch für Unternehmen um über das Internet Produkte zu verkaufen oder Leads/Interessenten zu gewinnen . >>> Da es keine hohen Anschaffungskosten gibt ist dieses Produkt ideal , um es als Einsteigerprodukt zu bewerben.
 
 ## 2. Links
 

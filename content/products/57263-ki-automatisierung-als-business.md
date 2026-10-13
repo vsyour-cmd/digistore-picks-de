@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „KI-Automatisierung als Business“</strong></p>
-<p>Workflows bauen, verkaufen und skalieren – Mit KI und No-Code-Tools Workflows bauen, sie an Kunden verkaufen und ein Business daraus machen: lohnende Prozesse erkennen, Tools verbinden, erste Workflows bauen. Für Fortgeschrittene.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Lohnende Prozesse für Automatisierung erkennen</li>
-<li>No-Code-Tools mit KI verbinden</li>
-<li>Automatisierungen an Kunden verkaufen</li>
-<li>Zuverlässigkeit, Datenschutz und Grenzen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „KI-Automatisierung als Business“ Workflows bauen, verkaufen und skalieren – Mit KI und No-Code-Tools Workflows bauen, sie an Kunden verkaufen und ein Business daraus machen: lohnende Prozesse erkennen, Tools verbinden, erste Workflows bauen. Für Fortgeschrittene. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Lohnende Prozesse für Automatisierung erkennen No-Code-Tools mit KI verbinden Automatisierungen an Kunden verkaufen Zuverlässigkeit, Datenschutz und Grenzen
 
 ## 2. Links
 

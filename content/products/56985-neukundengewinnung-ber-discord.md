@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie Unternehmen mit einem strategischen Discord-Server planbar Leads und Neukunden gewinnen</strong></p>
-<p>Für Unternehmen ist Discord kein Gaming-Tool, sondern eine der engagiertesten Plattformen für B2C- und B2B-Communities. Dieses E-Book zeigt dir, wie du einen professionellen Discord-Server aufbaust, der potenzielle Kunden anzieht, bindet und in zahlende Kunden verwandelt. Du lernst, wie du mit Forum-Channels, Stage-Events und exklusiven Rollen Mehrwert schaffst, der externen Traffic anzieht, wie Onboarding und Moderation skalieren und wie du DMs und interne Calls als Vertriebskanal nutzt. Dazu: wie du über Discord-Verzeichnisse, Social Media und Content-Marketing zuverlässig neue Mitglieder gewinnst und den ROI deiner Community-Arbeit messbar machst.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Professionellen Business-Server aufbauen, der Vertrauen und Kaufbereitschaft erzeugt</li>
-<li>Forum-Channels und Stage-Events als Lead-Magnete strategisch einsetzen</li>
-<li>Onboarding-Funnel: vom ersten Beitritt bis zum qualifizierten Gespräch</li>
-<li>DMs und interne Voice-Calls als effizienten Vertriebskanal nutzen</li>
-<li>Externen Traffic aus Content-Marketing und Social Media in den Server leiten</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie Unternehmen mit einem strategischen Discord-Server planbar Leads und Neukunden gewinnen Für Unternehmen ist Discord kein Gaming-Tool, sondern eine der engagiertesten Plattformen für B2C- und B2B-Communities. Dieses E-Book zeigt dir, wie du einen professionellen Discord-Server aufbaust, der potenzielle Kunden anzieht, bindet und in zahlende Kunden verwandelt. Du lernst, wie du mit Forum-Channels, Stage-Events und exklusiven Rollen Mehrwert schaffst, der externen Traffic anzieht, wie Onboarding und Moderation skalieren und wie du DMs und interne Calls als Vertriebskanal nutzt. Dazu: wie du über Discord-Verzeichnisse, Social Media und Content-Marketing zuverlässig neue Mitglieder gewinnst und den ROI deiner Community-Arbeit messbar machst. Das steckt drin: Professionellen Business-Server aufbauen, der Vertrauen und Kaufbereitschaft erzeugt Forum-Channels und Stage-Events als Lead-Magnete strategisch einsetzen Onboarding-Funnel: vom ersten Beitritt bis zum qualifizierten Gespräch DMs und interne Voice-Calls als effizienten Vertriebskanal nutzen Externen Traffic aus Content-Marketing und Social Media in den Server leiten Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

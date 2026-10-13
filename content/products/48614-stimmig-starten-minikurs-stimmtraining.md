@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Du bekommst 50% Provision!</h2>
-<h3>Infos zum Kurs:</h3>
-<p><strong>Formate:</strong></p>
-<ul>
-<li>Bearbeitbares Workbook</li>
-<li>Anleitungs-Video</li>
-</ul>
-<p><strong>Inhalte:</strong></p>
-<ul>
-<li>Reflexion des Ist-Zustands von: Sprechen, Stimme, Auftreten und Kommunikation</li>
-<li>Zielsetzung anhand der Reflexionsergebnisse für dieselben Bereiche - für ein direktes Optimieren der eigenen Kommunikation, beruflich wie privat</li>
-</ul>
-<p><strong>Zielgruppe:</strong></p>
-<ul>
-<li>Alle, die auch beruflich sprechen</li>
-<li>Menschen, die noch nie ein Stimmtraining gemacht haben</li>
-<li>Aber auch Fortgeschrittene, die noch tiefer einsteigen möchten</li>
-</ul>
+**Vendor's marketplace description:** Du bekommst 50% Provision! Infos zum Kurs: Formate: Bearbeitbares Workbook Anleitungs-Video Inhalte: Reflexion des Ist-Zustands von: Sprechen, Stimme, Auftreten und Kommunikation Zielsetzung anhand der Reflexionsergebnisse für dieselben Bereiche - für ein direktes Optimieren der eigenen Kommunikation, beruflich wie privat Zielgruppe: Alle, die auch beruflich sprechen Menschen, die noch nie ein Stimmtraining gemacht haben Aber auch Fortgeschrittene, die noch tiefer einsteigen möchten
 
 ## 2. Links
 

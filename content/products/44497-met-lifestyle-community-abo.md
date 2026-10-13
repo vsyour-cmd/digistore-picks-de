@@ -41,45 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Werde jetzt Mitglied und erhalte den ersten Monat der Mitgliedschaft für nur 1€.</h2>
-<p>Die Mitgliedschaft in der MET lifestyle-Community kostet <strong>19,98</strong> monatlich und läuft 1 Jahr. Hierfür kannst du alle unten aufgeführten Leistungen nutzen, so oft du möchtest.</p>
-<p><strong>Du erhältst den ersten Monat für 1 € und dann jeden weiteren Monat für 19,98 €. </strong>Später zahlst du nur umgerechnet <strong>66 Cent pro Tag</strong>, als Invest in deine Gesundheit. Teste<strong> </strong>die gesamte MET lifestyle-Community 14 Tage (Onlineseminare).</p>
-<p>Falls dir das Angebot nicht gefällt, kannst du deine Mitgliedschaft binnen 14 Tagen jederzeit zurückgeben und erhältst sogar deinen Euro zurück.</p>
-<p>Die MET lifestyle-Community ist das große Portal rund um energetische Psychologie und die MET-Klopftherapie.</p>
-<p>Als Mitglied der Community erhältst du freien Zugriff auf alle dortigen Onlinekurse, Bücher. </p>
-<h2>Unser Angebot im Detail:</h2>
-<p> </p>
-<h3>1. <br />Zu diesen Onlinekursen erhältst du Zugang</h3>
-<h3>** Gesamtwert bisher ca. 4.700 € ** </h3>
-<ul>
-<li>„Die MET-Glücksformel“ (30 Videos, plus Arbeitsblätter und Texte)</li>
-<li>12-teiliges Jahrescoaching zu den Themen Gesundheit, Partnerschaft, suchtmäßiges Verlangen, Kinder und viele weitere mehr</li>
-<li>4 stündiger Kurs "Klopf dich schlank"</li>
-<li>4 stündiger Kurs "Klopf dich erfolgreich"</li>
-<li>Die kompakten <strong>Onlinekurse</strong>
-<ul>
-<li>Klopfen mit Tieren</li>
-<li>Arbeit mit den MET-Bewusstseinskarten</li>
-<li>MET mit Kindern</li>
-<li>Dialogtechnik bei körperlichen Symptomen</li>
-<li>MET-Turbo Mentaltechnik</li>
-<li>MET Vergebungsarbeit</li>
-<li>Flugangst auflösen</li>
-<li>BSFF-Mentaltechnik</li>
-<li>Orthomolekularmedizin</li>
-<li>NEU: 6,5- stündiger Online-Kurs „Gesundheit ist Privatsache – Homöopathie für den Hausgebrauch“ mit Regina Franke</li>
-<li>Webinaraufzeichnungen, Artikel, Filme, Vorträge zu unterschiedlichen Themen. (über 60 Beiträge)</li>
-<li>Weitere Video-Kurse zu den Themen Eltern/Kind-Schule, Partnerschaft, Übergewicht, Süchte, Wahlmöglichkeiten und Affirmationen, Opferprogrammierungen.</li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>Mitgliederbereich zum internen Austausch.</li>
-</ul>
-<h3>2. Zum Selbststudium erhältst du: </h3>
-<ul>
-<li>Vier E-Books aus dem Franke Editorial (Glücksformel, Nichtraucher, Klopfen Sie sich reich, Gesund, fit und vital mit MET).</li>
-</ul>
+**Vendor's marketplace description:** Werde jetzt Mitglied und erhalte den ersten Monat der Mitgliedschaft für nur 1€. Die Mitgliedschaft in der MET lifestyle-Community kostet 19,98 monatlich und läuft 1 Jahr. Hierfür kannst du alle unten aufgeführten Leistungen nutzen, so oft du möchtest. Du erhältst den ersten Monat für 1 € und dann jeden weiteren Monat für 19,98 €. Später zahlst du nur umgerechnet 66 Cent pro Tag , als Invest in deine Gesundheit. Teste die gesamte MET lifestyle-Community 14 Tage (Onlineseminare). Falls dir das Angebot nicht gefällt, kannst du deine Mitgliedschaft binnen 14 Tagen jederzeit zurückgeben und erhältst sogar deinen Euro zurück. Die MET lifestyle-Community ist das große Portal rund um energetische Psychologie und die MET-Klopftherapie. Als Mitglied der Community erhältst du freien Zugriff auf alle dortigen Onlinekurse, Bücher. Unser Angebot im Detail: 1. Zu diesen Onlinekursen erhältst du Zugang ** Gesamtwert bisher ca. 4.700 € ** „Die MET-Glücksformel“ (30 Videos, plus Arbeitsblätter und Texte) 12-teiliges Jahrescoaching zu den Themen Gesundheit, Partnerschaft, suchtmäßiges Verlangen, Kinder und viele weitere mehr 4 stündiger Kurs "Klopf dich schlank" 4 stündiger Kurs "Klopf dich erfolgreich" Die kompakten Onlinekurse Klopfen mit Tieren Arbeit mit den MET-Bewusstseinskarten MET mit Kindern Dialogtechnik bei körperlichen Symptomen MET-Turbo Mentaltechnik MET Vergebungsarbeit Flugangst auflösen BSFF-Mentaltechnik Orthomolekularmedizin NEU: 6,5- stündiger Online-Kurs „Gesundheit ist Privatsache – Homöopathie für den Hausgebrauch“ mit Regina Franke Webinaraufzeichnungen, Artikel, Filme, Vorträge zu unterschiedlichen Themen. (über 60 Beiträge) Weitere Video-Kurse zu den Themen Eltern/Kind-Schule, Partnerschaft, Übergewicht, Süchte, Wahlmöglichkeiten und Affirmationen, Opferprogrammierungen. Mitgliederbereich zum internen Austausch. 2. Zum Selbststudium erhältst du: Vier E-Books aus dem Franke Editorial (Glücksformel, Nichtraucher, Klopfen Sie sich reich, Gesund, fit und vital mit MET).
 
 ## 2. Links
 

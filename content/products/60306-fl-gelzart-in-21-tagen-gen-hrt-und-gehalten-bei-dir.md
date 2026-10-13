@@ -41,42 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Flügelzart – genährt, gehalten und geliebt bei dir selbst ankommen</strong></p>
-<p>Mit der Traumaorientierten Körperzentrierten Hypnose.</p>
-<ul>
-<li>Fühlst du dich manchmal so, als würdest du dich im Kontakt mit anderen verlieren?</li>
-<li>Als wäre deine Aufmerksamkeit mehr beim Gegenüber als bei dir selbst?</li>
-<li>Versuchst du zu gefallen, dich anzupassen, bist gedanklich in der Vergangenheit oder in der Zukunft – und spürst dabei, dass du dich nicht wirklich gehalten, sicher und stabil fühlst?</li>
-<li>Hängt dir der Tag und Momente lange nach und du zweifelst an dir und deinem Verhalten?</li>
-<li>Suchst du Sicherheit &amp; Halt in guten Rahmenbedingungen während du innerlich in Unruhe und Unsicherheit bist?</li>
-</ul>
-<p><em>Dann ist „Flügelzart - für tiefe innere Verbindung“ genau das Richtige für dich.</em></p>
-<p>Hier geht es darum, über Wissen hinauszugehen und in deinem Körper eine neue, tiefe Erfahrung von Regulation, Sicherheit, Gehaltensein und Genährtsein zu machen – ohne dabei beim anderen oder in Gedanken in der Vergangenheit oder Zukunft festzuhängen.</p>
-<p> </p>
-<p><strong>Was dich erwartet:</strong></p>
-<p><strong>21 Tage Begleitung mit </strong></p>
-<ul>
-<li>
-<p>105 angeleitete Nervensystem-Praxis mit der Traumaorientierten Körperzentrierten Hypnose als Audio – morgens und abends – in kurz (ca. 10 bis 15 Minuten) und lang (ca. 30 bis 45 Minuten): kurz für hektische Tage oder lang für tieferes Eintauchen.</p>
-</li>
-<li>
-<p>21 Audio- oder Videobotschaften von Jennifer, die du leicht in deinen Alltag integrieren kannst – es fühlt sich an, als begleite dich Jennifer wie eine gute Freundin, ganz nah bei dir.</p>
-</li>
-<li>
-<p>Zugang zu allen Inhalten im persönlichen Online-Bereich und über die App auf deinem Handy.</p>
-</li>
-</ul>
-<p> </p>
-<p><strong>Dein Erleben polt sich auf Sicherheit in FLÜGELZART:</strong></p>
-<p>Du wirst du spüren, dass „Flügelzart“ eine Erfahrung ist, die in deinem Körper angekommen ist.<br />Nicht im Kopf, sondern tief in dir.<br />Nicht im Außen, sondern in deinem Inneren.</p>
-<p><em>Gehalten. Genährt. Geliebt. Sicher.</em></p>
-<p>Ich freue mich sehr, dass du diesen Weg für dich wählst – und dich selbst über deinen Körper und ein reguliertes Nervensystem wiederfindest.</p>
-<p><strong>Deine </strong></p>
-<p><strong>Jennifer</strong></p>
-<p> </p>
-<h6><strong>_______________________________________</strong></h6>
-<h6>Mit Deiner Anmeldung nimmst Du zur Kenntnis und stimmst zu, dass wir durch Fingerprinting über die Weitergabe deiner Inhalte (Zugang unerlaubt an Dritte Personen, Teilen des Accounts) informiert werden und so das unerlaubtes Teilen Deines Logins verhindern und untersagen. Du erhältst einen Login und kannst auschließlich auf einem Gerät eingeloggt sein.<br /><br /><br />Disclaimer:</h6>
-<h6>Die Online Begleitung FLÜGELZART ist nicht als Ersatz für ärztliche oder psychotherapeutische Therapie gedacht. Falls Du dich in einer solchen Situation befindest, kann dieser nach Absprache mit dem verantwortlichen Therapeuten, hervorragend komplementär hinzugezogen werden.</h6>
+**Vendor's marketplace description:** Flügelzart – genährt, gehalten und geliebt bei dir selbst ankommen Mit der Traumaorientierten Körperzentrierten Hypnose. Fühlst du dich manchmal so, als würdest du dich im Kontakt mit anderen verlieren? Als wäre deine Aufmerksamkeit mehr beim Gegenüber als bei dir selbst? Versuchst du zu gefallen, dich anzupassen, bist gedanklich in der Vergangenheit oder in der Zukunft – und spürst dabei, dass du dich nicht wirklich gehalten, sicher und stabil fühlst? Hängt dir der Tag und Momente lange nach und du zweifelst an dir und deinem Verhalten? Suchst du Sicherheit & Halt in guten Rahmenbedingungen während du innerlich in Unruhe und Unsicherheit bist? Dann ist „Flügelzart - für tiefe innere Verbindung“ genau das Richtige für dich. Hier geht es darum, über Wissen hinauszugehen und in deinem Körper eine neue, tiefe Erfahrung von Regulation, Sicherheit, Gehaltensein und Genährtsein zu machen – ohne dabei beim anderen oder in Gedanken in der Vergangenheit oder Zukunft festzuhängen. Was dich erwartet: 21 Tage Begleitung mit 105 angeleitete Nervensystem-Praxis mit der Traumaorientierten Körperzentrierten Hypnose als Audio – morgens und abends – in kurz (ca. 10 bis 15 Minuten) und lang (ca. 30 bis 45 Minuten): kurz für hektische Tage oder lang für tieferes Eintauchen. 21 Audio- oder Videobotschaften von Jennifer, die du leicht in deinen Alltag integrieren kannst – es fühlt sich an, als begleite dich Jennifer wie eine gute Freundin, ganz nah bei dir. Zugang zu allen Inhalten im persönlichen Online-Bereich und über die App auf deinem Handy. Dein Erleben polt sich auf Sicherheit in FLÜGELZART: Du wirst du spüren, dass „Flügelzart“ eine Erfahrung ist, die in deinem Körper angekommen ist. Nicht im Kopf, sondern tief in dir. Nicht im Außen, sondern in deinem Inneren. Gehalten. Genährt. Geliebt. Sicher. Ich freue mich sehr, dass du diesen Weg für dich wählst – und dich selbst über deinen Körper und ein reguliertes Nervensystem wiederfindest. Deine Jennifer _______________________________________ Mit Deiner Anmeldung nimmst Du zur Kenntnis und stimmst zu, dass wir durch Fingerprinting über die Weitergabe deiner Inhalte (Zugang unerlaubt an Dritte Personen, Teilen des Accounts) informiert werden und so das unerlaubtes Teilen Deines Logins verhindern und untersagen. Du erhältst einen Login und kannst auschließlich auf einem Gerät eingeloggt sein. Disclaimer: Die Online Begleitung FLÜGELZART ist nicht als Ersatz für ärztliche oder psychotherapeutische Therapie gedacht. Falls Du dich in einer solchen Situation befindest, kann dieser nach Absprache mit dem verantwortlichen Therapeuten, hervorragend komplementär hinzugezogen werden.
 
 ## 2. Links
 

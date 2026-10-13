@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die "Faceless Content Maschine" ist der ultimative Copy-Paste-Guide (inkl. 200 Hooks &amp; KI-Prompts) für alle, die online anonym starten wollen.</p>
-<p><strong>Warum du dieses Produkt promoten solltest:</strong></p>
-<p>✅ <strong>Riesige Zielgruppe:</strong> Jeder will online starten, 90% wollen aber ihr Gesicht nicht zeigen. </p>
-<p>✅ <strong>Hohe Conversion-Rate:</strong> Die Salespage ist auf puren "Quiet Luxury" Look getrimmt und konvertiert wie verrückt.</p>
-<p>✅ <strong>50 % Provision:</strong> Du bekommst die Hälfte von jedem einzelnen Sale!</p>
+**Vendor's marketplace description:** Die "Faceless Content Maschine" ist der ultimative Copy-Paste-Guide (inkl. 200 Hooks & KI-Prompts) für alle, die online anonym starten wollen. Warum du dieses Produkt promoten solltest: ✅ Riesige Zielgruppe: Jeder will online starten, 90% wollen aber ihr Gesicht nicht zeigen. ✅ Hohe Conversion-Rate: Die Salespage ist auf puren "Quiet Luxury" Look getrimmt und konvertiert wie verrückt. ✅ 50 % Provision: Du bekommst die Hälfte von jedem einzelnen Sale!
 
 ## 2. Links
 

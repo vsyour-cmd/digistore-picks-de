@@ -41,53 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Über 24 Experten, Doktoren, Ärzte und Betroffene teilen mit Dir ihr gesamtes Wissen über wirksame Methoden zur ursächlichen Behandlung von MS.</strong></p>
-<div>
-<p><strong>8 gute Gründe, warum du an diesem einmaligen Wissensevent kostenfrei teilnehmen musst ...</strong></p>
-</div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<ul><li>
-<div> </div>
-Entdecke <strong>die ​Gründe für die Entstehung</strong> ​von Multiplesklerose (Es ist nicht nur die Genetik!)</li>
-<li>
-<div> </div>
-Erfahre, welche <strong>Hauptfaktoren</strong> ​Multiplesklerose begünstigen und mit welchen einfachen Mitteln du diese Faktoren entgegenwirken kannst</li>
-<li>
-<div> </div>
-Erfahre alles über den unterschätzten Zusammenhang von Ernährung und dem Auftreten von ​​Multiplesklerose, sowie ein <strong>erprobtes Ernährungsprotokoll zur Prävention</strong>und Therapie von Erkrankungen</li>
-<li>
-<div> </div>
-Lerne, in welchem <strong>Zusammenhang mit anderen Erkrankunge</strong> das Auftreten von ​Multiplesklerose stehen kann. </li>
-</ul></div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<ul><li>
-<div> </div>
-Lerne, welche Rolle Umweltgift spielen</li>
-<li>
-<div> </div>
-Verstehe <strong>die Rolle deiner eigenen </strong><strong>Genetik</strong> für die Wahrscheinlichkeit ​​von Multiplesklerose und ob es jeden von uns treffen kann.</li>
-<li>
-<div> </div>
-Begreife die wahren Auswirkungen ​konventioneller Therapien und wie du schon <strong>vor der Durchführung von Therapien</strong> deren <strong>Erfolg </strong>durch <strong>Messmethoden</strong> <strong>bestimmen</strong> kannst</li>
-<li>
-<div> </div>
-Entdecke die <strong>Wirkung spezieller Naturmittel</strong>, die das Risiko einer ​Multiple­sklerose­erkrankung und ihre Beschwerden stark reduzieren können</li>
-</ul></div>
-</div>
-</div>
-</div>
-</div>
-<div>
-<p><strong>TRAGE DICH JETZT EIN UND SICHERE DIR DEINEN GRATIS ZUGANG ZUM KONGRESS.</strong></p>
-</div>
+**Vendor's marketplace description:** Über 24 Experten, Doktoren, Ärzte und Betroffene teilen mit Dir ihr gesamtes Wissen über wirksame Methoden zur ursächlichen Behandlung von MS. 8 gute Gründe, warum du an diesem einmaligen Wissensevent kostenfrei teilnehmen musst ... Entdecke die ​Gründe für die Entstehung ​von Multiplesklerose (Es ist nicht nur die Genetik!) Erfahre, welche Hauptfaktoren ​Multiplesklerose begünstigen und mit welchen einfachen Mitteln du diese Faktoren entgegenwirken kannst Erfahre alles über den unterschätzten Zusammenhang von Ernährung und dem Auftreten von ​​Multiplesklerose, sowie ein erprobtes Ernährungsprotokoll zur Prävention und Therapie von Erkrankungen Lerne, in welchem Zusammenhang mit anderen Erkrankunge das Auftreten von ​Multiplesklerose stehen kann. Lerne, welche Rolle Umweltgift spielen Verstehe die Rolle deiner eigenen Genetik für die Wahrscheinlichkeit ​​von Multiplesklerose und ob es jeden von uns treffen kann. Begreife die wahren Auswirkungen ​konventioneller Therapien und wie du schon vor der Durchführung von Therapien deren Erfolg durch Messmethoden bestimmen kannst Entdecke die Wirkung spezieller Naturmittel , die das Risiko einer ​Multiple­sklerose­erkrankung und ihre Beschwerden stark reduzieren können TRAGE DICH JETZT EIN UND SICHERE DIR DEINEN GRATIS ZUGANG ZUM KONGRESS.
 
 ## 2. Links
 

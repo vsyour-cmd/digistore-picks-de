@@ -41,60 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><strong><a>Herpes war gestern!</a></strong></h1>
-<h2><strong>Das Immunsystem-Transformations-Training.</strong></h2>
-<p>90% der deutschen Erwachsenen sind mit Herpesviren infiziert. Unangefochtene Nummer 1 unter den Herpesviren ist das Herpes-Simplex-Virus Typ1, das in der Regel für Lippenherpes und Herpes an anderen Gesichtsstellen verantwortlich ist. Aber auch Genitalherpes - hervorgerufen durch Herpes-Simplex-Virus Typ2 - verbreitet sich zunehmend.</p>
-<p>Bei etwa einem Drittel der Infizierten kommt es regelmäßig zu Herpesausbrüchen mit den bekannten Symptomen - den Herpesbläschen (je nach Region auch Fieberblasen genannt) mit einhergehenden Schmerzen, Unwohlsein bis hin zu Fieber und einem Gefühl von Krankheit. Worüber kaum einer spricht sind das Schamgefühl und die psychische Belastung, die mit regelmäßigem Herpes einhergehen und damit die Lebensqualität und das Lebensgefühl der Betroffenen belasten.</p>
-<p><strong>Meine Mission ist es, so vielen Herpesleidenden wie möglich zu einem Leben zu verhelfen, in dem Herpes keine Rolle spielt. Aber hierzu bin ich auch auf Deine Hilfe angewiesen!</strong></p>
-<p>Denn ich habe das Produkt und Du die potentiellen Kunden. Und damit wir alle etwas davon haben, beträgt die Provision für erfolgreich vermittelte Verkäufe 50%!</p>
-<p><strong>Deine Provision beträgt 50% vom gezahlten Produktpreis abzgl. der Digistore24-Gebühren.</strong></p>
-<p> </p>
-<p><strong>Das Produkt, für das ich dich als Werbepartner gewinnen möchte, ist ein Videokurs in 34 Teilen. Es handelt sich dabei um ein Gesundheitscoaching für Herpesleidende mit dem Ziel, die individuell notwendigen Maßnahmen zu ergreifen, um das körpereigene Immunsystem zu sanieren, so dass es lernt, Herpesviren effektiv an Herpesausbrüchen zu hindern.</strong></p>
-<p>Zwei Drittel der Virusträger leiden nicht regelmäßig an Herpesrezidiven oder sogar nie. Und ich coache die Teilnehmer meines Videokurses zu einem stabilen Immunsystem, das in die Lage versetzt wird, Herpesausbrüche zu unterbinden, so dass sie zu dem Großteil der Virusträger gehören, bei denen die Herpesviren nicht ständig Herpessymptome hervorrufen.</p>
-<p> </p>
-<h2><strong><span style="color:#ff0000;">VORTEILE FÜR DEINE COMMUNITY</span></strong></h2>
-<p><strong>Deine Community erfährt in diesem Online-Kurs mit über 30 Videos <br /></strong></p>
-<ul><li>wie sie ihr<strong> Immunsystem richtig ernährt</strong>,</li>
-<li>wie sie die Aufnahme von <strong>Mikronährstoffen</strong> optimiert,</li>
-<li>wie sie das Zuhause ihres Immunsystems - ihren<strong> Darm fit macht </strong>und gesund hält,</li>
-<li>wie <strong>sie ihre persönlichen immunschwächenden und herpesauslösenden Faktoren </strong>identifiziert und beseitigt,<strong><br /></strong></li>
-<li>wie sie <strong>Herpesausbrüche verhindert</strong>.</li>
-</ul><p>In dem Trainingsprogramm zeige ich Deiner Community, wie sie herausfindet, warum das eigene Immunsystem bisher nicht gelernt hat, sie vor Herpes zu schützen und natürlich, wie sie es dafür nun trainiert und ausbildet.</p>
-<p> </p>
-<p><strong>Deine Community hat NULL Risiko:</strong></p>
-<ul><li>60 Tage Geld-zurück-Garantie (Risikoumkehr)</li>
-<li>zeitlich unbegrenzter Zugriff</li>
-<li>kein Abo!</li>
-</ul><p> </p>
-<h2><strong><span style="color:#ff0000;">VORTEILE FÜR DICH</span></strong></h2>
-<ul><li>Hohe <strong>Provision</strong> von <strong>50% </strong>für die Einmal- und die Ratenzahlung</li>
-<li><strong>Konzipiert</strong>, <strong>getestet</strong> und <strong>optimiert</strong> im Dialog mit meinen Kunden</li>
-<li><strong>hohe Konvertierung </strong>durch Risikoumkehr<strong><br /></strong></li>
-</ul><p> </p>
-<h2><strong>Und so einfach funktioniert mein Partnerprogramm:</strong></h2>
-<ol><li>
-<p>Du empfiehlst den Besuchern deiner Website oder den Empfängern deiner E-Mails mit meinen zahlreichen Marketingmaterialien meinen kostenlosen, 3-teiligen Videokurs (zzgl. einem Bonusteil) "Wie Herpesbläschen 3x schneller abheilen und du Herpesausbrüche verhinderst!"</p>
-<p><span style="color:#ff0000;">Deine Besucher melden sich zu meinem kostenlosen Kurs an und starten damit den Funnel.</span></p>
-</li>
-<li>
-<p>Schon mein Gratiskurs hält, was er verspricht. Er zeigt den ersten von 3 Schritten einer von mir entwickelten und zahlreich erfolgreich angewendeten Strategie, die die Teilnehmer zu einem Leben führen, in dem Herpes keine Rolle mehr spielt.</p>
-<p>Innerhalb des Gratiskurses und des Funnels begeistere ich die Teilnehmer von meinem Kaufprodukt "Herpes war gestern - Das Immunsystem-Transformations-Training" und zeige Ihnen, dass es lebensnotwendig ist, das Immunsystem zu sanieren und auch die Schritte 2 und 3 der Strategie umzusetzen, um nachhaltig und gesund ein herpessicheres Immunsystem aufzubauen.</p>
-<p>Die 3-Schritt-Formel wird im Gratiskurs und Funnel ausführlich erklärt.</p>
-</li>
-<li>
-<p>Für jeden erfolgreichen Verkauf erhältst Du eine Provision in Höhe von 50% des Verkaufspreises, der zurzeit bei 149 € liegt, abzgl. der Digistore24-Gebühren.</p>
-<p>Alleine in Deutschland richtet sich der Kurs an etwa 15 Mio. Betroffene, die mehr oder weniger häufig und intensiv an Herpes leiden.</p>
-<p>Und mit Deiner Hilfe möchte ich so vielen Menschen wie möglich durch mein Programm helfen!</p>
-</li>
-</ol><p> </p>
-<h2><strong>Ein einzigartiges Produkt:</strong></h2>
-<p>Seit inzwischen über 10 Jahren bin ich nun Experte für Herpes. Als studierter Wissenschaftler und Gesundheitsberater, der in seiner Kindheit und Jugend selbst stark an Herpes gelitten hat, habe ich den Videokurs im Dialog mit meinen Kunden über mehr als 1 1/2 Jahre entwickelt.</p>
-<p><strong>Herausgekommen ist das einzige</strong> (mir bekannte) <strong>Produkt auf dem Markt, dass Herpesleidende dazu anleitet, die Ursache von häufigen oder intensiven Herpesrezidiven zu beheben</strong>, während die allseits bekannten Salben, technischen Hilfsmittel und Tabletten stets nur darauf ausgelegt sind, die Symptome zu behandeln oder gar nur zu verstecken, wie es bei den Herpespatches der Fall ist.</p>
-<p><strong>In meinem videogestützten Onlinecoachingprogramm "Herpes war gestern" zeige ich, wie die Betroffenen herausfinden, warum ihr Immunsystem bisher nicht gelernt hat, sie vor Herpes zu schützen und natürlich, wie sie es dafür trainieren und ausbilden.</strong></p>
-<p><strong>Mithilfe von über 30 Videolektionen identifizieren sie ihre herpesauslösenden Faktoren und lernen, wie man diese beseitigen kann.</strong></p>
-<p> </p>
-<p><strong>Herpesfreie Grüße, Dein Marcel Höhrmann.<br /></strong></p>
-<p> </p>
+**Vendor's marketplace description:** Herpes war gestern! Das Immunsystem-Transformations-Training. 90% der deutschen Erwachsenen sind mit Herpesviren infiziert. Unangefochtene Nummer 1 unter den Herpesviren ist das Herpes-Simplex-Virus Typ1, das in der Regel für Lippenherpes und Herpes an anderen Gesichtsstellen verantwortlich ist. Aber auch Genitalherpes - hervorgerufen durch Herpes-Simplex-Virus Typ2 - verbreitet sich zunehmend. Bei etwa einem Drittel der Infizierten kommt es regelmäßig zu Herpesausbrüchen mit den bekannten Symptomen - den Herpesbläschen (je nach Region auch Fieberblasen genannt) mit einhergehenden Schmerzen, Unwohlsein bis hin zu Fieber und einem Gefühl von Krankheit. Worüber kaum einer spricht sind das Schamgefühl und die psychische Belastung, die mit regelmäßigem Herpes einhergehen und damit die Lebensqualität und das Lebensgefühl der Betroffenen belasten. Meine Mission ist es, so vielen Herpesleidenden wie möglich zu einem Leben zu verhelfen, in dem Herpes keine Rolle spielt. Aber hierzu bin ich auch auf Deine Hilfe angewiesen! Denn ich habe das Produkt und Du die potentiellen Kunden. Und damit wir alle etwas davon haben, beträgt die Provision für erfolgreich vermittelte Verkäufe 50%! Deine Provision beträgt 50% vom gezahlten Produktpreis abzgl. der Digistore24-Gebühren. Das Produkt, für das ich dich als Werbepartner gewinnen möchte, ist ein Videokurs in 34 Teilen. Es handelt sich dabei um ein Gesundheitscoaching für Herpesleidende mit dem Ziel, die individuell notwendigen Maßnahmen zu ergreifen, um das körpereigene Immunsystem zu sanieren, so dass es lernt, Herpesviren effektiv an Herpesausbrüchen zu hindern. Zwei Drittel der Virusträger leiden nicht regelmäßig an Herpesrezidiven oder sogar nie. Und ich coache die Teilnehmer meines Videokurses zu einem stabilen Immunsystem, das in die Lage versetzt wird, Herpesausbrüche zu unterbinden, so dass sie zu dem Großteil der Virusträger gehören, bei denen die Herpesviren nicht ständig Herpessymptome hervorrufen. VORTEILE FÜR DEINE COMMUNITY Deine Community erfährt in diesem Online-Kurs mit über 30 Videos wie sie ihr Immunsystem richtig ernährt , wie sie die Aufnahme von Mikronährstoffen optimiert, wie sie das Zuhause ihres Immunsystems - ihren Darm fit macht und gesund hält, wie sie ihre persönlichen immunschwächenden und herpesauslösenden Faktoren identifiziert und beseitigt, wie sie Herpesausbrüche verhindert . In dem Trainingsprogramm zeige ich Deiner Community, wie sie herausfindet, warum das eigene Immunsystem bisher nicht gelernt hat, sie vor Herpes zu schützen und natürlich, wie sie es dafür nun trainiert und ausbildet. Deine Community hat NULL Risiko: 60 Tage Geld-zurück-Garantie (Risikoumkehr) zeitlich unbegrenzter Zugriff kein Abo! VORTEILE FÜR DICH Hohe Provision von 50% für die Einmal- und die Ratenzahlung Konzipiert , getestet und optimiert im Dialog mit meinen Kunden hohe Konvertierung durch Risikoumkehr Und so einfach funktioniert mein Partnerprogramm: Du empfiehlst den Besuchern deiner Website oder den Empfängern deiner E-Mails mit meinen zahlreichen Marketingmaterialien meinen kostenlosen, 3-teiligen Videokurs (zzgl. einem Bonusteil) "Wie Herpesbläschen 3x schneller abheilen und du Herpesausbrüche verhinderst!" Deine Besucher melden sich zu meinem kostenlosen Kurs an und starten damit den Funnel. Schon mein Gratiskurs hält, was er verspricht. Er zeigt den ersten von 3 Schritten einer von mir entwickelten und zahlreich erfolgreich angewendeten Strategie, die die Teilnehmer zu einem Leben führen, in dem Herpes keine Rolle mehr spielt. Innerhalb des Gratiskurses und des Funnels begeistere ich die Teilnehmer von meinem Kaufprodukt "Herpes war gestern - Das Immunsystem-Transformations-Training" und zeige Ihnen, dass es lebensnotwendig ist, das Immunsystem zu sanieren und auch die Schritte 2 und 3 der Strategie umzusetzen, um nachhaltig und gesund ein herpessicheres Immunsystem aufzubauen. Die 3-Schritt-Formel wird im Gratiskurs und Funnel ausführlich erklärt. Für jeden erfolgreichen Verkauf erhältst Du eine Provision in Höhe von 50% des Verkaufspreises, der zurzeit bei 149 € liegt, abzgl. der Digistore24-Gebühren. Alleine in Deutschland richtet sich der Kurs an etwa 15 Mio. Betroffene, die mehr oder weniger häufig und intensiv an Herpes leiden. Und mit Deiner Hilfe möchte ich so vielen Menschen wie möglich durch mein Programm helfen! Ein einzigartiges Produkt: Seit inzwischen über 10 Jahren bin ich nun Experte für Herpes. Als studierter Wissenschaftler und Gesundheitsberater, der in seiner Kindheit und Jugend selbst stark an Herpes gelitten hat, habe ich den Videokurs im Dialog mit meinen Kunden über mehr als 1 1/2 Jahre entwickelt. Herausgekommen ist das einzige (mir bekannte) Produkt auf dem Markt, dass Herpesleidende dazu anleitet, die Ursache von häufigen oder intensiven Herpesrezidiven zu beheben , während die allseits bekannten Salben, technischen Hilfsmittel und Tabletten stets nur darauf ausgelegt sind, die Symptome zu behandeln oder gar nur zu verstecken, wie es bei den Herpespatches der Fall ist. In meinem videogestützten Onlinecoachingprogramm "Herpes war gestern" zeige ich, wie die Betroffenen herausfinden, warum ihr Immunsystem bisher nicht gelernt hat, sie vor Herpes zu schützen und natürlich, wie sie es dafür trainieren und ausbilden. Mithilfe von über 30 Videolektionen identifizieren sie ihre herpesauslösenden Faktoren und lernen, wie man diese beseitigen kann. Herpesfreie Grüße, Dein Marcel Höhrmann.
 
 ## 2. Links
 

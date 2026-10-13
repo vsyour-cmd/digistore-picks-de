@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>AUDI Q7 4L FACELIFT CONVERSION GUIDE</p>
-<p>Dieser Praxis-Guide zeigt Schritt für Schritt, wie ein Audi Q7 4L Vor-Facelift Modell auf die Facelift-Optik (2010–2015) umgebaut werden kann.</p>
-<p>Viele Besitzer möchten ihr Fahrzeug optisch auf das neuere Modell umrüsten. Dieser Guide erklärt verständlich, welche Teile benötigt werden und worauf beim Umbau geachtet werden muss.</p>
-<p>Der Guide zeigt unter anderem:</p>
-<p>• Unterschiede zwischen Vor-Facelift und Facelift<br />• benötigte Facelift-Teile<br />• Frontumbau (Stoßstange, Grill, Scheinwerfer)<br />• wichtige Anpassungen beim Umbau<br />• typische Probleme und Lösungen</p>
-<p>Ideal für:</p>
-<p>• Audi Q7 Besitzer<br />• Hobbyschrauber<br />• Tuning-Fans<br />• Werkstätten</p>
-<p>Provision für Affiliates: 50%</p>
+**Vendor's marketplace description:** AUDI Q7 4L FACELIFT CONVERSION GUIDE Dieser Praxis-Guide zeigt Schritt für Schritt, wie ein Audi Q7 4L Vor-Facelift Modell auf die Facelift-Optik (2010–2015) umgebaut werden kann. Viele Besitzer möchten ihr Fahrzeug optisch auf das neuere Modell umrüsten. Dieser Guide erklärt verständlich, welche Teile benötigt werden und worauf beim Umbau geachtet werden muss. Der Guide zeigt unter anderem: • Unterschiede zwischen Vor-Facelift und Facelift • benötigte Facelift-Teile • Frontumbau (Stoßstange, Grill, Scheinwerfer) • wichtige Anpassungen beim Umbau • typische Probleme und Lösungen Ideal für: • Audi Q7 Besitzer • Hobbyschrauber • Tuning-Fans • Werkstätten Provision für Affiliates: 50%
 
 ## 2. Links
 

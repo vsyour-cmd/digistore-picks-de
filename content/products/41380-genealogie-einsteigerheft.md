@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du hast einen Blog, eine Webseite oder bist in den sozialen Medien in Sachen Ahnenforschung/Genealogie oder Geschichte unterwegs und möchtest Einsteigern mit diesem Heft eine praktische Ausfüllhilfe an die Hand geben?</p>
-<p>Das Heft wird in Din A5 geliefert und umfasst die ersten 4 Vorfahrengenerationen. Optimal also, um die Großeltern zu ihren Eltern und Großeltern zu befragen!</p>
-<p>Das Jugend-Forscher-Projekt richtet sich an jugendliche Ahnenforscher bei ihrem Einstieg in die Genealogie, kann aber natürlich auch von allen älteren Anfängern genutzt werden.</p>
-<p><em>Interessierte Affiliatepartner senden bitte parallel zur Anfrage auf Digistore24 eine Mail an <a href="mailto:affiliates@jugend-forscher.de">affiliates@jugend-forscher.de</a> mit der kurzen Information, auf welchen Portalen (Adresse/Nutzername) sie das Heft bewerben wollen.</em></p>
+**Vendor's marketplace description:** Du hast einen Blog, eine Webseite oder bist in den sozialen Medien in Sachen Ahnenforschung/Genealogie oder Geschichte unterwegs und möchtest Einsteigern mit diesem Heft eine praktische Ausfüllhilfe an die Hand geben? Das Heft wird in Din A5 geliefert und umfasst die ersten 4 Vorfahrengenerationen. Optimal also, um die Großeltern zu ihren Eltern und Großeltern zu befragen! Das Jugend-Forscher-Projekt richtet sich an jugendliche Ahnenforscher bei ihrem Einstieg in die Genealogie, kann aber natürlich auch von allen älteren Anfängern genutzt werden. Interessierte Affiliatepartner senden bitte parallel zur Anfrage auf Digistore24 eine Mail an affiliates@jugend-forscher.de mit der kurzen Information, auf welchen Portalen (Adresse/Nutzername) sie das Heft bewerben wollen.
 
 ## 2. Links
 

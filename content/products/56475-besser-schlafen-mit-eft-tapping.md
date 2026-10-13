@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Viele Menschen sind abends erschöpft — und können trotzdem nicht abschalten.</p>
-<p>Dieser ruhig aufgebaute Selbstlernkurs zeigt Schritt für Schritt, wie EFT Tapping helfen kann, das Nervensystem zu beruhigen, innere Anspannung zu lösen und leichter einzuschlafen.</p>
-<p>Der Kurs kombiniert:</p>
-<p>•⁠ ⁠EFT Tapping für den Abend<br />•⁠ ⁠sanfte Nervensystem-Regulation<br />•⁠ ⁠kurze praktische Übungen<br />•⁠ ⁠geführte Video und Audio-Lektionen<br />•⁠ ⁠alltagstaugliche Selbstanwendung</p>
-<p>Teilnehmer lernen:</p>
-<p>•⁠ ⁠abends besser herunterzufahren<br />•⁠ ⁠nächtliches Gedankenkarussell zu beruhigen<br />•⁠ ⁠innere Unruhe zu reduzieren<br />•⁠ ⁠sich sicherer &amp; entspannter im Körper zu fühlen</p>
-<p>Kein Vorwissen notwendig.</p>
-<p>Die Inhalte sind ruhig, hochwertig und leicht umsetzbar — perfekt für eine breite Zielgruppe im Bereich Schlaf, Stress &amp; emotionale Erschöpfung.</p>
-<p>⸻</p>
-<p>ZIELGRUPPE</p>
-<p>•⁠ ⁠Menschen mit Schlafproblemen<br />•⁠ ⁠Einschlafprobleme<br />•⁠ ⁠nächtliches Aufwachen<br />•⁠ ⁠Gedankenkarussell<br />•⁠ ⁠Stress &amp; innere Unruhe<br />•⁠ ⁠erschöpfte Frauen<br />•⁠ ⁠sensible Menschen<br />•⁠ ⁠Nervensystem-Regulation<br />•⁠ ⁠Selfcare &amp; Entspannung<br />•⁠ ⁠Persönlichkeitsentwicklung</p>
-<p>⸻</p>
-<p>AFFILIATE-VORTEILE</p>
-<p>✅ Emotionales Alltagsthema mit hoher Nachfrage<br />✅ Sehr starke Reel- &amp; Hook-Möglichkeiten<br />✅ Organisch gut über Instagram/TikTok promotbar<br />✅ Große Zielgruppe<br />✅ Ruhige Wellness-/Selfcare-Nische<br />✅ Einfach verständliches Produkt<br />✅ Sofort digital verfügbar<br />✅ Perfekt für Storytelling &amp; Erfahrungscontent</p>
-<p>⸻</p>
-<p>STARKE AFFILIATE-HOOKS</p>
-<p>•⁠ ⁠„Warum du trotz Müdigkeit nicht schlafen kannst“<br />•⁠ ⁠„Dein Körper ist müde — dein Nervensystem nicht“<br />•⁠ ⁠„So kommst du abends endlich innerlich zur Ruhe“<br />•⁠ ⁠„Viele Menschen brauchen nicht mehr Disziplin — sondern Regulation“<br />•⁠ ⁠„Wenn dein Kopf nachts nicht abschalten kann …“</p>
+**Vendor's marketplace description:** Viele Menschen sind abends erschöpft — und können trotzdem nicht abschalten. Dieser ruhig aufgebaute Selbstlernkurs zeigt Schritt für Schritt, wie EFT Tapping helfen kann, das Nervensystem zu beruhigen, innere Anspannung zu lösen und leichter einzuschlafen. Der Kurs kombiniert: •⁠ ⁠EFT Tapping für den Abend •⁠ ⁠sanfte Nervensystem-Regulation •⁠ ⁠kurze praktische Übungen •⁠ ⁠geführte Video und Audio-Lektionen •⁠ ⁠alltagstaugliche Selbstanwendung Teilnehmer lernen: •⁠ ⁠abends besser herunterzufahren •⁠ ⁠nächtliches Gedankenkarussell zu beruhigen •⁠ ⁠innere Unruhe zu reduzieren •⁠ ⁠sich sicherer & entspannter im Körper zu fühlen Kein Vorwissen notwendig. Die Inhalte sind ruhig, hochwertig und leicht umsetzbar — perfekt für eine breite Zielgruppe im Bereich Schlaf, Stress & emotionale Erschöpfung. ⸻ ZIELGRUPPE •⁠ ⁠Menschen mit Schlafproblemen •⁠ ⁠Einschlafprobleme •⁠ ⁠nächtliches Aufwachen •⁠ ⁠Gedankenkarussell •⁠ ⁠Stress & innere Unruhe •⁠ ⁠erschöpfte Frauen •⁠ ⁠sensible Menschen •⁠ ⁠Nervensystem-Regulation •⁠ ⁠Selfcare & Entspannung •⁠ ⁠Persönlichkeitsentwicklung ⸻ AFFILIATE-VORTEILE ✅ Emotionales Alltagsthema mit hoher Nachfrage ✅ Sehr starke Reel- & Hook-Möglichkeiten ✅ Organisch gut über Instagram/TikTok promotbar ✅ Große Zielgruppe ✅ Ruhige Wellness-/Selfcare-Nische ✅ Einfach verständliches Produkt ✅ Sofort digital verfügbar ✅ Perfekt für Storytelling & Erfahrungscontent ⸻ STARKE AFFILIATE-HOOKS •⁠ ⁠„Warum du trotz Müdigkeit nicht schlafen kannst“ •⁠ ⁠„Dein Körper ist müde — dein Nervensystem nicht“ •⁠ ⁠„So kommst du abends endlich innerlich zur Ruhe“ •⁠ ⁠„Viele Menschen brauchen nicht mehr Disziplin — sondern Regulation“ •⁠ ⁠„Wenn dein Kopf nachts nicht abschalten kann …“
 
 ## 2. Links
 

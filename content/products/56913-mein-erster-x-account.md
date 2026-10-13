@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Von null zum aktiven Profil, das gelesen, geliked und weiterempfohlen wird</strong></p>
-<p>X (ehemals Twitter) ist die Plattform für Ideen, Meinungen und Konversationen – aber wer ohne Plan startet, verliert sich schnell im Feed-Rauschen. Dieses E-Book zeigt dir Schritt für Schritt, wie du ein Profil aufbaust, das sofort einen guten ersten Eindruck macht, wie du deine ersten Tweets formulierst, die wirklich gelesen werden, und wie du in die richtigen Communities einsteigst. Du lernst, welche Signale der Algorithmus wirklich bewertet – Replies und Bookmarks schlagen nackte Impressions bei weitem – und warum die erste Zeile deines Tweets über alles entscheidet. Externe Links? Gehören in den ersten Reply, nicht in den Tweet selbst. Mit dem enthaltenen 30-Tage-Aktionsplan postest du konsistent, wächst organisch und weißt von Tag eins, wohin die Reise geht.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Profil-Optimierung: Bild, Bio und Header, die Vertrauen erzeugen</li>
-<li>Die erste Zeile als Hook – so sorgst du für den entscheidenden Klick auf 'mehr'</li>
-<li>Replies &amp; Bookmarks als stärkste Algorithmus-Signale clever nutzen</li>
-<li>Externe Links richtig platzieren – warum der erste Reply mehr Reichweite bringt</li>
-<li>Communities finden und aktiv werden ohne Spam-Alarm</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Von null zum aktiven Profil, das gelesen, geliked und weiterempfohlen wird X (ehemals Twitter) ist die Plattform für Ideen, Meinungen und Konversationen – aber wer ohne Plan startet, verliert sich schnell im Feed-Rauschen. Dieses E-Book zeigt dir Schritt für Schritt, wie du ein Profil aufbaust, das sofort einen guten ersten Eindruck macht, wie du deine ersten Tweets formulierst, die wirklich gelesen werden, und wie du in die richtigen Communities einsteigst. Du lernst, welche Signale der Algorithmus wirklich bewertet – Replies und Bookmarks schlagen nackte Impressions bei weitem – und warum die erste Zeile deines Tweets über alles entscheidet. Externe Links? Gehören in den ersten Reply, nicht in den Tweet selbst. Mit dem enthaltenen 30-Tage-Aktionsplan postest du konsistent, wächst organisch und weißt von Tag eins, wohin die Reise geht. Das steckt drin: Profil-Optimierung: Bild, Bio und Header, die Vertrauen erzeugen Die erste Zeile als Hook – so sorgst du für den entscheidenden Klick auf 'mehr' Replies & Bookmarks als stärkste Algorithmus-Signale clever nutzen Externe Links richtig platzieren – warum der erste Reply mehr Reichweite bringt Communities finden und aktiv werden ohne Spam-Alarm Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

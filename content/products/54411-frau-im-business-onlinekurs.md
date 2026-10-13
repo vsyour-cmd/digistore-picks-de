@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate-Partner:in von Nina Hartmann</strong><br />Als Rechtsanwältin und studierte Personalentwicklerin verbindet Nina Hartmann analytische Klarheit mit psychologischer Tiefe. Ihre Kurse unterstützen Frauen im Business dabei, sichtbar, klar und kraftvoll zu werden – mit praxiserprobten Methoden, fundiertem Wissen und spürbarer Transformation.</p>
-<p>Für dich als Affiliate-Partner:in bedeutet das: <strong>ein seriöses, wachsendes Produktportfolio</strong>, hohe Kundenzufriedenheit und stetige Erweiterungen im Themenfeld <em>weibliche Selbstermächtigung, Business und Persönlichkeitsentwicklung</em>.<br />Empfiehl Programme, hinter denen du mit Überzeugung stehen kannst – ehrlich, professionell und wirksam.</p>
+**Vendor's marketplace description:** Werde Affiliate-Partner:in von Nina Hartmann Als Rechtsanwältin und studierte Personalentwicklerin verbindet Nina Hartmann analytische Klarheit mit psychologischer Tiefe. Ihre Kurse unterstützen Frauen im Business dabei, sichtbar, klar und kraftvoll zu werden – mit praxiserprobten Methoden, fundiertem Wissen und spürbarer Transformation. Für dich als Affiliate-Partner:in bedeutet das: ein seriöses, wachsendes Produktportfolio , hohe Kundenzufriedenheit und stetige Erweiterungen im Themenfeld weibliche Selbstermächtigung, Business und Persönlichkeitsentwicklung . Empfiehl Programme, hinter denen du mit Überzeugung stehen kannst – ehrlich, professionell und wirksam.
 
 ## 2. Links
 

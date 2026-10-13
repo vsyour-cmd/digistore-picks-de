@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <ul>
-<li>Hoher Trust durch Social Media</li>
-<li>83,5% Teilnahme am Webinar </li>
-<li>13,3% Conversion im Webinar </li>
-</ul>
+**Vendor's marketplace description:** Hoher Trust durch Social Media 83,5% Teilnahme am Webinar 13,3% Conversion im Webinar
 
 ## 2. Links
 

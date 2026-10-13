@@ -41,34 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>KI-Prompts Cheat Sheet Lite – Dein perfekter KI-Content-Boost</strong></h3>
-<p>Erstelle in Sekunden <strong>perfekte Werbetexte, Social-Media-Posts &amp; Blogartikel</strong> mit optimierten KI-Prompts – <strong>komplett kostenlos</strong>.</p>
-<h3><strong>Warum ist dieses Freebie wertvoll?</strong></h3>
-<ul>
-<li>Sofort anwendbare KI-Prompts für Werbetexte, Content &amp; Ads</li>
-<li>Perfekt für Affiliate-Marketing, Social Media &amp; Copywriting</li>
-<li>Hohe Conversion-Rate durch gefragte KI-Content-Strategien</li>
-<li>100 % kostenlos – einfacher Einstieg für neue Kunden</li>
-<li>50 % Provision auf alle Upsells</li>
-</ul>
-<h3><strong>Für wen ist das Cheat Sheet geeignet?</strong></h3>
-<ul>
-<li>Vermarkter, Unternehmer &amp; Content-Ersteller</li>
-<li>Texter, Coaches &amp; Social-Media-Profis</li>
-<li>Affiliate-Einsteiger &amp; KI-Neulinge</li>
-</ul>
-<h3><strong>Warum solltest du dich als Affiliate bewerben?</strong></h3>
-<ul>
-<li>50 % Provision auf Upgrades &amp; Upsells</li>
-<li>Hohe Conversion-Rate durch bewährte Freebie-Strategie</li>
-<li>Wachsende Zielgruppe mit hoher Nachfrage nach KI-Content</li>
-<li>Attraktive Werbemittel &amp; Promo-Links für einfache Vermarktung</li>
-</ul>
-<p><strong>Jetzt kostenlos sichern &amp; sofort mit KI-Content durchstarten.</strong></p>
-<p><strong><a href="https://www.checkout-ds24.com/content/598878/51028/%20AFFILIATE/CAMPAIGNKEY" target="_blank" rel="noreferrer noopener">https://www.checkout-ds24.com/content/598878/51028/ AFFILIATE/CAMPAIGNKEY</a></strong></p>
-<div>
-<div class="gtx-trans-icon"> </div>
-</div>
+**Vendor's marketplace description:** KI-Prompts Cheat Sheet Lite – Dein perfekter KI-Content-Boost Erstelle in Sekunden perfekte Werbetexte, Social-Media-Posts & Blogartikel mit optimierten KI-Prompts – komplett kostenlos . Warum ist dieses Freebie wertvoll? Sofort anwendbare KI-Prompts für Werbetexte, Content & Ads Perfekt für Affiliate-Marketing, Social Media & Copywriting Hohe Conversion-Rate durch gefragte KI-Content-Strategien 100 % kostenlos – einfacher Einstieg für neue Kunden 50 % Provision auf alle Upsells Für wen ist das Cheat Sheet geeignet? Vermarkter, Unternehmer & Content-Ersteller Texter, Coaches & Social-Media-Profis Affiliate-Einsteiger & KI-Neulinge Warum solltest du dich als Affiliate bewerben? 50 % Provision auf Upgrades & Upsells Hohe Conversion-Rate durch bewährte Freebie-Strategie Wachsende Zielgruppe mit hoher Nachfrage nach KI-Content Attraktive Werbemittel & Promo-Links für einfache Vermarktung Jetzt kostenlos sichern & sofort mit KI-Content durchstarten. https://www.checkout-ds24.com/content/598878/51028/ AFFILIATE/CAMPAIGNKEY
 
 ## 2. Links
 

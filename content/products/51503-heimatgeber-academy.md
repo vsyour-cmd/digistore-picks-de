@@ -41,42 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong><span style="color:#ff0000;">Als Affiliate-Partner erhalten Sie 30% Provision für 12 Monate - das sind in Summe 536 Euro.</span></strong></h3>
-<p> </p>
-<h3><span style="text-decoration:underline;">Produktinformation </span></h3>
-<p>Die Heimatgeber Akademie ist ein einzigartiges Multi-Level Coaching mit dem Ziel, finanzielle Freiheit zu ermöglichen. Die Academy behandelt die Bereiche Immobilien, passiver Vermögensaufbau, Edelmetalle, Mindset, Rechtsformen, Unternehmertum und vieles mehr.</p>
-<p> </p>
-<p>Das Ziel der Academy ist, <span style="text-decoration:underline;">finanzielle Freiheit</span> zu erlangen und nachhaltige Werte in Form von Immobilien und Wohnraum zu schaffen. Und auf diesem Weg nehmen wir unsere Mitglieder an die Hand und unterstützen Sie mit Rat und Tat.</p>
-<p> </p>
-<h3><span style="text-decoration:underline;">Was erhalten die Kunden</span></h3>
-<p>✅ Beim Kauf des Gelbgurt-Levels erhalten Kunden das komplette Weißgurt-Programm im Wert von <span style="color:#ff0000;"><strong>1.842 Euro geschenkt!</strong></span></p>
-<p> </p>
-<p>✅ <strong>Hochwertige Lernplattform<br /></strong>Vom absoluten Anfänger zum erfolgreichen Immobilieninvestor - die Mitglieder lernen alles Notwendige in einer strukturierten, praxisnahen Umgebung.</p>
-<p> </p>
-<p><strong>✅ Wöchentliche Live-Coaching-Sessions<br /></strong>Die Teilnehmer arbeiten gemeinsam an konkreten Zielen und erhalten direktes Feedback. Perfekt für schnelle Erfolge und Problemlösungen.<strong><br /></strong></p>
-<p> </p>
-<p>✅ <strong>"Done with you &amp; Done for you"-Konzept </strong></p>
-<p>• Klare Schritt-für-Schritt Anleitungen</p>
-<p>• Attraktive passive Investmentmöglichkeiten</p>
-<p>• Praxiserprobte Übungen und Tools</p>
-<p>• Einsatzbereite Vorlagen und Checklisten</p>
-<p> </p>
-<p>✅ <strong>25 Jahre Expertenwissen kompakt</strong></p>
-<p>Die Teilnehmer profitieren von gebündeltem Know-how aus über zwei Jahrzehnten erfolgreicher Investorentätigkeit. Bewährtes Wissen, das sofort umsetzbar ist.</p>
-<p> </p>
-<p><strong>✅ Wertvolles Expertennetzwerk</strong></p>
-<p>Regelmäßige Expertenvorträge bieten den Mitgliedern zusätzliches Spezialwissen und neue Perspektiven auf dem Weg zur finanziellen Freiheit.</p>
-<p> </p>
-<p><strong>✅ Exklusiver Community-Zugang</strong></p>
-<p>Mitglieder werden Teil einer aktiven Community erfolgreicher Immobilieninvestoren und Unternehmer. Der Austausch mit Gleichgesinnten beschleunigt den Erfolg.</p>
-<p> </p>
-<h3>Unterstützung für Affiliate Partner</h3>
-<p>Als Affiliate Partner erhalten Sie alles, was Sie für erfolgreiche Verkäufe benötigen:</p>
-<p>• Professionelles Marketingmaterial</p>
-<p>• Sofort einsetzbare Vorlagen</p>
-<p>• Persönliche Betreuung</p>
-<p> </p>
-<p>Ihr Erfolg ist unser Erfolg! Wir stellen sicher, dass Sie als Partner optimal ausgestattet sind und unterstützen Sie aktiv beim Aufbau Ihres Affiliate-Geschäfts.</p>
+**Vendor's marketplace description:** Als Affiliate-Partner erhalten Sie 30% Provision für 12 Monate - das sind in Summe 536 Euro. Produktinformation Die Heimatgeber Akademie ist ein einzigartiges Multi-Level Coaching mit dem Ziel, finanzielle Freiheit zu ermöglichen. Die Academy behandelt die Bereiche Immobilien, passiver Vermögensaufbau, Edelmetalle, Mindset, Rechtsformen, Unternehmertum und vieles mehr. Das Ziel der Academy ist, finanzielle Freiheit zu erlangen und nachhaltige Werte in Form von Immobilien und Wohnraum zu schaffen. Und auf diesem Weg nehmen wir unsere Mitglieder an die Hand und unterstützen Sie mit Rat und Tat. Was erhalten die Kunden ✅ Beim Kauf des Gelbgurt-Levels erhalten Kunden das komplette Weißgurt-Programm im Wert von 1.842 Euro geschenkt! ✅ Hochwertige Lernplattform Vom absoluten Anfänger zum erfolgreichen Immobilieninvestor - die Mitglieder lernen alles Notwendige in einer strukturierten, praxisnahen Umgebung. ✅ Wöchentliche Live-Coaching-Sessions Die Teilnehmer arbeiten gemeinsam an konkreten Zielen und erhalten direktes Feedback. Perfekt für schnelle Erfolge und Problemlösungen. ✅ "Done with you & Done for you"-Konzept • Klare Schritt-für-Schritt Anleitungen • Attraktive passive Investmentmöglichkeiten • Praxiserprobte Übungen und Tools • Einsatzbereite Vorlagen und Checklisten ✅ 25 Jahre Expertenwissen kompakt Die Teilnehmer profitieren von gebündeltem Know-how aus über zwei Jahrzehnten erfolgreicher Investorentätigkeit. Bewährtes Wissen, das sofort umsetzbar ist. ✅ Wertvolles Expertennetzwerk Regelmäßige Expertenvorträge bieten den Mitgliedern zusätzliches Spezialwissen und neue Perspektiven auf dem Weg zur finanziellen Freiheit. ✅ Exklusiver Community-Zugang Mitglieder werden Teil einer aktiven Community erfolgreicher Immobilieninvestoren und Unternehmer. Der Austausch mit Gleichgesinnten beschleunigt den Erfolg. Unterstützung für Affiliate Partner Als Affiliate Partner erhalten Sie alles, was Sie für erfolgreiche Verkäufe benötigen: • Professionelles Marketingmaterial • Sofort einsetzbare Vorlagen • Persönliche Betreuung Ihr Erfolg ist unser Erfolg! Wir stellen sicher, dass Sie als Partner optimal ausgestattet sind und unterstützen Sie aktiv beim Aufbau Ihres Affiliate-Geschäfts.
 
 ## 2. Links
 

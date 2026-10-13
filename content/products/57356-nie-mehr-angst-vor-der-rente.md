@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die gesetzliche Rente wird nicht reichen.</p>
-<p>Das ist keine Meinung – das ist Mathematik. Das Rentenniveau in Deutschland sinkt seit Jahren. Wer heute arbeitet und ausschließlich auf die gesetzliche Rente setzt, wird im Alter mit erheblichen finanziellen Einschränkungen leben müssen.</p>
-<p>Die gute Nachricht: Du kannst heute etwas dagegen tun.</p>
-<hr />
-<p><strong>Was du in diesem E-Book lernst:</strong></p>
-<p>✅ Wie groß deine persönliche Rentenlücke wirklich ist<br />✅ Warum das gesetzliche Rentensystem alleine nicht ausreicht<br />✅ Das 3-Säulen-Modell – so baust du deine Altersvorsorge richtig auf<br />✅ Betriebliche Altersvorsorge – dieser Fehler kostet dich bares Geld<br />✅ Private Rentenversicherung, ETF-Sparplan, Rürup &amp; Riester – was passt zu dir?<br />✅ Wie du Steuern bei der Altersvorsorge legal sparst<br />✅ Deine persönliche Altersvorsorge-Checkliste zum Abhaken<br />✅ Die 6 häufigsten Fehler – und wie du sie vermeidest</p>
-<hr />
-<p><strong>Für wen ist dieses E-Book?</strong></p>
-<p>→ Alle die sich Sorgen um ihre Rente machen aber nicht wissen wo sie anfangen sollen<br />→ Arbeitnehmer die ihre betriebliche Altersvorsorge optimieren wollen<br />→ Selbstständige die keine gesetzliche Rente haben und privat vorsorgen müssen<br />→ Alle die endlich einen klaren Plan für ihre Altersvorsorge wollen<br />→ Menschen die zu spät angefangen haben und aufholen wollen</p>
-<hr />
-<p><strong>Das sagt die Statistik:</strong></p>
-<p>Jeder zweite Deutsche hat keine ausreichende private Altersvorsorge. Die durchschnittliche Rentenlücke liegt bei über 800 € pro Monat. Das bedeutet: Monat für Monat, Jahr für Jahr weniger als nötig – für den Rest des Lebens.</p>
-<p>Dieses E-Book zeigt dir wie du das änderst. Heute. Mit konkreten Schritten die jeder umsetzen kann.</p>
-<hr />
-<p><strong>Über den Autor:</strong></p>
-<p>Marco Bürgel ist Finanz- &amp; Vermögensberater bei Generali mit Sitz in Deutschland. Er berät Privatpersonen, Familien und Selbstständige dabei, eine solide Altersvorsorge aufzubauen die wirklich funktioniert – ohne Versprechen die nicht gehalten werden können.</p>
+**Vendor's marketplace description:** Die gesetzliche Rente wird nicht reichen. Das ist keine Meinung – das ist Mathematik. Das Rentenniveau in Deutschland sinkt seit Jahren. Wer heute arbeitet und ausschließlich auf die gesetzliche Rente setzt, wird im Alter mit erheblichen finanziellen Einschränkungen leben müssen. Die gute Nachricht: Du kannst heute etwas dagegen tun. Was du in diesem E-Book lernst: ✅ Wie groß deine persönliche Rentenlücke wirklich ist ✅ Warum das gesetzliche Rentensystem alleine nicht ausreicht ✅ Das 3-Säulen-Modell – so baust du deine Altersvorsorge richtig auf ✅ Betriebliche Altersvorsorge – dieser Fehler kostet dich bares Geld ✅ Private Rentenversicherung, ETF-Sparplan, Rürup & Riester – was passt zu dir? ✅ Wie du Steuern bei der Altersvorsorge legal sparst ✅ Deine persönliche Altersvorsorge-Checkliste zum Abhaken ✅ Die 6 häufigsten Fehler – und wie du sie vermeidest Für wen ist dieses E-Book? → Alle die sich Sorgen um ihre Rente machen aber nicht wissen wo sie anfangen sollen → Arbeitnehmer die ihre betriebliche Altersvorsorge optimieren wollen → Selbstständige die keine gesetzliche Rente haben und privat vorsorgen müssen → Alle die endlich einen klaren Plan für ihre Altersvorsorge wollen → Menschen die zu spät angefangen haben und aufholen wollen Das sagt die Statistik: Jeder zweite Deutsche hat keine ausreichende private Altersvorsorge. Die durchschnittliche Rentenlücke liegt bei über 800 € pro Monat. Das bedeutet: Monat für Monat, Jahr für Jahr weniger als nötig – für den Rest des Lebens. Dieses E-Book zeigt dir wie du das änderst. Heute. Mit konkreten Schritten die jeder umsetzen kann. Über den Autor: Marco Bürgel ist Finanz- & Vermögensberater bei Generali mit Sitz in Deutschland. Er berät Privatpersonen, Familien und Selbstständige dabei, eine solide Altersvorsorge aufzubauen die wirklich funktioniert – ohne Versprechen die nicht gehalten werden können.
 
 ## 2. Links
 

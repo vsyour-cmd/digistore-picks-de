@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Krypto für Einsteiger“</strong></p>
-<p>Wie du sicher startest und typische Anfängerfehler vermeidest – Information und Bildung, keine Anlageberatung. Wallets, der erste Kauf, Risiken und Volatilität verstehen und Betrug erkennen. Krypto ist hochspekulativ – Totalverlust möglich.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 17,45 € pro Verkauf (Verkaufspreis 34,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verstehen, was Kryptowährungen wirklich sind</li>
-<li>Wallets und Schlüssel sicher aufbewahren</li>
-<li>Den ersten Kauf an einer Börse meistern</li>
-<li>Risiken, Volatilität und Scams realistisch einschätzen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Krypto für Einsteiger“ Wie du sicher startest und typische Anfängerfehler vermeidest – Information und Bildung, keine Anlageberatung. Wallets, der erste Kauf, Risiken und Volatilität verstehen und Betrug erkennen. Krypto ist hochspekulativ – Totalverlust möglich. Warum dieses E-Book bewerben? 50 % Provision – ca. 17,45 € pro Verkauf (Verkaufspreis 34,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verstehen, was Kryptowährungen wirklich sind Wallets und Schlüssel sicher aufbewahren Den ersten Kauf an einer Börse meistern Risiken, Volatilität und Scams realistisch einschätzen
 
 ## 2. Links
 

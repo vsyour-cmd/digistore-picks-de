@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Viele Handwerksbetriebe suchen aktuell neue Mitarbeiter und haben Schwierigkeiten, passende Bewerber zu erreichen. Genau hier setzt Social Recruiting Pro von <strong>someonmarketing®</strong> an.</p>
-<p> </p>
-<p><strong>Als Affiliate vermittelst du eine professionelle Recruiting Lösung speziell für Handwerksbetriebe und erhältst <span style="color:#008000;">15 % Provision </span>pro erfolgreichem Verkauf.</strong></p>
-<p>Mit Social Recruiting Pro unterstützen wir Handwerksbetriebe dabei, offene Stellen über Facebook &amp; Instagram direkt bei potenziellen Bewerbern aus der eigenen Region sichtbar zu machen. Die Bewerbung erfolgt schnell und unkompliziert über ein kurzes Formular direkt per Smartphone.</p>
-<p> </p>
-<p><strong>Das bekommt dein geworbener Kunde:</strong></p>
-<p><span style="color:#008000;"><strong>✓</strong></span> Individuelle Strategie und Zielgruppenanalyse</p>
-<p><strong><span style="color:#008000;">✓</span></strong> Recruiting Kampagne über Facebook &amp; Instagram</p>
-<p><span style="color:#008000;"><strong>✓</strong></span> Einfache Bewerbung direkt per Smartphone</p>
-<p><span style="color:#008000;"><strong>✓</strong></span> Professionelle Texte und Grafiken passend zum Betrieb</p>
-<p><span style="color:#008000;"><strong>✓</strong></span> Zwei individuelle Werbeanzeigen</p>
-<p><span style="color:#008000;"><strong>✓</strong></span> Zielgerichtete Ansprache potenzieller Bewerber</p>
-<p><span style="color:#008000;"><strong>✓</strong></span> Neue Bewerbungen direkt per E Mail</p>
-<p><strong><span style="color:#008000;">✓</span></strong> Persönlicher WhatsApp Business Support</p>
-<p><span style="color:#008000;"><strong>✓</strong></span> Laufende Optimierung während der Kampagne</p>
-<p><span style="color:#008000;"><strong>✓</strong></span> Monatliche Auswertung als PDF</p>
-<p><strong>✓</strong> DSGVO und AGG konforme Umsetzung</p>
-<p><strong>Aktionspreis:</strong> 2.490 € netto einmalig</p>
-<p> </p>
-<p>Die Kampagne läuft 30 Tage. Eine Verlängerung ist anschließend für 1.290 € netto pro Monat möglich.</p>
-<p>Das Werbebudget ist nicht im Paketpreis enthalten und wird direkt über das eigene Werbekonto des Unternehmens abgerechnet.</p>
-<p> </p>
-<p><strong>Ideal zur Bewerbung bei Inhabern und Geschäftsführern von Handwerksbetrieben, die aktuell Fachkräfte oder andere Mitarbeiter suchen.</strong></p>
+**Vendor's marketplace description:** Viele Handwerksbetriebe suchen aktuell neue Mitarbeiter und haben Schwierigkeiten, passende Bewerber zu erreichen. Genau hier setzt Social Recruiting Pro von someonmarketing® an. Als Affiliate vermittelst du eine professionelle Recruiting Lösung speziell für Handwerksbetriebe und erhältst 15 % Provision pro erfolgreichem Verkauf. Mit Social Recruiting Pro unterstützen wir Handwerksbetriebe dabei, offene Stellen über Facebook & Instagram direkt bei potenziellen Bewerbern aus der eigenen Region sichtbar zu machen. Die Bewerbung erfolgt schnell und unkompliziert über ein kurzes Formular direkt per Smartphone. Das bekommt dein geworbener Kunde: ✓ Individuelle Strategie und Zielgruppenanalyse ✓ Recruiting Kampagne über Facebook & Instagram ✓ Einfache Bewerbung direkt per Smartphone ✓ Professionelle Texte und Grafiken passend zum Betrieb ✓ Zwei individuelle Werbeanzeigen ✓ Zielgerichtete Ansprache potenzieller Bewerber ✓ Neue Bewerbungen direkt per E Mail ✓ Persönlicher WhatsApp Business Support ✓ Laufende Optimierung während der Kampagne ✓ Monatliche Auswertung als PDF ✓ DSGVO und AGG konforme Umsetzung Aktionspreis: 2.490 € netto einmalig Die Kampagne läuft 30 Tage. Eine Verlängerung ist anschließend für 1.290 € netto pro Monat möglich. Das Werbebudget ist nicht im Paketpreis enthalten und wird direkt über das eigene Werbekonto des Unternehmens abgerechnet. Ideal zur Bewerbung bei Inhabern und Geschäftsführern von Handwerksbetrieben, die aktuell Fachkräfte oder andere Mitarbeiter suchen.
 
 ## 2. Links
 

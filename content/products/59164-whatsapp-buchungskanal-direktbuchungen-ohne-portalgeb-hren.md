@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Für wen:</strong> Gastgeberinnen und Gastgeber von Ferienwohnungen, die Direktbuchungen aufbauen wollen, statt jede Buchung über Portale und deren Gebühren laufen zu lassen.</p>
-<p><strong>Was drin ist:</strong> Ein fertiger Weg, Anfragen und Buchungen über WhatsApp abzuwickeln – von der ersten Nachricht bis zur Bestätigung, mit Textbausteinen und einem Ablauf, der sich im Alltag durchhalten lässt.</p>
-<p>Zum integrieren auf der eigenen Homepage, Insta oder Facebook</p>
-<p><strong>Preis:</strong> 24,90 €  |  <strong>Provision:</strong> 40 %</p>
-<p><strong>Warum es sich verkauft:</strong> Portalgebühren sind der Dauerschmerz jedes Gastgebers, und Stammgäste bucht man ohnehin lieber direkt. Die Autorin vermietet selbst drei Ferienwohnungen und hat über 100 eingerichtet – das Verfahren kommt aus ihrem eigenen Betrieb.</p>
-<p><strong>Passende Kanäle:</strong> Blogs, Newsletter und Accounts rund um Ferienwohnung, Airbnb- und Booking-Gastgeber, Vermietung als Nebeneinkommen, Immobilien. Ganzjährig.</p>
+**Vendor's marketplace description:** Für wen: Gastgeberinnen und Gastgeber von Ferienwohnungen, die Direktbuchungen aufbauen wollen, statt jede Buchung über Portale und deren Gebühren laufen zu lassen. Was drin ist: Ein fertiger Weg, Anfragen und Buchungen über WhatsApp abzuwickeln – von der ersten Nachricht bis zur Bestätigung, mit Textbausteinen und einem Ablauf, der sich im Alltag durchhalten lässt. Zum integrieren auf der eigenen Homepage, Insta oder Facebook Preis: 24,90 € | Provision: 40 % Warum es sich verkauft: Portalgebühren sind der Dauerschmerz jedes Gastgebers, und Stammgäste bucht man ohnehin lieber direkt. Die Autorin vermietet selbst drei Ferienwohnungen und hat über 100 eingerichtet – das Verfahren kommt aus ihrem eigenen Betrieb. Passende Kanäle: Blogs, Newsletter und Accounts rund um Ferienwohnung, Airbnb- und Booking-Gastgeber, Vermietung als Nebeneinkommen, Immobilien. Ganzjährig.
 
 ## 2. Links
 

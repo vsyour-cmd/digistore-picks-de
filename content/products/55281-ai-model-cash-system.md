@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3 style="text-align:center;"><strong><span style="color:#ff99cc;">AI Model</span> Cash System</strong></h3>
-<p>Bewirb das <strong><span style="color:#ff99cc;">AI Model</span> Cash System</strong>, ein digitales E-Book rund um KI-basierte virtuelle Models, Social Media und Monetarisierungsansätze.</p>
-<p>Als Affiliate profitierst du von:</p>
-<ul>
-<li>
-<p>einem klar positionierten Produkt für alle Zielgruppe</p>
-</li>
-<li>
-<p>einer optimierten Verkaufsseite</p>
-</li>
-<li>
-<p><strong>attraktiven Provisionen -inklusive Upsell-Möglichkeiten von bis zu 345 € </strong></p>
-</li>
-</ul>
-<p>Ideal für Marketer, Creator und Publisher, die digitale Produkte im KI- und Online-Business-Umfeld bewerben möchten.</p>
+**Vendor's marketplace description:** AI Model Cash System Bewirb das AI Model Cash System , ein digitales E-Book rund um KI-basierte virtuelle Models, Social Media und Monetarisierungsansätze. Als Affiliate profitierst du von: einem klar positionierten Produkt für alle Zielgruppe einer optimierten Verkaufsseite attraktiven Provisionen -inklusive Upsell-Möglichkeiten von bis zu 345 € Ideal für Marketer, Creator und Publisher, die digitale Produkte im KI- und Online-Business-Umfeld bewerben möchten.
 
 ## 2. Links
 

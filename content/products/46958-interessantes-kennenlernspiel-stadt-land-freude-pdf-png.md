@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#333399;">Inspiriert von der japanischen Aufräumexpertin <strong>Marie Kondo</strong> entwickelte die Glückstrainerin <strong>Melli Seedorf</strong> ihr neues, zweites Spiel:</span></p>
-<h2><span style="color:#333399;background-color:#ffff99;"><strong> "Stadt, Land, Freude"</strong></span></h2>
-<p><span style="color:#333399;">Gemeinsam lustige oder freudevolle Spiele spielen lässt uns Menschen <strong>mehr Nähe zu anderen</strong> empfinden. Das stärkt unser Wohlbefinden und unsere Gesundheit.</span></p>
-<p><span style="color:#333399;">Drum ist dieses Spiel nicht nur eine schöne Freizeitbeschäftigung sondern auch eine Wohltat für unsere Gesundheit.</span></p>
-<p><span style="color:#333399;">Die Spielregeln sind die gleichen wie die des Spieleklassikers <strong>Stadt, Land, Fluss</strong>.</span></p>
-<p> </p>
-<p><span style="color:#333399;background-color:#ffff99;"><strong>Der Download enthält 2 Dateien:</strong></span></p>
-<ol>
-<li><span style="color:#333399;">eine <strong>PDF </strong>(eine Seite), die dank der ausfüllbaren Textfelder direkt am Bildschirm ausgefüllt werden kann (ideal zum online spielen)</span><br /><br /></li>
-<li><span style="color:#333399;">eine <strong>PNG</strong>-Datei, die man auf normales DIN A4 Kopierpapier selber Zuhause, bei Freunden oder im Copyshop ausdrucken kann</span></li>
-</ol>
+**Vendor's marketplace description:** Inspiriert von der japanischen Aufräumexpertin Marie Kondo entwickelte die Glückstrainerin Melli Seedorf ihr neues, zweites Spiel: "Stadt, Land, Freude" Gemeinsam lustige oder freudevolle Spiele spielen lässt uns Menschen mehr Nähe zu anderen empfinden. Das stärkt unser Wohlbefinden und unsere Gesundheit. Drum ist dieses Spiel nicht nur eine schöne Freizeitbeschäftigung sondern auch eine Wohltat für unsere Gesundheit. Die Spielregeln sind die gleichen wie die des Spieleklassikers Stadt, Land, Fluss . Der Download enthält 2 Dateien: eine PDF (eine Seite), die dank der ausfüllbaren Textfelder direkt am Bildschirm ausgefüllt werden kann (ideal zum online spielen) eine PNG -Datei, die man auf normales DIN A4 Kopierpapier selber Zuhause, bei Freunden oder im Copyshop ausdrucken kann
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#003300;"><strong>Aloe Vera- Gesundheit aus der Natur !</strong></span></p>
-<h2><span style="background-color:#99cc00;"><strong>70 verschiedene Rezepte für Aloe-Vera Cocktails und Drinks!</strong></span></h2>
-<p><span style="text-decoration:underline;"><strong>Das wirst du in diesem E-Book erfahren:</strong></span></p>
-<p><strong>&gt; Du findest 70 verschiedene Rezepte um deine Aloe-Vera Cocktails zu mixen !</strong></p>
-<p>&gt; <strong>Für jeden Cocktail sind die genauen Mengenangaben der Zutaten angeführt!</strong></p>
-<p>&gt; <strong>Du findest Empfehlungen für das dekorieren der Getränke!</strong></p>
-<p>&gt; <strong>Die Cocktails sind einfach und leicht zuzubereiten !</strong></p>
-<p>&gt; <strong>Du bekommst viele weitere allgemeine Informationen über die Aloe Vera !</strong></p>
-<p><span style="color:#008000;"><strong>NEUAUFLAGE 2026 !</strong></span></p>
-<p><span style="text-decoration:underline;"><span style="color:#008000;"><strong>Jetzt um € 4,50 Euro bestellen !</strong></span></span></p>
+**Vendor's marketplace description:** Aloe Vera- Gesundheit aus der Natur ! 70 verschiedene Rezepte für Aloe-Vera Cocktails und Drinks! Das wirst du in diesem E-Book erfahren: > Du findest 70 verschiedene Rezepte um deine Aloe-Vera Cocktails zu mixen ! > Für jeden Cocktail sind die genauen Mengenangaben der Zutaten angeführt! > Du findest Empfehlungen für das dekorieren der Getränke! > Die Cocktails sind einfach und leicht zuzubereiten ! > Du bekommst viele weitere allgemeine Informationen über die Aloe Vera ! NEUAUFLAGE 2026 ! Jetzt um € 4,50 Euro bestellen !
 
 ## 2. Links
 

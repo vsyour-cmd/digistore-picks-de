@@ -41,47 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Warum sagen Frauen Sätze wie</p>
-<p><em>„Du bist ein guter Typ, aber …“</em></p>
-<p>und verschwinden trotzdem?</p>
-<p> </p>
-<p>Dieses E-Book ist kein Dating-Ratgeber mit Tricks.</p>
-<p>Es ist eine <strong>ehrliche Konfrontation</strong> mit dem,</p>
-<p>was Männer im modernen Dating immer wieder falsch machen ohne es zu merken.</p>
-<p> </p>
-<p><strong>„Nett sein ist dein größter Fehler“</strong> zeigt dir,</p>
-<p>warum Anpassung, Überbemühung und Angst vor Verlust</p>
-<p>Anziehung zerstören und wie du wieder bei dir bleibst.</p>
-<h3><strong>In diesem E-Book lernst du:</strong></h3>
-<ul>
-<li>
-<p>warum Nettigkeit oft unattraktiv wirkt</p>
-</li>
-<li>
-<p>wie Bedürftigkeit entsteht – und wie du sie stoppst</p>
-</li>
-<li>
-<p>was Frauen fühlen, bevor sie sich distanzieren</p>
-</li>
-<li>
-<p>wie Chats, Dates und Nähe wirklich funktionieren</p>
-</li>
-<li>
-<p>wann Ehrlichkeit gewinnt – und wann sie schadet</p>
-</li>
-<li>
-<p>wie du Grenzen setzt, ohne hart zu werden</p>
-</li>
-<li>
-<p>warum viele Männer verlieren, obwohl sie „alles richtig meinen“</p>
-</li>
-<li>
-<p>wie du der Mann wirst, den man nicht vergisst</p>
-</li>
-</ul>
-<p> </p>
-<p>Alle Inhalte basieren auf <strong>realen Dating-Situationen</strong>,</p>
-<p>echten Gesprächen und klaren psychologischen Mustern.</p>
+**Vendor's marketplace description:** Warum sagen Frauen Sätze wie „Du bist ein guter Typ, aber …“ und verschwinden trotzdem? Dieses E-Book ist kein Dating-Ratgeber mit Tricks. Es ist eine ehrliche Konfrontation mit dem, was Männer im modernen Dating immer wieder falsch machen ohne es zu merken. „Nett sein ist dein größter Fehler“ zeigt dir, warum Anpassung, Überbemühung und Angst vor Verlust Anziehung zerstören und wie du wieder bei dir bleibst. In diesem E-Book lernst du: warum Nettigkeit oft unattraktiv wirkt wie Bedürftigkeit entsteht – und wie du sie stoppst was Frauen fühlen, bevor sie sich distanzieren wie Chats, Dates und Nähe wirklich funktionieren wann Ehrlichkeit gewinnt – und wann sie schadet wie du Grenzen setzt, ohne hart zu werden warum viele Männer verlieren, obwohl sie „alles richtig meinen“ wie du der Mann wirst, den man nicht vergisst Alle Inhalte basieren auf realen Dating-Situationen , echten Gesprächen und klaren psychologischen Mustern.
 
 ## 2. Links
 

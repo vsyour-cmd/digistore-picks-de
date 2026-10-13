@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Community aufbauen, Reels-Reichweite nutzen und erste Kooperationen landen</strong></p>
-<p>Influencer auf Facebook zu werden bedeutet heute vor allem eines: eine echte Community aufzubauen, die mitdiskutiert, teilt und wiederkommt. Dieses E-Book zeigt dir, wie du mit Reels als Wachstumstreiber neue Zuschauer gewinnst, wie du durch 'Meaningful Social Interactions' – echte Kommentare, Shares und Diskussionen – vom Algorithmus belohnt wirst und wie du aus Followern loyale Fans machst. Du lernst, welche Formate auf Facebook viral gehen, wie du eine Community aufbaust, die dich trägt, und wie du dich für Marken-Kooperationen interessant machst. Dazu: deine ersten Mediadaten erstellen und Kooperationen professionell anfragen. Facebook bietet Influencern 2026 mehr Reichweite und mehr Creator-Monetarisierungsoptionen denn je – und dieses E-Book zeigt dir, wie du davon profitierst.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Reels als Wachstumstreiber: Formate, die der Algorithmus ausspielt</li>
-<li>Meaningful Social Interactions: Kommentare &amp; Shares statt nur Likes</li>
-<li>Community aufbauen, die diskutiert, teilt und bleibt</li>
-<li>Dein Marken-Kit: wie du für Kooperationen attraktiv wirst</li>
-<li>Erste Marken anfragen und Deals professionell verhandeln</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Community aufbauen, Reels-Reichweite nutzen und erste Kooperationen landen Influencer auf Facebook zu werden bedeutet heute vor allem eines: eine echte Community aufzubauen, die mitdiskutiert, teilt und wiederkommt. Dieses E-Book zeigt dir, wie du mit Reels als Wachstumstreiber neue Zuschauer gewinnst, wie du durch 'Meaningful Social Interactions' – echte Kommentare, Shares und Diskussionen – vom Algorithmus belohnt wirst und wie du aus Followern loyale Fans machst. Du lernst, welche Formate auf Facebook viral gehen, wie du eine Community aufbaust, die dich trägt, und wie du dich für Marken-Kooperationen interessant machst. Dazu: deine ersten Mediadaten erstellen und Kooperationen professionell anfragen. Facebook bietet Influencern 2026 mehr Reichweite und mehr Creator-Monetarisierungsoptionen denn je – und dieses E-Book zeigt dir, wie du davon profitierst. Das steckt drin: Reels als Wachstumstreiber: Formate, die der Algorithmus ausspielt Meaningful Social Interactions: Kommentare & Shares statt nur Likes Community aufbauen, die diskutiert, teilt und bleibt Dein Marken-Kit: wie du für Kooperationen attraktiv wirst Erste Marken anfragen und Deals professionell verhandeln Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

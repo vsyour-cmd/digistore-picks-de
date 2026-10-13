@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Drei persönliche Beratungsgespräche à 45 Minuten zur Organisation deiner Führerscheinausbildung: Planung von Zeit und Budget, Auswahl und Prüfung der Fahrschule, Organisation rund um den Prüfungstag. Plus das komplette Kompass-PLUS-Paket. Keine Fahrausbildung, kein Theorie- oder Fahrunterricht - der bleibt bei deiner Fahrschule.</p>
+**Vendor's marketplace description:** Drei persönliche Beratungsgespräche à 45 Minuten zur Organisation deiner Führerscheinausbildung: Planung von Zeit und Budget, Auswahl und Prüfung der Fahrschule, Organisation rund um den Prüfungstag. Plus das komplette Kompass-PLUS-Paket. Keine Fahrausbildung, kein Theorie- oder Fahrunterricht - der bleibt bei deiner Fahrschule.
 
 ## 2. Links
 

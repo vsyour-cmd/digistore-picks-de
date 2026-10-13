@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit über 2 Millionen Zugriffen auf unsere Webseite, die sich ausschließlich mit Rasenrobotern und Zubehör beschäftigt bieten wir auf unserer Händlerseite die ideale Plattform für Rasenroboter-Händler auf sich aufmerksam zu machen.<br /><br /></p>
-<p>Registriert sich ein Händler auf unserer Seite profitiert dieser sofort von unserer Reichweite und kann über die Händlerseite sofort ausschließlich extrem targetierte Interessenten aquirieren.</p>
-<p>"Zielpersonen" sind somit ausschließlich Rasenroboter-Händler.</p>
-<p>Wenn Sie in direktem Kontakt mit Rasenroboter-Händlern stehen, können Sie diesen eine Listung empfehlen</p>
+**Vendor's marketplace description:** Mit über 2 Millionen Zugriffen auf unsere Webseite, die sich ausschließlich mit Rasenrobotern und Zubehör beschäftigt bieten wir auf unserer Händlerseite die ideale Plattform für Rasenroboter-Händler auf sich aufmerksam zu machen. Registriert sich ein Händler auf unserer Seite profitiert dieser sofort von unserer Reichweite und kann über die Händlerseite sofort ausschließlich extrem targetierte Interessenten aquirieren. "Zielpersonen" sind somit ausschließlich Rasenroboter-Händler. Wenn Sie in direktem Kontakt mit Rasenroboter-Händlern stehen, können Sie diesen eine Listung empfehlen
 
 ## 2. Links
 

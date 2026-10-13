@@ -41,38 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das Website Workbook mit zahlreichen Fragebögen und Arbeitsblätter, die Dir Deine Websiteplanung zum Kinderspiel machen - als PDF zum runterladen!</strong></p>
-<p> </p>
-<ul>
-<li>Du möchtest Deine eigene Website erstellen, hast aber keine Ahnung wie Du starten sollst?</li>
-<li>Du hast bereits eine Website, doch sie performed nicht?</li>
-<li>Du hast keine Lust Dir alle wichtigen Informationen mühsam zusammen zu suchen?</li>
-<li>Du möchtest nicht viel testen, sondern Expertenwissen und 1:1 Anleitungen die wirklich funktionieren?</li>
-<li>Du willst jetzt online so richtig durchstarten und sichtbar werden?</li>
-</ul>
-<p> </p>
-<p><strong>Keine Sorge, damit bist Du nicht alleine!</strong></p>
-<p> </p>
-<p>Wir alle standen schon vor der Herausforderung: Ich brauche eiine Website. Ja... und nun?</p>
-<p>Wie fange ich an? Was brauche ich? Wie gestalte ich die Seite? Was funktioniert wirklich? Du kannst beruhigt sein. Du bist damit nicht alleine!</p>
-<p>Genau aus diesem Grund haben wir unser Insider- und Expertenwissen aus über 20 Jahren Erfahrung mit aktuellen Markttrends zusammengefasst - für deine optimale Website!</p>
-<p> </p>
-<p><strong>Diese Themen gehen wir Schritt-für-Schritt durch:</strong></p>
-<ul>
-<li>Zielsetzung</li>
-<li>Seitenaufbau</li>
-<li>Zielgruppe</li>
-<li>USP</li>
-<li>Wettbewerb</li>
-<li>Content</li>
-<li>Optik &amp; Design</li>
-<li>Trustelemente</li>
-<li>Affenfaust</li>
-<li>Sicherheit</li>
-<li>und zusätzliche Links zu kostenlosen Ressourcen und praktischen Tools für deine Website </li>
-</ul>
-<p> </p>
-<p>Lade dir hier das Website-Workbook herunter und erfahre, wie du <strong>ohne Vorkenntnisse Dein Website-Konzept entwickelst, was zu Dir &amp; Deinen Kunden passt.</strong></p>
+**Vendor's marketplace description:** Das Website Workbook mit zahlreichen Fragebögen und Arbeitsblätter, die Dir Deine Websiteplanung zum Kinderspiel machen - als PDF zum runterladen! Du möchtest Deine eigene Website erstellen, hast aber keine Ahnung wie Du starten sollst? Du hast bereits eine Website, doch sie performed nicht? Du hast keine Lust Dir alle wichtigen Informationen mühsam zusammen zu suchen? Du möchtest nicht viel testen, sondern Expertenwissen und 1:1 Anleitungen die wirklich funktionieren? Du willst jetzt online so richtig durchstarten und sichtbar werden? Keine Sorge, damit bist Du nicht alleine! Wir alle standen schon vor der Herausforderung: Ich brauche eiine Website. Ja... und nun? Wie fange ich an? Was brauche ich? Wie gestalte ich die Seite? Was funktioniert wirklich? Du kannst beruhigt sein. Du bist damit nicht alleine! Genau aus diesem Grund haben wir unser Insider- und Expertenwissen aus über 20 Jahren Erfahrung mit aktuellen Markttrends zusammengefasst - für deine optimale Website! Diese Themen gehen wir Schritt-für-Schritt durch: Zielsetzung Seitenaufbau Zielgruppe USP Wettbewerb Content Optik & Design Trustelemente Affenfaust Sicherheit und zusätzliche Links zu kostenlosen Ressourcen und praktischen Tools für deine Website Lade dir hier das Website-Workbook herunter und erfahre, wie du ohne Vorkenntnisse Dein Website-Konzept entwickelst, was zu Dir & Deinen Kunden passt.
 
 ## 2. Links
 

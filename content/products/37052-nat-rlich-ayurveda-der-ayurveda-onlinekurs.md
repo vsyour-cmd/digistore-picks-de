@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong> Dieser Kurs beinhaltet:</strong></div>
-<div> </div>
-<p>· Zugang zum exklusiven Mitgliederbereich</p>
-<p>· 8 Module mit spannenden Ayurveda-Themen </p>
-<p>· 32 Videos rund um Ayurvedische Themen </p>
-<p>· Umfangreicher Konstitutionstest</p>
-<p>· über 30 ayurvedische Rezepte (vegan, glutenfrei &amp; ohne industriellen Zucker)</p>
-<p>· ein liebevoll gestaltetes Workbook (über 130 Seiten), mit allen Infos und Rezepten</p>
-<p>· 3 spannende Boni: Ayurveda-Quiz, Tiefenmeditation &amp; Gewürzkunde</p>
-<p>· Betreuung durch Katharina und ihr Team</p>
-<p>· Und vieles mehr...</p>
-<p> </p>
+**Vendor's marketplace description:** Dieser Kurs beinhaltet: · Zugang zum exklusiven Mitgliederbereich · 8 Module mit spannenden Ayurveda-Themen · 32 Videos rund um Ayurvedische Themen · Umfangreicher Konstitutionstest · über 30 ayurvedische Rezepte (vegan, glutenfrei & ohne industriellen Zucker) · ein liebevoll gestaltetes Workbook (über 130 Seiten), mit allen Infos und Rezepten · 3 spannende Boni: Ayurveda-Quiz, Tiefenmeditation & Gewürzkunde · Betreuung durch Katharina und ihr Team · Und vieles mehr...
 
 ## 2. Links
 

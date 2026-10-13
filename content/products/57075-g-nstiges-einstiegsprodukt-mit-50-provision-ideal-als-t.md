@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>101 schnelle Küchen-Kniffe als E-Book – das ideale günstige Einstiegsprodukt. Sofortige Auslieferung, leicht verkäuflich, 50 % Provision. Perfekt als Türöffner zum großen Ratgeber „Echte Energie. Echter Genuss.".</p>
+**Vendor's marketplace description:** 101 schnelle Küchen-Kniffe als E-Book – das ideale günstige Einstiegsprodukt. Sofortige Auslieferung, leicht verkäuflich, 50 % Provision. Perfekt als Türöffner zum großen Ratgeber „Echte Energie. Echter Genuss.".
 
 ## 2. Links
 

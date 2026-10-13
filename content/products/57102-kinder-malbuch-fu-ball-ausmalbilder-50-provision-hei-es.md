@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;">Fußball Malbuch für Kinder – 50% Provision | Heißes Produkt DIGISTORE24</p>
-<p style="text-align:center;"> </p>
-<p style="text-align:center;">Hole dir 50% Provision pro Verkauf! </p>
-<p style="text-align:center;">Digitales PDF mit 50 Ausmalseiten</p>
-<p style="text-align:center;">Sofort-Download – kein Versand</p>
-<p style="text-align:center;">60-Tage-Geld-zurück-Garantie</p>
-<p style="text-align:center;">Perfekt für Meta Ads, Google Ads &amp; organischen Traffic</p>
-<p style="text-align:center;"> Zielgruppe: Eltern, Großeltern, Erzieher &amp; Trainer von Kindern (4–12 J.)</p>
-<p style="text-align:center;"> </p>
-<p style="text-align:center;"> Warum lohnt sich das?</p>
-<p style="text-align:center;"> </p>
-<p style="text-align:center;">· Hohe Nachfrage – Fußball begeistert Kinder</p>
-<p style="text-align:center;">· Einfach zu promoten – Bilder sagen mehr als 1000 Worte</p>
-<p style="text-align:center;">· Kein Lager, kein Versand – 100% digital</p>
-<p style="text-align:center;"> </p>
-<p style="text-align:center;">Verkaufspreis: €9,99</p>
-<p style="text-align:center;">Deine Provision: €4,99 pro Verkauf</p>
+**Vendor's marketplace description:** Fußball Malbuch für Kinder – 50% Provision | Heißes Produkt DIGISTORE24 Hole dir 50% Provision pro Verkauf! Digitales PDF mit 50 Ausmalseiten Sofort-Download – kein Versand 60-Tage-Geld-zurück-Garantie Perfekt für Meta Ads, Google Ads & organischen Traffic Zielgruppe: Eltern, Großeltern, Erzieher & Trainer von Kindern (4–12 J.) Warum lohnt sich das? · Hohe Nachfrage – Fußball begeistert Kinder · Einfach zu promoten – Bilder sagen mehr als 1000 Worte · Kein Lager, kein Versand – 100% digital Verkaufspreis: €9,99 Deine Provision: €4,99 pro Verkauf
 
 ## 2. Links
 

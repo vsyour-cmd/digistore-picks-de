@@ -41,48 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>50% Provision + diverse Upsells und AddOns</p>
-<p><strong>Persönliche Finanzen: Die Anleitung für finanzielle Freiheit</strong></p>
-<p>Dieser Kurs für <strong>persönliche Finanzen</strong> wird dir beibringen, wie du dein <strong>Geld verwaltest, ein  Budget erstellst, deine Schulden eliminierst, mehr Geld verdienst, klug investierst und so viel mehr</strong>! Alles in einem einfachen <strong>Schritt-für-Schritt-Format</strong>, das <strong>perfekt für Anfänger</strong> ist oder all jene, die ein <strong>wahres Vermögen</strong> aufbauen wollen.</p>
-<ul>
-<li>
-<p>Persönliche Finanzen - Mindset, Grundkenntnisse, Mechanismen</p>
-</li>
-<li>
-<p><strong>EXCEL VORLAGEN</strong> zum Evaluieren deiner finanzieller Situation:</p>
-</li>
-<li>
-<p>Einnahmen, Ausgaben, Persönlicher Gewinn, Persönliche Bilanz, Cashflow Statement</p>
-</li>
-<li>
-<p>Budgetierung</p>
-</li>
-<li>
-<p>Aufbau deiner eisernen Reserve durch die:</p>
-</li>
-<li>
-<p>30 Tage Geld Sparen Challenge (500 Euro in einem Monat Sparen!)</p>
-</li>
-<li>
-<p>Schulden abbezahlen</p>
-</li>
-<li>
-<p>Einen Plan zur Schuldentilgung erstellen</p>
-</li>
-<li>
-<p>Wie du mehr verdienst, eine Gehaltserhöhung verhandelst und ein Jobangebot aushandelst</p>
-</li>
-<li>
-<p>Beziehungen und Geld</p>
-</li>
-<li>
-<p>Geld Sparen</p>
-</li>
-<li>
-<p>Klug Investieren : Aktien, Indizes und ETFs, Anleihen, Immobilien, Beteiligungen, dein eigenes Unternehmen uvm.</p>
-</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** 50% Provision + diverse Upsells und AddOns Persönliche Finanzen: Die Anleitung für finanzielle Freiheit Dieser Kurs für persönliche Finanzen wird dir beibringen, wie du dein Geld verwaltest, ein Budget erstellst, deine Schulden eliminierst, mehr Geld verdienst, klug investierst und so viel mehr ! Alles in einem einfachen Schritt-für-Schritt-Format , das perfekt für Anfänger ist oder all jene, die ein wahres Vermögen aufbauen wollen. Persönliche Finanzen - Mindset, Grundkenntnisse, Mechanismen EXCEL VORLAGEN zum Evaluieren deiner finanzieller Situation: Einnahmen, Ausgaben, Persönlicher Gewinn, Persönliche Bilanz, Cashflow Statement Budgetierung Aufbau deiner eisernen Reserve durch die: 30 Tage Geld Sparen Challenge (500 Euro in einem Monat Sparen!) Schulden abbezahlen Einen Plan zur Schuldentilgung erstellen Wie du mehr verdienst, eine Gehaltserhöhung verhandelst und ein Jobangebot aushandelst Beziehungen und Geld Geld Sparen Klug Investieren : Aktien, Indizes und ETFs, Anleihen, Immobilien, Beteiligungen, dein eigenes Unternehmen uvm.
 
 ## 2. Links
 

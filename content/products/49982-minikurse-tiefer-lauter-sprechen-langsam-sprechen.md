@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Du bekommst 50% Provision!</h2>
-<h3>Infos zu den Kursen:</h3>
-<p><strong>Formate:</strong></p>
-<ul>
-<li>Bearbeitbares Workbook</li>
-<li>Video-Dateien / Audio-Dateien voller Übungsanleitungen</li>
-</ul>
-<p><strong>Inhalte:</strong></p>
-<p>Es handelt sich um mehrere Minikurse, die verschiedene Sprech- und Stimmthemen aufgreifen. Diese befinden sich alle auf der gleichen Verkaufsseite, bei jedem Produkt gibt es die hier angegebene Provision. </p>
-<p><strong>Zielgruppe:</strong></p>
-<ul>
-<li>Alle, die täglich viel sprechen</li>
-<li>Menschen, die beruflich oder privat Situationen erleben, in denen sie nicht ernstgenommen oder nicht richtig verstanden werden</li>
-<li>Personen, die lernen möchten, ihre Kommunikation zu professionalisieren</li>
-</ul>
+**Vendor's marketplace description:** Du bekommst 50% Provision! Infos zu den Kursen: Formate: Bearbeitbares Workbook Video-Dateien / Audio-Dateien voller Übungsanleitungen Inhalte: Es handelt sich um mehrere Minikurse, die verschiedene Sprech- und Stimmthemen aufgreifen. Diese befinden sich alle auf der gleichen Verkaufsseite, bei jedem Produkt gibt es die hier angegebene Provision. Zielgruppe: Alle, die täglich viel sprechen Menschen, die beruflich oder privat Situationen erleben, in denen sie nicht ernstgenommen oder nicht richtig verstanden werden Personen, die lernen möchten, ihre Kommunikation zu professionalisieren
 
 ## 2. Links
 

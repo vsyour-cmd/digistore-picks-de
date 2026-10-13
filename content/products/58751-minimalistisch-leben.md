@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>„Minimalistisch leben“ ist ein praxisnahes PDF-E-Book für Menschen, die sich von unnötigem Ballast befreien und mehr Klarheit, Zeit und Freiheit gewinnen möchten.</p>
-<p>Der Ratgeber zeigt, wie Minimalismus in unterschiedlichen Lebensbereichen umgesetzt werden kann. Behandelt werden unter anderem das bewusste Reduzieren von Besitz, persönliche Prioritäten, mentale Klarheit, Finanzen, Beruf, Beziehungen, Nachhaltigkeit und digitale Reizüberflutung.</p>
-<p>Verständliche Impulse und alltagstaugliche Übungen unterstützen dabei, Gewohnheiten zu hinterfragen, bewusster zu entscheiden und den eigenen Alltag Schritt für Schritt einfacher und übersichtlicher zu gestalten.</p>
-<p>Das 144-seitige E-Book wird nach erfolgreicher Bestellung sofort digital als PDF-Datei bereitgestellt. Der Verkaufspreis beträgt einmalig 9,99 €.</p>
+**Vendor's marketplace description:** „Minimalistisch leben“ ist ein praxisnahes PDF-E-Book für Menschen, die sich von unnötigem Ballast befreien und mehr Klarheit, Zeit und Freiheit gewinnen möchten. Der Ratgeber zeigt, wie Minimalismus in unterschiedlichen Lebensbereichen umgesetzt werden kann. Behandelt werden unter anderem das bewusste Reduzieren von Besitz, persönliche Prioritäten, mentale Klarheit, Finanzen, Beruf, Beziehungen, Nachhaltigkeit und digitale Reizüberflutung. Verständliche Impulse und alltagstaugliche Übungen unterstützen dabei, Gewohnheiten zu hinterfragen, bewusster zu entscheiden und den eigenen Alltag Schritt für Schritt einfacher und übersichtlicher zu gestalten. Das 144-seitige E-Book wird nach erfolgreicher Bestellung sofort digital als PDF-Datei bereitgestellt. Der Verkaufspreis beträgt einmalig 9,99 €.
 
 ## 2. Links
 

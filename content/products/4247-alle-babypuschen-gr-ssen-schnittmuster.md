@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Alle Schnittmuster als PDF für Babypuschen, Größen: von 18 bis 30,<strong> </strong>zum selber nähen!</p>
-<p> </p>
-<p><strong><span style="color:#ff0000;">Wir teilen fair mit Dir!</span></strong></p>
-<p><strong><span style="color:#ff0000;">Deshalb gibt es bei uns immer 50% Provision für Dich! ;-)</span></strong></p>
-<p> </p>
-<p>Das kostenlose DIY Tutorial für dieses Schnittmuster kannst Du dir hier anschauen:</p>
-<p><em><a href="http://www.dots-designs.de/babypuschen-ganz-leicht-selber-naehen/">http://www.dots-designs.de/babypuschen-ganz-leicht-selber-naehen/</a></em></p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Alle Schnittmuster als PDF für Babypuschen, Größen: von 18 bis 30, zum selber nähen! Wir teilen fair mit Dir! Deshalb gibt es bei uns immer 50% Provision für Dich! ;-) Das kostenlose DIY Tutorial für dieses Schnittmuster kannst Du dir hier anschauen: http://www.dots-designs.de/babypuschen-ganz-leicht-selber-naehen/
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das verifizierte Verzeichnis europäischer Dropshipping-Anbieter für 2026.</p>
-<p>Ab Juli 2026 wird jede Sendung aus Drittstaaten verzollt. </p>
-<p>Die Lösung: Dropshipping mit europäischen Lieferanten. Unsere Liste enthält verifizierte Lieferanten die ein aktives Dropshipping-Programm haben und wird laufend erweitert. </p>
+**Vendor's marketplace description:** Das verifizierte Verzeichnis europäischer Dropshipping-Anbieter für 2026. Ab Juli 2026 wird jede Sendung aus Drittstaaten verzollt. Die Lösung: Dropshipping mit europäischen Lieferanten. Unsere Liste enthält verifizierte Lieferanten die ein aktives Dropshipping-Programm haben und wird laufend erweitert.
 
 ## 2. Links
 

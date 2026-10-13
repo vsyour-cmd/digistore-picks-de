@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Die Leine ist eine „never ending story“.</h3>
-<p>Wir kommen in unserer Gesellschaft nicht drum herum, aber sie ist uns immer lästig und birgt in der Regel viele Probleme.<br /> – Der Hund zieht an der leine<br /> – Er beißt immer rein<br /> – Er bellt an der Leine andere Hunde an<br /> – Er ist an der Leine kaum zu halten</p>
-<h3>In diesem Webinar habe ich Dir einen kompletten Workshop zusammengestellt.</h3>
-<p>Es gibt einen ausführlichen Theorieteil und 6 Trainingsvideos mit unterschiedlichen Hunden, die auch alle einen unterschiedlichen Stand in der Beziehung mit Ihrem Menschen haben. So kannst Du sehen, wie die Entwicklung in der Mensch-Hund Beziehung sich auch in der Leinenführung wiederspiegelt.</p>
-<p>Es wird ausführlich die Ursache für das „an der Leine ziehen“ behandelt, ebenso das optimale Material besprochen, sowie Umgang und Technik mit der Leine gezeigt.</p>
-<p>Das Webinar ist für alle, die noch an der Leinenführung mit Ihrem Hund arbeiten wollen. In 2 Stunden und 16 Minuten erfährst Du viel über das Thema Leine, siehst Du Starter-Teams und Mensch-Hund Teams, die schon sehr gefestigt in ihrer Beziehung sind.</p>
-<p>Es hat mir sehr viel Spaß gemacht, diese Informationen und Trainingsvideos für Dich zusammenzustellen. Ich wünsche Dir viel Spaß beim Ansehen und Anhören.</p>
+**Vendor's marketplace description:** Die Leine ist eine „never ending story“. Wir kommen in unserer Gesellschaft nicht drum herum, aber sie ist uns immer lästig und birgt in der Regel viele Probleme. – Der Hund zieht an der leine – Er beißt immer rein – Er bellt an der Leine andere Hunde an – Er ist an der Leine kaum zu halten In diesem Webinar habe ich Dir einen kompletten Workshop zusammengestellt. Es gibt einen ausführlichen Theorieteil und 6 Trainingsvideos mit unterschiedlichen Hunden, die auch alle einen unterschiedlichen Stand in der Beziehung mit Ihrem Menschen haben. So kannst Du sehen, wie die Entwicklung in der Mensch-Hund Beziehung sich auch in der Leinenführung wiederspiegelt. Es wird ausführlich die Ursache für das „an der Leine ziehen“ behandelt, ebenso das optimale Material besprochen, sowie Umgang und Technik mit der Leine gezeigt. Das Webinar ist für alle, die noch an der Leinenführung mit Ihrem Hund arbeiten wollen. In 2 Stunden und 16 Minuten erfährst Du viel über das Thema Leine, siehst Du Starter-Teams und Mensch-Hund Teams, die schon sehr gefestigt in ihrer Beziehung sind. Es hat mir sehr viel Spaß gemacht, diese Informationen und Trainingsvideos für Dich zusammenzustellen. Ich wünsche Dir viel Spaß beim Ansehen und Anhören.
 
 ## 2. Links
 

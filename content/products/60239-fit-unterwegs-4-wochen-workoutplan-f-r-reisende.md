@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Fit bleiben auf jeder Reise, ohne Fitnessstudio: 4 Wochen Workouts fürs Hotelzimmer (15–25 Min., ohne Geräte), Übungen für lange Flüge, Jetlag-Plan, Packliste und 28-Tage-Tracker. 21 Seiten PDF, 14,90 €.</p>
-<p><strong>30 % Provision.</strong> Passt zu Reise-, Fitness- und Vielflieger-Zielgruppen. Werbemittel und fertige Texte: <a href="https://blitzferien.de/partner/">blitzferien.de/partner</a></p>
-<p>Bitte Partnerlinks als Werbung kennzeichnen, keine Heilversprechen.</p>
+**Vendor's marketplace description:** Fit bleiben auf jeder Reise, ohne Fitnessstudio: 4 Wochen Workouts fürs Hotelzimmer (15–25 Min., ohne Geräte), Übungen für lange Flüge, Jetlag-Plan, Packliste und 28-Tage-Tracker. 21 Seiten PDF, 14,90 €. 30 % Provision. Passt zu Reise-, Fitness- und Vielflieger-Zielgruppen. Werbemittel und fertige Texte: blitzferien.de/partner Bitte Partnerlinks als Werbung kennzeichnen, keine Heilversprechen.
 
 ## 2. Links
 

@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die 6 teuersten Fehler bei der Witwenrente (Online-Videokurs)</strong></p>
-<p>In diesem kompakten Videokurs erfährst Du, worauf es bei Witwenrente, Steuern und Einkommen wirklich ankommt – verständlich erklärt und direkt anwendbar.</p>
-<p>Du lernst unter anderem:</p>
-<ul>
-<li>
-<p>die wichtigsten Grundlagen der gesetzlichen Rentenversicherung</p>
-</li>
-<li>
-<p>typische Rentenminderungen und wie Du sie erkennst</p>
-</li>
-<li>
-<p>Besonderheiten bei Witwen-, Witwer- und Erziehungsrente</p>
-</li>
-<li>
-<p>steuerliche Aspekte wie das Witwensplitting</p>
-</li>
-<li>
-<p>wichtige Regelungen für Deine Kinder</p>
-</li>
-<li>
-<p>die Hinzuverdienstgrenze und einen praktischen Lifehack</p>
-</li>
-</ul>
-<p>Der Kurs dauert ca. 2 Stunden und enthält zusätzliche Materialien zum Download. Du hast 30 Tage Zugriff und kannst alles beliebig oft ansehen.</p>
-<p><strong>Bonus:</strong> Inklusive beliebter Excel-Berechnungshilfe zur direkten Umsetzung.</p>
+**Vendor's marketplace description:** Die 6 teuersten Fehler bei der Witwenrente (Online-Videokurs) In diesem kompakten Videokurs erfährst Du, worauf es bei Witwenrente, Steuern und Einkommen wirklich ankommt – verständlich erklärt und direkt anwendbar. Du lernst unter anderem: die wichtigsten Grundlagen der gesetzlichen Rentenversicherung typische Rentenminderungen und wie Du sie erkennst Besonderheiten bei Witwen-, Witwer- und Erziehungsrente steuerliche Aspekte wie das Witwensplitting wichtige Regelungen für Deine Kinder die Hinzuverdienstgrenze und einen praktischen Lifehack Der Kurs dauert ca. 2 Stunden und enthält zusätzliche Materialien zum Download. Du hast 30 Tage Zugriff und kannst alles beliebig oft ansehen. Bonus: Inklusive beliebter Excel-Berechnungshilfe zur direkten Umsetzung.
 
 ## 2. Links
 

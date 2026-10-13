@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Jetzt Portugiesisch Lernen </p>
-<p>Lernkarten sind der beste und effektivste Weg, um eine neue Sprache zu lernen. Die portugiesische Sprache erfreut sich großer Beliebtheit, hat allerdings mit dem Vorurteil zu kämpfen, dass sie sehr schwer zu erlernen sei. </p>
-<p>Mit diesen Lernkarten kann Jeder sein Portugiesisch Vokabular aufbauen und innerhalb von 30 Tagen mehr als 600 Vokabeln lernen. </p>
-<p>Wir haben die wichtigsten Portugiesisch Vokabeln zusammengetragen und diese werden dafür sorgen, dass du in jeder Lebenslage die richtigen Worte finden wirst. </p>
-<p>Wir arbeiten eng mit unseren Partnern zusammen. Unter folgender EMail sind wir jederzeit für dich erreichbar: <a>info@stuffdesk.de</a> </p>
-<p>Auf <a href="http://stuffdesk.de" target="_blank" rel="noreferrer noopener">http://stuffdesk.de</a> findest du unser komplettes Angebot und alles was wir noch so anbieten, für alle, die die portugiesische Sprache lernen wollen. </p>
-<p>Natürlich haben wir auch ein offenes Ohr für Ratschläge und Verbesserungsvorschläge von unseren Partnern, um den Mehrwert für alle Beteiligten zu erhöhen. </p>
+**Vendor's marketplace description:** Jetzt Portugiesisch Lernen Lernkarten sind der beste und effektivste Weg, um eine neue Sprache zu lernen. Die portugiesische Sprache erfreut sich großer Beliebtheit, hat allerdings mit dem Vorurteil zu kämpfen, dass sie sehr schwer zu erlernen sei. Mit diesen Lernkarten kann Jeder sein Portugiesisch Vokabular aufbauen und innerhalb von 30 Tagen mehr als 600 Vokabeln lernen. Wir haben die wichtigsten Portugiesisch Vokabeln zusammengetragen und diese werden dafür sorgen, dass du in jeder Lebenslage die richtigen Worte finden wirst. Wir arbeiten eng mit unseren Partnern zusammen. Unter folgender EMail sind wir jederzeit für dich erreichbar: info@stuffdesk.de Auf http://stuffdesk.de findest du unser komplettes Angebot und alles was wir noch so anbieten, für alle, die die portugiesische Sprache lernen wollen. Natürlich haben wir auch ein offenes Ohr für Ratschläge und Verbesserungsvorschläge von unseren Partnern, um den Mehrwert für alle Beteiligten zu erhöhen.
 
 ## 2. Links
 

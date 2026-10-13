@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Finde einen Ausgangspunkt für dein nächstes UGC-Konzept: 30 Skripte für zehn Branchen.</p>
-<p>Du erhältst die UGC-Skriptbibliothek als PDF-Download. Passe Beispiele an das tatsächliche Produkt, Briefing und deine eigene Ausdrucksweise an. Es werden keine fertigen Videos oder Markenaufträge geliefert.</p>
-<p>Optionaler Zusatz zum UGC-Praxispaket. Der Hauptkurs und seine Werkstatt sind nicht enthalten. Zum Öffnen genügt ein PDF-Reader.</p>
-<p>Schriftliches Downloadprodukt auf Deutsch. Keine Videolektionen, persönliche Betreuung oder enthaltenen Drittanbieter-Abos. Beispiele sind Übungsmaterial; Verkäufe, Aufträge und Einkommen werden nicht zugesagt. Einmalzahlung, kein Abo.</p>
-<p>Anbieter: Einfach mit Matze / Michael Arndt · info@einfachhaltbar.de. Nutzung für die eigene Arbeit gemäß den beiliegenden Nutzungsregeln. Kein Weiterverkauf der Kursdateien.</p>
-<p>Affiliate-Information: 50,00 % Provision. Eigenständig erhältliches Zusatzpaket; der Hauptkurs ist nicht enthalten. Keine garantierten Verkäufe oder Einnahmen. Kontakt: info@einfachhaltbar.de.</p>
+**Vendor's marketplace description:** Finde einen Ausgangspunkt für dein nächstes UGC-Konzept: 30 Skripte für zehn Branchen. Du erhältst die UGC-Skriptbibliothek als PDF-Download. Passe Beispiele an das tatsächliche Produkt, Briefing und deine eigene Ausdrucksweise an. Es werden keine fertigen Videos oder Markenaufträge geliefert. Optionaler Zusatz zum UGC-Praxispaket. Der Hauptkurs und seine Werkstatt sind nicht enthalten. Zum Öffnen genügt ein PDF-Reader. Schriftliches Downloadprodukt auf Deutsch. Keine Videolektionen, persönliche Betreuung oder enthaltenen Drittanbieter-Abos. Beispiele sind Übungsmaterial; Verkäufe, Aufträge und Einkommen werden nicht zugesagt. Einmalzahlung, kein Abo. Anbieter: Einfach mit Matze / Michael Arndt · info@einfachhaltbar.de. Nutzung für die eigene Arbeit gemäß den beiliegenden Nutzungsregeln. Kein Weiterverkauf der Kursdateien. Affiliate-Information: 50,00 % Provision. Eigenständig erhältliches Zusatzpaket; der Hauptkurs ist nicht enthalten. Keine garantierten Verkäufe oder Einnahmen. Kontakt: info@einfachhaltbar.de.
 
 ## 2. Links
 

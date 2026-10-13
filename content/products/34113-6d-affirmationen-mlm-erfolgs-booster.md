@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#0000ff;">6D-Affirmationen - </span><span style="color:#00ccff;">MLM - Erfolgs-Booster</span></h2>
-<p><strong>Inhalt des umfangreichen 6D-Affirmations-Pakets</strong></p>
-<p>Im Gegensatz zu den handelsüblichen Standard-Affirmationen, die in der Regel nur eine Audio-Datei enthalten, umfasst das <em><strong>Affirmations-Paket MLM-Erfolgs-Booster 25 Audio-Dateien</strong></em> für unterschiedliche Anwendungen und eine umfangreiche Beschreibung.<br /><br /><strong>Integriert ist:</strong></p>
-<ul>
-<li>Klartext, gesprochen von einer männlichen und weiblichen Stimme. Dieses dient der wichtigen Affirmations-Initiierung.<br /><br /></li>
-<li>Alle Audio-Dateien sind mit angenehmen Naturgeräuschen maskiert.<br /><br /></li>
-<li>Sogenannte SILENTS (auch als Subliminals bekannt), d.h. die Affirmations-Informationen werden in einen unhörbaren Frequenzbereich gehoben, wodurch man die Affirmationen nicht hören kann, diese aber dennoch vom Unterbewusstsein aufgenommen werden.<br /><br /></li>
-<li>Programm mit Naturgeräuschen als Maskierung und zusätzlichem SILENT, was für eine wirkungsvolle Verstärkung sorgt.<br /><br /></li>
-<li>Programm mit Pan-Flöte als Maskierung und Wohlfühlfrequenz.<br /><br /></li>
-<li>Programm mit Pan-Flöte als Maskierung und Tiefenentspannung.<br /><br /></li>
-<li>Spezielles Einschlaf-Programm (Power-Nap).<br /><br /></li>
-<li>Programm nur als Silent.<br /><br /></li>
-<li>Programm Silent plus Spezial-Frequenzen (Isochronic Beats).<br /><br /></li>
-<li>Zusätzlich wurden 3 auswählbare Spezial-Frequenzen integriert, mit denen man die Gehirnwellen in einen gewünschten Bereich bringen kann:<br />- Schumann-Frequenz, auch als Wohlfühlfrequenz bekannt<br />- Programm zum Relaxen, Tiefenentspannung<br />- Power-Frequenz, dient der Anregung bei Müdigkeit und gibt Kraft und Energie.<br /><br /></li>
-<li>6 weitere Programme speziell zur Motivations-Steigerung mit Spezial-Frequenzen.<br /><br /></li>
-</ul>
-<h3><strong>Du kannst fast alles erreichen.<br />Es ist dein Geist, den du überzeugen musst.</strong></h3>
-<p> </p>
+**Vendor's marketplace description:** 6D-Affirmationen - MLM - Erfolgs-Booster Inhalt des umfangreichen 6D-Affirmations-Pakets Im Gegensatz zu den handelsüblichen Standard-Affirmationen, die in der Regel nur eine Audio-Datei enthalten, umfasst das Affirmations-Paket MLM-Erfolgs-Booster 25 Audio-Dateien für unterschiedliche Anwendungen und eine umfangreiche Beschreibung. Integriert ist: Klartext, gesprochen von einer männlichen und weiblichen Stimme. Dieses dient der wichtigen Affirmations-Initiierung. Alle Audio-Dateien sind mit angenehmen Naturgeräuschen maskiert. Sogenannte SILENTS (auch als Subliminals bekannt), d.h. die Affirmations-Informationen werden in einen unhörbaren Frequenzbereich gehoben, wodurch man die Affirmationen nicht hören kann, diese aber dennoch vom Unterbewusstsein aufgenommen werden. Programm mit Naturgeräuschen als Maskierung und zusätzlichem SILENT, was für eine wirkungsvolle Verstärkung sorgt. Programm mit Pan-Flöte als Maskierung und Wohlfühlfrequenz. Programm mit Pan-Flöte als Maskierung und Tiefenentspannung. Spezielles Einschlaf-Programm (Power-Nap). Programm nur als Silent. Programm Silent plus Spezial-Frequenzen (Isochronic Beats). Zusätzlich wurden 3 auswählbare Spezial-Frequenzen integriert, mit denen man die Gehirnwellen in einen gewünschten Bereich bringen kann: - Schumann-Frequenz, auch als Wohlfühlfrequenz bekannt - Programm zum Relaxen, Tiefenentspannung - Power-Frequenz, dient der Anregung bei Müdigkeit und gibt Kraft und Energie. 6 weitere Programme speziell zur Motivations-Steigerung mit Spezial-Frequenzen. Du kannst fast alles erreichen. Es ist dein Geist, den du überzeugen musst.
 
 ## 2. Links
 

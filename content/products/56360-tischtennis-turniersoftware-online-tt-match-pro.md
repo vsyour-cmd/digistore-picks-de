@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <pre style="text-align:center;"><br /><strong>Empfehle die Tischtennis-Turniersoftware</strong></pre>
-<pre style="text-align:center;"><strong><br />TT-Match PRO<br /><br /></strong><span style="background-color:#ffff99;">Für jeden verkauften Zugang erhältst du<br /> eine Provision in Höhe von 50%</span></pre>
-<p style="text-align:left;"><br /><br />Empfehlen kannst du die Software z.B. an:<br /><br />- Deine Community, wie<br />  Follower, Newsletter-Abonnenten<br />- Verbände<br />- Vereine<br />- Trainingszentren<br />- Turnierleiter<br />- Tischtennis-Camps<br />- Trainer<br />- Sport-Zentren<br /><br />---------------------<br /><br /></p>
-<p>Beim Kauf von TT-Match PRO erhält der Kunde:<br /><br /></p>
-<p>✓ 24/7-Online-Zugang zu tt-match.net für 1 Jahr<br />✓ Unbegrenzte Turnieranzahl<br />✓ Diverse gefragte Turnierformate<br />✓ Mitglieder-Verwaltung<br />✓ Updates inklusive<br />✓ Priorisierter Support<br /><br /></p>
-<p>Turnierformate:</p>
-<ul>
-<li>Gruppensystem + KO/Doppel-KO</li>
-<li>KO/Doppel-KO</li>
-<li>Schweizer System<br /><br /></li>
-</ul>
-<p>Spieleranzahl:</p>
-<ul>
-<li>KO: bis 32 Spieler</li>
-<li>Doppel-KO: bis 16 Spieler</li>
-<li>Gruppensystem bis zu 64 Spieler</li>
-<li>Schweizer System: bis zu 64 Spieler<br /><br /></li>
-</ul>
-<p>Der Kunde zahlt nur einmal - kein Abo<br />Der Kunde kann TT-Match PRO optional um 1 Jahr für 49 € verlängern.<br /><br /></p>
-<h1> </h1>
-<p> </p>
-<h1> </h1>
-<p> </p>
+**Vendor's marketplace description:** Empfehle die Tischtennis-Turniersoftware TT-Match PRO Für jeden verkauften Zugang erhältst du eine Provision in Höhe von 50% Empfehlen kannst du die Software z.B. an: - Deine Community, wie Follower, Newsletter-Abonnenten - Verbände - Vereine - Trainingszentren - Turnierleiter - Tischtennis-Camps - Trainer - Sport-Zentren --------------------- Beim Kauf von TT-Match PRO erhält der Kunde: ✓ 24/7-Online-Zugang zu tt-match.net für 1 Jahr ✓ Unbegrenzte Turnieranzahl ✓ Diverse gefragte Turnierformate ✓ Mitglieder-Verwaltung ✓ Updates inklusive ✓ Priorisierter Support Turnierformate: Gruppensystem + KO/Doppel-KO KO/Doppel-KO Schweizer System Spieleranzahl: KO: bis 32 Spieler Doppel-KO: bis 16 Spieler Gruppensystem bis zu 64 Spieler Schweizer System: bis zu 64 Spieler Der Kunde zahlt nur einmal - kein Abo Der Kunde kann TT-Match PRO optional um 1 Jahr für 49 € verlängern.
 
 ## 2. Links
 

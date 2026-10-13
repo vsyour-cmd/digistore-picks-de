@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Wie dein Casting-Profil hinter den Kulissen gelesen wird — und was du konkret ändern kannst, damit Caster:innen und Agenturen sofort damit arbeiten können.</p>
-<p>Im Kurs erwarten dich: rund 35 Minuten Videomaterial in 4 Kapiteln, eine Live-Demonstration aus meinem Casting-System und 4 Arbeits-PDFs (Foto-Checkliste, Stammdaten-Guide, Mess-Guide, Credits-Guide).</p>
-<p>Praxis statt Theorie — direkt anwendbar, sobald du das erste Kapitel angeschaut hast.</p>
+**Vendor's marketplace description:** Wie dein Casting-Profil hinter den Kulissen gelesen wird — und was du konkret ändern kannst, damit Caster:innen und Agenturen sofort damit arbeiten können. Im Kurs erwarten dich: rund 35 Minuten Videomaterial in 4 Kapiteln, eine Live-Demonstration aus meinem Casting-System und 4 Arbeits-PDFs (Foto-Checkliste, Stammdaten-Guide, Mess-Guide, Credits-Guide). Praxis statt Theorie — direkt anwendbar, sobald du das erste Kapitel angeschaut hast.
 
 ## 2. Links
 

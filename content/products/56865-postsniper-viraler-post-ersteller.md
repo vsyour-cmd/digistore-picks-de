@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verkaufe das Tool, das JEDER Instagram-Nutzer JETZT haben will!</strong></p>
-<h3>Deine Umsatz-Vorteile als Affiliate:</h3>
-<ul>
-<li>
-<p>Hohe Conversion auf Initial + Upsell</p>
-</li>
-</ul>
+**Vendor's marketplace description:** Verkaufe das Tool, das JEDER Instagram-Nutzer JETZT haben will! Deine Umsatz-Vorteile als Affiliate: Hohe Conversion auf Initial + Upsell
 
 ## 2. Links
 

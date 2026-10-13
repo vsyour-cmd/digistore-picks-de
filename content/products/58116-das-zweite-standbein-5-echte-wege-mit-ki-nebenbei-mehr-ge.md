@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Fünf echte Wege, mit KI-Unterstützung nebenbei mehr Geld und Freiheit aufzubauen – mit echten Geschichten, echten Zahlen, ohne leere Versprechen. Ideal für Zielgruppen im Bereich Business, Nebenverdienst und Selbstständigkeit.</p>
-<p> </p>
-<p>23 Kapitel, 30-Tage-Fahrplan, im ehrlichen Freund-Ton statt Berater-Sprech. 50% Provision pro Verkauf.</p>
+**Vendor's marketplace description:** Fünf echte Wege, mit KI-Unterstützung nebenbei mehr Geld und Freiheit aufzubauen – mit echten Geschichten, echten Zahlen, ohne leere Versprechen. Ideal für Zielgruppen im Bereich Business, Nebenverdienst und Selbstständigkeit. 23 Kapitel, 30-Tage-Fahrplan, im ehrlichen Freund-Ton statt Berater-Sprech. 50% Provision pro Verkauf.
 
 ## 2. Links
 

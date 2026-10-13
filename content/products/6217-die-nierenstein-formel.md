@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die</strong> <strong>Nierenstein-Formel </strong>ist das ultimative Sofort-Hilfe Programm gegen Nierensteine.</p>
-<p>&nbsp;</p>
-<p>Der Kunde erf&auml;hrt in einer einfachen Schritt-f&uuml;r-Schritt Anleitung, wie man sie in weniger als 5 Stunden schmerzfrei, auf nat&uuml;rlichem Weg und f&uuml;r immer&nbsp;loswird.</p>
-<p>&nbsp;</p>
-<p>Wirksamkeit erprobt und best&auml;tigt !!</p>
-<p>_____</p>
-<p>ABSOLUTES TOP NISCHENPRODUKT UND EINZIGARTIG auf dem deutschen Markt.</p>
-<p>Riesige Zielgruppe, denn Nierensteine k&ouml;nnen jeden treffen!&nbsp;</p>
-<p>Jetzt Affiliate werden!</p>
+**Vendor's marketplace description:** Die Nierenstein-Formel ist das ultimative Sofort-Hilfe Programm gegen Nierensteine. Der Kunde erf&auml;hrt in einer einfachen Schritt-f&uuml;r-Schritt Anleitung, wie man sie in weniger als 5 Stunden schmerzfrei, auf nat&uuml;rlichem Weg und f&uuml;r immer loswird. Wirksamkeit erprobt und best&auml;tigt !! _____ ABSOLUTES TOP NISCHENPRODUKT UND EINZIGARTIG auf dem deutschen Markt. Riesige Zielgruppe, denn Nierensteine k&ouml;nnen jeden treffen! Jetzt Affiliate werden!
 
 ## 2. Links
 

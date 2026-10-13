@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><strong>SCHLUSS MIT FREMDBESTIMMUNG </strong> <br /><span style="color:#ff0000;">Wie Du durch Grenzen setzen <br />die Zügel für Dein Leben selbst in die Hand nimmst</span></p>
-<p>Als Buch (Softcover) <br />oder Hörbuch &amp; E-Book (Download)</p>
-<p> </p>
-<p>-&gt; Mit einfachen <strong>Übungen</strong> für zu Hause, hilfreichen <strong>Tipps</strong> und spannenden <strong>Fallbeispielen</strong> aus dem <span style="color:#008080;"><strong><span style="text-decoration:underline;">pferdegestützten Coaching</span></strong></span></p>
-<p style="padding-left:30px;"><span style="color:#008080;">- <strong>5 Regeln</strong> für gesunde Grenzen</span></p>
-<p style="padding-left:30px;"><span style="color:#008080;">- Verborgene <strong>Manipulationsmuster durchschauen</strong></span></p>
-<p style="padding-left:30px;"><span style="color:#008080;">- Deine Bedürfnisse nach <strong>Nähe und Distanz</strong> in Balance bringen</span></p>
-<p style="padding-left:30px;"><span style="color:#008080;">- Durch Grenzen setzen Deine <strong>Beziehungen stärken</strong></span></p>
-<p style="padding-left:30px;"><span style="color:#008080;">- Blockaden lösen und selbstbewusst <strong>Nein sagen</strong></span></p>
-<p style="padding-left:30px;"><span style="color:#008080;">- <strong>Deinen Platz im Leben</strong> einnehmen</span></p>
-<p> </p>
-<p><span style="background-color:#ffff00;">Für Dich als Affiliate <strong><span style="color:#ff0000;">5</span><span style="color:#ff0000;">0% Provision</span></strong> auf alle Buch und Hörbuch Verkäufe!</span></p>
-<p><strong>Erwiesene FANS des Buches sind:</strong></p>
-<p>Frauen (35- 65), Pferdemenschen, Hundemenschen, <br />Tierfreunde, Gestresste Berufstätige, Alle, die Angst haben NEIN zu sagen, Burnout Geplagte</p>
-<p><span style="background-color:#00ff00;">Um das Buch in Deiner Peer-Group zu bewerben, nutze bitte den Link</span></p>
-<p><span style="background-color:#00ff00;"><a style="background-color:#00ff00;">https://www.digistore24.com/redir/411354/AFFILIATE</a></span></p>
-<p><span style="background-color:#00ff00;">und ersetze das Wort AFFILIATE für die Zuordnung und Abrechnung durch Deine Digistore-ID.</span></p>
-<p><span style="background-color:#ffff00;">Hol Dir unbedingt meinen <strong><span style="color:#ff0000;">Affiliate-Guide</span></strong> für Promo-Ideen, Visuals und Textbausteine für die Weiterempfehlung. </span><em>(Erhältst du über die Affiliate Support Seite)</em></p>
+**Vendor's marketplace description:** SCHLUSS MIT FREMDBESTIMMUNG Wie Du durch Grenzen setzen die Zügel für Dein Leben selbst in die Hand nimmst Als Buch (Softcover) oder Hörbuch & E-Book (Download) -> Mit einfachen Übungen für zu Hause, hilfreichen Tipps und spannenden Fallbeispielen aus dem pferdegestützten Coaching - 5 Regeln für gesunde Grenzen - Verborgene Manipulationsmuster durchschauen - Deine Bedürfnisse nach Nähe und Distanz in Balance bringen - Durch Grenzen setzen Deine Beziehungen stärken - Blockaden lösen und selbstbewusst Nein sagen - Deinen Platz im Leben einnehmen Für Dich als Affiliate 5 0% Provision auf alle Buch und Hörbuch Verkäufe! Erwiesene FANS des Buches sind: Frauen (35- 65), Pferdemenschen, Hundemenschen, Tierfreunde, Gestresste Berufstätige, Alle, die Angst haben NEIN zu sagen, Burnout Geplagte Um das Buch in Deiner Peer-Group zu bewerben, nutze bitte den Link https://www.digistore24.com/redir/411354/AFFILIATE und ersetze das Wort AFFILIATE für die Zuordnung und Abrechnung durch Deine Digistore-ID. Hol Dir unbedingt meinen Affiliate-Guide für Promo-Ideen, Visuals und Textbausteine für die Weiterempfehlung. (Erhältst du über die Affiliate Support Seite)
 
 ## 2. Links
 

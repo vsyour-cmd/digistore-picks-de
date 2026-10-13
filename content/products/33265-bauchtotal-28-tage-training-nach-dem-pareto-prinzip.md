@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h5><span style="color:#ff0000;"><strong>ACHTUNG: <br />Dazu kommen noch fast 25% Conversion Rate <br />auf das 49€-Upsell </strong>(MenoPower) <strong>!!</strong></span><br /><br />Deine Bauchmuskeln haben einen entscheidenden Einfluss auf deinen Körper !</h5>
-<ul style="list-style-type:square;">
-<li>Wenn der Rücken ab und an schmerzt, besonders der untere Rücken (LWS)</li>
-<li>Wenn du zum Hohlkreuz neigst</li>
-<li>Wenn deine Taille so gut wie verschwunden ist</li>
-<li>Wenn sich bereits ein "Bauchröllchen" gebildet hat</li>
-<li>Wenn sich deine Körperhaltung verändert</li>
-<li>Wenn das Gewebe rund um den Bauch erschlafft<br /><br /></li>
-</ul>
-<p><strong>...dann hast du zu schwache Bauchmuskeln !</strong></p>
-<p>Ich zeige dir 28 Tage lang die effektivsten und wirksamsten Bauch-Übungen und du erhältst als Bonus mein Motivationsvideo "Innerer Schweinehund adé"<br /><br />+ E-Mail-Support</p>
-<ul style="list-style-type:square;">
-<li>Vorbeugung gegen Schmerzen im Rücken (LWS/BWS)</li>
-<li>Für eine schlankere Taille</li>
-<li>Gegen "Bauchröllchen"</li>
-<li>Strafft das Gewebe rundum den Bauch</li>
-<li>Verbessert deine Körperhaltung</li>
-<li>Andere Muskelgruppen werden mittrainiert</li>
-<li>Bauchmuskeln werden wieder sichtbar</li>
-<li>Sofortiger und unbegrenzter Zugriff</li>
-</ul>
-<p><strong>Kein Risiko: 30 Tage Geld-zurück-Garantie</strong><strong><br /><br /></strong><strong>Für nur <span style="color:#008000;">79 €</span></strong></p>
+**Vendor's marketplace description:** ACHTUNG: Dazu kommen noch fast 25% Conversion Rate auf das 49€-Upsell (MenoPower) !! Deine Bauchmuskeln haben einen entscheidenden Einfluss auf deinen Körper ! Wenn der Rücken ab und an schmerzt, besonders der untere Rücken (LWS) Wenn du zum Hohlkreuz neigst Wenn deine Taille so gut wie verschwunden ist Wenn sich bereits ein "Bauchröllchen" gebildet hat Wenn sich deine Körperhaltung verändert Wenn das Gewebe rund um den Bauch erschlafft ...dann hast du zu schwache Bauchmuskeln ! Ich zeige dir 28 Tage lang die effektivsten und wirksamsten Bauch-Übungen und du erhältst als Bonus mein Motivationsvideo "Innerer Schweinehund adé" + E-Mail-Support Vorbeugung gegen Schmerzen im Rücken (LWS/BWS) Für eine schlankere Taille Gegen "Bauchröllchen" Strafft das Gewebe rundum den Bauch Verbessert deine Körperhaltung Andere Muskelgruppen werden mittrainiert Bauchmuskeln werden wieder sichtbar Sofortiger und unbegrenzter Zugriff Kein Risiko: 30 Tage Geld-zurück-Garantie Für nur 79 €
 
 ## 2. Links
 

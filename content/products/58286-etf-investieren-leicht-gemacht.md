@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du möchtest dein <strong>Geld sinnvoll investieren</strong>, weißt aber nicht, wo du anfangen sollst? Dieses E-Book zeigt dir Schritt für Schritt, wie ETFs funktionieren, wie du dein erstes Depot eröffnest und langfristig Vermögen aufbauen kannst – verständlich, praxisnah und ohne kompliziertes Fachwissen.</p>
-<p><a> </a></p>
-<p><strong>87 informative Seiten! </strong></p>
-<ul>
-<li>Warum du investieren solltest</li>
-<li>Die Börse einfach erklärt</li>
-<li>ETFs verständlich erklärt</li>
-<li>Die wichtigsten ETF-Arten</li>
-<li>uvm.</li>
-</ul>
-<p><strong>Starte noch heute deine Reise in die Welt der ETFs!</strong></p>
-<p> </p>
+**Vendor's marketplace description:** Du möchtest dein Geld sinnvoll investieren , weißt aber nicht, wo du anfangen sollst? Dieses E-Book zeigt dir Schritt für Schritt, wie ETFs funktionieren, wie du dein erstes Depot eröffnest und langfristig Vermögen aufbauen kannst – verständlich, praxisnah und ohne kompliziertes Fachwissen. 87 informative Seiten! Warum du investieren solltest Die Börse einfach erklärt ETFs verständlich erklärt Die wichtigsten ETF-Arten uvm. Starte noch heute deine Reise in die Welt der ETFs!
 
 ## 2. Links
 

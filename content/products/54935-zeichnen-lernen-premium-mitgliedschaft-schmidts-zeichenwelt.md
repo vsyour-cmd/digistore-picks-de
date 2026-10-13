@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Zeichnen: Premium-Mitgliedschaft in der Akademie Schmidt’s Zeichenwelt</strong></p>
-<p>Schmidt’s Zeichenwelt ist eine hochwertige Online-Zeichenakademie des freischaffenden Künstlers Ralf Wilhelm Schmidt.</p>
-<p><strong>Die Premium-Mitgliedschaft </strong>bietet Zugriff auf alle Zeichenkurse und Workbooks der Akademie – ruhig erklärt, klar aufgebaut und konsequent praxisorientiert.</p>
-<p>Die Inhalte richten sich an Menschen, die realistisch zeichnen lernen möchten, ohne Ablenkung, Leistungsdruck oder künstliches Marketing.</p>
-<p> </p>
-<p>Die Teilnehmer zeichnen Seite an Seite mit Ralf Wilhelm Schmidt, bekannt für seine über 2 m großen realistischen Bleistiftzeichnungen und jahrzehntelange Unterrichtserfahrung. Die Kurse sind so aufgebaut, dass Fortschritte schnell sichtbar werden und echtes Verständnis entsteht.</p>
-<p>Die Verkaufsseite enthält ein persönliches Video, klare Preisstruktur und eine bewährte Conversion-Führung. Affiliates verlinken direkt auf die offizielle Akademieseite.</p>
-<p><strong>Geeignet für Zielgruppen:</strong></p>
-<p>– Kreative Erwachsene</p>
-<p>– Zeichenanfänger und Fortgeschrittene</p>
-<p>– Menschen mit Interesse an Kunst, Achtsamkeit und Handwerk</p>
-<p>Provision: attraktiv und fair</p>
-<p>Produkt: etabliert, hochwertig, langfristig nutzbar</p>
+**Vendor's marketplace description:** Zeichnen: Premium-Mitgliedschaft in der Akademie Schmidt’s Zeichenwelt Schmidt’s Zeichenwelt ist eine hochwertige Online-Zeichenakademie des freischaffenden Künstlers Ralf Wilhelm Schmidt. Die Premium-Mitgliedschaft bietet Zugriff auf alle Zeichenkurse und Workbooks der Akademie – ruhig erklärt, klar aufgebaut und konsequent praxisorientiert. Die Inhalte richten sich an Menschen, die realistisch zeichnen lernen möchten, ohne Ablenkung, Leistungsdruck oder künstliches Marketing. Die Teilnehmer zeichnen Seite an Seite mit Ralf Wilhelm Schmidt, bekannt für seine über 2 m großen realistischen Bleistiftzeichnungen und jahrzehntelange Unterrichtserfahrung. Die Kurse sind so aufgebaut, dass Fortschritte schnell sichtbar werden und echtes Verständnis entsteht. Die Verkaufsseite enthält ein persönliches Video, klare Preisstruktur und eine bewährte Conversion-Führung. Affiliates verlinken direkt auf die offizielle Akademieseite. Geeignet für Zielgruppen: – Kreative Erwachsene – Zeichenanfänger und Fortgeschrittene – Menschen mit Interesse an Kunst, Achtsamkeit und Handwerk Provision: attraktiv und fair Produkt: etabliert, hochwertig, langfristig nutzbar
 
 ## 2. Links
 

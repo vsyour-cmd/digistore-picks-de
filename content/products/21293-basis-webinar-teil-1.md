@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Basis-Webinar: Grundlagen in der Hundeerziehung</h1>
-<p>Wenn Du nur möchtest, dass Dein Hund kommt, wenn Du ihn rufst, hört sich das zwar ganz einfach an, ist aber eigentlich die schwerste aller Übungen.</p>
-<p><strong>Wenn Du daran arbeiten möchtest oder auch nur möchtest, dass Dein Hund ein glückliches Hundeleben führt, bist Du in diesem Basis-Webinar genau richtig.</strong></p>
-<p>In diesem Webinar lernst Du, wie Du für Deinen Hund eine wichtige Führungspersönlichkeit und ein guter Sozialpartner wirst. Wie Du Dich sinnvoll mit ihm beschäftigst und auch artgerecht und ethisch vertretbar vermittelst, wenn Du Dinge nicht möchtest.</p>
-<p><strong>Ebenso siehst Du in verschiedenen Trainingssequenzen, wie man Signale wie Sitz, Down und das Signal fürs Kommen aufbaut und natürlich wie er lernt, Besitz freiwillig abzugeben, usw.</strong></p>
-<p>Inhalte unter anderem:</p>
-<ul><li>Einführung in das Thema Natural Dogmanship</li>
-<li>verschiedene Konditionierungsformen (unser Schwerpunkt: soziales Lernen)</li>
-<li>Die Umfelder (Haus, Garten, alles außerhalb des Gartens)</li>
-<li>Struktur zu Hause</li>
-<li>Artgerecht, verständlich und ethisch vertretbar Tabus, bzw. Grenzen setzen</li>
-<li>Sinnvoller Aufbau von Signalen wie Sitz, Down, Bei und das <strong>FREIWILLIGE</strong> Abgeben von Besitz</li>
-<li>Umgang mit der Leine</li>
-<li>Aufbau von (für den Hund) sinnvoller gemeinsamer Beschäftigung</li>
-<li>Aufbau von Steadiness (konstantes Ausführen von Signalen)</li>
-<li>Start der Sucharbeit</li>
-<li>Wie gehe ich bei Hundebegegnungen vor und wie starte ich sinnvoll Hundekontakt</li>
-<li>und vieles mehr</li>
-</ul><p><strong>Mit diesem Webinar erhälst Du eine umfassende Erziehungsgrundlage zum Beziehungsaufbau für Dich und Deinen Hund. </strong></p>
-<p><strong>Über 2 Stunden und 30 Minuten geballte Wissensvermittlung und Praxisvideos. </strong></p>
-<p><em>Wir haben es für Dich in 3 aufeinander aufbauende Teile aufgeteilt, so hast Du es einfacher beim Download.</em></p>
-<p>Wir wünschen Dir viel Spaß bei diesem Webinar und freuen uns über viele Teilnehmer.</p>
+**Vendor's marketplace description:** Basis-Webinar: Grundlagen in der Hundeerziehung Wenn Du nur möchtest, dass Dein Hund kommt, wenn Du ihn rufst, hört sich das zwar ganz einfach an, ist aber eigentlich die schwerste aller Übungen. Wenn Du daran arbeiten möchtest oder auch nur möchtest, dass Dein Hund ein glückliches Hundeleben führt, bist Du in diesem Basis-Webinar genau richtig. In diesem Webinar lernst Du, wie Du für Deinen Hund eine wichtige Führungspersönlichkeit und ein guter Sozialpartner wirst. Wie Du Dich sinnvoll mit ihm beschäftigst und auch artgerecht und ethisch vertretbar vermittelst, wenn Du Dinge nicht möchtest. Ebenso siehst Du in verschiedenen Trainingssequenzen, wie man Signale wie Sitz, Down und das Signal fürs Kommen aufbaut und natürlich wie er lernt, Besitz freiwillig abzugeben, usw. Inhalte unter anderem: Einführung in das Thema Natural Dogmanship verschiedene Konditionierungsformen (unser Schwerpunkt: soziales Lernen) Die Umfelder (Haus, Garten, alles außerhalb des Gartens) Struktur zu Hause Artgerecht, verständlich und ethisch vertretbar Tabus, bzw. Grenzen setzen Sinnvoller Aufbau von Signalen wie Sitz, Down, Bei und das FREIWILLIGE Abgeben von Besitz Umgang mit der Leine Aufbau von (für den Hund) sinnvoller gemeinsamer Beschäftigung Aufbau von Steadiness (konstantes Ausführen von Signalen) Start der Sucharbeit Wie gehe ich bei Hundebegegnungen vor und wie starte ich sinnvoll Hundekontakt und vieles mehr Mit diesem Webinar erhälst Du eine umfassende Erziehungsgrundlage zum Beziehungsaufbau für Dich und Deinen Hund. Über 2 Stunden und 30 Minuten geballte Wissensvermittlung und Praxisvideos. Wir haben es für Dich in 3 aufeinander aufbauende Teile aufgeteilt, so hast Du es einfacher beim Download. Wir wünschen Dir viel Spaß bei diesem Webinar und freuen uns über viele Teilnehmer.
 
 ## 2. Links
 

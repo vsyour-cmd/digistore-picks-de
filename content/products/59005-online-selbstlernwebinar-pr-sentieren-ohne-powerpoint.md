@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der perfekte Einstieg, um dir grundlegendes Wissen rund um das Thema „Präsentieren ohne PowerPoint“ anzueignen. Wir starten beim Mindset, gehen über die Aspekte Bühne, Kleidung und Körpersprache bis hin zu den Inhalten selbst – und werfen auch einen Blick auf „das Leben nach der Präsentation“. In insgesamt 19 Lektionen führe ich dich Schritt für Schritt durch alles, was du für deine nächste Präsentation brauchst.</p>
-<p>Du bekommst exklusiven Zugang zu einer Videoreihe, in der ich dir die gesamten Grundlagen einer erfolgreichen Präsentation vermittle – aufgeteilt in mehrere Themengebiete, die dich Schritt für Schritt an das Thema heranführen.</p>
-<p>Am Ende hast du ein grundsolides Wissen darüber, was es braucht, um erfolgreich zu präsentieren. Ich decke dabei alles ab: vom richtigen Ort der Präsentation bis zur passenden Art, sie zu halten.</p>
+**Vendor's marketplace description:** Der perfekte Einstieg, um dir grundlegendes Wissen rund um das Thema „Präsentieren ohne PowerPoint“ anzueignen. Wir starten beim Mindset, gehen über die Aspekte Bühne, Kleidung und Körpersprache bis hin zu den Inhalten selbst – und werfen auch einen Blick auf „das Leben nach der Präsentation“. In insgesamt 19 Lektionen führe ich dich Schritt für Schritt durch alles, was du für deine nächste Präsentation brauchst. Du bekommst exklusiven Zugang zu einer Videoreihe, in der ich dir die gesamten Grundlagen einer erfolgreichen Präsentation vermittle – aufgeteilt in mehrere Themengebiete, die dich Schritt für Schritt an das Thema heranführen. Am Ende hast du ein grundsolides Wissen darüber, was es braucht, um erfolgreich zu präsentieren. Ich decke dabei alles ab: vom richtigen Ort der Präsentation bis zur passenden Art, sie zu halten.
 
 ## 2. Links
 

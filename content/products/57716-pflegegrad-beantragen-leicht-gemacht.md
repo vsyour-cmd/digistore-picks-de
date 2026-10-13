@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Wie beantrage ich einen Pflegegrad, welche Formulare und wie müssen sie richtig ausgefüllt, werden. Welche Kriterien müssen erfüllt sein um ein Pflegegrad zu erhalten. </p>
+**Vendor's marketplace description:** Wie beantrage ich einen Pflegegrad, welche Formulare und wie müssen sie richtig ausgefüllt, werden. Welche Kriterien müssen erfüllt sein um ein Pflegegrad zu erhalten.
 
 ## 2. Links
 

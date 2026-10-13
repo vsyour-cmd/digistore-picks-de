@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Jetzt endlich verfügbar: Partnerprogramm für den Rückbildungs-Onlinekurs von Hebamme Nadine Beermann!</strong></p>
-<p>Der Kurs hilft Frauen nach der Schwangerschaft den Beckenboden zu straffen, die allgemeine Fitness zu verbessern und den Körper wieder in Form zu bringen.</p>
-<p><em>• Verkaufspreis 87 € - 197 €</em><br /><em>• 40% Affiliate-Provision!</em><br /><em>• hoher Umsatz für Partner</em></p>
-<p>Optimal für alle Partner, die in den Bereichen Schwangerschaft, Baby oder auch Fitness/Gesundheit unterwegs sind.</p>
-<p>Ideal für E-Mail-Funnel, Social Media, Blogs, Portale &amp; Co. geeignet.</p>
+**Vendor's marketplace description:** Jetzt endlich verfügbar: Partnerprogramm für den Rückbildungs-Onlinekurs von Hebamme Nadine Beermann! Der Kurs hilft Frauen nach der Schwangerschaft den Beckenboden zu straffen, die allgemeine Fitness zu verbessern und den Körper wieder in Form zu bringen. • Verkaufspreis 87 € - 197 € • 40% Affiliate-Provision! • hoher Umsatz für Partner Optimal für alle Partner, die in den Bereichen Schwangerschaft, Baby oder auch Fitness/Gesundheit unterwegs sind. Ideal für E-Mail-Funnel, Social Media, Blogs, Portale & Co. geeignet.
 
 ## 2. Links
 

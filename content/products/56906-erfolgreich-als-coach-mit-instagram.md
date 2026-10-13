@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du mit Mehrwert-Content Vertrauen aufbaust und Kunden über Instagram gewinnst</strong></p>
-<p>Als Coach lebt dein Business von Vertrauen – und Instagram ist die Plattform, auf der dieses Vertrauen täglich wächst. Dieses E-Book zeigt dir, wie du aus deinem Fachwissen Content machst, der nicht nur Reichweite, sondern planbar Anfragen bringt. Du lernst, wie du über Reels und Karussells Expertise zeigst ohne alles zu verschenken, wie Stories Nähe und Verbindlichkeit erzeugen und wie du den Funnel über Link in Bio, DMs und Story-CTAs aufbaust. Statt auf Zufallstreffer zu hoffen, hast du nach diesem E-Book ein System, das dich als Autorität deiner Nische positioniert und deinen Kalender mit Erstgesprächen füllt.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Content-Strategie, die Vertrauen UND Anfragen erzeugt</li>
-<li>Themen finden, die deine Wunschkunden wirklich beschäftigen</li>
-<li>Expertise zeigen in Reels &amp; Karussells ohne alles zu verschenken</li>
-<li>Der Story-Funnel: von der Sichtbarkeit zur Kontaktaufnahme</li>
-<li>Link in Bio &amp; DMs als Conversion-Kanal nutzen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du mit Mehrwert-Content Vertrauen aufbaust und Kunden über Instagram gewinnst Als Coach lebt dein Business von Vertrauen – und Instagram ist die Plattform, auf der dieses Vertrauen täglich wächst. Dieses E-Book zeigt dir, wie du aus deinem Fachwissen Content machst, der nicht nur Reichweite, sondern planbar Anfragen bringt. Du lernst, wie du über Reels und Karussells Expertise zeigst ohne alles zu verschenken, wie Stories Nähe und Verbindlichkeit erzeugen und wie du den Funnel über Link in Bio, DMs und Story-CTAs aufbaust. Statt auf Zufallstreffer zu hoffen, hast du nach diesem E-Book ein System, das dich als Autorität deiner Nische positioniert und deinen Kalender mit Erstgesprächen füllt. Das steckt drin: Content-Strategie, die Vertrauen UND Anfragen erzeugt Themen finden, die deine Wunschkunden wirklich beschäftigen Expertise zeigen in Reels & Karussells ohne alles zu verschenken Der Story-Funnel: von der Sichtbarkeit zur Kontaktaufnahme Link in Bio & DMs als Conversion-Kanal nutzen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Akne besiegen"</strong></p>
-<p>Reinere Haut Schritt für Schritt: Verstehe, wie Akne entsteht, baue die richtige Pflege-Routine auf und erfahre, wann der Hautarzt der entscheidende nächste Schritt ist.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe: Haut &amp; Haar / Gesundheit</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verstehen, wie Akne entsteht – ohne Mythen</li>
-<li>Den eigenen Aknetyp einschätzen</li>
-<li>Eine sanfte, wirksame Pflege-Routine aufbauen</li>
-<li>Erkennen, wann der Hautarzt der nächste Schritt ist</li>
-<li>Narben und Pigmentflecken vorbeugen</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Menschen mit Haut- &amp; Haarproblemen, Beauty-, Pflege- und Gesundheits-Zielgruppe</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Akne besiegen" Reinere Haut Schritt für Schritt: Verstehe, wie Akne entsteht, baue die richtige Pflege-Routine auf und erfahre, wann der Hautarzt der entscheidende nächste Schritt ist. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe: Haut & Haar / Gesundheit Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verstehen, wie Akne entsteht – ohne Mythen Den eigenen Aknetyp einschätzen Eine sanfte, wirksame Pflege-Routine aufbauen Erkennen, wann der Hautarzt der nächste Schritt ist Narben und Pigmentflecken vorbeugen Für deine Zielgruppe: Menschen mit Haut- & Haarproblemen, Beauty-, Pflege- und Gesundheits-Zielgruppe Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

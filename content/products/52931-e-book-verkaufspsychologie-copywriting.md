@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:left;"><strong>Das E-Book "Verkaufspsychologie &amp; Copywriting - So überzeugst du deine Zielgruppe"</strong> <br />Die Kraft der Emotionen im Verkaufsprozess. Entdecke die Magie der Worte: Beherrsche Wortkunst und Verkaufspsychologie!<br /><br />Prima Gelegenheit, um seine Provisionen aufzupeppen!</p>
-<ul>
-<li>Dieses E-Book funktioniert für Affiliate Anfänger und Fortgeschrittene.</li>
-<li>Perfektes Produkt für "jeden", der mit seinem online Business / Social-Media-Marketing starten oder weiterkommen will und nach wertvollen Tipps sucht.</li>
-<li>Du hast mit diesem E-Book einen Top-Ratgeber für deine Community und wirst am kompletten Sales-Funnel beteiligt!</li>
-</ul>
-<p>Hohe Conversion, da es aktuelle Themen behandelt.<br /><br /><strong>100% Provision für dich!<br />Der Preis beträgt 4,95€, die komplett dir gehören! </strong>Weiters mit 50% beteiligt an Add-On, Up- und Downsell.<br />+ 15% Lifetime Provision<br />Über 115€ im Funnel für dich möglich!<br /><br />Der Funnel wird ständig angepasst und erweitert.<br /><br />Viel Erfolg und fette Beute!</p>
+**Vendor's marketplace description:** Das E-Book "Verkaufspsychologie & Copywriting - So überzeugst du deine Zielgruppe" Die Kraft der Emotionen im Verkaufsprozess. Entdecke die Magie der Worte: Beherrsche Wortkunst und Verkaufspsychologie! Prima Gelegenheit, um seine Provisionen aufzupeppen! Dieses E-Book funktioniert für Affiliate Anfänger und Fortgeschrittene. Perfektes Produkt für "jeden", der mit seinem online Business / Social-Media-Marketing starten oder weiterkommen will und nach wertvollen Tipps sucht. Du hast mit diesem E-Book einen Top-Ratgeber für deine Community und wirst am kompletten Sales-Funnel beteiligt! Hohe Conversion, da es aktuelle Themen behandelt. 100% Provision für dich! Der Preis beträgt 4,95€, die komplett dir gehören! Weiters mit 50% beteiligt an Add-On, Up- und Downsell. + 15% Lifetime Provision Über 115€ im Funnel für dich möglich! Der Funnel wird ständig angepasst und erweitert. Viel Erfolg und fette Beute!
 
 ## 2. Links
 

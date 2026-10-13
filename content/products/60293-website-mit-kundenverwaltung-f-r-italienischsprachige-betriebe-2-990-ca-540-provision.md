@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Website mit bis zu 12 Seiten plus Verwaltung für Anfragen, Kunden, Angebote und Termine. Jede Anfrage über die Website wird automatisch zur Kundenkarte, Bewertungsanfragen gehen automatisch raus.</p><p><strong>Für wen:</strong> Betriebe mit vielen Anfragen, die zwischen Telefon, WhatsApp und Notizzetteln verloren gehen.</p><p><strong>Deine Provision:</strong> 20 % pro Verkauf, ca. 540 € bei 2.990 € netto. Einmalzahlung, kein Abo.</p><p><strong>Wichtig:</strong> Verkaufsseite, Gespräche und Umsetzung sind auf Italienisch. Ideal, wenn du italienischsprachige Selbstständige in Italien, Deutschland oder der Schweiz erreichst.</p><p><strong>So läuft es:</strong> Nach der Bestellung meldet sich unser Team beim Kunden, bespricht alles per Videocall und setzt das Projekt komplett um. Du bringst den Kontakt, wir machen den Rest.</p>
+**Vendor's marketplace description:** Website mit bis zu 12 Seiten plus Verwaltung für Anfragen, Kunden, Angebote und Termine. Jede Anfrage über die Website wird automatisch zur Kundenkarte, Bewertungsanfragen gehen automatisch raus. Für wen: Betriebe mit vielen Anfragen, die zwischen Telefon, WhatsApp und Notizzetteln verloren gehen. Deine Provision: 20 % pro Verkauf, ca. 540 € bei 2.990 € netto. Einmalzahlung, kein Abo. Wichtig: Verkaufsseite, Gespräche und Umsetzung sind auf Italienisch. Ideal, wenn du italienischsprachige Selbstständige in Italien, Deutschland oder der Schweiz erreichst. So läuft es: Nach der Bestellung meldet sich unser Team beim Kunden, bespricht alles per Videocall und setzt das Projekt komplett um. Du bringst den Kontakt, wir machen den Rest.
 
 ## 2. Links
 

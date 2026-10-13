@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehlen Sie das einzigartige 3D-Druck Profi-Wissen Softcover Buch. Verfasst von B.Eng. Johannes Lutz und Prof. Dr. Matthias Haag.</p>
-<p>Ihre Vorteile:</p>
-<ul><li>Das einzigste Buch zum Thema 3D-Druck auf Digistore24</li>
-<li>Provision für den Verkauf des Buches</li>
-<li>Die Verkaufswebsite wird ständig durch Splittests optimiert</li>
-<li>Provision für den anschließenden Upsell (Video Online Kurs)</li>
-</ul><div>Bitte schreiben Sie mich an, wenn Sie das Buch bewerben wollen. Ich stelle gerne Verkaufstexte und Bilder zur Verfügung.</div>
-<div> </div>
-<p> </p>
+**Vendor's marketplace description:** Empfehlen Sie das einzigartige 3D-Druck Profi-Wissen Softcover Buch. Verfasst von B.Eng. Johannes Lutz und Prof. Dr. Matthias Haag. Ihre Vorteile: Das einzigste Buch zum Thema 3D-Druck auf Digistore24 Provision für den Verkauf des Buches Die Verkaufswebsite wird ständig durch Splittests optimiert Provision für den anschließenden Upsell (Video Online Kurs) Bitte schreiben Sie mich an, wenn Sie das Buch bewerben wollen. Ich stelle gerne Verkaufstexte und Bilder zur Verfügung.
 
 ## 2. Links
 

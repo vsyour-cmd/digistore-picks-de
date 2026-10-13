@@ -41,33 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Starte mit Europas Moneycoach Nr. 1 durch:<br /><span style="text-decoration:underline;"><strong>Bodo Schäfer verschenkt sein Bestseller-Buch:</strong></span></p>
-<h2><strong>„Der Weg zur finanziellen Freiheit – Ihre erste Million in 7 Jahren“</strong>.</h2>
-<p>Als Affiliate sicherst du dir <strong>5 € netto Provision für jedes verschenkte Buch</strong> – ganz ohne Risiko!</p>
-<p>Doch das ist erst der Anfang:<br />Zusätzlich erhältst du <strong>80 % Provision</strong> auf zwei hochattraktive Upsells:</p>
-<ol>
-<li>
-<p><strong>Turbo-Paket „Der Weg zur finanziellen Freiheit“ VKP: 47€</strong></p>
-</li>
-<li>
-<p><strong>Online-Live Seminar: Aufbruch VKP: 197€</strong><br /><br /></p>
-</li>
-</ol>
-<p><span style="text-decoration:underline;"><strong>Deine Vorteile als Affiliate:</strong></span></p>
-<ul>
-<li>
-<p>Extrem starke Conversion durch Bodo Schäfers Marke und Vertrauensbonus</p>
-</li>
-<li>
-<p>Einfacher Einstieg: Du bewirbst ein <strong>kostenloses Buch</strong>, das sich wie von selbst verkauft</p>
-</li>
-<li>
-<p><strong>Planbare Einnahmen</strong>: 5 € pro Buch + satte Upsell-Provisionen</p>
-</li>
-<li>
-<p>Professionelle Werbemittel &amp; Vorlagen stehen bereit</p>
-</li>
-</ul>
+**Vendor's marketplace description:** Starte mit Europas Moneycoach Nr. 1 durch: Bodo Schäfer verschenkt sein Bestseller-Buch: „Der Weg zur finanziellen Freiheit – Ihre erste Million in 7 Jahren“ . Als Affiliate sicherst du dir 5 € netto Provision für jedes verschenkte Buch – ganz ohne Risiko! Doch das ist erst der Anfang: Zusätzlich erhältst du 80 % Provision auf zwei hochattraktive Upsells: Turbo-Paket „Der Weg zur finanziellen Freiheit“ VKP: 47€ Online-Live Seminar: Aufbruch VKP: 197€ Deine Vorteile als Affiliate: Extrem starke Conversion durch Bodo Schäfers Marke und Vertrauensbonus Einfacher Einstieg: Du bewirbst ein kostenloses Buch , das sich wie von selbst verkauft Planbare Einnahmen : 5 € pro Buch + satte Upsell-Provisionen Professionelle Werbemittel & Vorlagen stehen bereit
 
 ## 2. Links
 

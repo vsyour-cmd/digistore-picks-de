@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Rechenreise Band 4 ist ein digitales, druckbares Rechen-Malbuch für Eltern von Kindern in der 4. Klasse sowie für Vorschulkinder mit ersten Rechenerfahrungen. 160 A4-Seiten verbinden altersgerechte Rechenübungen mit Ausmalbildern und zusätzlichem Training. Die PDF wird nach dem Kauf sofort bereitgestellt; es wird kein gedrucktes Buch versendet.<br /><br />Das Produkt bietet Affiliates eine klar definierte deutschsprachige Zielgruppe und visuell gut darstellbare Inhalte für Eltern-, Familien-, Lern- und Schulstart-Content.<br /><br />Verkaufspreis: 27,00€<br />Affiliate-Provision: 50,0%je erfolgreich vermitteltem Verkauf<br />Einmalzahlung ohne Abonnement</p>
-<p>Beispielbilder für Band 1: <a title="Band 1" href="https://www.directupload.eu/album/543291/r5Yt9r4QGq/" target="_blank" rel="noreferrer noopener">https://www.directupload.eu/album/543291/r5Yt9r4QGq/</a></p>
-<p>Band 2:</p>
-<p><a title="Band 2" href="https://www.directupload.eu/album/543292/K2BUf2KSZQ/" target="_blank" rel="noreferrer noopener">https://www.directupload.eu/album/543292/K2BUf2KSZQ/</a></p>
-<p> </p>
-<p>Band3:</p>
-<p><a title="Band 3" href="https://www.directupload.eu/album/543294/CRx52nqdVY/" target="_blank" rel="noreferrer noopener">https://www.directupload.eu/album/543294/CRx52nqdVY/</a></p>
-<p>Band4:</p>
-<p><a title="Band 4" href="https://www.directupload.eu/album/543295/cTDmcmK8mc/" target="_blank" rel="noreferrer noopener">https://www.directupload.eu/album/543294/CRx52nqdVY/</a></p>
-<p><br /><br />Band 1, Band 2 und Band 3 können ebenfalls beworben werden. Produktbilder, Beispielseiten und fertige Werbetexte werden im Werbemittelbereich bereitgestellt.<br /><br />Die Käuferlizenz gilt ausschließlich für den privaten Haushalt. Eine Weitergabe sowie die Nutzung in Schulen, Kursen oder anderen Einrichtungen ist nicht gestattet.</p>
+**Vendor's marketplace description:** Rechenreise Band 4 ist ein digitales, druckbares Rechen-Malbuch für Eltern von Kindern in der 4. Klasse sowie für Vorschulkinder mit ersten Rechenerfahrungen. 160 A4-Seiten verbinden altersgerechte Rechenübungen mit Ausmalbildern und zusätzlichem Training. Die PDF wird nach dem Kauf sofort bereitgestellt; es wird kein gedrucktes Buch versendet. Das Produkt bietet Affiliates eine klar definierte deutschsprachige Zielgruppe und visuell gut darstellbare Inhalte für Eltern-, Familien-, Lern- und Schulstart-Content. Verkaufspreis: 27,00€ Affiliate-Provision: 50,0%je erfolgreich vermitteltem Verkauf Einmalzahlung ohne Abonnement Beispielbilder für Band 1: https://www.directupload.eu/album/543291/r5Yt9r4QGq/ Band 2: https://www.directupload.eu/album/543292/K2BUf2KSZQ/ Band3: https://www.directupload.eu/album/543294/CRx52nqdVY/ Band4: https://www.directupload.eu/album/543294/CRx52nqdVY/ Band 1, Band 2 und Band 3 können ebenfalls beworben werden. Produktbilder, Beispielseiten und fertige Werbetexte werden im Werbemittelbereich bereitgestellt. Die Käuferlizenz gilt ausschließlich für den privaten Haushalt. Eine Weitergabe sowie die Nutzung in Schulen, Kursen oder anderen Einrichtungen ist nicht gestattet.
 
 ## 2. Links
 

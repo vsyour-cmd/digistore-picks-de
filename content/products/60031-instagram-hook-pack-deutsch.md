@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Format: </strong>PDF download</p>
-<p><strong>Inhalt:</strong></p>
-<p>120 Instagram Hooks für Reels, Posts &amp; Stories für folgende Themen:<br />➡️ Viralität &amp; Neugier<br />➡️ Geschäft &amp; Marketing<br />➡️ Reels<br />➡️ Persönliche Marke<br />➡️ AI &amp; Zukunft<br />➡️ Engagement<br />➡️ Sales &amp; Konvertierung</p>
-<p>✅ 10 Bonus Material</p>
+**Vendor's marketplace description:** Format: PDF download Inhalt: 120 Instagram Hooks für Reels, Posts & Stories für folgende Themen: ➡️ Viralität & Neugier ➡️ Geschäft & Marketing ➡️ Reels ➡️ Persönliche Marke ➡️ AI & Zukunft ➡️ Engagement ➡️ Sales & Konvertierung ✅ 10 Bonus Material
 
 ## 2. Links
 

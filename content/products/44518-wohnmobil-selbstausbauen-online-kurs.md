@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>WomoSelbstAusbauen.com</p>
-<p>Empfehle diesen hochwertigen online Kurs, mit dem dein Publikum sich ein Traum-Wohnmobil selbst ausbauen kann.</p>
-<p>33% Provision, geringe Stornoquote, super zufriedene Kunden.</p>
-<p>Der Kunde kann sich gratis in den Schnupperkurs eintragen und wird direkt beim Eintrag Deinem Affiliatekürzel zugeordnet.</p>
-<p>Danach wird er per eMail nachverfolgt und zum Kauf geleitet.</p>
+**Vendor's marketplace description:** WomoSelbstAusbauen.com Empfehle diesen hochwertigen online Kurs, mit dem dein Publikum sich ein Traum-Wohnmobil selbst ausbauen kann. 33% Provision, geringe Stornoquote, super zufriedene Kunden. Der Kunde kann sich gratis in den Schnupperkurs eintragen und wird direkt beim Eintrag Deinem Affiliatekürzel zugeordnet. Danach wird er per eMail nachverfolgt und zum Kauf geleitet.
 
 ## 2. Links
 

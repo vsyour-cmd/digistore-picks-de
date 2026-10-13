@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Eine wahre Geschichte, die niemanden kalt lässt: Zwei Menschen, ein Blick, der die Zeit einfrieren lässt – und eine Verbindung, die Jahre übersteht, durch Nähe und Rückzug, Hoffnung und Schmerz, bis zu einem Ende, das absichtlich nicht verraten wird.</p>
-<p>Kein klassischer Liebesroman von der Stange – eine echte, ungeschönte Geschichte, in der sich fast jeder Leser selbst wiedererkennt: in dem Menschen, den er nie ganz loslassen konnte. Genau diese Identifikation macht das Produkt so stark: hohe emotionale Bindung, hohe Weiterempfehlungsrate, ideal für die Zielgruppen Beziehung, Liebeskummer, Persönlichkeitsentwicklung, Spiritualität und Selbstliebe.</p>
-<p><strong>Zielgruppe:</strong> Frauen und Männer zwischen 20 und 45, die eine intensive, nicht wiederholbare Verbindung erlebt haben oder gerade mitten in einer solchen stecken – Fans von emotionaler True-Story-Literatur und Themen wie Dualseelen, Hochsensibilität und Loslassen.</p>
+**Vendor's marketplace description:** Eine wahre Geschichte, die niemanden kalt lässt: Zwei Menschen, ein Blick, der die Zeit einfrieren lässt – und eine Verbindung, die Jahre übersteht, durch Nähe und Rückzug, Hoffnung und Schmerz, bis zu einem Ende, das absichtlich nicht verraten wird. Kein klassischer Liebesroman von der Stange – eine echte, ungeschönte Geschichte, in der sich fast jeder Leser selbst wiedererkennt: in dem Menschen, den er nie ganz loslassen konnte. Genau diese Identifikation macht das Produkt so stark: hohe emotionale Bindung, hohe Weiterempfehlungsrate, ideal für die Zielgruppen Beziehung, Liebeskummer, Persönlichkeitsentwicklung, Spiritualität und Selbstliebe. Zielgruppe: Frauen und Männer zwischen 20 und 45, die eine intensive, nicht wiederholbare Verbindung erlebt haben oder gerade mitten in einer solchen stecken – Fans von emotionaler True-Story-Literatur und Themen wie Dualseelen, Hochsensibilität und Loslassen.
 
 ## 2. Links
 

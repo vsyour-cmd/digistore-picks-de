@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Patron - WordPress Plugin</h1>
-<p>Mit diesem WordPress Plugin werden externe Ressourcen auf dem eigenen Webspace zwischengespeichert, regelmäßig im Hintergrund aktualisiert und von dem eigenen Webspace in die WordPress Seite eingebunden.</p>
-<p><strong>Folgende Inhalte werden in in der aktuellen Version zwischengespeichert und/oder deaktiviert:</strong></p>
-<ul><li>Einige interne &amp; externe CSS-Dateien, z.B. Google Fonts ✓</li>
-<li>jQuery ✓</li>
-<li>Gravar-User Bilder ✓</li>
-<li>DNS Prefetch wird entfernt ✓</li>
-<li>Emoji Datenbank deaktiviert ✓</li>
-<li>IP-Adresse bei Kommentaren gekürzt ✓</li>
-<li>YouTube-Videos ✓</li>
-</ul><p>Die IP-Adresse gehört aktuell zu den personenbezogenen Daten.</p>
-<p>Mehr zum Plugin unter: <a>https://wpliftup.de/</a></p>
+**Vendor's marketplace description:** Patron - WordPress Plugin Mit diesem WordPress Plugin werden externe Ressourcen auf dem eigenen Webspace zwischengespeichert, regelmäßig im Hintergrund aktualisiert und von dem eigenen Webspace in die WordPress Seite eingebunden. Folgende Inhalte werden in in der aktuellen Version zwischengespeichert und/oder deaktiviert: Einige interne & externe CSS-Dateien, z.B. Google Fonts ✓ jQuery ✓ Gravar-User Bilder ✓ DNS Prefetch wird entfernt ✓ Emoji Datenbank deaktiviert ✓ IP-Adresse bei Kommentaren gekürzt ✓ YouTube-Videos ✓ Die IP-Adresse gehört aktuell zu den personenbezogenen Daten. Mehr zum Plugin unter: https://wpliftup.de/
 
 ## 2. Links
 

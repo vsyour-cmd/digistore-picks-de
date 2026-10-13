@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Zuckersucht durchbrechen"</strong></p>
-<p>Ständig Lust auf Süßes? Dieses 30-Tage-Clean-Eating-Programm hilft dir mit klaren Schritten, versteckten Zucker zu erkennen, vollwertig zu essen und neue Routinen aufzubauen – ohne Hungern und ohne Verbote-Stress.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe: Sucht &amp; Entzug / Selbsthilfe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Versteckten Zucker auf Etiketten erkennen</li>
-<li>Nach dem Clean-Eating-Prinzip vollwertig essen</li>
-<li>Sanft starten – ohne Hungern, ohne Verbote-Stress</li>
-<li>Mit einfachen Rezepten neue Routinen aufbauen</li>
-<li>Nach 30 Tagen zuckerbewusst bleiben</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Menschen, die eine Sucht oder schlechte Gewohnheit überwinden wollen – Gesundheits- &amp; Persönlichkeitsentwicklungs-Zielgruppe</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Zuckersucht durchbrechen" Ständig Lust auf Süßes? Dieses 30-Tage-Clean-Eating-Programm hilft dir mit klaren Schritten, versteckten Zucker zu erkennen, vollwertig zu essen und neue Routinen aufzubauen – ohne Hungern und ohne Verbote-Stress. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe: Sucht & Entzug / Selbsthilfe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Versteckten Zucker auf Etiketten erkennen Nach dem Clean-Eating-Prinzip vollwertig essen Sanft starten – ohne Hungern, ohne Verbote-Stress Mit einfachen Rezepten neue Routinen aufbauen Nach 30 Tagen zuckerbewusst bleiben Für deine Zielgruppe: Menschen, die eine Sucht oder schlechte Gewohnheit überwinden wollen – Gesundheits- & Persönlichkeitsentwicklungs-Zielgruppe Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

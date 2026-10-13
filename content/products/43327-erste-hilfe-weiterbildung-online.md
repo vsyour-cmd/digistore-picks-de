@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ich Biete eine Erste Hilfe Präsentation online zum Download an, Der Kunde erhält die Präsentation, bei Bedarf ein persönliches Gespräch per Video und ein Zertifikat.</p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Ich Biete eine Erste Hilfe Präsentation online zum Download an, Der Kunde erhält die Präsentation, bei Bedarf ein persönliches Gespräch per Video und ein Zertifikat.
 
 ## 2. Links
 

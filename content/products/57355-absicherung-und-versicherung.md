@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du zahlst jeden Monat für Versicherungen – aber weißt du wirklich ob dein Schutz ausreichend ist?</p>
-<p>Die meisten Menschen in Deutschland sind entweder massiv überversichert und zahlen für Produkte die kaum Mehrwert bieten – oder sie haben kritische Lücken in ihrem Schutz die im Ernstfall existenzbedrohend werden können.</p>
-<p>Dieses E-Book räumt auf.</p>
-<hr />
-<p><strong>Was du in diesem E-Book lernst:</strong></p>
-<p>✅ Welche Versicherungen du wirklich brauchst – und welche nicht<br />✅ Die Pflichtversicherungen die jeder haben muss<br />✅ Warum die private Haftpflicht die wichtigste und günstigste Versicherung ist<br />✅ Berufsunfähigkeit – warum jeder vierte Deutsche betroffen ist<br />✅ Risikolebensversicherung – wann sie unverzichtbar ist<br />✅ Welche Versicherungen du sofort kündigen kannst<br />✅ Die 5 häufigsten Fehler beim Versicherungsschutz<br />✅ Deine persönliche Versicherungs-Checkliste zum Abhaken</p>
-<hr />
-<p><strong>Für wen ist dieses E-Book?</strong></p>
-<p>→ Alle die nicht wissen ob ihr Versicherungsschutz ausreichend ist<br />→ Menschen die zu viel für Versicherungen zahlen und sparen wollen<br />→ Familien die ihre Liebsten optimal absichern möchten<br />→ Alle die endlich Klarheit über ihre Absicherung wollen</p>
-<hr />
-<p><strong>Über den Autor:</strong></p>
-<p>Marco Bürgel ist Finanz- &amp; Vermögensberater bei Generali mit Sitz in Deutschland. Er berät Privatpersonen, Unternehmer und Familien dabei, ihren Versicherungsschutz optimal aufzustellen – ohne unnötige Kosten und ohne kritische Lücken.</p>
+**Vendor's marketplace description:** Du zahlst jeden Monat für Versicherungen – aber weißt du wirklich ob dein Schutz ausreichend ist? Die meisten Menschen in Deutschland sind entweder massiv überversichert und zahlen für Produkte die kaum Mehrwert bieten – oder sie haben kritische Lücken in ihrem Schutz die im Ernstfall existenzbedrohend werden können. Dieses E-Book räumt auf. Was du in diesem E-Book lernst: ✅ Welche Versicherungen du wirklich brauchst – und welche nicht ✅ Die Pflichtversicherungen die jeder haben muss ✅ Warum die private Haftpflicht die wichtigste und günstigste Versicherung ist ✅ Berufsunfähigkeit – warum jeder vierte Deutsche betroffen ist ✅ Risikolebensversicherung – wann sie unverzichtbar ist ✅ Welche Versicherungen du sofort kündigen kannst ✅ Die 5 häufigsten Fehler beim Versicherungsschutz ✅ Deine persönliche Versicherungs-Checkliste zum Abhaken Für wen ist dieses E-Book? → Alle die nicht wissen ob ihr Versicherungsschutz ausreichend ist → Menschen die zu viel für Versicherungen zahlen und sparen wollen → Familien die ihre Liebsten optimal absichern möchten → Alle die endlich Klarheit über ihre Absicherung wollen Über den Autor: Marco Bürgel ist Finanz- & Vermögensberater bei Generali mit Sitz in Deutschland. Er berät Privatpersonen, Unternehmer und Familien dabei, ihren Versicherungsschutz optimal aufzustellen – ohne unnötige Kosten und ohne kritische Lücken.
 
 ## 2. Links
 

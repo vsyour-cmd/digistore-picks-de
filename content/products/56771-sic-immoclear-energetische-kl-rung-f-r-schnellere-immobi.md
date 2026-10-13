@@ -41,75 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>ImmoClear – Energetische Klärung für schnellere Immobilienverkäufe</h2>
-<h3>Warum verkaufen sich manche Immobilien nicht – obwohl Preis, Exposé und Vermarktung stimmen?</h3>
-<p>Viele Immobilien bleiben monatelang am Markt.</p>
-<p>Besichtigungen finden statt.</p>
-<p>Interessenten zeigen Interesse.</p>
-<p>Doch der Verkauf kommt nicht zustande.</p>
-<p>Klassische Verkaufsstrategien konzentrieren sich auf Preis, Präsentation und Vermarktung.</p>
-<p>ImmoClear betrachtet eine zusätzliche Ebene:</p>
-<p><strong>Energetische und systemische Blockaden, die Verkaufsprozesse unbewusst beeinflussen können.</strong></p>
-<p>Der Kurs vermittelt die Grundlagen der energetischen Immobilienklärung und zeigt, wie typische Störfelder erkannt, analysiert und strukturiert bearbeitet werden können.</p>
-<hr />
-<h2>Das lernen die Teilnehmer/innen</h2>
-<p>✓ Energetische Verkaufsblockaden erkennen</p>
-<p>✓ Typische Störfelder identifizieren</p>
-<p>✓ Bindungen von Vorbesitzern verstehen</p>
-<p>✓ Familiäre und erbschaftliche Belastungen einordnen</p>
-<p>✓ Verkaufsstagnationen systematisch analysieren</p>
-<p>✓ Energetische Klärungsprozesse vorbereiten</p>
-<p>✓ Veränderungen dokumentieren</p>
-<p>✓ Die ImmoClear-Methode in der Praxis anwenden</p>
-<hr />
-<h2>Für wen ist dieser Kurs geeignet?</h2>
-<ul>
-<li>
-<p>Immobilienmakler/innen</p>
-</li>
-<li>
-<p>Immobilienverkäufer/innen</p>
-</li>
-<li>
-<p>Immobilieninvestoren/innen</p>
-</li>
-<li>
-<p>Immobilienberater/innen</p>
-</li>
-<li>
-<p>Eigentümer/innen schwer verkäuflicher Immobilien</p>
-</li>
-<li>
-<p>Menschen mit Interesse an energetischen und systemischen Zusammenhängen</p>
-</li>
-</ul>
-<hr />
-<h2>Kursinhalte</h2>
-<h3>Grundlagen energetischer Blockaden</h3>
-<p>Welche Belastungen auf Immobilien wirken können und wie diese Verkaufsprozesse beeinflussen.</p>
-<h3>Ursachenanalyse und Diagnose</h3>
-<p>Typische Hinweise erkennen und systematisch bewerten.</p>
-<h3>Energetische Klärung</h3>
-<p>Grundlagen zur Bearbeitung energetischer Belastungen und Blockaden.</p>
-<h3>ImmoClearing Schritt für Schritt</h3>
-<p>Der strukturierte Ablauf einer Immobilienklärung.</p>
-<h3>Kommunikation mit Eigentümern</h3>
-<p>Veränderungsbedarf verständlich vermitteln.</p>
-<h3>Erfolgskontrolle</h3>
-<p>Veränderungen erkennen und dokumentieren.</p>
-<h3>Praxisbeispiele</h3>
-<p>Analyse realer Verkaufssituationen und Fallbeispiele.</p>
-<hr />
-<h2>Ihr Nutzen</h2>
-<p>Viele Immobilienprobleme werden ausschließlich über Preis, Markt oder Marketing erklärt.</p>
-<p>ImmoClear erweitert den Blickwinkel um eine zusätzliche Ebene und vermittelt einen strukturierten Ansatz zur Analyse energetischer Verkaufsblockaden.</p>
-<p>Der Kurs bietet einen fundierten Einstieg in die energetische Immobilienklärung und deren Anwendung im Immobilienbereich.</p>
-<hr />
-<h2>Dozentin</h2>
-<p><strong>Claudia Gorbach</strong><br />Systemisches Immo-Clearing</p>
-<hr />
-<h3>Hinweis</h3>
-<p>Dieser Kurs dient der Wissensvermittlung. Er ersetzt keine Rechts-, Steuer-, Finanz-, Immobilien- oder Unternehmensberatung und beinhaltet keine individuelle Fallbearbeitung.</p>
+**Vendor's marketplace description:** ImmoClear – Energetische Klärung für schnellere Immobilienverkäufe Warum verkaufen sich manche Immobilien nicht – obwohl Preis, Exposé und Vermarktung stimmen? Viele Immobilien bleiben monatelang am Markt. Besichtigungen finden statt. Interessenten zeigen Interesse. Doch der Verkauf kommt nicht zustande. Klassische Verkaufsstrategien konzentrieren sich auf Preis, Präsentation und Vermarktung. ImmoClear betrachtet eine zusätzliche Ebene: Energetische und systemische Blockaden, die Verkaufsprozesse unbewusst beeinflussen können. Der Kurs vermittelt die Grundlagen der energetischen Immobilienklärung und zeigt, wie typische Störfelder erkannt, analysiert und strukturiert bearbeitet werden können. Das lernen die Teilnehmer/innen ✓ Energetische Verkaufsblockaden erkennen ✓ Typische Störfelder identifizieren ✓ Bindungen von Vorbesitzern verstehen ✓ Familiäre und erbschaftliche Belastungen einordnen ✓ Verkaufsstagnationen systematisch analysieren ✓ Energetische Klärungsprozesse vorbereiten ✓ Veränderungen dokumentieren ✓ Die ImmoClear-Methode in der Praxis anwenden Für wen ist dieser Kurs geeignet? Immobilienmakler/innen Immobilienverkäufer/innen Immobilieninvestoren/innen Immobilienberater/innen Eigentümer/innen schwer verkäuflicher Immobilien Menschen mit Interesse an energetischen und systemischen Zusammenhängen Kursinhalte Grundlagen energetischer Blockaden Welche Belastungen auf Immobilien wirken können und wie diese Verkaufsprozesse beeinflussen. Ursachenanalyse und Diagnose Typische Hinweise erkennen und systematisch bewerten. Energetische Klärung Grundlagen zur Bearbeitung energetischer Belastungen und Blockaden. ImmoClearing Schritt für Schritt Der strukturierte Ablauf einer Immobilienklärung. Kommunikation mit Eigentümern Veränderungsbedarf verständlich vermitteln. Erfolgskontrolle Veränderungen erkennen und dokumentieren. Praxisbeispiele Analyse realer Verkaufssituationen und Fallbeispiele. Ihr Nutzen Viele Immobilienprobleme werden ausschließlich über Preis, Markt oder Marketing erklärt. ImmoClear erweitert den Blickwinkel um eine zusätzliche Ebene und vermittelt einen strukturierten Ansatz zur Analyse energetischer Verkaufsblockaden. Der Kurs bietet einen fundierten Einstieg in die energetische Immobilienklärung und deren Anwendung im Immobilienbereich. Dozentin Claudia Gorbach Systemisches Immo-Clearing Hinweis Dieser Kurs dient der Wissensvermittlung. Er ersetzt keine Rechts-, Steuer-, Finanz-, Immobilien- oder Unternehmensberatung und beinhaltet keine individuelle Fallbearbeitung.
 
 ## 2. Links
 

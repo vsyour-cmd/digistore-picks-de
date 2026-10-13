@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Erstelle realistische Talking-Head-Videos mit deinem eigenen KI-Avatar Zwilling ideal für Creator, Coaches und Marketer, die sichtbar sein wollen, ohne ständig vor der Kamera zu stehen.</p>
+**Vendor's marketplace description:** Erstelle realistische Talking-Head-Videos mit deinem eigenen KI-Avatar Zwilling ideal für Creator, Coaches und Marketer, die sichtbar sein wollen, ohne ständig vor der Kamera zu stehen.
 
 ## 2. Links
 

@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <ul>
-<li>Über 200 Seiten extrem guter Content</li>
-<li>Hochwertig als Buch produziert</li>
-<li>15 exklusive Kapitel mit essentiellen Strategien und Tipps für das Erreichen der eigenen Unabhängigkeit</li>
-<li>Mein persönlichstes Buch: Im ersten Teil des Buches beschreibe ich meinen eigenen Weg in ein selbstbestimmtes Leben</li>
-<li>Dein Schlachtplan: Im zweiten Teil des Buches gebe ich dem Leser Strategien an die Hand, die bei jedem Schritt Sicherheit und Orientierung geben, damit jeder aus seinem Leben ein Meisterwerk machen kann</li>
-<li>6 geniale Gastautoren teilen ihre wertvollsten Tipps zum Erreichen der eigenen Unabhängigkeit: Mit dabei sind Dr. Stefan Frädrich, Prof. Dr. Lothar Seiwert, Hermann Scherer, Valentina Dapunt, Prof. Dr. Oliver Pott und Philipp J. Müller</li>
-<li>Sehr geringe Stornoquote</li>
-</ul>
-<p><strong>Wir zahlen dir 5€ Provision für jede Bestellung!</strong></p>
-<p>Melde dich jetzt als Affiliate an und starte mit dem Promoten von meinem neuen Buch.</p>
-<p>Beste Grüße aus Köln <br />Dein Thomas Klußmann<br />- Gründer.de -</p>
+**Vendor's marketplace description:** Über 200 Seiten extrem guter Content Hochwertig als Buch produziert 15 exklusive Kapitel mit essentiellen Strategien und Tipps für das Erreichen der eigenen Unabhängigkeit Mein persönlichstes Buch: Im ersten Teil des Buches beschreibe ich meinen eigenen Weg in ein selbstbestimmtes Leben Dein Schlachtplan: Im zweiten Teil des Buches gebe ich dem Leser Strategien an die Hand, die bei jedem Schritt Sicherheit und Orientierung geben, damit jeder aus seinem Leben ein Meisterwerk machen kann 6 geniale Gastautoren teilen ihre wertvollsten Tipps zum Erreichen der eigenen Unabhängigkeit: Mit dabei sind Dr. Stefan Frädrich, Prof. Dr. Lothar Seiwert, Hermann Scherer, Valentina Dapunt, Prof. Dr. Oliver Pott und Philipp J. Müller Sehr geringe Stornoquote Wir zahlen dir 5€ Provision für jede Bestellung! Melde dich jetzt als Affiliate an und starte mit dem Promoten von meinem neuen Buch. Beste Grüße aus Köln Dein Thomas Klußmann - Gründer.de -
 
 ## 2. Links
 

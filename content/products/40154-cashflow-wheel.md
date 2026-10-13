@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewerbe das Cashflow Wheel. Für dich gibt es attraktive Provisionen und zwar 100% (3€)!! Anschließend gibt es noch ein Upsell wovon du 40% bekommst (40% von 37€ brutto).</p>
-<p>Funktioniert hervorragend. Weitere UpSells werden hinzukommen, wovon du ebenfalls profitieren kannst.</p>
-<h3>mit dem du dir einen attraktiven und wiederkehrenden Geldfluss aufbaust!</h3>
-<p>In diesem Kurs verrate ich dir...</p>
-<ul>
-<li>... wie du dir einen Cashflow aufbaust</li>
-<li>... wie du diesen so aufbaust, dass wöchentlich 1 - 2 Mal Zahlungen auf dein Konto fließen können</li>
-<li>... wie du dein Risiko minimieren kannst</li>
-<li>... wie du das Geld für dich arbeiten lässt</li>
-<li>... über 7 verschiedene Möglichkeiten dein Geld lukrativ anzulegen und es kommen weitere Möglichkeiten hinzu</li>
-<li>... wie du den Zinseszinseffekt für dich nutzt</li>
-<li>... wie du dir ein zweites Standbein durch passives Einkommen aufbaust</li>
-<li><strong>Bonus 1</strong>: Updates</li>
-<li><strong>Bonus 2</strong>: VIP Support</li>
-<li><strong>Bonus 3</strong>: Möglichkeit, wie du <strong>200 Euro geschenkt</strong> bekommst, einfach so!!</li>
-</ul>
-<p> </p>
-<p>Deine Fragen bekommst du natürlich immer stets beantwortet, neue Videos, neuen Content und vieles mehr! Und das zu diesem sensationellen Preis und <strong>inkl. VIP Support!</strong></p>
-<p>Am besten jetzt noch zugreifen! Du erhältst <strong>sofort</strong> Zugriff, auch wenn es 3 Uhr Nachts ist! Klicke einfach auf "Jetzt bezahlen" und sichere dir das sensationelle Angebot.</p>
+**Vendor's marketplace description:** Bewerbe das Cashflow Wheel. Für dich gibt es attraktive Provisionen und zwar 100% (3€)!! Anschließend gibt es noch ein Upsell wovon du 40% bekommst (40% von 37€ brutto). Funktioniert hervorragend. Weitere UpSells werden hinzukommen, wovon du ebenfalls profitieren kannst. mit dem du dir einen attraktiven und wiederkehrenden Geldfluss aufbaust! In diesem Kurs verrate ich dir... ... wie du dir einen Cashflow aufbaust ... wie du diesen so aufbaust, dass wöchentlich 1 - 2 Mal Zahlungen auf dein Konto fließen können ... wie du dein Risiko minimieren kannst ... wie du das Geld für dich arbeiten lässt ... über 7 verschiedene Möglichkeiten dein Geld lukrativ anzulegen und es kommen weitere Möglichkeiten hinzu ... wie du den Zinseszinseffekt für dich nutzt ... wie du dir ein zweites Standbein durch passives Einkommen aufbaust Bonus 1 : Updates Bonus 2 : VIP Support Bonus 3 : Möglichkeit, wie du 200 Euro geschenkt bekommst, einfach so!! Deine Fragen bekommst du natürlich immer stets beantwortet, neue Videos, neuen Content und vieles mehr! Und das zu diesem sensationellen Preis und inkl. VIP Support! Am besten jetzt noch zugreifen! Du erhältst sofort Zugriff, auch wenn es 3 Uhr Nachts ist! Klicke einfach auf "Jetzt bezahlen" und sichere dir das sensationelle Angebot.
 
 ## 2. Links
 

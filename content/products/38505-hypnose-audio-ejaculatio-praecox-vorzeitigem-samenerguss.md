@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>- 1 zu 1 wie in einer Hypnosesitzung</strong></p>
-<p><strong>​- Soforthilfe bei vorzeitigem Samenerguss</strong></p>
-<p><strong>- Wirkt bei allen Altersgruppen (Insbesondere bei jungen Männern 18-28)</strong></p>
-<p><strong>- Über 90% Weiterempfehlung (St. 17.02.21)</strong></p>
-<p>Damit du ganz anonym, von Zuhause aus, dein Problem behandeln kannst, habe ich eine spezielle Hypnose-Audio im Tonstudio aufzeichnen lassen. In dieser Hypnose-Audio wird mit sehr starken Suggestionen gearbeitet.</p>
-<p>Du kannst dir das wie einen "Anker" im Unterbewusstsein vorstellen.</p>
-<p>Diese werden gesetzt und gleichzeitig wirst du im laufe der Zeit, die Kontrolle über deine Ejakulation gewinnen.</p>
-<p>Bitte haben Sie jedoch Verständnis, dass ich Ihnen aus rechtlichen Gründen, keine Heilung versprechen darf.</p>
-<p>Wie effektiv ist Hypnose?</p>
-<p>Ergebnisse einer Vergleichsstudie des American Health Magazine:</p>
-<p>Psychoanalyse/Gesprächstherapie: 38% Besserung/Genesung nach 600 Stunden</p>
-<p>​Verhaltenstherapie: 72% Besserung/Genesung nach 22 Stunden</p>
-<p>​Hypnose: 92% Besserung/Genesung nach 6 Stunden </p>
+**Vendor's marketplace description:** - 1 zu 1 wie in einer Hypnosesitzung ​- Soforthilfe bei vorzeitigem Samenerguss - Wirkt bei allen Altersgruppen (Insbesondere bei jungen Männern 18-28) - Über 90% Weiterempfehlung (St. 17.02.21) Damit du ganz anonym, von Zuhause aus, dein Problem behandeln kannst, habe ich eine spezielle Hypnose-Audio im Tonstudio aufzeichnen lassen. In dieser Hypnose-Audio wird mit sehr starken Suggestionen gearbeitet. Du kannst dir das wie einen "Anker" im Unterbewusstsein vorstellen. Diese werden gesetzt und gleichzeitig wirst du im laufe der Zeit, die Kontrolle über deine Ejakulation gewinnen. Bitte haben Sie jedoch Verständnis, dass ich Ihnen aus rechtlichen Gründen, keine Heilung versprechen darf. Wie effektiv ist Hypnose? Ergebnisse einer Vergleichsstudie des American Health Magazine: Psychoanalyse/Gesprächstherapie: 38% Besserung/Genesung nach 600 Stunden ​Verhaltenstherapie: 72% Besserung/Genesung nach 22 Stunden ​Hypnose: 92% Besserung/Genesung nach 6 Stunden
 
 ## 2. Links
 

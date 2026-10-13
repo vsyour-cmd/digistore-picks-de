@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Produkteigenschaften:</h2>
-<p>• <span style="background-color:#ffff00;"><strong>32-teiliges umfassendes Online-Video-Seminar</strong></span> (17 Stunden in HD-Qualität)<br />• <span style="background-color:#ffff00;"><strong>Bonus-Packet:</strong></span><br />     <strong>Bonus 1:</strong> Diverse PDF-Skripte, Flipchart-Folien + Schaubilder<br />     <strong>Bonus 2:</strong> Zugriff auf sämtliche zukünftige Erweiterungen <br />• <strong>30-Tage-Geld-zurück-Garantie!</strong></p>
-<p> </p>
-<h2>Vorteile für den Anwender des Online-Seminars:</h2>
-<p><br />• Das Seminar ist ein vertiefendes Selbststudium für den beschleunigten individuellen Aufwach- und Bewusstseins-Befreiungsprozess aus der massenmedialen Hypnose</p>
-<p>• Das Seminar beinhaltet ein bis zur Gegenwart umfassend dokumentiertes Gesamtbild zum aktuellen Aufwach- und Befreiungsprozess der Menschheit aus der<br />satanischen Knechtschaft</p>
-<p>• DAS Anti-Viren-Programm gegen die heutige Lügen-MATRIX (=Gedanken-Virus)</p>
-<p>• Das Seminar gibt dir Orientierung, Durchblick und Klarheit in der heutigen manipulativen Übergangszeit und dadurch auch einen enormen Motivationsschub für dein eigenes Leben und deine eigene Zukunft</p>
-<p>• Das Seminar zeigt dir das besondere Privileg der heutigen Zeit auf und befreit gleichzeitig deinen Verstand von den Ängsten der Lügen-MATRIX</p>
-<p>• Das Seminar erklärt Dir im Detail den derzeit ablaufenden weltweiten Sturz der dunklen satanischen NWO-Agenda</p>
+**Vendor's marketplace description:** Produkteigenschaften: • 32-teiliges umfassendes Online-Video-Seminar (17 Stunden in HD-Qualität) • Bonus-Packet: Bonus 1: Diverse PDF-Skripte, Flipchart-Folien + Schaubilder Bonus 2: Zugriff auf sämtliche zukünftige Erweiterungen • 30-Tage-Geld-zurück-Garantie! Vorteile für den Anwender des Online-Seminars: • Das Seminar ist ein vertiefendes Selbststudium für den beschleunigten individuellen Aufwach- und Bewusstseins-Befreiungsprozess aus der massenmedialen Hypnose • Das Seminar beinhaltet ein bis zur Gegenwart umfassend dokumentiertes Gesamtbild zum aktuellen Aufwach- und Befreiungsprozess der Menschheit aus der satanischen Knechtschaft • DAS Anti-Viren-Programm gegen die heutige Lügen-MATRIX (=Gedanken-Virus) • Das Seminar gibt dir Orientierung, Durchblick und Klarheit in der heutigen manipulativen Übergangszeit und dadurch auch einen enormen Motivationsschub für dein eigenes Leben und deine eigene Zukunft • Das Seminar zeigt dir das besondere Privileg der heutigen Zeit auf und befreit gleichzeitig deinen Verstand von den Ängsten der Lügen-MATRIX • Das Seminar erklärt Dir im Detail den derzeit ablaufenden weltweiten Sturz der dunklen satanischen NWO-Agenda
 
 ## 2. Links
 

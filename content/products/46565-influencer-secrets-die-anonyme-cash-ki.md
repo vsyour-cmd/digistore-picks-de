@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong><em>Bewerbe den Bestseller Kurs: Die Influencer KI</em></strong></div>
-<div> </div>
-<div>
-<p><strong><em>✅  Eigene Instagram Kanäle mit KI Power erstellen</em></strong></p>
-<p><strong><em>✅ </em> Zum Viralen Inluencer dank KI werden</strong></p>
-<p><strong><em>✅  Komplett ANONYM bleiben !!!</em></strong></p>
-<p><strong><em>✅  </em>Als Bonus bekommt deine Communite den Zugang zu unserem Mitgliederbereich und dadurch noch mehr hocherwertigen Content (auch kostenfreier Content)...</strong></p>
-</div>
+**Vendor's marketplace description:** Bewerbe den Bestseller Kurs: Die Influencer KI ✅ Eigene Instagram Kanäle mit KI Power erstellen ✅ Zum Viralen Inluencer dank KI werden ✅ Komplett ANONYM bleiben !!! ✅ Als Bonus bekommt deine Communite den Zugang zu unserem Mitgliederbereich und dadurch noch mehr hocherwertigen Content (auch kostenfreier Content)...
 
 ## 2. Links
 

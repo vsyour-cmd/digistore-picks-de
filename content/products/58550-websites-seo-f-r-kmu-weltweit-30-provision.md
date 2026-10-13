@@ -41,49 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Für Affiliates mit Zugang zu Unternehmern: Hier verdienst du zweimal am selben Kunden.</strong></p>
-<p>Grodt WebSolutions (by Astraios AG, Schweiz) baut Websites für kleine und mittlere Unternehmen zum Fixpreis und betreut sie danach monatlich weiter. Hinter dem Angebot steht eine Schweizer Aktiengesellschaft, eingetragen im Handelsregister. Beraten und umgesetzt wird auf Deutsch, Englisch, Spanisch und Portugiesisch, dein Publikum muss also nicht deutschsprachig sein.</p>
-<p>Für dich heisst das: eine Einmalprovision auf das Website-Paket und eine laufende Provision auf Betreuung und SEO, solange der Kunde bleibt.</p>
-<p><strong>Was du verdienst (30 % auf alles)</strong></p>
-<p>Einmalig:</p>
-<ul>
-<li>WP ONE, CHF 995 → rund CHF 300</li>
-<li>WP THREE, CHF 1'495 → rund CHF 450 (Bestseller)</li>
-<li>WP TEN, CHF 1'995 → rund CHF 600</li>
-</ul>
-<p>Monatlich wiederkehrend, ohne Enddatum:</p>
-<ul>
-<li>Care S bis L, CHF 29 bis 119/Mt. → rund CHF 9 bis 36 pro Monat</li>
-<li>SEO S bis L, CHF 290 bis 990/Mt. → rund CHF 87 bis 297 pro Monat</li>
-</ul>
-<p>Ein einziger Kunde mit WP THREE und SEO M bringt dir im ersten Jahr rund CHF 2'570. Ab Monat 13 läuft die Provision weiter, ohne dass du etwas dafür tust.</p>
-<p><strong>Warum das verkauft</strong></p>
-<p>Kleine Unternehmen haben Budget, aber wenig Vertrauen in Agenturen: undurchsichtige Offerten, Stundensätze, Projekte über Monate. Genau da setzt das Angebot an.</p>
-<ul>
-<li><strong>Schweizer Aktiengesellschaft</strong>, im Handelsregister eingetragen. Kein anonymes Konto, sondern ein greifbares Unternehmen mit Sitz in der Schweiz.</li>
-<li>Die Umsetzung macht ein Schweizer persönlich, der Auftrag wird nicht weitergereicht.</li>
-<li>Fixpreis statt Offerte. Der Kunde weiss vor dem Klick, was er zahlt.</li>
-<li>Lieferung in 5 bis 15 Werktagen, nicht in Monaten.</li>
-<li>Ein persönlicher Ansprechpartner statt Ticketsystem.</li>
-<li>Beratung auf <strong>Deutsch, Englisch, Spanisch und Portugiesisch</strong>, Zusammenarbeit komplett online.</li>
-<li>Abos ohne Mindestlaufzeit und monatlich kündbar. Das senkt die Kaufhürde spürbar und hebt deine Conversion.</li>
-</ul>
-<p><strong>Für wen sich das lohnt</strong></p>
-<ul>
-<li>Webdesigner und Freelancer, die Anfragen ablehnen müssen oder keine laufende Betreuung anbieten wollen</li>
-<li>Berater, Steuerberater, Treuhänder und Marketing-Leute mit KMU-Kundschaft</li>
-<li>Betreiber von Portalen, Newslettern und Communities rund um Gründung, Selbstständigkeit und Gewerbe</li>
-<li>Netzwerker mit Kontakten zu Handwerk, Praxen, Gastronomie, Coaching und lokalen Dienstleistern</li>
-<li>Auswanderer- und Expat-Communities sowie alle mit Publikum in Spanien, Lateinamerika, Portugal oder Brasilien. Vier Sprachen heissen für dich: mehr Menschen, denen du das empfehlen kannst.</li>
-</ul>
-<p>Eine einzige Empfehlung an den richtigen Betrieb bringt mehr als hundert Klicks auf ein Billigprodukt.</p>
-<p><strong>Was du von mir bekommst</strong></p>
-<ul>
-<li><strong>Werbemittel nach Mass:</strong> Sag mir, was du für deinen Kanal brauchst. Banner in deinen Grössen, E-Mail-Texte, Social-Posts oder Bausteine für deine Landingpage. Ich erstelle es und stelle es dir bereit, statt dir ein Standardpaket hinzulegen, das zu deinem Publikum nicht passt.</li>
-<li>Direkter Draht zu mir statt Hotline</li>
-<li>Zuverlässige Abrechnung über Digistore24, weltweit</li>
-</ul>
-<p>Jetzt als Affiliate bewerben und den ersten Kunden empfehlen.</p>
+**Vendor's marketplace description:** Für Affiliates mit Zugang zu Unternehmern: Hier verdienst du zweimal am selben Kunden. Grodt WebSolutions (by Astraios AG, Schweiz) baut Websites für kleine und mittlere Unternehmen zum Fixpreis und betreut sie danach monatlich weiter. Hinter dem Angebot steht eine Schweizer Aktiengesellschaft, eingetragen im Handelsregister. Beraten und umgesetzt wird auf Deutsch, Englisch, Spanisch und Portugiesisch, dein Publikum muss also nicht deutschsprachig sein. Für dich heisst das: eine Einmalprovision auf das Website-Paket und eine laufende Provision auf Betreuung und SEO, solange der Kunde bleibt. Was du verdienst (30 % auf alles) Einmalig: WP ONE, CHF 995 → rund CHF 300 WP THREE, CHF 1'495 → rund CHF 450 (Bestseller) WP TEN, CHF 1'995 → rund CHF 600 Monatlich wiederkehrend, ohne Enddatum: Care S bis L, CHF 29 bis 119/Mt. → rund CHF 9 bis 36 pro Monat SEO S bis L, CHF 290 bis 990/Mt. → rund CHF 87 bis 297 pro Monat Ein einziger Kunde mit WP THREE und SEO M bringt dir im ersten Jahr rund CHF 2'570. Ab Monat 13 läuft die Provision weiter, ohne dass du etwas dafür tust. Warum das verkauft Kleine Unternehmen haben Budget, aber wenig Vertrauen in Agenturen: undurchsichtige Offerten, Stundensätze, Projekte über Monate. Genau da setzt das Angebot an. Schweizer Aktiengesellschaft , im Handelsregister eingetragen. Kein anonymes Konto, sondern ein greifbares Unternehmen mit Sitz in der Schweiz. Die Umsetzung macht ein Schweizer persönlich, der Auftrag wird nicht weitergereicht. Fixpreis statt Offerte. Der Kunde weiss vor dem Klick, was er zahlt. Lieferung in 5 bis 15 Werktagen, nicht in Monaten. Ein persönlicher Ansprechpartner statt Ticketsystem. Beratung auf Deutsch, Englisch, Spanisch und Portugiesisch , Zusammenarbeit komplett online. Abos ohne Mindestlaufzeit und monatlich kündbar. Das senkt die Kaufhürde spürbar und hebt deine Conversion. Für wen sich das lohnt Webdesigner und Freelancer, die Anfragen ablehnen müssen oder keine laufende Betreuung anbieten wollen Berater, Steuerberater, Treuhänder und Marketing-Leute mit KMU-Kundschaft Betreiber von Portalen, Newslettern und Communities rund um Gründung, Selbstständigkeit und Gewerbe Netzwerker mit Kontakten zu Handwerk, Praxen, Gastronomie, Coaching und lokalen Dienstleistern Auswanderer- und Expat-Communities sowie alle mit Publikum in Spanien, Lateinamerika, Portugal oder Brasilien. Vier Sprachen heissen für dich: mehr Menschen, denen du das empfehlen kannst. Eine einzige Empfehlung an den richtigen Betrieb bringt mehr als hundert Klicks auf ein Billigprodukt. Was du von mir bekommst Werbemittel nach Mass: Sag mir, was du für deinen Kanal brauchst. Banner in deinen Grössen, E-Mail-Texte, Social-Posts oder Bausteine für deine Landingpage. Ich erstelle es und stelle es dir bereit, statt dir ein Standardpaket hinzulegen, das zu deinem Publikum nicht passt. Direkter Draht zu mir statt Hotline Zuverlässige Abrechnung über Digistore24, weltweit Jetzt als Affiliate bewerben und den ersten Kunden empfehlen.
 
 ## 2. Links
 

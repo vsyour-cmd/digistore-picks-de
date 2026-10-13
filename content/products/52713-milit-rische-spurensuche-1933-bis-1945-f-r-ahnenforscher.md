@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hier ist ein weiteres Produkt aus meiner Reihe <em>Spickzettel für Ahnenforscher</em>: der Spickzettel <em>Militärische Spurensuche 1933 bis 1945</em></p>
-<p>Wie die große Zahl an Suchanfragen und Seitenzugriffen dazu zeigt:</p>
-<p>Ein Thema, das viele Ahnenforscher bewegt, sind Fragen wie: <strong><em>Wie finde ich raus was mein Opa im 2. Weltkrieg gemacht hat? War mein Vater oder Großvater in der Wehrmacht?</em></strong></p>
-<p>Es bewegt emotional, weckt aber auch Forscherinteresse, da oftmals Umstände im Unklaren geblieben sind, und Angehörige über die Zeit schwiegen.<br /><br />Weil auch mich das Thema sehr interessiert, habe ich mich schon vor einigen Jahren auf die Suche begeben. Schnell mußte ich aber feststellen, daß das ein <strong>sehr komplexes Thema und für Einsteiger schwer zu überblicken ist</strong>.<br /><br />Daher habe ich meine Erfahrungen, mein Vorgehen und meine Ergebnisse jetzt einmal sortiert und in ein neues Angebot gegossen, das Ahnenforschern den Einstieg in die Militärrecherche in der NS-Zeit erleichtern soll.</p>
-<p> </p>
-<p><strong>Was Ahnenforscher bei diesem Spickzettel erwartet</strong></p>
-<p>* wie sie Schritt für Schritt die militärische Laufbahn eines Angehörigen zwischen 1933 und 1945 recherchieren können</p>
-<p>* welche militärischen Strukturen und Truppenteile im Dritten Reich existierten – und insbesondere wie die Wehrmacht aufgebaut war</p>
-<p>* welche Arten von Unterlagen (z.B. Wehrpass, Soldbuch, Kriegsstammrolle) es gab – und welche Informationen sie bieten können</p>
-<p>* wie das Bundesarchiv helfen kann, Informationen zum militärischen Werdegang von Angehörigen zu finden</p>
-<p>* welche weiteren Anlaufstellen, Onlineportale und Institutionen Interessierte bei der militärischen Ahnenforschung unterstützen können</p>
-<p>* wie man Anfragen an das Bundesarchiv und andere Stellen erfolgreich stellt</p>
-<p> </p>
-<p><strong>Was der Käufer mit diesem Spickzettel bekommt</strong></p>
-<p><strong>* eine schön gestaltete Datei im PDF-Format</strong> zum Lesen am Bildschirm oder zum Ausdrucken</p>
-<p>* 12 Seiten <strong>geballtes Wissen für Einsteiger</strong></p>
-<p>* eine Übersicht über die Gliederung und Organisation der Wehrmacht</p>
-<p>* eine tabellarische <strong>Übersicht der verschiedenen Typen von militärischen Unterlagen</strong></p>
-<p>* verschiedene <strong>Anlaufstellen für die Recherche im Kurzporträt</strong></p>
-<p><strong>* eine Schritt-für-Schritt-Anleitung für die erfolgreiche Recherche</strong></p>
-<p><strong>* BONUS Nr. 1</strong>: eine <strong>Anleitung und Mustervorlage</strong> für Anfragen beim Bundesarchiv</p>
-<p><strong>* BONUS Nr. 2</strong>: Exklusiver Zugang zur speziell auf das Thema Militär in der NS-Zeit trainierten KI-Anwendung bei ChatGPT: <em>Dein Begleiter für militärische Spurensuche</em> von <em>Welt der Vorfahren</em></p>
-<p> </p>
+**Vendor's marketplace description:** Hier ist ein weiteres Produkt aus meiner Reihe Spickzettel für Ahnenforscher : der Spickzettel Militärische Spurensuche 1933 bis 1945 Wie die große Zahl an Suchanfragen und Seitenzugriffen dazu zeigt: Ein Thema, das viele Ahnenforscher bewegt, sind Fragen wie: Wie finde ich raus was mein Opa im 2. Weltkrieg gemacht hat? War mein Vater oder Großvater in der Wehrmacht? Es bewegt emotional, weckt aber auch Forscherinteresse, da oftmals Umstände im Unklaren geblieben sind, und Angehörige über die Zeit schwiegen. Weil auch mich das Thema sehr interessiert, habe ich mich schon vor einigen Jahren auf die Suche begeben. Schnell mußte ich aber feststellen, daß das ein sehr komplexes Thema und für Einsteiger schwer zu überblicken ist . Daher habe ich meine Erfahrungen, mein Vorgehen und meine Ergebnisse jetzt einmal sortiert und in ein neues Angebot gegossen, das Ahnenforschern den Einstieg in die Militärrecherche in der NS-Zeit erleichtern soll. Was Ahnenforscher bei diesem Spickzettel erwartet * wie sie Schritt für Schritt die militärische Laufbahn eines Angehörigen zwischen 1933 und 1945 recherchieren können * welche militärischen Strukturen und Truppenteile im Dritten Reich existierten – und insbesondere wie die Wehrmacht aufgebaut war * welche Arten von Unterlagen (z.B. Wehrpass, Soldbuch, Kriegsstammrolle) es gab – und welche Informationen sie bieten können * wie das Bundesarchiv helfen kann, Informationen zum militärischen Werdegang von Angehörigen zu finden * welche weiteren Anlaufstellen, Onlineportale und Institutionen Interessierte bei der militärischen Ahnenforschung unterstützen können * wie man Anfragen an das Bundesarchiv und andere Stellen erfolgreich stellt Was der Käufer mit diesem Spickzettel bekommt * eine schön gestaltete Datei im PDF-Format zum Lesen am Bildschirm oder zum Ausdrucken * 12 Seiten geballtes Wissen für Einsteiger * eine Übersicht über die Gliederung und Organisation der Wehrmacht * eine tabellarische Übersicht der verschiedenen Typen von militärischen Unterlagen * verschiedene Anlaufstellen für die Recherche im Kurzporträt * eine Schritt-für-Schritt-Anleitung für die erfolgreiche Recherche * BONUS Nr. 1 : eine Anleitung und Mustervorlage für Anfragen beim Bundesarchiv * BONUS Nr. 2 : Exklusiver Zugang zur speziell auf das Thema Militär in der NS-Zeit trainierten KI-Anwendung bei ChatGPT: Dein Begleiter für militärische Spurensuche von Welt der Vorfahren
 
 ## 2. Links
 

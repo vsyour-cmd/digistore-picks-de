@@ -41,34 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>EU KI-Datenlabeling und Trainingsdaten-Dokumentation 2026 – Unternehmer Edition</strong></p>
-<p>Dieses digitale Produkt ist ein <strong>praktisches PDF-Arbeitsheft</strong> für Unternehmen, die Trainingsdaten für KI-Systeme verwenden, aufbereiten oder kennzeichnen und diese Prozesse nachvollziehbar dokumentieren möchten.</p>
-<p>Das Arbeitsheft unterstützt bei typischen Aufgaben rund um <strong>EU AI Act, Datenlabeling, Trainingsdaten, Datenqualität, Bias und Nachweisdokumentation</strong>.</p>
-<p><strong>Geeignet für:</strong></p>
-<ul>
-<li>Selbstständige und KMU</li>
-<li>Unternehmen mit eigenen KI-Projekten</li>
-<li>IT- und Produktteams</li>
-<li>Daten- und KI-Verantwortliche</li>
-<li>Compliance- und Governance-Teams</li>
-<li>Agenturen und Beratungen</li>
-</ul>
-<p><strong>Enthalten sind unter anderem:</strong></p>
-<ul>
-<li>Trainingsdaten-Herkunftsbogen</li>
-<li>Datenlabeling-Protokoll</li>
-<li>Annotation-Guideline</li>
-<li>Datenqualitätsbewertung</li>
-<li>Bias-Prüfmatrix</li>
-<li>Datentransformations-Log</li>
-<li>Lizenz- und Consent-Nachweise</li>
-<li>Dokumentation externer Datenbearbeitung</li>
-<li>Risikoanalyse und Auditplan</li>
-<li>praktische Checklisten</li>
-</ul>
-<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales Arbeitsheft im PDF-Format</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
-<p>Das Arbeitsheft dient als praktische Arbeits-, Strukturierungs- und Dokumentationshilfe und ersetzt keine individuelle Rechtsberatung.</p>
-<p><strong>Verkaufspreis: 29,00 €</strong> – digitaler Sofortdownload nach dem Kauf.</p>
+**Vendor's marketplace description:** EU KI-Datenlabeling und Trainingsdaten-Dokumentation 2026 – Unternehmer Edition Dieses digitale Produkt ist ein praktisches PDF-Arbeitsheft für Unternehmen, die Trainingsdaten für KI-Systeme verwenden, aufbereiten oder kennzeichnen und diese Prozesse nachvollziehbar dokumentieren möchten. Das Arbeitsheft unterstützt bei typischen Aufgaben rund um EU AI Act, Datenlabeling, Trainingsdaten, Datenqualität, Bias und Nachweisdokumentation . Geeignet für: Selbstständige und KMU Unternehmen mit eigenen KI-Projekten IT- und Produktteams Daten- und KI-Verantwortliche Compliance- und Governance-Teams Agenturen und Beratungen Enthalten sind unter anderem: Trainingsdaten-Herkunftsbogen Datenlabeling-Protokoll Annotation-Guideline Datenqualitätsbewertung Bias-Prüfmatrix Datentransformations-Log Lizenz- und Consent-Nachweise Dokumentation externer Datenbearbeitung Risikoanalyse und Auditplan praktische Checklisten Wichtig: Es handelt sich ausdrücklich um ein digitales Arbeitsheft im PDF-Format und nicht um Software, einen Videokurs oder einen Mitgliederbereich. Das Arbeitsheft dient als praktische Arbeits-, Strukturierungs- und Dokumentationshilfe und ersetzt keine individuelle Rechtsberatung. Verkaufspreis: 29,00 € – digitaler Sofortdownload nach dem Kauf.
 
 ## 2. Links
 

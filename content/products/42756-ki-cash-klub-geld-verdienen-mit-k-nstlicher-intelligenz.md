@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><span style="background-color:#ff0000;color:#ffffff;"><strong>KI Cash Klub - 50% Provision pro Verkauf!</strong></span></h3>
-<p><strong>Mit den neuesten Strategien und Werbemitteln kannst du hier täglich attraktive Provisionen verdienen..</strong></p>
-<p><strong>Provisionsmodell:</strong></p>
-<ul>
-<li>50% Provision auf den KI Cash Klub - 15€</li>
-<li>50% Provision auf Upsells - 50€/200€</li>
-<li>20% Provision auf Order Bumps</li>
-</ul>
-<p><span style="background-color:#ffff00;"><strong>Mit einem einzigen Verkauf kannst du 250€+ verdienen!</strong></span></p>
-<p><strong>2. Level Provisionen:</strong><br />Verdiene nochmal 20% passiv oben drauf, wenn ein von dir geworbener Affiliate etwas verkauft! (nur für Mitglieder)</p>
-<p><a href="https://t.me/+FcqlsbS4PSA4ZDZi" target="_blank" rel="noreferrer noopener"><span style="color:#ffffff;background-color:#ff6600;"><strong>--&gt; Jetzt hier klicken und alle Infos &amp; News, sowie Tipps &amp; Tricks auf Telegram erhalten (KLICK)</strong></span></a></p>
-<p><a href="https://florianschaefer.de/partnerprogramm" target="_blank" rel="noreferrer noopener"><strong>--&gt; Hier gehts zur Partnerprogrammseite mit Werbemitteln!</strong></a></p>
+**Vendor's marketplace description:** KI Cash Klub - 50% Provision pro Verkauf! Mit den neuesten Strategien und Werbemitteln kannst du hier täglich attraktive Provisionen verdienen.. Provisionsmodell: 50% Provision auf den KI Cash Klub - 15€ 50% Provision auf Upsells - 50€/200€ 20% Provision auf Order Bumps Mit einem einzigen Verkauf kannst du 250€+ verdienen! 2. Level Provisionen: Verdiene nochmal 20% passiv oben drauf, wenn ein von dir geworbener Affiliate etwas verkauft! (nur für Mitglieder) --> Jetzt hier klicken und alle Infos & News, sowie Tipps & Tricks auf Telegram erhalten (KLICK) --> Hier gehts zur Partnerprogrammseite mit Werbemitteln!
 
 ## 2. Links
 

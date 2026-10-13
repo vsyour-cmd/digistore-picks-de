@@ -41,41 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Pro verschenktem digitalen Album erhältst du 3 Euro Provision!</h4>
-<p>Das neowake Meditations Album <strong>"Source Code"</strong> führt den Zuhörer durch 3 Levels interaktiv zu wahrer Selbsterkenntnis.<br /><br /><strong><span style="color:#ff0000;">Level 1:</span></strong> Stress reduzieren<br /><strong><span style="color:#ffcc00;">Level 2:</span></strong> Tiefe Meditationen erleben<br /><strong><span style="color:#339966;">Level 3:</span></strong> Trance-Erfahrungen machen<br /><br />Beteilige dich an unserer Mission gegen den kollektiven Stress der Menschen und verdiene einfaches Geld.</p>
-<ul>
-<li>Du erhältst automatisch <strong>30% Provision</strong> auf das Abo-Upsell (monatlich - wiederkehrend)</li>
-<li>Extrem hohe Conversionrates durch offizielle Marke</li>
-<li>Unglaublich geringe Stornoquote</li>
-<li>Super zufriedene Kunden, die tolle Ergebnisse mit dem Album machen und schnell Erfolge erzielen</li>
-<li>Abo-Upsell bringt dir passives Einkommen ein</li>
-</ul>
-<table style="height:150px;border-color:#f39725;margin-left:auto;margin-right:auto;" border="2" width="318">
-<tbody>
-<tr>
-<td style="width:151.2px;"><strong>Verschenkte Alben</strong></td>
-<td style="width:150.4px;"><strong>Dein Einkommen</strong></td>
-</tr>
-<tr>
-<td style="width:151.2px;">1</td>
-<td style="width:150.4px;">3 Euro + 5 Euro mtl.</td>
-</tr>
-<tr>
-<td style="width:151.2px;">10</td>
-<td style="width:150.4px;">30 Euro + 50 Euro mtl.</td>
-</tr>
-<tr>
-<td style="width:151.2px;">500</td>
-<td style="width:150.4px;">1500 Euro + 2500 Euro mtl.</td>
-</tr>
-<tr>
-<td style="width:151.2px;">5000</td>
-<td style="width:150.4px;">15000 Euro + 25000 Euro mtl.</td>
-</tr>
-</tbody>
-</table>
-<h4>Melde dich jetzt als Affiliate an, verdiene 3 € pro digitalem Download und profitiere vom aktuellen Hype!</h4>
-<p>Hinweis: Die 3 € werden nur gutgeschrieben, sofern eine Testmitgliedschaft erfolgreich abgeschlossen wurde.</p>
+**Vendor's marketplace description:** Pro verschenktem digitalen Album erhältst du 3 Euro Provision! Das neowake Meditations Album "Source Code" führt den Zuhörer durch 3 Levels interaktiv zu wahrer Selbsterkenntnis. Level 1: Stress reduzieren Level 2: Tiefe Meditationen erleben Level 3: Trance-Erfahrungen machen Beteilige dich an unserer Mission gegen den kollektiven Stress der Menschen und verdiene einfaches Geld. Du erhältst automatisch 30% Provision auf das Abo-Upsell (monatlich - wiederkehrend) Extrem hohe Conversionrates durch offizielle Marke Unglaublich geringe Stornoquote Super zufriedene Kunden, die tolle Ergebnisse mit dem Album machen und schnell Erfolge erzielen Abo-Upsell bringt dir passives Einkommen ein Verschenkte Alben Dein Einkommen 1 3 Euro + 5 Euro mtl. 10 30 Euro + 50 Euro mtl. 500 1500 Euro + 2500 Euro mtl. 5000 15000 Euro + 25000 Euro mtl. Melde dich jetzt als Affiliate an, verdiene 3 € pro digitalem Download und profitiere vom aktuellen Hype! Hinweis: Die 3 € werden nur gutgeschrieben, sofern eine Testmitgliedschaft erfolgreich abgeschlossen wurde.
 
 ## 2. Links
 

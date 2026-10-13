@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der <strong>Intensivkurs Cello</strong> ist ein umfangreicher Onlinekurs, der dem Teilnehmer vom absoluten Beginn an in motivierender und genauer Weise die Grundlagen am Cello beibringt. </p>
-<p>Lehrvideos werden mit Übungsaufgben per PDF und Einspielungen als MP3 ergänzt, sodass dem Schüler stets die Kontrolle seines Übens möglich ist. </p>
-<p>Der Kurs wird durch das Angebot einer geschlossenen Facebookgruppe ergänzt, in der die Teilnehmer Fragen beantwortet bekommen.</p>
-<p>Der Kurs wird wahlweise im monatlichen oder jährlichen Abonnement angeboten. </p>
-<p>In der <span style="color:#0000ff;"><strong>Plus</strong></span> Variante wird dieser Kurs durch Gruppencalls via Zoom ergänzt in denen die Schüler regelmäßig direkte Korrektur vom Lehrer bekommen können. </p>
-<p>Beide Varianten des Kurses werden wahlweise im monatlichen oder jährlichen Abonnement angeboten. </p>
+**Vendor's marketplace description:** Der Intensivkurs Cello ist ein umfangreicher Onlinekurs, der dem Teilnehmer vom absoluten Beginn an in motivierender und genauer Weise die Grundlagen am Cello beibringt. Lehrvideos werden mit Übungsaufgben per PDF und Einspielungen als MP3 ergänzt, sodass dem Schüler stets die Kontrolle seines Übens möglich ist. Der Kurs wird durch das Angebot einer geschlossenen Facebookgruppe ergänzt, in der die Teilnehmer Fragen beantwortet bekommen. Der Kurs wird wahlweise im monatlichen oder jährlichen Abonnement angeboten. In der Plus Variante wird dieser Kurs durch Gruppencalls via Zoom ergänzt in denen die Schüler regelmäßig direkte Korrektur vom Lehrer bekommen können. Beide Varianten des Kurses werden wahlweise im monatlichen oder jährlichen Abonnement angeboten.
 
 ## 2. Links
 

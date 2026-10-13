@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieser Online-Kurs hilft Trainern, Beratern und Coaches mit wenigen Techniken Wow-Flipcharts zu gestalten, komplexe Inhalte verständlich darzustellen und die eigenen Teilnehmer zu begeistern?<br /><br />Es ist so einfach wie "Malen nach Zahlen".<br />In 11 Videos wird gezeigt, wie es geht.<br /><br />Das Training ist eine Schatzkiste an Techniken, Tipps, Ideen und Inspirationen für alle, die professionell am Flipchart arbeiten!<br /><br />Deine Vorteile</p>
-<ul>
-<li>40 % Provision</li>
-<li>Flipcharts sind immer noch aktuell</li>
-<li>Viele potenzielle Kunden auf dem Markt</li>
-</ul>
+**Vendor's marketplace description:** Dieser Online-Kurs hilft Trainern, Beratern und Coaches mit wenigen Techniken Wow-Flipcharts zu gestalten, komplexe Inhalte verständlich darzustellen und die eigenen Teilnehmer zu begeistern? Es ist so einfach wie "Malen nach Zahlen". In 11 Videos wird gezeigt, wie es geht. Das Training ist eine Schatzkiste an Techniken, Tipps, Ideen und Inspirationen für alle, die professionell am Flipchart arbeiten! Deine Vorteile 40 % Provision Flipcharts sind immer noch aktuell Viele potenzielle Kunden auf dem Markt
 
 ## 2. Links
 

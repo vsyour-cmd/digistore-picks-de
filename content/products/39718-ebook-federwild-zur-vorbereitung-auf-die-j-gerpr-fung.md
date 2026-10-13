@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>eBook Kompaktwissen Federwild. Alle Inhalte zur Vorbereitung auf die Jägerprüfung zusammengefasst als eBook. Einfach zu lesen, reichlich bebildert. Die ideale Ergänzung zu bestehenden Lernmedien. Zum lernen, nachschlagen, Wissen vertiefen oder auffrischen.</p>
-<p>Versand als PDF.</p>
+**Vendor's marketplace description:** eBook Kompaktwissen Federwild. Alle Inhalte zur Vorbereitung auf die Jägerprüfung zusammengefasst als eBook. Einfach zu lesen, reichlich bebildert. Die ideale Ergänzung zu bestehenden Lernmedien. Zum lernen, nachschlagen, Wissen vertiefen oder auffrischen. Versand als PDF.
 
 ## 2. Links
 

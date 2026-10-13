@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#333399;"><strong>Die Sprache sofort anwenden, um leicht mit Einheimischen in Kontakt zu kommen.</strong></span></h2>
-<div><span style="color:#000080;">Käufer sind vor allem Reisende, die ein intensiveres Reiseerlebnis haben wollen, aber auch</span><span style="color:#000080;"> Männer mit ausländischer Partnerin, Austauschschüler und Expats.</span></div>
-<h3><span style="color:#333333;"><span style="color:#000080;">Kaufmotor ist ein kostenloser Teil des Sprachkurs (100 Wörter &amp; Sätze der jeweiligen Sprache), der auch zum Aufbau einer e-Mail-Liste hilfreich ist. Ein Gutschein ist auch möglich.</span></span></h3>
-<p><strong>Produktinfos:</strong></p>
-<p>&gt; 190 Minuten Sprachkurs inklusive landesübliche Sitten und Bräuche</p>
-<p>&gt; über 200 Wörter &amp; Sätze auf nur einen Blick zum direkt und blitzschnell anwenden</p>
-<p>&gt; Einfache Übung der Aussprache und Wiederholung des gelernten.</p>
-<p>Sag Bescheid, wenn du noch Fragen hast oder Werbemittel brauchst.</p>
-<p>Auf unseren gemeinsamen Erfolg!</p>
-<p> </p>
-<p>PS: Und hier noch der Extra-Tipp für dich, wenn du mit Thai-Kursen <span style="font-weight:bold;">wiederkehrende </span>Einnahmen erzielen möchtest: <a href="https://www.thailernen.net/partnerprogramm?go=15" target="_blank" rel="noreferrer noopener"><span style="font-weight:bold;font-style:italic;">Partnerprogramm</span></a></p>
-<p>alle Sprachen auf einen Blick:</p>
-<p><a href="http://www.chinesisch-fuer-reisende.de">http://www.chinesisch-fuer-reisende.de</a></p>
-<p><a href="http://www.brasilianisch-fuer-reisende.de">http://www.brasilianisch-fuer-reisende.de</a></p>
-<p><a href="http://www.vietnamesisch-fuer-reisende.de">http://www.vietnamesisch-fuer-reisende.de</a></p>
-<p> </p>
-<p><a href="http://www.thailaendisch-fuer-reisende.de">http://www.thailaendisch-fuer-reisende.de</a></p>
-<p> </p>
+**Vendor's marketplace description:** Die Sprache sofort anwenden, um leicht mit Einheimischen in Kontakt zu kommen. Käufer sind vor allem Reisende, die ein intensiveres Reiseerlebnis haben wollen, aber auch Männer mit ausländischer Partnerin, Austauschschüler und Expats. Kaufmotor ist ein kostenloser Teil des Sprachkurs (100 Wörter & Sätze der jeweiligen Sprache), der auch zum Aufbau einer e-Mail-Liste hilfreich ist. Ein Gutschein ist auch möglich. Produktinfos: > 190 Minuten Sprachkurs inklusive landesübliche Sitten und Bräuche > über 200 Wörter & Sätze auf nur einen Blick zum direkt und blitzschnell anwenden > Einfache Übung der Aussprache und Wiederholung des gelernten. Sag Bescheid, wenn du noch Fragen hast oder Werbemittel brauchst. Auf unseren gemeinsamen Erfolg! PS: Und hier noch der Extra-Tipp für dich, wenn du mit Thai-Kursen wiederkehrende Einnahmen erzielen möchtest: Partnerprogramm alle Sprachen auf einen Blick: http://www.chinesisch-fuer-reisende.de http://www.brasilianisch-fuer-reisende.de http://www.vietnamesisch-fuer-reisende.de http://www.thailaendisch-fuer-reisende.de
 
 ## 2. Links
 

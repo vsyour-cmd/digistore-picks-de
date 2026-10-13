@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<p><strong>Diese exklusiven Vorteile erwarten Dich:</strong></p>
-</div>
-</div>
-</div>
-<div>
-<ul>
-<li>Jeden Monat mindestens eine neue exklusive "No Brainer"-Aktie</li>
-<li>Einzigartige Kompetenz im Nebenwerte-Bereich durch Expertengremium</li>
-<li>Außergewöhnliche Performance und Risikoabsicherung durch NBC-Strategie</li>
-<li>Eilmeldungen und Sonderreports, falls es mal nötig sein sollte</li>
-<li>Keine Hektik – Wir sind dem Markt in der Regel deutlich voraus</li>
-<li>Wöchentliche Updates und Auswertungen zu unseren Favoriten</li>
-</ul>
-<p> </p>
-</div>
+**Vendor's marketplace description:** Diese exklusiven Vorteile erwarten Dich: Jeden Monat mindestens eine neue exklusive "No Brainer"-Aktie Einzigartige Kompetenz im Nebenwerte-Bereich durch Expertengremium Außergewöhnliche Performance und Risikoabsicherung durch NBC-Strategie Eilmeldungen und Sonderreports, falls es mal nötig sein sollte Keine Hektik – Wir sind dem Markt in der Regel deutlich voraus Wöchentliche Updates und Auswertungen zu unseren Favoriten
 
 ## 2. Links
 

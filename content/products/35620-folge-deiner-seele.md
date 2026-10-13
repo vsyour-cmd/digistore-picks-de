@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehlen Sie das einzigartige Produkt für persönliche Entwicklung von El.An.Rea.</p>
-<ul>
-<li><strong>Lebenslang</strong> <strong>20% wiederkehrende Provisionen</strong> auf Ihre Verkäufe</li>
-<li>+ Lebenslang 10% auf die Provisionen Ihrer Affiliates.</li>
-<li>Persönliche Unterstützung durch Ihren Affiliate-Manager.</li>
-</ul>
+**Vendor's marketplace description:** Empfehlen Sie das einzigartige Produkt für persönliche Entwicklung von El.An.Rea. Lebenslang 20% wiederkehrende Provisionen auf Ihre Verkäufe + Lebenslang 10% auf die Provisionen Ihrer Affiliates. Persönliche Unterstützung durch Ihren Affiliate-Manager.
 
 ## 2. Links
 

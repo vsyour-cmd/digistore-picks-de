@@ -41,34 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Happy Money Girl Bootcamp </p>
-<p><br />⚡MELDE DICH HEUTE FÜR DAS GELD-BOOTCAMP AN!⚡️</p>
-<p><br />Deine Money Bootcamp-Anmeldung beinhaltet:</p>
-<p>- Ein exklusiver Mitgliederbereich mit wertvollen Kursen, die dir die Geheimnisse zum Thema Geld verraten.</p>
-<p>- alles, was du brauchst, um einfach und schnell mehr zu erreichen</p>
-<p>- eine genaue Schritt für Schritt Anleitung in deine finanzielle Sicherheit. </p>
-<p>- ständig ergänzt mit neuen Inhalten</p>
-<p>- Du erreichst so ganz einfach alles, was du erreichen möchtest</p>
-<p><strong>--&gt; Mehr Geld, mehr Lebensqualität, mehr Zeit für dich und deine Lieben, einfach mehr vom Leben. </strong></p>
-<p> </p>
-<p>Happy Money Bootcamp - Inhalt</p>
-<p>Happy Money Girl "Starter"</p>
-<p>Happy Money Girl "Runner"</p>
-<p>Happy Money Girl "Invest"</p>
-<p>Happy Money Girl "Business"</p>
-<p>Happs Money Girl "Mindset"</p>
-<p> </p>
-<p>Sowie diverse weitere Bonuskurse.</p>
-<p><strong>Und als Haupbonus "Nadja's Jahresplan" im Wert von 79,90 €</strong>"</p>
-<p> </p>
-<p>14 Tage Geld-Zurück-Garantie</p>
-<p> </p>
-<p> </p>
-<p><strong>Feedback</strong></p>
-<p>Was sagt eine Kundin bei Youtube über meinen Memberbereich:</p>
-<p>***Ich bin in Nadja's Money Bootcamp und bin absolut begeistert. Sehr übersichtlich und informativ. Ich bereue keinen Cent und kann es jedem nur empfehlen. ❤️***</p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Happy Money Girl Bootcamp ⚡MELDE DICH HEUTE FÜR DAS GELD-BOOTCAMP AN!⚡️ Deine Money Bootcamp-Anmeldung beinhaltet: - Ein exklusiver Mitgliederbereich mit wertvollen Kursen, die dir die Geheimnisse zum Thema Geld verraten. - alles, was du brauchst, um einfach und schnell mehr zu erreichen - eine genaue Schritt für Schritt Anleitung in deine finanzielle Sicherheit. - ständig ergänzt mit neuen Inhalten - Du erreichst so ganz einfach alles, was du erreichen möchtest --> Mehr Geld, mehr Lebensqualität, mehr Zeit für dich und deine Lieben, einfach mehr vom Leben. Happy Money Bootcamp - Inhalt Happy Money Girl "Starter" Happy Money Girl "Runner" Happy Money Girl "Invest" Happy Money Girl "Business" Happs Money Girl "Mindset" Sowie diverse weitere Bonuskurse. Und als Haupbonus "Nadja's Jahresplan" im Wert von 79,90 € " 14 Tage Geld-Zurück-Garantie Feedback Was sagt eine Kundin bei Youtube über meinen Memberbereich: ***Ich bin in Nadja's Money Bootcamp und bin absolut begeistert. Sehr übersichtlich und informativ. Ich bereue keinen Cent und kann es jedem nur empfehlen. ❤️***
 
 ## 2. Links
 

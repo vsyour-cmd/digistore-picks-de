@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>WOWING ermöglicht es Dir auf unkomplizierte Weise per Smartphone oder Desktop sämtliche Kundenanfragen per Video oder Audionachricht zu beantworten. <br /><br />Dabei arbeitet WOWING bereits mit viele der gängigen Tools auf dem Markt nahtlos zusammen - wie zB. Quentn, Klicktipp, Digistore24, Elopage und viele andere. <br /><br />Große Marketer und Coaches wie Martin Limbeck, René Rink, Mario Burgard, Jens Neubeck, Frederik Malsy und viele mehr nutzen WOWING bereits um Ihre Kundenkommunikation aufs nächste Level zu heben.<br /><br />WOWING funktioniert ebenfalls mit dem Facebook Messenger! </p>
+**Vendor's marketplace description:** WOWING ermöglicht es Dir auf unkomplizierte Weise per Smartphone oder Desktop sämtliche Kundenanfragen per Video oder Audionachricht zu beantworten. Dabei arbeitet WOWING bereits mit viele der gängigen Tools auf dem Markt nahtlos zusammen - wie zB. Quentn, Klicktipp, Digistore24, Elopage und viele andere. Große Marketer und Coaches wie Martin Limbeck, René Rink, Mario Burgard, Jens Neubeck, Frederik Malsy und viele mehr nutzen WOWING bereits um Ihre Kundenkommunikation aufs nächste Level zu heben. WOWING funktioniert ebenfalls mit dem Facebook Messenger!
 
 ## 2. Links
 

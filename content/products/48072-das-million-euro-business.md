@@ -41,42 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<h2><strong>Der komplette PPC-Nischenmarekting Kurs, um sich ein digitales Business aufzubauen, welches von Tag 1 an Kunden generiert.<br /></strong></h2>
-<h2><strong>Du wirst mit 50% lebenslang beteiligt.<br /></strong></h2>
-<strong>10 Gründe, warum du den einmaligen Auto-Nischen-Marketer promoten solltest:</strong> <br />
-<ul>
-<li><strong>Mit 50% dauerhafte Beteiligung die höchste Provision im Profi-Internet-Marketing-Bereich</strong></li>
-</ul>
-<ul>
-<li><strong>Du bekommst automatische Anleitungen zum optimalen Bewerben meiner Produkte</strong></li>
-<li>
-<p><strong>Hohe Verkaufsraten in der Geld im Internet verdienen Nische, da es Mehr für weniger Geld gibt<br /></strong></p>
-</li>
-<li>
-<p><strong>Vollautomatische Auszahlung deiner Provision durch Digistore24</strong></p>
-</li>
-<li>
-<p><strong>Direkt-Verkauf ohne großes Blabla und ohne versteckten Salesfunnel<br /></strong></p>
-</li>
-<li><strong>keine überteuerten Produkte und dadurch geringe Stornoquote</strong></li>
-<li>
-<p><strong>Produkte, die Menschen wirklich helfen und es nicht nur vorgaukeln<br /></strong></p>
-</li>
-<li>
-<p><strong>Lars-Support (Ich helfe Dir, wenn du etwas nicht verstehst)<br /></strong></p>
-</li>
-<li>
-<p><strong>Ausführliche und ständige Conversion Optimierung</strong></p>
-</li>
-<li>
-<p><strong>Regelmäßige Affiliate Wettbewerbe <br />(Preis und Geschenke)</strong></p>
-</li>
-</ul>
-<p><strong>Klicke jetzt unten rechts auf „Affiliate Support-Seite“ und erfahre konkret, wie du loslegen kannst, damit Du noch heute deine ersten Provisionen erhalten kannst!</strong></p>
-</div>
-</div>
+**Vendor's marketplace description:** Der komplette PPC-Nischenmarekting Kurs, um sich ein digitales Business aufzubauen, welches von Tag 1 an Kunden generiert. Du wirst mit 50% lebenslang beteiligt. 10 Gründe, warum du den einmaligen Auto-Nischen-Marketer promoten solltest: Mit 50% dauerhafte Beteiligung die höchste Provision im Profi-Internet-Marketing-Bereich Du bekommst automatische Anleitungen zum optimalen Bewerben meiner Produkte Hohe Verkaufsraten in der Geld im Internet verdienen Nische, da es Mehr für weniger Geld gibt Vollautomatische Auszahlung deiner Provision durch Digistore24 Direkt-Verkauf ohne großes Blabla und ohne versteckten Salesfunnel keine überteuerten Produkte und dadurch geringe Stornoquote Produkte, die Menschen wirklich helfen und es nicht nur vorgaukeln Lars-Support (Ich helfe Dir, wenn du etwas nicht verstehst) Ausführliche und ständige Conversion Optimierung Regelmäßige Affiliate Wettbewerbe (Preis und Geschenke) Klicke jetzt unten rechts auf „Affiliate Support-Seite“ und erfahre konkret, wie du loslegen kannst, damit Du noch heute deine ersten Provisionen erhalten kannst!
 
 ## 2. Links
 

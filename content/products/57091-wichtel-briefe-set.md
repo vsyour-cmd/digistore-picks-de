@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Wichtel Briefe Set enthält 25 fertige Wichtelbriefe vom Einzug bis zum Abschied sowie einfache Wichtelideen, Bonus-Briefe für stressige Tage, eine Wunschzettel-Vorlage und kleine Extras zum Ausschneiden.</p>
-<p>Ideal für Eltern, die ihrem Kind eine magische Wichtelzeit schenken möchten, ohne jeden Abend neue Ideen planen oder Briefe schreiben zu müssen.</p>
-<p> </p>
-<h2>Informationen für Affiliates</h2>
-<p>Vielen Dank für dein Interesse am Wichtel Briefe Set.</p>
-<p>Bitte beachte folgende Hinweise:</p>
-<ul>
-<li>Das Produkt darf gerne auf Blogs, Social Media, Pinterest, Newslettern und anderen Kanälen empfohlen werden.</li>
-<li>Bitte verwende für die Bewerbung ausschließlich die offizielle Verkaufsseite.</li>
-<li>Irreführende Aussagen oder unrealistische Erfolgsversprechen sind nicht gestattet.</li>
-<li>Eigene Domains, Landingpages oder Social-Media-Profile, die den Eindruck erwecken, die offizielle Anbieterin des Produkts zu sein, sind nicht gestattet.</li>
-<li>Bezahlte Werbeanzeigen auf den Namen des Produkts oder die Anbieter-Website sind nur nach vorheriger Absprache zulässig.</li>
-</ul>
-<p>Vielen Dank für die faire Zusammenarbeit!</p>
-<p> </p>
-<p>Hinweis: Ich behalte mir das Recht vor, Affiliate-Bewerbungen abzulehnen sowie bestehende Affiliate-Partnerschaften jederzeit und ohne Angabe von Gründen zu beenden.</p>
+**Vendor's marketplace description:** Das Wichtel Briefe Set enthält 25 fertige Wichtelbriefe vom Einzug bis zum Abschied sowie einfache Wichtelideen, Bonus-Briefe für stressige Tage, eine Wunschzettel-Vorlage und kleine Extras zum Ausschneiden. Ideal für Eltern, die ihrem Kind eine magische Wichtelzeit schenken möchten, ohne jeden Abend neue Ideen planen oder Briefe schreiben zu müssen. Informationen für Affiliates Vielen Dank für dein Interesse am Wichtel Briefe Set. Bitte beachte folgende Hinweise: Das Produkt darf gerne auf Blogs, Social Media, Pinterest, Newslettern und anderen Kanälen empfohlen werden. Bitte verwende für die Bewerbung ausschließlich die offizielle Verkaufsseite. Irreführende Aussagen oder unrealistische Erfolgsversprechen sind nicht gestattet. Eigene Domains, Landingpages oder Social-Media-Profile, die den Eindruck erwecken, die offizielle Anbieterin des Produkts zu sein, sind nicht gestattet. Bezahlte Werbeanzeigen auf den Namen des Produkts oder die Anbieter-Website sind nur nach vorheriger Absprache zulässig. Vielen Dank für die faire Zusammenarbeit! Hinweis: Ich behalte mir das Recht vor, Affiliate-Bewerbungen abzulehnen sowie bestehende Affiliate-Partnerschaften jederzeit und ohne Angabe von Gründen zu beenden.
 
 ## 2. Links
 

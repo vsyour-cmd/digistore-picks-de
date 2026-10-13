@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p> <strong>Die Rosina-Kaiser-Akademie ist eine exklusive Mitgliedschaft. Jedes Monat werden den KUnden neue Inhalte und Bonis zur Verfügung gestellt.</strong></p>
-<p>Dadurch erreichen wir eine lange Bleibedauer aller Kunden in der Mitgliedschaft.</p>
-<p><strong><span style="color:#ff0000;"><a style="color:#ff0000;" href="http://www.rosina-kaiser-produkte.de/partnerprogramm/" target="_blank" rel="noreferrer noopener">Melde dich hier zu unserem Affiliate-Programm an</a></span></strong><a><br /><br /></a></p>
-<p>Dieses ABO-Produkt wir über ein Webinar beworben. Hier die wichtigsten Fakten:</p>
-<ul>
-<li>Webinar-Anmeldung: ca. 51% aller Besucher auf der Website</li>
-<li>Kauf-Rate der Webinarteilnehmer: 21%</li>
-<li>Kauf-Rate für das Upsell-Produkt: 39%</li>
-</ul>
-<p>Die Zahlen sprechen für sich!<br /><br /></p>
-<p>Anhand der Statistiken siehst Du selbst sehr deutlich, dass die Conversion-Rate sehr gut ist und Du dir durch das ABO-Modell langfristige Provisionen sichern kannst..<br /><br /></p>
-<p>Viele Grüße,<br />Rosina Kaiser</p>
-<p> </p>
-<p>Link: <strong><span style="color:#ff0000;"><a style="color:#ff0000;" href="http://www.rosina-kaiser-produkte.de/partnerprogramm/" target="_blank" rel="noreferrer noopener">Hier gehts zum Affiliate-Programm</a></span></strong></p>
+**Vendor's marketplace description:** Die Rosina-Kaiser-Akademie ist eine exklusive Mitgliedschaft. Jedes Monat werden den KUnden neue Inhalte und Bonis zur Verfügung gestellt. Dadurch erreichen wir eine lange Bleibedauer aller Kunden in der Mitgliedschaft. Melde dich hier zu unserem Affiliate-Programm an Dieses ABO-Produkt wir über ein Webinar beworben. Hier die wichtigsten Fakten: Webinar-Anmeldung: ca. 51% aller Besucher auf der Website Kauf-Rate der Webinarteilnehmer: 21% Kauf-Rate für das Upsell-Produkt: 39% Die Zahlen sprechen für sich! Anhand der Statistiken siehst Du selbst sehr deutlich, dass die Conversion-Rate sehr gut ist und Du dir durch das ABO-Modell langfristige Provisionen sichern kannst.. Viele Grüße, Rosina Kaiser Link: Hier gehts zum Affiliate-Programm
 
 ## 2. Links
 

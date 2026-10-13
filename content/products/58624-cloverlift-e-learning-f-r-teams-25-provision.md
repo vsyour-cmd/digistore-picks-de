@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Für Affiliates:</strong> CloverLift ist E-Learning für Unternehmen, Trainer und Teams. 25 % Provision auf Starter, Business und Enterprise.</p>
-<p>Kurse erstellen, Fortschritt verfolgen, Zertifikate ausstellen. Wiederkehrende SaaS-Provision.</p>
-<ul>
-<li>Starter ab 19 € / Monat</li>
-<li>Verwandte Tarife: Business, Enterprise</li>
-</ul>
-<p>Salespage: <a href="https://cloverlift.com">cloverlift.com</a><br />Affiliate-Support: <a href="https://hih-digital.com/affiliates/cloverlift.html">hih-digital.com/affiliates/cloverlift.html</a></p>
+**Vendor's marketplace description:** Für Affiliates: CloverLift ist E-Learning für Unternehmen, Trainer und Teams. 25 % Provision auf Starter, Business und Enterprise. Kurse erstellen, Fortschritt verfolgen, Zertifikate ausstellen. Wiederkehrende SaaS-Provision. Starter ab 19 € / Monat Verwandte Tarife: Business, Enterprise Salespage: cloverlift.com Affiliate-Support: hih-digital.com/affiliates/cloverlift.html
 
 ## 2. Links
 

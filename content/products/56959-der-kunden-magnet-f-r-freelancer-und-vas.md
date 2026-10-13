@@ -41,68 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>„Der Kunden-Magnet“ ist ein kompaktes KI-Prompt-System für Freelancer, Virtuelle Assistenten und digitale Dienstleister, die ihre Kundengewinnung, Angebotsformulierung und Einwandbehandlung professioneller aufbauen möchten.</p>
-<p>Das Produkt enthält sofort einsetzbare Prompts für ChatGPT und Claude und hilft Nutzern dabei, drei zentrale Business-Probleme zu lösen:</p>
-<ol>
-<li>
-<p>bessere Erstkontakt-Nachrichten ohne Spam-Gefühl</p>
-</li>
-<li>
-<p>überzeugendere Angebote, die Wert statt Stunden verkaufen</p>
-</li>
-<li>
-<p>souveräne Antworten auf Einwände wie „zu teuer“ oder „keine Zeit“</p>
-</li>
-</ol>
-<p>Damit eignet sich das Produkt besonders gut für Zielgruppen rund um Freelancer, Virtuelle Assistenten, Solo-Selbstständige, digitale Dienstleister, Coaches, Berater und Menschen, die KI praktisch für ihr Business nutzen möchten.</p>
-<p>Warum das Produkt für Affiliates interessant ist:</p>
-<ul>
-<li>
-<p>aktuelles Trendthema: KI, ChatGPT, Claude und Automatisierung</p>
-</li>
-<li>
-<p>klare Zielgruppe mit konkretem Problem</p>
-</li>
-<li>
-<p>niedrige Kaufhürde durch günstigen Einstiegspreis</p>
-</li>
-<li>
-<p>sofort nutzbares PDF-System statt langer Onlinekurs</p>
-</li>
-<li>
-<p>starke Werbewinkel: Kundengewinnung, Positionierung, Angebote, Preisverhandlung und KI-Prompts</p>
-</li>
-<li>
-<p>50 % Provision</p>
-</li>
-<li>
-<p>Affiliate-Support-Seite mit Link-Generator, E-Mail-Vorlagen und Social-Media-Texten</p>
-</li>
-</ul>
-<p>Starke Werbewinkel für die Bewerbung:</p>
-<ul>
-<li>
-<p>Schluss mit dem Bauchladen: klare Positionierung statt Austauschbarkeit</p>
-</li>
-<li>
-<p>bessere Erstkontakt-Nachrichten ohne typische Spam-Floskeln</p>
-</li>
-<li>
-<p>Angebote schreiben, die den Nutzen statt nur den Aufwand zeigen</p>
-</li>
-<li>
-<p>professioneller mit Einwänden wie „zu teuer“ umgehen</p>
-</li>
-<li>
-<p>KI praktisch nutzen, um schneller bessere Business-Texte zu erstellen</p>
-</li>
-</ul>
-<p>Affiliate-Support und Werbemittel findest du hier:</p>
-<p><a href="https://freelancer-ki-tools.de/partnerprogramm" target="_blank" rel="noreferrer noopener">https://freelancer-ki-tools.de/partnerprogramm</a></p>
-<p>Kontakt für Affiliates:</p>
-<p><a>kontakt@freelancer-ki-tools.de</a></p>
-<p>Wichtiger Hinweis zur Bewerbung:</p>
-<p>Bitte bewirb das Produkt seriös und ohne unrealistische Einkommensversprechen. Es handelt sich um ein praxisnahes KI-Arbeitswerkzeug für bessere Positionierung, klarere Angebote und professionellere Kundengewinnung – nicht um ein Erfolgsgarantie-System.</p>
+**Vendor's marketplace description:** „Der Kunden-Magnet“ ist ein kompaktes KI-Prompt-System für Freelancer, Virtuelle Assistenten und digitale Dienstleister, die ihre Kundengewinnung, Angebotsformulierung und Einwandbehandlung professioneller aufbauen möchten. Das Produkt enthält sofort einsetzbare Prompts für ChatGPT und Claude und hilft Nutzern dabei, drei zentrale Business-Probleme zu lösen: bessere Erstkontakt-Nachrichten ohne Spam-Gefühl überzeugendere Angebote, die Wert statt Stunden verkaufen souveräne Antworten auf Einwände wie „zu teuer“ oder „keine Zeit“ Damit eignet sich das Produkt besonders gut für Zielgruppen rund um Freelancer, Virtuelle Assistenten, Solo-Selbstständige, digitale Dienstleister, Coaches, Berater und Menschen, die KI praktisch für ihr Business nutzen möchten. Warum das Produkt für Affiliates interessant ist: aktuelles Trendthema: KI, ChatGPT, Claude und Automatisierung klare Zielgruppe mit konkretem Problem niedrige Kaufhürde durch günstigen Einstiegspreis sofort nutzbares PDF-System statt langer Onlinekurs starke Werbewinkel: Kundengewinnung, Positionierung, Angebote, Preisverhandlung und KI-Prompts 50 % Provision Affiliate-Support-Seite mit Link-Generator, E-Mail-Vorlagen und Social-Media-Texten Starke Werbewinkel für die Bewerbung: Schluss mit dem Bauchladen: klare Positionierung statt Austauschbarkeit bessere Erstkontakt-Nachrichten ohne typische Spam-Floskeln Angebote schreiben, die den Nutzen statt nur den Aufwand zeigen professioneller mit Einwänden wie „zu teuer“ umgehen KI praktisch nutzen, um schneller bessere Business-Texte zu erstellen Affiliate-Support und Werbemittel findest du hier: https://freelancer-ki-tools.de/partnerprogramm Kontakt für Affiliates: kontakt@freelancer-ki-tools.de Wichtiger Hinweis zur Bewerbung: Bitte bewirb das Produkt seriös und ohne unrealistische Einkommensversprechen. Es handelt sich um ein praxisnahes KI-Arbeitswerkzeug für bessere Positionierung, klarere Angebote und professionellere Kundengewinnung – nicht um ein Erfolgsgarantie-System.
 
 ## 2. Links
 

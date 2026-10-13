@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>Für alle, die noch zögern, aber wissen: Da geht noch mehr!</div>
-<div>Du suchst nach einer Möglichkeit, dir ein zusätzliches Einkommen aufzubauen? Dann ist jetzt der perfekte Moment, den ersten Schritt zu machen.</div>
-<div>Sichere dir jetzt mein E-Book „Die 5 Schritte zum Copywriting-Erfolg“</div>
+**Vendor's marketplace description:** Für alle, die noch zögern, aber wissen: Da geht noch mehr! Du suchst nach einer Möglichkeit, dir ein zusätzliches Einkommen aufzubauen? Dann ist jetzt der perfekte Moment, den ersten Schritt zu machen. Sichere dir jetzt mein E-Book „Die 5 Schritte zum Copywriting-Erfolg“
 
 ## 2. Links
 

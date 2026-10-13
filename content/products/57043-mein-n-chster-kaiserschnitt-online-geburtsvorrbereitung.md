@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Kaiserschnitt-Kurs für die 2. oder 3. Geburt – große Zielgruppe, 20 % Provision</strong></p>
-<p>Speziell für Schwangere, die bereits einen Kaiserschnitt hatten und beim nächsten Mal mehr wollen: eine selbstbestimmte, gesündere und positiv erlebte Geburt. Der Kurs zeigt, wie Frauen diesmal Nachteile und Risiken aktiv abfedern, Verbesserungen bei Schnittführung, Nähtechnik und Wundversorgung einfordern und frühere Erfahrungen verarbeiten. Über 70 Kapitel, Experten-Videos, Meditationen und Checklisten.</p>
-<p><strong>Warum sich das Bewerben lohnt:</strong></p>
-<ul>
-<li>Riesiges Zielgruppen-Reservoir: Die meisten Frauen mit erstem Kaiserschnitt bekommen erneut einen – und glauben fälschlich, sie bräuchten keine Vorbereitung mehr. Genau hier setzt der Kurs an.<br /><br /></li>
-<li>Eigenständige Kurs-Version neben dem Erstkurs – du kannst dieselbe Community mit zwei passgenauen Produkten bedienen.<br /><br /></li>
-<li>Etablierte Marke mit über 4.700 begleiteten Frauen und starker Instagram-Reichweite.<br /><br /></li>
-<li>20 % Provision auf ein hochwertiges Kursprodukt.</li>
-</ul>
-<p>Ideal für Affiliates mit Zugang zu Mehrfach-Mamas, Kaiserschnitt-Erfahrenen und Frauengesundheit.</p>
-<p> </p>
+**Vendor's marketplace description:** Kaiserschnitt-Kurs für die 2. oder 3. Geburt – große Zielgruppe, 20 % Provision Speziell für Schwangere, die bereits einen Kaiserschnitt hatten und beim nächsten Mal mehr wollen: eine selbstbestimmte, gesündere und positiv erlebte Geburt. Der Kurs zeigt, wie Frauen diesmal Nachteile und Risiken aktiv abfedern, Verbesserungen bei Schnittführung, Nähtechnik und Wundversorgung einfordern und frühere Erfahrungen verarbeiten. Über 70 Kapitel, Experten-Videos, Meditationen und Checklisten. Warum sich das Bewerben lohnt: Riesiges Zielgruppen-Reservoir: Die meisten Frauen mit erstem Kaiserschnitt bekommen erneut einen – und glauben fälschlich, sie bräuchten keine Vorbereitung mehr. Genau hier setzt der Kurs an. Eigenständige Kurs-Version neben dem Erstkurs – du kannst dieselbe Community mit zwei passgenauen Produkten bedienen. Etablierte Marke mit über 4.700 begleiteten Frauen und starker Instagram-Reichweite. 20 % Provision auf ein hochwertiges Kursprodukt. Ideal für Affiliates mit Zugang zu Mehrfach-Mamas, Kaiserschnitt-Erfahrenen und Frauengesundheit.
 
 ## 2. Links
 

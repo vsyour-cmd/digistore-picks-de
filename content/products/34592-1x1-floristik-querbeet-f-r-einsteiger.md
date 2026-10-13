@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dies ist das Kurspaket mit 5 floristischen Werkstücken.</p>
-<p>1x Straußbinden in der klassischen Spiraltechnik, die jedem gebundenen Strauß zugrunde liegt.</p>
-<p>1x Dekoratives Gesteck. Du lernst die Grundtechnik eines runden oder länglichen Gestecks.</p>
-<p>1x Klassischer Kranz. Diese Technik ist für jede Jahreszeit nutzbar. </p>
-<p>1x Formbinderei- gewickelte Kugel. Schnell zum Blickfang.</p>
-<p>1x Formbinderei- gestecktes Herz. Mit dieser Technik kommst du zur perfekten Form.</p>
+**Vendor's marketplace description:** Dies ist das Kurspaket mit 5 floristischen Werkstücken. 1x Straußbinden in der klassischen Spiraltechnik, die jedem gebundenen Strauß zugrunde liegt. 1x Dekoratives Gesteck. Du lernst die Grundtechnik eines runden oder länglichen Gestecks. 1x Klassischer Kranz. Diese Technik ist für jede Jahreszeit nutzbar. 1x Formbinderei- gewickelte Kugel. Schnell zum Blickfang. 1x Formbinderei- gestecktes Herz. Mit dieser Technik kommst du zur perfekten Form.
 
 ## 2. Links
 

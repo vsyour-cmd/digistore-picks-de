@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein praxisnaher Selbstlernkurs für Frauen, die ihre Selbstständigkeit strukturiert aufbauen möchten. Sechs Module führen von Vision und Geschäftsidee über Marke, Preise, Grundlagen und Marketing bis zum persönlichen Fahrplan. Enthalten sind über 200 Seiten Kursmaterial mit Arbeitsblättern, Checklisten, Reflexionsfragen und Planungsvorlagen.</p>
-<p>Drei Varianten stehen zur Auswahl: reines Kursmaterial (79 €), Kursmaterial mit einer 60-minütigen Startklar-Session (149 €) und Kursmaterial mit sechs persönlichen Modulbegleitungen (499 €).</p>
-<p>Geeignet für eine seriöse und wertschätzende Ansprache von Gründerinnen und Frauen in der beruflichen Neuorientierung. Bitte keine übertriebenen Erfolgs- oder Einkommensversprechen verwenden.</p>
+**Vendor's marketplace description:** Ein praxisnaher Selbstlernkurs für Frauen, die ihre Selbstständigkeit strukturiert aufbauen möchten. Sechs Module führen von Vision und Geschäftsidee über Marke, Preise, Grundlagen und Marketing bis zum persönlichen Fahrplan. Enthalten sind über 200 Seiten Kursmaterial mit Arbeitsblättern, Checklisten, Reflexionsfragen und Planungsvorlagen. Drei Varianten stehen zur Auswahl: reines Kursmaterial (79 €), Kursmaterial mit einer 60-minütigen Startklar-Session (149 €) und Kursmaterial mit sechs persönlichen Modulbegleitungen (499 €). Geeignet für eine seriöse und wertschätzende Ansprache von Gründerinnen und Frauen in der beruflichen Neuorientierung. Bitte keine übertriebenen Erfolgs- oder Einkommensversprechen verwenden.
 
 ## 2. Links
 

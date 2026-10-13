@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Dividenden Kurs von Finanz Kalkül bringt Einsteigern bei, wie sie sich Schritt für Schritt ein eigenes Dividenden-Depot und damit ein zweites, passives Einkommen aufbauen. </p>
-<p><strong>Für wen:</strong> finanzinteressierte Einsteiger, die mit Aktien und ETFs ein planbares Zusatzeinkommen wollen und ein klares vorgehen bei der Aktien/ETF bewertung/Auswahl suchen.</p>
-<p><strong>Sehr praxisorientiert:</strong> Statt trockener Theorie zeigt der Kurs Schritt für Schritt am echten Beispiel  Aktien suchen, mit echten Kennzahlen und Tools analysieren, bewerten und ein komplettes Depot bauen. Zum direkten Mitmachen.</p>
-<p><strong>Was drin ist:</strong> ein kompletter roter Faden in 7 Modulen – vom Fundament (Dividenden &amp; Kennzahlen verstehen) über die Analyse und Bewertung echter Aktien bis zum fertigen Depot und dem Verwalten inkl. Steuern. Bewusst nur die nötige Theorie, dafür jeder Schritt am realen Beispiel und zum Mitmachen. Am Ende steht ein eigenes, fertiges Dividenden Depot.</p>
-<p><strong>Warum es konvertiert:</strong></p>
-<ul>
-<li>Kein Theorie-Ballast: nur das nötige Wissen, konsequent auf das echte Depot ausgerichtet.</li>
-<li>Klarer roter Faden: Aktien &amp; ETFs finden → mit echten Kennzahlen analysieren → fair bewerten → Depot bauen → verwalten &amp; Steuern.</li>
-<li>Viel Praxis: reale Beispiele plus sofort nutzbares Material (Watchlists, Checklisten, 7-Kennzahlen-Spickzettel, Dividenden-Tracker).</li>
-</ul>
-<p> </p>
-<p>Werbematerial (Reels, Grafiken, Textbausteine) stelle ich auf Anfrage bereit. Ich freue mich auf die Zusammenarbeit!</p>
+**Vendor's marketplace description:** Der Dividenden Kurs von Finanz Kalkül bringt Einsteigern bei, wie sie sich Schritt für Schritt ein eigenes Dividenden-Depot und damit ein zweites, passives Einkommen aufbauen. Für wen: finanzinteressierte Einsteiger, die mit Aktien und ETFs ein planbares Zusatzeinkommen wollen und ein klares vorgehen bei der Aktien/ETF bewertung/Auswahl suchen. Sehr praxisorientiert: Statt trockener Theorie zeigt der Kurs Schritt für Schritt am echten Beispiel Aktien suchen, mit echten Kennzahlen und Tools analysieren, bewerten und ein komplettes Depot bauen. Zum direkten Mitmachen. Was drin ist: ein kompletter roter Faden in 7 Modulen – vom Fundament (Dividenden & Kennzahlen verstehen) über die Analyse und Bewertung echter Aktien bis zum fertigen Depot und dem Verwalten inkl. Steuern. Bewusst nur die nötige Theorie, dafür jeder Schritt am realen Beispiel und zum Mitmachen. Am Ende steht ein eigenes, fertiges Dividenden Depot. Warum es konvertiert: Kein Theorie-Ballast: nur das nötige Wissen, konsequent auf das echte Depot ausgerichtet. Klarer roter Faden: Aktien & ETFs finden → mit echten Kennzahlen analysieren → fair bewerten → Depot bauen → verwalten & Steuern. Viel Praxis: reale Beispiele plus sofort nutzbares Material (Watchlists, Checklisten, 7-Kennzahlen-Spickzettel, Dividenden-Tracker). Werbematerial (Reels, Grafiken, Textbausteine) stelle ich auf Anfrage bereit. Ich freue mich auf die Zusammenarbeit!
 
 ## 2. Links
 

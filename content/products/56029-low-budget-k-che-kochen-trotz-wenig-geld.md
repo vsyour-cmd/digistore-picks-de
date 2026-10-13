@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Verdiene 50 % Provision mit einem eBook, das wirklich gefragt ist!</strong></h3>
-<p><em>Low Budget Küche – Kochen trotz wenig Geld</em> ist ein praktischer, alltagstauglicher Ratgeber für alle, die sparen, besser essen und nachhaltiger leben möchten.</p>
-<ul>
-<li> Zielgruppe: Studierende, Familien, Berufstätige, Alleinerziehende, Senioren</li>
-<li> Hohe Nachfrage: Inflation &amp; Preisdruck machen günstige Ernährung topaktuell</li>
-<li> Inhalt mit echtem Mehrwert: 15 Rezepte, Wochenplan, Budgettipps, Nachhaltigkeit</li>
-<li> Professionelles Design &amp; leicht vermarktbar</li>
-<li> 50 % Provision pro Verkauf über Digistore24<br /><br /><br /></li>
-</ul>
-<p><span style="color:#339966;"><strong>Deine Käufer können den Rabattcode <span style="color:#0000ff;">LOW10</span> verwenden, damit diese bereits beim Kauf sparen können!</strong></span></p>
-<p> </p>
-<p><strong>Jetzt kostenlos anmelden, Affiliate‑Link sichern und direkt mitverdienen!</strong><br />Jeder, der Essen liebt, aber sparen möchte, ist potenzieller Käufer – das macht dieses eBook zu einem Dauerbrenner mit soliden Conversion‑Raten.</p>
+**Vendor's marketplace description:** Verdiene 50 % Provision mit einem eBook, das wirklich gefragt ist! Low Budget Küche – Kochen trotz wenig Geld ist ein praktischer, alltagstauglicher Ratgeber für alle, die sparen, besser essen und nachhaltiger leben möchten. Zielgruppe: Studierende, Familien, Berufstätige, Alleinerziehende, Senioren Hohe Nachfrage: Inflation & Preisdruck machen günstige Ernährung topaktuell Inhalt mit echtem Mehrwert: 15 Rezepte, Wochenplan, Budgettipps, Nachhaltigkeit Professionelles Design & leicht vermarktbar 50 % Provision pro Verkauf über Digistore24 Deine Käufer können den Rabattcode LOW10 verwenden, damit diese bereits beim Kauf sparen können! Jetzt kostenlos anmelden, Affiliate‑Link sichern und direkt mitverdienen! Jeder, der Essen liebt, aber sparen möchte, ist potenzieller Käufer – das macht dieses eBook zu einem Dauerbrenner mit soliden Conversion‑Raten.
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der komplette Leitfaden plus die Praxis-Vorlagen zum Ausdrucken: Fahrstunden-Dokumentationsbogen, Fahrschulvergleichs-Tabelle, Fristen-Kalender und die Bedienelemente-Checkliste mit 22 Blöcken. Dazu die Bonusse Fahrschul-Spickzettel und Eltern-Kapitel.</p>
+**Vendor's marketplace description:** Der komplette Leitfaden plus die Praxis-Vorlagen zum Ausdrucken: Fahrstunden-Dokumentationsbogen, Fahrschulvergleichs-Tabelle, Fristen-Kalender und die Bedienelemente-Checkliste mit 22 Blöcken. Dazu die Bonusse Fahrschul-Spickzettel und Eltern-Kapitel.
 
 ## 2. Links
 

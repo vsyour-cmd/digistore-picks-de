@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wer entscheidet was – und wie?</strong> In vielen Teams ist das nie klar dokumentiert, sondern<br />historisch gewachsen oder personenabhängig. Die NAVOK EntscheidungsLandkarte macht das<br />in einer Vorlage sichtbar: Entscheidungsrecht, Entscheidungsweg, Kriterien sowie<br />Delegation &amp; Eskalation – strukturiert in einem direkt einsetzbaren Template.</p>
-<p>Das zugrunde liegende Werkzeug stammt aus der Beratungspraxis und wurde dort bereits<br />vielfach erfolgreich eingesetzt.</p>
-<p><strong>Zielgruppe:</strong> Führungskräfte und Teams, die schnell Klarheit über eine konkrete<br />Entscheidungssituation brauchen, ohne gleich das komplette System einzuführen.</p>
-<p><strong>Für Sie als Affiliate:</strong> 50 % Provision. Ideal als niedrigschwelliger Einstiegspunkt für<br />Zielgruppen, die noch nicht bereit für das 229-€-Playbook sind.</p>
-<p>Digitaler Download, sofort verfügbar, ca. 2 Seiten.</p>
+**Vendor's marketplace description:** Wer entscheidet was – und wie? In vielen Teams ist das nie klar dokumentiert, sondern historisch gewachsen oder personenabhängig. Die NAVOK EntscheidungsLandkarte macht das in einer Vorlage sichtbar: Entscheidungsrecht, Entscheidungsweg, Kriterien sowie Delegation & Eskalation – strukturiert in einem direkt einsetzbaren Template. Das zugrunde liegende Werkzeug stammt aus der Beratungspraxis und wurde dort bereits vielfach erfolgreich eingesetzt. Zielgruppe: Führungskräfte und Teams, die schnell Klarheit über eine konkrete Entscheidungssituation brauchen, ohne gleich das komplette System einzuführen. Für Sie als Affiliate: 50 % Provision. Ideal als niedrigschwelliger Einstiegspunkt für Zielgruppen, die noch nicht bereit für das 229-€-Playbook sind. Digitaler Download, sofort verfügbar, ca. 2 Seiten.
 
 ## 2. Links
 

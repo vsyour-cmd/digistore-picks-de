@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>InstaBusiness - 75% Provision pro Verkauf!</strong></h3>
-<p><strong>Mit den neuesten Strategien und Werbemitteln kannst du hier täglich attraktive Provisionen verdienen..</strong></p>
-<p><span style="text-decoration:underline;"><strong>Provisionsmodell:</strong></span></p>
-<ul>
-<li>75% Provision auf das InstaBusiness - 15€</li>
-<li>50% Provision auf Upsells - 18€/18€</li>
-<li>20% Provision auf Order Bumps</li>
-</ul>
-<p><strong><span style="background-color:#ffff00;">Mit einem einzigen Verkauf kannst du 50€ verdienen!</span></strong></p>
-<p><strong><span style="text-decoration:underline;">2. Level Provisionen:</span></strong><br />Verdiene nochmal 20% passiv oben drauf, wenn ein von dir geworbener Affiliate etwas verkauft! (nur für Mitglieder)</p>
-<p><span style="background-color:#ff6600;color:#ffffff;"><a style="background-color:#ff6600;color:#ffffff;" href="https://t.me/+FcqlsbS4PSA4ZDZi" target="_blank" rel="noreferrer noopener"><strong>--&gt; Jetzt hier klicken und alle Infos &amp; News, sowie Tipps &amp; Tricks auf Telegram erhalten (KLICK)</strong></a></span></p>
-<p><strong><span style="color:#ff0000;">--&gt; <a style="color:#ff0000;" title="Hier gehts zur Partnerprogrammseite mit Werbemitteln!" href="https://www.instabusiness.org/partnerprogramm" target="_blank" rel="noreferrer noopener">Hier gehts zur Partnerprogrammseite mit Werbemitteln!</a></span></strong></p>
+**Vendor's marketplace description:** InstaBusiness - 75% Provision pro Verkauf! Mit den neuesten Strategien und Werbemitteln kannst du hier täglich attraktive Provisionen verdienen.. Provisionsmodell: 75% Provision auf das InstaBusiness - 15€ 50% Provision auf Upsells - 18€/18€ 20% Provision auf Order Bumps Mit einem einzigen Verkauf kannst du 50€ verdienen! 2. Level Provisionen: Verdiene nochmal 20% passiv oben drauf, wenn ein von dir geworbener Affiliate etwas verkauft! (nur für Mitglieder) --> Jetzt hier klicken und alle Infos & News, sowie Tipps & Tricks auf Telegram erhalten (KLICK) --> Hier gehts zur Partnerprogrammseite mit Werbemitteln!
 
 ## 2. Links
 

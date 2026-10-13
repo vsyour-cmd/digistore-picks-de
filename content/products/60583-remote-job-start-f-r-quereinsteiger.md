@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Fern &amp; Frei ist der ehrliche Einstieg in flexible Remote-Arbeit: drei ausführliche digitale Werkzeuge für Orientierung, Bewerbung und Jobsuche plus 30 Tage Zugang zum geprüften Fern &amp; Frei Radar auf Telegram. Für Menschen, die sich mehr Freiheit im Alltag wünschen – ohne leere Online-Business-Versprechen. Partner erhalten 50 % Provision auf die erfolgreiche Erstbestellung und auf die erfolgreichen Radar-Folgeraten.</p>
+**Vendor's marketplace description:** Fern & Frei ist der ehrliche Einstieg in flexible Remote-Arbeit: drei ausführliche digitale Werkzeuge für Orientierung, Bewerbung und Jobsuche plus 30 Tage Zugang zum geprüften Fern & Frei Radar auf Telegram. Für Menschen, die sich mehr Freiheit im Alltag wünschen – ohne leere Online-Business-Versprechen. Partner erhalten 50 % Provision auf die erfolgreiche Erstbestellung und auf die erfolgreichen Radar-Folgeraten.
 
 ## 2. Links
 

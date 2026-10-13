@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>EasyActivePlus - Mühelos zum Idealgewicht</h1>
-<p>Volker Knehr - seit 20 Jahren Trainer und Coach - hatte selbst lange Jahre 40 Kilo Übergewicht. Er probierte die gängigsten Methoden und Diäten aus und hatte auch immer wieder Erfolge. Doch sobald er mit den Programmen wieder aufhörte, kamen die Kilos zuverlässig wieder zurück.<br /><br /></p>
-<p>Anfang 2011 entdeckte er dann das Geheimnis aller "natürlich Schlanken" und begann – ausschließlich für sich selbst - ein Konzept zu basteln, um wirklich dauerhaft abzunehmen.<br /><br /></p>
-<p>Volker Knehr hat mit diesem Konzept selbst in kürzester Zeit 40 Kilo abgenommen und seit Jahren bleibt das Gewicht konstant. Er hat den einzig wahren Hauptdickmacher für Übergewicht entdeckt und auch, wie man diesen dauerhaft eliminiert. Und dieser Hauptdickmacher hat nichts mit Essen oder mangelnder Bewegung zu tun.<br /><br /></p>
-<p><strong>Die Folge dieses Prozesses:</strong><br />Essen können was man möchte, und dennoch dauerhaft schlank bleiben!<br /><br /></p>
-<p>Im Laufe der Zeit haben Hunderte dieses Konzept erfolgreich umgesetzt und jeder der sich an dieses einfache Konzept hält, erlebt dieselben Erfolge!</p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** EasyActivePlus - Mühelos zum Idealgewicht Volker Knehr - seit 20 Jahren Trainer und Coach - hatte selbst lange Jahre 40 Kilo Übergewicht. Er probierte die gängigsten Methoden und Diäten aus und hatte auch immer wieder Erfolge. Doch sobald er mit den Programmen wieder aufhörte, kamen die Kilos zuverlässig wieder zurück. Anfang 2011 entdeckte er dann das Geheimnis aller "natürlich Schlanken" und begann – ausschließlich für sich selbst - ein Konzept zu basteln, um wirklich dauerhaft abzunehmen. Volker Knehr hat mit diesem Konzept selbst in kürzester Zeit 40 Kilo abgenommen und seit Jahren bleibt das Gewicht konstant. Er hat den einzig wahren Hauptdickmacher für Übergewicht entdeckt und auch, wie man diesen dauerhaft eliminiert. Und dieser Hauptdickmacher hat nichts mit Essen oder mangelnder Bewegung zu tun. Die Folge dieses Prozesses: Essen können was man möchte, und dennoch dauerhaft schlank bleiben! Im Laufe der Zeit haben Hunderte dieses Konzept erfolgreich umgesetzt und jeder der sich an dieses einfache Konzept hält, erlebt dieselben Erfolge!
 
 ## 2. Links
 

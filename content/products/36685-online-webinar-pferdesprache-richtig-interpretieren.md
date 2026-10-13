@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Bequem von zu Hause aus lernen - unsere Online-Webinare machen es möglich!</strong> </p>
-<p><strong>Inhalt des Webinars:</strong> <strong>Was will mein Pferd mir sagen</strong><strong>?</strong></p>
-<p>Schon immer wünscht sich der Mensch, die Sprache der Pferde richtig zu verstehen und sich mit ihnen verständigen zu können. Es gibt mittlerweile weit über 170 Gesten, die in der Pferde-Kommunikation eine erhebliche Rolle spielen. </p>
-<p><strong>Wissen Sie was Ihnen Ihr Pferd gerade sagen will?</strong> </p>
-<p>Im Rahmen des Online Webinars <em>„<strong>Pferdesprache richtig interpretieren</strong>“</em> wird Martin Kreuzer mit den <strong>40 wichtigsten Gesten</strong> Antworten geben auf viele Konfliktsituationen, die im Pferdealltag auftreten können. Er wird den Teilnehmern ein geballtes Fachwissen an die Hand geben. </p>
-<p><strong>Online Webinar in 2 Teilen zu je ca. 1 Stunde. </strong><strong>Dieses Webinar ist eine Aufzeichnung - somit jederzeit und mehrfach abrufbar. </strong></p>
-<p><strong>Nach der Bestellung erhalten Sie direkt den Zugang zum Webinar.</strong></p>
-<p>Kosten: € 125,00 <br />für <strong>beide Video Sessions</strong></p>
-<p> </p>
-<p><strong>Widerrufsbelehrung für Download Artikel:</strong> Bitte beachten Sie, dass Sie mit dem Kauf dieses Download Artikels die MKA beauftragen, vor Ablauf der Widerrufsfrist den Kaufvertrag zu erfüllen und damit Ihr Rückgaberecht erlischt.</p>
+**Vendor's marketplace description:** Bequem von zu Hause aus lernen - unsere Online-Webinare machen es möglich! Inhalt des Webinars: Was will mein Pferd mir sagen ? Schon immer wünscht sich der Mensch, die Sprache der Pferde richtig zu verstehen und sich mit ihnen verständigen zu können. Es gibt mittlerweile weit über 170 Gesten, die in der Pferde-Kommunikation eine erhebliche Rolle spielen. Wissen Sie was Ihnen Ihr Pferd gerade sagen will? Im Rahmen des Online Webinars „ Pferdesprache richtig interpretieren “ wird Martin Kreuzer mit den 40 wichtigsten Gesten Antworten geben auf viele Konfliktsituationen, die im Pferdealltag auftreten können. Er wird den Teilnehmern ein geballtes Fachwissen an die Hand geben. Online Webinar in 2 Teilen zu je ca. 1 Stunde. Dieses Webinar ist eine Aufzeichnung - somit jederzeit und mehrfach abrufbar. Nach der Bestellung erhalten Sie direkt den Zugang zum Webinar. Kosten: € 125,00 für beide Video Sessions Widerrufsbelehrung für Download Artikel: Bitte beachten Sie, dass Sie mit dem Kauf dieses Download Artikels die MKA beauftragen, vor Ablauf der Widerrufsfrist den Kaufvertrag zu erfüllen und damit Ihr Rückgaberecht erlischt.
 
 ## 2. Links
 

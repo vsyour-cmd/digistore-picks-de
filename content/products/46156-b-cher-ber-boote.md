@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Bücher über Bootstechnik und Bootselektrik</h3>
-<p>Die Fachbücher von Michael Herrmann sind alle auf dem neuesten Stand der Technik. Besonders "Technik unter Deck", "Elektrik auf Yachten" und "Blitzschutz auf Yachten" werden nicht nur von Eignern kleiner Wasserfahrzeuge gern gelesen, sondern auch von Fachleuten als Nachschlagewerk und Informationsquelle benutzt. "Marinisierung" ist ein Muss für alle, die einen Motor an Bord haben.</p>
-<p> </p>
+**Vendor's marketplace description:** Bücher über Bootstechnik und Bootselektrik Die Fachbücher von Michael Herrmann sind alle auf dem neuesten Stand der Technik. Besonders "Technik unter Deck", "Elektrik auf Yachten" und "Blitzschutz auf Yachten" werden nicht nur von Eignern kleiner Wasserfahrzeuge gern gelesen, sondern auch von Fachleuten als Nachschlagewerk und Informationsquelle benutzt. "Marinisierung" ist ein Muss für alle, die einen Motor an Bord haben.
 
 ## 2. Links
 

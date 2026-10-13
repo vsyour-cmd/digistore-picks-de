@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><strong>Selbsthilfe im Alltag für dein Tier</strong></h1>
-<h3>Messen mit der Einhandrute / Tensor<br /><br />Ein sehr einfacher aber unheimlich effektiver Weg für die <strong>Selbsthilfe im Alltag</strong>!</h3>
-<p>Wenn du unabhängig und selbstbestimmt herausfinden möchtest, was für dein Tier gut ist, ist dieses Online-Seminar genau das richtige für dich!</p>
-<p>Jedes Tier und jede Pflanze, sprich jedes Lebewesen, hat eine eigene energetische Schwingungen.</p>
-<p>Diese Schwingung kann man in unserem Energiefeld, der Aura, anhand der Einhandrute messen bzw. sichtbar machen.</p>
-<p>Ich zeige dir wie du mit der Einhandrute die Schwingungen im Energiefeld von deinem Tier, in einem Raum oder an einem beliebigen Platz messen kannst, um festzustellen, ob sie im Einklang sind, oder ob sie eine Störung aufweisen.</p>
-<p>Ist die Schwingung in der Aura in Harmonie, so ist das Tier energetisch gesund.</p>
-<p>Du lernst wie du die einzelnen Chakren deines Tieres austesten kannst, ob es irgendwo energetische Blockaden gibt und wie man diese gleich im Anschluss ausgleichen kann.</p>
-<p>In diesem Seminar bekommst du Informationen über die Körblerzeichen und deren vielseitige Einsatzmöglichkeiten wie z.B.</p>
-<p>– bei körperlichen Beschwerden<br /> – bei Zecken und Flöhen<br /> – bei Unverträglichkeiten zwischen Tieren  und wie wir diese harmonisieren können</p>
-<p>Mit diesem einmaligen Messinstrument (dem Tensor) erlernst du leicht, schnell und einfach wie du selbst herausfinden kannst welches</p>
-<p>*Futtermittel<br />*Bachblüten <br />*Globuli <br /><br />für dein Tier genau die Richtigen sind bzw. auf was dein Tier evtl. mit einer Unverträglichkeit reagieren könnte.</p>
-<p>Sowohl die genaue Dosierungseinheit wie auch der Einnahmezeitpunkt kann exakt ermittelt werden.</p>
-<p><em>„Lt. Paracelsus sind Schlafplätze auf geologischen Störfeldern das sicherste Mittel, seine Gesundheit zu ruinieren.“</em></p>
-<p>Aus diesem Grund sollten wir auch ein Augenmerk auf den Schlafplatz unseres Tieres legen und austesten, ob er gut geeignet ist.</p>
-<p>Liegt das Tier evtl. jede Nacht auf einer Wasserader?<br /> Kann sich das störend auf unser Tier auswirken?<br /> Wo ist z.B. der Unterschied bei Katze und Hund?</p>
-<p>Möchtest du mehr über die vielen Einsatzmöglichkeiten der Einhandrute erfahren?</p>
-<p>Wenn du neugierig bist und für dein Tier nur das Beste willst, dann ist dieses Online-Seminar genau das Richtige für dich und ein Tier!</p>
+**Vendor's marketplace description:** Selbsthilfe im Alltag für dein Tier Messen mit der Einhandrute / Tensor Ein sehr einfacher aber unheimlich effektiver Weg für die Selbsthilfe im Alltag ! Wenn du unabhängig und selbstbestimmt herausfinden möchtest, was für dein Tier gut ist, ist dieses Online-Seminar genau das richtige für dich! Jedes Tier und jede Pflanze, sprich jedes Lebewesen, hat eine eigene energetische Schwingungen. Diese Schwingung kann man in unserem Energiefeld, der Aura, anhand der Einhandrute messen bzw. sichtbar machen. Ich zeige dir wie du mit der Einhandrute die Schwingungen im Energiefeld von deinem Tier, in einem Raum oder an einem beliebigen Platz messen kannst, um festzustellen, ob sie im Einklang sind, oder ob sie eine Störung aufweisen. Ist die Schwingung in der Aura in Harmonie, so ist das Tier energetisch gesund. Du lernst wie du die einzelnen Chakren deines Tieres austesten kannst, ob es irgendwo energetische Blockaden gibt und wie man diese gleich im Anschluss ausgleichen kann. In diesem Seminar bekommst du Informationen über die Körblerzeichen und deren vielseitige Einsatzmöglichkeiten wie z.B. – bei körperlichen Beschwerden – bei Zecken und Flöhen – bei Unverträglichkeiten zwischen Tieren und wie wir diese harmonisieren können Mit diesem einmaligen Messinstrument (dem Tensor) erlernst du leicht, schnell und einfach wie du selbst herausfinden kannst welches *Futtermittel *Bachblüten *Globuli für dein Tier genau die Richtigen sind bzw. auf was dein Tier evtl. mit einer Unverträglichkeit reagieren könnte. Sowohl die genaue Dosierungseinheit wie auch der Einnahmezeitpunkt kann exakt ermittelt werden. „Lt. Paracelsus sind Schlafplätze auf geologischen Störfeldern das sicherste Mittel, seine Gesundheit zu ruinieren.“ Aus diesem Grund sollten wir auch ein Augenmerk auf den Schlafplatz unseres Tieres legen und austesten, ob er gut geeignet ist. Liegt das Tier evtl. jede Nacht auf einer Wasserader? Kann sich das störend auf unser Tier auswirken? Wo ist z.B. der Unterschied bei Katze und Hund? Möchtest du mehr über die vielen Einsatzmöglichkeiten der Einhandrute erfahren? Wenn du neugierig bist und für dein Tier nur das Beste willst, dann ist dieses Online-Seminar genau das Richtige für dich und ein Tier!
 
 ## 2. Links
 

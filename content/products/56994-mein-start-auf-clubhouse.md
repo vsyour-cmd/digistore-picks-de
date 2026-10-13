@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Von der ersten Anmeldung zum regelmäßigen Room-Auftritt, der Eindruck hinterlässt</strong></p>
-<p>Du hast von Clubhouse gehört und willst endlich wissen, wie du diese Live-Audio-Plattform für dich nutzt? Dieses E-Book führt dich Schritt für Schritt durch alles, was du als Neuling brauchst: von der Profil-Einrichtung über das Verstehen der Room-Dynamik bis zu deinen ersten Wortmeldungen auf der Bühne. Du lernst, wie Clubs und wiederkehrende Talks funktionieren, wie du in Rooms Netzwerke knüpfst, ohne aufdringlich zu wirken, und wie du deine Stimme so einsetzt, dass andere zuhören wollen. Kein technisches Vorwissen nötig – nur dein Smartphone und die Bereitschaft, dich zu zeigen. Nach der Lektüre weißt du nicht nur, wie Clubhouse funktioniert, sondern hast bereits deinen ersten eigenen Room geplant und eine klare Strategie für die ersten 30 Tage.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Profil-Optimierung: Bio, Foto und Interessen richtig einrichten</li>
-<li>Rooms verstehen: Moderatoren, Speaker und Zuhörer im Überblick</li>
-<li>Dein erster Wortbeitrag auf der Bühne – so klingst du souverän</li>
-<li>Clubs beitreten, folgen und für deine Nische nutzen</li>
-<li>Wiederkehrende Talks planen und als feste Anlaufstelle aufbauen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Von der ersten Anmeldung zum regelmäßigen Room-Auftritt, der Eindruck hinterlässt Du hast von Clubhouse gehört und willst endlich wissen, wie du diese Live-Audio-Plattform für dich nutzt? Dieses E-Book führt dich Schritt für Schritt durch alles, was du als Neuling brauchst: von der Profil-Einrichtung über das Verstehen der Room-Dynamik bis zu deinen ersten Wortmeldungen auf der Bühne. Du lernst, wie Clubs und wiederkehrende Talks funktionieren, wie du in Rooms Netzwerke knüpfst, ohne aufdringlich zu wirken, und wie du deine Stimme so einsetzt, dass andere zuhören wollen. Kein technisches Vorwissen nötig – nur dein Smartphone und die Bereitschaft, dich zu zeigen. Nach der Lektüre weißt du nicht nur, wie Clubhouse funktioniert, sondern hast bereits deinen ersten eigenen Room geplant und eine klare Strategie für die ersten 30 Tage. Das steckt drin: Profil-Optimierung: Bio, Foto und Interessen richtig einrichten Rooms verstehen: Moderatoren, Speaker und Zuhörer im Überblick Dein erster Wortbeitrag auf der Bühne – so klingst du souverän Clubs beitreten, folgen und für deine Nische nutzen Wiederkehrende Talks planen und als feste Anlaufstelle aufbauen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

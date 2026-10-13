@@ -41,55 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Ein umfassender Onlinekurs, der dich Schritt für Schritt von der Vision bis zur Umsetzung deiner Hochzeit führt.</strong></p>
-<p> </p>
-<p><strong>Vier Themenblöcke, praxisnah erklärt</strong> – damit der Tag unvergesslich wird und du entspannt feiern kannst.</p>
-<p><strong>Zielgruppe:</strong></p>
-<ul>
-<li>Paare, die ihre Hochzeit selbst planen</li>
-<li>Event-Interessierte, die eine stilvolle, gut organisierte Hochzeit anstreben</li>
-</ul>
-<p><strong>Lernziele:</strong></p>
-<ul>
-<li>Eine klare Hochzeitsvision entwickeln und realistisch umsetzen</li>
-<li>Passende Dienstleister finden, beurteilen und koordinieren</li>
-<li>Detailreiche Planung erstellen und Zeitpläne sicher managen</li>
-<li>Dienstleister im Detail auswählen und effektiv einbinden</li>
-</ul>
-<p> </p>
-<p><strong>Format und Inhalte:</strong></p>
-<ul>
-<li>
-<ol>
-<li><strong>Vision &amp; Start:</strong> Zielbild definieren, Moodboard, Location finden, Zeitplan-Grundgerüst bilden<br /><br /></li>
-<li><strong>Dienstleister &amp; Services:</strong> Bedarfsermittlung, Kriterienkatalog, Alternativ-Vorschläge</li>
-<li><strong>Detail-Planung:</strong> Ablaufplan verfeinern, Dekorationskonzept entwickeln, Anlegen von relevanten Listen<br /><br /></li>
-<li><strong>Dienstleister im Detail</strong>: Detaillierte Besprechungen mit Dienstleistern<br /><br /></li>
-</ol>
-</li>
-<li><strong>Format</strong>: Video-Tutorials</li>
-<li><strong>Zugang</strong>: Onlinezugang zu den Videos, <strong>für ein Jahr jederzeit abrufbar</strong><br /><br /></li>
-</ul>
-<p><strong>Vorteile:</strong></p>
-<ul>
-<li>Klar strukturierte Roadmap von der Vision bis zum großen Tag</li>
-<li>Mehr Sicherheit durch klare Kommunikation mit Dienstleistern</li>
-<li>Weniger Stress durch proaktive Detail-Planung </li>
-</ul>
-<p><strong><br />Dauer &amp; Ressourcen</strong>:</p>
-<ul>
-<li>Gesamtdauer: flexibel, ca. 3 Lernzeit (je nach Tempo)</li>
-<li>Zugriff für ein Jahr, regelmäßige Updates<br /><br /></li>
-</ul>
-<p><strong>Ergebnis:</strong></p>
-<ul>
-<li>Eine individuelle Hochzeitsplanung, die euren Stil widerspiegelt</li>
-<li>Eine konkrete, umsetzbare Timeline</li>
-<li>Ein gut durchdachtes Paket aus Dienstleistern mit klaren Rollen</li>
-</ul>
-<p> </p>
-<p><br />Bereit, eure Traumhochzeit zu planen und eure Visionen zu realisieren? <strong>Jetzt Kurs ansehen und durchstarten!</strong></p>
-<p> </p>
+**Vendor's marketplace description:** Ein umfassender Onlinekurs, der dich Schritt für Schritt von der Vision bis zur Umsetzung deiner Hochzeit führt. Vier Themenblöcke, praxisnah erklärt – damit der Tag unvergesslich wird und du entspannt feiern kannst. Zielgruppe: Paare, die ihre Hochzeit selbst planen Event-Interessierte, die eine stilvolle, gut organisierte Hochzeit anstreben Lernziele: Eine klare Hochzeitsvision entwickeln und realistisch umsetzen Passende Dienstleister finden, beurteilen und koordinieren Detailreiche Planung erstellen und Zeitpläne sicher managen Dienstleister im Detail auswählen und effektiv einbinden Format und Inhalte: Vision & Start: Zielbild definieren, Moodboard, Location finden, Zeitplan-Grundgerüst bilden Dienstleister & Services: Bedarfsermittlung, Kriterienkatalog, Alternativ-Vorschläge Detail-Planung: Ablaufplan verfeinern, Dekorationskonzept entwickeln, Anlegen von relevanten Listen Dienstleister im Detail : Detaillierte Besprechungen mit Dienstleistern Format : Video-Tutorials Zugang : Onlinezugang zu den Videos, für ein Jahr jederzeit abrufbar Vorteile: Klar strukturierte Roadmap von der Vision bis zum großen Tag Mehr Sicherheit durch klare Kommunikation mit Dienstleistern Weniger Stress durch proaktive Detail-Planung Dauer & Ressourcen : Gesamtdauer: flexibel, ca. 3 Lernzeit (je nach Tempo) Zugriff für ein Jahr, regelmäßige Updates Ergebnis: Eine individuelle Hochzeitsplanung, die euren Stil widerspiegelt Eine konkrete, umsetzbare Timeline Ein gut durchdachtes Paket aus Dienstleistern mit klaren Rollen Bereit, eure Traumhochzeit zu planen und eure Visionen zu realisieren? Jetzt Kurs ansehen und durchstarten!
 
 ## 2. Links
 

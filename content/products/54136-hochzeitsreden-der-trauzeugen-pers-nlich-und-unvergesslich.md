@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Unser umfassender Hochzeitsratgeber (über 220 Seiten) unterstützt Trauzeugen, Geschwister, Verwandte und Freunde dabei, eine unvergessliche Hochzeitsrede zu halten. Enthalten sind <strong>30+ inspirierende Redebeispiele, praxisnahe Tipps, KI-Vorlagen, Checklisten und exklusive Bonus-Gutscheine</strong>.</p>
-<p>Hochzeiten bleiben immer aktuell, die Zielgruppe ist breit gefächert und die Nachfrage konstant. Durch den direkten PDF-Download entfallen Wartezeiten oder Versand – ideal für deine Community.</p>
+**Vendor's marketplace description:** Unser umfassender Hochzeitsratgeber (über 220 Seiten) unterstützt Trauzeugen, Geschwister, Verwandte und Freunde dabei, eine unvergessliche Hochzeitsrede zu halten. Enthalten sind 30+ inspirierende Redebeispiele, praxisnahe Tipps, KI-Vorlagen, Checklisten und exklusive Bonus-Gutscheine . Hochzeiten bleiben immer aktuell, die Zielgruppe ist breit gefächert und die Nachfrage konstant. Durch den direkten PDF-Download entfallen Wartezeiten oder Versand – ideal für deine Community.
 
 ## 2. Links
 

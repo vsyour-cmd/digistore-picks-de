@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Die Tennis Bibel des Amateursports</h1>
-<h2>Ein eBook für jeden ambitionierten Tennisspieler im Amateurbereich!</h2>
-<p>Liebe Affiliates. Mein Name ist Ronny Schneider. Ich komme aus dem schönen Hannover. Meine große Leidenschaft ist das Tennis spielen.</p>
-<p>Wenngleich ich definitiv kein Tennis Profi werde, habe ich dennoch einen hohen Anspruch an mich selbst. Auf dem Tennisplatz und abseits davon. Ich würde mich eher alls Hobby- bzw. Turnierspieler bezeichnen. Nach über 15 Jahren weiß ich etwas mit dem gelben Filz anzufangen. Reicht das um hochklassig zu spielen? Wohl eher nicht.</p>
-<p>Aber warum sollen Hobbyspieler nicht genauso Ambitionen haben. Um im Tennis besser zu werden. Genau aus diesem Blickwinkel ist mein Tennis eBook geschrieben und richtet sich an Tennisspieler, die ihr Spiel verbessern wollen. Auf über 500 Seiten zeige ich Tipps, Tricks, Taktiken, Trainingsmethoden und Spielzüge. Damit die Leser mehr Matches gewinnen können.</p>
-<p>Ich würde mich freuen, wenn ihr mein eBook bewerben würdet. Lasst uns gemeinsam etwas Geld verdienen. Dabei aber meine Amateurspieler Geschichte in die Welt tragen!</p>
+**Vendor's marketplace description:** Die Tennis Bibel des Amateursports Ein eBook für jeden ambitionierten Tennisspieler im Amateurbereich! Liebe Affiliates. Mein Name ist Ronny Schneider. Ich komme aus dem schönen Hannover. Meine große Leidenschaft ist das Tennis spielen. Wenngleich ich definitiv kein Tennis Profi werde, habe ich dennoch einen hohen Anspruch an mich selbst. Auf dem Tennisplatz und abseits davon. Ich würde mich eher alls Hobby- bzw. Turnierspieler bezeichnen. Nach über 15 Jahren weiß ich etwas mit dem gelben Filz anzufangen. Reicht das um hochklassig zu spielen? Wohl eher nicht. Aber warum sollen Hobbyspieler nicht genauso Ambitionen haben. Um im Tennis besser zu werden. Genau aus diesem Blickwinkel ist mein Tennis eBook geschrieben und richtet sich an Tennisspieler, die ihr Spiel verbessern wollen. Auf über 500 Seiten zeige ich Tipps, Tricks, Taktiken, Trainingsmethoden und Spielzüge. Damit die Leser mehr Matches gewinnen können. Ich würde mich freuen, wenn ihr mein eBook bewerben würdet. Lasst uns gemeinsam etwas Geld verdienen. Dabei aber meine Amateurspieler Geschichte in die Welt tragen!
 
 ## 2. Links
 

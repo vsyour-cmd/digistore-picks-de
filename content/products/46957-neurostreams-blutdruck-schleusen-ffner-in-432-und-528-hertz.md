@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Normalisieren</strong> Sie Ihren Blutdruck ohne Medikamente - mit 13 akustischen Selbstbehandlungen.</p>
-<p>Einfach Kopfhörer aufsetzen, und in Ruhe ganz bequem zuhören...</p>
-<p>Sie erhalten einen Sofort-Download, bestehend aus 13 blutdrucksenkenden Neurostreams™-Musikstücken (im besten MP3-Format, insgesamt 900 MB).</p>
-<ul>
-<li>7 Tracks in 432 Hertz (je 30 min.)</li>
-<li>3 Tracks in 432 Hertz (je 23 min. - kurze Versionen)</li>
-<li>3 Tracks in 528 Hertz (je 30 min.)</li>
-</ul>
-<p>Die Blutdruck-Schleusenöffner-Dateien können Sie auf jedes Gerät herunterladen und <strong>beliebig oft anhören</strong>: Computer, Laptop, Netbook, Tablet, iPad, SmartPhone, iPhone, Android - egal ob Windows, Mac, Linux etc.</p>
-<p><strong>Inklusive Benutzerhandbuch </strong>als PDF.</p>
-<p>Alle Neurostreams™ sind auf mehrere Abspielgeräte übertragbar und können beliebig oft angehört werden!</p>
-<p><strong>30-Tage</strong>-Geld-zurück-Garantie. </p>
-<p><strong>2 Jahre </strong>Produktsupport inklusive.</p>
-<p><strong>Datenschutz:</strong> Was mit Ihren Bestelldaten bei mir geschieht, lesen Sie in meiner <a href="https://www.neurostreams.de/datenschutz/#digistore24" target="_blank" rel="noreferrer noopener">Datenschutzerklärung</a>.</p>
+**Vendor's marketplace description:** Normalisieren Sie Ihren Blutdruck ohne Medikamente - mit 13 akustischen Selbstbehandlungen. Einfach Kopfhörer aufsetzen, und in Ruhe ganz bequem zuhören... Sie erhalten einen Sofort-Download, bestehend aus 13 blutdrucksenkenden Neurostreams™-Musikstücken (im besten MP3-Format, insgesamt 900 MB). 7 Tracks in 432 Hertz (je 30 min.) 3 Tracks in 432 Hertz (je 23 min. - kurze Versionen) 3 Tracks in 528 Hertz (je 30 min.) Die Blutdruck-Schleusenöffner-Dateien können Sie auf jedes Gerät herunterladen und beliebig oft anhören : Computer, Laptop, Netbook, Tablet, iPad, SmartPhone, iPhone, Android - egal ob Windows, Mac, Linux etc. Inklusive Benutzerhandbuch als PDF. Alle Neurostreams™ sind auf mehrere Abspielgeräte übertragbar und können beliebig oft angehört werden! 30-Tage -Geld-zurück-Garantie. 2 Jahre Produktsupport inklusive. Datenschutz: Was mit Ihren Bestelldaten bei mir geschieht, lesen Sie in meiner Datenschutzerklärung .
 
 ## 2. Links
 

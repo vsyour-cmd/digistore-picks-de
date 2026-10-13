@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>Helfen Sie Ihren Kunden, Followern und Mandanten, ihr digitales Erbe, ihre Konten, Abos und Verträge im Ernstfall rechtssicher abzusichern. </div>
-<div> </div>
-<div>Der „Digitale Notfall-Kompass“ löst das akute Problem der ersten 72 Stunden beim Ausfall einer Person (z.B. durch plötzlichen Todesfall oder Pflegebedürftigkeit) und schützt Angehörige vor dem digitalen Chaos.</div>
-<div> </div>
-<div>- Zielgruppe: Alle, die digitale Werte, Accounts und Verträge besitzen.</div>
-<div>- Produkt: Sofort einsatzbereites, digitales Praxishandbuch (PDF).</div>
-<div>- Provisions-Highlight: Attraktive Provision auf ein hochrelevantes, unbesetztes Zukunfts- und Sicherheitsthema!</div>
+**Vendor's marketplace description:** Helfen Sie Ihren Kunden, Followern und Mandanten, ihr digitales Erbe, ihre Konten, Abos und Verträge im Ernstfall rechtssicher abzusichern. Der „Digitale Notfall-Kompass“ löst das akute Problem der ersten 72 Stunden beim Ausfall einer Person (z.B. durch plötzlichen Todesfall oder Pflegebedürftigkeit) und schützt Angehörige vor dem digitalen Chaos. - Zielgruppe: Alle, die digitale Werte, Accounts und Verträge besitzen. - Produkt: Sofort einsatzbereites, digitales Praxishandbuch (PDF). - Provisions-Highlight: Attraktive Provision auf ein hochrelevantes, unbesetztes Zukunfts- und Sicherheitsthema!
 
 ## 2. Links
 

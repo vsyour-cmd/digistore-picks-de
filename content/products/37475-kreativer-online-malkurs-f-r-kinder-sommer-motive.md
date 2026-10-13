@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Kolibri School ist eine <strong>online Malschule für Kinder</strong>, in der jedes Kind ab 6 ganz einfach und praktisch von zu Hause malen lernen kann.</p>
-<p>In dem Malkurs "Sommer Motive" lernen die Kinder <strong>6 verschiedene Sommerbilder in Acryl und Aquarell</strong> zu malen. </p>
-<p>Du hast als Zielgruppe <strong>Eltern mit Kindern im Alter von 6 bis 10</strong> und Lust unseren Malkurs zu präsentieren, dann melde dich als Affliate bei uns an.</p>
-<p><strong>Zum Produkt:</strong></p>
-<ul>
-<li>6 Video Malkurse je ca 25 Min</li>
-<li>6 selbstgemalte Bilder in Acryl und Aquarell</li>
-<li>kindergerechte und pädagogisch aufbereitete Schritt-für-Schritt-Anleitung</li>
-<li>geeignet für Kinder ab 6 Jahren</li>
-<li>von Profi-Künstlerin erstellt</li>
-<li>90 Tage lang zugang zu dem Malkurs</li>
-</ul>
-<p><strong>Deine Vorteile:</strong></p>
-<ul>
-<li>20% Provision pro Verkauf</li>
-<li>Hochwertiges Produkt zum atraktiven Preis</li>
-<li>zufriedene Kunden</li>
-<li>sicheres Partnerprogram verwaltet durch Digistore24</li>
-<li>perfekte Nische, kaum Wettbewerb</li>
-<li>Werbemittel nach Anfrage</li>
-</ul>
-<p> </p>
-<p>Bei weiteren Fragen stehen wir gerne per E-mail <a>kunst@kolibri-school.de</a> zur Verfügung.</p>
+**Vendor's marketplace description:** Kolibri School ist eine online Malschule für Kinder , in der jedes Kind ab 6 ganz einfach und praktisch von zu Hause malen lernen kann. In dem Malkurs "Sommer Motive" lernen die Kinder 6 verschiedene Sommerbilder in Acryl und Aquarell zu malen. Du hast als Zielgruppe Eltern mit Kindern im Alter von 6 bis 10 und Lust unseren Malkurs zu präsentieren, dann melde dich als Affliate bei uns an. Zum Produkt: 6 Video Malkurse je ca 25 Min 6 selbstgemalte Bilder in Acryl und Aquarell kindergerechte und pädagogisch aufbereitete Schritt-für-Schritt-Anleitung geeignet für Kinder ab 6 Jahren von Profi-Künstlerin erstellt 90 Tage lang zugang zu dem Malkurs Deine Vorteile: 20% Provision pro Verkauf Hochwertiges Produkt zum atraktiven Preis zufriedene Kunden sicheres Partnerprogram verwaltet durch Digistore24 perfekte Nische, kaum Wettbewerb Werbemittel nach Anfrage Bei weiteren Fragen stehen wir gerne per E-mail kunst@kolibri-school.de zur Verfügung.
 
 ## 2. Links
 

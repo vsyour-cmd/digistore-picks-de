@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<p><strong>Erweitere dein BewusstSEIN und öffne dein drittes Auge</strong></p>
-<p>von Kaya D. und Suma (Simhika Devi)</p>
-<p>ein Videokurs mit praktischen und effektiven Übungsanleitungen!</p>
-<p>Teil 1 der kommenden Videokurs Reihe</p>
-<p>Dauer: 40:52 Min.</p>
-<p>Dieser Selbstlern-Videokurs beinhaltet nicht nur sofort anwendbare praktische Übungsanleitungen, sondern kann Dich durch das Zusammenspiel von Bild und Ton in einen höheren und erweiterten Bewusstseinszustand führen.<br />Die Übungen sind einfach auszuführen, doch sehr wirkungsvoll, und haben, zum Teil, ihren Ursprung in spirituellen Traditionen. Alle Übungen in diesem Kurs wurden von den Medien und Buchautoren Kaya D. und Suma (Simhika Devi) selbst erprobt und für sinnvoll und effektiv erachtet, um in einen erweiterten Bewusstseinszustańd zu gelangen und die eigenen Hellsinne zu aktivieren.</p>
-<p>Weiterführende Infos zu den Büchern von Kaya und Suma (Simhika Devi) und mehr findet Ihr auf unserer Webseite: <a>www.keyanu-erstkontakt.org</a></p>
-<p>Dieser Video Kurs ist zum leichteren und schnelleren Download in 4 Teilen herunterzuladen, in Form von komprimierten Zip-Dateien. Diese nach dem Download bitte entpacken!!</p>
-<p>Für technische Fragen zum Download eine Mail an die in der Bestellbestätigung hinterlegte Support Email Adresse senden.</p>
-<p>Dieses Produkt wird als Video zum Download zu max. 10 Downloads für 12 Monate ab der Bestellung bereitgestellt. </p>
-</div>
-<div>Digitaler Download - kein Versand</div>
+**Vendor's marketplace description:** Erweitere dein BewusstSEIN und öffne dein drittes Auge von Kaya D. und Suma (Simhika Devi) ein Videokurs mit praktischen und effektiven Übungsanleitungen! Teil 1 der kommenden Videokurs Reihe Dauer: 40:52 Min. Dieser Selbstlern-Videokurs beinhaltet nicht nur sofort anwendbare praktische Übungsanleitungen, sondern kann Dich durch das Zusammenspiel von Bild und Ton in einen höheren und erweiterten Bewusstseinszustand führen. Die Übungen sind einfach auszuführen, doch sehr wirkungsvoll, und haben, zum Teil, ihren Ursprung in spirituellen Traditionen. Alle Übungen in diesem Kurs wurden von den Medien und Buchautoren Kaya D. und Suma (Simhika Devi) selbst erprobt und für sinnvoll und effektiv erachtet, um in einen erweiterten Bewusstseinszustańd zu gelangen und die eigenen Hellsinne zu aktivieren. Weiterführende Infos zu den Büchern von Kaya und Suma (Simhika Devi) und mehr findet Ihr auf unserer Webseite: www.keyanu-erstkontakt.org Dieser Video Kurs ist zum leichteren und schnelleren Download in 4 Teilen herunterzuladen, in Form von komprimierten Zip-Dateien. Diese nach dem Download bitte entpacken!! Für technische Fragen zum Download eine Mail an die in der Bestellbestätigung hinterlegte Support Email Adresse senden. Dieses Produkt wird als Video zum Download zu max. 10 Downloads für 12 Monate ab der Bestellung bereitgestellt. Digitaler Download - kein Versand
 
 ## 2. Links
 

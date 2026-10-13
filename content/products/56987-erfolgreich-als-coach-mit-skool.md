@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du auf Skool eine kostenpflichtige Membership aufbaust, Kurse verkaufst und Kunden langfristig bindest</strong></p>
-<p>Als Coach brauchst du mehr als ein gutes Angebot – du brauchst eine Infrastruktur, die Vertrauen aufbaut, Kunden bindet und planbar Einnahmen erzeugt. Skool bietet dir genau das: Community, Kurse und Gamification in einer Plattform. Dieses E-Book zeigt dir, wie du eine kostenpflichtige Membership aufbaust, die Mitglieder Monat für Monat erneuern, wie du deinen Classroom so strukturierst, dass Kurse wirklich durchgezogen werden, und wie Gamification mit Leaderboard und Levels Engagement und Loyalität erzeugt. Du lernst außerdem, wie du deine Community von außen befüllst – mit Content, Funnels und einer klaren Positionierung. Das Ergebnis: ein skalierbares Coaching-Business, das nicht von einzelnen 1:1-Stunden abhängt.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Kostenpflichtige Membership einrichten und Preisgestaltung strategisch wählen</li>
-<li>Classroom-Struktur, die Kunden durch dein Programm führt statt zu überfordern</li>
-<li>Gamification als Bindungs-Hebel: Levels und Leaderboard für deine Kurs-Teilnehmer</li>
-<li>Onboarding-Flow, der neue Mitglieder sofort aktiviert und Stornos reduziert</li>
-<li>Community-Aktivität steuern: Diskussionen, Challenges und wöchentliche Rituale</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du auf Skool eine kostenpflichtige Membership aufbaust, Kurse verkaufst und Kunden langfristig bindest Als Coach brauchst du mehr als ein gutes Angebot – du brauchst eine Infrastruktur, die Vertrauen aufbaut, Kunden bindet und planbar Einnahmen erzeugt. Skool bietet dir genau das: Community, Kurse und Gamification in einer Plattform. Dieses E-Book zeigt dir, wie du eine kostenpflichtige Membership aufbaust, die Mitglieder Monat für Monat erneuern, wie du deinen Classroom so strukturierst, dass Kurse wirklich durchgezogen werden, und wie Gamification mit Leaderboard und Levels Engagement und Loyalität erzeugt. Du lernst außerdem, wie du deine Community von außen befüllst – mit Content, Funnels und einer klaren Positionierung. Das Ergebnis: ein skalierbares Coaching-Business, das nicht von einzelnen 1:1-Stunden abhängt. Das steckt drin: Kostenpflichtige Membership einrichten und Preisgestaltung strategisch wählen Classroom-Struktur, die Kunden durch dein Programm führt statt zu überfordern Gamification als Bindungs-Hebel: Levels und Leaderboard für deine Kurs-Teilnehmer Onboarding-Flow, der neue Mitglieder sofort aktiviert und Stornos reduziert Community-Aktivität steuern: Diskussionen, Challenges und wöchentliche Rituale Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

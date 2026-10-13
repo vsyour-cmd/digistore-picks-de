@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mehr als 20.000 Menschen haben seit 2004 mit dem erfolgreichen Seminar <strong>Nichtraucher in 5 Stunden</strong> von Arzt und <strong>TV-Coach Dr. Stefan Frädrich</strong> das Rauchen aufgegeben und sind dauerhaft Nichtraucher geblieben. Ohne Entzugserscheinungen, ohne zuzunehmen und ohne Hilfsmittel wie Hypnose, Nikotinpflaster, Akupunktur etc.</p>
-<p>Sie bewerben ein Video-Seminar, welches eine Live-Aufnahme eines Seminars darstellt.</p>
-<p>Hier die Landingpage: <a href="http://nichtraucher-in-5-stunden.at/" target="_blank">http://nichtraucher-in-5-stunden.at/</a></p>
+**Vendor's marketplace description:** Mehr als 20.000 Menschen haben seit 2004 mit dem erfolgreichen Seminar Nichtraucher in 5 Stunden von Arzt und TV-Coach Dr. Stefan Frädrich das Rauchen aufgegeben und sind dauerhaft Nichtraucher geblieben. Ohne Entzugserscheinungen, ohne zuzunehmen und ohne Hilfsmittel wie Hypnose, Nikotinpflaster, Akupunktur etc. Sie bewerben ein Video-Seminar, welches eine Live-Aufnahme eines Seminars darstellt. Hier die Landingpage: http://nichtraucher-in-5-stunden.at/
 
 ## 2. Links
 

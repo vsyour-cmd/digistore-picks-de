@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Starke Konvertierung!</strong></p>
-<ul><li><strong>Verkauf über tägliches Webeniar</strong></li>
-<li><strong>Viele wertvolle Inhalte und Tipps.</strong></li>
-<li><strong>Echter Mehrwert für Ihre Liste!</strong></li>
-<li><strong>Kann jederzeit beworben werden.</strong></li>
-</ul><p><span style="background-color:#ffff00;"><strong>Bei Fragen: info@erfolg-intuitiv.de</strong></span></p>
-<p> </p>
-<p><span style="text-decoration:underline;"><strong>Online-Video-Coaching über 4 Module</strong></span></p>
-<table style="width:357px;height:182px;"><tbody><tr><td style="width:71px;vertical-align:top;"><strong>1. Modul:</strong></td>
-<td style="width:280px;vertical-align:top;"><strong>Zielklarheit und Vision</strong><br />Ziele erfolgssicher definieren</td>
-</tr><tr><td style="width:71px;vertical-align:top;"><strong>2. Modul:</strong></td>
-<td style="width:280px;vertical-align:top;"><strong>Innere Kräfte mobilisieren</strong><br />Erfolgs-Mindset, Zielbewusstsein und die Programmierung Ihres Unterbewusstseins</td>
-</tr><tr><td style="width:71px;vertical-align:top;"><strong>3. Modul:</strong></td>
-<td style="width:280px;vertical-align:top;"><strong>Äußere Kräfte richtig nutzen</strong><br />„Mentale Firewall“ installieren und erfolgsfördernde Kontakte aufbauen</td>
-</tr><tr><td style="width:71px;vertical-align:top;"><strong>4. Modul:</strong></td>
-<td style="width:280px;vertical-align:top;"><strong>Der direkte Weg zum Erfolg</strong><br />Zielsicher planen und maximale Effektivität entwickeln</td>
-</tr></tbody></table><p><span style="text-decoration:underline;"><strong>Begleichtmaterial:</strong></span></p>
-<ul><li><strong>Präsentation mit den wichtigsten Stichpunkten<br /></strong>für einen höheren Lern- und Behaltenseffekt</li>
-<li><strong>Verständnis und Erkenntnisfragen<br /></strong>für tieferes Verstehen und wichtige eigene Erkenntnisse</li>
-<li><strong>Wertvolle Checklisten</strong><br />durch die Sie die wichtigsten Punkte im Auge behalten.</li>
-<li><strong>Intuitive Arbeisblätter</strong><br />die Ihnen dabei helfen, das gelernte erfolgreich in die Tat umzusetzen.</li>
-<li><strong>Vordrucke für erfolgsorientierte Zielplanungen</strong><br />So bekommen Sie eine Glasklare Zielstruktur,<br />die Ihre Erfolgs-Chancen um eine vielfaches erhöht!</li>
-<li><strong>Effektivitäts-Check Ihrer Aktivitäten</strong><br />So erreichen Sie bei nur halben Aufwand das doppelte<br />und noch viel mehr! </li>
-</ul><p><span style="background-color:#ffff00;"><strong>Bei Fragen: info@erfolg-intuitiv.de</strong></span></p>
+**Vendor's marketplace description:** Starke Konvertierung! Verkauf über tägliches Webeniar Viele wertvolle Inhalte und Tipps. Echter Mehrwert für Ihre Liste! Kann jederzeit beworben werden. Bei Fragen: info@erfolg-intuitiv.de Online-Video-Coaching über 4 Module 1. Modul: Zielklarheit und Vision Ziele erfolgssicher definieren 2. Modul: Innere Kräfte mobilisieren Erfolgs-Mindset, Zielbewusstsein und die Programmierung Ihres Unterbewusstseins 3. Modul: Äußere Kräfte richtig nutzen „Mentale Firewall“ installieren und erfolgsfördernde Kontakte aufbauen 4. Modul: Der direkte Weg zum Erfolg Zielsicher planen und maximale Effektivität entwickeln Begleichtmaterial: Präsentation mit den wichtigsten Stichpunkten für einen höheren Lern- und Behaltenseffekt Verständnis und Erkenntnisfragen für tieferes Verstehen und wichtige eigene Erkenntnisse Wertvolle Checklisten durch die Sie die wichtigsten Punkte im Auge behalten. Intuitive Arbeisblätter die Ihnen dabei helfen, das gelernte erfolgreich in die Tat umzusetzen. Vordrucke für erfolgsorientierte Zielplanungen So bekommen Sie eine Glasklare Zielstruktur, die Ihre Erfolgs-Chancen um eine vielfaches erhöht! Effektivitäts-Check Ihrer Aktivitäten So erreichen Sie bei nur halben Aufwand das doppelte und noch viel mehr! Bei Fragen: info@erfolg-intuitiv.de
 
 ## 2. Links
 

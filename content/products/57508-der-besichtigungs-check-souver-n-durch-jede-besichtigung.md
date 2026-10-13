@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Besichtigungs-Check ist der professionelle Leitfaden für Immobilieneigentümer, die ihre Immobilie privat verkaufen und Besichtigungstermine professionell vorbereiten wollen.</p>
-<p>13 Kapitel begleiten Verkäufer durch jede Phase rund um den Besichtigungstermin: von der Vorbereitung über die Gesprächsführung bis zur Verhandlung. Dazu nützliche Hinweise, die viele private Verkäufer sonst erst spät erfahren - inklusive typischer Fallstricke bei Kaufpreis und Vertragsgestaltung.</p>
-<p>Autor: Jörg Bühre, Diplom-Jurist (Uni), langjähriger Immobilienprofi.</p>
-<p>Zielgruppe: Private Verkäufer ohne Maklererfahrung, die bei der Besichtigung souverän auftreten und keine vermeidbaren Fehler machen wollen.</p>
-<p>Ideale Ergänzung für alle, die sich für den Privatverkauf entschieden haben.</p>
+**Vendor's marketplace description:** Der Besichtigungs-Check ist der professionelle Leitfaden für Immobilieneigentümer, die ihre Immobilie privat verkaufen und Besichtigungstermine professionell vorbereiten wollen. 13 Kapitel begleiten Verkäufer durch jede Phase rund um den Besichtigungstermin: von der Vorbereitung über die Gesprächsführung bis zur Verhandlung. Dazu nützliche Hinweise, die viele private Verkäufer sonst erst spät erfahren - inklusive typischer Fallstricke bei Kaufpreis und Vertragsgestaltung. Autor: Jörg Bühre, Diplom-Jurist (Uni), langjähriger Immobilienprofi. Zielgruppe: Private Verkäufer ohne Maklererfahrung, die bei der Besichtigung souverän auftreten und keine vermeidbaren Fehler machen wollen. Ideale Ergänzung für alle, die sich für den Privatverkauf entschieden haben.
 
 ## 2. Links
 

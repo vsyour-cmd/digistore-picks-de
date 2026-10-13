@@ -41,49 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Die ganzheitliche Lösung gegen Flugangst – entwickelt von einem Piloten. </h2>
-<p>Der <strong>FlyCalm Ultimate Kurs</strong> ist die <strong>umfassendste Online-Lösung gegen Flugangst</strong>.<br />Er richtet sich an Menschen, die nicht nur einzelne Symptome lindern, sondern ihre Flugangst <strong>nachhaltig und dauerhaft überwinden</strong> möchten.</p>
-<p>Entwickelt von <strong>Mathias</strong>, ausgebildeter Pilot und Flugangst-Coach bei <strong>SkyCair</strong>.<br />Der Kurs kombiniert <strong>fundiertes Pilot:innen-Wissen</strong>, psychologische Hintergründe und praxisnahe Übungen zu einem strukturierten Schritt-für-Schritt-System.</p>
-<p> </p>
-<hr />
-<h3><strong>Zielgruppe</strong></h3>
-<ul>
-<li>
-<p>Menschen mit starker oder langjähriger Flugangst</p>
-</li>
-<li>
-<p>Personen, die bereits vieles ausprobiert haben (Tipps, Bücher, Ablenkung)</p>
-</li>
-<li>
-<p>Reisende, die wieder frei, entspannt und selbstbestimmt fliegen möchten</p>
-</li>
-</ul>
-<p> </p>
-<hr />
-<h3><strong>Was Teilnehmer im Ultimate Kurs lernen</strong></h3>
-<ul>
-<li>
-<p>Wie Flugangst wirklich entsteht (Angstkreislauf verständlich erklärt)</p>
-</li>
-<li>
-<p>Wie sie Kontrollverlust &amp; Katastrophengedanken dauerhaft auflösen</p>
-</li>
-<li>
-<p>Wie sie körperliche Stressreaktionen gezielt regulieren</p>
-</li>
-<li>
-<p>Warum Turbulenzen, Geräusche &amp; Bewegungen harmlos sind</p>
-</li>
-<li>
-<p>Wie sie <strong>vor, während &amp; nach dem Flug</strong> ruhig und stabil bleiben</p>
-</li>
-<li>
-<p>Wie sie wieder Vertrauen ins Fliegen aufbauen – Schritt für Schritt</p>
-</li>
-</ul>
-<p>Fokus: <strong>Ursachen lösen statt Symptome bekämpfen</strong></p>
-<p> </p>
-<p><strong>Mit dem Fly Calm Ultimate Kurs bewirbst du ein Produkt, das Menschen dabei hilft, ihre Freiheit zurückzugewinnen – und sich wieder auf Reisen zu freuen. </strong></p>
+**Vendor's marketplace description:** Die ganzheitliche Lösung gegen Flugangst – entwickelt von einem Piloten. Der FlyCalm Ultimate Kurs ist die umfassendste Online-Lösung gegen Flugangst . Er richtet sich an Menschen, die nicht nur einzelne Symptome lindern, sondern ihre Flugangst nachhaltig und dauerhaft überwinden möchten. Entwickelt von Mathias , ausgebildeter Pilot und Flugangst-Coach bei SkyCair . Der Kurs kombiniert fundiertes Pilot:innen-Wissen , psychologische Hintergründe und praxisnahe Übungen zu einem strukturierten Schritt-für-Schritt-System. Zielgruppe Menschen mit starker oder langjähriger Flugangst Personen, die bereits vieles ausprobiert haben (Tipps, Bücher, Ablenkung) Reisende, die wieder frei, entspannt und selbstbestimmt fliegen möchten Was Teilnehmer im Ultimate Kurs lernen Wie Flugangst wirklich entsteht (Angstkreislauf verständlich erklärt) Wie sie Kontrollverlust & Katastrophengedanken dauerhaft auflösen Wie sie körperliche Stressreaktionen gezielt regulieren Warum Turbulenzen, Geräusche & Bewegungen harmlos sind Wie sie vor, während & nach dem Flug ruhig und stabil bleiben Wie sie wieder Vertrauen ins Fliegen aufbauen – Schritt für Schritt Fokus: Ursachen lösen statt Symptome bekämpfen Mit dem Fly Calm Ultimate Kurs bewirbst du ein Produkt, das Menschen dabei hilft, ihre Freiheit zurückzugewinnen – und sich wieder auf Reisen zu freuen.
 
 ## 2. Links
 

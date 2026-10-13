@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die Mallorca Bucket List (Deutsch) ist eine kuratierte Sammlung der schönsten Orte, Sehenswürdigkeiten und besonderen Highlights der Destination, übersichtlich zusammengestellt, um Inspiration für eine Reise zu geben und bei der Planung zu helfen. Statt lange nach den besten Orten zu recherchieren, bietet diese Bucket List eine kompakte Übersicht über bekannte Highlights und besondere Orte, die eine Reise unvergesslich machen können. Alle Orte sind übersichtlich gesammelt und lassen sich einfach entdecken oder in die eigene Reiseplanung integrieren. Zusätzlich enthält die Bucket List eine direkt nutzbare Google Maps Karte, mit der alle Orte schnell gefunden und während der Reise unkompliziert angesteuert werden können. So entsteht eine inspirierende Übersicht der schönsten Orte der Destination, die sowohl zur Reiseplanung als auch während der Reise genutzt werden kann.</p>
-<p>• Sammlung der schönsten Orte und Sehenswürdigkeiten der Destination</p>
-<p>• Mischung aus bekannten Highlights und besonderen Orten</p>
-<p>• Übersichtliche Struktur für schnelle Inspiration</p>
-<p>• Perfekt zur Reiseplanung oder als Ergänzung zu bestehenden Plänen</p>
-<p>• Direkt klickbare Orte über eine integrierte Google Maps Karte</p>
-<p>• Alle Orte übersichtlich gesammelt und leicht auffindbar</p>
-<p>Produktformat: Digitale Bucket List + Google Maps Karte (Download)</p>
+**Vendor's marketplace description:** Die Mallorca Bucket List (Deutsch) ist eine kuratierte Sammlung der schönsten Orte, Sehenswürdigkeiten und besonderen Highlights der Destination, übersichtlich zusammengestellt, um Inspiration für eine Reise zu geben und bei der Planung zu helfen. Statt lange nach den besten Orten zu recherchieren, bietet diese Bucket List eine kompakte Übersicht über bekannte Highlights und besondere Orte, die eine Reise unvergesslich machen können. Alle Orte sind übersichtlich gesammelt und lassen sich einfach entdecken oder in die eigene Reiseplanung integrieren. Zusätzlich enthält die Bucket List eine direkt nutzbare Google Maps Karte, mit der alle Orte schnell gefunden und während der Reise unkompliziert angesteuert werden können. So entsteht eine inspirierende Übersicht der schönsten Orte der Destination, die sowohl zur Reiseplanung als auch während der Reise genutzt werden kann. • Sammlung der schönsten Orte und Sehenswürdigkeiten der Destination • Mischung aus bekannten Highlights und besonderen Orten • Übersichtliche Struktur für schnelle Inspiration • Perfekt zur Reiseplanung oder als Ergänzung zu bestehenden Plänen • Direkt klickbare Orte über eine integrierte Google Maps Karte • Alle Orte übersichtlich gesammelt und leicht auffindbar Produktformat: Digitale Bucket List + Google Maps Karte (Download)
 
 ## 2. Links
 

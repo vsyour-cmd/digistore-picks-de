@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Von der leeren Profilseite zum aktiven DACH-Netzwerk, das Türen öffnet</strong></p>
-<p>Du willst endlich auf XING durchstarten, weißt aber nicht, wo du anfangen sollst? Dieses E-Book nimmt dich Schritt für Schritt an die Hand – von der Profil-Optimierung über die ersten sinnvollen Kontakte bis hin zu deinen ersten sichtbaren Aktivitäten im größten deutschsprachigen Business-Netzwerk. Du lernst, wie du ein überzeugendes XING-Profil erstellst, das Recruiter und Geschäftspartner aus der DACH-Region auf einen Blick überzeugt, wie du relevante Gruppen und Events findest und wie du mit gezielten Beiträgen erste Sichtbarkeit aufbaust. Kein Fachjargon, kein teures Premium nötig: nur ein klarer, umsetzbarer Plan, den du noch heute in die Tat umsetzen kannst. Nach der Lektüre weißt du nicht nur, was zu tun ist – du weißt auch, warum es im DACH-Kontext funktioniert.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Profil-Optimierung: alle Felder, die Recruiter und Partner wirklich lesen</li>
-<li>Profilbild, Headline und Kurzvorstellung, die sofort Eindruck machen</li>
-<li>Erste Kontakte gezielt aufbauen – in der DACH-Region und deiner Branche</li>
-<li>Gruppen und Events finden, die deiner Nische wirklich nützen</li>
-<li>Eigene Beiträge veröffentlichen und erste Sichtbarkeit erzielen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Von der leeren Profilseite zum aktiven DACH-Netzwerk, das Türen öffnet Du willst endlich auf XING durchstarten, weißt aber nicht, wo du anfangen sollst? Dieses E-Book nimmt dich Schritt für Schritt an die Hand – von der Profil-Optimierung über die ersten sinnvollen Kontakte bis hin zu deinen ersten sichtbaren Aktivitäten im größten deutschsprachigen Business-Netzwerk. Du lernst, wie du ein überzeugendes XING-Profil erstellst, das Recruiter und Geschäftspartner aus der DACH-Region auf einen Blick überzeugt, wie du relevante Gruppen und Events findest und wie du mit gezielten Beiträgen erste Sichtbarkeit aufbaust. Kein Fachjargon, kein teures Premium nötig: nur ein klarer, umsetzbarer Plan, den du noch heute in die Tat umsetzen kannst. Nach der Lektüre weißt du nicht nur, was zu tun ist – du weißt auch, warum es im DACH-Kontext funktioniert. Das steckt drin: Profil-Optimierung: alle Felder, die Recruiter und Partner wirklich lesen Profilbild, Headline und Kurzvorstellung, die sofort Eindruck machen Erste Kontakte gezielt aufbauen – in der DACH-Region und deiner Branche Gruppen und Events finden, die deiner Nische wirklich nützen Eigene Beiträge veröffentlichen und erste Sichtbarkeit erzielen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

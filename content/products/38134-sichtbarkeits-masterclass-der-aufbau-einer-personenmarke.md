@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Steigere als Unternehmer, Trainer, Shopbetreiber oder Experte deine Sichtbarkeit, um mehr Wunschkunden und Umsätze zu erreichen.</strong></p>
-<p><em>Die Geheimnisse was erfolgreiche von nicht-erfolgreichen Unternehmern unterscheidet</em></p>
-<p><span style="background-color:#ffcc00;"><em><strong>Du erhältst 50% Provision pro Teilnehmer.</strong></em></span></p>
-<ul>
-<li>Keine Provisionsverluste durch wechselnde Geräte mit Hilfe des Digistore-Pixel sowie dem Klick-Tipp-Multi-Device-Trackings welches wir einsetzen.</li>
-<li>50% Provision auf die Empfehlung + weiterführende Provision bei Upsells im Mitgliederbereich (Für uns sind Affiliates mehr als nur eine Nummer im System)</li>
-<li>Conversionstarke Landingpage mit Evergreen Counter für mehr Conversion</li>
-</ul>
-<p>Die einzelnen Module sind so aufgebaut, dass jederzeit ein Quereinstieg ohne Vorkenntnisse für die Teilnehmer möglich ist.</p>
-<p>Die Teilnehmer können per eigener App auf Android sowie iOS lernen und die Videos anschauen. Der Fortschritt von geschauten Videos wird in Echtzeit gespeichert und kann auf dem PC, Tablet und Smartphone nahtlos weitergeschaut werden.</p>
-<p><strong>Die kostenfreie App zum Kurs</strong> findet man im AppStore sowie PlayStore unter dem Namen "Sichtbarkeits-Masterclass"</p>
-<p><strong>Themen der Masterclass:</strong></p>
-<ul>
-<li>Leads &amp; Content - Wie du deine Zielgruppe erreichst und eigenen Content leicht entwickelst.</li>
-<li>Storytelling - Anleitungen um deine Markensprache zu entwickeln inkl. Content-Vorlagen</li>
-<li>Expertenstatus - Wie du einen Expertenstatus als Personenmarke aufbaust.</li>
-<li>Sichtbarkeit &amp; SEO - Baue deine Sichtbarkeit in Suchmaschinen &amp; Social Media auf.</li>
-<li>Kamera &amp; Licht - Eigene professionelle Videos aufzeichnen inkl. Einkaufliste</li>
-<li>Schnitt &amp; Mobile - 1:1 Anleitung für Videoschnitt auf PC, Tablet und Smartphone inkl. Inshot</li>
-</ul>
+**Vendor's marketplace description:** Steigere als Unternehmer, Trainer, Shopbetreiber oder Experte deine Sichtbarkeit, um mehr Wunschkunden und Umsätze zu erreichen. Die Geheimnisse was erfolgreiche von nicht-erfolgreichen Unternehmern unterscheidet Du erhältst 50% Provision pro Teilnehmer. Keine Provisionsverluste durch wechselnde Geräte mit Hilfe des Digistore-Pixel sowie dem Klick-Tipp-Multi-Device-Trackings welches wir einsetzen. 50% Provision auf die Empfehlung + weiterführende Provision bei Upsells im Mitgliederbereich (Für uns sind Affiliates mehr als nur eine Nummer im System) Conversionstarke Landingpage mit Evergreen Counter für mehr Conversion Die einzelnen Module sind so aufgebaut, dass jederzeit ein Quereinstieg ohne Vorkenntnisse für die Teilnehmer möglich ist. Die Teilnehmer können per eigener App auf Android sowie iOS lernen und die Videos anschauen. Der Fortschritt von geschauten Videos wird in Echtzeit gespeichert und kann auf dem PC, Tablet und Smartphone nahtlos weitergeschaut werden. Die kostenfreie App zum Kurs findet man im AppStore sowie PlayStore unter dem Namen "Sichtbarkeits-Masterclass" Themen der Masterclass: Leads & Content - Wie du deine Zielgruppe erreichst und eigenen Content leicht entwickelst. Storytelling - Anleitungen um deine Markensprache zu entwickeln inkl. Content-Vorlagen Expertenstatus - Wie du einen Expertenstatus als Personenmarke aufbaust. Sichtbarkeit & SEO - Baue deine Sichtbarkeit in Suchmaschinen & Social Media auf. Kamera & Licht - Eigene professionelle Videos aufzeichnen inkl. Einkaufliste Schnitt & Mobile - 1:1 Anleitung für Videoschnitt auf PC, Tablet und Smartphone inkl. Inshot
 
 ## 2. Links
 

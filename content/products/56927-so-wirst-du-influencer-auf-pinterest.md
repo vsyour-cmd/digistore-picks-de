@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Reichweite aufbauen, Traffic-Marke werden und Kooperationen gewinnen</strong></p>
-<p>Pinterest-Influencer sind eine eigene Spezies: Ihr Einfluss liegt nicht in Follower-Zahlen, sondern im Traffic, den ihre Pins auf Webseiten und Shops schicken. Marken lieben das. Dieses E-Book zeigt dir, wie du auf Pinterest eine unverwechselbare visuelle Identität aufbaust, Pins designst, die monatelang geteilt werden und deine Reichweite exponentiell wachsen lassen. Du lernst, wie du dich als Experte deiner Nische positionierst, welche Kooperationsformate auf Pinterest wirklich funktionieren und wie du Marken mit deinen Traffic-Zahlen überzeugst, statt mit Follower-Statistiken. Dazu: Idea Pins als Reichweitenhebel, Group Boards als Netzwerkstrategie und ein Portfolio, das Anfragen anzieht.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Deine visuelle Markenidentität: Wiedererkennungswert auf Pinterest aufbauen</li>
-<li>Evergreen-Pins, die monate- und jahrelang Traffic generieren</li>
-<li>Idea Pins als Reichweitenhebel strategisch einsetzen</li>
-<li>Group Boards &amp; Community-Strategien für schnelleres Wachstum</li>
-<li>Dein Kooperations-Portfolio: Traffic-Daten überzeugend präsentieren</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Reichweite aufbauen, Traffic-Marke werden und Kooperationen gewinnen Pinterest-Influencer sind eine eigene Spezies: Ihr Einfluss liegt nicht in Follower-Zahlen, sondern im Traffic, den ihre Pins auf Webseiten und Shops schicken. Marken lieben das. Dieses E-Book zeigt dir, wie du auf Pinterest eine unverwechselbare visuelle Identität aufbaust, Pins designst, die monatelang geteilt werden und deine Reichweite exponentiell wachsen lassen. Du lernst, wie du dich als Experte deiner Nische positionierst, welche Kooperationsformate auf Pinterest wirklich funktionieren und wie du Marken mit deinen Traffic-Zahlen überzeugst, statt mit Follower-Statistiken. Dazu: Idea Pins als Reichweitenhebel, Group Boards als Netzwerkstrategie und ein Portfolio, das Anfragen anzieht. Das steckt drin: Deine visuelle Markenidentität: Wiedererkennungswert auf Pinterest aufbauen Evergreen-Pins, die monate- und jahrelang Traffic generieren Idea Pins als Reichweitenhebel strategisch einsetzen Group Boards & Community-Strategien für schnelleres Wachstum Dein Kooperations-Portfolio: Traffic-Daten überzeugend präsentieren Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

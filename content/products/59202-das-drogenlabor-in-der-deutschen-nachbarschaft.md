@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein stechender, chemischer Geruch im Treppenhaus. Seltsamer Besuch zu unchristlichen Zeiten. Ständig verklebte Fenster und Nachbarn, die nachts Kanister vom Kofferraum in den Keller tragen.</p>
-<p>Du spürst, dass etwas nicht stimmt. Und dein Bauchgefühl täuscht dich nicht.</p>
-<p>Die unsichtbare Bombe nebenan</p>
-<p>Ein illegales Drogenlabor in der Wohnsiedlung ist kein TV-Drama – es ist ein tickendes Schicksal direkt hinter deiner Schlafzimmerwand.</p>
-<p> Explosionsgefahr: Ein einziger Funke oder Fehlexperiment reicht aus, um das gesamte Gebäude in Schutt und Asche zu legen.</p>
-<p> Toxische Dämpfe: Unsichtbare, hochgiftige Gase fressen sich schleichend durch Lüftungsschächte und schädigen die Gesundheit deiner Familie nachhaltig.</p>
-<p> Organisierte Kriminalität: Wo gekocht wird, sind Gewalt, Schutzgeld und bewaffnete Konflikte nie weit entfernt.</p>
-<p>Wer jetzt wegsieht oder unüberlegt handelt, bringt sich selbst in Lebensgefahr. Falsche Anschuldigungen können dich das Leben kosten – Tatenlosigkeit ebenfalls.</p>
-<p>Der ultimative Leitfaden: Diskret. Präzise. Lebensrettend.</p>
-<p>Dieser Ratgeber ist kein theoretisches Fachbuch. Er ist ein kompromissloses, praxiserprobtes Sicherheitsprotokoll, das dir Schritt für Schritt zeigt, wie du die Bedrohung erkennst und lautlos eliminierst.</p>
+**Vendor's marketplace description:** Ein stechender, chemischer Geruch im Treppenhaus. Seltsamer Besuch zu unchristlichen Zeiten. Ständig verklebte Fenster und Nachbarn, die nachts Kanister vom Kofferraum in den Keller tragen. Du spürst, dass etwas nicht stimmt. Und dein Bauchgefühl täuscht dich nicht. Die unsichtbare Bombe nebenan Ein illegales Drogenlabor in der Wohnsiedlung ist kein TV-Drama – es ist ein tickendes Schicksal direkt hinter deiner Schlafzimmerwand. Explosionsgefahr: Ein einziger Funke oder Fehlexperiment reicht aus, um das gesamte Gebäude in Schutt und Asche zu legen. Toxische Dämpfe: Unsichtbare, hochgiftige Gase fressen sich schleichend durch Lüftungsschächte und schädigen die Gesundheit deiner Familie nachhaltig. Organisierte Kriminalität: Wo gekocht wird, sind Gewalt, Schutzgeld und bewaffnete Konflikte nie weit entfernt. Wer jetzt wegsieht oder unüberlegt handelt, bringt sich selbst in Lebensgefahr. Falsche Anschuldigungen können dich das Leben kosten – Tatenlosigkeit ebenfalls. Der ultimative Leitfaden: Diskret. Präzise. Lebensrettend. Dieser Ratgeber ist kein theoretisches Fachbuch. Er ist ein kompromissloses, praxiserprobtes Sicherheitsprotokoll, das dir Schritt für Schritt zeigt, wie du die Bedrohung erkennst und lautlos eliminierst.
 
 ## 2. Links
 

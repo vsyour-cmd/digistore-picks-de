@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der ADHS Berufskompass unterstützt Menschen mit ADHS-ähnlichen Arbeitsmustern dabei, herauszufinden, welche Berufe, Tätigkeiten und Arbeitsbedingungen wirklich zu ihnen passen.</p>
-<p>Das Produkt kombiniert einen praxisnahen Online-Test mit einer persönlichen Auswertung und einem ausführlichen E-Book. Nutzer erhalten konkrete Hinweise zu ihren Stärken, schwierigen Arbeitsbedingungen, passenden Berufsfeldern und möglichen nächsten Schritten.</p>
-<p>Ideal für Menschen, die sich beruflich neu orientieren möchten, im aktuellen Job unzufrieden sind oder endlich verstehen wollen, warum bestimmte Arbeitsumfelder dauerhaft überfordern.</p>
-<p><strong>Enthalten sind:</strong></p>
-<ul>
-<li>Online-Test zur beruflichen Selbsteinschätzung</li>
-<li>persönliche Auswertung mit konkreten Empfehlungen</li>
-<li>passende Berufsfelder und Tätigkeiten</li>
-<li>Hinweise zu geeigneten Arbeitsbedingungen</li>
-<li>E-Book zur weiteren Orientierung und Umsetzung</li>
-</ul>
-<p>Ein verständliches, alltagsnahes Produkt mit klarem Nutzen für die Zielgruppen ADHS, berufliche Neuorientierung, Persönlichkeitsentwicklung und Karriere.</p>
+**Vendor's marketplace description:** Der ADHS Berufskompass unterstützt Menschen mit ADHS-ähnlichen Arbeitsmustern dabei, herauszufinden, welche Berufe, Tätigkeiten und Arbeitsbedingungen wirklich zu ihnen passen. Das Produkt kombiniert einen praxisnahen Online-Test mit einer persönlichen Auswertung und einem ausführlichen E-Book. Nutzer erhalten konkrete Hinweise zu ihren Stärken, schwierigen Arbeitsbedingungen, passenden Berufsfeldern und möglichen nächsten Schritten. Ideal für Menschen, die sich beruflich neu orientieren möchten, im aktuellen Job unzufrieden sind oder endlich verstehen wollen, warum bestimmte Arbeitsumfelder dauerhaft überfordern. Enthalten sind: Online-Test zur beruflichen Selbsteinschätzung persönliche Auswertung mit konkreten Empfehlungen passende Berufsfelder und Tätigkeiten Hinweise zu geeigneten Arbeitsbedingungen E-Book zur weiteren Orientierung und Umsetzung Ein verständliches, alltagsnahes Produkt mit klarem Nutzen für die Zielgruppen ADHS, berufliche Neuorientierung, Persönlichkeitsentwicklung und Karriere.
 
 ## 2. Links
 

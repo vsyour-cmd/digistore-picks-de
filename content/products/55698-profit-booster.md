@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Schalte den Profit-Turbo ein und generiere Verkäufe für deine digitalen Produkte, wie auf Knopfdruck!</strong></h3>
-<p>Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt <strong>50% Provision</strong> + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf <strong>ca. 500€ Provision im Funnel.</strong></p>
-<p>Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst!</p>
-<p>Das bekommt der Kunde in diesem wertvollen Online-Kurs:</p>
-<p><br />✅ Wie du deinen Account richtig einstellst (Wert: 99 €)<br />✅ Wie du profitabel laufende Werbeanzeigen findest (Wert: 149 €)<br />✅ Kampagnen richtig strukturieren &amp; Anzeigen professionell aufsetzen (Wert: 199 €)<br />✅ Bewährte Vorlagen für perfekte Ads in Minuten (Wert: 299 €)<br />✅ Analyse &amp; Optimierung, der finale Booster für echte Gewinne (Wert: 399 €)</p>
-<p><strong>Exklusive Boni:</strong><br /><strong>Bonus 1:</strong> Profi-Vorlagen &amp; KI-Tools für sofort profitable Ads (Wert: 299 €)<br /><strong>Bonus 2:</strong> Klare Kennzahlen + Analysetools für datenbasierte Skalierung (Wert: 249 €)<br /><strong>Bonus 3:</strong> Trainierte KI-Assistenz, die dich Schritt für Schritt begleitet (Wert: 499 €)</p>
+**Vendor's marketplace description:** Schalte den Profit-Turbo ein und generiere Verkäufe für deine digitalen Produkte, wie auf Knopfdruck! Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. 500€ Provision im Funnel. Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst! Das bekommt der Kunde in diesem wertvollen Online-Kurs: ✅ Wie du deinen Account richtig einstellst (Wert: 99 €) ✅ Wie du profitabel laufende Werbeanzeigen findest (Wert: 149 €) ✅ Kampagnen richtig strukturieren & Anzeigen professionell aufsetzen (Wert: 199 €) ✅ Bewährte Vorlagen für perfekte Ads in Minuten (Wert: 299 €) ✅ Analyse & Optimierung, der finale Booster für echte Gewinne (Wert: 399 €) Exklusive Boni: Bonus 1: Profi-Vorlagen & KI-Tools für sofort profitable Ads (Wert: 299 €) Bonus 2: Klare Kennzahlen + Analysetools für datenbasierte Skalierung (Wert: 249 €) Bonus 3: Trainierte KI-Assistenz, die dich Schritt für Schritt begleitet (Wert: 499 €)
 
 ## 2. Links
 

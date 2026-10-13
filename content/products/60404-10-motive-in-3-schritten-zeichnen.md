@@ -41,38 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Produkt: „10 faszinierende Motive in 3 Schritten zeichnen“</strong></p>
-<p>Ein praxisorientiertes digitales Zeichenheft für Anfänger, Wiedereinsteiger und Fortgeschrittene, die realistische Motive einfach und verständlich zeichnen möchten.</p>
-<p>Das 14-seitige PDF enthält 10 unterschiedliche Zeichenmotive mit anschaulichen Schritt-für-Schritt-Anleitungen, verständlichen Erklärungen und praktischen Tipps zu Licht, Schatten und realistischen Details.</p>
-<p><strong>Produktvorteile:</strong></p>
-<ul>
-<li>10 faszinierende Zeichenmotive</li>
-<li>Zeichnen lernen in jeweils 3 Schritten</li>
-<li>Verständliche Anleitungen ohne komplizierte Fachbegriffe</li>
-<li>Sofort verfügbar als PDF-Download</li>
-<li>Attraktiver Einstiegspreis von nur 5 €</li>
-</ul>
-<p><strong>Zielgruppe:</strong></p>
-<ul>
-<li>Zeichenanfänger und Wiedereinsteiger</li>
-<li>Kreative Erwachsene</li>
-<li>Natur- und Tierliebhaber</li>
-<li>Menschen, die realistisch zeichnen lernen möchten</li>
-</ul>
-<p><strong>Vorteile für Affiliate-Partner:</strong></p>
-<ul>
-<li>Preisgünstiges digitales Einstiegsprodukt</li>
-<li>Klar definierte Zielgruppe</li>
-<li>Professionelle Verkaufsseite</li>
-<li>Direkte Verlinkung zur offiziellen Produktseite</li>
-<li>Provision gemäß Digistore24-Produktangaben</li>
-</ul>
-<p>Das Zeichenheft stammt von Ralf Wilhelm Schmidt, freischaffendem Künstler und Gründer der Online-Akademie Schmidt’s Zeichenwelt.</p>
-<p><strong>Wichtiger Hinweis für Affiliate-Partner</strong></p>
-<p>Wir suchen seriöse, langfristige Affiliate-Partner mit einer passenden Zielgruppe im deutschsprachigen Raum.</p>
-<p>Bitte gib bei Deiner Bewerbung an, über welche Webseite, welchen Social-Media-Kanal oder welche andere konkrete Plattform Du unser Zeichenheft bewerben möchtest.</p>
-<p>Anfragen ohne nachvollziehbare Angaben zum geplanten Werbekanal werden nicht berücksichtigt.</p>
-<p>Weitere Informationen zur Zusammenarbeit findest Du auf unserer Affiliate-Partnerseite.</p>
+**Vendor's marketplace description:** Produkt: „10 faszinierende Motive in 3 Schritten zeichnen“ Ein praxisorientiertes digitales Zeichenheft für Anfänger, Wiedereinsteiger und Fortgeschrittene, die realistische Motive einfach und verständlich zeichnen möchten. Das 14-seitige PDF enthält 10 unterschiedliche Zeichenmotive mit anschaulichen Schritt-für-Schritt-Anleitungen, verständlichen Erklärungen und praktischen Tipps zu Licht, Schatten und realistischen Details. Produktvorteile: 10 faszinierende Zeichenmotive Zeichnen lernen in jeweils 3 Schritten Verständliche Anleitungen ohne komplizierte Fachbegriffe Sofort verfügbar als PDF-Download Attraktiver Einstiegspreis von nur 5 € Zielgruppe: Zeichenanfänger und Wiedereinsteiger Kreative Erwachsene Natur- und Tierliebhaber Menschen, die realistisch zeichnen lernen möchten Vorteile für Affiliate-Partner: Preisgünstiges digitales Einstiegsprodukt Klar definierte Zielgruppe Professionelle Verkaufsseite Direkte Verlinkung zur offiziellen Produktseite Provision gemäß Digistore24-Produktangaben Das Zeichenheft stammt von Ralf Wilhelm Schmidt, freischaffendem Künstler und Gründer der Online-Akademie Schmidt’s Zeichenwelt. Wichtiger Hinweis für Affiliate-Partner Wir suchen seriöse, langfristige Affiliate-Partner mit einer passenden Zielgruppe im deutschsprachigen Raum. Bitte gib bei Deiner Bewerbung an, über welche Webseite, welchen Social-Media-Kanal oder welche andere konkrete Plattform Du unser Zeichenheft bewerben möchtest. Anfragen ohne nachvollziehbare Angaben zum geplanten Werbekanal werden nicht berücksichtigt. Weitere Informationen zur Zusammenarbeit findest Du auf unserer Affiliate-Partnerseite.
 
 ## 2. Links
 

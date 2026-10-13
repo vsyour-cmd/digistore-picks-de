@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das ETERNUM Komplett-Paket bündelt 9 Produkte rund um KI, Content und Sichtbarkeit in einem Bundle – entwickelt von Ernst Schrempf, Unternehmer mit über 20 Jahren Erfahrung, der seine KI-Systeme selbst programmiert.</p>
-<p> </p>
-<p>Enthalten sind u.a.: KI-Cockpit (sonst 199 €), KI-Komplettsystem mit 5 Workbooks (sonst 99 €), Knowledge Vault (sonst 97 €), Digital Business System (sonst 47 ), Content Ignition Kit (220 Hooks + 80 KI-Prompts), Content Creation System, Instagram Growth Workbook + Content-Planer sowie das Google Review Response Kit.</p>
-<p> </p>
-<p>Einzeln über 500 € Wert – im Paket einmalig 249 €. Kein Abo, sofortiger Zugang, 30 Tage Geld-zurück-Garantie über Digistore24.</p>
-<p> </p>
-<p>Für Affiliates: 50 % Provision, 180 Tage Cookie-Laufzeit, Auto-Freigabe. Fertige Werbemittel und E-Mail-Swipes auf <a href="https://eternumtech.eu/partner">https://eternumtech.eu/partner</a>. Bitte seriöses Branding, keine falschen Gewinnversprechen, transparente Affiliate-Kennzeichnung.</p>
+**Vendor's marketplace description:** Das ETERNUM Komplett-Paket bündelt 9 Produkte rund um KI, Content und Sichtbarkeit in einem Bundle – entwickelt von Ernst Schrempf, Unternehmer mit über 20 Jahren Erfahrung, der seine KI-Systeme selbst programmiert. Enthalten sind u.a.: KI-Cockpit (sonst 199 €), KI-Komplettsystem mit 5 Workbooks (sonst 99 €), Knowledge Vault (sonst 97 €), Digital Business System (sonst 47 ), Content Ignition Kit (220 Hooks + 80 KI-Prompts), Content Creation System, Instagram Growth Workbook + Content-Planer sowie das Google Review Response Kit. Einzeln über 500 € Wert – im Paket einmalig 249 €. Kein Abo, sofortiger Zugang, 30 Tage Geld-zurück-Garantie über Digistore24. Für Affiliates: 50 % Provision, 180 Tage Cookie-Laufzeit, Auto-Freigabe. Fertige Werbemittel und E-Mail-Swipes auf https://eternumtech.eu/partner . Bitte seriöses Branding, keine falschen Gewinnversprechen, transparente Affiliate-Kennzeichnung.
 
 ## 2. Links
 

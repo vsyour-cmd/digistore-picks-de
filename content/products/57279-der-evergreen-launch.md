@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Der Evergreen-Launch“</strong></p>
-<p>Verkaufen auf Autopilot – Ein Evergreen-Launch verkauft das ganze Jahr. Vom Live-Launch zum automatisierten Dauerläufer: der automatisierte Funnel, E-Mail-Sequenzen, die immer laufen, echte Verknappung statt Fake-Druck sowie Optimieren und Pflegen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Vom Live-Launch zum automatisierten Dauerläufer</li>
-<li>Einen automatisierten Funnel aufbauen</li>
-<li>E-Mail-Sequenzen, die immer laufen</li>
-<li>Widerrufsrecht und faire Automatisierung</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Der Evergreen-Launch“ Verkaufen auf Autopilot – Ein Evergreen-Launch verkauft das ganze Jahr. Vom Live-Launch zum automatisierten Dauerläufer: der automatisierte Funnel, E-Mail-Sequenzen, die immer laufen, echte Verknappung statt Fake-Druck sowie Optimieren und Pflegen. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Vom Live-Launch zum automatisierten Dauerläufer Einen automatisierten Funnel aufbauen E-Mail-Sequenzen, die immer laufen Widerrufsrecht und faire Automatisierung
 
 ## 2. Links
 

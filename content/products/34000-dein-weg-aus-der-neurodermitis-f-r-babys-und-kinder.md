@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In diesem Kurs bekommen Eltern eine Schritt für Schritt Anleitung, wie sie ihrem an Neurodermitis erkrankten Kind naturheilkundlich helfen können.</p>
-<p>Aufgrund der unglaublichen Menge von hautkranken Kindern ist die Zielgruppe entsprechend groß.</p>
-<p>Neben dem Kurs gibt es auch noch einen kostenfreien Zugang in meine facebook-Gruppe</p>
+**Vendor's marketplace description:** In diesem Kurs bekommen Eltern eine Schritt für Schritt Anleitung, wie sie ihrem an Neurodermitis erkrankten Kind naturheilkundlich helfen können. Aufgrund der unglaublichen Menge von hautkranken Kindern ist die Zielgruppe entsprechend groß. Neben dem Kurs gibt es auch noch einen kostenfreien Zugang in meine facebook-Gruppe
 
 ## 2. Links
 

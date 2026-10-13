@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Modul 3 – Organisations- und Prozessstabilität</h1>
-<p> </p>
-<p>Sie erwerben ein strukturiertes Diagnoseinstrument zur Analyse der Prozess- und Dokumentationsstabilität eines Unternehmens.</p>
-<p><strong>Dieses Angebot richtet sich ausschließlich an Unternehmer im Sinne des § 14 BGB.</strong></p>
-<p> </p>
-<p><strong>Das Instrument umfasst:</strong></p>
-<p>• standardisierte Analysefelder (Scoring 1–4)</p>
-<p>• gewichtete Risikoindikationen je Organisationsebene</p>
-<p>• Identifikation von Prozess- und Dokumentationsrisiken</p>
-<p>• priorisierte Maßnahmenempfehlungen (kurz-, mittel- und langfristig)</p>
-<p> </p>
-<p><strong>Produktart</strong>: Digitales Diagnoseinstrument</p>
-<p> </p>
-<p><strong>Bereitstellung</strong>: Sofortiger Download nach erfolgreicher Zahlung.</p>
-<p>Zusätzliche Bereitstellung des Download-Links per E-Mail.</p>
-<p> </p>
-<p><strong>Es handelt sich nicht um eine individuelle Rechts-, Steuer- oder Wirtschaftsprüfung.</strong></p>
+**Vendor's marketplace description:** Modul 3 – Organisations- und Prozessstabilität Sie erwerben ein strukturiertes Diagnoseinstrument zur Analyse der Prozess- und Dokumentationsstabilität eines Unternehmens. Dieses Angebot richtet sich ausschließlich an Unternehmer im Sinne des § 14 BGB. Das Instrument umfasst: • standardisierte Analysefelder (Scoring 1–4) • gewichtete Risikoindikationen je Organisationsebene • Identifikation von Prozess- und Dokumentationsrisiken • priorisierte Maßnahmenempfehlungen (kurz-, mittel- und langfristig) Produktart : Digitales Diagnoseinstrument Bereitstellung : Sofortiger Download nach erfolgreicher Zahlung. Zusätzliche Bereitstellung des Download-Links per E-Mail. Es handelt sich nicht um eine individuelle Rechts-, Steuer- oder Wirtschaftsprüfung.
 
 ## 2. Links
 

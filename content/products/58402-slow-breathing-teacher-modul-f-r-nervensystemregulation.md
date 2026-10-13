@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die Weiterbildung für alle, die mit gestressten und überstimulierten Klient:innen arbeiten. Fokus auf Regulation statt Aktivierung.</strong></p>
-<p>3 Module, fast 4 Stunden Videomaterial:</p>
-<ul>
-<li>Grundlagen der Atmung – Mechanik, Zwerchfell, Physiologie</li>
-<li>Atem und Nervensystem – HRV, Vagusnerv, Polyvagaltheorie, Kontraindikationen</li>
-<li>Atemtechniken und Didaktik – vier Techniken, Lehraufbau, professionelle Haltung</li>
-</ul>
-<p>Dazu: PDF-Skripte, geführte Meditationen und ein Atemtagebuch.</p>
-<p><strong>Für wen:</strong> Atemtherapeut:innen, Yogalehrende, Coaches und Therapeut:innen. Ohne Voraussetzungen buchbar – weder medizinisches Vorwissen noch ein bestehendes Beamdream-Zertifikat nötig.</p>
-<p><strong>Warum es konvertiert:</strong> 390 € einmalig oder in Raten (3 x 135 € / 6 x 70 €), sofortiger Zugang, Teilnahmezertifikat. Der niedrigschwellige Einstieg ohne Vorbedingungen öffnet die gesamte Yoga- und Coaching-Szene als Zielgruppe.</p>
+**Vendor's marketplace description:** Die Weiterbildung für alle, die mit gestressten und überstimulierten Klient:innen arbeiten. Fokus auf Regulation statt Aktivierung. 3 Module, fast 4 Stunden Videomaterial: Grundlagen der Atmung – Mechanik, Zwerchfell, Physiologie Atem und Nervensystem – HRV, Vagusnerv, Polyvagaltheorie, Kontraindikationen Atemtechniken und Didaktik – vier Techniken, Lehraufbau, professionelle Haltung Dazu: PDF-Skripte, geführte Meditationen und ein Atemtagebuch. Für wen: Atemtherapeut:innen, Yogalehrende, Coaches und Therapeut:innen. Ohne Voraussetzungen buchbar – weder medizinisches Vorwissen noch ein bestehendes Beamdream-Zertifikat nötig. Warum es konvertiert: 390 € einmalig oder in Raten (3 x 135 € / 6 x 70 €), sofortiger Zugang, Teilnahmezertifikat. Der niedrigschwellige Einstieg ohne Vorbedingungen öffnet die gesamte Yoga- und Coaching-Szene als Zielgruppe.
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Affiliate Marketing: ohne eigene Ware, weltweit Geld verdienen!</strong></span></p>
-<p><strong> Hier gibt es alles über:</strong></p>
-<p><strong>✅  Vorraussetzungen, um Geld zu verdienen </strong></p>
-<p><strong>✅  Geld verdienen mit Werbeanzeigen</strong></p>
-<p><strong>✅  So meldest Du dich für das Amazon Partnerprogramm an</strong></p>
-<p><strong>✅  Deine Verdienstchancen: Affiliate Business - ein guter Weg zum guten Nebeneinkommen?</strong></p>
-<p><span style="background-color:#ffff00;"><strong>+ den Kurs: Affiliate Cash Machine (Wert 97 hier für 0 Euro!)</strong></span></p>
-<p><span style="background-color:#ffff00;"><strong>Im Upsell warten über 150 Euro Netto Provision auf Dich und ein Abo für wiederkehrente Provisionen! Hohe Conversion, da es eine Testwoche gibt (an der Du auch verdienst)!</strong></span></p>
+**Vendor's marketplace description:** Affiliate Marketing: ohne eigene Ware, weltweit Geld verdienen! Hier gibt es alles über: ✅ Vorraussetzungen, um Geld zu verdienen ✅ Geld verdienen mit Werbeanzeigen ✅ So meldest Du dich für das Amazon Partnerprogramm an ✅ Deine Verdienstchancen: Affiliate Business - ein guter Weg zum guten Nebeneinkommen? + den Kurs: Affiliate Cash Machine (Wert 97 hier für 0 Euro!) Im Upsell warten über 150 Euro Netto Provision auf Dich und ein Abo für wiederkehrente Provisionen! Hohe Conversion, da es eine Testwoche gibt (an der Du auch verdienst)!
 
 ## 2. Links
 

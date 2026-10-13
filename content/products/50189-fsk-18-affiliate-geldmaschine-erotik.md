@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><span style="background-color:#ffff00;"><em><strong>FSK 18 Affiliate - Geldmaschine Erotik</strong></em></span></div>
-<div> </div>
-<div><em><strong>✅ </strong>Deine Community erhält die profitabelsten Strategien zum Geld verdienen als Adult Affiliate im Internet.</em></div>
-<div> </div>
-<div><em><strong>✅ Die besten Partnerprogramme im Adult Bereich (Only Fans war gestern)</strong></em></div>
-<div> </div>
-<div><em><strong>✅ Die besten Investionen im Adultbereich...</strong></em></div>
-<div> </div>
-<div><em>✅ Alles was man über den Adult Bereich wissen musst...</em></div>
-<div> </div>
-<div><span style="background-color:#ffff00;"><em><strong>Du kannst durch Upsells und AddOn bis zu 127 Euro verdienen</strong></em></span></div>
+**Vendor's marketplace description:** FSK 18 Affiliate - Geldmaschine Erotik ✅ Deine Community erhält die profitabelsten Strategien zum Geld verdienen als Adult Affiliate im Internet. ✅ Die besten Partnerprogramme im Adult Bereich (Only Fans war gestern) ✅ Die besten Investionen im Adultbereich... ✅ Alles was man über den Adult Bereich wissen musst... Du kannst durch Upsells und AddOn bis zu 127 Euro verdienen
 
 ## 2. Links
 

@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Empfehle diesen Guide weiter und erhalte 50% Provision auf alle Up- &amp; Down-Sells.</strong></p>
-<p><strong>Auf der Partnerseite ist für dich alles vorbereitet. eMail Vorlagen, Social Media Texte, ...<br /><br /></strong></p>
-<p><strong>Dein Heil-Frequenz-Guid<br /></strong></p>
-<h2>Dein Einstieg – kostenfrei</h2>
-<p>Dein Leitfaden zum Einstieg als 1. Schritt zu mehr Bewusstsein &amp; Leichtigkeit</p>
-<p>Spürst du den Wunsch nach mehr innerer Ruhe und Klarheit? Dieser Guide zeigt dir den ersten, leichten Schritt.</p>
-<ul>
-<li>Was sind Heil-Frequenzen?</li>
-<li>Die 8 stärksten Heil-Frequenzen für Körper, Geist &amp; Seele</li>
-<li>Wie kannst du diese für dich nutzen?</li>
-<li>Tägliche Anwendungs-Tipps</li>
-<li>Was sind heilende Klänge?</li>
-<li>3 Schlüssel zur Aktivierung deiner inneren Energie</li>
-<li>Solfeggio-Frequenzen u.v.m.</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** Empfehle diesen Guide weiter und erhalte 50% Provision auf alle Up- & Down-Sells. Auf der Partnerseite ist für dich alles vorbereitet. eMail Vorlagen, Social Media Texte, ... Dein Heil-Frequenz-Guid Dein Einstieg – kostenfrei Dein Leitfaden zum Einstieg als 1. Schritt zu mehr Bewusstsein & Leichtigkeit Spürst du den Wunsch nach mehr innerer Ruhe und Klarheit? Dieser Guide zeigt dir den ersten, leichten Schritt. Was sind Heil-Frequenzen? Die 8 stärksten Heil-Frequenzen für Körper, Geist & Seele Wie kannst du diese für dich nutzen? Tägliche Anwendungs-Tipps Was sind heilende Klänge? 3 Schlüssel zur Aktivierung deiner inneren Energie Solfeggio-Frequenzen u.v.m.
 
 ## 2. Links
 

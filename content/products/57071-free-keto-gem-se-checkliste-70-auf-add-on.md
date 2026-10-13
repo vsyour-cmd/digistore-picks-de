@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Keto Gemüse Checkliste</p>
-<p>Verschenke eine kostenfreie Keto Checkliste und profitiere von einem vollständig aufgebauten Funnel.</p>
-<p>Deine Besucher erhalten eine praktische Übersicht darüber, welche Gemüsesorten bei Keto geeignet sind und welche aufgrund ihres Kohlenhydratgehalts nur in kleinen Mengen verzehrt werden sollten.</p>
-<p><strong>Deine Vorteile als Affiliate:</strong></p>
-<ul>
-<li>Kostenfreie Checkliste als attraktiver Leadmagnet</li>
-<li><strong>70 % Provision</strong> auf das Keto Diät Basics E-Book</li>
-<li>Möglichkeit auf weitere Provisionen durch Folgekäufe</li>
-<li>Fertig eingerichteter Mitgliederbereich und E-Mail-Funnel</li>
-<li>Kein Verkauf notwendig – einfach die Checkliste empfehlen</li>
-</ul>
-<p>Ideal für Webseiten, Social Media Kanäle, Newsletter oder Communities rund um Ernährung, Gesundheit, Abnehmen und Keto.</p>
+**Vendor's marketplace description:** Keto Gemüse Checkliste Verschenke eine kostenfreie Keto Checkliste und profitiere von einem vollständig aufgebauten Funnel. Deine Besucher erhalten eine praktische Übersicht darüber, welche Gemüsesorten bei Keto geeignet sind und welche aufgrund ihres Kohlenhydratgehalts nur in kleinen Mengen verzehrt werden sollten. Deine Vorteile als Affiliate: Kostenfreie Checkliste als attraktiver Leadmagnet 70 % Provision auf das Keto Diät Basics E-Book Möglichkeit auf weitere Provisionen durch Folgekäufe Fertig eingerichteter Mitgliederbereich und E-Mail-Funnel Kein Verkauf notwendig – einfach die Checkliste empfehlen Ideal für Webseiten, Social Media Kanäle, Newsletter oder Communities rund um Ernährung, Gesundheit, Abnehmen und Keto.
 
 ## 2. Links
 

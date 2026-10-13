@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Praxisorientiertes Toolkit für Führungskräfte, Teamleiter und Inhaber kleiner Unternehmen.</strong></p>
-<p>Das Mitarbeitergespräche Praxis-Toolkit unterstützt bei der Vorbereitung, Durchführung und Nachverfolgung von Mitarbeitergesprächen – besonders dann, wenn Themen klar und verbindlich angesprochen werden müssen.</p>
-<p>Enthalten sind unter anderem:</p>
-<ul>
-<li>10-Minuten-Gesprächsvorbereitung</li>
-<li>universeller Gesprächsleitfaden</li>
-<li>über 100 praxistaugliche Fragen</li>
-<li>umfangreiche Formulierungsbibliothek</li>
-<li>editierbare Vorlagen</li>
-<li>Gesprächsprotokoll</li>
-<li>Ziel- und Maßnahmenplan</li>
-<li>Excel Follow-up-Tracker</li>
-<li>sechs vollständige Praxisfälle mit Dialogbeispielen</li>
-</ul>
-<p><strong>Zielgruppe:</strong> Führungskräfte, Teamleiter, Schicht- und Bereichsleiter, Filialleiter sowie Inhaber kleiner und mittlerer Unternehmen.</p>
-<p><strong>Verkaufspreis:</strong> 39 € einmalig<br /><strong>Affiliate-Provision:</strong> 50 %</p>
-<p>Der Schwerpunkt liegt auf konkreter Gesprächsführung, Struktur, Formulierungen und organisatorischer Nachverfolgung. Das Produkt ist keine arbeitsrechtliche Beratung.</p>
+**Vendor's marketplace description:** Praxisorientiertes Toolkit für Führungskräfte, Teamleiter und Inhaber kleiner Unternehmen. Das Mitarbeitergespräche Praxis-Toolkit unterstützt bei der Vorbereitung, Durchführung und Nachverfolgung von Mitarbeitergesprächen – besonders dann, wenn Themen klar und verbindlich angesprochen werden müssen. Enthalten sind unter anderem: 10-Minuten-Gesprächsvorbereitung universeller Gesprächsleitfaden über 100 praxistaugliche Fragen umfangreiche Formulierungsbibliothek editierbare Vorlagen Gesprächsprotokoll Ziel- und Maßnahmenplan Excel Follow-up-Tracker sechs vollständige Praxisfälle mit Dialogbeispielen Zielgruppe: Führungskräfte, Teamleiter, Schicht- und Bereichsleiter, Filialleiter sowie Inhaber kleiner und mittlerer Unternehmen. Verkaufspreis: 39 € einmalig Affiliate-Provision: 50 % Der Schwerpunkt liegt auf konkreter Gesprächsführung, Struktur, Formulierungen und organisatorischer Nachverfolgung. Das Produkt ist keine arbeitsrechtliche Beratung.
 
 ## 2. Links
 

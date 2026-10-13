@@ -41,34 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Brandneuer VSL | 50% Provision</strong></h2>
-<p>✔︎ Brandneues System im Trendmarkt "Online-Umfragen"!<br />✔︎ Einfach Traffic schicken und verdienen!<br />✔︎ Erstellt von erfahrenen Top-Vendoren mit ⭐️⭐️⭐️⭐️⭐️ auf Digistore24!<br />✔︎ Hohe Conversion-Rates dank optimiertem Funnel!<br />✔︎ Du verdienst automatisch an allen Upsells mit – volle Provision auf den gesamten Funnel!</p>
-<p> </p>
-<p><em><strong>Klicke jetzt auf den Button für Partnerprogramm &amp; Werbemittel!</strong></em></p>
-<p><a href="https://umfragen-system.de/partnerprogramm/" target="_blank" rel="noreferrer noopener"><img src="https://www.digistore24-app.com/pb/img/merchant_831468/image/orderform_image/BR1WKQDS.png" alt="Beschreibung des Bildes" width="200" /></a></p>
-<p> </p>
-<hr />
-<p> </p>
-<h3><strong>✅ Kostenloser Affiliate-Kurs für Anfänger!</strong></h3>
-<p> </p>
-<table style="border-collapse:collapse;width:100%;" border="1">
-<tbody>
-<tr>
-<td style="width:53.1316%;">
-<p>Für alle Anfänger im Affiliate Marketing haben wir einen kostenlosen Kurs zusammengestellt der dir hilft möglichst schnell und einfach mit unseren Affiiate-Produkten Geld zu verdienen!</p>
-<p> </p>
-<p><em><strong>Klicke jetzt auf den Button um dir den kostenlosen Kurs zu sichern und noch Heute durchzustarten!</strong></em></p>
-<p> <a href="https://business-kickstart.de/affiliate-starter/#aff=AFFILIATE&amp;cam=marktplatz-ki-komplettsystem-590882" target="_blank" rel="noreferrer noopener"><img src="https://www.digistore24-app.com/pb/img/merchant_831468/image/orderform_image/Y25H71LJ.png" alt="Beschreibung des Bildes" width="240" /></a></p>
-</td>
-<td style="width:46.8684%;"><a href="https://business-kickstart.de/affiliate-starter/#aff=AFFILIATE&amp;cam=marktplatz-ki-komplettsystem-590882" target="_blank" rel="noreferrer noopener"><img src="https://www.digistore24-app.com/pb/img/merchant_831468/image/product/1704XU33.png" alt="Beschreibung des Bildes" width="240" /></a></td>
-</tr>
-</tbody>
-</table>
-<p> </p>
-<hr />
-<p> </p>
-<p>Bei Fragen schreibe uns eine E-Mail an <span style="color:#0000ff;"><a href="mailto:info@coaching.business-kickstart.de">info@coaching.business-kickstart.de</a></span></p>
-<p> </p>
+**Vendor's marketplace description:** Brandneuer VSL | 50% Provision ✔︎ Brandneues System im Trendmarkt "Online-Umfragen"! ✔︎ Einfach Traffic schicken und verdienen! ✔︎ Erstellt von erfahrenen Top-Vendoren mit ⭐️⭐️⭐️⭐️⭐️ auf Digistore24! ✔︎ Hohe Conversion-Rates dank optimiertem Funnel! ✔︎ Du verdienst automatisch an allen Upsells mit – volle Provision auf den gesamten Funnel! Klicke jetzt auf den Button für Partnerprogramm & Werbemittel! ✅ Kostenloser Affiliate-Kurs für Anfänger! Für alle Anfänger im Affiliate Marketing haben wir einen kostenlosen Kurs zusammengestellt der dir hilft möglichst schnell und einfach mit unseren Affiiate-Produkten Geld zu verdienen! Klicke jetzt auf den Button um dir den kostenlosen Kurs zu sichern und noch Heute durchzustarten! Bei Fragen schreibe uns eine E-Mail an info@coaching.business-kickstart.de
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <ul>
-<li><strong>Mindestens 50% Provision auf Addons &amp; Upsells</strong>: Zusätzliche Tools, exklusive Inhalte und Premium-Updates sorgen für ein hohes Potenzial an Upsells, von denen du als Affiliate direkt profitierst.</li>
-<li><strong>Hohes Interesse und steigende Nachfrage</strong>: Etsy ist eine spannende Plattform, wo du die passenden Produkte noch mit sehr wenig Konkurrenz bewerben kannst.</li>
-<li><strong>Attraktive Preise und skalierbare Einnahmen</strong>: Der Kurs deckt alles ab, was Content Creator brauchen, um viral zu gehen, und bietet somit hervorragende Konversionsraten bei breiten Zielgruppen.</li>
-</ul>
-<p><strong>Affiliate-Provisionen:</strong></p>
-<ul>
-<li><strong>50% Provision</strong> auf den Kurspreis</li>
-<li><strong>Mindestens 50% Provision auf Addons und Upsells</strong> für maximale Umsatzchancen</li>
-</ul>
+**Vendor's marketplace description:** Mindestens 50% Provision auf Addons & Upsells : Zusätzliche Tools, exklusive Inhalte und Premium-Updates sorgen für ein hohes Potenzial an Upsells, von denen du als Affiliate direkt profitierst. Hohes Interesse und steigende Nachfrage : Etsy ist eine spannende Plattform, wo du die passenden Produkte noch mit sehr wenig Konkurrenz bewerben kannst. Attraktive Preise und skalierbare Einnahmen : Der Kurs deckt alles ab, was Content Creator brauchen, um viral zu gehen, und bietet somit hervorragende Konversionsraten bei breiten Zielgruppen. Affiliate-Provisionen: 50% Provision auf den Kurspreis Mindestens 50% Provision auf Addons und Upsells für maximale Umsatzchancen
 
 ## 2. Links
 

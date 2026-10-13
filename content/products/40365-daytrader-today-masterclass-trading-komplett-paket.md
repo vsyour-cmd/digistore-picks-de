@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Vermittle die aktuell schnellste &amp; sicherste (Day)Trader Ausbildung, die im deutschsprachigen Raum angeboten wird. Extrem hohe Nachfrage! </strong></p>
-<p><strong><br /> </strong><span style="background-color:#ffff00;"><strong>Darum wählen unsere Kunden Daytrader Today:</strong></span></p>
-<ul>
-<li>Lerne das Trading von einem echten Trader</li>
-<li>Schnelle, einfache &amp; unkomplizierte Schulung</li>
-<li>Strategien inklusive</li>
-<li>Einfache Copy &amp; Paste Anwendung</li>
-<li>Hochprofitables &amp; sicheres Trading-System mit einer nachweislich 85-90% Trefferquote</li>
-<li>Seit über 16 Jahren hochprofitabel im Einsatz in jeder Marktphase</li>
-</ul>
-<p><span style="background-color:#ffff00;"><strong>Vorteile für Affiliates: </strong></span></p>
-<ul>
-<li>30% Provision</li>
-<li>Produkt für Einsteiger &amp; Fortgeschrittene</li>
-<li>Starke Produkt-Nachfrage</li>
-<li>Hohe Kundenzufriedenheit</li>
-</ul>
-<p><br /> <span style="background-color:#ffff00;">WICHTIG:</span><br /> <br /> <strong>&gt; Direktwerbung via Google Ads ist nicht zulässig!</strong></p>
+**Vendor's marketplace description:** Vermittle die aktuell schnellste & sicherste (Day)Trader Ausbildung, die im deutschsprachigen Raum angeboten wird. Extrem hohe Nachfrage! Darum wählen unsere Kunden Daytrader Today: Lerne das Trading von einem echten Trader Schnelle, einfache & unkomplizierte Schulung Strategien inklusive Einfache Copy & Paste Anwendung Hochprofitables & sicheres Trading-System mit einer nachweislich 85-90% Trefferquote Seit über 16 Jahren hochprofitabel im Einsatz in jeder Marktphase Vorteile für Affiliates: 30% Provision Produkt für Einsteiger & Fortgeschrittene Starke Produkt-Nachfrage Hohe Kundenzufriedenheit WICHTIG: > Direktwerbung via Google Ads ist nicht zulässig!
 
 ## 2. Links
 

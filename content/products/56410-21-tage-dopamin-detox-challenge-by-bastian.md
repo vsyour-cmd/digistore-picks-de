@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Diese 21-Tage-Challenge ist ein digitales E-Book, das dir einen wissenschaftlich fundierten Weg bietet, um dein Gehirn von digitaler Überreizung zu befreien und deine volle Konzentration zurückzugewinnen. Auf 48 praxisnahen Seiten wirst du durch tägliche Missionen und gezielte Reflexionsübungen Schritt für Schritt zu einem bewussteren Lebensstil geführt. Das minimalistische Format ermöglicht es dir, den Ratgeber jederzeit auf deinem Tablet, Smartphone oder E-Reader zu nutzen, um ohne Ablenkung an deiner mentalen Klarheit zu arbeiten. Dieses E-Book ist dein persönlicher Begleiter, um die Kontrolle über deine Aufmerksamkeit zurückzuerlangen und echte Zufriedenheit im Hier und Jetzt zu finden.</p>
+**Vendor's marketplace description:** Diese 21-Tage-Challenge ist ein digitales E-Book, das dir einen wissenschaftlich fundierten Weg bietet, um dein Gehirn von digitaler Überreizung zu befreien und deine volle Konzentration zurückzugewinnen. Auf 48 praxisnahen Seiten wirst du durch tägliche Missionen und gezielte Reflexionsübungen Schritt für Schritt zu einem bewussteren Lebensstil geführt. Das minimalistische Format ermöglicht es dir, den Ratgeber jederzeit auf deinem Tablet, Smartphone oder E-Reader zu nutzen, um ohne Ablenkung an deiner mentalen Klarheit zu arbeiten. Dieses E-Book ist dein persönlicher Begleiter, um die Kontrolle über deine Aufmerksamkeit zurückzuerlangen und echte Zufriedenheit im Hier und Jetzt zu finden.
 
 ## 2. Links
 

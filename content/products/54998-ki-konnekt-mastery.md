@@ -41,59 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>KI Konnekt – Mastery</strong> ist ein praxisorientierter Onlinekurs, der zeigt, wie Websites, Onlineshops und digitale Inhalte für die neue KI-Suche optimiert werden. Statt klassischem Google-SEO lernen Teilnehmer, wie sie von KI-Systemen wie ChatGPT, Google Gemini, Perplexity und Copilot empfohlen werden.</p>
-<p>Die Art zu suchen verändert sich grundlegend. <strong><span style="color:#ff0000;">Nutzer googeln immer weniger</span></strong> und stellen ihre Fragen direkt an <span style="color:#ff0000;">k<strong><span style="color:#ff0000;">ün</span>stliche Intelligenzen</strong></span>. Wer dort nicht sichtbar ist, verliert Reichweite, Traffic und potenzielle Kunden. Genau hier setzt dieser Kurs an.</p>
-<hr />
-<h3>Zielgruppe</h3>
-<p>Der Kurs richtet sich an:</p>
-<ul>
-<li>
-<p>Website- und Onlineshop-Betreiber</p>
-</li>
-<li>
-<p>Selbstständige und Unternehmer</p>
-</li>
-<li>
-<p>Agenturen, Freelancer und Marketer</p>
-</li>
-<li>
-<p>Coaches, Berater und Dienstleister</p>
-</li>
-<li>
-<p>Alle, die ihre Online-Sichtbarkeit langfristig sichern möchten</p>
-</li>
-</ul>
-<p><span style="color:#ff0000;">Vorkenntnisse sind nicht erforderlich.</span></p>
-<hr />
-<h3>Kursinhalte</h3>
-<p>Der Kurs besteht aus fünf aufeinander aufbauenden Modulen:</p>
-<p><strong>Modul 1:</strong> Wie sich Suche verändert hat und wie KI Entscheidungen trifft<br /><br /><strong>Modul 2:</strong> KI-verständlicher Content und Texte, die empfohlen werden<br /><br /><strong>Modul 3:</strong> Vertrauen, Autorität und E-E-A-T für KI-Systeme<br /><br /><strong>Modul 4:</strong> Struktur, Technik und Metadaten für maximale KI-Erkennung<br /><br /><strong>Modul 5:</strong> Social Signals und digitale Autorität</p>
-<p>Zusätzlich enthalten ist ein Bonusmodul mit einem <strong>KI-Chatbot</strong>, der alle Kursinhalte kennt, sowie ein <span style="background-color:#ffff00;"><strong>kostenloser KI-Sichtbarkeits-Check.</strong></span></p>
-<hr />
-<h3>Besonderheiten und Vorteile</h3>
-<ul>
-<li>
-<p>Fokus auf KI-Suche statt klassischem SEO</p>
-</li>
-<li>
-<p>Klarer Schritt-für-Schritt-Fahrplan</p>
-</li>
-<li>
-<p>Praxisnah und sofort umsetzbar</p>
-</li>
-<li>
-<p>Zukunftssicheres Thema mit hoher Nachfrage</p>
-</li>
-<li>
-<p>Hoher Mehrwert für Teilnehmer</p>
-</li>
-</ul>
-<hr />
-<h3>Provision</h3>
-<p><br />Du erhältst ganze <span style="background-color:#ffff00;"><strong>50</strong><strong><strong> </strong>Prozent</strong> Provision!</span><br /><br /></p>
-<hr />
-<h3>Warum sich die Bewerbung lohnt</h3>
-<p>KI und Sichtbarkeit gehören aktuell zu den gefragtesten Online-Themen. Der Kurs löst ein konkretes Problem, hat eine breite Zielgruppe und lässt sich hervorragend über E-Mail-Marketing, Social Media, Content oder Ads bewerben.</p>
+**Vendor's marketplace description:** KI Konnekt – Mastery ist ein praxisorientierter Onlinekurs, der zeigt, wie Websites, Onlineshops und digitale Inhalte für die neue KI-Suche optimiert werden. Statt klassischem Google-SEO lernen Teilnehmer, wie sie von KI-Systemen wie ChatGPT, Google Gemini, Perplexity und Copilot empfohlen werden. Die Art zu suchen verändert sich grundlegend. Nutzer googeln immer weniger und stellen ihre Fragen direkt an k ün stliche Intelligenzen . Wer dort nicht sichtbar ist, verliert Reichweite, Traffic und potenzielle Kunden. Genau hier setzt dieser Kurs an. Zielgruppe Der Kurs richtet sich an: Website- und Onlineshop-Betreiber Selbstständige und Unternehmer Agenturen, Freelancer und Marketer Coaches, Berater und Dienstleister Alle, die ihre Online-Sichtbarkeit langfristig sichern möchten Vorkenntnisse sind nicht erforderlich. Kursinhalte Der Kurs besteht aus fünf aufeinander aufbauenden Modulen: Modul 1: Wie sich Suche verändert hat und wie KI Entscheidungen trifft Modul 2: KI-verständlicher Content und Texte, die empfohlen werden Modul 3: Vertrauen, Autorität und E-E-A-T für KI-Systeme Modul 4: Struktur, Technik und Metadaten für maximale KI-Erkennung Modul 5: Social Signals und digitale Autorität Zusätzlich enthalten ist ein Bonusmodul mit einem KI-Chatbot , der alle Kursinhalte kennt, sowie ein kostenloser KI-Sichtbarkeits-Check. Besonderheiten und Vorteile Fokus auf KI-Suche statt klassischem SEO Klarer Schritt-für-Schritt-Fahrplan Praxisnah und sofort umsetzbar Zukunftssicheres Thema mit hoher Nachfrage Hoher Mehrwert für Teilnehmer Provision Du erhältst ganze 50 Prozent Provision! Warum sich die Bewerbung lohnt KI und Sichtbarkeit gehören aktuell zu den gefragtesten Online-Themen. Der Kurs löst ein konkretes Problem, hat eine breite Zielgruppe und lässt sich hervorragend über E-Mail-Marketing, Social Media, Content oder Ads bewerben.
 
 ## 2. Links
 

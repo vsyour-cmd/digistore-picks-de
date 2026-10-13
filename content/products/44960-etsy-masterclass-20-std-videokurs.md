@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4 style="text-align:center;"><strong>Geld verdienen mit dem Produkt <span style="color:#ff6600;">Etsy Masterclass - 100.000€ in einem Jahr erreichen mit Print on Demand</span></strong></h4>
-<h4 style="text-align:center;"><strong>Initial<br />15% Sale-Provisionen (für jede 498€ Bestellung)<br /></strong></h4>
-<p><strong>Sale Provision</strong></p>
-<p>Sofern sich Deine Kontakte, die Interessenten, sich dazu entschließen, <strong>die Etsy Masterclass</strong> zu kaufen, können sie sofort auf den 19 Std. Kurs zugreifen und du erhälst deine Verkaufsprovision. Sie bezahlen entweder den Kurs sofort oder in 2 bis maximal 3 Raten ab.</p>
-<p><span style="background-color:#ffff99;">Pro Sale erhälst du hier eine Provision von <strong>knapp 75€!</strong></span></p>
-<p><span style="text-decoration:underline;">Die angesprochene Zielgruppe sieht wie folgt aus:</span><br />- Frauen, zwischen 20 und 40 Jahren</p>
-<p>- die den idealen Neben- oder Hauptjob suchen, bei dem sie von zu Hause aus bequem online Geld verdienen können</p>
-<p>- die die Kontrolle über ihre Zeit zurück möchten und selbst einteilen können, wann sie arbeiten und wann nicht<br /><br /><strong>ACHTUNG: Keine Goolge Ads Werbung, diese Affiliates werden sofort blockiert.</strong></p>
+**Vendor's marketplace description:** Geld verdienen mit dem Produkt Etsy Masterclass - 100.000€ in einem Jahr erreichen mit Print on Demand Initial 15% Sale-Provisionen (für jede 498€ Bestellung) Sale Provision Sofern sich Deine Kontakte, die Interessenten, sich dazu entschließen, die Etsy Masterclass zu kaufen, können sie sofort auf den 19 Std. Kurs zugreifen und du erhälst deine Verkaufsprovision. Sie bezahlen entweder den Kurs sofort oder in 2 bis maximal 3 Raten ab. Pro Sale erhälst du hier eine Provision von knapp 75€! Die angesprochene Zielgruppe sieht wie folgt aus: - Frauen, zwischen 20 und 40 Jahren - die den idealen Neben- oder Hauptjob suchen, bei dem sie von zu Hause aus bequem online Geld verdienen können - die die Kontrolle über ihre Zeit zurück möchten und selbst einteilen können, wann sie arbeiten und wann nicht ACHTUNG: Keine Goolge Ads Werbung, diese Affiliates werden sofort blockiert.
 
 ## 2. Links
 

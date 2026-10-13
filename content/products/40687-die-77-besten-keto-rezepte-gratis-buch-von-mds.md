@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4 style="text-align:left;">Digistore24 Affiliatebereich: </h4>
-<h4><strong><span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.digistore24-app.com/account/partnerarea/165719/de">https://www.digistore24-app.com/account/partnerarea/165719/de</a></span></strong></h4>
-<p>Bewerbe unser brandneues Buch "Die 77 besten Keto Rezepte" in digitaler Form.</p>
-<p>Als Upsell 1 besteht die Möglichkeit unsere bewährten Fett Weg Pläne und Rezepte zu erhalten als Monatsabo</p>
-<p>In den ersten 14 Tagen für 0€, somit hat der Kunde 14 Tage Zeit zu testen und ab 15 Tagen werden dann so wie jeden weiteren Monat 29,97€ fällig (Auf Abos gibt es 50% Provision auf Lebenszeit - Monat für Monat)</p>
-<p>Als zweites Upsell besteht die Möglichkeit unserem Beach Body Club beizutreten als Monatsabo.</p>
-<p>Hier hat der Kunde 21 Tage Zeit um das Produkt für 0€ zu testen und danach werden auch hier 29,97€ monatlich fällig. Auch hier gibt es 50% Abo Provision auf Lebenszeit</p>
-<p>Rückgabezeitraum beträgt lediglich 14 Tage.</p>
-<p>Bewirb jetzt "Die 77 besten Keto Rezepte" und erhalte auf die beiden Abos jeweils 50% Provision lebenslänglich und baue dir somit ein langfristiges monatliches Einkommen mit Abos auf.</p>
-<p>Für weitere Fragen sind wir jeder Zeit erreichbar: <a>support@machdichschlank.info</a></p>
+**Vendor's marketplace description:** Digistore24 Affiliatebereich: https://www.digistore24-app.com/account/partnerarea/165719/de Bewerbe unser brandneues Buch "Die 77 besten Keto Rezepte" in digitaler Form. Als Upsell 1 besteht die Möglichkeit unsere bewährten Fett Weg Pläne und Rezepte zu erhalten als Monatsabo In den ersten 14 Tagen für 0€, somit hat der Kunde 14 Tage Zeit zu testen und ab 15 Tagen werden dann so wie jeden weiteren Monat 29,97€ fällig (Auf Abos gibt es 50% Provision auf Lebenszeit - Monat für Monat) Als zweites Upsell besteht die Möglichkeit unserem Beach Body Club beizutreten als Monatsabo. Hier hat der Kunde 21 Tage Zeit um das Produkt für 0€ zu testen und danach werden auch hier 29,97€ monatlich fällig. Auch hier gibt es 50% Abo Provision auf Lebenszeit Rückgabezeitraum beträgt lediglich 14 Tage. Bewirb jetzt "Die 77 besten Keto Rezepte" und erhalte auf die beiden Abos jeweils 50% Provision lebenslänglich und baue dir somit ein langfristiges monatliches Einkommen mit Abos auf. Für weitere Fragen sind wir jeder Zeit erreichbar: support@machdichschlank.info
 
 ## 2. Links
 

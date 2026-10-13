@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das 90/10-System – Band I ist ein digitales Workbook für Anfängerinnen und Anfänger, die neben dem Beruf ihr erstes digitales Produkt entwickeln möchten.</p>
-<p>Das Workbook führt in sieben verständlichen Schritten von einer passenden Produktidee über Zielgruppe, Problem, Format und Struktur bis zum fertigen digitalen Produkt.</p>
-<p>Für Affiliates ist das Produkt besonders interessant, weil es eine klare Zielgruppe anspricht und ein konkretes Anfängerproblem löst: Viele Menschen möchten ein digitales Produkt erstellen, wissen aber nicht, wie sie ihre Idee sinnvoll eingrenzen und umsetzen sollen.</p>
-<p>Das Produkt kostet 37 € einmalig. Nach dem Kauf kann Band II „Sichtbar verkaufen“ als ergänzendes Upsell angeboten werden.</p>
-<p>Auf der Affiliate-Supportseite findest du fertige Werbetexte, Pinterest-Texte, Hooks, Produktinformationen und weitere Hinweise:</p>
-<p>https://rita-scheer.de/affiliate-support/</p>
+**Vendor's marketplace description:** Das 90/10-System – Band I ist ein digitales Workbook für Anfängerinnen und Anfänger, die neben dem Beruf ihr erstes digitales Produkt entwickeln möchten. Das Workbook führt in sieben verständlichen Schritten von einer passenden Produktidee über Zielgruppe, Problem, Format und Struktur bis zum fertigen digitalen Produkt. Für Affiliates ist das Produkt besonders interessant, weil es eine klare Zielgruppe anspricht und ein konkretes Anfängerproblem löst: Viele Menschen möchten ein digitales Produkt erstellen, wissen aber nicht, wie sie ihre Idee sinnvoll eingrenzen und umsetzen sollen. Das Produkt kostet 37 € einmalig. Nach dem Kauf kann Band II „Sichtbar verkaufen“ als ergänzendes Upsell angeboten werden. Auf der Affiliate-Supportseite findest du fertige Werbetexte, Pinterest-Texte, Hooks, Produktinformationen und weitere Hinweise: https://rita-scheer.de/affiliate-support/
 
 ## 2. Links
 

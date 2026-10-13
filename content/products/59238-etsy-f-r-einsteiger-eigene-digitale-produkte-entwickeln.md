@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Dein Publikum möchte eigene digitale Downloads für Etsy entwickeln?</strong> Das „Einfach mit Matze – Etsy-Praxispaket“ bietet Einsteigern einen schriftlichen Arbeitsweg: Idee prüfen, Produkt entwickeln, Dateien testen, Kosten durchrechnen und ein passendes Angebot vorbereiten.</p>
-<p><strong>Das erhalten Käufer:</strong></p>
-<ul>
-<li>36-seitigen PDF-Praxisguide</li>
-<li>12-seitiges ausfüllbares PDF-Arbeitsbuch mit 60 Formularfeldern</li>
-<li>Lokale HTML-Werkstatt für Briefing, Kostenrechnung und Listing-Entwurf</li>
-<li>Zweiseitigen Hundesitter-Musterdownload als Lernbeispiel und Startunterlagen</li>
-</ul>
-<p>Das deutschsprachige Selbstlernpaket kostet <strong>einmalig 99 € inklusive Mehrwertsteuer, ohne Abo</strong>. Der Nischen-Kompass mit 50 redaktionellen Etsy-Nischenideen ist ein separater, optionaler Zusatz für 9,99 €.</p>
-<p><strong>Für Affiliates:</strong> Die eingerichtete Provision beträgt 40 %; maßgeblich sind die aktuellen Konditionen im Digistore24-Konto. Zur Bewerbung stehen 44 Textvorlagen und Arbeitshilfen, 20 Werbegrafiken, 16 FAQ-Antworten, vier ZIP-Pakete, drei Produktvorschauen und eine vierseitige Leseprobe bereit.</p>
-<p><a href="https://einfachmitmatze.de/affiliate/etsy/"><strong>Etsy-Affiliate-Seite und Werbemittel öffnen</strong></a><br />Verwende deinen persönlichen Promolink aus der aktiven Digistore24-Partnerschaft für Produkt 732911.</p>
-<p>Die Bearbeitung erfolgt selbstständig mit PDF-Reader und Browser. Videos, persönliches Coaching, Community und Wiederverkaufsrechte an Kurs- oder Musterdateien sind nicht enthalten. Matze ist eine fiktive Erklärfigur. Verkäufe und Einnahmen werden nicht garantiert. Das Angebot ist unabhängig von Etsy.</p>
+**Vendor's marketplace description:** Dein Publikum möchte eigene digitale Downloads für Etsy entwickeln? Das „Einfach mit Matze – Etsy-Praxispaket“ bietet Einsteigern einen schriftlichen Arbeitsweg: Idee prüfen, Produkt entwickeln, Dateien testen, Kosten durchrechnen und ein passendes Angebot vorbereiten. Das erhalten Käufer: 36-seitigen PDF-Praxisguide 12-seitiges ausfüllbares PDF-Arbeitsbuch mit 60 Formularfeldern Lokale HTML-Werkstatt für Briefing, Kostenrechnung und Listing-Entwurf Zweiseitigen Hundesitter-Musterdownload als Lernbeispiel und Startunterlagen Das deutschsprachige Selbstlernpaket kostet einmalig 99 € inklusive Mehrwertsteuer, ohne Abo . Der Nischen-Kompass mit 50 redaktionellen Etsy-Nischenideen ist ein separater, optionaler Zusatz für 9,99 €. Für Affiliates: Die eingerichtete Provision beträgt 40 %; maßgeblich sind die aktuellen Konditionen im Digistore24-Konto. Zur Bewerbung stehen 44 Textvorlagen und Arbeitshilfen, 20 Werbegrafiken, 16 FAQ-Antworten, vier ZIP-Pakete, drei Produktvorschauen und eine vierseitige Leseprobe bereit. Etsy-Affiliate-Seite und Werbemittel öffnen Verwende deinen persönlichen Promolink aus der aktiven Digistore24-Partnerschaft für Produkt 732911. Die Bearbeitung erfolgt selbstständig mit PDF-Reader und Browser. Videos, persönliches Coaching, Community und Wiederverkaufsrechte an Kurs- oder Musterdateien sind nicht enthalten. Matze ist eine fiktive Erklärfigur. Verkäufe und Einnahmen werden nicht garantiert. Das Angebot ist unabhängig von Etsy.
 
 ## 2. Links
 

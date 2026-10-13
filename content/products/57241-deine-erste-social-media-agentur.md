@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Deine erste Social Media Agentur“</strong></p>
-<p>Kunden gewinnen ohne eigene Reichweite – Eine Social-Media-Agentur braucht keine Million Follower. Wie du deine Dienstleistung festlegst, Angebot und Preise gestaltest, erste Kunden gewinnst und Ergebnisse lieferst.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Deine Dienstleistung und Nische klar festlegen</li>
-<li>Ein Angebot mit nachvollziehbaren Preisen gestalten</li>
-<li>Erste Kunden gewinnen – ohne eigene Reichweite</li>
-<li>Verträge, Datenschutz und Steuern sauber regeln</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Deine erste Social Media Agentur“ Kunden gewinnen ohne eigene Reichweite – Eine Social-Media-Agentur braucht keine Million Follower. Wie du deine Dienstleistung festlegst, Angebot und Preise gestaltest, erste Kunden gewinnst und Ergebnisse lieferst. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Deine Dienstleistung und Nische klar festlegen Ein Angebot mit nachvollziehbaren Preisen gestalten Erste Kunden gewinnen – ohne eigene Reichweite Verträge, Datenschutz und Steuern sauber regeln
 
 ## 2. Links
 

@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Bodo Schäfer – Europas Moneycoach Nr. 1 – verschenkt sein Bestseller-Buch:</strong></p>
-<p><strong>„ICH KANN DAS.“</strong></p>
-<p> </p>
-<p>Für dich als Affiliate bedeutet das:</p>
-<p><strong>5 € netto Provision pro verschenktem Buch</strong></p>
-<p><strong>80 % Provision auf zwei extrem attraktive Upsells:</strong></p>
-<p>Turbo-Paket „ICH KANN DAS.“<br />→ Dein Anteil: 80 % von 47 €</p>
-<p>Online-Live-Seminar „Aufbruch“<br />→ Dein Anteil: 80 % von 197 €</p>
-<p> </p>
-<p><strong>Warum Affiliates hier stark profitieren:</strong></p>
-<p>Europas bekanntester Moneycoach = Top-Marke mit maximalem Vertrauen<br />Kostenloses Buch = extrem niedrige Einstiegshürde &amp; hohe Conversion<br />Attraktive Kombination: Fixe 5 € pro Buch + satte Upsell-Provisionen<br />Sofort einsatzbereite Werbemittel, einfache Abwicklung &amp; starke Community</p>
-<p>Jetzt einsteigen, Link platzieren und von jeder Bestellung profitieren!</p>
+**Vendor's marketplace description:** Bodo Schäfer – Europas Moneycoach Nr. 1 – verschenkt sein Bestseller-Buch: „ICH KANN DAS.“ Für dich als Affiliate bedeutet das: 5 € netto Provision pro verschenktem Buch 80 % Provision auf zwei extrem attraktive Upsells: Turbo-Paket „ICH KANN DAS.“ → Dein Anteil: 80 % von 47 € Online-Live-Seminar „Aufbruch“ → Dein Anteil: 80 % von 197 € Warum Affiliates hier stark profitieren: Europas bekanntester Moneycoach = Top-Marke mit maximalem Vertrauen Kostenloses Buch = extrem niedrige Einstiegshürde & hohe Conversion Attraktive Kombination: Fixe 5 € pro Buch + satte Upsell-Provisionen Sofort einsatzbereite Werbemittel, einfache Abwicklung & starke Community Jetzt einsteigen, Link platzieren und von jeder Bestellung profitieren!
 
 ## 2. Links
 

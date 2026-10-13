@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Potenzielle Kunden:</strong></p>
-<p> </p>
-<ul>
-<li>Jeder der einen Leadmagneten erstellen möchte</li>
-<li>Jeder der mit E-Mail Marketing starten möchte</li>
-<li>Jeder der Hilfe benötigt, wie man seine E-Mail Liste aufbaut</li>
-</ul>
-<p> </p>
-<p> </p>
-<p><strong>Deine Vorteile als Affiliate auf einen Blick:</strong></p>
-<ul>
-<li><strong>Durch Order Bump auf der Bestellseite, direkt mehr Provisionen bekommen</strong></li>
-<li><strong>Die Verkaufsseite wird stetig Conversion optimiert Ideales Produkt</strong></li>
-<li><strong>für "jeden" der mit E-Mail Marketing starten möchte</strong></li>
-<li><strong>Die Verkaufsseite ist speziel mobil optimiert, um beste Ergebnisse zu erzielen</strong></li>
-<li><strong>Du erhältst 50% Provision auf das Hauptprodukt, sowie auf Order Bumps und Upsells </strong></li>
-</ul>
+**Vendor's marketplace description:** Potenzielle Kunden: Jeder der einen Leadmagneten erstellen möchte Jeder der mit E-Mail Marketing starten möchte Jeder der Hilfe benötigt, wie man seine E-Mail Liste aufbaut Deine Vorteile als Affiliate auf einen Blick: Durch Order Bump auf der Bestellseite, direkt mehr Provisionen bekommen Die Verkaufsseite wird stetig Conversion optimiert Ideales Produkt für "jeden" der mit E-Mail Marketing starten möchte Die Verkaufsseite ist speziel mobil optimiert, um beste Ergebnisse zu erzielen Du erhältst 50% Provision auf das Hauptprodukt, sowie auf Order Bumps und Upsells
 
 ## 2. Links
 

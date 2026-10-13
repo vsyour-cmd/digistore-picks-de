@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>KI ganz leicht verstehen</strong> ist ein Einsteigerkurs, der <strong>vor dem Webinar entstanden ist</strong> –<br />das Webinar wurde später gezielt entwickelt, um <strong>Affiliates den Verkauf so einfach wie möglich zu machen</strong>.</p>
-<p>Das Ergebnis ist ein <strong>automatisiertes Webinar-System</strong>, das Interessenten selbstständig abholt, informiert und zu einer Kaufentscheidung führt.</p>
-<p>Der Affiliate muss <strong>nicht erklären, nicht verkaufen und keine Technik beherrschen</strong>.<br />Er lädt lediglich Interessenten zum Webinar ein.</p>
-<h3>Wie das Affiliate-System funktioniert</h3>
-<p>Statt komplizierter Funnels oder Werbeanzeigen nutzt dieses System ein <strong>automatisiertes Webinar</strong>, das:</p>
-<p>• Interessenten automatisch passende Termine vorschlägt<br />• rund um die Uhr verfügbar ist<br />• Vertrauen aufbaut, bevor es verkauft<br />• auch für KI-Einsteiger verständlich erklärt ist</p>
-<p>Der Verkaufsprozess übernimmt das Webinar – <strong>nicht der Affiliate</strong>.</p>
-<h3>Das macht dieses Modell besonders</h3>
-<p>• extrem niedrige Einstiegshürde<br />• kein Technik-Setup notwendig<br />• kein Content-Zwang<br />• kein Druckverkauf<br />• ideal erklärbar für breite Zielgruppen<br />• funktioniert auch ohne Online-Erfahrung</p>
-<h3>Du bekommst:</h3>
-<p>• ein fertiges, automatisiertes Webinar als Verkaufsinstrument<br />• ein verständliches KI-Produkt mit hohem Alltagsnutzen<br />• ein klares Affiliate-Modell mit fairer Provision<br />• Zugang zu Community, Updates &amp; Support<br />• ein System, das auf Vertrauen statt Überredung basiert</p>
-<h3>Ideal für:</h3>
-<p>• Einsteiger ohne Marketing- oder Technikkenntnisse<br />• Menschen 40+, 50+ oder im Ruhestand<br />• Networker, die weg vom klassischen Pitch wollen<br />• Berater:innen &amp; Empfehlungsmarketing<br />• alle, die ein <strong>einfach erklärbares Affiliate-Produkt</strong> suchen</p>
-<p><strong>KI ganz leicht verstehen</strong> ist kein Hype-Produkt.<br />Es ist ein <strong>stabiles, ehrliches Affiliate-System</strong>, bei dem das Webinar die Arbeit übernimmt.</p>
+**Vendor's marketplace description:** KI ganz leicht verstehen ist ein Einsteigerkurs, der vor dem Webinar entstanden ist – das Webinar wurde später gezielt entwickelt, um Affiliates den Verkauf so einfach wie möglich zu machen . Das Ergebnis ist ein automatisiertes Webinar-System , das Interessenten selbstständig abholt, informiert und zu einer Kaufentscheidung führt. Der Affiliate muss nicht erklären, nicht verkaufen und keine Technik beherrschen . Er lädt lediglich Interessenten zum Webinar ein. Wie das Affiliate-System funktioniert Statt komplizierter Funnels oder Werbeanzeigen nutzt dieses System ein automatisiertes Webinar , das: • Interessenten automatisch passende Termine vorschlägt • rund um die Uhr verfügbar ist • Vertrauen aufbaut, bevor es verkauft • auch für KI-Einsteiger verständlich erklärt ist Der Verkaufsprozess übernimmt das Webinar – nicht der Affiliate . Das macht dieses Modell besonders • extrem niedrige Einstiegshürde • kein Technik-Setup notwendig • kein Content-Zwang • kein Druckverkauf • ideal erklärbar für breite Zielgruppen • funktioniert auch ohne Online-Erfahrung Du bekommst: • ein fertiges, automatisiertes Webinar als Verkaufsinstrument • ein verständliches KI-Produkt mit hohem Alltagsnutzen • ein klares Affiliate-Modell mit fairer Provision • Zugang zu Community, Updates & Support • ein System, das auf Vertrauen statt Überredung basiert Ideal für: • Einsteiger ohne Marketing- oder Technikkenntnisse • Menschen 40+, 50+ oder im Ruhestand • Networker, die weg vom klassischen Pitch wollen • Berater:innen & Empfehlungsmarketing • alle, die ein einfach erklärbares Affiliate-Produkt suchen KI ganz leicht verstehen ist kein Hype-Produkt. Es ist ein stabiles, ehrliches Affiliate-System , bei dem das Webinar die Arbeit übernimmt.
 
 ## 2. Links
 

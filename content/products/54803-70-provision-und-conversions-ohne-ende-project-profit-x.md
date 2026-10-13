@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><span style="color:#ff0000;">Die heftigste VSL im Deutschen Geld verdienen Markt?</span></h1>
-<p><span style="color:#000000;">Gib uns 20 Sekunden deiner Zeit. Schau dir den Anfang unserer VSL an und Du verstehst sofort, warum dieses System <strong>Provisionen druckt!</strong><br /><br /><strong>Bis zu 70% Provision im Funnel!</strong><br /><br />Schnapp dir deine E-Mail Vorlagen, drücke auf senden und schaue zu, wie dieses Produkt zu einem Gewinner für deine Liste wird. <br /><br />Hier ist alles, was du brauchst:  <a href="https://www.projectprofitx.com/affiliates/" target="_blank" rel="noreferrer noopener">https://www.projectprofitx.com/affiliates/</a></span></p>
+**Vendor's marketplace description:** Die heftigste VSL im Deutschen Geld verdienen Markt? Gib uns 20 Sekunden deiner Zeit. Schau dir den Anfang unserer VSL an und Du verstehst sofort, warum dieses System Provisionen druckt! Bis zu 70% Provision im Funnel! Schnapp dir deine E-Mail Vorlagen, drücke auf senden und schaue zu, wie dieses Produkt zu einem Gewinner für deine Liste wird. Hier ist alles, was du brauchst: https://www.projectprofitx.com/affiliates/
 
 ## 2. Links
 

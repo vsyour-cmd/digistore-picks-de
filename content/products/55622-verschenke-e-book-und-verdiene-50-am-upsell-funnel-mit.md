@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Verschenke das kostenfreie E-Book „Macht der Bilder“ und verdiene am Upsell.</p>
-<p>Das E-Book behandelt ein hochaktuelles Thema: Wie Bilder im Online Business über Aufmerksamkeit, Vertrauen und Professionalität entscheiden.</p>
-<p>Nach dem Download wird der Easy Picture Architekt als logischer nächster Schritt angeboten – ein Praxis-Kurs zur Erstellung professioneller KI-Business-Bilder.</p>
-<h2><strong>Dein Vorteil als Affiliate:</strong></h2>
-<p><strong><span style="background-color:#ffff99;">50 Prozent Provision auf den Easy Picture Architekt</span></strong></p>
-<p><br /><strong><span style="background-color:#ffff99;">50 Prozent Provision auf weitere Produkte innerhalb der Academy „Bye Bye Hamsterrad“</span></strong></p>
-<p><strong>Kostenfreier Einstieg für deine Zielgruppe.</strong><br />Hohe Relevanz durch KI- und Business-Bezug.<br />Klarer, conversionstarker Upsell-Prozess.<br />Langfristiges Provisionspotenzial durch Academy-Angebote.</p>
-<p>Wenn deine Community im Bereich Online Business, Selbstständigkeit oder digitale Produkte unterwegs ist, ist dieses Angebot eine starke Kombination aus Mehrwert und Verdienstchance.</p>
+**Vendor's marketplace description:** Verschenke das kostenfreie E-Book „Macht der Bilder“ und verdiene am Upsell. Das E-Book behandelt ein hochaktuelles Thema: Wie Bilder im Online Business über Aufmerksamkeit, Vertrauen und Professionalität entscheiden. Nach dem Download wird der Easy Picture Architekt als logischer nächster Schritt angeboten – ein Praxis-Kurs zur Erstellung professioneller KI-Business-Bilder. Dein Vorteil als Affiliate: 50 Prozent Provision auf den Easy Picture Architekt 50 Prozent Provision auf weitere Produkte innerhalb der Academy „Bye Bye Hamsterrad“ Kostenfreier Einstieg für deine Zielgruppe. Hohe Relevanz durch KI- und Business-Bezug. Klarer, conversionstarker Upsell-Prozess. Langfristiges Provisionspotenzial durch Academy-Angebote. Wenn deine Community im Bereich Online Business, Selbstständigkeit oder digitale Produkte unterwegs ist, ist dieses Angebot eine starke Kombination aus Mehrwert und Verdienstchance.
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du dein Haus kostenlos Tag <span style="text-decoration:underline;">UND NACHT</span> mit 230V elektrischem Strom versorgst.</strong></p>
-<p>Eine sehr umfangreiche Affiliate-Unterstützung auf der <a href="https://geheimnisfreieenergie.de/magnetpolgenerator-partner/%C2%A0" target="_blank" rel="noreferrer noopener">Partnerseite</a> mit dem <strong>DigiStore24 Promolink Generator. </strong>Muster-E-Mails für E-Mail Marketing, Social-Media und Banner Werbung, alles ist da!</p>
-<p>Dieses eBook hat es in sich, denn ab sofort bekommen die Leserinnen und Leser das unterdrückte <strong>Geheimnis</strong>, welches vor 100 Jahren durch die Presse ging und danach den Kampf mit der Ölindustrie verloren hat! Jetzt verlassen die Pläne unser Archiv. Zusammen mit dem eBook kommt ein <strong>Bonus</strong>. Es ist ein <strong>Passwort</strong> zu einer speziellen Internetseite, wo die gesamte Dokumentation inkl. Video in Deutsch zu finden ist.</p>
-<p>Wir freuen uns auf gute Zusammenarbeit.</p>
+**Vendor's marketplace description:** Wie du dein Haus kostenlos Tag UND NACHT mit 230V elektrischem Strom versorgst. Eine sehr umfangreiche Affiliate-Unterstützung auf der Partnerseite mit dem DigiStore24 Promolink Generator. Muster-E-Mails für E-Mail Marketing, Social-Media und Banner Werbung, alles ist da! Dieses eBook hat es in sich, denn ab sofort bekommen die Leserinnen und Leser das unterdrückte Geheimnis , welches vor 100 Jahren durch die Presse ging und danach den Kampf mit der Ölindustrie verloren hat! Jetzt verlassen die Pläne unser Archiv. Zusammen mit dem eBook kommt ein Bonus . Es ist ein Passwort zu einer speziellen Internetseite, wo die gesamte Dokumentation inkl. Video in Deutsch zu finden ist. Wir freuen uns auf gute Zusammenarbeit.
 
 ## 2. Links
 

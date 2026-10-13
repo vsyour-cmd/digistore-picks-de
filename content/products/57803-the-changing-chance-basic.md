@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>The Changing Chance Basic: Online Business skalierbar und 1:1 kopierbar</strong></p>
-<p>Was du in diesem Kurs erhältst (Basic):</p>
-<p>Dieser Kurs vermittelt dir unser innovatives „The Changing Chance" Konzept – ein modernes Affiliate-Marketing-Modell, das klassische Ansätze deutlich übertrifft und weitaus skalierbarer ist.</p>
-<p>Du startest mit den <strong>Grundlagen des Affiliate-Marketings</strong> und lernst von Beginn an, wie du digitale Produkte professionell empfiehlst – verständlich aufgebaut, ohne Fachchinesisch, mit klaren Umsetzungsschritten. Im Anschluss begleitet dich ein Schritt-für-Schritt-Setup durch Digistore24 und das Partner-Netzwerk, damit du technisch schnell startklar bist und nichts dem Zufall überlässt. Danach geht es ans Eingemachte: Du erarbeitest dein Angebot und deine Zielgruppe, lernst die richtige Gesprächsführung für den Verkauf und wie du Vertrauen aufbaust, das zu echten Abschlüssen führt. Abgerundet wird das Ganze mit verschiedenen Möglichkeiten der Kundengewinnung – von organischen Ansätzen bis hin zu skalierbaren Methoden –, damit du nicht nur startest, sondern langfristig und flexibel wachsen kannst.</p>
-<p>Inhalte der Basic-Variante:</p>
-<ul>
-<li>Grundlagen des Affiliate-Marketing und wie du digitale Produkte professionell empfiehlst</li>
-<li>Schritt-für-Schritt-Setup mit Digistore24 und dem Partner-Netzwerk</li>
-<li>Das Angebot und deine Zielgruppe - Gesprächsführung für den Verkauf</li>
-<li>Verschiedene Möglichkeiten der Kundengewinnung</li>
-</ul>
+**Vendor's marketplace description:** The Changing Chance Basic: Online Business skalierbar und 1:1 kopierbar Was du in diesem Kurs erhältst (Basic): Dieser Kurs vermittelt dir unser innovatives „The Changing Chance" Konzept – ein modernes Affiliate-Marketing-Modell, das klassische Ansätze deutlich übertrifft und weitaus skalierbarer ist. Du startest mit den Grundlagen des Affiliate-Marketings und lernst von Beginn an, wie du digitale Produkte professionell empfiehlst – verständlich aufgebaut, ohne Fachchinesisch, mit klaren Umsetzungsschritten. Im Anschluss begleitet dich ein Schritt-für-Schritt-Setup durch Digistore24 und das Partner-Netzwerk, damit du technisch schnell startklar bist und nichts dem Zufall überlässt. Danach geht es ans Eingemachte: Du erarbeitest dein Angebot und deine Zielgruppe, lernst die richtige Gesprächsführung für den Verkauf und wie du Vertrauen aufbaust, das zu echten Abschlüssen führt. Abgerundet wird das Ganze mit verschiedenen Möglichkeiten der Kundengewinnung – von organischen Ansätzen bis hin zu skalierbaren Methoden –, damit du nicht nur startest, sondern langfristig und flexibel wachsen kannst. Inhalte der Basic-Variante: Grundlagen des Affiliate-Marketing und wie du digitale Produkte professionell empfiehlst Schritt-für-Schritt-Setup mit Digistore24 und dem Partner-Netzwerk Das Angebot und deine Zielgruppe - Gesprächsführung für den Verkauf Verschiedene Möglichkeiten der Kundengewinnung
 
 ## 2. Links
 

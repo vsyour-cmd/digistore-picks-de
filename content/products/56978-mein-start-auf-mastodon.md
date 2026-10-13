@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Instanz wählen, Profil einrichten und in der dezentralen Community Fuß fassen</strong></p>
-<p>Mastodon fühlt sich anfangs anders an als alle anderen Netzwerke – und genau das ist das Beste daran. Kein Algorithmus sortiert dir die Timeline um, keine Werbung lenkt ab: Du entscheidest, was du siehst. Dieses E-Book begleitet dich vom ersten Klick bis zur aktiven Präsenz im Fediverse. Du lernst, wie du die richtige Instanz für deine Interessen wählst, dein Profil so einrichtest, dass andere dir gerne folgen, und warum Hashtags auf Mastodon unverzichtbar sind – nicht optional. Dazu erkläre ich dir, wie Boosts funktionieren, warum Alt-Texte hier zur echten Kultur gehören und wie du dich in Nischen-Communities einbringst, ohne aufzufallen. Nach der Lektüre weißt du, wie das Fediverse tickt – und du bist mittendrin statt nur dabei.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Die richtige Instanz finden: Kriterien und Empfehlungen für deinen Start</li>
-<li>Profil &amp; Bio optimieren, damit andere dir mit gutem Grund folgen</li>
-<li>Hashtags als primäres Entdeckungs-Werkzeug konsequent nutzen</li>
-<li>Boosts verstehen und gezielt einsetzen, um Reichweite zu teilen</li>
-<li>Alt-Texte schreiben: die Barrierefreiheits-Kultur von Mastodon leben</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Instanz wählen, Profil einrichten und in der dezentralen Community Fuß fassen Mastodon fühlt sich anfangs anders an als alle anderen Netzwerke – und genau das ist das Beste daran. Kein Algorithmus sortiert dir die Timeline um, keine Werbung lenkt ab: Du entscheidest, was du siehst. Dieses E-Book begleitet dich vom ersten Klick bis zur aktiven Präsenz im Fediverse. Du lernst, wie du die richtige Instanz für deine Interessen wählst, dein Profil so einrichtest, dass andere dir gerne folgen, und warum Hashtags auf Mastodon unverzichtbar sind – nicht optional. Dazu erkläre ich dir, wie Boosts funktionieren, warum Alt-Texte hier zur echten Kultur gehören und wie du dich in Nischen-Communities einbringst, ohne aufzufallen. Nach der Lektüre weißt du, wie das Fediverse tickt – und du bist mittendrin statt nur dabei. Das steckt drin: Die richtige Instanz finden: Kriterien und Empfehlungen für deinen Start Profil & Bio optimieren, damit andere dir mit gutem Grund folgen Hashtags als primäres Entdeckungs-Werkzeug konsequent nutzen Boosts verstehen und gezielt einsetzen, um Reichweite zu teilen Alt-Texte schreiben: die Barrierefreiheits-Kultur von Mastodon leben Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

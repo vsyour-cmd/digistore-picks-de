@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Verschenke den Instagram Cash Hack – bis zu 100 % Provision auf Einstiegsprodukte &amp; 50 % auf weiterführende Kurse</p>
-<p>Du musst nichts verkaufen.</p>
-<p>Verschenke einfach den Instagram Cash Hack an Menschen, die sich für Instagram, Online-Marketing und ein zusätzliches Online-Einkommen interessieren.</p>
-<p>Alles Weitere ist bereits für dich vorbereitet:</p>
-<p>.fertiger Leadmagnet<br />.fertiger Funnel<br />.fertiger Upsell-Funnel<br />.automatisierter E-Mail-Follow-up-Funnel<br />.deine Digistore-ID wird im System hinterlegt</p>
-<p>Kommt über dich ein neuer Interessent in den Funnel, wird er deiner Digistore-ID zugeordnet.</p>
-<p>Du erhältst auf ausgewählte Einstiegsprodukte bis zu 100 % Provision und auf weiterführende Kurse der Bye Bye Hamsterrad Academy 50 % Provision.</p>
-<p>Deine Aufgabe?</p>
-<p>Instagram Cash Hack verschenken und qualifizierte Interessenten in den fertigen Funnel schicken.</p>
-<p>Den Rest übernimmt das vorbereitete System.</p>
+**Vendor's marketplace description:** Verschenke den Instagram Cash Hack – bis zu 100 % Provision auf Einstiegsprodukte & 50 % auf weiterführende Kurse Du musst nichts verkaufen. Verschenke einfach den Instagram Cash Hack an Menschen, die sich für Instagram, Online-Marketing und ein zusätzliches Online-Einkommen interessieren. Alles Weitere ist bereits für dich vorbereitet: .fertiger Leadmagnet .fertiger Funnel .fertiger Upsell-Funnel .automatisierter E-Mail-Follow-up-Funnel .deine Digistore-ID wird im System hinterlegt Kommt über dich ein neuer Interessent in den Funnel, wird er deiner Digistore-ID zugeordnet. Du erhältst auf ausgewählte Einstiegsprodukte bis zu 100 % Provision und auf weiterführende Kurse der Bye Bye Hamsterrad Academy 50 % Provision. Deine Aufgabe? Instagram Cash Hack verschenken und qualifizierte Interessenten in den fertigen Funnel schicken. Den Rest übernimmt das vorbereitete System.
 
 ## 2. Links
 

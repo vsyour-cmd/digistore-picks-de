@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>84 Seiten voller Wildbienenwissen, Ausmalspaß und Naturentdeckungen!</strong></p>
-<p>„Wildbienen – Mitmach- &amp; Ausmalbuch“ ist ein digitales PDF-E-Book für Familien, naturinteressierte Kinder und Erwachsene.</p>
-<p>Das Buch verbindet verständlich erklärtes Wissen über Wildbienen mit Ausmalbildern, Forscher- und Mitmachseiten, Quizfragen und praktischen Tipps.</p>
-<p>Die Leser entdecken verschiedene Wildbienenarten, erfahren mehr über Nahrung und Nistplätze und lernen, wie Garten oder Balkon wildbienenfreundlicher gestaltet werden können.</p>
-<p><strong>Das erwartet die Käufer:</strong><br />• 84 gestaltete Seiten<br />• Wildbienenwissen und Artenporträts<br />• Ausmalbilder und Forscherseiten<br />• Quiz und Beobachtungsaufgaben<br />• Tipps für Garten und Balkon<br />• Wildbienen-Aktionsplan<br />• Originalfotos vom Bienenfutterautomaten und der Blühwiese in Dülken<br />• Sofortiger digitaler PDF-Download</p>
-<p><strong>Verkaufspreis: 12,90 €</strong></p>
-<p><strong>Affiliate-Provision: 50 %</strong></p>
-<p>Das Thema eignet sich besonders für Affiliates aus den Bereichen Natur, Garten, Familie, Kinder, Umwelt, Nachhaltigkeit und Lernen.</p>
+**Vendor's marketplace description:** 84 Seiten voller Wildbienenwissen, Ausmalspaß und Naturentdeckungen! „Wildbienen – Mitmach- & Ausmalbuch“ ist ein digitales PDF-E-Book für Familien, naturinteressierte Kinder und Erwachsene. Das Buch verbindet verständlich erklärtes Wissen über Wildbienen mit Ausmalbildern, Forscher- und Mitmachseiten, Quizfragen und praktischen Tipps. Die Leser entdecken verschiedene Wildbienenarten, erfahren mehr über Nahrung und Nistplätze und lernen, wie Garten oder Balkon wildbienenfreundlicher gestaltet werden können. Das erwartet die Käufer: • 84 gestaltete Seiten • Wildbienenwissen und Artenporträts • Ausmalbilder und Forscherseiten • Quiz und Beobachtungsaufgaben • Tipps für Garten und Balkon • Wildbienen-Aktionsplan • Originalfotos vom Bienenfutterautomaten und der Blühwiese in Dülken • Sofortiger digitaler PDF-Download Verkaufspreis: 12,90 € Affiliate-Provision: 50 % Das Thema eignet sich besonders für Affiliates aus den Bereichen Natur, Garten, Familie, Kinder, Umwelt, Nachhaltigkeit und Lernen.
 
 ## 2. Links
 

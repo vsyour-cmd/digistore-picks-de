@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>60 Minuten Seminarmitschnitt des Seminars "Bewegen wie die Meister 2" 2017. Stream / Zugang Mitgliederbereich.</p>
-<p>In diesem 60minütigen Seminarmitschnitt bekommst du:</p>
-<ul><li><strong>Grundlagen und Konzepte funktionalen Bewegens</strong></li>
-<li><strong>Myofascial Unwinding zur Lösung faszialer Verklebungen</strong></li>
-<li><strong>Wirksame und praktische Solo-Übungen zum Fascial Stretch und Sensory Refinement</strong></li>
-<li><strong>Das ECHTE "Fliegende Schwert" - Übungen zum Rebound Effect / Recoil Effect</strong></li>
-<li><strong>Partnerübung zum Sensory Refinement</strong></li>
-<li><strong>Kurzeinführung in das Thema Ballengang im Kontext Kampfkunst   </strong></li>
-</ul>
+**Vendor's marketplace description:** 60 Minuten Seminarmitschnitt des Seminars "Bewegen wie die Meister 2" 2017. Stream / Zugang Mitgliederbereich. In diesem 60minütigen Seminarmitschnitt bekommst du: Grundlagen und Konzepte funktionalen Bewegens Myofascial Unwinding zur Lösung faszialer Verklebungen Wirksame und praktische Solo-Übungen zum Fascial Stretch und Sensory Refinement Das ECHTE "Fliegende Schwert" - Übungen zum Rebound Effect / Recoil Effect Partnerübung zum Sensory Refinement Kurzeinführung in das Thema Ballengang im Kontext Kampfkunst
 
 ## 2. Links
 

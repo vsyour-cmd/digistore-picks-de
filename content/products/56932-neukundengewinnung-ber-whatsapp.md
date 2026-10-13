@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie Unternehmen mit WhatsApp-Kanälen, Click-to-Chat und Broadcasts planbar Neukunden gewinnen</strong></p>
-<p>Kein anderer Kanal bringt dich so nah an potenzielle Kunden wie WhatsApp. Öffnungsraten über 80 Prozent, kein Algorithmus zwischen dir und deiner Zielgruppe und der direkteste Weg zum Gespräch: das ist WhatsApp als Vertriebsinstrument. Dieses E-Book zeigt dir, wie du Click-to-WhatsApp-Anzeigen und organische Einstiege kombinierst, einen Broadcast-Funnel aufbaust, der Interessenten in Kunden verwandelt, und wie du mit WhatsApp Business-Funktionen professionell nach außen auftrittst. Du lernst, wann Gruppen, Kanäle oder Direktnachrichten der richtige Kanal sind, wie du automatisierte Begrüßungssequenzen aufsetzt und wie du den ROI deiner Aktivitäten sauber misst. Ob lokaler Betrieb oder Online-Business – hier bekommst du ein System, das planbar Anfragen generiert.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>WhatsApp Business einrichten: Profil, Katalog und automatische Antworten</li>
-<li>Click-to-WhatsApp-Links und Anzeigen für Neukunden-Einstiege nutzen</li>
-<li>Broadcast-Funnel aufbauen: vom Erstkontakt zur Anfrage</li>
-<li>Begrüßungssequenzen automatisieren ohne teure Drittanbieter-Tools</li>
-<li>Gruppen &amp; Kanäle strategisch für Interessenten-Bindung einsetzen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie Unternehmen mit WhatsApp-Kanälen, Click-to-Chat und Broadcasts planbar Neukunden gewinnen Kein anderer Kanal bringt dich so nah an potenzielle Kunden wie WhatsApp. Öffnungsraten über 80 Prozent, kein Algorithmus zwischen dir und deiner Zielgruppe und der direkteste Weg zum Gespräch: das ist WhatsApp als Vertriebsinstrument. Dieses E-Book zeigt dir, wie du Click-to-WhatsApp-Anzeigen und organische Einstiege kombinierst, einen Broadcast-Funnel aufbaust, der Interessenten in Kunden verwandelt, und wie du mit WhatsApp Business-Funktionen professionell nach außen auftrittst. Du lernst, wann Gruppen, Kanäle oder Direktnachrichten der richtige Kanal sind, wie du automatisierte Begrüßungssequenzen aufsetzt und wie du den ROI deiner Aktivitäten sauber misst. Ob lokaler Betrieb oder Online-Business – hier bekommst du ein System, das planbar Anfragen generiert. Das steckt drin: WhatsApp Business einrichten: Profil, Katalog und automatische Antworten Click-to-WhatsApp-Links und Anzeigen für Neukunden-Einstiege nutzen Broadcast-Funnel aufbauen: vom Erstkontakt zur Anfrage Begrüßungssequenzen automatisieren ohne teure Drittanbieter-Tools Gruppen & Kanäle strategisch für Interessenten-Bindung einsetzen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

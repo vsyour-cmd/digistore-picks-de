@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die Iron Lake Challenge Bavaria erfreut sich bei Läufern und Wanderern großer Beliebtheit. </p>
-<p>Um die Sammlermedaille zu erhalten müssen die Teilnehmer die zehn größten Seen Bayerns zu Fuß umrunden. </p>
-<p>Den Affiliates winken 30% des Verkaufspreises. </p>
-<p>Gerne darfst Du die auf meiner Seite angebotenen Werbemittel verwenden. </p>
+**Vendor's marketplace description:** Die Iron Lake Challenge Bavaria erfreut sich bei Läufern und Wanderern großer Beliebtheit. Um die Sammlermedaille zu erhalten müssen die Teilnehmer die zehn größten Seen Bayerns zu Fuß umrunden. Den Affiliates winken 30% des Verkaufspreises. Gerne darfst Du die auf meiner Seite angebotenen Werbemittel verwenden.
 
 ## 2. Links
 

@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Nutze die unterschätzte Macht von Postings und Carousels, um <strong>zum absoluten Algo-Liebling zu werden</strong> und dadurch mehr Reichweite zu erhalten.</h2>
-<p>Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. 350€ Provision im Funnel.</p>
-<p>Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst!</p>
-<p>Das bekommst der Kunde in diesem wertvollen Online-Kurs:</p>
-<ul>
-<li>wie du Postings und Carousels <strong>richtig erstellst</strong> und sie <strong>zu deinen Verkaufshelfer</strong> werden…</li>
-<li>wie du <strong>Vertrauen und eine Bindung</strong> mit deinen Kunden <strong>aufbaust</strong>, um sie zu wahren Fans zu machen…</li>
-<li>wie du <strong>Viralität förderst</strong>, um noch <strong>mehr kostenlose Reichweite</strong> zu bekommen…</li>
-<li>wie und wo du die richtigen CTAs platzierst, um mehr<strong> Verkäufe zu generieren</strong>…</li>
-</ul>
-<p><strong>Und als Bonus</strong> bekommst du Vorlagen und Hacks, die du sofort nutzen und anwenden kannst.</p>
-<p>Und einiges mehr!</p>
-<p>Am besten jetzt noch zugreifen! Du erhältst <strong>sofort</strong> Zugriff, auch wenn es 3 Uhr Nachts ist! Sichere dir daher jetzt das Angebot. <strong>Nur jetzt für einmalig nur 47€!</strong></p>
-<p> </p>
+**Vendor's marketplace description:** Nutze die unterschätzte Macht von Postings und Carousels, um zum absoluten Algo-Liebling zu werden und dadurch mehr Reichweite zu erhalten. Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. 350€ Provision im Funnel. Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst! Das bekommst der Kunde in diesem wertvollen Online-Kurs: wie du Postings und Carousels richtig erstellst und sie zu deinen Verkaufshelfer werden… wie du Vertrauen und eine Bindung mit deinen Kunden aufbaust , um sie zu wahren Fans zu machen… wie du Viralität förderst , um noch mehr kostenlose Reichweite zu bekommen… wie und wo du die richtigen CTAs platzierst, um mehr Verkäufe zu generieren … Und als Bonus bekommst du Vorlagen und Hacks, die du sofort nutzen und anwenden kannst. Und einiges mehr! Am besten jetzt noch zugreifen! Du erhältst sofort Zugriff, auch wenn es 3 Uhr Nachts ist! Sichere dir daher jetzt das Angebot. Nur jetzt für einmalig nur 47€!
 
 ## 2. Links
 

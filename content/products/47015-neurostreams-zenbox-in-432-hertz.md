@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>35 hoch wirksame Zen-Streams, die dich meditieren.</p>
-<p>Für Anfänger, Fortgeschrittene und Meister-Anwärter.</p>
-<ul>
-<li>10 Streams mit 30 min: "Zen Quasar"</li>
-<li>7 Streams mit 30 min: "Kyoto Dimension"</li>
-<li>7 Streams mit 30 min: "Silberfaden"</li>
-</ul>
-<p>Außerdem fogende Kurzversionen:</p>
-<ul>
-<li>5 Streams mit 20 min: "Zen Quasar"</li>
-<li>3 Streams mit 20 min: "Kyoto Dimension"</li>
-<li>3 Streams mit 20 min: "Silberfade</li>
-</ul>
-<p>Sofort-Download.</p>
-<p><strong>30 Tage Geld-zurück-Garantie!</strong></p>
-<p>Unbedingt Kopfhörer benutzen.</p>
-<p>Alle Neurostreams™ sind jederzeit auf <strong>unbegrenzt viele</strong> Geräte übertragbar und können <strong>beliebig oft</strong> angehört werden!</p>
-<p>Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux.</p>
-<p>Dateigröße: ca. 900 MB</p>
-<p><strong>2 Jahre </strong>Produktsupport inklusive.</p>
+**Vendor's marketplace description:** 35 hoch wirksame Zen-Streams, die dich meditieren. Für Anfänger, Fortgeschrittene und Meister-Anwärter. 10 Streams mit 30 min: "Zen Quasar" 7 Streams mit 30 min: "Kyoto Dimension" 7 Streams mit 30 min: "Silberfaden" Außerdem fogende Kurzversionen: 5 Streams mit 20 min: "Zen Quasar" 3 Streams mit 20 min: "Kyoto Dimension" 3 Streams mit 20 min: "Silberfade Sofort-Download. 30 Tage Geld-zurück-Garantie! Unbedingt Kopfhörer benutzen. Alle Neurostreams™ sind jederzeit auf unbegrenzt viele Geräte übertragbar und können beliebig oft angehört werden! Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux. Dateigröße: ca. 900 MB 2 Jahre Produktsupport inklusive.
 
 ## 2. Links
 

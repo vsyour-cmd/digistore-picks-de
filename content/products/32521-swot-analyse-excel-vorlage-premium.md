@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit dieser Excel-Vorlage ist die SWOT-Analyse Premium ein Kinderspiel. Einfach die erforderlichen Daten ausfüllen und schon können Sie das Ergebnis sehen. Alle Formulare sind zum ausdrucken. Auch das Speichern als PDF ist möglich.</p>
-<p>Erweitern Sie das Angebot auf Ihrer Webseite um diese Vorlage, bieten Ihren Nutzern damit ein hilfreiches Tool an und verdienen 30% Provision.</p>
-<p>Passend dazu können Sie auch das Blattschutz-Passwort für diese Vorlage mit anbieten. Hier bekommt der Nutzer den vollen Zugriff auf das Programm und kann es beliebig anpassen. Die Provision für den erfolgreichen Verkauf des Blattschutz-Passwortes beträgt 20%.</p>
-<p><a><strong>Affiliate Partner werden</strong></a></p>
+**Vendor's marketplace description:** Mit dieser Excel-Vorlage ist die SWOT-Analyse Premium ein Kinderspiel. Einfach die erforderlichen Daten ausfüllen und schon können Sie das Ergebnis sehen. Alle Formulare sind zum ausdrucken. Auch das Speichern als PDF ist möglich. Erweitern Sie das Angebot auf Ihrer Webseite um diese Vorlage, bieten Ihren Nutzern damit ein hilfreiches Tool an und verdienen 30% Provision. Passend dazu können Sie auch das Blattschutz-Passwort für diese Vorlage mit anbieten. Hier bekommt der Nutzer den vollen Zugriff auf das Programm und kann es beliebig anpassen. Die Provision für den erfolgreichen Verkauf des Blattschutz-Passwortes beträgt 20%. Affiliate Partner werden
 
 ## 2. Links
 

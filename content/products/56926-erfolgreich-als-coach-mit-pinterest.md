@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du mit Evergreen-Pins konstant neue Interessenten auf dein Angebot lenkst</strong></p>
-<p>Als Coach brauchst du keine virale Reichweite – du brauchst einen konstanten Strom qualifizierter Interessenten, die aktiv nach deiner Lösung suchen. Genau das liefert Pinterest. Diese visuelle Suchmaschine schickt dir täglich Menschen, die gezielt nach deinem Thema suchen, direkt auf deine Landingpage, deinen Freebie-Download oder dein Erstgespräch. Dieses E-Book zeigt dir, wie du deine Pins strategisch mit Keywords belegst, die deine Wunschkunden eintippen, wie du einen funktionierenden Traffic-Funnel vom Pin zur Buchung aufbaust und wie du mit wenigen Pins pro Woche ein System schaffst, das monatelang im Hintergrund für dich arbeitet. Statt täglich Content zu produzieren, investierst du einmal – und erntets langfristig.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Die Keyword-Strategie, die deine Wunschkunden direkt zu dir führt</li>
-<li>Board-Struktur für Coaches: Themen, die Kaufabsicht zeigen</li>
-<li>Pin-Texte, die Vertrauen aufbauen und zum Klick einladen</li>
-<li>Der Traffic-Funnel: vom Pin zur Landingpage zum Erstgespräch</li>
-<li>Freebie-Strategien: Lead-Magnete, die über Pinterest funktionieren</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du mit Evergreen-Pins konstant neue Interessenten auf dein Angebot lenkst Als Coach brauchst du keine virale Reichweite – du brauchst einen konstanten Strom qualifizierter Interessenten, die aktiv nach deiner Lösung suchen. Genau das liefert Pinterest. Diese visuelle Suchmaschine schickt dir täglich Menschen, die gezielt nach deinem Thema suchen, direkt auf deine Landingpage, deinen Freebie-Download oder dein Erstgespräch. Dieses E-Book zeigt dir, wie du deine Pins strategisch mit Keywords belegst, die deine Wunschkunden eintippen, wie du einen funktionierenden Traffic-Funnel vom Pin zur Buchung aufbaust und wie du mit wenigen Pins pro Woche ein System schaffst, das monatelang im Hintergrund für dich arbeitet. Statt täglich Content zu produzieren, investierst du einmal – und erntets langfristig. Das steckt drin: Die Keyword-Strategie, die deine Wunschkunden direkt zu dir führt Board-Struktur für Coaches: Themen, die Kaufabsicht zeigen Pin-Texte, die Vertrauen aufbauen und zum Klick einladen Der Traffic-Funnel: vom Pin zur Landingpage zum Erstgespräch Freebie-Strategien: Lead-Magnete, die über Pinterest funktionieren Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

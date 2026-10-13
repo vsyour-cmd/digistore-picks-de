@@ -94,6 +94,17 @@ function promoLink(p) {
 
 // 厂商描述去污染:整句剔除含 CJK 的句子;空标签回退(如 57140 空名曾导致 MD 链接 404)
 const hasCJK = (s) => /[\u3000-\u303f\u3400-\u4dbf\u4e00-\u9fff\uff00-\uffef]/.test(s);
+// 厂商描述是 HTML 片段(h2/p/br/span style 等):转纯文本,否则页面模板 esc() 后标签原样可见
+const htmlToText = (s) => {
+  if (!s || !/<[a-z!/]/i.test(s)) return s;
+  return s
+    .replace(/<\s*(br|\/p|\/h[1-6]|\/li|\/div|\/tr)\s*\/?\s*>/gi, " ")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/&nbsp;/gi, " ").replace(/&amp;/gi, "&").replace(/&lt;/gi, "<").replace(/&gt;/gi, ">")
+    .replace(/&quot;/gi, '"').replace(/&#0?39;|&apos;/gi, "'").replace(/&#\d+;/g, " ")
+    .replace(/\s{2,}/g, " ")
+    .trim();
+};
 const cleanDesc = (s) => {
   if (!s || !hasCJK(s)) return s;
   const kept = s.split(/(?<=[.!?。！？])\s+/).filter((sen) => !hasCJK(sen)).join(" ").replace(/\s{2,}/g, " ").trim();
@@ -109,7 +120,7 @@ const products = d.products.map((p) => {
     price: p.price, currency: p.currency, commission: p.commission,
     conversionRate: p.conversionRate, cancelRate: p.cancelRate,
     earningsPerSale: p.earningsPerSale, earningsPerClick: p.earningsPerOrderformClick,
-    vendorName: p.vendorName, description: cleanDesc(p.description),
+    vendorName: p.vendorName, description: cleanDesc(htmlToText(p.description)),
     imageUrl: img, salesPageUrl: p.salesPageUrl,
     promoLink: promoLink(p),
     affiliateSupportPageUrl: p.affiliateSupportPageUrl,

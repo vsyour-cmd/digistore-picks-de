@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div class="message-content" style="max-width:600px;font-size:18px;font-family:Georgia;">
-<p><em>Low Ticket Offer mit sehr guter Conversion</em></p>
-<p><strong>95% Provision auf den Verkauf!</strong> Plus 50% für alle weiteren Upsells<br /><br /><strong>Inhalt:</strong> Webinar mit geführter Meditation für mehr Kraft in stürmischen Zeiten</p>
-<p> </p>
-<p><strong>Angebot:</strong> 3 Tiefen-Meditationen zum Download</p>
-<p> </p>
-<p><strong>Im Webinar mit Mega Rabatt: Statt für € 97,- für € 33,-</strong></p>
-<p> </p>
-<p><strong>Technik: </strong>Evergreen Webinar + Follow-up via Email mit Deadline</p>
-<p><br /><br /><strong>Zielgruppe:</strong> Alle aus dem Bereich Persönlichkeitsentwicklung, auch Unternehmer, Angestellte und alle, denen es im Moment manchmal etwas viel ist</p>
-</div>
+**Vendor's marketplace description:** Low Ticket Offer mit sehr guter Conversion 95% Provision auf den Verkauf! Plus 50% für alle weiteren Upsells Inhalt: Webinar mit geführter Meditation für mehr Kraft in stürmischen Zeiten Angebot: 3 Tiefen-Meditationen zum Download Im Webinar mit Mega Rabatt: Statt für € 97,- für € 33,- Technik: Evergreen Webinar + Follow-up via Email mit Deadline Zielgruppe: Alle aus dem Bereich Persönlichkeitsentwicklung, auch Unternehmer, Angestellte und alle, denen es im Moment manchmal etwas viel ist
 
 ## 2. Links
 

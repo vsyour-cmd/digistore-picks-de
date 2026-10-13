@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="padding-left:40px;">706605 - Deutschland für kleine Entdecker – Mal-PDF (Kostenlos)</p>
+**Vendor's marketplace description:** 706605 - Deutschland für kleine Entdecker – Mal-PDF (Kostenlos)
 
 ## 2. Links
 

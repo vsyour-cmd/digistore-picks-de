@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><span style="background-color:#ffff00;color:#ff0000;">###Achtung Nischenprodukt</span></strong></p>
-<p><span style="color:#000000;"><strong><span style="background-color:#ffff00;">Vorbereitung auf die IHK Prüfung!</span></strong></span></p>
-<p><span style="color:#000000;"><strong><span style="background-color:#ffff00;">Konkurenz nur durch Standort - Seminare vorhanden.</span></strong></span></p>
-<p><span style="color:#339966;"><strong><span style="background-color:#ffffff;">***hohe Provision und Wettbewerbsvorteil durch      50 % weniger Kurskosten***<br /></span></strong></span></p>
-<p><span style="color:#000000;"><span style="background-color:#ffffff;">Verdiene mit an Verkehrsseminare 3.0</span></span></p>
-<p> </p>
-<p><span style="color:#000000;"><span style="background-color:#ffffff;">Die Sach- und Fachkundeprüfung werden benötigt um auf Selbstständiger Basis in den Bereichen tätig zu werden. </span></span></p>
-<p><span style="color:#000000;"><span style="background-color:#ffffff;">z.B. der Taxifahrer welcher sich sein eigenes Taxi kauft,</span></span></p>
-<p><span style="color:#000000;"><span style="background-color:#ffffff;">jeder der ein Verkehrsunternehmen erbt und weiterführen möchte....</span></span></p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** ###Achtung Nischenprodukt Vorbereitung auf die IHK Prüfung! Konkurenz nur durch Standort - Seminare vorhanden. ***hohe Provision und Wettbewerbsvorteil durch 50 % weniger Kurskosten*** Verdiene mit an Verkehrsseminare 3.0 Die Sach- und Fachkundeprüfung werden benötigt um auf Selbstständiger Basis in den Bereichen tätig zu werden. z.B. der Taxifahrer welcher sich sein eigenes Taxi kauft, jeder der ein Verkehrsunternehmen erbt und weiterführen möchte....
 
 ## 2. Links
 

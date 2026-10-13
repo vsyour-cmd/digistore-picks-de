@@ -41,35 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Audio-Programm "4-Wochen-Money-Reset" ist ein 4-Wochen-Kurs für Frauen, die ihr Geld-Bewusstsein verbessern wollen.</p>
-<p>Da viele Frauen nachts wegen Geldgedanken und /-sorgen wachliegen und somit Geldgeschichten mit sich herumtragen, ist dieser transformierende Minikurs für sehr viele Frauen geeignet.</p>
-<p><strong>Die Beschreibung für die Bewerbung dieses Kurses findest Du im Affiliate-Programm auf der Affiliate-Support-Seite.</strong></p>
-<p> </p>
-<h3>Das sind die Inhalte im 4-Wochen-Audio-Kurs:</h3>
-<h4><strong>Täglich ein neues Audio von ca. 5 Minuten mit Impulsen, Übungen und Tools:</strong></h4>
-<p><strong>Woche 1</strong> - Dein Geld-Nervensystem beruhigen</p>
-<p><strong>Woche 2 </strong>- Klare Richtung statt diffuse Wünsche</p>
-<p><strong>Woche 3 - </strong>Geld im Alltag anders erleben</p>
-<p><strong>Woche 4 </strong>- Money-Identität stabilisieren</p>
-<p> </p>
-<h4><strong>Bonus 1:</strong></h4>
-<p><strong>Audio „Fülle in 5 Minuten“</strong></p>
-<p>Ein kurzes, kraftvolles Audio, das Du morgens oder abends hören kannst, um sofort in ein positives Money-Mindset zu kommen. Perfekt für alle, die wenig Zeit haben – und trotzdem spüren wollen: <em>„Ich bin auf dem Weg in die Fülle.“</em></p>
-<p>Dieses Audio <strong>kein weiteres „To-do“</strong> ist, sondern ein <strong>„Energie-Shortcut“</strong>:</p>
-<blockquote>
-<p>„Nur 5 Minuten – und Dein Tag fühlt sich leichter, sicherer und voller Möglichkeiten an.“</p>
-</blockquote>
-<p> </p>
-<h4><strong>Bonus 2:</strong></h4>
-<p><strong>Workbook "Money-Mindset-Boost"</strong></p>
-<p>In 6 Schritten zu mehr Fülle und finanzieller Freiheit.</p>
-<p>Dieses wertvolle Workbook zeigt Dir die wichtigsten Schritte auf für <strong>mehr finanzielle Fülle in Deinem Alltag</strong>.</p>
-<p>Darin enthalten sind <strong>20 kraftvolle Affirmationen</strong> für mehr Wohlstand sowie <strong>konkrete praktische Tipps</strong>, um endlich ins Handeln zu kommen.</p>
-<p> </p>
-<h4><strong>Bonus 3:</strong></h4>
-<p><strong>Aufzeichnung des Miracle Mindset Moments Live-Call</strong></p>
-<p>In dieser über eine Stunde dauernden Aufzeichnung erfährst Du, welche Schritte ich gegangen bin, um heute das Leben zu führen, in dem ich mich von Herzen erfüllt, glücklich, wohlhabend und gesund fühle - und <strong>wie auch Du dieses Leben manifestieren kannst</strong>.</p>
-<p> </p>
+**Vendor's marketplace description:** Das Audio-Programm "4-Wochen-Money-Reset" ist ein 4-Wochen-Kurs für Frauen, die ihr Geld-Bewusstsein verbessern wollen. Da viele Frauen nachts wegen Geldgedanken und /-sorgen wachliegen und somit Geldgeschichten mit sich herumtragen, ist dieser transformierende Minikurs für sehr viele Frauen geeignet. Die Beschreibung für die Bewerbung dieses Kurses findest Du im Affiliate-Programm auf der Affiliate-Support-Seite. Das sind die Inhalte im 4-Wochen-Audio-Kurs: Täglich ein neues Audio von ca. 5 Minuten mit Impulsen, Übungen und Tools: Woche 1 - Dein Geld-Nervensystem beruhigen Woche 2 - Klare Richtung statt diffuse Wünsche Woche 3 - Geld im Alltag anders erleben Woche 4 - Money-Identität stabilisieren Bonus 1: Audio „Fülle in 5 Minuten“ Ein kurzes, kraftvolles Audio, das Du morgens oder abends hören kannst, um sofort in ein positives Money-Mindset zu kommen. Perfekt für alle, die wenig Zeit haben – und trotzdem spüren wollen: „Ich bin auf dem Weg in die Fülle.“ Dieses Audio kein weiteres „To-do“ ist, sondern ein „Energie-Shortcut“ : „Nur 5 Minuten – und Dein Tag fühlt sich leichter, sicherer und voller Möglichkeiten an.“ Bonus 2: Workbook "Money-Mindset-Boost" In 6 Schritten zu mehr Fülle und finanzieller Freiheit. Dieses wertvolle Workbook zeigt Dir die wichtigsten Schritte auf für mehr finanzielle Fülle in Deinem Alltag . Darin enthalten sind 20 kraftvolle Affirmationen für mehr Wohlstand sowie konkrete praktische Tipps , um endlich ins Handeln zu kommen. Bonus 3: Aufzeichnung des Miracle Mindset Moments Live-Call In dieser über eine Stunde dauernden Aufzeichnung erfährst Du, welche Schritte ich gegangen bin, um heute das Leben zu führen, in dem ich mich von Herzen erfüllt, glücklich, wohlhabend und gesund fühle - und wie auch Du dieses Leben manifestieren kannst .
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die Instagram Strategie <br />Kostenloses E-Book</p>
-<ul>
-<li>Dieses E-Book funktioniert für Affiliate Anfänger</li>
-<li>Perfektes Produkt für "jeden", der mit seinem online Business / Affiliate Marketing starten will und nach wertvollen Tipps sucht.</li>
-<li>Du hast mit diesem E-Book ein Geschenk für deine Community und wirst am kompletten Sales-Funnel beteiligt!</li>
-</ul>
-<p>Hohe Conversion, da es für den Kunden kostenlos ist. 60% Provision! <br /><br />Beteiligt an Up- und Downsell über 69€ im Funnel für dich möglich!</p>
+**Vendor's marketplace description:** Die Instagram Strategie Kostenloses E-Book Dieses E-Book funktioniert für Affiliate Anfänger Perfektes Produkt für "jeden", der mit seinem online Business / Affiliate Marketing starten will und nach wertvollen Tipps sucht. Du hast mit diesem E-Book ein Geschenk für deine Community und wirst am kompletten Sales-Funnel beteiligt! Hohe Conversion, da es für den Kunden kostenlos ist. 60% Provision! Beteiligt an Up- und Downsell über 69€ im Funnel für dich möglich!
 
 ## 2. Links
 

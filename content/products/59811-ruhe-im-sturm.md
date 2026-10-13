@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Ruhe im Sturm – Der praxisnahe Leitfaden für eiskalte Disziplin und psychologische Stärke im Trading</strong></p>
-<p>Verliere an der Börse nicht länger die Kontrolle durch Angst, Gier oder unüberlegte Rache-Trades. <em>„Ruhe im Sturm Trading“</em> ist der kompromisslose Leitfaden für Trader, die ihr Risiko perfekt managen, ihre Emotionen ausschalten und dauerhaft konsistent agieren wollen.</p>
-<ul>
-<li>
-<p><strong>Emotionale Fallen eliminieren:</strong> Erkenne die psychologischen Ursachen für Kontenverluste und lerne, sie gezielt abzuschalten.</p>
-</li>
-<li>
-<p><strong>Eiserne Disziplin:</strong> Entwickle klare Routinen, strikte Zeitschranken und schütze dein Kapital vor dem eigenen Ego.</p>
-</li>
-<li>
-<p><strong>Risikomanagement in R-Einheiten:</strong> Verabschiede dich von manuellem Eingreifen und arbeite mit mathematischer Präzision.</p>
-</li>
-<li>
-<p><strong>100 % Praxisnah:</strong> Keine graue Theorie, sondern direkt anwendbare Mechanismen für den harten Trading-Alltag.</p>
-</li>
-</ul>
-<p><em>Hole dir jetzt den entscheidenden Vorsprung für dein Trading-Business und starte in die Konsistenz.</em></p>
+**Vendor's marketplace description:** Ruhe im Sturm – Der praxisnahe Leitfaden für eiskalte Disziplin und psychologische Stärke im Trading Verliere an der Börse nicht länger die Kontrolle durch Angst, Gier oder unüberlegte Rache-Trades. „Ruhe im Sturm Trading“ ist der kompromisslose Leitfaden für Trader, die ihr Risiko perfekt managen, ihre Emotionen ausschalten und dauerhaft konsistent agieren wollen. Emotionale Fallen eliminieren: Erkenne die psychologischen Ursachen für Kontenverluste und lerne, sie gezielt abzuschalten. Eiserne Disziplin: Entwickle klare Routinen, strikte Zeitschranken und schütze dein Kapital vor dem eigenen Ego. Risikomanagement in R-Einheiten: Verabschiede dich von manuellem Eingreifen und arbeite mit mathematischer Präzision. 100 % Praxisnah: Keine graue Theorie, sondern direkt anwendbare Mechanismen für den harten Trading-Alltag. Hole dir jetzt den entscheidenden Vorsprung für dein Trading-Business und starte in die Konsistenz.
 
 ## 2. Links
 

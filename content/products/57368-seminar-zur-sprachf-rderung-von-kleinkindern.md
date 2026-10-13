@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Von 26.-27. September 2026 wird Kerstin Schimkus (Dipl. Lehrlogopädin und Gründerin der Lexosophie) einmalig in diesem Jahr ein online-live-Seminar geben. </p>
-<p>Wie der Sprachrhythmus gefördert wird.</p>
-<p>Wie wir erkennen, ob Sprachrrhythmusauffälligkeiten vorhanden sind.</p>
-<p>Wie der Sprachrhythmus mit dem Lesen und Schreiben zusammenhängt.</p>
+**Vendor's marketplace description:** Von 26.-27. September 2026 wird Kerstin Schimkus (Dipl. Lehrlogopädin und Gründerin der Lexosophie) einmalig in diesem Jahr ein online-live-Seminar geben. Wie der Sprachrhythmus gefördert wird. Wie wir erkennen, ob Sprachrrhythmusauffälligkeiten vorhanden sind. Wie der Sprachrhythmus mit dem Lesen und Schreiben zusammenhängt.
 
 ## 2. Links
 

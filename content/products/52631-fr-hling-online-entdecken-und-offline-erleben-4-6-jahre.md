@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein sorgfältig entwickelter Onlinekurs, der Kinder raus in die Natur begleitet. Mit spannenden Geschichten, echten Frühlingsabenteuern, kreativen Aufgaben und dem sprechenden Hund namens Oscar.</p>
-<p>Für Familien, die Bildschirmzeit sinnvoll nutzen und gemeinsam mit ihren Kindern wieder mehr draußen erleben möchten.</p>
-<p><strong>Zielgruppe:</strong><br />Eltern, Großeltern, Erzieher:innen, Begelitpersonen und naturverbundene Familien mit Kindern von 4 bis 6 Jahren.</p>
-<p><strong>Das steckt im Kurs:</strong></p>
-<ul>
-<li>4 fantasievolle Audio-Geschichten mit Bildern zum</li>
-<li>Zuhören und Mitfiebern</li>
-<li>Naturaufträge &amp; Quiz zur Handlung</li>
-<li>Natursürnasen-Heft</li>
-<li>Überraschungen</li>
-<li>Naturspürnasen-Urkunde</li>
-</ul>
-<p><strong>Warum dieser Kurs begeistert:</strong></p>
-<ul>
-<li>Macht aus Bildschirmzeit echte Erlebniszeit</li>
-<li>Fördert Achtsamkeit, Neugier und Naturverbundenheit</li>
-<li>Schafft bewusste Familienzeit, fernab von Hektik und Reizüberflutung</li>
-<li>Kinder erleben Selbstwirksamkeit, Kreativität und Freude an der echten Welt draußen</li>
-</ul>
+**Vendor's marketplace description:** Ein sorgfältig entwickelter Onlinekurs, der Kinder raus in die Natur begleitet. Mit spannenden Geschichten, echten Frühlingsabenteuern, kreativen Aufgaben und dem sprechenden Hund namens Oscar. Für Familien, die Bildschirmzeit sinnvoll nutzen und gemeinsam mit ihren Kindern wieder mehr draußen erleben möchten. Zielgruppe: Eltern, Großeltern, Erzieher:innen, Begelitpersonen und naturverbundene Familien mit Kindern von 4 bis 6 Jahren. Das steckt im Kurs: 4 fantasievolle Audio-Geschichten mit Bildern zum Zuhören und Mitfiebern Naturaufträge & Quiz zur Handlung Natursürnasen-Heft Überraschungen Naturspürnasen-Urkunde Warum dieser Kurs begeistert: Macht aus Bildschirmzeit echte Erlebniszeit Fördert Achtsamkeit, Neugier und Naturverbundenheit Schafft bewusste Familienzeit, fernab von Hektik und Reizüberflutung Kinder erleben Selbstwirksamkeit, Kreativität und Freude an der echten Welt draußen
 
 ## 2. Links
 

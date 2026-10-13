@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#800080;"><strong>Online-Kurs zur2Punkt-Methode <br /></strong></span><em><span style="color:#800080;"><strong>mit Frauke Kaluzinski </strong></span></em></h2>
-<p><strong>Die 2Punkt Methode dein Bewusstseins-Instrument</strong></p>
-<p>• lerne die 2Punkt-Methode kennen und anwenden<br />• lerne zu nutzen, was schon in dir ist<br />• transformiere radikal alte Glaubensmuster<br />• harmonisiere und verbessere deine Beziehungen und Zustände<br />• lass dich zu deinem Gottesfunken führen und so dein Leben ordnen</p>
-<p><strong>Diese Schule ist so, wie Schule sein sollte: Freudig - kreativ - überraschend - magisch - bereichernd und voller ungeahnter Horizonte.</strong></p>
-<p><strong><em>Produkteigenschaften:</em></strong></p>
-<p><strong><em>• Online-Schule mit 7 Kapiteln und 37 Videolektionen<br /></em></strong><strong><em>• 2Punkt-Methode Workbook (PDF)</em></strong></p>
-<p><em>"Geh auf die Reise deiner schöpferischsen Möglichkeiten und lasse ungeahnte Schätze daraus erwachsen."</em></p>
-<p>Ich grüße dich!<br />Von Herz zu Herz<br /><em><strong>Frauke Kaluzinski</strong></em></p>
-<div> </div>
+**Vendor's marketplace description:** Online-Kurs zur2Punkt-Methode mit Frauke Kaluzinski Die 2Punkt Methode dein Bewusstseins-Instrument • lerne die 2Punkt-Methode kennen und anwenden • lerne zu nutzen, was schon in dir ist • transformiere radikal alte Glaubensmuster • harmonisiere und verbessere deine Beziehungen und Zustände • lass dich zu deinem Gottesfunken führen und so dein Leben ordnen Diese Schule ist so, wie Schule sein sollte: Freudig - kreativ - überraschend - magisch - bereichernd und voller ungeahnter Horizonte. Produkteigenschaften: • Online-Schule mit 7 Kapiteln und 37 Videolektionen • 2Punkt-Methode Workbook (PDF) "Geh auf die Reise deiner schöpferischsen Möglichkeiten und lasse ungeahnte Schätze daraus erwachsen." Ich grüße dich! Von Herz zu Herz Frauke Kaluzinski
 
 ## 2. Links
 

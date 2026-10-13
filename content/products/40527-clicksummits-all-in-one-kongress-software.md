@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Erreiche mehr Reichweite und online Einnahmen mit deinem Onlinekongress.</p>
-<p>Der sicherste, einfachste und schnellste Weg deinen Onlinekongress zu veröffentlichen ist mit ClickSummits.</p>
-<p>ClickSummits ist die einzigste <strong>All-In-One Kongress Software</strong>, mit der du ohne Webmaster deinen Online Kongress selber erstellen kannst. Oder mit der dein Technicker oder Assistent die Arbeit professionell für dich erledigt, ohne ein ganzes Team einstellen zu müssen.</p>
-<p><strong>Die Mission von ClickSummits ist es, Kongressveranstaltern eine Plattform zu bieten, mit der sie in Null-Zeit ihren Online Kongress realisieren.</strong></p>
-<p>Professionelle Vorlagen von erfolgeich umgesetzten Onlinekongressen, ermöglichen es dir auf einem hohen Niveau zu starten und mehr Zeit für anderen Dinge zu haben, ohne Webdesign studieren zu müssen.</p>
-<p><strong>Featurtes wie...</strong></p>
-<ul>
-<li>erstelle deinen <strong>Online Kongress mit einem Klick</strong> und sparen Zeit</li>
-<li>erstelle <strong>Sprecher in Formularen</strong> an einem zentralen Ort für mehr Übersicht</li>
-<li><strong>fertige plug-and-play Kongress-Vorlagen</strong> geben dir eine hochwertigen Präsenz</li>
-<li>der integrierte <strong>Mitgliederbereich</strong> ermöglicht geschützten Zugang</li>
-<li>integrierte <strong>Verbindung zu Digistore24</strong> mit einem Klick</li>
-<li>Verbinde <strong>Verbindung zu Digistore24</strong> mit einem Klick</li>
-<li><strong>automatisiert freigeschaltete Interviews</strong> geben dir freien Kopf während des Kongresses</li>
-<li>erstelle <strong>Onlinekurse in ClickSummits</strong> und spare damit Kosten für komplizierte Software</li>
-<li><strong>dupliziere deinen Onlinekurse</strong> mit allen Inhalte und verbringe den Rest des Tages am See</li>
-</ul>
-<p>machen ClickSummits zu einer einzigartigen Plattform, mit der du auch ohne technische Kenntnisse deinen Onlinekongress selber erstellen kannst.</p>
-<p><strong>Zusätzlich findest du detaillierte Videoanleitung zu jedem einzelnen Schritt.</strong></p>
-<p>Falls du technische Fragen hast, ist der ClickSummits Support jederzeit und kostenfrei erreichbar. </p>
-<div>
-<p>Folgende Funktionen beinhaltet ClickSummits:</p>
-<p><strong>Online Kongresse: 10</strong><br /><strong>Sprecher: 40 je Kongress<br />Seiten: 30 je Kongress<br />Onlinekurse: 10 je Kongress</strong><br /><strong>Mitgliederbereich: Vorhanden</strong><br /><strong>Kongresspakete: 2 je Kongress</strong><br /><strong>Zahlungsschnittstelle: Digistore24.com</strong><br /><strong>Chat Support: Vorhanden</strong></p>
-</div>
+**Vendor's marketplace description:** Erreiche mehr Reichweite und online Einnahmen mit deinem Onlinekongress. Der sicherste, einfachste und schnellste Weg deinen Onlinekongress zu veröffentlichen ist mit ClickSummits. ClickSummits ist die einzigste All-In-One Kongress Software , mit der du ohne Webmaster deinen Online Kongress selber erstellen kannst. Oder mit der dein Technicker oder Assistent die Arbeit professionell für dich erledigt, ohne ein ganzes Team einstellen zu müssen. Die Mission von ClickSummits ist es, Kongressveranstaltern eine Plattform zu bieten, mit der sie in Null-Zeit ihren Online Kongress realisieren. Professionelle Vorlagen von erfolgeich umgesetzten Onlinekongressen, ermöglichen es dir auf einem hohen Niveau zu starten und mehr Zeit für anderen Dinge zu haben, ohne Webdesign studieren zu müssen. Featurtes wie... erstelle deinen Online Kongress mit einem Klick und sparen Zeit erstelle Sprecher in Formularen an einem zentralen Ort für mehr Übersicht fertige plug-and-play Kongress-Vorlagen geben dir eine hochwertigen Präsenz der integrierte Mitgliederbereich ermöglicht geschützten Zugang integrierte Verbindung zu Digistore24 mit einem Klick Verbinde Verbindung zu Digistore24 mit einem Klick automatisiert freigeschaltete Interviews geben dir freien Kopf während des Kongresses erstelle Onlinekurse in ClickSummits und spare damit Kosten für komplizierte Software dupliziere deinen Onlinekurse mit allen Inhalte und verbringe den Rest des Tages am See machen ClickSummits zu einer einzigartigen Plattform, mit der du auch ohne technische Kenntnisse deinen Onlinekongress selber erstellen kannst. Zusätzlich findest du detaillierte Videoanleitung zu jedem einzelnen Schritt. Falls du technische Fragen hast, ist der ClickSummits Support jederzeit und kostenfrei erreichbar. Folgende Funktionen beinhaltet ClickSummits: Online Kongresse: 10 Sprecher: 40 je Kongress Seiten: 30 je Kongress Onlinekurse: 10 je Kongress Mitgliederbereich: Vorhanden Kongresspakete: 2 je Kongress Zahlungsschnittstelle: Digistore24.com Chat Support: Vorhanden
 
 ## 2. Links
 

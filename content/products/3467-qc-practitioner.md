@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Quantenheilung "Online-Kurs"</h1>
-<p>Quantenheilung bedeutet - mit Hilfe des eigenen Bewusstseins emotionale, physische und seelische Belastungen zu lindern oder zum Verschwinden zu bringen.</p>
-<p>In diesem Kurs lernen die Teilnehmer eine faszinierend einfache und verblüffende Methode kennen, um Selbstheilungskräfte zu aktivieren. Bei sich selbst - und anderen.</p>
-<p>Diese Methode unterstützt die Anwender zudem in allen anderen Lebensthemen, ob bei der Zielerreichung, oder ob dem Glück etwas auf die Sprünge geholfen werden soll.</p>
-<p>Besonders beliebt ist diese Methode bei vielen Heilpraktikern, Gesundheitscoaches und allen, die sich für dieses Thema interessieren.</p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Quantenheilung "Online-Kurs" Quantenheilung bedeutet - mit Hilfe des eigenen Bewusstseins emotionale, physische und seelische Belastungen zu lindern oder zum Verschwinden zu bringen. In diesem Kurs lernen die Teilnehmer eine faszinierend einfache und verblüffende Methode kennen, um Selbstheilungskräfte zu aktivieren. Bei sich selbst - und anderen. Diese Methode unterstützt die Anwender zudem in allen anderen Lebensthemen, ob bei der Zielerreichung, oder ob dem Glück etwas auf die Sprünge geholfen werden soll. Besonders beliebt ist diese Methode bei vielen Heilpraktikern, Gesundheitscoaches und allen, die sich für dieses Thema interessieren.
 
 ## 2. Links
 

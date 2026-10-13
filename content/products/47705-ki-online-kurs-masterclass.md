@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der "KI Online Kurs Masterclass" ist ein umfassender Online-Lehrplan, der Teilnehmern zeigt, wie sie ihren eigenen erfolgreichen Online-Kurs mit Unterstützung durch künstliche Intelligenz erstellen können. Der Kurs deckt den gesamten Prozess ab – von der ersten Idee über die Erstellung bis hin zur Vermarktung des Kurses. Teilnehmer erhalten Zugriff auf 10 detaillierte Lektionen, welche sowohl Grundlagen als auch fortgeschrittene Insider-Tipps beinhalten, sowie spezielle KI-Prompts, die speziell für die Erstellung von Online-Kursen entwickelt wurden.</p>
-<ul>
-<li>Verkaufspreis: 4,90€ (netto) </li>
-<li>100% Provision</li>
-<li>Schnelle und hohe Conversions</li>
-<li>Hohe Qualität und Kundenzufriedenheit</li>
-</ul>
-<div style="width:0px;height:0px;"> </div>
-<div style="width:0px;height:0px;"> </div>
-<div style="width:0px;height:0px;"></div>
+**Vendor's marketplace description:** Der "KI Online Kurs Masterclass" ist ein umfassender Online-Lehrplan, der Teilnehmern zeigt, wie sie ihren eigenen erfolgreichen Online-Kurs mit Unterstützung durch künstliche Intelligenz erstellen können. Der Kurs deckt den gesamten Prozess ab – von der ersten Idee über die Erstellung bis hin zur Vermarktung des Kurses. Teilnehmer erhalten Zugriff auf 10 detaillierte Lektionen, welche sowohl Grundlagen als auch fortgeschrittene Insider-Tipps beinhalten, sowie spezielle KI-Prompts, die speziell für die Erstellung von Online-Kursen entwickelt wurden. Verkaufspreis: 4,90€ (netto) 100% Provision Schnelle und hohe Conversions Hohe Qualität und Kundenzufriedenheit
 
 ## 2. Links
 

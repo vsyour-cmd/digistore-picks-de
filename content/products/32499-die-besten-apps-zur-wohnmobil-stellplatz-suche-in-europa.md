@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Neuer Ratgeber: Vorstellung von über 20 Apps zur Stellplatzsuche für Reisemobilisten im ausführlichen Testbericht</p>
-<p>Der Camping-Blog ►<a href="https://www.umiwo.de/" target="_blank" rel="noreferrer noopener">UMIWO</a> veröffentlicht in seinem aktuellen eBook-Ratgeber einen ausführlichen Testbericht mit detaillierten Beschreibungen zu Bedienung und Funktionsumfang der Apps und zeigt auf über 80 Bildschirmfotos, was die Anwender erwartet. 10 Intensivtests und 12 Kurzvorstellungen bieten den Leserinnen und Lesern eine Entscheidungsgrundlage, welche Apps sie im nächsten Urlaub vor und während der Reise sinnvoll nutzen wollen.</p>
-<p>So umgeht man Fehlkäufe und Frust bei der Anwendung. Echte Hilfe auf dem Weg zum Traum-Übernachtungsplatz!</p>
+**Vendor's marketplace description:** Neuer Ratgeber: Vorstellung von über 20 Apps zur Stellplatzsuche für Reisemobilisten im ausführlichen Testbericht Der Camping-Blog ► UMIWO veröffentlicht in seinem aktuellen eBook-Ratgeber einen ausführlichen Testbericht mit detaillierten Beschreibungen zu Bedienung und Funktionsumfang der Apps und zeigt auf über 80 Bildschirmfotos, was die Anwender erwartet. 10 Intensivtests und 12 Kurzvorstellungen bieten den Leserinnen und Lesern eine Entscheidungsgrundlage, welche Apps sie im nächsten Urlaub vor und während der Reise sinnvoll nutzen wollen. So umgeht man Fehlkäufe und Frust bei der Anwendung. Echte Hilfe auf dem Weg zum Traum-Übernachtungsplatz!
 
 ## 2. Links
 

@@ -41,33 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Premium-Zugang Mitgliederbereich: Texte</h3>
-<div>
-<p><strong>Premium-Modul:<br /></strong>Zugang zum Mitgliederbereich von Deeskalation &amp; Selfdefense.<br /><strong>Texte</strong>, <strong>Audios</strong> und <strong>Videos</strong> zum Thema Umgang mit Gewalt.</p>
-<p>-----------------------------------------------------------------</p>
-<p><strong>Die Vorteile für</strong> <strong>zukünftige Abo-Kunden:</strong></p>
-<ul>
-<li>Zugriff auf den <strong>Mitgliederbereich</strong> von Deeskalation &amp; Selfdefefense</li>
-<li>Anmelden über <strong>PC, Pad</strong> oder <strong>Handy</strong></li>
-<li><strong>Ortsungebunden</strong> lernen</li>
-<li><strong>Alle 14 Tage</strong> neue Texte</li>
-<li>Zugriff auf bereits veröffentlichte Texte</li>
-<li><strong>Grundlagen</strong> über den <strong>Umgang mit Gewalt</strong></li>
-<li><strong>Grundlagen</strong> über <strong>Deeskalation</strong></li>
-<li><strong>Grundlagen</strong> über <strong>Selfdefense</strong></li>
-<li>Fachwissen einfach <strong>Schritt-für-Schritt</strong> erklärt</li>
-<li>Gut geeignet für <strong>introvertierte</strong> Menschen und solche, die nicht gerne in einer Gruppe trainieren wollen</li>
-</ul>
-<p>-----------------------------------------------------------------</p>
-<p><strong>Die Vorteile für Dich als Affiliate:</strong></p>
-<ul>
-<li>50 % auf das Abo</li>
-<li>Wiederkehrende Einnahmequelle</li>
-<li>Alle 14 Tage neue Inhalte. Deswegen längere Nutzungsdauer</li>
-</ul>
-<p>-----------------------------------------------------------------</p>
-<p>Hier gehts zu meiner Homepage: <a>www.volkerheckt.de</a></p>
-</div>
+**Vendor's marketplace description:** Premium-Zugang Mitgliederbereich: Texte Premium-Modul: Zugang zum Mitgliederbereich von Deeskalation & Selfdefense. Texte , Audios und Videos zum Thema Umgang mit Gewalt. ----------------------------------------------------------------- Die Vorteile für zukünftige Abo-Kunden: Zugriff auf den Mitgliederbereich von Deeskalation & Selfdefefense Anmelden über PC, Pad oder Handy Ortsungebunden lernen Alle 14 Tage neue Texte Zugriff auf bereits veröffentlichte Texte Grundlagen über den Umgang mit Gewalt Grundlagen über Deeskalation Grundlagen über Selfdefense Fachwissen einfach Schritt-für-Schritt erklärt Gut geeignet für introvertierte Menschen und solche, die nicht gerne in einer Gruppe trainieren wollen ----------------------------------------------------------------- Die Vorteile für Dich als Affiliate: 50 % auf das Abo Wiederkehrende Einnahmequelle Alle 14 Tage neue Inhalte. Deswegen längere Nutzungsdauer ----------------------------------------------------------------- Hier gehts zu meiner Homepage: www.volkerheckt.de
 
 ## 2. Links
 

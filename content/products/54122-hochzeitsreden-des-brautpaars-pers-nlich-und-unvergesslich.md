@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Unser E-Book (180+ Seiten) hilft Braut und Bräutigam dabei, eine unvergessliche Hochzeitsrede zu halten – mit <strong>25 Redebeispielen, praxisnahen Tipps, KI-Mustervorlagen, Checklisten und Bonus-Gutscheinen</strong>.</p>
-<p>Das Thema ist zeitlos, die Zielgruppe groß, die Nachfrage hoch. Dank sofortigem Download (PDF) gibt es keine Lieferbarrieren – perfekt für deine Community.</p>
+**Vendor's marketplace description:** Unser E-Book (180+ Seiten) hilft Braut und Bräutigam dabei, eine unvergessliche Hochzeitsrede zu halten – mit 25 Redebeispielen, praxisnahen Tipps, KI-Mustervorlagen, Checklisten und Bonus-Gutscheinen . Das Thema ist zeitlos, die Zielgruppe groß, die Nachfrage hoch. Dank sofortigem Download (PDF) gibt es keine Lieferbarrieren – perfekt für deine Community.
 
 ## 2. Links
 

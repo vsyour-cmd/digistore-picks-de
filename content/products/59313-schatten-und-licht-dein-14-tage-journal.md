@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Schatten &amp; Licht – Dein 14-Tage-Journal für gute und schwierige Tage (PDF)</p>
-<p><strong>Für die Tage, an denen alles läuft – und besonders für die, an denen es mal schwerfällt.</strong></p>
-<p>Leben ist nicht nur Sonnenschein. Dieses 14-Tage-Journal bietet einen ehrlichen, geschützten Raum, um sowohl die hellen Momente zu feiern als auch die Tage zu verarbeiten, an denen der Akku leer ist. Es hilft deiner Zielgruppe dabei, schlechte Tage ohne Druck anzunehmen, die eigenen Gefühle ehrlich zu sortieren und Schritt für Schritt wieder ins Gleichgewicht zu finden.</p>
-<p><strong>Vorteile für Käufer:</strong></p>
-<ul>
-<li>
-<p><strong>Ehrliche Reflexion:</strong> Platz für gute Tage und sanfte Unterstützung, wenn es mal nicht so läuft</p>
-</li>
-<li>
-<p><strong>Ohne Toxischen Positivismus:</strong> Kein erzwungenes „Gut-Drauf-Sein“, sondern ehrlicher Umgang mit dem eigenen Befinden</p>
-</li>
-<li>
-<p><strong>Sofortiger PDF-Download:</strong> 14 Tage strukturierter Begleiter für mehr innere Balance im Alltag</p>
-</li>
-</ul>
-<p>Ideal für Affiliates in den Bereichen Selfcare, Achtsamkeit, Mentale Gesundheit und Alltags-Empowerment!</p>
+**Vendor's marketplace description:** Schatten & Licht – Dein 14-Tage-Journal für gute und schwierige Tage (PDF) Für die Tage, an denen alles läuft – und besonders für die, an denen es mal schwerfällt. Leben ist nicht nur Sonnenschein. Dieses 14-Tage-Journal bietet einen ehrlichen, geschützten Raum, um sowohl die hellen Momente zu feiern als auch die Tage zu verarbeiten, an denen der Akku leer ist. Es hilft deiner Zielgruppe dabei, schlechte Tage ohne Druck anzunehmen, die eigenen Gefühle ehrlich zu sortieren und Schritt für Schritt wieder ins Gleichgewicht zu finden. Vorteile für Käufer: Ehrliche Reflexion: Platz für gute Tage und sanfte Unterstützung, wenn es mal nicht so läuft Ohne Toxischen Positivismus: Kein erzwungenes „Gut-Drauf-Sein“, sondern ehrlicher Umgang mit dem eigenen Befinden Sofortiger PDF-Download: 14 Tage strukturierter Begleiter für mehr innere Balance im Alltag Ideal für Affiliates in den Bereichen Selfcare, Achtsamkeit, Mentale Gesundheit und Alltags-Empowerment!
 
 ## 2. Links
 

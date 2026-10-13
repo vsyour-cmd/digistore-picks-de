@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Die Entwicklung des Babys und eine gesunde Geburt fördern - mit der richtigen Ernährung!</h2>
-<p>➕ eBook mit Ernährungsplan</p>
-<p>➕ Rezepte</p>
-<p>➕ Nährstoff-Leitfaden</p>
-<h2><strong>Deine Vorteile als Affiliate:</strong></h2>
-<p><strong>✅</strong> <strong>100% Provision</strong> für Deinen Einsatz</p>
-<p><strong>✅</strong> Erprobte, laufend optimierte Verkaufsseite</p>
-<p><strong>✅</strong> <strong>100%</strong> Smartphone optimiert</p>
-<p><strong>✅</strong> + Upsell zu Onlinekurs</p>
-<p><strong>✅ <a>Affiliate-Support-Webseite</a> mit allen Informationen, Werbemitteln &amp; Support<br /></strong></p>
-<h2><strong>Starte jetzt:<br /></strong></h2>
-<p><strong>➡️ <a>Zur CleverMom Webseite</a><br /></strong></p>
-<p><strong>➡️ <a>Zum Affiliate Partner Programm</a></strong></p>
+**Vendor's marketplace description:** Die Entwicklung des Babys und eine gesunde Geburt fördern - mit der richtigen Ernährung! ➕ eBook mit Ernährungsplan ➕ Rezepte ➕ Nährstoff-Leitfaden Deine Vorteile als Affiliate: ✅ 100% Provision für Deinen Einsatz ✅ Erprobte, laufend optimierte Verkaufsseite ✅ 100% Smartphone optimiert ✅ + Upsell zu Onlinekurs ✅ Affiliate-Support-Webseite mit allen Informationen, Werbemitteln & Support Starte jetzt: ➡️ Zur CleverMom Webseite ➡️ Zum Affiliate Partner Programm
 
 ## 2. Links
 

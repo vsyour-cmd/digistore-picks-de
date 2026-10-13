@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das <strong>Google Review Response Kit</strong> ist ein praxisfertiges Toolkit für Betriebe, Selbstständige und lokale Dienstleister: fertige, professionelle Antwortvorlagen auf positive UND negative Google-Bewertungen, KI-Prompts für individuelle Antworten in Sekunden und ein klarer Leitfaden für souveränes Reputationsmanagement – ehrlich, direkt umsetzbar, ohne leere Versprechen.</p>
-<p><strong>Deine Vorteile als Affiliate:</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> auf jeden Verkauf – sofort freigeschaltet</li>
-<li><strong>Riesige Zielgruppe:</strong> Jeder Betrieb mit Google-Profil braucht das – Gastronomie, Handwerk, Praxen, Händler, Coaches</li>
-<li><strong>Low-Ticket-Türöffner:</strong> niedriger Preis = geringe Kaufhürde, ideal für E-Mail-Listen, Social Media und lokale B2B-Kontakte</li>
-<li><strong>Fertiges Werbematerial:</strong> E-Mail-Vorlagen und Social-Media-Texte auf unserer Partnerseite – du kannst sofort starten</li>
-<li>Professionelle Verkaufsseite, Digistore24-Abwicklung, 14 Tage Geld-zurück – geringe Stornoquote</li>
-</ul>
-<p><strong>So startest du:</strong> Partnerschaft anfordern (automatische Freischaltung), Werbematerial von der Partnerseite holen, Promolink teilen – fertig.</p>
+**Vendor's marketplace description:** Das Google Review Response Kit ist ein praxisfertiges Toolkit für Betriebe, Selbstständige und lokale Dienstleister: fertige, professionelle Antwortvorlagen auf positive UND negative Google-Bewertungen, KI-Prompts für individuelle Antworten in Sekunden und ein klarer Leitfaden für souveränes Reputationsmanagement – ehrlich, direkt umsetzbar, ohne leere Versprechen. Deine Vorteile als Affiliate: 50 % Provision auf jeden Verkauf – sofort freigeschaltet Riesige Zielgruppe: Jeder Betrieb mit Google-Profil braucht das – Gastronomie, Handwerk, Praxen, Händler, Coaches Low-Ticket-Türöffner: niedriger Preis = geringe Kaufhürde, ideal für E-Mail-Listen, Social Media und lokale B2B-Kontakte Fertiges Werbematerial: E-Mail-Vorlagen und Social-Media-Texte auf unserer Partnerseite – du kannst sofort starten Professionelle Verkaufsseite, Digistore24-Abwicklung, 14 Tage Geld-zurück – geringe Stornoquote So startest du: Partnerschaft anfordern (automatische Freischaltung), Werbematerial von der Partnerseite holen, Promolink teilen – fertig.
 
 ## 2. Links
 

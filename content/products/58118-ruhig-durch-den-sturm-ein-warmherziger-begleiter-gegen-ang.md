@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein warmherziger, ehrlicher Ratgeber gegen Angst und Panikattacken, mit echten Übungen für den Moment, in dem es am schlimmsten ist. Ideal für Zielgruppen im Bereich mentale Gesundheit, Achtsamkeit und Selbsthilfe.</p>
-<p> </p>
-<p>Verständlich, einfühlsam, ohne Fachchinesisch. 50% Provision pro Verkauf.</p>
+**Vendor's marketplace description:** Ein warmherziger, ehrlicher Ratgeber gegen Angst und Panikattacken, mit echten Übungen für den Moment, in dem es am schlimmsten ist. Ideal für Zielgruppen im Bereich mentale Gesundheit, Achtsamkeit und Selbsthilfe. Verständlich, einfühlsam, ohne Fachchinesisch. 50% Provision pro Verkauf.
 
 ## 2. Links
 

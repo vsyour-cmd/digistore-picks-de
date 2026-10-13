@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Spielerische App zum Schreiben- und Handschrift-Lernen für Kinder, mit Fuchs-Maskottchen als Begleiter durch die Buchstaben und Übungen.</p>
+**Vendor's marketplace description:** Spielerische App zum Schreiben- und Handschrift-Lernen für Kinder, mit Fuchs-Maskottchen als Begleiter durch die Buchstaben und Übungen.
 
 ## 2. Links
 

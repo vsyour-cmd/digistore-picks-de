@@ -41,46 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<h1><span style="color:#993300;">FULLPAGE WEBSEITE ERSTELLEN</span></h1>
-</div>
-</div>
-<div>
-<div>
-<h1><span style="color:#993300;">” 5-10 Page “</span></h1>
-</div>
-</div>
-<div>
-<div>
-<p>Nur mit 899<em>€</em></p>
-<p> </p>
-<ul>
-<li>#1 Alles Wichtige in 5-10 Seiten  Responsive Seite</li>
-<li>#2 Nach Ihre Bedürfnisse. Fotos,Texte,Videos</li>
-<li>#3 Dienstleistungen-Produkten in Kürze</li>
-<li>  #4 Inkl. Links zu Ihre Social Media</li>
-<li>  #5 Inkl. einfache Kontakt-formular &amp; Map</li>
-<li>  #6 Netto Preis fürs Webseite Erstellen</li>
-<li>  #7 Domain Name &amp; Hosting zusätzlich kosten</li>
-<li>  #8 Nach bezahlen - folgen ZOOM Gespräche - Planung  </li>
-</ul>
-<ul>
-<li>#9 Pflege : Ja möglich zusätzlich kosten</li>
-</ul>
-<p> </p>
-<ul>
-<li>Schauen Sie hier unsere Video, was können wir für Euch tun sehr günstig</li>
-</ul>
-</div>
-</div>
-</div>
-<div>
-<div>
-<p> </p>
-</div>
-</div>
+**Vendor's marketplace description:** FULLPAGE WEBSEITE ERSTELLEN ” 5-10 Page “ Nur mit 899 € #1 Alles Wichtige in 5-10 Seiten Responsive Seite #2 Nach Ihre Bedürfnisse. Fotos,Texte,Videos #3 Dienstleistungen-Produkten in Kürze #4 Inkl. Links zu Ihre Social Media #5 Inkl. einfache Kontakt-formular & Map #6 Netto Preis fürs Webseite Erstellen #7 Domain Name & Hosting zusätzlich kosten #8 Nach bezahlen - folgen ZOOM Gespräche - Planung #9 Pflege : Ja möglich zusätzlich kosten Schauen Sie hier unsere Video, was können wir für Euch tun sehr günstig
 
 ## 2. Links
 

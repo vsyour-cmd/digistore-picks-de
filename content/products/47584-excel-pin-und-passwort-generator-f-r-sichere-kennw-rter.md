@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Excel PIN- &amp; Passwortgenerator bietet Premiumfunktionen für extra starke Passwörter.</p>
-<p>Mit Version 2.1 können:</p>
-<ul>
-<li>bis zu 100 Passwörter oder PIN-Codes gleichzeitig erstellen</li>
-<li>die generierten Passwärter oder PIN-Codes können in die Zwischenablage kopiert, oder als Textdatei exportiert werden</li>
-<li>es können Passwörter mit bis zu 20 Zeichen erstellt werden</li>
-<li>Zahlen PIN-Codes können mit bis zu 10 Zeichen erstellt werden</li>
-<li>ausgehend von den gewählten Zeichenoptionen und der Passwortlänge wird die Passwortstärke ermittelt</li>
-</ul>
-<p>Die aktuelle Version 2.1 des Excel PIN- &amp; Passwortgenerators ist für 9,95 Euro bei Digistore24 erhältlich.</p>
-<p>Verdienen Sie pro Verkauf 10% Provision. </p>
+**Vendor's marketplace description:** Der Excel PIN- & Passwortgenerator bietet Premiumfunktionen für extra starke Passwörter. Mit Version 2.1 können: bis zu 100 Passwörter oder PIN-Codes gleichzeitig erstellen die generierten Passwärter oder PIN-Codes können in die Zwischenablage kopiert, oder als Textdatei exportiert werden es können Passwörter mit bis zu 20 Zeichen erstellt werden Zahlen PIN-Codes können mit bis zu 10 Zeichen erstellt werden ausgehend von den gewählten Zeichenoptionen und der Passwortlänge wird die Passwortstärke ermittelt Die aktuelle Version 2.1 des Excel PIN- & Passwortgenerators ist für 9,95 Euro bei Digistore24 erhältlich. Verdienen Sie pro Verkauf 10% Provision.
 
 ## 2. Links
 

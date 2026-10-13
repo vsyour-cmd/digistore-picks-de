@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Werfen Sie Ihren Kamin an und bestimmen Sie, wie das Wetter werden soll: Lassen Sie es regnen, gewittern oder sogar schneien. Alle Sequenzen wurden in ultrahoher Auflösung aufgezeichnet und können in der Windows-Variante in voller 4K-Auflösung angezeigt werden*.</p>
-<p>Wechseln Sie zwischen verschiedenen Umgebungen, wie einem Haus in den Bergen oder einer modernen Wohnung mit einem Kaminfeuer – oder einem Strand, wo von Ihrem Lagerfeuer noch die Glut zu sehen ist. Sehen Sie die Sterne funkeln und hören Sie das Meer Rauschen.</p>
-<p><br />* In der Android-Variante haben die Sequenzen technisch bedingt eine maximale Auflösung von 800 Zeilen.<br /><br /></p>
-<p>Weitere Informationen finden Sie auf der Produktseite:<br /><a href="https://www.jmmgc.com/kaminfeuer/">https://www.jmmgc.com/kaminfeuer/</a></p>
+**Vendor's marketplace description:** Werfen Sie Ihren Kamin an und bestimmen Sie, wie das Wetter werden soll: Lassen Sie es regnen, gewittern oder sogar schneien. Alle Sequenzen wurden in ultrahoher Auflösung aufgezeichnet und können in der Windows-Variante in voller 4K-Auflösung angezeigt werden*. Wechseln Sie zwischen verschiedenen Umgebungen, wie einem Haus in den Bergen oder einer modernen Wohnung mit einem Kaminfeuer – oder einem Strand, wo von Ihrem Lagerfeuer noch die Glut zu sehen ist. Sehen Sie die Sterne funkeln und hören Sie das Meer Rauschen. * In der Android-Variante haben die Sequenzen technisch bedingt eine maximale Auflösung von 800 Zeilen. Weitere Informationen finden Sie auf der Produktseite: https://www.jmmgc.com/kaminfeuer/
 
 ## 2. Links
 

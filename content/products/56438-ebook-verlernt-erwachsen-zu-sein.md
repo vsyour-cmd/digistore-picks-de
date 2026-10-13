@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses Buch trifft einen wachsenden Nerv: die gesellschaftliche Infantilisierung und die Sehnsucht nach echter Reife, Verantwortung und Selbstbestimmung.</p>
-<p>Es spricht eine kaufkräftige, reflektierte Zielgruppe an, die sich mit Persönlichkeitsentwicklung, Gesellschaftskritik und mentaler Stärke beschäftigt.</p>
-<p>Die klare Problem-Positionierung (Bequemlichkeitskultur, digitale Abhängigkeit, fehlende Mündigkeit) gepaart mit einem intellektuell fundierten Lösungsansatz sorgt für starke Relevanz und hohe Identifikation.</p>
-<p>Besonders attraktiv für Affiliates: ein emotional aufgeladenes Thema mit breiter Zielgruppe und starkem Diskussionspotenzial.</p>
-<p>Ein Produkt mit hoher inhaltlicher Tiefe und überzeugender Vermarktbarkeit im Bereich Mindset, Selbstentwicklung und Gesellschaftsanalyse.</p>
+**Vendor's marketplace description:** Dieses Buch trifft einen wachsenden Nerv: die gesellschaftliche Infantilisierung und die Sehnsucht nach echter Reife, Verantwortung und Selbstbestimmung. Es spricht eine kaufkräftige, reflektierte Zielgruppe an, die sich mit Persönlichkeitsentwicklung, Gesellschaftskritik und mentaler Stärke beschäftigt. Die klare Problem-Positionierung (Bequemlichkeitskultur, digitale Abhängigkeit, fehlende Mündigkeit) gepaart mit einem intellektuell fundierten Lösungsansatz sorgt für starke Relevanz und hohe Identifikation. Besonders attraktiv für Affiliates: ein emotional aufgeladenes Thema mit breiter Zielgruppe und starkem Diskussionspotenzial. Ein Produkt mit hoher inhaltlicher Tiefe und überzeugender Vermarktbarkeit im Bereich Mindset, Selbstentwicklung und Gesellschaftsanalyse.
 
 ## 2. Links
 

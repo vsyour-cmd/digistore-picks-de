@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Affiliate Kumpel ist der Einstieg in das Affiliate Marketing mit einem Blog und Aufbau eines echten Systems!<br /></strong></h2>
-<p><strong>Für alle Affiliates eine klasse Chance.</strong> Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann <strong>30 - 50% Provision</strong> gibt.</p>
-<p><strong>Insgesamt können damit über 450 Euro an Provision verdient werden.</strong></p>
-<p>Im Programm ist folgendes enthalten:</p>
-<ul>
-<li>… wie du eine <strong>profitable Nische findest,</strong> die auch noch zu deinen Interessen passt, sodass du es <strong>jeden Tag voller Leidenschaft machst.</strong></li>
-<li>… wie du mindestens <strong>3 - 6 Einkommensströme aufbaust </strong>und du dir damit dein passives Einkommen aufbaust sowie das Maximum herausholst</li>
-<li>... wie du Besucher auf deine Seite <strong>kostenlos, ohne teure Werbung</strong> bekommst, die nach genau den Produkten suchen und kaufen möchten, die du präsentierst!</li>
-<li>... wie du ein nachhaltiges und lukratives System aufbaust!</li>
-<li>... einen <strong>fertigen Blog</strong> zum direkt installieren und loslegen!</li>
-<li>... wie du bestimmte Dinge automatisieren kannst</li>
-<li>... wie du dir ein zweites Standbein durch passives Einkommen aufbaust</li>
-<li><strong>Bonus 1:</strong> Verschiedene lukrative Partnerprogramme, bereits erprobt, getestet und für gut befunden!</li>
-<li><strong>Bonus 2</strong>: Updates</li>
-<li><strong>Bonus 3</strong>: Möglichkeit, wie du <strong>200 Euro geschenkt</strong> bekommst, einfach so!!</li>
-<li>und noch vieles mehr!</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** Affiliate Kumpel ist der Einstieg in das Affiliate Marketing mit einem Blog und Aufbau eines echten Systems! Für alle Affiliates eine klasse Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Insgesamt können damit über 450 Euro an Provision verdient werden. Im Programm ist folgendes enthalten: … wie du eine profitable Nische findest, die auch noch zu deinen Interessen passt, sodass du es jeden Tag voller Leidenschaft machst. … wie du mindestens 3 - 6 Einkommensströme aufbaust und du dir damit dein passives Einkommen aufbaust sowie das Maximum herausholst ... wie du Besucher auf deine Seite kostenlos, ohne teure Werbung bekommst, die nach genau den Produkten suchen und kaufen möchten, die du präsentierst! ... wie du ein nachhaltiges und lukratives System aufbaust! ... einen fertigen Blog zum direkt installieren und loslegen! ... wie du bestimmte Dinge automatisieren kannst ... wie du dir ein zweites Standbein durch passives Einkommen aufbaust Bonus 1: Verschiedene lukrative Partnerprogramme, bereits erprobt, getestet und für gut befunden! Bonus 2 : Updates Bonus 3 : Möglichkeit, wie du 200 Euro geschenkt bekommst, einfach so!! und noch vieles mehr!
 
 ## 2. Links
 

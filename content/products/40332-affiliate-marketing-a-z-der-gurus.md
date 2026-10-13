@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Mit den neuesten Strategien und Werbemitteln kannst du hier täglich attraktive Provisionen verdienen..</strong></p>
-<p><strong>Provisionsmodell:</strong></p>
-<ul>
-<li>50% Provision auf Upsell 1 - 29€ / Monat</li>
-<li>50% Provision auf Upsell 2 - 59€ / Monat</li>
-</ul>
-<p><span style="background-color:#ffff00;"><strong>Mit einem einzigen Verkauf kannst du 30€+ / Monat verdienen!</strong></span></p>
-<p><span style="background-color:#ff6600;color:#ffffff;"><strong><a style="background-color:#ff6600;color:#ffffff;" href="https://t.me/+FcqlsbS4PSA4ZDZi" target="_blank" rel="noreferrer noopener">--&gt; Jetzt hier klicken und alle Infos &amp; News, sowie Tipps &amp; Tricks auf Telegram erhalten (KLICK)</a></strong></span></p>
-<p><a href="https://florianschaefer.de/partnerprogramm/" target="_blank" rel="noreferrer noopener"><span style="color:#ff0000;"><strong>--&gt; Hier gehts zur Partnerprogrammseite</strong></span></a></p>
+**Vendor's marketplace description:** Mit den neuesten Strategien und Werbemitteln kannst du hier täglich attraktive Provisionen verdienen.. Provisionsmodell: 50% Provision auf Upsell 1 - 29€ / Monat 50% Provision auf Upsell 2 - 59€ / Monat Mit einem einzigen Verkauf kannst du 30€+ / Monat verdienen! --> Jetzt hier klicken und alle Infos & News, sowie Tipps & Tricks auf Telegram erhalten (KLICK) --> Hier gehts zur Partnerprogrammseite
 
 ## 2. Links
 

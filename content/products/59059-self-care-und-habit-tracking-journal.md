@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Self-Care &amp; Habit-Tracking Journal – Dein 30-Tage-System für mehr Struktur und gute Gewohnheiten</strong></p>
-<p>Das Self-Care &amp; Habit-Tracking Journal begleitet dich 30 Tage lang mit einem einfachen, alltagstauglichen System aus Selbstreflexion, Habit-Tracking und kleinen Ritualen – ganz ohne Druck, perfekt sein zu müssen. Sofort als PDF verfügbar.</p>
-<p><strong>Das ist enthalten:</strong></p>
-<ul>
-<li>
-<p>Ehrlicher Self-Check deiner aktuellen Lebenssituation</p>
-</li>
-<li>
-<p>Einfaches Habit-Tracking-System inkl. Habit-Stacking-Methode</p>
-</li>
-<li>
-<p>30 Tage Journaling-Prompts für Morgen und Abend</p>
-</li>
-<li>
-<p>Wochen- &amp; Monatsplaner-Vorlagen</p>
-</li>
-<li>
-<p>Dankbarkeits- &amp; Mindset-Rituale</p>
-</li>
-<li>
-<p>Bonus: 30-Tage-Self-Care-Challenge</p>
-</li>
-</ul>
-<p><strong>Sofortiger Download</strong> – kein Abo, keine versteckten Kosten.</p>
+**Vendor's marketplace description:** Self-Care & Habit-Tracking Journal – Dein 30-Tage-System für mehr Struktur und gute Gewohnheiten Das Self-Care & Habit-Tracking Journal begleitet dich 30 Tage lang mit einem einfachen, alltagstauglichen System aus Selbstreflexion, Habit-Tracking und kleinen Ritualen – ganz ohne Druck, perfekt sein zu müssen. Sofort als PDF verfügbar. Das ist enthalten: Ehrlicher Self-Check deiner aktuellen Lebenssituation Einfaches Habit-Tracking-System inkl. Habit-Stacking-Methode 30 Tage Journaling-Prompts für Morgen und Abend Wochen- & Monatsplaner-Vorlagen Dankbarkeits- & Mindset-Rituale Bonus: 30-Tage-Self-Care-Challenge Sofortiger Download – kein Abo, keine versteckten Kosten.
 
 ## 2. Links
 

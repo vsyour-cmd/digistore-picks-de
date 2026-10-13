@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#003366;"><strong><span style="color:#0000ff;">Das 30-Minuten-System</span> </strong></span></h2>
-<p>Du erfährst, wie Du Dir mit <strong><em>nur 30 Minuten pro Tag</em></strong> ein zusätzliches Einkommen aufbauen kannst.</p>
-<ul>
-<li>digitale Selbstlern-Videoserie, die Trading am Währungsmarkt strukturiert und nachvollziehbar erklärt.</li>
-<li>Du verstehst Marktlogik, Entscheidungsmodelle und siehst anhand praxisnaher Beispiele, wie Du Trading eigenständig und ruhig umsetzen kannst.</li>
-<li>Du erfährst, wie Du auch mit wenig Eigenkapital und risikoarm solide Profite machen kannst.</li>
-<li>Du bekommst Zugang zu über 80h Videomaterial über den Mitgliederbereich für 12 Monate / lebenslang.</li>
-<li>Inklusive professioneller Analyse-Tools und Indikatoren, die deine Erfolgschancen deutlich anheben - <strong>gerade wenn dein Alltag voll ist</strong></li>
-</ul>
-<p>Der Zugang erfolgt <strong>digital nach Zahlungsbestätigung</strong>.</p>
-<h3><span style="color:#0000ff;"><strong>JETZT für 1€ risikofrei loslegen</strong></span> mit 14-Tage Geld-zurück-Garantie.</h3>
-<p>oder</p>
-<h3>sichere Dir sofort den <span style="color:#0000ff;"><strong>uneingeschränkten Zugang </strong></span>mit allen Updates<span style="color:#0000ff;"><strong> für einmalig nur 897 €</strong>.</span></h3>
-<h5>---------------------------------------------------------------------</h5>
-<h5> </h5>
-<h5>Rechtliche Hinweise:</h5>
-<h6>Es handelt sich um eine Selbstlern-Videoserie und ausdrücklich nicht um Unterricht oder Fernunterricht im Sinne des  Fernunterrichtsschutzgesetzes (FernUSG). Ziel ist die individuelle Entwicklung einer persönlichen Handelsroutine, nicht die schulische Wissensvermittlung. Die Thematik Automatisierung ist kein Bestandteil dieser Video-Serie. Keine Anlage- udn Finanzberatung. Eine Gewinn- und Erfolgsgarantie wird nicht gegeben. Diese ist vom Engangement und Startpunkt des Käufers abhängig.</h6>
+**Vendor's marketplace description:** Das 30-Minuten-System Du erfährst, wie Du Dir mit nur 30 Minuten pro Tag ein zusätzliches Einkommen aufbauen kannst. digitale Selbstlern-Videoserie, die Trading am Währungsmarkt strukturiert und nachvollziehbar erklärt. Du verstehst Marktlogik, Entscheidungsmodelle und siehst anhand praxisnaher Beispiele, wie Du Trading eigenständig und ruhig umsetzen kannst. Du erfährst, wie Du auch mit wenig Eigenkapital und risikoarm solide Profite machen kannst. Du bekommst Zugang zu über 80h Videomaterial über den Mitgliederbereich für 12 Monate / lebenslang. Inklusive professioneller Analyse-Tools und Indikatoren, die deine Erfolgschancen deutlich anheben - gerade wenn dein Alltag voll ist Der Zugang erfolgt digital nach Zahlungsbestätigung . JETZT für 1€ risikofrei loslegen mit 14-Tage Geld-zurück-Garantie. oder sichere Dir sofort den uneingeschränkten Zugang mit allen Updates für einmalig nur 897 € . --------------------------------------------------------------------- Rechtliche Hinweise: Es handelt sich um eine Selbstlern-Videoserie und ausdrücklich nicht um Unterricht oder Fernunterricht im Sinne des Fernunterrichtsschutzgesetzes (FernUSG). Ziel ist die individuelle Entwicklung einer persönlichen Handelsroutine, nicht die schulische Wissensvermittlung. Die Thematik Automatisierung ist kein Bestandteil dieser Video-Serie. Keine Anlage- udn Finanzberatung. Eine Gewinn- und Erfolgsgarantie wird nicht gegeben. Diese ist vom Engangement und Startpunkt des Käufers abhängig.
 
 ## 2. Links
 

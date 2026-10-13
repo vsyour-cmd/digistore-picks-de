@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die <span style="background-color:#ffff00;"><strong>Deal Maker Academy</strong></span> ist ein Videokurs, wo dir <strong>Schritt-für-Schritt </strong>in 10+ verständlichen Kapiteln mit hilfreichen Videos beigebracht wird, wie du als junger Anfänger ohne Vorkenntnisse dein eigenes profitables <span style="background-color:#ffff00;">Affiliate Marketing</span> Business mit Instagram und TikTok startest. Dabei wird besonderen <strong>Wert</strong> darauf gelegt, dass du sehr <strong>schnell</strong> Gewinne machst, somit kannst du bereits nach 2-3 Tagen die ersten Ergebnisse sehen. Du erhältst neben den vielen Videos, welche dir alle Grundlagen mit <strong>guten Beispielen </strong>erklären auch noch den Zugriff auf viele weitere Dinge!</p>
+**Vendor's marketplace description:** Die Deal Maker Academy ist ein Videokurs, wo dir Schritt-für-Schritt in 10+ verständlichen Kapiteln mit hilfreichen Videos beigebracht wird, wie du als junger Anfänger ohne Vorkenntnisse dein eigenes profitables Affiliate Marketing Business mit Instagram und TikTok startest. Dabei wird besonderen Wert darauf gelegt, dass du sehr schnell Gewinne machst, somit kannst du bereits nach 2-3 Tagen die ersten Ergebnisse sehen. Du erhältst neben den vielen Videos, welche dir alle Grundlagen mit guten Beispielen erklären auch noch den Zugriff auf viele weitere Dinge!
 
 ## 2. Links
 

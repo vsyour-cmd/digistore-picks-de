@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>High-Ticket B2B Asset: 158,00 € Provision pro Sale mit schlüsselfertiger KI-Automatisierung!</strong></p>
-<p>Der <strong>KI-Anfrage-Manager</strong> löst ein massives Schmerzproblem bei kleinen und mittelständischen Unternehmen (KMU): Verpasste Kundenanfragen und zeitraubende Qualifizierung im Büroalltag.</p>
-<p><strong>Warum du dieses Produkt bewerben solltest:</strong></p>
-<ul>
-<li>
-<p><strong>Hoher Verdienst:</strong> <strong>158,00 € Reingewinn</strong> pro einzigem Verkauf (20 % Provision).</p>
-</li>
-<li>
-<p><strong>Kaufkräftige B2B-Zielgruppe:</strong> Firmen investieren gerne in Zeitersparnis und schnelle Reaktionszeiten.</p>
-</li>
-<li>
-<p><strong>Geringe Stornoquote:</strong> B2B-Einrichtungsservices haben naturgemäß extrem niedrige Rückgabe-Quoten.</p>
-</li>
-<li>
-<p><strong>Starke Conversion:</strong> Durch das transparente Festpreis-Modell ohne zeitraubende Sales-Calls schließt die Landingpage direkt ab.</p>
-</li>
-</ul>
-<p><strong>Perfekt geeignet für:</strong> B2B-Newsletter, LinkedIn-Creator, Business-Blogs, YouTube-Kanäle für Unternehmertum/Produktivität und B2B-Meta-Ads.</p>
+**Vendor's marketplace description:** High-Ticket B2B Asset: 158,00 € Provision pro Sale mit schlüsselfertiger KI-Automatisierung! Der KI-Anfrage-Manager löst ein massives Schmerzproblem bei kleinen und mittelständischen Unternehmen (KMU): Verpasste Kundenanfragen und zeitraubende Qualifizierung im Büroalltag. Warum du dieses Produkt bewerben solltest: Hoher Verdienst: 158,00 € Reingewinn pro einzigem Verkauf (20 % Provision). Kaufkräftige B2B-Zielgruppe: Firmen investieren gerne in Zeitersparnis und schnelle Reaktionszeiten. Geringe Stornoquote: B2B-Einrichtungsservices haben naturgemäß extrem niedrige Rückgabe-Quoten. Starke Conversion: Durch das transparente Festpreis-Modell ohne zeitraubende Sales-Calls schließt die Landingpage direkt ab. Perfekt geeignet für: B2B-Newsletter, LinkedIn-Creator, Business-Blogs, YouTube-Kanäle für Unternehmertum/Produktivität und B2B-Meta-Ads.
 
 ## 2. Links
 
@@ -90,6 +73,14 @@ language: "de"
 - **Page word count:** 541
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
 
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 

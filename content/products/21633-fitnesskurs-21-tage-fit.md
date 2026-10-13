@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Bewirb ein Produkt, das sich verkauft – in einer Nische, die das ganze Jahr gefragt ist.</strong></p>
-<p>21-Tage-Fit ist ein kompletter Fitness-Videokurs für zu Hause: ein klarer 21-Tage-Plan, Home-Workouts mit Trainingsvideos, Ernährungs-Guides und über 70 Rezepte – ganz ohne Geräte und ohne Fitnessstudio. Genau das, was Einsteiger und Wiedereinsteiger suchen.</p>
-<p><strong>Warum sich das Bewerben lohnt:</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> auf jeden Verkauf – attraktiv und fair.</li>
-<li><strong>Fairer Preis (37 €):</strong> niedrige Kaufhürde = leichter zu verkaufen.</li>
-<li><strong>Evergreen-Thema:</strong> Home-Fitness, Abnehmen und Muskelaufbau sind ganzjährig gefragt.</li>
-<li><strong>Fertige Werbemittel:</strong> Banner, Textlinks, Social-Posts und E-Mail-/Newsletter-Vorlagen – sofort einsetzbar.</li>
-<li><strong>Klare, geprüfte Salespage</strong> mit echtem Mehrwert.</li>
-<li><strong>Sichere Abwicklung</strong> über Digistore24 inkl. Rechnung und Auszahlung.</li>
-</ul>
-<p><strong>Zielgruppe:</strong> Einsteiger &amp; Wiedereinsteiger, Menschen ohne Zeit fürs Studio, Home-Workout-, Abnehm- und Muskelaufbau-Interessierte.</p>
-<p><strong>Ideale Traffic-Quellen:</strong> E-Mail-Newsletter, Instagram/TikTok/Facebook, Fitness- &amp; Abnehm-Blogs, YouTube, Facebook-Gruppen.</p>
-<p>
+**Vendor's marketplace description:** Bewirb ein Produkt, das sich verkauft – in einer Nische, die das ganze Jahr gefragt ist. 21-Tage-Fit ist ein kompletter Fitness-Videokurs für zu Hause: ein klarer 21-Tage-Plan, Home-Workouts mit Trainingsvideos, Ernährungs-Guides und über 70 Rezepte – ganz ohne Geräte und ohne Fitnessstudio. Genau das, was Einsteiger und Wiedereinsteiger suchen. Warum sich das Bewerben lohnt: 50 % Provision auf jeden Verkauf – attraktiv und fair. Fairer Preis (37 €): niedrige Kaufhürde = leichter zu verkaufen. Evergreen-Thema: Home-Fitness, Abnehmen und Muskelaufbau sind ganzjährig gefragt. Fertige Werbemittel: Banner, Textlinks, Social-Posts und E-Mail-/Newsletter-Vorlagen – sofort einsetzbar. Klare, geprüfte Salespage mit echtem Mehrwert. Sichere Abwicklung über Digistore24 inkl. Rechnung und Auszahlung. Zielgruppe: Einsteiger & Wiedereinsteiger, Menschen ohne Zeit fürs Studio, Home-Workout-, Abnehm- und Muskelaufbau-Interessierte. Ideale Traffic-Quellen: E-Mail-Newsletter, Instagram/TikTok/Facebook, Fitness- & Abnehm-Blogs, YouTube, Facebook-Gruppen.
 
 ## 2. Links
 

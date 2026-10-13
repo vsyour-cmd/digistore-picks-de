@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Agenturlizenz von easyRechtssicher</strong>: Webdesigner und Agenturen sichern bis zu 25 Kundenwebsites mit Datenschutzerklärung, Impressum und Cookie-Banner ab. Ein Plugin hält die Texte automatisch aktuell – ohne dass die Agentur bei jeder Gesetzesänderung nachbessern muss. Abo-Produkt, ca. 238 € pro Verkauf.</p>
-<p><strong>Warum es sich lohnt, das zu bewerben:</strong></p>
-<ul>
-<li><strong>20 % Provision je Zahlung</strong> – auch auf jede Folgezahlung, nicht nur die erste.</li>
-<li><strong>Hoher Warenkorb</strong>: Agenturprodukt statt Einzelplatzlizenz.</li>
-<li><strong>Zielgruppe mit Handlungsdruck</strong>: Agenturen haften für die Websites, die sie bauen. Die Lizenz nimmt ihnen genau das ab.</li>
-<li><strong>Verkauf, Support und Rechtstexte übernehmen wir.</strong></li>
-<li><strong>Werbemittel</strong>: Banner, Vorlagen für E-Mail-Texte, Blog-Beiträge, Partnersiegel.</li>
-</ul>
-<p>Alle Infos für Partner: <a href="https://easyrechtssicher.de/partner-programm-ihre-vorteile">easyrechtssicher.de/partner-programm-ihre-vorteile</a></p>
+**Vendor's marketplace description:** Agenturlizenz von easyRechtssicher : Webdesigner und Agenturen sichern bis zu 25 Kundenwebsites mit Datenschutzerklärung, Impressum und Cookie-Banner ab. Ein Plugin hält die Texte automatisch aktuell – ohne dass die Agentur bei jeder Gesetzesänderung nachbessern muss. Abo-Produkt, ca. 238 € pro Verkauf. Warum es sich lohnt, das zu bewerben: 20 % Provision je Zahlung – auch auf jede Folgezahlung, nicht nur die erste. Hoher Warenkorb : Agenturprodukt statt Einzelplatzlizenz. Zielgruppe mit Handlungsdruck : Agenturen haften für die Websites, die sie bauen. Die Lizenz nimmt ihnen genau das ab. Verkauf, Support und Rechtstexte übernehmen wir. Werbemittel : Banner, Vorlagen für E-Mail-Texte, Blog-Beiträge, Partnersiegel. Alle Infos für Partner: easyrechtssicher.de/partner-programm-ihre-vorteile
 
 ## 2. Links
 

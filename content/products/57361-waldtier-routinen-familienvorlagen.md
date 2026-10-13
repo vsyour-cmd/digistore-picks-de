@@ -41,49 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Routinen &amp; Vorlagen für Kinder</h3>
-<p><strong>30 liebevolle Druckvorlagen für mehr Struktur im Familienalltag</strong></p>
-<p>Der Familienalltag ist manchmal… sagen wir mal: lebendig.</p>
-<p>Morgens fehlt die Brotdose, abends zieht sich das Zähneputzen, bei Regen ist plötzlich jede Beschäftigungsidee weg und irgendwo zwischen Kita-Tasche, Kleidung, Essen und Aufräumen wünscht man sich einfach ein bisschen mehr Übersicht.</p>
-<p>Genau dafür ist dieses Vorlagen-Paket gedacht.</p>
-<p>Mit <strong>30 liebevoll gestalteten Druckvorlagen</strong> bekommst du kleine Alltagshelfer, die Kinder spielerisch einbeziehen und Routinen sichtbarer machen.</p>
-<h3>Das ist enthalten:</h3>
-<ul>
-<li>Morgenroutine</li>
-<li>Abendroutine</li>
-<li>Zähneputz-Tracker</li>
-<li>Kindergarten-Morgencheck</li>
-<li>Kita-Tasche packen</li>
-<li>Kleidung und Wetter</li>
-<li>Familien-Essensplan</li>
-<li>Brotdosen-Ideen</li>
-<li>Beschäftigung bei Regen</li>
-<li>Aufräum-Plan</li>
-<li>Wochenplan</li>
-<li>Wochenziele</li>
-<li>Morgenroutine-Karten</li>
-<li>Abendroutine-Karten</li>
-<li>Wetterkarten</li>
-<li>Kleidungskarten</li>
-<li>weitere liebevolle Vorlagen für Alltag und Organisation</li>
-</ul>
-<h3>Für wen ist dieses Paket ideal?</h3>
-<p>Für Familien mit kleinen Kindern, die mehr Struktur möchten – aber bitte ohne starre Perfektion.</p>
-<p>Die Vorlagen helfen dabei, Abläufe sichtbar zu machen. Kinder können abhaken, anschauen, mitmachen, Karten nutzen oder gemeinsam mit Mama und Papa überlegen, was als Nächstes kommt.</p>
-<h3>Besonders praktisch</h3>
-<p>Du kannst die Seiten einfach ausdrucken und direkt nutzen. Für längere Haltbarkeit kannst du einzelne Vorlagen laminieren und mit abwischbarem Stift verwenden. Die Karten kannst du ausschneiden und flexibel einsetzen – zum Beispiel für Morgenroutine, Abendroutine, Wetter oder Kleidung.</p>
-<h3>Dieses Paket hilft dir bei typischen Alltagssituationen:</h3>
-<ul>
-<li>„Was kommt jetzt als Nächstes?“</li>
-<li>„Hast du deine Kita-Tasche gepackt?“</li>
-<li>„Was ziehen wir heute an?“</li>
-<li>„Hast du schon Zähne geputzt?“</li>
-<li>„Was machen wir bei Regen?“</li>
-<li>„Was essen wir diese Woche?“</li>
-</ul>
-<p>Natürlich löst ein PDF nicht jeden Familienmorgen. Aber es kann kleine Abläufe sichtbarer, liebevoller und ein bisschen leichter machen.</p>
-<h3>Hinweis</h3>
-<p>Dieses Produkt ist ein digitales PDF zum Ausdrucken. Es wird kein physisches Produkt versendet. Die Vorlagen sind für den privaten Gebrauch bestimmt und dürfen nicht weiterverkauft, geteilt oder kommerziell genutzt werden.</p>
+**Vendor's marketplace description:** Routinen & Vorlagen für Kinder 30 liebevolle Druckvorlagen für mehr Struktur im Familienalltag Der Familienalltag ist manchmal… sagen wir mal: lebendig. Morgens fehlt die Brotdose, abends zieht sich das Zähneputzen, bei Regen ist plötzlich jede Beschäftigungsidee weg und irgendwo zwischen Kita-Tasche, Kleidung, Essen und Aufräumen wünscht man sich einfach ein bisschen mehr Übersicht. Genau dafür ist dieses Vorlagen-Paket gedacht. Mit 30 liebevoll gestalteten Druckvorlagen bekommst du kleine Alltagshelfer, die Kinder spielerisch einbeziehen und Routinen sichtbarer machen. Das ist enthalten: Morgenroutine Abendroutine Zähneputz-Tracker Kindergarten-Morgencheck Kita-Tasche packen Kleidung und Wetter Familien-Essensplan Brotdosen-Ideen Beschäftigung bei Regen Aufräum-Plan Wochenplan Wochenziele Morgenroutine-Karten Abendroutine-Karten Wetterkarten Kleidungskarten weitere liebevolle Vorlagen für Alltag und Organisation Für wen ist dieses Paket ideal? Für Familien mit kleinen Kindern, die mehr Struktur möchten – aber bitte ohne starre Perfektion. Die Vorlagen helfen dabei, Abläufe sichtbar zu machen. Kinder können abhaken, anschauen, mitmachen, Karten nutzen oder gemeinsam mit Mama und Papa überlegen, was als Nächstes kommt. Besonders praktisch Du kannst die Seiten einfach ausdrucken und direkt nutzen. Für längere Haltbarkeit kannst du einzelne Vorlagen laminieren und mit abwischbarem Stift verwenden. Die Karten kannst du ausschneiden und flexibel einsetzen – zum Beispiel für Morgenroutine, Abendroutine, Wetter oder Kleidung. Dieses Paket hilft dir bei typischen Alltagssituationen: „Was kommt jetzt als Nächstes?“ „Hast du deine Kita-Tasche gepackt?“ „Was ziehen wir heute an?“ „Hast du schon Zähne geputzt?“ „Was machen wir bei Regen?“ „Was essen wir diese Woche?“ Natürlich löst ein PDF nicht jeden Familienmorgen. Aber es kann kleine Abläufe sichtbarer, liebevoller und ein bisschen leichter machen. Hinweis Dieses Produkt ist ein digitales PDF zum Ausdrucken. Es wird kein physisches Produkt versendet. Die Vorlagen sind für den privaten Gebrauch bestimmt und dürfen nicht weiterverkauft, geteilt oder kommerziell genutzt werden.
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>DU BIST HIER GENAU RICHTIG, WENN DU LERNEN MÖCHTEST, WIE DU SCHNELL UND INDIVIDUELLE GRAFIKEN ERSTELLEN MÖCHTEST</strong></h2>
-<p><strong>Ich habe all meine Erfahrungen in diesen Online Kurs gepackt, damit dir Instagram wieder Spaß macht und du dir kinderleicht, individuelle Grafiken für Deinen Instagram Account und alle anderen Social Media Media Plattformen effektiv und in kurzer Zeit erstellen kannst.</strong></p>
-<p><strong>In dem Kurs Grafiken leicht gemacht zeige ich dir schritt für schritt wie Canva funktioniert und gebe dir viele Ideen, mit denen du dir tolle Beiträge erstellen kannst.</strong></p>
+**Vendor's marketplace description:** DU BIST HIER GENAU RICHTIG, WENN DU LERNEN MÖCHTEST, WIE DU SCHNELL UND INDIVIDUELLE GRAFIKEN ERSTELLEN MÖCHTEST Ich habe all meine Erfahrungen in diesen Online Kurs gepackt, damit dir Instagram wieder Spaß macht und du dir kinderleicht, individuelle Grafiken für Deinen Instagram Account und alle anderen Social Media Media Plattformen effektiv und in kurzer Zeit erstellen kannst. In dem Kurs Grafiken leicht gemacht zeige ich dir schritt für schritt wie Canva funktioniert und gebe dir viele Ideen, mit denen du dir tolle Beiträge erstellen kannst.
 
 ## 2. Links
 

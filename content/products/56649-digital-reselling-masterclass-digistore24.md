@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die Digital Reselling Masterclass (Digistore24 Edition) bietet dir einen strukturierten Schritt-für-Schritt-Fahrplan zum Aufbau eines eigenen Online-Business mit digitalen Produkten oder Affiliate-Marketing. Mit dem Kauf erhältst du das über 60-seitige, modular aufgebaute Kernhandbuch inklusive eines praxiserprobten 90-Tage-Aktionsplans, welches dir direkt nach dem Kauf im nächsten Formular zum Download freigeschaltet wird. Der kompakte Leitfaden vermittelt dir das gesamte strategische Fundament von der Nischen-Recherche über automatisierte Salesfunnels bis hin zur rechtssicheren Umsetzung auf Digistore24.</p>
+**Vendor's marketplace description:** Die Digital Reselling Masterclass (Digistore24 Edition) bietet dir einen strukturierten Schritt-für-Schritt-Fahrplan zum Aufbau eines eigenen Online-Business mit digitalen Produkten oder Affiliate-Marketing. Mit dem Kauf erhältst du das über 60-seitige, modular aufgebaute Kernhandbuch inklusive eines praxiserprobten 90-Tage-Aktionsplans, welches dir direkt nach dem Kauf im nächsten Formular zum Download freigeschaltet wird. Der kompakte Leitfaden vermittelt dir das gesamte strategische Fundament von der Nischen-Recherche über automatisierte Salesfunnels bis hin zur rechtssicheren Umsetzung auf Digistore24.
 
 ## 2. Links
 

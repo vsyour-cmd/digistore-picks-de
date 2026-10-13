@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1 style="text-align:left;"><span style="color:#3366ff;"><strong>NEU - </strong></span><strong>Affiliate Marketing - Starter Bundle</strong></h1>
-<p> </p>
-<p><strong>Verschenke</strong> mein <em>eBook-Bundle</em> und erhalte <strong>50% Provision</strong> pro Sale, auch bei <strong>Order Bump + Up- &amp; Downsells!</strong></p>
-<p> </p>
-<p><span style="color:#ff0000;"><strong><em>Über 100€</em> Provision beim Upsell Durchlauf möglich!</strong></span></p>
-<p> </p>
-<p><strong>Das erwartet dich:</strong></p>
-<p><strong>✅ 50% Provision</strong> pro Sale, auch bei <strong>Order Bump + Up- &amp; Downsells!</strong></p>
-<p><strong>✅ 2nd-Level-Provisionen,</strong> dank Partner-wirbt-Partner Progamm!</p>
-<p><strong>✅ Wettbewerbe und Events</strong>, mit tollen Preisen, höheren Provisonen etc.!</p>
-<p>✅ <strong>Lifetime-Provision!</strong><em><br /></em></p>
-<p>✅ <strong>fertige Vorlagen und Werbemittel!</strong></p>
-<p>Dieses eBook beinhaltet alles was nötig ist, um ein professionelles Online Business aufzubauen und zu betreiben! Starker Mehrwert und daher sehr beliebt!</p>
-<p> </p>
-<h2><strong>Affiliate Marketing - Starter Bundle<br /></strong></h2>
-<p>✔️ <strong>Entdecke die für Dich passende Strategie und umgehe alle Hürden, an denen 95% scheitern <br /></strong></p>
-<p><strong>✔️ </strong>Verliere nie mehr den Überblick und kopiere einfach nur die bewährten Strategien der Affiliate Superstars</p>
-<p><strong>✔️ Nutze die  Geheimen Tipps &amp; Tricks aus über 20 Jahren Affiliate Marketing Erfahrung<br /></strong></p>
-<p><strong>✔️ </strong>Generiere täglich Neukunden, ohne teure Werbeanzeigen schalten zu müssen<strong><br /></strong></p>
-<p><strong>✔️ <span style="color:#ff0000;">*BONUS</span> - Nie wieder Verlust von Provisionen durch typische Fehler <br /></strong></p>
-<p> </p>
-<p>Deine Kunden werden dankbar sein, dass Du ihnen diesen Mehrwert an die Hand gibst!</p>
-<p> </p>
-<p style="text-align:center;"><span style="text-decoration:underline;"><a href="https://kb-om.com/affiliate-support-seite/" target="_blank" rel="noreferrer noopener"><strong><span style="background-color:#ffff00;">Jetzt Partner werden!</span></strong></a></span></p>
+**Vendor's marketplace description:** NEU - Affiliate Marketing - Starter Bundle Verschenke mein eBook-Bundle und erhalte 50% Provision pro Sale, auch bei Order Bump + Up- & Downsells! Über 100€ Provision beim Upsell Durchlauf möglich! Das erwartet dich: ✅ 50% Provision pro Sale, auch bei Order Bump + Up- & Downsells! ✅ 2nd-Level-Provisionen, dank Partner-wirbt-Partner Progamm! ✅ Wettbewerbe und Events , mit tollen Preisen, höheren Provisonen etc.! ✅ Lifetime-Provision! ✅ fertige Vorlagen und Werbemittel! Dieses eBook beinhaltet alles was nötig ist, um ein professionelles Online Business aufzubauen und zu betreiben! Starker Mehrwert und daher sehr beliebt! Affiliate Marketing - Starter Bundle ✔️ Entdecke die für Dich passende Strategie und umgehe alle Hürden, an denen 95% scheitern ✔️ Verliere nie mehr den Überblick und kopiere einfach nur die bewährten Strategien der Affiliate Superstars ✔️ Nutze die Geheimen Tipps & Tricks aus über 20 Jahren Affiliate Marketing Erfahrung ✔️ Generiere täglich Neukunden, ohne teure Werbeanzeigen schalten zu müssen ✔️ *BONUS - Nie wieder Verlust von Provisionen durch typische Fehler Deine Kunden werden dankbar sein, dass Du ihnen diesen Mehrwert an die Hand gibst! Jetzt Partner werden!
 
 ## 2. Links
 

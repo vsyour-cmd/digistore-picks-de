@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <ul><li>"Mixing Small Gigs Like A Pro" ist ein eBook im PDF-Format mit 130 Seiten zum Thema Live-Mischen von kleinen bis mittelgroßen Veranstaltungen</li>
-<li>Dieses eBook ist eine von Tontechnikern getestete Schritt für Schritt Anleitung für perfekten Live-Sound</li>
-<li>Neben zahlreichen Tipps und Tricks gibt es auch einen <a>Download Bereich</a> auf unserer <a>Verkaufsseite </a>mit hilfreichen Material zum Buch</li>
-<li>Zusätzlich wird in diesem eBook die Vorgehensweise für ein Behringer X32 Mischpult erklärt. Das Behringer X32 ist das weit verbreiteste Mischpult für kleine bis mittelgroße Veranstaltungen.</li>
-</ul>
+**Vendor's marketplace description:** "Mixing Small Gigs Like A Pro" ist ein eBook im PDF-Format mit 130 Seiten zum Thema Live-Mischen von kleinen bis mittelgroßen Veranstaltungen Dieses eBook ist eine von Tontechnikern getestete Schritt für Schritt Anleitung für perfekten Live-Sound Neben zahlreichen Tipps und Tricks gibt es auch einen Download Bereich auf unserer Verkaufsseite mit hilfreichen Material zum Buch Zusätzlich wird in diesem eBook die Vorgehensweise für ein Behringer X32 Mischpult erklärt. Das Behringer X32 ist das weit verbreiteste Mischpult für kleine bis mittelgroße Veranstaltungen.
 
 ## 2. Links
 

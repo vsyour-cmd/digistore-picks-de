@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hallo lieber Affiliate!</p>
-<p>Dieser 15-stündige Online-Kurs kostet regulär 449 Euro, Ihr könnt ihn aber auch mit dem Code 30PROZENT auf 297 Euro reduzieren.</p>
-<p>Bitte schau unbedingt auf meiner Affiliate Support-Seite! </p>
-<p><a href="https://sebastian-gloeckner-bonn.de/partnerprogramm/">https://sebastian-gloeckner-bonn.de/partnerprogramm/</a></p>
-<p>Du kannst das Produkt direkt bewerben oder es über ein Webinar verkaufen.</p>
-<p> </p>
-<p>Achtung: Ich garantiere als vielleicht einziger Vendor ein 100% Cross-Device Tracking! Das bedeutet, wenn sich jemand auf dem Handy für das Webinar anmeldet und später auf dem Tablet kauft - Du bekommst Deine Provision!</p>
-<p> </p>
-<p><strong>Produktinfo:</strong></p>
-<p>Ich gehöre zu den Top 10% Dozenten bei udemy.com und habe bereits mehr als 100.000 Teilnehmer für meine Online-Kurse gewonnen.</p>
-<p><strong>In diesem Programm erkläre ich meinen Kunden Schritt für Schritt, wie es geht.</strong></p>
-<p>In der Udemy Masterclass erkläre ich, wie man sich ein 5-stelliges passives Einkommen über Udemy.com einfach selbst aufbauen kann, und zwar:</p>
-<ol><li>Ohne Vorwissen zum Thema Online-Business</li>
-<li>Ohne "Expertenstatus" (man kann auch durchaus einfache Themen erklären)</li>
-<li>Ohne Geld für Werbung auszugeben! (z.B. Facebook, Google Ads)</li>
-</ol><p> </p>
-<p>Die Udemy Masterclass besteht aus einem 6-wöchigen Online-Training (insgesamt 15 Stunden Inhalt).</p>
-<p> </p>
+**Vendor's marketplace description:** Hallo lieber Affiliate! Dieser 15-stündige Online-Kurs kostet regulär 449 Euro, Ihr könnt ihn aber auch mit dem Code 30PROZENT auf 297 Euro reduzieren. Bitte schau unbedingt auf meiner Affiliate Support-Seite! https://sebastian-gloeckner-bonn.de/partnerprogramm/ Du kannst das Produkt direkt bewerben oder es über ein Webinar verkaufen. Achtung: Ich garantiere als vielleicht einziger Vendor ein 100% Cross-Device Tracking! Das bedeutet, wenn sich jemand auf dem Handy für das Webinar anmeldet und später auf dem Tablet kauft - Du bekommst Deine Provision! Produktinfo: Ich gehöre zu den Top 10% Dozenten bei udemy.com und habe bereits mehr als 100.000 Teilnehmer für meine Online-Kurse gewonnen. In diesem Programm erkläre ich meinen Kunden Schritt für Schritt, wie es geht. In der Udemy Masterclass erkläre ich, wie man sich ein 5-stelliges passives Einkommen über Udemy.com einfach selbst aufbauen kann, und zwar: Ohne Vorwissen zum Thema Online-Business Ohne "Expertenstatus" (man kann auch durchaus einfache Themen erklären) Ohne Geld für Werbung auszugeben! (z.B. Facebook, Google Ads) Die Udemy Masterclass besteht aus einem 6-wöchigen Online-Training (insgesamt 15 Stunden Inhalt).
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Starter Guide von Das Schichtsystem™ ist ein 47-seitiger PDF-Leitfaden für Schichtarbeiter – geschrieben von Florian Kirch, der selbst 11 Jahre Schicht gearbeitet hat (12-Stunden-Schichten, 4er-Wechselschicht, Tag und Nacht).</p>
-<p> </p>
-<p>Der Guide behandelt: das Schlaf-Protokoll, das Ernährungs-System, Energie-Management, den Schichtwechsel, Cortisol &amp; Gewicht, konkrete Tagesabläufe und Bewegung im Schichtalltag – alles zugeschnitten auf Schichtarbeit, nicht auf einen normalen Tagesrhythmus.</p>
-<p> </p>
-<p>Preis: 29 € (bis 30.09.2026, danach 49 €), einmalig, kein Abo, sofortiger Download.</p>
+**Vendor's marketplace description:** Der Starter Guide von Das Schichtsystem™ ist ein 47-seitiger PDF-Leitfaden für Schichtarbeiter – geschrieben von Florian Kirch, der selbst 11 Jahre Schicht gearbeitet hat (12-Stunden-Schichten, 4er-Wechselschicht, Tag und Nacht). Der Guide behandelt: das Schlaf-Protokoll, das Ernährungs-System, Energie-Management, den Schichtwechsel, Cortisol & Gewicht, konkrete Tagesabläufe und Bewegung im Schichtalltag – alles zugeschnitten auf Schichtarbeit, nicht auf einen normalen Tagesrhythmus. Preis: 29 € (bis 30.09.2026, danach 49 €), einmalig, kein Abo, sofortiger Download.
 
 ## 2. Links
 

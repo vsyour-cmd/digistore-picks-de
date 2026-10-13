@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Offline-Web-App, die Stammdaten, Notfallkontakte, Medikamente, Vollmachten, Versicherungen und Bankdaten an einem Ort sammelt, mit Dokumenten-Anhängen, eigener Druckansicht für den Papierordner und optionalem PIN-Schutz mit AES-256-GCM-Verschlüsselung.</p>
-<p>Zielgruppe: Familien, Senioren und Angehörige, die für den Ernstfall vorsorgen wollen.</p>
-<p>Einmaliger Kaufpreis 22,90 €, kein Abo, kein Konto, keine Cloud. Die App ersetzt keine rechtsgültige Vorsorgevollmacht oder Patientenverfügung. Verkaufsseite: https://www.gz-ai-stacks.de/notfallmappe-digital/</p>
+**Vendor's marketplace description:** Offline-Web-App, die Stammdaten, Notfallkontakte, Medikamente, Vollmachten, Versicherungen und Bankdaten an einem Ort sammelt, mit Dokumenten-Anhängen, eigener Druckansicht für den Papierordner und optionalem PIN-Schutz mit AES-256-GCM-Verschlüsselung. Zielgruppe: Familien, Senioren und Angehörige, die für den Ernstfall vorsorgen wollen. Einmaliger Kaufpreis 22,90 €, kein Abo, kein Konto, keine Cloud. Die App ersetzt keine rechtsgültige Vorsorgevollmacht oder Patientenverfügung. Verkaufsseite: https://www.gz-ai-stacks.de/notfallmappe-digital/
 
 ## 2. Links
 

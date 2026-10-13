@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die einzige Ausbildung in einer Methode, die es ausschließlich bei Beamdream Breathworks gibt: verbundener Atem kombiniert mit neurogenem Zittern.</strong></p>
-<p>Über 4 Stunden Videomaterial:</p>
-<ul>
-<li>Zwei geführte Selbsterfahrungssessions</li>
-<li>Umfassendes PDF-Skript zu Neurobiologie und Praxis</li>
-<li>Einführungsvideos und Materialien für die eigene professionelle Anwendung</li>
-<li>Literaturliste</li>
-<li>6 Monate kostenfreie Mitgliedschaft im Teacher Tribe</li>
-</ul>
-<p><strong>Für wen:</strong> Menschen mit abgeschlossener Beambreath®- oder vergleichbarer Breathwork-Ausbildung, die somatische Entladung und Nervensystemregulation vertiefen wollen.</p>
-<p><strong>Warum es konvertiert:</strong> 490 € oder in Raten (3 x 165 € / 6 x 85 €). Offizielles Zertifikat als Freemor Breathing® Facilitator, keine Prüfung nötig. Alleinstellungsmerkmal: Die Methode ist nirgendwo sonst erhältlich.</p>
+**Vendor's marketplace description:** Die einzige Ausbildung in einer Methode, die es ausschließlich bei Beamdream Breathworks gibt: verbundener Atem kombiniert mit neurogenem Zittern. Über 4 Stunden Videomaterial: Zwei geführte Selbsterfahrungssessions Umfassendes PDF-Skript zu Neurobiologie und Praxis Einführungsvideos und Materialien für die eigene professionelle Anwendung Literaturliste 6 Monate kostenfreie Mitgliedschaft im Teacher Tribe Für wen: Menschen mit abgeschlossener Beambreath®- oder vergleichbarer Breathwork-Ausbildung, die somatische Entladung und Nervensystemregulation vertiefen wollen. Warum es konvertiert: 490 € oder in Raten (3 x 165 € / 6 x 85 €). Offizielles Zertifikat als Freemor Breathing® Facilitator, keine Prüfung nötig. Alleinstellungsmerkmal: Die Methode ist nirgendwo sonst erhältlich.
 
 ## 2. Links
 

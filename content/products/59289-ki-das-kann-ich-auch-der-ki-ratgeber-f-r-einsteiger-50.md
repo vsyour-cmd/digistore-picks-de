@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;">KI verständlich für die Generation 50 Plus... ‚KI? Das kann ich auch‘ ist ein praxisnaher KI-Ratgeber für Menschen ab 50, die ChatGPT und künstliche Intelligenz ohne komplizierte Fachbegriffe kennenlernen und im Alltag nutzen möchten... Das E-Book führt Schritt für Schritt durch die wichtigsten Anwendungen und enthält 90 praktische Aufgaben und Beispiele z. B. Texte, E-Mails, Reisen, Rezepte, Ideen und sicheren Umgang mit der KI. Zielgruppe sind Einsteiger 50 Plus, die KI einfach, verständlich und praxisnah kennenlernen möchten... Für Affiliates stehen auf unserer Affiliate-Support-Seite Werbemittel und weitere Informationen zur Bewerbung des Produkts bereit</p>
+**Vendor's marketplace description:** KI verständlich für die Generation 50 Plus... ‚KI? Das kann ich auch‘ ist ein praxisnaher KI-Ratgeber für Menschen ab 50, die ChatGPT und künstliche Intelligenz ohne komplizierte Fachbegriffe kennenlernen und im Alltag nutzen möchten... Das E-Book führt Schritt für Schritt durch die wichtigsten Anwendungen und enthält 90 praktische Aufgaben und Beispiele z. B. Texte, E-Mails, Reisen, Rezepte, Ideen und sicheren Umgang mit der KI. Zielgruppe sind Einsteiger 50 Plus, die KI einfach, verständlich und praxisnah kennenlernen möchten... Für Affiliates stehen auf unserer Affiliate-Support-Seite Werbemittel und weitere Informationen zur Bewerbung des Produkts bereit
 
 ## 2. Links
 

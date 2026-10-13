@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<p>Das ist der Content Creator Clone, wo Du lernst dich durch KI zu ersetzen und dafür 70% Provi bekommst.</p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div> </div>
-</div>
-</div>
+**Vendor's marketplace description:** Das ist der Content Creator Clone, wo Du lernst dich durch KI zu ersetzen und dafür 70% Provi bekommst.
 
 ## 2. Links
 

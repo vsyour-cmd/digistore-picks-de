@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#ff0000;background-color:#ffff00;"><em><strong>Video-Kurs - Level up vom Affiliate zum Vendor!</strong></em></span></h2>
-<h3> </h3>
-<h3>Der <span style="color:#3366ff;">nächste logische Schritt</span> für JEDEN Affiliate Marketer und womöglich <span style="color:#3366ff;">der wichtigste Schritt</span> auf dem Affiliate-Weg!</h3>
-<p> </p>
-<p><span style="text-decoration:underline;"><strong>Vorteile dieser Strategie:</strong></span></p>
-<ul>
-<li>Keine teuren Werbeanzeigen nötig</li>
-<li>Spare deutlich mehr Zeit, da Andere für Dich arbeiten</li>
-<li>Deutlich schnellerer Listen-Aufbau</li>
-<li>Deutliche Umsatz-Steigerung</li>
-</ul>
-<p> </p>
-<p><span style="text-decoration:underline;"><strong>Deine Vorteile als Partner:</strong></span></p>
-<p><span style="color:#3366ff;">1.</span> Promote meinen Videokurs und erhalte 50% Provision, auch auf Add-ons und Upsells!</p>
-<p><span style="color:#3366ff;">2.</span> Provitiere fortlaufenden von der aktivierten 15% Lifetime-Provision!</p>
-<p><span style="color:#3366ff;">3.</span> Lade weitere Affiliates zum Partneprogramm ein und erhalten 10% 2nd Level Provision!</p>
-<p><span style="color:#3366ff;">4.</span> Werbemittel, sowie Canva-Baukasten zum selber gestalten</p>
-<p><span style="color:#3366ff;">5.</span> Wettbewerbe und Events mit fetten Preisen!</p>
-<p> </p>
-<p style="text-align:center;"><a href="https://kb-om.com/affiliate-support-seite-vendor-mastery/" target="_blank" rel="noreferrer noopener"><span style="background-color:#ff0000;color:#000000;"><strong>Jetzt Promoten</strong></span></a></p>
+**Vendor's marketplace description:** Video-Kurs - Level up vom Affiliate zum Vendor! Der nächste logische Schritt für JEDEN Affiliate Marketer und womöglich der wichtigste Schritt auf dem Affiliate-Weg! Vorteile dieser Strategie: Keine teuren Werbeanzeigen nötig Spare deutlich mehr Zeit, da Andere für Dich arbeiten Deutlich schnellerer Listen-Aufbau Deutliche Umsatz-Steigerung Deine Vorteile als Partner: 1. Promote meinen Videokurs und erhalte 50% Provision, auch auf Add-ons und Upsells! 2. Provitiere fortlaufenden von der aktivierten 15% Lifetime-Provision! 3. Lade weitere Affiliates zum Partneprogramm ein und erhalten 10% 2nd Level Provision! 4. Werbemittel, sowie Canva-Baukasten zum selber gestalten 5. Wettbewerbe und Events mit fetten Preisen! Jetzt Promoten
 
 ## 2. Links
 

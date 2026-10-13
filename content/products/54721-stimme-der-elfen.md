@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>✨ Stimme der Elfe</h2>
-<h3>Vertraue deiner inneren Stimme</h3>
-<p>Vielleicht kennst du das…</p>
-<p>Du denkst viel.<br />Du fühlst viel.</p>
-<p>Und trotzdem…</p>
-<p>wenn es um Entscheidungen geht,<br />wirst du unsicher.</p>
-<p>Du zweifelst.<br />Du hinterfragst dich.<br />Du suchst im Außen nach Antworten,<br />die sich nie ganz richtig anfühlen.</p>
-<p>Und irgendwo in dir ist diese leise Stimme,<br />die du kaum noch hörst.</p>
-<hr />
-<h2>
+**Vendor's marketplace description:** ✨ Stimme der Elfe Vertraue deiner inneren Stimme Vielleicht kennst du das… Du denkst viel. Du fühlst viel. Und trotzdem… wenn es um Entscheidungen geht, wirst du unsicher. Du zweifelst. Du hinterfragst dich. Du suchst im Außen nach Antworten, die sich nie ganz richtig anfühlen. Und irgendwo in dir ist diese leise Stimme, die du kaum noch hörst.
 
 ## 2. Links
 

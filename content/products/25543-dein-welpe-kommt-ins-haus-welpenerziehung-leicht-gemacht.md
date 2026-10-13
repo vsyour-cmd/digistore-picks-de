@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Lange habe ich auf dieses Webinar gewartet. Wenn die Welpenbesitzer zu mir in die Hundeschule kommen, kennt man sich noch nicht so gut und dann gute Videos zu erstellen ist schon schwierig.</p>
-<p>Erst wollte ich mit einer kleinen, etwas älteren Hündin die Videos drehen. Dann ist bei uns die Entscheidung gefallen, selber wieder einen Welpen in unsere Familie zu holen. So konnte ich unseren Weg mit den gedrehten Videos dokumentieren. Es hat mir sehr viel Freude gemacht und es ist tatsächlich so einfach, wie es aussieht.</p>
-<p><strong>In diesem Webinar lernst Du in 2 Stunden und 50 Minuten alles über einen guten Start mit Deinem neuen Familienmitglied.</strong></p>
-<ul><li>erste Schritte</li>
-<li>Begrenzung</li>
-<li>Struktur zu Hause</li>
-<li>die Umfelder</li>
-<li>Instinkte und Bedürfnisse Deines Hundes</li>
-<li>Prägung und Sozialisierung</li>
-<li>Der Aufbau von Signalen</li>
-<li>Wie sieht eine gute Welpenspielgruppe aus?</li>
-<li>Wie positionierst Du Dich in der Rudelstruktur?</li>
-<li>Leinenaufbau und Leinenführung</li>
-<li>mögliche Fehlerquellen und deren Lösungsvorschläge</li>
-</ul><p>Ich wünsche Dir viel Spaß mit Deinem neuen Mitbewohner!</p>
-<p>Karin</p>
-<p>Rheinische Hundeschule</p>
+**Vendor's marketplace description:** Lange habe ich auf dieses Webinar gewartet. Wenn die Welpenbesitzer zu mir in die Hundeschule kommen, kennt man sich noch nicht so gut und dann gute Videos zu erstellen ist schon schwierig. Erst wollte ich mit einer kleinen, etwas älteren Hündin die Videos drehen. Dann ist bei uns die Entscheidung gefallen, selber wieder einen Welpen in unsere Familie zu holen. So konnte ich unseren Weg mit den gedrehten Videos dokumentieren. Es hat mir sehr viel Freude gemacht und es ist tatsächlich so einfach, wie es aussieht. In diesem Webinar lernst Du in 2 Stunden und 50 Minuten alles über einen guten Start mit Deinem neuen Familienmitglied. erste Schritte Begrenzung Struktur zu Hause die Umfelder Instinkte und Bedürfnisse Deines Hundes Prägung und Sozialisierung Der Aufbau von Signalen Wie sieht eine gute Welpenspielgruppe aus? Wie positionierst Du Dich in der Rudelstruktur? Leinenaufbau und Leinenführung mögliche Fehlerquellen und deren Lösungsvorschläge Ich wünsche Dir viel Spaß mit Deinem neuen Mitbewohner! Karin Rheinische Hundeschule
 
 ## 2. Links
 

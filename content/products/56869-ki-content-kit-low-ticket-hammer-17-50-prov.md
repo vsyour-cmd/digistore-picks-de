@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das <strong>ETERNUM Content Ignition Kit</strong> ist das perfekte Low-Ticket-Produkt für deine Liste! Mit nur 17 € Verkaufspreis ist die Conversion-Rate extrem hoch. Es eignet sich ideal für "Impulskäufe" – ein E-Mail-Mailing reicht aus.</p>
-<p><strong>Deine Vorteile als Affiliate:</strong></p>
-<ul>
-<li><strong>50 % Lifetime-Provision</strong> (auch auf zukünftige Backend-Käufe des Leads!)</li>
-<li>Sofortige Freischaltung ohne Wartezeit (Auto-Accept)</li>
-<li>Top Conversion Rate dank 17€ "No-Brainer" Preis</li>
-<li>Hochwertige Salespage: eternumtech.eu/system/content-ignition-kit</li>
-<li>Vollständige E-Mail-Swipes und Werbebanner auf unserer Affiliate-Seite</li>
-</ul>
-<p><strong>Das Produkt:</strong> Ein virales Content-Kit für Social Media. 220 Hooks, 90 Caption-Frameworks, 80 KI-Prompts und ein 14-Tage-Sprint für Selbstständige und Creator.</p>
-<p>Verkauf, Abwicklung und Rechnung laufen sicher über Digistore24. Wir freuen uns auf dich!</p>
+**Vendor's marketplace description:** Das ETERNUM Content Ignition Kit ist das perfekte Low-Ticket-Produkt für deine Liste! Mit nur 17 € Verkaufspreis ist die Conversion-Rate extrem hoch. Es eignet sich ideal für "Impulskäufe" – ein E-Mail-Mailing reicht aus. Deine Vorteile als Affiliate: 50 % Lifetime-Provision (auch auf zukünftige Backend-Käufe des Leads!) Sofortige Freischaltung ohne Wartezeit (Auto-Accept) Top Conversion Rate dank 17€ "No-Brainer" Preis Hochwertige Salespage: eternumtech.eu/system/content-ignition-kit Vollständige E-Mail-Swipes und Werbebanner auf unserer Affiliate-Seite Das Produkt: Ein virales Content-Kit für Social Media. 220 Hooks, 90 Caption-Frameworks, 80 KI-Prompts und ein 14-Tage-Sprint für Selbstständige und Creator. Verkauf, Abwicklung und Rechnung laufen sicher über Digistore24. Wir freuen uns auf dich!
 
 ## 2. Links
 

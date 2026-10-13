@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das große Hörgeschichten-Paket für Kinder</strong></p>
-<p>Freuen Sie sich auf 254 liebevoll erzählte Hörgeschichten für Kinder.</p>
-<ul>
-<li>254 Hörgeschichten</li>
-<li>Über 26 Stunden Hörvergnügen</li>
-<li>Märchen, Abenteuer- und Fantasygeschichten</li>
-<li>Spannende Wissensgeschichten für neugierige Kinder</li>
-<li>Perfekt für Autofahrten, Einschlafrituale und ruhige Spielzeiten</li>
-<li>Sofort nach dem Kauf verfügbar</li>
-</ul>
-<p> </p>
-<p><strong>Im Paket enthalten:</strong></p>
-<ul>
-<li>97 Allgemeine Geschichten</li>
-<li>24 Weihnachtsgeschichten</li>
-<li>3 Geschichten – Die Giggels – Abenteuergeschichten</li>
-<li>11 Kindergeschichten – Kinderwelt</li>
-<li>119 Märchengeschichten nach Gebrüder Grimm</li>
-</ul>
-<p> </p>
-<p>Insgesamt erhalten Sie eine umfangreiche Sammlung mit Geschichten für nahezu jeden Anlass – zum Einschlafen, Träumen, Lernen und Entdecken. Ihr Kind taucht dabei in spannende Abenteuer ein, entdeckt neue Welten, lernt spielerisch Wissenswertes und lässt seiner Fantasie freien Lauf.<br /><br />Auslieferung: Digitaler Download. Nach erfolgreicher Bestellung erhalten Sie Zugriff auf alle 254 Hörgeschichten.</p>
+**Vendor's marketplace description:** Das große Hörgeschichten-Paket für Kinder Freuen Sie sich auf 254 liebevoll erzählte Hörgeschichten für Kinder. 254 Hörgeschichten Über 26 Stunden Hörvergnügen Märchen, Abenteuer- und Fantasygeschichten Spannende Wissensgeschichten für neugierige Kinder Perfekt für Autofahrten, Einschlafrituale und ruhige Spielzeiten Sofort nach dem Kauf verfügbar Im Paket enthalten: 97 Allgemeine Geschichten 24 Weihnachtsgeschichten 3 Geschichten – Die Giggels – Abenteuergeschichten 11 Kindergeschichten – Kinderwelt 119 Märchengeschichten nach Gebrüder Grimm Insgesamt erhalten Sie eine umfangreiche Sammlung mit Geschichten für nahezu jeden Anlass – zum Einschlafen, Träumen, Lernen und Entdecken. Ihr Kind taucht dabei in spannende Abenteuer ein, entdeckt neue Welten, lernt spielerisch Wissenswertes und lässt seiner Fantasie freien Lauf. Auslieferung: Digitaler Download. Nach erfolgreicher Bestellung erhalten Sie Zugriff auf alle 254 Hörgeschichten.
 
 ## 2. Links
 

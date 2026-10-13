@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>PromptForge Pro – KI-Prompt-Generator für deutsche Selbstständige</p>
-<p>Schluss mit leeren ChatGPT-Fenstern: Erstelle in Sekunden strukturierte KI-Prompts für dein Business.</p>
-<p>PromptForge Pro führt dich Schritt für Schritt zu einem fertigen Prompt, den du direkt in ChatGPT, Claude oder andere KI-Tools kopieren kannst.</p>
-<p>Du wählst einfach eine Kategorie, gibst kurz dein Ziel ein und erhältst einen strukturierten Prompt für typische Aufgaben im Alltag von Selbstständigen, Coaches und Freelancern.</p>
-<p>Ideal, wenn du KI nutzen willst, aber nicht jedes Mal bei null anfangen möchtest.</p>
-<p>✅ Direkt im Browser nutzbar – keine Installation<br />✅ Vorgefertigte Kategorien für typische Business-Aufgaben<br />✅ Prompts für E-Mails, Angebote, Social Media, Texte und mehr<br />✅ Funktioniert mit ChatGPT, Claude und anderen KI-Tools<br />✅ Kein Ersatz für ChatGPT – sondern dein Prompt-System davor<br />✅ Einmalzahlung – kein Abo<br />✅ Besonders geeignet für deutsche Selbstständige, Coaches und Freelancer</p>
+**Vendor's marketplace description:** PromptForge Pro – KI-Prompt-Generator für deutsche Selbstständige Schluss mit leeren ChatGPT-Fenstern: Erstelle in Sekunden strukturierte KI-Prompts für dein Business. PromptForge Pro führt dich Schritt für Schritt zu einem fertigen Prompt, den du direkt in ChatGPT, Claude oder andere KI-Tools kopieren kannst. Du wählst einfach eine Kategorie, gibst kurz dein Ziel ein und erhältst einen strukturierten Prompt für typische Aufgaben im Alltag von Selbstständigen, Coaches und Freelancern. Ideal, wenn du KI nutzen willst, aber nicht jedes Mal bei null anfangen möchtest. ✅ Direkt im Browser nutzbar – keine Installation ✅ Vorgefertigte Kategorien für typische Business-Aufgaben ✅ Prompts für E-Mails, Angebote, Social Media, Texte und mehr ✅ Funktioniert mit ChatGPT, Claude und anderen KI-Tools ✅ Kein Ersatz für ChatGPT – sondern dein Prompt-System davor ✅ Einmalzahlung – kein Abo ✅ Besonders geeignet für deutsche Selbstständige, Coaches und Freelancer
 
 ## 2. Links
 

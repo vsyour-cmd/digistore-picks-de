@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Selbsthypnosereihe zur Entspannung, um aus deinem stressigen Alltag herauszugehen. Sie bauen aufeinander auf, du kannst sie gezielt bei Anspannung oder einfach in ruhigen Momenten für dich nutzen.</p>
-<p>5 aufgesprochene Hypnosesessions. Nutzung der Audios für 1 Jahr im Mitgliederbereich in unserer App.</p>
+**Vendor's marketplace description:** Selbsthypnosereihe zur Entspannung, um aus deinem stressigen Alltag herauszugehen. Sie bauen aufeinander auf, du kannst sie gezielt bei Anspannung oder einfach in ruhigen Momenten für dich nutzen. 5 aufgesprochene Hypnosesessions. Nutzung der Audios für 1 Jahr im Mitgliederbereich in unserer App.
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<p>Was ist "Motherhood Manifestation" genau:</p>
-<ul>
-<li><strong>Die exakt richtige Anleitung für Frauen mit Kinderwunsch, um ihre Schwangerschaft zu manifestieren.</strong> - Sie hören nur zu und leben bald ihre neue Realität.</li>
-<li><strong>Die Inhalte, die sie brauchen, um mit Erfolg zu manifestieren.</strong> - Theta-Wellen im Bereich unter 7.5 Hz wirken direkt auf ihre Intuition.</li>
-<li><strong>Die Essenz der Lehren von Dr. Joe Dispenza, Dr. Joe Vitale &amp; Dr. Bruce Lipton. </strong>- Basierend auf den Ergebnissen jahrzehntelanger Forschungen.</li>
-<li><strong>Den einfachsten Weg, um ihren Traum vom Babyglück wahr werden zu lassen. </strong>- Meditation hören - fertig. Einfacher geht's nicht. </li>
-</ul>
-<p> </p>
-</div>
+**Vendor's marketplace description:** Was ist "Motherhood Manifestation" genau: Die exakt richtige Anleitung für Frauen mit Kinderwunsch, um ihre Schwangerschaft zu manifestieren. - Sie hören nur zu und leben bald ihre neue Realität. Die Inhalte, die sie brauchen, um mit Erfolg zu manifestieren. - Theta-Wellen im Bereich unter 7.5 Hz wirken direkt auf ihre Intuition. Die Essenz der Lehren von Dr. Joe Dispenza, Dr. Joe Vitale & Dr. Bruce Lipton. - Basierend auf den Ergebnissen jahrzehntelanger Forschungen. Den einfachsten Weg, um ihren Traum vom Babyglück wahr werden zu lassen. - Meditation hören - fertig. Einfacher geht's nicht.
 
 ## 2. Links
 

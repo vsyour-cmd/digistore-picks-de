@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Karriere-Masterkit für Pflegekräfte – Dein Leitfaden für erfolgreiche Bewerbungen und strategischen Stellenwechsel im Gesundheitswesen</strong></p>
-<p>Das Karriere-Masterkit für Pflegekräfte begleitet dich strukturiert durch Karriereplanung, Bewerbungsunterlagen und Vorstellungsgespräch – mit sofort einsetzbaren Vorlagen für Anschreiben und Lebenslauf. Sofort als PDF verfügbar.</p>
-<p>Das ist enthalten:</p>
-<ul>
-<li>Stärkenanalyse und Kriterienkatalog für die Arbeitgeberwahl (Arbeitszeitmodelle, Fortbildung, Führungskultur)</li>
-<li>Professioneller Lebenslauf speziell für den Pflege- und Gesundheitssektor</li>
-<li>Überzeugendes Muster-Anschreiben für Kliniken, Pflegeheime und ambulante Dienste</li>
-<li>Checkliste für eine vollständige Bewerbungsmappe inkl. Zeugnissortierung</li>
-<li>Vorbereitung auf Vorstellungsgespräch, Hospitationstag und Gehaltsverhandlung</li>
-<li>Hinweise zu Fachweiterbildungen und Zusatzqualifikationen als Karrierebooster</li>
-</ul>
-<p>Sofortiger Download – kein Abo, keine versteckten Kosten.</p>
+**Vendor's marketplace description:** Karriere-Masterkit für Pflegekräfte – Dein Leitfaden für erfolgreiche Bewerbungen und strategischen Stellenwechsel im Gesundheitswesen Das Karriere-Masterkit für Pflegekräfte begleitet dich strukturiert durch Karriereplanung, Bewerbungsunterlagen und Vorstellungsgespräch – mit sofort einsetzbaren Vorlagen für Anschreiben und Lebenslauf. Sofort als PDF verfügbar. Das ist enthalten: Stärkenanalyse und Kriterienkatalog für die Arbeitgeberwahl (Arbeitszeitmodelle, Fortbildung, Führungskultur) Professioneller Lebenslauf speziell für den Pflege- und Gesundheitssektor Überzeugendes Muster-Anschreiben für Kliniken, Pflegeheime und ambulante Dienste Checkliste für eine vollständige Bewerbungsmappe inkl. Zeugnissortierung Vorbereitung auf Vorstellungsgespräch, Hospitationstag und Gehaltsverhandlung Hinweise zu Fachweiterbildungen und Zusatzqualifikationen als Karrierebooster Sofortiger Download – kein Abo, keine versteckten Kosten.
 
 ## 2. Links
 

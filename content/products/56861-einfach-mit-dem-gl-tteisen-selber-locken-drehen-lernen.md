@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Deine Traumlocken: <br />Einfach &amp; schnell mit dem Glätteisen</h1>
-<p>Vergiss komplizierte Tutorials. Lerne die Profi-Technik, mit der du dir in unter 15 Minuten perfekte, langanhaltende Wellen zauberst.</p>
-<div>
-<p>Verabschiede dich von frustrierenden Morgenstunden vor dem Spiegel. Wir machen das Styling zum Wellness-Moment.</p>
-</div>
-<div>
-<div>
-<h3>Enorme Zeitersparnis</h3>
-<p>Lerne eine Technik, die so effizient ist, dass du sie sogar an stressigen Montagen in deine Routine einbauen kannst.</p>
-</div>
-<div>
-<div> </div>
-<h3>Einfache Technik</h3>
-<p>Kein kompliziertes Eindrehen oder Verheddern. Schritt-für-Schritt Anleitungen, die jeder sofort umsetzen kann.</p>
-</div>
-<div>
-<div> </div>
-<h3>Profi-Finish</h3>
-<p>Erziele Ergebnisse wie frisch vom Friseur – glänzend, definiert und mit natürlichem Schwung.</p>
-</div>
-</div>
+**Vendor's marketplace description:** Deine Traumlocken: Einfach & schnell mit dem Glätteisen Vergiss komplizierte Tutorials. Lerne die Profi-Technik, mit der du dir in unter 15 Minuten perfekte, langanhaltende Wellen zauberst. Verabschiede dich von frustrierenden Morgenstunden vor dem Spiegel. Wir machen das Styling zum Wellness-Moment. Enorme Zeitersparnis Lerne eine Technik, die so effizient ist, dass du sie sogar an stressigen Montagen in deine Routine einbauen kannst. Einfache Technik Kein kompliziertes Eindrehen oder Verheddern. Schritt-für-Schritt Anleitungen, die jeder sofort umsetzen kann. Profi-Finish Erziele Ergebnisse wie frisch vom Friseur – glänzend, definiert und mit natürlichem Schwung.
 
 ## 2. Links
 

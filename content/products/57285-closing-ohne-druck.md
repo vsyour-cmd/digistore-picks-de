@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Closing ohne Druck“</strong></p>
-<p>Verkaufen, das sich richtig anfühlt – Verkaufen muss sich nicht aufdringlich anfühlen. Die innere Haltung der Gelassenheit, Beziehung und Vertrauen aufbauen, mit Fragen statt Überreden arbeiten und den Kunden in Ruhe entscheiden lassen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Warum Druck im Verkauf nach hinten losgeht</li>
-<li>Die innere Haltung: Gelassenheit statt Mangel</li>
-<li>Beziehung, Vertrauen und gute Fragen</li>
-<li>Souverän mit einem Nein umgehen, mit Ethik</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Closing ohne Druck“ Verkaufen, das sich richtig anfühlt – Verkaufen muss sich nicht aufdringlich anfühlen. Die innere Haltung der Gelassenheit, Beziehung und Vertrauen aufbauen, mit Fragen statt Überreden arbeiten und den Kunden in Ruhe entscheiden lassen. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Warum Druck im Verkauf nach hinten losgeht Die innere Haltung: Gelassenheit statt Mangel Beziehung, Vertrauen und gute Fragen Souverän mit einem Nein umgehen, mit Ethik
 
 ## 2. Links
 

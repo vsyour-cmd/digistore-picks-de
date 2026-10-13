@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein emotional hochrelevantes Thema mit universeller Zielgruppe:</p>
-<p>Dieses Buch trifft den wachsenden Bedarf nach Orientierung im Umgang mit Sterben, Abschied und Trauer.</p>
-<p>Die Kombination aus praktischen Hilfestellungen, psychologischer Tiefe und spirituellen Perspektiven sorgt für starke Identifikation und echten Mehrwert in einer sensiblen Lebensphase.</p>
-<p>Besonders attraktiv für Affiliates in den Bereichen Lebenshilfe, Coaching, Pflege und persönliche Entwicklung.</p>
-<p>Die klare Positionierung als Leitfaden für bewusste Abschiede erzeugt Vertrauen und Kaufbereitschaft.</p>
-<p>Ein intensives, sinnstiftendes Produkt mit hohem Empfehlungs- und Conversion-Potenzial.</p>
+**Vendor's marketplace description:** Ein emotional hochrelevantes Thema mit universeller Zielgruppe: Dieses Buch trifft den wachsenden Bedarf nach Orientierung im Umgang mit Sterben, Abschied und Trauer. Die Kombination aus praktischen Hilfestellungen, psychologischer Tiefe und spirituellen Perspektiven sorgt für starke Identifikation und echten Mehrwert in einer sensiblen Lebensphase. Besonders attraktiv für Affiliates in den Bereichen Lebenshilfe, Coaching, Pflege und persönliche Entwicklung. Die klare Positionierung als Leitfaden für bewusste Abschiede erzeugt Vertrauen und Kaufbereitschaft. Ein intensives, sinnstiftendes Produkt mit hohem Empfehlungs- und Conversion-Potenzial.
 
 ## 2. Links
 

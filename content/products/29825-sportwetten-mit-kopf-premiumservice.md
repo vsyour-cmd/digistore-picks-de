@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Wir bieten mit langjähriger Erfahrung im Sportwettenbereich für die Premium Abonnenten folgenden Service an:</p>
-<p>- Tägliche Sportwettentipps die mittels einer geprüften   mathematischen Formel berechnet werden.</p>
-<p>- Profi Support von 2 langjährigen Profi Tippstern mit    einer Trefferquote von über 85%!</p>
-<p>- Eine Support Community in unserem Telegram Premium Channel, in der Rund um die Uhr nicht nur   Fragen beantwortet, sondern jegliche Hilfestellung bezüglich Sportwetten gegeben wird.</p>
-<p>- Eine individuell angepasste Einsatzstrategie</p>
-<p>- Coaching für die Neu-Abonnenten</p>
-<p> </p>
-<p>Mittels der Abonnierung unseres Services bekommt ihr automatisch die Einladung in unseren Telegram Premium Kanal, wo es aus erster Hand der Profi Tipster, sowohl die Sportwettentipps wie auch die jeweiligen Strategie- und Einsatzerklärungen dazu gibt.</p>
+**Vendor's marketplace description:** Wir bieten mit langjähriger Erfahrung im Sportwettenbereich für die Premium Abonnenten folgenden Service an: - Tägliche Sportwettentipps die mittels einer geprüften mathematischen Formel berechnet werden. - Profi Support von 2 langjährigen Profi Tippstern mit einer Trefferquote von über 85%! - Eine Support Community in unserem Telegram Premium Channel, in der Rund um die Uhr nicht nur Fragen beantwortet, sondern jegliche Hilfestellung bezüglich Sportwetten gegeben wird. - Eine individuell angepasste Einsatzstrategie - Coaching für die Neu-Abonnenten Mittels der Abonnierung unseres Services bekommt ihr automatisch die Einladung in unseren Telegram Premium Kanal, wo es aus erster Hand der Profi Tipster, sowohl die Sportwettentipps wie auch die jeweiligen Strategie- und Einsatzerklärungen dazu gibt.
 
 ## 2. Links
 

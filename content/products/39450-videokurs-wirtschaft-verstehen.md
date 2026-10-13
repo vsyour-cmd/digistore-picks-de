@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<p>Videokurs Wirtschaft verstehen – nach dem Prinzip der österreichischen Schule </p>
-<p>Theorie und praktische Anwendbarkeit für Unternehmer und Investoren</p>
-<p>Mit diesem Kurs hast Du den perfekten Wegweiser für stürmische Zeiten – und kannst dich darauf freuen.</p>
-</div>
-</div>
-<div>
-<ul>
-<li>20 Videoeinheiten mit 9 Stunden Material</li>
-<li>vom Einsteiger zum Experten in der Österreichischen Schule werden</li>
-<li>Kurs zu jeder Zeit flexibel on- und offline anschauen</li>
-<li>mit zahlreicher kostenloser Lektüre zur Vertiefung</li>
-</ul>
-<p>Keine Video-Reihe in deutscher Sprache behandelt die Wirtschaft verstehen so klar strukturiert und mit solcher Kompetenz als unser Video-Kurs. Wir sind weder Ideologen noch Ängsteschürer, sondern versuchen die Welt zu verstehen, wie sie ist. Wirtschaft verstehen bietet ausgezeichnete Analyse-Werkzeuge dafür an, die dir als Unternehmer und Investor sehr dienlich sein können.</p>
-</div>
+**Vendor's marketplace description:** Videokurs Wirtschaft verstehen – nach dem Prinzip der österreichischen Schule Theorie und praktische Anwendbarkeit für Unternehmer und Investoren Mit diesem Kurs hast Du den perfekten Wegweiser für stürmische Zeiten – und kannst dich darauf freuen. 20 Videoeinheiten mit 9 Stunden Material vom Einsteiger zum Experten in der Österreichischen Schule werden Kurs zu jeder Zeit flexibel on- und offline anschauen mit zahlreicher kostenloser Lektüre zur Vertiefung Keine Video-Reihe in deutscher Sprache behandelt die Wirtschaft verstehen so klar strukturiert und mit solcher Kompetenz als unser Video-Kurs. Wir sind weder Ideologen noch Ängsteschürer, sondern versuchen die Welt zu verstehen, wie sie ist. Wirtschaft verstehen bietet ausgezeichnete Analyse-Werkzeuge dafür an, die dir als Unternehmer und Investor sehr dienlich sein können.
 
 ## 2. Links
 

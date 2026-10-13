@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Workbook - beWerbung - Eignungsanalyse, SoftSkills, Telefonat</h3>
-<div>
-<div> </div>
-</div>
-<div>
-<p><strong>Zeitgemäß beWERBEN – klar. souverän. erfolgreich.</strong></p>
-<p>Du bist qualifiziert – aber deine Bewerbung überzeugt nicht?</p>
-<p>Dieses Workbook (zum Download als PDF-Datei) zeigt dir, <strong>wie moderne Bewerbungen heute wirklich funktionieren</strong>:</p>
-<p>klar positioniert, relevant formuliert und perfekt auf Stellenanzeigen abgestimmt – <strong>inklusive sofort einsetzbarer KI-Prompts</strong>.</p>
-<p><strong>Das bekommst du:</strong></p>
-<ul>
-<li>✔ Klare Eignungs- &amp; Profilanalyse</li>
-<li>✔ Soft Skills überzeugend formulieren (ohne Floskeln)</li>
-<li>✔ Stellenanzeigen richtig lesen &amp; gezielt nutzen</li>
-<li>✔ Praxisnahe KI-Prompts für Anschreiben &amp; Profilabgleich</li>
-<li>✔ Souveräne Vorbereitung auf das entscheidende Telefonat</li>
-</ul>
-</div>
+**Vendor's marketplace description:** Workbook - beWerbung - Eignungsanalyse, SoftSkills, Telefonat Zeitgemäß beWERBEN – klar. souverän. erfolgreich. Du bist qualifiziert – aber deine Bewerbung überzeugt nicht? Dieses Workbook (zum Download als PDF-Datei) zeigt dir, wie moderne Bewerbungen heute wirklich funktionieren : klar positioniert, relevant formuliert und perfekt auf Stellenanzeigen abgestimmt – inklusive sofort einsetzbarer KI-Prompts . Das bekommst du: ✔ Klare Eignungs- & Profilanalyse ✔ Soft Skills überzeugend formulieren (ohne Floskeln) ✔ Stellenanzeigen richtig lesen & gezielt nutzen ✔ Praxisnahe KI-Prompts für Anschreiben & Profilabgleich ✔ Souveräne Vorbereitung auf das entscheidende Telefonat
 
 ## 2. Links
 

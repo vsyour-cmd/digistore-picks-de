@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du suchst nach einer Trading Gruppe für Kryptowährungen, die seriös und etabliert ist? Dann hast du sie hier gefunden.<br /><br />Der Inner Circle von Christoph Neuwirth beinhaltet nicht nur Trading Signale für jedermann, sondern auch NFTs, Launchpads, Launchpools, unzählige Anleitungen, PDFs, Tutorials, Video-Serien für die Mitglieder und noch viel mehr.<br /><br />Somit ist der Inner Circle für alle geeignet: Einsteiger und Fortgeschrittene | Jung und Alt.<br /><strong><br /><br />Konditionen für Partner:</strong></p>
-<ul>
-<li>20% Provision als Passiv-Einkommen (monatlich)</li>
-<li>Lebenslange Provisionsszahlungen für die Monatsbeiträge deiner geworbenen Kunden</li>
-<li>Hohe Anmelde- &amp; Teilnehmerquote</li>
-<li>Die Zufriedenheit ist sehr hoch!</li>
-<li>93% aller Mitglieder bleiben bisher nach Anmeldung im Inner Circle enthalten und damit zahlendes Mitglied</li>
-<li>Jederzeit deutscher Support für Affiliates</li>
-</ul>
+**Vendor's marketplace description:** Du suchst nach einer Trading Gruppe für Kryptowährungen, die seriös und etabliert ist? Dann hast du sie hier gefunden. Der Inner Circle von Christoph Neuwirth beinhaltet nicht nur Trading Signale für jedermann, sondern auch NFTs, Launchpads, Launchpools, unzählige Anleitungen, PDFs, Tutorials, Video-Serien für die Mitglieder und noch viel mehr. Somit ist der Inner Circle für alle geeignet: Einsteiger und Fortgeschrittene | Jung und Alt. Konditionen für Partner: 20% Provision als Passiv-Einkommen (monatlich) Lebenslange Provisionsszahlungen für die Monatsbeiträge deiner geworbenen Kunden Hohe Anmelde- & Teilnehmerquote Die Zufriedenheit ist sehr hoch! 93% aller Mitglieder bleiben bisher nach Anmeldung im Inner Circle enthalten und damit zahlendes Mitglied Jederzeit deutscher Support für Affiliates
 
 ## 2. Links
 

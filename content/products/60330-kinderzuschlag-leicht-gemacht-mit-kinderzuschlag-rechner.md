@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Kinderzuschlag leicht gemacht – Ratgeber mit Kinderzuschlag-Rechner</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Der Ratgeber erklärt, wer den Kinderzuschlag bekommt, wie er berechnet wird und wie er mit Wohngeld zusammenwirkt. Der <strong>Kinderzuschlag-Rechner</strong> zeigt die ganze Rechnung für die eigene Familie.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Familien mit kleinem Einkommen</li>
-<li>Alleinerziehende in Teilzeit</li>
-<li>Eltern, denen der Antrag zu kompliziert ist</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Das Einkommen reicht für die Familie nicht aus</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Wohngeld, Elterngeld, Jobcenter und Sozialleistungen) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Kinderzuschlag leicht gemacht – Ratgeber mit Kinderzuschlag-Rechner Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Der Ratgeber erklärt, wer den Kinderzuschlag bekommt, wie er berechnet wird und wie er mit Wohngeld zusammenwirkt. Der Kinderzuschlag-Rechner zeigt die ganze Rechnung für die eigene Familie. Die Zielgruppe Familien mit kleinem Einkommen Alleinerziehende in Teilzeit Eltern, denen der Antrag zu kompliziert ist Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Das Einkommen reicht für die Familie nicht aus Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Wohngeld, Elterngeld, Jobcenter und Sozialleistungen) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

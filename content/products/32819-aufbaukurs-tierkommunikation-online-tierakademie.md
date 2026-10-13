@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Aufbaukurs 1 Tierkommunikation - Erweitere dein Wissen</h2>
-<h3> </h3>
-<p>Du möchtest noch mehr über die Tierkommunikation erfahren und dein Wissen erweitern und vertiefen?</p>
-<p>Du möchtest dich noch sicherer bei den Kommunikationen fühlen?</p>
-<p>Du möchtest und auch mit schwierigeren Themen zurechtkommen?</p>
-<p>Du möchtest mit verstorbenen Tieren Kontakt aufnehmen?</p>
-<p><br /><strong>Voraussetzung:</strong> Du hast bereits einen Basiskurs bei mir oder einem/r Kollegen/in besucht.</p>
-<p><strong>Einstieg:</strong> Du kannst <strong>JEDERZEIT</strong> einsteigen.</p>
-<h2><strong>Intensiver Ausbildungsumfang:</strong></h2>
-<p>– Erweiterung der praktischen Übungen zur besseren Wahrnehmung und Bewusstseinserweiterung</p>
-<p>– Meditations-Reise zum Download: Schlüpfe in dein Tier</p>
-<p>– Spiegelverhalten du und dein Tier</p>
-<p>– Bodycheck</p>
-<p>– verstorbenen Tieren (Seelengespräch)</p>
-<p>– Gespräche mit deinem eigenen Tier</p>
-<p>– Gespräch mit mind. 2 Übungstieren</p>
-<p>– Erweiterung deiner Frageliste</p>
-<p>– Skripte zum Download</p>
-<p>– Teilnehmerzertifikat</p>
-<p>– Exklusive Facebook-Gruppe: täglicher Austausch in einer Kurs-internen Facebook-Gruppe in dem auch deine Fragen beantwortet werden</p>
+**Vendor's marketplace description:** Aufbaukurs 1 Tierkommunikation - Erweitere dein Wissen Du möchtest noch mehr über die Tierkommunikation erfahren und dein Wissen erweitern und vertiefen? Du möchtest dich noch sicherer bei den Kommunikationen fühlen? Du möchtest und auch mit schwierigeren Themen zurechtkommen? Du möchtest mit verstorbenen Tieren Kontakt aufnehmen? Voraussetzung: Du hast bereits einen Basiskurs bei mir oder einem/r Kollegen/in besucht. Einstieg: Du kannst JEDERZEIT einsteigen. Intensiver Ausbildungsumfang: – Erweiterung der praktischen Übungen zur besseren Wahrnehmung und Bewusstseinserweiterung – Meditations-Reise zum Download: Schlüpfe in dein Tier – Spiegelverhalten du und dein Tier – Bodycheck – verstorbenen Tieren (Seelengespräch) – Gespräche mit deinem eigenen Tier – Gespräch mit mind. 2 Übungstieren – Erweiterung deiner Frageliste – Skripte zum Download – Teilnehmerzertifikat – Exklusive Facebook-Gruppe: täglicher Austausch in einer Kurs-internen Facebook-Gruppe in dem auch deine Fragen beantwortet werden
 
 ## 2. Links
 

@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Marktplatz-Überschrift:</p>
-<p>Mehr Geld, mehr Freiheit – 4 Bestseller-Ratgeber im Bundle | 50% Provision</p>
-<p> </p>
-<p>Affiliate-Beschreibung:</p>
-<p>Bewirb ein Bundle aus vier beliebten Finanz- und Zukunftsratgebern: "Dein Weg zur finanziellen Freiheit", "Das zweite Standbein", "Künstliche Intelligenz verstehen" und "Ausbrechen aus dem Hamsterrad" – zum Vorteilspreis von 47€ statt 108€.</p>
-<p> </p>
-<p>Die Themen Geld, Nebenverdienst und KI treffen gerade einen riesigen Nerv, entsprechend gut lässt sich das Bundle bewerben – ob über Social Media, E-Mail-Liste oder eigene Website. Du erhältst 50% Provision auf jeden Verkauf, dazu fertige Werbemittel (Social-Media-Posts, E-Mail-Vorlagen) direkt im Partnerprogramm.</p>
-<p> </p>
-<p>Zielgruppe: alle, die sich für persönliche Finanzen, Nebeneinkommen, Zukunftsthemen oder KI interessieren – von Berufstätigen bis Studierenden.</p>
+**Vendor's marketplace description:** Marktplatz-Überschrift: Mehr Geld, mehr Freiheit – 4 Bestseller-Ratgeber im Bundle | 50% Provision Affiliate-Beschreibung: Bewirb ein Bundle aus vier beliebten Finanz- und Zukunftsratgebern: "Dein Weg zur finanziellen Freiheit", "Das zweite Standbein", "Künstliche Intelligenz verstehen" und "Ausbrechen aus dem Hamsterrad" – zum Vorteilspreis von 47€ statt 108€. Die Themen Geld, Nebenverdienst und KI treffen gerade einen riesigen Nerv, entsprechend gut lässt sich das Bundle bewerben – ob über Social Media, E-Mail-Liste oder eigene Website. Du erhältst 50% Provision auf jeden Verkauf, dazu fertige Werbemittel (Social-Media-Posts, E-Mail-Vorlagen) direkt im Partnerprogramm. Zielgruppe: alle, die sich für persönliche Finanzen, Nebeneinkommen, Zukunftsthemen oder KI interessieren – von Berufstätigen bis Studierenden.
 
 ## 2. Links
 

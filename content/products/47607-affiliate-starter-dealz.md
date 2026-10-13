@@ -41,44 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verschenke die Affiliate Starter Dealz und erhalte 5€ Provision auf den Order Bump und 50% Provision auf alle Up &amp; Downsells.</strong></p>
-<p>Mit den Affiliate Starter Dealz erhalten deine Kunden Zugang zu exklusiven Deals der besten Affilate Tools, wodurch sie viel Geld sparen und zusätzliche Features kostenfrei dazu erhalten!</p>
-<p> </p>
-<p><strong>Und so verdienst Du Provisionen:</strong> </p>
-<ul>
-<li>Du verdienst <strong>5€ Provision auf den hoch konvertierenden "Order-Bump"</strong></li>
-<li>Du verdienst <strong>50% Provision auf alle "Upsells &amp; Downsells"</strong></li>
-<li>Smarte Funnelarchitektur, sodass du <strong>maximal hohe Provisionen</strong> je Durchlauf sowie "weitere Abo" Provisionen erhältst!</li>
-<li>Die Verkaufs- und Upsellseiten werden <strong>stetig auf Conversion</strong> optimiert.</li>
-<li><strong>10% 2nd Level Provision </strong>durch "Partner werben Partner"-Freischaltung</li>
-</ul>
-<p> </p>
-<p>Du musst hier keine harte Promo fahren, um Provisionen zu kassieren – sondern lediglich die Affiliate Starter Dealz für 0€ verschenken!</p>
-<p> </p>
-<p><strong>Zum Produkt selbst:</strong></p>
-<p>Deine Kunden bekommen...</p>
-<ul>
-<li>
-<p>sparen Unmengen an Geld, durch unsere exklusiv verhandelten Konditionen - Du kannst alles direkt nutzen!</p>
-</li>
-<li>
-<p>Zusätzliche Produktfeatures, damit du schneller an dein Ziel kommst - Gibt es sonst nirgends!</p>
-</li>
-<li>
-<p>Einen klaren Fahrplan wie du die Deals gewinnbringend für dich einsetzt!</p>
-</li>
-<li>
-<p>Exklusive Produktbundles-Deals, sodass du schneller mit geringerem Invest ein passiven Einkommensfluss aufbaust!</p>
-</li>
-<li>
-<p>⭐ BONUS: Einzigartiges Gutscheinheft mit dem du hunderte Euros einspart!</p>
-</li>
-</ul>
-<p> </p>
-<p>In unserem Partnerbereich findest du jede Menge Werbemittel inkl. E-Mail Vorlagen. So kannst du direkt durchstarten. <a href="https://www.profitbuddies.de/partnerprogramm-uebersicht/" target="_blank" rel="noreferrer noopener">Hier gelangst du zum Partnerbereich &lt;&lt;</a></p>
-<p> </p>
-<p><strong>Noch Fragen?</strong></p>
-<p>Solltest du Rückfragen haben, kontaktiere uns gerne: <a>support@profibuddies.de</a></p>
+**Vendor's marketplace description:** Verschenke die Affiliate Starter Dealz und erhalte 5€ Provision auf den Order Bump und 50% Provision auf alle Up & Downsells. Mit den Affiliate Starter Dealz erhalten deine Kunden Zugang zu exklusiven Deals der besten Affilate Tools, wodurch sie viel Geld sparen und zusätzliche Features kostenfrei dazu erhalten! Und so verdienst Du Provisionen: Du verdienst 5€ Provision auf den hoch konvertierenden "Order-Bump" Du verdienst 50% Provision auf alle "Upsells & Downsells" Smarte Funnelarchitektur, sodass du maximal hohe Provisionen je Durchlauf sowie "weitere Abo" Provisionen erhältst! Die Verkaufs- und Upsellseiten werden stetig auf Conversion optimiert. 10% 2nd Level Provision durch "Partner werben Partner"-Freischaltung Du musst hier keine harte Promo fahren, um Provisionen zu kassieren – sondern lediglich die Affiliate Starter Dealz für 0€ verschenken! Zum Produkt selbst: Deine Kunden bekommen... sparen Unmengen an Geld, durch unsere exklusiv verhandelten Konditionen - Du kannst alles direkt nutzen! Zusätzliche Produktfeatures, damit du schneller an dein Ziel kommst - Gibt es sonst nirgends! Einen klaren Fahrplan wie du die Deals gewinnbringend für dich einsetzt! Exklusive Produktbundles-Deals, sodass du schneller mit geringerem Invest ein passiven Einkommensfluss aufbaust! ⭐ BONUS: Einzigartiges Gutscheinheft mit dem du hunderte Euros einspart! In unserem Partnerbereich findest du jede Menge Werbemittel inkl. E-Mail Vorlagen. So kannst du direkt durchstarten. Hier gelangst du zum Partnerbereich << Noch Fragen? Solltest du Rückfragen haben, kontaktiere uns gerne: support@profibuddies.de
 
 ## 2. Links
 

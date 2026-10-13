@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Kurs <em>Schlagzeug kompakt </em>ist für erwachsene Schlagzeug-Anfänger konzipiert und basiert auf jahrelanger Unterrichtserfahrung. Schritt für Schritt erlernt man das Schlagzeugspiel sowie Theorie und Notenlehre. Ein Jahr lang wird jede Woche ein Kapitel freigeschaltet mit mehreren Lektionen wie Warm-Up, Snare-Drum-Spiel, Drum-Set oder Theorie. Dazu gibts Übe-PDFs, Hörempfehlungen oder Playalongs, die beim Üben unterstützen. </p>
-<p>Am Ende des Einjahreskurses beherrscht man die Grundlagen des Schlagzeugspieles, die geläufigsten Rhythmusmotive, unterschiedliche Stilrichtungen, einige Rudiments und kann die meisten Lieder begleiten.</p>
-<p>Der Kurs bleibt auch nach Beendigung der Jahres freigeschaltet.</p>
-<p>Bei Fragen oder Problemen kannst man mich jederzeit über das Support-Formular kontaktieren. </p>
-<p>Der Kurs ist seit August 2020 online, daher noch wenig Bewertungen und Käufe. Beispielvideos von meinen Lektionen gibts auf <a>www.rudi-hein.de </a></p>
-<p>Ich bin hauptberuftlicher Schlagzeuglehrer, daher steckt bei dem Jahreskurs auch ein pädagogisches Konzept dahinter. </p>
-<p>Inhaltlich wird so viel Stoff vermittelt wie ca.3 Jahre an einer Musikschule vor Ort.</p>
+**Vendor's marketplace description:** Der Kurs Schlagzeug kompakt ist für erwachsene Schlagzeug-Anfänger konzipiert und basiert auf jahrelanger Unterrichtserfahrung. Schritt für Schritt erlernt man das Schlagzeugspiel sowie Theorie und Notenlehre. Ein Jahr lang wird jede Woche ein Kapitel freigeschaltet mit mehreren Lektionen wie Warm-Up, Snare-Drum-Spiel, Drum-Set oder Theorie. Dazu gibts Übe-PDFs, Hörempfehlungen oder Playalongs, die beim Üben unterstützen. Am Ende des Einjahreskurses beherrscht man die Grundlagen des Schlagzeugspieles, die geläufigsten Rhythmusmotive, unterschiedliche Stilrichtungen, einige Rudiments und kann die meisten Lieder begleiten. Der Kurs bleibt auch nach Beendigung der Jahres freigeschaltet. Bei Fragen oder Problemen kannst man mich jederzeit über das Support-Formular kontaktieren. Der Kurs ist seit August 2020 online, daher noch wenig Bewertungen und Käufe. Beispielvideos von meinen Lektionen gibts auf www.rudi-hein.de Ich bin hauptberuftlicher Schlagzeuglehrer, daher steckt bei dem Jahreskurs auch ein pädagogisches Konzept dahinter. Inhaltlich wird so viel Stoff vermittelt wie ca.3 Jahre an einer Musikschule vor Ort.
 
 ## 2. Links
 

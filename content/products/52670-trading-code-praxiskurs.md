@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Lerne, wie du als Einsteiger ohne Vorwissen erfolgreich deine ersten Trades umsetzt, mit klaren Strategien, wenig Zeitaufwand und voller Kontrolle über dein Risiko.</strong></p>
-<p><strong>Bereits über 5.000 Teilnehmer</strong> mit durchschnittlich <strong>5-Sterne-Bewertungen</strong>.</p>
-<p><strong>Das erwartet dich im Kurs:</strong> </p>
-<ul>
-<li>Durchführung deiner ersten Börsentrades – sicher und verständlich erklärt.</li>
-<li>Trendfolge-Strategie und weitere praxiserprobte Methoden für den kurz- bis mittelfristigen Handel mit wenig Zeitaufwand und Risiko.</li>
-<li>Umgang mit der professionellen Handelssoftware Metatrader.</li>
-<li>Wie du Kurse einfach analysierst und deren zukünftige Entwicklung abschätzen kannst.</li>
-<li>Wichtige Grundlagen für den Erfolg an der Börse</li>
-<li>Schritt-für-Schritt-Videos – jederzeit abrufbar, auch mobil per App.</li>
-</ul>
-<p><strong>Was du dafür brauchst:</strong></p>
-<ul>
-<li>Kein Vorwissen erforderlich.</li>
-<li>Ein Gerät mit Internetzugang (Computer, Tablet oder Smartphone).</li>
-<li>Die kostenlose Handelssoftware Metatrader wird verwendet.</li>
-<li>Empfehlenswert ist ein Startkapital von mindestens 100 Euro.</li>
-</ul>
-<p><strong>Für wen ist der Kurs geeignet?</strong></p>
-<ul>
-<li>Anfänger und Neueinsteiger an der Börse.</li>
-<li>Fortgeschrittene Trader, die bisher wenig Erfolg hatten.</li>
-<li>Berufstätige, die mit wenig Zeitaufwand nebenbei traden wollen</li>
-</ul>
-<p><strong> Kein Abo, kein Risiko und 100 % Verständnis und Zufriedenheitsgarantie. Du kannst die Strategien 14 Tage ausführlich testen, mit voller Geld-Zurück-Garantie. </strong></p>
-<p>Bei Fragen zu den Inhalten kannst du mich jederzeit per E-Mail erreichen unter support@dertradingcode.de.</p>
+**Vendor's marketplace description:** Lerne, wie du als Einsteiger ohne Vorwissen erfolgreich deine ersten Trades umsetzt, mit klaren Strategien, wenig Zeitaufwand und voller Kontrolle über dein Risiko. Bereits über 5.000 Teilnehmer mit durchschnittlich 5-Sterne-Bewertungen . Das erwartet dich im Kurs: Durchführung deiner ersten Börsentrades – sicher und verständlich erklärt. Trendfolge-Strategie und weitere praxiserprobte Methoden für den kurz- bis mittelfristigen Handel mit wenig Zeitaufwand und Risiko. Umgang mit der professionellen Handelssoftware Metatrader. Wie du Kurse einfach analysierst und deren zukünftige Entwicklung abschätzen kannst. Wichtige Grundlagen für den Erfolg an der Börse Schritt-für-Schritt-Videos – jederzeit abrufbar, auch mobil per App. Was du dafür brauchst: Kein Vorwissen erforderlich. Ein Gerät mit Internetzugang (Computer, Tablet oder Smartphone). Die kostenlose Handelssoftware Metatrader wird verwendet. Empfehlenswert ist ein Startkapital von mindestens 100 Euro. Für wen ist der Kurs geeignet? Anfänger und Neueinsteiger an der Börse. Fortgeschrittene Trader, die bisher wenig Erfolg hatten. Berufstätige, die mit wenig Zeitaufwand nebenbei traden wollen Kein Abo, kein Risiko und 100 % Verständnis und Zufriedenheitsgarantie. Du kannst die Strategien 14 Tage ausführlich testen, mit voller Geld-Zurück-Garantie. Bei Fragen zu den Inhalten kannst du mich jederzeit per E-Mail erreichen unter support@dertradingcode.de.
 
 ## 2. Links
 

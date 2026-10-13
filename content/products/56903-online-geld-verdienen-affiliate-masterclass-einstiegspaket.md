@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Inhalt des Videokurses:</strong></span></p>
-<p>- Was sind Physische und digitale Produkte ?</p>
-<p>- Warum digitale Produkte ?</p>
-<p>- Was ist Affiliate Marketing ?</p>
-<p>- Affiliate Marketing mit TikTok &amp; Instagram</p>
-<p>- Digistore24 erklärt</p>
-<p>- Branding &amp; Positionierung</p>
-<p>- Nische &amp; Produkte finden</p>
-<p>- Social Media Kanäle richtig aufbauen</p>
-<p>- Content erstellen (+Meine Ideen)</p>
-<p>- Reichweite aufbauen auf TikTok &amp; Instagram</p>
-<p>- Kundengewinnung &amp; Verkauf</p>
-<p>- BONUS + Updates KOSTENLOS freigeschaltet</p>
-<p> </p>
-<p><strong><span style="background-color:#00ff00;">Nach deiner Bestellung bekommst du sofort per E-Mail den Zugang zum Videokurs. Einfach die PDF Datei herunterladen und den Online Kurs über den Link in der PDF öffnen.</span></strong></p>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Hinweis:</strong></span></p>
-<p> </p>
-<p><span style="background-color:#ffff00;">Du hast evtl. die Möglichkeit mit Klarna oder PayPal für <strong>0€</strong> zu beginnen und erst in <strong>30 Tagen</strong> zu zahlen.</span></p>
-<p><span style="background-color:#ffff00;">Wähle beim Checkout einfach deine bevorzugte Zahlungsoption aus und du wirst automatisch zu Klarna oder PayPal weitergeleitet.</span></p>
+**Vendor's marketplace description:** Inhalt des Videokurses: - Was sind Physische und digitale Produkte ? - Warum digitale Produkte ? - Was ist Affiliate Marketing ? - Affiliate Marketing mit TikTok & Instagram - Digistore24 erklärt - Branding & Positionierung - Nische & Produkte finden - Social Media Kanäle richtig aufbauen - Content erstellen (+Meine Ideen) - Reichweite aufbauen auf TikTok & Instagram - Kundengewinnung & Verkauf - BONUS + Updates KOSTENLOS freigeschaltet Nach deiner Bestellung bekommst du sofort per E-Mail den Zugang zum Videokurs. Einfach die PDF Datei herunterladen und den Online Kurs über den Link in der PDF öffnen. Hinweis: Du hast evtl. die Möglichkeit mit Klarna oder PayPal für 0€ zu beginnen und erst in 30 Tagen zu zahlen. Wähle beim Checkout einfach deine bevorzugte Zahlungsoption aus und du wirst automatisch zu Klarna oder PayPal weitergeleitet.
 
 ## 2. Links
 

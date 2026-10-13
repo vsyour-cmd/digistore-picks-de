@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der einfache Einstieg in digitale Produkte, E-Books, Vorlagen, Checklisten &amp; Online-Verkauf</p>
-<p>Du möchtest mit Canva eigene digitale Produkte erstellen, weißt aber noch nicht genau, womit du anfangen sollst?</p>
-<p>Dann ist dieses E-Book dein praxisnaher Einstieg.</p>
-<p>In diesem Ratgeber zeige ich dir Schritt für Schritt, wie du mit Canva digitale Produkte planst, gestaltest und für den Online-Verkauf vorbereitest — verständlich, ehrlich und ohne leere Erfolgsversprechen.</p>
-<p>Dieses E-Book ist für alle gedacht, die eigene Ideen umsetzen, digitale Produkte erstellen und sich langfristig eine zusätzliche Einkommensquelle aufbauen möchten.</p>
-<p> </p>
+**Vendor's marketplace description:** Der einfache Einstieg in digitale Produkte, E-Books, Vorlagen, Checklisten & Online-Verkauf Du möchtest mit Canva eigene digitale Produkte erstellen, weißt aber noch nicht genau, womit du anfangen sollst? Dann ist dieses E-Book dein praxisnaher Einstieg. In diesem Ratgeber zeige ich dir Schritt für Schritt, wie du mit Canva digitale Produkte planst, gestaltest und für den Online-Verkauf vorbereitest — verständlich, ehrlich und ohne leere Erfolgsversprechen. Dieses E-Book ist für alle gedacht, die eigene Ideen umsetzen, digitale Produkte erstellen und sich langfristig eine zusätzliche Einkommensquelle aufbauen möchten.
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Attraktive Provisionen mit AI Selling System</strong></p>
-<p>Mit künstlicher Intelligenz und digitalen Produkten über Social Media Geld verdienen + Fertige 1:1 Vorlagen und Templates gratis</p>
-<p> </p>
-<p><strong>Unser Provisionsmodell:</strong></p>
-<p>✅ <strong>70 % Provision auf jeden Verkauf</strong><br />✅ <strong>Hohe Conversionrate</strong><br />✅ <strong>Faire und transparente Vergütung</strong></p>
-<p> </p>
-<p><strong>Warum AI Selling System</strong></p>
-<p>✅ Hochwertige Inhalte mit praxisnahem Expertenwissen<br />✅ Umfangreiches <strong>Werbematerial für Affiliates</strong><br />✅ <strong>Bewährter und getesteter Funnel</strong> mit starken Conversion-Raten<br />✅ <strong>Geringe Stornoquote</strong> für stabile und sichere Provisionen</p>
+**Vendor's marketplace description:** Attraktive Provisionen mit AI Selling System Mit künstlicher Intelligenz und digitalen Produkten über Social Media Geld verdienen + Fertige 1:1 Vorlagen und Templates gratis Unser Provisionsmodell: ✅ 70 % Provision auf jeden Verkauf ✅ Hohe Conversionrate ✅ Faire und transparente Vergütung Warum AI Selling System ✅ Hochwertige Inhalte mit praxisnahem Expertenwissen ✅ Umfangreiches Werbematerial für Affiliates ✅ Bewährter und getesteter Funnel mit starken Conversion-Raten ✅ Geringe Stornoquote für stabile und sichere Provisionen
 
 ## 2. Links
 

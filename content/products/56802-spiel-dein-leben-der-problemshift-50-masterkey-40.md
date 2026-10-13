@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Du willst Geld verdienen. Hier ist wie.</strong></p>
-<p><strong>Der leichtere Weg, zu dem Leben, dass du willst. </strong></p>
-<p>Das Wissen aus tausenden Jahren, das dir niemand verrät Ohne Tool. Ohne teure Coachings. Erkenne, dass du jederzeit neu wählen kannst, egal, wo du jetzt stehst.</p>
-<p><strong>Der ProblemShift</strong> zeigt, wie man jedes Problem löst – effizient, schnell, dauerhaft. Das Produkt verkauft sich selbst. Warum? Weil jeder darin sich selbst erkennt.</p>
-<p><strong>Deine Provision:</strong><br />Das Einstiegsprodukt kostet <strong>47.- EUR</strong> – niedrige Hürde, hohe Conversion, 23.- Euro gehören dir. 50 %..<br />Das Upsell – der <strong>MasterKey</strong> – (komplettes Wissen, wie du alles im Leben erreichst, was du willst, Lebenslang anwendbar) <strong>895.- EUR</strong>.<br />Davon gehören dir <strong>358.- EUR</strong> pro Verkauf. Automatisch. Ohne Aufwand.</p>
-<p><strong>Wie läuft es ab?</strong><br />Du meldest dich als Affiliate an – und bekommst sofort deinen <strong>fertigen Funnel mit deinen persönlichen Digistore-Links</strong>. Dein Name steht drauf. Deine Links sind drin. Du teilst ihn – fertig. Der Funnel übernimmt alles. Der Chatbot verkauft für dich. Du schläfst – das System arbeitet.</p>
-<p><strong>Das System:</strong><br />✅ Fertiger Funnel – sofort mit deinen Digistore-Links<br />✅ Automatischer Chatbot – verkauft 24/7 für dich<br />✅ Bewährtes Produkt – jahrtausendes Wissen komprimiert<br />✅ Kein Coaching nötig – kein Support von dir<br />✅ Passives Einkommen – du teilst, das System verdient</p>
-<p><strong>Eine Frage bleibt:</strong><br />Wie viele Menschen kennst du, die ein besseres Leben Privat oder im Business wollen? </p>
-<p><strong>Alle. </strong></p>
-<p>180 Tage Cookie. Einmalzahlung. Kein Abo. DACH-Markt. Auf Deutsch.</p>
-<hr />
-<p>Du hast 10'740.- Euro verdient, wenn 30 Menschen den MasterKey gekauft haben:</p>
-<p>Dann bekommst du einen Anruf von Pierre. Die Einladung zu: zwei Tage Vierwaldstättersee. Yacht. Austausch, wachsen und Spass haben. Persönlich.</p>
-<p><em>Bist du dabei?</em></p>
-<p><em>In Planung: Diese 2 Produkte auf English</em></p>
-<p><em>Persönlichkeitsentwicklung - Erfolg - Freiheit - Zukunft </em></p>
+**Vendor's marketplace description:** Du willst Geld verdienen. Hier ist wie. Der leichtere Weg, zu dem Leben, dass du willst. Das Wissen aus tausenden Jahren, das dir niemand verrät Ohne Tool. Ohne teure Coachings. Erkenne, dass du jederzeit neu wählen kannst, egal, wo du jetzt stehst. Der ProblemShift zeigt, wie man jedes Problem löst – effizient, schnell, dauerhaft. Das Produkt verkauft sich selbst. Warum? Weil jeder darin sich selbst erkennt. Deine Provision: Das Einstiegsprodukt kostet 47.- EUR – niedrige Hürde, hohe Conversion, 23.- Euro gehören dir. 50 %.. Das Upsell – der MasterKey – (komplettes Wissen, wie du alles im Leben erreichst, was du willst, Lebenslang anwendbar) 895.- EUR . Davon gehören dir 358.- EUR pro Verkauf. Automatisch. Ohne Aufwand. Wie läuft es ab? Du meldest dich als Affiliate an – und bekommst sofort deinen fertigen Funnel mit deinen persönlichen Digistore-Links . Dein Name steht drauf. Deine Links sind drin. Du teilst ihn – fertig. Der Funnel übernimmt alles. Der Chatbot verkauft für dich. Du schläfst – das System arbeitet. Das System: ✅ Fertiger Funnel – sofort mit deinen Digistore-Links ✅ Automatischer Chatbot – verkauft 24/7 für dich ✅ Bewährtes Produkt – jahrtausendes Wissen komprimiert ✅ Kein Coaching nötig – kein Support von dir ✅ Passives Einkommen – du teilst, das System verdient Eine Frage bleibt: Wie viele Menschen kennst du, die ein besseres Leben Privat oder im Business wollen? Alle. 180 Tage Cookie. Einmalzahlung. Kein Abo. DACH-Markt. Auf Deutsch. Du hast 10'740.- Euro verdient, wenn 30 Menschen den MasterKey gekauft haben: Dann bekommst du einen Anruf von Pierre. Die Einladung zu: zwei Tage Vierwaldstättersee. Yacht. Austausch, wachsen und Spass haben. Persönlich. Bist du dabei? In Planung: Diese 2 Produkte auf English Persönlichkeitsentwicklung - Erfolg - Freiheit - Zukunft
 
 ## 2. Links
 

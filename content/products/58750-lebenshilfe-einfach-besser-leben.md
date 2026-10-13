@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>„Lebenshilfe – Einfach besser leben“ ist ein praxisnahes PDF-E-Book für Menschen, die ihr Leben bewusster gestalten und mehr innere Ruhe, Klarheit und Lebensfreude entwickeln möchten.</p>
-<p>Der Ratgeber behandelt wichtige Themen wie Selbstfürsorge, Achtsamkeit, Stressbewältigung, Selbstvertrauen, Resilienz, gesunde Beziehungen und positive Gewohnheiten. Verständliche Impulse und alltagstaugliche Übungen helfen dabei, persönliche Belastungen besser zu bewältigen und neue Perspektiven zu entwickeln.</p>
-<p>Das E-Book unterstützt dabei, die eigenen Bedürfnisse und Ziele bewusster wahrzunehmen, hilfreiche Veränderungen anzustoßen und Schritt für Schritt mehr Ausgeglichenheit in den Alltag zu bringen.</p>
-<p>Nach erfolgreicher Bestellung wird das 81-seitige E-Book sofort digital als PDF-Datei bereitgestellt. Der Verkaufspreis beträgt einmalig 9,99 €.</p>
+**Vendor's marketplace description:** „Lebenshilfe – Einfach besser leben“ ist ein praxisnahes PDF-E-Book für Menschen, die ihr Leben bewusster gestalten und mehr innere Ruhe, Klarheit und Lebensfreude entwickeln möchten. Der Ratgeber behandelt wichtige Themen wie Selbstfürsorge, Achtsamkeit, Stressbewältigung, Selbstvertrauen, Resilienz, gesunde Beziehungen und positive Gewohnheiten. Verständliche Impulse und alltagstaugliche Übungen helfen dabei, persönliche Belastungen besser zu bewältigen und neue Perspektiven zu entwickeln. Das E-Book unterstützt dabei, die eigenen Bedürfnisse und Ziele bewusster wahrzunehmen, hilfreiche Veränderungen anzustoßen und Schritt für Schritt mehr Ausgeglichenheit in den Alltag zu bringen. Nach erfolgreicher Bestellung wird das 81-seitige E-Book sofort digital als PDF-Datei bereitgestellt. Der Verkaufspreis beträgt einmalig 9,99 €.
 
 ## 2. Links
 

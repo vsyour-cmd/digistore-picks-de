@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:justify;">30 % Provision mit einem praxisorientierten Pinterest-Einsteiger-Guide.</p>
-<p>„Kinderleicht mit Pinterest Geld verdienen“ richtet sich an Einsteiger, die Pinterest und Affiliate Marketing Schritt für Schritt kennenlernen und praktisch umsetzen möchten.</p>
-<p>Der Guide behandelt unter anderem Pinterest-Einrichtung, Affiliate Marketing, Pin-Erstellung mit Canva, Produktauswahl und Verlinkung, Pinterest Analytics sowie einen praktischen 30-Tage-Startplan.</p>
-<p>Verkaufspreis: 99,00 €</p>
-<p>Affiliate-Provision: 30 %</p>
-<p>Format: digitales E-Book / PDF</p>
-<p>Zielgruppe: Pinterest-Einsteiger, Affiliate-Marketing-Interessierte und Menschen, die Pinterest für ihr Online-Marketing nutzen möchten.</p>
-<p>Bitte bewirb das Produkt transparent und ohne Einkommens- oder Erfolgsgarantien.</p>
+**Vendor's marketplace description:** 30 % Provision mit einem praxisorientierten Pinterest-Einsteiger-Guide. „Kinderleicht mit Pinterest Geld verdienen“ richtet sich an Einsteiger, die Pinterest und Affiliate Marketing Schritt für Schritt kennenlernen und praktisch umsetzen möchten. Der Guide behandelt unter anderem Pinterest-Einrichtung, Affiliate Marketing, Pin-Erstellung mit Canva, Produktauswahl und Verlinkung, Pinterest Analytics sowie einen praktischen 30-Tage-Startplan. Verkaufspreis: 99,00 € Affiliate-Provision: 30 % Format: digitales E-Book / PDF Zielgruppe: Pinterest-Einsteiger, Affiliate-Marketing-Interessierte und Menschen, die Pinterest für ihr Online-Marketing nutzen möchten. Bitte bewirb das Produkt transparent und ohne Einkommens- oder Erfolgsgarantien.
 
 ## 2. Links
 

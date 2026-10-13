@@ -41,49 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>„Sichere dir jetzt deinen Vorsprung!“</strong> Bereite dich mit dem Wissen erfahrener HR-Profis vor. Schluss mit der Unsicherheit – starte deine Karriere-Optimierung für nur <strong>9,90 €</strong>.</p>
-<ul>
-<li>
-<p><strong>Sofort-Download:</strong> Direkt nach dem Kauf als PDF verfügbar.</p>
-</li>
-<li>
-<p><strong>KI-Ready:</strong> Inklusive Copy &amp; Paste Prompts für deine Vorbereitung.</p>
-</li>
-<li>
-<p><strong>Praxisnah:</strong> 64 Fragen, die dich wirklich weiterbringen.</p>
-</li>
-</ul>
-<p><strong>Jetzt bestellen und entspannt zum Traumjob!</strong></p>
-<p><strong>Verwandle Lampenfieber in Souveränität – mit der Power der KI.</strong></p>
-<p>Kennst du das beklemmende Gefühl vor einem Vorstellungsgespräch? Die Sorge, bei einer Fangfrage ins Stocken zu geraten oder sich unter Wert zu verkaufen, betrifft Bewerber jeder Altersgruppe. Unser Workbook ist dein strategischer Begleiter, um genau diese Hürden zu meistern.</p>
-<div> </div>
-<h3>Was dich im Workbook erwartet:</h3>
-<p>Wir haben die <strong>64 entscheidenden Fragen</strong> aus der HR-Praxis analysiert und für dich aufbereitet:</p>
-<p><strong>1️⃣ Gesprächseinstieg &amp; Motivation:</strong> Meistere den Pitch zu deiner Person und begründe deinen Wechselwunsch professionell (Fragen 1–14).</p>
-<p> </p>
-<p><strong>2️⃣ Selbsteinschätzung:</strong> Präsentiere deine Stärken und gehe reflektiert mit Schwächen um (Fragen 15–29).</p>
-<p><strong>3️⃣ Arbeitsstil &amp; Team:</strong> Zeige, wie du Herausforderungen löst und dich im Team organisierst (Fragen 30–40).</p>
-<p><strong>4️⃣ Charakter &amp; Werte:</strong> Überzeuge durch Integrität und eine starke Persönlichkeit (Fragen 41–52).</p>
-<p><strong>5️⃣ Spontanität &amp; Stress:</strong> Bleibe ruhig bei Schätzfragen und kreativen „Out-of-the-box“-Rätseln (Fragen 53–64).</p>
-<h3>Dein strategischer Vorteil: Der KI-Turbo</h3>
-<p>Jede Frage enthält einen <strong>maßgeschneiderten KI-Prompt</strong>. Kopiere diese einfach in ChatGPT oder Gemini, um:</p>
-<ul>
-<li>
-<p>Individuelle Antwortformulierungen basierend auf deinem Lebenslauf zu erhalten.</p>
-<div> </div>
-</li>
-<li>
-<p>Eigene Kündigungsgründe neutral und positiv zu verpacken.</p>
-<div> </div>
-</li>
-<li>
-<p>Einen 30-60-90-Tage-Plan für deine neue Stelle zu entwerfen.</p>
-<div> </div>
-</li>
-</ul>
-<p><strong>Der Aha-Moment:</strong> Du lernst nicht nur, <em>was</em> du sagen sollst, sondern verstehst die <strong>Motivation des Personalers</strong> hinter jeder Frage. Wenn du weißt, dass die Frage nach Fehlern eigentlich deine Fehlerkultur prüft, antwortest du sofort sicherer.</p>
-<p>E-Book - PDF-Dokument</p>
-<p>Auslieferung: digital per Download, E-Mail nach Kauf</p>
+**Vendor's marketplace description:** „Sichere dir jetzt deinen Vorsprung!“ Bereite dich mit dem Wissen erfahrener HR-Profis vor. Schluss mit der Unsicherheit – starte deine Karriere-Optimierung für nur 9,90 € . Sofort-Download: Direkt nach dem Kauf als PDF verfügbar. KI-Ready: Inklusive Copy & Paste Prompts für deine Vorbereitung. Praxisnah: 64 Fragen, die dich wirklich weiterbringen. Jetzt bestellen und entspannt zum Traumjob! Verwandle Lampenfieber in Souveränität – mit der Power der KI. Kennst du das beklemmende Gefühl vor einem Vorstellungsgespräch? Die Sorge, bei einer Fangfrage ins Stocken zu geraten oder sich unter Wert zu verkaufen, betrifft Bewerber jeder Altersgruppe. Unser Workbook ist dein strategischer Begleiter, um genau diese Hürden zu meistern. Was dich im Workbook erwartet: Wir haben die 64 entscheidenden Fragen aus der HR-Praxis analysiert und für dich aufbereitet: 1️⃣ Gesprächseinstieg & Motivation: Meistere den Pitch zu deiner Person und begründe deinen Wechselwunsch professionell (Fragen 1–14). 2️⃣ Selbsteinschätzung: Präsentiere deine Stärken und gehe reflektiert mit Schwächen um (Fragen 15–29). 3️⃣ Arbeitsstil & Team: Zeige, wie du Herausforderungen löst und dich im Team organisierst (Fragen 30–40). 4️⃣ Charakter & Werte: Überzeuge durch Integrität und eine starke Persönlichkeit (Fragen 41–52). 5️⃣ Spontanität & Stress: Bleibe ruhig bei Schätzfragen und kreativen „Out-of-the-box“-Rätseln (Fragen 53–64). Dein strategischer Vorteil: Der KI-Turbo Jede Frage enthält einen maßgeschneiderten KI-Prompt . Kopiere diese einfach in ChatGPT oder Gemini, um: Individuelle Antwortformulierungen basierend auf deinem Lebenslauf zu erhalten. Eigene Kündigungsgründe neutral und positiv zu verpacken. Einen 30-60-90-Tage-Plan für deine neue Stelle zu entwerfen. Der Aha-Moment: Du lernst nicht nur, was du sagen sollst, sondern verstehst die Motivation des Personalers hinter jeder Frage. Wenn du weißt, dass die Frage nach Fehlern eigentlich deine Fehlerkultur prüft, antwortest du sofort sicherer. E-Book - PDF-Dokument Auslieferung: digital per Download, E-Mail nach Kauf
 
 ## 2. Links
 

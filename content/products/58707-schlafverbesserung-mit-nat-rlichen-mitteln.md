@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Schlafverbesserung mit natürlichen Mitteln – Dein Weg zu erholsamem Schlaf und neuer Lebenskraft</strong></p>
-<p> </p>
+**Vendor's marketplace description:** Schlafverbesserung mit natürlichen Mitteln – Dein Weg zu erholsamem Schlaf und neuer Lebenskraft
 
 ## 2. Links
 

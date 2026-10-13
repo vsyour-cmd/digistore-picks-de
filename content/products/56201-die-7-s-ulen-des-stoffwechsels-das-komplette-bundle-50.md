@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die 7 Säulen des Stoffwechsels – Das komplette Bundle</strong></p>
-<p>Millionen Menschen kämpfen täglich mit einem trägen Stoffwechsel – ohne zu wissen, dass es 7 entscheidende Stellschrauben gibt, die alles verändern können. Dieses komplette Bundle deckt alle Bereiche ab: von Ernährung und Schlaf über Darm und Psyche bis hin zu Bewegung und Regeneration.</p>
-<p><strong>Was Affiliates erwartet:</strong></p>
-<ul>
-<li>50% Provision auf jeden Verkauf</li>
-<li>Komplettes Bundle mit 7 einzelnen eBooks</li>
-<li>Hochkonvertierende Verkaufsseite</li>
-<li>Riesige Zielgruppe: Frauen &amp; Männer 30–65 Jahre</li>
-<li>Dauerbrenner-Thema mit konstantem Suchvolumen</li>
-</ul>
-<p><strong>Für wen ist dieses Produkt?</strong> Menschen mit Gewichtsproblemen, Erschöpfung, Hormonstörungen oder dem Wunsch nach mehr Energie und Vitalität – eine der gefragtesten Gesundheitsnischen im deutschsprachigen Raum.</p>
-<p>Bewerbe jetzt das komplette Bundle und profitiere von einer kaufbereiten Zielgruppe mit echtem Leidensdruck!</p>
+**Vendor's marketplace description:** Die 7 Säulen des Stoffwechsels – Das komplette Bundle Millionen Menschen kämpfen täglich mit einem trägen Stoffwechsel – ohne zu wissen, dass es 7 entscheidende Stellschrauben gibt, die alles verändern können. Dieses komplette Bundle deckt alle Bereiche ab: von Ernährung und Schlaf über Darm und Psyche bis hin zu Bewegung und Regeneration. Was Affiliates erwartet: 50% Provision auf jeden Verkauf Komplettes Bundle mit 7 einzelnen eBooks Hochkonvertierende Verkaufsseite Riesige Zielgruppe: Frauen & Männer 30–65 Jahre Dauerbrenner-Thema mit konstantem Suchvolumen Für wen ist dieses Produkt? Menschen mit Gewichtsproblemen, Erschöpfung, Hormonstörungen oder dem Wunsch nach mehr Energie und Vitalität – eine der gefragtesten Gesundheitsnischen im deutschsprachigen Raum. Bewerbe jetzt das komplette Bundle und profitiere von einer kaufbereiten Zielgruppe mit echtem Leidensdruck!
 
 ## 2. Links
 

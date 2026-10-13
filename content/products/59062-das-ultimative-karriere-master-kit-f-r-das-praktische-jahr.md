@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Karriere-Masterkit PJ Inland – Dein Leitfaden für PJ-Planung, PJ-Portal und optimalen Klinikstart</strong></p>
-<p>Das Karriere-Masterkit für das Praktische Jahr im Inland zeigt dir strukturiert, wie du das PJ-Portal strategisch nutzt, die passende Lehrklinik auswählst und professionelle Bewerbungsunterlagen erstellst. Sofort als PDF verfügbar.</p>
-<p>Das ist enthalten:</p>
-<ul>
-<li>Überblick über den Vergabe-Mechanismus des PJ-Portals inkl. Haupt- und Nachrückverfahren</li>
-<li>Entscheidungshilfe: Maximalversorger vs. akademisches Lehrkrankenhaus</li>
-<li>Hinweise zu Logbuch, Pflichtleistungen und rechtlichem Status als PJ-Studierender</li>
-<li>Tipps zur Nutzung des PJ als optimale Vorbereitung auf das M3-Staatsexamen</li>
-<li>Vollständiges Muster-Anschreiben für PJ-Tertialplatzbewerbungen (sofort befüllbar)</li>
-<li>Vollständiger Muster-Lebenslauf für das Praktische Jahr</li>
-</ul>
-<p>Sofortiger Download – kein Abo, keine versteckten Kosten.</p>
+**Vendor's marketplace description:** Karriere-Masterkit PJ Inland – Dein Leitfaden für PJ-Planung, PJ-Portal und optimalen Klinikstart Das Karriere-Masterkit für das Praktische Jahr im Inland zeigt dir strukturiert, wie du das PJ-Portal strategisch nutzt, die passende Lehrklinik auswählst und professionelle Bewerbungsunterlagen erstellst. Sofort als PDF verfügbar. Das ist enthalten: Überblick über den Vergabe-Mechanismus des PJ-Portals inkl. Haupt- und Nachrückverfahren Entscheidungshilfe: Maximalversorger vs. akademisches Lehrkrankenhaus Hinweise zu Logbuch, Pflichtleistungen und rechtlichem Status als PJ-Studierender Tipps zur Nutzung des PJ als optimale Vorbereitung auf das M3-Staatsexamen Vollständiges Muster-Anschreiben für PJ-Tertialplatzbewerbungen (sofort befüllbar) Vollständiger Muster-Lebenslauf für das Praktische Jahr Sofortiger Download – kein Abo, keine versteckten Kosten.
 
 ## 2. Links
 

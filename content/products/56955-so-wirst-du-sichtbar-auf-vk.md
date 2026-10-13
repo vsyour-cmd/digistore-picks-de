@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Reichweite in der größten osteuropäischen Plattform aufbauen und als Creator monetarisieren</strong></p>
-<p>VK-Influencer zu werden ist eine andere Kunst als auf Instagram oder TikTok – aber wer es beherrscht, erreicht eine der engagiertesten und loyalsten Nutzerschaften im deutschsprachigen wie im osteuropäischen Raum. Dieses E-Book zeigt dir, wie du mit Videos, Beiträgen und dem Gruppenformat schnell Reichweite aufbaust, eine echte Fan-Community bindest und dich für Kooperationen mit Marken positionierst, die den russischsprachigen Markt erschließen wollen. Du lernst, wie der VK-Algorithmus Inhalte bevorzugt, welche Formate in der GUS-Diaspora besonders gut funktionieren und wie du Mediadaten erstellst, die Marken aus dem DACH-Raum und Osteuropa gleichermaßen überzeugen. Dazu: der VK-Marktplatz als zusätzliche Einnahmequelle und Affiliate-Möglichkeiten innerhalb der Plattform.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>VK-Algorithmus verstehen: welche Inhalte bevorzugt werden</li>
-<li>Videos, Clips und Beiträge für maximale organische Reichweite produzieren</li>
-<li>Communities als Reichweiten-Multiplikator gezielt einsetzen</li>
-<li>Eine loyale Follower-Community in der GUS-Diaspora aufbauen</li>
-<li>Mediadaten für Marken aus DACH und Osteuropa erstellen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Reichweite in der größten osteuropäischen Plattform aufbauen und als Creator monetarisieren VK-Influencer zu werden ist eine andere Kunst als auf Instagram oder TikTok – aber wer es beherrscht, erreicht eine der engagiertesten und loyalsten Nutzerschaften im deutschsprachigen wie im osteuropäischen Raum. Dieses E-Book zeigt dir, wie du mit Videos, Beiträgen und dem Gruppenformat schnell Reichweite aufbaust, eine echte Fan-Community bindest und dich für Kooperationen mit Marken positionierst, die den russischsprachigen Markt erschließen wollen. Du lernst, wie der VK-Algorithmus Inhalte bevorzugt, welche Formate in der GUS-Diaspora besonders gut funktionieren und wie du Mediadaten erstellst, die Marken aus dem DACH-Raum und Osteuropa gleichermaßen überzeugen. Dazu: der VK-Marktplatz als zusätzliche Einnahmequelle und Affiliate-Möglichkeiten innerhalb der Plattform. Das steckt drin: VK-Algorithmus verstehen: welche Inhalte bevorzugt werden Videos, Clips und Beiträge für maximale organische Reichweite produzieren Communities als Reichweiten-Multiplikator gezielt einsetzen Eine loyale Follower-Community in der GUS-Diaspora aufbauen Mediadaten für Marken aus DACH und Osteuropa erstellen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

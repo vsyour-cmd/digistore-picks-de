@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>WERDE ZUR BESTEN VERSION VON DIR SELBST!</strong><br /><br />Wir begleiten "gemeinsam" bereits seit etwa 80 Arztjahren Menschen durch Ihre Symptomatiken und Lebenskrisen. Und unser Fazit lautet: "Entscheide Dich für die Gesundheit und packe die Dinge in Deinem Leben an, die Dich daran hindern Dein volles Lebenspotenzial zu entfalten.<br /><br />Wir wollen Dir in diesem Seminar ganz konkrete Lebenskonzepte an die Hand geben, damit Du den Hintergrund Deiner Krankheit verstehen kannst, die Verantwortung dafür übernimmst und aus dem Hamsterrad der Schulmedizin ausbrichst, um ein bewussteres, gesünderes und vor allem längeres Leben zu geniessen.<br /><br /><strong>12 stündige Intensivausbildung zu einer neuen Aufwachmedizin<br /><br /></strong>Alle wichtigen Infos zum Partnerprogramm erhältst Du hier: <a href="https://ethnomed.de/partner/" target="_blank" rel="noreferrer noopener"><strong>https://ethnomed.de/partner/</strong></a></p>
-<p><strong><br /><br /></strong></p>
+**Vendor's marketplace description:** WERDE ZUR BESTEN VERSION VON DIR SELBST! Wir begleiten "gemeinsam" bereits seit etwa 80 Arztjahren Menschen durch Ihre Symptomatiken und Lebenskrisen. Und unser Fazit lautet: "Entscheide Dich für die Gesundheit und packe die Dinge in Deinem Leben an, die Dich daran hindern Dein volles Lebenspotenzial zu entfalten. Wir wollen Dir in diesem Seminar ganz konkrete Lebenskonzepte an die Hand geben, damit Du den Hintergrund Deiner Krankheit verstehen kannst, die Verantwortung dafür übernimmst und aus dem Hamsterrad der Schulmedizin ausbrichst, um ein bewussteres, gesünderes und vor allem längeres Leben zu geniessen. 12 stündige Intensivausbildung zu einer neuen Aufwachmedizin Alle wichtigen Infos zum Partnerprogramm erhältst Du hier: https://ethnomed.de/partner/
 
 ## 2. Links
 

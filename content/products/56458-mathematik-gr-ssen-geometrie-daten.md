@@ -41,40 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Grössen, Geometrie &amp; Daten</h1>
-<h2>Für deine Berufsausbildung</h2>
-<h2>Kurzbeschreibung</h2>
-<p>Dieser Online-Kurs vermittelt dir die wichtigsten Grundlagen zu Grössen, Geometrie und Daten – genau das, was du in deiner Berufsausbildung brauchst, um Aufgaben sicher zu lösen und Prüfungen zu bestehen.</p>
-<h2>Zielgruppe</h2>
-<ul>
-<li>Lernende in der beruflichen Grundbildung</li>
-<li>Berufsschüler/innen</li>
-<li>Auszubildende mit Matheproblemen</li>
-<li>Quereinsteiger/innen</li>
-</ul>
-<h2>Hauptnutzen</h2>
-<ul>
-<li>Einheiten, Grössen und Umrechnungen sicher beherrschen</li>
-<li>Geometrie endlich verstehen (Flächen, Volumen, Formen)</li>
-<li>Daten lesen, interpretieren und anwenden</li>
-<li>mehr Sicherheit in Schule und Beruf</li>
-</ul>
-<h2>Was macht das Produkt besonders?</h2>
-<ul>
-<li>Fokus auf typische Aufgaben aus der Berufsschule</li>
-<li>einfache, verständliche Erklärungen</li>
-<li>direkt anwendbar in Prüfungen</li>
-<li>ideal für Lernende mit Wissenslücken</li>
-</ul>
-<h2>Warum Affiliates dieses Produkt bewerben sollten</h2>
-<ul>
-<li>konkretes Problem → hohe Conversion</li>
-<li>Mathe = eines der grössten Probleme in der Ausbildung</li>
-<li>leicht erklärbar in Content (Videos, Posts, Ads)</li>
-<li>perfekt für TikTok, YouTube &amp; Lern-Content</li>
-</ul>
-<h2>Fazit</h2>
-<p>Ein klar fokussiertes Lernprodukt mit hoher Nachfrage – ideal für Affiliates, die einfache, verständliche Lösungen für Lernende promoten möchten.</p>
+**Vendor's marketplace description:** Grössen, Geometrie & Daten Für deine Berufsausbildung Kurzbeschreibung Dieser Online-Kurs vermittelt dir die wichtigsten Grundlagen zu Grössen, Geometrie und Daten – genau das, was du in deiner Berufsausbildung brauchst, um Aufgaben sicher zu lösen und Prüfungen zu bestehen. Zielgruppe Lernende in der beruflichen Grundbildung Berufsschüler/innen Auszubildende mit Matheproblemen Quereinsteiger/innen Hauptnutzen Einheiten, Grössen und Umrechnungen sicher beherrschen Geometrie endlich verstehen (Flächen, Volumen, Formen) Daten lesen, interpretieren und anwenden mehr Sicherheit in Schule und Beruf Was macht das Produkt besonders? Fokus auf typische Aufgaben aus der Berufsschule einfache, verständliche Erklärungen direkt anwendbar in Prüfungen ideal für Lernende mit Wissenslücken Warum Affiliates dieses Produkt bewerben sollten konkretes Problem → hohe Conversion Mathe = eines der grössten Probleme in der Ausbildung leicht erklärbar in Content (Videos, Posts, Ads) perfekt für TikTok, YouTube & Lern-Content Fazit Ein klar fokussiertes Lernprodukt mit hoher Nachfrage – ideal für Affiliates, die einfache, verständliche Lösungen für Lernende promoten möchten.
 
 ## 2. Links
 

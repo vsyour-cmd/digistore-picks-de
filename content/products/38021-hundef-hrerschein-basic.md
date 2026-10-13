@@ -41,33 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Onlinekurs Grundlagen der Hundehaltung</strong></p>
-<p>Der Hundeführerschein Basic ist perfekt für dich, wenn du...</p>
-<ul>
-<li>
-<p><strong>die elementaren Grundlagen</strong> über Hunde erfahren möchtest.</p>
-</li>
-<li>
-<p>als<strong> frischgebackener</strong> von Anfang an alle elementaren Basics lernen möchtest.</p>
-</li>
-<li>
-<p>dich für eine <strong>Sachkundeprüfung</strong> bestens <strong>vorbereiten </strong>möchtest, weil in deinem Bundesland ein Hundeführerschein Pflicht ist oder du eine <strong>Hundesportart </strong>betreiben möchtest, für die eine Sachkunde verlangt wird..</p>
-</li>
-<li>
-<p>mit dem Gedanken spielst, dir einen <strong>Hund anzuschaffen</strong> und dich schonmal mit dem Thema vertraut machen möchtest.</p>
-</li>
-</ul>
-<p>Der Hundeführerschein Basic bringt dich deinem Ziel, ein toller Hundehalter zu werden, ein beträchtliches Stück näher.</p>
-<ul>
-<li>Wie schnell, das bestimmst du ganz alleine.</li>
-<li>Der Kurs besteht aus 11 Themengebieten mit über 100 Lektionen.</li>
-<li>Wir haben für dich die wichtigsten Themengebiete zusammengestellt und portionsweise in Lektionen verpackt.</li>
-<li>So findest du schnell das, was du suchst und kannst einfach zwischendrin etwas dazu lernen.</li>
-<li>Dein Lernfortschritt wird stets festgehalten, so dass du immer dort weitermachen kannst, wo du aufgehört hast.</li>
-<li>Zum Abschluss gibt es einen Test, der automatisch ausgewertet wird.</li>
-<li>Bei mindestens 75% korrekter Antworten, erhältst du eine Urkunde, die du dir sofort downloaden kannst.</li>
-</ul>
-<h2><strong>Banner und Werbetexte</strong> findest du <span style="background-color:#00ccff;"><a style="background-color:#00ccff;" href="https://perrocc.coachy.net/lp/affiliates/" target="_blank" rel="noreferrer noopener">hier</a></span></h2>
+**Vendor's marketplace description:** Onlinekurs Grundlagen der Hundehaltung Der Hundeführerschein Basic ist perfekt für dich, wenn du... die elementaren Grundlagen über Hunde erfahren möchtest. als frischgebackener von Anfang an alle elementaren Basics lernen möchtest. dich für eine Sachkundeprüfung bestens vorbereiten möchtest, weil in deinem Bundesland ein Hundeführerschein Pflicht ist oder du eine Hundesportart betreiben möchtest, für die eine Sachkunde verlangt wird.. mit dem Gedanken spielst, dir einen Hund anzuschaffen und dich schonmal mit dem Thema vertraut machen möchtest. Der Hundeführerschein Basic bringt dich deinem Ziel, ein toller Hundehalter zu werden, ein beträchtliches Stück näher. Wie schnell, das bestimmst du ganz alleine. Der Kurs besteht aus 11 Themengebieten mit über 100 Lektionen. Wir haben für dich die wichtigsten Themengebiete zusammengestellt und portionsweise in Lektionen verpackt. So findest du schnell das, was du suchst und kannst einfach zwischendrin etwas dazu lernen. Dein Lernfortschritt wird stets festgehalten, so dass du immer dort weitermachen kannst, wo du aufgehört hast. Zum Abschluss gibt es einen Test, der automatisch ausgewertet wird. Bei mindestens 75% korrekter Antworten, erhältst du eine Urkunde, die du dir sofort downloaden kannst. Banner und Werbetexte findest du hier
 
 ## 2. Links
 

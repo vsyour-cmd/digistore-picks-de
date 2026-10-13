@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Verkaufsstellen-Manager ist ein digitales Notion-Template für kleine Unternehmen, Handmade-Labels, Manufakturen und Selbstständige, die ihre Produkte an mehreren Verkaufsstellen anbieten.</p>
-<p>Das Tool hilft dabei, Produkte, Verkaufsorte, Bestände, Bestandszählungen, Nachfüllungen, Verkäufe, Defekt/Schwund, Provisionen und interne Erlöse übersichtlich an einem zentralen Ort zu verwalten.</p>
-<p>Besonders geeignet ist das Produkt für Zielgruppen wie Handmade-Businesses, Schmuck- und Keramiklabels, Naturkosmetik-Manufakturen, Marktverkäufer sowie Anbieter, die über Concept Stores, Salons, Hofläden oder andere externe Verkaufsstellen verkaufen.</p>
-<p><strong>Affiliate-Provision: 25 %</strong></p>
-<p>Das Produkt ist ein einmalig zahlbares digitales Produkt und wird direkt nach dem Kauf über Digistore24 ausgeliefert. Affiliates erhalten einen Digistore24-Promolink und können das Produkt über Social Media, Blogs, Newsletter oder andere passende Kanäle bewerben.</p>
+**Vendor's marketplace description:** Der Verkaufsstellen-Manager ist ein digitales Notion-Template für kleine Unternehmen, Handmade-Labels, Manufakturen und Selbstständige, die ihre Produkte an mehreren Verkaufsstellen anbieten. Das Tool hilft dabei, Produkte, Verkaufsorte, Bestände, Bestandszählungen, Nachfüllungen, Verkäufe, Defekt/Schwund, Provisionen und interne Erlöse übersichtlich an einem zentralen Ort zu verwalten. Besonders geeignet ist das Produkt für Zielgruppen wie Handmade-Businesses, Schmuck- und Keramiklabels, Naturkosmetik-Manufakturen, Marktverkäufer sowie Anbieter, die über Concept Stores, Salons, Hofläden oder andere externe Verkaufsstellen verkaufen. Affiliate-Provision: 25 % Das Produkt ist ein einmalig zahlbares digitales Produkt und wird direkt nach dem Kauf über Digistore24 ausgeliefert. Affiliates erhalten einen Digistore24-Promolink und können das Produkt über Social Media, Blogs, Newsletter oder andere passende Kanäle bewerben.
 
 ## 2. Links
 

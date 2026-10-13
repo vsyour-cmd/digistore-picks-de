@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong> 14 KAPITEL MIT ÜBER 3 STUNDEN GEBALLTEM STERNZEICHENWISSEN!</strong> <br />Wie tickt der Widder? Wie liebt der Skorpion? Wie funktioniert die Partnerschaft mit dem Wassermann? Wie arbeitet die Waage? Und wie verhält sich der Löwe als Aszendent? Jedes der zwölf Sternzeichen wird umfassend durchleuchtet!   <br />+ BONUS VIDEO <br />In diesem fast 20-minütigem Bonusmaterial erklärt Andreas Winter die Bedeutung des Planeten Merkur und des Medium Coeli (MC) im Horoskop. Mithilfe dieser beiden Merkmale ist es möglicht, das Sternzeichen des Gegenübers einzuschätzen, selbst wenn das Geburtsdatum nicht bekannt ist.  </p>
+**Vendor's marketplace description:** 14 KAPITEL MIT ÜBER 3 STUNDEN GEBALLTEM STERNZEICHENWISSEN! Wie tickt der Widder? Wie liebt der Skorpion? Wie funktioniert die Partnerschaft mit dem Wassermann? Wie arbeitet die Waage? Und wie verhält sich der Löwe als Aszendent? Jedes der zwölf Sternzeichen wird umfassend durchleuchtet! + BONUS VIDEO In diesem fast 20-minütigem Bonusmaterial erklärt Andreas Winter die Bedeutung des Planeten Merkur und des Medium Coeli (MC) im Horoskop. Mithilfe dieser beiden Merkmale ist es möglicht, das Sternzeichen des Gegenübers einzuschätzen, selbst wenn das Geburtsdatum nicht bekannt ist.
 
 ## 2. Links
 

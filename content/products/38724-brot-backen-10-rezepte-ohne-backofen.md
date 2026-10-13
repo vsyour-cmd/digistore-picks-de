@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit dem ousuca® Partnerprogramm zum Self Reliance Survival Camp (SRSC) kannst du ein passives Einkommen aufbauen.</p>
-<p>Bewerbe das eBook <strong><em>10 Brot Rezepte / Outdoor leckeres Brot backen</em></strong><em> des SRSC-Survival-Onlineprogramms.</em></p>
-<p><strong>Vorteile für Nutzer:</strong></p>
-<ul>
-<li>10 leckere Brot Rezepte für das Backen ohne Backofen Outdoor und am Lagerfeuer</li>
-<li>38-seitiges eBook mit vielen Bildern</li>
-<li>Erlangung sämtlicher Kenntnisse zum selbsändigen Brotbacken unter unterschiedlichsten Voraussetzungen </li>
-</ul>
-<p><strong>Deine Vorteile als Affiliate:</strong></p>
-<ul>
-<li>50 % für jeden Verkauf</li>
-<li>ousuca® SRSC Branding und somit hoher Wiedererkennungswert</li>
-<li>Upsells (geplant) und weitere Verdienstmöglichkeiten mit ousuca® durch Abos zum SRSC möglich</li>
-</ul>
-<p>Werde Partner von ousuca® und vom ersten umfangreichen Online-Survival-Kurs und den einzeln angeboteten Produkten wie die SRSC Einzelkurse oder SRSC eBooks und Anleitungen und baue dir ein passives Einkommen auf.</p>
+**Vendor's marketplace description:** Mit dem ousuca® Partnerprogramm zum Self Reliance Survival Camp (SRSC) kannst du ein passives Einkommen aufbauen. Bewerbe das eBook 10 Brot Rezepte / Outdoor leckeres Brot backen des SRSC-Survival-Onlineprogramms. Vorteile für Nutzer: 10 leckere Brot Rezepte für das Backen ohne Backofen Outdoor und am Lagerfeuer 38-seitiges eBook mit vielen Bildern Erlangung sämtlicher Kenntnisse zum selbsändigen Brotbacken unter unterschiedlichsten Voraussetzungen Deine Vorteile als Affiliate: 50 % für jeden Verkauf ousuca® SRSC Branding und somit hoher Wiedererkennungswert Upsells (geplant) und weitere Verdienstmöglichkeiten mit ousuca® durch Abos zum SRSC möglich Werde Partner von ousuca® und vom ersten umfangreichen Online-Survival-Kurs und den einzeln angeboteten Produkten wie die SRSC Einzelkurse oder SRSC eBooks und Anleitungen und baue dir ein passives Einkommen auf.
 
 ## 2. Links
 

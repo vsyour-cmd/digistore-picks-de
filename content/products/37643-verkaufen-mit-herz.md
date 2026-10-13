@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Promote mein Buch "Verkaufen mit Herz" und Du erhälst 30 % Provision auf den Verkauf des Buches und des Arbeitsbuches. </p>
-<p> </p>
-<p><strong>"Verkaufen mit Herz"</strong></p>
-<p>-176 Seiten purer Content | Hardcover | Sprache: Deutsch</p>
-<p>- Allgemeines zum Verkauf, Beispiele aus meiner Vertriebstätigkeit und Tipps zur Kundenbindung, sowie Inhalte zu meinen Trainings und Coachings.</p>
+**Vendor's marketplace description:** Promote mein Buch "Verkaufen mit Herz" und Du erhälst 30 % Provision auf den Verkauf des Buches und des Arbeitsbuches. "Verkaufen mit Herz" -176 Seiten purer Content | Hardcover | Sprache: Deutsch - Allgemeines zum Verkauf, Beispiele aus meiner Vertriebstätigkeit und Tipps zur Kundenbindung, sowie Inhalte zu meinen Trainings und Coachings.
 
 ## 2. Links
 

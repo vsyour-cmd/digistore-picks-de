@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Führerscheinprüfung leicht gemacht!</strong></p>
-<p>Du bekommst Zugang zu unseren Videokursen <strong>Grundwissen</strong> und <strong>B-Teil</strong> auf unserer Lernplattform für 365 Tage!</p>
-<p>Über <strong>1.500 kurze, verständlich erklärte Lernvideos</strong> stehen dir auf unserer neu entwickelten Lernplattform zur Verfügung. Alle Inhalte wurden von uns selbst erstellt und helfen dir gezielt dabei, <strong>Verkehrsregeln und den technischen Teil wirklich zu verstehen</strong> – besonders dort, wo klassische Lernunterlagen oft unklar bleiben.</p>
-<p><br />Viele Fahrschüler, die unsere persönliche Nachhilfe nutzen, schätzen diese Videos als ideale Ergänzung zum Unterricht.<br /><br /><strong>Der große Vorteil:</strong><br />Du lernst nicht auswendig, sondern verstehst die Zusammenhänge. So kannst du dir das Wissen leichter merken, sicher anwenden und gehst selbstbewusst in die Prüfung.</p>
-<p>Viel Freude und Erfolg,<br />Edith und Team</p>
+**Vendor's marketplace description:** Führerscheinprüfung leicht gemacht! Du bekommst Zugang zu unseren Videokursen Grundwissen und B-Teil auf unserer Lernplattform für 365 Tage! Über 1.500 kurze, verständlich erklärte Lernvideos stehen dir auf unserer neu entwickelten Lernplattform zur Verfügung. Alle Inhalte wurden von uns selbst erstellt und helfen dir gezielt dabei, Verkehrsregeln und den technischen Teil wirklich zu verstehen – besonders dort, wo klassische Lernunterlagen oft unklar bleiben. Viele Fahrschüler, die unsere persönliche Nachhilfe nutzen, schätzen diese Videos als ideale Ergänzung zum Unterricht. Der große Vorteil: Du lernst nicht auswendig, sondern verstehst die Zusammenhänge. So kannst du dir das Wissen leichter merken, sicher anwenden und gehst selbstbewusst in die Prüfung. Viel Freude und Erfolg, Edith und Team
 
 ## 2. Links
 

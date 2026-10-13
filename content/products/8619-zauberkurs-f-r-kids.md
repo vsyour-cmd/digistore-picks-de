@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das ist der Zauberkurs f&uuml;r die kleinen Zauberer zwischen 7 und 14 Jahren. (Ab 14 Jahre die Kurse "Grundkurs Karten" und "Grundkurs Close-up")</p>
-<p>&nbsp;</p>
-<p>Der erste Monat statt <span style="text-decoration: line-through;"><span style="color: #ff0000; text-decoration: line-through;">17,- &euro;</span> </span>f&uuml;r nur<span style="color: #339966;"><strong> 1,-- &euro;</strong>.</span><br /><br />Jede Woche ein neues cooles Video mit einem neuen Zaubertrick zum &uuml;ben oder basteln. Alles langsam und ausf&uuml;hrlich erkl&auml;rt.<br /><br />Im wahrsten Sinne kinderleicht vorzuf&uuml;hren.</p>
+**Vendor's marketplace description:** Das ist der Zauberkurs f&uuml;r die kleinen Zauberer zwischen 7 und 14 Jahren. (Ab 14 Jahre die Kurse "Grundkurs Karten" und "Grundkurs Close-up") Der erste Monat statt 17,- &euro; f&uuml;r nur 1,-- &euro; . Jede Woche ein neues cooles Video mit einem neuen Zaubertrick zum &uuml;ben oder basteln. Alles langsam und ausf&uuml;hrlich erkl&auml;rt. Im wahrsten Sinne kinderleicht vorzuf&uuml;hren.
 
 ## 2. Links
 

@@ -41,65 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><strong>Produkteigenschaften:</strong></h1>
-<ul>
-<li><strong>21-teiliges Online-Video-Seminar</strong> (aufgeteilt in 4 Module) mit kompaktem typologischen Insider-Wissen zum tieferen Verständnis Deiner selbst und anderen Menschen.</li>
-<li>Insgesamt über 8 Stunden hochwertige Video-Inhalte und 10 Persönlichkeitstests<br /><br /></li>
-<li>MODUL 1: Einführung
-<ul>
-<li>Einführung in die Persönlichkeitstests</li>
-<li>Worauf basiert der Kompass der Persönlichkeit?</li>
-<li>Die 4 Temperamente - Einführung<br /><br /></li>
-</ul>
-</li>
-<li>MODUL 2: Die 4 grundlegenden Temperamente im Detail
-<ul>
-<li>Das Temperament: Phlegmatiker (Teil 1&amp;2)</li>
-<li>Das Temperament: Choleriker (Teil 1&amp;2)</li>
-<li>Das Temperament: Sanguiniker (Teil 1&amp;2)</li>
-<li>Das Temperament: Melancholiker (Teil 1&amp;2)</li>
-<li>Mischtypen der Temperamente<br /><br /></li>
-</ul>
-</li>
-<li>MODUL 3: Menschenkenntnis
-<ul>
-<li>Das Geheimnis der Temperamente</li>
-<li>Konfliktpotential zwischen den Temperamenten</li>
-<li>Umgang mit den Temperamenten</li>
-<li>Die vier Temperamente in der Beziehung (Teil 1&amp;2)<br /><br /></li>
-</ul>
-</li>
-<li>MODUL 4: Selbsterkenntnis
-<ul>
-<li>Wie unsere Psyche funktioniert (Teil 1&amp;2)</li>
-<li>Wie Du harmonischer leben kannst</li>
-<li>Das 5. Temperament</li>
-<li>Mein persönlicher Entwicklungsplan</li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>BONUSMODUL: 10 Persönlichkeitstests <br />
-<ul>
-<li>Auswertungen der allgemeinen Tests beeinhalten: Analogie mit dem entsprechenden Element, Aufgabe und Qualität dieses Temperaments, Stärke dieser Persönlichkeitsstruktur, Gefahren und Schwächen dieser Persönlichkeitsstruktur bei Übersteigerung, Ursachen, Spezifische Empfehlungen für das Temperament/Element</li>
-<li>Persönlichkeitstests zu den vier Lebensbereichen beeinhalten: Auswertungen beeinhalten: Beschreibung, Empfehlungen und Stärken<br /><br /></li>
-</ul>
-</li>
-<li><strong>Bonus 2: </strong>Ca. 60 PDF-Skripte, Schaubilder und Grafiken zum Herunterladen</li>
-<li><strong>Bonus 3: </strong>Zugriff auf sämtliche zukünftige Erweiterungen</li>
-<li><strong>Zusätzlich: </strong>30-Tage Geld-zurück-Garantie</li>
-</ul>
-<h2><strong><br /></strong><strong>Vorteile für den Anwender des Kompass der Persönlichkeit:</strong></h2>
-<ul>
-<li>
-<p>Der Kompass der Persönlichkeit zeigt Dir mithilfe der Persönlichkeitstests und Video-Seminaren den Weg zu einer nachhaltigen und ganzheitlichen Persönlichkeitsentwicklung.</p>
-</li>
-<li>Nach Abschluss der Module verstehst Du warum Menschen unterschiedlich reagieren und wie Du gezielt Dein Verhalten auf verschiedene Menschentypen anpasst, sodass Du erfolgreich kommuinzierst und überzeugst.<br /><br /></li>
-<li>Durch das Verständnis der Menschtypen erforscht Du Deine inneren Antriebe, es wird Dir leichter fallen Deine Talente zu finden und auch Deine Schwächen anzunehmen.<br /><br /></li>
-<li>Du lernst Deine Psyche verstehen und weisst die Mechanismen der Psyche zu nutzen, um harmonischer zu leben.<br /><br /></li>
-<li>Erfahre, wie Du typgengerecht mit Deinem Partner und Freunden für eine erfüllendere Beziehung umgehst.</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** Produkteigenschaften: 21-teiliges Online-Video-Seminar (aufgeteilt in 4 Module) mit kompaktem typologischen Insider-Wissen zum tieferen Verständnis Deiner selbst und anderen Menschen. Insgesamt über 8 Stunden hochwertige Video-Inhalte und 10 Persönlichkeitstests MODUL 1: Einführung Einführung in die Persönlichkeitstests Worauf basiert der Kompass der Persönlichkeit? Die 4 Temperamente - Einführung MODUL 2: Die 4 grundlegenden Temperamente im Detail Das Temperament: Phlegmatiker (Teil 1&2) Das Temperament: Choleriker (Teil 1&2) Das Temperament: Sanguiniker (Teil 1&2) Das Temperament: Melancholiker (Teil 1&2) Mischtypen der Temperamente MODUL 3: Menschenkenntnis Das Geheimnis der Temperamente Konfliktpotential zwischen den Temperamenten Umgang mit den Temperamenten Die vier Temperamente in der Beziehung (Teil 1&2) MODUL 4: Selbsterkenntnis Wie unsere Psyche funktioniert (Teil 1&2) Wie Du harmonischer leben kannst Das 5. Temperament Mein persönlicher Entwicklungsplan BONUSMODUL: 10 Persönlichkeitstests Auswertungen der allgemeinen Tests beeinhalten: Analogie mit dem entsprechenden Element, Aufgabe und Qualität dieses Temperaments, Stärke dieser Persönlichkeitsstruktur, Gefahren und Schwächen dieser Persönlichkeitsstruktur bei Übersteigerung, Ursachen, Spezifische Empfehlungen für das Temperament/Element Persönlichkeitstests zu den vier Lebensbereichen beeinhalten: Auswertungen beeinhalten: Beschreibung, Empfehlungen und Stärken Bonus 2: Ca. 60 PDF-Skripte, Schaubilder und Grafiken zum Herunterladen Bonus 3: Zugriff auf sämtliche zukünftige Erweiterungen Zusätzlich: 30-Tage Geld-zurück-Garantie Vorteile für den Anwender des Kompass der Persönlichkeit: Der Kompass der Persönlichkeit zeigt Dir mithilfe der Persönlichkeitstests und Video-Seminaren den Weg zu einer nachhaltigen und ganzheitlichen Persönlichkeitsentwicklung. Nach Abschluss der Module verstehst Du warum Menschen unterschiedlich reagieren und wie Du gezielt Dein Verhalten auf verschiedene Menschentypen anpasst, sodass Du erfolgreich kommuinzierst und überzeugst. Durch das Verständnis der Menschtypen erforscht Du Deine inneren Antriebe, es wird Dir leichter fallen Deine Talente zu finden und auch Deine Schwächen anzunehmen. Du lernst Deine Psyche verstehen und weisst die Mechanismen der Psyche zu nutzen, um harmonischer zu leben. Erfahre, wie Du typgengerecht mit Deinem Partner und Freunden für eine erfüllendere Beziehung umgehst.
 
 ## 2. Links
 

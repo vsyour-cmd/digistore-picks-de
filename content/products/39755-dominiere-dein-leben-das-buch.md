@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <ul>
-<li>224 Seiten purer Mehrwert | Softcover</li>
-</ul>
-<p> </p>
-<ul>
-<li>Im Buch lernt der Leser 11 Lebensregeln, um seine persönlichen Ziele zu erreichen</li>
-</ul>
-<p> </p>
-<ul>
-<li>Perfekt für geeignet für Zielgruppen, die sich für Persönlichkeitsentwicklung interessieren</li>
-</ul>
-<p> </p>
-<ul>
-<li>Extrem geringe Stornoquote</li>
-</ul>
-<p> </p>
-<p>Wir zahlen dir 5€ Provision für jede Bestellung! </p>
+**Vendor's marketplace description:** 224 Seiten purer Mehrwert | Softcover Im Buch lernt der Leser 11 Lebensregeln, um seine persönlichen Ziele zu erreichen Perfekt für geeignet für Zielgruppen, die sich für Persönlichkeitsentwicklung interessieren Extrem geringe Stornoquote Wir zahlen dir 5€ Provision für jede Bestellung!
 
 ## 2. Links
 

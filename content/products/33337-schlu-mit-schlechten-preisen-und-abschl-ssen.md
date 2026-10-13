@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verkaufen Sie zu schlechten Preisen?</strong></p>
-<p><strong>Erzielen Sie miserable Abschlüsse?</strong></p>
-<p><strong>Webinar für mehr Power im Vertrieb bzw. Verkauf</strong></p>
-<p><strong>Online-Seminar für bessere Preisgespräche bzw. Preisverhandlungen, Verkaufstraining mit Praxistipps, 80 Minuten Laufzeit, EUR 39,- inkl. MwSt.</strong></p>
-<p>Mein Name ist Christian Kober, Verhandlungstrainer seit 30 Jahren und mehrfacher Buchautor. Zu meinen Teilnehmern gehören zahlreiche erfolgreiche Verkäufer und Führungskräfte aus Deutschland und Österreich.</p>
-<p>Profitieren auch Sie als Affiliate und Ihre Netzwerkpartner von diesem praxisbewährten Erfahrungsschatz für das Führen von Preisgesprächen. Empfehlen Sie mein Online-Seminar. <br /><br />Es enthält praxisbewährte Tipps und Anregungen zu folgenden Themen:</p>
-<ul>
-<li>„Sie sind zu teuer“ – Die wesentlichen Argumente zu dieser Aussage. Damit Sie Ihren Kunden doch noch von Ihrem Angebot überzeugen.<br /><br /></li>
-<li>Wie Sie im Preisgespräch überzeugend argumentieren und keine unnötigen Rabatte verschenken<br /><br /></li>
-<li>So gelingt es Ihnen durch gekonnte Argumente, Ihre Preise stabil und damit Ihre Verhandlungserträge ertragreich zu halten<br /><br /></li>
-<li>Sie erfahren, welche Methoden gewiefte Einkäufer in Verhandlungen einsetzen <br /><br /></li>
-<li>Sie wissen, nach dem Videoseminar, wie Einkäufer denken und handeln und verstehen dadurch Ihre Verhandlungspartner genauer<br /><br /></li>
-<li>Sie sind wesentlich besser auf Ihre Preisgespräche mit cleveren Einkäufern vorbereitet<br /><br /></li>
-<li>Sie erzielen mehr ertragreiche Abschlüsse<br /><br /></li>
-</ul>
+**Vendor's marketplace description:** Verkaufen Sie zu schlechten Preisen? Erzielen Sie miserable Abschlüsse? Webinar für mehr Power im Vertrieb bzw. Verkauf Online-Seminar für bessere Preisgespräche bzw. Preisverhandlungen, Verkaufstraining mit Praxistipps, 80 Minuten Laufzeit, EUR 39,- inkl. MwSt. Mein Name ist Christian Kober, Verhandlungstrainer seit 30 Jahren und mehrfacher Buchautor. Zu meinen Teilnehmern gehören zahlreiche erfolgreiche Verkäufer und Führungskräfte aus Deutschland und Österreich. Profitieren auch Sie als Affiliate und Ihre Netzwerkpartner von diesem praxisbewährten Erfahrungsschatz für das Führen von Preisgesprächen. Empfehlen Sie mein Online-Seminar. Es enthält praxisbewährte Tipps und Anregungen zu folgenden Themen: „Sie sind zu teuer“ – Die wesentlichen Argumente zu dieser Aussage. Damit Sie Ihren Kunden doch noch von Ihrem Angebot überzeugen. Wie Sie im Preisgespräch überzeugend argumentieren und keine unnötigen Rabatte verschenken So gelingt es Ihnen durch gekonnte Argumente, Ihre Preise stabil und damit Ihre Verhandlungserträge ertragreich zu halten Sie erfahren, welche Methoden gewiefte Einkäufer in Verhandlungen einsetzen Sie wissen, nach dem Videoseminar, wie Einkäufer denken und handeln und verstehen dadurch Ihre Verhandlungspartner genauer Sie sind wesentlich besser auf Ihre Preisgespräche mit cleveren Einkäufern vorbereitet Sie erzielen mehr ertragreiche Abschlüsse
 
 ## 2. Links
 

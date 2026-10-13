@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Vorsorgemappe / Notfallmappe als Excel-Datei</p>
-<p>Folgende Informationen werden in der Datei abgefragt:</p>
-<ul>
-<li>Persönliche Daten</li>
-<li>Nahestehende Personen</li>
-<li>Haustiere</li>
-<li>Job und Beruf</li>
-<li>Online Konten</li>
-<li>Versicherungen</li>
-<li>Dokumente</li>
-<li>Verfügungen und Vollmachten</li>
-</ul>
-<p>Nutzen Sie unsere Excel – Vorlage (XLS, XLSX) zur Verwaltung Ihrer Notfallinformationen</p>
-<ul>
-<li>Alles in einer Datei</li>
-<li>Ideale Absicherung im Notfall</li>
-<li>Kein Abo</li>
-<li>Keine Cloud – Lösung</li>
-<li>Einfache Bedienung</li>
-<li>Keine Papier-Version, die vergilbt oder unleserlich wird</li>
-<li>Offline nutzbar mit Microsoft Excel oder kostenlos mit OpenOffice</li>
-<li>Optional mit USB-Stick bestellbar, damit man die Daten sofort findet</li>
-</ul>
-<p>Banner: https://notfallmappe-xls.de/wp-content/uploads/2022/08/Notfallmappe-Banner.png <img src="https://notfallmappe-xls.de/wp-content/uploads/2022/08/Notfallmappe-Banner.png" alt="Notfallmappe-Banner.png" /></p>
+**Vendor's marketplace description:** Vorsorgemappe / Notfallmappe als Excel-Datei Folgende Informationen werden in der Datei abgefragt: Persönliche Daten Nahestehende Personen Haustiere Job und Beruf Online Konten Versicherungen Dokumente Verfügungen und Vollmachten Nutzen Sie unsere Excel – Vorlage (XLS, XLSX) zur Verwaltung Ihrer Notfallinformationen Alles in einer Datei Ideale Absicherung im Notfall Kein Abo Keine Cloud – Lösung Einfache Bedienung Keine Papier-Version, die vergilbt oder unleserlich wird Offline nutzbar mit Microsoft Excel oder kostenlos mit OpenOffice Optional mit USB-Stick bestellbar, damit man die Daten sofort findet Banner: https://notfallmappe-xls.de/wp-content/uploads/2022/08/Notfallmappe-Banner.png
 
 ## 2. Links
 

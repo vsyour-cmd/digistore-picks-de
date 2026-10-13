@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Smart Money - Insta AI Secrets</p>
+**Vendor's marketplace description:** Smart Money - Insta AI Secrets
 
 ## 2. Links
 

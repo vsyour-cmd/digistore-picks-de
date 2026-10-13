@@ -41,34 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Gutlaufendender Selbstlernkurs plus Upsells von Onlinebusiness-Mentorin Jyotima Flak</p>
-<h3><span style="color:#ff0000;">Low Content Studio- Passives Einkommen mit Low Content Büchern</span><br /><br /></h3>
-<div>
-<div>
-<div>
-<div>
-<div>
-<h5><strong>Du möchtest deine eigenen Bücher auf Amazon erstellen und verkaufen? </strong></h5>
-<h5><strong>Hier zeige ich dir, wie du sogenannte Low Content Bücher erstellst und von da an online Geld verdienst!<br /><br />Von der Idee bis zum Verkauf (Werbung) von eigenen Büchern auf Amazon!<br /><br />Der Kurs besteht aus einem Mitgliederbereich mit 4 Modulen und insgesamt 14 Tutorial-Videos. <br /></strong></h5>
-</div>
-</div>
-<div>
-<div> </div>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p> </p>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Gutlaufendender Selbstlernkurs plus Upsells von Onlinebusiness-Mentorin Jyotima Flak Low Content Studio- Passives Einkommen mit Low Content Büchern Du möchtest deine eigenen Bücher auf Amazon erstellen und verkaufen? Hier zeige ich dir, wie du sogenannte Low Content Bücher erstellst und von da an online Geld verdienst! Von der Idee bis zum Verkauf (Werbung) von eigenen Büchern auf Amazon! Der Kurs besteht aus einem Mitgliederbereich mit 4 Modulen und insgesamt 14 Tutorial-Videos.
 
 ## 2. Links
 

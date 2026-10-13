@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verdiene an jedem <span style="background-color:#ffff00;">verschenkten Buch</span> bis zu <span style="color:#ff0000;">147,96€</span></strong></p>
-<h2><strong>Das brandneue Buch von Sergej Heck</strong></h2>
-<p><strong>--Network Marketing Imperium--</strong></p>
-<p>Sergej Heck gehört zu Deutschlands erfolgreichsten Network Marketing Unternehmern. In nur 24 Monaten hat er es geschafft, über 220.000 Partner zu gewinnen.</p>
-<p><strong>"Dieses Buch ist ein <em>Must-Have </em>für alle, die im Network Marketing erfolgreich werden wollen!"</strong></p>
-<p>In seinem Buch erzählt er nicht nur seine unglaubliche Geschichte, sondern gibt dem Leser einen 5-Schritte-Plan an die Seite. Es ist ein Buch von der Praxis für die Praxis.</p>
-<p><span style="background-color:#ffff00;"><strong>Nun verschenkt er sein Wissen, und Du kannst daran bis zu 147,96€ verdienen. </strong></span></p>
-<p>Wie das funktioniert erfährst du auf seiner Partnerseite:</p>
-<p><strong>http://sergejheck.de/partnerprogramm/</strong></p>
-<h2><span style="color:#0000ff;">Wir zahlen Affilliate-Partnern bis zu 147,96€ Provision auf jedes verschenkte Buch! Melde dich am besten Sofort an.</span></h2>
+**Vendor's marketplace description:** Verdiene an jedem verschenkten Buch bis zu 147,96€ Das brandneue Buch von Sergej Heck --Network Marketing Imperium-- Sergej Heck gehört zu Deutschlands erfolgreichsten Network Marketing Unternehmern. In nur 24 Monaten hat er es geschafft, über 220.000 Partner zu gewinnen. "Dieses Buch ist ein Must-Have für alle, die im Network Marketing erfolgreich werden wollen!" In seinem Buch erzählt er nicht nur seine unglaubliche Geschichte, sondern gibt dem Leser einen 5-Schritte-Plan an die Seite. Es ist ein Buch von der Praxis für die Praxis. Nun verschenkt er sein Wissen, und Du kannst daran bis zu 147,96€ verdienen. Wie das funktioniert erfährst du auf seiner Partnerseite: http://sergejheck.de/partnerprogramm/ Wir zahlen Affilliate-Partnern bis zu 147,96€ Provision auf jedes verschenkte Buch! Melde dich am besten Sofort an.
 
 ## 2. Links
 

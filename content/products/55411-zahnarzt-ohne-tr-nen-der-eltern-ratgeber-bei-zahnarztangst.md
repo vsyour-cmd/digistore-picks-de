@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Viele Kinder haben Angst vor dem Zahnarzt – und viele Eltern fühlen sich in diesen Momenten hilflos.<br />Dieser Ratgeber zeigt dir Schritt für Schritt, wie du dein Kind ruhig, sicher und ohne Druck durch Zahnarztbesuche begleiten kannst.</p>
-<p>Dieser Guide hilft dir, Zahnarztangst <strong>zu verstehen</strong>, statt sie zu bekämpfen.</p>
-<p>Wie auch im PDF beschrieben, geht es nicht darum, dass dein Kind „perfekt funktioniert“, sondern darum, dass du dein Kind ruhig und sicher begleiten kannst – auch wenn Angst da ist.</p>
+**Vendor's marketplace description:** Viele Kinder haben Angst vor dem Zahnarzt – und viele Eltern fühlen sich in diesen Momenten hilflos. Dieser Ratgeber zeigt dir Schritt für Schritt, wie du dein Kind ruhig, sicher und ohne Druck durch Zahnarztbesuche begleiten kannst. Dieser Guide hilft dir, Zahnarztangst zu verstehen , statt sie zu bekämpfen. Wie auch im PDF beschrieben, geht es nicht darum, dass dein Kind „perfekt funktioniert“, sondern darum, dass du dein Kind ruhig und sicher begleiten kannst – auch wenn Angst da ist.
 
 ## 2. Links
 

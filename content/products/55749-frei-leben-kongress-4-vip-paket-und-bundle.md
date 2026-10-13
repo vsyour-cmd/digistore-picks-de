@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das VIP-Kongresspaket zum Frei Leben Kongress 4.</p>
-<p>Du bekommst 50% Affiliate Provision.</p>
-<p>Viele Menschen haben in den letzten Jahren erlebt, wie Ihre Freiheit massiv beschnitten wurde. Aus Freude und Leichtigkeit wurde bei vielen Angst und Wut.</p>
-<p><strong>Wie können wir diese Entwicklung stoppen und umdrehen?</strong></p>
-<p>Die Antwort auf diese spannende Frage findest du beim <strong>Frei Leben Kongress 4!</strong></p>
-<p><strong>40 hochfrequente Leader der Neuen Zeit</strong> haben sich versammelt und zeigen dir beim Frei Leben Kongress die besten neuen Wege für deine Freiheit &amp; zu mehr Glück</p>
+**Vendor's marketplace description:** Das VIP-Kongresspaket zum Frei Leben Kongress 4. Du bekommst 50% Affiliate Provision. Viele Menschen haben in den letzten Jahren erlebt, wie Ihre Freiheit massiv beschnitten wurde. Aus Freude und Leichtigkeit wurde bei vielen Angst und Wut. Wie können wir diese Entwicklung stoppen und umdrehen? Die Antwort auf diese spannende Frage findest du beim Frei Leben Kongress 4! 40 hochfrequente Leader der Neuen Zeit haben sich versammelt und zeigen dir beim Frei Leben Kongress die besten neuen Wege für deine Freiheit & zu mehr Glück
 
 ## 2. Links
 

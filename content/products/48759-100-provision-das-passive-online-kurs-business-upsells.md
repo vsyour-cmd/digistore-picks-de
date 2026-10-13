@@ -41,35 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Für Affiliates:</strong></h3>
-<p>Promote das E-Book "Das Passive Online Kurs Business - Finanzielle Freiheit Mit Eigenen Online Kursen Auf Autopilot" und verdiene 100% Provision.</p>
-<p>Durch weitere Upsells im Buch steigerst du deine Einnahmen (3-4-stellig pro Verkauf möglich). Du profitierst von unserem verkaufsoptimierten Verkaufs-Funnel. </p>
-<p>Alles was du machen musst: E-Book promoten.</p>
-<p>Nutze folgende Werbeplattformen:</p>
-<ul>
-<li>E-Mail-Newsletter</li>
-<li>Facebook / Instagram-Ads</li>
-<li>Blog-Beiträge</li>
-<li>Social Media (Instagram, YouTube, etc.)</li>
-</ul>
-<p> </p>
-<h3><strong>Für Kunden:</strong></h3>
-<div>
-<div>
-<h4>In diesem Buch wirst du lernen:</h4>
-</div>
-</div>
-<div>
-<div>
-<ul>
-<li>Wie du dein bereits vorhandenes Wissen in ein skalierbares Online Kurs Business verwandelst.</li>
-<li>Wie du deine Business-Idee und ein profitables Kurs-Thema mit hoher Nachfrage findest.</li>
-<li>Wie du Online Kurse erstellst, richtig vermarktest und komplett automatisiert verkaufst.</li>
-<li>Wie du kostenlose Reichweite aufbaust und mit Meta- und Google-Ads richtig skalierst.</li>
-<li>Live-Case-Study: Über 108.029 Euro mit Online Kursen in unter 6 Monaten.</li>
-</ul>
-</div>
-</div>
+**Vendor's marketplace description:** Für Affiliates: Promote das E-Book "Das Passive Online Kurs Business - Finanzielle Freiheit Mit Eigenen Online Kursen Auf Autopilot" und verdiene 100% Provision. Durch weitere Upsells im Buch steigerst du deine Einnahmen (3-4-stellig pro Verkauf möglich). Du profitierst von unserem verkaufsoptimierten Verkaufs-Funnel. Alles was du machen musst: E-Book promoten. Nutze folgende Werbeplattformen: E-Mail-Newsletter Facebook / Instagram-Ads Blog-Beiträge Social Media (Instagram, YouTube, etc.) Für Kunden: In diesem Buch wirst du lernen: Wie du dein bereits vorhandenes Wissen in ein skalierbares Online Kurs Business verwandelst. Wie du deine Business-Idee und ein profitables Kurs-Thema mit hoher Nachfrage findest. Wie du Online Kurse erstellst, richtig vermarktest und komplett automatisiert verkaufst. Wie du kostenlose Reichweite aufbaust und mit Meta- und Google-Ads richtig skalierst. Live-Case-Study: Über 108.029 Euro mit Online Kursen in unter 6 Monaten.
 
 ## 2. Links
 

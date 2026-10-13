@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Bestattung leicht gemacht – Ratgeber mit Bestattungs-Planer</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Der Ratgeber führt durch alle Entscheidungen: Bestattungsart, Grab, Kosten, Bestatter und Hilfen, wenn das Geld nicht reicht. Der <strong>Bestattungs-Planer</strong> rechnet die Kosten durch und hält eigene Wünsche fest.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Hinterbliebene, die schnell entscheiden müssen</li>
-<li>Menschen, die ihre eigene Bestattung regeln wollen</li>
-<li>Familien, die Kosten vergleichen möchten</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Ein Todesfall ist eingetreten oder die Vorsorge soll geregelt werden</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Vorsorgevollmacht und Patientenverfügung, Vollmachten, Versicherungen) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Bestattung leicht gemacht – Ratgeber mit Bestattungs-Planer Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Der Ratgeber führt durch alle Entscheidungen: Bestattungsart, Grab, Kosten, Bestatter und Hilfen, wenn das Geld nicht reicht. Der Bestattungs-Planer rechnet die Kosten durch und hält eigene Wünsche fest. Die Zielgruppe Hinterbliebene, die schnell entscheiden müssen Menschen, die ihre eigene Bestattung regeln wollen Familien, die Kosten vergleichen möchten Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Ein Todesfall ist eingetreten oder die Vorsorge soll geregelt werden Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Vorsorgevollmacht und Patientenverfügung, Vollmachten, Versicherungen) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

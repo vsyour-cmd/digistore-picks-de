@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><span style="background-color:#ffff00;"><em><strong>Chat GPT - Dein Anfänger Guide</strong></em></span></div>
-<div> </div>
-<div><em><strong>✅ </strong>Deine Community erhält die profitabelsten Strategien zum Geld verdienen im Internet mit Chat GPT.</em></div>
-<div> </div>
-<div><em><strong>✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet</strong></em></div>
-<div><br /><span style="background-color:#ffff00;"><em><strong>Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm...</strong></em></span></div>
-<div> </div>
-<div><em><strong>Du kannst durch Upsells und AddOn bis zu 173 Euro</strong></em></div>
+**Vendor's marketplace description:** Chat GPT - Dein Anfänger Guide ✅ Deine Community erhält die profitabelsten Strategien zum Geld verdienen im Internet mit Chat GPT. ✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm... Du kannst durch Upsells und AddOn bis zu 173 Euro
 
 ## 2. Links
 

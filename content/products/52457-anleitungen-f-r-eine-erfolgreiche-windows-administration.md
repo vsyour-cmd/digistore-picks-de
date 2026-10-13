@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Für wen ist das E-Book</strong></h2>
-<p>Dieses E-Book richtet sich an alle Administratoren und Windows-Enthusiasten, die ihr Grundlagenwissen erweitern oder auch weiter vertiefen möchten.</p>
-<h2><strong>Aus dem Inhalt</strong></h2>
-<p>Inhaltlich werden viele Bereiche betrachtet, welche bei der täglichen Administration auftauchen. Es wurde dabei immer versucht, die Sachverhalte und Konfigurationen so einfach wie möglich zu erläutern.</p>
-<p>Die Anleitungen kannst du sofort selbst durchführen. Sie wurden dabei jeweils mit dem <strong>Windows 11</strong> oder <strong>Windows 10</strong> Betriebssystem erstellt.</p>
-<p>Viele der Konfigurationen sind aber auch auf Windows-Server-Betriebssystemen anwendbar, wie z. B. dem <strong>Windows Server 2025</strong>. </p>
-<p>→ <a href="https://it-learner.de/wp-content/uploads/2025/02/Die-wichtigsten-Anleitungen-fuer-eine-erfolgreiche-Windows-Administration-Leseprobe.pdf" target="_blank" rel="noreferrer noopener"><strong>Leseprobe aus dem E-Book </strong></a></p>
-<p><br />Die Anleitungen sind angelehnt an die beliebtesten Erklärungen auf <a href="https://it-learner.de/" target="_blank" rel="noreferrer noopener"><strong>IT-Learner.de</strong></a>.</p>
-<p>Dieses E-Book kann dir als Nachschlagewerk sowie auch als Wissensbasis im Bereich der Windows-Administration dienen.</p>
-<p><strong>→ <a href="https://it-learner.de/wp-content/uploads/2025/02/Inhaltsverzeichnis.png" target="_blank" rel="noreferrer noopener">Zum vollständigen Inhaltsverzeichnis</a></strong></p>
-<h2><strong>Themen sind u. a. folgende: </strong></h2>
-<ul>
-<li>Systeminformationen auslesen</li>
-<li>Festplattenkonfiguration</li>
-<li>Netzwerkkonfiguration</li>
-<li>BitLocker Verschlüsselung</li>
-<li>Automatisierung mit der Aufgabenplanung</li>
-<li>Benutzerverwaltung </li>
-<li>u. v. m.</li>
-</ul>
-<p>Das E-Book umfasst <strong>75 Seiten</strong> mit <strong>drei Befehlsreferenzen</strong> zu den wichtigen Windows-Kurzbefehlen. </p>
+**Vendor's marketplace description:** Für wen ist das E-Book Dieses E-Book richtet sich an alle Administratoren und Windows-Enthusiasten, die ihr Grundlagenwissen erweitern oder auch weiter vertiefen möchten. Aus dem Inhalt Inhaltlich werden viele Bereiche betrachtet, welche bei der täglichen Administration auftauchen. Es wurde dabei immer versucht, die Sachverhalte und Konfigurationen so einfach wie möglich zu erläutern. Die Anleitungen kannst du sofort selbst durchführen. Sie wurden dabei jeweils mit dem Windows 11 oder Windows 10 Betriebssystem erstellt. Viele der Konfigurationen sind aber auch auf Windows-Server-Betriebssystemen anwendbar, wie z. B. dem Windows Server 2025 . → Leseprobe aus dem E-Book Die Anleitungen sind angelehnt an die beliebtesten Erklärungen auf IT-Learner.de . Dieses E-Book kann dir als Nachschlagewerk sowie auch als Wissensbasis im Bereich der Windows-Administration dienen. → Zum vollständigen Inhaltsverzeichnis Themen sind u. a. folgende: Systeminformationen auslesen Festplattenkonfiguration Netzwerkkonfiguration BitLocker Verschlüsselung Automatisierung mit der Aufgabenplanung Benutzerverwaltung u. v. m. Das E-Book umfasst 75 Seiten mit drei Befehlsreferenzen zu den wichtigen Windows-Kurzbefehlen.
 
 ## 2. Links
 

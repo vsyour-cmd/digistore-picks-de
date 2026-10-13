@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Kongress für menschliche Medizin - Autoimmunerkrankungen</h1>
-<p>Das Paket enthält die Aufzeichnung der Vorträge <strong>beider Kongresstage</strong> (14.04.2018 - 15.04.2018) als <strong>Video-Download in HD-Qualität</strong> (mp4)</p>
-<h2>Die Vorträge</h2>
-<ol><li><strong>Übersicht Autoimmunerkrankungen</strong><br /> B. König, Magdeburg</li>
-<li><strong>Vitamin D and Immune System</strong><br /> M. Holick, Boston - USA (Vortrag in Englisch)</li>
-<li><strong>Vitamin D Rezeptor Funktionen und Vitamin D-Sensitivität</strong><br /> C. Carlberg, Kuopio - Finnland</li>
-<li><strong>High doses vitamin D therapy – Protocol and results</strong><br />CG Coimbra, São Paulo - Brasilien (Vortrag in Englisch, Aufzeichnung vom <strong>1. International Workshop on Vitamin D Sensitivity and High Dose Vitamin D Therapy</strong>)</li>
-<li><strong>Umsetzung des Coimbra-Protokolls für Patienten</strong><br /> Ch. Kiening, Gräfelfing</li>
-<li><strong>Autoimmunerkrankungen und die 2. Evolution des Menschen</strong><br /> J. Spitz, Schlangenbad/ Wiesbaden</li>
-<li><strong>Integrative Therapie bei Autoimmunerkrankungen</strong><br /> J. Jonescu, Neukirchen</li>
-<li><strong>Autoimmunerkrankungen der Haut</strong><br /> U. Amon, Hohenstadt</li>
-<li><strong>Therapeutische Alternativen bei Autoimmunerkrankungen</strong><br /> B. Lemke, Heidelberg</li>
-<li><strong>Labormethoden bei Autoimmunerkrankungen</strong><br /> W. Bieger, München</li>
-<li><strong>Mikronährstoffe bei Autoimmunerkrankungen</strong><br /> U. Gröber, Essen</li>
-<li><strong>Hashimoto Thyreoiditis als autoimmune Systemerkrankung</strong><br /> L. Schomburg, Berlin</li>
-<li><strong>Öko-Psychosomatik: Der Einfluss des Waldes auf unser Immunsystem</strong><br /> Clemens G. Arvay, Wien - Österreich</li>
-<li><strong>Stress und Autoimmunität</strong><br /> A. Wolf, Ulm</li>
-<li><strong>Körperliche Aktivität und Immunsystem</strong><br /> P. Zimmer, Köln</li>
-<li><strong>Autoimmunerkrankungen des Darmes/Stuhltransplantation</strong><br /> M. Vehreschild, Köln</li>
-<li><strong>Die Wirkung von Singen und Musik auf das Immunsystem</strong><br /> E. Wünnenberg, Scheidegg</li>
-<li><strong>Omega 3 Fettsäuren bei Autoimmunerkrankungen</strong><br /> V. Schmiedel, Baar - Schweiz</li>
-<li><strong>Synopsis und Perspektiven</strong><br /> J. Spitz, Schlangenbad</li>
-</ol>
+**Vendor's marketplace description:** Kongress für menschliche Medizin - Autoimmunerkrankungen Das Paket enthält die Aufzeichnung der Vorträge beider Kongresstage (14.04.2018 - 15.04.2018) als Video-Download in HD-Qualität (mp4) Die Vorträge Übersicht Autoimmunerkrankungen B. König, Magdeburg Vitamin D and Immune System M. Holick, Boston - USA (Vortrag in Englisch) Vitamin D Rezeptor Funktionen und Vitamin D-Sensitivität C. Carlberg, Kuopio - Finnland High doses vitamin D therapy – Protocol and results CG Coimbra, São Paulo - Brasilien (Vortrag in Englisch, Aufzeichnung vom 1. International Workshop on Vitamin D Sensitivity and High Dose Vitamin D Therapy ) Umsetzung des Coimbra-Protokolls für Patienten Ch. Kiening, Gräfelfing Autoimmunerkrankungen und die 2. Evolution des Menschen J. Spitz, Schlangenbad/ Wiesbaden Integrative Therapie bei Autoimmunerkrankungen J. Jonescu, Neukirchen Autoimmunerkrankungen der Haut U. Amon, Hohenstadt Therapeutische Alternativen bei Autoimmunerkrankungen B. Lemke, Heidelberg Labormethoden bei Autoimmunerkrankungen W. Bieger, München Mikronährstoffe bei Autoimmunerkrankungen U. Gröber, Essen Hashimoto Thyreoiditis als autoimmune Systemerkrankung L. Schomburg, Berlin Öko-Psychosomatik: Der Einfluss des Waldes auf unser Immunsystem Clemens G. Arvay, Wien - Österreich Stress und Autoimmunität A. Wolf, Ulm Körperliche Aktivität und Immunsystem P. Zimmer, Köln Autoimmunerkrankungen des Darmes/Stuhltransplantation M. Vehreschild, Köln Die Wirkung von Singen und Musik auf das Immunsystem E. Wünnenberg, Scheidegg Omega 3 Fettsäuren bei Autoimmunerkrankungen V. Schmiedel, Baar - Schweiz Synopsis und Perspektiven J. Spitz, Schlangenbad
 
 ## 2. Links
 

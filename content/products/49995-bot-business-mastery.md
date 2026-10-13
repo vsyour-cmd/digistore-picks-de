@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Bot-Business Mastery</strong> –<br /><br /><strong>BEENDE DIE JAGT NACH LEADS, LASS SIE ZU DIR KOMMEN </strong><br /><br />Dieses innovative Programm entfaltet das volle Potenzial Deiner Kunden und ermöglicht es, <strong>in nur 30 Minuten einen perfekt funktionierenden Bot-Funnel aufzubauen</strong> – die Königsdisziplin für effizientes Lead-Sammeln!</p>
-<h3><strong>Vorteile für Deine Kunden:</strong></h3>
-<ul>
-<li><strong>Rasanter Einstieg:</strong> In nur 30 Minuten wird eein voll funktionsfähiger Funnel, der die Marketingprozesse nicht nur automatisiert, sondern auch beschleunigt aufgebaut.</li>
-</ul>
-<ul>
-<li><strong>Tiefes Wissen:</strong> Tief in die Welt der Bots eintauchen und entdecken, wie sie die Kundenkommunikation revolutionieren und die Effizienz auf ein neues Level heben.</li>
-</ul>
-<ul>
-<li><strong>Effektive Strategien:</strong> Erprobte Methoden zur kontinuierlichen und automatisierten Generierung qualifizierter Leads aufbauen, um das Netzwerk exponentiell zu erweitern.</li>
-</ul>
-<ul>
-<li><strong>Datenbasierte Optimierung:</strong> Jederzeit datengestützte Entscheidungen treffen, um die Prozesse zu verbessern und bessere Ergebnisse zu erzielen.<br /><br /></li>
-<li><strong>+Bonus 1:</strong> Handbuch – Einsatz von Chatbots – Verkaufsprozesse automatisieren</li>
-<li><strong>+ Bonus 2: 5000+ Social-Media Vorlagen (Instagram und Facebook)</strong>, die mit Canva ganz einfach angepasst werden können, zur Leadgenerierung.</li>
-<li><strong>+ Bonus 3: 199 Daily Hacks – Top aktuelle Tipps und Tricks</strong>, die täglich kostenlos an die E-Mail-Adresse des Kunden kommen.</li>
-</ul>
-<p><strong>Der Kurs kostet 27,90€ und Du bist am Add-On, so wie am kompletten Up- und Downsell mit <br />50% beteiligt.</strong><br /><strong>+ 15% Lifetime Provision.</strong><br /><br />115€ Provision beim Funnel-Durchlauf für Dich möglich. Funnel wird laufend erweitert und angepasst.<br /><br />Viel Erfolg und fette Beute!</p>
+**Vendor's marketplace description:** Bot-Business Mastery – BEENDE DIE JAGT NACH LEADS, LASS SIE ZU DIR KOMMEN Dieses innovative Programm entfaltet das volle Potenzial Deiner Kunden und ermöglicht es, in nur 30 Minuten einen perfekt funktionierenden Bot-Funnel aufzubauen – die Königsdisziplin für effizientes Lead-Sammeln! Vorteile für Deine Kunden: Rasanter Einstieg: In nur 30 Minuten wird eein voll funktionsfähiger Funnel, der die Marketingprozesse nicht nur automatisiert, sondern auch beschleunigt aufgebaut. Tiefes Wissen: Tief in die Welt der Bots eintauchen und entdecken, wie sie die Kundenkommunikation revolutionieren und die Effizienz auf ein neues Level heben. Effektive Strategien: Erprobte Methoden zur kontinuierlichen und automatisierten Generierung qualifizierter Leads aufbauen, um das Netzwerk exponentiell zu erweitern. Datenbasierte Optimierung: Jederzeit datengestützte Entscheidungen treffen, um die Prozesse zu verbessern und bessere Ergebnisse zu erzielen. +Bonus 1: Handbuch – Einsatz von Chatbots – Verkaufsprozesse automatisieren + Bonus 2: 5000+ Social-Media Vorlagen (Instagram und Facebook) , die mit Canva ganz einfach angepasst werden können, zur Leadgenerierung. + Bonus 3: 199 Daily Hacks – Top aktuelle Tipps und Tricks , die täglich kostenlos an die E-Mail-Adresse des Kunden kommen. Der Kurs kostet 27,90€ und Du bist am Add-On, so wie am kompletten Up- und Downsell mit 50% beteiligt. + 15% Lifetime Provision. 115€ Provision beim Funnel-Durchlauf für Dich möglich. Funnel wird laufend erweitert und angepasst. Viel Erfolg und fette Beute!
 
 ## 2. Links
 

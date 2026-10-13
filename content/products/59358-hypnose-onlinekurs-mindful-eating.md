@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Nachhaltig Abnehmen mit der vollen Power des Unterbewusstseins</h3>
-<p>Mit diesem Hypnose-Onlinekurs von Pet Anthony können die Kunden mit der Kraft der Hypnose lernen  bewusst zu Essen und gesund und nachhaltig Abnehmen. </p>
-<div>
-<p>Die Hypnose bewirkt, daß das Unterbewusstsein über das Vorhaben informiert wird und optimal beim Abnehmen unterstützen kann.  </p>
-</div>
-<div>
-<div> </div>
-</div>
-<p>Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.</p>
+**Vendor's marketplace description:** Nachhaltig Abnehmen mit der vollen Power des Unterbewusstseins Mit diesem Hypnose-Onlinekurs von Pet Anthony können die Kunden mit der Kraft der Hypnose lernen bewusst zu Essen und gesund und nachhaltig Abnehmen. Die Hypnose bewirkt, daß das Unterbewusstsein über das Vorhaben informiert wird und optimal beim Abnehmen unterstützen kann. Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.
 
 ## 2. Links
 

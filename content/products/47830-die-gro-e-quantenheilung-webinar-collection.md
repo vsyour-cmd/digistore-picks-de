@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>27 Webinare rund um Quantenheilung im Einzelwert von über 1.500 € als Package für gerade einmal 597 € (Du sparst über 60%)</strong></p>
+**Vendor's marketplace description:** 27 Webinare rund um Quantenheilung im Einzelwert von über 1.500 € als Package für gerade einmal 597 € (Du sparst über 60%)
 
 ## 2. Links
 

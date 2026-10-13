@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>10 experimentelle Neurostreams™ gegen Lampenfieber.</p>
-<p><strong>Sofort-Download.</strong></p>
-<p>Jede dieser abwechslungsreichen 10 Selbstbehandlungen dauert 30 Minuten.</p>
-<p>Stereo-Kopfhörer empfohlen!</p>
-<p>Alle Neurostreams™ sind jederzeit auf <strong>unbegrenzt viele</strong> Geräte übertragbar und können <strong>beliebig oft</strong> angehört werden!</p>
-<p>Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux.</p>
-<p><em>Dateigröße: ca. 300 MB</em></p>
-<p><strong>2 Jahre</strong> Produktsupport inklusive.</p>
+**Vendor's marketplace description:** 10 experimentelle Neurostreams™ gegen Lampenfieber. Sofort-Download. Jede dieser abwechslungsreichen 10 Selbstbehandlungen dauert 30 Minuten. Stereo-Kopfhörer empfohlen! Alle Neurostreams™ sind jederzeit auf unbegrenzt viele Geräte übertragbar und können beliebig oft angehört werden! Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux. Dateigröße: ca. 300 MB 2 Jahre Produktsupport inklusive.
 
 ## 2. Links
 

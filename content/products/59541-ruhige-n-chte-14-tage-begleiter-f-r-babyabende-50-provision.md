@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>RUHIGERE BABYABENDE DURCH EINEN KLAREN, DRUCKFREIEN ABLAUF</p>
-<p>„Ruhige Nächte“ ist ein digitales Informations- und Organisationspaket für Eltern von Babys und Kleinkindern bis etwa 24 Monate. Es hilft Familien, einen verlässlichen Abendablauf aufzubauen und Beobachtungen über 14 Tage strukturiert festzuhalten.</p>
-<p>DAS ERHÄLT DER KUNDE<br />• 23-seitiger Ratgeber<br />• 35-seitiger 14-Tage-Begleiter<br />• 24 Ritualkarten<br />• 3-seitiger Schnellstart<br />• interaktive Begleitseite mit Ritualplaner, Protokoll und Übersicht<br />• sofortiger digitaler Download</p>
-<p>AFFILIATE-VORTEILE<br />• 50 % Provision je erfolgreichem Verkauf<br />• Einmalpreis 39,90 €, kein Abo<br />• emotionales, leicht verständliches Alltagsthema<br />• fertige Werbebilder und Textvorlagen<br />• Promolink-Generator und direkter Affiliate-Support<br />• sichere Bestellabwicklung über Digistore24</p>
-<p>Das Produkt ist kein Coaching, kein Fernunterricht und keine medizinische Beratung. Es verspricht weder Durchschlafen noch einen bestimmten Erfolg.</p>
+**Vendor's marketplace description:** RUHIGERE BABYABENDE DURCH EINEN KLAREN, DRUCKFREIEN ABLAUF „Ruhige Nächte“ ist ein digitales Informations- und Organisationspaket für Eltern von Babys und Kleinkindern bis etwa 24 Monate. Es hilft Familien, einen verlässlichen Abendablauf aufzubauen und Beobachtungen über 14 Tage strukturiert festzuhalten. DAS ERHÄLT DER KUNDE • 23-seitiger Ratgeber • 35-seitiger 14-Tage-Begleiter • 24 Ritualkarten • 3-seitiger Schnellstart • interaktive Begleitseite mit Ritualplaner, Protokoll und Übersicht • sofortiger digitaler Download AFFILIATE-VORTEILE • 50 % Provision je erfolgreichem Verkauf • Einmalpreis 39,90 €, kein Abo • emotionales, leicht verständliches Alltagsthema • fertige Werbebilder und Textvorlagen • Promolink-Generator und direkter Affiliate-Support • sichere Bestellabwicklung über Digistore24 Das Produkt ist kein Coaching, kein Fernunterricht und keine medizinische Beratung. Es verspricht weder Durchschlafen noch einen bestimmten Erfolg.
 
 ## 2. Links
 

@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><span style="color:#3366ff;">EPC Community Abo: Über 50 Mitglieder im 1. Monat!</span></h3>
-<p><strong>Produkt-Highlight: </strong>Wie ich 868 € in 1 Woche mit 3 E-Mail-Swipes machte. Jede Woche exakte Praxis-Mails, Live-Zahlen &amp; KI-Prompts für echte Sales 2026. Einloggen, anpassen, abschicken!</p>
-<h3><span style="color:#3366ff;">Deine Vorteile als Affiliate:</span></h3>
-<p>✔ <strong>100% passend:</strong> Hilft jedem Affiliate oder Online-Marketer extrem beim Geld verdienen mit E-Mail-Marketing.</p>
-<p>✔ <strong>Fette Provisionen:</strong> 40% Abo-Provision (+ Jahresplan = hoher Sofort-Verdienst) <strong>PLUS 50-100% Upsell-Provision</strong> (bis zu 100 €/Sale!).</p>
-<p>✔ <strong>Conversion-Booster:</strong> <strong>Kostenlose 7-Tage-Testversion + Challenge sichert mehr Abos &amp; CLV</strong>! Selbst testen und 100% ehrlich weiterempfehlen.</p>
-<p>✔ <strong>Affiliate</strong> <strong>Wettbewerb + Cashbonus</strong></p>
-<p>✔ <strong><a href="https://chrisboenig.com/epc-partner/" target="_blank" rel="noreferrer noopener">Große Auswahl optimierter Werbemittel</a>:</strong> klickstarke Bild- &amp; Emailvorlagen, die mir selbst die höchsten Umsätze brachten.</p>
-<h3><span style="color:#3366ff;">Deine Verdienstaussicht (Abo + Upsells):</span></h3>
-<ul>
-<li>
-<p><strong>1 Verkauf:</strong> ca. 28,18 € Netto-Verdienst</p>
-</li>
-<li>
-<p><strong>100 Verkäufe:</strong> ca. 2.818,00 € Netto-Verdienst</p>
-</li>
-</ul>
-<p>Klicke jetzt auf <strong>„Jetzt promoten“</strong> für dein stabiles Abo-Einkommen 2026-2030+!</p>
-<p><span style="background-color:#3366ff;"><a style="background-color:#3366ff;" href="https://chrisboenig.com/epc-partner/" target="_blank" rel="noreferrer noopener"><strong><span style="color:#ffffff;">Alle Vorlagen &amp; Infos auf der Partnerseite hier ▶</span></strong></a></span></p>
+**Vendor's marketplace description:** EPC Community Abo: Über 50 Mitglieder im 1. Monat! Produkt-Highlight: Wie ich 868 € in 1 Woche mit 3 E-Mail-Swipes machte. Jede Woche exakte Praxis-Mails, Live-Zahlen & KI-Prompts für echte Sales 2026. Einloggen, anpassen, abschicken! Deine Vorteile als Affiliate: ✔ 100% passend: Hilft jedem Affiliate oder Online-Marketer extrem beim Geld verdienen mit E-Mail-Marketing. ✔ Fette Provisionen: 40% Abo-Provision (+ Jahresplan = hoher Sofort-Verdienst) PLUS 50-100% Upsell-Provision (bis zu 100 €/Sale!). ✔ Conversion-Booster: Kostenlose 7-Tage-Testversion + Challenge sichert mehr Abos & CLV ! Selbst testen und 100% ehrlich weiterempfehlen. ✔ Affiliate Wettbewerb + Cashbonus ✔ Große Auswahl optimierter Werbemittel : klickstarke Bild- & Emailvorlagen, die mir selbst die höchsten Umsätze brachten. Deine Verdienstaussicht (Abo + Upsells): 1 Verkauf: ca. 28,18 € Netto-Verdienst 100 Verkäufe: ca. 2.818,00 € Netto-Verdienst Klicke jetzt auf „Jetzt promoten“ für dein stabiles Abo-Einkommen 2026-2030+! Alle Vorlagen & Infos auf der Partnerseite hier ▶
 
 ## 2. Links
 

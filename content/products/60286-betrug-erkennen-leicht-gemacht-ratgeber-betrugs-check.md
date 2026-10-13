@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Betrug erkennen leicht gemacht – Ratgeber + Betrugs-Check</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Enkeltrick, Phishing und Fake-Shops: Betrüger werden immer geschickter. Der Ratgeber zeigt die häufigsten Maschen, wie man sie erkennt und was im Ernstfall zu tun ist, mit <strong>Betrugs-Check</strong>.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Senioren und ihre Angehörigen</li>
-<li>Online-Käufer</li>
-<li>Alle, die verdächtige Nachrichten bekommen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Eine verdächtige Nachricht oder ein Anruf ist eingegangen</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Ratgeber (KI für Senioren, Abo-Fallen und Online-Shopping, Konto und Bank, Digitaler Nachlass) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Betrug erkennen leicht gemacht – Ratgeber + Betrugs-Check Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Enkeltrick, Phishing und Fake-Shops: Betrüger werden immer geschickter. Der Ratgeber zeigt die häufigsten Maschen, wie man sie erkennt und was im Ernstfall zu tun ist, mit Betrugs-Check . Die Zielgruppe Senioren und ihre Angehörigen Online-Käufer Alle, die verdächtige Nachrichten bekommen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Eine verdächtige Nachricht oder ein Anruf ist eingegangen Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Ratgeber (KI für Senioren, Abo-Fallen und Online-Shopping, Konto und Bank, Digitaler Nachlass) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

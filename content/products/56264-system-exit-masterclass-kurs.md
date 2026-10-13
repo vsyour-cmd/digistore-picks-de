@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div><code>═══════════════════════════════════════════════════════════════════</code></div>
-</div>
-<div>
-<div><code><strong>SYSTEM-EXIT MASTERCLASS</strong></code></div>
-</div>
-<div>
-<div><code>WERDE AFFILIATE-PARTNER &amp; VERDIENE 500€+ PRO SALE</code></div>
-</div>
-<div>
-<div><code>═══════════════════════════════════════════════════════════════════</code></div>
-</div>
-<div>
-<div><code> </code></div>
-</div>
-<div>
-<div><code>Willkommen im Affiliate-Programm! 
+**Vendor's marketplace description:** ═══════════════════════════════════════════════════════════════════ SYSTEM-EXIT MASTERCLASS WERDE AFFILIATE-PARTNER & VERDIENE 500€+ PRO SALE ═══════════════════════════════════════════════════════════════════ Willkommen im Affiliate-Programm!
 
 ## 2. Links
 

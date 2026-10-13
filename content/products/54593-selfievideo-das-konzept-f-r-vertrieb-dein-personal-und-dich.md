@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das Konzept für Vertrieb, Dein Personal und Dich. </strong><strong>Für Selbstständige und KMU.</strong><br /><br />Zeitgleich sympathische Kunden gewinnen, die Dich schon gekauft haben, während Du Dich um Dein Business kümmerst. Oder als KMU Deine Personalgewinnung, die Loyalität, die Schulungen und das Marketing verbesserst. <strong>Einmal aufnehmen, tausende Male nutzen.</strong> Dein DSGVO-konformes Tool als Business Lösung für Selbermacher oder mit Experten Hilfe.</p>
+**Vendor's marketplace description:** Das Konzept für Vertrieb, Dein Personal und Dich. Für Selbstständige und KMU. Zeitgleich sympathische Kunden gewinnen, die Dich schon gekauft haben, während Du Dich um Dein Business kümmerst. Oder als KMU Deine Personalgewinnung, die Loyalität, die Schulungen und das Marketing verbesserst. Einmal aufnehmen, tausende Male nutzen. Dein DSGVO-konformes Tool als Business Lösung für Selbermacher oder mit Experten Hilfe.
 
 ## 2. Links
 

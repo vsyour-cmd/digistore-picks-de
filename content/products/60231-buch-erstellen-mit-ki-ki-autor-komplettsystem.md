@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div style="font-family:Lora, Georgia, serif;color:#2f343b;font-size:18px;line-height:1.5;text-align:justify;">
-<h2 style="margin:0px 0px 10px;color:#000080;font-family:Arial, Helvetica, sans-serif;font-size:26px;line-height:1.15;font-weight:bold;text-align:left;"><span style="color:#000080;">Buch erstellen mit KI – KI-Autor Komplettsystem</span></h2>
-<p style="margin:0 0 14px 0;">Bewirb ein vollständiges <strong>KI-gestütztes System zur Erstellung von Krimi/Thriller und Sachbuch/Ratgeber</strong>. Mitglieder werden Schritt für Schritt von der ersten Buchidee über Fragen, Zusammenfassungen und Kapitelplanung bis zur Erstellung kompletter Kapiteltexte geführt.</p>
-<p style="margin:0 0 10px 0;font-family:Arial, Helvetica, sans-serif;font-weight:bold;">Der Mitgliederbereich umfasst unter anderem:</p>
-<div style="margin:0 0 14px 0;">
-<div style="margin:3px 0;"><span style="color:#22a447;font-weight:bold;">✓</span> KI-gestützte Buchplanung</div>
-<div style="margin:3px 0;"><span style="color:#22a447;font-weight:bold;">✓</span> Krimi/Thriller und Sachbuch/Ratgeber</div>
-<div style="margin:3px 0;"><span style="color:#22a447;font-weight:bold;">✓</span> Geführte Fragen zur Entwicklung des Buchprojekts</div>
-<div style="margin:3px 0;"><span style="color:#22a447;font-weight:bold;">✓</span> Automatische Zusammenfassungen</div>
-<div style="margin:3px 0;"><span style="color:#22a447;font-weight:bold;">✓</span> Kapitelplanung und Kapitelbeschreibungen</div>
-<div style="margin:3px 0;"><span style="color:#22a447;font-weight:bold;">✓</span> Erstellung kompletter Kapiteltexte mit KI</div>
-<div style="margin:3px 0;"><span style="color:#22a447;font-weight:bold;">✓</span> Manuskript und Buchgestaltung</div>
-<div style="margin:3px 0;"><span style="color:#22a447;font-weight:bold;">✓</span> Veröffentlichung und Amazon KDP</div>
-</div>
-<p style="margin:0 0 12px 0;">Das Angebot richtet sich sowohl an Menschen, die <strong>erstmals ein eigenes Buch schreiben möchten</strong>, als auch an Autoren und Selfpublisher, die Bücher gezielt zur Veröffentlichung erstellen wollen.</p>
-<p style="margin:0 0 12px 0;font-family:Arial, Helvetica, sans-serif;font-weight:bold;">Verkaufspreis: 149 € einmalig.</p>
-<p style="margin:0;">Das Thema verbindet <strong>KI, Schreiben, Selfpublishing und digitales Einkommen</strong> und eignet sich daher besonders für Zielgruppen rund um künstliche Intelligenz, Online-Business, Autoren, Amazon KDP und digitale Produkte.</p>
-</div>
+**Vendor's marketplace description:** Buch erstellen mit KI – KI-Autor Komplettsystem Bewirb ein vollständiges KI-gestütztes System zur Erstellung von Krimi/Thriller und Sachbuch/Ratgeber . Mitglieder werden Schritt für Schritt von der ersten Buchidee über Fragen, Zusammenfassungen und Kapitelplanung bis zur Erstellung kompletter Kapiteltexte geführt. Der Mitgliederbereich umfasst unter anderem: ✓ KI-gestützte Buchplanung ✓ Krimi/Thriller und Sachbuch/Ratgeber ✓ Geführte Fragen zur Entwicklung des Buchprojekts ✓ Automatische Zusammenfassungen ✓ Kapitelplanung und Kapitelbeschreibungen ✓ Erstellung kompletter Kapiteltexte mit KI ✓ Manuskript und Buchgestaltung ✓ Veröffentlichung und Amazon KDP Das Angebot richtet sich sowohl an Menschen, die erstmals ein eigenes Buch schreiben möchten , als auch an Autoren und Selfpublisher, die Bücher gezielt zur Veröffentlichung erstellen wollen. Verkaufspreis: 149 € einmalig. Das Thema verbindet KI, Schreiben, Selfpublishing und digitales Einkommen und eignet sich daher besonders für Zielgruppen rund um künstliche Intelligenz, Online-Business, Autoren, Amazon KDP und digitale Produkte.
 
 ## 2. Links
 

@@ -41,43 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die Medizinisch-Psychologische Untersuchung (MPU) ist für viele der letzte Schritt, um den Führerschein zurückzubekommen – doch ohne richtige Vorbereitung fallen viele Teilnehmer durch.</p>
-<p>Dieses E-Book zeigt dir <strong>klar und verständlich</strong>, wie du dich optimal auf die MPU vorbereitest und typische Fehler vermeidest.</p>
-<p>Du lernst unter anderem:</p>
-<ul>
-<li>
-<p>wie die MPU genau abläuft</p>
-</li>
-<li>
-<p>welche Fragen Gutachter im Gespräch stellen</p>
-</li>
-<li>
-<p>wie du dich auf das psychologische Interview vorbereitest</p>
-</li>
-<li>
-<p>welche Nachweise und Unterlagen benötigt werden</p>
-</li>
-<li>
-<p>welche Fehler viele Teilnehmer machen – und wie du sie vermeidest</p>
-</li>
-</ul>
-<p>Der Leitfaden bietet eine <strong>strukturierte Vorbereitung auf alle wichtigen Bestandteile der MPU</strong> und hilft dir, sicher und vorbereitet in die Untersuchung zu gehen.</p>
-<p>Ideal für Personen mit MPU wegen:</p>
-<ul>
-<li>
-<p>Alkohol</p>
-</li>
-<li>
-<p>Drogen</p>
-</li>
-<li>
-<p>Punkte in Flensburg</p>
-</li>
-<li>
-<p>Verkehrsdelikten</p>
-</li>
-</ul>
-<p>Mit der richtigen Vorbereitung steigen deine Chancen deutlich, <strong>ein positives Gutachten zu erhalten und deinen Führerschein zurückzubekommen</strong>.</p>
+**Vendor's marketplace description:** Die Medizinisch-Psychologische Untersuchung (MPU) ist für viele der letzte Schritt, um den Führerschein zurückzubekommen – doch ohne richtige Vorbereitung fallen viele Teilnehmer durch. Dieses E-Book zeigt dir klar und verständlich , wie du dich optimal auf die MPU vorbereitest und typische Fehler vermeidest. Du lernst unter anderem: wie die MPU genau abläuft welche Fragen Gutachter im Gespräch stellen wie du dich auf das psychologische Interview vorbereitest welche Nachweise und Unterlagen benötigt werden welche Fehler viele Teilnehmer machen – und wie du sie vermeidest Der Leitfaden bietet eine strukturierte Vorbereitung auf alle wichtigen Bestandteile der MPU und hilft dir, sicher und vorbereitet in die Untersuchung zu gehen. Ideal für Personen mit MPU wegen: Alkohol Drogen Punkte in Flensburg Verkehrsdelikten Mit der richtigen Vorbereitung steigen deine Chancen deutlich, ein positives Gutachten zu erhalten und deinen Führerschein zurückzubekommen .
 
 ## 2. Links
 

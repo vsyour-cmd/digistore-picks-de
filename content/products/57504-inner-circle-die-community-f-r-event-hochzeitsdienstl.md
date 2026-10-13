@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Eventworker Inner Circle</strong></p>
-<p>12 Monate Zugang zur Community &amp; Coaching-Plattform für Hochzeits- und Eventdienstleister – mit SEO-Strategien, smarten Tools und einem starken Branchen-Netzwerk.</p>
-<p><strong>Das bekommst du:</strong></p>
-<ul>
-<li>Website-Audit zu SEO &amp; KI-Sichtbarkeit</li>
-<li>Smarte Tools &amp; Workflows zur Zeitersparnis im Event-Alltag</li>
-<li>Strategien für effektive Kundenakquise &amp; selbstbewusste Preisdurchsetzung</li>
-<li>Monatliche Live-Strategie-Calls mit Website-Optimierung</li>
-<li>Mediathek mit Call-Aufzeichnungen, SEO-Vorlagen &amp; Tool-Empfehlungen</li>
-<li>Netzwerk aus DJs, Traurednern, Fotografen, Hochzeits- &amp; Eventplanern zur gegenseitigen Auftragsvermittlung</li>
-</ul>
-<p><strong>Garantie:</strong> 14 Tage Geld-zurück</p>
-<p><strong>Ideal für dich, wenn du:</strong></p>
-<ul>
-<li>als Event- oder Hochzeitsdienstleister mehr Sichtbarkeit bei Google &amp; KI-Suchen willst</li>
-<li>deinen Kundengewinnungsprozess automatisieren und Zeit sparen willst</li>
-<li>dich mit Branchenkollegen vernetzen und Aufträge weitervermitteln willst</li>
-</ul>
-<p><strong>Hinweis:</strong> Jahresmitgliedschaft, verlängert sich automatisch, wenn nicht gekündigt wird.</p>
+**Vendor's marketplace description:** Eventworker Inner Circle 12 Monate Zugang zur Community & Coaching-Plattform für Hochzeits- und Eventdienstleister – mit SEO-Strategien, smarten Tools und einem starken Branchen-Netzwerk. Das bekommst du: Website-Audit zu SEO & KI-Sichtbarkeit Smarte Tools & Workflows zur Zeitersparnis im Event-Alltag Strategien für effektive Kundenakquise & selbstbewusste Preisdurchsetzung Monatliche Live-Strategie-Calls mit Website-Optimierung Mediathek mit Call-Aufzeichnungen, SEO-Vorlagen & Tool-Empfehlungen Netzwerk aus DJs, Traurednern, Fotografen, Hochzeits- & Eventplanern zur gegenseitigen Auftragsvermittlung Garantie: 14 Tage Geld-zurück Ideal für dich, wenn du: als Event- oder Hochzeitsdienstleister mehr Sichtbarkeit bei Google & KI-Suchen willst deinen Kundengewinnungsprozess automatisieren und Zeit sparen willst dich mit Branchenkollegen vernetzen und Aufträge weitervermitteln willst Hinweis: Jahresmitgliedschaft, verlängert sich automatisch, wenn nicht gekündigt wird.
 
 ## 2. Links
 

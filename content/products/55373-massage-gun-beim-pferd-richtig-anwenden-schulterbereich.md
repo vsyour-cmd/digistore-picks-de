@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Verspannungen in Schulter und Vorhand lösen und die Bewegungsqualität verbessern.</h3>
-<p><strong>Gezielte Massage-Gun-Anwendung für Schulter &amp; Vorhand</strong></p>
-<ul>
-<li>Klare Punkte, klare Reihenfolge, sofort umsetzbar</li>
-<li>Ideal bei Taktfehlern, Stolpern und fehlender Schulterfreiheit</li>
-<li>Perfekt für Trainer &amp; Pferdebesitzer</li>
-<li>Unterstützt Losgelassenheit, Vorwärts-Abwärts und Aktivität</li>
-</ul>
-<p><strong>50 % Provision auf den Kurs + 70 % auf den Komplettkurs-Upsell.</strong></p>
+**Vendor's marketplace description:** Verspannungen in Schulter und Vorhand lösen und die Bewegungsqualität verbessern. Gezielte Massage-Gun-Anwendung für Schulter & Vorhand Klare Punkte, klare Reihenfolge, sofort umsetzbar Ideal bei Taktfehlern, Stolpern und fehlender Schulterfreiheit Perfekt für Trainer & Pferdebesitzer Unterstützt Losgelassenheit, Vorwärts-Abwärts und Aktivität 50 % Provision auf den Kurs + 70 % auf den Komplettkurs-Upsell.
 
 ## 2. Links
 

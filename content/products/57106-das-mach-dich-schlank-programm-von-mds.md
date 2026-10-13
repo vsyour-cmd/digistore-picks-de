@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das Mach dich schlank Programm über VSL</strong></p>
-<p>Natürlich, gesund und nachhaltig abnehmen, das ist unser Mach dich schlank Programm.</p>
-<p>Hierbei werden die Basics einer gesunden ausgewogenen Ernährung vermittelt inklusive 3 Schnupperworkouts für zu Hause und Rezepte für jeden Tagesabschnitt. Es kostet 37 Euro</p>
-<p>Nach dem Kauf wird der Kunde zum 30 Tage-Abnehmturbo Upsell für einmalig 67 Euro weitergeleitet.</p>
-<p>Dieses ermöglicht ihm einen noch schnelleren Abnehmerfolg. Es beeinhaltet ein ausführliches Fitnessprogramm, das einfach von zu Hause aus ohne Geräte und ohne viel Platz durchgeführt werden kann. Als Bonus sind weitere Rezepte sowie ein Erfolgs-Mindset-Kurs mit dabei.</p>
-<p>Sollte der Upsell1 verneint werden geht es weiter zum Downsell 1, dort hat der Kunde die Möglichkeit den 30 Tage Abnehmturbo 14 Tage lang für 0 Euro zu testen und erst danach die 67 Euro zu zahlen.</p>
-<p>Zu guter letzt wird der Kunde zum zweiten Upsell für 67 Euro weitergeleitet, dem 30 Tage Bauchstraffer. In diesem Kurs geht es rund um die Hautstraffung nach dem Abnehmen inklusive Anti Aging Kurs und speziellen körperstraffenden Übungen für zu Hause.</p>
-<p>Sollte der Upsell2 verneint werden geht es weiter zum Downsell 2, dort hat der Kunde die Möglichkeit den 30 Tage Bauchstraffer 14 Tage lang für 0 Euro zu testen und erst danach die 67 Euro zu zahlen.</p>
-<p>Bewirb jetzt das Mach dich schlank Programm inklusive der beiden Upsells/Downsells und erhalte auf jeden Verkauf jeweils 75% Provision.  </p>
-<h4>Digistore24 Affiliatebereich: </h4>
-<h4><strong><a href="Digistore24%20Affiliatebereich%3A%C2%A0%20https%3A//www.digistore24-app.com/account/partnerarea/165719/de" target="_blank" rel="noreferrer noopener">https://www.digistore24-app.com/account/partnerarea/165719/de</a></strong></h4>
+**Vendor's marketplace description:** Das Mach dich schlank Programm über VSL Natürlich, gesund und nachhaltig abnehmen, das ist unser Mach dich schlank Programm. Hierbei werden die Basics einer gesunden ausgewogenen Ernährung vermittelt inklusive 3 Schnupperworkouts für zu Hause und Rezepte für jeden Tagesabschnitt. Es kostet 37 Euro Nach dem Kauf wird der Kunde zum 30 Tage-Abnehmturbo Upsell für einmalig 67 Euro weitergeleitet. Dieses ermöglicht ihm einen noch schnelleren Abnehmerfolg. Es beeinhaltet ein ausführliches Fitnessprogramm, das einfach von zu Hause aus ohne Geräte und ohne viel Platz durchgeführt werden kann. Als Bonus sind weitere Rezepte sowie ein Erfolgs-Mindset-Kurs mit dabei. Sollte der Upsell1 verneint werden geht es weiter zum Downsell 1, dort hat der Kunde die Möglichkeit den 30 Tage Abnehmturbo 14 Tage lang für 0 Euro zu testen und erst danach die 67 Euro zu zahlen. Zu guter letzt wird der Kunde zum zweiten Upsell für 67 Euro weitergeleitet, dem 30 Tage Bauchstraffer. In diesem Kurs geht es rund um die Hautstraffung nach dem Abnehmen inklusive Anti Aging Kurs und speziellen körperstraffenden Übungen für zu Hause. Sollte der Upsell2 verneint werden geht es weiter zum Downsell 2, dort hat der Kunde die Möglichkeit den 30 Tage Bauchstraffer 14 Tage lang für 0 Euro zu testen und erst danach die 67 Euro zu zahlen. Bewirb jetzt das Mach dich schlank Programm inklusive der beiden Upsells/Downsells und erhalte auf jeden Verkauf jeweils 75% Provision. Digistore24 Affiliatebereich: https://www.digistore24-app.com/account/partnerarea/165719/de
 
 ## 2. Links
 

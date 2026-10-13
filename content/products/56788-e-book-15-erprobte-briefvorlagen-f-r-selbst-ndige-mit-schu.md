@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>„Stundung statt Insolvenz" ist ein 146-seitiges E-Book mit 15 praxiserprobten Anschreiben (bearbeitbare DOCX) und 4 Bonus-Werkzeugen. Es zeigt Selbständigen, Freiberuflern und Gewerbetreibenden Schritt für Schritt, wie sie Steuerschulden stunden, Raten verhandeln und Forderungen herabsetzen – ohne Anwalt. Geschrieben von Mario Reinwarth aus 6 Jahren eigener Verhandlungspraxis mit Finanzamt, Stadtkasse, Gewerbeamt und Krankenkasse.</p>
-<p>Verkaufspreis: <strong>27 €</strong> (einmalig) · optionales Hörbuch-Upsell <strong>9,90 €</strong> · Gesamt-Inhaltswert lt. Verkaufsseite ca. 345 €.</p>
-<p><strong>Warum sich das Bewerben lohnt:</strong></p>
-<ul>
-<li><strong>Riesige, unterversorgte Zielgruppe:</strong> Über 3 Mio. Selbständige in Deutschland – und genau diese werden von kostenlosen Beratungsstellen (Diakonie, Caritas, DRK) regelmäßig abgelehnt, weil sie „nur Privatpersonen" beraten. Es gibt kaum Wettbewerb für dieses spezifische Problem.</li>
-<li><strong>Echter, akuter Schmerz:</strong> Briefe vom Finanzamt, Pfändungsandrohung, Krankenkassen-Rückstände. Hohe Dringlichkeit = hohe Conversion.</li>
-<li><strong>Niedrige Kaufhürde:</strong> 27 € statt 200 € Anwalts-Erstberatung oder 2.500–5.000 € Schuldenberatung. Leicht zu rechtfertigender Impulskauf.</li>
-<li><strong>Conversion-Booster eingebaut:</strong> 30 Tage Geld-zurück-Garantie ohne Begründung + Sofort-Download als PDF.</li>
-<li><strong>Zusätzliche Earnings durch Upsell:</strong> Hörbuch-Bestseller im Bundle, plus Anbindung an das SchuldenPilot-SaaS (Folgeprodukt) im Bonusbereich.</li>
-<li><strong>Evergreen-Nische:</strong> Steuer- und Schuldenthemen sind ganzjährig nachgefragt, krisenresistent und nicht saisonabhängig.</li>
-</ul>
-<p><strong>Ideal für Affiliates mit Reichweite bei:</strong></p>
-<p>Selbständigen, Freelancern, Gründern, Solo-Unternehmern und Kleingewerbe – besonders in den Bereichen Finanzen, Steuern, Buchhaltung, Unternehmertum, Business-Coaching und Selbstständigkeits-Ratgeber. Funktioniert über Blog, Newsletter, YouTube, Social Media, Foren und Steuer-/Gründer-Communities.</p>
-<p><strong>Was der Käufer bekommt:</strong></p>
-<p>E-Book (PDF, 146 Seiten) · 15 erprobte Anschreiben (DOCX, bearbeitbar in Word &amp; Pages) · Bonus 1: Notfall-Checkliste „Die ersten 48 Stunden" · Bonus 2: Entscheidungsbaum „Welche Vorlage?" · Bonus 3: ausfüllbare Behörden-Datenbank · Bonus 4: Telefonskripte (9 Seiten) · kostenlose Updates bei Rechtsänderungen.</p>
-<hr />
-<h2>SEO-/Keyword-Hinweise für die Bewerbung</h2>
-<p>Schulden Selbständige · Steuerschulden Finanzamt · Stundung beantragen · Ratenzahlung Finanzamt · Insolvenz vermeiden Selbständige · Gewerbesteuer stunden · Krankenkasse Rückstände Selbständige · Pfändung abwenden · Musterbrief Finanzamt</p>
-<hr />
-<h2>Hinweise / Compliance für Affiliate-Werbung</h2>
-<ul>
-<li>Produkt ist <strong>keine Rechts- oder Steuerberatung im Sinne des RDG</strong> – Affiliates sollten es als Informations- und Selbsthilfe-Ratgeber bewerben, keine Heilsversprechen oder garantierten Ergebnisse kommunizieren.</li>
-<li>Einzelfall-Ergebnisse (z. B. „Schulden halbiert") nicht als garantiert darstellen.</li>
-<li>Audio-Version mit KI-Stimme (ElevenLabs) – bei Bewerbung des Hörbuchs ggf. erwähnen.</li>
-</ul>
+**Vendor's marketplace description:** „Stundung statt Insolvenz" ist ein 146-seitiges E-Book mit 15 praxiserprobten Anschreiben (bearbeitbare DOCX) und 4 Bonus-Werkzeugen. Es zeigt Selbständigen, Freiberuflern und Gewerbetreibenden Schritt für Schritt, wie sie Steuerschulden stunden, Raten verhandeln und Forderungen herabsetzen – ohne Anwalt. Geschrieben von Mario Reinwarth aus 6 Jahren eigener Verhandlungspraxis mit Finanzamt, Stadtkasse, Gewerbeamt und Krankenkasse. Verkaufspreis: 27 € (einmalig) · optionales Hörbuch-Upsell 9,90 € · Gesamt-Inhaltswert lt. Verkaufsseite ca. 345 €. Warum sich das Bewerben lohnt: Riesige, unterversorgte Zielgruppe: Über 3 Mio. Selbständige in Deutschland – und genau diese werden von kostenlosen Beratungsstellen (Diakonie, Caritas, DRK) regelmäßig abgelehnt, weil sie „nur Privatpersonen" beraten. Es gibt kaum Wettbewerb für dieses spezifische Problem. Echter, akuter Schmerz: Briefe vom Finanzamt, Pfändungsandrohung, Krankenkassen-Rückstände. Hohe Dringlichkeit = hohe Conversion. Niedrige Kaufhürde: 27 € statt 200 € Anwalts-Erstberatung oder 2.500–5.000 € Schuldenberatung. Leicht zu rechtfertigender Impulskauf. Conversion-Booster eingebaut: 30 Tage Geld-zurück-Garantie ohne Begründung + Sofort-Download als PDF. Zusätzliche Earnings durch Upsell: Hörbuch-Bestseller im Bundle, plus Anbindung an das SchuldenPilot-SaaS (Folgeprodukt) im Bonusbereich. Evergreen-Nische: Steuer- und Schuldenthemen sind ganzjährig nachgefragt, krisenresistent und nicht saisonabhängig. Ideal für Affiliates mit Reichweite bei: Selbständigen, Freelancern, Gründern, Solo-Unternehmern und Kleingewerbe – besonders in den Bereichen Finanzen, Steuern, Buchhaltung, Unternehmertum, Business-Coaching und Selbstständigkeits-Ratgeber. Funktioniert über Blog, Newsletter, YouTube, Social Media, Foren und Steuer-/Gründer-Communities. Was der Käufer bekommt: E-Book (PDF, 146 Seiten) · 15 erprobte Anschreiben (DOCX, bearbeitbar in Word & Pages) · Bonus 1: Notfall-Checkliste „Die ersten 48 Stunden" · Bonus 2: Entscheidungsbaum „Welche Vorlage?" · Bonus 3: ausfüllbare Behörden-Datenbank · Bonus 4: Telefonskripte (9 Seiten) · kostenlose Updates bei Rechtsänderungen. SEO-/Keyword-Hinweise für die Bewerbung Schulden Selbständige · Steuerschulden Finanzamt · Stundung beantragen · Ratenzahlung Finanzamt · Insolvenz vermeiden Selbständige · Gewerbesteuer stunden · Krankenkasse Rückstände Selbständige · Pfändung abwenden · Musterbrief Finanzamt Hinweise / Compliance für Affiliate-Werbung Produkt ist keine Rechts- oder Steuerberatung im Sinne des RDG – Affiliates sollten es als Informations- und Selbsthilfe-Ratgeber bewerben, keine Heilsversprechen oder garantierten Ergebnisse kommunizieren. Einzelfall-Ergebnisse (z. B. „Schulden halbiert") nicht als garantiert darstellen. Audio-Version mit KI-Stimme (ElevenLabs) – bei Bewerbung des Hörbuchs ggf. erwähnen.
 
 ## 2. Links
 

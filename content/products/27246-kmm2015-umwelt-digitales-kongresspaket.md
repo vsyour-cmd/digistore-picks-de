@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><strong>Kongress für menschliche Medizin - Umwelt im 3. Millenium</strong></h1>
-<p>Das Set enthält die Aufzeichnung der Vorträge <strong>beider Kongresstage (18.04.2015 - 19.04.2015) </strong>als Video-Download (mp4).</p>
-<h2><strong>Die Vorträge</strong></h2>
-<ol><li><strong>None-response auf Sport - Wie Gene die Effekte von Sport und Bewegung auf die Physiologie beeinflussen</strong> (Prof. Theodor Dingermann)</li>
-<li><strong>Alzheimer-Demenz - eine Umwelterkrankung?</strong> (Apotheker Uwe Gröber)</li>
-<li><strong>Diabetes adé - ein Paradigmenwechsel bei den Ernährungsempfehlungen für Diabetiker ist überfällig</strong> (Dr. med. Hardy Walle)</li>
-<li><strong>CFS - Umweltkrankheit oder Infektion?</strong> (PD Dr. med. Wilfried P. Bieger)</li>
-<li><strong>Spitzen-Prävention mit Holz als Baustoff</strong> (Ing. Dr. Erwin Thoma)</li>
-<li><strong>Unsere innere Umwelt - die extrazelluläre Matrix</strong> (Dr. med. Ulrich Randoll)</li>
-<li><strong>System-Prävention und Umweltmedizin</strong> (Prof. Dr. Jörg Spitz)</li>
-<li><strong>Resilienz in einer belasteten Umwelt</strong> (Prof. Dr. med. Alfred Wolf)</li>
-<li><strong>Hormone und Lifestyle</strong> (Prof. Dr. Dr. med. Johannes Huber)</li>
-<li><strong>Belastungen aus der Zahnmedizin als Kausaltrigger für chronische Erkrankungen</strong> (Dr. medic-stom Martin Klehmet)</li>
-<li><strong>Schädigung biologischer Membranen durch Umweltgifte</strong> (Dr. med. Kurt Müller)</li>
-<li><strong>Zur Bedeutung von Umweltfaktoren für die Entstehung/Therapie von chronischen Erkrankungen am Beispiel der MS</strong> (Dr. med. Dirk Lemke)</li>
-<li><strong>Die Auswirkungen von Fasten auf den Stoffwechsel</strong> (Dr. med. Henning Wittrock)</li>
-<li><strong>Umwelteinflüsse auf das Endokrinum</strong> (Heilpraktiker Michael Martin)</li>
-<li><strong>Klinische Umweltmedizin - Evidenzbasierte Medizin, ein komplexer Prozess</strong> (Dr. med. Peter Ohnsorge)</li>
-<li><strong>Kognition, Hormone und Alter: Epigenetische Kontrolle und Neuroenhancement</strong> (PD Dr. med. Alexander Römmler)</li>
-<li><strong>Vitamin D - Update 2015</strong> (Prof. Dr. med. Winfried März)</li>
-</ol>
+**Vendor's marketplace description:** Kongress für menschliche Medizin - Umwelt im 3. Millenium Das Set enthält die Aufzeichnung der Vorträge beider Kongresstage (18.04.2015 - 19.04.2015) als Video-Download (mp4). Die Vorträge None-response auf Sport - Wie Gene die Effekte von Sport und Bewegung auf die Physiologie beeinflussen (Prof. Theodor Dingermann) Alzheimer-Demenz - eine Umwelterkrankung? (Apotheker Uwe Gröber) Diabetes adé - ein Paradigmenwechsel bei den Ernährungsempfehlungen für Diabetiker ist überfällig (Dr. med. Hardy Walle) CFS - Umweltkrankheit oder Infektion? (PD Dr. med. Wilfried P. Bieger) Spitzen-Prävention mit Holz als Baustoff (Ing. Dr. Erwin Thoma) Unsere innere Umwelt - die extrazelluläre Matrix (Dr. med. Ulrich Randoll) System-Prävention und Umweltmedizin (Prof. Dr. Jörg Spitz) Resilienz in einer belasteten Umwelt (Prof. Dr. med. Alfred Wolf) Hormone und Lifestyle (Prof. Dr. Dr. med. Johannes Huber) Belastungen aus der Zahnmedizin als Kausaltrigger für chronische Erkrankungen (Dr. medic-stom Martin Klehmet) Schädigung biologischer Membranen durch Umweltgifte (Dr. med. Kurt Müller) Zur Bedeutung von Umweltfaktoren für die Entstehung/Therapie von chronischen Erkrankungen am Beispiel der MS (Dr. med. Dirk Lemke) Die Auswirkungen von Fasten auf den Stoffwechsel (Dr. med. Henning Wittrock) Umwelteinflüsse auf das Endokrinum (Heilpraktiker Michael Martin) Klinische Umweltmedizin - Evidenzbasierte Medizin, ein komplexer Prozess (Dr. med. Peter Ohnsorge) Kognition, Hormone und Alter: Epigenetische Kontrolle und Neuroenhancement (PD Dr. med. Alexander Römmler) Vitamin D - Update 2015 (Prof. Dr. med. Winfried März)
 
 ## 2. Links
 

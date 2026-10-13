@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong><span style="color:#ff0000;">Katja Amberg</span></strong></h3>
-<h3><strong><span style="color:#ff0000;">Raus aus TOXISCHEN Beziehungen - Hin zur Liebe! | Onlinekurs</span></strong></h3>
-<div>
-<p>Video/ Audio - ONLINEKURS (incl .zusätzlicher Downloadmöglichkeit der Audiodateien)</p>
-<ul>
-<li>Mehr als 5 Stunden Video.</li>
-<li>Mehr als 5 Stunden Audio.</li>
-</ul>
-<p>Schnellübersicht Inhalt:</p>
-<ul>
-<li>17 Kursvideos</li>
-<li>1 Hörbuch</li>
-<li>7 Selbsthypnosen</li>
-<li>1 Meditation</li>
-<li>Arbeitsblätter zur Selbsthilfe</li>
-</ul>
-<p>Die Anleitung zur SELBSTBEFREIUNG aus einer toxischen Beziehung!</p>
-<p>DAS SELBSBEFREIUNGSPROGRAMM!</p>
-<p>BEZIEHUNGSKURS LEVEL 2</p>
-<p><strong>Der Zugang zu diesem Produkt erfolgt über den Mitgliederbereich von <a>www.katja-amberg-coaching.de</a> über gesonderten login. Die login-Daten werden nach Kaufabschluß per Mail übermittelt. </strong></p>
-<hr />
-<p> Genauer Inhalt des Kurses:</p>
-<p>1.  - 1.0 Video | Begruessung und Vorwort<br />2.  - 1.1 HÖRBUCH MP3 | Verhaengnisvolle Kraefte in TOXISCHEN Beziehungen - ICH OEFFNE DIR DIE AUGEN!<br />3.  - 2.0 Video | Schmerzhafte Gefuehle aufloesen<br />4.  - 2.1 MP3 | Vorwort zur Meditation NEGATIVE GEFUEHLE AUFLOESEN<br />5.  - 2.2 MP3 | Meditation NEGATIVE GEFUEHLE AUFLOESEN<br />6.  - 3.0 Video | Das Gedankenkarussell stoppen<br />7.  - 4.0 Video | SOS Quaelende Sehnsucht<br />8.  - 4.1 MP3 | Vorwort und Sicherheitshinweise fuer HYPNOSEN<br />9.  - 4.2 MP3 | Vorwort zur Hypnose DEIN INNERES KIND KENNEN LERNEN UND HEILEN<br />10.  - 4.3 MP3 | Hypnose DEIN INNERES KIND KENNEN LERNEN UND HEILEN<br />11.  - 5.0 Video | Der verborgene Schatz<br />12.  - 6.0 Video | Das gebrochene Herz heilen<br />13.  - 6.1 Video | Was ist Hypnose<br />14.  - 6.2 MP3 | Vorwort zur Hypnose URSACHEN FINDEN UND LOESEN<br />15.  - 6.3 MP3 | Hypnose URSACHEN FINDEN UND LOESEN<br />16.  - 7.0 Video | Frei werden vom Partner ENERGETISCHE TRENNUNG<br />17.  - 7.1 MP3 | Hypnose ENERGETISCHE TRENNUNG<br />18.  - 8.0 Video | Aufruhr im Niemandsland<br />19.  - 8.1 MP3 | Vorwort zur Hypnose DEINE INTUITION ERKENNEN UND TRAINIEREN<br />20.  - 8.2 MP3 | Hypnose DEINE INTUITION ERKENNEN UND TRAINIEREN<br />21.  - 9.0 Video | SPEZIALFALL Narzisstische Partner<br />22.  - 10.0 Video | Den Partner loslassen - Aber RICHTIG<br />23.  - 10.1 MP3 | Hypnose LOSLASSEN<br />24.  - 11.0 Video | Der erste Tag<br />25.  - 11.1 MP3 | Hypnose DEIN INNERES LEUCHTEN<br />26.  - 12.0 Video | LEBE DEINE TRAEUME<br />27.  - 12.1 MP3 | Vorwort zur Hypnose BLICK IN DIE ZUKUNFT<br />28.  - 12.2 MP3 | Hypnose BLICK IN DIE ZUKUNFT<br />29.  - 13.0 Video | Programmiere Deine Gedanken auf POSITIV<br />30.  - 14.0 Video | Dein TURBO in die FREIHEIT<br />31.  - 15.0 Video | HIN ZUR LIEBE<br />32.  - 16.0 Video | Nachwort<br />33.  - Arbeitsblatt VERPFLICHTUNGSERKLAERUNG zu 1.0<br />34.  - Arbeitsblatt MAENGELLISTE Erklaerung zu 8.0<br />35. Katja Amberg - Arbeitsblatt MAENGELLISTE LISTE zu 8.0<br />36.  - Arbeitsblatt DANKBARKEITSLISTE Erklaerung zu 14.0<br />37.  - Arbeitsblatt DANKBARKEITSLISTE LISTE Teil 1 zu 14.0<br />38.  - Arbeitsblatt DANKBARKEITSLISTE LISTE Teil 2 zu 14.0</p>
-</div>
+**Vendor's marketplace description:** Katja Amberg Raus aus TOXISCHEN Beziehungen - Hin zur Liebe! | Onlinekurs Video/ Audio - ONLINEKURS (incl .zusätzlicher Downloadmöglichkeit der Audiodateien) Mehr als 5 Stunden Video. Mehr als 5 Stunden Audio. Schnellübersicht Inhalt: 17 Kursvideos 1 Hörbuch 7 Selbsthypnosen 1 Meditation Arbeitsblätter zur Selbsthilfe Die Anleitung zur SELBSTBEFREIUNG aus einer toxischen Beziehung! DAS SELBSBEFREIUNGSPROGRAMM! BEZIEHUNGSKURS LEVEL 2 Der Zugang zu diesem Produkt erfolgt über den Mitgliederbereich von www.katja-amberg-coaching.de über gesonderten login. Die login-Daten werden nach Kaufabschluß per Mail übermittelt. Genauer Inhalt des Kurses: 1. - 1.0 Video | Begruessung und Vorwort 2. - 1.1 HÖRBUCH MP3 | Verhaengnisvolle Kraefte in TOXISCHEN Beziehungen - ICH OEFFNE DIR DIE AUGEN! 3. - 2.0 Video | Schmerzhafte Gefuehle aufloesen 4. - 2.1 MP3 | Vorwort zur Meditation NEGATIVE GEFUEHLE AUFLOESEN 5. - 2.2 MP3 | Meditation NEGATIVE GEFUEHLE AUFLOESEN 6. - 3.0 Video | Das Gedankenkarussell stoppen 7. - 4.0 Video | SOS Quaelende Sehnsucht 8. - 4.1 MP3 | Vorwort und Sicherheitshinweise fuer HYPNOSEN 9. - 4.2 MP3 | Vorwort zur Hypnose DEIN INNERES KIND KENNEN LERNEN UND HEILEN 10. - 4.3 MP3 | Hypnose DEIN INNERES KIND KENNEN LERNEN UND HEILEN 11. - 5.0 Video | Der verborgene Schatz 12. - 6.0 Video | Das gebrochene Herz heilen 13. - 6.1 Video | Was ist Hypnose 14. - 6.2 MP3 | Vorwort zur Hypnose URSACHEN FINDEN UND LOESEN 15. - 6.3 MP3 | Hypnose URSACHEN FINDEN UND LOESEN 16. - 7.0 Video | Frei werden vom Partner ENERGETISCHE TRENNUNG 17. - 7.1 MP3 | Hypnose ENERGETISCHE TRENNUNG 18. - 8.0 Video | Aufruhr im Niemandsland 19. - 8.1 MP3 | Vorwort zur Hypnose DEINE INTUITION ERKENNEN UND TRAINIEREN 20. - 8.2 MP3 | Hypnose DEINE INTUITION ERKENNEN UND TRAINIEREN 21. - 9.0 Video | SPEZIALFALL Narzisstische Partner 22. - 10.0 Video | Den Partner loslassen - Aber RICHTIG 23. - 10.1 MP3 | Hypnose LOSLASSEN 24. - 11.0 Video | Der erste Tag 25. - 11.1 MP3 | Hypnose DEIN INNERES LEUCHTEN 26. - 12.0 Video | LEBE DEINE TRAEUME 27. - 12.1 MP3 | Vorwort zur Hypnose BLICK IN DIE ZUKUNFT 28. - 12.2 MP3 | Hypnose BLICK IN DIE ZUKUNFT 29. - 13.0 Video | Programmiere Deine Gedanken auf POSITIV 30. - 14.0 Video | Dein TURBO in die FREIHEIT 31. - 15.0 Video | HIN ZUR LIEBE 32. - 16.0 Video | Nachwort 33. - Arbeitsblatt VERPFLICHTUNGSERKLAERUNG zu 1.0 34. - Arbeitsblatt MAENGELLISTE Erklaerung zu 8.0 35. Katja Amberg - Arbeitsblatt MAENGELLISTE LISTE zu 8.0 36. - Arbeitsblatt DANKBARKEITSLISTE Erklaerung zu 14.0 37. - Arbeitsblatt DANKBARKEITSLISTE LISTE Teil 1 zu 14.0 38. - Arbeitsblatt DANKBARKEITSLISTE LISTE Teil 2 zu 14.0
 
 ## 2. Links
 

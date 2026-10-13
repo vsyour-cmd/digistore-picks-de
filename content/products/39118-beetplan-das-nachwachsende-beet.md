@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du hast keinen Plan? Wir schon!</p>
-<p>Unser neuer Beetplan für ein <strong>Nachwachsendes Gartenbeet</strong> ist da!</p>
-<p>Wenn du noch nicht weißt, wie du dein Gartenbeet gestalten möchtest und am liebsten viele verschiedene Sorten auf kleinem Raum anbauen möchtest, dann ist der Nachwachsende Beetplan genau das Richtige für dich. Der Plan ist sowohl für Gartenanfänger als auch für Gartenprofis, die noch etwas neue Inspiration suchen, geeignet. Er kombiniert 17 verschiedene Gemüsesorten, Blumen und eine Gründüngung auf einer Fläche von 1,2 m x 6 m.</p>
-<p>Ina und Steffi begleiten dich in der Gartensaison von März / April bis in den März im Folgejahr. Auch später im Jahr kannst du noch einsteigen und die Frühjahrspflanzen einfach im Folgejahr einsäen und auspflanzen.</p>
-<p>Der Beetplan wird als digitales Produkt zum Download angeboten. Direkt nach deinem Kauf kannst du mit der Lektüre und deinen Vorbereitungen für das Gartenjahr starten.</p>
-<p> </p>
-<p>DAS BEKOMMST DU:</p>
-<ul>
-<li>5 Beetpläne mit maßstabsgetreuer Aufteilung des Gartenbeets</li>
-<li>20 Seiten geballtes Garten- und Beetplanungswissen</li>
-<li>Tipps zur Beet- und Bodenvorbereitung</li>
-<li>Tipps zum Gemüse Vorziehen, Aussäen und Auspflanzen</li>
-<li>Tipps zum Pflegen und Düngen</li>
-<li>Eine Übersicht der Erntezeiträume und Tipps für eine doppelte Ernte einiger Kulturen</li>
-<li>Tipps für Pflanz-Alternativen</li>
-<li>Tipps für die Beipflanzung von Kräutern</li>
-<li>17 verschiedene Gemüsesorten und Blumen</li>
-<li>Ernte bis in den März des Folgejahres / Winterharte Kulturen</li>
-</ul>
+**Vendor's marketplace description:** Du hast keinen Plan? Wir schon! Unser neuer Beetplan für ein Nachwachsendes Gartenbeet ist da! Wenn du noch nicht weißt, wie du dein Gartenbeet gestalten möchtest und am liebsten viele verschiedene Sorten auf kleinem Raum anbauen möchtest, dann ist der Nachwachsende Beetplan genau das Richtige für dich. Der Plan ist sowohl für Gartenanfänger als auch für Gartenprofis, die noch etwas neue Inspiration suchen, geeignet. Er kombiniert 17 verschiedene Gemüsesorten, Blumen und eine Gründüngung auf einer Fläche von 1,2 m x 6 m. Ina und Steffi begleiten dich in der Gartensaison von März / April bis in den März im Folgejahr. Auch später im Jahr kannst du noch einsteigen und die Frühjahrspflanzen einfach im Folgejahr einsäen und auspflanzen. Der Beetplan wird als digitales Produkt zum Download angeboten. Direkt nach deinem Kauf kannst du mit der Lektüre und deinen Vorbereitungen für das Gartenjahr starten. DAS BEKOMMST DU: 5 Beetpläne mit maßstabsgetreuer Aufteilung des Gartenbeets 20 Seiten geballtes Garten- und Beetplanungswissen Tipps zur Beet- und Bodenvorbereitung Tipps zum Gemüse Vorziehen, Aussäen und Auspflanzen Tipps zum Pflegen und Düngen Eine Übersicht der Erntezeiträume und Tipps für eine doppelte Ernte einiger Kulturen Tipps für Pflanz-Alternativen Tipps für die Beipflanzung von Kräutern 17 verschiedene Gemüsesorten und Blumen Ernte bis in den März des Folgejahres / Winterharte Kulturen
 
 ## 2. Links
 

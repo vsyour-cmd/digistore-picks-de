@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>"Der Pfad der Introvertierten zum Networking" von Matthew Pollard</p>
-<p>"Der Pfad der Introvertierten zum Verkaufen" von Matthew Pollard</p>
-<p>"von introvertiert zu positioniert" (Erfolgsjournal) von Ricarda Colditz (Hrsg)</p>
+**Vendor's marketplace description:** "Der Pfad der Introvertierten zum Networking" von Matthew Pollard "Der Pfad der Introvertierten zum Verkaufen" von Matthew Pollard "von introvertiert zu positioniert" (Erfolgsjournal) von Ricarda Colditz (Hrsg)
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das Rauhnächte Workbook </strong></p>
-<p>Tauche ein in die magische Zeit der Rauhnächte! Dieses Workbook (PDF zum Ausdrucken) führt dich durch die 12 besonderen Nächte zwischen Weihnachten und Dreikönigstag. Mit täglichen Reflexionsfragen, Übungen und Anleitungen zur Selbstfürsorge unterstützt es dich dabei, Altes loszulassen und mit Klarheit ins neue Jahr zu starten. Ideal für alle, die sich Zeit für sich selbst nehmen und spirituelle Tiefe oder eine entspannte Auszeit erleben möchten.</p>
-<p><strong>Sofort nach Kauf als PDF downloadbar und individuell nutzbar.</strong></p>
+**Vendor's marketplace description:** Das Rauhnächte Workbook Tauche ein in die magische Zeit der Rauhnächte! Dieses Workbook (PDF zum Ausdrucken) führt dich durch die 12 besonderen Nächte zwischen Weihnachten und Dreikönigstag. Mit täglichen Reflexionsfragen, Übungen und Anleitungen zur Selbstfürsorge unterstützt es dich dabei, Altes loszulassen und mit Klarheit ins neue Jahr zu starten. Ideal für alle, die sich Zeit für sich selbst nehmen und spirituelle Tiefe oder eine entspannte Auszeit erleben möchten. Sofort nach Kauf als PDF downloadbar und individuell nutzbar.
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses E.Book beschreibt die Gefahren des selbstständigen Unternehmertums, die beim Eintritt oder während der Selbstständigkeit auftreten können, und ist die Basisausgabe weitere wichtiger E.Book - Ausgaben, die dann näher ins Detail gehen.</p>
-<p>Basierend auf eigenen Erfahrungen aus 40 Jahren Selbstständigkeit werden hier Hinweise und Tipps auf Fehler veröffendlicht, die einem so vorher nicht klar sind. Diese Fehler kommen erst dann zum Vorschein wenn sie schon passiert sind, kosten dann aber unnötigerweise viel Zeit und Geld.  </p>
-<p>das kann man sich doch sparen !!</p>
-<p>Sorry, aber vorher informieren ist immer von Vorteil !!! </p>
-<p> </p>
+**Vendor's marketplace description:** Dieses E.Book beschreibt die Gefahren des selbstständigen Unternehmertums, die beim Eintritt oder während der Selbstständigkeit auftreten können, und ist die Basisausgabe weitere wichtiger E.Book - Ausgaben, die dann näher ins Detail gehen. Basierend auf eigenen Erfahrungen aus 40 Jahren Selbstständigkeit werden hier Hinweise und Tipps auf Fehler veröffendlicht, die einem so vorher nicht klar sind. Diese Fehler kommen erst dann zum Vorschein wenn sie schon passiert sind, kosten dann aber unnötigerweise viel Zeit und Geld. das kann man sich doch sparen !! Sorry, aber vorher informieren ist immer von Vorteil !!!
 
 ## 2. Links
 

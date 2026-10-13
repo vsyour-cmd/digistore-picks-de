@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der „Ruhestand mit Plan – 100-Tage-Plan“ ist ein digitales PDF-Workbook für Menschen kurz vor dem Ruhestand, zu Beginn des Ruhestands oder in den ersten Monaten danach.</p>
-<p>Über 14 Wochen unterstützt das Workbook dabei, den neuen Alltag bewusst zu strukturieren, persönliche Prioritäten zu klären und eigene Vorhaben zu entwickeln. Reflexionsfragen, praktische Impulse und regelmäßige Wochen-Check-ins geben Orientierung, ohne fertige Lösungen vorzugeben.</p>
-<p><strong>Produktdaten:</strong></p>
-<p>• Verkaufspreis: 35 €<br />• digitales PDF-Workbook<br />• 103 Seiten<br />• am Computer oder Tablet ausfüllbar<br />• auch zum Ausdrucken geeignet<br />• optional: Ausfüllhilfe mit Beispielen für 9 €</p>
-<p><strong>Affiliate-Provision:</strong></p>
-<p>50 % auf den provisionsfähigen Betrag gemäß der Abrechnung von Digistore24.</p>
-<p>Das Produkt eignet sich besonders für Empfehlungen in Blogs, Newslettern, Communitys und sozialen Netzwerken zu den Themen Ruhestand, persönliche Entwicklung, Neuorientierung, Lebensgestaltung und Alltagsstruktur.</p>
-<p>Textvorlagen, Produktbilder und weitere Informationen für Affiliates stehen auf der Affiliate-Support-Seite bereit:</p>
-<p><a>https://ruhestand-mit-plan.com/affiliate/</a></p>
-<p>Das Workbook dient der Orientierung, Lebensgestaltung und Reflexion. Es ersetzt keine Rechts-, Steuer-, Finanz-, Renten-, Pensions- oder Gesundheitsberatung.</p>
+**Vendor's marketplace description:** Der „Ruhestand mit Plan – 100-Tage-Plan“ ist ein digitales PDF-Workbook für Menschen kurz vor dem Ruhestand, zu Beginn des Ruhestands oder in den ersten Monaten danach. Über 14 Wochen unterstützt das Workbook dabei, den neuen Alltag bewusst zu strukturieren, persönliche Prioritäten zu klären und eigene Vorhaben zu entwickeln. Reflexionsfragen, praktische Impulse und regelmäßige Wochen-Check-ins geben Orientierung, ohne fertige Lösungen vorzugeben. Produktdaten: • Verkaufspreis: 35 € • digitales PDF-Workbook • 103 Seiten • am Computer oder Tablet ausfüllbar • auch zum Ausdrucken geeignet • optional: Ausfüllhilfe mit Beispielen für 9 € Affiliate-Provision: 50 % auf den provisionsfähigen Betrag gemäß der Abrechnung von Digistore24. Das Produkt eignet sich besonders für Empfehlungen in Blogs, Newslettern, Communitys und sozialen Netzwerken zu den Themen Ruhestand, persönliche Entwicklung, Neuorientierung, Lebensgestaltung und Alltagsstruktur. Textvorlagen, Produktbilder und weitere Informationen für Affiliates stehen auf der Affiliate-Support-Seite bereit: https://ruhestand-mit-plan.com/affiliate/ Das Workbook dient der Orientierung, Lebensgestaltung und Reflexion. Es ersetzt keine Rechts-, Steuer-, Finanz-, Renten-, Pensions- oder Gesundheitsberatung.
 
 ## 2. Links
 

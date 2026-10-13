@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Individuelles Mentoring – Einzelstunde</h2>
-<p>Genau hier hilft dir kein allgemeines Wissen mehr.</p>
-<p><strong>Was passiert im Mentoring</strong></p>
-<ul>
-<li>deine Situation wird angeschaut</li>
-<li>Zusammenhänge erklärt</li>
-<li>konkrete Auswirkungen sichtbar gemacht</li>
-</ul>
-<p><strong>Sicherheit</strong></p>
-<ul>
-<li>keine pauschalen Antworten</li>
-<li>keine falschen Einschätzungen</li>
-<li>klare Entscheidungen möglich</li>
-</ul>
-<p>In diesem Mentoring</p>
-<p><strong>Das ist enthalten:</strong></p>
-<ul>
-<li>eine individuelle 1:1 Sessions (60 Minuten), inklusive Vorbereitung.</li>
-</ul>
-<p>Das Gespräch findet online <strong>per Zoom oder Teams</strong> statt. Den Termine vereinbaren wir ganz individuell nach Deinem Bedarf.</p>
-<p>Das Gespräch findet online per Zoom oder Teams statt. Den Termin vereinbaren wir individuell nach der Buchung.</p>
-<p><strong>Bonus:</strong> Inklusive <a><strong>Excel-Berechnungshilfe</strong></a><strong> </strong>mit Lifehack im Wert von <strong>79 €!</strong></p>
-<p>Dauer: 60 Minuten inkl. Vorbereitung</p>
-<p><strong>Kein Abo, keine versteckten Kosten.</strong></p>
+**Vendor's marketplace description:** Individuelles Mentoring – Einzelstunde Genau hier hilft dir kein allgemeines Wissen mehr. Was passiert im Mentoring deine Situation wird angeschaut Zusammenhänge erklärt konkrete Auswirkungen sichtbar gemacht Sicherheit keine pauschalen Antworten keine falschen Einschätzungen klare Entscheidungen möglich In diesem Mentoring Das ist enthalten: eine individuelle 1:1 Sessions (60 Minuten), inklusive Vorbereitung. Das Gespräch findet online per Zoom oder Teams statt. Den Termine vereinbaren wir ganz individuell nach Deinem Bedarf. Das Gespräch findet online per Zoom oder Teams statt. Den Termin vereinbaren wir individuell nach der Buchung. Bonus: Inklusive Excel-Berechnungshilfe mit Lifehack im Wert von 79 €! Dauer: 60 Minuten inkl. Vorbereitung Kein Abo, keine versteckten Kosten.
 
 ## 2. Links
 

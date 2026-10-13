@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Beziehungsfalle</p>
-<h1><strong>Narzissmus</strong></h1>
-<p> </p>
-<p>Liebesbeziehung - Familie - Freundschaft - Job</p>
-<p> </p>
-<p>Was bedeutet Narzissmus und wie kannst du damit umgehen? Tipps und Erklärungen auf 45 Seiten.</p>
+**Vendor's marketplace description:** Beziehungsfalle Narzissmus Liebesbeziehung - Familie - Freundschaft - Job Was bedeutet Narzissmus und wie kannst du damit umgehen? Tipps und Erklärungen auf 45 Seiten.
 
 ## 2. Links
 

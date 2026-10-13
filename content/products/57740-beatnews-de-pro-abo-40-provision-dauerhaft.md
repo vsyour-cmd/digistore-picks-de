@@ -41,48 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Alle fertigen Werbemittel (Banner in 6 Sprachen, 3 Formate und Partner-Guide) vorab ansehen: <a href="https://beatnews.de/partner" target="_blank" rel="noreferrer noopener">https://beatnews.de/partner</a></p>
-<p>DEUTSCH</p>
-<p>BeatNews.de verwandelt aktuelle Nachrichten automatisch in eigene Songs und persönliche Audio-Briefings (ähnlich einem Podcast) – per KI, in 16+ Sprachen und 10+ Musikstilen. Was Kunden mit dem Pro-Abo bekommen:</p>
-<p>• 30 eigene News-Songs pro Monat – keine vorgefertigten Tracks, sondern individuell aus echten Nachrichtenquellen generiert</p>
-<p>• 63+ vorgefertigte News-Kategorien + unbegrenzt eigene, private Kategorien</p>
-<p>• KI-Audio-Briefings: persönliche News-Podcasts, bis zu 2.000 Minuten pro Monat (ca. 33 Stunden), frei konfigurierbar nach Themen und Länge</p>
-<p>• 16+ Sprachen und 10+ Musikstile wählbar</p>
-<p>• Optionale Hands-Free-Sprachsteuerung</p>
-<p>• Überzeug dich selbst: Auf beatnews.de hörst du sofort einen Demo-Song – ganz ohne Registrierung. Unsere Landing-Page eignet sich außerdem perfekt für deine Promo-Zwecke.</p>
-<p>Warum sich BeatNews.de für Affiliates lohnt:</p>
-<p>• Echtes passives Einkommen statt nur Einmalzahlung – 40 % dauerhafte Provision auf jede monatliche Abo-Zahlung</p>
-<p>• Hohe Konversion durch geringe monatliche Abo-Kosten von nur 9,99 €</p>
-<p>• Affiliate-Partnerschaften werden automatisch akzeptiert</p>
-<p>• Internationales Produkt: 6 YouTube-Kanäle in DE, EN, ES, FR, PT, JA</p>
-<p>Unsere YouTube-Kanäle:</p>
-<p>- youtube.com/@BeatNewsDe (DE)</p>
-<p>- youtube.com/@BeatNewsEn (EN)</p>
-<p>- youtube.com/@BeatNewsEs (ES)</p>
-<p>- youtube.com/@BeatNewsFr (FR)</p>
-<p>- youtube.com/@BeatNewsPt (PT)</p>
-<p>- youtube.com/@BeatNewsJa (JA)</p>
-<p>Übrigens: BeatNews.de betreibt einen eigenen Merch-Shop auf TikTok (@beatnews.de) – mit eigenem TikTok-Shop-Affiliate-Programm. Als Partner kannst du dort zusätzlich mitverdienen und stärkst gleichzeitig die Markenbindung.</p>
-<p>ENGLISH</p>
-<p>BeatNews.de turns breaking news into custom songs and personal audio briefings (similar to a podcast) – powered by AI, in 16+ languages and 10+ music styles. What customers get with Pro:</p>
-<p>• 30 custom news songs per month – individually generated from real news sources</p>
-<p>• 63+ preset news categories + unlimited private custom categories</p>
-<p>• AI audio briefings: personal news podcasts, up to 2,000 minutes/month (approx. 33 hours)</p>
-<p>• 16+ languages, 10+ music styles</p>
-<p>• Optional hands-free voice control</p>
-<p>• Try it yourself: listen to a demo song at beatnews.de – no signup required</p>
-<p>Why affiliates love BeatNews.de:</p>
-<p>• True passive income – 40% recurring commission on every monthly payment</p>
-<p>• High conversion thanks to low €9.99/month price point</p>
-<p>• Affiliate partnerships auto-accepted</p>
-<p>• International product with 6 YouTube channels (DE, EN, ES, FR, PT, JA)</p>
-<p>By the way: BeatNews.de runs its own merch shop on TikTok (@beatnews.de) – with its own TikTok Shop affiliate program. As a partner you can earn on top there and strengthen brand loyalty at the same time.</p>
-<p>ESPAÑOL</p>
-<p>BeatNews.de convierte noticias en canciones personalizadas y briefings de audio (tipo podcast) con IA, en 16+ idiomas y 10+ estilos musicales. Suscripción Pro: 30 canciones/mes, 63+ categorías, briefings de audio IA hasta 2.000 min/mes. Comisión para afiliados: 40 % recurrente sobre 9,99 €/mes. Aceptación automática. Prueba un demo en beatnews.de – sin registro. Además, BeatNews.de tiene su propia tienda de merch en TikTok (@beatnews.de), con su propio programa de afiliados de TikTok Shop.</p>
-<p>FRANÇAIS</p>
-<p>BeatNews.de transforme l'actualité en chansons personnalisées et briefings audio (comme un podcast) par IA, dans 16+ langues et 10+ styles musicaux. Abonnement Pro : 30 chansons/mois, 63+ catégories, briefings audio IA jusqu'à 2 000 min/mois. Commission affilié : 40 % récurrente sur 9,99 €/mois. Acceptation automatique. Écoute un démo sur beatnews.de – sans inscription. De plus, BeatNews.de gère sa propre boutique de merch sur TikTok (@beatnews.de), avec son propre programme d'affiliation TikTok Shop.</p>
-<p>PORTUGUÊS</p>
-<p>BeatNews.de transforma notícias em músicas personalizadas e briefings de áudio (tipo podcast) com IA, em 16+ idiomas e 10+ estilos musicais. Assinatura Pro: 30 músicas/mês, 63+ categorias, briefings de áudio IA até 2.000 min/mês. Comissão para afiliados: 40 % recorrente sobre 9,99 €/mês. Aceitação automática. Ouça um demo em beatnews.de – sem cadastro. Aliás, BeatNews.de tem a sua própria loja de merch no TikTok (@beatnews.de), com o seu próprio programa de afiliados TikTok Shop.
+**Vendor's marketplace description:** Alle fertigen Werbemittel (Banner in 6 Sprachen, 3 Formate und Partner-Guide) vorab ansehen: https://beatnews.de/partner DEUTSCH BeatNews.de verwandelt aktuelle Nachrichten automatisch in eigene Songs und persönliche Audio-Briefings (ähnlich einem Podcast) – per KI, in 16+ Sprachen und 10+ Musikstilen. Was Kunden mit dem Pro-Abo bekommen: • 30 eigene News-Songs pro Monat – keine vorgefertigten Tracks, sondern individuell aus echten Nachrichtenquellen generiert • 63+ vorgefertigte News-Kategorien + unbegrenzt eigene, private Kategorien • KI-Audio-Briefings: persönliche News-Podcasts, bis zu 2.000 Minuten pro Monat (ca. 33 Stunden), frei konfigurierbar nach Themen und Länge • 16+ Sprachen und 10+ Musikstile wählbar • Optionale Hands-Free-Sprachsteuerung • Überzeug dich selbst: Auf beatnews.de hörst du sofort einen Demo-Song – ganz ohne Registrierung. Unsere Landing-Page eignet sich außerdem perfekt für deine Promo-Zwecke. Warum sich BeatNews.de für Affiliates lohnt: • Echtes passives Einkommen statt nur Einmalzahlung – 40 % dauerhafte Provision auf jede monatliche Abo-Zahlung • Hohe Konversion durch geringe monatliche Abo-Kosten von nur 9,99 € • Affiliate-Partnerschaften werden automatisch akzeptiert • Internationales Produkt: 6 YouTube-Kanäle in DE, EN, ES, FR, PT, JA Unsere YouTube-Kanäle: - youtube.com/@BeatNewsDe (DE) - youtube.com/@BeatNewsEn (EN) - youtube.com/@BeatNewsEs (ES) - youtube.com/@BeatNewsFr (FR) - youtube.com/@BeatNewsPt (PT) - youtube.com/@BeatNewsJa (JA) Übrigens: BeatNews.de betreibt einen eigenen Merch-Shop auf TikTok (@beatnews.de) – mit eigenem TikTok-Shop-Affiliate-Programm. Als Partner kannst du dort zusätzlich mitverdienen und stärkst gleichzeitig die Markenbindung. ENGLISH BeatNews.de turns breaking news into custom songs and personal audio briefings (similar to a podcast) – powered by AI, in 16+ languages and 10+ music styles. What customers get with Pro: • 30 custom news songs per month – individually generated from real news sources • 63+ preset news categories + unlimited private custom categories • AI audio briefings: personal news podcasts, up to 2,000 minutes/month (approx. 33 hours) • 16+ languages, 10+ music styles • Optional hands-free voice control • Try it yourself: listen to a demo song at beatnews.de – no signup required Why affiliates love BeatNews.de: • True passive income – 40% recurring commission on every monthly payment • High conversion thanks to low €9.99/month price point • Affiliate partnerships auto-accepted • International product with 6 YouTube channels (DE, EN, ES, FR, PT, JA) By the way: BeatNews.de runs its own merch shop on TikTok (@beatnews.de) – with its own TikTok Shop affiliate program. As a partner you can earn on top there and strengthen brand loyalty at the same time. ESPAÑOL BeatNews.de convierte noticias en canciones personalizadas y briefings de audio (tipo podcast) con IA, en 16+ idiomas y 10+ estilos musicales. Suscripción Pro: 30 canciones/mes, 63+ categorías, briefings de audio IA hasta 2.000 min/mes. Comisión para afiliados: 40 % recurrente sobre 9,99 €/mes. Aceptación automática. Prueba un demo en beatnews.de – sin registro. Además, BeatNews.de tiene su propia tienda de merch en TikTok (@beatnews.de), con su propio programa de afiliados de TikTok Shop. FRANÇAIS BeatNews.de transforme l'actualité en chansons personnalisées et briefings audio (comme un podcast) par IA, dans 16+ langues et 10+ styles musicaux. Abonnement Pro : 30 chansons/mois, 63+ catégories, briefings audio IA jusqu'à 2 000 min/mois. Commission affilié : 40 % récurrente sur 9,99 €/mois. Acceptation automatique. Écoute un démo sur beatnews.de – sans inscription. De plus, BeatNews.de gère sa propre boutique de merch sur TikTok (@beatnews.de), avec son propre programme d'affiliation TikTok Shop. PORTUGUÊS BeatNews.de transforma notícias em músicas personalizadas e briefings de áudio (tipo podcast) com IA, em 16+ idiomas e 10+ estilos musicais. Assinatura Pro: 30 músicas/mês, 63+ categorias, briefings de áudio IA até 2.000 min/mês. Comissão para afiliados: 40 % recorrente sobre 9,99 €/mês. Aceitação automática. Ouça um demo em beatnews.de – sem cadastro. Aliás, BeatNews.de tem a sua própria loja de merch no TikTok (@beatnews.de), com o seu próprio programa de afiliados TikTok Shop.
 
 ## 2. Links
 

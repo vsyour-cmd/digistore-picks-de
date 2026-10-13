@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das <strong>ETERNUM Instagram Growth Workbook</strong> löst das brennendste Problem deiner Zielgruppe: "Ich weiß nicht, wie ich auf Instagram strategisch wachse." Ein extrem spitz positioniertes Einsteiger-Angebot.</p>
-<p><strong>Deine Vorteile als Affiliate:</strong></p>
-<ul>
-<li><strong>50 % Lifetime-Provision</strong> (auch auf den Order-Bump und unseren großen System-Upsell!)</li>
-<li>Spezifisches Nischen-Angebot: Verkauft sich viel leichter an Creator und Social-Media-Manager als generische Business-Kurse.</li>
-<li>Professionelle Salespage unter: eternumtech.eu/system/einzelsysteme</li>
-<li>Sofortige Freischaltung ohne Wartezeit (Auto-Accept)</li>
-<li>Fixfertige E-Mail-Swipes findest du auf unserer Affiliate-Support-Seite (Link unten)</li>
-</ul>
-<p><strong>Das Produkt:</strong> Ein sofort umsetzbares Workbook mit echten Strategien statt Binsenweisheiten. Fokus auf Account-Struktur, Profil-Satzbau und Wachstum – ideal als Frontend-Entry-Product.</p>
-<p>Die gesamte Abwicklung (Rechnung, Download, etc.) erfolgt extrem zuverlässig über Digistore24. Kein Support-Aufwand für dich. Bewirb dich jetzt und starte deine Kampagne heute!</p>
+**Vendor's marketplace description:** Das ETERNUM Instagram Growth Workbook löst das brennendste Problem deiner Zielgruppe: "Ich weiß nicht, wie ich auf Instagram strategisch wachse." Ein extrem spitz positioniertes Einsteiger-Angebot. Deine Vorteile als Affiliate: 50 % Lifetime-Provision (auch auf den Order-Bump und unseren großen System-Upsell!) Spezifisches Nischen-Angebot: Verkauft sich viel leichter an Creator und Social-Media-Manager als generische Business-Kurse. Professionelle Salespage unter: eternumtech.eu/system/einzelsysteme Sofortige Freischaltung ohne Wartezeit (Auto-Accept) Fixfertige E-Mail-Swipes findest du auf unserer Affiliate-Support-Seite (Link unten) Das Produkt: Ein sofort umsetzbares Workbook mit echten Strategien statt Binsenweisheiten. Fokus auf Account-Struktur, Profil-Satzbau und Wachstum – ideal als Frontend-Entry-Product. Die gesamte Abwicklung (Rechnung, Download, etc.) erfolgt extrem zuverlässig über Digistore24. Kein Support-Aufwand für dich. Bewirb dich jetzt und starte deine Kampagne heute!
 
 ## 2. Links
 

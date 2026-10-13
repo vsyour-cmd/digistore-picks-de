@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Von der Einrichtung bis zu deinen ersten echten Zuschauern – Schritt für Schritt</strong></p>
-<p>Du willst endlich live gehen, weißt aber nicht, wo du anfangen sollst? Dieses E-Book führt dich Schritt für Schritt durch alles, was du für deinen ersten erfolgreichen Twitch-Stream brauchst – von der technischen Einrichtung über das Kanal-Layout bis zur richtigen Kategorie-Wahl. Du lernst, wie du OBS einrichtest, deinen Stream professionell aussehen lässt und wie Twitch-Discovery funktioniert, damit dich erste Zuschauer überhaupt finden können. Wir zeigen dir, wie du deinen Chat von Anfang an aktiv hältst, eine einladende Atmosphäre schaffst und warum Konsistenz wichtiger ist als teure Ausrüstung. Kein Fachjargon, keine Überforderung: nur ein klarer Plan, den du heute Abend noch umsetzen kannst.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>OBS einrichten: Szenen, Quellen und Stream-Einstellungen für Einsteiger</li>
-<li>Kanal-Layout &amp; Panels: ein professioneller erster Eindruck ohne Design-Kenntnisse</li>
-<li>Die richtige Kategorie und Tags für maximale Discovery wählen</li>
-<li>Chat moderieren und eine einladende Community-Atmosphäre schaffen</li>
-<li>Dein erster Streaming-Plan: wann und wie oft du live gehst</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Von der Einrichtung bis zu deinen ersten echten Zuschauern – Schritt für Schritt Du willst endlich live gehen, weißt aber nicht, wo du anfangen sollst? Dieses E-Book führt dich Schritt für Schritt durch alles, was du für deinen ersten erfolgreichen Twitch-Stream brauchst – von der technischen Einrichtung über das Kanal-Layout bis zur richtigen Kategorie-Wahl. Du lernst, wie du OBS einrichtest, deinen Stream professionell aussehen lässt und wie Twitch-Discovery funktioniert, damit dich erste Zuschauer überhaupt finden können. Wir zeigen dir, wie du deinen Chat von Anfang an aktiv hältst, eine einladende Atmosphäre schaffst und warum Konsistenz wichtiger ist als teure Ausrüstung. Kein Fachjargon, keine Überforderung: nur ein klarer Plan, den du heute Abend noch umsetzen kannst. Das steckt drin: OBS einrichten: Szenen, Quellen und Stream-Einstellungen für Einsteiger Kanal-Layout & Panels: ein professioneller erster Eindruck ohne Design-Kenntnisse Die richtige Kategorie und Tags für maximale Discovery wählen Chat moderieren und eine einladende Community-Atmosphäre schaffen Dein erster Streaming-Plan: wann und wie oft du live gehst Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Fertiges White-Label Affiliate-System für Einsteiger – ideal für hohe Conversion bei Anfängern.</p>
-<p>Das Digital Income System ist perfekt für Affiliates, die Einsteiger im Bereich "Geld verdienen online" ansprechen möchten.</p>
-<p>Die Zielgruppe ist groß, aktiv und sucht nach klaren und einfachen Lösungen für den Einstieg – genau das bietet dieses Produkt.</p>
-<p>Du empfiehlst kein Konzept, sondern ein komplettes System, das sofort einsatzbereit ist und erhältst <strong>50% Provision</strong> auf alle Verkäufe.</p>
-<p><br /><strong>Warum dieses Produkt gut konvertiert:</strong></p>
-<p>• Große Einsteiger-Zielgruppe<br />• Klar verständliches Konzept<br />• Niedrige Einstiegshürde<br />• Hoher Wunsch nach schnellen Ergebnissen</p>
-<p><br /><strong>Das ist im Produkt enthalten:</strong></p>
-<p>• White-Label E-Book (ideal für den Listenaufbau)<br />• Kompletter Funnel (Landingpage, Bestätigungsseite, Danke-Seite)<br />• Sofort einsatzbereite Struktur<br />• Individuell anpassbar</p>
-<p>&gt;&gt; <a href="https://www.imhub.de/lp/affiliates" target="_blank" rel="noreferrer noopener">Hier findest du Werbematerial und weitere Infos</a></p>
-<p> </p>
+**Vendor's marketplace description:** Fertiges White-Label Affiliate-System für Einsteiger – ideal für hohe Conversion bei Anfängern. Das Digital Income System ist perfekt für Affiliates, die Einsteiger im Bereich "Geld verdienen online" ansprechen möchten. Die Zielgruppe ist groß, aktiv und sucht nach klaren und einfachen Lösungen für den Einstieg – genau das bietet dieses Produkt. Du empfiehlst kein Konzept, sondern ein komplettes System, das sofort einsatzbereit ist und erhältst 50% Provision auf alle Verkäufe. Warum dieses Produkt gut konvertiert: • Große Einsteiger-Zielgruppe • Klar verständliches Konzept • Niedrige Einstiegshürde • Hoher Wunsch nach schnellen Ergebnissen Das ist im Produkt enthalten: • White-Label E-Book (ideal für den Listenaufbau) • Kompletter Funnel (Landingpage, Bestätigungsseite, Danke-Seite) • Sofort einsatzbereite Struktur • Individuell anpassbar >> Hier findest du Werbematerial und weitere Infos
 
 ## 2. Links
 

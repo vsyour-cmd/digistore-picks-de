@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die 7 wichtigsten Geldgeheimnisse für einen entspannten Umgang mit dem Einkommen</p>
-<p>Vielen Menschen wird manchmal das Geld knapp durch überraschende Ausgaben die nicht eingeplant waren. Daneben gibt es Menschen, bei denen das Limit des Girokontos fast immer ausgereizt ist. <br /><br />Dieses Buch zeigt dir Lösungen, die dir helfen, mit deinem Geld besser auszukommen. Es ist wie ein Wegweiser und Lotse, damit Du zukünftig beim Thema Geld ganz entspannt bleiben kannst. </p>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Verdiene 50 % auf das Buch und auf alle Produkte, die sofort mitbestellt werden.</strong></span></p>
+**Vendor's marketplace description:** Die 7 wichtigsten Geldgeheimnisse für einen entspannten Umgang mit dem Einkommen Vielen Menschen wird manchmal das Geld knapp durch überraschende Ausgaben die nicht eingeplant waren. Daneben gibt es Menschen, bei denen das Limit des Girokontos fast immer ausgereizt ist. Dieses Buch zeigt dir Lösungen, die dir helfen, mit deinem Geld besser auszukommen. Es ist wie ein Wegweiser und Lotse, damit Du zukünftig beim Thema Geld ganz entspannt bleiben kannst. Verdiene 50 % auf das Buch und auf alle Produkte, die sofort mitbestellt werden.
 
 ## 2. Links
 

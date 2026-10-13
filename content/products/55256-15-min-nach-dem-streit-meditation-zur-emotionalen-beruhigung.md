@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Diese geführte Meditation (ca. 15 Minuten) unterstützt Paare dabei, nach einem Streit emotional zur Ruhe zu kommen, das Nervensystem zu regulieren und wieder in einen verbindenden Kontakt zu finden – ohne Diskussion, ohne Analyse, ohne Schuldzuweisung.</p>
-<p>Ideal für Paare oder Einzelpersonen, die sich nach Konflikten beruhigen möchten und nach sofortiger emotionaler Entlastung suchen.</p>
-<p>Vorteile:<br />✔ sofort anwendbar nach Konflikten oder Streit<br />✔ reguliert das Nervensystem statt Konflikte zu vertiefen<br />✔ klare, ruhige Sprache aus psychologisch-therapeutischer Praxis<br />✔ kein Vorwissen nötig<br />✔ auch einzeln hörbar (nicht nur als Paar)<br />✔ faceless &amp; audio-basiert – ideal für sensible Zielgruppen<br />✔ digitaler Sofort-Download (MP3)<br />✔ kein Coaching, keine Therapie, kein Zeitaufwand</p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Diese geführte Meditation (ca. 15 Minuten) unterstützt Paare dabei, nach einem Streit emotional zur Ruhe zu kommen, das Nervensystem zu regulieren und wieder in einen verbindenden Kontakt zu finden – ohne Diskussion, ohne Analyse, ohne Schuldzuweisung. Ideal für Paare oder Einzelpersonen, die sich nach Konflikten beruhigen möchten und nach sofortiger emotionaler Entlastung suchen. Vorteile: ✔ sofort anwendbar nach Konflikten oder Streit ✔ reguliert das Nervensystem statt Konflikte zu vertiefen ✔ klare, ruhige Sprache aus psychologisch-therapeutischer Praxis ✔ kein Vorwissen nötig ✔ auch einzeln hörbar (nicht nur als Paar) ✔ faceless & audio-basiert – ideal für sensible Zielgruppen ✔ digitaler Sofort-Download (MP3) ✔ kein Coaching, keine Therapie, kein Zeitaufwand
 
 ## 2. Links
 

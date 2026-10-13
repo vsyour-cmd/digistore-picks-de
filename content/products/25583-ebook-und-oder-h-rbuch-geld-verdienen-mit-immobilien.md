@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Sehr viele Menschen würden gerne in Immobilien investieren, aber sie wissen nicht, wie sie anfangen sollen. Ihnen fehlen sowohl Informationen als auch die ersten Schritte. Dieses eBook bzw. Hörbuch beschreibt chronologisch alle Schritte eines erfolgreichen Investments, von den Vorüberlegungen bis zur Übergabe des Objektes.</p>
-<p>Der reguläre Verkaufspreis für dieses Produkt liegt bei 19,70 € für das eBook und 27,- € für das Hörbuch. Das eBook und das Hörbuch zusammen kosten ebenfalls 27,- €. Bei Upsells gelten die gleichen Preise. Alle Preise inkl. MWST. Du bekommst 33 % Affiliateprovision.</p>
+**Vendor's marketplace description:** Sehr viele Menschen würden gerne in Immobilien investieren, aber sie wissen nicht, wie sie anfangen sollen. Ihnen fehlen sowohl Informationen als auch die ersten Schritte. Dieses eBook bzw. Hörbuch beschreibt chronologisch alle Schritte eines erfolgreichen Investments, von den Vorüberlegungen bis zur Übergabe des Objektes. Der reguläre Verkaufspreis für dieses Produkt liegt bei 19,70 € für das eBook und 27,- € für das Hörbuch. Das eBook und das Hörbuch zusammen kosten ebenfalls 27,- €. Bei Upsells gelten die gleichen Preise. Alle Preise inkl. MWST. Du bekommst 33 % Affiliateprovision.
 
 ## 2. Links
 

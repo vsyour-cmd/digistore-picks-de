@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Praxisbuch für den Umstieg von Windows auf Ubuntu 26.04 LTS, für Einsteiger ohne Vorkenntnisse. <br />PDF mit Befehls-Poster und Hardware-Guide, 12,99 €.</p>
-<p>Passt zu Zielgruppen, deren PC zu alt für Windows 11 ist.</p>
-<p>Windows 10 bekommt nur noch mit ESU-Anmeldung Updates, und das bis Oktober 2027. Das ist ein guter Anlass für Mails und Posts.</p>
-<p>Fertige Banner, Mails und Posts: shop.code-content-ai.com/linux-statt-windows/partner/</p>
+**Vendor's marketplace description:** Praxisbuch für den Umstieg von Windows auf Ubuntu 26.04 LTS, für Einsteiger ohne Vorkenntnisse. PDF mit Befehls-Poster und Hardware-Guide, 12,99 €. Passt zu Zielgruppen, deren PC zu alt für Windows 11 ist. Windows 10 bekommt nur noch mit ESU-Anmeldung Updates, und das bis Oktober 2027. Das ist ein guter Anlass für Mails und Posts. Fertige Banner, Mails und Posts: shop.code-content-ai.com/linux-statt-windows/partner/
 
 ## 2. Links
 

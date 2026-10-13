@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieser Kurs richtet sich an Hundehalter, deren Hund nicht alleine bleiben kann, unruhig wird oder Trennungsstress zeigt - ein häufiges und emotional belastendes Problem mit hoher Kaufmotivation.</p>
-<p>Der Fokus liegt auf einem sauberen, frühzeitigen Aufbau des Alleinbleibens im Alltag. Statt schneller Lösungen vermittelt der Kurs einen strukturierten Ansatz, der auf Ruhe, Orientierung und schrittweisem Training basiert.</p>
-<p>Besonders angesprochen werden Welpenbesitzer sowie Hundehalter, die das Thema bisher zu spät oder unsauber aufgebaut haben und nach einer nachhaltigen Lösung suchen.</p>
-<p>Geeignet für:<br />– Welpenbesitzer und junge Hunde<br />– Hunde mit Unruhe oder Trennungsproblemen<br />– Zielgruppe mit hohem emotionalem Druck im Alltag</p>
-<p>Das Produkt eignet sich sehr gut für Content-Marketing und Social Media, da viele Hundehalter aktiv nach Lösungen für dieses Problem suchen.</p>
+**Vendor's marketplace description:** Dieser Kurs richtet sich an Hundehalter, deren Hund nicht alleine bleiben kann, unruhig wird oder Trennungsstress zeigt - ein häufiges und emotional belastendes Problem mit hoher Kaufmotivation. Der Fokus liegt auf einem sauberen, frühzeitigen Aufbau des Alleinbleibens im Alltag. Statt schneller Lösungen vermittelt der Kurs einen strukturierten Ansatz, der auf Ruhe, Orientierung und schrittweisem Training basiert. Besonders angesprochen werden Welpenbesitzer sowie Hundehalter, die das Thema bisher zu spät oder unsauber aufgebaut haben und nach einer nachhaltigen Lösung suchen. Geeignet für: – Welpenbesitzer und junge Hunde – Hunde mit Unruhe oder Trennungsproblemen – Zielgruppe mit hohem emotionalem Druck im Alltag Das Produkt eignet sich sehr gut für Content-Marketing und Social Media, da viele Hundehalter aktiv nach Lösungen für dieses Problem suchen.
 
 ## 2. Links
 

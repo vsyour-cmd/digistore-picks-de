@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Homepage: <a href="http://www.ebook-m11.de">www.ebook-m11.de</a> </p>
-<p>Das eBook ist ein Leitfaden für Einsteiger, Umsteiger und Leica-Interessierte Menschen.</p>
-<p>Michel Birnbacher ist bereits Autor des Kamerahandbuchs zur Leica M10 und mit der neuen Auflage entsteht wieder ein Standardwerk für das Leica M Kamerasystem.</p>
-<p>Mit vielen Anwendungsbeispielen schildert der Autor wie er seine Leica M11 nutzt. Zusätzlich gibt es Schritt für Schritt-Anleitungen um sich mit den Einstellungen vertraut zu machen. Neben der Leica M Objektiv-Übersicht gibt es auch eine ganz kleine Fotoschule.</p>
-<p>Die im Buch erwähnte Info-Karte zum Thema Blende-Verschlusszeit und ISO Einstellung gibt es als JPG Datei zusätzlich.</p>
-<p><em>Das eBook hat 304 Seiten in PDF-Format und wurde in A4 vorbereitet, damit es bei Bedarf gedruckt werden kann.</em></p>
-<p> </p>
-<p><strong>Michel Birnbacher</strong> ist seit Jahrzehnten Leica Fotograf und eine rfahrener Workshopleiter. Er unterrichtet neben Fotoschulen auf für den Leica Store in Nürnberg. Zusätzlich gibt er Einzelunterricht und hält Webinare rund um das Thema Leica M Fotografie.</p>
-<p>Der einzige deutsche Podcast (<a href="http://www.leica-podcast.fm">www.leica-podcast.fm</a>) runden sein Angebot zum Thema Fotografie ab.</p>
+**Vendor's marketplace description:** Homepage: www.ebook-m11.de Das eBook ist ein Leitfaden für Einsteiger, Umsteiger und Leica-Interessierte Menschen. Michel Birnbacher ist bereits Autor des Kamerahandbuchs zur Leica M10 und mit der neuen Auflage entsteht wieder ein Standardwerk für das Leica M Kamerasystem. Mit vielen Anwendungsbeispielen schildert der Autor wie er seine Leica M11 nutzt. Zusätzlich gibt es Schritt für Schritt-Anleitungen um sich mit den Einstellungen vertraut zu machen. Neben der Leica M Objektiv-Übersicht gibt es auch eine ganz kleine Fotoschule. Die im Buch erwähnte Info-Karte zum Thema Blende-Verschlusszeit und ISO Einstellung gibt es als JPG Datei zusätzlich. Das eBook hat 304 Seiten in PDF-Format und wurde in A4 vorbereitet, damit es bei Bedarf gedruckt werden kann. Michel Birnbacher ist seit Jahrzehnten Leica Fotograf und eine rfahrener Workshopleiter. Er unterrichtet neben Fotoschulen auf für den Leica Store in Nürnberg. Zusätzlich gibt er Einzelunterricht und hält Webinare rund um das Thema Leica M Fotografie. Der einzige deutsche Podcast ( www.leica-podcast.fm ) runden sein Angebot zum Thema Fotografie ab.
 
 ## 2. Links
 

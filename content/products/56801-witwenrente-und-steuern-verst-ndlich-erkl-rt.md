@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Witwenrente und Steuern verständlich erklärt (Online-Videokurs)</strong></p>
-<p>In diesem Videokurs lernst Du verständlich und ohne Fachchinesisch die wichtigsten steuerlichen Grundlagen und Zusammenhänge rund um die Hinterbliebenenrente.</p>
-<hr />
-<p> </p>
-<p><strong>Das lernst du im Kurs:</strong></p>
-<p>✅ Grundfreibetrag und zu versteuerndes Einkommen<br />✅ Steuerprogression und persönliche Steuerlast<br />✅ Nachgelagerte Besteuerung von Renten<br />✅ Persönlicher Rentenfreibetrag und Rentenerhöhungen<br />✅ Lohnsteuerklassen und ihre tatsächliche Bedeutung<br />✅ Ehegattensplitting und Witwensplitting<br />✅ Die steuerlichen Besonderheiten der Gnadenjahre<br />✅ Rücklagen für Steuernachzahlungen<br />✅ Nichtveranlagungsbescheinigung (nicht nur) für Kinder<br />✅ Wichtige Hinweise zu Selbstständigkeit, Kapitalanlagen und Immobilien</p>
-<hr />
-<p>Der Kurs dauert ca. 2 Stunden und enthält zusätzliche Materialien zum Download. Du hast 90 Tage Zugriff und kannst alles beliebig oft ansehen.</p>
-<hr />
-<p><strong>Wichtiger Hinweis:</strong></p>
-<p>Ich bin <strong>keine Steuerberaterin</strong>. Dieser Kurs ersetzt keine individuelle steuerliche Beratung. Ich erkläre die Grundlagen, Zusammenhänge und Besonderheiten rund um die Hinterbliebenenrente verständlich und praxisnah.</p>
+**Vendor's marketplace description:** Witwenrente und Steuern verständlich erklärt (Online-Videokurs) In diesem Videokurs lernst Du verständlich und ohne Fachchinesisch die wichtigsten steuerlichen Grundlagen und Zusammenhänge rund um die Hinterbliebenenrente. Das lernst du im Kurs: ✅ Grundfreibetrag und zu versteuerndes Einkommen ✅ Steuerprogression und persönliche Steuerlast ✅ Nachgelagerte Besteuerung von Renten ✅ Persönlicher Rentenfreibetrag und Rentenerhöhungen ✅ Lohnsteuerklassen und ihre tatsächliche Bedeutung ✅ Ehegattensplitting und Witwensplitting ✅ Die steuerlichen Besonderheiten der Gnadenjahre ✅ Rücklagen für Steuernachzahlungen ✅ Nichtveranlagungsbescheinigung (nicht nur) für Kinder ✅ Wichtige Hinweise zu Selbstständigkeit, Kapitalanlagen und Immobilien Der Kurs dauert ca. 2 Stunden und enthält zusätzliche Materialien zum Download. Du hast 90 Tage Zugriff und kannst alles beliebig oft ansehen. Wichtiger Hinweis: Ich bin keine Steuerberaterin . Dieser Kurs ersetzt keine individuelle steuerliche Beratung. Ich erkläre die Grundlagen, Zusammenhänge und Besonderheiten rund um die Hinterbliebenenrente verständlich und praxisnah.
 
 ## 2. Links
 

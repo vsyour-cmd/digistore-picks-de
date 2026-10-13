@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>PRIXUS BauPreis24 – Die professionelle Baukosten-Kalkulation</h3>
-<p><strong>BauPreis24</strong> ist die Desktop-Software für präzise Baukostenschätzung nach DIN 276. Ideal für Architekten, Bauingenieure, Gutachter und Immobilienbewerter sowie jegliche Handwerksbetriebe.</p>
-<h4>Warum BauPreis24 bewerben?</h4>
-<ul>
-<li><strong>30% Provision</strong> pro Verkauf</li>
-<li><strong>Kein Abo-Modell</strong> – Einmalkauf, einfache Kaufentscheidung für Kunden</li>
-<li><strong>Klare Zielgruppe</strong> – Architekten, Bauingenieure, Sachverständige, Gutachter, Handwerker</li>
-<li><strong>Professionelle Landingpage</strong> mit hoher Conversion-Rate</li>
-<li><strong>Etabliertes Produkt</strong> – seit Jahren am Markt bewährt</li>
-</ul>
-<h4>Produkt-Details</h4>
-<ul>
-<li>Desktop-Software für Windows</li>
-<li>Baukostenschätzung nach DIN 276</li>
-<li>Aktuelle Baupreisdatenbank inkl. regelmäßiger Updates</li>
-<li>Für Neubau, Umbau und Sanierung</li>
-<li>Export in PDF und Excel</li>
-</ul>
-<p><strong>Zielgruppe:</strong> Architekten, Bauingenieure, Sachverständige, Immobilienbewerter, Bauträger, Hausverwaltungen, Handwerksbetriebe</p>
-<p>Vendor: PRIXUS Software | <a href="https://www.baupreis24.de">www.baupreis24.de</a></p>
+**Vendor's marketplace description:** PRIXUS BauPreis24 – Die professionelle Baukosten-Kalkulation BauPreis24 ist die Desktop-Software für präzise Baukostenschätzung nach DIN 276. Ideal für Architekten, Bauingenieure, Gutachter und Immobilienbewerter sowie jegliche Handwerksbetriebe. Warum BauPreis24 bewerben? 30% Provision pro Verkauf Kein Abo-Modell – Einmalkauf, einfache Kaufentscheidung für Kunden Klare Zielgruppe – Architekten, Bauingenieure, Sachverständige, Gutachter, Handwerker Professionelle Landingpage mit hoher Conversion-Rate Etabliertes Produkt – seit Jahren am Markt bewährt Produkt-Details Desktop-Software für Windows Baukostenschätzung nach DIN 276 Aktuelle Baupreisdatenbank inkl. regelmäßiger Updates Für Neubau, Umbau und Sanierung Export in PDF und Excel Zielgruppe: Architekten, Bauingenieure, Sachverständige, Immobilienbewerter, Bauträger, Hausverwaltungen, Handwerksbetriebe Vendor: PRIXUS Software | www.baupreis24.de
 
 ## 2. Links
 

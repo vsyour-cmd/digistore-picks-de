@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<h2>Exklusiver Step by Step Guide für Fotografen gemacht! So gewinnst du Kunde um Kunde mit Werbeanzeigen auf Facebook &amp; Instagram.</h2>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-
-<div>
-<div>
-<p> </p>
-</div>
-<div>
-<div>
-<h2>1 | algorithmus &amp; theorie 
+**Vendor's marketplace description:** Exklusiver Step by Step Guide für Fotografen gemacht! So gewinnst du Kunde um Kunde mit Werbeanzeigen auf Facebook & Instagram. 1 | algorithmus & theorie
 
 ## 2. Links
 

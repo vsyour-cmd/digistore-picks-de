@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>vifugo</strong> ist DIE perfekte Software um den <strong>"einfachsten und schnellsten Verkaufsfunnel der Welt"</strong> auf die Beine zu stellen.</p>
-<p>Mit <strong>vifugo</strong> schafft es auch ein Anfänger in unter 10 Minuten einen perfekten Funnel auf die Beine zu stellen, der sofort neue Leads generiert. </p>
-<p><strong>Empfehle unsere Software mit unseren perfekt konvertierenden Neukunden-Funnel und erhalte attaktive Lifetime Provision.</strong></p>
-<p>Das bekommst Du:</p>
-<ul style="list-style-type:disc;">
-<li>Lebenslang 25 % wiederkehrende Provision</li>
-<li>einen hochkonvertierenden Funnel. Jeder 6 Webseitenbesucher kauft aktuell in unserem Funnel</li>
-<li>den einfachsten Funnel der Welt</li>
-</ul>
-<p>Vermarkte einfach nur folgenden Link und sieh selbst wie schnell Sales für Dich zustande kommen.</p>
+**Vendor's marketplace description:** vifugo ist DIE perfekte Software um den "einfachsten und schnellsten Verkaufsfunnel der Welt" auf die Beine zu stellen. Mit vifugo schafft es auch ein Anfänger in unter 10 Minuten einen perfekten Funnel auf die Beine zu stellen, der sofort neue Leads generiert. Empfehle unsere Software mit unseren perfekt konvertierenden Neukunden-Funnel und erhalte attaktive Lifetime Provision. Das bekommst Du: Lebenslang 25 % wiederkehrende Provision einen hochkonvertierenden Funnel. Jeder 6 Webseitenbesucher kauft aktuell in unserem Funnel den einfachsten Funnel der Welt Vermarkte einfach nur folgenden Link und sieh selbst wie schnell Sales für Dich zustande kommen.
 
 ## 2. Links
 

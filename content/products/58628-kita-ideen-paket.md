@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Kita-Ideen-Paket ist ein sofort einsetzbares PDF-Paket für Erzieherinnen, Kindergärten und Kitas: fertige Ideen für Morgenkreis, Projekte, Spiele und Angebote, ohne Vorbereitungsaufwand.</p>
-<p>Warum sich das Bewerben lohnt:</p>
-<ul>
-<li>Über <strong>700 verkaufte Exemplare</strong>, das Produkt ist am Markt erprobt</li>
-<li>Klar umrissene, gut erreichbare Zielgruppe: Erzieherinnen, Kita-Leitungen, Tagesmütter, Eltern</li>
-<li>Läuft hervorragend über Pinterest, Instagram, Facebook-Gruppen für Erzieherinnen und Kita-Blogs</li>
-<li>Digitales Produkt, keine Retouren durch Versand, sofortige Auslieferung</li>
-</ul>
-<p>Werbemittel (Banner, Textbausteine, Bilder, fertige Social-Media-Posts) stehen im Affiliate-Bereich bereit.</p>
+**Vendor's marketplace description:** Das Kita-Ideen-Paket ist ein sofort einsetzbares PDF-Paket für Erzieherinnen, Kindergärten und Kitas: fertige Ideen für Morgenkreis, Projekte, Spiele und Angebote, ohne Vorbereitungsaufwand. Warum sich das Bewerben lohnt: Über 700 verkaufte Exemplare , das Produkt ist am Markt erprobt Klar umrissene, gut erreichbare Zielgruppe: Erzieherinnen, Kita-Leitungen, Tagesmütter, Eltern Läuft hervorragend über Pinterest, Instagram, Facebook-Gruppen für Erzieherinnen und Kita-Blogs Digitales Produkt, keine Retouren durch Versand, sofortige Auslieferung Werbemittel (Banner, Textbausteine, Bilder, fertige Social-Media-Posts) stehen im Affiliate-Bereich bereit.
 
 ## 2. Links
 

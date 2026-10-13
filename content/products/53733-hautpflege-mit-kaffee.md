@@ -41,38 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Dein Kaffeesatz ist viel zu schade, um ihn wegzuwerfen. Ich hab da eine Idee:</strong><br /><strong>Mach Naturkosmetik draus!</strong></p>
-<div>
-<p>Ich zeige dir, wie du die wunderbar durchblutungsfördernden und entzündungshemmenden Eigenschaften für deine tägliche Pflege nutzen kannst. </p>
-</div>
-<p><strong>Was?</strong></p>
-<p>Wir rühren gemeinsam 4 Naturkosmetik-Rezepte mit Kaffeesatz:​</p>
-<div>
-<ul>
-<li>
-<p>eine feste Seife / Duschbar</p>
-</li>
-<li>
-<p>belebende Augenlotion</p>
-</li>
-<li>
-<p>durchblutungsförderndes Cellulite-Öl</p>
-</li>
-<li>
-<p>Gesichtsmaske für mehr Glow</p>
-</li>
-</ul>
-<p>Mein Workshop ist so gestaltet, dass du direkt mitrühren kannst, auch wenn du keine Vorkenntnisse hast.</p>
-<p>Ich erkläre dir alles Schritt-für-Schritt, sodass du am Ende alle 4 Produkte in den Händen hältst.</p>
-<p>Außerdem erfährst du jede Menge Wissenswertes rund um alle Zutaten, die ich in den Rezepten verwende, sodass du weißt, was du dir da Gutes auf die Haut schmierst.</p>
-<p> </p>
-<p><strong>Wann?</strong></p>
-</div>
-<div>
-<p>Sofort, wenn du magst! Nach deiner Buchung schalte ich dir den Workshop direkt frei. Dann kannst du innerhalb der nächsten 6 Monate in deinem Tempo rühren und dir die Aufzeichnung immer wieder anschauen.​​​</p>
-<p> </p>
-<p><a>https://www.katharinaruehrt.com/hautpflege-mit-kaffee</a></p>
-</div>
+**Vendor's marketplace description:** Dein Kaffeesatz ist viel zu schade, um ihn wegzuwerfen. Ich hab da eine Idee: Mach Naturkosmetik draus! Ich zeige dir, wie du die wunderbar durchblutungsfördernden und entzündungshemmenden Eigenschaften für deine tägliche Pflege nutzen kannst. Was? Wir rühren gemeinsam 4 Naturkosmetik-Rezepte mit Kaffeesatz:​ eine feste Seife / Duschbar belebende Augenlotion durchblutungsförderndes Cellulite-Öl Gesichtsmaske für mehr Glow Mein Workshop ist so gestaltet, dass du direkt mitrühren kannst, auch wenn du keine Vorkenntnisse hast. Ich erkläre dir alles Schritt-für-Schritt, sodass du am Ende alle 4 Produkte in den Händen hältst. Außerdem erfährst du jede Menge Wissenswertes rund um alle Zutaten, die ich in den Rezepten verwende, sodass du weißt, was du dir da Gutes auf die Haut schmierst. Wann? Sofort, wenn du magst! Nach deiner Buchung schalte ich dir den Workshop direkt frei. Dann kannst du innerhalb der nächsten 6 Monate in deinem Tempo rühren und dir die Aufzeichnung immer wieder anschauen.​​​ https://www.katharinaruehrt.com/hautpflege-mit-kaffee
 
 ## 2. Links
 

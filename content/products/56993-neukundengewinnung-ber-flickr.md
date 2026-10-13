@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie Unternehmen und Fotografen über Flickr planbar Aufträge und Neukunden gewinnen</strong></p>
-<p>Für Unternehmen und professionelle Fotografen ist Flickr ein oft übersehener, dabei äußerst wirkungsvoller Vertriebskanal. Dieses E-Book zeigt dir, wie du ein Business-Profil als digitales Schaufenster aufbaust, über strategische Creative-Commons-Lizenzen und gezieltes Bild-SEO langfristig bei Google-Bilder gefunden wirst und eingehende Anfragen in planbare Aufträge verwandelst. Du lernst, wie du EXIF-Daten, Tags und Bildbeschreibungen als SEO-Werkzeug einsetzt, wie du Gruppen-Präsenz in Bekanntheit und Buchungen umwandelst und wie du den ROI deiner Flickr-Aktivitäten messbar machst. Ob Fotostudio, Werbeagentur oder Freiberufler: hier bekommst du ein System, das reproduzierbar Neukunden bringt.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Business-Profil als digitales Schaufenster mit klarer Leistungsaussage aufbauen</li>
-<li>Bild-SEO: EXIF, Tags und Beschreibungen für langfristigen Google-Bilder-Traffic</li>
-<li>Creative-Commons-Strategie: Sichtbarkeit erhöhen ohne Kontrolle zu verlieren</li>
-<li>Gruppen-Präsenz in Auftragsanfragen verwandeln</li>
-<li>Eingehende Anfragen über Flickr-Mail und externe Kontaktpunkte qualifizieren</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie Unternehmen und Fotografen über Flickr planbar Aufträge und Neukunden gewinnen Für Unternehmen und professionelle Fotografen ist Flickr ein oft übersehener, dabei äußerst wirkungsvoller Vertriebskanal. Dieses E-Book zeigt dir, wie du ein Business-Profil als digitales Schaufenster aufbaust, über strategische Creative-Commons-Lizenzen und gezieltes Bild-SEO langfristig bei Google-Bilder gefunden wirst und eingehende Anfragen in planbare Aufträge verwandelst. Du lernst, wie du EXIF-Daten, Tags und Bildbeschreibungen als SEO-Werkzeug einsetzt, wie du Gruppen-Präsenz in Bekanntheit und Buchungen umwandelst und wie du den ROI deiner Flickr-Aktivitäten messbar machst. Ob Fotostudio, Werbeagentur oder Freiberufler: hier bekommst du ein System, das reproduzierbar Neukunden bringt. Das steckt drin: Business-Profil als digitales Schaufenster mit klarer Leistungsaussage aufbauen Bild-SEO: EXIF, Tags und Beschreibungen für langfristigen Google-Bilder-Traffic Creative-Commons-Strategie: Sichtbarkeit erhöhen ohne Kontrolle zu verlieren Gruppen-Präsenz in Auftragsanfragen verwandeln Eingehende Anfragen über Flickr-Mail und externe Kontaktpunkte qualifizieren Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

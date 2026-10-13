@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Persönliche 1:1-Intensivbegleitung für Menschen, die sich erschöpft, verloren oder fremd im eigenen Leben fühlen – und den Weg zurück zu sich selbst gehen möchten. Coachin und Autorin Sonja Maria Holzweiler (wingwave®, EFT) begleitet über 3 Monate hinweg zu mehr innerer Ruhe, Klarheit und Kraft. Autorin des in drei Sprachen erschienenen Buchs „Als ich nicht mehr sprach, war alles gesagt".</p>
-<p>Zwei Varianten – je nach Tiefe der Begleitung:<br />- Intensivprogramm, 3 Monate (2.666 €)<br />- Intensivbegleitung, 6 Monate (4.999 €)</p>
-<p>Für Affiliates: ein hochwertiges, seriöses Premium-Angebot mit echtem Transformationsversprechen und warmer Marke – ideal für Kanäle rund um Persönlichkeitsentwicklung, Achtsamkeit, Spiritualität und mentale Gesundheit. 20 % Provision pro Verkauf.</p>
+**Vendor's marketplace description:** Persönliche 1:1-Intensivbegleitung für Menschen, die sich erschöpft, verloren oder fremd im eigenen Leben fühlen – und den Weg zurück zu sich selbst gehen möchten. Coachin und Autorin Sonja Maria Holzweiler (wingwave®, EFT) begleitet über 3 Monate hinweg zu mehr innerer Ruhe, Klarheit und Kraft. Autorin des in drei Sprachen erschienenen Buchs „Als ich nicht mehr sprach, war alles gesagt". Zwei Varianten – je nach Tiefe der Begleitung: - Intensivprogramm, 3 Monate (2.666 €) - Intensivbegleitung, 6 Monate (4.999 €) Für Affiliates: ein hochwertiges, seriöses Premium-Angebot mit echtem Transformationsversprechen und warmer Marke – ideal für Kanäle rund um Persönlichkeitsentwicklung, Achtsamkeit, Spiritualität und mentale Gesundheit. 20 % Provision pro Verkauf.
 
 ## 2. Links
 

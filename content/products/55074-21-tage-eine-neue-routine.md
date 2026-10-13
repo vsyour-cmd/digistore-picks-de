@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der <strong>21-Tage Reset</strong> ist ein digitales Mindset-Programm für Männer und Frauen, die mentale Überforderung, Stress und innere Unruhe reduzieren und wieder Fokus und Klarheit in ihren Alltag bringen wollen.</p>
-<p>Das Produkt eignet sich ideal für Social-Media-Traffic (TikTok, Reels, Shorts), da die Zielgruppe breit ist und das Problem leicht verständlich kommuniziert werden kann.</p>
-<p>Durch die niedrige Einstiegshürde und die klare 21-Tage-Struktur bietet das Produkt eine hohe Conversion-Wahrscheinlichkeit.</p>
-<p>Zusätzlich ist ein <strong>90-Tage-Programm als Upsell</strong> integriert, wodurch Affiliates vom höheren Warenkorbwert profitieren können.</p>
+**Vendor's marketplace description:** Der 21-Tage Reset ist ein digitales Mindset-Programm für Männer und Frauen, die mentale Überforderung, Stress und innere Unruhe reduzieren und wieder Fokus und Klarheit in ihren Alltag bringen wollen. Das Produkt eignet sich ideal für Social-Media-Traffic (TikTok, Reels, Shorts), da die Zielgruppe breit ist und das Problem leicht verständlich kommuniziert werden kann. Durch die niedrige Einstiegshürde und die klare 21-Tage-Struktur bietet das Produkt eine hohe Conversion-Wahrscheinlichkeit. Zusätzlich ist ein 90-Tage-Programm als Upsell integriert, wodurch Affiliates vom höheren Warenkorbwert profitieren können.
 
 ## 2. Links
 

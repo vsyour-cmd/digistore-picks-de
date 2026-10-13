@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der goldene Abschluss – Ihr Workbook für mehr Verkaufsabschlüsse</p>
-<p><br />Sofort nach dem Kauf erhalten Sie das vollständige Workbook als PDF-Download:</p>
-<p>10 Module,</p>
-<p>7 Abschlusstechniken, ein Bonus-Modul mit KI-Prompts für Ihre Branche sowie einen 7-Tage-Trainingsplan zur direkten Umsetzung.</p>
-<p><br />Ihr Preis: 19,90 € – einmalig, kein Abonnement.<br />Die Abrechnung erfolgt sicher über Digistore24.<br />▸ Jetzt bestellen und sofort downloaden.</p>
+**Vendor's marketplace description:** Der goldene Abschluss – Ihr Workbook für mehr Verkaufsabschlüsse Sofort nach dem Kauf erhalten Sie das vollständige Workbook als PDF-Download: 10 Module, 7 Abschlusstechniken, ein Bonus-Modul mit KI-Prompts für Ihre Branche sowie einen 7-Tage-Trainingsplan zur direkten Umsetzung. Ihr Preis: 19,90 € – einmalig, kein Abonnement. Die Abrechnung erfolgt sicher über Digistore24. ▸ Jetzt bestellen und sofort downloaden.
 
 ## 2. Links
 

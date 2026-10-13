@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Due vermittelst mit diesem Produkt eine rechtskonforme Datenschutzerklärung inkl. Impressum. Wir erstellen diese individuell und als Experte. Die Käufer haben die Möglichkeit eine permanente Aktualisdierung dazu zu buchen.</p>
+**Vendor's marketplace description:** Due vermittelst mit diesem Produkt eine rechtskonforme Datenschutzerklärung inkl. Impressum. Wir erstellen diese individuell und als Experte. Die Käufer haben die Möglichkeit eine permanente Aktualisdierung dazu zu buchen.
 
 ## 2. Links
 

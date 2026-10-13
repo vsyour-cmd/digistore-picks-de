@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Dein Jakobsweg beginnt mit der richtigen Vorbereitung.</strong> Auf über 140 Seiten begleitet dich dieser Guide durch die wichtigsten Jakobswege Spaniens – mit Routenvergleichen, Etappenübersichten, Tipps zu Unterkünften, Ausrüstung, Kosten und Navigation sowie einer Packliste zum Abhaken.</p>
-<p><strong>Digitales Produkt: Nach dem Kauf sofort als PDF herunterladen.</strong> Kein Versand, keine Wartezeit. Auf dem Smartphone lesen oder für unterwegs ausdrucken.</p>
-<p>Finde die Route, die zu dir passt, und starte gut vorbereitet. <strong>Buen Camino!</strong></p>
-<p>Du liebst Spanien und hast eine Community, die sich für <strong>Reisen, Mallorca, Auswandern, Camping, Wohnmobil, Ruhestand oder das Leben in Spanien</strong> interessiert?</p>
-<p>Dann werde <strong>Creator &amp; Influencer Partner von Nachrichten.es</strong> und empfehle unsere digitalen Spanien-Ratgeber deiner Community.</p>
-<p>Du erhältst dabei <strong>50 % Provision auf jeden erfolgreichen Verkauf</strong> über deinen persönlichen Affiliate-Link.</p>
-<p> </p>
+**Vendor's marketplace description:** Dein Jakobsweg beginnt mit der richtigen Vorbereitung. Auf über 140 Seiten begleitet dich dieser Guide durch die wichtigsten Jakobswege Spaniens – mit Routenvergleichen, Etappenübersichten, Tipps zu Unterkünften, Ausrüstung, Kosten und Navigation sowie einer Packliste zum Abhaken. Digitales Produkt: Nach dem Kauf sofort als PDF herunterladen. Kein Versand, keine Wartezeit. Auf dem Smartphone lesen oder für unterwegs ausdrucken. Finde die Route, die zu dir passt, und starte gut vorbereitet. Buen Camino! Du liebst Spanien und hast eine Community, die sich für Reisen, Mallorca, Auswandern, Camping, Wohnmobil, Ruhestand oder das Leben in Spanien interessiert? Dann werde Creator & Influencer Partner von Nachrichten.es und empfehle unsere digitalen Spanien-Ratgeber deiner Community. Du erhältst dabei 50 % Provision auf jeden erfolgreichen Verkauf über deinen persönlichen Affiliate-Link.
 
 ## 2. Links
 

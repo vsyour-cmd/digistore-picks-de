@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit Kindern wachsen - von Sarah J. Bennett </p>
-<p> </p>
-<p>In diesem umfassenden Praxis-Guide übersetzen wir die stärksten Werkzeuge des Neuro-Linguistischen Programmierens (NLP) in kinderleichte, alltagstaugliche Strategien für Familien.</p>
-<p>​Keine graue Theorie. Keine komplizierten Fachbegriffe. Sondern sofort anwendbare Lösungen für Ihren Alltag.</p>
-<p> </p>
+**Vendor's marketplace description:** Mit Kindern wachsen - von Sarah J. Bennett In diesem umfassenden Praxis-Guide übersetzen wir die stärksten Werkzeuge des Neuro-Linguistischen Programmierens (NLP) in kinderleichte, alltagstaugliche Strategien für Familien. ​Keine graue Theorie. Keine komplizierten Fachbegriffe. Sondern sofort anwendbare Lösungen für Ihren Alltag.
 
 ## 2. Links
 

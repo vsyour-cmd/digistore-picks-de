@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Unsere Berufsausbildung zum Privatdetektiv wird neu über Digistore24 angeboten. </p>
-<p>Professionelle, didaktisch hochwertige Online-Ausbildung mit dem besten Preis-Leistungsverhältnis in Deutschland. <br /><br /><strong>✅ Berufsausbildung<br />✅ Bestes Preis-Leistungsverhältnis<br />✅ Von Fachpersonen entwickelt<br />✅ Praxisorientiert<br />✅ Abschluss mit Zertifikat<br /></strong></p>
-<p><strong><br />https://rocksberg-akademie.de/<br /></strong></p>
+**Vendor's marketplace description:** Unsere Berufsausbildung zum Privatdetektiv wird neu über Digistore24 angeboten. Professionelle, didaktisch hochwertige Online-Ausbildung mit dem besten Preis-Leistungsverhältnis in Deutschland. ✅ Berufsausbildung ✅ Bestes Preis-Leistungsverhältnis ✅ Von Fachpersonen entwickelt ✅ Praxisorientiert ✅ Abschluss mit Zertifikat https://rocksberg-akademie.de/
 
 ## 2. Links
 

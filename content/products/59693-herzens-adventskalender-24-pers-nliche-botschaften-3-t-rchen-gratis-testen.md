@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das perfekte Saisonprodukt für Oktober bis Heiligabend: Kunden erstellen einen persönlichen Adventskalender mit 24 liebevollen Botschaften für Mama, Partner, beste Freundin oder Oma. Kein Kram, keine Verpackung, sondern Worte, die bleiben.</p>
-<p><strong>Warum es sich für dich lohnt</strong></p>
-<ul>
-<li><strong>40 % Provision</strong> auf beide Produkte (Einzel 12,90 €, 3er-Paket 24,90 €)</li>
-<li><strong>Kostenlose Vorschau:</strong> Deine Leser füllen den Fragebogen aus und sehen die ersten 3 Türchen sofort. Wer seine eigenen Botschaften gesehen hat, kauft deutlich leichter.</li>
-<li><strong>Riesige Zielgruppe:</strong> Jeder sucht im Advent ein persönliches Geschenk. Passt zu Familie, Mama-Blogs, Geschenkideen, Nachhaltigkeit, DIY, Partnerschaft und Last-Minute-Content.</li>
-<li><strong>Last-Minute-tauglich bis zum 24. Dezember:</strong> Der Kalender ist sofort fertig und wird per WhatsApp verschickt. Vergangene Türchen öffnen sich direkt.</li>
-<li><strong>Das 3er-Paket</strong> (Mama, Partner, Freundin) erhöht deinen Verdienst pro Kunde.</li>
-</ul>
-<p><strong>So funktioniert das Produkt</strong></p>
-<p>Fragebogen ausfüllen (Eigenschaften, liebenswerte Macken, Hobbys, „Ich liebe es, wenn du …“, gemeinsame Erlebnisse) → 24 Botschaften entstehen mit KI-Unterstützung → nach dem Kauf alles bearbeiten → Link zum Verschicken, bei dem jedes Türchen erst an seinem Tag aufgeht, plus Druckvorlage mit 24 Kärtchen und Zahlen-Anhängern.</p>
-<p><strong>Werbemittel</strong></p>
-<p>Auf der Partnerseite findest du fertige Pinterest-Pins, Story- und Feed-Grafiken, Texte für Instagram, Newsletter, Pinterest und WhatsApp sowie einen Beispiel-Kalender zum Zeigen. Partnerschaften werden automatisch angenommen.</p>
-<p>Von ah.living – Wohnen, Interior und Herzensprojekte von einer Raumausstatterin mit über 25 Jahren Erfahrung.</p>
+**Vendor's marketplace description:** Das perfekte Saisonprodukt für Oktober bis Heiligabend: Kunden erstellen einen persönlichen Adventskalender mit 24 liebevollen Botschaften für Mama, Partner, beste Freundin oder Oma. Kein Kram, keine Verpackung, sondern Worte, die bleiben. Warum es sich für dich lohnt 40 % Provision auf beide Produkte (Einzel 12,90 €, 3er-Paket 24,90 €) Kostenlose Vorschau: Deine Leser füllen den Fragebogen aus und sehen die ersten 3 Türchen sofort. Wer seine eigenen Botschaften gesehen hat, kauft deutlich leichter. Riesige Zielgruppe: Jeder sucht im Advent ein persönliches Geschenk. Passt zu Familie, Mama-Blogs, Geschenkideen, Nachhaltigkeit, DIY, Partnerschaft und Last-Minute-Content. Last-Minute-tauglich bis zum 24. Dezember: Der Kalender ist sofort fertig und wird per WhatsApp verschickt. Vergangene Türchen öffnen sich direkt. Das 3er-Paket (Mama, Partner, Freundin) erhöht deinen Verdienst pro Kunde. So funktioniert das Produkt Fragebogen ausfüllen (Eigenschaften, liebenswerte Macken, Hobbys, „Ich liebe es, wenn du …“, gemeinsame Erlebnisse) → 24 Botschaften entstehen mit KI-Unterstützung → nach dem Kauf alles bearbeiten → Link zum Verschicken, bei dem jedes Türchen erst an seinem Tag aufgeht, plus Druckvorlage mit 24 Kärtchen und Zahlen-Anhängern. Werbemittel Auf der Partnerseite findest du fertige Pinterest-Pins, Story- und Feed-Grafiken, Texte für Instagram, Newsletter, Pinterest und WhatsApp sowie einen Beispiel-Kalender zum Zeigen. Partnerschaften werden automatisch angenommen. Von ah.living – Wohnen, Interior und Herzensprojekte von einer Raumausstatterin mit über 25 Jahren Erfahrung.
 
 ## 2. Links
 

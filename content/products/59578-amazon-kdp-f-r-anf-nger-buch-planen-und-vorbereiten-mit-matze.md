@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Amazon KDP für Anfänger – Buch planen und vorbereiten mit Matze</p>
-<p>Eigenes Buchkonzept, Manuskript, Cover und Metadaten prüfen. Dieser deutschsprachige Selbstlernkurs begleitet dich von der Idee bis zum Ergebnis: ein geprüftes Buchkonzept samt Veröffentlichungscheckliste. Matze zeigt jeden Schritt am durchgehenden fiktiven Beispiel. Die Aufgaben überträgst du auf dein eigenes Projekt.</p>
-<p>Das lernst du:<br />1. Leser und Nutzen festlegen<br />2. Inhalt und Rechte entwickeln<br />3. Format und Lesbarkeit<br />4. Cover und Metadaten<br />5. Preis und Rechte vor Freigabe<br />6. Vorschau und Veröffentlichungstest</p>
-<p>Für wen? Einsteiger, die ein eigenständiges Buch über Amazon KDP vorbereiten möchten.</p>
-<p>Im Paket: PDF-Praxiskurs, PDF-Arbeitsmappe und vier bearbeitbare Vorlagen. Du gehst im eigenen Tempo vor und prüfst deine Ergebnisse anhand der Aufgaben.</p>
-<p>Für Affiliates: Der Kurs zeigt konkrete Arbeitsschritte und verspricht keine Umsätze oder Aufnahme in externe Programme. Bewirb ihn mit eigener Erfahrung, klarer Werbekennzeichnung und deinem persönlichen Digistore24-Promolink. Digitale Einmalzahlung; Affiliate-Provision laut Angebot: 40 %.</p>
-<p>Planungstools sind optional. Im Kurs kann ein gekennzeichneter Metricool-Affiliate-Link enthalten sein.</p>
+**Vendor's marketplace description:** Amazon KDP für Anfänger – Buch planen und vorbereiten mit Matze Eigenes Buchkonzept, Manuskript, Cover und Metadaten prüfen. Dieser deutschsprachige Selbstlernkurs begleitet dich von der Idee bis zum Ergebnis: ein geprüftes Buchkonzept samt Veröffentlichungscheckliste. Matze zeigt jeden Schritt am durchgehenden fiktiven Beispiel. Die Aufgaben überträgst du auf dein eigenes Projekt. Das lernst du: 1. Leser und Nutzen festlegen 2. Inhalt und Rechte entwickeln 3. Format und Lesbarkeit 4. Cover und Metadaten 5. Preis und Rechte vor Freigabe 6. Vorschau und Veröffentlichungstest Für wen? Einsteiger, die ein eigenständiges Buch über Amazon KDP vorbereiten möchten. Im Paket: PDF-Praxiskurs, PDF-Arbeitsmappe und vier bearbeitbare Vorlagen. Du gehst im eigenen Tempo vor und prüfst deine Ergebnisse anhand der Aufgaben. Für Affiliates: Der Kurs zeigt konkrete Arbeitsschritte und verspricht keine Umsätze oder Aufnahme in externe Programme. Bewirb ihn mit eigener Erfahrung, klarer Werbekennzeichnung und deinem persönlichen Digistore24-Promolink. Digitale Einmalzahlung; Affiliate-Provision laut Angebot: 40 %. Planungstools sind optional. Im Kurs kann ein gekennzeichneter Metricool-Affiliate-Link enthalten sein.
 
 ## 2. Links
 

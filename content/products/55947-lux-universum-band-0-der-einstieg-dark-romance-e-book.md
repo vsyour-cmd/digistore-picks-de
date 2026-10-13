@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Lux-Universum Band 0 – Der Einstieg ist ein Dark-Romance-E-Book für Leserinnen, die keine harmlose Liebesgeschichte suchen, sondern Spannung, Kontrolle und Figuren, die im Kopf bleiben.</p>
-<p>USP: Dark Romance aus männlicher Autorensicht.</p>
-<p>Preis: 9,90 €.</p>
-<p>Gratis-Leseprobe verfügbar.</p>
-<p>Band 1 ist bereits in Vorbereitung und erscheint bald, dadurch eignet sich Band 0 ideal als Einstiegsprodukt für BookTok-, Romance- und Dark-Romance-Traffic.</p>
+**Vendor's marketplace description:** Lux-Universum Band 0 – Der Einstieg ist ein Dark-Romance-E-Book für Leserinnen, die keine harmlose Liebesgeschichte suchen, sondern Spannung, Kontrolle und Figuren, die im Kopf bleiben. USP: Dark Romance aus männlicher Autorensicht. Preis: 9,90 €. Gratis-Leseprobe verfügbar. Band 1 ist bereits in Vorbereitung und erscheint bald, dadurch eignet sich Band 0 ideal als Einstiegsprodukt für BookTok-, Romance- und Dark-Romance-Traffic.
 
 ## 2. Links
 

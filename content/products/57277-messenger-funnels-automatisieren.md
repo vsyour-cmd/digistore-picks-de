@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Messenger-Funnels automatisieren“</strong></p>
-<p>Dein Verkaufs-Bot Schritt für Schritt – Ein guter Messenger-Funnel verkauft rund um die Uhr. Was ein Funnel leistet, ihn vom Einstieg zum Ziel planen, Opt-in rechtssicher gestalten, Konversationen, die verkaufen, und deinen ersten Verkaufs-Bot bauen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verstehen, was ein Messenger-Funnel leistet</li>
-<li>Den Funnel vom Einstieg zum Ziel planen</li>
-<li>Deinen ersten Verkaufs-Bot bauen</li>
-<li>Testen, verbessern und Datenschutz wahren</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Messenger-Funnels automatisieren“ Dein Verkaufs-Bot Schritt für Schritt – Ein guter Messenger-Funnel verkauft rund um die Uhr. Was ein Funnel leistet, ihn vom Einstieg zum Ziel planen, Opt-in rechtssicher gestalten, Konversationen, die verkaufen, und deinen ersten Verkaufs-Bot bauen. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verstehen, was ein Messenger-Funnel leistet Den Funnel vom Einstieg zum Ziel planen Deinen ersten Verkaufs-Bot bauen Testen, verbessern und Datenschutz wahren
 
 ## 2. Links
 

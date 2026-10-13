@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>KURVEN UND KLASSE – Der Stil- und Beauty-Guide ab 50</strong></p>
-<p>Stil kennt kein Alter – und Kurven müssen nicht versteckt werden.</p>
-<p>Dieses E-Book richtet sich an Frauen ab 50, die ihren persönlichen Stil selbstbewusst leben und Mode und Beauty neu für sich entdecken möchten. Besonders kurvige Frauen erhalten praktische Anregungen, wie Kleidung, Schnitte, Farben und Accessoires die eigene Persönlichkeit unterstreichen können.</p>
-<p>In 30 praxisnahen Kapiteln geht es unter anderem um passende Schnitte und Silhouetten, Hosen, Kleider und Röcke, Schuhe, Strümpfe und Shapewear, Farben und Accessoires sowie Beauty-Tipps für reife Haut, Make-up, Haare und Styling.</p>
-<p><strong>Die Zielgruppe:</strong> Frauen 50+, insbesondere kurvige und modebewusste Frauen, die sich nicht verstecken möchten und Wert auf Stil, Ausstrahlung und Selbstbewusstsein legen.</p>
-<p>Das Thema eignet sich besonders für Webseiten, Blogs und Social-Media-Kanäle aus den Bereichen Mode, Curvy Fashion, Best Ager, Beauty, Lifestyle und Frauen 50+.</p>
-<p><strong>KURVEN UND KLASSE</strong> vermittelt keine starren Moderegeln. Im Mittelpunkt stehen Freude am eigenen Stil, die eigenen Kurven und ein selbstbewusster Auftritt ab 50.</p>
+**Vendor's marketplace description:** KURVEN UND KLASSE – Der Stil- und Beauty-Guide ab 50 Stil kennt kein Alter – und Kurven müssen nicht versteckt werden. Dieses E-Book richtet sich an Frauen ab 50, die ihren persönlichen Stil selbstbewusst leben und Mode und Beauty neu für sich entdecken möchten. Besonders kurvige Frauen erhalten praktische Anregungen, wie Kleidung, Schnitte, Farben und Accessoires die eigene Persönlichkeit unterstreichen können. In 30 praxisnahen Kapiteln geht es unter anderem um passende Schnitte und Silhouetten, Hosen, Kleider und Röcke, Schuhe, Strümpfe und Shapewear, Farben und Accessoires sowie Beauty-Tipps für reife Haut, Make-up, Haare und Styling. Die Zielgruppe: Frauen 50+, insbesondere kurvige und modebewusste Frauen, die sich nicht verstecken möchten und Wert auf Stil, Ausstrahlung und Selbstbewusstsein legen. Das Thema eignet sich besonders für Webseiten, Blogs und Social-Media-Kanäle aus den Bereichen Mode, Curvy Fashion, Best Ager, Beauty, Lifestyle und Frauen 50+. KURVEN UND KLASSE vermittelt keine starren Moderegeln. Im Mittelpunkt stehen Freude am eigenen Stil, die eigenen Kurven und ein selbstbewusster Auftritt ab 50.
 
 ## 2. Links
 

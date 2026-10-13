@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>EU KI-Content-Herkunft – Synthetic Media und Deepfake-Kennzeichnung 2026/2027</strong></p>
-<p>Dieses digitale Produkt ist ein <strong>praktisches PDF-Arbeitsheft</strong> für Unternehmen, Agenturen und Content-Teams, die KI-generierte oder synthetische Inhalte erstellen und deren Herkunft, Kennzeichnung und Freigabe nachvollziehbar dokumentieren möchten.</p>
-<p>Das Arbeitsheft unterstützt bei typischen Aufgaben rund um <strong>EU AI Act, Deepfake-Kennzeichnung, Synthetic Media, Content-Provenance und interne Dokumentation</strong>.</p>
-<p><strong>Geeignet für:</strong></p>
-<ul>
-<li>Unternehmen und KMU</li>
-<li>Marketing- und Content-Teams</li>
-<li>Agenturen und Beratungen</li>
-<li>Social-Media- und Kommunikationsteams</li>
-<li>Medien- und Kreativbereiche</li>
-<li>Compliance- und KI-Verantwortliche</li>
-</ul>
-<p><strong>Enthalten sind unter anderem:</strong></p>
-<ul>
-<li>Kennzeichnung von KI-generierten Inhalten</li>
-<li>Dokumentation von Synthetic Media</li>
-<li>Deepfake-Nachweise und Prüfprozesse</li>
-<li>Content-Herkunft und Provenance</li>
-<li>Einwilligungs- und Freigabeprozesse</li>
-<li>interne Prüf- und Auditprotokolle</li>
-<li>Archivierung und Nachweisführung</li>
-</ul>
-<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales Arbeitsheft im PDF-Format</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
-<p>Das Arbeitsheft dient als praktische Arbeits-, Strukturierungs- und Dokumentationshilfe und ersetzt keine individuelle Rechtsberatung.</p>
-<p><strong>Verkaufspreis: 29,00 €</strong> – digitaler Sofortdownload nach dem Kauf.</p>
+**Vendor's marketplace description:** EU KI-Content-Herkunft – Synthetic Media und Deepfake-Kennzeichnung 2026/2027 Dieses digitale Produkt ist ein praktisches PDF-Arbeitsheft für Unternehmen, Agenturen und Content-Teams, die KI-generierte oder synthetische Inhalte erstellen und deren Herkunft, Kennzeichnung und Freigabe nachvollziehbar dokumentieren möchten. Das Arbeitsheft unterstützt bei typischen Aufgaben rund um EU AI Act, Deepfake-Kennzeichnung, Synthetic Media, Content-Provenance und interne Dokumentation . Geeignet für: Unternehmen und KMU Marketing- und Content-Teams Agenturen und Beratungen Social-Media- und Kommunikationsteams Medien- und Kreativbereiche Compliance- und KI-Verantwortliche Enthalten sind unter anderem: Kennzeichnung von KI-generierten Inhalten Dokumentation von Synthetic Media Deepfake-Nachweise und Prüfprozesse Content-Herkunft und Provenance Einwilligungs- und Freigabeprozesse interne Prüf- und Auditprotokolle Archivierung und Nachweisführung Wichtig: Es handelt sich ausdrücklich um ein digitales Arbeitsheft im PDF-Format und nicht um Software, einen Videokurs oder einen Mitgliederbereich. Das Arbeitsheft dient als praktische Arbeits-, Strukturierungs- und Dokumentationshilfe und ersetzt keine individuelle Rechtsberatung. Verkaufspreis: 29,00 € – digitaler Sofortdownload nach dem Kauf.
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><span style="background-color:#ffff00;"><em><strong>Chat GPT - 50 Möglichkeiten es zu nutzen</strong></em></span></div>
-<div> </div>
-<div><em><strong>✅ </strong>Du erhältst die profitabelsten Strategien zum Geld verdienen im Internet mit Chat GPT.</em></div>
-<div> </div>
-<div><em><strong>✅ </strong>+ Zugang zum exklusiven Mitgliederbereich mit HD-Videos</em></div>
-<div><br /><span style="background-color:#ffff00;"><em><strong>Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm...</strong></em></span></div>
-<div> </div>
-<div><em><strong>Du kannst durch Upsells und AddOn bis zu 173 Euro</strong></em></div>
+**Vendor's marketplace description:** Chat GPT - 50 Möglichkeiten es zu nutzen ✅ Du erhältst die profitabelsten Strategien zum Geld verdienen im Internet mit Chat GPT. ✅ + Zugang zum exklusiven Mitgliederbereich mit HD-Videos Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm... Du kannst durch Upsells und AddOn bis zu 173 Euro
 
 ## 2. Links
 

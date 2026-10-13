@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Hook Hannes | Dein kostenloser KI Hook-Generator</strong></h2>
-<p><strong>Du postest, aber keiner klickt?</strong> Das Problem: Dir fehlt der perfekte Hook!</p>
-<p><strong>Hook Hannes löst das in Sekunden:</strong></p>
-<ul>
-<li><strong>Hooks für alle Plattformen:</strong> Instagram Reels, Facebook Ads, E-Mails &amp; mehr</li>
-<li><strong>Psychologisch getriggert:</strong> Neugier, Schmerz, Status, Verlust</li>
-<li><strong>Plattformgerecht:</strong> Automatische Anpassung an dein Medium</li>
-<li><strong>Sofort einsatzbereit:</strong> Auch ohne Copywriting-Skills</li>
-</ul>
-<h3><strong>Perfekt für:</strong></h3>
-<p>Content Creator, Affiliate Marketer, Online Unternehmer</p>
-<div style="background-color:#f0f8f0;padding:15px;border-left:4px solid #4CAF50;margin:15px 0;">
-<p><strong>100% kostenlos, DSGVO-konform, kein Login nötig</strong></p>
-<p>Funktioniert auch mit kostenlosem ChatGPT-Account!</p>
-</div>
-<h3><strong>So einfach geht's:</strong></h3>
-<ol>
-<li>Link klicken, Hook Hannes startet</li>
-<li>Ziel eingeben "Hook für Instagram Reel über Fitness"</li>
-<li>Hook kopieren,  Direkt verwendbar</li>
-</ol>
-<p style="font-size:18px;color:#ff7c1a;"><strong>Verwandle deine Inhalte in Klick-Magnete - starte jetzt!</strong></p>
-<p style="font-size:12px;color:#666;margin-top:20px;">Die Abwicklung erfolgt sicher über Digistore24.</p>
-<p style="font-size:12px;color:#666;margin-top:20px;"><span style="color:#ff9900;">Rabattcode: hannes</span></p>
+**Vendor's marketplace description:** Hook Hannes | Dein kostenloser KI Hook-Generator Du postest, aber keiner klickt? Das Problem: Dir fehlt der perfekte Hook! Hook Hannes löst das in Sekunden: Hooks für alle Plattformen: Instagram Reels, Facebook Ads, E-Mails & mehr Psychologisch getriggert: Neugier, Schmerz, Status, Verlust Plattformgerecht: Automatische Anpassung an dein Medium Sofort einsatzbereit: Auch ohne Copywriting-Skills Perfekt für: Content Creator, Affiliate Marketer, Online Unternehmer 100% kostenlos, DSGVO-konform, kein Login nötig Funktioniert auch mit kostenlosem ChatGPT-Account! So einfach geht's: Link klicken, Hook Hannes startet Ziel eingeben "Hook für Instagram Reel über Fitness" Hook kopieren, Direkt verwendbar Verwandle deine Inhalte in Klick-Magnete - starte jetzt! Die Abwicklung erfolgt sicher über Digistore24. Rabattcode: hannes
 
 ## 2. Links
 

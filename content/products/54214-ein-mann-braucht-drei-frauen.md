@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Digitales E-Book: Ein Mann braucht drei Frauen – Ein modernes Buch über Sehnsucht, Realität und Liebe</strong></p>
-<p>Was Männer wirklich bewegt – und was Frauen darüber wissen sollten.</p>
-<p>Dieses Buch ist kein Ratgeber, sondern ein Spiegel. Es zeigt die inneren Sehnsüchte von Männern, beschreibt die drei archetypischen Frauenbilder – die Leidenschaftliche, die Freundschaftliche und die Visionärin – und beleuchtet die Dynamik moderner Beziehungen zwischen Nähe, Freiheit, Sehnsucht und Ankommen.</p>
-<p>Authentisch, ehrlich und tiefgründig. Für Männer, die sich selbst besser verstehen wollen – und für Frauen, die einen echten Blick ins Innere werfen möchten.</p>
-<p>Jetzt lesen und entdecken, warum Liebe mehr ist als ein Happy End.</p>
+**Vendor's marketplace description:** Digitales E-Book: Ein Mann braucht drei Frauen – Ein modernes Buch über Sehnsucht, Realität und Liebe Was Männer wirklich bewegt – und was Frauen darüber wissen sollten. Dieses Buch ist kein Ratgeber, sondern ein Spiegel. Es zeigt die inneren Sehnsüchte von Männern, beschreibt die drei archetypischen Frauenbilder – die Leidenschaftliche, die Freundschaftliche und die Visionärin – und beleuchtet die Dynamik moderner Beziehungen zwischen Nähe, Freiheit, Sehnsucht und Ankommen. Authentisch, ehrlich und tiefgründig. Für Männer, die sich selbst besser verstehen wollen – und für Frauen, die einen echten Blick ins Innere werfen möchten. Jetzt lesen und entdecken, warum Liebe mehr ist als ein Happy End.
 
 ## 2. Links
 

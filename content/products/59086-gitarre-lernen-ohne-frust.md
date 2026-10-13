@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Affiliate-Steckbrief</h2>
-<p> <strong>• Produkt:</strong> Gitarre lernen ohne Frust (E-Book)</p>
-<p> <strong>• Preis:</strong> 17,99 EUR</p>
-<p> <strong>• Provision:</strong> 70%</p>
-<p> <strong>• Zielgruppe:</strong> Anfänger &amp; Wiedereinsteiger, die ohne graue Musiktheorie und Schmerzen schnell echte Songs spielen wollen.</p>
-<p> </p>
-<h3><strong>Kurze Werbe-Copy (Swipe-Text)</strong></h3>
-<p>„Schluss mit schmerzenden Fingern und dem Frust beim F-Akkord! Mit ‚Gitarre lernen ohne Frust‘ spielen deine Abonnenten endlich die Songs, die sie lieben – ganz ohne trockene Notenlehre. Nutze die hohe Nachfrage, profitiere von einer starken 70% Provision und starte noch heute mit fertigen Werbemitteln!“</p>
+**Vendor's marketplace description:** Affiliate-Steckbrief • Produkt: Gitarre lernen ohne Frust (E-Book) • Preis: 17,99 EUR • Provision: 70% • Zielgruppe: Anfänger & Wiedereinsteiger, die ohne graue Musiktheorie und Schmerzen schnell echte Songs spielen wollen. Kurze Werbe-Copy (Swipe-Text) „Schluss mit schmerzenden Fingern und dem Frust beim F-Akkord! Mit ‚Gitarre lernen ohne Frust‘ spielen deine Abonnenten endlich die Songs, die sie lieben – ganz ohne trockene Notenlehre. Nutze die hohe Nachfrage, profitiere von einer starken 70% Provision und starte noch heute mit fertigen Werbemitteln!“
 
 ## 2. Links
 

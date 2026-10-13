@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="margin:0;"><span style="font-size:150%;"><strong><span style="letter-spacing:0.5px;padding:5px 6px;background-color:#ffff00;">Nr. 1 Turnierplattform</span></strong></span></p>
-<p><span style="font-size:150%;"><strong><span style="letter-spacing:0.5px;padding:5px 6px;background-color:#ffff00;">mit 5<span style="white-space:nowrap;">0% Provision</span> !!!</span></strong></span></p>
-<p><em>Die Ablösung für Spielpläne mit aufwändigen Exceltabellen oder lässtiger Zettelwirtschaft!</em></p>
-<p style="margin:0 0 5px;"><strong>Vorteile als Affiliate:</strong></p>
-<ul style="list-style:none;">
-<li style="list-style:none;margin:0;">✅ Wiederkehrende Provisionen warten auf Dich</li>
-<li style="list-style:none;margin:0;">✅ Unabhängig dessen wann ein Kunde bestellt</li>
-<li style="list-style:none;margin:0;">✅ Provision: <strong>50%</strong></li>
-</ul>
-<p><strong>So funktioniert es:<br /></strong>Zu jeder Neuanmeldung über den Promolink wirst du als Affiliate gespeichert und bei jedem Aufruf des Bestellformulars wiederverwendet, auch wenn die Entscheidung zu einem Kauf viele Tage dauert ODER wenn der Kunde mit einem anderen Endgerät kauft. </p>
-<p><strong>Tipp!!!<br /></strong>Melde dich bei <a href="https://www.meinspielplan.de" target="_blank" rel="noreferrer noopener">meinSpielplan.de</a> an und trage dort deine Digistore-ID ein, um eine transparente Übersicht deiner Empfehlungen zu bekommen. </p>
+**Vendor's marketplace description:** Nr. 1 Turnierplattform mit 5 0% Provision !!! Die Ablösung für Spielpläne mit aufwändigen Exceltabellen oder lässtiger Zettelwirtschaft! Vorteile als Affiliate: ✅ Wiederkehrende Provisionen warten auf Dich ✅ Unabhängig dessen wann ein Kunde bestellt ✅ Provision: 50% So funktioniert es: Zu jeder Neuanmeldung über den Promolink wirst du als Affiliate gespeichert und bei jedem Aufruf des Bestellformulars wiederverwendet, auch wenn die Entscheidung zu einem Kauf viele Tage dauert ODER wenn der Kunde mit einem anderen Endgerät kauft. Tipp!!! Melde dich bei meinSpielplan.de an und trage dort deine Digistore-ID ein, um eine transparente Übersicht deiner Empfehlungen zu bekommen.
 
 ## 2. Links
 

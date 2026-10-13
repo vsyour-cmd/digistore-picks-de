@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h2><span style="background-color:#ffff00;">Affiliates bekommen 50%! </span></h2>
-<p>Hörbuchsprecher Titan Onlinekurs. Voller Zugriff auf Alle Inhalte um erfolgreiche*r Hörbuchsprecher*in zu werden. Ich zeige, wie Du mit Deiner Stimme Geld verdienen wirst.</p>
-<p>Die Vorteile für Deine Interessenten hier die Hörbuchsprecher Ausbildung zu starten:</p>
-<ul>
-<li><strong>+ Tatsächlich DIE preiswerteste Online Ausbildung auf dem Hörbuchsprecher-Markt.</strong></li>
-<li><strong>+ Zuverlässig Schritt für Schritt ALLES in über 200 Lernvideos Lernen</strong></li>
-<li><strong>+persönlicher Support</strong></li>
-<li><strong>+ Inklusive: Erste Hörbuchsprecher Community für Aufträge und Vernetzung</strong></li>
-<li><strong>+ Für Anfänger, wie auch für Profis, die mehr Hörbuchsprecher Aufträge generieren wollen</strong></li>
-<li><strong>+ Immer die neuesten Updates &amp; Infos für Deine Umsetzung. </strong></li>
-</ul>
-<p><strong>Lerne nachhaltig und eigne Dir Fachwissen an in einem Zukunftsjob! Nur mit dem Hörbuchsprecher Titan (Du brauchst keine Schauspielerausbildung) wirst Du mit Deiner Stimme anschließend Geld verdienen und Persönlich wachsen. </strong></p>
-<p><strong>Probiere es gerne aus.Für nur 3,30€ pro Tag (!) kannst Du Deine Berufswelt komplett Neu gestalten. Zuerst in Nebentätigkeit und dann als Beruf und Berufung. Deine einmalige Change in diesem Zukunftsmarkt zu verdienen. <br /></strong></p>
-<p><strong>Auch die Teilnehmer*innen freuen sich bereits auf Dich. Gegenseitige Hilfe und Wertschätzung alles in dieser Top-bewerteten Online Ausbildung. </strong></p>
-<p>Mit persönlichem Support von Christian Gera zum gleichnamigen Buch-Bestseller Hörbuchsprecher Titan.</p>
-</div>
+**Vendor's marketplace description:** Affiliates bekommen 50%! Hörbuchsprecher Titan Onlinekurs. Voller Zugriff auf Alle Inhalte um erfolgreiche*r Hörbuchsprecher*in zu werden. Ich zeige, wie Du mit Deiner Stimme Geld verdienen wirst. Die Vorteile für Deine Interessenten hier die Hörbuchsprecher Ausbildung zu starten: + Tatsächlich DIE preiswerteste Online Ausbildung auf dem Hörbuchsprecher-Markt. + Zuverlässig Schritt für Schritt ALLES in über 200 Lernvideos Lernen +persönlicher Support + Inklusive: Erste Hörbuchsprecher Community für Aufträge und Vernetzung + Für Anfänger, wie auch für Profis, die mehr Hörbuchsprecher Aufträge generieren wollen + Immer die neuesten Updates & Infos für Deine Umsetzung. Lerne nachhaltig und eigne Dir Fachwissen an in einem Zukunftsjob! Nur mit dem Hörbuchsprecher Titan (Du brauchst keine Schauspielerausbildung) wirst Du mit Deiner Stimme anschließend Geld verdienen und Persönlich wachsen. Probiere es gerne aus.Für nur 3,30€ pro Tag (!) kannst Du Deine Berufswelt komplett Neu gestalten. Zuerst in Nebentätigkeit und dann als Beruf und Berufung. Deine einmalige Change in diesem Zukunftsmarkt zu verdienen. Auch die Teilnehmer*innen freuen sich bereits auf Dich. Gegenseitige Hilfe und Wertschätzung alles in dieser Top-bewerteten Online Ausbildung. Mit persönlichem Support von Christian Gera zum gleichnamigen Buch-Bestseller Hörbuchsprecher Titan.
 
 ## 2. Links
 

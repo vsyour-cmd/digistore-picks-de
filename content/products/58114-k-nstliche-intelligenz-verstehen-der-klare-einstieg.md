@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein klarer, verständlicher Einstieg in Künstliche Intelligenz – ohne Fachchinesisch. Ideal für Zielgruppen im Bereich Business, Weiterbildung und alle, die ChatGPT &amp; Co. endlich wirklich verstehen wollen.</p>
-<p> </p>
-<p>24 Kapitel, praxisnah statt technisch, für Einsteiger ab 40 geschrieben. 50% Provision pro Verkauf.</p>
+**Vendor's marketplace description:** Ein klarer, verständlicher Einstieg in Künstliche Intelligenz – ohne Fachchinesisch. Ideal für Zielgruppen im Bereich Business, Weiterbildung und alle, die ChatGPT & Co. endlich wirklich verstehen wollen. 24 Kapitel, praxisnah statt technisch, für Einsteiger ab 40 geschrieben. 50% Provision pro Verkauf.
 
 ## 2. Links
 

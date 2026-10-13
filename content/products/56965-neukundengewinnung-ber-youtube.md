@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie Unternehmen mit Video planbar Leads und Aufträge generieren</strong></p>
-<p>Für Unternehmen ist YouTube kein Spielplatz, sondern ein Vertriebskanal mit Hebel. Dieses E-Book zeigt dir, wie du Video gezielt zur Neukundengewinnung einsetzt – mit Inhalten, die Kaufabsicht treffen, und einem Funnel, der Zuschauer zu Anfragen macht. Du lernst, wie du Themen entlang der Customer Journey planst, wie du Vertrauen in deine Marke aufbaust und wie du den ROI deiner Videos messbar machst. Egal ob Dienstleister, lokaler Betrieb oder B2B – du bekommst ein System, das nicht auf virale Zufälle setzt, sondern auf planbare, wiederkehrende Anfragen. Inklusive Vorlagen für Skripte, Funnel und Reporting.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Video-Themen entlang der Customer Journey planen</li>
-<li>Inhalte, die echte Kaufabsicht treffen</li>
-<li>Der Lead-Funnel von Video zu Anfrage</li>
-<li>Vertrauen &amp; Markenaufbau über YouTube</li>
-<li>ROI messen: welche Kennzahlen wirklich zählen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie Unternehmen mit Video planbar Leads und Aufträge generieren Für Unternehmen ist YouTube kein Spielplatz, sondern ein Vertriebskanal mit Hebel. Dieses E-Book zeigt dir, wie du Video gezielt zur Neukundengewinnung einsetzt – mit Inhalten, die Kaufabsicht treffen, und einem Funnel, der Zuschauer zu Anfragen macht. Du lernst, wie du Themen entlang der Customer Journey planst, wie du Vertrauen in deine Marke aufbaust und wie du den ROI deiner Videos messbar machst. Egal ob Dienstleister, lokaler Betrieb oder B2B – du bekommst ein System, das nicht auf virale Zufälle setzt, sondern auf planbare, wiederkehrende Anfragen. Inklusive Vorlagen für Skripte, Funnel und Reporting. Das steckt drin: Video-Themen entlang der Customer Journey planen Inhalte, die echte Kaufabsicht treffen Der Lead-Funnel von Video zu Anfrage Vertrauen & Markenaufbau über YouTube ROI messen: welche Kennzahlen wirklich zählen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

@@ -41,43 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Top-Chance für Dich: Werde Affiliate für BlogKIQueen und verdiene kräftig!</h2>
-<p> </p>
-<h3><span style="color:#ff6600;"><strong>Schnapp Dir jetzt 50% Provision mit jedem Verkauf!</strong></span></h3>
-<p> </p>
-<p>Hey zukünftiger Affiliate-Partner,</p>
-<p> </p>
-<p>Stell Dir vor, Du könntest Deinen Followern etwas richtig Cooles anbieten - die BlogKIQueen! Wir geben Dir die super Chance, dabei zu sein und fette 50% Provision für jeden Verkauf zu kassieren.</p>
-<p> </p>
-<p>Die BlogKIQueen ist nicht nur irgendein Kurs – sie ist ein echter Game-Changer im Bloggen. Sie macht das Schreiben einfacher und bringt Blogs ganz nach vorne bei Google &amp; Co.</p>
-<h3> </h3>
-<h3><span style="color:#ff6600;">Was ist das Besondere an der BlogKIQueen?</span></h3>
-<p> </p>
-<ul>
-<li>Super einfache Schreib-Hilfen: Unsere speziellen Tipps und Tricks machen das Bloggen super leicht und schnell.</li>
-<li>Spare Zeit &amp; Nerven: Deine Follower können in nur wenigen Minuten einen top Blog-Beitrag fertig haben.</li>
-<li>Mehr Besucher &amp; Verkäufe: Durch bessere Blogs mehr Leute erreichen und mehr verkaufen.</li>
-</ul>
-<h3> </h3>
-<h3><span style="color:#ff6600;">Dein Vorteil als Affiliate</span></h3>
-<p> </p>
-<ul>
-<li>Top Chancen auf Verkäufe: Dieser Kurs ist perfekt für alle - vom Anfänger bis zum Profi-Blogger.</li>
-<li>Richtig gute Provision: Mit 50% pro Verkauf kannst Du ordentlich verdienen.</li>
-<li>Wir unterstützen Dich: Du kriegst alles, was Du brauchst, um richtig gut zu verkaufen.</li>
-</ul>
-<h3> </h3>
-<h3><span style="color:#ff6600;">Sei dabei und starte durch!</span></h3>
-<p> </p>
-<p>Die BlogKIQueen gibt’s auf Digistore24 – total vertrauenswürdig. Für nur 67 € einmalig oder 40 € in zwei Raten ist das ein unschlagbares Angebot.</p>
-<p> </p>
-<p>Warte nicht, steig jetzt ein und verdien richtig mit der BlogKIQueen!</p>
-<p> </p>
-<p>Dein Erfolg ist unser Ziel. Sei Teil der BlogKIQueen-Revolution und hilf Deinen Followern, online richtig durchzustarten.</p>
-<p> </p>
-<p>Leg los – Deine Chance auf dicke Provisionen wartet auf Dich!</p>
-<p> </p>
-<p>Voll motivierte Grüße,<br />Steffen Schwarzlose</p>
+**Vendor's marketplace description:** Top-Chance für Dich: Werde Affiliate für BlogKIQueen und verdiene kräftig! Schnapp Dir jetzt 50% Provision mit jedem Verkauf! Hey zukünftiger Affiliate-Partner, Stell Dir vor, Du könntest Deinen Followern etwas richtig Cooles anbieten - die BlogKIQueen! Wir geben Dir die super Chance, dabei zu sein und fette 50% Provision für jeden Verkauf zu kassieren. Die BlogKIQueen ist nicht nur irgendein Kurs – sie ist ein echter Game-Changer im Bloggen. Sie macht das Schreiben einfacher und bringt Blogs ganz nach vorne bei Google & Co. Was ist das Besondere an der BlogKIQueen? Super einfache Schreib-Hilfen: Unsere speziellen Tipps und Tricks machen das Bloggen super leicht und schnell. Spare Zeit & Nerven: Deine Follower können in nur wenigen Minuten einen top Blog-Beitrag fertig haben. Mehr Besucher & Verkäufe: Durch bessere Blogs mehr Leute erreichen und mehr verkaufen. Dein Vorteil als Affiliate Top Chancen auf Verkäufe: Dieser Kurs ist perfekt für alle - vom Anfänger bis zum Profi-Blogger. Richtig gute Provision: Mit 50% pro Verkauf kannst Du ordentlich verdienen. Wir unterstützen Dich: Du kriegst alles, was Du brauchst, um richtig gut zu verkaufen. Sei dabei und starte durch! Die BlogKIQueen gibt’s auf Digistore24 – total vertrauenswürdig. Für nur 67 € einmalig oder 40 € in zwei Raten ist das ein unschlagbares Angebot. Warte nicht, steig jetzt ein und verdien richtig mit der BlogKIQueen! Dein Erfolg ist unser Ziel. Sei Teil der BlogKIQueen-Revolution und hilf Deinen Followern, online richtig durchzustarten. Leg los – Deine Chance auf dicke Provisionen wartet auf Dich! Voll motivierte Grüße, Steffen Schwarzlose
 
 ## 2. Links
 

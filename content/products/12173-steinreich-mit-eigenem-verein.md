@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><span style="color:#800080;"><strong><big><big>Steinreich mit eigenem Verein</big></big></strong></span></p>
-<div>Das 6-Milliarden-Geschäft: Spenden einsammeln. Der Spezialreport "Steinreich werden mit eigenem Verein" enthält alles, was Sie wissen müssen, um sich von diesem 6-Milliarden-Kuchen ein Stück abzuschneiden.</div>
-<div> </div>
-<div>Natürlich ist es steuerlich am interessantesten, einen Verein zu haben, der als gemeinnützig anerkannt ist. Aber selbst ein nicht als solcher anerkannter Verein kann dafür sorgen, dass man in einem hübschen Haus wohnt, ein dickes Auto fährt und häufiger eine schöne Flugreise macht, denn alle Kosten schmälern den Ertrag. Und nur dieser ist zu versteuern.<br /><br /> Erstmals wird in einem deutschen Report auch beschrieben, wie man Spenden bequem via Internet einsammeln kann!</div>
-<div> </div>
-<div>Und in Teil 2 wird speziell der Verein für ganz Clevere beschrieben...</div>
-<div> </div>
-<div> </div>
-<div>
-<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
-<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
-<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<span style="color:#cc99ff;"><strong><span style="color:#000000;">J</span>eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</strong></span>“.</p>
-<p>2 einfache Schritte:</p>
-<ol>
-<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html</a></span> (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge")</li>
-<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
-</ol>
-<em><strong><br /></strong></em></div>
+**Vendor's marketplace description:** Steinreich mit eigenem Verein Das 6-Milliarden-Geschäft: Spenden einsammeln. Der Spezialreport "Steinreich werden mit eigenem Verein" enthält alles, was Sie wissen müssen, um sich von diesem 6-Milliarden-Kuchen ein Stück abzuschneiden. Natürlich ist es steuerlich am interessantesten, einen Verein zu haben, der als gemeinnützig anerkannt ist. Aber selbst ein nicht als solcher anerkannter Verein kann dafür sorgen, dass man in einem hübschen Haus wohnt, ein dickes Auto fährt und häufiger eine schöne Flugreise macht, denn alle Kosten schmälern den Ertrag. Und nur dieser ist zu versteuern. Erstmals wird in einem deutschen Report auch beschrieben, wie man Spenden bequem via Internet einsammeln kann! Und in Teil 2 wird speziell der Verein für ganz Clevere beschrieben... Möchten Sie ein Ansichtsexemplar? Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz. Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „ J eden T ag R ei*cher “. 2 einfache Schritte: JTR gratis bestellen auf https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge") Email mit Ihrem Ebook-Wunsch an service@big-benn-books.com
 
 ## 2. Links
 

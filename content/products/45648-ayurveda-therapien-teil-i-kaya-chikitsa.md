@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Ayurveda Therapien Teil I / Kaya Chikitsa </strong></p>
-<p><em>Dieser Kurs ist für Menschen, die ayurvedischen Grundlagen bereits erworben haben und sich nun mit den praktischen Anwendung der <a>Euroved Produkte</a> als Shamana Therapie und auch in der Shodana Therapie weiterbilden möchten. <br /></em><em>~ <br /></em>Das Programm erstreckt sich über insgesamt 24 Monate und beginnt am Donnerstag, den 16. November 2023 um 18.00 Uhr. <br /><em>~ </em><br />Profitiere von der Expertise und der Professionalität von Dr. Harsha Gramminger. DER Ayurveda- und Gesundheits-Expertin im deutschsprachigen Raum und <strong>erhalte satte 15 % auf den Monatsbeitrag. </strong><br />~ <br />Bei Fragen steht Dr. Harsha Gramminger den Käufern jederzeit zur Verfügung - entsprechend ist die Storno-Quote verschwindend gering.<br />~ <br />Link zur Website:<br /><strong><a>https://www.harshagramminger.de</a></strong><br /><br /></p>
-<p> </p>
+**Vendor's marketplace description:** Ayurveda Therapien Teil I / Kaya Chikitsa Dieser Kurs ist für Menschen, die ayurvedischen Grundlagen bereits erworben haben und sich nun mit den praktischen Anwendung der Euroved Produkte als Shamana Therapie und auch in der Shodana Therapie weiterbilden möchten. ~ Das Programm erstreckt sich über insgesamt 24 Monate und beginnt am Donnerstag, den 16. November 2023 um 18.00 Uhr. ~ Profitiere von der Expertise und der Professionalität von Dr. Harsha Gramminger. DER Ayurveda- und Gesundheits-Expertin im deutschsprachigen Raum und erhalte satte 15 % auf den Monatsbeitrag. ~ Bei Fragen steht Dr. Harsha Gramminger den Käufern jederzeit zur Verfügung - entsprechend ist die Storno-Quote verschwindend gering. ~ Link zur Website: https://www.harshagramminger.de
 
 ## 2. Links
 

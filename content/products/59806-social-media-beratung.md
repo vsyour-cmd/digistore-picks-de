@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Social Media Beratung – Dein Guide für mehr Reichweite, bessere Inhalte und einen professionellen Auftritt</p>
-<p>Du möchtest Social Media professioneller nutzen, mehr Menschen erreichen und deine Inhalte gezielt aufbauen – weißt aber nicht genau, wo du anfangen sollst?</p>
-<p>Dann ist dieses E-Book genau für dich.</p>
-<p>In diesem praxisorientierten Guide lernst du die wichtigsten Grundlagen, Strategien und Methoden kennen, mit denen du deinen Social-Media-Auftritt Schritt für Schritt verbessern kannst.</p>
-<p>Das erwartet dich:</p>
-<p> </p>
+**Vendor's marketplace description:** Social Media Beratung – Dein Guide für mehr Reichweite, bessere Inhalte und einen professionellen Auftritt Du möchtest Social Media professioneller nutzen, mehr Menschen erreichen und deine Inhalte gezielt aufbauen – weißt aber nicht genau, wo du anfangen sollst? Dann ist dieses E-Book genau für dich. In diesem praxisorientierten Guide lernst du die wichtigsten Grundlagen, Strategien und Methoden kennen, mit denen du deinen Social-Media-Auftritt Schritt für Schritt verbessern kannst. Das erwartet dich:
 
 ## 2. Links
 

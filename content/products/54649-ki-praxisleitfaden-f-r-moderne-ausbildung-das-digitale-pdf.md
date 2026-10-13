@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<p><strong>Kennst du das Gefühl, wenn du eigentlich nur „kurz“ eine Ausbildungseinheit planen willst – und plötzlich sind zwei Stunden vorbei?</strong></p>
-<div> </div>
-<div>
-<div>Zwischen Projekten, E-Mails und Alltagschaos bleibt die Unterrichtsplanung oft das, was irgendwie noch dazwischengeschoben wird. Du möchtest deinen Azubis Qualität bieten, aber der Tag hat einfach nicht genug Stunden. Und je mehr du dich anstrengst, desto größer wird der Druck. Denn du weißt: guter Unterricht entsteht nicht nebenbei.</div>
-<div> </div>
-</div>
-<div>
-<div>Genau hier setzt der <strong>digitale Praxisleitfaden</strong> für moderne Ausbildung – Ausbildungseinheiten mit KI planen an. Dieses <strong>umfassende PDF-Workbook</strong> zeigt dir, wie du mit einem klaren System und intelligentem KI-Einsatz in nur 15 Minuten eine durchdachte, praxisnahe und didaktisch fundierte Ausbildungseinheit entwickelst. Ohne Stress. Ohne Perfektionismus-Falle. Ohne stundenlanges Grübeln.</div>
-<div> </div>
-</div>
-<div>
-<div>Du lernst, die typischen Zeitfresser zu eliminieren, KI als echten Assistenten einzusetzen und ein Express-System zu nutzen, das sofort funktioniert – selbst, wenn du bislang kein KI-Profi bist. Statt jedes Mal bei null zu beginnen, arbeitest du mit einem praxiserprobten Leitfaden, der Struktur, Klarheit und Leichtigkeit in deine Ausbildung bringt.</div>
-<div> </div>
-</div>
-<div>
-<div><strong>Das Ergebnis:</strong> Mehr Zeit für dich und deine Familie. Mehr Gelassenheit im Alltag. Mehr Qualität in deiner Ausbildung, weil du dich wieder auf das konzentrieren kannst, was zählt: deine Azubis. Das System wurde in der Praxis entwickelt. Du bekommst keine graue Theorie, sondern ein Werkzeug, das funktioniert – Tag für Tag.</div>
-</div>
-<div>
-<div> </div>
-</div>
-<div>
-<div>Sichere dir jetzt deinen Zugang zum digitalen PDF-Workbook <strong>„Praxisleitfaden für moderne Ausbildung - Ausbildungseinheiten mit KI planen“</strong> und erlebe, wie einfach Planung sein kann. <strong>Nach dem Kauf erhältst du sofortigen Download-Zugriff auf die PDF-Datei.</strong></div>
-</div>
-</div>
+**Vendor's marketplace description:** Kennst du das Gefühl, wenn du eigentlich nur „kurz“ eine Ausbildungseinheit planen willst – und plötzlich sind zwei Stunden vorbei? Zwischen Projekten, E-Mails und Alltagschaos bleibt die Unterrichtsplanung oft das, was irgendwie noch dazwischengeschoben wird. Du möchtest deinen Azubis Qualität bieten, aber der Tag hat einfach nicht genug Stunden. Und je mehr du dich anstrengst, desto größer wird der Druck. Denn du weißt: guter Unterricht entsteht nicht nebenbei. Genau hier setzt der digitale Praxisleitfaden für moderne Ausbildung – Ausbildungseinheiten mit KI planen an. Dieses umfassende PDF-Workbook zeigt dir, wie du mit einem klaren System und intelligentem KI-Einsatz in nur 15 Minuten eine durchdachte, praxisnahe und didaktisch fundierte Ausbildungseinheit entwickelst. Ohne Stress. Ohne Perfektionismus-Falle. Ohne stundenlanges Grübeln. Du lernst, die typischen Zeitfresser zu eliminieren, KI als echten Assistenten einzusetzen und ein Express-System zu nutzen, das sofort funktioniert – selbst, wenn du bislang kein KI-Profi bist. Statt jedes Mal bei null zu beginnen, arbeitest du mit einem praxiserprobten Leitfaden, der Struktur, Klarheit und Leichtigkeit in deine Ausbildung bringt. Das Ergebnis: Mehr Zeit für dich und deine Familie. Mehr Gelassenheit im Alltag. Mehr Qualität in deiner Ausbildung, weil du dich wieder auf das konzentrieren kannst, was zählt: deine Azubis. Das System wurde in der Praxis entwickelt. Du bekommst keine graue Theorie, sondern ein Werkzeug, das funktioniert – Tag für Tag. Sichere dir jetzt deinen Zugang zum digitalen PDF-Workbook „Praxisleitfaden für moderne Ausbildung - Ausbildungseinheiten mit KI planen“ und erlebe, wie einfach Planung sein kann. Nach dem Kauf erhältst du sofortigen Download-Zugriff auf die PDF-Datei.
 
 ## 2. Links
 

@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Du willst auf Instagram endlich sichtbar werden – und dabei Geld verdienen?</strong></p>
-<p>Dann ist der <strong>VIRAL-CODE</strong> dein Schlüssel zur täglichen Sichtbarkeit, Reichweite &amp; Cashflow – selbst mit einem kleinen oder neuen Account.<br /><em><br />Hi, ich bin Laura – ich habe über <strong>4,1 Mio. € Umsatz</strong> mit organischem Instagram-Content gemacht –<strong>ohne Ads, ohne 24/7 online, ohne Ratespiel.</strong><br /></em></p>
-<h3>Und das Beste: <strong>Du kannst das auch.</strong> Egal, ob mit Gesicht oder „faceless“, ob Mama oder Business-Starter.</h3>
-<hr />
-<h3><strong>Das erwartet dich:</strong></h3>
-<p><strong>Teil 1</strong> <strong>– Viral-Strategie:<br /></strong>- Wie du Reels postest, die Menschen in den ersten 2 Sekunden stoppen.<br />- Du lernst, wie viraler Content wirklich funktioniert – mit echten Beispielen und klaren Anleitungen.</p>
-<p><strong>Teil 2 </strong><strong>– Von Reichweite zu Einnahmen:<br /></strong>- Wie du deine Reichweite in tägliche Verkäufe verwandelst.<br />- Der Cash-Content Kreislauf für kontinuierliches Einkommen<br />- Cash-Map: in 3 Schritten von Views zum Verkauf</p>
-<p><strong>Teil</strong> 3<strong> – Dein Mix der Reichweite und Einkommen bringt<br /></strong>- Was du wie posten solltest, um regelmäßig in deiner Nische viral zu gehen – ohne ewig Zeit zu investieren<br />- Fehler, die du vermeiden musst, für kontinuierliche Sichtbarkeit &amp; Einkommen</p>
-<p>Du erhältst das Wissen in einem Guide zum Downloaden mit direkten Content-Beispielen zum nachmachen.</p>
-<hr />
-<h3> Erfolge danach:</h3>
-<h5>„Ich hab mein neues Profil gestartet – nach 4 Tagen kamen die ersten Anfragen.“<br />„Mit 170 Follower zu mehr Umsatz - mit dieser Content Strategie“<br />„5 Millionen views mit Content der auch noch Geld bringt“<br /><br /></h5>
+**Vendor's marketplace description:** Du willst auf Instagram endlich sichtbar werden – und dabei Geld verdienen? Dann ist der VIRAL-CODE dein Schlüssel zur täglichen Sichtbarkeit, Reichweite & Cashflow – selbst mit einem kleinen oder neuen Account. Hi, ich bin Laura – ich habe über 4,1 Mio. € Umsatz mit organischem Instagram-Content gemacht – ohne Ads, ohne 24/7 online, ohne Ratespiel. Und das Beste: Du kannst das auch. Egal, ob mit Gesicht oder „faceless“, ob Mama oder Business-Starter. Das erwartet dich: Teil 1 – Viral-Strategie: - Wie du Reels postest, die Menschen in den ersten 2 Sekunden stoppen. - Du lernst, wie viraler Content wirklich funktioniert – mit echten Beispielen und klaren Anleitungen. Teil 2 – Von Reichweite zu Einnahmen: - Wie du deine Reichweite in tägliche Verkäufe verwandelst. - Der Cash-Content Kreislauf für kontinuierliches Einkommen - Cash-Map: in 3 Schritten von Views zum Verkauf Teil 3 – Dein Mix der Reichweite und Einkommen bringt - Was du wie posten solltest, um regelmäßig in deiner Nische viral zu gehen – ohne ewig Zeit zu investieren - Fehler, die du vermeiden musst, für kontinuierliche Sichtbarkeit & Einkommen Du erhältst das Wissen in einem Guide zum Downloaden mit direkten Content-Beispielen zum nachmachen. Erfolge danach: „Ich hab mein neues Profil gestartet – nach 4 Tagen kamen die ersten Anfragen.“ „Mit 170 Follower zu mehr Umsatz - mit dieser Content Strategie“ „5 Millionen views mit Content der auch noch Geld bringt“
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Personal Branding, B2B-Leadgen und Kunden gewinnen ohne Kaltakquise</strong></p>
-<p>LinkedIn ist der ideale Kanal für Coaches und Experten – weil hier Entscheider, Führungskräfte und Weiterbildungshungrige aktiv auf der Suche sind. Dieses E-Book zeigt dir, wie du deine persönliche Marke aufbaust, die genau die richtigen Menschen anzieht, und wie du aus Content planbar Erstgespräche und Kunden machst – ohne lästige Kaltakquise. Du lernst, wie du Content-Pillars definierst, die zu deinem Angebot passen, wie du Dokument-Karussells und Texte mit starker Hook-Zeile einsetzt, und wie du DMs führst, die sich natürlich anfühlen statt aufdringlich. Inklusive eines Social-Selling-Fahrplans, der deinen Kalender füllt – Woche für Woche.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Deine Personal Brand aufbauen: so wirst du zur erkennbaren Autorität</li>
-<li>Content-Pillars definieren, die Expertise zeigen und Kunden anziehen</li>
-<li>Dokument-Karussells erstellen, die geteilt werden und Reichweite explodieren lassen</li>
-<li>Die Hook-Zeile vor dem »…mehr«: so stoppt du jeden Scroll</li>
-<li>Social Selling: Verbindungen aufbauen, die zu Kunden werden</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Personal Branding, B2B-Leadgen und Kunden gewinnen ohne Kaltakquise LinkedIn ist der ideale Kanal für Coaches und Experten – weil hier Entscheider, Führungskräfte und Weiterbildungshungrige aktiv auf der Suche sind. Dieses E-Book zeigt dir, wie du deine persönliche Marke aufbaust, die genau die richtigen Menschen anzieht, und wie du aus Content planbar Erstgespräche und Kunden machst – ohne lästige Kaltakquise. Du lernst, wie du Content-Pillars definierst, die zu deinem Angebot passen, wie du Dokument-Karussells und Texte mit starker Hook-Zeile einsetzt, und wie du DMs führst, die sich natürlich anfühlen statt aufdringlich. Inklusive eines Social-Selling-Fahrplans, der deinen Kalender füllt – Woche für Woche. Das steckt drin: Deine Personal Brand aufbauen: so wirst du zur erkennbaren Autorität Content-Pillars definieren, die Expertise zeigen und Kunden anziehen Dokument-Karussells erstellen, die geteilt werden und Reichweite explodieren lassen Die Hook-Zeile vor dem »…mehr«: so stoppt du jeden Scroll Social Selling: Verbindungen aufbauen, die zu Kunden werden Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

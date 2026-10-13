@@ -41,37 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<p>Befreie Deine festgehaltenen Traumaenergien, löse die chronischen Verspannungen aus Deinem Zwerchfell und atme wieder tief durch!</p>
-</div>
-</div>
-<div>
-<div>
-<p>Solange wir flach in die Brust atmen ist unser Nervensystem ständig im Alarmmodus und unser Parasympathikus kann sich nicht aktivieren. Unsere Organe leiden und die Lebensenergie kann nicht fließen.</p>
-</div>
-</div>
-<div>
-<div>
-<p>Dieser Hypnose-Onlinekurs unterstützt Dich dabei, Deinen wichtigsten Atemmuskel dauerhaft aus seiner Trauma-Schockstarre zu lösen und so Deine Brustpanzerung zu sprengen.</p>
-</div>
-</div>
-<p>Inhalt dieses Online-Kurses:</p>
-<ul>
-<li>
-<p>Videolektion: Das Zwerchfell verstehen</p>
-</li>
-<li>
-<p>Videolektion: Praktische Übungen</p>
-</li>
-<li>
-<p>Videolektion: Tipps zur richtigen Hypnoseanwendung</p>
-</li>
-<li>
-<p>Hypnosevideo mit Audio-Version</p>
-</li>
-</ul>
-<p>Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.</p>
+**Vendor's marketplace description:** Befreie Deine festgehaltenen Traumaenergien, löse die chronischen Verspannungen aus Deinem Zwerchfell und atme wieder tief durch! Solange wir flach in die Brust atmen ist unser Nervensystem ständig im Alarmmodus und unser Parasympathikus kann sich nicht aktivieren. Unsere Organe leiden und die Lebensenergie kann nicht fließen. Dieser Hypnose-Onlinekurs unterstützt Dich dabei, Deinen wichtigsten Atemmuskel dauerhaft aus seiner Trauma-Schockstarre zu lösen und so Deine Brustpanzerung zu sprengen. Inhalt dieses Online-Kurses: Videolektion: Das Zwerchfell verstehen Videolektion: Praktische Übungen Videolektion: Tipps zur richtigen Hypnoseanwendung Hypnosevideo mit Audio-Version Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><span style="color:#ff6600;">Hypnose zur GEWICHTSREDUZIERUNG</span></h3>
-<div>
-<p><span style="color:#ff6600;"><strong>KATJA AMBERG | Hypnose zur GEWICHTSREDUZIERUNG | Online</strong></span></p>
-<p>Audio-Anwendung | ONLINE-PRODUKT</p>
-<p>Gesprochen von KATJA AMBERG.</p>
-<p><strong>Der Zugang zu diesem Produkt erfolgt über den Mitgliederbereich von <a>www.katja-amberg-coaching.de</a> über gesonderten login. Die login-Daten werden nach Kaufabschluß per Mail übermittelt.</strong></p>
-<p>Mit dieser Hypnoseanwendung ist es Ihnen möglich Ihre Essgewohnheiten so zu verändern, daß Sie auf natürliche Art und Weise abnehmen können. Techniken der Gedankenprogrammierung und Visualisierung helfen Ihnen, Ihr Leben anders zu gestalten um Ihr Gewicht zu reduzieren. Voraussetzung ist die regelmäßige Anwendung dieser Audio-Anwendung und die Umsetzung der Veränderungen im Essverhalten durch gezieltes Handeln im realen Leben. Besonders wirkungsvoll ist die Hypnose als Ergänzung mit individuellen Hypnose-Einzelsitzungen in der Praxis, um ggf. noch vorhandene Blockaden zu lösen. So werden die Suggestionen immer tiefer eingespeichert und immer wieder aufgefrischt.</p>
-<p>1 Vorwort   (3:14)</p>
-<p>2 Hypnose GEWICHTSREDUZIERUNG   (29:06)</p>
-<p>Hinweis: Online- und Download-Produkte sind von Umtausch ausgeschlossen!</p>
-</div>
+**Vendor's marketplace description:** Hypnose zur GEWICHTSREDUZIERUNG KATJA AMBERG | Hypnose zur GEWICHTSREDUZIERUNG | Online Audio-Anwendung | ONLINE-PRODUKT Gesprochen von KATJA AMBERG. Der Zugang zu diesem Produkt erfolgt über den Mitgliederbereich von www.katja-amberg-coaching.de über gesonderten login. Die login-Daten werden nach Kaufabschluß per Mail übermittelt. Mit dieser Hypnoseanwendung ist es Ihnen möglich Ihre Essgewohnheiten so zu verändern, daß Sie auf natürliche Art und Weise abnehmen können. Techniken der Gedankenprogrammierung und Visualisierung helfen Ihnen, Ihr Leben anders zu gestalten um Ihr Gewicht zu reduzieren. Voraussetzung ist die regelmäßige Anwendung dieser Audio-Anwendung und die Umsetzung der Veränderungen im Essverhalten durch gezieltes Handeln im realen Leben. Besonders wirkungsvoll ist die Hypnose als Ergänzung mit individuellen Hypnose-Einzelsitzungen in der Praxis, um ggf. noch vorhandene Blockaden zu lösen. So werden die Suggestionen immer tiefer eingespeichert und immer wieder aufgefrischt. 1 Vorwort (3:14) 2 Hypnose GEWICHTSREDUZIERUNG (29:06) Hinweis: Online- und Download-Produkte sind von Umtausch ausgeschlossen!
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das Rufgespräch</strong> ist kein klassisches Coaching, sondern ein freier Raum, in dem Menschen sich erinnern dürfen, wer sie wirklich sind.</p>
-<p>Matthias Exl öffnet diesen Raum mit Präsenz, Tiefe und Klarheit – jenseits von Methode oder System.</p>
-<p>Dieses Angebot eignet sich nicht für breite Streuung, sondern für Menschen, die selbst ein Rufgespräch erlebt haben – und aus dieser Erfahrung heraus, <strong>ehrlichen Herzens</strong> andere einladen möchten.</p>
-<p><strong>Affiliates erhalten nur auf persönliche Freigabe Zugang.</strong><br />Voraussetzung ist ein eigenes Rufgespräch und ein stimmiges Gefühl, diesen Raum aus wahrer Erfahrung weiterzugeben.</p>
-<p>Bei Fragen bitte Kontakt zu Matthias aufnehmen.</p>
-<p>Schnelle und persönliche Unterstützung auf Deutsch durch Ihren Affiliate-Manager auf unserer Support Seite: <a>http://lana.li/affiliate</a>.</p>
-<p>Wir freuen uns auf eine erfolgreiche Partnerschaft!</p>
-<p> </p>
+**Vendor's marketplace description:** Das Rufgespräch ist kein klassisches Coaching, sondern ein freier Raum, in dem Menschen sich erinnern dürfen, wer sie wirklich sind. Matthias Exl öffnet diesen Raum mit Präsenz, Tiefe und Klarheit – jenseits von Methode oder System. Dieses Angebot eignet sich nicht für breite Streuung, sondern für Menschen, die selbst ein Rufgespräch erlebt haben – und aus dieser Erfahrung heraus, ehrlichen Herzens andere einladen möchten. Affiliates erhalten nur auf persönliche Freigabe Zugang. Voraussetzung ist ein eigenes Rufgespräch und ein stimmiges Gefühl, diesen Raum aus wahrer Erfahrung weiterzugeben. Bei Fragen bitte Kontakt zu Matthias aufnehmen. Schnelle und persönliche Unterstützung auf Deutsch durch Ihren Affiliate-Manager auf unserer Support Seite: http://lana.li/affiliate . Wir freuen uns auf eine erfolgreiche Partnerschaft!
 
 ## 2. Links
 

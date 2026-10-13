@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Dating-Mindset“</strong></p>
-<p>Innere Blockaden lösen und mit echtem Selbstwert ins Dating gehen – Schluss mit Verkrampfung und Selbstzweifeln.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – attraktiver Verdienst pro Verkauf</li>
-<li>Riesige Zielgruppe: Singles, die an sich arbeiten wollen</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Dating-Mindset“ Innere Blockaden lösen und mit echtem Selbstwert ins Dating gehen – Schluss mit Verkrampfung und Selbstzweifeln. Warum dieses E-Book bewerben? 50 % Provision – attraktiver Verdienst pro Verkauf Riesige Zielgruppe: Singles, die an sich arbeiten wollen Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge
 
 ## 2. Links
 

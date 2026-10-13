@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Eine vollständig strukturierte, medizinisch fundierte Online-Ausbildung zur Vorbereitung auf die Heilpraktikerprüfung – mit klarem Curriculum, systematischem Aufbau und hoher Bestehensrelevanz.</p>
-<p>Ideal für ernsthafte Teilnehmer, die <strong>gezielt bestehen wollen – nicht nur „ein bisschen lernen“.</strong></p>
-<hr />
-<h2> </h2>
+**Vendor's marketplace description:** Eine vollständig strukturierte, medizinisch fundierte Online-Ausbildung zur Vorbereitung auf die Heilpraktikerprüfung – mit klarem Curriculum, systematischem Aufbau und hoher Bestehensrelevanz. Ideal für ernsthafte Teilnehmer, die gezielt bestehen wollen – nicht nur „ein bisschen lernen“.
 
 ## 2. Links
 

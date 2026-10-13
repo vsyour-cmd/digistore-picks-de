@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Faceless-Videos erstellen für Anfänger – Praxiskurs mit Matze</p>
-<p>Videos ohne Kameraauftritt planen, erstellen und prüfen. Dieser deutschsprachige Selbstlernkurs begleitet dich von der Idee bis zum Ergebnis: ein erstes veröffentlichungsfertiges Kurzvideo und einen nachvollziehbaren Ablauf für weitere Clips. Matze zeigt jeden Schritt am durchgehenden fiktiven Beispiel. Die Aufgaben überträgst du auf dein eigenes Projekt.</p>
-<p>Das lernst du:<br />1. Ein Thema statt zehn Versprechen<br />2. Storyboard mit echtem Nutzwert<br />3. Material und Rechte prüfen<br />4. Rohschnitt und Verständlichkeit<br />5. Beschreibung, Kennzeichnung, Zielseite<br />6. Testen und wiederholen</p>
-<p>Für wen? Menschen, die hilfreiche Kurzvideos ohne eigenen Kameraauftritt produzieren möchten.</p>
-<p>Im Paket: PDF-Praxiskurs, PDF-Arbeitsmappe und vier bearbeitbare Vorlagen. Du gehst im eigenen Tempo vor und prüfst deine Ergebnisse anhand der Aufgaben.</p>
-<p>Für Affiliates: Der Kurs zeigt konkrete Arbeitsschritte und verspricht keine Umsätze oder Aufnahme in externe Programme. Bewirb ihn mit eigener Erfahrung, klarer Werbekennzeichnung und deinem persönlichen Digistore24-Promolink. Digitale Einmalzahlung; Affiliate-Provision laut Angebot: 40 %.</p>
-<p>Planungstools sind optional. Im Kurs kann ein gekennzeichneter Metricool-Affiliate-Link enthalten sein.</p>
+**Vendor's marketplace description:** Faceless-Videos erstellen für Anfänger – Praxiskurs mit Matze Videos ohne Kameraauftritt planen, erstellen und prüfen. Dieser deutschsprachige Selbstlernkurs begleitet dich von der Idee bis zum Ergebnis: ein erstes veröffentlichungsfertiges Kurzvideo und einen nachvollziehbaren Ablauf für weitere Clips. Matze zeigt jeden Schritt am durchgehenden fiktiven Beispiel. Die Aufgaben überträgst du auf dein eigenes Projekt. Das lernst du: 1. Ein Thema statt zehn Versprechen 2. Storyboard mit echtem Nutzwert 3. Material und Rechte prüfen 4. Rohschnitt und Verständlichkeit 5. Beschreibung, Kennzeichnung, Zielseite 6. Testen und wiederholen Für wen? Menschen, die hilfreiche Kurzvideos ohne eigenen Kameraauftritt produzieren möchten. Im Paket: PDF-Praxiskurs, PDF-Arbeitsmappe und vier bearbeitbare Vorlagen. Du gehst im eigenen Tempo vor und prüfst deine Ergebnisse anhand der Aufgaben. Für Affiliates: Der Kurs zeigt konkrete Arbeitsschritte und verspricht keine Umsätze oder Aufnahme in externe Programme. Bewirb ihn mit eigener Erfahrung, klarer Werbekennzeichnung und deinem persönlichen Digistore24-Promolink. Digitale Einmalzahlung; Affiliate-Provision laut Angebot: 40 %. Planungstools sind optional. Im Kurs kann ein gekennzeichneter Metricool-Affiliate-Link enthalten sein.
 
 ## 2. Links
 

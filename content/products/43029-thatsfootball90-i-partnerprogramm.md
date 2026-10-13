@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Vermarktet wird unser monatliches Sportwetten Abonnement. </p>
-<p>Unsere Kunden erhalten wöchentlich Fussball Analysen mit einer erfolgreichen Trefferquote von durchschnittlich 75% </p>
-<p>Bisher erfolgte die Vermarktung außerhalb von digistore und wir konnten bereits über 100 Mitglieder von unserem Produkt überzeugen. </p>
-<p> </p>
-<p><strong>Warum lohnt es sich genau unser Abo-Modell zu vermarkten?</strong></p>
-<p>Wir sind noch relativ neu auf dem Markt. Die Nische lebt davon Tipp-Experten zu testen und sich auch für den zu entscheiden mit dem man langfristig gewinnt. </p>
-<p>Bisher hat keiner unserer Abonnement gekündigt, sodass wir sehr überzeugt von unserer Leistung sind. </p>
-<p> </p>
-<p><strong>Sie als Affiliate erwartet:</strong></p>
-<p>- eine <strong>hohe </strong>Conversion Rate </p>
-<p>- 4<strong>0% Provision!</strong></p>
-<p>- bisher eine sagenhafte <strong>0% Stornoquote! </strong></p>
-<p>- <strong>100% Zufriedenheit </strong>meiner Kunden und ganz viel Feedback in den Sozialen Medien!</p>
+**Vendor's marketplace description:** Vermarktet wird unser monatliches Sportwetten Abonnement. Unsere Kunden erhalten wöchentlich Fussball Analysen mit einer erfolgreichen Trefferquote von durchschnittlich 75% Bisher erfolgte die Vermarktung außerhalb von digistore und wir konnten bereits über 100 Mitglieder von unserem Produkt überzeugen. Warum lohnt es sich genau unser Abo-Modell zu vermarkten? Wir sind noch relativ neu auf dem Markt. Die Nische lebt davon Tipp-Experten zu testen und sich auch für den zu entscheiden mit dem man langfristig gewinnt. Bisher hat keiner unserer Abonnement gekündigt, sodass wir sehr überzeugt von unserer Leistung sind. Sie als Affiliate erwartet: - eine hohe Conversion Rate - 4 0% Provision! - bisher eine sagenhafte 0% Stornoquote! - 100% Zufriedenheit meiner Kunden und ganz viel Feedback in den Sozialen Medien!
 
 ## 2. Links
 

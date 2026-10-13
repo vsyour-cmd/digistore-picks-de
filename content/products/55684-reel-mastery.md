@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Erstelle Reels, die begeistern und Kunden wie am Fließband generieren!</h2>
-<p>Als Affiliate bekommst du 50% auf dieses Frontend Produkt und kannst über 350 € im gesamten Funnel verdienen.</p>
-<p>Zusätzlich wird ein High Ticket Produkt angeboten, sodass du deine Provision damit verdoppeln kannst.</p>
-<p>Das bekommt der Kunde in diesem grandiosen Online-Kurs:</p>
-<ul>
-<li>wie <strong>wirklich gute Reels aussehen,</strong> die eine hohe Chance auf Viralität haben (und wie du sie erstellst)</li>
-<li>wie du verschiedene Arten von Reels gekonnt einsetzt, inkl. passender Musik</li>
-<li>wie du richtig schneidest (vor allem mit wenig Aufwand)</li>
-</ul>
-<p><strong>Und als Bonus</strong>: Coole Schnitttechnik, die Profis nutzen und einiges mehr!  </p>
-<p>Am besten jetzt noch zugreifen! Du erhältst <strong>sofort</strong> Zugriff, auch wenn es 3 Uhr Nachts ist! Sichere dir daher jetzt das Angebot. <strong>Nur jetzt für einmalig 47€ <br /></strong></p>
-<p> </p>
+**Vendor's marketplace description:** Erstelle Reels, die begeistern und Kunden wie am Fließband generieren! Als Affiliate bekommst du 50% auf dieses Frontend Produkt und kannst über 350 € im gesamten Funnel verdienen. Zusätzlich wird ein High Ticket Produkt angeboten, sodass du deine Provision damit verdoppeln kannst. Das bekommt der Kunde in diesem grandiosen Online-Kurs: wie wirklich gute Reels aussehen, die eine hohe Chance auf Viralität haben (und wie du sie erstellst) wie du verschiedene Arten von Reels gekonnt einsetzt, inkl. passender Musik wie du richtig schneidest (vor allem mit wenig Aufwand) Und als Bonus : Coole Schnitttechnik, die Profis nutzen und einiges mehr! Am besten jetzt noch zugreifen! Du erhältst sofort Zugriff, auch wenn es 3 Uhr Nachts ist! Sichere dir daher jetzt das Angebot. Nur jetzt für einmalig 47€
 
 ## 2. Links
 

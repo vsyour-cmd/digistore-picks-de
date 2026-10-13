@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Selbst habe ich über 4.000.000,- € von Investoren und Banken eingesammelt.</p>
-<p>In diesem Ratgeber teile ich meine Strategie, sodass nahezu Jeder in der Lage ist Kapital für seine Geschäftsidee zu beschaffen.</p>
-<p>Der Verkauf läuft über Conversion-starken Video-Sales-Letter.</p>
-<p>Angebot: E-Book “Der Weg zum Geld” für 37 € statt 47</p>
-<p>€55 % Provision pro Verkauf für dich.</p>
+**Vendor's marketplace description:** Selbst habe ich über 4.000.000,- € von Investoren und Banken eingesammelt. In diesem Ratgeber teile ich meine Strategie, sodass nahezu Jeder in der Lage ist Kapital für seine Geschäftsidee zu beschaffen. Der Verkauf läuft über Conversion-starken Video-Sales-Letter. Angebot: E-Book “Der Weg zum Geld” für 37 € statt 47 €55 % Provision pro Verkauf für dich.
 
 ## 2. Links
 

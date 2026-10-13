@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Pädagogisch aufbereiteter Kinderyoga-Onlinekurs, basierend auf mehrtausendfach erprobtem und von der ZPP zertifiziertem Kurskonzept.</p>
+**Vendor's marketplace description:** Pädagogisch aufbereiteter Kinderyoga-Onlinekurs, basierend auf mehrtausendfach erprobtem und von der ZPP zertifiziertem Kurskonzept.
 
 ## 2. Links
 

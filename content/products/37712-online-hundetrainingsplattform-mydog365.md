@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffcc00;">Dupliziere unser Erfolgsrezept auf deiner Website!</span></p>
-<p>Wir zahlen 25% Provision auf jeden Monats- bzw. Jahresbeitrag bei einem Abonnement und ebenfalls 25% Provision bei einem Einzelkurskauf.</p>
-<p>Die Online-Hundetrainingsplattform von mydog365 hat seit der Gründung bereits <strong>über 200.000 Hund-Mensch-Teams </strong>erfolgreich begleitet. </p>
-<p>Die Vorteile unser Plattform im Vergleich zu anderen Online-Hundeschulen, zeigt sich in der <strong>Vielfalt</strong> und der <strong>Ausführlichkeit</strong> unserer Kurse:</p>
-<ul>
-<li>13 mehrwöchige Intensiv-Trainingsprogramme</li>
-<li>24 Basis-Trainings</li>
-<li>24 Tricks &amp; über 150 Tagesaufgaben</li>
-</ul>
-<p>Zusätzlich bieten wir <strong>24/7 Trainer Support</strong> in unserem Forum und regelmäßige <strong>Live-Sessions</strong> in denen die Hundehalter intensiv betreut werden.</p>
-<p>Um mehr Kunden glücklich zu machen, wollen wir nach unserem großen optischen und inhaltlichem Update gerne die Userbase weiter vergrößern.</p>
-<p>Jetzt kommst du ins Spiel!</p>
-<p>Durch deine Teilnahme an unserem Affiliate-Programm sicherst du dir <strong>hochwertig produziertes Werbematerial</strong> für deine Promotion und damit langfristig planbare Umsätze.</p>
-<p>Weitere Infos gibt es auf unserer &gt;&gt;Affiliate-Support-Seite &lt;&lt;</p>
+**Vendor's marketplace description:** Dupliziere unser Erfolgsrezept auf deiner Website! Wir zahlen 25% Provision auf jeden Monats- bzw. Jahresbeitrag bei einem Abonnement und ebenfalls 25% Provision bei einem Einzelkurskauf. Die Online-Hundetrainingsplattform von mydog365 hat seit der Gründung bereits über 200.000 Hund-Mensch-Teams erfolgreich begleitet. Die Vorteile unser Plattform im Vergleich zu anderen Online-Hundeschulen, zeigt sich in der Vielfalt und der Ausführlichkeit unserer Kurse: 13 mehrwöchige Intensiv-Trainingsprogramme 24 Basis-Trainings 24 Tricks & über 150 Tagesaufgaben Zusätzlich bieten wir 24/7 Trainer Support in unserem Forum und regelmäßige Live-Sessions in denen die Hundehalter intensiv betreut werden. Um mehr Kunden glücklich zu machen, wollen wir nach unserem großen optischen und inhaltlichem Update gerne die Userbase weiter vergrößern. Jetzt kommst du ins Spiel! Durch deine Teilnahme an unserem Affiliate-Programm sicherst du dir hochwertig produziertes Werbematerial für deine Promotion und damit langfristig planbare Umsätze. Weitere Infos gibt es auf unserer >>Affiliate-Support-Seite <<
 
 ## 2. Links
 

@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit der <strong>Joomla! Erweiterung <em>JoomISP</em></strong> können Sie als Internet Dienstleister Ihre Produkte &amp; Leistungen wie Webhosting, Serververmietung uvm. direkt auf Ihrer Joomla! Homepage verkaufen.</p>
-<p>  </p>
-<p>Mit zahlreichen optionalen Plugins &amp; Modulen können Sie den Bestellprozess weiter vereinfachen, wie z.B.</p>
-<ul><li>das gekaufte Webhosting Paket auf dem Zielserver einrichten</li>
-<li>bestellte Domains registrieren oder umziehen</li>
-<li>automatische Erstellung der Rechnungen für den Kunden</li>
-<li>automatisches Email Marketing</li>
-</ul><p> </p>
-<p>Ganz einfach mit der <strong>Joomla! Erweiterung <em>JoomISP</em></strong>!</p>
-<p>Alle Informationen zu JoomISP, seinen Funktionen sowie verfügbare Plugins finden Sie auf der <a title="JoomISP Webseite" href="https://joomisp.de" target="_blank" rel="noreferrer noopener">JoomISP Webseite</a>!</p>
-<p> </p>
-<p><strong>Erhalten Sie 20% bei Verkauf des Pakets über Ihren Promo Link!</strong></p>
-<p> </p>
+**Vendor's marketplace description:** Mit der Joomla! Erweiterung JoomISP können Sie als Internet Dienstleister Ihre Produkte & Leistungen wie Webhosting, Serververmietung uvm. direkt auf Ihrer Joomla! Homepage verkaufen. Mit zahlreichen optionalen Plugins & Modulen können Sie den Bestellprozess weiter vereinfachen, wie z.B. das gekaufte Webhosting Paket auf dem Zielserver einrichten bestellte Domains registrieren oder umziehen automatische Erstellung der Rechnungen für den Kunden automatisches Email Marketing Ganz einfach mit der Joomla! Erweiterung JoomISP ! Alle Informationen zu JoomISP, seinen Funktionen sowie verfügbare Plugins finden Sie auf der JoomISP Webseite ! Erhalten Sie 20% bei Verkauf des Pakets über Ihren Promo Link!
 
 ## 2. Links
 

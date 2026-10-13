@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit ChatGPT vom Anfänger zum Profi. Steige ein in die Zukunft der Künstlichen Intelligenz und reite die Welle der KI, anstatt unterzugehen. Dieser Kurs + Community ist nicht nur dein Wegweiser in der dynamischen Welt von ChatGPT, sondern auch dein Kompass in der KI-Landschaft!</p>
+**Vendor's marketplace description:** Mit ChatGPT vom Anfänger zum Profi. Steige ein in die Zukunft der Künstlichen Intelligenz und reite die Welle der KI, anstatt unterzugehen. Dieser Kurs + Community ist nicht nur dein Wegweiser in der dynamischen Welt von ChatGPT, sondern auch dein Kompass in der KI-Landschaft!
 
 ## 2. Links
 

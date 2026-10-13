@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit unserer einfachen und praktischen Anleitung können die Leserinnen und Leser ihre eigene Biogasanlage bauen und Gas zum Kochen und Heizen erzeugen. Sie benötigen lediglich Alltagsabfälle wie Küchenreste oder Gartenausschuss. Diese Materialien würden sonst auf einer Deponie landen, aber mit der eigenen Biogasanlage können sie sie zu wertvollem Biogas aufbereiten.</p>
-<p>Daher ist diese Bauanleitung für Selbstversorger der Hit. Ab sofort ist die DIN A4 Broschüre nicht mehr nur als Printware erhältlich, sondern hier bei Digistore24 als E-Book zum Downloaden. In unserem Onlineshop ist die Broschüre der Verkaufsschlager. Weben Sie als Affiliate jetzt im Netz der Netze und verdienen Sie mit uns. Das E-Book ist in Deutsch und Englisch erhältlich. </p>
-<p>Unsere <a href="https://passive-online-rente.de/partnerprogramm/" target="_blank" rel="noreferrer noopener">einzigartigen Affiliate-Supportseiten</a> helfen Ihne  mit E-Mail Vorlagen, Texten und Bannern zu Ihrer sofortigen Verfügung.</p>
+**Vendor's marketplace description:** Mit unserer einfachen und praktischen Anleitung können die Leserinnen und Leser ihre eigene Biogasanlage bauen und Gas zum Kochen und Heizen erzeugen. Sie benötigen lediglich Alltagsabfälle wie Küchenreste oder Gartenausschuss. Diese Materialien würden sonst auf einer Deponie landen, aber mit der eigenen Biogasanlage können sie sie zu wertvollem Biogas aufbereiten. Daher ist diese Bauanleitung für Selbstversorger der Hit. Ab sofort ist die DIN A4 Broschüre nicht mehr nur als Printware erhältlich, sondern hier bei Digistore24 als E-Book zum Downloaden. In unserem Onlineshop ist die Broschüre der Verkaufsschlager. Weben Sie als Affiliate jetzt im Netz der Netze und verdienen Sie mit uns. Das E-Book ist in Deutsch und Englisch erhältlich. Unsere einzigartigen Affiliate-Supportseiten helfen Ihne mit E-Mail Vorlagen, Texten und Bannern zu Ihrer sofortigen Verfügung.
 
 ## 2. Links
 

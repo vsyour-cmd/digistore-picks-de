@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>15 Minuten täglich in der Natur – die einfachste Methode für Führungskräfte, um Stress abzubauen und klarer zu denken. </strong></p>
-<p><strong>Erschöpft trotz Erfolg? Dieser 7-Tage-Online-Kurs ist die Lösung.</strong></p>
-<p>Als Führungskraft funktionierst du. Jeden Tag. Aber nach innen fühlst du dich leer. Du hast schon alles versucht – Meditations-Apps, Achtsamkeits-Podcasts, früher Feierabend (klappt nie).</p>
-<p><strong>Was, wenn die Lösung viel einfacher ist?</strong></p>
-<p>15 Minuten. Draussen. Jeden Tag.</p>
-<p>Keine komplizierten Techniken. Keine Esoterik. Nur das, was wissenschaftlich fundiert funktioniert.</p>
-<p><strong>Was deine Kunden bekommen:</strong></p>
-<p>✓ <strong>7 Video-Lektionen</strong> – klar, praktisch, sofort umsetzbar <br />✓ <strong>7 Tagesaufgaben</strong> – einfach, aber wirkungsvoll <br />✓ <strong>7 praktische PDFs</strong> –  zum Nachschlagen <br />✓ <strong>BONUS:</strong> "7 Notfall-Interventionen für stressige Tage" <br />✓ <strong>Community-Zugang</strong> – exklusive LinkedIn-Gruppe <br />✓ <strong>Sofortiger Zugang</strong> – alle Inhalte direkt nach Kauf verfügbar</p>
+**Vendor's marketplace description:** 15 Minuten täglich in der Natur – die einfachste Methode für Führungskräfte, um Stress abzubauen und klarer zu denken. Erschöpft trotz Erfolg? Dieser 7-Tage-Online-Kurs ist die Lösung. Als Führungskraft funktionierst du. Jeden Tag. Aber nach innen fühlst du dich leer. Du hast schon alles versucht – Meditations-Apps, Achtsamkeits-Podcasts, früher Feierabend (klappt nie). Was, wenn die Lösung viel einfacher ist? 15 Minuten. Draussen. Jeden Tag. Keine komplizierten Techniken. Keine Esoterik. Nur das, was wissenschaftlich fundiert funktioniert. Was deine Kunden bekommen: ✓ 7 Video-Lektionen – klar, praktisch, sofort umsetzbar ✓ 7 Tagesaufgaben – einfach, aber wirkungsvoll ✓ 7 praktische PDFs – zum Nachschlagen ✓ BONUS: "7 Notfall-Interventionen für stressige Tage" ✓ Community-Zugang – exklusive LinkedIn-Gruppe ✓ Sofortiger Zugang – alle Inhalte direkt nach Kauf verfügbar
 
 ## 2. Links
 

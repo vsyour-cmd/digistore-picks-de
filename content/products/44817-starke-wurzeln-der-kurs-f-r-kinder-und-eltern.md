@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<h2><strong>Du möchtest deinem Kind helfen...</strong></h2>
-<p>...noch mehr <strong>Selbstvertrauen</strong> aufzubauen?<br />...sein <strong>Glück </strong>selber in die Hand zu nehmen?<br />...seine Angst im <strong>Mut</strong> zu verwandeln?<br />...sich <strong>wehren</strong> zu können?<br />...seine <strong>Wut</strong> zu lenken und seine Feuerkraft für das Gute einzusetzen?                                  <br />...sich gesund und stark in seinem <strong>Körper </strong> zu fühlen?<br />...sich zu <strong>konzentrieren</strong> und besser <strong>einzuschlafen</strong>?</p>
-<p>Dann investiere jetzt in seine Zukunft mit dem Kurs <a title="Starke Wurzeln" href="https://www.yes-onlinekurs.ch/lp/starke-wurzeln/" target="_blank" rel="noreferrer noopener"><strong>Starke Wurzeln</strong></a> für Kinder von 6-11 Jahren.</p>
-<ul>
-<li>Vielen <strong>wirksame Übungen</strong>, Aktivitäten in der Natur, Geschichten und Bastelanleitungen</li>
-<li><strong>Videobotschaften</strong> für Kinder anschaulich erklärt</li>
-<li><strong>Hintergrundinformationen</strong> für die Eltern</li>
-</ul>
-<div>
-<ul>
-<li><strong>NEU</strong>: Interne, geschützte <strong>Austauschplattform für Eltern</strong></li>
-</ul>
-</div>
-</div>
-</div>
-<h4><a href="https://www.yes-onlinekurs.ch/lp/support-fur-partnerinnen-1/" target="_blank" rel="noreferrer noopener">Alle Infos zum Partnerprogramm</a></h4>
-</div>
-<div> </div>
+**Vendor's marketplace description:** Du möchtest deinem Kind helfen... ...noch mehr Selbstvertrauen aufzubauen? ...sein Glück selber in die Hand zu nehmen? ...seine Angst im Mut zu verwandeln? ...sich wehren zu können? ...seine Wut zu lenken und seine Feuerkraft für das Gute einzusetzen? ...sich gesund und stark in seinem Körper zu fühlen? ...sich zu konzentrieren und besser einzuschlafen ? Dann investiere jetzt in seine Zukunft mit dem Kurs Starke Wurzeln für Kinder von 6-11 Jahren. Vielen wirksame Übungen , Aktivitäten in der Natur, Geschichten und Bastelanleitungen Videobotschaften für Kinder anschaulich erklärt Hintergrundinformationen für die Eltern NEU : Interne, geschützte Austauschplattform für Eltern Alle Infos zum Partnerprogramm
 
 ## 2. Links
 

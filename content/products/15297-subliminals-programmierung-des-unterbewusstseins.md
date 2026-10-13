@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Empfehle unsere Subliminals weiter und verdiene mit an über 30 Upsells/Cross-Sells!<br /><br /></strong></h2>
-<p> </p>
-<p><strong>Deine Vorteile:</strong></p>
-<p>--&gt; In über 20 Nischen aktiv (z.B Gesundheit, Wohlstand, Liebe &amp; Beziehungen, Bewusstsein, Fitness etc.)</p>
-<p>--&gt; Bereits über 10.000 verkaufte Produkte</p>
-<p>--&gt; Profitiere mit an unseren hochoptimierten Segmentierungs-Verkaufsfunneln </p>
-<p>--&gt; Schneller und professioneller Support durch unseren Affiliate-Manager</p>
-<p> </p>
-<p>Nach dem Verkauf über dich wird der Kunde systematisch durch zahlreiche Upsell- und Cross-Sell-Kampagnen geführt.</p>
-<p><span style="background-color:#ffff00;">Du erhältst Provisionen für jeden weiteren Verkauf!</span></p>
-<p> </p>
-<p>Melde dich jetzt als Affiliate an und wirst für alle Produkte freigeschaltet!</p>
-<p> </p>
-<p>Auf eine erfolgreiche Aktion!</p>
-<p> </p>
-<p>Beste Grüße,<br />Marvin Alberg</p>
-<h2> </h2>
+**Vendor's marketplace description:** Empfehle unsere Subliminals weiter und verdiene mit an über 30 Upsells/Cross-Sells! Deine Vorteile: --> In über 20 Nischen aktiv (z.B Gesundheit, Wohlstand, Liebe & Beziehungen, Bewusstsein, Fitness etc.) --> Bereits über 10.000 verkaufte Produkte --> Profitiere mit an unseren hochoptimierten Segmentierungs-Verkaufsfunneln --> Schneller und professioneller Support durch unseren Affiliate-Manager Nach dem Verkauf über dich wird der Kunde systematisch durch zahlreiche Upsell- und Cross-Sell-Kampagnen geführt. Du erhältst Provisionen für jeden weiteren Verkauf! Melde dich jetzt als Affiliate an und wirst für alle Produkte freigeschaltet! Auf eine erfolgreiche Aktion! Beste Grüße, Marvin Alberg
 
 ## 2. Links
 

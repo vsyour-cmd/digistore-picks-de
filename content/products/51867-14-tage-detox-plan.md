@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Was ist der 14 Tage Detox-Plan?</strong></h3>
-<p>Du erfährst hier exklusiv vom Experten für fasziale Balance im Körper und Schmerzcoach Claudio Trento, wie du <strong>körperlichen</strong> und e<strong>motionalen Ballast </strong>loswirst, in deine <strong>volle Energie</strong> kommst und endlich <strong>durchstarten <br />kannst</strong>!</p>
-<p> </p>
-<h3><strong>Das bekommst du in deinem kompletten 14-Tage Detox-Plan! </strong></h3>
-<p><strong>7 Module beinhalten 34 Videos mit folgenden Inhalten:</strong></p>
-<p>-<strong> </strong>Schritt-für-Schritt-System für ein ganzheitliches Detox-Erlebnis<br /><br />-<strong> </strong> Praktische Übungen, um mentale &amp; emotionale Altlasten loszulassen<br /><br />-<strong> </strong> Clevere Digital-Detox-Hacks für mehr Fokus &amp; weniger Ablenkung<br /><br />-<strong> </strong> Tiefgehende Reflexionsfragen, um Klarheit über deine wahren Bedürfnisse zu bekommen<br /><br />-<strong> </strong> Kleine tägliche Aufgaben, die sofort eine spürbare Veränderung bringen</p>
-<p> </p>
-<h3><strong>DEIN BONUS für noch mehr Transformation!</strong></h3>
-<p>-<strong> Anti-Stress </strong>- und <strong>Heißhunger-Meditation</strong> für einen klaren Kopf und inneren Frieden</p>
-<p>- <strong>Checklisten</strong>, <strong>Rezeptbuch</strong> – damit du direkt sofort loslegen kannst!</p>
+**Vendor's marketplace description:** Was ist der 14 Tage Detox-Plan? Du erfährst hier exklusiv vom Experten für fasziale Balance im Körper und Schmerzcoach Claudio Trento, wie du körperlichen und e motionalen Ballast loswirst, in deine volle Energie kommst und endlich durchstarten kannst ! Das bekommst du in deinem kompletten 14-Tage Detox-Plan! 7 Module beinhalten 34 Videos mit folgenden Inhalten: - Schritt-für-Schritt-System für ein ganzheitliches Detox-Erlebnis - Praktische Übungen, um mentale & emotionale Altlasten loszulassen - Clevere Digital-Detox-Hacks für mehr Fokus & weniger Ablenkung - Tiefgehende Reflexionsfragen, um Klarheit über deine wahren Bedürfnisse zu bekommen - Kleine tägliche Aufgaben, die sofort eine spürbare Veränderung bringen DEIN BONUS für noch mehr Transformation! - Anti-Stress - und Heißhunger-Meditation für einen klaren Kopf und inneren Frieden - Checklisten , Rezeptbuch – damit du direkt sofort loslegen kannst!
 
 ## 2. Links
 

@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#800080;"><strong>SCHUFA-FREIE GELDQUELLEN &amp; mehr</strong></span></p>
-<p>Kredite, Finanzierungen, Hypotheken, Konten, Kreditkarten – alles ohne lästige Schufa.</p>
-<p>Für jeden Zweck, für Privat, für Existenzgründer, für Geschäftsleute.</p>
-<p>Die Kontakte im In- und Ausland. Einmaliger Report im deutschsprachigen Raum.</p>
-<p>Jetzt noch umfangreicher!</p>
-<p>Als Bonus gibt es die Ebooks "Geldgeschen vom Staat", "Mikrokredite" sowie "Crowdfunding" kostenlos dazu!</p>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
-<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
-<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<span style="color:#cc99ff;"><strong><span style="color:#000000;">J</span>eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</strong></span>“.</p>
-<p>2 einfache Schritte:</p>
-<ol>
-<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html</a></span> (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge")</li>
-<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
-</ol>
-<p> </p>
-<p><em><strong> </strong></em></p>
+**Vendor's marketplace description:** SCHUFA-FREIE GELDQUELLEN & mehr Kredite, Finanzierungen, Hypotheken, Konten, Kreditkarten – alles ohne lästige Schufa. Für jeden Zweck, für Privat, für Existenzgründer, für Geschäftsleute. Die Kontakte im In- und Ausland. Einmaliger Report im deutschsprachigen Raum. Jetzt noch umfangreicher! Als Bonus gibt es die Ebooks "Geldgeschen vom Staat", "Mikrokredite" sowie "Crowdfunding" kostenlos dazu! Möchten Sie ein Ansichtsexemplar? Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz. Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „ J eden T ag R ei*cher “. 2 einfache Schritte: JTR gratis bestellen auf https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge") Email mit Ihrem Ebook-Wunsch an service@big-benn-books.com
 
 ## 2. Links
 

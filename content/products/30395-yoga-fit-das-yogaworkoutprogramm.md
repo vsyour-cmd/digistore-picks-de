@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h2><span style="color:#000000;"><strong>Yoga Fit - Das Yoga - Fitnessprogramm für einen straffen und entspannten Körper</strong></span></h2>
-<p> </p>
-<p><span style="color:#000000;"><strong>Möchtest du dieses programm bewerben? Dann schreib mir eine Anfrage an info@andrea-szodruch.de</strong></span></p>
-<div> </div>
-<div> </div>
-</div>
-<div>
-<div>
-<div>Dieses Programm hilft Frauen schlanker, sexier und glücklicher zu werden und dabei noch zu entspannen</div>
-<div> </div>
-<div>Yoga Fit ist ein 12 Wochen Programm speziell für Frauen entwickelt, welches strategisch in 3 Phasen aufgeteilt ist um den weiblichen Körper und die Problemzonen wie Bauch, Beine und Po zu formen. Es kann die Gewichtsreduktion unterstützen, hilft bei der Entspannung und unterstützt Frauen dabei sich wieder selbstbewusst und stark zu fühlen. Die dynamischen Bewegungsabläufe bringen den Kreislauf in Schwung, kurbeln die Fettverbrennung an und gleichzeitig sorgen sie dafür, dass die wilden Gedanken im Kopf mal zur Ruhe kommen. </div>
-<div> </div>
-<div> </div>
-<div>Du als Affiliate erhältst 50% Provision auf das Hauptprodukt und den Upsell.</div>
-<div> </div>
-<div>Du bekommst Landingpages und Emailvorlagen</div>
-</div>
-</div>
+**Vendor's marketplace description:** Yoga Fit - Das Yoga - Fitnessprogramm für einen straffen und entspannten Körper Möchtest du dieses programm bewerben? Dann schreib mir eine Anfrage an info@andrea-szodruch.de Dieses Programm hilft Frauen schlanker, sexier und glücklicher zu werden und dabei noch zu entspannen Yoga Fit ist ein 12 Wochen Programm speziell für Frauen entwickelt, welches strategisch in 3 Phasen aufgeteilt ist um den weiblichen Körper und die Problemzonen wie Bauch, Beine und Po zu formen. Es kann die Gewichtsreduktion unterstützen, hilft bei der Entspannung und unterstützt Frauen dabei sich wieder selbstbewusst und stark zu fühlen. Die dynamischen Bewegungsabläufe bringen den Kreislauf in Schwung, kurbeln die Fettverbrennung an und gleichzeitig sorgen sie dafür, dass die wilden Gedanken im Kopf mal zur Ruhe kommen. Du als Affiliate erhältst 50% Provision auf das Hauptprodukt und den Upsell. Du bekommst Landingpages und Emailvorlagen
 
 ## 2. Links
 

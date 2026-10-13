@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>100 Master-Prompts für HR-KI-Compliance – EU AI Act 2026/2027</strong></p>
-<p>Dieses digitale Produkt enthält <strong>100 sofort nutzbare Master-Prompts im PDF-Format</strong> für den professionellen Einsatz von KI in HR, Recruiting, Talent Acquisition, People &amp; Culture sowie Compliance.</p>
-<p>Die Prompts unterstützen Unternehmen dabei, typische KI-Anwendungsfälle im Personalbereich strukturierter zu bearbeiten und wichtige Themen des EU AI Act in die tägliche Arbeit einzubeziehen.</p>
-<p><strong>Geeignet für:</strong></p>
-<ul>
-<li>HR-Abteilungen und Personalverantwortliche</li>
-<li>Recruiting &amp; Talent Acquisition</li>
-<li>People &amp; Culture Teams</li>
-<li>Unternehmensberater und HR-Berater</li>
-<li>Compliance-Verantwortliche</li>
-<li>KMU und Unternehmen mit KI-Einsatz im Personalbereich</li>
-</ul>
-<p><strong>Themenschwerpunkte:</strong></p>
-<ul>
-<li>KI im Recruiting</li>
-<li>Bias- und Diskriminierungsrisiken</li>
-<li>Transparenz und Dokumentation</li>
-<li>Risikomanagement</li>
-<li>interne Prüfungen und Audits</li>
-<li>strukturierte KI-Nutzung im HR-Bereich</li>
-</ul>
-<p><strong>Wichtig:</strong> Es handelt sich um ein <strong>digitales PDF mit 100 Master-Prompts</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
-<p>Ein klar positioniertes B2B-Produkt für Unternehmen und Fachkräfte, die KI bereits im Personalbereich einsetzen oder ihren Einsatz strukturiert vorbereiten möchten.</p>
+**Vendor's marketplace description:** 100 Master-Prompts für HR-KI-Compliance – EU AI Act 2026/2027 Dieses digitale Produkt enthält 100 sofort nutzbare Master-Prompts im PDF-Format für den professionellen Einsatz von KI in HR, Recruiting, Talent Acquisition, People & Culture sowie Compliance. Die Prompts unterstützen Unternehmen dabei, typische KI-Anwendungsfälle im Personalbereich strukturierter zu bearbeiten und wichtige Themen des EU AI Act in die tägliche Arbeit einzubeziehen. Geeignet für: HR-Abteilungen und Personalverantwortliche Recruiting & Talent Acquisition People & Culture Teams Unternehmensberater und HR-Berater Compliance-Verantwortliche KMU und Unternehmen mit KI-Einsatz im Personalbereich Themenschwerpunkte: KI im Recruiting Bias- und Diskriminierungsrisiken Transparenz und Dokumentation Risikomanagement interne Prüfungen und Audits strukturierte KI-Nutzung im HR-Bereich Wichtig: Es handelt sich um ein digitales PDF mit 100 Master-Prompts und nicht um Software, einen Videokurs oder einen Mitgliederbereich. Ein klar positioniertes B2B-Produkt für Unternehmen und Fachkräfte, die KI bereits im Personalbereich einsetzen oder ihren Einsatz strukturiert vorbereiten möchten.
 
 ## 2. Links
 

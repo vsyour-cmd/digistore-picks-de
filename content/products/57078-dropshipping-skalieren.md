@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Dropshipping skalieren"</strong></p>
-<p>Wenn die ersten Verkäufe laufen, beginnt die eigentliche Arbeit: aus Zufallstreffern ein System machen. Gewinner-Produkte erkennen, Werbung profitabel skalieren, eine echte Marke aufbauen und sauber wachsen – inklusive der Wahrheit, dass Umsatz nicht Gewinn ist.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema: Online-Business &amp; Geld verdienen</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Aus Zufallstreffern ein reproduzierbares System machen</li>
-<li>Gewinner-Produkte an den richtigen Daten erkennen</li>
-<li>Bezahlte Werbung über den ROAS profitabel steuern</li>
-<li>Aus einem Shop eine Marke mit Vertrauen aufbauen</li>
-<li>Cashflow und Kennzahlen im Griff behalten – Umsatz ist nicht Gewinn</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Menschen, die online ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Dropshipping skalieren" Wenn die ersten Verkäufe laufen, beginnt die eigentliche Arbeit: aus Zufallstreffern ein System machen. Gewinner-Produkte erkennen, Werbung profitabel skalieren, eine echte Marke aufbauen und sauber wachsen – inklusive der Wahrheit, dass Umsatz nicht Gewinn ist. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema: Online-Business & Geld verdienen Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Aus Zufallstreffern ein reproduzierbares System machen Gewinner-Produkte an den richtigen Daten erkennen Bezahlte Werbung über den ROAS profitabel steuern Aus einem Shop eine Marke mit Vertrauen aufbauen Cashflow und Kennzahlen im Griff behalten – Umsatz ist nicht Gewinn Für deine Zielgruppe: Menschen, die online ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

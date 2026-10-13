@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb StreamWriter Studio (Mac &amp; Windows): Internetradio automatisch aufnehmen, Titel erkennen, Mediathek aufbauen – Einmalkauf 69,99 €, kein Abo, gratis iPhone-App inklusive. Evergreen-Nische mit starkem „Kein-Abo"-Argument, fertige Werbemittel vorhanden. Attraktive Provision pro Verkauf.</p>
+**Vendor's marketplace description:** Bewirb StreamWriter Studio (Mac & Windows): Internetradio automatisch aufnehmen, Titel erkennen, Mediathek aufbauen – Einmalkauf 69,99 €, kein Abo, gratis iPhone-App inklusive. Evergreen-Nische mit starkem „Kein-Abo"-Argument, fertige Werbemittel vorhanden. Attraktive Provision pro Verkauf.
 
 ## 2. Links
 

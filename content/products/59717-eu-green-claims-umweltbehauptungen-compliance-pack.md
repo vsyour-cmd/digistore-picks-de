@@ -41,33 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>EU Umweltbehauptungen – Compliance Pack 2026</strong></p>
-<p>Dieses digitale Produkt ist ein <strong>praktisches PDF-Arbeitsheft</strong> für Unternehmen, Händler, Online-Shops und Marketingteams, die mit Umweltangaben wie „nachhaltig“, „grün“ oder „klimafreundlich“ werben und ihre Aussagen nachvollziehbar dokumentieren möchten.</p>
-<p>Das Compliance Pack unterstützt bei der strukturierten Prüfung und Dokumentation von <strong>Green Claims, Umweltbehauptungen, CO₂-Angaben, Lieferkettennachweisen und Transparenzinformationen</strong>.</p>
-<p><strong>Geeignet für:</strong></p>
-<ul>
-<li>Selbstständige und KMU</li>
-<li>Online-Shops und E-Commerce-Anbieter</li>
-<li>Hersteller, Händler und Marken</li>
-<li>Marketing- und Content-Teams</li>
-<li>Produkt- und Nachhaltigkeitsverantwortliche</li>
-<li>Agenturen, Berater und Dienstleister</li>
-</ul>
-<p><strong>Enthalten sind unter anderem:</strong></p>
-<ul>
-<li>Umweltbehauptungs-Nachweisblatt</li>
-<li>Checkliste für problematische und zulässige Begriffe</li>
-<li>CO₂-Berechnungsformular</li>
-<li>Lieferketten- und Materialnachweise</li>
-<li>Transparenz-Textbausteine</li>
-<li>Kunden- und Website-Hinweise</li>
-<li>Risiko- und Prüfprotokoll</li>
-<li>interner Prüfprozess für Umweltclaims</li>
-<li>Branchenbeispiele und Checklisten</li>
-</ul>
-<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales Arbeitsheft im PDF-Format</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
-<p>Das Compliance Pack dient als praktische Arbeits-, Prüf- und Dokumentationshilfe für Umwelt- und Nachhaltigkeitsaussagen und ersetzt keine individuelle Rechtsberatung.</p>
-<p><strong>Verkaufspreis: 29,00 €</strong> – digitaler Sofortdownload nach dem Kauf.</p>
+**Vendor's marketplace description:** EU Umweltbehauptungen – Compliance Pack 2026 Dieses digitale Produkt ist ein praktisches PDF-Arbeitsheft für Unternehmen, Händler, Online-Shops und Marketingteams, die mit Umweltangaben wie „nachhaltig“, „grün“ oder „klimafreundlich“ werben und ihre Aussagen nachvollziehbar dokumentieren möchten. Das Compliance Pack unterstützt bei der strukturierten Prüfung und Dokumentation von Green Claims, Umweltbehauptungen, CO₂-Angaben, Lieferkettennachweisen und Transparenzinformationen . Geeignet für: Selbstständige und KMU Online-Shops und E-Commerce-Anbieter Hersteller, Händler und Marken Marketing- und Content-Teams Produkt- und Nachhaltigkeitsverantwortliche Agenturen, Berater und Dienstleister Enthalten sind unter anderem: Umweltbehauptungs-Nachweisblatt Checkliste für problematische und zulässige Begriffe CO₂-Berechnungsformular Lieferketten- und Materialnachweise Transparenz-Textbausteine Kunden- und Website-Hinweise Risiko- und Prüfprotokoll interner Prüfprozess für Umweltclaims Branchenbeispiele und Checklisten Wichtig: Es handelt sich ausdrücklich um ein digitales Arbeitsheft im PDF-Format und nicht um Software, einen Videokurs oder einen Mitgliederbereich. Das Compliance Pack dient als praktische Arbeits-, Prüf- und Dokumentationshilfe für Umwelt- und Nachhaltigkeitsaussagen und ersetzt keine individuelle Rechtsberatung. Verkaufspreis: 29,00 € – digitaler Sofortdownload nach dem Kauf.
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Von der Anmeldung zum ersten Pin, der wochenlang Traffic bringt</strong></p>
-<p>Pinterest ist keine Social-Media-Plattform wie andere – es ist eine visuelle Suchmaschine. Und das ist deine Chance. Dieses E-Book nimmt dich bei der Hand und zeigt dir Schritt für Schritt, wie du deinen Account professionell aufsetzt, deine Boards strategisch strukturierst und deine ersten Pins so gestaltest und beschriftest, dass Pinterest sie findet und ausspielt. Du lernst, warum Keywords in Titeln, Beschreibungen und Board-Namen der entscheidende Hebel sind, wie das 2:3-Format deine Pins im Feed sichtbar macht und warum ein einziger guter Evergreen-Pin noch Monate nach dem Veröffentlichen Klicks bringt. Kein Technik-Chaos, kein Rätselraten – sondern ein klarer Plan, mit dem du in wenigen Stunden online bist und die ersten Besucher auf dein Profil oder deine Webseite lenkst.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Professionelles Account-Setup: von der Anmeldung zum Business-Profil</li>
-<li>Board-Struktur &amp; Keyword-Recherche für maximale Auffindbarkeit</li>
-<li>Pin-Design-Grundregeln: das vertikale 2:3-Format richtig nutzen</li>
-<li>Keywords in Titel, Beschreibung und Board-Namen – so geht SEO auf Pinterest</li>
-<li>Dein erster Content-Plan: wann, wie oft und was du pinnen solltest</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Von der Anmeldung zum ersten Pin, der wochenlang Traffic bringt Pinterest ist keine Social-Media-Plattform wie andere – es ist eine visuelle Suchmaschine. Und das ist deine Chance. Dieses E-Book nimmt dich bei der Hand und zeigt dir Schritt für Schritt, wie du deinen Account professionell aufsetzt, deine Boards strategisch strukturierst und deine ersten Pins so gestaltest und beschriftest, dass Pinterest sie findet und ausspielt. Du lernst, warum Keywords in Titeln, Beschreibungen und Board-Namen der entscheidende Hebel sind, wie das 2:3-Format deine Pins im Feed sichtbar macht und warum ein einziger guter Evergreen-Pin noch Monate nach dem Veröffentlichen Klicks bringt. Kein Technik-Chaos, kein Rätselraten – sondern ein klarer Plan, mit dem du in wenigen Stunden online bist und die ersten Besucher auf dein Profil oder deine Webseite lenkst. Das steckt drin: Professionelles Account-Setup: von der Anmeldung zum Business-Profil Board-Struktur & Keyword-Recherche für maximale Auffindbarkeit Pin-Design-Grundregeln: das vertikale 2:3-Format richtig nutzen Keywords in Titel, Beschreibung und Board-Namen – so geht SEO auf Pinterest Dein erster Content-Plan: wann, wie oft und was du pinnen solltest Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

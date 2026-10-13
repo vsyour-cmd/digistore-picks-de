@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Über 40000 Sales und 1,2% Stornoquote :-) Das Programm funktioniert, ich habe es selber entwickelt, selber damit 30kg abgenommen und deswegen wirkt es auch authentisch! Es würde mich freuen, wenn ihr das eBook verkaufen wollt. Gutscheincodes etc gibt es wenn ihr mir mailt. Eine konkrete Landingpage gibt es nicht, es läuft alles über den DigiStore-Verkaufslink und dem Bestellformular, welcher gut optimiert ist und toll konvertiert. Klickstarke Werbebanner, findet ihr hier -&gt; <a href="https://www.dropbox.com/s/3estt1gj1egy706/2016-01-25-Advertsbanner.rar?dl=1">https://www.dropbox.com/s/3estt1gj1egy706/2016-01-25-Advertsbanner.rar?dl=1</a></p>
-<p>29.12.2016 -&gt; Neuer Banner kann hier gefunden werden, der zieht ordentlich! -- <a href="http://abnehmtricks-und-abnehmtipps.de/wp-content/uploads/2016/03/abnehmplanad2.gif" target="_blank">http://abnehmtricks-und-abnehmtipps.de/wp-content/uploads/2016/03/abnehmplanad2.gif</a></p>
-<p>Das Konzept finden Sie hier: <a href="http://abnehmtricks-und-abnehmtipps.de/abnehmen-ohne-hunger">http://abnehmtricks-und-abnehmtipps.de/abnehmen-ohne-hunger</a></p>
-<p>Schreiben Sie mir gerne eine Email, bei sämtlichen Fragen.</p>
-<p>Liebe Grüße, Benjamin Oltmann</p>
+**Vendor's marketplace description:** Über 40000 Sales und 1,2% Stornoquote :-) Das Programm funktioniert, ich habe es selber entwickelt, selber damit 30kg abgenommen und deswegen wirkt es auch authentisch! Es würde mich freuen, wenn ihr das eBook verkaufen wollt. Gutscheincodes etc gibt es wenn ihr mir mailt. Eine konkrete Landingpage gibt es nicht, es läuft alles über den DigiStore-Verkaufslink und dem Bestellformular, welcher gut optimiert ist und toll konvertiert. Klickstarke Werbebanner, findet ihr hier -> https://www.dropbox.com/s/3estt1gj1egy706/2016-01-25-Advertsbanner.rar?dl=1 29.12.2016 -> Neuer Banner kann hier gefunden werden, der zieht ordentlich! -- http://abnehmtricks-und-abnehmtipps.de/wp-content/uploads/2016/03/abnehmplanad2.gif Das Konzept finden Sie hier: http://abnehmtricks-und-abnehmtipps.de/abnehmen-ohne-hunger Schreiben Sie mir gerne eine Email, bei sämtlichen Fragen. Liebe Grüße, Benjamin Oltmann
 
 ## 2. Links
 

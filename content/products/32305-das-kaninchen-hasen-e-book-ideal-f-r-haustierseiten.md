@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><span style="background-color:#99cc00;">Der Bestseller #1 in der Nische "Kaninchen und Kaninchenstall"</span></strong></p>
-<p>In der inzwischen <strong>2. Auflage</strong> haben wir unser offizielles Kaninchen-E-Book komplett überarbeitet und nochmal verbessert. </p>
-<p>Unsere drei Boni sind <strong>ein echter Conversion-Booster</strong> und hebeln den Mehrwert des Produktes nochmal deutlich. </p>
-<ul><li>Äußerst geringe Stornoquote</li>
-<li>Hohe Cart-Conversion</li>
-<li>Weitere Upsells bereits in Planung</li>
-</ul><p>Du hast eine große Reichweite oder Liste? Du betreibst eine Website zum Thema Kleintiere, Haustiere, Kaninchen oder Hasen - und du willst eine (weitere) passive Einkommensquelle erschließen?</p>
-<p>Dann werde jetzt Affiliate <strong>beim offiziellen Kaninchen-E-Book inkl. Checklisten und Planer</strong>.</p>
-<p>Ideal für alle Kaninchenhalter, die eine artgerechte Tierhaltung verfolgen möchten. <br /><br />Beste Grüße</p>
-<p> </p>
+**Vendor's marketplace description:** Der Bestseller #1 in der Nische "Kaninchen und Kaninchenstall" In der inzwischen 2. Auflage haben wir unser offizielles Kaninchen-E-Book komplett überarbeitet und nochmal verbessert. Unsere drei Boni sind ein echter Conversion-Booster und hebeln den Mehrwert des Produktes nochmal deutlich. Äußerst geringe Stornoquote Hohe Cart-Conversion Weitere Upsells bereits in Planung Du hast eine große Reichweite oder Liste? Du betreibst eine Website zum Thema Kleintiere, Haustiere, Kaninchen oder Hasen - und du willst eine (weitere) passive Einkommensquelle erschließen? Dann werde jetzt Affiliate beim offiziellen Kaninchen-E-Book inkl. Checklisten und Planer . Ideal für alle Kaninchenhalter, die eine artgerechte Tierhaltung verfolgen möchten. Beste Grüße
 
 ## 2. Links
 

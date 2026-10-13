@@ -41,34 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff99;"><strong>Bewerbe die Nummer #1 Online <a style="background-color:#ffff99;">NFT &amp; Web3 Masterclass</a> für NFT &amp; Web3 Investoren und Anleger.</strong></span></p>
-<p><strong>Beschreibung:</strong></p>
-<p>Eine Masterclass. Eine Plattform. Alles dabei.</p>
-<ul>
-<li>Kauf-Empfehlungen von Michael &amp; weiteren profitablen Analysten zu NFTs, Airdrops, uvm.</li>
-<li>E-Learning Zugang, umfangreiche Video-Kurse</li>
-<li>Monatliche Live Sessions</li>
-<li>Tägliche NFT &amp; Web3 News</li>
-<li>Umfangreicher Drop-Kalender</li>
-<li>Täglicher VIP-Zugang zur besten deutschsprachigen NFT &amp; Web3-Community</li>
-</ul>
-<p> </p>
-<p>Unsere <strong>NFT Akademie®</strong> ist <u>DIE #1 Anlaufstelle im DACH-Raum</u>, wenn es um NFTs &amp; Web3 geht. </p>
-<p>Seit <u>über 3 Jahren Praxiserfahrung, über 600 erfolgreich betreute Kunden</u> wissen wir, was es WIRKLICH braucht, um im NFT &amp; Web3-Space Fuß zu fassen, ein fundiertes Fachwissen aufzubauen und die gewünschten Ziele zu erreichen.</p>
-<p> </p>
-<p><u>Provision:</u> 50% / Empfehlung</p>
-<ul>
-<li>Geräteübergreifende Affiliate-Attribution aktiviert</li>
-<li>Hoch-konvertierende Landingpages und Verkaufs-Funnels</li>
-<li>Upsell-Möglichkeiten (wie z.B. 1/1 Coaching im Funnel integriert)</li>
-</ul>
-<p> </p>
-<p>Infos zur NFT &amp; Web3 Masterclass und Partnerprogramm:</p>
-<ul>
-<li>Partnerprogramm-Seite mit Werbemitteln: <a href="https://nft-akademie.com/nft-akademie-partnerprogramm-affiliates/">https://nft-akademie.com/nft-akademie-partnerprogramm-affiliates/</a></li>
-<li>Landingpage: <a href="https://nft-akademie.com/nft-web3-masterclass-by-nft-akademie/">https://nft-akademie.com/nft-web3-masterclass-by-nft-akademie/</a></li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** Bewerbe die Nummer #1 Online NFT & Web3 Masterclass für NFT & Web3 Investoren und Anleger. Beschreibung: Eine Masterclass. Eine Plattform. Alles dabei. Kauf-Empfehlungen von Michael & weiteren profitablen Analysten zu NFTs, Airdrops, uvm. E-Learning Zugang, umfangreiche Video-Kurse Monatliche Live Sessions Tägliche NFT & Web3 News Umfangreicher Drop-Kalender Täglicher VIP-Zugang zur besten deutschsprachigen NFT & Web3-Community Unsere NFT Akademie® ist DIE #1 Anlaufstelle im DACH-Raum , wenn es um NFTs & Web3 geht. Seit über 3 Jahren Praxiserfahrung, über 600 erfolgreich betreute Kunden wissen wir, was es WIRKLICH braucht, um im NFT & Web3-Space Fuß zu fassen, ein fundiertes Fachwissen aufzubauen und die gewünschten Ziele zu erreichen. Provision: 50% / Empfehlung Geräteübergreifende Affiliate-Attribution aktiviert Hoch-konvertierende Landingpages und Verkaufs-Funnels Upsell-Möglichkeiten (wie z.B. 1/1 Coaching im Funnel integriert) Infos zur NFT & Web3 Masterclass und Partnerprogramm: Partnerprogramm-Seite mit Werbemitteln: https://nft-akademie.com/nft-akademie-partnerprogramm-affiliates/ Landingpage: https://nft-akademie.com/nft-web3-masterclass-by-nft-akademie/
 
 ## 2. Links
 

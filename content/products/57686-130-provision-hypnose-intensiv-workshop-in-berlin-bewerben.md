@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Affiliates für einen zweitägigen Hypnose-Intensiv-Workshop in Berlin gesucht.</strong></p>
-<p>Der Workshop richtet sich an Coaches, Heilpraktiker, Therapeuten, Hypnose-Anwender und Menschen aus der Persönlichkeitsentwicklung.</p>
-<p><strong>Verkaufspreis:</strong> 650 €<br /><strong>Provision:</strong> 130 € pro erfolgreicher Anmeldung<br /><strong>Abwicklung:</strong> automatisch über Digistore24<br /><strong>Termin:</strong> 19.–20. September 2026 in Berlin</p>
-<p>Affiliates erhalten einen persönlichen Promolink. Werbematerialien wie Kurzvideos, Bilder und Textvorlagen können bereitgestellt werden.</p>
+**Vendor's marketplace description:** Affiliates für einen zweitägigen Hypnose-Intensiv-Workshop in Berlin gesucht. Der Workshop richtet sich an Coaches, Heilpraktiker, Therapeuten, Hypnose-Anwender und Menschen aus der Persönlichkeitsentwicklung. Verkaufspreis: 650 € Provision: 130 € pro erfolgreicher Anmeldung Abwicklung: automatisch über Digistore24 Termin: 19.–20. September 2026 in Berlin Affiliates erhalten einen persönlichen Promolink. Werbematerialien wie Kurzvideos, Bilder und Textvorlagen können bereitgestellt werden.
 
 ## 2. Links
 

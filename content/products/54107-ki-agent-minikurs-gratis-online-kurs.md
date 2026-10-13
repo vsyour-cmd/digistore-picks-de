@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Verdiene 50 % Provision auf alle Add-ons und Order-Bumps! Das Produkt trifft den Zeitgeist: KI-Agenten im Affiliate Marketing – aktuell eines der heißesten Themen überhaupt.</p>
-<p><strong>Produkt &amp; Launch-Details</strong></p>
-<p>Hauptprodukt: Mini-Videokurs (5 Lektionen, 20 Minuten)</p>
-<p>Launch-Phase: ca. 10 Tage für 0 € (Bis 30.09.2025), danach wird der Preis auf 27€ → starke Conversion durch Verknappung</p>
-<p>Upsells &amp; Order-Bumps: Hochwertige Add-ons wie „53 KI-Agenten Use Cases“ – 50 % Provision für dich</p>
-<p><strong>Deine Vorteile</strong></p>
-<p>Trend-Thema mit extrem hoher Nachfrage</p>
-<p>Kostenloses Hauptprodukt zieht massenhaft Leads an</p>
-<p>Attraktive Upsells sorgen für direkte Provisionen ab dem ersten Tag</p>
-<p>Preissteigerung nach Launch bringt zusätzlich langfristige Verkäufe</p>
-<p><strong>Fragen?</strong></p>
-<p>Schreib uns gern: info@webpirat.de</p>
+**Vendor's marketplace description:** Verdiene 50 % Provision auf alle Add-ons und Order-Bumps! Das Produkt trifft den Zeitgeist: KI-Agenten im Affiliate Marketing – aktuell eines der heißesten Themen überhaupt. Produkt & Launch-Details Hauptprodukt: Mini-Videokurs (5 Lektionen, 20 Minuten) Launch-Phase: ca. 10 Tage für 0 € (Bis 30.09.2025), danach wird der Preis auf 27€ → starke Conversion durch Verknappung Upsells & Order-Bumps: Hochwertige Add-ons wie „53 KI-Agenten Use Cases“ – 50 % Provision für dich Deine Vorteile Trend-Thema mit extrem hoher Nachfrage Kostenloses Hauptprodukt zieht massenhaft Leads an Attraktive Upsells sorgen für direkte Provisionen ab dem ersten Tag Preissteigerung nach Launch bringt zusätzlich langfristige Verkäufe Fragen? Schreib uns gern: info@webpirat.de
 
 ## 2. Links
 

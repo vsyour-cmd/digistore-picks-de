@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Keine Panik! – Dein Onlinekurs für einen sicheren Umgang mit Panik und Angst</h2>
-<p>Plötzlich rast das Herz. Die Brust wird eng. Gedanken überschlagen sich und alles im Körper signalisiert: Gefahr.</p>
-<p>Eine Panikattacke kann sich überwältigend anfühlen – besonders dann, wenn man in diesem Moment nicht weiß, was man tun kann.</p>
-<p><strong>„Keine Panik!“</strong> ist ein praxisnaher Audiokurs für Menschen, die Panikattacken besser verstehen und lernen möchten, sich in schwierigen Momenten gezielt zu orientieren und zu unterstützen.</p>
-<p>Der Kurs vermittelt verständlich, was bei Panik im Körper passiert, wie persönliche Auslöser und Trigger erkannt werden können und welche einfachen Strategien dabei helfen können, wieder Orientierung und Sicherheit zu finden.</p>
-<h3>Im Kurs lernst du unter anderem:</h3>
-<ul>
-<li>was während einer Panikattacke im Körper geschieht</li>
-<li>wie die typische Angstspirale entsteht</li>
-<li>wie du mögliche Auslöser und Trigger besser erkennst</li>
-<li>wie du deinen persönlichen Notfallplan aufbaust</li>
-<li>einfache Übungen zur Orientierung und Regulation</li>
-<li>wie du dir eine persönliche Notfalltasche zusammenstellen kannst</li>
-<li>wie Notfallkarten dich und andere Menschen in schwierigen Situationen unterstützen können</li>
-</ul>
-<p>Du erhältst damit nicht nur theoretisches Wissen, sondern vor allem <strong>konkrete Werkzeuge für den Alltag</strong>, auf die du zurückgreifen kannst, wenn Angst und Panik auftreten.</p>
-<p>Der Kurs ist bewusst ruhig, verständlich und Schritt für Schritt aufgebaut. Du kannst ihn in deinem eigenen Tempo durcharbeiten und einzelne Inhalte jederzeit wiederholen.</p>
-<p><strong>„Keine Panik!“ soll dir dabei helfen, Panik nicht mehr völlig hilflos gegenüberzustehen, sondern deinen eigenen persönlichen Werkzeugkasten für schwierige Momente aufzubauen.</strong></p>
-<h3>Für wen ist der Kurs geeignet?</h3>
-<p>Für Menschen, die Panikattacken oder starke Angstmomente erleben und sich praktische Möglichkeiten wünschen, damit im Alltag besser umzugehen – unabhängig davon, ob die Panik beispielsweise im Zusammenhang mit belastenden Erfahrungen, Erkrankungen, medizinischen Behandlungen oder anderen Situationen entstanden ist.</p>
-<p><strong>Wichtiger Hinweis:</strong><br />Der Kurs dient der Information, Selbsthilfe und Unterstützung im Alltag. Er ersetzt keine ärztliche, psychotherapeutische oder psychiatrische Diagnose oder Behandlung. Bei neuen, ungewöhnlichen oder starken körperlichen Beschwerden sollte immer medizinisch abgeklärt werden, ob eine körperliche Ursache vorliegt.</p>
+**Vendor's marketplace description:** Keine Panik! – Dein Onlinekurs für einen sicheren Umgang mit Panik und Angst Plötzlich rast das Herz. Die Brust wird eng. Gedanken überschlagen sich und alles im Körper signalisiert: Gefahr. Eine Panikattacke kann sich überwältigend anfühlen – besonders dann, wenn man in diesem Moment nicht weiß, was man tun kann. „Keine Panik!“ ist ein praxisnaher Audiokurs für Menschen, die Panikattacken besser verstehen und lernen möchten, sich in schwierigen Momenten gezielt zu orientieren und zu unterstützen. Der Kurs vermittelt verständlich, was bei Panik im Körper passiert, wie persönliche Auslöser und Trigger erkannt werden können und welche einfachen Strategien dabei helfen können, wieder Orientierung und Sicherheit zu finden. Im Kurs lernst du unter anderem: was während einer Panikattacke im Körper geschieht wie die typische Angstspirale entsteht wie du mögliche Auslöser und Trigger besser erkennst wie du deinen persönlichen Notfallplan aufbaust einfache Übungen zur Orientierung und Regulation wie du dir eine persönliche Notfalltasche zusammenstellen kannst wie Notfallkarten dich und andere Menschen in schwierigen Situationen unterstützen können Du erhältst damit nicht nur theoretisches Wissen, sondern vor allem konkrete Werkzeuge für den Alltag , auf die du zurückgreifen kannst, wenn Angst und Panik auftreten. Der Kurs ist bewusst ruhig, verständlich und Schritt für Schritt aufgebaut. Du kannst ihn in deinem eigenen Tempo durcharbeiten und einzelne Inhalte jederzeit wiederholen. „Keine Panik!“ soll dir dabei helfen, Panik nicht mehr völlig hilflos gegenüberzustehen, sondern deinen eigenen persönlichen Werkzeugkasten für schwierige Momente aufzubauen. Für wen ist der Kurs geeignet? Für Menschen, die Panikattacken oder starke Angstmomente erleben und sich praktische Möglichkeiten wünschen, damit im Alltag besser umzugehen – unabhängig davon, ob die Panik beispielsweise im Zusammenhang mit belastenden Erfahrungen, Erkrankungen, medizinischen Behandlungen oder anderen Situationen entstanden ist. Wichtiger Hinweis: Der Kurs dient der Information, Selbsthilfe und Unterstützung im Alltag. Er ersetzt keine ärztliche, psychotherapeutische oder psychiatrische Diagnose oder Behandlung. Bei neuen, ungewöhnlichen oder starken körperlichen Beschwerden sollte immer medizinisch abgeklärt werden, ob eine körperliche Ursache vorliegt.
 
 ## 2. Links
 

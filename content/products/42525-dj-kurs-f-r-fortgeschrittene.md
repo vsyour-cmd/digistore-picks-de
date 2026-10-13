@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3 style="text-align:left;"><span style="background-color:#ffff00;"><strong>Bestseller Online DJ Kurs für Fortgeschrittene mit 30% Provision</strong></span></h3>
-<p><strong>Unsere Vorteile:</strong><br /><br /><strong>✅  Beliebter DJ Grundlagen Kurs, mit...</strong></p>
-<ul>
-<li>23 detaillierte Lernvideos über das DJing</li>
-<li>Über 5std Laufzeit</li>
-<li>+ <strong>Bonus Video</strong></li>
-<li>+ Alle Inhalte als Bonus <strong>Audiokurs</strong> mit dazu</li>
-<li>+ Inhalte als Bonus <strong>eBook</strong> zum jederzeit Nachblättern mit dazu</li>
-<li>Sofort Zugriff als Download</li>
-</ul>
-<p>Bei Fragen können Sie sich gerne an uns wenden: djstore@djmikehoffmann.de</p>
+**Vendor's marketplace description:** Bestseller Online DJ Kurs für Fortgeschrittene mit 30% Provision Unsere Vorteile: ✅ Beliebter DJ Grundlagen Kurs, mit... 23 detaillierte Lernvideos über das DJing Über 5std Laufzeit + Bonus Video + Alle Inhalte als Bonus Audiokurs mit dazu + Inhalte als Bonus eBook zum jederzeit Nachblättern mit dazu Sofort Zugriff als Download Bei Fragen können Sie sich gerne an uns wenden: djstore@djmikehoffmann.de
 
 ## 2. Links
 

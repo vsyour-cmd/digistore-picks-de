@@ -41,41 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du hast kein Motivationsproblem.</p>
-<p>Du hast ein Ausredenproblem.</p>
-<p> </p>
-<p>Dieses E-Book ist nicht für dich,</p>
-<p>wenn du auf Motivation wartest.</p>
-<p> </p>
-<p>Es ist für dich, wenn du weißt, dass du Sport machen solltest, es aber immer wieder verschiebst.</p>
-<p> </p>
-<p>Kein Gelaber.</p>
-<p>Keine Nettigkeit.</p>
-<p>Keine Ausreden mehr.</p>
-<p> </p>
-<p>⚠️ DAS PROBLEM</p>
-<p>Du hast alles, was du brauchst.</p>
-<p>Zeit. Wissen. Möglichkeiten.</p>
-<p> </p>
-<p>Und trotzdem bleibst du stehen.</p>
-<p> </p>
-<p>Nicht, weil du es nicht kannst.</p>
-<p>Sondern weil du dir jeden Tag erklärst,</p>
-<p>warum heute nicht der richtige Moment ist.</p>
-<p> </p>
-<p>✅ DIE LÖSUNG</p>
-<p>Dieses E-Book gibt dir:</p>
-<ul>
-<li>klare mentale Regeln</li>
-<li>einen harten, einfachen Rahmen</li>
-<li>Entscheidungen statt Motivation</li>
-</ul>
-<p> </p>
-<p>Kein Trainingsplan.</p>
-<p>Kein Coaching-Blabla.</p>
-<p>Nur das, was funktioniert.</p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Du hast kein Motivationsproblem. Du hast ein Ausredenproblem. Dieses E-Book ist nicht für dich, wenn du auf Motivation wartest. Es ist für dich, wenn du weißt, dass du Sport machen solltest, es aber immer wieder verschiebst. Kein Gelaber. Keine Nettigkeit. Keine Ausreden mehr. ⚠️ DAS PROBLEM Du hast alles, was du brauchst. Zeit. Wissen. Möglichkeiten. Und trotzdem bleibst du stehen. Nicht, weil du es nicht kannst. Sondern weil du dir jeden Tag erklärst, warum heute nicht der richtige Moment ist. ✅ DIE LÖSUNG Dieses E-Book gibt dir: klare mentale Regeln einen harten, einfachen Rahmen Entscheidungen statt Motivation Kein Trainingsplan. Kein Coaching-Blabla. Nur das, was funktioniert.
 
 ## 2. Links
 

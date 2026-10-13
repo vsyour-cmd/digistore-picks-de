@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<p>Die Audio Frequency Converter Software konvertiert Ihre Musik in beliebige Frequenzen, wie beispielsweise 174 Hz, 285 Hz, 396 Hz, 417 Hz, 432 Hz, 440 Hz, 444 Hz, 528 Hz, 639 Hz, 741 Hz, 852 Hz, 963 Hz, und eigene Frequenzen.</p>
-<p><strong>Funktionen</strong></p>
-<ul>
-<li>Konvertiert Musik in <strong>beliebige Frequenzen</strong>.</li>
-<li>Batch-Konvertierung von <strong>Musiksammlungen</strong>.</li>
-<li>Unerstützt <strong>High Quality</strong> 24 Bit Audio und Multi-Channel Audio (z.B. 5.1 Sound).</li>
-<li>MP3, M4A, WAV, FLAC (<strong>Lossless</strong>), sowie das Input-Format.</li>
-</ul>
-<p><strong>Anwendungsbeispiele</strong></p>
-<ul>
-<li>Musiktherapie.</li>
-<li>Solfeggio.</li>
-<li>432 Hz Musik.</li>
-<li>Musik-Tuning (zum Anpassen an Orchesterfrequenzen).</li>
-<li>Well-Being und Joyfulness.</li>
-</ul>
-</div>
+**Vendor's marketplace description:** Die Audio Frequency Converter Software konvertiert Ihre Musik in beliebige Frequenzen, wie beispielsweise 174 Hz, 285 Hz, 396 Hz, 417 Hz, 432 Hz, 440 Hz, 444 Hz, 528 Hz, 639 Hz, 741 Hz, 852 Hz, 963 Hz, und eigene Frequenzen. Funktionen Konvertiert Musik in beliebige Frequenzen . Batch-Konvertierung von Musiksammlungen . Unerstützt High Quality 24 Bit Audio und Multi-Channel Audio (z.B. 5.1 Sound). MP3, M4A, WAV, FLAC ( Lossless ), sowie das Input-Format. Anwendungsbeispiele Musiktherapie. Solfeggio. 432 Hz Musik. Musik-Tuning (zum Anpassen an Orchesterfrequenzen). Well-Being und Joyfulness.
 
 ## 2. Links
 

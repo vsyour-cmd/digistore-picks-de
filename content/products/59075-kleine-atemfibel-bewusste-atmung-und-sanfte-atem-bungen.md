@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die Kleine Atemfibel von Grit S. Böttcher ist ein 40-seitiges PDF-Workbook über automatische und bewusste Atmung. Es erklärt Zusammenhänge und stellt sanfte Atemübungen für gewöhnliche Alltagssituationen vor: im Bett, im Büro, bei Lampenfieber und zwischendurch. Grenzen intensiver Atemarbeit werden ausdrücklich benannt.</p>
-<p>Für Affiliates mit Zielgruppen rund um bewusste Alltagsgestaltung und Atemwahrnehmung bietet die eigenständige Verkaufsseite eine ausführliche Inhaltsvorstellung, FAQ und eine PDF-Leseprobe. Der Partnerbereich stellt Werbetexte und Motive bereit.</p>
-<p>Endpreis: einmalig 12,90 € einschließlich Umsatzsteuer. Digitales PDF-Workbook mit automatischer Auslieferung über Digistore24. Produktfreigabe und geltende Partnerkonditionen vor dem Bewerben prüfen.</p>
-<p>Keine medizinische Behandlung und keine Heil- oder Wirkungsgarantie.</p>
+**Vendor's marketplace description:** Die Kleine Atemfibel von Grit S. Böttcher ist ein 40-seitiges PDF-Workbook über automatische und bewusste Atmung. Es erklärt Zusammenhänge und stellt sanfte Atemübungen für gewöhnliche Alltagssituationen vor: im Bett, im Büro, bei Lampenfieber und zwischendurch. Grenzen intensiver Atemarbeit werden ausdrücklich benannt. Für Affiliates mit Zielgruppen rund um bewusste Alltagsgestaltung und Atemwahrnehmung bietet die eigenständige Verkaufsseite eine ausführliche Inhaltsvorstellung, FAQ und eine PDF-Leseprobe. Der Partnerbereich stellt Werbetexte und Motive bereit. Endpreis: einmalig 12,90 € einschließlich Umsatzsteuer. Digitales PDF-Workbook mit automatischer Auslieferung über Digistore24. Produktfreigabe und geltende Partnerkonditionen vor dem Bewerben prüfen. Keine medizinische Behandlung und keine Heil- oder Wirkungsgarantie.
 
 ## 2. Links
 

@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>KI-Masterkit – Dein Praxisleitfaden für den Einsatz von KI-Tools im Alltag</strong></p>
-<p>Das KI-Masterkit zeigt dir konkret, wie du ChatGPT und andere KI-Tools sinnvoll in deinen Arbeitsalltag integrierst – mit fertigen Vorlagen, Prompts und Schritt-für-Schritt-Anleitungen für sofortige Ergebnisse. Sofort als PDF verfügbar.</p>
-<p>Das ist enthalten:</p>
-<ul>
-<li>Einstieg in ChatGPT &amp; Co. – auch ohne Vorkenntnisse</li>
-<li>50+ fertige Prompt-Vorlagen für verschiedene Anwendungsfälle</li>
-<li>KI-Workflows für Texterstellung, Recherche und Planung</li>
-<li>Anleitung zur Automatisierung wiederkehrender Aufgaben</li>
-<li>Übersicht der nützlichsten KI-Tools mit Bewertung</li>
-<li>Bonus: Prompt-Cheatsheet zum Ausdrucken</li>
-</ul>
-<p>Sofortiger Download – kein Abo, keine versteckten Kosten.</p>
+**Vendor's marketplace description:** KI-Masterkit – Dein Praxisleitfaden für den Einsatz von KI-Tools im Alltag Das KI-Masterkit zeigt dir konkret, wie du ChatGPT und andere KI-Tools sinnvoll in deinen Arbeitsalltag integrierst – mit fertigen Vorlagen, Prompts und Schritt-für-Schritt-Anleitungen für sofortige Ergebnisse. Sofort als PDF verfügbar. Das ist enthalten: Einstieg in ChatGPT & Co. – auch ohne Vorkenntnisse 50+ fertige Prompt-Vorlagen für verschiedene Anwendungsfälle KI-Workflows für Texterstellung, Recherche und Planung Anleitung zur Automatisierung wiederkehrender Aufgaben Übersicht der nützlichsten KI-Tools mit Bewertung Bonus: Prompt-Cheatsheet zum Ausdrucken Sofortiger Download – kein Abo, keine versteckten Kosten.
 
 ## 2. Links
 

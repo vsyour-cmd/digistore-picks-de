@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Lass uns auf die Reise gehen und erlebe wie leicht das Klavierspielen sein kann - mit dem <strong><a>Piano.University Intuinauten-Programm</a>.</strong></p>
-<p><strong>Premium Video-Online-Klavierkurse</strong></p>
-<ul>
-<li><strong>Masterclass Intuition: </strong>Spiele Klavier nach Intuition.</li>
-<li><strong>Notuition: </strong>Werde sicher mit Noten und spiele intuitiv die richtigen Töne.</li>
-<li><strong>Tonarten meistern ohne Noten: </strong>Werde schnell fit in Tonarten.</li>
-<li><strong>Abstauber Akkordeon: </strong>Akkordeon spielen? Das können Intuinauten nach nur wenigen Lektionen!</li>
-</ul>
-<ul>
-<li><strong>inkl. Lern-App</strong> für Android &amp; iOS</li>
-</ul>
+**Vendor's marketplace description:** Lass uns auf die Reise gehen und erlebe wie leicht das Klavierspielen sein kann - mit dem Piano.University Intuinauten-Programm . Premium Video-Online-Klavierkurse Masterclass Intuition: Spiele Klavier nach Intuition. Notuition: Werde sicher mit Noten und spiele intuitiv die richtigen Töne. Tonarten meistern ohne Noten: Werde schnell fit in Tonarten. Abstauber Akkordeon: Akkordeon spielen? Das können Intuinauten nach nur wenigen Lektionen! inkl. Lern-App für Android & iOS
 
 ## 2. Links
 

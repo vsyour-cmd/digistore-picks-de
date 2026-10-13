@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses SingCoaching hat nur ein Ziel: Das Erstrahlen Deiner Stimme und den Erfolg Deines Gesangs für Dich so leicht wie möglich zu machen! Dich erwarten über 90 Lektionen an Motivations- und Übungsvideos.</p>
+**Vendor's marketplace description:** Dieses SingCoaching hat nur ein Ziel: Das Erstrahlen Deiner Stimme und den Erfolg Deines Gesangs für Dich so leicht wie möglich zu machen! Dich erwarten über 90 Lektionen an Motivations- und Übungsvideos.
 
 ## 2. Links
 

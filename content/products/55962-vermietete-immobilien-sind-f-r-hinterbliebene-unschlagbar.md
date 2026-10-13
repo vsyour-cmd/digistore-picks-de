@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Warum vermietete Immobilien für Hinterbliebene unschlagbar sind (Online-Videokurs)</strong></p>
-<p>Du suchst eine Kapitalanlage, die Deine Hinterbliebenenrente nicht zusätzlich belastet und gleichzeitig Vermögen aufbaut? Dieser Videokurs zeigt Dir, warum vermietete Immobilien dafür besonders geeignet sind.</p>
-<p>Du lernst verständlich und praxisnah:</p>
-<ul>
-<li>
-<p>wie Du vermietete Immobilien richtig kalkulierst</p>
-</li>
-<li>
-<p>den Unterschied zwischen Eigenheim und Kapitalanlage</p>
-</li>
-<li>
-<p>wie Miete, Darlehen und Rendite zusammenwirken</p>
-</li>
-<li>
-<p>wie Du durch Abschreibung gezielt Steuern sparst</p>
-</li>
-<li>
-<p>den Unterschied zwischen steuerlichem Gewinn und Cashflow</p>
-</li>
-<li>
-<p>welche Vorteile Inflation und Hebeleffekt bieten</p>
-</li>
-</ul>
-<p>Anhand eines echten Praxisbeispiels bekommst Du Einblicke in konkrete Zahlen und erfährst, wie Immobilien strategisch zur finanziellen Absicherung beitragen können.</p>
-<p>Dauer: ca. 2 Stunden Videomaterial<br />Zugriff: 30 Tage, beliebig oft abrufbar</p>
-<p><strong>Bonus:</strong> Inklusive Berechnungsdateien und Tools zur eigenen Immobilienplanung.</p>
+**Vendor's marketplace description:** Warum vermietete Immobilien für Hinterbliebene unschlagbar sind (Online-Videokurs) Du suchst eine Kapitalanlage, die Deine Hinterbliebenenrente nicht zusätzlich belastet und gleichzeitig Vermögen aufbaut? Dieser Videokurs zeigt Dir, warum vermietete Immobilien dafür besonders geeignet sind. Du lernst verständlich und praxisnah: wie Du vermietete Immobilien richtig kalkulierst den Unterschied zwischen Eigenheim und Kapitalanlage wie Miete, Darlehen und Rendite zusammenwirken wie Du durch Abschreibung gezielt Steuern sparst den Unterschied zwischen steuerlichem Gewinn und Cashflow welche Vorteile Inflation und Hebeleffekt bieten Anhand eines echten Praxisbeispiels bekommst Du Einblicke in konkrete Zahlen und erfährst, wie Immobilien strategisch zur finanziellen Absicherung beitragen können. Dauer: ca. 2 Stunden Videomaterial Zugriff: 30 Tage, beliebig oft abrufbar Bonus: Inklusive Berechnungsdateien und Tools zur eigenen Immobilienplanung.
 
 ## 2. Links
 

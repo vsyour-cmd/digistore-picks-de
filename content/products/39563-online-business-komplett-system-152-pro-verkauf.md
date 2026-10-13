@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Verdiene mindesten 152,12€ PRO Verkauf!</h2>
-<p><strong>NEU:</strong> Bewerbe die erste, echte Komplettlösung für das eigene Online Business und verdiene sagenhafte 152€ pro Verkauf + Beteiligung an allen weiteren Folgeverkäufen! </p>
-<hr />
-<h4><span style="text-decoration:underline;"><span style="background-color:#ffcc00;color:#333333;text-decoration:underline;">**Affiliate Challenge!**</span></span></h4>
-<p><strong>Jeder Affiliate der bis zum 11.05.2022 mindestens 5 Verkäufe generiert, erhält <span style="text-decoration:underline;">zusätzlich 250€</span> bar auf die Hand!</strong></p>
-<hr />
-<h4><span style="color:#3366ff;">Einzigartige Vorteile! </span></h4>
-<ul>
-<li><strong>Dein Verdienst:</strong> 40% von 497€! = 152,12€ abzüglich gebühren und Mehrwertsteuer! </li>
-<li>Dank extrem hilfreichem Mehrwert für den Kunden, besonders leicht zu verkaufen! </li>
-<li>Sehr hohe Provision dank ausgeklügeltem Funnel mit starker Conversion! </li>
-<li><span style="background-color:#ffff00;">Kostenlose Betreuung, Kurse und mehr für alle Partner! </span></li>
-</ul>
-<hr />
-<p><strong>Worauf wartest du noch?</strong> Werde unser Partner und profitiere von exklusiven Vorteilen!</p>
-<p>Hohe Provisionen, starke Conversion und kostenlose Top-Notch Betreuung durch erfahrene Affiliate-Manager erwarten dich! Das bekommst du sonst nirgends!</p>
-<p><strong>Also, Lass uns jetzt zusammen starten und Geld verdienen!</strong></p>
-<p><a href="https://www.digistore24.com/signup/362484,362728,422807,362735,362730,367002,437144,435384,445726,445725,445990,442545,442898,442573,442546/" target="_blank" rel="noreferrer noopener"><span style="color:#3366ff;"><span style="text-decoration:underline;"> &gt;&gt;</span>Jetzt hier Klicken!&lt;&lt;</span></a></p>
-<p> </p>
-<p>→ Werbemittel findest du hier: <span style="color:#3366ff;"><a style="color:#3366ff;" href="https://business-kickstart.de/ob-partnerprogramm/" target="_blank" rel="noreferrer noopener">business-kickstart.de/ob-partnerprogramm</a></span></p>
-<p>→ Bei Fragen schreibe uns an: <span style="color:#3366ff;">info@coaching.business-kickstart.de</span></p>
+**Vendor's marketplace description:** Verdiene mindesten 152,12€ PRO Verkauf! NEU: Bewerbe die erste, echte Komplettlösung für das eigene Online Business und verdiene sagenhafte 152€ pro Verkauf + Beteiligung an allen weiteren Folgeverkäufen! **Affiliate Challenge!** Jeder Affiliate der bis zum 11.05.2022 mindestens 5 Verkäufe generiert, erhält zusätzlich 250€ bar auf die Hand! Einzigartige Vorteile! Dein Verdienst: 40% von 497€! = 152,12€ abzüglich gebühren und Mehrwertsteuer! Dank extrem hilfreichem Mehrwert für den Kunden, besonders leicht zu verkaufen! Sehr hohe Provision dank ausgeklügeltem Funnel mit starker Conversion! Kostenlose Betreuung, Kurse und mehr für alle Partner! Worauf wartest du noch? Werde unser Partner und profitiere von exklusiven Vorteilen! Hohe Provisionen, starke Conversion und kostenlose Top-Notch Betreuung durch erfahrene Affiliate-Manager erwarten dich! Das bekommst du sonst nirgends! Also, Lass uns jetzt zusammen starten und Geld verdienen! >> Jetzt hier Klicken!<< → Werbemittel findest du hier: business-kickstart.de/ob-partnerprogramm → Bei Fragen schreibe uns an: info@coaching.business-kickstart.de
 
 ## 2. Links
 

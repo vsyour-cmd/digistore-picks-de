@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehlen auch Sie dieses Buch für die <strong>Off- und Online-Vertriebsstrategie</strong> <strong>mit überragender Customer Lifetime.</strong></p>
-<p>Ihr einzigartiger Nutzen: </p>
-<ul>
-<li><strong>Unglaubliche hohen Provision</strong> beim Erstkauf des Hochpreis-Produktes.</li>
-<li><strong>Lebenslange Provisionen</strong> auf Ihre Zusatzverkäufe sowie Zweistufen-Provisionen auf die Verkäufe Ihrer Affiliates.</li>
-<li>Hochkonvertierende Webinare mit daraus resultierenden Verkäufen. </li>
-<li>Aktueller <strong>Warenkorbwert von 75 Euro pro Kunde.</strong></li>
-<li>Exklusiv: Einzigartiger und individueller Support durch Ihren <strong>persönlichen Affiliate-Manager.</strong></li>
-<li><strong>Professionelle Auswahl</strong> an optimierten <strong>Werbemittel:</strong> Conversionstarke Banner, verkaufsstarke Mustervorlagen für Ihre E-Mail-Kampagnen und vieles mehr für Ihren feurigen Vertrieb. </li>
-</ul>
-<p>Werden auch Sie Teil unserer Vertriebsfreak-Familie. <a href="https://affiliate.der-bayerische-vertriebsfreak.de/" target="_blank" rel="noreferrer noopener">Hier geht es zur Affiliate-Seite</a>. Wir freuen uns auf Sie.</p>
+**Vendor's marketplace description:** Empfehlen auch Sie dieses Buch für die Off- und Online-Vertriebsstrategie mit überragender Customer Lifetime. Ihr einzigartiger Nutzen: Unglaubliche hohen Provision beim Erstkauf des Hochpreis-Produktes. Lebenslange Provisionen auf Ihre Zusatzverkäufe sowie Zweistufen-Provisionen auf die Verkäufe Ihrer Affiliates. Hochkonvertierende Webinare mit daraus resultierenden Verkäufen. Aktueller Warenkorbwert von 75 Euro pro Kunde. Exklusiv: Einzigartiger und individueller Support durch Ihren persönlichen Affiliate-Manager. Professionelle Auswahl an optimierten Werbemittel: Conversionstarke Banner, verkaufsstarke Mustervorlagen für Ihre E-Mail-Kampagnen und vieles mehr für Ihren feurigen Vertrieb. Werden auch Sie Teil unserer Vertriebsfreak-Familie. Hier geht es zur Affiliate-Seite . Wir freuen uns auf Sie.
 
 ## 2. Links
 

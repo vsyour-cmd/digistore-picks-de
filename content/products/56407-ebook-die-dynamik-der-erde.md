@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein zeitlos relevantes Wissens-Thema mit breiter Zielgruppe:</p>
-<p>Dieses Buch macht die komplexen Kräfte der Erde verständlich und verbindet fundierte Wissenschaft mit anschaulicher Erklärung – ideal für Leser mit Interesse an Natur, Geologie und globalen Zusammenhängen.</p>
-<p>Die Kombination aus Bildung, Faszination und direktem Praxisbezug (z. B. Erdbeben, Vulkane, Ressourcen) sorgt für hohe Aufmerksamkeit und starke Kaufmotivation.</p>
-<p>Besonders attraktiv für Affiliates im Bereich Bildung, Wissenschaft und Wissensprodukte, da das Thema dauerhaft gefragt ist und sich leicht in Content integrieren lässt.</p>
-<p>Die klare Struktur und zugängliche Aufbereitung steigern die Conversion, da Leser schnellen Mehrwert erkennen und Vertrauen aufbauen.</p>
+**Vendor's marketplace description:** Ein zeitlos relevantes Wissens-Thema mit breiter Zielgruppe: Dieses Buch macht die komplexen Kräfte der Erde verständlich und verbindet fundierte Wissenschaft mit anschaulicher Erklärung – ideal für Leser mit Interesse an Natur, Geologie und globalen Zusammenhängen. Die Kombination aus Bildung, Faszination und direktem Praxisbezug (z. B. Erdbeben, Vulkane, Ressourcen) sorgt für hohe Aufmerksamkeit und starke Kaufmotivation. Besonders attraktiv für Affiliates im Bereich Bildung, Wissenschaft und Wissensprodukte, da das Thema dauerhaft gefragt ist und sich leicht in Content integrieren lässt. Die klare Struktur und zugängliche Aufbereitung steigern die Conversion, da Leser schnellen Mehrwert erkennen und Vertrauen aufbauen.
 
 ## 2. Links
 

@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Von planlosem Posten zu deiner ersten durchdachten Kampagne.</h2>
-<p>Das Social Media Megapaket mit Matze verbindet sieben deutsche Praxiskurse mit einem 90-Tage-Plan. Für Einsteiger und Selbstständige, die Inhalte planen, ein Angebot entwickeln und mögliche Vertriebswege praktisch kennenlernen möchten.</p>
-<ul>
-<li>Social Media auf Autopilot</li>
-<li>UGC-Praxispaket</li>
-<li>Affiliate Marketing für Anfänger</li>
-<li>TikTok Shop Affiliate für Anfänger</li>
-<li>Mini-Produkte mit Canva</li>
-<li>Pinterest-Praxispaket</li>
-<li>Faceless-Videos erstellen</li>
-</ul>
-<h3>Zusätzlich: ein Plan für die Umsetzung</h3>
-<p>90-Tage-Arbeitsbuch mit 13 Wochenabschnitten, bearbeitbarer Contentkalender und drei siebentägige Kampagnen mit Textentwürfen und Bildideen.</p>
-<p><strong>599 € einmalig inkl. MwSt. Kein Abo. 40 % Affiliate-Provision gemäß Digistore24-Abrechnung.</strong></p>
-<p>Produktspezifisches Matze-Szenencover, Social-Media-Texte, E-Mail-Vorlage und Partnerlink-Generator auf der Affiliate-Support-Seite.</p>
-<p>Schriftliche Selbstlernmaterialien als acht ZIP-Downloads; keine Videolektionen, kein Live-Coaching und keine persönliche Betreuung. Autopilot bedeutet vorbereitete und geplante Inhalte. Keine Garantie für Einkommen, Verkäufe oder Reichweite. Externe Tools, Konten, Werbung und Plattformfreigaben sind nicht enthalten. Die sieben Kurse überschneiden sich mit bestehenden Matze-Paketen.</p>
-<p>Affiliate-Support: info@einfachhaltbar.de</p>
+**Vendor's marketplace description:** Von planlosem Posten zu deiner ersten durchdachten Kampagne. Das Social Media Megapaket mit Matze verbindet sieben deutsche Praxiskurse mit einem 90-Tage-Plan. Für Einsteiger und Selbstständige, die Inhalte planen, ein Angebot entwickeln und mögliche Vertriebswege praktisch kennenlernen möchten. Social Media auf Autopilot UGC-Praxispaket Affiliate Marketing für Anfänger TikTok Shop Affiliate für Anfänger Mini-Produkte mit Canva Pinterest-Praxispaket Faceless-Videos erstellen Zusätzlich: ein Plan für die Umsetzung 90-Tage-Arbeitsbuch mit 13 Wochenabschnitten, bearbeitbarer Contentkalender und drei siebentägige Kampagnen mit Textentwürfen und Bildideen. 599 € einmalig inkl. MwSt. Kein Abo. 40 % Affiliate-Provision gemäß Digistore24-Abrechnung. Produktspezifisches Matze-Szenencover, Social-Media-Texte, E-Mail-Vorlage und Partnerlink-Generator auf der Affiliate-Support-Seite. Schriftliche Selbstlernmaterialien als acht ZIP-Downloads; keine Videolektionen, kein Live-Coaching und keine persönliche Betreuung. Autopilot bedeutet vorbereitete und geplante Inhalte. Keine Garantie für Einkommen, Verkäufe oder Reichweite. Externe Tools, Konten, Werbung und Plattformfreigaben sind nicht enthalten. Die sieben Kurse überschneiden sich mit bestehenden Matze-Paketen. Affiliate-Support: info@einfachhaltbar.de
 
 ## 2. Links
 

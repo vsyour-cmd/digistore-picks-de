@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Klar durch den Elternkonflikt ist ein praxisorientierter digitaler Ratgeber für Eltern, die nach Trennung oder Scheidung mit schwieriger Kommunikation, wiederkehrenden Konflikten und belastenden Abstimmungen rund um das gemeinsame Kind konfrontiert sind.</p>
-<p>Das Produkt unterstützt Eltern dabei, Konfliktsituationen strukturierter einzuordnen, sachlicher zu kommunizieren, Grenzen klarer zu setzen und den Blick auf das Wohl des Kindes zu richten.</p>
-<p>Geeignet für Zielgruppen rund um:</p>
-<p>Trennung &amp; Scheidung, Co-Parenting, Elternkonflikte, schwierige Kommunikation mit dem anderen Elternteil, persönliche Abgrenzung, Familie und Beziehungen.</p>
-<p>Warum das Produkt für Affiliates interessant ist:</p>
-<p>• klar definierte und emotional relevante Zielgruppe</p>
-<p>• konkretes Problem mit hohem Informationsbedarf</p>
-<p>• praxisorientierter Ansatz statt rein theoretischer Inhalte</p>
-<p>• geeignet für Content zu Trennung, Beziehungen, Elternschaft und Co-Parenting</p>
-<p>• verschiedene Produktvarianten ermöglichen eine breitere Ansprache</p>
-<p>Wichtig: Der Ratgeber dient der Information und persönlichen Orientierung und ersetzt keine individuelle Rechtsberatung, psychologische Beratung oder Therapie.</p>
+**Vendor's marketplace description:** Klar durch den Elternkonflikt ist ein praxisorientierter digitaler Ratgeber für Eltern, die nach Trennung oder Scheidung mit schwieriger Kommunikation, wiederkehrenden Konflikten und belastenden Abstimmungen rund um das gemeinsame Kind konfrontiert sind. Das Produkt unterstützt Eltern dabei, Konfliktsituationen strukturierter einzuordnen, sachlicher zu kommunizieren, Grenzen klarer zu setzen und den Blick auf das Wohl des Kindes zu richten. Geeignet für Zielgruppen rund um: Trennung & Scheidung, Co-Parenting, Elternkonflikte, schwierige Kommunikation mit dem anderen Elternteil, persönliche Abgrenzung, Familie und Beziehungen. Warum das Produkt für Affiliates interessant ist: • klar definierte und emotional relevante Zielgruppe • konkretes Problem mit hohem Informationsbedarf • praxisorientierter Ansatz statt rein theoretischer Inhalte • geeignet für Content zu Trennung, Beziehungen, Elternschaft und Co-Parenting • verschiedene Produktvarianten ermöglichen eine breitere Ansprache Wichtig: Der Ratgeber dient der Information und persönlichen Orientierung und ersetzt keine individuelle Rechtsberatung, psychologische Beratung oder Therapie.
 
 ## 2. Links
 

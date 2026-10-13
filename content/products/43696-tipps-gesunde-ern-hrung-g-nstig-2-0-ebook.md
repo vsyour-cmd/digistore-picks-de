@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <table>
-<tbody>
-<tr>
-<td>
-<div><strong>Tipps gesunde Ernährung günstig 2.0</strong></div>
-<div>
-<p>Möchten Sie sich gesünder ernähren und wissen nicht, wo Sie anfangen sollen? Unser brandneues Ebook "Tipps zur gesunden Ernährung" gibt Ihnen alle Werkzeuge, die Sie benötigen, um eine ausgewogene und nahrhafte Ernährung zu genießen. Mit einer klaren Anleitung und einfachen Tipps werden Sie lernen, welche Lebensmittel Sie essen sollten und welche Sie vermeiden sollten, um ein gesundes Gewicht und eine starke, vitale Energie zu erhalten. Unser Ebook ist ideal für Menschen, die schnell und einfach auf eine gesunde Ernährung umsteigen möchten, ohne sich überfordert zu fühlen. Bestellen Sie noch heute und beginnen Sie Ihren Weg zu einem gesünderen Leben!</p>
-</div>
-</td>
-</tr>
-</tbody>
-</table>
+**Vendor's marketplace description:** Tipps gesunde Ernährung günstig 2.0 Möchten Sie sich gesünder ernähren und wissen nicht, wo Sie anfangen sollen? Unser brandneues Ebook "Tipps zur gesunden Ernährung" gibt Ihnen alle Werkzeuge, die Sie benötigen, um eine ausgewogene und nahrhafte Ernährung zu genießen. Mit einer klaren Anleitung und einfachen Tipps werden Sie lernen, welche Lebensmittel Sie essen sollten und welche Sie vermeiden sollten, um ein gesundes Gewicht und eine starke, vitale Energie zu erhalten. Unser Ebook ist ideal für Menschen, die schnell und einfach auf eine gesunde Ernährung umsteigen möchten, ohne sich überfordert zu fühlen. Bestellen Sie noch heute und beginnen Sie Ihren Weg zu einem gesünderen Leben!
 
 ## 2. Links
 

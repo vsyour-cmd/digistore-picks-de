@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Dein Angebot überzeugt. Dein Call auch – fast.</strong></p>
-<p> </p>
-<p>Gute Chemie, nettes Gespräch,echtes Interesse. Und trotzdem: „Ich überlegs mir noch.“ Das liegt selten am Angebot – meistens an der fehlenden Struktur im Gespräch.</p>
-<p>Dieses System gibt dir die 5-Phasen-Call-Struktur, mit der jedes Verkaufsgespräch eine klare Richtung bekommt. Dazu 7 erprobte Antworten auf die häufigsten Einwände ("zu teuer", „muss noch überlegen“, „keine Zeit“) – griffbereit, statt im Moment zu improvisieren. Plus 4 Nachfass-Formulierungen für alle, die nicht sofort buchen.</p>
-<p><strong>Sofortiger Download, kein Abo. Dein nächster Call kann heute schon anders laufen.</strong></p>
+**Vendor's marketplace description:** Dein Angebot überzeugt. Dein Call auch – fast. Gute Chemie, nettes Gespräch,echtes Interesse. Und trotzdem: „Ich überlegs mir noch.“ Das liegt selten am Angebot – meistens an der fehlenden Struktur im Gespräch. Dieses System gibt dir die 5-Phasen-Call-Struktur, mit der jedes Verkaufsgespräch eine klare Richtung bekommt. Dazu 7 erprobte Antworten auf die häufigsten Einwände ("zu teuer", „muss noch überlegen“, „keine Zeit“) – griffbereit, statt im Moment zu improvisieren. Plus 4 Nachfass-Formulierungen für alle, die nicht sofort buchen. Sofortiger Download, kein Abo. Dein nächster Call kann heute schon anders laufen.
 
 ## 2. Links
 

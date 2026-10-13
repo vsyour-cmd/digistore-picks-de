@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hallo Lieber Affiliate  <br />Wenn du mein Buch bewirbst, darfst du dich auf<strong> 70%</strong> <strong>Provision pro verkauftem Buch</strong> (Taschenbuch) freuen :-) <br />...und dann <strong>50% an den Folgeverkäufen</strong>, da es sich um einen Funnel handelt.  </p>
-<p>Besuche über den Link gerne auch meine Affiliate Support Seite <a>https://dejan-sekulic.com/partnerprogramm<br /></a>dort findest du jede Menge sehr gute und attraktive Werbemittel.  </p>
-<p>Zu jeder Zeit ist unser Support für dich per Mail erreichbar, zögere also nicht, uns bei Fragen und Unklarheiten zu kontaktieren.  </p>
-<p> </p>
-<h4><strong>Das bewirbst du:</strong></h4>
-<p> </p>
-<p><strong>Dejan Sekulics Amazon Bestseller Buch (Taschenbuch) </strong></p>
-<h6><em>Das Glück liebt glückliche Menschen!</em><br /><em>Nahrung für Geist und Seele.</em><br /><em>Zitate, Metaphern, Geschichten,</em><br /><em>Alltagstipps für mehr Glück, Erfolg und Lebensfreude</em></h6>
-<h4><br /><em><strong>Darauf dürfen sich deine Kundinnen und Kunden freuen:</strong></em><br /><br /></h4>
-<ul>
-<li>
-<h4>Nahrung für Geist und Seele</h4>
-</li>
-<li>
-<h4>Hilfreiche Lebensweisheiten  </h4>
-</li>
-<li>
-<h4>Motivierende Zitate von grossen Persönlichkeiten</h4>
-</li>
-<li>
-<h4>Inspirierende Metaphern sowie nützliche Denkanstösse</h4>
-</li>
-<li>
-<h4>Praxistipps für mehr Glück und Lebensfreude</h4>
-</li>
-<li>
-<h4>Das Mindset erfolgreicher Menschen<br /><br />Jeder Affiliate verdient <span style="background-color:#ffff00;">70% Provision</span><br /><span style="background-color:#ffff00;">pro verkauftem Buch (Taschenbuch) </span></h4>
-</li>
-<li><span style="background-color:#ffff00;">...und dann am gesamten Funnel!!!</span></li>
-</ul>
+**Vendor's marketplace description:** Hallo Lieber Affiliate Wenn du mein Buch bewirbst, darfst du dich auf 70% Provision pro verkauftem Buch (Taschenbuch) freuen :-) ...und dann 50% an den Folgeverkäufen , da es sich um einen Funnel handelt. Besuche über den Link gerne auch meine Affiliate Support Seite https://dejan-sekulic.com/partnerprogramm dort findest du jede Menge sehr gute und attraktive Werbemittel. Zu jeder Zeit ist unser Support für dich per Mail erreichbar, zögere also nicht, uns bei Fragen und Unklarheiten zu kontaktieren. Das bewirbst du: Dejan Sekulics Amazon Bestseller Buch (Taschenbuch) Das Glück liebt glückliche Menschen! Nahrung für Geist und Seele. Zitate, Metaphern, Geschichten, Alltagstipps für mehr Glück, Erfolg und Lebensfreude Darauf dürfen sich deine Kundinnen und Kunden freuen: Nahrung für Geist und Seele Hilfreiche Lebensweisheiten Motivierende Zitate von grossen Persönlichkeiten Inspirierende Metaphern sowie nützliche Denkanstösse Praxistipps für mehr Glück und Lebensfreude Das Mindset erfolgreicher Menschen Jeder Affiliate verdient 70% Provision pro verkauftem Buch (Taschenbuch) ...und dann am gesamten Funnel!!!
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für das eBook: Die 100 besten Facebook Tipps</strong></p>
-<p><strong>Verdiene über 500 € pro Sale mit unserem optimierten Funnel!</strong></p>
-<p><strong>Warum solltest du unser Produkt bewerben?</strong><br /><strong>50 % Provision</strong> auf das Hauptprodukt sowie auf Add-ons, Up- und Down-Sales<br /><strong>Hohe Verdienstmöglichkeiten</strong> – über <strong>500 € pro Sale möglich</strong><br /><strong>Hochkonvertierender Funnel</strong>, der ständig <strong>optimiert &amp; erweitert</strong> wird<br /><strong>Attraktive Zielgruppe</strong>: Perfekt für alle, die online Geld verdienen wollen<br /><strong>Professionelles Werbematerial</strong> für einfache &amp; effektive Promotion</p>
-<p><strong>Jetzt bewerben und passiv verdienen!</strong></p>
+**Vendor's marketplace description:** Werde Affiliate für das eBook: Die 100 besten Facebook Tipps Verdiene über 500 € pro Sale mit unserem optimierten Funnel! Warum solltest du unser Produkt bewerben? 50 % Provision auf das Hauptprodukt sowie auf Add-ons, Up- und Down-Sales Hohe Verdienstmöglichkeiten – über 500 € pro Sale möglich Hochkonvertierender Funnel , der ständig optimiert & erweitert wird Attraktive Zielgruppe : Perfekt für alle, die online Geld verdienen wollen Professionelles Werbematerial für einfache & effektive Promotion Jetzt bewerben und passiv verdienen!
 
 ## 2. Links
 

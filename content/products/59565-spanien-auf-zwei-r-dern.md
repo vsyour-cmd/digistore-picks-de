@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Spanien auf zwei Rädern – Der große Motorrad- &amp; Fahrrad-Guide</strong></p>
-<p>Kurvenreiche Bergstraßen, traumhafte Küstenrouten und unvergessliche Touren durch ganz Spanien. Über 250 Seiten Inspiration, Reiseplanung und Praxiswissen für Motorradfahrer und Radfahrer – von den Pyrenäen bis zur Costa del Sol und den Kanarischen Inseln.</p>
-<p>✅ Über 250 Seiten Touren &amp; Praxiswissen<br />✅ Die schönsten Strecken Spaniens<br />✅ Für Motorrad, Rennrad, E-Bike &amp; Mountainbike<br />✅ Tourenatlas, Checklisten &amp; praktische Tipps<br />✅ Sofort als PDF herunterladen</p>
-<p>Du liebst Spanien und hast eine Community, die sich für <strong>Reisen, Mallorca, Auswandern, Camping, Wohnmobil, Ruhestand oder das Leben in Spanien</strong> interessiert?</p>
-<p>Dann werde <strong>Creator &amp; Influencer Partner von Nachrichten.es</strong> und empfehle unsere digitalen Spanien-Ratgeber deiner Community.</p>
-<p>Du erhältst dabei <strong>50 % Provision auf jeden erfolgreichen Verkauf</strong> über deinen persönlichen Affiliate-Link.</p>
+**Vendor's marketplace description:** Spanien auf zwei Rädern – Der große Motorrad- & Fahrrad-Guide Kurvenreiche Bergstraßen, traumhafte Küstenrouten und unvergessliche Touren durch ganz Spanien. Über 250 Seiten Inspiration, Reiseplanung und Praxiswissen für Motorradfahrer und Radfahrer – von den Pyrenäen bis zur Costa del Sol und den Kanarischen Inseln. ✅ Über 250 Seiten Touren & Praxiswissen ✅ Die schönsten Strecken Spaniens ✅ Für Motorrad, Rennrad, E-Bike & Mountainbike ✅ Tourenatlas, Checklisten & praktische Tipps ✅ Sofort als PDF herunterladen Du liebst Spanien und hast eine Community, die sich für Reisen, Mallorca, Auswandern, Camping, Wohnmobil, Ruhestand oder das Leben in Spanien interessiert? Dann werde Creator & Influencer Partner von Nachrichten.es und empfehle unsere digitalen Spanien-Ratgeber deiner Community. Du erhältst dabei 50 % Provision auf jeden erfolgreichen Verkauf über deinen persönlichen Affiliate-Link.
 
 ## 2. Links
 

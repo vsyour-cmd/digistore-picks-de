@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>IST ER DER RICHTIGE? IST SIE DIE RICHTIGE? | Trance | Katja Amberg</p>
-<p>Audioanwendung </p>
-<p>Vorwort (2:26)</p>
-<p>Anwendung/ Trance 27:49</p>
-<p>Online, Zusätzlich Download vorhanden </p>
-<p>Zugang zum Produkt: über <a>https://katja-amberg-coaching.de/</a> (Mitgliederbereich von Katja Amberg Coaching | Zugang wird automatisch erstellt). </p>
-<h4>Bist Du in einer Beziehung und Du weisst nicht genau ob Dein Partner/ Deine Partnerin zu Dir passt? Vielleicht bist Du auch gerade im Dating Prozess und Du bist Dir unsicher, ob Du Dich auf ihn oder sie einlassen kannst? Oder Du überlegst ob Du mit Deinem neuen Partner zusammenziehen sollst, bist Dir aber noch unsicher?</h4>
-<p>Mit dieser Trance-Reise kannst Du mit Hilfe Deines Unterbewusstseins herausfinden ob Du den richtigen Partner/ die richtige Partnerin gewählt hast. Dein Unterbewusstsein und Dein seelischer Anteil wissen die Antwort bereits. Auch Dein Herz schickt Dir ständig Botschaften, was für Dich richtig und stimmig ist. Nur leider können wir oft die Botschaft nicht wirklich empfangen oder verstehen.<br />Mit dieser Trance-Reise ist es möglich Antworten auf Deine Fragen zu erhalten. Ich wünsche Dir viel Freude damit.</p>
+**Vendor's marketplace description:** IST ER DER RICHTIGE? IST SIE DIE RICHTIGE? | Trance | Katja Amberg Audioanwendung Vorwort (2:26) Anwendung/ Trance 27:49 Online, Zusätzlich Download vorhanden Zugang zum Produkt: über https://katja-amberg-coaching.de/ (Mitgliederbereich von Katja Amberg Coaching | Zugang wird automatisch erstellt). Bist Du in einer Beziehung und Du weisst nicht genau ob Dein Partner/ Deine Partnerin zu Dir passt? Vielleicht bist Du auch gerade im Dating Prozess und Du bist Dir unsicher, ob Du Dich auf ihn oder sie einlassen kannst? Oder Du überlegst ob Du mit Deinem neuen Partner zusammenziehen sollst, bist Dir aber noch unsicher? Mit dieser Trance-Reise kannst Du mit Hilfe Deines Unterbewusstseins herausfinden ob Du den richtigen Partner/ die richtige Partnerin gewählt hast. Dein Unterbewusstsein und Dein seelischer Anteil wissen die Antwort bereits. Auch Dein Herz schickt Dir ständig Botschaften, was für Dich richtig und stimmig ist. Nur leider können wir oft die Botschaft nicht wirklich empfangen oder verstehen. Mit dieser Trance-Reise ist es möglich Antworten auf Deine Fragen zu erhalten. Ich wünsche Dir viel Freude damit.
 
 ## 2. Links
 

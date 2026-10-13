@@ -41,37 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="background-color:#ffff99;">Empfehle die LEADERSHIP Akademie für Menschen mit Führungs- &amp; Vorbildverantwortung und erhalte <em>311,- € (=10% Provision)</em><br /></span></h2>
-<div>
-<div>
-<p><strong>Begeistere LeaderInnen, EigentümerInnen, GeschäftsführerInnen, Bereichs- bis TeamleiterInnen, Ärzte, Vorbilder von heute und morgen – die ambitioniert gesund führen und wirken wollen. <br /></strong></p>
-<p><span style="background-color:#ffff99;"><strong>Deine Vorteile:</strong></span></p>
-<p><span style="background-color:#ffff99;"><strong>Für Deine Community garantiert ein absoluter MEHRWERT. 12 Monate voller Entwicklung in 48 Lektionen. Wann und wo die Teilnehmenden mögen.</strong></span></p>
-<p><span style="background-color:#ffff99;"><strong>Du erhältst 311,-€ Provision</strong></span></p>
-<p><span style="background-color:#ffff99;"><strong>Prädikat</strong>: WERTVOLL für mehr Gesundheit, Bewusstsein, Erfolg, Lebens-, Beziehungs- &amp; Arbeitsqualität</span></p>
-<p><strong>Einige INHALTE:</strong></p>
-<ol>
-<li>Mich selbst genauer kennen lernen, um neue Verhaltensweisen wählen zu können</li>
-<li>Selbstwahrnehmung und -verantwortung bei mir und anderen erhöhen – Denk-Update für Gesunden Selbstwert</li>
-<li><span style="background-color:#ffff99;">Wertvolle Skills und Impulse</span>, um den Wechsel von der Fach- zur Führungskraft oder ins Management wirklich zu vollziehen</li>
-<li>Un – Bewusst – oder Bewusst – Sein. Schluss mit müssen, sollen, dürfen. Stattdessen Verantwortung für alle Beteiligten</li>
-<li>Die Wurzeln für Begeisterung oder Widerstand kennen. Effizienter Konflikte klären und Verständigung erreichen</li>
-<li><span style="background-color:#ffff99;">Zeit sinnvoll nutzen</span>. Konkret bitten + fragen. Gespräche auf den Punkt bringen. Klare Vereinbarungen schaffen</li>
-<li>Power für mich. <span style="background-color:#ffff99;">Selbstfürsorge</span>. Gesunde Entscheidungen treffen. Wertvoll Nein sagen und hören</li>
-<li>Empathie – die Kraft, die alles verändert. Tatsächlich empathisch zuhören bringt Teams &amp; Projekte voran! Erleben Sie Wunder!</li>
-<li>Erfolgsfaktoren für gesunde Teams. <span style="background-color:#ffff99;">Aufrichtigkeit, Fairness, Zugehörigkeit</span>… ! Wertschätzend Grenzen setzen, Feedback zum Wachsen geben</li>
-<li>Widerstände und Spannungen wirklich verstehen.  Gefühle, <span style="background-color:#ffff99;">Kritik &amp; Konflikte ohne Vorwurf</span> an den tatsächlichen Wurzeln klären</li>
-<li>Gesunder Umgang mit Ärger. <span style="background-color:#ffff99;">Resilienz im Team</span> stärken. Danken und Kraft tanken</li>
-<li>Meetings, Besprechungen, Verantwortlichkeiten verbindlicher und sinnvoller gestalten.</li>
-<li>Potentialentwicklung und <span style="background-color:#ffff99;">Veränderungskompetenz</span></li>
-<li>Review und Ausblick</li>
-</ol>
-<p> </p>
-<p>Promolink:</p>
-<p><a href="https://www.digistore24.com/redir/401127/MENSCHLICHERFOLGREICH/CAMPAIGNKEY">https://www.digistore24.com/redir/401127/MENSCHLICHERFOLGREICH/CAMPAIGNKEY</a></p>
-<p>Bei Fragen und/oder falls Werbemittel (digital) zur Verfügung gestellt werden sollen, bitte MENSCHLICH ERFOLGREICH unter <a href="mailto:post@menschlich-erfolgreich.de">post@menschlich-erfolgreich.de</a> kontaktieren.</p>
-</div>
-</div>
+**Vendor's marketplace description:** Empfehle die LEADERSHIP Akademie für Menschen mit Führungs- & Vorbildverantwortung und erhalte 311,- € (=10% Provision) Begeistere LeaderInnen, EigentümerInnen, GeschäftsführerInnen, Bereichs- bis TeamleiterInnen, Ärzte, Vorbilder von heute und morgen – die ambitioniert gesund führen und wirken wollen. Deine Vorteile: Für Deine Community garantiert ein absoluter MEHRWERT. 12 Monate voller Entwicklung in 48 Lektionen. Wann und wo die Teilnehmenden mögen. Du erhältst 311,-€ Provision Prädikat : WERTVOLL für mehr Gesundheit, Bewusstsein, Erfolg, Lebens-, Beziehungs- & Arbeitsqualität Einige INHALTE: Mich selbst genauer kennen lernen, um neue Verhaltensweisen wählen zu können Selbstwahrnehmung und -verantwortung bei mir und anderen erhöhen – Denk-Update für Gesunden Selbstwert Wertvolle Skills und Impulse , um den Wechsel von der Fach- zur Führungskraft oder ins Management wirklich zu vollziehen Un – Bewusst – oder Bewusst – Sein. Schluss mit müssen, sollen, dürfen. Stattdessen Verantwortung für alle Beteiligten Die Wurzeln für Begeisterung oder Widerstand kennen. Effizienter Konflikte klären und Verständigung erreichen Zeit sinnvoll nutzen . Konkret bitten + fragen. Gespräche auf den Punkt bringen. Klare Vereinbarungen schaffen Power für mich. Selbstfürsorge . Gesunde Entscheidungen treffen. Wertvoll Nein sagen und hören Empathie – die Kraft, die alles verändert. Tatsächlich empathisch zuhören bringt Teams & Projekte voran! Erleben Sie Wunder! Erfolgsfaktoren für gesunde Teams. Aufrichtigkeit, Fairness, Zugehörigkeit … ! Wertschätzend Grenzen setzen, Feedback zum Wachsen geben Widerstände und Spannungen wirklich verstehen. Gefühle, Kritik & Konflikte ohne Vorwurf an den tatsächlichen Wurzeln klären Gesunder Umgang mit Ärger. Resilienz im Team stärken. Danken und Kraft tanken Meetings, Besprechungen, Verantwortlichkeiten verbindlicher und sinnvoller gestalten. Potentialentwicklung und Veränderungskompetenz Review und Ausblick Promolink: https://www.digistore24.com/redir/401127/MENSCHLICHERFOLGREICH/CAMPAIGNKEY Bei Fragen und/oder falls Werbemittel (digital) zur Verfügung gestellt werden sollen, bitte MENSCHLICH ERFOLGREICH unter post@menschlich-erfolgreich.de kontaktieren.
 
 ## 2. Links
 

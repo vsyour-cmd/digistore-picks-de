@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Verschenke unser Buch und sichere dir langfristige, passive Abo-Einnahmen durch unsere hochkonvertierenden Upsells!</strong></span></p>
-<ul>
-<li>Hochwertiges Buch mit 228 Rezepten</li>
-<li>Passive Einnahmen durch Abo-Provision</li>
-<li>Hohe Conversion sowohl auf das Front Produkt, als auch auf die Upsells</li>
-</ul>
-<p>Du erhältst 50% Provision auf unsere Abo-Upsells in Höhe von 49,95 Euro und 29,95 Euro pro Monat solange die Kunden dabei bleiben (wir haben hier eine extrem hohe Blieberate).</p>
-<p>Melde dich jetzt als Affiliate an und starte mit dem Bewerben unseres Buches und sichere dir die passiven Einnahmen!</p>
+**Vendor's marketplace description:** Verschenke unser Buch und sichere dir langfristige, passive Abo-Einnahmen durch unsere hochkonvertierenden Upsells! Hochwertiges Buch mit 228 Rezepten Passive Einnahmen durch Abo-Provision Hohe Conversion sowohl auf das Front Produkt, als auch auf die Upsells Du erhältst 50% Provision auf unsere Abo-Upsells in Höhe von 49,95 Euro und 29,95 Euro pro Monat solange die Kunden dabei bleiben (wir haben hier eine extrem hohe Blieberate). Melde dich jetzt als Affiliate an und starte mit dem Bewerben unseres Buches und sichere dir die passiven Einnahmen!
 
 ## 2. Links
 

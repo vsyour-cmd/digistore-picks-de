@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>So geht schwanger heute!</strong></h2>
-<p>CleverMom begleitet und unterstützt Schwangerschaft &amp; Geburt <strong>absolut einmalig</strong> mit einer einzigartigen Mischung</p>
-<p><iframe src="https://player.vimeo.com/video/541034362" width="350" frameborder="0"></iframe></p>
-<p>➕ Video Kurs</p>
-<p>➕ Workbook mit 210+ Seiten</p>
-<p>➕ Virtuelle Assistentin (2x-wöchentliche Begleitung)</p>
-<p>➕ Exklusiver Mitgliederbereich</p>
-<p>➕ 1:1 Geburts-Coaching</p>
-<p>➕ Live-Sessions und Events</p>
-<p>➕ 3 Boni</p>
-<p>➕ Kurs Zertifikat</p>
-<h2><span style="color:#808000;"><strong>Deine Vorteile als Affiliate:</strong></span></h2>
-<p><strong>✅</strong> Erprobte, laufend optimierte Video-Landing-Page</p>
-<p><strong>✅</strong> <strong>100%</strong> Smartphone optimiert</p>
-<p><strong>✅</strong> Einzigartiges Produkt, das nicht nur begleitet sondern wirklich unterstützt</p>
-<p>↗️ + Upsell Ernährung in der Schangerschaft</p>
-<p>↗️ + Upsell 1:1 Intensiv Coaching</p>
-<p><strong>✅</strong> <strong>Ausführliche Affiliate Support Webseite:</strong> alle Infos, Werbemittel, Support, Affili-News-Letter, Aktionen</p>
-<p> </p>
+**Vendor's marketplace description:** So geht schwanger heute! CleverMom begleitet und unterstützt Schwangerschaft & Geburt absolut einmalig mit einer einzigartigen Mischung ➕ Video Kurs ➕ Workbook mit 210+ Seiten ➕ Virtuelle Assistentin (2x-wöchentliche Begleitung) ➕ Exklusiver Mitgliederbereich ➕ 1:1 Geburts-Coaching ➕ Live-Sessions und Events ➕ 3 Boni ➕ Kurs Zertifikat Deine Vorteile als Affiliate: ✅ Erprobte, laufend optimierte Video-Landing-Page ✅ 100% Smartphone optimiert ✅ Einzigartiges Produkt, das nicht nur begleitet sondern wirklich unterstützt ↗️ + Upsell Ernährung in der Schangerschaft ↗️ + Upsell 1:1 Intensiv Coaching ✅ Ausführliche Affiliate Support Webseite: alle Infos, Werbemittel, Support, Affili-News-Letter, Aktionen
 
 ## 2. Links
 

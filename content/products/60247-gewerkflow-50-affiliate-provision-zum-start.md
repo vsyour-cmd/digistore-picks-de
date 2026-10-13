@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>GewerkFlow – jetzt bewerben und zum Start 50 % Affiliate-Provision erhalten</p>
-<p>Du suchst ein Angebot für eine klare gewerbliche Zielgruppe? Mit GewerkFlow kannst du eine digitale Lösung aus der GewerK-Produktfamilie empfehlen und dir für erfolgreiche Vermittlungen eine attraktive Provision sichern.</p>
-<p>Zum Start erhältst du 50 % Affiliate-Provision pro erfolgreicher Vermittlung.</p>
-<p>Warum GewerkFlow bewerben?</p>
-<p>✓ 50 % Affiliate-Provision zum Start<br />✓ Klare Zielgruppe aus Gewerbe, Handwerk und Unternehmertum<br />✓ Digitale Lösung mit verständlichem Nutzen<br />✓ Professionelle Verkaufsseite<br />✓ Einfache Bewerbung über deinen persönlichen Digistore24-Promolink<br />✓ Weitere GewerK-Produkte bieten zusätzliche Möglichkeiten für Empfehlungen</p>
-<p>Geeignet für Affiliates mit Zielgruppen aus:</p>
-<p>• Handwerk und Gewerbe<br />• Selbstständigkeit und Unternehmertum<br />• Digitalisierung<br />• Unternehmensorganisation<br />• Produktivität und Prozessoptimierung</p>
-<p>Du erhältst deinen persönlichen Affiliate-Link direkt über Digistore24 und kannst sofort mit der Bewerbung starten.</p>
-<p>Jetzt GewerkFlow bewerben und zum Start 50 % Provision sichern.</p>
+**Vendor's marketplace description:** GewerkFlow – jetzt bewerben und zum Start 50 % Affiliate-Provision erhalten Du suchst ein Angebot für eine klare gewerbliche Zielgruppe? Mit GewerkFlow kannst du eine digitale Lösung aus der GewerK-Produktfamilie empfehlen und dir für erfolgreiche Vermittlungen eine attraktive Provision sichern. Zum Start erhältst du 50 % Affiliate-Provision pro erfolgreicher Vermittlung. Warum GewerkFlow bewerben? ✓ 50 % Affiliate-Provision zum Start ✓ Klare Zielgruppe aus Gewerbe, Handwerk und Unternehmertum ✓ Digitale Lösung mit verständlichem Nutzen ✓ Professionelle Verkaufsseite ✓ Einfache Bewerbung über deinen persönlichen Digistore24-Promolink ✓ Weitere GewerK-Produkte bieten zusätzliche Möglichkeiten für Empfehlungen Geeignet für Affiliates mit Zielgruppen aus: • Handwerk und Gewerbe • Selbstständigkeit und Unternehmertum • Digitalisierung • Unternehmensorganisation • Produktivität und Prozessoptimierung Du erhältst deinen persönlichen Affiliate-Link direkt über Digistore24 und kannst sofort mit der Bewerbung starten. Jetzt GewerkFlow bewerben und zum Start 50 % Provision sichern.
 
 ## 2. Links
 

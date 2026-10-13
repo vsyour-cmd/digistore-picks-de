@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Verstehe Kinder - Bereite Kinder vor</p>
-<p>Für eine erfolgreiche &amp; glückliche Zukunft</p>
-<p><strong>Beende den Kampf mit deinem Kind, beginne eure Beziehung zu geniessen. Das Rezept für Harmonie in der Familie und ausserhalb. Für Kleinkinder bis Teenager, selbst bei Erwachsenen erfolgreich anwendbar.</strong></p>
-<p>Im Arbeitsbuch findest du Lösungen für:</p>
-<ul>
-<li>Warum lügt mich mein Kind an?</li>
-<li>Mein Kind ist in der Schule und bei Freunden sehr brav und anständig, zu Hause benimmt es sich aber mit gar keinem Respekt uns gegenüber. Was kann ich tun, damit dies nicht ausser Kontrolle gerät?</li>
-<li>Wie gehe ich mit meinem schreienden Kind um? Wenn ich noch nicht mal weiss was es überhaupt hat?</li>
-<li>Mein Kind kann nie ruhig sitzen, was kann ich tun? Ich will ihm keine Medikamente geben.</li>
-<li>Wie kann mein Kind besser mit Geld umgehen?</li>
-<li>Mein Kind verbringt zu viel Zeit mit seinem Computer und iPad, was kann ich tun?</li>
-<li>Was kann ich tun, damit mein Kind auf mich hört?</li>
-<li>Warum respektiert mich mein Kind nicht?</li>
-<li>Warum habe ich das Gefühl mein Kind raubt mir die ganze Energie? Wie kann ich damit umgehen?</li>
-</ul>
+**Vendor's marketplace description:** Verstehe Kinder - Bereite Kinder vor Für eine erfolgreiche & glückliche Zukunft Beende den Kampf mit deinem Kind, beginne eure Beziehung zu geniessen. Das Rezept für Harmonie in der Familie und ausserhalb. Für Kleinkinder bis Teenager, selbst bei Erwachsenen erfolgreich anwendbar. Im Arbeitsbuch findest du Lösungen für: Warum lügt mich mein Kind an? Mein Kind ist in der Schule und bei Freunden sehr brav und anständig, zu Hause benimmt es sich aber mit gar keinem Respekt uns gegenüber. Was kann ich tun, damit dies nicht ausser Kontrolle gerät? Wie gehe ich mit meinem schreienden Kind um? Wenn ich noch nicht mal weiss was es überhaupt hat? Mein Kind kann nie ruhig sitzen, was kann ich tun? Ich will ihm keine Medikamente geben. Wie kann mein Kind besser mit Geld umgehen? Mein Kind verbringt zu viel Zeit mit seinem Computer und iPad, was kann ich tun? Was kann ich tun, damit mein Kind auf mich hört? Warum respektiert mich mein Kind nicht? Warum habe ich das Gefühl mein Kind raubt mir die ganze Energie? Wie kann ich damit umgehen?
 
 ## 2. Links
 

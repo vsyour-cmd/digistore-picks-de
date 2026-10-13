@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Das erste Date“</strong></p>
-<p>Gespräche, Körpersprache, Chemie – Drei Zutaten entscheiden über ein gelungenes erstes Date: gute Gespräche, stimmige Körpersprache und echte Chemie. Hier lernst du alle drei.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Die drei Säulen: Gespräch, Körper, Chemie</li>
-<li>Gesprächsführung: Fragen &amp; Zuhören</li>
-<li>Körpersprache lesen &amp; senden</li>
-<li>Chemie verstehen (und was sie nicht ist)</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Das erste Date“ Gespräche, Körpersprache, Chemie – Drei Zutaten entscheiden über ein gelungenes erstes Date: gute Gespräche, stimmige Körpersprache und echte Chemie. Hier lernst du alle drei. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Die drei Säulen: Gespräch, Körper, Chemie Gesprächsführung: Fragen & Zuhören Körpersprache lesen & senden Chemie verstehen (und was sie nicht ist)
 
 ## 2. Links
 

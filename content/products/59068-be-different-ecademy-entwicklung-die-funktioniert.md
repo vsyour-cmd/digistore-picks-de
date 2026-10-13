@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Ein besseres Du entsteht nicht durch Druck, sondern durch Richtung und Klarheit.</strong></p>
-<p>Die <strong>Be Different ecademy</strong> ist dein Ort für persönliche und berufliche Weiterentwicklung, die messbar wirkt – im Denken, im Handeln, im Alltag.</p>
-<p>Hier lernst du von Könnern, nicht von Theoretikern. Von Menschen, die erlebt und umgesetzt haben, wovon sie sprechen und dich auf Augenhöhe dabei unterstützen, es selbst anzuwenden.</p>
-<p>Jede Einheit bringt dich weiter: mehr Fokus, mehr Energie, mehr Wirksamkeit.<br />Nicht als Selbstoptimierungsdruck, sondern als bewusster Schritt zu echter Meisterschaft, Selbstvertrauen und Leichtigkeit im Tun.</p>
-<p><strong>Lernen, das bleibt – weil es funktioniert.</strong></p>
-<p> </p>
-<p><strong>Was du bekommst</strong></p>
-<p>✅ Zugang zu <strong>allen Kursen &amp; neuen Inhalten</strong><br />✅ Klare, alltagstaugliche Impulse für Kopf, Körper &amp; Herz<br />✅ Lernfreiheit – du bestimmst Tiefe, Tempo, Reihenfolge<br />✅ Kontaktmöglichkeit zu deinen Könnern für persönliche Vertiefung (außerhalb der Plattform)<br />✅ Mitglied einer wachsenden Community bewusster Menschen</p>
-<p> </p>
-<p><strong>Warum jetzt?</strong></p>
-<p>Die Be Different ecademy startet in ihrer <strong>Early-Access-Phase</strong>.<br />Noch sind nur wenige Kurse online – doch du gehörst zu den Ersten, die sie mitgestalten.<br />Dein Mitgliedspreis bleibt<strong> bestehen</strong>, auch wenn wir wachsen.</p>
-<p> </p>
-<p><strong>Dein Mitgliedszugang</strong></p>
-<ul>
-<li><strong>Monatsmitgliedschaft:</strong> 54 € inkl. MwSt.</li>
-<li><strong>Jahresmitgliedschaft:</strong> 540 € inkl. MwSt. (2 Monate geschenkt)</li>
-</ul>
-<p><em>Ein Zugang – alle Kurse. Bewusste Entwicklung, wann du willst.</em></p>
+**Vendor's marketplace description:** Ein besseres Du entsteht nicht durch Druck, sondern durch Richtung und Klarheit. Die Be Different ecademy ist dein Ort für persönliche und berufliche Weiterentwicklung, die messbar wirkt – im Denken, im Handeln, im Alltag. Hier lernst du von Könnern, nicht von Theoretikern. Von Menschen, die erlebt und umgesetzt haben, wovon sie sprechen und dich auf Augenhöhe dabei unterstützen, es selbst anzuwenden. Jede Einheit bringt dich weiter: mehr Fokus, mehr Energie, mehr Wirksamkeit. Nicht als Selbstoptimierungsdruck, sondern als bewusster Schritt zu echter Meisterschaft, Selbstvertrauen und Leichtigkeit im Tun. Lernen, das bleibt – weil es funktioniert. Was du bekommst ✅ Zugang zu allen Kursen & neuen Inhalten ✅ Klare, alltagstaugliche Impulse für Kopf, Körper & Herz ✅ Lernfreiheit – du bestimmst Tiefe, Tempo, Reihenfolge ✅ Kontaktmöglichkeit zu deinen Könnern für persönliche Vertiefung (außerhalb der Plattform) ✅ Mitglied einer wachsenden Community bewusster Menschen Warum jetzt? Die Be Different ecademy startet in ihrer Early-Access-Phase . Noch sind nur wenige Kurse online – doch du gehörst zu den Ersten, die sie mitgestalten. Dein Mitgliedspreis bleibt bestehen , auch wenn wir wachsen. Dein Mitgliedszugang Monatsmitgliedschaft: 54 € inkl. MwSt. Jahresmitgliedschaft: 540 € inkl. MwSt. (2 Monate geschenkt) Ein Zugang – alle Kurse. Bewusste Entwicklung, wann du willst.
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Herzlich Willkommen! </p>
-<p>Ich bin Anna-Magdalena und dies ist der erste Band der Reihe “Aus eigener Hand”!</p>
-<p>Dieses Buch soll dir Mut machen, Dinge selbst auszuprobieren und zeigen, wie viel Freude es bereitet, Alltägliches mit den eigenen Händen herzustellen.</p>
-<p>Als fünffache Mutter weiß ich, wie wertvoll einfache, bewährte Rezepte sind. Gutes, nahrhaftes Essen ist die Grundlage für ein gesundes Leben - und selbst gebackenes Suerteigbrot gehört für mich einfach dazu.</p>
-<p>Ich bin keine gelernte Bäckerin, aber über die Jahre habe ich viel ausprobiert, gelernt und meine Liebe zum Sauerteig entdeckt.</p>
-<p>Nun begleite ich dich Schritt für Schritt auf deinem Sauerteig-Weg, sodass du schon bald dein erstes selbst gebackenes Brot genießen kannst.</p>
-<p>Lass uns gemeinsam loslegen!</p>
-<p> </p>
+**Vendor's marketplace description:** Herzlich Willkommen! Ich bin Anna-Magdalena und dies ist der erste Band der Reihe “Aus eigener Hand”! Dieses Buch soll dir Mut machen, Dinge selbst auszuprobieren und zeigen, wie viel Freude es bereitet, Alltägliches mit den eigenen Händen herzustellen. Als fünffache Mutter weiß ich, wie wertvoll einfache, bewährte Rezepte sind. Gutes, nahrhaftes Essen ist die Grundlage für ein gesundes Leben - und selbst gebackenes Suerteigbrot gehört für mich einfach dazu. Ich bin keine gelernte Bäckerin, aber über die Jahre habe ich viel ausprobiert, gelernt und meine Liebe zum Sauerteig entdeckt. Nun begleite ich dich Schritt für Schritt auf deinem Sauerteig-Weg, sodass du schon bald dein erstes selbst gebackenes Brot genießen kannst. Lass uns gemeinsam loslegen!
 
 ## 2. Links
 

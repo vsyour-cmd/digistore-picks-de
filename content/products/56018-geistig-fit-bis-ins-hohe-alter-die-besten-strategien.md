@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Du bekommst 50 % Provision bei jedem Verkauf dieses Ratgebers.</strong></p>
-<p>Menschen im Alter machen sich zunehmend Sorgen um ihr Gedächtnis – Namen, Termine, Alltagshilfen werden immer wichtiger. Genau hier setzt dieses eBook an: als <strong>praxisnaher, sachlicher Ratgeber gegen Gedächtnisverlust</strong>, mit klaren, alltagstauglichen Strategien für geistige Fitness.</p>
-<p>In diesem Buch lernen deine Leser:</p>
-<ul>
-<li>
-<p>wie das Gehirn wirklich funktioniert und was im Alter typischerweise passiert,</p>
-</li>
-<li>
-<p>welche Ernährungs‑ und Bewegungsstrategien Gedächtnis und Konzentration unterstützen,</p>
-</li>
-<li>
-<p>welche geistigen Übungen, Technik‑Hilfen und Alltagstipps wirklich wirken,</p>
-</li>
-<li>
-<p>und wie sie Stress, Schlaf &amp; Erholung gezielt nutzen, um geistig wach zu bleiben.</p>
-</li>
-</ul>
-<p>Der Ratgeber richtet sich an:</p>
-<ul>
-<li>
-<p>ältere Menschen, die sich geistig fit halten wollen,</p>
-</li>
-<li>
-<p>Angehörige, die einen geliebten Menschen aktiv unterstützen,</p>
-</li>
-<li>
-<p>Berater, Pflegekräfte und interessierte Leser, die fundierte, aber leicht verständliche Strategien suchen.</p>
-</li>
-</ul>
-<p>Mit deiner Empfehlung kannst du Menschen helfen, ihre geistige Selbstständigkeit zu bewahren – und gleichzeitig eine <strong>attraktive 50 % Provision</strong> pro Verkauf verdienen.</p>
+**Vendor's marketplace description:** Du bekommst 50 % Provision bei jedem Verkauf dieses Ratgebers. Menschen im Alter machen sich zunehmend Sorgen um ihr Gedächtnis – Namen, Termine, Alltagshilfen werden immer wichtiger. Genau hier setzt dieses eBook an: als praxisnaher, sachlicher Ratgeber gegen Gedächtnisverlust , mit klaren, alltagstauglichen Strategien für geistige Fitness. In diesem Buch lernen deine Leser: wie das Gehirn wirklich funktioniert und was im Alter typischerweise passiert, welche Ernährungs‑ und Bewegungsstrategien Gedächtnis und Konzentration unterstützen, welche geistigen Übungen, Technik‑Hilfen und Alltagstipps wirklich wirken, und wie sie Stress, Schlaf & Erholung gezielt nutzen, um geistig wach zu bleiben. Der Ratgeber richtet sich an: ältere Menschen, die sich geistig fit halten wollen, Angehörige, die einen geliebten Menschen aktiv unterstützen, Berater, Pflegekräfte und interessierte Leser, die fundierte, aber leicht verständliche Strategien suchen. Mit deiner Empfehlung kannst du Menschen helfen, ihre geistige Selbstständigkeit zu bewahren – und gleichzeitig eine attraktive 50 % Provision pro Verkauf verdienen.
 
 ## 2. Links
 

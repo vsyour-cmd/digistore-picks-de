@@ -41,61 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><span style="color:#ff0000;">Du möchtest mehr Klarheit und Fokus in deinem Online-Businessaufbau?</span><br /><br />Erfahre hier, wie du deinen Funnel mit Herz und Verstand so aufbaust, dass du ganz automatisch Kunden anziehst, und Follower zu Superfans machst! <br /></strong></p>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p><span style="color:#ff0000;">Geht es dir so:</span></p>
-<ul>
-<li>Du bist im Businessaufbau oder schon etwas dabei, aber du bist nicht happy mit deinen Ergebnissen?</li>
-<li>Du sehnst dich nach: es soll nicht immer so mühsam sein, Kunden zu gewinnen?</li>
-</ul>
-</div>
-</div>
-<div>
-<div>
-<p><span style="color:#ff0000;">Du möchtest:</span></p>
-<ul>
-<li>Mehr Kunden gewinnen, eine leichtere, automatische Form für dein Herzensbusiness, welches du dir gerade mit viel Liebe aufbaust?</li>
-</ul>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>Funnel, was? Onlinebusiness kann oft ganz schön verwirrend sein.<strong><br /></strong></p>
-<p><br /><strong>Hier kommt die Lösung für dich:</strong><br /><br /><strong>Der Kurs zum Funnel-Aufbau für dein (zukünftiges) Online-Herzensbusiness! Dein Tribe wartet darauf, dass du endlich in die Puschen kommst!</strong><br /><br /><strong><br />DIE BESTANDTEILE:</strong> <br /><br /><strong>Leichtes Marketing –</strong> du wirst deinen Funnel nach der<br />Strategie SEE – THINK – DO – CARE aufbauen!<br /><br /><strong>Klare Struktur –</strong> die Anleitung, wie du einen wirkungsvollen Funnel aufbaust, der deinen Kunden eine glasklare Lösung bietet!<br /><br /><strong>2 tiefe Meditationen,</strong> um einen einzigartigen Kontakt zu deinem Tribe zu visualisieren!<br /><br /><strong>Magische Landingpage –</strong> die Anleitung, die ich erfolgreich für meine 5-stelligen Launches nutze!<br />Strategie für Werbeanzeigen, uvm.<strong><br /></strong><br />9 Videos + umfangreichen Workbook (31 Seiten)<br /><br /><strong>BONI</strong> <br />• die 7 x 7 x 7 Contentideen für Blogs und Videos!<br />• Besten Techniktools aus über 9 J. Onlinebusiness!</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>Hol dir den Superfan-Funnel – perfekt, um nicht nur Kunden, sondern Superfans zu gewinnen!</p>
-<p><strong>Nur jetzt:</strong><br /><span style="text-decoration:line-through;"><strong>Statt 89 €</strong></span>  <span style="color:#ff0000;">nur 57 €</span> zzgl. MwSt.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Du möchtest mehr Klarheit und Fokus in deinem Online-Businessaufbau? Erfahre hier, wie du deinen Funnel mit Herz und Verstand so aufbaust, dass du ganz automatisch Kunden anziehst, und Follower zu Superfans machst! Geht es dir so: Du bist im Businessaufbau oder schon etwas dabei, aber du bist nicht happy mit deinen Ergebnissen? Du sehnst dich nach: es soll nicht immer so mühsam sein, Kunden zu gewinnen? Du möchtest: Mehr Kunden gewinnen, eine leichtere, automatische Form für dein Herzensbusiness, welches du dir gerade mit viel Liebe aufbaust? Funnel, was? Onlinebusiness kann oft ganz schön verwirrend sein. Hier kommt die Lösung für dich: Der Kurs zum Funnel-Aufbau für dein (zukünftiges) Online-Herzensbusiness! Dein Tribe wartet darauf, dass du endlich in die Puschen kommst! DIE BESTANDTEILE: Leichtes Marketing – du wirst deinen Funnel nach der Strategie SEE – THINK – DO – CARE aufbauen! Klare Struktur – die Anleitung, wie du einen wirkungsvollen Funnel aufbaust, der deinen Kunden eine glasklare Lösung bietet! 2 tiefe Meditationen, um einen einzigartigen Kontakt zu deinem Tribe zu visualisieren! Magische Landingpage – die Anleitung, die ich erfolgreich für meine 5-stelligen Launches nutze! Strategie für Werbeanzeigen, uvm. 9 Videos + umfangreichen Workbook (31 Seiten) BONI • die 7 x 7 x 7 Contentideen für Blogs und Videos! • Besten Techniktools aus über 9 J. Onlinebusiness! Hol dir den Superfan-Funnel – perfekt, um nicht nur Kunden, sondern Superfans zu gewinnen! Nur jetzt: Statt 89 € nur 57 € zzgl. MwSt.
 
 ## 2. Links
 

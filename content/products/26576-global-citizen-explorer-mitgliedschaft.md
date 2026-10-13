@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Global Citizen Explorer ist ein exklusives Offshore Magazin und einzigartig im deutschsprachigen Raum! </p>
-<p>Es handelt sich dabei um ein monatliches oder jährliches Abo. Wir zeigen unseren Mitgliedern die besten Möglichkeiten weltweit auf, um ihr eigenes Business im Bereich Steuern, Vermögensaufbau, Vermögensschutz, Diversifizierung, Investements etc. legal zu optimieren. </p>
-<p>Das Produkt spezialisert sich auf Unternehmer und die Mittelschicht. </p>
-<p>Unsere Affiliate Seite findest Du hier: <a href="https://www.globalcitizenexplorer.com/2429846287542984274026zf6t2d6ed72d827fe78td2/">https://www.globalcitizenexplorer.com/affiliate/</a> </p>
+**Vendor's marketplace description:** Der Global Citizen Explorer ist ein exklusives Offshore Magazin und einzigartig im deutschsprachigen Raum! Es handelt sich dabei um ein monatliches oder jährliches Abo. Wir zeigen unseren Mitgliedern die besten Möglichkeiten weltweit auf, um ihr eigenes Business im Bereich Steuern, Vermögensaufbau, Vermögensschutz, Diversifizierung, Investements etc. legal zu optimieren. Das Produkt spezialisert sich auf Unternehmer und die Mittelschicht. Unsere Affiliate Seite findest Du hier: https://www.globalcitizenexplorer.com/affiliate/
 
 ## 2. Links
 

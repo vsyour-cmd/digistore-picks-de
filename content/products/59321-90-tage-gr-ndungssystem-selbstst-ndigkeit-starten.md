@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;">Deine Zielgruppe möchte sich selbstständig machen, weiß aber nicht, wie sie Anmeldung, Finanzen und Kundengewinnung angehen soll?</p>
-<p> </p>
-<p>Das 90-Tage-Gründungssystem von Almedina Hajro begleitet Einsteiger:innen mit verständlichen Erklärungen, Arbeitsblättern und konkreten Umsetzungsschritten.</p>
-<p> </p>
-<p>Das erhalten Käufer:innen:</p>
-<p> </p>
-<p>• 52-seitige PDF mit Hauptguide, Workbook und Vorlagenpaket</p>
-<p>• Excel-Finanzcockpit mit Preisrechner, Rücklagenplanung, Liquiditätsübersicht und Einnahmen-Ausgaben-Liste</p>
-<p>• Excel-Tracker für den 90-Tage-Plan, Kundenkontakte und Wochenreviews</p>
-<p> </p>
-<p>Für wen eignet sich das Produkt?</p>
-<p> </p>
-<p>Für angehende Selbstständige in Deutschland, die ihre Gründung strukturiert vorbereiten möchten – auch ohne betriebswirtschaftliches Vorwissen.</p>
-<p> </p>
-<p>Deine Konditionen als Affiliate:</p>
-<p> </p>
-<p>• Verkaufspreis: 499 €</p>
-<p>• Affiliate-Provision: 40 %</p>
-<p>• Digitales Download-Paket mit automatischer Auslieferung über Digistore24</p>
-<p> </p>
-<p>Das Angebot passt zu Inhalten rund um Gründung, berufliche Neuorientierung und den Einstieg in die Selbstständigkeit.</p>
-<p> </p>
-<p>Es handelt sich um ein Selbstlernprodukt ohne persönliches Coaching. Individuelle Steuer-, Rechts- oder Versicherungsberatung sowie Umsatzgarantien sind nicht enthalten.</p>
-<p> </p>
-<p>Kontakt für Affiliate-Anfragen: info@almedinahajro.de</p>
+**Vendor's marketplace description:** Deine Zielgruppe möchte sich selbstständig machen, weiß aber nicht, wie sie Anmeldung, Finanzen und Kundengewinnung angehen soll? Das 90-Tage-Gründungssystem von Almedina Hajro begleitet Einsteiger:innen mit verständlichen Erklärungen, Arbeitsblättern und konkreten Umsetzungsschritten. Das erhalten Käufer:innen: • 52-seitige PDF mit Hauptguide, Workbook und Vorlagenpaket • Excel-Finanzcockpit mit Preisrechner, Rücklagenplanung, Liquiditätsübersicht und Einnahmen-Ausgaben-Liste • Excel-Tracker für den 90-Tage-Plan, Kundenkontakte und Wochenreviews Für wen eignet sich das Produkt? Für angehende Selbstständige in Deutschland, die ihre Gründung strukturiert vorbereiten möchten – auch ohne betriebswirtschaftliches Vorwissen. Deine Konditionen als Affiliate: • Verkaufspreis: 499 € • Affiliate-Provision: 40 % • Digitales Download-Paket mit automatischer Auslieferung über Digistore24 Das Angebot passt zu Inhalten rund um Gründung, berufliche Neuorientierung und den Einstieg in die Selbstständigkeit. Es handelt sich um ein Selbstlernprodukt ohne persönliches Coaching. Individuelle Steuer-, Rechts- oder Versicherungsberatung sowie Umsatzgarantien sind nicht enthalten. Kontakt für Affiliate-Anfragen: info@almedinahajro.de
 
 ## 2. Links
 

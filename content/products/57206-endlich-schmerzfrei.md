@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Endlich schmerzfrei“</strong></p>
-<p>Der Selbsthilfeplan gegen den Dauerschmerz – Du bist deinem Schmerz nicht hilflos ausgeliefert. Dieser Selbsthilfeplan gibt dir einen Werkzeugkasten für Körper und Geist – und einen klaren 8-Wochen-Plan.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Schmerz verstehen, um ihn zu verändern</li>
-<li>Werkzeuge für den Körper: Bewegung, Wärme, Atmung</li>
-<li>Werkzeuge für den Geist: Entspannung</li>
-<li>Dein 8-Wochen-Selbsthilfeplan</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Endlich schmerzfrei“ Der Selbsthilfeplan gegen den Dauerschmerz – Du bist deinem Schmerz nicht hilflos ausgeliefert. Dieser Selbsthilfeplan gibt dir einen Werkzeugkasten für Körper und Geist – und einen klaren 8-Wochen-Plan. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Schmerz verstehen, um ihn zu verändern Werkzeuge für den Körper: Bewegung, Wärme, Atmung Werkzeuge für den Geist: Entspannung Dein 8-Wochen-Selbsthilfeplan
 
 ## 2. Links
 

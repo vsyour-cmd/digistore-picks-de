@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bindungsangst ist ein weitverbreitetes Phänomen. Immer mehr Singles fragen sich, ob hinter ihrer scheinbaren Beziehungsunfähigkeit eventuell eine tief verwurzelte Bindungsangst stecken könnte.</p>
-<p>Im Online Kurs "Bye Bye Bindungsangst" erläutert Angst-Experte Sascha Jurek wie man herausfindet, ob man an Bindungsangst leidet und wie man <strong>Bindungsängste in 9 Schritten aufarbeiten</strong> kann.</p>
-<p>Hypnosetherapeut Sascha Jurek stellt Hypnosen zur Verfügung, mit denen man beispielsweise limitierende Glaubenssätze in positive Selbstüberzeugungen verandeln kann. </p>
-<p>Denn die Transformation von Bindungsangst in ein sicheres Bindungsverhalten gelingt nur, wenn man auf einer emotionalen Ebene arbeitet und alte Bindungsverletzungen heilt. </p>
-<p>Dadurch unterscheidet sich der Kurs von anderen, in denen das Thema nur auf kognitiv-rationaler Ebene erläutert wird. Transforamtion findet allerdings nur auf emotionaler Ebene statt. </p>
+**Vendor's marketplace description:** Bindungsangst ist ein weitverbreitetes Phänomen. Immer mehr Singles fragen sich, ob hinter ihrer scheinbaren Beziehungsunfähigkeit eventuell eine tief verwurzelte Bindungsangst stecken könnte. Im Online Kurs "Bye Bye Bindungsangst" erläutert Angst-Experte Sascha Jurek wie man herausfindet, ob man an Bindungsangst leidet und wie man Bindungsängste in 9 Schritten aufarbeiten kann. Hypnosetherapeut Sascha Jurek stellt Hypnosen zur Verfügung, mit denen man beispielsweise limitierende Glaubenssätze in positive Selbstüberzeugungen verandeln kann. Denn die Transformation von Bindungsangst in ein sicheres Bindungsverhalten gelingt nur, wenn man auf einer emotionalen Ebene arbeitet und alte Bindungsverletzungen heilt. Dadurch unterscheidet sich der Kurs von anderen, in denen das Thema nur auf kognitiv-rationaler Ebene erläutert wird. Transforamtion findet allerdings nur auf emotionaler Ebene statt.
 
 ## 2. Links
 

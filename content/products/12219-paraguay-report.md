@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><span style="color:#800080;"><strong><big><big>LEBEN UND ARBEITEN IN PARAGUAY</big></big></strong></span></p>
-<div>Paraguay, der Binnenstaat in Südamerika, ist mit knapp 407.000 qkm ungefähr so groß wie Deutschland und die Schweiz zusammengenommen, hat aber nicht einmal ein Zehntel der Einwohner.</div>
-<div> </div>
-<div>Und von denen sprechen viele Deutsch, es gibt sogar ganze deutsche Ortschaften.</div>
-<div>Der Rest ist auch überaus ausländerfreundlich.</div>
-<div> </div>
-<div>Für 120 Euro bekommen Sie ein Hausmädchen, für 150 Euro ein schönes Hausund leben gut mit 400 Euro im Monat.</div>
-<div> </div>
-<div>Exotische Pracht ist überall, Atomkraftwerke nirgends. Die Freiheit ist groß, auch die Steuerfreiheit...</div>
-<div> </div>
-<div><span style="background-color:#ccffcc;"><strong>Wo Sie leben wie ein Millionär, ohne einer zu sein!</strong></span></div>
-<div> </div>
-<div>Stellen Sie sich vor, es ist Winter in Deutschland und Sie sitzen bei sommerlich milden Temperaturen auf der Terrasse Ihres Hauses, trinken einen Cocktail und arbeiten ein wenig mit Ihrem Notebook, prüfen online Ihre Konten in der Schweiz. Eine hübsche Angestellte bringt Ihnen ein wunderbares Essen und Sie genießen den Anblick und Augenblick.</div>
-<div> </div>
-<div> </div>
-<div>
-<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
-<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
-<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<span style="color:#cc99ff;"><strong><span style="color:#000000;">J</span>eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</strong></span>“.</p>
-<p>2 einfache Schritte:</p>
-<ol>
-<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html</a></span></li>
-<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
-</ol>
-<em><strong><br /></strong></em></div>
-<div> </div>
+**Vendor's marketplace description:** LEBEN UND ARBEITEN IN PARAGUAY Paraguay, der Binnenstaat in Südamerika, ist mit knapp 407.000 qkm ungefähr so groß wie Deutschland und die Schweiz zusammengenommen, hat aber nicht einmal ein Zehntel der Einwohner. Und von denen sprechen viele Deutsch, es gibt sogar ganze deutsche Ortschaften. Der Rest ist auch überaus ausländerfreundlich. Für 120 Euro bekommen Sie ein Hausmädchen, für 150 Euro ein schönes Hausund leben gut mit 400 Euro im Monat. Exotische Pracht ist überall, Atomkraftwerke nirgends. Die Freiheit ist groß, auch die Steuerfreiheit... Wo Sie leben wie ein Millionär, ohne einer zu sein! Stellen Sie sich vor, es ist Winter in Deutschland und Sie sitzen bei sommerlich milden Temperaturen auf der Terrasse Ihres Hauses, trinken einen Cocktail und arbeiten ein wenig mit Ihrem Notebook, prüfen online Ihre Konten in der Schweiz. Eine hübsche Angestellte bringt Ihnen ein wunderbares Essen und Sie genießen den Anblick und Augenblick. Möchten Sie ein Ansichtsexemplar? Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz. Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „ J eden T ag R ei*cher “. 2 einfache Schritte: JTR gratis bestellen auf https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html Email mit Ihrem Ebook-Wunsch an service@big-benn-books.com
 
 ## 2. Links
 

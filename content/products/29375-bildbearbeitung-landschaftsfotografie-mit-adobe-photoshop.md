@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für meinen Videokurs über Bildbearbeitung für Landschaftsfotografie mit Adobe Photoshop und verdiene 50 % Provision pro Verkauf!</strong></p>
-<p>Deine Vorteile:</p>
-<ul><li>50 % Provision pro Verkauf</li>
-<li>Zahlreiche zufriedene Käufer - gute Reputation für dich</li>
-<li>Niedrige Stornoquote</li>
-</ul><p>Zum Bewerben des Produktes kannst du praktisch alle Materialien nutzen, die du auf der Verkaufsseite des Produktes findest. Wenn du noch mehr Infos oder Grafiken brauchst, schreib mir einfach!</p>
+**Vendor's marketplace description:** Werde Affiliate für meinen Videokurs über Bildbearbeitung für Landschaftsfotografie mit Adobe Photoshop und verdiene 50 % Provision pro Verkauf! Deine Vorteile: 50 % Provision pro Verkauf Zahlreiche zufriedene Käufer - gute Reputation für dich Niedrige Stornoquote Zum Bewerben des Produktes kannst du praktisch alle Materialien nutzen, die du auf der Verkaufsseite des Produktes findest. Wenn du noch mehr Infos oder Grafiken brauchst, schreib mir einfach!
 
 ## 2. Links
 

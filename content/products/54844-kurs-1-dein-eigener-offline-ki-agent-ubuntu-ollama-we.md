@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>In 31 Video-Clips baust du Schritt für Schritt deinen eigenen lokalen KI-Agenten:</strong></p>
-<p>Ubuntu-Server mit NVIDIA-GPU, korrekten Treibern, Ollama und mehreren KI-Modellen.</p>
-<p>Du richtest ein FastAPI-Backend ein, dazu ein Web-Frontend mit Chat, Verlauf und Datei-Upload.</p>
-<p>PDF-, TXT- und CSV-Dateien können hochgeladen und automatisch zusammengefasst werden.</p>
-<p>Alles läuft <strong>100 % lokal auf deinem Server</strong>, ohne Cloud und ohne Datenweitergabe.</p>
+**Vendor's marketplace description:** In 31 Video-Clips baust du Schritt für Schritt deinen eigenen lokalen KI-Agenten: Ubuntu-Server mit NVIDIA-GPU, korrekten Treibern, Ollama und mehreren KI-Modellen. Du richtest ein FastAPI-Backend ein, dazu ein Web-Frontend mit Chat, Verlauf und Datei-Upload. PDF-, TXT- und CSV-Dateien können hochgeladen und automatisch zusammengefasst werden. Alles läuft 100 % lokal auf deinem Server , ohne Cloud und ohne Datenweitergabe.
 
 ## 2. Links
 

@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<p><strong>Schutz vor Energievampiren, Erschöpfung, Burnout und Co</strong></p>
-</div>
-<div>
-<p>Dieser Selbstcoaching-Kurs richtet sich besonders an Menschen in helfenden Berufen, da diese ständig Gefahr laufen, sich zu verausgaben und „energetisch“ ausgesaugt zu werden.  Aber natürlich ist er für jeden geeignet, der sich  des Öfteren gestresst, erschöpft  und ausgelaugt fühlt und seine Batterien wieder aufladen möchte.</p>
-</div>
+**Vendor's marketplace description:** Schutz vor Energievampiren, Erschöpfung, Burnout und Co Dieser Selbstcoaching-Kurs richtet sich besonders an Menschen in helfenden Berufen, da diese ständig Gefahr laufen, sich zu verausgaben und „energetisch“ ausgesaugt zu werden. Aber natürlich ist er für jeden geeignet, der sich des Öfteren gestresst, erschöpft und ausgelaugt fühlt und seine Batterien wieder aufladen möchte.
 
 ## 2. Links
 

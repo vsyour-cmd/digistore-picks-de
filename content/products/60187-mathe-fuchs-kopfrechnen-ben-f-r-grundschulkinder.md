@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Lern-App zum Kopfrechnen für Grundschulkinder: Einmaleins, Plus/Minus und Mal/Geteilt in vier Übungsmodi, mit Level-System und Belohnungs-Abzeichen. Läuft offline auf Handy, Tablet und PC, ohne Konto und ohne Werbung.</p>
-<p>Zielgruppe: Eltern und Großeltern von Grundschulkindern.</p>
-<p>Einmaliger Kaufpreis 11,90 €, kein Abo. Verkaufsseite: https://www.gz-ai-stacks.de/mathe-fuchs/</p>
+**Vendor's marketplace description:** Lern-App zum Kopfrechnen für Grundschulkinder: Einmaleins, Plus/Minus und Mal/Geteilt in vier Übungsmodi, mit Level-System und Belohnungs-Abzeichen. Läuft offline auf Handy, Tablet und PC, ohne Konto und ohne Werbung. Zielgruppe: Eltern und Großeltern von Grundschulkindern. Einmaliger Kaufpreis 11,90 €, kein Abo. Verkaufsseite: https://www.gz-ai-stacks.de/mathe-fuchs/
 
 ## 2. Links
 

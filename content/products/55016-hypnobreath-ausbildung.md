@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hi, </p>
-<p>hier kannst du meine Hypnobreath-Trainer-Ausbildung bewerben. </p>
-<p><strong>Wichtiger Hinweis zu Eigenkäufen:</strong> Es ist nicht gestattet, den eigenen Affiliate-Link zu nutzen, um die Ausbildung für sich selbst günstiger zu erwerben. Das Partnerprogramm dient ausschließlich der Vermittlung von Neukunden. Eigenkäufe (auch über Strohmänner, Zweit-Accounts oder Familienmitglieder) werden von uns systemseitig erkannt; die Provision wird in diesen Fällen automatisch storniert.</p>
-<p>Viele Grüße, </p>
-<p>Fabian Ries</p>
+**Vendor's marketplace description:** Hi, hier kannst du meine Hypnobreath-Trainer-Ausbildung bewerben. Wichtiger Hinweis zu Eigenkäufen: Es ist nicht gestattet, den eigenen Affiliate-Link zu nutzen, um die Ausbildung für sich selbst günstiger zu erwerben. Das Partnerprogramm dient ausschließlich der Vermittlung von Neukunden. Eigenkäufe (auch über Strohmänner, Zweit-Accounts oder Familienmitglieder) werden von uns systemseitig erkannt; die Provision wird in diesen Fällen automatisch storniert. Viele Grüße, Fabian Ries
 
 ## 2. Links
 

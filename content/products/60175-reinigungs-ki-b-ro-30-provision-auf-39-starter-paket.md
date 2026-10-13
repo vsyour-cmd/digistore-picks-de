@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Reinigungs-KI-Büro V1.0 Starter-Paket ist ein digitales Starter-Paket für kleine Reinigungsunternehmen, die Anfragen, Objektinformationen, Angebote, Nachfassaktionen und Aufträge übersichtlicher organisieren möchten.</p>
-<p>Verkaufspreis: 39 € einmalig</p>
-<p>Affiliate-Provision: 30 %</p>
-<p>Kein monatlicher Produktpreis.</p>
-<p>Enthalten sind unter anderem:</p>
-<p>-Reinigungs-Cockpit</p>
-<p>-Objektaufnahme</p>
-<p>-Angebotsvorbereitung</p>
-<p>-KI-Prompts</p>
-<p>-Nachichtenvorlagen</p>
-<p>-Musterauftrag</p>
-<p>-10-Minuten-Start</p>
-<p>-Onboarding-Video</p>
-<p>-KI- und Nutzungshinweise</p>
-<p>Zielgruppe: kleine, inhabergeführte Reinigungsunternehmen, die ihre Büroorganisation bisher mit einzelnen Datein, Nachichten, Notizen oder einfachen Abläufen erledigen.</p>
-<p>Geeignet für Affiliates mit Zielgruppen rund um Gebäudereinigung, Selbstständigkeit, Digitalisierung, KI, Büroorganisation und Zeitersparnis.</p>
+**Vendor's marketplace description:** Das Reinigungs-KI-Büro V1.0 Starter-Paket ist ein digitales Starter-Paket für kleine Reinigungsunternehmen, die Anfragen, Objektinformationen, Angebote, Nachfassaktionen und Aufträge übersichtlicher organisieren möchten. Verkaufspreis: 39 € einmalig Affiliate-Provision: 30 % Kein monatlicher Produktpreis. Enthalten sind unter anderem: -Reinigungs-Cockpit -Objektaufnahme -Angebotsvorbereitung -KI-Prompts -Nachichtenvorlagen -Musterauftrag -10-Minuten-Start -Onboarding-Video -KI- und Nutzungshinweise Zielgruppe: kleine, inhabergeführte Reinigungsunternehmen, die ihre Büroorganisation bisher mit einzelnen Datein, Nachichten, Notizen oder einfachen Abläufen erledigen. Geeignet für Affiliates mit Zielgruppen rund um Gebäudereinigung, Selbstständigkeit, Digitalisierung, KI, Büroorganisation und Zeitersparnis.
 
 ## 2. Links
 

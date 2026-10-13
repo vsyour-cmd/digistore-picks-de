@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Dates, die im Gedächtnis bleiben“</strong></p>
-<p>Erlebnisse statt Standardprogramm – Warum bleiben manche Dates ein Leben lang in Erinnerung? Dieser Ratgeber zeigt dir, wie du Treffen schaffst, die wirklich berühren.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Warum manche Dates unvergesslich sind</li>
-<li>Das Erlebnis vor dem Ort</li>
-<li>Gemeinsame Emotionen erzeugen</li>
-<li>Personalisierung: auf die Person eingehen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Dates, die im Gedächtnis bleiben“ Erlebnisse statt Standardprogramm – Warum bleiben manche Dates ein Leben lang in Erinnerung? Dieser Ratgeber zeigt dir, wie du Treffen schaffst, die wirklich berühren. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Warum manche Dates unvergesslich sind Das Erlebnis vor dem Ort Gemeinsame Emotionen erzeugen Personalisierung: auf die Person eingehen
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses eBook bietet 77 Rezeptideen für die gesunde Schlemmerei und somit Inspiration für all jene, die sich bewusst und gesund ernähren wollen, dennoch aber nicht auf Genuss verzichten wollen.</p>
-<p>Im eBook finden sich viele, sehr abwechslungsreiche Rezeptideen: </p>
-<p>Von Süß bis zu Pikant. Von Frühstück, über Snacks, Suppen, Hauptspeisen bis Desserts. Bunt, voller Geschmack und ganz aus natürlichen Zutaten.</p>
-<p>Bratapfel-Hirse-Porridge, mediteraner Gemüseauflauf, Nussbraten, Himbeer-Dip, Hummus, Karfiol Wings oder warmer Rotkrauf-Süßkatoffel-Salat werden Deinen Gaumen entzücken und dabei deine Gesundheit nicht belasten.</p>
-<p>Schlemm auch du gesund - es ist ganz einfach und soooo lecker!</p>
+**Vendor's marketplace description:** Dieses eBook bietet 77 Rezeptideen für die gesunde Schlemmerei und somit Inspiration für all jene, die sich bewusst und gesund ernähren wollen, dennoch aber nicht auf Genuss verzichten wollen. Im eBook finden sich viele, sehr abwechslungsreiche Rezeptideen: Von Süß bis zu Pikant. Von Frühstück, über Snacks, Suppen, Hauptspeisen bis Desserts. Bunt, voller Geschmack und ganz aus natürlichen Zutaten. Bratapfel-Hirse-Porridge, mediteraner Gemüseauflauf, Nussbraten, Himbeer-Dip, Hummus, Karfiol Wings oder warmer Rotkrauf-Süßkatoffel-Salat werden Deinen Gaumen entzücken und dabei deine Gesundheit nicht belasten. Schlemm auch du gesund - es ist ganz einfach und soooo lecker!
 
 ## 2. Links
 

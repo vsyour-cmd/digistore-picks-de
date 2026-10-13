@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verkaufe den Videokurs "Shiatsu in der Sitzposition" (mit Klaus Metzner) und erhalte 50% Provision!</strong></p>
-<p>Shiatsu ist eine japanische Massagetechnik, die Wohlbefinden, Lebensfreude und Leistungsvermögen fördert. Shiatsu hilft, zu entschleunigen und im Jetzt zu sein.</p>
-<p><strong>Deine Vorteile:</strong></p>
-<ul><li>Geräteübergreifende Affiliate-Attribution durch Deinen personalisierten Link</li>
-<li>50% Provision</li>
-</ul><p><strong>Das Produkt:</strong></p>
-<ul><li>45-minütiges Lehrvideo mit Shiatsu-Massagetechniken in der Sitzposition</li>
-<li>das Video steht unmittelbar nach dem Kauf als mp4-Datei zur Verfügung (knapp 1,8 GB)</li>
-<li>zum Shiatsu Lernen, Mitmachen, Üben</li>
-<li>Kurslehrer ist Klaus Metzner, der seit über 30 Jahren das Europäische Shiatsu Institut in München leitet.</li>
-</ul><p>Gerne beantwortet Dir Klaus Metzner alle Fragen rund um das Video und Shiatsu, so wie Du es für Deinen Content brauchst.</p>
-<p>E-Mail: <a href="mailto:klaus.metzner@shiatsu.de">klaus.metzner@shiatsu.de</a></p>
-<p>Telefon: 0163 / 914 78 75</p>
-<p>Auf dem YouTube Channel <em>ESI München ShiatsuArt</em> findest Du viele Videos rund um Shiatsu und das ESI München.</p>
-<p>Infos zum ESI München findest Du auf www.shiatsu.de/muenchen</p>
-<p> </p>
+**Vendor's marketplace description:** Verkaufe den Videokurs "Shiatsu in der Sitzposition" (mit Klaus Metzner) und erhalte 50% Provision! Shiatsu ist eine japanische Massagetechnik, die Wohlbefinden, Lebensfreude und Leistungsvermögen fördert. Shiatsu hilft, zu entschleunigen und im Jetzt zu sein. Deine Vorteile: Geräteübergreifende Affiliate-Attribution durch Deinen personalisierten Link 50% Provision Das Produkt: 45-minütiges Lehrvideo mit Shiatsu-Massagetechniken in der Sitzposition das Video steht unmittelbar nach dem Kauf als mp4-Datei zur Verfügung (knapp 1,8 GB) zum Shiatsu Lernen, Mitmachen, Üben Kurslehrer ist Klaus Metzner, der seit über 30 Jahren das Europäische Shiatsu Institut in München leitet. Gerne beantwortet Dir Klaus Metzner alle Fragen rund um das Video und Shiatsu, so wie Du es für Deinen Content brauchst. E-Mail: klaus.metzner@shiatsu.de Telefon: 0163 / 914 78 75 Auf dem YouTube Channel ESI München ShiatsuArt findest Du viele Videos rund um Shiatsu und das ESI München. Infos zum ESI München findest Du auf www.shiatsu.de/muenchen
 
 ## 2. Links
 

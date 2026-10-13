@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der LNA Hauskurs bringt die LNA-Methode – eine Kombination aus manueller Gesichtsbehandlung, Lymphstimulation und anatomischem Wissen – direkt zu den Kundinnen nach Hause. In 5 aufeinander aufbauenden Modulen lernen Teilnehmerinnen Schritt für Schritt, wie sie ihr Gesicht straffen, entspannen und pflegen können, ganz ohne Vorkenntnisse.<br /><br /></p>
-<p>Zielgruppe: Frauen, die sich für natürliche Anti-Aging-Methoden interessieren, Gesichtsyoga/Face-Fitness mögen oder Alternativen zu teuren Kabinenbehandlungen suchen.</p>
-<p>Warum sich die Bewerbung lohnt: Hochwertiges, eigenständig entwickeltes Kursformat mit starker Nachfrage in der Beauty-Nische, attraktive Provision pro Verkauf, professionelle Verkaufsseite mit hoher Conversion.</p>
+**Vendor's marketplace description:** Der LNA Hauskurs bringt die LNA-Methode – eine Kombination aus manueller Gesichtsbehandlung, Lymphstimulation und anatomischem Wissen – direkt zu den Kundinnen nach Hause. In 5 aufeinander aufbauenden Modulen lernen Teilnehmerinnen Schritt für Schritt, wie sie ihr Gesicht straffen, entspannen und pflegen können, ganz ohne Vorkenntnisse. Zielgruppe: Frauen, die sich für natürliche Anti-Aging-Methoden interessieren, Gesichtsyoga/Face-Fitness mögen oder Alternativen zu teuren Kabinenbehandlungen suchen. Warum sich die Bewerbung lohnt: Hochwertiges, eigenständig entwickeltes Kursformat mit starker Nachfrage in der Beauty-Nische, attraktive Provision pro Verkauf, professionelle Verkaufsseite mit hoher Conversion.
 
 ## 2. Links
 

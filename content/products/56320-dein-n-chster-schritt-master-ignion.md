@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>DEIN NÄCHSTER SCHRITT — von MASTER IGNION</strong></p>
-<p><strong>50% Provision · 18,50 € pro Verkauf · Verkaufspreis 37,00€</strong></p>
-<hr />
-<p>Kein Kurs. Kein Coaching. Ein E-Book — mit einer Botschaft, die sitzt.</p>
-<p>„DEIN NÄCHSTER SCHRITT" richtet sich an Menschen zwischen 20 und 35, die wissen was sie wollen, aber noch nicht angefangen haben. Das „Ich warte noch"-Gefühl. Die meisten kennen es. Kaum jemand spricht es so direkt an wie dieses Buch.</p>
-<p>Kein Hype. Keine leeren Versprechen. Ruhig, direkt, cinematisch. Eine Tonalität, die in der Selbstentwicklungs-Nische selten ist und genau deshalb auffällt.</p>
-<p><strong>Was du als Affiliate bekommst:</strong></p>
-<ul>
-<li>50% Provision — 18,50 € pro Verkauf, automatisch über Digistore24</li>
-<li>Fertiges Werbemittel-Paket: Instagram-Captions, Facebook-Posts, Reels-Skripte, Story-Konzepte und WhatsApp-Texte</li>
-<li>Gebrandete Grafik-Vorlagen in 3 Formaten (Feed, Story, Square)</li>
-<li>Zielgruppe mit hohem Identifikationspotenzial — niedrige Überzeugungsarbeit</li>
-</ul>
-<p><strong>Für wen ist dieses Produkt?</strong></p>
-<p>Für deine Community, wenn du über Mindset, Persönlichkeitsentwicklung, Selbstverantwortung oder das Thema „Endlich anfangen" sprichst. Das Buch ist keine harte Sell — es ist eine ehrliche Empfehlung, die deine Glaubwürdigkeit stärkt, nicht schwächt.</p>
+**Vendor's marketplace description:** DEIN NÄCHSTER SCHRITT — von MASTER IGNION 50% Provision · 18,50 € pro Verkauf · Verkaufspreis 37,00€ Kein Kurs. Kein Coaching. Ein E-Book — mit einer Botschaft, die sitzt. „DEIN NÄCHSTER SCHRITT" richtet sich an Menschen zwischen 20 und 35, die wissen was sie wollen, aber noch nicht angefangen haben. Das „Ich warte noch"-Gefühl. Die meisten kennen es. Kaum jemand spricht es so direkt an wie dieses Buch. Kein Hype. Keine leeren Versprechen. Ruhig, direkt, cinematisch. Eine Tonalität, die in der Selbstentwicklungs-Nische selten ist und genau deshalb auffällt. Was du als Affiliate bekommst: 50% Provision — 18,50 € pro Verkauf, automatisch über Digistore24 Fertiges Werbemittel-Paket: Instagram-Captions, Facebook-Posts, Reels-Skripte, Story-Konzepte und WhatsApp-Texte Gebrandete Grafik-Vorlagen in 3 Formaten (Feed, Story, Square) Zielgruppe mit hohem Identifikationspotenzial — niedrige Überzeugungsarbeit Für wen ist dieses Produkt? Für deine Community, wenn du über Mindset, Persönlichkeitsentwicklung, Selbstverantwortung oder das Thema „Endlich anfangen" sprichst. Das Buch ist keine harte Sell — es ist eine ehrliche Empfehlung, die deine Glaubwürdigkeit stärkt, nicht schwächt.
 
 ## 2. Links
 

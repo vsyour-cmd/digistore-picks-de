@@ -41,56 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div> </div>
-<div>
-<div>
-<h2><strong>Der komplette Marketing-Kurs, um von 0 an die 10.000€ Marke zu knacken.<br /></strong></h2>
-<h2><strong>Du wirst mit 50% lebenslang und an allen Folgeprodukten beteiligt.<br /></strong></h2>
-<strong>10 Gründe, warum du den einmaligen 10K-Breaker promoten solltest:</strong> <br />
-<ul>
-<li><strong>Mit 50% dauerhafte Beteiligung die höchste Provision im Profi-Internet-Marketing-Bereich</strong></li>
-<li><strong>Du bekommst automatische Anleitungen zum optimalen Bewerben meiner Produkte</strong></li>
-<li>
-<p><strong>Hohe Verkaufsraten in der Geld im Internet verdienen Nische, da es Mehr für weniger Geld gibt<br /></strong></p>
-</li>
-<li>
-<p><strong>Vollautomatische Auszahlung deiner Provision durch Digistore24</strong></p>
-</li>
-<li><strong>keine überteuerten Produkte und dadurch ~0% Stornoquote</strong></li>
-<li>
-<p><strong>Produkte, die Menschen wirklich helfen und es nicht nur vorgaukeln<br /></strong></p>
-</li>
-<li>
-<p><strong>Lars-Support (Ich helfe Dir, wenn du etwas nicht verstehst)<br /></strong></p>
-</li>
-<li>
-<p><strong>Ausführliche und ständige Conversion Optimierung</strong></p>
-</li>
-<li>
-<p><strong>Regelmäßige Affiliate Wettbewerbe <br />(Preis und Geschenke)</strong></p>
-</li>
-</ul>
-<p><strong>Wichtig: Klicke jetzt unten rechts auf „Affiliate Support-Seite“ und erfahre konkret, wie du loslegen kannst, damit Du noch heute deine ersten Provisionen erhalten kannst!</strong></p>
-</div>
-</div>
-<div><strong>Inhalt + Präsentation des 10K Breakers<br /></strong></div>
-<div><strong>-----------------------------------------------&gt;&gt;&gt;</strong></div>
-<div>
-<h3>The 10K Breaker ***20-Slot-Webinar-Special***</h3>
-<div>
-<p>Sie erwerben hiermit den einzigartigen <strong>The 10K Breaker. </strong>Durch dieses Programm sind Sie in der Lage, innerhalb eines Jahres die 10.000€ Marke zu knacken und werden vom Win-Win-Marketer persönlich betreut.</p>
-<p><strong>The 10K Breaker beinhaltet:</strong></p>
-<ol>
-<li>Videokurs: Nischen-Webseite <strong>(250€) + </strong>Videokurs: Digitales-Produkt<strong> (350€)</strong></li>
-<li>Videokurs Facebook-Ads<strong> (150€) + </strong>Videokurs: Unendlichkeits-Traffic<strong> (97€)</strong></li>
-<li>Automatische Webseiten-Erstellung <strong>(99€) + </strong>Nischenfindung <strong>(99€/Jahr)</strong></li>
-<li>Performantes Hosting <strong>(27€/Monat) + VIP-Support-Unterstützung</strong></li>
-<li>50% Provision Partnerprogramm + 14 Tage Geld-Zurück-Garantie + 24/7 <a>Lars-Support</a> <em>(auch für Fragen vorher)</em></li>
-<li><strong>Bonus</strong>: 2400 Nischen-Ideen + <strong>Bonus</strong>: vorgefertigtes Impressum + <strong>Bonus</strong>: Manuelle Webseiten-Analyse</li>
-</ol>
-<p>Produktwert<strong>: 1673€ <br /></strong>Standard-Abbo<strong>: 97€ (</strong>Sie sparen heute:<strong> 60€)</strong></p>
-</div>
-</div>
+**Vendor's marketplace description:** Der komplette Marketing-Kurs, um von 0 an die 10.000€ Marke zu knacken. Du wirst mit 50% lebenslang und an allen Folgeprodukten beteiligt. 10 Gründe, warum du den einmaligen 10K-Breaker promoten solltest: Mit 50% dauerhafte Beteiligung die höchste Provision im Profi-Internet-Marketing-Bereich Du bekommst automatische Anleitungen zum optimalen Bewerben meiner Produkte Hohe Verkaufsraten in der Geld im Internet verdienen Nische, da es Mehr für weniger Geld gibt Vollautomatische Auszahlung deiner Provision durch Digistore24 keine überteuerten Produkte und dadurch ~0% Stornoquote Produkte, die Menschen wirklich helfen und es nicht nur vorgaukeln Lars-Support (Ich helfe Dir, wenn du etwas nicht verstehst) Ausführliche und ständige Conversion Optimierung Regelmäßige Affiliate Wettbewerbe (Preis und Geschenke) Wichtig: Klicke jetzt unten rechts auf „Affiliate Support-Seite“ und erfahre konkret, wie du loslegen kannst, damit Du noch heute deine ersten Provisionen erhalten kannst! Inhalt + Präsentation des 10K Breakers ----------------------------------------------->>> The 10K Breaker ***20-Slot-Webinar-Special*** Sie erwerben hiermit den einzigartigen The 10K Breaker. Durch dieses Programm sind Sie in der Lage, innerhalb eines Jahres die 10.000€ Marke zu knacken und werden vom Win-Win-Marketer persönlich betreut. The 10K Breaker beinhaltet: Videokurs: Nischen-Webseite (250€) + Videokurs: Digitales-Produkt (350€) Videokurs Facebook-Ads (150€) + Videokurs: Unendlichkeits-Traffic (97€) Automatische Webseiten-Erstellung (99€) + Nischenfindung (99€/Jahr) Performantes Hosting (27€/Monat) + VIP-Support-Unterstützung 50% Provision Partnerprogramm + 14 Tage Geld-Zurück-Garantie + 24/7 Lars-Support (auch für Fragen vorher) Bonus : 2400 Nischen-Ideen + Bonus : vorgefertigtes Impressum + Bonus : Manuelle Webseiten-Analyse Produktwert : 1673€ Standard-Abbo : 97€ ( Sie sparen heute: 60€)
 
 ## 2. Links
 

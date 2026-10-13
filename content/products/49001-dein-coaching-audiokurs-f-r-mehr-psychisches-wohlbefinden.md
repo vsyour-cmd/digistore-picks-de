@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hey - ich bin Rike, Psychologin (M.Sc.) und Coach und ich habe einen<strong> richtig coolen Audiokurs</strong> für mehr psychisches Wohlbefinden entwickelt! </p>
-<p> </p>
-<p>Er enthält 17 Audio-Übungen (8-12 Minuten), ein digitales Workbook und richtig viel Psychologie- und Coachingwissen!</p>
-<p> </p>
-<p>Das vermittelt der Kurs: Achtsamkeit, Selbstmitgefühl, Werte, Umgang mit Gefühlen &amp; Gedanken </p>
-<p> </p>
-<p>Ich würde mich mega freuen, wenn du meinen Kurs bewirbst! Ganz liebe Grüße, deine Rike </p>
-<p> </p>
-<p><strong>PS: Hier noch ein paar Kundenstimmen zum Kurs:</strong> </p>
-<p><strong>       </strong></p>
-<p>„Wow!!! Richtig tolle Übung! Ich hatte einen richtigen aha-Moment. Man muss die Übungen öfter hören, bis sich das festigt.“ </p>
-<p> </p>
-<p>"Schon die Einführung steckt voller weiser Worte und ich habe auch sie mehrfach wiederholt, obwohl es ja im Kern um die Erklärung von ACT und den Inhalt des Kurses geht. Mir hat es geholfen, sich immer wieder bewusst zu machen, dass wir immer mindestens zwei Alternativen haben, mit Herausforderungen oder unschönen Erlebnissen umzugehen. Der Fokus auf das, was wir beeinflussen können, ist sehr "empowernd""</p>
-<p> </p>
-<p>„Die Achtsamkeitsübung und "Hände als Gedanken" habe ich häufig gemacht; vor allem die Achtsamkeitsübung hilft mir enorm, abends nach einem anstrengenden oder stressigen Tag abzuschalten.“</p>
+**Vendor's marketplace description:** Hey - ich bin Rike, Psychologin (M.Sc.) und Coach und ich habe einen richtig coolen Audiokurs für mehr psychisches Wohlbefinden entwickelt! Er enthält 17 Audio-Übungen (8-12 Minuten), ein digitales Workbook und richtig viel Psychologie- und Coachingwissen! Das vermittelt der Kurs: Achtsamkeit, Selbstmitgefühl, Werte, Umgang mit Gefühlen & Gedanken Ich würde mich mega freuen, wenn du meinen Kurs bewirbst! Ganz liebe Grüße, deine Rike PS: Hier noch ein paar Kundenstimmen zum Kurs: „Wow!!! Richtig tolle Übung! Ich hatte einen richtigen aha-Moment. Man muss die Übungen öfter hören, bis sich das festigt.“ "Schon die Einführung steckt voller weiser Worte und ich habe auch sie mehrfach wiederholt, obwohl es ja im Kern um die Erklärung von ACT und den Inhalt des Kurses geht. Mir hat es geholfen, sich immer wieder bewusst zu machen, dass wir immer mindestens zwei Alternativen haben, mit Herausforderungen oder unschönen Erlebnissen umzugehen. Der Fokus auf das, was wir beeinflussen können, ist sehr "empowernd"" „Die Achtsamkeitsübung und "Hände als Gedanken" habe ich häufig gemacht; vor allem die Achtsamkeitsübung hilft mir enorm, abends nach einem anstrengenden oder stressigen Tag abzuschalten.“
 
 ## 2. Links
 

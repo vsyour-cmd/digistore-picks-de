@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>"Flow trifft Genie" - der Allrounder unter den Neurostreams.</p>
-<p><strong>Sofort-Download.</strong></p>
-<p>Konzentrationsfähigkeit nachhaltig verbessern, Stimmung aufhellen, Angst loswerden und Stress vermeiden, mentale Kontrolle verbessern.</p>
-<p>Jede dieser 10 abwechslungsreichen Sessions dauert 30 Minuten. Sie können mit offenen Augen (und nebenbei) angehört werden.</p>
-<p>Stereo-Kopfhörer empfohlen, aber nicht unbedingt nötig.</p>
-<p>Alle Neurostreams™ sind jederzeit auf<strong> unbegrenzt viele </strong>Geräte übertragbar und können <strong>beliebig oft </strong>angehört werden!</p>
-<p>Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux.</p>
-<p>Dateigröße: ca. 300 MB</p>
-<p><strong>2 Jahre </strong>Produktsupport inklusive.</p>
+**Vendor's marketplace description:** "Flow trifft Genie" - der Allrounder unter den Neurostreams. Sofort-Download. Konzentrationsfähigkeit nachhaltig verbessern, Stimmung aufhellen, Angst loswerden und Stress vermeiden, mentale Kontrolle verbessern. Jede dieser 10 abwechslungsreichen Sessions dauert 30 Minuten. Sie können mit offenen Augen (und nebenbei) angehört werden. Stereo-Kopfhörer empfohlen, aber nicht unbedingt nötig. Alle Neurostreams™ sind jederzeit auf unbegrenzt viele Geräte übertragbar und können beliebig oft angehört werden! Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux. Dateigröße: ca. 300 MB 2 Jahre Produktsupport inklusive.
 
 ## 2. Links
 

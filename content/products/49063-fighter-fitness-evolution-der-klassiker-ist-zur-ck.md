@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Fighter-Fitness, das Original seit 2004. Ein bewährtes Produkt mit gutem Preis-Leistungs-Verhältnis und einer Provision von 25 %.</p>
-<p> </p>
-<p>Das Programm enthält Video, Audio und PDF Dateien und ist extrem umfangreich und hat eine Laufzeit von 6,5 Stunden.</p>
-<p>Ein Top-Produkt um Bereich Fitness / Bodyweight Training / Muskelaufbau und HIT.<br /><br /></p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Fighter-Fitness, das Original seit 2004. Ein bewährtes Produkt mit gutem Preis-Leistungs-Verhältnis und einer Provision von 25 %. Das Programm enthält Video, Audio und PDF Dateien und ist extrem umfangreich und hat eine Laufzeit von 6,5 Stunden. Ein Top-Produkt um Bereich Fitness / Bodyweight Training / Muskelaufbau und HIT.
 
 ## 2. Links
 

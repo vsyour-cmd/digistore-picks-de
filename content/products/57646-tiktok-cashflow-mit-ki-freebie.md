@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewerbe jetzt dieses Freebie, profitiere von einer enormen Nachfrage und verdiene 50% Provision auf den ganzen Funnel.</p>
-<p>Der praktische kostenlose Schritt-für-Schritt-Leitfaden, der dir zeigt, wie du mit <strong>TikTok, KI-Tools und Affiliate-Marketing</strong> einen profitablen Faceless-Account aufbaust – auch als Anfänger.</p>
-<p><strong>Das erwartet dich:</strong></p>
-<p>✅ TikTok-Strategie für 2026 einfach erklärt<br />✅ Die profitabelsten Nischen &amp; Content-Ideen<br />✅ KI-Workflow mit ChatGPT, CapCut &amp; Co.<br />✅ Virale Hooks, Skripte &amp; Copy-&amp;-Paste-Prompts<br />✅ 4 bewährte Monetarisierungswege<br />✅ 90-Tage-Aktionsplan zum Nachmachen<br />✅ Bonus: Top 10 ChatGPT-Prompts + Launch-Checkliste</p>
+**Vendor's marketplace description:** Bewerbe jetzt dieses Freebie, profitiere von einer enormen Nachfrage und verdiene 50% Provision auf den ganzen Funnel. Der praktische kostenlose Schritt-für-Schritt-Leitfaden, der dir zeigt, wie du mit TikTok, KI-Tools und Affiliate-Marketing einen profitablen Faceless-Account aufbaust – auch als Anfänger. Das erwartet dich: ✅ TikTok-Strategie für 2026 einfach erklärt ✅ Die profitabelsten Nischen & Content-Ideen ✅ KI-Workflow mit ChatGPT, CapCut & Co. ✅ Virale Hooks, Skripte & Copy-&-Paste-Prompts ✅ 4 bewährte Monetarisierungswege ✅ 90-Tage-Aktionsplan zum Nachmachen ✅ Bonus: Top 10 ChatGPT-Prompts + Launch-Checkliste
 
 ## 2. Links
 

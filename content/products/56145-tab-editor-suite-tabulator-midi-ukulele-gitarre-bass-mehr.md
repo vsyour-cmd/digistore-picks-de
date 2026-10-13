@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Tab Editor Suite — Universal Tab Editor + MIDI-to-TAB Konverte</strong>r</p>
-<p>Erstelle professionelle Gitarren- und Ukulele-TABs direkt im Browser.<br />Kein Download, kein Install — sofort loslegen auf Mac &amp; Windows.</p>
-<p>✔ Ukulele · Gitarre · Bass · Banjo · eigene Instrumente<br />✔ MIDI-Dateien automatisch in TABs umwandeln<br />✔ Notenblatt-Ansicht · PNG Export · JSON Speichern<br />✔ Einmalige Zahlung — lebenslange Nutzung</p>
-<p><strong>30 Tage Geld-zurück-Garantie.</strong></p>
+**Vendor's marketplace description:** Tab Editor Suite — Universal Tab Editor + MIDI-to-TAB Konverte r Erstelle professionelle Gitarren- und Ukulele-TABs direkt im Browser. Kein Download, kein Install — sofort loslegen auf Mac & Windows. ✔ Ukulele · Gitarre · Bass · Banjo · eigene Instrumente ✔ MIDI-Dateien automatisch in TABs umwandeln ✔ Notenblatt-Ansicht · PNG Export · JSON Speichern ✔ Einmalige Zahlung — lebenslange Nutzung 30 Tage Geld-zurück-Garantie.
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du mit viel Spaß vor jeder Kamera stehst und fotogen auf Fotos bist.</strong></p>
-<p> </p>
-<p>Bei jeder Fotosession geht es am Ende nicht nur um schöne Fotos, sondern auch wie du dich dabei gefühlt hast.<br />Denn wenn du später auf die Fotos schaust, wirst du dich auch an das Gefühl, in dem Moment des Auslösens erinnern!<br /> </p>
-<p>Dieser Onlinekurs enthält nicht nur ein paar statische Posentipps, da könntest du ja ein Magazin aufschlagen und die Models kopieren.</p>
-<p><strong>NATÜRLICH FOTOGEN! ist ein einmaliges Schritt für Schritt Programm mit 30 spannenden Videos.</strong></p>
+**Vendor's marketplace description:** Wie du mit viel Spaß vor jeder Kamera stehst und fotogen auf Fotos bist. Bei jeder Fotosession geht es am Ende nicht nur um schöne Fotos, sondern auch wie du dich dabei gefühlt hast. Denn wenn du später auf die Fotos schaust, wirst du dich auch an das Gefühl, in dem Moment des Auslösens erinnern! Dieser Onlinekurs enthält nicht nur ein paar statische Posentipps, da könntest du ja ein Magazin aufschlagen und die Models kopieren. NATÜRLICH FOTOGEN! ist ein einmaliges Schritt für Schritt Programm mit 30 spannenden Videos.
 
 ## 2. Links
 

@@ -41,64 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der 5-Stunden-Nebenjob – Dein Weg zum zweiten Einkommen trotz Vollzeitjob</strong></p>
-<p>Baue dir mit nur <strong>5 Stunden pro Woche</strong> ein zweites Einkommen auf – mit einer realistischen Methode, die zu deinem Alltag passt.</p>
-<p>Kein „schneller Reichtum“, kein Hype – sondern ein klarer Fahrplan für Berufstätige, Eltern und alle, die nebenbei ein finanzielles Standbein aufbauen möchten.</p>
-<p><strong>Das erwartet dich im E-Book:</strong></p>
-<ul>
-<li>
-<p>Die richtige Denkweise: Warum viele Nebenjobs scheitern</p>
-</li>
-<li>
-<p>Die 4 Nebenjob-Typen &amp; die passende Methode für dich</p>
-</li>
-<li>
-<p>Dein 90-Tage-Startplan zur Umsetzung</p>
-</li>
-<li>
-<p>Erste Einnahmen aufbauen und langfristig wachsen</p>
-</li>
-</ul>
-<p><strong>Inklusive 5 Bonus-Arbeitsblätter:</strong></p>
-<ul>
-<li>
-<p>Methoden-Matrix</p>
-</li>
-<li>
-<p>90-Tage-Fahrplan-Tracker</p>
-</li>
-<li>
-<p>Rote-Flaggen-Checkliste</p>
-</li>
-<li>
-<p>Zeitblock-Planer</p>
-</li>
-<li>
-<p>Vorlagen-Sammlung</p>
-</li>
-</ul>
-<p><strong>Ideal für dich, wenn du:</strong></p>
-<ul>
-<li>
-<p>neben dem Vollzeitjob ein zweites Standbein aufbauen willst</p>
-</li>
-<li>
-<p>keine Zeit für unrealistische Versprechen hast</p>
-</li>
-<li>
-<p>ohne Startkapital starten möchtest</p>
-</li>
-</ul>
-<p><strong>Du erhältst sofort:</strong></p>
-<ul>
-<li>
-<p>Das komplette E-Book als PDF</p>
-</li>
-<li>
-<p>Alle 5 Bonus-Arbeitsblätter zum Download</p>
-</li>
-</ul>
-<p>Starte heute mit deinen ersten 5 Stunden pro Woche und baue Schritt für Schritt dein zweites Einkommen auf.</p>
+**Vendor's marketplace description:** Der 5-Stunden-Nebenjob – Dein Weg zum zweiten Einkommen trotz Vollzeitjob Baue dir mit nur 5 Stunden pro Woche ein zweites Einkommen auf – mit einer realistischen Methode, die zu deinem Alltag passt. Kein „schneller Reichtum“, kein Hype – sondern ein klarer Fahrplan für Berufstätige, Eltern und alle, die nebenbei ein finanzielles Standbein aufbauen möchten. Das erwartet dich im E-Book: Die richtige Denkweise: Warum viele Nebenjobs scheitern Die 4 Nebenjob-Typen & die passende Methode für dich Dein 90-Tage-Startplan zur Umsetzung Erste Einnahmen aufbauen und langfristig wachsen Inklusive 5 Bonus-Arbeitsblätter: Methoden-Matrix 90-Tage-Fahrplan-Tracker Rote-Flaggen-Checkliste Zeitblock-Planer Vorlagen-Sammlung Ideal für dich, wenn du: neben dem Vollzeitjob ein zweites Standbein aufbauen willst keine Zeit für unrealistische Versprechen hast ohne Startkapital starten möchtest Du erhältst sofort: Das komplette E-Book als PDF Alle 5 Bonus-Arbeitsblätter zum Download Starte heute mit deinen ersten 5 Stunden pro Woche und baue Schritt für Schritt dein zweites Einkommen auf.
 
 ## 2. Links
 

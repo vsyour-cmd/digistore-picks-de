@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p> </p>
-<h2>Noch MEHR mentale Nahrung! - <span style="background-color:#ffff00;">50% Provision</span></h2>
-<h2>11 Mindvideos, die dein Bewusstsein auf ein deutlich höheres Level bringen werden!<br /><br /></h2>
-<ul>
-<li>Glück und Lebensfreude</li>
-<li>Gesundheit und Vitalität</li>
-<li>Entspannung und innerer Frieden</li>
-<li>JA zu mehr Selbstvertrauen</li>
-<li>Freundschaft und positives Umfeld</li>
-<li>Liebe und Partnerschaft</li>
-<li>Lifestyle und Idealgewicht</li>
-<li>Erfolg im Beruf</li>
-<li>Geld und Wohlstand</li>
-<li>Tief und fest schlafen</li>
-<li>Besser lernen</li>
-</ul>
-<p> </p>
-<h4><strong>Bonus 1  -  </strong>11 MP3 Audio Dateien mit kraftvollen Suggestionen<br />⇒ Dein mentales Training für unterwegs.</h4>
-<p> </p>
-<h4><strong>Bonus 2 - </strong><strong>Erstes Ebook als Geschenk<br /></strong><strong>Verzieht Euch! </strong><br /><strong>7 effektive Methoden,</strong><br /><strong>um mit negativen Gedanken fertig zu werden!</strong></h4>
-<p>Die darin beschriebenen Mentalübungen sind äußerst wirkungsvoll und werden dir helfen, deine negativen Gedanken auf ein Minimum zu reduzieren. Eine ideale Ergänzung zu den Mindvideos.<br /><br /></p>
-<h4><strong>Bonus 3 - </strong><strong>Zweites Ebook als Geschenk!<br /></strong><strong>Metaphern, die zum Nachdenken anregen</strong></h4>
-<p>Freue dich auf 9 motivierende Geschichten, die auch dich zum Nachdenken anregen und dein Leben bereichern werden! <br />Der Körper braucht Nahrung, der Geist Inspiration!</p>
-<p> </p>
+**Vendor's marketplace description:** Noch MEHR mentale Nahrung! - 50% Provision 11 Mindvideos, die dein Bewusstsein auf ein deutlich höheres Level bringen werden! Glück und Lebensfreude Gesundheit und Vitalität Entspannung und innerer Frieden JA zu mehr Selbstvertrauen Freundschaft und positives Umfeld Liebe und Partnerschaft Lifestyle und Idealgewicht Erfolg im Beruf Geld und Wohlstand Tief und fest schlafen Besser lernen Bonus 1 - 11 MP3 Audio Dateien mit kraftvollen Suggestionen ⇒ Dein mentales Training für unterwegs. Bonus 2 - Erstes Ebook als Geschenk Verzieht Euch! 7 effektive Methoden, um mit negativen Gedanken fertig zu werden! Die darin beschriebenen Mentalübungen sind äußerst wirkungsvoll und werden dir helfen, deine negativen Gedanken auf ein Minimum zu reduzieren. Eine ideale Ergänzung zu den Mindvideos. Bonus 3 - Zweites Ebook als Geschenk! Metaphern, die zum Nachdenken anregen Freue dich auf 9 motivierende Geschichten, die auch dich zum Nachdenken anregen und dein Leben bereichern werden! Der Körper braucht Nahrung, der Geist Inspiration!
 
 ## 2. Links
 

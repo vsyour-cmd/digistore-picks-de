@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>XXLpromo.com ist spezialisiert auf Social Seeding und den Aufbau von <strong>vielen Followern</strong> und <strong>hohen Reichweiten</strong>. Zahlreiche Influencer, Unternehmer und Personen des öffentlichen Lebens gehören zu unseren Kunden.</p>
-<p><strong>✓ </strong>Ausschließlich echte Follower aus Deutschland</p>
-<p><strong>✓ </strong>Tägliches Intervall an Follower frei wählbar (siehe unten)</p>
-<p><strong>✓ </strong>Schnelle Auslieferung</p>
-<p><strong>✓ </strong>Seriöser Partner - Erfahrung in Social-Media Marketing &amp; Social Seeding seit 2012</p>
-<p><strong>✓ </strong>Über 20.000 Kunden (darunter namhafte Influencer &amp; Unternehmen)</p>
-<p><strong>✓ </strong>100% Diskret</p>
+**Vendor's marketplace description:** XXLpromo.com ist spezialisiert auf Social Seeding und den Aufbau von vielen Followern und hohen Reichweiten . Zahlreiche Influencer, Unternehmer und Personen des öffentlichen Lebens gehören zu unseren Kunden. ✓ Ausschließlich echte Follower aus Deutschland ✓ Tägliches Intervall an Follower frei wählbar (siehe unten) ✓ Schnelle Auslieferung ✓ Seriöser Partner - Erfahrung in Social-Media Marketing & Social Seeding seit 2012 ✓ Über 20.000 Kunden (darunter namhafte Influencer & Unternehmen) ✓ 100% Diskret
 
 ## 2. Links
 

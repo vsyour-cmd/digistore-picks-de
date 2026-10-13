@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Websites bauen ohne Code“</strong></p>
-<p>Dein Start als Webdesigner für lokale Kunden – No-Code-Tools machen es möglich, Websites ohne Programmieren zu bauen. Die richtigen Tools, Design-Grundlagen, Kundengewinnung sowie Angebot, Preis und Abwicklung.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Websites bauen ganz ohne Programmieren</li>
-<li>Die richtigen No-Code-Tools nutzen</li>
-<li>Lokale Kunden finden und Aufträge abwickeln</li>
-<li>Impressum, DSGVO und Website-Pflichten beachten</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Websites bauen ohne Code“ Dein Start als Webdesigner für lokale Kunden – No-Code-Tools machen es möglich, Websites ohne Programmieren zu bauen. Die richtigen Tools, Design-Grundlagen, Kundengewinnung sowie Angebot, Preis und Abwicklung. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Websites bauen ganz ohne Programmieren Die richtigen No-Code-Tools nutzen Lokale Kunden finden und Aufträge abwickeln Impressum, DSGVO und Website-Pflichten beachten
 
 ## 2. Links
 

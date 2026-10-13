@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Absolut alltagstaugliche Audio-Begleitung im Bereich Persönlichkeitsentwicklung &amp; Intuition!</strong> ⭐</p>
-<p>Kennen deine Follower das auch? Der Alltag ist stressig, man funktioniert nur noch und verliert komplett den Bezug zu sich selbst – und damit auch die feine intuitive Wahrnehmung (z. B. für die Verbindung zu Tieren).</p>
-<p>Genau hier setzt dieses liebevoll gestaltete 7-Tage-Programm an. Es ist kein aufgeblähter Onlinekurs, sondern eine hocheffektive, 7-tägige Audio-Begleitung direkt im E-Mail-Postfach. Ohne spirituellen Hokuspokus, ohne Druck und perfekt in jeden vollen Terminkalender integrierbar.</p>
-<h3> </h3>
+**Vendor's marketplace description:** Absolut alltagstaugliche Audio-Begleitung im Bereich Persönlichkeitsentwicklung & Intuition! ⭐ Kennen deine Follower das auch? Der Alltag ist stressig, man funktioniert nur noch und verliert komplett den Bezug zu sich selbst – und damit auch die feine intuitive Wahrnehmung (z. B. für die Verbindung zu Tieren). Genau hier setzt dieses liebevoll gestaltete 7-Tage-Programm an. Es ist kein aufgeblähter Onlinekurs, sondern eine hocheffektive, 7-tägige Audio-Begleitung direkt im E-Mail-Postfach. Ohne spirituellen Hokuspokus, ohne Druck und perfekt in jeden vollen Terminkalender integrierbar.
 
 ## 2. Links
 

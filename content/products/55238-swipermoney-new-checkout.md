@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Neue optimierte Checkout Seite!</p>
-<p>Du bekommst 70% Provision.</p>
-<p>Gute Niche!</p>
-<p>Stark auf Social Media und Direktvertrieb.</p>
-<p>Beginne jetzt!</p>
+**Vendor's marketplace description:** Neue optimierte Checkout Seite! Du bekommst 70% Provision. Gute Niche! Stark auf Social Media und Direktvertrieb. Beginne jetzt!
 
 ## 2. Links
 

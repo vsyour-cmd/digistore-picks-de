@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wiederkehrende Provision - 50 % auf alles - bewährter Funnel</strong></p>
-<p>Die KI-Software für Pinterest-Affiliate-Marketing. Kein Kurs, kein Theorie-Paket – eine Software, die den kompletten Prozess übernimmt: Nische wählen, Pins erstellen, Verkaufsseite bauen, Affiliate-Link setzen.</p>
-<p><strong>Das Provisionsmodell:</strong></p>
-<p>✅ <strong>50 % Provision – auf jedes Produkt im Funnel</strong><br />✅ <strong>Wiederkehrend:</strong> 24,50 € pro Monat, solange dein Kunde bleibt<br />✅ <strong>Oder 198,50 € sofort</strong> beim Jahres-Abo – und bei jeder Verlängerung erneut<br />✅ <strong>Bis zu 411,50 € aus einem einzigen Kunden</strong> (Jahres-Abo + Order-Bump + Upsell)<br />✅ Stabile Funnel-Struktur mit Fokus auf Conversion</p>
-<p><strong>Warum Abo besser für dich ist:</strong><br />Bei Einmalprodukten fängst du nach jedem Verkauf wieder bei null an. Hier zahlt dich derselbe Kunde weiter – Monat für Monat. Dein nächster Verkauf kommt obendrauf, nicht als Ersatz.</p>
-<p><strong>Warum Hidden Cash System:</strong></p>
-<p>✅ Bereits über 200 zahlende Kunden im DACH-Raum<br />✅ Funnel und VSL sind im Launch getestet – keine Experimente<br />✅ Kein eigenes Produkt notwendig<br />✅ Kein Vorwissen erforderlich<br />✅ Kein Sich-zeigen-Müssen<br />✅ Klarer Schritt-für-Schritt-Aufbau<br />✅ Software wird laufend weiterentwickelt – alle Updates inklusive</p>
-<p><strong>Was diese Software besonders macht:</strong><br />Während viele Tools mit unzähligen Funktionen überfordern, bekommt der Kunde hier ein klares System, das auf schnelle Ergebnisse ausgelegt ist – kinderleichte Prozesse statt Feature-Chaos.</p>
-<p><strong>Zielgruppe:</strong><br />Menschen, die online Geld verdienen möchten, aber:</p>
-<ul>
-<li>nicht wissen, wo sie anfangen sollen</li>
-<li>keine eigenen Produkte haben</li>
-<li>keine Technik verstehen wollen</li>
-<li>sich nicht zeigen möchten</li>
-</ul>
+**Vendor's marketplace description:** Wiederkehrende Provision - 50 % auf alles - bewährter Funnel Die KI-Software für Pinterest-Affiliate-Marketing. Kein Kurs, kein Theorie-Paket – eine Software, die den kompletten Prozess übernimmt: Nische wählen, Pins erstellen, Verkaufsseite bauen, Affiliate-Link setzen. Das Provisionsmodell: ✅ 50 % Provision – auf jedes Produkt im Funnel ✅ Wiederkehrend: 24,50 € pro Monat, solange dein Kunde bleibt ✅ Oder 198,50 € sofort beim Jahres-Abo – und bei jeder Verlängerung erneut ✅ Bis zu 411,50 € aus einem einzigen Kunden (Jahres-Abo + Order-Bump + Upsell) ✅ Stabile Funnel-Struktur mit Fokus auf Conversion Warum Abo besser für dich ist: Bei Einmalprodukten fängst du nach jedem Verkauf wieder bei null an. Hier zahlt dich derselbe Kunde weiter – Monat für Monat. Dein nächster Verkauf kommt obendrauf, nicht als Ersatz. Warum Hidden Cash System: ✅ Bereits über 200 zahlende Kunden im DACH-Raum ✅ Funnel und VSL sind im Launch getestet – keine Experimente ✅ Kein eigenes Produkt notwendig ✅ Kein Vorwissen erforderlich ✅ Kein Sich-zeigen-Müssen ✅ Klarer Schritt-für-Schritt-Aufbau ✅ Software wird laufend weiterentwickelt – alle Updates inklusive Was diese Software besonders macht: Während viele Tools mit unzähligen Funktionen überfordern, bekommt der Kunde hier ein klares System, das auf schnelle Ergebnisse ausgelegt ist – kinderleichte Prozesse statt Feature-Chaos. Zielgruppe: Menschen, die online Geld verdienen möchten, aber: nicht wissen, wo sie anfangen sollen keine eigenen Produkte haben keine Technik verstehen wollen sich nicht zeigen möchten
 
 ## 2. Links
 

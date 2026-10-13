@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Die einfachste Strategie, online Geld zu verdienen!<br /></strong></h2>
-<p><strong>Für alle Affiliates eine klasse Chance.</strong> Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann <strong>30 - 50% Provision</strong> gibt.</p>
-<p><strong>Insgesamt können damit über 400 Euro an Provision verdient werden.</strong></p>
-<p>Im Programm ist folgendes enthalten:</p>
-<ul>
-<li>...<strong> klare Anleitung</strong>, wie der Kunde E-Mail-Marketing für seinen Erfolg einsetzen kann.</li>
-<li>... Beispiele und Vorlagen, wie er klickstarte CTAs erstellt</li>
-<li>... wie der Kunde die künstliche Intelligenz verwendet</li>
-<li>... verschiedene <strong>Beispiele, Vorlagen, Templates</strong> und vieles mehr!</li>
-<li>... <strong>glasklare Schritt-für-Schritt Anleitung</strong>, als ob wir neben dem Kunden sitzen und ihm alles ganz genau zeigen</li>
-<li>... und noch einiges mehr</li>
-</ul>
-<p><strong> </strong></p>
+**Vendor's marketplace description:** Die einfachste Strategie, online Geld zu verdienen! Für alle Affiliates eine klasse Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Insgesamt können damit über 400 Euro an Provision verdient werden. Im Programm ist folgendes enthalten: ... klare Anleitung , wie der Kunde E-Mail-Marketing für seinen Erfolg einsetzen kann. ... Beispiele und Vorlagen, wie er klickstarte CTAs erstellt ... wie der Kunde die künstliche Intelligenz verwendet ... verschiedene Beispiele, Vorlagen, Templates und vieles mehr! ... glasklare Schritt-für-Schritt Anleitung , als ob wir neben dem Kunden sitzen und ihm alles ganz genau zeigen ... und noch einiges mehr
 
 ## 2. Links
 

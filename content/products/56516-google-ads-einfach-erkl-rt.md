@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Google Ads Kurs</strong><strong>, erklärt wie man spielend leicht und erfolgreich Google Ads-Kampagnen erstellt.</strong><br />Lösung für viele Marketer, die am Anfang stehen und das Thema Google Ads meistern wollen.</p>
-<p> </p>
-<p><strong>Der Kurs kostet für den Kunden nur 9,90€</strong></p>
-<p> </p>
-<p>Über € 49 Provision beim Funneldurchlauf für Dich möglich</p>
-<p>Deine Provision dafür ist 50 %</p>
+**Vendor's marketplace description:** Google Ads Kurs , erklärt wie man spielend leicht und erfolgreich Google Ads-Kampagnen erstellt. Lösung für viele Marketer, die am Anfang stehen und das Thema Google Ads meistern wollen. Der Kurs kostet für den Kunden nur 9,90€ Über € 49 Provision beim Funneldurchlauf für Dich möglich Deine Provision dafür ist 50 %
 
 ## 2. Links
 

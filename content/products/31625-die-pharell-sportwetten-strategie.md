@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1 style="text-align:center;"><span style="background-color:#ffff00;"><strong>Die Pharell Sportwetten Strategie</strong></span></h1>
-<p style="text-align:center;"><span style="background-color:#ffffff;"><strong>Eine der beliebtesten Sportwetten Strategien auf YouTube und Digistore24!</strong></span></p>
-<p style="text-align:center;"><span style="background-color:#ffffff;"><strong>Verkaufspreis 99€ --&gt; 50% Affiliate Provision!</strong></span></p>
-<p style="text-align:center;"><span style="background-color:#ffffff;"><strong>Hohe Conversion garantiert viele Einnahmen! </strong></span></p>
+**Vendor's marketplace description:** Die Pharell Sportwetten Strategie Eine der beliebtesten Sportwetten Strategien auf YouTube und Digistore24! Verkaufspreis 99€ --> 50% Affiliate Provision! Hohe Conversion garantiert viele Einnahmen!
 
 ## 2. Links
 

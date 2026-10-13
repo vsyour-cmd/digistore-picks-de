@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Verschenke mein Buch „Tausche Hamsterrad gegen Traumleben“ und erhalte: <br /><br /></strong>- 5 € Provision auf jedes verschenkte Buch<br />- 50% Provison auf das Hörbuch <br />- 25% Provision auf das gedruckte Workbook<br /><br />In unserem Affiliate Bereich findest du dein Werbematerial, um sofort zu starten. <br /><br /><br /></h3>
+**Vendor's marketplace description:** Verschenke mein Buch „Tausche Hamsterrad gegen Traumleben“ und erhalte: - 5 € Provision auf jedes verschenkte Buch - 50% Provison auf das Hörbuch - 25% Provision auf das gedruckte Workbook In unserem Affiliate Bereich findest du dein Werbematerial, um sofort zu starten.
 
 ## 2. Links
 

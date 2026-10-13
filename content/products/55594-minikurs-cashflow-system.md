@@ -41,34 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Praxis-Minikurs für Anfänger:innen, Coaches &amp; Dienstleister: Erstelle deinen Minikurs und baue ein Cashflow-System (Salespage → Checkout → Auslieferung → E-Mail-Follow-up). Schritt für Schritt in Systeme.io erklärt – inkl. Orderbump/Upsell-Logik und 6 Boni.</p>
-<h3>Highlights (Bulletpoints)</h3>
-<ul>
-<li>
-<p>Minikurs-Idee + Struktur (klar &amp; umsetzbar)</p>
-</li>
-<li>
-<p>Funnel-Setup in Systeme.io (Salespage + Automationen)</p>
-</li>
-<li>
-<p>Digistore24 Checkout integriert</p>
-</li>
-<li>
-<p>E-Mail-Auslieferung + Follow-up</p>
-</li>
-<li>
-<p>Order Bump + Upsell/Downsell</p>
-</li>
-<li>
-<p>6 Boni (Workbook, Prompts, Mockups)</p>
-</li>
-</ul>
-<h3>Zielgruppe</h3>
-<p>Anfänger:innen im Online-Business, Coaches, Berater:innen, Dienstleister, Creator mit kleiner Reichweite.</p>
-<h3>Preis-Hinweis</h3>
-<p><strong>37 € inkl Mwst.</strong></p>
-<h3>Provision (falls Feld vorhanden / sonst im Text)</h3>
-<p><strong>50% Provision</strong> • Order Bumps &amp; Upsells aktiv (höherer Warenkorbwert möglich)</p>
+**Vendor's marketplace description:** Praxis-Minikurs für Anfänger:innen, Coaches & Dienstleister: Erstelle deinen Minikurs und baue ein Cashflow-System (Salespage → Checkout → Auslieferung → E-Mail-Follow-up). Schritt für Schritt in Systeme.io erklärt – inkl. Orderbump/Upsell-Logik und 6 Boni. Highlights (Bulletpoints) Minikurs-Idee + Struktur (klar & umsetzbar) Funnel-Setup in Systeme.io (Salespage + Automationen) Digistore24 Checkout integriert E-Mail-Auslieferung + Follow-up Order Bump + Upsell/Downsell 6 Boni (Workbook, Prompts, Mockups) Zielgruppe Anfänger:innen im Online-Business, Coaches, Berater:innen, Dienstleister, Creator mit kleiner Reichweite. Preis-Hinweis 37 € inkl Mwst. Provision (falls Feld vorhanden / sonst im Text) 50% Provision • Order Bumps & Upsells aktiv (höherer Warenkorbwert möglich)
 
 ## 2. Links
 

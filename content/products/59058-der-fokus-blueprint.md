@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du erhältst sofortigen Zugang zu deinem PDF-Download <br />(ca. 30 Seiten). Der Fokus-Blueprint enthält 6 Kapitel, <br />einen 30-Tage-Plan und eine tägliche Checkliste – <br />für mehr Konzentration, weniger Ablenkung und klarere <br />Struktur im Alltag.</p>
-<p>✅ Sofort-Download nach Zahlung<br />✅ PDF – auf allen Geräten lesbar<br />✅ Einmalige Zahlung · Kein Abo</p>
-<p> </p>
+**Vendor's marketplace description:** Du erhältst sofortigen Zugang zu deinem PDF-Download (ca. 30 Seiten). Der Fokus-Blueprint enthält 6 Kapitel, einen 30-Tage-Plan und eine tägliche Checkliste – für mehr Konzentration, weniger Ablenkung und klarere Struktur im Alltag. ✅ Sofort-Download nach Zahlung ✅ PDF – auf allen Geräten lesbar ✅ Einmalige Zahlung · Kein Abo
 
 ## 2. Links
 

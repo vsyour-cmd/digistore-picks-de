@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Spreka ist die No-Code-Plattform, mit der Unternehmen in wenigen Minuten ihren eigenen KI-Agenten erstellen – per einfacher Eingabe oder Vorlage, ohne Technik und ohne Agentur. Per Voice und Chat beantwortet der Agent Fragen, führt Besucher durch den Prozess, in über 70 Sprachen, DSGVO-konform und mit EU-Hosting.</p>
-<p>Einfach Dokumente, FAQs oder eine Datenquelle hochladen – fertig. Der Agent antwortet präzise auf Basis des echten Firmenwissens und handelt im Kontext, statt nur Standardfloskeln zu liefern.</p>
-<p><strong>Warum sich Spreka verkauft:</strong> Konversationelle KI ist 2026 eines der heißesten Themen im DACH-Raum – und Spreka macht sie für jeden zugänglich, der bisher an Technik oder Kosten gescheitert ist. Der Einstieg ist bewusst niedrigschwellig, der Nutzen sofort sichtbar. Das sorgt für starke Conversion und – noch wichtiger für dich – für treue Abonnenten.</p>
-<p><strong>Für dich als Affiliate:</strong></p>
-<ul>
-<li><strong>35 % wiederkehrende Provision</strong> – bei jeder Verlängerung verdienst du erneut mit</li>
-<li><strong>Echtes Recurring Revenue</strong> statt Einmal-Provision: planbares, wachsendes Einkommen</li>
-<li><strong>Riesiger Markt:</strong> Jedes Unternehmen mit Website oder Online-Service ist potenzieller Kunde</li>
-<li><strong>Saubere B2B-Zielgruppe</strong> mit Budget und akutem Bedarf</li>
-</ul>
+**Vendor's marketplace description:** Spreka ist die No-Code-Plattform, mit der Unternehmen in wenigen Minuten ihren eigenen KI-Agenten erstellen – per einfacher Eingabe oder Vorlage, ohne Technik und ohne Agentur. Per Voice und Chat beantwortet der Agent Fragen, führt Besucher durch den Prozess, in über 70 Sprachen, DSGVO-konform und mit EU-Hosting. Einfach Dokumente, FAQs oder eine Datenquelle hochladen – fertig. Der Agent antwortet präzise auf Basis des echten Firmenwissens und handelt im Kontext, statt nur Standardfloskeln zu liefern. Warum sich Spreka verkauft: Konversationelle KI ist 2026 eines der heißesten Themen im DACH-Raum – und Spreka macht sie für jeden zugänglich, der bisher an Technik oder Kosten gescheitert ist. Der Einstieg ist bewusst niedrigschwellig, der Nutzen sofort sichtbar. Das sorgt für starke Conversion und – noch wichtiger für dich – für treue Abonnenten. Für dich als Affiliate: 35 % wiederkehrende Provision – bei jeder Verlängerung verdienst du erneut mit Echtes Recurring Revenue statt Einmal-Provision: planbares, wachsendes Einkommen Riesiger Markt: Jedes Unternehmen mit Website oder Online-Service ist potenzieller Kunde Saubere B2B-Zielgruppe mit Budget und akutem Bedarf
 
 ## 2. Links
 

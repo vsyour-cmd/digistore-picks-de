@@ -41,49 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<h1><strong><span style="color:#00ccff;">"Dieser Kurs rettet deinen Rücken... !"</span></strong></h1>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<ul>
-<li>30 Tage Schritt für Schritt Intensiv-Training  </li>
-<li>E-Mail-Support  </li>
-<li>GRATIS: <strong>30 Minuten "Rücken-Intensiv-LIVE-Training"</strong></li>
-<li>Einmalzahlung, kein Abo !</li>
-<li><strong><span style="color:#00ccff;">58 Einzelvideos mit gesamt über 11 Stunden Laufzeit</span></strong></li>
-<li>30 Tage-Geld-zurück-Garantie</li>
-</ul>
-<p> </p>
-<p>Zwickt und zwackt es manchmal im Rücken ?<br />Oder hast du sogar richtig massive Probleme ?<br />Sitzt du viel oder bewegst du dich oft einseitig ?<br /><br />Hast du manchmal oder regelmäßig Schmerzen in<br />deiner <strong>Brustwirbelsäule</strong><br />deiner <strong>Lendenwirbelsäule</strong><br />in deinen <strong>ISG-Gelenken </strong>im <strong>Piriformis</strong> oder <strong>Ischias </strong>?<br /><br />Dann hol jetzt einmal tief Luft...<br />und stell dir vor, dass Deine Rückenprobleme bald "Geschichte" sind !<br /><br /><strong>Denn dieser umfangreiche Kurs hat nur ein Ziel:<br />deinen Rücken zu retten !</strong><br /><br />Und das schaffen wir mit einem ganz besonderen Trainingskonzept...</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** "Dieser Kurs rettet deinen Rücken... !" 30 Tage Schritt für Schritt Intensiv-Training E-Mail-Support GRATIS: 30 Minuten "Rücken-Intensiv-LIVE-Training" Einmalzahlung, kein Abo ! 58 Einzelvideos mit gesamt über 11 Stunden Laufzeit 30 Tage-Geld-zurück-Garantie Zwickt und zwackt es manchmal im Rücken ? Oder hast du sogar richtig massive Probleme ? Sitzt du viel oder bewegst du dich oft einseitig ? Hast du manchmal oder regelmäßig Schmerzen in deiner Brustwirbelsäule deiner Lendenwirbelsäule in deinen ISG-Gelenken im Piriformis oder Ischias ? Dann hol jetzt einmal tief Luft... und stell dir vor, dass Deine Rückenprobleme bald "Geschichte" sind ! Denn dieser umfangreiche Kurs hat nur ein Ziel: deinen Rücken zu retten ! Und das schaffen wir mit einem ganz besonderen Trainingskonzept...
 
 ## 2. Links
 

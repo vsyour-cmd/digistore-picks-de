@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Träumst Du davon, am kristallklaren Meer zu leben, in einer bezaubernden mediterranen Umgebung zu arbeiten und das ganze Jahr über die Sonne zu genießen? Kroatien bietet Dir genau das und noch viel mehr! <br />Entdecke, wie Du Deinen Traum vom Leben und Arbeiten in Kroatien verwirklichen kannst.</p>
-<p> </p>
-<p> </p>
-<p><span style="color:#ff0000;"><strong>Bitte unbedingt beachten:</strong></span><br /><span style="color:#ff0000;">Hier handelt es sich um ein digitales Produkt und kein pysisches Buch.</span></p>
+**Vendor's marketplace description:** Träumst Du davon, am kristallklaren Meer zu leben, in einer bezaubernden mediterranen Umgebung zu arbeiten und das ganze Jahr über die Sonne zu genießen? Kroatien bietet Dir genau das und noch viel mehr! Entdecke, wie Du Deinen Traum vom Leben und Arbeiten in Kroatien verwirklichen kannst. Bitte unbedingt beachten: Hier handelt es sich um ein digitales Produkt und kein pysisches Buch.
 
 ## 2. Links
 

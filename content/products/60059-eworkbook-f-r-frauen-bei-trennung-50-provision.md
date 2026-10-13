@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>„Du vermisst ihn nicht, du bist abhängig!“ ist ein praxisorientiertes Workbook für Frauen, die sich aus emotionaler Abhängigkeit, On-Off-Beziehungen und belastenden Bindungsmustern lösen möchten.</strong></p>
-<p>Das Workbook verbindet verständlich aufbereitetes psychologisches Wissen mit konkreten Reflexionsfragen und Übungen für den Alltag.</p>
-<p><strong>Ideal für Affiliates aus den Bereichen:</strong> Mental Health, Persönlichkeitsentwicklung, Selbstwert, Beziehungen, Trennung, Female Empowerment und Coaching.</p>
-<p><strong>Verkaufspreis: 18,90 €</strong><br /><strong>Affiliate-Provision: 50 %</strong></p>
-<p>Die klare Problemansprache eignet sich besonders für Social-Media-Content, Newsletter, Blogs und Coaching-Communities.</p>
-<p>Zielgruppe sind insbesondere Frauen, die wissen, dass ihnen eine Beziehung oder Bindung nicht guttut, emotional aber trotzdem nicht davon loskommen.</p>
+**Vendor's marketplace description:** „Du vermisst ihn nicht, du bist abhängig!“ ist ein praxisorientiertes Workbook für Frauen, die sich aus emotionaler Abhängigkeit, On-Off-Beziehungen und belastenden Bindungsmustern lösen möchten. Das Workbook verbindet verständlich aufbereitetes psychologisches Wissen mit konkreten Reflexionsfragen und Übungen für den Alltag. Ideal für Affiliates aus den Bereichen: Mental Health, Persönlichkeitsentwicklung, Selbstwert, Beziehungen, Trennung, Female Empowerment und Coaching. Verkaufspreis: 18,90 € Affiliate-Provision: 50 % Die klare Problemansprache eignet sich besonders für Social-Media-Content, Newsletter, Blogs und Coaching-Communities. Zielgruppe sind insbesondere Frauen, die wissen, dass ihnen eine Beziehung oder Bindung nicht guttut, emotional aber trotzdem nicht davon loskommen.
 
 ## 2. Links
 

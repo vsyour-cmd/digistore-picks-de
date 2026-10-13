@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Verschenke jetzt die "Die 12 erprobten Fragen zu Deinem Wunschkunden " und profitiere von allen Upsells im Verkaufs Funnel (40% Provision auf alle Upsell-Produkte)</p>
-<p>Die 12 erprobten Fragen sind ein beliebtes Produkt <strong>mit Upsells, die sich häufig verkaufen.</strong> Du verdienst bis zu 120€ pro verschenktem Ratgeber!</p>
-<p><strong>Deine Vorteile:</strong></p>
-<ul>
-<li>satte 40 % Provisionen auf alle Deine Verkäufe </li>
-<li>Geringe Einstiegshürde für den Kunden, sodass du schnell viele Verkäufe erzielen kannst </li>
-<li>Upsells und Orderbumps, die deinen Gewinn maximieren</li>
-<li>Eintragungsraten im Front End bis zu 67 % im ständig hochoptimierten Ad Campus Funnel.</li>
-<li>Kaufraten von 10-15% im ständig hochoptimierten Ad Campus Sales-Funnel</li>
-<li>Große Auswahl optimierter Webemittel: Du bekommst klickstarke Creatives, Vorlagen für E-Mail-Texte, Videos und alles was Du benötigst um mehr Leads und Verkäufe zu erzielen.</li>
-<li>Schnelle und persönliche Unterstützung auf Deutsch durch Ihren Ad Campus Affiliate-Manager.</li>
-<li>Ständige Live Trainings der Top Affiliates mit dem Gründer persönlich, für noch mehr Umsatz und Provisionen</li>
-</ul>
-<p><strong>Der komplette Funnel:</strong></p>
-<ul>
-<li>0 € Initialprodukt – Conversion ~<strong>68,78</strong><strong>%</strong></li>
-<li>47€ Orderbump – Conversion ~<strong>34,59%</strong></li>
-<li>97€ Upsell 1 – Conversion ~<strong>12,56%</strong></li>
-<li>147€ Upsell 2 – <em>Conversion ~<strong>7,89%</strong></em></li>
-</ul>
-<p>Du verdienst an jedem Verkauf 40%!</p>
-<p>Die Verkaufsseiten und der Funnel von den 12 erprobten Fragen wurde von einem professionellen Funnel Hacker &amp; Facebook Marketer erstellt.</p>
-<p>Das heißt für dich: <strong>Auf maximale Conversions optimiert, sodass du größtmögliche Provisionen erhältst.</strong> Sogar bei kaltem Traffic!</p>
-<p>Besuche jetzt unser Affiliate Center, um noch heute Teil der Ad Campus Familie zu werden!</p>
-<p>Herzliche Grüße aus Köln und viel Erfolg beim bewerben</p>
-<p>Christian da Silva  </p>
+**Vendor's marketplace description:** Verschenke jetzt die "Die 12 erprobten Fragen zu Deinem Wunschkunden " und profitiere von allen Upsells im Verkaufs Funnel (40% Provision auf alle Upsell-Produkte) Die 12 erprobten Fragen sind ein beliebtes Produkt mit Upsells, die sich häufig verkaufen. Du verdienst bis zu 120€ pro verschenktem Ratgeber! Deine Vorteile: satte 40 % Provisionen auf alle Deine Verkäufe Geringe Einstiegshürde für den Kunden, sodass du schnell viele Verkäufe erzielen kannst Upsells und Orderbumps, die deinen Gewinn maximieren Eintragungsraten im Front End bis zu 67 % im ständig hochoptimierten Ad Campus Funnel. Kaufraten von 10-15% im ständig hochoptimierten Ad Campus Sales-Funnel Große Auswahl optimierter Webemittel: Du bekommst klickstarke Creatives, Vorlagen für E-Mail-Texte, Videos und alles was Du benötigst um mehr Leads und Verkäufe zu erzielen. Schnelle und persönliche Unterstützung auf Deutsch durch Ihren Ad Campus Affiliate-Manager. Ständige Live Trainings der Top Affiliates mit dem Gründer persönlich, für noch mehr Umsatz und Provisionen Der komplette Funnel: 0 € Initialprodukt – Conversion ~ 68,78 % 47€ Orderbump – Conversion ~ 34,59% 97€ Upsell 1 – Conversion ~ 12,56% 147€ Upsell 2 – Conversion ~ 7,89% Du verdienst an jedem Verkauf 40%! Die Verkaufsseiten und der Funnel von den 12 erprobten Fragen wurde von einem professionellen Funnel Hacker & Facebook Marketer erstellt. Das heißt für dich: Auf maximale Conversions optimiert, sodass du größtmögliche Provisionen erhältst. Sogar bei kaltem Traffic! Besuche jetzt unser Affiliate Center, um noch heute Teil der Ad Campus Familie zu werden! Herzliche Grüße aus Köln und viel Erfolg beim bewerben Christian da Silva
 
 ## 2. Links
 

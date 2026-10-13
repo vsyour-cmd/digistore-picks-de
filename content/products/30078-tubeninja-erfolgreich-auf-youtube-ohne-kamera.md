@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In diesem 6-stündigen Videokurs zeigt der Betreiber des Youtube Kanals "5Rules5Hacks" die Methode, mit der er 40.000 Abonnenten und mehrere Millionen Klicks generiert hat, ohne sich selbst vor die Kamera zu setzen.</p>
-<p><strong>Dieser Kurs ist perfekt für alle geeignet, die einen erfolgreichen YouTube Kanal starten, sich dabei aber nicht selbst filmen wollen um Ihre Privatsphäre zu wahren.</strong></p>
-<p><strong>______________________________________</strong></p>
-<p><strong>Lieber Affiliate,</strong></p>
-<p>Der Kurs "TubeNinja - Erfolgreich auf YouTube ohne Kamera" wird zu einem Preis von 397€ angeboten. Mit dem Gutscheincode "SPECIAL100" kannst du den Preis auf 297€ reduzieren.</p>
-<p><strong>Du erhältst dabei faire 40% Provision!</strong></p>
-<p>Der Kunde erhält im Nachgang weitere E-Mails mit provisionierten Angeboten - Dein Cookie bleibt in dieser Zeit natürlich bestehen.<br /><br />___________________________________________</p>
-<p><strong>GRATIS YOUTUBE KURS</strong> (Content Seite)</p>
-<p>Als alternativen Einstieg hast du die Möglichkeit, meinen 4-teiligen gratis Minikurs "Erfolgreich auf YouTube" anzubieten.</p>
-<p><strong>Die Person durchläuft dann mit deinem Cookie den vollständigen Funnel:</strong></p>
-<ol><li>Gratis Kurs</li>
-<li>eBook (7€) -&gt; 60%</li>
-<li>Kurs (77€) -&gt; 50%</li>
-<li>Kurs (397€) -&gt; 40%</li>
-</ol><p><a>https://www.digistore24.com/content/289232/25499/AFFILIATE/CAMPAIGNKEY</a> </p>
-<p>Bitte ersetze dafür "AFFILIATE" durch deine Affiliate ID</p>
+**Vendor's marketplace description:** In diesem 6-stündigen Videokurs zeigt der Betreiber des Youtube Kanals "5Rules5Hacks" die Methode, mit der er 40.000 Abonnenten und mehrere Millionen Klicks generiert hat, ohne sich selbst vor die Kamera zu setzen. Dieser Kurs ist perfekt für alle geeignet, die einen erfolgreichen YouTube Kanal starten, sich dabei aber nicht selbst filmen wollen um Ihre Privatsphäre zu wahren. ______________________________________ Lieber Affiliate, Der Kurs "TubeNinja - Erfolgreich auf YouTube ohne Kamera" wird zu einem Preis von 397€ angeboten. Mit dem Gutscheincode "SPECIAL100" kannst du den Preis auf 297€ reduzieren. Du erhältst dabei faire 40% Provision! Der Kunde erhält im Nachgang weitere E-Mails mit provisionierten Angeboten - Dein Cookie bleibt in dieser Zeit natürlich bestehen. ___________________________________________ GRATIS YOUTUBE KURS (Content Seite) Als alternativen Einstieg hast du die Möglichkeit, meinen 4-teiligen gratis Minikurs "Erfolgreich auf YouTube" anzubieten. Die Person durchläuft dann mit deinem Cookie den vollständigen Funnel: Gratis Kurs eBook (7€) -> 60% Kurs (77€) -> 50% Kurs (397€) -> 40% https://www.digistore24.com/content/289232/25499/AFFILIATE/CAMPAIGNKEY Bitte ersetze dafür "AFFILIATE" durch deine Affiliate ID
 
 ## 2. Links
 

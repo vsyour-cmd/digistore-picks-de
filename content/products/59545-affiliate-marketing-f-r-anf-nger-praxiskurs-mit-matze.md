@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Baue dein erstes Affiliate-Projekt Schritt für Schritt auf.</h2>
-<p>Finde ein klares Thema, verstehe deine Zielgruppe und entwickle Empfehlungen, die Menschen bei einer Entscheidung helfen. Dieser Selbstlernkurs begleitet Einsteiger von den Grundlagen bis zu einem praktischen 90-Tage-Umsetzungsplan.</p>
-<h3>Dein vollständiges Downloadpaket</h3>
-<ul>
-<li><strong>62-seitiger Kurs:</strong> zwölf Module und 36 Lektionen mit Aufgaben, Beispielen und Kontrollfragen.</li>
-<li><strong>16-seitiges Arbeitsbuch:</strong> 14 Arbeitsblätter für Nische, Zielgruppe, Angebote, Inhalte und Auswertung.</li>
-<li><strong>Acht bearbeitbare Vorlagen:</strong> Projektbriefing, Artikel, E-Mail-Sequenz, Social Content, Partnerprogramm-Prüfung, Planung, KI-Briefing und Abschlussprüfung.</li>
-<li><strong>Acht Affiliate-Wege:</strong> Inhalte und Suchmaschinen, Pinterest, Video, Social Media, E-Mail, Software-Empfehlungen, Ressourcen und bezahlte Verbreitung einordnen.</li>
-<li><strong>90-Tage-Plan und durchgehendes Fallbeispiel:</strong> Übertrage die Schritte auf dein eigenes Projekt.</li>
-<li><strong>Offline-Leseversion und Übungsrechner:</strong> im Browser lesen und Beispielzahlen durchspielen.</li>
-</ul>
-<p><strong>Format:</strong> ZIP-Download mit PDF-, Markdown- und HTML-Dateien. Keine Videos, kein Coaching und keine Mitgliedschaft. Du lernst in deinem Tempo. Benötigt werden ein PDF-Reader, ein aktueller Browser und Programme zum Öffnen von ZIP- und Textdateien.</p>
-<p><strong>Einmalzahlung ohne Kursabo.</strong> Externe Tools und Werbebudget sind nicht enthalten und können zusätzliche Kosten verursachen. Reichweite, Verkäufe und Einnahmen werden nicht garantiert. Einzelne Tool-Empfehlungen enthalten gekennzeichnete Affiliate-Links; ein Kauf ist freiwillig.</p>
-<h3>Für Affiliates</h3>
-<p>50 % Provision gemäß Digistore24-Abrechnung. Geeignet für Zielgruppen, die Affiliate Marketing praktisch lernen und eigenständig umsetzen möchten. Keine garantierten Einnahmen. Bitte Werbung kennzeichnen und nur zutreffende Aussagen verwenden.</p>
+**Vendor's marketplace description:** Baue dein erstes Affiliate-Projekt Schritt für Schritt auf. Finde ein klares Thema, verstehe deine Zielgruppe und entwickle Empfehlungen, die Menschen bei einer Entscheidung helfen. Dieser Selbstlernkurs begleitet Einsteiger von den Grundlagen bis zu einem praktischen 90-Tage-Umsetzungsplan. Dein vollständiges Downloadpaket 62-seitiger Kurs: zwölf Module und 36 Lektionen mit Aufgaben, Beispielen und Kontrollfragen. 16-seitiges Arbeitsbuch: 14 Arbeitsblätter für Nische, Zielgruppe, Angebote, Inhalte und Auswertung. Acht bearbeitbare Vorlagen: Projektbriefing, Artikel, E-Mail-Sequenz, Social Content, Partnerprogramm-Prüfung, Planung, KI-Briefing und Abschlussprüfung. Acht Affiliate-Wege: Inhalte und Suchmaschinen, Pinterest, Video, Social Media, E-Mail, Software-Empfehlungen, Ressourcen und bezahlte Verbreitung einordnen. 90-Tage-Plan und durchgehendes Fallbeispiel: Übertrage die Schritte auf dein eigenes Projekt. Offline-Leseversion und Übungsrechner: im Browser lesen und Beispielzahlen durchspielen. Format: ZIP-Download mit PDF-, Markdown- und HTML-Dateien. Keine Videos, kein Coaching und keine Mitgliedschaft. Du lernst in deinem Tempo. Benötigt werden ein PDF-Reader, ein aktueller Browser und Programme zum Öffnen von ZIP- und Textdateien. Einmalzahlung ohne Kursabo. Externe Tools und Werbebudget sind nicht enthalten und können zusätzliche Kosten verursachen. Reichweite, Verkäufe und Einnahmen werden nicht garantiert. Einzelne Tool-Empfehlungen enthalten gekennzeichnete Affiliate-Links; ein Kauf ist freiwillig. Für Affiliates 50 % Provision gemäß Digistore24-Abrechnung. Geeignet für Zielgruppen, die Affiliate Marketing praktisch lernen und eigenständig umsetzen möchten. Keine garantierten Einnahmen. Bitte Werbung kennzeichnen und nur zutreffende Aussagen verwenden.
 
 ## 2. Links
 

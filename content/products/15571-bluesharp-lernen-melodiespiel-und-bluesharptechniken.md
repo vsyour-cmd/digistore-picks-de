@@ -41,55 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Spielen Sie Bluesharp in 1 - 4 Wochen - garantiert (selbst wenn Sie noch nie ein Instrument gespielt haben)</h1>
-<p><strong>Kein Risiko! Monatlich kündbar (bei monatlicher Zahlung)</strong></p>
-<p><strong>Teste 14 Tage lang für 1 €. </strong><br />Wenn dir mein Bluesharpkurs gefällt, dann brauchst du nichts weiter zu tun.</p>
-<p>Danach bezahlst du dann lediglich pro Monat 15 € (für die ganze Familie) und du kannst jederzeit, wie angegeben kündigen. So hast du also keinerlei Risiko!</p>
-<ul><li>Du möchtest genau wissen, wie du <strong>Bluesharp</strong>lernen kannst?</li>
-<li>Du möchtest gerne <strong>Bluesharp spielen lernen</strong> von einem <strong>Profi</strong>, der <strong>Musik studiert</strong> hat?</li>
-<li>Du hast keine Lust, einfach mal so herumzuprobieren?</li>
-<li>Du möchtest <strong>Flow erleben</strong> und dich <strong>entschleunigen</strong>?</li>
-<li>Du möchtest gerne <strong>auswendig spielen</strong> lernen?</li>
-<li>Du möchtest lernen, wie man einen <strong>schönen Ton</strong> auf der Bluesharp bildet?</li>
-<li>Du möchtest lernen, wie du deine Atemtechnik verbesserst?</li>
-<li>Du möchtest erfahren, wie man eine <strong>Melodie</strong> so <strong>interpretiert</strong>, dass es alle vom Hocker haut?</li>
-<li>Du möchtest <strong>vorspielen</strong>?</li>
-<li>Du möchtest eventuell mal anderen das <strong>Bluesharpspielen</strong> beibringen und meinen <strong>Bluesharpkurs</strong> dabei weiterempfehlen und <strong>Geld</strong> <strong>verdienen</strong>?</li>
-</ul><p>Meinen <strong>Bluesharpkurs</strong> habe ich für meien Schüler entwickelt und sie spielen schon nach wenigen Wochen die ersten Lieder.<br />So kannst du davon ausgehen, dass, wenn sogar meine Schüler an einer Schule begeistert sind, dann bist du das allemal.</p>
-<p>In diesem Onlinekurs sind <strong>mehrere Hundert Lieder</strong>.</p>
-<p>Neben dem Melodiespiel zeige ich dir auch, wie man Blues spielt, Spieltechniken wie Bending, Bluesspiel, Improvisation und Harmonielehre mit der Bluesharp</p>
-<p>Du kannst auf <strong>über 5000 Videoplaybacks</strong> in verschiedenen Geschwindigkeiten zugreifen.</p>
-<p>In <strong>Videoanleitungen</strong> zeige ich dir, wie du Bluesharp spielen kannst.</p>
-<p>Du erhälst die <strong>Lieder mit Noten und Zahlen</strong>, so dass jeder, auch Anfänger <strong>Bluesharp</strong> auch <strong>ohne Notenkenntnisse</strong> lernen kann.</p>
-<p><strong>Es gibt 2 Zahlungsarten:</strong></p>
-<p>1. Monatlich (monatlich kündbar zum Ende des bez. Zeitraums)</p>
-<p>2. Jährlich (jährlich kündbar, zum Ende des bez. Zeitraums)</p>
-<p> </p>
-<p>Nach der Bezahlung hast du SOFORT Zugriff auf meinen Mundharmonikakurs. Du kannst also gleich loslegen.</p>
-<p>Dieser Onlinekurs wird ständig weiterentwickelt, so dass du auch eigene Wünsche einbringen kannst, die ich nach Möglichkeit dann umsetze.</p>
-<p>Dieser Bluesharpkurs ist sehr umfassend und jeder kann von Beginn an (ohne Notenkenntnisse) Bluesharp spielen.</p>
-<p>Alter: Ab 6 - 100 Jahre!</p>
-<p> </p>
-<p>Dieser Bluesharpkurs ist auch für <strong>Musikhäuser</strong>, <strong>Onlineshops</strong> (Musik) usw. geeignet, die mehr Bluesharps verkaufen wollen und die an der Vermittlung dieses Bluesharpkurses monatlich Geld verdienen wollen.</p>
-<p> </p>
-<p>Bluesharp spielen macht Spaß und ist ganz einfach.</p>
-<p>Vor allem die <strong>Videoplaybacks</strong> und die regelmäßigen <strong>Webinare</strong> sind nahezu eine Garantie dafür, dass jeder lange gerne mit meinem Bluesharpkurs Bluesharp spielt.</p>
-<p>Ich zeige auch dabei neben der entsprechenden <strong>Atemtechnik</strong>, <strong>Haltung</strong> usw auch, wie man <strong>Lieder</strong> interessant <strong>interpretiert</strong>, wie man auswendig spielen kann (trainiert das Gehirn) und wie man im <strong>Flow</strong> sielt.</p>
-<p> </p>
-<p>Daher ist dieser Bluesharpkurs auch für alle, die sich entschleunigen wollen, die Flow erlernen wollen und auch für Leute, die Burnout-Probleme haben.</p>
-<p>Schon ab 10 Minuten täglich hat man in kurzer Zeit schon richtige Erfolge und kann vorspielen.</p>
-<p>Überraschen Sie Ihre Freunde und Bekannte beim nächsten Treffen mit schönen Liedern und zur Weihnachtszeit spielen Sie auf einmal mit der Bluesharp vor.</p>
-<p>Dieser Onlinekurs darf für alle Famlienmitglieder verwendet werden. Jede Familie zahlt also nur einen Zugang.</p>
-<p>Dieser Bluesharpkurs ist auf auf monatlicher Basis oder jährlicher Basis.</p>
-<p>Dies bedeutet: Es gibt für jeden, der diesen Bluesharpkurs weiterempfiehlt, regelmäßig Provisionen.</p>
-<p>Ich entwickle diesen Bluesharpkurs ständig weiter.</p>
-<p> </p>
-<p>Viel Spaß beim Bluesharp Spielen und beim Empfehlen!</p>
-<p> </p>
-<p><strong>Marketing:</strong><br />Für Affiliates biete ich an, dass wir zusammen für Ihre Kontakte ein Webinar (oder mehrere) machen, damit sie sich in diesen Mundharmonikakurs über Ihren Affiliatelink eintragen.</p>
-<p>Da dieser Bluesharpkurs sehr umfassend ist und ständig weiterentwickelt wird und da ich durch meine Live-Webinare eine gute Kundenbindung aufbauen möchte, können Affiliates durch die Vermittlung meiner Onlinekurse durch monatliche oder jährliche Beiträge lange für sich finanziell profitieren.</p>
-<p> </p>
-<p>Sie können auch meinen Mundharmonikakurs "Mundharmonika spielen - Melodiespiel mit Noten empfehlen.</p>
+**Vendor's marketplace description:** Spielen Sie Bluesharp in 1 - 4 Wochen - garantiert (selbst wenn Sie noch nie ein Instrument gespielt haben) Kein Risiko! Monatlich kündbar (bei monatlicher Zahlung) Teste 14 Tage lang für 1 €. Wenn dir mein Bluesharpkurs gefällt, dann brauchst du nichts weiter zu tun. Danach bezahlst du dann lediglich pro Monat 15 € (für die ganze Familie) und du kannst jederzeit, wie angegeben kündigen. So hast du also keinerlei Risiko! Du möchtest genau wissen, wie du Bluesharp lernen kannst? Du möchtest gerne Bluesharp spielen lernen von einem Profi , der Musik studiert hat? Du hast keine Lust, einfach mal so herumzuprobieren? Du möchtest Flow erleben und dich entschleunigen ? Du möchtest gerne auswendig spielen lernen? Du möchtest lernen, wie man einen schönen Ton auf der Bluesharp bildet? Du möchtest lernen, wie du deine Atemtechnik verbesserst? Du möchtest erfahren, wie man eine Melodie so interpretiert , dass es alle vom Hocker haut? Du möchtest vorspielen ? Du möchtest eventuell mal anderen das Bluesharpspielen beibringen und meinen Bluesharpkurs dabei weiterempfehlen und Geld verdienen ? Meinen Bluesharpkurs habe ich für meien Schüler entwickelt und sie spielen schon nach wenigen Wochen die ersten Lieder. So kannst du davon ausgehen, dass, wenn sogar meine Schüler an einer Schule begeistert sind, dann bist du das allemal. In diesem Onlinekurs sind mehrere Hundert Lieder . Neben dem Melodiespiel zeige ich dir auch, wie man Blues spielt, Spieltechniken wie Bending, Bluesspiel, Improvisation und Harmonielehre mit der Bluesharp Du kannst auf über 5000 Videoplaybacks in verschiedenen Geschwindigkeiten zugreifen. In Videoanleitungen zeige ich dir, wie du Bluesharp spielen kannst. Du erhälst die Lieder mit Noten und Zahlen , so dass jeder, auch Anfänger Bluesharp auch ohne Notenkenntnisse lernen kann. Es gibt 2 Zahlungsarten: 1. Monatlich (monatlich kündbar zum Ende des bez. Zeitraums) 2. Jährlich (jährlich kündbar, zum Ende des bez. Zeitraums) Nach der Bezahlung hast du SOFORT Zugriff auf meinen Mundharmonikakurs. Du kannst also gleich loslegen. Dieser Onlinekurs wird ständig weiterentwickelt, so dass du auch eigene Wünsche einbringen kannst, die ich nach Möglichkeit dann umsetze. Dieser Bluesharpkurs ist sehr umfassend und jeder kann von Beginn an (ohne Notenkenntnisse) Bluesharp spielen. Alter: Ab 6 - 100 Jahre! Dieser Bluesharpkurs ist auch für Musikhäuser , Onlineshops (Musik) usw. geeignet, die mehr Bluesharps verkaufen wollen und die an der Vermittlung dieses Bluesharpkurses monatlich Geld verdienen wollen. Bluesharp spielen macht Spaß und ist ganz einfach. Vor allem die Videoplaybacks und die regelmäßigen Webinare sind nahezu eine Garantie dafür, dass jeder lange gerne mit meinem Bluesharpkurs Bluesharp spielt. Ich zeige auch dabei neben der entsprechenden Atemtechnik , Haltung usw auch, wie man Lieder interessant interpretiert , wie man auswendig spielen kann (trainiert das Gehirn) und wie man im Flow sielt. Daher ist dieser Bluesharpkurs auch für alle, die sich entschleunigen wollen, die Flow erlernen wollen und auch für Leute, die Burnout-Probleme haben. Schon ab 10 Minuten täglich hat man in kurzer Zeit schon richtige Erfolge und kann vorspielen. Überraschen Sie Ihre Freunde und Bekannte beim nächsten Treffen mit schönen Liedern und zur Weihnachtszeit spielen Sie auf einmal mit der Bluesharp vor. Dieser Onlinekurs darf für alle Famlienmitglieder verwendet werden. Jede Familie zahlt also nur einen Zugang. Dieser Bluesharpkurs ist auf auf monatlicher Basis oder jährlicher Basis. Dies bedeutet: Es gibt für jeden, der diesen Bluesharpkurs weiterempfiehlt, regelmäßig Provisionen. Ich entwickle diesen Bluesharpkurs ständig weiter. Viel Spaß beim Bluesharp Spielen und beim Empfehlen! Marketing: Für Affiliates biete ich an, dass wir zusammen für Ihre Kontakte ein Webinar (oder mehrere) machen, damit sie sich in diesen Mundharmonikakurs über Ihren Affiliatelink eintragen. Da dieser Bluesharpkurs sehr umfassend ist und ständig weiterentwickelt wird und da ich durch meine Live-Webinare eine gute Kundenbindung aufbauen möchte, können Affiliates durch die Vermittlung meiner Onlinekurse durch monatliche oder jährliche Beiträge lange für sich finanziell profitieren. Sie können auch meinen Mundharmonikakurs "Mundharmonika spielen - Melodiespiel mit Noten empfehlen.
 
 ## 2. Links
 

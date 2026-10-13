@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><strong><span style="background-color:#00ff00;">ALOE VERA - Allroundtalent für Mensch und Tier !</span></strong></p>
-<p style="text-align:center;"><em><strong>&gt; Brandneues Ebook &lt;</strong></em></p>
-<p style="text-align:center;"><em><strong>- Inklusive BONUS Produkt -</strong></em></p>
-<p style="text-align:center;"><em><strong>--&lt;&gt;--&lt;&gt;--&lt;&gt;--</strong></em></p>
-<p style="text-align:center;"><span style="color:#008000;"><strong>Empfehle dieses neue eBook und Du erhältst 50% Provision!</strong></span></p>
-<p style="text-align:center;"><strong>--&lt;&gt;--&lt;&gt;--&lt;&gt;--</strong></p>
-<p style="text-align:center;"> </p>
-<p>Aloe-Vera, deiner Gesundheit zu Liebe!  </p>
-<p>Die Natur schenkte uns mit der Aloe eine der erstaunlichsten Pflanze auf unserer Erde.  </p>
-<p>Aloe-Vera ist für Frauen, Männer und Kinder, sowie Tiere geeignet.</p>
-<p> <em><strong>Was bekommen Sie in diesem Ebook „ALOE VERA - Allroundtalent für Mensch und Tier“:</strong></em></p>
-<p>&gt; Sie erhalten jede Menge Informationen über die Aloe-Vera, deren Eigenschaften, Einsatzgebiete, Wirkstoffe und Wirkungsweisen.</p>
-<p>&gt; In diesem Buch finden Sie eine Auflistung von über 210 Krankheiten, Krankheitsbildern und Verletzungen, wo Aloe-Vera erfolgreiche Anwendung gefunden hat. </p>
-<p>&gt; Sie bekommen viele allgemeine gesundheitliche Informationen und Tipps für sich und ihren Körper!</p>
-<p>&gt; Sie erfahren viel Hintergrundwissen</p>
-<p>&gt; In diesem Buch sind viele meiner persönlichen Erfahrungen eingebracht.  </p>
-<p> </p>
-<p><strong><span style="text-decoration:underline;">BONUS (Gratis dabei):</span></strong></p>
-<p><span style="background-color:#99cc00;"><strong>"45 Cocktail Rezepte mit ALOE-VERA"</strong></span></p>
-<p>( <span style="text-decoration:line-through;">Wert = 13,90 Euro</span> )</p>
-<p> </p>
-<p><em><strong>Weiters bekommst Du noch:</strong></em></p>
-<p><strong>&gt; </strong>Hohe Affiliateprovison von 50 %</p>
-<p>&gt; Erlaubnis zur Verwendung aller Werbemittel</p>
-<p> </p>
-<p><strong><span style="text-decoration:underline;">Einmaliger Sonderpreis:</span></strong></p>
-<p><strong>&gt;&gt; Das Ebook ist zur Zeit von 24,90 Euro auf</strong><strong>  6,90 Euro reduziert! &lt;&lt;</strong></p>
-<p><strong>&gt;&gt; Gratis Ebook - Wert 13,90 Euro &lt;&lt;</strong></p>
-<p style="text-align:center;"><span style="background-color:#99cc00;"><strong>28,90 Ersparniss für den Käufer</strong></span></p>
-<p> </p>
+**Vendor's marketplace description:** ALOE VERA - Allroundtalent für Mensch und Tier ! > Brandneues Ebook < - Inklusive BONUS Produkt - --<>--<>--<>-- Empfehle dieses neue eBook und Du erhältst 50% Provision! --<>--<>--<>-- Aloe-Vera, deiner Gesundheit zu Liebe! Die Natur schenkte uns mit der Aloe eine der erstaunlichsten Pflanze auf unserer Erde. Aloe-Vera ist für Frauen, Männer und Kinder, sowie Tiere geeignet. Was bekommen Sie in diesem Ebook „ALOE VERA - Allroundtalent für Mensch und Tier“: > Sie erhalten jede Menge Informationen über die Aloe-Vera, deren Eigenschaften, Einsatzgebiete, Wirkstoffe und Wirkungsweisen. > In diesem Buch finden Sie eine Auflistung von über 210 Krankheiten, Krankheitsbildern und Verletzungen, wo Aloe-Vera erfolgreiche Anwendung gefunden hat. > Sie bekommen viele allgemeine gesundheitliche Informationen und Tipps für sich und ihren Körper! > Sie erfahren viel Hintergrundwissen > In diesem Buch sind viele meiner persönlichen Erfahrungen eingebracht. BONUS (Gratis dabei): "45 Cocktail Rezepte mit ALOE-VERA" ( Wert = 13,90 Euro ) Weiters bekommst Du noch: > Hohe Affiliateprovison von 50 % > Erlaubnis zur Verwendung aller Werbemittel Einmaliger Sonderpreis: >> Das Ebook ist zur Zeit von 24,90 Euro auf 6,90 Euro reduziert! << >> Gratis Ebook - Wert 13,90 Euro << 28,90 Ersparniss für den Käufer
 
 ## 2. Links
 

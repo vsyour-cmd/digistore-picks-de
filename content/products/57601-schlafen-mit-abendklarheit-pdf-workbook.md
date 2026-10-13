@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Abendklarheit ist ein digitales 7-Tage-PDF-Workbook zur Selbstreflexion am Abend.</p>
-<p>Es hilft dir dabei, Gedanken zu sortieren, den Tag bewusster abzuschließen und eine ruhige Abendroutine für dich aufzubauen.</p>
-<p>Du erhältst:<br />• ein digitales PDF-Workbook<br />• 7 klare Reflexionstage<br />• einfache Schreibimpulse<br />• eine Abendkarte zum Ausdrucken</p>
-<p>Du kannst direkt nach dem Kauf mit dem Download starten.</p>
-<p>Hinweis:</p>
-<p>Dieses Workbook dient der Selbstreflexion und persönlichen Orientierung. Es ersetzt keine psychologische oder psychotherapeutische Beratung, Diagnose oder Behandlung und keine medizinische Beratung oder Behandlung.</p>
+**Vendor's marketplace description:** Abendklarheit ist ein digitales 7-Tage-PDF-Workbook zur Selbstreflexion am Abend. Es hilft dir dabei, Gedanken zu sortieren, den Tag bewusster abzuschließen und eine ruhige Abendroutine für dich aufzubauen. Du erhältst: • ein digitales PDF-Workbook • 7 klare Reflexionstage • einfache Schreibimpulse • eine Abendkarte zum Ausdrucken Du kannst direkt nach dem Kauf mit dem Download starten. Hinweis: Dieses Workbook dient der Selbstreflexion und persönlichen Orientierung. Es ersetzt keine psychologische oder psychotherapeutische Beratung, Diagnose oder Behandlung und keine medizinische Beratung oder Behandlung.
 
 ## 2. Links
 

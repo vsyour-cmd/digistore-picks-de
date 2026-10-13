@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Digitales Arbeitsbuch: Kauf- und Abo-Grenzen für KI-Agenten. Kern: ZAHLUNG ≠ VERPFLICHTUNG. Premium 59,80 €, 50 % Commission. Klare Salespage, Digistore24 Checkout. Bildungs-Workbook  keine Finanzberatung, keine Einkommensversprechen.</p>
+**Vendor's marketplace description:** Digitales Arbeitsbuch: Kauf- und Abo-Grenzen für KI-Agenten. Kern: ZAHLUNG ≠ VERPFLICHTUNG. Premium 59,80 €, 50 % Commission. Klare Salespage, Digistore24 Checkout. Bildungs-Workbook keine Finanzberatung, keine Einkommensversprechen.
 
 ## 2. Links
 

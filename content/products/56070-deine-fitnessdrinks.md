@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Liebe Affiliates, mit unserem eBook „5 sehr gute, aktuelle und einfach machbare Fitnessdrinks zum Selbermachen“ bieten wir euch ein unschlagbares Paket</h4>
-<p>⇓</p>
-<p><span style="color:#ff0000;"><strong>Der Rabattcode FITNESS ist bereits eingebaut!</strong></span></p>
-<hr />
-<h4>Hohe Conversion-Rates durch heiße Fitness-Themen, detaillierte Rezepte mit Nährwerten und Variationen, die Käufer direkt umsetzen.</h4>
-<p>⇓</p>
-<hr />
-<h3>Bei <strong>50% Provision pro Verkauf</strong></h3>
-<h3>Perfekt für Fitness-Blogs, YouTube-Kanäle oder Social-Media-Influencer.</h3>
-<p>⇓</p>
-<hr />
-<h4>Das Paket ist aktuell, einfach und liefert echten Mehrwert für begeisterte Käufer und wiederkehrende Verkäufe. Holt euch euren Promo-Link und maximiert eure Einnahmen!</h4>
+**Vendor's marketplace description:** Liebe Affiliates, mit unserem eBook „5 sehr gute, aktuelle und einfach machbare Fitnessdrinks zum Selbermachen“ bieten wir euch ein unschlagbares Paket ⇓ Der Rabattcode FITNESS ist bereits eingebaut! Hohe Conversion-Rates durch heiße Fitness-Themen, detaillierte Rezepte mit Nährwerten und Variationen, die Käufer direkt umsetzen. ⇓ Bei 50% Provision pro Verkauf Perfekt für Fitness-Blogs, YouTube-Kanäle oder Social-Media-Influencer. ⇓ Das Paket ist aktuell, einfach und liefert echten Mehrwert für begeisterte Käufer und wiederkehrende Verkäufe. Holt euch euren Promo-Link und maximiert eure Einnahmen!
 
 ## 2. Links
 

@@ -41,40 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit diesem liebevoll gestalteten Routine- und Wochenplaner für Kinder lernen die<br />Kleinen spielerisch, ihre täglichen Aufgaben und Abläufe selbstständig zu meistern –<br />vom Aufstehen bis zum Schlafengehen. Perfekt geeignet für Kindergarten- und<br />Grundschulkinder.</p>
-<p>Routinen machen Abläufe sichtbar und geben Orientierung.</p>
-<p>Kinder können erkennen, welche Schritte anstehen und was bereits erledigt ist.</p>
-<p>Das Umklappen oder Entfernen einzelner Karten kann kleine Erfolgserlebnisse<br />schaffen und Übergänge im Alltag erleichtern.</p>
-<div> </div>
-<p><strong>Enthalten sind:</strong></p>
-<ul>
-<li>
-<p>Morgenroutine (Vorder- und Rückseite),</p>
-</li>
-<li>
-<p>Abendroutine (Vorder- und Rückseite)</p>
-</li>
-<li>
-<p>Wochenplan, Erweiterung und Tagesanzeige</p>
-</li>
-<li>
-<p>Routinekarten für die Morgen- und Abendroutine und den Wochenplan</p>
-</li>
-<li>
-<p>Anleitung zum Verwenden und Gestalten</p>
-</li>
-</ul>
-<div> </div>
-<p>Die Vorlagen können nach dem Kauf direkt ausgedruckt und verwendet werden.</p>
-<p>Die Vorlagen werden ausgedruckt und anschließend individuell zusammengestellt.</p>
-<p>Einzelne Routinekarten können ausgeschnitten, angeordnet und befestigt werden –<br />zum Beispiel mit Klettpunkten.</p>
-<p>Für bessere Haltbarkeit können die Pläne laminiert oder gerahmt werden.</p>
-<p>Anschließend werden sie Sichtbar platziert, etwa in der Küche, im Flur oder im<br />Kinderzimmer.</p>
-<p> </p>
-<p><strong>Affiliate-Infos:</strong> 30 % Provision pro Verkauf.</p>
-<p>Wochen- und Routineplaner sind stark nachgefragte digitale Produkte und lassen sich besonders gut über Social Media präsentieren.</p>
-<p><strong>Produkt-Übersicht unter:</strong></p>
-<p>www.johannabuegler.de/routine-planer-kinder</p>
+**Vendor's marketplace description:** Mit diesem liebevoll gestalteten Routine- und Wochenplaner für Kinder lernen die Kleinen spielerisch, ihre täglichen Aufgaben und Abläufe selbstständig zu meistern – vom Aufstehen bis zum Schlafengehen. Perfekt geeignet für Kindergarten- und Grundschulkinder. Routinen machen Abläufe sichtbar und geben Orientierung. Kinder können erkennen, welche Schritte anstehen und was bereits erledigt ist. Das Umklappen oder Entfernen einzelner Karten kann kleine Erfolgserlebnisse schaffen und Übergänge im Alltag erleichtern. Enthalten sind: Morgenroutine (Vorder- und Rückseite), Abendroutine (Vorder- und Rückseite) Wochenplan, Erweiterung und Tagesanzeige Routinekarten für die Morgen- und Abendroutine und den Wochenplan Anleitung zum Verwenden und Gestalten Die Vorlagen können nach dem Kauf direkt ausgedruckt und verwendet werden. Die Vorlagen werden ausgedruckt und anschließend individuell zusammengestellt. Einzelne Routinekarten können ausgeschnitten, angeordnet und befestigt werden – zum Beispiel mit Klettpunkten. Für bessere Haltbarkeit können die Pläne laminiert oder gerahmt werden. Anschließend werden sie Sichtbar platziert, etwa in der Küche, im Flur oder im Kinderzimmer. Affiliate-Infos: 30 % Provision pro Verkauf. Wochen- und Routineplaner sind stark nachgefragte digitale Produkte und lassen sich besonders gut über Social Media präsentieren. Produkt-Übersicht unter: www.johannabuegler.de/routine-planer-kinder
 
 ## 2. Links
 

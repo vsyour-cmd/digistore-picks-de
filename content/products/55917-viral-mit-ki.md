@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2 style="text-align:center;">VIRAL MIT KI </h2>
-<p>„Viral mit KI“ ist ein praxisorientiertes E-Book, das zeigt, wie man mit Hilfe von KI Social-Media-Content erstellt und auf Plattformen wie Instagram, YouTube und TikTok Reichweite aufbaut.</p>
-<p>Der Guide richtet sich an Anfänger, Creator und Unternehmer, die ohne Kamera, ohne teures Equipment und ohne technische Vorkenntnisse virale Videos erstellen möchten.</p>
-<p>Im E-Book lernen Käufer unter anderem:</p>
-<ul>
-<li>
-<p>wie sie mit KI Social-Media-Videos erstellen</p>
-</li>
-<li>
-<p>welche Inhalte auf Reels, Shorts und TikTok viral gehen</p>
-</li>
-<li>
-<p>wie sie profitable Nischen finden</p>
-</li>
-<li>
-<p>und wie sie aus Reichweite Einnahmen generieren können</p>
-</li>
-</ul>
-<p>Zusätzlich enthält das Produkt Prompts, Tools und Strategien für den direkten Start.</p>
-<h4><span style="text-decoration:underline;color:#99cc00;"><strong>Affiliate-Hinweis:</strong></span><br />Der Funnel enthält mehrere Upsells – im gesamten Upsell-Prozess sind <strong>bis zu 210€ Provision pro Verkauf möglich.</strong></h4>
+**Vendor's marketplace description:** VIRAL MIT KI „Viral mit KI“ ist ein praxisorientiertes E-Book, das zeigt, wie man mit Hilfe von KI Social-Media-Content erstellt und auf Plattformen wie Instagram, YouTube und TikTok Reichweite aufbaut. Der Guide richtet sich an Anfänger, Creator und Unternehmer, die ohne Kamera, ohne teures Equipment und ohne technische Vorkenntnisse virale Videos erstellen möchten. Im E-Book lernen Käufer unter anderem: wie sie mit KI Social-Media-Videos erstellen welche Inhalte auf Reels, Shorts und TikTok viral gehen wie sie profitable Nischen finden und wie sie aus Reichweite Einnahmen generieren können Zusätzlich enthält das Produkt Prompts, Tools und Strategien für den direkten Start. Affiliate-Hinweis: Der Funnel enthält mehrere Upsells – im gesamten Upsell-Prozess sind bis zu 210€ Provision pro Verkauf möglich.
 
 ## 2. Links
 

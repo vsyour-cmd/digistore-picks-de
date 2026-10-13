@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>40 wachmachende Neurostreams</p>
-<ul>
-<li>10 mal "Sturm und Drang" - gegen Antriebslosigkeit (je 15 min)</li>
-<li>10 mal "Pure Lebendigkeit" - putscht dich auf (je 15 min)</li>
-<li>10 mal "Frühaufsteherbelohnung" - macht dich wach (je 15 min)</li>
-</ul>
-<p>Bonus: 10 mal "Gamma Hammer" - erzeugt gute Laune (je 30 min)</p>
-<p><strong>Sofort-Download.</strong></p>
-<p>Alle Neurostreams™ sind jederzeit auf <strong>unbegrenzt viele</strong> Geräte übertragbar und können <strong>beliebig oft</strong> angehört werden!</p>
-<p>Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux.</p>
-<p>Dateigröße: 800 MB</p>
-<p><strong>2 Jahre Produktsupport inklusive.</strong></p>
+**Vendor's marketplace description:** 40 wachmachende Neurostreams 10 mal "Sturm und Drang" - gegen Antriebslosigkeit (je 15 min) 10 mal "Pure Lebendigkeit" - putscht dich auf (je 15 min) 10 mal "Frühaufsteherbelohnung" - macht dich wach (je 15 min) Bonus: 10 mal "Gamma Hammer" - erzeugt gute Laune (je 30 min) Sofort-Download. Alle Neurostreams™ sind jederzeit auf unbegrenzt viele Geräte übertragbar und können beliebig oft angehört werden! Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux. Dateigröße: 800 MB 2 Jahre Produktsupport inklusive.
 
 ## 2. Links
 

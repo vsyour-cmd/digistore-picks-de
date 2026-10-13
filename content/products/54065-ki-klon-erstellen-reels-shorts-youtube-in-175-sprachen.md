@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>AI Video Content Studio –<br />Dein KI-Klon für Reels, Shorts &amp; YouTube –  in 175 Sprachen.</h3>
-<div>
-<div>
-<div>
-<div>
-<div><strong>Von Jyotima Flak, Onlinebusiness-Mentorin<br /><br />Erstelle hochwertige Reels, Shorts und YouTube-Videos in Rekordzeit, übersetze sie in über 170 Sprachen und steigere deine Reichweite global – alles mit deinem persönlichen KI-Klon.</strong></div>
-<div><strong><br /></strong>30 % Affiliate-Provision auf den Onlinekurs mit Mitgliederbereich, 3 Modulen und insgesamt 18 Tutorial-Videos. <strong><br /></strong></div>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p> </p>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** AI Video Content Studio – Dein KI-Klon für Reels, Shorts & YouTube – in 175 Sprachen. Von Jyotima Flak, Onlinebusiness-Mentorin Erstelle hochwertige Reels, Shorts und YouTube-Videos in Rekordzeit, übersetze sie in über 170 Sprachen und steigere deine Reichweite global – alles mit deinem persönlichen KI-Klon. 30 % Affiliate-Provision auf den Onlinekurs mit Mitgliederbereich, 3 Modulen und insgesamt 18 Tutorial-Videos.
 
 ## 2. Links
 

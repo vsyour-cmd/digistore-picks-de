@@ -41,33 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Starte jetzt mit deinem <strong>fix &amp; fertigen Online-Business</strong></h2>
-<h3>Kein Technikstress. Kein Rätselraten. Nur ein kompletter Fahrplan für deinen Erfolg.</h3>
-<p>Was du bekommst:</p>
-<p>✅ <strong>Dein eigenes, verkaufsstarkes Produkt</strong><br />(z. B. ein hochwertiger Online-Kurs – fertig erstellt und verkaufsbereit)</p>
-<p>✅ <strong>Ein professioneller Leadmagnet</strong><br />zur Leadgenerierung – ideal zur automatisierten Interessentengewinnung</p>
-<p>✅ <strong>Alle nötigen Seiten – bereits fertig aufgebaut:</strong></p>
-<ul>
-<li>
-<p>Verkaufsseite</p>
-</li>
-<li>
-<p>Dankeseite</p>
-</li>
-<li>
-<p>Upsell-Seite</p>
-</li>
-<li>
-<p>Partnerprogramm-Seite</p>
-</li>
-</ul>
-<p>✅ <strong>Eingerichtete E-Mail-Kampagne</strong><br />inkl. Auslieferung des Freebies + automatischer Aufbau von Vertrauen und Neugier auf den Kurs</p>
-<p>✅ <strong>Individuelle Einweisung in dein Business</strong><br />– damit du genau weißt, wie alles funktioniert<br />– mit klarem Fahrplan für deinen Erfolg<br />– ohne unnötige Technikprobleme</p>
-<p>✅<strong>Boni</strong></p>
-<p>-Einrichtung Verifizierung Domain und Email</p>
-<p>-Einrichtung Cookiebanner</p>
-<p>-Kompletter Systeme io Kurs</p>
-<p><strong>✅ Vorbereitet für den Verkauf über Digistore24</strong><br />Nur noch in Digistore anlegen (oder von mir ) und verkaufen.<br />Möchtest Du meine Serviceleistung in Anspruch nehmen, dann nutze den Rabbattcode"Komplett" und Du bekommst 50% Ersparnis -<a href="https://altersvorsorgevierzigplus.funnelcockpit.com/fertiges-onlinebusiness-werbemittel/" target="_blank" rel="noreferrer noopener">KLICK</a></p>
+**Vendor's marketplace description:** Starte jetzt mit deinem fix & fertigen Online-Business Kein Technikstress. Kein Rätselraten. Nur ein kompletter Fahrplan für deinen Erfolg. Was du bekommst: ✅ Dein eigenes, verkaufsstarkes Produkt (z. B. ein hochwertiger Online-Kurs – fertig erstellt und verkaufsbereit) ✅ Ein professioneller Leadmagnet zur Leadgenerierung – ideal zur automatisierten Interessentengewinnung ✅ Alle nötigen Seiten – bereits fertig aufgebaut: Verkaufsseite Dankeseite Upsell-Seite Partnerprogramm-Seite ✅ Eingerichtete E-Mail-Kampagne inkl. Auslieferung des Freebies + automatischer Aufbau von Vertrauen und Neugier auf den Kurs ✅ Individuelle Einweisung in dein Business – damit du genau weißt, wie alles funktioniert – mit klarem Fahrplan für deinen Erfolg – ohne unnötige Technikprobleme ✅ Boni -Einrichtung Verifizierung Domain und Email -Einrichtung Cookiebanner -Kompletter Systeme io Kurs ✅ Vorbereitet für den Verkauf über Digistore24 Nur noch in Digistore anlegen (oder von mir ) und verkaufen. Möchtest Du meine Serviceleistung in Anspruch nehmen, dann nutze den Rabbattcode"Komplett" und Du bekommst 50% Ersparnis - KLICK
 
 ## 2. Links
 

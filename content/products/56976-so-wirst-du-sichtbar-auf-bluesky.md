@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Reichweite aufbauen, eine engagierte Community binden und als Creator auf der X-Alternative wachsen</strong></p>
-<p>Creator, die heute auf Bluesky starten, haben einen Vorteil, den es auf Instagram oder X nie mehr geben wird: das frühe Chance-Fenster mit beispielloser organischer Reichweite. Auf einer Plattform, die auf dem AT-Protocol basiert, gibt es keinen Pay-to-Play-Algorithmus – wer guten Content produziert und echte Gespräche führt, wächst. Dieses E-Book zeigt dir, wie du Custom Feeds strategisch einsetzt, um in deiner Nische gefunden zu werden, wie du durch Starter Packs sofort eine relevante Followerschaft aufbaust und wie du die Konversationskultur nutzt, um aus losen Kontakten eine treue Community zu machen. Dazu: wie du dich als Creator für Kooperationen positionierst und das dezentrale Modell als Differenzierungsmerkmal nutzt.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Das frühe Chance-Fenster auf Bluesky verstehen und strategisch nutzen</li>
-<li>Custom Feeds erstellen, die dich in deiner Nische sichtbar machen</li>
-<li>Starter Packs als Wachstumsbeschleuniger einsetzen und selbst kuratieren</li>
-<li>Konversations-Wachstum: warum Replies auf Bluesky mehr zählen als Likes</li>
-<li>Aus Followern eine aktive Community mit echtem Engagement machen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Reichweite aufbauen, eine engagierte Community binden und als Creator auf der X-Alternative wachsen Creator, die heute auf Bluesky starten, haben einen Vorteil, den es auf Instagram oder X nie mehr geben wird: das frühe Chance-Fenster mit beispielloser organischer Reichweite. Auf einer Plattform, die auf dem AT-Protocol basiert, gibt es keinen Pay-to-Play-Algorithmus – wer guten Content produziert und echte Gespräche führt, wächst. Dieses E-Book zeigt dir, wie du Custom Feeds strategisch einsetzt, um in deiner Nische gefunden zu werden, wie du durch Starter Packs sofort eine relevante Followerschaft aufbaust und wie du die Konversationskultur nutzt, um aus losen Kontakten eine treue Community zu machen. Dazu: wie du dich als Creator für Kooperationen positionierst und das dezentrale Modell als Differenzierungsmerkmal nutzt. Das steckt drin: Das frühe Chance-Fenster auf Bluesky verstehen und strategisch nutzen Custom Feeds erstellen, die dich in deiner Nische sichtbar machen Starter Packs als Wachstumsbeschleuniger einsetzen und selbst kuratieren Konversations-Wachstum: warum Replies auf Bluesky mehr zählen als Likes Aus Followern eine aktive Community mit echtem Engagement machen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

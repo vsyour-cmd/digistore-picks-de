@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „GEO-Traffic“</strong></p>
-<p>Wie dich ChatGPT, Gemini &amp; Co. weiterempfehlen – Die neue Mundpropaganda läuft über KI-Assistenten. Lerne, wie du zur Quelle wirst, die ChatGPT, Gemini und Perplexity zitieren und weiterempfehlen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Warum KI-Empfehlungen die neue Währung sind</li>
-<li>Wie ChatGPT, Gemini und Perplexity Quellen wählen</li>
-<li>Strukturierte Daten und FAQ als KI-Futter nutzen</li>
-<li>Erwähnungen und echte Bewertungen aufbauen – ohne Fakes</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „GEO-Traffic“ Wie dich ChatGPT, Gemini & Co. weiterempfehlen – Die neue Mundpropaganda läuft über KI-Assistenten. Lerne, wie du zur Quelle wirst, die ChatGPT, Gemini und Perplexity zitieren und weiterempfehlen. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Warum KI-Empfehlungen die neue Währung sind Wie ChatGPT, Gemini und Perplexity Quellen wählen Strukturierte Daten und FAQ als KI-Futter nutzen Erwähnungen und echte Bewertungen aufbauen – ohne Fakes
 
 ## 2. Links
 

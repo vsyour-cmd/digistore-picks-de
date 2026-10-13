@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:left;">Affiliate Starter System – der einfache Einstieg ins Affiliate-Marketing mit Digistore24</p>
-<p style="text-align:left;">Dieser kompakte Einsteigerkurs zeigt Schritt für Schritt, wie Affiliate-Marketing mit Digistore24 funktioniert und wie das KI Print-on-Demand System als Affiliate beworben werden kann.</p>
-<p style="text-align:left;">Der Käufer lernt unter anderem:</p>
-<p style="text-align:left;">✓ Digistore24-Konto einrichten</p>
-<p style="text-align:left;">✓ Affiliate für das KI Print-on-Demand System werden</p>
-<p style="text-align:left;">✓ persönlichen Promolink erstellen und testen</p>
-<p style="text-align:left;">✓ die 60-%-Affiliate-Provision des Hauptprodukts verstehen</p>
-<p style="text-align:left;">✓ die zusätzliche Empfehlungsprovision verstehen</p>
-<p style="text-align:left;">✓ Werbetexte mit ChatGPT erstellen</p>
-<p style="text-align:left;">✓ Klicks, Verkäufe und Provisionen kontrollieren</p>
-<p style="text-align:left;">✓ einen 30-Tage-Aktionsplan umsetzen</p>
-<p style="text-align:left;">Bonus:</p>
-<p style="text-align:left;">30-Tage-Affiliate-Aktionsplan und Affiliate-Tracking-Tabelle.</p>
-<p style="text-align:left;">Das Produkt richtet sich besonders an Anfänger, die einen einfachen und nachvollziehbaren Einstieg in Digistore24 und Affiliate-Marketing suchen.</p>
-<p style="text-align:left;">Hinweis: Es werden keine bestimmten Einnahmen oder Verkaufserfolge garantiert.</p>
+**Vendor's marketplace description:** Affiliate Starter System – der einfache Einstieg ins Affiliate-Marketing mit Digistore24 Dieser kompakte Einsteigerkurs zeigt Schritt für Schritt, wie Affiliate-Marketing mit Digistore24 funktioniert und wie das KI Print-on-Demand System als Affiliate beworben werden kann. Der Käufer lernt unter anderem: ✓ Digistore24-Konto einrichten ✓ Affiliate für das KI Print-on-Demand System werden ✓ persönlichen Promolink erstellen und testen ✓ die 60-%-Affiliate-Provision des Hauptprodukts verstehen ✓ die zusätzliche Empfehlungsprovision verstehen ✓ Werbetexte mit ChatGPT erstellen ✓ Klicks, Verkäufe und Provisionen kontrollieren ✓ einen 30-Tage-Aktionsplan umsetzen Bonus: 30-Tage-Affiliate-Aktionsplan und Affiliate-Tracking-Tabelle. Das Produkt richtet sich besonders an Anfänger, die einen einfachen und nachvollziehbaren Einstieg in Digistore24 und Affiliate-Marketing suchen. Hinweis: Es werden keine bestimmten Einnahmen oder Verkaufserfolge garantiert.
 
 ## 2. Links
 

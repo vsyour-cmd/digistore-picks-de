@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Komm mit und lass dich inspirieren. Auf eine Weltreise mit einem ganz besonderen Ziel: Freiheit. <br /><br />Als Nadines Vater starb war sie am Boden zerstört. Ihre Trauer zog ihr aber nicht nur den Boden unter den Füßen weg, sie wurde zum Nährboden für einen ganz besonderen Plan. Ein Plan, der ihr Leben und das ihrer Familie für immer verändern sollte.<br /><br />"Wild &amp; Wundervoll" ist mehr als eine Reisedoku. Es ist ein Film über die Suche nach einem Lebensstil, der die Progatonisten wirklich glücklich macht. Diese Suche hat die Familie zu dritt gestartet und zu viert beendet.</p>
-<p>Nadine Filler und Konstantin Schlund haben einen Film voller Sehnsucht, Freude, Trauer und Hoffnung kreiert. Ein Plädoyer für die Vergänglichkeit und die Schönheit des Lebens.</p>
-<p>Länge des Films: ca. 105min.</p>
-<p> <br /><strong>Stream- und Downloadmöglichkeit erhalten Sie direkt nach Kauf per Mail.</strong><br /><br /><strong>Stream- und Downloadmöglichkeit sind 6 Monate gültig.</strong></p>
+**Vendor's marketplace description:** Komm mit und lass dich inspirieren. Auf eine Weltreise mit einem ganz besonderen Ziel: Freiheit. Als Nadines Vater starb war sie am Boden zerstört. Ihre Trauer zog ihr aber nicht nur den Boden unter den Füßen weg, sie wurde zum Nährboden für einen ganz besonderen Plan. Ein Plan, der ihr Leben und das ihrer Familie für immer verändern sollte. "Wild & Wundervoll" ist mehr als eine Reisedoku. Es ist ein Film über die Suche nach einem Lebensstil, der die Progatonisten wirklich glücklich macht. Diese Suche hat die Familie zu dritt gestartet und zu viert beendet. Nadine Filler und Konstantin Schlund haben einen Film voller Sehnsucht, Freude, Trauer und Hoffnung kreiert. Ein Plädoyer für die Vergänglichkeit und die Schönheit des Lebens. Länge des Films: ca. 105min. Stream- und Downloadmöglichkeit erhalten Sie direkt nach Kauf per Mail. Stream- und Downloadmöglichkeit sind 6 Monate gültig.
 
 ## 2. Links
 

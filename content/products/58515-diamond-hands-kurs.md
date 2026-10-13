@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der etwas andere Finanzkurs für Frauen, die ihr Geld endlich selbst in die Hand nehmen.<br /></strong><br />Dieser Kurs ist für Frauen, die Schritt für Schritt ihre finanzielle Unabhängigkeit aufbauen wollen, ihre Rentenlücke schließen oder sogar früher in die Rente starten möchten.<br /><br /><strong>8 Module &amp; Extras (63 Lektionen)</strong><br />Zugang zum Mitgliederbereich <br />Workbook zum Kurs<br />Bonus 1: Denke dich zum Geldmagneten<br />Bonus 2: die besten Analysten &amp; Info-Quellen<br />Bonus 3: meine 3 wichtigsten Moneytalks <br />Bonus 4: 2 Live-Zoomcalls mit Expertenteam</p>
-<p>Dein Preis: 697 €<br />(Gesamtwert inklusive Bonus-Kurse 3.482€)</p>
+**Vendor's marketplace description:** Der etwas andere Finanzkurs für Frauen, die ihr Geld endlich selbst in die Hand nehmen. Dieser Kurs ist für Frauen, die Schritt für Schritt ihre finanzielle Unabhängigkeit aufbauen wollen, ihre Rentenlücke schließen oder sogar früher in die Rente starten möchten. 8 Module & Extras (63 Lektionen) Zugang zum Mitgliederbereich Workbook zum Kurs Bonus 1: Denke dich zum Geldmagneten Bonus 2: die besten Analysten & Info-Quellen Bonus 3: meine 3 wichtigsten Moneytalks Bonus 4: 2 Live-Zoomcalls mit Expertenteam Dein Preis: 697 € (Gesamtwert inklusive Bonus-Kurse 3.482€)
 
 ## 2. Links
 

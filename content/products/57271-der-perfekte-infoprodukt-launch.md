@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Der perfekte Infoprodukt-Launch“</strong></p>
-<p>Von der Idee bis zum Verkauf – Ein gutes Produkt braucht einen durchdachten Launch. Angebot und Zielgruppe schärfen, das Produkt vorbereiten, die Launch-Phasen verstehen, im Pre-Launch Spannung aufbauen und mit einem klaren Funnel verkaufen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verstehen, was einen guten Launch ausmacht</li>
-<li>Idee, Angebot und Zielgruppe schärfen</li>
-<li>Die Launch-Phasen und den Funnel verstehen</li>
-<li>Widerrufsrecht und faire Versprechen beachten</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Der perfekte Infoprodukt-Launch“ Von der Idee bis zum Verkauf – Ein gutes Produkt braucht einen durchdachten Launch. Angebot und Zielgruppe schärfen, das Produkt vorbereiten, die Launch-Phasen verstehen, im Pre-Launch Spannung aufbauen und mit einem klaren Funnel verkaufen. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verstehen, was einen guten Launch ausmacht Idee, Angebot und Zielgruppe schärfen Die Launch-Phasen und den Funnel verstehen Widerrufsrecht und faire Versprechen beachten
 
 ## 2. Links
 

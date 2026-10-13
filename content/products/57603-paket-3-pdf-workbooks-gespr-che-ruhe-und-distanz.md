@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Digitales PDF-Workbook-Paket zum Download.</p>
-<p>Das Paket enthält drei PDF-Workbooks mit Reflexionsfragen, Schreibimpulsen und allgemeinen Gedankenmodellen zu schwierigen Gesprächen, persönlichen Grenzen, innerer Ruhe, Bewertungen, Sticheleien und bewusster Distanz.</p>
-<p>Die Produkte sind für Menschen gedacht, die ihre Reaktionen, Gedanken und Gefühle in alltäglichen Situationen besser verstehen und eigene Verhaltensmuster bewusster reflektieren möchten.</p>
-<p>Nach dem Kauf erhältst du die Dateien als digitalen Download über Digistore24.</p>
-<p>---</p>
-<p>Hinweis: Die Inhalte dienen der allgemeinen Selbstreflexion, persönlichen Weiterentwicklung und mentalen Wellness. Sie ersetzen keine psychologische, psychotherapeutische, medizinische, rechtliche oder sonstige professionelle Beratung. Es werden keine Diagnosen gestellt und keine bestimmten Ergebnisse, Verbesserungen, Heilungen oder therapeutischen Wirkungen versprochen.</p>
-<p>Rückgabe: 14 Tage gemäß Digistore24-Bestellformular.</p>
-<p>Es gilt eine Frist von 14 Tagen gemäß den Angaben im Digistore24-Bestellformular.</p>
+**Vendor's marketplace description:** Digitales PDF-Workbook-Paket zum Download. Das Paket enthält drei PDF-Workbooks mit Reflexionsfragen, Schreibimpulsen und allgemeinen Gedankenmodellen zu schwierigen Gesprächen, persönlichen Grenzen, innerer Ruhe, Bewertungen, Sticheleien und bewusster Distanz. Die Produkte sind für Menschen gedacht, die ihre Reaktionen, Gedanken und Gefühle in alltäglichen Situationen besser verstehen und eigene Verhaltensmuster bewusster reflektieren möchten. Nach dem Kauf erhältst du die Dateien als digitalen Download über Digistore24. --- Hinweis: Die Inhalte dienen der allgemeinen Selbstreflexion, persönlichen Weiterentwicklung und mentalen Wellness. Sie ersetzen keine psychologische, psychotherapeutische, medizinische, rechtliche oder sonstige professionelle Beratung. Es werden keine Diagnosen gestellt und keine bestimmten Ergebnisse, Verbesserungen, Heilungen oder therapeutischen Wirkungen versprochen. Rückgabe: 14 Tage gemäß Digistore24-Bestellformular. Es gilt eine Frist von 14 Tagen gemäß den Angaben im Digistore24-Bestellformular.
 
 ## 2. Links
 

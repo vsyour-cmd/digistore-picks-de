@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Jeder Gastronom benötigt bei der Gründung für sich oder für den Business Plan eine Finanzplanung. </p>
-<p>Promoten Sie das führende Excel-Tool der Finanzplanung von Consult Gastro. Es hat sich bereits in hunderten von Beratungsprojekten bewährt.</p>
-<p>Erhalten Sie 50% Provision! Im Bereich SEM und SEO ist alles erlaubt. </p>
-<p><strong>Die Kunden erhalten:</strong></p>
-<ul>
-<li>Excel Tool "Finanzplanung für die Gastronomie"</li>
-<li>Ausführliche Schritt für Schritt Video-Anleitung zum Ausfüllen des Tools</li>
-<li>Email Support bei Fragen</li>
-</ul>
-<p><strong>Warum ist die Finanzplanung wichtig?</strong></p>
-<p>Vor Gründung, zu Beginn aller Überlegungen und vor finanziellen Verpflichtungen, steht die Finanzplanung. Wenn Ihr Restaurant nicht nur ein teures Hobby sein soll, sondern Sie mit der Selbständigkeit Geld verdienen wollen, müssen Sie kalkulieren, ob es sich wirklich für Sie lohnt.</p>
-<p><strong>Welche Fragen bekommen die Gastronomen beantwortet? </strong></p>
-<p>Was müssen Sie mindestens verdienen, damit sich der Aufwand lohnt? Welche Fähigkeiten bringen Sie selber mit? Welche Ressourcen benötigen Sie darüber hinaus noch? Wie genau sieht Ihr Konzept aus? Welche Öffnungszeiten bieten Sie an? Wie hoch ist die Anfangsinvestition, um starten zu können? Das sind u.a. alles wichtige Fragen, die Sie sich automatisch stellen werden bei der Bearbeitung der Finanzplanung. Daher wird schon ersichtlich welchen Stellenwert diese Aufgabe hat. Sie setzen sich mit allen relevanten Themen auseinander.</p>
-<p><strong>Wie funktioniert das Tool?</strong></p>
-<p>Das Tool für den Finanzplan basiert auf Excel und führt Sie Schritt für Schritt zu Ihrem Finanzplan. Sie berechnen die Investitionen, erstellen Ihre Gewinn- und Verlustrechnung, überprüfen die Liquiditätsplanung und bestimmen den gesamten Kapitalbedarf. Die Rentabilitätsrechnung wird dann final vom Excel Finanzplan-Tool automatisch für Sie erstellt. Es generiert außerdem Grafiken, die Sie in den Businessplan übernehmen können.</p>
+**Vendor's marketplace description:** Jeder Gastronom benötigt bei der Gründung für sich oder für den Business Plan eine Finanzplanung. Promoten Sie das führende Excel-Tool der Finanzplanung von Consult Gastro. Es hat sich bereits in hunderten von Beratungsprojekten bewährt. Erhalten Sie 50% Provision! Im Bereich SEM und SEO ist alles erlaubt. Die Kunden erhalten: Excel Tool "Finanzplanung für die Gastronomie" Ausführliche Schritt für Schritt Video-Anleitung zum Ausfüllen des Tools Email Support bei Fragen Warum ist die Finanzplanung wichtig? Vor Gründung, zu Beginn aller Überlegungen und vor finanziellen Verpflichtungen, steht die Finanzplanung. Wenn Ihr Restaurant nicht nur ein teures Hobby sein soll, sondern Sie mit der Selbständigkeit Geld verdienen wollen, müssen Sie kalkulieren, ob es sich wirklich für Sie lohnt. Welche Fragen bekommen die Gastronomen beantwortet? Was müssen Sie mindestens verdienen, damit sich der Aufwand lohnt? Welche Fähigkeiten bringen Sie selber mit? Welche Ressourcen benötigen Sie darüber hinaus noch? Wie genau sieht Ihr Konzept aus? Welche Öffnungszeiten bieten Sie an? Wie hoch ist die Anfangsinvestition, um starten zu können? Das sind u.a. alles wichtige Fragen, die Sie sich automatisch stellen werden bei der Bearbeitung der Finanzplanung. Daher wird schon ersichtlich welchen Stellenwert diese Aufgabe hat. Sie setzen sich mit allen relevanten Themen auseinander. Wie funktioniert das Tool? Das Tool für den Finanzplan basiert auf Excel und führt Sie Schritt für Schritt zu Ihrem Finanzplan. Sie berechnen die Investitionen, erstellen Ihre Gewinn- und Verlustrechnung, überprüfen die Liquiditätsplanung und bestimmen den gesamten Kapitalbedarf. Die Rentabilitätsrechnung wird dann final vom Excel Finanzplan-Tool automatisch für Sie erstellt. Es generiert außerdem Grafiken, die Sie in den Businessplan übernehmen können.
 
 ## 2. Links
 

@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#00ccff;">Produkt (Über 5.000x verschenkt)</span></h2>
-<p>PDF Anleitung: Die Methode, mit der ich bis zu 246€ am Tag online verdiene.</p>
-<h2><span style="color:#00ccff;">Vorteile für dich als Affiliate</span></h2>
-<p>✔ Hilft jedem beim Online Geld verdienen &amp; Affiliate Marketing <strong>(100% passend) ★</strong> 4,6 Sterne Digistore Popularität</p>
-<p>✔ PDF selbst kostenlos downloaden und noch besser weiterempfehlen <strong>(100% ehrlich)</strong></p>
-<p>✔<strong> 80-100 % Provision</strong> auf Upsells+<a href="https://help.digistore24.com/de/articles/1176-lifetime-affiliate-regelung-aktivieren" target="_blank" rel="noreferrer noopener">Lifetime</a>: max. 50€, bald 100€ + Wettbewerb mit Preisen</p>
-<p>✔ <a href="https://chrisboenig.com/affiliateprogramm/" target="_blank" rel="noreferrer noopener"><strong>Große Auswahl optimierter Werbemittel</strong>:</a> klickstarke Bild- &amp; Textvorlagen die mir selbst Verkäufe brachten.</p>
-<h2><span style="color:#00ccff;">Verdienstaussicht als Affiliate </span></h2>
-<table style="border-color:#00D0FF;">
-<tbody>
-<tr>
-<td><strong>Deine Verkäufe</strong></td>
-<td><strong>Deine Einnahmen</strong></td>
-</tr>
-<tr>
-<td>1</td>
-<td>bis zu 50€</td>
-</tr>
-<tr>
-<td>100</td>
-<td>bis zu 5000€</td>
-</tr>
-</tbody>
-</table>
-<p><span style="background-color:#00ccff;color:#ffffff;"><strong><a style="background-color:#00ccff;color:#ffffff;" href="https://chrisboenig.com/affiliateprogramm/" target="_blank" rel="noreferrer noopener">Alle Infos zum Affiliate Programm ▶</a></strong></span></p>
+**Vendor's marketplace description:** Produkt (Über 5.000x verschenkt) PDF Anleitung: Die Methode, mit der ich bis zu 246€ am Tag online verdiene. Vorteile für dich als Affiliate ✔ Hilft jedem beim Online Geld verdienen & Affiliate Marketing (100% passend) ★ 4,6 Sterne Digistore Popularität ✔ PDF selbst kostenlos downloaden und noch besser weiterempfehlen (100% ehrlich) ✔ 80-100 % Provision auf Upsells+ Lifetime : max. 50€, bald 100€ + Wettbewerb mit Preisen ✔ Große Auswahl optimierter Werbemittel : klickstarke Bild- & Textvorlagen die mir selbst Verkäufe brachten. Verdienstaussicht als Affiliate Deine Verkäufe Deine Einnahmen 1 bis zu 50€ 100 bis zu 5000€ Alle Infos zum Affiliate Programm ▶
 
 ## 2. Links
 

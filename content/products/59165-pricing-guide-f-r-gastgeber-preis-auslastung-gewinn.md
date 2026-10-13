@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Für wen:</strong> Gastgeberinnen und Gastgeber, die ihren Preis bisher nach Gefühl setzen und merken, dass die Auslastung stimmt, aber am Jahresende zu wenig übrig bleibt – oder umgekehrt.</p>
-<p><strong>Was drin ist:</strong> Wie Preis, Auslastung und Gewinn zusammenhängen, wie man Saison- und Wochenendpreise sinnvoll staffelt, wo Rabatte helfen und wo sie Geld verbrennen, und woran man erkennt, dass der Preis zu niedrig ist.</p>
-<p><strong>Preis:</strong> 23,00 €  |  <strong>Provision:</strong> 40 %</p>
-<p><strong>Warum es sich verkauft:</strong> Preisgestaltung ist das Thema, bei dem Gastgeber am unsichersten sind und bei dem eine einzige Korrektur sich sofort in barem Geld auszahlt. Die Autorin vermietet drei eigene Ferienwohnungen.</p>
-<p><strong>Passende Kanäle:</strong> Blogs, Newsletter und Accounts rund um Ferienwohnung, Airbnb- und Booking-Gastgeber, Vermietung als Nebeneinkommen, Immobilien und Finanzen. Ganzjährig, mit Spitzen vor der Saisonplanung.</p>
+**Vendor's marketplace description:** Für wen: Gastgeberinnen und Gastgeber, die ihren Preis bisher nach Gefühl setzen und merken, dass die Auslastung stimmt, aber am Jahresende zu wenig übrig bleibt – oder umgekehrt. Was drin ist: Wie Preis, Auslastung und Gewinn zusammenhängen, wie man Saison- und Wochenendpreise sinnvoll staffelt, wo Rabatte helfen und wo sie Geld verbrennen, und woran man erkennt, dass der Preis zu niedrig ist. Preis: 23,00 € | Provision: 40 % Warum es sich verkauft: Preisgestaltung ist das Thema, bei dem Gastgeber am unsichersten sind und bei dem eine einzige Korrektur sich sofort in barem Geld auszahlt. Die Autorin vermietet drei eigene Ferienwohnungen. Passende Kanäle: Blogs, Newsletter und Accounts rund um Ferienwohnung, Airbnb- und Booking-Gastgeber, Vermietung als Nebeneinkommen, Immobilien und Finanzen. Ganzjährig, mit Spitzen vor der Saisonplanung.
 
 ## 2. Links
 

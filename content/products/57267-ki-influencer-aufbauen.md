@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „KI-Influencer aufbauen“</strong></p>
-<p>Eine Marke ohne Gesicht und ohne Vorkenntnisse – Influencer werden ohne eigenes Gesicht. Wie du einen virtuellen KI-Influencer von null aufbaust: Nische und Charakter, Werkzeuge für Bild, Stimme und Video, eine glaubwürdige Figur und echte Reichweite.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verstehen, was ein KI-Influencer wirklich ist</li>
-<li>Nische, Charakter und Markenkern entwickeln</li>
-<li>Bild, Stimme und Video mit KI erzeugen</li>
-<li>Transparenz, Werbekennzeichnung und Bildrechte</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „KI-Influencer aufbauen“ Eine Marke ohne Gesicht und ohne Vorkenntnisse – Influencer werden ohne eigenes Gesicht. Wie du einen virtuellen KI-Influencer von null aufbaust: Nische und Charakter, Werkzeuge für Bild, Stimme und Video, eine glaubwürdige Figur und echte Reichweite. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verstehen, was ein KI-Influencer wirklich ist Nische, Charakter und Markenkern entwickeln Bild, Stimme und Video mit KI erzeugen Transparenz, Werbekennzeichnung und Bildrechte
 
 ## 2. Links
 

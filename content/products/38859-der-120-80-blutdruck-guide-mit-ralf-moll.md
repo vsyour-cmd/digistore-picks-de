@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><strong>Tue Gutes und empfehle deinen Kunden und Freunden unseren 120/80 Blutdruck-Guide weiter!</strong></h4>
-<p><strong>Mit basischem 14-Tage Speiseplan und zahlreichen Videos zur Ernährung, Entspanung und Entsäuerung von Ralf Moll</strong></p>
-<p>Deine Vorteile:</p>
-<p><strong>-&gt; Gute Provisionen von 15% für alle Produkte</strong></p>
-<p><strong>-&gt; Garantiert etwas für deine Kunden dabei: Jeder muss mal fasten!</strong></p>
-<p><strong>-&gt; Getestet und optimiert: Bereits über 1.000 verkaufte Online-Kurse</strong></p>
-<p><strong>-&gt; Hohe Conversions und hoher Kundenwert: Profitiere mit an unseren optimierten Verkaufsfunneln und Riesennetzwerk</strong></p>
-<p><strong>-&gt; Schneller Support durch unseren Affiliate-Manager</strong></p>
-<p> </p>
-<p>Melde dich jetzt als Affiliate an und verdiene mit uns mit!</p>
-<p>Beste Fastengrüße<br />Ralf Moll</p>
+**Vendor's marketplace description:** Tue Gutes und empfehle deinen Kunden und Freunden unseren 120/80 Blutdruck-Guide weiter! Mit basischem 14-Tage Speiseplan und zahlreichen Videos zur Ernährung, Entspanung und Entsäuerung von Ralf Moll Deine Vorteile: -> Gute Provisionen von 15% für alle Produkte -> Garantiert etwas für deine Kunden dabei: Jeder muss mal fasten! -> Getestet und optimiert: Bereits über 1.000 verkaufte Online-Kurse -> Hohe Conversions und hoher Kundenwert: Profitiere mit an unseren optimierten Verkaufsfunneln und Riesennetzwerk -> Schneller Support durch unseren Affiliate-Manager Melde dich jetzt als Affiliate an und verdiene mit uns mit! Beste Fastengrüße Ralf Moll
 
 ## 2. Links
 

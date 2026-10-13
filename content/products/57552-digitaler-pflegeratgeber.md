@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Oft wird ein Pflegegrad falsch eingestuft oder abgelehnt, um dies zu vermeiden hilf der ausführliche Leitfaden über die Pflegegrade. </p>
-<p>Inhalt:</p>
-<p>Was ist ein Pflegegrad?</p>
-<p>Wie beantrage ich einen Pflegegrad?</p>
-<p>Was muss ich beachten. </p>
-<p>Welche Geldleistungen stehen jedem Pflegebedürftigen zu, wie verwende ich sie.</p>
-<p>In meine digitalen Ratgeber wird alles ausführlich beschrieben, um Pflegebedürftigen und Angehörigen zu helfen. </p>
+**Vendor's marketplace description:** Oft wird ein Pflegegrad falsch eingestuft oder abgelehnt, um dies zu vermeiden hilf der ausführliche Leitfaden über die Pflegegrade. Inhalt: Was ist ein Pflegegrad? Wie beantrage ich einen Pflegegrad? Was muss ich beachten. Welche Geldleistungen stehen jedem Pflegebedürftigen zu, wie verwende ich sie. In meine digitalen Ratgeber wird alles ausführlich beschrieben, um Pflegebedürftigen und Angehörigen zu helfen.
 
 ## 2. Links
 

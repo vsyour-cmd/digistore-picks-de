@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Der ultimative Steuer Guide Zypern</strong></h3>
-<p>Sicher dir jetzt den Steuer Guide Zypern. In diesem Spezialreport erfährst du alles zum Thema Steuern auf Zypern und im Finanzverkehr. Der Report beleuchtet dabei alle Aspekte, die für dich wichtig sind.  </p>
-<p>Erfahre jetzt wie du:</p>
-<ul><li><strong>Steuerfrei oder fast Steuerfrei auf Zypern leben kannst</strong></li>
-<li><strong>17 Jahre lang keinen Cent Steuern auf Kapitalerträge bezahlst</strong></li>
-<li><strong>17 Jahre Lang keinen Cent auf Auslandseinkommen</strong></li>
-<li><strong>Dividenden Weltweit steuerfrei vereinnahmen kannst</strong></li>
-<li><strong>Legal offshore Firmen führen kannst</strong></li>
-<li><strong>Die Steuerfreien Gewinne von offshore Firmen legal in dein Privatvermögen überführst</strong></li>
-<li><strong>Dir Steuerfrei ein Gehalt aus deiner Firma auszahlen kannst um die Vorzüge der gesetzlichen Sozialversicherung weiter zu nutzen</strong></li>
-</ul>
+**Vendor's marketplace description:** Der ultimative Steuer Guide Zypern Sicher dir jetzt den Steuer Guide Zypern. In diesem Spezialreport erfährst du alles zum Thema Steuern auf Zypern und im Finanzverkehr. Der Report beleuchtet dabei alle Aspekte, die für dich wichtig sind. Erfahre jetzt wie du: Steuerfrei oder fast Steuerfrei auf Zypern leben kannst 17 Jahre lang keinen Cent Steuern auf Kapitalerträge bezahlst 17 Jahre Lang keinen Cent auf Auslandseinkommen Dividenden Weltweit steuerfrei vereinnahmen kannst Legal offshore Firmen führen kannst Die Steuerfreien Gewinne von offshore Firmen legal in dein Privatvermögen überführst Dir Steuerfrei ein Gehalt aus deiner Firma auszahlen kannst um die Vorzüge der gesetzlichen Sozialversicherung weiter zu nutzen
 
 ## 2. Links
 

@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hochwertiger digitaler Notfallplaner für Familien, Paare und Angehörige – entwickelt, um im Ernstfall schnell Klarheit, Ordnung und Sicherheit zu schaffen.</p>
-<p>Der Planer hilft dabei, alle wichtigen Informationen zentral an einem Ort festzuhalten: persönliche Daten, Notfallkontakte, Versicherungen, Dokumente, Finanzen, digitale Zugänge, medizinische Informationen sowie persönliche Wünsche und Nachlassregelungen.</p>
-<p>Enthalten sind unter anderem:</p>
-<p>• Über 50 professionell gestaltete Seiten<br />• PDF im A4- und A5-Format<br />• Patientenverfügung &amp; Vorsorgevollmacht<br />• Medikamentenplan &amp; medizinische Vorsorge<br />• Verträge, Versicherungen &amp; Vermögensübersicht<br />• Digitale Konten, Passwörter &amp; wichtige Zugänge<br />• Testament, Nachlass &amp; letzte Wünsche<br />• Familien- &amp; Erinnerungsseiten</p>
-<p>Die Zielgruppe ist emotional sehr stark und ideal für Pinterest, Vorsorge-, Familien-, Organisations- und Sicherheits-Themen geeignet.</p>
-<p>Sofortdownload nach dem Kauf.</p>
+**Vendor's marketplace description:** Hochwertiger digitaler Notfallplaner für Familien, Paare und Angehörige – entwickelt, um im Ernstfall schnell Klarheit, Ordnung und Sicherheit zu schaffen. Der Planer hilft dabei, alle wichtigen Informationen zentral an einem Ort festzuhalten: persönliche Daten, Notfallkontakte, Versicherungen, Dokumente, Finanzen, digitale Zugänge, medizinische Informationen sowie persönliche Wünsche und Nachlassregelungen. Enthalten sind unter anderem: • Über 50 professionell gestaltete Seiten • PDF im A4- und A5-Format • Patientenverfügung & Vorsorgevollmacht • Medikamentenplan & medizinische Vorsorge • Verträge, Versicherungen & Vermögensübersicht • Digitale Konten, Passwörter & wichtige Zugänge • Testament, Nachlass & letzte Wünsche • Familien- & Erinnerungsseiten Die Zielgruppe ist emotional sehr stark und ideal für Pinterest, Vorsorge-, Familien-, Organisations- und Sicherheits-Themen geeignet. Sofortdownload nach dem Kauf.
 
 ## 2. Links
 

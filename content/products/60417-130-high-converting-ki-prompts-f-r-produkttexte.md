@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>130 High-Converting KI-Prompts für Shopify, Amazon &amp; Etsy Produkttexte 2026</strong></p>
-<p><br />Du willst mehr Verkäufe auf Shopify, Amazon oder Etsy, aber das Schreiben von Produktbeschreibungen kostet dich Stunden und Nerven? Dieses PDF liefert dir 130 sofort einsetzbare, professionelle KI-Prompts, die speziell für E-Commerce optimiert sind. Damit <br />erstellst du in wenigen Minuten:</p>
-<ul style="list-style-type:circle;">
-<li>Überzeugende Produkttitel</li>
-<li>SEO-optimierte Beschreibungen</li>
-<li>Emotionale und benefit-starke Bullet Points</li>
-<li>Lange, verkaufsstarke Produkttexte</li>
-<li>Amazon A+ Content</li>
-<li>Varianten- und Bundle-Beschreibungen</li>
-<li>Cross-Selling- &amp; Upsell-Texte</li>
-</ul>
-<p>Wichtig:<br />Die Prompts funktionieren nicht nur mit ChatGPT, sondern auch mit Claude, Gemini, Grok,<br />Perplexity und den meisten anderen aktuellen KIs 1:1.</p>
-<p>So nutzt du die Prompts optimal:</p>
-<ul>
-<li>Ersetze alle Platzhalter in eckigen Klammern <strong>[ ]</strong> durch deine Angaben.</li>
-<li>Je genauer du Produktname, Zielgruppe, Vorteile und Besonderheiten angibst, desto besser das Ergebnis.</li>
-<li>Lass dir immer 2 bis 3 Varianten generieren und wähle die stärkste aus.</li>
-<li>Passe den Ton an deine Marke an (z. B. „begeistert und freundlich“ oder <br />„professionell und vertrauenswürdig“).</li>
-</ul>
+**Vendor's marketplace description:** 130 High-Converting KI-Prompts für Shopify, Amazon & Etsy Produkttexte 2026 Du willst mehr Verkäufe auf Shopify, Amazon oder Etsy, aber das Schreiben von Produktbeschreibungen kostet dich Stunden und Nerven? Dieses PDF liefert dir 130 sofort einsetzbare, professionelle KI-Prompts, die speziell für E-Commerce optimiert sind. Damit erstellst du in wenigen Minuten: Überzeugende Produkttitel SEO-optimierte Beschreibungen Emotionale und benefit-starke Bullet Points Lange, verkaufsstarke Produkttexte Amazon A+ Content Varianten- und Bundle-Beschreibungen Cross-Selling- & Upsell-Texte Wichtig: Die Prompts funktionieren nicht nur mit ChatGPT, sondern auch mit Claude, Gemini, Grok, Perplexity und den meisten anderen aktuellen KIs 1:1. So nutzt du die Prompts optimal: Ersetze alle Platzhalter in eckigen Klammern [ ] durch deine Angaben. Je genauer du Produktname, Zielgruppe, Vorteile und Besonderheiten angibst, desto besser das Ergebnis. Lass dir immer 2 bis 3 Varianten generieren und wähle die stärkste aus. Passe den Ton an deine Marke an (z. B. „begeistert und freundlich“ oder „professionell und vertrauenswürdig“).
 
 ## 2. Links
 

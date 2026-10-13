@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hast du auch Klienten, die oft <em><strong>ratlos in die Welt</strong></em> blicken?</p>
-<p>Dann ist dieses Freebie ein tolles Geschenk für sie! Damit finden sie auf kurzem Weg erste Hilfe für Klarheit im Kopf.</p>
+**Vendor's marketplace description:** Hast du auch Klienten, die oft ratlos in die Welt blicken? Dann ist dieses Freebie ein tolles Geschenk für sie! Damit finden sie auf kurzem Weg erste Hilfe für Klarheit im Kopf.
 
 ## 2. Links
 

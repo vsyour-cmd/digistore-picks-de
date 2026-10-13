@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein klares PDF für Handwerker, die Preise ruhig vertreten wollen – ohne Rechtfertigung und ohne Kunden zu verlieren.</p>
+**Vendor's marketplace description:** Ein klares PDF für Handwerker, die Preise ruhig vertreten wollen – ohne Rechtfertigung und ohne Kunden zu verlieren.
 
 ## 2. Links
 

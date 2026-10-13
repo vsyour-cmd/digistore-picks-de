@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bullet Proof Anleitung um Ziele zu erreichen! </p>
+**Vendor's marketplace description:** Bullet Proof Anleitung um Ziele zu erreichen!
 
 ## 2. Links
 

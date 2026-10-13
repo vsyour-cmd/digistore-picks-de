@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses Handbuch begleitet Sie von der ersten Geschäftsidee bis zum fertigen Auftrag. Ob Kameraeinstellungen, Rechtliches, der Kita-Einsatz vor Ort, Online-Abwicklung oder Buchhaltung: Sie erhalten alle wichtigen Informationen, um Ihre Kita-Fotografie von A bis Z professionell und sicher umzusetzen.</p>
+**Vendor's marketplace description:** Dieses Handbuch begleitet Sie von der ersten Geschäftsidee bis zum fertigen Auftrag. Ob Kameraeinstellungen, Rechtliches, der Kita-Einsatz vor Ort, Online-Abwicklung oder Buchhaltung: Sie erhalten alle wichtigen Informationen, um Ihre Kita-Fotografie von A bis Z professionell und sicher umzusetzen.
 
 ## 2. Links
 

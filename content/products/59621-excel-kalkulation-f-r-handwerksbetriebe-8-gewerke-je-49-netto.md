@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Zielgruppe:</strong> Handwerksbetriebe mit 1 bis 20 Mitarbeitern, die Angebote heute in Word tippen oder in einer selbstgebauten Excel-Liste rechnen. Acht Gewerke: Elektro, SHK, Trockenbau, Maler, Fliesen, Dach, Garten- und Landschaftsbau, Maurer.</p>
-<p><strong>Das Produkt:</strong> eine .xlsx-Datei je Gewerk mit fertigem Leistungskatalog (25 bis 41 Leistungen mit Materialpreis und Zeitwert). Der Betrieb wählt Leistung und Menge, die Datei rechnet Material, Lohn und Zuschläge und druckt ein fertiges Kundenangebot auf A4. Keine Makros, kein Abo, keine Cloud.</p>
-<p><strong>Warum es verkauft:</strong></p>
-<ul>
-<li>Konkreter Nutzen statt Versprechen: Das Ergebnis ist ein Angebot, das der Betrieb noch am selben Tag verschicken kann.</li>
-<li>Kostenlose Testversion als Einstieg — zehn Positionen, gekürzter Katalog.</li>
-<li>Einmalpreis von 49 € netto, kein Abo-Erklärungsbedarf.</li>
-<li>Musterangebot als PDF auf jeder Verkaufsseite.</li>
-</ul>
-<p><strong>Passende Reichweiten:</strong> Handwerker-Communitys und Fachforen, YouTube-Kanäle zu Handwerk und Selbstständigkeit, Newsletter zur Betriebsführung, Gründer- und Steuerberatung im Handwerk, regionale Innungsnetzwerke.</p>
-<p><strong>Provision:</strong> 30 % je Verkauf. Werbemittel (Banner, Textlinks, Musterangebote als PDF) über support@meisterblatt.de.</p>
-<p><strong>Nicht erlaubt:</strong> bezahlte Suchanzeigen auf den Markennamen „Meisterblatt“, Gutschein- und Cashback-Seiten, unaufgeforderte E-Mails, eigene Aussagen über Funktionen oder Ersparnisse, die nicht auf den Verkaufsseiten stehen. Das Angebot richtet sich ausschließlich an Unternehmer im Sinne des § 14 BGB. Bitte bewerben Sie es nicht gegenüber Verbrauchern.</p>
+**Vendor's marketplace description:** Zielgruppe: Handwerksbetriebe mit 1 bis 20 Mitarbeitern, die Angebote heute in Word tippen oder in einer selbstgebauten Excel-Liste rechnen. Acht Gewerke: Elektro, SHK, Trockenbau, Maler, Fliesen, Dach, Garten- und Landschaftsbau, Maurer. Das Produkt: eine .xlsx-Datei je Gewerk mit fertigem Leistungskatalog (25 bis 41 Leistungen mit Materialpreis und Zeitwert). Der Betrieb wählt Leistung und Menge, die Datei rechnet Material, Lohn und Zuschläge und druckt ein fertiges Kundenangebot auf A4. Keine Makros, kein Abo, keine Cloud. Warum es verkauft: Konkreter Nutzen statt Versprechen: Das Ergebnis ist ein Angebot, das der Betrieb noch am selben Tag verschicken kann. Kostenlose Testversion als Einstieg — zehn Positionen, gekürzter Katalog. Einmalpreis von 49 € netto, kein Abo-Erklärungsbedarf. Musterangebot als PDF auf jeder Verkaufsseite. Passende Reichweiten: Handwerker-Communitys und Fachforen, YouTube-Kanäle zu Handwerk und Selbstständigkeit, Newsletter zur Betriebsführung, Gründer- und Steuerberatung im Handwerk, regionale Innungsnetzwerke. Provision: 30 % je Verkauf. Werbemittel (Banner, Textlinks, Musterangebote als PDF) über support@meisterblatt.de. Nicht erlaubt: bezahlte Suchanzeigen auf den Markennamen „Meisterblatt“, Gutschein- und Cashback-Seiten, unaufgeforderte E-Mails, eigene Aussagen über Funktionen oder Ersparnisse, die nicht auf den Verkaufsseiten stehen. Das Angebot richtet sich ausschließlich an Unternehmer im Sinne des § 14 BGB. Bitte bewerben Sie es nicht gegenüber Verbrauchern.
 
 ## 2. Links
 

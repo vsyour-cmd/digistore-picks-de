@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Im ersten deutschsprachigen Video-Training "Einführung in NinjaTrader 8" erfahren Sie in über <strong>8 Stunden Videomaterial</strong>, wie Sie mit <strong>NinjaTrader 8</strong> umgehen.</p>
-<p><br />Von der Installation, zur Datenanbindung über Charting, MarketReplay, bis hin zur Erstellung eines <strong>profitablen Handelssystems</strong> wird in insgesamt <strong>16 Videos</strong> alles vermittelt, um mit NinjaTrader 8 erfolgreich zu Traden.</p>
-<p>Zudem erhalten Sie den <strong>Sourcecode des Handelssystems</strong>, den Sie im StrategyBuilder erweitern und nach Ihren Vorstellungen anpassen können.</p>
+**Vendor's marketplace description:** Im ersten deutschsprachigen Video-Training "Einführung in NinjaTrader 8" erfahren Sie in über 8 Stunden Videomaterial , wie Sie mit NinjaTrader 8 umgehen. Von der Installation, zur Datenanbindung über Charting, MarketReplay, bis hin zur Erstellung eines profitablen Handelssystems wird in insgesamt 16 Videos alles vermittelt, um mit NinjaTrader 8 erfolgreich zu Traden. Zudem erhalten Sie den Sourcecode des Handelssystems , den Sie im StrategyBuilder erweitern und nach Ihren Vorstellungen anpassen können.
 
 ## 2. Links
 

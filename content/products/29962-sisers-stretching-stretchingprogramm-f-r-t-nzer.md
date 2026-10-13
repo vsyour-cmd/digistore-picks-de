@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#ff99cc;"><strong>Sisers Stretching - das erste deutsche Online Stretchingprogramm</strong></span></p>
-<p>Den Traum von Flexibilität leben: Mit ganz viel Motivation, intensiven Flexibilitytrainings, Tipps &amp; Tricks, akrobatischen Übungsvideos, Stretching-Challenges, Specials, ein 8 Wochen Spagatprogramm und noch viel mehr erreichst du deine flexy Ziele! <strong>#makeyourdreamscometrue</strong></p>
-<p> </p>
-<ul>
-<li>Über 200 Stretchingeinheiten perfekt zum Mitmachen</li>
-<li>Stretche wann &amp; wo du willst</li>
-<li>Individuelles Programm für Anfänger und Fortgeschrittene</li>
-<li>Regelmäßige Live Stretchings mit allen Mitgliedern</li>
-<li>Jede Menge Motivation &amp; Tipps für dein Stretching</li>
-</ul>
-<p> </p>
-<p><em>Mehr Infos direkt unter <a href="http://www.sisers-stretching.at">www.sisers-stretching.at</a> </em></p>
+**Vendor's marketplace description:** Sisers Stretching - das erste deutsche Online Stretchingprogramm Den Traum von Flexibilität leben: Mit ganz viel Motivation, intensiven Flexibilitytrainings, Tipps & Tricks, akrobatischen Übungsvideos, Stretching-Challenges, Specials, ein 8 Wochen Spagatprogramm und noch viel mehr erreichst du deine flexy Ziele! #makeyourdreamscometrue Über 200 Stretchingeinheiten perfekt zum Mitmachen Stretche wann & wo du willst Individuelles Programm für Anfänger und Fortgeschrittene Regelmäßige Live Stretchings mit allen Mitgliedern Jede Menge Motivation & Tipps für dein Stretching Mehr Infos direkt unter www.sisers-stretching.at
 
 ## 2. Links
 

@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>"Mit Lead Magneten Online Geld verdienen"</strong></span>wird statt € 29,90, kostenlos angeboten</p>
-<p>Deine Kunden werden mit diesem E-Book folgendes lernen:</p>
-<ul>
-<li>Kostenlose Leads in wenigen Tagen mit eigenem Lead Magnet generieren</li>
-<li>Tolle Provisionen mit Ihrem eigenen Lead Magnet</li>
-<li>Optimierung der Lead-Generierung mit wertvollen Tipps und Tricks</li>
-</ul>
-<p>Du hast mit <strong>diesem E-Book ein Geschenk für deine Community</strong> und wirst am<strong> kompletten Sales-Funnel beteiligt!</strong></p>
-<p>Hohe Conversion, da es für den Kunden kostenlos ist und einen Bonus Kurs dazu gibt.</p>
-<h4><span style="background-color:#ffff00;">70% Provision!</span></h4>
-<p>Beteiligt an Up- und Downsell<br /><span style="background-color:#ffff00;"><strong>Über 220€ im Funnel für dich möglich!</strong></span></p>
-<p><span style="background-color:#ffff00;"><strong>Darunter auch Abos mit <a><em>wiederkehrenden</em> Einnahmen!</a></strong></span></p>
+**Vendor's marketplace description:** "Mit Lead Magneten Online Geld verdienen" wird statt € 29,90, kostenlos angeboten Deine Kunden werden mit diesem E-Book folgendes lernen: Kostenlose Leads in wenigen Tagen mit eigenem Lead Magnet generieren Tolle Provisionen mit Ihrem eigenen Lead Magnet Optimierung der Lead-Generierung mit wertvollen Tipps und Tricks Du hast mit diesem E-Book ein Geschenk für deine Community und wirst am kompletten Sales-Funnel beteiligt! Hohe Conversion, da es für den Kunden kostenlos ist und einen Bonus Kurs dazu gibt. 70% Provision! Beteiligt an Up- und Downsell Über 220€ im Funnel für dich möglich! Darunter auch Abos mit wiederkehrenden Einnahmen!
 
 ## 2. Links
 

@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>in sarkastisches Mittelalter‑Fantasy‑E‑Book mit extrem hoher Leserbindung.</strong> Ideal für Zielgruppen, die Humor, Magie, bissige Protagonistinnen und chaotische Abenteuer lieben.</p>
-<p><strong>Warum Affiliates dieses Produkt bewerben sollten:</strong></p>
-<ul>
-<li>
-<p>Hohe Conversion durch humorvollen, einzigartigen Hook</p>
-</li>
-<li>
-<p>Klar definierte Zielgruppe (Fantasy + Comedy)</p>
-</li>
-<li>
-<p>Sofortdownload → keine Rücksendungen</p>
-</li>
-<li>
-<p>Attraktive Provision: <strong>50 % pro Verkauf</strong></p>
-</li>
-<li>
-<p>Bonus‑Szene inklusive → steigert den wahrgenommenen Wert</p>
-</li>
-<li>
-<p>Perfekt für Social Media, BookTok, Newsletter, Blogs und Fantasy‑Communities</p>
-</li>
-</ul>
-<p><strong>Zielgruppe:</strong> Fans von Terry Pratchett, schwarzem Humor, Hexen‑Stories, Fantasy‑Comedy und chaotischen Abenteuern.</p>
-<p><strong>Produktformat:</strong> Digitales E‑Book (PDF), sofort verfügbar.</p>
+**Vendor's marketplace description:** in sarkastisches Mittelalter‑Fantasy‑E‑Book mit extrem hoher Leserbindung. Ideal für Zielgruppen, die Humor, Magie, bissige Protagonistinnen und chaotische Abenteuer lieben. Warum Affiliates dieses Produkt bewerben sollten: Hohe Conversion durch humorvollen, einzigartigen Hook Klar definierte Zielgruppe (Fantasy + Comedy) Sofortdownload → keine Rücksendungen Attraktive Provision: 50 % pro Verkauf Bonus‑Szene inklusive → steigert den wahrgenommenen Wert Perfekt für Social Media, BookTok, Newsletter, Blogs und Fantasy‑Communities Zielgruppe: Fans von Terry Pratchett, schwarzem Humor, Hexen‑Stories, Fantasy‑Comedy und chaotischen Abenteuern. Produktformat: Digitales E‑Book (PDF), sofort verfügbar.
 
 ## 2. Links
 

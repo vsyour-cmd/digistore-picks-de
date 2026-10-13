@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Parkinson Reset Kurs – Dein Weg zu Stabilität, Energie &amp; Lebensfreude</h2>
-<p>Der Parkinson Reset ist kein trockenes Fachprogramm, sondern ein emotionaler, alltagstauglicher Reset-Weg: Schritt für Schritt zu mehr Struktur, Aktivierung und neuer Zuversicht. Du bekommst praxisnahe Übungen für mehr Stabilität und Beweglichkeit, mentale Reset-Impulse für Fokus und Mut sowie verständliche Bausteine rund um Ernährung, Darmgesundheit und Alltag. Ohne leere Versprechen – dafür mit einem klaren System, das viele als unterstützend erleben. Für Menschen mit Parkinson (und Angehörige), die sagen: „Ich beginne neu – jeden Tag ein kleiner Schritt.“</p>
+**Vendor's marketplace description:** Parkinson Reset Kurs – Dein Weg zu Stabilität, Energie & Lebensfreude Der Parkinson Reset ist kein trockenes Fachprogramm, sondern ein emotionaler, alltagstauglicher Reset-Weg: Schritt für Schritt zu mehr Struktur, Aktivierung und neuer Zuversicht. Du bekommst praxisnahe Übungen für mehr Stabilität und Beweglichkeit, mentale Reset-Impulse für Fokus und Mut sowie verständliche Bausteine rund um Ernährung, Darmgesundheit und Alltag. Ohne leere Versprechen – dafür mit einem klaren System, das viele als unterstützend erleben. Für Menschen mit Parkinson (und Angehörige), die sagen: „Ich beginne neu – jeden Tag ein kleiner Schritt.“
 
 ## 2. Links
 

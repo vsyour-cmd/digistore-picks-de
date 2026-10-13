@@ -41,42 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>INFINITY SPORT PRO</strong></h2>
-<p><strong>INFINITY SPORT PRO ist eine KI-gestützte Web-App und ein digitaler Sportcoach für Menschen, die Training, Ernährung, Regeneration und Leistungsentwicklung gezielter planen und analysieren möchten.</strong></p>
-<p>INFINITY SPORT unterstützt unter anderem bei:</p>
-<ul>
-<li>Trainingsplanung und Trainingsoptimierung</li>
-<li>Muskelaufbau und Krafttraining</li>
-<li>Ausdauer und Leistungsentwicklung</li>
-<li>Ernährung und Zielerreichung</li>
-<li>Regeneration und Belastungssteuerung</li>
-<li>Analyse von Trainingsfortschritten</li>
-<li>Anpassung des Trainings an die aktuelle Situation</li>
-</ul>
-<h3><strong>So funktioniert INFINITY SPORT:</strong></h3>
-<p>Der Nutzer wählt zunächst die relevanten Angaben und Rahmenbedingungen aus und beschreibt anschließend seine persönliche Situation, sein Ziel und besondere Umstände. Auf dieser Grundlage erstellt INFINITY SPORT eine individuelle Auswertung und hilft dabei, die nächsten sinnvollen Schritte einzuordnen.</p>
-<h3><strong>So wird das Analyse-Guthaben verwendet:</strong></h3>
-<ul>
-<li><strong>Neue SPORT-Analyse:</strong> 1 Analyse</li>
-<li><strong>Analyse als Thema speichern und aktivieren:</strong> 2 Analysen</li>
-<li><strong>Gespeichertes Thema fortsetzen:</strong> 1 Analyse je Fortsetzung</li>
-<li><strong>Lebensmittelscanner / Rezept-Idee:</strong> 2 Analysen</li>
-<li><strong>Neuen Trainingsplan speichern und aktivieren:</strong> 3 Analysen</li>
-<li><strong>Bestehenden Trainingsplan fortführen oder anpassen:</strong> 1 Analyse je Fortsetzung</li>
-</ul>
-<p>Das reine Ansehen bereits vorhandener Ergebnisse oder gespeicherter Trainingspläne verbraucht kein zusätzliches Analyse-Guthaben.</p>
-<h3><strong>INFINITY SPORT PRO enthält:</strong></h3>
-<ul>
-<li>50 Analysen + 5 Analysen zusätzlich</li>
-<li>bis zu 3 gleichzeitig verfügbare Trainingspläne</li>
-<li><strong>5 Nutzungen des Lebensmittelscanners innerhalb eines 7-Tage-Fensters inklusive, maximal 1 Nutzung pro Tag</strong></li>
-<li>persönliches INFINITY-SPORT-Konto</li>
-<li>Guthaben ohne Abonnement</li>
-<li>12 Monate gültig</li>
-</ul>
-<h3><strong>Technische Nutzung:</strong></h3>
-<p>INFINITY SPORT wird als <strong>Web-App direkt über den Internetbrowser</strong> genutzt. Eine Installation ist nicht erforderlich. Für die Nutzung wird eine <strong>Internetverbindung benötigt; dabei kann Datenvolumen verbraucht werden.</strong></p>
-<p><strong>Für Affiliates:</strong> INFINITY SPORT PRO ist eine browserbasierte KI-Sportanwendung für Freizeit-, Fitness- und ambitionierte Sportler. Das Produkt kann nach dem Kauf direkt genutzt werden und kombiniert individuelle Sportanalysen mit Trainingsplanung und Lebensmittelscanner.</p>
+**Vendor's marketplace description:** INFINITY SPORT PRO INFINITY SPORT PRO ist eine KI-gestützte Web-App und ein digitaler Sportcoach für Menschen, die Training, Ernährung, Regeneration und Leistungsentwicklung gezielter planen und analysieren möchten. INFINITY SPORT unterstützt unter anderem bei: Trainingsplanung und Trainingsoptimierung Muskelaufbau und Krafttraining Ausdauer und Leistungsentwicklung Ernährung und Zielerreichung Regeneration und Belastungssteuerung Analyse von Trainingsfortschritten Anpassung des Trainings an die aktuelle Situation So funktioniert INFINITY SPORT: Der Nutzer wählt zunächst die relevanten Angaben und Rahmenbedingungen aus und beschreibt anschließend seine persönliche Situation, sein Ziel und besondere Umstände. Auf dieser Grundlage erstellt INFINITY SPORT eine individuelle Auswertung und hilft dabei, die nächsten sinnvollen Schritte einzuordnen. So wird das Analyse-Guthaben verwendet: Neue SPORT-Analyse: 1 Analyse Analyse als Thema speichern und aktivieren: 2 Analysen Gespeichertes Thema fortsetzen: 1 Analyse je Fortsetzung Lebensmittelscanner / Rezept-Idee: 2 Analysen Neuen Trainingsplan speichern und aktivieren: 3 Analysen Bestehenden Trainingsplan fortführen oder anpassen: 1 Analyse je Fortsetzung Das reine Ansehen bereits vorhandener Ergebnisse oder gespeicherter Trainingspläne verbraucht kein zusätzliches Analyse-Guthaben. INFINITY SPORT PRO enthält: 50 Analysen + 5 Analysen zusätzlich bis zu 3 gleichzeitig verfügbare Trainingspläne 5 Nutzungen des Lebensmittelscanners innerhalb eines 7-Tage-Fensters inklusive, maximal 1 Nutzung pro Tag persönliches INFINITY-SPORT-Konto Guthaben ohne Abonnement 12 Monate gültig Technische Nutzung: INFINITY SPORT wird als Web-App direkt über den Internetbrowser genutzt. Eine Installation ist nicht erforderlich. Für die Nutzung wird eine Internetverbindung benötigt; dabei kann Datenvolumen verbraucht werden. Für Affiliates: INFINITY SPORT PRO ist eine browserbasierte KI-Sportanwendung für Freizeit-, Fitness- und ambitionierte Sportler. Das Produkt kann nach dem Kauf direkt genutzt werden und kombiniert individuelle Sportanalysen mit Trainingsplanung und Lebensmittelscanner.
 
 ## 2. Links
 

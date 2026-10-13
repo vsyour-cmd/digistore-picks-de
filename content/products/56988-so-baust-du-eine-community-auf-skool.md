@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Reichweite in eine loyale Skool-Community verwandeln – mit Gamification, Kursen und Membership-Einnahmen</strong></p>
-<p>Als Influencer hast du Reichweite – aber eine Skool-Community gibt dir etwas, das Social-Media-Follower nicht bieten können: echte Bindung, direkte Kommunikation und wiederkehrende Einnahmen. Dieses E-Book zeigt dir, wie du deine bestehende Zielgruppe auf Skool migrierst oder parallel aufbaust, wie Gamification mit Leaderboard und Levels deine Community aktiv und süchtig hält und wie du über Kurse und kostenpflichtige Memberships ein stabiles zweites Einkommensstandbein aufbaust. Du lernst, wie du deine Community von außen über bestehende Kanäle befüllst, wie du Onboarding so gestaltest, dass neue Mitglieder sofort aktiv werden, und wie du den Übergang von kostenloser zu kostenpflichtiger Gruppe souverän kommunizierst.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Skool-Gruppe aufbauen und mit bestehendem Publikum befüllen</li>
-<li>Gamification meistern: Leaderboard und Levels für maximale Community-Aktivität</li>
-<li>Kostenlose vs. kostenpflichtige Bereiche strategisch trennen</li>
-<li>Kurse als Mehrwert-Anker integrieren, die den Membership-Preis rechtfertigen</li>
-<li>Community von außen befüllen: Social Media, Newsletter und Funnels</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Reichweite in eine loyale Skool-Community verwandeln – mit Gamification, Kursen und Membership-Einnahmen Als Influencer hast du Reichweite – aber eine Skool-Community gibt dir etwas, das Social-Media-Follower nicht bieten können: echte Bindung, direkte Kommunikation und wiederkehrende Einnahmen. Dieses E-Book zeigt dir, wie du deine bestehende Zielgruppe auf Skool migrierst oder parallel aufbaust, wie Gamification mit Leaderboard und Levels deine Community aktiv und süchtig hält und wie du über Kurse und kostenpflichtige Memberships ein stabiles zweites Einkommensstandbein aufbaust. Du lernst, wie du deine Community von außen über bestehende Kanäle befüllst, wie du Onboarding so gestaltest, dass neue Mitglieder sofort aktiv werden, und wie du den Übergang von kostenloser zu kostenpflichtiger Gruppe souverän kommunizierst. Das steckt drin: Skool-Gruppe aufbauen und mit bestehendem Publikum befüllen Gamification meistern: Leaderboard und Levels für maximale Community-Aktivität Kostenlose vs. kostenpflichtige Bereiche strategisch trennen Kurse als Mehrwert-Anker integrieren, die den Membership-Preis rechtfertigen Community von außen befüllen: Social Media, Newsletter und Funnels Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

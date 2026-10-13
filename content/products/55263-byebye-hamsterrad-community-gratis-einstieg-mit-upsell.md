@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Verschenke den Zugang zur <strong>Bye Bye Hamsterrad Community</strong> und profitiere von einem vollständig vorbereiteten Funnel mit nachhaltigen Folgeumsätzen.</p>
-<p> </p>
-<ul>
-<li>
-<p>Kostenloser Community-Zugang (sehr niedrige Einstiegshürde)</p>
-</li>
-<li>
-<p>Automatisierter Funnel im Hintergrund</p>
-</li>
-<li>
-<p>Upsell in die <strong>Gold-Mitgliedschaft (Abo-Modell)</strong></p>
-</li>
-<li>
-<p><strong>30 % wiederkehrende Provision</strong> (monatlich &amp; jährlich)</p>
-</li>
-<li>
-<p>Provision auf <strong>alle weiteren Kurs- und Produkt-Upsells</strong></p>
-</li>
-</ul>
-<p> </p>
-<p><strong>Verschenke hochwertige Inhalte, liefere echten Mehrwert und verdiene nachhaltig am Upsell-Funnel mit.</strong></p>
+**Vendor's marketplace description:** Verschenke den Zugang zur Bye Bye Hamsterrad Community und profitiere von einem vollständig vorbereiteten Funnel mit nachhaltigen Folgeumsätzen. Kostenloser Community-Zugang (sehr niedrige Einstiegshürde) Automatisierter Funnel im Hintergrund Upsell in die Gold-Mitgliedschaft (Abo-Modell) 30 % wiederkehrende Provision (monatlich & jährlich) Provision auf alle weiteren Kurs- und Produkt-Upsells Verschenke hochwertige Inhalte, liefere echten Mehrwert und verdiene nachhaltig am Upsell-Funnel mit.
 
 ## 2. Links
 

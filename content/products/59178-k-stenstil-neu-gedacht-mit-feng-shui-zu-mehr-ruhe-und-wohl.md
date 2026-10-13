@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb „Küstenstil neu gedacht – Mit Feng Shui zu mehr Ruhe und Wohlbefinden“ und inspiriere deine Zielgruppe zu einem harmonischen Zuhause mit entspannter Küstenatmosphäre. Das digitale Produkt verbindet sanfte Farben, natürliche Materialien und moderne Wohnideen mit bewährten Feng-Shui-Grundlagen. Ideal für alle, die ihre Räume stilvoll gestalten und gleichzeitig mehr Ruhe, Leichtigkeit und Wohlbefinden in ihren Alltag bringen möchten.</p>
+**Vendor's marketplace description:** Bewirb „Küstenstil neu gedacht – Mit Feng Shui zu mehr Ruhe und Wohlbefinden“ und inspiriere deine Zielgruppe zu einem harmonischen Zuhause mit entspannter Küstenatmosphäre. Das digitale Produkt verbindet sanfte Farben, natürliche Materialien und moderne Wohnideen mit bewährten Feng-Shui-Grundlagen. Ideal für alle, die ihre Räume stilvoll gestalten und gleichzeitig mehr Ruhe, Leichtigkeit und Wohlbefinden in ihren Alltag bringen möchten.
 
 ## 2. Links
 

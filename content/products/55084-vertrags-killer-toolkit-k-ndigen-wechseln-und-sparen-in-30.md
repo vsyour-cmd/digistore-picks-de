@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>✅ 25+ rechtssichere Kündigungs- &amp; Wechsel-Vorlagen (PDF/Word)<br />✅ Fristen-Checker &amp; Mustertexte inkl. Sonderkündigung/Preiserhöhung<br />✅ Schritt-für-Schritt-Guide: Was wann wohin (E-Mail/Brief/Einschreiben)<br />✅ Bonus: Anschreiben-Generator (Copy-&amp;-Paste) + Checkliste „Gebührenfrei raus“</p>
-<p>Zielgruppe: Azubis, Studierende, Haushalte – alle, die laufende Kosten senken wollen.<br />Hinweis: Kein Ersatz für Rechtsberatung.</p>
+**Vendor's marketplace description:** ✅ 25+ rechtssichere Kündigungs- & Wechsel-Vorlagen (PDF/Word) ✅ Fristen-Checker & Mustertexte inkl. Sonderkündigung/Preiserhöhung ✅ Schritt-für-Schritt-Guide: Was wann wohin (E-Mail/Brief/Einschreiben) ✅ Bonus: Anschreiben-Generator (Copy-&-Paste) + Checkliste „Gebührenfrei raus“ Zielgruppe: Azubis, Studierende, Haushalte – alle, die laufende Kosten senken wollen. Hinweis: Kein Ersatz für Rechtsberatung.
 
 ## 2. Links
 

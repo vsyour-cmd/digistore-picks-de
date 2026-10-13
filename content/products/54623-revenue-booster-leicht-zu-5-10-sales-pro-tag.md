@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Warum Affiliates dieses Produkt bewerben sollten:</strong></h3>
-<p>✅ <strong>50% Provision pro Verkauf</strong> – Verdiene sofort und fair an jedem Sale</p>
-<p>✅ <strong>2-Stufen-Provision aktiv</strong> – Empfiehl neue Affiliates und verdiene auch an deren Sales mit</p>
-<p>✅ <strong>Komplettes Affiliate-Support-Paket</strong> – Fertige Werbematerialien, bewährte E-Mail-Texte und Social-Media-Posts zum direkten Einsatz</p>
-<p>✅ <strong>Ready-to-use FunnelCockpit Leadfunnel</strong> – Nutze meinen kompletten, conversion-optimierten Funnel. Einfach deinen Affiliate-Link einfügen und loslegen</p>
-<p>✅ <strong>Niedriger Preis, hohe Conversion</strong> – Impulskauf-freundlich für maximale Sales</p>
-<p>✅ <strong>Riesiger Markt mit brennendem Problem</strong> – Tausende Kursersteller haben ihren Minikurs fertig, aber niemand kauft. Organische Reichweite dauert ewig, Agenturen sind zu teuer</p>
-<p>✅ <strong>Komplettes Schritt-für-Schritt-System</strong> – 3 Module mit über 4 Stunden Video-Training. Von null auf profitable Meta-Ads ohne Vorkenntnisse</p>
-<p>✅ <strong>Aktuell und relevant</strong> – Regelmäßig aktualisiert, inkl. Andromeda-Update. Evergreen-Thema mit ständiger Nachfrage</p>
-<p>✅ <strong>14-Tage-Geld-zurück-Garantie</strong> – Null Risiko für Käufer, mehr Vertrauen, mehr Sales für dich</p>
-<p>✅ <strong>Niedrige Refund-Rate</strong> – Umfangreiches, praxiserprobtes System mit echten Ergebnissen</p>
-<p><strong>Perfekt für deine Zielgruppe:</strong> Kursersteller mit fertigem Minikurs, Coaches ohne Werbe-Erfahrung, Online-Unternehmer die organische Reichweite satt haben, digitale Produktverkäufer die skalieren wollen</p>
-<p><strong>Was du bewirbst:</strong> Komplettes Meta-Werbesystem in 3 Modulen. Von der technischen Einrichtung über erste Kampagnen bis zur Optimierung. Inkl. ChatGPT-Prompts für Werbetexte und Creative-Vorlagen.</p>
+**Vendor's marketplace description:** Warum Affiliates dieses Produkt bewerben sollten: ✅ 50% Provision pro Verkauf – Verdiene sofort und fair an jedem Sale ✅ 2-Stufen-Provision aktiv – Empfiehl neue Affiliates und verdiene auch an deren Sales mit ✅ Komplettes Affiliate-Support-Paket – Fertige Werbematerialien, bewährte E-Mail-Texte und Social-Media-Posts zum direkten Einsatz ✅ Ready-to-use FunnelCockpit Leadfunnel – Nutze meinen kompletten, conversion-optimierten Funnel. Einfach deinen Affiliate-Link einfügen und loslegen ✅ Niedriger Preis, hohe Conversion – Impulskauf-freundlich für maximale Sales ✅ Riesiger Markt mit brennendem Problem – Tausende Kursersteller haben ihren Minikurs fertig, aber niemand kauft. Organische Reichweite dauert ewig, Agenturen sind zu teuer ✅ Komplettes Schritt-für-Schritt-System – 3 Module mit über 4 Stunden Video-Training. Von null auf profitable Meta-Ads ohne Vorkenntnisse ✅ Aktuell und relevant – Regelmäßig aktualisiert, inkl. Andromeda-Update. Evergreen-Thema mit ständiger Nachfrage ✅ 14-Tage-Geld-zurück-Garantie – Null Risiko für Käufer, mehr Vertrauen, mehr Sales für dich ✅ Niedrige Refund-Rate – Umfangreiches, praxiserprobtes System mit echten Ergebnissen Perfekt für deine Zielgruppe: Kursersteller mit fertigem Minikurs, Coaches ohne Werbe-Erfahrung, Online-Unternehmer die organische Reichweite satt haben, digitale Produktverkäufer die skalieren wollen Was du bewirbst: Komplettes Meta-Werbesystem in 3 Modulen. Von der technischen Einrichtung über erste Kampagnen bis zur Optimierung. Inkl. ChatGPT-Prompts für Werbetexte und Creative-Vorlagen.
 
 ## 2. Links
 

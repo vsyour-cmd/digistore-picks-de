@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Welche Bleistifte, Radierer, Papiere und Zeichenwerkzeuge eignen sich wirklich für realistisches Zeichnen?</p>
-<p>In dieser Profi-Materialliste zeigt der Künstler und Zeichenlehrer Ralf Wilhelm Schmidt die Materialien und Werkzeuge, mit denen er selbst arbeitet und die er für realistische Bleistiftzeichnungen empfiehlt.</p>
-<p>Die übersichtliche PDF hilft dabei, geeignete Zeichenmaterialien gezielt auszuwählen und unnötige Fehlkäufe zu vermeiden. Die empfohlenen Produkte sind direkt in der Materialliste verlinkt.</p>
-<p>Ideal für Anfänger und fortgeschrittene Zeichner, die realistisch mit Bleistift zeichnen möchten.</p>
-<p> </p>
-<p><strong>Wichtiger Hinweis für Affiliate-Partner</strong></p>
-<p>Wir suchen seriöse, langfristige Affiliate-Partner mit einer passenden Zielgruppe im deutschsprachigen Raum.</p>
-<p>Bitte gib bei Deiner Bewerbung an, über welche Webseite, welchen Social-Media-Kanal oder welche andere konkrete Plattform Du unser Zeichenheft bewerben möchtest.</p>
-<p>Anfragen ohne nachvollziehbare Angaben zum geplanten Werbekanal werden nicht berücksichtigt.</p>
-<p>Weitere Informationen zur Zusammenarbeit findest Du auf unserer Affiliate-Partnerseite.</p>
+**Vendor's marketplace description:** Welche Bleistifte, Radierer, Papiere und Zeichenwerkzeuge eignen sich wirklich für realistisches Zeichnen? In dieser Profi-Materialliste zeigt der Künstler und Zeichenlehrer Ralf Wilhelm Schmidt die Materialien und Werkzeuge, mit denen er selbst arbeitet und die er für realistische Bleistiftzeichnungen empfiehlt. Die übersichtliche PDF hilft dabei, geeignete Zeichenmaterialien gezielt auszuwählen und unnötige Fehlkäufe zu vermeiden. Die empfohlenen Produkte sind direkt in der Materialliste verlinkt. Ideal für Anfänger und fortgeschrittene Zeichner, die realistisch mit Bleistift zeichnen möchten. Wichtiger Hinweis für Affiliate-Partner Wir suchen seriöse, langfristige Affiliate-Partner mit einer passenden Zielgruppe im deutschsprachigen Raum. Bitte gib bei Deiner Bewerbung an, über welche Webseite, welchen Social-Media-Kanal oder welche andere konkrete Plattform Du unser Zeichenheft bewerben möchtest. Anfragen ohne nachvollziehbare Angaben zum geplanten Werbekanal werden nicht berücksichtigt. Weitere Informationen zur Zusammenarbeit findest Du auf unserer Affiliate-Partnerseite.
 
 ## 2. Links
 

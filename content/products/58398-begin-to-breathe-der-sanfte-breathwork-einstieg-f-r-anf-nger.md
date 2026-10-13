@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der Einsteigerkurs für alle, die Breathwork zum ersten Mal richtig lernen wollen – sicher, strukturiert und ohne Vorwissen.</strong></p>
-<p>4 Module, über 25 Videos, mehr als 4 Stunden Material:</p>
-<ul>
-<li>Grundlagen und Sicherheit – Nervensystem, Gehirn, Kontraindikationen</li>
-<li>Drei alltagstaugliche Techniken für Beruhigung, Fokus und Energie</li>
-<li>Beambreath® inklusive geführter 38-Minuten-Session</li>
-<li>Freemor Breathing® inklusive geführter 47-Minuten-Session</li>
-</ul>
-<p><strong>Für wen:</strong> Breathwork-Neulinge, die sanft und sicher einsteigen wollen – und Menschen, die ihren Alltag ruhiger und bewusster gestalten möchten.</p>
-<p><strong>Warum es konvertiert:</strong> 147 € einmalig, kein Abo. Freemor Breathing® ist eine exklusive Methode, die es nur bei Beamdream Breathworks gibt. Ideales Einstiegsprodukt für breite Wellness-, Achtsamkeits- und Yoga-Zielgruppen – und perfekter Aufhänger für die weiterführenden Kurse und Ausbildungen.</p>
-<p>Der Kurs wird von Corrina Holzner geleitet, die bereits über 100 Atemtrainer:innen ausgebildet hat.</p>
+**Vendor's marketplace description:** Der Einsteigerkurs für alle, die Breathwork zum ersten Mal richtig lernen wollen – sicher, strukturiert und ohne Vorwissen. 4 Module, über 25 Videos, mehr als 4 Stunden Material: Grundlagen und Sicherheit – Nervensystem, Gehirn, Kontraindikationen Drei alltagstaugliche Techniken für Beruhigung, Fokus und Energie Beambreath® inklusive geführter 38-Minuten-Session Freemor Breathing® inklusive geführter 47-Minuten-Session Für wen: Breathwork-Neulinge, die sanft und sicher einsteigen wollen – und Menschen, die ihren Alltag ruhiger und bewusster gestalten möchten. Warum es konvertiert: 147 € einmalig, kein Abo. Freemor Breathing® ist eine exklusive Methode, die es nur bei Beamdream Breathworks gibt. Ideales Einstiegsprodukt für breite Wellness-, Achtsamkeits- und Yoga-Zielgruppen – und perfekter Aufhänger für die weiterführenden Kurse und Ausbildungen. Der Kurs wird von Corrina Holzner geleitet, die bereits über 100 Atemtrainer:innen ausgebildet hat.
 
 ## 2. Links
 

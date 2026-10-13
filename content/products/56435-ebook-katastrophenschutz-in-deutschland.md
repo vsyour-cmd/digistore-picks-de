@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein hochrelevantes Sachbuch für eine breite Zielgruppe von sicherheitsbewussten Bürgern, Fachkräften und Entscheidungsträgern, das ein zunehmend präsentes Thema wie Krisenvorsorge und Katastrophenschutz umfassend und verständlich aufbereitet.</p>
-<p>Es verbindet fundierte Hintergrundinformationen, praxisnahe Einblicke und aktuelle Herausforderungen wie Klimawandel, Cyberbedrohungen und Pandemien zu einem klar strukturierten Gesamtbild.</p>
-<p>Besonders stark ist die Kombination aus fachlicher Tiefe und alltagsnaher Relevanz, wodurch sich das Buch sowohl im B2C- als auch im B2B-Umfeld sehr gut positionieren lässt.</p>
-<p>Die steigende Sensibilität für Krisen, Selbstschutz und staatliche Vorsorge schafft eine konstant hohe Nachfrage und starke Verkaufsargumente.</p>
-<p>Ein thematisch zeitloses, zugleich hochaktuelles Produkt mit solidem Vertrauen und breiter Vermarktbarkeit im Bereich Sicherheit, Politik und Gesellschaft.</p>
+**Vendor's marketplace description:** Ein hochrelevantes Sachbuch für eine breite Zielgruppe von sicherheitsbewussten Bürgern, Fachkräften und Entscheidungsträgern, das ein zunehmend präsentes Thema wie Krisenvorsorge und Katastrophenschutz umfassend und verständlich aufbereitet. Es verbindet fundierte Hintergrundinformationen, praxisnahe Einblicke und aktuelle Herausforderungen wie Klimawandel, Cyberbedrohungen und Pandemien zu einem klar strukturierten Gesamtbild. Besonders stark ist die Kombination aus fachlicher Tiefe und alltagsnaher Relevanz, wodurch sich das Buch sowohl im B2C- als auch im B2B-Umfeld sehr gut positionieren lässt. Die steigende Sensibilität für Krisen, Selbstschutz und staatliche Vorsorge schafft eine konstant hohe Nachfrage und starke Verkaufsargumente. Ein thematisch zeitloses, zugleich hochaktuelles Produkt mit solidem Vertrauen und breiter Vermarktbarkeit im Bereich Sicherheit, Politik und Gesellschaft.
 
 ## 2. Links
 

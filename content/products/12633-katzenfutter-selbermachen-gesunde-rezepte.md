@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>101 Rezepte um Katzenfutter selber zu machen, was gesünder und besonders lecker für die Katze ist.</p>
-<p>Affiliates verdienen 50% Provision, es sind auch Upsells vorhanden. Die Konversionsrate ist erstaunlich hoch, das es sich ja auch um ein hoch emotionales Produkt handelt. </p>
-<p>Nur das Beste für den flauschigen Wollknäuel!</p>
+**Vendor's marketplace description:** 101 Rezepte um Katzenfutter selber zu machen, was gesünder und besonders lecker für die Katze ist. Affiliates verdienen 50% Provision, es sind auch Upsells vorhanden. Die Konversionsrate ist erstaunlich hoch, das es sich ja auch um ein hoch emotionales Produkt handelt. Nur das Beste für den flauschigen Wollknäuel!
 
 ## 2. Links
 

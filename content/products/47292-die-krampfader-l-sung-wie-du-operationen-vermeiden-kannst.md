@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<h2>Für wen ist das Buch?</h2>
-</div>
-</div>
-<div>
-<div>
-<p>Für Frauen und Männer jeden Alters, die endlich ihre Last mit Krampfadern und Besenreisern loswerden wollen, ohne sich dafür operieren lassen zu müssen.</p>
-<p>Für Menschen, die denken, dass es in ihrem Fall schon zu spät ist und ihre Krampfadern zu fortgeschritten oder zu groß sind. Wir sagen dir, dass es Hoffnung und eine Lösung für dich geben kann. </p>
-<p>Constantin Mock hat in diesem Buch sein gesamtes Wissen und Herzblut hineingesteckt, damit du endlich Deinen lang ersehnten Traum von schönen Beinen leben kannst. </p>
-<p>Er zeigt dir die genaue Vorgehensweise, wie du dich auf den Weg bringst, ein Kampfader- und Besenreiserfreies Leben genießen zu können. </p>
-</div>
-</div>
+**Vendor's marketplace description:** Für wen ist das Buch? Für Frauen und Männer jeden Alters, die endlich ihre Last mit Krampfadern und Besenreisern loswerden wollen, ohne sich dafür operieren lassen zu müssen. Für Menschen, die denken, dass es in ihrem Fall schon zu spät ist und ihre Krampfadern zu fortgeschritten oder zu groß sind. Wir sagen dir, dass es Hoffnung und eine Lösung für dich geben kann. Constantin Mock hat in diesem Buch sein gesamtes Wissen und Herzblut hineingesteckt, damit du endlich Deinen lang ersehnten Traum von schönen Beinen leben kannst. Er zeigt dir die genaue Vorgehensweise, wie du dich auf den Weg bringst, ein Kampfader- und Besenreiserfreies Leben genießen zu können.
 
 ## 2. Links
 

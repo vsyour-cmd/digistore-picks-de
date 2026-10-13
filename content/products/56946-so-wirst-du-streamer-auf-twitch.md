@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Reichweite aufbauen, eine loyale Community binden und Einnahmen planbar machen</strong></p>
-<p>Erfolgreicher Streamer zu werden ist kein Zufall – es ist Handwerk, das du lernen kannst. Dieses E-Book zeigt dir den Weg vom kleinen Kanal zur gefragten Twitch-Creator-Marke: wie du mit einem konsequenten Streaming-Plan schnell wächst, mit Chat-Ritualen und Raids eine loyale Community aufbaust und dich für das Affiliate- und Partner-Programm qualifizierst. Du lernst, wie der Twitch-Algorithmus und die Discovery-Kategorien funktionieren, wie du Clips für TikTok und YouTube als Reichweiten-Multiplikator nutzt und wie du Subs, Bits, Spenden und Markendeals zu einem diversifizierten Einkommen aufbaust. Dazu: Kollabrationen mit anderen Streamern, die dir neue Zielgruppen erschließen.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Streaming-Plan &amp; Konsistenz: warum Verlässlichkeit mehr bringt als Talent</li>
-<li>Discovery-Strategie: Kategorien und Tags für maximale organische Reichweite</li>
-<li>Chat-Rituale und Stammzuschauer-Kultur für eine loyale Community</li>
-<li>Raids &amp; Kooperationen gezielt einsetzen, um neue Zielgruppen zu erschließen</li>
-<li>Clips für TikTok, YouTube Shorts und Instagram als Reichweiten-Multiplikator</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Reichweite aufbauen, eine loyale Community binden und Einnahmen planbar machen Erfolgreicher Streamer zu werden ist kein Zufall – es ist Handwerk, das du lernen kannst. Dieses E-Book zeigt dir den Weg vom kleinen Kanal zur gefragten Twitch-Creator-Marke: wie du mit einem konsequenten Streaming-Plan schnell wächst, mit Chat-Ritualen und Raids eine loyale Community aufbaust und dich für das Affiliate- und Partner-Programm qualifizierst. Du lernst, wie der Twitch-Algorithmus und die Discovery-Kategorien funktionieren, wie du Clips für TikTok und YouTube als Reichweiten-Multiplikator nutzt und wie du Subs, Bits, Spenden und Markendeals zu einem diversifizierten Einkommen aufbaust. Dazu: Kollabrationen mit anderen Streamern, die dir neue Zielgruppen erschließen. Das steckt drin: Streaming-Plan & Konsistenz: warum Verlässlichkeit mehr bringt als Talent Discovery-Strategie: Kategorien und Tags für maximale organische Reichweite Chat-Rituale und Stammzuschauer-Kultur für eine loyale Community Raids & Kooperationen gezielt einsetzen, um neue Zielgruppen zu erschließen Clips für TikTok, YouTube Shorts und Instagram als Reichweiten-Multiplikator Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

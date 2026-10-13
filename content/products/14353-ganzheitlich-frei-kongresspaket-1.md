@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>Beim Ganzheitlich FREI Online Kongress kann sich jeder der sich dazu anmeldet, <strong>kostenlos für jeweils 24h</strong> die Interviews von international bekannten Experten in Bereichen gesunder Ernährung, Erfolgstechniken, Persönlichkeitsentwicklung und Bewusstseinserweiterung ansehen.</div>
-<p> </p>
-<p>Im Mitgliederbereich können sich die Käufer des Kongresspaketes 1 die Interviews in verschiedenen Qualitäten herunterladen oder einfach nur ansehen.</p>
-<p> </p>
-<h2>Du bekommst faire 50% vom Paketpreis</h2>
-<p> </p>
-<p><strong>Kurt Tepperwein, Markus Rothkranz, Lumira, Clemens Kuby, Raho J. Bornhorst, Prof. Dr. Guillaume de Meuter, Dr. Ruediger Dahlke, Bruno Würtenberger, Dagmar Neubronner uvm.</strong> wurden von uns, zu unser aller lebenbetreffenden Themen befragt.</p>
-<ul><li>Mehr als 33h Video Spieldauer</li>
-<li>alle Interviews auch als mp3-Audio</li>
-<li>ein E-Book</li>
-</ul><p> </p>
-<h2>Du bewirbst nicht direkt ein Produkt, sondern die Teilnahme an einem kostenlosen Online-Kongress!</h2>
-<p> </p>
-<p><strong>Mehr dazu: </strong></p>
-<p><span style="color:#3366ff;"><a style="color:#3366ff;" href="https://ganzheitlich-frei.com/partnerprogramm/">https://ganzheitlich-frei.com/partnerprogramm/</a></span></p>
-<p> </p>
-<p>Wir unterstützen Dich gerne! Schreibe uns dazu einfach eine E-Mail an: <a href="mailto:partner@ganzheitlich-frei.com">partner@ganzheitlich-frei.com</a></p>
-<p> </p>
-<p>Herzliche Grüße</p>
-<p>Kristina &amp; Andy Dimovska</p>
+**Vendor's marketplace description:** Beim Ganzheitlich FREI Online Kongress kann sich jeder der sich dazu anmeldet, kostenlos für jeweils 24h die Interviews von international bekannten Experten in Bereichen gesunder Ernährung, Erfolgstechniken, Persönlichkeitsentwicklung und Bewusstseinserweiterung ansehen. Im Mitgliederbereich können sich die Käufer des Kongresspaketes 1 die Interviews in verschiedenen Qualitäten herunterladen oder einfach nur ansehen. Du bekommst faire 50% vom Paketpreis Kurt Tepperwein, Markus Rothkranz, Lumira, Clemens Kuby, Raho J. Bornhorst, Prof. Dr. Guillaume de Meuter, Dr. Ruediger Dahlke, Bruno Würtenberger, Dagmar Neubronner uvm. wurden von uns, zu unser aller lebenbetreffenden Themen befragt. Mehr als 33h Video Spieldauer alle Interviews auch als mp3-Audio ein E-Book Du bewirbst nicht direkt ein Produkt, sondern die Teilnahme an einem kostenlosen Online-Kongress! Mehr dazu: https://ganzheitlich-frei.com/partnerprogramm/ Wir unterstützen Dich gerne! Schreibe uns dazu einfach eine E-Mail an: partner@ganzheitlich-frei.com Herzliche Grüße Kristina & Andy Dimovska
 
 ## 2. Links
 

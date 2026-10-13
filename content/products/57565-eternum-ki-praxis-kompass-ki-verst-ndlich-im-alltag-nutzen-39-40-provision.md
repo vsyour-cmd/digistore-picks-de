@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der ehrliche Praxis-Ratgeber für alle, die KI endlich wirklich nutzen wollen – ohne Fachchinesisch, ohne leere Versprechen.</strong></p>
-<p>Der ETERNUM KI-Praxis-Kompass ist ein komplettes Premium-Paket (Deutsch + Englisch inklusive):</p>
-<ul>
-<li>Praxis-Ratgeber mit 9 Kapiteln auf 167 Seiten – inkl. 3 geführte 60-Minuten-Wege zum Sofort-Start</li>
-<li>Prompt-Tresor mit 70 erprobten Prompts (12 Master + 58 Praxis) in 5 Kategorien</li>
-<li>Workflow-Handbuch mit 12 Schritt-für-Schritt-Workflows für den Arbeitsalltag</li>
-<li>14-Tage-Arbeitsbuch mit Startmessung, Tagesblättern und Umsetzungsplan</li>
-<li>4 Schnellkarten + mobile Prompt-Liste für unterwegs</li>
-</ul>
-<p><strong>Für deine Liste:</strong> Perfekt für Selbstständige, kleine Betriebe und Einsteiger, die KI seriös nutzen wollen. Niedrige Einstiegshürde (39 €), professionelle Verkaufsseite, 30 Tage Geld-zurück-Garantie.</p>
-<p><strong>Deine Provision: 40 % pro Verkauf.</strong> Affiliate-Partnerschaften werden automatisch akzeptiert – du kannst sofort starten. Verkaufsseite: https://eternumtech.eu/ki-schnellstart</p>
+**Vendor's marketplace description:** Der ehrliche Praxis-Ratgeber für alle, die KI endlich wirklich nutzen wollen – ohne Fachchinesisch, ohne leere Versprechen. Der ETERNUM KI-Praxis-Kompass ist ein komplettes Premium-Paket (Deutsch + Englisch inklusive): Praxis-Ratgeber mit 9 Kapiteln auf 167 Seiten – inkl. 3 geführte 60-Minuten-Wege zum Sofort-Start Prompt-Tresor mit 70 erprobten Prompts (12 Master + 58 Praxis) in 5 Kategorien Workflow-Handbuch mit 12 Schritt-für-Schritt-Workflows für den Arbeitsalltag 14-Tage-Arbeitsbuch mit Startmessung, Tagesblättern und Umsetzungsplan 4 Schnellkarten + mobile Prompt-Liste für unterwegs Für deine Liste: Perfekt für Selbstständige, kleine Betriebe und Einsteiger, die KI seriös nutzen wollen. Niedrige Einstiegshürde (39 €), professionelle Verkaufsseite, 30 Tage Geld-zurück-Garantie. Deine Provision: 40 % pro Verkauf. Affiliate-Partnerschaften werden automatisch akzeptiert – du kannst sofort starten. Verkaufsseite: https://eternumtech.eu/ki-schnellstart
 
 ## 2. Links
 

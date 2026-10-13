@@ -41,44 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="background-color:#ff0000;color:#ffffff;"> NEU </span></h2>
-<p><strong><span style="background-color:#ffff00;">Verschenke</span> das Super-Affiliate Secrets Bundle und <span style="background-color:#ffff00;">verdiene</span> <span style="background-color:#ff0000;color:#ffffff;">bis zu 208,06 €</span> Pro Klick und Interessent</strong></p>
-<div>
-<div>
-<div>
-<p><a href="https://startuprakete.funnelcockpit.com/sab-partnerprogramm/" target="_blank" rel="noreferrer noopener"><span style="text-decoration:underline;background-color:#ffff00;"><strong>Deine Vorteile - Werbemittel (hier klicken):</strong></span></a></p>
-</div>
-</div>
-<div>
-<ul>
-<li>Verkaufspreis:  <strong><span style="background-color:#ff0000;color:#ffffff;">Geschenk für deine Community</span><br />(1 Euro für die Transaktionsgebühr)<br /></strong></li>
-<li><strong>Erster Bumperupsale hat eine Konversion von 80 %</strong></li>
-<li><strong>Deine Provision: 50 %</strong> Auf den ganzen Funnel 3 Upsales</li>
-<li><strong>Art Verkauf:</strong> <strong>1 Euro</strong><strong> = 454 € Rabatt (Geschenk-Funnel)</strong> + Upsale Funnel</li>
-<li><strong><span style="background-color:#ffff00;">Extrem starke Werbemittel!</span> </strong>Über <strong>10 E-Mail Vorlagen</strong> - Infotainment, Storytelling + gutes Copywriting mit <strong>hoher Öffnungs- und Klickrate</strong> (getestet)</li>
-<li>Animierte Instagram Story + Infografiken (Instagram, Pinterest und Facebook Posts)</li>
-</ul>
-<p><span style="background-color:#00ccff;color:#ffffff;"><a style="background-color:#00ccff;color:#ffffff;" href="https://swiy.co/telegram-sat" target="_blank" rel="noreferrer noopener"><strong>Alle Infos + News und Tipps &amp; Trick auf Telegram &lt;&lt; (Klicken)</strong></a></span></p>
-</div>
-</div>
-<div>
-<div>
-<ul>
-<li><strong>BONUS: Wettbewerb-Preise unbedingt anschauen!</strong></li>
-<li>Bis zu <strong>208,07 € Netto-Provision</strong> (pro Kunde / Klick möglich!)</li>
-<li>Funnel: 1 € - 47 € - 97 € - 197 € (50% auf alles)</li>
-</ul>
-<p><span style="background-color:#ffff00;"><a style="background-color:#ffff00;" href="https://startuprakete.funnelcockpit.com/super-affiliate-secrets-bundle/" target="_blank" rel="noreferrer noopener"><strong>Details zum Produkt: (Produkt ansehen)</strong></a></span></p>
-<ul>
-<li>Super-Affiliate Secrets <strong>5 geheime Affiliate Funnel Strategien</strong> (Wert: 138€) <strong>Heute 0€ GRATIS</strong></li>
-<li><strong>Checkliste:</strong> Zum nachbauen und umsetzen (Wert: 29€) <strong>Heute 0€ GRATIS</strong></li>
-<li><strong>Arbeitsbuch:</strong> Automatisiertes Empfehlungssystem (Wert: 89€) <strong>Heute 0€ GRATIS</strong></li>
-<li><strong>Videokurs (Mitgliederbereich): </strong><strong>Automatisierte Provisions - Strategie</strong>  (Wert: 199€) <strong> </strong></li>
-<li>Meine Erfahrung aus über <strong>7.000 Affiliate Sales</strong>, <strong>10.400 Stunden Online Business Erfahrung</strong> und über <strong>270.000 € Affiliate Provision</strong>!</li>
-</ul>
-</div>
-</div>
-<p> </p>
+**Vendor's marketplace description:** NEU Verschenke das Super-Affiliate Secrets Bundle und verdiene bis zu 208,06 € Pro Klick und Interessent Deine Vorteile - Werbemittel (hier klicken): Verkaufspreis: Geschenk für deine Community (1 Euro für die Transaktionsgebühr) Erster Bumperupsale hat eine Konversion von 80 % Deine Provision: 50 % Auf den ganzen Funnel 3 Upsales Art Verkauf: 1 Euro = 454 € Rabatt (Geschenk-Funnel) + Upsale Funnel Extrem starke Werbemittel! Über 10 E-Mail Vorlagen - Infotainment, Storytelling + gutes Copywriting mit hoher Öffnungs- und Klickrate (getestet) Animierte Instagram Story + Infografiken (Instagram, Pinterest und Facebook Posts) Alle Infos + News und Tipps & Trick auf Telegram << (Klicken) BONUS: Wettbewerb-Preise unbedingt anschauen! Bis zu 208,07 € Netto-Provision (pro Kunde / Klick möglich!) Funnel: 1 € - 47 € - 97 € - 197 € (50% auf alles) Details zum Produkt: (Produkt ansehen) Super-Affiliate Secrets 5 geheime Affiliate Funnel Strategien (Wert: 138€) Heute 0€ GRATIS Checkliste: Zum nachbauen und umsetzen (Wert: 29€) Heute 0€ GRATIS Arbeitsbuch: Automatisiertes Empfehlungssystem (Wert: 89€) Heute 0€ GRATIS Videokurs (Mitgliederbereich): Automatisierte Provisions - Strategie (Wert: 199€) Meine Erfahrung aus über 7.000 Affiliate Sales , 10.400 Stunden Online Business Erfahrung und über 270.000 € Affiliate Provision !
 
 ## 2. Links
 

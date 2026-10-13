@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Nie mehr Angst vor dem Alter“</strong></p>
-<p>Der Vorsorgeplan, der wirklich trägt – Die Sorge vor dem Alter lähmt – ein klarer Plan nimmt ihr die Macht. Dieser Ratgeber verwandelt diffuse Angst Schritt für Schritt in einen tragfähigen Vorsorgeplan.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Die Angst vor dem Alter in Handeln verwandeln</li>
-<li>Deine Rentenlücke ehrlich berechnen</li>
-<li>Die drei Säulen der Altersvorsorge durchschauen</li>
-<li>Dein tragfähiger Vorsorgeplan für jede Lebensphase</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Nie mehr Angst vor dem Alter“ Der Vorsorgeplan, der wirklich trägt – Die Sorge vor dem Alter lähmt – ein klarer Plan nimmt ihr die Macht. Dieser Ratgeber verwandelt diffuse Angst Schritt für Schritt in einen tragfähigen Vorsorgeplan. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Die Angst vor dem Alter in Handeln verwandeln Deine Rentenlücke ehrlich berechnen Die drei Säulen der Altersvorsorge durchschauen Dein tragfähiger Vorsorgeplan für jede Lebensphase
 
 ## 2. Links
 

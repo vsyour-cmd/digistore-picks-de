@@ -41,44 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Das lukrativste Abo-Produkt auf Digistore<br /></strong></h2>
-<h4><span style="background-color:#ff6600;color:#ffffff;"><strong>Verdiene passives Einkommen durch monatliche Provisionen (30%)</strong></span></h4>
-<p>Mit der neowake<strong> Mitgliedschaft</strong> erhalten Mitglieder Zugriff auf wirksame Hör-Programme zur Erweiterung des Bewusstseins. Die neowake können für besseren Schlaf, tiefere Meditationen, Entspannung, Zufriedenheit, Gesundheit, Selbstfindung, Energie und vieles Mehr genutzt werden.</p>
-<p>Als Affiliate von neowake profitieren Sie an der Möglichkeit <strong>passives Einkommen</strong> durch die Mitgliedschaft zu generieren. Die Mitglieder bleiben durchschnittlich mehrere Monate in der Mitgliedschaft und generieren so <strong>&gt;100 Euro für Sie (passiv; jeden Monat)</strong></p>
-<p>Wenn Sie die neowake Mitgliedschaft bewerben erhalten Sie monatliche Provisionen und <strong>zusätzlich Provisionen</strong> auf alle weiteren Verkäufe im langen Email Funnel. </p>
-<h4><span style="background-color:#339966;color:#ffffff;">Conversionstarke Verkaufsfunnels und Retargeting inklusive</span></h4>
-<p><em>Alle Verkaufsseiten und Funnels werden permanent optimiert, um die maximale Durchschlagskraft für ihren Traffic zu gewährleisten.</em></p>
-<p>Bewerben Sie jetzt die neowake Mitgliedschaft, eines der attraktivsten Affiliate Produkte im deutschen Markt. Sie sehen Monat für Monat neue Einnahmen in ihren Account fließen und profitieren von der <strong>hohen Kundenzufriedenheit</strong> und der <strong>geringen Kündigungsrate</strong> von neowake. </p>
-<h4><br /><span style="color:#ffffff;background-color:#3366ff;">Beispiel-Einnahmen für Sie</span></h4>
-<table style="height:156px;border-color:#f89525;" border="2" width="358">
-<tbody>
-<tr>
-<td style="width:167px;"><strong>Vermittelte Abos</strong></td>
-<td style="width:167px;"><strong>Monatliche Einnahmen</strong></td>
-</tr>
-<tr>
-<td style="width:167px;">10</td>
-<td style="width:167px;">ca. 50 Euro</td>
-</tr>
-<tr>
-<td style="width:167px;">100</td>
-<td style="width:167px;">ca. 500 Euro</td>
-</tr>
-<tr>
-<td style="width:167px;">1000</td>
-<td style="width:167px;">ca. 5000 Euro</td>
-</tr>
-<tr>
-<td style="width:167px;">5000</td>
-<td style="width:167px;">ca. 25000 Euro</td>
-</tr>
-<tr>
-<td style="width:167px;">10000</td>
-<td style="width:167px;">ca. 50000 Euro</td>
-</tr>
-</tbody>
-</table>
-<p><br />Bei weiteren Fragen kontaktieren Sie uns gerne unter <a href="mailto:Support@neobeats.de">Support@neowake.de</a>.<br /><br />Auf eine erfolgreiche Partnerschaft!</p>
+**Vendor's marketplace description:** Das lukrativste Abo-Produkt auf Digistore Verdiene passives Einkommen durch monatliche Provisionen (30%) Mit der neowake Mitgliedschaft erhalten Mitglieder Zugriff auf wirksame Hör-Programme zur Erweiterung des Bewusstseins. Die neowake können für besseren Schlaf, tiefere Meditationen, Entspannung, Zufriedenheit, Gesundheit, Selbstfindung, Energie und vieles Mehr genutzt werden. Als Affiliate von neowake profitieren Sie an der Möglichkeit passives Einkommen durch die Mitgliedschaft zu generieren. Die Mitglieder bleiben durchschnittlich mehrere Monate in der Mitgliedschaft und generieren so >100 Euro für Sie (passiv; jeden Monat) Wenn Sie die neowake Mitgliedschaft bewerben erhalten Sie monatliche Provisionen und zusätzlich Provisionen auf alle weiteren Verkäufe im langen Email Funnel. Conversionstarke Verkaufsfunnels und Retargeting inklusive Alle Verkaufsseiten und Funnels werden permanent optimiert, um die maximale Durchschlagskraft für ihren Traffic zu gewährleisten. Bewerben Sie jetzt die neowake Mitgliedschaft, eines der attraktivsten Affiliate Produkte im deutschen Markt. Sie sehen Monat für Monat neue Einnahmen in ihren Account fließen und profitieren von der hohen Kundenzufriedenheit und der geringen Kündigungsrate von neowake. Beispiel-Einnahmen für Sie Vermittelte Abos Monatliche Einnahmen 10 ca. 50 Euro 100 ca. 500 Euro 1000 ca. 5000 Euro 5000 ca. 25000 Euro 10000 ca. 50000 Euro Bei weiteren Fragen kontaktieren Sie uns gerne unter Support@neowake.de . Auf eine erfolgreiche Partnerschaft!
 
 ## 2. Links
 

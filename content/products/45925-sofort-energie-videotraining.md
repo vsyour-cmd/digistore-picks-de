@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>"Die 12 stärksten Hacks für maximale Energie"</h2>
-<p><strong>Schritt für Schritt einfach erklärt im "Sofort-Energie-Videotraining" (1:10 Std)</strong></p>
-<p><strong>+ Bonus-Video: "Realität gezielt erschaffen" (45 Min)</strong></p>
-<p><strong>Kostenfreies Initialprodukt:</strong></p>
-<p><strong>Energie-Checkliste <span style="color:#ff0000;">2.0</span></strong> mit den 12 stärksten Hacks für maximale Energie!</p>
-<p><span style="background-color:#ffff00;"><strong>Bitte folgenden Link benutzen (empfohlen):</strong></span></p>
-<p><strong>https://www.digistore24.com/content/522678/45875/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong></p>
-<p><strong>1. Upsell</strong> auf Tripwire (7 €): Sofort-Energie-Videotraining</p>
-<p><strong>2. Upsell</strong> auf Core-Product (47 €): Anziehungskraft-Dreieck</p>
-<p><strong>3. Upsell</strong> auf Profit-Optimizer (97 €): Anziehungskraft-Masterplan</p>
-<p>Sämtliche Upsells werden mit <strong>50% Provision</strong> vergütet (Abzüglich MwSt. + Digistore24-Gebühren)</p>
-<p>Die <strong>Energie-Checkliste 2.0</strong> und das <strong>Sofort-Energie-Videotraining</strong> sind für <strong>viele Zielgruppen</strong> interessant, weil <strong>JEDER</strong>  von einem hohen Energie-Level profitiert!</p>
-<p><strong>Gestestete Mailvorlagen und Bilder</strong> stehen auf der <strong>"Affiliate-Support-Seite"</strong> zur Verfügung.</p>
+**Vendor's marketplace description:** "Die 12 stärksten Hacks für maximale Energie" Schritt für Schritt einfach erklärt im "Sofort-Energie-Videotraining" (1:10 Std) + Bonus-Video: "Realität gezielt erschaffen" (45 Min) Kostenfreies Initialprodukt: Energie-Checkliste 2.0 mit den 12 stärksten Hacks für maximale Energie! Bitte folgenden Link benutzen (empfohlen): https://www.digistore24.com/content/522678/45875/ AFFILIATE / CAMPAIGNKEY 1. Upsell auf Tripwire (7 €): Sofort-Energie-Videotraining 2. Upsell auf Core-Product (47 €): Anziehungskraft-Dreieck 3. Upsell auf Profit-Optimizer (97 €): Anziehungskraft-Masterplan Sämtliche Upsells werden mit 50% Provision vergütet (Abzüglich MwSt. + Digistore24-Gebühren) Die Energie-Checkliste 2.0 und das Sofort-Energie-Videotraining sind für viele Zielgruppen interessant, weil JEDER von einem hohen Energie-Level profitiert! Gestestete Mailvorlagen und Bilder stehen auf der "Affiliate-Support-Seite" zur Verfügung.
 
 ## 2. Links
 

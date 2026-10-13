@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hallo, wir sind Karsten „Raul Falco“ Wagner und Jeannette Wagner. Wir sind ein Künstlerpaar aus Sachsen und malen seit 2010 Energiebilder und bilden mittlerweile auch seit 2013 Menschen aus, dieses selbst zu erlernen.</p>
-<p>Wir haben all unsere Erfahrung der letzten Jahre zusammen genommen und den ersten Teil einer Online Videokursreihe geschaffen, die sich speziell mit dem Thema Energiebilder beschäftigt. Im Level 1 lernst Du das wohl bekannteste und unserer Meinung nach auch kraftvollste Symbol kennen,<strong> „Die Blume des Lebens“</strong>. Die Blume des Lebens ist das Symbol der Erdung, sie wirkt auf alle Bereiche des Lebens harmonisierend.</p>
-<p>Wir würden uns freuen wenn Du Interesse hast unseren tollen Kurs promoten zu wollen.</p>
-<p> </p>
-<p>Die Verkaufsseite findest Du hier: <strong><a href="https://energiebilder-selber-malen.de/blume-des-lebens-malen/" target="_blank" rel="noreferrer noopener">Verkaufsseite</a></strong></p>
-<p> </p>
-<p>Mehr Hinweise und Banner zu unserem Partnerprogramm findest Du hier: <strong><a href="https://energiebilder-selber-malen.de/affiliate-info" target="_blank" rel="noreferrer noopener">Partnerpogramm</a></strong></p>
-<p> </p>
+**Vendor's marketplace description:** Hallo, wir sind Karsten „Raul Falco“ Wagner und Jeannette Wagner. Wir sind ein Künstlerpaar aus Sachsen und malen seit 2010 Energiebilder und bilden mittlerweile auch seit 2013 Menschen aus, dieses selbst zu erlernen. Wir haben all unsere Erfahrung der letzten Jahre zusammen genommen und den ersten Teil einer Online Videokursreihe geschaffen, die sich speziell mit dem Thema Energiebilder beschäftigt. Im Level 1 lernst Du das wohl bekannteste und unserer Meinung nach auch kraftvollste Symbol kennen, „Die Blume des Lebens“ . Die Blume des Lebens ist das Symbol der Erdung, sie wirkt auf alle Bereiche des Lebens harmonisierend. Wir würden uns freuen wenn Du Interesse hast unseren tollen Kurs promoten zu wollen. Die Verkaufsseite findest Du hier: Verkaufsseite Mehr Hinweise und Banner zu unserem Partnerprogramm findest Du hier: Partnerpogramm
 
 ## 2. Links
 

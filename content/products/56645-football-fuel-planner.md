@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Football Fuel Planner liefert dir genau die Ernährung, die du als Fußballer wirklich brauchst, abgestimmt auf Training, Spieltag und Regeneration. Statt komplizierter Pläne bekommst du klare, umsetzbare Empfehlungen für maximale Leistung auf dem Platz. Individuelle Tagespläne passend zu Training oder Spiel, Konkrete Mahlzeiten-Empfehlungen statt theoretischer Vorgaben. Spezieller Spieltag-Modus für optimale Performance. Einfach umsetzbar ohne Kalorientracking oder Technik-Zwang. Entwickelt für Amateur- und ambitionierte Fußballer.</p>
+**Vendor's marketplace description:** Der Football Fuel Planner liefert dir genau die Ernährung, die du als Fußballer wirklich brauchst, abgestimmt auf Training, Spieltag und Regeneration. Statt komplizierter Pläne bekommst du klare, umsetzbare Empfehlungen für maximale Leistung auf dem Platz. Individuelle Tagespläne passend zu Training oder Spiel, Konkrete Mahlzeiten-Empfehlungen statt theoretischer Vorgaben. Spezieller Spieltag-Modus für optimale Performance. Einfach umsetzbar ohne Kalorientracking oder Technik-Zwang. Entwickelt für Amateur- und ambitionierte Fußballer.
 
 ## 2. Links
 

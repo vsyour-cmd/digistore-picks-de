@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<p><span style="font-size:14px;">Denkst du darüber nach, deinen Traum vom eigenen Stall in die Wirklichkeit umzusetzen? Großartig! Hierbei möchte ich dich gern mit ein paar hilfreichen Tipps und Ideen unterstützen und dich so ein Stück auf deinem Weg zum Selbstversorger begleiten. A</span><span style="font-size:14px;">uf 135 Seiten findest du jede Menge Erfahrungen, Tipps und Inspirationen sowie Arbeitsmaterial, das dir bei deiner Stallplanung helfen soll.</span></p>
-</div>
+**Vendor's marketplace description:** Denkst du darüber nach, deinen Traum vom eigenen Stall in die Wirklichkeit umzusetzen? Großartig! Hierbei möchte ich dich gern mit ein paar hilfreichen Tipps und Ideen unterstützen und dich so ein Stück auf deinem Weg zum Selbstversorger begleiten. A uf 135 Seiten findest du jede Menge Erfahrungen, Tipps und Inspirationen sowie Arbeitsmaterial, das dir bei deiner Stallplanung helfen soll.
 
 ## 2. Links
 

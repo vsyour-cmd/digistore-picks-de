@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>Ein hochaktuelles Wissens-Thema mit enormer Reichweite:</p>
-<p>Dieses Buch entschlüsselt die unsichtbaren Meeresströmungen, die Klima, Ökosysteme und das Leben auf der Erde maßgeblich beeinflussen.</p>
-<p>Es trifft exakt den Nerv von Lesern, die sich für Klimawandel, Umwelt und globale Zusammenhänge interessieren, und bietet komplexes Wissen verständlich und spannend aufbereitet.</p>
-<p>Die Verbindung aus Wissenschaft, Aktualität und globaler Relevanz sorgt für starke Aufmerksamkeit und vielseitige Vermarktungsmöglichkeiten im Bildungs- und Doku-Bereich.</p>
-<p>Ein ideales Produkt für Affiliates, die auf nachhaltige Nachfrage und inhaltlich starke Conversion setzen.</p>
-</div>
-</div>
-</div>
-</div>
-<div> </div>
-<div>
-<div> </div>
-</div>
-</div>
-</div>
-<div> </div>
+**Vendor's marketplace description:** Ein hochaktuelles Wissens-Thema mit enormer Reichweite: Dieses Buch entschlüsselt die unsichtbaren Meeresströmungen, die Klima, Ökosysteme und das Leben auf der Erde maßgeblich beeinflussen. Es trifft exakt den Nerv von Lesern, die sich für Klimawandel, Umwelt und globale Zusammenhänge interessieren, und bietet komplexes Wissen verständlich und spannend aufbereitet. Die Verbindung aus Wissenschaft, Aktualität und globaler Relevanz sorgt für starke Aufmerksamkeit und vielseitige Vermarktungsmöglichkeiten im Bildungs- und Doku-Bereich. Ein ideales Produkt für Affiliates, die auf nachhaltige Nachfrage und inhaltlich starke Conversion setzen.
 
 ## 2. Links
 

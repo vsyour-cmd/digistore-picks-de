@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff99;">+++ Mächtiges 1 Euro Einstiegsangebot bei extrem hoher Conversion +++ geringe Kaufbarriere mit "no-brainer" Qualität +++ erzeugt hohes Verlangen +++<br /></span></p>
-<ul>
-<li>
-<p>Sofort-Upsell: Satte <strong>50% Provision auf das Hauptprodukt</strong> (Kaufpreis 177 Euro)</p>
-</li>
-<li>
-<p><strong>60% Provision </strong>auf alle anderen Produkte im Funnel (35 Euro bis 79 Euro),</p>
-</li>
-<li>Hochwertige, conversionoptimierte <strong>follow-up eMail</strong> Sequenz über mehrere Wochen</li>
-<li>
-<p><strong>Zeitloser Markt</strong> (Frauen, Dating, Erfolg etc.) für alle Männer von 18 bis 88,</p>
-</li>
-<li>
-<p>Renommierter Autor, Top Support, kaum Refunds, Produkte mit <strong>echtem Mehrwert</strong></p>
-</li>
-</ul>
-<p>Schickt uns einfach den Traffic - wir machen den Rest!</p>
-<p> </p>
+**Vendor's marketplace description:** +++ Mächtiges 1 Euro Einstiegsangebot bei extrem hoher Conversion +++ geringe Kaufbarriere mit "no-brainer" Qualität +++ erzeugt hohes Verlangen +++ Sofort-Upsell: Satte 50% Provision auf das Hauptprodukt (Kaufpreis 177 Euro) 60% Provision auf alle anderen Produkte im Funnel (35 Euro bis 79 Euro), Hochwertige, conversionoptimierte follow-up eMail Sequenz über mehrere Wochen Zeitloser Markt (Frauen, Dating, Erfolg etc.) für alle Männer von 18 bis 88, Renommierter Autor, Top Support, kaum Refunds, Produkte mit echtem Mehrwert Schickt uns einfach den Traffic - wir machen den Rest!
 
 ## 2. Links
 

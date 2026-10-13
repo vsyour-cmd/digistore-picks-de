@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h4>Der Adult Content Marketing Kurs - Einnahmen mit Instagram und Erwachsenen Content (Bilder)<br /><br />In diesem Kurs lernen die Nutzer, wie sie mit Inhalten für Erwachsene und 18+ Content Reichweite und Sichtbarkeit auf Instagram und Co aufbauen und mit Affiliate-Marketing  spitzen Provisionen erwirtschaften können.</h4>
-</div>
-<div>
-<div>
-<ul>
-<li><strong>Ansprechende 18+ KI-Inhalte erstellst:</strong> Die Geheimnisse, wie mit künstlicher Intelligenz fesselnde Bilder erstellt werden, die ein größeres Publikum auf Instagram anziehen.</li>
-<li><strong>Reichweite und Sichtbarkeit maximieren:</strong> Die Zahl der Follower erhöhen und das Engagement steigern, indem man Inhalte für Erwachsene auf Instagram strategisch platziert.</li>
-<li><strong>Nutzung von KI-Technologie, um ansprechende Inhalte zu erstellen, die beim Publikum ankommen:</strong> Lernen, wie man künstliche Intelligenz nutzen kann, um hochwertige Inhalte zu erstellen, die zu Konversionen und Engagement führen.</li>
-<li><strong>Einnahmen in ungeahnter Höhe erzielen durch einfaches Affiliate-Marketing:</strong> Die Macht des Affiliate-Marketings nutzen, um Provisionen zu verdienen, indem man 18+ Dienstleistungen bewirbt.</li>
-<li><strong>Professionelle Profile aufbauen und effektiv vermarkten:</strong> Lernen, wie man eine professionelle Online-Präsenz erstellt, die Inhalte für Erwachsene effektiv vermarktet und potenzielle Kunden und Fans anzieht.<br /><br /><br /></li>
-</ul>
-<p><strong>Der Kurs kostet 27,90€ und Du bist am Add-On, so wie am kompletten Up- und Downsell mit <br />50% beteiligt.</strong><br /><strong>+ 15% Lifetime Provision.</strong><br /><br />115€ Provision beim Funnel-Durchlauf für Dich möglich. Funnel wird laufend erweitert und angepasst.<br /><br />Viel Erfolg und fette Beute!</p>
-<p> </p>
-</div>
-</div>
+**Vendor's marketplace description:** Der Adult Content Marketing Kurs - Einnahmen mit Instagram und Erwachsenen Content (Bilder) In diesem Kurs lernen die Nutzer, wie sie mit Inhalten für Erwachsene und 18+ Content Reichweite und Sichtbarkeit auf Instagram und Co aufbauen und mit Affiliate-Marketing spitzen Provisionen erwirtschaften können. Ansprechende 18+ KI-Inhalte erstellst: Die Geheimnisse, wie mit künstlicher Intelligenz fesselnde Bilder erstellt werden, die ein größeres Publikum auf Instagram anziehen. Reichweite und Sichtbarkeit maximieren: Die Zahl der Follower erhöhen und das Engagement steigern, indem man Inhalte für Erwachsene auf Instagram strategisch platziert. Nutzung von KI-Technologie, um ansprechende Inhalte zu erstellen, die beim Publikum ankommen: Lernen, wie man künstliche Intelligenz nutzen kann, um hochwertige Inhalte zu erstellen, die zu Konversionen und Engagement führen. Einnahmen in ungeahnter Höhe erzielen durch einfaches Affiliate-Marketing: Die Macht des Affiliate-Marketings nutzen, um Provisionen zu verdienen, indem man 18+ Dienstleistungen bewirbt. Professionelle Profile aufbauen und effektiv vermarkten: Lernen, wie man eine professionelle Online-Präsenz erstellt, die Inhalte für Erwachsene effektiv vermarktet und potenzielle Kunden und Fans anzieht. Der Kurs kostet 27,90€ und Du bist am Add-On, so wie am kompletten Up- und Downsell mit 50% beteiligt. + 15% Lifetime Provision. 115€ Provision beim Funnel-Durchlauf für Dich möglich. Funnel wird laufend erweitert und angepasst. Viel Erfolg und fette Beute!
 
 ## 2. Links
 

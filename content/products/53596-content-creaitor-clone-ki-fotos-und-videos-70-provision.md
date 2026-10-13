@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In meinem Online-Kurs Content CreAItor Clone zeige ich, wie du mit eigenen Fotos einen KI-Klon erstellst und ihn für neue Bilder und kurze Social-Media-Videos nutzt. Dazu gehören Ideen, Videotexte und die Vorbereitung mehrerer Beiträge. Du lernst mit Videolektionen in deinem Tempo und kannst dich in meiner Skool-Community austauschen.</p>
-<p>Der Kurs kostet 111 € einmalig. Für die verwendeten KI-Tools können separate Kosten anfallen.</p>
-<p>Als Affiliate erhältst du 70 % Provision auf die Digistore24-Provisionsbasis nach Abzug von Umsatzsteuer und Digistore24-Marge. Partnerschaften werden automatisch angenommen. Auf meiner Affiliate-Support-Seite findest du den Partnerbeitritt, einen Werbelink-Generator sowie Texte und Bilder für deine Empfehlung.</p>
-<p>Der Kurs eignet sich für Selbstständige, Coaches und Creator, die eigene KI-Fotos und Videos erstellen möchten. Die Umsetzung erfordert eigene Mitarbeit; bestimmte Reichweiten oder Einnahmen werden nicht versprochen.</p>
+**Vendor's marketplace description:** In meinem Online-Kurs Content CreAItor Clone zeige ich, wie du mit eigenen Fotos einen KI-Klon erstellst und ihn für neue Bilder und kurze Social-Media-Videos nutzt. Dazu gehören Ideen, Videotexte und die Vorbereitung mehrerer Beiträge. Du lernst mit Videolektionen in deinem Tempo und kannst dich in meiner Skool-Community austauschen. Der Kurs kostet 111 € einmalig. Für die verwendeten KI-Tools können separate Kosten anfallen. Als Affiliate erhältst du 70 % Provision auf die Digistore24-Provisionsbasis nach Abzug von Umsatzsteuer und Digistore24-Marge. Partnerschaften werden automatisch angenommen. Auf meiner Affiliate-Support-Seite findest du den Partnerbeitritt, einen Werbelink-Generator sowie Texte und Bilder für deine Empfehlung. Der Kurs eignet sich für Selbstständige, Coaches und Creator, die eigene KI-Fotos und Videos erstellen möchten. Die Umsetzung erfordert eigene Mitarbeit; bestimmte Reichweiten oder Einnahmen werden nicht versprochen.
 
 ## 2. Links
 

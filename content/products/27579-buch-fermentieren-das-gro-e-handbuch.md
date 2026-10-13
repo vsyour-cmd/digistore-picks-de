@@ -41,44 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<p>DIESES BUCH IST MEHR ALS NUR EIN FERMENTATIONSBUCH ...</p>
-<p><strong>Unser Ziel? Fermentiertes Gemüse soll deinen Lesern Power &amp; Leichtigkeit im Alltag schenken. </strong></p>
-<p>Es gibt genug Fermentationsbücher auf dem Markt. Deswegen war es uns wichtig, mit unserem Buch etwas ganz Neues zu kreieren. Fermentation auf den Punkt gebracht! Keine lange Einleitung, kein Geschwafel. Kurz und knackig erklären wir dir mit wunderschönen Bildern, wie du definitiv erfolgreich fermentieren wirst!</p>
-<p>Komplexe chemische Prozesse, komplizierte biologische Abkürzungen und Fachgesimpel, das du erst garnicht verstehen willst? Keine Sorge, darauf haben wir auch keine Lust! Wir erklären dir so verständlich  und nachvollziehbar wie möglich, wie Fermentation funktioniert!</p>
-<p>Endlich ist da alles drin, was wir in anderen Fermentationsbüchern vermisst haben oder zu unkonkret fanden. Unsere ganze langjährige Fermentationserfahrung ist geballt enthalten!</p>
-<p>Denn wir wollen, dass ganz Deutschland wieder in den Fermentations-Modus kommt!</p>
-</div>
-<div>
-<p>✔ Fermentations-Mindset mit Leichtigkeit</p>
-<p>Was ist, wenn ab heute Fermentation in deine DNA übergeht und es keine Verbote mehr gibt? Keinen Zwang. Keine Zahlen. Nur Du, dein Gemüse und lauter bunte, natürliche Leckereien. </p>
-<p>✔ Fermentations-Basics</p>
-<p>Know-how rund um das Thema Fermentation leicht gemacht! Mit konkreten Werten, Informationen und Rezepten kommst du sofort in die Umsetzung und kannst dir selbst einfache gesunde Leckereien zaubern. </p>
-<p>✔ Sauer macht glücklichs Fermentations-Hacks</p>
-<p>Mach Dir das Fermentieren leichter! Super einfache Fermentationshacks für tolle Rezepte und wunderbare Resultate. </p>
-<p><strong>Was bekommst du in dem Buch?</strong></p>
-<div>
-<p>✔ Grundlagenwissen über Fermentation - leicht und verständlich erklärt</p>
-<p>✔ Starke Gründe, warum du Fermentiertes essen solltest</p>
-<p>✔ Einblicke in die gesundheitlichen Vorteile von Fermenten</p>
-<p>✔ Einführung in deine eigene Fermentations-Praxis</p>
-<p>✔ Genaue Auflistung der Dinge, die du für die Fermentation benötigst</p>
-<p>✔ Tipps, damit ganz sicher nichts schief geht Leckere Rezepte, die garantiert gelingen</p>
-<p><strong>Du lernst:</strong></p>
-<p>✔ was Fermentation überhaupt ist.</p>
-<p>✔ wie Fermentation funktioniert.</p>
-<p>✔ warum du Fermente unbedingt in deine Ernährung integrieren solltest.</p>
-<p>✔ wie sich Fermente auf deine Gesundheit auswirken.</p>
-<p>✔ wie Fermente deinen Darm auf Vordermann bringen.</p>
-<p>✔ die Unterschiede zwischen verschiedenen Arten der Fermentation kennen.</p>
-<p>✔ wie lange Fermentation dauert.</p>
-<p>✔ wie du Fermente am besten lagerst.</p>
-<p>und vieles mehr….</p>
-</div>
-<div>
-<p><strong>Bring die Gesundheit deiner Leser auf ein neues Level!</strong> </p>
-</div>
-</div>
+**Vendor's marketplace description:** DIESES BUCH IST MEHR ALS NUR EIN FERMENTATIONSBUCH ... Unser Ziel? Fermentiertes Gemüse soll deinen Lesern Power & Leichtigkeit im Alltag schenken. Es gibt genug Fermentationsbücher auf dem Markt. Deswegen war es uns wichtig, mit unserem Buch etwas ganz Neues zu kreieren. Fermentation auf den Punkt gebracht! Keine lange Einleitung, kein Geschwafel. Kurz und knackig erklären wir dir mit wunderschönen Bildern, wie du definitiv erfolgreich fermentieren wirst! Komplexe chemische Prozesse, komplizierte biologische Abkürzungen und Fachgesimpel, das du erst garnicht verstehen willst? Keine Sorge, darauf haben wir auch keine Lust! Wir erklären dir so verständlich und nachvollziehbar wie möglich, wie Fermentation funktioniert! Endlich ist da alles drin, was wir in anderen Fermentationsbüchern vermisst haben oder zu unkonkret fanden. Unsere ganze langjährige Fermentationserfahrung ist geballt enthalten! Denn wir wollen, dass ganz Deutschland wieder in den Fermentations-Modus kommt! ✔ Fermentations-Mindset mit Leichtigkeit Was ist, wenn ab heute Fermentation in deine DNA übergeht und es keine Verbote mehr gibt? Keinen Zwang. Keine Zahlen. Nur Du, dein Gemüse und lauter bunte, natürliche Leckereien. ✔ Fermentations-Basics Know-how rund um das Thema Fermentation leicht gemacht! Mit konkreten Werten, Informationen und Rezepten kommst du sofort in die Umsetzung und kannst dir selbst einfache gesunde Leckereien zaubern. ✔ Sauer macht glücklichs Fermentations-Hacks Mach Dir das Fermentieren leichter! Super einfache Fermentationshacks für tolle Rezepte und wunderbare Resultate. Was bekommst du in dem Buch? ✔ Grundlagenwissen über Fermentation - leicht und verständlich erklärt ✔ Starke Gründe, warum du Fermentiertes essen solltest ✔ Einblicke in die gesundheitlichen Vorteile von Fermenten ✔ Einführung in deine eigene Fermentations-Praxis ✔ Genaue Auflistung der Dinge, die du für die Fermentation benötigst ✔ Tipps, damit ganz sicher nichts schief geht Leckere Rezepte, die garantiert gelingen Du lernst: ✔ was Fermentation überhaupt ist. ✔ wie Fermentation funktioniert. ✔ warum du Fermente unbedingt in deine Ernährung integrieren solltest. ✔ wie sich Fermente auf deine Gesundheit auswirken. ✔ wie Fermente deinen Darm auf Vordermann bringen. ✔ die Unterschiede zwischen verschiedenen Arten der Fermentation kennen. ✔ wie lange Fermentation dauert. ✔ wie du Fermente am besten lagerst. und vieles mehr…. Bring die Gesundheit deiner Leser auf ein neues Level!
 
 ## 2. Links
 

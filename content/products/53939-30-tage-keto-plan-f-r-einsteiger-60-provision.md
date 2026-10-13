@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Verdiene 60 % Provision mit unserem 30-Tage Keto-Plan für Einsteiger!</p>
-<p>Das E-Book bietet einen klar strukturierten Ernährungsplan, leckere Keto-Rezepte und leicht verständliche Grundlagen – perfekt für alle, die gesund abnehmen wollen.</p>
-<p>Hohe Nachfrage, starke Conversion-Rate und fertiges Werbematerial (Banner, Texte, Mockups) inklusive.</p>
-<p>Starte jetzt als Affiliate und sichere dir deine Provision!</p>
+**Vendor's marketplace description:** Verdiene 60 % Provision mit unserem 30-Tage Keto-Plan für Einsteiger! Das E-Book bietet einen klar strukturierten Ernährungsplan, leckere Keto-Rezepte und leicht verständliche Grundlagen – perfekt für alle, die gesund abnehmen wollen. Hohe Nachfrage, starke Conversion-Rate und fertiges Werbematerial (Banner, Texte, Mockups) inklusive. Starte jetzt als Affiliate und sichere dir deine Provision!
 
 ## 2. Links
 

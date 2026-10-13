@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du möchtest im Workshop, Verkaufsgespräch, Training oder Coaching live, in Echtzeit visualisieren und damit einen wirklichen Unterschied machen?</p>
-<p>In diesem Online-Training zeige ich dir, wie du souverän und sicher die Beiträge deiner Teilnehmenden oder deines Kunden aufnimmst. Mit der Live-Visualisierung präsentierst du nicht nur Inhalte – du erzeugst ein Erlebnis. Du strukturierst den Prozess und schaffst Klarheit. Du erreichst deinen Gegenüber emotional und präsentierst dich menschlich und gleichzeitig professionell. In kleinen Übungen und mit vielen Tipps lernst du das Live Visualisieren kennen.</p>
+**Vendor's marketplace description:** Du möchtest im Workshop, Verkaufsgespräch, Training oder Coaching live, in Echtzeit visualisieren und damit einen wirklichen Unterschied machen? In diesem Online-Training zeige ich dir, wie du souverän und sicher die Beiträge deiner Teilnehmenden oder deines Kunden aufnimmst. Mit der Live-Visualisierung präsentierst du nicht nur Inhalte – du erzeugst ein Erlebnis. Du strukturierst den Prozess und schaffst Klarheit. Du erreichst deinen Gegenüber emotional und präsentierst dich menschlich und gleichzeitig professionell. In kleinen Übungen und mit vielen Tipps lernst du das Live Visualisieren kennen.
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Für Affiliates:</strong> CloverNets Hosting für Clover-Produkte und WordPress. 25 % Provision auf alle fünf Tarife inklusive Managed CloverNut und Managed WordPress.</p>
-<p>Wiederkehrende Hosting-Umsätze, automatische Affiliate-Aufnahme.</p>
-<ul>
-<li>Starter ab 2,99 € / Monat (35,88 € / Jahr)</li>
-<li>Verwandte Tarife: Business, Premium, Managed CloverNut, Managed WordPress</li>
-</ul>
-<p>Salespage: <a href="https://clovernets.com">clovernets.com</a><br />Affiliate-Support: <a href="https://hih-digital.com/affiliates/clovernets.html">hih-digital.com/affiliates/clovernets.html</a></p>
+**Vendor's marketplace description:** Für Affiliates: CloverNets Hosting für Clover-Produkte und WordPress. 25 % Provision auf alle fünf Tarife inklusive Managed CloverNut und Managed WordPress. Wiederkehrende Hosting-Umsätze, automatische Affiliate-Aufnahme. Starter ab 2,99 € / Monat (35,88 € / Jahr) Verwandte Tarife: Business, Premium, Managed CloverNut, Managed WordPress Salespage: clovernets.com Affiliate-Support: hih-digital.com/affiliates/clovernets.html
 
 ## 2. Links
 

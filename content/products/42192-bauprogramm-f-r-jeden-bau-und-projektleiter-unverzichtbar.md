@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Endlich eine einfache Terminprogramm - Software</strong></p>
-<ul>
-<li>Dargestellt als Gantt Diagramm</li>
-<li>Webbasiert</li>
-</ul>
-<p>Bauprogramm ist ein anderes Wort für Bauzeitenplan oder Bauablaufplan. Das Bauprogramm dient zur Koordination und Kontrolle aller beteiligten Projektpartner.  Bauprogramm.com wurde ursprünglich für das Baugewerbe entwickelt, wird aber inzwischen von vielen weiteren Branchen verwendet.</p>
-<p><strong>Das Perfekte Affiliate Produkt:</strong></p>
-<ul>
-<li>Fast jeder Architekt, Bau- und Projektleiter muss Bauzeitenpläne erstellen</li>
-<li>Attraktiver Verkaufspreis</li>
-<li><strong>10% Lifetime-Provision</strong></li>
-<li><strong>Empfehlungsprovision</strong></li>
-<li>100-prozentiger Affiliate-Schutz: garantiert korrekte und pünktlich ausgezahlte Provisionen sowie Real-Time-Tracking dank Digistore24.</li>
-</ul>
-<p>Der Interessent kann zuerst eine kostenlose Free-Lizenz lösen. Sobald dieser eine Lizenz kauft, wird deine Provision ausgelöst.</p>
+**Vendor's marketplace description:** Endlich eine einfache Terminprogramm - Software Dargestellt als Gantt Diagramm Webbasiert Bauprogramm ist ein anderes Wort für Bauzeitenplan oder Bauablaufplan. Das Bauprogramm dient zur Koordination und Kontrolle aller beteiligten Projektpartner. Bauprogramm.com wurde ursprünglich für das Baugewerbe entwickelt, wird aber inzwischen von vielen weiteren Branchen verwendet. Das Perfekte Affiliate Produkt: Fast jeder Architekt, Bau- und Projektleiter muss Bauzeitenpläne erstellen Attraktiver Verkaufspreis 10% Lifetime-Provision Empfehlungsprovision 100-prozentiger Affiliate-Schutz: garantiert korrekte und pünktlich ausgezahlte Provisionen sowie Real-Time-Tracking dank Digistore24. Der Interessent kann zuerst eine kostenlose Free-Lizenz lösen. Sobald dieser eine Lizenz kauft, wird deine Provision ausgelöst.
 
 ## 2. Links
 

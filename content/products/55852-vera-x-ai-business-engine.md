@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>VERA-X AI Business Engine™</strong> ist ein vollständig aufgebautes KI-Business-System für Unternehmen. Statt nur Software zu verkaufen, erhält der Kunde eine komplette Infrastruktur inklusive High-Conversion-Landingpage, KI-Sales-Agent, CRM-Integration und automatisierter Leadbearbeitung.</p>
-<p>Das System beantwortet Kundenanfragen automatisch, unterstützt den Vertrieb und hilft Unternehmen, schneller auf Leads zu reagieren und mehr Termine zu vereinbaren.</p>
-<p>Als Affiliate empfehlen Sie ein hochwertiges Done-for-You-Business-System für Unternehmer. Der Kunde erhält ein vollständiges Setup, das von unserem Team umgesetzt wird – Sie vermitteln lediglich den Kontakt.</p>
-<p>Provision pro Verkauf: 2.999 € zzgl. gest MwSt. </p>
-<p>Weitere Infos und Marketingmaterial für Affiliates:<br />https://aiagentbusiness.io/ai-business-setup-affiliate</p>
+**Vendor's marketplace description:** VERA-X AI Business Engine™ ist ein vollständig aufgebautes KI-Business-System für Unternehmen. Statt nur Software zu verkaufen, erhält der Kunde eine komplette Infrastruktur inklusive High-Conversion-Landingpage, KI-Sales-Agent, CRM-Integration und automatisierter Leadbearbeitung. Das System beantwortet Kundenanfragen automatisch, unterstützt den Vertrieb und hilft Unternehmen, schneller auf Leads zu reagieren und mehr Termine zu vereinbaren. Als Affiliate empfehlen Sie ein hochwertiges Done-for-You-Business-System für Unternehmer. Der Kunde erhält ein vollständiges Setup, das von unserem Team umgesetzt wird – Sie vermitteln lediglich den Kontakt. Provision pro Verkauf: 2.999 € zzgl. gest MwSt. Weitere Infos und Marketingmaterial für Affiliates: https://aiagentbusiness.io/ai-business-setup-affiliate
 
 ## 2. Links
 

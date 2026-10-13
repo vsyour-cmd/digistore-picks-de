@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit dem ousuca® Partnerprogramm zum Self Reliance Survival Camp (SRSC) kannst du ein passives Einkommen aufbauen.</p>
-<p>Bewerbe das eBook <strong><em>Survival Feuertechniken / Feuer machen wie ein Pro</em></strong> zum SRSC Survivalkurs.</p>
-<p><strong>Vorteile für Nutzer:</strong></p>
-<ul>
-<li>204 Seiten </li>
-<li>192 erklärende Bilder</li>
-<li>Survivalwissen zum Mitnehmen</li>
-</ul>
-<p><strong>Deine Vorteile als Affiliate:</strong></p>
-<ul>
-<li>50 % für jeden Verkauf</li>
-<li>ousuca® SRSC eBook Branding und somit hoher Wiedererkennungswert</li>
-<li>Upsells (geplant) und weitere Verdienstmöglichkeiten mit ousuca® durch Abos zum SRSC möglich</li>
-</ul>
-<p>Werde Partner von ousuca® und vom ersten umfangreichen Online-Survival-Kurs und den einzeln angeboteten Produkten wie die SRSC Survival eBooks und baue dir ein passives Einkommen auf.</p>
+**Vendor's marketplace description:** Mit dem ousuca® Partnerprogramm zum Self Reliance Survival Camp (SRSC) kannst du ein passives Einkommen aufbauen. Bewerbe das eBook Survival Feuertechniken / Feuer machen wie ein Pro zum SRSC Survivalkurs. Vorteile für Nutzer: 204 Seiten 192 erklärende Bilder Survivalwissen zum Mitnehmen Deine Vorteile als Affiliate: 50 % für jeden Verkauf ousuca® SRSC eBook Branding und somit hoher Wiedererkennungswert Upsells (geplant) und weitere Verdienstmöglichkeiten mit ousuca® durch Abos zum SRSC möglich Werde Partner von ousuca® und vom ersten umfangreichen Online-Survival-Kurs und den einzeln angeboteten Produkten wie die SRSC Survival eBooks und baue dir ein passives Einkommen auf.
 
 ## 2. Links
 

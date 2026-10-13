@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>35-Stunden-Fernkurs</strong> für Au-Pairs, Babysitter, Eltern, Großeltern und sonstige Kinderbetreuungspersonen - inklusive Online-Prüfung.</p>
-<p><strong>Der einzige Kurs</strong>, der die Ausbildung selbstbestimmt binnen 3 Tagen ermöglicht, bei eigener Zeiteinteilung. Die 3 Module gibt es wahlweise als download-bare Audio-Dateien (MP3), sodass ein Lernen unterwegs bzw. ohne Lesen möglich ist.</p>
-<p>Nach bestandener Prüfung erhalten Sie eine Urkunde, die Sie als "<strong>Pädagogisch qualifizierte Person</strong>" auszeichnet. Dieser Titel ist in Österreich gesetzlich anerkannt.</p>
-<p><span style="background-color:#ffff99;"><strong>=&gt; 30 Tage Geld-zurück-Garantie. &lt;=</strong></span></p>
+**Vendor's marketplace description:** 35-Stunden-Fernkurs für Au-Pairs, Babysitter, Eltern, Großeltern und sonstige Kinderbetreuungspersonen - inklusive Online-Prüfung. Der einzige Kurs , der die Ausbildung selbstbestimmt binnen 3 Tagen ermöglicht, bei eigener Zeiteinteilung. Die 3 Module gibt es wahlweise als download-bare Audio-Dateien (MP3), sodass ein Lernen unterwegs bzw. ohne Lesen möglich ist. Nach bestandener Prüfung erhalten Sie eine Urkunde, die Sie als " Pädagogisch qualifizierte Person " auszeichnet. Dieser Titel ist in Österreich gesetzlich anerkannt. => 30 Tage Geld-zurück-Garantie. <=
 
 ## 2. Links
 

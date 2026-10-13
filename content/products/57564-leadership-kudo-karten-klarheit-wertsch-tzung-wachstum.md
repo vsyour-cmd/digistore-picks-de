@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die <strong>Leadership KUDO Karten</strong> unterstützen Menschen dabei, Wertschätzung bewusst zu leben – für sich selbst und im Miteinander. Das digitale Kartenset enthält 24 inspirierende Impulse in zwei PDF-Sets: <strong>Selbstliebe</strong> und <strong>Teamarbeit</strong>. Sie fördern Selbstführung, stärken die Teamkultur und schaffen Raum für bewusste Reflexion im Alltag.</p>
-<p>Die Karten eignen sich für den persönlichen Gebrauch ebenso wie für Meetings, Workshops, Coachings oder als Impulse in der täglichen Führungsarbeit. Sie können digital genutzt oder einfach ausgedruckt werden.</p>
-<p><strong>Geeignet für:</strong></p>
-<ul>
-<li>Führungskräfte und Teams</li>
-<li>Coaches, Trainer und Berater</li>
-<li>Unternehmer und Selbstständige</li>
-<li>Menschen, die Wertschätzung und bewusste Selbstführung im Alltag stärken möchten</li>
-</ul>
-<p><strong>Produktdetails:</strong></p>
-<ul>
-<li>Digitales Produkt (PDF) mit zwei Kartensets: Selbstliebe &amp; Teamarbeit</li>
-<li>24 inspirierende Impulse</li>
-<li>Sofortiger Download</li>
-<li>Förderbeitrag: <strong>37 EUR</strong></li>
-<li>Affiliate-Provision: <strong>50 %</strong></li>
-<li> </li>
-</ul>
-<p><strong>Über uns - die Leadership Akademie:</strong><br />Die Leadership Akademie ist ein gemeinnütziger Verein für Bildung und Persönlichkeitsentwicklung. Sie begleitet Menschen dabei, bewusste Selbstführung, Mindful Leadership und nachhaltige Entwicklung zu fördern. Alle Förderbeiträge fließen unmittelbar in die gemeinnützige Bildungs- und Entwicklungsarbeit der Akademie und unterstützen Projekte, die innere Klarheit, mentale Gesundheit und verantwortungsvolles Leadership stärken.</p>
+**Vendor's marketplace description:** Die Leadership KUDO Karten unterstützen Menschen dabei, Wertschätzung bewusst zu leben – für sich selbst und im Miteinander. Das digitale Kartenset enthält 24 inspirierende Impulse in zwei PDF-Sets: Selbstliebe und Teamarbeit . Sie fördern Selbstführung, stärken die Teamkultur und schaffen Raum für bewusste Reflexion im Alltag. Die Karten eignen sich für den persönlichen Gebrauch ebenso wie für Meetings, Workshops, Coachings oder als Impulse in der täglichen Führungsarbeit. Sie können digital genutzt oder einfach ausgedruckt werden. Geeignet für: Führungskräfte und Teams Coaches, Trainer und Berater Unternehmer und Selbstständige Menschen, die Wertschätzung und bewusste Selbstführung im Alltag stärken möchten Produktdetails: Digitales Produkt (PDF) mit zwei Kartensets: Selbstliebe & Teamarbeit 24 inspirierende Impulse Sofortiger Download Förderbeitrag: 37 EUR Affiliate-Provision: 50 % Über uns - die Leadership Akademie: Die Leadership Akademie ist ein gemeinnütziger Verein für Bildung und Persönlichkeitsentwicklung. Sie begleitet Menschen dabei, bewusste Selbstführung, Mindful Leadership und nachhaltige Entwicklung zu fördern. Alle Förderbeiträge fließen unmittelbar in die gemeinnützige Bildungs- und Entwicklungsarbeit der Akademie und unterstützen Projekte, die innere Klarheit, mentale Gesundheit und verantwortungsvolles Leadership stärken.
 
 ## 2. Links
 

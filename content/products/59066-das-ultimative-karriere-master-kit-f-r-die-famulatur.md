@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <hr />
-<p><strong>Famulatur-Handbuch – Dein Leitfaden für Bewerbungen, Lehrkrankenhäuser und optimalen Klinikstart</strong></p>
-<p>Das Famulatur-Handbuch begleitet Medizinstudierende strukturiert von der strategischen Fachbereichswahl bis zum ersten Tag auf Station – mit einer vollständigen Bewerbungsvorlage und Tipps für den Stationsalltag. Sofort als PDF verfügbar.</p>
-<p>Das ist enthalten:</p>
-<ul>
-<li>Empfehlungen zur Fachbereichswahl nach Studienphase (von Innere Medizin bis Wahltertial)</li>
-<li>Entscheidungshilfe: Universitätsklinikum vs. akademisches Lehrkrankenhaus</li>
-<li>Organisatorische Checkliste (Äquivalenzbescheinigung, Impfstatus, Gesundheitszeugnis)</li>
-<li>Do's &amp; Don'ts im klinischen Alltag und auf Station</li>
-<li>Tipps zur strategischen Nutzung der Famulatur als Vorbereitung auf PJ und Berufseinstieg</li>
-<li>Vollständiges Muster-Anschreiben und Muster-Lebenslauf (sofort befüllbar)</li>
-</ul>
-<p>Sofortiger Download – kein Abo, keine versteckten Kosten.</p>
+**Vendor's marketplace description:** Famulatur-Handbuch – Dein Leitfaden für Bewerbungen, Lehrkrankenhäuser und optimalen Klinikstart Das Famulatur-Handbuch begleitet Medizinstudierende strukturiert von der strategischen Fachbereichswahl bis zum ersten Tag auf Station – mit einer vollständigen Bewerbungsvorlage und Tipps für den Stationsalltag. Sofort als PDF verfügbar. Das ist enthalten: Empfehlungen zur Fachbereichswahl nach Studienphase (von Innere Medizin bis Wahltertial) Entscheidungshilfe: Universitätsklinikum vs. akademisches Lehrkrankenhaus Organisatorische Checkliste (Äquivalenzbescheinigung, Impfstatus, Gesundheitszeugnis) Do's & Don'ts im klinischen Alltag und auf Station Tipps zur strategischen Nutzung der Famulatur als Vorbereitung auf PJ und Berufseinstieg Vollständiges Muster-Anschreiben und Muster-Lebenslauf (sofort befüllbar) Sofortiger Download – kein Abo, keine versteckten Kosten.
 
 ## 2. Links
 

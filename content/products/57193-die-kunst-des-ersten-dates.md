@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Die Kunst des ersten Dates“</strong></p>
-<p>Entspannt, echt und voller Verbindung – Das erste Date entscheidet viel – muss aber kein Stress sein. So planst und erlebst du ein Date, das entspannt, echt und verbindend ist.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Die richtige Erwartungshaltung</li>
-<li>Das perfekte erste Date planen</li>
-<li>Der erste Eindruck beim Treffen</li>
-<li>Gespräche, die verbinden</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Die Kunst des ersten Dates“ Entspannt, echt und voller Verbindung – Das erste Date entscheidet viel – muss aber kein Stress sein. So planst und erlebst du ein Date, das entspannt, echt und verbindend ist. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Die richtige Erwartungshaltung Das perfekte erste Date planen Der erste Eindruck beim Treffen Gespräche, die verbinden
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In diesem kompakten, mit wertvollem Knowhow voll gepackten Video-Intensiv-Kurs lernen Sie praxisnah und ohne unnötigen Ballast innerhalb weniger Stunden, wie Sie in Tonstudio- und Rundfunkqualität Sprache aufnehmen können und das mit Aufnahme Equipment unter 500 €. Sie brauchen keine Sprecherkabine, keinen besonderen Aufnahme-Raum und keinen Tonmeister.</p>
-<p>Die einzige Voraussetzung ist, dass Sie alle Anweisungen akribisch umsetzen und an keinem Punkt des Aufnahmeprozesses Fehler machen. Sprache aufnehmen ist ein Kinderspiel, wenn man weiß, wie.</p>
-<p>97 € - Zugang.</p>
+**Vendor's marketplace description:** In diesem kompakten, mit wertvollem Knowhow voll gepackten Video-Intensiv-Kurs lernen Sie praxisnah und ohne unnötigen Ballast innerhalb weniger Stunden, wie Sie in Tonstudio- und Rundfunkqualität Sprache aufnehmen können und das mit Aufnahme Equipment unter 500 €. Sie brauchen keine Sprecherkabine, keinen besonderen Aufnahme-Raum und keinen Tonmeister. Die einzige Voraussetzung ist, dass Sie alle Anweisungen akribisch umsetzen und an keinem Punkt des Aufnahmeprozesses Fehler machen. Sprache aufnehmen ist ein Kinderspiel, wenn man weiß, wie. 97 € - Zugang.
 
 ## 2. Links
 

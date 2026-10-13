@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>"Spardosen GmbH selbstgemacht" VIDEO-BLUEPRINT<br /><br />So realisierst Du Kursgewinne mit Aktien <strong>FAST</strong><br /><strong>STEUERFREI</strong> und vieles mehr!</p>
-<div>
-<div>Die folgenden Inhalte erwarten Dich!</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<p>Eine strukturierte Schritt-für-Schritt Anleitung von A bis Z (Gründung bis Jahresabschluss) inkl. Vorlagen</p>
-<p>4 detaillierte Video-Module mit vielen Beispielen, Kommentaren, Erklärungen, Anleitungen, Links und Dokumenten</p>
-<p>Modul I (Gründung &amp; Anmeldungen)</p>
-<p>Modul II (Setup &amp; Strategie) </p>
-<p>Modul III (Bewirtschaftung &amp; Buchhaltung) </p>
-<p>Modul IV (Jahresabschluss &amp; Steuererklärung)</p>
-<p>Musterdokumente (GmbH Gründungsvertrag, Eröffnungsbilanz, Gesellschafterdarlehensvertrag,  Gesellschafterbeschlüsse, Fortführungsprognose, Gewinnverwendung etc.) </p>
-<p>Alle Vorlagen gibt es als Worddokument, PDF, Excel-Dateien mit Kalkulationsbeispielen zum leichten anpassen an die eigenen Vorgaben, nachvollziehen und verstehen) </p>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** "Spardosen GmbH selbstgemacht" VIDEO-BLUEPRINT So realisierst Du Kursgewinne mit Aktien FAST STEUERFREI und vieles mehr! Die folgenden Inhalte erwarten Dich! Eine strukturierte Schritt-für-Schritt Anleitung von A bis Z (Gründung bis Jahresabschluss) inkl. Vorlagen 4 detaillierte Video-Module mit vielen Beispielen, Kommentaren, Erklärungen, Anleitungen, Links und Dokumenten Modul I (Gründung & Anmeldungen) Modul II (Setup & Strategie) Modul III (Bewirtschaftung & Buchhaltung) Modul IV (Jahresabschluss & Steuererklärung) Musterdokumente (GmbH Gründungsvertrag, Eröffnungsbilanz, Gesellschafterdarlehensvertrag, Gesellschafterbeschlüsse, Fortführungsprognose, Gewinnverwendung etc.) Alle Vorlagen gibt es als Worddokument, PDF, Excel-Dateien mit Kalkulationsbeispielen zum leichten anpassen an die eigenen Vorgaben, nachvollziehen und verstehen)
 
 ## 2. Links
 

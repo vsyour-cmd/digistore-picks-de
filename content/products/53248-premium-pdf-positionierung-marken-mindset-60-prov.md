@@ -41,50 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Premium-Affiliate-Produkt für strategisch denkende Marketer: Positionierung, Fokus &amp; Identität</strong></h3>
-<p><strong>40 % Provision – bis zu 60 € pro Verkauf | Teil eines High-Ticket-Bundles mit über 600 € Upsell-Potenzial</strong></p>
-<p><strong>Thema:</strong> <em>Inneres Wissen &amp; Positionierung im Marketing</em><br />Dieses PDF richtet sich an alle, die nicht nur Tools und Taktiken wollen – sondern echte Klarheit in ihrer Markenidentität, Zielgruppenansprache und strategischen Ausrichtung suchen.</p>
-<p>Ideal für Profis, die langfristig bestehen wollen: <strong>Unternehmer, Coaches, Creator, Freelancer, Markenberater, Agenturen und Marketingverantwortliche</strong>.</p>
-<h3> </h3>
-<h3>Warum Affiliates dieses Produkt gerne bewerben:</h3>
-<ul>
-<li>
-<p><strong>40 % Provision</strong> → ca. <strong>60 € pro Sale bei 149 € VK</strong></p>
-</li>
-<li>
-<p><strong>Psychologisch fundierter Premium-Content</strong> – entstanden aus über <strong>8 Jahren Agenturerfahrung</strong> und mehr als <strong>80.000 € Investitionen</strong> in Weiterbildung, Mentoring &amp; Markenentwicklung</p>
-</li>
-<li>
-<p><strong>Keine Motivation, sondern Methode</strong> – fundierte Inhalte für nachhaltige Positionierung &amp; unternehmerische Klarheit</p>
-</li>
-<li>
-<p><strong>Teil eines 10-teiligen Systems</strong> → Käufer steigen oft ins Bundle ein → über <strong>500 € Affiliate-Provision</strong> möglich</p>
-</li>
-<li>
-<p><strong>Conversion-starke Verkaufsseite</strong> – professionell aufgebaut, emotional und rational überzeugend</p>
-</li>
-<li>
-<p><strong>Hochrelevante Zielgruppe:</strong> Copywriter, Funnel-Builder, Selbstständige, Coaches, Berater, Agenturen, Creator, Teams aus Marketing &amp; Social Media</p>
-</li>
-</ul>
-<h3> </h3>
-<h3>Warum dieses Modul besonders gut performt:</h3>
-<ul>
-<li>
-<p><strong>Tiefe statt Taktik</strong> – Wer sich klar positioniert, verkauft stabiler und teurer</p>
-</li>
-<li>
-<p><strong>Psychologie trifft Strategie</strong> – perfekte Kombination für Premium-Käufer</p>
-</li>
-<li>
-<p><strong>Ideal als Abschluss oder Einstieg in Upsell-Funnel</strong> – starke Conversion-Logik über Bundle-Pfade</p>
-</li>
-</ul>
-<p> </p>
-<p><span style="color:#ff0000;"><strong>Bonus:</strong></span> Für Unternehmen <strong>100 % steuerlich absetzbar</strong></p>
-<p> </p>
-<p>Jetzt bewerben und mit echtem Tiefgang verkaufen – statt nur Tools zu bewerben.</p>
-<p><br /><strong>Dieses Modul trifft den Kern jeder erfolgreichen Marke – und überzeugt Käufer wie Affiliates gleichermaßen.</strong></p>
+**Vendor's marketplace description:** Premium-Affiliate-Produkt für strategisch denkende Marketer: Positionierung, Fokus & Identität 40 % Provision – bis zu 60 € pro Verkauf | Teil eines High-Ticket-Bundles mit über 600 € Upsell-Potenzial Thema: Inneres Wissen & Positionierung im Marketing Dieses PDF richtet sich an alle, die nicht nur Tools und Taktiken wollen – sondern echte Klarheit in ihrer Markenidentität, Zielgruppenansprache und strategischen Ausrichtung suchen. Ideal für Profis, die langfristig bestehen wollen: Unternehmer, Coaches, Creator, Freelancer, Markenberater, Agenturen und Marketingverantwortliche . Warum Affiliates dieses Produkt gerne bewerben: 40 % Provision → ca. 60 € pro Sale bei 149 € VK Psychologisch fundierter Premium-Content – entstanden aus über 8 Jahren Agenturerfahrung und mehr als 80.000 € Investitionen in Weiterbildung, Mentoring & Markenentwicklung Keine Motivation, sondern Methode – fundierte Inhalte für nachhaltige Positionierung & unternehmerische Klarheit Teil eines 10-teiligen Systems → Käufer steigen oft ins Bundle ein → über 500 € Affiliate-Provision möglich Conversion-starke Verkaufsseite – professionell aufgebaut, emotional und rational überzeugend Hochrelevante Zielgruppe: Copywriter, Funnel-Builder, Selbstständige, Coaches, Berater, Agenturen, Creator, Teams aus Marketing & Social Media Warum dieses Modul besonders gut performt: Tiefe statt Taktik – Wer sich klar positioniert, verkauft stabiler und teurer Psychologie trifft Strategie – perfekte Kombination für Premium-Käufer Ideal als Abschluss oder Einstieg in Upsell-Funnel – starke Conversion-Logik über Bundle-Pfade Bonus: Für Unternehmen 100 % steuerlich absetzbar Jetzt bewerben und mit echtem Tiefgang verkaufen – statt nur Tools zu bewerben. Dieses Modul trifft den Kern jeder erfolgreichen Marke – und überzeugt Käufer wie Affiliates gleichermaßen.
 
 ## 2. Links
 

@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>90 % Provision auf den Einstieg – und danach mehrere weitere Verdienstchancen im Funnel.<br /><br /></strong></p>
-<p>Wenn Du als Affiliate ein Produkt suchst, das sich <strong>einfach erklären und niedrigschwellig bewerben</strong> lässt, ist dieser Rent2Rent-Funnel besonders spannend.<br /><br /></p>
-<p>Der Kunde startet für nur <strong>6,95 € Versandkosten</strong> mit dem Buch – Du erhältst darauf <strong>90 % Provision</strong>.<br /><br /></p>
-<p>Und damit ist noch nicht Schluss:</p>
-<ul>
-<li>
-<p><strong>Buch:</strong> 6,95 € → <strong>90 % Provision</strong></p>
-</li>
-<li>
-<p><strong>SofortStart Add-on:</strong> 7,97 € → <strong>70 % Provision</strong></p>
-</li>
-<li>
-<p><strong>Upgrade-Paket inkl. Hörbuch:</strong> 17,90 € → <strong>50 % Provision</strong></p>
-</li>
-<li>
-<p><strong>BGH-Paket als Downsell:</strong> 4,90 € → <strong>50 % Provision</strong></p>
-</li>
-</ul>
-<p> </p>
-<p><strong>Dein Vorteil:</strong> Du musst keinen hochpreisigen Kurs verkaufen.</p>
-<p>Du bewirbst ein <strong>einfach verständliches Einstiegsangebot mit sehr niedriger Kaufhürde</strong> – und hast anschließend mehrere zusätzliche Möglichkeiten, am gleichen Kunden mitzuverdienen.<br /><br /></p>
-<p>Ideal für Zielgruppen rund um:</p>
-<p><strong>Immobilien · zusätzliches Einkommen · Cashflow · Business · Rent2Rent<br /><br /></strong></p>
-<p>Kurz gesagt:</p>
-<p><strong>Niedrige Einstiegshürde. 90 % Frontend-Provision. Mehrere Verdienststufen. Ein klarer Immobilien-Funnel.<br /><br /></strong></p>
-<p>Wenn Du eine immobilien- oder einkommensaffine Zielgruppe hast, solltest Du Dir diesen Funnel genauer ansehen.</p>
+**Vendor's marketplace description:** 90 % Provision auf den Einstieg – und danach mehrere weitere Verdienstchancen im Funnel. Wenn Du als Affiliate ein Produkt suchst, das sich einfach erklären und niedrigschwellig bewerben lässt, ist dieser Rent2Rent-Funnel besonders spannend. Der Kunde startet für nur 6,95 € Versandkosten mit dem Buch – Du erhältst darauf 90 % Provision . Und damit ist noch nicht Schluss: Buch: 6,95 € → 90 % Provision SofortStart Add-on: 7,97 € → 70 % Provision Upgrade-Paket inkl. Hörbuch: 17,90 € → 50 % Provision BGH-Paket als Downsell: 4,90 € → 50 % Provision Dein Vorteil: Du musst keinen hochpreisigen Kurs verkaufen. Du bewirbst ein einfach verständliches Einstiegsangebot mit sehr niedriger Kaufhürde – und hast anschließend mehrere zusätzliche Möglichkeiten, am gleichen Kunden mitzuverdienen. Ideal für Zielgruppen rund um: Immobilien · zusätzliches Einkommen · Cashflow · Business · Rent2Rent Kurz gesagt: Niedrige Einstiegshürde. 90 % Frontend-Provision. Mehrere Verdienststufen. Ein klarer Immobilien-Funnel. Wenn Du eine immobilien- oder einkommensaffine Zielgruppe hast, solltest Du Dir diesen Funnel genauer ansehen.
 
 ## 2. Links
 

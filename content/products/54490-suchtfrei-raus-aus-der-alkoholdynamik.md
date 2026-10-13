@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;">Psychologischer Selbstlernkurs &amp; Selbsthilfe-Community</span></p>
-<p><span style="background-color:#ffff99;">Vollständiger Titel:</span></p>
-<p style="padding-left:40px;">#suchtfrei - Was du brauchst, um nochmal die Kurve zu kriegen</p>
-<p style="padding-left:40px;"><span style="background-color:#ffff99;">Kurserstellerin:</span> Suchttherapeutin Sandy Kral</p>
-<p> </p>
-<p><span style="background-color:#ffff99;">Für Menschen, die spüren:</span> Alkohol nimmt zu viel Raum ein. Psychologischer Onlinekurs + Community helfen, Muster zu verstehen und Schritt für Schritt in innere Stabilität zu finden.</p>
-<p> </p>
-<p><span style="background-color:#ffff99;">Für Partner:innen ideal</span>, die Menschen mit innerer Überforderung, stiller Suchtbelastung oder wachsender Konsumangst begleiten. Der Kurs spricht reflektierte Konsumierende an, die einen Ausstieg aus belastenden (Trink)mustern suchen.</p>
+**Vendor's marketplace description:** Psychologischer Selbstlernkurs & Selbsthilfe-Community Vollständiger Titel: #suchtfrei - Was du brauchst, um nochmal die Kurve zu kriegen Kurserstellerin: Suchttherapeutin Sandy Kral Für Menschen, die spüren: Alkohol nimmt zu viel Raum ein. Psychologischer Onlinekurs + Community helfen, Muster zu verstehen und Schritt für Schritt in innere Stabilität zu finden. Für Partner:innen ideal , die Menschen mit innerer Überforderung, stiller Suchtbelastung oder wachsender Konsumangst begleiten. Der Kurs spricht reflektierte Konsumierende an, die einen Ausstieg aus belastenden (Trink)mustern suchen.
 
 ## 2. Links
 

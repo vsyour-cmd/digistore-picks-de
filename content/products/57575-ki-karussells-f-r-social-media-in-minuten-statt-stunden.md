@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>KI-Karussells für Social Media – fertige Slides in Minuten statt Stunden</strong></p>
-<p><strong>Kurzbeschreibung:</strong><br />MABO1973 AI ENGINE V2 ist ein KI-Tool, das aus einer einfachen Eingabe komplette Social-Media-Karussells erstellt – inklusive Text, Hook, Call-to-Action und passenden KI-Bildern. In wenigen Klicks entstehen 3–5 fertige Slides im 9:16-Format, direkt einsatzbereit für Instagram, TikTok &amp; Co.</p>
-<p><strong>Für wen eignet sich das Produkt?</strong><br />Content Creator, Social-Media-Manager, Coaches, Berater und kleine Unternehmen, die regelmäßig Content brauchen, aber keine Zeit oder kein Design-Know-how für aufwendige Grafiken haben.</p>
-<p><strong>Das macht das Tool besonders:</strong></p>
-<ul>
-<li>KI-generierte Hooks, Slide-Texte und Captions auf Knopfdruck</li>
-<li>Passende Hashtags werden automatisch mitgeliefert</li>
-<li>Hook-Editor mit Alternativvorschlägen für mehr Reichweite</li>
-<li>KI-Bilder in Echtzeit generiert, im hochauflösenden 9:16-Format (1080×1920) – optimiert für Social Media</li>
-<li>Verschiedene Schriftarten und Design-Optionen</li>
-<li>Persönlicher Zugang über deine Kauf-E-Mail – sofort nach dem Kauf nutzbar</li>
-</ul>
-<p><strong>So funktioniert's:</strong><br />Thema eingeben → Karussell generieren → fertige Slides herunterladen. Die Bilder werden per KI in wenigen Sekunden pro Slide erzeugt. Im Abo enthalten: bis zu 60 Karussells pro Monat – mehr als genug für regelmäßigen Content.</p>
-<p><strong>Warum sich die Bewerbung lohnt:</strong><br />Content-Erstellung ist eines der größten Probleme im Social-Media-Marketing – dieses Tool löst es direkt und ist damit leicht zu vermitteln. Laufendes Abo-Modell mit attraktiver Provision und wachsendem Markt rund um KI-gestützte Content-Tools.</p>
+**Vendor's marketplace description:** KI-Karussells für Social Media – fertige Slides in Minuten statt Stunden Kurzbeschreibung: MABO1973 AI ENGINE V2 ist ein KI-Tool, das aus einer einfachen Eingabe komplette Social-Media-Karussells erstellt – inklusive Text, Hook, Call-to-Action und passenden KI-Bildern. In wenigen Klicks entstehen 3–5 fertige Slides im 9:16-Format, direkt einsatzbereit für Instagram, TikTok & Co. Für wen eignet sich das Produkt? Content Creator, Social-Media-Manager, Coaches, Berater und kleine Unternehmen, die regelmäßig Content brauchen, aber keine Zeit oder kein Design-Know-how für aufwendige Grafiken haben. Das macht das Tool besonders: KI-generierte Hooks, Slide-Texte und Captions auf Knopfdruck Passende Hashtags werden automatisch mitgeliefert Hook-Editor mit Alternativvorschlägen für mehr Reichweite KI-Bilder in Echtzeit generiert, im hochauflösenden 9:16-Format (1080×1920) – optimiert für Social Media Verschiedene Schriftarten und Design-Optionen Persönlicher Zugang über deine Kauf-E-Mail – sofort nach dem Kauf nutzbar So funktioniert's: Thema eingeben → Karussell generieren → fertige Slides herunterladen. Die Bilder werden per KI in wenigen Sekunden pro Slide erzeugt. Im Abo enthalten: bis zu 60 Karussells pro Monat – mehr als genug für regelmäßigen Content. Warum sich die Bewerbung lohnt: Content-Erstellung ist eines der größten Probleme im Social-Media-Marketing – dieses Tool löst es direkt und ist damit leicht zu vermitteln. Laufendes Abo-Modell mit attraktiver Provision und wachsendem Markt rund um KI-gestützte Content-Tools.
 
 ## 2. Links
 

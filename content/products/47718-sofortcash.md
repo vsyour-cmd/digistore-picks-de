@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>14 Strategien, wie du noch heute dein erstes Geld verdienen kannst!<br /></strong></h2>
-<p> </p>
-<p>Du <strong>als Affiliate bekommst 100% +</strong> bist an weiteren Up- und DownSells beteiligt, sodass du <strong>auf ca. 310 Euro Provision kommst!</strong></p>
-<p>Im Hintergrund werden weitere Optimierungen und Splittests durchgeführt und vieles mehr!</p>
-<p>E-Mail-Vorlagen sind dabei, sodass du sie nutzen kannst.</p>
-<p> </p>
-<p>Der Kunde bekommt:</p>
-<ul>
-<li><strong>... 14 Methoden,</strong> wie du noch heute Geld verdienen kannst.<strong><br /></strong></li>
-<li>... Methoden, bei denen du zum Teil noch nicht einmal Startkapital benötigst und auch ohne Gewerbe möglich!</li>
-<li>... <strong>inkl. Links zu Ressourcen, geheimen Apps und vieles mehr!</strong><strong><br /></strong></li>
-<li>... das vermutlich beste Investment, dass du jemals getätigt hast!</li>
-<li>... inkl. der Möglichkeit, weitere <strong>Produkte und Preise im Wert von über 2277 Euro freizuschalten!</strong></li>
-</ul>
-<p>Du erhältst <strong>sofort</strong> Zugriff, auch wenn es 3 Uhr Nachts ist.</p>
+**Vendor's marketplace description:** 14 Strategien, wie du noch heute dein erstes Geld verdienen kannst! Du als Affiliate bekommst 100% + bist an weiteren Up- und DownSells beteiligt, sodass du auf ca. 310 Euro Provision kommst! Im Hintergrund werden weitere Optimierungen und Splittests durchgeführt und vieles mehr! E-Mail-Vorlagen sind dabei, sodass du sie nutzen kannst. Der Kunde bekommt: ... 14 Methoden, wie du noch heute Geld verdienen kannst. ... Methoden, bei denen du zum Teil noch nicht einmal Startkapital benötigst und auch ohne Gewerbe möglich! ... inkl. Links zu Ressourcen, geheimen Apps und vieles mehr! ... das vermutlich beste Investment, dass du jemals getätigt hast! ... inkl. der Möglichkeit, weitere Produkte und Preise im Wert von über 2277 Euro freizuschalten! Du erhältst sofort Zugriff, auch wenn es 3 Uhr Nachts ist.
 
 ## 2. Links
 

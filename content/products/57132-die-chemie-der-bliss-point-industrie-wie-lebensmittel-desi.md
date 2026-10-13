@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h1>Die Chemie der Bliss Point-Industrie</h1>
-<h2><span style="font-size:14px;">Wie Lebensmittel-Designer unser Belohnungssystem kapern – und wie du deine Macht zurückgewinnst</span></h2>
-</div>
-<p>Du bist nicht disziplinlos. Dein Belohnungssystem wird präzise angesprochen.Dieses Buch zeigt, wie Lebensmittel-Design, Zucker, Salz, Fett, Textur und Aromen zusammenspielen, um Produkte besonders unwiderstehlich zu machen. Es erklärt die Mechanismen hinter dem Bliss Point und hilft dir, industrielle Essreize im Alltag klarer zu erkennen.</p>
+**Vendor's marketplace description:** Die Chemie der Bliss Point-Industrie Wie Lebensmittel-Designer unser Belohnungssystem kapern – und wie du deine Macht zurückgewinnst Du bist nicht disziplinlos. Dein Belohnungssystem wird präzise angesprochen.Dieses Buch zeigt, wie Lebensmittel-Design, Zucker, Salz, Fett, Textur und Aromen zusammenspielen, um Produkte besonders unwiderstehlich zu machen. Es erklärt die Mechanismen hinter dem Bliss Point und hilft dir, industrielle Essreize im Alltag klarer zu erkennen.
 
 ## 2. Links
 

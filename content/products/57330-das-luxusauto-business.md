@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Das Luxusauto-Business“</strong></p>
-<p>Wie du mit Premium-Fahrzeugen, starken Kontakten und cleverem Verkauf Geld verdienst – Im Luxusauto-Business entscheiden nicht nur die Fahrzeuge, sondern vor allem Beziehungen und ein cleverer Verkauf. Dieser Ratgeber zeigt dir Schritt für Schritt, wie du mit Premium-Fahrzeugen Geld verdienst: vom Geschäftsmodell über Netzwerk, Einkauf und Vermittlung bis zu Verkauf und Skalierung.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 17,48 € pro Verkauf (Verkaufspreis 34,95 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Das Geschäftsmodell: Wege, mit Premium-Fahrzeugen Geld zu verdienen</li>
-<li>Der Einstieg: Kapital, Rechtsform und der richtige Start</li>
-<li>Starke Kontakte: Netzwerk, Quellen und Vertrauen aufbauen</li>
-<li>Einkauf und Bewertung: gute Fahrzeuge erkennen und sichern</li>
-<li>Recht, Steuern und seriöse Abwicklung</li>
-<li>Clever verkaufen: Inszenierung, Preis und Verhandlung</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Das Luxusauto-Business“ Wie du mit Premium-Fahrzeugen, starken Kontakten und cleverem Verkauf Geld verdienst – Im Luxusauto-Business entscheiden nicht nur die Fahrzeuge, sondern vor allem Beziehungen und ein cleverer Verkauf. Dieser Ratgeber zeigt dir Schritt für Schritt, wie du mit Premium-Fahrzeugen Geld verdienst: vom Geschäftsmodell über Netzwerk, Einkauf und Vermittlung bis zu Verkauf und Skalierung. Warum dieses E-Book bewerben? 50 % Provision – ca. 17,48 € pro Verkauf (Verkaufspreis 34,95 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Das Geschäftsmodell: Wege, mit Premium-Fahrzeugen Geld zu verdienen Der Einstieg: Kapital, Rechtsform und der richtige Start Starke Kontakte: Netzwerk, Quellen und Vertrauen aufbauen Einkauf und Bewertung: gute Fahrzeuge erkennen und sichern Recht, Steuern und seriöse Abwicklung Clever verkaufen: Inszenierung, Preis und Verhandlung
 
 ## 2. Links
 

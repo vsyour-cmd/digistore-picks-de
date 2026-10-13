@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Noten-E-Book <em>Gefühle durch eigene Musik ausdrücken</em> ist ein <strong>besonderes Notenbuch</strong>. Es hilft, sich auf die eigene Musik einzulassen. Dazu enthält es neben den Noten auch Erläuterungen zum jeweiligen Gefühl, die ein bewusstes Fühlen in der Musik fördern. Auf diese Weise hilft das Noten-E-Book auch bei der persönlichen Weiterentwicklung. Playalongs inklusive!</p>
-<p>Die Kombination aus Noten und Psychologie ist etwas Einmaliges, das es sonst nicht gibt. Dabei ist das Musizieren in Einklang mit dem momentanen Gefühl das Wertvollste, was du mit deinem Instrument erleben kannst!</p>
-<p>Mit Noten für C-, Eb- und Bb-Instrumente sind die Noten mit fast allen Instrumenten zu den Playalongs spielbar!</p>
-<p><strong>Dein Vorteil als Affiliate:</strong></p>
-<p>Du empfiehlst deinen Kunden ein Produkt mit einem echten Mehrwert für alle, die gerne musizieren und sich persönlich weiterentwickeln möchten, und erhältst 50 % des Kaufpreises.</p>
+**Vendor's marketplace description:** Das Noten-E-Book Gefühle durch eigene Musik ausdrücken ist ein besonderes Notenbuch . Es hilft, sich auf die eigene Musik einzulassen. Dazu enthält es neben den Noten auch Erläuterungen zum jeweiligen Gefühl, die ein bewusstes Fühlen in der Musik fördern. Auf diese Weise hilft das Noten-E-Book auch bei der persönlichen Weiterentwicklung. Playalongs inklusive! Die Kombination aus Noten und Psychologie ist etwas Einmaliges, das es sonst nicht gibt. Dabei ist das Musizieren in Einklang mit dem momentanen Gefühl das Wertvollste, was du mit deinem Instrument erleben kannst! Mit Noten für C-, Eb- und Bb-Instrumente sind die Noten mit fast allen Instrumenten zu den Playalongs spielbar! Dein Vorteil als Affiliate: Du empfiehlst deinen Kunden ein Produkt mit einem echten Mehrwert für alle, die gerne musizieren und sich persönlich weiterentwickeln möchten, und erhältst 50 % des Kaufpreises.
 
 ## 2. Links
 

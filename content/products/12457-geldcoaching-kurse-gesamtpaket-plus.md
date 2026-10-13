@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Sie haben die Nase voll vom ständigen “Sich-Sorgen-machen”?</p>
-<p>Sie möchten endlich Wohlstand, Fülle und Leichtigkeit in Ihr Leben ziehen?</p>
-<p>Sie möchten Geld- und Erfolgsblockaden von Grund auf und für immer lösen?!</p>
-<p>Dann starten Sie mit dieser Selbstcoachingreiihe Ihre ersten Schritte zur (finanziellen) Freiheit!</p>
-<p>Das Download-Paket enthält insgesamt 11 Selbstcoaching-Kurse:</p>
-<p>+ Basis-Seminar: "Das Finanzielle-Vagheit-Syndrom" - Lösungsschritte, Tipps und Strategien für ein gutes Geldcoaching</p>
-<p>#1: Geld- und andere Sorgen einfach ent-sorgen</p>
-<p># 2: Vom Frust der unerreichten Ziele zur Magie der großen Ziele</p>
-<p># 3: Heilung finanzieller Traumata u. a. alter Wunden</p>
-<p># 4: Zu den Wurzeln zurück - …Geldblockaden aus der Kindheit, der Familiengeschichte oder auch aus früheren Leben entdecken und lösen</p>
-<p># 5: Erfolgsverhinderungs-Gefühle oder: … oder: Was Schuldgefühle, Hoffnungslosigkeit, Ärger, Wut &amp; Co mit unserer finanziellen Situation zu tun haben</p>
-<p># 6: Update alter Überzeugungen</p>
-<p># 7: Tief-sitzende Geld- und Erfolgsblockaden lösen</p>
-<p># 8: Wer bin ich und wer will ich sein - Wege zur Entwicklung einer "Erfolgs-Identität"</p>
-<p># 9: Sich mit der Energie des Reichtums verbinden und Leichtigkeit, Wohlstand und Fülle in dein Leben ziehen</p>
-<p>+ Empfangsblockaden auflösen und AnNehmen lernen</p>
-<p style="text-align:center;"><strong><span style="color:#ff0000;">11 Selbstcoaching-Kurse + Bonus-Videos</span></strong></p>
-<p style="text-align:center;"><strong><span style="color:#ff0000;">über 20 Stunden Geld-Coaching pur</span></strong></p>
-<p style="text-align:center;"><strong><span style="color:#ff0000;">MP3- und PDF-Datein + Bonus-Videos</span></strong></p>
+**Vendor's marketplace description:** Sie haben die Nase voll vom ständigen “Sich-Sorgen-machen”? Sie möchten endlich Wohlstand, Fülle und Leichtigkeit in Ihr Leben ziehen? Sie möchten Geld- und Erfolgsblockaden von Grund auf und für immer lösen?! Dann starten Sie mit dieser Selbstcoachingreiihe Ihre ersten Schritte zur (finanziellen) Freiheit! Das Download-Paket enthält insgesamt 11 Selbstcoaching-Kurse: + Basis-Seminar: "Das Finanzielle-Vagheit-Syndrom" - Lösungsschritte, Tipps und Strategien für ein gutes Geldcoaching #1: Geld- und andere Sorgen einfach ent-sorgen # 2: Vom Frust der unerreichten Ziele zur Magie der großen Ziele # 3: Heilung finanzieller Traumata u. a. alter Wunden # 4: Zu den Wurzeln zurück - …Geldblockaden aus der Kindheit, der Familiengeschichte oder auch aus früheren Leben entdecken und lösen # 5: Erfolgsverhinderungs-Gefühle oder: … oder: Was Schuldgefühle, Hoffnungslosigkeit, Ärger, Wut & Co mit unserer finanziellen Situation zu tun haben # 6: Update alter Überzeugungen # 7: Tief-sitzende Geld- und Erfolgsblockaden lösen # 8: Wer bin ich und wer will ich sein - Wege zur Entwicklung einer "Erfolgs-Identität" # 9: Sich mit der Energie des Reichtums verbinden und Leichtigkeit, Wohlstand und Fülle in dein Leben ziehen + Empfangsblockaden auflösen und AnNehmen lernen 11 Selbstcoaching-Kurse + Bonus-Videos über 20 Stunden Geld-Coaching pur MP3- und PDF-Datein + Bonus-Videos
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Endlich wieder durchatmen – 4 Ratgeber gegen Stress &amp; Erschöpfung | 50% Provision</p>
-<p> </p>
-<p>Bewirb ein Bundle aus vier gefragten Ratgebern gegen Angst, Burnout, Schlafprobleme und Aufschieben: "Ruhig durch den Sturm", "Burnout durch Job", "Endlich durchschlafen" und "Schluss mit Aufschieben" – zum Vorteilspreis von 47€ statt 108€.</p>
-<p> </p>
-<p>Stress, Erschöpfung und Schlafprobleme betreffen enorm viele Menschen, entsprechend breit lässt sich das Bundle bewerben – ob über Social Media, E-Mail-Liste oder eigene Website. Du erhältst 50% Provision auf jeden Verkauf, dazu fertige Werbemittel (Social-Media-Posts, E-Mail-Vorlagen) direkt im Partnerprogramm.</p>
-<p> </p>
-<p>Zielgruppe: alle, die sich gestresst, erschöpft oder überfordert fühlen – von Berufstätigen im Dauerstress bis zu Menschen mit Schlaf- oder Angstproblemen.</p>
+**Vendor's marketplace description:** Endlich wieder durchatmen – 4 Ratgeber gegen Stress & Erschöpfung | 50% Provision Bewirb ein Bundle aus vier gefragten Ratgebern gegen Angst, Burnout, Schlafprobleme und Aufschieben: "Ruhig durch den Sturm", "Burnout durch Job", "Endlich durchschlafen" und "Schluss mit Aufschieben" – zum Vorteilspreis von 47€ statt 108€. Stress, Erschöpfung und Schlafprobleme betreffen enorm viele Menschen, entsprechend breit lässt sich das Bundle bewerben – ob über Social Media, E-Mail-Liste oder eigene Website. Du erhältst 50% Provision auf jeden Verkauf, dazu fertige Werbemittel (Social-Media-Posts, E-Mail-Vorlagen) direkt im Partnerprogramm. Zielgruppe: alle, die sich gestresst, erschöpft oder überfordert fühlen – von Berufstätigen im Dauerstress bis zu Menschen mit Schlaf- oder Angstproblemen.
 
 ## 2. Links
 

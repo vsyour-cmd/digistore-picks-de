@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Singen lernen – Das musst Du wissen</strong> (Online Video-Kurs)<br />Der ultimative Grundlagenkurs für alle Sänger in Klassik und Pop</p>
-<p>31 Lektionen; 2 h Video</p>
-<p>Du lernst alles über das Singen in den grundlegenden Musik-Stilen Klassik und Pop: Die musikalischen, sprachlichen und stimmlichen Aspekte des Singens und welche Fallstricke Du vermeiden musst, insbesondere bei der Auswahl Deines Gesangslehrers.</p>
+**Vendor's marketplace description:** Singen lernen – Das musst Du wissen (Online Video-Kurs) Der ultimative Grundlagenkurs für alle Sänger in Klassik und Pop 31 Lektionen; 2 h Video Du lernst alles über das Singen in den grundlegenden Musik-Stilen Klassik und Pop: Die musikalischen, sprachlichen und stimmlichen Aspekte des Singens und welche Fallstricke Du vermeiden musst, insbesondere bei der Auswahl Deines Gesangslehrers.
 
 ## 2. Links
 

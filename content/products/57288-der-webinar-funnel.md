@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Der Webinar-Funnel“</strong></p>
-<p>Vom Zuschauer zum Käufer – Der Funnel rund ums Webinar entscheidet über den Verkauf. Die Anmeldeseite, die konvertiert, Erinnerungen und Vorfreude, das Webinar als Herzstück, die Nachfass-Sequenz und der Weg zum Evergreen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Was ein Webinar-Funnel leistet</li>
-<li>Eine Anmeldeseite, die konvertiert</li>
-<li>Die Nachfass-Sequenz und Evergreen</li>
-<li>Datenschutz, faire Werbung und Recht</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Der Webinar-Funnel“ Vom Zuschauer zum Käufer – Der Funnel rund ums Webinar entscheidet über den Verkauf. Die Anmeldeseite, die konvertiert, Erinnerungen und Vorfreude, das Webinar als Herzstück, die Nachfass-Sequenz und der Weg zum Evergreen. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Was ein Webinar-Funnel leistet Eine Anmeldeseite, die konvertiert Die Nachfass-Sequenz und Evergreen Datenschutz, faire Werbung und Recht
 
 ## 2. Links
 

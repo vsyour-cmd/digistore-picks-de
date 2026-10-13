@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h2><strong>Dein Buch als Kundenmagnet!</strong></h2>
-</div>
-<p>Die Schritt-für-Schritt-Anleitung von Stephy Beck zeigt dir, wie du es in 10 Tagen schaffst, dein eigenes Buch zu schreiben – und es als ultimativen Kundenmagneten nutzt! </p>
-<p>Stell dir vor, dein Name steht auf einem Buchcover – und dieses Buch unterstützt dich dabei, dich als Experte für deinen Geschäftsbereich zu positionieren. Mit dem du deine Wunschkunden magnetisch anziehst – ganz ohne aufdringliches Marketing.</p>
-<p> </p>
-<h3><strong>Das erwartet dich im Kurs "Dein Buch als Kundenmagnet"</strong></h3>
-<p><strong>Die komplette Schritt-für-Schritt-Anleitung</strong> – einfach zum Nachmachen!<br /><br /><strong>- Checklisten &amp; Vorlagen</strong>, die dir alles abnehmen!<br /><br /><strong>- Wie du mit deinem Buch 5-6-stellige Umsätze generierst</strong> – ohne komplizierte Techniken!<br /><br /><strong>- Die perfekte Themenfindung</strong> – du wirst genau wissen, worüber du schreiben kannst!<br /><br /><strong>- Textmuster &amp; Beispiele</strong>, damit du SOFORT loslegen kannst!<br /><br /><strong>- Die geheime Marketing-Strategie</strong>, um dein Buch als digitale Einnahmequelle zu nutzen!</p>
-<p> </p>
-<p><strong>STARTE JETZT UND ERHALTE EINEN WERTVOLLE BONUS!</strong></p>
-<p><strong>Ideen-Analyse</strong> – Wie du dein Buch-Thema mit maximalem Erfolgspotenzial findest!<br /><br /><strong>- Die Bestseller-Strategie</strong> – Wie du dein Buch in die Top-Rankings bringst!<br /><br /><strong>- Buch-Marketing leicht gemacht</strong> – Ohne täglichen Social-Media-Stress!</p>
+**Vendor's marketplace description:** Dein Buch als Kundenmagnet! Die Schritt-für-Schritt-Anleitung von Stephy Beck zeigt dir, wie du es in 10 Tagen schaffst, dein eigenes Buch zu schreiben – und es als ultimativen Kundenmagneten nutzt! Stell dir vor, dein Name steht auf einem Buchcover – und dieses Buch unterstützt dich dabei, dich als Experte für deinen Geschäftsbereich zu positionieren. Mit dem du deine Wunschkunden magnetisch anziehst – ganz ohne aufdringliches Marketing. Das erwartet dich im Kurs "Dein Buch als Kundenmagnet" Die komplette Schritt-für-Schritt-Anleitung – einfach zum Nachmachen! - Checklisten & Vorlagen , die dir alles abnehmen! - Wie du mit deinem Buch 5-6-stellige Umsätze generierst – ohne komplizierte Techniken! - Die perfekte Themenfindung – du wirst genau wissen, worüber du schreiben kannst! - Textmuster & Beispiele , damit du SOFORT loslegen kannst! - Die geheime Marketing-Strategie , um dein Buch als digitale Einnahmequelle zu nutzen! STARTE JETZT UND ERHALTE EINEN WERTVOLLE BONUS! Ideen-Analyse – Wie du dein Buch-Thema mit maximalem Erfolgspotenzial findest! - Die Bestseller-Strategie – Wie du dein Buch in die Top-Rankings bringst! - Buch-Marketing leicht gemacht – Ohne täglichen Social-Media-Stress!
 
 ## 2. Links
 

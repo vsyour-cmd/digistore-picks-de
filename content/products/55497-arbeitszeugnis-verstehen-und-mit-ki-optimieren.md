@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses Praxis‑Workbook zeigt Arbeitnehmern Schritt für Schritt, wie sie ihr Arbeitszeugnis <strong>korrekt interpretieren</strong>, <strong>Geheimcodes erkennen</strong> und es anschließend mit <strong>KI‑gestützten Textvorschlägen</strong> professionell optimieren.</p>
-<p>Ideal für alle, die sich bewerben, ihr Image verbessern oder sich vor unfairen Formulierungen schützen wollen.</p>
-<p>Das Workbook enthält:</p>
-<ul>
-<li>
-<p>verständliche Erklärungen aller wichtigen Arbeitszeugnis‑Formulierungen</p>
-</li>
-<li>
-<p>Beispiele für gute, schlechte und kritische Bewertungen</p>
-</li>
-<li>
-<p>KI‑Prompts zur sofortigen Optimierung</p>
-</li>
-<li>
-<p>Checklisten &amp; Vorlagen</p>
-</li>
-<li>
-<p>Formulierungsbausteine für ein starkes, modernes Zeugnis</p>
-</li>
-<li>als PDF</li>
-</ul>
+**Vendor's marketplace description:** Dieses Praxis‑Workbook zeigt Arbeitnehmern Schritt für Schritt, wie sie ihr Arbeitszeugnis korrekt interpretieren , Geheimcodes erkennen und es anschließend mit KI‑gestützten Textvorschlägen professionell optimieren. Ideal für alle, die sich bewerben, ihr Image verbessern oder sich vor unfairen Formulierungen schützen wollen. Das Workbook enthält: verständliche Erklärungen aller wichtigen Arbeitszeugnis‑Formulierungen Beispiele für gute, schlechte und kritische Bewertungen KI‑Prompts zur sofortigen Optimierung Checklisten & Vorlagen Formulierungsbausteine für ein starkes, modernes Zeugnis als PDF
 
 ## 2. Links
 

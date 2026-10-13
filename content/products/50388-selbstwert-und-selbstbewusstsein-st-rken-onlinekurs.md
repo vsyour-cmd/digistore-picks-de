@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Empfehle meinen Onlinekurs rund um Selbstwert, Selbstliebe und Selbstbewusstsein und nutze diese</strong><strong> Vorteile:<br /></strong></p>
-<p> </p>
-<ul>
-<li><strong>Hohe Provision</strong>: Erhalte 35 % Provision</li>
-<li><strong>Hohe Bekanntheit</strong>: Onlinekurs eines bekannten Beziehungspsychologen (ARD, ZDF, Focus, Stern …) </li>
-<li><strong>Laufende Optimierung</strong> der Verkaufs-Funnel + geringe Stornoquote</li>
-<li><strong>Hochconvertierende Werbemittel</strong>: Banner, E-Mail-Textvorlagen werden laufend optimiert ... (mehr auf meiner Affiliate-Supportseite --&gt;)</li>
-</ul>
-<p> </p>
-<p>Beste Grüße,<br />Wieland Stolzenburg</p>
-<p> </p>
-<p>PS: Brand-Bidding auf "Wieland Stolzenburg" und Varianten nicht erlaubt!</p>
+**Vendor's marketplace description:** Empfehle meinen Onlinekurs rund um Selbstwert, Selbstliebe und Selbstbewusstsein und nutze diese Vorteile: Hohe Provision : Erhalte 35 % Provision Hohe Bekanntheit : Onlinekurs eines bekannten Beziehungspsychologen (ARD, ZDF, Focus, Stern …) Laufende Optimierung der Verkaufs-Funnel + geringe Stornoquote Hochconvertierende Werbemittel : Banner, E-Mail-Textvorlagen werden laufend optimiert ... (mehr auf meiner Affiliate-Supportseite -->) Beste Grüße, Wieland Stolzenburg PS: Brand-Bidding auf "Wieland Stolzenburg" und Varianten nicht erlaubt!
 
 ## 2. Links
 

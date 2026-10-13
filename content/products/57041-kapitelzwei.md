@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Kapitel Zwei ist die perfekte Ergänzung für alle, die ihre Bücher professionell erstellen, optimieren und erfolgreich veröffentlichen möchten. In über 20 Modulen mit ausführlichen Videoanleitungen zeigen wir dir Schritt für Schritt den gesamten Prozess von der Einrichtung deines Amazon KDP Kontos bis zur fertigen Veröffentlichung. Du erhältst praxiserprobte Vorlagen, klare Anleitungen und alle Werkzeuge, um schneller ins Umsetzen zu kommen.</p>
-<p>Eine exklusive Kapitel Zwei Wissensdatenbank, die dir dabei hilft, in weniger als 15 Minuten professionelle Cover zu erstellen</p>
-<p>Ideal für Anfänger und auch für Menschen, die bereits Bücher veröffentlicht haben, aber bisher keine oder nur wenige Verkäufe erzielen</p>
-<p>Klare Strategien, um typische Fehler zu vermeiden und deine Bücher professionell am Markt zu platzieren.</p>
+**Vendor's marketplace description:** Kapitel Zwei ist die perfekte Ergänzung für alle, die ihre Bücher professionell erstellen, optimieren und erfolgreich veröffentlichen möchten. In über 20 Modulen mit ausführlichen Videoanleitungen zeigen wir dir Schritt für Schritt den gesamten Prozess von der Einrichtung deines Amazon KDP Kontos bis zur fertigen Veröffentlichung. Du erhältst praxiserprobte Vorlagen, klare Anleitungen und alle Werkzeuge, um schneller ins Umsetzen zu kommen. Eine exklusive Kapitel Zwei Wissensdatenbank, die dir dabei hilft, in weniger als 15 Minuten professionelle Cover zu erstellen Ideal für Anfänger und auch für Menschen, die bereits Bücher veröffentlicht haben, aber bisher keine oder nur wenige Verkäufe erzielen Klare Strategien, um typische Fehler zu vermeiden und deine Bücher professionell am Markt zu platzieren.
 
 ## 2. Links
 

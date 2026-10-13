@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>ALTBAU KAUFEN ODER SANIEREN – MIT KLARER STRUKTUR STATT KOSTSPIELIGER ÜBERRASCHUNGEN</p>
-<p>Der Altbau-Kompass ist ein digitales Prüf-, Planungs- und Dokumentationspaket für Altbaukäufer, Hausbesitzer und private Sanierer.</p>
-<p>DAS ERHÄLT DER KUNDE<br />• Excel-Arbeitsmappe mit 9 verknüpften Arbeitsbereichen<br />• Objektcheck und Vergleich für bis zu 3 Immobilien<br />• Sanierungsbudget, Angebotsvergleich und Ablaufplan<br />• Mängel- und Dokumentenübersicht<br />• 15-seitiges Checklisten-PDF für Besichtigung und Abnahme<br />• sofortiger digitaler Download</p>
-<p>AFFILIATE-VORTEILE<br />• 50 % Provision je erfolgreichem Verkauf<br />• Einmalpreis 49,90 €, kein Abo<br />• hoher Problemdruck durch Sanierungskosten und versteckte Risiken<br />• klar definierte Zielgruppe<br />• fertige Werbebilder und Textvorlagen<br />• Promolink-Generator und direkter Affiliate-Support<br />• sichere Bestellabwicklung über Digistore24</p>
-<p>Ideal für Inhalte rund um Altbau, Hauskauf, Sanierung, Renovierung, Immobilien und Baufinanzierung. Das Produkt ist ein Organisationswerkzeug und ersetzt keine Fachberatung.</p>
+**Vendor's marketplace description:** ALTBAU KAUFEN ODER SANIEREN – MIT KLARER STRUKTUR STATT KOSTSPIELIGER ÜBERRASCHUNGEN Der Altbau-Kompass ist ein digitales Prüf-, Planungs- und Dokumentationspaket für Altbaukäufer, Hausbesitzer und private Sanierer. DAS ERHÄLT DER KUNDE • Excel-Arbeitsmappe mit 9 verknüpften Arbeitsbereichen • Objektcheck und Vergleich für bis zu 3 Immobilien • Sanierungsbudget, Angebotsvergleich und Ablaufplan • Mängel- und Dokumentenübersicht • 15-seitiges Checklisten-PDF für Besichtigung und Abnahme • sofortiger digitaler Download AFFILIATE-VORTEILE • 50 % Provision je erfolgreichem Verkauf • Einmalpreis 49,90 €, kein Abo • hoher Problemdruck durch Sanierungskosten und versteckte Risiken • klar definierte Zielgruppe • fertige Werbebilder und Textvorlagen • Promolink-Generator und direkter Affiliate-Support • sichere Bestellabwicklung über Digistore24 Ideal für Inhalte rund um Altbau, Hauskauf, Sanierung, Renovierung, Immobilien und Baufinanzierung. Das Produkt ist ein Organisationswerkzeug und ersetzt keine Fachberatung.
 
 ## 2. Links
 

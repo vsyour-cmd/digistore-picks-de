@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>MAFIA der Essgelüste ist ein humorvoller und zugleich tiefgründiger Blick auf emotionales Essverhalten. Autorin Maria Spielmann verbindet ihre Erfahrung als Kriminalhauptkommissarin und Hypnosetherapeutin zu einem einzigartigen Ermittlungsansatz. </p>
-<p>Vom ersten Anruf der inneren Mafia bis hin zum Zeugenschutzprogramm leitet Maria Spielmann durch "Fallgeschichten" und bringt den Heißhunger hinter "Gitter".</p>
-<p>Das Buch eignet sich daher besonders für Menschen, die Heißhunger, emotionales Essen und wiederkehrende Verhaltensmuster besser verstehen und verändern möchten.</p>
+**Vendor's marketplace description:** MAFIA der Essgelüste ist ein humorvoller und zugleich tiefgründiger Blick auf emotionales Essverhalten. Autorin Maria Spielmann verbindet ihre Erfahrung als Kriminalhauptkommissarin und Hypnosetherapeutin zu einem einzigartigen Ermittlungsansatz. Vom ersten Anruf der inneren Mafia bis hin zum Zeugenschutzprogramm leitet Maria Spielmann durch "Fallgeschichten" und bringt den Heißhunger hinter "Gitter". Das Buch eignet sich daher besonders für Menschen, die Heißhunger, emotionales Essen und wiederkehrende Verhaltensmuster besser verstehen und verändern möchten.
 
 ## 2. Links
 

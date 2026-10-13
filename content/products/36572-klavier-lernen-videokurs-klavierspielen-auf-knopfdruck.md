@@ -41,50 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Lerne Pop Piano bis zu 10x schneller </h3>
-<p><strong>Gesamtpaket: Videokurs für Einsteiger, Wiedereinsteiger und Umsteiger vom klassischen Klavierspiel</strong> über 60 frei einteilbare Videos, mehr als 8 Stunden reine Spielzeit.</p>
-<p> </p>
-<p><strong>Alle Vorteile auf einen Blick:</strong></p>
-<p>  </p>
-<ul>
-<li>Lerne Pop Piano von Grund auf spielen zu einem sensationellen Preis</li>
-</ul>
-<p>​</p>
-<ul>
-<li>3-Schritt Methodik zum Erarbeiten Deiner Lieblingssongs nach Akkorden</li>
-</ul>
-<p>​​</p>
-<ul>
-<li>Erarbeite Klavierbegleitungen sowie das Solo Pianospiel</li>
-</ul>
-<p>​</p>
-<ul>
-<li>Auch das Notenspiel und die Musiktheorie kommen nicht zu kurz</li>
-</ul>
-<p>​</p>
-<ul>
-<li>Von zu Hause aus, zu Deiner Zeit an Deinem Instrument lernen​</li>
-</ul>
-<p>​</p>
-<ul>
-<li>Komplettpreis für alle Videos und Noten im PDF-Format zum Download</li>
-</ul>
-<p>​</p>
-<ul>
-<li>Zusätzlich mehr als 10 Stunden ergänzende Videolektionen</li>
-</ul>
-<p>​</p>
-<ul>
-<li>Online Zugang zeitlich unbegrenzt</li>
-</ul>
-<p> </p>
-<ul>
-<li>Neu:<strong> optionales 1-zu-1 online Piano Coaching buchbar!!!</strong></li>
-</ul>
-<p> </p>
-<p>Es gibt <strong>keine</strong> Rabatte!<strong> </strong>Das Kurspaket wird um weitere wertvolle Inhalte erweitert. Der Preis wird weiter steigen.</p>
-<p><strong>Deshalb: Nutze dieses sensationelle Angebot und steige jetzt noch günstig ein!</strong></p>
-<p>Direkt nach der Bezahlung bekommst du deine Zugangsdaten per E-Mail zugeschickt und kannst sofort beginnen!</p>
+**Vendor's marketplace description:** Lerne Pop Piano bis zu 10x schneller Gesamtpaket: Videokurs für Einsteiger, Wiedereinsteiger und Umsteiger vom klassischen Klavierspiel über 60 frei einteilbare Videos, mehr als 8 Stunden reine Spielzeit. Alle Vorteile auf einen Blick: Lerne Pop Piano von Grund auf spielen zu einem sensationellen Preis ​ 3-Schritt Methodik zum Erarbeiten Deiner Lieblingssongs nach Akkorden ​​ Erarbeite Klavierbegleitungen sowie das Solo Pianospiel ​ Auch das Notenspiel und die Musiktheorie kommen nicht zu kurz ​ Von zu Hause aus, zu Deiner Zeit an Deinem Instrument lernen​ ​ Komplettpreis für alle Videos und Noten im PDF-Format zum Download ​ Zusätzlich mehr als 10 Stunden ergänzende Videolektionen ​ Online Zugang zeitlich unbegrenzt Neu: optionales 1-zu-1 online Piano Coaching buchbar!!! Es gibt keine Rabatte! Das Kurspaket wird um weitere wertvolle Inhalte erweitert. Der Preis wird weiter steigen. Deshalb: Nutze dieses sensationelle Angebot und steige jetzt noch günstig ein! Direkt nach der Bezahlung bekommst du deine Zugangsdaten per E-Mail zugeschickt und kannst sofort beginnen!
 
 ## 2. Links
 

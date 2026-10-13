@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>PRIXUS CallButler</strong> – Professioneller KI-Telefonassistent als Desktop-Software. Nimmt Anrufe entgegen, wenn niemand ans Telefon geht – mit individueller Begrüßung und Anrufweiterleitung.</p>
-<p><strong>Warum dieses Produkt bewerben?</strong></p>
-<ul>
-<li><strong>30% Provision</strong> = 119,70 € pro Verkauf bei 399 € Einmalzahlung</li>
-<li><strong>Kein Abo-Modell</strong> – volle Provision ohne Rückbuchungsrisiko</li>
-<li><strong>Breite Zielgruppe:</strong> Selbständige, Freiberufler, kleine Unternehmen, Arztpraxen, Kanzleien</li>
-<li><strong>Einzigartiges Produkt:</strong> Kaum Wettbewerb im Affiliate-Markt</li>
-<li><strong>Hoher Warenkorbwert:</strong> 399 € Einmalzahlung = hohe Provision pro Sale</li>
-</ul>
-<p><strong>Features:</strong> KI-gestützte Anrufannahme, individuelle Begrüßung, Anrufweiterleitung, Voicemail-to-Email, Desktop-App für Windows.</p>
-<p>Verkaufsseite: <a href="https://www.prixus.de/software/callbutler/">https://www.prixus.de/software/callbutler/</a></p>
+**Vendor's marketplace description:** PRIXUS CallButler – Professioneller KI-Telefonassistent als Desktop-Software. Nimmt Anrufe entgegen, wenn niemand ans Telefon geht – mit individueller Begrüßung und Anrufweiterleitung. Warum dieses Produkt bewerben? 30% Provision = 119,70 € pro Verkauf bei 399 € Einmalzahlung Kein Abo-Modell – volle Provision ohne Rückbuchungsrisiko Breite Zielgruppe: Selbständige, Freiberufler, kleine Unternehmen, Arztpraxen, Kanzleien Einzigartiges Produkt: Kaum Wettbewerb im Affiliate-Markt Hoher Warenkorbwert: 399 € Einmalzahlung = hohe Provision pro Sale Features: KI-gestützte Anrufannahme, individuelle Begrüßung, Anrufweiterleitung, Voicemail-to-Email, Desktop-App für Windows. Verkaufsseite: https://www.prixus.de/software/callbutler/
 
 ## 2. Links
 

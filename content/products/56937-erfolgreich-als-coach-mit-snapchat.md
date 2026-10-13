@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du mit authentischem Content Vertrauen aufbaust und Kunden über Snapchat gewinnst</strong></p>
-<p>Als Coach lebt dein Business von Vertrauen – und Snapchat ist die Plattform, auf der dieses Vertrauen durch Nähe und Authentizität täglich wächst. Dieses E-Book zeigt dir, wie du aus deinem Fachwissen Stories und Spotlight-Videos machst, die nicht nur Reichweite, sondern planbar Anfragen bringen. Du lernst, wie du über Snapchat die Generation Z und junge Erwachsene erreichst, wie exklusive Behind-the-Scenes-Einblicke Nähe schaffen und wie du über Direct-Snaps und Discover deinen Funnel aufbaust. Statt auf Zufallstreffer zu hoffen, hast du nach diesem E-Book ein System, das dich als Autorität deiner Nische positioniert, echte Verbindungen aufbaut und deinen Kalender regelmäßig mit Erstgesprächen füllt.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Content-Strategie, die Vertrauen UND Anfragen erzeugt</li>
-<li>Themen finden, die deine Wunschkunden auf Snapchat wirklich bewegen</li>
-<li>Spotlight-Videos: Expertise zeigen ohne alles zu verschenken</li>
-<li>Stories als täglicher Touchpoint für Nähe und Verbindlichkeit</li>
-<li>Direct-Snaps und Chats als Conversion-Kanal nutzen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du mit authentischem Content Vertrauen aufbaust und Kunden über Snapchat gewinnst Als Coach lebt dein Business von Vertrauen – und Snapchat ist die Plattform, auf der dieses Vertrauen durch Nähe und Authentizität täglich wächst. Dieses E-Book zeigt dir, wie du aus deinem Fachwissen Stories und Spotlight-Videos machst, die nicht nur Reichweite, sondern planbar Anfragen bringen. Du lernst, wie du über Snapchat die Generation Z und junge Erwachsene erreichst, wie exklusive Behind-the-Scenes-Einblicke Nähe schaffen und wie du über Direct-Snaps und Discover deinen Funnel aufbaust. Statt auf Zufallstreffer zu hoffen, hast du nach diesem E-Book ein System, das dich als Autorität deiner Nische positioniert, echte Verbindungen aufbaut und deinen Kalender regelmäßig mit Erstgesprächen füllt. Das steckt drin: Content-Strategie, die Vertrauen UND Anfragen erzeugt Themen finden, die deine Wunschkunden auf Snapchat wirklich bewegen Spotlight-Videos: Expertise zeigen ohne alles zu verschenken Stories als täglicher Touchpoint für Nähe und Verbindlichkeit Direct-Snaps und Chats als Conversion-Kanal nutzen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

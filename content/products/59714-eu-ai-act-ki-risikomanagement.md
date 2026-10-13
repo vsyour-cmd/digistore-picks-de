@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>EU KI-Risikomanagement Pack 2026/2027</strong></p>
-<p>Dieses digitale Produkt ist ein <strong>praktisches PDF-Arbeitsheft</strong> für Unternehmen, die KI einsetzen und Risiken, Schutzmaßnahmen, Zuständigkeiten und Kontrollen strukturiert dokumentieren möchten.</p>
-<p>Das Arbeitsheft unterstützt bei typischen Aufgaben rund um <strong>EU AI Act, KI-Risikobewertung, Human Oversight, Monitoring, Datenqualität und interne Governance</strong>.</p>
-<p><strong>Geeignet für:</strong></p>
-<ul>
-<li>Selbstständige und KMU</li>
-<li>Unternehmen mit eigenen oder externen KI-Systemen</li>
-<li>Compliance- und Governance-Teams</li>
-<li>IT-, Daten- und KI-Verantwortliche</li>
-<li>Auditoren und Berater</li>
-<li>Unternehmen mit sensiblen oder risikorelevanten KI-Anwendungen</li>
-</ul>
-<p><strong>Enthalten sind unter anderem:</strong></p>
-<ul>
-<li>KI-Systeminventar</li>
-<li>Risikokategorien und Risikomatrix</li>
-<li>Maßnahmenplan zur Risikominderung</li>
-<li>Human-Oversight-Konzept</li>
-<li>Logging und Monitoring</li>
-<li>Datenqualität und Bias-Prüfung</li>
-<li>Sicherheits- und Robustheitstests</li>
-<li>Incident- und Korrekturprozesse</li>
-<li>Third-Party-KI-Dokumentation</li>
-<li>Auditplan</li>
-<li>30-Tage-Umsetzungsplan</li>
-<li>Abschluss-Checkliste</li>
-</ul>
-<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales Arbeitsheft im PDF-Format</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
-<p>Das Arbeitsheft dient als praktische Arbeits-, Prüf- und Dokumentationshilfe für ein strukturiertes KI-Risikomanagement und ersetzt keine individuelle Rechtsberatung.</p>
-<p><strong>Verkaufspreis: 29,00 €</strong> – digitaler Sofortdownload nach dem Kauf.</p>
+**Vendor's marketplace description:** EU KI-Risikomanagement Pack 2026/2027 Dieses digitale Produkt ist ein praktisches PDF-Arbeitsheft für Unternehmen, die KI einsetzen und Risiken, Schutzmaßnahmen, Zuständigkeiten und Kontrollen strukturiert dokumentieren möchten. Das Arbeitsheft unterstützt bei typischen Aufgaben rund um EU AI Act, KI-Risikobewertung, Human Oversight, Monitoring, Datenqualität und interne Governance . Geeignet für: Selbstständige und KMU Unternehmen mit eigenen oder externen KI-Systemen Compliance- und Governance-Teams IT-, Daten- und KI-Verantwortliche Auditoren und Berater Unternehmen mit sensiblen oder risikorelevanten KI-Anwendungen Enthalten sind unter anderem: KI-Systeminventar Risikokategorien und Risikomatrix Maßnahmenplan zur Risikominderung Human-Oversight-Konzept Logging und Monitoring Datenqualität und Bias-Prüfung Sicherheits- und Robustheitstests Incident- und Korrekturprozesse Third-Party-KI-Dokumentation Auditplan 30-Tage-Umsetzungsplan Abschluss-Checkliste Wichtig: Es handelt sich ausdrücklich um ein digitales Arbeitsheft im PDF-Format und nicht um Software, einen Videokurs oder einen Mitgliederbereich. Das Arbeitsheft dient als praktische Arbeits-, Prüf- und Dokumentationshilfe für ein strukturiertes KI-Risikomanagement und ersetzt keine individuelle Rechtsberatung. Verkaufspreis: 29,00 € – digitaler Sofortdownload nach dem Kauf.
 
 ## 2. Links
 

@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><em><strong>Bewerbe den Bestseller Kurs: NEXT LEVEL KI - Die Avatar Revolution</strong></em></span></p>
-<p> </p>
-<p><strong>Das bekommt Deine Community:</strong></p>
-<div><em><strong>✅ </strong><strong> Geld verdienen auf sämtlichen Social Media Kanälen mit Avataren.</strong></em></div>
-<div> </div>
-<div><strong><em>✅  Man bleibt komplett Anonym</em></strong></div>
-<div> </div>
-<div><em><strong>✅  Als Bonus gibt es unzählige Online Geld verdien Strategien dazu!!!</strong></em></div>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Sehr gute Conversion:</strong></span></p>
-<p><strong>Deine Community bekommt noch sehr viele Kurse Geschenkt und Du verdienst am Upsell Prozess (YouTube und KI Produkte) bis zu 167 Euro</strong></p>
-<div> </div>
+**Vendor's marketplace description:** Bewerbe den Bestseller Kurs: NEXT LEVEL KI - Die Avatar Revolution Das bekommt Deine Community: ✅ Geld verdienen auf sämtlichen Social Media Kanälen mit Avataren. ✅ Man bleibt komplett Anonym ✅ Als Bonus gibt es unzählige Online Geld verdien Strategien dazu!!! Sehr gute Conversion: Deine Community bekommt noch sehr viele Kurse Geschenkt und Du verdienst am Upsell Prozess (YouTube und KI Produkte) bis zu 167 Euro
 
 ## 2. Links
 

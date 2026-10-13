@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Was macht dieses Workbook einzigartig?</strong></p>
-<p>Wir kombinieren <strong>klassische Bewerbungsgrundlagen</strong> mit <strong>modernem, digitalem Bewerbungswissen &amp; KI-Einsatz</strong>.</p>
-<ul>
-<li><strong>Vom Anschreiben zum Nutzen-Pitch:</strong> Lernen Sie, Ihr Anschreiben nicht aus der Perspektive "Was möchte ich?" zu schreiben, sondern aus der entscheidenden Frage: <strong>"Was braucht das Unternehmen – und warum bin ich die Lösung?"</strong>4. Zeigen Sie Ihren <strong>Nutzen</strong> statt nur Stationen im Lebenslauf.</li>
-<li><strong>KI als Turbo, nicht als Copy-Paste-Langeweile:</strong> Nutzen Sie Künstliche Intelligenz als mächtigen Recherche-Turbo. Wir liefern Ihnen die <strong>fertigen Formulierungsvorschläge + Prompts</strong>, damit Sie KI-Unterstützung effektiv nutzen, ohne dabei glatt oder austauschbar zu klingen.</li>
-<li><strong>Meistern Sie den Perspektivwechsel:</strong> Verwandeln Sie "Ich-Sätze" ("Ich bin sehr organisiert") in unwiderstehliche Nutzen-Sätze ("Damit stellen Sie sicher, dass Projekte strukturiert und fristgerecht laufen.").</li>
-<li><strong>Stärken Sie Ihre Haltung:</strong> Bewerbungserfolg ist keine Frage der Formulierung, sondern der <strong>Haltung</strong>. Gehen Sie raus aus dem Mangeldenken und rein in die Gestaltungsrolle!</li>
-</ul>
-<p><strong>Was Sie in diesem Workbook erwartet:</strong></p>
-<ul>
-<li>Ein <strong>klarer, verständlicher Leitfaden</strong> – Schritt für Schritt.</li>
-<li><strong>Übungen, Reflexionsfragen und Schreibfelder</strong> zur direkten Umsetzung.</li>
-<li><strong>Klassische und moderne Textmuster</strong>.</li>
-<li><strong>Checklisten zur direkten Umsetzung</strong>, um sofort sichtbar und professionell zu werden.</li>
-<li>Die Basis für eine <strong>überzeugende Argumentation</strong>, die auf Fachwissen, Soft Skills, Ergebnissen/Erfolgen und Motivation basiert.</li>
-</ul>
-<p>Das Ziel ist nicht nur ein fertiges Anschreiben. Das Ziel ist ein Anschreiben, das wirkt – und Ihnen die Einladung zum Gespräch sichert!</p>
+**Vendor's marketplace description:** Was macht dieses Workbook einzigartig? Wir kombinieren klassische Bewerbungsgrundlagen mit modernem, digitalem Bewerbungswissen & KI-Einsatz . Vom Anschreiben zum Nutzen-Pitch: Lernen Sie, Ihr Anschreiben nicht aus der Perspektive "Was möchte ich?" zu schreiben, sondern aus der entscheidenden Frage: "Was braucht das Unternehmen – und warum bin ich die Lösung?" 4. Zeigen Sie Ihren Nutzen statt nur Stationen im Lebenslauf. KI als Turbo, nicht als Copy-Paste-Langeweile: Nutzen Sie Künstliche Intelligenz als mächtigen Recherche-Turbo. Wir liefern Ihnen die fertigen Formulierungsvorschläge + Prompts , damit Sie KI-Unterstützung effektiv nutzen, ohne dabei glatt oder austauschbar zu klingen. Meistern Sie den Perspektivwechsel: Verwandeln Sie "Ich-Sätze" ("Ich bin sehr organisiert") in unwiderstehliche Nutzen-Sätze ("Damit stellen Sie sicher, dass Projekte strukturiert und fristgerecht laufen."). Stärken Sie Ihre Haltung: Bewerbungserfolg ist keine Frage der Formulierung, sondern der Haltung . Gehen Sie raus aus dem Mangeldenken und rein in die Gestaltungsrolle! Was Sie in diesem Workbook erwartet: Ein klarer, verständlicher Leitfaden – Schritt für Schritt. Übungen, Reflexionsfragen und Schreibfelder zur direkten Umsetzung. Klassische und moderne Textmuster . Checklisten zur direkten Umsetzung , um sofort sichtbar und professionell zu werden. Die Basis für eine überzeugende Argumentation , die auf Fachwissen, Soft Skills, Ergebnissen/Erfolgen und Motivation basiert. Das Ziel ist nicht nur ein fertiges Anschreiben. Das Ziel ist ein Anschreiben, das wirkt – und Ihnen die Einladung zum Gespräch sichert!
 
 ## 2. Links
 

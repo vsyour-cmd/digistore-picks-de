@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:left;"><strong>Die Landingpage-Formel, der klare Blueprint für Landingpages, die Besucher zu Kunden führen.</strong></p>
-<p style="text-align:left;">Deine Zielgruppe hat gute Angebote – aber ihre Landingpages verkaufen nichts?</p>
-<p style="text-align:left;">Genau hier setzt die Landingpage-Formel an.</p>
-<p style="text-align:left;">Der praxisnahe Blueprint zeigt, wie Landingpages strukturiert und formuliert werden, damit Besucher schneller verstehen,</p>
-<p style="text-align:left;">was angeboten wird, warum es relevant ist und was sie als Nächstes tun sollen.</p>
-<p style="text-align:left;"><strong>Einfach zu verstehen. Einfach zu empfehlen. Direkt umsetzbar.</strong></p>
+**Vendor's marketplace description:** Die Landingpage-Formel, der klare Blueprint für Landingpages, die Besucher zu Kunden führen. Deine Zielgruppe hat gute Angebote – aber ihre Landingpages verkaufen nichts? Genau hier setzt die Landingpage-Formel an. Der praxisnahe Blueprint zeigt, wie Landingpages strukturiert und formuliert werden, damit Besucher schneller verstehen, was angeboten wird, warum es relevant ist und was sie als Nächstes tun sollen. Einfach zu verstehen. Einfach zu empfehlen. Direkt umsetzbar.
 
 ## 2. Links
 

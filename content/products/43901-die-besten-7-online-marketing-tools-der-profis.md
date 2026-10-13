@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>"Die besten 7 Online Marketing Tools der Profis"</strong> wird statt € 27,90, kostenlos angeboten</p>
-<ul>
-<li>Diese Tools verbessern die Effizienz</li>
-<li>Jeder spart ab sofort wertvolle Stunden</li>
-<li>Klare Erklärung und Links zum gewünschten Tool</li>
-<li>Alle Tools sind kostenlos zu nutzen und zu testen</li>
-<li>Du hast mit <strong>diesem E-Book ein Geschenk für deine Community</strong> und wirst am<strong> kompletten Sales-Funnel beteiligt!</strong></li>
-</ul>
-<p>Hohe Conversion, da es für den Kunden kostenlos ist.</p>
-<h4>55 % Provision!</h4>
-<p>Beteiligt an Up- und Downsell<br /><strong>Über 63 € im Funnel für dich möglich!</strong></p>
+**Vendor's marketplace description:** "Die besten 7 Online Marketing Tools der Profis" wird statt € 27,90, kostenlos angeboten Diese Tools verbessern die Effizienz Jeder spart ab sofort wertvolle Stunden Klare Erklärung und Links zum gewünschten Tool Alle Tools sind kostenlos zu nutzen und zu testen Du hast mit diesem E-Book ein Geschenk für deine Community und wirst am kompletten Sales-Funnel beteiligt! Hohe Conversion, da es für den Kunden kostenlos ist. 55 % Provision! Beteiligt an Up- und Downsell Über 63 € im Funnel für dich möglich!
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Lexosleep ist ein Förderprogramm für Kinder von 0 - 6 Jahren. Eltern spielen ihrem Kind die Audios während der Nacht vor. Somit erwerb Kinder den deutschen Sprachrhythmus im Schlaf und können Sprache aufbauen.</p>
-<p>Für Eltern ein revolutionäres Konzept. Schon tausende haben von Lexosleep profetiert.</p>
-<p>Kerstin Schimkus ist Gründerin der Lexosophie und hat Lexosleep entwickelt. Seit fast 20 Jahren begleitet sie Eltern mit ihren Kindern erfolgreich im Spracherwerb.</p>
+**Vendor's marketplace description:** Lexosleep ist ein Förderprogramm für Kinder von 0 - 6 Jahren. Eltern spielen ihrem Kind die Audios während der Nacht vor. Somit erwerb Kinder den deutschen Sprachrhythmus im Schlaf und können Sprache aufbauen. Für Eltern ein revolutionäres Konzept. Schon tausende haben von Lexosleep profetiert. Kerstin Schimkus ist Gründerin der Lexosophie und hat Lexosleep entwickelt. Seit fast 20 Jahren begleitet sie Eltern mit ihren Kindern erfolgreich im Spracherwerb.
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><big>Hypnose Kurs: "Schlafstörungen verlieren, besser verlieren"</big></h2>
-<h4>1,5 Stunden On-demand Videos für:</h4>
-<ul><li>Sorgen loslassen</li>
-<li>Leichter wieder einschlafen</li>
-<li>Besser abschalten</li>
-<li>Schneller entspannen</li>
-</ul><p><strong>Kursinhalte, Bewertungen und Vorschauvideos auf der Verkaufsseite.</strong></p>
+**Vendor's marketplace description:** Hypnose Kurs: "Schlafstörungen verlieren, besser verlieren" 1,5 Stunden On-demand Videos für: Sorgen loslassen Leichter wieder einschlafen Besser abschalten Schneller entspannen Kursinhalte, Bewertungen und Vorschauvideos auf der Verkaufsseite.
 
 ## 2. Links
 

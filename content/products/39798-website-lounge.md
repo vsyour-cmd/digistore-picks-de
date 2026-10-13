@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die Website Lounge - der Mitgliederbereich für Online-Unternehmerinnen rund um alle Fragen zur WordPress-Website.</p>
-<p>Mit monatlichen Fragerunden und Trainings, vielen nützlichen Tutorials und einer begeisterten Community!</p>
+**Vendor's marketplace description:** Die Website Lounge - der Mitgliederbereich für Online-Unternehmerinnen rund um alle Fragen zur WordPress-Website. Mit monatlichen Fragerunden und Trainings, vielen nützlichen Tutorials und einer begeisterten Community!
 
 ## 2. Links
 

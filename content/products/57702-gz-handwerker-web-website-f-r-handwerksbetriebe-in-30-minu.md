@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Konfigurator, mit dem Handwerksbetriebe sich in 30 Minuten eine eigene Website zusammenklicken – Hero, Leistungen, Galerie, Kontakt, Live-Vorschau, fertig als HTML-Export. Zielgruppe: Handwerksbetriebe ohne eigene Website oder mit veralteter Seite, die keine Agentur bezahlen wollen. Einmalzahlung (79,90€) statt monatliches Website-Abo, inklusive 3 Jahre Update-Garantie.</p>
+**Vendor's marketplace description:** Konfigurator, mit dem Handwerksbetriebe sich in 30 Minuten eine eigene Website zusammenklicken – Hero, Leistungen, Galerie, Kontakt, Live-Vorschau, fertig als HTML-Export. Zielgruppe: Handwerksbetriebe ohne eigene Website oder mit veralteter Seite, die keine Agentur bezahlen wollen. Einmalzahlung (79,90€) statt monatliches Website-Abo, inklusive 3 Jahre Update-Garantie.
 
 ## 2. Links
 

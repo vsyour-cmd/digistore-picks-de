@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#00ccff;">Produktinfos</span></h2>
-<p>Video Anleitung: Das Training, wie ich 1000 YouTube Abos knackte und über 500€ im Monat online verdiene.</p>
-<h2><span style="color:#00ccff;">Vorteile für dich als Affiliate</span></h2>
-<p>✔ Hilft jedem beim Online Geld verdienen mit YouTube &amp; Affiliate Marketing <strong>(100% passend)</strong></p>
-<p><strong>✔ Ultrafaire 47€ einmalig </strong>+ kostenloser Testzugang für YouTuber = noch besser weiterempfehlen <strong>(100% ehrlich)</strong></p>
-<p>✔ <strong>80-100 % Provision auch auf Upsells+<a href="https://help.digistore24.com/de/articles/1176-lifetime-affiliate-regelung-aktivieren" target="_blank" rel="noreferrer noopener">Lifetime</a>: </strong>max. 200€ + Wettbewerb mit Preisen</p>
-<p>✔ <a href="https://chrisboenig.com/affiliateprogramm/" target="_blank" rel="noreferrer noopener"><strong>Große Auswahl optimierter Werbemittel</strong>:</a> klickstarke Bild- &amp; Textvorlagen die mir selbst Verkäufe brachten.</p>
-<h2><span style="color:#00ccff;">Verdienstaussicht als Affiliate </span></h2>
-<table style="width:300px;border-color:#00CCFF;" border="2">
-<tbody>
-<tr style="height:18px;">
-<td style="height:18px;width:120.641px;"><strong>Deine Verkäufe</strong></td>
-<td style="height:18px;width:137.469px;"><strong>Deine Einnahmen</strong></td>
-</tr>
-<tr style="height:18px;">
-<td style="height:18px;width:120.641px;">1</td>
-<td style="height:18px;width:137.469px;">bis zu 200€</td>
-</tr>
-<tr style="height:18px;">
-<td style="height:18px;width:120.641px;">100</td>
-<td style="height:18px;width:137.469px;">bis zu 20000€</td>
-</tr>
-</tbody>
-</table>
-<div class="button" style="padding-top:10px;text-align:left;"><span style="background-color:#00ccff;color:#ffffff;"><strong><a style="background-color:#00ccff;color:#ffffff;" href="https://chrisboenig.com/affiliateprogramm/" target="_blank" rel="noreferrer noopener">Alle Infos zum Affiliate Programm ▶</a></strong></span></div>
+**Vendor's marketplace description:** Produktinfos Video Anleitung: Das Training, wie ich 1000 YouTube Abos knackte und über 500€ im Monat online verdiene. Vorteile für dich als Affiliate ✔ Hilft jedem beim Online Geld verdienen mit YouTube & Affiliate Marketing (100% passend) ✔ Ultrafaire 47€ einmalig + kostenloser Testzugang für YouTuber = noch besser weiterempfehlen (100% ehrlich) ✔ 80-100 % Provision auch auf Upsells+ Lifetime : max. 200€ + Wettbewerb mit Preisen ✔ Große Auswahl optimierter Werbemittel : klickstarke Bild- & Textvorlagen die mir selbst Verkäufe brachten. Verdienstaussicht als Affiliate Deine Verkäufe Deine Einnahmen 1 bis zu 200€ 100 bis zu 20000€ Alle Infos zum Affiliate Programm ▶
 
 ## 2. Links
 

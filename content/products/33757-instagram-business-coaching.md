@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>HALLO, ICH BIN TANJA VALLEE</h2>
-<p>Seit mehreren Jahren coache ich Selbstständige und Unternehmer beim effektiven Aufbau ihres Instagram Accounts.</p>
-<p>Ich gebe meinen Kunden Werkzeuge an die Hand womit sie selbstständig und erfolgreich ihr Business aufbauen können. Mit Dienstleistern teile ich gerne mein now how und unterstütze sie bei der Produkt Gestaltung und im Online -Marketing.<br />Es ist mir eine Freude meine Kunden zu unterstützen ein optimales Business aufzubauen, das zu ihnen passt.<br />Ich selbst habe verschiedene Coachings gebucht um mich weiter zu entwickeln  und konnte da durch viel Zeit, Geld und Energie sparen.<br />Diese Chance möchte ich dir auch geben, damit du mit mir die Abkürzung nehmen kannst.</p>
+**Vendor's marketplace description:** HALLO, ICH BIN TANJA VALLEE Seit mehreren Jahren coache ich Selbstständige und Unternehmer beim effektiven Aufbau ihres Instagram Accounts. Ich gebe meinen Kunden Werkzeuge an die Hand womit sie selbstständig und erfolgreich ihr Business aufbauen können. Mit Dienstleistern teile ich gerne mein now how und unterstütze sie bei der Produkt Gestaltung und im Online -Marketing. Es ist mir eine Freude meine Kunden zu unterstützen ein optimales Business aufzubauen, das zu ihnen passt. Ich selbst habe verschiedene Coachings gebucht um mich weiter zu entwickeln und konnte da durch viel Zeit, Geld und Energie sparen. Diese Chance möchte ich dir auch geben, damit du mit mir die Abkürzung nehmen kannst.
 
 ## 2. Links
 

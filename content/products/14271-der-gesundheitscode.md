@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Produkteigenschaften:</h2>
-<ul>
-<li><strong><span style="background-color:#ffff00;">18-teiliger Kompakt-Video-Kurs</span></strong> (aufgeteilt in 6 umfassende Module) zur Befreiung deines natürlichen Leistungspotentials und gezielten Aktivierung deines „inneren Arztes“</li>
-<li>insgesamt <strong>12 Stunden hochwertige Video-Inhalte in Seminarform</strong></li>
-<li><strong>Einführungsmodul: Gesundheit - das unbekannte Wesen</strong></li>
-<li><strong>Gesundheitssäule Nr. 1:</strong> Richtiges Mindset</li>
-<li><strong>Gesundheitssäule Nr. 2:</strong> Richtige Ernährung</li>
-<li><strong>Gesundheitssäule Nr. 3:</strong> Richtige Entgiftung</li>
-<li><strong>Gesundheitssäule Nr. 4:</strong> Richtiges Training, Abhärtung, Wasserheilung und Entspannung</li>
-<li><strong>Gesundheitssäule Nr. 5:</strong> Richtige Lebensweise und die Macht gesunder Gewohnheiten</li>
-<li>neuestes Insider-Wissen der Gesundheitsforschung zusammengefasst in einem praxiserprobten Programm mit klarer Schritt-für-Schritt-Anleitung</li>
-<li><strong>Bonus 1:</strong> 3-teiliger Video-Kurs "Raus aus der Energiefalle“</li>
-<li><strong>Bonus 2:</strong> 20-teiliger Video-Kurs "Geschichte der Medizin als Schlüssel zu wahrer Gesundheit"</li>
-</ul>
-<h2>Vorteile für dich als Anwender des Gesundheits-Codes:</h2>
-<ul>
-<li>Erhöhung deiner allgemeinen Belastbarkeit (körperlich + psychisch)</li>
-<li>Verbesserung deiner Verdauung (d.h. weniger Sodbrennen, Blähungen, Unverträglichkeiten)</li>
-<li>mehr geistige Klarheit, Erhöhung deiner Konzentrationsfähigkeit</li>
-<li>Zellverjüngung mit Verlangsamung des biologischen Alterungsprozesses</li>
-<li>tieferer und erholsamer Nachtschlaf im heutigen Zeitalter grenzenloser Hektik</li>
-<li>systematische und gezielte Aktivierung deines „inneren Arztes“</li>
-</ul>
-<p><strong>FAZIT:</strong> Der Kurs vermittelt in einem klar strukturierten Aufbau neues Erkenntnisse der Gesundheitsforschung, die jedem selbstverantwortlichen Menschen diverse Methoden, Techniken und Strategien zur Verbesserung der eigenen Lebensqualität mit an die Hand geben. Dadurch werden erst die Voraussetzungen geschafft für ein langes und gesundes Leben.</p>
-<p><strong> </strong></p>
-<p> </p>
+**Vendor's marketplace description:** Produkteigenschaften: 18-teiliger Kompakt-Video-Kurs (aufgeteilt in 6 umfassende Module) zur Befreiung deines natürlichen Leistungspotentials und gezielten Aktivierung deines „inneren Arztes“ insgesamt 12 Stunden hochwertige Video-Inhalte in Seminarform Einführungsmodul: Gesundheit - das unbekannte Wesen Gesundheitssäule Nr. 1: Richtiges Mindset Gesundheitssäule Nr. 2: Richtige Ernährung Gesundheitssäule Nr. 3: Richtige Entgiftung Gesundheitssäule Nr. 4: Richtiges Training, Abhärtung, Wasserheilung und Entspannung Gesundheitssäule Nr. 5: Richtige Lebensweise und die Macht gesunder Gewohnheiten neuestes Insider-Wissen der Gesundheitsforschung zusammengefasst in einem praxiserprobten Programm mit klarer Schritt-für-Schritt-Anleitung Bonus 1: 3-teiliger Video-Kurs "Raus aus der Energiefalle“ Bonus 2: 20-teiliger Video-Kurs "Geschichte der Medizin als Schlüssel zu wahrer Gesundheit" Vorteile für dich als Anwender des Gesundheits-Codes: Erhöhung deiner allgemeinen Belastbarkeit (körperlich + psychisch) Verbesserung deiner Verdauung (d.h. weniger Sodbrennen, Blähungen, Unverträglichkeiten) mehr geistige Klarheit, Erhöhung deiner Konzentrationsfähigkeit Zellverjüngung mit Verlangsamung des biologischen Alterungsprozesses tieferer und erholsamer Nachtschlaf im heutigen Zeitalter grenzenloser Hektik systematische und gezielte Aktivierung deines „inneren Arztes“ FAZIT: Der Kurs vermittelt in einem klar strukturierten Aufbau neues Erkenntnisse der Gesundheitsforschung, die jedem selbstverantwortlichen Menschen diverse Methoden, Techniken und Strategien zur Verbesserung der eigenen Lebensqualität mit an die Hand geben. Dadurch werden erst die Voraussetzungen geschafft für ein langes und gesundes Leben.
 
 ## 2. Links
 

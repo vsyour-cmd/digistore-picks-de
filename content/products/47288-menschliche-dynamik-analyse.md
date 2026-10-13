@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><span style="color:#ff9900;"><span style="color:#ff6600;">Die Neuheit im Fußball</span> ⚽️</span></h4>
-<p>Die menschliche Dynamik beeinflusst maßgeblich die Performance eines Fußballspielers. Analyse verschiedener Aspekte der Persönlichkeit, Eigenschaften, Motive, Kompetenzen und vieles mehr.</p>
-<p> </p>
-<h3>Dein Verdienst:</h3>
-<p><strong>- 25% Provision</strong> auf alle unsere Produkte, egal welches Produkt durch deine Empfehlung gekauft wird</p>
-<p><strong>- plus weitere 10%</strong> <strong>Zweistufen-Provisionen</strong> auf die Verkäufe deiner Werbe-Partner, die du als deine Affiliates gewinnst</p>
-<p>- <strong>Werbemittel</strong> und Text-Vorlagen findest du hier <span style="color:#3366ff;"><a style="color:#3366ff;" href="https://www.digistore24-app.com/account/partnerarea/1043952" target="_blank" rel="noreferrer noopener">&gt; Affiliate-Support-Seite</a></span></p>
-<p> </p>
-<h3>Details zum Produkt:</h3>
-<hr />
-<h4> </h4>
-<h4><strong><span style="color:#ff9900;">Menschliche Dynamik - 6 Test-Module</span></strong></h4>
-<p><strong>Mache deinen persönlichen Check.</strong></p>
-<p> </p>
-<p>- Welche Persönlichkeitsmerkmale gibt es überhaupt?</p>
-<p>- Welche Fähigkeiten und Eigenschaften finde ich an mir?</p>
-<p>- Wie ausgeprägt sind sie?</p>
-<p>- Welche meiner Talente möchte ich weiterentwickeln?</p>
-<p>- Wie beeinflussen meine Vorstellungen die Interaktionen mit anderen Menschen?</p>
-<p>- Wie kann ich meine Stärken nutzen, um meine Ziele zu erreichen?</p>
-<p> </p>
-<hr />
-<p><strong>Zielgruppe</strong>: Fußballspieler *innen</p>
-<hr />
-<p> </p>
-<p><span style="color:#339966;"><strong>&gt; Promote jetzt</strong> </span>und werde Teil unserer Erfolgsstory.</p>
+**Vendor's marketplace description:** Die Neuheit im Fußball ⚽️ Die menschliche Dynamik beeinflusst maßgeblich die Performance eines Fußballspielers. Analyse verschiedener Aspekte der Persönlichkeit, Eigenschaften, Motive, Kompetenzen und vieles mehr. Dein Verdienst: - 25% Provision auf alle unsere Produkte, egal welches Produkt durch deine Empfehlung gekauft wird - plus weitere 10% Zweistufen-Provisionen auf die Verkäufe deiner Werbe-Partner, die du als deine Affiliates gewinnst - Werbemittel und Text-Vorlagen findest du hier > Affiliate-Support-Seite Details zum Produkt: Menschliche Dynamik - 6 Test-Module Mache deinen persönlichen Check. - Welche Persönlichkeitsmerkmale gibt es überhaupt? - Welche Fähigkeiten und Eigenschaften finde ich an mir? - Wie ausgeprägt sind sie? - Welche meiner Talente möchte ich weiterentwickeln? - Wie beeinflussen meine Vorstellungen die Interaktionen mit anderen Menschen? - Wie kann ich meine Stärken nutzen, um meine Ziele zu erreichen? Zielgruppe : Fußballspieler *innen > Promote jetzt und werde Teil unserer Erfolgsstory.
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>"COOK HEALTHY WITH DONA" </strong>(lowcarb/keto)</p>
-<p> </p>
-<p>✔️Abnehmen OHNE verzicht</p>
-<p>✔️Gratis <strong>Lipödem Downloads</strong></p>
-<p>✔️48 Seiten <strong>kreative </strong><strong>Ideen</strong>, die dir deine LowCarb Küche sofort vereinfachen</p>
-<p>✔️integrierte <strong>Einkauflinks</strong> direkt zu den verwendeten Produkten</p>
-<p>✔️ Zwei Beispielstage "FULL DAY OF EATING"</p>
+**Vendor's marketplace description:** "COOK HEALTHY WITH DONA" (lowcarb/keto) ✔️Abnehmen OHNE verzicht ✔️Gratis Lipödem Downloads ✔️48 Seiten kreative Ideen , die dir deine LowCarb Küche sofort vereinfachen ✔️integrierte Einkauflinks direkt zu den verwendeten Produkten ✔️ Zwei Beispielstage "FULL DAY OF EATING"
 
 ## 2. Links
 

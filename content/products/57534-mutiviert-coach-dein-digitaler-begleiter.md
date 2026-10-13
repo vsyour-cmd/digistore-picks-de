@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Du trägst gerade zu viel.<br />Allein.</h1>
-<p>Die Gedanken rasen. Der Tag zieht dich. Abends fragst du dich, wo du selbst geblieben bist.<br /><br />MUTiviert Coach ist da — genau dann, wenn du jemanden brauchst. 24/7, auf Deutsch.</p>
-<p> </p>
-<p>MUTiviert Coach begleitet Nutzer täglich mit motivierenden Impulsen, Erinnerungen und kleinen Denkanstößen für mehr Selbstdisziplin, bessere Gewohnheiten und einen positiveren Alltag. Kein Download, keine komplizierte App – nur ein Chat, der wirklich ankommt. Ideal für alle, die im Bereich Persönlichkeitsentwicklung, Coaching oder Self-Help unterwegs sind und ihrer Zielgruppe ein alltagstaugliches, niedrigschwelliges Produkt anbieten möchten.</p>
-<p>Mit der Basis- und Plus-Variante gibt es zwei Preispunkte für unterschiedliche Budgets deiner Community – als Affiliate erhältst du 10% Provision auf beide Produkte, sobald deine Empfehlung freigeschaltet ist.</p>
+**Vendor's marketplace description:** Du trägst gerade zu viel. Allein. Die Gedanken rasen. Der Tag zieht dich. Abends fragst du dich, wo du selbst geblieben bist. MUTiviert Coach ist da — genau dann, wenn du jemanden brauchst. 24/7, auf Deutsch. MUTiviert Coach begleitet Nutzer täglich mit motivierenden Impulsen, Erinnerungen und kleinen Denkanstößen für mehr Selbstdisziplin, bessere Gewohnheiten und einen positiveren Alltag. Kein Download, keine komplizierte App – nur ein Chat, der wirklich ankommt. Ideal für alle, die im Bereich Persönlichkeitsentwicklung, Coaching oder Self-Help unterwegs sind und ihrer Zielgruppe ein alltagstaugliches, niedrigschwelliges Produkt anbieten möchten. Mit der Basis- und Plus-Variante gibt es zwei Preispunkte für unterschiedliche Budgets deiner Community – als Affiliate erhältst du 10% Provision auf beide Produkte, sobald deine Empfehlung freigeschaltet ist.
 
 ## 2. Links
 

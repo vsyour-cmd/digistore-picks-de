@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du mit visueller SEO planbaren Traffic auf deinen Shop oder deine Website lenkst</strong></p>
-<p>Pinterest-Nutzer sind keine passiven Scroller – sie suchen aktiv nach Ideen, Produkten und Lösungen. Und sie klicken. Für Unternehmen, Shops und Dienstleister ist Pinterest deshalb einer der kosteneffizientesten Kanäle für qualifizierten Outbound-Traffic. Dieses E-Book zeigt dir, wie du Pinterest als skalierbaren Akquisitionskanal aufbaust: von der keyword-getriebenen Board-Strategie über Pin-Designs, die zur Klick-Aktion einladen, bis zum vollständigen Traffic-Funnel, der Besucher in Leads und Käufer verwandelt. Du lernst, wie Rich Pins deinen Shop-Traffic steigern, wie du Produkt-Pins, Blog-Artikel und Landingpages strategisch verlinkst und wie du den ROI deiner Pinterest-Aktivitäten sauber misst. Ein Evergreen-System, das 24/7 für dich arbeitet.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Die keyword-getriebene Board-Strategie für maximalen Outbound-Traffic</li>
-<li>Rich Pins einrichten: Produkte, Artikel und Rezepte automatisch aktuell halten</li>
-<li>Pin-Design-Frameworks, die zur Klick-Aktion einladen</li>
-<li>Der vollständige Traffic-Funnel: Pin → Landingpage → Lead/Kauf</li>
-<li>Pinterest SEO für Shops: Produktpin-Optimierung Schritt für Schritt</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du mit visueller SEO planbaren Traffic auf deinen Shop oder deine Website lenkst Pinterest-Nutzer sind keine passiven Scroller – sie suchen aktiv nach Ideen, Produkten und Lösungen. Und sie klicken. Für Unternehmen, Shops und Dienstleister ist Pinterest deshalb einer der kosteneffizientesten Kanäle für qualifizierten Outbound-Traffic. Dieses E-Book zeigt dir, wie du Pinterest als skalierbaren Akquisitionskanal aufbaust: von der keyword-getriebenen Board-Strategie über Pin-Designs, die zur Klick-Aktion einladen, bis zum vollständigen Traffic-Funnel, der Besucher in Leads und Käufer verwandelt. Du lernst, wie Rich Pins deinen Shop-Traffic steigern, wie du Produkt-Pins, Blog-Artikel und Landingpages strategisch verlinkst und wie du den ROI deiner Pinterest-Aktivitäten sauber misst. Ein Evergreen-System, das 24/7 für dich arbeitet. Das steckt drin: Die keyword-getriebene Board-Strategie für maximalen Outbound-Traffic Rich Pins einrichten: Produkte, Artikel und Rezepte automatisch aktuell halten Pin-Design-Frameworks, die zur Klick-Aktion einladen Der vollständige Traffic-Funnel: Pin → Landingpage → Lead/Kauf Pinterest SEO für Shops: Produktpin-Optimierung Schritt für Schritt Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

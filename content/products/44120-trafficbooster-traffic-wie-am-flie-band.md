@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Generiere Traffic, wie am Fließband!<br /></strong></h2>
-<p><strong>Für alle Affiliates eine klasse Chance.</strong> Denn du bekommst auf dieses Produkt 30% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann <strong>30 - 50% Provision</strong> gibt.</p>
-<p><strong>Insgesamt können damit über 400 Euro an Provision verdient werden.</strong></p>
-<p>Im Programm ist folgendes enthalten:</p>
-<ul>
-<li>.. <strong>7+ extrem smarte Strategien</strong>, um mehr Traffic zu generieren, sodass du deine E-Mail-Liste<strong> zum Überfüllen bringst.<br /></strong></li>
-<li>... wie nahezu <strong>für jedes Projekt unfassbar viel Traffic generierst</strong>, und damit schon vor dem Beginn weißt, dass es profitabel wird.</li>
-<li>... wie du Leads und Provisionen wie am Fließband generieren wirst.</li>
-<li>... <strong>Premium Landing Pages</strong>, die für dich Leads generieren, mit astronomisch hohen Eintragungs- und Conversion Raten.</li>
-<li>... fertige Vorlagen für Social Media, Blogs, Paid Ads und noch einiges mehr, damit du <strong>noch heute beginnen kannst</strong>.</li>
-<li>... wie du deine Kreativität unheimlich fördest und somit geniales hervorbringst, sodass deine Konkurrenz hinter dir bleibt.</li>
-<li>... wie du <strong>die künstliche Intelligenz zu deinen Vorteilen</strong> nutzt und damit in weniger Zeit deutlich mehr schaffst.</li>
-<li>... <strong>inkl. aller Templates und Vorlagen</strong>, zum Sofortnachmachen!</li>
-<li>... wie <strong>dir nie wieder Content-Ideen fehlen</strong> werden!</li>
-<li>eine <strong>glasklare Schritt-für-Schritt-Anleitung</strong>, als ob wir neben dir sitzen und dir Schritt-für-Schritt sagen, was du wann machen und wohin klicken solltest.</li>
-<li>... und einiges mehr</li>
-</ul>
-<p><strong>Traffic-Probleme ein für alle Mal adé sagen.</strong></p>
+**Vendor's marketplace description:** Generiere Traffic, wie am Fließband! Für alle Affiliates eine klasse Chance. Denn du bekommst auf dieses Produkt 30% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Insgesamt können damit über 400 Euro an Provision verdient werden. Im Programm ist folgendes enthalten: .. 7+ extrem smarte Strategien , um mehr Traffic zu generieren, sodass du deine E-Mail-Liste zum Überfüllen bringst. ... wie nahezu für jedes Projekt unfassbar viel Traffic generierst , und damit schon vor dem Beginn weißt, dass es profitabel wird. ... wie du Leads und Provisionen wie am Fließband generieren wirst. ... Premium Landing Pages , die für dich Leads generieren, mit astronomisch hohen Eintragungs- und Conversion Raten. ... fertige Vorlagen für Social Media, Blogs, Paid Ads und noch einiges mehr, damit du noch heute beginnen kannst . ... wie du deine Kreativität unheimlich fördest und somit geniales hervorbringst, sodass deine Konkurrenz hinter dir bleibt. ... wie du die künstliche Intelligenz zu deinen Vorteilen nutzt und damit in weniger Zeit deutlich mehr schaffst. ... inkl. aller Templates und Vorlagen , zum Sofortnachmachen! ... wie dir nie wieder Content-Ideen fehlen werden! eine glasklare Schritt-für-Schritt-Anleitung , als ob wir neben dir sitzen und dir Schritt-für-Schritt sagen, was du wann machen und wohin klicken solltest. ... und einiges mehr Traffic-Probleme ein für alle Mal adé sagen.
 
 ## 2. Links
 

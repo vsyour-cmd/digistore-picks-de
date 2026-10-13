@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>BlütenGarten - deine Onlinekurse für einen ganzjährig blühenden Gartentraum</h2>
-<p>In fünf Wochen lernst du in einfachen Schritten alles zur Gestaltung eines Beetes mit pflegeleichten Stauden, Gehölzen und Zwiebelblumen, von der Beetplanung über die Erstellung deiner Einkaufsliste bis zum Einpflanzen.</p>
-<ul>
-<li style="text-align:left;"><strong>Basis:</strong><br />In diesem Selbstlernkurs erwarten dich 17 Videolektionen, die zusammen mit Arbeitsmaterial dir die Inhalte der 5 Meilensteine anschaulich vermitteln. Ergänzende Praxisvideos geben dir einen Einblick zur Umsetzung im Garten.</li>
-<li style="text-align:left;"><strong>Standard:</strong><br />In diesem persönlich betreuten Gartenkurs erwarten dich 6 Live Coaching-Sessions und zahlreiche Videolektionen, die zusammen mit Arbeitsmaterial dir die Inhalte der 5 Meilensteine anschaulich vermitteln. Mit umfangreichen Bonus-Material.</li>
-<li style="text-align:left;"><strong>Premium<br /></strong>In diesem persönlich betreuten Gartenkurs erwarten dich 6 Live Coaching-Sessions und zahlreiche Videolektionen, die zusammen mit Arbeitsmaterial dir die Inhalte der 5 Meilensteine anschaulich vermitteln. Du erhältst individuelles Coaching zu deinen speziellen Fragen in zwei zusätzlichen Onlineterminen. Mit umfangreichen Bonus-Material und wertvollen Extras.</li>
-</ul>
+**Vendor's marketplace description:** BlütenGarten - deine Onlinekurse für einen ganzjährig blühenden Gartentraum In fünf Wochen lernst du in einfachen Schritten alles zur Gestaltung eines Beetes mit pflegeleichten Stauden, Gehölzen und Zwiebelblumen, von der Beetplanung über die Erstellung deiner Einkaufsliste bis zum Einpflanzen. Basis: In diesem Selbstlernkurs erwarten dich 17 Videolektionen, die zusammen mit Arbeitsmaterial dir die Inhalte der 5 Meilensteine anschaulich vermitteln. Ergänzende Praxisvideos geben dir einen Einblick zur Umsetzung im Garten. Standard: In diesem persönlich betreuten Gartenkurs erwarten dich 6 Live Coaching-Sessions und zahlreiche Videolektionen, die zusammen mit Arbeitsmaterial dir die Inhalte der 5 Meilensteine anschaulich vermitteln. Mit umfangreichen Bonus-Material. Premium In diesem persönlich betreuten Gartenkurs erwarten dich 6 Live Coaching-Sessions und zahlreiche Videolektionen, die zusammen mit Arbeitsmaterial dir die Inhalte der 5 Meilensteine anschaulich vermitteln. Du erhältst individuelles Coaching zu deinen speziellen Fragen in zwei zusätzlichen Onlineterminen. Mit umfangreichen Bonus-Material und wertvollen Extras.
 
 ## 2. Links
 

@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieser Kurs für fortgeschrittene Gitarristen vermittelt die Fähigkeiten zum Begleiten von Jazzstandards. Es werden die harmonischen Hintergründe verschiedener Akkordkonzepte erklärt, bevor es zur praktischen Umsetzung mithilfe bekannter Jazzstandards geht. Alle Übungen werden in ergänzenden Videos vorgeführt, Playalongs zum Üben gehören ebenfalls zum Kursumfang.</p>
-<p>Ein fundamentales Lehrwerk zum Erlernen der Jazzharmonik für Gitarristen.</p>
+**Vendor's marketplace description:** Dieser Kurs für fortgeschrittene Gitarristen vermittelt die Fähigkeiten zum Begleiten von Jazzstandards. Es werden die harmonischen Hintergründe verschiedener Akkordkonzepte erklärt, bevor es zur praktischen Umsetzung mithilfe bekannter Jazzstandards geht. Alle Übungen werden in ergänzenden Videos vorgeführt, Playalongs zum Üben gehören ebenfalls zum Kursumfang. Ein fundamentales Lehrwerk zum Erlernen der Jazzharmonik für Gitarristen.
 
 ## 2. Links
 

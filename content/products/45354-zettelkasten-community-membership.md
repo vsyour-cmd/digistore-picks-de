@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein persönliches Wiki ist mehr als ein reiner Wissensspeicher.</p>
+**Vendor's marketplace description:** Ein persönliches Wiki ist mehr als ein reiner Wissensspeicher.
 
 ## 2. Links
 

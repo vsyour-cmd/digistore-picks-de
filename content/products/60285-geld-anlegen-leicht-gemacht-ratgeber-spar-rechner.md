@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Geld anlegen leicht gemacht – Ratgeber + Spar-Rechner</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Tagesgeld, ETF oder Sparplan: Viele lassen ihr Geld liegen, weil sie sich nicht auskennen. Der Ratgeber erklärt die Grundlagen <strong>verständlich</strong> und ohne Fachchinesisch, mit <strong>Spar-Rechner</strong>.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Einsteiger in die Geldanlage</li>
-<li>Sparer mit Geld auf dem Girokonto</li>
-<li>Eltern, die für ihre Kinder sparen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Erspartes soll endlich sinnvoll angelegt werden</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Ratgeber (Haushaltsbuch und Sparen, Betriebsrente und Riester, Konto und Bank, Rente) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Renditeversprechen</strong> und keine Garantien auf bestimmte Beträge oder Ergebnisse</li>
-<li>Der Ratgeber ist <strong>keine Anlageberatung</strong> und ersetzt keine Rechts- oder Steuerberatung im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Geld anlegen leicht gemacht – Ratgeber + Spar-Rechner Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Tagesgeld, ETF oder Sparplan: Viele lassen ihr Geld liegen, weil sie sich nicht auskennen. Der Ratgeber erklärt die Grundlagen verständlich und ohne Fachchinesisch, mit Spar-Rechner . Die Zielgruppe Einsteiger in die Geldanlage Sparer mit Geld auf dem Girokonto Eltern, die für ihre Kinder sparen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Erspartes soll endlich sinnvoll angelegt werden Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Ratgeber (Haushaltsbuch und Sparen, Betriebsrente und Riester, Konto und Bank, Rente) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Renditeversprechen und keine Garantien auf bestimmte Beträge oder Ergebnisse Der Ratgeber ist keine Anlageberatung und ersetzt keine Rechts- oder Steuerberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Perfekt für Anfänger &amp; KI-Neugierige!</strong><br />Dieser praxisnahe Kurs zeigt, wie jeder mit einfachen KI-Tools wie ChatGPT, Canva &amp; Co. ein eigenes Online-Business starten kann – ohne technisches Vorwissen. Ideal für kalte wie warme Zielgruppen im Bereich Geld verdienen, Online-Marketing und KI. <strong>50 % Provision + Upsell möglich!</strong></p>
-<p>Mit dem Kurs <strong>„Starte dein Online-Business mit KI – So einfach war Geld verdienen noch nie!“</strong> verkaufst du ein <strong>hochaktuelles, stark nachgefragtes Produkt</strong> mit maximalem Mehrwert für Einsteiger.</p>
-<p>✅ <strong>Warum Affiliates diesen Kurs lieben:</strong></p>
-<ul>
-<li>
-<p>50 % Provision auf jede Kursbuchung</p>
-</li>
-<li>
-<p>Einmalzahlung – kein Risiko für Kunden</p>
-</li>
-<li>
-<p>Hochkonvertierende Opt-in-Seite mit Freebie</p>
-</li>
-<li>
-<p>Klarer Kursnutzen &amp; emotionaler Hook: <em>„Geld verdienen mit KI – einfach &amp; ohne Vorwissen“</em></p>
-</li>
-<li>
-<p><strong>Upsell zur Community (KI Business Club)</strong> für zusätzliches Einkommen</p>
-</li>
-<li>
-<p>Ideal für alle Kanäle: Social Media, E-Mail, Ads, Blogs</p>
-</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** Perfekt für Anfänger & KI-Neugierige! Dieser praxisnahe Kurs zeigt, wie jeder mit einfachen KI-Tools wie ChatGPT, Canva & Co. ein eigenes Online-Business starten kann – ohne technisches Vorwissen. Ideal für kalte wie warme Zielgruppen im Bereich Geld verdienen, Online-Marketing und KI. 50 % Provision + Upsell möglich! Mit dem Kurs „Starte dein Online-Business mit KI – So einfach war Geld verdienen noch nie!“ verkaufst du ein hochaktuelles, stark nachgefragtes Produkt mit maximalem Mehrwert für Einsteiger. ✅ Warum Affiliates diesen Kurs lieben: 50 % Provision auf jede Kursbuchung Einmalzahlung – kein Risiko für Kunden Hochkonvertierende Opt-in-Seite mit Freebie Klarer Kursnutzen & emotionaler Hook: „Geld verdienen mit KI – einfach & ohne Vorwissen“ Upsell zur Community (KI Business Club) für zusätzliches Einkommen Ideal für alle Kanäle: Social Media, E-Mail, Ads, Blogs
 
 ## 2. Links
 

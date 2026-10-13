@@ -41,27 +41,12 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<pre><code>Struktur wirkt nur, wenn sie im Alltag verstanden und gelebt wird. Das NAVOK Operating
+**Vendor's marketplace description:** Struktur wirkt nur, wenn sie im Alltag verstanden und gelebt wird. Das NAVOK Operating
 Model macht das in einer Vorlage sichtbar: Aufbau, Rollencluster, Verantwortungslogik,
 Schnittstellen, Governance und Steuerungslogik – strukturiert in einem direkt
-einsetzbaren Template.
-
-Das zugrunde liegende Werkzeug stammt aus der Beratungspraxis und wurde dort bereits vielfach erfolgreich eingesetzt.
-
-<strong>Zielgruppe:</strong> Führungskräfte und Organisationsentwickler, die schnell ein belastbares
-Zielbild für ihre Struktur brauchen, ohne gleich das komplette System einzuführen.
-
-<strong>Für Sie als Affiliate:</strong> 50 % Provision. Ideal als niedrigschwelliger Einstiegspunkt für
-Zielgruppen, die noch nicht bereit für das 229-€-Playbook sind.
-
-Digitaler Download, sofort verfügbar, ca. 2 Seiten.</code></pre>
-</div>
-</div>
-</div>
-<p> </p>
+einsetzbaren Template. Das zugrunde liegende Werkzeug stammt aus der Beratungspraxis und wurde dort bereits vielfach erfolgreich eingesetzt. Zielgruppe: Führungskräfte und Organisationsentwickler, die schnell ein belastbares
+Zielbild für ihre Struktur brauchen, ohne gleich das komplette System einzuführen. Für Sie als Affiliate: 50 % Provision. Ideal als niedrigschwelliger Einstiegspunkt für
+Zielgruppen, die noch nicht bereit für das 229-€-Playbook sind. Digitaler Download, sofort verfügbar, ca. 2 Seiten.
 
 ## 2. Links
 

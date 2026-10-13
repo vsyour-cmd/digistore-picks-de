@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb ein Produkt mit klarer Zielgruppe und ehrlichem Inhalt — und verdien an einem Markt, den die meisten übersehen:</p>
-<p> </p>
-<p>Männer ab 40, die abnehmen wollen, aber keine Coaching-Programme suchen.</p>
-<p> </p>
-<p>Warum sich das Bewerben für dich lohnt:</p>
-<p><br />- 50 % Provision auf 19,90 € — ca. 9,95 € pro Verkauf, automatisch über Digistore24</p>
-<p>- Spitze, kaufbereite Zielgruppe: Männer 40+ mit Bauchfett, Jojo-Frust, Leidensdruck — riesig und unterbedient</p>
-<p>- Niedrige Kaufhürde: 19,90 € Einmalkauf, kein Abo, kein Upsell-Druck → kurze Entscheidung, hohe Conversion</p>
-<p>- Niedrige Rückgabequote durch echten Nutzwert — weniger Rückbuchungen für dich</p>
-<p>- Autor mit Gesicht und Glaubwürdigkeit (17 Jahre Gesundheitswesen) — leicht zu empfehlen</p>
-<p>- Fertige, conversion-optimierte Verkaufsseite + Werbemittel — du musst nichts selbst bauen</p>
-<p> </p>
-<p>Das Thema funktioniert auf allen Kanälen: Reels, Kurzvideos, E-Mail, Blog, YouTube.</p>
-<p> </p>
-<p>Partnerschaft wird automatisch akzeptiert — du kannst sofort loslegen.</p>
-<p> </p>
-<p>Werbemittel und Support findest du auf der Affiliate-Seite.</p>
+**Vendor's marketplace description:** Bewirb ein Produkt mit klarer Zielgruppe und ehrlichem Inhalt — und verdien an einem Markt, den die meisten übersehen: Männer ab 40, die abnehmen wollen, aber keine Coaching-Programme suchen. Warum sich das Bewerben für dich lohnt: - 50 % Provision auf 19,90 € — ca. 9,95 € pro Verkauf, automatisch über Digistore24 - Spitze, kaufbereite Zielgruppe: Männer 40+ mit Bauchfett, Jojo-Frust, Leidensdruck — riesig und unterbedient - Niedrige Kaufhürde: 19,90 € Einmalkauf, kein Abo, kein Upsell-Druck → kurze Entscheidung, hohe Conversion - Niedrige Rückgabequote durch echten Nutzwert — weniger Rückbuchungen für dich - Autor mit Gesicht und Glaubwürdigkeit (17 Jahre Gesundheitswesen) — leicht zu empfehlen - Fertige, conversion-optimierte Verkaufsseite + Werbemittel — du musst nichts selbst bauen Das Thema funktioniert auf allen Kanälen: Reels, Kurzvideos, E-Mail, Blog, YouTube. Partnerschaft wird automatisch akzeptiert — du kannst sofort loslegen. Werbemittel und Support findest du auf der Affiliate-Seite.
 
 ## 2. Links
 

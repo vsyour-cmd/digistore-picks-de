@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit dem Online Kurs Tinnitus meistern Betroffene ihren Tinnitus. Auch Begleiterscheinungen wie Schlafstörungen, Ängste, depressive Verstimmungen, etc. verbessern sich. Die Methode wurde wissenschaftlich untersucht. Mehr als 80% der Teilnehmer lernten die Belastung durch den Tinnitus mit den Übungen des Kurses zu senken.</p>
-<p>Im Preis für den Online Videokurs sind enthalten:</p>
-<div>
-<ul>
-<li>Mehr als 25 auf Achtsamkeit fokussierte Übungen angeleitet von Tinnitus-Expertin Maria Holl</li>
-<li>Begleitendem Lehrbuch</li>
-</ul>
-<p>Die Betroffenen üben im Schnitt 20 Minuten pro Tag. Es sind leichte und einfache Übungen, die daheim oder auch während der Arbeitszeit oder unterwegs durchgeführt werden können.</p>
-<p>Der Kurs läuft über sechs Monate. Nach jeweils zwei Wochen wird ein weiteres Video frei geschaltet. Die Teilnehmer werden per Mail an die Übungen erinnert. Das begleitende Lehrbuch unterstützt sie dabei, die Übungen in den Alltag zu integrieren.</p>
-<p>Entwickelt wurde der Kurs von der international bekannten Tinnitus Expertin Maria Holl, deren Bücher inzwischen in fünf Sprachen übersetzt wurden. Von ihr gibt es im Digistore auch eine Edition mit CDs.</p>
-</div>
-<p> </p>
+**Vendor's marketplace description:** Mit dem Online Kurs Tinnitus meistern Betroffene ihren Tinnitus. Auch Begleiterscheinungen wie Schlafstörungen, Ängste, depressive Verstimmungen, etc. verbessern sich. Die Methode wurde wissenschaftlich untersucht. Mehr als 80% der Teilnehmer lernten die Belastung durch den Tinnitus mit den Übungen des Kurses zu senken. Im Preis für den Online Videokurs sind enthalten: Mehr als 25 auf Achtsamkeit fokussierte Übungen angeleitet von Tinnitus-Expertin Maria Holl Begleitendem Lehrbuch Die Betroffenen üben im Schnitt 20 Minuten pro Tag. Es sind leichte und einfache Übungen, die daheim oder auch während der Arbeitszeit oder unterwegs durchgeführt werden können. Der Kurs läuft über sechs Monate. Nach jeweils zwei Wochen wird ein weiteres Video frei geschaltet. Die Teilnehmer werden per Mail an die Übungen erinnert. Das begleitende Lehrbuch unterstützt sie dabei, die Übungen in den Alltag zu integrieren. Entwickelt wurde der Kurs von der international bekannten Tinnitus Expertin Maria Holl, deren Bücher inzwischen in fünf Sprachen übersetzt wurden. Von ihr gibt es im Digistore auch eine Edition mit CDs.
 
 ## 2. Links
 

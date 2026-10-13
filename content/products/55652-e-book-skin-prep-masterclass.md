@@ -41,44 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><strong>Skin Prep Masterclass – High-End Beauty-Nische mit Top-Conversion &amp; 50% Provision</strong></h1>
-<h3><strong>Die Partnerschaft: Warum du Martina Otte Cosmetics® bewerben solltest</strong></h3>
-<p>Werde Partner einer etablierten Beauty-Expertin! Mit der <strong>Skin Prep Masterclass</strong> bietest du deiner Zielgruppe (Beauty, Skincare, Wedding, Lifestyle) echtes Expertenwissen statt oberflächlicher Tipps. Unser Fokus liegt auf maximaler Profitabilität für dich und echtem Mehrwert für den Kunden.</p>
-<p><strong>Deine finanziellen Vorteile:</strong></p>
-<ul>
-<li>
-<p><strong>50% Provision</strong> auf jeden Verkauf des eBooks (14,99 €).</p>
-</li>
-<li>
-<p><strong>Cross-Device Tracking:</strong> Durch die geräteübergreifende Affiliate-Attribution von Digistore24 stellen wir sicher, dass dir keine Provision entgeht – egal, ob der Kunde am Handy klickt und später am Desktop kauft.</p>
-</li>
-<li>
-<p><strong>Hoher Lifetime-Value:</strong> Kunden erhalten im eBook einen Rabattcode für unseren Shop. Das sorgt für glückliche Kunden, die der Marke treu bleiben.</p>
-</li>
-</ul>
-<p><strong>Deine technischen Vorteile:</strong></p>
-<ul>
-<li>
-<p><strong>Optimierte Salespage:</strong> Professionelles Design, das auf maximale Klickraten (CTR) und Verkäufe ausgelegt ist.</p>
-</li>
-<li>
-<p><strong>Starke Werbemittel:</strong> Sofortiger Zugriff auf Banner, Mockups und Texte, die den Google- &amp; YouTube-Werberichtlinien entsprechen.</p>
-</li>
-<li>
-<p><strong>Geringe Stornoquote:</strong> Da es sich um ein digitales Infoprodukt mit sofortigem Mehrwert handelt, profitierst du von stabilen Auszahlungen.</p>
-</li>
-</ul>
-<hr />
-<h3><strong>Das Produkt: Kurz &amp; Knapp für deine Zielgruppe</strong></h3>
-<p>Die <strong>Skin Prep Masterclass</strong> ist ein 48-seitiger digitaler Guide, der die wissenschaftliche Basis für makellose Haut und langanhaltendes Make-up vermittelt.</p>
-<ul>
-<li>
-<p><strong>Inhalt:</strong> Hautdiagnose, Neutralisierung von Rötungen, Poren-Verfeinerung und das Lösen des "Primer-Paradoxons".</p>
-</li>
-<li>
-<p><strong>Zielgruppe:</strong> Frauen, die Wert auf ein professionelles Erscheinungsbild legen, sowie Make-up Artisten und Braut-Stylisten.</p>
-</li>
-</ul>
+**Vendor's marketplace description:** Skin Prep Masterclass – High-End Beauty-Nische mit Top-Conversion & 50% Provision Die Partnerschaft: Warum du Martina Otte Cosmetics® bewerben solltest Werde Partner einer etablierten Beauty-Expertin! Mit der Skin Prep Masterclass bietest du deiner Zielgruppe (Beauty, Skincare, Wedding, Lifestyle) echtes Expertenwissen statt oberflächlicher Tipps. Unser Fokus liegt auf maximaler Profitabilität für dich und echtem Mehrwert für den Kunden. Deine finanziellen Vorteile: 50% Provision auf jeden Verkauf des eBooks (14,99 €). Cross-Device Tracking: Durch die geräteübergreifende Affiliate-Attribution von Digistore24 stellen wir sicher, dass dir keine Provision entgeht – egal, ob der Kunde am Handy klickt und später am Desktop kauft. Hoher Lifetime-Value: Kunden erhalten im eBook einen Rabattcode für unseren Shop. Das sorgt für glückliche Kunden, die der Marke treu bleiben. Deine technischen Vorteile: Optimierte Salespage: Professionelles Design, das auf maximale Klickraten (CTR) und Verkäufe ausgelegt ist. Starke Werbemittel: Sofortiger Zugriff auf Banner, Mockups und Texte, die den Google- & YouTube-Werberichtlinien entsprechen. Geringe Stornoquote: Da es sich um ein digitales Infoprodukt mit sofortigem Mehrwert handelt, profitierst du von stabilen Auszahlungen. Das Produkt: Kurz & Knapp für deine Zielgruppe Die Skin Prep Masterclass ist ein 48-seitiger digitaler Guide, der die wissenschaftliche Basis für makellose Haut und langanhaltendes Make-up vermittelt. Inhalt: Hautdiagnose, Neutralisierung von Rötungen, Poren-Verfeinerung und das Lösen des "Primer-Paradoxons". Zielgruppe: Frauen, die Wert auf ein professionelles Erscheinungsbild legen, sowie Make-up Artisten und Braut-Stylisten.
 
 ## 2. Links
 

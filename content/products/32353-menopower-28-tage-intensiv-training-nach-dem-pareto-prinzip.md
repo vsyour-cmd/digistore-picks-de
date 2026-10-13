@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><span style="color:#ff0000;">ACHTUNG: <br />Dazu kommen noch <span style="background-color:#ffff99;">fast 50% Conversion Rate</span> <br />auf das Upsell </span></strong><span style="color:#ff0000;">(BauchTOTAL) </span><strong><span style="color:#ff0000;">!!</span></strong></p>
-<p>Dieses nach dem<strong> Pareto-Prinzip</strong> aufgebaute Training habe ich aus meinen langjährigen Erfahrungen als Pilates-Lehrerin und Bewegungstherapeutin entwickelt.<br /> <br />Mit kurzen, effektive Trainingseinheiten von ca. 10 Minuten/Tag wird schon einen Großteil der Ergebnisse erreicht.  <br /><br />Schon über 10.000 Teilnehmerinnen sind diesen Weg bereits mit mir zusammen gegangen.<strong><br /><br />Inhalt:<br /></strong></p>
-<ul>
-<li>28 Tage Schritt für Schritt Intensiv-Training  </li>
-<li>Bonus: Plank-Training + Herz-Kreislauf Workout </li>
-<li>Unbegrenzter E-Mail-Support</li>
-</ul>
+**Vendor's marketplace description:** ACHTUNG: Dazu kommen noch fast 50% Conversion Rate auf das Upsell (BauchTOTAL) !! Dieses nach dem Pareto-Prinzip aufgebaute Training habe ich aus meinen langjährigen Erfahrungen als Pilates-Lehrerin und Bewegungstherapeutin entwickelt. Mit kurzen, effektive Trainingseinheiten von ca. 10 Minuten/Tag wird schon einen Großteil der Ergebnisse erreicht. Schon über 10.000 Teilnehmerinnen sind diesen Weg bereits mit mir zusammen gegangen. Inhalt: 28 Tage Schritt für Schritt Intensiv-Training Bonus: Plank-Training + Herz-Kreislauf Workout Unbegrenzter E-Mail-Support
 
 ## 2. Links
 

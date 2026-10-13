@@ -41,47 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Warum es sich lohnt, diesen Kurs zu bewerben:</p>
-<p>Unser Online-Videokurs "Digitaler Assistent werden" bietet die <strong>perfekte Lösung</strong> für Menschen, die ortsunabhängig arbeiten oder sich nebenberuflich im Home-Office selbstständig machen möchten. Wir begleiten deine Zielgruppe <strong>Schritt für Schritt</strong> von der Nischen-Definition bis zum ersten bezahlten Auftrag.</p>
-<p> </p>
-<p><strong>Dein Profit als Affiliate:</strong></p>
-<p> </p>
-<ul>
-<li>
-<p><strong>Top-Conversion:</strong> Unsere Verkaufsseite ist auf maximale Conversion optimiert.</p>
-</li>
-<li>
-<p><strong>Hohe Provision:</strong> Du erhältst attraktive <strong>5</strong><strong>0 % Provision</strong> pro Sale.</p>
-</li>
-<li>
-<p><strong>Geringe Stornoquote:</strong> Wir nutzen das 0-Tage-Widerrufsrecht bei digitalen Gütern für stabile Einnahmen.</p>
-</li>
-<li>
-<p><strong>Umfassende Werbemittel:</strong> E-Mail-Vorlagen, Banner und Social-Media-Posts stehen bereit.</p>
-</li>
-</ul>
-<p> </p>
-<p><strong>Zielgruppe &amp; Nischen:</strong></p>
-<p> </p>
-<ul>
-<li>
-<p>Karriere &amp; Job-Portale</p>
-</li>
-<li>
-<p>Home-Office &amp; Remote Work Blogs</p>
-</li>
-<li>
-<p>Persönlichkeitsentwicklung</p>
-</li>
-<li>
-<p>Online Marketing</p>
-</li>
-</ul>
-<p> </p>
-<hr />
-<p>Starte jetzt deine Partnerschaft! Klicke einfach auf "Jetzt promoten" und bewirb ein Produkt mit <strong>starker Nachfrage</strong>.</p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Warum es sich lohnt, diesen Kurs zu bewerben: Unser Online-Videokurs "Digitaler Assistent werden" bietet die perfekte Lösung für Menschen, die ortsunabhängig arbeiten oder sich nebenberuflich im Home-Office selbstständig machen möchten. Wir begleiten deine Zielgruppe Schritt für Schritt von der Nischen-Definition bis zum ersten bezahlten Auftrag. Dein Profit als Affiliate: Top-Conversion: Unsere Verkaufsseite ist auf maximale Conversion optimiert. Hohe Provision: Du erhältst attraktive 5 0 % Provision pro Sale. Geringe Stornoquote: Wir nutzen das 0-Tage-Widerrufsrecht bei digitalen Gütern für stabile Einnahmen. Umfassende Werbemittel: E-Mail-Vorlagen, Banner und Social-Media-Posts stehen bereit. Zielgruppe & Nischen: Karriere & Job-Portale Home-Office & Remote Work Blogs Persönlichkeitsentwicklung Online Marketing Starte jetzt deine Partnerschaft! Klicke einfach auf "Jetzt promoten" und bewirb ein Produkt mit starker Nachfrage .
 
 ## 2. Links
 

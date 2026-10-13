@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div style="text-align:center;"><strong>AFFILIATE INFOS:</strong></div>
-<div style="text-align:center;"><strong>-----------------------</strong></div>
-<ul>
-<li>Zielgruppe: <br />Eltern, Lehrer, Pädagogen, Lehrbeauftragte</li>
-<li>Hohe Conversionrate</li>
-<li>50% Povision</li>
-<li>inkl. Upsells</li>
-</ul>
-<p> </p>
-<p style="text-align:center;"><strong>PRODUKTBESCHREIBUNG:<br /></strong><strong>--------------------------------</strong></p>
-<h3><span style="color:#800080;">Bereite deine Kinder auf ein</span> <span style="color:#339966;">lebenslanges</span> <span style="color:#800080;">und</span> <span style="color:#339966;">müheloses Lernen</span> <span style="color:#800080;">vor</span></h3>
-</div>
-<ul>
-<li>Wie man Kindern das Lernen in jeder Hinsicht schmackhaft macht<br /><br /></li>
-<li>Die Strategien und Rahmenbedingungen, die Eltern von begabten Kindern nutzen, um sie für den Erfolg im Leben vorzubereiten<br /><br /></li>
-<li>Die wichtigsten psychologischen und pädagogischen Konzepte, die Top-Pädagogen und Mentoren verwenden, um das Potenzial eines Kindes zu verstärken<br /><br /></li>
-<li>Pädagogische Spiele und Aktivitäten, die du nutzen kannst, um deinem Kind nützliche Informationen zu vermitteln<br /><br /></li>
-<li>Wie du deine Einstellung und deinen Blickwinkel so anpasst, dass sie für die Entwicklung deines Kindes nützlich und vorteilhaft sind<br /><br /></li>
-<li>Die Geheimnisse der Erziehung eines Kindes, das selbstbewusst, entschlossen und motiviert genug ist, um erfolgreich zu sein, egal, was das Leben ihm in den Weg stellt</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** AFFILIATE INFOS: ----------------------- Zielgruppe: Eltern, Lehrer, Pädagogen, Lehrbeauftragte Hohe Conversionrate 50% Povision inkl. Upsells PRODUKTBESCHREIBUNG: -------------------------------- Bereite deine Kinder auf ein lebenslanges und müheloses Lernen vor Wie man Kindern das Lernen in jeder Hinsicht schmackhaft macht Die Strategien und Rahmenbedingungen, die Eltern von begabten Kindern nutzen, um sie für den Erfolg im Leben vorzubereiten Die wichtigsten psychologischen und pädagogischen Konzepte, die Top-Pädagogen und Mentoren verwenden, um das Potenzial eines Kindes zu verstärken Pädagogische Spiele und Aktivitäten, die du nutzen kannst, um deinem Kind nützliche Informationen zu vermitteln Wie du deine Einstellung und deinen Blickwinkel so anpasst, dass sie für die Entwicklung deines Kindes nützlich und vorteilhaft sind Die Geheimnisse der Erziehung eines Kindes, das selbstbewusst, entschlossen und motiviert genug ist, um erfolgreich zu sein, egal, was das Leben ihm in den Weg stellt
 
 ## 2. Links
 

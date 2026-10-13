@@ -41,64 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Entgiftung &amp; Darmsanierung Masterclass – Affiliate-Programm</strong></h3>
-<h4><span style="color:#ff0000;"><strong>Werde Teil unserer Mission für mehr Gesundheit – und profitiere langfristig davon!</strong></span></h4>
-<p>Promote unseren hochwertigen Video-Kurs <strong>"Entgiftung &amp; Darmsanierung Masterclass" vom Spiegel-Bestseller-Autor Fabian Kowalik</strong> und unterstütze Menschen dabei, ihre Gesundheit ganzheitlich zu stärken. Gleichzeitig sicherst du dir eine attraktive <strong>Lifetime-Provision</strong> auf alle von dir vermittelten Käufe – fair, transparent und nachhaltig.</p>
-<p> </p>
-<h4><span style="background-color:#00ff00;color:#000000;"><strong><a style="color:#000000;background-color:#00ff00;" href="https://natureheartacademy.com/affiliate-registrierung/" target="_blank" rel="noreferrer noopener">Hier klicken um dich als Affiliate zu registrieren!</a></strong></span></h4>
-<p> </p>
-<hr />
-<h3> </h3>
-<h3><strong>Über die Nature Heart Academy</strong></h3>
-<p>Die <strong>Nature Heart Academy</strong> steht für eine neue Form von Bildung im Bereich <strong>ganzheitlicher Gesundheit</strong>.</p>
-<p>Unsere Vision ist es, Menschen auf ihrem Weg zu mehr <strong>Vitalität, innerer Balance und natürlicher Selbstheilungskraft</strong> zu begleiten. Dabei setzen wir auf:</p>
-<p> </p>
-<ul style="list-style-type:circle;">
-<li>
-<h5><strong>fundiertes Wissen</strong></h5>
-</li>
-<li>
-<h5><strong>praktische Umsetzbarkeit</strong></h5>
-</li>
-<li>
-<h5><strong>tiefgreifende Transformation – körperlich wie mental</strong></h5>
-</li>
-</ul>
-<p> </p>
-<p>Unsere Online-Kurse sind <strong>praxisnah, wissenschaftlich fundiert</strong> und für jeden zugänglich – egal ob Einsteiger oder Fortgeschrittene.</p>
-<p>Wir glauben daran, dass wahre Gesundheit nicht im Außen beginnt, sondern im eigenen <strong>Bewusstsein und in der Verantwortung für den eigenen Körper</strong>.</p>
-<p> </p>
-<hr />
-<h3> </h3>
-<h3><strong>Warum du als Affiliate dabei sein solltest</strong></h3>
-<h4><strong>Videokurs mit echtem Mehrwert</strong></h4>
-<p>Die Masterclass ist ein umfangreicher Online-Videokurs rund um die Themen <strong>Entgiftung, Darmsanierung</strong> und <strong>ganzheitliche Gesundheit</strong> – professionell aufbereitet und leicht verständlich.</p>
-<h4><strong>20 % Provision – Lifetime!</strong></h4>
-<p>Erhalte dauerhaft <strong>20 % Provision</strong> auf jeden Kauf, den du vermittelst – <strong>auch bei zukünftigen Käufen</strong> deiner Kunden!</p>
-<h4><strong>Bis zu 30 % Provision möglich!</strong></h4>
-<p>Bei entsprechendem Umsatz steigern wir deine Provision auf <strong>bis zu 30 %</strong> – als Dankeschön für deinen Einsatz.</p>
-<h4><strong>Riesige Werbebibliothek inklusive!</strong></h4>
-<p>Wir machen es dir leicht:<br />Du bekommst Zugriff auf eine <strong>umfangreiche Werbebibliothek</strong> mit allem, was du brauchst:</p>
-<p> </p>
-<ul style="list-style-type:circle;">
-<li>
-<h5>Zusammenschnitt des Kurses für Werbezwecke</h5>
-</li>
-<li>
-<h5>Professionell formulierte E-Mail-Vorlagen</h5>
-</li>
-<li>
-<h5>Banner in verschiedenen Formaten</h5>
-</li>
-<li>
-<h5>Fertige Texte &amp; Posts für Social Media<span style="font-size:14px;"> </span></h5>
-</li>
-</ul>
-<p> </p>
-<hr />
-<h3> </h3>
-<h3><strong>Jetzt durchstarten!</strong></h3>
-<p>Die Nachfrage nach <strong>ganzheitlicher Gesundheit</strong>, <strong>Entgiftung</strong> und <strong>Darmgesundheit</strong> wächst stetig.<br />Nutze diesen Trend und werde Teil unseres erfolgreichen Partnerprogramms.</p>
+**Vendor's marketplace description:** Entgiftung & Darmsanierung Masterclass – Affiliate-Programm Werde Teil unserer Mission für mehr Gesundheit – und profitiere langfristig davon! Promote unseren hochwertigen Video-Kurs "Entgiftung & Darmsanierung Masterclass" vom Spiegel-Bestseller-Autor Fabian Kowalik und unterstütze Menschen dabei, ihre Gesundheit ganzheitlich zu stärken. Gleichzeitig sicherst du dir eine attraktive Lifetime-Provision auf alle von dir vermittelten Käufe – fair, transparent und nachhaltig. Hier klicken um dich als Affiliate zu registrieren! Über die Nature Heart Academy Die Nature Heart Academy steht für eine neue Form von Bildung im Bereich ganzheitlicher Gesundheit . Unsere Vision ist es, Menschen auf ihrem Weg zu mehr Vitalität, innerer Balance und natürlicher Selbstheilungskraft zu begleiten. Dabei setzen wir auf: fundiertes Wissen praktische Umsetzbarkeit tiefgreifende Transformation – körperlich wie mental Unsere Online-Kurse sind praxisnah, wissenschaftlich fundiert und für jeden zugänglich – egal ob Einsteiger oder Fortgeschrittene. Wir glauben daran, dass wahre Gesundheit nicht im Außen beginnt, sondern im eigenen Bewusstsein und in der Verantwortung für den eigenen Körper . Warum du als Affiliate dabei sein solltest Videokurs mit echtem Mehrwert Die Masterclass ist ein umfangreicher Online-Videokurs rund um die Themen Entgiftung, Darmsanierung und ganzheitliche Gesundheit – professionell aufbereitet und leicht verständlich. 20 % Provision – Lifetime! Erhalte dauerhaft 20 % Provision auf jeden Kauf, den du vermittelst – auch bei zukünftigen Käufen deiner Kunden! Bis zu 30 % Provision möglich! Bei entsprechendem Umsatz steigern wir deine Provision auf bis zu 30 % – als Dankeschön für deinen Einsatz. Riesige Werbebibliothek inklusive! Wir machen es dir leicht: Du bekommst Zugriff auf eine umfangreiche Werbebibliothek mit allem, was du brauchst: Zusammenschnitt des Kurses für Werbezwecke Professionell formulierte E-Mail-Vorlagen Banner in verschiedenen Formaten Fertige Texte & Posts für Social Media Jetzt durchstarten! Die Nachfrage nach ganzheitlicher Gesundheit , Entgiftung und Darmgesundheit wächst stetig. Nutze diesen Trend und werde Teil unseres erfolgreichen Partnerprogramms.
 
 ## 2. Links
 

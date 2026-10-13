@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Erwecke deine Elfenkraft – Entfalte deine innere Stärke</h1>
-<p>Vielleicht spürst du es schon länger …</p>
-<p>Da ist mehr in dir.<br />Mehr Kraft.<br />Mehr Ausdruck.<br />Mehr Leben.</p>
-<p>Aber irgendetwas hält dich noch zurück.<br />Zweifel.<br />Unsicherheit.<br />Oder einfach dieses Gefühl, dich selbst noch nicht ganz zu leben.</p>
-<p>Genau hier setzt <strong>„Erwecke deine Elfenkraft“</strong> an.</p>
-<hr />
-<h2>
+**Vendor's marketplace description:** Erwecke deine Elfenkraft – Entfalte deine innere Stärke Vielleicht spürst du es schon länger … Da ist mehr in dir. Mehr Kraft. Mehr Ausdruck. Mehr Leben. Aber irgendetwas hält dich noch zurück. Zweifel. Unsicherheit. Oder einfach dieses Gefühl, dich selbst noch nicht ganz zu leben. Genau hier setzt „Erwecke deine Elfenkraft“ an.
 
 ## 2. Links
 

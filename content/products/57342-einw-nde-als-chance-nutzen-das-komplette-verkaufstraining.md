@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Was Sie bewerben:<br />Ein 30-seitiges Premium-Workbook von Heinz G. Bader (35+ Jahre Vertriebserfahrung) für alle, die professioneller mit Kundeneinwänden umgehen wollen.</p>
-<p>Warum es sich gut verkauft:<br />✔ Breite Zielgruppe: Jeder im Vertrieb braucht Einwandbehandlung<br />✔ Sofortiger digitaler Nutzen – kein Versand, kein Warten<br />✔ Attraktiver Einstiegspreis – niedrige Kaufschwelle<br />✔ Starke Landingpage mit mehreren CTAs und Testimonials<br />✔ Zeitloses Thema – dauerhaft nachgefragt</p>
-<p>Empfohlene Kanäle:<br />→ LinkedIn: Zielgruppe „Vertrieb, B2B, HR, Karriere, Selbstständige"<br />→ Facebook-Gruppen: Verkauf, Selbstständigkeit, Coaching, Business<br />→ YouTube: Verkaufstraining-Videos, Business-Tipps, Karriere-Nische<br />→ Pinterest: Infografiken zu Verkaufstechniken, Business-Tipps<br />→ Instagram: Business-Quotes, Karriere-Tipps, Verkaufstipps<br />→ E-Mail-Newsletter: Business, Karriere, Vertrieb, HR</p>
-<p>Landingpage: https://heinzbader.com/einwaende-und-antworten-lp/ </p>
+**Vendor's marketplace description:** Was Sie bewerben: Ein 30-seitiges Premium-Workbook von Heinz G. Bader (35+ Jahre Vertriebserfahrung) für alle, die professioneller mit Kundeneinwänden umgehen wollen. Warum es sich gut verkauft: ✔ Breite Zielgruppe: Jeder im Vertrieb braucht Einwandbehandlung ✔ Sofortiger digitaler Nutzen – kein Versand, kein Warten ✔ Attraktiver Einstiegspreis – niedrige Kaufschwelle ✔ Starke Landingpage mit mehreren CTAs und Testimonials ✔ Zeitloses Thema – dauerhaft nachgefragt Empfohlene Kanäle: → LinkedIn: Zielgruppe „Vertrieb, B2B, HR, Karriere, Selbstständige" → Facebook-Gruppen: Verkauf, Selbstständigkeit, Coaching, Business → YouTube: Verkaufstraining-Videos, Business-Tipps, Karriere-Nische → Pinterest: Infografiken zu Verkaufstechniken, Business-Tipps → Instagram: Business-Quotes, Karriere-Tipps, Verkaufstipps → E-Mail-Newsletter: Business, Karriere, Vertrieb, HR Landingpage: https://heinzbader.com/einwaende-und-antworten-lp/
 
 ## 2. Links
 

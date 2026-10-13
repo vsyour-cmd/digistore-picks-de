@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb das 10+1 Bonus Bundle — eines unserer wertvollsten, umfassendsten Angebote mit einem enormen Preis-Ankereffekt.</p>
-<p> </p>
-<p>Was macht dieses Produkt leicht verkäuflich: 11 fundierte Ratgeber zu den unterschiedlichsten Lebensthemen, gebündelt zu einem unschlagbaren Preis — 87€ statt 297€ für Einzelkäufe. Dieser dramatische, leicht kommunizierbare Rabatt macht das Bundle zu einem natürlichen High-Converter.</p>
-<p> </p>
-<p>Zielgruppe: Extrem breit gefächert — praktisch jeder Mensch findet mindestens eines der 11 Themen (Beziehungen, Karriere, Selbstvertrauen, Schlaf, Finanzen, Trauer, spirituelles Wachstum u. a.) persönlich relevant. Besonders gut geeignet für Self-Improvement-Content-Creator, Psychologie- und Wellness-Communities, sowie allgemeine Lifestyle-Zielgruppen.</p>
-<p> </p>
-<p>Wichtigste Verkaufsargumente:</p>
-<p>- 11 komplette Ratgeber für weniger als 8€ pro Buch</p>
-<p>- Deckt praktisch jedes wichtige Lebensthema ab — hohe Wahrscheinlichkeit, dass mehrere Themen den Käufer persönlich ansprechen</p>
-<p>- Bonus-Ratgeber als zusätzlicher Kaufanreiz ("gratis dazu")</p>
-<p>- Sofortiger digitaler Download, kein Warten</p>
-<p>- Starker Preisanker (297€ → 87€) für Urgency-Kampagnen</p>
-<p> </p>
-<p>Funktioniert hervorragend in E-Mail-Kampagnen, Vergleichsangeboten ("11 Bücher statt 1"), und zeitlich begrenzten Rabatt-Promotions.</p>
+**Vendor's marketplace description:** Bewirb das 10+1 Bonus Bundle — eines unserer wertvollsten, umfassendsten Angebote mit einem enormen Preis-Ankereffekt. Was macht dieses Produkt leicht verkäuflich: 11 fundierte Ratgeber zu den unterschiedlichsten Lebensthemen, gebündelt zu einem unschlagbaren Preis — 87€ statt 297€ für Einzelkäufe. Dieser dramatische, leicht kommunizierbare Rabatt macht das Bundle zu einem natürlichen High-Converter. Zielgruppe: Extrem breit gefächert — praktisch jeder Mensch findet mindestens eines der 11 Themen (Beziehungen, Karriere, Selbstvertrauen, Schlaf, Finanzen, Trauer, spirituelles Wachstum u. a.) persönlich relevant. Besonders gut geeignet für Self-Improvement-Content-Creator, Psychologie- und Wellness-Communities, sowie allgemeine Lifestyle-Zielgruppen. Wichtigste Verkaufsargumente: - 11 komplette Ratgeber für weniger als 8€ pro Buch - Deckt praktisch jedes wichtige Lebensthema ab — hohe Wahrscheinlichkeit, dass mehrere Themen den Käufer persönlich ansprechen - Bonus-Ratgeber als zusätzlicher Kaufanreiz ("gratis dazu") - Sofortiger digitaler Download, kein Warten - Starker Preisanker (297€ → 87€) für Urgency-Kampagnen Funktioniert hervorragend in E-Mail-Kampagnen, Vergleichsangeboten ("11 Bücher statt 1"), und zeitlich begrenzten Rabatt-Promotions.
 
 ## 2. Links
 

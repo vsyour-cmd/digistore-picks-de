@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Kolibri School ist eine <strong>online Malschule für Kinder</strong>, in der jedes Kind ab 6 ganz einfach und praktisch online malen lernen kann.</p>
-<p>In diesem Malkurs lernt man <strong>vier</strong> leckere Süßspeisen zu skizzieren und anschließend mit Aquarell zu kolorieren: Ein appetitliches <strong>Eis im Becher</strong>, verlockende französische <strong>Macarons</strong>, ein frisches <strong>Croissant</strong> mit Marmelade im Glass und ein Stück verführerische <strong>Himbeertorte</strong>.</p>
-<p>Du hast Lust unseren Malkurs zu präsentieren, dann melde dich als Affliate bei uns an.</p>
-<p> </p>
-<p><strong>Zum Produkt:</strong></p>
-<ul>
-<li>4 Lernvideos je ca 45 Min</li>
-<li>4 selbstgemalte Bilder in Aquarell</li>
-<li>pädagogisch aufbereitete Schritt-für-Schritt-Anleitung</li>
-<li>geeignet für Kinder und Jugendliche ab 14 Jahren, sowie Erwachsene</li>
-<li>von Profi-Künstlerin erstellt</li>
-</ul>
-<p><strong>Deine Vorteile:</strong></p>
-<ul>
-<li>20% Provision pro Verkauf</li>
-<li>Hochwertiges Produkt zum atraktiven Preis</li>
-<li>zufriedene Kunden</li>
-<li>sicheres Partnerprogram verwaltet durch Digistore24</li>
-<li>perfekte Nische, kaum Wettbewerb</li>
-<li>Werbemittel nach Anfrage  </li>
-</ul>
-<p>Bei weiteren Fragen stehen wir gerne per E-mail kunst@kolibri-school.de zur Verfügung.</p>
+**Vendor's marketplace description:** Kolibri School ist eine online Malschule für Kinder , in der jedes Kind ab 6 ganz einfach und praktisch online malen lernen kann. In diesem Malkurs lernt man vier leckere Süßspeisen zu skizzieren und anschließend mit Aquarell zu kolorieren: Ein appetitliches Eis im Becher , verlockende französische Macarons , ein frisches Croissant mit Marmelade im Glass und ein Stück verführerische Himbeertorte . Du hast Lust unseren Malkurs zu präsentieren, dann melde dich als Affliate bei uns an. Zum Produkt: 4 Lernvideos je ca 45 Min 4 selbstgemalte Bilder in Aquarell pädagogisch aufbereitete Schritt-für-Schritt-Anleitung geeignet für Kinder und Jugendliche ab 14 Jahren, sowie Erwachsene von Profi-Künstlerin erstellt Deine Vorteile: 20% Provision pro Verkauf Hochwertiges Produkt zum atraktiven Preis zufriedene Kunden sicheres Partnerprogram verwaltet durch Digistore24 perfekte Nische, kaum Wettbewerb Werbemittel nach Anfrage Bei weiteren Fragen stehen wir gerne per E-mail kunst@kolibri-school.de zur Verfügung.
 
 ## 2. Links
 

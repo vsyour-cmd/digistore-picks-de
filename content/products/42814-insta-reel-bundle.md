@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verschenke das Insta Reel Bundle an deine Community und <span style="background-color:#ffff00;">verdiene bis zu 120 € Provision</span> im Funnel, auf alle Up &amp; Downsells.</strong></p>
-<p> </p>
-<ul>
-<li>Ideales Produkt für <strong>jeden der Instagram nutzt</strong></li>
-<li>Die Verkaufs- und Upsellseiten werden stetig auf Conversion optimiert</li>
-<li>Bis zu 120 € im Funnel für Dich möglich!</li>
-</ul>
-<div> </div>
-<div><strong>Welche Provisionen verdienst du?</strong><br /><br />50% Hauptprodukt - 2 €<br />50% Provision vom Upsell 1 - 37 €<br />50% Provision vom Upsell 2 - 47 €<br />50% Provision vom Upsell 3 - 67 € + 47 € Orderbump</div>
-<div>50% Provision vom Upsell 4 - 27 €</div>
-<div> </div>
+**Vendor's marketplace description:** Verschenke das Insta Reel Bundle an deine Community und verdiene bis zu 120 € Provision im Funnel, auf alle Up & Downsells. Ideales Produkt für jeden der Instagram nutzt Die Verkaufs- und Upsellseiten werden stetig auf Conversion optimiert Bis zu 120 € im Funnel für Dich möglich! Welche Provisionen verdienst du? 50% Hauptprodukt - 2 € 50% Provision vom Upsell 1 - 37 € 50% Provision vom Upsell 2 - 47 € 50% Provision vom Upsell 3 - 67 € + 47 € Orderbump 50% Provision vom Upsell 4 - 27 €
 
 ## 2. Links
 

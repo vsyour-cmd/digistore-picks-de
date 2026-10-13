@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Deinen ersten Newsletter starten“</strong></p>
-<p>Abonnenten gewinnen und eine E-Mail-Liste aufbauen – Deine E-Mail-Liste gehört dir. Die richtige Software, ein rechtssicherer Start, ein Anmeldeformular mit Freebie und die ersten Abonnenten. Mit DSGVO und Double-Opt-in.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Warum eine eigene Liste mehr wert ist als Follower</li>
-<li>Die richtige Software wählen und rechtssicher starten</li>
-<li>Ein Anmeldeformular und Freebie, das überzeugt</li>
-<li>DSGVO, Double-Opt-in und Zustellbarkeit im Griff</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Deinen ersten Newsletter starten“ Abonnenten gewinnen und eine E-Mail-Liste aufbauen – Deine E-Mail-Liste gehört dir. Die richtige Software, ein rechtssicherer Start, ein Anmeldeformular mit Freebie und die ersten Abonnenten. Mit DSGVO und Double-Opt-in. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Warum eine eigene Liste mehr wert ist als Follower Die richtige Software wählen und rechtssicher starten Ein Anmeldeformular und Freebie, das überzeugt DSGVO, Double-Opt-in und Zustellbarkeit im Griff
 
 ## 2. Links
 

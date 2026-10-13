@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><strong>"Coaching-Programm WINNER-VIP 1:1"</strong> | 8 Wochen Live Premium Coaching | von Christian Rupp | 5 Upsell-Module</h1>
-<p> </p>
-<p><strong>Ganzheitliche mentale Gesundheit und psychische Gesundheit sind sehr wichtig für die kommenden Jahre. Geist/Spiritualität, Seele/Gefühle und Körper/Verstand werden ganzheitlich wahrgenommen. </strong></p>
-<p><strong>Werde GeWINNER über dein Leben und deine Zukunft. Das WINNER-Programm verfolgt das Ziel, Menschen Sinn, Erfüllung und eine klare Neuorientierung zu schenken in allen 8 Lebensbereichen. Als Grundlage dient der HERZcode mit seinen wissenschaftlichen Grundlagen. Über 8 Wochen bauen die Themen aufeinander auf. In den 1:1 Coachings von 75-90 Minuten pro Woche wird auf individuelle Themen eingangangen und viel Mind-Set-Arbeit gemacht.</strong></p>
-<p><strong>Das WINNER-Programm wurde 2020 erstmals gestartet, laufend optimiert und bis dato ohne Affiliates vermarktet. </strong></p>
-<p><strong>Christian Rupp </strong>hat sich nach seinem Burnout und Klinikaufenthalt der Persönlichkeitsentwicklung verschrieben. Heute ist er im Vorstand des grössten Branchenverbands "Schweizer Dachverband für Persönlichkeitsentwicklung VPT", Beirat beim Schweizer Konsumentenbund SKB und arbeitet mit Hochschulen, Ärzten und Wissenschafter zusammen. Seine Expertenthemen sind Berufung finden, Hochsensibilität als Gabe nutzen und Burnout-Prävention und Genesung.<br />Christian Rupp ist Autor des bekannten Buches "Entschlüssle deinen HERZcode - Das Geheimnis deiner Berufung und eines erfüllten Lebens." </p>
-<p>Brian Tracy (Autor, Speaker &amp; Consultant) sagt: <em><strong>"Christian Rupp gehört du den innovativsten und besten Trainers, Coaches und Mentoren. Erfolg ist bei ihm Programm."</strong></em></p>
-<p><strong>Für Affiliates</strong></p>
-<ul>
-<li><strong>Provision auf das WINNER-VIP 1:1 Coaching: € 300.-</strong></li>
-<li><strong>Upsell-Provision pro Modul 20% (€ 200.-)<br /></strong></li>
-<li><strong>Im Schnitt wird 1 Modul dazu gekauft.</strong> Verfügbare Module sind:
-<ul>
-<li>Hochsensibilität<br /><a href="https://www.checkout-ds24.com/product/535160/">https://www.checkout-ds24.com/product/535160/</a> </li>
-<li>Selbständigkeit<br /><a href="https://www.checkout-ds24.com/product/463506/">https://www.checkout-ds24.com/product/463506/</a> </li>
-<li>Single<br /><a href="https://www.checkout-ds24.com/product/463519/">https://www.checkout-ds24.com/product/463519/</a> </li>
-<li>Paare<br /><a href="https://www.checkout-ds24.com/product/463512/">https://www.checkout-ds24.com/product/463512/</a> </li>
-<li>Job-Booster<br /><a href="https://www.checkout-ds24.com/product/463516/">https://www.checkout-ds24.com/product/463516/</a> </li>
-</ul>
-</li>
-</ul>
+**Vendor's marketplace description:** "Coaching-Programm WINNER-VIP 1:1" | 8 Wochen Live Premium Coaching | von Christian Rupp | 5 Upsell-Module Ganzheitliche mentale Gesundheit und psychische Gesundheit sind sehr wichtig für die kommenden Jahre. Geist/Spiritualität, Seele/Gefühle und Körper/Verstand werden ganzheitlich wahrgenommen. Werde GeWINNER über dein Leben und deine Zukunft. Das WINNER-Programm verfolgt das Ziel, Menschen Sinn, Erfüllung und eine klare Neuorientierung zu schenken in allen 8 Lebensbereichen. Als Grundlage dient der HERZcode mit seinen wissenschaftlichen Grundlagen. Über 8 Wochen bauen die Themen aufeinander auf. In den 1:1 Coachings von 75-90 Minuten pro Woche wird auf individuelle Themen eingangangen und viel Mind-Set-Arbeit gemacht. Das WINNER-Programm wurde 2020 erstmals gestartet, laufend optimiert und bis dato ohne Affiliates vermarktet. Christian Rupp hat sich nach seinem Burnout und Klinikaufenthalt der Persönlichkeitsentwicklung verschrieben. Heute ist er im Vorstand des grössten Branchenverbands "Schweizer Dachverband für Persönlichkeitsentwicklung VPT", Beirat beim Schweizer Konsumentenbund SKB und arbeitet mit Hochschulen, Ärzten und Wissenschafter zusammen. Seine Expertenthemen sind Berufung finden, Hochsensibilität als Gabe nutzen und Burnout-Prävention und Genesung. Christian Rupp ist Autor des bekannten Buches "Entschlüssle deinen HERZcode - Das Geheimnis deiner Berufung und eines erfüllten Lebens." Brian Tracy (Autor, Speaker & Consultant) sagt: "Christian Rupp gehört du den innovativsten und besten Trainers, Coaches und Mentoren. Erfolg ist bei ihm Programm." Für Affiliates Provision auf das WINNER-VIP 1:1 Coaching: € 300.- Upsell-Provision pro Modul 20% (€ 200.-) Im Schnitt wird 1 Modul dazu gekauft. Verfügbare Module sind: Hochsensibilität https://www.checkout-ds24.com/product/535160/ Selbständigkeit https://www.checkout-ds24.com/product/463506/ Single https://www.checkout-ds24.com/product/463519/ Paare https://www.checkout-ds24.com/product/463512/ Job-Booster https://www.checkout-ds24.com/product/463516/
 
 ## 2. Links
 

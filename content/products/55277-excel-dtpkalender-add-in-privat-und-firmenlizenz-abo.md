@@ -41,37 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>DTPKalender 2.0 - Das professionelle Excel-Kalender Add-In</strong></p>
-<p>✅ Bidirektionale Datums-Synchronisation <br />✅ Deutsche Feiertage aller Bundesländer <br />✅ Deutsche Schulferien aller Bundesländer <br />✅ Eigene Termine, Notizen, Weblinks einbinden <br />✅ Verlinkung von Dateien und Verzeichnissen <br />✅ DSGVO-konform (keine Cloud, offline) <br />✅ EV signiert und kompiliert <br />✅ Profile zur kategorisierten Verwaltung der Einträge</p>
-<p><strong>PRODUKTVARIANTEN:</strong></p>
-<p><strong>Privatlizenz — 49€ (Einmalzahlung)</strong></p>
-<ul>
-<li>1 Nutzer / privater Einsatz</li>
-<li>Einmalige Zahlung, keine Folgekosten</li>
-<li>Standard-Support per E-Mail</li>
-<li>14-tägige kostenlose Testversion</li>
-</ul>
-<p><strong>Firmenlizenz — 69€/Jahr (Abo)</strong></p>
-<ul>
-<li>Gewerblicher Einsatz</li>
-<li>Jährliche Zahlung inkl. Updates &amp; neue Features</li>
-<li>Erweiterter prioritärer Support</li>
-<li>Netzwerk- &amp; Mehrbenutzereinsatz möglich</li>
-</ul>
-<p><strong>STAFFELPROVISION:</strong></p>
-<ul>
-<li>Privatlizenz: ab 30%</li>
-<li>Firmenlizenz: ab 30% Jahresprovision</li>
-</ul>
-<p><strong>ZIELGRUPPE:</strong> <br />Excel-Nutzer von Standard bis Excel Poweruser</p>
-<p><strong>PERFEKT FÜR:</strong></p>
-<ul>
-<li>Selbstständige &amp; Freelancer</li>
-<li>Projektmanager &amp; Team-Koordinatoren</li>
-<li>Kleine bis mittlere Unternehmen</li>
-<li>Excel-Standard und Power-User</li>
-</ul>
-<p><strong>VERKAUFSARGUMENTE:<br /></strong> <br />✅ Excel ab 2016 bis Microsoft 365<br />✅ 32/64bit, Win 10/11 <br />✅ Niedriger Einstiegspreis (49€) <br />✅ 14-tägige kostenlose Testversion verfügbar <br />✅ Deutscher Support <br />✅ 30 Jahre Entwicklungserfahrung <br />✅ Made in Germany</p>
+**Vendor's marketplace description:** DTPKalender 2.0 - Das professionelle Excel-Kalender Add-In ✅ Bidirektionale Datums-Synchronisation ✅ Deutsche Feiertage aller Bundesländer ✅ Deutsche Schulferien aller Bundesländer ✅ Eigene Termine, Notizen, Weblinks einbinden ✅ Verlinkung von Dateien und Verzeichnissen ✅ DSGVO-konform (keine Cloud, offline) ✅ EV signiert und kompiliert ✅ Profile zur kategorisierten Verwaltung der Einträge PRODUKTVARIANTEN: Privatlizenz — 49€ (Einmalzahlung) 1 Nutzer / privater Einsatz Einmalige Zahlung, keine Folgekosten Standard-Support per E-Mail 14-tägige kostenlose Testversion Firmenlizenz — 69€/Jahr (Abo) Gewerblicher Einsatz Jährliche Zahlung inkl. Updates & neue Features Erweiterter prioritärer Support Netzwerk- & Mehrbenutzereinsatz möglich STAFFELPROVISION: Privatlizenz: ab 30% Firmenlizenz: ab 30% Jahresprovision ZIELGRUPPE: Excel-Nutzer von Standard bis Excel Poweruser PERFEKT FÜR: Selbstständige & Freelancer Projektmanager & Team-Koordinatoren Kleine bis mittlere Unternehmen Excel-Standard und Power-User VERKAUFSARGUMENTE: ✅ Excel ab 2016 bis Microsoft 365 ✅ 32/64bit, Win 10/11 ✅ Niedriger Einstiegspreis (49€) ✅ 14-tägige kostenlose Testversion verfügbar ✅ Deutscher Support ✅ 30 Jahre Entwicklungserfahrung ✅ Made in Germany
 
 ## 2. Links
 

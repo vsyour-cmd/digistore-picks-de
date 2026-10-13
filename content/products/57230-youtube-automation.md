@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „YouTube Automation“</strong></p>
-<p>Kanäle systematisch aufbauen, auslagern und monetarisieren – Aus einem Kanal wird erst mit System ein Geschäft. Wie du eine Content-Pipeline aufbaust, Aufgaben auslagerst, Qualität sicherst und mehrere Kanäle steuerst.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Einen Kanal als System mit klaren Rollen aufbauen</li>
-<li>Aufgaben an Freelancer auslagern und führen</li>
-<li>Eine verlässliche Content-Pipeline etablieren</li>
-<li>Qualität sichern und mehrere Kanäle skalieren</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „YouTube Automation“ Kanäle systematisch aufbauen, auslagern und monetarisieren – Aus einem Kanal wird erst mit System ein Geschäft. Wie du eine Content-Pipeline aufbaust, Aufgaben auslagerst, Qualität sicherst und mehrere Kanäle steuerst. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Einen Kanal als System mit klaren Rollen aufbauen Aufgaben an Freelancer auslagern und führen Eine verlässliche Content-Pipeline etablieren Qualität sichern und mehrere Kanäle skalieren
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Das E-Book zum Foto-Kurs.com – <span style="color:#333399;">fotografieren lernen mit Erfolg</span></h1>
-<p>290 Seiten für den Durchblick bei der Fotografie.</p>
-<p>Der Aufbau des E-Books:</p>
-<ul>
-<li>Technische Grundlagen</li>
-<li>Verschiedene Bereiche der Fotografie</li>
-<li>Bildaufbau und Gestaltungsgrundlagen</li>
-<li>Tipps und Tricks</li>
-<li>Lexikon/Glossar</li>
-</ul>
-<p>Praxiserprobt und zielgerichtet: fotografieren lernen einfach gemacht.</p>
+**Vendor's marketplace description:** Das E-Book zum Foto-Kurs.com – fotografieren lernen mit Erfolg 290 Seiten für den Durchblick bei der Fotografie. Der Aufbau des E-Books: Technische Grundlagen Verschiedene Bereiche der Fotografie Bildaufbau und Gestaltungsgrundlagen Tipps und Tricks Lexikon/Glossar Praxiserprobt und zielgerichtet: fotografieren lernen einfach gemacht.
 
 ## 2. Links
 

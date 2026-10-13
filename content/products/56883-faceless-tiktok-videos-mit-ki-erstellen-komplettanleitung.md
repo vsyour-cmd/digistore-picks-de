@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><code><strong>Faceless Content</strong> ist DER Trend <strong>2026</strong> — riesige, hungrige Zielgruppe sucht aktiv nach Anleitungen.</code></p>
-<p><code><strong>Dieses E-Book liefert das komplette System:</strong> ChatGPT/Gemini für Skripte, ElevenLabs für die Stimme, Leonardo AI für Bilder, Kling AI für die Animation, CapCut für den Schnitt. Schritt für Schritt, ohne Kamera, ohne Vorerfahrung.</code></p>
-<p><code><strong>Niedriger Preis (19€)</strong> = <strong>niedrige Kaufhemmschwelle</strong> = höhere Conversion für dich als Affiliate.</code></p>
-<p><code><strong>15% Provision</strong> pro Verkauf.</code></p>
-<p><code>Perfekt zu bewerben über: TikTok, Reels, YouTube Shorts, Pinterest, Facebook-Gruppen für Online Business &amp; Content Creation.</code></p>
+**Vendor's marketplace description:** Faceless Content ist DER Trend 2026 — riesige, hungrige Zielgruppe sucht aktiv nach Anleitungen. Dieses E-Book liefert das komplette System: ChatGPT/Gemini für Skripte, ElevenLabs für die Stimme, Leonardo AI für Bilder, Kling AI für die Animation, CapCut für den Schnitt. Schritt für Schritt, ohne Kamera, ohne Vorerfahrung. Niedriger Preis (19€) = niedrige Kaufhemmschwelle = höhere Conversion für dich als Affiliate. 15% Provision pro Verkauf. Perfekt zu bewerben über: TikTok, Reels, YouTube Shorts, Pinterest, Facebook-Gruppen für Online Business & Content Creation.
 
 ## 2. Links
 

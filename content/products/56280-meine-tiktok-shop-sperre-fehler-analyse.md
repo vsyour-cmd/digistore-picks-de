@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ich habe alles falsch gemacht, damit du es nicht musst! In diesem E-Book dokumentiere ich detailliert meine eigenen Fehler, die zur TikTok Shop Sperre geführt haben.</p>
-<p>Warum sich dieses Produkt extrem gut verkauft:</p>
-<ul>
-<li>
-<p><strong>Echte Story:</strong> Kein theoretisches Gelaber, sondern echte Fehler aus der Praxis.</p>
-</li>
-<li>
-<p><strong>Prävention:</strong> Jeder Creator hat Angst vor einer Sperre – dieses Buch ist ihre Versicherung.</p>
-</li>
-<li>
-<p><strong>50% Provision:</strong> Hohe Beteiligung für dich bei jedem Verkauf.</p>
-</li>
-<li>
-<p><strong>Exklusives Wissen:</strong> Ich zeige genau die Punkte, die in keinem Tutorial stehen, aber den Account kosten können.</p>
-</li>
-</ul>
-<p>Hilf anderen Creatoren, ihre Existenz zu schützen, und verdiene dabei 50% Provision!</p>
+**Vendor's marketplace description:** Ich habe alles falsch gemacht, damit du es nicht musst! In diesem E-Book dokumentiere ich detailliert meine eigenen Fehler, die zur TikTok Shop Sperre geführt haben. Warum sich dieses Produkt extrem gut verkauft: Echte Story: Kein theoretisches Gelaber, sondern echte Fehler aus der Praxis. Prävention: Jeder Creator hat Angst vor einer Sperre – dieses Buch ist ihre Versicherung. 50% Provision: Hohe Beteiligung für dich bei jedem Verkauf. Exklusives Wissen: Ich zeige genau die Punkte, die in keinem Tutorial stehen, aber den Account kosten können. Hilf anderen Creatoren, ihre Existenz zu schützen, und verdiene dabei 50% Provision!
 
 ## 2. Links
 

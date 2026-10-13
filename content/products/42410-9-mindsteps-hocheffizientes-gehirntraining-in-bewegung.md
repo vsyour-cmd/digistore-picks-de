@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>9 MINDsteps</strong>® ist ein Kartenset, bestehend aus 50 Kärtchen mit jeweils 4 Übungen, die mentale Konzentration und motorische Koordination gleichermaßen fördern. Insgesamt also 200 fantastische Übungen, für die es noch viele Variationsmöglichkeiten gibt.</p>
-<p>Es handelt sich um sogennante Dual-Task Aufgaben, also Übungen, bei denen es neben einer motorischen Aufgabe auch eine kognitive Aufgabe lösen gilt.</p>
-<p>Nähere Infos zu den Übungen <a href="https://erichfrischenschlager.com/9-mindsteps/" target="_blank" rel="noreferrer noopener">findest du hier!</a></p>
+**Vendor's marketplace description:** 9 MINDsteps ® ist ein Kartenset, bestehend aus 50 Kärtchen mit jeweils 4 Übungen, die mentale Konzentration und motorische Koordination gleichermaßen fördern. Insgesamt also 200 fantastische Übungen, für die es noch viele Variationsmöglichkeiten gibt. Es handelt sich um sogennante Dual-Task Aufgaben, also Übungen, bei denen es neben einer motorischen Aufgabe auch eine kognitive Aufgabe lösen gilt. Nähere Infos zu den Übungen findest du hier!
 
 ## 2. Links
 

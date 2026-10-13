@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Literaxis ist eine KI-gestützte Plattform für literarische Buchübersetzungen – <strong>ab CHF 69 pro Buch, in sechs Sprachen (DE/EN/FR/IT/ES/PT-BR)</strong>, mit Fokus auf Stiltreue statt reiner Wort-für-Wort-Übersetzung.</p>
-<p>Als Affiliate erhältst du 35% Provision vom Verkaufspreis. Als Super-Affiliate zusätzlich 10% auf die Provision jeder Person, die du selbst als Affiliate geworben hast.</p>
-<p>Auf unserer Werbemittel-Seite findest du deinen persönlichen Tracking-Link-Generator, fertige Text- und E-Mail-Vorlagen sowie Banner zum Download – bereit zum direkten Einsatz: https://literaxis.com/affiliate-kit</p>
+**Vendor's marketplace description:** Literaxis ist eine KI-gestützte Plattform für literarische Buchübersetzungen – ab CHF 69 pro Buch, in sechs Sprachen (DE/EN/FR/IT/ES/PT-BR) , mit Fokus auf Stiltreue statt reiner Wort-für-Wort-Übersetzung. Als Affiliate erhältst du 35% Provision vom Verkaufspreis. Als Super-Affiliate zusätzlich 10% auf die Provision jeder Person, die du selbst als Affiliate geworben hast. Auf unserer Werbemittel-Seite findest du deinen persönlichen Tracking-Link-Generator, fertige Text- und E-Mail-Vorlagen sowie Banner zum Download – bereit zum direkten Einsatz: https://literaxis.com/affiliate-kit
 
 ## 2. Links
 

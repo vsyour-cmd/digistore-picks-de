@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du über einen Telegram-Kanal Vertrauen aufbaust und Kunden gewinnst</strong></p>
-<p>Als Coach lebt dein Business von Vertrauen – und Telegram gibt dir etwas, das andere Plattformen nicht bieten: jeden deiner Beiträge sehen alle Abonnenten, ungefiltert und chronologisch. Kein Algorithmus entscheidet, ob dein Mehrwert-Post die Zielgruppe erreicht. Dieses E-Book zeigt dir, wie du aus deinem Fachwissen Kanal-Content machst, der nicht nur Reichweite, sondern planbar Anfragen bringt. Du lernst, wie du über Telegram-Gruppen Nähe und Community schaffst, wie Bots automatisiert Erstgespräch-Anfragen entgegennehmen und wie du Telegram Stars und Premium-Zugänge als Monetarisierungsweg nutzt. Statt auf Algorithmus-Gunst zu hoffen, hast du nach diesem E-Book ein System, das dich als Autorität positioniert und deinen Kalender füllt.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Content-Strategie, die Vertrauen UND Anfragen erzeugt – ohne Algorithmus-Druck</li>
-<li>Kanal UND Gruppe kombinieren: Reichweite plus direkte Kommunikation</li>
-<li>Mehrwert-Posts, die dein Fachwissen zeigen ohne alles zu verschenken</li>
-<li>Bots für automatische Lead-Erfassung und Erstgespräch-Buchung einrichten</li>
-<li>Telegram-Gruppen als Community und Vertriebs-Kanal nutzen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du über einen Telegram-Kanal Vertrauen aufbaust und Kunden gewinnst Als Coach lebt dein Business von Vertrauen – und Telegram gibt dir etwas, das andere Plattformen nicht bieten: jeden deiner Beiträge sehen alle Abonnenten, ungefiltert und chronologisch. Kein Algorithmus entscheidet, ob dein Mehrwert-Post die Zielgruppe erreicht. Dieses E-Book zeigt dir, wie du aus deinem Fachwissen Kanal-Content machst, der nicht nur Reichweite, sondern planbar Anfragen bringt. Du lernst, wie du über Telegram-Gruppen Nähe und Community schaffst, wie Bots automatisiert Erstgespräch-Anfragen entgegennehmen und wie du Telegram Stars und Premium-Zugänge als Monetarisierungsweg nutzt. Statt auf Algorithmus-Gunst zu hoffen, hast du nach diesem E-Book ein System, das dich als Autorität positioniert und deinen Kalender füllt. Das steckt drin: Content-Strategie, die Vertrauen UND Anfragen erzeugt – ohne Algorithmus-Druck Kanal UND Gruppe kombinieren: Reichweite plus direkte Kommunikation Mehrwert-Posts, die dein Fachwissen zeigen ohne alles zu verschenken Bots für automatische Lead-Erfassung und Erstgespräch-Buchung einrichten Telegram-Gruppen als Community und Vertriebs-Kanal nutzen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>KI-Social-Media für Betriebe</strong>: 30 Lektionen in 7 Modulen zeigen Betrieben, wie sie Social Media mit KI selbst umsetzen – zum Durchklicken im Browser. Mit 7 Erklärvideos, 24 Prompts, 5 KI-Rollenkarten, Vorlagen und Excel-Planer.</p>
-<p><strong>Zielgruppe:</strong> Handwerksbetriebe, Praxen, lokale Dienstleister und kleine Unternehmen, die Social Media selbst oder mit ihrem Team umsetzen wollen.</p>
-<p><strong>Dein Vorteil als Partner:</strong> 50 % Provision bei 99 € Einmalpreis, automatische Partnerfreischaltung, hochwertige Optik und fertige Werbevideos.</p>
+**Vendor's marketplace description:** KI-Social-Media für Betriebe : 30 Lektionen in 7 Modulen zeigen Betrieben, wie sie Social Media mit KI selbst umsetzen – zum Durchklicken im Browser. Mit 7 Erklärvideos, 24 Prompts, 5 KI-Rollenkarten, Vorlagen und Excel-Planer. Zielgruppe: Handwerksbetriebe, Praxen, lokale Dienstleister und kleine Unternehmen, die Social Media selbst oder mit ihrem Team umsetzen wollen. Dein Vorteil als Partner: 50 % Provision bei 99 € Einmalpreis, automatische Partnerfreischaltung, hochwertige Optik und fertige Werbevideos.
 
 ## 2. Links
 

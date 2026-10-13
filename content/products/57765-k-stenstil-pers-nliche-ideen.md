@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Das digitale Planungs- und Inspirationsbuch für dein persönliches Zuhause im Küstenstil</h2>
-<p>Hol dir das Gefühl von Meer, Strand und frischer Meeresbrise direkt nach Hause. Mit <strong>„Küstenstil – Persönliche Ideen“</strong> erhältst du einen digitalen Wohnplaner, der dich dabei unterstützt, deine Einrichtungsideen zu sammeln, deine Räume zu planen und ein harmonisches Zuhause im modernen Küstenstil zu gestalten.</p>
-<p>Empfehlen Sie ein hochwertiges digitales Wohn- und Einrichtungsprodukt mit hoher Relevanz für die beliebte Home-&amp;-Living-Zielgruppe. Inspirierende Raumideen, stilvolle Moodboards und praktische Anleitungen sorgen für hohe Kundenzufriedenheit – ideal für Pinterest, Blogs, Social Media und E-Mail-Marketing.</p>
+**Vendor's marketplace description:** Das digitale Planungs- und Inspirationsbuch für dein persönliches Zuhause im Küstenstil Hol dir das Gefühl von Meer, Strand und frischer Meeresbrise direkt nach Hause. Mit „Küstenstil – Persönliche Ideen“ erhältst du einen digitalen Wohnplaner, der dich dabei unterstützt, deine Einrichtungsideen zu sammeln, deine Räume zu planen und ein harmonisches Zuhause im modernen Küstenstil zu gestalten. Empfehlen Sie ein hochwertiges digitales Wohn- und Einrichtungsprodukt mit hoher Relevanz für die beliebte Home-&-Living-Zielgruppe. Inspirierende Raumideen, stilvolle Moodboards und praktische Anleitungen sorgen für hohe Kundenzufriedenheit – ideal für Pinterest, Blogs, Social Media und E-Mail-Marketing.
 
 ## 2. Links
 

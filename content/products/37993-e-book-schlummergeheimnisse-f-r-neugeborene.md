@@ -41,52 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><em>Sanft die Weichen stellen für wunderbaren Neugeborenen-Schlaf (0-4 Monate)</em></p>
-<p>Was tun wenn das Neugeborene...</p>
-<ul>
-<li>...Tag und Nacht vertauscht?</li>
-<li>...regelmäßig mehrere Stunden nachts wach ist?</li>
-<li>...Mama durch ständiges Nuckeln vom Schlafen abhält?</li>
-<li>oft unruhig und übermüdet ist und schlecht in den Schlaf findet?</li>
-</ul>
-<p>Wie können Schlafprobleme von Anfang an behoben oder vermieden werden?</p>
-<p>Sarah Mann, sechsfache Mama und zertifizierte Babyschlafberaterin gibt in ihrem eBook „<em>Schlummergeheimnisse für Neugeborene</em>“ Antwort auf diese Fragen – voller Liebe, Realismus und mit jeder Menge praktischen Tipps im Gepäck!</p>
-<p>Dieses eBook ist dein perfekter Wegbegleiter, um möglichst ruhig und entspannt deinen Weg durch die doch manchmal recht herausfordernden Neugeborenen-Monate zu finden.</p>
-<p>Folgende Inhalte hat das Buch:</p>
-<ul>
-<li><strong>Zwischen Idealismus, Wunschvorstellung und Realität</strong> – Erwartungen loslassen, den Ist-Zustand entspannt hinnehmen und sanft lenken</li>
-<li>Die besonderen ersten beiden Monate</li>
-<li>Neugeborenen-Schlaf – was dich erwartet</li>
-<li><strong>Entwicklung des Schlafverhaltens in den ersten fünf Monaten</strong></li>
-<li>Infos zur zentral wichtigen Schlafregression mit ca. 4 Monaten (und der Umstellung der Schlafphasen in diesem Alter)</li>
-<li><strong>Schreiphasen</strong> meistern</li>
-<li>Studienlage zu Babyschlaf</li>
-<li>Vorzüge von gutem Schlaf</li>
-<li><strong>Persönliche Einblicke und Erfahrung</strong></li>
-<li>Für eine gesunde Mama sorgen</li>
-<li><strong>Schlafstörung oder normaler Schlaf?</strong></li>
-<li><strong>12 Schlafgeheimnisse, die das Leben frischgebackener Eltern verändern.<br /></strong>Jede Menge praktisch und liebevoll umsetzbare Tipps, um den Schlaf in den ersten 5 Baby-Monaten positiv zu verändern, unter anderem:
-<ul>
-<li>Tag-und-Nacht-Verwirrung beenden</li>
-<li>Tagesschläfchen lenken bzw. begrenzen</li>
-<li>Hilfreiche Einschlafgewohnheiten entwickeln (welche? wann? warum?)</li>
-<li>Wann und wie einen Tagesrhythmus einführen</li>
-<li>Wachphasen kurz halten</li>
-<li>Für Nähe und Sicherheit sorgen; und vieles mehr...</li>
-</ul>
-</li>
-</ul>
-<p>Dazu viele äußerst hilfreiche Hintergrundinformationen wie z.B.:</p>
-<ul>
-<li>Übermüdung vermeiden – warum und wie?</li>
-<li>Wann entwickelt sich ein Tagesrhythmus?</li>
-<li>Mein Baby schreit viel – liegt es an mir? Was kann ich tun?</li>
-<li>Woran lässt sich Schlafmangel erkennen?</li>
-<li>Was ist der sicherste Schlafplatz?</li>
-</ul>
-<p>Mit diesem wunderbaren, knapp 100 Seiten-starken Ratgeber hast man den perfekten Ratgeber gefunden, um die unruhigen ersten Monate zu meistern und um auf sanft Art und Weise die Weichen für eine wunderbare gemeinsame Schlaf-Zukunft zu stellen!</p>
-<p> </p>
-<p><span style="background-color:#ffff99;">PS: Frage uns nach einem individuellen Rabattcode für deine Community/E-Mail-Liste/etc.</span></p>
+**Vendor's marketplace description:** Sanft die Weichen stellen für wunderbaren Neugeborenen-Schlaf (0-4 Monate) Was tun wenn das Neugeborene... ...Tag und Nacht vertauscht? ...regelmäßig mehrere Stunden nachts wach ist? ...Mama durch ständiges Nuckeln vom Schlafen abhält? oft unruhig und übermüdet ist und schlecht in den Schlaf findet? Wie können Schlafprobleme von Anfang an behoben oder vermieden werden? Sarah Mann, sechsfache Mama und zertifizierte Babyschlafberaterin gibt in ihrem eBook „ Schlummergeheimnisse für Neugeborene “ Antwort auf diese Fragen – voller Liebe, Realismus und mit jeder Menge praktischen Tipps im Gepäck! Dieses eBook ist dein perfekter Wegbegleiter, um möglichst ruhig und entspannt deinen Weg durch die doch manchmal recht herausfordernden Neugeborenen-Monate zu finden. Folgende Inhalte hat das Buch: Zwischen Idealismus, Wunschvorstellung und Realität – Erwartungen loslassen, den Ist-Zustand entspannt hinnehmen und sanft lenken Die besonderen ersten beiden Monate Neugeborenen-Schlaf – was dich erwartet Entwicklung des Schlafverhaltens in den ersten fünf Monaten Infos zur zentral wichtigen Schlafregression mit ca. 4 Monaten (und der Umstellung der Schlafphasen in diesem Alter) Schreiphasen meistern Studienlage zu Babyschlaf Vorzüge von gutem Schlaf Persönliche Einblicke und Erfahrung Für eine gesunde Mama sorgen Schlafstörung oder normaler Schlaf? 12 Schlafgeheimnisse, die das Leben frischgebackener Eltern verändern. Jede Menge praktisch und liebevoll umsetzbare Tipps, um den Schlaf in den ersten 5 Baby-Monaten positiv zu verändern, unter anderem: Tag-und-Nacht-Verwirrung beenden Tagesschläfchen lenken bzw. begrenzen Hilfreiche Einschlafgewohnheiten entwickeln (welche? wann? warum?) Wann und wie einen Tagesrhythmus einführen Wachphasen kurz halten Für Nähe und Sicherheit sorgen; und vieles mehr... Dazu viele äußerst hilfreiche Hintergrundinformationen wie z.B.: Übermüdung vermeiden – warum und wie? Wann entwickelt sich ein Tagesrhythmus? Mein Baby schreit viel – liegt es an mir? Was kann ich tun? Woran lässt sich Schlafmangel erkennen? Was ist der sicherste Schlafplatz? Mit diesem wunderbaren, knapp 100 Seiten-starken Ratgeber hast man den perfekten Ratgeber gefunden, um die unruhigen ersten Monate zu meistern und um auf sanft Art und Weise die Weichen für eine wunderbare gemeinsame Schlaf-Zukunft zu stellen! PS: Frage uns nach einem individuellen Rabattcode für deine Community/E-Mail-Liste/etc.
 
 ## 2. Links
 

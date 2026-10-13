@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><span style="color:#0000ff;">Thailändisch ohne Vorkenntnisse im Urlaub anwenden</span></h1>
-<h2>Nach dem Anschauen der Videos z.B. auf dem Flug können sich Käufer von Anfang an mit Thais verständigen. </h2>
-<p>Der Videokurs beinhaltet 11 Videos, clevere Spickzettel und Audiodateien.</p>
-<p>Der Kurs für Reisende, die leicht in Kontatk kommen wollen mit Einheimischen und dabei sich aber auch einen einfachen, schnellen Einstieg wünschen ohne auswendiglernen zu müssen. </p>
-<p><strong>Jetzt ansehen auf </strong><br /><a href="https://thailaendisch-fuer-reisende.de"><strong>www.thailaendisch-fuer-reisende.de </strong></a></p>
-<p>Und hier noch der Extra-Tipp für dich, wenn du mit Thai-Kursen <strong>fortlaufend</strong> verdienen möchtest:  <strong><a href="https://www.thailernen.net/partnerprogramm/?go=15" target="_blank" rel="noreferrer noopener"><em>Partnerprogramm</em></a></strong>  </p>
-<p>Brauchst du Werbemittel? Schau dir unsere Partnerseite an oder frage bei mir nach.</p>
-<p>Gerne veröffentliche ich auch deinen Gastartikel mit wertvollem Backlink auf einer meiner Webseiten.</p>
-<p>Auf unseren gemeinsamen Erfolg!<br /><em>Stefan vom Sprachcrashkurs-Team</em></p>
-<h5>Jetzt reinschauen und auch weitere Sprachen bewerben:</h5>
-<h5><a>http://www.chinesisch-fuer-reisende.de</a><a> <br /></a><a>http://www.vietnamesisch-fuer-reisende.de<br /></a><a>http://www.brasilianisch-fuer-reisende.de<br /></a><a>http://www.spanisch-fuer-reisende.de</a></h5>
+**Vendor's marketplace description:** Thailändisch ohne Vorkenntnisse im Urlaub anwenden Nach dem Anschauen der Videos z.B. auf dem Flug können sich Käufer von Anfang an mit Thais verständigen. Der Videokurs beinhaltet 11 Videos, clevere Spickzettel und Audiodateien. Der Kurs für Reisende, die leicht in Kontatk kommen wollen mit Einheimischen und dabei sich aber auch einen einfachen, schnellen Einstieg wünschen ohne auswendiglernen zu müssen. Jetzt ansehen auf www.thailaendisch-fuer-reisende.de Und hier noch der Extra-Tipp für dich, wenn du mit Thai-Kursen fortlaufend verdienen möchtest: Partnerprogramm Brauchst du Werbemittel? Schau dir unsere Partnerseite an oder frage bei mir nach. Gerne veröffentliche ich auch deinen Gastartikel mit wertvollem Backlink auf einer meiner Webseiten. Auf unseren gemeinsamen Erfolg! Stefan vom Sprachcrashkurs-Team Jetzt reinschauen und auch weitere Sprachen bewerben: http://www.chinesisch-fuer-reisende.de http://www.vietnamesisch-fuer-reisende.de http://www.brasilianisch-fuer-reisende.de http://www.spanisch-fuer-reisende.de
 
 ## 2. Links
 

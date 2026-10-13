@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>E-Book von Martin Keuzer</div>
-<div>Pferdetrainer und Gründer der MKA Horsemanship Academy<strong><br /></strong></div>
-<div> </div>
-<p><span style="color:#3366ff;"><strong>Horsemanship<br /></strong><strong>Gefühl, Zeitgefühl &amp; Gleichgewicht</strong></span></p>
-<p>Dieses E-Book zeigt allen Reitern und Pferdebesitzern, wie sie die Beziehung zu ihrem Pferd um ein Vielfaches verbessern, Stress auf beiden Seiten vermeiden und ein gesundes und motiviertes Pferd erhalten.</p>
-<div>
-<div>
-<div>
-<p> </p>
-<p>Gefühl, Zeitgefühl und Gleichgewicht sind der Schlüssel zum Erfolg mit unseren Pferden. Diese drei Elemente verkörpern alles, was ein Mensch an der Seite seines vierbeinigen Partners braucht, um seinem Wesen gerecht zu werden und die Voraussetzung zu erfüllen, dass er verstanden wird.</p>
-<p>Diese drei Elemente sind schlechthin die Kommunikation mit Pferden, die zum Erfolg führen. Und dennoch erscheinen diese drei Elemente so schwer erreichbar für uns Menschen. Natürlich haben wir viel mit Gefühl zu tun in unserem Leben, aber Gefühl bedeutet so viel mehr. Zeitgefühl – auch gerne Timing – genannt, ein Problem das scheinbar unüberwindlich ist und das Gleichgewicht (das innere wie das äußere), mit dem wir wahrscheinlich am meisten zu kämpfen haben.</p>
-<p> </p>
-<p>In diesem E-Book möchte ich Euch die drei wichtigsten Säulen näher bringen, die im Umgang und Training eines Pferdes eine Rolle spielen.<br />Euer Martin Kreuzer</p>
-</div>
-</div>
-</div>
-<div>
-<p>E-Book <strong>„Gefühl, Zeitgefühl &amp; Gleichgewicht.“</strong><br /> <strong>Inhalt 40 Seiten</strong><strong><br /> Hier erhältlich</strong> <strong>für nur € 9,95 inkl. MwSt.</strong></p>
-<p> </p>
-<p><span style="color:#3366ff;"><strong>Lieber Affiliate, vielen Dank für deine Unterstützung. Ich freue mich auf eine gute Zusammenarbeit! </strong></span></p>
-<p><span style="color:#3366ff;"><strong><em>Martin Kreuzer</em></strong></span></p>
-</div>
-<p> </p>
+**Vendor's marketplace description:** E-Book von Martin Keuzer Pferdetrainer und Gründer der MKA Horsemanship Academy Horsemanship Gefühl, Zeitgefühl & Gleichgewicht Dieses E-Book zeigt allen Reitern und Pferdebesitzern, wie sie die Beziehung zu ihrem Pferd um ein Vielfaches verbessern, Stress auf beiden Seiten vermeiden und ein gesundes und motiviertes Pferd erhalten. Gefühl, Zeitgefühl und Gleichgewicht sind der Schlüssel zum Erfolg mit unseren Pferden. Diese drei Elemente verkörpern alles, was ein Mensch an der Seite seines vierbeinigen Partners braucht, um seinem Wesen gerecht zu werden und die Voraussetzung zu erfüllen, dass er verstanden wird. Diese drei Elemente sind schlechthin die Kommunikation mit Pferden, die zum Erfolg führen. Und dennoch erscheinen diese drei Elemente so schwer erreichbar für uns Menschen. Natürlich haben wir viel mit Gefühl zu tun in unserem Leben, aber Gefühl bedeutet so viel mehr. Zeitgefühl – auch gerne Timing – genannt, ein Problem das scheinbar unüberwindlich ist und das Gleichgewicht (das innere wie das äußere), mit dem wir wahrscheinlich am meisten zu kämpfen haben. In diesem E-Book möchte ich Euch die drei wichtigsten Säulen näher bringen, die im Umgang und Training eines Pferdes eine Rolle spielen. Euer Martin Kreuzer E-Book „Gefühl, Zeitgefühl & Gleichgewicht.“ Inhalt 40 Seiten Hier erhältlich für nur € 9,95 inkl. MwSt. Lieber Affiliate, vielen Dank für deine Unterstützung. Ich freue mich auf eine gute Zusammenarbeit! Martin Kreuzer
 
 ## 2. Links
 

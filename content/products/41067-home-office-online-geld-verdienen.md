@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Verkauf das Home Office Special - Online Geld verdienen</strong></span></p>
-<p><strong>Mit folgenden Themen:</strong></p>
-<p>✅  Welche Top Quellen, für Sofort Geld im Internet verdienen gibt es</p>
-<p>✅  Einige der wichtigsten Erfolgsfaktoren, um mit dem Internet Geld zu verdienen</p>
-<p>✅  Die Traffic Methode</p>
-<p>✅  Verkaufen Sie immer die richtigen Produkte</p>
-<p>✅  5BS? ist natürlich erlaubt</p>
-<p><span style="background-color:#ffff00;"><strong>Du bekommst 80% von der Netto Provision des E-Books (ca. 5 Euro)</strong></span></p>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Inklusive 70 % des Netto Gewinns vom Upsell (Video Kurs über das Internet Business ca. 150 Euro Netto Provision)</strong></span></p>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Hohe Conversion, da man den Kurs eine Woche testen kann und es montliche updates gibt (Kostenfrei)</strong></span></p>
-<p> </p>
+**Vendor's marketplace description:** Verkauf das Home Office Special - Online Geld verdienen Mit folgenden Themen: ✅ Welche Top Quellen, für Sofort Geld im Internet verdienen gibt es ✅ Einige der wichtigsten Erfolgsfaktoren, um mit dem Internet Geld zu verdienen ✅ Die Traffic Methode ✅ Verkaufen Sie immer die richtigen Produkte ✅ 5BS? ist natürlich erlaubt Du bekommst 80% von der Netto Provision des E-Books (ca. 5 Euro) Inklusive 70 % des Netto Gewinns vom Upsell (Video Kurs über das Internet Business ca. 150 Euro Netto Provision) Hohe Conversion, da man den Kurs eine Woche testen kann und es montliche updates gibt (Kostenfrei)
 
 ## 2. Links
 

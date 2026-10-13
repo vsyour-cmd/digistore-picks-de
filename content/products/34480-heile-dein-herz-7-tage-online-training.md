@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>"Heile-Dein-Herz" 7-Tage-</strong><strong>Online-Training</strong></h3>
-<h3><strong>von Katerina Struhovska</strong></h3>
-<p><strong>Heile dein Herz und werde zum Magnet für erfüllte Liebe!</strong></p>
-<p>Dieses online Training besteht aus mehrere Schulungs-Videos mit Informationen, Übungen, Anleitungen und tiefgreifenden Meditationen.</p>
-<p>Durchlebe in diesen 7 Tagen eine intensive &amp; lebensverändernde Transformation.</p>
-<p>Dieses Online Training ist keine reine Info-Vermittlung und keine Oberflächen-Kosmetik. </p>
-<p>Dieses online Seminar geht in die Tiefe, indem Du du eine tiefgreifende Veränderung und spirituelle Herz-Heilung durchläufst.</p>
-<p>Du kannst das Training ganz in Ruhe von zu Hause aus absolvieren – vor deinem eigenen Computer, in deinem Tempo, zu den Dir möglichen Zeiten.</p>
-<p>Du bekommst die Zugangsdaten zum Mitgliederbereich nach dem Kauf per E-Mail zugesandt. </p>
-<p> </p>
+**Vendor's marketplace description:** "Heile-Dein-Herz" 7-Tage- Online-Training von Katerina Struhovska Heile dein Herz und werde zum Magnet für erfüllte Liebe! Dieses online Training besteht aus mehrere Schulungs-Videos mit Informationen, Übungen, Anleitungen und tiefgreifenden Meditationen. Durchlebe in diesen 7 Tagen eine intensive & lebensverändernde Transformation. Dieses Online Training ist keine reine Info-Vermittlung und keine Oberflächen-Kosmetik. Dieses online Seminar geht in die Tiefe, indem Du du eine tiefgreifende Veränderung und spirituelle Herz-Heilung durchläufst. Du kannst das Training ganz in Ruhe von zu Hause aus absolvieren – vor deinem eigenen Computer, in deinem Tempo, zu den Dir möglichen Zeiten. Du bekommst die Zugangsdaten zum Mitgliederbereich nach dem Kauf per E-Mail zugesandt.
 
 ## 2. Links
 

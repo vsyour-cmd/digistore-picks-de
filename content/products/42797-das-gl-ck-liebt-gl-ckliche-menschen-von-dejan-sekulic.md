@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Dejan Sekulics <br />Amazon Bestseller Buch als Ebook zum absoluten Spitzenpreis<br /><br /></h1>
-<h4><em>Das Glück liebt glückliche Menschen!<br />Nahrung für Geist und Seele. </em><br /><em>Zitate, Metaphern, Geschichten, <br />Alltagstipps für mehr Glück, Erfolg und Lebensfreude</em></h4>
-<h4><br /><em><strong>In diesem Buch erwarten DICH:</strong></em><br /><br /></h4>
-<ul>
-<li>
-<h4>Nahrung für Geist und Seele</h4>
-</li>
-<li>
-<h4>Hilfreiche Lebensweisheiten  </h4>
-</li>
-<li>
-<h4>Motivierende Zitate von grossen Persönlichkeiten</h4>
-</li>
-<li>
-<h4>Inspirierende Metaphern sowie nützliche Denkanstösse</h4>
-</li>
-<li>
-<h4>Praxistipps für mehr Glück und Lebensfreude</h4>
-</li>
-<li>
-<h4>Das Mindset erfolgreicher Menschen<br /><br />Jeder Affiliate verdient 8<span style="background-color:#ffff00;">0% Provision</span> <br />pro Verkauf </h4>
-</li>
-</ul>
+**Vendor's marketplace description:** Dejan Sekulics Amazon Bestseller Buch als Ebook zum absoluten Spitzenpreis Das Glück liebt glückliche Menschen! Nahrung für Geist und Seele. Zitate, Metaphern, Geschichten, Alltagstipps für mehr Glück, Erfolg und Lebensfreude In diesem Buch erwarten DICH: Nahrung für Geist und Seele Hilfreiche Lebensweisheiten Motivierende Zitate von grossen Persönlichkeiten Inspirierende Metaphern sowie nützliche Denkanstösse Praxistipps für mehr Glück und Lebensfreude Das Mindset erfolgreicher Menschen Jeder Affiliate verdient 8 0% Provision pro Verkauf
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Endlich richtig gut Keyboard spielen können !</h2>
-<div>In diesem Kurs lernst Du 8 neue Lieder mit 7 neuen Akkorden und Rhythmus spielen. Du lernst die Halbtöne (schwarze Tasten) kennen, sowie verschiedene Phrasierungs- und Artikulations- Arten und vieles mehr.</div>
-<div> </div>
-<div>Dieser Kurs baut sich auf den Keyboardkurs Vol. 1 auf und ist für leicht Fortgeschrittene geeignet.</div>
-<div> </div>
-<div>Das Konzept wurde von einem erfahrenen Musiklehrer entwickelt und ist für Kinder, Jugendliche und Erwachsene!</div>
-<div> </div>
-<div>Dieser Kurs enthält 10 Video-Lektionen und ein Lernheft (Noten) im PDF-Format.</div>
+**Vendor's marketplace description:** Endlich richtig gut Keyboard spielen können ! In diesem Kurs lernst Du 8 neue Lieder mit 7 neuen Akkorden und Rhythmus spielen. Du lernst die Halbtöne (schwarze Tasten) kennen, sowie verschiedene Phrasierungs- und Artikulations- Arten und vieles mehr. Dieser Kurs baut sich auf den Keyboardkurs Vol. 1 auf und ist für leicht Fortgeschrittene geeignet. Das Konzept wurde von einem erfahrenen Musiklehrer entwickelt und ist für Kinder, Jugendliche und Erwachsene! Dieser Kurs enthält 10 Video-Lektionen und ein Lernheft (Noten) im PDF-Format.
 
 ## 2. Links
 

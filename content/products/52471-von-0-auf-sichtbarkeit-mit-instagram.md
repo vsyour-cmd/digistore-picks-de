@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Möchtest du Instagram endlich strategisch nutzen – um sichtbar zu werden, Kunden zu gewinnen oder mit Affiliate Marketing Geld zu verdienen?</h3>
-<p><strong>Dann ist dieser Kurs genau richtig für dich!</strong><br />Wir nutzen Instagram seit Jahren für mein eigenes Online-Business – ohne Cringe, ohne Druck. In diesem Kurs zeigen dir Anne und Social-Media-Expertin Majena Schritt für Schritt, wie auch du dir mit System und Klarheit eine echte Reichweite aufbaust – ganz ohne 10.000 Follower.<br /><br /></p>
-<h3>Das lernst du in diesem Kurs:</h3>
-<p>•⁠ ⁠Wie du dein Instagram-Profil professionell aufbaust<br />•⁠ ⁠Business- oder Creator-Konto? Das ist der Unterschied<br />•⁠ ⁠Wie du deine Nische findest &amp; deine Zielgruppe ansprichst<br />•⁠ ⁠Welche Content-Formate wirklich Reichweite bringen<br />•⁠ ⁠Wie du deine Inhalte mit Plan &amp; Struktur erstellst<br />•⁠ ⁠Was der Algorithmus 2025 wirklich will<br />•⁠ ⁠Wie du mit Reels sichtbar wirst<br />•⁠ ⁠Wie du mit Hashtags, Storys &amp; Interaktion deine Community aufbaust<br />•⁠ ⁠Wie du deinen Content analysierst und Schritt für Schritt verbesserst<br /><br /></p>
-<h3>Warum dieser Kurs perfekt für dich ist:</h3>
-<p>Wir zeigen dir ganz praktisch, wie du mit Instagram loslegst – ohne dich zu verstellen und ohne stundenlang zu grübeln, was du posten sollst.</p>
-<p>Starte jetzt und mach Instagram endlich zu deinem Business-Tool!<br />Melde dich an und leg heute noch los.</p>
+**Vendor's marketplace description:** Möchtest du Instagram endlich strategisch nutzen – um sichtbar zu werden, Kunden zu gewinnen oder mit Affiliate Marketing Geld zu verdienen? Dann ist dieser Kurs genau richtig für dich! Wir nutzen Instagram seit Jahren für mein eigenes Online-Business – ohne Cringe, ohne Druck. In diesem Kurs zeigen dir Anne und Social-Media-Expertin Majena Schritt für Schritt, wie auch du dir mit System und Klarheit eine echte Reichweite aufbaust – ganz ohne 10.000 Follower. Das lernst du in diesem Kurs: •⁠ ⁠Wie du dein Instagram-Profil professionell aufbaust •⁠ ⁠Business- oder Creator-Konto? Das ist der Unterschied •⁠ ⁠Wie du deine Nische findest & deine Zielgruppe ansprichst •⁠ ⁠Welche Content-Formate wirklich Reichweite bringen •⁠ ⁠Wie du deine Inhalte mit Plan & Struktur erstellst •⁠ ⁠Was der Algorithmus 2025 wirklich will •⁠ ⁠Wie du mit Reels sichtbar wirst •⁠ ⁠Wie du mit Hashtags, Storys & Interaktion deine Community aufbaust •⁠ ⁠Wie du deinen Content analysierst und Schritt für Schritt verbesserst Warum dieser Kurs perfekt für dich ist: Wir zeigen dir ganz praktisch, wie du mit Instagram loslegst – ohne dich zu verstellen und ohne stundenlang zu grübeln, was du posten sollst. Starte jetzt und mach Instagram endlich zu deinem Business-Tool! Melde dich an und leg heute noch los.
 
 ## 2. Links
 

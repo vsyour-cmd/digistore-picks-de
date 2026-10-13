@@ -41,71 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Alle 4 Live-Sessions zum Vorteilspreis!</h1>
-<h4>zum Preis von <strong>257,00 EUR inkl. 19% MwSt.</strong></h4>
-<ol>
-<li>
-<p><strong>Transformation akuter Schmerzen, Beeinträchtigungen, Stress, Traumata. </strong></p>
-</li>
-<li>
-<p><strong>Transformation von Ängsten und sonstigen hinderlichen Glaubenssätzen. </strong></p>
-</li>
-<li>
-<p><strong>Transformation von negativen Emotionen aus dem BusinessBereich in Bezug auf z.B.: Verkaufen, Geld, Einwandbehandlung... </strong></p>
-</li>
-<li>
-<p><strong>7-38-55 | Der Davinci Code zur Schatzkiste Deines Potentials </strong></p>
-</li>
-</ol>
-<h2>Für wen ist dieses Angebot besonders geeignet</h2>
-<p>Nur für diejenigen, die Herausforderungen in den folgenden Themenbereichen haben und bereit sind, sich diese Themen anzuschauen, hinein zu fühlen und zu Transformieren, weil die Lösung ist in Dir.</p>
-<ul>
-<li>Business &amp; Finanzen ·        </li>
-<li>Familie &amp; Partnerschaft,</li>
-<li>Gesundheit ·        </li>
-<li>Marketing &amp; Sales ·        </li>
-<li>Persönlichkeit &amp; Berufung</li>
-</ul>
-<h2><strong>Welchen Nutzen / mögliche Verbesserung bietet dir diese Investition</strong></h2>
-<ul>
-<li>Harmonischer Energie-Fluss zwischen Körper, Geist und Seele.  </li>
-<li>Das ist das Ziel und dahin begleite ich Dich in meinen Live-Sessions ONLINE per Zoom.</li>
-<li>Ich werde Dir nichts erzählen, was irgendwo schwarz auf weiß nachzulesen ist.</li>
-</ul>
-<p><strong>Sondern:</strong></p>
-<p style="padding-left:40px;">In Form von Workshops werde ich Dich LIVE miterleben lassen, was es in Dir bewirken kann, damit wir gemeinsam dieses Ziel erreichen</p>
-<h2><strong>Was erwartet Dich / Leistungsbeschreibung:</strong></h2>
-<p>Wir schauen uns gemeinsam Dein</p>
-<ul>
-<li>
-<p>WARUM an</p>
-</li>
-<li>
-<p>WELCHE Symptome Dein Körper aufgrund der dahinter liegenden Themen zeigt</p>
-</li>
-<li>
-<p>WIE wir den Energiefluss in Gang bringen und die Symptome verschwinden</p>
-</li>
-<li>
-<p>WOZU dieses besondere Transformations-Coaching in der Lage ist</p>
-</li>
-</ul>
-<p>Du darfst voller Vorfreude gespannt sein.</p>
-<p>Damit das Ganze gut funktioniert, halte bitte genug STILLES WASSER für Dich bereit und bereite Dich vor, indem Du ein paar Themen aufschreibst, die Dir spontan aus dem Unbewussten in der Sinn kommen.</p>
-<p><strong>Warum jetzt investieren:</strong></p>
-<p>Damit</p>
-<ul>
-<li>
-<p>die Themen hinter den Symptomen gelöst sind und Du wieder in voller Kraft und Authentizität Dein Leben leben kannst, was Du Dir schon lange erträumst.</p>
-</li>
-<li>
-<p>DU DEIN Potential und Deine Berufung erkennen kannst und diese lebst.</p>
-</li>
-<li>
-<p>DU mit Lichtgeschwindigkeit Deine neue Lebensqualität entwickeln kannst, in den Bereichen, die Dir wichtig sind.  </p>
-</li>
-</ul>
-<p><strong>Weil Du zudem gegenüber Einzel-Buchung noch mehr als 50% sparst </strong> <strong> </strong> <strong>Jetzt anmelden und erleben</strong></p>
+**Vendor's marketplace description:** Alle 4 Live-Sessions zum Vorteilspreis! zum Preis von 257,00 EUR inkl. 19% MwSt. Transformation akuter Schmerzen, Beeinträchtigungen, Stress, Traumata. Transformation von Ängsten und sonstigen hinderlichen Glaubenssätzen. Transformation von negativen Emotionen aus dem BusinessBereich in Bezug auf z.B.: Verkaufen, Geld, Einwandbehandlung... 7-38-55 | Der Davinci Code zur Schatzkiste Deines Potentials Für wen ist dieses Angebot besonders geeignet Nur für diejenigen, die Herausforderungen in den folgenden Themenbereichen haben und bereit sind, sich diese Themen anzuschauen, hinein zu fühlen und zu Transformieren, weil die Lösung ist in Dir. Business & Finanzen · Familie & Partnerschaft, Gesundheit · Marketing & Sales · Persönlichkeit & Berufung Welchen Nutzen / mögliche Verbesserung bietet dir diese Investition Harmonischer Energie-Fluss zwischen Körper, Geist und Seele. Das ist das Ziel und dahin begleite ich Dich in meinen Live-Sessions ONLINE per Zoom. Ich werde Dir nichts erzählen, was irgendwo schwarz auf weiß nachzulesen ist. Sondern: In Form von Workshops werde ich Dich LIVE miterleben lassen, was es in Dir bewirken kann, damit wir gemeinsam dieses Ziel erreichen Was erwartet Dich / Leistungsbeschreibung: Wir schauen uns gemeinsam Dein WARUM an WELCHE Symptome Dein Körper aufgrund der dahinter liegenden Themen zeigt WIE wir den Energiefluss in Gang bringen und die Symptome verschwinden WOZU dieses besondere Transformations-Coaching in der Lage ist Du darfst voller Vorfreude gespannt sein. Damit das Ganze gut funktioniert, halte bitte genug STILLES WASSER für Dich bereit und bereite Dich vor, indem Du ein paar Themen aufschreibst, die Dir spontan aus dem Unbewussten in der Sinn kommen. Warum jetzt investieren: Damit die Themen hinter den Symptomen gelöst sind und Du wieder in voller Kraft und Authentizität Dein Leben leben kannst, was Du Dir schon lange erträumst. DU DEIN Potential und Deine Berufung erkennen kannst und diese lebst. DU mit Lichtgeschwindigkeit Deine neue Lebensqualität entwickeln kannst, in den Bereichen, die Dir wichtig sind. Weil Du zudem gegenüber Einzel-Buchung noch mehr als 50% sparst Jetzt anmelden und erleben
 
 ## 2. Links
 

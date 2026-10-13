@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit dem Fumarexin® Partnereintrag werden Therapeutinnen und Therapeuten auf der Fumarexin-Webseite als offizielle Partner gelistet. Interessierte Patientinnen und Patienten können so direkt mit der jeweiligen Praxis in Kontakt treten – per E-Mail, telefonisch oder über die verlinkte Webseite der Praxis.</p>
-<p>Der Partnereintrag erhöht die Sichtbarkeit der Partnerpraxis und ist <strong>verpflichtender Bestandteil</strong> für neue Fumarexin-Partner in Verbindung mit dem Kauf der Therapeutenschulung. <a>https://www.checkout-ds24.com/product/593965</a></p>
-<p>Bitte achten Sie bei der Ansprache möglicher Käufer auf einen <strong>wertschätzenden und seriösen Ton</strong>. Es sollen <strong>keine Heilversprechen</strong> oder garantierten Wirkungen kommuniziert werden. Die Kommunikation sollte sachlich, professionell und informativ sein.</p>
+**Vendor's marketplace description:** Mit dem Fumarexin® Partnereintrag werden Therapeutinnen und Therapeuten auf der Fumarexin-Webseite als offizielle Partner gelistet. Interessierte Patientinnen und Patienten können so direkt mit der jeweiligen Praxis in Kontakt treten – per E-Mail, telefonisch oder über die verlinkte Webseite der Praxis. Der Partnereintrag erhöht die Sichtbarkeit der Partnerpraxis und ist verpflichtender Bestandteil für neue Fumarexin-Partner in Verbindung mit dem Kauf der Therapeutenschulung. https://www.checkout-ds24.com/product/593965 Bitte achten Sie bei der Ansprache möglicher Käufer auf einen wertschätzenden und seriösen Ton . Es sollen keine Heilversprechen oder garantierten Wirkungen kommuniziert werden. Die Kommunikation sollte sachlich, professionell und informativ sein.
 
 ## 2. Links
 

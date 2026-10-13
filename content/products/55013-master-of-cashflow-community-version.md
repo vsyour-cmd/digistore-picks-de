@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Master Of Cashflow | Community Version </p>
-<p> </p>
-<p>Nithilfe von diesem Netzwerk wollen wir dir eine Grundlage vom Online-Geldverdienen geben. </p>
-<p> </p>
-<p><em>Du erhälst:</em></p>
-<p><em> <strong>- Zugang zu einer exklusiven Gruppe mit Menschen die dasselbe Ziel wie du haben</strong> </em></p>
-<p><strong><em>- 5 ausführliche Strategie-Videos</em></strong></p>
-<p><strong><em>- meinen persönlichen Kontakt </em></strong></p>
-<p><strong><em>- 24/7 Support </em></strong></p>
-<p><strong><em>- exklusive Strategien &amp; Methoden , die du direkt einsetzen kannst </em></strong></p>
-<p>Sichere dir ein Platz in unserer Community und somit <strong>deinen Erfolg </strong></p>
+**Vendor's marketplace description:** Master Of Cashflow | Community Version Nithilfe von diesem Netzwerk wollen wir dir eine Grundlage vom Online-Geldverdienen geben. Du erhälst: - Zugang zu einer exklusiven Gruppe mit Menschen die dasselbe Ziel wie du haben - 5 ausführliche Strategie-Videos - meinen persönlichen Kontakt - 24/7 Support - exklusive Strategien & Methoden , die du direkt einsetzen kannst Sichere dir ein Platz in unserer Community und somit deinen Erfolg
 
 ## 2. Links
 

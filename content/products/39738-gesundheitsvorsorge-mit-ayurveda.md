@@ -41,33 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehle das einzigartige Produkt &amp; verdiene passives Einkommen durch unser effektives Ayurveda-Ausbildungskonzept!</p>
-<p>Das Wichtigste für Dich als Marketer zuerst: Bewerbe die Ayurvedaschule, mit der auch Du Geld verdienen kannst:</p>
-<ul>
-<li>20 % Provisionen auf Deine vermittelten Verkäufe + 20 % Provision auf Upsells und Downsells sowie auf Folgeaufträge <strong>(<span style="background-color:#ffff00;">Lifetime<span style="color:#ff0000;">!!!</span></span>)</strong></li>
-<li>Einen Gesundheitsvorsorge-Kurs zum Sonderangebot – als Einstiegsangebot in den Ayurveda.</li>
-<li>Optimierte Verkaufs-Funnel.</li>
-<li>Große Auswahl optimierter Werbemittel: klickstarke Banner, Vorlagen für E-Mail-Texte für mehr Leads und Verkäufe.</li>
-<li>Schnelle und persönliche Unterstützung auf Deutsch durch unser Team Besuche jetzt unser Affiliate Center (= unsere Partnerprogramm-Seite), um noch heute Teil der Ayurveda-Online Familie zu werden!</li>
-</ul>
-<p><strong>Was können die Teilnehmer dieses Onlinekurs „Gesundheitsvorsorge mit Ayurveda“ lernen?</strong></p>
-<p><strong> Lektion 1 - Ayurveda als Gesundheitsvorsorge </strong></p>
-<p>Wie wichtig Gesundheitsvorsorge ist.- Warum man die Ayurveda-Konstitution kennen solltest. - Warum Alterungsprozesse etwas mit dem Lebensstil und der Ernährung zu tun haben.</p>
-<p><strong>Lektion 2 - Ayurveda und die TCM (traditionelle chinesische Medizin) </strong></p>
-<p>Welche Grundprinzipien im Ayurveda und in der TCM Gesundheit initiieren können. - Wie ähnlich diese Prinzipien sind. - Wie man mit Ayurveda eine Grundlage für eine optimale Gesundheit bekommt.<strong>  </strong></p>
-<p><strong>Lektion 3 - Ayurveda und die  Hausapotheke des 21. Jahrhunderts </strong></p>
-<p>Wie man rechtzeitige Impulse setzen kann für mehr Gesundheit. - Wie man durch Rasayanas die Gesundheit stärken kann. - Wie man sich mit einer Ayurveda-Detox-Fastenwoche verjüngst. </p>
-<p><strong>Lektion 4 - Gesundheitsvorsorge - auch für den Geldbeutel </strong></p>
-<p>Wie man dadurch, dass man anderen Menschen etwas empfiehlst, selbst auch einen Nutzen haben. - Wie man mit der eigenen Gesundheit auch anderen Menschen helfen kann. - Wie man mit einer Empfehlung auch zusätzlich einen Ertrag hat. - Neue, zeitgemäße Arten des Geldverdienens neben- oder hauptberuflich.</p>
-<p>Das Wissen ist so aufgearbeitet, dass es auch schnell in der Praxis umgesetzt werden kann.</p>
-<p>Ich habe es mir zum Ziel gemacht Ayurveda-Seminare und Ausbildungen so zu revolutionieren, dass Teilnehmer meiner Angebote alles schnell und effizient Online erlernen und direkt umsetzen können!</p>
-<p>Ohne Reisezeit und ohne Reisekosten.</p>
-<p>Erlernbar sind alle Seminar- und Ausbildungsinhalte bequem von zu Hause aus, das Lernen im eigenen Rhythmus ist so möglich. </p>
-<p>Smarte und effektive Ayurveda-Seminare aus der Praxis für die Praxis.</p>
-<p>Meine 30-jährigen Erfahrungswerte und die Erfahrungswerte der Absolventen meiner Ayurveda-Kurse und Ayurveda-Ausbildungen sind in diesem Kurs mit eingearbeitet.</p>
-<p>Zugang zum Kurs bzw. zur Ausbildung auch nach der Ausbildungszeit, so sind die Ausbildungsinhalte als Wissensdatenbank auch weiterhin abrufbar.</p>
-<p>Das Wissen wird regelmäßig aktualisiert. Alle Updates sind dauerhaft kostenfrei in der Investition für die Seminare / Ausbildungen beinhaltet.  </p>
-<p>Partnerunterstützungsseite: ayurvedaschule-online.de/partnerprogramm/</p>
+**Vendor's marketplace description:** Empfehle das einzigartige Produkt & verdiene passives Einkommen durch unser effektives Ayurveda-Ausbildungskonzept! Das Wichtigste für Dich als Marketer zuerst: Bewerbe die Ayurvedaschule, mit der auch Du Geld verdienen kannst: 20 % Provisionen auf Deine vermittelten Verkäufe + 20 % Provision auf Upsells und Downsells sowie auf Folgeaufträge ( Lifetime !!! ) Einen Gesundheitsvorsorge-Kurs zum Sonderangebot – als Einstiegsangebot in den Ayurveda. Optimierte Verkaufs-Funnel. Große Auswahl optimierter Werbemittel: klickstarke Banner, Vorlagen für E-Mail-Texte für mehr Leads und Verkäufe. Schnelle und persönliche Unterstützung auf Deutsch durch unser Team Besuche jetzt unser Affiliate Center (= unsere Partnerprogramm-Seite), um noch heute Teil der Ayurveda-Online Familie zu werden! Was können die Teilnehmer dieses Onlinekurs „Gesundheitsvorsorge mit Ayurveda“ lernen? Lektion 1 - Ayurveda als Gesundheitsvorsorge Wie wichtig Gesundheitsvorsorge ist.- Warum man die Ayurveda-Konstitution kennen solltest. - Warum Alterungsprozesse etwas mit dem Lebensstil und der Ernährung zu tun haben. Lektion 2 - Ayurveda und die TCM (traditionelle chinesische Medizin) Welche Grundprinzipien im Ayurveda und in der TCM Gesundheit initiieren können. - Wie ähnlich diese Prinzipien sind. - Wie man mit Ayurveda eine Grundlage für eine optimale Gesundheit bekommt. Lektion 3 - Ayurveda und die Hausapotheke des 21. Jahrhunderts Wie man rechtzeitige Impulse setzen kann für mehr Gesundheit. - Wie man durch Rasayanas die Gesundheit stärken kann. - Wie man sich mit einer Ayurveda-Detox-Fastenwoche verjüngst. Lektion 4 - Gesundheitsvorsorge - auch für den Geldbeutel Wie man dadurch, dass man anderen Menschen etwas empfiehlst, selbst auch einen Nutzen haben. - Wie man mit der eigenen Gesundheit auch anderen Menschen helfen kann. - Wie man mit einer Empfehlung auch zusätzlich einen Ertrag hat. - Neue, zeitgemäße Arten des Geldverdienens neben- oder hauptberuflich. Das Wissen ist so aufgearbeitet, dass es auch schnell in der Praxis umgesetzt werden kann. Ich habe es mir zum Ziel gemacht Ayurveda-Seminare und Ausbildungen so zu revolutionieren, dass Teilnehmer meiner Angebote alles schnell und effizient Online erlernen und direkt umsetzen können! Ohne Reisezeit und ohne Reisekosten. Erlernbar sind alle Seminar- und Ausbildungsinhalte bequem von zu Hause aus, das Lernen im eigenen Rhythmus ist so möglich. Smarte und effektive Ayurveda-Seminare aus der Praxis für die Praxis. Meine 30-jährigen Erfahrungswerte und die Erfahrungswerte der Absolventen meiner Ayurveda-Kurse und Ayurveda-Ausbildungen sind in diesem Kurs mit eingearbeitet. Zugang zum Kurs bzw. zur Ausbildung auch nach der Ausbildungszeit, so sind die Ausbildungsinhalte als Wissensdatenbank auch weiterhin abrufbar. Das Wissen wird regelmäßig aktualisiert. Alle Updates sind dauerhaft kostenfrei in der Investition für die Seminare / Ausbildungen beinhaltet. Partnerunterstützungsseite: ayurvedaschule-online.de/partnerprogramm/
 
 ## 2. Links
 

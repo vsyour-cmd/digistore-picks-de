@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Etsy skalieren“</strong></p>
-<p>Bestseller-Strategien, SEO und Automatisierung – Ein paar Verkäufe sind ein Anfang. Bestseller-Strategien, Etsy-SEO, Etsy Ads, Prozesse und Auslagern sowie der Aufbau von Marke und Stammkunden. Für Fortgeschrittene.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Vom Hobby-Shop zum echten Geschäft</li>
-<li>Bestseller verstehen und Sortiment ausbauen</li>
-<li>Etsy-SEO, Sichtbarkeit und Ads gezielt nutzen</li>
-<li>Marke, Stammkunden und Zahlen im Griff</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Etsy skalieren“ Bestseller-Strategien, SEO und Automatisierung – Ein paar Verkäufe sind ein Anfang. Bestseller-Strategien, Etsy-SEO, Etsy Ads, Prozesse und Auslagern sowie der Aufbau von Marke und Stammkunden. Für Fortgeschrittene. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Vom Hobby-Shop zum echten Geschäft Bestseller verstehen und Sortiment ausbauen Etsy-SEO, Sichtbarkeit und Ads gezielt nutzen Marke, Stammkunden und Zahlen im Griff
 
 ## 2. Links
 

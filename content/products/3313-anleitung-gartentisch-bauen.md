@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Gartentisch selber bauen</h1>
-<p>Hier bekommt man <strong>eine komplette Bauanleitung</strong> wie man einen massiven und stabilen Gartentisch f&uuml;r <strong>unter 100 Euro</strong> Materialwert selber bauen kann. Die Anleitung beinhaltet Bilder, Texte und Zeichnungen f&uuml;r die einzelnen Schritte. Mehr dazu auf <a href="http://www.gartentisch-bauen.de" target="_blank">www.gartentisch-bauen.de</a> -<strong> Es lohnt sich! <br /></strong></p>
+**Vendor's marketplace description:** Gartentisch selber bauen Hier bekommt man eine komplette Bauanleitung wie man einen massiven und stabilen Gartentisch f&uuml;r unter 100 Euro Materialwert selber bauen kann. Die Anleitung beinhaltet Bilder, Texte und Zeichnungen f&uuml;r die einzelnen Schritte. Mehr dazu auf www.gartentisch-bauen.de - Es lohnt sich!
 
 ## 2. Links
 

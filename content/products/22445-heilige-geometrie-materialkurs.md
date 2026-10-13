@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div style="text-align:left;">
-<div align="center"><strong><span style="font-size:14pt;line-height:115%;color:#000000;">Von Andreas Beutel</span></strong></div>
-<div align="center"><strong><span style="font-size:28pt;line-height:115%;color:#c00000;">Entdecke die Heilige Geometrie mit den richtigen Werkzeugen!</span></strong></div>
-</div>
-<p align="center"><strong><span style="font-size:14pt;line-height:115%;color:#000000;">Entdecke die Freude an der Geometrie der Natur für Dich! </span></strong></p>
-<h4 class="MsoNormal" style="margin-bottom:0.0001pt;">Was Du in diesem Materialkurs bekommst:</h4>
-<ul style="list-style-type:disc;">
-<li>1h15 Video in HD Qualität in 6 Kapiteln</li>
-<li>1 Bonuskapitel Handhabung des Zirkels (17 min)</li>
-<li>Mit 4 Kameras aufgenommen für beste Sichtbarkeit</li>
-<li>Wiederholt abrufbar</li>
-<li>Das beste praktische Wissen zur Geometrie</li>
-</ul>
+**Vendor's marketplace description:** Von Andreas Beutel Entdecke die Heilige Geometrie mit den richtigen Werkzeugen! Entdecke die Freude an der Geometrie der Natur für Dich! Was Du in diesem Materialkurs bekommst: 1h15 Video in HD Qualität in 6 Kapiteln 1 Bonuskapitel Handhabung des Zirkels (17 min) Mit 4 Kameras aufgenommen für beste Sichtbarkeit Wiederholt abrufbar Das beste praktische Wissen zur Geometrie
 
 ## 2. Links
 

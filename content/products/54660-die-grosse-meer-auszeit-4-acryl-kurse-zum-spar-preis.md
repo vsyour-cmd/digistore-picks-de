@@ -41,40 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Die Grosse Meer-Auszeit - 4 Acryl-Kurse zum Spar-Preis - Malen mit Anke</h1>
-<p>Brauchst du eine echte Pause vom Alltag, die dir Freude und neue Kraft schenkt? Dann tauch ein in die schöne Welt von Strand, Gräsern und Licht – ganz gemütlich bei dir zuhause. Dieses Paket schenkt dir <strong>vier entspannte Mal-Momente</strong> am Meer.</p>
-<p><strong>Das ist alles drin in deinem Paket:</strong></p>
-<p>Du bekommst <strong>4 komplette Kurs-Aufzeichnungen</strong> zum Thema <strong>Meer und Küste</strong>. Wenn du die Kurse einzeln kaufst, zahlst du 96 €. Du sparst sofort <strong>14 €</strong> (das sind 15 %) und kannst mit diesen vier Motiven anfangen:</p>
-<ul>
-<li>
-<p>Leuchtturm im Sonnenuntergang</p>
-</li>
-<li>
-<p>Dünen im Abendlicht</p>
-</li>
-<li>
-<p>Dünen, Gräser und Meer</p>
-</li>
-<li>
-<p>Abend am Meer im Vollmond</p>
-</li>
-</ul>
-<p><strong>Dein Vorteil: So einfach und entspannt startest du:</strong></p>
-<ul>
-<li>
-<p><strong>4x Schritt-für-Schritt:</strong> Du malst jedes Bild von den ersten Strichen bis zum fertigen Ergebnis einfach mit – perfekt für jeden Anfänger.</p>
-</li>
-<li>
-<p><strong>Bonus-Geschenk:</strong> Der <strong>Mini-Ratgeber „Start in die Acrylmalerei“ als PDF</strong> ist sofort dabei!</p>
-</li>
-<li>
-<p><strong>Über 6 Stunden Malfreude:</strong> Du hast über 6 Stunden reine Malzeit und kannst jederzeit pausieren und dein Tempo wählen.</p>
-</li>
-</ul>
-<p>Im Kauf enthalten:</p>
-<p><strong>Materiallisten &amp; Malvorlagen</strong></p>
-<p>Nach dem Kauf erhältst du sofort eine E-Mail mit deinen Downloads – die Dateien gehören ganz dir. Speichere sie auf Computer, Tablet oder Handy und male, wann immer dir danach ist.</p>
-<p><span style="background-color:#cc99ff;"><strong>15% Rabatt mit dem Gutschein Code: Meerbundle</strong></span></p>
+**Vendor's marketplace description:** Die Grosse Meer-Auszeit - 4 Acryl-Kurse zum Spar-Preis - Malen mit Anke Brauchst du eine echte Pause vom Alltag, die dir Freude und neue Kraft schenkt? Dann tauch ein in die schöne Welt von Strand, Gräsern und Licht – ganz gemütlich bei dir zuhause. Dieses Paket schenkt dir vier entspannte Mal-Momente am Meer. Das ist alles drin in deinem Paket: Du bekommst 4 komplette Kurs-Aufzeichnungen zum Thema Meer und Küste . Wenn du die Kurse einzeln kaufst, zahlst du 96 €. Du sparst sofort 14 € (das sind 15 %) und kannst mit diesen vier Motiven anfangen: Leuchtturm im Sonnenuntergang Dünen im Abendlicht Dünen, Gräser und Meer Abend am Meer im Vollmond Dein Vorteil: So einfach und entspannt startest du: 4x Schritt-für-Schritt: Du malst jedes Bild von den ersten Strichen bis zum fertigen Ergebnis einfach mit – perfekt für jeden Anfänger. Bonus-Geschenk: Der Mini-Ratgeber „Start in die Acrylmalerei“ als PDF ist sofort dabei! Über 6 Stunden Malfreude: Du hast über 6 Stunden reine Malzeit und kannst jederzeit pausieren und dein Tempo wählen. Im Kauf enthalten: Materiallisten & Malvorlagen Nach dem Kauf erhältst du sofort eine E-Mail mit deinen Downloads – die Dateien gehören ganz dir. Speichere sie auf Computer, Tablet oder Handy und male, wann immer dir danach ist. 15% Rabatt mit dem Gutschein Code: Meerbundle
 
 ## 2. Links
 

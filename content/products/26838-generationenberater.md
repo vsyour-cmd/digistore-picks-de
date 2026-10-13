@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><img src="http://www.gb-online.de/digistoreDankeSeite/digistore_GB_Preisetikett_Komplett.jpg" alt="digistore_GB_Preisetikett_Komplett.jpg" /></strong></p>
-<p><strong>Der GenerationenBerater bietet Ihnen die Möglichkeit individueller und flexibler Generationenberatung. Themen wie Sorgerecht, Testament, Patientenverfügung etc. können inkl. Notizen und ToDo-Listen Schritt für Schritt bearbeitet und strukturiert erledigt werden.</strong><br /><br /><strong>Ebenso findet diese Anwendung als Cross-Selling-Werkzeug Verwendung, wenn es darum geht, Themen wie Altersvorsorge oder Absicherung im gesamten verwandtschaftlichen Umfeld anzusprechen.</strong> <br /><br />Der Aufruf der Anwendung erfolgt auf Ihrem Rechner oder Ihrem Tablet mittels Browser-Anwendung. <br /><br /><strong>Somit steht Ihnen der GenerationenBerater als plattformunabhängige WebApp online zur Verfügung. Eine Offline-Nutzung ist ebenfalls gewährleistet.</strong></p>
-<p> </p>
-<p>Kündigungsfrist: 3 Monate vor Ablauf der 12 monatigen Laufzeit. Gilt ab Leistungsdatum lt. erster Rechnungslegung;<br /> <br />Update-/Release-Versionen im lfd. Jahr: - kostenfrei -</p>
+**Vendor's marketplace description:** Der GenerationenBerater bietet Ihnen die Möglichkeit individueller und flexibler Generationenberatung. Themen wie Sorgerecht, Testament, Patientenverfügung etc. können inkl. Notizen und ToDo-Listen Schritt für Schritt bearbeitet und strukturiert erledigt werden. Ebenso findet diese Anwendung als Cross-Selling-Werkzeug Verwendung, wenn es darum geht, Themen wie Altersvorsorge oder Absicherung im gesamten verwandtschaftlichen Umfeld anzusprechen. Der Aufruf der Anwendung erfolgt auf Ihrem Rechner oder Ihrem Tablet mittels Browser-Anwendung. Somit steht Ihnen der GenerationenBerater als plattformunabhängige WebApp online zur Verfügung. Eine Offline-Nutzung ist ebenfalls gewährleistet. Kündigungsfrist: 3 Monate vor Ablauf der 12 monatigen Laufzeit. Gilt ab Leistungsdatum lt. erster Rechnungslegung; Update-/Release-Versionen im lfd. Jahr: - kostenfrei -
 
 ## 2. Links
 

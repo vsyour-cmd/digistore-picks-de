@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffcc00;"><strong>Sie erhalten 25% Provision - auf jede jährliche Zahlung -</strong><span style="font-family:'Helvetica Neue';"><strong> </strong>auf unsere Büro-Kaizen Akademie.</span> </span></p>
-<h2><span style="color:#000000;">Die E-Learning Plattform für digitales Arbeiten</span></h2>
-<p>Hier erhalten Sie ständig neue Online-Kurse und News zu digitalem Arbeiten mit Microsoft und Office 365.</p>
-<p>Zusätzlich können Sie Ihre Fragen und Anmerkungen mit der Community und den Experten aus unserem Büro-Kaizen Team teilen.</p>
-<p>Unsre Online-Lernplattform beinhaltet:</p>
-<p>✅<span style="font-family:'Helvetica Neue';"> 14 Online-Kurse </span></p>
-<p>✅<span style="font-family:'Helvetica Neue';"> Permanente Updates </span></p>
-<p>✅<span style="font-family:'Helvetica Neue';"> News z.B. aus dem Silicon Valley oder China</span></p>
-<p>✅<span style="font-family:'Helvetica Neue';"> Die Büro-Kaizen Community</span></p>
-<p>✅<span style="font-family:'Helvetica Neue';"> Online Support</span></p>
-<p>✅<span style="font-family:'Helvetica Neue';"> Content pur…</span></p>
-<h2><strong><span style="color:#ff9900;">Online lernen digital zu arbeiten!</span></strong></h2>
-<p>➡️ Auf persönliche Anfrage stehen zahlreiche Tools und Vertriebsmittel inkl. Webinar zur Verfügung.</p>
-<p> </p>
-<p>Hinweis: Bitte beachten Sie die Werberichtlinien unter: <a href="https://akademie.buero-kaizen.de/affiliate/">https://akademie.buero-kaizen.de/affiliate/</a> </p>
+**Vendor's marketplace description:** Sie erhalten 25% Provision - auf jede jährliche Zahlung - auf unsere Büro-Kaizen Akademie. Die E-Learning Plattform für digitales Arbeiten Hier erhalten Sie ständig neue Online-Kurse und News zu digitalem Arbeiten mit Microsoft und Office 365. Zusätzlich können Sie Ihre Fragen und Anmerkungen mit der Community und den Experten aus unserem Büro-Kaizen Team teilen. Unsre Online-Lernplattform beinhaltet: ✅ 14 Online-Kurse ✅ Permanente Updates ✅ News z.B. aus dem Silicon Valley oder China ✅ Die Büro-Kaizen Community ✅ Online Support ✅ Content pur… Online lernen digital zu arbeiten! ➡️ Auf persönliche Anfrage stehen zahlreiche Tools und Vertriebsmittel inkl. Webinar zur Verfügung. Hinweis: Bitte beachten Sie die Werberichtlinien unter: https://akademie.buero-kaizen.de/affiliate/
 
 ## 2. Links
 

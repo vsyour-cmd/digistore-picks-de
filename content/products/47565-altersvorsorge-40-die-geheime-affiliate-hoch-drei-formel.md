@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Brandneuer Videokurs: Die geheime Affiliate Hoch Drei Formel wird kostenlos angeboten<br /></strong></p>
-<p>Entdecke noch heute die geheime Strategie, mit der Du ohne Vorkenntnisse  sofort dreimal mehr Provisonen generieren kannst!</p>
-<p>Erster Schritt: Systeme io und sein Affiliate Programm</p>
-<p>Zweiter Schritt: Eigener Freebie Funnel zur Lead-und Provisionsgenerierung</p>
-<p>Dritter Schritt: Passives Einkommen durch Partnerprogramme</p>
-<p>Die ganze Strategie ist ohne eigenes Produkt oder Angebot leicht umsetzbar</p>
-<p>Zugang zum geschützten Mitgliederbereich erfolgt kostenlos</p>
+**Vendor's marketplace description:** Brandneuer Videokurs: Die geheime Affiliate Hoch Drei Formel wird kostenlos angeboten Entdecke noch heute die geheime Strategie, mit der Du ohne Vorkenntnisse sofort dreimal mehr Provisonen generieren kannst! Erster Schritt: Systeme io und sein Affiliate Programm Zweiter Schritt: Eigener Freebie Funnel zur Lead-und Provisionsgenerierung Dritter Schritt: Passives Einkommen durch Partnerprogramme Die ganze Strategie ist ohne eigenes Produkt oder Angebot leicht umsetzbar Zugang zum geschützten Mitgliederbereich erfolgt kostenlos
 
 ## 2. Links
 

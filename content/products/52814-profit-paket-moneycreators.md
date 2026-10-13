@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Profitiere auf 50% Provision auf dieses Produkt + alle Addons + Upsells</p>
-<p> </p>
-<p><strong>Profit Paket by MoneyCreators – Alle Kurse. Ein Preis. Unbegrenzte Möglichkeiten.</strong><br />Tauche ein in die Welt des smarten Online-Geldverdienens. Mit dem <em>Profit Paket</em> erhältst du <strong>Zugang zu über 15 erprobten Kursen</strong>, die dir zeigen, wie du ohne Startkapital, ohne Vorwissen und mit Hilfe von KI, Social Media und digitalen Tools <strong>dein eigenes Einkommen aufbaust</strong> – bequem von zu Hause aus.</p>
-<p>Für nur <strong>49€ einmalig</strong> bekommst du:</p>
-<ul>
-<li>
-<p>Schritt-für-Schritt-Anleitungen aus der Praxis</p>
-</li>
-<li>
-<p>Zugriff auf alle aktuellen und zukünftigen Kurse (solang das Abo aktiv ist)</p>
-</li>
-<li>
-<p>Technisch einfache Umsetzungen – auch für Anfänger</p>
-</li>
-<li>
-<p>Direkt anwendbares Wissen, das Ergebnisse liefert</p>
-</li>
-</ul>
+**Vendor's marketplace description:** Profitiere auf 50% Provision auf dieses Produkt + alle Addons + Upsells Profit Paket by MoneyCreators – Alle Kurse. Ein Preis. Unbegrenzte Möglichkeiten. Tauche ein in die Welt des smarten Online-Geldverdienens. Mit dem Profit Paket erhältst du Zugang zu über 15 erprobten Kursen , die dir zeigen, wie du ohne Startkapital, ohne Vorwissen und mit Hilfe von KI, Social Media und digitalen Tools dein eigenes Einkommen aufbaust – bequem von zu Hause aus. Für nur 49€ einmalig bekommst du: Schritt-für-Schritt-Anleitungen aus der Praxis Zugriff auf alle aktuellen und zukünftigen Kurse (solang das Abo aktiv ist) Technisch einfache Umsetzungen – auch für Anfänger Direkt anwendbares Wissen, das Ergebnisse liefert
 
 ## 2. Links
 

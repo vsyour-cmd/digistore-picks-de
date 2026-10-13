@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Immobilien für Einsteiger“</strong></p>
-<p>Dein Weg zur ersten vermieteten Wohnung – Information und Bildung, keine Beratung. Chancen und Risiken abwägen, Lage und Objekt bewerten, die Finanzierung verstehen und richtig kalkulieren. Wertsteigerung ist nicht garantiert.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 17,45 € pro Verkauf (Verkaufspreis 34,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Chancen und Risiken einer Immobilie ehrlich abwägen</li>
-<li>Lage, Objekt und Zustand richtig bewerten</li>
-<li>Sauber kalkulieren: Nebenkosten, Cashflow, Rendite</li>
-<li>Vermietung, Recht und Steuern im Griff behalten</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Immobilien für Einsteiger“ Dein Weg zur ersten vermieteten Wohnung – Information und Bildung, keine Beratung. Chancen und Risiken abwägen, Lage und Objekt bewerten, die Finanzierung verstehen und richtig kalkulieren. Wertsteigerung ist nicht garantiert. Warum dieses E-Book bewerben? 50 % Provision – ca. 17,45 € pro Verkauf (Verkaufspreis 34,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Chancen und Risiken einer Immobilie ehrlich abwägen Lage, Objekt und Zustand richtig bewerten Sauber kalkulieren: Nebenkosten, Cashflow, Rendite Vermietung, Recht und Steuern im Griff behalten
 
 ## 2. Links
 

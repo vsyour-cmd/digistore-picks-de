@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <ul>
-<li style="text-align:left;">Das Komplettpaket – Alle 21 Ratgeber für ein besseres Leben | 50% Provision</li>
-</ul>
-<p> </p>
-<p>Bewirb unser größtes Bundle: alle 21 Ratgeber aus dem gesamten Sortiment (Neurodivergenz, Stress, Geld &amp; Zukunft, Lebensphasen, inneres Wachstum) zum Bestpreis von 148€ statt 567€ – 74% Ersparnis.</p>
-<p> </p>
-<p>Das Komplettpaket verkauft sich besonders gut bei Zielgruppen, die bereits Interesse an einzelnen Themen gezeigt haben, denn der Gesamtpreis ist unschlagbar attraktiv. Perfekt für große Reichweiten, Newsletter oder Rabattseiten. Du erhältst 50% Provision auf jeden Verkauf, dazu fertige Werbemittel (Social-Media-Posts, E-Mail-Vorlagen) direkt im Partnerprogramm.</p>
-<p> </p>
-<p>Zielgruppe: alle, die sich für persönliche Weiterentwicklung interessieren und lieber einmal richtig zuschlagen statt einzeln nachzukaufen.</p>
+**Vendor's marketplace description:** Das Komplettpaket – Alle 21 Ratgeber für ein besseres Leben | 50% Provision Bewirb unser größtes Bundle: alle 21 Ratgeber aus dem gesamten Sortiment (Neurodivergenz, Stress, Geld & Zukunft, Lebensphasen, inneres Wachstum) zum Bestpreis von 148€ statt 567€ – 74% Ersparnis. Das Komplettpaket verkauft sich besonders gut bei Zielgruppen, die bereits Interesse an einzelnen Themen gezeigt haben, denn der Gesamtpreis ist unschlagbar attraktiv. Perfekt für große Reichweiten, Newsletter oder Rabattseiten. Du erhältst 50% Provision auf jeden Verkauf, dazu fertige Werbemittel (Social-Media-Posts, E-Mail-Vorlagen) direkt im Partnerprogramm. Zielgruppe: alle, die sich für persönliche Weiterentwicklung interessieren und lieber einmal richtig zuschlagen statt einzeln nachzukaufen.
 
 ## 2. Links
 

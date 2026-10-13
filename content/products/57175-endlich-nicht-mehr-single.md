@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Endlich nicht mehr Single“</strong></p>
-<p>Der Praxisplan zum Kennenlernen – Der komplette Schritt-für-Schritt-Plan vom Singleleben zur erfüllten Beziehung – mit echten Geschichten, Skripten und Übungen für jeden Tag.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 12,45 € pro Verkauf (Verkaufspreis 24,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Ein klarer 8-Wochen-Plan – du weißt jeden Tag, was zu tun ist</li>
-<li>Wortwörtliche Gesprächs- und Nachrichten-Beispiele zum Nachmachen</li>
-<li>Die häufigsten Selbstsabotage-Muster erkennen und auflösen</li>
-<li>Online &amp; offline souverän ins Gespräch kommen</li>
-<li>Aus dem ersten Date eine echte Beziehung entwickeln</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Endlich nicht mehr Single“ Der Praxisplan zum Kennenlernen – Der komplette Schritt-für-Schritt-Plan vom Singleleben zur erfüllten Beziehung – mit echten Geschichten, Skripten und Übungen für jeden Tag. Warum dieses E-Book bewerben? 50 % Provision – ca. 12,45 € pro Verkauf (Verkaufspreis 24,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Ein klarer 8-Wochen-Plan – du weißt jeden Tag, was zu tun ist Wortwörtliche Gesprächs- und Nachrichten-Beispiele zum Nachmachen Die häufigsten Selbstsabotage-Muster erkennen und auflösen Online & offline souverän ins Gespräch kommen Aus dem ersten Date eine echte Beziehung entwickeln
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Treue Abonnenten gewinnen, eine aktive Community führen und Reichweite monetarisieren</strong></p>
-<p>WhatsApp ist der direkteste Kanal, den du als Creator haben kannst: kein Algorithmus zwischen dir und deiner Community, Öffnungsraten jenseits der 80 Prozent und echte Gespräche statt anonymer Likes. Dieses E-Book zeigt dir, wie du einen Kanal aufbaust, der loyale Abonnenten anzieht, wie du mit Communities und Gruppen eine aktive Fan-Base formst und wie du diese Nähe monetarisierst – durch exklusiven Content, Affiliate-Links oder direkte Produktangebote. Du lernst, wie du Click-to-WhatsApp-Links von anderen Plattformen gezielt einsetzt, um dein Publikum auf den Kanal zu holen, und wie du dort eine Atmosphäre schaffst, in der deine Community gerne bleibt und weiterempfiehlt.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Kanal-Wachstum mit Click-to-WhatsApp-Links von Instagram, TikTok &amp; Co.</li>
-<li>Community vs. Gruppe vs. Kanal: das richtige Format für deine Ziele</li>
-<li>Exklusiven Content erstellen, der Abonnenten hält und neue anzieht</li>
-<li>Deine Community aktivieren: Umfragen, Reaktionen und Direktkontakt</li>
-<li>Monetarisierung: Affiliate-Links, Produktempfehlungen und Paid-Content</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Treue Abonnenten gewinnen, eine aktive Community führen und Reichweite monetarisieren WhatsApp ist der direkteste Kanal, den du als Creator haben kannst: kein Algorithmus zwischen dir und deiner Community, Öffnungsraten jenseits der 80 Prozent und echte Gespräche statt anonymer Likes. Dieses E-Book zeigt dir, wie du einen Kanal aufbaust, der loyale Abonnenten anzieht, wie du mit Communities und Gruppen eine aktive Fan-Base formst und wie du diese Nähe monetarisierst – durch exklusiven Content, Affiliate-Links oder direkte Produktangebote. Du lernst, wie du Click-to-WhatsApp-Links von anderen Plattformen gezielt einsetzt, um dein Publikum auf den Kanal zu holen, und wie du dort eine Atmosphäre schaffst, in der deine Community gerne bleibt und weiterempfiehlt. Das steckt drin: Kanal-Wachstum mit Click-to-WhatsApp-Links von Instagram, TikTok & Co. Community vs. Gruppe vs. Kanal: das richtige Format für deine Ziele Exklusiven Content erstellen, der Abonnenten hält und neue anzieht Deine Community aktivieren: Umfragen, Reaktionen und Direktkontakt Monetarisierung: Affiliate-Links, Produktempfehlungen und Paid-Content Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

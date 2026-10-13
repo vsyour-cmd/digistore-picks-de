@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>ChakrenEnergetik ist Olivers tiefes Programm zur Arbeit mit den sieben Hauptchakren – fundiert, praxisnah und ohne esoterische Floskeln. Wer Stufe 1 bucht, bucht erfahrungsgemäß sehr oft auch Stufe 2 und das ChakrenLicht-Bundle.</p>
-<p><strong>Was dich erwartet</strong></p>
-<ul>
-<li>20 % lifetime Provision pro Verkauf (= 28,80 € bei ChakrenEnergetik 1)</li>
-<li>Hohe Folgekauf-Quote: ChakrenEnergetik 2 + ChakrenLicht-Paket laufen unter deiner Lifetime-Zuordnung</li>
-<li>Mittlerer Preisbereich – attraktive Provision, ohne High-Ticket-Hürde</li>
-<li>Klar abgegrenzte Zielgruppe (Energiearbeit, Chakrenlehre)</li>
-<li>Lifetime-Kundenzuordnung nach Erstkauf</li>
-<li><a href="https://magierschule.de/werbemittel" target="_blank" rel="noreferrer noopener">Klickstarke Werbemittel: Banner, Mailtexte, Social-Snippets</a></li>
-</ul>
-<p><strong>Der Funnel (entscheidender Vorteil):</strong> ChakrenEnergetik ist eines der stabilsten Themen im spirituellen Markt – konstantes Suchvolumen, klare Zielgruppe, wenig Erklärungsbedarf. Du empfiehlst Stufe 1 als natürlichen Einstieg – Stufe 2 und das Bundle entstehen automatisch über Olivers interne Sequenzen, alles auf deine Affiliate-ID.</p>
-<p><strong>Für wen das passt</strong> Energiearbeiter, Yogalehrer, Heilpraktiker, Reiki-Lehrer, spirituelle Coaches und Creator im Bereich Chakren, Aura, Meditation und feinstoffliche Wahrnehmung.</p>
+**Vendor's marketplace description:** ChakrenEnergetik ist Olivers tiefes Programm zur Arbeit mit den sieben Hauptchakren – fundiert, praxisnah und ohne esoterische Floskeln. Wer Stufe 1 bucht, bucht erfahrungsgemäß sehr oft auch Stufe 2 und das ChakrenLicht-Bundle. Was dich erwartet 20 % lifetime Provision pro Verkauf (= 28,80 € bei ChakrenEnergetik 1) Hohe Folgekauf-Quote: ChakrenEnergetik 2 + ChakrenLicht-Paket laufen unter deiner Lifetime-Zuordnung Mittlerer Preisbereich – attraktive Provision, ohne High-Ticket-Hürde Klar abgegrenzte Zielgruppe (Energiearbeit, Chakrenlehre) Lifetime-Kundenzuordnung nach Erstkauf Klickstarke Werbemittel: Banner, Mailtexte, Social-Snippets Der Funnel (entscheidender Vorteil): ChakrenEnergetik ist eines der stabilsten Themen im spirituellen Markt – konstantes Suchvolumen, klare Zielgruppe, wenig Erklärungsbedarf. Du empfiehlst Stufe 1 als natürlichen Einstieg – Stufe 2 und das Bundle entstehen automatisch über Olivers interne Sequenzen, alles auf deine Affiliate-ID. Für wen das passt Energiearbeiter, Yogalehrer, Heilpraktiker, Reiki-Lehrer, spirituelle Coaches und Creator im Bereich Chakren, Aura, Meditation und feinstoffliche Wahrnehmung.
 
 ## 2. Links
 

@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>eBook: "Gesunde Ernährung mit Kindern"</p>
-<p> </p>
-<p>Die Ernährung spielt täglich eine zentrale Rolle im Leben als Familie. Für unsere Kinder ist eine gesunde ausgewogene Ernährung ein wichtiges Fundament für ihre Zukunft. Sie beeinflusst nicht nur ihre körperliche Gesundheit, sondern auch die geistige und emotionale Entwicklung.</p>
-<p> </p>
-<p>Aber wie gelingt es, unseren Kindern eine ausgewogene Ernährung näherzubringen, ohne dass sie sich eingeschränkt oder bevormundet fühlen? Es geht darum, sie spielerisch in den Prozess einzubeziehen, sie für gesunde Nahrungsmittel zu begeistern und gleichzeitig ein Bewusstsein für den eigenen Körper zu schaffen.</p>
-<p> </p>
-<p>In diesem Buch zeige ich dir, wie du deine Kinder mit einfachen, leckeren Rezepten für jede Gelegenheit für gesunde Ernährung begeistern kannst. Es geht auch darum, Kinder darin zu unterstützen, achtsam auf ihre Körpersignale zu hören und ihre eigenen Bedürfnisse zu verstehen und so nicht nur eine gesunde Ernährung zu etablieren, sondern auch eine gesunde Beziehung zu Lebensmitteln und zum eigenen Körper.</p>
-<p> </p>
-<p>Mit praktischen Tipps, wie du den Alltag stressfrei und gesund gestalten kannst und kreativen Ideen, wie du Mahlzeiten zu gemeinsamen Erlebnissen machst, möchte ich dir zeigen, dass gesunde Ernährung Spaß macht und gleichzeitig ein wichtiger Baustein für das Wohlbefinden deiner Kinder ist.</p>
-<p> </p>
-<p>In diesem Buch findest du:</p>
-<p>- Tipps, wie ihr als Familie entspannt zu einer gesunden industriezuckerfreien Ernährung findet.</p>
-<p>- Mehr als 60 industriezuckerfreie Rezepte für Frühstück, Mittagessen, Abendessen und Snacks.</p>
-<p>- Praktische Hilfen für eure Essens-Planung.</p>
-<p> </p>
-<p>Ich wünsche dir viel Spaß beim Ausprobieren der Rezepte und danke dir für dein Vertrauen!</p>
+**Vendor's marketplace description:** eBook: "Gesunde Ernährung mit Kindern" Die Ernährung spielt täglich eine zentrale Rolle im Leben als Familie. Für unsere Kinder ist eine gesunde ausgewogene Ernährung ein wichtiges Fundament für ihre Zukunft. Sie beeinflusst nicht nur ihre körperliche Gesundheit, sondern auch die geistige und emotionale Entwicklung. Aber wie gelingt es, unseren Kindern eine ausgewogene Ernährung näherzubringen, ohne dass sie sich eingeschränkt oder bevormundet fühlen? Es geht darum, sie spielerisch in den Prozess einzubeziehen, sie für gesunde Nahrungsmittel zu begeistern und gleichzeitig ein Bewusstsein für den eigenen Körper zu schaffen. In diesem Buch zeige ich dir, wie du deine Kinder mit einfachen, leckeren Rezepten für jede Gelegenheit für gesunde Ernährung begeistern kannst. Es geht auch darum, Kinder darin zu unterstützen, achtsam auf ihre Körpersignale zu hören und ihre eigenen Bedürfnisse zu verstehen und so nicht nur eine gesunde Ernährung zu etablieren, sondern auch eine gesunde Beziehung zu Lebensmitteln und zum eigenen Körper. Mit praktischen Tipps, wie du den Alltag stressfrei und gesund gestalten kannst und kreativen Ideen, wie du Mahlzeiten zu gemeinsamen Erlebnissen machst, möchte ich dir zeigen, dass gesunde Ernährung Spaß macht und gleichzeitig ein wichtiger Baustein für das Wohlbefinden deiner Kinder ist. In diesem Buch findest du: - Tipps, wie ihr als Familie entspannt zu einer gesunden industriezuckerfreien Ernährung findet. - Mehr als 60 industriezuckerfreie Rezepte für Frühstück, Mittagessen, Abendessen und Snacks. - Praktische Hilfen für eure Essens-Planung. Ich wünsche dir viel Spaß beim Ausprobieren der Rezepte und danke dir für dein Vertrauen!
 
 ## 2. Links
 

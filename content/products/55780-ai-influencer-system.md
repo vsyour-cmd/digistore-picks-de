@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>⭐ Das #1 KI-Influencer-Produkt in Deutschland! | VSL</strong><br /><br /></h2>
-<div><strong>Geld verdienen mit KI-Influencern ist gerade extrem heiß! Sichere dir jetzt deinen Teil von diesem revolutionären neuen Business-Modell, bewirb das KI-Influencer-System und verdiene massive Provisionen!</strong></div>
-<div>
-<div> </div>
-</div>
-<p><strong>✔︎</strong> Revolutionäres Produkt in einem komplett neuen Business-Modell!</p>
-<p><strong>✔︎</strong> Erstellt von erfahrenen Digistore-Vendoren!</p>
-<p><strong>✔︎</strong> Aussergewöhnlich hohe Provision!</p>
-<p><strong>✔︎</strong> Hohe Conversion auf Frontend + Upsells!</p>
-<p><strong>✔︎</strong> Top Support für Affiliates</p>
-<p> </p>
-<p><em><strong>Klicke jetzt auf den Button um zu den Werbemittel zu gelangen!</strong></em></p>
-<p><a href="https://aifluencersystem.de/partnerprogramm/" target="_blank" rel="noreferrer noopener"><img src="https://www.digistore24-app.com/pb/img/merchant_831468/image/orderform_image/BR1WKQDS.png" alt="Beschreibung des Bildes" width="200" /></a></p>
-<p> </p>
-<p> </p>
-<p>Bei Fragen schreibe uns eine E-Mail an <span style="color:#0000ff;"><a href="mailto:info@coaching.business-kickstart.de">info@coaching.business-kickstart.de</a></span></p>
-<p> </p>
+**Vendor's marketplace description:** ⭐ Das #1 KI-Influencer-Produkt in Deutschland! | VSL Geld verdienen mit KI-Influencern ist gerade extrem heiß! Sichere dir jetzt deinen Teil von diesem revolutionären neuen Business-Modell, bewirb das KI-Influencer-System und verdiene massive Provisionen! ✔︎ Revolutionäres Produkt in einem komplett neuen Business-Modell! ✔︎ Erstellt von erfahrenen Digistore-Vendoren! ✔︎ Aussergewöhnlich hohe Provision! ✔︎ Hohe Conversion auf Frontend + Upsells! ✔︎ Top Support für Affiliates Klicke jetzt auf den Button um zu den Werbemittel zu gelangen! Bei Fragen schreibe uns eine E-Mail an info@coaching.business-kickstart.de
 
 ## 2. Links
 

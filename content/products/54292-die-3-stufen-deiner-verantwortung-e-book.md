@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>„Erfolg beginnt mit Verantwortung – das E-Book, das Leben verändert!“</strong></p>
-<p> </p>
+**Vendor's marketplace description:** „Erfolg beginnt mit Verantwortung – das E-Book, das Leben verändert!“
 
 ## 2. Links
 

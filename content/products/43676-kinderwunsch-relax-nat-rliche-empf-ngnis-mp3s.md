@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#ff00ff;"><strong>AFFILIATE-TIPP!</strong></span> <br />Ein weiteres praxiserprobtes Meditations- und Hypnose-Download-Produkt <strong>Kinderwunsch-Relax©</strong> von Kathrin Steinke für das Schwangerwerden auf "natürlichem Weg". Das Produkt "Natürliche Empfängnis" mit 5 Übungen gibt es exklusiv nur hier auf Digistore24 zu kaufen.</p>
-<p>Seit 2014 hat Kinderwunsch-Relax© bereits viele hunderte Frauen auf dem Weg zu ihrer Schwangerschaft begleitet.</p>
-<p>Alle <strong>Infos</strong>, <strong>Hörproben</strong> und <strong>Erfahrungsberichte</strong> findest du auf der Webseite:</p>
-<p><a href="https://www.kinderwunsch-in-berlin.de/kinderwunsch-relax-natuerliche-empfaengnis.htm">https://www.kinderwunsch-in-berlin.de/kinderwunsch-relax-natuerliche-empfaengnis.htm</a></p>
-<p><strong>Lieferumfang:</strong></p>
-<p>Kinderwunsch-Relax© Natürliche Empfängnis bietet dir 5 thematisch auf den Zyklus abgestimmte Hypnoseübungen mit Entspannungsmusik, die deine Chancen erhöhen können, auf natürlichem Wege schwanger zu werden:</p>
-<p>1. Erste Zyklushälfte » Eizellreifung (17:34 Minuten)</p>
-<p>2. Zyklusmitte &amp; Eisprung » Empfangen (19:10 Minuten)</p>
-<p>3. Zweite Zyklushälfte » Einnistung (17:31 Minuten)</p>
-<p>4. Erste Schwangerschaftswochen » Halten &amp; Wachsen (18:20 Minuten)</p>
-<p>5. Menstruation » Loslassen &amp; Reinigen (19:32 Minuten) <strong><br /></strong></p>
-<p><strong>Gesamtdauer</strong>: 92:07 Minute</p>
+**Vendor's marketplace description:** AFFILIATE-TIPP! Ein weiteres praxiserprobtes Meditations- und Hypnose-Download-Produkt Kinderwunsch-Relax© von Kathrin Steinke für das Schwangerwerden auf "natürlichem Weg". Das Produkt "Natürliche Empfängnis" mit 5 Übungen gibt es exklusiv nur hier auf Digistore24 zu kaufen. Seit 2014 hat Kinderwunsch-Relax© bereits viele hunderte Frauen auf dem Weg zu ihrer Schwangerschaft begleitet. Alle Infos , Hörproben und Erfahrungsberichte findest du auf der Webseite: https://www.kinderwunsch-in-berlin.de/kinderwunsch-relax-natuerliche-empfaengnis.htm Lieferumfang: Kinderwunsch-Relax© Natürliche Empfängnis bietet dir 5 thematisch auf den Zyklus abgestimmte Hypnoseübungen mit Entspannungsmusik, die deine Chancen erhöhen können, auf natürlichem Wege schwanger zu werden: 1. Erste Zyklushälfte » Eizellreifung (17:34 Minuten) 2. Zyklusmitte & Eisprung » Empfangen (19:10 Minuten) 3. Zweite Zyklushälfte » Einnistung (17:31 Minuten) 4. Erste Schwangerschaftswochen » Halten & Wachsen (18:20 Minuten) 5. Menstruation » Loslassen & Reinigen (19:32 Minuten) Gesamtdauer : 92:07 Minute
 
 ## 2. Links
 

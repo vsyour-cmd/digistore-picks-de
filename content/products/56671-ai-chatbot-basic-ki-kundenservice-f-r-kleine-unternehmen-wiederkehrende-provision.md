@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb einen KI-Chatbot, den praktisch jedes kleine Unternehmen gebrauchen kann. Der <strong>AI ChatBot Basic</strong> beantwortet Kundenanfragen automatisch rund um die Uhr – häufige Fragen, Leistungen, Preise, Öffnungszeiten – und leitet Kontaktanfragen an E-Mail oder Telefon weiter.</p>
-<p><strong>Warum sich die Bewerbung lohnt:</strong></p>
-<ul>
-<li>Klares Angebot: 500 € einmalige Einrichtung + 150 € monatlich (Wartung &amp; Hosting)</li>
-<li>20 % Provision auf die Einrichtung UND auf jede monatliche Rate – wiederkehrendes Einkommen</li>
-<li>Riesige Zielgruppe: Millionen kleiner Betriebe ohne digitalen Kundenservice</li>
-<li>30 Tage Geld-zurück-Garantie senkt die Kaufhürde spürbar</li>
-</ul>
-<p><strong>Ideale Zielgruppe für deine Werbung:</strong> Inhaber kleiner und mittlerer Unternehmen, lokale Dienstleister, Handwerksbetriebe, Arzt- und Therapiepraxen, Coaches und Berater.</p>
-<p>Anbieter: HeltAIum – KI- und Automatisierungslösungen für Unternehmen.</p>
+**Vendor's marketplace description:** Bewirb einen KI-Chatbot, den praktisch jedes kleine Unternehmen gebrauchen kann. Der AI ChatBot Basic beantwortet Kundenanfragen automatisch rund um die Uhr – häufige Fragen, Leistungen, Preise, Öffnungszeiten – und leitet Kontaktanfragen an E-Mail oder Telefon weiter. Warum sich die Bewerbung lohnt: Klares Angebot: 500 € einmalige Einrichtung + 150 € monatlich (Wartung & Hosting) 20 % Provision auf die Einrichtung UND auf jede monatliche Rate – wiederkehrendes Einkommen Riesige Zielgruppe: Millionen kleiner Betriebe ohne digitalen Kundenservice 30 Tage Geld-zurück-Garantie senkt die Kaufhürde spürbar Ideale Zielgruppe für deine Werbung: Inhaber kleiner und mittlerer Unternehmen, lokale Dienstleister, Handwerksbetriebe, Arzt- und Therapiepraxen, Coaches und Berater. Anbieter: HeltAIum – KI- und Automatisierungslösungen für Unternehmen.
 
 ## 2. Links
 

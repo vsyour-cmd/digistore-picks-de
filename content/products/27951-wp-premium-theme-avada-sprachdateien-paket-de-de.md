@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><span style="color:#333399;">Das WP-Premium Theme - AVADA - zu 100% in deutscher Sprache nutzen und anwenden</span></h1>
-<h2><span style="color:#ff6600;">Wir haben die dafür erforderlichen Sprachdateien zu 100% für Ihre Kunden übersetzt.</span></h2>
-<h3>Darauf haben viele deutsche - AVADA - Anwender bereits gewartet</h3>
-<ul>
-<li>Ab sofort könne Ihre Kunden die mächtigen Anwendungsmöglichkeiten des AVADA Theme zu 100% in deutscher Sprache nutzen.</li>
-<li>Die erforderlichen AVADA Plugin Dateien sind ebenfalls zu 100% in deutscher Sprache von uns übersetzt.</li>
-<li>Die deutschen Sprachdateien für das AVADA Theme werden von den Kunden einfach in die erforderlichen Verzeichnisse kopiert.</li>
-<li>Somit ist die deutsche Sprache zu 100% für eine komfortable Anwendung des AVADA Themes gewährleistet.</li>
-</ul>
-<p><strong>Das AVADA Sprachdateien Paket de_DE umfasst die .mo &amp; .po Dateien für:</strong></p>
-<ol>
-<li><strong>AVADA - Theme</strong></li>
-<li><strong>AVADA - Theme - Fusion Core</strong></li>
-<li><strong>AVADA - Theme - Fusion Builder</strong></li>
-<li><strong>AVADA - Theme - White Label Branding</strong></li>
-</ol>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Das WP-Premium Theme - AVADA - zu 100% in deutscher Sprache nutzen und anwenden Wir haben die dafür erforderlichen Sprachdateien zu 100% für Ihre Kunden übersetzt. Darauf haben viele deutsche - AVADA - Anwender bereits gewartet Ab sofort könne Ihre Kunden die mächtigen Anwendungsmöglichkeiten des AVADA Theme zu 100% in deutscher Sprache nutzen. Die erforderlichen AVADA Plugin Dateien sind ebenfalls zu 100% in deutscher Sprache von uns übersetzt. Die deutschen Sprachdateien für das AVADA Theme werden von den Kunden einfach in die erforderlichen Verzeichnisse kopiert. Somit ist die deutsche Sprache zu 100% für eine komfortable Anwendung des AVADA Themes gewährleistet. Das AVADA Sprachdateien Paket de_DE umfasst die .mo & .po Dateien für: AVADA - Theme AVADA - Theme - Fusion Core AVADA - Theme - Fusion Builder AVADA - Theme - White Label Branding
 
 ## 2. Links
 

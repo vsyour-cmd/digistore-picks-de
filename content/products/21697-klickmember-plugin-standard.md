@@ -41,44 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<h2>Das Schweizer Messer für Klick-Tipp Anwender: Opt-Ins, Membership, Bezahlte Inhalte mit WooCommerce + Digistore Schnittstelle</h2>
-</div>
-</div>
-<div>
-<div>
-<p>Unser <strong>neues</strong> <strong>multi-funktionales</strong> <strong>KlickMember Plugin für WordPress </strong>ermöglicht viele extrem nützliche Funktionen in nur einem Plugin. Das Multitalent für jeden Klick-Tipp Anwender!</p>
-</div>
-</div>
-</div>
-<div> </div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p><strong>Funktionen:</strong></p>
-<ul><li><strong>mit wenigen Klicks</strong> Opt-In Formulare erstellen und mit Klick-Tipp verbinden</li>
-<li><strong>Geschützte Seiten und Menüpunkte </strong>basierend auf Klick-Tipp Tags aufbauen</li>
-<li><strong>Membership-Funktion:</strong> Nach Kauf (Digistore24) oder Registrierung (z.B. mit Ultimate Member) kann ein Benutzer auf Seiten zugreifen, wenn er ein dafür wählbares Klick-Tipp Tag hat – Membership made easy!</li>
-<li><strong>WooCommerce</strong> mit Klick-Tipp verbinden: Kunden werden abhängig vom gekauften Produkt in Klick-Tipp mit Tags versehen</li>
-<li><strong>Digistore-Integration</strong>: Käufe bei Digistore führen zur Kundenanlage in WordPress incl. Membership</li>
-<li><strong>Neu: elopage Integration</strong>: Käufe können im eigenen oder fremden Namen über elopage abgewickelt werden.</li>
-<li><strong>Benutzer-Registrierung</strong> für Probekurse und Kennenlern-Angebote in WordPress und Klick-Tipp paralllel</li>
-</ul><p>Das Plugin arbeitet dabei <strong>unabhängig vom verwendeten Theme</strong>.</p>
-<p>Voraussetzung ist die API-Funktion, welche in Klick-Tipp ab Version <a>Premium </a>und in der Klick-Tipp Enterprise Version enthalten ist.</p>
-<p>Standard-Lizenz = Einsatz auf <strong>einer Domain</strong>.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Das Schweizer Messer für Klick-Tipp Anwender: Opt-Ins, Membership, Bezahlte Inhalte mit WooCommerce + Digistore Schnittstelle Unser neues multi-funktionales KlickMember Plugin für WordPress ermöglicht viele extrem nützliche Funktionen in nur einem Plugin. Das Multitalent für jeden Klick-Tipp Anwender! Funktionen: mit wenigen Klicks Opt-In Formulare erstellen und mit Klick-Tipp verbinden Geschützte Seiten und Menüpunkte basierend auf Klick-Tipp Tags aufbauen Membership-Funktion: Nach Kauf (Digistore24) oder Registrierung (z.B. mit Ultimate Member) kann ein Benutzer auf Seiten zugreifen, wenn er ein dafür wählbares Klick-Tipp Tag hat – Membership made easy! WooCommerce mit Klick-Tipp verbinden: Kunden werden abhängig vom gekauften Produkt in Klick-Tipp mit Tags versehen Digistore-Integration : Käufe bei Digistore führen zur Kundenanlage in WordPress incl. Membership Neu: elopage Integration : Käufe können im eigenen oder fremden Namen über elopage abgewickelt werden. Benutzer-Registrierung für Probekurse und Kennenlern-Angebote in WordPress und Klick-Tipp paralllel Das Plugin arbeitet dabei unabhängig vom verwendeten Theme . Voraussetzung ist die API-Funktion, welche in Klick-Tipp ab Version Premium und in der Klick-Tipp Enterprise Version enthalten ist. Standard-Lizenz = Einsatz auf einer Domain .
 
 ## 2. Links
 

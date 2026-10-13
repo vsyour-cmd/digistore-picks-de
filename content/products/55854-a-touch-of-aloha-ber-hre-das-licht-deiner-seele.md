@@ -41,51 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div> </div>
-<div>
-<div>
-<h2>THE TOUCH OF ALOHA |</h2>
-<h2>Berühre das Licht deiner Seele | Mitgliederbereich und Video-Kurse</h2>
-<div> </div>
-</div>
-<div>
-<div><a>Verkaufsseite </a></div>
-<div><a>Affiliate-Support-Seite </a></div>
-</div>
-</div>
-<div>
-<div>
-<h2>229,97 €</h2>
-<p>Verdienst Netto/Verkauf*</p>
-<div>Promolink kopieren</div>
-</div>
-<div>
-<div>     </div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<h1><strong>The Touch of Aloha<br /></strong></h1>
-<h1><strong>Die Online-Jahresreise mit Thomas Young</strong></h1>
-<p><strong>Bewerbung jetzt möglich! - Werbezeitraum ab sofort'</strong></p>
-<p><strong>Wir starten am 19.04.2026</strong></p>
-<p>In A TOUCH OF ALOHA werden die Teilnehmer ganz praktisch und aktiv ein Jahr eingeladen, sich mit den spezifischen Qualitäten, Stärken und Begabungen der Hawaiianischen Heilmysterien zu verbinden. Die in 13 Einweihungsschritten aufeinander abgestimmten Module und einzigartigen, der Verankerung dienenden, Meditationen, Impulse, Überraschungen, und Live Calls mit Thomas führen die Teilnehmer in ihr INNERES PARADIES und machen sie gleichzeitig vertraut mit dem geheimen Wissen der Kahunas Hawaii's und den aktuellen Herzlehren.</p>
-<h1> </h1>
-<p>Thomas Young ist Bestsellerautor und erfolgreicher Weisheitslehrer, der seit über 20 Jahren seine Heilerfahrungen mit unzähligen Kursteilnehmern in der ganzen Welt teilt. Dieser Kurs umfasst die Quintessenz und populärsten Meditationen seiner Herzlehren. Die grosse Liebe, welche die hawaiianischen Kahunas zur Schöpfung, zur Natur, zum Leben tragen, wird diese Jahresreise tief durchwirken und die Teilnehmer in eine neue Art der Rückverbindung führen.</p>
-<p>Der Kurs enthält viele Bonuse, Meditationen und Extras, was deine Conversion steigert:</p>
-<h5>13  Video-Sessions mit 13 Intensiv-Meditationen</h5>
-<h5>plus Online-Live-Events, Workbook und vieles mehr . .</h5>
-<h4>Werde daher jetzt zu unserem Partner und empfiehl deinen Kontakten unsere Jahresreise: <strong>THE TOUCH OF ALOHA.</strong></h4>
-<div>Wir freuen uns auf Dich!</div>
-<div>Team Thomas Young</div>
-</div>
-</div>
-Weniger anzeigen</div>
-</div>
+**Vendor's marketplace description:** THE TOUCH OF ALOHA | Berühre das Licht deiner Seele | Mitgliederbereich und Video-Kurse Verkaufsseite Affiliate-Support-Seite 229,97 € Verdienst Netto/Verkauf* Promolink kopieren The Touch of Aloha Die Online-Jahresreise mit Thomas Young Bewerbung jetzt möglich! - Werbezeitraum ab sofort' Wir starten am 19.04.2026 In A TOUCH OF ALOHA werden die Teilnehmer ganz praktisch und aktiv ein Jahr eingeladen, sich mit den spezifischen Qualitäten, Stärken und Begabungen der Hawaiianischen Heilmysterien zu verbinden. Die in 13 Einweihungsschritten aufeinander abgestimmten Module und einzigartigen, der Verankerung dienenden, Meditationen, Impulse, Überraschungen, und Live Calls mit Thomas führen die Teilnehmer in ihr INNERES PARADIES und machen sie gleichzeitig vertraut mit dem geheimen Wissen der Kahunas Hawaii's und den aktuellen Herzlehren. Thomas Young ist Bestsellerautor und erfolgreicher Weisheitslehrer, der seit über 20 Jahren seine Heilerfahrungen mit unzähligen Kursteilnehmern in der ganzen Welt teilt. Dieser Kurs umfasst die Quintessenz und populärsten Meditationen seiner Herzlehren. Die grosse Liebe, welche die hawaiianischen Kahunas zur Schöpfung, zur Natur, zum Leben tragen, wird diese Jahresreise tief durchwirken und die Teilnehmer in eine neue Art der Rückverbindung führen. Der Kurs enthält viele Bonuse, Meditationen und Extras, was deine Conversion steigert: 13 Video-Sessions mit 13 Intensiv-Meditationen plus Online-Live-Events, Workbook und vieles mehr . . Werde daher jetzt zu unserem Partner und empfiehl deinen Kontakten unsere Jahresreise: THE TOUCH OF ALOHA. Wir freuen uns auf Dich! Team Thomas Young Weniger anzeigen
 
 ## 2. Links
 

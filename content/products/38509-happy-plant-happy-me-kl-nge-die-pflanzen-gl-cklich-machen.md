@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>NEU! NEU! NEU!</strong></p>
-<p><strong>Partizipiere von einer sehr großen Zielgruppe von Pflanzenliebhabern und von Menschen, die eine enge, spirituelle Verbundenheit zur Pflanzenwelt und der Natur verspüren. Nahezu in jedem Haushalt leben Zimmerpflanzen (auch für Gartenpflanzen geeignet!).</strong></p>
-<p><span style="color:#ffffff;background-color:#339966;"><strong> Du erhälst faire &amp; wohlverdiente 50% Provison! </strong></span></p>
-<p>Das <strong>Happy Plant - Happy Me Bundle</strong> enthält 3 Alben zur Energetisierung von Gießwasser, eine Meditation um sich mit Mutter Erde zu verbinden und ein eBook zur Kommunikation mit Pflanzen.</p>
-<p> </p>
-<p>Mit heilenden Klängen, kraftvollen Affirmationen, Biofrequenzen und anderen effektiven systematischen Verfahren <strong>angereichertes Gießwasser</strong> unterstützt Pflanzen dabei:</p>
-<ul>
-<li>Energien freizusetzen um in Fülle und Pracht zu wachsen</li>
-<li>Liebe &amp; Dankbarkeit anzunehmen um würdevoll zu gedeihen</li>
-<li>Widerstandsfähigkeit gegenüber Krankheiten und Schädlingen zu entwickeln</li>
-<li>bestrebt zu sein, ausgiebige und reiche Ernten zu schenken</li>
-</ul>
-<p> </p>
-<p>Die im Bundle enthaltene <strong>Meditation "Mutter Erde - Verbundenheit</strong>" soll dem Pflanzenfreund helfen, eine tiefe Verbundenheit zu Mutter Erde aufzubauen und inneren Frieden zu empfinden. </p>
-<p>Das <strong>eBook "Wie man mit Pflanzen spricht - Plant Spirit"</strong>  ist eine Anleitung, wie man mit Pflanzen spricht und welchen Nutzen uns diese Kommunikation, sowohl für die Gesundheit der Pflanze, als auch für die eigene mentale Gesundheit, bringt. Diese Gespräche schaffen eine tiefere Verbindung zwischen dir und der Natur und leiten Prozesse der Heilung auf allen Ebenen ein.</p>
-<p><span style="background-color:#339966;color:#ffffff;"><strong> Du erhälst faire &amp; wohlverdiente 50%Provison!</strong> </span></p>
+**Vendor's marketplace description:** NEU! NEU! NEU! Partizipiere von einer sehr großen Zielgruppe von Pflanzenliebhabern und von Menschen, die eine enge, spirituelle Verbundenheit zur Pflanzenwelt und der Natur verspüren. Nahezu in jedem Haushalt leben Zimmerpflanzen (auch für Gartenpflanzen geeignet!). Du erhälst faire & wohlverdiente 50% Provison! Das Happy Plant - Happy Me Bundle enthält 3 Alben zur Energetisierung von Gießwasser, eine Meditation um sich mit Mutter Erde zu verbinden und ein eBook zur Kommunikation mit Pflanzen. Mit heilenden Klängen, kraftvollen Affirmationen, Biofrequenzen und anderen effektiven systematischen Verfahren angereichertes Gießwasser unterstützt Pflanzen dabei: Energien freizusetzen um in Fülle und Pracht zu wachsen Liebe & Dankbarkeit anzunehmen um würdevoll zu gedeihen Widerstandsfähigkeit gegenüber Krankheiten und Schädlingen zu entwickeln bestrebt zu sein, ausgiebige und reiche Ernten zu schenken Die im Bundle enthaltene Meditation "Mutter Erde - Verbundenheit " soll dem Pflanzenfreund helfen, eine tiefe Verbundenheit zu Mutter Erde aufzubauen und inneren Frieden zu empfinden. Das eBook "Wie man mit Pflanzen spricht - Plant Spirit" ist eine Anleitung, wie man mit Pflanzen spricht und welchen Nutzen uns diese Kommunikation, sowohl für die Gesundheit der Pflanze, als auch für die eigene mentale Gesundheit, bringt. Diese Gespräche schaffen eine tiefere Verbindung zwischen dir und der Natur und leiten Prozesse der Heilung auf allen Ebenen ein. Du erhälst faire & wohlverdiente 50%Provison!
 
 ## 2. Links
 

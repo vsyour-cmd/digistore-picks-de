@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>24 Menüs aus Madeira“ – das liebevoll gestaltete Kochbuch für alle, die die Inselküche lieben!</strong>   <br /><br /></p>
-<p><strong>Zielgruppe:</strong> <br />Madeira-Fans, Portugal-Reisende, Genießer:innen, Foodies, Auswanderer, Kochbuchsammler</p>
-<p><strong>Produkt:</strong> <br />265 Seiten | 72 authentische Rezepte | 24 Orte mit Geschichten und Menüs</p>
-<p><strong>Format:</strong> <br />E-Book als PDF-Download (kein Versand – sofort verfügbar)</p>
-<p><strong>Sprache:</strong> Deutsch &amp; Englisch verfügbar  </p>
-<p><strong>Provision für Affiliates: </strong><strong>25 % pro Verkauf!</strong></p>
-<p>Einfache Bewerbung über Newsletter, Blog, Pinterest, Facebook oder Instagram – das Thema trifft den Nerv vieler Zielgruppen!  </p>
-<p>✅ Hochwertige Salespage</p>
-<p>✅ Emotionale Ansprache + klare Vorteile für Leser:innen</p>
-<p>✅ Funktioniert für kulinarische, touristische &amp; portugiesischsprachige Communities <strong> </strong></p>
-<p><strong>Tipp:</strong> <br />Ideal für Affiliate-Einsteiger:innen, Food-Blogger:innen, Reiseportale oder Auswanderer-Communities!  </p>
-<p><strong> Jetzt bewerben und mit jedem Verkauf verdienen:<br /></strong> [Hier deinen Affiliate-Link einfügen]</p>
+**Vendor's marketplace description:** 24 Menüs aus Madeira“ – das liebevoll gestaltete Kochbuch für alle, die die Inselküche lieben! Zielgruppe: Madeira-Fans, Portugal-Reisende, Genießer:innen, Foodies, Auswanderer, Kochbuchsammler Produkt: 265 Seiten | 72 authentische Rezepte | 24 Orte mit Geschichten und Menüs Format: E-Book als PDF-Download (kein Versand – sofort verfügbar) Sprache: Deutsch & Englisch verfügbar Provision für Affiliates: 25 % pro Verkauf! Einfache Bewerbung über Newsletter, Blog, Pinterest, Facebook oder Instagram – das Thema trifft den Nerv vieler Zielgruppen! ✅ Hochwertige Salespage ✅ Emotionale Ansprache + klare Vorteile für Leser:innen ✅ Funktioniert für kulinarische, touristische & portugiesischsprachige Communities Tipp: Ideal für Affiliate-Einsteiger:innen, Food-Blogger:innen, Reiseportale oder Auswanderer-Communities! Jetzt bewerben und mit jedem Verkauf verdienen: [Hier deinen Affiliate-Link einfügen]
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>interaktive Survival-Module direkt im Browser, komplett offline nutzbar: Heilpflanzen erkennen, Feuer machen, Wasser aufbereiten, Shelter bauen, Erste Hilfe. Zielgruppe: Prepper, Outdoor-Fans, Wanderer, alle mit Interesse an Selbstversorgung/Wildnis-Wissen. Niedriger Preis sorgt für hohe Impulskauf-Rate. Kein Abo, keine Cloud, funktioniert auch ganz ohne Internet unterwegs.</p>
+**Vendor's marketplace description:** interaktive Survival-Module direkt im Browser, komplett offline nutzbar: Heilpflanzen erkennen, Feuer machen, Wasser aufbereiten, Shelter bauen, Erste Hilfe. Zielgruppe: Prepper, Outdoor-Fans, Wanderer, alle mit Interesse an Selbstversorgung/Wildnis-Wissen. Niedriger Preis sorgt für hohe Impulskauf-Rate. Kein Abo, keine Cloud, funktioniert auch ganz ohne Internet unterwegs.
 
 ## 2. Links
 

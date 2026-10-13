@@ -41,30 +41,8 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p> </p>
-<div>
-<div>
-<div>
-<div>
-<div> </div>
-<div>
-<div> </div>
-</div>
-</div>
-</div>
-</div>
-<div>
-<pre><code>Das Bauherren-Schutz-Paket richtet sich an Hausbesitzer und 
-Renovierer, die sich rechtlich absichern wollen. 5 professionelle 
-Vorlagen für Bauprojekte: Mängelrüge, Abnahmeprotokoll, 
-Auftragsbestätigung und mehr – sofort als Download verfügbar.
-
-Zielgruppe: Hausbesitzer, Bauherren, Renovierer in Deutschland
-Provision: 30% | Preis: 24,90€ | EK: ca. 7,47€ pro Verkauf
-
-Ideal für Affiliates im Bereich Immobilien, Bauen, Wohnen, Recht.</code></pre>
-</div>
-</div>
+**Vendor's marketplace description:** Das Bauherren-Schutz-Paket richtet sich an Hausbesitzer und Renovierer, die sich rechtlich absichern wollen. 5 professionelle Vorlagen für Bauprojekte: Mängelrüge, Abnahmeprotokoll, Auftragsbestätigung und mehr – sofort als Download verfügbar. Zielgruppe: Hausbesitzer, Bauherren, Renovierer in Deutschland
+Provision: 30% | Preis: 24,90€ | EK: ca. 7,47€ pro Verkauf Ideal für Affiliates im Bereich Immobilien, Bauen, Wohnen, Recht.
 
 ## 2. Links
 

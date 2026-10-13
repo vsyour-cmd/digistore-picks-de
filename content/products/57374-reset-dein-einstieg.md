@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>21 Decodierung mit KArin und Kerstin Schimkus - die Aufzeichnung. Sie sind Mentorinnen und führen dich in ihre Welt der Neuorganisiation. Sie zeigen dir, wie sie es alt Unternehmerinnen schaffen, täglich im Fokus zu bleiben, sich auszurichten und sich immer neu zu organisieren.</p>
-<p>5 Zoomcallaufzeichnungen + 10 Specialcallaufzeichnungen und 5 Hypnosesessions in der Resetgruppe. Dauer 21 Tage.</p>
+**Vendor's marketplace description:** 21 Decodierung mit KArin und Kerstin Schimkus - die Aufzeichnung. Sie sind Mentorinnen und führen dich in ihre Welt der Neuorganisiation. Sie zeigen dir, wie sie es alt Unternehmerinnen schaffen, täglich im Fokus zu bleiben, sich auszurichten und sich immer neu zu organisieren. 5 Zoomcallaufzeichnungen + 10 Specialcallaufzeichnungen und 5 Hypnosesessions in der Resetgruppe. Dauer 21 Tage.
 
 ## 2. Links
 

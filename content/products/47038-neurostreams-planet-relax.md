@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>10 Neurostreams™ zum sicheren Erreichen einer tiefen, stabilen Entspannung. </p>
-<p><strong>Sofort-Download.</strong></p>
-<p>Jede dieser 10 abwechslungsreichen Sessions dauert 30 Minuten.</p>
-<p><strong>Unbedingt</strong> Stereo-Kopfhörer benutzen!</p>
-<p>Die mp3-Dateien kann man auf praktisch jedes Endgerät herunterladen: Computer, Laptop, Netbook, Tablet, iPad, SmartPhone, iPhone, Android. Windows, Apple oder Linux.</p>
-<p>Alle Neurostreams™ sind auf mehrere Abspielgeräte übertragbar und können beliebig oft angehört werden!</p>
-<p><strong>2 Jahre</strong> Produktsupport inklusive.</p>
+**Vendor's marketplace description:** 10 Neurostreams™ zum sicheren Erreichen einer tiefen, stabilen Entspannung. Sofort-Download. Jede dieser 10 abwechslungsreichen Sessions dauert 30 Minuten. Unbedingt Stereo-Kopfhörer benutzen! Die mp3-Dateien kann man auf praktisch jedes Endgerät herunterladen: Computer, Laptop, Netbook, Tablet, iPad, SmartPhone, iPhone, Android. Windows, Apple oder Linux. Alle Neurostreams™ sind auf mehrere Abspielgeräte übertragbar und können beliebig oft angehört werden! 2 Jahre Produktsupport inklusive.
 
 ## 2. Links
 

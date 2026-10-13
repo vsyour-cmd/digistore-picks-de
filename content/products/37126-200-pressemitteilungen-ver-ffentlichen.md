@@ -41,41 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Kundenakquise-Dienstleistung um für deine Kunden </strong></h2>
-<h2><strong>A) 200 oder mehr Pressemitteilungen für ein Webprojekt inklusive Backlinks zu veröffentlichen </strong></h2>
-<h2><strong><br />B) Einen Artikel auf unseren Nischenseiten zu veröffentlichen, um Traffic abzustauben<br /></strong></h2>
-<h2><strong><br />C) Push-Nachrichten korrekt auf der Webseite einzurichten</strong></h2>
-<h2> </h2>
-<h2><strong>D) Ein E-Book zu veröffentlichen (Bei Bedarf auch zu schreiben) und direkt in den Verkauf zu bringen</strong></h2>
-<h2><strong>E) 2 Relevante Backlinks für dein Web-Projekt zu erstellen</strong></h2>
-<h2><strong>F) Ein Banner mit Link auf unseren passenden Webseiten zu etablieren</strong></h2>
-<p> </p>
-<p> </p>
-<h2><strong>Du wirst bei dieser Dienstleistung zu 10% beteiligt.<br /></strong></h2>
-<p><strong>10 Gründe, warum du unsere Produkte bewerben solltest:</strong></p>
-<ul>
-<li><strong>Sofortprovision bei Bestellung dieses Produktes<br /></strong></li>
-<li><strong>50% dauerhafte Beteiligung an allen Abbo-Produkten <br /></strong></li>
-<li><strong>60% Provision auf alle Videokurse Einmalzahlprodukte</strong></li>
-<li><strong>Du bekommst Anleitungen zum optimalen Bewerben der Produkte</strong></li>
-<li>
-<p><strong>Hohe Verkaufsraten in der Geld im Internet verdienen Nische, da es Mehr für weniger Geld gibt<br /></strong></p>
-</li>
-<li>
-<p><strong>Vollautomatische Auszahlung deiner Provision durch Digistore24</strong></p>
-</li>
-<li><strong>keine überteuerten Produkte und dadurch geringe Stornoquote</strong></li>
-<li>
-<p><strong>Produkte, die Menschen wirklich helfen und es nicht nur vorgaukeln<br /></strong></p>
-</li>
-<li>
-<p><strong>Lars-Support (Ich helfe Dir, wenn du etwas nicht verstehst)<br /></strong></p>
-</li>
-<li>
-<p><strong>Ausführliche und ständige Conversion Optimierung</strong><strong><br /></strong></p>
-</li>
-</ul>
-<p><strong>Wichtig: Klicke jetzt unten rechts auf „Affiliate Support-Seite“ und erfahre konkret, wie du loslegen kannst, damit Du noch heute deine ersten Provisionen erhalten kannst!</strong></p>
+**Vendor's marketplace description:** Kundenakquise-Dienstleistung um für deine Kunden A) 200 oder mehr Pressemitteilungen für ein Webprojekt inklusive Backlinks zu veröffentlichen B) Einen Artikel auf unseren Nischenseiten zu veröffentlichen, um Traffic abzustauben C) Push-Nachrichten korrekt auf der Webseite einzurichten D) Ein E-Book zu veröffentlichen (Bei Bedarf auch zu schreiben) und direkt in den Verkauf zu bringen E) 2 Relevante Backlinks für dein Web-Projekt zu erstellen F) Ein Banner mit Link auf unseren passenden Webseiten zu etablieren Du wirst bei dieser Dienstleistung zu 10% beteiligt. 10 Gründe, warum du unsere Produkte bewerben solltest: Sofortprovision bei Bestellung dieses Produktes 50% dauerhafte Beteiligung an allen Abbo-Produkten 60% Provision auf alle Videokurse Einmalzahlprodukte Du bekommst Anleitungen zum optimalen Bewerben der Produkte Hohe Verkaufsraten in der Geld im Internet verdienen Nische, da es Mehr für weniger Geld gibt Vollautomatische Auszahlung deiner Provision durch Digistore24 keine überteuerten Produkte und dadurch geringe Stornoquote Produkte, die Menschen wirklich helfen und es nicht nur vorgaukeln Lars-Support (Ich helfe Dir, wenn du etwas nicht verstehst) Ausführliche und ständige Conversion Optimierung Wichtig: Klicke jetzt unten rechts auf „Affiliate Support-Seite“ und erfahre konkret, wie du loslegen kannst, damit Du noch heute deine ersten Provisionen erhalten kannst!
 
 ## 2. Links
 

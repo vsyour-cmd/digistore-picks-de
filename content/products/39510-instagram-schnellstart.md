@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Instagram Schnellstart</strong></p>
-<h4><strong>50% Provision für Dich + 50% Provision am Orderbump</strong></h4>
-<h4> </h4>
-<p>Lerne von A-Z wie du ein erfolgreichen Instagram Account aufbaust, Reichweite und Kunden generierst.</p>
-<ul>
-<li>Zielgruppe frei definierbar, da Instagram für jede Nische wichtig ist.</li>
-<li>Ideal als Tripwire-Produkt für deine Email-Liste, beliebt da günstiger Preis.</li>
-</ul>
-<p>��</p>
-<p><strong>Deine Vorteile als Affiliate auf einen Blick:</strong></p>
-<ul>
-<li>50% Provision pro Verkauf</li>
-<li>Die Verkaufsseite ist speziel mobil optimiert, um beste Ergebnisse auf Instagram zu erzielen</li>
-<li>Ideal als Tripwire Angebot</li>
-<li>perfekt für deine Instagram Bio</li>
-<li>für Einsteiger, Affiliates und Selbständige</li>
-</ul>
-<h5>Starte jetzt und verdiene deine Ersten Provisionen </h5>
-<div>Auf der Affiliate Support Seite stehen Dir Materialien zur Verfügung für das promoten.</div>
+**Vendor's marketplace description:** Instagram Schnellstart 50% Provision für Dich + 50% Provision am Orderbump Lerne von A-Z wie du ein erfolgreichen Instagram Account aufbaust, Reichweite und Kunden generierst. Zielgruppe frei definierbar, da Instagram für jede Nische wichtig ist. Ideal als Tripwire-Produkt für deine Email-Liste, beliebt da günstiger Preis. �� Deine Vorteile als Affiliate auf einen Blick: 50% Provision pro Verkauf Die Verkaufsseite ist speziel mobil optimiert, um beste Ergebnisse auf Instagram zu erzielen Ideal als Tripwire Angebot perfekt für deine Instagram Bio für Einsteiger, Affiliates und Selbständige Starte jetzt und verdiene deine Ersten Provisionen Auf der Affiliate Support Seite stehen Dir Materialien zur Verfügung für das promoten.
 
 ## 2. Links
 

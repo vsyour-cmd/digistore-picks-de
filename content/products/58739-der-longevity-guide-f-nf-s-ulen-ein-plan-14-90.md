@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Ein 22-seitiger Guide zu den fünf Säulen der Longevity</h3>
-<p>Der Longevity-Guide ist ein 22-seitiger PDF-Ratgeber zu den fünf Säulen gesunder Langlebigkeit: <strong>Bewegung, Ernährung, Schlaf, Herzgesundheit </strong>und<strong> Nervensystem</strong>. Statt vager Tipps liefert er konkrete Wochenprotokolle für Einsteiger und Fortgeschrittene – wissenschaftlich fundiert, mit klarer Kennzeichnung, wo die Forschung eindeutig ist und wo nicht.</p>
-<ul>
-<li>Verkaufspreis: 14,90 €</li>
-<li>Sofortiger PDF-Download</li>
-<li>14 Tage Rückgaberecht</li>
-</ul>
-<p>Zielgruppe: gesundheitsbewusste Menschen, die sich für Themen wie Peter Attias „Outlive", Biohacking oder evidenzbasierte Ernährung interessieren – ein aktuell stark wachsendes Segment im deutschsprachigen Raum.</p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Ein 22-seitiger Guide zu den fünf Säulen der Longevity Der Longevity-Guide ist ein 22-seitiger PDF-Ratgeber zu den fünf Säulen gesunder Langlebigkeit: Bewegung, Ernährung, Schlaf, Herzgesundheit und Nervensystem . Statt vager Tipps liefert er konkrete Wochenprotokolle für Einsteiger und Fortgeschrittene – wissenschaftlich fundiert, mit klarer Kennzeichnung, wo die Forschung eindeutig ist und wo nicht. Verkaufspreis: 14,90 € Sofortiger PDF-Download 14 Tage Rückgaberecht Zielgruppe: gesundheitsbewusste Menschen, die sich für Themen wie Peter Attias „Outlive", Biohacking oder evidenzbasierte Ernährung interessieren – ein aktuell stark wachsendes Segment im deutschsprachigen Raum.
 
 ## 2. Links
 

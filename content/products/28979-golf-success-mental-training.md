@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Im Grunde weiß es jeder: Ohne mentale Stärke wird kein Golfer jemals erfolgreich!</strong></p>
-<ul>
-<li>Emotionale Achterbahnfahrten kontrollieren und eliminieren</li>
-<li>Selbstsicherheit &amp; Selbstvertrauen finden</li>
-<li>Visualisierung fördern</li>
-<li>Gelassenheit &amp; Präzision manifestieren</li>
-<li>Fokussierung &amp; Konzentration</li>
-</ul>
-<p><strong>Das "Golf Success Booster Pack" hilft dem Golfer, genau diese Aspekte zu festigen.</strong></p>
-<p>Mittels der Silent-Subliminals-Technologie und des Anhörens von Audio-MP3s wird das Unterbewusstsein des Golfers auf diesen Wunschzustand konditioniert.</p>
-<p><strong>Tiger Woods nutzt seit seinem 6.Lebensjahr dieselbe Technologie, die wir in unserem Produkt anwenden, und wurde zu einem der besten Spieler aller Zeiten.</strong></p>
-<p> </p>
-<p><span style="color:#ffffff;background-color:#ff0000;">  Du erhälst 50% Provison !  </span></p>
-<p> </p>
-<p>Dieses Booster Pack enthält 3 Produkte zum Aktionspreis:</p>
-<p>1) Album zur Programmierung des Unterbewusstseins</p>
-<p>2) H2O - Album zur Trinkwasser-Energetisierung</p>
-<p>3) Meditation VIDEO + AUDIO + Silent Subliminal</p>
-<p> </p>
+**Vendor's marketplace description:** Im Grunde weiß es jeder: Ohne mentale Stärke wird kein Golfer jemals erfolgreich! Emotionale Achterbahnfahrten kontrollieren und eliminieren Selbstsicherheit & Selbstvertrauen finden Visualisierung fördern Gelassenheit & Präzision manifestieren Fokussierung & Konzentration Das "Golf Success Booster Pack" hilft dem Golfer, genau diese Aspekte zu festigen. Mittels der Silent-Subliminals-Technologie und des Anhörens von Audio-MP3s wird das Unterbewusstsein des Golfers auf diesen Wunschzustand konditioniert. Tiger Woods nutzt seit seinem 6.Lebensjahr dieselbe Technologie, die wir in unserem Produkt anwenden, und wurde zu einem der besten Spieler aller Zeiten. Du erhälst 50% Provison ! Dieses Booster Pack enthält 3 Produkte zum Aktionspreis: 1) Album zur Programmierung des Unterbewusstseins 2) H2O - Album zur Trinkwasser-Energetisierung 3) Meditation VIDEO + AUDIO + Silent Subliminal
 
 ## 2. Links
 

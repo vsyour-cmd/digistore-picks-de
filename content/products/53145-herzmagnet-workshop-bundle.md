@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>❤️ Herzmagnet Workshop Bundle</h2>
-<p><strong>Für feinfühlige Frauen, die ihre mediale Kraft entfalten und sich selbst wieder spüren wollen.</strong></p>
-<blockquote>
-<p><strong>Ein tief transformierendes Workshop-Bundle für alle, die sich nach innerer Klarheit, Selbstannahme und seelischer Anbindung sehnen.</strong><br />Dieses Produkt richtet sich vor allem an spirituell interessierte Frauen (ca. 30–50 Jahre), die bereit sind, sich wieder mit ihrem wahren Wesenskern zu verbinden – jenseits von Leistungsdruck oder Selbstoptimierung.</p>
-</blockquote>
-<p><strong>Ideal für Coaches, Mentorinnen und spirituelle Influencerinnen mit weiblich-intuitiver Community.</strong></p>
-<hr />
-<h3> </h3>
+**Vendor's marketplace description:** ❤️ Herzmagnet Workshop Bundle Für feinfühlige Frauen, die ihre mediale Kraft entfalten und sich selbst wieder spüren wollen. Ein tief transformierendes Workshop-Bundle für alle, die sich nach innerer Klarheit, Selbstannahme und seelischer Anbindung sehnen. Dieses Produkt richtet sich vor allem an spirituell interessierte Frauen (ca. 30–50 Jahre), die bereit sind, sich wieder mit ihrem wahren Wesenskern zu verbinden – jenseits von Leistungsdruck oder Selbstoptimierung. Ideal für Coaches, Mentorinnen und spirituelle Influencerinnen mit weiblich-intuitiver Community.
 
 ## 2. Links
 

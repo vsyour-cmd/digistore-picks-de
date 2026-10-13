@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2 style="text-align:center;"><strong><span style="color:#ff0000;">Durch Videokurs Upsells </span><br /><span style="color:#ff0000;">(Preis: 92 € und 197 €) </span><br /><span style="color:#ff0000;">höhere Provisionsmöglichkeiten!<br /></span> </strong></h2>
-<p> </p>
-<ul><li>
-<h4><span style="color:#000080;"><strong><span style="color:#ff0000;">Über 340 Minuten</span> vollgepackt mit Lebensweisheiten und Umsetzungsstrategien <br /></strong></span></h4>
-</li>
-<li>
-<h4><span style="color:#000080;"><strong>Inspirierende Beiträge von <span style="color:#ff0000;">Gerald Hörhan, Dirk Kreuter, Thomas Knedel</span>, Matthias Aumann, Sascha Huber, Stefanie Schädel, Waldemar Merkel, Daniel Dörrer, Alexander Kovin, Markus Habermehl, Thorsten Wittmann und Norman Argubi.</strong></span></h4>
-</li>
-<li>
-<h4><span style="color:#000080;">Landingpage mit Hörproben, Inhaltsverzeichnis und Videos.</span></h4>
-</li>
-<li>
-<h4><span style="color:#000080;">Eine einzigartige Kombination aus motivierenden Interviews und fachlichen Inhalten zu den Themen der Motivation, finanzielle Bildung und Wege aus dem Hamsterrad der Unzufriedenheiten/Abhängigkeiten</span></h4>
-</li>
-</ul>
+**Vendor's marketplace description:** Durch Videokurs Upsells (Preis: 92 € und 197 €) höhere Provisionsmöglichkeiten! Über 340 Minuten vollgepackt mit Lebensweisheiten und Umsetzungsstrategien Inspirierende Beiträge von Gerald Hörhan, Dirk Kreuter, Thomas Knedel , Matthias Aumann, Sascha Huber, Stefanie Schädel, Waldemar Merkel, Daniel Dörrer, Alexander Kovin, Markus Habermehl, Thorsten Wittmann und Norman Argubi. Landingpage mit Hörproben, Inhaltsverzeichnis und Videos. Eine einzigartige Kombination aus motivierenden Interviews und fachlichen Inhalten zu den Themen der Motivation, finanzielle Bildung und Wege aus dem Hamsterrad der Unzufriedenheiten/Abhängigkeiten
 
 ## 2. Links
 

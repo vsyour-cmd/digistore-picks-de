@@ -41,34 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Affiliate-Information – Vorsorgekompass</strong></p>
-<p>Der Vorsorgekompass ist ein digitales, duales Vorsorgesystem für Menschen, die ihre persönliche Notfall- und Vorsorgeplanung strukturiert vorbereiten möchten.</p>
-<p>Das System besteht aus zwei zentralen Bereichen:</p>
-<p><strong>1. Digitale Notfallkarte mit QR-Code und Premium-Wallpaper</strong></p>
-<p>Im geschützten Dashboard können Nutzer wichtige Notfalldaten hinterlegen, zum Beispiel Notfallkontakte, medizinische Hinweise, Medikamente, Allergien, Hausarztinformationen sowie Hinweise zu vorhandenen Vollmachten und Vorsorgedokumenten.</p>
-<p>Zusätzlich wird automatisch ein individuelles Premium-Wallpaper für den Smartphone-Sperrbildschirm erstellt. Dieses kann auf dem Handy installiert werden, sodass Helfer, Rettungsdienste oder Ärzte im Ernstfall schnell erkennen können, dass und welche wichtigen Notfalldaten vorhanden sind.</p>
-<p>Über QR-Code oder Notfall-URL können die vom Nutzer freigegebenen Informationen aufgerufen werden. Der Nutzer entscheidet selbst, welche Inhalte sichtbar sein sollen. So kann im Notfall schneller geholfen werden und die Chance steigt, dass im Sinne des Betroffenen gehandelt wird.</p>
-<p><strong>2. KI-gestützte Vorsorge-Wizards</strong></p>
-<p>Im Mitgliederbereich führen strukturierte Wizards Schritt für Schritt durch wichtige Vorsorgethemen wie Patientenverfügung, Vorsorgevollmacht, Innenverhältnis, Organspendeausweis, digitaler Nachlass, Testament/Erbrecht, Vermögen &amp; Finanzen und persönlicher Vorsorgeordner.</p>
-<p>Die integrierte KI-Unterstützung hilft beim Verstehen, Strukturieren und Ausfüllen der Angaben. Dadurch wird ein schwieriges Thema deutlich einfacher und greifbarer.</p>
-<p><strong>Warum das Produkt für Affiliates interessant ist:</strong></p>
-<p>Vorsorge ist ein großes, emotionales und oft verdrängtes Thema. Viele Menschen wissen, dass sie Patientenverfügung, Vorsorgevollmacht, Notfallkontakte und wichtige Dokumente regeln sollten – schieben es aber immer wieder auf.</p>
-<p>Der Vorsorgekompass macht dieses Thema digital, verständlich und alltagstauglich.</p>
-<p><strong>Besonders starke Verkaufsargumente sind:</strong></p>
-<ul>
-<li>digitale Notfallkarte mit QR-Code</li>
-<li>individuelles Premium-Wallpaper für den Sperrbildschirm</li>
-<li>geschütztes Dashboard</li>
-<li>KI-gestützte Vorsorge-Wizards</li>
-<li>strukturierte Vorbereitung wichtiger Vorsorgedokumente</li>
-<li>automatisches Generieren der Vorsorgedokumente</li>
-<li>klare Hilfe für Angehörige im Ernstfall</li>
-<li>geeignet für Familien, Senioren, Arbeitnehmer, Selbstständige, Unternehmen, Pflege, Gesundheit und Alltagshilfe</li>
-</ul>
-<p><strong>Wichtiger Hinweis</strong></p>
-<p>Der Vorsorgekompass ist eine digitale Orientierungs- und Strukturierungshilfe. Er ersetzt keine Rechtsberatung, keine notarielle Beratung, keine medizinische Beratung und keine Beratung durch Anwalt, Arzt, Notar oder Gericht. Bei komplexen rechtlichen oder medizinischen Fragen sollten Nutzer zusätzlich fachlichen Rat einholen.</p>
-<p>Affiliate-Partnerschaften werden manuell geprüft. Nicht erlaubt sind rechtliche Erfolgsversprechen, irreführende Aussagen, übertriebene Angstwerbung oder Aussagen wie „ersetzt den Notar“ oder „100 % rechtssicher ohne Anwalt“.</p>
-<p><strong>Kurz gesagt:</strong><br />Der Vorsorgekompass ist ein modernes digitales Vorsorgesystem mit Notfallkarte, QR-Zugang, Premium-Wallpaper und KI-gestützten Wizards – für Menschen, die Verantwortung übernehmen möchten, bevor der Ernstfall eintritt.</p>
+**Vendor's marketplace description:** Affiliate-Information – Vorsorgekompass Der Vorsorgekompass ist ein digitales, duales Vorsorgesystem für Menschen, die ihre persönliche Notfall- und Vorsorgeplanung strukturiert vorbereiten möchten. Das System besteht aus zwei zentralen Bereichen: 1. Digitale Notfallkarte mit QR-Code und Premium-Wallpaper Im geschützten Dashboard können Nutzer wichtige Notfalldaten hinterlegen, zum Beispiel Notfallkontakte, medizinische Hinweise, Medikamente, Allergien, Hausarztinformationen sowie Hinweise zu vorhandenen Vollmachten und Vorsorgedokumenten. Zusätzlich wird automatisch ein individuelles Premium-Wallpaper für den Smartphone-Sperrbildschirm erstellt. Dieses kann auf dem Handy installiert werden, sodass Helfer, Rettungsdienste oder Ärzte im Ernstfall schnell erkennen können, dass und welche wichtigen Notfalldaten vorhanden sind. Über QR-Code oder Notfall-URL können die vom Nutzer freigegebenen Informationen aufgerufen werden. Der Nutzer entscheidet selbst, welche Inhalte sichtbar sein sollen. So kann im Notfall schneller geholfen werden und die Chance steigt, dass im Sinne des Betroffenen gehandelt wird. 2. KI-gestützte Vorsorge-Wizards Im Mitgliederbereich führen strukturierte Wizards Schritt für Schritt durch wichtige Vorsorgethemen wie Patientenverfügung, Vorsorgevollmacht, Innenverhältnis, Organspendeausweis, digitaler Nachlass, Testament/Erbrecht, Vermögen & Finanzen und persönlicher Vorsorgeordner. Die integrierte KI-Unterstützung hilft beim Verstehen, Strukturieren und Ausfüllen der Angaben. Dadurch wird ein schwieriges Thema deutlich einfacher und greifbarer. Warum das Produkt für Affiliates interessant ist: Vorsorge ist ein großes, emotionales und oft verdrängtes Thema. Viele Menschen wissen, dass sie Patientenverfügung, Vorsorgevollmacht, Notfallkontakte und wichtige Dokumente regeln sollten – schieben es aber immer wieder auf. Der Vorsorgekompass macht dieses Thema digital, verständlich und alltagstauglich. Besonders starke Verkaufsargumente sind: digitale Notfallkarte mit QR-Code individuelles Premium-Wallpaper für den Sperrbildschirm geschütztes Dashboard KI-gestützte Vorsorge-Wizards strukturierte Vorbereitung wichtiger Vorsorgedokumente automatisches Generieren der Vorsorgedokumente klare Hilfe für Angehörige im Ernstfall geeignet für Familien, Senioren, Arbeitnehmer, Selbstständige, Unternehmen, Pflege, Gesundheit und Alltagshilfe Wichtiger Hinweis Der Vorsorgekompass ist eine digitale Orientierungs- und Strukturierungshilfe. Er ersetzt keine Rechtsberatung, keine notarielle Beratung, keine medizinische Beratung und keine Beratung durch Anwalt, Arzt, Notar oder Gericht. Bei komplexen rechtlichen oder medizinischen Fragen sollten Nutzer zusätzlich fachlichen Rat einholen. Affiliate-Partnerschaften werden manuell geprüft. Nicht erlaubt sind rechtliche Erfolgsversprechen, irreführende Aussagen, übertriebene Angstwerbung oder Aussagen wie „ersetzt den Notar“ oder „100 % rechtssicher ohne Anwalt“. Kurz gesagt: Der Vorsorgekompass ist ein modernes digitales Vorsorgesystem mit Notfallkarte, QR-Zugang, Premium-Wallpaper und KI-gestützten Wizards – für Menschen, die Verantwortung übernehmen möchten, bevor der Ernstfall eintritt.
 
 ## 2. Links
 

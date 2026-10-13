@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Liebe Affiliates, </p>
-<p>wie wäre es denn, wenn Ihr Geld damit verdient, in dem wir gemeinsam Menschen glücklicher machen? </p>
-<p>Ich bin seit vielen Jahren in der Persönlichkeitsentwicklung unterwegs und habe mir dann einfach mal Gedanken gemacht, was die besten Tool sind, die ich selbst gelernt habe, um mich aus schlechter Stimmung heraus zu katapultieren. Heraus kam dieser Kurs, mit über 30 Lektionen, von denen jede einzelne einen großen Schritt Richtung Glück bedeutet. </p>
-<p>Ich würde mich freuen, wenn Ihr mir helft, das Glück zu verbreiten, deshalb zahle ich von Herzen gerne eine gute Provision dafür. </p>
-<p>Bei Fragen meldet Euch gerne. Das Produktbild kann gerne genutzt werden, die Inhalte des Kurses seht Ihr auf der Verkaufsseite. </p>
+**Vendor's marketplace description:** Liebe Affiliates, wie wäre es denn, wenn Ihr Geld damit verdient, in dem wir gemeinsam Menschen glücklicher machen? Ich bin seit vielen Jahren in der Persönlichkeitsentwicklung unterwegs und habe mir dann einfach mal Gedanken gemacht, was die besten Tool sind, die ich selbst gelernt habe, um mich aus schlechter Stimmung heraus zu katapultieren. Heraus kam dieser Kurs, mit über 30 Lektionen, von denen jede einzelne einen großen Schritt Richtung Glück bedeutet. Ich würde mich freuen, wenn Ihr mir helft, das Glück zu verbreiten, deshalb zahle ich von Herzen gerne eine gute Provision dafür. Bei Fragen meldet Euch gerne. Das Produktbild kann gerne genutzt werden, die Inhalte des Kurses seht Ihr auf der Verkaufsseite.
 
 ## 2. Links
 

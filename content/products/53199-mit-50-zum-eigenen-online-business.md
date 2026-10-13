@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bist du bereit, mit 50+ dein eigenes Online-Business zu starten und in die finanzielle Freiheit zu gelangen? Dieser Wegweiser begleitet dich Schritt für Schritt auf dem Weg zu einem erfolgreichen Online-Business, auch ohne technische Vorkenntnisse! Entdecke, wie einfach es ist, im Internet neue Wege zu erschließen und dir ein zusätzliches Einkommen zu sichern.</p>
-<p> </p>
-<p>✅Schritt-für-Schritt-Anleitungen für den digitalen Einstieg</p>
-<p>✅Passende Geschäftsideen und Praxisbeispiele ab 50</p>
-<p>✅ Tipps zu Selbstständigkeit, Technik und Marketing</p>
-<p>✅ Mehr Freiheit, Selbstbewusstsein und Flexibilität im Alltag</p>
+**Vendor's marketplace description:** Bist du bereit, mit 50+ dein eigenes Online-Business zu starten und in die finanzielle Freiheit zu gelangen? Dieser Wegweiser begleitet dich Schritt für Schritt auf dem Weg zu einem erfolgreichen Online-Business, auch ohne technische Vorkenntnisse! Entdecke, wie einfach es ist, im Internet neue Wege zu erschließen und dir ein zusätzliches Einkommen zu sichern. ✅Schritt-für-Schritt-Anleitungen für den digitalen Einstieg ✅Passende Geschäftsideen und Praxisbeispiele ab 50 ✅ Tipps zu Selbstständigkeit, Technik und Marketing ✅ Mehr Freiheit, Selbstbewusstsein und Flexibilität im Alltag
 
 ## 2. Links
 

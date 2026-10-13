@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>The Changing Chance Pro: Online Business skalierbar und 1:1 kopierbar</strong></p>
-<p>Was du in diesem Kurs erhältst (Pro):</p>
-<p>Dieser Kurs vermittelt dir unser innovatives „The Changing Chance" Konzept in erweiterter Form – ein modernes Affiliate-Marketing-Modell, das klassische Ansätze in Sachen Skalierbarkeit und Automatisierungsgrad deutlich übertrifft. Du erlangst umfassendes Fachwissen im Affiliate-Marketing, lernst professionelle Vertriebs- und Gesprächsführung, lernst die unterschiedlichsten Arten der Kundengewinnung und erhältst konkrete Beispiele, wie du eigene Kurzvideos zur Bewerbung digitaler Produkte erstellst und dein Geschäft skalierst.</p>
-<p><strong>Inhalte der Pro-Variante:</strong></p>
-<ul>
-<li><strong>Alle Inhalte der Basic-Variante:</strong></li>
-<li>Grundlagen des Affiliate-Marketing und wie du digitale Produkte professionell empfiehlst</li>
-<li>Schritt-für-Schritt-Setup mit Digistore24 und dem Partner-Netzwerk</li>
-<li>Das Angebot und deine Zielgruppe - Gesprächsführung für den Verkauf</li>
-<li>Verschiedene Möglichkeiten der Kundengewinnung</li>
-<li><strong>Zusätzliche Inhalte der Pro-Variante:</strong></li>
-<li>Erweiterte Module zu Zielgruppenanalyse und fortgeschrittener Kundengewinnung</li>
-<li>Vertiefte Vertriebs- und Gesprächsführungstechniken</li>
-<li>Weitere Praxisbeispiele und Vorlagen zur Videoerstellung</li>
-<li>Detaillierte Anleitung zum Aufbau einer eigenen Downline im Partner-Netzwerk</li>
-<li>11000 vorgefertigte Videovorlagen und Videokonzepte</li>
-</ul>
+**Vendor's marketplace description:** The Changing Chance Pro: Online Business skalierbar und 1:1 kopierbar Was du in diesem Kurs erhältst (Pro): Dieser Kurs vermittelt dir unser innovatives „The Changing Chance" Konzept in erweiterter Form – ein modernes Affiliate-Marketing-Modell, das klassische Ansätze in Sachen Skalierbarkeit und Automatisierungsgrad deutlich übertrifft. Du erlangst umfassendes Fachwissen im Affiliate-Marketing, lernst professionelle Vertriebs- und Gesprächsführung, lernst die unterschiedlichsten Arten der Kundengewinnung und erhältst konkrete Beispiele, wie du eigene Kurzvideos zur Bewerbung digitaler Produkte erstellst und dein Geschäft skalierst. Inhalte der Pro-Variante: Alle Inhalte der Basic-Variante: Grundlagen des Affiliate-Marketing und wie du digitale Produkte professionell empfiehlst Schritt-für-Schritt-Setup mit Digistore24 und dem Partner-Netzwerk Das Angebot und deine Zielgruppe - Gesprächsführung für den Verkauf Verschiedene Möglichkeiten der Kundengewinnung Zusätzliche Inhalte der Pro-Variante: Erweiterte Module zu Zielgruppenanalyse und fortgeschrittener Kundengewinnung Vertiefte Vertriebs- und Gesprächsführungstechniken Weitere Praxisbeispiele und Vorlagen zur Videoerstellung Detaillierte Anleitung zum Aufbau einer eigenen Downline im Partner-Netzwerk 11000 vorgefertigte Videovorlagen und Videokonzepte
 
 ## 2. Links
 

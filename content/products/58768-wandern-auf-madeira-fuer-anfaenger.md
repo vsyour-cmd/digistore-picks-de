@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><span style="vertical-align:inherit;"><span style="vertical-align:inherit;">Produktpreis: 12,99 €</span></span></strong></p>
-<p><strong><span style="vertical-align:inherit;"><span style="vertical-align:inherit;">Ihre Provision: 60% (Earn approximately 7,79 € per copy sold!)</span></span></strong></p>
-<p> </p>
+**Vendor's marketplace description:** Produktpreis: 12,99 € Ihre Provision: 60% (Earn approximately 7,79 € per copy sold!)
 
 ## 2. Links
 

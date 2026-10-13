@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>14 Tage Lymphzauber - Die Königin im natürlichen Anti-Aging Die Lymphe gilt nicht umsonst als die Königin im Anti-Aging: Sie transportiert Schlacken ab, entstaut das Gewebe und sorgt für einen strahlenden, jugendlichen Teint – ganz ohne Spritzen, Cremes oder teure Behandlungen.</p>
-<p> </p>
-<p>In diesem 14-tägigen Online-Kurs zeige ich dir, wie du mit sanften Massagegriffen für Gesicht und Körper deinen Lymphfluss aktivierst. Das Ergebnis: ein natürlicher Lifting-Effekt, sichtbar straffere Konturen, weniger Schwellungen und feine Linien wirken gemildert – für ein frisches, vitaleres Erscheinungsbild von innen heraus. Jeden Tag wartet eine neue, leicht umsetzbare Lektion mit Video und Anleitung auf dich.</p>
-<p> </p>
-<p>So baust du Schritt für Schritt eine Routine auf, die dein Gesicht zum Strahlen bringt und deinen ganzen Körper revitalisiert. 14 Tage, die deinem Gesicht und Körper neue Frische schenken – natürlich, sanft und nachhaltig.</p>
+**Vendor's marketplace description:** 14 Tage Lymphzauber - Die Königin im natürlichen Anti-Aging Die Lymphe gilt nicht umsonst als die Königin im Anti-Aging: Sie transportiert Schlacken ab, entstaut das Gewebe und sorgt für einen strahlenden, jugendlichen Teint – ganz ohne Spritzen, Cremes oder teure Behandlungen. In diesem 14-tägigen Online-Kurs zeige ich dir, wie du mit sanften Massagegriffen für Gesicht und Körper deinen Lymphfluss aktivierst. Das Ergebnis: ein natürlicher Lifting-Effekt, sichtbar straffere Konturen, weniger Schwellungen und feine Linien wirken gemildert – für ein frisches, vitaleres Erscheinungsbild von innen heraus. Jeden Tag wartet eine neue, leicht umsetzbare Lektion mit Video und Anleitung auf dich. So baust du Schritt für Schritt eine Routine auf, die dein Gesicht zum Strahlen bringt und deinen ganzen Körper revitalisiert. 14 Tage, die deinem Gesicht und Körper neue Frische schenken – natürlich, sanft und nachhaltig.
 
 ## 2. Links
 

@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die Soforthilfe für pflegende Angehörige direkt nach der Demenz-Diagnose.</strong></p>
-<p>Wenn die Diagnose Demenz fällt, bricht für <strong>pflegende Angehörige</strong> eine Welt zusammen. Dieser Begleiter ist exakt für diese ersten, kritischen Tage konzipiert und bietet sofortige Orientierung, wenn die Überforderung am größten ist.</p>
-<p><strong>Warum Sie als Partner dieses Produkt bewerben sollten:</strong></p>
-<ul>
-<li>
-<p><strong>Echte Marktlücke:</strong> Kaum Angebote für pflegende Angehörige in der akuten Schockphase.</p>
-</li>
-<li>
-<p><strong>Hohe Relevanz:</strong> Betroffene suchen verzweifelt nach einem ersten Anker und klarer Führung.</p>
-</li>
-<li>
-<p><strong>Emotionale Bindung:</strong> Ein Herzensprodukt, das echtes Vertrauen schafft.</p>
-</li>
-<li>
-<p><strong>Attraktive Konditionen:</strong> 40 % Provision auf jeden Verkauf.</p>
-</li>
-</ul>
-<p>Helfen Sie <strong>pflegenden Angehörigen</strong> dabei, in den ersten Tagen nach der Diagnose nicht den Boden unter den Füßen zu verlieren.</p>
+**Vendor's marketplace description:** Die Soforthilfe für pflegende Angehörige direkt nach der Demenz-Diagnose. Wenn die Diagnose Demenz fällt, bricht für pflegende Angehörige eine Welt zusammen. Dieser Begleiter ist exakt für diese ersten, kritischen Tage konzipiert und bietet sofortige Orientierung, wenn die Überforderung am größten ist. Warum Sie als Partner dieses Produkt bewerben sollten: Echte Marktlücke: Kaum Angebote für pflegende Angehörige in der akuten Schockphase. Hohe Relevanz: Betroffene suchen verzweifelt nach einem ersten Anker und klarer Führung. Emotionale Bindung: Ein Herzensprodukt, das echtes Vertrauen schafft. Attraktive Konditionen: 40 % Provision auf jeden Verkauf. Helfen Sie pflegenden Angehörigen dabei, in den ersten Tagen nach der Diagnose nicht den Boden unter den Füßen zu verlieren.
 
 ## 2. Links
 

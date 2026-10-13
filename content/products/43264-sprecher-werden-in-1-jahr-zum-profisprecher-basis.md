@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Deine fundierte Komplett-Ausbildung zum Profisprecher </strong></p>
-<p>Matthias Ernst Holzmann ist professioneller Werbesprecher und Hörbuchsprecher mit über 120 Hörbüchern auf Audible. Er begleitet Dich persönlich und individuell 1 Jahr lang auf Deinem Weg zum professionellen Sprecher oder zur professionellen Sprecherin. Du erhältst umfangreiches Arbeitsmaterial und Anleitungen und kannst Dich regelmäßig mit ihm persönlich austauschen. Matthias Ernst Holzmann überwacht Deine Fortschritte persönlich. Mit den erworbenen Fähigkeiten kannst Du Synchronsprecher werden, Werbesprecher werden oder Hörbuchsprecher werden.</p>
-<p><strong>BASIS-VERSION</strong></p>
-<p><strong>Beachten Sie weitere Versionen dieses Kurses!</strong></p>
+**Vendor's marketplace description:** Deine fundierte Komplett-Ausbildung zum Profisprecher Matthias Ernst Holzmann ist professioneller Werbesprecher und Hörbuchsprecher mit über 120 Hörbüchern auf Audible. Er begleitet Dich persönlich und individuell 1 Jahr lang auf Deinem Weg zum professionellen Sprecher oder zur professionellen Sprecherin. Du erhältst umfangreiches Arbeitsmaterial und Anleitungen und kannst Dich regelmäßig mit ihm persönlich austauschen. Matthias Ernst Holzmann überwacht Deine Fortschritte persönlich. Mit den erworbenen Fähigkeiten kannst Du Synchronsprecher werden, Werbesprecher werden oder Hörbuchsprecher werden. BASIS-VERSION Beachten Sie weitere Versionen dieses Kurses!
 
 ## 2. Links
 

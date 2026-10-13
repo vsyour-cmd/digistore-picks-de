@@ -41,43 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<p>Ein Fotobearbeitungskurs für Einsteiger, Hobbyfotografen und angehende Profis. Adobe Lightroom Classic einfach erklärt mit über 30 Praxisbeispielen, laufend aktualisiert.</p>
-</div>
-</div>
-<div>
-<ul>
-<li><strong><span style="background-color:#ffff00;">40% Provision pro Verkauf</span></strong></li>
-<li>individuelle Rabattcodes möglich</li>
-<li>sehr hohe Kundenzufriedenheit</li>
-</ul>
-</div>
-<h3> </h3>
-<h3>ÜBER DEN ONLINEKURS</h3>
-<p>Lerne <strong>professionelle Bildbearbeitung</strong> mit Adobe Lightroom Classic. Anhand von mehr als 30 Beispielfotos lernst du den kompletten Workflow der professionellen Bildbearbeitung kennen.</p>
-<p> </p>
-<div>
-<div>
-<p><strong>Highlights:</strong></p>
-</div>
-</div>
-<div>
-<ul>
-<li>Über 40 Video-Lektionen</li>
-<li>über 30 Beispielfotos zum Mitmachen</li>
-<li>ansehen so oft du willst (kein Abo)</li>
-<li>Tipps &amp; Tricks vom Profi</li>
-<li>laufend aktualisiert (Stand: Januar 2025)</li>
-</ul>
-<p> </p>
-<p><strong>Das lernst du:</strong></p>
-<p style="padding-left:40px;">Belichtung &amp; Kontrast, Himmel einfärben, Portraitretusche, Haut glätten, Falten &amp; Pickel entfernen, Zähne aufhellen, Naturfotografie, Panoramas, misslungene Fotos reparieren, nachschärfen, Architektur, stürzende Linien korrigieren und entzerren, Farben verändern, eigene Filter erstellen, entrauschen, Schwarz-Weiß Bearbeitung, automatische Gesichtserkennung, Künstliche Intelligenz..  uvm.</p>
-<p> </p>
-<p><strong>Über den Trainer</strong><br />Robin Weigelt ist Fotograf und Trainer an mehreren Fotoakademien in Deutschland und Österreich. Mit diesem Onlinekurs bringt er sein gesamtes Wissen in einen Onlinekurs zum Mitmachen. Er versteht es Dinge einfach und praxisbezogen zu erklären.<br /><br /></p>
-<span style="background-color:#ffff00;"><strong>Alle Infos: <a style="background-color:#ffff00;" href="https://www.lightroomkurs.com/affiliate" target="_blank" rel="noreferrer noopener">www.lightroomkurs.com/affiliate</a></strong></span>
-<p> </p>
-</div>
+**Vendor's marketplace description:** Ein Fotobearbeitungskurs für Einsteiger, Hobbyfotografen und angehende Profis. Adobe Lightroom Classic einfach erklärt mit über 30 Praxisbeispielen, laufend aktualisiert. 40% Provision pro Verkauf individuelle Rabattcodes möglich sehr hohe Kundenzufriedenheit ÜBER DEN ONLINEKURS Lerne professionelle Bildbearbeitung mit Adobe Lightroom Classic. Anhand von mehr als 30 Beispielfotos lernst du den kompletten Workflow der professionellen Bildbearbeitung kennen. Highlights: Über 40 Video-Lektionen über 30 Beispielfotos zum Mitmachen ansehen so oft du willst (kein Abo) Tipps & Tricks vom Profi laufend aktualisiert (Stand: Januar 2025) Das lernst du: Belichtung & Kontrast, Himmel einfärben, Portraitretusche, Haut glätten, Falten & Pickel entfernen, Zähne aufhellen, Naturfotografie, Panoramas, misslungene Fotos reparieren, nachschärfen, Architektur, stürzende Linien korrigieren und entzerren, Farben verändern, eigene Filter erstellen, entrauschen, Schwarz-Weiß Bearbeitung, automatische Gesichtserkennung, Künstliche Intelligenz.. uvm. Über den Trainer Robin Weigelt ist Fotograf und Trainer an mehreren Fotoakademien in Deutschland und Österreich. Mit diesem Onlinekurs bringt er sein gesamtes Wissen in einen Onlinekurs zum Mitmachen. Er versteht es Dinge einfach und praxisbezogen zu erklären. Alle Infos: www.lightroomkurs.com/affiliate
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Endlich da: Das Kinderwunsch-Video mit Sharada Devi! </strong></p>
-<p>Yoga hilft uns, uns wieder mit uns selber zu verbinden,  unseren Körper als ein Heiligtum wahrzunehmen und ihm zu vertrauen. Unser Empfinden dafür, was uns gut tut und was uns – körperlich oder seelisch – belastet, wird durch Yoga gestärkt und die Selbstwahrnehmung wird feiner.<strong><br /></strong></p>
-<p>Die Übungsreihe <strong>Hormon- und KinderwunschYoga nach Sharada Devi</strong> hat schon vielen Frauen geholfen, zu sich und ihrem Baby zu finden. Mit meinen Übungen gewinnst du</p>
-<ul><li><strong>Kräftigung &amp; Erdung</strong> (Teil I), wenn du das Gefühl hast, den Boden unter den Füßen zu verlieren</li>
-<li><strong>Energetisierung &amp; Harmonisierung</strong> (Teil II) für deinen Hormonhaushalt</li>
-<li><strong>Entspannung &amp; Fokus</strong> (Teil III), um deine innere Kraft und dein Vertrauen wieder aufzubauen</li>
-</ul><p>Im Kinderwunsch-Yoga nutzen wir die Erkenntnisse der uralten Wissenschaft Yoga, um Frauen mit unerfülltem Kinderwunsch auf körperlicher und seelischer Ebene auf ihr Kind vorzubereiten. Kinderwunsch-Yoga ist auch sehr gut geeignet als Begleitung zu anderen naturheilkundlichen Methoden oder im Rahmen einer Fertility-Behandlung (Insemination, IVF, ICSI)</p>
+**Vendor's marketplace description:** Endlich da: Das Kinderwunsch-Video mit Sharada Devi! Yoga hilft uns, uns wieder mit uns selber zu verbinden, unseren Körper als ein Heiligtum wahrzunehmen und ihm zu vertrauen. Unser Empfinden dafür, was uns gut tut und was uns – körperlich oder seelisch – belastet, wird durch Yoga gestärkt und die Selbstwahrnehmung wird feiner. Die Übungsreihe Hormon- und KinderwunschYoga nach Sharada Devi hat schon vielen Frauen geholfen, zu sich und ihrem Baby zu finden. Mit meinen Übungen gewinnst du Kräftigung & Erdung (Teil I), wenn du das Gefühl hast, den Boden unter den Füßen zu verlieren Energetisierung & Harmonisierung (Teil II) für deinen Hormonhaushalt Entspannung & Fokus (Teil III), um deine innere Kraft und dein Vertrauen wieder aufzubauen Im Kinderwunsch-Yoga nutzen wir die Erkenntnisse der uralten Wissenschaft Yoga, um Frauen mit unerfülltem Kinderwunsch auf körperlicher und seelischer Ebene auf ihr Kind vorzubereiten. Kinderwunsch-Yoga ist auch sehr gut geeignet als Begleitung zu anderen naturheilkundlichen Methoden oder im Rahmen einer Fertility-Behandlung (Insemination, IVF, ICSI)
 
 ## 2. Links
 

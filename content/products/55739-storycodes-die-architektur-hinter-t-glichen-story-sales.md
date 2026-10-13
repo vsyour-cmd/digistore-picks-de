@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>STORYCODES ist ein 5-Modul-Programm rund um tägliches verkaufen über seine Instagram-Story.</p>
-<p>Es zeigt, wie man auch mit minimaler Reichweite und ohne Social Proof täglich Kaufentscheidungen auslöst, statt auf mehr Follower oder den nächsten Kurs-Hype zu hoffen.</p>
-<p>Im Fokus stehen:</p>
-<p>* verkaufspsychologische Architektur<br />* strategischer Spannungsaufbau<br />* Einwandbehandlung<br />* Dringlichkeit ohne Rabatte<br />* systematische Entscheidungsführung</p>
-<p>Ideal für Creator im digitalen Marketing, die bereits aktiv sind, aber noch keine konstanten Sales machen und dieses Wissen auch an ihre Kunden weitervermitteln wollen (50% Provision).</p>
+**Vendor's marketplace description:** STORYCODES ist ein 5-Modul-Programm rund um tägliches verkaufen über seine Instagram-Story. Es zeigt, wie man auch mit minimaler Reichweite und ohne Social Proof täglich Kaufentscheidungen auslöst, statt auf mehr Follower oder den nächsten Kurs-Hype zu hoffen. Im Fokus stehen: * verkaufspsychologische Architektur * strategischer Spannungsaufbau * Einwandbehandlung * Dringlichkeit ohne Rabatte * systematische Entscheidungsführung Ideal für Creator im digitalen Marketing, die bereits aktiv sind, aber noch keine konstanten Sales machen und dieses Wissen auch an ihre Kunden weitervermitteln wollen (50% Provision).
 
 ## 2. Links
 

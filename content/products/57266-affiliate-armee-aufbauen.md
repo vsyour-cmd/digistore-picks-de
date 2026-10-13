@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Affiliate-Armee aufbauen“</strong></p>
-<p>Wie Vendoren andere für sich verkaufen lassen – Die größten Verkäufe machen deine Partner. Wie du als Vendor ein Affiliate-Programm aufbaust: ein Angebot, das Partner lieben, ein faires Provisionsmodell, die richtigen Affiliates finden und betreuen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Vom Verkäufer zum Vendor</li>
-<li>Ein Angebot und Provisionsmodell, das Partner lieben</li>
-<li>Die richtigen Affiliates finden und gewinnen</li>
-<li>Werbekennzeichnung, Recht und faire Auszahlung</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Affiliate-Armee aufbauen“ Wie Vendoren andere für sich verkaufen lassen – Die größten Verkäufe machen deine Partner. Wie du als Vendor ein Affiliate-Programm aufbaust: ein Angebot, das Partner lieben, ein faires Provisionsmodell, die richtigen Affiliates finden und betreuen. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Vom Verkäufer zum Vendor Ein Angebot und Provisionsmodell, das Partner lieben Die richtigen Affiliates finden und gewinnen Werbekennzeichnung, Recht und faire Auszahlung
 
 ## 2. Links
 

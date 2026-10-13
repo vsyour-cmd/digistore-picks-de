@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Karrierekompass ist ein digitales Karriere-System das aus 7 Monaten und 74 eigenen Bewerbungen entstanden ist. Entwickelt fuer Menschen die wissen dass sich etwas ändern muss — ob Berufseinsteiger nach dem Studium oder erfahrene Fachkraft auf dem Weg in eine neue Richtung.</p>
-<p>Warum sich das Bewerben lohnt:</p>
-<p>40% Provision auf jeden Verkauf — automatisch über Digistore24 ausgezahlt. Drei Pakete zwischen 49 und 109 EUR. Hohe Relevanz für eine riesige Zielgruppe: Jobsuchende, Berufseinsteiger und Menschen in der Neuorientierung. Fertige Verkaufsseite vorhanden — du musst nichts selbst erstellen.</p>
-<p>Das Produkt umfasst 6 vollständige Module, ein interaktives Karriere-Profil-Tool, einen 90-Tage-Aktionsplan und ein Bonus-Modul für Interview, Assessment Center und Gehaltsverhandlung.</p>
-<p>Verkaufsseite: https://karrierekompass-guide.de</p>
-<p>Kostenloses Tool zum Testen und Bewerben:</p>
-<p>karrierekompass-tool.netlify.app</p>
+**Vendor's marketplace description:** Der Karrierekompass ist ein digitales Karriere-System das aus 7 Monaten und 74 eigenen Bewerbungen entstanden ist. Entwickelt fuer Menschen die wissen dass sich etwas ändern muss — ob Berufseinsteiger nach dem Studium oder erfahrene Fachkraft auf dem Weg in eine neue Richtung. Warum sich das Bewerben lohnt: 40% Provision auf jeden Verkauf — automatisch über Digistore24 ausgezahlt. Drei Pakete zwischen 49 und 109 EUR. Hohe Relevanz für eine riesige Zielgruppe: Jobsuchende, Berufseinsteiger und Menschen in der Neuorientierung. Fertige Verkaufsseite vorhanden — du musst nichts selbst erstellen. Das Produkt umfasst 6 vollständige Module, ein interaktives Karriere-Profil-Tool, einen 90-Tage-Aktionsplan und ein Bonus-Modul für Interview, Assessment Center und Gehaltsverhandlung. Verkaufsseite: https://karrierekompass-guide.de Kostenloses Tool zum Testen und Bewerben: karrierekompass-tool.netlify.app
 
 ## 2. Links
 

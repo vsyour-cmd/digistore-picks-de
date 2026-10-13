@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Von der leeren Seite zum Profil, das Chancen und Kontakte anzieht</strong></p>
-<p>LinkedIn ist die größte B2B-Plattform der Welt – aber die meisten Profile verschwinden im Rauschen. Dabei entscheidet dein Profil in den ersten drei Sekunden, ob jemand bleibt oder weiterskrollt. Dieses E-Book zeigt dir Schritt für Schritt, wie du ein Profil aufbaust, das nicht nur vollständig aussieht, sondern wirklich überzeugt: mit einem Foto, das Vertrauen aufbaut, einer Headline, die sofort klar macht, was du kannst, und einem »Über mich«-Text, der Türen öffnet. Du lernst, wie der LinkedIn-Algorithmus Reichweite verteilt, warum Dwell Time und Kommentare in der ersten Stunde deine wichtigste Währung sind, und wie du mit deinen ersten Beiträgen sichtbar wirst – ohne jeden Tag zu posten. Am Ende steht ein Profil, das für dich arbeitet, auch wenn du offline bist.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Profilfoto, Banner &amp; Headline, die sofort einen starken ersten Eindruck hinterlassen</li>
-<li>Den »Über mich«-Abschnitt schreiben, der Lesern bleibt</li>
-<li>Die Hook-Zeile vor dem »…mehr«: so hältst du jeden am Lesen</li>
-<li>Dwell Time verstehen und für mehr Reichweite nutzen</li>
-<li>Warum Kommentare in der ersten Stunde entscheidend sind</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Von der leeren Seite zum Profil, das Chancen und Kontakte anzieht LinkedIn ist die größte B2B-Plattform der Welt – aber die meisten Profile verschwinden im Rauschen. Dabei entscheidet dein Profil in den ersten drei Sekunden, ob jemand bleibt oder weiterskrollt. Dieses E-Book zeigt dir Schritt für Schritt, wie du ein Profil aufbaust, das nicht nur vollständig aussieht, sondern wirklich überzeugt: mit einem Foto, das Vertrauen aufbaut, einer Headline, die sofort klar macht, was du kannst, und einem »Über mich«-Text, der Türen öffnet. Du lernst, wie der LinkedIn-Algorithmus Reichweite verteilt, warum Dwell Time und Kommentare in der ersten Stunde deine wichtigste Währung sind, und wie du mit deinen ersten Beiträgen sichtbar wirst – ohne jeden Tag zu posten. Am Ende steht ein Profil, das für dich arbeitet, auch wenn du offline bist. Das steckt drin: Profilfoto, Banner & Headline, die sofort einen starken ersten Eindruck hinterlassen Den »Über mich«-Abschnitt schreiben, der Lesern bleibt Die Hook-Zeile vor dem »…mehr«: so hältst du jeden am Lesen Dwell Time verstehen und für mehr Reichweite nutzen Warum Kommentare in der ersten Stunde entscheidend sind Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

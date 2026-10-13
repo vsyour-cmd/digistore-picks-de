@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>ZYNTEVO erstellt automatisch Fachtexte für drei Berufsgruppen – auf Knopfdruck, in Sekunden:</p>
-<p><strong>Immobilienmakler</strong> – Exposés, Objektbeschreibungen, Akquise-Anschreiben<br /><strong>Handwerker</strong> – Angebotsbeschreibungen, Kundenkommunikation, Social-Media-Posts<br /><strong>Steuerberater</strong> – Mandantenkommunikation, Erklärungstexte, Kanzlei-Marketing</p>
-<p>297 Euro Einmalzahlung – <strong>74,25 Euro Provision</strong> pro Verkauf (25%)<br />Kostenlose Demo verfügbar – Besucher testen sofort<br />14 Tage Geld-zurück-Garantie<br />Optimiert für DACH-Traffic</p>
-<p><strong>Verkaufsseiten</strong>:<br />zyntevo.de/makler – zyntevo.de/handwerker – zyntevo.de/steuerberater</p>
-<p> </p>
+**Vendor's marketplace description:** ZYNTEVO erstellt automatisch Fachtexte für drei Berufsgruppen – auf Knopfdruck, in Sekunden: Immobilienmakler – Exposés, Objektbeschreibungen, Akquise-Anschreiben Handwerker – Angebotsbeschreibungen, Kundenkommunikation, Social-Media-Posts Steuerberater – Mandantenkommunikation, Erklärungstexte, Kanzlei-Marketing 297 Euro Einmalzahlung – 74,25 Euro Provision pro Verkauf (25%) Kostenlose Demo verfügbar – Besucher testen sofort 14 Tage Geld-zurück-Garantie Optimiert für DACH-Traffic Verkaufsseiten : zyntevo.de/makler – zyntevo.de/handwerker – zyntevo.de/steuerberater
 
 ## 2. Links
 

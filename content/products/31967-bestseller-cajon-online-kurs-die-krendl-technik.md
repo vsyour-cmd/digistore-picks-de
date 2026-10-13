@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Star-Trainer Martin Krendl bietet in seinem neuen Cajon-Onlinekurs über 160 Videos zum Erlernen des Musikinstruments: </p>
-<p><strong>... in wenigen Stunden ein wirklich cooles Instrument KÖNNEN möchtest </strong></p>
-<p><strong>... dein Rhythmusgefühl verbessern und endlich deine Einsätze finden möchtest</strong></p>
-<p><strong>... einfach spontan am Lagerfeuer mit deinen Freunden Musik machen möchtest</strong></p>
-<hr /><h4>Du bekommst 50% Provision auf den Kurs: Das macht über 75€ pro Verkauf!</h4>
-<p>Wenn du Musiker hast, die ihr Rhytmusgefühl verbessern wollen, dann bewirb dieses Produkt und profitiere von der wachsenden Reichweite des Star-Trainers Martin Krendl.</p>
-<p>Er arbeitet mit einer professionellen Werbeagentur zusammen!</p>
+**Vendor's marketplace description:** Star-Trainer Martin Krendl bietet in seinem neuen Cajon-Onlinekurs über 160 Videos zum Erlernen des Musikinstruments: ... in wenigen Stunden ein wirklich cooles Instrument KÖNNEN möchtest ... dein Rhythmusgefühl verbessern und endlich deine Einsätze finden möchtest ... einfach spontan am Lagerfeuer mit deinen Freunden Musik machen möchtest Du bekommst 50% Provision auf den Kurs: Das macht über 75€ pro Verkauf! Wenn du Musiker hast, die ihr Rhytmusgefühl verbessern wollen, dann bewirb dieses Produkt und profitiere von der wachsenden Reichweite des Star-Trainers Martin Krendl. Er arbeitet mit einer professionellen Werbeagentur zusammen!
 
 ## 2. Links
 

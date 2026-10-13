@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>KATZENLIFECOACH® – Katzenkundenachweis Onlinekurs</h2>
-<p>Eine umfangreiche Online-Ausbildung für alle, die ihre <strong>Liebe zu Katzen mit fundiertem Fachwissen verbinden</strong> und Katzen sowie ihre Menschen kompetent begleiten möchten.</p>
-<p>Im KATZENLIFECOACH® lernen Teilnehmer, Katzen ganzheitlich zu verstehen – von <strong>Verhalten, Körpersprache und Bedürfnissen bis hin zu körperlichen Zusammenhängen, die hinter auffälligem Verhalten stehen können</strong>.</p>
-<p>Die Ausbildung umfasst <strong>7 umfangreiche Module, 485 Minuten Videomaterial und 411 Seiten PDF-Skripten</strong>. Sie kann flexibel und ortsunabhängig im eigenen Tempo absolviert werden und wird <strong>mit Zertifikat</strong> abgeschlossen.</p>
-<p>Die Inhalte werden von erfahrenen Profis vermittelt, die täglich mit Katzen arbeiten und ihr Wissen praxisnah weitergeben.</p>
-<p><strong>Ideal für Affiliates mit einer Community rund um Katzen, Katzenwissen, Tierberufe, Weiterbildung, Katzensitting sowie Menschen, die ihre Leidenschaft für Katzen fachlich vertiefen möchten.</strong></p>
+**Vendor's marketplace description:** KATZENLIFECOACH® – Katzenkundenachweis Onlinekurs Eine umfangreiche Online-Ausbildung für alle, die ihre Liebe zu Katzen mit fundiertem Fachwissen verbinden und Katzen sowie ihre Menschen kompetent begleiten möchten. Im KATZENLIFECOACH® lernen Teilnehmer, Katzen ganzheitlich zu verstehen – von Verhalten, Körpersprache und Bedürfnissen bis hin zu körperlichen Zusammenhängen, die hinter auffälligem Verhalten stehen können . Die Ausbildung umfasst 7 umfangreiche Module, 485 Minuten Videomaterial und 411 Seiten PDF-Skripten . Sie kann flexibel und ortsunabhängig im eigenen Tempo absolviert werden und wird mit Zertifikat abgeschlossen. Die Inhalte werden von erfahrenen Profis vermittelt, die täglich mit Katzen arbeiten und ihr Wissen praxisnah weitergeben. Ideal für Affiliates mit einer Community rund um Katzen, Katzenwissen, Tierberufe, Weiterbildung, Katzensitting sowie Menschen, die ihre Leidenschaft für Katzen fachlich vertiefen möchten.
 
 ## 2. Links
 

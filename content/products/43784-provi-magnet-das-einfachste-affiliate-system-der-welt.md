@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Die einfachste Strategie, online Geld zu verdienen!<br /></strong></h2>
-<p><strong>Übernehme mit 2 Klicks und ohne vorherige Vorkenntnisse das mit Abstand einfachste System, um online Geld zu verdienen und dich fürstlich entlohnen zu lassen!<br /></strong></p>
-<p><span style="color:#ff0000;"><strong>Für alle Affiliates eine klasse Chance.</strong></span> Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann <strong>30 - 50% Provision</strong> gibt.</p>
-<p><strong>Insgesamt können damit über 503,75 Euro an Provision verdient werden.</strong></p>
-<p>Landing Page und Webinar konvertieren sehr gut und es wird immer weiter in kleinen Schritten optimiert.</p>
-<p>Im Programm ist folgendes enthalten:</p>
-<ul>
-<li>...<strong> 21 Squeeze Pages</strong>, um E-Mail-Adressen einzusammeln! <strong>Mit 1 Klick integrierbar.</strong></li>
-<li>... <strong>E-Mail-Marketing Funnel</strong>, ohne jemals eine E-Mail schreiben zu müsen und das <strong>13 Monate lang</strong>! <strong>Mit 1 Klick integrierbar.</strong></li>
-<li>... inkl. aller Checklisten, Templates und Vorlagen!</li>
-<li>... <strong>wir übernehmen Optimierung und Verkauf für dich im Hintergrund!!</strong></li>
-<li>... eine <strong>ganz klare Schritt-für-Schritt-Anleitung</strong> zur Umsetzung.</li>
-<li>... und noch einiges mehr</li>
-</ul>
-<p><strong>Inkl. allen 6 Boni!</strong> und einem <strong>Premium Support</strong>.</p>
-<p><strong>Es ist DIE Chance DEINES Lebens!</strong></p>
+**Vendor's marketplace description:** Die einfachste Strategie, online Geld zu verdienen! Übernehme mit 2 Klicks und ohne vorherige Vorkenntnisse das mit Abstand einfachste System, um online Geld zu verdienen und dich fürstlich entlohnen zu lassen! Für alle Affiliates eine klasse Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Insgesamt können damit über 503,75 Euro an Provision verdient werden. Landing Page und Webinar konvertieren sehr gut und es wird immer weiter in kleinen Schritten optimiert. Im Programm ist folgendes enthalten: ... 21 Squeeze Pages , um E-Mail-Adressen einzusammeln! Mit 1 Klick integrierbar. ... E-Mail-Marketing Funnel , ohne jemals eine E-Mail schreiben zu müsen und das 13 Monate lang ! Mit 1 Klick integrierbar. ... inkl. aller Checklisten, Templates und Vorlagen! ... wir übernehmen Optimierung und Verkauf für dich im Hintergrund!! ... eine ganz klare Schritt-für-Schritt-Anleitung zur Umsetzung. ... und noch einiges mehr Inkl. allen 6 Boni! und einem Premium Support . Es ist DIE Chance DEINES Lebens!
 
 ## 2. Links
 

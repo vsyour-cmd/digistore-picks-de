@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Pilates&amp;Friends Abo</strong></p>
-<p><strong>Das Online Pilates Paket</strong></p>
-<div>Das Pilates&amp;Friends Abo ist die Standardmitgliedschaft, die monatlich, halbjährlich oder jährlich abgeschlossen werden kann. Mit dem Pilates&amp;Friends Abo hat der Kunde Zugriff auf über 1.300 Pilates Videos, zu denen wöchentlich neue hinzukommen.</div>
-<div>Die Videos haben eine Länge von 10 Minuten bis zu über einer Stunde und sind in verschiedenste Schwierigkeitsstufen aufgeteilt. Das Mitglied kann somit seine Pilates Übungen von überall und zu jeder Zeit durchführen und profitiert dabei von einer Such- und Filterfunktion nach Ausbildungsschule, Trainer, Länge, Geräte, Kleingeräte und Schwerpunkt. Es gibt keine Vertragsbindung.</div>
-<div> </div>
-<p><strong>Kundenvorteile bei Pilates&amp;Friends:</strong></p>
-<ul style="list-style-type:disc;">
-<li>• Wöchentlich neue Videos</li>
-<li>• Videos aus unterschiedlichen Bereichen mit den besten Trainern</li>
-<li>• Übungsvideos in allen Schwierigkeitsgraden</li>
-<li>• Videos in unterschiedlichen Längen, von 10 Minuten bis über eine Stunde</li>
-<li>• Videos mit Pilates Kleingeräten - überall durchführbar</li>
-<li>• Pilates an den Studiogeräten - inbesondere als Inspiration für Trainer</li>
-<li>• Pilates&amp;Friends Austausch - wöchentliche Video-Calls für die Community</li>
-<li>• Keine Vertragsbindung</li>
-</ul>
+**Vendor's marketplace description:** Pilates&Friends Abo Das Online Pilates Paket Das Pilates&Friends Abo ist die Standardmitgliedschaft, die monatlich, halbjährlich oder jährlich abgeschlossen werden kann. Mit dem Pilates&Friends Abo hat der Kunde Zugriff auf über 1.300 Pilates Videos, zu denen wöchentlich neue hinzukommen. Die Videos haben eine Länge von 10 Minuten bis zu über einer Stunde und sind in verschiedenste Schwierigkeitsstufen aufgeteilt. Das Mitglied kann somit seine Pilates Übungen von überall und zu jeder Zeit durchführen und profitiert dabei von einer Such- und Filterfunktion nach Ausbildungsschule, Trainer, Länge, Geräte, Kleingeräte und Schwerpunkt. Es gibt keine Vertragsbindung. Kundenvorteile bei Pilates&Friends: • Wöchentlich neue Videos • Videos aus unterschiedlichen Bereichen mit den besten Trainern • Übungsvideos in allen Schwierigkeitsgraden • Videos in unterschiedlichen Längen, von 10 Minuten bis über eine Stunde • Videos mit Pilates Kleingeräten - überall durchführbar • Pilates an den Studiogeräten - inbesondere als Inspiration für Trainer • Pilates&Friends Austausch - wöchentliche Video-Calls für die Community • Keine Vertragsbindung
 
 ## 2. Links
 

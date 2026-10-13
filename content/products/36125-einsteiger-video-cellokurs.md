@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Weltpremiere: Der erste deutschsprachige Video Cellokurs für alle, die Cello lernen möchten.</h3>
-<h3>Der Kurs richtet sich an <strong>Kinder</strong> und <strong>Erwachsene</strong> gleichermaßen.</h3>
-<div> </div>
-<p><strong>        Die Vorteile:</strong></p>
-<ul>
-<li>Brandneuer und einer<strong> der ersten Video Cello Lernkurse</strong> im deutschsprachigen Raum</li>
-<li>Der Kurs beinhaltet <strong>8 Lektionen</strong> bzw. Unterrichtseinheiten</li>
-<li><strong>Erfrischende Videolänge</strong> von ca. 25 Minuten</li>
-<li><strong>Uriel Stülpnagel</strong> ist Dein Cellocoach mit über 30 Jahren Unterrichtserfahrung</li>
-<li>Lerne <strong>jede Woche eine Lektion</strong></li>
-<li><strong>Leichte, verständliche</strong> Sprache und kleine Schritte</li>
-<li>In jeder Lektion finden Wiederholungen statt – <strong>wie im Live Unterricht</strong></li>
-<li>Einführung in die <strong>Musik</strong></li>
-<li>Handhabung des <strong>Cellos</strong></li>
-<li>Einführung in die <strong>Notenschrift</strong></li>
-<li>Erlernen der <strong>Cellohaltung</strong></li>
-<li>Erlernen der <strong>Bogenhaltung</strong></li>
-<li>Streichen lernen</li>
-<li><strong>Fingertraining</strong></li>
-<li>Erstes Spiel von <strong>Liedern</strong></li>
-<li><strong>Gratis Begleitmaterial</strong> zum download</li>
-<li>Persönliche Unterstützung via Zoom jederzeit möglich.</li>
-</ul>
+**Vendor's marketplace description:** Weltpremiere: Der erste deutschsprachige Video Cellokurs für alle, die Cello lernen möchten. Der Kurs richtet sich an Kinder und Erwachsene gleichermaßen. Die Vorteile: Brandneuer und einer der ersten Video Cello Lernkurse im deutschsprachigen Raum Der Kurs beinhaltet 8 Lektionen bzw. Unterrichtseinheiten Erfrischende Videolänge von ca. 25 Minuten Uriel Stülpnagel ist Dein Cellocoach mit über 30 Jahren Unterrichtserfahrung Lerne jede Woche eine Lektion Leichte, verständliche Sprache und kleine Schritte In jeder Lektion finden Wiederholungen statt – wie im Live Unterricht Einführung in die Musik Handhabung des Cellos Einführung in die Notenschrift Erlernen der Cellohaltung Erlernen der Bogenhaltung Streichen lernen Fingertraining Erstes Spiel von Liedern Gratis Begleitmaterial zum download Persönliche Unterstützung via Zoom jederzeit möglich.
 
 ## 2. Links
 

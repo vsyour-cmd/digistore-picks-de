@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Schmerzfrei schlafen“</strong></p>
-<p>Endlich Nächte ohne Rückenqualen – Wenn der Rücken nachts keine Ruhe gibt, wird jeder Morgen zur Qual. Lerne, deine Nächte mit Position, Routine und Soforthilfe wieder erholsam zu machen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 7,45 € pro Verkauf (Verkaufspreis 14,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Den Kreis aus Schmerz und schlechtem Schlaf durchbrechen</li>
-<li>Die richtige Schlafposition für deinen Rücken finden</li>
-<li>Matratze, Kissen und Schlafumgebung optimieren</li>
-<li>Soforthilfe, wenn der Schmerz dich nachts weckt</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Schmerzfrei schlafen“ Endlich Nächte ohne Rückenqualen – Wenn der Rücken nachts keine Ruhe gibt, wird jeder Morgen zur Qual. Lerne, deine Nächte mit Position, Routine und Soforthilfe wieder erholsam zu machen. Warum dieses E-Book bewerben? 50 % Provision – ca. 7,45 € pro Verkauf (Verkaufspreis 14,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Den Kreis aus Schmerz und schlechtem Schlaf durchbrechen Die richtige Schlafposition für deinen Rücken finden Matratze, Kissen und Schlafumgebung optimieren Soforthilfe, wenn der Schmerz dich nachts weckt
 
 ## 2. Links
 

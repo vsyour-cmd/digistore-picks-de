@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Affiliate Marketing verständlich erklärt – mit ChatGPT &amp; digitalen Tools.</strong></p>
-<p>Dieses kostenlose E-Book zeigt dir Schritt für Schritt,<br />wie du ohne eigenes Produkt ins Affiliate-Marketing startest und ChatGPT sinnvoll für Content-Erstellung, Ideenfindung und Umsetzung nutzt.</p>
-<p><strong>Inhalte u. a.:</strong></p>
-<ul>
-<li>
-<p>Grundlagen des Affiliate-Marketings für Einsteiger</p>
-</li>
-<li>
-<p>Praxisnahe Beispiele aus dem Online-Business</p>
-</li>
-<li>
-<p>Fertige ChatGPT-Prompts zur direkten Anwendung</p>
-</li>
-<li>
-<p>Typische Anfängerfehler und wie du sie vermeidest</p>
-</li>
-</ul>
-<p>Ideal für Einsteiger, Selbstständige und alle,<br />die ChatGPT produktiver nutzen möchten.</p>
-<hr />
-<p><strong>Hinweis für Affiliates:</strong><br />Dieses kostenlose E-Book ist als Einstieg konzipiert.<br />Im weiteren Verlauf des Funnels gibt es optionale<br />Upsell- und Zusatzangebote mit zusätzlichen<br />Provisionsmöglichkeiten.</p>
+**Vendor's marketplace description:** Affiliate Marketing verständlich erklärt – mit ChatGPT & digitalen Tools. Dieses kostenlose E-Book zeigt dir Schritt für Schritt, wie du ohne eigenes Produkt ins Affiliate-Marketing startest und ChatGPT sinnvoll für Content-Erstellung, Ideenfindung und Umsetzung nutzt. Inhalte u. a.: Grundlagen des Affiliate-Marketings für Einsteiger Praxisnahe Beispiele aus dem Online-Business Fertige ChatGPT-Prompts zur direkten Anwendung Typische Anfängerfehler und wie du sie vermeidest Ideal für Einsteiger, Selbstständige und alle, die ChatGPT produktiver nutzen möchten. Hinweis für Affiliates: Dieses kostenlose E-Book ist als Einstieg konzipiert. Im weiteren Verlauf des Funnels gibt es optionale Upsell- und Zusatzangebote mit zusätzlichen Provisionsmöglichkeiten.
 
 ## 2. Links
 

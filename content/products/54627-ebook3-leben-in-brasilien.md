@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Tauche ein in das Herz Brasiliens – in ein Land voller Lebensfreude, Musik, Tanz und Begegnungen.</p>
-<p>Autorin Marilia Grossmann führt die Leser:innen auf eine sinnliche Reise durch die Kultur, Feste und Rhythmen des brasilianischen Lebens.</p>
-<p>Mit poetischer Sprache, lebendigen Szenen und persönlichem Erleben verbindet sie Tradition und Gegenwart – von den Straßen Rios bis zu den stillen Momenten am Amazonas.</p>
-<p>Ein <strong>eBook</strong> über Menschen, Musik und Magie – über das Gefühl, wirklich lebendig zu sein. Perfekt für alle, die Kultur nicht nur verstehen, sondern fühlen möchten.</p>
+**Vendor's marketplace description:** Tauche ein in das Herz Brasiliens – in ein Land voller Lebensfreude, Musik, Tanz und Begegnungen. Autorin Marilia Grossmann führt die Leser:innen auf eine sinnliche Reise durch die Kultur, Feste und Rhythmen des brasilianischen Lebens. Mit poetischer Sprache, lebendigen Szenen und persönlichem Erleben verbindet sie Tradition und Gegenwart – von den Straßen Rios bis zu den stillen Momenten am Amazonas. Ein eBook über Menschen, Musik und Magie – über das Gefühl, wirklich lebendig zu sein. Perfekt für alle, die Kultur nicht nur verstehen, sondern fühlen möchten.
 
 ## 2. Links
 

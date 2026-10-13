@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<p style="text-align:center;">Lerne bequem von zu Hause aus die geistige Heilmethode:</p>
-<h2 style="text-align:center;">"Energetisch Geistige Wirbelsäulen Therapie nach  der Informationsmedizin!"</h2>
-</div>
-</div>
-<div>
-<p>Als Physiotherapeut und Heiler, mit über 40-jähriger Erfahrung, verrate ich im Video Seminar, wie 80 % aller Betroffenen ihre Rückenschmerzen ganzheitlich loswerden können.</p>
-In diesem Online-Seminar bekommen die Teilnehmer das Wissen und die Fähigkeit bei sich selbst oder bei Patienten die "Energetisch Geistige Heilung der Wirbelsäule nach der Informationsmedizin" anzuwenden. </div>
-<div> </div>
-<div><strong>Der Unterschiede zu anderen spirituellen Kursen </strong>ist, dass ich als Therapeut die Basis die russische Informationsmedizin verwende, bei der ein gut strukturiertes Vorgehen mit Formelsätzen die Basis ist, die jeder nachmachen kann. Weiterhin behandle ich in einem Modul Kopfschmerzen auf ganzheitlichen Wegen und beachte im Kurs die Gesetze der Ganzheitlichkeit auf mehren Ebenen.</div>
-<div> </div>
-<div>Wenn Sie schon immer wissen wollten, wie die Anwendung der <strong>Energetischen Geistigen Wirbelsäulentherapie nach den russischen Heilweisen gegen Rückenschmerzen </strong>funktioniert und diese wunderbare Heilmethode selber lernen wollen, dann sind Sie hier auf dieser Seite herzlich willkommen.</div>
-<div> </div>
-<div>Dieses online Seminar hat über 50 Videos, verpackt in 8 Modulen mit einer Gesamtzeit von mehr als 6 Stunden!</div>
-<div>
-<p>Das online Seminar ist speziell geeignet für ganzheitliche Therapeuten, Gesundheitscoaches und -berater, Heilpraktiker, spirituelle Menschen und alle Interessierte, die ihren Horizont erweitern wollen. </p>
-Alle weiteren nötigen Informationen können auf der Verkaufs- und auf der Affiliate-Support-Seite aufgerufen werden.</div>
+**Vendor's marketplace description:** Lerne bequem von zu Hause aus die geistige Heilmethode: "Energetisch Geistige Wirbelsäulen Therapie nach der Informationsmedizin!" Als Physiotherapeut und Heiler, mit über 40-jähriger Erfahrung, verrate ich im Video Seminar, wie 80 % aller Betroffenen ihre Rückenschmerzen ganzheitlich loswerden können. In diesem Online-Seminar bekommen die Teilnehmer das Wissen und die Fähigkeit bei sich selbst oder bei Patienten die "Energetisch Geistige Heilung der Wirbelsäule nach der Informationsmedizin" anzuwenden. Der Unterschiede zu anderen spirituellen Kursen ist, dass ich als Therapeut die Basis die russische Informationsmedizin verwende, bei der ein gut strukturiertes Vorgehen mit Formelsätzen die Basis ist, die jeder nachmachen kann. Weiterhin behandle ich in einem Modul Kopfschmerzen auf ganzheitlichen Wegen und beachte im Kurs die Gesetze der Ganzheitlichkeit auf mehren Ebenen. Wenn Sie schon immer wissen wollten, wie die Anwendung der Energetischen Geistigen Wirbelsäulentherapie nach den russischen Heilweisen gegen Rückenschmerzen funktioniert und diese wunderbare Heilmethode selber lernen wollen, dann sind Sie hier auf dieser Seite herzlich willkommen. Dieses online Seminar hat über 50 Videos, verpackt in 8 Modulen mit einer Gesamtzeit von mehr als 6 Stunden! Das online Seminar ist speziell geeignet für ganzheitliche Therapeuten, Gesundheitscoaches und -berater, Heilpraktiker, spirituelle Menschen und alle Interessierte, die ihren Horizont erweitern wollen. Alle weiteren nötigen Informationen können auf der Verkaufs- und auf der Affiliate-Support-Seite aufgerufen werden.
 
 ## 2. Links
 

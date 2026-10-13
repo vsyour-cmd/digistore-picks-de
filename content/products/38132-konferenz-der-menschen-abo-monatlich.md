@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><span style="background-color:#ffff00;">MONAT FÜR MONAT</span> € 7,12 für jeden einzelnen Verkauf </strong>(variiert nach Land) </p>
-<p><br /><span style="background-color:#ffff00;"><strong>50%</strong></span> Lifetime-Provision auf 20,00 € netto (für Abo)</p>
-<p>Folglich sind deine Verdienstmöglichkeiten:</p>
-<ul>
-<li>In D kannst du <strong>1000 € PRO MONAT</strong> mit <strong>137 Conversions </strong>verdienen</li>
-<li>In A kannst du <strong>1000 € PRO MONAT</strong> mit <strong>139 Conversions </strong>verdienen</li>
-<li>In CH kannst du <strong>1000 € PRO MONAT</strong> mit <strong>119 Conversions </strong>verdienen</li>
-</ul>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Deine Vorteile:</strong></span></p>
-<ul>
-<li>Du wächst mit einem sich schnell hochkommenden Projekt mit Sinn. Wir setzen uns mit den Vorträgen der Konferenz für eine gesunde Welt ein.</li>
-<li>Wir halten unsere Conversions über das ganze Jahr mit dem spannenden Programm von RadioSOL (dem Berteiber der KONFERENZ DER MENSCHEN)</li>
-<li>Sehr aktives Publikum mit einer Interaktionsratre von 51%</li>
-<li>Schnelle und persönliche Unterstützung auf Deutsch und Englisch unter <a href="https://konferenzdermenschen.com/kontakt/" target="_blank" rel="noreferrer noopener">Konferenz Support</a></li>
-</ul>
-<p> </p>
-<p><strong>Du möchtest das Konferenzprogramm selbst erfahren?</strong> Melde dich kostenfei an bei der <a href="https://konferenzdermenschen.com" target="_blank" rel="noreferrer noopener">KONFERENZ DER MENSCHEN</a></p>
-<p> </p>
-<p><strong>Du hast noch weitere Fragen?</strong></p>
-<p>Detaillierte Infos zum Ablauf des Affiliate-Programms auf unserer <a href="https://konferenzdermenschen.com/partnerprogramm/" target="_blank" rel="noreferrer noopener">AFFILIATE SUPPORT Seite &gt;&gt;</a></p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** MONAT FÜR MONAT € 7,12 für jeden einzelnen Verkauf (variiert nach Land) 50% Lifetime-Provision auf 20,00 € netto (für Abo) Folglich sind deine Verdienstmöglichkeiten: In D kannst du 1000 € PRO MONAT mit 137 Conversions verdienen In A kannst du 1000 € PRO MONAT mit 139 Conversions verdienen In CH kannst du 1000 € PRO MONAT mit 119 Conversions verdienen Deine Vorteile: Du wächst mit einem sich schnell hochkommenden Projekt mit Sinn. Wir setzen uns mit den Vorträgen der Konferenz für eine gesunde Welt ein. Wir halten unsere Conversions über das ganze Jahr mit dem spannenden Programm von RadioSOL (dem Berteiber der KONFERENZ DER MENSCHEN) Sehr aktives Publikum mit einer Interaktionsratre von 51% Schnelle und persönliche Unterstützung auf Deutsch und Englisch unter Konferenz Support Du möchtest das Konferenzprogramm selbst erfahren? Melde dich kostenfei an bei der KONFERENZ DER MENSCHEN Du hast noch weitere Fragen? Detaillierte Infos zum Ablauf des Affiliate-Programms auf unserer AFFILIATE SUPPORT Seite >>
 
 ## 2. Links
 

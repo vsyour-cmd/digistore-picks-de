@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>TradingView – Bewerben Sie jetzt unseren Swing Catcher Indikator!</strong></p>
-<p>Der professionell programmierte SwingCatcher Indikator gibt automatisiert Einstiegssignale.</p>
-<p><strong>Konditionen für Partner:</strong></p>
-<ul>
-<li>30 % Provision</li>
-<li>sehr geringe Stornoquote</li>
-</ul>
-<p>Bewerben Sie diesen Indikator jetzt auf Ihrer Webseite, Ihrem Blog oder direkt an Ihre Liste.</p>
+**Vendor's marketplace description:** TradingView – Bewerben Sie jetzt unseren Swing Catcher Indikator! Der professionell programmierte SwingCatcher Indikator gibt automatisiert Einstiegssignale. Konditionen für Partner: 30 % Provision sehr geringe Stornoquote Bewerben Sie diesen Indikator jetzt auf Ihrer Webseite, Ihrem Blog oder direkt an Ihre Liste.
 
 ## 2. Links
 

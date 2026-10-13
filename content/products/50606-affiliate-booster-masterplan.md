@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Bewerbe: Affiliate Booster Masterplan – und erhalte 50% Provision auf alle Up &amp; Downsells.</strong></p>
-<p><strong>Auf der Partnerseite ist für dich alles vorbereitet. E-Mail Vorlagen, Social Media Texte,...</strong></p>
-<p><strong>Affiliate Booster Masterplan beinhaltet Folgendes:</strong></p>
-<ul>
-<li>Die besten Hacks für dein Business</li>
-<li>Schritt-für-Schritt-Anleitungen</li>
-<li>Dieser Kurs ermöglicht, ein eigenes Online-Business aufzubauen</li>
-<li>Perfekt für jeden, der Online Geld verdienen möchte</li>
-</ul>
-<p>Im Funnel sind <strong>61 € Provision</strong> für dich möglich</p>
-<p><a href="https://page.funnelcockpit.com/SspyeobP7qETqCxyk" target="_blank" rel="noreferrer noopener">Zu den Werbemitteln &lt;&lt; klick</a></p>
+**Vendor's marketplace description:** Bewerbe: Affiliate Booster Masterplan – und erhalte 50% Provision auf alle Up & Downsells. Auf der Partnerseite ist für dich alles vorbereitet. E-Mail Vorlagen, Social Media Texte,... Affiliate Booster Masterplan beinhaltet Folgendes: Die besten Hacks für dein Business Schritt-für-Schritt-Anleitungen Dieser Kurs ermöglicht, ein eigenes Online-Business aufzubauen Perfekt für jeden, der Online Geld verdienen möchte Im Funnel sind 61 € Provision für dich möglich Zu den Werbemitteln << klick
 
 ## 2. Links
 

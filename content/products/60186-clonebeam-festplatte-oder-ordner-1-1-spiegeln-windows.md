@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Windows-Tool, das einen Ordner oder ein ganzes Laufwerk 1:1 auf ein Ziel spiegelt: Quelle wählen, Ziel wählen, klonen. Fortschritt, Restzeit und Protokoll laufen live im Fenster. Läuft lokal, ohne Cloud und ohne Installation.</p>
-<p>Zielgruppe: Windows-Nutzer, die Daten auf eine neue Festplatte umziehen oder ein Laufwerk sichern wollen.</p>
-<p>Einmaliger Kaufpreis 14,90 €, kein Abo. Verkaufsseite: https://www.gz-ai-stacks.de/CloneBeam/</p>
+**Vendor's marketplace description:** Windows-Tool, das einen Ordner oder ein ganzes Laufwerk 1:1 auf ein Ziel spiegelt: Quelle wählen, Ziel wählen, klonen. Fortschritt, Restzeit und Protokoll laufen live im Fenster. Läuft lokal, ohne Cloud und ohne Installation. Zielgruppe: Windows-Nutzer, die Daten auf eine neue Festplatte umziehen oder ein Laufwerk sichern wollen. Einmaliger Kaufpreis 14,90 €, kein Abo. Verkaufsseite: https://www.gz-ai-stacks.de/CloneBeam/
 
 ## 2. Links
 

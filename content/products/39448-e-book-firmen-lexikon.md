@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<p>Das Firmengründungs-Lexikon bietet Dir einen ausführlichen Vergleich von 60 Staaten weltweit bezüglich:</p>
-</div>
-</div>
-<div>
-<ul>
-<li>60 Gründungsstaaten sortiert nach Kategorien</li>
-<li>33 verglichene Indikatoren</li>
-<li>topaktuell unter Einbindung aller aktuell laufender Reformen wie BEPS</li>
-<li>inklusive aller relevanten DBA für DACH + USA</li>
-<li>Link-Sammlung für alle relevanten Texte rund um Firmengründung &amp; Steueroptimierung</li>
-</ul>
-<p>Details zu den Methoden von Großkonzernen und reichen Familien sind rar gesät in der Welt der Steuervermeidung. Meist hört man nur von jenen, die erwischt und öffentlich verdammt werden. Wer hingegen Erfolg hat seine Steuern zu reduzieren, der soll - es könnte ja Nachahmer geben - möglichst nicht ins Rampenlicht gestellt werden.</p>
-<p>Mit diesem Buch wollen wir allen Laien die Möglichkeit geben genau das zu erfahren, was ihnen, die es viel dringender brauchen könnten, verschwiegen wird. Alle Tipps und Tricks zur Steuervermeidung und Strategien zum Vermögensschutz aus erster Hand von einem Steuerberater in Ruhestand, der vor lauter Willkür und Steuerverschwendung endlich auspacken musste.</p>
-</div>
+**Vendor's marketplace description:** Das Firmengründungs-Lexikon bietet Dir einen ausführlichen Vergleich von 60 Staaten weltweit bezüglich: 60 Gründungsstaaten sortiert nach Kategorien 33 verglichene Indikatoren topaktuell unter Einbindung aller aktuell laufender Reformen wie BEPS inklusive aller relevanten DBA für DACH + USA Link-Sammlung für alle relevanten Texte rund um Firmengründung & Steueroptimierung Details zu den Methoden von Großkonzernen und reichen Familien sind rar gesät in der Welt der Steuervermeidung. Meist hört man nur von jenen, die erwischt und öffentlich verdammt werden. Wer hingegen Erfolg hat seine Steuern zu reduzieren, der soll - es könnte ja Nachahmer geben - möglichst nicht ins Rampenlicht gestellt werden. Mit diesem Buch wollen wir allen Laien die Möglichkeit geben genau das zu erfahren, was ihnen, die es viel dringender brauchen könnten, verschwiegen wird. Alle Tipps und Tricks zur Steuervermeidung und Strategien zum Vermögensschutz aus erster Hand von einem Steuerberater in Ruhestand, der vor lauter Willkür und Steuerverschwendung endlich auspacken musste.
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong><span style="color:#ff0000;">Verschenke das Digitale Dominanz Buch</span> an deine Leser / Kunden und wir zahlen dir 5€ Provision für jede Bestellung!</strong></h2>
-<ul>
-<li>über 180 Seiten | Sprache: Deutsch</li>
-<li>von Christoph J. F. Schreiber</li>
-<li>Inklusive 249,00€ Gutschein (Seite 145 im Buch)</li>
-<li>Versand erfolgt durch Deutsche Post</li>
-</ul>
+**Vendor's marketplace description:** Verschenke das Digitale Dominanz Buch an deine Leser / Kunden und wir zahlen dir 5€ Provision für jede Bestellung! über 180 Seiten | Sprache: Deutsch von Christoph J. F. Schreiber Inklusive 249,00€ Gutschein (Seite 145 im Buch) Versand erfolgt durch Deutsche Post
 
 ## 2. Links
 

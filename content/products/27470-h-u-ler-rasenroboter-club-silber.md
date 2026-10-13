@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Als Mitglied im Häußler Rasenroboter-Club erhalten Rasenroboterbesitzer wertvolle Vergünstigungen für Einkauf von Zubehör, Services, Reparaturen, zusätzlich erhalten diese kostenlose Services.</p>
-<p>Sie bewerben den Club über den angezeigten Affiliate-Link und erhalten 50% Provision pro Jahr, solange der geworbene Kunde Mitglied bleibt</p>
+**Vendor's marketplace description:** Als Mitglied im Häußler Rasenroboter-Club erhalten Rasenroboterbesitzer wertvolle Vergünstigungen für Einkauf von Zubehör, Services, Reparaturen, zusätzlich erhalten diese kostenlose Services. Sie bewerben den Club über den angezeigten Affiliate-Link und erhalten 50% Provision pro Jahr, solange der geworbene Kunde Mitglied bleibt
 
 ## 2. Links
 

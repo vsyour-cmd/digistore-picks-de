@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der Aufbaukurs für alle, die über Entspannung hinausgehen wollen: bewusste Atempausen sicher lernen und anwenden.</strong></p>
-<p>Über 4 Stunden Videomaterial in drei Teilen:</p>
-<ul>
-<li>Grundlagen und Orientierung – was CO², Sauerstoff und Nervensystem dabei wirklich tun</li>
-<li>PSYCHEDELIC BREATH® – geführte 55-Minuten-Session</li>
-<li>Vision Breathing – geführte 45-Minuten-Session</li>
-</ul>
-<p><strong>Für wen:</strong> Menschen mit Breathwork-Vorerfahrung, idealerweise nach dem Anfängerkurs „Begin To Breathe“. Kontraindikationen werden im Kurs klar benannt.</p>
-<p><strong>Warum es konvertiert:</strong> 147 € einmalig, kein Abo. Vision Breathing gibt es weltweit nur bei Beamdream Breathworks. Starkes Follow-up-Produkt für alle, die den Einsteigerkurs bereits gekauft haben.</p>
-<p>Der Kurs wird von Corrina Holzner geleitet, die bereits über 100 Atemtrainer:innen ausgebildet hat.</p>
+**Vendor's marketplace description:** Der Aufbaukurs für alle, die über Entspannung hinausgehen wollen: bewusste Atempausen sicher lernen und anwenden. Über 4 Stunden Videomaterial in drei Teilen: Grundlagen und Orientierung – was CO², Sauerstoff und Nervensystem dabei wirklich tun PSYCHEDELIC BREATH® – geführte 55-Minuten-Session Vision Breathing – geführte 45-Minuten-Session Für wen: Menschen mit Breathwork-Vorerfahrung, idealerweise nach dem Anfängerkurs „Begin To Breathe“. Kontraindikationen werden im Kurs klar benannt. Warum es konvertiert: 147 € einmalig, kein Abo. Vision Breathing gibt es weltweit nur bei Beamdream Breathworks. Starkes Follow-up-Produkt für alle, die den Einsteigerkurs bereits gekauft haben. Der Kurs wird von Corrina Holzner geleitet, die bereits über 100 Atemtrainer:innen ausgebildet hat.
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Bewerbe den Kurs: YouTube KI - 3 Geheime Strategien</strong></p>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Das bekommt Deine Community:</strong></span></p>
-<p><strong>✅ Rocke YouTube mit automatisiert mit KI! </strong></p>
-<p><strong>✅ So macht man seine Abonnenten glücklich</strong></p>
-<p><strong>✅ So wächst der YouTube Account schneller als alle andere mit KI</strong></p>
-<p><strong>✅ Geldmaschine YouTube! So gehts...</strong></p>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Sehr gute Conversion:</strong></span></p>
-<p><strong>Deine Community bekommt den YouTube Kurs und unzählige kostenlose Kurse als Geschenk dazu und Du verdienst am Upsell Prozess (YouTube Produkte) bis zu 137 Euro</strong></p>
+**Vendor's marketplace description:** Bewerbe den Kurs: YouTube KI - 3 Geheime Strategien Das bekommt Deine Community: ✅ Rocke YouTube mit automatisiert mit KI! ✅ So macht man seine Abonnenten glücklich ✅ So wächst der YouTube Account schneller als alle andere mit KI ✅ Geldmaschine YouTube! So gehts... Sehr gute Conversion: Deine Community bekommt den YouTube Kurs und unzählige kostenlose Kurse als Geschenk dazu und Du verdienst am Upsell Prozess (YouTube Produkte) bis zu 137 Euro
 
 ## 2. Links
 

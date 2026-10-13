@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>WELPENZEIT</strong><br />Schritt für Schritt zum tollen Hund<br />Online Selbstlernkurs mit 3 Modulen (gesamt 32 Videos)</p>
-<p><strong>REIZANGELTRAINING (kostenloser Bonus)</strong><br />Online Selbstlernkurs (gesamt 3 Videos)</p>
-<p><br />Die Werbemittel verweisen auf ein Extravideo, in dem der Interessent "3 bewährte Profi-Welpenerziehungstipps" kostenlos bekommt. Das Extravideo wird auf der Landingpage/Landeseite ausgestrahlt. Im Extravideo wird nach den "3 bewährten Profi-Welpenerziehungstipps" das Produkt vorgestellt und verkauft.</p>
-<p>WICHTIG: Bei der Promotion nicht direkt auf das "Produkt" verweisen, sondern vielmehr auf das Extravideo mit den "3 bewährten Profi-Welpenerziehungstipps".</p>
+**Vendor's marketplace description:** WELPENZEIT Schritt für Schritt zum tollen Hund Online Selbstlernkurs mit 3 Modulen (gesamt 32 Videos) REIZANGELTRAINING (kostenloser Bonus) Online Selbstlernkurs (gesamt 3 Videos) Die Werbemittel verweisen auf ein Extravideo, in dem der Interessent "3 bewährte Profi-Welpenerziehungstipps" kostenlos bekommt. Das Extravideo wird auf der Landingpage/Landeseite ausgestrahlt. Im Extravideo wird nach den "3 bewährten Profi-Welpenerziehungstipps" das Produkt vorgestellt und verkauft. WICHTIG: Bei der Promotion nicht direkt auf das "Produkt" verweisen, sondern vielmehr auf das Extravideo mit den "3 bewährten Profi-Welpenerziehungstipps".
 
 ## 2. Links
 

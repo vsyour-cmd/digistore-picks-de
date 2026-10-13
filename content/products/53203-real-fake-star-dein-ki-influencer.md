@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewerbe jetzt den OnlineKurs Real Fake Star jnd profitiere von 50% Provision  auf alle Addons und Upsells!</p>
-<p>Real Fake Star – Dein KI-Influencer entsteht hier</p>
-<p>Erschaffe deinen eigenen, realistischen KI-Charakter für Instagram, TikTok, Reels, E-Books &amp; mehr – ohne selbst ständig sichtbar sein zu müssen.</p>
-<p>Lerne Schritt für Schritt, wie du einen glaubwürdigen digitalen Influencer entwickelst, der verkauft, überzeugt und deine Geschichte erzählt. </p>
-<p> </p>
-<p>Erstelle genauso kinderleicht mit unserer Methode dein eigenen KI-Zwilling innerhalb von 5 Minuten.</p>
-<p> </p>
-<p>✔️ Ohne Technik-Vorkenntnisse</p>
-<p>✔️ Für alle Plattformen einsetzbar</p>
-<p>✔️ Ideal für Content Creator, Marketer &amp; Solopreneure</p>
-<p> </p>
-<p>Jetzt starten und dir deinen eigenen KI-Influencer bauen – einmalig, kreativ und 100 % du.</p>
-<p> </p>
-<p>Du bekommst den Zugang sofort per E-Mail, auch wenn es gerade 3 Uhr Nachts ist.</p>
+**Vendor's marketplace description:** Bewerbe jetzt den OnlineKurs Real Fake Star jnd profitiere von 50% Provision auf alle Addons und Upsells! Real Fake Star – Dein KI-Influencer entsteht hier Erschaffe deinen eigenen, realistischen KI-Charakter für Instagram, TikTok, Reels, E-Books & mehr – ohne selbst ständig sichtbar sein zu müssen. Lerne Schritt für Schritt, wie du einen glaubwürdigen digitalen Influencer entwickelst, der verkauft, überzeugt und deine Geschichte erzählt. Erstelle genauso kinderleicht mit unserer Methode dein eigenen KI-Zwilling innerhalb von 5 Minuten. ✔️ Ohne Technik-Vorkenntnisse ✔️ Für alle Plattformen einsetzbar ✔️ Ideal für Content Creator, Marketer & Solopreneure Jetzt starten und dir deinen eigenen KI-Influencer bauen – einmalig, kreativ und 100 % du. Du bekommst den Zugang sofort per E-Mail, auch wenn es gerade 3 Uhr Nachts ist.
 
 ## 2. Links
 

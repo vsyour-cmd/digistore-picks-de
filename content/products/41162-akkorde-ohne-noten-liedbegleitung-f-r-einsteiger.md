@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Attraktiver Kurs mit<strong> professioneller Landingpage.</strong></p>
-<p><strong>Gute Verdienstmöglichkeit durch Crossselling mehrerer Kurse auf <a href="http://www.guitarschool.at">www.guitarschool.at</a></strong></p>
-<p><strong>Wenn du Fragen hast, melde dich einfach bei mir.</strong></p>
-<div>
-<div>
-<h2><strong>"Gitarrengriffe ganz einfach online lernen!</strong></h2>
-<p><strong>Kurs Beschreibung</strong></p>
-<p>Die beliebtesten <strong>Schlagmuster und Zupfmuster</strong> spielen lernen?<br /><strong>Deinen Lieblingssong</strong> aus dem Internet selbstständig erarbeiten?<br />Du weißt nicht <strong>wo </strong>du<strong> starten </strong>sollst?<br />Deine <strong>Akkorde</strong> klingen <strong>unsauber</strong>?<br />Du willst <strong>schnelle Fortschritte</strong> an der Gitarre machen?</p>
-<p><strong>Dann ist dieser Kurs genau der Richtige für DICH!"</strong></p>
-</div>
-</div>
+**Vendor's marketplace description:** Attraktiver Kurs mit professioneller Landingpage. Gute Verdienstmöglichkeit durch Crossselling mehrerer Kurse auf www.guitarschool.at Wenn du Fragen hast, melde dich einfach bei mir. "Gitarrengriffe ganz einfach online lernen! Kurs Beschreibung Die beliebtesten Schlagmuster und Zupfmuster spielen lernen? Deinen Lieblingssong aus dem Internet selbstständig erarbeiten? Du weißt nicht wo du starten sollst? Deine Akkorde klingen unsauber ? Du willst schnelle Fortschritte an der Gitarre machen? Dann ist dieser Kurs genau der Richtige für DICH!"
 
 ## 2. Links
 

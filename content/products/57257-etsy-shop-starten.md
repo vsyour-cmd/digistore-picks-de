@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Etsy-Shop starten“</strong></p>
-<p>Handmade- und Digitalprodukte erfolgreich verkaufen – Etsy ist einer der zugänglichsten Marktplätze für kreative Menschen. Nische finden, Shop einrichten, Listings mit guten Fotos und Etsy-SEO optimieren und die ersten Verkäufe gewinnen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Deine Nische und Produktidee finden</li>
-<li>Den Shop einrichten und Produkte vorbereiten</li>
-<li>Listings mit guten Fotos und Etsy-SEO optimieren</li>
-<li>Urheberrecht, Gebühren und Steuern im Blick</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Etsy-Shop starten“ Handmade- und Digitalprodukte erfolgreich verkaufen – Etsy ist einer der zugänglichsten Marktplätze für kreative Menschen. Nische finden, Shop einrichten, Listings mit guten Fotos und Etsy-SEO optimieren und die ersten Verkäufe gewinnen. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Deine Nische und Produktidee finden Den Shop einrichten und Produkte vorbereiten Listings mit guten Fotos und Etsy-SEO optimieren Urheberrecht, Gebühren und Steuern im Blick
 
 ## 2. Links
 

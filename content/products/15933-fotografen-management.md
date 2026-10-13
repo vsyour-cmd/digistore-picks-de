@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die Verwaltungssoftware für Fotografen.</p>
-<p>Verwaltung von Shootings, Hochzeiten, Locations, Gutscheine und Erstellung von Angebote, Auftragsbestätigungen, Rechnungen, Verträge, uvm.</p>
-<p>Ein muss für jeden Fotografen!</p>
-<p>__________________________________________</p>
-<p>Durch die Bestellung, stimmt der Käufer den <a href="https://fotografen.management/agb/" target="_blank" rel="noreferrer noopener">AGB</a>, <a href="https://fotografen.management/datenschutz/" target="_blank" rel="noreferrer noopener">Datenschutzerklärung</a> und <a href="https://fotografen.management/verzeichnis-von-verarbeitungstaetigkeiten/" target="_blank" rel="noreferrer noopener">Verarbeitungsverzeichnis</a> von Fotografen.Management zu.</p>
+**Vendor's marketplace description:** Die Verwaltungssoftware für Fotografen. Verwaltung von Shootings, Hochzeiten, Locations, Gutscheine und Erstellung von Angebote, Auftragsbestätigungen, Rechnungen, Verträge, uvm. Ein muss für jeden Fotografen! __________________________________________ Durch die Bestellung, stimmt der Käufer den AGB , Datenschutzerklärung und Verarbeitungsverzeichnis von Fotografen.Management zu.
 
 ## 2. Links
 

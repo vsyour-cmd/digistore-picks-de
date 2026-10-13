@@ -41,8 +41,6 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>
-
 ## 2. Links
 
 - **Promo link (affiliate):** https://www.beamdream.com/breathwork-teacher-training?aff=adminstore#aff=adminstore

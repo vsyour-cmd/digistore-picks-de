@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>• Abnehmen ist eine Lebensstiländerung, kein kurzfristiger Crash.</p>
-<p>•Ernährung + Bewegung + Mindset = Erfolg.</p>
-<p>•Kleine, nachhaltige Schritte führen langfristig zum Wunschgewicht.</p>
-<p>•Motivation, Planung und gesunde Gewohnheiten sind entscheidend.</p>
+**Vendor's marketplace description:** • Abnehmen ist eine Lebensstiländerung, kein kurzfristiger Crash. •Ernährung + Bewegung + Mindset = Erfolg. •Kleine, nachhaltige Schritte führen langfristig zum Wunschgewicht. •Motivation, Planung und gesunde Gewohnheiten sind entscheidend.
 
 ## 2. Links
 

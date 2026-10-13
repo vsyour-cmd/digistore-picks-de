@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Was wäre, wenn du nicht nur aus deiner kleinen Zielgruppe maximale Sales rausholst, sondern sie systematisch vergrößerst?</p>
-<p>Conversion + Reichweite = <strong>Verkaufsmaschine</strong></p>
-<p>Mit dem TikTok Code lernst du:</p>
-<p>✔️ Wie du jedes Video (gesprochen, geschrieben oder faceless) nach meinem Verkaufsaufbau strukturierst und aus 200–300 Views <strong>vier- bis fünfstellige Views</strong> machst<br />✔️ Wie du TikTok als gezielte Zuflussmaschine für dein Angebot nutzt<br />✔️ Wie du mit deiner Reichweite echte Traumkunden erreichst<br />✔️ Welche Fehler deine Reichweite einschränken</p>
-<p><strong>Enthalten:</strong><br />✔️ 120 Min. Video-Training<br />✔️ Q&amp;A + Profilanalysen<br />✔️ Klare Frameworks zur direkten Umsetzung</p>
-<p>Sofortiger Zugriff im Mitgliederbereich.</p>
+**Vendor's marketplace description:** Was wäre, wenn du nicht nur aus deiner kleinen Zielgruppe maximale Sales rausholst, sondern sie systematisch vergrößerst? Conversion + Reichweite = Verkaufsmaschine Mit dem TikTok Code lernst du: ✔️ Wie du jedes Video (gesprochen, geschrieben oder faceless) nach meinem Verkaufsaufbau strukturierst und aus 200–300 Views vier- bis fünfstellige Views machst ✔️ Wie du TikTok als gezielte Zuflussmaschine für dein Angebot nutzt ✔️ Wie du mit deiner Reichweite echte Traumkunden erreichst ✔️ Welche Fehler deine Reichweite einschränken Enthalten: ✔️ 120 Min. Video-Training ✔️ Q&A + Profilanalysen ✔️ Klare Frameworks zur direkten Umsetzung Sofortiger Zugriff im Mitgliederbereich.
 
 ## 2. Links
 

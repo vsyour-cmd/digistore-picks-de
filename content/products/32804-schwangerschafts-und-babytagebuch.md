@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong><span style="color:#ff0000;">5,- € Provision</span> auf jedes vermittelte Buch </strong></span></p>
-<p><span style="background-color:#ffff00;"><strong>+ 2 Tagebücher in einem<br /></strong></span></p>
-<p><span style="background-color:#ffff00;"><strong>+ einfaches eintragen für die Eltern<br /></strong></span></p>
-<p> </p>
-<p><strong>Schwangerschafts- &amp; Babytagebuch</strong></p>
-<p>➡️ robustes Hardcover Tagebuch um wichtige Gedanken und Erlebnisse der Schwangerschaft, Geburt und Babys erstes Jahr festzuhalten</p>
-<p>➡️ zum ausfüllen, ankreuzen und kreativ werden</p>
-<p>➡️ Ideales Geschenk für werdende Eltern</p>
-<p>➡️ Bietet genügend Platz für eigene Gedanken und Erlebnisse</p>
-<p>➡️ Ein persönliches und individuelles Familienerbstück</p>
-<p>➡️ Liebevoll von Hand gestaltete Seiten</p>
-<table>
-<tbody>
-<tr>
-<td>
-<div>
-<p><strong>Inhalt des Buches:</strong></p>
-<p>✔️ Hardcoverbuch: 120 Seiten</p>
-<p>✔️ alle wichtigen Dinge und Erlebisse zum ausfüllen, ankreuzen und einkleben       </p>
-<p>✔️ alle Details von Hand gezeichnet</p>
-<p>✔️ Leseband und 2 Briefe für persönliche Grüße an das Kind</p>
-<p>✔️ Größe: 17 x 24 cm</p>
-<p>✔️ Sprache: Deutsch</p>
-<p> </p>
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Bei Fragen kontaktiert mich bitte unter folgender E-Mail:laclaudine@gmx.de</p>
+**Vendor's marketplace description:** 5,- € Provision auf jedes vermittelte Buch + 2 Tagebücher in einem + einfaches eintragen für die Eltern Schwangerschafts- & Babytagebuch ➡️ robustes Hardcover Tagebuch um wichtige Gedanken und Erlebnisse der Schwangerschaft, Geburt und Babys erstes Jahr festzuhalten ➡️ zum ausfüllen, ankreuzen und kreativ werden ➡️ Ideales Geschenk für werdende Eltern ➡️ Bietet genügend Platz für eigene Gedanken und Erlebnisse ➡️ Ein persönliches und individuelles Familienerbstück ➡️ Liebevoll von Hand gestaltete Seiten Inhalt des Buches: ✔️ Hardcoverbuch: 120 Seiten ✔️ alle wichtigen Dinge und Erlebisse zum ausfüllen, ankreuzen und einkleben ✔️ alle Details von Hand gezeichnet ✔️ Leseband und 2 Briefe für persönliche Grüße an das Kind ✔️ Größe: 17 x 24 cm ✔️ Sprache: Deutsch Bei Fragen kontaktiert mich bitte unter folgender E-Mail:laclaudine@gmx.de
 
 ## 2. Links
 

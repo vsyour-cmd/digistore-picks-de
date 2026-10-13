@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Lebenslauf leicht gemacht – Lebenslauf-Generator</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Mit dem <strong>Lebenslauf-Generator</strong> entsteht aus den eigenen Angaben ein fertiger Lebenslauf als PDF. Dazu gibt es einen kurzen Ratgeber zum Lebenslauf.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Bewerber, die schnell einen Lebenslauf brauchen</li>
-<li>Berufseinsteiger und Schüler</li>
-<li>Menschen, die nach langer Zeit wieder eine Bewerbung schreiben</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Eine Bewerbung muss kurzfristig raus</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Bewerbung, Vorstellungsgespräch und Gehalt) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Lebenslauf leicht gemacht – Lebenslauf-Generator Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Mit dem Lebenslauf-Generator entsteht aus den eigenen Angaben ein fertiger Lebenslauf als PDF. Dazu gibt es einen kurzen Ratgeber zum Lebenslauf. Die Zielgruppe Bewerber, die schnell einen Lebenslauf brauchen Berufseinsteiger und Schüler Menschen, die nach langer Zeit wieder eine Bewerbung schreiben Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Eine Bewerbung muss kurzfristig raus Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Bewerbung, Vorstellungsgespräch und Gehalt) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>✨ Kreativ Elfe – Finde deinen Ausdruck &amp; verbinde dich mit dir selbst</h1>
-<p>Vielleicht fühlst du mehr, als du zeigen kannst.</p>
-<p>Gedanken.<br />Gefühle.<br />Ideen.</p>
-<p>Sie sind da –<br />aber sie finden keinen Raum.</p>
-<p>Du hältst sie zurück.<br />Oder weißt nicht, wie du ihnen Ausdruck geben sollst.</p>
-<p>Und genau das wird mit der Zeit schwer.</p>
-<hr />
-<h2>
+**Vendor's marketplace description:** ✨ Kreativ Elfe – Finde deinen Ausdruck & verbinde dich mit dir selbst Vielleicht fühlst du mehr, als du zeigen kannst. Gedanken. Gefühle. Ideen. Sie sind da – aber sie finden keinen Raum. Du hältst sie zurück. Oder weißt nicht, wie du ihnen Ausdruck geben sollst. Und genau das wird mit der Zeit schwer.
 
 ## 2. Links
 

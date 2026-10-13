@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><a href="https://www.digistore24.com/product/368229" target="_blank" rel="noreferrer noopener"><strong>Der 3-Tage-Online-Blitzfastenkurs mit Ralf Moll</strong></a></h2>
-<h2><a href="https://www.digistore24.com/product/398128/" target="_blank" rel="noreferrer noopener"><strong>Der 120/80-Blutdruck-Guide mit Ralf Moll</strong></a></h2>
-<h2><a href="https://www.digistore24.com/product/422975/" target="_blank" rel="noreferrer noopener"><strong>Der 10-Tage-Schlank-statt-Sauer-Kurs mit Ralf Moll &amp; Profikoch Holger Ilg</strong></a></h2>
-<h2><a href="https://www.digistore24.com/product/462653" target="_blank" rel="noreferrer noopener"><strong>Der 10-Tage-INTERVALLFASTEN-Kurs mit Ralf Moll</strong></a></h2>
-<h4><span style="color:#ff0000;"><strong>Tue Gutes und empfehle deinen Kunden und Freunden unser sehr gesundes, erprobtes und leckeres Suppenfastenprogramm weiter und verdiene mit uns mit!</strong></span></h4>
-<p>Deine Vorteile:</p>
-<p><strong>-&gt; Provisionen von zur Zeit 15% für alle Produkte</strong></p>
-<p><strong>-&gt; Garantiert etwas für deine Kunden dabei: Jeder muss mal fasten!</strong></p>
-<p><strong>-&gt; Getestet und optimiert: Bereits über 5.000 verkaufte Online-Kurse</strong></p>
-<p><strong>-&gt; Hohe Conversions und hoher Kundenwert: Profitiere mit an unseren optimierten Verkaufsfunneln und Riesennetzwerk</strong></p>
-<p><strong>-&gt; Schneller Support durch unseren Affiliate-Manager</strong></p>
-<p>Melde dich jetzt als Affiliate an und verdiene mit uns mit!</p>
-<p>Beste Fastengrüße<br />Dein Ralf Moll &amp; Team</p>
+**Vendor's marketplace description:** Der 3-Tage-Online-Blitzfastenkurs mit Ralf Moll Der 120/80-Blutdruck-Guide mit Ralf Moll Der 10-Tage-Schlank-statt-Sauer-Kurs mit Ralf Moll & Profikoch Holger Ilg Der 10-Tage-INTERVALLFASTEN-Kurs mit Ralf Moll Tue Gutes und empfehle deinen Kunden und Freunden unser sehr gesundes, erprobtes und leckeres Suppenfastenprogramm weiter und verdiene mit uns mit! Deine Vorteile: -> Provisionen von zur Zeit 15% für alle Produkte -> Garantiert etwas für deine Kunden dabei: Jeder muss mal fasten! -> Getestet und optimiert: Bereits über 5.000 verkaufte Online-Kurse -> Hohe Conversions und hoher Kundenwert: Profitiere mit an unseren optimierten Verkaufsfunneln und Riesennetzwerk -> Schneller Support durch unseren Affiliate-Manager Melde dich jetzt als Affiliate an und verdiene mit uns mit! Beste Fastengrüße Dein Ralf Moll & Team
 
 ## 2. Links
 

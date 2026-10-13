@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Vom Zuschauer zum Spielfeldrand</strong> ist ein 75-seitiger Praxis-Guide für alle, die in die professionelle Sport- und Pressefotografie einsteigen möchten.</p>
-<p>Der Guide zeigt Schritt für Schritt, wie man sich vom Amateurbereich weiterentwickelt, ein geeignetes Portfolio aufbaut, erste Einsätze findet, Akkreditierungen anfragt und mit Fotoagenturen arbeitet.</p>
-<p>Behandelt werden unter anderem:</p>
-<p>• Aufbau eines professionellen Sportportfolios<br />• Erste Einsätze und geeignete Einstiegsmöglichkeiten<br />• Akkreditierungen im Sport<br />• Presseausweis und professionelle Voraussetzungen<br />• Zusammenarbeit mit Fotoagenturen<br />• Workflow am Spieltag<br />• Bildauswahl, Bearbeitung und Übermittlung<br />• Caption, IPTC und redaktionelle Anforderungen<br />• Praktische Checklisten und Beispiele</p>
-<p><strong>Zielgruppe:</strong><br />Hobbyfotografen, angehende Sportfotografen, Pressefotografen und Fotografen, die sich professioneller im Sportbereich positionieren möchten.</p>
-<p><strong>Verkaufspreis:</strong> 29,99 €<br /><strong>Affiliate-Provision:</strong> 30 %</p>
-<p>Das Produkt wird als digitales PDF direkt nach erfolgreicher Bestellung ausgeliefert.</p>
-<p>Eine optimierte Verkaufsseite sowie Werbemittel für Social Media stehen zur Verfügung.</p>
+**Vendor's marketplace description:** Vom Zuschauer zum Spielfeldrand ist ein 75-seitiger Praxis-Guide für alle, die in die professionelle Sport- und Pressefotografie einsteigen möchten. Der Guide zeigt Schritt für Schritt, wie man sich vom Amateurbereich weiterentwickelt, ein geeignetes Portfolio aufbaut, erste Einsätze findet, Akkreditierungen anfragt und mit Fotoagenturen arbeitet. Behandelt werden unter anderem: • Aufbau eines professionellen Sportportfolios • Erste Einsätze und geeignete Einstiegsmöglichkeiten • Akkreditierungen im Sport • Presseausweis und professionelle Voraussetzungen • Zusammenarbeit mit Fotoagenturen • Workflow am Spieltag • Bildauswahl, Bearbeitung und Übermittlung • Caption, IPTC und redaktionelle Anforderungen • Praktische Checklisten und Beispiele Zielgruppe: Hobbyfotografen, angehende Sportfotografen, Pressefotografen und Fotografen, die sich professioneller im Sportbereich positionieren möchten. Verkaufspreis: 29,99 € Affiliate-Provision: 30 % Das Produkt wird als digitales PDF direkt nach erfolgreicher Bestellung ausgeliefert. Eine optimierte Verkaufsseite sowie Werbemittel für Social Media stehen zur Verfügung.
 
 ## 2. Links
 

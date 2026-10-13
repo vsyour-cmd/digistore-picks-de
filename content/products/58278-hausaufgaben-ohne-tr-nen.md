@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hausaufgaben enden in Streit, Wut oder Tränen? Damit bist du nicht allein. Als Lehrerin höre ich in meinen Sprechstunden immer öfter von diesen Situationen zuhause. Ich zeige dir wie du diese Situationen entschärfst und dein Kind Schritt für Schritt heranführst die Hausaufgaben selbstständig zu erledigen. Mit praktischen Übungen, einem Hausaufgabenvertrag und einem 10-Tage-Plan schaffst du eine Routine, die die Hausaufgabensituation nicht mehr zur Belastungsprobe für euer Eltern-Kind-Verhältnis werden lässt,</p>
+**Vendor's marketplace description:** Hausaufgaben enden in Streit, Wut oder Tränen? Damit bist du nicht allein. Als Lehrerin höre ich in meinen Sprechstunden immer öfter von diesen Situationen zuhause. Ich zeige dir wie du diese Situationen entschärfst und dein Kind Schritt für Schritt heranführst die Hausaufgaben selbstständig zu erledigen. Mit praktischen Übungen, einem Hausaufgabenvertrag und einem 10-Tage-Plan schaffst du eine Routine, die die Hausaufgabensituation nicht mehr zur Belastungsprobe für euer Eltern-Kind-Verhältnis werden lässt,
 
 ## 2. Links
 

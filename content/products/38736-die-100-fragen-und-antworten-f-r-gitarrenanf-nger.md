@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>100 Videos vermitteln ein solides Grundwissen rund um die Gitarre</h4>
-<p>Als langjähriger Moderator eines <a href="https://www.guitar-tv.de/phpBB/" target="_blank" rel="noreferrer noopener">Gitarrenforums</a> hat der Autor festgestellt, dass sich die Fragen von Anfängern doch immer wiederholen - sich also ein deutliches Bild ergibt, was genau für den Gitarristen zu Beginn wichtig ist.</p>
-<p><strong>Aus diesem Grunde wurde die Idee umgesetzt, die 100 häufigsten Fragen zusammenzustellen und per Video zu beantworten. Diese 100 Videos kann der Gitarrenschüler nun mit einem Klick downloaden, darin stöbern und entsprechend anschauen. </strong></p>
-<p><strong>• Die Lehrvideos stehen sofort zur Verfügung</strong><strong><br /></strong></p>
-<p><strong>• 100 Lehrvideos!</strong><strong><br /></strong></p>
-<p><strong>• 50 % Provision</strong></p>
-<p><strong>• Schnelle Hilfe über email</strong></p>
+**Vendor's marketplace description:** 100 Videos vermitteln ein solides Grundwissen rund um die Gitarre Als langjähriger Moderator eines Gitarrenforums hat der Autor festgestellt, dass sich die Fragen von Anfängern doch immer wiederholen - sich also ein deutliches Bild ergibt, was genau für den Gitarristen zu Beginn wichtig ist. Aus diesem Grunde wurde die Idee umgesetzt, die 100 häufigsten Fragen zusammenzustellen und per Video zu beantworten. Diese 100 Videos kann der Gitarrenschüler nun mit einem Klick downloaden, darin stöbern und entsprechend anschauen. • Die Lehrvideos stehen sofort zur Verfügung • 100 Lehrvideos! • 50 % Provision • Schnelle Hilfe über email
 
 ## 2. Links
 

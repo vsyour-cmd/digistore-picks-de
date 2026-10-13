@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>NORD AKADEMIE – Norsk A1</strong></p>
-<p>Strukturierter deutschsprachiger Onlinekurs für den Einstieg ins Norwegische – mit Hören, Lesen, Schreiben, Sprechen, Grammatik, Wortschatz und Kompetenzchecks.</p>
-<p><strong>Für Affiliates:</strong><br />
-• 30 % Affiliate-Provision pro Verkauf<br />
-• vollständiger A1-Kurs mit 5 Modulen<br />
-• klare Positionierung: Norwegisch lernen auf Deutsch, kein Umweg über Englisch<br />
-• digitales Produkt ohne Versand<br />
-• professionelle Verkaufsseite<br />
-• Affiliate-Support-Seite mit Webinar, Promolink-Hilfe und Werbeinformationen</p>
-<p>Geeignet für Norwegen-, Auswanderungs-, Sprachlern- und Skandinavien-Communities sowie passende Blogs und Social-Media-Kanäle.</p>
+**Vendor's marketplace description:** NORD AKADEMIE – Norsk A1 Strukturierter deutschsprachiger Onlinekurs für den Einstieg ins Norwegische – mit Hören, Lesen, Schreiben, Sprechen, Grammatik, Wortschatz und Kompetenzchecks. Für Affiliates: • 30 % Affiliate-Provision pro Verkauf • vollständiger A1-Kurs mit 5 Modulen • klare Positionierung: Norwegisch lernen auf Deutsch, kein Umweg über Englisch • digitales Produkt ohne Versand • professionelle Verkaufsseite • Affiliate-Support-Seite mit Webinar, Promolink-Hilfe und Werbeinformationen Geeignet für Norwegen-, Auswanderungs-, Sprachlern- und Skandinavien-Communities sowie passende Blogs und Social-Media-Kanäle.
 
 ## 2. Links
 

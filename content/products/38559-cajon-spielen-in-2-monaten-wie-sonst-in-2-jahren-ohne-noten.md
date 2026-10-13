@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#ff6600;"><strong>GROOVESIGNS® Spezielle Trommelmethode &amp; Cajons</strong></span></p>
-<p><strong>Möchtest Du in 2 Monaten so trommeln können wie andere in 2 Jahren?</strong></p>
-<p><span style="color:#ff6600;"><a style="color:#ff6600;" href="https://r2k4im.eu-5.quentn-site.com/einfach-cajon-lernen" target="_blank" rel="noreferrer noopener"><strong>VIDEO ansehen</strong></a></span></p>
-<p style="text-align:justify;">GROOVESIGNS® ist eine Methode mit der Du OHNE NOTEN in 2 Monaten trommeln lernst, was sonst 2 Jahre dauern würde.</p>
-<ul>
-<li>Innerhalb einer Woche unglaublich coole Grooves trommeln</li>
-<li>Rhythmische Strukturen &amp; Zusammenhänge ganz einfach erfassen.</li>
-<li>Das ganze ohne Noten und sogar ohne Instrument einfach auf Deinem eigenen Körper.</li>
-</ul>
-<p><span style="color:#ff6600;"><strong>Rhythmus fühlen, spielen &amp; verstehen - ohne Noten!</strong></span></p>
-<div>
-<div>
-<div>
-<div>
-<p style="text-align:justify;">Entdecke wie es sich anfühlt einfach abzuschalten, in den Flow zu gelangen &amp; alles um Dich herum zu vergessen.</p>
-<p style="text-align:justify;"><span style="color:#ff6600;"><strong><a style="color:#ff6600;" href="https://r2k4im.eu-5.quentn-site.com/einfach-cajon-lernen" target="_blank" rel="noreferrer noopener">VIDEO ansehen</a></strong></span></p>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** GROOVESIGNS® Spezielle Trommelmethode & Cajons Möchtest Du in 2 Monaten so trommeln können wie andere in 2 Jahren? VIDEO ansehen GROOVESIGNS® ist eine Methode mit der Du OHNE NOTEN in 2 Monaten trommeln lernst, was sonst 2 Jahre dauern würde. Innerhalb einer Woche unglaublich coole Grooves trommeln Rhythmische Strukturen & Zusammenhänge ganz einfach erfassen. Das ganze ohne Noten und sogar ohne Instrument einfach auf Deinem eigenen Körper. Rhythmus fühlen, spielen & verstehen - ohne Noten! Entdecke wie es sich anfühlt einfach abzuschalten, in den Flow zu gelangen & alles um Dich herum zu vergessen. VIDEO ansehen
 
 ## 2. Links
 

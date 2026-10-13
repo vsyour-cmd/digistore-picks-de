@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb "Dein nächster Schritt" — ein praxisnahes eBook zu einem Dauerbrenner-Thema mit konstant hoher Nachfrage: Bewerbung und Karriere.</p>
-<p> </p>
-<p>Was macht dieses Produkt leicht verkäuflich: Jobwechsel, Kündigungswellen und Quereinstiege sind aktueller denn je — viele Menschen suchen aktiv nach konkreter, umsetzbarer Hilfe für Lebenslauf, Vorstellungsgespräch und Gehaltsverhandlung, statt vager Motivationssprüche.</p>
-<p> </p>
-<p>Zielgruppe: Berufseinsteiger:innen, Menschen mit Kündigungswunsch oder -pause, Quereinsteiger:innen, alle mit Lücken im Lebenslauf, sowie Menschen, die eine Führungsposition anstreben. Passt hervorragend zu Karriere-Coaches, LinkedIn-Content-Creator:innen, und Bewerbungsberater:innen als Zusatzmaterial.</p>
-<p> </p>
-<p>Wichtigste Verkaufsargumente:</p>
-<p>- Konkrete, sofort anwendbare Methoden (STAR-Methode, Gehaltsverhandlung-Ankertechnik)</p>
-<p>- Deckt den kompletten Prozess ab — von der Stärken-Analyse bis zu den ersten 100 Tagen im neuen Job</p>
-<p>- Spezielle Kapitel für Quereinsteiger:innen und Lebenslauf-Lücken — eine oft unterversorgte Zielgruppe</p>
-<p>- Sofortiger digitaler Download</p>
-<p> </p>
-<p>Funktioniert besonders gut in Content rund um Karriere, LinkedIn, Selbstverwirklichung im Job, und New Work.</p>
+**Vendor's marketplace description:** Bewirb "Dein nächster Schritt" — ein praxisnahes eBook zu einem Dauerbrenner-Thema mit konstant hoher Nachfrage: Bewerbung und Karriere. Was macht dieses Produkt leicht verkäuflich: Jobwechsel, Kündigungswellen und Quereinstiege sind aktueller denn je — viele Menschen suchen aktiv nach konkreter, umsetzbarer Hilfe für Lebenslauf, Vorstellungsgespräch und Gehaltsverhandlung, statt vager Motivationssprüche. Zielgruppe: Berufseinsteiger:innen, Menschen mit Kündigungswunsch oder -pause, Quereinsteiger:innen, alle mit Lücken im Lebenslauf, sowie Menschen, die eine Führungsposition anstreben. Passt hervorragend zu Karriere-Coaches, LinkedIn-Content-Creator:innen, und Bewerbungsberater:innen als Zusatzmaterial. Wichtigste Verkaufsargumente: - Konkrete, sofort anwendbare Methoden (STAR-Methode, Gehaltsverhandlung-Ankertechnik) - Deckt den kompletten Prozess ab — von der Stärken-Analyse bis zu den ersten 100 Tagen im neuen Job - Spezielle Kapitel für Quereinsteiger:innen und Lebenslauf-Lücken — eine oft unterversorgte Zielgruppe - Sofortiger digitaler Download Funktioniert besonders gut in Content rund um Karriere, LinkedIn, Selbstverwirklichung im Job, und New Work.
 
 ## 2. Links
 

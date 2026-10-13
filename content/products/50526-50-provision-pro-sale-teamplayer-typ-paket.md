@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>erdiene 50 % Provision pro Sale als Affiliate!</strong><br />Dieses einzigartige Produkt bietet echten Mehrwert und ist perfekt für Menschen, die ihre Persönlichkeit weiterentwickeln und ihr Potenzial entfalten möchten. Perfekt für deinen Newsletter, Blog oder Social Media!</p>
-<h3>Kurzbeschreibung</h3>
-<p>Dieses exklusive Paket hilft dir, deine Teamplayer-Stärken zu erkennen, gezielt zu fördern und dein kreatives Potenzial voll auszuschöpfen. Mit Workbook, binauralen Beats und detaillierter Typenanalyse!</p>
-<h3><strong>Das erhält der Kunde:</strong></h3>
-<p><strong>Detaillierte Typenanalyse (PDF):</strong><br />Erfahre alles über deinen Teamplayer-Typen, seine Stärken, Entwicklungsmöglichkeiten und wie du das Beste aus deinen Talenten machst.</p>
-<p><strong>Binaurale Beats (MP3):</strong><br />Speziell abgestimmte Audio-Frequenzen, die dir helfen, in einen produktiven Flow zu kommen und mentale Blockaden zu überwinden.</p>
-<p><strong>Praxisorientiertes Workbook (PDF):</strong><br />Erhalte Werkzeuge und Übungen, um deine Kreativität zu steigern, deinen Arbeitsstil zu optimieren und in Teams maximalen Erfolg zu erzielen.</p>
-<h3><strong>Was macht dieses Paket so wertvoll?</strong></h3>
-<ul>
-<li><strong>Maximiere deine Chancen:</strong> Finde Berufe, Hobbies und Projekte, die perfekt zu deinem Typ passen.</li>
-<li><strong>Verbessere Beziehungen:</strong> Verstehe dich selbst und dein Umfeld besser, um stärkere Verbindungen zu schaffen.</li>
-<li><strong>Produktivität steigern:</strong> Lerne, deine kreative Energie gezielt zu nutzen und deine Ziele mit Fokus zu erreichen.</li>
-</ul>
+**Vendor's marketplace description:** erdiene 50 % Provision pro Sale als Affiliate! Dieses einzigartige Produkt bietet echten Mehrwert und ist perfekt für Menschen, die ihre Persönlichkeit weiterentwickeln und ihr Potenzial entfalten möchten. Perfekt für deinen Newsletter, Blog oder Social Media! Kurzbeschreibung Dieses exklusive Paket hilft dir, deine Teamplayer-Stärken zu erkennen, gezielt zu fördern und dein kreatives Potenzial voll auszuschöpfen. Mit Workbook, binauralen Beats und detaillierter Typenanalyse! Das erhält der Kunde: Detaillierte Typenanalyse (PDF): Erfahre alles über deinen Teamplayer-Typen, seine Stärken, Entwicklungsmöglichkeiten und wie du das Beste aus deinen Talenten machst. Binaurale Beats (MP3): Speziell abgestimmte Audio-Frequenzen, die dir helfen, in einen produktiven Flow zu kommen und mentale Blockaden zu überwinden. Praxisorientiertes Workbook (PDF): Erhalte Werkzeuge und Übungen, um deine Kreativität zu steigern, deinen Arbeitsstil zu optimieren und in Teams maximalen Erfolg zu erzielen. Was macht dieses Paket so wertvoll? Maximiere deine Chancen: Finde Berufe, Hobbies und Projekte, die perfekt zu deinem Typ passen. Verbessere Beziehungen: Verstehe dich selbst und dein Umfeld besser, um stärkere Verbindungen zu schaffen. Produktivität steigern: Lerne, deine kreative Energie gezielt zu nutzen und deine Ziele mit Fokus zu erreichen.
 
 ## 2. Links
 

@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hol dir neuen kreativen Input für deine Bildbearbeitung. Egal ob du Profi-Hochzeitsfotograf oder Fotografie dein Hobby ist: Wenn du mit Lightroom deine Bilder bearbeitest, wirst du das Problem kennen. Du willst eigentlich nur deine Bildbearbeitung etwas aktualisieren und investierst Stunden damit, einen passenden Look auf deine Bilder zu packen. </p>
-<p>Von den Hochzeitsfotografen Stefan&amp;Kai welche zusammen seit über 12 Jahre hauptberuflich als Hochzeitsfotografen arbeiten, kannst du deinen Bildern jetzt mit nur einem Klick einen neuen Look verpassen.</p>
-<p> </p>
-<p>Dabei haben die beiden Fotografen über die letzten Jahre ihre Bearbeitung immer mehr optimiert und bieten jetzt erstmals Ihren Bildlook mit den INTO THE WOODS Presets an. Zeitlose minimalistische Bearbeitung, natürliche Hauttöne und ein freundlicher Bildlook.</p>
-<p> </p>
-<h1>JETZT 40% Provision für dich !</h1>
-<p> </p>
-<p><strong>Spare jetzt Zeit &amp; Nerven</strong> und profitiere von den vielen Jahren Erfahrung von Stefan &amp; Kai. Alles zusammen gefasst in diesen fünf Presets.</p>
-<p><strong>Hebe deinen Bildlook auf das nächste Level und sichere dir jetzt die INTO THE WOODS Presets !</strong></p>
-<p>Warum die Presets von Stefan&amp;Kai ?</p>
-<p>Vielleicht kennst du die beiden Hochzeitsfotografen schon von Ihrem YouTube-Kanal oder dem wöchentlichen Fotografie-Podcast auf Spotify und iTunes. Wir erstellen regelmäßig Inhalte, um dir zu helfen, deine Bildbearbeitung und Fotografie noch besser zu machen.</p>
-<p>▪Mehr als 100 kostenlose YouTube Videos von Stefan&amp;Kai für deine kreative Weiterentwicklung</p>
-<p>▪Videoanleitungen für die richtige Bildbearbeitung mit den neuen INTO THE WOODS Presets. </p>
-<p>▪Wöchentlicher Podcast in dem wir auch gerne auf deine Fragen eingehen.</p>
-<p>▪14 Tage Rückgabegarantie </p>
-<p>▪Persönlicher Support per E-Mail wenn du Fragen hast.</p>
-<p><strong>Und jetzt wünschen wir Viel Spaß mit deinem neuen Bildlook !</strong></p>
+**Vendor's marketplace description:** Hol dir neuen kreativen Input für deine Bildbearbeitung. Egal ob du Profi-Hochzeitsfotograf oder Fotografie dein Hobby ist: Wenn du mit Lightroom deine Bilder bearbeitest, wirst du das Problem kennen. Du willst eigentlich nur deine Bildbearbeitung etwas aktualisieren und investierst Stunden damit, einen passenden Look auf deine Bilder zu packen. Von den Hochzeitsfotografen Stefan&Kai welche zusammen seit über 12 Jahre hauptberuflich als Hochzeitsfotografen arbeiten, kannst du deinen Bildern jetzt mit nur einem Klick einen neuen Look verpassen. Dabei haben die beiden Fotografen über die letzten Jahre ihre Bearbeitung immer mehr optimiert und bieten jetzt erstmals Ihren Bildlook mit den INTO THE WOODS Presets an. Zeitlose minimalistische Bearbeitung, natürliche Hauttöne und ein freundlicher Bildlook. JETZT 40% Provision für dich ! Spare jetzt Zeit & Nerven und profitiere von den vielen Jahren Erfahrung von Stefan & Kai. Alles zusammen gefasst in diesen fünf Presets. Hebe deinen Bildlook auf das nächste Level und sichere dir jetzt die INTO THE WOODS Presets ! Warum die Presets von Stefan&Kai ? Vielleicht kennst du die beiden Hochzeitsfotografen schon von Ihrem YouTube-Kanal oder dem wöchentlichen Fotografie-Podcast auf Spotify und iTunes. Wir erstellen regelmäßig Inhalte, um dir zu helfen, deine Bildbearbeitung und Fotografie noch besser zu machen. ▪Mehr als 100 kostenlose YouTube Videos von Stefan&Kai für deine kreative Weiterentwicklung ▪Videoanleitungen für die richtige Bildbearbeitung mit den neuen INTO THE WOODS Presets. ▪Wöchentlicher Podcast in dem wir auch gerne auf deine Fragen eingehen. ▪14 Tage Rückgabegarantie ▪Persönlicher Support per E-Mail wenn du Fragen hast. Und jetzt wünschen wir Viel Spaß mit deinem neuen Bildlook !
 
 ## 2. Links
 

@@ -41,46 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#ff0000;"><strong>Achtung Affiliates!</strong></span></p>
-<p>Hohe jährliche immer wiederkehrende und steigende Einnahmen mit diesem hochwertigen Online Abonnement!</p>
-<p><span style="color:#ff0000;"><strong><span style="color:#008000;">Hier bewerben Sie eine wirklich langfristgige Mitgliedschaft eines Top Online Abonnements</span>.</strong></span></p>
-<p style="text-align:center;"><span style="color:#ff0000;"><strong>Das beste Trendfolge Aktien Depot </strong></span><span style="color:#ff0000;"><strong>in Europa!</strong></span></p>
-<p>Die Mitglieder zahlen Jahresbeiträge. Hierauf erhalten Sie regelmäßig,<span style="color:#ff0000;"> <strong>jährlich wiederkehrend 35% Provision</strong>. </span></p>
-<p>Als Affiliate haben Sie hier ein absolut hochwertiges,  langwährendes Produkt über viele Jahre. </p>
-<p> </p>
-<p><strong>Bühner Invest Informationsdienst Inhalt:</strong> </p>
-<h1><span style="color:#ff6600;">Sichere Geldanlage mit hoher Rendite</span></h1>
-<h2><strong>Höchste Rendite und Sicherheit müssen sich nicht widersprechen.</strong></h2>
-<p> </p>
-<p><strong>Bühner Invest erbringt dafür den Beweis. In nur  7 Jahren wurden aktuell aus 4.963 Euro statttliche 202.489 Euro erzielt. </strong></p>
-<p>Ganz entspannt und ohne Stress oder Sorge. Machen Sie es einfach nach.</p>
-<p>Sie erhalten stetig einen neuen Bühner-Invest-Newsletter mit allen aktuellen Informationen zum Depot, exakten Handlungsanweisungen sowie Tipps, Infos und Neuigkeiten zum Thema Börse, Aktien, usw.</p>
-<p>Sie bauen kinderleicht das Bühner Invest Depot nach und erzielen ebenfalls eine phantastische Performance.</p>
-<p>Erzielen Sie endlich auch die Gewinne mit einer eher konservativen Strategie. Sicherheit und hohe Rendite müssen sich nämlich doch nicht widersprechen. </p>
-<p>Das aktuelle Depot ist im Mai 2013 gestartet und hat <strong>in nur knapp 7 Jahren bereits über 3.980%</strong> Performance vorzuweisen.</p>
-<p><strong>Aus 4.963 Euro wurden bis Januar 2020 (in nur 7 Jahren) bereits 202.489 Euro!!  </strong></p>
-<p>Und es geht genauso weiter! Sie können jetzt mit profitieren. Bauen Sie es ganz einfach nach! Es ist wirklich kinderleicht. </p>
-<p>Sie suchen sich die Online Bank Ihrer Wahl und bauen dort dieses Erfolgsdepot ganz einfach nur nach.</p>
-<p>So behalten Sie stets alles zu jeder Zeit unter Ihrer Kontrolle und Sie werden in recht kurzer Zeit ein echtes Vermögen erzielen können.</p>
-<p style="text-align:center;"><strong>Unser neues Ziel heißt:</strong></p>
-<p style="text-align:center;"><strong>Aus den 4.963 Euro haben wir jetzt bereits mehr als 200.000 Euro gemacht. Das nächste Ziel sind 500.000 und dann 1.000.000 Euro!</strong></p>
-<p style="text-align:center;"><strong>Alles sicher und ganz entspannt.</strong></p>
-<p>Werden Sie jetzt, wie schon so viele andere auch,  Mitglied bei Bühner Invest Infodienst und machen Sie endlich mehr aus Ihrem Geld! </p>
-<p style="text-align:center;"> </p>
-<p style="text-align:center;"><strong>ACHTUNG: </strong></p>
-<p style="text-align:center;"><strong>Aktuell und nur für kurze Zeit können Sie jetzt </strong><strong>um 5% günstiger </strong><strong>buchen.</strong></p>
-<p style="text-align:center;"> </p>
-<p style="text-align:center;"><strong>Für ein volles Jahr Mitgliedschaft zahlen Sie </strong></p>
-<p style="text-align:center;"><strong>anstatt </strong><strong>Normalpreis 399,- Euro für 12 Monate !</strong> </p>
-<p style="text-align:center;"><strong>&gt;&gt; Jetzt für ein komplettes Jahr </strong></p>
-<p style="text-align:center;"><strong>nur: 379,- Euro &lt;&lt;</strong></p>
-<p>Das bedeutet für Sie:</p>
-<p>5% dauerhafte Ersparnis so lange das Abo ununterbrochen Bestand hat.  </p>
-<p>Wenn Sie also jetzt zu diesem Sonderpreis buchen, behalten Sie diesen Preis, solange Sie Abonnent bei Bühner-Invest sind bei.</p>
-<p>Auch bei einer Erhöhung auf den Normalpreis, behalten Sie den Sonderpreis.</p>
-<p><strong>Lassen Sie diese Chance nicht aus. Es lohnt sich wirklich sehr!</strong></p>
-<p>Natürlich jederzeit zum Ablauf kündbar.</p>
-<p> </p>
+**Vendor's marketplace description:** Achtung Affiliates! Hohe jährliche immer wiederkehrende und steigende Einnahmen mit diesem hochwertigen Online Abonnement! Hier bewerben Sie eine wirklich langfristgige Mitgliedschaft eines Top Online Abonnements . Das beste Trendfolge Aktien Depot in Europa! Die Mitglieder zahlen Jahresbeiträge. Hierauf erhalten Sie regelmäßig, jährlich wiederkehrend 35% Provision . Als Affiliate haben Sie hier ein absolut hochwertiges, langwährendes Produkt über viele Jahre. Bühner Invest Informationsdienst Inhalt: Sichere Geldanlage mit hoher Rendite Höchste Rendite und Sicherheit müssen sich nicht widersprechen. Bühner Invest erbringt dafür den Beweis. In nur 7 Jahren wurden aktuell aus 4.963 Euro statttliche 202.489 Euro erzielt. Ganz entspannt und ohne Stress oder Sorge. Machen Sie es einfach nach. Sie erhalten stetig einen neuen Bühner-Invest-Newsletter mit allen aktuellen Informationen zum Depot, exakten Handlungsanweisungen sowie Tipps, Infos und Neuigkeiten zum Thema Börse, Aktien, usw. Sie bauen kinderleicht das Bühner Invest Depot nach und erzielen ebenfalls eine phantastische Performance. Erzielen Sie endlich auch die Gewinne mit einer eher konservativen Strategie. Sicherheit und hohe Rendite müssen sich nämlich doch nicht widersprechen. Das aktuelle Depot ist im Mai 2013 gestartet und hat in nur knapp 7 Jahren bereits über 3.980% Performance vorzuweisen. Aus 4.963 Euro wurden bis Januar 2020 (in nur 7 Jahren) bereits 202.489 Euro!! Und es geht genauso weiter! Sie können jetzt mit profitieren. Bauen Sie es ganz einfach nach! Es ist wirklich kinderleicht. Sie suchen sich die Online Bank Ihrer Wahl und bauen dort dieses Erfolgsdepot ganz einfach nur nach. So behalten Sie stets alles zu jeder Zeit unter Ihrer Kontrolle und Sie werden in recht kurzer Zeit ein echtes Vermögen erzielen können. Unser neues Ziel heißt: Aus den 4.963 Euro haben wir jetzt bereits mehr als 200.000 Euro gemacht. Das nächste Ziel sind 500.000 und dann 1.000.000 Euro! Alles sicher und ganz entspannt. Werden Sie jetzt, wie schon so viele andere auch, Mitglied bei Bühner Invest Infodienst und machen Sie endlich mehr aus Ihrem Geld! ACHTUNG: Aktuell und nur für kurze Zeit können Sie jetzt um 5% günstiger buchen. Für ein volles Jahr Mitgliedschaft zahlen Sie anstatt Normalpreis 399,- Euro für 12 Monate ! >> Jetzt für ein komplettes Jahr nur: 379,- Euro << Das bedeutet für Sie: 5% dauerhafte Ersparnis so lange das Abo ununterbrochen Bestand hat. Wenn Sie also jetzt zu diesem Sonderpreis buchen, behalten Sie diesen Preis, solange Sie Abonnent bei Bühner-Invest sind bei. Auch bei einer Erhöhung auf den Normalpreis, behalten Sie den Sonderpreis. Lassen Sie diese Chance nicht aus. Es lohnt sich wirklich sehr! Natürlich jederzeit zum Ablauf kündbar.
 
 ## 2. Links
 

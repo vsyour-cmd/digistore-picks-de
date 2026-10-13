@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><span style="background-color:#ffff00;"><strong><em>Bewerbe den Kurs: KI CASH SECRETS</em></strong></span></div>
-<div> </div>
-<div><strong>Das bekommt Deine Community</strong></div>
-<div>
-<p><strong><em>✅  Geheime KI Strategien um Geld zu verdienen</em></strong></p>
-<p><strong><em>✅ </em> Mit den besten KI Tools zur automatisierung</strong></p>
-<p><strong><em>✅  </em>Als Bonus bekommt Deine Community den Zugang zu unserem Mitgliederbereich und dadurch den Zugriff auf kostenfreie Kurse (Canva, Etsy, KI usw...)</strong></p>
-<p> </p>
-<p><strong>Dich erwarten 50% Provision und im Upsell Bereich bis zu 117 Euro Provisionen</strong></p>
-</div>
+**Vendor's marketplace description:** Bewerbe den Kurs: KI CASH SECRETS Das bekommt Deine Community ✅ Geheime KI Strategien um Geld zu verdienen ✅ Mit den besten KI Tools zur automatisierung ✅ Als Bonus bekommt Deine Community den Zugang zu unserem Mitgliederbereich und dadurch den Zugriff auf kostenfreie Kurse (Canva, Etsy, KI usw...) Dich erwarten 50% Provision und im Upsell Bereich bis zu 117 Euro Provisionen
 
 ## 2. Links
 

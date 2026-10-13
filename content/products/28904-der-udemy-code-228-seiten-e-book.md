@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>228 Seiten Content pur! Top 10% Udemy Dozent Sebastian Glöckner packt aus.</strong></p>
-<p> </p>
-<p><strong>Hallo lieber Affiliate!</strong></p>
-<p>Dieses Buch kostet regulär 37 Euro, Ihr könnt es aber auch mit dem Code "30-EURO-EINMALIG" auf 7 Euro reduzieren.</p>
-<p>Ihr bekommt immer 50% Provision, aber das Interessante ist vor allem der Upsell!</p>
-<p>Direkt nach dem Kauf des E-Books wird ein 13-stündiger Online-Kurs angeboten für 247 Euro. Wenn der Kunde nicht kauft, bekommt er hinterher eine Webinar-Einladung für das Hauptprodukt per E-Mail. Und Deine Affiliate-ID ist immer mit dabei!</p>
-<p> </p>
-<p><strong>Bitte schau unbedingt auf meiner Affiliate Support-Seite! </strong></p>
-<p><a>https://sebastian-gloeckner-bonn.de/partnerprogramm/</a></p>
-<p>Du kannst das Produkt direkt bewerben oder es über ein Webinar verkaufen.</p>
-<p> </p>
-<p>Achtung: Ich garantiere als vielleicht einziger Vendor ein 100% Cross-Device Tracking! Das bedeutet, wenn sich jemand auf dem Handy für das Webinar anmeldet und später auf dem Tablet kauft - Du bekommst Deine Provision!</p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** 228 Seiten Content pur! Top 10% Udemy Dozent Sebastian Glöckner packt aus. Hallo lieber Affiliate! Dieses Buch kostet regulär 37 Euro, Ihr könnt es aber auch mit dem Code "30-EURO-EINMALIG" auf 7 Euro reduzieren. Ihr bekommt immer 50% Provision, aber das Interessante ist vor allem der Upsell! Direkt nach dem Kauf des E-Books wird ein 13-stündiger Online-Kurs angeboten für 247 Euro. Wenn der Kunde nicht kauft, bekommt er hinterher eine Webinar-Einladung für das Hauptprodukt per E-Mail. Und Deine Affiliate-ID ist immer mit dabei! Bitte schau unbedingt auf meiner Affiliate Support-Seite! https://sebastian-gloeckner-bonn.de/partnerprogramm/ Du kannst das Produkt direkt bewerben oder es über ein Webinar verkaufen. Achtung: Ich garantiere als vielleicht einziger Vendor ein 100% Cross-Device Tracking! Das bedeutet, wenn sich jemand auf dem Handy für das Webinar anmeldet und später auf dem Tablet kauft - Du bekommst Deine Provision!
 
 ## 2. Links
 

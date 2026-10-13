@@ -41,43 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>ebook</h1>
-<h1>66 Tage Zeitmanagement Challenge</h1>
-<p> </p>
-<p><strong>Für wen ist dieses ebook interessant?</strong></p>
-<p>Für alle, die sich mit dem Thema Zeitmanagement / Selbstmanagement befassen möchten bzw. ihr eigenes Zeitmanagement reflektieren und weiterentwickeln möchten.</p>
-<p> </p>
-<p><strong>Was ist das besondere an diesem ebook?</strong></p>
-<ol>
-<li>Es handelt sich um das Handbuch zum Seminar "66 Tage Zeitmanagement Challenge". Dieses Seminar wird nur exklusiv für Firmen durchgeführt und mit dem ebook haben alle die Möglichkeit, die Themen im Selbststudium durchzuarbeiten.</li>
-<li>Das ebook umfasst mit seinen 8 Kapitel das gesamte Spektrum vom Arbeitsumfeld bis zum Privatleben.</li>
-</ol>
-<p> </p>
-<p><strong>In welchem Format gibt es das ebook?</strong></p>
-<p>Das ebook wird als pdf Dokument ausgeliefert und ist optimiert für die Anwendung auf dem Tablet (quer) bzw. auf einem PC / Notebook.</p>
-<p> </p>
-<p><strong>Wie umfangreich ist das ebook?</strong></p>
-<p>Über 80 Seiten mit vielen Tipps aus der Praxis.</p>
-<p> </p>
-<p><strong>Wie ist das ebook strukturiert?</strong></p>
-<p>Es besteht aus 8 Kapiteln:</p>
-<ol>
-<li>Tagesplanung / der perfekte Tag</li>
-<li>Vom E-Mail-Wahnsinn zur Inbox Zero</li>
-<li>PC-Shortcuts - meine Favoriten</li>
-<li>OneNote - Das Notizbuch, dass du immer dabei hast!</li>
-<li>(Online) Meetings</li>
-<li>Dein Smartphone</li>
-<li>Ohne Energie und Gesundheit kannst du alles andere vergessen!</li>
-<li>Ballast abwerfen, oder "Simplify your life"</li>
-</ol>
-<p> </p>
-<p><strong>Wie viel Provision erhältst du?</strong></p>
-<p>20%</p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** ebook 66 Tage Zeitmanagement Challenge Für wen ist dieses ebook interessant? Für alle, die sich mit dem Thema Zeitmanagement / Selbstmanagement befassen möchten bzw. ihr eigenes Zeitmanagement reflektieren und weiterentwickeln möchten. Was ist das besondere an diesem ebook? Es handelt sich um das Handbuch zum Seminar "66 Tage Zeitmanagement Challenge". Dieses Seminar wird nur exklusiv für Firmen durchgeführt und mit dem ebook haben alle die Möglichkeit, die Themen im Selbststudium durchzuarbeiten. Das ebook umfasst mit seinen 8 Kapitel das gesamte Spektrum vom Arbeitsumfeld bis zum Privatleben. In welchem Format gibt es das ebook? Das ebook wird als pdf Dokument ausgeliefert und ist optimiert für die Anwendung auf dem Tablet (quer) bzw. auf einem PC / Notebook. Wie umfangreich ist das ebook? Über 80 Seiten mit vielen Tipps aus der Praxis. Wie ist das ebook strukturiert? Es besteht aus 8 Kapiteln: Tagesplanung / der perfekte Tag Vom E-Mail-Wahnsinn zur Inbox Zero PC-Shortcuts - meine Favoriten OneNote - Das Notizbuch, dass du immer dabei hast! (Online) Meetings Dein Smartphone Ohne Energie und Gesundheit kannst du alles andere vergessen! Ballast abwerfen, oder "Simplify your life" Wie viel Provision erhältst du? 20%
 
 ## 2. Links
 

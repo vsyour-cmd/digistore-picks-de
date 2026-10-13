@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Das große Familien-Rezeptbuch – 300 Rezepte für die ganze Familie</h3>
-<p><strong>Gesund, abwechslungsreich und alltagstauglich – von Babybrei bis ins Rentenalter.</strong></p>
-<p>Du möchtest deine Familie abwechslungsreich ernähren, hast aber im Alltag nicht immer Zeit für komplizierte Rezepte? Dann ist <strong>„Das große Familien-Rezeptbuch“ von MamaPlan.Einfach</strong> dein praktischer Begleiter für jeden Tag.</p>
-<p>Auf <strong>300 Seiten</strong> findest du vielfältige Rezeptideen für unterschiedliche Geschmäcker und Lebensphasen – von einfachen Gerichten für die Kleinsten bis zu leckeren Familienmahlzeiten.</p>
-<p>Digitales Produkt</p>
+**Vendor's marketplace description:** Das große Familien-Rezeptbuch – 300 Rezepte für die ganze Familie Gesund, abwechslungsreich und alltagstauglich – von Babybrei bis ins Rentenalter. Du möchtest deine Familie abwechslungsreich ernähren, hast aber im Alltag nicht immer Zeit für komplizierte Rezepte? Dann ist „Das große Familien-Rezeptbuch“ von MamaPlan.Einfach dein praktischer Begleiter für jeden Tag. Auf 300 Seiten findest du vielfältige Rezeptideen für unterschiedliche Geschmäcker und Lebensphasen – von einfachen Gerichten für die Kleinsten bis zu leckeren Familienmahlzeiten. Digitales Produkt
 
 ## 2. Links
 

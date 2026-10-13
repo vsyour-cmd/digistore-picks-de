@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2 style="text-align:center;"><span style="font-size:14px;"><strong>In diesem E-Book erkläre ich </strong><strong>alle Schritte, damit du mit Facebook-Gruppen Marketing guten Umsatz produzieren kannst.</strong><br /><span style="background-color:#ffff00;"><em>BONUS:</em></span><br /><span style="background-color:#ffff00;"><em>Liste mit über 260 Linkadressen zu</em></span><br /><span style="background-color:#ffff00;"><em>FB-Werbegruppen + Minikurs</em></span> </span></h2>
-<ol>
-<li>Der Leitfaden „The Black Book of Facebook Groups“ ist ein umfassendes E-Book mit über 50 Seiten, das gut einsetzbar im Bereichen wie Affiliatemarketing, Networkmarketing und Social-Media-Marketing ist.</li>
-<li>Der Leitfaden zeigt, wie man effektiv in Facebook-Gruppen werben und seine Zielgruppe gezielt ansprechen kann.</li>
-<li>Der Minikurs zeigt Schritt für Schritt, wie Werbe-Posts für Facebook-Gruppen erstellt, Zielgruppen angesprochen und automatisiert gepostet werden.</li>
-<li>Das Paket enthält über 260 Links zu relevanten Facebook-Gruppen, die helfen, Reichweite zu erhöhen und mehr potenzielle Kunden zu erreichen.</li>
-</ol>
-<p>Hohe Conversionen, da es ein günstiges Produkt ist.</p>
-<p><strong>Über 50€ Provsion beim Funneldurchlauf für Dich möglich</strong></p>
-<p><strong>Deine Provsion dafür ist 40%</strong></p>
-<p>Das ist nicht alles:<br /><strong>Beteiligung auf weitere Produkte im E-Mail Marketing Prozess. </strong></p>
-<ul>
-<li>
-<div>Im weiteren Verlauf des Marketing Prozesses empfehle ich weitere Produkte rund um das Online-Business und ein ABO im Mitgliederbereich kommt hinzu.</div>
-<div>Dadurch verdienst du, je nach Produkt - bis zu 50% Provision. </div>
-</li>
-</ul>
-<ul>
-<li><strong>Du verdienst bei jedem Verkauf mit!</strong></li>
-</ul>
-<p>Bei Fragen sende eine E-Mail <br />office@michael-schlinder.net</p>
+**Vendor's marketplace description:** In diesem E-Book erkläre ich alle Schritte, damit du mit Facebook-Gruppen Marketing guten Umsatz produzieren kannst. BONUS: Liste mit über 260 Linkadressen zu FB-Werbegruppen + Minikurs Der Leitfaden „The Black Book of Facebook Groups“ ist ein umfassendes E-Book mit über 50 Seiten, das gut einsetzbar im Bereichen wie Affiliatemarketing, Networkmarketing und Social-Media-Marketing ist. Der Leitfaden zeigt, wie man effektiv in Facebook-Gruppen werben und seine Zielgruppe gezielt ansprechen kann. Der Minikurs zeigt Schritt für Schritt, wie Werbe-Posts für Facebook-Gruppen erstellt, Zielgruppen angesprochen und automatisiert gepostet werden. Das Paket enthält über 260 Links zu relevanten Facebook-Gruppen, die helfen, Reichweite zu erhöhen und mehr potenzielle Kunden zu erreichen. Hohe Conversionen, da es ein günstiges Produkt ist. Über 50€ Provsion beim Funneldurchlauf für Dich möglich Deine Provsion dafür ist 40% Das ist nicht alles: Beteiligung auf weitere Produkte im E-Mail Marketing Prozess. Im weiteren Verlauf des Marketing Prozesses empfehle ich weitere Produkte rund um das Online-Business und ein ABO im Mitgliederbereich kommt hinzu. Dadurch verdienst du, je nach Produkt - bis zu 50% Provision. Du verdienst bei jedem Verkauf mit! Bei Fragen sende eine E-Mail office@michael-schlinder.net
 
 ## 2. Links
 

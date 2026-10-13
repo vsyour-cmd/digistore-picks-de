@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Angst vorm Zahnarzt? Steifer Kiefer oder schmerzempfindliche Zähne? Mit der „Zurück zum Ursprung - Zahnedition“ können Deine Fans diese Probleme lösen und Du kannst Dein passives Einkommen steigern.</p>
-<p>Das Erfolgsprinzip von „Zurück zum Ursprung“ gibt es nun als weltweit ersten detaillierten energetischen <strong>Transformations-Onlinekurs zu Zahnthemen</strong>. Aufgrund der einzigartigen Arbeitsweise von Andreas Goldemann werden in jeder der 30 Transformationssessions schrittweise Spannung und Stress im gesamten Mundraum reduziert.</p>
-<p>Die dort freigesetzte Energie wirkt sich vitalisierend auf den ganzen Körper aus und lässt <strong>Entspannung, Ruhe und Gelassenheit</strong> entstehen - in einem selbst, im Umgang mit den eigenen Zähnen, bei Zahnarztbesuchen und im Leben allgemein.</p>
-<p>Wir selbst konnten in 2 Vorverkäufen an unsere eigene Liste über 1.800 Teilnehmer für den Kurs gewinnen. Der Kurs hat also den richtigen Nerv getroffen und wir haben gesehen, dass unser <strong>optimierter Funnel mit Freebie und Verknappung</strong> sehr gut konvertiert.</p>
-<p>Was erwartet Dich?</p>
-<ul>
-<li><strong>33 % Provision:</strong> Beim derzeitigen Verkaufspreis von 397 € (Brutto) sind das nach dem Abzug von Gebühren und Umsatzsteuer <strong>103,21 € (Netto)</strong> <strong>für Dich</strong> pro Vermittlung!</li>
-<li><strong>20 % Lifetime-Provision für Folgeprodukte</strong>, die Dein neu gewonnener Lead im Laufe der Jahre bei uns kauft.</li>
-<li><strong>Optimierter Funnel </strong> mit Freebie, Verknappung und toller Conversion.</li>
-<li><strong>Glückliche Fans:</strong> Unsere Statistiken zeigen 40 % verbessertes Wohlbefinden nach diesem Kurs.</li>
-</ul>
-<p>Andreas Goldemann ist seit über 25 Jahren als Intuitive, Klangheiler und spiritueller Begleiter tätig und hat mit seiner Arbeit vielen hunderttausend Menschen weltweit geholfen.</p>
-<p><strong>Werde jetzt unser Partner</strong> und empfiehl Deinen Fans die „Zurück zum Ursprung - Zahnedition“, damit auch sie sich wieder leichter und gelassener fühlen können.</p>
+**Vendor's marketplace description:** Angst vorm Zahnarzt? Steifer Kiefer oder schmerzempfindliche Zähne? Mit der „Zurück zum Ursprung - Zahnedition“ können Deine Fans diese Probleme lösen und Du kannst Dein passives Einkommen steigern. Das Erfolgsprinzip von „Zurück zum Ursprung“ gibt es nun als weltweit ersten detaillierten energetischen Transformations-Onlinekurs zu Zahnthemen . Aufgrund der einzigartigen Arbeitsweise von Andreas Goldemann werden in jeder der 30 Transformationssessions schrittweise Spannung und Stress im gesamten Mundraum reduziert. Die dort freigesetzte Energie wirkt sich vitalisierend auf den ganzen Körper aus und lässt Entspannung, Ruhe und Gelassenheit entstehen - in einem selbst, im Umgang mit den eigenen Zähnen, bei Zahnarztbesuchen und im Leben allgemein. Wir selbst konnten in 2 Vorverkäufen an unsere eigene Liste über 1.800 Teilnehmer für den Kurs gewinnen. Der Kurs hat also den richtigen Nerv getroffen und wir haben gesehen, dass unser optimierter Funnel mit Freebie und Verknappung sehr gut konvertiert. Was erwartet Dich? 33 % Provision: Beim derzeitigen Verkaufspreis von 397 € (Brutto) sind das nach dem Abzug von Gebühren und Umsatzsteuer 103,21 € (Netto) für Dich pro Vermittlung! 20 % Lifetime-Provision für Folgeprodukte , die Dein neu gewonnener Lead im Laufe der Jahre bei uns kauft. Optimierter Funnel mit Freebie, Verknappung und toller Conversion. Glückliche Fans: Unsere Statistiken zeigen 40 % verbessertes Wohlbefinden nach diesem Kurs. Andreas Goldemann ist seit über 25 Jahren als Intuitive, Klangheiler und spiritueller Begleiter tätig und hat mit seiner Arbeit vielen hunderttausend Menschen weltweit geholfen. Werde jetzt unser Partner und empfiehl Deinen Fans die „Zurück zum Ursprung - Zahnedition“, damit auch sie sich wieder leichter und gelassener fühlen können.
 
 ## 2. Links
 

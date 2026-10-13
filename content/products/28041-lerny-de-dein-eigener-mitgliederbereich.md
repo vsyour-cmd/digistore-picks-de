@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><span style="color:#000000;">Mit nur wenigen Klicks zum eigenen Mitgliederbereich</span></h4>
-<p><span style="color:#000080;">Du möchtest Online Kurse anbieten, du benötigst einen eigenen Mitgliederbereich und du möchtest deine Kurse vollautomatisch verkaufen, wenn möglich über Digistore24? Dann ist lerny gernau das Richtige für dich.</span></p>
-<p><span style="color:#000080;">Lerny bietet für Kursersteller einen eigenen Adminbereich und für dessen Kursteilnehmer einen modern gestalteten Mitgliederbereich. Die Anbindung an Digistore24 erfolgt mit nur einem Klick.</span></p>
-<p><span style="color:#000080;">Deine Online Kurse zu hosten und vermarkten war noch nie so einfach, du benötigst dafür nicht einmal WordPress bzw. dafür notwendige Plugins.</span><br /><br /></p>
-<p><span style="color:#ff0000;">Besuche jetzt unser <a style="color:#ff0000;" href="https://lerny.de/partnerprogramm" target="_blank" rel="noreferrer noopener">Affiliate Center</a>, um ab sofort Provisionen zu verdienen!</span></p>
-<p><span style="color:#333399;">Du kannst mit lerny auch Tests und Prüfungen erstellen. Somit können die Mitglieder ihr Wissen jederzeit überprüfen.</span></p>
-<p><span style="color:#333399;">Module lassen sich nach einer Anzahl an bestimmten Tagen automatisch freischalten.</span></p>
+**Vendor's marketplace description:** Mit nur wenigen Klicks zum eigenen Mitgliederbereich Du möchtest Online Kurse anbieten, du benötigst einen eigenen Mitgliederbereich und du möchtest deine Kurse vollautomatisch verkaufen, wenn möglich über Digistore24? Dann ist lerny gernau das Richtige für dich. Lerny bietet für Kursersteller einen eigenen Adminbereich und für dessen Kursteilnehmer einen modern gestalteten Mitgliederbereich. Die Anbindung an Digistore24 erfolgt mit nur einem Klick. Deine Online Kurse zu hosten und vermarkten war noch nie so einfach, du benötigst dafür nicht einmal WordPress bzw. dafür notwendige Plugins. Besuche jetzt unser Affiliate Center , um ab sofort Provisionen zu verdienen! Du kannst mit lerny auch Tests und Prüfungen erstellen. Somit können die Mitglieder ihr Wissen jederzeit überprüfen. Module lassen sich nach einer Anzahl an bestimmten Tagen automatisch freischalten.
 
 ## 2. Links
 

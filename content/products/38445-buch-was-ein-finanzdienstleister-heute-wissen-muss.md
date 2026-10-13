@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <table>
-<tbody>
-<tr>
-<td>
-<div>Buch: Was ein Finanzdienstleister heute wissen muss...</div>
-<div>
-<p>Das Buch ist für alle interessierten Finanzdienstleister beginnend beim Ausschließlichkeitsvermittler, Bankberater, Strukturvertriebler, Versicherungsmakler, Mehrfachagent, Versicherungsberater, Vermögensberater bis zum Honorarberater, die erfolgreich die Zukunft unsere Versicherungs- und Finanzbranche mitgestalten wollen.</p>
-<p> </p>
-<p> </p>
-<p>Der Autor:</p>
-<p>Robert Peukert, Unternehmer, Ehemann, dreifacher Vater wurde am 24.5.1983 in Jena geboren. Er ist erfolgreicher Versicherungs- und Finanzmakler und kennt seine Branche bereits seit 2002. Er liebt seinen Beruf und hat nie etwas anderes getan. Mit über 8.000 Kundenberatungen ist er ein gefragter Experte. Er zählte 2011 zu besten Finanzberater des Jahres und 2016 wurde er unter die 10 besten Versicherungsmakler in Deutschland gewählt. 2018 gehörte er laut Handelsblatt zu den besten freien Beratern für Geldanlagen. Über 800 exzellente Kundenbewertungen haben seine Kunden seiner Firma LIEBLINGSMAKLER verliehen. 2013 gründete er seine LIEBLINSGMAKLER und zeitgleich sicherte er sich seine erste Marke TRAUMZEITPLANUNG®. 2018 war er Mitinitiator und Gründungsmitglied des Vereins „Zukunft für Finanzberatung“ tätig. Er ist bekannt u.a. bekannt aus vielen Fachzeitschriften u.a. von Asscompact, Handelsblatt, Versicherungsjournal, Finanzwelt bis zum „neuen freien Finanzberater“.</p>
-</div>
-</td>
-</tr>
-</tbody>
-</table>
+**Vendor's marketplace description:** Buch: Was ein Finanzdienstleister heute wissen muss... Das Buch ist für alle interessierten Finanzdienstleister beginnend beim Ausschließlichkeitsvermittler, Bankberater, Strukturvertriebler, Versicherungsmakler, Mehrfachagent, Versicherungsberater, Vermögensberater bis zum Honorarberater, die erfolgreich die Zukunft unsere Versicherungs- und Finanzbranche mitgestalten wollen. Der Autor: Robert Peukert, Unternehmer, Ehemann, dreifacher Vater wurde am 24.5.1983 in Jena geboren. Er ist erfolgreicher Versicherungs- und Finanzmakler und kennt seine Branche bereits seit 2002. Er liebt seinen Beruf und hat nie etwas anderes getan. Mit über 8.000 Kundenberatungen ist er ein gefragter Experte. Er zählte 2011 zu besten Finanzberater des Jahres und 2016 wurde er unter die 10 besten Versicherungsmakler in Deutschland gewählt. 2018 gehörte er laut Handelsblatt zu den besten freien Beratern für Geldanlagen. Über 800 exzellente Kundenbewertungen haben seine Kunden seiner Firma LIEBLINGSMAKLER verliehen. 2013 gründete er seine LIEBLINSGMAKLER und zeitgleich sicherte er sich seine erste Marke TRAUMZEITPLANUNG®. 2018 war er Mitinitiator und Gründungsmitglied des Vereins „Zukunft für Finanzberatung“ tätig. Er ist bekannt u.a. bekannt aus vielen Fachzeitschriften u.a. von Asscompact, Handelsblatt, Versicherungsjournal, Finanzwelt bis zum „neuen freien Finanzberater“.
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Weg zur finanziellen Unabhängigkeit!</p>
-<p>An fast keiner Schule oder Universität lernen wir den richtigen Umgang mit Geld oder wie man es klug investiert. In der Passiver Geldfluss Academy kann jeder das notwendige Wissen und die Fähigkeiten erlernen, um finanzielle Unabhängigkeit zu erreichen.</p>
-<ul><li>Elf Module mit abgeschlossenen Themengebieten mit jeweils rund zehn Lektionen</li>
-<li>Lektionen sind in Videos mit einer Länge von meist 5 bis 10 Minuten unterteilt</li>
-<li>Ergänzende pdf-Dokumente mit Links und zusätzlichen Inhalten<br />Zu sechs Modulen werden einmal pro Monat aktuelle Themen oder neue Informationen präsentiert</li>
-<li>In jedem Modul ist das Wissen eines Experten aus dem jeweiligen Fachbereich enthalten</li>
-<li>Interner Bereich für Fragen und zum Erfahrungs-Austausch der Academy-Mitglieder</li>
-</ul><p>Ziel der Mitgliedschaft ist einerseits das <strong>Erschaffen zusätzlicher Einkommensströme</strong>, in dem die neuen digitalen Möglichkeiten erlernt werden und das <strong>entsprechende Mindset angepasst wird</strong>. Zum anderen erhalten die Mitglieder eine umfassende Ausbildung, wie sie <strong>klug investieren</strong> können, um sowohl <strong>Vermögen aufzubauen</strong> als auch <strong>passives Einkommen zu erschaffen</strong>.</p>
-<p>Für jedes geworbene Mitglied gibt es eine <strong>Lifetime-Provision von 30%</strong>. Durch zeitversetzte Freischaltung der Module und regelmäßig neuer Inhalte besteht eine längere Verweildauer der Mitglieder. Die <strong>Stornoquote von unter 2,0%</strong> spricht für die Qualität des Academy-Mitgliederbereiches.</p>
-<p><span style="color:#000000;"><strong>Hinweis:</strong></span> Der erste Monat der Mitgliedschaft kostet nur 5 Euro, ab dem zweiten Monat beträgt die Mitgliedsgebühr 35 Euro.</p>
+**Vendor's marketplace description:** Der Weg zur finanziellen Unabhängigkeit! An fast keiner Schule oder Universität lernen wir den richtigen Umgang mit Geld oder wie man es klug investiert. In der Passiver Geldfluss Academy kann jeder das notwendige Wissen und die Fähigkeiten erlernen, um finanzielle Unabhängigkeit zu erreichen. Elf Module mit abgeschlossenen Themengebieten mit jeweils rund zehn Lektionen Lektionen sind in Videos mit einer Länge von meist 5 bis 10 Minuten unterteilt Ergänzende pdf-Dokumente mit Links und zusätzlichen Inhalten Zu sechs Modulen werden einmal pro Monat aktuelle Themen oder neue Informationen präsentiert In jedem Modul ist das Wissen eines Experten aus dem jeweiligen Fachbereich enthalten Interner Bereich für Fragen und zum Erfahrungs-Austausch der Academy-Mitglieder Ziel der Mitgliedschaft ist einerseits das Erschaffen zusätzlicher Einkommensströme , in dem die neuen digitalen Möglichkeiten erlernt werden und das entsprechende Mindset angepasst wird . Zum anderen erhalten die Mitglieder eine umfassende Ausbildung, wie sie klug investieren können, um sowohl Vermögen aufzubauen als auch passives Einkommen zu erschaffen . Für jedes geworbene Mitglied gibt es eine Lifetime-Provision von 30% . Durch zeitversetzte Freischaltung der Module und regelmäßig neuer Inhalte besteht eine längere Verweildauer der Mitglieder. Die Stornoquote von unter 2,0% spricht für die Qualität des Academy-Mitgliederbereiches. Hinweis: Der erste Monat der Mitgliedschaft kostet nur 5 Euro, ab dem zweiten Monat beträgt die Mitgliedsgebühr 35 Euro.
 
 ## 2. Links
 

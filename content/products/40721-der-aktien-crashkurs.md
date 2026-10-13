@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3 style="text-align:center;"><span style="background-color:#ffff00;"><strong>DER AKTIEN CRASHKURS</strong></span></h3>
-<p style="text-align:center;"><span style="color:#000000;background-color:#ff00ff;"><strong>50% Affiliate Provision und starke Conversion</strong></span></p>
-<h3 style="text-align:center;"><span style="background-color:#00ffff;">Starker Inhalt zum fairen Preis - das lässt sich gut bewerben! Der Aktien Crashkurs ist eine Börsen Komplettanleitung.</span></h3>
-<h5 style="text-align:center;"><strong>♦ 33 Module ♦</strong></h5>
-<h5 style="text-align:center;"><strong>♦ 61 Videos ♦</strong></h5>
-<h5 style="text-align:center;"><strong>♦ 6 Stunden Inhalt ♦</strong></h5>
-<h5 style="text-align:center;"><strong>♦ Fundamentale &amp; charttechnische Analyse uvm. ♦</strong></h5>
+**Vendor's marketplace description:** DER AKTIEN CRASHKURS 50% Affiliate Provision und starke Conversion Starker Inhalt zum fairen Preis - das lässt sich gut bewerben! Der Aktien Crashkurs ist eine Börsen Komplettanleitung. ♦ 33 Module ♦ ♦ 61 Videos ♦ ♦ 6 Stunden Inhalt ♦ ♦ Fundamentale & charttechnische Analyse uvm. ♦
 
 ## 2. Links
 

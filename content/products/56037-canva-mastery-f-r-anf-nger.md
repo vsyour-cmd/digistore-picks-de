@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Erstelle professionelle Designs – ohne Designer &amp; ohne Vorkenntnisse</h2>
-<p>Du möchtest Social Media Posts, E-Books oder Marketing Designs erstellen…<br />aber hast keine Ahnung von Design?</p>
-<p>Dann ist dieser Canva Mini-Kurs genau für dich.</p>
-<p>In diesem E-Book lernst du Schritt für Schritt, wie du mit Canva in kürzester Zeit moderne, hochwertige Designs erstellst – ganz ohne komplizierte Software.</p>
-<hr />
-<h3>Das erwartet dich:</h3>
-<p>✔️ Canva von Grund auf verstehen<br />✔️ Professionelle Designs in Minuten erstellen<br />✔️ Eigene Bilder &amp; Videos perfekt einbauen<br />✔️ Effekte, Animationen &amp; Layouts nutzen<br />✔️ Designs speichern, teilen &amp; verkaufen<br />✔️ Schriftarten richtig kombinieren (Profi Trick!)<br />✔️ Hyperlinks &amp; smarte Funktionen nutzen</p>
-<hr />
-<h3>Für wen ist dieser Kurs?</h3>
-<ul>
-<li>Anfänger ohne Design-Erfahrung</li>
-<li>Selbstständige &amp; Online-Business Starter</li>
-<li>Content Creator &amp; Social Media Nutzer</li>
-<li>Jeder, der Geld mit Designs verdienen will</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** Erstelle professionelle Designs – ohne Designer & ohne Vorkenntnisse Du möchtest Social Media Posts, E-Books oder Marketing Designs erstellen… aber hast keine Ahnung von Design? Dann ist dieser Canva Mini-Kurs genau für dich. In diesem E-Book lernst du Schritt für Schritt, wie du mit Canva in kürzester Zeit moderne, hochwertige Designs erstellst – ganz ohne komplizierte Software. Das erwartet dich: ✔️ Canva von Grund auf verstehen ✔️ Professionelle Designs in Minuten erstellen ✔️ Eigene Bilder & Videos perfekt einbauen ✔️ Effekte, Animationen & Layouts nutzen ✔️ Designs speichern, teilen & verkaufen ✔️ Schriftarten richtig kombinieren (Profi Trick!) ✔️ Hyperlinks & smarte Funktionen nutzen Für wen ist dieser Kurs? Anfänger ohne Design-Erfahrung Selbstständige & Online-Business Starter Content Creator & Social Media Nutzer Jeder, der Geld mit Designs verdienen will
 
 ## 2. Links
 

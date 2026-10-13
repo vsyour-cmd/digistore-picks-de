@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Wenn du genug davon hast, ständig Menschen hinterherzulaufen...</p>
-<p>Wenn du lernen möchtest, wie du dein NetworkMarketing-Business professionell über das Internet aufbaust...</p>
-<p>Und wenn du bereit bist, dir Fähigkeiten anzueignen, die dir langfristig helfen können, neue Teampartner zu gewinnen...</p>
-<p> </p>
+**Vendor's marketplace description:** Wenn du genug davon hast, ständig Menschen hinterherzulaufen... Wenn du lernen möchtest, wie du dein NetworkMarketing-Business professionell über das Internet aufbaust... Und wenn du bereit bist, dir Fähigkeiten anzueignen, die dir langfristig helfen können, neue Teampartner zu gewinnen...
 
 ## 2. Links
 

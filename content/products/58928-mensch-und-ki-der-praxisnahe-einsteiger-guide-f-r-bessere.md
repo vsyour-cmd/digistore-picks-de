@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><span style="background-color:#00ffff;color:#800080;">Mensch und KI – Die perfekte Partnerschaft</span><br /></strong>ist ein praxisnahes E-Book für Einsteiger, Selbstständige und alle, die künstliche Intelligenz sinnvoll im Alltag oder Beruf nutzen möchten.</p>
-<p><strong>Das E-Book</strong> zeigt verständlich und ohne Technik-Kauderwelsch, wie Menschen besser mit KI kommunizieren, bessere Fragen stellen und dadurch präzisere und nützlichere Ergebnisse erhalten.</p>
-<p>Behandelt werden unter anderem:</p>
-<ul>
-<li>Grundlagen der Zusammenarbeit zwischen Mensch und KI</li>
-<li>bessere Prompts und Fragetechniken</li>
-<li>typische Fehler im Umgang mit KI</li>
-<li>praktische Beispiele aus dem Alltag</li>
-<li>verständliche Methoden für Einsteiger</li>
-<li>Wege, KI als echten Denk- und Arbeitspartner zu nutzen</li>
-</ul>
-<p><strong>Zielgruppe:</strong> Einsteiger, Selbstständige, Unternehmer, Kreative und Menschen mit Interesse an künstlicher Intelligenz.</p>
+**Vendor's marketplace description:** Mensch und KI – Die perfekte Partnerschaft ist ein praxisnahes E-Book für Einsteiger, Selbstständige und alle, die künstliche Intelligenz sinnvoll im Alltag oder Beruf nutzen möchten. Das E-Book zeigt verständlich und ohne Technik-Kauderwelsch, wie Menschen besser mit KI kommunizieren, bessere Fragen stellen und dadurch präzisere und nützlichere Ergebnisse erhalten. Behandelt werden unter anderem: Grundlagen der Zusammenarbeit zwischen Mensch und KI bessere Prompts und Fragetechniken typische Fehler im Umgang mit KI praktische Beispiele aus dem Alltag verständliche Methoden für Einsteiger Wege, KI als echten Denk- und Arbeitspartner zu nutzen Zielgruppe: Einsteiger, Selbstständige, Unternehmer, Kreative und Menschen mit Interesse an künstlicher Intelligenz.
 
 ## 2. Links
 

@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Forex Seasonals Trading System</strong></p>
-<p><strong>von Eric Wagner</strong></p>
-<p><strong>Einfacher Erstverkauf durch 9,99 Euro Testangebot!</strong></p>
-<p><strong>Konditionen für Partner:</strong></p>
-<ul>
-<li>30 % Provision als Passiv-Einkommen (monatlich)</li>
-<li>Lebenslange Provisionszahlungen für die Monatsbeiträge Ihrer geworbenen Kunden</li>
-<li>Hohe Anmelde- &amp; Teilnehmerquote</li>
-<li>Hohe Conversion durch Testmöglichkeit</li>
-<li>Sehr geringe Stornoquote von </li>
-</ul>
-<p>Bewerben Sie unsere Trading-Produkte jetzt auf Ihrer Webseite, Ihrem Blog oder direkt an Ihre Liste und Sie werden sehen, wie regelmäßig hohe Provisionen in Ihren Account fließen und das Monat für Monat, solange die Abonnenten dabei bleiben. Die Kündigungsrate ist gering.</p>
-<p> </p>
+**Vendor's marketplace description:** Forex Seasonals Trading System von Eric Wagner Einfacher Erstverkauf durch 9,99 Euro Testangebot! Konditionen für Partner: 30 % Provision als Passiv-Einkommen (monatlich) Lebenslange Provisionszahlungen für die Monatsbeiträge Ihrer geworbenen Kunden Hohe Anmelde- & Teilnehmerquote Hohe Conversion durch Testmöglichkeit Sehr geringe Stornoquote von Bewerben Sie unsere Trading-Produkte jetzt auf Ihrer Webseite, Ihrem Blog oder direkt an Ihre Liste und Sie werden sehen, wie regelmäßig hohe Provisionen in Ihren Account fließen und das Monat für Monat, solange die Abonnenten dabei bleiben. Die Kündigungsrate ist gering.
 
 ## 2. Links
 

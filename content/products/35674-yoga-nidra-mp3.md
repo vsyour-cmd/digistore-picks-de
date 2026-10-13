@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Yoga Nidra - der yogische Schlaf.</h2>
-<p><strong>Meditieren, Entspannen, Stress abbauen</strong> – Ruhe, Achtsamkeit und Ausgeglichenheit im Alltag. </p>
-<p><strong>Yoga Nidra</strong> kann von jedermann erlernt werden! Auch wenn Meditieren schwer fällt oder noch nie Yoga praktiziert wurde, ist Yoga Nidra eine <strong>wunderbare Tiefenentspannungstechnik</strong>, die aus der tantrischen Wissenschaft stammt.</p>
-<p>Übersetzt bedeutet <em>Nidra</em> Schlaf. Aber <strong>Yoga Nidra ist weit mehr als Schlaf</strong>. Die Essenz der Übung liegt im Sankalpa, einem Vorsatz oder Entschluss, der achtsam gewählt werden sollte, denn er kann unser Leben nachhaltig verändern.</p>
-<p>Yoga Nidra <strong>steigert das allgemeine Wohlbefinden</strong> und die Lebensqualität und hilft bei Stress, Unruhe, Nervosität, Angespanntheit, Müdigkeit, Burnout und sogar Krankheiten. Darüber hinaus ist Yoga Nidra eine wunderbare Unterstützung zur Entwicklung der Intuition, verbessert Gedächtnis und Konzentration; ist somit eine mystische Form von <strong>mentalem Training</strong>.</p>
-<div>
-<h2>Yoga Nidra MP3 Download</h2>
-</div>
-<div>
-<p><strong>Dauer:</strong> 26,13 min<br /><strong>Datei-Paket:</strong> 32 MB<br /><strong>Voraussetzung:</strong> MP3-fähiges Abspielgerät</p>
-</div>
-<p>gesprochen von Dr. Regina Potocnik<br />music, recordings and mixed by Hannes Oberwalder - TOM TON studio productions</p>
+**Vendor's marketplace description:** Yoga Nidra - der yogische Schlaf. Meditieren, Entspannen, Stress abbauen – Ruhe, Achtsamkeit und Ausgeglichenheit im Alltag. Yoga Nidra kann von jedermann erlernt werden! Auch wenn Meditieren schwer fällt oder noch nie Yoga praktiziert wurde, ist Yoga Nidra eine wunderbare Tiefenentspannungstechnik , die aus der tantrischen Wissenschaft stammt. Übersetzt bedeutet Nidra Schlaf. Aber Yoga Nidra ist weit mehr als Schlaf . Die Essenz der Übung liegt im Sankalpa, einem Vorsatz oder Entschluss, der achtsam gewählt werden sollte, denn er kann unser Leben nachhaltig verändern. Yoga Nidra steigert das allgemeine Wohlbefinden und die Lebensqualität und hilft bei Stress, Unruhe, Nervosität, Angespanntheit, Müdigkeit, Burnout und sogar Krankheiten. Darüber hinaus ist Yoga Nidra eine wunderbare Unterstützung zur Entwicklung der Intuition, verbessert Gedächtnis und Konzentration; ist somit eine mystische Form von mentalem Training . Yoga Nidra MP3 Download Dauer: 26,13 min Datei-Paket: 32 MB Voraussetzung: MP3-fähiges Abspielgerät gesprochen von Dr. Regina Potocnik music, recordings and mixed by Hannes Oberwalder - TOM TON studio productions
 
 ## 2. Links
 

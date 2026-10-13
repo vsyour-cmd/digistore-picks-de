@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Altersarmut vermeiden“</strong></p>
-<p>Krypto, Immobilien oder Aktien für Anfänger – Die gesetzliche Rente allein wird für viele nicht reichen. Dieser anfängerfreundliche Ratgeber zeigt, wie du mit Aktien, Immobilien und Krypto Schritt für Schritt selbst vorsorgst.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verstehen, warum die gesetzliche Rente selten reicht</li>
-<li>Erst das Fundament: Schulden, Notgroschen, Überblick</li>
-<li>Mit Aktien &amp; ETFs breit gestreut Vermögen aufbauen</li>
-<li>Immobilien und Krypto ehrlich einordnen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Altersarmut vermeiden“ Krypto, Immobilien oder Aktien für Anfänger – Die gesetzliche Rente allein wird für viele nicht reichen. Dieser anfängerfreundliche Ratgeber zeigt, wie du mit Aktien, Immobilien und Krypto Schritt für Schritt selbst vorsorgst. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verstehen, warum die gesetzliche Rente selten reicht Erst das Fundament: Schulden, Notgroschen, Überblick Mit Aktien & ETFs breit gestreut Vermögen aufbauen Immobilien und Krypto ehrlich einordnen
 
 ## 2. Links
 

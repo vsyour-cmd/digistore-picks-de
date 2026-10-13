@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>#1 Beziehungscoaching für Frauen!</strong></p>
-<p><br />Empfehle die Online-Kurse und Coachings zum Thema glückliche Beziehung und Persönlichkeitsentwicklung weiter und verdiene bis zu 50% Provision!</p>
-<p><strong>Deine Vorteile:</strong><br />--&gt; Hohe Provisionen von bis zu <strong>50% bei Videokursen und 25% auf Coachings.</strong></p>
-<p><br />--&gt; Garantiert etwas für deine Kunden dabei: Wir sind in der <strong>beliebtesten Nische </strong>aktiv (Liebe &amp; Beziehungen und Bewusstsein)</p>
-<p><br />--&gt; <strong>Bewährt und optimiert:</strong> Bereits über xxxx verkaufte Produkte und über xy Testimonials von zufriedenen Kunden</p>
-<p><br />--&gt; Hohe Conversions Profitiere mit an unseren <strong>hochoptimierten Verkaufsfunneln</strong></p>
-<p><br />--&gt;<strong> Hoher Kundenwert: </strong>Bereits über 15.000 Frauen zu einer glücklichen Beziehung geführt!</p>
-<p><br />--&gt; Schneller und professioneller Support</p>
-<p><br />--&gt; Leichter Einstieg für deine Leads über kostenlose Videokurse</p>
-<p>Melde dich jetzt an, werde unser Partner und baue dir ein passives Einkommen auf. Auf eine erfolgreiche Zusammenarbeit!</p>
-<p>Liebe Grüße,<br />Petra Fürst</p>
+**Vendor's marketplace description:** #1 Beziehungscoaching für Frauen! Empfehle die Online-Kurse und Coachings zum Thema glückliche Beziehung und Persönlichkeitsentwicklung weiter und verdiene bis zu 50% Provision! Deine Vorteile: --> Hohe Provisionen von bis zu 50% bei Videokursen und 25% auf Coachings. --> Garantiert etwas für deine Kunden dabei: Wir sind in der beliebtesten Nische aktiv (Liebe & Beziehungen und Bewusstsein) --> Bewährt und optimiert: Bereits über xxxx verkaufte Produkte und über xy Testimonials von zufriedenen Kunden --> Hohe Conversions Profitiere mit an unseren hochoptimierten Verkaufsfunneln --> Hoher Kundenwert: Bereits über 15.000 Frauen zu einer glücklichen Beziehung geführt! --> Schneller und professioneller Support --> Leichter Einstieg für deine Leads über kostenlose Videokurse Melde dich jetzt an, werde unser Partner und baue dir ein passives Einkommen auf. Auf eine erfolgreiche Zusammenarbeit! Liebe Grüße, Petra Fürst
 
 ## 2. Links
 

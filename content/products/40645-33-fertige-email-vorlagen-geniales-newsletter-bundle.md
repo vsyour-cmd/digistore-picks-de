@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="background-color:#ffff00;">*** 100% Affiliate-Provision ***</span></h2>
-<h4>Einzigartiges Bundle auf starker Verkaufsseite</h4>
-<h4> </h4>
-<h2><span style="text-decoration:underline;">Vorteile für den Kunden:</span></h2>
-<h4>Sofort Umsatz steigern und Zeit sparen:<br />Einfach kopieren, einfügen &amp; versenden</h4>
-<ul>
-<li><strong>Neue Traumkunden zu gewinnen</strong> sowie Bestandskunden an dich zu binden</li>
-<li>Einen Expertenstatus und <strong>wertvolles Vertrauen</strong> deiner Leser zu erlangen</li>
-<li><strong>Mehrere Stunden pro Woche zu sparen</strong>, indem du die genialen Templates nutzt</li>
-</ul>
-<p> </p>
-<h4>4 Gratis Boni:</h4>
-<p>1)<strong> 70 Betreffzeilen</strong> für ultrahohe Öffnungsraten (Wert: 99€)<br /><br /></p>
-<p>2)<strong> eBook</strong>: Email Marketing für Anfänger (Wert: 69€)<br /><br /></p>
-<p>3)<strong> Der perfekte Marketingplan</strong> für dein Unternehmen (Wert: 249€)<br /><br /></p>
-<p>4) (Aktueller Zusatz-Bonus) Einzigartiger <strong>Artikel für deinen Blog</strong>, von mir getextet und SEO-optimiert nach deinem persönlichen Themen-Wunsch (Wert: 399€)</p>
+**Vendor's marketplace description:** *** 100% Affiliate-Provision *** Einzigartiges Bundle auf starker Verkaufsseite Vorteile für den Kunden: Sofort Umsatz steigern und Zeit sparen: Einfach kopieren, einfügen & versenden Neue Traumkunden zu gewinnen sowie Bestandskunden an dich zu binden Einen Expertenstatus und wertvolles Vertrauen deiner Leser zu erlangen Mehrere Stunden pro Woche zu sparen , indem du die genialen Templates nutzt 4 Gratis Boni: 1) 70 Betreffzeilen für ultrahohe Öffnungsraten (Wert: 99€) 2) eBook : Email Marketing für Anfänger (Wert: 69€) 3) Der perfekte Marketingplan für dein Unternehmen (Wert: 249€) 4) (Aktueller Zusatz-Bonus) Einzigartiger Artikel für deinen Blog , von mir getextet und SEO-optimiert nach deinem persönlichen Themen-Wunsch (Wert: 399€)
 
 ## 2. Links
 

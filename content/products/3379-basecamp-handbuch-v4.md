@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Gut laufendes eBook mit weiteren Upsells, die den Umsatz erhöhen.</p>
-<p>Thema: BaseCamp, die Software zur Navigationsplanung für Garmin GPS Empfänger.</p>
-<p>Zielgruppe: Wanderer, Radfahrer, Outdoor-Leute und Motorradfahrer. Speziell Motorradfahrer mit BMW oder Harley Davidson sind eine gute Zielgruppe weil diese Marken jeweils Garmin Navis als eigenes Produkt anbieten.</p>
+**Vendor's marketplace description:** Gut laufendes eBook mit weiteren Upsells, die den Umsatz erhöhen. Thema: BaseCamp, die Software zur Navigationsplanung für Garmin GPS Empfänger. Zielgruppe: Wanderer, Radfahrer, Outdoor-Leute und Motorradfahrer. Speziell Motorradfahrer mit BMW oder Harley Davidson sind eine gute Zielgruppe weil diese Marken jeweils Garmin Navis als eigenes Produkt anbieten.
 
 ## 2. Links
 

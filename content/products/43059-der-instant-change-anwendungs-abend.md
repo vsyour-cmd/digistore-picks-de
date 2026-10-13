@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Instant Change ist die Revolution des Coachings - Ängste, negative Glaubenssätze und Blockaden werden innerhalb kürzester Zeit gelöst! Bisher haben über 50.000 Seminarteilnehmer von der INSTANT Change Methode profitiert.</p>
-<p>Und das erwartet die Teilnehmer:</p>
-<p>- Live Anwendungen mit Teilnehmern durch den Erfinder der Methode, Daniel Weinstock</p>
-<p>- Man lernt, warum es einfach ist, eine schnelle und nachhaltige Veränderung in allen Lebensbereichen zu erreichen</p>
-<p>- Man erfährt, dass die Instant Change Methode in allen 3 Bereichen des menschlichen Systems (Gehirn, Körper und Aura) arbeitet</p>
-<p>- In dem Preis ist ein kostenloses Ticket zum Tagesevent enthalten, an welchem man INSTANT CHANGE einen Tag lag in der Theorie und in der Praxis erleben kann.</p>
-<p>Der Anwendungsabend startet jeweils um 19:30 Uhr und geht bis ca. 21:30 Uhr. Das Tagesevent startet um 10:30 Uhr und geht bis ca. 18:30 Uhr.</p>
+**Vendor's marketplace description:** Instant Change ist die Revolution des Coachings - Ängste, negative Glaubenssätze und Blockaden werden innerhalb kürzester Zeit gelöst! Bisher haben über 50.000 Seminarteilnehmer von der INSTANT Change Methode profitiert. Und das erwartet die Teilnehmer: - Live Anwendungen mit Teilnehmern durch den Erfinder der Methode, Daniel Weinstock - Man lernt, warum es einfach ist, eine schnelle und nachhaltige Veränderung in allen Lebensbereichen zu erreichen - Man erfährt, dass die Instant Change Methode in allen 3 Bereichen des menschlichen Systems (Gehirn, Körper und Aura) arbeitet - In dem Preis ist ein kostenloses Ticket zum Tagesevent enthalten, an welchem man INSTANT CHANGE einen Tag lag in der Theorie und in der Praxis erleben kann. Der Anwendungsabend startet jeweils um 19:30 Uhr und geht bis ca. 21:30 Uhr. Das Tagesevent startet um 10:30 Uhr und geht bis ca. 18:30 Uhr.
 
 ## 2. Links
 

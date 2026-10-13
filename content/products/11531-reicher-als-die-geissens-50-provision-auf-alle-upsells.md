@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#ff0000;background-color:#ffff00;">### Achtung, verbesserte Upsells: Der verbotene Erfolgs- &amp; Immobilien Verkaufsrenner </span></h2>
-<h3><strong><span style="color:#339966;"><em>*** Über 5.000 Verkäufe am ersten Tag, bisher 300.000 Copies sold ***</em></span></strong></h3>
-<p><strong><em>"Reicher als die Geissens" ist das erste und einzige Wohlstands-Lehrbuch weltweit, das die 43 wichtigsten Erfolgs-Fundamente Schritt für Schritt <u>so</u> inspirierend erarbeitet, dass Du Dich auch ohne Startkapital in 5 Jahren zum Immobilienmillionär transformieren kannst.</em></strong></p>
-<p><span style="background-color:#ffff00;"> <strong>Addon #1: 50% Provision Reicher als die Geissens Hörbuch mit Gordon Gekko 14,95€</strong></span></p>
-<p><a>Hörbuch gesprochen von mir Alex Fischer &amp; der deutschen Synchronstimme von Gordon Gekko aus dem Film Wallstreet mit Michael Douglas.</a></p>
-<p><span style="background-color:#ffff00;"><strong>Upsell #2: 50% Provision Immobilien Investor Masterkurs nur in Kombination zur Einführung vom Buch 297,00 €</strong></span></p>
-<p>Diesen Immobilienkurs sollte jeder kennen, der in irgendeiner Form mit Immobilien zu tun hat, denn das Wissen in diesen Videos ist die Grundlage, um ein erfolgreicher Immobilieninvestor zu sein.</p>
-<p>Wir haben überdurchschnittliche Conversion Rates!</p>
-<p><strong>Das Ziel des Buches:</strong> Es soll dir alle Werkzeuge und Glaubenssätze mitgeben, damit du deine persönlichen, beruflichen und finanziellen Ziele erreichst.</p>
-<p>Auch wenn es verrückt klingt: Aktuell gibt es dieses Buch gratis, denn ich möchte damit so viele Menschen erreichen wie möglich.</p>
-<p>In „Reicher als die Geissens“ stehen 43 zeitlose Erfolgsgesetze, die glückliche und erfolgreiche Menschen auf der ganzen Welt bereits nutzen, um ihre Ziele zu erreichen.</p>
-<p>Es sind dieselben Gesetze, die mich zum Immobilien-Millionär gemacht und mir ein erfülltes Leben ermöglicht haben.</p>
-<p> </p>
+**Vendor's marketplace description:** ### Achtung, verbesserte Upsells: Der verbotene Erfolgs- & Immobilien Verkaufsrenner *** Über 5.000 Verkäufe am ersten Tag, bisher 300.000 Copies sold *** "Reicher als die Geissens" ist das erste und einzige Wohlstands-Lehrbuch weltweit, das die 43 wichtigsten Erfolgs-Fundamente Schritt für Schritt so inspirierend erarbeitet, dass Du Dich auch ohne Startkapital in 5 Jahren zum Immobilienmillionär transformieren kannst. Addon #1: 50% Provision Reicher als die Geissens Hörbuch mit Gordon Gekko 14,95€ Hörbuch gesprochen von mir Alex Fischer & der deutschen Synchronstimme von Gordon Gekko aus dem Film Wallstreet mit Michael Douglas. Upsell #2: 50% Provision Immobilien Investor Masterkurs nur in Kombination zur Einführung vom Buch 297,00 € Diesen Immobilienkurs sollte jeder kennen, der in irgendeiner Form mit Immobilien zu tun hat, denn das Wissen in diesen Videos ist die Grundlage, um ein erfolgreicher Immobilieninvestor zu sein. Wir haben überdurchschnittliche Conversion Rates! Das Ziel des Buches: Es soll dir alle Werkzeuge und Glaubenssätze mitgeben, damit du deine persönlichen, beruflichen und finanziellen Ziele erreichst. Auch wenn es verrückt klingt: Aktuell gibt es dieses Buch gratis, denn ich möchte damit so viele Menschen erreichen wie möglich. In „Reicher als die Geissens“ stehen 43 zeitlose Erfolgsgesetze, die glückliche und erfolgreiche Menschen auf der ganzen Welt bereits nutzen, um ihre Ziele zu erreichen. Es sind dieselben Gesetze, die mich zum Immobilien-Millionär gemacht und mir ein erfülltes Leben ermöglicht haben.
 
 ## 2. Links
 

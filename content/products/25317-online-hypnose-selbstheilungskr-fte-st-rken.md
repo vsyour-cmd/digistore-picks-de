@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><big>Hypnose Kurs: "Selbstheilungskräfte stärken"</big></h2>
-<h4>1,5 Stunden On-demand Videos für:</h4>
-<ul><li>Immunsystem verbessern</li>
-<li>Gefühle kontrollieren</li>
-<li>Förderung der Selbstheilungskräfte</li>
-<li>Weniger Sorgen</li>
-</ul><p><strong>Kursinhalte, Bewertungen und Vorschauvideos auf der Verkaufsseite.</strong></p>
+**Vendor's marketplace description:** Hypnose Kurs: "Selbstheilungskräfte stärken" 1,5 Stunden On-demand Videos für: Immunsystem verbessern Gefühle kontrollieren Förderung der Selbstheilungskräfte Weniger Sorgen Kursinhalte, Bewertungen und Vorschauvideos auf der Verkaufsseite.
 
 ## 2. Links
 

@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Infos für Affiliates</strong></p>
-<p>Mit diesem Produkt erhält der Kunden einen Kurs in Form von täglichen E-Mails der die wichtigsten Punkte zum Aufbau eine eigenen E-Mail-Liste anspricht.</p>
-<p>Weiterhin erhält der Kunden in zuge des Kurses Tipps zur zum Aufbau von Landingpages, zum Autoresponder sowie Traffictipps.</p>
-<p>Als Bonus bekommt der Kunde das eBook <strong>5 Schritte zur eigenen E-Mail-Liste</strong> zum kostenlosen Download.</p>
-<p>Als Affiliate erhältst Du 50% Provision vom Netto-Verkaufspreis abzüglich der Digistore24 Gebühren.</p>
-<p> </p>
+**Vendor's marketplace description:** Infos für Affiliates Mit diesem Produkt erhält der Kunden einen Kurs in Form von täglichen E-Mails der die wichtigsten Punkte zum Aufbau eine eigenen E-Mail-Liste anspricht. Weiterhin erhält der Kunden in zuge des Kurses Tipps zur zum Aufbau von Landingpages, zum Autoresponder sowie Traffictipps. Als Bonus bekommt der Kunde das eBook 5 Schritte zur eigenen E-Mail-Liste zum kostenlosen Download. Als Affiliate erhältst Du 50% Provision vom Netto-Verkaufspreis abzüglich der Digistore24 Gebühren.
 
 ## 2. Links
 

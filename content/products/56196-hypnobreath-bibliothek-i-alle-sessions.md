@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Dein Reset für innere Balance &amp; neue Lebensenergie</h1>
-<p>Ob ständiges Gedankenkreisen, energetische Erschöpfung oder der Wunsch nach tiefer Verbundenheit mit dir selbst – mit deinem Zugang zur Hypnobreath-Bibliothek hast du jederzeit das richtige Werkzeug parat, um dein Nervensystem sanft zu regulieren und deine Energie neu auszurichten.</p>
-<ul>
-<li>Alle 6 Kurse, über 80 Sessions, sofort freigeschaltet</li>
-<li>Bonus-Kurs „Der Direkte Weg" mit 25+ Hypnose-Sessions</li>
-<li>Eine Live-Session pro Monat mit Fabian</li>
-<li>Atemkurs für den Alltag</li>
-<li>Offline-Download · Community · Quartals-Updates</li>
-</ul>
-<p>Mehr unter: <a href="https://www.hypnobreath.de/alle-sessions" target="_blank" rel="noreferrer noopener">https://www.hypnobreath.de/alle-sessions</a></p>
-<p>Viele Grüße, </p>
-<p>Fabian Ries</p>
+**Vendor's marketplace description:** Dein Reset für innere Balance & neue Lebensenergie Ob ständiges Gedankenkreisen, energetische Erschöpfung oder der Wunsch nach tiefer Verbundenheit mit dir selbst – mit deinem Zugang zur Hypnobreath-Bibliothek hast du jederzeit das richtige Werkzeug parat, um dein Nervensystem sanft zu regulieren und deine Energie neu auszurichten. Alle 6 Kurse, über 80 Sessions, sofort freigeschaltet Bonus-Kurs „Der Direkte Weg" mit 25+ Hypnose-Sessions Eine Live-Session pro Monat mit Fabian Atemkurs für den Alltag Offline-Download · Community · Quartals-Updates Mehr unter: https://www.hypnobreath.de/alle-sessions Viele Grüße, Fabian Ries
 
 ## 2. Links
 

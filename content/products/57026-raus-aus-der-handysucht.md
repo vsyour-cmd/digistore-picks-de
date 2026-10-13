@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Raus aus der Handysucht"</strong></p>
-<p>Hundertmal am Tag zum Handy greifen? Dieser Ratgeber hilft dir zu verstehen, warum das Smartphone so fesselt, dein Handy zu entschärfen und Schritt für Schritt die Kontrolle über deine Zeit zurückzugewinnen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe: Sucht &amp; Entzug / Selbsthilfe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Einschätzen, wann Handynutzung zu viel wird</li>
-<li>Verstehen, warum das Smartphone so fesselt</li>
-<li>Das Handy über Einstellungen und Apps entschärfen</li>
-<li>Den automatischen Griff durch neue Gewohnheiten ersetzen</li>
-<li>Fokus, Schlaf und echte Pausen zurückgewinnen</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Menschen, die eine Sucht oder schlechte Gewohnheit überwinden wollen – Gesundheits- &amp; Persönlichkeitsentwicklungs-Zielgruppe</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Raus aus der Handysucht" Hundertmal am Tag zum Handy greifen? Dieser Ratgeber hilft dir zu verstehen, warum das Smartphone so fesselt, dein Handy zu entschärfen und Schritt für Schritt die Kontrolle über deine Zeit zurückzugewinnen. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe: Sucht & Entzug / Selbsthilfe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Einschätzen, wann Handynutzung zu viel wird Verstehen, warum das Smartphone so fesselt Das Handy über Einstellungen und Apps entschärfen Den automatischen Griff durch neue Gewohnheiten ersetzen Fokus, Schlaf und echte Pausen zurückgewinnen Für deine Zielgruppe: Menschen, die eine Sucht oder schlechte Gewohnheit überwinden wollen – Gesundheits- & Persönlichkeitsentwicklungs-Zielgruppe Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

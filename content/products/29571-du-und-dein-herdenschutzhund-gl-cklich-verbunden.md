@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Diese Schulung ist hilft Haltern von Herdenschutzhunde in Familienhand, ein glückliches und harmonischen Zusammenleben zu ermöglichen.</p>
-<p>Empfehlen Sie das einzigartige Produkt für Hundehalter mit überragender Customer Lifetime Value. Ihre Vorteile:</p>
-<p>- Hohe Conversion-Raten, durch starke Verkaufseiten, die durchgehend getestet werden</p>
-<p>- Doppelt so viel Verkäufe aus Deinen Besuchern rausholen, durch gezielte Retargeting Werbung von uns</p>
-<p>- Begeisterte Kunden, durch ein erstklassiges Produkt (Geringe Stornoquote von nur 3%)</p>
-<p>- 30% Provision auf jeden Verkauf!</p>
-<p> </p>
-<p>Mirjam Cordt ist die erfolgreichste Hunde-Verhaltens-Expertin im deutschsprachigen Raum, Expertin für Herdenschutzhunde in Familienhand, Tierschützerin, Autorin von 6 Büchern, Gründerin des Kompetenzzentrum für Hunde &amp; Ihre Menschen "DOG-InForm", sowie einer Verhaltensberatung und einem Hundehotel und Ausbildungen für Hundetrainer/Verhaltensberater, Hundehalter, Tierschützer sowie Mindset-Coach.</p>
-<p> </p>
-<p>Durch ihre Arbeit, ihr Herz und Kompetenz und hervorragende Produkte mit bahnbrechenden Erfolgen ist sie so bekannt geworden.</p>
+**Vendor's marketplace description:** Diese Schulung ist hilft Haltern von Herdenschutzhunde in Familienhand, ein glückliches und harmonischen Zusammenleben zu ermöglichen. Empfehlen Sie das einzigartige Produkt für Hundehalter mit überragender Customer Lifetime Value. Ihre Vorteile: - Hohe Conversion-Raten, durch starke Verkaufseiten, die durchgehend getestet werden - Doppelt so viel Verkäufe aus Deinen Besuchern rausholen, durch gezielte Retargeting Werbung von uns - Begeisterte Kunden, durch ein erstklassiges Produkt (Geringe Stornoquote von nur 3%) - 30% Provision auf jeden Verkauf! Mirjam Cordt ist die erfolgreichste Hunde-Verhaltens-Expertin im deutschsprachigen Raum, Expertin für Herdenschutzhunde in Familienhand, Tierschützerin, Autorin von 6 Büchern, Gründerin des Kompetenzzentrum für Hunde & Ihre Menschen "DOG-InForm", sowie einer Verhaltensberatung und einem Hundehotel und Ausbildungen für Hundetrainer/Verhaltensberater, Hundehalter, Tierschützer sowie Mindset-Coach. Durch ihre Arbeit, ihr Herz und Kompetenz und hervorragende Produkte mit bahnbrechenden Erfolgen ist sie so bekannt geworden.
 
 ## 2. Links
 

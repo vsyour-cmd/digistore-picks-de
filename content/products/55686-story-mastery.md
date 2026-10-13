@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Erstelle messerscharfe Storys, die direkt verkaufen, ohne lange Verkaufsprozesse und ohne lästige Verkaufsgespräche.</h2>
-<p>Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. 350€ Provision im Funnel.</p>
-<p>Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst!</p>
-<p>Das bekommt der Kunde in diesem wertvollen Online-Kurs:</p>
-<ul>
-<li>was du auf gar keinen Fall in deinen Storys machen solltest, weil es deinen Verkauf killt…</li>
-<li>wie du <strong>die richtigen Wörter verwendest,</strong> die Storys korrekt aufbaust, sodass sie direkt von dir kaufen…</li>
-<li>wie du Vertrauen und eine Bindung aufbaust, sodass <strong>deine Follower zu wahren Fans werden und alles von dir kaufen wollen!</strong></li>
-<li>wann und welche Storys du posten solltest, damit es mit dem Verkauf (einfacher) klappt…</li>
-<li>und wie du den <strong>absoluten SalesBooster zündest,</strong> um noch mehr Verkäufe zu erzielen (aber deutlich einfacher)</li>
-<li>wie der Algorithmus wirklich tickt, sodass du <strong>zum absoluten Algo-Liebling </strong>wirst und dein Content <strong>deutlich mehr Chancen hat, viral zu gehen</strong>!</li>
-</ul>
-<p>Und <strong>als Bonus</strong> bekommst du zahlreiche Vorlagen, die du direkt einsetzen und verwenden kannst, (was dir das Leben erleichtern und die Verkäufe steigern kann).</p>
+**Vendor's marketplace description:** Erstelle messerscharfe Storys, die direkt verkaufen, ohne lange Verkaufsprozesse und ohne lästige Verkaufsgespräche. Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. 350€ Provision im Funnel. Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst! Das bekommt der Kunde in diesem wertvollen Online-Kurs: was du auf gar keinen Fall in deinen Storys machen solltest, weil es deinen Verkauf killt… wie du die richtigen Wörter verwendest, die Storys korrekt aufbaust, sodass sie direkt von dir kaufen… wie du Vertrauen und eine Bindung aufbaust, sodass deine Follower zu wahren Fans werden und alles von dir kaufen wollen! wann und welche Storys du posten solltest, damit es mit dem Verkauf (einfacher) klappt… und wie du den absoluten SalesBooster zündest, um noch mehr Verkäufe zu erzielen (aber deutlich einfacher) wie der Algorithmus wirklich tickt, sodass du zum absoluten Algo-Liebling wirst und dein Content deutlich mehr Chancen hat, viral zu gehen ! Und als Bonus bekommst du zahlreiche Vorlagen, die du direkt einsetzen und verwenden kannst, (was dir das Leben erleichtern und die Verkäufe steigern kann).
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Ulf Hofmann </strong></p>
-<p>über 30 Jahre Erfahrung in der Immobilienwirtschaft – von der Projektidee bis zur schlüsselfertigen Übergabe, umfangreichste Expertise als Unternehmer, Bauträger, Totalübernehmer, Projektentwickler und Senior Consultant, Erfahrung aus tausenden Gesprächen mit Eigennutzern, Kapitalanlegern, Notaren, Architekten, Behörden, Handwerkern, Maklern, Eigentümern, Mietern, Anwälten ... spezialisiert auf wirtschaftliche und organisatorische Stabilisierung von Bau- und Immobilienprojekten in schwierigen Phasen - insbesondere auch für die/den Erwerber</p>
-<p><a title="Homepage" href="https://www.hofmann-projektmanagement.com" target="_blank" rel="noreferrer noopener">https://www.hofmann-projektmanagement.com</a></p>
+**Vendor's marketplace description:** Ulf Hofmann über 30 Jahre Erfahrung in der Immobilienwirtschaft – von der Projektidee bis zur schlüsselfertigen Übergabe, umfangreichste Expertise als Unternehmer, Bauträger, Totalübernehmer, Projektentwickler und Senior Consultant, Erfahrung aus tausenden Gesprächen mit Eigennutzern, Kapitalanlegern, Notaren, Architekten, Behörden, Handwerkern, Maklern, Eigentümern, Mietern, Anwälten ... spezialisiert auf wirtschaftliche und organisatorische Stabilisierung von Bau- und Immobilienprojekten in schwierigen Phasen - insbesondere auch für die/den Erwerber https://www.hofmann-projektmanagement.com
 
 ## 2. Links
 

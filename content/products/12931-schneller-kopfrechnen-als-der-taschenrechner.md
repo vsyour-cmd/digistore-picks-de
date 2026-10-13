@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein hochgelobtes Produkt, mit zahlreichen fantastischen Kundentestimonials und 100% Geld-Zurück-Garantie. 50% Provision für Affiliates. Sehr stark konvertierende Verkaufsseite. Inkl. Upellprodukte bis zu 500 Euro.</p>
+**Vendor's marketplace description:** Ein hochgelobtes Produkt, mit zahlreichen fantastischen Kundentestimonials und 100% Geld-Zurück-Garantie. 50% Provision für Affiliates. Sehr stark konvertierende Verkaufsseite. Inkl. Upellprodukte bis zu 500 Euro.
 
 ## 2. Links
 

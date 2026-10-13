@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieser <strong>6 Wochen Kurs</strong> löst das Problem, das Männer zu früh kommen oder gerne länger können möchten.</p>
-<p>Der Kurs wurde von der <strong>Sexualpädagogin</strong> Anja Drews speziell entwickelt, um die Kunden mit Charm und Wissen an Ihr Ziel bringen. </p>
-<p>6 Wochenmodule mit Videos + vielen Downloads sorgen für ein hochwertiges und seriöses Produkt im Bereich der online Sexualtherapie.</p>
-<p>Die Zufriedenheit der Kurs Teilnehmer steht bei uns im Vordergrund. Die stetige Pflege und Optimierung soll so auch unseren Affiliates zu gute kommen, um beste Verkaufsraten zu erlangen.</p>
-<p>Weitere Details zu dem Inhalten des Kurses entnehmen Sie bitte der Verkaufsseite.</p>
-<p>Ein Produkt von <a href="https://www.die-sexualitaet.de/" target="_blank" rel="noreferrer noopener">www.die-sexualitaet.de</a></p>
+**Vendor's marketplace description:** Dieser 6 Wochen Kurs löst das Problem, das Männer zu früh kommen oder gerne länger können möchten. Der Kurs wurde von der Sexualpädagogin Anja Drews speziell entwickelt, um die Kunden mit Charm und Wissen an Ihr Ziel bringen. 6 Wochenmodule mit Videos + vielen Downloads sorgen für ein hochwertiges und seriöses Produkt im Bereich der online Sexualtherapie. Die Zufriedenheit der Kurs Teilnehmer steht bei uns im Vordergrund. Die stetige Pflege und Optimierung soll so auch unseren Affiliates zu gute kommen, um beste Verkaufsraten zu erlangen. Weitere Details zu dem Inhalten des Kurses entnehmen Sie bitte der Verkaufsseite. Ein Produkt von www.die-sexualitaet.de
 
 ## 2. Links
 

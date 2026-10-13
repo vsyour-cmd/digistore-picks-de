@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong>Mit dem Online-Kurs "Torwarttraining ohne Torwarttrainer" von NextLevelKeepers bekommst du einen </strong><strong>Kurs für Fußballtrainer – So coachst du deine Keeper auch ohne Torwarttrainer</strong></div>
-<div>
-<ul>
-<li>Entwickelt für Jugend- und Amateurtrainer, die ihre Torhüter gezielt besser machen wollen – <strong>ohne spezielles Vorwissen und ohne zusätzliche Trainingseinheiten</strong>.</li>
-<li>Inklusive <strong>praxisnaher Video-Anleitungen</strong> und klarer Schritt-für-Schritt-Trainingspläne – damit du die Übungen <strong>direkt im Teamtraining anwenden kannst</strong>.</li>
-<li>Perfekt für den Einsatz im E- bis C-Jugendbereich – einfach erklärt, altersgerecht und sofort umsetzbar.</li>
-</ul>
-<p> </p>
-<p><strong>Mit diesem Kurs kommt:</strong></p>
-<ul>
-<li>6 kompakte Videomodule mit den wichtigsten Torwart-Basics</li>
-<li>Fertige Übungen für Fangtechnik, Stellungsspiel und Reaktionsschnelligkeit</li>
-<li>Bonus: PDF-Trainingspläne zum Mitnehmen aufs Training</li>
-</ul>
-<p> </p>
-<p><strong>Hinweis:<br /></strong>Dieser Kurs richtet sich speziell an Trainer im Amateurbereich. Auch Eltern und motivierte Jugendkeeper können die Inhalte selbstständig nutzen.<br /><strong>Mach deine Keeper besser – auch ohne Torwarttrainer.</strong></p>
-</div>
+**Vendor's marketplace description:** Mit dem Online-Kurs "Torwarttraining ohne Torwarttrainer" von NextLevelKeepers bekommst du einen Kurs für Fußballtrainer – So coachst du deine Keeper auch ohne Torwarttrainer Entwickelt für Jugend- und Amateurtrainer, die ihre Torhüter gezielt besser machen wollen – ohne spezielles Vorwissen und ohne zusätzliche Trainingseinheiten . Inklusive praxisnaher Video-Anleitungen und klarer Schritt-für-Schritt-Trainingspläne – damit du die Übungen direkt im Teamtraining anwenden kannst . Perfekt für den Einsatz im E- bis C-Jugendbereich – einfach erklärt, altersgerecht und sofort umsetzbar. Mit diesem Kurs kommt: 6 kompakte Videomodule mit den wichtigsten Torwart-Basics Fertige Übungen für Fangtechnik, Stellungsspiel und Reaktionsschnelligkeit Bonus: PDF-Trainingspläne zum Mitnehmen aufs Training Hinweis: Dieser Kurs richtet sich speziell an Trainer im Amateurbereich. Auch Eltern und motivierte Jugendkeeper können die Inhalte selbstständig nutzen. Mach deine Keeper besser – auch ohne Torwarttrainer.
 
 ## 2. Links
 

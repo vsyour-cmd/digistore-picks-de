@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses Set, bestehend aus: <strong>Buch, Hörbuch und Übungsprotokoll,</strong> ist an all diejenigen gerichtet, die zielstrebig Hilfe zur Selbsthilfe suchen und eine wirksame Methode zur Entspannung konsequent anwenden möchten.</p>
-<p> </p>
-<p>Es beantwortet spezifische Fragen, wo, wann und wie lange das Autogene Training seine Anwendung findet, und zeigt in vielfältiger und interessanter Weise auf, dass es gar nicht so schwer ist, sein Wohlbefinden <strong>ohne großen Zeit- und Kraftaufwand</strong> systematisch aufzubauen und zu erhalten. Autogenes Training ist ein erfolgreicher Weg zur Gesunderhaltung des Körpers, wobei das Ergebnis absehbar und spürbar wahrnehmbar ist.</p>
-<p><strong>Regenerieren Sie in kurzer Zeit Körper, Geist und Seele durch eine tiefe Entspannung und wunderbare Erholung.</strong></p>
-<p><br />Ein kleiner Auszug aus dem Vollpaket:</p>
-<ul><li>Mein Vollpaket zeigt Ihnen wie Sie Mithilfe des Autogenen Trainings Ihre Ziele erreichen ( z.B. überwinden Sie Ihre Rede- und Flugangst,schlafen Sie entspannter ein, überwinden Sie Ihren Alltagsstress und meistern Sie Ihre Aufgaben )</li>
-<li>Sie erhalten eine Übersicht aus ausgewählten Formeln um speziell Ihre Bedürfnisse zu behandeln<br />Die 3 in der Praxis erprobten Klassifizierungen des Autogenen Trainings</li>
-<li>Die Königsdisziplin des Autogenen Trainings, die analytische Oberstufe</li>
-<li>Wir zeigen Ihnen wie Sie Warnsignale des Körpers erkennen</li>
-<li>Ein Hörbuch : Ruhe, Entspannen, Loslassen. Mit Übungen zum leichten erlernen der Grundstufe. Auf jedem MP3-Player und Smartphone abspielbar – Also ideal auch für unterwegs.</li>
-<li>Das Übungsprotokoll, zum Notieren Ihrer persönlichen Erfahrungen und Erlebnisse.</li>
-<li>Mit diesem Buch sind Sie den Anforderungen des Alltags bestens gewappnet um sich fit und ausgeglichen zu fühlen.</li>
-<li><strong>Jetzt Neu:</strong> mit Bonus-Teil “Raucherentwöhnung Mithilfe des Autogenen Trainings”</li>
-</ul>
+**Vendor's marketplace description:** Dieses Set, bestehend aus: Buch, Hörbuch und Übungsprotokoll, ist an all diejenigen gerichtet, die zielstrebig Hilfe zur Selbsthilfe suchen und eine wirksame Methode zur Entspannung konsequent anwenden möchten. Es beantwortet spezifische Fragen, wo, wann und wie lange das Autogene Training seine Anwendung findet, und zeigt in vielfältiger und interessanter Weise auf, dass es gar nicht so schwer ist, sein Wohlbefinden ohne großen Zeit- und Kraftaufwand systematisch aufzubauen und zu erhalten. Autogenes Training ist ein erfolgreicher Weg zur Gesunderhaltung des Körpers, wobei das Ergebnis absehbar und spürbar wahrnehmbar ist. Regenerieren Sie in kurzer Zeit Körper, Geist und Seele durch eine tiefe Entspannung und wunderbare Erholung. Ein kleiner Auszug aus dem Vollpaket: Mein Vollpaket zeigt Ihnen wie Sie Mithilfe des Autogenen Trainings Ihre Ziele erreichen ( z.B. überwinden Sie Ihre Rede- und Flugangst,schlafen Sie entspannter ein, überwinden Sie Ihren Alltagsstress und meistern Sie Ihre Aufgaben ) Sie erhalten eine Übersicht aus ausgewählten Formeln um speziell Ihre Bedürfnisse zu behandeln Die 3 in der Praxis erprobten Klassifizierungen des Autogenen Trainings Die Königsdisziplin des Autogenen Trainings, die analytische Oberstufe Wir zeigen Ihnen wie Sie Warnsignale des Körpers erkennen Ein Hörbuch : Ruhe, Entspannen, Loslassen. Mit Übungen zum leichten erlernen der Grundstufe. Auf jedem MP3-Player und Smartphone abspielbar – Also ideal auch für unterwegs. Das Übungsprotokoll, zum Notieren Ihrer persönlichen Erfahrungen und Erlebnisse. Mit diesem Buch sind Sie den Anforderungen des Alltags bestens gewappnet um sich fit und ausgeglichen zu fühlen. Jetzt Neu: mit Bonus-Teil “Raucherentwöhnung Mithilfe des Autogenen Trainings”
 
 ## 2. Links
 

@@ -41,73 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><span style="background-color:#ffff00;">Das lernst du in der DP Masterclass:</span></h3>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Fundament:</strong></span></p>
-<ul>
-<li>
-<p>Die <strong>richtige Nische finden</strong>, die sich wirklich verkauft</p>
-</li>
-<li>
-<p>Verstehen, welche eBook-Ideen &amp; Online Kurse Nachfrage haben – und welche nicht</p>
-<p> </p>
-</li>
-</ul>
-<p><span style="background-color:#ffff00;"><strong>eBook &amp; Kurs Erstellung (smart &amp; effizient):</strong></span></p>
-<ul>
-<li>
-<p>Arbeiten mit <strong>ChatGPT &amp; KI-Tools</strong>, um Inhalte schneller zu erstellen</p>
-</li>
-<li>
-<p><strong>Canva von Grund auf</strong>: Layout, Design &amp; Struktur</p>
-</li>
-<li>
-<p><strong>Logo &amp; Branding</strong> erstellen – modern, hochwertig &amp; wieder erkennbar</p>
-<p> </p>
-</li>
-</ul>
-<p><span style="background-color:#ffff00;"><strong>Branding &amp; Content:</strong></span></p>
-<ul>
-<li>
-<p>Einheitliches <strong>Branding</strong> für Vertrauen &amp; Wiedererkennung</p>
-</li>
-<li>
-<p><strong>Content Creation mit Canva</strong></p>
-</li>
-<li>
-<p>Virale Kurzvideos / Reels erstellen</p>
-<p> </p>
-</li>
-</ul>
-<p><span style="background-color:#ffff00;"><strong>Social Media Marketing:</strong></span></p>
-<ul>
-<li>
-<p><strong>Instagram &amp; TikTok</strong> richtig nutzen</p>
-</li>
-<li>
-<p><strong>Kurzvideos erstellen mit CapCut</strong></p>
-</li>
-<li>
-<p>Content, der Aufmerksamkeit bringt – ohne sich zu zeigen</p>
-<p> </p>
-</li>
-</ul>
-<p><span style="background-color:#ffff00;"><strong>Verkaufen &amp; Skalieren:</strong></span></p>
-<p> </p>
-<ul>
-<li>
-<p>Kunden gewinnen über Social Media</p>
-</li>
-<li>
-<p><strong>Verkäufe automatisiert erzielen</strong></p>
-</li>
-<li>
-<p><strong>Pa</strong><strong>ssives Einkommen</strong> aufbauen</p>
-</li>
-<li>
-<p><strong>eBooks</strong> hochpreisig verkaufen durch Zugang zum Online Kurs (Meine Geheime Strategie)</p>
-</li>
-</ul>
+**Vendor's marketplace description:** Das lernst du in der DP Masterclass: Fundament: Die richtige Nische finden , die sich wirklich verkauft Verstehen, welche eBook-Ideen & Online Kurse Nachfrage haben – und welche nicht eBook & Kurs Erstellung (smart & effizient): Arbeiten mit ChatGPT & KI-Tools , um Inhalte schneller zu erstellen Canva von Grund auf : Layout, Design & Struktur Logo & Branding erstellen – modern, hochwertig & wieder erkennbar Branding & Content: Einheitliches Branding für Vertrauen & Wiedererkennung Content Creation mit Canva Virale Kurzvideos / Reels erstellen Social Media Marketing: Instagram & TikTok richtig nutzen Kurzvideos erstellen mit CapCut Content, der Aufmerksamkeit bringt – ohne sich zu zeigen Verkaufen & Skalieren: Kunden gewinnen über Social Media Verkäufe automatisiert erzielen Pa ssives Einkommen aufbauen eBooks hochpreisig verkaufen durch Zugang zum Online Kurs (Meine Geheime Strategie)
 
 ## 2. Links
 

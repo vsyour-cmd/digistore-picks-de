@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit diesem kostenlosen Videokurs beginnt die Maschine zu laufen. Wenn deine Kontakliste bei mir durch läuft kannst du richtig viel Verdienen. Ich habe alles so aufgebaut das die Kunden ständig von mir E-Mails bekommen und einen exklusiven Upsale Prozess durchlaufen. <br /><br />Du kannst auch über die Partnerprogramm seite die einzelnen Produkte von mir Bewerben und richtig gutes karmisch sauberes Geld verdienen. <br /><br />Alles was du hier von mir bekommst ist ein Fix fertiges System das Dir dabei hilft Geld zu verdienen. <br /><br />Viel spaß dabei, dein Reiner </p>
+**Vendor's marketplace description:** Mit diesem kostenlosen Videokurs beginnt die Maschine zu laufen. Wenn deine Kontakliste bei mir durch läuft kannst du richtig viel Verdienen. Ich habe alles so aufgebaut das die Kunden ständig von mir E-Mails bekommen und einen exklusiven Upsale Prozess durchlaufen. Du kannst auch über die Partnerprogramm seite die einzelnen Produkte von mir Bewerben und richtig gutes karmisch sauberes Geld verdienen. Alles was du hier von mir bekommst ist ein Fix fertiges System das Dir dabei hilft Geld zu verdienen. Viel spaß dabei, dein Reiner
 
 ## 2. Links
 

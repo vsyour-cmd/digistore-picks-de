@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Im Grunde weiß es jeder: Ohne mentale Stärke wird kein Trader jemals erfolgreich!</strong></p>
-<p>Die Kontrolle von Angst &amp; Gier, das disziplinierte Einhalten des Tradingplans, Verabschiedung von emotionalen Achterbahnfahrten, Geduld im Einstieg und konsequenter Ausstieg bei erreichen der Stopps, sind die Zutaten für erfolgreiches Trading. </p>
-<p><strong>Das <span style="color:#0000ff;">"Trading Success Booster Pack"</span> hilft dem Trader, genau diese Aspekte zu festigen.</strong></p>
-<p><span style="background-color:#ff00ff;color:#ffffff;"><strong> Du erhälst faire, wohlverdiente 50% Provison, auch auf Upsells und Addons! </strong></span></p>
-<p> </p>
-<p>Mittels der Subliminals-Technologie und des Anhörens von Audio-MP3s wird das Unterbewusstsein des Trader auf diesen Wunschzustand konditioniert. </p>
-<p> </p>
-<p><strong>Das Booster-Pack enthält 3 Produkte:</strong></p>
-<ol>
-<li>Silent Subliminal Audio`s zur Programmierung des Unterbewusstsein</li>
-<li>Audio-Mp3´s zur Energetisierung des Trinkwassers mit Trading-Affirmationen</li>
-<li>Trading-Success Meditations Silent Subliminal</li>
-</ol>
-<p> </p>
-<p> </p>
-<p><span style="color:#0000ff;"><strong>Das Produkt ist im Bereich "Trading" derzeit absolut konkurrenzlos und ohne Wettbewerb. </strong></span></p>
+**Vendor's marketplace description:** Im Grunde weiß es jeder: Ohne mentale Stärke wird kein Trader jemals erfolgreich! Die Kontrolle von Angst & Gier, das disziplinierte Einhalten des Tradingplans, Verabschiedung von emotionalen Achterbahnfahrten, Geduld im Einstieg und konsequenter Ausstieg bei erreichen der Stopps, sind die Zutaten für erfolgreiches Trading. Das "Trading Success Booster Pack" hilft dem Trader, genau diese Aspekte zu festigen. Du erhälst faire, wohlverdiente 50% Provison, auch auf Upsells und Addons! Mittels der Subliminals-Technologie und des Anhörens von Audio-MP3s wird das Unterbewusstsein des Trader auf diesen Wunschzustand konditioniert. Das Booster-Pack enthält 3 Produkte: Silent Subliminal Audio`s zur Programmierung des Unterbewusstsein Audio-Mp3´s zur Energetisierung des Trinkwassers mit Trading-Affirmationen Trading-Success Meditations Silent Subliminal Das Produkt ist im Bereich "Trading" derzeit absolut konkurrenzlos und ohne Wettbewerb.
 
 ## 2. Links
 

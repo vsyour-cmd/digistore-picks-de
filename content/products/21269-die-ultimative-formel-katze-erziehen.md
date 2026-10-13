@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die ultimative Formel für ein fantastisches Verhältnis zu deiner Katze.</strong></p>
-<p>Die Formel für glückliche, gesunde, anhängliche und sanfte Katzen und wie du mit deiner Katze ein entspanntes Leben führst.</p>
-<p><em>50% Provision auf dieses Produkt und auf alle Folgekäufe im Verkaufsfunnel. Es sind zwei Produkte im Upsell (inkl. Abo).<br /></em></p>
+**Vendor's marketplace description:** Die ultimative Formel für ein fantastisches Verhältnis zu deiner Katze. Die Formel für glückliche, gesunde, anhängliche und sanfte Katzen und wie du mit deiner Katze ein entspanntes Leben führst. 50% Provision auf dieses Produkt und auf alle Folgekäufe im Verkaufsfunnel. Es sind zwei Produkte im Upsell (inkl. Abo).
 
 ## 2. Links
 

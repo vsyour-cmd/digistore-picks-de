@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfiehl deinen Community-Mitgliedern den Onlinekurs <strong>STARTKLAR</strong> – das praxisnahe Programm für Auftritt, Kommunikation und mentale Stärke für junge Menschen mit Fachwissen und Ambitionen.</p>
-<p>Werde Teil des <strong>STARTKLAR Affiliate-Programms</strong> und unterstütze deine Community dabei, souveräner aufzutreten, klarer zu kommunizieren und besser mit Druck umzugehen – bei fairer Vergütung für dich.</p>
-<p><strong>Deine Vorteile als STARTKLAR-Affiliate:</strong></p>
-<ul>
-<li>Attraktive Provision auf jede erfolgreiche Kursbuchung.</li>
-<li>Ein hochwertiger, klar positionierter Onlinekurs: für Menschen, die ihr Know-how schon haben, aber in Wirkung, Präsenz und Auftritt wachsen wollen.</li>
-<li>Erprobte Inhalte aus Spitzensport, Mentaltraining und Auftrittscoaching – in leicht verständliche Module übersetzt.</li>
-<li>Bereits vorbereitete Werbemittel: Textbausteine, Social-Media-Ideen, kurze Beschreibungstexte für Newsletter &amp; Co.</li>
-<li>Direkter, persönlicher Kontakt zu mir (Katharina Naumann) für Fragen zu Positionierung, Zielgruppe und idealer Platzierung in deinem Content.</li>
-</ul>
-<p><strong>So läuft unsere Zusammenarbeit:</strong></p>
-<ul>
-<li>Du erhältst einen persönlichen Affiliate-Link, über den alle Buchungen automatisch dir zugeordnet werden.</li>
-<li>In deiner Kommunikation machst du deutlich, dass du <strong>STARTKLAR als Partner empfiehlst</strong> und nicht selbst Anbieter:in des Kurses bist.</li>
-<li>Nach deiner Zusage bekommst du alle wichtigen Infos zum Kurs, zur Zielgruppe &amp; zum Nutzen sowie aktuelle Werbemittel übersichtlich von mir zugeschickt.</li>
-</ul>
-<p>Wenn du deine Community dabei unterstützen willst, <strong>vom reinen Fachwissen in echte, sichtbare Wirkung zu kommen</strong>, passt STARTKLAR perfekt an deine Seite.</p>
+**Vendor's marketplace description:** Empfiehl deinen Community-Mitgliedern den Onlinekurs STARTKLAR – das praxisnahe Programm für Auftritt, Kommunikation und mentale Stärke für junge Menschen mit Fachwissen und Ambitionen. Werde Teil des STARTKLAR Affiliate-Programms und unterstütze deine Community dabei, souveräner aufzutreten, klarer zu kommunizieren und besser mit Druck umzugehen – bei fairer Vergütung für dich. Deine Vorteile als STARTKLAR-Affiliate: Attraktive Provision auf jede erfolgreiche Kursbuchung. Ein hochwertiger, klar positionierter Onlinekurs: für Menschen, die ihr Know-how schon haben, aber in Wirkung, Präsenz und Auftritt wachsen wollen. Erprobte Inhalte aus Spitzensport, Mentaltraining und Auftrittscoaching – in leicht verständliche Module übersetzt. Bereits vorbereitete Werbemittel: Textbausteine, Social-Media-Ideen, kurze Beschreibungstexte für Newsletter & Co. Direkter, persönlicher Kontakt zu mir (Katharina Naumann) für Fragen zu Positionierung, Zielgruppe und idealer Platzierung in deinem Content. So läuft unsere Zusammenarbeit: Du erhältst einen persönlichen Affiliate-Link, über den alle Buchungen automatisch dir zugeordnet werden. In deiner Kommunikation machst du deutlich, dass du STARTKLAR als Partner empfiehlst und nicht selbst Anbieter:in des Kurses bist. Nach deiner Zusage bekommst du alle wichtigen Infos zum Kurs, zur Zielgruppe & zum Nutzen sowie aktuelle Werbemittel übersichtlich von mir zugeschickt. Wenn du deine Community dabei unterstützen willst, vom reinen Fachwissen in echte, sichtbare Wirkung zu kommen , passt STARTKLAR perfekt an deine Seite.
 
 ## 2. Links
 

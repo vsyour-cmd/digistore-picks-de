@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><strong>Die Anziehungskraft-Checkliste ist ein Initial-Produkt...</strong></h4>
-<p>Das bedeutet, dass der Interessent als erstes die kostenlose <strong>"Anziehungskraft-Checkliste"</strong> bekommt, wofür er seine E-Mail-Adresse einträgt. Nach Eintragung wird er direkt auf eine Upsell-Seite weitergeleitet, wo er zu seiner Checkliste den passenden <strong>"Videokurs"</strong> für nur 7,- Euro erhalten kann. Danach kommen noch weitere Upsell-Angebote auf <strong>"Anziehungskraft-Dreieck"</strong> (47,- Euro) und auf das <strong>"Anziehungskraft-Masterplan-Coaching"</strong> (97,- Euro).</p>
-<p><strong>&gt;&gt; Jeweils 50% Provision.</strong></p>
-<p><span style="color:#ff0000;"><strong>Diesen Promolink verwenden:</strong></span></p>
-<p><a href="https://www.digistore24.com/content/255993/23168/AFFILIATE/CAMPAIGNKEY" target="_blank" rel="noreferrer noopener"><strong><span style="background-color:#ffff00;">https://www.digistore24.com/content/255993/23168/AFFILIATE/CAMPAIGNKEY</span></strong></a></p>
+**Vendor's marketplace description:** Die Anziehungskraft-Checkliste ist ein Initial-Produkt... Das bedeutet, dass der Interessent als erstes die kostenlose "Anziehungskraft-Checkliste" bekommt, wofür er seine E-Mail-Adresse einträgt. Nach Eintragung wird er direkt auf eine Upsell-Seite weitergeleitet, wo er zu seiner Checkliste den passenden "Videokurs" für nur 7,- Euro erhalten kann. Danach kommen noch weitere Upsell-Angebote auf "Anziehungskraft-Dreieck" (47,- Euro) und auf das "Anziehungskraft-Masterplan-Coaching" (97,- Euro). >> Jeweils 50% Provision. Diesen Promolink verwenden: https://www.digistore24.com/content/255993/23168/AFFILIATE/CAMPAIGNKEY
 
 ## 2. Links
 

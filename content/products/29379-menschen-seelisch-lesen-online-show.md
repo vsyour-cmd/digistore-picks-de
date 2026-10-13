@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Lade zu meiner Menschen seelisch lesen - Show ein, bei der ich 5 Teilnehmer gratis analysiere und ihnen ihr Reading live präsentiere.</p>
-<p>Das ganze ist möglich in verschiedenen Kontexten:</p>
-<ul><li>Persönlichkeitsentwicklung <br />(was ist mein nächster Schritt?)</li>
-<li>Erziehung</li>
-<li>Familien-Probleme</li>
-<li>Kontakt zu Verstorbenen u. Ungeborenen</li>
-<li>spirituelle Entwicklung</li>
-<li>uvm...</li>
-</ul><p>Hier ist es möglich allgemein oder mit einer bestimmten Fragestellung einem Menschen auf Seelen-Ebene Fragen zu stellen und Antworten zu erhalten.</p>
-<p><br />Die übrigen Teilnehmer erhalten für sich und auf Wunsch auch für ihre Familie einen Sonderpreis.</p>
-<p>Davon und von meinem Upsell bekommst Du 30% Provision!</p>
-<p>Das ganze kann verbunden werden mit einem Interview das in die Readings übergeht.<br /><br /><strong>+++ Du bekommst im Vorfeld ein Reading von mir für Dich gratis, damit Du Dich selbst überzeugen kannst </strong>(schreib mich einfach an)<strong>+++</strong></p>
+**Vendor's marketplace description:** Lade zu meiner Menschen seelisch lesen - Show ein, bei der ich 5 Teilnehmer gratis analysiere und ihnen ihr Reading live präsentiere. Das ganze ist möglich in verschiedenen Kontexten: Persönlichkeitsentwicklung (was ist mein nächster Schritt?) Erziehung Familien-Probleme Kontakt zu Verstorbenen u. Ungeborenen spirituelle Entwicklung uvm... Hier ist es möglich allgemein oder mit einer bestimmten Fragestellung einem Menschen auf Seelen-Ebene Fragen zu stellen und Antworten zu erhalten. Die übrigen Teilnehmer erhalten für sich und auf Wunsch auch für ihre Familie einen Sonderpreis. Davon und von meinem Upsell bekommst Du 30% Provision! Das ganze kann verbunden werden mit einem Interview das in die Readings übergeht. +++ Du bekommst im Vorfeld ein Reading von mir für Dich gratis, damit Du Dich selbst überzeugen kannst (schreib mich einfach an) +++
 
 ## 2. Links
 

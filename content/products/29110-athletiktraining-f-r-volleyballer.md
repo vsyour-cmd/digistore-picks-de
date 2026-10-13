@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Im Athletikkurs für Volleyballer hat Personaltrainer und Volleyballspieler Tim Burwitz 130 Minuten Videomaterial für Spieler und Trainer zusammengestellt.</p>
-<p>Mit den speziell für Volleyballer ausgewählten Übungen holst du aus dir und dem Team das Optimum heraus.</p>
-<p>Tim zeigt dir Übungen aus den Bereichen Mobilisation, Stabilisation, Lauf-ABC, Rumpfstabilisation Basic + Fortgeschritten, Beweglichkeit, Koordination und Sprungkraft.</p>
+**Vendor's marketplace description:** Im Athletikkurs für Volleyballer hat Personaltrainer und Volleyballspieler Tim Burwitz 130 Minuten Videomaterial für Spieler und Trainer zusammengestellt. Mit den speziell für Volleyballer ausgewählten Übungen holst du aus dir und dem Team das Optimum heraus. Tim zeigt dir Übungen aus den Bereichen Mobilisation, Stabilisation, Lauf-ABC, Rumpfstabilisation Basic + Fortgeschritten, Beweglichkeit, Koordination und Sprungkraft.
 
 ## 2. Links
 

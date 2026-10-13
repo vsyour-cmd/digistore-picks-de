@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:left;">Eine herzliche Einladung, diesen Gitarrenkurs als Affiliate zu bewerben! Warum es sich für Dich als Affiliate lohnt,  „Die 9 Elemente der perfekten Liedbegleitung für Gitarre“  zu bekannt zu machen:</p>
-<ol>
-<li>Ein Produkt, das aus dem Rahmen fällt: hier lernt der Schüler von Anfang an, eine Freundesrunde beim Singen anzuführen. Als Teil der Ausbildung auf der Gitarre.</li>
-<li>Außergewöhnliche Lerninhalte: die Anschlagtechniken von Flamenco Gitarristen zur Liedbegleitung sind zwar in Spanien üblich, bei uns aber bisher nahezu unbekannt. Lass Dich überraschen von der Ausdrucksstärke!</li>
-<li>Auch sind Kurse selten, in denen der Kursleiter dem Schüler die Übungen je nach Gitarrentyp unterschiedlich zeigt. Also dieselben Rhythmen unterschiedlich gezeigt für Konzert – und Westerngitarre.</li>
-<li>Umfangreiches Werbematerial, Videos, Websites…</li>
-<li>Gratis Probelektionen, die Du per Auto Response an Interessenten verschicken kannst.</li>
-</ol>
+**Vendor's marketplace description:** Eine herzliche Einladung, diesen Gitarrenkurs als Affiliate zu bewerben! Warum es sich für Dich als Affiliate lohnt, „Die 9 Elemente der perfekten Liedbegleitung für Gitarre“ zu bekannt zu machen: Ein Produkt, das aus dem Rahmen fällt: hier lernt der Schüler von Anfang an, eine Freundesrunde beim Singen anzuführen. Als Teil der Ausbildung auf der Gitarre. Außergewöhnliche Lerninhalte: die Anschlagtechniken von Flamenco Gitarristen zur Liedbegleitung sind zwar in Spanien üblich, bei uns aber bisher nahezu unbekannt. Lass Dich überraschen von der Ausdrucksstärke! Auch sind Kurse selten, in denen der Kursleiter dem Schüler die Übungen je nach Gitarrentyp unterschiedlich zeigt. Also dieselben Rhythmen unterschiedlich gezeigt für Konzert – und Westerngitarre. Umfangreiches Werbematerial, Videos, Websites… Gratis Probelektionen, die Du per Auto Response an Interessenten verschicken kannst.
 
 ## 2. Links
 

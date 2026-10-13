@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das E-Book "Trafficquelle Instagram &amp; Facebook" wird kostenlos angeboten.<br /><br />Prima Geschenk für Deine Leser!</p>
-<ul>
-<li>Dieses E-Book funktioniert für Affiliate Anfänger und Fortgeschrittene.</li>
-<li>Perfektes Produkt für "jeden", der mit seinem online Business / Affiliate-Marketing starten will und nach wertvollen Tipps sucht.</li>
-<li>Du hast mit diesem E-Book ein Geschenk für Deine Community und wirst am kompletten Sales-Funnel beteiligt!</li>
-</ul>
-<p>Hohe Conversion, da es für den Kunden kostenlos ist.<br /><br />50% Provision! Beteiligt an Add-On, Up- und Downsell.<br />+ 15% Lifetime Provision<br />Über 115€ im Funnel für Dich möglich!<br /><br />Funnel wird ständig angepasst und erweitert.<br /><br />Viel Erfolg und fette Beute!</p>
+**Vendor's marketplace description:** Das E-Book "Trafficquelle Instagram & Facebook" wird kostenlos angeboten. Prima Geschenk für Deine Leser! Dieses E-Book funktioniert für Affiliate Anfänger und Fortgeschrittene. Perfektes Produkt für "jeden", der mit seinem online Business / Affiliate-Marketing starten will und nach wertvollen Tipps sucht. Du hast mit diesem E-Book ein Geschenk für Deine Community und wirst am kompletten Sales-Funnel beteiligt! Hohe Conversion, da es für den Kunden kostenlos ist. 50% Provision! Beteiligt an Add-On, Up- und Downsell. + 15% Lifetime Provision Über 115€ im Funnel für Dich möglich! Funnel wird ständig angepasst und erweitert. Viel Erfolg und fette Beute!
 
 ## 2. Links
 

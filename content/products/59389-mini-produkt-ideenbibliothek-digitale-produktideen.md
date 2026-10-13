@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ergänze deine Mini-Produktentwicklung mit einer zusätzlichen Ideensammlung.</p>
-<p>Enthalten:<br />• Mini-Produkt-Ideenbibliothek als PDF<br />• Bearbeitbare DOCX-Vorlagen<br />• Ideenbibliothek als CSV und Markdown<br />• Startanleitung</p>
-<p>ZIP entpacken. Ideen dienen als Ausgangspunkt; eigene Ausarbeitung und Prüfung bleiben erforderlich. Optionaler Zusatz zu Mini-Produkte mit Canva. Der Hauptkurs und eine Canva-Lizenz sind nicht enthalten.</p>
-<p>Schriftliches Downloadprodukt auf Deutsch. Keine Videolektionen, persönliche Betreuung oder enthaltenen Drittanbieter-Abos. Beispiele sind Übungsmaterial; Verkäufe, Aufträge und Einkommen werden nicht zugesagt. Einmalzahlung, kein Abo.</p>
-<p>Anbieter: Einfach mit Matze / Michael Arndt · info@einfachhaltbar.de. Nutzung für die eigene Arbeit gemäß den beiliegenden Nutzungsregeln. Kein Weiterverkauf der Kursdateien.</p>
-<p>Affiliate-Information: 50 % Provision. Eigenständiges Zusatzpaket ohne Hauptkurs. Keine Umsatzgarantie. Kontakt: info@einfachhaltbar.de.</p>
+**Vendor's marketplace description:** Ergänze deine Mini-Produktentwicklung mit einer zusätzlichen Ideensammlung. Enthalten: • Mini-Produkt-Ideenbibliothek als PDF • Bearbeitbare DOCX-Vorlagen • Ideenbibliothek als CSV und Markdown • Startanleitung ZIP entpacken. Ideen dienen als Ausgangspunkt; eigene Ausarbeitung und Prüfung bleiben erforderlich. Optionaler Zusatz zu Mini-Produkte mit Canva. Der Hauptkurs und eine Canva-Lizenz sind nicht enthalten. Schriftliches Downloadprodukt auf Deutsch. Keine Videolektionen, persönliche Betreuung oder enthaltenen Drittanbieter-Abos. Beispiele sind Übungsmaterial; Verkäufe, Aufträge und Einkommen werden nicht zugesagt. Einmalzahlung, kein Abo. Anbieter: Einfach mit Matze / Michael Arndt · info@einfachhaltbar.de. Nutzung für die eigene Arbeit gemäß den beiliegenden Nutzungsregeln. Kein Weiterverkauf der Kursdateien. Affiliate-Information: 50 % Provision. Eigenständiges Zusatzpaket ohne Hauptkurs. Keine Umsatzgarantie. Kontakt: info@einfachhaltbar.de.
 
 ## 2. Links
 

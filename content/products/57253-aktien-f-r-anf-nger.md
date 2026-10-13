@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Aktien für Anfänger“</strong></p>
-<p>Dein Einstieg in die Börse, einfach erklärt – Information und Bildung, keine Anlageberatung. Wie die Börse funktioniert, Chancen und Risiken, das erste Depot, breit streuen (ETFs) und langfristig denken. Renditen sind nicht garantiert.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 17,45 € pro Verkauf (Verkaufspreis 34,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verstehen, was Aktien sind und wie die Börse funktioniert</li>
-<li>Chancen und Risiken ehrlich einordnen</li>
-<li>Das erste Depot eröffnen und breit streuen (ETFs)</li>
-<li>Steuern, Kosten und typische Fehler im Blick</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Aktien für Anfänger“ Dein Einstieg in die Börse, einfach erklärt – Information und Bildung, keine Anlageberatung. Wie die Börse funktioniert, Chancen und Risiken, das erste Depot, breit streuen (ETFs) und langfristig denken. Renditen sind nicht garantiert. Warum dieses E-Book bewerben? 50 % Provision – ca. 17,45 € pro Verkauf (Verkaufspreis 34,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verstehen, was Aktien sind und wie die Börse funktioniert Chancen und Risiken ehrlich einordnen Das erste Depot eröffnen und breit streuen (ETFs) Steuern, Kosten und typische Fehler im Blick
 
 ## 2. Links
 

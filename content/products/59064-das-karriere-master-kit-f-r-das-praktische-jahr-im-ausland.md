@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Karriere-Masterkit PJ Schweiz &amp; USA – Dein Leitfaden für Tertial-Bewerbungen, Visum und klinischen Alltag im Ausland</strong></p>
-<p>Das Karriere-Masterkit für das PJ in der Schweiz und den USA gibt dir einen strukturierten Überblick über Bewerbungsfristen, Formalitäten, Prüfungsvoraussetzungen und Visumsverfahren – mit fertigen Vorlagen auf Deutsch und Englisch. Sofort als PDF verfügbar.</p>
-<p>Das ist enthalten:</p>
-<ul>
-<li>Schritt-für-Schritt-Anleitung zur Bewerbung an Schweizer Kantons- und Spitalspitälern</li>
-<li>Überblick zu USMLE Step 1 &amp; 2 CK, ECFMG-Sponsoring und J-1 Visum für die USA</li>
-<li>Anleitung zur Nutzung von VSLO/eQual-Bewerbungsportalen</li>
-<li>Hinweise zu Aufenthaltsbewilligung, ZSR-Nummer und Versicherung (Schweiz)</li>
-<li>Muster-Anschreiben auf Deutsch (Schweiz) und Englisch (USA)</li>
-<li>Internationaler Lebenslauf im CV-Format für Auslandsbewerbungen</li>
-</ul>
-<p>Sofortiger Download – kein Abo, keine versteckten Kosten.</p>
+**Vendor's marketplace description:** Karriere-Masterkit PJ Schweiz & USA – Dein Leitfaden für Tertial-Bewerbungen, Visum und klinischen Alltag im Ausland Das Karriere-Masterkit für das PJ in der Schweiz und den USA gibt dir einen strukturierten Überblick über Bewerbungsfristen, Formalitäten, Prüfungsvoraussetzungen und Visumsverfahren – mit fertigen Vorlagen auf Deutsch und Englisch. Sofort als PDF verfügbar. Das ist enthalten: Schritt-für-Schritt-Anleitung zur Bewerbung an Schweizer Kantons- und Spitalspitälern Überblick zu USMLE Step 1 & 2 CK, ECFMG-Sponsoring und J-1 Visum für die USA Anleitung zur Nutzung von VSLO/eQual-Bewerbungsportalen Hinweise zu Aufenthaltsbewilligung, ZSR-Nummer und Versicherung (Schweiz) Muster-Anschreiben auf Deutsch (Schweiz) und Englisch (USA) Internationaler Lebenslauf im CV-Format für Auslandsbewerbungen Sofortiger Download – kein Abo, keine versteckten Kosten.
 
 ## 2. Links
 

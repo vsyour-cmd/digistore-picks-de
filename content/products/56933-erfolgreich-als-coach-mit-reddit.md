@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du als Experte auf Reddit Vertrauen aufbaust und Kunden über echten Mehrwert gewinnst</strong></p>
-<p>Auf Reddit sind Werbung und Selbstpromotion fast überall verboten – und genau darin liegt deine Chance als Coach. Wer auf Reddit Mehrwert liefert, wird zur Autorität. Dieses E-Book zeigt dir, wie du in relevanten Subreddits als gefragter Experte sichtbar wirst, ohne gegen Community-Regeln zu verstoßen. Du lernst, wie du Fragen so beantwortest, dass andere dein Profil aufrufen und dich kontaktieren, wie AMAs dein Coaching-Business bekannt machen und wie du Reddit als erste SEO-optimierte Bühne für dein Fachwissen nutzt. Statt Push-Marketing arbeitest du mit Pull: du wirst gefunden, weil du hilfst. Das Ergebnis sind qualifizierte Anfragen von Menschen, die wirklich bereit sind, zu investieren.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Die richtigen Subreddits für deine Coaching-Nische identifizieren</li>
-<li>Antworten schreiben, die Profilbesuche und Direktnachrichten auslösen</li>
-<li>AMA erfolgreich vorbereiten, bewerben und durchführen</li>
-<li>Mehrwert-first statt Eigenwerbung: die goldene Reddit-Regel meistern</li>
-<li>Reddit-Profil als mini-Website für Coaches optimieren</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du als Experte auf Reddit Vertrauen aufbaust und Kunden über echten Mehrwert gewinnst Auf Reddit sind Werbung und Selbstpromotion fast überall verboten – und genau darin liegt deine Chance als Coach. Wer auf Reddit Mehrwert liefert, wird zur Autorität. Dieses E-Book zeigt dir, wie du in relevanten Subreddits als gefragter Experte sichtbar wirst, ohne gegen Community-Regeln zu verstoßen. Du lernst, wie du Fragen so beantwortest, dass andere dein Profil aufrufen und dich kontaktieren, wie AMAs dein Coaching-Business bekannt machen und wie du Reddit als erste SEO-optimierte Bühne für dein Fachwissen nutzt. Statt Push-Marketing arbeitest du mit Pull: du wirst gefunden, weil du hilfst. Das Ergebnis sind qualifizierte Anfragen von Menschen, die wirklich bereit sind, zu investieren. Das steckt drin: Die richtigen Subreddits für deine Coaching-Nische identifizieren Antworten schreiben, die Profilbesuche und Direktnachrichten auslösen AMA erfolgreich vorbereiten, bewerben und durchführen Mehrwert-first statt Eigenwerbung: die goldene Reddit-Regel meistern Reddit-Profil als mini-Website für Coaches optimieren Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

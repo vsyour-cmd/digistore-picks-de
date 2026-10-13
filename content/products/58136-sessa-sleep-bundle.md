@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p> <strong>SESSA-Sleep-Bundle - Die ganzheitliche 3-Säulen-</strong><strong>Methode für erholsameren Schlaf</strong></p>
-<p>Schlafprobleme entstehen selten durch nur einen Faktor.Berufstätige Frauen kämpfen gleichzeitig mit:</p>
-<ul>
-<li>unregelmäßigen Schlafrhythmen</li>
-<li>mentaler Überlastung und Grübeln</li>
-<li>Ernährung die den Schlaf unbewusst sabotiert</li>
-</ul>
-<p>Das <strong>SESSA-Sleep-Bundle </strong>kombiniert deshalb drei vollständige 14 Tage-Programme,die alle drei <strong>Haupt-</strong></p>
-<p><strong>Schlfblocker </strong>systematisch lösen.</p>
-<p><strong>Schlafrhythmus &amp; Routinen,mentale Ruhe &amp; Nervensystem,Ernährung &amp; Schlafbiologie</strong></p>
-<p>Jeder Tag enthält eine <strong>Lerneinheit</strong>,eine <strong>Übung </strong>&amp;/oder</p>
-<p>ein <strong>Arbeitsblatt </strong>- perfekt für Frauen mit wenig Zeit.</p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** SESSA-Sleep-Bundle - Die ganzheitliche 3-Säulen- Methode für erholsameren Schlaf Schlafprobleme entstehen selten durch nur einen Faktor.Berufstätige Frauen kämpfen gleichzeitig mit: unregelmäßigen Schlafrhythmen mentaler Überlastung und Grübeln Ernährung die den Schlaf unbewusst sabotiert Das SESSA-Sleep-Bundle kombiniert deshalb drei vollständige 14 Tage-Programme,die alle drei Haupt- Schlfblocker systematisch lösen. Schlafrhythmus & Routinen,mentale Ruhe & Nervensystem,Ernährung & Schlafbiologie Jeder Tag enthält eine Lerneinheit ,eine Übung &/oder ein Arbeitsblatt - perfekt für Frauen mit wenig Zeit.
 
 ## 2. Links
 

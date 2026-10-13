@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Mehr Sichtbarkeit, mehr Kunden, mehr Umsatz</strong><br />Google Ads ist einer der effektivsten Wege, um schnell Besucher und Verkäufe zu generieren – wenn man weiß, wie es richtig geht. Das <strong>Google Ads Paket</strong> zeigt dir genau, worauf es ankommt: von der Einrichtung über die Budgetplanung bis zur Optimierung.</p>
-<p>Du bekommst:<br /><strong>Modul 1: Grundlagen &amp; Setup</strong> – Konto einrichten, Merchant Center verbinden, Conversion-Tracking aktivieren.<br /><strong>Modul 2: Die Sprache von Google Ads</strong> – Glossar mit allen wichtigen Begriffen – einfach erklärt.<br /><strong>Modul 3: Budget- &amp; Gebotsstrategien</strong> – Vorlagen für Performance Max, Shopping, Search &amp; Remarketing.<br /><strong>Modul 4: </strong><strong>Optimierung &amp; Troubleshooting</strong> – wie du dein Geld klug einsetzt und Kampagnen skalierst.<br /><strong>Modul 5: Kampagnen-Blueprints</strong> – Fehler finden, Kampagnen verbessern, Umsatz steigern.<br /><strong>Bonus-Modul: Häufige Fehler &amp; Geheimtipps</strong> – damit du nicht in die typischen Anfängerfallen tappst.<br /><strong>ROAS-Rechner (Excel-Tool)</strong> – berechne deinen Break-even &amp; Ziel-ROAS mit wenigen Klicks.</p>
-<p>Mit diesem Paket weißt du jederzeit:</p>
-<p>Welche Kampagnen für dich funktionieren.</p>
-<p>Wie du dein Budget optimal einsetzt.</p>
-<p>Wie du langfristig profitabel bleibst.</p>
+**Vendor's marketplace description:** Mehr Sichtbarkeit, mehr Kunden, mehr Umsatz Google Ads ist einer der effektivsten Wege, um schnell Besucher und Verkäufe zu generieren – wenn man weiß, wie es richtig geht. Das Google Ads Paket zeigt dir genau, worauf es ankommt: von der Einrichtung über die Budgetplanung bis zur Optimierung. Du bekommst: Modul 1: Grundlagen & Setup – Konto einrichten, Merchant Center verbinden, Conversion-Tracking aktivieren. Modul 2: Die Sprache von Google Ads – Glossar mit allen wichtigen Begriffen – einfach erklärt. Modul 3: Budget- & Gebotsstrategien – Vorlagen für Performance Max, Shopping, Search & Remarketing. Modul 4: Optimierung & Troubleshooting – wie du dein Geld klug einsetzt und Kampagnen skalierst. Modul 5: Kampagnen-Blueprints – Fehler finden, Kampagnen verbessern, Umsatz steigern. Bonus-Modul: Häufige Fehler & Geheimtipps – damit du nicht in die typischen Anfängerfallen tappst. ROAS-Rechner (Excel-Tool) – berechne deinen Break-even & Ziel-ROAS mit wenigen Klicks. Mit diesem Paket weißt du jederzeit: Welche Kampagnen für dich funktionieren. Wie du dein Budget optimal einsetzt. Wie du langfristig profitabel bleibst.
 
 ## 2. Links
 

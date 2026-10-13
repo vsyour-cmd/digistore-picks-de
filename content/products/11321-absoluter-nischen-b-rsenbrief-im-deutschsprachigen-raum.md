@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h5><strong>*Werben Sie mit unserem High Performance Video-Sales-Letter und verdienen Sie richtig Geld*</strong></h5>
-<h5><span style="color:#ff0000;"><strong>Werben Sie jetzt mithilfe unseres VSL Sonderangebot:<br />Der Goldfinger Report<br />+Bonusmaterial in Form von 3 E-Books als Sales-Booster!</strong></span></h5>
-<p><strong>Spezialisiert auf:</strong></p>
-<ul>
-<li><strong>Optionsscheine</strong></li>
-<li><strong>10 Bagger</strong></li>
-<li><strong>Offshore Banking</strong></li>
-<li><strong>Gold u. Silber</strong></li>
-<li><strong>Minenaktien</strong></li>
-<li><strong>Investieren innerhalb der neuen Weltordnung!</strong></li>
-</ul>
-<p><strong>Absolutes Nischenprodukt im Bereich der Börsendienste!</strong></p>
-<p><strong>*Eignet sich besonders für „Goldbugs“,  „Prepper“ sowie „Trutherblogs“ etc.</strong></p>
+**Vendor's marketplace description:** *Werben Sie mit unserem High Performance Video-Sales-Letter und verdienen Sie richtig Geld* Werben Sie jetzt mithilfe unseres VSL Sonderangebot: Der Goldfinger Report +Bonusmaterial in Form von 3 E-Books als Sales-Booster! Spezialisiert auf: Optionsscheine 10 Bagger Offshore Banking Gold u. Silber Minenaktien Investieren innerhalb der neuen Weltordnung! Absolutes Nischenprodukt im Bereich der Börsendienste! *Eignet sich besonders für „Goldbugs“, „Prepper“ sowie „Trutherblogs“ etc.
 
 ## 2. Links
 

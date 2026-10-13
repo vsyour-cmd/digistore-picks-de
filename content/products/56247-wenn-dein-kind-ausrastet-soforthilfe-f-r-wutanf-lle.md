@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses Produkt spricht ein extrem starkes Alltagsproblem an: Wutanfälle bei Kindern. Viele Eltern fühlen sich in diesen Situationen hilflos, überfordert und wissen nicht, wie sie reagieren sollen.</p>
-<p>Genau hier setzt dieses Produkt an. Es liefert einfache, sofort umsetzbare Strategien, die Eltern direkt im Alltag helfen und schnell eine Veränderung bringen können.</p>
-<p>Die Zielgruppe ist groß und emotional stark angesprochen, was die Kaufbereitschaft deutlich erhöht. Besonders gut geeignet für Content rund um Familie, Erziehung, Kinder oder Alltag mit Kindern.</p>
+**Vendor's marketplace description:** Dieses Produkt spricht ein extrem starkes Alltagsproblem an: Wutanfälle bei Kindern. Viele Eltern fühlen sich in diesen Situationen hilflos, überfordert und wissen nicht, wie sie reagieren sollen. Genau hier setzt dieses Produkt an. Es liefert einfache, sofort umsetzbare Strategien, die Eltern direkt im Alltag helfen und schnell eine Veränderung bringen können. Die Zielgruppe ist groß und emotional stark angesprochen, was die Kaufbereitschaft deutlich erhöht. Besonders gut geeignet für Content rund um Familie, Erziehung, Kinder oder Alltag mit Kindern.
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>100 % Provision auf den Einstieg bewusst so geplant.</strong></h2>
-<p>Der Easy Business Kickstart ist Teil meines <strong>„Hier verdienst du“-Konzeptes</strong>.</p>
-<p>Ich weiß aus eigener Erfahrung, dass die Gewinnung neuer Kunden Zeit und oft auch Werbebudget kostet. Genau deshalb erhältst du auf den Einstiegskurs <strong>100 % Provision</strong>.</p>
-<p><strong>Die 100 % beziehen sich auf den Verkaufspreis nach Abzug der gesetzlichen Mehrwertsteuer sowie der Digistore24-Gebühren.</strong> Der tatsächliche Auszahlungsbetrag kann daher – je nach Land des Käufers und der anfallenden Steuern – leicht variieren.</p>
-<p>Mein Ziel ist es nicht, am ersten Verkauf zu verdienen, sondern Menschen in die Academy zu begleiten, die wirklich etwas aufbauen möchten. Davon profitieren wir beide.</p>
-<p>Zusätzlich verdienst du an allen weiteren Käufen innerhalb der Academy mit:</p>
-<p><strong>100 % Provision</strong> auf den Easy Business Kickstart <em>(nach Abzug der gesetzlichen Mehrwertsteuer und der Digistore24-Gebühren).</em></p>
-<p><strong>50 % Provision</strong> auf alle weiteren Kurse innerhalb der Academy.</p>
-<p><strong>30 % wiederkehrende Provision</strong> auf die Gold-Mitgliedschaft, solange dein geworbener Kunde Mitglied bleibt.</p>
-<p>So kann aus einem einzigen Einstiegskunden langfristig ein attraktives passives Einkommen entstehen.</p>
+**Vendor's marketplace description:** 100 % Provision auf den Einstieg bewusst so geplant. Der Easy Business Kickstart ist Teil meines „Hier verdienst du“-Konzeptes . Ich weiß aus eigener Erfahrung, dass die Gewinnung neuer Kunden Zeit und oft auch Werbebudget kostet. Genau deshalb erhältst du auf den Einstiegskurs 100 % Provision . Die 100 % beziehen sich auf den Verkaufspreis nach Abzug der gesetzlichen Mehrwertsteuer sowie der Digistore24-Gebühren. Der tatsächliche Auszahlungsbetrag kann daher – je nach Land des Käufers und der anfallenden Steuern – leicht variieren. Mein Ziel ist es nicht, am ersten Verkauf zu verdienen, sondern Menschen in die Academy zu begleiten, die wirklich etwas aufbauen möchten. Davon profitieren wir beide. Zusätzlich verdienst du an allen weiteren Käufen innerhalb der Academy mit: 100 % Provision auf den Easy Business Kickstart (nach Abzug der gesetzlichen Mehrwertsteuer und der Digistore24-Gebühren). 50 % Provision auf alle weiteren Kurse innerhalb der Academy. 30 % wiederkehrende Provision auf die Gold-Mitgliedschaft, solange dein geworbener Kunde Mitglied bleibt. So kann aus einem einzigen Einstiegskunden langfristig ein attraktives passives Einkommen entstehen.
 
 ## 2. Links
 

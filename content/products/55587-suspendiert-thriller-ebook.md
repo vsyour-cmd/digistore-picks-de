@@ -41,46 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Suspendiert – Der Thriller (eBook Download)</strong></p>
-<p> </p>
-<p>Ein Anruf.</p>
-<p>Eine Uhrzeit.</p>
-<p>Und ein Polizist, dem niemand glaubt.</p>
-<p> </p>
-<p>Marius ist vom Dienst suspendiert, als ihn mitten in der Nacht eine anonyme Stimme auf seinem Privattelefon erreicht. Ein Verbrechen wird angekündigt – und kurze Zeit später geschieht es tatsächlich.</p>
-<p> </p>
-<p>Doch Marius darf nicht handeln.</p>
-<p>Seine Kollegen ignorieren ihn.</p>
-<p>Und mit jedem weiteren Anruf wächst der Druck.</p>
-<p> </p>
-<p>Als sich Hinweise häufen und ein rätselhaftes Symbol an verschiedenen Orten auftaucht, beginnt für ihn ein Wettlauf gegen die Zeit. Zwischen Zweifel, Misstrauen und eigenen Fehlern muss Marius herausfinden, wem er noch vertrauen kann – bevor es zu spät ist.</p>
-<p> </p>
-<p><strong>„Suspendiert“ das eBook - packender Thriller über Wahrnehmung, Loyalität und die Frage, wie trügerisch Sicherheit sein kann.</strong></p>
-<p> </p>
-<hr />
-<p> </p>
-<p><strong>Was dich erwartet:</strong></p>
-<p> </p>
-<ul>
-<li>
-<p>Psychologische Spannung</p>
-</li>
-<li>
-<p>Realistische Polizeiatmosphäre</p>
-</li>
-<li>
-<p>Unerwartete Wendungen</p>
-</li>
-<li>
-<p>Ein Finale, das alles in Frage stellt</p>
-</li>
-</ul>
-<p> </p>
-<p>Du bekommst nach der Bezahlung sofort das eBook als Download zu Verfügung gestellt. </p>
-<p> </p>
-<p>Suspendiert - Thriller</p>
-<p><strong>Jetzt kaufen und herunterladen!</strong></p>
-<p> </p>
+**Vendor's marketplace description:** Suspendiert – Der Thriller (eBook Download) Ein Anruf. Eine Uhrzeit. Und ein Polizist, dem niemand glaubt. Marius ist vom Dienst suspendiert, als ihn mitten in der Nacht eine anonyme Stimme auf seinem Privattelefon erreicht. Ein Verbrechen wird angekündigt – und kurze Zeit später geschieht es tatsächlich. Doch Marius darf nicht handeln. Seine Kollegen ignorieren ihn. Und mit jedem weiteren Anruf wächst der Druck. Als sich Hinweise häufen und ein rätselhaftes Symbol an verschiedenen Orten auftaucht, beginnt für ihn ein Wettlauf gegen die Zeit. Zwischen Zweifel, Misstrauen und eigenen Fehlern muss Marius herausfinden, wem er noch vertrauen kann – bevor es zu spät ist. „Suspendiert“ das eBook - packender Thriller über Wahrnehmung, Loyalität und die Frage, wie trügerisch Sicherheit sein kann. Was dich erwartet: Psychologische Spannung Realistische Polizeiatmosphäre Unerwartete Wendungen Ein Finale, das alles in Frage stellt Du bekommst nach der Bezahlung sofort das eBook als Download zu Verfügung gestellt. Suspendiert - Thriller Jetzt kaufen und herunterladen!
 
 ## 2. Links
 

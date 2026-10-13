@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du hast eine Zielgruppe im Krypto-Bereich? Dann sichere dir jetzt hohe Provisionen!</p>
-<p>Mit "<em>Steuerfrei durch den Krypto-Bullrun</em>" zeige ich Krypto-Investoren, wie sie bis zu 47 % Steuern sparen können – ein hochrelevantes Thema in der Szene.</p>
-<p>✅ <strong>50 % Provision auf 199 € (brutto)</strong></p>
-<p>✅ <strong>Webinar mit extrem starken Werten:</strong></p>
-<p>Hohe Anmelde-Conversion<br />95 % Zuschauerbindung<br />17 % Sales-Conversion</p>
-<p>✅ <strong>Zusätzliches Upsell mit Abo-Modell:</strong></p>
-<p>33 % Conversion-Rate für wiederkehrende Einnahmen<br />Perfekt für alle, die Krypto-Investoren oder Steueroptimierer in ihrer Zielgruppe haben.</p>
-<p>Jetzt bewerben und mitverdienen!</p>
+**Vendor's marketplace description:** Du hast eine Zielgruppe im Krypto-Bereich? Dann sichere dir jetzt hohe Provisionen! Mit " Steuerfrei durch den Krypto-Bullrun " zeige ich Krypto-Investoren, wie sie bis zu 47 % Steuern sparen können – ein hochrelevantes Thema in der Szene. ✅ 50 % Provision auf 199 € (brutto) ✅ Webinar mit extrem starken Werten: Hohe Anmelde-Conversion 95 % Zuschauerbindung 17 % Sales-Conversion ✅ Zusätzliches Upsell mit Abo-Modell: 33 % Conversion-Rate für wiederkehrende Einnahmen Perfekt für alle, die Krypto-Investoren oder Steueroptimierer in ihrer Zielgruppe haben. Jetzt bewerben und mitverdienen!
 
 ## 2. Links
 

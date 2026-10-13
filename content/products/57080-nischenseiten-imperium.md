@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Nischenseiten-Imperium"</strong></p>
-<p>Eine Nischenseite ist ein Projekt – mehrere sind ein Business. Wie du vom Einzelprojekt zum Portfolio kommst: systematisch Nischen finden, Seiten effizient aufbauen, Inhalte auslagern, den Wert steigern und Websites am Ende sogar verkaufen. Praxisnah und ehrlich.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema: Online-Business &amp; Geld verdienen</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Vom Einzelprojekt zum Portfolio-Denken kommen</li>
-<li>Systematisch neue Nischen finden und bewerten</li>
-<li>Seiten mit Vorlagen und Prozessen effizient aufbauen</li>
-<li>Content auslagern und die Qualität sichern</li>
-<li>Den Wert steigern und Websites sauber verkaufen</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Menschen, die online ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Nischenseiten-Imperium" Eine Nischenseite ist ein Projekt – mehrere sind ein Business. Wie du vom Einzelprojekt zum Portfolio kommst: systematisch Nischen finden, Seiten effizient aufbauen, Inhalte auslagern, den Wert steigern und Websites am Ende sogar verkaufen. Praxisnah und ehrlich. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema: Online-Business & Geld verdienen Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Vom Einzelprojekt zum Portfolio-Denken kommen Systematisch neue Nischen finden und bewerten Seiten mit Vorlagen und Prozessen effizient aufbauen Content auslagern und die Qualität sichern Den Wert steigern und Websites sauber verkaufen Für deine Zielgruppe: Menschen, die online ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

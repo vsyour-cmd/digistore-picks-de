@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der SchlafKompas ist mein digitales Gruppen-Coaching für Eltern mit Kindern zwischen 6 und 36 Monaten. </p>
-<p>Familien bekommen fundiertes Wissen rund um das Thema Schlaf, kombiniert mit persönlicher und liebevoller Begleitung. </p>
-<p>Wenn sie bereits vieles ausprobiert haben und sich möglichst schnell Unterstützung wünschen, ist der SchlafKompass ideal für sie.</p>
-<ul>
-<li>9 Module mit über 4 Stunden voller Wissen zum Thema Babyschlaf (inkl. App)</li>
-<li>1 x wöchentlich live Fragerunden via Zoom (mindestens 2 Termine zur Auswahl) </li>
-<li>6 Gastbeiträge mit Experten zu den Themen (mentale) Gesundheit &amp; Erziehung</li>
-<li>Über 80 Seiten PDF zum Abspeichern</li>
-<li>Eltern-Community für noch mehr Austausch</li>
-<li>Exclusives Willkommens-Paket</li>
-<li>Zugang für 3 Monate</li>
-</ul>
+**Vendor's marketplace description:** Der SchlafKompas ist mein digitales Gruppen-Coaching für Eltern mit Kindern zwischen 6 und 36 Monaten. Familien bekommen fundiertes Wissen rund um das Thema Schlaf, kombiniert mit persönlicher und liebevoller Begleitung. Wenn sie bereits vieles ausprobiert haben und sich möglichst schnell Unterstützung wünschen, ist der SchlafKompass ideal für sie. 9 Module mit über 4 Stunden voller Wissen zum Thema Babyschlaf (inkl. App) 1 x wöchentlich live Fragerunden via Zoom (mindestens 2 Termine zur Auswahl) 6 Gastbeiträge mit Experten zu den Themen (mentale) Gesundheit & Erziehung Über 80 Seiten PDF zum Abspeichern Eltern-Community für noch mehr Austausch Exclusives Willkommens-Paket Zugang für 3 Monate
 
 ## 2. Links
 

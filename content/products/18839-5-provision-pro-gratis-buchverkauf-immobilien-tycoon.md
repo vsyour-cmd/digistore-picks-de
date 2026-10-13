@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#ff0000;"><strong>Bereits 5.856 Buchverkäufe</strong></span></h2>
-<h2><span style="color:#ff0000;"><strong><u>35,29% Verkaufs Conversion!</u></strong></span></h2>
-<h2><span style="color:#ff0000;"><strong>81% Warenkorb Conversion!</strong></span></h2>
-<p>Paul Misars neues Buch "Lizenz zum Immobilien Tycoon" bewerben und 5€ pro vermittelten Gratis Buch Verkauf bekommen.</p>
-<p><strong>Buch-Funnel bewerben: </strong></p>
-<div>
-<div>https://www.digistore24.com/redir/153427/AffiliateID/</div>
-</div>
-<div> </div>
-<p> </p>
+**Vendor's marketplace description:** Bereits 5.856 Buchverkäufe 35,29% Verkaufs Conversion! 81% Warenkorb Conversion! Paul Misars neues Buch "Lizenz zum Immobilien Tycoon" bewerben und 5€ pro vermittelten Gratis Buch Verkauf bekommen. Buch-Funnel bewerben: https://www.digistore24.com/redir/153427/AffiliateID/
 
 ## 2. Links
 

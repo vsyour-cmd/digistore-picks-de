@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>Für alle die Lust haben, ihre Kosmetik selbst herzustellen – wirkungsvoll, nachhaltig und mit wenigen Zutaten.</div>
-<p>Nach diesem Kurs brauchst du keine teure Hautpflege mehr kaufen, denn wir bringen deine Haut mit der Kraft der Natur zum Strahlen!</p>
-<p><strong>Der Onlinekurs: Naturkosmetik genial einfach beinhaltet:</strong></p>
-<ul>
-<li>18 genial einfache Rezepte von Kopf bis Fuß</li>
-<li>18 Rezeptvideos zum Nachrühren</li>
-<li>Basiswissen zu Naturkosmetik &amp; Wissen für Angeber</li>
-<li>13 Pflanzenporträts</li>
-<li>Fix-Fertig-Warenkorb</li>
-<li>Etiketten zum Herunterladen</li>
-<li>und so viel mehr</li>
-</ul>
-<p><strong>Du möchtest genau wissen, was auf deine Haut kommt und dir Plastik im Badezimmer sparen? Dann ist der Onlinekurs genau das Richtige für dich!</strong></p>
-<p> </p>
-<p><strong><a>https://www.katharinaruehrt.com/nkge-onlinekurs</a></strong></p>
+**Vendor's marketplace description:** Für alle die Lust haben, ihre Kosmetik selbst herzustellen – wirkungsvoll, nachhaltig und mit wenigen Zutaten. Nach diesem Kurs brauchst du keine teure Hautpflege mehr kaufen, denn wir bringen deine Haut mit der Kraft der Natur zum Strahlen! Der Onlinekurs: Naturkosmetik genial einfach beinhaltet: 18 genial einfache Rezepte von Kopf bis Fuß 18 Rezeptvideos zum Nachrühren Basiswissen zu Naturkosmetik & Wissen für Angeber 13 Pflanzenporträts Fix-Fertig-Warenkorb Etiketten zum Herunterladen und so viel mehr Du möchtest genau wissen, was auf deine Haut kommt und dir Plastik im Badezimmer sparen? Dann ist der Onlinekurs genau das Richtige für dich! https://www.katharinaruehrt.com/nkge-onlinekurs
 
 ## 2. Links
 

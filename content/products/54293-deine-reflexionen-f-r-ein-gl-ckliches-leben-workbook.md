@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>„Deine Reflexionen – Für ein glückliches Leben“ Workbook</strong></p>
-<p><strong>„Deine Reflexionen“</strong> ist mehr als ein Workbook – es ist dein persönlicher Coach in Papierform!<br />Bernd Kiesewetter, Berlins Erfolgscoach Nr<em>. </em>1, hat hier ein Werkzeug geschaffen, das Menschen hilft, sich selbst zu erkennen, zu fokussieren und endlich das Leben zu gestalten, das sie wirklich wollen.</p>
-<p>Mit klaren Strukturen, kraftvollen Fragen und praktischen Übungen führt dieses Workbook Schritt für Schritt zu mehr:</p>
-<p><br />✅ Klarheit über Ziele und Werte<br />✅ Bewusstsein für innere Blockaden<br />✅ Fokus auf das Wesentliche<br />✅ Freude, Energie und Erfüllung</p>
-<p> </p>
-<p>
+**Vendor's marketplace description:** „Deine Reflexionen – Für ein glückliches Leben“ Workbook „Deine Reflexionen“ ist mehr als ein Workbook – es ist dein persönlicher Coach in Papierform! Bernd Kiesewetter, Berlins Erfolgscoach Nr . 1, hat hier ein Werkzeug geschaffen, das Menschen hilft, sich selbst zu erkennen, zu fokussieren und endlich das Leben zu gestalten, das sie wirklich wollen. Mit klaren Strukturen, kraftvollen Fragen und praktischen Übungen führt dieses Workbook Schritt für Schritt zu mehr: ✅ Klarheit über Ziele und Werte ✅ Bewusstsein für innere Blockaden ✅ Fokus auf das Wesentliche ✅ Freude, Energie und Erfüllung
 
 ## 2. Links
 

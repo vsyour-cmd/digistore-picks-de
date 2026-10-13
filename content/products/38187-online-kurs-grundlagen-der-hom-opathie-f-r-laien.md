@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehlen Sie diesen von Kursteilnehmern sehr gut bewerteten Online-Kurs zum Thema "Grundlagen der Homöopathie".</p>
-<p>Ihre Vorteile:</p>
-<ul>
-<li>Attraktive Provision von 40% beim direkten Verkauf</li>
-<li>Lebenslang 25 % wiederkehrende Provisionen auf Ihre Verkäufe im Upsell-Prozess (Email)</li>
-<li>Kursangebot wird permament erweitert und ausgebaut</li>
-<li>Schnelle und persönliche Unterstützung auf Deutsch</li>
-</ul>
-<p> </p>
-<p>Zielgruppe:</p>
-<ul>
-<li>Menschen, die Ihre Gesundheit selbst in die Hand nehmen wollen</li>
-<li>Menschen, die an alternativen Heilmethoden interessiert sind</li>
-</ul>
-<p> </p>
-<p>Der Online-Kurs vermittelt alle wichtigen Grundlagen für die erfolgreiche Selbstbehandlung mit einer homöopathischen Hausapotheke!</p>
+**Vendor's marketplace description:** Empfehlen Sie diesen von Kursteilnehmern sehr gut bewerteten Online-Kurs zum Thema "Grundlagen der Homöopathie". Ihre Vorteile: Attraktive Provision von 40% beim direkten Verkauf Lebenslang 25 % wiederkehrende Provisionen auf Ihre Verkäufe im Upsell-Prozess (Email) Kursangebot wird permament erweitert und ausgebaut Schnelle und persönliche Unterstützung auf Deutsch Zielgruppe: Menschen, die Ihre Gesundheit selbst in die Hand nehmen wollen Menschen, die an alternativen Heilmethoden interessiert sind Der Online-Kurs vermittelt alle wichtigen Grundlagen für die erfolgreiche Selbstbehandlung mit einer homöopathischen Hausapotheke!
 
 ## 2. Links
 

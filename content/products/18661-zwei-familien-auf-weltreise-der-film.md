@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein inspirierender Feel-good-Film über zwei Familien, die alles hinter sich lassen, um die Welt zu entdecken und um herauszufinden, was sie vom Leben wirklich wollen.</p>
-<p> </p>
-<p>Ihre Vorteile:</p>
-<ul><li>Sie erhalten 40 % Provision für jeden verkauften Film</li>
-<li>Sie können unseren <a href="https://vimeo.com/218017433/ca0b64f79a" target="_blank" rel="noreferrer noopener">Trailer</a> benutzen/einbinden, der es Ihnen leichter macht, Ihre Kunden neugierig auf unseren Film zu machen</li>
-</ul>
+**Vendor's marketplace description:** Ein inspirierender Feel-good-Film über zwei Familien, die alles hinter sich lassen, um die Welt zu entdecken und um herauszufinden, was sie vom Leben wirklich wollen. Ihre Vorteile: Sie erhalten 40 % Provision für jeden verkauften Film Sie können unseren Trailer benutzen/einbinden, der es Ihnen leichter macht, Ihre Kunden neugierig auf unseren Film zu machen
 
 ## 2. Links
 

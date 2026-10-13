@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein Schnittmuster als PDF für eine Wärmekissen<strong> </strong>zum selber nähen!</p>
-<p> </p>
-<p><span style="color:#ff0000;"><strong>Wir teilen fair mit Dir!</strong></span></p>
-<p><span style="color:#ff0000;"><strong>Deshalb gibt es bei uns immer 50% Provision für Dich! ;-)</strong></span></p>
-<p> </p>
-<p>Das kostenlose DIY Tutorial für dieses Schnittmuster kannst Du dir hier anschauen:</p>
-<p><em><a href="http://www.dots-designs.de/nackenhoernchen-und-waermekissen-naehkurs/">http://www.dots-designs.de/nackenhoernchen-und-waermekissen-naehkurs/</a></em></p>
-<p> </p>
+**Vendor's marketplace description:** Ein Schnittmuster als PDF für eine Wärmekissen zum selber nähen! Wir teilen fair mit Dir! Deshalb gibt es bei uns immer 50% Provision für Dich! ;-) Das kostenlose DIY Tutorial für dieses Schnittmuster kannst Du dir hier anschauen: http://www.dots-designs.de/nackenhoernchen-und-waermekissen-naehkurs/
 
 ## 2. Links
 

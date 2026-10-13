@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit dem ousuca® Partnerprogramm zum Self Reliance Survival Camp (SRSC) kannst du ein passives Einkommen aufbauen.</p>
-<p>Bewerbe das eBook <strong><em>Harz: Gold des Waldes (25 Verwendungen für Naturtharz</em></strong><em> des SRSC-Survival-Onlineprogramms.</em></p>
-<p><strong>Vorteile für Nutzer:</strong></p>
-<p>Naturliebhaber, Bushcrafter, Wildnispädagogen lernen Baumharz von all seinen faszinierenden Seiten kennen. 25 verschiedenen Anwendungsmöglichkeiten von Baumharz überraschen auch erfahrene Wildnisfreunde.</p>
-<p><strong>Deine Vorteile als Affiliate:</strong></p>
-<ul>
-<li>50 % für jeden Verkauf</li>
-<li>ousuca® SRSC Branding und somit hoher Wiedererkennungswert</li>
-<li>Upsells (geplant) und weitere Verdienstmöglichkeiten mit ousuca® durch Abos zum SRSC möglich</li>
-</ul>
-<p>Werde Partner von ousuca® und vom ersten umfangreichen Online-Survival-Kurs und den einzeln angeboteten Produkten wie die SRSC Einzelkurse oder SRSC eBooks und Anleitungen und baue dir ein passives Einkommen auf.</p>
+**Vendor's marketplace description:** Mit dem ousuca® Partnerprogramm zum Self Reliance Survival Camp (SRSC) kannst du ein passives Einkommen aufbauen. Bewerbe das eBook Harz: Gold des Waldes (25 Verwendungen für Naturtharz des SRSC-Survival-Onlineprogramms. Vorteile für Nutzer: Naturliebhaber, Bushcrafter, Wildnispädagogen lernen Baumharz von all seinen faszinierenden Seiten kennen. 25 verschiedenen Anwendungsmöglichkeiten von Baumharz überraschen auch erfahrene Wildnisfreunde. Deine Vorteile als Affiliate: 50 % für jeden Verkauf ousuca® SRSC Branding und somit hoher Wiedererkennungswert Upsells (geplant) und weitere Verdienstmöglichkeiten mit ousuca® durch Abos zum SRSC möglich Werde Partner von ousuca® und vom ersten umfangreichen Online-Survival-Kurs und den einzeln angeboteten Produkten wie die SRSC Einzelkurse oder SRSC eBooks und Anleitungen und baue dir ein passives Einkommen auf.
 
 ## 2. Links
 

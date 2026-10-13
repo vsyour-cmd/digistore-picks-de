@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das E-Book „Erhelle dein Leben“ – das Workbook für mehr Klarheit, Fokus und persönliche Freiheit wird kostenlos angeboten.</p>
-<p>Perfektes Geschenk für deine Community!</p>
-<p>Dieses Workbook eignet sich für Anfänger und Fortgeschrittene gleichermaßen. Ideal für jeden, der sein Leben bewusster gestalten möchte, innere Blockaden lösen will und nach echter Klarheit sucht.</p>
-<p>Du gibst deiner Zielgruppe nicht einfach nur Content – sondern echte Veränderung.</p>
-<p>Das erwartet den Nutzer:<br />Strukturiertes Workbook mit gezielten Reflexionsfragen und Übungen<br />Hilft dabei, limitierende Glaubenssätze zu erkennen und neu auszurichten<br />Unterstützt dabei, Klarheit über das eigene Leben zu gewinnen<br />Zeigt, wie man die Kraft der Gegenwart bewusst nutzt<br />Hilft, die Vergangenheit loszulassen und neu zu starten<br />Stärkt inneren Frieden und bewusste Entscheidungen</p>
-<p>Sehr hohe Conversion, da das Workbook für den Kunden komplett kostenlos ist.</p>
-<p>Du verdienst am gesamten Funnel mit – bis zu 83 € Provision pro Kunde möglich.</p>
-<p>Funnel wird laufend optimiert und erweitert.</p>
-<p>Viel Erfolg und starke Ergebnisse!</p>
+**Vendor's marketplace description:** Das E-Book „Erhelle dein Leben“ – das Workbook für mehr Klarheit, Fokus und persönliche Freiheit wird kostenlos angeboten. Perfektes Geschenk für deine Community! Dieses Workbook eignet sich für Anfänger und Fortgeschrittene gleichermaßen. Ideal für jeden, der sein Leben bewusster gestalten möchte, innere Blockaden lösen will und nach echter Klarheit sucht. Du gibst deiner Zielgruppe nicht einfach nur Content – sondern echte Veränderung. Das erwartet den Nutzer: Strukturiertes Workbook mit gezielten Reflexionsfragen und Übungen Hilft dabei, limitierende Glaubenssätze zu erkennen und neu auszurichten Unterstützt dabei, Klarheit über das eigene Leben zu gewinnen Zeigt, wie man die Kraft der Gegenwart bewusst nutzt Hilft, die Vergangenheit loszulassen und neu zu starten Stärkt inneren Frieden und bewusste Entscheidungen Sehr hohe Conversion, da das Workbook für den Kunden komplett kostenlos ist. Du verdienst am gesamten Funnel mit – bis zu 83 € Provision pro Kunde möglich. Funnel wird laufend optimiert und erweitert. Viel Erfolg und starke Ergebnisse!
 
 ## 2. Links
 

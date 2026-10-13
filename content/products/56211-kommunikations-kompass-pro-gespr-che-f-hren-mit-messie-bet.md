@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p>Der Kommunikations-Kompass PRO gibt Sozialarbeitern, Coaches, Beratern, Entrümpelungsfirmen und Angehörigen einen konkreten Leitfaden: Wie spreche ich betroffene Menschen an, ohne sie zu überfordern oder zu drängen?</p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p>Warum sich die Promotion lohnt:</p>
-<p> </p>
-<p>- 40% Provision auf 97 € = ca. 38,80 € je Verkauf</p>
-<p> </p>
-<p>- Hochspezifische Nische mit wenig Konkurrenz</p>
-<p> </p>
-<p>- Interessenten können das Produkt vorab erleben: KI-Telefonassistentin KLARA demonstriert den Kompass live auf der Website</p>
-<p> </p>
-<p>- Etablierter Anbieter seit 2022, Messie-Helfer Hattingen</p>
-<p> </p>
-<p>- Deutschsprachige Zielgruppe, kaum Mitbewerber auf DS24</p>
+**Vendor's marketplace description:** Der Kommunikations-Kompass PRO gibt Sozialarbeitern, Coaches, Beratern, Entrümpelungsfirmen und Angehörigen einen konkreten Leitfaden: Wie spreche ich betroffene Menschen an, ohne sie zu überfordern oder zu drängen? Warum sich die Promotion lohnt: - 40% Provision auf 97 € = ca. 38,80 € je Verkauf - Hochspezifische Nische mit wenig Konkurrenz - Interessenten können das Produkt vorab erleben: KI-Telefonassistentin KLARA demonstriert den Kompass live auf der Website - Etablierter Anbieter seit 2022, Messie-Helfer Hattingen - Deutschsprachige Zielgruppe, kaum Mitbewerber auf DS24
 
 ## 2. Links
 

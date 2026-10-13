@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <ul>
-<li>CONNECTRA Business Navigator – Dein Business denkt endlich als System.</li>
-</ul>
-<p>Der CONNECTRA Business Navigator ist ein digitales Business-Tool für Selbstständige, Unternehmer, Gründer und Menschen, die aus ihren Ideen endlich ein funktionierendes System machen wollen.</p>
-<p>Statt noch mehr Wissen, To-do-Listen und Business-Chaos bekommen Nutzer eine klare Navigation durch ihr eigenes Business.</p>
-<p>Der Navigator hilft dabei, die aktuelle Situation zu analysieren, Engpässe und Hebel zu erkennen, passende Einkommensmöglichkeiten zu identifizieren und daraus konkrete nächste Schritte abzuleiten.</p>
-<p>Unter anderem enthalten:</p>
-<p>individuelle Business-Analyse</p>
-<p>persönliche Business-Navigation</p>
-<p>30-Tage-Umsatzmission</p>
-<p>Aufbau mehrerer Einkommensströme</p>
-<p>strategische Business-Impulse</p>
-<p>Ressourcen &amp; Empfehlungen</p>
-<p>laufende Weiterentwicklung des Navigators</p>
-<p>Das Besondere: Der Nutzer bekommt nicht einfach hunderte Ideen präsentiert. Der Navigator soll dabei helfen zu erkennen, was zum eigenen Business passt und was als Nächstes wirklich Sinn ergibt.</p>
-<p>Kein Videokurs, der irgendwo liegen bleibt.</p>
-<p>Kein klassisches Coachingprogramm.</p>
-<p>Sondern ein Werkzeug, das aktiv im eigenen Business eingesetzt wird.</p>
-<p>Aktueller Verkaufspreis: 59 € einmalig.</p>
-<p>Kein monatliches Abo.</p>
-<p>Ideal für Affiliates aus den Bereichen Business, Selbstständigkeit, Online-Business, Persönlichkeitsentwicklung, Marketing, KI, zusätzliche Einkommensströme und Unternehmertum.</p>
-<p>CONNECTRA Business Navigator</p>
-<p>Dein System. Dein Leben. Deine Wahl.</p>
+**Vendor's marketplace description:** CONNECTRA Business Navigator – Dein Business denkt endlich als System. Der CONNECTRA Business Navigator ist ein digitales Business-Tool für Selbstständige, Unternehmer, Gründer und Menschen, die aus ihren Ideen endlich ein funktionierendes System machen wollen. Statt noch mehr Wissen, To-do-Listen und Business-Chaos bekommen Nutzer eine klare Navigation durch ihr eigenes Business. Der Navigator hilft dabei, die aktuelle Situation zu analysieren, Engpässe und Hebel zu erkennen, passende Einkommensmöglichkeiten zu identifizieren und daraus konkrete nächste Schritte abzuleiten. Unter anderem enthalten: individuelle Business-Analyse persönliche Business-Navigation 30-Tage-Umsatzmission Aufbau mehrerer Einkommensströme strategische Business-Impulse Ressourcen & Empfehlungen laufende Weiterentwicklung des Navigators Das Besondere: Der Nutzer bekommt nicht einfach hunderte Ideen präsentiert. Der Navigator soll dabei helfen zu erkennen, was zum eigenen Business passt und was als Nächstes wirklich Sinn ergibt. Kein Videokurs, der irgendwo liegen bleibt. Kein klassisches Coachingprogramm. Sondern ein Werkzeug, das aktiv im eigenen Business eingesetzt wird. Aktueller Verkaufspreis: 59 € einmalig. Kein monatliches Abo. Ideal für Affiliates aus den Bereichen Business, Selbstständigkeit, Online-Business, Persönlichkeitsentwicklung, Marketing, KI, zusätzliche Einkommensströme und Unternehmertum. CONNECTRA Business Navigator Dein System. Dein Leben. Deine Wahl.
 
 ## 2. Links
 

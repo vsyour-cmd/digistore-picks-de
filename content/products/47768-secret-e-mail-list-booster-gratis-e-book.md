@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Nutze dieses E-Book um deiner Zielgruppe ein hochwertiges Geschenk anzubieten und profitiere von Fetten Upsells.</strong></p>
-<p>Hochkonvertierendes Order-Bump Addon direkt im Bestellformular.</p>
-<p><strong>Für wen geeignet?</strong>: Das E-Book eignet sich für alle, die im Online Marketing unterwegs sind.</p>
-<p><strong>Deine Vorteile als Partner</strong>:</p>
-<ul>
-<li style="list-style-type:none;">
-<ul>
-<li>Qualitatives Freebie, welches du deiner Zielgruppe schneken und somit mehr Vertrauen aufbauen kannst.</li>
-<li><strong>50% auf alle unsere Produkte im Funnel</strong></li>
-<li>180 Tage Cookie-Laufzeit</li>
-<li>Qualitätsprodukte erstellt von Webpirat.de</li>
-</ul>
-</li>
-</ul>
-<div style="width:0px;height:0px;"> </div>
-<div style="width:0px;height:0px;"> </div>
-<div style="width:0px;height:0px;"> </div>
-<div style="width:0px;height:0px;"> </div>
-<div style="width:0px;height:0px;"> </div>
-<div style="width:0px;height:0px;"></div>
+**Vendor's marketplace description:** Nutze dieses E-Book um deiner Zielgruppe ein hochwertiges Geschenk anzubieten und profitiere von Fetten Upsells. Hochkonvertierendes Order-Bump Addon direkt im Bestellformular. Für wen geeignet? : Das E-Book eignet sich für alle, die im Online Marketing unterwegs sind. Deine Vorteile als Partner : Qualitatives Freebie, welches du deiner Zielgruppe schneken und somit mehr Vertrauen aufbauen kannst. 50% auf alle unsere Produkte im Funnel 180 Tage Cookie-Laufzeit Qualitätsprodukte erstellt von Webpirat.de
 
 ## 2. Links
 

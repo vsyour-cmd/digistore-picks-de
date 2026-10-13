@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Ratgeber von Martin Kreuzer</strong></p>
-<p>Gebundenes Buch: 78 Seiten</p>
-<p><strong>Die Psychologie des Pferdes</strong><br /><strong>Wie Pferde wirklich denken, fühlen und lernen</strong></p>
-<p>Martin Kreuzer, Gründer der MKA Horsemanship Academy</p>
-<h4>„Erst wenn wir unser Pferd richtig verstehen – kann unser Pferd auch uns verstehen“</h4>
-<p>Seit vielen Jahren inspiriert und begeistert Martin Kreuzers Philosophie des „Modernen Pferdetrainings“ viele Pferdebesitzer im gesamten deutschsprachigen Raum. Mit seinem umfassenden Hintergrundwissen über die Natur der Pferde und deren Lernpsychologie, ist es ihm gelungen, sein modernes Pferdetraining als solides und ansprechendes Handwerk über die Grenzen Deutschlands hinaus bekannt zu machen. In der eigens dafür gegründeten MKA Horsemanship Academy haben seither viele hunderte Pferdebesitzer fasziniert und begeistert die Ausbildung für eine bessere Pferd-Mensch-Beziehung erlernt. „Erst wenn wir unser Pferd richtig verstehen, kann es auch uns verstehen“</p>
-<p>In diesem Buch vermittelt Martin Kreuzer wie Pferde wirklich denken, fühlen und lernen. Anschaulich und leicht verständlich zeigt der Autor wie der Mensch im modernen Pferdetraining ein echtes Vertrauen zu seinem Pferd aufbauen kann.<br /> Ein lebendiger, praktischer und leicht lesbarer Leitfaden für jeden ambitionierten Pferdefreund, der ihm und vor allem seinem Pferd zugute kommt.</p>
-<p> </p>
-<p><strong>Lieber Affiliate, ich freue mich auf eine gute Zusammenarbeit! </strong><em>Martin Kreuzer</em><strong><br /></strong></p>
-<p> </p>
-<div> </div>
-<div> </div>
+**Vendor's marketplace description:** Ratgeber von Martin Kreuzer Gebundenes Buch: 78 Seiten Die Psychologie des Pferdes Wie Pferde wirklich denken, fühlen und lernen Martin Kreuzer, Gründer der MKA Horsemanship Academy „Erst wenn wir unser Pferd richtig verstehen – kann unser Pferd auch uns verstehen“ Seit vielen Jahren inspiriert und begeistert Martin Kreuzers Philosophie des „Modernen Pferdetrainings“ viele Pferdebesitzer im gesamten deutschsprachigen Raum. Mit seinem umfassenden Hintergrundwissen über die Natur der Pferde und deren Lernpsychologie, ist es ihm gelungen, sein modernes Pferdetraining als solides und ansprechendes Handwerk über die Grenzen Deutschlands hinaus bekannt zu machen. In der eigens dafür gegründeten MKA Horsemanship Academy haben seither viele hunderte Pferdebesitzer fasziniert und begeistert die Ausbildung für eine bessere Pferd-Mensch-Beziehung erlernt. „Erst wenn wir unser Pferd richtig verstehen, kann es auch uns verstehen“ In diesem Buch vermittelt Martin Kreuzer wie Pferde wirklich denken, fühlen und lernen. Anschaulich und leicht verständlich zeigt der Autor wie der Mensch im modernen Pferdetraining ein echtes Vertrauen zu seinem Pferd aufbauen kann. Ein lebendiger, praktischer und leicht lesbarer Leitfaden für jeden ambitionierten Pferdefreund, der ihm und vor allem seinem Pferd zugute kommt. Lieber Affiliate, ich freue mich auf eine gute Zusammenarbeit! Martin Kreuzer
 
 ## 2. Links
 

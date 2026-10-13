@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hoch konvertierendes eBook für Bartagamen-Pfleger.</p>
-<p>► Hohe Provision: 85%<br />► Sehr geringe Stornoquote<br />► Hoch konvertierendes eBook</p>
+**Vendor's marketplace description:** Hoch konvertierendes eBook für Bartagamen-Pfleger. ► Hohe Provision: 85% ► Sehr geringe Stornoquote ► Hoch konvertierendes eBook
 
 ## 2. Links
 

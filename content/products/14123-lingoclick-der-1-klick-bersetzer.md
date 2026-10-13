@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Übersetzen Sie Wörter auf Ihrem Bildschirm mit nur einem Mausklick! </h1>
-<div>
-<p>LingoClick ist die effiziente Art Wörter zu übersetzen, während Sie im Internet surfen, Ihre E-Mails lesen oder auf irgendeine andere Art mit Text arbeiten.</p>
-<p>Wann immer Sie einem Wort begegnen, dessen Übersetzung Sie nicht kennen, klicken Sie einfach darauf und lassen Sie LingoClick es für Sie übersetzen.</p>
-<h2>In Kooperation mit <span style="color:#ff6600;">dict.cc</span></h2>
-<p>In Zusammenarbeit mit dem beliebten Online-Wörterbuch <span style="color:#ff6600;"><em><strong><a style="color:#ff6600;">dict.cc</a></strong></em></span>, ermöglicht Ihnen LingoClick Zugang zu <strong>mehr als 40 verschiedenen Wörterbüchern mit Millionen von Einträgen</strong>. Diese Wörterbücher werden von der <a>dict.cc</a> Community ständig erweitert, korrigiert und verbessert.</p>
-<p>Bereits für das Lesen von fremdsprachigen Texten ist LingoClick unentbehrlich, doch auch beim Schreiben fremder Texte ist es eine große Hilfe: Wann immer Sie ein Wort in einer Fremdsprache schreiben möchten, aber die Übersetzung gerade nicht kennen, schreiben Sie das Wort einfach in Ihrer Muttersprache auf, klicken Sie darauf, und wählen Sie die passende Übersetzung – <strong>LingoClick tippt diese sogar vollautomatisch für Sie ein!<br /></strong><br />Seine extrem bescheidenen Anforderungen an Ihr System, was Hauptspeicher und CPU betrifft, machen LingoClick zu Ihrem <strong>unaufdringlichen und zuverlässigen Übersetzungs-Assistenten</strong>.</p>
-</div>
+**Vendor's marketplace description:** Übersetzen Sie Wörter auf Ihrem Bildschirm mit nur einem Mausklick! LingoClick ist die effiziente Art Wörter zu übersetzen, während Sie im Internet surfen, Ihre E-Mails lesen oder auf irgendeine andere Art mit Text arbeiten. Wann immer Sie einem Wort begegnen, dessen Übersetzung Sie nicht kennen, klicken Sie einfach darauf und lassen Sie LingoClick es für Sie übersetzen. In Kooperation mit dict.cc In Zusammenarbeit mit dem beliebten Online-Wörterbuch dict.cc , ermöglicht Ihnen LingoClick Zugang zu mehr als 40 verschiedenen Wörterbüchern mit Millionen von Einträgen . Diese Wörterbücher werden von der dict.cc Community ständig erweitert, korrigiert und verbessert. Bereits für das Lesen von fremdsprachigen Texten ist LingoClick unentbehrlich, doch auch beim Schreiben fremder Texte ist es eine große Hilfe: Wann immer Sie ein Wort in einer Fremdsprache schreiben möchten, aber die Übersetzung gerade nicht kennen, schreiben Sie das Wort einfach in Ihrer Muttersprache auf, klicken Sie darauf, und wählen Sie die passende Übersetzung – LingoClick tippt diese sogar vollautomatisch für Sie ein! Seine extrem bescheidenen Anforderungen an Ihr System, was Hauptspeicher und CPU betrifft, machen LingoClick zu Ihrem unaufdringlichen und zuverlässigen Übersetzungs-Assistenten .
 
 ## 2. Links
 

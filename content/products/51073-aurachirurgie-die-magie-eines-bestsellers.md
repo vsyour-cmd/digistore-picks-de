@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Aurachirurgie von Annette Grübnau wurde innerhalb der ersten 16 Monaten über 10.400x Mal verkauft. </strong></p>
-<p> </p>
-<p>Das Buch erklärt anhand Annette´s Geschichte, wie sich jeder Mensch ein freieres, glücklicheres und erfolgreicheres Leben durch Aurachirurgie aufbauen kann. </p>
-<div> </div>
-<div>Als unser geschätzter Partner bekommst Du <strong>100% Affiliate-Provision</strong> auf das Buch (6,90€) und alle anderen Produkte (Upsells, Addons etc) </div>
-<div> </div>
-<div>Werbematerialien stellen wir Dir ebenfalls zur Verfügung. </div>
-<div> </div>
-<div>Google Suchnetzwerk-Werbung auf Brand Keywords ist untersagt.</div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
+**Vendor's marketplace description:** Aurachirurgie von Annette Grübnau wurde innerhalb der ersten 16 Monaten über 10.400x Mal verkauft. Das Buch erklärt anhand Annette´s Geschichte, wie sich jeder Mensch ein freieres, glücklicheres und erfolgreicheres Leben durch Aurachirurgie aufbauen kann. Als unser geschätzter Partner bekommst Du 100% Affiliate-Provision auf das Buch (6,90€) und alle anderen Produkte (Upsells, Addons etc) Werbematerialien stellen wir Dir ebenfalls zur Verfügung. Google Suchnetzwerk-Werbung auf Brand Keywords ist untersagt.
 
 ## 2. Links
 

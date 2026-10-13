@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du als Onboard-Kurier um die Welt reist – und dabei Geld verdienst!</strong></p>
-<p>Lerne, wie du als Onboard-Kurier um die Welt reist und für deine Flüge bezahlt wirst. In diesem praxisnahen Kurs zeige ich dir Schritt für Schritt, wie du in diese kaum bekannte Branche einsteigst – inklusive Insiderwissen, echten Abläufen und konkreten Strategien.</p>
-<p>Die meisten Menschen zahlen für Flüge.</p>
-<p><strong>Einige werden dafür bezahlt.</strong></p>
-<p>Und genau darum geht es im <strong>Courier Code</strong>.</p>
-<p>Unternehmen auf der ganzen Welt haben täglich zeitkritische Sendungen, die nicht einfach verschickt werden können. Wenn Zeit entscheidend ist, wird eine Person beauftragt, diese Sendung persönlich im Flugzeug zu begleiten. Dies kann im Bereich Notfalllogistik oder Medizin sein. </p>
-<h4>Das erwartet dich im Kurs:</h4>
-<p>✅ Grundlagen: Was ein Onboard-Kurier wirklich macht</p>
-<p>✅ Voraussetzungen &amp; Mindset für den Einstieg</p>
-<p>✅ Wie du passende Anbieter &amp; Aufträge findest</p>
-<p>✅ Konkrete Schritt-für-Schritt Anleitung für deine ersten Einsätze</p>
-<p>✅ Insider-Tipps aus der Praxis (keine Theorie)</p>
-<p>✅ Bonus: Wie du parallel ortsunabhängig arbeiten kannst</p>
+**Vendor's marketplace description:** Wie du als Onboard-Kurier um die Welt reist – und dabei Geld verdienst! Lerne, wie du als Onboard-Kurier um die Welt reist und für deine Flüge bezahlt wirst. In diesem praxisnahen Kurs zeige ich dir Schritt für Schritt, wie du in diese kaum bekannte Branche einsteigst – inklusive Insiderwissen, echten Abläufen und konkreten Strategien. Die meisten Menschen zahlen für Flüge. Einige werden dafür bezahlt. Und genau darum geht es im Courier Code . Unternehmen auf der ganzen Welt haben täglich zeitkritische Sendungen, die nicht einfach verschickt werden können. Wenn Zeit entscheidend ist, wird eine Person beauftragt, diese Sendung persönlich im Flugzeug zu begleiten. Dies kann im Bereich Notfalllogistik oder Medizin sein. Das erwartet dich im Kurs: ✅ Grundlagen: Was ein Onboard-Kurier wirklich macht ✅ Voraussetzungen & Mindset für den Einstieg ✅ Wie du passende Anbieter & Aufträge findest ✅ Konkrete Schritt-für-Schritt Anleitung für deine ersten Einsätze ✅ Insider-Tipps aus der Praxis (keine Theorie) ✅ Bonus: Wie du parallel ortsunabhängig arbeiten kannst
 
 ## 2. Links
 

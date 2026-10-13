@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>PDF-Guide für Coaches, Berater und Selbstständige, die Reels und Shorts selbst schneiden. 56 Seiten, 19 Kapitel, 3 Arbeitsblätter.</p>
-<p>Preis 19 €, einmalig, Sofort-Download über Digistore24.</p>
-<p>Verkaufsseite: <a>https://creatorhandbuch.de</a></p>
-<p>Zielgruppe: Coaches und Berater ohne Schnittkenntnisse. Provision nach der Einstellung im Produkt. Partnerschaften werden automatisch akzeptiert.</p>
-<p>Geeignet für Instagram, TikTok, YouTube Shorts und LinkedIn. Werbemittel sind das Cover und die Innenseiten auf der Verkaufsseite.</p>
+**Vendor's marketplace description:** PDF-Guide für Coaches, Berater und Selbstständige, die Reels und Shorts selbst schneiden. 56 Seiten, 19 Kapitel, 3 Arbeitsblätter. Preis 19 €, einmalig, Sofort-Download über Digistore24. Verkaufsseite: https://creatorhandbuch.de Zielgruppe: Coaches und Berater ohne Schnittkenntnisse. Provision nach der Einstellung im Produkt. Partnerschaften werden automatisch akzeptiert. Geeignet für Instagram, TikTok, YouTube Shorts und LinkedIn. Werbemittel sind das Cover und die Innenseiten auf der Verkaufsseite.
 
 ## 2. Links
 

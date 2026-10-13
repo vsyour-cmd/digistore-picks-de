@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Für wen du das bewirbst<br />Coaches, E-Com, lokale Dienstleister in DACH, die ständig Posts brauchen und keine Agentur zahlen.</p>
-<p>Warum der Sale leicht ist<br />• Preis 79 € – unter 80, Impulskauf<br />• Einmalzahlung, kein Abo-Erklär-Theater<br />• Sofortzugang nach dem Kauf = weniger Support-Nachrichten an dich<br />• Eine klare Seite, ein Button, ein Checkout über Digistore24</p>
-<p>Was der Kunde bekommt<br />Mitgliederbereich mit 6 Formaten: Instagram, LinkedIn, Reel/TikTok, Ads, E-Mail, Content-Ideen. Deutsch, copy-paste-fertig.</p>
-<p>Deine Provision<br />50 % vom Nettoumsatz. Ein Sale = eine Auszahlung.</p>
-<p>Deine Links<br />Verkaufsseite: https://app.fit-fuel.at<br />Checkout: https://www.checkout-ds24.com/product/725148<br />Partner-Infos: https://app.fit-fuel.at/affiliate</p>
-<p>Immer deinen Digistore-Promolink mit Affiliate-ID nutzen, sonst fehlt die Provision.</p>
-<p>Die Abbuchung erfolgt durch Digistore24.</p>
+**Vendor's marketplace description:** Für wen du das bewirbst Coaches, E-Com, lokale Dienstleister in DACH, die ständig Posts brauchen und keine Agentur zahlen. Warum der Sale leicht ist • Preis 79 € – unter 80, Impulskauf • Einmalzahlung, kein Abo-Erklär-Theater • Sofortzugang nach dem Kauf = weniger Support-Nachrichten an dich • Eine klare Seite, ein Button, ein Checkout über Digistore24 Was der Kunde bekommt Mitgliederbereich mit 6 Formaten: Instagram, LinkedIn, Reel/TikTok, Ads, E-Mail, Content-Ideen. Deutsch, copy-paste-fertig. Deine Provision 50 % vom Nettoumsatz. Ein Sale = eine Auszahlung. Deine Links Verkaufsseite: https://app.fit-fuel.at Checkout: https://www.checkout-ds24.com/product/725148 Partner-Infos: https://app.fit-fuel.at/affiliate Immer deinen Digistore-Promolink mit Affiliate-ID nutzen, sonst fehlt die Provision. Die Abbuchung erfolgt durch Digistore24.
 
 ## 2. Links
 

@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Stell dir vor, du wachst auf und siehst auf deinem Handy Verkäufe. Du spürst diese Freiheit, Sicherheit und freust dich schon auf den Tag, an dem du weiter an deinem Online Business und digitalem Marketing arbeiten kannst!</p>
-<p>Herzlich Willkommen zu "Freedom Online Business" - mit dem Online Geld verdienen im Internet und Heimarbeit für jeden möglich ist!</p>
-<p>War Geld online verdienen im Internet für dich schon immer ein <strong>Hexenwerk</strong> und hast es nie so wirklich verstanden oder kennst du jemanden, den es so geht?</p>
-<p>Viele Online Marketing Gurus, wie Ralf Schmitz, Bora Imren, Cyril Obeng oder Andreas Lang, zeigen wie Geld verdienen online funktioniert, verdienen aber paradoxerweise nur oder größtenteils damit Geld.</p>
-<p>Hier ist es anders.</p>
-<p>Lerne wie du tausende Themen nutzen kannst, um echtes Geld online verdienen zu können - schnell, dauerhaft und für immer, denn die Prinzipien aus dem Kurs sind zeitlos.</p>
-<p>Du bekommst hier 57% Provisionen und hilfst Menschen bei einem Problem, das sie seit Jahren begleitet.</p>
-<p>Hohe Conversions wurden getestet, da es sich hier um einen echten Problemlöser handelt und nicht wie bei den anderen Marketern um heiße Luft! Bei zielgerichtetem Traffic beträgt der Klick-Wert bei mehreren Euros!</p>
-<p>Ich wünsche alle, die an meinem Affiliate Programm teilnehmen viel Erfolg und alles Gute.</p>
+**Vendor's marketplace description:** Stell dir vor, du wachst auf und siehst auf deinem Handy Verkäufe. Du spürst diese Freiheit, Sicherheit und freust dich schon auf den Tag, an dem du weiter an deinem Online Business und digitalem Marketing arbeiten kannst! Herzlich Willkommen zu "Freedom Online Business" - mit dem Online Geld verdienen im Internet und Heimarbeit für jeden möglich ist! War Geld online verdienen im Internet für dich schon immer ein Hexenwerk und hast es nie so wirklich verstanden oder kennst du jemanden, den es so geht? Viele Online Marketing Gurus, wie Ralf Schmitz, Bora Imren, Cyril Obeng oder Andreas Lang, zeigen wie Geld verdienen online funktioniert, verdienen aber paradoxerweise nur oder größtenteils damit Geld. Hier ist es anders. Lerne wie du tausende Themen nutzen kannst, um echtes Geld online verdienen zu können - schnell, dauerhaft und für immer, denn die Prinzipien aus dem Kurs sind zeitlos. Du bekommst hier 57% Provisionen und hilfst Menschen bei einem Problem, das sie seit Jahren begleitet. Hohe Conversions wurden getestet, da es sich hier um einen echten Problemlöser handelt und nicht wie bei den anderen Marketern um heiße Luft! Bei zielgerichtetem Traffic beträgt der Klick-Wert bei mehreren Euros! Ich wünsche alle, die an meinem Affiliate Programm teilnehmen viel Erfolg und alles Gute.
 
 ## 2. Links
 

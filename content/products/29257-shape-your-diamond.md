@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>DEIN SPIRITUELLER ONLINE-INTENSIV-WORKSHOP</div>
-<div> </div>
-<p><strong>DIY-Videokurs mit spirituellen </strong><strong>Tools &amp; Techniken zur Selbsthilfe </strong><strong>für ein glückliches und erfülltes Leben</strong></p>
-<p> </p>
-<p>INHALTE:</p>
-<p>6 Module + 3 Bonusmodule gefüllt mit Wissen für Dein spirituelles Mindset</p>
-<p><strong>27 Coaching-Videos mit geführten Prozessen, die Du für Dich &amp; </strong><strong>andere anwenden kannst</strong></p>
-<p>Workbook mit schriftlichen Prozess-Anleitungen</p>
-<p>8 gechannelte Meditationen</p>
-<p> </p>
-<div><span style="color:#ffcc00;"><strong>IN UNSEREM ONLINE-INTENSIV-WORKSHOP LERNST DU...</strong></span></div>
-<div>  </div>
-<p>...wie Du die <strong>universellen Gesetze</strong> für ein erfülltes und <strong>glückliches Leben</strong> nutzt.</p>
-<p> </p>
-<p>...wie Du Dich mit dem <strong>Bewusstseinsfeld</strong> verbindest und <strong>Mental Reading</strong> richtig nutzt.</p>
-<p> </p>
-<p>...wie Dir die Engel bei Deinen <strong>Herausforderungen</strong> am besten <strong>helfen</strong>.</p>
-<p> </p>
-<p>...wie Du Dein <strong>emotionales Gefühlschaos </strong>in den Griff bekommst und Deine <strong>Ängste</strong> überwindest.</p>
-<p> </p>
-<p>...wie Du <strong>Frieden</strong> mit Deiner Vergangenheit <strong>schließt</strong>, um in Deine volle Kraft zu kommen.</p>
-<p> </p>
-<p>...wie Du die Ursachen von <strong>körperlichen Beschwerden</strong> erkennst und <strong>auflösen</strong> kannst.</p>
-<h3> </h3>
+**Vendor's marketplace description:** DEIN SPIRITUELLER ONLINE-INTENSIV-WORKSHOP DIY-Videokurs mit spirituellen Tools & Techniken zur Selbsthilfe für ein glückliches und erfülltes Leben INHALTE: 6 Module + 3 Bonusmodule gefüllt mit Wissen für Dein spirituelles Mindset 27 Coaching-Videos mit geführten Prozessen, die Du für Dich & andere anwenden kannst Workbook mit schriftlichen Prozess-Anleitungen 8 gechannelte Meditationen IN UNSEREM ONLINE-INTENSIV-WORKSHOP LERNST DU... ...wie Du die universellen Gesetze für ein erfülltes und glückliches Leben nutzt. ...wie Du Dich mit dem Bewusstseinsfeld verbindest und Mental Reading richtig nutzt. ...wie Dir die Engel bei Deinen Herausforderungen am besten helfen . ...wie Du Dein emotionales Gefühlschaos in den Griff bekommst und Deine Ängste überwindest. ...wie Du Frieden mit Deiner Vergangenheit schließt , um in Deine volle Kraft zu kommen. ...wie Du die Ursachen von körperlichen Beschwerden erkennst und auflösen kannst.
 
 ## 2. Links
 

@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>TV Kartenlegerin Maren Giertz&nbsp;</p>
-<p>entwickelte ein eigenes System, dass Ihnen ganz ohne Vorerfahrung und Hellsicht das Kartenlegen ohne Vorabinformation zu erhalten erm&ouml;glicht. Tausendfach konnte w&auml;hrend live TV Sendungen hier bewiesen werden, Kartenlegen ohne Vorabinformationen ist m&ouml;glich und das k&ouml;nnen auch SIE.&nbsp;</p>
-<p>Das Arbeitsbuch "Einmal Mischen Bitte", Anleitung f&uuml;r die Lenormandkarten und die zehn Videokurse begleiten Sie von der ersten Karte bis zur Auslegung der "Gro&szlig;en Tafel". Dar&uuml;ber hinaus stehen Ihnen &uuml;ber 200 gratis Videos auf YouTube zum Mit&uuml;ben bereit.</p>
-<p>In diesem weltweit einzigartigen System seiner Art lernen Sie alles was mit den Lenormandkarten im Zusammenhang steht.&nbsp;</p>
-<p>Die Videokurse bieten Ihnen absolute Flexibilit&auml;t an. Lernen Sie WANN &amp; WO Sie wollen.</p>
-<p>Nach Abschluss des Kurses k&ouml;nnen Sie kosteng&uuml;nstig eine Pr&uuml;fung am Telefon mit TV Kartenlegerin Maren Giertz ablegen und erhalten ein Zertifikat, das bei Portalen gern gesehen wird und Ihnen eine T&auml;tigkeit als Kartenleger erm&ouml;glicht.</p>
-<p>&nbsp;</p>
-<p>Viel Freude beim Lernen, wir freuen uns auf Sie.</p>
-<p>Herzliche Gr&uuml;&szlig;e, Ihre Maren Giertz</p>
+**Vendor's marketplace description:** TV Kartenlegerin Maren Giertz entwickelte ein eigenes System, dass Ihnen ganz ohne Vorerfahrung und Hellsicht das Kartenlegen ohne Vorabinformation zu erhalten erm&ouml;glicht. Tausendfach konnte w&auml;hrend live TV Sendungen hier bewiesen werden, Kartenlegen ohne Vorabinformationen ist m&ouml;glich und das k&ouml;nnen auch SIE. Das Arbeitsbuch "Einmal Mischen Bitte", Anleitung f&uuml;r die Lenormandkarten und die zehn Videokurse begleiten Sie von der ersten Karte bis zur Auslegung der "Gro&szlig;en Tafel". Dar&uuml;ber hinaus stehen Ihnen &uuml;ber 200 gratis Videos auf YouTube zum Mit&uuml;ben bereit. In diesem weltweit einzigartigen System seiner Art lernen Sie alles was mit den Lenormandkarten im Zusammenhang steht. Die Videokurse bieten Ihnen absolute Flexibilit&auml;t an. Lernen Sie WANN & WO Sie wollen. Nach Abschluss des Kurses k&ouml;nnen Sie kosteng&uuml;nstig eine Pr&uuml;fung am Telefon mit TV Kartenlegerin Maren Giertz ablegen und erhalten ein Zertifikat, das bei Portalen gern gesehen wird und Ihnen eine T&auml;tigkeit als Kartenleger erm&ouml;glicht. Viel Freude beim Lernen, wir freuen uns auf Sie. Herzliche Gr&uuml;&szlig;e, Ihre Maren Giertz
 
 ## 2. Links
 

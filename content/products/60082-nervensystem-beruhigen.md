@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Kurzbeschreibung: Nervensystem beruhigen</strong></h2>
-<p><strong> • Preis:</strong> 17,99 €</p>
-<p><strong> • Provision:</strong> 60%</p>
-<p><strong> • Zielgruppe:</strong> Menschen mit Stress, innerer Unruhe und Erschöpfung</p>
-<p> </p>
-<h3><strong>Beschreibung für Affiliates:</strong></h3>
-<p>Ständiger Stress und ein überlastetes Nervensystem belasten den Alltag vieler Menschen. Das E-Book "Nervensystem beruhigen" liefert sofort anwendbare Praxis-Tipps und Übungen für mehr innere Ruhe, emotionale Balance und mentale Entspannung – verständlich und direkt umsetzbar.</p>
-<p> <strong>• Deine Chance:</strong> Hohe Nachfrage im stark wachsenden Gesundheitsmarkt und 60% Provision bei einem attraktiven Einstiegspreis. Perfekt für E-Mail-Marketing, Social Media oder Empfehlungen.</p>
+**Vendor's marketplace description:** Kurzbeschreibung: Nervensystem beruhigen • Preis: 17,99 € • Provision: 60% • Zielgruppe: Menschen mit Stress, innerer Unruhe und Erschöpfung Beschreibung für Affiliates: Ständiger Stress und ein überlastetes Nervensystem belasten den Alltag vieler Menschen. Das E-Book "Nervensystem beruhigen" liefert sofort anwendbare Praxis-Tipps und Übungen für mehr innere Ruhe, emotionale Balance und mentale Entspannung – verständlich und direkt umsetzbar. • Deine Chance: Hohe Nachfrage im stark wachsenden Gesundheitsmarkt und 60% Provision bei einem attraktiven Einstiegspreis. Perfekt für E-Mail-Marketing, Social Media oder Empfehlungen.
 
 ## 2. Links
 

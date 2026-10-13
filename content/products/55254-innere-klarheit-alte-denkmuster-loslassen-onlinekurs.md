@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieser Onlinekurs richtet sich an Menschen, die innere Blockaden lösen,<br />alte Denk- und Verhaltensmuster loslassen und mehr Klarheit, Ruhe<br />und Selbstvertrauen entwickeln möchten.</p>
-<p>Der Kurs ist Schritt für Schritt aufgebaut, ohne Druck,<br />und eignet sich ideal für Menschen in persönlichen Veränderungsprozessen.</p>
-<p>Geeignet für Traffic aus:<br />– Instagram<br />– Facebook<br />– Coaching- &amp; Mindset-Content<br />– Persönlichkeitsentwicklung</p>
-<p>Affiliate-Vorteil:<br />Hohe Relevanz für Coaching- und Mindset-Zielgruppen.</p>
+**Vendor's marketplace description:** Dieser Onlinekurs richtet sich an Menschen, die innere Blockaden lösen, alte Denk- und Verhaltensmuster loslassen und mehr Klarheit, Ruhe und Selbstvertrauen entwickeln möchten. Der Kurs ist Schritt für Schritt aufgebaut, ohne Druck, und eignet sich ideal für Menschen in persönlichen Veränderungsprozessen. Geeignet für Traffic aus: – Instagram – Facebook – Coaching- & Mindset-Content – Persönlichkeitsentwicklung Affiliate-Vorteil: Hohe Relevanz für Coaching- und Mindset-Zielgruppen.
 
 ## 2. Links
 

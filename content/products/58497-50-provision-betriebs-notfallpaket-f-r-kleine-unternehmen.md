@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Bewerben Sie ein praxisorientiertes B2B-Downloadprodukt für kleine Unternehmen und Selbstständige.</strong></p>
-<p>Das SoftPac Betriebs-Notfallpaket unterstützt Unternehmen dabei, Verantwortlichkeiten, kritische Geschäftsprozesse, IT-Abhängigkeiten, Datensicherung, Kommunikation und Wiederanlauf strukturiert vorzubereiten und zu dokumentieren.</p>
-<p>Käufer erhalten 53 bearbeitbare Word-Vorlagen sowie einen 60-Minuten-Schnellstart, eine START-HIER-Anleitung, eine Prioritätenmatrix und 6 ausgefüllte Praxisbeispiele.</p>
-<p><strong>Ihre Vorteile als Affiliate:</strong></p>
-<ul>
-<li>50 % Affiliate-Provision</li>
-<li>Verkaufspreis 24,90 € brutto</li>
-<li>klar definierte B2B-Zielgruppe</li>
-<li>digitales Downloadprodukt mit konkretem Nutzwert</li>
-<li>professionelle Verkaufsseite mit realen Produktvorschauen</li>
-<li>Einmalzahlung, kein Abonnement</li>
-<li>geeignet für Inhalte rund um KMU, Selbstständigkeit, Unternehmensorganisation, Datensicherung, IT-Ausfälle und betriebliche Vorsorge</li>
-</ul>
-<p>Das Angebot richtet sich ausschließlich an Unternehmer mit Sitz in Deutschland.</p>
-<p>Eine Affiliate-Supportseite mit Produktinformationen, Promolink-Hinweisen, zulässigen Werbeaussagen und vorbereiteten Werbetexten steht zur Verfügung.</p>
+**Vendor's marketplace description:** Bewerben Sie ein praxisorientiertes B2B-Downloadprodukt für kleine Unternehmen und Selbstständige. Das SoftPac Betriebs-Notfallpaket unterstützt Unternehmen dabei, Verantwortlichkeiten, kritische Geschäftsprozesse, IT-Abhängigkeiten, Datensicherung, Kommunikation und Wiederanlauf strukturiert vorzubereiten und zu dokumentieren. Käufer erhalten 53 bearbeitbare Word-Vorlagen sowie einen 60-Minuten-Schnellstart, eine START-HIER-Anleitung, eine Prioritätenmatrix und 6 ausgefüllte Praxisbeispiele. Ihre Vorteile als Affiliate: 50 % Affiliate-Provision Verkaufspreis 24,90 € brutto klar definierte B2B-Zielgruppe digitales Downloadprodukt mit konkretem Nutzwert professionelle Verkaufsseite mit realen Produktvorschauen Einmalzahlung, kein Abonnement geeignet für Inhalte rund um KMU, Selbstständigkeit, Unternehmensorganisation, Datensicherung, IT-Ausfälle und betriebliche Vorsorge Das Angebot richtet sich ausschließlich an Unternehmer mit Sitz in Deutschland. Eine Affiliate-Supportseite mit Produktinformationen, Promolink-Hinweisen, zulässigen Werbeaussagen und vorbereiteten Werbetexten steht zur Verfügung.
 
 ## 2. Links
 

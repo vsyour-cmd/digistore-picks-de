@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Bewerbe den Bestseller Super Affiliate Plan inklusive Kurs:</strong></p>
-<p><strong>Hier gibt es die besten Videokursen zu den Themen:</strong></p>
-<p><strong>✅  Aufbau einer eigenen Affiliate Armee</strong></p>
-<p><strong>✅  Ein Produkt richtig launchen</strong></p>
-<p><strong>✅  Geld verdienen mit YouTube</strong></p>
-<p><strong>✅  E-Mail Marketing Hackz</strong></p>
-<p><strong>✅  Verschenke dieses E-Book inklusive Kurs an Deine Community</strong></p>
-<p><strong>Im Upsell warten über 100 Euro Netto Provision auf Dich! </strong></p>
+**Vendor's marketplace description:** Bewerbe den Bestseller Super Affiliate Plan inklusive Kurs: Hier gibt es die besten Videokursen zu den Themen: ✅ Aufbau einer eigenen Affiliate Armee ✅ Ein Produkt richtig launchen ✅ Geld verdienen mit YouTube ✅ E-Mail Marketing Hackz ✅ Verschenke dieses E-Book inklusive Kurs an Deine Community Im Upsell warten über 100 Euro Netto Provision auf Dich!
 
 ## 2. Links
 

@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>FREEFORLIFE richtet sich an Menschen, die unter <strong>kribbelnden, tauben, steifen oder unbeweglichen Händen und Fingern</strong> leiden und nach einem natürlichen, alltagstauglichen Weg suchen.</p>
-<p><strong>Deine Provision: 60 % pro vermitteltem Verkauf</strong></p>
-<p>Du kannst FREEFORLIFE über deine Website, deinen Newsletter, Social Media oder direkt an Menschen empfehlen, für die das Thema relevant ist.</p>
-<p><strong>Wichtig:</strong> Verwende für deine Werbung immer deinen persönlichen Digistore24-Promolink, damit Verkäufe dir korrekt zugeordnet werden können.</p>
-<p>Fertige Werbebanner in verschiedenen Größen stehen dir im Werbemittelbereich zur Verfügung.</p>
-<p><strong>Geeignete Werbeaussagen:</strong></p>
-<p>• Kribbeln oder Taubheitsgefühle in den Händen?<br />• Steife Finger und unbewegliche Hände?<br />• Entdecke einen natürlichen Weg zu mehr Beweglichkeit.<br />• FREEFORLIFE – Schritt für Schritt zurück zu beweglicheren Händen.</p>
-<p>Bitte vermeide Heilversprechen oder Aussagen wie „garantierte Heilung“. Beschreibe FREEFORLIFE als natürlichen Ansatz bzw. Anleitung zur Unterstützung von Beweglichkeit und Wohlbefinden.</p>
-<p>Viel Erfolg bei deiner Empfehlung!</p>
+**Vendor's marketplace description:** FREEFORLIFE richtet sich an Menschen, die unter kribbelnden, tauben, steifen oder unbeweglichen Händen und Fingern leiden und nach einem natürlichen, alltagstauglichen Weg suchen. Deine Provision: 60 % pro vermitteltem Verkauf Du kannst FREEFORLIFE über deine Website, deinen Newsletter, Social Media oder direkt an Menschen empfehlen, für die das Thema relevant ist. Wichtig: Verwende für deine Werbung immer deinen persönlichen Digistore24-Promolink, damit Verkäufe dir korrekt zugeordnet werden können. Fertige Werbebanner in verschiedenen Größen stehen dir im Werbemittelbereich zur Verfügung. Geeignete Werbeaussagen: • Kribbeln oder Taubheitsgefühle in den Händen? • Steife Finger und unbewegliche Hände? • Entdecke einen natürlichen Weg zu mehr Beweglichkeit. • FREEFORLIFE – Schritt für Schritt zurück zu beweglicheren Händen. Bitte vermeide Heilversprechen oder Aussagen wie „garantierte Heilung“. Beschreibe FREEFORLIFE als natürlichen Ansatz bzw. Anleitung zur Unterstützung von Beweglichkeit und Wohlbefinden. Viel Erfolg bei deiner Empfehlung!
 
 ## 2. Links
 

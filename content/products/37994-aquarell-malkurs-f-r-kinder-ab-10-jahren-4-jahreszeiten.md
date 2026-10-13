@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Kolibri School ist eine <strong>online Malschule für Kinder</strong>, in der jedes Kind ab 6 ganz einfach und praktisch von zu Hause malen lernen kann.</p>
-<p>In diesem Malkurs lernen die Kinder Schritt-für-Schritt 4 Aquarell Bilder zu malen: die duftenden Blüten im <strong>Frühling</strong>, eine erfrischende Brise an heißen <strong>Sommertagen</strong>, ein stimmungsvoller Spaziergang im <strong>Herbstwald</strong> und das magische Spiel der Polarlichter im <strong>Winter</strong>.</p>
-<p>Du hast als Zielgruppe <strong>Eltern mit Kindern im Alter von 10 bis 14</strong> und Lust unseren Malkurs zu präsentieren, dann melde dich als Affliate bei uns an.</p>
-<p> </p>
-<p><strong>Zum Produkt:</strong></p>
-<ul>
-<li>4 Video Malkurse je ca 35 Min</li>
-<li>4 selbstgemalte Bilder in Aquarell</li>
-<li>kindergerechte und pädagogisch aufbereitete Schritt-für-Schritt-Anleitung</li>
-<li>geeignet für Kinder ab 10 Jahren</li>
-<li>von Profi-Künstlerin erstellt</li>
-</ul>
-<p><strong>Deine Vorteile:</strong></p>
-<ul>
-<li>20% Provision pro Verkauf</li>
-<li>Hochwertiges Produkt zum atraktiven Preis</li>
-<li>zufriedene Kunden</li>
-<li>sicheres Partnerprogram verwaltet durch Digistore24</li>
-<li>perfekte Nische, kaum Wettbewerb</li>
-<li>Werbemittel nach Anfrage  </li>
-</ul>
-<p>Bei weiteren Fragen stehen wir gerne per E-mail kunst@kolibri-school.de zur Verfügung.</p>
+**Vendor's marketplace description:** Kolibri School ist eine online Malschule für Kinder , in der jedes Kind ab 6 ganz einfach und praktisch von zu Hause malen lernen kann. In diesem Malkurs lernen die Kinder Schritt-für-Schritt 4 Aquarell Bilder zu malen: die duftenden Blüten im Frühling , eine erfrischende Brise an heißen Sommertagen , ein stimmungsvoller Spaziergang im Herbstwald und das magische Spiel der Polarlichter im Winter . Du hast als Zielgruppe Eltern mit Kindern im Alter von 10 bis 14 und Lust unseren Malkurs zu präsentieren, dann melde dich als Affliate bei uns an. Zum Produkt: 4 Video Malkurse je ca 35 Min 4 selbstgemalte Bilder in Aquarell kindergerechte und pädagogisch aufbereitete Schritt-für-Schritt-Anleitung geeignet für Kinder ab 10 Jahren von Profi-Künstlerin erstellt Deine Vorteile: 20% Provision pro Verkauf Hochwertiges Produkt zum atraktiven Preis zufriedene Kunden sicheres Partnerprogram verwaltet durch Digistore24 perfekte Nische, kaum Wettbewerb Werbemittel nach Anfrage Bei weiteren Fragen stehen wir gerne per E-mail kunst@kolibri-school.de zur Verfügung.
 
 ## 2. Links
 

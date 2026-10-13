@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Bewerbe den Bestseller Top 10 KI Leitfaden inklusive Kurs:</strong></span></p>
-<p> </p>
-<p><strong>✅  Das 10 KI Handbuch ist ein praxisorientierter Leitfaden</strong></p>
-<p><strong>✅  Für Anfänger und Profis</strong></p>
-<p><strong>✅  Ideal wenn Du mit KI online Geld verdienen möchtest</strong></p>
-<p><strong>✅  Verschenke dieses E-Book inklusive Kurs an Deine Community</strong></p>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Im Upsell warten über 100 Euro Netto Provision auf Dich! </strong></span></p>
+**Vendor's marketplace description:** Bewerbe den Bestseller Top 10 KI Leitfaden inklusive Kurs: ✅ Das 10 KI Handbuch ist ein praxisorientierter Leitfaden ✅ Für Anfänger und Profis ✅ Ideal wenn Du mit KI online Geld verdienen möchtest ✅ Verschenke dieses E-Book inklusive Kurs an Deine Community Im Upsell warten über 100 Euro Netto Provision auf Dich!
 
 ## 2. Links
 

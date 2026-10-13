@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Warum wird aus dem deutschen „Glück“ im tschechischen „klika“? Mit welcher Eselsbrücke merkt man sich das tschechische Wort für „schlittschuhlaufen“? Was hat es mit den „Särgchen“ im tschechischen Altersheim auf sich? Diese und 169 weitere Fragen beantwortet das Buch „Tschechisch in Häppchen“ in unterhaltsam geschriebenen Mini-Lektionen zum tschechischen Wortschatz, zur Grammatik und zur Alltagskultur.</p>
+**Vendor's marketplace description:** Warum wird aus dem deutschen „Glück“ im tschechischen „klika“? Mit welcher Eselsbrücke merkt man sich das tschechische Wort für „schlittschuhlaufen“? Was hat es mit den „Särgchen“ im tschechischen Altersheim auf sich? Diese und 169 weitere Fragen beantwortet das Buch „Tschechisch in Häppchen“ in unterhaltsam geschriebenen Mini-Lektionen zum tschechischen Wortschatz, zur Grammatik und zur Alltagskultur.
 
 ## 2. Links
 

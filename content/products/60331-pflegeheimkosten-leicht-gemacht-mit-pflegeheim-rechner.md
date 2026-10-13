@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Pflegeheimkosten leicht gemacht – Ratgeber mit Pflegeheim-Rechner</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Der Ratgeber erklärt, woraus die Heimkosten bestehen, was die Pflegekasse zahlt, welches Ersparte geschützt ist und wann Kinder zahlen müssen. Der <strong>Pflegeheim-Rechner</strong> zeigt den Eigenanteil für jedes Jahr.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Angehörige, deren Eltern ins Heim kommen</li>
-<li>Familien, die um das Ersparte oder das Haus fürchten</li>
-<li>Kinder, die wissen wollen, ob sie zahlen müssen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Ein Umzug ins Pflegeheim steht an</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Pflegegrad, Vorsorgevollmacht und Patientenverfügung, Steuererklärung für Rentner) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Pflegeheimkosten leicht gemacht – Ratgeber mit Pflegeheim-Rechner Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Der Ratgeber erklärt, woraus die Heimkosten bestehen, was die Pflegekasse zahlt, welches Ersparte geschützt ist und wann Kinder zahlen müssen. Der Pflegeheim-Rechner zeigt den Eigenanteil für jedes Jahr. Die Zielgruppe Angehörige, deren Eltern ins Heim kommen Familien, die um das Ersparte oder das Haus fürchten Kinder, die wissen wollen, ob sie zahlen müssen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Ein Umzug ins Pflegeheim steht an Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Pflegegrad, Vorsorgevollmacht und Patientenverfügung, Steuererklärung für Rentner) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

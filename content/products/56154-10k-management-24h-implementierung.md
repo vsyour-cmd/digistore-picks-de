@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>10K-Management – 24h Implementierung</strong></p>
-<p>Ein praxiserprobtes Kontroll- und Sicherungssystem für Service- und Produktionsprozesse.</p>
-<p>Ein fehlender Kontrollpunkt kann innerhalb weniger Stunden fünfstellige Schäden verursachen.</p>
-<ul>
-<li>falsche Teile gehen raus</li>
-<li>Fehler werden zu spät erkannt</li>
-<li>Kunden reklamieren</li>
-<li>interne Abläufe geraten unter Druck</li>
-</ul>
-<p>Und meistens liegt die Ursache nicht beim Mitarbeiter –</p>
-<p>sondern im fehlenden System.</p>
-<p> </p>
+**Vendor's marketplace description:** 10K-Management – 24h Implementierung Ein praxiserprobtes Kontroll- und Sicherungssystem für Service- und Produktionsprozesse. Ein fehlender Kontrollpunkt kann innerhalb weniger Stunden fünfstellige Schäden verursachen. falsche Teile gehen raus Fehler werden zu spät erkannt Kunden reklamieren interne Abläufe geraten unter Druck Und meistens liegt die Ursache nicht beim Mitarbeiter – sondern im fehlenden System.
 
 ## 2. Links
 

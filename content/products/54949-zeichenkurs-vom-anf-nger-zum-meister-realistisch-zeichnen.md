@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Unser Produkt: Online-Zeichenkurs „Vom Anfänger zum Meister“</strong></p>
-<p>Ein umfassender, praxisorientierter Online-Zeichenkurs für Anfänger und Fortgeschrittene, die realistisch zeichnen lernen oder ihre Fähigkeiten gezielt verbessern möchten.</p>
-<p>Der Kurs bietet über 70 Video-Lektionen mit rund 14,5 Stunden Unterricht sowie ein umfangreiches Workbook mit praktischen Übungen.</p>
-<p>Kursleiter ist Ralf Wilhelm Schmidt, freischaffender Künstler und Gründer der Online-Akademie Schmidt’s Zeichenwelt.</p>
-<p><strong>Zielgruppe:</strong></p>
-<ul>
-<li>Zeichenanfänger und Fortgeschrittene</li>
-<li>Kreative Erwachsene</li>
-<li>Kunst-, Natur- und Zeicheninteressierte</li>
-</ul>
-<p><strong>Vorteile für Affiliate-Partner:</strong></p>
-<ul>
-<li>Hochwertiges digitales Produkt</li>
-<li>Klar definierte Zielgruppe</li>
-<li>Professionelle Verkaufsseite</li>
-<li>Direkte Verlinkung zur offiziellen Kursseite</li>
-<li>Provision gemäß Digistore24-Produktangaben</li>
-</ul>
-<p><strong>Wichtiger Hinweis für Affiliate-Partner</strong></p>
-<p>Wir suchen seriöse, langfristige Affiliate-Partner mit einer passenden Zielgruppe im deutschsprachigen Raum.</p>
-<p>Bitte gib bei Deiner Bewerbung an, über welche Webseite, welchen Social-Media-Kanal oder welche andere konkrete Plattform Du unser Zeichenheft bewerben möchtest.</p>
-<p>Anfragen ohne nachvollziehbare Angaben zum geplanten Werbekanal werden nicht berücksichtigt.</p>
-<p>Weitere Informationen zur Zusammenarbeit findest Du auf unserer Affiliate-Partnerseite.</p>
+**Vendor's marketplace description:** Unser Produkt: Online-Zeichenkurs „Vom Anfänger zum Meister“ Ein umfassender, praxisorientierter Online-Zeichenkurs für Anfänger und Fortgeschrittene, die realistisch zeichnen lernen oder ihre Fähigkeiten gezielt verbessern möchten. Der Kurs bietet über 70 Video-Lektionen mit rund 14,5 Stunden Unterricht sowie ein umfangreiches Workbook mit praktischen Übungen. Kursleiter ist Ralf Wilhelm Schmidt, freischaffender Künstler und Gründer der Online-Akademie Schmidt’s Zeichenwelt. Zielgruppe: Zeichenanfänger und Fortgeschrittene Kreative Erwachsene Kunst-, Natur- und Zeicheninteressierte Vorteile für Affiliate-Partner: Hochwertiges digitales Produkt Klar definierte Zielgruppe Professionelle Verkaufsseite Direkte Verlinkung zur offiziellen Kursseite Provision gemäß Digistore24-Produktangaben Wichtiger Hinweis für Affiliate-Partner Wir suchen seriöse, langfristige Affiliate-Partner mit einer passenden Zielgruppe im deutschsprachigen Raum. Bitte gib bei Deiner Bewerbung an, über welche Webseite, welchen Social-Media-Kanal oder welche andere konkrete Plattform Du unser Zeichenheft bewerben möchtest. Anfragen ohne nachvollziehbare Angaben zum geplanten Werbekanal werden nicht berücksichtigt. Weitere Informationen zur Zusammenarbeit findest Du auf unserer Affiliate-Partnerseite.
 
 ## 2. Links
 

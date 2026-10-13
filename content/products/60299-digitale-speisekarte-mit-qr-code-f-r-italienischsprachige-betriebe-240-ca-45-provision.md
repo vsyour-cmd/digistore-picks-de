@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Digitale Speisekarte im Design des Lokals, mit QR-Code für die Tische. Änderungen in einer Minute vom Handy, keine Nachdrucke mehr.</p><p><strong>Für wen:</strong> Bars, Restaurants, Pizzerien, Strandbäder.</p><p><strong>Deine Provision:</strong> 20 % pro Verkauf, ca. 45 € bei 240 € netto. Einmalzahlung, kein Abo.</p><p><strong>Wichtig:</strong> Verkaufsseite, Gespräche und Umsetzung sind auf Italienisch. Ideal, wenn du italienischsprachige Selbstständige in Italien, Deutschland oder der Schweiz erreichst.</p><p><strong>So läuft es:</strong> Nach der Bestellung meldet sich unser Team beim Kunden, bespricht alles per Videocall und setzt das Projekt komplett um. Du bringst den Kontakt, wir machen den Rest.</p>
+**Vendor's marketplace description:** Digitale Speisekarte im Design des Lokals, mit QR-Code für die Tische. Änderungen in einer Minute vom Handy, keine Nachdrucke mehr. Für wen: Bars, Restaurants, Pizzerien, Strandbäder. Deine Provision: 20 % pro Verkauf, ca. 45 € bei 240 € netto. Einmalzahlung, kein Abo. Wichtig: Verkaufsseite, Gespräche und Umsetzung sind auf Italienisch. Ideal, wenn du italienischsprachige Selbstständige in Italien, Deutschland oder der Schweiz erreichst. So läuft es: Nach der Bestellung meldet sich unser Team beim Kunden, bespricht alles per Videocall und setzt das Projekt komplett um. Du bringst den Kontakt, wir machen den Rest.
 
 ## 2. Links
 

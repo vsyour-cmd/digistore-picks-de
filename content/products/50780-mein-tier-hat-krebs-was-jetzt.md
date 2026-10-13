@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Krebs - eine Diagnose die keiner hören möchte. Von einer Sekunde auf die andere hat man das Gefühl die Welt geht unter! </p>
-<p>Aber ist das wirklich so? Gibt es wirklich nur leben oder sterben oder gibt es dazwischen noch jede Menge Facetten und Hoffnung?</p>
-<p>In dem Webinar beschäftigen wir uns mit den verschiedenen Krebsarten bei Hund und Katze und der Prognose die sie mit sich bringen. Nicht immer ist alles so schlimm wie man im ersten Moment befürchtet.</p>
-<p>Ich zeige Dir, wie sich dieses schwierige Thema aus naturheilkundlicher Sicht darstellt und natürlich besprechen wir auch, welche Möglichkeiten es gibt um den "Weltuntergang" hinauszuzögern oder sogar zu verhindern. Die Naturheilkunde und auch die Ernährung haben hier einiges an Möglichkeiten parat um deinem Tier noch eine tolle Zeit zu geben. </p>
-<p>Das Webinar fand am <strong>18.09.24</strong> über Zoom statt. Du kannst hier die Aufzeichnung buchen.</p>
+**Vendor's marketplace description:** Krebs - eine Diagnose die keiner hören möchte. Von einer Sekunde auf die andere hat man das Gefühl die Welt geht unter! Aber ist das wirklich so? Gibt es wirklich nur leben oder sterben oder gibt es dazwischen noch jede Menge Facetten und Hoffnung? In dem Webinar beschäftigen wir uns mit den verschiedenen Krebsarten bei Hund und Katze und der Prognose die sie mit sich bringen. Nicht immer ist alles so schlimm wie man im ersten Moment befürchtet. Ich zeige Dir, wie sich dieses schwierige Thema aus naturheilkundlicher Sicht darstellt und natürlich besprechen wir auch, welche Möglichkeiten es gibt um den "Weltuntergang" hinauszuzögern oder sogar zu verhindern. Die Naturheilkunde und auch die Ernährung haben hier einiges an Möglichkeiten parat um deinem Tier noch eine tolle Zeit zu geben. Das Webinar fand am 18.09.24 über Zoom statt. Du kannst hier die Aufzeichnung buchen.
 
 ## 2. Links
 

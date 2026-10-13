@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „KI-Agentur gründen“</strong></p>
-<p>Dein Dienstleistungs-Business ohne Programmierkenntnisse – Mit KI eine Dienstleistung anbieten – ganz ohne Programmieren. Lerne, wie du ein Angebot findest, faire Preise machst, erste Kunden gewinnst und sauber lieferst.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Was eine KI-Dienstleistung wirklich ist – ohne Hype</li>
-<li>Deine Nische und ein klares Angebot finden</li>
-<li>Die richtigen KI-Tools nutzen, ohne Programmieren</li>
-<li>Die ersten Kunden gewinnen und sauber liefern</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „KI-Agentur gründen“ Dein Dienstleistungs-Business ohne Programmierkenntnisse – Mit KI eine Dienstleistung anbieten – ganz ohne Programmieren. Lerne, wie du ein Angebot findest, faire Preise machst, erste Kunden gewinnst und sauber lieferst. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Was eine KI-Dienstleistung wirklich ist – ohne Hype Deine Nische und ein klares Angebot finden Die richtigen KI-Tools nutzen, ohne Programmieren Die ersten Kunden gewinnen und sauber liefern
 
 ## 2. Links
 

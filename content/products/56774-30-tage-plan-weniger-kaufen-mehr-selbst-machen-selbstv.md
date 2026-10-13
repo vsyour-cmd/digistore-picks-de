@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Wachsende Zielgruppe: Menschen, die bewusster leben, Geld sparen und wissen wollen, was in ihren Produkten steckt. Der Plan führt durch 30 Tage Küche, Haushalt, Körperpflege und Vorrat — eine Aufgabe pro Tag, keine Vorkenntnisse nötig. Hohe Relevanz, klare Positionierung, persönliche Autorin mit eigenem Blog und E-Mail-Liste.</p>
+**Vendor's marketplace description:** Wachsende Zielgruppe: Menschen, die bewusster leben, Geld sparen und wissen wollen, was in ihren Produkten steckt. Der Plan führt durch 30 Tage Küche, Haushalt, Körperpflege und Vorrat — eine Aufgabe pro Tag, keine Vorkenntnisse nötig. Hohe Relevanz, klare Positionierung, persönliche Autorin mit eigenem Blog und E-Mail-Liste.
 
 ## 2. Links
 

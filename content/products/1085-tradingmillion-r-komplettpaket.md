@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Top-Seller zu Leben erweckt! Dieser Videokurs ist vor 9 Jahren auf den Markt gekommen mit phänomenalen Verkaufszahlen. Jetzt <strong>für 2023 komplett neu</strong> überarbeitet und zur Verkaufsmaschine optimiert.<br /><br />- <strong>Extrem hohe CR</strong> auf Verkaufsseite (3,0%)</p>
-<p>- Genialer <strong>3-teiliger Upsellfunnel</strong> bei denen du 50% Provision auf jeden Verkauf bekommst (inkl. Abo)</p>
-<p>- <strong>Provision pro Kunde von 2.249€</strong> möglich!</p>
-<p>Wir sind nicht umsonst in der "<strong>Hall of Fame</strong>" von Digistore24 als TOP-Seller! Unsere Produkte sind Konversionmonster mit optimaler Kundenbetreuung.</p>
-<p><strong>Bewirb jetzt diesen Videokurs</strong> und erhalte höchste Provisionen und zufriedene Kunden. Wir freuen uns auf dich!</p>
+**Vendor's marketplace description:** Top-Seller zu Leben erweckt! Dieser Videokurs ist vor 9 Jahren auf den Markt gekommen mit phänomenalen Verkaufszahlen. Jetzt für 2023 komplett neu überarbeitet und zur Verkaufsmaschine optimiert. - Extrem hohe CR auf Verkaufsseite (3,0%) - Genialer 3-teiliger Upsellfunnel bei denen du 50% Provision auf jeden Verkauf bekommst (inkl. Abo) - Provision pro Kunde von 2.249€ möglich! Wir sind nicht umsonst in der " Hall of Fame " von Digistore24 als TOP-Seller! Unsere Produkte sind Konversionmonster mit optimaler Kundenbetreuung. Bewirb jetzt diesen Videokurs und erhalte höchste Provisionen und zufriedene Kunden. Wir freuen uns auf dich!
 
 ## 2. Links
 

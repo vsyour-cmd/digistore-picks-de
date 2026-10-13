@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<p><strong>Eine spannende Geschichte statt langweiliger Dialoge</strong></p>
-<p>Wir haben genug von diesen Kursen, die alle mit „Hallo, wie heißt du?" anfangen, oder? <em>Alfred</em> ist eine durchgehende Geschichte, die ganz einfach beginnt und sich zu einem faszinierenden Roman entwickelt. Du kannst nicht mehr aufhören zu lesen? Tja, dann musst du wohl Schwedisch lernen!</p>
-<p><strong>Lerne Schwedisch mit anschaulichen, umfassenden Erklärungen auf Video</strong><br />Entdecke die Struktur der schwedischen Sprache mit Bildern, einfachen und doch umfassenden Erklärungen und vielen Beispielen, die du dir gut merken kannst. Wiederholung ist das A und O beim Lernen einer Sprache. Du findest zahlreiche Übungen, einen Vokabeltrainer, Videos zur Aussprache und vieles mehr.</p>
-<p><strong>Nutze deine Zeit effektiv mit relevantem Wortschatz </strong></p>
-<p>Wir haben die meist benutzten Wörter des Schwedischen sorgfältig zusammengesucht und dafür gesorgt, dass die Geschichte vorwiegend aus ihnen besteht. Zusätzliche Texte und Übungen behandeln Konversationsthemen und bereiten dich auf deinen Aufenthalt in Schweden vor.</p>
-<p><strong>Aussprache und Hörverstehen üben auch ohne Lehrer</strong></p>
-<p>Suchst du eine Alternative zum Schwedisch-VhS-Kurs? Hast du kein Budget für Privatunterricht?</p>
-<p>Wir können eine Lehrkraft aus Fleisch und Blut nicht ersetzen, aber zumindest gibt es im Alfred-Schwedischkurs <strong>100 Übungen für Aussprache, Hörverstehen und flüssiges Sprechen</strong>, die dafür ausgelegt sind, dass du sie ganz alleine bearbeiten kannst und trotzdem Konversation lernst. Die Übungen kannst du herunterladen und offline bearbeiten – zum Beispiel auf einem Spaziergang, beim Warten aus den Bus … Du wirst Sätze umformulieren, Fragen beantworten, wichtige Ausdrücke wiederholen und vieles mehr. Auf diese Weise kannst du dein mündliches Schwedisch verbessern, ohne eine Lehrkraft engagieren zu müssen.</p>
-<p><em><strong>Das ist die Geschichte: </strong></em></p>
-<p>Alfred ist überfahren worden, als Schweden von Links- auf Rechtsverkehr umgestellt hat. Seitdem führt er ein ruhiges und zufriedenes Leben als Gespenst in seinem Haus in Kiruna in Nordschweden. Doch bald zieht eine neue Familie in seinem Haus ein, und Alfred wird klar, dass sie etwas zu verbergen hat ...</p>
-<p><strong>VORTEILE FÜR AFFILIATES</strong><br />- regelmäßige Einnahmen durch Abo-Modell<br />- attraktives Sprachkurs-Konzept, das sich deutlich von  anderen Angeboten auf dem Markt abhebt<br />- Buchvorlage zum Kurs ist seit Jahren auf dem Markt und in aller Tiefe erprobt</p>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Eine spannende Geschichte statt langweiliger Dialoge Wir haben genug von diesen Kursen, die alle mit „Hallo, wie heißt du?" anfangen, oder? Alfred ist eine durchgehende Geschichte, die ganz einfach beginnt und sich zu einem faszinierenden Roman entwickelt. Du kannst nicht mehr aufhören zu lesen? Tja, dann musst du wohl Schwedisch lernen! Lerne Schwedisch mit anschaulichen, umfassenden Erklärungen auf Video Entdecke die Struktur der schwedischen Sprache mit Bildern, einfachen und doch umfassenden Erklärungen und vielen Beispielen, die du dir gut merken kannst. Wiederholung ist das A und O beim Lernen einer Sprache. Du findest zahlreiche Übungen, einen Vokabeltrainer, Videos zur Aussprache und vieles mehr. Nutze deine Zeit effektiv mit relevantem Wortschatz Wir haben die meist benutzten Wörter des Schwedischen sorgfältig zusammengesucht und dafür gesorgt, dass die Geschichte vorwiegend aus ihnen besteht. Zusätzliche Texte und Übungen behandeln Konversationsthemen und bereiten dich auf deinen Aufenthalt in Schweden vor. Aussprache und Hörverstehen üben auch ohne Lehrer Suchst du eine Alternative zum Schwedisch-VhS-Kurs? Hast du kein Budget für Privatunterricht? Wir können eine Lehrkraft aus Fleisch und Blut nicht ersetzen, aber zumindest gibt es im Alfred-Schwedischkurs 100 Übungen für Aussprache, Hörverstehen und flüssiges Sprechen , die dafür ausgelegt sind, dass du sie ganz alleine bearbeiten kannst und trotzdem Konversation lernst. Die Übungen kannst du herunterladen und offline bearbeiten – zum Beispiel auf einem Spaziergang, beim Warten aus den Bus … Du wirst Sätze umformulieren, Fragen beantworten, wichtige Ausdrücke wiederholen und vieles mehr. Auf diese Weise kannst du dein mündliches Schwedisch verbessern, ohne eine Lehrkraft engagieren zu müssen. Das ist die Geschichte: Alfred ist überfahren worden, als Schweden von Links- auf Rechtsverkehr umgestellt hat. Seitdem führt er ein ruhiges und zufriedenes Leben als Gespenst in seinem Haus in Kiruna in Nordschweden. Doch bald zieht eine neue Familie in seinem Haus ein, und Alfred wird klar, dass sie etwas zu verbergen hat ... VORTEILE FÜR AFFILIATES - regelmäßige Einnahmen durch Abo-Modell - attraktives Sprachkurs-Konzept, das sich deutlich von anderen Angeboten auf dem Markt abhebt - Buchvorlage zum Kurs ist seit Jahren auf dem Markt und in aller Tiefe erprobt
 
 ## 2. Links
 

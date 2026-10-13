@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein kompakter Pflege‑Notfallplan, der alle wichtigen Informationen an einem Ort bündelt: Abläufe, Kontakte, Medikamente, Gewohnheiten und persönliche Hinweise.</p>
-<p><strong>Im Ernstfall wissen Angehörige oder Helfer sofort, was zu tun ist – ohne langes Suchen.</strong></p>
-<p><br />Der Plan verhindert Fehler, reduziert Stress und stellt sicher, dass die Pflege zuverlässig weitergeführt wird.</p>
+**Vendor's marketplace description:** Ein kompakter Pflege‑Notfallplan, der alle wichtigen Informationen an einem Ort bündelt: Abläufe, Kontakte, Medikamente, Gewohnheiten und persönliche Hinweise. Im Ernstfall wissen Angehörige oder Helfer sofort, was zu tun ist – ohne langes Suchen. Der Plan verhindert Fehler, reduziert Stress und stellt sicher, dass die Pflege zuverlässig weitergeführt wird.
 
 ## 2. Links
 

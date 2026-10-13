@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<p>Wie Sie auf "unerhörte" Weise Ihre geistige Power, Lernfähigkeit, Gesundheit steigern und "blitzschnell" Ihren Wohlstand, Erfolg und viel mehr erreichen...</p>
-<p>Hier entdecken Sie zwei geheime Technologien, von denen lange Zeit eine von der Regierung geheim gehalten wurde!</p>
-</div>
+**Vendor's marketplace description:** Wie Sie auf "unerhörte" Weise Ihre geistige Power, Lernfähigkeit, Gesundheit steigern und "blitzschnell" Ihren Wohlstand, Erfolg und viel mehr erreichen... Hier entdecken Sie zwei geheime Technologien, von denen lange Zeit eine von der Regierung geheim gehalten wurde!
 
 ## 2. Links
 

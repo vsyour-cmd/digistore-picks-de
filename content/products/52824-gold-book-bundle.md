@@ -41,51 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Profitiere von 50% Provision auf das Bundle + Addons + Upsells</p>
-<h3>Das Gold Book Bundle – Dein digitaler Start mit 100 % Einnahmen</h3>
-<p><strong>Du willst digitale Produkte verkaufen, aber keine Zeit zum Schreiben?</strong><br />Mit diesem Bundle bekommst du <strong>3 professionelle E-Books inkl. PLR Lizenz</strong>, die du <strong>unter deinem eigenen Namen weiterverkaufen</strong> darfst – und <strong>jeden Euro selbst behältst</strong>.</p>
-<hr />
-<h3>Enthalten sind:</h3>
-<ul>
-<li>
-<p><strong>Story Selling</strong> – 7 Story-Skripte, Canva-Vorlagen &amp; Verkaufsstrategien für Instagram Stories.</p>
-</li>
-<li>
-<p><strong>ChatGPT x Insta</strong> – Dein Monetarisierungs-Blueprint für automatisierte Inhalte &amp; Einnahmen mit KI.</p>
-</li>
-<li>
-<p><strong>Manychat Guide</strong> – Automatisiere dein Business &amp; gewinne Leads auf Autopilot.</p>
-</li>
-</ul>
-<hr />
-<h3>Deine Vorteile:</h3>
-<ul>
-<li>
-<p><strong>PLR Lizenz</strong>: Verkaufe die Inhalte als eigene Produkte – 100 % der Einnahmen gehören dir.</p>
-</li>
-<li>
-<p><strong>Sofort startklar</strong>: Mit Canva-Vorlagen &amp; Schritt-für-Schritt Guides.</p>
-</li>
-<li>
-<p><strong>Vollständig anpassbar</strong>: Gestalte alles individuell für deine Marke.</p>
-</li>
-<li>
-<p><strong>Keine Programmier- oder Designkenntnisse nötig.</strong></p>
-</li>
-</ul>
-<hr />
-<h3>Ideal für:</h3>
-<ul>
-<li>
-<p>Einsteiger, Affiliates, Coaches, Agenturen &amp; Content-Creator</p>
-</li>
-<li>
-<p>Alle, die ein digitales Produkt mit echtem Mehrwert verkaufen möchten</p>
-</li>
-<li>
-<p>Nutzer von Funnels, Telegram-Kanälen, E-Mail-Marketing und Co.</p>
-</li>
-</ul>
+**Vendor's marketplace description:** Profitiere von 50% Provision auf das Bundle + Addons + Upsells Das Gold Book Bundle – Dein digitaler Start mit 100 % Einnahmen Du willst digitale Produkte verkaufen, aber keine Zeit zum Schreiben? Mit diesem Bundle bekommst du 3 professionelle E-Books inkl. PLR Lizenz , die du unter deinem eigenen Namen weiterverkaufen darfst – und jeden Euro selbst behältst . Enthalten sind: Story Selling – 7 Story-Skripte, Canva-Vorlagen & Verkaufsstrategien für Instagram Stories. ChatGPT x Insta – Dein Monetarisierungs-Blueprint für automatisierte Inhalte & Einnahmen mit KI. Manychat Guide – Automatisiere dein Business & gewinne Leads auf Autopilot. Deine Vorteile: PLR Lizenz : Verkaufe die Inhalte als eigene Produkte – 100 % der Einnahmen gehören dir. Sofort startklar : Mit Canva-Vorlagen & Schritt-für-Schritt Guides. Vollständig anpassbar : Gestalte alles individuell für deine Marke. Keine Programmier- oder Designkenntnisse nötig. Ideal für: Einsteiger, Affiliates, Coaches, Agenturen & Content-Creator Alle, die ein digitales Produkt mit echtem Mehrwert verkaufen möchten Nutzer von Funnels, Telegram-Kanälen, E-Mail-Marketing und Co.
 
 ## 2. Links
 

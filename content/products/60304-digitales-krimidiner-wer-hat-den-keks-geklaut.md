@@ -41,66 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Krimery.de – Das interaktive Krimidinner für zuhause</strong></p>
-<p>Mit <strong>Krimery.de</strong> verwandelst du dein Wohnzimmer in den Schauplatz eines packenden Kriminalfalls! Unsere digitalen Krimidinner bieten dir und deinen Freunden das perfekte Event für einen unvergesslichen Spieleabend.</p>
-<p><strong>Was macht Krimery besonders?</strong></p>
-<ul>
-<li>
-<p><strong>100 % Digital &amp; Sofort Startklar:</strong> Kein Warten auf Post oder Versand – nach dem Kauf bzw. der Key-Einlösung könnt ihr direkt loslegen.</p>
-</li>
-<li>
-<p><strong>Interaktives Spielerlebnis:</strong> Digitale Rollenakten, geheime Hinweise, Audiospuren und Beweismittel direkt auf Smartphone, Tablet oder Laptop.</p>
-</li>
-<li>
-<p><strong>Perfekt für jeden Anlass:</strong> Ideal für Spieleabende mit Freunden, Geburtstage, Familienfeiern oder virtuelle Gaming-Events.</p>
-</li>
-<li>
-<p><strong>Maximale Spannung &amp; Rätselspaß:</strong> Ausgetüftelte Storylines, überraschende Wendungen und eine dichte Atmosphäre garantieren Nervenkitzel bis zur letzten Minute.</p>
-</li>
-</ul>
-<p>Schlüpft in eure Rollen, sammelt Beweise, überführt den Täter – und findet heraus, wer unter euch am besten lügen kann!</p>
-<p> </p>
-<p><strong>Warum Krimery.de das perfekte digitale Event-Produkt ist:</strong></p>
-<ol>
-<li>
-<p><strong>Stark steigender Trend-Markt:</strong> Krimidinner und Escape Games sind beliebter denn je. Krimery schließt die Lücke zwischen klassischem Brettspiel und moderner digitaler Unterhaltung.</p>
-</li>
-<li>
-<p><strong>Null Versandkosten, maximale Spontanität:</strong> Als rein digitales Produkt gibt es keine Lieferzeiten oder Lagerkosten. Das macht Krimery zum idealen Last-Minute-Geschenk und perfekten Impulskauf am Wochenende.</p>
-</li>
-<li>
-<p><strong>Hohe Kundenzufriedenheit &amp; Weiterempfehlung:</strong> Krimidinner werden in Gruppen gespielt (meist 4 bis 8 Personen). Jeder gelungene Spieleabend erzeugt automatisch neue Begeisterung und organische Mundpropaganda bei allen Mitspielenden.</p>
-</li>
-<li>
-<p><strong>Optimierte Conversion &amp; Top-Qualität:</strong> Professionell geschriebene Fälle, ansprechend gestaltetes Digitalmaterial und ein intuitives Einlöse-System sorgen für eine hohe Kauf- und Abschlussquote.</p>
-</li>
-<li>
-<p><strong>Skalierbares Sortiment:</strong> Durch fortlaufend neue Fälle und Storylines entsteht ein hoher Wiederholungsbedarf für bestehende Kunden (Cross-Selling &amp; Stammkunden-Potential).</p>
-</li>
-</ol>
-<h2><br /><br />Worum geht’s?</h2>
-<p>In Omas großer roter Weihnachtsdose liegt jedes Jahr ganz oben ein besonderer Keks: Sternchen, der Glücksstern-Keks, der einen Weihnachtswunsch erfüllen soll. Diesmal ist er weg, noch bevor das Wunsch-Spiel überhaupt losgehen konnte! Ein fröhliches Detektiv-Krimidinner für 4 bis 6 kleine und große Spieler:innen, ganz ohne Gruseln - mit Keksen, Krümeln und ganz viel Weihnachtsstimmung.</p>
-<p><strong>Für wen lohnt sich das?</strong> Für Familien mit Kindern, die gemeinsam an Weihnachten ein lustiges Detektiv-Spiel erleben wollen: leicht verständlich, kindgerecht und ganz ohne Gruseln. Ideal für 4 bis 6 Spieler:innen ab etwa 6 Jahren, am besten mit einem Erwachsenen als Vorleser:in.</p>
-<h2>Das ist dabei</h2>
-<ul>
-<li>Rollenhefte für 6 Figuren, online und als PDF zum Ausdrucken</li>
-<li>Regie-Leitfaden für dich als Gastgeber:in, damit du entspannt mitspielen oder moderieren kannst</li>
-<li>4 Spielrunden mit Vorlese-Texten, Hinweisen und Aufgaben</li>
-<li>Auflösung zum gemeinsamen Vorlesen am Ende des Abends</li>
-<li>Menü-Vorschlag mit Rezepten passend zum Abend</li>
-<li>Jederzeit Zugriff in deinem Konto, du kannst den Fall später erneut mit anderen Gästen spielen</li>
-</ul>
-<h2>Das Opfer</h2>
-<div><strong>Sternchen, der Glücksstern-Keks</strong>
-<div>
-<div>Alter: Frisch gebacken, erst zwei Tage alt</div>
-<div>Beruf / Stellung: Der besondere Wunsch-Keks obenauf in der Weihnachtsdose</div>
-<div>Wohnort: Omas große rote Keksdose</div>
-<div>Familie: Umgeben von ganz vielen Keks-Geschwistern in der Dose</div>
-<p>Sternchen ist kein gewöhnlicher Keks: ein zimtiger Sternkeks mit weißer Zuckerglasur und bunten Streuseln, den Oma jedes Jahr besonders schön verziert. Der Familiengeschichte nach darf sich wünschen, wer Sternchen am Weihnachtsabend findet und isst. Deshalb liegt er jedes Jahr obenauf in der Dose, gut sichtbar für alle - bis er in diesem Jahr plötzlich spurlos verschwindet.</p>
-</div>
-</div>
-<p> </p>
+**Vendor's marketplace description:** Krimery.de – Das interaktive Krimidinner für zuhause Mit Krimery.de verwandelst du dein Wohnzimmer in den Schauplatz eines packenden Kriminalfalls! Unsere digitalen Krimidinner bieten dir und deinen Freunden das perfekte Event für einen unvergesslichen Spieleabend. Was macht Krimery besonders? 100 % Digital & Sofort Startklar: Kein Warten auf Post oder Versand – nach dem Kauf bzw. der Key-Einlösung könnt ihr direkt loslegen. Interaktives Spielerlebnis: Digitale Rollenakten, geheime Hinweise, Audiospuren und Beweismittel direkt auf Smartphone, Tablet oder Laptop. Perfekt für jeden Anlass: Ideal für Spieleabende mit Freunden, Geburtstage, Familienfeiern oder virtuelle Gaming-Events. Maximale Spannung & Rätselspaß: Ausgetüftelte Storylines, überraschende Wendungen und eine dichte Atmosphäre garantieren Nervenkitzel bis zur letzten Minute. Schlüpft in eure Rollen, sammelt Beweise, überführt den Täter – und findet heraus, wer unter euch am besten lügen kann! Warum Krimery.de das perfekte digitale Event-Produkt ist: Stark steigender Trend-Markt: Krimidinner und Escape Games sind beliebter denn je. Krimery schließt die Lücke zwischen klassischem Brettspiel und moderner digitaler Unterhaltung. Null Versandkosten, maximale Spontanität: Als rein digitales Produkt gibt es keine Lieferzeiten oder Lagerkosten. Das macht Krimery zum idealen Last-Minute-Geschenk und perfekten Impulskauf am Wochenende. Hohe Kundenzufriedenheit & Weiterempfehlung: Krimidinner werden in Gruppen gespielt (meist 4 bis 8 Personen). Jeder gelungene Spieleabend erzeugt automatisch neue Begeisterung und organische Mundpropaganda bei allen Mitspielenden. Optimierte Conversion & Top-Qualität: Professionell geschriebene Fälle, ansprechend gestaltetes Digitalmaterial und ein intuitives Einlöse-System sorgen für eine hohe Kauf- und Abschlussquote. Skalierbares Sortiment: Durch fortlaufend neue Fälle und Storylines entsteht ein hoher Wiederholungsbedarf für bestehende Kunden (Cross-Selling & Stammkunden-Potential). Worum geht’s? In Omas großer roter Weihnachtsdose liegt jedes Jahr ganz oben ein besonderer Keks: Sternchen, der Glücksstern-Keks, der einen Weihnachtswunsch erfüllen soll. Diesmal ist er weg, noch bevor das Wunsch-Spiel überhaupt losgehen konnte! Ein fröhliches Detektiv-Krimidinner für 4 bis 6 kleine und große Spieler:innen, ganz ohne Gruseln - mit Keksen, Krümeln und ganz viel Weihnachtsstimmung. Für wen lohnt sich das? Für Familien mit Kindern, die gemeinsam an Weihnachten ein lustiges Detektiv-Spiel erleben wollen: leicht verständlich, kindgerecht und ganz ohne Gruseln. Ideal für 4 bis 6 Spieler:innen ab etwa 6 Jahren, am besten mit einem Erwachsenen als Vorleser:in. Das ist dabei Rollenhefte für 6 Figuren, online und als PDF zum Ausdrucken Regie-Leitfaden für dich als Gastgeber:in, damit du entspannt mitspielen oder moderieren kannst 4 Spielrunden mit Vorlese-Texten, Hinweisen und Aufgaben Auflösung zum gemeinsamen Vorlesen am Ende des Abends Menü-Vorschlag mit Rezepten passend zum Abend Jederzeit Zugriff in deinem Konto, du kannst den Fall später erneut mit anderen Gästen spielen Das Opfer Sternchen, der Glücksstern-Keks Alter: Frisch gebacken, erst zwei Tage alt Beruf / Stellung: Der besondere Wunsch-Keks obenauf in der Weihnachtsdose Wohnort: Omas große rote Keksdose Familie: Umgeben von ganz vielen Keks-Geschwistern in der Dose Sternchen ist kein gewöhnlicher Keks: ein zimtiger Sternkeks mit weißer Zuckerglasur und bunten Streuseln, den Oma jedes Jahr besonders schön verziert. Der Familiengeschichte nach darf sich wünschen, wer Sternchen am Weihnachtsabend findet und isst. Deshalb liegt er jedes Jahr obenauf in der Dose, gut sichtbar für alle - bis er in diesem Jahr plötzlich spurlos verschwindet.
 
 ## 2. Links
 

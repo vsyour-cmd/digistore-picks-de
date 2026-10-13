@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du Live-Streams nutzt, um Vertrauen aufzubauen und Kunden zu gewinnen</strong></p>
-<p>Als Coach ist Live-Präsenz dein stärkstes Verkaufsargument – und Twitch gibt dir eine Bühne, die genau das ermöglicht. Dieses E-Book zeigt dir, wie du regelmäßige Live-Sessions nutzt, um Vertrauen aufzubauen, Fachwissen zu demonstrieren und planbar Erstgespräche zu generieren. Du lernst, wie du Q&amp;A-Streams und Coaching-Demos strukturierst, deinen Twitch-Kanal mit deinen Angeboten verknüpfst und über Chat-Interaktionen echte Interessenten identifizierst. Statt auf Reichweite zu hoffen, hast du nach diesem E-Book ein System: von der Kategorie-Wahl über Sub-Zonen als exklusive Kunden-Community bis zum Funnel in dein Coaching-Angebot.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Live-Content-Strategie, die Vertrauen und Coaching-Anfragen erzeugt</li>
-<li>Q&amp;A-Streams und Coaching-Demos professionell strukturieren</li>
-<li>Subscriber-Zonen als exklusive Community für bestehende Kunden nutzen</li>
-<li>Chat als Qualifizierungs-Tool: Interessenten erkennen und ansprechen</li>
-<li>Twitch-Kanal mit externem Funnel und Buchungs-Links verknüpfen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du Live-Streams nutzt, um Vertrauen aufzubauen und Kunden zu gewinnen Als Coach ist Live-Präsenz dein stärkstes Verkaufsargument – und Twitch gibt dir eine Bühne, die genau das ermöglicht. Dieses E-Book zeigt dir, wie du regelmäßige Live-Sessions nutzt, um Vertrauen aufzubauen, Fachwissen zu demonstrieren und planbar Erstgespräche zu generieren. Du lernst, wie du Q&A-Streams und Coaching-Demos strukturierst, deinen Twitch-Kanal mit deinen Angeboten verknüpfst und über Chat-Interaktionen echte Interessenten identifizierst. Statt auf Reichweite zu hoffen, hast du nach diesem E-Book ein System: von der Kategorie-Wahl über Sub-Zonen als exklusive Kunden-Community bis zum Funnel in dein Coaching-Angebot. Das steckt drin: Live-Content-Strategie, die Vertrauen und Coaching-Anfragen erzeugt Q&A-Streams und Coaching-Demos professionell strukturieren Subscriber-Zonen als exklusive Community für bestehende Kunden nutzen Chat als Qualifizierungs-Tool: Interessenten erkennen und ansprechen Twitch-Kanal mit externem Funnel und Buchungs-Links verknüpfen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

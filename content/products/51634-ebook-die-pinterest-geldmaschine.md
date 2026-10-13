@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für das eBook „Die Pinterest Geldmaschine“ und verdiene hohe Provisionen!</strong></p>
-<p><span style="background-color:#ffff00;">Mit unserem optimierten Funnel kannst du über 500 € pro Sale verdienen.</span></p>
-<p>Warum solltest du unser Produkt bewerben?</p>
-<ul>
-<li><span style="background-color:#ffff00;">50 % Provision auf das Hauptprodukt sowie auf Add-ons, Up- und Down-Sales</span></li>
-<li>Hohe Verdienstmöglichkeiten – über 500 € pro Sale möglich</li>
-<li>Hochkonvertierender Funnel, der ständig optimiert und erweitert wird</li>
-<li>Perfekt für alle, die mit Pinterest ein passives Einkommen aufbauen wollen</li>
-<li>Professionelles Werbematerial für eine einfache und effektive Promotion</li>
-</ul>
-<p>Jetzt bewerben und passiv verdienen!</p>
-<p>Sichere dir deine Affiliate-Provision und starte noch heute.</p>
+**Vendor's marketplace description:** Werde Affiliate für das eBook „Die Pinterest Geldmaschine“ und verdiene hohe Provisionen! Mit unserem optimierten Funnel kannst du über 500 € pro Sale verdienen. Warum solltest du unser Produkt bewerben? 50 % Provision auf das Hauptprodukt sowie auf Add-ons, Up- und Down-Sales Hohe Verdienstmöglichkeiten – über 500 € pro Sale möglich Hochkonvertierender Funnel, der ständig optimiert und erweitert wird Perfekt für alle, die mit Pinterest ein passives Einkommen aufbauen wollen Professionelles Werbematerial für eine einfache und effektive Promotion Jetzt bewerben und passiv verdienen! Sichere dir deine Affiliate-Provision und starte noch heute.
 
 ## 2. Links
 

@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Info für Affiliates - <span style="background-color:#ffcc00;">Jeder 4. kauft das ABO!</span></strong></p>
-<p><span style="text-decoration:underline;">Dein Verdienst:</span></p>
-<ul>
-<li>Einstiegsprodukt 1€ = 0€ (Gebühr Digistore)</li>
-<li>Upsell 1 KI Webinar Abo Produkt 39€ = 50%</li>
-<li>Provision + weitere Upsells mit bis zu 150€</li>
-</ul>
-<p><span style="text-decoration:underline;">Dein Vorteil:</span></p>
-<ul>
-<li>Produkt aus der Online Geld verdienen Nische</li>
-<li><strong>Verkaufsstarke und professionelle Werbemittel</strong></li>
-<li>Konversionstarke Präsentation</li>
-<li><strong>niedrige Einstiegshürde von 1€</strong></li>
-<li>Ein Produkt mit enormen Mehrwehrt</li>
-<li><strong>ständige Conversion Optimierung</strong><br /><br />Andauernde Split-Tests für optimale Conversionrate Mehr Informationen findest du auf unserer <br /><a href="https://partnerseite.myfunnelcockpit.com/" target="_blank" rel="noreferrer noopener">"Affiliate-Support-Seite" Klicke Hier</a></li>
-</ul>
-<div> </div>
+**Vendor's marketplace description:** Info für Affiliates - Jeder 4. kauft das ABO! Dein Verdienst: Einstiegsprodukt 1€ = 0€ (Gebühr Digistore) Upsell 1 KI Webinar Abo Produkt 39€ = 50% Provision + weitere Upsells mit bis zu 150€ Dein Vorteil: Produkt aus der Online Geld verdienen Nische Verkaufsstarke und professionelle Werbemittel Konversionstarke Präsentation niedrige Einstiegshürde von 1€ Ein Produkt mit enormen Mehrwehrt ständige Conversion Optimierung Andauernde Split-Tests für optimale Conversionrate Mehr Informationen findest du auf unserer "Affiliate-Support-Seite" Klicke Hier
 
 ## 2. Links
 

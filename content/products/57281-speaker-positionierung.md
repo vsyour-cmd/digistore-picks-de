@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Speaker-Positionierung“</strong></p>
-<p>Wie du zur ersten Wahl wirst – Im Speaker-Markt wird gebucht, wer klar für ein Thema steht. Deine Nische und Kernbotschaft, ein klares Profil, Sichtbarkeit über die richtigen Kanäle, Referenzen und ein überzeugender Auftritt.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Warum Positionierung über Buchungen entscheidet</li>
-<li>Nische, Kernbotschaft und ein klares Profil</li>
-<li>Sichtbarkeit über die richtigen Kanäle</li>
-<li>Ehrliche Außendarstellung und Urheberrecht</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Speaker-Positionierung“ Wie du zur ersten Wahl wirst – Im Speaker-Markt wird gebucht, wer klar für ein Thema steht. Deine Nische und Kernbotschaft, ein klares Profil, Sichtbarkeit über die richtigen Kanäle, Referenzen und ein überzeugender Auftritt. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Warum Positionierung über Buchungen entscheidet Nische, Kernbotschaft und ein klares Profil Sichtbarkeit über die richtigen Kanäle Ehrliche Außendarstellung und Urheberrecht
 
 ## 2. Links
 

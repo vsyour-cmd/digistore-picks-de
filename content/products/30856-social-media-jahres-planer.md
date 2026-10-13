@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1 style="text-align:left;"><span style="background-color:#ff0000;color:#ffffff;">365 Tage innovative Ideen mit dem "Social Media Jahres Planer"</span></h1>
-<p>Mit dem "<strong>Social Media Jahres Planer</strong>" bekommst du für 365 Tage überzeugende Social Media Posting Ideen an die Hand, feinsäuberlich zusammengestellt.</p>
-<p>… <strong>+ </strong>…</p>
-<p><strong>102 kreative Fragen</strong>, die du deinen Kontakten stellen kannst, die für mehr Interaktion sorgen werden.</p>
-<p> </p>
-<p><strong>Der Social Media Jahres Planer ist unterteilt in 12 Monate</strong>, der jeden Tag <strong>inspirierende Ideen</strong> und anschauliche Beispiele für deine Postings liefert.</p>
-<p>Der <strong>Social Media Jahres Planer</strong> verschafft dir bis zu <strong>97%</strong> <strong>mehr Aufmerksamkeit</strong> in Facebook, Instagram, Pinterest, Twitter, LinkedIn und vielen anderen sozialen Netzwerken, stärkt dein Branding, generiert dir so mehr Traffic und erhöht deinen Umsatz. </p>
-<h3><span style="color:#ff0000;"><strong>Auf den Punkt:</strong></span></h3>
-<ul>
-<li>
-<p>Du bekommst <strong>50% Provision</strong> für jeden Verkauf</p>
-</li>
-<li>Die Seite wird ständig optimiert für starke Conersions</li>
-<li>
-<p>Die Abrechnung erfolgt über Digistore24</p>
-</li>
-</ul>
-<p>Alle Werbemittel findest du auf unserer Partnerprogrammseite - <a href="https://docs.google.com/document/d/1EvclKawCq2SKd55RUcyVfwLLjL-hawAdfupt-hpZ-1A/edit?usp=sharing" target="_blank" rel="noreferrer noopener"><strong>Hier klicken</strong></a></p>
-<p> </p>
+**Vendor's marketplace description:** 365 Tage innovative Ideen mit dem "Social Media Jahres Planer" Mit dem " Social Media Jahres Planer " bekommst du für 365 Tage überzeugende Social Media Posting Ideen an die Hand, feinsäuberlich zusammengestellt. … + … 102 kreative Fragen , die du deinen Kontakten stellen kannst, die für mehr Interaktion sorgen werden. Der Social Media Jahres Planer ist unterteilt in 12 Monate , der jeden Tag inspirierende Ideen und anschauliche Beispiele für deine Postings liefert. Der Social Media Jahres Planer verschafft dir bis zu 97% mehr Aufmerksamkeit in Facebook, Instagram, Pinterest, Twitter, LinkedIn und vielen anderen sozialen Netzwerken, stärkt dein Branding, generiert dir so mehr Traffic und erhöht deinen Umsatz. Auf den Punkt: Du bekommst 50% Provision für jeden Verkauf Die Seite wird ständig optimiert für starke Conersions Die Abrechnung erfolgt über Digistore24 Alle Werbemittel findest du auf unserer Partnerprogrammseite - Hier klicken
 
 ## 2. Links
 

@@ -41,45 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der komplette Weg vom leeren Blatt zum fertigen, verkaufsfertigen eBook</strong> – mit Claude zum Schreiben und Canva zum Gestalten. 77 Seiten, vier Teile, ein 14-Tage-Fahrplan.</p>
-<p><strong>Für wen:</strong> Coaches, Berater und Selbstständige, die ihr Wissen zu einem eigenen Produkt machen wollen – und alle, die schon einmal an einem eBook gescheitert sind, weil die leere Seite gewonnen hat. Keine Vorkenntnisse in KI oder Design nötig.</p>
-<p><strong>Das steckt drin:</strong></p>
-<p> </p>
-<p> </p>
-<ul>
-<li>
-<ul>
-<li><strong>Teil 1 – Das Fundament:</strong> Was ein eBook heute wirklich verkauft, und für wen du eigentlich schreibst. Das 3-Säulen-Modell und der Avatar, der jede spätere Entscheidung abnimmt.</li>
-</ul>
-</li>
-</ul>
-<p> </p>
-<ul>
-<li>
-<ul>
-<li><strong>Teil 2 – Schreiben mit Claude:</strong> Autoren-Briefing, tragfähige Gliederung und der Kapitel-Loop, mit dem 60 Seiten in sechs Tagen entstehen. Dazu Redigieren, Faktencheck und der Anti-KI-Sound-Filter, damit der Text nach dir klingt und nicht nach Maschine.</li>
-</ul>
-</li>
-</ul>
-<p> </p>
-<ul>
-<li>
-<ul>
-<li><strong>Teil 3 – Gestalten mit Canva:</strong> Die sieben Funktionen, die 90 % der Arbeit machen. Infoboxen und Grafiken ohne Zeichentalent. Ein Cover, das im Thumbnail funktioniert – inklusive 3-Sekunden-Test.</li>
-</ul>
-</li>
-</ul>
-<p> </p>
-<ul>
-<li>
-<ul>
-<li><strong>Teil 4 – Veröffentlichen und Verkaufen:</strong> Export nach PDF, EPUB und Kindle, die 12-Punkte-Endkontrolle, und Rechtliches ohne Kopfschmerzen: Impressum, Urheberrecht, KI-Kennzeichnung, Steuern.</li>
-</ul>
-</li>
-</ul>
-<p> </p>
-<p><strong>Im Anhang:</strong> 14-Tage-Fahrplan mit Zeitbudget für jeden Tag, 30 Copy-und-Paste-Prompts, alle Checklisten am Stück und ein Mini-Glossar.</p>
-<p><strong>Auslieferung:</strong> PDF als Sofort-Download, lesbar auf Rechner, Tablet und E-Reader.</p>
+**Vendor's marketplace description:** Der komplette Weg vom leeren Blatt zum fertigen, verkaufsfertigen eBook – mit Claude zum Schreiben und Canva zum Gestalten. 77 Seiten, vier Teile, ein 14-Tage-Fahrplan. Für wen: Coaches, Berater und Selbstständige, die ihr Wissen zu einem eigenen Produkt machen wollen – und alle, die schon einmal an einem eBook gescheitert sind, weil die leere Seite gewonnen hat. Keine Vorkenntnisse in KI oder Design nötig. Das steckt drin: Teil 1 – Das Fundament: Was ein eBook heute wirklich verkauft, und für wen du eigentlich schreibst. Das 3-Säulen-Modell und der Avatar, der jede spätere Entscheidung abnimmt. Teil 2 – Schreiben mit Claude: Autoren-Briefing, tragfähige Gliederung und der Kapitel-Loop, mit dem 60 Seiten in sechs Tagen entstehen. Dazu Redigieren, Faktencheck und der Anti-KI-Sound-Filter, damit der Text nach dir klingt und nicht nach Maschine. Teil 3 – Gestalten mit Canva: Die sieben Funktionen, die 90 % der Arbeit machen. Infoboxen und Grafiken ohne Zeichentalent. Ein Cover, das im Thumbnail funktioniert – inklusive 3-Sekunden-Test. Teil 4 – Veröffentlichen und Verkaufen: Export nach PDF, EPUB und Kindle, die 12-Punkte-Endkontrolle, und Rechtliches ohne Kopfschmerzen: Impressum, Urheberrecht, KI-Kennzeichnung, Steuern. Im Anhang: 14-Tage-Fahrplan mit Zeitbudget für jeden Tag, 30 Copy-und-Paste-Prompts, alle Checklisten am Stück und ein Mini-Glossar. Auslieferung: PDF als Sofort-Download, lesbar auf Rechner, Tablet und E-Reader.
 
 ## 2. Links
 

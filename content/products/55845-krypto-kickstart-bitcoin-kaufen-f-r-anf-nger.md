@@ -41,68 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Krypto-Kickstart - Strukturierter Bitcoin-Einstieg für Anfänger</strong></p>
-<p>Ein 4-Wochen-Online-Programm für deine Zielgruppe, die endlich in Bitcoin investieren will – aber nicht weiß, wie sie sicher starten soll.</p>
-<p><strong>Preis:</strong> 299 € Einmalzahlung - oder in 2 bzw. 3 Raten</p>
-<hr />
-<p><strong>Das Problem deiner Zielgruppe:</strong></p>
-<ul>
-<li>Wollen Bitcoin kaufen, haben aber Angst vor Fehlern</li>
-<li>Wissen nicht, welche Börse sicher ist</li>
-<li>Verstehen Wallets, Seeds und Sicherheit nicht</li>
-<li>Fürchten sich vor Scams und Verlust</li>
-<li>Keine Ahnung, wie man bei Crashs reagiert</li>
-</ul>
-<p><strong>Die Lösung:</strong> Krypto-Kickstart zeigt Schritt für Schritt, wie man Bitcoin strukturiert kauft, sicher verwahrt und langfristig hält.</p>
-<hr />
-<p><strong>4 Module:</strong></p>
-<ul>
-<li>Woche 1: Börse sicher einrichten (2FA, Verifizierung, erste Einzahlung)</li>
-<li>Woche 2: Strukturierter Einstieg (4-Wochen-Investmentplan statt Timing-Panik)</li>
-<li>Woche 3: Verwahrung verstehen (Börse vs. Wallet, Seed-Phrase-Sicherung)</li>
-<li>Woche 4: Crash-Plan (Was tun bei -20 %, -30 %, -50 %?)</li>
-</ul>
-<p><strong>Bonus:</strong></p>
-<ul>
-<li>Krypto-Marktüberblick (Einordnung Bitcoin, Altcoins, Marktzyklen)</li>
-<li>Zugang zur Coin Circle Community (Austausch, Fragen, Support)</li>
-</ul>
-<hr />
-<p><strong>Zielgruppe:</strong></p>
-<ul>
-<li>Krypto-Einsteiger 35–55+ Jahre</li>
-<li>Konservative Anleger, die langfristig denken</li>
-<li>Menschen mit Sicherheitsbedenken</li>
-<li>Keine Trader, keine Spekulanten</li>
-</ul>
-<hr />
-<p><strong>Warum affiliieren?</strong></p>
-<ul>
-<li><strong>13,4 % Conversion-Rate auf dem Bestellformular</strong></li>
-<li><strong>50 % Provision</strong> — 299 € Produktpreis</li>
-<li><strong>Swipe-Copy &amp; Marketing-Materialien werden gestellt</strong></li>
-<li>Hohe Nachfrage (Bitcoin-Interesse steigt konstant)</li>
-<li>Seriöses Produkt (keine Hype-Versprechen, keine Trading-Signale)</li>
-<li>Langfristige Positionierung (kein "Get Rich Quick")</li>
-<li>30 Tage Geld-zurück-Garantie</li>
-</ul>
-<hr />
-<p><strong>Für wen ist das Produkt NICHT geeignet:</strong></p>
-<ul>
-<li>Trader, Day-Trader</li>
-<li>Leute, die schnelle Gewinne suchen</li>
-<li>Altcoin-Spekulanten</li>
-<li>Menschen unter 18 Jahren</li>
-</ul>
-<hr />
-<p><strong>Marketing-Materialien:</strong></p>
-<ul>
-<li>Sales-Video verfügbar</li>
-<li>E-Mail-Vorlagen verfügbar</li>
-<li>Landingpage optimiert für Conversion</li>
-</ul>
-<hr />
-<p><strong>Creator:</strong> Kevin Stephan, seit 2017 im Krypto-Markt, Gründer von TechTree (2.000+ Teilnehmer weltweit).</p>
+**Vendor's marketplace description:** Krypto-Kickstart - Strukturierter Bitcoin-Einstieg für Anfänger Ein 4-Wochen-Online-Programm für deine Zielgruppe, die endlich in Bitcoin investieren will – aber nicht weiß, wie sie sicher starten soll. Preis: 299 € Einmalzahlung - oder in 2 bzw. 3 Raten Das Problem deiner Zielgruppe: Wollen Bitcoin kaufen, haben aber Angst vor Fehlern Wissen nicht, welche Börse sicher ist Verstehen Wallets, Seeds und Sicherheit nicht Fürchten sich vor Scams und Verlust Keine Ahnung, wie man bei Crashs reagiert Die Lösung: Krypto-Kickstart zeigt Schritt für Schritt, wie man Bitcoin strukturiert kauft, sicher verwahrt und langfristig hält. 4 Module: Woche 1: Börse sicher einrichten (2FA, Verifizierung, erste Einzahlung) Woche 2: Strukturierter Einstieg (4-Wochen-Investmentplan statt Timing-Panik) Woche 3: Verwahrung verstehen (Börse vs. Wallet, Seed-Phrase-Sicherung) Woche 4: Crash-Plan (Was tun bei -20 %, -30 %, -50 %?) Bonus: Krypto-Marktüberblick (Einordnung Bitcoin, Altcoins, Marktzyklen) Zugang zur Coin Circle Community (Austausch, Fragen, Support) Zielgruppe: Krypto-Einsteiger 35–55+ Jahre Konservative Anleger, die langfristig denken Menschen mit Sicherheitsbedenken Keine Trader, keine Spekulanten Warum affiliieren? 13,4 % Conversion-Rate auf dem Bestellformular 50 % Provision — 299 € Produktpreis Swipe-Copy & Marketing-Materialien werden gestellt Hohe Nachfrage (Bitcoin-Interesse steigt konstant) Seriöses Produkt (keine Hype-Versprechen, keine Trading-Signale) Langfristige Positionierung (kein "Get Rich Quick") 30 Tage Geld-zurück-Garantie Für wen ist das Produkt NICHT geeignet: Trader, Day-Trader Leute, die schnelle Gewinne suchen Altcoin-Spekulanten Menschen unter 18 Jahren Marketing-Materialien: Sales-Video verfügbar E-Mail-Vorlagen verfügbar Landingpage optimiert für Conversion Creator: Kevin Stephan, seit 2017 im Krypto-Markt, Gründer von TechTree (2.000+ Teilnehmer weltweit).
 
 ## 2. Links
 

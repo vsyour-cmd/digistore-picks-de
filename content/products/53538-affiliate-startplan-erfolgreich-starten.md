@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Affiliate Startplan in 5 Schritten – Der strukturierte Einstieg ins Affiliate-Marketing</p>
-<p>Der perfekte Einstieg für Menschen, die Affiliate-Marketing verstehen und Schritt für Schritt ein eigenes System aufbauen möchten.</p>
-<p>Warum dieses Produkt bewerben?</p>
-<p>✓ 80 % Provision auf jeden Verkauf<br />✓ Professionelle Verkaufsseite<br />✓ Fertige Werbemittel für deine Promotion<br />✓ Klare Produktstruktur für Einsteiger<br />✓ Idealer Einstieg in eine komplette Affiliate-Produktleiter</p>
-<p>Der Affiliate Startplan ist der erste Schritt einer aufgebauten Produktreihe:</p>
-<p>1. Affiliate Startplan – Grundlagen und Einstieg<br />2. Affiliate Profits – Das System für strukturiertes Affiliate-Marketing<br />3. Provision Mastery – Strategien für die nächste Stufe</p>
-<p>Du bewirbst kein einzelnes PDF, sondern einen nachvollziehbaren Weg für Menschen, die mit Affiliate-Marketing starten möchten.</p>
-<p>Als Partner erhältst du Unterstützung, Werbematerialien und eine eigene Partnerseite mit fertigen Vorlagen.</p>
-<p><strong>Als Partner erhältst du Zugriff auf unsere exklusive Partnerseite mit fertigen E-Mail-Vorlagen, Social-Media-Posts, und weiteren Werbemitteln:</strong></p>
-<p><a href="https://stephantiegel.online/partnerprogramm" target="_blank" rel="noreferrer noopener">https://stephantiegel.online/partnerprogramm</a></p>
+**Vendor's marketplace description:** Affiliate Startplan in 5 Schritten – Der strukturierte Einstieg ins Affiliate-Marketing Der perfekte Einstieg für Menschen, die Affiliate-Marketing verstehen und Schritt für Schritt ein eigenes System aufbauen möchten. Warum dieses Produkt bewerben? ✓ 80 % Provision auf jeden Verkauf ✓ Professionelle Verkaufsseite ✓ Fertige Werbemittel für deine Promotion ✓ Klare Produktstruktur für Einsteiger ✓ Idealer Einstieg in eine komplette Affiliate-Produktleiter Der Affiliate Startplan ist der erste Schritt einer aufgebauten Produktreihe: 1. Affiliate Startplan – Grundlagen und Einstieg 2. Affiliate Profits – Das System für strukturiertes Affiliate-Marketing 3. Provision Mastery – Strategien für die nächste Stufe Du bewirbst kein einzelnes PDF, sondern einen nachvollziehbaren Weg für Menschen, die mit Affiliate-Marketing starten möchten. Als Partner erhältst du Unterstützung, Werbematerialien und eine eigene Partnerseite mit fertigen Vorlagen. Als Partner erhältst du Zugriff auf unsere exklusive Partnerseite mit fertigen E-Mail-Vorlagen, Social-Media-Posts, und weiteren Werbemitteln: https://stephantiegel.online/partnerprogramm
 
 ## 2. Links
 

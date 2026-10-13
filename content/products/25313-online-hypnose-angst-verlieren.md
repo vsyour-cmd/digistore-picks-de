@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><big>Hypnose Kurs: "Von Angst und Panikattacken befreit"</big></h2>
-<h4>1,5 Stunden On-demand Videos für:</h4>
-<ul><li>Mehr Entspannung</li>
-<li>Stärkeres Gefühl von Sicherheit</li>
-<li>Positive Gedanken</li>
-<li>Bessere Selbstkontrolle</li>
-</ul><p><strong>Kursinhalte, Bewertungen und Vorschauvideos auf der Verkaufsseite.</strong></p>
+**Vendor's marketplace description:** Hypnose Kurs: "Von Angst und Panikattacken befreit" 1,5 Stunden On-demand Videos für: Mehr Entspannung Stärkeres Gefühl von Sicherheit Positive Gedanken Bessere Selbstkontrolle Kursinhalte, Bewertungen und Vorschauvideos auf der Verkaufsseite.
 
 ## 2. Links
 

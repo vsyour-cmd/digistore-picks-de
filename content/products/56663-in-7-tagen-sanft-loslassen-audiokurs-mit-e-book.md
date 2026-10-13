@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Loslassen lernen | Ein Online-Audio-Kurs in 7 Schritten</p>
-<div>
-<p>"In 7 Tagen sanft loslassen" ist ein ebenso effektiver, wie einfühlsamer Selfcare-Online-Audiokurs, der dich dabei unterstützt mentalen Müll und Dinge, die dich blockieren loszulassen.</p>
-<p>Das begleitende E-Book unterstützt mit weiteren Texten, Übungen und positiven Affirmationen.</p>
-<p><strong>Lasse jetzt los.</strong></p>
-</div>
+**Vendor's marketplace description:** Loslassen lernen | Ein Online-Audio-Kurs in 7 Schritten "In 7 Tagen sanft loslassen" ist ein ebenso effektiver, wie einfühlsamer Selfcare-Online-Audiokurs, der dich dabei unterstützt mentalen Müll und Dinge, die dich blockieren loszulassen. Das begleitende E-Book unterstützt mit weiteren Texten, Übungen und positiven Affirmationen. Lasse jetzt los.
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Selbstliebe-Kompass ist ein digitales PDF-Workbook von Good Life Harmony für Frauen und Mütter, die sich nach mehr Nervensystem-Ruhe, Selbstliebe und Verbindung zu sich selbst sehnen. Auf ca. 25 Seiten verbindet es Test, Quiz, ehrliche Übungen und wahre Worte zu einem warmen, sofort umsetzbaren Begleiter für den Alltag.</p>
-<p>Das Thema Selbstliebe, Nervensystem und inneres Kind trifft aktuell einen Nerv – besonders bei Frauen, Müttern und allen, die sich im Alltag erschöpft vom Funktionieren fühlen. Der niedrige Preispunkt von 19 € senkt die Kaufhürde deutlich und eignet sich hervorragend für Newsletter, Social-Media-Posts oder Blogartikel.</p>
-<p>Als Partner erhältst du 50 % Provision auf jeden Verkauf (9,50 € pro Sale). Es handelt sich um ein reines Digitalprodukt: sofortiger Download, keine Versandthemen, keine Retouren.</p>
-<p>Werbematerial (Textvorschläge, Cover-Bild) stelle ich auf Anfrage gerne zur Verfügung.</p>
+**Vendor's marketplace description:** Der Selbstliebe-Kompass ist ein digitales PDF-Workbook von Good Life Harmony für Frauen und Mütter, die sich nach mehr Nervensystem-Ruhe, Selbstliebe und Verbindung zu sich selbst sehnen. Auf ca. 25 Seiten verbindet es Test, Quiz, ehrliche Übungen und wahre Worte zu einem warmen, sofort umsetzbaren Begleiter für den Alltag. Das Thema Selbstliebe, Nervensystem und inneres Kind trifft aktuell einen Nerv – besonders bei Frauen, Müttern und allen, die sich im Alltag erschöpft vom Funktionieren fühlen. Der niedrige Preispunkt von 19 € senkt die Kaufhürde deutlich und eignet sich hervorragend für Newsletter, Social-Media-Posts oder Blogartikel. Als Partner erhältst du 50 % Provision auf jeden Verkauf (9,50 € pro Sale). Es handelt sich um ein reines Digitalprodukt: sofortiger Download, keine Versandthemen, keine Retouren. Werbematerial (Textvorschläge, Cover-Bild) stelle ich auf Anfrage gerne zur Verfügung.
 
 ## 2. Links
 

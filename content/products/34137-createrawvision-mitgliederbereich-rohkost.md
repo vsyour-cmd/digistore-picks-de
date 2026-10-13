@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ich bin Angie von CreateRawVision und unterstütze Meschen mit unserem Mitgliederbereich auf ihrem Weg in eine bewusste und vegane Rohkost-Ernährung.</p>
-<p>In unserem Mitgliederbereich gibt es über 1.500 Rezepte, 50 Tutorials, den Einsteigerkurs „Dein Weg zur Rohkost Leicht Gemacht“ und vieles mehr. Ausführlichere Informationen findest du <a href="https://createrawvision.de" target="_blank" rel="noreferrer noopener">auf unserer Startseite</a>.</p>
-<p>Ich freue mich, wenn ich mit dir Hand in Hand die vegane Rohkost-Ernährung verbreiten kann, um anderen Menschen zu einem bewussten Leben zu verhelfen. Deine Unterstützung ist uns dabei <strong>50 %</strong> vom Erlös wert.</p>
-<p>Ich freue mich auf eine Zusammenarbeit mit dir,<br />Angie</p>
-<p> </p>
-<p>PS: Mein Mitgliederplugin verlangt, dass die Nutzer sich erst auf unserem Server registrieren. Die Zahlungspläne werden dynamisch erzeugt. Deshalb steht hier 0,00 €. Die üblichen Preise sind 19,00 € pro Monat oder 120,00 € pro Jahr. Beim Monatsabo erhältst du dauerhaft 50 % Provision und beim Jahresabo einmalig 34,75 € (~ 50 %). Bei einem Upgrade auf ein Jahresabo erhältst du auch diese Provision.</p>
+**Vendor's marketplace description:** Ich bin Angie von CreateRawVision und unterstütze Meschen mit unserem Mitgliederbereich auf ihrem Weg in eine bewusste und vegane Rohkost-Ernährung. In unserem Mitgliederbereich gibt es über 1.500 Rezepte, 50 Tutorials, den Einsteigerkurs „Dein Weg zur Rohkost Leicht Gemacht“ und vieles mehr. Ausführlichere Informationen findest du auf unserer Startseite . Ich freue mich, wenn ich mit dir Hand in Hand die vegane Rohkost-Ernährung verbreiten kann, um anderen Menschen zu einem bewussten Leben zu verhelfen. Deine Unterstützung ist uns dabei 50 % vom Erlös wert. Ich freue mich auf eine Zusammenarbeit mit dir, Angie PS: Mein Mitgliederplugin verlangt, dass die Nutzer sich erst auf unserem Server registrieren. Die Zahlungspläne werden dynamisch erzeugt. Deshalb steht hier 0,00 €. Die üblichen Preise sind 19,00 € pro Monat oder 120,00 € pro Jahr. Beim Monatsabo erhältst du dauerhaft 50 % Provision und beim Jahresabo einmalig 34,75 € (~ 50 %). Bei einem Upgrade auf ein Jahresabo erhältst du auch diese Provision.
 
 ## 2. Links
 

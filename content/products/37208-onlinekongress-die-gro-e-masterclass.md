@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die große Onlinekongress Masterclass • </strong><strong>Wir surfen Dich durch und stellen Deinen Onlinekongress mit Dir auf die Beine. </strong></p>
-<p>Affiliate-Provision: 20% = ca. 950€</p>
-<p>Wir bieten in diesem Paket:<br />+ Wöchentliche Masterclass (unbeschränkt!)<br />+ 10x Joker • Persönliche Coachings<br />+ OKS-Software-Lizenz<br />+ Technischer Support<br />+ Whatsapp-Support<br />+ Viele Anleitungen • Checklisten • Vorlagen<br />Starte jetzt mit Deinem eigenen Onlinekongress durch!</p>
+**Vendor's marketplace description:** Die große Onlinekongress Masterclass • Wir surfen Dich durch und stellen Deinen Onlinekongress mit Dir auf die Beine. Affiliate-Provision: 20% = ca. 950€ Wir bieten in diesem Paket: + Wöchentliche Masterclass (unbeschränkt!) + 10x Joker • Persönliche Coachings + OKS-Software-Lizenz + Technischer Support + Whatsapp-Support + Viele Anleitungen • Checklisten • Vorlagen Starte jetzt mit Deinem eigenen Onlinekongress durch!
 
 ## 2. Links
 

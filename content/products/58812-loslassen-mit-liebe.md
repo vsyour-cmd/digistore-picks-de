@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>„Loslassen mit Liebe – Wenn Kinder flügge werden und Eltern neu anfangen“ ist ein einfühlsamer Ratgeber für Mütter und Väter, deren Kinder ausziehen oder bereits ein eigenes Leben begonnen haben.</p>
-<p>Wenn das Kinderzimmer plötzlich leer bleibt, beginnt auch für die Eltern ein neuer Lebensabschnitt. Stolz und Freude können sich mit Wehmut, Verlustgefühlen und der Frage verbinden, wie das eigene Leben nun weitergehen soll.</p>
-<p>Das E-Book zeigt verständnisvoll, wie Eltern ihre Kinder loslassen können, ohne die liebevolle Verbindung zu verlieren. Es behandelt unter anderem den Umgang mit der ungewohnten Stille, Schuldgefühlen und Veränderungen innerhalb der Partnerschaft. Zugleich ermutigt es dazu, die eigene Identität jenseits der Elternrolle wiederzuentdecken, persönliche Wünsche ernst zu nehmen und den neuen Alltag bewusst zu gestalten.</p>
-<p>Der Ratgeber vermittelt einfühlsame Gedanken und alltagstaugliche Impulse für einen liebevollen Übergang in diese neue Lebensphase.</p>
-<p>Das vollständige E-Book umfasst 107 Seiten und wird nach erfolgreicher Bestellung sofort digital als PDF-Datei bereitgestellt. Der Verkaufspreis beträgt einmalig 9,99 €.</p>
+**Vendor's marketplace description:** „Loslassen mit Liebe – Wenn Kinder flügge werden und Eltern neu anfangen“ ist ein einfühlsamer Ratgeber für Mütter und Väter, deren Kinder ausziehen oder bereits ein eigenes Leben begonnen haben. Wenn das Kinderzimmer plötzlich leer bleibt, beginnt auch für die Eltern ein neuer Lebensabschnitt. Stolz und Freude können sich mit Wehmut, Verlustgefühlen und der Frage verbinden, wie das eigene Leben nun weitergehen soll. Das E-Book zeigt verständnisvoll, wie Eltern ihre Kinder loslassen können, ohne die liebevolle Verbindung zu verlieren. Es behandelt unter anderem den Umgang mit der ungewohnten Stille, Schuldgefühlen und Veränderungen innerhalb der Partnerschaft. Zugleich ermutigt es dazu, die eigene Identität jenseits der Elternrolle wiederzuentdecken, persönliche Wünsche ernst zu nehmen und den neuen Alltag bewusst zu gestalten. Der Ratgeber vermittelt einfühlsame Gedanken und alltagstaugliche Impulse für einen liebevollen Übergang in diese neue Lebensphase. Das vollständige E-Book umfasst 107 Seiten und wird nach erfolgreicher Bestellung sofort digital als PDF-Datei bereitgestellt. Der Verkaufspreis beträgt einmalig 9,99 €.
 
 ## 2. Links
 

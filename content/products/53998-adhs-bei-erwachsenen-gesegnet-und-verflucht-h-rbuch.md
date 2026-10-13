@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>ADHS bei Erwachsenen: Oft spät diagnostiziert bringt Herausforderungen, aber auch verborgene Stärken mit sich. In <em>Gesegnet und Verflucht</em> erzählt Timo Konzelmann seine persönliche Geschichte und zeigt, wie die ketogene Ernährung (Keto) und eine neue Sichtweise helfen können, den Alltag zu meistern. Dieses Hörbuch richtet sich an Erwachsene mit ADHS, die nach Klarheit, praktischen Lösungen und Impulsen suchen. Authentisch, ehrlich und voller Energie. Ein Hörbuch, bei dem du direkt von echten Erfahrungen profitierst.</p>
-<p>Hörbuch im m4b-Format mit Kapitelmarken + exklusive Bonus-PDFs mit Kapitelsammlungen &amp; Keto-Guides.Starte jetzt.</p>
+**Vendor's marketplace description:** ADHS bei Erwachsenen: Oft spät diagnostiziert bringt Herausforderungen, aber auch verborgene Stärken mit sich. In Gesegnet und Verflucht erzählt Timo Konzelmann seine persönliche Geschichte und zeigt, wie die ketogene Ernährung (Keto) und eine neue Sichtweise helfen können, den Alltag zu meistern. Dieses Hörbuch richtet sich an Erwachsene mit ADHS, die nach Klarheit, praktischen Lösungen und Impulsen suchen. Authentisch, ehrlich und voller Energie. Ein Hörbuch, bei dem du direkt von echten Erfahrungen profitierst. Hörbuch im m4b-Format mit Kapitelmarken + exklusive Bonus-PDFs mit Kapitelsammlungen & Keto-Guides.Starte jetzt.
 
 ## 2. Links
 

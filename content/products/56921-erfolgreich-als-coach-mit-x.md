@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du mit Tweets, Threads und DMs deine Expertise zeigst und Kunden gewinnst</strong></p>
-<p>X ist für Coaches und Experten eine der direktesten Plattformen, um Vertrauen aufzubauen und Leads zu gewinnen – wenn du weißt, wie. Dieses E-Book zeigt dir, wie du Threads schreibst, die dein Fachwissen belegen, ohne alles zu verschenken, wie du durch Build-in-public echte Bindung aufbaust und wie du Replies und Quote-Posts gezielt einsetzt, um in deiner Nische sichtbar zu werden. Du lernst, wie du aus Followern Interessenten machst, die DMs öffnen und Erstgespräche buchen. Dazu: ein klarer Audience-to-Lead-Funnel und Vorlagen für DMs, die nicht nach Spam klingen. Wer X als Coach richtig nutzt, braucht keine teuren Ads – der Algorithmus belohnt Tiefe, Konversation und Mehrwert.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Threads schreiben, die Expertise zeigen und viral gehen</li>
-<li>Build-in-public: echte Bindung durch transparente Einblicke</li>
-<li>Der Audience-to-Lead-Funnel: vom Follower zum Erstkontakt</li>
-<li>DMs richtig nutzen – ohne aufdringlich zu wirken</li>
-<li>Quote-Posts &amp; Replies für maximale Nischen-Sichtbarkeit</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du mit Tweets, Threads und DMs deine Expertise zeigst und Kunden gewinnst X ist für Coaches und Experten eine der direktesten Plattformen, um Vertrauen aufzubauen und Leads zu gewinnen – wenn du weißt, wie. Dieses E-Book zeigt dir, wie du Threads schreibst, die dein Fachwissen belegen, ohne alles zu verschenken, wie du durch Build-in-public echte Bindung aufbaust und wie du Replies und Quote-Posts gezielt einsetzt, um in deiner Nische sichtbar zu werden. Du lernst, wie du aus Followern Interessenten machst, die DMs öffnen und Erstgespräche buchen. Dazu: ein klarer Audience-to-Lead-Funnel und Vorlagen für DMs, die nicht nach Spam klingen. Wer X als Coach richtig nutzt, braucht keine teuren Ads – der Algorithmus belohnt Tiefe, Konversation und Mehrwert. Das steckt drin: Threads schreiben, die Expertise zeigen und viral gehen Build-in-public: echte Bindung durch transparente Einblicke Der Audience-to-Lead-Funnel: vom Follower zum Erstkontakt DMs richtig nutzen – ohne aufdringlich zu wirken Quote-Posts & Replies für maximale Nischen-Sichtbarkeit Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

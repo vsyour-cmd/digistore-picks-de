@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Büro im Griff – Der kompakte Onlinekurs für mehr Struktur im Büro</strong></p>
-<p>Mit diesem digitalen Onlinekurs erhalten Sie eine praxisnahe Anleitung, um Ihre Büroorganisation einfacher, strukturierter und effizienter zu gestalten. <strong>Das ist im Produkt enthalten:</strong></p>
-<p>·         10 digitale Kursvideos mit einer Gesamtlaufzeit von ca. 19 Minuten</p>
-<p>·         Schritt-für-Schritt-Anleitungen zur Büroorganisation</p>
-<p>·         praktische Tipps für strukturierte Arbeitsabläufe ·         Vorlagen und Arbeitshilfen für den Büroalltag ·         eine Excel-Vorlage zur direkten Anwendung</p>
-<p><strong>So erhalten Sie das Produkt:</strong> Es handelt sich ausschließlich um ein <strong>digitales Produkt</strong>. Es erfolgt kein Versand per Post.</p>
-<p>Nach erfolgreichem Kauf über Digistore24 erhält der Kunde Zugang zu den digitalen Kursinhalten und den dazugehörigen Download-Dateien. Die Inhalte können online angesehen bzw. die bereitgestellten Dateien heruntergeladen werden.</p>
+**Vendor's marketplace description:** Büro im Griff – Der kompakte Onlinekurs für mehr Struktur im Büro Mit diesem digitalen Onlinekurs erhalten Sie eine praxisnahe Anleitung, um Ihre Büroorganisation einfacher, strukturierter und effizienter zu gestalten. Das ist im Produkt enthalten: · 10 digitale Kursvideos mit einer Gesamtlaufzeit von ca. 19 Minuten · Schritt-für-Schritt-Anleitungen zur Büroorganisation · praktische Tipps für strukturierte Arbeitsabläufe · Vorlagen und Arbeitshilfen für den Büroalltag · eine Excel-Vorlage zur direkten Anwendung So erhalten Sie das Produkt: Es handelt sich ausschließlich um ein digitales Produkt . Es erfolgt kein Versand per Post. Nach erfolgreichem Kauf über Digistore24 erhält der Kunde Zugang zu den digitalen Kursinhalten und den dazugehörigen Download-Dateien. Die Inhalte können online angesehen bzw. die bereitgestellten Dateien heruntergeladen werden.
 
 ## 2. Links
 

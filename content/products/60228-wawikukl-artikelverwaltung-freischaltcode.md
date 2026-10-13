@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Freischaltcode zur 14-tägigen Testversion</p>
+**Vendor's marketplace description:** Freischaltcode zur 14-tägigen Testversion
 
 ## 2. Links
 

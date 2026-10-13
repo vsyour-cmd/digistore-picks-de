@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Verkaufe eine komplett eingerichtete digitale Speisekarte an Restaurant Betreiber.</p>
-<p>Für das Produkt kommt jeder Gastronom in Frage. Ihr könnt damit bei jedem Restaurant Besuch z.B. einen Flyer vom Produkt da lassen und damit extra was dazu verdienen.</p>
-<p>So funktionierts:</p>
-<p>Wenn der Kunde bei uns bestellt, melden wir uns beim Kunde um Details zur Speisekarte zur erfragen. Daraufhin erstellen wir eine individuelle digitale Speisekarte und teilen die Zugangsdaten für die Verwaltung der Digitalen Speisekarte mit.</p>
-<p> </p>
+**Vendor's marketplace description:** Verkaufe eine komplett eingerichtete digitale Speisekarte an Restaurant Betreiber. Für das Produkt kommt jeder Gastronom in Frage. Ihr könnt damit bei jedem Restaurant Besuch z.B. einen Flyer vom Produkt da lassen und damit extra was dazu verdienen. So funktionierts: Wenn der Kunde bei uns bestellt, melden wir uns beim Kunde um Details zur Speisekarte zur erfragen. Daraufhin erstellen wir eine individuelle digitale Speisekarte und teilen die Zugangsdaten für die Verwaltung der Digitalen Speisekarte mit.
 
 ## 2. Links
 

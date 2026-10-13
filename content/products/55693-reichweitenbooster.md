@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Zünde deinen <strong>Booster für mehr Reichweite,</strong> mehr Leads und Sales. Zu Ende sind die Tage, an denen du mühevoll hochwertigen Content erstellst, aber zu wenig Reichweite bekommst.</h2>
-<p>Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. 350€ Provision im Funnel.</p>
-<p>Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst!</p>
-<p>Das bekommt der Kunde in diesem wertvollen Online-Kurs:</p>
-<ul>
-<li>wie du den Booster für deine Reichweite auf Knopfdruck zündest und<strong> kostenlos Reichweite bekommst</strong>…</li>
-<li>wie du direkt <strong>an deine richtige Zielgruppe ausgespielt wirst, </strong>sodass sie dir deine Produkte aus den Händen reißen können…</li>
-<li>wie du sogar noch zusätzlich Geld dafür bekommst, weil du Reichweite generierst (zusätzlich zu deinen Verkäufen)</li>
-</ul>
-<p><strong>Und als Bonus</strong> bekommst du verschiedene Vorlagen, die du sofort nutzen kannst.</p>
-<p>Und einiges mehr!</p>
-<p> </p>
+**Vendor's marketplace description:** Zünde deinen Booster für mehr Reichweite, mehr Leads und Sales. Zu Ende sind die Tage, an denen du mühevoll hochwertigen Content erstellst, aber zu wenig Reichweite bekommst. Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. 350€ Provision im Funnel. Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst! Das bekommt der Kunde in diesem wertvollen Online-Kurs: wie du den Booster für deine Reichweite auf Knopfdruck zündest und kostenlos Reichweite bekommst … wie du direkt an deine richtige Zielgruppe ausgespielt wirst, sodass sie dir deine Produkte aus den Händen reißen können… wie du sogar noch zusätzlich Geld dafür bekommst, weil du Reichweite generierst (zusätzlich zu deinen Verkäufen) Und als Bonus bekommst du verschiedene Vorlagen, die du sofort nutzen kannst. Und einiges mehr!
 
 ## 2. Links
 

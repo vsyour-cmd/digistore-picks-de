@@ -41,39 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Derzeit sind <span style="text-decoration:underline;">COVID-Impf-Nebenwirkungen</span> in aller Munde! Für viele Betroffene ist jede Hilfe zu spät!</strong></p>
-<p><strong>"Plötzlich und unerwartet verstorben" ist die NEUE Todesursache SEIT der COVID-Spritze!</strong></p>
-<p>Geschichten von NICHT deklatierten Inhaltsstoffen, Nanobots, DNA Veränderung, Schmiergeldaffären uvm. zwingen zum GENAU hinschauen!</p>
-<p>Mit DIESEN Energetischen-<strong>Transformations-VIDEOS</strong> <strong>können Wunder geschehen!</strong></p>
-<p><span style="text-decoration:underline;">Empfehle unsere Energetischen Transformations-Videos &amp; Programme weiter</span> und</p>
-<ul>
-<li>rette Menschenleben!</li>
-<li>rette Väter, Mütter, Kinder, Nachbarn!</li>
-<li>unterstütze die Bewusstseinserweiterung!</li>
-<li>verdiene mit an  Upsells/Cross-Sells!  </li>
-</ul>
-<p><a href="https://www.digistore24.com/product/427128" target="_blank" rel="noreferrer noopener"><span style="color:#0000ff;">COVID-Impf-Ausleitungs-VIDEO</span></a></p>
-<p> </p>
-<p>Es ist somit seeeehr leicht möglich, dass Aggression, Wut, Schmerzen, Krankheit gar NICHT "DIE EIGENEN" sind, sondern von den "<strong>IMPFUNGEN &amp; TEST´s</strong>" erzeugt!</p>
-<p>100ten Auflösungen haben dies gezeigt!</p>
-<p><strong>SEELENSPRACHE Reinigungs-Videos </strong>haben  WUNDER bewirkt die andere Methoden nicht ermöglichen!</p>
-<p>Erlebe es LIVE!</p>
-<p>Die Wirkung ist phänomenal, umwerfend, beinahe märchenhaft!</p>
-<p> </p>
-<p><strong>Deine Vorteile:</strong></p>
-<p>--&gt; Hohe eigene Zufriedenheit und Freude, wenn Menschen dadurch geholfen wird</p>
-<p>--&gt; Hohe Provisionen von <strong>30%</strong> für alle Produkte!</p>
-<p>--&gt; Garantiert etwas für deine Kunden dabei: <strong>Nischen</strong> </p>
-<ul>
-<li>COVID-Impfung &amp; PCR-Test Ausleitung</li>
-<li>EMF-Elektrosmog &amp; Fremdenergie Reinigung</li>
-<li>Karma- &amp; Fremdneregie Erlösung</li>
-<li>Schuld-Scham Erlösung</li>
-<li>Energetische Hausreinigung etc.)</li>
-</ul>
-<p>--&gt; Melde dich jetzt als Affiliate an und baue dir mit "Menschen helfen" ein passives Einkommen auf.  </p>
-<p>Auf eine erfolgreiches Zusammenwirken!  </p>
-<p>Beste Grüße, Michael König-Breuss</p>
+**Vendor's marketplace description:** Derzeit sind COVID-Impf-Nebenwirkungen in aller Munde! Für viele Betroffene ist jede Hilfe zu spät! "Plötzlich und unerwartet verstorben" ist die NEUE Todesursache SEIT der COVID-Spritze! Geschichten von NICHT deklatierten Inhaltsstoffen, Nanobots, DNA Veränderung, Schmiergeldaffären uvm. zwingen zum GENAU hinschauen! Mit DIESEN Energetischen- Transformations-VIDEOS können Wunder geschehen! Empfehle unsere Energetischen Transformations-Videos & Programme weiter und rette Menschenleben! rette Väter, Mütter, Kinder, Nachbarn! unterstütze die Bewusstseinserweiterung! verdiene mit an Upsells/Cross-Sells! COVID-Impf-Ausleitungs-VIDEO Es ist somit seeeehr leicht möglich, dass Aggression, Wut, Schmerzen, Krankheit gar NICHT "DIE EIGENEN" sind, sondern von den " IMPFUNGEN & TEST´s " erzeugt! 100ten Auflösungen haben dies gezeigt! SEELENSPRACHE Reinigungs-Videos haben WUNDER bewirkt die andere Methoden nicht ermöglichen! Erlebe es LIVE! Die Wirkung ist phänomenal, umwerfend, beinahe märchenhaft! Deine Vorteile: --> Hohe eigene Zufriedenheit und Freude, wenn Menschen dadurch geholfen wird --> Hohe Provisionen von 30% für alle Produkte! --> Garantiert etwas für deine Kunden dabei: Nischen COVID-Impfung & PCR-Test Ausleitung EMF-Elektrosmog & Fremdenergie Reinigung Karma- & Fremdneregie Erlösung Schuld-Scham Erlösung Energetische Hausreinigung etc.) --> Melde dich jetzt als Affiliate an und baue dir mit "Menschen helfen" ein passives Einkommen auf. Auf eine erfolgreiches Zusammenwirken! Beste Grüße, Michael König-Breuss
 
 ## 2. Links
 

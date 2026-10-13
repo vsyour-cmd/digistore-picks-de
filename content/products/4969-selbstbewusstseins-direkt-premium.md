@@ -41,44 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>Siebenteiliger Video-Kurs zum schnellen und dauerhaften Selbstbewusstseinsaufbau für mehr Erfolg im Berufs- und Privatleben. Dieser Kurs ist ein Konzentrat und verwendet ausschließlich die effektivsten Methoden - Die Essenz! Die Inhalte sind leicht verständlich, und schnell und einfach umzusetzen. Teilnehmer fühlen sich sofort besser und erzielen bereits nach kurzer Zeit die ersten Erfolge.</div>
-<div> </div>
-<div><strong>Zum Videokurs erhält der Käufer noch drei Boni</strong></div>
-<ul>
-<li>Bonus 1 - Erfolgslisten-Management und</li>
-<li>Bonus 2 - Freiheit durch Ballastabwurf</li>
-<li>Bonus 3 - Selbstbewusster durch Atemtechnik und Meditation</li>
-</ul>
-<strong>Direktverkauf:</strong>
-<ol>
-<li>
-<h4>Verkaufsseite mit Video-Trailer:</h4>
-<p><strong>https://www.digistore24.com/redir/33459/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong></p>
-</li>
-<li>
-<p><strong>Webinar-Einladeseite:</strong></p>
-<p><strong>https://www.digistore24.com/content/33459/7927/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong></p>
-</li>
-<li>
-<p><strong>Webinar-Replay:</strong></p>
-<p><strong>https://www.digistore24.com/content/33459/9643/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong></p>
-</li>
-</ol>
-<strong><span style="background-color:#ffff00;">Vertrauensaufbauender Gratis-Content dazu:</span><br /><span style="background-color:#ffff00;">(Verkauf über Funnel):</span><br /></strong>
-<ol>
-<li><strong>Selbstbewusstsein-Checkliste (gratis) + 7€ Upsell auf Videotraining:<br /></strong><br /><strong>https://www.digistore24.com/content/306632/35262/<span style="color:#ff0000;">AFFILIATE</span>/<span style="color:#ff0000;">CAMPAIGNKEY</span></strong></li>
-</ol>
-<p><strong>&gt;&gt; </strong>Bei Eitragung durchläuft der Interessent einen Funnel mit wertvollen Tipps - Das steigert die Kaufrate im folgenden Webinar - Zudem erhält der Interessent noch weiter Angebote</p>
-<p><span style="background-color:#ffff00;"><strong>&gt;&gt; Folgeprovisionen bei weiteren Käufen</strong></span></p>
-</div>
-<p>Vorteile, wenn Sie "Selbstbewusstsein-Direkt" bewerben</p>
-<ul>
-<li>Mehrere Verkaufsprozesse verfügbar</li>
-<li>Vorgefertigte Werbe-E-Mails (Getestet)</li>
-<li>Professionelles Banner-Set (JEPG und Gif-animiert)</li>
-</ul>
-<p><strong>Bei Fragen: <span style="background-color:#ffff00;">info@erfolg-intuitiv.de</span></strong></p>
+**Vendor's marketplace description:** Siebenteiliger Video-Kurs zum schnellen und dauerhaften Selbstbewusstseinsaufbau für mehr Erfolg im Berufs- und Privatleben. Dieser Kurs ist ein Konzentrat und verwendet ausschließlich die effektivsten Methoden - Die Essenz! Die Inhalte sind leicht verständlich, und schnell und einfach umzusetzen. Teilnehmer fühlen sich sofort besser und erzielen bereits nach kurzer Zeit die ersten Erfolge. Zum Videokurs erhält der Käufer noch drei Boni Bonus 1 - Erfolgslisten-Management und Bonus 2 - Freiheit durch Ballastabwurf Bonus 3 - Selbstbewusster durch Atemtechnik und Meditation Direktverkauf: Verkaufsseite mit Video-Trailer: https://www.digistore24.com/redir/33459/ AFFILIATE / CAMPAIGNKEY Webinar-Einladeseite: https://www.digistore24.com/content/33459/7927/ AFFILIATE / CAMPAIGNKEY Webinar-Replay: https://www.digistore24.com/content/33459/9643/ AFFILIATE / CAMPAIGNKEY Vertrauensaufbauender Gratis-Content dazu: (Verkauf über Funnel): Selbstbewusstsein-Checkliste (gratis) + 7€ Upsell auf Videotraining: https://www.digistore24.com/content/306632/35262/ AFFILIATE / CAMPAIGNKEY >> Bei Eitragung durchläuft der Interessent einen Funnel mit wertvollen Tipps - Das steigert die Kaufrate im folgenden Webinar - Zudem erhält der Interessent noch weiter Angebote >> Folgeprovisionen bei weiteren Käufen Vorteile, wenn Sie "Selbstbewusstsein-Direkt" bewerben Mehrere Verkaufsprozesse verfügbar Vorgefertigte Werbe-E-Mails (Getestet) Professionelles Banner-Set (JEPG und Gif-animiert) Bei Fragen: info@erfolg-intuitiv.de
 
 ## 2. Links
 

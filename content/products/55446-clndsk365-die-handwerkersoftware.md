@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>CLEANDESK365 - Starter</h3>
-<p><strong>Cleandesk – Die Handwerkersoftware, die mit deinem Betrieb mitwächst</strong></p>
-<p>Mehr Klarheit. Weniger Chaos. Volle Kontrolle.<br />Cleandesk ist die digitale Schaltzentrale für deinen Handwerksbetrieb – entwickelt von Handwerkern für Handwerker. Egal ob du alleine arbeitest, ein kleines Team führst oder mehrere Standorte koordinierst: Unsere Software passt sich deinem Alltag an – nicht umgekehrt.</p>
-<p>Einfach verständlich, transparent kalkulierbar und kompromisslos effizient.</p>
-<p> </p>
-<p><strong>Starter</strong> <strong>Für kleine Betriebe mit mehreren Mitarbeitenden</strong> <strong>Du hast ein eingespieltes Team, aber der digitale Überblick fehlt?</strong></p>
-<p>Mit dem Starter-Paket steuerst du alle Aufgaben, Zeiten und Projekte zentral – und stärkst die Zusammenarbeit.</p>
-<p><strong>Highlights:</strong></p>
-<ul>
-<li>Mitarbeiterverwaltung</li>
-<li>Zeiterfassung / Abwesenheitserfassung</li>
-<li>Chat</li>
-<li>Aufgaben</li>
-<li>Projekte</li>
-<li>Dienstplan</li>
-<li>Kalender / Termine</li>
-<li>SmartCloud für Bilder, Dokumente und Dateien</li>
-<li>Angebote, AB, Lieferscheine, Rechnungen</li>
-<li>Ressourcenverwaltung</li>
-<li>Aufmaß</li>
-<li>Arbeitszeitmodelle und eigene Pausenregelungen</li>
-<li>Eine Firma</li>
-<li>SmartCloud Speicher bis 500 GB inklusive Bis zu 10 aktive Benutzer      </li>
-</ul>
-<p><strong>Perfekt für wachsende Betriebe, die Struktur, Transparenz und echte Digitalisierung brauchen.</strong></p>
+**Vendor's marketplace description:** CLEANDESK365 - Starter Cleandesk – Die Handwerkersoftware, die mit deinem Betrieb mitwächst Mehr Klarheit. Weniger Chaos. Volle Kontrolle. Cleandesk ist die digitale Schaltzentrale für deinen Handwerksbetrieb – entwickelt von Handwerkern für Handwerker. Egal ob du alleine arbeitest, ein kleines Team führst oder mehrere Standorte koordinierst: Unsere Software passt sich deinem Alltag an – nicht umgekehrt. Einfach verständlich, transparent kalkulierbar und kompromisslos effizient. Starter Für kleine Betriebe mit mehreren Mitarbeitenden Du hast ein eingespieltes Team, aber der digitale Überblick fehlt? Mit dem Starter-Paket steuerst du alle Aufgaben, Zeiten und Projekte zentral – und stärkst die Zusammenarbeit. Highlights: Mitarbeiterverwaltung Zeiterfassung / Abwesenheitserfassung Chat Aufgaben Projekte Dienstplan Kalender / Termine SmartCloud für Bilder, Dokumente und Dateien Angebote, AB, Lieferscheine, Rechnungen Ressourcenverwaltung Aufmaß Arbeitszeitmodelle und eigene Pausenregelungen Eine Firma SmartCloud Speicher bis 500 GB inklusive Bis zu 10 aktive Benutzer Perfekt für wachsende Betriebe, die Struktur, Transparenz und echte Digitalisierung brauchen.
 
 ## 2. Links
 

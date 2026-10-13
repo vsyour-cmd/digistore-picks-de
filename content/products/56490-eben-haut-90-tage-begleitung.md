@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong>eben.Haut</strong> ist eine <span style="text-decoration:underline;">persönliche Hautanalyse mit 90 Tagen Begleitung</span> für Frauen ab 25, die unter unreiner Haut, hormonellen Unreinheiten oder Pickelmalen leiden und ihre Haut besser verstehen möchten.</div>
-<div> </div>
-<div>Die Kundin erhält eine individuelle Auswertung ihrer Hautfotos, eine Einschätzung ihrer aktuellen Pflegeprodukte, ein persönliches Zoom-Gespräch mit Empfehlungen, einen Pflegeplan sowie Check-ins alle 4 Wochen.</div>
-<div> </div>
-<div>Für Affiliates ist das Angebot spannend, weil es eine klare Zielgruppe anspricht und kein anonymes Massenprodukt ist. Geeignet für Empfehlungen aus den Bereichen Hautpflege, Beauty, Frauengesundheit, Zyklus, Wohlbefinden, natürliche Pflege, Selbstfürsorge und ganzheitlicher Lifestyle.</div>
-<div> </div>
-<div>Provision: 20 %.</div>
-<div>Preis: 249 € Einmalzahlung oder 3 Raten à 89 €.</div>
-<div> </div>
-<div><strong>Wichtiger Hinweis:</strong> Die Beratung ersetzt keine ärztliche Diagnose oder medizinische Behandlung.</div>
+**Vendor's marketplace description:** eben.Haut ist eine persönliche Hautanalyse mit 90 Tagen Begleitung für Frauen ab 25, die unter unreiner Haut, hormonellen Unreinheiten oder Pickelmalen leiden und ihre Haut besser verstehen möchten. Die Kundin erhält eine individuelle Auswertung ihrer Hautfotos, eine Einschätzung ihrer aktuellen Pflegeprodukte, ein persönliches Zoom-Gespräch mit Empfehlungen, einen Pflegeplan sowie Check-ins alle 4 Wochen. Für Affiliates ist das Angebot spannend, weil es eine klare Zielgruppe anspricht und kein anonymes Massenprodukt ist. Geeignet für Empfehlungen aus den Bereichen Hautpflege, Beauty, Frauengesundheit, Zyklus, Wohlbefinden, natürliche Pflege, Selbstfürsorge und ganzheitlicher Lifestyle. Provision: 20 %. Preis: 249 € Einmalzahlung oder 3 Raten à 89 €. Wichtiger Hinweis: Die Beratung ersetzt keine ärztliche Diagnose oder medizinische Behandlung.
 
 ## 2. Links
 

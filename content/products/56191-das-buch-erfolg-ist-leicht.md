@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Das Buch: Erfolg ist leicht – wenn du aufhörst zu funkionieren</h3>
-<p>Dieses Buch richtet sich an Frauen, die im Außen erfolgreich sind, Verantwortung tragen und auf hohem Niveau funktionieren und dennoch spüren, dass sie sich innerlich selbst verloren haben.</p>
-<p>Es ist für Unternehmerinnen, Selbstständige und Frauen in Führungsrollen. Für Frauen, die viel wissen, reflektiert sind und bereits an sich gearbeitet haben, aber merken, dass Wissen allein ihr Leben nicht leichter macht.</p>
-<p>Für Frauen, die nicht mehr nur stark sein wollen, sondern innerlich ruhig. Nicht mehr nur erfolgreich, sondern stimmig.</p>
-<p>Wenn du bereit bist, Erfolg nicht länger zu erkämpfen, sondern aus innerer Stabilität heraus zu leben, dann ist dieses Buch für dich.</p>
+**Vendor's marketplace description:** Das Buch: Erfolg ist leicht – wenn du aufhörst zu funkionieren Dieses Buch richtet sich an Frauen, die im Außen erfolgreich sind, Verantwortung tragen und auf hohem Niveau funktionieren und dennoch spüren, dass sie sich innerlich selbst verloren haben. Es ist für Unternehmerinnen, Selbstständige und Frauen in Führungsrollen. Für Frauen, die viel wissen, reflektiert sind und bereits an sich gearbeitet haben, aber merken, dass Wissen allein ihr Leben nicht leichter macht. Für Frauen, die nicht mehr nur stark sein wollen, sondern innerlich ruhig. Nicht mehr nur erfolgreich, sondern stimmig. Wenn du bereit bist, Erfolg nicht länger zu erkämpfen, sondern aus innerer Stabilität heraus zu leben, dann ist dieses Buch für dich.
 
 ## 2. Links
 

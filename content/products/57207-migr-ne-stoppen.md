@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Migräne stoppen“</strong></p>
-<p>Was wirklich hilft, wenn der Kopf explodiert – Migräne ist mehr als Kopfschmerz. Erfahre, was im Anfall wirklich hilft, wie du deine Trigger findest und Attacken seltener und milder machst.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verstehen, was bei Migräne wirklich passiert</li>
-<li>Deine Trigger mit dem Migräne-Tagebuch finden</li>
-<li>Was in der Attacke wirklich hilft</li>
-<li>Vorbeugen mit Schlaf, Rhythmus, Stress und Ernährung</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Migräne stoppen“ Was wirklich hilft, wenn der Kopf explodiert – Migräne ist mehr als Kopfschmerz. Erfahre, was im Anfall wirklich hilft, wie du deine Trigger findest und Attacken seltener und milder machst. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verstehen, was bei Migräne wirklich passiert Deine Trigger mit dem Migräne-Tagebuch finden Was in der Attacke wirklich hilft Vorbeugen mit Schlaf, Rhythmus, Stress und Ernährung
 
 ## 2. Links
 

@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>KI-Prioritäts-Check | Dein kostenloses Business-Quiz mit GPT-Prompt</strong></h2>
-<p><strong>Du hast ein Online-Business, aber irgendwo hakt es?</strong> Dieses interaktive Quiz zeigt dir, woran es wirklich liegt.</p>
-<p><strong>So funktioniert’s:</strong></p>
-<ul>
-<li><strong>8 Fragen, 60 Sekunden:</strong> Blitzschnelle Business-Diagnose</li>
-<li><strong>Individuelle Auswertung:</strong> Fokus, Sichtbarkeit oder Automatisierung</li>
-<li><strong>Sofort-Prompt:</strong> Fertiger GPT-Prompt für ChatGPT, Copy &amp; Paste ready</li>
-<li><strong>DSGVO-konform:</strong> Kein Login, kein Tracking, kein Abo</li>
-</ul>
-<p><strong>Ideal für:</strong> Selbstständige, Creator, Berater, Affiliates &amp; Online-Unternehmer</p>
-<div style="background-color:#f0f8f0;padding:15px;border-left:4px solid #4CAF50;margin:15px 0;">
-<p><strong>Dein Mehrwert:</strong> Erkenntnis + Umsetzung. Das Quiz zeigt dir, wo dein Engpass liegt und gibt dir direkt die passende KI-Lösung an die Hand.</p>
-</div>
-<h3><strong>Das bekommst du nach dem Klick:</strong></h3>
-<ol>
-<li>Link zur Quiz-Seite (keine Registrierung nötig)</li>
-<li>8 Fragen beantworten → Auswertung</li>
-<li>Dein personalisierter GPT-Prompt wird angezeigt</li>
-</ol>
-<p style="font-size:16px;color:#ff7c1a;"><strong>100 % kostenlos, sofort einsatzbereit – funktioniert mit jedem kostenlosen ChatGPT-Account!</strong></p>
-<p style="font-size:12px;color:#888;">Bereitgestellt von der KI-Schmiede | Digitale Auslieferung via Digistore24</p>
+**Vendor's marketplace description:** KI-Prioritäts-Check | Dein kostenloses Business-Quiz mit GPT-Prompt Du hast ein Online-Business, aber irgendwo hakt es? Dieses interaktive Quiz zeigt dir, woran es wirklich liegt. So funktioniert’s: 8 Fragen, 60 Sekunden: Blitzschnelle Business-Diagnose Individuelle Auswertung: Fokus, Sichtbarkeit oder Automatisierung Sofort-Prompt: Fertiger GPT-Prompt für ChatGPT, Copy & Paste ready DSGVO-konform: Kein Login, kein Tracking, kein Abo Ideal für: Selbstständige, Creator, Berater, Affiliates & Online-Unternehmer Dein Mehrwert: Erkenntnis + Umsetzung. Das Quiz zeigt dir, wo dein Engpass liegt und gibt dir direkt die passende KI-Lösung an die Hand. Das bekommst du nach dem Klick: Link zur Quiz-Seite (keine Registrierung nötig) 8 Fragen beantworten → Auswertung Dein personalisierter GPT-Prompt wird angezeigt 100 % kostenlos, sofort einsatzbereit – funktioniert mit jedem kostenlosen ChatGPT-Account! Bereitgestellt von der KI-Schmiede | Digitale Auslieferung via Digistore24
 
 ## 2. Links
 

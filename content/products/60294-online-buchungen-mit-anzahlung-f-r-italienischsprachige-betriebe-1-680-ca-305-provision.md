@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Buchungssystem mit Anzahlung per Karte: Tische, Liegen, Termine oder Mietfahrzeuge, alles in einem Kalender. Erscheint der Kunde nicht, ist die Anzahlung schon auf dem Konto.</p><p><strong>Für wen:</strong> Restaurants, Strandbäder, Vermietungen, Praxen.</p><p><strong>Deine Provision:</strong> 20 % pro Verkauf, ca. 305 € bei 1.680 € netto. Einmalzahlung, kein Abo.</p><p><strong>Wichtig:</strong> Verkaufsseite, Gespräche und Umsetzung sind auf Italienisch. Ideal, wenn du italienischsprachige Selbstständige in Italien, Deutschland oder der Schweiz erreichst.</p><p><strong>So läuft es:</strong> Nach der Bestellung meldet sich unser Team beim Kunden, bespricht alles per Videocall und setzt das Projekt komplett um. Du bringst den Kontakt, wir machen den Rest.</p>
+**Vendor's marketplace description:** Buchungssystem mit Anzahlung per Karte: Tische, Liegen, Termine oder Mietfahrzeuge, alles in einem Kalender. Erscheint der Kunde nicht, ist die Anzahlung schon auf dem Konto. Für wen: Restaurants, Strandbäder, Vermietungen, Praxen. Deine Provision: 20 % pro Verkauf, ca. 305 € bei 1.680 € netto. Einmalzahlung, kein Abo. Wichtig: Verkaufsseite, Gespräche und Umsetzung sind auf Italienisch. Ideal, wenn du italienischsprachige Selbstständige in Italien, Deutschland oder der Schweiz erreichst. So läuft es: Nach der Bestellung meldet sich unser Team beim Kunden, bespricht alles per Videocall und setzt das Projekt komplett um. Du bringst den Kontakt, wir machen den Rest.
 
 ## 2. Links
 

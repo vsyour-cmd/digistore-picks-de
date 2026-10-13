@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Geld verdienen mit dem Produkt: <br /><br /><strong>"KI Onlinekurs Business - Schnelle und einfache Erstellung von KI gestützten Videokursen"</strong> <br /><br />Initial 5,00 € fixe Sale-Provisionen (für jede 4,99 € Einmalzahlung)</p>
-<p> </p>
-<p>Upsell 30-50%</p>
-<p> </p>
-<p>Und so verdienst Du Provisionen:</p>
-<p>1. Fixe Sale Provisionen Sofern sich Deine Kontakte, die Interessenten, dazu entschließen, in das KI-Onlinekurs-Business einzusteigen, können sie ab sofort auf unserer Seite für eine Einmalzahlung von nur 4,99 € auf die Produkt-Vollversion "<strong>KI Onlinekurs Business</strong>" erstellen Die Käufer erhalten durch diese Einmalzahlung Vollzugriff auf das komplette Produkt (kein abgespecktes Produkt, kein Infoprodukt!).</p>
-<p>Wir sind transparent und spielen mit offenen Karten. Und deshalb bieten wir den vollen Zugang für einen symbolischen Preis an. So können die Interessenten ohne Limits das Produkt in aller Ruhe nutzen (was übrigens extrem gut bei den Leuten ankommt!). Pro Sale erhältst Du hier eine fixe Provision von 5,00 €!*</p>
-<p><br />2. Direktes Upsell</p>
-<p>Im Upsell des Bezahlverlaufs erhalten die 4,99 €-Zahler ein weiteres Top Angebot zu einem unserer Marketing-Produkte, das i.d.R. mit 30-50% verprovisioniert wird!</p>
-<p> </p>
-<p>3. Weitere Angebote im Upsell/Bezahlverlauf Natürlich gibt es noch weitere Upsell-Angebote im Bezahlverlauf. Diese werden fortlaufend erneuert / optimiert. Die Sale- bzw. Lifetime-Provisionen variieren zwischen 20-50%! Darüber hinaus kannst Du als Affiliate auch ganze 180 Tage von Angeboten profitieren, die wir anschließend fast täglich im Newsletter präsentieren!</p>
-<p>*Hinweis: Alle Affiliate-Angebote und Provisionen können sich jederzeit ändern, da wir hier ständig optimieren, um für alle Beteiligten das Beste Ergebnis zu erzielen!</p>
-<p>Detaillierte Infos zum Ablauf des Affiliate-Programms auf unserer <a href="https://www.ararembe.com/serviceportal/online-einkommen/" target="_blank" rel="noreferrer noopener">Affiliate Support Seite &gt;&gt;</a></p>
-<p> </p>
-<p>Zum Produkt:</p>
-<p>Die hochwertige Video-Verdienstanleitung "KI Onlinekurs Business - Schnelle &amp; einfache Erstellung von KI gestützten Videokursen" vermittelt Anwendern eine smarte KI-Strategie, mit der sie KI-generierte Onlinekurse erstellen und vermarkten können. Ziel ist es, ein eigenes Onlinekurs-Business aufzubauen. Noch Fragen?</p>
-<p> </p>
-<p><a href="https://www.ararembe.com/serviceportal/online-einkommen/" target="_blank" rel="noreferrer noopener">Affiliate-Supportseite &gt;&gt;</a></p>
-<p> </p>
-<p>Partner-Programm-Support: partner@ararembe.com</p>
+**Vendor's marketplace description:** Geld verdienen mit dem Produkt: "KI Onlinekurs Business - Schnelle und einfache Erstellung von KI gestützten Videokursen" Initial 5,00 € fixe Sale-Provisionen (für jede 4,99 € Einmalzahlung) Upsell 30-50% Und so verdienst Du Provisionen: 1. Fixe Sale Provisionen Sofern sich Deine Kontakte, die Interessenten, dazu entschließen, in das KI-Onlinekurs-Business einzusteigen, können sie ab sofort auf unserer Seite für eine Einmalzahlung von nur 4,99 € auf die Produkt-Vollversion " KI Onlinekurs Business " erstellen Die Käufer erhalten durch diese Einmalzahlung Vollzugriff auf das komplette Produkt (kein abgespecktes Produkt, kein Infoprodukt!). Wir sind transparent und spielen mit offenen Karten. Und deshalb bieten wir den vollen Zugang für einen symbolischen Preis an. So können die Interessenten ohne Limits das Produkt in aller Ruhe nutzen (was übrigens extrem gut bei den Leuten ankommt!). Pro Sale erhältst Du hier eine fixe Provision von 5,00 €!* 2. Direktes Upsell Im Upsell des Bezahlverlaufs erhalten die 4,99 €-Zahler ein weiteres Top Angebot zu einem unserer Marketing-Produkte, das i.d.R. mit 30-50% verprovisioniert wird! 3. Weitere Angebote im Upsell/Bezahlverlauf Natürlich gibt es noch weitere Upsell-Angebote im Bezahlverlauf. Diese werden fortlaufend erneuert / optimiert. Die Sale- bzw. Lifetime-Provisionen variieren zwischen 20-50%! Darüber hinaus kannst Du als Affiliate auch ganze 180 Tage von Angeboten profitieren, die wir anschließend fast täglich im Newsletter präsentieren! *Hinweis: Alle Affiliate-Angebote und Provisionen können sich jederzeit ändern, da wir hier ständig optimieren, um für alle Beteiligten das Beste Ergebnis zu erzielen! Detaillierte Infos zum Ablauf des Affiliate-Programms auf unserer Affiliate Support Seite >> Zum Produkt: Die hochwertige Video-Verdienstanleitung "KI Onlinekurs Business - Schnelle & einfache Erstellung von KI gestützten Videokursen" vermittelt Anwendern eine smarte KI-Strategie, mit der sie KI-generierte Onlinekurse erstellen und vermarkten können. Ziel ist es, ein eigenes Onlinekurs-Business aufzubauen. Noch Fragen? Affiliate-Supportseite >> Partner-Programm-Support: partner@ararembe.com
 
 ## 2. Links
 

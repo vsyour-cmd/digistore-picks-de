@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>The Changing Chance Premium: Online Business skalierbar und 1:1 kopierbar</strong></p>
-<p>Was du in diesem Kurs erhältst (Premium):</p>
-<p>Dieser Kurs vermittelt dir unser innovatives „The Changing Chance" Konzept im absoluten Raketenstart – ein modernes Affiliate-Marketing-Modell, das klassische Ansätze in Sachen Skalierbarkeit und Automatisierungsgrad deutlich übertrifft. Du erlangst umfassendes Fachwissen im Affiliate-Marketing, lernst professionelle Vertriebs- und Gesprächsführung, lernst die unterschiedlichsten Arten der Kundengewinnung und erhältst konkrete Beispiele, wie du eigene Kurzvideos zur Bewerbung digitaler Produkte erstellst und dein Geschäft skalierst und bekommst dazu noch fünf 1:1 Strategiemeetings mit Fabian Jahrstorfer um schnellstmöglich das Maximum rauszuholen.</p>
-<p><strong>Inhalte der Premium-Variante:</strong></p>
-<ul>
-<li><strong>Alle Inhalte der Basic-Variante:</strong></li>
-<li>Grundlagen des Affiliate-Marketing und wie du digitale Produkte professionell empfiehlst</li>
-<li>Schritt-für-Schritt-Setup mit Digistore24 und dem Partner-Netzwerk</li>
-<li>Das Angebot und deine Zielgruppe - Gesprächsführung für den Verkauf</li>
-<li>Verschiedene Möglichkeiten der Kundengewinnung</li>
-<li><strong>Alle Inhalte der Pro-Variante:</strong></li>
-<li>Erweiterte Module zu Zielgruppenanalyse und fortgeschrittener Kundengewinnung</li>
-<li>Vertiefte Vertriebs- und Gesprächsführungstechniken</li>
-<li>Weitere Praxisbeispiele und Vorlagen zur Videoerstellung</li>
-<li>Detaillierte Anleitung zum Aufbau einer eigenen Downline im Partner-Netzwerk</li>
-<li>11000 vorgefertigte Videovorlagen und Videokonzepte</li>
-</ul>
-<ul>
-<li><strong>Die Abkürzung für dein Business </strong><strong>(die Premium-Variante):                                  </strong></li>
-<li>Fünf 1:1 Strategiemeetings mit Fabian Jahrstorfer für deinen persönlichen Erfolg um dein Business sofort erfolgreich zu machen</li>
-</ul>
+**Vendor's marketplace description:** The Changing Chance Premium: Online Business skalierbar und 1:1 kopierbar Was du in diesem Kurs erhältst (Premium): Dieser Kurs vermittelt dir unser innovatives „The Changing Chance" Konzept im absoluten Raketenstart – ein modernes Affiliate-Marketing-Modell, das klassische Ansätze in Sachen Skalierbarkeit und Automatisierungsgrad deutlich übertrifft. Du erlangst umfassendes Fachwissen im Affiliate-Marketing, lernst professionelle Vertriebs- und Gesprächsführung, lernst die unterschiedlichsten Arten der Kundengewinnung und erhältst konkrete Beispiele, wie du eigene Kurzvideos zur Bewerbung digitaler Produkte erstellst und dein Geschäft skalierst und bekommst dazu noch fünf 1:1 Strategiemeetings mit Fabian Jahrstorfer um schnellstmöglich das Maximum rauszuholen. Inhalte der Premium-Variante: Alle Inhalte der Basic-Variante: Grundlagen des Affiliate-Marketing und wie du digitale Produkte professionell empfiehlst Schritt-für-Schritt-Setup mit Digistore24 und dem Partner-Netzwerk Das Angebot und deine Zielgruppe - Gesprächsführung für den Verkauf Verschiedene Möglichkeiten der Kundengewinnung Alle Inhalte der Pro-Variante: Erweiterte Module zu Zielgruppenanalyse und fortgeschrittener Kundengewinnung Vertiefte Vertriebs- und Gesprächsführungstechniken Weitere Praxisbeispiele und Vorlagen zur Videoerstellung Detaillierte Anleitung zum Aufbau einer eigenen Downline im Partner-Netzwerk 11000 vorgefertigte Videovorlagen und Videokonzepte Die Abkürzung für dein Business (die Premium-Variante): Fünf 1:1 Strategiemeetings mit Fabian Jahrstorfer für deinen persönlichen Erfolg um dein Business sofort erfolgreich zu machen
 
 ## 2. Links
 

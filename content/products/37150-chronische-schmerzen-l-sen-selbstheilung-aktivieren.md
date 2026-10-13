@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>NEU! NEU! NEU!</strong></p>
-<p><strong>Partizipiere von einer sehr großen Zielgruppe mit chronischer Schmerzerkrankung. </strong><strong>Nach einer Schätzung der deutschen Schmerzgesellschaft leiden 10-20% der Bevölkerung daran. Das sind im deutschsprachigen Raum etwa 10-20 Millionen Menschen.</strong></p>
-<p><span style="color:#ffffff;background-color:#ff00ff;"><strong> Du erhälst faire &amp; wohlverdiente 50% Provison! </strong></span></p>
-<p>Das <strong>Chronische Schmerzen lösen Booster Pack</strong> unterstützt den Schmerzpatienten dabei:</p>
-<ul>
-<li>chronische Schmerzen zu lindern und aufzulösen</li>
-<li>Schmerzspuren im Schmerzgedächtnis zu löschen und umempfindlicher für Schmerzreize zu werden </li>
-<li>Schlafstörungen, Müdigkeit und Erschöpfung sowie depressiven Gedanken entgegenzuwirken und in eine schmerzfreie Empfindung und in einen Zustand von Ruhe, Entspannung, Gelassenheit und Geborgenheit zu gleiten</li>
-<li>sich von Schmerzen abzuwenden und in<strong> </strong>Lebensfreude &amp; Vitalität zu erblühen</li>
-</ul>
-<p> </p>
-<p>Mittels der Subliminals-Technologie und des Anhörens von Audio-MP3s wird das Unterbewusstsein auf das Senken der Schmerzempfindlichkeit konditioniert. </p>
-<p> </p>
-<p><strong>Das Booster-Pack enthält 3 Produkte:</strong></p>
-<ol>
-<li>Silent Subliminal Audio`s zur Programmierung des Unterbewusstsein auf Schmerzlinderung </li>
-<li>Audio-Mp3´s zur Energetisierung des Trinkwassers mit Selbstheilungs-Affirmationen</li>
-<li>Chronische Schmerzen lösen Meditation + Silent Subliminal</li>
-</ol>
-<p> </p>
-<p><span style="background-color:#ff00ff;"><strong><span style="color:#ffffff;"> Du erhälst faire &amp; wohlverdiente 50%Provison!</span></strong> </span></p>
+**Vendor's marketplace description:** NEU! NEU! NEU! Partizipiere von einer sehr großen Zielgruppe mit chronischer Schmerzerkrankung. Nach einer Schätzung der deutschen Schmerzgesellschaft leiden 10-20% der Bevölkerung daran. Das sind im deutschsprachigen Raum etwa 10-20 Millionen Menschen. Du erhälst faire & wohlverdiente 50% Provison! Das Chronische Schmerzen lösen Booster Pack unterstützt den Schmerzpatienten dabei: chronische Schmerzen zu lindern und aufzulösen Schmerzspuren im Schmerzgedächtnis zu löschen und umempfindlicher für Schmerzreize zu werden Schlafstörungen, Müdigkeit und Erschöpfung sowie depressiven Gedanken entgegenzuwirken und in eine schmerzfreie Empfindung und in einen Zustand von Ruhe, Entspannung, Gelassenheit und Geborgenheit zu gleiten sich von Schmerzen abzuwenden und in Lebensfreude & Vitalität zu erblühen Mittels der Subliminals-Technologie und des Anhörens von Audio-MP3s wird das Unterbewusstsein auf das Senken der Schmerzempfindlichkeit konditioniert. Das Booster-Pack enthält 3 Produkte: Silent Subliminal Audio`s zur Programmierung des Unterbewusstsein auf Schmerzlinderung Audio-Mp3´s zur Energetisierung des Trinkwassers mit Selbstheilungs-Affirmationen Chronische Schmerzen lösen Meditation + Silent Subliminal Du erhälst faire & wohlverdiente 50%Provison!
 
 ## 2. Links
 

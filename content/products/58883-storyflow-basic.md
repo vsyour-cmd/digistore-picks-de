@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Affiliate-Provision: 40 % auf das Hauptprodukt sowie auf alle Add-ons, Order Bumps und Upsells.</strong></p>
-<p> </p>
-<h2>StoryFlow – Basic</h2>
-<p> </p>
-<p>Mit StoryFlow erstellen deine Kunden in wenigen Klicks professionelle Story-Sequenzen, KI-Carousels, Social-Media-Beiträge und optimierte Profiltexte.</p>
-<p> </p>
-<p>Die KI unterstützt bei Ideen, Texten und visuellen Inhalten und macht es deutlich einfacher, regelmäßig professionelle Inhalte für Instagram, TikTok, Facebook und Pinterest zu erstellen.</p>
-<p> </p>
-<p>Enthalten:</p>
-<p> </p>
-<p>• 60 Storys pro Nutzungsmonat</p>
-<p>• 50 KI-Carousels pro Monat</p>
-<p>• 50 KI-Beiträge pro Monat</p>
-<p>• 20 KI-Motive pro Monat</p>
-<p>• 5 Bio- &amp; Profil-Optimierungen pro Monat</p>
-<p>• Story Rescue zur Optimierung bestehender Storys</p>
-<p>• Brand Voice für einen einheitlichen Schreibstil</p>
-<p>• Campaign Flow für strukturierte Kampagnen</p>
-<p>• Integrierte Stockbild-Suche</p>
-<p>• KI-gestützte Ideen, Texte und Designs</p>
-<p> </p>
-<p>Ideal für:</p>
-<p>Creator, Affiliates, Coaches, Selbstständige, Online-Marketer und alle, die schneller professionelle Social-Media-Inhalte erstellen möchten.</p>
+**Vendor's marketplace description:** Affiliate-Provision: 40 % auf das Hauptprodukt sowie auf alle Add-ons, Order Bumps und Upsells. StoryFlow – Basic Mit StoryFlow erstellen deine Kunden in wenigen Klicks professionelle Story-Sequenzen, KI-Carousels, Social-Media-Beiträge und optimierte Profiltexte. Die KI unterstützt bei Ideen, Texten und visuellen Inhalten und macht es deutlich einfacher, regelmäßig professionelle Inhalte für Instagram, TikTok, Facebook und Pinterest zu erstellen. Enthalten: • 60 Storys pro Nutzungsmonat • 50 KI-Carousels pro Monat • 50 KI-Beiträge pro Monat • 20 KI-Motive pro Monat • 5 Bio- & Profil-Optimierungen pro Monat • Story Rescue zur Optimierung bestehender Storys • Brand Voice für einen einheitlichen Schreibstil • Campaign Flow für strukturierte Kampagnen • Integrierte Stockbild-Suche • KI-gestützte Ideen, Texte und Designs Ideal für: Creator, Affiliates, Coaches, Selbstständige, Online-Marketer und alle, die schneller professionelle Social-Media-Inhalte erstellen möchten.
 
 ## 2. Links
 

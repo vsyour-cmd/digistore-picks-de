@@ -41,45 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Der Newsletter Ghostwriter</strong></h2>
-<p><strong><br />Lass dir spannende Storytelling Newsletter schreiben – in wenigen Minuten!</strong></p>
-<p>Der Newsletter Ghostwriter ist ein KI-gestütztes Tool, entwickelt von Schreib-Profi Marike Frick – für ultraschnelle, spannende Newsletter ganz ohne Selbstquälen</p>
-<p><strong><br />So funktioniert der Ghostwriter:</strong></p>
-<p>&gt;&gt; Du loggst dich ein und gibst Stichworte oder Sprachnachrichten ein</p>
-<p>&gt;&gt; Das Tool fragt gezielt nach und extrahiert deine Story</p>
-<p>&gt;&gt; In wenigen Minuten liefert es einen schlüssig aufgebauten, spannend zu lesenden Newsletter</p>
-<p><strong><br />Was macht den Ghostwriter besonders?</strong></p>
-<ul>
-<li>
-<p>Er wurde trainiert auf Marikes persönliche Schreib‑Regeln und klingt deshalb echt, persönlich und nicht nach Standard‑KI</p>
-</li>
-<li>
-<p>Lernt deinen eigenen Stil oder lässt dich „wie Marike“ schreiben – flexibel und individuell</p>
-</li>
-</ul>
-<p><strong><br />Vorteile auf einen Blick:</strong></p>
-<ul>
-<li>
-<p><strong>Massive Zeitersparnis</strong> – statt Stunden in wenigen Minuten mit dem Newsletter fertig</p>
-</li>
-<li>
-<p><strong>Storytelling wie ein Profi</strong> – Texte, die fesseln statt langweilen</p>
-</li>
-<li>
-<p><strong>Anfängerfreundlich</strong> – sehr gut geeignet, wenn du Newsletter endlich konsequent starten willst </p>
-</li>
-</ul>
-<p> </p>
-<p><strong>Nutzung:</strong></p>
-<ul>
-<li>Nutzung über ChatGPT (kostenlos oder Pro‑Account), browser- und geräteübergreifend .</li>
-</ul>
-<p> </p>
-<p>----------------------------------</p>
-<p><strong>Nutzungsbedingungen für Affiliates:</strong></p>
-<ul>
-<li>Irreführende und intransparente Werbung durch den Affiliate, wie z.B. Schaltung von Google Ads auf die eigene Vendor-URL, ist nicht erlaubt!</li>
-</ul>
+**Vendor's marketplace description:** Der Newsletter Ghostwriter Lass dir spannende Storytelling Newsletter schreiben – in wenigen Minuten! Der Newsletter Ghostwriter ist ein KI-gestütztes Tool, entwickelt von Schreib-Profi Marike Frick – für ultraschnelle, spannende Newsletter ganz ohne Selbstquälen So funktioniert der Ghostwriter: >> Du loggst dich ein und gibst Stichworte oder Sprachnachrichten ein >> Das Tool fragt gezielt nach und extrahiert deine Story >> In wenigen Minuten liefert es einen schlüssig aufgebauten, spannend zu lesenden Newsletter Was macht den Ghostwriter besonders? Er wurde trainiert auf Marikes persönliche Schreib‑Regeln und klingt deshalb echt, persönlich und nicht nach Standard‑KI Lernt deinen eigenen Stil oder lässt dich „wie Marike“ schreiben – flexibel und individuell Vorteile auf einen Blick: Massive Zeitersparnis – statt Stunden in wenigen Minuten mit dem Newsletter fertig Storytelling wie ein Profi – Texte, die fesseln statt langweilen Anfängerfreundlich – sehr gut geeignet, wenn du Newsletter endlich konsequent starten willst Nutzung: Nutzung über ChatGPT (kostenlos oder Pro‑Account), browser- und geräteübergreifend . ---------------------------------- Nutzungsbedingungen für Affiliates: Irreführende und intransparente Werbung durch den Affiliate, wie z.B. Schaltung von Google Ads auf die eigene Vendor-URL, ist nicht erlaubt!
 
 ## 2. Links
 

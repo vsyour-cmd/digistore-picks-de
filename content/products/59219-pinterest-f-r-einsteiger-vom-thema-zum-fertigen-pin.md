@@ -41,58 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Pinterest verstehen. Den eigenen Auftritt Schritt für Schritt aufbauen.</strong></p>
-<p>Ein eigenes Thema finden, das Profil vorbereiten, erste Pins gestalten und wissen, was nach dem Klick passieren soll: Genau dabei unterstützt das <strong>„Einfach mit Matze – Pinterest-Praxispaket“</strong>.</p>
-<p>Du empfiehlst ein deutschsprachiges Selbstlernpaket für Einsteiger, die Pinterest für ein eigenes Projekt nutzen möchten und dafür einen verständlichen Ablauf suchen. Käufer arbeiten in ihrem eigenen Tempo und übertragen die Beispiele direkt auf ihr Thema.</p>
-<p> </p>
-<p><strong>Das steckt im Paket</strong></p>
-<ul>
-<li>
-<p><strong>53-seitiger Praxisguide mit sechs Kapiteln</strong><br />Von Themenwahl und Zielgruppe über Profil, Suchformulierungen und Pin-Gestaltung bis zur passenden Zielseite, Veröffentlichungsroutine und Auswertung. Mit konkreten Aufgaben, ausgefüllten Beispielen und Hilfe bei typischen Fehlern.</p>
-</li>
-<li>
-<p><strong>Bearbeitbare Arbeitsmappe mit sieben Blättern</strong><br />Hier entstehen Themen-Kompass, Profilentwurf, Pin-Plan, Klickweg, Redaktionsplan und Auswertung. Vorbereitete Felder helfen, Entscheidungen festzuhalten. Formeln berechnen Klickraten aus den eigenen Eingaben.</p>
-</li>
-<li>
-<p><strong>Sechs bearbeitbare Pin-Layouts</strong><br />Jeweils mit ausgefülltem Beispiel und eigener Vorlage in einer PowerPoint-Datei. Darunter Frage, Drei-Schritte-Anleitung, Checkliste und Ressourcen-Empfehlung. Texte, Formen und Bilder lassen sich an das eigene Projekt anpassen.</p>
-</li>
-<li>
-<p><strong>Ein anpassbarer Vier-Wochen-Übungsplan</strong><br />Für die ersten sechs Pins und deren Auswertung. Käufer bereiten eigene Inhalte vor, planen die Veröffentlichung und halten anschließend ihre Beobachtungen fest.</p>
-</li>
-<li>
-<p><strong>Anleitungen und Anschauungsmaterial</strong><br />Eine PDF-Übersicht der Layouts, Hinweise zum Bearbeiten und Exportieren sowie eine zweiseitige Beispiel-Checkliste zum Ausdrucken.</p>
-</li>
-</ul>
-<p> </p>
-<p><strong>Ein roter Faden vom ersten Gedanken bis zur Auswertung</strong></p>
-<p>Die fiktive Erklärfigur Matze begleitet den Lernweg an einem durchgehenden Balkonprojekt. So wird sichtbar, wie Thema, Pin und Zielseite zusammengehören.</p>
-<p>Käufer können diesen Ablauf auf ihr eigenes Vorhaben übertragen und nach jedem Kapitel prüfen, was bereits fertig ist und welcher Schritt als Nächstes ansteht.</p>
-<p> </p>
-<p><strong>Für welche Zielgruppe sich deine Empfehlung eignet</strong></p>
-<p>Für deutschsprachige Pinterest-Einsteiger, angehende Blogger und Menschen, die ein eigenes Onlineprojekt vorbereiten.</p>
-<p>Besonders passend ist das Paket für eine Zielgruppe, die verständliche Erklärungen mit bearbeitbaren Materialien verbinden und selbst ins Tun kommen möchte.</p>
-<p> </p>
-<p><strong>Deine Affiliate-Konditionen</strong></p>
-<ul>
-<li>
-<p><strong>40 % Affiliate-Provision</strong></p>
-</li>
-<li>
-<p><strong>Verkaufspreis: 99 € inklusive Mehrwertsteuer</strong></p>
-</li>
-<li>
-<p><strong>Einmalzahlung ohne Abo</strong></p>
-</li>
-<li>
-<p>Digitales Selbstlernpaket zum eigenständigen Durcharbeiten</p>
-</li>
-</ul>
-<p> </p>
-<p><strong>Format und Voraussetzungen</strong></p>
-<p>Für die Dateien werden ein PDF-Reader sowie Programme für XLSX und PPTX benötigt. Ein kostenpflichtiger Planer ist für die Grundübungen nicht erforderlich.</p>
-<p>Videos, Einzelcoaching und Community sind nicht enthalten. Reichweite, Verkäufe oder Einnahmen werden nicht garantiert.</p>
-<p> </p>
-<p><strong>Empfiehl das Pinterest-Praxispaket Menschen, die bei Thema, Profil und ersten Pins eine verständliche Anleitung suchen.</strong></p>
+**Vendor's marketplace description:** Pinterest verstehen. Den eigenen Auftritt Schritt für Schritt aufbauen. Ein eigenes Thema finden, das Profil vorbereiten, erste Pins gestalten und wissen, was nach dem Klick passieren soll: Genau dabei unterstützt das „Einfach mit Matze – Pinterest-Praxispaket“ . Du empfiehlst ein deutschsprachiges Selbstlernpaket für Einsteiger, die Pinterest für ein eigenes Projekt nutzen möchten und dafür einen verständlichen Ablauf suchen. Käufer arbeiten in ihrem eigenen Tempo und übertragen die Beispiele direkt auf ihr Thema. Das steckt im Paket 53-seitiger Praxisguide mit sechs Kapiteln Von Themenwahl und Zielgruppe über Profil, Suchformulierungen und Pin-Gestaltung bis zur passenden Zielseite, Veröffentlichungsroutine und Auswertung. Mit konkreten Aufgaben, ausgefüllten Beispielen und Hilfe bei typischen Fehlern. Bearbeitbare Arbeitsmappe mit sieben Blättern Hier entstehen Themen-Kompass, Profilentwurf, Pin-Plan, Klickweg, Redaktionsplan und Auswertung. Vorbereitete Felder helfen, Entscheidungen festzuhalten. Formeln berechnen Klickraten aus den eigenen Eingaben. Sechs bearbeitbare Pin-Layouts Jeweils mit ausgefülltem Beispiel und eigener Vorlage in einer PowerPoint-Datei. Darunter Frage, Drei-Schritte-Anleitung, Checkliste und Ressourcen-Empfehlung. Texte, Formen und Bilder lassen sich an das eigene Projekt anpassen. Ein anpassbarer Vier-Wochen-Übungsplan Für die ersten sechs Pins und deren Auswertung. Käufer bereiten eigene Inhalte vor, planen die Veröffentlichung und halten anschließend ihre Beobachtungen fest. Anleitungen und Anschauungsmaterial Eine PDF-Übersicht der Layouts, Hinweise zum Bearbeiten und Exportieren sowie eine zweiseitige Beispiel-Checkliste zum Ausdrucken. Ein roter Faden vom ersten Gedanken bis zur Auswertung Die fiktive Erklärfigur Matze begleitet den Lernweg an einem durchgehenden Balkonprojekt. So wird sichtbar, wie Thema, Pin und Zielseite zusammengehören. Käufer können diesen Ablauf auf ihr eigenes Vorhaben übertragen und nach jedem Kapitel prüfen, was bereits fertig ist und welcher Schritt als Nächstes ansteht. Für welche Zielgruppe sich deine Empfehlung eignet Für deutschsprachige Pinterest-Einsteiger, angehende Blogger und Menschen, die ein eigenes Onlineprojekt vorbereiten. Besonders passend ist das Paket für eine Zielgruppe, die verständliche Erklärungen mit bearbeitbaren Materialien verbinden und selbst ins Tun kommen möchte. Deine Affiliate-Konditionen 40 % Affiliate-Provision Verkaufspreis: 99 € inklusive Mehrwertsteuer Einmalzahlung ohne Abo Digitales Selbstlernpaket zum eigenständigen Durcharbeiten Format und Voraussetzungen Für die Dateien werden ein PDF-Reader sowie Programme für XLSX und PPTX benötigt. Ein kostenpflichtiger Planer ist für die Grundübungen nicht erforderlich. Videos, Einzelcoaching und Community sind nicht enthalten. Reichweite, Verkäufe oder Einnahmen werden nicht garantiert. Empfiehl das Pinterest-Praxispaket Menschen, die bei Thema, Profil und ersten Pins eine verständliche Anleitung suchen.
 
 ## 2. Links
 

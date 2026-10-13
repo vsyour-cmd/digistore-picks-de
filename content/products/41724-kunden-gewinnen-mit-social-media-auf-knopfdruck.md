@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Der Bestseller: Kunden gewinnen mit Social Media auf Knopfdruck!</strong></span></p>
-<p><strong>Das gibt es hier alles:</strong></p>
-<p><strong>✅  Social Media automatisieren: Worauf du achten musst</strong></p>
-<p><strong>✅  Welche Abläufe Du automatisieren solltest</strong></p>
-<p><strong>✅  Was sich nicht automatisieren lässt</strong></p>
-<p><strong>✅  Vollkommen automatisch Sales generieren? Der Marketing Funnel</strong></p>
-<p><strong>✅  Warum viele Standard-Funnel nicht so funktionieren wie geplant</strong></p>
-<p><strong>✅  Verschenke dieses geniale E-Book  an Deine Community</strong></p>
-<p><span style="background-color:#ffff00;"><strong>+ den Kurs: Affiliate Cash Machine (Wert 97 hier für 0 Euro!)</strong></span></p>
-<p><span style="background-color:#ffff00;"><strong>Im Upsell warten über 100 Euro Netto Provision auf Dich! inklusive einem Abo! Für dauerhafte wiederkehrente Provisionen !!! </strong></span></p>
+**Vendor's marketplace description:** Der Bestseller: Kunden gewinnen mit Social Media auf Knopfdruck! Das gibt es hier alles: ✅ Social Media automatisieren: Worauf du achten musst ✅ Welche Abläufe Du automatisieren solltest ✅ Was sich nicht automatisieren lässt ✅ Vollkommen automatisch Sales generieren? Der Marketing Funnel ✅ Warum viele Standard-Funnel nicht so funktionieren wie geplant ✅ Verschenke dieses geniale E-Book an Deine Community + den Kurs: Affiliate Cash Machine (Wert 97 hier für 0 Euro!) Im Upsell warten über 100 Euro Netto Provision auf Dich! inklusive einem Abo! Für dauerhafte wiederkehrente Provisionen !!!
 
 ## 2. Links
 

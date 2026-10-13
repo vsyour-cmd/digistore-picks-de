@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Künstliche Intelligenz verändert gerade die Welt — und Claude AI gehört zu den leistungsfähigsten KI-Assistenten überhaupt.</p>
-<p>Dieses Praxisbuch zeigt dir Schritt für Schritt, wie du Claude AI sinnvoll im Alltag und Beruf einsetzt.</p>
-<p>Du lernst unter anderem:</p>
-<p>• bessere Texte mit KI schreiben<br />• produktiver arbeiten<br />• Zeit sparen<br />• professionelle Prompts nutzen<br />• Claude im Berufsalltag einsetzen<br />• digitale Produkte erstellen<br />• mit KI neue Einkommensmöglichkeiten entdecken</p>
-<p>Enthalten:</p>
-<p>• verständliche Schritt-für-Schritt-Erklärungen<br />• Praxisbeispiele<br />• 30-Tage-Aktionsplan<br />• 50 sofort nutzbare Prompt-Vorlagen</p>
-<p>Produktart:<br />Digitales Ebook (PDF-Download)</p>
-<p>Auslieferung:<br />Der Kunde erhält das Produkt nach dem Kauf digital als PDF-Datei zum Download.</p>
-<p>Ideal für Einsteiger, Selbstständige, Content Creator und alle, die KI endlich praktisch nutzen möchten.</p>
+**Vendor's marketplace description:** Künstliche Intelligenz verändert gerade die Welt — und Claude AI gehört zu den leistungsfähigsten KI-Assistenten überhaupt. Dieses Praxisbuch zeigt dir Schritt für Schritt, wie du Claude AI sinnvoll im Alltag und Beruf einsetzt. Du lernst unter anderem: • bessere Texte mit KI schreiben • produktiver arbeiten • Zeit sparen • professionelle Prompts nutzen • Claude im Berufsalltag einsetzen • digitale Produkte erstellen • mit KI neue Einkommensmöglichkeiten entdecken Enthalten: • verständliche Schritt-für-Schritt-Erklärungen • Praxisbeispiele • 30-Tage-Aktionsplan • 50 sofort nutzbare Prompt-Vorlagen Produktart: Digitales Ebook (PDF-Download) Auslieferung: Der Kunde erhält das Produkt nach dem Kauf digital als PDF-Datei zum Download. Ideal für Einsteiger, Selbstständige, Content Creator und alle, die KI endlich praktisch nutzen möchten.
 
 ## 2. Links
 

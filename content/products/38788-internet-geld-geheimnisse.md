@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Verschenke ein kostenloses E-Book und verdiene <span style="text-decoration:underline;">bis zu 143€ Provision!</span></strong></h2>
-<p> </p>
-<p>Bewerbe unser einfach zu verkaufendes 1-Euro Angebot und erhalte Provision auf die vielen, hochkonvertierenden Upsells im Follow-Up-Funnel! </p>
-<p> </p>
-<hr />
-<h4> </h4>
-<h4><strong>Dein Verdienst: </strong></h4>
-<ul>
-<li><strong>Sofort-Upsell: </strong>67€ - 50% Provision</li>
-<li><strong>Upsell 2:</strong> 97€ - 50% Provision</li>
-<li><strong>Upsell 3: </strong>497€ - 45% Provision</li>
-<li>+<strong> Weitere Provisionen</strong> von unserem E-Mail-Funnel</li>
-</ul>
-<p> </p>
-<hr />
-<p> </p>
-<p><strong>Worauf wartest du noch?</strong> Werde unser Partner und profitiere von exklusiven Vorteilen!</p>
-<p>Hohe Provisionen, starke Conversion und kostenlose Top Betreuung durch erfahrene Affiliate-Manager erwarten dich! Das bekommst du sonst nirgends!</p>
+**Vendor's marketplace description:** Verschenke ein kostenloses E-Book und verdiene bis zu 143€ Provision! Bewerbe unser einfach zu verkaufendes 1-Euro Angebot und erhalte Provision auf die vielen, hochkonvertierenden Upsells im Follow-Up-Funnel! Dein Verdienst: Sofort-Upsell: 67€ - 50% Provision Upsell 2: 97€ - 50% Provision Upsell 3: 497€ - 45% Provision + Weitere Provisionen von unserem E-Mail-Funnel Worauf wartest du noch? Werde unser Partner und profitiere von exklusiven Vorteilen! Hohe Provisionen, starke Conversion und kostenlose Top Betreuung durch erfahrene Affiliate-Manager erwarten dich! Das bekommst du sonst nirgends!
 
 ## 2. Links
 

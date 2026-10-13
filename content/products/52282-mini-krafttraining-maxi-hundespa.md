@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>5 Minuten Power für Vierbeiner</p>
-<p>Einfache Übungen für starke Muskeln</p>
-<p>Viele Besitzer möchten Ihren Vierbeiner ergänzend zur Physiotherapie zu Hause unterstützen. Ich habe in diesem Guide ein paar einfache und effektive Übungen zusammengestellt, die man ohne teure Hilfsmittel und wenig Zeitaufwand daheim oder beim Spaziergang nachmachen kann.</p>
-<p>Dieses Produkt enthält:</p>
-<ul>
-<li>1 Videoanleitung</li>
-<li>1 mini Booklet  mit Bildern und ausführlicher Erklärung zum Ausdrucken</li>
-</ul>
+**Vendor's marketplace description:** 5 Minuten Power für Vierbeiner Einfache Übungen für starke Muskeln Viele Besitzer möchten Ihren Vierbeiner ergänzend zur Physiotherapie zu Hause unterstützen. Ich habe in diesem Guide ein paar einfache und effektive Übungen zusammengestellt, die man ohne teure Hilfsmittel und wenig Zeitaufwand daheim oder beim Spaziergang nachmachen kann. Dieses Produkt enthält: 1 Videoanleitung 1 mini Booklet mit Bildern und ausführlicher Erklärung zum Ausdrucken
 
 ## 2. Links
 

@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Sexualität und alles, was damit zusammenhängt, ist für die allermeisten das wichtigste Thema im Leben. Denn negative Erlebnisse, Emotionen und limitierende Muster hinterlassen tiefe Spuren und Prägungen, die Dich oft sehr lange begleiten und beeinflussen. Manchmal ein Leben lang.</p>
-<p>Doch mit seinem Online-Kurs „Die Heilung des Schoßraumes, der Sexualorgane und der Sexualität“ bringt Andreas Goldemann jetzt <strong>Klarheit, Entspannung und Befreiung</strong> in die persönlichen Themen rund um Sexualität.</p>
-<p>Das Ganze geschieht durch Goldemanns einmalige, intuitive Arbeit, bei der Du nur präsent im Körper und offen für Veränderung sein brauchst, damit es wirkt.</p>
-<p>Der Online-Kurs beinhaltet <strong>über 50 Sessions</strong> mit wertvollen Themen für beide Geschlechter. Die ersten 2 Sessions bekommen Deine Kontakte in unserem Funnel geschenkt.</p>
-<p>Was erwartet Dich? </p>
-<ul>
-<li><strong>33 % Provision</strong>: Bei dem derzeitigen Verkaufspreis von 497 € (Brutto) sind das nach dem Abzug von Gebühren und Umsatzsteuer <strong>130,25 € (Netto) für Dich</strong>, pro erfolgreicher Vermittlung!</li>
-<li><strong>20 % Lifetime-Provision</strong> für Folgeprodukte, die Dein neu gewonnener Lead im Laufe der Jahre bei uns kauft.</li>
-<li><strong>Optimierter Funnel </strong> mit Freebie, Verknappung und toller Conversion.</li>
-</ul>
-<p>Andreas Goldemann ist seit über 25 Jahren als Intuitive, Klangheiler und spiritueller Begleiter tätig und hat mit seiner Arbeit vielen hunderttausend Menschen weltweit geholfen.</p>
-<p><strong>Werde jetzt unser Partner</strong> und empfiehl Deinen Kontakten unseren Onlinekurs „Die Heilung des Schoßraumes, der Sexualorgane und der Sexualität“, damit auch sie wieder <strong>freier und entspannter in ihrer Sexualität</strong> sein können.</p>
+**Vendor's marketplace description:** Sexualität und alles, was damit zusammenhängt, ist für die allermeisten das wichtigste Thema im Leben. Denn negative Erlebnisse, Emotionen und limitierende Muster hinterlassen tiefe Spuren und Prägungen, die Dich oft sehr lange begleiten und beeinflussen. Manchmal ein Leben lang. Doch mit seinem Online-Kurs „Die Heilung des Schoßraumes, der Sexualorgane und der Sexualität“ bringt Andreas Goldemann jetzt Klarheit, Entspannung und Befreiung in die persönlichen Themen rund um Sexualität. Das Ganze geschieht durch Goldemanns einmalige, intuitive Arbeit, bei der Du nur präsent im Körper und offen für Veränderung sein brauchst, damit es wirkt. Der Online-Kurs beinhaltet über 50 Sessions mit wertvollen Themen für beide Geschlechter. Die ersten 2 Sessions bekommen Deine Kontakte in unserem Funnel geschenkt. Was erwartet Dich? 33 % Provision : Bei dem derzeitigen Verkaufspreis von 497 € (Brutto) sind das nach dem Abzug von Gebühren und Umsatzsteuer 130,25 € (Netto) für Dich , pro erfolgreicher Vermittlung! 20 % Lifetime-Provision für Folgeprodukte, die Dein neu gewonnener Lead im Laufe der Jahre bei uns kauft. Optimierter Funnel mit Freebie, Verknappung und toller Conversion. Andreas Goldemann ist seit über 25 Jahren als Intuitive, Klangheiler und spiritueller Begleiter tätig und hat mit seiner Arbeit vielen hunderttausend Menschen weltweit geholfen. Werde jetzt unser Partner und empfiehl Deinen Kontakten unseren Onlinekurs „Die Heilung des Schoßraumes, der Sexualorgane und der Sexualität“, damit auch sie wieder freier und entspannter in ihrer Sexualität sein können.
 
 ## 2. Links
 

@@ -41,35 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Bodo Schäfer – Europas Moneycoach Nr. 1 – <span style="text-decoration:underline;">verschenkt sein legendäres Finanzbuch für Kinder</span> und Erwachsene: </strong></p>
-<h2><strong>„Ein Hund namens Money“</strong>.</h2>
-<p>Als Affiliate erhältst du:</p>
-<ul>
-<li>
-<p><strong>5 € netto Provision</strong> pro verschenktem Buch</p>
-</li>
-<li>
-<p><strong>80 % Provision</strong> auf zwei starke Upsells:</p>
-</li>
-<li><strong>Turbo-Paket „Ein Hund namens Money“</strong><br />→ Dein Anteil: 80 % von 47 €</li>
-<li><strong>Online-Live-Seminar „Aufbruch“</strong><br />→ Dein Anteil: 80 % von 197 </li>
-<li> </li>
-</ul>
-<p><strong>Warum du als Affiliate hier profitierst:</strong></p>
-<ul>
-<li>
-<p>Bodo Schäfer ist Europas bekanntester Moneycoach – hohe Markenpower &amp; Vertrauen</p>
-</li>
-<li>
-<p>Kostenloses Buch = niedrige Einstiegshürde → sehr hohe Conversion</p>
-</li>
-<li>
-<p>Fester Verdienst von 5 € pro Buch + lukrative Upsell-Provisionen</p>
-</li>
-<li>
-<p>Sofort nutzbare Werbemittel für einen einfachen Start</p>
-</li>
-</ul>
+**Vendor's marketplace description:** Bodo Schäfer – Europas Moneycoach Nr. 1 – verschenkt sein legendäres Finanzbuch für Kinder und Erwachsene: „Ein Hund namens Money“ . Als Affiliate erhältst du: 5 € netto Provision pro verschenktem Buch 80 % Provision auf zwei starke Upsells: Turbo-Paket „Ein Hund namens Money“ → Dein Anteil: 80 % von 47 € Online-Live-Seminar „Aufbruch“ → Dein Anteil: 80 % von 197 Warum du als Affiliate hier profitierst: Bodo Schäfer ist Europas bekanntester Moneycoach – hohe Markenpower & Vertrauen Kostenloses Buch = niedrige Einstiegshürde → sehr hohe Conversion Fester Verdienst von 5 € pro Buch + lukrative Upsell-Provisionen Sofort nutzbare Werbemittel für einen einfachen Start
 
 ## 2. Links
 

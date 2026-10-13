@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Killer Blood Sugar Supplement now also available in German speaking Europe</strong></p>
-<div> </div>
+**Vendor's marketplace description:** Killer Blood Sugar Supplement now also available in German speaking Europe
 
 ## 2. Links
 

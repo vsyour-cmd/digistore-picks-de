@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Online Business Blueprint</strong>: 40 Lektionen in 10 Modulen zeigen Einsteigern und Nebenberuflichen Schritt für Schritt, wie sie ein eigenes Online-Business aufbauen – von der Idee bis zum ersten Verkauf. Mit 10 Erklärvideos, 32 Prompts, Workbook und Business-Planer.</p>
-<p><strong>Zielgruppe:</strong> Einsteiger, Nebenberufliche, Selbstständige und Creator, die seriös starten wollen – ohne Reich-in-30-Tagen-Versprechen.</p>
-<p><strong>Dein Vorteil als Partner:</strong> 50 % Provision bei 97 € Einmalpreis, automatische Partnerfreischaltung, hochwertige Optik und fertige Werbevideos.</p>
+**Vendor's marketplace description:** Online Business Blueprint : 40 Lektionen in 10 Modulen zeigen Einsteigern und Nebenberuflichen Schritt für Schritt, wie sie ein eigenes Online-Business aufbauen – von der Idee bis zum ersten Verkauf. Mit 10 Erklärvideos, 32 Prompts, Workbook und Business-Planer. Zielgruppe: Einsteiger, Nebenberufliche, Selbstständige und Creator, die seriös starten wollen – ohne Reich-in-30-Tagen-Versprechen. Dein Vorteil als Partner: 50 % Provision bei 97 € Einmalpreis, automatische Partnerfreischaltung, hochwertige Optik und fertige Werbevideos.
 
 ## 2. Links
 

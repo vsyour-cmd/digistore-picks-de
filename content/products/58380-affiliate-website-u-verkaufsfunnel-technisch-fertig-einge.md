@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Affiliate-Website &amp; Verkaufsfunnel – technisch fertig eingerichtet</p>
-<p>Diese Remote-Dienstleistung richtet sich an Selbstständige, Affiliate-Marketer und Anbieter digitaler Produkte, die ihre Website nicht selbst technisch aufbauen möchten.</p>
-<p>RS Webdesign erstellt eine klar strukturierte Affiliate-Website und verbindet die wichtigsten Bestandteile zu einem funktionierenden System: Website, Freebie, Newsletter-Anmeldung und Digistore24-Angebote.</p>
-<p>Im Paket enthalten:</p>
-<p>• individuelle Startseite<br />• Über-mich-Seite<br />• Produktübersicht<br />• Freebie- oder Verkaufsseite<br />• Kontaktseite<br />• Newsletter-Integration<br />• Einbindung der Digistore24-Links<br />• Optimierung für Smartphone und Tablet<br />• technische SEO-Grundeinstellungen<br />• Veröffentlichung der fertigen Website<br />• persönliches Erstgespräch<br />• eine Korrekturrunde</p>
-<p>Die Umsetzung erfolgt persönlich und vollständig remote. Nach dem Kauf nimmt RS Webdesign per E-Mail Kontakt mit dem Kunden auf und stimmt die benötigten Inhalte und Zugänge ab.</p>
-<p>Die Dienstleistung eignet sich besonders für Menschen, die mit Affiliate-Marketing oder digitalen Produkten arbeiten und eine verständliche, technisch saubere Website benötigen.</p>
-<p>Wichtig: Die Website schafft die technische Grundlage für das Online-Angebot. Bestimmte Umsätze, Besucherzahlen oder Verkaufsergebnisse werden nicht garantiert.</p>
+**Vendor's marketplace description:** Affiliate-Website & Verkaufsfunnel – technisch fertig eingerichtet Diese Remote-Dienstleistung richtet sich an Selbstständige, Affiliate-Marketer und Anbieter digitaler Produkte, die ihre Website nicht selbst technisch aufbauen möchten. RS Webdesign erstellt eine klar strukturierte Affiliate-Website und verbindet die wichtigsten Bestandteile zu einem funktionierenden System: Website, Freebie, Newsletter-Anmeldung und Digistore24-Angebote. Im Paket enthalten: • individuelle Startseite • Über-mich-Seite • Produktübersicht • Freebie- oder Verkaufsseite • Kontaktseite • Newsletter-Integration • Einbindung der Digistore24-Links • Optimierung für Smartphone und Tablet • technische SEO-Grundeinstellungen • Veröffentlichung der fertigen Website • persönliches Erstgespräch • eine Korrekturrunde Die Umsetzung erfolgt persönlich und vollständig remote. Nach dem Kauf nimmt RS Webdesign per E-Mail Kontakt mit dem Kunden auf und stimmt die benötigten Inhalte und Zugänge ab. Die Dienstleistung eignet sich besonders für Menschen, die mit Affiliate-Marketing oder digitalen Produkten arbeiten und eine verständliche, technisch saubere Website benötigen. Wichtig: Die Website schafft die technische Grundlage für das Online-Angebot. Bestimmte Umsätze, Besucherzahlen oder Verkaufsergebnisse werden nicht garantiert.
 
 ## 2. Links
 

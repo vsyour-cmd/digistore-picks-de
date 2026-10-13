@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehlen Sie unser Produkt für <strong>Email Werbung</strong> mit sehr hoher Bleiberate.</p>
-<p>Das sind Ihre Vorteile:</p>
-<ul>
-<li>wiederkehrende Provisionen auf Ihre Verkäufe von 40%</li>
-<li>Hohe Kauf und Upsellraten unserer Produkte.</li>
-</ul>
-<p>Verdienen Sie sofort und mit wenigen Mausklicks dauerhaft wiederkehrende Provisionen!</p>
-<p><strong>Ihr Goldaccount bei werbemail24.com<br /></strong>Schreiben Sie täglich eine Werbemail an über 1140 Interessenten aus dem Bereich Geld verdienen im Internet.</p>
-<p><strong>Das erhalten Sie mit der Gold-Mitgliedschaft:</strong></p>
-<p>» Mailversand 1x pro Tag (alle 20 Stunden)<br />» Mailversand an Downline kostenlos<br />» Mailversand 5 Tage im voraus planen<br />» 65 Credits pro Email Klick<br />» 6 Sekunden Timer<br />» 50000 Bonus Credits jeden Monat<br />» 40% Provision auf alle Referral OTO und Offer Käufe</p>
-<p><strong>Was bedeutet das für Sie?</strong></p>
-<p>» Höhere Provisionen<br />» Kürzerer Timer<br />» Mehr Credits<br />» Mehr Credits pro Mail</p>
-<p><strong><u>Handeln Sie jetzt</u>, nehmen Sie dieses einmalige Angebot wahr<br />und sparen Sie richtig viel Geld pro Jahr und Monat!</strong><strong><br /><br />Sie haben keine eigene Emailliste?<br /></strong>Kein Problem, nutzen Sie einfach unseren Goldservice!</p>
-<h3><strong><br />Zahlen Sie die Gold-Mitgliedschaft zum Sonderpreis via PayPal oder Kreditkarte.</strong></h3>
-<div>
-<p><strong>Der Account wird automatisch hochgestuft!</strong></p>
-<div>
-<div>Freuen Sie sich auf neueste Marketing Tipps und Tricks <br />- ideal für den Einsatz in jedem Marketingbereich. </div>
-</div>
-</div>
-<div> </div>
+**Vendor's marketplace description:** Empfehlen Sie unser Produkt für Email Werbung mit sehr hoher Bleiberate. Das sind Ihre Vorteile: wiederkehrende Provisionen auf Ihre Verkäufe von 40% Hohe Kauf und Upsellraten unserer Produkte. Verdienen Sie sofort und mit wenigen Mausklicks dauerhaft wiederkehrende Provisionen! Ihr Goldaccount bei werbemail24.com Schreiben Sie täglich eine Werbemail an über 1140 Interessenten aus dem Bereich Geld verdienen im Internet. Das erhalten Sie mit der Gold-Mitgliedschaft: » Mailversand 1x pro Tag (alle 20 Stunden) » Mailversand an Downline kostenlos » Mailversand 5 Tage im voraus planen » 65 Credits pro Email Klick » 6 Sekunden Timer » 50000 Bonus Credits jeden Monat » 40% Provision auf alle Referral OTO und Offer Käufe Was bedeutet das für Sie? » Höhere Provisionen » Kürzerer Timer » Mehr Credits » Mehr Credits pro Mail Handeln Sie jetzt , nehmen Sie dieses einmalige Angebot wahr und sparen Sie richtig viel Geld pro Jahr und Monat! Sie haben keine eigene Emailliste? Kein Problem, nutzen Sie einfach unseren Goldservice! Zahlen Sie die Gold-Mitgliedschaft zum Sonderpreis via PayPal oder Kreditkarte. Der Account wird automatisch hochgestuft! Freuen Sie sich auf neueste Marketing Tipps und Tricks - ideal für den Einsatz in jedem Marketingbereich.
 
 ## 2. Links
 

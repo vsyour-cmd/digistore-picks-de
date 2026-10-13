@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Kolibri School ist eine <strong>online Malschule für Kinder</strong>, in der jedes Kind ab 6 ganz einfach und praktisch von zu Hause malen lernen kann.</p>
-<p>Tiere zu malen macht besonders vile Spaß! In dem Malkurs "Bunte Tiere" werden <strong>vier kreative Tiermotive</strong> in Aquarell gemalt. Kinder erfahren spannende Fakten über <strong>den roten Fuchs</strong> aus den heimischen Wäldern, <strong>das schicke Lama</strong> aus Südamerika, <strong>den Tukan</strong> mit seinem außergewöhnlichen Schnabel und <strong>den Blauwal</strong>, das größte Tier der Welt. </p>
-<p>Du hast als Zielgruppe <strong>Eltern mit Kindern im Alter von 6 bis 10</strong> und Lust unseren Malkurs zu präsentieren, dann melde dich als Affliate bei uns an.</p>
-<p> </p>
-<p><strong>Zum Produkt:</strong></p>
-<ul>
-<li>4 Video Malkurse je ca 25 Min</li>
-<li>4 selbstgemalte Bilder in Aquarell</li>
-<li>kindergerechte und pädagogisch aufbereitete Schritt-für-Schritt-Anleitung</li>
-<li>geeignet für Kinder ab 6 Jahren</li>
-<li>von Profi-Künstlerin erstellt</li>
-</ul>
-<p><strong>Deine Vorteile:</strong></p>
-<ul>
-<li>20% Provision pro Verkauf</li>
-<li>Hochwertiges Produkt zum atraktiven Preis</li>
-<li>zufriedene Kunden</li>
-<li>sicheres Partnerprogram verwaltet durch Digistore24</li>
-<li>perfekte Nische, kaum Wettbewerb</li>
-<li>Werbemittel nach Anfrage  </li>
-</ul>
-<p>Bei weiteren Fragen stehen wir gerne per E-mail kunst@kolibri-school.de zur Verfügung.</p>
+**Vendor's marketplace description:** Kolibri School ist eine online Malschule für Kinder , in der jedes Kind ab 6 ganz einfach und praktisch von zu Hause malen lernen kann. Tiere zu malen macht besonders vile Spaß! In dem Malkurs "Bunte Tiere" werden vier kreative Tiermotive in Aquarell gemalt. Kinder erfahren spannende Fakten über den roten Fuchs aus den heimischen Wäldern, das schicke Lama aus Südamerika, den Tukan mit seinem außergewöhnlichen Schnabel und den Blauwal , das größte Tier der Welt. Du hast als Zielgruppe Eltern mit Kindern im Alter von 6 bis 10 und Lust unseren Malkurs zu präsentieren, dann melde dich als Affliate bei uns an. Zum Produkt: 4 Video Malkurse je ca 25 Min 4 selbstgemalte Bilder in Aquarell kindergerechte und pädagogisch aufbereitete Schritt-für-Schritt-Anleitung geeignet für Kinder ab 6 Jahren von Profi-Künstlerin erstellt Deine Vorteile: 20% Provision pro Verkauf Hochwertiges Produkt zum atraktiven Preis zufriedene Kunden sicheres Partnerprogram verwaltet durch Digistore24 perfekte Nische, kaum Wettbewerb Werbemittel nach Anfrage Bei weiteren Fragen stehen wir gerne per E-mail kunst@kolibri-school.de zur Verfügung.
 
 ## 2. Links
 

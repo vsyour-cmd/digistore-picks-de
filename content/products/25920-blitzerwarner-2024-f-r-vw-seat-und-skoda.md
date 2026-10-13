@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><strong>Blitzerwarner 2024 für VW, Seat &amp; Skoda</strong><strong><br /></strong></h4>
-<p><span style="text-decoration:underline;">Der Blitzerwarner ist eine Erweiterung für das originale VW, Seat und Skoda Navigationssystem.</span></p>
-<p>Es handelt sich um einen Sofortdownload. Dieser muss nur auf eine leere SD-Karte kopiert und einmalig im Auto aktiviert werden.</p>
-<p>Danach ist der Schutz vor Blitzern automatisch immer aktiv. Die Fahrzeuggarantie bleibt dabei zu 100% erhalten.</p>
-<p>-<span style="text-decoration:underline;">Größte erhältliche <a href="https://www.autoradio-info.de/blitzerwarner/" target="_blank" rel="noreferrer noopener">Blitzer POI</a> Datenbank für ganz Europa (über 100.000 Blitzer!)</span></p>
-<p>-<span style="text-decoration:underline;">Fix und fertig aufbereitet für die SD-Karte.</span></p>
-<p>-<span style="text-decoration:underline;">Schritt für Schritt Anleitung zum einmaligen aktivieren im Auto.</span></p>
-<p><strong>Nehme jetzt Teil</strong> und verdiene als Affiliate bis zu <strong>8,00€ pro Verkauf!</strong></p>
-<p><strong>Einzigartig:<br /></strong>• 5,00€ Provision für den Blitzerwarner<br />• 3,00€ Provision auf jeden Upsell</p>
-<p><a href="https://www.blitzerwarner.autoradio-info.de/Partnerprogramm/" target="_blank" rel="noreferrer noopener"><strong>&gt;&gt; Hinweise zum Partnerprogramm (hier klicken)&lt;&lt;</strong></a></p>
+**Vendor's marketplace description:** Blitzerwarner 2024 für VW, Seat & Skoda Der Blitzerwarner ist eine Erweiterung für das originale VW, Seat und Skoda Navigationssystem. Es handelt sich um einen Sofortdownload. Dieser muss nur auf eine leere SD-Karte kopiert und einmalig im Auto aktiviert werden. Danach ist der Schutz vor Blitzern automatisch immer aktiv. Die Fahrzeuggarantie bleibt dabei zu 100% erhalten. - Größte erhältliche Blitzer POI Datenbank für ganz Europa (über 100.000 Blitzer!) - Fix und fertig aufbereitet für die SD-Karte. - Schritt für Schritt Anleitung zum einmaligen aktivieren im Auto. Nehme jetzt Teil und verdiene als Affiliate bis zu 8,00€ pro Verkauf! Einzigartig: • 5,00€ Provision für den Blitzerwarner • 3,00€ Provision auf jeden Upsell >> Hinweise zum Partnerprogramm (hier klicken)<<
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Verkaufsseiten-Ersteller Pro</p>
-<p> </p>
-<p>Erstellen Sie Landingpages, die tatsächlich verkaufen</p>
-<p>Vergessen Sie komplizierte, langsame Page-Builder und hohe wiederkehrende monatliche Gebühren. Erstellen Sie im Handumdrehen hochkonvertierende Sektionen, optimieren Sie Ihren Vertriebskanal und profitieren Sie von einer exzellenten Seitenladegeschwindigkeit für Ihre Werbekapagnen.</p>
-<p> </p>
-<p> </p>
-<p>Kostenlos ausprobieren</p>
+**Vendor's marketplace description:** Verkaufsseiten-Ersteller Pro Erstellen Sie Landingpages, die tatsächlich verkaufen Vergessen Sie komplizierte, langsame Page-Builder und hohe wiederkehrende monatliche Gebühren. Erstellen Sie im Handumdrehen hochkonvertierende Sektionen, optimieren Sie Ihren Vertriebskanal und profitieren Sie von einer exzellenten Seitenladegeschwindigkeit für Ihre Werbekapagnen. Kostenlos ausprobieren
 
 ## 2. Links
 

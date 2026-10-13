@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das erste Tracking-System für Affiliates die E-Mail Marketing betreiben.</p>
-<p> </p>
-<p>Deine Vorteile als Partner:</p>
-<ul>
-<li>Lebenslang 25 % wiederkehrende Provisionen auf Deine Verkäufe </li>
-<li>Hohe Conversionrate aufgrund kostenloses Test Paket</li>
-<li>Nie wieder Verluste durch wechselnde Browser und Geräte dank des einzigartigen Multi-Device-Trackings (im Durchschnitt 52 % höhere Provisionen).</li>
-<li><a href="https://happylead.de/partner" target="_blank" rel="noreferrer noopener">Große Auswahl optimierter Werbemittel: </a></li>
-</ul>
-<p>Besuche jetzt unser <a href="https://happylead.de/partner" target="_blank" rel="noreferrer noopener">Affiliate Center</a>, um noch heute Teil der Happy Lead Familie zu werden!</p>
-<p> </p>
+**Vendor's marketplace description:** Das erste Tracking-System für Affiliates die E-Mail Marketing betreiben. Deine Vorteile als Partner: Lebenslang 25 % wiederkehrende Provisionen auf Deine Verkäufe Hohe Conversionrate aufgrund kostenloses Test Paket Nie wieder Verluste durch wechselnde Browser und Geräte dank des einzigartigen Multi-Device-Trackings (im Durchschnitt 52 % höhere Provisionen). Große Auswahl optimierter Werbemittel: Besuche jetzt unser Affiliate Center , um noch heute Teil der Happy Lead Familie zu werden!
 
 ## 2. Links
 

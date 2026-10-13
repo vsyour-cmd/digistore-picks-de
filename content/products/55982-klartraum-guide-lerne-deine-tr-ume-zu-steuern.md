@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><span style="background-color:#00ffff;"><strong><u>Der Klartraum Guide für Einsteiger:</u></strong></span></h3>
-<p>Hast du jemals davon geträumt, zu fliegen, Ängste zu überwinden oder in deiner eigenen Traumwelt grenzenlose Freiheit zu genießen? <strong>Jetzt ist der Moment, deine Träume in deine Kontrolle zu bringen!</strong></p>
-<p> </p>
-<p><span style="background-color:#00ffff;"><strong><u>Was dich erwartet</u></strong><strong><u>:</u></strong></span></p>
-<p><strong>Schritt-für-Schritt-Anleitungen</strong> zu den effektivsten Techniken, wie das Traumtagebuch, die Reality Checks, und MILD</p>
-<p><br /><strong>Tipps &amp; Tricks</strong>, um die Klarträume stabil zu halten</p>
-<p><br /><strong>Unglaubliche Fähigkeiten</strong>, wie Fliegen, Objekte erschaffen oder durch Wände gehen – leicht erklärt und anwendbar</p>
-<p><br /><strong>Wissenschaftliche Erkenntnisse</strong>, die zeigen, dass Klarträumen definitiv möglich sind</p>
-<p><br /><strong>Praktische Tipps</strong>, um Albträume zu überwinden und in jeder Situation die Kontrolle zu behalten </p>
-<p> </p>
-<h3 style="text-align:center;"><span style="background-color:#00ffff;">✅ Nach deiner Bestellung erhältst du das eBook sofort per E-Mail.</span></h3>
+**Vendor's marketplace description:** Der Klartraum Guide für Einsteiger: Hast du jemals davon geträumt, zu fliegen, Ängste zu überwinden oder in deiner eigenen Traumwelt grenzenlose Freiheit zu genießen? Jetzt ist der Moment, deine Träume in deine Kontrolle zu bringen! Was dich erwartet : Schritt-für-Schritt-Anleitungen zu den effektivsten Techniken, wie das Traumtagebuch, die Reality Checks, und MILD Tipps & Tricks , um die Klarträume stabil zu halten Unglaubliche Fähigkeiten , wie Fliegen, Objekte erschaffen oder durch Wände gehen – leicht erklärt und anwendbar Wissenschaftliche Erkenntnisse , die zeigen, dass Klarträumen definitiv möglich sind Praktische Tipps , um Albträume zu überwinden und in jeder Situation die Kontrolle zu behalten ✅ Nach deiner Bestellung erhältst du das eBook sofort per E-Mail.
 
 ## 2. Links
 

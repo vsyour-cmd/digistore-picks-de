@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Klarheitscode ist ein digitales 7-Tage-SOS-System für Frauen, die bei Funkstille, widersprüchlichen Signalen und Unsicherheit im Dating oder in Beziehungen ins Grübeln geraten.</p>
-<p><br />Das 67-€-Paket enthält ein strukturiertes E-Book, ein begleitendes Workbook, praktische SOS-Karten und drei unterstützende Audios. Es unterstützt die Zielgruppe dabei, Gedanken zu ordnen, emotionale Impulse zu unterbrechen und Entscheidungen wieder klarer zu treffen.</p>
-<p><br />Darum lohnt sich die Bewerbung:</p>
-<p><br />• 50 % Affiliate-Provision<br />• klar definierte Zielgruppe<br />• dauerhaft relevantes Thema rund um Dating, Funkstille, Selbstwert und Beziehungen<br />• professionell gestaltete Verkaufsseite<br />• fertige E-Mail-Vorlagen und Social-Media-Texte<br />• sieben fertige Werbegrafiken für Website, Instagram, Story und Pinterest<br />• automatische Annahme der Affiliate-Partnerschaft<br />• ergänzende Angebote im Verkaufsprozess: Nachrichten-Kompass und 21-Tage-Selbstwert- und Grenzen-Programm</p>
-<p><br />Besonders geeignet für Dating-, Beziehungs-, Selbstwert- und Persönlichkeitsentwicklungs-Accounts, Blogs, Newsletter und Social-Media-Kanäle.</p>
+**Vendor's marketplace description:** Der Klarheitscode ist ein digitales 7-Tage-SOS-System für Frauen, die bei Funkstille, widersprüchlichen Signalen und Unsicherheit im Dating oder in Beziehungen ins Grübeln geraten. Das 67-€-Paket enthält ein strukturiertes E-Book, ein begleitendes Workbook, praktische SOS-Karten und drei unterstützende Audios. Es unterstützt die Zielgruppe dabei, Gedanken zu ordnen, emotionale Impulse zu unterbrechen und Entscheidungen wieder klarer zu treffen. Darum lohnt sich die Bewerbung: • 50 % Affiliate-Provision • klar definierte Zielgruppe • dauerhaft relevantes Thema rund um Dating, Funkstille, Selbstwert und Beziehungen • professionell gestaltete Verkaufsseite • fertige E-Mail-Vorlagen und Social-Media-Texte • sieben fertige Werbegrafiken für Website, Instagram, Story und Pinterest • automatische Annahme der Affiliate-Partnerschaft • ergänzende Angebote im Verkaufsprozess: Nachrichten-Kompass und 21-Tage-Selbstwert- und Grenzen-Programm Besonders geeignet für Dating-, Beziehungs-, Selbstwert- und Persönlichkeitsentwicklungs-Accounts, Blogs, Newsletter und Social-Media-Kanäle.
 
 ## 2. Links
 

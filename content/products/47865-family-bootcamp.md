@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Endlich mehr Zeit für Gott und deine Familie durch smarte Geschäftskonzepte!</p>
-<p><strong>Speziell für christliche Angestellte wie Dich</strong></p>
-<p>Finde die perfekte Balance zwischen Gott, Familie und Geld verdienen. Mit "Family Bootcamp" erhältst Du die Werkzeuge, in deinem Glauben zu wachsen, deine Beziehung zu vertiefen und nebenbei gutes Geld zu verdienen.</p>
+**Vendor's marketplace description:** Endlich mehr Zeit für Gott und deine Familie durch smarte Geschäftskonzepte! Speziell für christliche Angestellte wie Dich Finde die perfekte Balance zwischen Gott, Familie und Geld verdienen. Mit "Family Bootcamp" erhältst Du die Werkzeuge, in deinem Glauben zu wachsen, deine Beziehung zu vertiefen und nebenbei gutes Geld zu verdienen.
 
 ## 2. Links
 

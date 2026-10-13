@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>EU KI-Dokumentationspflicht – Technische Aufzeichnungen 2026/2027</strong></p>
-<p>Dieses digitale Produkt ist ein <strong>praktisches PDF-Arbeitsheft</strong> für Unternehmen, die KI-Systeme einsetzen und technische Informationen, Änderungen, Risiken und Prüfprozesse nachvollziehbar dokumentieren möchten.</p>
-<p>Das Arbeitsheft unterstützt bei typischen Aufgaben rund um <strong>EU AI Act, technische KI-Dokumentation, Systemakten, Modellversionen, Logs und Audit-Nachweise</strong>.</p>
-<p><strong>Geeignet für:</strong></p>
-<ul>
-<li>Selbstständige und KMU</li>
-<li>Unternehmen mit eigenen oder externen KI-Systemen</li>
-<li>IT- und Produktteams</li>
-<li>KI- und Compliance-Verantwortliche</li>
-<li>Agenturen und Beratungen</li>
-<li>Unternehmen ohne eigene Compliance-Abteilung</li>
-</ul>
-<p><strong>Enthalten sind unter anderem:</strong></p>
-<ul>
-<li>technische KI-Systemdokumentation</li>
-<li>Modell- und Versionsaufzeichnungen</li>
-<li>Logs und technische Nachweise</li>
-<li>Metriken und Prüfkriterien</li>
-<li>Risiko- und Änderungsdokumentation</li>
-<li>Failsafe- und Kontrollprozesse</li>
-<li>Audit- und Prüfvorbereitung</li>
-<li>strukturierte Dokumentationsvorlagen</li>
-</ul>
-<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales Arbeitsheft im PDF-Format</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
-<p>Das Arbeitsheft dient als praktische Arbeits-, Strukturierungs- und Dokumentationshilfe und ersetzt keine individuelle Rechtsberatung.</p>
-<p><strong>Verkaufspreis: 29,00 €</strong> – digitaler Sofortdownload nach dem Kauf.</p>
+**Vendor's marketplace description:** EU KI-Dokumentationspflicht – Technische Aufzeichnungen 2026/2027 Dieses digitale Produkt ist ein praktisches PDF-Arbeitsheft für Unternehmen, die KI-Systeme einsetzen und technische Informationen, Änderungen, Risiken und Prüfprozesse nachvollziehbar dokumentieren möchten. Das Arbeitsheft unterstützt bei typischen Aufgaben rund um EU AI Act, technische KI-Dokumentation, Systemakten, Modellversionen, Logs und Audit-Nachweise . Geeignet für: Selbstständige und KMU Unternehmen mit eigenen oder externen KI-Systemen IT- und Produktteams KI- und Compliance-Verantwortliche Agenturen und Beratungen Unternehmen ohne eigene Compliance-Abteilung Enthalten sind unter anderem: technische KI-Systemdokumentation Modell- und Versionsaufzeichnungen Logs und technische Nachweise Metriken und Prüfkriterien Risiko- und Änderungsdokumentation Failsafe- und Kontrollprozesse Audit- und Prüfvorbereitung strukturierte Dokumentationsvorlagen Wichtig: Es handelt sich ausdrücklich um ein digitales Arbeitsheft im PDF-Format und nicht um Software, einen Videokurs oder einen Mitgliederbereich. Das Arbeitsheft dient als praktische Arbeits-, Strukturierungs- und Dokumentationshilfe und ersetzt keine individuelle Rechtsberatung. Verkaufspreis: 29,00 € – digitaler Sofortdownload nach dem Kauf.
 
 ## 2. Links
 

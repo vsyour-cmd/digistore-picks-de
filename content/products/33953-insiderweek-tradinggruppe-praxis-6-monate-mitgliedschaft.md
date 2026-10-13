@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><em>In unserer Tradinggruppe „Praxis“ legen wir unser Trading an den US-Futuresmärkten offen.</em></p>
-<p><em>Schau uns bei Vorbereitung und Durchführung unserer Trades "über die Schulter" und erfahre, WANN wir in den Markt einsteigen, WIE und WARUM. Erfahre alle unsere Ergebnisse.</em></p>
-<p><em>Folge unserem Weg an den Märkten und nutze unsere Tools und Informationen. Hebe so dein eigenes Trading auf ein neues Level! </em></p>
+**Vendor's marketplace description:** In unserer Tradinggruppe „Praxis“ legen wir unser Trading an den US-Futuresmärkten offen. Schau uns bei Vorbereitung und Durchführung unserer Trades "über die Schulter" und erfahre, WANN wir in den Markt einsteigen, WIE und WARUM. Erfahre alle unsere Ergebnisse. Folge unserem Weg an den Märkten und nutze unsere Tools und Informationen. Hebe so dein eigenes Trading auf ein neues Level!
 
 ## 2. Links
 

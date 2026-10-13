@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Wenn auch Ihr Hobby die Ahnenforschung ist, hier finden Sie ein perfektes Produkt für Ihre Internetseite!</p>
-<p>"<strong><span style="background-color:#ffff00;">Ahnenforschung</span> in Polen dank Internet leicht gemacht</strong>" ist ein Buch, das allen Forscher hilft, die <span style="background-color:#ffff00;">in Polen</span> nach Ihren Ahnen suchen.</p>
-<p>Wenn auch die Vorfahren <strong>Ihrer Besucher</strong> aus den Gebieten kommen, die heute zu Polen gehören, können Sie mit diesem E-Buch profitieren. Die meisten Leute sprechen kein polnisch, wollen aber in diesem Land mit ihren Forschungen weiter kommen.</p>
-<p><span style="text-decoration:underline;">Hier stelle ich die Lösung vor</span>! In dem Buch werden folgende Informationen gefunden:</p>
-<ul>
-<li>die für einen Ahnenforscher <strong>besten Internetseiten</strong> und zwar <span style="background-color:#ffff00;">übersetzt</span>!</li>
-<li>Suchmöglichkeiten: die wichtigsten, aber auch wenig bekannte Datenbanken</li>
-<li><span style="background-color:#ffff00;">Übersetzungsvorlagen</span> für Anträge, es werden aber auch die häufigsten Antworten übersetzt</li>
-<li>zahlreiche Internettipps</li>
-<li>sonstige Informationen, Begriffe, Möglichkeiten, mit denen der Ahnenforscher in Polen weiter kommt.</li>
-</ul>
-<p><span style="text-decoration:underline;">Der Markt für dieses Buch ist sehr groß</span>! <span style="background-color:#ffff00;">Millionen Personen</span> aus Schlesien, Ostpreussen oder Preussen haben Ihre Häuser nach 1945 verlassen. Viele der Nachkommen wollen jetzt die Spuren der Vorfahren finden. Und mein Buch unterstützt sie dabei :)</p>
-<p> </p>
+**Vendor's marketplace description:** Wenn auch Ihr Hobby die Ahnenforschung ist, hier finden Sie ein perfektes Produkt für Ihre Internetseite! " Ahnenforschung in Polen dank Internet leicht gemacht " ist ein Buch, das allen Forscher hilft, die in Polen nach Ihren Ahnen suchen. Wenn auch die Vorfahren Ihrer Besucher aus den Gebieten kommen, die heute zu Polen gehören, können Sie mit diesem E-Buch profitieren. Die meisten Leute sprechen kein polnisch, wollen aber in diesem Land mit ihren Forschungen weiter kommen. Hier stelle ich die Lösung vor ! In dem Buch werden folgende Informationen gefunden: die für einen Ahnenforscher besten Internetseiten und zwar übersetzt ! Suchmöglichkeiten: die wichtigsten, aber auch wenig bekannte Datenbanken Übersetzungsvorlagen für Anträge, es werden aber auch die häufigsten Antworten übersetzt zahlreiche Internettipps sonstige Informationen, Begriffe, Möglichkeiten, mit denen der Ahnenforscher in Polen weiter kommt. Der Markt für dieses Buch ist sehr groß ! Millionen Personen aus Schlesien, Ostpreussen oder Preussen haben Ihre Häuser nach 1945 verlassen. Viele der Nachkommen wollen jetzt die Spuren der Vorfahren finden. Und mein Buch unterstützt sie dabei :)
 
 ## 2. Links
 

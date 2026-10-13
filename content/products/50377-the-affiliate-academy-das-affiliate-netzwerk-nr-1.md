@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Starte deine Affiliate Marketing Journey<br /><br /></strong>Die Affiliate Academy ist <strong>eine Online Community</strong>, in der man Zugang zu einer <strong>Video Schritt-für-Schritt Anleitung</strong> erhählt, mit über 60 Videos und einer Laufzeit von über 5 Stunden. Einem wird von A-Z alles beigebracht, was man benötigt, um mit Affiliate marketing erfolgreich zu starten</p>
-<ol>
-<li>Produktfindung</li>
-<li>Personal Branding</li>
-<li>Instagram und TikTok Aufbau und Leitung</li>
-<li>Verkauf deiner Produkte (mit KI)</li>
-</ol>
-<p>Außerdem erhält man Zutritt zu unserer<strong> privaten Teilnehmergruppe</strong>, in der man sich mit allen <em>300+ Mitgliedern</em> austauschen kann, Fragen stellen kann und sich helfen lassen kann bei Problemen, die man defintiv zum Start haben wird.</p>
+**Vendor's marketplace description:** Starte deine Affiliate Marketing Journey Die Affiliate Academy ist eine Online Community , in der man Zugang zu einer Video Schritt-für-Schritt Anleitung erhählt, mit über 60 Videos und einer Laufzeit von über 5 Stunden. Einem wird von A-Z alles beigebracht, was man benötigt, um mit Affiliate marketing erfolgreich zu starten Produktfindung Personal Branding Instagram und TikTok Aufbau und Leitung Verkauf deiner Produkte (mit KI) Außerdem erhält man Zutritt zu unserer privaten Teilnehmergruppe , in der man sich mit allen 300+ Mitgliedern austauschen kann, Fragen stellen kann und sich helfen lassen kann bei Problemen, die man defintiv zum Start haben wird.
 
 ## 2. Links
 

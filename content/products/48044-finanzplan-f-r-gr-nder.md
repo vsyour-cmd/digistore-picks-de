@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Bewerbe das Bestseller EBook: Finanzplan für Gründer</strong></span></p>
-<p> </p>
-<p><strong>Das bekommt Deine Community:</strong></p>
-<p><strong>✅  Eigenkapital VS Fremdkapital. Was ist besser?</strong></p>
-<p><strong>✅  Wie erhälst Du eine Bildungsprämie?</strong></p>
-<p><strong>✅  Was musst Du genau beachten, bei der Finanzplanung?</strong></p>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Sehr gute Conversion:</strong></span></p>
-<p><strong>Deine Community bekommt das E-Book + unzählige  Kurse Geschenkt und Du verdienst am kompletten Upsell Prozess (Canva und KI Produkte) bis zu 137 Euro</strong></p>
+**Vendor's marketplace description:** Bewerbe das Bestseller EBook: Finanzplan für Gründer Das bekommt Deine Community: ✅ Eigenkapital VS Fremdkapital. Was ist besser? ✅ Wie erhälst Du eine Bildungsprämie? ✅ Was musst Du genau beachten, bei der Finanzplanung? Sehr gute Conversion: Deine Community bekommt das E-Book + unzählige Kurse Geschenkt und Du verdienst am kompletten Upsell Prozess (Canva und KI Produkte) bis zu 137 Euro
 
 ## 2. Links
 

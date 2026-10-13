@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Miniserien zur Förderung aller Meilensteine der Sprache für Kinder von 1 - 4 Jahren. Komplettes Förderprogramm in Miniserien für Dein Kind aufbereitet. Dein Kind schaut sich die Miniserien an und erwirbt die Meilensteine der Sprache sowie den zugrundeliegenden Sprachrhythmus: Einsilber, Zweisilber, Reime, Plural, Wortzusammensetzungen und Mehrsilber.</p>
+**Vendor's marketplace description:** Miniserien zur Förderung aller Meilensteine der Sprache für Kinder von 1 - 4 Jahren. Komplettes Förderprogramm in Miniserien für Dein Kind aufbereitet. Dein Kind schaut sich die Miniserien an und erwirbt die Meilensteine der Sprache sowie den zugrundeliegenden Sprachrhythmus: Einsilber, Zweisilber, Reime, Plural, Wortzusammensetzungen und Mehrsilber.
 
 ## 2. Links
 

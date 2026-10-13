@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb ein <strong>kostenloses Amazon FBA Anfänger-Ebook</strong> für Menschen, die verstehen möchten, wie Amazon FBA funktioniert und wie der Einstieg in ein eigenes Online-Business grundsätzlich aufgebaut ist.</p>
-<p>Das Ebook ist einfach erklärt, anfängerfreundlich und enthält praktische Inhalte wie Checklisten, Grundlagen, Schritt-für-Schritt-Erklärungen und einen 30-Tage-Plan.</p>
-<p><strong>Vorteile für Affiliates:</strong></p>
-<ul>
-<li>Kostenloses Frontend-Produkt</li>
-<li>Niedrige Einstiegshürde für Interessenten</li>
-<li>Beliebtes Thema: Amazon FBA &amp; Online-Business</li>
-<li>Ideal für Social Media, YouTube, Blogs, E-Mail und Ads</li>
-<li>Professionelle Landingpage</li>
-<li>Im Upsell sind bis zu <span style="background-color:#99cc00;"><strong>200 € Provision</strong></span> möglich</li>
-</ul>
-<p><strong>Zielgruppe:</strong></p>
-<p>Einsteiger, die Amazon FBA kennenlernen möchten und eine einfache, verständliche Anleitung suchen.</p>
-<p><strong>Wichtiger Hinweis:</strong></p>
-<p>Bitte seriös bewerben und keine Einkommensversprechen machen. Geeignete Werbeaussagen sind z. B. „Kostenloses Amazon FBA Ebook für Anfänger“ oder „Amazon FBA einfach erklärt“.</p>
+**Vendor's marketplace description:** Bewirb ein kostenloses Amazon FBA Anfänger-Ebook für Menschen, die verstehen möchten, wie Amazon FBA funktioniert und wie der Einstieg in ein eigenes Online-Business grundsätzlich aufgebaut ist. Das Ebook ist einfach erklärt, anfängerfreundlich und enthält praktische Inhalte wie Checklisten, Grundlagen, Schritt-für-Schritt-Erklärungen und einen 30-Tage-Plan. Vorteile für Affiliates: Kostenloses Frontend-Produkt Niedrige Einstiegshürde für Interessenten Beliebtes Thema: Amazon FBA & Online-Business Ideal für Social Media, YouTube, Blogs, E-Mail und Ads Professionelle Landingpage Im Upsell sind bis zu 200 € Provision möglich Zielgruppe: Einsteiger, die Amazon FBA kennenlernen möchten und eine einfache, verständliche Anleitung suchen. Wichtiger Hinweis: Bitte seriös bewerben und keine Einkommensversprechen machen. Geeignete Werbeaussagen sind z. B. „Kostenloses Amazon FBA Ebook für Anfänger“ oder „Amazon FBA einfach erklärt“.
 
 ## 2. Links
 

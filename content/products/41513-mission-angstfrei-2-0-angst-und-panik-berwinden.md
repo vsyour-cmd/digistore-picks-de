@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Internet ist voll mit Tipps&amp;Tricks gegen Ängste. Trotzdem leiden heute mehr Menschen denn je an Ängsten und Panikattacken. </p>
-<p>Woran liegt das? </p>
-<p>Der Grund dafür ist einfach: Viele Methoden zum Auflösen von Ängsten sind veraltet und widersprechen neuen Erkenntnissen aus der Neurowissenschaft. Denn wir wissen heute, wie man die Ursache von Ängsten finden und so bearbeiten kann, dass die Angst nicht mehr getriggert wird.</p>
-<p>Leider werden diese Erkenntnisse der Hirnforschung nicht in den Standardtherapien eingesetzt. Andere Methoden beruhen lediglich darauf, das Nervensystem mithilfe von Achtsamkeit oder Meditation zu beruhigen. Das verzögert aber nur das nächste Ausbrechen der Angst anstatt die Ursache aufzulösen.  </p>
-<p>Mit der TNE Methode ist es erstmals online möglich, zu lernen, Ängste und Panik ursachenorientiert und damit nachhaltig aufzulösen. </p>
-<p>Gründer der TNE Methode ist Sascha Jurek, Heilpraktiker für Psychotherapie und zertifizierter Hypnosetherapeut. </p>
-<p>Die Methode beruht auf aktueller wissenschaftlicher Forschung und setzt diese Erkenntnisse in einen leicht nachvollziehbaren Prozess um. </p>
-<p>Der Online Kurs umfasst ein Workbook, Videos sowie Audio-Hypnosen. </p>
-<p>Schon mehr als 2.000 Teilnehmer!</p>
-<p>Auch Ärzte, Psychologen, Coaches und Prominente vertrauen der TNE Methode, um Ängste aufzulösen!</p>
-<p><strong>Vorteile:</strong></p>
-<ul>
-<li>Verkaufspsychologisch optimierter Funnel</li>
-<li>Hohe Provision</li>
-<li>Geringe Stornoquote</li>
-<li>Hohe Bekanntheit von Sascha Jurek als Experte für Ängste</li>
-</ul>
+**Vendor's marketplace description:** Das Internet ist voll mit Tipps&Tricks gegen Ängste. Trotzdem leiden heute mehr Menschen denn je an Ängsten und Panikattacken. Woran liegt das? Der Grund dafür ist einfach: Viele Methoden zum Auflösen von Ängsten sind veraltet und widersprechen neuen Erkenntnissen aus der Neurowissenschaft. Denn wir wissen heute, wie man die Ursache von Ängsten finden und so bearbeiten kann, dass die Angst nicht mehr getriggert wird. Leider werden diese Erkenntnisse der Hirnforschung nicht in den Standardtherapien eingesetzt. Andere Methoden beruhen lediglich darauf, das Nervensystem mithilfe von Achtsamkeit oder Meditation zu beruhigen. Das verzögert aber nur das nächste Ausbrechen der Angst anstatt die Ursache aufzulösen. Mit der TNE Methode ist es erstmals online möglich, zu lernen, Ängste und Panik ursachenorientiert und damit nachhaltig aufzulösen. Gründer der TNE Methode ist Sascha Jurek, Heilpraktiker für Psychotherapie und zertifizierter Hypnosetherapeut. Die Methode beruht auf aktueller wissenschaftlicher Forschung und setzt diese Erkenntnisse in einen leicht nachvollziehbaren Prozess um. Der Online Kurs umfasst ein Workbook, Videos sowie Audio-Hypnosen. Schon mehr als 2.000 Teilnehmer! Auch Ärzte, Psychologen, Coaches und Prominente vertrauen der TNE Methode, um Ängste aufzulösen! Vorteile: Verkaufspsychologisch optimierter Funnel Hohe Provision Geringe Stornoquote Hohe Bekanntheit von Sascha Jurek als Experte für Ängste
 
 ## 2. Links
 

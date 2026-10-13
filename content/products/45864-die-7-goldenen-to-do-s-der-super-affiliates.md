@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4 style="text-align:center;"><span style="background-color:#ffff00;"><strong>"Die 7 goldenen To Do´s der Super-Affiliates"<br /></strong></span>Die Checkliste für jeden Tag!<br /><br />Das ist eine Checkliste mit 7 Punkten, die die täglichen, Umsatz produzierenden Tätigkeiten im Affiliate-Business beschreiben.</h4>
-<p>Sieben essenzielle Schritte, die jeden Tag helfen, die täglichen Aufgaben im Affiliate-Marketing Geschäft effizient und erfolgreich zu erledigen, ohne etwas zu übersehen. </p>
-<p><strong>Die Checkliste gibt's für 0 € und hat deshalb eine sehr gute Conversion. </strong></p>
-<p><em>Und als Schmankerl haben wir noch bei allen Produkten Add-On´s draufgepackt für Sofort-Provisionen!</em></p>
-<p><span style="background-color:#ffff00;"><strong>Bewirb die Checkliste mit den 7 goldenen To-Do´s und sacke 40 % Provision auf Add-ons und Upsells ein. <br />+Plus: 15 % Lifetime-Provision auf alle Folgeverkäufe!</strong></span></p>
-<p>Werde unser Partner und bekomme laufend automatisiert Provisionen</p>
+**Vendor's marketplace description:** "Die 7 goldenen To Do´s der Super-Affiliates" Die Checkliste für jeden Tag! Das ist eine Checkliste mit 7 Punkten, die die täglichen, Umsatz produzierenden Tätigkeiten im Affiliate-Business beschreiben. Sieben essenzielle Schritte, die jeden Tag helfen, die täglichen Aufgaben im Affiliate-Marketing Geschäft effizient und erfolgreich zu erledigen, ohne etwas zu übersehen. Die Checkliste gibt's für 0 € und hat deshalb eine sehr gute Conversion. Und als Schmankerl haben wir noch bei allen Produkten Add-On´s draufgepackt für Sofort-Provisionen! Bewirb die Checkliste mit den 7 goldenen To-Do´s und sacke 40 % Provision auf Add-ons und Upsells ein. +Plus: 15 % Lifetime-Provision auf alle Folgeverkäufe! Werde unser Partner und bekomme laufend automatisiert Provisionen
 
 ## 2. Links
 

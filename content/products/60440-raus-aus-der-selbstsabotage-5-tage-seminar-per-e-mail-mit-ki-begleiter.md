@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Raus aus der Selbstsabotage</strong> ist ein kompaktes 5-Tage-Seminar von Kyra Horn, Mentaltrainerin und Lebensberaterin mit psychologischer Kinesiologie (seit 2013).</p>
-<p><strong>Für wen?</strong> Für Menschen, die etwas schon lange tun wollen und sich immer wieder selbst ausbremsen: aufschieben, perfektionieren, sich kleinmachen, Ja sagen statt Nein, durchhalten bis zur Erschöpfung.</p>
-<p><strong>Was die Käufer bekommen:</strong></p>
-<ul>
-<li>5 Tage lang jeden Morgen eine E-Mail mit Impuls und Aufgabe (Tag 1 sofort nach dem Kauf)</li>
-<li>ein 14-seitiges Workbook, am Bildschirm ausfüllbar oder zum Ausdrucken</li>
-<li>die geführte Meditation „Gespräch mit deinem Unterbewusstsein“</li>
-<li>den „Lichtblick“: eine persönliche Rückmeldung zu jedem Tag, mit Hilfe von KI auf Grundlage von Kyras Methode</li>
-</ul>
-<p><strong>Die 5 Tage:</strong> Auslöser erkennen · Die Angst dahinter · Der Scheingewinn · Gespräch mit dem Unterbewusstsein · Dein neuer Weg</p>
-<p><strong>Für Affiliates:</strong> Preis 37 € einmalig, 40 % Provision. Passt ideal zu Zielgruppen aus Persönlichkeitsentwicklung, Coaching, Achtsamkeit, Spiritualität und Frauen-Business. Ein kostenloser Selbstsabotage-Check („Welcher Sabotage-Typ bist du?“) auf kyra-lebensberatung.de eignet sich als Einstieg.</p>
-<p>Verkaufsseite: kyra-lebensberatung.de/raus-aus-der-selbstsabotage</p>
+**Vendor's marketplace description:** Raus aus der Selbstsabotage ist ein kompaktes 5-Tage-Seminar von Kyra Horn, Mentaltrainerin und Lebensberaterin mit psychologischer Kinesiologie (seit 2013). Für wen? Für Menschen, die etwas schon lange tun wollen und sich immer wieder selbst ausbremsen: aufschieben, perfektionieren, sich kleinmachen, Ja sagen statt Nein, durchhalten bis zur Erschöpfung. Was die Käufer bekommen: 5 Tage lang jeden Morgen eine E-Mail mit Impuls und Aufgabe (Tag 1 sofort nach dem Kauf) ein 14-seitiges Workbook, am Bildschirm ausfüllbar oder zum Ausdrucken die geführte Meditation „Gespräch mit deinem Unterbewusstsein“ den „Lichtblick“: eine persönliche Rückmeldung zu jedem Tag, mit Hilfe von KI auf Grundlage von Kyras Methode Die 5 Tage: Auslöser erkennen · Die Angst dahinter · Der Scheingewinn · Gespräch mit dem Unterbewusstsein · Dein neuer Weg Für Affiliates: Preis 37 € einmalig, 40 % Provision. Passt ideal zu Zielgruppen aus Persönlichkeitsentwicklung, Coaching, Achtsamkeit, Spiritualität und Frauen-Business. Ein kostenloser Selbstsabotage-Check („Welcher Sabotage-Typ bist du?“) auf kyra-lebensberatung.de eignet sich als Einstieg. Verkaufsseite: kyra-lebensberatung.de/raus-aus-der-selbstsabotage
 
 ## 2. Links
 

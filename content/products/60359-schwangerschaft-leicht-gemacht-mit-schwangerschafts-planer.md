@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Schwangerschaft leicht gemacht – Ratgeber mit Schwangerschafts-Planer</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Der Ratgeber führt von der Mitteilung an den Arbeitgeber bis zum Elterngeld: Mutterschutz, Kündigungsschutz, Mutterschaftsgeld und Elternzeit. Der <strong>Schwangerschafts-Planer</strong> berechnet aus dem Geburtstermin alle wichtigen Daten.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Schwangere Arbeitnehmerinnen</li>
-<li>Werdende Eltern</li>
-<li>Paare, die Fristen nicht verpassen wollen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Die Schwangerschaft ist bestätigt</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Krankenkasse, Wohngeld, Versicherungen) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Schwangerschaft leicht gemacht – Ratgeber mit Schwangerschafts-Planer Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Der Ratgeber führt von der Mitteilung an den Arbeitgeber bis zum Elterngeld: Mutterschutz, Kündigungsschutz, Mutterschaftsgeld und Elternzeit. Der Schwangerschafts-Planer berechnet aus dem Geburtstermin alle wichtigen Daten. Die Zielgruppe Schwangere Arbeitnehmerinnen Werdende Eltern Paare, die Fristen nicht verpassen wollen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Die Schwangerschaft ist bestätigt Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Krankenkasse, Wohngeld, Versicherungen) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

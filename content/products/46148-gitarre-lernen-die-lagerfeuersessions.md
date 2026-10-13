@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das Produkt: Lerne Gitarre mit den Lagerfeuersessions von gitarrenbeginner.de</strong></p>
-<ul>
-<li>Gitarre lernen ohne Noten</li>
-<li>Keine Vorkenntnisse benötigt</li>
-<li>Hohe didaktische Kompetenz</li>
-<li>Geringer Lernaufwand schneller Erfolg</li>
-</ul>
-<p> </p>
-<p><strong>Über uns</strong></p>
-<p>2010 gegründet ist gitarrenbeginner.de heute mit durchschnittlich 40.000 Besuchern pro Monat eines der führenden Portale zum Thema Gitarre lernen im deutschsprachigen Raum. </p>
+**Vendor's marketplace description:** Das Produkt: Lerne Gitarre mit den Lagerfeuersessions von gitarrenbeginner.de Gitarre lernen ohne Noten Keine Vorkenntnisse benötigt Hohe didaktische Kompetenz Geringer Lernaufwand schneller Erfolg Über uns 2010 gegründet ist gitarrenbeginner.de heute mit durchschnittlich 40.000 Besuchern pro Monat eines der führenden Portale zum Thema Gitarre lernen im deutschsprachigen Raum.
 
 ## 2. Links
 

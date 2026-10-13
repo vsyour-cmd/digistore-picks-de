@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><span>D</span></strong><span>ie Geschichte der O, ein Hörbuch in natürlich weiblicher Sprache. Wegen seiner detaillierten Darstellung der Folgsamkeit des weiblichen Geschlechtes galt das Werk lange als ein umstrittenes Buch. Es übte auf die Entwicklung der Literatur Einfluss aus und ist einer der bekanntesten Romane der Welt.<br /><br />Hörbuch 16,69 Euro<br />Spielzeit 5 Stunden, 16 Minuten<br /></span></p>
+**Vendor's marketplace description:** D ie Geschichte der O, ein Hörbuch in natürlich weiblicher Sprache. Wegen seiner detaillierten Darstellung der Folgsamkeit des weiblichen Geschlechtes galt das Werk lange als ein umstrittenes Buch. Es übte auf die Entwicklung der Literatur Einfluss aus und ist einer der bekanntesten Romane der Welt. Hörbuch 16,69 Euro Spielzeit 5 Stunden, 16 Minuten
 
 ## 2. Links
 

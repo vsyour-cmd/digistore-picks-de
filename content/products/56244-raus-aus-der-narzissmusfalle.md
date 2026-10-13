@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Affiliate-Informationen – Raus aus der Narzissmusfalle</strong></p>
-<p>
+**Vendor's marketplace description:** Affiliate-Informationen – Raus aus der Narzissmusfalle
 
 ## 2. Links
 

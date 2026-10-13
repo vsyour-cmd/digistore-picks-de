@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>"Kindle AI Mastery" zeigt in in einer anfängerfreundlichen Weise, wie man mit Amazon Kindle (Amazon KDP) online Geld verdienen kann. Das E-Book enthält 5 Lektionen auf 20 Seiten.</p>
-<p><strong>Deine Vorteile als Partner</strong>:</p>
-<ul>
-<li>Qualitatives Freebie, welches du deiner Zielgruppe schneken und somit mehr Vertrauen aufbauen kannst.</li>
-<li>50% auf alle unsere Produkte im Funnel</li>
-<li>180 Tage Cookie-Laufzeit</li>
-<li>Qualitätsprodukte erstellt von Webpirat.de</li>
-</ul>
-<div style="width:0px;height:0px;"> </div>
-<div style="width:0px;height:0px;"></div>
+**Vendor's marketplace description:** "Kindle AI Mastery" zeigt in in einer anfängerfreundlichen Weise, wie man mit Amazon Kindle (Amazon KDP) online Geld verdienen kann. Das E-Book enthält 5 Lektionen auf 20 Seiten. Deine Vorteile als Partner : Qualitatives Freebie, welches du deiner Zielgruppe schneken und somit mehr Vertrauen aufbauen kannst. 50% auf alle unsere Produkte im Funnel 180 Tage Cookie-Laufzeit Qualitätsprodukte erstellt von Webpirat.de
 
 ## 2. Links
 

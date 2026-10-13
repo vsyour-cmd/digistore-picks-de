@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein tiefgründiges und hochaktuelles E-Book zum Thema gesellschaftliche Transformation und emotionale Tiefe. Perfekt für Blogs, Social-Media-Kanäle und Newsletter in den Bereichen Gesellschaft, Psychologie und Achtsamkeit. Hohe Conversion-Rate durch optimierte Verkaufsseite und sofortige Freischaltung für Affiliates! 40 % Provision pro Verkauf.</p>
+**Vendor's marketplace description:** Ein tiefgründiges und hochaktuelles E-Book zum Thema gesellschaftliche Transformation und emotionale Tiefe. Perfekt für Blogs, Social-Media-Kanäle und Newsletter in den Bereichen Gesellschaft, Psychologie und Achtsamkeit. Hohe Conversion-Rate durch optimierte Verkaufsseite und sofortige Freischaltung für Affiliates! 40 % Provision pro Verkauf.
 
 ## 2. Links
 

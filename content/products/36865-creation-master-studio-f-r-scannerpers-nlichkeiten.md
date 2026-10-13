@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das bekommst du im Creation Master Studio:</p>
-<p>- Einen 8-teiligen Videokurs über Klarheit und Fokus über deine Projekte für vielbegabte Scannerpersönlichkeiten.<br />Der Kurs ist so konzipiert, dass die Inhalte konkret auf den Punkt gebracht werden, sodass du keine Zeit mit sinnlosem Geplänkel verschwendest.</p>
-<p>Inhalte:</p>
-<p>1. Einführung<br />2. Deine Vision, dein Warum<br />3. Dein Commitment<br />4. Idealisierung, Visualisierung<br />5. Flow-Chart<br />6. Zeit<br />7. Iss den Frosch<br />8. Routinen, Rituale</p>
-<p>- Eine exklusive 3-monatige Mitgliedschaft in einem Erfolgteam.<br />Durch die Mitgliedschaft erhältst du die Unterstützung der anderen Mitglieder und erfährst dadurch neuen Mut, Durchhaltervermögen, neue Impulse, gemeinsame Erfahrungen, den gemeinsam kreiert es sich leichter und schneller.</p>
-<p>ein intensives Erfolgsteam-Treffen pro Woche in einem kleinen und persönlichen Team, das dich in allen Bereichen unterstützt und dir neue Impulse und eine andere Perspektive auf dein Projekt ermöglicht.</p>
-<p>Die Teams finden durch eine individuelle Betreuung in kleinen Gruppe (max. 4 Personen) statt.</p>
-<p> </p>
+**Vendor's marketplace description:** Das bekommst du im Creation Master Studio: - Einen 8-teiligen Videokurs über Klarheit und Fokus über deine Projekte für vielbegabte Scannerpersönlichkeiten. Der Kurs ist so konzipiert, dass die Inhalte konkret auf den Punkt gebracht werden, sodass du keine Zeit mit sinnlosem Geplänkel verschwendest. Inhalte: 1. Einführung 2. Deine Vision, dein Warum 3. Dein Commitment 4. Idealisierung, Visualisierung 5. Flow-Chart 6. Zeit 7. Iss den Frosch 8. Routinen, Rituale - Eine exklusive 3-monatige Mitgliedschaft in einem Erfolgteam. Durch die Mitgliedschaft erhältst du die Unterstützung der anderen Mitglieder und erfährst dadurch neuen Mut, Durchhaltervermögen, neue Impulse, gemeinsame Erfahrungen, den gemeinsam kreiert es sich leichter und schneller. ein intensives Erfolgsteam-Treffen pro Woche in einem kleinen und persönlichen Team, das dich in allen Bereichen unterstützt und dir neue Impulse und eine andere Perspektive auf dein Projekt ermöglicht. Die Teams finden durch eine individuelle Betreuung in kleinen Gruppe (max. 4 Personen) statt.
 
 ## 2. Links
 

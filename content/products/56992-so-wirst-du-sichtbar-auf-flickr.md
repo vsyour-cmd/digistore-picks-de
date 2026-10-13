@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Reichweite in der Foto-Community aufbauen, Explore erreichen und als Creator wahrgenommen werden</strong></p>
-<p>Auf Flickr entscheiden Qualität, Kontext und Community-Engagement darüber, wer gesehen wird – nicht der Posting-Takt. Dieses E-Book zeigt dir, wie du durch ein kohärentes Portfolio-Konzept, strategische Gruppen-Aktivität und meisterhaftes Tagging langfristig in den Explore-Bereich gelangst. Du lernst, wie EXIF-Daten und Bildbeschreibungen deine Sichtbarkeit auf Flickr und bei Google-Bilder steigern, wie du durch Kommentare und Faves eine treue Community aufbaust und wie du dein Flickr-Profil als Sprungbrett für Lizenzverkäufe und Kooperations-Anfragen nutzt. Reichweite auf Flickr ist kein Zufall – dieses E-Book macht sie reproduzierbar.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Portfolio-Konzept: ein einheitlicher visueller Stil, der sofort erkennbar ist</li>
-<li>Explore-Strategie: welche Faktoren Flickr für die Selektion wirklich bewertet</li>
-<li>Tag-Hierarchien und Beschreibungs-SEO für maximale Auffindbarkeit</li>
-<li>Community-Engagement: Kommentare und Faves, die echte Verbindungen schaffen</li>
-<li>Gruppen als Reichweiten-Multiplikator gezielt nutzen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Reichweite in der Foto-Community aufbauen, Explore erreichen und als Creator wahrgenommen werden Auf Flickr entscheiden Qualität, Kontext und Community-Engagement darüber, wer gesehen wird – nicht der Posting-Takt. Dieses E-Book zeigt dir, wie du durch ein kohärentes Portfolio-Konzept, strategische Gruppen-Aktivität und meisterhaftes Tagging langfristig in den Explore-Bereich gelangst. Du lernst, wie EXIF-Daten und Bildbeschreibungen deine Sichtbarkeit auf Flickr und bei Google-Bilder steigern, wie du durch Kommentare und Faves eine treue Community aufbaust und wie du dein Flickr-Profil als Sprungbrett für Lizenzverkäufe und Kooperations-Anfragen nutzt. Reichweite auf Flickr ist kein Zufall – dieses E-Book macht sie reproduzierbar. Das steckt drin: Portfolio-Konzept: ein einheitlicher visueller Stil, der sofort erkennbar ist Explore-Strategie: welche Faktoren Flickr für die Selektion wirklich bewertet Tag-Hierarchien und Beschreibungs-SEO für maximale Auffindbarkeit Community-Engagement: Kommentare und Faves, die echte Verbindungen schaffen Gruppen als Reichweiten-Multiplikator gezielt nutzen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

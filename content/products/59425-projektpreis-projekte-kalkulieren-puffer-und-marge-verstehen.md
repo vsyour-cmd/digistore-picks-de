@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Projektangebote nachvollziehbar kalkulieren</h2>
-<p>Projektpreis ist eine lokale Download-App für Selbstständige und kleine Agenturen, die Design-, Text- oder andere Dienstleistungsprojekte kalkulieren.</p>
-<ul>
-<li>Bis zu 30 Leistungspositionen mit Aufwand und internem Kostensatz erfassen.</li>
-<li>Zeitpuffer, Fremdkosten, Zielmarge und Rabatt bis zur Kostengrenze berechnen.</li>
-<li>Kundenbudget mit den kalkulierten Kosten vergleichen.</li>
-<li>Projekte als Dateien exportieren und wieder öffnen.</li>
-<li>Leistungsumfang, Ausschlüsse und offene Punkte in einem kopierbaren Briefing festhalten.</li>
-</ul>
-<p>ZIP-Download mit HTML-App und Kurzanleitung. Nutzung am Computer im Browser, ohne KI-Zugang. Projekte werden manuell als Dateien gespeichert. Keine Cloud-Synchronisation, kein Rechnungsprogramm und kein automatischer Versand.</p>
-<h3>Für Vertriebspartner</h3>
-<p>30 % Affiliate-Provision gemäß Digistore24-Abrechnung. Geeignet für Inhalte rund um Selbstständigkeit, Freelancer-Angebote und Projektkalkulation. Ein sinnvoller Einstieg ist der Unterschied zwischen Kostenaufschlag und Zielmarge.</p>
-<p>Eine kostenlose interaktive Kostprobe findet ihr auf <a href="https://projektpreis-studio.crimetwin.chatgpt.site">der Projektpreis-Website</a>. Alle Beispielwerte sind fiktiv. Es werden keine bestimmten Einnahmen oder Einsparungen zugesichert.</p>
+**Vendor's marketplace description:** Projektangebote nachvollziehbar kalkulieren Projektpreis ist eine lokale Download-App für Selbstständige und kleine Agenturen, die Design-, Text- oder andere Dienstleistungsprojekte kalkulieren. Bis zu 30 Leistungspositionen mit Aufwand und internem Kostensatz erfassen. Zeitpuffer, Fremdkosten, Zielmarge und Rabatt bis zur Kostengrenze berechnen. Kundenbudget mit den kalkulierten Kosten vergleichen. Projekte als Dateien exportieren und wieder öffnen. Leistungsumfang, Ausschlüsse und offene Punkte in einem kopierbaren Briefing festhalten. ZIP-Download mit HTML-App und Kurzanleitung. Nutzung am Computer im Browser, ohne KI-Zugang. Projekte werden manuell als Dateien gespeichert. Keine Cloud-Synchronisation, kein Rechnungsprogramm und kein automatischer Versand. Für Vertriebspartner 30 % Affiliate-Provision gemäß Digistore24-Abrechnung. Geeignet für Inhalte rund um Selbstständigkeit, Freelancer-Angebote und Projektkalkulation. Ein sinnvoller Einstieg ist der Unterschied zwischen Kostenaufschlag und Zielmarge. Eine kostenlose interaktive Kostprobe findet ihr auf der Projektpreis-Website . Alle Beispielwerte sind fiktiv. Es werden keine bestimmten Einnahmen oder Einsparungen zugesichert.
 
 ## 2. Links
 

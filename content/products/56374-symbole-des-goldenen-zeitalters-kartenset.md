@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>16 hochwertige Karten im Set, basierend auf handgemalten Originalbildern und wichtigen Informationen zum jeweiligen Symbol der heiligen Geometrie auf der Rückseite.</p>
-<p><strong>Welche Symbole sind enthalten?</strong></p>
-<ul>
-<li>Blume des Lebens</li>
-<li>Pranagenerator</li>
-<li>Buddha/Christusenergie</li>
-<li>12 Göttliche Strahlen</li>
-<li>Lichtwesen</li>
-<li>Liegende Acht</li>
-<li>Lotusblüte</li>
-<li>Metatron Würfel</li>
-<li>Pentagramm</li>
-<li>Sri Yantra</li>
-<li>Yin Yang</li>
-<li>Sterntetraeder</li>
-<li>Tausendblättriger Lotus</li>
-<li>Venusblume</li>
-<li>Torus</li>
-<li>eine Anleitung</li>
-</ul>
-<p>Die Vorderseite zeigt das handgemalte Symbol als hochwertigen Kunstdruck. Auf der Rückseite der Übersichtskarte findest du wichtige Informationen zu jedem Symbol sowie konkrete Inspirationen, wie du die Karten in deinen Alltag und deine Praxis integrierst.</p>
-<p><strong>Perfekte Zielgruppe</strong></p>
-<p>Lichtarbeiter, Yoga- und Meditationspraktizierende, Coaches, Heilpraktikerinnen und spirituell Interessierte. Hohe Nachfrage, einzigartiges Produkt, starke Conversion durch emotionale Ansprache.</p>
+**Vendor's marketplace description:** 16 hochwertige Karten im Set, basierend auf handgemalten Originalbildern und wichtigen Informationen zum jeweiligen Symbol der heiligen Geometrie auf der Rückseite. Welche Symbole sind enthalten? Blume des Lebens Pranagenerator Buddha/Christusenergie 12 Göttliche Strahlen Lichtwesen Liegende Acht Lotusblüte Metatron Würfel Pentagramm Sri Yantra Yin Yang Sterntetraeder Tausendblättriger Lotus Venusblume Torus eine Anleitung Die Vorderseite zeigt das handgemalte Symbol als hochwertigen Kunstdruck. Auf der Rückseite der Übersichtskarte findest du wichtige Informationen zu jedem Symbol sowie konkrete Inspirationen, wie du die Karten in deinen Alltag und deine Praxis integrierst. Perfekte Zielgruppe Lichtarbeiter, Yoga- und Meditationspraktizierende, Coaches, Heilpraktikerinnen und spirituell Interessierte. Hohe Nachfrage, einzigartiges Produkt, starke Conversion durch emotionale Ansprache.
 
 ## 2. Links
 

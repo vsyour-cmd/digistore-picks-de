@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Die <span style="text-decoration:underline;">EINFACHE</span> Selbstverteidigung</h2>
-<h3>mit Palmstick / Kubotan / Tactical Pen und Alltagsgegenständen (EDC).</h3>
-<p>In diesem Onlinekurs lernst Du Schritt-für-Schritt die <strong>einfache </strong>Anwendung des Palmsticks / Kubotans zur <strong>effektiven</strong> Selbstverteidigung in Notwehrsituationen.</p>
-<p><strong>Der Palmstick ist ein kurzer Stock</strong> (10 - 15 cm) und dient Dir als <strong>Schlagverstärker</strong>. Weitere Bezeichnungen für einen Palmstick sind Kubotan, Pocketstick, Yawara, Dulo Dulo oder Nervenstock.</p>
-<p><strong>Der "Palmstick" steht auch für handliche Alltagsgegenstände</strong>, die du bei dir trägst (EDC) oder in deiner Umgebung finden kannst, wie z.B. Taschenlampe, Flaschenöffner, Kugelschreiber / Tactical Pen, Zahnbürste usw.</p>
-<p>Die "Hammer Concept Palmstick Defense" ist <strong>Notfall-Selbstverteidigung</strong> für <strong>Extrem-Notwehrsituationen</strong>.</p>
-<p><strong>Ohne Schnörkel. Einfach und direkt.</strong></p>
-<p><span style="text-decoration:underline;background-color:#ffff00;color:#000000;"><strong>26 Lektionen mit 3.5 Stunden Videomaterial!</strong></span><span style="text-decoration:underline;background-color:#ffff00;"><strong><br /></strong></span></p>
-<p>PLUS <strong>2 Bonus-Kurse</strong> (ca. 80 Minuten Video)</p>
-<p><em>Garantiert OHNE Schnickschnack.</em></p>
-<h3>Deine Vorteile als Affiliate</h3>
-<ul>
-<li>50 % Provision pro Verkauf</li>
-<li>Fertige Produktbanner und -bilder</li>
-<li>Promo-Pixel ready!</li>
-<li>Sonderaktionen für Shopbetreiber und reichweitenstarke Kanäle auf Anfrage</li>
-</ul>
-<p><strong><a href="https://www.fma24.com/partnerprogramm/" target="_blank" rel="noreferrer noopener">Check die FAQ unseres Partnerprogramms [hier klicken]...</a></strong></p>
+**Vendor's marketplace description:** Die EINFACHE Selbstverteidigung mit Palmstick / Kubotan / Tactical Pen und Alltagsgegenständen (EDC). In diesem Onlinekurs lernst Du Schritt-für-Schritt die einfache Anwendung des Palmsticks / Kubotans zur effektiven Selbstverteidigung in Notwehrsituationen. Der Palmstick ist ein kurzer Stock (10 - 15 cm) und dient Dir als Schlagverstärker . Weitere Bezeichnungen für einen Palmstick sind Kubotan, Pocketstick, Yawara, Dulo Dulo oder Nervenstock. Der "Palmstick" steht auch für handliche Alltagsgegenstände , die du bei dir trägst (EDC) oder in deiner Umgebung finden kannst, wie z.B. Taschenlampe, Flaschenöffner, Kugelschreiber / Tactical Pen, Zahnbürste usw. Die "Hammer Concept Palmstick Defense" ist Notfall-Selbstverteidigung für Extrem-Notwehrsituationen . Ohne Schnörkel. Einfach und direkt. 26 Lektionen mit 3.5 Stunden Videomaterial! PLUS 2 Bonus-Kurse (ca. 80 Minuten Video) Garantiert OHNE Schnickschnack. Deine Vorteile als Affiliate 50 % Provision pro Verkauf Fertige Produktbanner und -bilder Promo-Pixel ready! Sonderaktionen für Shopbetreiber und reichweitenstarke Kanäle auf Anfrage Check die FAQ unseres Partnerprogramms [hier klicken]...
 
 ## 2. Links
 

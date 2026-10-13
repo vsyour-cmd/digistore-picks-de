@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Tauche ein in die acht Jahreskreisfeste und erlebe die Rituale, Bräuche &amp; Energien des Jahresrades neu.<br />Dieses liebevoll gestaltete Workbook begleitet dich durch alle Feste – mit Geschichten, Hintergründen, Ritualen, ätherischen Ölen, Räucherwerk, Reflexionsseiten und sicheren Anleitungen.</p>
-<p>Du erhältst:<br />• Hintergrundwissen &amp; spirituelle Bedeutung<br />• Rituale, Ideen &amp; leicht umsetzbare Anleitungen<br />• Meditationen, Affirmationen &amp; Reflexion<br />• Workbook-Seiten zum Ausfüllen<br />• Kräuter- &amp; Öl-Glossar<br />• Sicherheitshinweise für Räuchern &amp; Öle<br />• Über 150 Seiten Inspiration für ein magisches Jahr</p>
-<p>Perfekt für alle, die den Jahreskreis bewusst leben möchten.</p>
+**Vendor's marketplace description:** Tauche ein in die acht Jahreskreisfeste und erlebe die Rituale, Bräuche & Energien des Jahresrades neu. Dieses liebevoll gestaltete Workbook begleitet dich durch alle Feste – mit Geschichten, Hintergründen, Ritualen, ätherischen Ölen, Räucherwerk, Reflexionsseiten und sicheren Anleitungen. Du erhältst: • Hintergrundwissen & spirituelle Bedeutung • Rituale, Ideen & leicht umsetzbare Anleitungen • Meditationen, Affirmationen & Reflexion • Workbook-Seiten zum Ausfüllen • Kräuter- & Öl-Glossar • Sicherheitshinweise für Räuchern & Öle • Über 150 Seiten Inspiration für ein magisches Jahr Perfekt für alle, die den Jahreskreis bewusst leben möchten.
 
 ## 2. Links
 

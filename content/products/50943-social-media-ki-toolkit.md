@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><strong>"Social-Media KI Toolkit" - 60 KI-Prompts zum schnellen Aufbau einer Community in den 6 größten Social-Media-Kanälen </strong>(Instagram, Facebook, TikTok, YouTube, X ehem. Twitter, Pinterest)<strong><br /><br /></strong>Guide zum Aufbau einer mega Followerschaft mit Hilfe von KI Tools und 60 Prompts, die ein einfaches Planen, Erstellen und Optimieren des Contents und des Online-Auftritts. + Bonus: 10 aktuelle KI-Tools die zum Aufbau und Optimieren des Contents beitragen.<br /><br /><br />Prima Gelegenheit, um seine Provisionen aufzupeppen!</p>
-<ul>
-<li>Dieser Guide funktioniert für Affiliate Anfänger und Fortgeschrittene.</li>
-<li>Perfektes Produkt für "jeden", der mit seinem online Business / Social-Media-Marketing starten will, weiterkommen will und nach wertvollen Tipps sucht.</li>
-<li>Du hast mit diesem Guide einen Top-Ratgeber für deine Community und wirst am kompletten Sales-Funnel beteiligt!</li>
-</ul>
-<p>Hohe Conversion, da es aktuelle Themen behandelt.<br /><br /><strong>50% Provision! <br />Der Preis beträgt 14,70€ Upsell ein 97€ Kurs mit weiteren 50% Provision.</strong><br />Weiters Beteiligt an Add-On, Up- und Downsell.<br />+ 15% Lifetime Provision<br />Über 89€ im Funnel für dich möglich!<br /><br />Der Funnel wird ständig angepasst und erweitert.<br /><br />Viel Erfolg und fette Beute!</p>
+**Vendor's marketplace description:** "Social-Media KI Toolkit" - 60 KI-Prompts zum schnellen Aufbau einer Community in den 6 größten Social-Media-Kanälen (Instagram, Facebook, TikTok, YouTube, X ehem. Twitter, Pinterest) Guide zum Aufbau einer mega Followerschaft mit Hilfe von KI Tools und 60 Prompts, die ein einfaches Planen, Erstellen und Optimieren des Contents und des Online-Auftritts. + Bonus: 10 aktuelle KI-Tools die zum Aufbau und Optimieren des Contents beitragen. Prima Gelegenheit, um seine Provisionen aufzupeppen! Dieser Guide funktioniert für Affiliate Anfänger und Fortgeschrittene. Perfektes Produkt für "jeden", der mit seinem online Business / Social-Media-Marketing starten will, weiterkommen will und nach wertvollen Tipps sucht. Du hast mit diesem Guide einen Top-Ratgeber für deine Community und wirst am kompletten Sales-Funnel beteiligt! Hohe Conversion, da es aktuelle Themen behandelt. 50% Provision! Der Preis beträgt 14,70€ Upsell ein 97€ Kurs mit weiteren 50% Provision. Weiters Beteiligt an Add-On, Up- und Downsell. + 15% Lifetime Provision Über 89€ im Funnel für dich möglich! Der Funnel wird ständig angepasst und erweitert. Viel Erfolg und fette Beute!
 
 ## 2. Links
 

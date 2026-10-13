@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>DeutschLern Kids</p>
+**Vendor's marketplace description:** DeutschLern Kids
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>„BRICS Unit vs. Dollar und Euro“ greift eines der spannendsten Finanz- und Geopolitik-Themen unserer Zeit auf: die mögliche Neuordnung des globalen Währungssystems.</p>
-<p>Das Buch zeigt verständlich, wie Reservewährungen entstehen, warum Dollar und Euro dominieren und welche Chancen sowie Hürden eine BRICS-Alternative mit sich bringt.</p>
-<p>Die Kombination aus Wirtschaft, Geldsystem, Machtpolitik und Zukunftsprognosen spricht eine kaufkräftige und informationshungrige Zielgruppe an.</p>
-<p>Ein hochaktuelles Sachbuch mit starkem Diskussionspotenzial und breiter Relevanz für Anleger, Unternehmer, politisch Interessierte und Finanzbegeisterte.</p>
+**Vendor's marketplace description:** „BRICS Unit vs. Dollar und Euro“ greift eines der spannendsten Finanz- und Geopolitik-Themen unserer Zeit auf: die mögliche Neuordnung des globalen Währungssystems. Das Buch zeigt verständlich, wie Reservewährungen entstehen, warum Dollar und Euro dominieren und welche Chancen sowie Hürden eine BRICS-Alternative mit sich bringt. Die Kombination aus Wirtschaft, Geldsystem, Machtpolitik und Zukunftsprognosen spricht eine kaufkräftige und informationshungrige Zielgruppe an. Ein hochaktuelles Sachbuch mit starkem Diskussionspotenzial und breiter Relevanz für Anleger, Unternehmer, politisch Interessierte und Finanzbegeisterte.
 
 ## 2. Links
 

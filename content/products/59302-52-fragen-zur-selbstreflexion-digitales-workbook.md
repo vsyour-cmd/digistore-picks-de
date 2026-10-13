@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>52 Fragen zur Selbstreflexion – Digitales Workbook</p>
-<p>Dieses digitale Workbook richtet sich an Menschen, die sich selbst bewusster mit ihrem Leben, ihren Wünschen und ihren persönlichen Möglichkeiten auseinandersetzen möchten.</p>
-<p>52 sorgfältig entwickelte Fragen laden dazu ein, innezuhalten, ehrlich über sich selbst nachzudenken und neue Perspektiven auf das eigene Leben zu entdecken.</p>
-<p>Das Workbook eignet sich besonders für Menschen, die sich mit Themen wie Selbstreflexion, persönlicher Entwicklung, Veränderung, eigenen Wünschen und neuen Lebenswegen beschäftigen.</p>
-<p>Das Produkt: • 52 Selbstreflexionsfragen</p>
-<p> digitales Workbook als PDF</p>
-<p> für die persönliche Nutzung</p>
-<p>sofort digital nutzbar</p>
-<p>Geeignete Themen für die Bewerbung: Selbstreflexion, Persönlichkeitsentwicklung, persönliche Veränderung, Klarheit, Wünsche, Lebensziele, Neuanfang und bewusste Lebensgestaltung.</p>
-<p>Weitere Themen und Suchbegriffe:</p>
-<p>Selbstreflexion, persönliche Entwicklung, Persönlichkeitsentwicklung, Klarheit, Wünsche, Bedürfnisse, Lebensziele, Veränderung, Neuanfang, neue Lebenswege und bewusste Lebensgestaltung.</p>
-<p> </p>
-<p>Das Workbook richtet sich an Menschen, die sich intensiver mit sich selbst, ihrem Leben und ihren persönlichen Möglichkeiten auseinandersetzen möchten.</p>
-<p>Das Workbook kann unabhängig vom eigenen Standort und vollständig digital genutzt werden.</p>
+**Vendor's marketplace description:** 52 Fragen zur Selbstreflexion – Digitales Workbook Dieses digitale Workbook richtet sich an Menschen, die sich selbst bewusster mit ihrem Leben, ihren Wünschen und ihren persönlichen Möglichkeiten auseinandersetzen möchten. 52 sorgfältig entwickelte Fragen laden dazu ein, innezuhalten, ehrlich über sich selbst nachzudenken und neue Perspektiven auf das eigene Leben zu entdecken. Das Workbook eignet sich besonders für Menschen, die sich mit Themen wie Selbstreflexion, persönlicher Entwicklung, Veränderung, eigenen Wünschen und neuen Lebenswegen beschäftigen. Das Produkt: • 52 Selbstreflexionsfragen digitales Workbook als PDF für die persönliche Nutzung sofort digital nutzbar Geeignete Themen für die Bewerbung: Selbstreflexion, Persönlichkeitsentwicklung, persönliche Veränderung, Klarheit, Wünsche, Lebensziele, Neuanfang und bewusste Lebensgestaltung. Weitere Themen und Suchbegriffe: Selbstreflexion, persönliche Entwicklung, Persönlichkeitsentwicklung, Klarheit, Wünsche, Bedürfnisse, Lebensziele, Veränderung, Neuanfang, neue Lebenswege und bewusste Lebensgestaltung. Das Workbook richtet sich an Menschen, die sich intensiver mit sich selbst, ihrem Leben und ihren persönlichen Möglichkeiten auseinandersetzen möchten. Das Workbook kann unabhängig vom eigenen Standort und vollständig digital genutzt werden.
 
 ## 2. Links
 

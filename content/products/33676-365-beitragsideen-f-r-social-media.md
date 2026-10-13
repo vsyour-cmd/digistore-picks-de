@@ -41,72 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#ff0000;"><strong><br />Hol dir die 365 Beitragsideen und ziehe täglich begeisterte Follower und Kunden an!<br /></strong><strong><br />Die 365 Beitragsideen für dein Social-Media mit JyotiMa Flak<br /></strong></span></p>
-<p><strong><span style="color:#ff0000;">Deine Fans werden dich lieben, hol dir:</span><br /></strong></p>
-<ul>
-<li><strong>365 Ideen für jeden Tag</strong>, die deine Follower zu Fans und zu Kunden machen!</li>
-<li>365 Inhalte, Fragen, <strong>Inspirationen für leuchtende Beiträge</strong> rund um dein Business und deinen Lifestyle!</li>
-<li>365 x <strong>Interaktion mit deinen Fans</strong>! 365 x Spaß am Social Media, <strong>wähle aus 365 Ideen und ab geht dein Post!<br /><br /></strong></li>
-</ul>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p><strong>Du bekommst im Paket:<br /></strong></p>
-<ul>
-<li>Die <strong>365 Beitragsideen mit vielen Extras </strong>als <strong>Pdf zum Download</strong></li>
-<li>Alles als <strong>Jpegs für täglichen Zugriff </strong>auf dem Handy</li>
-</ul>
-<p><strong>Boni:</strong></p>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<ul>
-<li><strong>Kalender der besondere Feiertage</strong>, überzeuge mit aktuellen Inhalten<br /><br /></li>
-<li><strong>JyotiMas Best-of-Tipps rund um Social-Media</strong>! Alles was <strong>mich erfolgreich und sichtbar</strong> gemacht hat (9 Jahre Erfahrung im Online-Business und Tausende Follower).</li>
-</ul>
-</div>
-<div>
-<div>
-<div>
-<ul>
-<li><strong>15 magische Fragen,</strong> die dir <strong>garantiert Interaktion mit vielen Followern und späteren Kunden bescheren!<br /><br /></strong></li>
-<li>Special Videos, rund um deine<strong> Experten-Positionierung,</strong> uvm.</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<p><br /><br /></p>
-<div>
-<div>
-<div><strong>Tausend Follower, einzigartige Sichtbarkeit und Expertenstatus – auch du schaffst das!</strong> <br /><br />Hol dir:<strong><br /><br /></strong></div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<div><strong><strong><span style="color:#ff0000;">Die 365 Beitragsideen für dein Social-Media mit JyotiMa Flak<br /><br /><br /></span></strong></strong>
-<p><strong>JyotiMa Flak</strong> (Speaker, Autorin, Mentorin und TikTok-Queen) macht Menschen zu Leuchttürmen. In ihrer Light-Leader Academy hilft sie Coaches &amp; Therapeuten, ihre Lebensaufgabe zu finden, sich einzigartig und unverwechselbar zu positionieren und so sichtbar und erfolgreich zu werden. </p>
-<strong><span style="color:#000000;">Sei ein Leuchtturm, kein Teelicht!® <br /><span style="color:#ff0000;"><a style="color:#ff0000;" href="http://www.jyotimaflak.com" target="_blank" rel="noreferrer noopener">www.jyotimaflak.com</a> | <a style="color:#ff0000;" href="http://www.tiktok-fuers-business.de" target="_blank" rel="noreferrer noopener">www.tiktok-fuers-business.de</a></span><br /></span><br /></strong></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Hol dir die 365 Beitragsideen und ziehe täglich begeisterte Follower und Kunden an! Die 365 Beitragsideen für dein Social-Media mit JyotiMa Flak Deine Fans werden dich lieben, hol dir: 365 Ideen für jeden Tag , die deine Follower zu Fans und zu Kunden machen! 365 Inhalte, Fragen, Inspirationen für leuchtende Beiträge rund um dein Business und deinen Lifestyle! 365 x Interaktion mit deinen Fans ! 365 x Spaß am Social Media, wähle aus 365 Ideen und ab geht dein Post! Du bekommst im Paket: Die 365 Beitragsideen mit vielen Extras als Pdf zum Download Alles als Jpegs für täglichen Zugriff auf dem Handy Boni: Kalender der besondere Feiertage , überzeuge mit aktuellen Inhalten JyotiMas Best-of-Tipps rund um Social-Media ! Alles was mich erfolgreich und sichtbar gemacht hat (9 Jahre Erfahrung im Online-Business und Tausende Follower). 15 magische Fragen, die dir garantiert Interaktion mit vielen Followern und späteren Kunden bescheren! Special Videos, rund um deine Experten-Positionierung, uvm. Tausend Follower, einzigartige Sichtbarkeit und Expertenstatus – auch du schaffst das! Hol dir: Die 365 Beitragsideen für dein Social-Media mit JyotiMa Flak JyotiMa Flak (Speaker, Autorin, Mentorin und TikTok-Queen) macht Menschen zu Leuchttürmen. In ihrer Light-Leader Academy hilft sie Coaches & Therapeuten, ihre Lebensaufgabe zu finden, sich einzigartig und unverwechselbar zu positionieren und so sichtbar und erfolgreich zu werden. Sei ein Leuchtturm, kein Teelicht!® www.jyotimaflak.com | www.tiktok-fuers-business.de
 
 ## 2. Links
 

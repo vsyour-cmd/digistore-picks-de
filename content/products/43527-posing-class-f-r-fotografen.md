@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Du begleitest uns bei vielen verschiedenen Photoshoots und bekommst immer sofort die Ergebnisse eingeblendet. Natürlich teilen wir außerdem alle Einstellungen wie Blende, ISO, Verschlusszeit mit dir. Weder kannten wir die Paare vorher, noch hat das Wetter immer mitgespielt. Du lernst 100% authentisch wie wir arbeiten und kommunizieren.</strong></p>
-<p>Die Shoots fanden an völlig unterschiedlichen Orten statt, wie am Strand, in der Stadt oder im Wald. Wir nehmen dich mit zum Locationscouting, sprechen vor dem Shoot über unsere Ideen und nach dem Shoot darüber was gut oder nicht so gut lief. Du wirst also sehen, wie wir Probleme lösen, mit Menschen kommunizieren und natürlich, wie wir fotografieren. Das wird dein eigenes Selbstbewusstsein stärken und dir bei deinen eigenen Aufträgen helfen.</p>
+**Vendor's marketplace description:** Du begleitest uns bei vielen verschiedenen Photoshoots und bekommst immer sofort die Ergebnisse eingeblendet. Natürlich teilen wir außerdem alle Einstellungen wie Blende, ISO, Verschlusszeit mit dir. Weder kannten wir die Paare vorher, noch hat das Wetter immer mitgespielt. Du lernst 100% authentisch wie wir arbeiten und kommunizieren. Die Shoots fanden an völlig unterschiedlichen Orten statt, wie am Strand, in der Stadt oder im Wald. Wir nehmen dich mit zum Locationscouting, sprechen vor dem Shoot über unsere Ideen und nach dem Shoot darüber was gut oder nicht so gut lief. Du wirst also sehen, wie wir Probleme lösen, mit Menschen kommunizieren und natürlich, wie wir fotografieren. Das wird dein eigenes Selbstbewusstsein stärken und dir bei deinen eigenen Aufträgen helfen.
 
 ## 2. Links
 

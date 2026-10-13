@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der ideale Einstieg in die spanische Sprache.<br />Lerne strukturiert und nachhaltig Spanisch mit unserem eBook und insgesamt 5 MP3-Audio-Dateien die Bestandteil des eBooks sind.</p>
+**Vendor's marketplace description:** Der ideale Einstieg in die spanische Sprache. Lerne strukturiert und nachhaltig Spanisch mit unserem eBook und insgesamt 5 MP3-Audio-Dateien die Bestandteil des eBooks sind.
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hier erhälst du ein Kostenloses E-Book zum Thema Copywriting. </p>
+**Vendor's marketplace description:** Hier erhälst du ein Kostenloses E-Book zum Thema Copywriting.
 
 ## 2. Links
 

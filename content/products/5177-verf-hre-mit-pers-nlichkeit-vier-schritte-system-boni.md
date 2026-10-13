@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mark Lamberts Vier-Schritte-System zum Erfolg bei Frauen, ist ein Allrounder E-Book-Set für Männer mit über 500 Seiten, um ihren Erfolg bei Frauen in den vier Kernbereichen zu steigern. </p>
-<p><em>1. Anziehung &amp; Verführung:</em> Das richtige Verständnis<br /><em>2. Verwirklichung Deiner Persönlichkeit:</em> Entwicklung der eigenen Persönlichkeit<br /><em>3. Der erfolgreiche Umgang mit Frauen:</em> Vorgehensweisen und Methoden im Umgang mit Frauen<br /><em>4. Anziehung &amp; Verführung in einer Beziehung:</em> Beziehungstipps</p>
-<p>Der <strong>USP</strong> dieses Sets ist der Fokus auf die eigene Persönlichkeit, weg von herkömmlichem Pick-Up. </p>
-<p><strong>Hard Facts:</strong></p>
-<p>+ Conversion gemessen an Email Subscribern &gt; 17%<br />+ Sehr geringe Rückgaberate (weit unter dem Durchschnitt)<br />+ Optimierter Video-Sales-Letter mit einer durchschnittlichen Conversion-Rate von 5,52% über eigenen gekauften Traffic + E-Mail-Liste!</p>
-<p><strong>Wichtige Info für neue Affiliates:</strong></p>
-<p><em><strong>Keine Freischaltung ohne vorherige Anmeldung</strong></em> über unsere Seite: http://www.verfuehre-mit-persoenlichkeit.de/partnerprogramm </p>
+**Vendor's marketplace description:** Mark Lamberts Vier-Schritte-System zum Erfolg bei Frauen, ist ein Allrounder E-Book-Set für Männer mit über 500 Seiten, um ihren Erfolg bei Frauen in den vier Kernbereichen zu steigern. 1. Anziehung & Verführung: Das richtige Verständnis 2. Verwirklichung Deiner Persönlichkeit: Entwicklung der eigenen Persönlichkeit 3. Der erfolgreiche Umgang mit Frauen: Vorgehensweisen und Methoden im Umgang mit Frauen 4. Anziehung & Verführung in einer Beziehung: Beziehungstipps Der USP dieses Sets ist der Fokus auf die eigene Persönlichkeit, weg von herkömmlichem Pick-Up. Hard Facts: + Conversion gemessen an Email Subscribern > 17% + Sehr geringe Rückgaberate (weit unter dem Durchschnitt) + Optimierter Video-Sales-Letter mit einer durchschnittlichen Conversion-Rate von 5,52% über eigenen gekauften Traffic + E-Mail-Liste! Wichtige Info für neue Affiliates: Keine Freischaltung ohne vorherige Anmeldung über unsere Seite: http://www.verfuehre-mit-persoenlichkeit.de/partnerprogramm
 
 ## 2. Links
 

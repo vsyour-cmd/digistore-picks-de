@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Ritualbaukasten: Abschied am Sterbebett ist ein einfühlsamer Ratgeber für Menschen in der schwersten Zeit des Abschiednehmens. Als erfahrene Pflegefachkraft im Palliativbereich helfe ich Angehörigen mit praktischen Ritualen, diese intensive Phase friedvoll zu gestalten. Ein hochemotionales, wichtiges Thema mit einer großen, dankbaren Zielgruppe. Ich biete eine faire Provision und freue mich sehr über eure Unterstützung!</p>
+**Vendor's marketplace description:** Der Ritualbaukasten: Abschied am Sterbebett ist ein einfühlsamer Ratgeber für Menschen in der schwersten Zeit des Abschiednehmens. Als erfahrene Pflegefachkraft im Palliativbereich helfe ich Angehörigen mit praktischen Ritualen, diese intensive Phase friedvoll zu gestalten. Ein hochemotionales, wichtiges Thema mit einer großen, dankbaren Zielgruppe. Ich biete eine faire Provision und freue mich sehr über eure Unterstützung!
 
 ## 2. Links
 

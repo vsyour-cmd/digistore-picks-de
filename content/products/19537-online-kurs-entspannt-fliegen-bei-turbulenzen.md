@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der erste Online Kurs zum Thema Turbulenzen.</strong></p>
-<div>Turbulenzen machen einen großen Anteil der Angst aus, die manche Menschen beim Fliegen empfinden.<br />Obwohl die tatsächliche Gefahr sehr gering ist, bleibt die Angst und warum ist das so?<br />In meinem kompakten Kurs werde ich dieser Frage auf den Grund gehen und Euch anhand meines Fünf Schritte Plans helfen, Euch mit Eurer Angst auseinanderzusetzen und Eure Gedanken neu zu konditionieren.</div>
-<p>Ich erkläre Dir, was für Ursachen Turbulenzen haben können und was es für verschiedene Arten gibt, damit Du diese beim nächsten Flug erkennst und keine Angst mehr vor unerwartetem „Wackeln“ oder so genannten „Luftlöchern“ haben musst. Aber auch, was wir Piloten tun, wenn Turbulenzen auftreten und wie wir versuchen, diese zu vermeiden.</p>
-<p>Nach der Bezahlung erhältst Du Zugang zum Mitgliederbereich. Dort findest Du alle Deine Kurse, die Du Dir jeder Zeit und in Deinem eigenem Tempo anschauen kannst.</p>
-<p>Ready? Let's fly!</p>
+**Vendor's marketplace description:** Der erste Online Kurs zum Thema Turbulenzen. Turbulenzen machen einen großen Anteil der Angst aus, die manche Menschen beim Fliegen empfinden. Obwohl die tatsächliche Gefahr sehr gering ist, bleibt die Angst und warum ist das so? In meinem kompakten Kurs werde ich dieser Frage auf den Grund gehen und Euch anhand meines Fünf Schritte Plans helfen, Euch mit Eurer Angst auseinanderzusetzen und Eure Gedanken neu zu konditionieren. Ich erkläre Dir, was für Ursachen Turbulenzen haben können und was es für verschiedene Arten gibt, damit Du diese beim nächsten Flug erkennst und keine Angst mehr vor unerwartetem „Wackeln“ oder so genannten „Luftlöchern“ haben musst. Aber auch, was wir Piloten tun, wenn Turbulenzen auftreten und wie wir versuchen, diese zu vermeiden. Nach der Bezahlung erhältst Du Zugang zum Mitgliederbereich. Dort findest Du alle Deine Kurse, die Du Dir jeder Zeit und in Deinem eigenem Tempo anschauen kannst. Ready? Let's fly!
 
 ## 2. Links
 

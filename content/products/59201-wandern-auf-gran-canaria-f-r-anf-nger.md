@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Wandern auf Gran Canaria für Anfänger</strong></h2>
-<p>Entdecken Sie die schönsten Routen abseits des Massentourismus. Dieses E-Book liefert Ihren Kunden unkomplizierte Schritt-für-Schritt-Anleitungen, Touren-Geheimtipps und Ausrüstungs-Checklisten für den perfekten Wanderurlaub auf der Kanareninsel. Ideal für Einsteiger und Naturliebhaber.</p>
-<p> <strong>• Preis:</strong> 12,99 € (brutto)</p>
-<p> <strong>• Provision:</strong> 60 % für Affiliates</p>
-<p> <strong>• Zielgruppe:</strong> Urlauber, Aktiv-Einsteiger und Reise-Interessierte (DACH-Markt)</p>
-<p>Perfekt für den sofortigen Start in E-Mail-Kampagnen und Social-Media-Promotions.</p>
+**Vendor's marketplace description:** Wandern auf Gran Canaria für Anfänger Entdecken Sie die schönsten Routen abseits des Massentourismus. Dieses E-Book liefert Ihren Kunden unkomplizierte Schritt-für-Schritt-Anleitungen, Touren-Geheimtipps und Ausrüstungs-Checklisten für den perfekten Wanderurlaub auf der Kanareninsel. Ideal für Einsteiger und Naturliebhaber. • Preis: 12,99 € (brutto) • Provision: 60 % für Affiliates • Zielgruppe: Urlauber, Aktiv-Einsteiger und Reise-Interessierte (DACH-Markt) Perfekt für den sofortigen Start in E-Mail-Kampagnen und Social-Media-Promotions.
 
 ## 2. Links
 

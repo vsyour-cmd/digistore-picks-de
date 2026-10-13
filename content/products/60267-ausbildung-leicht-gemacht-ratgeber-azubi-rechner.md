@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Ausbildung leicht gemacht – Ratgeber + Azubi-Rechner</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>In der Ausbildung gibt es Rechte, die viele Azubis nicht kennen: Vergütung, Urlaub, Überstunden, Berufsausbildungsbeihilfe. Der Ratgeber erklärt alles <strong>verständlich</strong>, mit <strong>Azubi-Rechner</strong>.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Auszubildende</li>
-<li>Schulabgänger vor dem Ausbildungsstart</li>
-<li>Eltern von Azubis</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Ausbildungsstart oder Probleme im Ausbildungsbetrieb</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> Spitzen im Sommer zum Ausbildungsstart</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Ratgeber (Bewerbung, BAföG, Arbeitsvertrag, Erste eigene Wohnung) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Ausbildung leicht gemacht – Ratgeber + Azubi-Rechner Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt In der Ausbildung gibt es Rechte, die viele Azubis nicht kennen: Vergütung, Urlaub, Überstunden, Berufsausbildungsbeihilfe. Der Ratgeber erklärt alles verständlich , mit Azubi-Rechner . Die Zielgruppe Auszubildende Schulabgänger vor dem Ausbildungsstart Eltern von Azubis Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Ausbildungsstart oder Probleme im Ausbildungsbetrieb Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: Spitzen im Sommer zum Ausbildungsstart Mehr verdienen: Weitere passende Ratgeber (Bewerbung, BAföG, Arbeitsvertrag, Erste eigene Wohnung) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

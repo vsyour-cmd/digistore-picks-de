@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Daddy2Be - Ein Onlinekurs für werdende Eltern</p>
-<ul>
-<li><strong>1 Jahr Zugang zum Kurs: </strong>Genug Zeit für deine Vorbereitung auf die Elternschaft.</li>
-<li><strong>Für beide gemacht:</strong> Ideal für werdende Väter und ebenso für Mütter.</li>
-<li><strong>Strukturiert &amp; umfassend:</strong> 7 Module in 48 Video-Episoden. Schwangerschaft, Geburt und Wochenbett.</li>
-<li><strong>Inhalt trifft Emotion:</strong> 4 Stunden Wissen und Unterhaltung.</li>
-<li><strong>Top-Experten an Bord:</strong> Mit einer erfahrenen Hebamme und einer Fachärztin für Geburtshilfe &amp; Gynäkologie, die auch Stillberaterin ist.</li>
-<li><strong>Expertinnenwissen &amp; Unterhaltung:</strong> Perfekte Mischung aus Fachwissen, emotionalen Höhen und Tiefen.</li>
-<li><strong>Echte Elternerfahrungen:</strong> Praxisnahe Tipps &amp; Erfahrungsberichte.</li>
-<li><strong>Stärkt die Beziehung:</strong> Fördert Harmonie und Verständnis zwischen Partnern.</li>
-<li><strong>Community-Zugang:</strong> Tausche dich mit anderen werdenden Vätern aus.</li>
-<li><strong>Flexibel &amp; zugänglich:</strong> Unser Medienportal am Computer oder Handy!</li>
-</ul>
-<p>"Daddy2Be": Bereit für ein großes Abenteuer? Starte jetzt in eine bereichernde Zeit der Vorbereitung und des Wachstums.</p>
+**Vendor's marketplace description:** Daddy2Be - Ein Onlinekurs für werdende Eltern 1 Jahr Zugang zum Kurs: Genug Zeit für deine Vorbereitung auf die Elternschaft. Für beide gemacht: Ideal für werdende Väter und ebenso für Mütter. Strukturiert & umfassend: 7 Module in 48 Video-Episoden. Schwangerschaft, Geburt und Wochenbett. Inhalt trifft Emotion: 4 Stunden Wissen und Unterhaltung. Top-Experten an Bord: Mit einer erfahrenen Hebamme und einer Fachärztin für Geburtshilfe & Gynäkologie, die auch Stillberaterin ist. Expertinnenwissen & Unterhaltung: Perfekte Mischung aus Fachwissen, emotionalen Höhen und Tiefen. Echte Elternerfahrungen: Praxisnahe Tipps & Erfahrungsberichte. Stärkt die Beziehung: Fördert Harmonie und Verständnis zwischen Partnern. Community-Zugang: Tausche dich mit anderen werdenden Vätern aus. Flexibel & zugänglich: Unser Medienportal am Computer oder Handy! "Daddy2Be": Bereit für ein großes Abenteuer? Starte jetzt in eine bereichernde Zeit der Vorbereitung und des Wachstums.
 
 ## 2. Links
 

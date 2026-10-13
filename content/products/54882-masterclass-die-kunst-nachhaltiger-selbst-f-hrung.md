@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Eine <strong>praxisnahe</strong> Masterclass für Führungskräfte, Unternehmer:innen und Menschen, die bewusst <strong>wachsen</strong> wollen.</p>
-<p>Sie verbindet <strong>Natur</strong>, <strong>Führung</strong> und innere Klarheit und bietet über 11 Stunden Videotraining plus hochwertige Materialien zum Download.</p>
-<p> </p>
-<p><strong>Alleinstellungsmerkmale (USP)</strong></p>
-<p>1.<strong>Einzigartige Verbindung aus Natur, Führung &amp; persönlicher Entwicklung</strong></p>
-<p>– inspiriert, entschleunigt und eröffnet tiefe Erkenntnisse.</p>
-<p>2.<strong>Praxisnah, fundiert, erprobt</strong></p>
-<p>– keine Theorieflut, sondern klare Werkzeuge für den Führungsalltag.</p>
-<p>3.<strong>Erfahrung + Wissen kombiniert</strong></p>
-<p>– der Autor und Trainer bringt 20+ Jahre Führungserfahrung ein und zeigt Wege, die wirklich funktionieren.</p>
-<p>4.<strong>Lebensnah, inspirierend, sofort umsetzbar</strong></p>
-<p>– ideal für Menschen, die echte Veränderungen erreichen wollen.</p>
-<p>5.<strong>Hochwertige Materialien</strong></p>
-<p>– Buch, Arbeitsblätter, Inspirationskarten: professionell gestaltet und sofort als Download nutzbar.</p>
+**Vendor's marketplace description:** Eine praxisnahe Masterclass für Führungskräfte, Unternehmer:innen und Menschen, die bewusst wachsen wollen. Sie verbindet Natur , Führung und innere Klarheit und bietet über 11 Stunden Videotraining plus hochwertige Materialien zum Download. Alleinstellungsmerkmale (USP) 1. Einzigartige Verbindung aus Natur, Führung & persönlicher Entwicklung – inspiriert, entschleunigt und eröffnet tiefe Erkenntnisse. 2. Praxisnah, fundiert, erprobt – keine Theorieflut, sondern klare Werkzeuge für den Führungsalltag. 3. Erfahrung + Wissen kombiniert – der Autor und Trainer bringt 20+ Jahre Führungserfahrung ein und zeigt Wege, die wirklich funktionieren. 4. Lebensnah, inspirierend, sofort umsetzbar – ideal für Menschen, die echte Veränderungen erreichen wollen. 5. Hochwertige Materialien – Buch, Arbeitsblätter, Inspirationskarten: professionell gestaltet und sofort als Download nutzbar.
 
 ## 2. Links
 

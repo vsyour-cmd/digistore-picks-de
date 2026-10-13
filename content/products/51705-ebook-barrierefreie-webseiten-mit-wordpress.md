@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>Hey, willst Du easy Geld verdienen und gleichzeitig einen Mehrwert bieten? Bewirb mein eBook ‚Barrierefreie Webseiten mit WordPress leicht gemacht‘ und kassier 50 % Provision pro Verkauf – das sind 9,95 € für Dich bei jedem Kauf (Preis: 19,90 €)! Deine Leser lernen, wie sie ihre WordPress-Seite bis zur BFSG-Frist am 28. Juni 2025 barrierefrei machen – ein Thema, das jetzt jeder braucht. Schnapp Dir Deinen Affiliate-Link, teile ihn und profitiere mit jedem Klick. Los geht’s!</div>
+**Vendor's marketplace description:** Hey, willst Du easy Geld verdienen und gleichzeitig einen Mehrwert bieten? Bewirb mein eBook ‚Barrierefreie Webseiten mit WordPress leicht gemacht‘ und kassier 50 % Provision pro Verkauf – das sind 9,95 € für Dich bei jedem Kauf (Preis: 19,90 €)! Deine Leser lernen, wie sie ihre WordPress-Seite bis zur BFSG-Frist am 28. Juni 2025 barrierefrei machen – ein Thema, das jetzt jeder braucht. Schnapp Dir Deinen Affiliate-Link, teile ihn und profitiere mit jedem Klick. Los geht’s!
 
 ## 2. Links
 

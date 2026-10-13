@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><span style="background-color:#ffff00;"><em><strong>Skaliere Dein Online Business mit UDEMY</strong></em></span></div>
-<div> </div>
-<div><em><strong>✅</strong> Hier gibt es alles von A bis Z über Udemy.</em></div>
-<div> </div>
-<div><em>✅ Schritt für Schritt wird gezeigt, wie man eine Geldmaschine mit Udemy aufbaut</em></div>
-<div><br /><span style="background-color:#ffff00;"><em><strong>Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm...</strong></em></span></div>
-<div> </div>
-<div><em><strong>Du kannst durch Upsells und AddOn bis zu 221 Euro</strong></em></div>
+**Vendor's marketplace description:** Skaliere Dein Online Business mit UDEMY ✅ Hier gibt es alles von A bis Z über Udemy. ✅ Schritt für Schritt wird gezeigt, wie man eine Geldmaschine mit Udemy aufbaut Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm... Du kannst durch Upsells und AddOn bis zu 221 Euro
 
 ## 2. Links
 

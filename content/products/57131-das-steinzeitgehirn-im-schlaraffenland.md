@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Das Steinzeitgehirn im Schlaraffenland</h1>
-<h2>Warum wir essen, wie wir essen - und warum Genuss kein Fehler ist</h2>
-<p>Du musst dein Essen nicht kontrollieren. Du musst es verstehen.</p>
-<p>Dieses Buch erklärt, warum wir essen, wie wir essen - jenseits von Kalorientabellen und guten Vorsätzen. Es zeigt, dass Heißhunger, Frustessen und das Scheitern von Diäten kein Zeichen von zu wenig Disziplin sind, sondern die logische Reaktion eines uralten Gehirns auf eine moderne Welt voller Überfluss.</p>
+**Vendor's marketplace description:** Das Steinzeitgehirn im Schlaraffenland Warum wir essen, wie wir essen - und warum Genuss kein Fehler ist Du musst dein Essen nicht kontrollieren. Du musst es verstehen. Dieses Buch erklärt, warum wir essen, wie wir essen - jenseits von Kalorientabellen und guten Vorsätzen. Es zeigt, dass Heißhunger, Frustessen und das Scheitern von Diäten kein Zeichen von zu wenig Disziplin sind, sondern die logische Reaktion eines uralten Gehirns auf eine moderne Welt voller Überfluss.
 
 ## 2. Links
 

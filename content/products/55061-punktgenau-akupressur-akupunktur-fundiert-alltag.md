@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Punktgenau Akupressur</strong> ist ein sehr praxisnaher Kurs zur Selbstanwendung von Akupressur und Akupunktur – getragen von über 23 Jahren echter Praxiserfahrung als Heilpraktiker.</p>
-<p> </p>
-<p>Die Inhalte sind klar, ruhig und ohne Heilversprechen formuliert. Der Kurs führt Menschen Schritt für Schritt vom ersten Spüren bis zur sicheren eigenen Anwendung – und spricht besonders jene an, die echte Selbstwirksamkeit statt schnelle Tricks suchen.</p>
-<p> </p>
-<p><strong>Zielgruppe:</strong> Erwachsene 40–70, körper- und gesundheitsbewusst, reflektiert, offen für fundierte, nicht-laute Begleitung.</p>
-<p> </p>
-<p><strong>Affiliate-Support:</strong> Du bekommst fertige Texte, Punktkarten-Visuals und Newsletter-Vorlagen, die sich leicht teilen lassen und ohne Druck verkaufen. Empfehlungen entstehen hier über Vertrauen und Passung, nicht über Lautstärke.</p>
-<p> </p>
-<p><strong>Provision:</strong> 33% – ein fairer, seriöser Rahmen für ein hochwertiges Angebot.</p>
-<p> </p>
-<p>Dieser Kurs ist nicht für den schnellen Fix gedacht, sondern für nachhaltige Körper-Regulation. Genau das macht ihn im richtigen Umfeld außergewöhnlich empfehlenswert.</p>
+**Vendor's marketplace description:** Punktgenau Akupressur ist ein sehr praxisnaher Kurs zur Selbstanwendung von Akupressur und Akupunktur – getragen von über 23 Jahren echter Praxiserfahrung als Heilpraktiker. Die Inhalte sind klar, ruhig und ohne Heilversprechen formuliert. Der Kurs führt Menschen Schritt für Schritt vom ersten Spüren bis zur sicheren eigenen Anwendung – und spricht besonders jene an, die echte Selbstwirksamkeit statt schnelle Tricks suchen. Zielgruppe: Erwachsene 40–70, körper- und gesundheitsbewusst, reflektiert, offen für fundierte, nicht-laute Begleitung. Affiliate-Support: Du bekommst fertige Texte, Punktkarten-Visuals und Newsletter-Vorlagen, die sich leicht teilen lassen und ohne Druck verkaufen. Empfehlungen entstehen hier über Vertrauen und Passung, nicht über Lautstärke. Provision: 33% – ein fairer, seriöser Rahmen für ein hochwertiges Angebot. Dieser Kurs ist nicht für den schnellen Fix gedacht, sondern für nachhaltige Körper-Regulation. Genau das macht ihn im richtigen Umfeld außergewöhnlich empfehlenswert.
 
 ## 2. Links
 

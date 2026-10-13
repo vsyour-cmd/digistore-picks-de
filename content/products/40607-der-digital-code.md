@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Viele Jahre lang habe ich <strong>Zeit gegen Geld getauscht</strong>. Die Digitalisierung bietet Dir <u>unendliche Möglichkeiten</u> aus diesem System auszubrechen! </p>
-<p>Nutze mein Programm und<strong> bestimme Deine Zukunft und Dein Einkommen selbst! </strong></p>
-<p>Was würdest Du tun, wenn Du genügend <strong>Fülle und Freiheit</strong> in Dein Leben geholt hast?</p>
-<div>
-<div>
-<div>
-<p>Wir gehen alle wichtigen Schritte durch, wie Du mit Digistore24 als Affiliate und Vendor Geld verdienen kannst. <strong>Werde zum Experten und zum Erfolgsmenschen!</strong> </p>
-<p>Wie würde es sich anfühlen, wenn Du <strong>Dein Ziel schon erreicht hast</strong>?</p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<ul>
-<li>Online-Selbstlernkurs</li>
-<li>Video- und Arbeitsmaterialien</li>
-<li>Unterstützung durch mich in der Digital Heart Business Facebook Gruppe</li>
-</ul>
-</div>
-</div>
-<p>Werde jetzt aktiv und entscheide Dich für eine <u>selbstbestimmte Zukunft mit mehr Fülle &amp; Freiheit!</u></p>
+**Vendor's marketplace description:** Viele Jahre lang habe ich Zeit gegen Geld getauscht . Die Digitalisierung bietet Dir unendliche Möglichkeiten aus diesem System auszubrechen! Nutze mein Programm und bestimme Deine Zukunft und Dein Einkommen selbst! Was würdest Du tun, wenn Du genügend Fülle und Freiheit in Dein Leben geholt hast? Wir gehen alle wichtigen Schritte durch, wie Du mit Digistore24 als Affiliate und Vendor Geld verdienen kannst. Werde zum Experten und zum Erfolgsmenschen! Wie würde es sich anfühlen, wenn Du Dein Ziel schon erreicht hast ? Online-Selbstlernkurs Video- und Arbeitsmaterialien Unterstützung durch mich in der Digital Heart Business Facebook Gruppe Werde jetzt aktiv und entscheide Dich für eine selbstbestimmte Zukunft mit mehr Fülle & Freiheit!
 
 ## 2. Links
 

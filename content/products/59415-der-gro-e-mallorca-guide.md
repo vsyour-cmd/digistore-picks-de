@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Der große Mallorca-Guide – Mallorca entdecken, erleben und verstehen</h2>
-<p><strong>Über 250 Seiten Mallorca pur:</strong> Der große Mallorca-Guide von Nachrichten.es ist der umfassende digitale Ratgeber für alle, die Mallorca nicht nur besuchen, sondern wirklich entdecken und verstehen möchten.</p>
-<p>Ob Urlauber, Mallorca-Liebhaber, Langzeiturlauber oder Menschen, die über ein Leben auf der Insel nachdenken – dieser Guide verbindet praktische Informationen, Inspiration, Insiderwissen und das besondere Lebensgefühl Mallorcas.</p>
-<p>Du liebst Spanien und hast eine Community, die sich für <strong>Reisen, Mallorca, Auswandern, Camping, Wohnmobil, Ruhestand oder das Leben in Spanien</strong> interessiert?</p>
-<p>Dann werde <strong>Creator &amp; Influencer Partner von Nachrichten.es</strong> und empfehle unsere digitalen Spanien-Ratgeber deiner Community.</p>
-<p>Du erhältst dabei <strong>50 % Provision auf jeden erfolgreichen Verkauf</strong> über deinen persönlichen Affiliate-Link.</p>
+**Vendor's marketplace description:** Der große Mallorca-Guide – Mallorca entdecken, erleben und verstehen Über 250 Seiten Mallorca pur: Der große Mallorca-Guide von Nachrichten.es ist der umfassende digitale Ratgeber für alle, die Mallorca nicht nur besuchen, sondern wirklich entdecken und verstehen möchten. Ob Urlauber, Mallorca-Liebhaber, Langzeiturlauber oder Menschen, die über ein Leben auf der Insel nachdenken – dieser Guide verbindet praktische Informationen, Inspiration, Insiderwissen und das besondere Lebensgefühl Mallorcas. Du liebst Spanien und hast eine Community, die sich für Reisen, Mallorca, Auswandern, Camping, Wohnmobil, Ruhestand oder das Leben in Spanien interessiert? Dann werde Creator & Influencer Partner von Nachrichten.es und empfehle unsere digitalen Spanien-Ratgeber deiner Community. Du erhältst dabei 50 % Provision auf jeden erfolgreichen Verkauf über deinen persönlichen Affiliate-Link.
 
 ## 2. Links
 

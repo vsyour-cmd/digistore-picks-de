@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div style="text-align:left;">
-<div align="center"><strong><span style="font-size:14pt;line-height:115%;color:#000000;">Von Andreas Beutel</span></strong></div>
-<div align="center">
-<h1 align="center"><strong><span style="font-size:28pt;line-height:115%;color:#c00000;">Entwickle mit mir wundervolle Torusmandalas!</span></strong></h1>
-<h1 align="center"><strong><span style="font-size:28pt;line-height:115%;color:#c00000;">Bau mit mir Dein eigenes Torusmodell!</span></strong></h1>
-<h1 align="center"><strong><span style="font-size:28pt;line-height:115%;color:#c00000;">Lerne die Feldgeometrie des Torusses verstehen!</span></strong></h1>
-</div>
-</div>
-<h3 align="center"><span style="color:#000000;"><span style="font-size:18.6667px;">Ich zeige Dir den Weg zu Deinem eigenen Torusbild und der Geometrie unserer Lebensfelder</span></span></h3>
-<h4 class="MsoNormal" style="margin-bottom:0.0001pt;">Was Du in diesem Materialkurs bekommst:</h4>
-<ul style="list-style-type:disc;">
-<li>1:08 h Video in HD Qualität in 3 Kapiteln</li>
-<li>Mit 3 Kameras aufgenommen für beste Sichtbarkeit</li>
-<li>Wiederholt abrufbar</li>
-<li>Das beste praktische Wissen zur Geometrie</li>
-<li>7 verschiedene Torusbilder angeleitet mit Detailvideos und Fotos sowie den passenden Stifthinweisen und Farbnummern.</li>
-</ul>
+**Vendor's marketplace description:** Von Andreas Beutel Entwickle mit mir wundervolle Torusmandalas! Bau mit mir Dein eigenes Torusmodell! Lerne die Feldgeometrie des Torusses verstehen! Ich zeige Dir den Weg zu Deinem eigenen Torusbild und der Geometrie unserer Lebensfelder Was Du in diesem Materialkurs bekommst: 1:08 h Video in HD Qualität in 3 Kapiteln Mit 3 Kameras aufgenommen für beste Sichtbarkeit Wiederholt abrufbar Das beste praktische Wissen zur Geometrie 7 verschiedene Torusbilder angeleitet mit Detailvideos und Fotos sowie den passenden Stifthinweisen und Farbnummern.
 
 ## 2. Links
 

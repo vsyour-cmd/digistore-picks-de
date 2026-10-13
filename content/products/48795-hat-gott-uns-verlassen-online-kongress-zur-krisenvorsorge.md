@@ -41,37 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Es braut sich etwas zusammen!</h2>
-<p>Spürst du auch den Wandel und willst hoffnungsvoll durch die Zeitenwende gehen?</p>
-<ul>
-<li>Eine Krise jagt die andere.</li>
-<li>Die Liebe schwindet.</li>
-<li>Was kommt als Nächstes?</li>
-</ul>
-<h2>In der Finsternis gefangen und...</h2>
-<p><strong>...voller Sorgen um die Zukunft.</strong></p>
-<ul>
-<li>Was, wenn deine Angst berechtigt ist?</li>
-<li>Du bist verloren in Selbstzweifeln, ohne sicheren Halt, geprägt von Aussichtslosigkeit und innerer Leere?</li>
-<li>Die selbsternannten Gurus, Möchtegern-Heiler und Ego-Coaches, die Alles schön-programmieren wollen, konnten dir keine echte Erlösung bieten?</li>
-</ul>
-<h2>Sei bereit für ein Wunder!</h2>
-<p><strong>Es ist ganz einfach.</strong></p>
-<ul>
-<li>Während 12 Tagen verraten dir über 30 Experten in 35 Interviews ihre Geheimnisse.</li>
-<li>Du erfährst, wie du deinen Kokon verlässt und fliegen kannst.</li>
-<li>Dies ist mehr als ein Kongress - es ist ein Kurs in Wundern!</li>
-</ul>
-<h2>Mit Christus im Herzen den Kontakt zu Gott aufleben lassen</h2>
-<p>Und auch in dunklen Zeiten ein Licht für Andere sein!</p>
-<ul>
-<li>Du kannst dein Seelenheil auch in der Endzeit bewahren.</li>
-<li>Du hast den Dschungel der Selbstzweifel verlassen und findest mit Gott an deiner Seite innere Ruhe und Frieden.</li>
-<li>Du gehst mit Gottes Segen voller Hoffnung, Freude und Liebe selbstbewusst deinen Herzensweg.</li>
-</ul>
-<p><strong>Deine Zeit der Transformation ist JETZT! Sei Teil des Kongresses, sei Teil der Veränderung. Möge Gottes Segen immer mit dir sein.</strong></p>
-<p>Warum weiter in Unsicherheit und Dunkelheit verharren? Der Online-Kongress „Hat Gott uns verlassen?“ ist deine Eintrittskarte zu einer Gemeinschaft, die dich bestärkt, wenn Zweifel aufkommen. Er ist kein Zurückblicken, sondern ein Voranschreiten. Lass die Dunkelheit nicht dein Schicksal diktieren. Hier ist deine Eintrittskarte zu einer Transformation, die nicht nur Antworten, sondern auch Taten liefert. Lass uns gemeinsam das Licht entfachen und selbstbewusst durch diese Zeitenwende gehen.</p>
-<p>10 Prozent der Einnahmen gehen an die <a>AVC Schweiz</a> , eine Hilfsorganisation, die verfolgte Christen in der ganzen Welt unterstützt.</p>
+**Vendor's marketplace description:** Es braut sich etwas zusammen! Spürst du auch den Wandel und willst hoffnungsvoll durch die Zeitenwende gehen? Eine Krise jagt die andere. Die Liebe schwindet. Was kommt als Nächstes? In der Finsternis gefangen und... ...voller Sorgen um die Zukunft. Was, wenn deine Angst berechtigt ist? Du bist verloren in Selbstzweifeln, ohne sicheren Halt, geprägt von Aussichtslosigkeit und innerer Leere? Die selbsternannten Gurus, Möchtegern-Heiler und Ego-Coaches, die Alles schön-programmieren wollen, konnten dir keine echte Erlösung bieten? Sei bereit für ein Wunder! Es ist ganz einfach. Während 12 Tagen verraten dir über 30 Experten in 35 Interviews ihre Geheimnisse. Du erfährst, wie du deinen Kokon verlässt und fliegen kannst. Dies ist mehr als ein Kongress - es ist ein Kurs in Wundern! Mit Christus im Herzen den Kontakt zu Gott aufleben lassen Und auch in dunklen Zeiten ein Licht für Andere sein! Du kannst dein Seelenheil auch in der Endzeit bewahren. Du hast den Dschungel der Selbstzweifel verlassen und findest mit Gott an deiner Seite innere Ruhe und Frieden. Du gehst mit Gottes Segen voller Hoffnung, Freude und Liebe selbstbewusst deinen Herzensweg. Deine Zeit der Transformation ist JETZT! Sei Teil des Kongresses, sei Teil der Veränderung. Möge Gottes Segen immer mit dir sein. Warum weiter in Unsicherheit und Dunkelheit verharren? Der Online-Kongress „Hat Gott uns verlassen?“ ist deine Eintrittskarte zu einer Gemeinschaft, die dich bestärkt, wenn Zweifel aufkommen. Er ist kein Zurückblicken, sondern ein Voranschreiten. Lass die Dunkelheit nicht dein Schicksal diktieren. Hier ist deine Eintrittskarte zu einer Transformation, die nicht nur Antworten, sondern auch Taten liefert. Lass uns gemeinsam das Licht entfachen und selbstbewusst durch diese Zeitenwende gehen. 10 Prozent der Einnahmen gehen an die AVC Schweiz , eine Hilfsorganisation, die verfolgte Christen in der ganzen Welt unterstützt.
 
 ## 2. Links
 

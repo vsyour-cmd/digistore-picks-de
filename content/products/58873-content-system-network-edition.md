@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#0000ff;"><strong>Cont</strong></span><span style="color:#0000ff;"><strong>ent System – Network Edition</strong></span></p>
-<p>Dein komplettes Content-System für mehr Klarheit, Sichtbarkeit und echte Gespräche im Network Marketing.</p>
-<p>Du bekommst ein ausführliches System, das dir zeigt, was du kommunizieren kannst, wie du daraus starken Content entwickelst und wie aus Aufmerksamkeit Vertrauen und natürliche Gespräche entstehen können.</p>
-<p><span style="color:#0000ff;"><strong> Enthalten sind unter anderem Content-Strategien,</strong></span></p>
-<ul>
-<li><span style="color:#0000ff;"><strong> 30 ausführliche Post-Vorlagen, </strong></span></li>
-<li><span style="color:#0000ff;"><strong>30 Reel-Skripte, </strong></span></li>
-<li><span style="color:#0000ff;"><strong>30 Story-Sequenzen, </strong></span></li>
-<li><span style="color:#0000ff;"><strong>100 Hooks, </strong></span></li>
-<li><span style="color:#0000ff;"><strong>50 CTAs, </strong></span></li>
-<li><span style="color:#0000ff;"><strong>30 DM- &amp; Follow-up-Vorlagen, </strong></span></li>
-<li><strong><span style="color:#0000ff;">25 KI-Prompts sowie Planungs- und Umsetzungssysteme</span>. </strong></li>
-</ul>
-<p>Kein starrer Content-Kalender. Keine täglichen „Was soll ich posten?“-Momente. Keine austauschbaren Copy-&amp;-Paste-Texte.</p>
-<p>Stattdessen bekommst du ein System, mit dem du aus deinen eigenen Themen, Erfahrungen, Produkten und Gesprächen immer wieder neuen Content entwickeln kannst. Für alle, die ihr Network professionell und authentisch über Social Media aufbauen möchten.</p>
-<p><strong>Dein Content. Deine Stimme. Dein System.</strong></p>
-<p><strong>Digitaler Guide als PDF zum Download.</strong></p>
+**Vendor's marketplace description:** Cont ent System – Network Edition Dein komplettes Content-System für mehr Klarheit, Sichtbarkeit und echte Gespräche im Network Marketing. Du bekommst ein ausführliches System, das dir zeigt, was du kommunizieren kannst, wie du daraus starken Content entwickelst und wie aus Aufmerksamkeit Vertrauen und natürliche Gespräche entstehen können. Enthalten sind unter anderem Content-Strategien, 30 ausführliche Post-Vorlagen, 30 Reel-Skripte, 30 Story-Sequenzen, 100 Hooks, 50 CTAs, 30 DM- & Follow-up-Vorlagen, 25 KI-Prompts sowie Planungs- und Umsetzungssysteme . Kein starrer Content-Kalender. Keine täglichen „Was soll ich posten?“-Momente. Keine austauschbaren Copy-&-Paste-Texte. Stattdessen bekommst du ein System, mit dem du aus deinen eigenen Themen, Erfahrungen, Produkten und Gesprächen immer wieder neuen Content entwickeln kannst. Für alle, die ihr Network professionell und authentisch über Social Media aufbauen möchten. Dein Content. Deine Stimme. Dein System. Digitaler Guide als PDF zum Download.
 
 ## 2. Links
 

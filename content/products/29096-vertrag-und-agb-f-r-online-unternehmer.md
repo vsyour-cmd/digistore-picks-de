@@ -41,34 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>easyContracts - Verträge, einfach, sicher und maßgeschneidert für Dein Online Business.</strong><br /><strong>Das Partnerprogramm</strong></p>
-<p><span style="color:#ff0000;">Mit easyContracts kannst Du neuen Kunden und/oder Leads ein rechtssicheres Business mit korrekten Verträgen und AGB ermöglichen. </span></p>
-<p><span style="color:#000000;"><strong>Deine Vorteile:</strong></span></p>
-<ul>
-<li><strong>Provisionen in Höhe von 25% </strong></li>
-<li><strong>Werbematerialen oder persönlicher Austausch:</strong>  Banner, Vorlagen für E-Mail-Texte, Blog-Beiträge </li>
-<li><strong>Schnelle und persönliche Unterstützung</strong> durch uns!</li>
-</ul>
-<p><strong>Bei <span style="color:#ff0000;">easyContracts</span> erhältst Du DSGVO-konforme Verträge und AGB z.B. für:</strong></p>
-<ul>
-<li>Auftragsverarbeitungsvertrag (AVV)</li>
-<li>Coaches Online und Offline</li>
-<li>Eventmanagement</li>
-<li>Full Service Agenturen</li>
-<li>Influencer</li>
-<li>Moderation</li>
-<li>Programmierung</li>
-<li>Social Media Agenturen</li>
-<li>Software as a Service (SaaS)</li>
-<li>Verkauf von Downloadprodukten </li>
-<li>Virtuelle Assistenz</li>
-<li>Webdesign, Webhosting, Webwartung</li>
-<li>Webinare, Seminare, Kurse</li>
-<li>Werbe- und Internetagenturen</li>
-<li>u.v.m.</li>
-</ul>
-<p>Ist der richtige Vertrag nicht dabei? Sprich uns an, wir finden eine Lösung!</p>
-<p>Besuche jetzt unsere Website und erhalte hier alle Infos zum Partnerprogramm: <a>https://easycontracts.de/partnerprogramm/</a></p>
+**Vendor's marketplace description:** easyContracts - Verträge, einfach, sicher und maßgeschneidert für Dein Online Business. Das Partnerprogramm Mit easyContracts kannst Du neuen Kunden und/oder Leads ein rechtssicheres Business mit korrekten Verträgen und AGB ermöglichen. Deine Vorteile: Provisionen in Höhe von 25% Werbematerialen oder persönlicher Austausch: Banner, Vorlagen für E-Mail-Texte, Blog-Beiträge Schnelle und persönliche Unterstützung durch uns! Bei easyContracts erhältst Du DSGVO-konforme Verträge und AGB z.B. für: Auftragsverarbeitungsvertrag (AVV) Coaches Online und Offline Eventmanagement Full Service Agenturen Influencer Moderation Programmierung Social Media Agenturen Software as a Service (SaaS) Verkauf von Downloadprodukten Virtuelle Assistenz Webdesign, Webhosting, Webwartung Webinare, Seminare, Kurse Werbe- und Internetagenturen u.v.m. Ist der richtige Vertrag nicht dabei? Sprich uns an, wir finden eine Lösung! Besuche jetzt unsere Website und erhalte hier alle Infos zum Partnerprogramm: https://easycontracts.de/partnerprogramm/
 
 ## 2. Links
 

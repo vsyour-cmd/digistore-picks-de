@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<p>Mit diesem Hypnose-Onlinekurs von Pet Anthony können Innere Blockaden aufgespürt, aufgelöst und ausgeleitet werden.</p>
-<p>Der Kurs enthält insgesamt 3 Videolektionen mit einer speziellen körpertherapeutischen Hypnose.</p>
-<p>Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.</p>
-</div>
-</div>
+**Vendor's marketplace description:** Mit diesem Hypnose-Onlinekurs von Pet Anthony können Innere Blockaden aufgespürt, aufgelöst und ausgeleitet werden. Der Kurs enthält insgesamt 3 Videolektionen mit einer speziellen körpertherapeutischen Hypnose. Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.
 
 ## 2. Links
 

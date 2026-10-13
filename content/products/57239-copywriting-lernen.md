@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Copywriting lernen“</strong></p>
-<p>Texte schreiben, die verkaufen – auch als Quereinsteiger – Die Grundlagen überzeugenden Copywritings: Zielgruppe verstehen, fesselnde Überschriften, mit Nutzen argumentieren und verkaufende Texte aufbauen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Was gutes Copywriting wirklich ausmacht</li>
-<li>Deine Zielgruppe verstehen, bevor du schreibst</li>
-<li>Fesselnde Überschriften und mit Nutzen argumentieren</li>
-<li>Erste Aufträge finden – auch als Quereinsteiger</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Copywriting lernen“ Texte schreiben, die verkaufen – auch als Quereinsteiger – Die Grundlagen überzeugenden Copywritings: Zielgruppe verstehen, fesselnde Überschriften, mit Nutzen argumentieren und verkaufende Texte aufbauen. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Was gutes Copywriting wirklich ausmacht Deine Zielgruppe verstehen, bevor du schreibst Fesselnde Überschriften und mit Nutzen argumentieren Erste Aufträge finden – auch als Quereinsteiger
 
 ## 2. Links
 

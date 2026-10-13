@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Einwände behandeln im Closing“</strong></p>
-<p>Vom Nein zum Ja: souverän durch jedes Gespräch – Ein Nein ist oft eine ehrliche Frage. Zuhören, was hinter dem Nein steckt, die häufigsten Einwände verstehen, Preis-Einwände auflösen und Zweifeln an Vertrauen, Zeit und Geld begegnen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Warum Einwände normal sind und dazugehören</li>
-<li>Zuhören: was hinter einem Nein wirklich steckt</li>
-<li>Preis-Einwände ruhig und ehrlich auflösen</li>
-<li>Ein echtes Nein respektieren, mit Ethik und Recht</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Einwände behandeln im Closing“ Vom Nein zum Ja: souverän durch jedes Gespräch – Ein Nein ist oft eine ehrliche Frage. Zuhören, was hinter dem Nein steckt, die häufigsten Einwände verstehen, Preis-Einwände auflösen und Zweifeln an Vertrauen, Zeit und Geld begegnen. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Warum Einwände normal sind und dazugehören Zuhören: was hinter einem Nein wirklich steckt Preis-Einwände ruhig und ehrlich auflösen Ein echtes Nein respektieren, mit Ethik und Recht
 
 ## 2. Links
 

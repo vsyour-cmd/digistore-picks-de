@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Bonus: Persönliches 1:1 Coaching</strong></p>
-<p>Als Ergänzung zu den digitalen Inhalten erhältst du die Möglichkeit, zusätzlich <strong>persönliche Coaching-Sessions</strong> mit einem unserer Experten wahrzunehmen.</p>
-<h3>✅ Details zum Add-on:</h3>
-<ul>
-<li>
-<p><strong>Format:</strong> Telefon- oder Zoom-Coaching</p>
-</li>
-<li>
-<p><strong>Dauer pro Session:</strong> ca. 45–60 Minuten</p>
-</li>
-<li>
-<p><strong>Inhalt:</strong> Individuelle Beratung, Feedback zu deiner Umsetzung, persönliche Strategien</p>
-</li>
-<li>
-<p><strong>Terminvereinbarung:</strong> Nach Kauf individuell per E-Mail/WhatsApp mit unserem Team abstimmbar</p>
-</li>
-<li>
-<p><strong>Ziel:</strong> Direkte Unterstützung bei Fragen, Umsetzung &amp; Optimierung</p>
-</li>
-</ul>
-<h3> </h3>
+**Vendor's marketplace description:** Bonus: Persönliches 1:1 Coaching Als Ergänzung zu den digitalen Inhalten erhältst du die Möglichkeit, zusätzlich persönliche Coaching-Sessions mit einem unserer Experten wahrzunehmen. ✅ Details zum Add-on: Format: Telefon- oder Zoom-Coaching Dauer pro Session: ca. 45–60 Minuten Inhalt: Individuelle Beratung, Feedback zu deiner Umsetzung, persönliche Strategien Terminvereinbarung: Nach Kauf individuell per E-Mail/WhatsApp mit unserem Team abstimmbar Ziel: Direkte Unterstützung bei Fragen, Umsetzung & Optimierung
 
 ## 2. Links
 

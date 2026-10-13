@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Wohngeld leicht gemacht – Ratgeber mit Wohngeld-Rechner</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Der Ratgeber erklärt, wer Wohngeld bekommt, wie es berechnet wird und wie der Antrag läuft, für Mieter und für Eigentümer im eigenen Haus. Der <strong>Wohngeld-Rechner</strong> zeigt die Rechnung Schritt für Schritt.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Rentner mit kleiner Rente</li>
-<li>Familien und Alleinerziehende mit geringem Einkommen</li>
-<li>Eigentümer, die im eigenen Haus wohnen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Die Miete steigt und das Geld wird knapp</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Mietrecht, Jobcenter und Sozialleistungen, Stromkosten) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Wohngeld leicht gemacht – Ratgeber mit Wohngeld-Rechner Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Der Ratgeber erklärt, wer Wohngeld bekommt, wie es berechnet wird und wie der Antrag läuft, für Mieter und für Eigentümer im eigenen Haus. Der Wohngeld-Rechner zeigt die Rechnung Schritt für Schritt. Die Zielgruppe Rentner mit kleiner Rente Familien und Alleinerziehende mit geringem Einkommen Eigentümer, die im eigenen Haus wohnen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Die Miete steigt und das Geld wird knapp Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Mietrecht, Jobcenter und Sozialleistungen, Stromkosten) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

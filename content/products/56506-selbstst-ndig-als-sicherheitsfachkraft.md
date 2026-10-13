@@ -41,34 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div> </div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>Mit diesem Praxisleitfaden lernen Fachkräfte für Arbeitssicherheit Schritt für Schritt, wie sie erfolgreich in die Selbstständigkeit starten.</p>
-<p>Das E-Book vermittelt praxisnah den Aufbau eines eigenen Dienstleistungsunternehmens im Bereich Arbeitsschutz – von den ersten Kunden über Angebote und Vertragsstrukturen bis hin zu Gefährdungsbeurteilungen, Unterweisungen und professionellen Abläufen. Keine Theorie, sondern echte Erfahrungen aus der Praxis.</p>
-<p>Die Nachfrage nach externen Fachkräften für Arbeitssicherheit wächst kontinuierlich. Unternehmen benötigen aufgrund gesetzlicher Vorgaben nach ASiG und DGUV Vorschrift 2 qualifizierte Betreuung, während gleichzeitig viele erfahrene Sicherheitsfachkräfte in den kommenden Jahren aus dem Markt ausscheiden.</p>
-<p>Ideal für Affiliates im Bereich:</p>
-<ul>
-<li>Arbeitsschutz</li>
-<li>Weiterbildung</li>
-<li>Karriere &amp; Selbstständigkeit</li>
-<li>Industrie &amp; B2B</li>
-</ul>
-<p>Digitale Wissensprodukte für Fachkräfte im Arbeitsschutz gehören zu einer stark wachsenden Zukunftsbranche mit hoher Nachfrage.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Mit diesem Praxisleitfaden lernen Fachkräfte für Arbeitssicherheit Schritt für Schritt, wie sie erfolgreich in die Selbstständigkeit starten. Das E-Book vermittelt praxisnah den Aufbau eines eigenen Dienstleistungsunternehmens im Bereich Arbeitsschutz – von den ersten Kunden über Angebote und Vertragsstrukturen bis hin zu Gefährdungsbeurteilungen, Unterweisungen und professionellen Abläufen. Keine Theorie, sondern echte Erfahrungen aus der Praxis. Die Nachfrage nach externen Fachkräften für Arbeitssicherheit wächst kontinuierlich. Unternehmen benötigen aufgrund gesetzlicher Vorgaben nach ASiG und DGUV Vorschrift 2 qualifizierte Betreuung, während gleichzeitig viele erfahrene Sicherheitsfachkräfte in den kommenden Jahren aus dem Markt ausscheiden. Ideal für Affiliates im Bereich: Arbeitsschutz Weiterbildung Karriere & Selbstständigkeit Industrie & B2B Digitale Wissensprodukte für Fachkräfte im Arbeitsschutz gehören zu einer stark wachsenden Zukunftsbranche mit hoher Nachfrage.
 
 ## 2. Links
 

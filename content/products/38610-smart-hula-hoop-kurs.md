@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;">Deutschlands erster Smart Hula Hoop Kurs! Verdiene mit unserem Kurs und erhalte top Provisionen!</span></p>
-<p><strong>Mach mit! Wir hullern alle zusammen und bringen deine Gesundheit (wortwörtlich) in Schwung!</strong></p>
-<p><strong>Nummer 1 Smart Hula Hoop Kurs für alle Smart Hula Hoop Liebhaber, die abnehmen und Spaß am Hula Hoop Training haben wollen – und das am besten einfach von zu Hause</strong></p>
-<ul>
-<li>Bequem von zu Hause trainieren</li>
-<li>Schnelle Ergebnisse mit nur 10 Min. täglich</li>
-<li>Nur 1 Smart Hula Hoop Reifen notwendig</li>
-<li>Dauerhaft (24 Stunden) Zugriff auf alle Videos</li>
-<li>Schritt-für-Schritt-Übungen zum Nachmachen</li>
-<li>+ EXTRABONUS: 2 Smart Hula Hoop Workouts mit Arme und Beine</li>
-<li>+ Persönlicher E-Mail Support bei zusätzlichen Fragen</li>
-</ul>
-<p><strong> </strong></p>
-<p><strong>Das erwartet dich in unserem exklusiven Smart Hula Hoop Kurs:</strong></p>
-<ul>
-<li>Was macht einen guten Smart Hula Hoop aus?</li>
-<li>Tipps und Tricks - So klappt es mit dem Smart Hula Hoop!</li>
-<li>Wie lege ich den Smart Hula Hoop richtig an?</li>
-<li>Smart Hula Hoop - Wie bewege ich mich richtig?</li>
-<li>Bonus: Smart Hula Hoop Workout - Arme</li>
-<li>Bonus: Smart Hula Hoop Workout - Beine</li>
-<li>+ Persönlicher E-Mail Support bei zusätzlichen Fragen</li>
-</ul>
-<p> </p>
-<p>Viele Grüße - Smart Hula Hoop Deutschland Team</p>
+**Vendor's marketplace description:** Deutschlands erster Smart Hula Hoop Kurs! Verdiene mit unserem Kurs und erhalte top Provisionen! Mach mit! Wir hullern alle zusammen und bringen deine Gesundheit (wortwörtlich) in Schwung! Nummer 1 Smart Hula Hoop Kurs für alle Smart Hula Hoop Liebhaber, die abnehmen und Spaß am Hula Hoop Training haben wollen – und das am besten einfach von zu Hause Bequem von zu Hause trainieren Schnelle Ergebnisse mit nur 10 Min. täglich Nur 1 Smart Hula Hoop Reifen notwendig Dauerhaft (24 Stunden) Zugriff auf alle Videos Schritt-für-Schritt-Übungen zum Nachmachen + EXTRABONUS: 2 Smart Hula Hoop Workouts mit Arme und Beine + Persönlicher E-Mail Support bei zusätzlichen Fragen Das erwartet dich in unserem exklusiven Smart Hula Hoop Kurs: Was macht einen guten Smart Hula Hoop aus? Tipps und Tricks - So klappt es mit dem Smart Hula Hoop! Wie lege ich den Smart Hula Hoop richtig an? Smart Hula Hoop - Wie bewege ich mich richtig? Bonus: Smart Hula Hoop Workout - Arme Bonus: Smart Hula Hoop Workout - Beine + Persönlicher E-Mail Support bei zusätzlichen Fragen Viele Grüße - Smart Hula Hoop Deutschland Team
 
 ## 2. Links
 

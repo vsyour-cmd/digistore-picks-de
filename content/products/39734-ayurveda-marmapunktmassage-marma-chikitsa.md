@@ -41,37 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehle das einzigartige Produkt &amp; verdiene passives Einkommen durch unser effektives Ayurveda-Ausbildungskonzept!</p>
-<p><strong>Das Wichtigste für Dich als Marketer zuerst:</strong></p>
-<p>Bewerbe die Ayurvedaschule, mit der auch Du Geld verdienen kannst:</p>
-<ul>
-<li>20 % Provisionen auf Deine vermittelten Verkäufe + 20 % Provision auf Upsells und Downsells sowie auf Folgeaufträge (<span style="background-color:#ffff00;"><strong>Lifetime!!!</strong></span>)</li>
-<li>Optimierte Verkaufs-Funnel. Große Auswahl optimierter Werbemittel: klickstarke Banner, Vorlagen für E-Mail-Texte für mehr Leads und Verkäufe.</li>
-<li>Schnelle und persönliche Unterstützung auf Deutsch durch unser Team</li>
-<li>Besuche jetzt unser Affiliate Center (= unsere Partnerprogramm-Seite), um noch heute Teil der Ayurveda-Online Familie zu werden!</li>
-</ul>
-<p><strong>Was können die Teilnehmer dieses Ayurveda-Kochkurses Online lernen?</strong></p>
-<ul>
-<li>Einführung in das Energiesystem des Menschen und in den Ayurveda</li>
-<li>Energetischer Schutz – Stress und Stressbehandlung</li>
-<li>Die Chakren und deren Bedeutung aus körperlicher und seelischer Ebene</li>
-<li>Atemtechniken zum Entspannen und Reinigen des Körpers</li>
-<li>Erlernen einer traditionellen Marmapunktmassage</li>
-<li>Erkennen der Marmapunkte und deren Bedeutung</li>
-<li>Infos zu Kräuter-Öle Behandlungstechniken der Marmapunkte</li>
-<li>Erlernen eines Chakren Ausgleichs (Behandlung ohne Öl)</li>
-<li>Marmas zur Entwicklung des Geistes</li>
-<li>Erlernen einer Behandlung der Marmas für den Geist</li>
-</ul>
-<p>Das Wissen ist so aufgearbeitet, dass es auch schnell in der Praxis umgesetzt werden kann.</p>
-<p>Ich habe es mir zum Ziel gemacht Ayurveda-Seminare und Ausbildungen so zu revolutionieren, dass Teilnehmer meiner Angebote alles schnell und effizient Online erlernen und direkt umsetzen können!</p>
-<p>Ohne Reisezeit und ohne Reisekosten.</p>
-<p>Erlernbar sind alle Seminar- und Ausbildungsinhalte bequem von zu Hause aus, das Lernen im eigenen Rhythmus ist so möglich.  </p>
-<p><strong>Smarte und effektive Ayurveda-Seminare aus der Praxis für die Praxis</strong></p>
-<p>Meine 30-jährigen Erfahrungswerte und die Erfahrungswerte der Absolventen meiner Ayurveda-Kurse und Ayurveda-Ausbildungen sind in diesem Kurs mit eingearbeitet.</p>
-<p>Zugang zum Kurs bzw. zur Ausbildung auch nach der Ausbildungszeit, so sind die Ausbildungsinhalte als Wissensdatenbank auch weiterhin abrufbar.</p>
-<p>Das Wissen wird regelmäßig aktualisiert. Alle Updates sind dauerhaft kostenfrei in der Investition für die Seminare / Ausbildungen beinhaltet.</p>
-<p>Partnerunterstützungsseite: <strong>ayurvedaschule-online.de/partnerprogramm/</strong></p>
+**Vendor's marketplace description:** Empfehle das einzigartige Produkt & verdiene passives Einkommen durch unser effektives Ayurveda-Ausbildungskonzept! Das Wichtigste für Dich als Marketer zuerst: Bewerbe die Ayurvedaschule, mit der auch Du Geld verdienen kannst: 20 % Provisionen auf Deine vermittelten Verkäufe + 20 % Provision auf Upsells und Downsells sowie auf Folgeaufträge ( Lifetime!!! ) Optimierte Verkaufs-Funnel. Große Auswahl optimierter Werbemittel: klickstarke Banner, Vorlagen für E-Mail-Texte für mehr Leads und Verkäufe. Schnelle und persönliche Unterstützung auf Deutsch durch unser Team Besuche jetzt unser Affiliate Center (= unsere Partnerprogramm-Seite), um noch heute Teil der Ayurveda-Online Familie zu werden! Was können die Teilnehmer dieses Ayurveda-Kochkurses Online lernen? Einführung in das Energiesystem des Menschen und in den Ayurveda Energetischer Schutz – Stress und Stressbehandlung Die Chakren und deren Bedeutung aus körperlicher und seelischer Ebene Atemtechniken zum Entspannen und Reinigen des Körpers Erlernen einer traditionellen Marmapunktmassage Erkennen der Marmapunkte und deren Bedeutung Infos zu Kräuter-Öle Behandlungstechniken der Marmapunkte Erlernen eines Chakren Ausgleichs (Behandlung ohne Öl) Marmas zur Entwicklung des Geistes Erlernen einer Behandlung der Marmas für den Geist Das Wissen ist so aufgearbeitet, dass es auch schnell in der Praxis umgesetzt werden kann. Ich habe es mir zum Ziel gemacht Ayurveda-Seminare und Ausbildungen so zu revolutionieren, dass Teilnehmer meiner Angebote alles schnell und effizient Online erlernen und direkt umsetzen können! Ohne Reisezeit und ohne Reisekosten. Erlernbar sind alle Seminar- und Ausbildungsinhalte bequem von zu Hause aus, das Lernen im eigenen Rhythmus ist so möglich. Smarte und effektive Ayurveda-Seminare aus der Praxis für die Praxis Meine 30-jährigen Erfahrungswerte und die Erfahrungswerte der Absolventen meiner Ayurveda-Kurse und Ayurveda-Ausbildungen sind in diesem Kurs mit eingearbeitet. Zugang zum Kurs bzw. zur Ausbildung auch nach der Ausbildungszeit, so sind die Ausbildungsinhalte als Wissensdatenbank auch weiterhin abrufbar. Das Wissen wird regelmäßig aktualisiert. Alle Updates sind dauerhaft kostenfrei in der Investition für die Seminare / Ausbildungen beinhaltet. Partnerunterstützungsseite: ayurvedaschule-online.de/partnerprogramm/
 
 ## 2. Links
 

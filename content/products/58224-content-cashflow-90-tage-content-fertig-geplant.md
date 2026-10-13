@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p><strong>Du möchtest regelmäßig sichtbar sein, aber nicht jeden Tag neu überlegen, was du posten sollst?</strong></p>
-<p>„Content Cashflow – 90 Tage Content. Fertig geplant.“ hilft dir dabei, deine Inhalte einfacher und strukturierter zu planen.</p>
-<p>Du bekommst konkrete Ideen, Hooks und Vorlagen, mit denen du deinen Content vorbereiten kannst, ohne ständig wieder bei null anzufangen.</p>
-<p><strong>Enthalten sind unter anderem:</strong></p>
-<p>• Content-Ideen für 90 Tage<br />• aufmerksamkeitsstarke Hooks<br />• Ideen für Posts, Reels und Stories<br />• Vorlagen für hilfreiche und verkaufsorientierte Inhalte<br />• eine klare Struktur für regelmäßige Sichtbarkeit<br />• Impulse, um Content sinnvoll mit dem eigenen Angebot zu verbinden</p>
-<p>Das Produkt richtet sich besonders an Online-Business-Einsteiger, Selbstständige und Creator, die regelmäßig Inhalte veröffentlichen möchten, ohne jeden Tag lange nach neuen Ideen suchen zu müssen.</p>
-<p><strong>Für Affiliates:</strong> Ein leicht verständliches Produkt mit einer klaren Zielgruppe und einem konkreten Problem: fehlende Ideen und Zeit für regelmäßigen Content.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Du möchtest regelmäßig sichtbar sein, aber nicht jeden Tag neu überlegen, was du posten sollst? „Content Cashflow – 90 Tage Content. Fertig geplant.“ hilft dir dabei, deine Inhalte einfacher und strukturierter zu planen. Du bekommst konkrete Ideen, Hooks und Vorlagen, mit denen du deinen Content vorbereiten kannst, ohne ständig wieder bei null anzufangen. Enthalten sind unter anderem: • Content-Ideen für 90 Tage • aufmerksamkeitsstarke Hooks • Ideen für Posts, Reels und Stories • Vorlagen für hilfreiche und verkaufsorientierte Inhalte • eine klare Struktur für regelmäßige Sichtbarkeit • Impulse, um Content sinnvoll mit dem eigenen Angebot zu verbinden Das Produkt richtet sich besonders an Online-Business-Einsteiger, Selbstständige und Creator, die regelmäßig Inhalte veröffentlichen möchten, ohne jeden Tag lange nach neuen Ideen suchen zu müssen. Für Affiliates: Ein leicht verständliches Produkt mit einer klaren Zielgruppe und einem konkreten Problem: fehlende Ideen und Zeit für regelmäßigen Content.
 
 ## 2. Links
 

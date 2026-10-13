@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2 style="text-align:left;"><strong><span style="color:#00c224;">Finanzen meistern - Mit deinem selbst erstellten Plan [Vorlage]</span></strong></h2>
-<p style="text-align:left;"><strong>Ihre Vorteile:</strong></p>
-<ul>
-<li><strong>7,1 % Conversionrate</strong></li>
-<li><strong>50 % Provision</strong></li>
-<li><strong>14 bis 38 Euro (NETTO) pro Verkauf</strong></li>
-<li>Zusätzliche Folge- und Zusatz-Provisionen im optimierten Backend-Funnel</li>
-<li>24/7 Direkt-Support durch Nils Warnecke </li>
-</ul>
-<p> <strong><br />Inhalt:</strong> </p>
-<ul>
-<li>CashCockpit (Excel-Finanzplan)</li>
-<li>12x HD Videoanleitung</li>
-<li>Support per WhatsApp &amp; Email</li>
-</ul>
-<p><br />Gratis testen auf <span style="color:#ff9900;"><strong><a style="color:#ff9900;" href="https://CashCockpit.de">https://CashCockpit.de</a></strong></span></p>
-<p>Melde dich jetzt zum Partnerprogramm an und generiere sofort die ersten Provisionen mit einem für den Markt hoch relevanten und verkaufsstarken Angebot!</p>
+**Vendor's marketplace description:** Finanzen meistern - Mit deinem selbst erstellten Plan [Vorlage] Ihre Vorteile: 7,1 % Conversionrate 50 % Provision 14 bis 38 Euro (NETTO) pro Verkauf Zusätzliche Folge- und Zusatz-Provisionen im optimierten Backend-Funnel 24/7 Direkt-Support durch Nils Warnecke Inhalt: CashCockpit (Excel-Finanzplan) 12x HD Videoanleitung Support per WhatsApp & Email Gratis testen auf https://CashCockpit.de Melde dich jetzt zum Partnerprogramm an und generiere sofort die ersten Provisionen mit einem für den Markt hoch relevanten und verkaufsstarken Angebot!
 
 ## 2. Links
 

@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>VIP High-Ticket Deal: Fast 400 € Provision pro Kunden-Projekt!</strong></p>
-<p>Für anspruchsvolle Firmenkunden: Der <strong>Custom Business Automation Service</strong> verknüpft zwei Kern-Systeme (z. B. CRM an Buchhaltung) über API-Schnittstellen und eliminiert manuelle Datenübertragung.</p>
-<p><strong>Deine Vorteile als Partner:</strong></p>
-<ul>
-<li>
-<p><strong>Top-Provisionshöhe:</strong> Unschlagbare <strong>398,00 €</strong> Provision pro vermitteltem Basis-Projekt (20 % Provision).</p>
-</li>
-<li>
-<p><strong>Hoher Vertrauensbonus:</strong> Festpreis-Angebot für eine Leistung, die Agenturen sonst für 5.000 €+ anbieten.</p>
-</li>
-<li>
-<p><strong>Perfekter Upsell:</strong> Ideal für Zielgruppen, die bereits Tools wie Make.com, n8n, Zapier, HubSpot oder Lexware nutzen.</p>
-</li>
-</ul>
-<p><strong>Empfohlen für:</strong> B2B-Netzwerke, IT-Consultants, SaaS-Reviewer und Finance/Business-Channels.</p>
+**Vendor's marketplace description:** VIP High-Ticket Deal: Fast 400 € Provision pro Kunden-Projekt! Für anspruchsvolle Firmenkunden: Der Custom Business Automation Service verknüpft zwei Kern-Systeme (z. B. CRM an Buchhaltung) über API-Schnittstellen und eliminiert manuelle Datenübertragung. Deine Vorteile als Partner: Top-Provisionshöhe: Unschlagbare 398,00 € Provision pro vermitteltem Basis-Projekt (20 % Provision). Hoher Vertrauensbonus: Festpreis-Angebot für eine Leistung, die Agenturen sonst für 5.000 €+ anbieten. Perfekter Upsell: Ideal für Zielgruppen, die bereits Tools wie Make.com, n8n, Zapier, HubSpot oder Lexware nutzen. Empfohlen für: B2B-Netzwerke, IT-Consultants, SaaS-Reviewer und Finance/Business-Channels.
 
 ## 2. Links
 
@@ -87,6 +73,14 @@ language: "de"
 - **Page word count:** 541
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
 
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 

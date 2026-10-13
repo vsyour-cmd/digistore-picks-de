@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verschenke wertvollen Content – und verdiene automatisch mit!</strong></p>
-<p><br />Das kostenlose <strong>E-Book „Seelische Blockaden erkennen &amp; lösen“</strong> ist ein gefragtes Freebie, das Menschen hilft, emotionale Altlasten loszulassen und innere Klarheit zu finden.</p>
-<p>Mit praktischen Übungen, sanfter Energiearbeit und sofort umsetzbaren Schritten schafft dieses E-Book Vertrauen und öffnet die Tür zum <strong>3-Tage-Detox-Kurs, </strong>einem tiefgehenden Transformationsprogramm.</p>
-<p><strong>Dein Vorteil als Affiliate:</strong></p>
-<ul>
-<li>
-<p><strong>Automatisches Upselling:</strong> Der 3-Tage-Detox-Kurs wird direkt auf der Danke-Seite und in der nachfolgenden E-Mail-Serie beworben.</p>
-</li>
-<li>
-<p><strong>Hohe Conversionrate:</strong> Das E-Book spricht eine große Zielgruppe an – Menschen, die emotionale Heilung, Balance und innere Ruhe suchen.</p>
-</li>
-<li>
-<p><strong>Echter Mehrwert:</strong> Du verschenkst ein professionell gestaltetes, hilfreiches E-Book, das echten Nutzen bietet.</p>
-</li>
-<li>
-<p><strong>50 % Provision:</strong> Du erhältst faire und wiederkehrende Provisionen auf jeden Kursverkauf über deinen Link.</p>
-</li>
-</ul>
-<p><strong>Ideal für dich, wenn du Inhalte zu folgenden Themen teilst:</strong></p>
-<p><br />Achtsamkeit · Energiearbeit · Persönlichkeitsentwicklung · Heilung · Meditation · Selbstliebe · Mentale Gesundheit</p>
-<p><strong>Jetzt Affiliate werden, E-Book verschenken &amp; am Detox-Upsell verdienen!</strong></p>
+**Vendor's marketplace description:** Verschenke wertvollen Content – und verdiene automatisch mit! Das kostenlose E-Book „Seelische Blockaden erkennen & lösen“ ist ein gefragtes Freebie, das Menschen hilft, emotionale Altlasten loszulassen und innere Klarheit zu finden. Mit praktischen Übungen, sanfter Energiearbeit und sofort umsetzbaren Schritten schafft dieses E-Book Vertrauen und öffnet die Tür zum 3-Tage-Detox-Kurs, einem tiefgehenden Transformationsprogramm. Dein Vorteil als Affiliate: Automatisches Upselling: Der 3-Tage-Detox-Kurs wird direkt auf der Danke-Seite und in der nachfolgenden E-Mail-Serie beworben. Hohe Conversionrate: Das E-Book spricht eine große Zielgruppe an – Menschen, die emotionale Heilung, Balance und innere Ruhe suchen. Echter Mehrwert: Du verschenkst ein professionell gestaltetes, hilfreiches E-Book, das echten Nutzen bietet. 50 % Provision: Du erhältst faire und wiederkehrende Provisionen auf jeden Kursverkauf über deinen Link. Ideal für dich, wenn du Inhalte zu folgenden Themen teilst: Achtsamkeit · Energiearbeit · Persönlichkeitsentwicklung · Heilung · Meditation · Selbstliebe · Mentale Gesundheit Jetzt Affiliate werden, E-Book verschenken & am Detox-Upsell verdienen!
 
 ## 2. Links
 

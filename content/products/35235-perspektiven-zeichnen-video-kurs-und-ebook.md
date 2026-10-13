@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Perspektiven Zeichnen Video-Kurs und eBook. Damit kann jeder schnell und einfach das perspektivische Zeichnen erlernen.</strong> Hier werden die Grundlagen schnell erklärt. Anhand von enthaltenen <strong>Übungsblättern</strong> und dazugehöriger <strong>Video-Tutorials</strong> kann mit diesem Kurs wirklich jeder schnell lernen, wie man Bilder aus unterschiedlichen Perspektiven zeichnet. </p>
-<p>Dieser Kurs beinhaltet</p>
-<ul>
-<li>52 Videos (4 Stunden) mit Erklärungen &amp; Zeichenübungen</li>
-<li>47 Übungsblätter</li>
-<li>Umfangreiches eBook mit Wissen rund um das perspektivische Zeichnen</li>
-</ul>
+**Vendor's marketplace description:** Perspektiven Zeichnen Video-Kurs und eBook. Damit kann jeder schnell und einfach das perspektivische Zeichnen erlernen. Hier werden die Grundlagen schnell erklärt. Anhand von enthaltenen Übungsblättern und dazugehöriger Video-Tutorials kann mit diesem Kurs wirklich jeder schnell lernen, wie man Bilder aus unterschiedlichen Perspektiven zeichnet. Dieser Kurs beinhaltet 52 Videos (4 Stunden) mit Erklärungen & Zeichenübungen 47 Übungsblätter Umfangreiches eBook mit Wissen rund um das perspektivische Zeichnen
 
 ## 2. Links
 

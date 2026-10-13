@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dein Raum in der <strong>Female Health Academy</strong>, um deinen Körper endlich zu verstehen und gezielt zu unterstützen.</p>
-<p>Ein ganzheitliches Zusammenspiel aus Hormonen, Ernährung, Krafttraining, Stressregulation, Schlaf und Darmgesundheit – für mehr Energie, einen beschwerdefreien Zyklus, eine gesunde Verdauung und ein starkes Körpergefühl.</p>
-<p><strong>Mehr Wissen. Mehr Körperverständnis. Mehr Lebensqualität – in jeder weiblichen Lebensphase.</strong></p>
-<p>In dieser Akademie, beestehend aus über 12 Module und 80 Videos lernst du alles, was du über deinen weiblichen Körper wissen musst:</p>
-<p>- Training und Bewegung</p>
-<p>- Wie funktioniert dein Zyklus und wann kannst du wie Einfluss auf ihn nehmen</p>
-<p>- Symptome wie Heisshunger, Kopfschmerzen, Stimmungsschwankungen, Wassererinlagerungen und vieles mehr endlich reduzieren und verstehen, wie du Einfluss darauf nimmst</p>
-<p>- Wie beeinflusst du deine Hormone?</p>
-<p>- Nährstofftherapie und Diagnostik: Was solltest du testen lassen und wie nimmst du Einfluss auf deine Blutwert</p>
-<p>- Darmdiagnostik und Darmgesundheit</p>
-<p>- Ernährung durch Rezeptideen (50 Rezepte für eine hormonelle Balance), Community-Austausch, Fakten und Wissenswertes durch meinen Input</p>
-<p>- Fokus auf Fettreduktion, Energie, Verdauung, Schlaf &amp; Hautgesundheit</p>
-<p>- Zugang zur Community &amp; regelmäßige Impulse für deinen Alltag</p>
-<p>- optional mit 14-tägigen Live-Calls für maximalen Erfolg</p>
-<p> </p>
-<p>Diese Membership ist alles was du brauchst. Als TÜV zertifizierte Health Coach möchte ich, dass jede Frau die Möglichkeit hat ihren Körper zu verstehen. Ich wünsche mir, dass mein Wissen jede Frau erreicht, die nicht mehr gegen ihren Körper kämpfen möchte sondern mit ihm lebt. Weil sie es sich wert ist.</p>
+**Vendor's marketplace description:** Dein Raum in der Female Health Academy , um deinen Körper endlich zu verstehen und gezielt zu unterstützen. Ein ganzheitliches Zusammenspiel aus Hormonen, Ernährung, Krafttraining, Stressregulation, Schlaf und Darmgesundheit – für mehr Energie, einen beschwerdefreien Zyklus, eine gesunde Verdauung und ein starkes Körpergefühl. Mehr Wissen. Mehr Körperverständnis. Mehr Lebensqualität – in jeder weiblichen Lebensphase. In dieser Akademie, beestehend aus über 12 Module und 80 Videos lernst du alles, was du über deinen weiblichen Körper wissen musst: - Training und Bewegung - Wie funktioniert dein Zyklus und wann kannst du wie Einfluss auf ihn nehmen - Symptome wie Heisshunger, Kopfschmerzen, Stimmungsschwankungen, Wassererinlagerungen und vieles mehr endlich reduzieren und verstehen, wie du Einfluss darauf nimmst - Wie beeinflusst du deine Hormone? - Nährstofftherapie und Diagnostik: Was solltest du testen lassen und wie nimmst du Einfluss auf deine Blutwert - Darmdiagnostik und Darmgesundheit - Ernährung durch Rezeptideen (50 Rezepte für eine hormonelle Balance), Community-Austausch, Fakten und Wissenswertes durch meinen Input - Fokus auf Fettreduktion, Energie, Verdauung, Schlaf & Hautgesundheit - Zugang zur Community & regelmäßige Impulse für deinen Alltag - optional mit 14-tägigen Live-Calls für maximalen Erfolg Diese Membership ist alles was du brauchst. Als TÜV zertifizierte Health Coach möchte ich, dass jede Frau die Möglichkeit hat ihren Körper zu verstehen. Ich wünsche mir, dass mein Wissen jede Frau erreicht, die nicht mehr gegen ihren Körper kämpfen möchte sondern mit ihm lebt. Weil sie es sich wert ist.
 
 ## 2. Links
 

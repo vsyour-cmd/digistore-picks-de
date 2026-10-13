@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Endlich den Überblick über dein Geld behalten – ohne komplizierte Tools</h2>
-<p>Du willst wissen, wohin dein Geld jeden Monat verschwindet?<br />Dieser einfache Budget Planer hilft dir dabei, deine Einnahmen und Ausgaben klar zu strukturieren – ganz ohne Vorkenntnisse.</p>
-<p>Ideal für Anfänger und alle, die ihre Finanzen schnell in den Griff bekommen möchten.</p>
+**Vendor's marketplace description:** Endlich den Überblick über dein Geld behalten – ohne komplizierte Tools Du willst wissen, wohin dein Geld jeden Monat verschwindet? Dieser einfache Budget Planer hilft dir dabei, deine Einnahmen und Ausgaben klar zu strukturieren – ganz ohne Vorkenntnisse. Ideal für Anfänger und alle, die ihre Finanzen schnell in den Griff bekommen möchten.
 
 ## 2. Links
 

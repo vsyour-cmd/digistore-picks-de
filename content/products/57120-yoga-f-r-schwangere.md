@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Warum dieses Produkt für Affiliates interessant ist:</strong></p>
-<p>Yoga und Schwangerschaft gehören zu den gefragtesten Themen im Gesundheits- und Familienbereich. Die Zielgruppe ist klar definiert und sucht aktiv nach Lösungen für Entspannung, Rückenschmerzen, Stressabbau und eine angenehme Schwangerschaft.</p>
-<p> </p>
-<p>Achtsame Yoga-Sequenzen, befreiende Atemtechniken und ruhige Meditationen — entwickelt für jedes Trimester. Übe in deinem Tempo, geborgen zu Hause.</p>
+**Vendor's marketplace description:** Warum dieses Produkt für Affiliates interessant ist: Yoga und Schwangerschaft gehören zu den gefragtesten Themen im Gesundheits- und Familienbereich. Die Zielgruppe ist klar definiert und sucht aktiv nach Lösungen für Entspannung, Rückenschmerzen, Stressabbau und eine angenehme Schwangerschaft. Achtsame Yoga-Sequenzen, befreiende Atemtechniken und ruhige Meditationen — entwickelt für jedes Trimester. Übe in deinem Tempo, geborgen zu Hause.
 
 ## 2. Links
 

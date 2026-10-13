@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein übersichtliches 8‑Wochen‑Darmtagebuch zum Ausfüllen und Ausdrucken.</p>
-<p><strong>Es hilft dabei, Beschwerden, Ernährung, Verdauung, Wohlbefinden und mögliche Zusammenhänge im Alltag strukturiert festzuhalten. </strong></p>
-<p>So werden Muster leichter sichtbar und Veränderungen nachvollziehbarer.</p>
+**Vendor's marketplace description:** Ein übersichtliches 8‑Wochen‑Darmtagebuch zum Ausfüllen und Ausdrucken. Es hilft dabei, Beschwerden, Ernährung, Verdauung, Wohlbefinden und mögliche Zusammenhänge im Alltag strukturiert festzuhalten. So werden Muster leichter sichtbar und Veränderungen nachvollziehbarer.
 
 ## 2. Links
 

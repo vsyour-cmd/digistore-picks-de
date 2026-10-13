@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der smarte Start für Affiliates, Solopreneure &amp; Content-Creator</strong></p>
-<p>Das <strong>Affiliate Kickstart Paket</strong> enthält 7 spezialisierte GPTs, die sofort einsatzbereit sind:</p>
-<ul>
-<li><strong>Content Carlo</strong>: SEO-Blogartikel &amp; Social Posts</li>
-<li><strong>Conversion Clara</strong>: Verkaufsstarke Headlines &amp; CTAs</li>
-<li><strong>Email Eddie</strong>: Komplette E-Mail-Serien in Minuten</li>
-<li><strong>Social Sam</strong>: Reels, Hooks &amp; Karussells</li>
-<li><strong>Blog Bella</strong>: Strukturierte Blogartikel mit SEO-Fokus</li>
-<li><strong>Affiliate Alex</strong>: Affiliate-Strategien, Funnel, Fehleranalyse</li>
-<li><strong>Lead Lisa</strong>: Smarte Freebies &amp; Leadmagneten</li>
-</ul>
-<p><strong> Einmalzahlung – keine Abo-Falle. Sofort nutzbar – keine Technikkenntnisse nötig.</strong></p>
-<p><em>Top für Affiliate-Marketing, digitale Produkte, Funnelstarter &amp; Creator mit wenig Zeit!</em></p>
+**Vendor's marketplace description:** Der smarte Start für Affiliates, Solopreneure & Content-Creator Das Affiliate Kickstart Paket enthält 7 spezialisierte GPTs, die sofort einsatzbereit sind: Content Carlo : SEO-Blogartikel & Social Posts Conversion Clara : Verkaufsstarke Headlines & CTAs Email Eddie : Komplette E-Mail-Serien in Minuten Social Sam : Reels, Hooks & Karussells Blog Bella : Strukturierte Blogartikel mit SEO-Fokus Affiliate Alex : Affiliate-Strategien, Funnel, Fehleranalyse Lead Lisa : Smarte Freebies & Leadmagneten Einmalzahlung – keine Abo-Falle. Sofort nutzbar – keine Technikkenntnisse nötig. Top für Affiliate-Marketing, digitale Produkte, Funnelstarter & Creator mit wenig Zeit!
 
 ## 2. Links
 

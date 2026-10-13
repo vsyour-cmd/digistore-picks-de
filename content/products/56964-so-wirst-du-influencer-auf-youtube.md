@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Reichweite aufbauen, eine Community binden und Markendeals landen</strong></p>
-<p>Influencer zu werden ist kein Zufall, sondern Handwerk. Dieses E-Book zeigt dir den Weg vom kleinen Kanal zur gefragten Marke: wie du virale Formate baust, eine loyale Community aufbaust und dich für Kooperationen interessant machst. Du lernst, wie der Vorschlags-Algorithmus große Reichweite erzeugt, wie du aus Zuschauern echte Fans machst und wie du Markendeals verhandelst, die fair bezahlt sind. Dazu: alle Einnahmequellen im Überblick – von Werbeerlösen über Sponsoring bis zu eigenen Produkten. Dein Kanal wird vom Hobby zur Marke mit mehreren Standbeinen.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Virale Formate, die der Vorschlags-Algorithmus liebt</li>
-<li>Aus Zuschauern echte Fans &amp; eine Community machen</li>
-<li>Dein Marken-Kit: so wirst du für Kooperationen attraktiv</li>
-<li>Markendeals finden, anfragen und fair verhandeln</li>
-<li>Alle Einnahmequellen: Ads, Sponsoring, Merch, Produkte</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Reichweite aufbauen, eine Community binden und Markendeals landen Influencer zu werden ist kein Zufall, sondern Handwerk. Dieses E-Book zeigt dir den Weg vom kleinen Kanal zur gefragten Marke: wie du virale Formate baust, eine loyale Community aufbaust und dich für Kooperationen interessant machst. Du lernst, wie der Vorschlags-Algorithmus große Reichweite erzeugt, wie du aus Zuschauern echte Fans machst und wie du Markendeals verhandelst, die fair bezahlt sind. Dazu: alle Einnahmequellen im Überblick – von Werbeerlösen über Sponsoring bis zu eigenen Produkten. Dein Kanal wird vom Hobby zur Marke mit mehreren Standbeinen. Das steckt drin: Virale Formate, die der Vorschlags-Algorithmus liebt Aus Zuschauern echte Fans & eine Community machen Dein Marken-Kit: so wirst du für Kooperationen attraktiv Markendeals finden, anfragen und fair verhandeln Alle Einnahmequellen: Ads, Sponsoring, Merch, Produkte Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

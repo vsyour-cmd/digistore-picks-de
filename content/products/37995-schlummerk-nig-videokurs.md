@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><span style="font-size:14px;">Müde, erschöpft, ratlos? Hier kommt die Lösung!</span></h3>
-<div>
-<p><strong>Der Schlummerkönig-Videokurs</strong> bringt sanftes Schlummerglück für die gesamte Familie</p>
-<p>Im SchlummerKönig-Videokurs lernen Teilnehmer in einfachen Schritten, wie man seinem Baby oder Kleinkind (4 Mon.-2,5 Jahre) das Ein- und Durchschlafen nachts sowie großartige Nickerchen tagsüber beibringen kann.</p>
-<p>Im Schlummerkönig-Kurs sind enthalten:</p>
-<ul>
-<li>Zugang zu 40 Videos</li>
-<li>Downloads zur Veranschaulichung und mit allen wichtigen Infos sowie vielen extra Tipps und Tricks (als PDFs).</li>
-<li>Basis und Premium-Version</li>
-</ul>
-<p> </p>
-<p><span style="background-color:#ffff99;">PS: Frage uns nach einem individuellen Rabattcode für deine Community/E-Mail-Liste/etc.</span></p>
-</div>
+**Vendor's marketplace description:** Müde, erschöpft, ratlos? Hier kommt die Lösung! Der Schlummerkönig-Videokurs bringt sanftes Schlummerglück für die gesamte Familie Im SchlummerKönig-Videokurs lernen Teilnehmer in einfachen Schritten, wie man seinem Baby oder Kleinkind (4 Mon.-2,5 Jahre) das Ein- und Durchschlafen nachts sowie großartige Nickerchen tagsüber beibringen kann. Im Schlummerkönig-Kurs sind enthalten: Zugang zu 40 Videos Downloads zur Veranschaulichung und mit allen wichtigen Infos sowie vielen extra Tipps und Tricks (als PDFs). Basis und Premium-Version PS: Frage uns nach einem individuellen Rabattcode für deine Community/E-Mail-Liste/etc.
 
 ## 2. Links
 

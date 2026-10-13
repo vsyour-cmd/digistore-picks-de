@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Herzlichen Glückwunsch zum Familienzuwachs! Die nächsten Wochen werden aufregend, wunderschön und – machen wir uns nichts vor – auch ein bisschen anstrengend. Dein Welpe ist wie ein kleines Kleinkind in einem flauschigen Fellanzug. Er weiß noch nichts von unseren menschlichen Regeln. Er weiß nicht, dass das Sofa teuer war oder dass man nachts schläft.</p>
-<p> </p>
-<p>Dieses E-Book ist dein stressfreier Fahrplan für die ersten 23 Wochen. Vergiss komplizierte Theorien. Wir konzentrieren uns auf das, was jetzt wirklich zählt:</p>
+**Vendor's marketplace description:** Herzlichen Glückwunsch zum Familienzuwachs! Die nächsten Wochen werden aufregend, wunderschön und – machen wir uns nichts vor – auch ein bisschen anstrengend. Dein Welpe ist wie ein kleines Kleinkind in einem flauschigen Fellanzug. Er weiß noch nichts von unseren menschlichen Regeln. Er weiß nicht, dass das Sofa teuer war oder dass man nachts schläft. Dieses E-Book ist dein stressfreier Fahrplan für die ersten 23 Wochen. Vergiss komplizierte Theorien. Wir konzentrieren uns auf das, was jetzt wirklich zählt:
 
 ## 2. Links
 

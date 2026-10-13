@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Wunder gegen Nierensteine ist ein ansprechend gestaltetes E-Book, welches bereits jetzt schon vielen Menschen geholfen hat ihr Nierenstein-Leiden in den Griff zu kriegen.</p>
-<p>Sie erhalten 50% Provision und auch die Verkaufsseite ist sehr ansprechend gestaltet.</p>
+**Vendor's marketplace description:** Das Wunder gegen Nierensteine ist ein ansprechend gestaltetes E-Book, welches bereits jetzt schon vielen Menschen geholfen hat ihr Nierenstein-Leiden in den Griff zu kriegen. Sie erhalten 50% Provision und auch die Verkaufsseite ist sehr ansprechend gestaltet.
 
 ## 2. Links
 

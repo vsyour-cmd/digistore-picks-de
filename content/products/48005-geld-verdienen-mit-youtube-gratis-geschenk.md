@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Nutze dieses E-Book um deiner Zielgruppe ein hochwertiges Geschenk anzubieten und profitiere von konvertierenden Direkt-Upsells.</strong></p>
-<p>Hochkonvertierende Order-Addons direkt im Bestellformular.</p>
-<p><strong>Für wen geeignet?</strong>: Das E-Book eignet sich für alle, die im Online Marketing unterwegs sind und mit Youtube Geld verdienne möchten. Vor allem das Trend-Thema KI wird hier aufgegriffen.</p>
-<p><strong>Deine Vorteile als Partner</strong>:</p>
-<ul>
-<li>
-<ul>
-<li>Qualitatives Freebie, welches du deiner Zielgruppe schneken und somit mehr Vertrauen aufbauen kannst.</li>
-<li><strong>50% auf alle unsere Produkte im Funnel</strong></li>
-<li>180 Tage Cookie-Laufzeit</li>
-<li>Qualitätsprodukte erstellt von Webpirat.de</li>
-</ul>
-</li>
-</ul>
-<div style="width:0px;height:0px;"> </div>
-<div style="width:0px;height:0px;"> </div>
-<div style="width:0px;height:0px;"> </div>
-<div style="width:0px;height:0px;"> </div>
-<div style="width:0px;height:0px;"> </div>
-<div style="width:0px;height:0px;"> </div>
-<div style="width:0px;height:0px;"></div>
+**Vendor's marketplace description:** Nutze dieses E-Book um deiner Zielgruppe ein hochwertiges Geschenk anzubieten und profitiere von konvertierenden Direkt-Upsells. Hochkonvertierende Order-Addons direkt im Bestellformular. Für wen geeignet? : Das E-Book eignet sich für alle, die im Online Marketing unterwegs sind und mit Youtube Geld verdienne möchten. Vor allem das Trend-Thema KI wird hier aufgegriffen. Deine Vorteile als Partner : Qualitatives Freebie, welches du deiner Zielgruppe schneken und somit mehr Vertrauen aufbauen kannst. 50% auf alle unsere Produkte im Funnel 180 Tage Cookie-Laufzeit Qualitätsprodukte erstellt von Webpirat.de
 
 ## 2. Links
 

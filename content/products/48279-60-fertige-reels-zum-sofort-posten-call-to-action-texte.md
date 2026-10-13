@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bist Du es Leid mehrere Stunden damit beschäftigt zu sein Reels zu erstellen?</p>
-<p>Viel Aufwand für keine Views?</p>
-<p>Du siehst die Reels der anderen, ästhetisch, hochwertiges Video sowie ansprechender Call to Action und möchtest das auch?</p>
-<p>Dann ist dieses Produkt das richtige für Dich!</p>
-<p> </p>
-<p>Ich habe 60 Videos bearbeitet, mit erprobten Texten und Call to Action versehen, sodass Du sie direkt posten kannst.</p>
-<p>Die Videos haben alle die perfekte Länge für Instagram Reels. Teilweise besteht ein Reel aus nur einem Video und ist dann etwas kürzer (bedeutet mehr Views, da das Video eher von vorn startet) oder es ist circa 5.5 Sekunden lang.</p>
-<p> </p>
-<p>Dank langer Erfahrung im Online Business, konnte ich die besten Texte für dich zusammentragen, damit Du sie nutzen kannst. </p>
-<p> </p>
-<p>Möchtest Du die Videos noch nach deinen Wünschen anpassen, kannst Du sie nachträglich bei Canva bearbeiten und zum Beispiel Deinen Username hinzufügen. Die Schriftart ist immer Montserrat.</p>
-<p> </p>
-<p>Also - bloß noch herunterladen, bei Instagram passende Musik und eine gute Beschreibung hinzufügen, dass wars.</p>
+**Vendor's marketplace description:** Bist Du es Leid mehrere Stunden damit beschäftigt zu sein Reels zu erstellen? Viel Aufwand für keine Views? Du siehst die Reels der anderen, ästhetisch, hochwertiges Video sowie ansprechender Call to Action und möchtest das auch? Dann ist dieses Produkt das richtige für Dich! Ich habe 60 Videos bearbeitet, mit erprobten Texten und Call to Action versehen, sodass Du sie direkt posten kannst. Die Videos haben alle die perfekte Länge für Instagram Reels. Teilweise besteht ein Reel aus nur einem Video und ist dann etwas kürzer (bedeutet mehr Views, da das Video eher von vorn startet) oder es ist circa 5.5 Sekunden lang. Dank langer Erfahrung im Online Business, konnte ich die besten Texte für dich zusammentragen, damit Du sie nutzen kannst. Möchtest Du die Videos noch nach deinen Wünschen anpassen, kannst Du sie nachträglich bei Canva bearbeiten und zum Beispiel Deinen Username hinzufügen. Die Schriftart ist immer Montserrat. Also - bloß noch herunterladen, bei Instagram passende Musik und eine gute Beschreibung hinzufügen, dass wars.
 
 ## 2. Links
 

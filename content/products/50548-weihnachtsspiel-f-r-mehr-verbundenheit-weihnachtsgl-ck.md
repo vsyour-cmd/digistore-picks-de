@@ -41,60 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><span style="color:#ff0000;"><strong>weihnachtliche Spielvariante</strong></span> des beliebten Spieleklassikers "<strong>Stadt, Land, Fluss</strong>"</div>
-<div> </div>
-<div>Mit dem Spiel</div>
-<h2><span style="color:#008000;"><strong>Stadt, Land, WeihnachtsGLÜCK</strong></span></h2>
-<p>könnt ihr euch <span style="color:#ff0000;"><strong>gemeinsam auf die Weihnachtszeit einstimmen</strong></span> und euren Fokus auf das lenken, was euch erfreut. Das macht <strong><span style="color:#ff0000;">Spaß</span> </strong>und tut eurem <span style="color:#ff0000;"><strong>Familienzusammenhalt</strong></span> und eurer Beziehung gut.</p>
-<p>Außerdem kommt ihr mit den Mitspielenden super leicht in <span style="color:#ff0000;"><strong>freudevolle Gespräche</strong></span> und alle lernen sich noch besser kennen. Sogar die <strong><span style="color:#ff0000;">Achtsamkeit</span> </strong>und die Fähigkeit, sich selbst zu reflektieren werden etwas trainiert.</p>
-<p> </p>
-<p><span style="color:#008000;"><strong>Spielfakten</strong></span></p>
-<ul>
-<li>digitales Produkt zum Herunterladen und Ausdrucken oder digital spielen</li>
-<li>Spielentwicklung &amp; Gestaltung: Glückstrainerin Melli Seedorf</li>
-<li>empfohlenes Spielalter: ab 8 Jahre (da man i.d.R. ab 8 J. schreiben kann)</li>
-<li>8 weihnachtliche Kategorien</li>
-<li>5 Runden je ausgedruckter Seite spielbar</li>
-<li>regt die 5 Sinne an und hilft dadurch, im Alltag mehr "im Körper" als "im Kopf" zu sein</li>
-<li>3 verschiedene, weihnachtliche Designs</li>
-</ul>
-<p><span style="color:#008000;"><strong>Verschiedene Spielvarianten</strong></span></p>
-<ul>
-<li>mit und ohne festen Anfangsbuchstaben</li>
-<li>mit und ohne Punkte spielbar</li>
-<li>spielen bis einer "Stopp" ruft oder locker nach beliebiger Zeit ( = spielen ohne Zeitdruck)</li>
-<li>für Zuhause und unterwegs (#Mitbringsel)</li>
-<li>zum Ausdrucken auf normales Kopierpapier (A4)</li>
-<li>zum digital Spielen geeignet</li>
-<li>einmal kaufen &amp; unendlich oft spielen </li>
-</ul>
-<p> </p>
-<p><span style="color:#008000;"><strong>Das Spiel ist der ideale und kinderleichte Einstieg in eine bewusste, glückliche Weihnachtszeit.</strong></span></p>
-<p> </p>
-<h2>Mit dem Kauf des spaßigen Spiels<br />"<span style="color:#ff0000;">Stadt, Land, Weihnachtsglück</span>"<br />erhältst du insgesamt <span style="color:#008000;">4</span> Dateien</h2>
-<p> </p>
-<ol>
-<li><strong>drei PNG-Dateien <span style="color:#008000;">zum Ausdrucken</span></strong> des Spiels "Stadt, Land, Weihnachtsglück" in drei verschiedenen Designs<br /><br /></li>
-<li><strong>eine PDF-Datei</strong> (eine Seite) <span style="color:#008000;"><strong>zum online Spielen</strong></span></li>
-</ol>
-<ul>
-<li><span style="color:#ff0000;"><strong>Highlight</strong></span>: Du kannst die PDF-Datei direkt am Bildschirm ausfüllen, da sie<span style="color:#ff0000;"> integrierte Textfelder</span> enthält.</li>
-</ul>
-<p> </p>
-<h5><span style="color:#008000;">♥ Mach dir bewusst, dass du mit deinem Kauf beiträgst, die Welt zu einem besseren Ort zu machen. ♥</span></h5>
-<p> </p>
-<p>Wichtiger Hinweis:</p>
-<p><span style="color:#008000;">Den <strong>Ausdruck</strong> darfst Du <strong>so oft Du willst</strong>, verschenken oder selbst bespielen.</span> Die <strong>Dateien</strong> dürfen <strong>nicht</strong> an Dritte weitergegeben werden. </p>
-<p> </p>
-<p><strong>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</strong></p>
-<p><em>Probiere gern auch die Spiele</em></p>
-<p><em>"<span style="color:#3366ff;"><strong>Stadt, Land, Glückstraining</strong></span>" und</em></p>
-<p><em>"<span style="color:#ff6600;"><strong>Stadt, Land, Freude</strong></span>" aus.</em></p>
-<p><em>Sie sind ebenfalls von der Glückstrainerin entwickelt und gestaltet worden, um spielerisch das Glücklichsein zu trainieren".</em></p>
-<p><strong>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</strong></p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** weihnachtliche Spielvariante des beliebten Spieleklassikers " Stadt, Land, Fluss " Mit dem Spiel Stadt, Land, WeihnachtsGLÜCK könnt ihr euch gemeinsam auf die Weihnachtszeit einstimmen und euren Fokus auf das lenken, was euch erfreut. Das macht Spaß und tut eurem Familienzusammenhalt und eurer Beziehung gut. Außerdem kommt ihr mit den Mitspielenden super leicht in freudevolle Gespräche und alle lernen sich noch besser kennen. Sogar die Achtsamkeit und die Fähigkeit, sich selbst zu reflektieren werden etwas trainiert. Spielfakten digitales Produkt zum Herunterladen und Ausdrucken oder digital spielen Spielentwicklung & Gestaltung: Glückstrainerin Melli Seedorf empfohlenes Spielalter: ab 8 Jahre (da man i.d.R. ab 8 J. schreiben kann) 8 weihnachtliche Kategorien 5 Runden je ausgedruckter Seite spielbar regt die 5 Sinne an und hilft dadurch, im Alltag mehr "im Körper" als "im Kopf" zu sein 3 verschiedene, weihnachtliche Designs Verschiedene Spielvarianten mit und ohne festen Anfangsbuchstaben mit und ohne Punkte spielbar spielen bis einer "Stopp" ruft oder locker nach beliebiger Zeit ( = spielen ohne Zeitdruck) für Zuhause und unterwegs (#Mitbringsel) zum Ausdrucken auf normales Kopierpapier (A4) zum digital Spielen geeignet einmal kaufen & unendlich oft spielen Das Spiel ist der ideale und kinderleichte Einstieg in eine bewusste, glückliche Weihnachtszeit. Mit dem Kauf des spaßigen Spiels " Stadt, Land, Weihnachtsglück " erhältst du insgesamt 4 Dateien drei PNG-Dateien zum Ausdrucken des Spiels "Stadt, Land, Weihnachtsglück" in drei verschiedenen Designs eine PDF-Datei (eine Seite) zum online Spielen Highlight : Du kannst die PDF-Datei direkt am Bildschirm ausfüllen, da sie integrierte Textfelder enthält. ♥ Mach dir bewusst, dass du mit deinem Kauf beiträgst, die Welt zu einem besseren Ort zu machen. ♥ Wichtiger Hinweis: Den Ausdruck darfst Du so oft Du willst , verschenken oder selbst bespielen. Die Dateien dürfen nicht an Dritte weitergegeben werden. ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Probiere gern auch die Spiele " Stadt, Land, Glückstraining " und " Stadt, Land, Freude " aus. Sie sind ebenfalls von der Glückstrainerin entwickelt und gestaltet worden, um spielerisch das Glücklichsein zu trainieren". ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ## 2. Links
 

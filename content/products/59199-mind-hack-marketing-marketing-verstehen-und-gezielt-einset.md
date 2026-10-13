@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mind Hack Marketing ist ein deutschsprachiger Online-Kurs für alle, die Marketing besser verstehen und gezielter einsetzen möchten.</p>
-<p> </p>
-<p>Der Kurs vermittelt praxisnah wichtige Grundlagen rund um Marketing, Kundenansprache, Positionierung und die psychologischen Prinzipien hinter erfolgreichen Verkaufsentscheidungen.</p>
-<p> </p>
-<p>Ideal für Einsteiger und Selbstständige:</p>
-<p>• verständlich und übersichtlich aufgebaut</p>
-<p>• praxisorientierte Inhalte</p>
-<p>• Marketing verständlich erklärt</p>
-<p>• Fokus auf Kundenverhalten und Verkaufspsychologie</p>
-<p>• komplett auf Deutsch</p>
-<p> </p>
-<p>Verkaufspreis: 59 €</p>
-<p> </p>
-<p>Als Affiliate kannst du Mind Hack Marketing über Digistore24 bewerben und für erfolgreich vermittelte Verkäufe eine Provision erhalten.</p>
+**Vendor's marketplace description:** Mind Hack Marketing ist ein deutschsprachiger Online-Kurs für alle, die Marketing besser verstehen und gezielter einsetzen möchten. Der Kurs vermittelt praxisnah wichtige Grundlagen rund um Marketing, Kundenansprache, Positionierung und die psychologischen Prinzipien hinter erfolgreichen Verkaufsentscheidungen. Ideal für Einsteiger und Selbstständige: • verständlich und übersichtlich aufgebaut • praxisorientierte Inhalte • Marketing verständlich erklärt • Fokus auf Kundenverhalten und Verkaufspsychologie • komplett auf Deutsch Verkaufspreis: 59 € Als Affiliate kannst du Mind Hack Marketing über Digistore24 bewerben und für erfolgreich vermittelte Verkäufe eine Provision erhalten.
 
 ## 2. Links
 

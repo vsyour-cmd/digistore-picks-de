@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Vielen Dank für dein Interesse an der Bewerbung meines Buches!</p>
-<p><strong>Produkt:</strong> <em>Panikattacken - Mein Weg aus der Angst</em></p>
-<p><em>Panikattacken und Ängste verstehen</em></p>
-<h3>Zielgruppe</h3>
-<ul>
-<li>Menschen, die unter Panikattacken oder Angstzuständen leiden</li>
-<li>Personen, die nach praktischen Strategien zur Selbsthilfe suchen</li>
-<li>Angehörige, die Betroffene besser verstehen möchten</li>
-</ul>
-<h3>Produktvorteile</h3>
-<ul>
-<li>Leicht verständlich und praxisnah geschrieben</li>
-<li>Konkrete Übungen und Strategien für den Alltag</li>
-<li>Motivierende und einfühlsame Inhalte</li>
-<li>Sofort als Download verfügbar (bei E-Book)</li>
-</ul>
-<h3>Werbeideen</h3>
-<ul>
-<li>Blogartikel zum Thema Panikattacken und Angstbewältigung</li>
-<li>Social-Media-Beiträge mit hilfreichen Tipps</li>
-<li>Newsletter-Empfehlungen</li>
-<li>Videos oder Podcasts rund um mentale Gesundheit</li>
-</ul>
-<h3>Hinweise</h3>
-<p>Bitte mache keine Heilversprechen oder irreführenden Aussagen. Das Buch unterstützt Betroffene mit Informationen und praktischen Methoden, ersetzt jedoch keine medizinische oder psychotherapeutische Behandlung.</p>
-<p>Vielen Dank für deine Unterstützung und viel Erfolg bei der Bewerbung!</p>
+**Vendor's marketplace description:** Vielen Dank für dein Interesse an der Bewerbung meines Buches! Produkt: Panikattacken - Mein Weg aus der Angst Panikattacken und Ängste verstehen Zielgruppe Menschen, die unter Panikattacken oder Angstzuständen leiden Personen, die nach praktischen Strategien zur Selbsthilfe suchen Angehörige, die Betroffene besser verstehen möchten Produktvorteile Leicht verständlich und praxisnah geschrieben Konkrete Übungen und Strategien für den Alltag Motivierende und einfühlsame Inhalte Sofort als Download verfügbar (bei E-Book) Werbeideen Blogartikel zum Thema Panikattacken und Angstbewältigung Social-Media-Beiträge mit hilfreichen Tipps Newsletter-Empfehlungen Videos oder Podcasts rund um mentale Gesundheit Hinweise Bitte mache keine Heilversprechen oder irreführenden Aussagen. Das Buch unterstützt Betroffene mit Informationen und praktischen Methoden, ersetzt jedoch keine medizinische oder psychotherapeutische Behandlung. Vielen Dank für deine Unterstützung und viel Erfolg bei der Bewerbung!
 
 ## 2. Links
 

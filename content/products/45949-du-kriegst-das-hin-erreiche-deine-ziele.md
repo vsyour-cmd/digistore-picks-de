@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hallo Lieber Affiliate   <br />Wenn du mein Buch bewirbst, darfst du dich <strong>auf 70%</strong> <strong>Provision pro verkauftem Buch (Taschenbuch</strong>) freuen :-) <br />...und dann 50% an den Folgeverkäufen, da es sich um einen Funnel handelt.  </p>
-<p>Besuche über den Link gerne auch meine Affiliate Support Seite <a>https://dejan-sekulic.com/partnerprogramm</a><br />dort findest du jede Menge sehr gute und attraktive Werbemittel.  </p>
-<p>Zu jeder Zeit ist unser Support für dich per Mail erreichbar, zögere also nicht, uns bei Fragen und Unklarheiten zu kontaktieren.   <br /><strong><br /></strong></p>
-<h4><strong>Das bewirbst du: <br /></strong></h4>
-<p>Das Taschenbuch von Dejan Sekulic - Du kriegst das hin!<br />Mach aus deinen Hindernissen, Problemen und Wünschen ein Ziel!<br /><br /></p>
-<h4><strong>Darauf dürfen sich deine Kundinnen und Kunden freuen:</strong></h4>
-<ul>
-<li>Du lernst, wie du aus Problemen, Hindernissen und Wünschen konkrete Ziele machst.</li>
-<li>Du wirst viel über das Mindset erfolgreicher Menschen erfahren. </li>
-<li>Du bekommst eine genaue „Bedienungsanleitung“, wie du deine Ziele bedeutend schneller erreichst.</li>
-<li>Motivierende Zitate von großen Persönlichkeiten.</li>
-<li>Du wirst erkennen, weshalb Hindernisse ein getarnter Segen für unsere persönliche Entwicklung sind.</li>
-</ul>
-<p> </p>
-<ul>
-<li>
-<h4><span style="background-color:#ffff99;">Jeder Affiliate verdient 70% Provision</span><br /><span style="background-color:#ffff99;">pro verkauftem Buch (Taschenbuch) </span></h4>
-</li>
-<li><span style="background-color:#ffff99;">...und dann am gesamten Funnel!!!</span></li>
-</ul>
-<p><br /><br /></p>
+**Vendor's marketplace description:** Hallo Lieber Affiliate Wenn du mein Buch bewirbst, darfst du dich auf 70% Provision pro verkauftem Buch (Taschenbuch ) freuen :-) ...und dann 50% an den Folgeverkäufen, da es sich um einen Funnel handelt. Besuche über den Link gerne auch meine Affiliate Support Seite https://dejan-sekulic.com/partnerprogramm dort findest du jede Menge sehr gute und attraktive Werbemittel. Zu jeder Zeit ist unser Support für dich per Mail erreichbar, zögere also nicht, uns bei Fragen und Unklarheiten zu kontaktieren. Das bewirbst du: Das Taschenbuch von Dejan Sekulic - Du kriegst das hin! Mach aus deinen Hindernissen, Problemen und Wünschen ein Ziel! Darauf dürfen sich deine Kundinnen und Kunden freuen: Du lernst, wie du aus Problemen, Hindernissen und Wünschen konkrete Ziele machst. Du wirst viel über das Mindset erfolgreicher Menschen erfahren. Du bekommst eine genaue „Bedienungsanleitung“, wie du deine Ziele bedeutend schneller erreichst. Motivierende Zitate von großen Persönlichkeiten. Du wirst erkennen, weshalb Hindernisse ein getarnter Segen für unsere persönliche Entwicklung sind. Jeder Affiliate verdient 70% Provision pro verkauftem Buch (Taschenbuch) ...und dann am gesamten Funnel!!!
 
 ## 2. Links
 

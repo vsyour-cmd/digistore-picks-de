@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<p><strong>Kai Uwe Kellermann</strong><br /><strong>Das Handbuch des Erfolgs</strong></p>
-<p>Haben Sie sich auch schon einmal gefragt, warum manche Menschen scheinbar mühelos Erfolge verbuchen, während Sie sich den ganzen Tag abstrampeln und abends das Gefühl haben, auf keinen grünen Zweig zu kommen? Kai Uwe Kellermann hat sich genau diese Frage gestellt und begab sich auf die Suche nach dem Geheimnis des Erfolgs.</p>
-<p>In seinem Buch beschreibt er seinen Weg zu innerem und äußerem Reichtum. Er bedient sich dabei der Erkenntnisse zahlreicher Wissenschaftler und altem Wissen, das bereits in der Bibel festgehalten wurde. Und das Beste daran? Es ist alles ganz einfach! In seinem Buch zeigt er Ihnen, wie Sie Ihre Gedanken und Überzeugungen ändern und so die Grundlage für Ihren Erfolg schaffen können.</p>
-<p>Der anschließende Praxisteil ist voller Übungen, die für jeden leicht nachzuvollziehen sind. Diese werden Ihnen dabei helfen, Ihre eigenen Gedanken und Überzeugungen zu erkennen und zu verändern. Doch damit nicht genug: Der Autor beschäftigt sich im dritten Teil auch mit den Zusammenhängen der Quantenphysik, des Bewusstseins und des Erfolgs im Zusammenhang mit der Radionik. Der vierte Teil des Buches enthält zudem Mut machende Texte und Zitate zum Thema Erfolg, die Ihnen dabei helfen werden, Ihre Ziele zu erreichen. Eine spannende Reise, die sich erfolgsorientierte Menschen nicht entgehen lassen sollten!</p>
-<p>Das Buch von Kai Uwe Kellermann ist der Schlüssel zum Erfolg und wird Ihnen zeigen, wie Sie Ihre Träume wahr werden lassen können. Wenn auch Sie endlich Erfolg haben möchten, dann sollten Sie jetzt zugreifen und Ihr Exemplar des Buches bestellen. Machen Sie den ersten Schritt auf dem Weg zu innerem und äußerem Reichtum!</p>
-<p>PDF mit 110 Seiten zum Download</p>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Kai Uwe Kellermann Das Handbuch des Erfolgs Haben Sie sich auch schon einmal gefragt, warum manche Menschen scheinbar mühelos Erfolge verbuchen, während Sie sich den ganzen Tag abstrampeln und abends das Gefühl haben, auf keinen grünen Zweig zu kommen? Kai Uwe Kellermann hat sich genau diese Frage gestellt und begab sich auf die Suche nach dem Geheimnis des Erfolgs. In seinem Buch beschreibt er seinen Weg zu innerem und äußerem Reichtum. Er bedient sich dabei der Erkenntnisse zahlreicher Wissenschaftler und altem Wissen, das bereits in der Bibel festgehalten wurde. Und das Beste daran? Es ist alles ganz einfach! In seinem Buch zeigt er Ihnen, wie Sie Ihre Gedanken und Überzeugungen ändern und so die Grundlage für Ihren Erfolg schaffen können. Der anschließende Praxisteil ist voller Übungen, die für jeden leicht nachzuvollziehen sind. Diese werden Ihnen dabei helfen, Ihre eigenen Gedanken und Überzeugungen zu erkennen und zu verändern. Doch damit nicht genug: Der Autor beschäftigt sich im dritten Teil auch mit den Zusammenhängen der Quantenphysik, des Bewusstseins und des Erfolgs im Zusammenhang mit der Radionik. Der vierte Teil des Buches enthält zudem Mut machende Texte und Zitate zum Thema Erfolg, die Ihnen dabei helfen werden, Ihre Ziele zu erreichen. Eine spannende Reise, die sich erfolgsorientierte Menschen nicht entgehen lassen sollten! Das Buch von Kai Uwe Kellermann ist der Schlüssel zum Erfolg und wird Ihnen zeigen, wie Sie Ihre Träume wahr werden lassen können. Wenn auch Sie endlich Erfolg haben möchten, dann sollten Sie jetzt zugreifen und Ihr Exemplar des Buches bestellen. Machen Sie den ersten Schritt auf dem Weg zu innerem und äußerem Reichtum! PDF mit 110 Seiten zum Download
 
 ## 2. Links
 

@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#ffffff;background-color:#ff0000;"><strong>Verschenke die "121 Social Media Posting Hacks" und verdiene jeden Monat Provisionen!</strong></span></h2>
-<p>Du kannst die "<strong>121 Social Media Posting Hacks</strong>" an deine Liste oder Kontakte verschenken.</p>
-<p><a href="https://docs.google.com/document/d/1h14-9fSqUpQ5dARj2vWWdTH5Zk7YndbV4aHjyGTEgOU/edit?usp=sharing" target="_blank" rel="noreferrer noopener"><strong>Hier geht es zum Partnerprogramm</strong></a></p>
-<hr />
-<div>
-<h3><strong><span style="color:#ff0000;">Deine Vorteile</span></strong></h3>
-<p>Mit den <strong>121 Social Media Posting Hacks</strong> bekommst du eine klare Schritt-für-Schritt Erfolgs-Formel an die Hand, wie du deine Reichweite in Facebook, Instagram, Pinterest uvm. maximieren kannst.</p>
-<ul>
-<li>Perfekt geeignet für <strong>Anfänger ohne Vorkenntnisse</strong></li>
-<li>Gewinne<strong> mehr Follower </strong>und<strong> Kontakte</strong></li>
-<li>Erreiche<strong> mehr Interaktionen </strong>und<strong> Kommentare </strong></li>
-<li><strong>Erhalte Ideen für deine Postings, </strong>was deine Kontakte wirklich interessiert</li>
-</ul>
-</div>
-<h3><strong><span style="color:#ff0000;">Dein Verdienst</span></strong></h3>
-<p>Der Funnel ist so aufgebaut, dass danach verschiedene Upsellprodukte angeboten werden und du somit monatlich wiederkehrende Provisionen verdienen kannst.</p>
-<p>Dein Verdienst liegt je nach Produkt zwischen 30€ und 200€.</p>
-<hr />
-<p><br />Wir haben viele verschiedene Werbemittel im Partnerprogrammbereich für dich vorbereitet. <br /><strong><a href="https://docs.google.com/document/d/1h14-9fSqUpQ5dARj2vWWdTH5Zk7YndbV4aHjyGTEgOU/edit?usp=sharing" target="_blank" rel="noreferrer noopener">Hier klicken</a></strong></p>
-<div> </div>
+**Vendor's marketplace description:** Verschenke die "121 Social Media Posting Hacks" und verdiene jeden Monat Provisionen! Du kannst die " 121 Social Media Posting Hacks " an deine Liste oder Kontakte verschenken. Hier geht es zum Partnerprogramm Deine Vorteile Mit den 121 Social Media Posting Hacks bekommst du eine klare Schritt-für-Schritt Erfolgs-Formel an die Hand, wie du deine Reichweite in Facebook, Instagram, Pinterest uvm. maximieren kannst. Perfekt geeignet für Anfänger ohne Vorkenntnisse Gewinne mehr Follower und Kontakte Erreiche mehr Interaktionen und Kommentare Erhalte Ideen für deine Postings, was deine Kontakte wirklich interessiert Dein Verdienst Der Funnel ist so aufgebaut, dass danach verschiedene Upsellprodukte angeboten werden und du somit monatlich wiederkehrende Provisionen verdienen kannst. Dein Verdienst liegt je nach Produkt zwischen 30€ und 200€. Wir haben viele verschiedene Werbemittel im Partnerprogrammbereich für dich vorbereitet. Hier klicken
 
 ## 2. Links
 

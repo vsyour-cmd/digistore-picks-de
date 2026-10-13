@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehle den Sonderreport zum Steuern sparen (jählich aktualisiert und erweitert) mit mehr als 20 Beispielen, wie sich schon bei durchschnittlichem Einkommen im Jahr insgesamt mehr als 50.000 Euro steuern sparen lassen - mit Checklisten und Links auf weitere hilfreiche Tools.</p>
-<p>Deine Vorteile:</p>
-<ul>
-<li>attraktive Verkaufsprovision in Höhe von 50 %</li>
-<li>große Zielkundengruppe mit ausgeprägtem Steuersparbedürfnis</li>
-<li>Leicht nachvollziehbare und selbstständig umsetzbare Tipps für Kunden garantieren hohe Zufriedenheit</li>
-</ul>
-<p>Klicke rechts auf den blauen Button "Jetzt promoten", um Dich anzumelden und verdiene noch heute Deine erste Provision.</p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Empfehle den Sonderreport zum Steuern sparen (jählich aktualisiert und erweitert) mit mehr als 20 Beispielen, wie sich schon bei durchschnittlichem Einkommen im Jahr insgesamt mehr als 50.000 Euro steuern sparen lassen - mit Checklisten und Links auf weitere hilfreiche Tools. Deine Vorteile: attraktive Verkaufsprovision in Höhe von 50 % große Zielkundengruppe mit ausgeprägtem Steuersparbedürfnis Leicht nachvollziehbare und selbstständig umsetzbare Tipps für Kunden garantieren hohe Zufriedenheit Klicke rechts auf den blauen Button "Jetzt promoten", um Dich anzumelden und verdiene noch heute Deine erste Provision.
 
 ## 2. Links
 

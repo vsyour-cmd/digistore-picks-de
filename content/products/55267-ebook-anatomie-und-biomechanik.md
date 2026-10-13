@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hat dein Pferd einen Senkrücken? Neigt es womöglich zur Trageerschöpfung? Gibt es Muskellöcher und falls ja, wo kommen sie her und wie kannst du sie wegtrainieren?</p>
-<p>Mit meinem Workbook <em>Rückenfitte Pferde – Anatomie &amp; Biomechanik</em> möchte ich dich dabei unterstützen, den Blick deines Pferdes zu schärfen. Ich möchte dir helfen, dein Pferd objektiv zu betrachten und mögliche Schwachpunkte zu identifizieren. Außerdem möchte ich dich ermutigen, die alten Trampelpfade zu verlassen um ein paar neue Wege zu gehen.</p>
+**Vendor's marketplace description:** Hat dein Pferd einen Senkrücken? Neigt es womöglich zur Trageerschöpfung? Gibt es Muskellöcher und falls ja, wo kommen sie her und wie kannst du sie wegtrainieren? Mit meinem Workbook Rückenfitte Pferde – Anatomie & Biomechanik möchte ich dich dabei unterstützen, den Blick deines Pferdes zu schärfen. Ich möchte dir helfen, dein Pferd objektiv zu betrachten und mögliche Schwachpunkte zu identifizieren. Außerdem möchte ich dich ermutigen, die alten Trampelpfade zu verlassen um ein paar neue Wege zu gehen.
 
 ## 2. Links
 

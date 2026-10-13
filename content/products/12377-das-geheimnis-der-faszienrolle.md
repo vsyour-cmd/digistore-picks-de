@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Lerne in diesem Videokurs, wie du deine Faszienrolle oder Faszienbälle wirklich effektiv einsetzt und komm hinter das Geheimnis der Faszienrolle. <br /><br />Du bekommst effektive Praxisbeispiele und das nötige Know-How um selbst deine individuellen Übungen zu generieren. Profitiere von mehr als 10 Jahren Erfahrung als Faszien- und Bewegungsexperte.</p>
+**Vendor's marketplace description:** Lerne in diesem Videokurs, wie du deine Faszienrolle oder Faszienbälle wirklich effektiv einsetzt und komm hinter das Geheimnis der Faszienrolle. Du bekommst effektive Praxisbeispiele und das nötige Know-How um selbst deine individuellen Übungen zu generieren. Profitiere von mehr als 10 Jahren Erfahrung als Faszien- und Bewegungsexperte.
 
 ## 2. Links
 

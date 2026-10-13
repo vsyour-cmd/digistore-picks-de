@@ -41,46 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Katja Amberg</p>
-<p><strong>Von der Angst zur Sicherheit | ONLINEKURS</strong></p>
-<p>Dein Online-Kurs zum Auflösen Deiner Angst!</p>
-<p><strong>Der Zugang zu diesem Produkt erfolgt über den Mitgliederbereich von <a>www.katja-amberg-coaching.de</a> über gesonderten Login. Die Login-Daten werden nach Kaufabschluß per Mail übermittelt. </strong></p>
-<p>Mit diesem Kurs bekommst Du eine Anleitung wie Du Deine Ängste verstehst, auflöst und mehr und mehr in Sicherheit verwandelst.Hast Du Angst vor der Zukunft oder Krisen, Ängste vor Krankheiten oder bestimmten Situationen, Existenzängste, Angst zu versagen, Prüfungsängste….?Zahlreiche Videos und Selbsthypnosen helfen Dir zu erkennen, wie Deine  Angst entsteht und wie Du sie gezielt mit einigen Werkzeugen auflösen kannst. Schritt für Schritt und in Deinem eigenen Tempo Du lernst Deine Angst und deren Ursachen kennen und löst somit die verschiedene Schichten Deines Problems.Außerdem bekommst Du einige Strategien für Deinen Alltag, mit denen es möglich ist, immer wieder vom Angstmodus ins Vertrauen und ein sicheres Gefühl zurückzukehren.Somit verändert sich nicht nur Dein inneres Gefühl in Ruhe und Vertrauen, sondern Dein ganzes Leben wird insgesamt friedlicher, da Sicherheit im Innen ein Sicheres Gefühl im Aussen wiederspiegelt.  </p>
-<p><strong>Inhalt:</strong></p>
-<p>10 Videos</p>
-<p>11 Audios (Online anhören und zusätzlich zum mp3-Download bereitgestellt)</p>
-<p>4 PDF-Dokumente (Online und zusätzlich zum Download bereitgestellt)</p>
-<p> </p>
-<ol>
-<li>Video: Begrüßung  (1:57)</li>
-<li>Video: Wie löse ich die Angst (15:05)</li>
-<li>Video: Dein sicherer Ort – Aktiviere DEINE Sicherheit! (6:10)</li>
-<li>Video: Was ist Hypnose (10:04)</li>
-<li>Audio: Dein sicherer Ort (19:21)</li>
-<li>2 Audios: Negative Gefühle auflösen (Vorwort 5:07,  Meditation 18:18)</li>
-<li>Video: Angst transformieren (6:36)</li>
-<li>Audio: Angst transformieren (25:03)</li>
-<li>Video: Rendezvous mit Deiner Angst (4:56)</li>
-<li>Audio: Rendezvous mit Deiner Angst (34:22)</li>
-<li>Video: Ursache Deiner Ängste finden und lösen + Erklärung (11:29)</li>
-<li>Audio: Ursache Deiner Ängste finden und lösen (42:32)</li>
-<li>Video: Die Angst Deines inneren Kindes (5:13)</li>
-<li>3 Audios: HYPNOSE | Dein inneres Kind kennen lernen und heilen (1:52 | 2:55 | 26:17)</li>
-<li>Audio: Achtsamkeit (15:40)</li>
-<li>Audio: Ganz sicher verankert (8:54)</li>
-<li>Video: So geht`s: RAUS AUS DER ANGST | Was mache ich wenn die Angst kommt? (11:44)</li>
-<li>3 PDF: Erklärung der Dankbarkeitsliste | Dankbarkeitsliste Teil 1 + Teil 2 (insg. 3 A4-Seiten)</li>
-<li>PDF: Häufige Fragen zum Kurs: Von der Angst zur Sicherheit (8 A4-Seiten)</li>
-<li> Video: Verabschiedung (2:12)</li>
-</ol>
-<p> </p>
-<p><strong>Haftungsausschluss:</strong></p>
-<p>Dieser Audio/ Video Kurs dient zur Vermittlung von Informationen und zur praktischen Selbsthilfe mittels Meditationen und Selbsthypnose-Anwendungen.<br />Die Selbsthypnose-Anwendungen dürfen in folgenden Fällen nicht angewendet werden: Epilepsie, Herzinsuffizienz, Psychosen, Persönlichkeitsstörungen, MS, ein kürzlich erlittener Schlaganfall oder Herzinfarkt, bei Thrombosen, unter Einfluss von Drogen und Alkohol, Einnahme von Psychopharmaka. </p>
-<p>Im Zweifelsfall befragen Sie bitte Ihren Arzt!</p>
-<p>Falls Sie Traumatisierungen haben, können Sie diese nicht mit dieser Anwendung selbst behandeln. Traumatisierungen müssen in einer persönlichen Traumatherapie behandelt werden. Auch andere psychische Störungen wie schwere Angststörungen und Panikstörungen, Essstörungen, schwere  Depressionen gehören in die Hände eines Therapeuten und können nicht mit dieser Anwendung /diesem Kurs beseitigt werden. Dieser Kurs dient zur Auflösung von Zukunftsängsten, Krisen, Angst vor oder in bestimmten Situationen, Angst vor Krankheiten, Angst zu versagen, Prüfungsängsten u.s.w. Dieser Kurs setzt eine normale psychische und physische Belastbarkeit voraus. </p>
-<p>Wenn Sie sich unsicher sind, dann fragen Sie bitte Ihren Arzt. </p>
-<p>Die Verantwortung liegt allein beim Anwender dieses Kurses.<br />Alle Informationen wurden von der Urheberin Katja Amberg sehr verantwortungsvoll und sorgfältig ausgewählt und nach bestem Wissen, Gewissen und mit viel Herz zusammengestellt.<br />Dieser Kurs ersetzt nicht eine ärztliche Behandlung oder andere persönliche therapeutische Maßnahmen. Eine Garantie für den Erfolg und die Wirkung kann nicht übernommen werden.</p>
-<p>ACHTUNG!: Hypnoseanwendungen nie anhören, während Sie ein Fahrzeug führen oder Maschinen bedienen!</p>
+**Vendor's marketplace description:** Katja Amberg Von der Angst zur Sicherheit | ONLINEKURS Dein Online-Kurs zum Auflösen Deiner Angst! Der Zugang zu diesem Produkt erfolgt über den Mitgliederbereich von www.katja-amberg-coaching.de über gesonderten Login. Die Login-Daten werden nach Kaufabschluß per Mail übermittelt. Mit diesem Kurs bekommst Du eine Anleitung wie Du Deine Ängste verstehst, auflöst und mehr und mehr in Sicherheit verwandelst.Hast Du Angst vor der Zukunft oder Krisen, Ängste vor Krankheiten oder bestimmten Situationen, Existenzängste, Angst zu versagen, Prüfungsängste….?Zahlreiche Videos und Selbsthypnosen helfen Dir zu erkennen, wie Deine Angst entsteht und wie Du sie gezielt mit einigen Werkzeugen auflösen kannst. Schritt für Schritt und in Deinem eigenen Tempo Du lernst Deine Angst und deren Ursachen kennen und löst somit die verschiedene Schichten Deines Problems.Außerdem bekommst Du einige Strategien für Deinen Alltag, mit denen es möglich ist, immer wieder vom Angstmodus ins Vertrauen und ein sicheres Gefühl zurückzukehren.Somit verändert sich nicht nur Dein inneres Gefühl in Ruhe und Vertrauen, sondern Dein ganzes Leben wird insgesamt friedlicher, da Sicherheit im Innen ein Sicheres Gefühl im Aussen wiederspiegelt. Inhalt: 10 Videos 11 Audios (Online anhören und zusätzlich zum mp3-Download bereitgestellt) 4 PDF-Dokumente (Online und zusätzlich zum Download bereitgestellt) Video: Begrüßung (1:57) Video: Wie löse ich die Angst (15:05) Video: Dein sicherer Ort – Aktiviere DEINE Sicherheit! (6:10) Video: Was ist Hypnose (10:04) Audio: Dein sicherer Ort (19:21) 2 Audios: Negative Gefühle auflösen (Vorwort 5:07, Meditation 18:18) Video: Angst transformieren (6:36) Audio: Angst transformieren (25:03) Video: Rendezvous mit Deiner Angst (4:56) Audio: Rendezvous mit Deiner Angst (34:22) Video: Ursache Deiner Ängste finden und lösen + Erklärung (11:29) Audio: Ursache Deiner Ängste finden und lösen (42:32) Video: Die Angst Deines inneren Kindes (5:13) 3 Audios: HYPNOSE | Dein inneres Kind kennen lernen und heilen (1:52 | 2:55 | 26:17) Audio: Achtsamkeit (15:40) Audio: Ganz sicher verankert (8:54) Video: So geht`s: RAUS AUS DER ANGST | Was mache ich wenn die Angst kommt? (11:44) 3 PDF: Erklärung der Dankbarkeitsliste | Dankbarkeitsliste Teil 1 + Teil 2 (insg. 3 A4-Seiten) PDF: Häufige Fragen zum Kurs: Von der Angst zur Sicherheit (8 A4-Seiten) Video: Verabschiedung (2:12) Haftungsausschluss: Dieser Audio/ Video Kurs dient zur Vermittlung von Informationen und zur praktischen Selbsthilfe mittels Meditationen und Selbsthypnose-Anwendungen. Die Selbsthypnose-Anwendungen dürfen in folgenden Fällen nicht angewendet werden: Epilepsie, Herzinsuffizienz, Psychosen, Persönlichkeitsstörungen, MS, ein kürzlich erlittener Schlaganfall oder Herzinfarkt, bei Thrombosen, unter Einfluss von Drogen und Alkohol, Einnahme von Psychopharmaka. Im Zweifelsfall befragen Sie bitte Ihren Arzt! Falls Sie Traumatisierungen haben, können Sie diese nicht mit dieser Anwendung selbst behandeln. Traumatisierungen müssen in einer persönlichen Traumatherapie behandelt werden. Auch andere psychische Störungen wie schwere Angststörungen und Panikstörungen, Essstörungen, schwere Depressionen gehören in die Hände eines Therapeuten und können nicht mit dieser Anwendung /diesem Kurs beseitigt werden. Dieser Kurs dient zur Auflösung von Zukunftsängsten, Krisen, Angst vor oder in bestimmten Situationen, Angst vor Krankheiten, Angst zu versagen, Prüfungsängsten u.s.w. Dieser Kurs setzt eine normale psychische und physische Belastbarkeit voraus. Wenn Sie sich unsicher sind, dann fragen Sie bitte Ihren Arzt. Die Verantwortung liegt allein beim Anwender dieses Kurses. Alle Informationen wurden von der Urheberin Katja Amberg sehr verantwortungsvoll und sorgfältig ausgewählt und nach bestem Wissen, Gewissen und mit viel Herz zusammengestellt. Dieser Kurs ersetzt nicht eine ärztliche Behandlung oder andere persönliche therapeutische Maßnahmen. Eine Garantie für den Erfolg und die Wirkung kann nicht übernommen werden. ACHTUNG!: Hypnoseanwendungen nie anhören, während Sie ein Fahrzeug führen oder Maschinen bedienen!
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Produkte: Minikurs "Erfolgsformel", eBook und/oder Hörbuch "Schnellstart-Anleitung", Videokurs-Komplettpaket "Immobilien-Investment"</p>
-<p><a href="https://www.jeder-kann-immobilien.de/affiliateprogramm/" target="_blank" rel="noreferrer noopener"><span style="color:#ff0000;">Melde dich hier zu meinem Affiliate-Programm an</span></a></p>
-<p>Meine Produkte und Verkaufsprozesse wurden vielfach getestet. Laufend führe ich neue Tests durch und optimiere den Verkauf.</p>
-<p>Dank der großen Produktvielfalt profitierst du von Upsells und zusätzlichen Verkäufen.</p>
-<p>Anhand der Marktplatz-Statistiken siehst du sehr deutlich, dass die Zahlen bei diesem Produkt für sich sprechen.</p>
-<p>Viele Grüße<br />Stefanie Schädel<br /><br />Link: <span style="color:#ff0000;"><a style="color:#ff0000;" href="https://www.jeder-kann-immobilien.de/affiliateprogramm/" target="_blank" rel="noreferrer noopener">Hier geht's zum Affiliate-Programm</a></span></p>
-<p> </p>
+**Vendor's marketplace description:** Produkte: Minikurs "Erfolgsformel", eBook und/oder Hörbuch "Schnellstart-Anleitung", Videokurs-Komplettpaket "Immobilien-Investment" Melde dich hier zu meinem Affiliate-Programm an Meine Produkte und Verkaufsprozesse wurden vielfach getestet. Laufend führe ich neue Tests durch und optimiere den Verkauf. Dank der großen Produktvielfalt profitierst du von Upsells und zusätzlichen Verkäufen. Anhand der Marktplatz-Statistiken siehst du sehr deutlich, dass die Zahlen bei diesem Produkt für sich sprechen. Viele Grüße Stefanie Schädel Link: Hier geht's zum Affiliate-Programm
 
 ## 2. Links
 

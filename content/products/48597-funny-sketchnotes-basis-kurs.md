@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Entdecke im Sketchnotes-Basiskurs, wie Du von Grund auf das Zeichnen von Sketchnotes erlernst – ideal fürs Lernen, zur Wissensvermittlung oder einfach zum Spaß:</p>
-<ul>
-<li><strong>Von der Pike auf lernen</strong>: Einsteigen in die Grundlagen des Sketchnotings.</li>
-<li><strong>Kreativität entfesseln</strong>: Eigene Bildsprache entwickeln und Perfektionismus überwinden.</li>
-<li><strong>Flexibles Lernen</strong>: Selbstlernkurs ohne Live-Elemente, ausschließlich mit technischer Unterstützung bei Bedarf.</li>
-</ul>
-<p>Es erwarten Dich:</p>
-<ul>
-<li><strong>12 umfangreiche Module</strong> (wie Banner, Container, Symbole, Schriften uvm.)</li>
-<li>ein Selbstlernerkurs, mit dem du <strong>direkt starten</strong> kannst, nach Kauf.</li>
-<li>knapp <strong>9 Stunden Videomaterial + 13 Stunden Webinar-Aufzeichnungen </strong></li>
-<li><strong>+ 1 Live-Webinar</strong> am 07.04.2024, 20 Uhr: Mein perfekter Tag (inkl. Aufzeichnung)</li>
-</ul>
-<p>Zugriff: 1 Jahr</p>
+**Vendor's marketplace description:** Entdecke im Sketchnotes-Basiskurs, wie Du von Grund auf das Zeichnen von Sketchnotes erlernst – ideal fürs Lernen, zur Wissensvermittlung oder einfach zum Spaß: Von der Pike auf lernen : Einsteigen in die Grundlagen des Sketchnotings. Kreativität entfesseln : Eigene Bildsprache entwickeln und Perfektionismus überwinden. Flexibles Lernen : Selbstlernkurs ohne Live-Elemente, ausschließlich mit technischer Unterstützung bei Bedarf. Es erwarten Dich: 12 umfangreiche Module (wie Banner, Container, Symbole, Schriften uvm.) ein Selbstlernerkurs, mit dem du direkt starten kannst, nach Kauf. knapp 9 Stunden Videomaterial + 13 Stunden Webinar-Aufzeichnungen + 1 Live-Webinar am 07.04.2024, 20 Uhr: Mein perfekter Tag (inkl. Aufzeichnung) Zugriff: 1 Jahr
 
 ## 2. Links
 

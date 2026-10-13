@@ -41,33 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong>eBook - Wann bin ich fruchtbar? - Der natürliche Weg zum Wunschkind</strong></div>
-<div>
-<p>Im eBook „Wann bin ich fruchtbar?” von Anne und Marcus lernst du <strong>wie du die hochfruchtbaren Tage mit NFP bestimmen </strong>und somit<strong> schneller schwanger werden kannst.<br /></strong></p>
-<p>Hierbei beoachtet man bestimmte Eisprungzeichen wie die Temperatur in Kombination mit dem Zervixschleim oder Muttermund, dokumentiert diese Zeichen im Verlaufes des Zyklus und kann anschließend nach festen NFP Regeln die hochfruchtbare Zeit eingrenzen. NFP ist eine wissenschaftlich geprüfte Methode, mit der Paare in Studien eine Schwangerschaftsrate von über 80% nach 6 Monaten erreichten. Im Vergleich dazu erreichen Paare ohne Methode nur eine Schwangerschaftsrate von etwa 60%. (Gnoth et. al. Hum Repr. 2003)</p>
-<p>Somit kann NFP die Chancen natürlich schwanger zu WERDEN deutlich erhöhen.</p>
-<p><em><strong>Das lernst du in diesem eBook:</strong></em></p>
-<ol><li>Wie du Schritt für Schritt, die NFP Methode erlernen und die hochfruchtbaren Tage im Zyklus bestimmen kannst</li>
-<li>Wie du den Eisprung bis auf wenige Tage genau eingrenzen kannst</li>
-<li>Wie du eine Schwangerschaft ohne Schwangerschaftstest, nur Anhand der Körperbeobachtung, zu 99% sicher feststellen kannst</li>
-<li>Wie du deinen voraussichtlichen Geburtstermin deines Wunschkindes selbst errechnen kannst</li>
-<li>Wie DU durch konkrete Zyklusdiagnostik mögliche Ursachen, die eine Schwangerschaft erschweren, klar eingrenzen kannst</li>
-</ol><p><em><strong>Das erhälst du, wenn du das eBook kaufst:</strong></em></p>
-<ul><li><strong>Kapitel 1: Schritt für Schritt Anleitung</strong> in die symptothermale Methode <strong>(NFP) </strong>zur Bestimmung der hochfruchtbaren Tage um den Eisprung im Zyklus inkl. 5 Übungszyklen + Lösungen<strong><br /></strong></li>
-<li><strong>Kapitel 2: Clevere Zyklusdiagnostik </strong>zur Ursacheneingrenzung warum du bisher nicht schwanger geworden bist inkl. Fallbeispiele für <strong>Gelbkörperschwäche</strong> und <strong>PCOS </strong></li>
-<li><strong>Kapitel 3: 15 Erfahrungsberichte von Frauen die mit NFP </strong>trotz Schichtarbeit, PCOS, Endometriose, schlechtem Spermiogramm, Gelbkörperschwäche, Hashimoto, Fernbeziehung und langer Wartezeit<strong> etc. schwanger geworden sind</strong></li>
-<li><strong>BONUS: Umfangreiches Übungsbuch</strong> mit Zyklusblatt zum Ausdrucken, Regelübersicht und 10 Übungen inkl. Lösungen</li>
-<li><strong>BONUS:</strong> 10 Videos für die Körperbeobachtung der Eisprungzeichen</li>
-<li><strong>BONUS eBook: Optimale Ernährung für den Zyklus</strong></li>
-<li><strong>NEU BONUS: Video - Die häufigsten Fragen zum Zervixschleim</strong></li>
-<li><strong>NEU BONUS: eBook - Schwanger werden ab 35+</strong></li>
-<li><strong>NEU BONUS: eBook - 10 Wege die Fruchtbarkeit des Mannes zur fördern</strong></li>
-<li><strong>NEU BONUS: eBook fruchtbare Tage bestimmen bei Schichtarbeit</strong></li>
-<li><strong>BONUS</strong>: eBook ist optimiert für mobile Endgeräte</li>
-<li><strong>14 Tage Geld Zurück Garantie</strong></li>
-</ul><p>Anne und Marcus sind <strong>ausgebildete Fruchtbarkeitscoaches</strong> und beraten seit 2013 Frauen und Paare für den Kinderwunsch.<strong> Schon hunderte Paare sind mit ihrer Hilfe mit NFP schwanger geworden</strong> und haben die Methode sicher erlernt. Mit ihrem eBook - Wann bin ich fruchtbar? - möchten sie dir helfen endlich schwanger zu werden und dir deinen Traum vom Wunschkind zu erfüllen.</p>
-<p>Also wenn du deine Chancen natürlich schwanger zu werden wirklich deutlich erhöhen möchtest, dann hol dir jetzt dieses eBook und <strong>du kannst sofort beginnen NFP anzuwenden.</strong></p>
-</div>
+**Vendor's marketplace description:** eBook - Wann bin ich fruchtbar? - Der natürliche Weg zum Wunschkind Im eBook „Wann bin ich fruchtbar?” von Anne und Marcus lernst du wie du die hochfruchtbaren Tage mit NFP bestimmen und somit schneller schwanger werden kannst. Hierbei beoachtet man bestimmte Eisprungzeichen wie die Temperatur in Kombination mit dem Zervixschleim oder Muttermund, dokumentiert diese Zeichen im Verlaufes des Zyklus und kann anschließend nach festen NFP Regeln die hochfruchtbare Zeit eingrenzen. NFP ist eine wissenschaftlich geprüfte Methode, mit der Paare in Studien eine Schwangerschaftsrate von über 80% nach 6 Monaten erreichten. Im Vergleich dazu erreichen Paare ohne Methode nur eine Schwangerschaftsrate von etwa 60%. (Gnoth et. al. Hum Repr. 2003) Somit kann NFP die Chancen natürlich schwanger zu WERDEN deutlich erhöhen. Das lernst du in diesem eBook: Wie du Schritt für Schritt, die NFP Methode erlernen und die hochfruchtbaren Tage im Zyklus bestimmen kannst Wie du den Eisprung bis auf wenige Tage genau eingrenzen kannst Wie du eine Schwangerschaft ohne Schwangerschaftstest, nur Anhand der Körperbeobachtung, zu 99% sicher feststellen kannst Wie du deinen voraussichtlichen Geburtstermin deines Wunschkindes selbst errechnen kannst Wie DU durch konkrete Zyklusdiagnostik mögliche Ursachen, die eine Schwangerschaft erschweren, klar eingrenzen kannst Das erhälst du, wenn du das eBook kaufst: Kapitel 1: Schritt für Schritt Anleitung in die symptothermale Methode (NFP) zur Bestimmung der hochfruchtbaren Tage um den Eisprung im Zyklus inkl. 5 Übungszyklen + Lösungen Kapitel 2: Clevere Zyklusdiagnostik zur Ursacheneingrenzung warum du bisher nicht schwanger geworden bist inkl. Fallbeispiele für Gelbkörperschwäche und PCOS Kapitel 3: 15 Erfahrungsberichte von Frauen die mit NFP trotz Schichtarbeit, PCOS, Endometriose, schlechtem Spermiogramm, Gelbkörperschwäche, Hashimoto, Fernbeziehung und langer Wartezeit etc. schwanger geworden sind BONUS: Umfangreiches Übungsbuch mit Zyklusblatt zum Ausdrucken, Regelübersicht und 10 Übungen inkl. Lösungen BONUS: 10 Videos für die Körperbeobachtung der Eisprungzeichen BONUS eBook: Optimale Ernährung für den Zyklus NEU BONUS: Video - Die häufigsten Fragen zum Zervixschleim NEU BONUS: eBook - Schwanger werden ab 35+ NEU BONUS: eBook - 10 Wege die Fruchtbarkeit des Mannes zur fördern NEU BONUS: eBook fruchtbare Tage bestimmen bei Schichtarbeit BONUS : eBook ist optimiert für mobile Endgeräte 14 Tage Geld Zurück Garantie Anne und Marcus sind ausgebildete Fruchtbarkeitscoaches und beraten seit 2013 Frauen und Paare für den Kinderwunsch. Schon hunderte Paare sind mit ihrer Hilfe mit NFP schwanger geworden und haben die Methode sicher erlernt. Mit ihrem eBook - Wann bin ich fruchtbar? - möchten sie dir helfen endlich schwanger zu werden und dir deinen Traum vom Wunschkind zu erfüllen. Also wenn du deine Chancen natürlich schwanger zu werden wirklich deutlich erhöhen möchtest, dann hol dir jetzt dieses eBook und du kannst sofort beginnen NFP anzuwenden.
 
 ## 2. Links
 

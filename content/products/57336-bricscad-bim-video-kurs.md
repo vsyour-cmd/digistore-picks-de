@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Für Einsteiger und Profis</h2>
-<p> </p>
-<p>Unser Video-Portal richtet sich an alle Anwender, die keine oder wenig Erfahrung mit BricsCAD haben, oder die Ihre Kenntnisse auffrischen möchten. Mit dem Video-Portal erarbeiten Sie sich nicht nur eine solide CAD-Basis, sondern finden auch viele Tipps und Tricks um den CAD-Alltag noch effizienter zu gestalten. Entscheiden Sie selbst, wann Sie welches Kapitel sehen, wiederholen und vertiefen wollen.</p>
-<p>In <strong>zehn kompakten Modulen</strong> lernen Sie den vollständigen BIM-Workflow: Wände modellieren und bearbeiten, Fenster und Türen einfügen, Dach und Decken anlegen, IFC-Klassifizierung, Geschosszuweisung, Schnitte ableiten, Wandaufbauten definieren sowie IFC-Export und -Import.<br /><br /><strong>Ziel: </strong>Sie erstellen normgerechte BIM-Modelle in BricsCAD®, klassifizieren Bauteile nach IFC und liefern exportfähige Daten für die weitere Planung.</p>
-<p>Mit dem Paket BIM-Channel des BricsCAD Premium Video-Portals schalten Sie alle Videos des BIM-Channels für 1 Jahr frei und können die Videos in diesem Zeitraum anschauen, sooft und wann immer Sie wollen.</p>
-<p>Machen Sie diese Video-Plattform zu Ihrem „BricsCAD-Personal-Trainer“, der Ihnen 24 Stunden täglich und 7 Tage die Woche zur Seite steht.</p>
+**Vendor's marketplace description:** Für Einsteiger und Profis Unser Video-Portal richtet sich an alle Anwender, die keine oder wenig Erfahrung mit BricsCAD haben, oder die Ihre Kenntnisse auffrischen möchten. Mit dem Video-Portal erarbeiten Sie sich nicht nur eine solide CAD-Basis, sondern finden auch viele Tipps und Tricks um den CAD-Alltag noch effizienter zu gestalten. Entscheiden Sie selbst, wann Sie welches Kapitel sehen, wiederholen und vertiefen wollen. In zehn kompakten Modulen lernen Sie den vollständigen BIM-Workflow: Wände modellieren und bearbeiten, Fenster und Türen einfügen, Dach und Decken anlegen, IFC-Klassifizierung, Geschosszuweisung, Schnitte ableiten, Wandaufbauten definieren sowie IFC-Export und -Import. Ziel: Sie erstellen normgerechte BIM-Modelle in BricsCAD®, klassifizieren Bauteile nach IFC und liefern exportfähige Daten für die weitere Planung. Mit dem Paket BIM-Channel des BricsCAD Premium Video-Portals schalten Sie alle Videos des BIM-Channels für 1 Jahr frei und können die Videos in diesem Zeitraum anschauen, sooft und wann immer Sie wollen. Machen Sie diese Video-Plattform zu Ihrem „BricsCAD-Personal-Trainer“, der Ihnen 24 Stunden täglich und 7 Tage die Woche zur Seite steht.
 
 ## 2. Links
 

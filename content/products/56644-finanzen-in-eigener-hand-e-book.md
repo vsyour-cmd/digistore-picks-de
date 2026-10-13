@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Landing Page wie folgt um eine Kurzübersicht zum Buch zu erhalten. </p>
-<p><a>https://worldfinancemovement.carrd.co/ </a></p>
-<p>Bindet euren Affiliate Link selbst ein, sodass der Kunde über deinen Affiliate-Link auf deiner Lading-Page, deinem Social-Media Account, Post etc. zur Verakufsseite von Digistore gelangt und du deine Provision pro Verkauf erhältst.</p>
-<p>In diesem Buch steckt viel Wissen aus 7 jähriger Erfahrung mit praxisnahen Beispielen drin.</p>
-<p>Danke im Voraus, dass du mein Produkt bewirbst &amp; ich wünsche dir ganz viel Erfolg und viele Provisionseinnahmen! :)</p>
-<p>Falls Ihr irgendwelche Fragen/Unsicherheiten habt dürft Ihr mich gerne kontaktieren!</p>
-<p>worldfinancemovement@outlook.de</p>
+**Vendor's marketplace description:** Landing Page wie folgt um eine Kurzübersicht zum Buch zu erhalten. https://worldfinancemovement.carrd.co/ Bindet euren Affiliate Link selbst ein, sodass der Kunde über deinen Affiliate-Link auf deiner Lading-Page, deinem Social-Media Account, Post etc. zur Verakufsseite von Digistore gelangt und du deine Provision pro Verkauf erhältst. In diesem Buch steckt viel Wissen aus 7 jähriger Erfahrung mit praxisnahen Beispielen drin. Danke im Voraus, dass du mein Produkt bewirbst & ich wünsche dir ganz viel Erfolg und viele Provisionseinnahmen! :) Falls Ihr irgendwelche Fragen/Unsicherheiten habt dürft Ihr mich gerne kontaktieren! worldfinancemovement@outlook.de
 
 ## 2. Links
 

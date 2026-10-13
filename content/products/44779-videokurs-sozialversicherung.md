@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#ff0000;"><strong>Videokurs: Sozialversicherung</strong></span></p>
-<p>Empfehle unseren Videokurs weiter und erfreue dich an attraktiven Vorteilen:</p>
-<p>---&gt; 80 % Provision</p>
-<p>---&gt; wachsende Plattform</p>
-<p>---&gt; Cross Selling von verwandten Produkten</p>
-<p>---&gt; monatlich neue Inhalte verfügbar</p>
-<p>---&gt; schnelle Problembearbeitung durch unseren Affiliate-Manager</p>
-<p> </p>
-<p>Verdiene jetzt mit unseren Videokursen, e-Books und Seminaren ein Leben lang.</p>
-<p>Informiere dich auf unserer Seite: <a title="Geld verdienen mit lern-impuls" href="https://www.lern-impuls.at/geld-verdienen-mit-lern-impuls/" target="_blank" rel="noreferrer noopener">https://www.lern-impuls.at/geld-verdienen-mit-lern-impuls/</a></p>
-<p> </p>
-<p>Deine </p>
-<p>Karin von lern-impuls</p>
-<p> </p>
+**Vendor's marketplace description:** Videokurs: Sozialversicherung Empfehle unseren Videokurs weiter und erfreue dich an attraktiven Vorteilen: ---> 80 % Provision ---> wachsende Plattform ---> Cross Selling von verwandten Produkten ---> monatlich neue Inhalte verfügbar ---> schnelle Problembearbeitung durch unseren Affiliate-Manager Verdiene jetzt mit unseren Videokursen, e-Books und Seminaren ein Leben lang. Informiere dich auf unserer Seite: https://www.lern-impuls.at/geld-verdienen-mit-lern-impuls/ Deine Karin von lern-impuls
 
 ## 2. Links
 

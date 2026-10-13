@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Lerne mit der Silent Sales Mastery die besten Strategien und Techniken, um im Affiliate-Marketing erfolgreich zu werden. Unsere exklusive Video-Playlist bietet dir informative Erklärungen und Schritt-für-Schritt-Anleitungen, die es auch Anfängern leicht machen, profitabel zu starten.</p>
-<p>Werde Teil unserer einzigartigen Community! Hier steht das Networking im Fokus: Knüpfe wertvolle Connections, tausche dich mit Gleichgesinnten aus und profitiere von gegenseitiger Unterstützung. Für den perfekten Start hast du Zugriff auf 3 spezialisierte Gruppen für 24/7 Support sowie für alle allgemeinen Fragen und Probleme.</p>
+**Vendor's marketplace description:** Lerne mit der Silent Sales Mastery die besten Strategien und Techniken, um im Affiliate-Marketing erfolgreich zu werden. Unsere exklusive Video-Playlist bietet dir informative Erklärungen und Schritt-für-Schritt-Anleitungen, die es auch Anfängern leicht machen, profitabel zu starten. Werde Teil unserer einzigartigen Community! Hier steht das Networking im Fokus: Knüpfe wertvolle Connections, tausche dich mit Gleichgesinnten aus und profitiere von gegenseitiger Unterstützung. Für den perfekten Start hast du Zugriff auf 3 spezialisierte Gruppen für 24/7 Support sowie für alle allgemeinen Fragen und Probleme.
 
 ## 2. Links
 

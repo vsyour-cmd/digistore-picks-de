@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Kalifornien und Südwesten USA Travel Guide (Deutsch) ist ein digitaler Reiseführer mit fertig strukturierten, chronologisch optimierten Tagesrouten, der dabei hilft, eine Reise logisch zu planen und die Zeit vor Ort bestmöglich zu nutzen. Statt lange nach Sehenswürdigkeiten, Routen oder Tagesplanungen zu recherchieren, bietet dieser Guide eine bereits durchdachte Struktur, die Highlights und ausgewählte Hidden Gems sinnvoll miteinander verbindet. Im Gegensatz zu klassischen Reiseführern handelt es sich nicht um eine Sammlung einzelner Tipps oder Orte, sondern um eine logisch aufgebaute Route, die direkt genutzt werden kann. Die Planung ist darauf ausgelegt, unnötige Wege, unlogische Reihenfolgen und spontane Recherche während der Reise zu vermeiden und stattdessen mehr Zeit für das eigentliche Erlebnis der Destination zu schaffen. Wochenlange Recherche wird in einem übersichtlichen Guide gebündelt, der sofort genutzt werden kann.</p>
-<p>• Chronologisch optimierte Tagesrouten</p>
-<p>• Logische Reihenfolge der Sehenswürdigkeiten ohne unnötiges Hin- und Herfahren</p>
-<p>• Direkt klickbare Google Maps Links für einfache Navigation</p>
-<p>• Kombination aus bekannten Highlights und ausgewählten Hidden Gems</p>
-<p>• Realistische Tagesplanung statt überladener Listen</p>
-<p>• Wochenlange Recherche komprimiert in einem sofort nutzbaren Travel Guide</p>
-<p>Produktformat: Digitaler Travel Guide (Download)</p>
+**Vendor's marketplace description:** Der Kalifornien und Südwesten USA Travel Guide (Deutsch) ist ein digitaler Reiseführer mit fertig strukturierten, chronologisch optimierten Tagesrouten, der dabei hilft, eine Reise logisch zu planen und die Zeit vor Ort bestmöglich zu nutzen. Statt lange nach Sehenswürdigkeiten, Routen oder Tagesplanungen zu recherchieren, bietet dieser Guide eine bereits durchdachte Struktur, die Highlights und ausgewählte Hidden Gems sinnvoll miteinander verbindet. Im Gegensatz zu klassischen Reiseführern handelt es sich nicht um eine Sammlung einzelner Tipps oder Orte, sondern um eine logisch aufgebaute Route, die direkt genutzt werden kann. Die Planung ist darauf ausgelegt, unnötige Wege, unlogische Reihenfolgen und spontane Recherche während der Reise zu vermeiden und stattdessen mehr Zeit für das eigentliche Erlebnis der Destination zu schaffen. Wochenlange Recherche wird in einem übersichtlichen Guide gebündelt, der sofort genutzt werden kann. • Chronologisch optimierte Tagesrouten • Logische Reihenfolge der Sehenswürdigkeiten ohne unnötiges Hin- und Herfahren • Direkt klickbare Google Maps Links für einfache Navigation • Kombination aus bekannten Highlights und ausgewählten Hidden Gems • Realistische Tagesplanung statt überladener Listen • Wochenlange Recherche komprimiert in einem sofort nutzbaren Travel Guide Produktformat: Digitaler Travel Guide (Download)
 
 ## 2. Links
 

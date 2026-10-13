@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Warum du dieses Produkt unbedingt bewerben musst:</strong></p>
-<p>Kaffee ist kein Nischenprodukt – Kaffee ist Weltkultur. Fast jeder trinkt ihn, fast jeder liebt ihn. Dieses eBook holt deine Kunden genau dort ab und zeigt ihnen, wie sie mit einem <strong>besonderen Kaffee-Extrakt</strong> sofort ein eigenes Online-Standbein aufbauen.</p>
-<p><strong>Deine Vorteile als Affiliate:</strong></p>
-<ul>
-<li>
-<p> </p>
-</li>
-</ul>
+**Vendor's marketplace description:** Warum du dieses Produkt unbedingt bewerben musst: Kaffee ist kein Nischenprodukt – Kaffee ist Weltkultur. Fast jeder trinkt ihn, fast jeder liebt ihn. Dieses eBook holt deine Kunden genau dort ab und zeigt ihnen, wie sie mit einem besonderen Kaffee-Extrakt sofort ein eigenes Online-Standbein aufbauen. Deine Vorteile als Affiliate:
 
 ## 2. Links
 

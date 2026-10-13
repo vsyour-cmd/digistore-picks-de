@@ -41,53 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Buchführung muss nicht trocken sein – das beweist Tischler Martin</strong></p>
-<p> </p>
-<p>„Buchführung für Kaufleute für Büromanagement gaaanz einfach!“ ist <strong>kein gewöhnlicher Buchführungskurs. </strong>Hier wird nicht mit Paragrafen oder langweiliger Theorie gearbeitet.</p>
-<p>Stattdessen führt <strong>Tischler Martin</strong>, der Held einer <strong>animierten Zeichentrickgeschichte</strong>, durch den Stoff, auf eine Art, die <strong>Spaß macht</strong>, zum Lachen bringt und gleichzeitig <strong>richtig viel Wissen vermittelt</strong>.</p>
-<p><strong>Teilnehmer begleiten Tischler Martin durch seinen Arbeitsalltag. Er lernt Buchführung genau dann, wenn im Betrieb echte Probleme auftreten.</strong></p>
-<p>Ein Kunde schickt Ware zurück – wie wird das gebucht? Es kommt eine neue Rechnung rein – wie muss sie erfasst werden?</p>
-<p><strong>Alles wird in einer fortlaufenden Geschichte erklärt, die man einfach mitverfolgen kann.</strong> Kein Theoriewust, sondern <strong>Buchführung so, wie sie im echten Leben in einem kleinen Betrieb passiert – praxisnah, nachvollziehbar und mit Humor.</strong></p>
-<p>So wird ein gefürchtetes Thema zu einem echten Aha-Erlebnis.</p>
-<p> </p>
-<p><strong>Das steckt im Kurs:</strong></p>
-<ul>
-<li>Animierte Videos mit einer durchgehenden Geschichte</li>
-<li>Digitales Arbeitsheft mit Aufgaben</li>
-<li>Zusätzliches Übungsheft mit praxisnahen Fällen</li>
-<li>Lösungsschemata, Schritt-für-Schritt-Anleitungen und Übersichten</li>
-<li>Kein Vorwissen erforderlich</li>
-<li>Ideal zur Vorbereitung auf IHK-Prüfungen</li>
-</ul>
-<p> </p>
-<p><strong>Für wen ist der Kurs ideal:</strong></p>
-<ul>
-<li>Auszubildende und Umschüler im Beruf Kaufmann/Kauffrau für Büromanagement</li>
-<li>Berufsschulen, Bildungsträger und Prüfungsvorbereitungskurse</li>
-</ul>
-<p> </p>
-<p><strong>Was den Kurs besonders macht:</strong></p>
-<p>Statt starrer Theorie gibt’s eine <strong>unterhaltsame Story mit Humor, Alltagssprache und vielen Aha-Momenten</strong>.</p>
-<p>Die Rückmeldungen sind eindeutig: Teilnehmende fühlen sich endlich sicher im Thema und haben dabei sogar gelacht.</p>
-<p><strong>Lernen, das hängen bleibt und richtig Spaß macht.</strong></p>
-<p> </p>
-<p><strong>Hinweis zur Affiliate-Partnerschaft:</strong></p>
-<p>Die Affiliate-Partnerschaft wird <strong>nicht automatisch freigegeben</strong>. Bitte stelle deine Anfrage über den Button auf dieser Seite.</p>
-<p>Ich melde mich dann <strong>persönlich bei dir</strong>, und wir besprechen gemeinsam, wie du den Kurs am besten bewirbst.</p>
-<p>Ich unterstütze dich aktiv – mit Erfahrung, Material und ehrlichem Interesse an deinem Erfolg.</p>
-<p> </p>
-<p><strong>Warum du diesen Kurs bewerben solltest:</strong></p>
-<ul>
-<li>Große, kaufkräftige Zielgruppe mit echtem Bedarf</li>
-<li>Humorvoller und einzigartiger Ansatz mit Tischler Martin</li>
-<li>50 % Provision pro Verkauf</li>
-<li>Rückgabequote unter 1 %</li>
-<li>Durchschnittlich 4,8 Sterne auf anderen Plattformen</li>
-<li>Persönliche Betreuung statt Massenfreigabe</li>
-</ul>
-<p> </p>
-<p><strong>Ich arbeite lieber mit wenigen, engagierten Partnern – dafür mit echter Unterstützung und einer Win-Win-Zusammenarbeit.</strong></p>
-<p> </p>
+**Vendor's marketplace description:** Buchführung muss nicht trocken sein – das beweist Tischler Martin „Buchführung für Kaufleute für Büromanagement gaaanz einfach!“ ist kein gewöhnlicher Buchführungskurs. Hier wird nicht mit Paragrafen oder langweiliger Theorie gearbeitet. Stattdessen führt Tischler Martin , der Held einer animierten Zeichentrickgeschichte , durch den Stoff, auf eine Art, die Spaß macht , zum Lachen bringt und gleichzeitig richtig viel Wissen vermittelt . Teilnehmer begleiten Tischler Martin durch seinen Arbeitsalltag. Er lernt Buchführung genau dann, wenn im Betrieb echte Probleme auftreten. Ein Kunde schickt Ware zurück – wie wird das gebucht? Es kommt eine neue Rechnung rein – wie muss sie erfasst werden? Alles wird in einer fortlaufenden Geschichte erklärt, die man einfach mitverfolgen kann. Kein Theoriewust, sondern Buchführung so, wie sie im echten Leben in einem kleinen Betrieb passiert – praxisnah, nachvollziehbar und mit Humor. So wird ein gefürchtetes Thema zu einem echten Aha-Erlebnis. Das steckt im Kurs: Animierte Videos mit einer durchgehenden Geschichte Digitales Arbeitsheft mit Aufgaben Zusätzliches Übungsheft mit praxisnahen Fällen Lösungsschemata, Schritt-für-Schritt-Anleitungen und Übersichten Kein Vorwissen erforderlich Ideal zur Vorbereitung auf IHK-Prüfungen Für wen ist der Kurs ideal: Auszubildende und Umschüler im Beruf Kaufmann/Kauffrau für Büromanagement Berufsschulen, Bildungsträger und Prüfungsvorbereitungskurse Was den Kurs besonders macht: Statt starrer Theorie gibt’s eine unterhaltsame Story mit Humor, Alltagssprache und vielen Aha-Momenten . Die Rückmeldungen sind eindeutig: Teilnehmende fühlen sich endlich sicher im Thema und haben dabei sogar gelacht. Lernen, das hängen bleibt und richtig Spaß macht. Hinweis zur Affiliate-Partnerschaft: Die Affiliate-Partnerschaft wird nicht automatisch freigegeben . Bitte stelle deine Anfrage über den Button auf dieser Seite. Ich melde mich dann persönlich bei dir , und wir besprechen gemeinsam, wie du den Kurs am besten bewirbst. Ich unterstütze dich aktiv – mit Erfahrung, Material und ehrlichem Interesse an deinem Erfolg. Warum du diesen Kurs bewerben solltest: Große, kaufkräftige Zielgruppe mit echtem Bedarf Humorvoller und einzigartiger Ansatz mit Tischler Martin 50 % Provision pro Verkauf Rückgabequote unter 1 % Durchschnittlich 4,8 Sterne auf anderen Plattformen Persönliche Betreuung statt Massenfreigabe Ich arbeite lieber mit wenigen, engagierten Partnern – dafür mit echter Unterstützung und einer Win-Win-Zusammenarbeit.
 
 ## 2. Links
 

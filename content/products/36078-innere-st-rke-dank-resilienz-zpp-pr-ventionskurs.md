@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>1. Hohe Kaufbereitschaft durch Krankenkassenzuschuss</h2>
-<p>Gemäß §20 SGB V erstatten alle gesetzlichen Krankenkassen die Kosten (anteilig je nach Krankenkasse) für diesen Präventionskurs zurück.</p>
-<h2>2. Brandaktuelles Thema: Resilienz / Krisenbewältigung</h2>
-<p>In schweren Zeiten  brauchen wir vor allem psychische Widerstandskraft. Dieser Kurs stärkt die Resilienz</p>
-<p>Resilienz hilft sie uns:</p>
-<ul>
-<li>
-<p>mit Veränderungen besser umzugehen, anstatt sie zu verteufeln</p>
-</li>
-<li>
-<p>aktiv zu werden, anstatt uns machtlos zu fühlen</p>
-</li>
-<li>
-<p>zuversichtlich zu bleiben, anstatt frustriert aufzugeben</p>
-</li>
-</ul>
-<h2>3. Hohe Qualität dank ZPP Siegel</h2>
-<p>Kurse mit dem ZPP-Siegel entsprechen inhaltlich einem Qualitätsstandard und bedienen sich ausschließlich anerkannter Methoden zur Gesundheitsprävention. Ausschließlich Kursleiter mit einer ausreichenden fachlichen Eignung dürfen diese ZPP-Kurse anbieten.</p>
-<h2>4. Hohe Provision (40%)</h2>
-<p>40% Provsion pro Verkauf über diese Plattform.</p>
+**Vendor's marketplace description:** 1. Hohe Kaufbereitschaft durch Krankenkassenzuschuss Gemäß §20 SGB V erstatten alle gesetzlichen Krankenkassen die Kosten (anteilig je nach Krankenkasse) für diesen Präventionskurs zurück. 2. Brandaktuelles Thema: Resilienz / Krisenbewältigung In schweren Zeiten brauchen wir vor allem psychische Widerstandskraft. Dieser Kurs stärkt die Resilienz Resilienz hilft sie uns: mit Veränderungen besser umzugehen, anstatt sie zu verteufeln aktiv zu werden, anstatt uns machtlos zu fühlen zuversichtlich zu bleiben, anstatt frustriert aufzugeben 3. Hohe Qualität dank ZPP Siegel Kurse mit dem ZPP-Siegel entsprechen inhaltlich einem Qualitätsstandard und bedienen sich ausschließlich anerkannter Methoden zur Gesundheitsprävention. Ausschließlich Kursleiter mit einer ausreichenden fachlichen Eignung dürfen diese ZPP-Kurse anbieten. 4. Hohe Provision (40%) 40% Provsion pro Verkauf über diese Plattform.
 
 ## 2. Links
 

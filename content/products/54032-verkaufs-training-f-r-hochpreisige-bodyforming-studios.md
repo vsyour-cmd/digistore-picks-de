@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Viele Studios glauben, sie brauchen mehr Leads – in Wahrheit liegt das Problem im Verkaufsgespräch. Unser Kurs liefert <strong>fertige Skripte</strong> plus <strong>Psychologie &amp; Kommunikations-Wirkung</strong>, damit mehr Leads zu zahlenden Kunden werden.</p>
-<p> </p>
-<p><strong>Provisionen:</strong></p>
-<ul>
-<li>
-<p>SOLO: 177,48 €</p>
-</li>
-<li>
-<p>TEAM: 222,78 €</p>
-</li>
-<li>
-<p>TEAM PLUS: 268,08 €</p>
-</li>
-<li>
-<p>Zusatzlizenz: 44,50 €</p>
-</li>
-</ul>
+**Vendor's marketplace description:** Viele Studios glauben, sie brauchen mehr Leads – in Wahrheit liegt das Problem im Verkaufsgespräch. Unser Kurs liefert fertige Skripte plus Psychologie & Kommunikations-Wirkung , damit mehr Leads zu zahlenden Kunden werden. Provisionen: SOLO: 177,48 € TEAM: 222,78 € TEAM PLUS: 268,08 € Zusatzlizenz: 44,50 €
 
 ## 2. Links
 

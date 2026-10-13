@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Dein Online Einstieg </h3>
-<p>Videokurs im Mitgliederbereich</p>
-<div>
-<p>Inhalte:<br /><br /></p>
-<p>- Was bedeutet Online-Marketing?</p>
-<p>- Webseiten, Funnels, Landingpages</p>
-<p>- Digitale Produkte erstellen und verkaufen</p>
-<p>- Marken aufbauen mit Content Marketing</p>
-<p>- E-Mail Marketing nutzen und eine Liste aufbauen</p>
-<p>- Freebie und Webinar</p>
-<p>- Verkaufe Produkte anderer Leute als Affiliate</p>
-<p>- Geld verdienen mit YouTube (oder anderen sozialen Netzwerken)</p>
-<p>- Verdiene Geld als Freelancer</p>
-<p>- Online Coaching Ihrer Fähigkeiten</p>
-<p><br />+ Bonus Lektionen</p>
-<p> </p>
-<p>Normalpreis 97,- €, jetzt nur 7,- €</p>
-</div>
-<p>Du bewirbst ganz einfach das super Sonderangebot und bekommst für dieses unglaubliche Angebot sogar 100 % Provision. Zusätzlich erhältst du für jeden Upsell, den du erfolgreich vermittelst, weitere großzügige 50 % Provision. Dabei kannst du ganz bequem den Affiliate Link von DigiStore24 nutzen und profitierst zudem von den hochwertigen Grafiken und vorgefertigten E-Mailvorlagen, die wir dir zur Verfügung stellen. Den Rest der Arbeit übernehmen wir für dich, sodass du dich voll und ganz auf deine Erfolge konzentrieren kannst.</p>
+**Vendor's marketplace description:** Dein Online Einstieg Videokurs im Mitgliederbereich Inhalte: - Was bedeutet Online-Marketing? - Webseiten, Funnels, Landingpages - Digitale Produkte erstellen und verkaufen - Marken aufbauen mit Content Marketing - E-Mail Marketing nutzen und eine Liste aufbauen - Freebie und Webinar - Verkaufe Produkte anderer Leute als Affiliate - Geld verdienen mit YouTube (oder anderen sozialen Netzwerken) - Verdiene Geld als Freelancer - Online Coaching Ihrer Fähigkeiten + Bonus Lektionen Normalpreis 97,- €, jetzt nur 7,- € Du bewirbst ganz einfach das super Sonderangebot und bekommst für dieses unglaubliche Angebot sogar 100 % Provision. Zusätzlich erhältst du für jeden Upsell, den du erfolgreich vermittelst, weitere großzügige 50 % Provision. Dabei kannst du ganz bequem den Affiliate Link von DigiStore24 nutzen und profitierst zudem von den hochwertigen Grafiken und vorgefertigten E-Mailvorlagen, die wir dir zur Verfügung stellen. Den Rest der Arbeit übernehmen wir für dich, sodass du dich voll und ganz auf deine Erfolge konzentrieren kannst.
 
 ## 2. Links
 

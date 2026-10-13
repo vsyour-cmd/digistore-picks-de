@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Innere Muster erkennen &amp; lebendige Beziehungen frei wählen</h3>
-<p>Dieser Online Selbstlernkurs richtet sich an Menschen aller Altersklassen, die bereit sind, Verantwortung für ihre inneren Prozesse zu übernehmen - und sich für neue, lebendige Beziehungserfahrungen zu öffnen. - Persönlichkeitsentwicklung - </p>
-<p>Eine eigene etablierte Website mit über 15 Jahren Berufserfahrung als Beziehungs-Coach, Heilpraktikerin und Autorin: <a href="http://www.naturheilpraxis-hoeck.de">www.naturheilpraxis-hoeck.de</a></p>
-<p>Gerne gebe ich 30 % Affiliate Provision bei Verkauf</p>
-<p>Cookielaufzeit gemäß Digistore 24 Standard (üblich 180 Tage)</p>
-<p>Zuverlässiges Tracking über Digistore24</p>
-<p>Suche gerne den Kontakt über <a href="mailto:hpheidi.hoeck@gmail.com">hpheidi.hoeck@gmail.com</a> bezüglich weiteres Werbematerial, Texte, Bilder.</p>
-<p> </p>
+**Vendor's marketplace description:** Innere Muster erkennen & lebendige Beziehungen frei wählen Dieser Online Selbstlernkurs richtet sich an Menschen aller Altersklassen, die bereit sind, Verantwortung für ihre inneren Prozesse zu übernehmen - und sich für neue, lebendige Beziehungserfahrungen zu öffnen. - Persönlichkeitsentwicklung - Eine eigene etablierte Website mit über 15 Jahren Berufserfahrung als Beziehungs-Coach, Heilpraktikerin und Autorin: www.naturheilpraxis-hoeck.de Gerne gebe ich 30 % Affiliate Provision bei Verkauf Cookielaufzeit gemäß Digistore 24 Standard (üblich 180 Tage) Zuverlässiges Tracking über Digistore24 Suche gerne den Kontakt über hpheidi.hoeck@gmail.com bezüglich weiteres Werbematerial, Texte, Bilder.
 
 ## 2. Links
 

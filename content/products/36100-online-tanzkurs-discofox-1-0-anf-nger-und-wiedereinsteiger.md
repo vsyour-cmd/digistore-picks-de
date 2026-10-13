@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In diesem Online Kurs führen Andy &amp; Kelly komplette <strong>Anfänger</strong> oder <strong>Wiedereinsteiger</strong> in den Tanz <strong>Discofox</strong> ein.<br />Mit ihrer einzigartigen Unterrichtsmethode schaffen sie es den Paaren <strong>innerhalb kürzester Zeit</strong> <strong>Erfolgserlebnisse</strong> zu ermöglichen, ohne dass der <strong>Spaßfaktor</strong> auf der Strecke bleibt.</p>
-<p><strong>Detaillierte Schritte- und Figurenerklärungen</strong> mit vielen weiteren <strong>wertvollen Expertentipps</strong> von Andy &amp; Kelly.<br />Alles wird auch aus verschiedenen Richtungen mit Musik gezeigt.</p>
-<p>Der Onlinekurs entwickelt sich je nach Kunden Feedback laufend weiter!</p>
-<h2>Andy &amp; Kelly's langjährige Erfahrung in Kombination mit ihrem einzigartigen Unterhaltungsfaktor machen den Unterschied</h2>
-<ul>
-<li>lange erfolgreiche Tanzsportkarriere in den Top 10 der Amateure und Profis</li>
-<li>mehrfache österreichische und britische Meister</li>
-<li>Blackpool Sieger</li>
-<li>ex österreichische Nationaltrainer</li>
-<li>5 Jahre bei ORF Dancingstars (österr. Let’s Dance)</li>
-<li>20 Jahre Erfahrung als Tanzprofis</li>
-<li>digitale Tanzschule seit 2019</li>
-</ul>
-<h2>Vorteile</h2>
-<ol>
-<li>Qualitätsprodukt</li>
-<li>Bekanntheit der Trainer aus dem Fernsehen (ORF/RTL)</li>
-<li>Stornoquote verschwindend gering</li>
-<li>Persönlicher Support</li>
-<li>Promomaterial auf Anfrage</li>
-</ol>
+**Vendor's marketplace description:** In diesem Online Kurs führen Andy & Kelly komplette Anfänger oder Wiedereinsteiger in den Tanz Discofox ein. Mit ihrer einzigartigen Unterrichtsmethode schaffen sie es den Paaren innerhalb kürzester Zeit Erfolgserlebnisse zu ermöglichen, ohne dass der Spaßfaktor auf der Strecke bleibt. Detaillierte Schritte- und Figurenerklärungen mit vielen weiteren wertvollen Expertentipps von Andy & Kelly. Alles wird auch aus verschiedenen Richtungen mit Musik gezeigt. Der Onlinekurs entwickelt sich je nach Kunden Feedback laufend weiter! Andy & Kelly's langjährige Erfahrung in Kombination mit ihrem einzigartigen Unterhaltungsfaktor machen den Unterschied lange erfolgreiche Tanzsportkarriere in den Top 10 der Amateure und Profis mehrfache österreichische und britische Meister Blackpool Sieger ex österreichische Nationaltrainer 5 Jahre bei ORF Dancingstars (österr. Let’s Dance) 20 Jahre Erfahrung als Tanzprofis digitale Tanzschule seit 2019 Vorteile Qualitätsprodukt Bekanntheit der Trainer aus dem Fernsehen (ORF/RTL) Stornoquote verschwindend gering Persönlicher Support Promomaterial auf Anfrage
 
 ## 2. Links
 

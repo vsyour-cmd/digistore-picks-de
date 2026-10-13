@@ -41,38 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehle das einzigartige Produkt &amp; verdiene passives Einkommen durch unser effektives Ayurveda-Ausbildungskonzept!</p>
-<p><strong>Das Wichtigste für Dich als Marketer zuerst:</strong></p>
-<p>Bewerbe die Ayurvedaschule, mit der auch Du Geld verdienen kannst:</p>
-<ul>
-<li>20 % Provisionen auf Deine vermittelten Verkäufe + 20 % Provision auf Upsells und Downsells sowie auf Folgeaufträge (<span style="background-color:#ffff00;"><strong>Lifetime<span style="color:#ff0000;">!!!</span></strong></span>)</li>
-<li>Optimierte Verkaufs-Funnel.</li>
-<li>Große Auswahl optimierter Werbemittel: klickstarke Banner, Vorlagen für E-Mail-Texte für mehr Leads und Verkäufe.</li>
-<li>Schnelle und persönliche Unterstützung auf Deutsch durch unser Team</li>
-<li>Besuche jetzt unser Affiliate Center (= unsere Partnerprogramm-Seite), um noch heute Teil der Ayurveda-Online Familie zu werden!</li>
-</ul>
-<p><strong>Was können die Teilnehmer dieser Ayurveda-Fastenkur – ohne zu hungern Online lernen?</strong></p>
-<p>Wie sie eine Ayurveda-Fastenkur, ohne zu hungern vorbereiten – Anleitung, wie sie sich die Umstellungstage durchführen – die Begleitung während der 5 Fastentage – Anleitung zum Fastenbrechen nach Ayurveda und wie die Auftautage nach Ayurveda gestaltet werden können.</p>
-<p><strong>Beinhaltet ist zusätzlich:</strong></p>
-<ul>
-<li>E-Book zur Vorbereitung auf die Fastenwoche</li>
-<li>E-Book mit Fastensuppen-Rezepte Video: Atemübungen zur Reinigung und Aktivierung</li>
-<li>Video: Selbstmassagen – Garshan und Chi-Selbstmassage</li>
-<li>Video: Körperübungen</li>
-<li>Video: Akupressur wichtiger Marma-Punkte (Energie-Punkte) zur Aktivierung des Stoffwechsels</li>
-<li>MP3: geführte Meditation: Das innere Lächeln zur Aktivierung aller Organe</li>
-<li>MP3: geführte Meditation: Ausdehnen der Herzensenergie – zum Schutz</li>
-<li>Videos: Ayurveda-Gespräche zur Konstitution, Stoffwechsel unseres Organismus, Gewürze, Kräuter, inneres Anti-Aging durch Ernährung, Fastenbrechen  und Ayurveda-Ernährung für den Aufbau nach den Fastentagen.</li>
-</ul>
-<p>Das Wissen ist so aufgearbeitet, dass es auch schnell in der Praxis umgesetzt werden kann.</p>
-<p>Ich habe es mir zum Ziel gemacht Ayurveda-Seminare und Ausbildungen so zu revolutionieren, dass Teilnehmer meiner Angebote alles schnell und effizient Online erlernen und direkt umsetzen können!</p>
-<p>Ohne Reisezeit und ohne Reisekosten.</p>
-<p>Erlernbar sind alle Seminar- und Ausbildungsinhalte bequem von zu Hause aus, das Lernen im eigenen Rhythmus ist so möglich.  </p>
-<p><strong>Smarte und effektive Ayurveda-Seminare aus der Praxis für die Praxis</strong></p>
-<p>Meine 30-jährigen Erfahrungswerte und die Erfahrungswerte der Absolventen meiner Ayurveda-Kurse und Ayurveda-Ausbildungen sind in diesem Kurs mit eingearbeitet.</p>
-<p>Zugang zum Kurs bzw. zur Ausbildung auch nach der Ausbildungszeit, so sind die Ausbildungsinhalte als Wissensdatenbank auch weiterhin abrufbar. Das Wissen wird regelmäßig aktualisiert.</p>
-<p>Alle Updates sind dauerhaft kostenfrei in der Investition für die Seminare / Ausbildungen beinhaltet.  </p>
-<p>Partnerunterstützungsseite: <strong>ayurvedaschule-online.de/partnerprogramm/</strong></p>
+**Vendor's marketplace description:** Empfehle das einzigartige Produkt & verdiene passives Einkommen durch unser effektives Ayurveda-Ausbildungskonzept! Das Wichtigste für Dich als Marketer zuerst: Bewerbe die Ayurvedaschule, mit der auch Du Geld verdienen kannst: 20 % Provisionen auf Deine vermittelten Verkäufe + 20 % Provision auf Upsells und Downsells sowie auf Folgeaufträge ( Lifetime !!! ) Optimierte Verkaufs-Funnel. Große Auswahl optimierter Werbemittel: klickstarke Banner, Vorlagen für E-Mail-Texte für mehr Leads und Verkäufe. Schnelle und persönliche Unterstützung auf Deutsch durch unser Team Besuche jetzt unser Affiliate Center (= unsere Partnerprogramm-Seite), um noch heute Teil der Ayurveda-Online Familie zu werden! Was können die Teilnehmer dieser Ayurveda-Fastenkur – ohne zu hungern Online lernen? Wie sie eine Ayurveda-Fastenkur, ohne zu hungern vorbereiten – Anleitung, wie sie sich die Umstellungstage durchführen – die Begleitung während der 5 Fastentage – Anleitung zum Fastenbrechen nach Ayurveda und wie die Auftautage nach Ayurveda gestaltet werden können. Beinhaltet ist zusätzlich: E-Book zur Vorbereitung auf die Fastenwoche E-Book mit Fastensuppen-Rezepte Video: Atemübungen zur Reinigung und Aktivierung Video: Selbstmassagen – Garshan und Chi-Selbstmassage Video: Körperübungen Video: Akupressur wichtiger Marma-Punkte (Energie-Punkte) zur Aktivierung des Stoffwechsels MP3: geführte Meditation: Das innere Lächeln zur Aktivierung aller Organe MP3: geführte Meditation: Ausdehnen der Herzensenergie – zum Schutz Videos: Ayurveda-Gespräche zur Konstitution, Stoffwechsel unseres Organismus, Gewürze, Kräuter, inneres Anti-Aging durch Ernährung, Fastenbrechen und Ayurveda-Ernährung für den Aufbau nach den Fastentagen. Das Wissen ist so aufgearbeitet, dass es auch schnell in der Praxis umgesetzt werden kann. Ich habe es mir zum Ziel gemacht Ayurveda-Seminare und Ausbildungen so zu revolutionieren, dass Teilnehmer meiner Angebote alles schnell und effizient Online erlernen und direkt umsetzen können! Ohne Reisezeit und ohne Reisekosten. Erlernbar sind alle Seminar- und Ausbildungsinhalte bequem von zu Hause aus, das Lernen im eigenen Rhythmus ist so möglich. Smarte und effektive Ayurveda-Seminare aus der Praxis für die Praxis Meine 30-jährigen Erfahrungswerte und die Erfahrungswerte der Absolventen meiner Ayurveda-Kurse und Ayurveda-Ausbildungen sind in diesem Kurs mit eingearbeitet. Zugang zum Kurs bzw. zur Ausbildung auch nach der Ausbildungszeit, so sind die Ausbildungsinhalte als Wissensdatenbank auch weiterhin abrufbar. Das Wissen wird regelmäßig aktualisiert. Alle Updates sind dauerhaft kostenfrei in der Investition für die Seminare / Ausbildungen beinhaltet. Partnerunterstützungsseite: ayurvedaschule-online.de/partnerprogramm/
 
 ## 2. Links
 

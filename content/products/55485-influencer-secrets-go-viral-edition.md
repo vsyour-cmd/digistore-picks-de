@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><em><strong>Influencer Secrets - Go Viral Edition (German Editionn</strong></em></div>
-<div> </div>
-<div><em><strong>✅ </strong>Deine Community will Viral gehen? Dann braucht Sie die Go Viral Edition der Influencer Secrets </em></div>
-<div> </div>
-<div><em><strong>✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet</strong></em></div>
-<div><br /><em><strong>Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm...</strong></em></div>
-<div> </div>
-<div><span style="background-color:#ffff00;"><em><strong>Du kannst durch Upsells und AddOn bis zu 123 Euro</strong></em></span></div>
+**Vendor's marketplace description:** Influencer Secrets - Go Viral Edition (German Editionn ✅ Deine Community will Viral gehen? Dann braucht Sie die Go Viral Edition der Influencer Secrets ✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm... Du kannst durch Upsells und AddOn bis zu 123 Euro
 
 ## 2. Links
 

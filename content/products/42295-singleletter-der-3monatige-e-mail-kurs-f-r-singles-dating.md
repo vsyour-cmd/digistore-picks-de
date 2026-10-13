@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><strong>Singleletter. Das 3-monatige E-Mail-Coaching für Singles, die es nicht bleiben möchten</strong></h4>
-<p> </p>
-<ul>
-<li>Singleletter: <strong>Dein Weg zum passenden Partner. </strong></li>
-<li>Mit Tiefgang und Leichtigkeit zum Beziehungsglück.</li>
-<li>Dauer:<strong> 3 Monate</strong></li>
-<li><strong>Wöchentliche E-Mails</strong> mit Aufgaben, Übungen, Tipps und Tricks eines Beziehungspsychologen</li>
-<li><strong>Große Zielgruppe</strong>: Für alle Singles, die sich eine glückliche Partnerschaft wünschen</li>
-</ul>
-<p> </p>
-<p> </p>
-<p><strong>Empfehle meinen E-Mail-Kurs für Singles und nutze diese</strong><strong> Vorteile:<br /></strong></p>
-<ul>
-<li><strong>Hohe Provision</strong>: Erhalte 30 % Provision</li>
-<li><strong>Hohe Bekanntheit</strong>: Der E-Mail-Kurs eines bekannten Beziehungspsychologen (ARD, ZDF, Focus, Stern …) </li>
-<li><strong>Laufende Optimierung</strong> der Verkaufs-Funnel + geringe Stornoquote</li>
-</ul>
-<p> </p>
-<p>Melde dich jetzt als Affiliate an. Ich freue mich auf eine gewinnbringende Zusammenarbeit!</p>
-<p> </p>
-<p><a href="https://www.wielandstolzenburg.de/partnerprogramm/" target="_blank" rel="noreferrer noopener"> &gt; ALLE INFOS ZUM PARTNERPROGRAMM </a></p>
-<p> </p>
-<p>Beste Grüße,<br />Wieland Stolzenburg</p>
-<p> </p>
-<p>PS: Brand-Bidding auf "Singleletter", "Wieland Stolzenburg" und Varianten nicht erlaubt!</p>
+**Vendor's marketplace description:** Singleletter. Das 3-monatige E-Mail-Coaching für Singles, die es nicht bleiben möchten Singleletter: Dein Weg zum passenden Partner. Mit Tiefgang und Leichtigkeit zum Beziehungsglück. Dauer: 3 Monate Wöchentliche E-Mails mit Aufgaben, Übungen, Tipps und Tricks eines Beziehungspsychologen Große Zielgruppe : Für alle Singles, die sich eine glückliche Partnerschaft wünschen Empfehle meinen E-Mail-Kurs für Singles und nutze diese Vorteile: Hohe Provision : Erhalte 30 % Provision Hohe Bekanntheit : Der E-Mail-Kurs eines bekannten Beziehungspsychologen (ARD, ZDF, Focus, Stern …) Laufende Optimierung der Verkaufs-Funnel + geringe Stornoquote Melde dich jetzt als Affiliate an. Ich freue mich auf eine gewinnbringende Zusammenarbeit! > ALLE INFOS ZUM PARTNERPROGRAMM Beste Grüße, Wieland Stolzenburg PS: Brand-Bidding auf "Singleletter", "Wieland Stolzenburg" und Varianten nicht erlaubt!
 
 ## 2. Links
 

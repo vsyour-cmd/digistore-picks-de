@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Alle Inhalte zur Vorbereitung auf die Jägerprüfung.</strong></p>
-<p><strong>Zusammengefasst als eBook auf 63 Seiten</strong></p>
-<p><strong>Einfach zu lesen, reichlich bebildert.</strong></p>
-<p><strong>Die ideale Ergänzung zu bestehenden Lernmedien. Zum lernen, nachschlagen, Wissen vertiefen oder auffrischen.</strong></p>
-<p><strong>Versand als PDF.</strong></p>
+**Vendor's marketplace description:** Alle Inhalte zur Vorbereitung auf die Jägerprüfung. Zusammengefasst als eBook auf 63 Seiten Einfach zu lesen, reichlich bebildert. Die ideale Ergänzung zu bestehenden Lernmedien. Zum lernen, nachschlagen, Wissen vertiefen oder auffrischen. Versand als PDF.
 
 ## 2. Links
 

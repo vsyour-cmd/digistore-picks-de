@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Launch ohne eigene Liste“</strong></p>
-<p>Fremde Reichweite clever nutzen – Du brauchst keine große eigene Liste, sondern die richtigen Partner. Mit Joint Ventures und fremder Reichweite starten: Partner verstehen und finden, ein Angebot, das sie mittragen, den Launch planen und Provisionen fair teilen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Ohne eigene Liste über Partner launchen</li>
-<li>Joint Ventures verstehen und Partner finden</li>
-<li>Gemeinsamen Launch planen, Provisionen fair teilen</li>
-<li>Werbekennzeichnung, Verträge und Recht</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Launch ohne eigene Liste“ Fremde Reichweite clever nutzen – Du brauchst keine große eigene Liste, sondern die richtigen Partner. Mit Joint Ventures und fremder Reichweite starten: Partner verstehen und finden, ein Angebot, das sie mittragen, den Launch planen und Provisionen fair teilen. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Ohne eigene Liste über Partner launchen Joint Ventures verstehen und Partner finden Gemeinsamen Launch planen, Provisionen fair teilen Werbekennzeichnung, Verträge und Recht
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Immer mehr Eltern wollen für ihre Kinder finanziell vorsorgen – wissen aber nicht, wo sie anfangen sollen. "Das Kinder-Depot" zeigt Eltern Schritt für Schritt, wie sie ein einfaches, kostengünstiges Anlage-Portfolio für ihr Kind aufbauen – ganz ohne Bankberater, Vorwissen oder täglichen Aufwand. Einmal nach klarer Anleitung einrichten - anschließend langt eine Stunde pro Jahr. Es ist Malen-nach-Zahlen für ein gut strukturiertes Kinder-Depot.</p>
-<p><strong>Zielgruppe:</strong> Eltern mit Kindern zwischen 0 und 16 Jahren, die finanzielle Vorsorge für ihr Kind aufbauen wollen, aber vom klassischen Bankberatungs-Dschungel frustriert sind. <br /><strong>Besondere Komponente:</strong> Die Kinder werden mit eingebunden und lernen altersgerecht mit, so dass sie später selbst ihre Finanzen regeln können.</p>
-<p><strong>Warum sich die Bewerbung lohnt:</strong></p>
-<ul>
-<li>Hochwertiger Kurs mit starker Positionierung (klare Regeln statt Komplexität)</li>
-<li>Vom Vendor selbst als Lehrer, Vater und Privatinvestor entwickelt – authentische, glaubwürdige Story</li>
-<li>Kostenlose 5-Tage-Challenge als Frontend sorgt für warme, vorqualifizierte Leads</li>
-<li>25% Provision – bei jedem Verkauf ca. 75 € pro Empfehlung</li>
-<li>Evergreen-Thema mit stabiler, wachsender Nachfrage (Finanzbildung, Elternschaft)</li>
-</ul>
+**Vendor's marketplace description:** Immer mehr Eltern wollen für ihre Kinder finanziell vorsorgen – wissen aber nicht, wo sie anfangen sollen. "Das Kinder-Depot" zeigt Eltern Schritt für Schritt, wie sie ein einfaches, kostengünstiges Anlage-Portfolio für ihr Kind aufbauen – ganz ohne Bankberater, Vorwissen oder täglichen Aufwand. Einmal nach klarer Anleitung einrichten - anschließend langt eine Stunde pro Jahr. Es ist Malen-nach-Zahlen für ein gut strukturiertes Kinder-Depot. Zielgruppe: Eltern mit Kindern zwischen 0 und 16 Jahren, die finanzielle Vorsorge für ihr Kind aufbauen wollen, aber vom klassischen Bankberatungs-Dschungel frustriert sind. Besondere Komponente: Die Kinder werden mit eingebunden und lernen altersgerecht mit, so dass sie später selbst ihre Finanzen regeln können. Warum sich die Bewerbung lohnt: Hochwertiger Kurs mit starker Positionierung (klare Regeln statt Komplexität) Vom Vendor selbst als Lehrer, Vater und Privatinvestor entwickelt – authentische, glaubwürdige Story Kostenlose 5-Tage-Challenge als Frontend sorgt für warme, vorqualifizierte Leads 25% Provision – bei jedem Verkauf ca. 75 € pro Empfehlung Evergreen-Thema mit stabiler, wachsender Nachfrage (Finanzbildung, Elternschaft)
 
 ## 2. Links
 

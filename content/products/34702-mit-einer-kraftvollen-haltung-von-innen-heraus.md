@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Für Dich und Dein Pferd!</p>
-<p>Eine Methode für Coaches, Lehrer und Trainer.</p>
-<p>Hast du selbst bereits die Erfahrung gemacht, dass es nicht allein die Technik ist, die dich und dein Pferd zusammenschweißt und euch gemeinsam Herausforderungen meistern lässt?</p>
-<p>Es geht vielmehr um die Kombination aus der richtigen Anwendung der Technik, sowie einer positiven inneren Haltung und dem richtigen Mindset.</p>
-<p>Um deine Fähigkeiten zu aktivieren, die du dir wünscht, um mit dem Pferd erfolgreich umzugehen, zeige ich dir in diesem Online Kurs eine Methode. Die sogenannte "Ressourcenaktivierung".</p>
-<p>Diese Methode kannst du in allen Kontexten anwenden. Nicht nur im Umgang mit dem Pferd.</p>
-<p>Du kannst die Methode für dich selbst nutzen oder wenn du andere Menschen dabei unterstützen möchtest, ebenso in einen bewussten und gestärkten Kontakt für das Pferd von innen heraus zu gehen.</p>
-<p>Der Online Kurs beinhaltet ein Videoclip von ca. 15 Min. Länge, sowie ein ausführliches PDF Skript.</p>
-<p>Weitere Informationen erhälst du <a href="https://www.digistore24.com/product/353666" target="_blank" rel="noreferrer noopener">hier. </a></p>
+**Vendor's marketplace description:** Für Dich und Dein Pferd! Eine Methode für Coaches, Lehrer und Trainer. Hast du selbst bereits die Erfahrung gemacht, dass es nicht allein die Technik ist, die dich und dein Pferd zusammenschweißt und euch gemeinsam Herausforderungen meistern lässt? Es geht vielmehr um die Kombination aus der richtigen Anwendung der Technik, sowie einer positiven inneren Haltung und dem richtigen Mindset. Um deine Fähigkeiten zu aktivieren, die du dir wünscht, um mit dem Pferd erfolgreich umzugehen, zeige ich dir in diesem Online Kurs eine Methode. Die sogenannte "Ressourcenaktivierung". Diese Methode kannst du in allen Kontexten anwenden. Nicht nur im Umgang mit dem Pferd. Du kannst die Methode für dich selbst nutzen oder wenn du andere Menschen dabei unterstützen möchtest, ebenso in einen bewussten und gestärkten Kontakt für das Pferd von innen heraus zu gehen. Der Online Kurs beinhaltet ein Videoclip von ca. 15 Min. Länge, sowie ein ausführliches PDF Skript. Weitere Informationen erhälst du hier.
 
 ## 2. Links
 

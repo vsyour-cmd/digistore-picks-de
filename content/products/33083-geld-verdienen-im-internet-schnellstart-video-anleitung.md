@@ -41,39 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <center><span style="font-size:large;"><strong>Online Geld verdienen mit Affiliate &amp; E-Mail Marketing – Der Videokurs</strong></span></center>
-<p><br /><br /></p>
-<table border="0" width="100%" cellspacing="0" cellpadding="14" bgcolor="#f2f2f2">
-<tbody>
-<tr>
-<td><span style="color:#555555;font-size:large;"><strong>Über das Produkt</strong></span><br /><span style="color:#333333;">Ein sechsteiliger Videokurs, der Schritt für Schritt zeigt, wie man einfach, automatisiert und passiv über die Plattformen Digistore24 und MailerLite eigene oder fremde Produkte vertreibt und Provisionen verdient – ganz ohne Risiko und Investition. Zu jeder Lektion gibt es zusätzlich PDF-Anleitungen zum Download.</span></td>
-</tr>
-</tbody>
-</table>
-<p> </p>
-<table border="0" width="100%" cellspacing="0" cellpadding="14" bgcolor="#eafbe7">
-<tbody>
-<tr>
-<td><span style="color:#1a6b34;font-size:large;"><strong>Warum sich die Bewerbung für dich lohnt</strong></span><br /><span style="color:#1a6b34;">Von der ersten Provision bis zu <strong>60.000 € Umsatz</strong> – dieser Track Record macht das Versprechen greifbar und glaubwürdig für deine Zielgruppe. Affiliate- und E-Mail-Marketing sind Dauerbrenner-Themen mit großer, aktiv suchender Interessentenschaft, was dir das Bewerben erheblich erleichtert.</span></td>
-</tr>
-</tbody>
-</table>
-<p> </p>
-<table border="0" width="100%" cellspacing="0" cellpadding="14" bgcolor="#eaf2fb">
-<tbody>
-<tr>
-<td><span style="color:#1c5a8a;font-size:large;"><strong>Werbemittel bereits fertig für dich vorbereitet</strong></span><br /><span style="color:#1c5a8a;">Auf meiner Affiliate-Support-Seite findest du alles startklar zum Copy-Paste – Bilder, Texte und weitere Werbemittel zum direkten Download. So kannst du ohne eigenen Aufwand starten und die Materialien direkt für deine Kanäle nutzen.</span></td>
-</tr>
-</tbody>
-</table>
-<p> </p>
-<table border="0" width="100%" cellspacing="0" cellpadding="14" bgcolor="#fdf6e3">
-<tbody>
-<tr>
-<td><span style="color:#8a6d1a;font-size:large;"><strong>Zusätzliches Umsatzpotenzial durch Upsells</strong></span><br /><span style="color:#8a6d1a;">Du hast zusätzliche Verdienstmöglichkeiten durch Upsells!</span></td>
-</tr>
-</tbody>
-</table>
+**Vendor's marketplace description:** Online Geld verdienen mit Affiliate & E-Mail Marketing – Der Videokurs Über das Produkt Ein sechsteiliger Videokurs, der Schritt für Schritt zeigt, wie man einfach, automatisiert und passiv über die Plattformen Digistore24 und MailerLite eigene oder fremde Produkte vertreibt und Provisionen verdient – ganz ohne Risiko und Investition. Zu jeder Lektion gibt es zusätzlich PDF-Anleitungen zum Download. Warum sich die Bewerbung für dich lohnt Von der ersten Provision bis zu 60.000 € Umsatz – dieser Track Record macht das Versprechen greifbar und glaubwürdig für deine Zielgruppe. Affiliate- und E-Mail-Marketing sind Dauerbrenner-Themen mit großer, aktiv suchender Interessentenschaft, was dir das Bewerben erheblich erleichtert. Werbemittel bereits fertig für dich vorbereitet Auf meiner Affiliate-Support-Seite findest du alles startklar zum Copy-Paste – Bilder, Texte und weitere Werbemittel zum direkten Download. So kannst du ohne eigenen Aufwand starten und die Materialien direkt für deine Kanäle nutzen. Zusätzliches Umsatzpotenzial durch Upsells Du hast zusätzliche Verdienstmöglichkeiten durch Upsells!
 
 ## 2. Links
 

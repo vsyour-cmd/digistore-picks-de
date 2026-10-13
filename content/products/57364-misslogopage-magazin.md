@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Informationen rund um den rhythmischen Spracherwerb. Alles, was eine Mama darüber wissen sollte.</p>
+**Vendor's marketplace description:** Informationen rund um den rhythmischen Spracherwerb. Alles, was eine Mama darüber wissen sollte.
 
 ## 2. Links
 

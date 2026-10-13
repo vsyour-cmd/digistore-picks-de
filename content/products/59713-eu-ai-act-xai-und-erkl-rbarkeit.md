@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>EU KI-Modell-Ausgabe-Erklärbarkeit – XAI Compliance Pack 2026/2027</strong></p>
-<p>Dieses digitale Produkt ist ein <strong>praktisches PDF-Arbeitsheft</strong> für Unternehmen, die KI-Ausgaben nachvollziehbar dokumentieren, prüfen und intern erklären möchten.</p>
-<p>Das Arbeitsheft unterstützt bei typischen Aufgaben rund um <strong>EU AI Act, Explainable AI (XAI), Plausibilitätsprüfung, Output-Dokumentation und Audit-Prozesse</strong>.</p>
-<p><strong>Geeignet für:</strong></p>
-<ul>
-<li>Selbstständige und KMU</li>
-<li>Unternehmen mit KI-gestützten Entscheidungen</li>
-<li>IT- und Produktteams</li>
-<li>Compliance- und KI-Verantwortliche</li>
-<li>Agenturen und Beratungen</li>
-<li>Unternehmen mit dokumentationspflichtigen KI-Prozessen</li>
-</ul>
-<p><strong>Enthalten sind unter anderem:</strong></p>
-<ul>
-<li>XAI-Ausgabedokument</li>
-<li>Feature-Influence-Übersicht</li>
-<li>Output-Risikoanalyse</li>
-<li>Modellverhalten-Dokumentation</li>
-<li>Versionsverlauf</li>
-<li>Fehlinterpretations-Log</li>
-<li>Plausibilitäts-Check</li>
-<li>Verständlichkeitsprüfung</li>
-<li>Bias-Auswirkungsreport</li>
-<li>XAI-Audit-Protokoll</li>
-<li>interner Erklärprozess</li>
-<li>Abschluss-Checkliste</li>
-</ul>
-<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales Arbeitsheft im PDF-Format</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
-<p>Das Arbeitsheft dient als praktische Arbeits-, Prüf- und Dokumentationshilfe für nachvollziehbare KI-Ausgaben und ersetzt keine individuelle Rechtsberatung.</p>
-<p><strong>Verkaufspreis: 29,00 €</strong> – digitaler Sofortdownload nach dem Kauf.</p>
+**Vendor's marketplace description:** EU KI-Modell-Ausgabe-Erklärbarkeit – XAI Compliance Pack 2026/2027 Dieses digitale Produkt ist ein praktisches PDF-Arbeitsheft für Unternehmen, die KI-Ausgaben nachvollziehbar dokumentieren, prüfen und intern erklären möchten. Das Arbeitsheft unterstützt bei typischen Aufgaben rund um EU AI Act, Explainable AI (XAI), Plausibilitätsprüfung, Output-Dokumentation und Audit-Prozesse . Geeignet für: Selbstständige und KMU Unternehmen mit KI-gestützten Entscheidungen IT- und Produktteams Compliance- und KI-Verantwortliche Agenturen und Beratungen Unternehmen mit dokumentationspflichtigen KI-Prozessen Enthalten sind unter anderem: XAI-Ausgabedokument Feature-Influence-Übersicht Output-Risikoanalyse Modellverhalten-Dokumentation Versionsverlauf Fehlinterpretations-Log Plausibilitäts-Check Verständlichkeitsprüfung Bias-Auswirkungsreport XAI-Audit-Protokoll interner Erklärprozess Abschluss-Checkliste Wichtig: Es handelt sich ausdrücklich um ein digitales Arbeitsheft im PDF-Format und nicht um Software, einen Videokurs oder einen Mitgliederbereich. Das Arbeitsheft dient als praktische Arbeits-, Prüf- und Dokumentationshilfe für nachvollziehbare KI-Ausgaben und ersetzt keine individuelle Rechtsberatung. Verkaufspreis: 29,00 € – digitaler Sofortdownload nach dem Kauf.
 
 ## 2. Links
 

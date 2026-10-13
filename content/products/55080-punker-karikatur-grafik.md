@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:left;">Ca. Din A4 groß , hochkant,  Jpg Datei,  300 dpi Auflösung,  Nutzungsrechte für alle Medien.</p>
+**Vendor's marketplace description:** Ca. Din A4 groß , hochkant, Jpg Datei, 300 dpi Auflösung, Nutzungsrechte für alle Medien.
 
 ## 2. Links
 

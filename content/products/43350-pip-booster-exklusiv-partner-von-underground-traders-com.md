@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Du willst endlich ein stabiles Einkommen als Affiliate ?</strong> <br />Das Problem bei den meisten Affiliate-Programmen ist, dass diese Partnerprogramme mittlerweile total überlaufen sind und sich die Affiliates um die Provisionen ringen.<br /><br />Im Partnerprogramm von <span style="color:#000080;">underground-traders.com</span> erlauben wir nur ausgewählten Partnern das Bewerben unserer Produkte. Dadurch steht ganz klar Qualität vor Quantität!<br /><br /><strong>Du möchtest exklusiver Partner werden ?</strong> <br />Dann besuche unsere Partner-Webseite und bewirb dich mit deinem individuellen Konzept:<br /><span style="color:#0000ff;"><a style="color:#0000ff;" href="https://underground-traders.com/partner" target="_blank" rel="noreferrer noopener">https://underground-traders.com/partner</a></span></p>
-<p><br /><strong>Sende uns deine Partner-Anfrage an diese Adresse:</strong> <span style="color:#0000ff;"><a style="color:#0000ff;" href="mailto:partner@underground-traders.com">partner@underground-traders.com</a><br /></span></p>
-<p> </p>
-<hr />
-<p> </p>
-<ul>
-<li>Für unsere Affiliate-Partner stellen wir hochwertiges Werbematerial (wie z.B. Werbebanner, hochwertige Werbevideos, Bilder etc.) kostenlos zur Verfügung</li>
-<li>Je nach Größe deiner Reichweite oder der Anzahl deiner Sales, passen wir deine Provision gerne nach oben an</li>
-</ul>
-<ul>
-<li>Als unser Partner arbeitest in einem Markt mit nur wenig Affiliate-Konkurrenz!!</li>
-</ul>
-<ul>
-<li>Durch unsere tägliche Bezahlwerbung genießt du als Partner einen hohen Wiedererkennungswert</li>
-</ul>
-<ul>
-<li>Bitte beachte die <strong>Kriterien für eine genehmigte Partnerschaft auf dieser Webseite:</strong> <br /><a href="https://underground-traders.com/partner" target="_blank" rel="noreferrer noopener"><span style="color:#0000ff;">https://underground-traders.com/partner</span></a></li>
-</ul>
-<p> </p>
-<hr />
-<p><br />Gerne unterstützen wir dich mit all unserer Erfahrung auf deinem Weg zum unabhängigen Partner.<br />Lass uns gemeinsam, Hand in Hand durchstarten und genieße die Vorteile einer Exklusiv-Partnschaft mit<br /><span style="color:#000080;"><strong>UNDERGROUND-TRADERS.COM</strong></span></p>
+**Vendor's marketplace description:** Du willst endlich ein stabiles Einkommen als Affiliate ? Das Problem bei den meisten Affiliate-Programmen ist, dass diese Partnerprogramme mittlerweile total überlaufen sind und sich die Affiliates um die Provisionen ringen. Im Partnerprogramm von underground-traders.com erlauben wir nur ausgewählten Partnern das Bewerben unserer Produkte. Dadurch steht ganz klar Qualität vor Quantität! Du möchtest exklusiver Partner werden ? Dann besuche unsere Partner-Webseite und bewirb dich mit deinem individuellen Konzept: https://underground-traders.com/partner Sende uns deine Partner-Anfrage an diese Adresse: partner@underground-traders.com Für unsere Affiliate-Partner stellen wir hochwertiges Werbematerial (wie z.B. Werbebanner, hochwertige Werbevideos, Bilder etc.) kostenlos zur Verfügung Je nach Größe deiner Reichweite oder der Anzahl deiner Sales, passen wir deine Provision gerne nach oben an Als unser Partner arbeitest in einem Markt mit nur wenig Affiliate-Konkurrenz!! Durch unsere tägliche Bezahlwerbung genießt du als Partner einen hohen Wiedererkennungswert Bitte beachte die Kriterien für eine genehmigte Partnerschaft auf dieser Webseite: https://underground-traders.com/partner Gerne unterstützen wir dich mit all unserer Erfahrung auf deinem Weg zum unabhängigen Partner. Lass uns gemeinsam, Hand in Hand durchstarten und genieße die Vorteile einer Exklusiv-Partnschaft mit UNDERGROUND-TRADERS.COM
 
 ## 2. Links
 

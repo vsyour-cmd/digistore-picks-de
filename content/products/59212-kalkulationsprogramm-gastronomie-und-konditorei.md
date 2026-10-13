@@ -41,40 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Rezeptrechner ist eine webbasierte Kalkulationssoftware für Restaurants, Cafés, Bistros, Foodtrucks, Bäckereien, Konditoreien und Catering-Betriebe.</p>
-<p>Paket M ist das Gastronomie-Paket: bis zu 250 Rezepte und 250 Rohstoffe, mit Preiskalkulation, Allergen-Übersicht und Datenblättern.</p>
-<p>Was der Betrieb damit macht:</p>
-<ul>
-<li>Wareneinsatz pro Portion, pro 100 g und pro Rezept berechnen</li>
-<li>Rohstoffpreise zentral hinterlegen und per Excel-Import aktualisieren, wenn der Lieferant die Preise anhebt</li>
-<li>Personal-, Verpackungs- und Fixkosten einrechnen, als Pauschale pro Portion oder als prozentualen Aufschlag</li>
-<li>Verkaufspreis inklusive Marge und Mehrwertsteuer ableiten und den Deckungsbeitrag pro Gericht sehen</li>
-<li>Erkennen, welche Gerichte auf der Karte tatsächlich Geld bringen und welche mitlaufen</li>
-<li>Allergene und Zusatzstoffe je Gericht als Übersicht für Speisekarte und Aushang</li>
-<li>Rezeptblätter als PDF für die Küche, Produktdatenblätter für das B2B-Geschäft</li>
-</ul>
-<p>Für wen sich die Empfehlung lohnt:</p>
-<ul>
-<li>Gastronomie- und Unternehmensberater, Gründungsberater, Küchen-Coaches</li>
-<li>Steuerberater mit Gastro-Mandanten, die bei der Preisgestaltung Fragen stellen</li>
-<li>Küchenplaner, Großhändler und Lieferanten mit Gastro-Kundschaft</li>
-<li>Gastro-Fachmedien und Blogs, Berufsschulen, IHK- und Kursanbieter</li>
-</ul>
-<p>Warum es konvertiert:</p>
-<ul>
-<li>Steigende Einkaufspreise sind ein Dauerthema – Betriebe müssen ihre Karte regelmäßig nachkalkulieren</li>
-<li>Die meisten kalkulieren bisher in Excel oder aus dem Bauch heraus; der Leidensdruck ist konkret und der Nutzen sofort sichtbar</li>
-<li>Online buchbar, ohne Setup und ohne Vertriebsprozess dazwischen</li>
-<li>Kostenlose Registrierung als Einstieg, über 1.000 Betriebe im Einsatz, ausgezeichnet mit dem KÜCHE Best Product Award 2026</li>
-</ul>
-<p>Provision:</p>
-<ul>
-<li>45 € pro vermittelter Lizenz Paket M (290 € netto pro Jahr)</li>
-<li>Auch bei jeder Verlängerung, solange der Betrieb die Lizenz weiterführt</li>
-<li>75 € pro vermittelter Lizenz Paket L </li>
-</ul>
-<p> </p>
-<p>Werbemittel: Partnerlink für Paket M, dazu Branchenseiten für Gastronomie, Konditorei und Catering, Funktionsvideos zur Preiskalkulation und Wissensartikel zum Verlinken. Logo, Screenshots und Textbausteine schicken wir dir auf Anfrage.</p>
+**Vendor's marketplace description:** Der Rezeptrechner ist eine webbasierte Kalkulationssoftware für Restaurants, Cafés, Bistros, Foodtrucks, Bäckereien, Konditoreien und Catering-Betriebe. Paket M ist das Gastronomie-Paket: bis zu 250 Rezepte und 250 Rohstoffe, mit Preiskalkulation, Allergen-Übersicht und Datenblättern. Was der Betrieb damit macht: Wareneinsatz pro Portion, pro 100 g und pro Rezept berechnen Rohstoffpreise zentral hinterlegen und per Excel-Import aktualisieren, wenn der Lieferant die Preise anhebt Personal-, Verpackungs- und Fixkosten einrechnen, als Pauschale pro Portion oder als prozentualen Aufschlag Verkaufspreis inklusive Marge und Mehrwertsteuer ableiten und den Deckungsbeitrag pro Gericht sehen Erkennen, welche Gerichte auf der Karte tatsächlich Geld bringen und welche mitlaufen Allergene und Zusatzstoffe je Gericht als Übersicht für Speisekarte und Aushang Rezeptblätter als PDF für die Küche, Produktdatenblätter für das B2B-Geschäft Für wen sich die Empfehlung lohnt: Gastronomie- und Unternehmensberater, Gründungsberater, Küchen-Coaches Steuerberater mit Gastro-Mandanten, die bei der Preisgestaltung Fragen stellen Küchenplaner, Großhändler und Lieferanten mit Gastro-Kundschaft Gastro-Fachmedien und Blogs, Berufsschulen, IHK- und Kursanbieter Warum es konvertiert: Steigende Einkaufspreise sind ein Dauerthema – Betriebe müssen ihre Karte regelmäßig nachkalkulieren Die meisten kalkulieren bisher in Excel oder aus dem Bauch heraus; der Leidensdruck ist konkret und der Nutzen sofort sichtbar Online buchbar, ohne Setup und ohne Vertriebsprozess dazwischen Kostenlose Registrierung als Einstieg, über 1.000 Betriebe im Einsatz, ausgezeichnet mit dem KÜCHE Best Product Award 2026 Provision: 45 € pro vermittelter Lizenz Paket M (290 € netto pro Jahr) Auch bei jeder Verlängerung, solange der Betrieb die Lizenz weiterführt 75 € pro vermittelter Lizenz Paket L Werbemittel: Partnerlink für Paket M, dazu Branchenseiten für Gastronomie, Konditorei und Catering, Funktionsvideos zur Preiskalkulation und Wissensartikel zum Verlinken. Logo, Screenshots und Textbausteine schicken wir dir auf Anfrage.
 
 ## 2. Links
 

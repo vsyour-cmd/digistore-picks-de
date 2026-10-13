@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>Tattoo-Gutscheine sind das<strong> perfekte Geschenk</strong> für anstehende Tattoo Projekte.</div>
-<div> </div>
-<div>Jetzt die Gutscheine weiterempfehlen und weitere Kunstwerke schaffen.  </div>
-<div> </div>
-<div> </div>
-<div><a href="http://www.taurus-tattoo.de">www.taurus-tattoo.de </a></div>
-<div> </div>
+**Vendor's marketplace description:** Tattoo-Gutscheine sind das perfekte Geschenk für anstehende Tattoo Projekte. Jetzt die Gutscheine weiterempfehlen und weitere Kunstwerke schaffen. www.taurus-tattoo.de
 
 ## 2. Links
 

@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="text-decoration:underline;"><strong>Was ist das Besondere an den Tools von ClearPMO?</strong></span></p>
-<p>Die Tools von ClearPMO liefern ein digitales Program Management Office (PMO) - für alle Projektphasen und alle typischen Prozesse, einschließlich Ressourcenplanung, Projektzeitenerfassung bis zur Rechnungserstellung.<br /><br />ClearPMO unterstützt den agilen Gedanken und unterstützt <em><span style="font-style:normal;">Agiles Management.<br /><br />Die Preise der Tools beginnen bei ca. 100,00 € bis zu  mehreren Hundert Euro - entsprechend entwickelt <br />sich der Verdienst - grundsätzlich beträgt die Provision <strong>30%</strong>.<br /><br /><span style="color:#0000ff;"><span style="color:#000000;"><strong>Hier der Link zu unseren</strong></span> <em><strong><a style="color:#0000ff;" href="https://www.clearpmo.de/tools/online-kaufen/" target="_blank" rel="noreferrer noopener">Produktvarianten</a></strong></em></span>.<br /></span></em></p>
-<p><span style="text-decoration:underline;"><strong>Wer ist die Zielgruppe?</strong></span></p>
-<p>Zielgruppe sind Projektleitungen und Projektprogramm-Verantwortliche und Berater. Auch Teams, die den jeweiligen Projektfortschritt und Status zentral erfassen und für Berichte aufbereiten wollen.</p>
-<p><span style="text-decoration:underline;"><strong>Faire Preise</strong></span></p>
-<p>Professionelle Lösungen zu fairen Preisen: ideal für kleine Unternehmen und für Startups.</p>
-<p><span style="text-decoration:underline;"><strong>Warum bei uns Affiliate werden?</strong></span></p>
-<p>Wir bieten hochwertige Produkte und Seminare an.</p>
-<p>Und wir arbeiten seit vielen Jahren mit anerkannten und professionellen Partnern zusammen, darunter in den Bereichen IT-Technik, Service und Trainings.</p>
-<p>Bisher können wir ausschließlich zufriedene Kunden verbuchen.</p>
-<p>Wir sind für unsere Affiliates jederzeit auch direkt erreichbar, in allen geschäftlichen Fragen und gerne auch für Verbesserungsvorschläge.</p>
-<p><span style="color:#000000;"><strong>Für jede Anforderung das passende Produkt - unsere</strong></span> <span style="color:#0000ff;"><em><strong><a style="color:#0000ff;" href="https://www.clearpmo.de/tools/online-kaufen/" target="_blank" rel="noreferrer noopener">Produktvarianten</a></strong></em></span>.</p>
-<p>Für uns steht eine gute Zusammenarbeit und unser gemeinsamer Erfolg im Vordergrund.</p>
-<p>Ihr Team von <strong>clearpmo.de</strong></p>
-<p><strong> </strong></p>
+**Vendor's marketplace description:** Was ist das Besondere an den Tools von ClearPMO? Die Tools von ClearPMO liefern ein digitales Program Management Office (PMO) - für alle Projektphasen und alle typischen Prozesse, einschließlich Ressourcenplanung, Projektzeitenerfassung bis zur Rechnungserstellung. ClearPMO unterstützt den agilen Gedanken und unterstützt Agiles Management. Die Preise der Tools beginnen bei ca. 100,00 € bis zu mehreren Hundert Euro - entsprechend entwickelt sich der Verdienst - grundsätzlich beträgt die Provision 30% . Hier der Link zu unseren Produktvarianten . Wer ist die Zielgruppe? Zielgruppe sind Projektleitungen und Projektprogramm-Verantwortliche und Berater. Auch Teams, die den jeweiligen Projektfortschritt und Status zentral erfassen und für Berichte aufbereiten wollen. Faire Preise Professionelle Lösungen zu fairen Preisen: ideal für kleine Unternehmen und für Startups. Warum bei uns Affiliate werden? Wir bieten hochwertige Produkte und Seminare an. Und wir arbeiten seit vielen Jahren mit anerkannten und professionellen Partnern zusammen, darunter in den Bereichen IT-Technik, Service und Trainings. Bisher können wir ausschließlich zufriedene Kunden verbuchen. Wir sind für unsere Affiliates jederzeit auch direkt erreichbar, in allen geschäftlichen Fragen und gerne auch für Verbesserungsvorschläge. Für jede Anforderung das passende Produkt - unsere Produktvarianten . Für uns steht eine gute Zusammenarbeit und unser gemeinsamer Erfolg im Vordergrund. Ihr Team von clearpmo.de
 
 ## 2. Links
 

@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Für wen:</strong> Eltern, die ihrem Kind Wichtelpost schenken wollen, die sich wirklich nach ihrem Kind anfühlt – mit seinem Namen und seinem Lieblingsthema, statt Einheitsbrief von der Stange.</p>
-<p><strong>Was drin ist:</strong> 15 personalisierbare Wichtelbrief-Sets, ein Thema pro Set – von Pferden über Fußball, Experimente bis Gaming. Namen eintragen, zu Hause ausdrucken, fertig. Dazu Bastelvorlagen und Kärtchen zum Ausschneiden. Digital, sofort nach dem Kauf verfügbar und jedes Jahr wieder verwendbar.</p>
-<p><strong>Preis:</strong> 14,95 €  |  <strong>Provision:</strong> 40 %</p>
-<p><strong>Warum es sich verkauft:</strong> Personalisierung ist bei Wichtelpost das entscheidende Argument – ein Brief mit dem eigenen Namen und dem eigenen Lieblingsthema trifft Kinder anders als ein allgemeiner Text. Niedriger Preis, sofortige Auslieferung, kein Bastelaufwand.</p>
-<p><strong>Saison:</strong> Die Suche startet Anfang Oktober und gipfelt Anfang bis Mitte November. Bewerbung ab Oktober einplanen.</p>
-<p><strong>Passende Kanäle:</strong> Eltern- und Familienblogs, Accounts rund um Wichteltür, Advent, Weihnachten mit Kindern, Pinterest. Lässt sich gut gemeinsam mit dem 24-Tage-Wichtelplan derselben Anbieterin bewerben.</p>
+**Vendor's marketplace description:** Für wen: Eltern, die ihrem Kind Wichtelpost schenken wollen, die sich wirklich nach ihrem Kind anfühlt – mit seinem Namen und seinem Lieblingsthema, statt Einheitsbrief von der Stange. Was drin ist: 15 personalisierbare Wichtelbrief-Sets, ein Thema pro Set – von Pferden über Fußball, Experimente bis Gaming. Namen eintragen, zu Hause ausdrucken, fertig. Dazu Bastelvorlagen und Kärtchen zum Ausschneiden. Digital, sofort nach dem Kauf verfügbar und jedes Jahr wieder verwendbar. Preis: 14,95 € | Provision: 40 % Warum es sich verkauft: Personalisierung ist bei Wichtelpost das entscheidende Argument – ein Brief mit dem eigenen Namen und dem eigenen Lieblingsthema trifft Kinder anders als ein allgemeiner Text. Niedriger Preis, sofortige Auslieferung, kein Bastelaufwand. Saison: Die Suche startet Anfang Oktober und gipfelt Anfang bis Mitte November. Bewerbung ab Oktober einplanen. Passende Kanäle: Eltern- und Familienblogs, Accounts rund um Wichteltür, Advent, Weihnachten mit Kindern, Pinterest. Lässt sich gut gemeinsam mit dem 24-Tage-Wichtelplan derselben Anbieterin bewerben.
 
 ## 2. Links
 

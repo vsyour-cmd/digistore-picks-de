@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>Fragetechnik im Verkauf - Kurs 1</div>
-<div>
-<p><strong>Intelligente Fragetechnik</strong></p>
-<p>- Kurs mit hohem Praxisbezug und praxiserprobt, damit Sie sofort diese Informationen zu Ihrem Erfolg umsetzen können.</p>
-<p>Wer fragt, der führt – wer argumentiert, verliert!</p>
-<p>Fragen sind der Schlüssel zum Erfolg Wie bereits die Ausführungen bei der Bedarfsanalyse zeigen, gehört die Frage-technik zu den wichtigsten Schlüsselqualifikationen in der Verkaufskommunikation.</p>
-<p>Versuchen Sie deshalb immer die Gesprächsführung durch den gezielten Einsatz von geeigneten Fragen zu übernehmen und zu behalten. Eine Frage...</p>
-<p> schafft Vertrauen bei Ihrem Kunden</p>
-<p> gibt ihm das Gefühl, dass er verstanden und ihm zugehört wird</p>
-<p> ermöglicht Ihnen, Interesse zu wecken</p>
-<p> hilft Ihnen, auf den Gesprächspartner einzugehen</p>
-<p> erleichtert es Ihnen, das Gespräch in eine gewünschte Richtung zu lenken</p>
-<p> ermöglicht Ihnen eine Veränderung des Gesprächverlaufs</p>
-<p> versetzt Sie in die Lage, Einwände schneller zu erkennen</p>
-<p> vermindert evtl. bestehende Vorbehalte</p>
-<p> macht es Ihnen leichter, Angriffe abzuwehren</p>
-<p> schafft zeitlichen Spielraum für neue Argumentationen.</p>
-<p> bringt neue Erkenntnisse und Zusatzinformationen</p>
-<p> sorgt für einen Verständigungsabgleich</p>
-<p>Fragen als Informationsquellen „Nur wer intelligente Fragen stellt, erhält auch intelligente, weiterfüh-rende Antworten!“</p>
-</div>
+**Vendor's marketplace description:** Fragetechnik im Verkauf - Kurs 1 Intelligente Fragetechnik - Kurs mit hohem Praxisbezug und praxiserprobt, damit Sie sofort diese Informationen zu Ihrem Erfolg umsetzen können. Wer fragt, der führt – wer argumentiert, verliert! Fragen sind der Schlüssel zum Erfolg Wie bereits die Ausführungen bei der Bedarfsanalyse zeigen, gehört die Frage-technik zu den wichtigsten Schlüsselqualifikationen in der Verkaufskommunikation. Versuchen Sie deshalb immer die Gesprächsführung durch den gezielten Einsatz von geeigneten Fragen zu übernehmen und zu behalten. Eine Frage...  schafft Vertrauen bei Ihrem Kunden  gibt ihm das Gefühl, dass er verstanden und ihm zugehört wird  ermöglicht Ihnen, Interesse zu wecken  hilft Ihnen, auf den Gesprächspartner einzugehen  erleichtert es Ihnen, das Gespräch in eine gewünschte Richtung zu lenken  ermöglicht Ihnen eine Veränderung des Gesprächverlaufs  versetzt Sie in die Lage, Einwände schneller zu erkennen  vermindert evtl. bestehende Vorbehalte  macht es Ihnen leichter, Angriffe abzuwehren  schafft zeitlichen Spielraum für neue Argumentationen.  bringt neue Erkenntnisse und Zusatzinformationen  sorgt für einen Verständigungsabgleich Fragen als Informationsquellen „Nur wer intelligente Fragen stellt, erhält auch intelligente, weiterfüh-rende Antworten!“
 
 ## 2. Links
 

@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><strong>ISCHIASBESCHWERDEN UND DAS PIRIFORMIS-SYNDROM</strong></h1>
-<p>Einfache und effektive Techniken gegen Gesäß-, Bein- und Rückenschmerzen</p>
-<h2>Nach dem Amazon-Buchbestseller folgt jetzt das erste deutschsprachige Online-Programm!</h2>
-<p><a href="https://ischias-schmerzen.de/" target="_blank" rel="noreferrer noopener">https://ischias-schmerzen.de/</a></p>
-<p>Immer mehr Menschen leiden unter Rückenschmerzen, die bis hinunter in die Beine ausstrahlen? Und sie sind nicht allein: Fast jeder Dritte in Deutschland ist davon betroffen.<br />Klassischerweise gehen Ärzte automatisch von einem Bandscheibenvorfall aus. Aber nicht immer sind die Bandscheiben der Auslöser. In vielen Fällen handelt es sich um eine Entzündung des Piriformis-Muskels, der auf den Ischiasnerv drückt und dadurch die Beschwerden auslöst.</p>
-<p>Der Vorteil: Wenn das Piriformis-Syndrom erkannt wurde, lässt es sich sehr viel gezielter und erfolgreicher behandeln als ein Bandscheibenvorfall. Schon einfache Dehnungsübungen zeigen erstaunliche Wirkung.</p>
-<h2>"Nummer-1-Bestseller" unter den Rückenbüchern auf Amazon</h2>
-<p>Der Sportredakteur Nicolai Napolski, der aus eigener Erfahrung weiß, wie schmerzhaft das Piriformis-Syndrom ist, hat zusammen mit der Sporttherapeutin und Personal Trainerin Katharina Brinkmann das erste Online-Programm entwickelt, das sich mit dieser Erkrankung dezidiert auseinandersetzt.</p>
-<p>Die Autoren haben nicht nur die wichtigsten Informationen zu Hintergrund und Entstehung zusammengetragen, sondern auch ein eigens auf das Piriformis-Syndrom zugeschnittenes Übungskonzept entwickelt, das einfache und effektive Techniken vorstellt, mit deren Hilfe Sie den verkürzten Muskel dehnen, den Beckengürtel stärken und Haltungsschäden korrigieren können.</p>
-<h2><strong>Profitieren auch Sie vom derzeit einzigen explizit auf das Piriformis-Syndrom zugeschnittene Online-Programm!</strong></h2>
-<h2>Der 4-Stufe-Plan für Zuhause!</h2>
-<p><strong>Ein detailliertes Video-Übungsprogramm bestehend aus über 20 einfachen aber effektiven Techniken in Echtzeitlänge!</strong></p>
-<ul><li>Myofaszinales Entspannen ✓</li>
-<li>Effektive Dehnübungen gegen akute Schmerzen ✓</li>
-<li>Die Kräftigung der Hüftmuskulatur ✓</li>
-<li>Langfristiger Kraftaufbau ✓</li>
-</ul>
+**Vendor's marketplace description:** ISCHIASBESCHWERDEN UND DAS PIRIFORMIS-SYNDROM Einfache und effektive Techniken gegen Gesäß-, Bein- und Rückenschmerzen Nach dem Amazon-Buchbestseller folgt jetzt das erste deutschsprachige Online-Programm! https://ischias-schmerzen.de/ Immer mehr Menschen leiden unter Rückenschmerzen, die bis hinunter in die Beine ausstrahlen? Und sie sind nicht allein: Fast jeder Dritte in Deutschland ist davon betroffen. Klassischerweise gehen Ärzte automatisch von einem Bandscheibenvorfall aus. Aber nicht immer sind die Bandscheiben der Auslöser. In vielen Fällen handelt es sich um eine Entzündung des Piriformis-Muskels, der auf den Ischiasnerv drückt und dadurch die Beschwerden auslöst. Der Vorteil: Wenn das Piriformis-Syndrom erkannt wurde, lässt es sich sehr viel gezielter und erfolgreicher behandeln als ein Bandscheibenvorfall. Schon einfache Dehnungsübungen zeigen erstaunliche Wirkung. "Nummer-1-Bestseller" unter den Rückenbüchern auf Amazon Der Sportredakteur Nicolai Napolski, der aus eigener Erfahrung weiß, wie schmerzhaft das Piriformis-Syndrom ist, hat zusammen mit der Sporttherapeutin und Personal Trainerin Katharina Brinkmann das erste Online-Programm entwickelt, das sich mit dieser Erkrankung dezidiert auseinandersetzt. Die Autoren haben nicht nur die wichtigsten Informationen zu Hintergrund und Entstehung zusammengetragen, sondern auch ein eigens auf das Piriformis-Syndrom zugeschnittenes Übungskonzept entwickelt, das einfache und effektive Techniken vorstellt, mit deren Hilfe Sie den verkürzten Muskel dehnen, den Beckengürtel stärken und Haltungsschäden korrigieren können. Profitieren auch Sie vom derzeit einzigen explizit auf das Piriformis-Syndrom zugeschnittene Online-Programm! Der 4-Stufe-Plan für Zuhause! Ein detailliertes Video-Übungsprogramm bestehend aus über 20 einfachen aber effektiven Techniken in Echtzeitlänge! Myofaszinales Entspannen ✓ Effektive Dehnübungen gegen akute Schmerzen ✓ Die Kräftigung der Hüftmuskulatur ✓ Langfristiger Kraftaufbau ✓
 
 ## 2. Links
 

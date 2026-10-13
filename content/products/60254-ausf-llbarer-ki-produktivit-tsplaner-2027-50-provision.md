@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb den ausfüllbaren AI Business Productivity Planner 2027 von Koeniq Software. Der 61-seitige PDF-Planer hilft Selbstständigen, Freelancern und Creatorn bei Jahres-, Monats- und Wochenplanung, Zielen, Fokus, Finanzen, Kunden, Content und KI-Impulsen. Digitales Produkt ohne Versand oder Lagerbestand. Verkaufspreis 15,00 €, Affiliate-Provision 50 %. Automatische Partnerannahme, sofort nutzbarer Promolink und fertige Werbemittel auf der Affiliate-Support-Seite.</p>
-<p> </p>
-<p>Für wen ist das Produkt? Für Menschen, die ihr Business 2027 strukturiert planen und umsetzen möchten.</p>
-<p> </p>
-<p>Deine Vorteile: digitale Auslieferung, klare Zielgruppe, fertige Social-Media-Texte und eine eigene Support-Seite.</p>
+**Vendor's marketplace description:** Bewirb den ausfüllbaren AI Business Productivity Planner 2027 von Koeniq Software. Der 61-seitige PDF-Planer hilft Selbstständigen, Freelancern und Creatorn bei Jahres-, Monats- und Wochenplanung, Zielen, Fokus, Finanzen, Kunden, Content und KI-Impulsen. Digitales Produkt ohne Versand oder Lagerbestand. Verkaufspreis 15,00 €, Affiliate-Provision 50 %. Automatische Partnerannahme, sofort nutzbarer Promolink und fertige Werbemittel auf der Affiliate-Support-Seite. Für wen ist das Produkt? Für Menschen, die ihr Business 2027 strukturiert planen und umsetzen möchten. Deine Vorteile: digitale Auslieferung, klare Zielgruppe, fertige Social-Media-Texte und eine eigene Support-Seite.
 
 ## 2. Links
 

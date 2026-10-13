@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehlen Sie eine wachsende, liebevoll gestaltete PDF-Bibliothek für Betreuungskräfte, Alltagsbegleiterinnen und Alltagsbegleiter, Pflegekräfte sowie Angehörige. Enthalten sind Spiele, Gesprächskarten, Biografiearbeit, saisonale Aktivierungen und Materialien für Menschen mit demenzieller Veränderung. Sie erhalten 40 % Affiliate-Provision. Jede Partnerschaft wird persönlich geprüft. Bitte nur seriöse, wertschätzende Werbung – ohne Angst-, Schock- oder Heilversprechen. Freigegebene Werbematerialien erhalten Sie nach unserer Zusage.</p>
+**Vendor's marketplace description:** Empfehlen Sie eine wachsende, liebevoll gestaltete PDF-Bibliothek für Betreuungskräfte, Alltagsbegleiterinnen und Alltagsbegleiter, Pflegekräfte sowie Angehörige. Enthalten sind Spiele, Gesprächskarten, Biografiearbeit, saisonale Aktivierungen und Materialien für Menschen mit demenzieller Veränderung. Sie erhalten 40 % Affiliate-Provision. Jede Partnerschaft wird persönlich geprüft. Bitte nur seriöse, wertschätzende Werbung – ohne Angst-, Schock- oder Heilversprechen. Freigegebene Werbematerialien erhalten Sie nach unserer Zusage.
 
 ## 2. Links
 

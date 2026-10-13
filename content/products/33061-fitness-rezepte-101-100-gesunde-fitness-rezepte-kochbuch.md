@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hochwertiges und ausführliches Kochbuch mit über 100 gesunden Fitness Rezepten. Erstellt von einem ausgebildeten <a href="https://fittastetic.com/ernaehrungsberatung/" target="_blank" rel="noreferrer noopener">Ernährungsberater</a> und <a href="https://fittastetic.com/app/" target="_blank" rel="noreferrer noopener">Rezepte App </a>Betreiber.</p>
-<h2>Dein Vorteil:</h2>
-<ul>
-<li>Du bewirbst ein hochwertiges E-Book, welches für unschlagbare 7,99 € angeboten wird. </li>
-<li>Die Rezepte in dem Buch sind aller per Hand erstellt und selbst fotografiert. </li>
-<li>Du erhältst <strong>pro verkauftem E-Book</strong> eine <strong>Provision von 5 €</strong></li>
-<li>Du kannst selbst entscheiden wie du das Buch bewirbst.</li>
-<li><strong>Facebook und Google Anzeigen</strong> sind erlaubt!</li>
-</ul>
-<p>Gesunde essen kann so einfach sein!  </p>
-<p>Du hasst Fragen oder Ideen?<br />Meld dich bei uns per Mail an <a href="mailto:Feedback@fittastetic.com%C2%A0" target="_blank" rel="noreferrer noopener">Feedback@fittastetic.com </a></p>
+**Vendor's marketplace description:** Hochwertiges und ausführliches Kochbuch mit über 100 gesunden Fitness Rezepten. Erstellt von einem ausgebildeten Ernährungsberater und Rezepte App Betreiber. Dein Vorteil: Du bewirbst ein hochwertiges E-Book, welches für unschlagbare 7,99 € angeboten wird. Die Rezepte in dem Buch sind aller per Hand erstellt und selbst fotografiert. Du erhältst pro verkauftem E-Book eine Provision von 5 € Du kannst selbst entscheiden wie du das Buch bewirbst. Facebook und Google Anzeigen sind erlaubt! Gesunde essen kann so einfach sein! Du hasst Fragen oder Ideen? Meld dich bei uns per Mail an Feedback@fittastetic.com
 
 ## 2. Links
 

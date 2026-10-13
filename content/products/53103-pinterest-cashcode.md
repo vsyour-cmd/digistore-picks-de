@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Affiliate-Provision:</strong> 50 % Provision auf alle Addons, Order Bumps und Upsells.</p>
-<p> </p>
-<p>Pinterest Cashcode ist ein kompaktes E-Book für Einsteiger und Fortgeschrittene, die Pinterest als Suchmaschine nutzen wollen, um planbaren Traffic aufzubauen und daraus Leads oder Verkäufe zu generieren. Der Fokus liegt auf einem klaren System statt täglichem Content-Stress.</p>
-<p><strong>Inhalt / Highlights</strong></p>
-<ul>
-<li>
-<p>Wie Pinterest wirklich funktioniert (Suchmaschine statt Social Media)</p>
-</li>
-<li>
-<p>Die 3 Ergebnis-Hebel: Design, Keywords, Link</p>
-</li>
-<li>
-<p>Setup und Strategie für ein sauberes Pinterest-System</p>
-</li>
-<li>
-<p>5 Monetarisierungswege: Affiliate, Print-on-Demand, Blog + Pins, Leads &amp; digitale Produkte, Pinterest als Dienstleistung (VA)</p>
-</li>
-<li>
-<p>Bonus: Pin-Checkliste + 24h-Startplan</p>
-</li>
-</ul>
+**Vendor's marketplace description:** Affiliate-Provision: 50 % Provision auf alle Addons, Order Bumps und Upsells. Pinterest Cashcode ist ein kompaktes E-Book für Einsteiger und Fortgeschrittene, die Pinterest als Suchmaschine nutzen wollen, um planbaren Traffic aufzubauen und daraus Leads oder Verkäufe zu generieren. Der Fokus liegt auf einem klaren System statt täglichem Content-Stress. Inhalt / Highlights Wie Pinterest wirklich funktioniert (Suchmaschine statt Social Media) Die 3 Ergebnis-Hebel: Design, Keywords, Link Setup und Strategie für ein sauberes Pinterest-System 5 Monetarisierungswege: Affiliate, Print-on-Demand, Blog + Pins, Leads & digitale Produkte, Pinterest als Dienstleistung (VA) Bonus: Pin-Checkliste + 24h-Startplan
 
 ## 2. Links
 

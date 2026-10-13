@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>EU Generative KI – Risikomanagement und Output-Governance 2026/2027</strong></p>
-<p>Dieses digitale Produkt ist ein <strong>praktisches PDF-Arbeitsheft</strong> für Unternehmen, die generative KI wie ChatGPT, Copilot oder Gemini im Arbeitsalltag einsetzen und ihre KI-Ausgaben, Risiken und internen Abläufe strukturiert dokumentieren möchten.</p>
-<p>Das Arbeitsheft unterstützt bei typischen Aufgaben rund um <strong>EU AI Act, Output-Governance, Risikomanagement, Moderation und interne KI-Compliance</strong>.</p>
-<p><strong>Geeignet für:</strong></p>
-<ul>
-<li>Selbstständige und KMU</li>
-<li>Agenturen und Beratungen</li>
-<li>Marketing- und Content-Teams</li>
-<li>HR-, IT- und Produktteams</li>
-<li>Compliance- und KI-Verantwortliche</li>
-<li>Unternehmen mit regelmäßigem Einsatz generativer KI</li>
-</ul>
-<p><strong>Enthalten sind unter anderem:</strong></p>
-<ul>
-<li>Output-Governance-Vorlagen</li>
-<li>Risiko- und Prüfprozesse</li>
-<li>Prompt-Risikoanalysen</li>
-<li>Moderations- und Freigabeprozesse</li>
-<li>Incident- und Fehlerprotokolle</li>
-<li>Audit- und Dokumentationshilfen</li>
-<li>interne Verantwortlichkeiten und Kontrollabläufe</li>
-</ul>
-<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales Arbeitsheft im PDF-Format</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
-<p>Das Arbeitsheft dient als praktische Arbeits-, Strukturierungs- und Dokumentationshilfe für den professionellen Einsatz generativer KI und ersetzt keine individuelle Rechtsberatung.</p>
-<p><strong>Verkaufspreis: 29,00 €</strong> – digitaler Sofortdownload nach dem Kauf.</p>
+**Vendor's marketplace description:** EU Generative KI – Risikomanagement und Output-Governance 2026/2027 Dieses digitale Produkt ist ein praktisches PDF-Arbeitsheft für Unternehmen, die generative KI wie ChatGPT, Copilot oder Gemini im Arbeitsalltag einsetzen und ihre KI-Ausgaben, Risiken und internen Abläufe strukturiert dokumentieren möchten. Das Arbeitsheft unterstützt bei typischen Aufgaben rund um EU AI Act, Output-Governance, Risikomanagement, Moderation und interne KI-Compliance . Geeignet für: Selbstständige und KMU Agenturen und Beratungen Marketing- und Content-Teams HR-, IT- und Produktteams Compliance- und KI-Verantwortliche Unternehmen mit regelmäßigem Einsatz generativer KI Enthalten sind unter anderem: Output-Governance-Vorlagen Risiko- und Prüfprozesse Prompt-Risikoanalysen Moderations- und Freigabeprozesse Incident- und Fehlerprotokolle Audit- und Dokumentationshilfen interne Verantwortlichkeiten und Kontrollabläufe Wichtig: Es handelt sich ausdrücklich um ein digitales Arbeitsheft im PDF-Format und nicht um Software, einen Videokurs oder einen Mitgliederbereich. Das Arbeitsheft dient als praktische Arbeits-, Strukturierungs- und Dokumentationshilfe für den professionellen Einsatz generativer KI und ersetzt keine individuelle Rechtsberatung. Verkaufspreis: 29,00 € – digitaler Sofortdownload nach dem Kauf.
 
 ## 2. Links
 

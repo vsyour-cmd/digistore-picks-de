@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hallo Lieber Affiliate   <br />Wenn du diesen Kurs bewirbst, darfst du dich <strong>auf 50%</strong> <strong>Provision </strong> freuen :-)   </p>
-<p>Besuche über den Link gerne auch meine Affiliate Support Seite, dort findest du jede Menge sehr gute und attraktive Werbemittel.  </p>
-<p>Zu jeder Zeit ist unser Support für dich per Mail erreichbar, zögere also nicht, uns bei Fragen und Unklarheiten zu kontaktieren.  <br /><br /><strong>Das bewirbst du: </strong><br /><br />Dejan Sekulics Kurs für Potenzialentfaltung und MEHR Selbstvertrauen!</p>
-<ul style="list-style-type:disc;">
-<li style="text-align:left;">12 teiliges Online Video Training für geglückten Erfolg  <br /><br /></li>
-<li style="text-align:left;">Schritt für Schritt Anleitung – einfach und verständlich bewährte universelle Erfolgsprinzipien, die für viele Lebensbereiche sehr gut anwendbar sind.<br /><br /></li>
-<li>Wertvolle Checklisten und Arbeitsunterlagen. <br /><br />
-<h4><strong>4 wertvolle Bonusse</strong>:<br /><br /></h4>
-</li>
-<li>Bonus 1<br />Warum wir nicht alle Ziele erreichen werden<br /><br /></li>
-<li>Bonus 2<br />Die Wertschätung<br /><br /></li>
-<li>Bonus 3<br />Mindvideo für mehr Selbstvertrauen<br /><br /></li>
-<li>Bonus 4<br />Audio Training für mehr Selbstvertrauen </li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** Hallo Lieber Affiliate Wenn du diesen Kurs bewirbst, darfst du dich auf 50% Provision freuen :-) Besuche über den Link gerne auch meine Affiliate Support Seite, dort findest du jede Menge sehr gute und attraktive Werbemittel. Zu jeder Zeit ist unser Support für dich per Mail erreichbar, zögere also nicht, uns bei Fragen und Unklarheiten zu kontaktieren. Das bewirbst du: Dejan Sekulics Kurs für Potenzialentfaltung und MEHR Selbstvertrauen! 12 teiliges Online Video Training für geglückten Erfolg Schritt für Schritt Anleitung – einfach und verständlich bewährte universelle Erfolgsprinzipien, die für viele Lebensbereiche sehr gut anwendbar sind. Wertvolle Checklisten und Arbeitsunterlagen. 4 wertvolle Bonusse : Bonus 1 Warum wir nicht alle Ziele erreichen werden Bonus 2 Die Wertschätung Bonus 3 Mindvideo für mehr Selbstvertrauen Bonus 4 Audio Training für mehr Selbstvertrauen
 
 ## 2. Links
 

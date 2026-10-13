@@ -41,42 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Empfehle unseren zertifizierten PMR-Präventionskurs</h2>
-<p>Mit unserem Onlinekurs „Entspannung auf Knopfdruck“ hilfst du Menschen mit hoher Stressbelastung – und erhältst für jede erfolgreiche Buchung eine attraktive Provision.</p>
-<p>​Deine Vorteile:</p>
-<ul>
-<li>
-<p>Attraktive Provision: 40 % pro Verkauf</p>
-</li>
-<li>
-<p>Hohe Qualität: Zertifizierter §20 Präventionskurs</p>
-</li>
-<li>
-<p>Hohe Kaufbereitschaft: Die Krankenkassen erstatten 80-100% der Kursgebühr</p>
-</li>
-<li>
-<p>Fertige Werbemittel: erhalte fertige Texte, Bilder und Videos</p>
-</li>
-</ul>
-<p> </p>
-<div>
-<h3>Über unseren Onlinekurs</h3>
-</div>
-<div>
-<div> </div>
-</div>
-<div>
-<p>​✔️ 8 aufeinander aufgebaute Wochenmodule: Sie leiten dich Schritt für Schritt durch den Prozess – leicht verständlich und gut machbar.</p>
-<p>✔️ Wöchentliche Erklärvideos: Verstehe, wie dein Körper funktioniert – und wie du ihn gezielt entspannst.</p>
-<p>✔️ Audioanleitungen zum Download: Damit du überall üben kannst – ob im Bett, im Büro oder unterwegs.</p>
-<p>✔️ Arbeitsbuch zur Reflexion inkl. Entspannungstagebuch: Halte deine Fortschritte fest, erkenne Muster – und bleibe motiviert.</p>
-<p>✔️ 100 % Kostenerstattung: Deine Krankenkasse übernimmt den Großteil – wir übernehmen den Rest (bei Feedback).</p>
-<p> </p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=Ew9fMy-NIis" target="_blank" rel="noreferrer noopener">Infovideo zum Kurs</a></li>
-<li><a href="https://glueckwaerts.coachy.net/entspannung-auf-knopfdruck-der-pmr-onlinekurs/" target="_blank" rel="noreferrer noopener">Kursportal zum Reinschnuppern</a></li>
-</ul>
-</div>
+**Vendor's marketplace description:** Empfehle unseren zertifizierten PMR-Präventionskurs Mit unserem Onlinekurs „Entspannung auf Knopfdruck“ hilfst du Menschen mit hoher Stressbelastung – und erhältst für jede erfolgreiche Buchung eine attraktive Provision. ​Deine Vorteile: Attraktive Provision: 40 % pro Verkauf Hohe Qualität: Zertifizierter §20 Präventionskurs Hohe Kaufbereitschaft: Die Krankenkassen erstatten 80-100% der Kursgebühr Fertige Werbemittel: erhalte fertige Texte, Bilder und Videos Über unseren Onlinekurs ​✔️ 8 aufeinander aufgebaute Wochenmodule: Sie leiten dich Schritt für Schritt durch den Prozess – leicht verständlich und gut machbar. ✔️ Wöchentliche Erklärvideos: Verstehe, wie dein Körper funktioniert – und wie du ihn gezielt entspannst. ✔️ Audioanleitungen zum Download: Damit du überall üben kannst – ob im Bett, im Büro oder unterwegs. ✔️ Arbeitsbuch zur Reflexion inkl. Entspannungstagebuch: Halte deine Fortschritte fest, erkenne Muster – und bleibe motiviert. ✔️ 100 % Kostenerstattung: Deine Krankenkasse übernimmt den Großteil – wir übernehmen den Rest (bei Feedback). Infovideo zum Kurs Kursportal zum Reinschnuppern
 
 ## 2. Links
 

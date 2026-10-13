@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfiehl das einzigartige Produkt, um negative gespeicherte Emotionen aus Deinem Körper und Energiesystem zu lösen.</p>
-<p><strong>Mehr als 8.000 zufriedene Kursteilnehmer</strong> über die letzten 6 Jahren haben die besondere und einzigartige Arbeitsweise von Andreas Goldemann genossen. Seine intuitive Arbeit mit Stimme, Gesang und Bewegung führt dazu, dass Blockaden aufgelöst werden und mehr Harmonie im Leben einkehrt.</p>
-<p>Bringe Deine Kontakte dazu, diese wunderschöne Erfahrung zu erleben - und verdiene mit „Zurück zum Ursprung“ auch noch gutes Geld!</p>
-<p>Was erwartet Dich? </p>
-<ul>
-<li><strong>33 % Provision</strong>: Bei dem derzeitigen Verkaufspreis von 497 € (Brutto) sind das nach dem Abzug von Gebühren und Umsatzsteuer <strong>130,25 € (Netto) für Dich</strong>, pro erfolgreicher Vermittlung!</li>
-<li><strong>20 % Lifetime-Provision</strong> für Folgeprodukte, die Dein neu gewonnener Lead im Laufe der Jahre bei uns kauft.</li>
-<li><strong>Optimierter Funnel </strong> mit Freebie, Verknappung und toller Conversion.</li>
-<li>Zufriedene Kunden: Unsere Statistiken zeigen <strong>40 % verbessertes Wohlbefinden</strong> nach diesem Kurs.</li>
-</ul>
-<p>Andreas Goldemann ist seit über 25 Jahren als Intuitive, Klangheiler und spiritueller Begleiter tätig und hat mit seiner Arbeit vielen hunderttausend Menschen weltweit geholfen.</p>
-<p><strong>Werde jetzt unser Partner</strong> und empfiehl Deinen Kontakten unser Vorzeigeprodukt „Zurück zum Ursprung“.</p>
+**Vendor's marketplace description:** Empfiehl das einzigartige Produkt, um negative gespeicherte Emotionen aus Deinem Körper und Energiesystem zu lösen. Mehr als 8.000 zufriedene Kursteilnehmer über die letzten 6 Jahren haben die besondere und einzigartige Arbeitsweise von Andreas Goldemann genossen. Seine intuitive Arbeit mit Stimme, Gesang und Bewegung führt dazu, dass Blockaden aufgelöst werden und mehr Harmonie im Leben einkehrt. Bringe Deine Kontakte dazu, diese wunderschöne Erfahrung zu erleben - und verdiene mit „Zurück zum Ursprung“ auch noch gutes Geld! Was erwartet Dich? 33 % Provision : Bei dem derzeitigen Verkaufspreis von 497 € (Brutto) sind das nach dem Abzug von Gebühren und Umsatzsteuer 130,25 € (Netto) für Dich , pro erfolgreicher Vermittlung! 20 % Lifetime-Provision für Folgeprodukte, die Dein neu gewonnener Lead im Laufe der Jahre bei uns kauft. Optimierter Funnel mit Freebie, Verknappung und toller Conversion. Zufriedene Kunden: Unsere Statistiken zeigen 40 % verbessertes Wohlbefinden nach diesem Kurs. Andreas Goldemann ist seit über 25 Jahren als Intuitive, Klangheiler und spiritueller Begleiter tätig und hat mit seiner Arbeit vielen hunderttausend Menschen weltweit geholfen. Werde jetzt unser Partner und empfiehl Deinen Kontakten unser Vorzeigeprodukt „Zurück zum Ursprung“.
 
 ## 2. Links
 

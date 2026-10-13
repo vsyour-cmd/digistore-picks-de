@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Auf 36 Seiten bekommt ihr Tipps von VolleyballFREAK wie ihr effektiv und auf jedem Spielniveau optimal verteidigt. Egal ob ohne Block oder mit Dreierblock: Lernt was ihr besser machen könnt.</p>
-<p>- 39 farbige Skizzen helfen Euch bei der Umsetzung in Eurem Team</p>
-<p>- Für jedes Niveau geeignet: Leicht verständliche Texte mit detaillierten Beschreibungen der wichtigsten Situationen in der Block- und Feldverteidigung</p>
-<p>- Massenhaft Tipps: Egal ob Pos. VI vorne/ hinten, mit oder ohne Libero, Einer-/ Doppel- oder Dreierblock, Dankebälle…</p>
+**Vendor's marketplace description:** Auf 36 Seiten bekommt ihr Tipps von VolleyballFREAK wie ihr effektiv und auf jedem Spielniveau optimal verteidigt. Egal ob ohne Block oder mit Dreierblock: Lernt was ihr besser machen könnt. - 39 farbige Skizzen helfen Euch bei der Umsetzung in Eurem Team - Für jedes Niveau geeignet: Leicht verständliche Texte mit detaillierten Beschreibungen der wichtigsten Situationen in der Block- und Feldverteidigung - Massenhaft Tipps: Egal ob Pos. VI vorne/ hinten, mit oder ohne Libero, Einer-/ Doppel- oder Dreierblock, Dankebälle…
 
 ## 2. Links
 

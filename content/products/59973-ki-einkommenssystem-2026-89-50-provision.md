@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>KI-Einkommenssystem 2026</strong>: 30 durchklickbare Lektionen in 10 Modulen zu KI-Dienstleistungen, Websites, Social-Media-Content, Automatisierung, digitalen Produkten und Kundengewinnung. Mit Praxisaufgaben, Checklisten, fertigen KI-Prompts und einem 30-Tage-Umsetzungsplan mit Fortschrittsanzeige.</p>
-<p><strong>Zielgruppe:</strong> Einsteiger, die mit KI-Tools ein Nebeneinkommen aufbauen wollen – realistisch, ohne Einkommensversprechen.</p>
-<p><strong>Dein Vorteil als Partner:</strong> 50 % Provision bei 89 € Einmalpreis, automatische Partnerfreischaltung, hochwertige Optik und fertige Werbevideos.</p>
+**Vendor's marketplace description:** KI-Einkommenssystem 2026 : 30 durchklickbare Lektionen in 10 Modulen zu KI-Dienstleistungen, Websites, Social-Media-Content, Automatisierung, digitalen Produkten und Kundengewinnung. Mit Praxisaufgaben, Checklisten, fertigen KI-Prompts und einem 30-Tage-Umsetzungsplan mit Fortschrittsanzeige. Zielgruppe: Einsteiger, die mit KI-Tools ein Nebeneinkommen aufbauen wollen – realistisch, ohne Einkommensversprechen. Dein Vorteil als Partner: 50 % Provision bei 89 € Einmalpreis, automatische Partnerfreischaltung, hochwertige Optik und fertige Werbevideos.
 
 ## 2. Links
 

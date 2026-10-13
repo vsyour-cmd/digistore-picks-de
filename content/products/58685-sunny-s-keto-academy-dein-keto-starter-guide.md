@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Sunny’s Keto Academy bietet einen einfachen Einstieg in die ketogene Ernährung – verständlich, alltagstauglich und ohne komplizierte Regeln.</p>
-<p>Die Keto Wissens-Startbox enthält praktische Keto-Grundlagen, Orientierung für den Einstieg und hilfreiche Inhalte für Menschen, die Keto besser verstehen und umsetzen möchten.</p>
-<p>Ideal für Affiliates aus den Bereichen Keto, Low Carb, Ernährung, Lifestyle und Wohlbefinden.</p>
-<p>✓ Attraktives Affiliate-Programm<br />✓ Kein MLM<br />✓ Kein Kaufzwang<br />✓ Kein Starterpaket erforderlich<br />✓ Einfach empfehlen und Provision verdienen</p>
+**Vendor's marketplace description:** Sunny’s Keto Academy bietet einen einfachen Einstieg in die ketogene Ernährung – verständlich, alltagstauglich und ohne komplizierte Regeln. Die Keto Wissens-Startbox enthält praktische Keto-Grundlagen, Orientierung für den Einstieg und hilfreiche Inhalte für Menschen, die Keto besser verstehen und umsetzen möchten. Ideal für Affiliates aus den Bereichen Keto, Low Carb, Ernährung, Lifestyle und Wohlbefinden. ✓ Attraktives Affiliate-Programm ✓ Kein MLM ✓ Kein Kaufzwang ✓ Kein Starterpaket erforderlich ✓ Einfach empfehlen und Provision verdienen
 
 ## 2. Links
 

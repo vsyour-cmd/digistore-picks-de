@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie Unternehmen und Selbstständige mit X planbar Leads und Aufträge generieren</strong></p>
-<p>X ist für Unternehmen kein Spielplatz für Meinungen – es ist ein leistungsstarker Vertriebskanal, wenn du ihn strategisch nutzt. Dieses E-Book zeigt dir, wie du mit gezielten Threads und Replies in deiner Zielgruppe Sichtbarkeit aufbaust, wie du einen Audience-to-Lead-Funnel baust, der Follower in Anfragen verwandelt, und wie du DMs professionell für die Erstansprache einsetzt. Du lernst, externe Links klug zu platzieren, damit dein Newsletter und deine Landingpage kontinuierlich Leads einsammeln, ohne dass Reichweite leidet. Build-in-public ist für Unternehmen ein unterschätztes Vertrauens-Instrument – dieses E-Book zeigt dir, wie du es richtig einsetzt. Inklusive Funnel-Blueprint, DM-Vorlagen und Reporting-Checkliste.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>X-Strategie entlang der Customer Journey: Awareness bis Conversion</li>
-<li>Threads &amp; Replies gezielt für B2B- und B2C-Sichtbarkeit einsetzen</li>
-<li>Der Audience-to-Lead-Funnel: vom Follower zur Anfrage</li>
-<li>DMs professionell nutzen ohne Spam-Alarm</li>
-<li>Externe Links klug platzieren: Newsletter und Landingpage befüllen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie Unternehmen und Selbstständige mit X planbar Leads und Aufträge generieren X ist für Unternehmen kein Spielplatz für Meinungen – es ist ein leistungsstarker Vertriebskanal, wenn du ihn strategisch nutzt. Dieses E-Book zeigt dir, wie du mit gezielten Threads und Replies in deiner Zielgruppe Sichtbarkeit aufbaust, wie du einen Audience-to-Lead-Funnel baust, der Follower in Anfragen verwandelt, und wie du DMs professionell für die Erstansprache einsetzt. Du lernst, externe Links klug zu platzieren, damit dein Newsletter und deine Landingpage kontinuierlich Leads einsammeln, ohne dass Reichweite leidet. Build-in-public ist für Unternehmen ein unterschätztes Vertrauens-Instrument – dieses E-Book zeigt dir, wie du es richtig einsetzt. Inklusive Funnel-Blueprint, DM-Vorlagen und Reporting-Checkliste. Das steckt drin: X-Strategie entlang der Customer Journey: Awareness bis Conversion Threads & Replies gezielt für B2B- und B2C-Sichtbarkeit einsetzen Der Audience-to-Lead-Funnel: vom Follower zur Anfrage DMs professionell nutzen ohne Spam-Alarm Externe Links klug platzieren: Newsletter und Landingpage befüllen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Was ist "Fertility Flow" genau:</p>
-<ul>
-<li><strong>Die exakt richtigen Worte, um die Fruchtbarkeit zu aktivieren.</strong> - Du hörst nur zu und dein Unterbewusstsein regelt den Rest.</li>
-<li><strong>Die Schwingungsfrequenz, die nötig ist, um dein Unterbewusstsein zu erreichen.</strong> - Theta-Wellen im Bereich unter 7.5 Hz wirken direkt auf deine Intuition.</li>
-<li><strong>Wissenschaftlich erwiesene Wirkung. </strong>- Bereits seit über 50 Jahren wenden Spitzensportler, Militärs und Psychologen dieselben Methoden erfolgreich an.</li>
-<li><strong>Die Abkürzung für die Erfüllung deines sehnlichsten Wunsches.</strong> - Meditation hören - fertig. Einfacher geht's nicht.  </li>
-</ul>
+**Vendor's marketplace description:** Was ist "Fertility Flow" genau: Die exakt richtigen Worte, um die Fruchtbarkeit zu aktivieren. - Du hörst nur zu und dein Unterbewusstsein regelt den Rest. Die Schwingungsfrequenz, die nötig ist, um dein Unterbewusstsein zu erreichen. - Theta-Wellen im Bereich unter 7.5 Hz wirken direkt auf deine Intuition. Wissenschaftlich erwiesene Wirkung. - Bereits seit über 50 Jahren wenden Spitzensportler, Militärs und Psychologen dieselben Methoden erfolgreich an. Die Abkürzung für die Erfüllung deines sehnlichsten Wunsches. - Meditation hören - fertig. Einfacher geht's nicht.
 
 ## 2. Links
 

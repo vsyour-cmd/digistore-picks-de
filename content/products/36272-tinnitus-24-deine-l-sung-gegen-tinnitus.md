@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="background-color:#ffff00;"><strong>Das ist Tinnitus24</strong></span></h2>
-<h4><strong>Die Chance den Tinnitus für immer los zu werden.</strong></h4>
-<h4><strong>Der Kunde erhält:</strong></h4>
-<h4>✓ <strong>Anti Tinnitus Frequenzplayer APP mit den 20 häufigesten Anti-Tinnitus Frequenzen  </strong></h4>
-<h4>✓ <strong>PLUS Tinnitus Release Griff als Videokurs</strong></h4>
-<h4>✓ <strong>PLUS Entspannungsklänge aus den Tiefen des Amazonas Dschungel oder Wellenbrechen an der Portugiesischen Steilküste und viele mehr.</strong></h4>
-<h4><strong>Mit dem Pro Upsell können sie bis zu 98.-€ pro Verkauf verdienen!</strong></h4>
-<h3><strong><br /></strong><span style="background-color:#ffff00;"><strong>Sehr gutes Kundenfeedback! </strong></span></h3>
+**Vendor's marketplace description:** Das ist Tinnitus24 Die Chance den Tinnitus für immer los zu werden. Der Kunde erhält: ✓ Anti Tinnitus Frequenzplayer APP mit den 20 häufigesten Anti-Tinnitus Frequenzen ✓ PLUS Tinnitus Release Griff als Videokurs ✓ PLUS Entspannungsklänge aus den Tiefen des Amazonas Dschungel oder Wellenbrechen an der Portugiesischen Steilküste und viele mehr. Mit dem Pro Upsell können sie bis zu 98.-€ pro Verkauf verdienen! Sehr gutes Kundenfeedback!
 
 ## 2. Links
 

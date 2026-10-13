@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h5>Medios-Seminare gibt es bereits seit mehr als 17 Jahren und führt tag täglich Offline Seminare durch und bringt Schülern neue Massage Techniken bei, und das bereits an 7 verschiedenen Standorten in Deutschland.</h5>
-<p>Nun haben wir angefangen unsere Kurse auch Online anzubieten.<br /><br />Die Kurse eignen sich für alle die bereits in der Massage tätig sind und Ihr Portfolo erweitern oder ausbauen möchten, sowie für Anfänger die erst mit der Massage beginnen wollen.</p>
-<p><span style="background-color:#ffff00;">In den ersten 14 Tagen haben wir den Kurs bereits mehr als 200mal Verkauft, er wird also sehr gut angenommen bei den Kunden.</span></p>
-<h2> </h2>
-<h2>Triggerpunkt Behandlung jetzt im Online-Kurs lernen</h2>
-<p><strong>Das vermitteln wir im Kurs Triggerpunkt Behandlung:</strong></p>
-<ul>
-<li>Lerne alle wichtigen Grundlagen zur Behandlung von Triggerpunkten</li>
-<li>Lokalisierung von Maximalpunkten</li>
-<li>Lerne detailiert Behandlungsabläufe anhand von 10 verschiedenen Muskelbehandlungen</li>
-<li>Exklusive Videos zum sofortigen Umsetzen</li>
-<li>Zugang über Handy, Tablet und PC</li>
-<li>Sofortiger Zugriff zu allen Videolektionen!</li>
-<li>14 Tage Rückgabe recht!</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** Medios-Seminare gibt es bereits seit mehr als 17 Jahren und führt tag täglich Offline Seminare durch und bringt Schülern neue Massage Techniken bei, und das bereits an 7 verschiedenen Standorten in Deutschland. Nun haben wir angefangen unsere Kurse auch Online anzubieten. Die Kurse eignen sich für alle die bereits in der Massage tätig sind und Ihr Portfolo erweitern oder ausbauen möchten, sowie für Anfänger die erst mit der Massage beginnen wollen. In den ersten 14 Tagen haben wir den Kurs bereits mehr als 200mal Verkauft, er wird also sehr gut angenommen bei den Kunden. Triggerpunkt Behandlung jetzt im Online-Kurs lernen Das vermitteln wir im Kurs Triggerpunkt Behandlung: Lerne alle wichtigen Grundlagen zur Behandlung von Triggerpunkten Lokalisierung von Maximalpunkten Lerne detailiert Behandlungsabläufe anhand von 10 verschiedenen Muskelbehandlungen Exklusive Videos zum sofortigen Umsetzen Zugang über Handy, Tablet und PC Sofortiger Zugriff zu allen Videolektionen! 14 Tage Rückgabe recht!
 
 ## 2. Links
 

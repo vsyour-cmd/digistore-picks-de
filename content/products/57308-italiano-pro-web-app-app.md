@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bindet bitte euren eigenen Affiliate Link auf euren Plattformen zum bewerben dieser Web-App selbst ein, sodass euer Kunde direkt über euren Affiliate-Link zur Vekaufsseite gelangt.</p>
-<p><a>Hier eine Übersicht für euch zur App um Werbung zu erstellen:</a></p>
-<p><a>https://italiano-pro-app.subscribepage.io/</a></p>
-<p>(Youtube-Werbevideo incl.)</p>
-<p>Es handelt sich hierbei um eine Web-App mit App Funktion zum Download um die Spraxche italienisch zu erlenen (504 Wörter) mit gesondertem Zugang für jeden Käufer!</p>
-<p>Ich wünsche dir ganz viel Provisionseinnahmen! :)</p>
-<p>Bei Fragen bitte an: worldfinancemovement@outlook.de</p>
+**Vendor's marketplace description:** Bindet bitte euren eigenen Affiliate Link auf euren Plattformen zum bewerben dieser Web-App selbst ein, sodass euer Kunde direkt über euren Affiliate-Link zur Vekaufsseite gelangt. Hier eine Übersicht für euch zur App um Werbung zu erstellen: https://italiano-pro-app.subscribepage.io/ (Youtube-Werbevideo incl.) Es handelt sich hierbei um eine Web-App mit App Funktion zum Download um die Spraxche italienisch zu erlenen (504 Wörter) mit gesondertem Zugang für jeden Käufer! Ich wünsche dir ganz viel Provisionseinnahmen! :) Bei Fragen bitte an: worldfinancemovement@outlook.de
 
 ## 2. Links
 

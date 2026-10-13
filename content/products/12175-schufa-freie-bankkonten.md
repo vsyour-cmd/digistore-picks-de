@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><span style="color:#800080;"><strong><big>SCHUFA-FREIE BANKKONTEN</big></strong></span></p>
-<p>So bekommen Sie SCHUFA-freie Konten im In- und Ausland.</p>
-<p>Geht Ihnen die allmächtige Schnüffel-SCHUFA auch schon lange auf den Geist?</p>
-<p>Dann haben wir hier den richtigen Report für Sie.</p>
-<p>Damit können Sie sich endlich zur Wehr setzen.</p>
-<p> </p>
-<div>
-<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
-<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
-<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<span style="color:#cc99ff;"><strong><span style="color:#000000;">J</span>eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</strong></span>“.</p>
-<p>2 einfache Schritte:</p>
-<ol>
-<li><strong>JTR</strong> gratis bestellen auf <a href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html" target="_blank" rel="noreferrer noopener"><span style="color:#0000ff;">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html</span></a> (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge")</li>
-<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
-</ol>
-</div>
-<p> </p>
-<p><em><strong> </strong></em></p>
+**Vendor's marketplace description:** SCHUFA-FREIE BANKKONTEN So bekommen Sie SCHUFA-freie Konten im In- und Ausland. Geht Ihnen die allmächtige Schnüffel-SCHUFA auch schon lange auf den Geist? Dann haben wir hier den richtigen Report für Sie. Damit können Sie sich endlich zur Wehr setzen. Möchten Sie ein Ansichtsexemplar? Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz. Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „ J eden T ag R ei*cher “. 2 einfache Schritte: JTR gratis bestellen auf https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge") Email mit Ihrem Ebook-Wunsch an service@big-benn-books.com
 
 ## 2. Links
 

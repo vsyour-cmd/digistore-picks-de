@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Jetzt auf den Halloween-Zug aufspringen und mit unseren exklusiven Digitalprodukten für Halloween Lifetime- und Einzelprovisionen kassieren. Massenweise ausdruckbare Halloween-Deko, schockierende Horror-Geräusche und Atmosphären und Videos.</p>
+**Vendor's marketplace description:** Jetzt auf den Halloween-Zug aufspringen und mit unseren exklusiven Digitalprodukten für Halloween Lifetime- und Einzelprovisionen kassieren. Massenweise ausdruckbare Halloween-Deko, schockierende Horror-Geräusche und Atmosphären und Videos.
 
 ## 2. Links
 

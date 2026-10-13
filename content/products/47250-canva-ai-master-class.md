@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong><em>Bewerbe den Bestseller Kurs: Canva AI Master Class</em></strong></div>
-<div>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong><em>Das erhält Deine Community:</em></strong></span></p>
-<p><strong><em>✅  Strategien zum Skalieren des Online Business mit Canva </em></strong></p>
-<p><strong><em>✅  Durch die Canva KI, wird es spielend einfach</em></strong></p>
-<p><strong><em>✅  Schritt für Schritt Anleitung für jeden Anfänger geeignet!!!</em></strong></p>
-<p><strong><em>✅  </em>Als Bonus bekommst Deine Community den Zugang zu unserem Mitgliederbereich und dadurch noch mehr hocherwertigen kostenfreien Content ...</strong></p>
-</div>
+**Vendor's marketplace description:** Bewerbe den Bestseller Kurs: Canva AI Master Class Das erhält Deine Community: ✅ Strategien zum Skalieren des Online Business mit Canva ✅ Durch die Canva KI, wird es spielend einfach ✅ Schritt für Schritt Anleitung für jeden Anfänger geeignet!!! ✅ Als Bonus bekommst Deine Community den Zugang zu unserem Mitgliederbereich und dadurch noch mehr hocherwertigen kostenfreien Content ...
 
 ## 2. Links
 

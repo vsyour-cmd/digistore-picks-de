@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#00ccff;"><em>RESET21 ist ein 55-seitiges Premium-Workbook, das dich 21 Tage lang Schritt für Schritt begleitet.</em></span><br /><br />Enthalten sind ein kompletter 21-Tage-Plan, zahlreiche Übungen und Reflexionsimpulse, Ernährung &amp; Meal Prep, Fitnessübungen, einfache Rezeptideen sowie ein 90-Tage-Plan für danach.<br /><br /><strong><span style="color:#00ccff;">✓ 55 Seiten Premium-Workbook</span></strong><br /><strong><span style="color:#00ccff;">✓ 21 Tagesaufgaben &amp; Check-ins</span></strong><br /><strong><span style="color:#00ccff;">✓ Viele Übungen &amp; Reflexionsfragen</span></strong><br /><strong><span style="color:#00ccff;">✓ Ernährung &amp; Meal Prep</span></strong><br /><strong><span style="color:#00ccff;">✓ Fitnessprogramme</span></strong><br /><strong><span style="color:#00ccff;">✓ Rezepte</span></strong><br /><strong><span style="color:#00ccff;">✓ 90-Tage-Weiterführung</span></strong><br /><strong><span style="color:#00ccff;">✓ Sofort digital verfügbar</span></strong><br /><br />Kleine Schritte. Bessere Routinen. Dein RESET21.</p>
-<p>Digitaler Download</p>
+**Vendor's marketplace description:** RESET21 ist ein 55-seitiges Premium-Workbook, das dich 21 Tage lang Schritt für Schritt begleitet. Enthalten sind ein kompletter 21-Tage-Plan, zahlreiche Übungen und Reflexionsimpulse, Ernährung & Meal Prep, Fitnessübungen, einfache Rezeptideen sowie ein 90-Tage-Plan für danach. ✓ 55 Seiten Premium-Workbook ✓ 21 Tagesaufgaben & Check-ins ✓ Viele Übungen & Reflexionsfragen ✓ Ernährung & Meal Prep ✓ Fitnessprogramme ✓ Rezepte ✓ 90-Tage-Weiterführung ✓ Sofort digital verfügbar Kleine Schritte. Bessere Routinen. Dein RESET21. Digitaler Download
 
 ## 2. Links
 

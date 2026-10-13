@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;">  Promote auch unser E-Book "44 Rezepte für Smoothies und Gerichte zu deiner Entgiftung" an deine Leser / Kunden <br />und wir zahlen dir ganze <strong><span style="color:#008000;">80% Provision für jedes Buch</span>!</strong></p>
-<ul>
-<li>Hochwertig als echtes E-Book produziert</li>
-<li>Über 11 exklusive Kapitel mit essenziellen Themen für den Start einer erfolgreichen Entgiftung von Darm, Leber und Kopf</li>
-<li><strong>Null Stornoquote!</strong></li>
-<li>Schnelle und persönliche Unterstützung auf Deutsch und weiteren Sprachen</li>
-</ul>
-<p>✔ Erhalte <strong>ganze 80% </strong><em><strong>Affiliate-Provision pro Verkauf</strong></em>. </p>
-<p><br />Melde dich jetzt als Affiliate an und starte mit dem Promoten von unserem neuen Buch.</p>
-<p>Beste Grüße aus Rhein-Main,</p>
-<p>mhs-4-you.com</p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Promote auch unser E-Book "44 Rezepte für Smoothies und Gerichte zu deiner Entgiftung" an deine Leser / Kunden und wir zahlen dir ganze 80% Provision für jedes Buch ! Hochwertig als echtes E-Book produziert Über 11 exklusive Kapitel mit essenziellen Themen für den Start einer erfolgreichen Entgiftung von Darm, Leber und Kopf Null Stornoquote! Schnelle und persönliche Unterstützung auf Deutsch und weiteren Sprachen ✔ Erhalte ganze 80% Affiliate-Provision pro Verkauf . Melde dich jetzt als Affiliate an und starte mit dem Promoten von unserem neuen Buch. Beste Grüße aus Rhein-Main, mhs-4-you.com
 
 ## 2. Links
 

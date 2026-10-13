@@ -41,57 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h2><strong><span style="background-color: #ffff00;">Mit 45 verschiedenen Traffic-Strategien Unendlichkeits-Traffic aufbauen </span></strong></h2>
-<h2><strong><span style="background-color: #ffff00;">und dadurch 45mal mehr Einnahmen f&uuml;r Webprojekte erzielen</span></strong></h2>
-<p><strong>Ein 8-st&uuml;ndiger Video-Kurs mit Traffic-Strategien und 39 Conversion-Tipps f&uuml;r dein aktuelles Web-Projekt.</strong></p>
-<p><strong>Viele Methoden Geld zu verdienen haben einfach deswegen keinen Erfolg, weil qualitativ hochwertiger Traffic und das richtige Besucher-Klientel fehlt.</strong></p>
-<p><strong>10 Gr&uuml;nde, warum du die Traffic&amp;Conversion-Bomber promoten solltest:</strong></p>
-<p>&nbsp;</p>
-<ul>
-<li><strong>Mit 60% die h&ouml;chste Provision im Profi-Internet-Marketing-Bereich</strong></li>
-<li>
-<p><strong>Hohe Verkaufsraten in der Geld im Internet verdienen Nische, da es Mehr f&uuml;r weniger Geld gibt<br /></strong></p>
-</li>
-<li>
-<p><strong>Vollautomatische Auszahlung deiner Provision durch Digistore24</strong></p>
-</li>
-<li>
-<p><strong>Direkt-Verkauf ohne gro&szlig;es Blabla und ohne versteckten Salesfunnel<br /></strong></p>
-</li>
-<li><strong>keine &uuml;berteuerten Produkte und dadurch ~0% Stornoquote</strong></li>
-<li>
-<p><strong>Produkte, die Menschen wirklich helfen</strong></p>
-</li>
-<li>
-<p><strong>Lars-Support (Ich helfe Dir, wenn du etwas nicht verstehst)<br /></strong></p>
-</li>
-<li>
-<p><strong>Ausf&uuml;hrliche und st&auml;ndige Conversion Optimierung</strong></p>
-</li>
-<li>
-<p><strong>Regelm&auml;&szlig;ige Affiliate Wettbewerbe <br />(Preis und Geschenke)<br /></strong></p>
-</li>
-<li>
-<p><strong>Facebook + Viral Werbetechniken</strong></p>
-</li>
-</ul>
-<p><strong>Wichtig: Klicke jetzt unten rechts auf &bdquo;Affiliate Support-Seite&ldquo; und erfahre konkret, wie du loslegen kannst, damit Du noch heute deine ersten Provisionen erhalten kannst!</strong></p>
-<p><strong>----------------------------------------------------&gt;</strong></p>
-</div>
-<p>&nbsp;</p>
-<p><strong>Der Traffic &amp; Conversion Bomber beinhaltet:</strong></p>
-<ol>
-<li>12h Videomaterial mit Traffic-Strategien</li>
-<li>zus. Videomaterial f&uuml;r Conversiontipps</li>
-<li>E-Book Nischen-Webseite 2.0 <strong>(27&euro;)</strong></li>
-<li>Life-Time-Licence auf alle Folge-Strategien</li>
-<li>Der schnellste Zugang der Welt</li>
-<li>Motivation von Kris Stelljes</li>
-<li>30 Tage Geld-Zur&uuml;ck-Garantie</li>
-<li>7/24&nbsp;<a>Lars-Support</a> <em>(auch f&uuml;r Fragen vorher)</em></li>
-</ol>
-<p><strong>Verkaufswert: 227&euro;<br />Sie sparen heute 170&euro;.</strong></p>
+**Vendor's marketplace description:** Mit 45 verschiedenen Traffic-Strategien Unendlichkeits-Traffic aufbauen und dadurch 45mal mehr Einnahmen f&uuml;r Webprojekte erzielen Ein 8-st&uuml;ndiger Video-Kurs mit Traffic-Strategien und 39 Conversion-Tipps f&uuml;r dein aktuelles Web-Projekt. Viele Methoden Geld zu verdienen haben einfach deswegen keinen Erfolg, weil qualitativ hochwertiger Traffic und das richtige Besucher-Klientel fehlt. 10 Gr&uuml;nde, warum du die Traffic&Conversion-Bomber promoten solltest: Mit 60% die h&ouml;chste Provision im Profi-Internet-Marketing-Bereich Hohe Verkaufsraten in der Geld im Internet verdienen Nische, da es Mehr f&uuml;r weniger Geld gibt Vollautomatische Auszahlung deiner Provision durch Digistore24 Direkt-Verkauf ohne gro&szlig;es Blabla und ohne versteckten Salesfunnel keine &uuml;berteuerten Produkte und dadurch ~0% Stornoquote Produkte, die Menschen wirklich helfen Lars-Support (Ich helfe Dir, wenn du etwas nicht verstehst) Ausf&uuml;hrliche und st&auml;ndige Conversion Optimierung Regelm&auml;&szlig;ige Affiliate Wettbewerbe (Preis und Geschenke) Facebook + Viral Werbetechniken Wichtig: Klicke jetzt unten rechts auf &bdquo;Affiliate Support-Seite&ldquo; und erfahre konkret, wie du loslegen kannst, damit Du noch heute deine ersten Provisionen erhalten kannst! ----------------------------------------------------> Der Traffic & Conversion Bomber beinhaltet: 12h Videomaterial mit Traffic-Strategien zus. Videomaterial f&uuml;r Conversiontipps E-Book Nischen-Webseite 2.0 (27&euro;) Life-Time-Licence auf alle Folge-Strategien Der schnellste Zugang der Welt Motivation von Kris Stelljes 30 Tage Geld-Zur&uuml;ck-Garantie 7/24 Lars-Support (auch f&uuml;r Fragen vorher) Verkaufswert: 227&euro; Sie sparen heute 170&euro;.
 
 ## 2. Links
 

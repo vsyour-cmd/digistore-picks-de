@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><span style="background-color:#339966;color:#ffffff;">Verdiene ~100€ wiederkehrende Provision pro Sale mit unserer KI-Sportwetten Software</span></h3>
-<p>Empfehle unser kostenloses Online-Training mit über 10% Sales-Conversion und den Rest erledigen wir.</p>
-<p><strong>✔︎</strong> Hohe Provision bei wiederkehrenden Einnahmen</p>
-<p><strong>✔︎</strong> Kostenloser Workshop als einfacher Einstieg</p>
-<p><strong>✔︎</strong> Erstellt von erfahrenen Digistore-Vendoren</p>
-<p><strong>✔︎</strong> Über 10% Sales-Conversion auf Workshop-Anmeldungen</p>
-<p><strong>✔︎ </strong>Lifetime-Cookie &amp; geräteübergreifendes Tracking</p>
-<p><strong>✔︎</strong> Automatisierter Funnel mit E-Mail-Sequenz &amp; Retargeting</p>
-<p> </p>
-<p><a style="background-color:#a50b0b;color:#ffffff;padding:10px 18px;text-decoration:none;margin-top:10px;font-weight:bold;" href="https://www.wettmatrix.com/partnerprogramm/" target="_blank" rel="noreferrer noopener">➡️ Zum Partnerprogramm</a></p>
+**Vendor's marketplace description:** Verdiene ~100€ wiederkehrende Provision pro Sale mit unserer KI-Sportwetten Software Empfehle unser kostenloses Online-Training mit über 10% Sales-Conversion und den Rest erledigen wir. ✔︎ Hohe Provision bei wiederkehrenden Einnahmen ✔︎ Kostenloser Workshop als einfacher Einstieg ✔︎ Erstellt von erfahrenen Digistore-Vendoren ✔︎ Über 10% Sales-Conversion auf Workshop-Anmeldungen ✔︎ Lifetime-Cookie & geräteübergreifendes Tracking ✔︎ Automatisierter Funnel mit E-Mail-Sequenz & Retargeting ➡️ Zum Partnerprogramm
 
 ## 2. Links
 

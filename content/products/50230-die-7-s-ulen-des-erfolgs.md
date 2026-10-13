@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Unsere Plattform <a>Affiliateking.net</a> – nutze sie, um zusätzlich zu den Provisionen saftige Zusatzeinnahmen zu kassieren.<br /></strong></h3>
-<hr />
-<h4><br /><a href="https://affiliateking.net/" target="_blank" rel="noreferrer noopener"><strong>Hier direkt zur Partnerseite + Werbemittel - klick</strong></a></h4>
-<h4>Außerdem gibt es eine Rangliste mit Awards und weiteren Vorteilen.</h4>
-<h4><a href="https://affiliateking.net/wettbewerb" target="_blank" rel="noreferrer noopener"><strong>Hier die aktuelle Rangliste - klick</strong></a></h4>
-<h4>Eventuell stehst du schon drauf, ohne dass du es weißt – prüfe es also schnell ;-)</h4>
+**Vendor's marketplace description:** Unsere Plattform Affiliateking.net – nutze sie, um zusätzlich zu den Provisionen saftige Zusatzeinnahmen zu kassieren. Hier direkt zur Partnerseite + Werbemittel - klick Außerdem gibt es eine Rangliste mit Awards und weiteren Vorteilen. Hier die aktuelle Rangliste - klick Eventuell stehst du schon drauf, ohne dass du es weißt – prüfe es also schnell ;-)
 
 ## 2. Links
 

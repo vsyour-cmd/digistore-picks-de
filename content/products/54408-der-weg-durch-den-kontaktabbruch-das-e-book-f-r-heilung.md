@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses E-Book ist für alle, die lernen müssen, loszulassen, was sie liebt, aber verletzt.</p>
-<p><em>Der Weg durch den Kontaktabbruch</em> begleitet dich durch Schmerz, Schuldgefühle und Selbstzweifel – hin zu innerem Frieden, Klarheit und Würde.</p>
-<p> </p>
+**Vendor's marketplace description:** Dieses E-Book ist für alle, die lernen müssen, loszulassen, was sie liebt, aber verletzt. Der Weg durch den Kontaktabbruch begleitet dich durch Schmerz, Schuldgefühle und Selbstzweifel – hin zu innerem Frieden, Klarheit und Würde.
 
 ## 2. Links
 

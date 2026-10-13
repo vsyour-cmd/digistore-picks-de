@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2 style="text-align:center;"><span style="color:#0000ff;"><strong>Jetzt NEU!</strong></span></h2>
-<h2><strong>Einzigartiger Cookie Consent Manager bietet <span style="text-decoration:underline;">DIE</span> Lösung für das Dillema von Website-Betreibern:</strong></h2>
-<ul>
-<li>Einserseits möchte man so viel wie möglich Traffic auf der Webseite tracken</li>
-<li>Andererseits muss man den gesetzlichen Anforderungen (DSGVO und TTDSG) nachkommen</li>
-</ul>
-<p>Bisherige "Cookie Banner" blocken häufig den Traffic nicht, bevor der Nutzer seine Einwilligung gegeben hat (<strong>Gefahr von Abmahnungen</strong>), oder sie führen dazu, dass kaum noch Traffic getrackt werden darf.</p>
-<h3>Unsere Lösung setzt genau hier an:</h3>
-<p>Als Online-Marketing-Agentur ist es für uns essentiell, möglichst viele Daten über die Besucher unserer Kunden zu erhalten, damit wir deren Ads-Kampagnen optimal aussteuern können.<br />Herkömmliche Tools haben definitiv nicht funktioniert, daher haben wir schlussendlich unsere eigene Lösung inhouse entwickelt.</p>
-<h3>Unser Cookie Consent Manager ist mehr als nur ein "Banner" und hat folgende Features:</h3>
-<ul>
-<li>Wird von uns <strong>ständig 100%-ig DSGVO und TTDSG-konform</strong> gehalten. Der Kunde muss sich nicht mehr um dieses leidige Thema kümmern.</li>
-<li>Wir sorgen für ein <strong>höheres Volumen an "trackbaren" Traffic</strong> - extrem wichtig für jeden Werbetreibenden!</li>
-<li>Wir <strong>integrieren in alle Systeme</strong> und das Frontend (der eigentliche "Banner") <strong>wird an das CI</strong> des Kunden <strong>angepasst</strong>.</li>
-<li><strong>Statistiken</strong> zu Nutzerverhalten werden dem Kunden automatisch zugeschickt, damit er seine Werbekampagnen entsprechend aussteuern kann.</li>
-<li>Unaufdringliches, aber <strong>effizientes Affiliate-Marketing</strong> über den "Powered by..." Link im Banner</li>
-</ul>
-<h2>Neben 50% Affiliate-Provision bieten wir darüber hinaus 20% Empfehlungsprovision!</h2>
-<p><strong>Ideal für Webdesigner, Webagenturen und jeden Webseiten-Betreiber!</strong></p>
-<p> </p>
-<p><strong>Auf eine gute Zusammenarbeit!</strong></p>
-<p> </p>
-<div> </div>
-<div> </div>
+**Vendor's marketplace description:** Jetzt NEU! Einzigartiger Cookie Consent Manager bietet DIE Lösung für das Dillema von Website-Betreibern: Einserseits möchte man so viel wie möglich Traffic auf der Webseite tracken Andererseits muss man den gesetzlichen Anforderungen (DSGVO und TTDSG) nachkommen Bisherige "Cookie Banner" blocken häufig den Traffic nicht, bevor der Nutzer seine Einwilligung gegeben hat ( Gefahr von Abmahnungen ), oder sie führen dazu, dass kaum noch Traffic getrackt werden darf. Unsere Lösung setzt genau hier an: Als Online-Marketing-Agentur ist es für uns essentiell, möglichst viele Daten über die Besucher unserer Kunden zu erhalten, damit wir deren Ads-Kampagnen optimal aussteuern können. Herkömmliche Tools haben definitiv nicht funktioniert, daher haben wir schlussendlich unsere eigene Lösung inhouse entwickelt. Unser Cookie Consent Manager ist mehr als nur ein "Banner" und hat folgende Features: Wird von uns ständig 100%-ig DSGVO und TTDSG-konform gehalten. Der Kunde muss sich nicht mehr um dieses leidige Thema kümmern. Wir sorgen für ein höheres Volumen an "trackbaren" Traffic - extrem wichtig für jeden Werbetreibenden! Wir integrieren in alle Systeme und das Frontend (der eigentliche "Banner") wird an das CI des Kunden angepasst . Statistiken zu Nutzerverhalten werden dem Kunden automatisch zugeschickt, damit er seine Werbekampagnen entsprechend aussteuern kann. Unaufdringliches, aber effizientes Affiliate-Marketing über den "Powered by..." Link im Banner Neben 50% Affiliate-Provision bieten wir darüber hinaus 20% Empfehlungsprovision! Ideal für Webdesigner, Webagenturen und jeden Webseiten-Betreiber! Auf eine gute Zusammenarbeit!
 
 ## 2. Links
 

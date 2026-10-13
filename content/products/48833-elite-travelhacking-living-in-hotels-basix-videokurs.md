@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><br />Elite Travelhacking Living in Hotels Basix Videokurs</h2>
-<ul>
-<li>+ Für <strong>Urlauber &amp; Einsteiger</strong> in das Travelhacking</li>
-<li>+ Aufgenommen in über <strong>30 gehackten Suiten/Flügen/Lounges</strong></li>
-<li>+ Über <strong>5 Stunden</strong> Videolektionen</li>
-<li>+ Special: 1 Monat zusätzlich Elite Travelhacking Live Webinars, bei upgrade auf Living in Hotels Xtrem oder Deluxe. (momentaner <strong>Wert: 100€</strong>)<br /><br /></li>
-</ul>
-<h2>Lifetime Provision:</h2>
-<p>Das Einsteigerprodukt Living in Hotels BasiX dient hier als <strong>Lead-Magnet</strong> und richtet sich zusätzlich an Personen die weniger reisen (Urlauber und Einsteiger ins Travelhacking). Mit dem Rabattcode "BasiX_start" gibt es das Produkt beriets für günstige 49€ (zzgl. Mwst.) Dadurch lässt es sich leicht verkaufen.</p>
-<p>Mit dem Verkauf von Living in Hotels BasiX wird eine Lifetime Provision aktiv, wodurch Affiliates bei Upgrades zu den hochpreisigen Produkten zusätzlich Provision erhalten.<br /><br />Für den Living in Hotels BasiX Kurs vergeben wir <strong>30% Provision</strong>. Darauf folgt <strong>15% Provision</strong> auf alle weiteren Käufe nach dem BasiX Kurs.</p>
+**Vendor's marketplace description:** Elite Travelhacking Living in Hotels Basix Videokurs + Für Urlauber & Einsteiger in das Travelhacking + Aufgenommen in über 30 gehackten Suiten/Flügen/Lounges + Über 5 Stunden Videolektionen + Special: 1 Monat zusätzlich Elite Travelhacking Live Webinars, bei upgrade auf Living in Hotels Xtrem oder Deluxe. (momentaner Wert: 100€ ) Lifetime Provision: Das Einsteigerprodukt Living in Hotels BasiX dient hier als Lead-Magnet und richtet sich zusätzlich an Personen die weniger reisen (Urlauber und Einsteiger ins Travelhacking). Mit dem Rabattcode "BasiX_start" gibt es das Produkt beriets für günstige 49€ (zzgl. Mwst.) Dadurch lässt es sich leicht verkaufen. Mit dem Verkauf von Living in Hotels BasiX wird eine Lifetime Provision aktiv, wodurch Affiliates bei Upgrades zu den hochpreisigen Produkten zusätzlich Provision erhalten. Für den Living in Hotels BasiX Kurs vergeben wir 30% Provision . Darauf folgt 15% Provision auf alle weiteren Käufe nach dem BasiX Kurs.
 
 ## 2. Links
 

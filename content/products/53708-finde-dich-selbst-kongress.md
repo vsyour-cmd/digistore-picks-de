@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Vielleicht ist jetzt genau der richtige Moment...</p>
-<p><span>..um innezuhalten und dich wieder mit dir selbst zu verbinden.<br />Beim </span><strong><span><em>Finde-dich-selbst-Kongress</em></span></strong><span> darf genau das geschehen: Ankommen, zuhören, verstehen und spüren.<br />Vom </span><strong><span>7.9.25 -</span></strong> <strong><span>12.9.25</span></strong><span> findet dieser Online Kongress statt, bei dem die Speaker ihre Erfahrungen, Impulse und Herzensthemen teilen.</span></p>
-<p><strong>Was dich beim Kongress erwartet:</strong></p>
-<ul>
-<li>
-<p><span>ehrliche Impulse rund um die Themen Selbstfindung, (Selbst-)Erkenntnis &amp; in Verbindung kommen</span></p>
-</li>
-<li>
-<p><span>Inspirationen zum Loslassen und zum Klarwerden</span></p>
-</li>
-<li>
-<p><span>Raum für neue Perspektiven, Erkenntnisse und echte Veränderung</span></p>
-</li>
-</ul>
-<p><strong>Sei gerne dabei!</strong></p>
-<p><span>Wenn du das Gefühl hast, dass es Zeit ist, dein Leben wieder mehr im </span><em><span>Hier und Jetzt</span></em><span>, im Einklang mit deinen </span><em><span>Bedürfnissen</span></em><span> und mit mehr </span><em><span>Bewusstsein</span></em><span> für dich und </span><em><span>dein Leben genießen</span></em><span> zu können – </span><strong><span>melde dich kostenlos an</span></strong><span> auf:</span></p>
-<p><span><br /><a>www.finde-dich-selbst-kongress.com</a></span></p>
-<p> </p>
-<p><span>Ich freue mich, wenn du dabei bist!</span></p>
+**Vendor's marketplace description:** Vielleicht ist jetzt genau der richtige Moment... ..um innezuhalten und dich wieder mit dir selbst zu verbinden. Beim Finde-dich-selbst-Kongress darf genau das geschehen: Ankommen, zuhören, verstehen und spüren. Vom 7.9.25 - 12.9.25 findet dieser Online Kongress statt, bei dem die Speaker ihre Erfahrungen, Impulse und Herzensthemen teilen. Was dich beim Kongress erwartet: ehrliche Impulse rund um die Themen Selbstfindung, (Selbst-)Erkenntnis & in Verbindung kommen Inspirationen zum Loslassen und zum Klarwerden Raum für neue Perspektiven, Erkenntnisse und echte Veränderung Sei gerne dabei! Wenn du das Gefühl hast, dass es Zeit ist, dein Leben wieder mehr im Hier und Jetzt , im Einklang mit deinen Bedürfnissen und mit mehr Bewusstsein für dich und dein Leben genießen zu können – melde dich kostenlos an auf: www.finde-dich-selbst-kongress.com Ich freue mich, wenn du dabei bist!
 
 ## 2. Links
 

@@ -41,35 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Praxiserprobte Verdienstideen mit null oder ganz wenig Startkapital, die nebenberuflich gestartet werden können und die wirklich etwas einbringen.</p>
-<p>Die besten Konzepte werden ausführlich erläutert:</p>
-<ul>
-<li>Das Problem</li>
-<li>Die Lösung</li>
-<li>Der Markt</li>
-<li>Die Voraussetzungen</li>
-<li>Die Ausstattung</li>
-<li>Das Startkapital</li>
-<li>Der Start</li>
-<li>Die Werbung</li>
-<li>Die Erweiterungsmöglichkeiten</li>
-<li>Der Verdienst</li>
-<li>Die Konkurrenz</li>
-<li>Gesetzliche Bestimmungen</li>
-<li>Hilfreiche Adressen</li>
-</ul>
-<p>Die erfolgreichsten Gründer haben nachweislich daraus schon Hauptberufe gemacht!</p>
-<p> </p>
-<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
-<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
-<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<span style="color:#cc99ff;"><strong><span style="color:#000000;">J</span>eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</strong></span>“.</p>
-<p>2 einfache Schritte:</p>
-<ol>
-<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html</a></span> (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge")</li>
-<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
-</ol>
-<p> </p>
-<p><em><strong> </strong></em></p>
+**Vendor's marketplace description:** Praxiserprobte Verdienstideen mit null oder ganz wenig Startkapital, die nebenberuflich gestartet werden können und die wirklich etwas einbringen. Die besten Konzepte werden ausführlich erläutert: Das Problem Die Lösung Der Markt Die Voraussetzungen Die Ausstattung Das Startkapital Der Start Die Werbung Die Erweiterungsmöglichkeiten Der Verdienst Die Konkurrenz Gesetzliche Bestimmungen Hilfreiche Adressen Die erfolgreichsten Gründer haben nachweislich daraus schon Hauptberufe gemacht! Möchten Sie ein Ansichtsexemplar? Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz. Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „ J eden T ag R ei*cher “. 2 einfache Schritte: JTR gratis bestellen auf https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge") Email mit Ihrem Ebook-Wunsch an service@big-benn-books.com
 
 ## 2. Links
 

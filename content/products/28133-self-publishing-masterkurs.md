@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Vermarkte den Self Publishing Masterkurs! Du bekommst dafür <strong>50% Provision</strong>!</p>
-<p>Und für alle weiteren Upsells gibt es ebenfalls Provision!</p>
-<p>Für dieses Produkt bekommst du 37,19 € Provision.</p>
-<p><strong>Du kannst derzeit bis zu 182,70 Euro (alles Einmalzahlung oder 205,54 € bei monatlicher Zahlung) pro Sale verdienen im gesamten Funnel!!</strong></p>
-<p>Das spricht für den Kurs:</p>
-<ul><li>Schritt für Schritt vom Anfänger bis zum ersten eBook, Taschenbuch und Hörbuch (upsell)</li>
-<li>Zeigt den Teilnehmern alle Schritte von der Nischenanalyse über Ghostwriter finden, Covererstellung und Marketing</li>
-<li>Profi Marketing Strategien (Upsell)</li>
-<li>ständig NEUE Inhalte</li>
-<li>Über <strong>5 Stunden Videomaterial</strong> + <strong>2 Stunden</strong> Mindset Kurs = 7 Stunden Content!</li>
-<li>Theorie &amp; Praxis!</li>
-<li>Checklisten, Vorlagen, Templates, etc.! All-In-One Package!</li>
-<li>ständige Updates vom Kurs</li>
-<li>VIP Support</li>
-<li>Prüfungsmöglchkeit am Ende des Kurses mit Teilnahmebestätigung und Qualifikation</li>
-</ul><p>Profitiere somit auch du von dem Trend des Self Publishings und des einfachen Einstiegs!</p>
+**Vendor's marketplace description:** Vermarkte den Self Publishing Masterkurs! Du bekommst dafür 50% Provision ! Und für alle weiteren Upsells gibt es ebenfalls Provision! Für dieses Produkt bekommst du 37,19 € Provision. Du kannst derzeit bis zu 182,70 Euro (alles Einmalzahlung oder 205,54 € bei monatlicher Zahlung) pro Sale verdienen im gesamten Funnel!! Das spricht für den Kurs: Schritt für Schritt vom Anfänger bis zum ersten eBook, Taschenbuch und Hörbuch (upsell) Zeigt den Teilnehmern alle Schritte von der Nischenanalyse über Ghostwriter finden, Covererstellung und Marketing Profi Marketing Strategien (Upsell) ständig NEUE Inhalte Über 5 Stunden Videomaterial + 2 Stunden Mindset Kurs = 7 Stunden Content! Theorie & Praxis! Checklisten, Vorlagen, Templates, etc.! All-In-One Package! ständige Updates vom Kurs VIP Support Prüfungsmöglchkeit am Ende des Kurses mit Teilnahmebestätigung und Qualifikation Profitiere somit auch du von dem Trend des Self Publishings und des einfachen Einstiegs!
 
 ## 2. Links
 

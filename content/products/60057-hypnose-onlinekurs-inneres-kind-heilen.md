@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit diesem Hypnose-Onlinekurs hast Du die Möglichkeit zurück in Deine Vergangenheit zu reisen und Dein Inneres Kind zu heilen. Du trauerst und versöhnst Dich mit Deinem Inneren Kind und kannst mit diesem unverarbeiteten Anteil in Dir Frieden schließen. Damit kannst Du Dich dabei unterstützen, Dein Leben und Deine Beziehungen positiv und ohne Altlasten aus Deiner Kindheit zu gestalten.</p>
-<p>Kursinhalt</p>
-<ul>
-<li>Video Lektion Inneres Kind heilen</li>
-<li>Info-Video für die richtige Hypnoseanwendung</li>
-<li>Hypnose 1: Mit dem Inneren Kind trauern</li>
-<li>Hypnose 2: Versöhnung mit dem Inneren Kind</li>
-</ul>
-<p>Der Kurs enthält insgesamt 3 Videolektionen mit einer speziellen körpertherapeutischen Hypnose.</p>
-<p>Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.</p>
+**Vendor's marketplace description:** Mit diesem Hypnose-Onlinekurs hast Du die Möglichkeit zurück in Deine Vergangenheit zu reisen und Dein Inneres Kind zu heilen. Du trauerst und versöhnst Dich mit Deinem Inneren Kind und kannst mit diesem unverarbeiteten Anteil in Dir Frieden schließen. Damit kannst Du Dich dabei unterstützen, Dein Leben und Deine Beziehungen positiv und ohne Altlasten aus Deiner Kindheit zu gestalten. Kursinhalt Video Lektion Inneres Kind heilen Info-Video für die richtige Hypnoseanwendung Hypnose 1: Mit dem Inneren Kind trauern Hypnose 2: Versöhnung mit dem Inneren Kind Der Kurs enthält insgesamt 3 Videolektionen mit einer speziellen körpertherapeutischen Hypnose. Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2 style="text-align:center;"><strong>⚡ Verdiene bis zu 100€ pro Verkauf!! ⚡</strong></h2>
-<p>Wir zahlen 75% auf alle Front-End Verkäufe und 50% auf Back-End Sales. Unser hochwertiges Front-End-Produkt kostet 49€+ monatl. Abos (39.99€).</p>
-<p>Dieser VSL verkauft mit einer Conversion Rate von 1-2% auf kaltem Traffic, und 6-20% auf warmem Traffic.</p>
-<p>Dieses Produkt bietet die höchste Kommission im Digistore-Marktplatz!</p>
-<p>Kontaktperson für Affiliate-Support (Banner, Logos, Email-Swipes): dennismichels365@gmail.com</p>
+**Vendor's marketplace description:** ⚡ Verdiene bis zu 100€ pro Verkauf!! ⚡ Wir zahlen 75% auf alle Front-End Verkäufe und 50% auf Back-End Sales. Unser hochwertiges Front-End-Produkt kostet 49€+ monatl. Abos (39.99€). Dieser VSL verkauft mit einer Conversion Rate von 1-2% auf kaltem Traffic, und 6-20% auf warmem Traffic. Dieses Produkt bietet die höchste Kommission im Digistore-Marktplatz! Kontaktperson für Affiliate-Support (Banner, Logos, Email-Swipes): dennismichels365@gmail.com
 
 ## 2. Links
 

@@ -41,33 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>Der <strong>AI Product System Funnel</strong> ist ein vollständig aufgebauter Verkaufsfunnel für Affiliates, die ein <strong>hochaktuelles Thema mit klarer Zahlungsbereitschaft</strong> vermarkten wollen: KI-Produkte erstellen und monetarisieren – ohne Technik, ohne Vorwissen.</p>
-<p>Der Funnel startet mit einem kostenlosen Einstieg, der Vertrauen aufbaut und die Kaufentscheidung vorbereitet. Dadurch entsteht eine niedrige Einstiegshürde und eine deutlich höhere Abschlussquote im Hauptangebot.</p>
-<p>Der Umsatztreiber ist die <strong>AI Product System Masterclass</strong> für 37 €. Affiliates erhalten <strong>50 % Provision pro Verkauf (18,50 €)</strong>. Das Produkt liefert ein klares System: von der Idee über den strukturierten Aufbau eines GPT-Produkts bis hin zu Positionierung, Launch und Skalierung. Praxisorientiert, ohne Theorieballast.</p>
-<p>Ergänzt wird das Angebot durch zwei Addons mit ebenfalls <strong>50 % Provision</strong>: ein E-Book (12,90 € → 6,45 € Provision) und ein Success Toolkit (17,90 € → 8,95 € Provision). Beide sind logisch in den Funnel integriert und erhöhen den durchschnittlichen Warenkorb spürbar.</p>
-<p>Die Zielgruppe ist klar definiert und leicht erreichbar: Coaches, Berater, Experten und Unternehmer, die ihr Wissen monetarisieren wollen, sowie Einsteiger ohne technische Kenntnisse, die KI als Einnahmequelle nutzen möchten.</p>
-<p>Ein realistisches Szenario: 1.000 Besucher, 5 % Conversion auf die Masterclass ergeben 50 Verkäufe und <strong>925 € Provision</strong>. Durch Addons entstehen zusätzliche Einnahmen von rund <strong>186 €</strong>. Gesamtpotenzial: <strong>über 1.100 € Provision</strong> pro 1.000 Besucher.</p>
-<p>Für Affiliates bedeutet das: ein fertiger Funnel, fairer Preis, hohe Conversion, <strong>50 % Provision auf alle Umsätze</strong> und sofortiger Start ohne eigenen Produkt- oder Supportaufwand.</p>
-<p>Sichere Zahlung. Klare Struktur. Direkt einsetzbar.<br />Du lieferst Traffic – der Funnel macht Umsatz.</p>
-</div>
-</div>
-</div>
-</div>
-<div> </div>
-<div>
-<div> </div>
-</div>
-</div>
-</div>
-</div>
-<div> </div>
+**Vendor's marketplace description:** Der AI Product System Funnel ist ein vollständig aufgebauter Verkaufsfunnel für Affiliates, die ein hochaktuelles Thema mit klarer Zahlungsbereitschaft vermarkten wollen: KI-Produkte erstellen und monetarisieren – ohne Technik, ohne Vorwissen. Der Funnel startet mit einem kostenlosen Einstieg, der Vertrauen aufbaut und die Kaufentscheidung vorbereitet. Dadurch entsteht eine niedrige Einstiegshürde und eine deutlich höhere Abschlussquote im Hauptangebot. Der Umsatztreiber ist die AI Product System Masterclass für 37 €. Affiliates erhalten 50 % Provision pro Verkauf (18,50 €) . Das Produkt liefert ein klares System: von der Idee über den strukturierten Aufbau eines GPT-Produkts bis hin zu Positionierung, Launch und Skalierung. Praxisorientiert, ohne Theorieballast. Ergänzt wird das Angebot durch zwei Addons mit ebenfalls 50 % Provision : ein E-Book (12,90 € → 6,45 € Provision) und ein Success Toolkit (17,90 € → 8,95 € Provision). Beide sind logisch in den Funnel integriert und erhöhen den durchschnittlichen Warenkorb spürbar. Die Zielgruppe ist klar definiert und leicht erreichbar: Coaches, Berater, Experten und Unternehmer, die ihr Wissen monetarisieren wollen, sowie Einsteiger ohne technische Kenntnisse, die KI als Einnahmequelle nutzen möchten. Ein realistisches Szenario: 1.000 Besucher, 5 % Conversion auf die Masterclass ergeben 50 Verkäufe und 925 € Provision . Durch Addons entstehen zusätzliche Einnahmen von rund 186 € . Gesamtpotenzial: über 1.100 € Provision pro 1.000 Besucher. Für Affiliates bedeutet das: ein fertiger Funnel, fairer Preis, hohe Conversion, 50 % Provision auf alle Umsätze und sofortiger Start ohne eigenen Produkt- oder Supportaufwand. Sichere Zahlung. Klare Struktur. Direkt einsetzbar. Du lieferst Traffic – der Funnel macht Umsatz.
 
 ## 2. Links
 

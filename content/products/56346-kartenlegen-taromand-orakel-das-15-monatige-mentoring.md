@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Sie suchen ein hochwertiges High-Ticket-Produkt im spirituellen Bereich?</h3>
-<p>Das <strong>Taromand-Orakel</strong> ist ein fundiertes, <strong>15-monatiges Mentoring-Programm</strong>, das Teilnehmer intensiv begleitet und auf die professionelle Arbeit mit den Karten vorbereitet.</p>
-<p> </p>
-<h3><strong>Ihre Vorteile als Partner:</strong></h3>
-<p> </p>
-<h4><strong>Top-Provision:</strong></h4>
-<p>Sie erhalten eine attraktive Provision von <strong>300 € pro Abschluss</strong>.</p>
-<p> </p>
-<h4><strong>Exklusives Konzept:</strong></h4>
-<p>von der bekannten Kartenlegerin &amp; Autorin Akasha (Nicole Menth). Ein tiefgreifendes Mentoring, das Intuition und Beratungspraxis vereint.</p>
-<p> </p>
-<h4><strong>Nachhaltigkeit:</strong></h4>
-<p>Ein langfristig angelegtes Programm, das durch Qualität und eine persönliche Betreuung überzeugt.</p>
-<p> </p>
-<h4><strong>Teilnahmebestätigung:</strong></h4>
-<p>Alle Teilnehmer erhalten nach erfolgreichem Durchlaufen des Mentorings einen entsprechenden Nachweis über ihre Teilnahme.</p>
+**Vendor's marketplace description:** Sie suchen ein hochwertiges High-Ticket-Produkt im spirituellen Bereich? Das Taromand-Orakel ist ein fundiertes, 15-monatiges Mentoring-Programm , das Teilnehmer intensiv begleitet und auf die professionelle Arbeit mit den Karten vorbereitet. Ihre Vorteile als Partner: Top-Provision: Sie erhalten eine attraktive Provision von 300 € pro Abschluss . Exklusives Konzept: von der bekannten Kartenlegerin & Autorin Akasha (Nicole Menth). Ein tiefgreifendes Mentoring, das Intuition und Beratungspraxis vereint. Nachhaltigkeit: Ein langfristig angelegtes Programm, das durch Qualität und eine persönliche Betreuung überzeugt. Teilnahmebestätigung: Alle Teilnehmer erhalten nach erfolgreichem Durchlaufen des Mentorings einen entsprechenden Nachweis über ihre Teilnahme.
 
 ## 2. Links
 

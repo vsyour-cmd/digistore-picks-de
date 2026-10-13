@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Individuelles Mentoring – 3 Monate intensive finanzielle Begleitung</h2>
-<p>Du brauchst Klarheit zu Deiner <strong>Witwenrente</strong>, Einkommensanrechnung oder <strong>finanziellen Zukunft</strong>? In diesem persönlichen 1:1Intensiv Mentoring klären wir in drei Monaten Deine individuelle Situation – verständlich, strukturiert und lösungsorientiert.</p>
-<p>Wenn du <strong>unsicher bist</strong> und keine falschen Entscheidungen treffen möchtest, ist dieses Mentoring <strong>genau für dich gedacht. </strong>Ich begleite dich in deiner schwierigen Lebenssituation und lasse dich finanziell nicht alleine.</p>
-<h2>Individuelles Mentoring intensiv</h2>
-<p>In diesem Mentoring begleite ich dich intensiv über einen Zeitraum von <strong>drei Monaten</strong> bei deiner persönlichen Situation.</p>
-<p><strong>Das ist enthalten:</strong></p>
-<ul>
-<li>Drei individuelle 1:1 Sessions (je ca. 60 Minuten)</li>
-<li>persönliche Begleitung über einen Zeitraum von Monaten</li>
-<li>Ein Videokurs aus meinem Angebot zum Selbstlernen</li>
-<li><strong>Bonus:</strong> Inklusive <a><strong>Excel-Berechnungshilfe</strong></a> mit Lifehack im Wert von <strong>79 €!</strong></li>
-</ul>
-<p><strong>Zwischen den Terminen:</strong></p>
-<p>Du hast die Möglichkeit, <strong>mir Fragen per E-Mail oder Sprachnachricht</strong> zu stellen. Ich antworte dir gesammelt und strukturiert – in der Regel innerhalb weniger Tage.</p>
-<p>So hast du auch zwischen den Terminen Klarheit, ohne dass du alleine weitermachen musst. Viele Fragen lassen sich auch gut in den nächsten Termin mitnehmen – wir strukturieren das gemeinsam.</p>
-<p>Die Gespräche finden online <strong>per Zoom oder Teams</strong> statt. Die Termine vereinbaren wir ganz individuell nach Deinem Bedarf.</p>
-<h3>Im Mentoring geht es intensiv um Dich!</h3>
-<p><strong>Leistungen im Gesamtwert von 686 €<br />Deine Investition: 600 €<br /></strong>(3 bequeme Raten à 220 € möglich)</p>
-<p><strong>Bonus:</strong> Inklusive <a><strong>Excel-Berechnungshilfe</strong></a><strong> </strong>mit Lifehack im Wert von <strong>79 €!</strong></p>
-<p> </p>
+**Vendor's marketplace description:** Individuelles Mentoring – 3 Monate intensive finanzielle Begleitung Du brauchst Klarheit zu Deiner Witwenrente , Einkommensanrechnung oder finanziellen Zukunft ? In diesem persönlichen 1:1Intensiv Mentoring klären wir in drei Monaten Deine individuelle Situation – verständlich, strukturiert und lösungsorientiert. Wenn du unsicher bist und keine falschen Entscheidungen treffen möchtest, ist dieses Mentoring genau für dich gedacht. Ich begleite dich in deiner schwierigen Lebenssituation und lasse dich finanziell nicht alleine. Individuelles Mentoring intensiv In diesem Mentoring begleite ich dich intensiv über einen Zeitraum von drei Monaten bei deiner persönlichen Situation. Das ist enthalten: Drei individuelle 1:1 Sessions (je ca. 60 Minuten) persönliche Begleitung über einen Zeitraum von Monaten Ein Videokurs aus meinem Angebot zum Selbstlernen Bonus: Inklusive Excel-Berechnungshilfe mit Lifehack im Wert von 79 €! Zwischen den Terminen: Du hast die Möglichkeit, mir Fragen per E-Mail oder Sprachnachricht zu stellen. Ich antworte dir gesammelt und strukturiert – in der Regel innerhalb weniger Tage. So hast du auch zwischen den Terminen Klarheit, ohne dass du alleine weitermachen musst. Viele Fragen lassen sich auch gut in den nächsten Termin mitnehmen – wir strukturieren das gemeinsam. Die Gespräche finden online per Zoom oder Teams statt. Die Termine vereinbaren wir ganz individuell nach Deinem Bedarf. Im Mentoring geht es intensiv um Dich! Leistungen im Gesamtwert von 686 € Deine Investition: 600 € (3 bequeme Raten à 220 € möglich) Bonus: Inklusive Excel-Berechnungshilfe mit Lifehack im Wert von 79 €!
 
 ## 2. Links
 

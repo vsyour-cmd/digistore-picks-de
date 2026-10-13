@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Leben ohne festen Wohnsitz“</strong></p>
-<p>Der Guide für Weltenbummler, digitale Nomaden und freiheitsliebende Unternehmer – Kein Mietvertrag, keine festen Wände, maximale Freiheit – aber wie funktioniert das wirklich? Dieser Guide zeigt dir Schritt für Schritt, wie du dich abmeldest, Post und Behörden organisierst, versichert bleibst und langfristig ortsunabhängig lebst.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 18,50 € pro Verkauf (Verkaufspreis 37,00 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Der Traum vom freien Leben – und was wirklich dahintersteckt</li>
-<li>Abmeldung in Deutschland: ohne festen Wohnsitz leben</li>
-<li>Post, Behörden und Bürokratie ortsunabhängig organisieren</li>
-<li>Krankenversicherung, Steuern und rechtliche Grundlagen</li>
-<li>Geld verdienen von überall: ortsunabhängige Einkommen</li>
-<li>Dein Leben im Rucksack: Equipment, Reiseziele und Alltag</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Leben ohne festen Wohnsitz“ Der Guide für Weltenbummler, digitale Nomaden und freiheitsliebende Unternehmer – Kein Mietvertrag, keine festen Wände, maximale Freiheit – aber wie funktioniert das wirklich? Dieser Guide zeigt dir Schritt für Schritt, wie du dich abmeldest, Post und Behörden organisierst, versichert bleibst und langfristig ortsunabhängig lebst. Warum dieses E-Book bewerben? 50 % Provision – ca. 18,50 € pro Verkauf (Verkaufspreis 37,00 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Der Traum vom freien Leben – und was wirklich dahintersteckt Abmeldung in Deutschland: ohne festen Wohnsitz leben Post, Behörden und Bürokratie ortsunabhängig organisieren Krankenversicherung, Steuern und rechtliche Grundlagen Geld verdienen von überall: ortsunabhängige Einkommen Dein Leben im Rucksack: Equipment, Reiseziele und Alltag
 
 ## 2. Links
 

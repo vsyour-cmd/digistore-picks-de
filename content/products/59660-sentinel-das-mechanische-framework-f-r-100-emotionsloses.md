@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Schluss mit emotionalem Kapitalverlust.</strong> Über 90 % aller Trader scheitern nicht an den Märkten, sondern an ihrem eigenen Ego – Rache-Trades, FOMO und mangelnde Disziplin verbrennen täglich Konten.</p>
-<p><strong>Sentinel</strong> ist kein oberflächliches Chart-Gedöns, sondern ein radikal mechanisches System, das menschliche Willkür komplett eliminiert. Es zwingt den Trader zu eiserner, fehlerfreier Ausführung.</p>
-<p><strong>Die harten Fakten des Systems:</strong></p>
-<ul>
-<li>
-<p><strong>100 % Mechanik statt Bauchgefühl:</strong> Schaltet emotionale Fehlentscheidungen und impulsive Eingriffe konsequent ab.</p>
-</li>
-<li>
-<p><strong>Kompromissloser Kontosschutz:</strong> Striktes, regelbasiertes Risikomanagement, das Totalverluste verhindert.</p>
-</li>
-<li>
-<p><strong>Maximale Performance:</strong> Entwickelt für Trader, die langfristig und konsistent wie eine Maschine agieren wollen.</p>
-</li>
-</ul>
-<p><em>Schalte das Ego aus, implementiere eiserne Disziplin und skaliere deine Ergebnisse.</em></p>
+**Vendor's marketplace description:** Schluss mit emotionalem Kapitalverlust. Über 90 % aller Trader scheitern nicht an den Märkten, sondern an ihrem eigenen Ego – Rache-Trades, FOMO und mangelnde Disziplin verbrennen täglich Konten. Sentinel ist kein oberflächliches Chart-Gedöns, sondern ein radikal mechanisches System, das menschliche Willkür komplett eliminiert. Es zwingt den Trader zu eiserner, fehlerfreier Ausführung. Die harten Fakten des Systems: 100 % Mechanik statt Bauchgefühl: Schaltet emotionale Fehlentscheidungen und impulsive Eingriffe konsequent ab. Kompromissloser Kontosschutz: Striktes, regelbasiertes Risikomanagement, das Totalverluste verhindert. Maximale Performance: Entwickelt für Trader, die langfristig und konsistent wie eine Maschine agieren wollen. Schalte das Ego aus, implementiere eiserne Disziplin und skaliere deine Ergebnisse.
 
 ## 2. Links
 

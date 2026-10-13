@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Werkstatt-Performance Tool ist ein Excel-basiertes Controlling- und Planungswerkzeug speziell für Fahrradfachbetriebe mit eigener Werkstatt.</p>
-<p>Es unterstützt Betriebe dabei, Personalkosten, produktive Kapazität, Arbeitsumsatz, Teileumsatz und Jahresplanung strukturiert zusammenzuführen und wirtschaftlich auszuwerten.</p>
-<p>Käufer erhalten eine sofort einsetzbare Excel-Datei sowie eine ausgefüllte Musterdatei zur Orientierung.</p>
-<p><strong>Verkaufspreis:</strong> 59 € einmalig<br /><strong>Kein Abo</strong></p>
-<p><strong>Zielgruppe:</strong><br />Fahrradfachhändler und etablierte Fahrradbetriebe mit eigener Werkstatt, die ihre Werkstatt wirtschaftlich steuern und Kennzahlen wie Kosten, Kapazität, Leistung und Umsatz besser beurteilen möchten.</p>
-<p><strong>Für Affiliates interessant:</strong><br />Das Produkt adressiert ein klar abgegrenztes B2B-Problem innerhalb der Fahrradbranche. Es eignet sich insbesondere für Partner mit Reichweite bei Fahrradhändlern, Werkstattinhabern, Geschäftsführern und Entscheidern im Fahrradfachhandel.</p>
-<p>Die Verkaufsseite erklärt Einsatzbereich, Funktionsumfang und Zielgruppe ausführlich. Der Kauf und die digitale Auslieferung erfolgen vollständig über Digistore24.</p>
+**Vendor's marketplace description:** Das Werkstatt-Performance Tool ist ein Excel-basiertes Controlling- und Planungswerkzeug speziell für Fahrradfachbetriebe mit eigener Werkstatt. Es unterstützt Betriebe dabei, Personalkosten, produktive Kapazität, Arbeitsumsatz, Teileumsatz und Jahresplanung strukturiert zusammenzuführen und wirtschaftlich auszuwerten. Käufer erhalten eine sofort einsetzbare Excel-Datei sowie eine ausgefüllte Musterdatei zur Orientierung. Verkaufspreis: 59 € einmalig Kein Abo Zielgruppe: Fahrradfachhändler und etablierte Fahrradbetriebe mit eigener Werkstatt, die ihre Werkstatt wirtschaftlich steuern und Kennzahlen wie Kosten, Kapazität, Leistung und Umsatz besser beurteilen möchten. Für Affiliates interessant: Das Produkt adressiert ein klar abgegrenztes B2B-Problem innerhalb der Fahrradbranche. Es eignet sich insbesondere für Partner mit Reichweite bei Fahrradhändlern, Werkstattinhabern, Geschäftsführern und Entscheidern im Fahrradfachhandel. Die Verkaufsseite erklärt Einsatzbereich, Funktionsumfang und Zielgruppe ausführlich. Der Kauf und die digitale Auslieferung erfolgen vollständig über Digistore24.
 
 ## 2. Links
 

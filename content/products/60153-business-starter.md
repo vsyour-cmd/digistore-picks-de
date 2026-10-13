@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><strong>Sichere dir jetzt deinen Zugang zum Online-Kurs: „Starte dein Online-Business</strong></h1>
-<h3>Zugang zu allen<strong> Kursmodulen:</strong></h3>
-<ul>
-<li><strong>Affiliate Business</strong></li>
-<li><strong>Landingpage erstellen</strong></li>
-<li><strong>Eigene Community erstellen</strong></li>
-<li><strong>Youtube Musik-Business mit KI</strong></li>
-<li><strong>Webseite erstellen</strong></li>
-<li><strong>Webseite mit Hilfe von KI erstellen</strong></li>
-<li><strong>Seo - Suchmaschinenoptimierung</strong></li>
-</ul>
-<p>Zugang zur Kursplattform</p>
-<p>Sofortiger Start nach der Zahlung</p>
-<p>100 % online &amp; jederzeit verfügbar</p>
-<p> </p>
-<p><strong>Starte jetzt mit deinem eigenem Online Business durch!</strong></p>
+**Vendor's marketplace description:** Sichere dir jetzt deinen Zugang zum Online-Kurs: „Starte dein Online-Business Zugang zu allen Kursmodulen: Affiliate Business Landingpage erstellen Eigene Community erstellen Youtube Musik-Business mit KI Webseite erstellen Webseite mit Hilfe von KI erstellen Seo - Suchmaschinenoptimierung Zugang zur Kursplattform Sofortiger Start nach der Zahlung 100 % online & jederzeit verfügbar Starte jetzt mit deinem eigenem Online Business durch!
 
 ## 2. Links
 

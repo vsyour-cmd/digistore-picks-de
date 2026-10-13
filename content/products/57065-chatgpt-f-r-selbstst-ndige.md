@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „ChatGPT für Selbstständige"</strong></p>
-<p>ChatGPT als echter Helfer im Geschäftsalltag: Zeit sparen, bessere Texte schreiben, sichtbarer werden und Kunden schneller betreuen – praxisnah erklärt für Selbstständige, ganz ohne Hype.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema: KI, Online-Business &amp; Geld verdienen</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>ChatGPT realistisch einschätzen: Stärken und Grenzen</li>
-<li>Zeitfresser im Alltag finden und gezielt abgeben</li>
-<li>Bessere Angebote, E-Mails und Website-Texte schreiben</li>
-<li>Mit KI sichtbarer werden – Marketing und Social Media</li>
-<li>Ein persönliches KI-Arbeitssystem aufbauen</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Menschen, die mit KI und Online-Business ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „ChatGPT für Selbstständige" ChatGPT als echter Helfer im Geschäftsalltag: Zeit sparen, bessere Texte schreiben, sichtbarer werden und Kunden schneller betreuen – praxisnah erklärt für Selbstständige, ganz ohne Hype. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema: KI, Online-Business & Geld verdienen Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: ChatGPT realistisch einschätzen: Stärken und Grenzen Zeitfresser im Alltag finden und gezielt abgeben Bessere Angebote, E-Mails und Website-Texte schreiben Mit KI sichtbarer werden – Marketing und Social Media Ein persönliches KI-Arbeitssystem aufbauen Für deine Zielgruppe: Menschen, die mit KI und Online-Business ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

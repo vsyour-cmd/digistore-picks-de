@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ich dachte, es ist nur Stress.</p>
-<p>Bis sein Körper komplett aufgegeben hat.</p>
-<p>Nach einem Herzinfarkt wurde klar:<br />Es war nie nur Überlastung.</p>
-<p>Es war ein System, das ihn langsam zerstört hat.</p>
-<p>Dieses E-Book zeigt dir,<br />warum dein Körper plötzlich gegen dich arbeitet<br />– und wie du ihn wieder unter Kontrolle bekommst.</p>
-<p>Kein Gerede.<br />Ein klarer Plan.</p>
-<p>Du bekommst:</p>
-<p>– Einen strukturierten Trainingsplan (Kraft &amp; Cardio pro Woche) <br />– Die größten Fehler, die dich trotz Training ausbrennen <br />– Konkrete Strategien für stabile Energie im Alltag <br />– Wie du deinen Blutzucker (inkl. Langzeitblutzucker) wieder in den Griff bekommst <br />– Wie du dein Cholesterin nachhaltig verbesserst <br />– Welche Nahrungsergänzungsmittel wirklich Sinn machen <br />– Wie Hormone deinen Zustand beeinflussen <br />– Einblick in die Umsetzung mit Hormonersatztherapie (TRT)</p>
-<p>Das ist kein Motivationsbuch.</p>
-<p>Das ist ein System,<br />mit dem du deinen Körper wieder verstehst,<br />deine Werte verbesserst<br />und Schritt für Schritt zurück zu Energie kommst.</p>
-<p>Zielgruppe:<br />Menschen mit Stress, Erschöpfung, Energieverlust und körperlichem Zusammenbruch</p>
-<p>Preis: 19 €<br />Provision: 40 %</p>
+**Vendor's marketplace description:** Ich dachte, es ist nur Stress. Bis sein Körper komplett aufgegeben hat. Nach einem Herzinfarkt wurde klar: Es war nie nur Überlastung. Es war ein System, das ihn langsam zerstört hat. Dieses E-Book zeigt dir, warum dein Körper plötzlich gegen dich arbeitet – und wie du ihn wieder unter Kontrolle bekommst. Kein Gerede. Ein klarer Plan. Du bekommst: – Einen strukturierten Trainingsplan (Kraft & Cardio pro Woche) – Die größten Fehler, die dich trotz Training ausbrennen – Konkrete Strategien für stabile Energie im Alltag – Wie du deinen Blutzucker (inkl. Langzeitblutzucker) wieder in den Griff bekommst – Wie du dein Cholesterin nachhaltig verbesserst – Welche Nahrungsergänzungsmittel wirklich Sinn machen – Wie Hormone deinen Zustand beeinflussen – Einblick in die Umsetzung mit Hormonersatztherapie (TRT) Das ist kein Motivationsbuch. Das ist ein System, mit dem du deinen Körper wieder verstehst, deine Werte verbesserst und Schritt für Schritt zurück zu Energie kommst. Zielgruppe: Menschen mit Stress, Erschöpfung, Energieverlust und körperlichem Zusammenbruch Preis: 19 € Provision: 40 %
 
 ## 2. Links
 

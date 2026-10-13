@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>[Neu] Ayurveda-Verdauungstypen-Test inkl. E-Book</strong></p>
-<p>24 Seiten achtsamer Content | Digitales PDF | Sprache: Deutsch<br />3 ausführliche Typ-Kapitel (Vata, Pitta, Kapha)<br />Inklusive Ernährungstipps, Tagesroutinen &amp; Rezepte<br />Mit liebevollen Illustrationen und klarer Struktur</p>
-<p><strong>Verkaufspreis: CHF 4.95</strong><br /><br /></p>
-<p>Mit dem Kauf dieses Produktes erhältst du ebenfalls unseren Newsletter, der dich über aktuelle Angebote und Informationen zum Thema <strong>Ayurveda, Ernährung &amp; ganzheitliches Wohlbefinden</strong> per E-Mail benachrichtigt.</p>
+**Vendor's marketplace description:** [Neu] Ayurveda-Verdauungstypen-Test inkl. E-Book 24 Seiten achtsamer Content | Digitales PDF | Sprache: Deutsch 3 ausführliche Typ-Kapitel (Vata, Pitta, Kapha) Inklusive Ernährungstipps, Tagesroutinen & Rezepte Mit liebevollen Illustrationen und klarer Struktur Verkaufspreis: CHF 4.95 Mit dem Kauf dieses Produktes erhältst du ebenfalls unseren Newsletter, der dich über aktuelle Angebote und Informationen zum Thema Ayurveda, Ernährung & ganzheitliches Wohlbefinden per E-Mail benachrichtigt.
 
 ## 2. Links
 

@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong><span style="color:#ff0000;">DU verdienst 30% mit jedem Buch + zusätzlich weitere Provisionen mit Upsells!</span> </strong></h2>
-<p> </p>
-<p><span style="color:#000000;"><strong> ➡️ Dein Vorteil </strong></span></p>
-<ul>
-<li><span style="color:#000000;"><strong>Provision von 30%</strong></span></li>
-<li><span style="color:#000000;">140 Seiten extrem guter Content </span></li>
-<li><span style="color:#000000;"><strong>Hochwertig</strong> als Hardcover mit Vierfarbdruck produziert</span></li>
-<li><span style="color:#000000;"><strong>Verkaufsschlager</strong> für <strong>jeden</strong> Kunden</span></li>
-<li><span style="color:#000000;">Breits über 10.000 Verkaufte Bücher</span></li>
-<li><span style="color:#000000;">schneller und professioneller Support durch unser Team</span></li>
-<li><span style="color:#000000;"><strong>KEINE</strong> Stornoquote<br /></span></li>
-</ul>
-<p><span style="color:#000000;"><strong> ➡️ DIE LESER</strong> erfahren wie Sie Ihr Wunschleben aktivieren, Blockaden schnell beseitigen und mit Klarheit Ihre Ziele, Wunsche und Träume erreichen.<br />Das Buch zeigt wie du dich gesundheitlich, mental, beziehungs- und erfolgsorientiert richtig aufstellst und dein Leben transformierst. SCHNELL UND NACHHALTIG. </span></p>
-<p><span style="color:#000000;"> ➡️ Melde dich jetzt als Affiliate an und starte mit dem Promoten von unserem neuen Buch und <strong>Verdiene mehrere 100€ pro Tag</strong>!<br /></span></p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** DU verdienst 30% mit jedem Buch + zusätzlich weitere Provisionen mit Upsells! ➡️ Dein Vorteil Provision von 30% 140 Seiten extrem guter Content Hochwertig als Hardcover mit Vierfarbdruck produziert Verkaufsschlager für jeden Kunden Breits über 10.000 Verkaufte Bücher schneller und professioneller Support durch unser Team KEINE Stornoquote ➡️ DIE LESER erfahren wie Sie Ihr Wunschleben aktivieren, Blockaden schnell beseitigen und mit Klarheit Ihre Ziele, Wunsche und Träume erreichen. Das Buch zeigt wie du dich gesundheitlich, mental, beziehungs- und erfolgsorientiert richtig aufstellst und dein Leben transformierst. SCHNELL UND NACHHALTIG. ➡️ Melde dich jetzt als Affiliate an und starte mit dem Promoten von unserem neuen Buch und Verdiene mehrere 100€ pro Tag !
 
 ## 2. Links
 

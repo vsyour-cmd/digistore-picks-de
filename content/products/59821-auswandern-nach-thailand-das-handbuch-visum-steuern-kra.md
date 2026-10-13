@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <blockquote>
-<p>eBook von Tobias Gensicke, rund 280 Seiten, EPUB und PDF, Rechtsstand 29. September 2026. Für Deutsche, Österreicher und Schweizer, überwiegend ab 50, die dauerhaft nach Thailand ziehen wollen: Aufenthaltswege von DTV über Rentnervisum bis LTR mit Jahreskosten, deutsche Steuerregeln beim Wegzug, Krankenversicherung und Lebenshaltungskosten, an drei Beispielhaushalten durchgerechnet. Jede Rechtsangabe mit Norm oder Quelle und Prüfdatum. 70 % Provision, Partneranfragen werden automatisch freigeschaltet. Fertige Texte, belegte Zahlen und Bilder für Partner: thailandratgeber.de/partner/</p>
-</blockquote>
-<p> </p>
+**Vendor's marketplace description:** eBook von Tobias Gensicke, rund 280 Seiten, EPUB und PDF, Rechtsstand 29. September 2026. Für Deutsche, Österreicher und Schweizer, überwiegend ab 50, die dauerhaft nach Thailand ziehen wollen: Aufenthaltswege von DTV über Rentnervisum bis LTR mit Jahreskosten, deutsche Steuerregeln beim Wegzug, Krankenversicherung und Lebenshaltungskosten, an drei Beispielhaushalten durchgerechnet. Jede Rechtsangabe mit Norm oder Quelle und Prüfdatum. 70 % Provision, Partneranfragen werden automatisch freigeschaltet. Fertige Texte, belegte Zahlen und Bilder für Partner: thailandratgeber.de/partner/
 
 ## 2. Links
 

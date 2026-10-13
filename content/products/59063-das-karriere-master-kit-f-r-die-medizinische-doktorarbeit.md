@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Karriere-Masterkit Doktorarbeit – Dein Leitfaden für Themenwahl, Promotionsformen und Bewerbungsunterlagen</strong></p>
-<p>Das Karriere-Masterkit für die medizinische Doktorarbeit bietet dir einen strukturierten Überblick über Promotionsformen, Betreuersuche, Ethikvotum und wissenschaftliche Bewerbungsunterlagen – damit du gut vorbereitet in die Promotion startest. Sofort als PDF verfügbar.</p>
-<p>Das ist enthalten:</p>
-<ul>
-<li>Überblick über monografische, kumulative und strukturierte Promotionsformen</li>
-<li>Leitfaden zur Betreuerauswahl und zum Abschluss eines Promotionsvertrags</li>
-<li>Hinweise zu Ethikkommission, Tierschutzantrag und Datenmanagement</li>
-<li>Orientierung zu statistischen Auswertungsmethoden (SPSS, R, GraphPad Prism)</li>
-<li>Muster-Anschreiben für die Bewerbung auf eine Doktorandenstelle</li>
-<li>Wissenschaftlicher Lebenslauf (Academic CV) im internationalen Format</li>
-</ul>
-<p>Sofortiger Download – kein Abo, keine versteckten Kosten.</p>
+**Vendor's marketplace description:** Karriere-Masterkit Doktorarbeit – Dein Leitfaden für Themenwahl, Promotionsformen und Bewerbungsunterlagen Das Karriere-Masterkit für die medizinische Doktorarbeit bietet dir einen strukturierten Überblick über Promotionsformen, Betreuersuche, Ethikvotum und wissenschaftliche Bewerbungsunterlagen – damit du gut vorbereitet in die Promotion startest. Sofort als PDF verfügbar. Das ist enthalten: Überblick über monografische, kumulative und strukturierte Promotionsformen Leitfaden zur Betreuerauswahl und zum Abschluss eines Promotionsvertrags Hinweise zu Ethikkommission, Tierschutzantrag und Datenmanagement Orientierung zu statistischen Auswertungsmethoden (SPSS, R, GraphPad Prism) Muster-Anschreiben für die Bewerbung auf eine Doktorandenstelle Wissenschaftlicher Lebenslauf (Academic CV) im internationalen Format Sofortiger Download – kein Abo, keine versteckten Kosten.
 
 ## 2. Links
 

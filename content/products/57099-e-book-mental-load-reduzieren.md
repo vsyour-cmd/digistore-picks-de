@@ -41,46 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Du bist nicht erschöpft, weil du Mutter bist.</h1>
-<h2>Du bist erschöpft, weil alles nur an dir hängt.</h2>
-<p> </p>
-<ul>
-<li>Du erinnerst.</li>
-<li>Du organisierst.</li>
-<li>Du planst.</li>
-<li>Du denkst voraus.</li>
-</ul>
-<p>Und selbst wenn andere „helfen“, bleibt die Verantwortung am Ende trotzdem bei dir.</p>
-<p> </p>
-<p><span style="background-color:#ffcc99;"><strong>Genau damit ist jetzt Schluss.</strong></span></p>
-<p> </p>
-<hr />
-<h2><span style="background-color:#ffcc99;">Schluss mit „Kannst du mir helfen?“</span></h2>
-<p> </p>
-<p>Denn solange du bitten, erinnern, erklären und kontrollieren musst, bist du immer noch die unsichtbare Geschäftsführerin eurer Familie.</p>
-<p>In diesem E-Book zeige ich dir <strong>meine exklusive</strong> <em><strong>Leichter-leben-als-Mama-Methode</strong></em>.</p>
-<p>Eine Methode, die ich aus meiner eigenen Erfahrung mit Mental Load, Schlafproblemen, Gedankenkreisen, Dauerstress, Streit in der Partnerschaft und jahrelanger Suche nach echter Entlastung im Kombination mit Psychotherapie, Familientherapie und diversen Yoga-Methoden entwickelt habe.</p>
-<p> </p>
-<hr />
-<h2> </h2>
-<h2><span style="background-color:#ffcc99;">Mit der Leichter-leben-als-Mama-Methode lernst du:</span></h2>
-<p> </p>
-<p>✔️ wie du aus „Kannst du mir helfen?“ echte Verantwortung machst<br />✔️ wie du deinem Partner klar erklärst, warum Hilfe allein nicht reicht<br />✔️ wie du Aufgaben abgibst, ohne weiter erinnern, kontrollieren und retten zu müssen<br />✔️ wie du Kinder altersgerecht einbindest<br />✔️ wie du Schuldgefühle und Kontrollzwang Schritt für Schritt loslässt<br />✔️ wie du neue Familienregeln schaffst, damit nicht mehr alles automatisch bei Mama landet</p>
-<hr />
-<h2> </h2>
-<h2><span style="background-color:#ffcc99;">Das bekommst du im E-Book:</span></h2>
-<p> </p>
-<p>✔️ konkrete Gesprächsvorlagen<br />✔️ klare Formulierungen für Partner &amp; Familie<br />✔️ einfache Schritte, um Verantwortung fair zu verteilen<br />✔️ praktische Beispiele aus dem Familienalltag<br />✔️ die exklusive Leichter-leben-als-Mama-Methode<br />✔️ einen klaren Weg raus aus dem Mental-Load-Kreislauf</p>
-<hr />
-<h2> </h2>
-<h2><span style="background-color:#ffcc99;">Exklusives Einführungsangebot</span></h2>
-<p> </p>
-<h3><span style="background-color:#ffcc99;"><strong>Nur für kurze Zeit: 19,90 €</strong></span></h3>
-<p> </p>
-<p><span style="background-color:#ffcc99;">statt später <strong>49,90 €</strong></span></p>
-<p> </p>
-<hr />
-<p>Wenn du nicht länger die unsichtbare Geschäftsführerin eurer Familie sein willst, dann starte jetzt.</p>
+**Vendor's marketplace description:** Du bist nicht erschöpft, weil du Mutter bist. Du bist erschöpft, weil alles nur an dir hängt. Du erinnerst. Du organisierst. Du planst. Du denkst voraus. Und selbst wenn andere „helfen“, bleibt die Verantwortung am Ende trotzdem bei dir. Genau damit ist jetzt Schluss. Schluss mit „Kannst du mir helfen?“ Denn solange du bitten, erinnern, erklären und kontrollieren musst, bist du immer noch die unsichtbare Geschäftsführerin eurer Familie. In diesem E-Book zeige ich dir meine exklusive Leichter-leben-als-Mama-Methode . Eine Methode, die ich aus meiner eigenen Erfahrung mit Mental Load, Schlafproblemen, Gedankenkreisen, Dauerstress, Streit in der Partnerschaft und jahrelanger Suche nach echter Entlastung im Kombination mit Psychotherapie, Familientherapie und diversen Yoga-Methoden entwickelt habe. Mit der Leichter-leben-als-Mama-Methode lernst du: ✔️ wie du aus „Kannst du mir helfen?“ echte Verantwortung machst ✔️ wie du deinem Partner klar erklärst, warum Hilfe allein nicht reicht ✔️ wie du Aufgaben abgibst, ohne weiter erinnern, kontrollieren und retten zu müssen ✔️ wie du Kinder altersgerecht einbindest ✔️ wie du Schuldgefühle und Kontrollzwang Schritt für Schritt loslässt ✔️ wie du neue Familienregeln schaffst, damit nicht mehr alles automatisch bei Mama landet Das bekommst du im E-Book: ✔️ konkrete Gesprächsvorlagen ✔️ klare Formulierungen für Partner & Familie ✔️ einfache Schritte, um Verantwortung fair zu verteilen ✔️ praktische Beispiele aus dem Familienalltag ✔️ die exklusive Leichter-leben-als-Mama-Methode ✔️ einen klaren Weg raus aus dem Mental-Load-Kreislauf Exklusives Einführungsangebot Nur für kurze Zeit: 19,90 € statt später 49,90 € Wenn du nicht länger die unsichtbare Geschäftsführerin eurer Familie sein willst, dann starte jetzt.
 
 ## 2. Links
 

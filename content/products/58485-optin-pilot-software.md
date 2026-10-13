@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Optin Pilot ist eine deutschsprachige SaaS-Plattform für automatisierten Listenaufbau. Nutzer wählen aus 16 fertigen Freebies (Video-Kurse, Workbooks, E-Books) für verschiedene Nischen, aktivieren eine passende Landingpage und starten – ohne eigenen Content erstellen oder Technik verknüpfen zu müssen.</p>
-<p>Integriert ist ein Empfehlungssystem, über das sich eingetragene Leads durch das Teilen eines persönlichen Links zusätzliche Boni freischalten können.</p>
-<p><strong>Einmalzahlung 599 € · 45 % Provision · keine Abo-Kündigungen, keine Ratenausfälle</strong></p>
+**Vendor's marketplace description:** Optin Pilot ist eine deutschsprachige SaaS-Plattform für automatisierten Listenaufbau. Nutzer wählen aus 16 fertigen Freebies (Video-Kurse, Workbooks, E-Books) für verschiedene Nischen, aktivieren eine passende Landingpage und starten – ohne eigenen Content erstellen oder Technik verknüpfen zu müssen. Integriert ist ein Empfehlungssystem, über das sich eingetragene Leads durch das Teilen eines persönlichen Links zusätzliche Boni freischalten können. Einmalzahlung 599 € · 45 % Provision · keine Abo-Kündigungen, keine Ratenausfälle
 
 ## 2. Links
 

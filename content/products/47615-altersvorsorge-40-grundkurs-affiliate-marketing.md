@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Erfahre in diesem kostenlosen Videokurs, wie du ohne Vorkenntnisse sofort mit Affiliate Marketing starten und bereits erste Provisionen erzielen kannst.</strong></p>
-<div>
-<p>Was ist Affiliate Marketing überhaupt</p>
-<p>Welche Affiliate Plattformen gibt es</p>
-<p>Was und welche Produkte sollte man bewerben</p>
-<p>Mit welche Strategie sollte man die Produkte bewerben</p>
-<p><strong>Bonus:</strong> Affiliate Seite erstellen</p>
-</div>
+**Vendor's marketplace description:** Erfahre in diesem kostenlosen Videokurs, wie du ohne Vorkenntnisse sofort mit Affiliate Marketing starten und bereits erste Provisionen erzielen kannst. Was ist Affiliate Marketing überhaupt Welche Affiliate Plattformen gibt es Was und welche Produkte sollte man bewerben Mit welche Strategie sollte man die Produkte bewerben Bonus: Affiliate Seite erstellen
 
 ## 2. Links
 

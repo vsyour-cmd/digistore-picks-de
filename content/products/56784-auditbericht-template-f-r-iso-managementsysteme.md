@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Professionelle Word-Vorlage zur Erstellung normkonformer Auditberichte für ISO-Managementsysteme.</strong></p>
-<p>Sofort einsetzbare Word-Vorlage für interne Audits nach ISO 9001, ISO 14001, ISO 45001 und ISO 50001.</p>
-<p>Die Vorlage enthält eine strukturierte Auditberichterstattung mit Auditumfang, Auditzielen, Auditfeststellungen, Bewertungen, Maßnahmen und Abschlussbewertung.</p>
-<p><strong>Vorteile:</strong></p>
-<p>• Sofort einsetzbar</p>
-<p>• Individuell anpassbar</p>
-<p>• Professionelles Layout</p>
-<p>• Für interne Audits geeignet</p>
-<p>• Sofortdownload nach Kauf</p>
-<p><strong>Zielgruppe:</strong></p>
-<p>• Interne Auditoren</p>
-<p>• Qualitätsmanager</p>
-<p>• Umweltmanager</p>
-<p>• Energiemanager</p>
-<p>• Managementsystem-Beauftragte</p>
-<p>• Unternehmensberater</p>
+**Vendor's marketplace description:** Professionelle Word-Vorlage zur Erstellung normkonformer Auditberichte für ISO-Managementsysteme. Sofort einsetzbare Word-Vorlage für interne Audits nach ISO 9001, ISO 14001, ISO 45001 und ISO 50001. Die Vorlage enthält eine strukturierte Auditberichterstattung mit Auditumfang, Auditzielen, Auditfeststellungen, Bewertungen, Maßnahmen und Abschlussbewertung. Vorteile: • Sofort einsetzbar • Individuell anpassbar • Professionelles Layout • Für interne Audits geeignet • Sofortdownload nach Kauf Zielgruppe: • Interne Auditoren • Qualitätsmanager • Umweltmanager • Energiemanager • Managementsystem-Beauftragte • Unternehmensberater
 
 ## 2. Links
 

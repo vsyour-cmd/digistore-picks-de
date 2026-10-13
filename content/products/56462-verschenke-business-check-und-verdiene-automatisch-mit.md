@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Verschenke einen hochwertigen Business Check komplett kostenlos an deine Zielgruppe und verdiene direkt an einem erprobten Upsell Funnel.</p>
-<p>Deine Vorteile als Affiliate:</p>
-<p>Du kannst ein starkes Freebie bewerben, das sich extrem leicht verschenken lässt und perfekt für Einsteiger im Online Business geeignet ist.</p>
-<p>Du verdienst sofort am Easy Business Kickstart Upsell, ohne selbst etwas verkaufen zu müssen.</p>
-<p>Du profitierst zusätzlich von allen Folgeprodukten innerhalb der Academy und baust dir damit ein nachhaltiges Einkommen auf.</p>
-<p>Provisionen:</p>
-<p>50% auf alle Kurse<br />30% wiederkehrend auf die Gold Mitgliedschaft</p>
-<p>Der Funnel ist komplett optimiert und darauf ausgelegt, Vertrauen aufzubauen und Besucher Schritt für Schritt zu Kunden zu machen.</p>
-<hr />
-<h2>Was wird verschenkt</h2>
-<p>Ein klar strukturierter 5-Stufen Business Check, der Einsteigern zeigt, wo sie aktuell stehen und warum sie bisher nicht die Ergebnisse erzielen, die sie sich wünschen.</p>
-<p>Ein perfekter Einstieg für alle, die sich ein Online Business aufbauen wollen, aber noch keine klare Richtung haben.</p>
-<hr />
-<h2>Warum das für Affiliates so gut ist</h2>
-<ul>
-<li>extrem niedrige Einstiegshürde</li>
-<li>hohe Conversion durch Klarheits-Ansatz</li>
-<li>sofortige Monetarisierung durch Upsell</li>
-<li>langfristige Einnahmen durch Folgeprodukte</li>
-</ul>
+**Vendor's marketplace description:** Verschenke einen hochwertigen Business Check komplett kostenlos an deine Zielgruppe und verdiene direkt an einem erprobten Upsell Funnel. Deine Vorteile als Affiliate: Du kannst ein starkes Freebie bewerben, das sich extrem leicht verschenken lässt und perfekt für Einsteiger im Online Business geeignet ist. Du verdienst sofort am Easy Business Kickstart Upsell, ohne selbst etwas verkaufen zu müssen. Du profitierst zusätzlich von allen Folgeprodukten innerhalb der Academy und baust dir damit ein nachhaltiges Einkommen auf. Provisionen: 50% auf alle Kurse 30% wiederkehrend auf die Gold Mitgliedschaft Der Funnel ist komplett optimiert und darauf ausgelegt, Vertrauen aufzubauen und Besucher Schritt für Schritt zu Kunden zu machen. Was wird verschenkt Ein klar strukturierter 5-Stufen Business Check, der Einsteigern zeigt, wo sie aktuell stehen und warum sie bisher nicht die Ergebnisse erzielen, die sie sich wünschen. Ein perfekter Einstieg für alle, die sich ein Online Business aufbauen wollen, aber noch keine klare Richtung haben. Warum das für Affiliates so gut ist extrem niedrige Einstiegshürde hohe Conversion durch Klarheits-Ansatz sofortige Monetarisierung durch Upsell langfristige Einnahmen durch Folgeprodukte
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Viele Geld-Blockaden resultieren aus “finanziellen Traumata” und im Audio-Workshop "Heilung finanzieller Wunden" hast du die Chance, diese zu entdecken und endlich zu heilen!</p>
-<p>In diesem Workshop arbeiten wir mit einer Kombination aus Methoden der Klopfakupressur, EFT, Timeline und der neuen Herzpunkt-Technik.</p>
-<p><em><strong>Das Download-Paket enthält:</strong></em></p>
-<ul><li><em>Audio-/MP3-Datei des Gesamtworkshops (Dauer: 1 Stunde und 15 Minuten)</em></li>
-<li><em>Abbildungen der EFT-Klopfpunkte</em></li>
-<li><em>Abbildung der HPT-Punkte, mit  denen wir im Seminar arbeiten</em></li>
-<li><em>BONUS: Die Übung mit der Herzpunkt-Technik, so dass du sie jederzeit erneut machen kannst, ohne noch einmal das ganze Seminar anhören zu müssen </em></li>
-</ul><p> </p>
+**Vendor's marketplace description:** Viele Geld-Blockaden resultieren aus “finanziellen Traumata” und im Audio-Workshop "Heilung finanzieller Wunden" hast du die Chance, diese zu entdecken und endlich zu heilen! In diesem Workshop arbeiten wir mit einer Kombination aus Methoden der Klopfakupressur, EFT, Timeline und der neuen Herzpunkt-Technik. Das Download-Paket enthält: Audio-/MP3-Datei des Gesamtworkshops (Dauer: 1 Stunde und 15 Minuten) Abbildungen der EFT-Klopfpunkte Abbildung der HPT-Punkte, mit denen wir im Seminar arbeiten BONUS: Die Übung mit der Herzpunkt-Technik, so dass du sie jederzeit erneut machen kannst, ohne noch einmal das ganze Seminar anhören zu müssen
 
 ## 2. Links
 

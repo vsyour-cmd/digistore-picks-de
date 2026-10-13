@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit der Fumarexin®-Schulung lernen Heilpraktiker und Ärzte eine naturheilkundlich orientierte Methode zur Rauchentwöhnung kennen. Die Schulung umfasst Videos und begleitende Unterlagen und wird online über den Partner-Login auf der Fumarexin-Webseite bereitgestellt. Nach Zahlungseingang erhalten neue Partner Zugriff auf die Inhalte und können Fumarexin in ihrer Praxis anbieten. Ideal für Therapeuten, die ihr Praxisangebot sinnvoll erweitern möchten.</p>
+**Vendor's marketplace description:** Mit der Fumarexin®-Schulung lernen Heilpraktiker und Ärzte eine naturheilkundlich orientierte Methode zur Rauchentwöhnung kennen. Die Schulung umfasst Videos und begleitende Unterlagen und wird online über den Partner-Login auf der Fumarexin-Webseite bereitgestellt. Nach Zahlungseingang erhalten neue Partner Zugriff auf die Inhalte und können Fumarexin in ihrer Praxis anbieten. Ideal für Therapeuten, die ihr Praxisangebot sinnvoll erweitern möchten.
 
 ## 2. Links
 

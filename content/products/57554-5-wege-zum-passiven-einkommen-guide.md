@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>5 Wege zum passiven Einkommen – der Guide für Einsteiger.</p>
-<p>Entdecke 5 konkrete Möglichkeiten, digitale Einkommensquellen aufzubauen – verständlich erklärt und Schritt für Schritt.</p>
-<p>✅ Print-on-Demand<br />✅ Digitale Produkte &amp; E-Books<br />✅ Affiliate Marketing<br />✅ Marktplatz-SEO<br />✅ Expertenwissen digital nutzen</p>
-<p>
+**Vendor's marketplace description:** 5 Wege zum passiven Einkommen – der Guide für Einsteiger. Entdecke 5 konkrete Möglichkeiten, digitale Einkommensquellen aufzubauen – verständlich erklärt und Schritt für Schritt. ✅ Print-on-Demand ✅ Digitale Produkte & E-Books ✅ Affiliate Marketing ✅ Marktplatz-SEO ✅ Expertenwissen digital nutzen
 
 ## 2. Links
 

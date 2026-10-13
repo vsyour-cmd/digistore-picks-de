@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Empfehle unsere Hör-Programme weiter und verdiene mit an über 30 Upsells/Cross-Sells!<br /><br /></strong></h2>
-<p> </p>
-<p><strong>Deine Vorteile:</strong></p>
-<p>--&gt; Hohe Provisionen von <strong>30%</strong> für alle Produkte im Bereich zwischen 25-150 Euro und <strong>25% Provision</strong> für Produkte ab 199 Euro</p>
-<p>--&gt; Garantiert etwas für deine Kunden dabei: In <strong>über 20 Nischen</strong> aktiv (z.B Gesundheit, Wohlstand, Liebe &amp; Beziehungen, Bewusstsein, Fitness etc.)</p>
-<p>--&gt; <strong>Getestet und optimiert:</strong> Bereits über 10.000 verkaufte Produkte</p>
-<p>--&gt; Hohe Conversions und hoher Kundenwert: Profitiere mit an unseren <strong>hochoptimierten Segmentierungs-Verkaufsfunneln </strong></p>
-<p>--&gt; Schneller und professioneller Support durch unseren Affiliate-Manager</p>
-<p> </p>
-<p>Nach dem Verkauf über dich wird der Kunde systematisch durch zahlreiche Upsell- und Cross-Sell-Kampagnen geführt.</p>
-<p>Du erhältst Provisionen für jeden weiteren Verkauf!</p>
-<p> </p>
-<p>Melde dich jetzt als Affiliate an und baue dir ein passives Einkommen auf.</p>
-<p> </p>
-<p>Auf eine erfolgreiche Aktion!</p>
-<p> </p>
-<p>Beste Grüße,<br />Marvin Alberg</p>
+**Vendor's marketplace description:** Empfehle unsere Hör-Programme weiter und verdiene mit an über 30 Upsells/Cross-Sells! Deine Vorteile: --> Hohe Provisionen von 30% für alle Produkte im Bereich zwischen 25-150 Euro und 25% Provision für Produkte ab 199 Euro --> Garantiert etwas für deine Kunden dabei: In über 20 Nischen aktiv (z.B Gesundheit, Wohlstand, Liebe & Beziehungen, Bewusstsein, Fitness etc.) --> Getestet und optimiert: Bereits über 10.000 verkaufte Produkte --> Hohe Conversions und hoher Kundenwert: Profitiere mit an unseren hochoptimierten Segmentierungs-Verkaufsfunneln --> Schneller und professioneller Support durch unseren Affiliate-Manager Nach dem Verkauf über dich wird der Kunde systematisch durch zahlreiche Upsell- und Cross-Sell-Kampagnen geführt. Du erhältst Provisionen für jeden weiteren Verkauf! Melde dich jetzt als Affiliate an und baue dir ein passives Einkommen auf. Auf eine erfolgreiche Aktion! Beste Grüße, Marvin Alberg
 
 ## 2. Links
 

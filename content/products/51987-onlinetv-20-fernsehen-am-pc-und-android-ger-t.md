@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>OnlineTV 20 - Das Original seit 2002</strong></p>
-<p>OnlineTV bietet Zugang zu einer Vielzahl von TV- und Radio-Sendern sowie Live-Streams aus der ganzen Welt. Neben Musikvideos und Webcams können Nutzer auch auf Online-Medien zugreifen. Für Windows 7, 8, 8.1, 10 und 11. Plus eine App für Android.</p>
-<p>Die Software ist per Download direkt nach dem Kauf verfügbar. Zudem wird die Seriennummer per E-Mail versendet. </p>
+**Vendor's marketplace description:** OnlineTV 20 - Das Original seit 2002 OnlineTV bietet Zugang zu einer Vielzahl von TV- und Radio-Sendern sowie Live-Streams aus der ganzen Welt. Neben Musikvideos und Webcams können Nutzer auch auf Online-Medien zugreifen. Für Windows 7, 8, 8.1, 10 und 11. Plus eine App für Android. Die Software ist per Download direkt nach dem Kauf verfügbar. Zudem wird die Seriennummer per E-Mail versendet.
 
 ## 2. Links
 

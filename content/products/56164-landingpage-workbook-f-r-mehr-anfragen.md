@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die praktische Schritt-für-Schritt-Vorlage für Selbstständige, Freiberufler und kleine Unternehmen, die ihre Website klarer strukturieren und Besucher gezielter zur Anfrage führen möchten.</p>
-<h2>Warum dieses Workbook sinnvoll ist</h2>
-<p>Nicht jede Website muss sofort komplett neu erstellt werden. Oft reichen eine klarere Struktur, bessere Formulierungen und stärkere CTA, um eine Seite deutlich überzeugender zu machen.</p>
-<p>Mit diesem Workbook bekommst du genau dafür eine praktische Grundlage.</p>
+**Vendor's marketplace description:** Die praktische Schritt-für-Schritt-Vorlage für Selbstständige, Freiberufler und kleine Unternehmen, die ihre Website klarer strukturieren und Besucher gezielter zur Anfrage führen möchten. Warum dieses Workbook sinnvoll ist Nicht jede Website muss sofort komplett neu erstellt werden. Oft reichen eine klarere Struktur, bessere Formulierungen und stärkere CTA, um eine Seite deutlich überzeugender zu machen. Mit diesem Workbook bekommst du genau dafür eine praktische Grundlage.
 
 ## 2. Links
 

@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h4><u>Online Videokurs „Wahrer Wohlstand“ + Aufbruch-Ticket</u> </h4>
-</div>
-<div>
-<div>
-<p>Beinhaltet:<br /><br />• 12 Video-Coachings<br />• 5 exklusive Bonusse<br /><br />Bonus 1: 46 Coachingbriefe über einen Zeitraum von 6 Monaten<br />Bonus 2: Audio + Video-Seminar: In 7 Jahren Deine erste Million<br />Bonus 3: Audio-Seminar: Erfolgreich denken<br />Bonus 4: Handbuch "Ihre erste Million in 7 Jahren"<br />Bonus 5: Telefoncoaching<br />Exklusiver Sonderbonus: 1 ONLINE / LIVE - Ticket für das Seminar Aufbruch<br /><br />• Dauer 6 Monate</p>
-</div>
-<div>
-<h3> 647€¹</h3>
-<h6>inkl. gesetzl. MwSt.</h6>
-</div>
-</div>
+**Vendor's marketplace description:** Online Videokurs „Wahrer Wohlstand“ + Aufbruch-Ticket Beinhaltet: • 12 Video-Coachings • 5 exklusive Bonusse Bonus 1: 46 Coachingbriefe über einen Zeitraum von 6 Monaten Bonus 2: Audio + Video-Seminar: In 7 Jahren Deine erste Million Bonus 3: Audio-Seminar: Erfolgreich denken Bonus 4: Handbuch "Ihre erste Million in 7 Jahren" Bonus 5: Telefoncoaching Exklusiver Sonderbonus: 1 ONLINE / LIVE - Ticket für das Seminar Aufbruch • Dauer 6 Monate 647€¹ inkl. gesetzl. MwSt.
 
 ## 2. Links
 

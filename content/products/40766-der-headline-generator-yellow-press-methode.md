@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Bewerbe noch heute das exklusive kostenlose E-Book:</strong><br /><strong><a href="https://go.carstenfeuerbach.de/headline-generator" target="_blank" rel="noreferrer noopener">"Der Headline Generator" - Die "Yellow-Press-Methode" (klick)</a></strong></p>
-<p>DIE MACHT EINER PACKENDEN HEADLINE<br />697 Headlines für mehr Traffic, Leads und Profite in 33 Stunden.<br />... selbst in brutal umkämpften Märkten</p>
-<p><strong><a href="https://go.carstenfeuerbach.de/partnerprogramm" target="_blank" rel="noreferrer noopener">Deine Vorteile (hier klicken):</a></strong></p>
-<ul>
-<li>Du verdienst 50 % Provision bei allen Up- und Downsells!</li>
-<li>Die Verkaufs- und Upsellseiten werden stetig auf Conversion optimiert.</li>
-<li>Ideales Produkt für "jeden", der mit seinem online Business / Affiliate Marketing starten will oder Herausforderungen damit hat und wirkungsvolle &amp; hilfreiche Tools sucht.</li>
-<li>Du hast mit <a>diesem E-Book ein Geschenk</a> für deine Community und wirst am kompletten E-Mail und Sales-Funnel beteiligt!</li>
-<li>Der Headline Generator funktioniert in jeder Nische.</li>
-<li>1 : 1 anwendbar für Dein Business</li>
-<li>wie du sofort mehr Neukunden gewinnst, direkt mehr Sichtbarkeit für Dich und Deine Produkte</li>
-<li>ideal geeignet für YouTuber, Blogger, Webseiten, Landingpages, E-Mail Marketer &amp; Social Media Kanäle</li>
-<li>Nachdem diese Headlines jeder nutzen kann, ist die Conversion sehr hoch.</li>
-<li>58 Seiten - kompakt zusammengefasst</li>
-<li>BONUS: 3 x Cross- &amp; Upsells (ultimative Swipefile-Kollektionen, Listbuilding &amp; Funnel Magnet)</li>
-<li>Hohe Conversionen, da es für den Kunden kostenlos ist.</li>
-</ul>
-<p>Über € 106,50 Provision beim Funneldurchlauf für Dich möglich!</p>
-<p><strong><a href="https://go.carstenfeuerbach.de/partnerprogramm" target="_blank" rel="noreferrer noopener">Deine Provision dafür ist 50 %! (klick)</a></strong><br /><strong><a href="https://go.carstenfeuerbach.de/headline-generator" target="_blank" rel="noreferrer noopener">Verkaufsseite anschauen &gt;&gt;</a></strong></p>
-<p>Deinen Promo-Link holst du dir automatisch über den "Promolink kopieren"-Button oben auf dieser Seite.</p>
-<p>Fragen, Infos, Newsletter-Vorlagen?<br /><strong><a href="https://go.carstenfeuerbach.de/partnerprogramm" target="_blank" rel="noreferrer noopener">Affiliate Support Seite &gt;&gt;</a></strong></p>
-<p>Verdiene weitere fette Provisionen mit dem Partnerprogramm von Carsten Feuerbach:<br /><strong><a href="https://go.carstenfeuerbach.de/partnerprogramm" target="_blank" rel="noreferrer noopener">Weitere Produkte bewerben (Zum Partnerprogramm hier klicken)</a></strong></p>
+**Vendor's marketplace description:** Bewerbe noch heute das exklusive kostenlose E-Book: "Der Headline Generator" - Die "Yellow-Press-Methode" (klick) DIE MACHT EINER PACKENDEN HEADLINE 697 Headlines für mehr Traffic, Leads und Profite in 33 Stunden. ... selbst in brutal umkämpften Märkten Deine Vorteile (hier klicken): Du verdienst 50 % Provision bei allen Up- und Downsells! Die Verkaufs- und Upsellseiten werden stetig auf Conversion optimiert. Ideales Produkt für "jeden", der mit seinem online Business / Affiliate Marketing starten will oder Herausforderungen damit hat und wirkungsvolle & hilfreiche Tools sucht. Du hast mit diesem E-Book ein Geschenk für deine Community und wirst am kompletten E-Mail und Sales-Funnel beteiligt! Der Headline Generator funktioniert in jeder Nische. 1 : 1 anwendbar für Dein Business wie du sofort mehr Neukunden gewinnst, direkt mehr Sichtbarkeit für Dich und Deine Produkte ideal geeignet für YouTuber, Blogger, Webseiten, Landingpages, E-Mail Marketer & Social Media Kanäle Nachdem diese Headlines jeder nutzen kann, ist die Conversion sehr hoch. 58 Seiten - kompakt zusammengefasst BONUS: 3 x Cross- & Upsells (ultimative Swipefile-Kollektionen, Listbuilding & Funnel Magnet) Hohe Conversionen, da es für den Kunden kostenlos ist. Über € 106,50 Provision beim Funneldurchlauf für Dich möglich! Deine Provision dafür ist 50 %! (klick) Verkaufsseite anschauen >> Deinen Promo-Link holst du dir automatisch über den "Promolink kopieren"-Button oben auf dieser Seite. Fragen, Infos, Newsletter-Vorlagen? Affiliate Support Seite >> Verdiene weitere fette Provisionen mit dem Partnerprogramm von Carsten Feuerbach: Weitere Produkte bewerben (Zum Partnerprogramm hier klicken)
 
 ## 2. Links
 

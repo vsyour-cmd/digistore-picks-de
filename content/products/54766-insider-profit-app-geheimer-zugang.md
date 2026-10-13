@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewerbe jetzt dieses Freebie mit sehr hoher Conversion und profitiere von 50% Provision auf alle Upsells. (über 200€ möglich)</p>
-<p>Dieses Freebie zeigt dir eine App, die aktuell nur in kleinen Kreisen weitergegeben wird.<br />Das Spannende: Viele nutzen sie, um <strong>indirekt kostenlos an Umsätzen großer Marken mitzuprofitieren</strong> – ohne selbst etwas verkaufen zu müssen und ohne Risiko.</p>
-<p>In deinem Freebie enthalten:<br />✔ Zugang zur Insider-App<br />✔ 2-Minuten-Setup<br />✔ Anleitung, wie du bei Aktivitäten anderer mitverdienst<br />✔ Bonus: Schritt-für-Schitt Vorlagen</p>
-<p>„Die unauffälligste Art, an großen Playern mitzupartizipieren.“</p>
-<p>Du bekommst das Produkt sofort nach dem Kauf per E-Mail zugesendet, auch wenn es 3 Uhr Nachts ist.</p>
+**Vendor's marketplace description:** Bewerbe jetzt dieses Freebie mit sehr hoher Conversion und profitiere von 50% Provision auf alle Upsells. (über 200€ möglich) Dieses Freebie zeigt dir eine App, die aktuell nur in kleinen Kreisen weitergegeben wird. Das Spannende: Viele nutzen sie, um indirekt kostenlos an Umsätzen großer Marken mitzuprofitieren – ohne selbst etwas verkaufen zu müssen und ohne Risiko. In deinem Freebie enthalten: ✔ Zugang zur Insider-App ✔ 2-Minuten-Setup ✔ Anleitung, wie du bei Aktivitäten anderer mitverdienst ✔ Bonus: Schritt-für-Schitt Vorlagen „Die unauffälligste Art, an großen Playern mitzupartizipieren.“ Du bekommst das Produkt sofort nach dem Kauf per E-Mail zugesendet, auch wenn es 3 Uhr Nachts ist.
 
 ## 2. Links
 

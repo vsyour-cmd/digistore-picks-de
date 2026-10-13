@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du mit kurzen Videos Vertrauen aufbaust, Leads gewinnst und Kunden buchst</strong></p>
-<p>TikTok hat den kürzesten Weg vom Erstkontakt zur Buchung, den es im Social Media gibt – vorausgesetzt, du weißt, wie du deinen Funnel baust. Dieses E-Book zeigt dir, wie du als Coach in 30 bis 60 Sekunden Mehrwert lieferst, ohne dein gesamtes Wissen zu verschenken, und wie du jeden Zuschauer sanft Richtung Bio-Link und Erstgespräch führst. Du lernst, wie du Serienformate aufbaust, die Menschen immer wiederkommen lassen, wie du Lead-Magnete in deiner Bio platzierst und wie du TikTok-Inhalte systematisch wiederverwendest. Statt für Viral-Zufall zu hoffen, baust du ein stabiles Awareness-System, das täglich neue Menschen in deinen Funnel bringt.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>TikTok-Funnel aufbauen: von der For-You-Page zum Erstgespräch</li>
-<li>Mehrwert geben ohne alles zu verschenken – das richtige Teilen-Verhältnis</li>
-<li>Serienformate, die dein Publikum Woche für Woche zurückbringt</li>
-<li>Bio-Link &amp; Lead-Magnet: so konvertierst du Zuschauer zu Leads</li>
-<li>Hooks für Coaches: Expertise in 1–2 Sekunden sichtbar machen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du mit kurzen Videos Vertrauen aufbaust, Leads gewinnst und Kunden buchst TikTok hat den kürzesten Weg vom Erstkontakt zur Buchung, den es im Social Media gibt – vorausgesetzt, du weißt, wie du deinen Funnel baust. Dieses E-Book zeigt dir, wie du als Coach in 30 bis 60 Sekunden Mehrwert lieferst, ohne dein gesamtes Wissen zu verschenken, und wie du jeden Zuschauer sanft Richtung Bio-Link und Erstgespräch führst. Du lernst, wie du Serienformate aufbaust, die Menschen immer wiederkommen lassen, wie du Lead-Magnete in deiner Bio platzierst und wie du TikTok-Inhalte systematisch wiederverwendest. Statt für Viral-Zufall zu hoffen, baust du ein stabiles Awareness-System, das täglich neue Menschen in deinen Funnel bringt. Das steckt drin: TikTok-Funnel aufbauen: von der For-You-Page zum Erstgespräch Mehrwert geben ohne alles zu verschenken – das richtige Teilen-Verhältnis Serienformate, die dein Publikum Woche für Woche zurückbringt Bio-Link & Lead-Magnet: so konvertierst du Zuschauer zu Leads Hooks für Coaches: Expertise in 1–2 Sekunden sichtbar machen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „SEO einfach erklärt“</strong></p>
-<p>Wie deine Website bei Google gefunden wird – SEO klingt kompliziert – ist aber lernbar. Keywords und Suchintention, Onpage- und technisches SEO, seriöse Backlinks und lokales SEO. Ohne Garantie auf Platz 1.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verstehen, wie Google Seiten findet und sortiert</li>
-<li>Keywords und die Suchintention treffen</li>
-<li>Inhalte mit Onpage-SEO ranking-fähig machen</li>
-<li>Technik, Backlinks und lokales SEO im Griff</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „SEO einfach erklärt“ Wie deine Website bei Google gefunden wird – SEO klingt kompliziert – ist aber lernbar. Keywords und Suchintention, Onpage- und technisches SEO, seriöse Backlinks und lokales SEO. Ohne Garantie auf Platz 1. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verstehen, wie Google Seiten findet und sortiert Keywords und die Suchintention treffen Inhalte mit Onpage-SEO ranking-fähig machen Technik, Backlinks und lokales SEO im Griff
 
 ## 2. Links
 

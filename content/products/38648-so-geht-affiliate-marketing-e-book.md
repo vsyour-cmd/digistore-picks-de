@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Verkaufe unseren Topseller </strong></span></p>
-<p><span style="background-color:#ffff00;"><strong>"So funktioniert Affiliate Marketing"</strong></span></p>
-<p>✅  Der Start und die Umsetzung zum erfolgreichen                Affiliate</p>
-<p>✅  Vorstellung der wichtigsten Plattformen</p>
-<p>✅  Es werden keine Vorkenntnisse benötigt</p>
-<p>✅  5BS? ist natürlich erlaubt</p>
-<ul>
-<li><span style="background-color:#ffff00;"><strong>Du bekommst 80 % des Netto-Gewinns </strong></span><span style="background-color:#ffff00;"><strong>(ca. 2,50 Euro) </strong></span></li>
-</ul>
-<p> </p>
-<ul>
-<li><span style="background-color:#ffff00;"><strong>Inklusive 50 % des Netto Gewinns vom Upsell (Video Kurs über das Internet Business ca. 150 Euro Netto Provision)</strong></span></li>
-</ul>
-<p> </p>
-<ul>
-<li><span style="background-color:#ffff00;"><strong> Hohe Conversion, da man den Kurs eine Woche testen kann und es montliche updates gibt (Kostenfrei)</strong></span></li>
-</ul>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Verkaufe unseren Topseller "So funktioniert Affiliate Marketing" ✅ Der Start und die Umsetzung zum erfolgreichen Affiliate ✅ Vorstellung der wichtigsten Plattformen ✅ Es werden keine Vorkenntnisse benötigt ✅ 5BS? ist natürlich erlaubt Du bekommst 80 % des Netto-Gewinns (ca. 2,50 Euro) Inklusive 50 % des Netto Gewinns vom Upsell (Video Kurs über das Internet Business ca. 150 Euro Netto Provision) Hohe Conversion, da man den Kurs eine Woche testen kann und es montliche updates gibt (Kostenfrei)
 
 ## 2. Links
 

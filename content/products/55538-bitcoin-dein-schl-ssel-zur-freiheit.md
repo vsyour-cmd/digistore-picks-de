@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><em><strong>Bitcoin - Dein Schlüssel zur Freiheit</strong></em></div>
-<div> </div>
-<div><em><strong>✅ </strong>Deine Community erhält einen Schlüssel durch Freiheit durch Bitcoin</em></div>
-<div> </div>
-<div><em><strong>✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet</strong></em></div>
-<div> </div>
-<div> </div>
-<div><em><strong>Du kannst durch Upsells und AddOn bis zu 123 Euro</strong></em></div>
+**Vendor's marketplace description:** Bitcoin - Dein Schlüssel zur Freiheit ✅ Deine Community erhält einen Schlüssel durch Freiheit durch Bitcoin ✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet Du kannst durch Upsells und AddOn bis zu 123 Euro
 
 ## 2. Links
 

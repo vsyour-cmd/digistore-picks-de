@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Social Media Agent Masterclass</strong>: 70 Schritt-für-Schritt-Lektionen in 15 Modulen zeigen, wie man Social Media mit KI-Agenten steuert – ganz ohne Programmierkenntnisse, rein textbasiert. Mit 19 Agentenrollen, 14 Content-Workflows mit Freigabepunkten, 50 Arbeits-Prompts, Workbook und Content-Planer.</p>
-<p><strong>Zielgruppe:</strong> Creator, Social-Media-Manager und Selbstständige, die Content-Erstellung mit KI systematisieren wollen.</p>
-<p><strong>Dein Vorteil als Partner:</strong> 50 % Provision bei 89 € Einmalpreis, automatische Partnerfreischaltung, hochwertige Optik und fertige Werbevideos.</p>
+**Vendor's marketplace description:** Social Media Agent Masterclass : 70 Schritt-für-Schritt-Lektionen in 15 Modulen zeigen, wie man Social Media mit KI-Agenten steuert – ganz ohne Programmierkenntnisse, rein textbasiert. Mit 19 Agentenrollen, 14 Content-Workflows mit Freigabepunkten, 50 Arbeits-Prompts, Workbook und Content-Planer. Zielgruppe: Creator, Social-Media-Manager und Selbstständige, die Content-Erstellung mit KI systematisieren wollen. Dein Vorteil als Partner: 50 % Provision bei 89 € Einmalpreis, automatische Partnerfreischaltung, hochwertige Optik und fertige Werbevideos.
 
 ## 2. Links
 

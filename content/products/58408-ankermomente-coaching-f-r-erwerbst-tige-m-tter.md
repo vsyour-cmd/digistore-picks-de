@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>AnkerMomente bietet spezialisiertes Coaching für erwerbstätige Mütter, Karriereübergänge und das Management von Mental Load.</strong> Wir suchen gezielt Nischenpartner (Psychologen, HR-Berater, Parenting- und Lifestyle-Blogger) für die Empfehlung qualifizierter Kundinnen. Wir bieten eine Provision von 10 % pro vermittelter Sitzung.</p>
+**Vendor's marketplace description:** AnkerMomente bietet spezialisiertes Coaching für erwerbstätige Mütter, Karriereübergänge und das Management von Mental Load. Wir suchen gezielt Nischenpartner (Psychologen, HR-Berater, Parenting- und Lifestyle-Blogger) für die Empfehlung qualifizierter Kundinnen. Wir bieten eine Provision von 10 % pro vermittelter Sitzung.
 
 ## 2. Links
 

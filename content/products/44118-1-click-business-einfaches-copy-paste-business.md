@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Ein einfaches Copy &amp; Paste Business System!<br /></strong></h2>
-<p><strong>Für alle Affiliates eine klasse Chance.</strong> Denn du bekommst auf dieses Produkt 30% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann <strong>30 - 50% Provision</strong> gibt.</p>
-<p><strong>Insgesamt können damit über 500 Euro an Provision verdient werden.</strong></p>
-<p>Landing Page und Webinar konvertieren sehr gut und es wird immer weiter in kleinen Schritten optimiert.</p>
-<p>Im Programm ist folgendes enthalten:</p>
-<ul>
-<li>...<strong> 6 fertige Online-Kurse</strong>, die bereits erprobt sind und gut funktionieren, somit 100% Einnahmen beim Kunden + Listenaufbau</li>
-<li>... wie sich der Kunde damit ein passives Einkommen und ein <strong>Cashflow System aufbauen kann</strong>, welches ihm ein <strong>fünfstelliges Einkommen</strong> pro Monat einbringen kann.</li>
-<li>... wie der Kunde <strong>die künstliche Intelligenz zu seinen Vorteilen</strong> nutzen kann!</li>
-<li>... inkl. Landing Pages, Funnels und vieles mehr!</li>
-<li>... wie du in weniger Zeit mehr schaffst.</li>
-<li>... <strong>inkl. aller Templates und Vorlagen</strong>, zum Sofortnachmachen!</li>
-<li>... eine <strong>glasklare Schritt-für-Schritt-Anleitung</strong>, <strong>als ob wir neben dir sitzen</strong> und dir Schritt-für-Schritt sagen, was du wann machen und wo klicken solltest.</li>
-<li>... und einiges mehr</li>
-</ul>
-<p><strong>Es ist wirklich super einfach umzusetzen!</strong> Mit allen Checklisten, Vorlagen, Landing Pages, Funnels, E-Mail-Marketing-Funnel, etc. Somit wird einfach unser Business kopiert.</p>
-<p><strong>Das ist eine einmalige Chance!</strong></p>
+**Vendor's marketplace description:** Ein einfaches Copy & Paste Business System! Für alle Affiliates eine klasse Chance. Denn du bekommst auf dieses Produkt 30% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Insgesamt können damit über 500 Euro an Provision verdient werden. Landing Page und Webinar konvertieren sehr gut und es wird immer weiter in kleinen Schritten optimiert. Im Programm ist folgendes enthalten: ... 6 fertige Online-Kurse , die bereits erprobt sind und gut funktionieren, somit 100% Einnahmen beim Kunden + Listenaufbau ... wie sich der Kunde damit ein passives Einkommen und ein Cashflow System aufbauen kann , welches ihm ein fünfstelliges Einkommen pro Monat einbringen kann. ... wie der Kunde die künstliche Intelligenz zu seinen Vorteilen nutzen kann! ... inkl. Landing Pages, Funnels und vieles mehr! ... wie du in weniger Zeit mehr schaffst. ... inkl. aller Templates und Vorlagen , zum Sofortnachmachen! ... eine glasklare Schritt-für-Schritt-Anleitung , als ob wir neben dir sitzen und dir Schritt-für-Schritt sagen, was du wann machen und wo klicken solltest. ... und einiges mehr Es ist wirklich super einfach umzusetzen! Mit allen Checklisten, Vorlagen, Landing Pages, Funnels, E-Mail-Marketing-Funnel, etc. Somit wird einfach unser Business kopiert. Das ist eine einmalige Chance!
 
 ## 2. Links
 

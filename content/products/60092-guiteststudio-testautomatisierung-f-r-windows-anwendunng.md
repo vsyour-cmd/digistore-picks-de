@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das Produkt</strong></p>
-<p>GUITestStudio ist ein Werkzeug zur Testautomatisierung für Windows-Anwendungen. Du zeichnest Bedienabläufe einfach auf und spielst sie beliebig oft wieder ab. Programmierkenntnisse brauchst du dafür nicht. Auch bei Oberflächen, die sich schwer automatisieren lassen, findet GUITestStudio zuverlässig die richtigen Stellen, dank Bilderkennung mit Bildankern.</p>
-<p><strong>Was GUITestStudio kann</strong></p>
-<ul>
-<li><strong>Aufnahme &amp; Wiedergabe:</strong> Testabläufe aufzeichnen und automatisch wiederholen</li>
-<li><strong>Bildanker:</strong> Elemente per Bilderkennung finden, auch wenn klassische Methoden versagen</li>
-<li><strong>Metriken:</strong> Laufzeiten und Messwerte während des Tests erfassen</li>
-<li><strong>Diagnose:</strong> Bei Fehlern liefert GUITestStudio Analysedaten zur Ursache</li>
-<li><strong>KI-Prüfung:</strong> Bildschirminhalte werden mit KI ausgewertet</li>
-<li><strong>Video-Aufnahme:</strong> Jeder Testlauf wird dokumentiert und lässt sich später nachvollziehen</li>
-<li><strong>Viewer:</strong> Ergebnisse komfortabel ansehen und auswerten</li>
-</ul>
-<p><strong>Für wen ist das Produkt interessant?</strong></p>
-<ul>
-<li>Softwareentwickler und Entwicklungsteams</li>
-<li>Tester und QA-Verantwortliche</li>
-<li>Anbieter von Branchensoftware, zum Beispiel im Gesundheitswesen</li>
-<li>Unternehmen, die ihre Windows-Anwendungen dauerhaft überwachen oder regelmäßig prüfen wollen</li>
-</ul>
-<p><strong>Warum sich das Produkt gut empfehlen lässt</strong></p>
-<ul>
-<li>Konkreter Nutzen: weniger manuelles Testen, früher erkannte Fehler, nachvollziehbare Ergebnisse</li>
-<li>Löst ein echtes Problem für Firmen, die sich keine aufwendige Test-Infrastruktur leisten wollen</li>
-<li>Wird bereits bei Entwicklern und in Kliniken eingesetzt</li>
-<li>Entwickelt und betreut von einem deutschen Anbieter (Inspired Software)</li>
-</ul>
+**Vendor's marketplace description:** Das Produkt GUITestStudio ist ein Werkzeug zur Testautomatisierung für Windows-Anwendungen. Du zeichnest Bedienabläufe einfach auf und spielst sie beliebig oft wieder ab. Programmierkenntnisse brauchst du dafür nicht. Auch bei Oberflächen, die sich schwer automatisieren lassen, findet GUITestStudio zuverlässig die richtigen Stellen, dank Bilderkennung mit Bildankern. Was GUITestStudio kann Aufnahme & Wiedergabe: Testabläufe aufzeichnen und automatisch wiederholen Bildanker: Elemente per Bilderkennung finden, auch wenn klassische Methoden versagen Metriken: Laufzeiten und Messwerte während des Tests erfassen Diagnose: Bei Fehlern liefert GUITestStudio Analysedaten zur Ursache KI-Prüfung: Bildschirminhalte werden mit KI ausgewertet Video-Aufnahme: Jeder Testlauf wird dokumentiert und lässt sich später nachvollziehen Viewer: Ergebnisse komfortabel ansehen und auswerten Für wen ist das Produkt interessant? Softwareentwickler und Entwicklungsteams Tester und QA-Verantwortliche Anbieter von Branchensoftware, zum Beispiel im Gesundheitswesen Unternehmen, die ihre Windows-Anwendungen dauerhaft überwachen oder regelmäßig prüfen wollen Warum sich das Produkt gut empfehlen lässt Konkreter Nutzen: weniger manuelles Testen, früher erkannte Fehler, nachvollziehbare Ergebnisse Löst ein echtes Problem für Firmen, die sich keine aufwendige Test-Infrastruktur leisten wollen Wird bereits bei Entwicklern und in Kliniken eingesetzt Entwickelt und betreut von einem deutschen Anbieter (Inspired Software)
 
 ## 2. Links
 

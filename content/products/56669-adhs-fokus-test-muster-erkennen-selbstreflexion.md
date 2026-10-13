@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der ADHS-Fokus-Test ist ein digitaler Selbstreflexions-Test für Menschen, die ihre Aufmerksamkeitsmuster, Fokusprobleme und typischen Alltagshürden besser verstehen möchten.</p>
-<p>Das Produkt ersetzt keine Diagnose, bietet aber eine strukturierte Orientierung mit konkreter Auswertung und PDF-Report. Ideal für Zielgruppen rund um ADHS, Neurodivergenz, Selbstorganisation, Konzentration, Beruf, Bewerbung und persönliche Entwicklung.</p>
+**Vendor's marketplace description:** Der ADHS-Fokus-Test ist ein digitaler Selbstreflexions-Test für Menschen, die ihre Aufmerksamkeitsmuster, Fokusprobleme und typischen Alltagshürden besser verstehen möchten. Das Produkt ersetzt keine Diagnose, bietet aber eine strukturierte Orientierung mit konkreter Auswertung und PDF-Report. Ideal für Zielgruppen rund um ADHS, Neurodivergenz, Selbstorganisation, Konzentration, Beruf, Bewerbung und persönliche Entwicklung.
 
 ## 2. Links
 

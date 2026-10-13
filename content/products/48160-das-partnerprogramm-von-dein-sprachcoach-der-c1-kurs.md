@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><strong>C1-Kurs "Grammatik-Helden und Wortschatz-Profis" - 30% pro Verkauf!</strong><strong><br /></strong></h4>
-<p><strong>Werde ebenfalls Affiliatepartner </strong>und profitiere von einem beliebten und einzigartigen Affiliate Programm!</p>
-<p><strong>Einzigartig [hohe Conversion]:<br /></strong></p>
-<ul>
-<li><strong>30% Provision</strong> vom C1-Kurs (199€)</li>
-<li>Überdurchschnittlich <strong>hohe Conversion Rates</strong> (bis zu 30% auf einzelnen Landingpages)</li>
-<li>Besonders lange <strong>Cookielaufzeit von 180 Tagen</strong></li>
-<li>Persönlicher und<strong> schneller Support</strong></li>
-</ul>
-<p>Starke Personal Brand von Deinem Sprachcoach (1.500.000+ Follower auf Social Media) erhöht den Wiedererkennungswert und führt zu einer schnelleren Kaufentscheidung.<br /><br />Nachdem wir <strong>organisch über 40.000 Kunden </strong>überzeugen konnten und die Verkaufsprozesse optimiert haben, wollen wir weiter skalieren. Daher suchen wir DICH als Affiliate Marketing PartnerIn.</p>
-<p><em>Du hast eine bestehende Community, die an der deutschen Sprache interessiert ist?</em></p>
-<p><em>Oder du bist erfahren im Online Marketing?</em></p>
-<p>Dann überzeuge dich von unserem Partnerprogramm, schalte Online Werbung für unseren B1-Kurs und verdiene damit Geld.</p>
-<p><a href="https://dein-sprachcoach.de/partnerprogramm/" target="_blank" rel="noreferrer noopener"><strong>&gt;&gt; Hinweise zum Partnerprogramm (hier klicken) &lt;&lt;</strong></a></p>
+**Vendor's marketplace description:** C1-Kurs "Grammatik-Helden und Wortschatz-Profis" - 30% pro Verkauf! Werde ebenfalls Affiliatepartner und profitiere von einem beliebten und einzigartigen Affiliate Programm! Einzigartig [hohe Conversion]: 30% Provision vom C1-Kurs (199€) Überdurchschnittlich hohe Conversion Rates (bis zu 30% auf einzelnen Landingpages) Besonders lange Cookielaufzeit von 180 Tagen Persönlicher und schneller Support Starke Personal Brand von Deinem Sprachcoach (1.500.000+ Follower auf Social Media) erhöht den Wiedererkennungswert und führt zu einer schnelleren Kaufentscheidung. Nachdem wir organisch über 40.000 Kunden überzeugen konnten und die Verkaufsprozesse optimiert haben, wollen wir weiter skalieren. Daher suchen wir DICH als Affiliate Marketing PartnerIn. Du hast eine bestehende Community, die an der deutschen Sprache interessiert ist? Oder du bist erfahren im Online Marketing? Dann überzeuge dich von unserem Partnerprogramm, schalte Online Werbung für unseren B1-Kurs und verdiene damit Geld. >> Hinweise zum Partnerprogramm (hier klicken) <<
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Promote mein kostenloses E-Book und bekomme pro Download 1€ gutgeschrieben. </p>
-<p>Um für dieses Produkt als Affiliate freigeschalten zu werden, schicke mir bitte eine E-Mail an: <a>melanie@vegaliferocks.de</a> mit der Angabe deiner Webseite/ Blog oder Social Media Auftritt, wo du das Produkt bewerben wirst. </p>
-<p>Vielen Dank und viele Grüße Melanie</p>
-<p> </p>
+**Vendor's marketplace description:** Promote mein kostenloses E-Book und bekomme pro Download 1€ gutgeschrieben. Um für dieses Produkt als Affiliate freigeschalten zu werden, schicke mir bitte eine E-Mail an: melanie@vegaliferocks.de mit der Angabe deiner Webseite/ Blog oder Social Media Auftritt, wo du das Produkt bewerben wirst. Vielen Dank und viele Grüße Melanie
 
 ## 2. Links
 

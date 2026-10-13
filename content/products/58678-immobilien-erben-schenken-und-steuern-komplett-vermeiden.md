@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><strong>498,50 € Provision pro Verkauf – plus Folgeprovisionen</strong></h1>
-<p>Du schickst den Interessenten.</p>
-<p><strong>Unser professioneller Nachfolge-Workshop übernimmt den Verkauf.</strong></p>
-<p>Thema: <strong>Immobilien vererben, verschenken und Steuern minimieren – bis hin zur vollständigen Vermeidung in passenden Gestaltungen.</strong></p>
-<p>Für Deine Zielgruppe hochrelevant, weil schnell <strong>Zehntausende oder sogar Hunderttausende Euro</strong> auf dem Spiel stehen können.</p>
-<p> </p>
-<p><strong>Deine Vorteile als Partner:</strong></p>
-<ul>
-<li><strong>997 € Verkaufspreis</strong></li>
-<li><strong>50 % Provision</strong></li>
-<li><strong>498,50 € pro Abschluss</strong></li>
-<li>professioneller Workshop mit starkem Verkaufsaufbau</li>
-<li>vermögende, klar definierte Zielgruppe</li>
-<li>hoher finanzieller Schmerz und echte Dringlichkeit</li>
-<li><strong>zusätzliche Provisionen aus Folge-Funnels</strong></li>
-</ul>
-<p> </p>
-<p>Der große Hebel:</p>
-<p><strong>Du musst das Produkt nicht selbst verkaufen.</strong><br />Du bringst den Lead in den Workshop – wir übernehmen Aufklärung, Bedarf, Nutzen und Abschluss.</p>
-<p>Ideal für Immobilien-, Finanz-, Investment-, Unternehmer- und Vermögens-Communities.</p>
-<p><strong>1 Verkauf = 498,50 € Provision.</strong><br />Und ein guter Lead kann Dir durch spätere Käufe noch mehrfach Umsatz bringen.</p>
-<p> </p>
-<p>
+**Vendor's marketplace description:** 498,50 € Provision pro Verkauf – plus Folgeprovisionen Du schickst den Interessenten. Unser professioneller Nachfolge-Workshop übernimmt den Verkauf. Thema: Immobilien vererben, verschenken und Steuern minimieren – bis hin zur vollständigen Vermeidung in passenden Gestaltungen. Für Deine Zielgruppe hochrelevant, weil schnell Zehntausende oder sogar Hunderttausende Euro auf dem Spiel stehen können. Deine Vorteile als Partner: 997 € Verkaufspreis 50 % Provision 498,50 € pro Abschluss professioneller Workshop mit starkem Verkaufsaufbau vermögende, klar definierte Zielgruppe hoher finanzieller Schmerz und echte Dringlichkeit zusätzliche Provisionen aus Folge-Funnels Der große Hebel: Du musst das Produkt nicht selbst verkaufen. Du bringst den Lead in den Workshop – wir übernehmen Aufklärung, Bedarf, Nutzen und Abschluss. Ideal für Immobilien-, Finanz-, Investment-, Unternehmer- und Vermögens-Communities. 1 Verkauf = 498,50 € Provision. Und ein guter Lead kann Dir durch spätere Käufe noch mehrfach Umsatz bringen.
 
 ## 2. Links
 

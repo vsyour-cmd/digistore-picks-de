@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses Buch trifft den Nerv einer Zielgruppe, die geopolitische Machtverhältnisse, internationale Konflikte und Völkerrecht kritisch hinterfragt, und bietet tiefgehende Analysen historischer Interventionen von Iran bis Ukraine.</p>
-<p>Es verbindet aktuelle Relevanz mit kontroversen Themen, erzeugt hohe Diskussionsbereitschaft und spricht Leser an, die Zusammenhänge hinter globalen Entscheidungen verstehen wollen.</p>
-<p>Die klare Fokussierung auf Macht, Recht und internationale Ordnung schafft starke emotionale Trigger rund um Gerechtigkeit, Souveränität und politische Einflussnahme – ideale Voraussetzungen für Aufmerksamkeit und Conversion.</p>
+**Vendor's marketplace description:** Dieses Buch trifft den Nerv einer Zielgruppe, die geopolitische Machtverhältnisse, internationale Konflikte und Völkerrecht kritisch hinterfragt, und bietet tiefgehende Analysen historischer Interventionen von Iran bis Ukraine. Es verbindet aktuelle Relevanz mit kontroversen Themen, erzeugt hohe Diskussionsbereitschaft und spricht Leser an, die Zusammenhänge hinter globalen Entscheidungen verstehen wollen. Die klare Fokussierung auf Macht, Recht und internationale Ordnung schafft starke emotionale Trigger rund um Gerechtigkeit, Souveränität und politische Einflussnahme – ideale Voraussetzungen für Aufmerksamkeit und Conversion.
 
 ## 2. Links
 

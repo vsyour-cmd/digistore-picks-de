@@ -41,40 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>NUR 49,- STATT 150,-€</strong></p>
-<h4><strong>Erfolg beginnt im Kopf – Dein Weg aus dem Hamsterrad</strong></h4>
-<p>Dieser <strong>Online-Video-Lernkurs</strong> zeigt dir Schritt für Schritt, wie du dein Leben von Grund auf verändern kannst – raus aus dem Hamsterrad, hin zu einem selbstbestimmten und erfüllten Leben.</p>
-<p>Hast du manchmal das Gefühl, dass du nur noch funktionierst? Dass die Tage an dir vorbeiziehen, ohne dass du wirklich lebst? Du siehst, wie andere ihre Träume verwirklichen, während du dich fragst, warum das für dich nicht möglich ist...</p>
-<p>Vielleicht möchtest du endlich raus aus der finanziellen Enge. Vielleicht willst du deiner Familie mehr bieten – diesen einen unvergesslichen Urlaub, ein Zuhause voller Wärme und Sicherheit. Aber da ist diese leise Stimme in deinem Kopf, die immer wieder sagt: <em>„Das kannst du nicht. Du bist nicht stark genug. Andere schaffen das, aber nicht du.“</em></p>
-<p>Ich kenne diese Stimme. Ich habe jahrelang gegen sie gekämpft. Aber hier ist die Wahrheit: <strong>Es ist nicht die Welt da draußen, die dich aufhält. Es ist das, was du dir selbst erzählst.</strong></p>
-<hr />
-<h4><strong>Stell dir vor: Du brichst aus diesem Kreislauf aus.</strong></h4>
-<p>Du stehst morgens auf und fühlst dich endlich stark. Du weißt, was du willst, und du spürst, dass du es schaffen kannst. Dein Kopf ist nicht länger dein größter Feind – er ist dein stärkster Verbündeter.</p>
-<p>Dieser Kurs zeigt dir, wie du dahin kommst. Schritt für Schritt. Ohne Ausreden, ohne leere Versprechen, sondern mit konkreten Werkzeugen, die dein Leben verändern können.</p>
-<hr />
-<h4><strong>Was erwartet dich in diesem Kurs?</strong></h4>
-<p>„Erfolg beginnt im Kopf“ gibt dir die Anleitung, die du brauchst, um das Leben zu erschaffen, das du dir immer gewünscht hast:</p>
-<ul>
-<li><strong>Negative Glaubenssätze auflösen:</strong> Erkenne und eliminiere die Gedanken, die dich zurückhalten.</li>
-<li><strong>Selbstbewusstsein aufbauen:</strong> Lerne, an dich selbst zu glauben, auch wenn andere es nicht tun.</li>
-<li><strong>Motivation und Dranbleiben:</strong> Bleibe auch dann auf Kurs, wenn es schwierig wird.</li>
-<li><strong>Visionen entwickeln:</strong> Erstelle ein klares Bild deiner Träume und mach sie greifbar.</li>
-<li><strong>Dein Umfeld gestalten:</strong> Finde heraus, wie du dich mit den richtigen Menschen und Einflüssen umgibst.</li>
-</ul>
-<p>Dieser Kurs ist wie ein Kompass, der dir zeigt, wie du aus dem Nebel deiner Zweifel herauskommst – und endlich klar siehst, was alles möglich ist.</p>
-<hr />
-<h4><strong>Warum ich weiß, dass dieser Kurs funktioniert</strong></h4>
-<p>Weil ich selbst an diesem Punkt war. Ich kenne das Gefühl, ganz unten zu sein. Ich weiß, wie es ist, nicht zu wissen, wie man die Miete zahlen soll oder wie man sich jemals etwas wie einen Urlaub leisten könnte.</p>
-<p>2009 stand ich an einem Punkt, an dem ich dachte, es geht nicht mehr weiter. Aber ich habe die Entscheidung getroffen, nicht aufzugeben. Und genau das ist der Schlüssel: <strong>Es spielt keine Rolle, wo du gerade stehst. Es zählt nur, dass du bereit bist, den ersten Schritt zu machen.</strong></p>
-<p><strong> </strong></p>
-<h4><strong>Das Beste: Du bestimmst das Tempo.</strong></h4>
-<p>Es gibt keinen festen Zeitplan und keinen Druck. Du kannst die Inhalte jederzeit in deinen Alltag einbauen. Egal, ob du Mama bist, Vollzeit arbeitest oder einfach wenig Zeit hast – dieser Kurs passt sich deinem Leben an.</p>
-<hr />
-<h4><strong>Bist du bereit, dein Leben zu verändern?</strong></h4>
-<p>Das Leben, von dem du träumst, ist nur eine Entscheidung entfernt. Dein erster Schritt ist, zu sagen: <em>„Ja, ich will.“</em></p>
-<p>➡️ Starte jetzt deinen Kurs und entdecke, was alles möglich ist.</p>
-<p><strong>Erfolg beginnt im Kopf – und dein Erfolg beginnt genau hier.<br /></strong></p>
-<p><strong>NUR 49,- STATT 150,-€</strong></p>
+**Vendor's marketplace description:** NUR 49,- STATT 150,-€ Erfolg beginnt im Kopf – Dein Weg aus dem Hamsterrad Dieser Online-Video-Lernkurs zeigt dir Schritt für Schritt, wie du dein Leben von Grund auf verändern kannst – raus aus dem Hamsterrad, hin zu einem selbstbestimmten und erfüllten Leben. Hast du manchmal das Gefühl, dass du nur noch funktionierst? Dass die Tage an dir vorbeiziehen, ohne dass du wirklich lebst? Du siehst, wie andere ihre Träume verwirklichen, während du dich fragst, warum das für dich nicht möglich ist... Vielleicht möchtest du endlich raus aus der finanziellen Enge. Vielleicht willst du deiner Familie mehr bieten – diesen einen unvergesslichen Urlaub, ein Zuhause voller Wärme und Sicherheit. Aber da ist diese leise Stimme in deinem Kopf, die immer wieder sagt: „Das kannst du nicht. Du bist nicht stark genug. Andere schaffen das, aber nicht du.“ Ich kenne diese Stimme. Ich habe jahrelang gegen sie gekämpft. Aber hier ist die Wahrheit: Es ist nicht die Welt da draußen, die dich aufhält. Es ist das, was du dir selbst erzählst. Stell dir vor: Du brichst aus diesem Kreislauf aus. Du stehst morgens auf und fühlst dich endlich stark. Du weißt, was du willst, und du spürst, dass du es schaffen kannst. Dein Kopf ist nicht länger dein größter Feind – er ist dein stärkster Verbündeter. Dieser Kurs zeigt dir, wie du dahin kommst. Schritt für Schritt. Ohne Ausreden, ohne leere Versprechen, sondern mit konkreten Werkzeugen, die dein Leben verändern können. Was erwartet dich in diesem Kurs? „Erfolg beginnt im Kopf“ gibt dir die Anleitung, die du brauchst, um das Leben zu erschaffen, das du dir immer gewünscht hast: Negative Glaubenssätze auflösen: Erkenne und eliminiere die Gedanken, die dich zurückhalten. Selbstbewusstsein aufbauen: Lerne, an dich selbst zu glauben, auch wenn andere es nicht tun. Motivation und Dranbleiben: Bleibe auch dann auf Kurs, wenn es schwierig wird. Visionen entwickeln: Erstelle ein klares Bild deiner Träume und mach sie greifbar. Dein Umfeld gestalten: Finde heraus, wie du dich mit den richtigen Menschen und Einflüssen umgibst. Dieser Kurs ist wie ein Kompass, der dir zeigt, wie du aus dem Nebel deiner Zweifel herauskommst – und endlich klar siehst, was alles möglich ist. Warum ich weiß, dass dieser Kurs funktioniert Weil ich selbst an diesem Punkt war. Ich kenne das Gefühl, ganz unten zu sein. Ich weiß, wie es ist, nicht zu wissen, wie man die Miete zahlen soll oder wie man sich jemals etwas wie einen Urlaub leisten könnte. 2009 stand ich an einem Punkt, an dem ich dachte, es geht nicht mehr weiter. Aber ich habe die Entscheidung getroffen, nicht aufzugeben. Und genau das ist der Schlüssel: Es spielt keine Rolle, wo du gerade stehst. Es zählt nur, dass du bereit bist, den ersten Schritt zu machen. Das Beste: Du bestimmst das Tempo. Es gibt keinen festen Zeitplan und keinen Druck. Du kannst die Inhalte jederzeit in deinen Alltag einbauen. Egal, ob du Mama bist, Vollzeit arbeitest oder einfach wenig Zeit hast – dieser Kurs passt sich deinem Leben an. Bist du bereit, dein Leben zu verändern? Das Leben, von dem du träumst, ist nur eine Entscheidung entfernt. Dein erster Schritt ist, zu sagen: „Ja, ich will.“ ➡️ Starte jetzt deinen Kurs und entdecke, was alles möglich ist. Erfolg beginnt im Kopf – und dein Erfolg beginnt genau hier. NUR 49,- STATT 150,-€
 
 ## 2. Links
 

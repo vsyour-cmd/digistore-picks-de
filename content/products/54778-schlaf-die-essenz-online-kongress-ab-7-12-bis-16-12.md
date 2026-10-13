@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Online Kongress zum Thema Schlaf</p>
-<p><a href="https://pulsing-earth.com/schlaf-online-kongress/">https://pulsing-earth.com/schlaf-online-kongress/</a></p>
-<p>Affiliate-Provision verhandelbar.</p>
+**Vendor's marketplace description:** Online Kongress zum Thema Schlaf https://pulsing-earth.com/schlaf-online-kongress/ Affiliate-Provision verhandelbar.
 
 ## 2. Links
 

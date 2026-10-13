@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Affiliate-Provision: 50 % Provision auf alle Addons, Order Bumps und Upsells.</strong></p>
-<p><strong>Reddit Cashflow</strong> ist ein strategischer Guide für alle, die eine profitable Traffic-Quelle suchen, ohne auf klassische Werbung oder Face-to-Camera-Content angewiesen zu sein. Du lernst, wie du die 3 Millionen Subreddits nutzt, um durch echten Mehrwert anonym Vertrauen aufzubauen und Nutzer systematisch in zahlende Kunden zu verwandeln.</p>
-<h3>Das ist enthalten</h3>
-<ul>
-<li>
-<p><strong>Strategischer Plattform-Guide:</strong> Die exakte Anleitung zum Aufbau von Karma und Autorität, um Sichtbarkeit in relevanten Nischen zu gewinnen.</p>
-<p> </p>
-</li>
-<li>
-<p><strong>Content- &amp; Monetarisierungs-System:</strong> Vorlagen für Posts, die verkaufen, ohne nach Werbung zu klingen, inklusive der Anleitung für den perfekten Traffic-Funnel.</p>
-<p> </p>
-<p> </p>
-</li>
-<li>
-<p><strong>30-Tage-Actionplan:</strong> Ein strukturierter Fahrplan von der Account-Erstellung über das erste Freebie bis hin zur Skalierung deines Cashflows.</p>
-<div> </div>
-<p> </p>
-</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** Affiliate-Provision: 50 % Provision auf alle Addons, Order Bumps und Upsells. Reddit Cashflow ist ein strategischer Guide für alle, die eine profitable Traffic-Quelle suchen, ohne auf klassische Werbung oder Face-to-Camera-Content angewiesen zu sein. Du lernst, wie du die 3 Millionen Subreddits nutzt, um durch echten Mehrwert anonym Vertrauen aufzubauen und Nutzer systematisch in zahlende Kunden zu verwandeln. Das ist enthalten Strategischer Plattform-Guide: Die exakte Anleitung zum Aufbau von Karma und Autorität, um Sichtbarkeit in relevanten Nischen zu gewinnen. Content- & Monetarisierungs-System: Vorlagen für Posts, die verkaufen, ohne nach Werbung zu klingen, inklusive der Anleitung für den perfekten Traffic-Funnel. 30-Tage-Actionplan: Ein strukturierter Fahrplan von der Account-Erstellung über das erste Freebie bis hin zur Skalierung deines Cashflows.
 
 ## 2. Links
 

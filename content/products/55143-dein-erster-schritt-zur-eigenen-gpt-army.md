@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><em><strong>Dein erster Schritt zur eigenen GPT Army </strong></em></div>
-<div> </div>
-<div><em><strong>✅ </strong>Deine Community erhält einen Leitfaden, wie Sie ihren ersten eigenen GPT erstellen können.</em></div>
-<div> </div>
-<div><em><strong>✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet</strong></em></div>
-<div><br /><em><strong>Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm...</strong></em></div>
-<div> </div>
-<div><em><strong>Du kannst durch Upsells und AddOn bis zu 173 Euro</strong></em></div>
+**Vendor's marketplace description:** Dein erster Schritt zur eigenen GPT Army ✅ Deine Community erhält einen Leitfaden, wie Sie ihren ersten eigenen GPT erstellen können. ✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm... Du kannst durch Upsells und AddOn bis zu 173 Euro
 
 ## 2. Links
 

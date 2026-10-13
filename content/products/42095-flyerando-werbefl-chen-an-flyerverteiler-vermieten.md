@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Mit Flyerando können Unternehmer unkompliziert durch die Vermietung von Werbeflächen an Flyerverteiler Umsatz generieren!<br /></strong></p>
-<p>Der Aufwand für die Verwaltung und die Vermietung von Flyerfächern ist ohne dem richtigen Werkzeug ist nicht unerheblich.  Und genau deshalb haben wir diese Plattform entwickelt!</p>
-<ul>
-<li>Zielgruppe sind Ladengeschäfte mit Laufpublikum</li>
-<li>Attraktives Freemium Modell für eine hohe Conversion-Rate</li>
-<li>Optimierte Sales Page</li>
-</ul>
-<p><strong>Multi-Device -Tracking</strong></p>
-<p>Egal wann oder auf welchem Gerät die Nutzer von der kostenlosen Version auf das bezahlte Abo umstellen -&gt; dank Multi—Device-Tracking via Email-Hashing wird der Verkauf garantiert dir zugeordnet und du erhältst deine Provision!</p>
-<p><span style="color:#ff0000;"><strong>Bewirb Flyerando JETZT! <br />(40% Provision auf alle wiederkehrenden Zahlungen)</strong></span></p>
+**Vendor's marketplace description:** Mit Flyerando können Unternehmer unkompliziert durch die Vermietung von Werbeflächen an Flyerverteiler Umsatz generieren! Der Aufwand für die Verwaltung und die Vermietung von Flyerfächern ist ohne dem richtigen Werkzeug ist nicht unerheblich. Und genau deshalb haben wir diese Plattform entwickelt! Zielgruppe sind Ladengeschäfte mit Laufpublikum Attraktives Freemium Modell für eine hohe Conversion-Rate Optimierte Sales Page Multi-Device -Tracking Egal wann oder auf welchem Gerät die Nutzer von der kostenlosen Version auf das bezahlte Abo umstellen -> dank Multi—Device-Tracking via Email-Hashing wird der Verkauf garantiert dir zugeordnet und du erhältst deine Provision! Bewirb Flyerando JETZT! (40% Provision auf alle wiederkehrenden Zahlungen)
 
 ## 2. Links
 

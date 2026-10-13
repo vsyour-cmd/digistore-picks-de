@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Amazilon WordPress Plugin richtet sich an Amazon Affiliates. Per WordPress Plugin kinderleicht Amazon Produkte über das Partnernet in die eigene Seite integrieren und verlinken.</p>
-<ul><li>Produkte einfach über das Amazon Partnerprogramm bewerben</li>
-<li>Individuelle Amazon-Tracking IDs einsetzbar</li>
-<li>API Zugriff aktuelle Daten.</li>
-<li>Sehr hohe Flexibilität bei der Einbindung der gewünschten Daten.</li>
-<li>Cachingzeit wählbar</li>
-<li>Individuelle Fallback-Angaben</li>
-<li>E-Mail Alert für nicht verfügbare Produkte</li>
-<li>Google Analytics Event-Klick-Tracking</li>
-<li>u.m.</li>
-</ul><p>Verdiene jetzt Geld mit deinem Blog. Mehr auf <a>amazilon.com</a></p>
+**Vendor's marketplace description:** Das Amazilon WordPress Plugin richtet sich an Amazon Affiliates. Per WordPress Plugin kinderleicht Amazon Produkte über das Partnernet in die eigene Seite integrieren und verlinken. Produkte einfach über das Amazon Partnerprogramm bewerben Individuelle Amazon-Tracking IDs einsetzbar API Zugriff aktuelle Daten. Sehr hohe Flexibilität bei der Einbindung der gewünschten Daten. Cachingzeit wählbar Individuelle Fallback-Angaben E-Mail Alert für nicht verfügbare Produkte Google Analytics Event-Klick-Tracking u.m. Verdiene jetzt Geld mit deinem Blog. Mehr auf amazilon.com
 
 ## 2. Links
 

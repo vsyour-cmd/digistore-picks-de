@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du willst gut Drohne fliegen und endlich gute Aufnahmen mit deiner Drohne machen?<br />Mit diesen Spickzetteln steht diesem Wunsch Nichts mehr im Wege! Durch das kompakte und unkomplizierte Wissen auf diesen Drohnen-Spickzetteln, hast du alles notwendige Wissen über Drohnen auf einen Blick!</p>
-<p>Du kennst das bestimmt: Du kaufst dir eine neue Drohne und würdest am liebsten lostraten ohne dich tagelang reinlesen zu müssen. Das klappt nun ganz einfach mit den neuen und einzigartigen Drohnen-Spickzetteln von Photofocus. Immer und überall dabei helfen sie dir schnell und einfach die Grundlagen des Drohnenflugs, der Kameratechnik und des Luftrechts zu verstehen.</p>
-<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Statt 19,90€ jetzt um nur 9,90€</strong></span></p>
-<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Pro Karte nur 0,50€</strong></span></p>
-<p> </p>
+**Vendor's marketplace description:** Du willst gut Drohne fliegen und endlich gute Aufnahmen mit deiner Drohne machen? Mit diesen Spickzetteln steht diesem Wunsch Nichts mehr im Wege! Durch das kompakte und unkomplizierte Wissen auf diesen Drohnen-Spickzetteln, hast du alles notwendige Wissen über Drohnen auf einen Blick! Du kennst das bestimmt: Du kaufst dir eine neue Drohne und würdest am liebsten lostraten ohne dich tagelang reinlesen zu müssen. Das klappt nun ganz einfach mit den neuen und einzigartigen Drohnen-Spickzetteln von Photofocus. Immer und überall dabei helfen sie dir schnell und einfach die Grundlagen des Drohnenflugs, der Kameratechnik und des Luftrechts zu verstehen. Statt 19,90€ jetzt um nur 9,90€ Pro Karte nur 0,50€
 
 ## 2. Links
 

@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>So kannst du mit YouTube eine ungemein geniale Leadmaschine aufbauen!<br /></strong></h2>
-<p><strong>Für alle Affiliates eine klasse Chance.</strong> Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann <strong>30 - 50% Provision</strong> gibt.</p>
-<p><strong>Insgesamt können damit über 400 Euro an Provision verdient werden.</strong></p>
-<p>Im Programm ist folgendes enthalten:</p>
-<ul>
-<li>... wie du einen <strong>professionellen YouTube Kanal</strong> aufbaust und damit <strong>Leads ohne Ende</strong> dank YouTube gewinnst und <strong>das ohne Marketingkosten</strong>.</li>
-<li>... wie du deinen YouTube Kanal so aufbaust, dass <strong>er für dich neue Kunden gewinnt</strong>.<strong><br /></strong></li>
-<li>... wie du Videos erstellst, die deine Interessenten zum <strong>Klicken, Schauen und Eintragen animieren</strong>.</li>
-<li>... wie du <strong>klickstarke Thumbnails</strong> erstellst, inkl. Beispielen und Vorlagen.</li>
-<li>... wie du von YouTube <strong>für deine Videos bezahlt wirst</strong>, obwohl du für dich Neukunden generierst.</li>
-<li>... wie du <strong>die künstliche Intelligenz zu deinen Vorteilen</strong> nutzt, sodass du in weniger Zeit deutlich mehr schaffst.</li>
-<li>... <strong>inkl. aller Templates und Vorlagen</strong>, zum Sofortnachmachen!</li>
-<li>... eine <strong>glasklare Schritt-für-Schritt-Anleitung</strong>, als ob wir neben dir sitzen und dir Schritt-für-Schritt sagen, was du wann machen und wohin klicken solltest.</li>
-<li>... und einiges mehr</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** So kannst du mit YouTube eine ungemein geniale Leadmaschine aufbauen! Für alle Affiliates eine klasse Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Insgesamt können damit über 400 Euro an Provision verdient werden. Im Programm ist folgendes enthalten: ... wie du einen professionellen YouTube Kanal aufbaust und damit Leads ohne Ende dank YouTube gewinnst und das ohne Marketingkosten . ... wie du deinen YouTube Kanal so aufbaust, dass er für dich neue Kunden gewinnt . ... wie du Videos erstellst, die deine Interessenten zum Klicken, Schauen und Eintragen animieren . ... wie du klickstarke Thumbnails erstellst, inkl. Beispielen und Vorlagen. ... wie du von YouTube für deine Videos bezahlt wirst , obwohl du für dich Neukunden generierst. ... wie du die künstliche Intelligenz zu deinen Vorteilen nutzt, sodass du in weniger Zeit deutlich mehr schaffst. ... inkl. aller Templates und Vorlagen , zum Sofortnachmachen! ... eine glasklare Schritt-für-Schritt-Anleitung , als ob wir neben dir sitzen und dir Schritt-für-Schritt sagen, was du wann machen und wohin klicken solltest. ... und einiges mehr
 
 ## 2. Links
 

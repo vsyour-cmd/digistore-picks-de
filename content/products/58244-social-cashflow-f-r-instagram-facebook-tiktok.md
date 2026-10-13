@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Social Cashflow</strong> ist ein praxisnahes E-Book für Anfänger, die auf <strong>Instagram, Facebook und TikTok</strong> regelmäßiger sichtbar werden möchten, ohne jeden Tag wieder planlos nach neuen Content-Ideen zu suchen.</p>
-<p>Das E-Book zeigt Schritt für Schritt, wie aus einzelnen Posts ein verständliches Social-Media-System entsteht.</p>
-<p>Die Leser lernen unter anderem:</p>
-<ul>
-<li>Zielgruppe und Botschaft klar festzulegen</li>
-<li>passende Content-Säulen aufzubauen</li>
-<li>Hooks zu entwickeln, die Aufmerksamkeit erzeugen</li>
-<li>Inhalte für Instagram, Facebook und TikTok sinnvoll anzupassen</li>
-<li>CTAs natürlich mit dem eigenen Angebot zu verbinden</li>
-<li>KI für Ideen, Planung und Content-Erstellung einzusetzen</li>
-<li>bestehende Inhalte mehrfach zu verwenden</li>
-<li>Ergebnisse auszuwerten und den eigenen Content zu verbessern</li>
-</ul>
-<p>Zusätzlich enthält <strong>Social Cashflow</strong> praktische KI-Prompts, <strong>50 Hooks, 30 Content-Ideen und einen 30-Tage-Umsetzungsplan</strong>.</p>
-<p><strong>Zielgruppe:</strong> Online-Business-Einsteiger, Selbstständige, Affiliates und digitale Produktersteller, die Social Media strukturierter für Sichtbarkeit und Verkauf nutzen möchten.</p>
-<p>Fertige Werbetexte, Hooks und Werbemittel stehen Affiliates auf der Affiliate-Support-Seite zur Verfügung:</p>
+**Vendor's marketplace description:** Social Cashflow ist ein praxisnahes E-Book für Anfänger, die auf Instagram, Facebook und TikTok regelmäßiger sichtbar werden möchten, ohne jeden Tag wieder planlos nach neuen Content-Ideen zu suchen. Das E-Book zeigt Schritt für Schritt, wie aus einzelnen Posts ein verständliches Social-Media-System entsteht. Die Leser lernen unter anderem: Zielgruppe und Botschaft klar festzulegen passende Content-Säulen aufzubauen Hooks zu entwickeln, die Aufmerksamkeit erzeugen Inhalte für Instagram, Facebook und TikTok sinnvoll anzupassen CTAs natürlich mit dem eigenen Angebot zu verbinden KI für Ideen, Planung und Content-Erstellung einzusetzen bestehende Inhalte mehrfach zu verwenden Ergebnisse auszuwerten und den eigenen Content zu verbessern Zusätzlich enthält Social Cashflow praktische KI-Prompts, 50 Hooks, 30 Content-Ideen und einen 30-Tage-Umsetzungsplan . Zielgruppe: Online-Business-Einsteiger, Selbstständige, Affiliates und digitale Produktersteller, die Social Media strukturierter für Sichtbarkeit und Verkauf nutzen möchten. Fertige Werbetexte, Hooks und Werbemittel stehen Affiliates auf der Affiliate-Support-Seite zur Verfügung:
 
 ## 2. Links
 

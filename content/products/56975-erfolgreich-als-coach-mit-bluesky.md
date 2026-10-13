@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du auf der dezentralen X-Alternative Vertrauen aufbaust und planbar Kunden gewinnst</strong></p>
-<p>Als Coach brauchst du eine Plattform, auf der Vertrauen schnell wächst und dein Content nicht von einem undurchsichtigen Algorithmus begraben wird. Bluesky bietet genau das: dank AT-Protocol und Custom Feeds erreichst du deine Zielgruppe direkt, ohne für Reichweite zu bezahlen. Das frühe Chance-Fenster macht es möglich, dich heute als Anlaufstelle deiner Nische zu positionieren, bevor der Wettbewerb aufwacht. Dieses E-Book zeigt dir, wie du auf Bluesky eine Expertenpräsenz aufbaust, die über Konversation und Replies kontinuierlich Vertrauen schafft, wie du Starter Packs strategisch für Sichtbarkeit nutzt und wie du einen Funnel baust, der aus Bluesky-Kontakten qualifizierte Anfragen macht. Kein Zufallstreffer – ein System, das auf der Eigenlogik der Plattform basiert.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Custom Feeds als Reichweiten-Hebel für deine Coaching-Nische einsetzen</li>
-<li>Starter Packs erstellen, die dich sofort als Autorität positionieren</li>
-<li>Konversations-Strategie: wie Replies mehr Vertrauen erzeugen als jeder Solo-Post</li>
-<li>Fachwissen teilen ohne alles zu verschenken – das Content-Gleichgewicht auf Bluesky</li>
-<li>Vom Bluesky-Kontakt zum Erstgespräch: dein Funnel ohne klassischen Link-in-Bio-Zwang</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du auf der dezentralen X-Alternative Vertrauen aufbaust und planbar Kunden gewinnst Als Coach brauchst du eine Plattform, auf der Vertrauen schnell wächst und dein Content nicht von einem undurchsichtigen Algorithmus begraben wird. Bluesky bietet genau das: dank AT-Protocol und Custom Feeds erreichst du deine Zielgruppe direkt, ohne für Reichweite zu bezahlen. Das frühe Chance-Fenster macht es möglich, dich heute als Anlaufstelle deiner Nische zu positionieren, bevor der Wettbewerb aufwacht. Dieses E-Book zeigt dir, wie du auf Bluesky eine Expertenpräsenz aufbaust, die über Konversation und Replies kontinuierlich Vertrauen schafft, wie du Starter Packs strategisch für Sichtbarkeit nutzt und wie du einen Funnel baust, der aus Bluesky-Kontakten qualifizierte Anfragen macht. Kein Zufallstreffer – ein System, das auf der Eigenlogik der Plattform basiert. Das steckt drin: Custom Feeds als Reichweiten-Hebel für deine Coaching-Nische einsetzen Starter Packs erstellen, die dich sofort als Autorität positionieren Konversations-Strategie: wie Replies mehr Vertrauen erzeugen als jeder Solo-Post Fachwissen teilen ohne alles zu verschenken – das Content-Gleichgewicht auf Bluesky Vom Bluesky-Kontakt zum Erstgespräch: dein Funnel ohne klassischen Link-in-Bio-Zwang Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

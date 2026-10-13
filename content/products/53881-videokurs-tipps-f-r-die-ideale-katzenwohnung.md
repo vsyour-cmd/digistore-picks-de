@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#504f4f;">Erspare deiner Community die lästige Suche nach verlässlichen Informationen über die Katzenhaltung. Empfehle Videokurse &amp; Webinare mit <em>echtem</em> Mehrwert! </span></p>
-<p> </p>
-<p><strong><span style="color:#5d83c5;">Vorteile für dich:</span></strong></p>
-<ul>
-<li><span style="color:#504f4f;"><strong>Sofort 10 % Provision zum Start unserer Partnerschaft</strong> pro durch dich vermitteltem Verkauf*</span></li>
-<li><span style="color:#504f4f;"><strong>20 % Provision</strong> ab dem 10. durch dich vermitteltem Verkauf*</span></li>
-<li><span style="color:#504f4f;"><strong>20 % Provision</strong> für eingetragene und als gemeinnützig anerkannte Tierschutzvereine*</span></li>
-<li><span style="color:#504f4f;">Möglichkeit auf <strong>exklusive gemeinsame Aktionen</strong>: z. B. Webinare und Rabattaktionen speziell für deine Community<br /><br /></span></li>
-</ul>
-<p><strong><span style="color:#5d83c5;">Über den Videokurs "Tipps für die ideale Katzenwohnung - dein Einrichtungsratgeber":</span></strong><br /><span style="color:#504f4f;">Deine Wohnungseinrichtung hat entscheidenden Einfluss auf das Verhalten und Wohlbefinden deiner Katzen! Erfahre mehr darüber, wie du sie optimierst und nimm dir ganz konkrete Alltagstipps mit.</span></p>
-<ul>
-<li><span style="color:#504f4f;">Sieh dein Zuhause durch die Augen deiner Katzen</span></li>
-<li><span style="color:#504f4f;">Entdecke überraschende Einblicke in die Katzenwelt </span></li>
-<li><span style="color:#504f4f;">Selbstlernkurs bestehend aus 76 Minuten Kursvideo</span></li>
-</ul>
-<p> </p>
-<p><span style="color:#504f4f;">Steig jetzt mit ein und profitiere von deinen Empfehlungen!</span></p>
-<p><span style="color:#504f4f;"><strong>Wichtig:</strong> Bitte gib deine E-Mail-Adresse zur Ansicht für mich frei oder schreibe mich über <a style="color:#5d83c5;" href="mailto:support@katzen-fieber.de">support@katzen-fieber.de</a> an, damit ich deine Partnerschaftsanfrage überprüfen &amp; freischalten kann.</span></p>
+**Vendor's marketplace description:** Erspare deiner Community die lästige Suche nach verlässlichen Informationen über die Katzenhaltung. Empfehle Videokurse & Webinare mit echtem Mehrwert! Vorteile für dich: Sofort 10 % Provision zum Start unserer Partnerschaft pro durch dich vermitteltem Verkauf* 20 % Provision ab dem 10. durch dich vermitteltem Verkauf* 20 % Provision für eingetragene und als gemeinnützig anerkannte Tierschutzvereine* Möglichkeit auf exklusive gemeinsame Aktionen : z. B. Webinare und Rabattaktionen speziell für deine Community Über den Videokurs "Tipps für die ideale Katzenwohnung - dein Einrichtungsratgeber": Deine Wohnungseinrichtung hat entscheidenden Einfluss auf das Verhalten und Wohlbefinden deiner Katzen! Erfahre mehr darüber, wie du sie optimierst und nimm dir ganz konkrete Alltagstipps mit. Sieh dein Zuhause durch die Augen deiner Katzen Entdecke überraschende Einblicke in die Katzenwelt Selbstlernkurs bestehend aus 76 Minuten Kursvideo Steig jetzt mit ein und profitiere von deinen Empfehlungen! Wichtig: Bitte gib deine E-Mail-Adresse zur Ansicht für mich frei oder schreibe mich über support@katzen-fieber.de an, damit ich deine Partnerschaftsanfrage überprüfen & freischalten kann.
 
 ## 2. Links
 

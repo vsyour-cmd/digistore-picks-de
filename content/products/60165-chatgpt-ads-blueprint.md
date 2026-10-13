@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><span style="color:#666699;">CHATGPT</span> ADS <span style="color:#33cccc;">BLUEPRINT</span></strong> ist ein praxisnaher Low-Ticket-Guide für alle, die ChatGPT Ads, Kampagnenaufbau, Lead-Generierung und Tracking besser verstehen möchten.</p>
-<p>Enthalten sind u. a. Kampagnenaufbau, Budget-Szenarien, CPC/CTR/CPL, Landingpage-Optimierung, Pixel-Tracking und echte Praxisbeispiele.</p>
-<p><strong>Verkaufspreis: 5 €</strong></p>
-<p>Ideal für Affiliates im Bereich KI, Online-Marketing, Business und digitale Produkte.</p>
-<p><span style="color:#33cccc;"><strong>Zusätzlich interessant für aktive Affiliates:</strong></span><br />Im Upsell besteht die Möglichkeit auf einen Verdienst von <span style="color:#008080;"><strong>bis zu 250 €</strong>.</span></p>
-<p><em>Hinweis: Einnahmen sind nicht garantiert und hängen von der tatsächlichen Vermittlung und den jeweiligen Upsell-Bedingungen ab.</em></p>
+**Vendor's marketplace description:** CHATGPT ADS BLUEPRINT ist ein praxisnaher Low-Ticket-Guide für alle, die ChatGPT Ads, Kampagnenaufbau, Lead-Generierung und Tracking besser verstehen möchten. Enthalten sind u. a. Kampagnenaufbau, Budget-Szenarien, CPC/CTR/CPL, Landingpage-Optimierung, Pixel-Tracking und echte Praxisbeispiele. Verkaufspreis: 5 € Ideal für Affiliates im Bereich KI, Online-Marketing, Business und digitale Produkte. Zusätzlich interessant für aktive Affiliates: Im Upsell besteht die Möglichkeit auf einen Verdienst von bis zu 250 € . Hinweis: Einnahmen sind nicht garantiert und hängen von der tatsächlichen Vermittlung und den jeweiligen Upsell-Bedingungen ab.
 
 ## 2. Links
 

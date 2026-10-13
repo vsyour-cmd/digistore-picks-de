@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>15% Affiliate-Provision</p>
-<p>Produkt: Online Videokurs für Hundemenschen<br />Thema/Titel: Spazieren - das reinste Erlebnis<br />über 120 Minuten Videoinhalte<br /><br />Für alle Hundebesitzer geeignet, egal welches Niveau<br />Offenheit für die respektvolle Kommunikation mit Hunden auf Augenhöhe<br />Interesse an einer friedvollen Hundeführung</p>
-<p>Ich kann alle Werbemittel auf Anfrage per Mail zustellen.</p>
-<p>Herzliche Grüsse</p>
-<p>Antonia Conzett</p>
-<p><a href="http://www.hunde-menschen-coaching.ch">www.hunde-menschen-coaching.ch</a></p>
-<p><a href="https://www.youtube.com/@hundemenschencoach">https://www.youtube.com/@hundemenschencoach</a></p>
+**Vendor's marketplace description:** 15% Affiliate-Provision Produkt: Online Videokurs für Hundemenschen Thema/Titel: Spazieren - das reinste Erlebnis über 120 Minuten Videoinhalte Für alle Hundebesitzer geeignet, egal welches Niveau Offenheit für die respektvolle Kommunikation mit Hunden auf Augenhöhe Interesse an einer friedvollen Hundeführung Ich kann alle Werbemittel auf Anfrage per Mail zustellen. Herzliche Grüsse Antonia Conzett www.hunde-menschen-coaching.ch https://www.youtube.com/@hundemenschencoach
 
 ## 2. Links
 

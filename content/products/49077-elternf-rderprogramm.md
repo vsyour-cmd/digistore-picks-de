@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>3 - Monatsprogramm für alle Eltern mit Kindern von 1 - 4 Jahren.</p>
-<p>Förderprogramm für alle Entwicklungsbereiche des Kindes. Ein absolutes Muss für alle Eltern, die ihrem Kind ein solides Fundament für Bildung und Kognition ermöglichen möchten.</p>
+**Vendor's marketplace description:** 3 - Monatsprogramm für alle Eltern mit Kindern von 1 - 4 Jahren. Förderprogramm für alle Entwicklungsbereiche des Kindes. Ein absolutes Muss für alle Eltern, die ihrem Kind ein solides Fundament für Bildung und Kognition ermöglichen möchten.
 
 ## 2. Links
 

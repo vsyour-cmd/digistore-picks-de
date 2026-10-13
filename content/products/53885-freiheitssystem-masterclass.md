@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit künstlicher Intelligenz und digitalen Produkten über Social Media Geld verdienen</p>
-<p>+ Fertige 1:1 Vorlagen und Templates gratis</p>
-<p><strong>Heute noch durchstarten:</strong></p>
-<p>✅ Verdiene <strong>Geld</strong> <strong>nur mit</strong> <strong>deinem Handy</strong><br />✅ Exakte Schritt für Schritt Anleitung<br />✅ Passive <strong>Provisionen</strong> durch KI-Tools<br />✅ Reichweite in Rekordzeit aufbauen<br />✅ 5-Säulen System (absolut konkurrenzlos)</p>
-<p> </p>
-<p><strong>Bonus Inhalte:</strong></p>
-<p><strong>Bonus #1:</strong> 1:1 Video- und Textvorlagen<br /><strong>Bonus #2:</strong> Mein komplettes KI Template<br /><strong>Bonus #3:</strong> Instagram Shoutout (40.000+ Follower)</p>
-<p> </p>
-<p>Nach deiner Bestellung bekommst du <strong>dirkten Zugang</strong> zur Freiheitssystem Masterclass</p>
+**Vendor's marketplace description:** Mit künstlicher Intelligenz und digitalen Produkten über Social Media Geld verdienen + Fertige 1:1 Vorlagen und Templates gratis Heute noch durchstarten: ✅ Verdiene Geld nur mit deinem Handy ✅ Exakte Schritt für Schritt Anleitung ✅ Passive Provisionen durch KI-Tools ✅ Reichweite in Rekordzeit aufbauen ✅ 5-Säulen System (absolut konkurrenzlos) Bonus Inhalte: Bonus #1: 1:1 Video- und Textvorlagen Bonus #2: Mein komplettes KI Template Bonus #3: Instagram Shoutout (40.000+ Follower) Nach deiner Bestellung bekommst du dirkten Zugang zur Freiheitssystem Masterclass
 
 ## 2. Links
 

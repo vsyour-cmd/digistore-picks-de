@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#0000ff;">Bewirb einen praxisorientierten Kurs für Selbstständige, Coaches, Berater und Dienstleister, die ihr Wissen in ein digitales Angebot übersetzen möchten – ohne jeden Tag neue Social-Media-Beiträge produzieren zu müssen.</span></p>
-<p>Du startest mit einem leicht verständlichen Angebot:</p>
-<p><strong>MEHR VERKAUFEN DURCH WENIGER POSTEN.</strong> kostet einmalig 27 €. Für jeden provisionsberechtigten Kauf erhältst du nach der angegebenen 10‑%‑Provision <strong>2,70 €</strong> – sofern Digistore24 diese Berechnungsgrundlage bestätigt.</p>
-<p>Warum das interessant ist? Der Einstiegskurs steht am Anfang eines Funnels. Käufer können anschließend passende weiterführende Angebote entdecken. Wenn ein Käufer ein solches Produkt zusätzlich erwirbt und Digistore24 den Kauf deinem Affiliate-Link zuordnet, kann dafür eine weitere Provision entstehen.</p>
-<p><strong>So sieht der mögliche Hebel als Rechenbeispiel aus:</strong></p>
-<ul>
-<li>
-<p>10 provisionsberechtigte Einstiegskäufe × 2,70 € = <strong>27 €</strong></p>
-</li>
-<li>
-<p>1 zusätzlich zugeordnetes Google-Kunden-Maschine-Angebot à 297 € bei 50 % Provision = <strong>148,50 €</strong> nach der angegebenen Berechnungsgrundlage</p>
-</li>
-<li>
-<p>Kaufen in einem rein hypothetischen Szenario alle 10 Einstiegskäufer zusätzlich dieses Angebot, wären das <strong>1.485 €</strong> Folgeprovisionen. Zusammen mit den 27 € Einstiegsprovision ergibt sich rechnerisch <strong>1.512 €</strong>.</p>
-</li>
-</ul>
-<p>Das ist ein <strong>Rechenbeispiel.</strong> Tatsächliche Provisionen und deren Berechnung richten sich nach den im Digistore24-Konto bestätigten Bedingungen und der korrekten Zuordnung der Bestellung.</p>
-<p>Das Einstiegskurs-Angebot richtet sich an Selbstständige, Coaches, Berater und Dienstleister, die ein reales Kundenproblem prüfen, daraus ein digitales Angebot strukturieren und einen einfachen Verkaufsweg vorbereiten möchten. Der Kurs enthält Video-Anleitungen, Vorlagen und KI-Prompts. Er verspricht keine fertigen Kunden oder garantierten Umsätze.</p>
-<p>Du bekommst eine klare Geschichte, die du deiner Zielgruppe erklären kannst: <strong>mit einem überschaubaren ersten Angebot starten – und Interessenten bei Bedarf zu passenden nächsten Schritten führen.</strong></p>
-<p>Die Affiliate-Support-Seite enthält nach ihrer Veröffentlichung Erklärungen und Werbemittel, mit denen du deine Empfehlung an deine Zielgruppe anpassen kannst.</p>
-<p><strong>Werbemittel und Unterstützung:</strong><br />Nach Veröffentlichung findest du unter<br /><a>https://robertschumacher.io/app/affiliate</a><br />Erklärungen zum Produkt, fertige E-Mail- und Social-Media-Texte sowie kurze Videoideen. Passe alle Vorlagen an deine Zielgruppe an und kennzeichne Affiliate-Empfehlungen transparent.</p>
-<p>Nutze deinen persönlichen Digistore24-Promolink. Ergebnisse hängen unter anderem von Zielgruppe, Reichweite, Werbeumsetzung und tatsächlicher Kaufentscheidung ab.</p>
+**Vendor's marketplace description:** Bewirb einen praxisorientierten Kurs für Selbstständige, Coaches, Berater und Dienstleister, die ihr Wissen in ein digitales Angebot übersetzen möchten – ohne jeden Tag neue Social-Media-Beiträge produzieren zu müssen. Du startest mit einem leicht verständlichen Angebot: MEHR VERKAUFEN DURCH WENIGER POSTEN. kostet einmalig 27 €. Für jeden provisionsberechtigten Kauf erhältst du nach der angegebenen 10‑%‑Provision 2,70 € – sofern Digistore24 diese Berechnungsgrundlage bestätigt. Warum das interessant ist? Der Einstiegskurs steht am Anfang eines Funnels. Käufer können anschließend passende weiterführende Angebote entdecken. Wenn ein Käufer ein solches Produkt zusätzlich erwirbt und Digistore24 den Kauf deinem Affiliate-Link zuordnet, kann dafür eine weitere Provision entstehen. So sieht der mögliche Hebel als Rechenbeispiel aus: 10 provisionsberechtigte Einstiegskäufe × 2,70 € = 27 € 1 zusätzlich zugeordnetes Google-Kunden-Maschine-Angebot à 297 € bei 50 % Provision = 148,50 € nach der angegebenen Berechnungsgrundlage Kaufen in einem rein hypothetischen Szenario alle 10 Einstiegskäufer zusätzlich dieses Angebot, wären das 1.485 € Folgeprovisionen. Zusammen mit den 27 € Einstiegsprovision ergibt sich rechnerisch 1.512 € . Das ist ein Rechenbeispiel. Tatsächliche Provisionen und deren Berechnung richten sich nach den im Digistore24-Konto bestätigten Bedingungen und der korrekten Zuordnung der Bestellung. Das Einstiegskurs-Angebot richtet sich an Selbstständige, Coaches, Berater und Dienstleister, die ein reales Kundenproblem prüfen, daraus ein digitales Angebot strukturieren und einen einfachen Verkaufsweg vorbereiten möchten. Der Kurs enthält Video-Anleitungen, Vorlagen und KI-Prompts. Er verspricht keine fertigen Kunden oder garantierten Umsätze. Du bekommst eine klare Geschichte, die du deiner Zielgruppe erklären kannst: mit einem überschaubaren ersten Angebot starten – und Interessenten bei Bedarf zu passenden nächsten Schritten führen. Die Affiliate-Support-Seite enthält nach ihrer Veröffentlichung Erklärungen und Werbemittel, mit denen du deine Empfehlung an deine Zielgruppe anpassen kannst. Werbemittel und Unterstützung: Nach Veröffentlichung findest du unter https://robertschumacher.io/app/affiliate Erklärungen zum Produkt, fertige E-Mail- und Social-Media-Texte sowie kurze Videoideen. Passe alle Vorlagen an deine Zielgruppe an und kennzeichne Affiliate-Empfehlungen transparent. Nutze deinen persönlichen Digistore24-Promolink. Ergebnisse hängen unter anderem von Zielgruppe, Reichweite, Werbeumsetzung und tatsächlicher Kaufentscheidung ab.
 
 ## 2. Links
 

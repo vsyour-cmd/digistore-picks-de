@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Von null zum aktiven Profil auf der dezentralen X-Alternative</strong></p>
-<p>Bluesky ist nicht einfach ein weiteres soziales Netzwerk – es ist das dezentrale Fundament des neuen offenen Internets. Aufgebaut auf dem AT-Protocol gehört dein Account dir, nicht einem Konzern. Dieses E-Book zeigt dir, wie du auf Bluesky von null startest und dabei das frühe Chance-Fenster nutzt: Wer heute kommt, profitiert von organischer Reichweite, wie sie auf X oder Instagram längst Geschichte ist. Du lernst, wie du dein Profil überzeugend einrichtest, Custom Feeds und Starter Packs strategisch einsetzt und die konversationelle Kultur der Plattform für dich arbeitest. Denn auf Bluesky gewinnt nicht derjenige mit dem größten Budget, sondern derjenige, der die Eigenheiten der Community versteht und echte Gespräche führt. Jetzt einsteigen heißt: morgen bereits eine feste Stimme sein.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Das AT-Protocol verstehen: warum Dezentralisierung deinen Account sicherer macht</li>
-<li>Profil-Setup Schritt für Schritt – Handle, Bio und erster Eindruck</li>
-<li>Custom Feeds abonnieren und selbst erstellen für maximale Relevanz</li>
-<li>Starter Packs nutzen: sofort die richtige Community finden</li>
-<li>Die Konversations-Kultur auf Bluesky: so baust du Kontakte durch echte Replies auf</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Von null zum aktiven Profil auf der dezentralen X-Alternative Bluesky ist nicht einfach ein weiteres soziales Netzwerk – es ist das dezentrale Fundament des neuen offenen Internets. Aufgebaut auf dem AT-Protocol gehört dein Account dir, nicht einem Konzern. Dieses E-Book zeigt dir, wie du auf Bluesky von null startest und dabei das frühe Chance-Fenster nutzt: Wer heute kommt, profitiert von organischer Reichweite, wie sie auf X oder Instagram längst Geschichte ist. Du lernst, wie du dein Profil überzeugend einrichtest, Custom Feeds und Starter Packs strategisch einsetzt und die konversationelle Kultur der Plattform für dich arbeitest. Denn auf Bluesky gewinnt nicht derjenige mit dem größten Budget, sondern derjenige, der die Eigenheiten der Community versteht und echte Gespräche führt. Jetzt einsteigen heißt: morgen bereits eine feste Stimme sein. Das steckt drin: Das AT-Protocol verstehen: warum Dezentralisierung deinen Account sicherer macht Profil-Setup Schritt für Schritt – Handle, Bio und erster Eindruck Custom Feeds abonnieren und selbst erstellen für maximale Relevanz Starter Packs nutzen: sofort die richtige Community finden Die Konversations-Kultur auf Bluesky: so baust du Kontakte durch echte Replies auf Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

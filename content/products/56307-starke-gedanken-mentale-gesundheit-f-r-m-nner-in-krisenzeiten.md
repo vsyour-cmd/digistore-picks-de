@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>45% Provision | Digitales EBook | Sofort-Download</strong></p>
-<p>Männer reden nicht über ihre Probleme – das ist ein weit verbreiteter Mythos, der echten Schaden anrichtet. Das EBook <em>Starke Gedanken</em> zeigt Männern in Krisenzeiten, wie sie ihre mentale Gesundheit stärken und wieder handlungsfähig werden.</p>
-<p><strong>Was Affiliates bewerben:</strong></p>
-<ul>
-<li>Praxisnahe Methoden für mentale Stärke in Krisensituationen</li>
-<li>Speziell für Männer entwickelt – ohne Klischees, mit echter Wirkung</li>
-<li>Sofort umsetzbare Techniken aus Psychologie und Persönlichkeitsentwicklung</li>
-<li>45% Provision auf jeden Verkauf</li>
-</ul>
-<p><strong>Zielgruppe:</strong> Männer zwischen 25 und 55 Jahren in beruflichen, privaten oder persönlichen Krisen.</p>
-<p>Hochkonvertierende Verkaufsseite mit eingebettetem Promocode bereits vorhanden.</p>
+**Vendor's marketplace description:** 45% Provision | Digitales EBook | Sofort-Download Männer reden nicht über ihre Probleme – das ist ein weit verbreiteter Mythos, der echten Schaden anrichtet. Das EBook Starke Gedanken zeigt Männern in Krisenzeiten, wie sie ihre mentale Gesundheit stärken und wieder handlungsfähig werden. Was Affiliates bewerben: Praxisnahe Methoden für mentale Stärke in Krisensituationen Speziell für Männer entwickelt – ohne Klischees, mit echter Wirkung Sofort umsetzbare Techniken aus Psychologie und Persönlichkeitsentwicklung 45% Provision auf jeden Verkauf Zielgruppe: Männer zwischen 25 und 55 Jahren in beruflichen, privaten oder persönlichen Krisen. Hochkonvertierende Verkaufsseite mit eingebettetem Promocode bereits vorhanden.
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Für Affiliates:</strong> CloverNut ist das branchenunabhängige KI-Betriebssystem für KMU. Wiederkehrende SaaS-Umsätze, automatische Affiliate-Aufnahme, 25 % Provision auf <em>alle</em> Tarife inklusive Enterprise und White Label.</p>
-<p><strong>Warum bewerben?</strong> Kleine und mittlere Unternehmen suchen ein System für Chat, Tickets, Wissen und KI-Agenten – ohne Enterprise-Projekt. Die Salespage ist live; der Kauf läuft über Digistore24.</p>
-<ul>
-<li>Personal Pro ab 19,90 € / Monat (199 € / Jahr)</li>
-<li>Weitere Tarife: Business Basic, Business Premium, Enterprise, White Label</li>
-<li>Vendor: HIH Digital Limited</li>
-</ul>
-<p>Salespage: <a href="https://clovernut.com">clovernut.com</a><br />Affiliate-Support: <a href="https://hih-digital.com/affiliates/clovernut.html">hih-digital.com/affiliates/clovernut.html</a></p>
+**Vendor's marketplace description:** Für Affiliates: CloverNut ist das branchenunabhängige KI-Betriebssystem für KMU. Wiederkehrende SaaS-Umsätze, automatische Affiliate-Aufnahme, 25 % Provision auf alle Tarife inklusive Enterprise und White Label. Warum bewerben? Kleine und mittlere Unternehmen suchen ein System für Chat, Tickets, Wissen und KI-Agenten – ohne Enterprise-Projekt. Die Salespage ist live; der Kauf läuft über Digistore24. Personal Pro ab 19,90 € / Monat (199 € / Jahr) Weitere Tarife: Business Basic, Business Premium, Enterprise, White Label Vendor: HIH Digital Limited Salespage: clovernut.com Affiliate-Support: hih-digital.com/affiliates/clovernut.html
 
 ## 2. Links
 
@@ -77,6 +70,14 @@ language: "de"
 - **OG image:** https://clovernut.com/images/clovernut-sales-hero.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
 
 ### 3f. FAQ (Antworten aus offiziellen Marktplatz-Daten / Anbieteraussagen)
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bevor Menschen kaufen, zustimmen, folgen oder entscheiden, entsteht etwas anderes: Verbindung.</p>
-<p>CONNECT FIRST Professional ist das digitale Human Advantage OS für Menschen, deren Erfolg von Gesprächen, Vertrauen, Einfluss und Entscheidungen abhängt.</p>
-<p>Das Premium-System verbindet Kommunikation, Verkauf, Führung, Karriere und Verhandlung in einer interaktiven Visual Academy. Kunden erleben realistische Gesprächssituationen, typische Fehler, bessere Dialoge und sofort einsetzbare Werkzeuge.</p>
-<p>Kunden erhalten unter anderem:</p>
-<p>• 10 Staffeln mit 30 interaktiven Episoden<br />• die 284-seitige Professional Masterclass<br />• Professional Master Guide und Workbook<br />• Rapport Radar und Resistance Map<br />• Decision Readiness Score<br />• Conversation Recovery Protocol<br />• CONNECT FIRST Loop und Micro-Connections<br />• Sales-, Career-, Leadership- und Negotiation-Playbooks<br />• Script- und Resistance Vault<br />• Case- und Simulation-Vault<br />• Scorecards, Checklisten und Gesprächsvorlagen<br />• einen konkreten 30-Tage-Umsetzungsplan</p>
-<p>Zielgruppen:</p>
-<p>• Unternehmer und Selbstständige<br />• Führungskräfte und angehende Führungskräfte<br />• Vertrieb und Sales<br />• Karriere- und Aufstiegsorientierte<br />• Berater und Freelancer<br />• Menschen mit wichtigen Kunden-, Mitarbeiter-, Konflikt- oder Verhandlungsgesprächen</p>
-<p>Verkaufspreis: 997 €<br />Affiliate-Provision: 35 %<br />Aktueller Nettoverdienst pro Verkauf: ca. 293,24 €</p>
-<p>Für Affiliates stehen eine Affiliate-Hauptseite, ein Promolink und eine fertige E-Mail-Vorlage bereit. Weitere Werbemittel werden schrittweise ergänzt.</p>
-<p>Connect first. Then lead.</p>
-<p> </p>
+**Vendor's marketplace description:** Bevor Menschen kaufen, zustimmen, folgen oder entscheiden, entsteht etwas anderes: Verbindung. CONNECT FIRST Professional ist das digitale Human Advantage OS für Menschen, deren Erfolg von Gesprächen, Vertrauen, Einfluss und Entscheidungen abhängt. Das Premium-System verbindet Kommunikation, Verkauf, Führung, Karriere und Verhandlung in einer interaktiven Visual Academy. Kunden erleben realistische Gesprächssituationen, typische Fehler, bessere Dialoge und sofort einsetzbare Werkzeuge. Kunden erhalten unter anderem: • 10 Staffeln mit 30 interaktiven Episoden • die 284-seitige Professional Masterclass • Professional Master Guide und Workbook • Rapport Radar und Resistance Map • Decision Readiness Score • Conversation Recovery Protocol • CONNECT FIRST Loop und Micro-Connections • Sales-, Career-, Leadership- und Negotiation-Playbooks • Script- und Resistance Vault • Case- und Simulation-Vault • Scorecards, Checklisten und Gesprächsvorlagen • einen konkreten 30-Tage-Umsetzungsplan Zielgruppen: • Unternehmer und Selbstständige • Führungskräfte und angehende Führungskräfte • Vertrieb und Sales • Karriere- und Aufstiegsorientierte • Berater und Freelancer • Menschen mit wichtigen Kunden-, Mitarbeiter-, Konflikt- oder Verhandlungsgesprächen Verkaufspreis: 997 € Affiliate-Provision: 35 % Aktueller Nettoverdienst pro Verkauf: ca. 293,24 € Für Affiliates stehen eine Affiliate-Hauptseite, ein Promolink und eine fertige E-Mail-Vorlage bereit. Weitere Werbemittel werden schrittweise ergänzt. Connect first. Then lead.
 
 ## 2. Links
 

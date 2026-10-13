@@ -41,42 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>RAUCHFREI FÜR IMMER</h2>
-<h3>Mit Struktur statt Willenskraft</h3>
-<p><strong>Rauchfrei werden – mit Struktur, mentaler Vorbereitung und klaren Schritten.</strong></p>
-<p>Dieses Programm wurde aus eigener Erfahrung und langjähriger Praxisarbeit entwickelt.<br />Es begleitet Sie bewusst durch den Prozess der Rauchentwöhnung – ohne Druck, ohne Überforderung.</p>
-<hr />
-<h3>Sie erhalten:</h3>
-<ul>
-<li>
-<p>Schritt-für-Schritt-Anleitung als PDF</p>
-</li>
-<li>
-<p>Motivationsimpulse zur inneren Festigung</p>
-</li>
-<li>Vorteil/Nachteil Hilfsblatt</li>
-<li>
-<p>Selbstreflexions-Tagebuch</p>
-</li>
-<li>Workbook - Struktur statt Willenskraft</li>
-<li>
-<p>Vorbereitungs-Entspannungshypnose (MP3)</p>
-</li>
-<li>
-<p>Vorbereitungsvideo (MP4)</p>
-</li>
-<li>
-<p>Bewährte Hypnosetrance „Rauchfrei für immer“ (MP3)</p>
-</li>
-</ul>
-<hr />
-<p>Dieses Programm ersetzt keine medizinische Behandlung,<br />sondern unterstützt Sie in Ihrem persönlichen Veränderungsprozess.</p>
-<hr />
-<p><strong>Einmalige Investition: € 167</strong><br />Kein Abo. Sofortiger Zugang.</p>
-<hr />
-<p>Wenn Sie spüren, dass jetzt ein guter Zeitpunkt ist,<br />beginnen Sie bewusst.</p>
-<hr />
-<p>Entwickelt von Ricky Morueco<br />Zertifizierter Hypnosetherapeut (OMNI / NGH)</p>
+**Vendor's marketplace description:** RAUCHFREI FÜR IMMER Mit Struktur statt Willenskraft Rauchfrei werden – mit Struktur, mentaler Vorbereitung und klaren Schritten. Dieses Programm wurde aus eigener Erfahrung und langjähriger Praxisarbeit entwickelt. Es begleitet Sie bewusst durch den Prozess der Rauchentwöhnung – ohne Druck, ohne Überforderung. Sie erhalten: Schritt-für-Schritt-Anleitung als PDF Motivationsimpulse zur inneren Festigung Vorteil/Nachteil Hilfsblatt Selbstreflexions-Tagebuch Workbook - Struktur statt Willenskraft Vorbereitungs-Entspannungshypnose (MP3) Vorbereitungsvideo (MP4) Bewährte Hypnosetrance „Rauchfrei für immer“ (MP3) Dieses Programm ersetzt keine medizinische Behandlung, sondern unterstützt Sie in Ihrem persönlichen Veränderungsprozess. Einmalige Investition: € 167 Kein Abo. Sofortiger Zugang. Wenn Sie spüren, dass jetzt ein guter Zeitpunkt ist, beginnen Sie bewusst. Entwickelt von Ricky Morueco Zertifizierter Hypnosetherapeut (OMNI / NGH)
 
 ## 2. Links
 

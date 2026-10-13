@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong><em>Bewerbe den Kurs: Pinterest - Cash KI</em></strong></div>
-<div> </div>
-<div><span style="background-color:#ffff00;"><strong>Das bekommt Deine Community</strong></span></div>
-<div>
-<p><strong><em>✅  VIRALEN Content mit KI erstellen</em></strong></p>
-<p><strong><em>✅ </em> Viral auf Pinterest gehen, dank KI</strong></p>
-<p><strong><em>✅  </em>Als Bonus bekommt Deine Community den Zugang zu unserem Mitgliederbereich und dadurch den Zugriff auf kostenfreie Kurse (Canva, Etsy, KI usw...)</strong></p>
-<p> </p>
-<p><strong>Dich erwarten 50% Provision und im Upsell Bereich bis zu 127 Euro Provisionen</strong></p>
-</div>
+**Vendor's marketplace description:** Bewerbe den Kurs: Pinterest - Cash KI Das bekommt Deine Community ✅ VIRALEN Content mit KI erstellen ✅ Viral auf Pinterest gehen, dank KI ✅ Als Bonus bekommt Deine Community den Zugang zu unserem Mitgliederbereich und dadurch den Zugriff auf kostenfreie Kurse (Canva, Etsy, KI usw...) Dich erwarten 50% Provision und im Upsell Bereich bis zu 127 Euro Provisionen
 
 ## 2. Links
 

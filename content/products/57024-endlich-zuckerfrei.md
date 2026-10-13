@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Endlich zuckerfrei"</strong></p>
-<p>Die Lust auf Süßes läuft oft wie von selbst. Dieser Ratgeber erklärt, warum Heißhunger entsteht, und begleitet dich mit einem sanften Plan dabei, Heißhunger und emotionales Essen zu überwinden – ohne dich zu quälen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe: Sucht &amp; Entzug / Selbsthilfe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verstehen, warum die Lust auf Süßes so stark ist</li>
-<li>Körperliche und emotionale Auslöser erkennen</li>
-<li>Heißhunger-Attacken überstehen, ohne dich zu quälen</li>
-<li>Emotionales Essen Schritt für Schritt lösen</li>
-<li>Den Geschmack an weniger Süße gewöhnen</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Menschen, die eine Sucht oder schlechte Gewohnheit überwinden wollen – Gesundheits- &amp; Persönlichkeitsentwicklungs-Zielgruppe</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Endlich zuckerfrei" Die Lust auf Süßes läuft oft wie von selbst. Dieser Ratgeber erklärt, warum Heißhunger entsteht, und begleitet dich mit einem sanften Plan dabei, Heißhunger und emotionales Essen zu überwinden – ohne dich zu quälen. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe: Sucht & Entzug / Selbsthilfe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verstehen, warum die Lust auf Süßes so stark ist Körperliche und emotionale Auslöser erkennen Heißhunger-Attacken überstehen, ohne dich zu quälen Emotionales Essen Schritt für Schritt lösen Den Geschmack an weniger Süße gewöhnen Für deine Zielgruppe: Menschen, die eine Sucht oder schlechte Gewohnheit überwinden wollen – Gesundheits- & Persönlichkeitsentwicklungs-Zielgruppe Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

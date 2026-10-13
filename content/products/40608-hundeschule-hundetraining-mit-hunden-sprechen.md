@@ -41,35 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><strong>NEUER KURS!!!</strong></p>
-<p style="text-align:center;"><strong>Der Umgang mit dem Hund über die Körpersprache </strong></p>
-<p>Für Affiliates ist dieser Kurs eine besondere Möglichkeit etwas Außergewöhnliches anzubieten, denn es gibt nichts Vergleichbares im Bereich der Hundeerziehung.</p>
-<p>Die Verhaltensforscherin Gudrun Feltmann hat viele Jahre die Kommunikation zwischen  erwachsenen Hunden und Haushundwelpen aber auch Dingowelpen und Wolfswelpen erforscht. Sie hat beobachtet, wie die älteren Tiere die Jüngeren erziehen. Sie hat dann herausgefunden, wie es möglich ist, über die menschliche Körpersprache und Stimme so mit dem Hund zu kommunizieren, dass er uns als eine Person wahrnimmt, der er tief vertraut und die er als Sozialpartner anerkennt. Auf Basis dieser Studien und meiner Ausbildung als Feltmann-Tierlehrerin und langjährigen Zusammenarbeit mit Gudrun Feltmann habe ich diesen Kurs entwickelt. </p>
-<p>Hunde können nicht in unserer Sprache mit uns sprechen. Ihre Sprache ist die Körpersprache! Wenn man sie beobachtet, sieht man, wie sie über Bewegungen und Körperausdruck zeigen was sie wollen, und wie sie sich fühlen. </p>
-<p>Auch wir Menschen haben eine Körpersprache, sie ist uns meistens nur nicht bewusst. </p>
-<p>In diesem Kurs zeige ich dir, wie du deine Körpersprache bewusst einsetzen kannst, um mit deinem Hund zu sprechen. Es sind Bewegungen und Bewegungsabläufe, die dein Hund wirklich versteht, so kannst du auf eine sehr feine Weise ein Gespräch mit deinem Hund führen. </p>
-<p>Wir berücksichtigen dabei, dass der Hund ein soziales Lebewesen ist, das soziale Bedürfnisse hat. Wie ein Kind braucht er eine konsequente aber auch eine liebevolle Erziehung. Die Körpersprache hilft uns dabei, angemessen mit unserem Hund umzugehen. </p>
-<p>Du lernst: </p>
-<ul>
-<li>Deinen Hund zu lesen und mit ihm über Körpersprache und Stimme zu kommunizieren </li>
-<li>Für deinen Hund eine Person zu werden, der er vertraut und die er versteht.</li>
-<li>Deinen Hund artgerecht zu beschäftigen</li>
-</ul>
-<p>Dein Hund lernt:</p>
-<ul>
-<li>An der Leine zu gehen, ohne zu ziehen </li>
-<li>Freiwillig zu dir heranzukommen</li>
-<li>Sitzenbleiben</li>
-<li>Liegenbleiben</li>
-<li>Dir seine Beute abzugeben </li>
-<li>Gerne auf einer Decke zu bleiben und sich dort zu entspannen</li>
-<li>Eine soziale Ordnung, die ihm Sicherheit gibt. Und sich bei dir so zu fühlen, wie in einer echten Familie.</li>
-<li>und vieles mehr... </li>
-</ul>
-<p>Es ist faszinierend und möglich! Du kannst auf diese Weise mit deinem Hund sprechen und eine tiefe, vertrauensvolle Bindung zu deinem Hund aufbauen. Ich habe schon viele Menschen mit ihren Hunden in meinem Training persönlich auf diesem Weg begleitet. Mit diesem Onlinekurs erfüllt sich mir ein Herzenswunsch, dieses Wissen endlich auch einem größeren Publikum zugänglich zu machen. </p>
-<p>Probier es aus! Dein Hund wird es dir danken!</p>
-<p>Mit der frohehunde-App kannst du dir den Kurs auch direkt auf dein Smartphone holen und hast ihn bequem immer bei dir. </p>
-<p>Mehr Information erhältst du auch auf meiner <a href="https://frohehunde.de" target="_blank" rel="noreferrer noopener">Homepage</a>.</p>
+**Vendor's marketplace description:** NEUER KURS!!! Der Umgang mit dem Hund über die Körpersprache Für Affiliates ist dieser Kurs eine besondere Möglichkeit etwas Außergewöhnliches anzubieten, denn es gibt nichts Vergleichbares im Bereich der Hundeerziehung. Die Verhaltensforscherin Gudrun Feltmann hat viele Jahre die Kommunikation zwischen erwachsenen Hunden und Haushundwelpen aber auch Dingowelpen und Wolfswelpen erforscht. Sie hat beobachtet, wie die älteren Tiere die Jüngeren erziehen. Sie hat dann herausgefunden, wie es möglich ist, über die menschliche Körpersprache und Stimme so mit dem Hund zu kommunizieren, dass er uns als eine Person wahrnimmt, der er tief vertraut und die er als Sozialpartner anerkennt. Auf Basis dieser Studien und meiner Ausbildung als Feltmann-Tierlehrerin und langjährigen Zusammenarbeit mit Gudrun Feltmann habe ich diesen Kurs entwickelt. Hunde können nicht in unserer Sprache mit uns sprechen. Ihre Sprache ist die Körpersprache! Wenn man sie beobachtet, sieht man, wie sie über Bewegungen und Körperausdruck zeigen was sie wollen, und wie sie sich fühlen. Auch wir Menschen haben eine Körpersprache, sie ist uns meistens nur nicht bewusst. In diesem Kurs zeige ich dir, wie du deine Körpersprache bewusst einsetzen kannst, um mit deinem Hund zu sprechen. Es sind Bewegungen und Bewegungsabläufe, die dein Hund wirklich versteht, so kannst du auf eine sehr feine Weise ein Gespräch mit deinem Hund führen. Wir berücksichtigen dabei, dass der Hund ein soziales Lebewesen ist, das soziale Bedürfnisse hat. Wie ein Kind braucht er eine konsequente aber auch eine liebevolle Erziehung. Die Körpersprache hilft uns dabei, angemessen mit unserem Hund umzugehen. Du lernst: Deinen Hund zu lesen und mit ihm über Körpersprache und Stimme zu kommunizieren Für deinen Hund eine Person zu werden, der er vertraut und die er versteht. Deinen Hund artgerecht zu beschäftigen Dein Hund lernt: An der Leine zu gehen, ohne zu ziehen Freiwillig zu dir heranzukommen Sitzenbleiben Liegenbleiben Dir seine Beute abzugeben Gerne auf einer Decke zu bleiben und sich dort zu entspannen Eine soziale Ordnung, die ihm Sicherheit gibt. Und sich bei dir so zu fühlen, wie in einer echten Familie. und vieles mehr... Es ist faszinierend und möglich! Du kannst auf diese Weise mit deinem Hund sprechen und eine tiefe, vertrauensvolle Bindung zu deinem Hund aufbauen. Ich habe schon viele Menschen mit ihren Hunden in meinem Training persönlich auf diesem Weg begleitet. Mit diesem Onlinekurs erfüllt sich mir ein Herzenswunsch, dieses Wissen endlich auch einem größeren Publikum zugänglich zu machen. Probier es aus! Dein Hund wird es dir danken! Mit der frohehunde-App kannst du dir den Kurs auch direkt auf dein Smartphone holen und hast ihn bequem immer bei dir. Mehr Information erhältst du auch auf meiner Homepage .
 
 ## 2. Links
 

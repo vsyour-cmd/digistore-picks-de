@@ -41,46 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Du suchst einen zukunftssicheren und stark nachgefragten Partner im boomenden E-Learning-Markt?</strong></h3>
-<p> </p>
-<p>Werde jetzt Teil des Lernakademie Plus Affiliate-Netzwerks und profitiere von der hohen Nachfrage nach bequemen <strong>Online-Erste-Hilfe-Kursen mit Teilnahmebescheinigung.</strong></p>
-<p> </p>
-<p>Unsere Zielgruppe spart Zeit, vermeidet Präsenztermine und erhält die gesetzlich relevanten Inhalte bequem von zu Hause aus. Jeder Teilnehmer bekommt außerdem eine <strong>personalisierte Teilnahmebescheinigung als PDF</strong> im Mitgliederbereich als Nachweis über die Teilnahme an der theoretischen Erste-Hilfe Unterweisung. </p>
-<p> </p>
-<p><strong>Deine Vorteile als Affiliate:</strong></p>
-<ul>
-<li>
-<p>10 € Provision pro verkauftem Erste-Hilfe-Kurs.</p>
-</li>
-<li>
-<p>1 € Zusatzprovision für den AED-Upsell.</p>
-</li>
-<li>Theoretische Erste-Hilfe-Unterweisung zur Vorbereitung auf die praktische Prüfung.</li>
-<li>
-<p>Hohe Relevanz für breite Zielgruppen wie Fahrschüler, Unternehmen, Studierende, Vereine und Auffrischer.</p>
-</li>
-<li>
-<p>Umfangreiche Werbemittel, E-Mail-Vorlagen, Headlines und Lead-Magneten in deinem Partnerbereich.</p>
-</li>
-</ul>
-<p> </p>
-<p><strong>Das macht unser Angebot besonders attraktiv:</strong></p>
-<ul>
-<li>
-<p>Niedriger Kaufpreis und klarer Nutzen für den Kunden.</p>
-</li>
-<li>
-<p>Personalisiertes Teilnahmezertifikat als zusätzlicher Mehrwert.</p>
-</li>
-<li>
-<p>Professionelle Affiliate-Unterstützung mit fertigen Marketing Materialien.</p>
-</li>
-<li>
-<p>Flexible Bewerbung über Social Media, E-Mail, Blogs, Bewertungen, UGC oder Paid Ads wie Facebook, Instagram, TikTok und Co.  (ausgenommen Google Ads).</p>
-</li>
-</ul>
-<p> </p>
-<p><strong>Starte jetzt und baue dir ein bequemes, zusätzliches Einkommen auf. </strong></p>
+**Vendor's marketplace description:** Du suchst einen zukunftssicheren und stark nachgefragten Partner im boomenden E-Learning-Markt? Werde jetzt Teil des Lernakademie Plus Affiliate-Netzwerks und profitiere von der hohen Nachfrage nach bequemen Online-Erste-Hilfe-Kursen mit Teilnahmebescheinigung. Unsere Zielgruppe spart Zeit, vermeidet Präsenztermine und erhält die gesetzlich relevanten Inhalte bequem von zu Hause aus. Jeder Teilnehmer bekommt außerdem eine personalisierte Teilnahmebescheinigung als PDF im Mitgliederbereich als Nachweis über die Teilnahme an der theoretischen Erste-Hilfe Unterweisung. Deine Vorteile als Affiliate: 10 € Provision pro verkauftem Erste-Hilfe-Kurs. 1 € Zusatzprovision für den AED-Upsell. Theoretische Erste-Hilfe-Unterweisung zur Vorbereitung auf die praktische Prüfung. Hohe Relevanz für breite Zielgruppen wie Fahrschüler, Unternehmen, Studierende, Vereine und Auffrischer. Umfangreiche Werbemittel, E-Mail-Vorlagen, Headlines und Lead-Magneten in deinem Partnerbereich. Das macht unser Angebot besonders attraktiv: Niedriger Kaufpreis und klarer Nutzen für den Kunden. Personalisiertes Teilnahmezertifikat als zusätzlicher Mehrwert. Professionelle Affiliate-Unterstützung mit fertigen Marketing Materialien. Flexible Bewerbung über Social Media, E-Mail, Blogs, Bewertungen, UGC oder Paid Ads wie Facebook, Instagram, TikTok und Co. (ausgenommen Google Ads). Starte jetzt und baue dir ein bequemes, zusätzliches Einkommen auf.
 
 ## 2. Links
 

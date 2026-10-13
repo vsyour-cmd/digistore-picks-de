@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Bewerbe den Kurs: YouTube - 24/7 Geldmaschine!</strong></p>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Das bekommt Deine Community:</strong></span></p>
-<p><strong>✅ Rocke YouTube mit den besten Insider Tipps! </strong></p>
-<p><strong>✅ So macht man seine Abonnenten glücklich</strong></p>
-<p><strong>✅ So wächst der YouTube Account schneller als alle andere</strong></p>
-<p><strong>✅ Geldmaschine YouTube! So gehts...</strong></p>
-<p> </p>
-<p><span style="background-color:#ffff00;"><strong>Sehr gute Conversion:</strong></span></p>
-<p><strong>Deine Community bekommt den YouTube Kurs + 3 Kurse Geschenkt und Du verdienst am Upsell Prozess (YouTube und KI Produkte) bis zu 137 Euro</strong></p>
+**Vendor's marketplace description:** Bewerbe den Kurs: YouTube - 24/7 Geldmaschine! Das bekommt Deine Community: ✅ Rocke YouTube mit den besten Insider Tipps! ✅ So macht man seine Abonnenten glücklich ✅ So wächst der YouTube Account schneller als alle andere ✅ Geldmaschine YouTube! So gehts... Sehr gute Conversion: Deine Community bekommt den YouTube Kurs + 3 Kurse Geschenkt und Du verdienst am Upsell Prozess (YouTube und KI Produkte) bis zu 137 Euro
 
 ## 2. Links
 

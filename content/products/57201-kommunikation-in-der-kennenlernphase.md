@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Kommunikation in der Kennenlernphase“</strong></p>
-<p>Klar, ehrlich und verbindend reden – Die Kennenlernphase entscheidet sich am Reden. Lerne, klar, ehrlich und verbindend zu kommunizieren – und Missverständnisse zu vermeiden.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Die Kennenlernphase verstehen</li>
-<li>Erwartungen &amp; Tempo ansprechen</li>
-<li>Interesse zeigen ohne zu überfordern</li>
-<li>Ehrlichkeit &amp; Verletzlichkeit dosieren</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Kommunikation in der Kennenlernphase“ Klar, ehrlich und verbindend reden – Die Kennenlernphase entscheidet sich am Reden. Lerne, klar, ehrlich und verbindend zu kommunizieren – und Missverständnisse zu vermeiden. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Die Kennenlernphase verstehen Erwartungen & Tempo ansprechen Interesse zeigen ohne zu überfordern Ehrlichkeit & Verletzlichkeit dosieren
 
 ## 2. Links
 

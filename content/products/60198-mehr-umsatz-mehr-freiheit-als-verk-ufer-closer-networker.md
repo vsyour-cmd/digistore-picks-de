@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Online Kurs für selbstständige &amp; angestellte <strong>Verkäufer</strong>, die wissen, dass mehr geht, aber es noch nicht schaffen ihre <strong>Ziele &amp; Zielvorgaben konstant zu übertreffen</strong>.</p>
-<p> </p>
-<p>Inhalte:</p>
-<ul>
-<li>konkrete Sales-Techniken und -Methoden, wie Leonard selbst seine Ziele konstant übertreffen konnte <em>(233% als Account Manager, 150% als Account Executive, Gewinner verschiedener europaweiter Akquise-Challenges, als Closer +500.000€ im Monat B2C geclosed)</em>.</li>
-<li>Mindset-Tipps, welche Werder Bremen 2022 zum Wiederaufstieg in die 1. Bundesliga geführt haben und die Bodo Schäfer begeistert umsetzt! </li>
-<li>Eine speziell für Verkäufer aufgenommene Hypnose, um sie dabei zu unterstützen ihr Zielbild im Unterbewusstsein zu verankern, Blockaden auf dem Weg zum Ziel aus dem Weg zu räumen und ein Gefühl von Leichtigkeit im Verkaufen zu etablieren. </li>
-</ul>
-<p> </p>
-<p>Dieser Kurs richtet sich. an Account Manager, SDRs, Closer, Setter, Freelancer im Vertrieb sowie Network Marketer - vorausgesetzt sie wollen nr. 1 in ihrer Organisation werden oder haben ähnlich große Träume. Setter &amp; Closer sind erfahrungsgemäß bereit alles zu geben, hauptsache ihr Traum kommt in Erfüllung und sie verdienen viel Provision. Bei Angestellten steht häufig die Work-Life-Balance im Vordergrund - hier geht es drum bei gleichem Input mit Leichtigkeit mehr Output zu erzielen.</p>
-<p> </p>
-<p><em>Menschen, die die Kursinhalte umgesetzt haben verdienen inzwischen z. B. 5-stellig als Closer oder sind seit +3 Jahren konstant bei +150% Jahreszielerreichung im angestellten Verhältnis.</em></p>
+**Vendor's marketplace description:** Der Online Kurs für selbstständige & angestellte Verkäufer , die wissen, dass mehr geht, aber es noch nicht schaffen ihre Ziele & Zielvorgaben konstant zu übertreffen . Inhalte: konkrete Sales-Techniken und -Methoden, wie Leonard selbst seine Ziele konstant übertreffen konnte (233% als Account Manager, 150% als Account Executive, Gewinner verschiedener europaweiter Akquise-Challenges, als Closer +500.000€ im Monat B2C geclosed) . Mindset-Tipps, welche Werder Bremen 2022 zum Wiederaufstieg in die 1. Bundesliga geführt haben und die Bodo Schäfer begeistert umsetzt! Eine speziell für Verkäufer aufgenommene Hypnose, um sie dabei zu unterstützen ihr Zielbild im Unterbewusstsein zu verankern, Blockaden auf dem Weg zum Ziel aus dem Weg zu räumen und ein Gefühl von Leichtigkeit im Verkaufen zu etablieren. Dieser Kurs richtet sich. an Account Manager, SDRs, Closer, Setter, Freelancer im Vertrieb sowie Network Marketer - vorausgesetzt sie wollen nr. 1 in ihrer Organisation werden oder haben ähnlich große Träume. Setter & Closer sind erfahrungsgemäß bereit alles zu geben, hauptsache ihr Traum kommt in Erfüllung und sie verdienen viel Provision. Bei Angestellten steht häufig die Work-Life-Balance im Vordergrund - hier geht es drum bei gleichem Input mit Leichtigkeit mehr Output zu erzielen. Menschen, die die Kursinhalte umgesetzt haben verdienen inzwischen z. B. 5-stellig als Closer oder sind seit +3 Jahren konstant bei +150% Jahreszielerreichung im angestellten Verhältnis.
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Dein Weg nach Spanien – Der große Praxis-Guide für Auswanderer</strong></p>
-<p>Alles, was du für deinen erfolgreichen Neustart in Spanien wissen musst – in einem einzigen umfassenden Praxis-Guide. Über <strong>450 Seiten</strong> voller verständlicher Erklärungen, Schritt-für-Schritt-Anleitungen, praktischer Tipps und Checklisten begleiten dich von der ersten Auswanderungsplanung bis zu deinem neuen Alltag in Spanien.</p>
-<p>Du liebst Spanien und hast eine Community, die sich für <strong>Reisen, Mallorca, Auswandern, Camping, Wohnmobil, Ruhestand oder das Leben in Spanien</strong> interessiert?</p>
-<p>Dann werde <strong>Creator &amp; Influencer Partner von Nachrichten.es</strong> und empfehle unsere digitalen Spanien-Ratgeber deiner Community.</p>
-<p>Du erhältst dabei <strong>50 % Provision auf jeden erfolgreichen Verkauf</strong> über deinen persönlichen Affiliate-Link.</p>
+**Vendor's marketplace description:** Dein Weg nach Spanien – Der große Praxis-Guide für Auswanderer Alles, was du für deinen erfolgreichen Neustart in Spanien wissen musst – in einem einzigen umfassenden Praxis-Guide. Über 450 Seiten voller verständlicher Erklärungen, Schritt-für-Schritt-Anleitungen, praktischer Tipps und Checklisten begleiten dich von der ersten Auswanderungsplanung bis zu deinem neuen Alltag in Spanien. Du liebst Spanien und hast eine Community, die sich für Reisen, Mallorca, Auswandern, Camping, Wohnmobil, Ruhestand oder das Leben in Spanien interessiert? Dann werde Creator & Influencer Partner von Nachrichten.es und empfehle unsere digitalen Spanien-Ratgeber deiner Community. Du erhältst dabei 50 % Provision auf jeden erfolgreichen Verkauf über deinen persönlichen Affiliate-Link.
 
 ## 2. Links
 

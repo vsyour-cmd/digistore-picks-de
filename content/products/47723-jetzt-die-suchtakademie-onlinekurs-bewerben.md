@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Liebe Affiliates,</p>
-<p>es ist an der Zeit, einen echten Unterschied im Leben Eurer Follower zu machen, indem Ihr sie auf den Sucht Online-Kurs von Liv Wach aufmerksam macht.</p>
-<p>Dieser transformative Kurs bietet den Schlüssel zur Suchtfreiheit und Selbstliebe, geleitet von einer der bekanntesten Suchtlehrerinnen Deutschlands.</p>
-<p>Der Kurs richtet sich an alle, die bereit sind, die Ketten der Sucht zu sprengen – sei es Alkohol, Zucker, Rauchen oder jede andere Form von Abhängigkeit. Durch eine Kombination aus fundiertem Wissen, praktischen Übungen und persönlichen Erkenntnissen, bietet Liv Wach einen Weg zur dauerhaften Suchtfreiheit.</p>
-<p>Was bietet der Sucht Online-Kurs?</p>
-<p>Individueller Zugang: Mit dem Kurs können Teilnehmer in ihrem eigenen Tempo lernen, unterstützt durch ein umfangreiches E-Book und Videoinhalte.</p>
-<p>Vielfältige Techniken: Von systemischer Therapieansätzen über Bewusstseins- und Mentaltraining bis hin zu Vergebung und Selbstliebe.</p>
-<p>Unterstützende Community: Zugang zu einer exklusiven Telegram-Gruppe für Austausch und direkten Kontakt zu Liv.</p>
-<p><strong>Deine Vorteile als Affiliate:</strong></p>
-<p>Hohe Provisionen: Mit einem Preis von 590 € (oder zwei Raten zu je 297,95 €) und einer Provision von 50%, hast Du die Chance auf attraktive Verdienste.<br />Marketing-Unterstützung: Unsere Affiliate Support-Seite bietet Dir alle nötigen Ressourcen für eine erfolgreiche Promotion.</p>
-<p><br />Hohes Engagement: Die Thematik Sucht und Selbstliebe resoniert stark mit vielen Menschen, was hohe Engagement-Raten verspricht.</p>
-<p>Wir laden Dich ein, die <a href="https://aufge-wacht.de/affiliate-support/" target="_blank" rel="noreferrer noopener">Affiliate Support-Seite</a> zu besuchen, um mehr über den Kurs und die verfügbaren Ressourcen für Affiliates zu erfahren. Lasst uns gemeinsam Menschen auf ihrem Weg zur Suchtfreiheit und einem Leben voller Selbstliebe begleiten.</p>
-<p>Beginne jetzt und mache einen Unterschied im Leben anderer!</p>
+**Vendor's marketplace description:** Liebe Affiliates, es ist an der Zeit, einen echten Unterschied im Leben Eurer Follower zu machen, indem Ihr sie auf den Sucht Online-Kurs von Liv Wach aufmerksam macht. Dieser transformative Kurs bietet den Schlüssel zur Suchtfreiheit und Selbstliebe, geleitet von einer der bekanntesten Suchtlehrerinnen Deutschlands. Der Kurs richtet sich an alle, die bereit sind, die Ketten der Sucht zu sprengen – sei es Alkohol, Zucker, Rauchen oder jede andere Form von Abhängigkeit. Durch eine Kombination aus fundiertem Wissen, praktischen Übungen und persönlichen Erkenntnissen, bietet Liv Wach einen Weg zur dauerhaften Suchtfreiheit. Was bietet der Sucht Online-Kurs? Individueller Zugang: Mit dem Kurs können Teilnehmer in ihrem eigenen Tempo lernen, unterstützt durch ein umfangreiches E-Book und Videoinhalte. Vielfältige Techniken: Von systemischer Therapieansätzen über Bewusstseins- und Mentaltraining bis hin zu Vergebung und Selbstliebe. Unterstützende Community: Zugang zu einer exklusiven Telegram-Gruppe für Austausch und direkten Kontakt zu Liv. Deine Vorteile als Affiliate: Hohe Provisionen: Mit einem Preis von 590 € (oder zwei Raten zu je 297,95 €) und einer Provision von 50%, hast Du die Chance auf attraktive Verdienste. Marketing-Unterstützung: Unsere Affiliate Support-Seite bietet Dir alle nötigen Ressourcen für eine erfolgreiche Promotion. Hohes Engagement: Die Thematik Sucht und Selbstliebe resoniert stark mit vielen Menschen, was hohe Engagement-Raten verspricht. Wir laden Dich ein, die Affiliate Support-Seite zu besuchen, um mehr über den Kurs und die verfügbaren Ressourcen für Affiliates zu erfahren. Lasst uns gemeinsam Menschen auf ihrem Weg zur Suchtfreiheit und einem Leben voller Selbstliebe begleiten. Beginne jetzt und mache einen Unterschied im Leben anderer!
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#ff0000;"><strong>ACHTUNG: <br />Dazu kommen noch ca <span style="background-color:#ffff99;">25% Conversion Rate</span> <br />auf das Upsell </strong>(Hüfte+Knie 29€) <strong>!!</strong></span><strong><br /></strong><br />Willst du deine Rückenschmerzen endlich loswerden? ...und das mit nur 10min Trainingsaufwand pro Tag !</p>
-<p>Ich habe ein Spezialtraining für Frauen auf Basis der Pilates-Methode entwickelt, das in kurzer Zeit erstaunliche Ergebnisse hervorbringt.</p>
-<p>Schon über 10.000 Frauen in Deutschland, Österreich und der Schweiz konnte ich mit meinem Training bereits helfen.<br /><br />Mit 30-Tage-Geld-Zurück-Garantie<br /><br /><strong>Der Komplettkurs enthält 30 Videomodule</strong> <br />(Rücken-Intensiv-Training)<br /><br />+ Bonus "Faszien-Workout"<br />+ Bonus "Rückenschmerzen AKUT"<br />+ Bonus E-Mail Support</p>
+**Vendor's marketplace description:** ACHTUNG: Dazu kommen noch ca 25% Conversion Rate auf das Upsell (Hüfte+Knie 29€) !! Willst du deine Rückenschmerzen endlich loswerden? ...und das mit nur 10min Trainingsaufwand pro Tag ! Ich habe ein Spezialtraining für Frauen auf Basis der Pilates-Methode entwickelt, das in kurzer Zeit erstaunliche Ergebnisse hervorbringt. Schon über 10.000 Frauen in Deutschland, Österreich und der Schweiz konnte ich mit meinem Training bereits helfen. Mit 30-Tage-Geld-Zurück-Garantie Der Komplettkurs enthält 30 Videomodule (Rücken-Intensiv-Training) + Bonus "Faszien-Workout" + Bonus "Rückenschmerzen AKUT" + Bonus E-Mail Support
 
 ## 2. Links
 

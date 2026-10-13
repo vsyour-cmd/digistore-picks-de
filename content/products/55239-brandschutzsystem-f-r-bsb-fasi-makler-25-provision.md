@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <blockquote>
-<p>Kurzbeschreibung:</p>
-<p>Das Komplett-System für rechtssicheren Brandschutz. Spart 70% Orga-Aufwand. Starter (249 €) | Pro (899 €). 25% Provision für B2B-Partner.</p>
-<p>Ausführliche Beschreibung:</p>
-<p>Die All-in-One Lösung für HSE, Sifa und Großunternehmen.</p>
-<p>Dieses System ist kein einfaches Tool, sondern eine Implementierungs-Strategie für audit-sicheren Brandschutz (HSE/FM-nahe Rollen).</p>
-<p>• Hoher Need: Rechtssicherheit und Haftungsvermeidung für Unternehmer.</p>
-<p>• Hohe Provision: Bis zu 224,75 € pro Sale (bei PRO-Paket).</p>
-<p>• Zielgruppe: Brandschutzbeauftragte in Konzernen, Makler (Multiplikatoren), Technik-Leiter.</p>
-<p>Affiliate-Info:</p>
-<p>• Wir suchen ausschließlich Partner mit Zugang zur B2B-Entscheiderebene.</p>
-<p>• Perfekt für Berater und Dozenten, die ihren Kunden eine fertige Lösung präsentieren wollen.</p>
-<p>• Wichtig: Fokus auf Praxistauglichkeit &amp; Nachweisführung (keine Rechtsberatung).</p>
-<p><strong>Wichtig:</strong> Keine Rechtsberatung, keine Garantieversprechen – Fokus auf praxistaugliche Umsetzung &amp; Nachweisführung.</p>
-</blockquote>
+**Vendor's marketplace description:** Kurzbeschreibung: Das Komplett-System für rechtssicheren Brandschutz. Spart 70% Orga-Aufwand. Starter (249 €) | Pro (899 €). 25% Provision für B2B-Partner. Ausführliche Beschreibung: Die All-in-One Lösung für HSE, Sifa und Großunternehmen. Dieses System ist kein einfaches Tool, sondern eine Implementierungs-Strategie für audit-sicheren Brandschutz (HSE/FM-nahe Rollen). • Hoher Need: Rechtssicherheit und Haftungsvermeidung für Unternehmer. • Hohe Provision: Bis zu 224,75 € pro Sale (bei PRO-Paket). • Zielgruppe: Brandschutzbeauftragte in Konzernen, Makler (Multiplikatoren), Technik-Leiter. Affiliate-Info: • Wir suchen ausschließlich Partner mit Zugang zur B2B-Entscheiderebene. • Perfekt für Berater und Dozenten, die ihren Kunden eine fertige Lösung präsentieren wollen. • Wichtig: Fokus auf Praxistauglichkeit & Nachweisführung (keine Rechtsberatung). Wichtig: Keine Rechtsberatung, keine Garantieversprechen – Fokus auf praxistaugliche Umsetzung & Nachweisführung.
 
 ## 2. Links
 

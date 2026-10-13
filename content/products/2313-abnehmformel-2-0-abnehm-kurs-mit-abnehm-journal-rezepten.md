@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Abnehm-Kurs mit Abnehm-Journal, Rezepten und Tipps &amp; Tricks.</p>
-<p>Die Nutzer werden durch ein Gratis Geschenk in eine <strong>Mailing-Liste</strong> gelockt und werden <strong>anschließend 3-Tage</strong><strong> mit E-Mails</strong> zum Thema abnehmen versorgt. Erst <strong><span style="text-decoration:underline;">nachdem das vertrauen</span></strong> zum Käufer aufgebaut wurde, wird ihm angeboten unser Abnehm-Kurs angeboten. <strong>Dies funktioniert enorm gut.</strong> <span style="background-color:#ffff00;">Innerhalb der letzten 4 Wochen über 15 Sales pro Tag! </span></p>
-<p>Die <strong>Provision</strong> für unser E-Book liegt <span style="background-color:#ffff00;"><strong>dauerhaft bei 50%</strong></span>. Unsere <strong>neue Landingpage</strong> hat eine noch <strong>bessere Conversionrate</strong>.</p>
+**Vendor's marketplace description:** Abnehm-Kurs mit Abnehm-Journal, Rezepten und Tipps & Tricks. Die Nutzer werden durch ein Gratis Geschenk in eine Mailing-Liste gelockt und werden anschließend 3-Tage mit E-Mails zum Thema abnehmen versorgt. Erst nachdem das vertrauen zum Käufer aufgebaut wurde, wird ihm angeboten unser Abnehm-Kurs angeboten. Dies funktioniert enorm gut. Innerhalb der letzten 4 Wochen über 15 Sales pro Tag! Die Provision für unser E-Book liegt dauerhaft bei 50% . Unsere neue Landingpage hat eine noch bessere Conversionrate .
 
 ## 2. Links
 

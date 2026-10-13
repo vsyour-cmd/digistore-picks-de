@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:left;">Ein ehrlicher, praxisnaher Ratgeber gegen das Gefühl, ständig zu arbeiten und nie wirklich anzukommen. Ideal für Zielgruppen im Bereich Persönlichkeitsentwicklung, Finanzen und bewusstes Leben.</p>
-<p> </p>
-<p>25 Kapitel mit echten Übungen, im warmen Erzählton statt trockenem Ratgeber-Stil. 50% Provision pro Verkauf.</p>
+**Vendor's marketplace description:** Ein ehrlicher, praxisnaher Ratgeber gegen das Gefühl, ständig zu arbeiten und nie wirklich anzukommen. Ideal für Zielgruppen im Bereich Persönlichkeitsentwicklung, Finanzen und bewusstes Leben. 25 Kapitel mit echten Übungen, im warmen Erzählton statt trockenem Ratgeber-Stil. 50% Provision pro Verkauf.
 
 ## 2. Links
 

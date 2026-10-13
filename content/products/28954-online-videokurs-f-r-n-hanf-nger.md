@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Mit diesem Onlinekurs lernst du schnell und effektiv nähen!</strong></p>
-<p>In über 6 Stunden Laufzeit werden dir die folgenden Inhalte vermittelt:</p>
-<ul><li>Vorstellung der Nähmaschine mit allen wichtigen Funktionen und Bauteilen</li>
-<li>Die Nähmaschine betriebsbereit machen</li>
-<li>Probenähen: Deine erste Naht</li>
-<li>Materialkunde (Stoffe, Füllungen, Accessoires)</li>
-<li>Vorstellung aller wichtigen Materialien für Nähanfänger (Nähnadeln, Markierhilfen, Messhilfen)</li>
-<li>1. Praxisprojekt: Deinen ersten Kissenbezug nähen (mit Applikation)</li>
-<li>2. Praxisprojekt: Ein Utensilo mit Außenfächern nähen</li>
-<li>3. Praxisprojekt: Ein Kosmektiktäschchen mit Reißverschluss nähen</li>
-<li>4. Praxisprojekt: Einen Turnbeutel-Rucksack nähen</li>
-</ul><p> </p>
-<p><span style="background-color:#99cc00;">Neu ab Mai 2019: Jetzt auch für Affiliates geöffnet! Profitiere von 30% Provision!</span></p>
+**Vendor's marketplace description:** Mit diesem Onlinekurs lernst du schnell und effektiv nähen! In über 6 Stunden Laufzeit werden dir die folgenden Inhalte vermittelt: Vorstellung der Nähmaschine mit allen wichtigen Funktionen und Bauteilen Die Nähmaschine betriebsbereit machen Probenähen: Deine erste Naht Materialkunde (Stoffe, Füllungen, Accessoires) Vorstellung aller wichtigen Materialien für Nähanfänger (Nähnadeln, Markierhilfen, Messhilfen) 1. Praxisprojekt: Deinen ersten Kissenbezug nähen (mit Applikation) 2. Praxisprojekt: Ein Utensilo mit Außenfächern nähen 3. Praxisprojekt: Ein Kosmektiktäschchen mit Reißverschluss nähen 4. Praxisprojekt: Einen Turnbeutel-Rucksack nähen Neu ab Mai 2019: Jetzt auch für Affiliates geöffnet! Profitiere von 30% Provision!
 
 ## 2. Links
 

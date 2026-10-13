@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Endlich KI verstehen – Der KI-Ratgeber für die Generation 50+ (eBook, 9 €)</strong></p>
-<p>Bewirb das Produkt für die größte und am schnellsten wachsende unterversorgte Zielgruppe im KI-Boom: Menschen ab 50, die überall von ChatGPT &amp; KI hören – aber keinen Einstieg finden, der ihre Sprache spricht.</p>
-<p><strong>Warum sich die Promotion lohnt:</strong></p>
-<ul>
-<li><strong>Riesige Zielgruppe, wenig Konkurrenz:</strong> Millionen 50- bis 75-Jährige in DACH wollen KI verstehen. Fast alle Infoprodukte zu KI richten sich an Marketer und Selbstständige – dieses hier gezielt an Senioren und Best Ager. Kaum Mitbewerber, klare Positionierung.</li>
-<li><strong>Impulskauf-Preis:</strong> 9 € statt 19 € (Einführungspreis) – kaum Kaufwiderstand, ideal für Newsletter, Social Media und Content-Seiten rund um Alltag, Familie, Ruhestand, Technik-Hilfe.</li>
-<li><strong>50 % Provision</strong> auf jeden Verkauf.</li>
-<li><strong>Conversion-optimierte Landingpage</strong> mit echten Anwendungsbeispielen, Chat-Optik und klarer Ansprache der Zielgruppe – ohne Fachchinesisch, ohne Hype.</li>
-<li><strong>Sauberes Produkt, wenig Storno:</strong> 30 Seiten, große Schrift, 10 Alltags-Anwendungen (Technikprobleme lösen, Behördenbriefe übersetzen, Arztbesuche vorbereiten, Rezepte, Reisen u. v. m.), 18 fertige Vorlagen zum Abtippen plus bebilderte Schritt-für-Schritt-Einrichtung von ChatGPT. 14 Tage Geld-zurück-Garantie, echte Screenshots, ehrliche Versprechen – das hält die Erstattungsquote niedrig.</li>
-</ul>
-<p><strong>Perfekt für dich, wenn deine Reichweite eine dieser Gruppen erreicht:</strong> Best Ager / Senioren, Eltern &amp; Großeltern, Ruhestand &amp; Vorsorge, Alltagstipps &amp; Haushalt, Technik-Hilfe für Einsteiger, Gesundheit 50+, regionale Newsletter, Enkel-Trick-Formate („Hilf deinen Eltern…").</p>
-<p><strong>Ansprache-Idee, die funktioniert:</strong> „Nie wieder die Kinder anrufen, wenn der Drucker streikt" – Technikprobleme selbst lösen ist der stärkste Kaufauslöser dieser Zielgruppe.</p>
-<p>Werbematerial (fertige Anzeigenbilder, Textvorlagen, E-Mail-Swipes) stellen wir dir auf Anfrage gern zur Verfügung: <a>mail@konekt-media.de</a></p>
-<p>KONEKT media GmbH</p>
+**Vendor's marketplace description:** Endlich KI verstehen – Der KI-Ratgeber für die Generation 50+ (eBook, 9 €) Bewirb das Produkt für die größte und am schnellsten wachsende unterversorgte Zielgruppe im KI-Boom: Menschen ab 50, die überall von ChatGPT & KI hören – aber keinen Einstieg finden, der ihre Sprache spricht. Warum sich die Promotion lohnt: Riesige Zielgruppe, wenig Konkurrenz: Millionen 50- bis 75-Jährige in DACH wollen KI verstehen. Fast alle Infoprodukte zu KI richten sich an Marketer und Selbstständige – dieses hier gezielt an Senioren und Best Ager. Kaum Mitbewerber, klare Positionierung. Impulskauf-Preis: 9 € statt 19 € (Einführungspreis) – kaum Kaufwiderstand, ideal für Newsletter, Social Media und Content-Seiten rund um Alltag, Familie, Ruhestand, Technik-Hilfe. 50 % Provision auf jeden Verkauf. Conversion-optimierte Landingpage mit echten Anwendungsbeispielen, Chat-Optik und klarer Ansprache der Zielgruppe – ohne Fachchinesisch, ohne Hype. Sauberes Produkt, wenig Storno: 30 Seiten, große Schrift, 10 Alltags-Anwendungen (Technikprobleme lösen, Behördenbriefe übersetzen, Arztbesuche vorbereiten, Rezepte, Reisen u. v. m.), 18 fertige Vorlagen zum Abtippen plus bebilderte Schritt-für-Schritt-Einrichtung von ChatGPT. 14 Tage Geld-zurück-Garantie, echte Screenshots, ehrliche Versprechen – das hält die Erstattungsquote niedrig. Perfekt für dich, wenn deine Reichweite eine dieser Gruppen erreicht: Best Ager / Senioren, Eltern & Großeltern, Ruhestand & Vorsorge, Alltagstipps & Haushalt, Technik-Hilfe für Einsteiger, Gesundheit 50+, regionale Newsletter, Enkel-Trick-Formate („Hilf deinen Eltern…"). Ansprache-Idee, die funktioniert: „Nie wieder die Kinder anrufen, wenn der Drucker streikt" – Technikprobleme selbst lösen ist der stärkste Kaufauslöser dieser Zielgruppe. Werbematerial (fertige Anzeigenbilder, Textvorlagen, E-Mail-Swipes) stellen wir dir auf Anfrage gern zur Verfügung: mail@konekt-media.de KONEKT media GmbH
 
 ## 2. Links
 

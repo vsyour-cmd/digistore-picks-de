@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das E-Book „Warum deine Gefühle nicht das Problem sind“ richtet sich an Menschen, die ihre eigenen emotionalen Reaktionen besser verstehen und einen gesünderen Umgang mit ihren Gefühlen entwickeln möchten.</p>
-<p>Es vermittelt verständlich und psychologisch fundiert, wie Gefühle entstehen, welche Funktion sie haben und welche Informationen in ihnen stecken können. Die Leser lernen, ihre Gefühle bewusster wahrzunehmen, einzuordnen und angemessen mit ihnen umzugehen, ohne sich von ihnen überwältigen zu lassen oder sie dauerhaft wegzudrücken.</p>
-<p>Das E-Book eignet sich zur Bewerbung bei einer Zielgruppe, die sich für persönliche Entwicklung, Beziehungspsychologie, emotionale Selbstregulation und einen bewussteren Umgang mit den eigenen Gefühlen interessiert.</p>
+**Vendor's marketplace description:** Das E-Book „Warum deine Gefühle nicht das Problem sind“ richtet sich an Menschen, die ihre eigenen emotionalen Reaktionen besser verstehen und einen gesünderen Umgang mit ihren Gefühlen entwickeln möchten. Es vermittelt verständlich und psychologisch fundiert, wie Gefühle entstehen, welche Funktion sie haben und welche Informationen in ihnen stecken können. Die Leser lernen, ihre Gefühle bewusster wahrzunehmen, einzuordnen und angemessen mit ihnen umzugehen, ohne sich von ihnen überwältigen zu lassen oder sie dauerhaft wegzudrücken. Das E-Book eignet sich zur Bewerbung bei einer Zielgruppe, die sich für persönliche Entwicklung, Beziehungspsychologie, emotionale Selbstregulation und einen bewussteren Umgang mit den eigenen Gefühlen interessiert.
 
 ## 2. Links
 

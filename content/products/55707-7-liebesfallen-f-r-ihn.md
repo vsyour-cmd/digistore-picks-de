@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong>50% PROVISION auf das einzige Strategie-Papier, das die Sprache von Männern spricht.</strong></div>
-<div><strong>Warum dieses Produkt konvertiert:</strong></div>
-<ol>
-<li><strong>Radikale Reduktion:</strong> 20 Min. Lesezeit statt 300 Seiten Therapie.</li>
-<li><strong>Markantes Design:</strong> Neongelbes 'Absperrband'-Cover sorgt für extrem hohe Klickraten.</li>
-<li><strong>Zielgruppe:</strong> Unternehmer, Werksleiter, Macher – Männer, die klassische Ratgeber hassen.</li>
-</ol>
-<div><strong>Rätsel für Whatsapp-Status und Linked.In:</strong></div>
-<div> </div>
-<div><em>Frage: Wer ist SCHLAU und schläft ALLEIN?</em></div>
-<div><em>Antwort: Partner, der RECHT hatte.</em></div>
-<div> </div>
-<div><em>Frage: Was ist das beste VORSPIEL der Welt?</em></div>
-<div><em>Antwort: Wenn der Mann unaufgefordert den Abwasch macht.</em></div>
-<div> </div>
-<div><em>Frage: Was braucht sie VOR dem Liebesspiel und erfährt er DANACH?</em></div>
-<div><em>Antwort: Die ENTSPANNUNG. </em></div>
-<div> </div>
-<div> </div>
+**Vendor's marketplace description:** 50% PROVISION auf das einzige Strategie-Papier, das die Sprache von Männern spricht. Warum dieses Produkt konvertiert: Radikale Reduktion: 20 Min. Lesezeit statt 300 Seiten Therapie. Markantes Design: Neongelbes 'Absperrband'-Cover sorgt für extrem hohe Klickraten. Zielgruppe: Unternehmer, Werksleiter, Macher – Männer, die klassische Ratgeber hassen. Rätsel für Whatsapp-Status und Linked.In: Frage: Wer ist SCHLAU und schläft ALLEIN? Antwort: Partner, der RECHT hatte. Frage: Was ist das beste VORSPIEL der Welt? Antwort: Wenn der Mann unaufgefordert den Abwasch macht. Frage: Was braucht sie VOR dem Liebesspiel und erfährt er DANACH? Antwort: Die ENTSPANNUNG.
 
 ## 2. Links
 

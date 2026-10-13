@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit diesem Hypnose-Onlinekurs von Pet Anthony befreist Du Dich mit dem erprobten 8-wöchigen Programm dauerhaft aus dem Zwang des Rauchens.</p>
-<p>Der Kurs enthält insgesamt 4 Hypnosen, eine Video-Kursaleitung und Arbeitsmaterialien. </p>
-<p>Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.</p>
+**Vendor's marketplace description:** Mit diesem Hypnose-Onlinekurs von Pet Anthony befreist Du Dich mit dem erprobten 8-wöchigen Programm dauerhaft aus dem Zwang des Rauchens. Der Kurs enthält insgesamt 4 Hypnosen, eine Video-Kursaleitung und Arbeitsmaterialien. Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.
 
 ## 2. Links
 

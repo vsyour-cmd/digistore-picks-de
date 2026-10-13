@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Mini-Schlaf-Guide ist ein digitaler PDF-Guide rund um Schlaf, Einschlafen und ruhigere Abendroutinen.</p>
-<p>Er richtet sich an Menschen, die abends schwer abschalten, häufig grübeln oder kleine, verständliche Impulse für den Übergang vom Tag zur Ruhe suchen.</p>
-<p>Enthalten sind 8 Alltagsthemen rund um Schlaf und Einschlafen, 2 Bonusseiten sowie klare Abendimpulse. Der Guide ist visuell gestaltet, kompakt aufgebaut und ohne unnötiges Fachchinesisch formuliert.</p>
-<p>Die Auslieferung erfolgt digital nach dem Kauf. Es wird kein physisches Produkt versendet.</p>
+**Vendor's marketplace description:** Der Mini-Schlaf-Guide ist ein digitaler PDF-Guide rund um Schlaf, Einschlafen und ruhigere Abendroutinen. Er richtet sich an Menschen, die abends schwer abschalten, häufig grübeln oder kleine, verständliche Impulse für den Übergang vom Tag zur Ruhe suchen. Enthalten sind 8 Alltagsthemen rund um Schlaf und Einschlafen, 2 Bonusseiten sowie klare Abendimpulse. Der Guide ist visuell gestaltet, kompakt aufgebaut und ohne unnötiges Fachchinesisch formuliert. Die Auslieferung erfolgt digital nach dem Kauf. Es wird kein physisches Produkt versendet.
 
 ## 2. Links
 

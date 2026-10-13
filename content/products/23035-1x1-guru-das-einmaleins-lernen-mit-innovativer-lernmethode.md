@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Einmaleins lernen mit innovativer Lerntechnik. Durch mentale Visualisierung können Kinder das Einmaleins autonom, einfach und mit viel Spass lernen.</p>
-<p>Es handelt sich um eine einzigartige und innovative Lernmethode, die eine Revolution für das mühselige Lernen der Multiplikationen darstellt. Mathematik und vor allem das 1x1 wird dadurch zu einem einfachen Spiel, welches dem Kind grosses Selbstvertrauen verleiht.</p>
-<p>Zusätzlich lernt das Kind sehr schnell kopfrechnen.</p>
+**Vendor's marketplace description:** Einmaleins lernen mit innovativer Lerntechnik. Durch mentale Visualisierung können Kinder das Einmaleins autonom, einfach und mit viel Spass lernen. Es handelt sich um eine einzigartige und innovative Lernmethode, die eine Revolution für das mühselige Lernen der Multiplikationen darstellt. Mathematik und vor allem das 1x1 wird dadurch zu einem einfachen Spiel, welches dem Kind grosses Selbstvertrauen verleiht. Zusätzlich lernt das Kind sehr schnell kopfrechnen.
 
 ## 2. Links
 

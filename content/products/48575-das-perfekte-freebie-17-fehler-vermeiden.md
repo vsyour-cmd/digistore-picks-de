@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das perfekte Freebie</p>
-<p>Der Ratgeber um die 17 häufigsten Fehler bei der Freebie Erstellung zu vermeiden …</p>
-<p>E-Book um 0€, als Geschenk für Deine Leser ...</p>
-<p>Dieses E-Book funktioniert sehr gut für Affiliate Anfänger und Fortgeschrittene<br />Perfektes Produkt für "jeden", der mit einem Freebie oder Freebie-Funnel starten oder weiterkommen will und nach wertvollen Tipps sucht.<br />Du hast mit diesem E-Book ein angesagtes Produkt für Deine Community und wirst am kompletten Sales-Funnel beteiligt!<br />Hohe Conversion, da es für den Kunden sehr relevant ist.</p>
-<p>50% Provision auf Verkauf, Add-on und Upsell ein.<br />Plus: 15% Lifetime-Provision auf alle Folgeverkäufe!</p>
-<p>Der Upsell-Prozess wird laufend optimiert und angepasst.<br />Über 115€ im Funnel für Dich möglich!</p>
-<p>Viel Erfolg und fette Beute!</p>
+**Vendor's marketplace description:** Das perfekte Freebie Der Ratgeber um die 17 häufigsten Fehler bei der Freebie Erstellung zu vermeiden … E-Book um 0€, als Geschenk für Deine Leser ... Dieses E-Book funktioniert sehr gut für Affiliate Anfänger und Fortgeschrittene Perfektes Produkt für "jeden", der mit einem Freebie oder Freebie-Funnel starten oder weiterkommen will und nach wertvollen Tipps sucht. Du hast mit diesem E-Book ein angesagtes Produkt für Deine Community und wirst am kompletten Sales-Funnel beteiligt! Hohe Conversion, da es für den Kunden sehr relevant ist. 50% Provision auf Verkauf, Add-on und Upsell ein. Plus: 15% Lifetime-Provision auf alle Folgeverkäufe! Der Upsell-Prozess wird laufend optimiert und angepasst. Über 115€ im Funnel für Dich möglich! Viel Erfolg und fette Beute!
 
 ## 2. Links
 

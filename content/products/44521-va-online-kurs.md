@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Als Virtueller Assistent von überall arbeiten</strong></p>
-<p> </p>
-<p>In diesem Online Kurs lernen die Teilnehmenden, wie sie als VA starten können und so ortsunabhängig arbeiten können. Ein Thema welches immer aktueller wird, da viele Menschen das Bedürfnis haben unabhängig zu arbeiten. Die Virtuelle Assistenz bietet dazu viele Möglichkeiten</p>
-<p> </p>
-<p><strong>Deine Vorteile als Affiliate</strong></p>
-<p>Für jeden verkauften Kurs erhältst du 30% Provision.</p>
-<p>Der Kurs wird immer wieder um neue Inhalte ergänzt.</p>
+**Vendor's marketplace description:** Als Virtueller Assistent von überall arbeiten In diesem Online Kurs lernen die Teilnehmenden, wie sie als VA starten können und so ortsunabhängig arbeiten können. Ein Thema welches immer aktueller wird, da viele Menschen das Bedürfnis haben unabhängig zu arbeiten. Die Virtuelle Assistenz bietet dazu viele Möglichkeiten Deine Vorteile als Affiliate Für jeden verkauften Kurs erhältst du 30% Provision. Der Kurs wird immer wieder um neue Inhalte ergänzt.
 
 ## 2. Links
 

@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>➡️ 5 Minuten Tagebuch für Mädchen und Jungen im Alter von 5-10 Jahren</p>
-<p>➡️ Für mehr Selbstliebe, Dankbarkeit und ein starkes Selbstbewusstsein</p>
-<p>➡️ Hardcoverbuch mit täglichen Achtsamkeitsübungen für glückliche Kinder</p>
-<p> </p>
-<p> </p>
-<table><tbody><tr><td>
-<div>
-<p><strong>Inhalt des Buches:</strong></p>
-<p>✔️ Hardcoverbuch: 280 Seiten</p>
-<p>✔️ Übungsinhalte für 26 spannende Wochen         </p>
-<p>✔️ Tägliche Übungen für mehr Achtsamkeit im Kindesalter</p>
-<p>✔️ Stimmungsbarometer zum Ankreuzen</p>
-<p>✔️ Jede Woche ein neuer kindgerechter Glaubenssatz</p>
-<p>✔️ Größe: 17 x 24 cm</p>
-<p>✔️ Sprache: Deutsch</p>
-<p> </p>
-<p><strong>Deine Vorteile auf einen Blick:</strong></p>
-<p>➡️ Ideales Geschenk für Kinder im Alter von 5-10 Jahre</p>
-<p>➡️ Bietet genügend Raum für Kreativität und eigene Gedanken</p>
-<p>➡️ Das Ausfüllen wird zu einem täglichen Ritual und stärkt die Eltern-Kind-Beziehung</p>
-<p>➡️ Dieses Kindertagebuch ist aufgrund des Hardcovers robust, dennoch durch die Fadenbindung flexibel. Das Buch enthält ein praktisches Kapitelbändchen und schreibfeste Buchseiten aus Naturpapier</p>
-<p>➡️ Schönes Erinnerungsbuch für Kinder und die gesamte Familie</p>
-<p>➡️ Liebevoll gestaltete Seiten in zwei verschiedenen Farben und Designs</p>
-</div>
-</td>
-</tr></tbody></table>
+**Vendor's marketplace description:** ➡️ 5 Minuten Tagebuch für Mädchen und Jungen im Alter von 5-10 Jahren ➡️ Für mehr Selbstliebe, Dankbarkeit und ein starkes Selbstbewusstsein ➡️ Hardcoverbuch mit täglichen Achtsamkeitsübungen für glückliche Kinder Inhalt des Buches: ✔️ Hardcoverbuch: 280 Seiten ✔️ Übungsinhalte für 26 spannende Wochen ✔️ Tägliche Übungen für mehr Achtsamkeit im Kindesalter ✔️ Stimmungsbarometer zum Ankreuzen ✔️ Jede Woche ein neuer kindgerechter Glaubenssatz ✔️ Größe: 17 x 24 cm ✔️ Sprache: Deutsch Deine Vorteile auf einen Blick: ➡️ Ideales Geschenk für Kinder im Alter von 5-10 Jahre ➡️ Bietet genügend Raum für Kreativität und eigene Gedanken ➡️ Das Ausfüllen wird zu einem täglichen Ritual und stärkt die Eltern-Kind-Beziehung ➡️ Dieses Kindertagebuch ist aufgrund des Hardcovers robust, dennoch durch die Fadenbindung flexibel. Das Buch enthält ein praktisches Kapitelbändchen und schreibfeste Buchseiten aus Naturpapier ➡️ Schönes Erinnerungsbuch für Kinder und die gesamte Familie ➡️ Liebevoll gestaltete Seiten in zwei verschiedenen Farben und Designs
 
 ## 2. Links
 

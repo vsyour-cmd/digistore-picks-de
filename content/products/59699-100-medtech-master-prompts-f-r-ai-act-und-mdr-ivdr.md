@@ -41,33 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Medizintechnik 100 Master-Prompts Repository – KI-Compliance, EU AI Act &amp; MDR/IVDR 2026/2027</strong></p>
-<p>Dieses digitale Produkt enthält <strong>100 direkt nutzbare Master-Prompts im PDF-Format</strong> für Hersteller KI-gestützter Medizinprodukte sowie Teams aus Regulatory Affairs, Qualitätsmanagement, Produktentwicklung, Risk Management und Compliance.</p>
-<p>Das Repository unterstützt bei der strukturierten Vorbereitung von Dokumentations-, Prüf- und Governance-Aufgaben an der Schnittstelle von <strong>EU AI Act, MDR, IVDR und MedTech-KI</strong>.</p>
-<p><strong>Geeignet für:</strong></p>
-<ul>
-<li>Hersteller KI-gestützter Medizinprodukte</li>
-<li>Regulatory Affairs und Zulassungsverantwortliche</li>
-<li>Qualitätsmanagement und QMS-Teams</li>
-<li>Produktmanagement und Entwicklung</li>
-<li>Clinical Affairs und Risk Management</li>
-<li>SaMD-, IVD- und Diagnostik-Unternehmen</li>
-<li>Compliance- und Datenschutzteams</li>
-</ul>
-<p><strong>Themenschwerpunkte:</strong></p>
-<ul>
-<li>Hochrisiko-Einstufung und Konformitätsbewertung</li>
-<li>MDR-/IVDR-Schnittstellen</li>
-<li>technische Dokumentation und Audit Trails</li>
-<li>Risikomanagement und QMS</li>
-<li>Datenqualität, Bias und Daten-Governance</li>
-<li>Human Oversight und IFU-Textbausteine</li>
-<li>Post-Market Surveillance, Vigilanz und CAPA</li>
-<li>Drift, Modelländerungen und Audit-Vorbereitung</li>
-</ul>
-<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales PDF mit 100 Master-Prompts, Checklisten und Dokumentationshilfen</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
-<p>Das Repository dient als praktische Arbeits- und Dokumentationshilfe. Es ersetzt keine Rechtsberatung, CE-Zertifizierung, MDR-/IVDR-Konformitätsbewertung, technische Validierung, klinische Bewertung oder Beratung durch eine Benannte Stelle.</p>
-<p>Ein spezialisiertes B2B-Produkt für eine klar definierte MedTech-Zielgruppe mit hohem Dokumentations- und Compliance-Bedarf.</p>
+**Vendor's marketplace description:** Medizintechnik 100 Master-Prompts Repository – KI-Compliance, EU AI Act & MDR/IVDR 2026/2027 Dieses digitale Produkt enthält 100 direkt nutzbare Master-Prompts im PDF-Format für Hersteller KI-gestützter Medizinprodukte sowie Teams aus Regulatory Affairs, Qualitätsmanagement, Produktentwicklung, Risk Management und Compliance. Das Repository unterstützt bei der strukturierten Vorbereitung von Dokumentations-, Prüf- und Governance-Aufgaben an der Schnittstelle von EU AI Act, MDR, IVDR und MedTech-KI . Geeignet für: Hersteller KI-gestützter Medizinprodukte Regulatory Affairs und Zulassungsverantwortliche Qualitätsmanagement und QMS-Teams Produktmanagement und Entwicklung Clinical Affairs und Risk Management SaMD-, IVD- und Diagnostik-Unternehmen Compliance- und Datenschutzteams Themenschwerpunkte: Hochrisiko-Einstufung und Konformitätsbewertung MDR-/IVDR-Schnittstellen technische Dokumentation und Audit Trails Risikomanagement und QMS Datenqualität, Bias und Daten-Governance Human Oversight und IFU-Textbausteine Post-Market Surveillance, Vigilanz und CAPA Drift, Modelländerungen und Audit-Vorbereitung Wichtig: Es handelt sich ausdrücklich um ein digitales PDF mit 100 Master-Prompts, Checklisten und Dokumentationshilfen und nicht um Software, einen Videokurs oder einen Mitgliederbereich. Das Repository dient als praktische Arbeits- und Dokumentationshilfe. Es ersetzt keine Rechtsberatung, CE-Zertifizierung, MDR-/IVDR-Konformitätsbewertung, technische Validierung, klinische Bewertung oder Beratung durch eine Benannte Stelle. Ein spezialisiertes B2B-Produkt für eine klar definierte MedTech-Zielgruppe mit hohem Dokumentations- und Compliance-Bedarf.
 
 ## 2. Links
 

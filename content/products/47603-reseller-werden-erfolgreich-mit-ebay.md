@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Du bekommst 50% Provision auf alles inkl. Addons + Upsells</strong></p>
-<p><strong>Tauche ein in die Welt des Resellings auf eBay.</strong></p>
-<p><strong>In diesen E-Book wird das Thema „Reselling“ in allen Facetten beleuchtet:</strong></p>
-<ul>
-<li><strong>Grundlagen des Resellings auf eBay verstehen</strong></li>
-<li><strong>Auswahl einer profitablen Produktnische</strong></li>
-<li><strong>Analyse des Marktes und Identifizierung von Trends</strong></li>
-<li><strong>Effektive Strategien zum Einkauf und Auswahl von Produkten</strong></li>
-<li><strong>Tipps zur Preisgestaltung und Maximierung Ihrer Gewinnspanne</strong></li>
-<li><strong>Schritt-für-Schritt-Anleitung zum Einstellen Ihrer Produkte auf eBay</strong></li>
-<li><strong>Best Practices für den Versand und die Kundenbetreuung</strong></li>
-<li><strong>Identifizierung und Bewältigung von Risiken im Reselling-Geschäft</strong></li>
-<li><strong>Überlegungen zur rechtlichen Seite und der Frage, ob ein Gewerbe notwendig ist</strong></li>
-<li><strong>Geheimtipps</strong></li>
-<li><strong>Empfehlungen rundums Reselling</strong></li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** Du bekommst 50% Provision auf alles inkl. Addons + Upsells Tauche ein in die Welt des Resellings auf eBay. In diesen E-Book wird das Thema „Reselling“ in allen Facetten beleuchtet: Grundlagen des Resellings auf eBay verstehen Auswahl einer profitablen Produktnische Analyse des Marktes und Identifizierung von Trends Effektive Strategien zum Einkauf und Auswahl von Produkten Tipps zur Preisgestaltung und Maximierung Ihrer Gewinnspanne Schritt-für-Schritt-Anleitung zum Einstellen Ihrer Produkte auf eBay Best Practices für den Versand und die Kundenbetreuung Identifizierung und Bewältigung von Risiken im Reselling-Geschäft Überlegungen zur rechtlichen Seite und der Frage, ob ein Gewerbe notwendig ist Geheimtipps Empfehlungen rundums Reselling
 
 ## 2. Links
 

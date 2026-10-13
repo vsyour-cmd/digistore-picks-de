@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Von der Idee zum ersten Video, das wirklich Zuschauer findet</strong></p>
-<p>Du willst endlich starten, aber stehst vor tausend Fragen: Welche Nische? Welches Equipment? Warum klickt niemand? Dieses E-Book nimmt dich an die Hand – von der Kanal-Idee über die ersten zehn Videos bis zu deinen ersten 1.000 Abonnenten. Kein Technik-Geschwurbel, sondern ein klarer Schritt-für-Schritt-Plan, den du mit deinem Smartphone umsetzen kannst. Du lernst, wie Titel und Thumbnail über deinen Erfolg entscheiden, wie du die ersten 30 Sekunden meisterst und wie du aus jedem Video besser wirst. Am Ende hast du kein Bauchgefühl mehr, sondern ein System, das dich verlässlich wachsen lässt.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Die richtige Nische finden, die zu dir UND zur Nachfrage passt</li>
-<li>Equipment-Guide: was du wirklich brauchst (und was nicht)</li>
-<li>Die Packaging-Formel: Titel &amp; Thumbnail, die geklickt werden</li>
-<li>Skript-Vorlage für die perfekten ersten 30 Sekunden</li>
-<li>Dein 10-Videos-Startplan mit konkreten Themen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Von der Idee zum ersten Video, das wirklich Zuschauer findet Du willst endlich starten, aber stehst vor tausend Fragen: Welche Nische? Welches Equipment? Warum klickt niemand? Dieses E-Book nimmt dich an die Hand – von der Kanal-Idee über die ersten zehn Videos bis zu deinen ersten 1.000 Abonnenten. Kein Technik-Geschwurbel, sondern ein klarer Schritt-für-Schritt-Plan, den du mit deinem Smartphone umsetzen kannst. Du lernst, wie Titel und Thumbnail über deinen Erfolg entscheiden, wie du die ersten 30 Sekunden meisterst und wie du aus jedem Video besser wirst. Am Ende hast du kein Bauchgefühl mehr, sondern ein System, das dich verlässlich wachsen lässt. Das steckt drin: Die richtige Nische finden, die zu dir UND zur Nachfrage passt Equipment-Guide: was du wirklich brauchst (und was nicht) Die Packaging-Formel: Titel & Thumbnail, die geklickt werden Skript-Vorlage für die perfekten ersten 30 Sekunden Dein 10-Videos-Startplan mit konkreten Themen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

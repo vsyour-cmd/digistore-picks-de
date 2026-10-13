@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>40% Provision auf jeden Verkauf. Einziges deutschsprachiges E-Book für Frauen über 35 mit Kinderwunsch – eine Nische ohne direkte Konkurrenz. Zielgruppe kauft emotional und schnell. Ideal für Affiliates aus den Bereichen Fruchtbarkeit, Frauengesundheit, Hebammen, Mama-Content und Persönlichkeitsentwicklung. Preis: 29€. Provision ca. 11,60€ pro Verkauf – vollautomatisch über Digistore24.</p>
+**Vendor's marketplace description:** 40% Provision auf jeden Verkauf. Einziges deutschsprachiges E-Book für Frauen über 35 mit Kinderwunsch – eine Nische ohne direkte Konkurrenz. Zielgruppe kauft emotional und schnell. Ideal für Affiliates aus den Bereichen Fruchtbarkeit, Frauengesundheit, Hebammen, Mama-Content und Persönlichkeitsentwicklung. Preis: 29€. Provision ca. 11,60€ pro Verkauf – vollautomatisch über Digistore24.
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein Begleitbuch durch eine herausfordernde Zeit im Leben einer Frau und ein Weg zurück in ein neues Leben.</p>
-<p>Meine ganz persönliche Herausforderung hieß Brustkrebs und als alleinerziehende Mutter nehme ich den Leser mit durch diese Zeit und zeige, was bei mir funktioniert hat, welche Entscheidungen ich für mich getroffen habe und gebe Tipps, wie die Frau wieder zurück in ihr wahres, wenn auch neues Selbst findet ohne schlechtes GewissennhBen zu müssen, weil man DANACH einfach anders ist.</p>
-<p>Dieses Buch begleitet durch eine extreme Herausforderung, gleich welcher Art, und hilft herauszufinden, wer wir jetzt sind bzw. wer wir jetzt sein wollen. Prioritäten verändern sich und dieses Buch hilft, nach neuen Kraftquellen zu suchen, es zeigt wie wir loszulassen können und hilft zu verstehen, warum vielleicht nicht alle Menschen von davor in das Leben danach passen. </p>
-<p> </p>
+**Vendor's marketplace description:** Ein Begleitbuch durch eine herausfordernde Zeit im Leben einer Frau und ein Weg zurück in ein neues Leben. Meine ganz persönliche Herausforderung hieß Brustkrebs und als alleinerziehende Mutter nehme ich den Leser mit durch diese Zeit und zeige, was bei mir funktioniert hat, welche Entscheidungen ich für mich getroffen habe und gebe Tipps, wie die Frau wieder zurück in ihr wahres, wenn auch neues Selbst findet ohne schlechtes GewissennhBen zu müssen, weil man DANACH einfach anders ist. Dieses Buch begleitet durch eine extreme Herausforderung, gleich welcher Art, und hilft herauszufinden, wer wir jetzt sind bzw. wer wir jetzt sein wollen. Prioritäten verändern sich und dieses Buch hilft, nach neuen Kraftquellen zu suchen, es zeigt wie wir loszulassen können und hilft zu verstehen, warum vielleicht nicht alle Menschen von davor in das Leben danach passen.
 
 ## 2. Links
 

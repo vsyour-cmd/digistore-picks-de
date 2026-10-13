@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>50 Hooks, die neugierig machen</strong></p>
-<p>Der erste Satz entscheidet oft, ob jemand weiterscrollt oder stehen bleibt. Genau dabei helfen diese 50 sofort einsetzbaren Hooks für Social Media.</p>
-<p>Die Sammlung ist ideal für Anfänger, Creator, Selbstständige und alle, die regelmäßig Content erstellen und nicht jedes Mal überlegen möchten: „Wie fange ich meinen Post eigentlich an?“</p>
+**Vendor's marketplace description:** 50 Hooks, die neugierig machen Der erste Satz entscheidet oft, ob jemand weiterscrollt oder stehen bleibt. Genau dabei helfen diese 50 sofort einsetzbaren Hooks für Social Media. Die Sammlung ist ideal für Anfänger, Creator, Selbstständige und alle, die regelmäßig Content erstellen und nicht jedes Mal überlegen möchten: „Wie fange ich meinen Post eigentlich an?“
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Wenn sich alles verändert – 3 Ratgeber für Wechseljahre, Pflege &amp; Trauer | 50% Provision</p>
-<p> </p>
-<p>Bewirb ein Bundle aus drei gefragten Ratgebern für besondere Lebensphasen: "Die zweite Reifephase", "Pflegende Angehörige" und "Was bleibt, wenn jemand geht" – zum Vorteilspreis von 36€ statt 81€.</p>
-<p> </p>
-<p>Wechseljahre, Pflege und Trauer betreffen enorm viele Menschen in der Lebensmitte, entsprechend breit lässt sich das Bundle bewerben – ob über Social Media, Frauen- und Angehörigen-Communities, E-Mail-Liste oder eigene Website. Du erhältst 50% Provision auf jeden Verkauf, dazu fertige Werbemittel (Social-Media-Posts, E-Mail-Vorlagen) direkt im Partnerprogramm.</p>
-<p> </p>
-<p>Zielgruppe: Frauen in den Wechseljahren, pflegende Angehörige und Menschen, die einen Verlust verarbeiten.</p>
+**Vendor's marketplace description:** Wenn sich alles verändert – 3 Ratgeber für Wechseljahre, Pflege & Trauer | 50% Provision Bewirb ein Bundle aus drei gefragten Ratgebern für besondere Lebensphasen: "Die zweite Reifephase", "Pflegende Angehörige" und "Was bleibt, wenn jemand geht" – zum Vorteilspreis von 36€ statt 81€. Wechseljahre, Pflege und Trauer betreffen enorm viele Menschen in der Lebensmitte, entsprechend breit lässt sich das Bundle bewerben – ob über Social Media, Frauen- und Angehörigen-Communities, E-Mail-Liste oder eigene Website. Du erhältst 50% Provision auf jeden Verkauf, dazu fertige Werbemittel (Social-Media-Posts, E-Mail-Vorlagen) direkt im Partnerprogramm. Zielgruppe: Frauen in den Wechseljahren, pflegende Angehörige und Menschen, die einen Verlust verarbeiten.
 
 ## 2. Links
 

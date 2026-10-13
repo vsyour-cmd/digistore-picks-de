@@ -41,63 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2 style="text-align:center;"><span style="background-color:#ffff99;color:#993366;">Du möchtest dir selbst und der Welt was Gutes tun und dabei Geld verdienen? Dann lies gespannt weiter!</span></h2>
-<h2 style="text-align:center;"><span style="color:#993366;"><span style="color:#ff0000;">♥</span>   <span style="color:#ff9900;">♥ </span>  <span style="color:#ffff00;">♥  </span> <span style="color:#339966;">♥</span>   <span style="color:#00ccff;">♥ </span>  <span style="color:#0000ff;">♥</span>   <span style="color:#800080;">♥</span></span></h2>
-<p> </p>
-<div style="text-align:center;"><strong><span style="color:#3366ff;">Ich bin ausgebildete Happiness Trainerin (ALH) und ich habe auf Basis der <span style="color:#ccffff;background-color:#3366ff;"> Glücksforschung </span> eine ganz neue Spielvariante des beliebten Spieleklassikers <span style="color:#ccffff;background-color:#3366ff;">"Stadt, Land, Fluss"</span> entwickelt.</span></strong></div>
-<div style="text-align:center;"> </div>
-<div style="text-align:center;"><strong><span style="color:#3366ff;">Mit dem Spiel trainiert man Runde für Runde sein  eigenes <span style="color:#ccffff;background-color:#3366ff;"> Glücklichsein! </span></span></strong></div>
-<div style="text-align:center;"> </div>
-<div style="text-align:center;"> </div>
-<h2 style="text-align:center;"><span style="color:#993366;">Du erhältst <span style="background-color:#ffff99;"><strong>50 %</strong></span> Provision auf jeden Verkauf des Spiels</span></h2>
-<h2 style="text-align:center;"><span style="color:#993366;background-color:#ffff99;"> "Stadt, Land ♥ Glückstraining" </span><span style="text-decoration:underline;color:#ffff99;background-color:#993366;"><br /></span></h2>
-<div style="text-align:center;"> </div>
-<div style="text-align:center;"> </div>
-<div style="text-align:center;"><span style="color:#993366;"><strong>Das Spiel tut der Welt so gut, weil es die Leute spielerisch dazu bringt, sich mit sich selbst zu beschäftigen, anstatt den Fokus auf andere(s) zu richten. </strong></span></div>
-<div style="text-align:center;"> </div>
-<div style="text-align:center;"><span style="color:#993366;"><strong>Jeder, der lernt und trainiert, sich auf das Gute in seinem Leben zu konzentrieren und dieses zu vermehren, der ist eine Wohltat für sein näheres Umfeld und auch für die Welt.</strong></span></div>
-<div style="text-align:center;"> </div>
-<h4 style="text-align:center;padding-left:30px;"><span style="color:#3366ff;"> Dieses Spiel ist der ideale und kinderleichte <span style="background-color:#3366ff;"><strong><span style="color:#ccffff;"> Einstieg für alle Glücksuchenden </span></strong></span> in ein bewussteres, glückliches Leben. </span></h4>
-<p>  </p>
-<p style="text-align:center;padding-left:30px;"><span style="color:#993366;background-color:#ffff99;"><strong> Spielfakten </strong></span></p>
-<ul style="text-align:center;">
-<li style="text-align:left;"><span style="color:#993366;">ab 8 Jahre</span></li>
-<li style="text-align:left;"><span style="color:#993366;">für alle Geschlechter</span></li>
-<li style="text-align:left;"><span style="color:#993366;">mit 10 neuen Kategorien aus der Glücksforschung</span></li>
-<li style="text-align:left;"><span style="color:#993366;">5 Runden je Seite spielbar</span></li>
-<li style="text-align:left;"><span style="color:#993366;">für Zuhause und unterwegs</span></li>
-<li style="text-align:left;"><span style="color:#993366;">zum Ausdrucken &amp; digital spielen</span></li>
-<li style="text-align:left;"><span style="color:#993366;">einmal kaufen &amp; unendlich oft spielen</span></li>
-</ul>
-<p style="text-align:center;"> </p>
-<p style="text-align:center;padding-left:30px;"><span style="color:#993366;background-color:#ffff99;"><strong>Lieferumfang: 2 Dateien</strong></span></p>
-<ol style="text-align:center;">
-<li style="text-align:left;"><span style="color:#993366;"><strong>eine PNG-Datei</strong> <strong> <span style="background-color:#3366ff;color:#ccffff;"> zum Ausdrucken </span></strong> der Spieltabelle "Stadt, Land, Glückstraining"</span></li>
-<li style="text-align:left;"><span style="color:#993366;"><strong>eine PDF-Datei</strong> mit 8 Seiten, inkl. Spieltabelle und 2 Spielanleitungen für ein und mehrere Spieler.</span></li>
-</ol>
-<ul>
-<li style="text-align:left;"><span style="color:#993366;">Diese PDF kannst du zum Beispiel selber Zuhause, bei Freunden oder im Copyshop ausdrucken.</span><br /><br /></li>
-<li style="text-align:left;"><span style="color:#993366;">Du kannst die PDF-Datei auch direkt <strong><span style="background-color:#3366ff;color:#ccffff;"> am Bildschirm ausfüllen </span></strong>, da sie integrierte Textfelder enthält.</span></li>
-</ul>
-<p> </p>
-<h2 style="text-align:center;"><span style="color:#ccffff;background-color:#ffff99;"><span style="color:#993366;"> Vermarktung - 11 Ideen</span></span></h2>
-<p><span style="color:#3366ff;"><span style="color:#993366;">Vermarkte es, wie es dir beliebt und dir Freude bereitet. Anbei einige Anregungen:</span></span></p>
-<p style="padding-left:30px;"><span style="background-color:#3366ff;color:#ccffff;"><strong> ONLINE </strong></span></p>
-<ol>
-<li><span style="color:#ccffff;"><span style="color:#993366;">Biete ein 30 minütiges <strong>Onlinetreffen</strong> an, z. B. über Zoom und dann spielt ihr gemeinsam 2-3 Runden. Anschließend werden die Teilnehmenden gebeten, das Spiel entweder zu löschen und über deinen Link zu kaufen.<br /></span></span></li>
-<li><span style="color:#ccffff;"><span style="color:#993366;">Du kannst zum Beispiel über https://<strong>woloho.com</strong> im <strong>Loveletter</strong> kostenfrei eine Einladung zum kostenlosen Mitspielen verfassen.<br /><br /></span></span></li>
-<li><span style="color:#ccffff;"><span style="color:#993366;">Berichte von dem Spiel in deinem <strong>Blog</strong>.<strong><br /><br /></strong></span></span></li>
-<li><span style="color:#ccffff;"><span style="color:#993366;">Berichte von dem Spiel in deinem<strong> Newlsetter</strong>.<br /></span></span></li>
-<li><span style="color:#ccffff;"><span style="color:#993366;">Teile deinen Affiliate-Link in deinen<strong> Chatgruppen auf Telegram, Whatsapp &amp; Co</strong>.<br /><br /></span></span></li>
-<li><span style="color:#ccffff;"><span style="color:#993366;">Teile deinen Affiliate-Link auf Social Media, z. B.<strong> Facebook, Instagram, TikTok &amp; Co</strong>.<br /></span></span></li>
-<li><span style="color:#ccffff;"><span style="color:#993366;">Berichte von deinem Spielspaß auf <strong>Youtube</strong>.<strong><br /><br /></strong></span></span></li>
-<li><span style="color:#ccffff;"><span style="color:#993366;">Nutze<strong> Kleinanzeigenportale und Foren</strong></span></span><span style="color:#ccffff;"><span style="color:#993366;">.</span></span><span style="color:#ccffff;background-color:#ffff99;"><span style="color:#993366;"><strong><br /><br /></strong></span></span><span style="color:#ccffff;"><span style="color:#993366;"><strong><span style="color:#ccffff;background-color:#3366ff;"> OFFLINE </span><br /></strong></span></span></li>
-<li><span style="color:#ccffff;"><span style="color:#993366;">Drucke das Spiel aus und spiele es als <strong>Mitbringsel</strong> mit Freunden &amp; Verwandten, anschließend teilst du deinen Affiliate Link mit ihnen.<strong><br /><br /></strong></span></span></li>
-<li><span style="color:#ccffff;"><span style="color:#993366;">Erzähle auf der <strong>Arbeit</strong> von deinem glücksfördernden Spielspaß.<br /><br /></span></span></li>
-<li><span style="color:#ccffff;"><span style="color:#993366;">Hänge eine ausgedruckte Kleinanzeige mit <strong>Abreißzettel</strong> inkl. Affiliate-Link gut sichtbar in die Öffentlichkeit.<br /></span></span></li>
-</ol>
-<h4 style="padding-left:30px;text-align:center;"><span style="color:#3366ff;">Bist du dabei? Lass uns gemeinsam etwas Gutes für die Welt tun. Viele kleine Veränderungen bewirken am Ende Großes.</span></h4>
-<h2 style="text-align:center;"><span style="color:#3366ff;"><span style="color:#ff0000;">♥</span> <span style="color:#ff9900;">♥</span> <span style="color:#ffff00;">♥ <span style="color:#339966;">♥</span> <span style="color:#00ccff;">♥</span> <span style="color:#0000ff;">♥</span> <span style="color:#800080;">♥</span></span></span></h2>
+**Vendor's marketplace description:** Du möchtest dir selbst und der Welt was Gutes tun und dabei Geld verdienen? Dann lies gespannt weiter! ♥ ♥ ♥ ♥ ♥ ♥ ♥ Ich bin ausgebildete Happiness Trainerin (ALH) und ich habe auf Basis der Glücksforschung eine ganz neue Spielvariante des beliebten Spieleklassikers "Stadt, Land, Fluss" entwickelt. Mit dem Spiel trainiert man Runde für Runde sein eigenes Glücklichsein! Du erhältst 50 % Provision auf jeden Verkauf des Spiels "Stadt, Land ♥ Glückstraining" Das Spiel tut der Welt so gut, weil es die Leute spielerisch dazu bringt, sich mit sich selbst zu beschäftigen, anstatt den Fokus auf andere(s) zu richten. Jeder, der lernt und trainiert, sich auf das Gute in seinem Leben zu konzentrieren und dieses zu vermehren, der ist eine Wohltat für sein näheres Umfeld und auch für die Welt. Dieses Spiel ist der ideale und kinderleichte Einstieg für alle Glücksuchenden in ein bewussteres, glückliches Leben. Spielfakten ab 8 Jahre für alle Geschlechter mit 10 neuen Kategorien aus der Glücksforschung 5 Runden je Seite spielbar für Zuhause und unterwegs zum Ausdrucken & digital spielen einmal kaufen & unendlich oft spielen Lieferumfang: 2 Dateien eine PNG-Datei zum Ausdrucken der Spieltabelle "Stadt, Land, Glückstraining" eine PDF-Datei mit 8 Seiten, inkl. Spieltabelle und 2 Spielanleitungen für ein und mehrere Spieler. Diese PDF kannst du zum Beispiel selber Zuhause, bei Freunden oder im Copyshop ausdrucken. Du kannst die PDF-Datei auch direkt am Bildschirm ausfüllen , da sie integrierte Textfelder enthält. Vermarktung - 11 Ideen Vermarkte es, wie es dir beliebt und dir Freude bereitet. Anbei einige Anregungen: ONLINE Biete ein 30 minütiges Onlinetreffen an, z. B. über Zoom und dann spielt ihr gemeinsam 2-3 Runden. Anschließend werden die Teilnehmenden gebeten, das Spiel entweder zu löschen und über deinen Link zu kaufen. Du kannst zum Beispiel über https:// woloho.com im Loveletter kostenfrei eine Einladung zum kostenlosen Mitspielen verfassen. Berichte von dem Spiel in deinem Blog . Berichte von dem Spiel in deinem Newlsetter . Teile deinen Affiliate-Link in deinen Chatgruppen auf Telegram, Whatsapp & Co . Teile deinen Affiliate-Link auf Social Media, z. B. Facebook, Instagram, TikTok & Co . Berichte von deinem Spielspaß auf Youtube . Nutze Kleinanzeigenportale und Foren . OFFLINE Drucke das Spiel aus und spiele es als Mitbringsel mit Freunden & Verwandten, anschließend teilst du deinen Affiliate Link mit ihnen. Erzähle auf der Arbeit von deinem glücksfördernden Spielspaß. Hänge eine ausgedruckte Kleinanzeige mit Abreißzettel inkl. Affiliate-Link gut sichtbar in die Öffentlichkeit. Bist du dabei? Lass uns gemeinsam etwas Gutes für die Welt tun. Viele kleine Veränderungen bewirken am Ende Großes. ♥ ♥ ♥ ♥ ♥ ♥ ♥
 
 ## 2. Links
 

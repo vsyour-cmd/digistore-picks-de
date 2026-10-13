@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Deutschsprachiger Ratgeber gegen Stress-Essen: 30 Kapitel über stabile Energie, weniger Heißhunger und ein ruhigeres Verhältnis zum Essen. Fertiger Gratis-Lead-Magnet (7-Tage-Plan) vorhanden. 50 % Provision.</p>
+**Vendor's marketplace description:** Deutschsprachiger Ratgeber gegen Stress-Essen: 30 Kapitel über stabile Energie, weniger Heißhunger und ein ruhigeres Verhältnis zum Essen. Fertiger Gratis-Lead-Magnet (7-Tage-Plan) vorhanden. 50 % Provision.
 
 ## 2. Links
 

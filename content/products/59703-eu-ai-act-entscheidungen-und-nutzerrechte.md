@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>EU Algorithmische Entscheidungen – Transparenz &amp; Nutzerrechte 2026/2027</strong></p>
-<p>Dieses digitale Produkt ist ein <strong>praktisches PDF-Arbeitsheft</strong> für Unternehmen, die automatisierte oder KI-gestützte Entscheidungen einsetzen und Transparenz, Nutzerrechte sowie interne Dokumentation strukturiert umsetzen möchten.</p>
-<p><strong>Enthalten sind unter anderem:</strong></p>
-<ul>
-<li>ADM-Notice-Vorlage für automatisierte Entscheidungen</li>
-<li>Nutzerrechte-Formular</li>
-<li>Auditprotokoll</li>
-<li>technisches Entscheidungslog</li>
-<li>ADM-Risikoanalyse</li>
-<li>Bias-Prüfung</li>
-<li>interne ADM- und Eskalationsprozesse</li>
-<li>Transparenztexte</li>
-<li>DSGVO-Light-Modul</li>
-<li>praxisnahe Branchenbeispiele</li>
-</ul>
-<p><strong>Geeignet für:</strong></p>
-<ul>
-<li>Selbstständige und KMU</li>
-<li>Unternehmen mit automatisierten Entscheidungsprozessen</li>
-<li>Compliance- und Datenschutzverantwortliche</li>
-<li>HR-, Marketing-, Service- und Plattformteams</li>
-<li>Berater und Agenturen</li>
-</ul>
-<p><strong>Wichtig:</strong> Es handelt sich ausdrücklich um ein <strong>digitales Arbeitsheft im PDF-Format</strong> und nicht um Software, einen Videokurs oder einen Mitgliederbereich.</p>
-<p>Das Arbeitsheft unterstützt bei der strukturierten Dokumentation von automatisierten Entscheidungen, Transparenzpflichten und Nutzerrechten. Es dient als praktische Arbeits- und Orientierungshilfe und ersetzt keine individuelle Rechtsberatung.</p>
-<p><strong>Verkaufspreis: 29,00 €</strong> – digitaler Sofortdownload nach dem Kauf.</p>
+**Vendor's marketplace description:** EU Algorithmische Entscheidungen – Transparenz & Nutzerrechte 2026/2027 Dieses digitale Produkt ist ein praktisches PDF-Arbeitsheft für Unternehmen, die automatisierte oder KI-gestützte Entscheidungen einsetzen und Transparenz, Nutzerrechte sowie interne Dokumentation strukturiert umsetzen möchten. Enthalten sind unter anderem: ADM-Notice-Vorlage für automatisierte Entscheidungen Nutzerrechte-Formular Auditprotokoll technisches Entscheidungslog ADM-Risikoanalyse Bias-Prüfung interne ADM- und Eskalationsprozesse Transparenztexte DSGVO-Light-Modul praxisnahe Branchenbeispiele Geeignet für: Selbstständige und KMU Unternehmen mit automatisierten Entscheidungsprozessen Compliance- und Datenschutzverantwortliche HR-, Marketing-, Service- und Plattformteams Berater und Agenturen Wichtig: Es handelt sich ausdrücklich um ein digitales Arbeitsheft im PDF-Format und nicht um Software, einen Videokurs oder einen Mitgliederbereich. Das Arbeitsheft unterstützt bei der strukturierten Dokumentation von automatisierten Entscheidungen, Transparenzpflichten und Nutzerrechten. Es dient als praktische Arbeits- und Orientierungshilfe und ersetzt keine individuelle Rechtsberatung. Verkaufspreis: 29,00 € – digitaler Sofortdownload nach dem Kauf.
 
 ## 2. Links
 

@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Worum geht’s?</p>
-<p>„More than MONEY. More than HYPE.“ ist ein kompaktes, klares E-Book für Menschen, die Geld verdienen wollen (Online/Side Hustle/Selbstständigkeit) – aber merken, dass sie nicht am Wissen scheitern, sondern an Denkfehlern, falschen Erwartungen und fehlender Umsetzung.</p>
-<p> </p>
-<p>Was du bekommst (konkret):</p>
-<p>– Die häufigsten Denkfehler &amp; Erwartungsfallen, die Ergebnisse verhindern</p>
-<p>– Das Grundmodell: Angebot – Aufmerksamkeit – Ablauf (einfach erklärt)</p>
-<p>– 7-Tage-Startplan: in 1 Woche vom Grübeln ins Umsetzen</p>
-<p>– Warnsignale + Gegenmaßnahmen, damit du nicht wieder springst und alles neu anfängst</p>
-<p>Der 7-Tage-Startplan (transparent):</p>
-<p>Tag 1 Angebot in 1 Satz festlegen • Tag 2 Ablauf definieren • Tag 3 einen Kanal wählen • Tag 4 Hooks/Ansprache vorbereiten • Tag 5 Output produzieren • Tag 6 veröffentlichen • Tag 7 nachschärfen (nicht neu erfinden)</p>
-<p>Wichtig – damit du genau weißt, was es ist:</p>
-<p>✅ Das Buch ist ein Klartext-Framework + Startplan (Fokus, Struktur, Umsetzung).</p>
-<p>❌ Es ist kein „Schnell-reich-System“, kein Kurs, keine Methode mit Garantie und keine Finanz-/Anlageberatung.</p>
+**Vendor's marketplace description:** Worum geht’s? „More than MONEY. More than HYPE.“ ist ein kompaktes, klares E-Book für Menschen, die Geld verdienen wollen (Online/Side Hustle/Selbstständigkeit) – aber merken, dass sie nicht am Wissen scheitern, sondern an Denkfehlern, falschen Erwartungen und fehlender Umsetzung. Was du bekommst (konkret): – Die häufigsten Denkfehler & Erwartungsfallen, die Ergebnisse verhindern – Das Grundmodell: Angebot – Aufmerksamkeit – Ablauf (einfach erklärt) – 7-Tage-Startplan: in 1 Woche vom Grübeln ins Umsetzen – Warnsignale + Gegenmaßnahmen, damit du nicht wieder springst und alles neu anfängst Der 7-Tage-Startplan (transparent): Tag 1 Angebot in 1 Satz festlegen • Tag 2 Ablauf definieren • Tag 3 einen Kanal wählen • Tag 4 Hooks/Ansprache vorbereiten • Tag 5 Output produzieren • Tag 6 veröffentlichen • Tag 7 nachschärfen (nicht neu erfinden) Wichtig – damit du genau weißt, was es ist: ✅ Das Buch ist ein Klartext-Framework + Startplan (Fokus, Struktur, Umsetzung). ❌ Es ist kein „Schnell-reich-System“, kein Kurs, keine Methode mit Garantie und keine Finanz-/Anlageberatung.
 
 ## 2. Links
 

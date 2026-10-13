@@ -41,42 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>ENTFALTE DEINE INNERE KRAFT</h2>
-<h3>Die Kraft erfolgreicher Menschen steckt auch in dir – entdecke, wie du sie für dein eigenes Leben aktivierst</h3>
-<p>Kennst du das Gefühl, dass eigentlich <strong>viel mehr in dir steckt</strong>, du deine Möglichkeiten aber nicht vollständig ausschöpfst?</p>
-<p>Vielleicht möchtest du beruflich erfolgreicher werden, deine finanzielle Situation verbessern, erfülltere Beziehungen führen oder einfach wieder <strong>mehr Leichtigkeit, Zuversicht und Lebensfreude</strong> verspüren.</p>
-<p><strong>„Entfalte deine innere Kraft“</strong> setzt genau hier an.</p>
-<p>Dieser Kurs beschäftigt sich mit Denkweisen, inneren Überzeugungen und praktischen Übungen, die dir dabei helfen sollen, hinderliche Muster zu erkennen und deinen Fokus stärker auf die Dinge auszurichten, die du in deinem Leben erreichen möchtest.</p>
-<h3>In diesem Kurs erfährst du:</h3>
-<ul>
-<li>
-<p>wie du deine <strong>innere Stärke bewusster aktivierst</strong> und dich weniger von negativen Gedanken und Rückschlägen ausbremsen lässt</p>
-</li>
-<li>
-<p>wie du deine <strong>Einstellung zu Erfolg, Geld und deinen eigenen Möglichkeiten</strong> hinterfragst und neu ausrichtest</p>
-</li>
-<li>
-<p>wie du mit <strong>mehr Leichtigkeit und Freude durchs Leben</strong> gehen kannst – auch wenn nicht immer alles nach Plan läuft</p>
-</li>
-<li>
-<p>welche Strategien und praktischen Übungen dir helfen können, deinen Fokus auf <strong>Wachstum, finanzielle Ziele und persönliche Erfüllung</strong> zu richten</p>
-</li>
-<li>
-<p>wie du mögliche innere Blockaden und wiederkehrende Muster erkennst, die dich bisher bei <strong>Business, Beziehungen oder persönlichen Zielen</strong> zurückgehalten haben</p>
-</li>
-<li>
-<p>wie du neue Denk- und Verhaltensweisen entwickelst, die dich auf deinem persönlichen Weg unterstützen können</p>
-</li>
-<li>
-<p>und wie du Schritt für Schritt daran arbeitest, wieder <strong>mehr Vertrauen in dich und deine eigenen Möglichkeiten</strong> zu entwickeln</p>
-</li>
-</ul>
-<h3>Veränderung beginnt bei dir</h3>
-<p>Äußere Ergebnisse beginnen häufig mit den Entscheidungen, Gewohnheiten und Überzeugungen, die unseren Alltag bestimmen.</p>
-<p>Statt darauf zu warten, dass sich die Umstände von allein verändern, zeigt dir dieser Kurs Wege, wie du <strong>bewusster an deiner persönlichen Entwicklung arbeiten und neue Perspektiven auf Erfolg, Geld und Lebensqualität entwickeln kannst.</strong></p>
-<p>Es geht nicht darum, über Nacht ein anderer Mensch zu werden.</p>
-<p>Es geht darum, die Fähigkeiten und Möglichkeiten, die bereits in dir stecken, <strong>bewusst zu entdecken und Schritt für Schritt stärker zu nutzen.</strong></p>
-<p><strong>Entfalte deine innere Kraft – und beginne, dein Leben wieder bewusster in die Richtung zu lenken, die du dir wünschst.</strong></p>
+**Vendor's marketplace description:** ENTFALTE DEINE INNERE KRAFT Die Kraft erfolgreicher Menschen steckt auch in dir – entdecke, wie du sie für dein eigenes Leben aktivierst Kennst du das Gefühl, dass eigentlich viel mehr in dir steckt , du deine Möglichkeiten aber nicht vollständig ausschöpfst? Vielleicht möchtest du beruflich erfolgreicher werden, deine finanzielle Situation verbessern, erfülltere Beziehungen führen oder einfach wieder mehr Leichtigkeit, Zuversicht und Lebensfreude verspüren. „Entfalte deine innere Kraft“ setzt genau hier an. Dieser Kurs beschäftigt sich mit Denkweisen, inneren Überzeugungen und praktischen Übungen, die dir dabei helfen sollen, hinderliche Muster zu erkennen und deinen Fokus stärker auf die Dinge auszurichten, die du in deinem Leben erreichen möchtest. In diesem Kurs erfährst du: wie du deine innere Stärke bewusster aktivierst und dich weniger von negativen Gedanken und Rückschlägen ausbremsen lässt wie du deine Einstellung zu Erfolg, Geld und deinen eigenen Möglichkeiten hinterfragst und neu ausrichtest wie du mit mehr Leichtigkeit und Freude durchs Leben gehen kannst – auch wenn nicht immer alles nach Plan läuft welche Strategien und praktischen Übungen dir helfen können, deinen Fokus auf Wachstum, finanzielle Ziele und persönliche Erfüllung zu richten wie du mögliche innere Blockaden und wiederkehrende Muster erkennst, die dich bisher bei Business, Beziehungen oder persönlichen Zielen zurückgehalten haben wie du neue Denk- und Verhaltensweisen entwickelst, die dich auf deinem persönlichen Weg unterstützen können und wie du Schritt für Schritt daran arbeitest, wieder mehr Vertrauen in dich und deine eigenen Möglichkeiten zu entwickeln Veränderung beginnt bei dir Äußere Ergebnisse beginnen häufig mit den Entscheidungen, Gewohnheiten und Überzeugungen, die unseren Alltag bestimmen. Statt darauf zu warten, dass sich die Umstände von allein verändern, zeigt dir dieser Kurs Wege, wie du bewusster an deiner persönlichen Entwicklung arbeiten und neue Perspektiven auf Erfolg, Geld und Lebensqualität entwickeln kannst. Es geht nicht darum, über Nacht ein anderer Mensch zu werden. Es geht darum, die Fähigkeiten und Möglichkeiten, die bereits in dir stecken, bewusst zu entdecken und Schritt für Schritt stärker zu nutzen. Entfalte deine innere Kraft – und beginne, dein Leben wieder bewusster in die Richtung zu lenken, die du dir wünschst.
 
 ## 2. Links
 

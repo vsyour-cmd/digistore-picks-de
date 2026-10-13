@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>MyFormatConverter</strong></p>
-<p>MyFormatConverter steht für optimale Bild- und Tonqualität auf jedem Ihrer Geräte! Mit MyFormatConverter passen Sie Ihre Musik, Filme und Fotos jeweils an Ihr Gerät an – ob Smartphone, Handy, Tablet, Media Player und viele mehr!</p>
-<p>Nie wieder Probleme mit inkompatiblen Formaten! Machen Sie Schluss mit dem Formatwirrwarr!</p>
-<p>Kompatibel mit Windows 10, Windows 8.1 und Windows 7 (jeweils 32- und 64-bit) und Windows 11.</p>
-<p>Die Software ist per Download direkt nach dem Kauf verfügbar. Zudem wird die Seriennummer per E-Mail versendet.</p>
+**Vendor's marketplace description:** MyFormatConverter MyFormatConverter steht für optimale Bild- und Tonqualität auf jedem Ihrer Geräte! Mit MyFormatConverter passen Sie Ihre Musik, Filme und Fotos jeweils an Ihr Gerät an – ob Smartphone, Handy, Tablet, Media Player und viele mehr! Nie wieder Probleme mit inkompatiblen Formaten! Machen Sie Schluss mit dem Formatwirrwarr! Kompatibel mit Windows 10, Windows 8.1 und Windows 7 (jeweils 32- und 64-bit) und Windows 11. Die Software ist per Download direkt nach dem Kauf verfügbar. Zudem wird die Seriennummer per E-Mail versendet.
 
 ## 2. Links
 

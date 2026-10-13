@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>kleiner Videokurs mit Automatischer Webseitenerstellung + Hosting für Nischenseiten.<br /></strong></h2>
-<h2><strong>Du wirst bei diesem Videokurs dauerhaft zu 50% beteiligt.<br /></strong></h2>
-<p><strong>10 Gründe, warum du unsere Produkte bewerben solltest:</strong></p>
-<ul>
-<li><strong>Sofortprovision bei Bestellung dieses Produktes<br /></strong></li>
-<li><strong>50% dauerhafte Beteiligung an allen Abbo-Produkten <br /></strong></li>
-<li><strong>60% Provision auf alle Videokurse Einmalzahlprodukte</strong></li>
-<li><strong>Du bekommst Anleitungen zum optimalen Bewerben der Produkte</strong></li>
-<li>
-<p><strong>Hohe Verkaufsraten in der Geld im Internet verdienen Nische, da es Mehr für weniger Geld gibt<br /></strong></p>
-</li>
-<li>
-<p><strong>Vollautomatische Auszahlung deiner Provision durch Digistore24</strong></p>
-</li>
-<li><strong>keine überteuerten Produkte und dadurch geringe Stornoquote</strong></li>
-<li>
-<p><strong>Produkte, die Menschen wirklich helfen und es nicht nur vorgaukeln<br /></strong></p>
-</li>
-<li>
-<p><strong>Lars-Support (Ich helfe Dir, wenn du etwas nicht verstehst)<br /></strong></p>
-</li>
-<li>
-<p><strong>Ausführliche und ständige Conversion Optimierung</strong><strong><br /></strong></p>
-</li>
-</ul>
-<p><strong>Wichtig: Klicke jetzt unten rechts auf „Affiliate Support-Seite“ und erfahre konkret, wie du loslegen kannst, damit Du noch heute deine ersten Provisionen erhalten kannst!</strong></p>
+**Vendor's marketplace description:** kleiner Videokurs mit Automatischer Webseitenerstellung + Hosting für Nischenseiten. Du wirst bei diesem Videokurs dauerhaft zu 50% beteiligt. 10 Gründe, warum du unsere Produkte bewerben solltest: Sofortprovision bei Bestellung dieses Produktes 50% dauerhafte Beteiligung an allen Abbo-Produkten 60% Provision auf alle Videokurse Einmalzahlprodukte Du bekommst Anleitungen zum optimalen Bewerben der Produkte Hohe Verkaufsraten in der Geld im Internet verdienen Nische, da es Mehr für weniger Geld gibt Vollautomatische Auszahlung deiner Provision durch Digistore24 keine überteuerten Produkte und dadurch geringe Stornoquote Produkte, die Menschen wirklich helfen und es nicht nur vorgaukeln Lars-Support (Ich helfe Dir, wenn du etwas nicht verstehst) Ausführliche und ständige Conversion Optimierung Wichtig: Klicke jetzt unten rechts auf „Affiliate Support-Seite“ und erfahre konkret, wie du loslegen kannst, damit Du noch heute deine ersten Provisionen erhalten kannst!
 
 ## 2. Links
 

@@ -41,35 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Der Visualisierungskick</h1>
-<hr />
-<p><span style="background-color:#000000;color:#ffffff;">Neu, innovativ – und wissenschaftlich erwiesen: <strong>Das verkauft sich gut!</strong></span></p>
-<p>Alle, die (mehr) Erfolg wollen, brauchen ihren persönlichen <strong>Erfolgsfilm</strong>. Zum <strong>Visualisieren der individuellen Ziele und des Erfolgs</strong>. Von Underground bis Hollywood. Von Indie bis Blockbuster.</p>
-<p>Das ist <strong>Date mit deiner Zukunft</strong>, der <strong>Onlinekurs zum Erstellen eines individuellen Erfolgsfilms</strong>.</p>
-<h2>Für alle Lebensbereiche</h2>
-<ul>
-<li>Persönlichkeit</li>
-<li>Partnerschaft</li>
-<li>Profession</li>
-</ul>
-<p>Und stets auch für Fitness und seelische Gesundheit.</p>
-<h2>Mit Top-Konditionen</h2>
-<ul>
-<li>33 Prozent Provision für dich als Affiliate</li>
-<li>Pickepackevolles Promo-Paket</li>
-<li>30 Tage Geld-zurück-Garantie für Käufer</li>
-</ul>
-<p>Plus weiterer Support für Affiliates.</p>
-<h2>Drei Varianten</h2>
-<ul>
-<li>Basis: Satte 18 Episoden und zwei Bonus-Clips</li>
-<li>Plus: Wie Basis, mit zusätzlichem E-Mail-Feedback zum Drehbuch oder zum Film</li>
-<li>Premium: Wie Plus, mit zusätzlich einer Coaching-Stunde per Video oder in meiner Praxis in Berlin-Charlottenburg</li>
-</ul>
-<p>Weitere Infos dazu findest du direkt auf der <a title="Zum Kurs und den Varianten" href="https://erfolgsfilm-boettcher.de/onlinekurs/" target="_blank" rel="noreferrer noopener">Onlinekurs-Seite</a>.</p>
-<hr />
-<p><strong>Leg jetzt los als Affiliate.</strong> Neue Partnerschaften werden automatisch akzeptiert.</p>
-<p>Besuch gern meine Affiliate-Support-Seite und erfahre mehr.</p>
+**Vendor's marketplace description:** Der Visualisierungskick Neu, innovativ – und wissenschaftlich erwiesen: Das verkauft sich gut! Alle, die (mehr) Erfolg wollen, brauchen ihren persönlichen Erfolgsfilm . Zum Visualisieren der individuellen Ziele und des Erfolgs . Von Underground bis Hollywood. Von Indie bis Blockbuster. Das ist Date mit deiner Zukunft , der Onlinekurs zum Erstellen eines individuellen Erfolgsfilms . Für alle Lebensbereiche Persönlichkeit Partnerschaft Profession Und stets auch für Fitness und seelische Gesundheit. Mit Top-Konditionen 33 Prozent Provision für dich als Affiliate Pickepackevolles Promo-Paket 30 Tage Geld-zurück-Garantie für Käufer Plus weiterer Support für Affiliates. Drei Varianten Basis: Satte 18 Episoden und zwei Bonus-Clips Plus: Wie Basis, mit zusätzlichem E-Mail-Feedback zum Drehbuch oder zum Film Premium: Wie Plus, mit zusätzlich einer Coaching-Stunde per Video oder in meiner Praxis in Berlin-Charlottenburg Weitere Infos dazu findest du direkt auf der Onlinekurs-Seite . Leg jetzt los als Affiliate. Neue Partnerschaften werden automatisch akzeptiert. Besuch gern meine Affiliate-Support-Seite und erfahre mehr.
 
 ## 2. Links
 

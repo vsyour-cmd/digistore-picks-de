@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Facebook Ads für Anfänger"</strong></p>
-<p>Werbung auf Facebook und Instagram verständlich erklärt: Wie du Zielgruppe, Werbeanzeigenmanager, Budget und Kennzahlen verstehst und in 7 Tagen deine erste durchdachte Anzeige schaltest. Ehrlich, mit kleinen Budgets zum Lernen – ohne Gewinngarantie.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema: Online-Business &amp; Geld verdienen</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verstehen, wie Werbung auf Facebook und Instagram funktioniert</li>
-<li>Den Werbeanzeigenmanager sicher bedienen</li>
-<li>Die richtige Zielgruppe finden und eingrenzen</li>
-<li>Mit kleinem Budget bewusst testen und lernen</li>
-<li>Die wichtigsten Kennzahlen lesen und einordnen</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Menschen, die online ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Facebook Ads für Anfänger" Werbung auf Facebook und Instagram verständlich erklärt: Wie du Zielgruppe, Werbeanzeigenmanager, Budget und Kennzahlen verstehst und in 7 Tagen deine erste durchdachte Anzeige schaltest. Ehrlich, mit kleinen Budgets zum Lernen – ohne Gewinngarantie. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema: Online-Business & Geld verdienen Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verstehen, wie Werbung auf Facebook und Instagram funktioniert Den Werbeanzeigenmanager sicher bedienen Die richtige Zielgruppe finden und eingrenzen Mit kleinem Budget bewusst testen und lernen Die wichtigsten Kennzahlen lesen und einordnen Für deine Zielgruppe: Menschen, die online ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das ANIMA STIMMTRAINING ist ein ganzheitliches Onlinetraining mit ​bewährten ​Praxisübungen​ &amp; ​effektiven Stimmworkouts.</p>
-<p>Mit 6 Modulen und Bonus Workouts.</p>
-<p>Du erhälst 30% Provision.</p>
-<p>Weitere Infos zum Produkt auf der Affiliate Support Seite.</p>
-<p>Affiliate-Link bitte bei Digistore24 entnehmen.</p>
-<p>Bei Fragen einfach Mail an</p>
-<p>marketing@stimme-veraendern.de</p>
-<p>Freue mich auf Support!</p>
-<p> </p>
+**Vendor's marketplace description:** Das ANIMA STIMMTRAINING ist ein ganzheitliches Onlinetraining mit ​bewährten ​Praxisübungen​ & ​effektiven Stimmworkouts. Mit 6 Modulen und Bonus Workouts. Du erhälst 30% Provision. Weitere Infos zum Produkt auf der Affiliate Support Seite. Affiliate-Link bitte bei Digistore24 entnehmen. Bei Fragen einfach Mail an marketing@stimme-veraendern.de Freue mich auf Support!
 
 ## 2. Links
 

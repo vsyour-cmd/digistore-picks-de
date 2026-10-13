@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Dein Weg zum Wohlfühlkörper!</strong></p>
-<p> </p>
-<p>Du willst Du dich endlich wieder wohlfühlen in deinem Körper und deiner Haut.</p>
-<p>Du hast aber wenig Zeit, um Termine in deinem Alltag mit einzuplanen, dann buche dir jetzt den reinen online Kurs und schau dir alles dann an, wenn es dir zeitlich passt.</p>
-<p>Lindere so Beschwerden, komm wieder in deine Leichtigkeit und Iss dich buchstäblich gesund.</p>
-<p>Und das alles, als schnupper Kurs im Angebot für kleines Geld.</p>
-<p> </p>
-<p>Mit Leichtigkeit und Genuss, ganz ohne Hungern zurück in Deine natürliche Schönheit und Kraft.</p>
-<p> </p>
-<p>Iss Dich gesund!</p>
-<p>Einfach mit Mel</p>
-<p><br /><br /></p>
+**Vendor's marketplace description:** Dein Weg zum Wohlfühlkörper! Du willst Du dich endlich wieder wohlfühlen in deinem Körper und deiner Haut. Du hast aber wenig Zeit, um Termine in deinem Alltag mit einzuplanen, dann buche dir jetzt den reinen online Kurs und schau dir alles dann an, wenn es dir zeitlich passt. Lindere so Beschwerden, komm wieder in deine Leichtigkeit und Iss dich buchstäblich gesund. Und das alles, als schnupper Kurs im Angebot für kleines Geld. Mit Leichtigkeit und Genuss, ganz ohne Hungern zurück in Deine natürliche Schönheit und Kraft. Iss Dich gesund! Einfach mit Mel
 
 ## 2. Links
 

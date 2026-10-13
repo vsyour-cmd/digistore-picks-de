@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<p><strong>Verstehe Spanien wie nie zuvor!</strong> Entdecke in diesem einzigartigen Ratgeber, warum Spanien so anders ist – von Mentalität und Kultur über Familie, Essen und Traditionen bis hin zum besonderen Lebensgefühl. <strong>Über 170 Seiten</strong>, <strong>über 70 spannende Kapitel</strong> und unzählige Aha-Momente für Urlauber, Auswanderer und alle, die Spanien wirklich verstehen möchten. Sofort als PDF verfügbar.</p>
-<p>Du liebst Spanien und hast eine Community, die sich für <strong>Reisen, Mallorca, Auswandern, Camping, Wohnmobil, Ruhestand oder das Leben in Spanien</strong> interessiert?</p>
-<p>Dann werde <strong>Creator &amp; Influencer Partner von Nachrichten.es</strong> und empfehle unsere digitalen Spanien-Ratgeber deiner Community.</p>
-<p>Du erhältst dabei <strong>50 % Provision auf jeden erfolgreichen Verkauf</strong> über deinen persönlichen Affiliate-Link.</p>
-</div>
-</div>
-<div> </div>
+**Vendor's marketplace description:** Verstehe Spanien wie nie zuvor! Entdecke in diesem einzigartigen Ratgeber, warum Spanien so anders ist – von Mentalität und Kultur über Familie, Essen und Traditionen bis hin zum besonderen Lebensgefühl. Über 170 Seiten , über 70 spannende Kapitel und unzählige Aha-Momente für Urlauber, Auswanderer und alle, die Spanien wirklich verstehen möchten. Sofort als PDF verfügbar. Du liebst Spanien und hast eine Community, die sich für Reisen, Mallorca, Auswandern, Camping, Wohnmobil, Ruhestand oder das Leben in Spanien interessiert? Dann werde Creator & Influencer Partner von Nachrichten.es und empfehle unsere digitalen Spanien-Ratgeber deiner Community. Du erhältst dabei 50 % Provision auf jeden erfolgreichen Verkauf über deinen persönlichen Affiliate-Link.
 
 ## 2. Links
 

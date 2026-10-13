@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><span style="text-decoration:underline;"><strong><span style="background-color:#ffff00;">LIFE TIME ABO PROVISION!<br />mit KOMPLETT NEUER KI VERSION ! <br /><br />Online Geld verdienen mit Ki Videokursen<br /></span></strong></span><span style="text-decoration:underline;"><strong><br />Info für Affiliates<br /><span style="color:#000000;background-color:#ffff00;">Jeder 5. im Webinar kaufte über unsere Liste!</span><br /><br /></strong></span><span style="background-color:#ff6600;color:#ffffff;"><strong>ABO mit 25% <br />Monatlichen Provisionen + zusätzlich bis zu 150€ aus den Upsells!</strong></span><span style="text-decoration:underline;"><strong><br /></strong></span></h4>
-<ul>
-<li><strong>Dein Verdienst Lifetime</strong><br />Start für 7 Tage mit 1€ = 0€ (Gebühr Digistore) <br /><br />Nach 7 Tagen 39€ monatlich = 25% Provision<br />+ bis zu 150€ an Upsell Provisonen<br /><br /></li>
-<li>Produkt aus der KI Nische</li>
-<li>Verkaufsstarke und professionelle Werbemittel</li>
-<li>Konversionstarke Präsentation</li>
-<li>Ein Produkt mit enormen Mehrwert</li>
-<li>ständige Conversion Optimierung<br /><br />Andauernde Split-Tests für optimale Conversionrate Mehr Informationen findest du auf unserer <a href="https://partnerseite.myfunnelcockpit.com/" target="_blank" rel="noreferrer noopener">"Affiliate-Promo-Seite" Klicke Hier</a></li>
-</ul>
-<p><br /><strong><span style="text-decoration:underline;">Info zum Produkt (Produktbeschreibung für Kunden)</span><br /></strong></p>
-<div style="text-align:left;">
-<h4>Verkaufe unsere hochprofitablen Kurse ab sofort mit satten 80% Gewinn!</h4>
-<div><strong>inklusive</strong> - 6 aktuellen KI Videokursen mit 80% Provision<br /><strong>inklusive</strong> - Unser Listenaufbausystem + 3 Gratis Kurse<br /><strong>inklusive</strong> - 6 conversionsstarke Verkaufsseiten<br /><strong>inklusive</strong> - Premium Template Editor Thrive Architect<br /><strong>inklusive</strong> - begleitenden Videokurs für deinen Blitzstart<br /><strong>inklusive</strong> - Premium Template Editor Thrive Architect</div>
-<div>
-<p><span style="color:#339966;"><strong>Bonus</strong> - Der Cash Box Traffic Kurs<br /><br /></span></p>
-<span style="color:#ff0000;">                   <br />                 </span></div>
-</div>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** LIFE TIME ABO PROVISION! mit KOMPLETT NEUER KI VERSION ! Online Geld verdienen mit Ki Videokursen Info für Affiliates Jeder 5. im Webinar kaufte über unsere Liste! ABO mit 25% Monatlichen Provisionen + zusätzlich bis zu 150€ aus den Upsells! Dein Verdienst Lifetime Start für 7 Tage mit 1€ = 0€ (Gebühr Digistore) Nach 7 Tagen 39€ monatlich = 25% Provision + bis zu 150€ an Upsell Provisonen Produkt aus der KI Nische Verkaufsstarke und professionelle Werbemittel Konversionstarke Präsentation Ein Produkt mit enormen Mehrwert ständige Conversion Optimierung Andauernde Split-Tests für optimale Conversionrate Mehr Informationen findest du auf unserer "Affiliate-Promo-Seite" Klicke Hier Info zum Produkt (Produktbeschreibung für Kunden) Verkaufe unsere hochprofitablen Kurse ab sofort mit satten 80% Gewinn! inklusive - 6 aktuellen KI Videokursen mit 80% Provision inklusive - Unser Listenaufbausystem + 3 Gratis Kurse inklusive - 6 conversionsstarke Verkaufsseiten inklusive - Premium Template Editor Thrive Architect inklusive - begleitenden Videokurs für deinen Blitzstart inklusive - Premium Template Editor Thrive Architect Bonus - Der Cash Box Traffic Kurs
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Kurzbeschreibung</strong></h3>
-<p>Tauche ein in eine wundervolle Winterwelt voller Freude, Fantasie und Herzenswärme!<br />Das digitale Ausmalbuch <strong>„Winterzauber“</strong> enthält <strong>22 liebevoll gestaltete Seiten</strong> mit fröhlichen Motiven rund um Schnee, Kinder, Tiere und den Zauber der kalten Jahreszeit.<br />Vom Schneemannbauen über Rodelabenteuer bis hin zu gemütlichen Momenten am Kamin, jede Seite erzählt eine kleine Geschichte, die Kinderaugen leuchten lässt.</p>
-<p>Ideal für <strong>Mädchen und Jungen ab 4 Jahren</strong>, die gerne malen, träumen und kreativ sind.<br />Kein Warten, kein Versand, einfach downloaden, ausdrucken und losmalen!</p>
-<p>Perfekt für Eltern, Großeltern, Kindergärten und Betreuungseinrichtungen, die nach einer sinnvollen, kreativen Beschäftigung für Kinder suchen.</p>
-<h3>
+**Vendor's marketplace description:** Kurzbeschreibung Tauche ein in eine wundervolle Winterwelt voller Freude, Fantasie und Herzenswärme! Das digitale Ausmalbuch „Winterzauber“ enthält 22 liebevoll gestaltete Seiten mit fröhlichen Motiven rund um Schnee, Kinder, Tiere und den Zauber der kalten Jahreszeit. Vom Schneemannbauen über Rodelabenteuer bis hin zu gemütlichen Momenten am Kamin, jede Seite erzählt eine kleine Geschichte, die Kinderaugen leuchten lässt. Ideal für Mädchen und Jungen ab 4 Jahren , die gerne malen, träumen und kreativ sind. Kein Warten, kein Versand, einfach downloaden, ausdrucken und losmalen! Perfekt für Eltern, Großeltern, Kindergärten und Betreuungseinrichtungen, die nach einer sinnvollen, kreativen Beschäftigung für Kinder suchen.
 
 ## 2. Links
 

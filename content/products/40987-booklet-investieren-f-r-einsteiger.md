@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Wenn Du nicht weißt, wie Du Dich sicher orientierst, bieten wir Dir ein umfangreiches und verständliches Booklet an. Es ist sehr leicht zu lesen und erfordert keine Vorkenntnisse in Wirtschaft oder Finanzen. </p>
-<p>Wir befassen uns mit Themen wie Sparen, Inflation, kognitive Verzerrungen und verschiedene Investitionsmöglichkeiten. Wir gehen darauf ein, wie Du in Dich selbst investierst. Wir ziehen ebenfalls andere Optionen in Betracht, wie z. B. Gold, Rohstoffe, Immobilien, Staatsschulden, Unternehmen, Aktien (passive und aktive Investitionen), Kryptowährungen und Fremdwährungen. Abschließend stellen wir einige Musterportfolios vor, die für verschiedene Sparstufen geeignet sind.</p>
+**Vendor's marketplace description:** Wenn Du nicht weißt, wie Du Dich sicher orientierst, bieten wir Dir ein umfangreiches und verständliches Booklet an. Es ist sehr leicht zu lesen und erfordert keine Vorkenntnisse in Wirtschaft oder Finanzen. Wir befassen uns mit Themen wie Sparen, Inflation, kognitive Verzerrungen und verschiedene Investitionsmöglichkeiten. Wir gehen darauf ein, wie Du in Dich selbst investierst. Wir ziehen ebenfalls andere Optionen in Betracht, wie z. B. Gold, Rohstoffe, Immobilien, Staatsschulden, Unternehmen, Aktien (passive und aktive Investitionen), Kryptowährungen und Fremdwährungen. Abschließend stellen wir einige Musterportfolios vor, die für verschiedene Sparstufen geeignet sind.
 
 ## 2. Links
 

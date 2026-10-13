@@ -41,33 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><span style="color:#000080;"><strong>Endlich Schluss mit Knieschmerzen</strong></span></h3>
-<p><span style="color:#000080;"><strong>Das digitale Onlineprogramm von und mit Janek Klingmann</strong></span></p>
-<p><span style="color:#000080;"><strong>Einmalig 59 Euro!</strong></span></p>
-<p><strong>Die Übungen sind so konzipiert, dass diese ganz bequem von zuhause aus durchzuführen sind: einfach aber effektiv!</strong></p>
-<p><strong>- Einmalige Zahlung - lebenslange Nutzung! Keine Mitgliedschaft</strong></p>
-<p><strong>- Unbegrenzter Zugriff auf alle Videos</strong></p>
-<p><strong>- Individuelle Übungsprogramme</strong></p>
-<p><strong>- Trainieren Sie wann &amp; wo Sie wollen, auf allen Endgeräten</strong></p>
-<p><strong>- Garantiertes 14-tägiges Kündigungsrecht nach Kauf</strong></p>
-<p><strong>Über 50 Videos und vier verschiedene Trainingspläne begleiten Sie unterstützend auf Ihrem Weg zurück zu einem schmerzfreien Knie.</strong></p>
-<p>Janek Klingmann ist Sportwissenschaftler, Studioleiter bei Consports, einem Studio mit dem Schwerpunkt auf medizinischer Trainingstheraphie, zertifizierter Functional- &amp; Athletiktrainer, Coach im FT-Club München und Gründer von My Final.</p>
-<p><strong>Über 25.000 begeisterte Fans folgen ihm über Social Media.</strong></p>
-<p>Als betroffener Leistungssportler, Sportwissenschaftler und Trainer konnte sich Janek selbst über Jahre hinweg ein Bild machen, wie man Spitzensportler und Athleten therapiert. Diese Erfahrungen lässt er in sein Knieprogramm einfließen und entwickelt dieses konsequent  weiter.</p>
-<p><span style="color:#333333;"><strong>Jederzeit und überall anwendbar!</strong></span></p>
-<div>Das Drei-Säulen-Programm für zuhause. Die klare Kampfansage an das Läuferknie &amp; andere Beschwerden:
-<p><strong>Nirgendwo werden so viele künstliche Kniegelenke eingesetzt wie in Deutschland!</strong></p>
-<p>Auch Gelenkspiegelungen gehören erstaunlicherweise zu den häufigsten Eingriffen bei Schmerzen im Knie. Das unglaubliche dabei ist, dass die meisten dieser Operationen absolut unnötig sind!</p>
-<p><strong>Das belegt eine umfangreiche Studie der Bertelsmann-Stiftung.</strong></p>
-<p>In vielen Fällen reichen oft gezielte Übungen aus, um die Kniebeschwerden wieder in den Griff zu bekommen.</p>
-<div>
-<p>Das Konzept des Online-Trainings-Systems für die optimale Kniegesundheit beinhaltet ein innovatives Trainingssystem basierend auf den drei Säulen Beweglichkeit, Stabilität und Kraft.</p>
-<p><strong>Dabei richtet sich das Training an alle Menschen </strong></p>
-<p>Egal ob mit überhöhten muskulär-faszialen Spannungen, mit einer Entzündung im Knie, postoperativ nach abgeschlossener Rehabilitation beim Physiotherapeuten und allgemeinen Schmerzen im Kniegelenk durch Asymmetrien und Dysbalancen, sowie an gesunde und schmerzfreie Sportler, die präventiv ihre Kniegesundheit sichern möchten.</p>
-<p>Durch die verschiedenen Steigerungsmöglichkeiten wird jeder Patient/ Sportler an seinem aktuellen Stand abgeholt und verzeichnet anschließend regelmäßige Fortschritte.</p>
-<p> </p>
-</div>
-</div>
+**Vendor's marketplace description:** Endlich Schluss mit Knieschmerzen Das digitale Onlineprogramm von und mit Janek Klingmann Einmalig 59 Euro! Die Übungen sind so konzipiert, dass diese ganz bequem von zuhause aus durchzuführen sind: einfach aber effektiv! - Einmalige Zahlung - lebenslange Nutzung! Keine Mitgliedschaft - Unbegrenzter Zugriff auf alle Videos - Individuelle Übungsprogramme - Trainieren Sie wann & wo Sie wollen, auf allen Endgeräten - Garantiertes 14-tägiges Kündigungsrecht nach Kauf Über 50 Videos und vier verschiedene Trainingspläne begleiten Sie unterstützend auf Ihrem Weg zurück zu einem schmerzfreien Knie. Janek Klingmann ist Sportwissenschaftler, Studioleiter bei Consports, einem Studio mit dem Schwerpunkt auf medizinischer Trainingstheraphie, zertifizierter Functional- & Athletiktrainer, Coach im FT-Club München und Gründer von My Final. Über 25.000 begeisterte Fans folgen ihm über Social Media. Als betroffener Leistungssportler, Sportwissenschaftler und Trainer konnte sich Janek selbst über Jahre hinweg ein Bild machen, wie man Spitzensportler und Athleten therapiert. Diese Erfahrungen lässt er in sein Knieprogramm einfließen und entwickelt dieses konsequent weiter. Jederzeit und überall anwendbar! Das Drei-Säulen-Programm für zuhause. Die klare Kampfansage an das Läuferknie & andere Beschwerden: Nirgendwo werden so viele künstliche Kniegelenke eingesetzt wie in Deutschland! Auch Gelenkspiegelungen gehören erstaunlicherweise zu den häufigsten Eingriffen bei Schmerzen im Knie. Das unglaubliche dabei ist, dass die meisten dieser Operationen absolut unnötig sind! Das belegt eine umfangreiche Studie der Bertelsmann-Stiftung. In vielen Fällen reichen oft gezielte Übungen aus, um die Kniebeschwerden wieder in den Griff zu bekommen. Das Konzept des Online-Trainings-Systems für die optimale Kniegesundheit beinhaltet ein innovatives Trainingssystem basierend auf den drei Säulen Beweglichkeit, Stabilität und Kraft. Dabei richtet sich das Training an alle Menschen Egal ob mit überhöhten muskulär-faszialen Spannungen, mit einer Entzündung im Knie, postoperativ nach abgeschlossener Rehabilitation beim Physiotherapeuten und allgemeinen Schmerzen im Kniegelenk durch Asymmetrien und Dysbalancen, sowie an gesunde und schmerzfreie Sportler, die präventiv ihre Kniegesundheit sichern möchten. Durch die verschiedenen Steigerungsmöglichkeiten wird jeder Patient/ Sportler an seinem aktuellen Stand abgeholt und verzeichnet anschließend regelmäßige Fortschritte.
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der Kurs hilft Unternehmer und Selbständigen, mit ihrer Webseite endlich gute Positionen bei Google zu erreichen:</strong><br /> Unter den wirklich passenden und relevanten Keywords.</p>
-<p>Suchmaschinenoptimierung ist kein Hexenwerk, aber ohne Wissen darüber, was die Suchmaschine von Webseiten eigentlich will, wird es schwierig.</p>
-<p>So erzielt man mit der eigenen Webseite eine gute Sichtbarkeit:<br /> Durch gute und zielführend strukturierte Inhalte - und zwar zu den richtigen und realistischen Keywords:<br /><strong>Dieser Kurs zeigt Schritt für Schritt, wie die Webseite strategisch optimiert wird </strong>- ohne Tricks, dafür mit handfesten Tipps und Tools und gesundem Menschenverstand.</p>
-<p>Über 3,5h Videomaterial (2-10min pro Video), plus Links zu vielen kostenfreien Tools und Arbeitsbuch.</p>
+**Vendor's marketplace description:** Der Kurs hilft Unternehmer und Selbständigen, mit ihrer Webseite endlich gute Positionen bei Google zu erreichen: Unter den wirklich passenden und relevanten Keywords. Suchmaschinenoptimierung ist kein Hexenwerk, aber ohne Wissen darüber, was die Suchmaschine von Webseiten eigentlich will, wird es schwierig. So erzielt man mit der eigenen Webseite eine gute Sichtbarkeit: Durch gute und zielführend strukturierte Inhalte - und zwar zu den richtigen und realistischen Keywords: Dieser Kurs zeigt Schritt für Schritt, wie die Webseite strategisch optimiert wird - ohne Tricks, dafür mit handfesten Tipps und Tools und gesundem Menschenverstand. Über 3,5h Videomaterial (2-10min pro Video), plus Links zu vielen kostenfreien Tools und Arbeitsbuch.
 
 ## 2. Links
 

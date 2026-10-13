@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>DER FREIE MENSCH</strong> von Ayn Rand</h2>
-<h4>Die zeitgemäße Übersetzung von <br /><strong>ATLAS SHRUGGED</strong></h4>
-<p>=&gt; Weltweit über 30 Millionen Exemplare verkauft<br />=&gt; Hochwertig gedrucktes Hardcover mit 1.488 Seiten<br />=&gt; Deutschlandweit versandkostenfrei via DHL<br />=&gt; Hohe Conversionrate durch automatische Email-Sequenz</p>
-<hr />
-<p><em>Es gibt kein größeres lebensveränderndes Geschenk <br /></em>- Andrew Lessman</p>
-<p><em>Das wertvollste Buch, das ich je gelesen habe <br /></em>- Wayne Fortun</p>
-<p><em>Zwingt zum Nachdenken</em> <br />- John Allison</p>
+**Vendor's marketplace description:** DER FREIE MENSCH von Ayn Rand Die zeitgemäße Übersetzung von ATLAS SHRUGGED => Weltweit über 30 Millionen Exemplare verkauft => Hochwertig gedrucktes Hardcover mit 1.488 Seiten => Deutschlandweit versandkostenfrei via DHL => Hohe Conversionrate durch automatische Email-Sequenz Es gibt kein größeres lebensveränderndes Geschenk - Andrew Lessman Das wertvollste Buch, das ich je gelesen habe - Wayne Fortun Zwingt zum Nachdenken - John Allison
 
 ## 2. Links
 

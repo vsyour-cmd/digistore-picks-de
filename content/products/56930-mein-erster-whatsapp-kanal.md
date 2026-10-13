@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Von null zum eigenen Broadcast-Kanal mit echten Abonnenten und hoher Öffnungsrate</strong></p>
-<p>Du willst endlich auch WhatsApp als Kanal nutzen, weißt aber nicht, wie du anfangen sollst? Dieses E-Book führt dich Schritt für Schritt durch alles, was du brauchst: von der Einrichtung deines ersten WhatsApp-Kanals über das Erstellen ansprechender Broadcasts bis zum Aufbau einer treuen Abonnenten-Liste. Du lernst, wie WhatsApp-Kanäle funktionieren, warum Öffnungsraten von über 80 Prozent dort normal sind und wie du Statusmeldungen clever einsetzt, um Nähe und Vertrauen aufzubauen. Kein Spam, keine Kaltakquise: nur echter Mehrwert, der deine Community begeistert und zum Bleiben bewegt. Nach der Lektüre hast du deinen ersten Kanal live und weißt genau, wie du ihn kontinuierlich wachsen lässt.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>WhatsApp-Kanal einrichten und professionell gestalten – Schritt für Schritt</li>
-<li>Ersten Broadcast versenden und Abonnenten organisch gewinnen</li>
-<li>Status-Strategie: täglich sichtbar sein ohne zu nerven</li>
-<li>Den Unterschied zwischen Kanal, Gruppe und Community verstehen</li>
-<li>Inhalte planen, die hohe Öffnungsraten und Reaktionen erzeugen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Von null zum eigenen Broadcast-Kanal mit echten Abonnenten und hoher Öffnungsrate Du willst endlich auch WhatsApp als Kanal nutzen, weißt aber nicht, wie du anfangen sollst? Dieses E-Book führt dich Schritt für Schritt durch alles, was du brauchst: von der Einrichtung deines ersten WhatsApp-Kanals über das Erstellen ansprechender Broadcasts bis zum Aufbau einer treuen Abonnenten-Liste. Du lernst, wie WhatsApp-Kanäle funktionieren, warum Öffnungsraten von über 80 Prozent dort normal sind und wie du Statusmeldungen clever einsetzt, um Nähe und Vertrauen aufzubauen. Kein Spam, keine Kaltakquise: nur echter Mehrwert, der deine Community begeistert und zum Bleiben bewegt. Nach der Lektüre hast du deinen ersten Kanal live und weißt genau, wie du ihn kontinuierlich wachsen lässt. Das steckt drin: WhatsApp-Kanal einrichten und professionell gestalten – Schritt für Schritt Ersten Broadcast versenden und Abonnenten organisch gewinnen Status-Strategie: täglich sichtbar sein ohne zu nerven Den Unterschied zwischen Kanal, Gruppe und Community verstehen Inhalte planen, die hohe Öffnungsraten und Reaktionen erzeugen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

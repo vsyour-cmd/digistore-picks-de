@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Sales Operating System® ist ein strukturiertes 12-Monate-Implementierungsprogramm für Unternehmer und Vertriebsteams zur systematischen Steigerung von Abschlussquote, Entscheidungsdynamik und Vertriebsstabilität.</p>
-<p>Kein Motivationstraining. Keine isolierten Verkaufstechniken.<br />Sondern eine klare Gesprächsarchitektur mit definierter Entscheidungslogik.</p>
-<p>Hoher Warenkorbwert, klare Positionierung im B2B-Segment und starke Abschlussorientierung.</p>
-<p>Provision: 40 %</p>
+**Vendor's marketplace description:** Sales Operating System® ist ein strukturiertes 12-Monate-Implementierungsprogramm für Unternehmer und Vertriebsteams zur systematischen Steigerung von Abschlussquote, Entscheidungsdynamik und Vertriebsstabilität. Kein Motivationstraining. Keine isolierten Verkaufstechniken. Sondern eine klare Gesprächsarchitektur mit definierter Entscheidungslogik. Hoher Warenkorbwert, klare Positionierung im B2B-Segment und starke Abschlussorientierung. Provision: 40 %
 
 ## 2. Links
 

@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das Bodyline Erfolgssystem für einen neuen und gesunden Körper</strong><br /><br />Warum nehmen so viele Menschen immer wieder ab – und kurze Zeit später wieder zu?</p>
-<p>Warum scheitern Diäten, obwohl sie zunächst scheinbar erfolgreich sind? Weshalb kämpfen Millionen Menschen ihr ganzes Leben gegen überflüssige Pfunde, verzichten auf Lieblingsspeisen, quälen sich durch Trainings-Programme und stehen am Ende doch wieder am Anfang?</p>
-<p>Wenn Du dieses Buch in den Händen hältst, hast Du Dir diese oder ähnliche Fragen wahrscheinlich selbst schon oft gestellt. Vielleicht hast Du bereits zahlreiche Diäten ausprobiert. Vielleicht hast Du Kalorien gezählt, Kohlenhydrate gemieden, Fett verteufelt oder Dich stundenlang im Fitnessstudio geplagt. Vielleicht hast Du kurzfristige Erfolge erlebt – nur um einige Monate später feststellen zu müssen, dass das verlorene Gewicht wieder zurückgekehrt ist. Nicht selten sogar mit einigen zusätzlichen Kilogramm. Die entscheidende Frage lautet deshalb nicht:</p>
-<p><strong>Wie kann ich möglichst schnell abnehmen?</strong></p>
-<p>Sondern vielmehr:</p>
-<p><strong>Warum nimmt der menschliche Körper überhaupt zu – und weshalb hält er so hartnäckig an seinen Fettreserven fest?</strong></p>
-<p> </p>
-<ul>
-<li>PDF erhältlich</li>
-<li>Hörbuch erhältlich</li>
-<li>Bundle (Preisvorteil)</li>
-</ul>
+**Vendor's marketplace description:** Das Bodyline Erfolgssystem für einen neuen und gesunden Körper Warum nehmen so viele Menschen immer wieder ab – und kurze Zeit später wieder zu? Warum scheitern Diäten, obwohl sie zunächst scheinbar erfolgreich sind? Weshalb kämpfen Millionen Menschen ihr ganzes Leben gegen überflüssige Pfunde, verzichten auf Lieblingsspeisen, quälen sich durch Trainings-Programme und stehen am Ende doch wieder am Anfang? Wenn Du dieses Buch in den Händen hältst, hast Du Dir diese oder ähnliche Fragen wahrscheinlich selbst schon oft gestellt. Vielleicht hast Du bereits zahlreiche Diäten ausprobiert. Vielleicht hast Du Kalorien gezählt, Kohlenhydrate gemieden, Fett verteufelt oder Dich stundenlang im Fitnessstudio geplagt. Vielleicht hast Du kurzfristige Erfolge erlebt – nur um einige Monate später feststellen zu müssen, dass das verlorene Gewicht wieder zurückgekehrt ist. Nicht selten sogar mit einigen zusätzlichen Kilogramm. Die entscheidende Frage lautet deshalb nicht: Wie kann ich möglichst schnell abnehmen? Sondern vielmehr: Warum nimmt der menschliche Körper überhaupt zu – und weshalb hält er so hartnäckig an seinen Fettreserven fest? PDF erhältlich Hörbuch erhältlich Bundle (Preisvorteil)
 
 ## 2. Links
 

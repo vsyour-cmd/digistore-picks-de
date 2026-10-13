@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie Unternehmen mit XING planbar B2B-Leads und lokale Geschäftskontakte im DACH-Raum generieren</strong></p>
-<p>Für Unternehmen ist XING kein Karriere-Portal für Jobsuchende, sondern ein B2B-Vertriebskanal mit enormem Hebel im deutschsprachigen Markt. Dieses E-Book zeigt dir, wie du dein Unternehmens- und Personenprofil als Vertriebsinstrument nutzt, über gezielte Direktnachrichten und Gruppen-Aktivitäten qualifizierte Leads generierst und mit XING ProBusiness systematisch neue Geschäftskontakte in der DACH-Region aufbaust. Du lernst, wie du lokale Geschäftskontakte über Standort-Filter und Branchen-Gruppen gewinnst, wie du Recruiting und B2B-Akquise parallel über eine Plattform steuerst und wie du den ROI deiner XING-Aktivitäten messbar machst. Ob Dienstleister, Agentur oder mittelständisches Unternehmen – du bekommst ein System, das nicht auf Zufallskontakte setzt, sondern auf planbare, wiederkehrende Anfragen.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Unternehmens- und Personenprofil als B2B-Vertriebsinstrument aufbauen</li>
-<li>Direktnachrichten-Strategie: vom Erstkontakt zum qualifizierten Gespräch</li>
-<li>Gruppen-Marketing: Sichtbarkeit bei deinen Wunschkunden im DACH-Raum</li>
-<li>Lokale Geschäftskontakte über Standort-Filter und Branchen-Suche gewinnen</li>
-<li>XING ProBusiness und Premium: wann sie sich wirklich rechnen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie Unternehmen mit XING planbar B2B-Leads und lokale Geschäftskontakte im DACH-Raum generieren Für Unternehmen ist XING kein Karriere-Portal für Jobsuchende, sondern ein B2B-Vertriebskanal mit enormem Hebel im deutschsprachigen Markt. Dieses E-Book zeigt dir, wie du dein Unternehmens- und Personenprofil als Vertriebsinstrument nutzt, über gezielte Direktnachrichten und Gruppen-Aktivitäten qualifizierte Leads generierst und mit XING ProBusiness systematisch neue Geschäftskontakte in der DACH-Region aufbaust. Du lernst, wie du lokale Geschäftskontakte über Standort-Filter und Branchen-Gruppen gewinnst, wie du Recruiting und B2B-Akquise parallel über eine Plattform steuerst und wie du den ROI deiner XING-Aktivitäten messbar machst. Ob Dienstleister, Agentur oder mittelständisches Unternehmen – du bekommst ein System, das nicht auf Zufallskontakte setzt, sondern auf planbare, wiederkehrende Anfragen. Das steckt drin: Unternehmens- und Personenprofil als B2B-Vertriebsinstrument aufbauen Direktnachrichten-Strategie: vom Erstkontakt zum qualifizierten Gespräch Gruppen-Marketing: Sichtbarkeit bei deinen Wunschkunden im DACH-Raum Lokale Geschäftskontakte über Standort-Filter und Branchen-Suche gewinnen XING ProBusiness und Premium: wann sie sich wirklich rechnen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

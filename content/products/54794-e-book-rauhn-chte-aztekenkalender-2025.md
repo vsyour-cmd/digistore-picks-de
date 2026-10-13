@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>E-Book: DER RUF DER SYMBOLE – <em>Rauhnächte im Licht des Aztekenkalenders 2025</em></strong><br />ca. <strong>112 Seiten | PDF Download</strong></p>
-<p>Ein einzigartiges Rauhnächte-Buch, das die traditionelle europäischen Rauhnächte mit der Symbolik des <strong>Aztekischenkalenders</strong><strong> (Tonalpohualli)</strong> verbindet. Jede Nacht steht unter einem Tagessymbol, Archetypen-Energie und einer emotional-spirituellen Intention. Du erhältst <strong>Rituale, Yoga-Praxis, Atemtechniken, Bezüge zur Glücksforschung, Journaling-Fragen &amp; energetische Anleitungen</strong> für eine tief transformierende Rauhnachtsreise.</p>
-<p>Dieses Buch ist nicht nur ein Begleiter, sondern ein initiatorischer Weg zu Klarheit, Neuausrichtung und innerem Wachstum – basierend auf alten Kulturen, psychologischer Archetypenarbeit und moderner Wissenschaft.</p>
-<p><strong>Das erwartet dich</strong></p>
-<ul>
-<li>Traditionelle Bedeutung jeder Rauhnacht + moderne Deutung</li>
-<li>Aztekische Tagessymbole (Tonalpohualli) &amp; Archetypen</li>
-<li>Außergewöhnliche Rituale</li>
-<li>Yoga-Asanas &amp; Pranayama passend zu jeder Nacht</li>
-<li>Spirituelle &amp; psychologische Deutungen</li>
-<li>Reflexionsfragen, Journaling &amp; Vision-Work</li>
-<li>Bezüge aus der Glücksforschung  </li>
-<li>Mit Bildern der Gottheiten &amp; Symbolwelten</li>
-</ul>
-<p><strong>Ziel des Buches</strong></p>
-<p>Dieses Buch begleitet dich Schritt für Schritt durch die Rauhnächte, damit du:</p>
-<ul>
-<li>dein Jahr bewusst ausrichtest</li>
-<li>alte Themen abschließt</li>
-<li>Visionen manifestierst</li>
-<li>emotionale und spirituelle Klarheit findest</li>
-<li>mit dir selbst und deinen Ahnen in Kontakt trittst</li>
-</ul>
-<p><strong>Format &amp; Nutzung</strong></p>
-<ul>
-<li>Format: PDF (Sofort-Download)</li>
-<li>Umfang: DIN A4, farbig ca. 112 Seiten</li>
-<li>Für Einsteiger &amp; Fortgeschrittene geeignet</li>
-<li>Kann als persönlicher Ritual-Begleiter oder als Arbeitsbuch genutzt werden</li>
-</ul>
+**Vendor's marketplace description:** E-Book: DER RUF DER SYMBOLE – Rauhnächte im Licht des Aztekenkalenders 2025 ca. 112 Seiten | PDF Download Ein einzigartiges Rauhnächte-Buch, das die traditionelle europäischen Rauhnächte mit der Symbolik des Aztekischenkalenders (Tonalpohualli) verbindet. Jede Nacht steht unter einem Tagessymbol, Archetypen-Energie und einer emotional-spirituellen Intention. Du erhältst Rituale, Yoga-Praxis, Atemtechniken, Bezüge zur Glücksforschung, Journaling-Fragen & energetische Anleitungen für eine tief transformierende Rauhnachtsreise. Dieses Buch ist nicht nur ein Begleiter, sondern ein initiatorischer Weg zu Klarheit, Neuausrichtung und innerem Wachstum – basierend auf alten Kulturen, psychologischer Archetypenarbeit und moderner Wissenschaft. Das erwartet dich Traditionelle Bedeutung jeder Rauhnacht + moderne Deutung Aztekische Tagessymbole (Tonalpohualli) & Archetypen Außergewöhnliche Rituale Yoga-Asanas & Pranayama passend zu jeder Nacht Spirituelle & psychologische Deutungen Reflexionsfragen, Journaling & Vision-Work Bezüge aus der Glücksforschung Mit Bildern der Gottheiten & Symbolwelten Ziel des Buches Dieses Buch begleitet dich Schritt für Schritt durch die Rauhnächte, damit du: dein Jahr bewusst ausrichtest alte Themen abschließt Visionen manifestierst emotionale und spirituelle Klarheit findest mit dir selbst und deinen Ahnen in Kontakt trittst Format & Nutzung Format: PDF (Sofort-Download) Umfang: DIN A4, farbig ca. 112 Seiten Für Einsteiger & Fortgeschrittene geeignet Kann als persönlicher Ritual-Begleiter oder als Arbeitsbuch genutzt werden
 
 ## 2. Links
 

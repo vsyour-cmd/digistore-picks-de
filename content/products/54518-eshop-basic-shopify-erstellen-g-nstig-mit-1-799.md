@@ -41,45 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<h1><span style="color:#333399;">ESHOP ERSTELLEN</span></h1>
-<h1><span style="color:#333399;">voll funktionsfähigen  </span></h1>
-<div> </div>
-</div>
-</div>
-<div>
-<div>
-<h1><span style="color:#333399;">” Professionelle Basic Shopify Eshop “</span></h1>
-<div> </div>
-</div>
-</div>
-<div>
-<div>
-<p>Nur mit 1.799<em>€</em></p>
-<p> </p>
-<ul>
-<li>
-<ul>
-<li>#1 Eshop in Shopify erstellen voll funktionsfähig</li>
-<li>#2 Verknüpfen mit Payments, Checkout, Policies usw.</li>
-<li>  #3 Nach Ihre Bedürfnisse. Fotos,Texte,Videos  </li>
-<li>  #4 +Einfügen die ersten 50-100 Produkten</li>
-<li>  #5 Inkl. Links zu Ihre Social Media</li>
-<li>  #6 Inkl. einfache Kontakt-formular &amp; Map</li>
-<li>  #7 Netto Preis fürs Basic Shopify Eshop Erstellen</li>
-<li>  #8 Domain Name &amp; Hosting kostet zusätzlich</li>
-<li>  #9 Nach bezahlen - folgen ZOOM Gespräche - Planung</li>
-<li>  #10 Pflege : Ja möglich zusätzlich kostet  </li>
-</ul>
-</li>
-</ul>
-<p> </p>
-<ul>
-<li>Schauen Sie hier unsere Infos &amp; Video, was können wir für Euch tun sehr günstig</li>
-</ul>
-</div>
-</div>
+**Vendor's marketplace description:** ESHOP ERSTELLEN voll funktionsfähigen ” Professionelle Basic Shopify Eshop “ Nur mit 1.799 € #1 Eshop in Shopify erstellen voll funktionsfähig #2 Verknüpfen mit Payments, Checkout, Policies usw. #3 Nach Ihre Bedürfnisse. Fotos,Texte,Videos #4 +Einfügen die ersten 50-100 Produkten #5 Inkl. Links zu Ihre Social Media #6 Inkl. einfache Kontakt-formular & Map #7 Netto Preis fürs Basic Shopify Eshop Erstellen #8 Domain Name & Hosting kostet zusätzlich #9 Nach bezahlen - folgen ZOOM Gespräche - Planung #10 Pflege : Ja möglich zusätzlich kostet Schauen Sie hier unsere Infos & Video, was können wir für Euch tun sehr günstig
 
 ## 2. Links
 

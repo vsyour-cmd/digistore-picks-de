@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Online Ernährungskurs für die Schwangerschaft</h3>
-<p>✅ <strong>32 Coaching-Videos</strong> - fundiert &amp; praxisnah</p>
-<p>✅ <strong>18 Aufgaben</strong> - für deinen Transfer im Alltag</p>
-<p>✅ <strong>Großer Rezepte-Bereich</strong> - leckere Inspirationen</p>
-<p>✅ <strong>Aktive Community</strong> - Austausch mit Ernährungsmedizinerin &amp; Gleichgesinnten</p>
-<p>✅ <strong>6 Monate Zugriff</strong> - lerne in deinem Tempo</p>
-<p>Der Kurs ist nach §20 SGB V zertifiziert – Deine gesetzliche Krankenkasse übernimmt bis zu 100 % der Kosten.</p>
+**Vendor's marketplace description:** Online Ernährungskurs für die Schwangerschaft ✅ 32 Coaching-Videos - fundiert & praxisnah ✅ 18 Aufgaben - für deinen Transfer im Alltag ✅ Großer Rezepte-Bereich - leckere Inspirationen ✅ Aktive Community - Austausch mit Ernährungsmedizinerin & Gleichgesinnten ✅ 6 Monate Zugriff - lerne in deinem Tempo Der Kurs ist nach §20 SGB V zertifiziert – Deine gesetzliche Krankenkasse übernimmt bis zu 100 % der Kosten.
 
 ## 2. Links
 

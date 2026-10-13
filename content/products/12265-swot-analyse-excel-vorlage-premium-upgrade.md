@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p> </p>
-<ul><li>alle Formeln der SWOT-Analyse in Excel sichtbar</li>
-<li>VBA-Code sichtbar</li>
-<li>individuelle Anpassungen möglich</li>
-<li>Erweiterungen möglich</li>
-<li>einmalige Kosten für vollen Funktionsumfang</li>
-</ul><p> </p>
-<p>Dieses Passwort hebt den Blattschutz der beliebten SWOT-Analyse Excel Vorlage auf und ermöglicht dem Nutzer so die uneingeschränkte Nutzung. Verdienen Sie 20% Provision bei einem erfolgreichen Verkauf des Blattschutz Passworts für die SWOT-Analyse Excel Vorlage.</p>
-<p><strong><a href="http://swot-analyse.net/affiliate-partner-werden/" target="_blank" rel="noreferrer noopener">Affiliate Partner werden</a></strong></p>
+**Vendor's marketplace description:** alle Formeln der SWOT-Analyse in Excel sichtbar VBA-Code sichtbar individuelle Anpassungen möglich Erweiterungen möglich einmalige Kosten für vollen Funktionsumfang Dieses Passwort hebt den Blattschutz der beliebten SWOT-Analyse Excel Vorlage auf und ermöglicht dem Nutzer so die uneingeschränkte Nutzung. Verdienen Sie 20% Provision bei einem erfolgreichen Verkauf des Blattschutz Passworts für die SWOT-Analyse Excel Vorlage. Affiliate Partner werden
 
 ## 2. Links
 

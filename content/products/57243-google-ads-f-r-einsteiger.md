@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Google Ads für Einsteiger“</strong></p>
-<p>Deine erste profitable Kampagne richtig aufsetzen – Google Ads wirkt kompliziert – ist aber lernbar, schon mit kleinem Budget. Konto, Keywords, Anzeigen, Budget und Auswertung verständlich erklärt.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verstehen, wie Google Ads wirklich funktioniert</li>
-<li>Konto, Kampagnentyp und Keywords richtig aufsetzen</li>
-<li>Anzeigen schreiben, die geklickt werden</li>
-<li>Erste Kampagne starten, auswerten und Recht beachten</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Google Ads für Einsteiger“ Deine erste profitable Kampagne richtig aufsetzen – Google Ads wirkt kompliziert – ist aber lernbar, schon mit kleinem Budget. Konto, Keywords, Anzeigen, Budget und Auswertung verständlich erklärt. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verstehen, wie Google Ads wirklich funktioniert Konto, Kampagnentyp und Keywords richtig aufsetzen Anzeigen schreiben, die geklickt werden Erste Kampagne starten, auswerten und Recht beachten
 
 ## 2. Links
 

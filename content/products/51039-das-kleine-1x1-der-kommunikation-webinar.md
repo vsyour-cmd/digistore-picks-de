@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:justify;">Das Webinar "Das kleine 1x1 der Kommunikation" ist ein Mini-Crashkurs in Sachen Kommunikation - sowohl für den beruflichen als auch den privaten Kontext.</p>
-<p style="text-align:justify;">Die TeilnehmerInnen lernen ausgewählte Theorien zum Thema Kommunikation kennen und erfahren, wie diese die Entstehung von Missverständnissen erklären. Außerdem schauen wir uns an, welche Rahmenbedingungen für eine "gute" Kommunikation gegeben sein sollten und behandeln zwei Methoden, die einen konfliktarmen Dialog fördern und einen Perspektivwechsel der GesprächspartnerInnen ermöglichen können. Arbeitsblätter zur Selbstreflexion und einer kurzen Zusammenfassung der Inhalte runden das Webinar ab.</p>
-<p><br />Webinarinhalte sind: </p>
-<ul>
-<li style="list-style-type:none;">
-<ul>
-<li>ca. 1h Videomaterial zu
-<ul>
-<li>den Arten der Kommunikation</li>
-<li>drei Kommunikationsmodellen (Sender-Empfänger-Modell, Eisberg-Modell, Kommunikationsquadrat)</li>
-<li>den Rahmenbedingungen "guter" Kommunikation</li>
-<li>Kommunikationsmethoden (Ich-Botschaften, Gewaltfreie Kommunikation)</li>
-<li>Metakommunikation</li>
-<li>drei Arbeitsblätter zur Selbstreflexion</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<p> </p>
-<p style="text-align:justify;">Angeleitet wird das Webinar von Tanja Mosebach, Psychologin (M.Sc.) und zertifizierte Paarberaterin.</p>
+**Vendor's marketplace description:** Das Webinar "Das kleine 1x1 der Kommunikation" ist ein Mini-Crashkurs in Sachen Kommunikation - sowohl für den beruflichen als auch den privaten Kontext. Die TeilnehmerInnen lernen ausgewählte Theorien zum Thema Kommunikation kennen und erfahren, wie diese die Entstehung von Missverständnissen erklären. Außerdem schauen wir uns an, welche Rahmenbedingungen für eine "gute" Kommunikation gegeben sein sollten und behandeln zwei Methoden, die einen konfliktarmen Dialog fördern und einen Perspektivwechsel der GesprächspartnerInnen ermöglichen können. Arbeitsblätter zur Selbstreflexion und einer kurzen Zusammenfassung der Inhalte runden das Webinar ab. Webinarinhalte sind: ca. 1h Videomaterial zu den Arten der Kommunikation drei Kommunikationsmodellen (Sender-Empfänger-Modell, Eisberg-Modell, Kommunikationsquadrat) den Rahmenbedingungen "guter" Kommunikation Kommunikationsmethoden (Ich-Botschaften, Gewaltfreie Kommunikation) Metakommunikation drei Arbeitsblätter zur Selbstreflexion Angeleitet wird das Webinar von Tanja Mosebach, Psychologin (M.Sc.) und zertifizierte Paarberaterin.
 
 ## 2. Links
 

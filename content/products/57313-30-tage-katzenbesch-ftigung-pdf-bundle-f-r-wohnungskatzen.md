@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Digitales PDF-Bundle für Katzenhalter und Besitzer von Wohnungskatzen. Enthalten sind ein 30-Tage-Spiel- und Abwechslungsplan, ein druckbarer Kalender zum Abhaken und ein Sommerbonus mit Hitzetage-Checkliste für Wohnungskatzen.</p>
-<p>Das Produkt richtet sich an Menschen, die ihrer Wohnungskatze mehr Abwechslung im Alltag bieten möchten, ohne jeden Tag neue Spielideen recherchieren zu müssen.</p>
-<p>Gute Zielgruppen für Affiliates:<br />Katzenhalter, neue Katzenbesitzer, Besitzer von Wohnungskatzen, berufstätige Katzenhalter, Katzenblogs, Pet-Influencer, Pinterest-Accounts, Haustier-Newsletter und Ratgeberseiten rund um Katzenhaltung.</p>
-<p>Starke Werbewinkel:<br />Wohnungskatze beschäftigen, Katze langweilt sich, Spielideen für Katzen, DIY-Katzenbeschäftigung, Katze alleine zuhause beschäftigen, Katze bei Hitze beschäftigen, Sommer-Tipps für Wohnungskatzen.</p>
-<p>Enthalten:<br />Haupt-PDF mit 30 Tagesideen, Druckkalender, Sommerbonus „Hitzetage-Checkliste für Wohnungskatzen“ und druckbare Checklisten.</p>
-<p>Sofortiger digitaler Download. Kein physisches Produkt. Das Produkt ersetzt keine tierärztliche Beratung.</p>
+**Vendor's marketplace description:** Digitales PDF-Bundle für Katzenhalter und Besitzer von Wohnungskatzen. Enthalten sind ein 30-Tage-Spiel- und Abwechslungsplan, ein druckbarer Kalender zum Abhaken und ein Sommerbonus mit Hitzetage-Checkliste für Wohnungskatzen. Das Produkt richtet sich an Menschen, die ihrer Wohnungskatze mehr Abwechslung im Alltag bieten möchten, ohne jeden Tag neue Spielideen recherchieren zu müssen. Gute Zielgruppen für Affiliates: Katzenhalter, neue Katzenbesitzer, Besitzer von Wohnungskatzen, berufstätige Katzenhalter, Katzenblogs, Pet-Influencer, Pinterest-Accounts, Haustier-Newsletter und Ratgeberseiten rund um Katzenhaltung. Starke Werbewinkel: Wohnungskatze beschäftigen, Katze langweilt sich, Spielideen für Katzen, DIY-Katzenbeschäftigung, Katze alleine zuhause beschäftigen, Katze bei Hitze beschäftigen, Sommer-Tipps für Wohnungskatzen. Enthalten: Haupt-PDF mit 30 Tagesideen, Druckkalender, Sommerbonus „Hitzetage-Checkliste für Wohnungskatzen“ und druckbare Checklisten. Sofortiger digitaler Download. Kein physisches Produkt. Das Produkt ersetzt keine tierärztliche Beratung.
 
 ## 2. Links
 

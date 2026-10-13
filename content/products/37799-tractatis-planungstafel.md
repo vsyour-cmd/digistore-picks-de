@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff99;"><strong>Brandneues Partnerprogramm </strong><strong>und komplett neue Verkaufsseiten</strong></span></p>
-<p><span style="background-color:#ff0000;color:#ffffff;"><strong>Erhalte</strong><strong> ein passives monatliches Einkommen!</strong></span></p>
-<p>TRACTATIS ist ein Projektmanagement- Tool, dass als Webanwendung komplett im Browser läuft und somit orts- und geräteunabhängig ist. Zielgruppen sind im ersten Schritt Baufirmen und Handwerker.<br /> <br /> Profitiere als Affiliate, von einem monatlichen passiven Einkommen, durch die Abos der geworbenen Firmen bzw. Nutzer. Die Firmen halten Ihre Abos/ Lizenzen in der Regel über 6 Monate. Die Konversion auf allen Verkaufsseiten wird permanent optimiert.</p>
-<p>Die Preise für die Lizenzen sind abhängig von der Anzahl der Nutzer und beginnen bei 15,00 EUR bis 430,00 EUR pro Monat. Für den Affiliate werden 35% abzgl. Digistoregebühren ausgezahlt.</p>
-<p>Du erhältst als Affiliate eine persönliche Betreuung und bei entsprechenden Umsatz auch individuelle Werbemittel.</p>
-<p>Ich freue mich auf unsere Zusammenarbeit!</p>
-<p>Dein Torsten Kleinstück</p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Brandneues Partnerprogramm und komplett neue Verkaufsseiten Erhalte ein passives monatliches Einkommen! TRACTATIS ist ein Projektmanagement- Tool, dass als Webanwendung komplett im Browser läuft und somit orts- und geräteunabhängig ist. Zielgruppen sind im ersten Schritt Baufirmen und Handwerker. Profitiere als Affiliate, von einem monatlichen passiven Einkommen, durch die Abos der geworbenen Firmen bzw. Nutzer. Die Firmen halten Ihre Abos/ Lizenzen in der Regel über 6 Monate. Die Konversion auf allen Verkaufsseiten wird permanent optimiert. Die Preise für die Lizenzen sind abhängig von der Anzahl der Nutzer und beginnen bei 15,00 EUR bis 430,00 EUR pro Monat. Für den Affiliate werden 35% abzgl. Digistoregebühren ausgezahlt. Du erhältst als Affiliate eine persönliche Betreuung und bei entsprechenden Umsatz auch individuelle Werbemittel. Ich freue mich auf unsere Zusammenarbeit! Dein Torsten Kleinstück
 
 ## 2. Links
 

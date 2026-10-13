@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Ebook mit 60 einzigartigen Low Carb Rezepten, die jeder Nachmachen kann!</strong></p>
-<p>Backen und Naschen ohne schlechtes Gewissen? Das geht! In meinem E-Book findest du ausschließlich schnelle und einfache Rezepte, die genau richtig für alle sind...</p>
-<p>✅ ...die sich Low Carb ernähren und ohne Zucker und ohne Mehl backen möchten.<br />✅ ...die nach Rezepten suchen, die wenige Kohlenhydrate haben und zudem auch noch glutenfrei sind.<br />✅ ...denen Backen nicht schnell genug gehen kann.<br />✅ ...die Süßes und das Backen lieben, sich aber trotzdem gesund ernähren möchten.</p>
+**Vendor's marketplace description:** Ebook mit 60 einzigartigen Low Carb Rezepten, die jeder Nachmachen kann! Backen und Naschen ohne schlechtes Gewissen? Das geht! In meinem E-Book findest du ausschließlich schnelle und einfache Rezepte, die genau richtig für alle sind... ✅ ...die sich Low Carb ernähren und ohne Zucker und ohne Mehl backen möchten. ✅ ...die nach Rezepten suchen, die wenige Kohlenhydrate haben und zudem auch noch glutenfrei sind. ✅ ...denen Backen nicht schnell genug gehen kann. ✅ ...die Süßes und das Backen lieben, sich aber trotzdem gesund ernähren möchten.
 
 ## 2. Links
 

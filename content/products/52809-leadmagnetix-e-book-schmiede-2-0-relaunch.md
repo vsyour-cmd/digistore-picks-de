@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Profitiere von einer riesigen Nachfrage und 50% Provision auf den kompletten Funnel! Optional 100% Reseller Lizenz erwerbbar!</p>
-<p> </p>
-<h3>Leadmagnetix - E-Book Schmiede 2.0</h3>
-<div>
-<div>
-<p>Du erhälst in meinem Telegram-Kanal oder per Email eine Auswahl von eBooks zum Download, die du frei für dich nutzen kannst. <strong>Du kannst dich als Autor ausgeben</strong>, die Inhalte ändern, das Layout selbst gestalten und dann deinen Interessenten <strong>diese verkaufen, verschenken oder als Bonus zum Kauf beifügen.</strong></p>
-<p>Werde Autor in wenigen Minuten!</p>
-<ul>
-<li>Mindestens 20 fertige eBooks</li>
-<li>Schritt-für-Schritt Anleitung</li>
-<li>Support bei Fragen</li>
-<li>Volle Rechte für absolute Freiheit</li>
-<li>Einfach zu modifizieren</li>
-<li>Hohe Qualität</li>
-<li>Nie wieder Ärger mit dem Layout</li>
-<li>Es werden mit der Zeit weitere eBooks hinzugefügt, die ohne Zusatzkosten erworben werden können.</li>
-</ul>
-<p>Suche dir einfach die für dich passenden <em>eBooks</em> heraus und du hast den perfekten Lead-Magneten für <em>Instagram</em> und natürlich auch andere soziale Netzwerke oder gar E-Mail-Marketing.</p>
-<p>Du erhältst die eBooks sofort nach der Bestellung. Auch wenn es gerade 03:00 Uhr Nachts ist.</p>
-</div>
-</div>
+**Vendor's marketplace description:** Profitiere von einer riesigen Nachfrage und 50% Provision auf den kompletten Funnel! Optional 100% Reseller Lizenz erwerbbar! Leadmagnetix - E-Book Schmiede 2.0 Du erhälst in meinem Telegram-Kanal oder per Email eine Auswahl von eBooks zum Download, die du frei für dich nutzen kannst. Du kannst dich als Autor ausgeben , die Inhalte ändern, das Layout selbst gestalten und dann deinen Interessenten diese verkaufen, verschenken oder als Bonus zum Kauf beifügen. Werde Autor in wenigen Minuten! Mindestens 20 fertige eBooks Schritt-für-Schritt Anleitung Support bei Fragen Volle Rechte für absolute Freiheit Einfach zu modifizieren Hohe Qualität Nie wieder Ärger mit dem Layout Es werden mit der Zeit weitere eBooks hinzugefügt, die ohne Zusatzkosten erworben werden können. Suche dir einfach die für dich passenden eBooks heraus und du hast den perfekten Lead-Magneten für Instagram und natürlich auch andere soziale Netzwerke oder gar E-Mail-Marketing. Du erhältst die eBooks sofort nach der Bestellung. Auch wenn es gerade 03:00 Uhr Nachts ist.
 
 ## 2. Links
 

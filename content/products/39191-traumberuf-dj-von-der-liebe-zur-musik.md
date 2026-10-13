@@ -41,33 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Promote</strong> das Buch von<strong> Katrin </strong><strong>Mendelsohn (DJane/Sängerin/DJ-Coach):</strong></p>
-<p><strong>"Traumberuf DJ - Von der Liebe zur Musik zum erfolgreichen Business"</strong></p>
-<p><strong>Profitabel:</strong></p>
-<p>erhalte:<br />• 50% Provision auf Dein Buchverkauf <br />• 50% Provision auf jedes Deiner Add-On Verkäufe<br />• zusätzlich 400€ bei Buchung eines Mentoring<strong><br /><br /></strong></p>
-<p><strong>Gespickt mit Interviews von namenhaften Profis aus der Musikszene (u.a. Stereoact, LeShuuk, Anastasia Rose, Felix Räuber/Polarkreis 18 und weiteren) verkauft sich das Buch schon fast allein.</strong></p>
-<p> </p>
-<p>Werbetext:</p>
-<p> </p>
-<p>Endlich ist es soweit<br />‼DAS BUCH für DJs und DJanes, SängerInnen und Producer ist da</p>
-<p>➡www.traumberuf-dj-buch.de⬅</p>
-<p>Mit DJ Olde, Anastasia Rose, Stereoact, uvm...</p>
-<p>Was sind die Geheimnisse der erfolgreichsten MusikerInnen, Producer und DJs um mit Ihren Superkräften möglichst vielen Menschen zu helfen?</p>
-<p>Und zwar nicht nur bezogen auf das Mindset, sondern auf Themen wie Kundengewinnung, Zielsetzung und Marketing.</p>
-<p>Mit toller Unterstützung unter anderen durch Le Shuuk, Felix Räuber (Polarkreis 18) uvm.</p>
-<p>➡www.traumberuf-dj-buch.de⬅</p>
-<p>Was Du aus diesem Buch lernen kannst...</p>
-<p>Was ist heute wichtig für den Erfolg als DJ und was nicht?</p>
-<p>Welche Fehler darfst Du vermeiden, wenn Du langfristig erfolgreich im DJ-/ Musikbusiness sein willst?</p>
-<p>Welche Erfolgsverhinderer darfst Du eliminieren, um Deinen Zielen näher zu kommen?</p>
-<p>Was gehört alles zum professionellen Marketing dazu?</p>
-<p>Wie geht Branding und warum ist es viel mehr als nur ein Logo?</p>
-<p>Wie baust Du Dein Netzwerk RICHTIG auf, auch ohne, dass Du gutes „Vitamin B“ oder viel Geld hast?</p>
-<p>​Wann brauchst Du als DJ Webseite und SEO und wann nicht, und worauf sollst Du dabei achten?</p>
-<p>Worauf musst Du beim Streaming achten, um viele Follower anzuziehen, und was kannst Du alles falsch machen?</p>
-<p>174 Seiten purer Content</p>
-<p>Die wichtigsten Fragen für Dich, um in die Umsetzung zu kommen</p>
-<p> </p>
+**Vendor's marketplace description:** Promote das Buch von Katrin Mendelsohn (DJane/Sängerin/DJ-Coach): "Traumberuf DJ - Von der Liebe zur Musik zum erfolgreichen Business" Profitabel: erhalte: • 50% Provision auf Dein Buchverkauf • 50% Provision auf jedes Deiner Add-On Verkäufe • zusätzlich 400€ bei Buchung eines Mentoring Gespickt mit Interviews von namenhaften Profis aus der Musikszene (u.a. Stereoact, LeShuuk, Anastasia Rose, Felix Räuber/Polarkreis 18 und weiteren) verkauft sich das Buch schon fast allein. Werbetext: Endlich ist es soweit ‼DAS BUCH für DJs und DJanes, SängerInnen und Producer ist da ➡www.traumberuf-dj-buch.de⬅ Mit DJ Olde, Anastasia Rose, Stereoact, uvm... Was sind die Geheimnisse der erfolgreichsten MusikerInnen, Producer und DJs um mit Ihren Superkräften möglichst vielen Menschen zu helfen? Und zwar nicht nur bezogen auf das Mindset, sondern auf Themen wie Kundengewinnung, Zielsetzung und Marketing. Mit toller Unterstützung unter anderen durch Le Shuuk, Felix Räuber (Polarkreis 18) uvm. ➡www.traumberuf-dj-buch.de⬅ Was Du aus diesem Buch lernen kannst... Was ist heute wichtig für den Erfolg als DJ und was nicht? Welche Fehler darfst Du vermeiden, wenn Du langfristig erfolgreich im DJ-/ Musikbusiness sein willst? Welche Erfolgsverhinderer darfst Du eliminieren, um Deinen Zielen näher zu kommen? Was gehört alles zum professionellen Marketing dazu? Wie geht Branding und warum ist es viel mehr als nur ein Logo? Wie baust Du Dein Netzwerk RICHTIG auf, auch ohne, dass Du gutes „Vitamin B“ oder viel Geld hast? ​Wann brauchst Du als DJ Webseite und SEO und wann nicht, und worauf sollst Du dabei achten? Worauf musst Du beim Streaming achten, um viele Follower anzuziehen, und was kannst Du alles falsch machen? 174 Seiten purer Content Die wichtigsten Fragen für Dich, um in die Umsetzung zu kommen
 
 ## 2. Links
 

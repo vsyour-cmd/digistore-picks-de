@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Verdiene 60 % Provision mit unserem E-Book „Darmgesund in 30 Tagen“.</p>
-<p>Das Programm zeigt Schritt für Schritt, wie man die Darmflora natürlich stärkt, Beschwerden lindert und das Wohlbefinden steigert.</p>
-<p>Gesundheitsthema mit wachsender Nachfrage – starke Conversion dank optimierter Verkaufsseite.</p>
-<p>Banner, Social-Media-Texte und Produkt-Mockups stehen Affiliates als Werbemittel bereit.</p>
+**Vendor's marketplace description:** Verdiene 60 % Provision mit unserem E-Book „Darmgesund in 30 Tagen“. Das Programm zeigt Schritt für Schritt, wie man die Darmflora natürlich stärkt, Beschwerden lindert und das Wohlbefinden steigert. Gesundheitsthema mit wachsender Nachfrage – starke Conversion dank optimierter Verkaufsseite. Banner, Social-Media-Texte und Produkt-Mockups stehen Affiliates als Werbemittel bereit.
 
 ## 2. Links
 

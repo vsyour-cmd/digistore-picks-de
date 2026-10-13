@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><span style="color:#ff0000;"><strong>"</strong><strong>Entschlüssle deinen HERZcode"</strong> | gratis Buch (gedruckt) | von Christian Rupp </span></h1>
-<p> </p>
-<p><strong>Es ist DAS BUCH für die kommenden Jahre, die neue Berufung zu finden, Potenziale zu entfalten und eine Neuorientierung einfach zu schaffen in ein erfülltes Leben.</strong></p>
-<p><strong>Der HERZcode ist deine Grundprogrammierung für dein Lebens-Design und damit auch dein Prototyp.</strong></p>
-<p>Der HERZcode wurde basierend auf über 40 Facts aus Wissenschaft, Medizin, Neurologie, Cardiologie, Spiritualität und alten Schriften entwickelt. Ganz einfach: Der HERZcode ist die Urprogrammierung für uns Menschen.</p>
-<p> </p>
-<p><strong>Das Buch und separates Workbook (upsell):</strong></p>
-<p>Über 200 Seiten purer Content, Geheim-Tipps, Erfahrungen und wissenschaftliche Erkenntnisse für ein erfülltes Leben in der Berufung ohne auszubrennen.</p>
-<div>Das Workbook umfasst 60 Seiten mit allen relevanten Übungen inkl. einer zusätzlichen Stunde 1:1 Coaching.</div>
-<p>Die Logistik erfolgt über One World Distribution und ist damit zuverlässig.</p>
-<p> </p>
-<p><strong>Für Affiliates</strong></p>
-<ul>
-<li><strong>Provision auf das Buch: € 5 / Softcover-Buch</strong></li>
-<li><strong>Upsell-Provision auf das Workbook: € 20.- / Workbook</strong></li>
-<li><strong>Upsell-Provision für Kurse 40%</strong></li>
-</ul>
+**Vendor's marketplace description:** " Entschlüssle deinen HERZcode" | gratis Buch (gedruckt) | von Christian Rupp Es ist DAS BUCH für die kommenden Jahre, die neue Berufung zu finden, Potenziale zu entfalten und eine Neuorientierung einfach zu schaffen in ein erfülltes Leben. Der HERZcode ist deine Grundprogrammierung für dein Lebens-Design und damit auch dein Prototyp. Der HERZcode wurde basierend auf über 40 Facts aus Wissenschaft, Medizin, Neurologie, Cardiologie, Spiritualität und alten Schriften entwickelt. Ganz einfach: Der HERZcode ist die Urprogrammierung für uns Menschen. Das Buch und separates Workbook (upsell): Über 200 Seiten purer Content, Geheim-Tipps, Erfahrungen und wissenschaftliche Erkenntnisse für ein erfülltes Leben in der Berufung ohne auszubrennen. Das Workbook umfasst 60 Seiten mit allen relevanten Übungen inkl. einer zusätzlichen Stunde 1:1 Coaching. Die Logistik erfolgt über One World Distribution und ist damit zuverlässig. Für Affiliates Provision auf das Buch: € 5 / Softcover-Buch Upsell-Provision auf das Workbook: € 20.- / Workbook Upsell-Provision für Kurse 40%
 
 ## 2. Links
 

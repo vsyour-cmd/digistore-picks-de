@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das E-Book "Impressum, DSGVO &amp; Co - Der rechtssichere Online-Kompass"</strong></p>
-<p>Schluss mit der Angst vor Abmahnungen! Online-Business endlich rechtssicher und erfolgreich aufbauen.</p>
-<p>Prima Gelegenheit, um seine Provisionen aufzupeppen!</p>
-<ul>
-<li>Dieses E-Book funktioniert für Affiliate Anfänger und Fortgeschrittene.</li>
-<li>Perfektes Produkt für "jeden", der mit seinem online Business und Marketing auf der sicheren Seite sein will und nach wertvollen Rechts-Tipps sucht.</li>
-<li>Du hast mit diesem E-Book einen Top-Ratgeber für deine Community und Kunden</li>
-<li>Du wirst am kompletten Sales-Funnel beteiligt!</li>
-</ul>
-<p>Hohe Conversion, da es aktuelle Themen behandelt.<br /><br /><strong>100% Provision für dich!<br />Der Preis beträgt 4,95€, die komplett dir gehören!</strong></p>
-<p>Weiters mit 50% beteiligt an Add-On, Up- und Downsell.<br />+ 15% Lifetime Provision<br />Über 115€ im Funnel für dich möglich!<br /><br />Der Funnel wird ständig angepasst und erweitert.<br /><br />Viel Erfolg und fette Beute!</p>
+**Vendor's marketplace description:** Das E-Book "Impressum, DSGVO & Co - Der rechtssichere Online-Kompass" Schluss mit der Angst vor Abmahnungen! Online-Business endlich rechtssicher und erfolgreich aufbauen. Prima Gelegenheit, um seine Provisionen aufzupeppen! Dieses E-Book funktioniert für Affiliate Anfänger und Fortgeschrittene. Perfektes Produkt für "jeden", der mit seinem online Business und Marketing auf der sicheren Seite sein will und nach wertvollen Rechts-Tipps sucht. Du hast mit diesem E-Book einen Top-Ratgeber für deine Community und Kunden Du wirst am kompletten Sales-Funnel beteiligt! Hohe Conversion, da es aktuelle Themen behandelt. 100% Provision für dich! Der Preis beträgt 4,95€, die komplett dir gehören! Weiters mit 50% beteiligt an Add-On, Up- und Downsell. + 15% Lifetime Provision Über 115€ im Funnel für dich möglich! Der Funnel wird ständig angepasst und erweitert. Viel Erfolg und fette Beute!
 
 ## 2. Links
 

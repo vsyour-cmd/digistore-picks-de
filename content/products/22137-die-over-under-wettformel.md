@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Neues Top Partnerprogramm:<br /><br />+ 50% Provison auf alle Verkäufe!<br />+ zahlreiche Werbemittel zur Verfügung gestellt!<br />+ Persönlicher Support für alle Affiliates!<br />+ Neue Werbegrafiken auf Wunsch!<br /><br />Alle Infos zum Produkt und dem Partnerprogramm sowie die Werbemittel gibt es auf unserer Affiliate Support Seite unter: <a href="http://www.wettformel-affiliate.gr8.com">www.wettformel-affiliate.gr8.com</a><br /><br />Das Produkt:</p>
-<p>- sagt die Wahrscheinichkeit von Sportwetten voraus<br />- wurde getestet und funktioniert<br />- ist für alle Wettbegeisterten und hat einen großen Markt<br />- ist für jeden Sportwettenfreund leistbar<br /><br />Unser Verkauf:<br /><br />- Werbung in allen Sozialen Netzwerken<br />- auch bei kaltem Traffic super Verkaufszahlen<br />- Exit Pop-up mit anschließender, automatischer E-Mail Kampagne für noch mehr Verkäufe<br /><br />Bei Fragen bitte unter: <a href="mailto:wettformel@gmail.com">wettformel@gmail.com</a> melden. </p>
+**Vendor's marketplace description:** Neues Top Partnerprogramm: + 50% Provison auf alle Verkäufe! + zahlreiche Werbemittel zur Verfügung gestellt! + Persönlicher Support für alle Affiliates! + Neue Werbegrafiken auf Wunsch! Alle Infos zum Produkt und dem Partnerprogramm sowie die Werbemittel gibt es auf unserer Affiliate Support Seite unter: www.wettformel-affiliate.gr8.com Das Produkt: - sagt die Wahrscheinichkeit von Sportwetten voraus - wurde getestet und funktioniert - ist für alle Wettbegeisterten und hat einen großen Markt - ist für jeden Sportwettenfreund leistbar Unser Verkauf: - Werbung in allen Sozialen Netzwerken - auch bei kaltem Traffic super Verkaufszahlen - Exit Pop-up mit anschließender, automatischer E-Mail Kampagne für noch mehr Verkäufe Bei Fragen bitte unter: wettformel@gmail.com melden.
 
 ## 2. Links
 

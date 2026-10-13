@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>5 Premium-Ratgeber für alle, die KI endlich verstehen und nutzen wollen — ohne Technik-Vorwissen.</p>
-<p>Für JEDEN geeignet: Angestellte, Selbstständige, Unternehmer oder einfach neugierige Menschen. Absolut anfängerfreundlich.</p>
-<p> </p>
+**Vendor's marketplace description:** 5 Premium-Ratgeber für alle, die KI endlich verstehen und nutzen wollen — ohne Technik-Vorwissen. Für JEDEN geeignet: Angestellte, Selbstständige, Unternehmer oder einfach neugierige Menschen. Absolut anfängerfreundlich.
 
 ## 2. Links
 

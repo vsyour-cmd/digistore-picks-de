@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<p><strong>Jeden Tag dieselben Fragen im Facebook-Messenger? Ab jetzt beantworten sie sich von selbst.</strong></p>
-<p>„ManyChat für Einsteiger" ist das Grundlagenbuch für alle, die ihre Facebook-Seite betreiben und wiederkehrende Anfragen automatisieren wollen – ohne Programmierkenntnisse, ohne Marketingstudium und ohne ihre Kontakte mit Spam zu vergraulen.</p>
-<p>Du lernst nicht nur, wo du klicken musst, sondern warum ein Flow so aufgebaut ist. Schritt für Schritt baust du sechs echte Praxisprojekte:</p>
-<ul>
-<li>Willkommens-Flow – der perfekte erste Eindruck</li>
-<li>Lead-Magnet-Flow – Freebies automatisch ausliefern</li>
-<li>FAQ-Bot – häufige Fragen sofort beantworten</li>
-<li>Termin- &amp; Beratungsanfrage-Flow – Anfragen vorstrukturieren</li>
-<li>Einfacher Verkaufs-Flow – Vertrauen vor Angebot</li>
-<li>Reaktivierungs-Flow – inaktive Kontakte respektvoll zurückholen</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>21 Kapitel in 6 Teilen – von den Grundlagen bis zum fertigen System</li>
-<li>Gestaltete Schaubilder und Flow-Diagramme zu jedem wichtigen Konzept</li>
-<li>7-Tage-Umsetzungsplan: vom Login zum funktionierenden Setup</li>
-<li>Anhänge mit Nachrichten-Vorlagen, Tag-System und Flow-Prüfliste</li>
-<li>Kapitel zu Einwilligung, Datenschutz und Spam-Vermeidung</li>
-</ul>
-<p><strong>Für wen:</strong> Einsteiger ohne Vorkenntnisse – Selbstständige, kleine Unternehmen, Coaches und alle, die neben Job oder Ruhestand ein Online-Standbein aufbauen.</p>
-<p><strong>Format:</strong> eBook als PDF, sofort nach dem Kauf herunterladbar. Stand: Juni 2026.</p>
-</div>
-</div>
-<div> </div>
+**Vendor's marketplace description:** Jeden Tag dieselben Fragen im Facebook-Messenger? Ab jetzt beantworten sie sich von selbst. „ManyChat für Einsteiger" ist das Grundlagenbuch für alle, die ihre Facebook-Seite betreiben und wiederkehrende Anfragen automatisieren wollen – ohne Programmierkenntnisse, ohne Marketingstudium und ohne ihre Kontakte mit Spam zu vergraulen. Du lernst nicht nur, wo du klicken musst, sondern warum ein Flow so aufgebaut ist. Schritt für Schritt baust du sechs echte Praxisprojekte: Willkommens-Flow – der perfekte erste Eindruck Lead-Magnet-Flow – Freebies automatisch ausliefern FAQ-Bot – häufige Fragen sofort beantworten Termin- & Beratungsanfrage-Flow – Anfragen vorstrukturieren Einfacher Verkaufs-Flow – Vertrauen vor Angebot Reaktivierungs-Flow – inaktive Kontakte respektvoll zurückholen Das steckt drin: 21 Kapitel in 6 Teilen – von den Grundlagen bis zum fertigen System Gestaltete Schaubilder und Flow-Diagramme zu jedem wichtigen Konzept 7-Tage-Umsetzungsplan: vom Login zum funktionierenden Setup Anhänge mit Nachrichten-Vorlagen, Tag-System und Flow-Prüfliste Kapitel zu Einwilligung, Datenschutz und Spam-Vermeidung Für wen: Einsteiger ohne Vorkenntnisse – Selbstständige, kleine Unternehmen, Coaches und alle, die neben Job oder Ruhestand ein Online-Standbein aufbauen. Format: eBook als PDF, sofort nach dem Kauf herunterladbar. Stand: Juni 2026.
 
 ## 2. Links
 

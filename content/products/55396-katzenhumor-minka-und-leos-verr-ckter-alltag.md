@@ -41,57 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses Hörbuch entführt dich in die witzige Welt von Minka und Leo –<br />zwei neugierige Stubentiger mit einem Talent für kreative Streiche<br />und überraschende Abenteuer.</p>
-<p>Erlebe humorvolle Geschichten aus der Katzenperspektive,<br />voller Charme, Wortwitz und liebevoll erzählter Alltagssituationen.</p>
-<p><strong>Inhalte u. a.:</strong></p>
-<ul>
-<li>
-<p>Humorvolle Abenteuer aus dem Katzenalltag</p>
-</li>
-<li>
-<p>Charmante Streiche und kreative „Geheimpläne“</p>
-</li>
-<li>
-<p>Unterhaltung aus der Sicht neugieriger Stubentiger</p>
-</li>
-<li>
-<p>Leicht verständlich und familienfreundlich erzählt</p>
-</li>
-<li>
-<p>Gute-Laune-Geschichten für Katzenliebhaber</p>
-</li>
-</ul>
-<p><strong>Für wen geeignet:</strong></p>
-<ul>
-<li>
-<p>Katzenfreunde jeden Alters</p>
-</li>
-<li>
-<p>Familien, die humorvolle Hörgeschichten lieben</p>
-</li>
-<li>
-<p>Tierliebhaber mit Sinn für Wortwitz</p>
-</li>
-<li>
-<p>Menschen, die leichte und unterhaltsame Geschichten suchen</p>
-</li>
-</ul>
-<p><strong>Warum dieses Hörbuch besonders ist:</strong></p>
-<ul>
-<li>
-<p>Mit viel Humor und Herz erzählt</p>
-</li>
-<li>
-<p>Alltagssituationen kreativ neu interpretiert</p>
-</li>
-<li>
-<p>Ideal zum Entspannen und Schmunzeln</p>
-</li>
-<li>
-<p>Familienfreundliche Unterhaltung</p>
-</li>
-</ul>
-<p><strong>Hinweis für Affiliates:</strong><br />Dieses Hörbuch spricht eine breite Zielgruppe<br />von Katzenliebhabern und Familien an<br />und eignet sich ideal für humororientierte Inhalte<br />und Social-Media-Empfehlungen.</p>
+**Vendor's marketplace description:** Dieses Hörbuch entführt dich in die witzige Welt von Minka und Leo – zwei neugierige Stubentiger mit einem Talent für kreative Streiche und überraschende Abenteuer. Erlebe humorvolle Geschichten aus der Katzenperspektive, voller Charme, Wortwitz und liebevoll erzählter Alltagssituationen. Inhalte u. a.: Humorvolle Abenteuer aus dem Katzenalltag Charmante Streiche und kreative „Geheimpläne“ Unterhaltung aus der Sicht neugieriger Stubentiger Leicht verständlich und familienfreundlich erzählt Gute-Laune-Geschichten für Katzenliebhaber Für wen geeignet: Katzenfreunde jeden Alters Familien, die humorvolle Hörgeschichten lieben Tierliebhaber mit Sinn für Wortwitz Menschen, die leichte und unterhaltsame Geschichten suchen Warum dieses Hörbuch besonders ist: Mit viel Humor und Herz erzählt Alltagssituationen kreativ neu interpretiert Ideal zum Entspannen und Schmunzeln Familienfreundliche Unterhaltung Hinweis für Affiliates: Dieses Hörbuch spricht eine breite Zielgruppe von Katzenliebhabern und Familien an und eignet sich ideal für humororientierte Inhalte und Social-Media-Empfehlungen.
 
 ## 2. Links
 

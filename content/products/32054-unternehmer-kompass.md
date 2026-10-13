@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>Unternehmer Kompass</div>
-<div>
-<p>Der Unternehmer Kompass hebt Unternehmen auf das nächste Level. Lass uns starten... Bis gleich! Dein Mike Fischer</p>
-</div>
+**Vendor's marketplace description:** Unternehmer Kompass Der Unternehmer Kompass hebt Unternehmen auf das nächste Level. Lass uns starten... Bis gleich! Dein Mike Fischer
 
 ## 2. Links
 

@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Hauptbeschreibung</h3>
-<p><strong>Verdiene 50 % Provision pro Sale als Affiliate!</strong><br />Dieses Paket ist perfekt für alle, die ihren Macher-Typ weiterentwickeln, Blockaden überwinden und mit Fokus und Struktur an Projekten arbeiten wollen. Ideal für deinen Newsletter, Blog oder Social Media!</p>
-<h3>Kurzbeschreibung</h3>
-<p>Entdecke die Stärken deines Macher-Typen! Mit detaillierter Typenanalyse, binauralen Beats und einem praxisnahen Workbook lernst du, deine Ideen in die Tat umzusetzen und dein volles Potenzial zu entfalten.</p>
-<h3><strong>Das erhält der Kunde:</strong></h3>
-<p><strong>Detaillierte Typenanalyse (PDF):</strong><br />Erhalte tiefgehende Einblicke in die Stärken und Entwicklungsmöglichkeiten deines Macher-Typen.</p>
-<p><strong>Binaurale Beats (MP3):</strong><br />Speziell abgestimmte Frequenzen, die dich in einen produktiven Flow bringen und mentale Blockaden lösen.</p>
-<p><strong>Praxisorientiertes Workbook (PDF):</strong><br />Ein Workbook, das dir hilft, deine Projekte mit Fokus und Struktur umzusetzen und deinen Arbeitsstil zu optimieren.</p>
-<h3><strong>Was macht dieses Paket so wertvoll?</strong></h3>
-<ul>
-<li><strong>Fokus auf Ergebnisse:</strong> Entwickle deine Stärken und lerne, wie du Ideen schneller und effektiver in die Realität umsetzt.</li>
-<li><strong>Verbessere Beziehungen:</strong> Nutze deine Fähigkeiten, um mit deinem Umfeld harmonisch und produktiv zusammenzuarbeiten.</li>
-<li><strong>Erreiche deine Ziele:</strong> Steigere deine Produktivität und finde Klarheit in deiner Lebensgestaltung.</li>
-<li><strong>Hole das Maximum aus dir heraus:</strong> Mit Tools und Techniken, die speziell für Macher entwickelt wurden.</li>
-</ul>
+**Vendor's marketplace description:** Hauptbeschreibung Verdiene 50 % Provision pro Sale als Affiliate! Dieses Paket ist perfekt für alle, die ihren Macher-Typ weiterentwickeln, Blockaden überwinden und mit Fokus und Struktur an Projekten arbeiten wollen. Ideal für deinen Newsletter, Blog oder Social Media! Kurzbeschreibung Entdecke die Stärken deines Macher-Typen! Mit detaillierter Typenanalyse, binauralen Beats und einem praxisnahen Workbook lernst du, deine Ideen in die Tat umzusetzen und dein volles Potenzial zu entfalten. Das erhält der Kunde: Detaillierte Typenanalyse (PDF): Erhalte tiefgehende Einblicke in die Stärken und Entwicklungsmöglichkeiten deines Macher-Typen. Binaurale Beats (MP3): Speziell abgestimmte Frequenzen, die dich in einen produktiven Flow bringen und mentale Blockaden lösen. Praxisorientiertes Workbook (PDF): Ein Workbook, das dir hilft, deine Projekte mit Fokus und Struktur umzusetzen und deinen Arbeitsstil zu optimieren. Was macht dieses Paket so wertvoll? Fokus auf Ergebnisse: Entwickle deine Stärken und lerne, wie du Ideen schneller und effektiver in die Realität umsetzt. Verbessere Beziehungen: Nutze deine Fähigkeiten, um mit deinem Umfeld harmonisch und produktiv zusammenzuarbeiten. Erreiche deine Ziele: Steigere deine Produktivität und finde Klarheit in deiner Lebensgestaltung. Hole das Maximum aus dir heraus: Mit Tools und Techniken, die speziell für Macher entwickelt wurden.
 
 ## 2. Links
 

@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:left;">52 Seiten, Hardcover, ab 4 J., deutsch. </p>
-<p>Produktion: Klimaneutral in Deutschland</p>
-<p> </p>
-<p><strong>Was dieses Buch für dich bereithält:</strong></p>
-<p> </p>
-<p><strong>1. Kurzgeschichten</strong></p>
-<p>​​Vielseitig: 13 Kurzgeschichten zu unterschiedlichen Familienmodellen</p>
-<p>​Kurz und prägnant: Super geeignet zum Lesen "zwischendurch"</p>
-<p>​Leicht verständlich: Zum Vorlesen und selber lesen</p>
-<p> </p>
-<p><strong>2. Fachwissen</strong></p>
-<p>Über Pflege- &amp; Adoptivfamillien: Wo liegen die Unterschiede?</p>
-<p>​​Über das Jugendamt: Welche Rolle spielt es und wie geht es vor? </p>
-<p>Begriffserklärungen: z. B. Bauchmama, Besuchskontakte, Leihmutterschaft uvm.</p>
-<p> </p>
-<p style="text-align:left;"><strong>3. Zur Wertevermittlung: </strong></p>
-<p>Offenheit, Toleranz und Akzeptanz</p>
-<p>​Zum Fragen stellen: Um Neues zu erlernen und zu verstehen</p>
-<p>​​Für tiefgehende Gespräche: zur eigenen Familienform und Herkunft</p>
+**Vendor's marketplace description:** 52 Seiten, Hardcover, ab 4 J., deutsch. Produktion: Klimaneutral in Deutschland Was dieses Buch für dich bereithält: 1. Kurzgeschichten ​​Vielseitig: 13 Kurzgeschichten zu unterschiedlichen Familienmodellen ​Kurz und prägnant: Super geeignet zum Lesen "zwischendurch" ​Leicht verständlich: Zum Vorlesen und selber lesen 2. Fachwissen Über Pflege- & Adoptivfamillien: Wo liegen die Unterschiede? ​​Über das Jugendamt: Welche Rolle spielt es und wie geht es vor? Begriffserklärungen: z. B. Bauchmama, Besuchskontakte, Leihmutterschaft uvm. 3. Zur Wertevermittlung: Offenheit, Toleranz und Akzeptanz ​Zum Fragen stellen: Um Neues zu erlernen und zu verstehen ​​Für tiefgehende Gespräche: zur eigenen Familienform und Herkunft
 
 ## 2. Links
 

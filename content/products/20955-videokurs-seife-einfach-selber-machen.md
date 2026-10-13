@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Selbst gemachte Naturseifen</strong> sind nicht nur besondere und hochwertige Pflegeprodukte, sondern stellen auch ein perfektes, sinnliches und persönliches Geschenk zu jedem Anlass dar.</p>
-<p>Das Besondere an<strong> selbst gemachter Seife</strong> ist, dass diese <strong>frei von unerwünschten chemischen Zusatzstoffen</strong> ist und Du hochwertige Öle, Fette und pflanzliche Inhaltsstoffe wie Kräuter sowie feinste ätherische Öle verwenden kannst. Das Beste: <strong>Du kannst Dir Deine Seife herstellen, wie Du sie am liebsten hast</strong> und wie Deine Haut sie verträgt.</p>
-<p>Im <strong>Online-Videokurs</strong> erklärt Sophia Wagner einfach und verständlich, wie man <strong>wunderbare Seifen selbst herstellen</strong> kann. Der Teilnehmer lernt <strong>Schritt für Schritt</strong>, eigene Seife herzustellen, und bekommt <strong>wichtige Tipps und Tricks</strong> bei der Produktion.</p>
-<p>Sophia Wagner studierte an der Akademie der Bildenden Künste in Nürnberg und gründete Sophia im Jahr 2006 die Designwerkstatt <a><strong>„ARTZULEBEN“</strong></a>.<br /><br />Bereits seit vielen Jahren ist Sophia begeisterte Seifensiederin und arbeitet derzeit an einem Seifen-Baukastensystem für Anfänger und Fortgeschritte.</p>
-<p><strong>Bekannt von: LiebesLand, LandLust, LandIdyll, TOPP Verlag, filzfun</strong></p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Selbst gemachte Naturseifen sind nicht nur besondere und hochwertige Pflegeprodukte, sondern stellen auch ein perfektes, sinnliches und persönliches Geschenk zu jedem Anlass dar. Das Besondere an selbst gemachter Seife ist, dass diese frei von unerwünschten chemischen Zusatzstoffen ist und Du hochwertige Öle, Fette und pflanzliche Inhaltsstoffe wie Kräuter sowie feinste ätherische Öle verwenden kannst. Das Beste: Du kannst Dir Deine Seife herstellen, wie Du sie am liebsten hast und wie Deine Haut sie verträgt. Im Online-Videokurs erklärt Sophia Wagner einfach und verständlich, wie man wunderbare Seifen selbst herstellen kann. Der Teilnehmer lernt Schritt für Schritt , eigene Seife herzustellen, und bekommt wichtige Tipps und Tricks bei der Produktion. Sophia Wagner studierte an der Akademie der Bildenden Künste in Nürnberg und gründete Sophia im Jahr 2006 die Designwerkstatt „ARTZULEBEN“ . Bereits seit vielen Jahren ist Sophia begeisterte Seifensiederin und arbeitet derzeit an einem Seifen-Baukastensystem für Anfänger und Fortgeschritte. Bekannt von: LiebesLand, LandLust, LandIdyll, TOPP Verlag, filzfun
 
 ## 2. Links
 

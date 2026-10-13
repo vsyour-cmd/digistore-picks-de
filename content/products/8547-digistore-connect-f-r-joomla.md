@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit der <strong>Digistore Connect Erweiterung</strong> verbinden Sie Ihre Joomla! Webseite mit dem Affiliate- und Bezahldienstleister <strong>Digistore24</strong>.<br /><br />Sie können mit Joomla! eigenen Funktionen oder anderen Erweiterungen ein Verkaufsportal u.a. für Digitale Produkte, Downloads, Seminare o.Ä. anbieten.</p>
-<p>Infos zur aktuellen Version, den Funktionen und Dokumentation finden Sie unter:<br /><a title="https://medialekt.de/de/webdesign-entwicklung/joomla-erweiterungen/digistore-connect" href="https://medialekt.de/de/webdesign-entwicklung/joomla-erweiterungen/digistore-connect" target="_blank" rel="noreferrer noopener">https://medialekt.de/de/webdesign-entwicklung/joomla-erweiterungen/digistore-connect</a></p>
-<p> </p>
-<p><strong>Erhalten Sie 20% bei Verkauf des Pakets über Ihren Promo Link!</strong></p>
-<p> </p>
+**Vendor's marketplace description:** Mit der Digistore Connect Erweiterung verbinden Sie Ihre Joomla! Webseite mit dem Affiliate- und Bezahldienstleister Digistore24 . Sie können mit Joomla! eigenen Funktionen oder anderen Erweiterungen ein Verkaufsportal u.a. für Digitale Produkte, Downloads, Seminare o.Ä. anbieten. Infos zur aktuellen Version, den Funktionen und Dokumentation finden Sie unter: https://medialekt.de/de/webdesign-entwicklung/joomla-erweiterungen/digistore-connect Erhalten Sie 20% bei Verkauf des Pakets über Ihren Promo Link!
 
 ## 2. Links
 

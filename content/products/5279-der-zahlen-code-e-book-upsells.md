@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die Heilmatrix der Zahlen (das ultimative Praxis-Buch)<br /><br /></strong></p>
-<p>Individuelle Zahlenreihen selbst codieren. Das ultimative Anwenderbuch zur Heilmatrix der Zahlen. Angewandte Neue Russische Heiltechniken kombiniert mit den Methoden der Erfahrungs-Medizin aus der ganzheitlichen Heiler-Praxis und den Seminaren von Rosina Kaiser. <br /><br /></p>
-<p><span style="color:#ff0000;"><a style="color:#ff0000;" href="http://www.rosina-kaiser-produkte.de/partnerprogramm/" target="_blank" rel="noreferrer noopener">Melde dich hier zu unserem Affiliate-Programm an<br /><br /></a></span></p>
-<p>Dieses Produkt und der Verkaufsprozess wurde vielfach getestet. Laufend führen wir neue Tests durch und optimieren den Vertrieb.<br /><br /></p>
-<p>Anhand der Statistiken siehst Du selbst sehr deutlich, dass die Conversion-Rate sehr gut ist und es so gut wie keine Stornos gibt.<br /><br /></p>
-<p>Viele Grüße,<br />Rosina Kaiser</p>
-<p> </p>
-<p>Link: <span style="color:#ff0000;"><a style="color:#ff0000;" href="http://www.rosina-kaiser-produkte.de/partnerprogramm/" target="_blank" rel="noreferrer noopener">Hier gehts zum Affiliate-Programm</a></span></p>
+**Vendor's marketplace description:** Die Heilmatrix der Zahlen (das ultimative Praxis-Buch) Individuelle Zahlenreihen selbst codieren. Das ultimative Anwenderbuch zur Heilmatrix der Zahlen. Angewandte Neue Russische Heiltechniken kombiniert mit den Methoden der Erfahrungs-Medizin aus der ganzheitlichen Heiler-Praxis und den Seminaren von Rosina Kaiser. Melde dich hier zu unserem Affiliate-Programm an Dieses Produkt und der Verkaufsprozess wurde vielfach getestet. Laufend führen wir neue Tests durch und optimieren den Vertrieb. Anhand der Statistiken siehst Du selbst sehr deutlich, dass die Conversion-Rate sehr gut ist und es so gut wie keine Stornos gibt. Viele Grüße, Rosina Kaiser Link: Hier gehts zum Affiliate-Programm
 
 ## 2. Links
 

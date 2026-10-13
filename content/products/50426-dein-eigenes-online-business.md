@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verdiene 50% Provision mit „Dein eigenes Online Business“ eBook!</strong></p>
-<p>Biete deinen Interessenten das perfekte Tool, um ihr eigenes Online-Business zu starten – und verdiene dabei <strong>50% Provision</strong>!</p>
-<p><strong>Warum bewerben?</strong></p>
-<ul>
-<li><strong>Einfache Anleitung</strong> für Einsteiger und Profis</li>
-<li><strong>Verdiene bis zu 1.400 € pro Monat</strong> mit bewährten Strategien</li>
-<li><strong>Kein Budget nötig</strong> für Traffic – alles im eBook enthalten</li>
-</ul>
-<p>Starte noch heute und sichere dir regelmäßige Provisionen mit einem Produkt, das immer gefragt ist!</p>
-<p>Erhalte zusätzlich 50% Provision für alle Up- und Downsells.</p>
+**Vendor's marketplace description:** Verdiene 50% Provision mit „Dein eigenes Online Business“ eBook! Biete deinen Interessenten das perfekte Tool, um ihr eigenes Online-Business zu starten – und verdiene dabei 50% Provision ! Warum bewerben? Einfache Anleitung für Einsteiger und Profis Verdiene bis zu 1.400 € pro Monat mit bewährten Strategien Kein Budget nötig für Traffic – alles im eBook enthalten Starte noch heute und sichere dir regelmäßige Provisionen mit einem Produkt, das immer gefragt ist! Erhalte zusätzlich 50% Provision für alle Up- und Downsells.
 
 ## 2. Links
 

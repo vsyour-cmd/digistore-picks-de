@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>„Dollar-Dominanz“ trifft ein hochaktuelles Thema, das Politik, Finanzen, Inflation, BRICS, Gold, CBDCs und die Zukunft des globalen Geldsystems verbindet – ideal für Zielgruppen aus den Bereichen Finanzen, Wirtschaft, Geopolitik und Investment.</p>
-<p>Das Buch zeigt verständlich, wie der US-Dollar zur Weltmacht wurde, welche Risiken das aktuelle System birgt und welche Alternativen bereits entstehen.</p>
-<p>Die Kombination aus Krisenangst, finanzieller Unsicherheit und dem Wunsch nach unabhängigen Informationen erzeugt starke Kaufimpulse.</p>
-<p>Ein kontroverses, emotionales und dauerhaft relevantes Thema mit hoher Reichweite – perfekt für Affiliates, die auf wirtschaftliche Aufklärung, Finanzfreiheit und geopolitische Trends setzen.</p>
+**Vendor's marketplace description:** „Dollar-Dominanz“ trifft ein hochaktuelles Thema, das Politik, Finanzen, Inflation, BRICS, Gold, CBDCs und die Zukunft des globalen Geldsystems verbindet – ideal für Zielgruppen aus den Bereichen Finanzen, Wirtschaft, Geopolitik und Investment. Das Buch zeigt verständlich, wie der US-Dollar zur Weltmacht wurde, welche Risiken das aktuelle System birgt und welche Alternativen bereits entstehen. Die Kombination aus Krisenangst, finanzieller Unsicherheit und dem Wunsch nach unabhängigen Informationen erzeugt starke Kaufimpulse. Ein kontroverses, emotionales und dauerhaft relevantes Thema mit hoher Reichweite – perfekt für Affiliates, die auf wirtschaftliche Aufklärung, Finanzfreiheit und geopolitische Trends setzen.
 
 ## 2. Links
 

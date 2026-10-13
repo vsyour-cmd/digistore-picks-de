@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Onlinekurs – 129 € Verkaufspreis</strong></p>
-<p>Affiliates erhalten eine Provision von 44 % für erfolgreich vermittelte Verkäufe.</p>
-<p><strong>5 Bausteine in die Präsenz </strong>arbeitet mit der Körperachse und ist ein attraktiver Onlinekurs für Menschen, die:</p>
-<ol>
-<li>sich auf der Bühne ihres Lebens selbstbewusster fühlen möchten</li>
-<li>körperlichen Herausforderungen im Alltag und im Job mit mehr Stabilität und Leichtigkeit begegnen möchten</li>
-<li>ihre Körpersprache im Dialog feiner nutzen möchten<strong><br /></strong></li>
-</ol>
-<p><strong>5 Bausteine in deine Körperpräsenz ist ein Selbstlernkurs für ein gutes Körpergefühl und gesunde Bewegung mit leichten Schritt für Schritt Videos.</strong></p>
-<p>Darüber hinaus ist die im Kurs vermittelte Körperachse Basis für Tangotänzer*innen und Reiter*innen.</p>
-<p>12 Monate Zugriff auf alle Videos.</p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Onlinekurs – 129 € Verkaufspreis Affiliates erhalten eine Provision von 44 % für erfolgreich vermittelte Verkäufe. 5 Bausteine in die Präsenz arbeitet mit der Körperachse und ist ein attraktiver Onlinekurs für Menschen, die: sich auf der Bühne ihres Lebens selbstbewusster fühlen möchten körperlichen Herausforderungen im Alltag und im Job mit mehr Stabilität und Leichtigkeit begegnen möchten ihre Körpersprache im Dialog feiner nutzen möchten 5 Bausteine in deine Körperpräsenz ist ein Selbstlernkurs für ein gutes Körpergefühl und gesunde Bewegung mit leichten Schritt für Schritt Videos. Darüber hinaus ist die im Kurs vermittelte Körperachse Basis für Tangotänzer*innen und Reiter*innen. 12 Monate Zugriff auf alle Videos.
 
 ## 2. Links
 

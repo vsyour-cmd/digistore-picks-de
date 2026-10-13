@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Bewerbe den ersten wirklich seriösen Online-Kurs der Frauen beibringt eine unvergessliche Liebehaberin zu werden</h1>
-<p>Der Online Kurs für erotische Massagen und einen kreativen Auftritt der jeden Mann dahin schmelzen lässt!</p>
-<p>Mit einer Provision von 35% auf Erst- sowie auf Folgeprodukte ist es besonders attraktiv unsere Angebote zu bewerben. Weitere Kurs-Angebote werden in kürze folgen.</p>
-<p>Gemeinsam mit Intimfitness Expertin Anastasia Romanova entwickeln wir Angebote für die Themen intime Gesundheit und Erotik und haben für den deutschsprachigen Raum die Vision das Thema in eine positive Richtung zu mobilisieren.</p>
-<p>Wir freuen uns auf die Zusammenarbeit!</p>
+**Vendor's marketplace description:** Bewerbe den ersten wirklich seriösen Online-Kurs der Frauen beibringt eine unvergessliche Liebehaberin zu werden Der Online Kurs für erotische Massagen und einen kreativen Auftritt der jeden Mann dahin schmelzen lässt! Mit einer Provision von 35% auf Erst- sowie auf Folgeprodukte ist es besonders attraktiv unsere Angebote zu bewerben. Weitere Kurs-Angebote werden in kürze folgen. Gemeinsam mit Intimfitness Expertin Anastasia Romanova entwickeln wir Angebote für die Themen intime Gesundheit und Erotik und haben für den deutschsprachigen Raum die Vision das Thema in eine positive Richtung zu mobilisieren. Wir freuen uns auf die Zusammenarbeit!
 
 ## 2. Links
 

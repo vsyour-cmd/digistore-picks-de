@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ergänze deinen E-Mail-Verkaufsablauf mit weiteren Textbausteinen und Nachrichtenszenarien.</p>
-<p>Enthalten:<br />• Betreff- und E-Mail-Bausteinbibliothek als PDF<br />• Bearbeitbare DOCX-Vorlagen<br />• Betreff-, Preheader- und CTA-Sammlung als CSV<br />• Nachrichtenszenarien als CSV und Kampagnenbibliothek als Markdown<br />• Startanleitung</p>
-<p>ZIP entpacken. Passe Texte an dein Angebot und deine Empfänger an. Optionaler Zusatz zum E-Mail-Verkaufsablauf; der Hauptkurs ist nicht enthalten.</p>
-<p>Schriftliches Downloadprodukt auf Deutsch. Keine Videolektionen, persönliche Betreuung oder enthaltenen Drittanbieter-Abos. Beispiele sind Übungsmaterial; Verkäufe, Aufträge und Einkommen werden nicht zugesagt. Einmalzahlung, kein Abo.</p>
-<p>Anbieter: Einfach mit Matze / Michael Arndt · info@einfachhaltbar.de. Nutzung für die eigene Arbeit gemäß den beiliegenden Nutzungsregeln. Kein Weiterverkauf der Kursdateien.</p>
-<p>Affiliate-Information: 50,00 % Provision. Eigenständig erhältliches Zusatzpaket; der Hauptkurs ist nicht enthalten. Keine garantierten Verkäufe oder Einnahmen. Kontakt: info@einfachhaltbar.de.</p>
+**Vendor's marketplace description:** Ergänze deinen E-Mail-Verkaufsablauf mit weiteren Textbausteinen und Nachrichtenszenarien. Enthalten: • Betreff- und E-Mail-Bausteinbibliothek als PDF • Bearbeitbare DOCX-Vorlagen • Betreff-, Preheader- und CTA-Sammlung als CSV • Nachrichtenszenarien als CSV und Kampagnenbibliothek als Markdown • Startanleitung ZIP entpacken. Passe Texte an dein Angebot und deine Empfänger an. Optionaler Zusatz zum E-Mail-Verkaufsablauf; der Hauptkurs ist nicht enthalten. Schriftliches Downloadprodukt auf Deutsch. Keine Videolektionen, persönliche Betreuung oder enthaltenen Drittanbieter-Abos. Beispiele sind Übungsmaterial; Verkäufe, Aufträge und Einkommen werden nicht zugesagt. Einmalzahlung, kein Abo. Anbieter: Einfach mit Matze / Michael Arndt · info@einfachhaltbar.de. Nutzung für die eigene Arbeit gemäß den beiliegenden Nutzungsregeln. Kein Weiterverkauf der Kursdateien. Affiliate-Information: 50,00 % Provision. Eigenständig erhältliches Zusatzpaket; der Hauptkurs ist nicht enthalten. Keine garantierten Verkäufe oder Einnahmen. Kontakt: info@einfachhaltbar.de.
 
 ## 2. Links
 

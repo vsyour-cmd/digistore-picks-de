@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die Wu Wei Online Schule hat ein einmaliges Konzept, da zeitgesteuert über 15 Monate die 24 Bilder Choreografie des Tai Chi Chuan vermittelt wird.</p>
-<p>Diese Abfolge ist die weltweit erfolgreichste Art Tai Chi zu praktizieren und wird von dem langjährigen Lehrer, Ausbilder und Autor des Standardwerkes für diese Choreografie Jan Leminsky vermittelt.</p>
-<p>30 Trainings mit wechselnden Orten führen den Teilnehmer an Tai Chi heran und sorgen für Abwechslung und Freude beim Lernen.</p>
+**Vendor's marketplace description:** Die Wu Wei Online Schule hat ein einmaliges Konzept, da zeitgesteuert über 15 Monate die 24 Bilder Choreografie des Tai Chi Chuan vermittelt wird. Diese Abfolge ist die weltweit erfolgreichste Art Tai Chi zu praktizieren und wird von dem langjährigen Lehrer, Ausbilder und Autor des Standardwerkes für diese Choreografie Jan Leminsky vermittelt. 30 Trainings mit wechselnden Orten führen den Teilnehmer an Tai Chi heran und sorgen für Abwechslung und Freude beim Lernen.
 
 ## 2. Links
 

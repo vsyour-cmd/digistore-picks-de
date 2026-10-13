@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div style="text-align:left;">
-<div align="center"><strong><span style="font-size:14pt;line-height:115%;color:#000000;">Von Andreas Beutel</span></strong></div>
-<div align="center"><strong><span style="font-size:28pt;line-height:115%;color:#c00000;">E-Book „Die Platonischen Körper entdecken“</span></strong></div>
-</div>
-<p align="center"><strong><span style="font-size:14pt;line-height:115%;color:#000000;">Tauche ein in die Schönheit der Grundformen des Universums! </span></strong></p>
-<h2 style="text-align:center;">Was Du mit diesem E-Book erhältst:</h2>
-<ul>
-<li>21 seitiges E-Book</li>
-<li>inkl. 5 Baupläne aller Platonischen Körper</li>
-<li>15 min Video FullHD mit vier Kameraperspektiven, in dem ich Dir zeige, wie ich geometrische Modelle zusammenklebe</li>
-<li>Materialliste die Du benötigst zum Basteln</li>
-<li>Ich zeige Dir, wie Du mit Deinen Modellen ein wundervolles Mobile bauen kannst</li>
-<li>Einführung in die geheime Sprache der Geometrie</li>
-<li>Inspirationen zur farblichen Gestaltung</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** Von Andreas Beutel E-Book „Die Platonischen Körper entdecken“ Tauche ein in die Schönheit der Grundformen des Universums! Was Du mit diesem E-Book erhältst: 21 seitiges E-Book inkl. 5 Baupläne aller Platonischen Körper 15 min Video FullHD mit vier Kameraperspektiven, in dem ich Dir zeige, wie ich geometrische Modelle zusammenklebe Materialliste die Du benötigst zum Basteln Ich zeige Dir, wie Du mit Deinen Modellen ein wundervolles Mobile bauen kannst Einführung in die geheime Sprache der Geometrie Inspirationen zur farblichen Gestaltung
 
 ## 2. Links
 

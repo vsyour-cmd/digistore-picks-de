@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2 style="text-align:center;"><strong>Du möchtest helfen die Welt ein Stück besser zu machen?</strong></h2>
-<h4 style="text-align:center;"><strong>Dann verbreite inspirierende Filme und baue Dir ein passives Einkommen auf!</strong></h4>
-<p>Du kannst dazu beitragen, dass sich Filme wie „<em>What the bleep do we know?</em>“,„<em>Emotion</em>“, „<em>Jenseits des Greifbaren</em>“,„<em>Awake</em>“, „<em>Der Weg</em>“ und viele weitere sinnstiftende Filme verbreiten! Werde jetzt Botschafter von maona.tv.</p>
-<p><span style="background-color:#ffff00;"><strong>Pro vermittelter Mitgliedschaft bekommst du von uns <span style="text-decoration:underline;">jeden Monat 1€</span> überwiesen, solange das Abo des Kunden besteht.</strong></span></p>
-<p>✅ Lebenslang wiederkehrende Provisionen in Höhe von 1€ monatlich pro vermitteltem Mitglied </p>
-<p>✅ Die Cookie-Laufzeit beträgt 180 Tage.</p>
-<p>✅ Kontinuierlich optimierter Sales-Funnel</p>
-<p><strong>Klicke rechts auf den blauen Button "<span style="text-decoration:underline;">Jetzt promoten</span>", werde Botschafter und verdiene dir ein passives monatliches Einkommen!</strong> </p>
+**Vendor's marketplace description:** Du möchtest helfen die Welt ein Stück besser zu machen? Dann verbreite inspirierende Filme und baue Dir ein passives Einkommen auf! Du kannst dazu beitragen, dass sich Filme wie „ What the bleep do we know? “,„ Emotion “, „ Jenseits des Greifbaren “,„ Awake “, „ Der Weg “ und viele weitere sinnstiftende Filme verbreiten! Werde jetzt Botschafter von maona.tv. Pro vermittelter Mitgliedschaft bekommst du von uns jeden Monat 1€ überwiesen, solange das Abo des Kunden besteht. ✅ Lebenslang wiederkehrende Provisionen in Höhe von 1€ monatlich pro vermitteltem Mitglied ✅ Die Cookie-Laufzeit beträgt 180 Tage. ✅ Kontinuierlich optimierter Sales-Funnel Klicke rechts auf den blauen Button " Jetzt promoten ", werde Botschafter und verdiene dir ein passives monatliches Einkommen!
 
 ## 2. Links
 

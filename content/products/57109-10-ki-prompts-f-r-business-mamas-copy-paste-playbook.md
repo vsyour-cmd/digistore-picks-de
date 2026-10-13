@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du erhältst ein PDF mit 10 sofort einsetzbaren Copy-Paste KI-Prompts für ChatGPT. Die Prompts helfen dir bei Content-Erstellung, Angebots-Texten und E-Mail-Marketing für dein Business als Mama."</p>
+**Vendor's marketplace description:** Du erhältst ein PDF mit 10 sofort einsetzbaren Copy-Paste KI-Prompts für ChatGPT. Die Prompts helfen dir bei Content-Erstellung, Angebots-Texten und E-Mail-Marketing für dein Business als Mama."
 
 ## 2. Links
 

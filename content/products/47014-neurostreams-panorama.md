@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Neurostreams™ Ausprobier-Produkt. </p>
-<p>11 vielfältige Neurostreams™ als Sofort-Download:</p>
-<ul>
-<li><strong>Treffpunkt Garten Eden </strong>- Wegdösen unter dem Baum der Erkenntnis (30 min)</li>
-<li><strong>DNA Talk </strong>(432 Hz) - Hyperraum-Kommunikation mit Informationsfeldern (30 min)</li>
-<li><strong>Flow trifft Genie</strong> - der "Allrounder" unter den Neurostreams™ (30 min)</li>
-<li><strong>Das innere Kind (THETA)</strong> - Selbstheilungen im Ozean der Thetys (30 min) </li>
-<li><strong>IQ 7000</strong> - Konzentrationstraining (30 min)</li>
-<li><strong>Schleusenöffner</strong> - Blutdruck senken ohne Medikamente (30 min)</li>
-<li><strong>Mini Alpha Breaks</strong> (432 Hz) - Meine kurze Pause! (15 min)</li>
-<li><strong>Wellness Walk</strong> - Komplette totale Stressauflösung (30 min)</li>
-<li><strong>Delta Frischzellenkur</strong> - Regeneration in Rekordzeit (60 min)</li>
-<li><strong>Gamma Hammer</strong> - Der Gute-Laune-Gamma-Stimulator (15 min)</li>
-<li><strong>Der Rest ist Schweigen</strong> - Endlich abschalten können (40 min)</li>
-</ul>
-<p> </p>
-<p>5 Stunden fabelhaft wirksame Neuro-Musik.</p>
-<p>Dateigröße: ca. 300 MB</p>
-<p>Alle Neurostreams™ sind jederzeit auf <strong>unbegrenzt viele</strong> Geräte übertragbar und können <strong>beliebig oft</strong> angehört werden!</p>
-<p>Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux.</p>
-<p><strong>Bonus:</strong> Sofortiger Gutschein-Code in Höhe des Kaufpreises, anrechenbar auf jede Neurostreams™-Sammlung.</p>
-<p><strong>60-Tage</strong>-Geld-zurück-Garantie.</p>
+**Vendor's marketplace description:** Das Neurostreams™ Ausprobier-Produkt. 11 vielfältige Neurostreams™ als Sofort-Download: Treffpunkt Garten Eden - Wegdösen unter dem Baum der Erkenntnis (30 min) DNA Talk (432 Hz) - Hyperraum-Kommunikation mit Informationsfeldern (30 min) Flow trifft Genie - der "Allrounder" unter den Neurostreams™ (30 min) Das innere Kind (THETA) - Selbstheilungen im Ozean der Thetys (30 min) IQ 7000 - Konzentrationstraining (30 min) Schleusenöffner - Blutdruck senken ohne Medikamente (30 min) Mini Alpha Breaks (432 Hz) - Meine kurze Pause! (15 min) Wellness Walk - Komplette totale Stressauflösung (30 min) Delta Frischzellenkur - Regeneration in Rekordzeit (60 min) Gamma Hammer - Der Gute-Laune-Gamma-Stimulator (15 min) Der Rest ist Schweigen - Endlich abschalten können (40 min) 5 Stunden fabelhaft wirksame Neuro-Musik. Dateigröße: ca. 300 MB Alle Neurostreams™ sind jederzeit auf unbegrenzt viele Geräte übertragbar und können beliebig oft angehört werden! Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux. Bonus: Sofortiger Gutschein-Code in Höhe des Kaufpreises, anrechenbar auf jede Neurostreams™-Sammlung. 60-Tage -Geld-zurück-Garantie.
 
 ## 2. Links
 

@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate-Partner:in für „Work Life Balance“ von Nina Hartmann</strong></p>
-<p>Nina Hartmann ist Rechtsanwältin und studierte Personalentwicklerin. Sie verbindet fundiertes Wissen mit psychologischer Tiefe und weiblicher Intuition.<br />Im Kurs <em>Work Life Balance</em> unterstützt sie Frauen dabei, alte Leistungs- und Anpassungsmuster zu erkennen, loszulassen und zu einer neuen inneren Balance zu finden – für mehr Klarheit, Energie und Lebensfreude.</p>
-<p>Für dich als Affiliate-Partner:in bedeutet das:</p>
-<ul>
-<li>
-<p><strong>Ein seriöses, wachsendes Produktportfolio</strong> mit hoher Glaubwürdigkeit.</p>
-</li>
-<li>
-<p><strong>Hohe Conversion-Rate</strong>, weil Zielgruppe, Sprache und Nutzen präzise aufeinander abgestimmt sind.</p>
-</li>
-<li>
-<p><strong>Langfristige Kooperation</strong>: Ninas Kursangebote werden kontinuierlich erweitert und bieten Folgeprodukte im Bereich weibliche Selbstermächtigung, Business und innere Arbeit.</p>
-</li>
-</ul>
-<p>Empfiehl Programme, die wirken – authentisch, fundiert und mit echter Transformation.</p>
+**Vendor's marketplace description:** Werde Affiliate-Partner:in für „Work Life Balance“ von Nina Hartmann Nina Hartmann ist Rechtsanwältin und studierte Personalentwicklerin. Sie verbindet fundiertes Wissen mit psychologischer Tiefe und weiblicher Intuition. Im Kurs Work Life Balance unterstützt sie Frauen dabei, alte Leistungs- und Anpassungsmuster zu erkennen, loszulassen und zu einer neuen inneren Balance zu finden – für mehr Klarheit, Energie und Lebensfreude. Für dich als Affiliate-Partner:in bedeutet das: Ein seriöses, wachsendes Produktportfolio mit hoher Glaubwürdigkeit. Hohe Conversion-Rate , weil Zielgruppe, Sprache und Nutzen präzise aufeinander abgestimmt sind. Langfristige Kooperation : Ninas Kursangebote werden kontinuierlich erweitert und bieten Folgeprodukte im Bereich weibliche Selbstermächtigung, Business und innere Arbeit. Empfiehl Programme, die wirken – authentisch, fundiert und mit echter Transformation.
 
 ## 2. Links
 

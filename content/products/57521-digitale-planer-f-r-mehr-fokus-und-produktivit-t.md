@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Teil von Never Average und unterstütze Menschen dabei, mehr Struktur, Fokus und nachhaltige Gewohnheiten in ihren Alltag zu bringen.</strong></p>
-<p>Ich entwickle hochwertige digitale Produkte rund um Produktivität, Gewohnheiten und persönliche Entwicklung – darunter Tagesplaner, Reflexionsvorlagen sowie die <strong>Never Average App</strong>, die Nutzer mit täglichen Check-ins und individuellen Reframings dabei unterstützt, langfristig dranzubleiben.</p>
-<p>Neben dem Verkauf über DigiStore24 betreibe ich außerdem einen eigenen Onlineshop. <strong>Affiliate-Rabattcodes</strong> für den Direktverkauf sind ebenfalls möglich und können individuell für unsere Zusammenarbeit eingerichtet werden.</p>
-<p><strong>Ich suche keine kurzfristigen Werbepartner, sondern langfristige Business-Partner</strong>, die meine Vision teilen und gemeinsam mit mir eine starke Marke im Bereich Persönlichkeitsentwicklung aufbauen möchten.</p>
-<p>Wenn du glaubst, dass Never Average zu deiner Community passt oder du Ideen für eine Zusammenarbeit hast, freue ich mich auf deine Nachricht.</p>
-<p><strong>Instagram:</strong> @nick4nders</p>
+**Vendor's marketplace description:** Werde Teil von Never Average und unterstütze Menschen dabei, mehr Struktur, Fokus und nachhaltige Gewohnheiten in ihren Alltag zu bringen. Ich entwickle hochwertige digitale Produkte rund um Produktivität, Gewohnheiten und persönliche Entwicklung – darunter Tagesplaner, Reflexionsvorlagen sowie die Never Average App , die Nutzer mit täglichen Check-ins und individuellen Reframings dabei unterstützt, langfristig dranzubleiben. Neben dem Verkauf über DigiStore24 betreibe ich außerdem einen eigenen Onlineshop. Affiliate-Rabattcodes für den Direktverkauf sind ebenfalls möglich und können individuell für unsere Zusammenarbeit eingerichtet werden. Ich suche keine kurzfristigen Werbepartner, sondern langfristige Business-Partner , die meine Vision teilen und gemeinsam mit mir eine starke Marke im Bereich Persönlichkeitsentwicklung aufbauen möchten. Wenn du glaubst, dass Never Average zu deiner Community passt oder du Ideen für eine Zusammenarbeit hast, freue ich mich auf deine Nachricht. Instagram: @nick4nders
 
 ## 2. Links
 

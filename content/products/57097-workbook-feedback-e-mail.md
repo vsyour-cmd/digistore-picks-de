@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Workbook Feedback E-Mail richtet sich an alle, die sich aktiv bewerben oder es bald tun. Das Produkt löst ein konkretes, allgegenwärtiges Problem im Bewerbungsprozess: Was tun nach einer Absage?</p>
-<p><br />Mit fertigen E-Mail-Vorlagen, klaren Anleitungen und sofortigem PDF-Download ist die Hemmschwelle zum Kauf sehr gering. Preis-Leistungs-Verhältnis überzeugend. Zielgruppe: Bewerber aller Altersgruppen und Erfahrungsstufen.</p>
-<p><br />Besonders geeignet für: Karriere-Blogs, Job-Plattformen, LinkedIn-Creator, Coaches im Bereich Bewerbung &amp; Karriere.</p>
+**Vendor's marketplace description:** Das Workbook Feedback E-Mail richtet sich an alle, die sich aktiv bewerben oder es bald tun. Das Produkt löst ein konkretes, allgegenwärtiges Problem im Bewerbungsprozess: Was tun nach einer Absage? Mit fertigen E-Mail-Vorlagen, klaren Anleitungen und sofortigem PDF-Download ist die Hemmschwelle zum Kauf sehr gering. Preis-Leistungs-Verhältnis überzeugend. Zielgruppe: Bewerber aller Altersgruppen und Erfahrungsstufen. Besonders geeignet für: Karriere-Blogs, Job-Plattformen, LinkedIn-Creator, Coaches im Bereich Bewerbung & Karriere.
 
 ## 2. Links
 

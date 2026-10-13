@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Verschenke dieses Buch und erhalte 5€ Provision pro Buch! </strong></h2>
-<p><strong>Extrem beliebt bei Zielgruppen im Bereich Persönlichkeitsentwicklung &amp; Dating!</strong></p>
-<ul>
-<li>100 Seiten purer Mehrwert | Softcover</li>
-<li>Im Buch lernt der Leser einen radikal anderen Weg, um bedeutungsvolle Verbindungen aufzubauen</li>
-<li>Als Bonus zum Buch gibt es eine Community und einen 10 Tage Fuck Einsamkeit Crashkurs gratis dazu</li>
-<li>Extrem geringe Stornoquote</li>
-</ul>
-<p>Wir zahlen dir 5€ Provision für jede Bestellung! </p>
+**Vendor's marketplace description:** Verschenke dieses Buch und erhalte 5€ Provision pro Buch! Extrem beliebt bei Zielgruppen im Bereich Persönlichkeitsentwicklung & Dating! 100 Seiten purer Mehrwert | Softcover Im Buch lernt der Leser einen radikal anderen Weg, um bedeutungsvolle Verbindungen aufzubauen Als Bonus zum Buch gibt es eine Community und einen 10 Tage Fuck Einsamkeit Crashkurs gratis dazu Extrem geringe Stornoquote Wir zahlen dir 5€ Provision für jede Bestellung!
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#ff0000;"><strong>[BRANDNEU 2026] Endless Pin-Bundle</strong></span></h2>
-<p>Beim <strong>Endless Pin-Bundle handelt </strong>es sich um 100 FIX &amp; FERTIGE Profi Pin-Vorlagen zur sofortigen Verwendung. Die Pins bringen nachweislich Reichweite &amp; Umsatz. Im Bonus-Videotraining wird gezeigt, wie man mit wenigen Klicks unendlich viele neue Pinterest Pins erstellen kann.</p>
-<p><strong>Du bekommst 60 % Affiliate Provision auf das Initialprodukt und bis zu 60 % Provision auf alle Upsells. </strong></p>
-<p><strong>Im Durchlauf sind +149 € Affiliate-Provision möglich.</strong></p>
+**Vendor's marketplace description:** [BRANDNEU 2026] Endless Pin-Bundle Beim Endless Pin-Bundle handelt es sich um 100 FIX & FERTIGE Profi Pin-Vorlagen zur sofortigen Verwendung. Die Pins bringen nachweislich Reichweite & Umsatz. Im Bonus-Videotraining wird gezeigt, wie man mit wenigen Klicks unendlich viele neue Pinterest Pins erstellen kann. Du bekommst 60 % Affiliate Provision auf das Initialprodukt und bis zu 60 % Provision auf alle Upsells. Im Durchlauf sind +149 € Affiliate-Provision möglich.
 
 ## 2. Links
 

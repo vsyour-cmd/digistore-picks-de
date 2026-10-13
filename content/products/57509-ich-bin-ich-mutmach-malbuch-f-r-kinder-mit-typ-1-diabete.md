@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Ein liebevoll gestaltetes Nischenprodukt für Eltern, Familien und alle, die Kinder mit Typ-1-Diabetes begleiten.</strong></p>
-<p>„Ich bin ich“ ist ein digitales Malbuch, das Kinder mit Typ-1-Diabetes ganz selbstverständlich als fröhliche, aktive und starke Alltagshelden zeigt. Auf <strong>35 kindgerechten Seiten</strong> erleben die Kinder typische Situationen wie Kindergarten, Schule, Sport, Geburtstag, Arztbesuch, Ausflüge und gemütliche Momente zu Hause. Sensor und Insulinpumpe werden dabei sichtbar und positiv in den Alltag integriert.</p>
-<p>Neben zahlreichen Ausmalbildern enthält das PDF liebevolle Mutmachbotschaften, eine Urkunde und eine persönliche „Das bin ich“-Seite. Das Produkt eignet sich ideal als Geschenk, kleine Aufmerksamkeit nach der Diagnose, Beschäftigung für zu Hause oder als unterstützendes Material für Familien, Diabetesambulanzen, Beratungsstellen und pädagogische Einrichtungen. Es handelt sich um ein kreatives Malbuch und ausdrücklich nicht um einen medizinischen Ratgeber.</p>
-<h3>Warum sich das Produkt gut bewerben lässt</h3>
-<ul>
-<li>klar definierte und emotional erreichbare Zielgruppe</li>
-<li>besonderes Nischenprodukt mit wenig direkter Konkurrenz</li>
-<li>sofortiger digitaler Download ohne Versand</li>
-<li>liebevolle, positive Darstellung statt Angst oder Mitleid</li>
-<li>geeignet für Blogs, Pinterest, Instagram, Familien- und Gesundheitsthemen</li>
-<li><strong>70 % Affiliate-Provision</strong></li>
-</ul>
-<h3>Zielgruppe</h3>
-<p>Eltern und Angehörige von Kindern mit Typ-1-Diabetes, Diabetesberaterinnen und Diabetesberater, Kinderarztpraxen, Diabetesambulanzen, Erzieherinnen, Lehrkräfte sowie Familien- und Gesundheitsblogs.</p>
-<p><strong>Jetzt Affiliate-Partnerschaft anfragen und ein besonderes digitales Kinderprodukt mit echtem emotionalem Mehrwert bewerben.</strong></p>
+**Vendor's marketplace description:** Ein liebevoll gestaltetes Nischenprodukt für Eltern, Familien und alle, die Kinder mit Typ-1-Diabetes begleiten. „Ich bin ich“ ist ein digitales Malbuch, das Kinder mit Typ-1-Diabetes ganz selbstverständlich als fröhliche, aktive und starke Alltagshelden zeigt. Auf 35 kindgerechten Seiten erleben die Kinder typische Situationen wie Kindergarten, Schule, Sport, Geburtstag, Arztbesuch, Ausflüge und gemütliche Momente zu Hause. Sensor und Insulinpumpe werden dabei sichtbar und positiv in den Alltag integriert. Neben zahlreichen Ausmalbildern enthält das PDF liebevolle Mutmachbotschaften, eine Urkunde und eine persönliche „Das bin ich“-Seite. Das Produkt eignet sich ideal als Geschenk, kleine Aufmerksamkeit nach der Diagnose, Beschäftigung für zu Hause oder als unterstützendes Material für Familien, Diabetesambulanzen, Beratungsstellen und pädagogische Einrichtungen. Es handelt sich um ein kreatives Malbuch und ausdrücklich nicht um einen medizinischen Ratgeber. Warum sich das Produkt gut bewerben lässt klar definierte und emotional erreichbare Zielgruppe besonderes Nischenprodukt mit wenig direkter Konkurrenz sofortiger digitaler Download ohne Versand liebevolle, positive Darstellung statt Angst oder Mitleid geeignet für Blogs, Pinterest, Instagram, Familien- und Gesundheitsthemen 70 % Affiliate-Provision Zielgruppe Eltern und Angehörige von Kindern mit Typ-1-Diabetes, Diabetesberaterinnen und Diabetesberater, Kinderarztpraxen, Diabetesambulanzen, Erzieherinnen, Lehrkräfte sowie Familien- und Gesundheitsblogs. Jetzt Affiliate-Partnerschaft anfragen und ein besonderes digitales Kinderprodukt mit echtem emotionalem Mehrwert bewerben.
 
 ## 2. Links
 

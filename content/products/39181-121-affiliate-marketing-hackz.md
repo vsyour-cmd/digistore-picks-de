@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="background-color:#ff0000;color:#ffffff;"><strong>Promote den Sonderreport “121 Affiliate Marketing HACKZ" und verdiene jeden Monat Provisionen!</strong></span></h2>
-<p>Du kannst die “121 Affiliate Marketing HACKZ" an deine Liste oder Kontakte promoten.</p>
-<p><a href="https://docs.google.com/document/d/1h14-9fSqUpQ5dARj2vWWdTH5Zk7YndbV4aHjyGTEgOU/edit?usp=sharing" target="_blank" rel="noreferrer noopener"><strong>Hier geht es zum Partnerprogramm</strong></a></p>
-<hr />
-<div>
-<h3><strong><span style="color:#ff0000;">Deine Vorteile</span></strong></h3>
-<p>Mit den <strong>“121 Affiliate Marketing HACKZ"</strong> bekommst du eine klare Schritt-für-Schritt Erfolgs-Formel an die Hand, wie du mit Affiliate Marketing dein Online Business startest.</p>
-<ul>
-<li>Perfekt geeignet für <strong>Anfänger ohne Vorkenntnisse<br /><br /></strong></li>
-<li>121 wertvolle Tipps, wie du mit Affiliate Marketing erfolgreich startest und deine <strong>eigene E-Mail Liste</strong> aufbaust (In der Liste liegt das Geld!)<br /><br /></li>
-<li>In 3 Schritten erfährst du, welche <strong>Affiliateprodukte sich "Wirklich" verkaufen</strong> und dir mehr Provisionen bringen</li>
-</ul>
-</div>
-<h3><strong><span style="color:#ff0000;">Dein Verdienst</span></strong></h3>
-<ul>
-<li>Der Sales-Funnel ist so aufgebaut, dass danach verschiedene Upsellprodukte mit Abomodellen angeboten werden und du somit <strong>monatlich wiederkehrende Provisionen</strong> verdienen kannst<br /><br /></li>
-<li><strong>Bis zu 324€</strong> (netto) jährliche Provision je Lead möglich</li>
-</ul>
-<hr />
-<p><br />Wir haben viele verschiedene Werbemittel im Partnerprogrammbereich für dich vorbereitet. <br /><strong><a href="https://docs.google.com/document/d/1h14-9fSqUpQ5dARj2vWWdTH5Zk7YndbV4aHjyGTEgOU/edit?usp=sharing" target="_blank" rel="noreferrer noopener">Hier klicken</a></strong></p>
-<div> </div>
+**Vendor's marketplace description:** Promote den Sonderreport “121 Affiliate Marketing HACKZ" und verdiene jeden Monat Provisionen! Du kannst die “121 Affiliate Marketing HACKZ" an deine Liste oder Kontakte promoten. Hier geht es zum Partnerprogramm Deine Vorteile Mit den “121 Affiliate Marketing HACKZ" bekommst du eine klare Schritt-für-Schritt Erfolgs-Formel an die Hand, wie du mit Affiliate Marketing dein Online Business startest. Perfekt geeignet für Anfänger ohne Vorkenntnisse 121 wertvolle Tipps, wie du mit Affiliate Marketing erfolgreich startest und deine eigene E-Mail Liste aufbaust (In der Liste liegt das Geld!) In 3 Schritten erfährst du, welche Affiliateprodukte sich "Wirklich" verkaufen und dir mehr Provisionen bringen Dein Verdienst Der Sales-Funnel ist so aufgebaut, dass danach verschiedene Upsellprodukte mit Abomodellen angeboten werden und du somit monatlich wiederkehrende Provisionen verdienen kannst Bis zu 324€ (netto) jährliche Provision je Lead möglich Wir haben viele verschiedene Werbemittel im Partnerprogrammbereich für dich vorbereitet. Hier klicken
 
 ## 2. Links
 

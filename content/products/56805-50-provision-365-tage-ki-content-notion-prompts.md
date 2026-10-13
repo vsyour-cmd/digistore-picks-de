@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Verdienen Sie mühelos 50% Provision mit einem hochkonvertierenden Premium-Digitalprodukt!</p>
-<p>Unser Bundle enthält einen kompletten 365-Tage Notion Social Media Planer, 50 editierbare Canva-Vorlagen und copy-paste ChatGPT-Prompts.</p>
-<p>Perfekt für die Nischen: Business, Marketing, Content Creation und KI.</p>
+**Vendor's marketplace description:** Verdienen Sie mühelos 50% Provision mit einem hochkonvertierenden Premium-Digitalprodukt! Unser Bundle enthält einen kompletten 365-Tage Notion Social Media Planer, 50 editierbare Canva-Vorlagen und copy-paste ChatGPT-Prompts. Perfekt für die Nischen: Business, Marketing, Content Creation und KI.
 
 ## 2. Links
 

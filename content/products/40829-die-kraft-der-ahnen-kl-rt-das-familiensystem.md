@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Immer wieder Streit mit demselben Familienmitglied, das Gefühl ein schweres Erbe zu tragen oder Stress und Disharmonie in der Kernfamilie lassen sich auf verhindernde, emotionale Muster aus Deiner Ahnenreihe zurückführen.</p>
-<p>Mit seinem Online-Kurs „Die Kraft der Ahnen“ bringt Andreas Goldemann Klarheit in das Familiensystem Deiner Kontakte und verbindet sie wieder mit der Kraft ihrer Vorfahren.</p>
-<p>Das Ganze geschieht durch Goldemanns einmalige, intuitive Arbeit, bei der Du nur präsent im Körper und offen für Veränderung sein brauchst, damit es wirkt.</p>
-<p>Deine Follower erwarten insgesamt 12 Video-Sessions, die sie dabei unterstützen, Belastungen ihrer Ahnenreihe für sich und ihre Nachkommen aufzulösen und dadurch Harmonie in ihre Familie zu bringen.</p>
-<p>Zusätzlich erhalten sie begleitende Sounds, Aufzeichnungen von Live-Session und einen Bonuskurs, um die Ergebnisse zu stabilisieren.</p>
-<p>Was erwartet Dich?</p>
-<ul>
-<li><strong>33 % Provision:</strong> Beim derzeitigen Verkaufspreis von 187 € (Brutto) sind das nach dem Abzug von Gebühren und Umsatzsteuer <strong>48,44 € (Netto)</strong> <strong>für Dich</strong> pro Vermittlung!</li>
-<li><strong>20 % Lifetime-Provision für Folgeprodukte</strong>, die Dein neu gewonnener Lead im Laufe der Jahre bei uns kauft.</li>
-<li><strong>Optimierter Funnel </strong> mit Freebie, Verknappung und toller Conversion.</li>
-</ul>
-<p>Andreas Goldemann ist seit über 25 Jahren als Intuitive, Klangheiler und spiritueller Begleiter tätig und hat mit seiner Arbeit vielen hunderttausend Menschen weltweit geholfen.</p>
-<p><strong>Werde jetzt unser Partner</strong> und empfiehl Deinen Fans unseren Onlinekurs „Die Kraft der Ahnen“, damit auch sie ihr Familiensystem klären.</p>
+**Vendor's marketplace description:** Immer wieder Streit mit demselben Familienmitglied, das Gefühl ein schweres Erbe zu tragen oder Stress und Disharmonie in der Kernfamilie lassen sich auf verhindernde, emotionale Muster aus Deiner Ahnenreihe zurückführen. Mit seinem Online-Kurs „Die Kraft der Ahnen“ bringt Andreas Goldemann Klarheit in das Familiensystem Deiner Kontakte und verbindet sie wieder mit der Kraft ihrer Vorfahren. Das Ganze geschieht durch Goldemanns einmalige, intuitive Arbeit, bei der Du nur präsent im Körper und offen für Veränderung sein brauchst, damit es wirkt. Deine Follower erwarten insgesamt 12 Video-Sessions, die sie dabei unterstützen, Belastungen ihrer Ahnenreihe für sich und ihre Nachkommen aufzulösen und dadurch Harmonie in ihre Familie zu bringen. Zusätzlich erhalten sie begleitende Sounds, Aufzeichnungen von Live-Session und einen Bonuskurs, um die Ergebnisse zu stabilisieren. Was erwartet Dich? 33 % Provision: Beim derzeitigen Verkaufspreis von 187 € (Brutto) sind das nach dem Abzug von Gebühren und Umsatzsteuer 48,44 € (Netto) für Dich pro Vermittlung! 20 % Lifetime-Provision für Folgeprodukte , die Dein neu gewonnener Lead im Laufe der Jahre bei uns kauft. Optimierter Funnel mit Freebie, Verknappung und toller Conversion. Andreas Goldemann ist seit über 25 Jahren als Intuitive, Klangheiler und spiritueller Begleiter tätig und hat mit seiner Arbeit vielen hunderttausend Menschen weltweit geholfen. Werde jetzt unser Partner und empfiehl Deinen Fans unseren Onlinekurs „Die Kraft der Ahnen“, damit auch sie ihr Familiensystem klären.
 
 ## 2. Links
 

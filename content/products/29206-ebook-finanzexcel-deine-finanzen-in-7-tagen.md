@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><strong>eBook + Finanzexcel: Deine Finanzen in 7 Tagen</strong></h4>
-<div>Alle Grundlagen für Vermögensaufbau und geschicktem Umgang mit Geld, ganz ohne aufwändiges Haushaltsbuch. Leicht und ohne Vorwissen anzueignen und geräteübergreifend verfügbar.<br /><br /></div>
-<div> </div>
-<h3><span style="background-color:#ffff00;">ÜBER 1800+ Verkäufe<br />5 € Porvision pro Verkauf<br />Ebook (151 Seiten) + Videoanleitung<br />Vorgefertigte Finanzexcel-Datei<br />Persönlicher Affiliate Support</span></h3>
-<div> </div>
-<div><span style="background-color:#ffffff;">Bekannt durch Pro7 Galileo, SPIEGEL, Stuttgarter Zeitung</span></div>
-<div> </div>
-<div> </div>
+**Vendor's marketplace description:** eBook + Finanzexcel: Deine Finanzen in 7 Tagen Alle Grundlagen für Vermögensaufbau und geschicktem Umgang mit Geld, ganz ohne aufwändiges Haushaltsbuch. Leicht und ohne Vorwissen anzueignen und geräteübergreifend verfügbar. ÜBER 1800+ Verkäufe 5 € Porvision pro Verkauf Ebook (151 Seiten) + Videoanleitung Vorgefertigte Finanzexcel-Datei Persönlicher Affiliate Support Bekannt durch Pro7 Galileo, SPIEGEL, Stuttgarter Zeitung
 
 ## 2. Links
 

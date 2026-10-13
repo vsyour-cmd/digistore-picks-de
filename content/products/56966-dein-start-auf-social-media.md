@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die richtige Plattform wählen, deinen ersten Content veröffentlichen und echte Follower gewinnen</strong></p>
-<p>Du willst auf Social Media starten, aber weißt nicht, welche Plattform zu dir passt – Instagram, TikTok, YouTube oder LinkedIn? Dieses E-Book nimmt dich Schritt für Schritt an die Hand: Du lernst, wie du anhand deiner Zielgruppe, deines Contents und deiner Ziele die richtige Plattform auswählst, dein Profil professionell einrichtest und deinen ersten Content veröffentlichst. Du verstehst, wie Algorithmen auf allen Plattformen grundsätzlich funktionieren, was guten Content auszeichnet und warum Konsistenz entscheidender ist als Perfektion. Kein Fachjargon, keine teuren Tools – nur ein klarer, umsetzbarer Fahrplan, den du heute starten kannst. Am Ende hast du nicht nur einen aktiven Account, sondern ein System, das dich langfristig wachsen lässt.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Die richtige Plattform wählen: ein ehrlicher Vergleich von Instagram, TikTok, YouTube &amp; LinkedIn</li>
-<li>Profil-Optimierung: Bio, Profilbild und erstes Impression auf jeder Plattform</li>
-<li>Content-Grundlagen: Formate, Häufigkeit und der erste Redaktionsplan</li>
-<li>Algorithmus-Prinzipien allgemein: was alle Plattformen belohnen</li>
-<li>Konsistenz-System: so bleibst du langfristig am Ball ohne dich zu überfordern</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Die richtige Plattform wählen, deinen ersten Content veröffentlichen und echte Follower gewinnen Du willst auf Social Media starten, aber weißt nicht, welche Plattform zu dir passt – Instagram, TikTok, YouTube oder LinkedIn? Dieses E-Book nimmt dich Schritt für Schritt an die Hand: Du lernst, wie du anhand deiner Zielgruppe, deines Contents und deiner Ziele die richtige Plattform auswählst, dein Profil professionell einrichtest und deinen ersten Content veröffentlichst. Du verstehst, wie Algorithmen auf allen Plattformen grundsätzlich funktionieren, was guten Content auszeichnet und warum Konsistenz entscheidender ist als Perfektion. Kein Fachjargon, keine teuren Tools – nur ein klarer, umsetzbarer Fahrplan, den du heute starten kannst. Am Ende hast du nicht nur einen aktiven Account, sondern ein System, das dich langfristig wachsen lässt. Das steckt drin: Die richtige Plattform wählen: ein ehrlicher Vergleich von Instagram, TikTok, YouTube & LinkedIn Profil-Optimierung: Bio, Profilbild und erstes Impression auf jeder Plattform Content-Grundlagen: Formate, Häufigkeit und der erste Redaktionsplan Algorithmus-Prinzipien allgemein: was alle Plattformen belohnen Konsistenz-System: so bleibst du langfristig am Ball ohne dich zu überfordern Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

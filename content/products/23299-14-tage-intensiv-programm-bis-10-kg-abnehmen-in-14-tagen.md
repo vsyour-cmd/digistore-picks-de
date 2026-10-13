@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Conversionrate auf kalten Traffic <strong>1,74</strong> %(von Themenrelevanten Quellen) </p>
-<h2>DEIN “KICKSTART” IN EIN NEUES LEBEN  mit Siggi und Mareike Spaleck(Coach von "The Biggest Loser"-Sat1)</h2>
-<p><strong>Bis zu 10 Kg in 14 Tagen abnehmen </strong></p>
-<p><strong>Natürlich, Gesund und Nachhaltig! Unser 14 Tage-Intensiv-Programm machts möglich. Tausendfach erprobt, über 10 Jahre optimiert.</strong></p>
-<p>Wir haben das 14TIP für schnelle Erfolge entwickelt, es funktioniert perfekt als Kickstart und bringt auch den letzten Schliff. Das Programm erzielt nicht nur schnelle, sondern auch noch gesunde und nachhaltige Erfolge! Seit mehr als 10 Jahren gehört es zu unseren beliebtesten Programmen und wird durch uns stetig weiterentwickelt. Zahlreiche sensationelle Erfolge und glückliche Klienten hat das 14-Tage-Intensiv-Programm bereits hinterlassen.<br />Jetzt wird es Zeit für Dich.</p>
-<h3>SCHWIERIGKEITSGRAD</h3>
-<p>Das “14TIP” ist sowohl für Anfänger, als auch für Fortgeschrittene geeignet. Es gibt 2 Varianten… Die klassische,für Anfänger &amp; Fortgeschrittene und die GYM-Variante für Fortgeschrittene &amp; Wiederholungstäter.</p>
-<ul>
-<li>Wissen vermitteln</li>
-<li>Bewusstsein schaffen</li>
-<li>Fokus und Effektivität erreichen</li>
-<li>Bessere Erfolge erzielen</li>
-<li>Nachhaltigkeit schaffen</li>
-</ul>
-<h2>Provision</h2>
-<p><strong>Empfehle unser Premium 14 Tage dauerndes Online-Fitness-Programm </strong>“14-Tage-Intensiv-Programm” und erhalte <strong>20% Provision </strong>über Digistore24.</p>
-<ul>
-<li><strong>Das Programm </strong>kostet regulär einmalig 149,00€. </li>
-</ul>
+**Vendor's marketplace description:** Conversionrate auf kalten Traffic 1,74 %(von Themenrelevanten Quellen) DEIN “KICKSTART” IN EIN NEUES LEBEN mit Siggi und Mareike Spaleck(Coach von "The Biggest Loser"-Sat1) Bis zu 10 Kg in 14 Tagen abnehmen Natürlich, Gesund und Nachhaltig! Unser 14 Tage-Intensiv-Programm machts möglich. Tausendfach erprobt, über 10 Jahre optimiert. Wir haben das 14TIP für schnelle Erfolge entwickelt, es funktioniert perfekt als Kickstart und bringt auch den letzten Schliff. Das Programm erzielt nicht nur schnelle, sondern auch noch gesunde und nachhaltige Erfolge! Seit mehr als 10 Jahren gehört es zu unseren beliebtesten Programmen und wird durch uns stetig weiterentwickelt. Zahlreiche sensationelle Erfolge und glückliche Klienten hat das 14-Tage-Intensiv-Programm bereits hinterlassen. Jetzt wird es Zeit für Dich. SCHWIERIGKEITSGRAD Das “14TIP” ist sowohl für Anfänger, als auch für Fortgeschrittene geeignet. Es gibt 2 Varianten… Die klassische,für Anfänger & Fortgeschrittene und die GYM-Variante für Fortgeschrittene & Wiederholungstäter. Wissen vermitteln Bewusstsein schaffen Fokus und Effektivität erreichen Bessere Erfolge erzielen Nachhaltigkeit schaffen Provision Empfehle unser Premium 14 Tage dauerndes Online-Fitness-Programm “14-Tage-Intensiv-Programm” und erhalte 20% Provision über Digistore24. Das Programm kostet regulär einmalig 149,00€.
 
 ## 2. Links
 

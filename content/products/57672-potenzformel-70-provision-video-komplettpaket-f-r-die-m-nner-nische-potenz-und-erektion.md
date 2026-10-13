@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die PotenzFormel</strong> ist das bewährte Video-Komplettpaket von David Emmerich für Männer mit Potenz- und Erektionsproblemen (Kernzielgruppe 35+). Digitales Produkt: Sofort-Zugang, keine Versandkosten, weltweit bewerbbar.</p>
-<ul>
-<li><strong>70 % Provision</strong> auf den Nettoverkaufspreis</li>
-<li>Endpreis 47 € statt 199 € – der Rabatt wird über die Verkaufsseite automatisch übergeben</li>
-<li>Provision auch auf die Upsells im Funnel (u. a. Testosteron Treiber, LustFormel)</li>
-<li>Conversion-erprobte Video-Verkaufsseite (VSL)</li>
-<li>30 Tage Geld-zurück-Garantie, Abwicklung komplett über Digistore24</li>
-</ul>
-<p>Verkaufsseite: https://david-emmerich-coaching.com/nie-wieder-impotenz-cpd<br />Alle Infos: https://david-emmerich-coaching.com/partnerprogramm</p>
+**Vendor's marketplace description:** Die PotenzFormel ist das bewährte Video-Komplettpaket von David Emmerich für Männer mit Potenz- und Erektionsproblemen (Kernzielgruppe 35+). Digitales Produkt: Sofort-Zugang, keine Versandkosten, weltweit bewerbbar. 70 % Provision auf den Nettoverkaufspreis Endpreis 47 € statt 199 € – der Rabatt wird über die Verkaufsseite automatisch übergeben Provision auch auf die Upsells im Funnel (u. a. Testosteron Treiber, LustFormel) Conversion-erprobte Video-Verkaufsseite (VSL) 30 Tage Geld-zurück-Garantie, Abwicklung komplett über Digistore24 Verkaufsseite: https://david-emmerich-coaching.com/nie-wieder-impotenz-cpd Alle Infos: https://david-emmerich-coaching.com/partnerprogramm
 
 ## 2. Links
 

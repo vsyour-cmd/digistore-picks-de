@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Besser reisen und dabei Geld sparen? Kein Problem wenn du weißt wie du mit Alltagsausgaben Meilen sammeln kannst.</p>
-<p>Diese Meilen kannst du dann nutzen um bis zu 90% deiner Reisekosten zu sparen. </p>
-<p>Business Class nach New York und zurück für 140 EUR? Yes, please!</p>
-<p>Der Kurs zeigt dir wie du JEDE deiner Ausgaben zu wertvollen Meilen machst - egal ob Lebensmittel, Online Shopping, Miete oder deine Stromrechnung.</p>
-<p>Zusätzlich bekommst du alles an die Hand was du brauchst um deine Meilen bestmöglich für die Buchung von Flügen einzusetzen.</p>
+**Vendor's marketplace description:** Besser reisen und dabei Geld sparen? Kein Problem wenn du weißt wie du mit Alltagsausgaben Meilen sammeln kannst. Diese Meilen kannst du dann nutzen um bis zu 90% deiner Reisekosten zu sparen. Business Class nach New York und zurück für 140 EUR? Yes, please! Der Kurs zeigt dir wie du JEDE deiner Ausgaben zu wertvollen Meilen machst - egal ob Lebensmittel, Online Shopping, Miete oder deine Stromrechnung. Zusätzlich bekommst du alles an die Hand was du brauchst um deine Meilen bestmöglich für die Buchung von Flügen einzusetzen.
 
 ## 2. Links
 

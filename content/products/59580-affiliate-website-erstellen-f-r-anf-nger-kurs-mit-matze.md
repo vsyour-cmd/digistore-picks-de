@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Affiliate-Website erstellen für Anfänger – Kurs mit Matze</p>
-<p>Eine hilfreiche Website mit transparenten Produktempfehlungen aufbauen. Dieser deutschsprachige Selbstlernkurs begleitet dich von der Idee bis zum Ergebnis: einen Seitenplan und einen originalen, überprüfbaren Ratgeberentwurf. Matze zeigt jeden Schritt am durchgehenden fiktiven Beispiel. Die Aufgaben überträgst du auf dein eigenes Projekt.</p>
-<p>Das lernst du:<br />1. Problem und Themenbereich<br />2. Seitenplan und Navigation<br />3. Produkte tatsächlich prüfen<br />4. Einen hilfreichen Artikel schreiben<br />5. Links, Kennzeichnung und Technik<br />6. Pflegen und verbessern</p>
-<p>Für wen? Einsteiger, die einen eigenen Ratgeber mit Affiliate-Links auf einer übersichtlichen Website veröffentlichen möchten.</p>
-<p>Im Paket: PDF-Praxiskurs, PDF-Arbeitsmappe und vier bearbeitbare Vorlagen. Du gehst im eigenen Tempo vor und prüfst deine Ergebnisse anhand der Aufgaben.</p>
-<p>Für Affiliates: Der Kurs zeigt konkrete Arbeitsschritte und verspricht keine Umsätze oder Aufnahme in externe Programme. Bewirb ihn mit eigener Erfahrung, klarer Werbekennzeichnung und deinem persönlichen Digistore24-Promolink. Digitale Einmalzahlung; Affiliate-Provision laut Angebot: 40 %.</p>
-<p>Planungstools sind optional. Im Kurs kann ein gekennzeichneter Metricool-Affiliate-Link enthalten sein.</p>
+**Vendor's marketplace description:** Affiliate-Website erstellen für Anfänger – Kurs mit Matze Eine hilfreiche Website mit transparenten Produktempfehlungen aufbauen. Dieser deutschsprachige Selbstlernkurs begleitet dich von der Idee bis zum Ergebnis: einen Seitenplan und einen originalen, überprüfbaren Ratgeberentwurf. Matze zeigt jeden Schritt am durchgehenden fiktiven Beispiel. Die Aufgaben überträgst du auf dein eigenes Projekt. Das lernst du: 1. Problem und Themenbereich 2. Seitenplan und Navigation 3. Produkte tatsächlich prüfen 4. Einen hilfreichen Artikel schreiben 5. Links, Kennzeichnung und Technik 6. Pflegen und verbessern Für wen? Einsteiger, die einen eigenen Ratgeber mit Affiliate-Links auf einer übersichtlichen Website veröffentlichen möchten. Im Paket: PDF-Praxiskurs, PDF-Arbeitsmappe und vier bearbeitbare Vorlagen. Du gehst im eigenen Tempo vor und prüfst deine Ergebnisse anhand der Aufgaben. Für Affiliates: Der Kurs zeigt konkrete Arbeitsschritte und verspricht keine Umsätze oder Aufnahme in externe Programme. Bewirb ihn mit eigener Erfahrung, klarer Werbekennzeichnung und deinem persönlichen Digistore24-Promolink. Digitale Einmalzahlung; Affiliate-Provision laut Angebot: 40 %. Planungstools sind optional. Im Kurs kann ein gekennzeichneter Metricool-Affiliate-Link enthalten sein.
 
 ## 2. Links
 

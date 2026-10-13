@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewerbe jetzt PromoPilot und profitiere von einer enormen Nachfrage.</p>
-<h2><strong>Hol dir das komplette PromoPilot KI-Marketing-Studio und verwandle jeden Produktlink in eine fertige Marketing-Kampagne.</strong></h2>
-<p><strong>Das bekommst du – ALLES inklusive:</strong></p>
-<ul>
-<li>Das Tool analysiert jede Salespage in Sekunden</li>
-<li>30+ Content-Typen (E-Mails, Reels, Blogs, Ads u. v. m.) Alles was man braucht!</li>
-<li>Persönlicher KI-Assistent für Strategien &amp; Optimierung</li>
-<li>Content-Bibliothek &amp; Partnerprogramme</li>
-<li>Alle zukünftigen Updates kostenlos</li>
-<li>Einmalzahlung – kein Abo</li>
-</ul>
-<p><strong>Bonus:</strong> Affiliate Quiz AI kostenlos inklusive.</p>
+**Vendor's marketplace description:** Bewerbe jetzt PromoPilot und profitiere von einer enormen Nachfrage. Hol dir das komplette PromoPilot KI-Marketing-Studio und verwandle jeden Produktlink in eine fertige Marketing-Kampagne. Das bekommst du – ALLES inklusive: Das Tool analysiert jede Salespage in Sekunden 30+ Content-Typen (E-Mails, Reels, Blogs, Ads u. v. m.) Alles was man braucht! Persönlicher KI-Assistent für Strategien & Optimierung Content-Bibliothek & Partnerprogramme Alle zukünftigen Updates kostenlos Einmalzahlung – kein Abo Bonus: Affiliate Quiz AI kostenlos inklusive.
 
 ## 2. Links
 

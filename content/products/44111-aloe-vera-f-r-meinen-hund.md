@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>ALOE VERA für meinen Hund!</strong></h2>
-<p> </p>
-<p><strong>Erfahre in diesem Ebook wie Du Aloe Vera bei deinem Hund anwenden kannst.</strong></p>
-<p><strong>Hier findest Du Gesundheit aus der Natur für Deinen lieben "Vierbeiner"!</strong></p>
-<p><strong>Aloe-Vera ist bei Hunde vielseitig anwendbar.</strong></p>
-<p><strong>Bei Verletzungen, Krankheiten, zum Wohlbefinden und vielem mehr, </strong><strong>überall da ist Aloe Vera eine gesunde Alternative für den Hund!</strong></p>
-<p> </p>
-<p><strong><em> Ein hoch informatives -Ebook für jeden Hundebesitzer!</em></strong></p>
-<p> </p>
-<p><span style="color:#008000;background-color:#ffff99;"><em><strong>WICHTIG für Affiliates:</strong></em></span></p>
-<p><span style="color:#008000;background-color:#ffff99;"><em><strong>&gt;&gt;Du bekommst 50% Provision vom Nettoverkaufspreis</strong></em></span></p>
-<p><span style="color:#008000;background-color:#ffff99;"><em><strong>&gt;&gt; Zusätzlich 50% Provision vom Upsell, dass im Verkaufsprozess zusätzlich angeboten wird!</strong></em></span></p>
-<p> </p>
-<p><strong>Jetzt als SONDER-ANGEBOT</strong><strong> zum Preis von 6,50 Euro </strong><strong>bestellen !</strong></p>
+**Vendor's marketplace description:** ALOE VERA für meinen Hund! Erfahre in diesem Ebook wie Du Aloe Vera bei deinem Hund anwenden kannst. Hier findest Du Gesundheit aus der Natur für Deinen lieben "Vierbeiner"! Aloe-Vera ist bei Hunde vielseitig anwendbar. Bei Verletzungen, Krankheiten, zum Wohlbefinden und vielem mehr, überall da ist Aloe Vera eine gesunde Alternative für den Hund! Ein hoch informatives -Ebook für jeden Hundebesitzer! WICHTIG für Affiliates: >>Du bekommst 50% Provision vom Nettoverkaufspreis >> Zusätzlich 50% Provision vom Upsell, dass im Verkaufsprozess zusätzlich angeboten wird! Jetzt als SONDER-ANGEBOT zum Preis von 6,50 Euro bestellen !
 
 ## 2. Links
 

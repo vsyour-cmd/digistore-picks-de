@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Als keltisch-skythisch inspirierter Musikschamane und Meister der Klangheilung freue ich mich, mein Wissen weiterzugeben. Ich wurde 2004, 2005, 2006 und 2009 in Tuva, Sibirien, von Dr. Kenin-Lopsan (oberster Schamane Tuvas auf Lebenszeit und lebendes Monument des Schamanismus) als authentischer, wahrer außergewöhnlicher Schamane internationaler Kategorie beglaubigt und habe in verschiedenen Schamanenzentren die Schamanenarbeit erlebt und mitgestaltet.<br /><br /> In diesem Kurs führe ich Dich in das alte Wissen der Schamanentrommeln ein. Die Demonstration auf einer original tuvinischen Schamanentrommel und das Ambiente meiner mongolischen Jurte lassen Dich zu Gast in meiner schamanischen Welt sein. Er beinhaltet allen Techniken, die zu einer erfolgreichen Durchführung von schamanischen Reisen notwendig sind. Er richtet sich an Anfänger genauso wie an schamanisch Praktizierende. Du bekommst direkte Anweisungen, die Du sofort umsetzen kannst. Als Teilnehmer des Kurses bist Du herzlich eingeladen, die Jurte virtuell zu besuchen wann immer Du willst. Ich freue mich auf Dich!</strong></p>
-<p>Unter meiner ID: <strong>Schaman</strong> werden in Zukunft weitere Videokurse aus den Bereichen Schamanismus und Nada Yoga erscheinen. Die Produktion findet in einer mongolischen Jurte unter authentischen Bedingungen statt. Jeder Kurs wird mit einem Inhaltsverzeichnis in Form eines PDF's ausgestattet.</p>
-<p>Deine Provision beträgt 50%.</p>
-<p>Meine Verkaufsseite bietet einen detailierten Überblick über das jeweilige Produkt. Die Bilder und Videos der Seite kannst Du gerne für Werbungszwecke benutzen.</p>
-<p>Mein Youtube Kanal bietet viele Videos aus Sibirien und Musik-Ritualen, die sich zur Werbung anbieten:</p>
-<p>https://www.youtube.com/user/SuperShamanDotCom</p>
-<p>Ich freue mich von Dir zu hören,</p>
-<p>Schaman Gerbert (schamanenzentrum@gmx.de)</p>
-<p> </p>
-<p>Promolink:</p>
-<p><a href="https://www.digistore24.com/redir/255743/AFFILIATE/CAMPAIGNKEY">https://www.digistore24.com/redir/255743/AFFILIATE/CAMPAIGNKEY</a></p>
-<p>Verkaufsseite:</p>
-<p><a title="Schamanisches Trommeln lernen" href="http://superschaman.de/schamanisches-trommeln.html" target="_blank" rel="noreferrer noopener">http://superschaman.de/schamanisches-trommeln.html</a></p>
-<p>Link zum Bestellformular:</p>
-<p><a href="https://www.digistore24.com/product/255743" target="_blank" rel="noreferrer noopener">https://www.digistore24.com/product/255743</a></p>
-<p>Affiliates einladen, Einladelink:</p>
-<p><a href="https://www.digistore24.com/signup/255743/" target="_blank" rel="noreferrer noopener">https://www.digistore24.com/signup/255743/</a></p>
+**Vendor's marketplace description:** Als keltisch-skythisch inspirierter Musikschamane und Meister der Klangheilung freue ich mich, mein Wissen weiterzugeben. Ich wurde 2004, 2005, 2006 und 2009 in Tuva, Sibirien, von Dr. Kenin-Lopsan (oberster Schamane Tuvas auf Lebenszeit und lebendes Monument des Schamanismus) als authentischer, wahrer außergewöhnlicher Schamane internationaler Kategorie beglaubigt und habe in verschiedenen Schamanenzentren die Schamanenarbeit erlebt und mitgestaltet. In diesem Kurs führe ich Dich in das alte Wissen der Schamanentrommeln ein. Die Demonstration auf einer original tuvinischen Schamanentrommel und das Ambiente meiner mongolischen Jurte lassen Dich zu Gast in meiner schamanischen Welt sein. Er beinhaltet allen Techniken, die zu einer erfolgreichen Durchführung von schamanischen Reisen notwendig sind. Er richtet sich an Anfänger genauso wie an schamanisch Praktizierende. Du bekommst direkte Anweisungen, die Du sofort umsetzen kannst. Als Teilnehmer des Kurses bist Du herzlich eingeladen, die Jurte virtuell zu besuchen wann immer Du willst. Ich freue mich auf Dich! Unter meiner ID: Schaman werden in Zukunft weitere Videokurse aus den Bereichen Schamanismus und Nada Yoga erscheinen. Die Produktion findet in einer mongolischen Jurte unter authentischen Bedingungen statt. Jeder Kurs wird mit einem Inhaltsverzeichnis in Form eines PDF's ausgestattet. Deine Provision beträgt 50%. Meine Verkaufsseite bietet einen detailierten Überblick über das jeweilige Produkt. Die Bilder und Videos der Seite kannst Du gerne für Werbungszwecke benutzen. Mein Youtube Kanal bietet viele Videos aus Sibirien und Musik-Ritualen, die sich zur Werbung anbieten: https://www.youtube.com/user/SuperShamanDotCom Ich freue mich von Dir zu hören, Schaman Gerbert (schamanenzentrum@gmx.de) Promolink: https://www.digistore24.com/redir/255743/AFFILIATE/CAMPAIGNKEY Verkaufsseite: http://superschaman.de/schamanisches-trommeln.html Link zum Bestellformular: https://www.digistore24.com/product/255743 Affiliates einladen, Einladelink: https://www.digistore24.com/signup/255743/
 
 ## 2. Links
 

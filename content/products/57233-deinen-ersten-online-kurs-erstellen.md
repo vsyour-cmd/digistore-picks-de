@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Deinen ersten Online-Kurs erstellen“</strong></p>
-<p>Wissen verkaufen – auch ohne große Reichweite – Du musst kein bekannter Experte sein. Wie du ein Thema findest, deinen Kurs planst, Inhalte aufnimmst, die richtige Plattform wählst und die ersten Teilnehmer gewinnst.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Ein Thema finden, das andere wirklich lernen wollen</li>
-<li>Deinen Kurs mit Lernzielen und rotem Faden planen</li>
-<li>Inhalte aufnehmen – gut und verständlich statt perfekt</li>
-<li>Die richtige Plattform wählen und erste Teilnehmer gewinnen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Deinen ersten Online-Kurs erstellen“ Wissen verkaufen – auch ohne große Reichweite – Du musst kein bekannter Experte sein. Wie du ein Thema findest, deinen Kurs planst, Inhalte aufnimmst, die richtige Plattform wählst und die ersten Teilnehmer gewinnst. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Ein Thema finden, das andere wirklich lernen wollen Deinen Kurs mit Lernzielen und rotem Faden planen Inhalte aufnehmen – gut und verständlich statt perfekt Die richtige Plattform wählen und erste Teilnehmer gewinnen
 
 ## 2. Links
 

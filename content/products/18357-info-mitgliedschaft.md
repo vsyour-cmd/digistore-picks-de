@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Betreiber von Biogas-BHKWs erhalten</p>
-<p>- Tipps zur Schadensprävention</p>
-<p>- Vorschläge zur kostengünstigen Optimierung des BHKWs</p>
-<p>- Informationen zur Umsetzung einer profitablen, stress- freien Flexibilisierung</p>
-<p>- Maßnahmen zur optimalen technischen Betriebsführung</p>
-<p>- Zugriff auf externe Spezialisten im Schadens- oder Kulanzfall</p>
-<p>- eine Prüfung von Serviceverträgen, Kauf- und Instand-setzungsangeboten,</p>
-<p>- kostenfreie Biogasmotoren-App zur Optimierung der Betriebsbedingungen</p>
-<p>- Hintergrundwissen zur Biogasmotorentechnik, die Ausfälle reduziert und Kosten spart</p>
-<p>- Teilnahme an Technik-Seminaren zur halben Teilnahme-Gebühr</p>
+**Vendor's marketplace description:** Betreiber von Biogas-BHKWs erhalten - Tipps zur Schadensprävention - Vorschläge zur kostengünstigen Optimierung des BHKWs - Informationen zur Umsetzung einer profitablen, stress- freien Flexibilisierung - Maßnahmen zur optimalen technischen Betriebsführung - Zugriff auf externe Spezialisten im Schadens- oder Kulanzfall - eine Prüfung von Serviceverträgen, Kauf- und Instand-setzungsangeboten, - kostenfreie Biogasmotoren-App zur Optimierung der Betriebsbedingungen - Hintergrundwissen zur Biogasmotorentechnik, die Ausfälle reduziert und Kosten spart - Teilnahme an Technik-Seminaren zur halben Teilnahme-Gebühr
 
 ## 2. Links
 

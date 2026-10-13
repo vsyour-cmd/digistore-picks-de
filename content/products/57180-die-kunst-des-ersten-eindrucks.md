@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Die Kunst des ersten Eindrucks“</strong></p>
-<p>In den ersten Sekunden überzeugen – Der erste Eindruck entsteht in Sekunden. Lerne, wie du sympathisch, sicher und interessant wirkst.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 8,45 € pro Verkauf (Verkaufspreis 16,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Die Macht der ersten 7 Sekunden nutzen</li>
-<li>Körpersprache, die Sicherheit signalisiert</li>
-<li>Einstiegssätze für jede Situation</li>
-<li>Authentisch statt aufgesetzt wirken</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Die Kunst des ersten Eindrucks“ In den ersten Sekunden überzeugen – Der erste Eindruck entsteht in Sekunden. Lerne, wie du sympathisch, sicher und interessant wirkst. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,45 € pro Verkauf (Verkaufspreis 16,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Die Macht der ersten 7 Sekunden nutzen Körpersprache, die Sicherheit signalisiert Einstiegssätze für jede Situation Authentisch statt aufgesetzt wirken
 
 ## 2. Links
 

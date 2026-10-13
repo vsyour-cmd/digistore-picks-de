@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Weihnachten leicht gemacht – E-Book zum Ausdrucken</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Das E-Book enthält 53 liebevoll gestaltete Vorlagen in sieben Motiven zum Selbstdrucken: Weihnachtskarten, Gutscheine, Anhänger, Adventskalender, Wunschzettel, Tischkarten und Geschenke-Planer.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Familien mit Kindern</li>
-<li>Menschen, die gern basteln und selbst gestalten</li>
-<li>Kurzentschlossene, die noch Karten oder Gutscheine brauchen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Die Adventszeit beginnt und Weihnachten rückt näher</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> stark gefragt von Oktober bis Dezember</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Kalender und Planer 2027, Haushaltsbuch und Sparen) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Weihnachten leicht gemacht – E-Book zum Ausdrucken Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Das E-Book enthält 53 liebevoll gestaltete Vorlagen in sieben Motiven zum Selbstdrucken: Weihnachtskarten, Gutscheine, Anhänger, Adventskalender, Wunschzettel, Tischkarten und Geschenke-Planer. Die Zielgruppe Familien mit Kindern Menschen, die gern basteln und selbst gestalten Kurzentschlossene, die noch Karten oder Gutscheine brauchen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Die Adventszeit beginnt und Weihnachten rückt näher Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: stark gefragt von Oktober bis Dezember Mehr verdienen: Weitere passende Produkte (Kalender und Planer 2027, Haushaltsbuch und Sparen) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

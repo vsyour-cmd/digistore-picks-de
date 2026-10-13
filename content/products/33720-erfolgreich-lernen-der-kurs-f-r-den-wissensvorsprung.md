@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Empfehlen Sie mein einzigartiges und praxiserprobtes Produkt für den Wissensvorsprung.</strong></p>
-<p>Ihr Kunde lernt ...</p>
-<ul><li>wie das Gehirn funktioniert und wie man das zu SEINEM Vorteil nutzen kann</li>
-<li>was Konzentration ist und wie man sich besser konzentrieren kann (mit Übungen)</li>
-<li>wie man sich und den Stoff richtig ordnet und strukturiert</li>
-<li>wie man sich mit einfachen Tricks Dinge besser merken kann (mit Übungen)</li>
-<li>wie man mit Prüfungsangst umgeht<br />u.v.m.</li>
-</ul><p>Eine ideale Vorbereitung für alle Prüfungen und Prüfunssituationen.</p>
-<p><strong>Schicken Sie Ihre Kunden auf Erfolgskurs für die Zukunft.</strong></p>
+**Vendor's marketplace description:** Empfehlen Sie mein einzigartiges und praxiserprobtes Produkt für den Wissensvorsprung. Ihr Kunde lernt ... wie das Gehirn funktioniert und wie man das zu SEINEM Vorteil nutzen kann was Konzentration ist und wie man sich besser konzentrieren kann (mit Übungen) wie man sich und den Stoff richtig ordnet und strukturiert wie man sich mit einfachen Tricks Dinge besser merken kann (mit Übungen) wie man mit Prüfungsangst umgeht u.v.m. Eine ideale Vorbereitung für alle Prüfungen und Prüfunssituationen. Schicken Sie Ihre Kunden auf Erfolgskurs für die Zukunft.
 
 ## 2. Links
 

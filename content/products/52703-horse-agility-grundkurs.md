@@ -41,39 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In diesem Online Seminar lernst du wie du dein Pferd frei im Schritt, Trab und Galopp durch einen Horse Agility Parcours schicken kannst.</p>
-<p>Baue mit Hilfe dieses Online Seminars eine vertrauensvolle und respektvolle Beziehung zu deinem Pferd auf. Lerne in diesem Online Seminar worauf es ankommt, damit Dein Pferd sich bei Dir sicher fühlt und gerne bei Dir bleibt. </p>
-<p>Du bekommst eine einfache Schritt für Schritt Anleitung, die du mit Deinem Pferd sofort umsetzen kannst.</p>
-<div> </div>
-<div>
-<div>
-<div>
-<p><strong>Inhalt</strong></p>
-<p>Buch: Horse Agility in PDF Format (230 Seiten)</p>
-<p>42 Präsentationen und Videoanleitungen</p>
-<ul>
-<li>
-<p>Einführung Pferdetraining: 4 Präsentationen </p>
-</li>
-<li>
-<p>Bodenarbeit: 11 Präsentationen </p>
-</li>
-<li>
-<p>Desensibilisierung: 1 Präsentation </p>
-</li>
-<li>
-<p>Arbeit mit Hindernissen am Strick: 8 Präsentationen </p>
-</li>
-<li>
-<p>Freiheitsdressur: 8 Präsentationen </p>
-</li>
-<li>
-<p>Arbeit mit Hindernissen frei: 10 Präsentationen</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** In diesem Online Seminar lernst du wie du dein Pferd frei im Schritt, Trab und Galopp durch einen Horse Agility Parcours schicken kannst. Baue mit Hilfe dieses Online Seminars eine vertrauensvolle und respektvolle Beziehung zu deinem Pferd auf. Lerne in diesem Online Seminar worauf es ankommt, damit Dein Pferd sich bei Dir sicher fühlt und gerne bei Dir bleibt. Du bekommst eine einfache Schritt für Schritt Anleitung, die du mit Deinem Pferd sofort umsetzen kannst. Inhalt Buch: Horse Agility in PDF Format (230 Seiten) 42 Präsentationen und Videoanleitungen Einführung Pferdetraining: 4 Präsentationen Bodenarbeit: 11 Präsentationen Desensibilisierung: 1 Präsentation Arbeit mit Hindernissen am Strick: 8 Präsentationen Freiheitsdressur: 8 Präsentationen Arbeit mit Hindernissen frei: 10 Präsentationen
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Windows-Programm zur Datenrettung von USB-Sticks, SD-Karten und externen Laufwerken: Quick-Scan für kürzlich gelöschte Dateien, Deep-Scan mit sektorweisem Zugriff, Anzeige der Wiederherstellbarkeit pro Datei, FAT32 und NTFS. Läuft komplett lokal, ohne Cloud-Upload.</p>
-<p>Zielgruppe: Windows-Nutzer, die versehentlich gelöschte Fotos oder Dokumente zurückholen wollen.</p>
-<p>Einmaliger Kaufpreis 24,90 €, kein Abo. Die Erfolgschance einer Datenrettung hängt vom Zustand des Datenträgers ab. Verkaufsseite: https://www.gz-ai-stacks.de/AI-Rescue/</p>
+**Vendor's marketplace description:** Windows-Programm zur Datenrettung von USB-Sticks, SD-Karten und externen Laufwerken: Quick-Scan für kürzlich gelöschte Dateien, Deep-Scan mit sektorweisem Zugriff, Anzeige der Wiederherstellbarkeit pro Datei, FAT32 und NTFS. Läuft komplett lokal, ohne Cloud-Upload. Zielgruppe: Windows-Nutzer, die versehentlich gelöschte Fotos oder Dokumente zurückholen wollen. Einmaliger Kaufpreis 24,90 €, kein Abo. Die Erfolgschance einer Datenrettung hängt vom Zustand des Datenträgers ab. Verkaufsseite: https://www.gz-ai-stacks.de/AI-Rescue/
 
 ## 2. Links
 

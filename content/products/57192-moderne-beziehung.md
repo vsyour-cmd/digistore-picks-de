@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Moderne Beziehung“</strong></p>
-<p>Was Liebe heute braucht – Liebe hat sich verändert. Dieser Ratgeber zeigt, was eine Beziehung heute wirklich trägt – auf Augenhöhe, zwischen Nähe und Freiheit.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Liebe im 21. Jahrhundert</li>
-<li>Rollen &amp; Erwartungen neu denken</li>
-<li>Kommunikation auf Augenhöhe</li>
-<li>Nähe &amp; Freiheit in Balance</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Moderne Beziehung“ Was Liebe heute braucht – Liebe hat sich verändert. Dieser Ratgeber zeigt, was eine Beziehung heute wirklich trägt – auf Augenhöhe, zwischen Nähe und Freiheit. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Liebe im 21. Jahrhundert Rollen & Erwartungen neu denken Kommunikation auf Augenhöhe Nähe & Freiheit in Balance
 
 ## 2. Links
 

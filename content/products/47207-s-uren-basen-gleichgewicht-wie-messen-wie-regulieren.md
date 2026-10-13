@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Säuren/Basen-Gleichgewicht messen und regulieren online-Kurs</h1>
-<div> </div>
-<div>
-<h2><strong>Säuren/Basen-Gleichgewicht:</strong></h2>
-<ul>
-<li>wie <strong>messen</strong> (Urin pH <strong>Tagesprofile</strong>)</li>
-<li>wie <strong>beurteilen </strong>(Tagesprofil, nicht Einzelwert)</li>
-<li>wie beeinflussen und <strong>regulieren</strong>
-<ul>
-<li>Einflüsse - weit über die Ernährung hinaus</li>
-<li><strong>korrekte Dosierung</strong> eines Basenmittels</li>
-</ul>
-</li>
-<li>weshalb ist ein Basenmittel fundamental, und im Rahmen der heutigen Lebens- und Ernährungsweise als "Nahrungsergänzung" <strong>oft unverzichtbar</strong></li>
-</ul>
-<h2><strong>Sie bekommen</strong></h2>
-<ul>
-<li><strong>Anleitungen</strong> als PDF (zum <strong>Download</strong>), wie ich sie jahrelang meinen Patienten mitgegeben habe</li>
-<li>Ausführliche <strong>Erklärungen</strong> in ca. 1 Std <strong>Video, </strong>in dem ich die Anleitung Punkt für Punkt durchgehe</li>
-<li>Eine Reihe von <strong>Beispielen</strong>, wo das S/B-Gleichgewicht besonders wichtig ist: z.B. Schwangerschaft-Geburt-Stillzeit, Posturologie, Sport, Osteoporose ...</li>
-</ul>
-</div>
+**Vendor's marketplace description:** Säuren/Basen-Gleichgewicht messen und regulieren online-Kurs Säuren/Basen-Gleichgewicht: wie messen (Urin pH Tagesprofile ) wie beurteilen (Tagesprofil, nicht Einzelwert) wie beeinflussen und regulieren Einflüsse - weit über die Ernährung hinaus korrekte Dosierung eines Basenmittels weshalb ist ein Basenmittel fundamental, und im Rahmen der heutigen Lebens- und Ernährungsweise als "Nahrungsergänzung" oft unverzichtbar Sie bekommen Anleitungen als PDF (zum Download ), wie ich sie jahrelang meinen Patienten mitgegeben habe Ausführliche Erklärungen in ca. 1 Std Video, in dem ich die Anleitung Punkt für Punkt durchgehe Eine Reihe von Beispielen , wo das S/B-Gleichgewicht besonders wichtig ist: z.B. Schwangerschaft-Geburt-Stillzeit, Posturologie, Sport, Osteoporose ...
 
 ## 2. Links
 

@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Webinar "Egregoren - Wie wir seit 10.000 Jahren kontrolliert werden" ist ein weltweit wirklich einmaliges 2-tägiges Erlebnisseminar für Jedermann das monatlich stattfindet.</p>
-<p>Der Clou dabei ist, dass der 1. Tag kostenlos ist, und sich so jedermann hautnah ein Bild davon machen und die Sachen selbst erleben kann. Mehr als 70% der Teilnehmer buchen dann im Anschluss auch den bezahlten 2. Tag</p>
-<p>Noch ehrlicheres und authentischeres Marketing ist nicht möglich!</p>
-<p>Alle folgenden Aussagen werden eingehalten und übertroffen:</p>
-<p> - in diesem Webinar bewisen wir die Esoterik</p>
-<p>- in diesem Seminar beweisen wir die     Bewusstseinsmanipulation</p>
-<p>- In diesem Webinar beweisen wir feinstoffliche Energien</p>
-<p>- In diesem Webinar beweisen wir direkt erlebbar den Manifestationsprozess</p>
-<p>- in diesem Webinar beweisen wir dass es JEDER selbst kann</p>
+**Vendor's marketplace description:** Das Webinar "Egregoren - Wie wir seit 10.000 Jahren kontrolliert werden" ist ein weltweit wirklich einmaliges 2-tägiges Erlebnisseminar für Jedermann das monatlich stattfindet. Der Clou dabei ist, dass der 1. Tag kostenlos ist, und sich so jedermann hautnah ein Bild davon machen und die Sachen selbst erleben kann. Mehr als 70% der Teilnehmer buchen dann im Anschluss auch den bezahlten 2. Tag Noch ehrlicheres und authentischeres Marketing ist nicht möglich! Alle folgenden Aussagen werden eingehalten und übertroffen: - in diesem Webinar bewisen wir die Esoterik - in diesem Seminar beweisen wir die Bewusstseinsmanipulation - In diesem Webinar beweisen wir feinstoffliche Energien - In diesem Webinar beweisen wir direkt erlebbar den Manifestationsprozess - in diesem Webinar beweisen wir dass es JEDER selbst kann
 
 ## 2. Links
 

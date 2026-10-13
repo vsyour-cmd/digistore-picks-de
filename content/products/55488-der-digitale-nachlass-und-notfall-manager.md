@@ -41,8 +41,6 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>
-
 ## 2. Links
 
 - **Promo link (affiliate):** https://www.checkout-ds24.com/product/666255?aff=adminstore

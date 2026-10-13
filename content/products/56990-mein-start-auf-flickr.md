@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Von der ersten Registrierung zum gepflegten Foto-Portfolio, das andere begeistert</strong></p>
-<p>Flickr ist weit mehr als ein Bild-Speicher – es ist eine lebendige Foto-Community, in der echte Fotografen-Aufmerksamkeit entsteht. Dieses E-Book zeigt dir Schritt für Schritt, wie du ein professionell wirkendes Profil aufbaust, deine Bilder so aufbereitest, dass sie in der Explore-Sektion landen, und wie du durch Gruppen schnell Anschluss an Gleichgesinnte findest. Du lernst, welche EXIF-Daten wirklich wichtig sind, wie du Tags und Beschreibungen für Bild-SEO nutzt und welche Lizenz-Einstellungen dich schützen. Kein Fachwissen nötig: nur deine Bilder, dieses E-Book und ein klarer Fahrplan, der dich vom leeren Profil zur aktiven Präsenz führt.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Profil &amp; Portfolio aufbauen, das sofort professionell wirkt</li>
-<li>Bilder optimieren: EXIF-Daten, Titel, Tags und Beschreibungen richtig einsetzen</li>
-<li>Gruppen finden und aktiv werden – so wächst dein Netzwerk</li>
-<li>Explore-Algorithmus verstehen und gezielt darauf hinarbeiten</li>
-<li>Lizenzen &amp; Creative Commons: was du erlauben darfst und was dich schützt</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Von der ersten Registrierung zum gepflegten Foto-Portfolio, das andere begeistert Flickr ist weit mehr als ein Bild-Speicher – es ist eine lebendige Foto-Community, in der echte Fotografen-Aufmerksamkeit entsteht. Dieses E-Book zeigt dir Schritt für Schritt, wie du ein professionell wirkendes Profil aufbaust, deine Bilder so aufbereitest, dass sie in der Explore-Sektion landen, und wie du durch Gruppen schnell Anschluss an Gleichgesinnte findest. Du lernst, welche EXIF-Daten wirklich wichtig sind, wie du Tags und Beschreibungen für Bild-SEO nutzt und welche Lizenz-Einstellungen dich schützen. Kein Fachwissen nötig: nur deine Bilder, dieses E-Book und ein klarer Fahrplan, der dich vom leeren Profil zur aktiven Präsenz führt. Das steckt drin: Profil & Portfolio aufbauen, das sofort professionell wirkt Bilder optimieren: EXIF-Daten, Titel, Tags und Beschreibungen richtig einsetzen Gruppen finden und aktiv werden – so wächst dein Netzwerk Explore-Algorithmus verstehen und gezielt darauf hinarbeiten Lizenzen & Creative Commons: was du erlauben darfst und was dich schützt Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

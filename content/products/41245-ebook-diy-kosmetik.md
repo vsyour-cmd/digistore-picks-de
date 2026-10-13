@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Umfangreiches E-Book zur DIY Kosmetik - Kosmetik selber machen für Anfänger</p>
+**Vendor's marketplace description:** Umfangreiches E-Book zur DIY Kosmetik - Kosmetik selber machen für Anfänger
 
 ## 2. Links
 

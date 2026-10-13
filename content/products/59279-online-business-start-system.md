@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Dein kompletter Fahrplan von der Idee zum eigenen digitalen Angebot </strong> <strong>Du möchtest endlich dein eigenes Online-Business starten – ohne dich in hunderten Tipps, Videos und To-do-Listen zu verlieren?</strong></p>
-<p><strong>Mit dem Online Business Start System bekommst du einen klaren Schritt-für-Schritt-Weg: von deiner Business-Idee über Zielgruppe und Angebot bis zu Produkt, Verkaufsseite, Sichtbarkeit und Launch. </strong> <strong>Du bekommst nicht nur Theorie – sondern konkrete Lösungen zum Nachmachen und Anpassen. </strong></p>
-<p><strong>✓ 10 ausführliche Hauptmodule </strong></p>
-<p><strong>✓ 8 umfangreiche PRO-Bonusprogramme </strong></p>
-<p><strong>✓ Musterlösungen &amp; fertige Vorlagen </strong></p>
-<p><strong>✓ Checklisten &amp; Praxisbeispiele </strong></p>
-<p><strong>✓ 30-Tage-Umsetzungsplan </strong></p>
-<p><strong>✓ Ideal für Einsteiger </strong></p>
-<p><strong>Alles in einem kompletten System  </strong> <strong>Weniger Rätselraten. Mehr Struktur. Fang an, dein eigenes digitales Angebot wirklich aufzubauen.</strong> Digitaler Download </p>
+**Vendor's marketplace description:** Dein kompletter Fahrplan von der Idee zum eigenen digitalen Angebot Du möchtest endlich dein eigenes Online-Business starten – ohne dich in hunderten Tipps, Videos und To-do-Listen zu verlieren? Mit dem Online Business Start System bekommst du einen klaren Schritt-für-Schritt-Weg: von deiner Business-Idee über Zielgruppe und Angebot bis zu Produkt, Verkaufsseite, Sichtbarkeit und Launch. Du bekommst nicht nur Theorie – sondern konkrete Lösungen zum Nachmachen und Anpassen. ✓ 10 ausführliche Hauptmodule ✓ 8 umfangreiche PRO-Bonusprogramme ✓ Musterlösungen & fertige Vorlagen ✓ Checklisten & Praxisbeispiele ✓ 30-Tage-Umsetzungsplan ✓ Ideal für Einsteiger Alles in einem kompletten System Weniger Rätselraten. Mehr Struktur. Fang an, dein eigenes digitales Angebot wirklich aufzubauen. Digitaler Download
 
 ## 2. Links
 

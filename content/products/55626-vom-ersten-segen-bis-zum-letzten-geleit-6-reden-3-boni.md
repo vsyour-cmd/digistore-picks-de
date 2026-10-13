@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:justify;"><strong>Helfen Sie Menschen, die richtigen Worte zu finden.</strong> <br /><br />6 fix &amp; fertige Redevorlagen für Taufe &amp; Trauer (2x Mann/ 2x Frau/ 2x Kind). Inkl. 3 exklusiver Boni: In 5 Min. personalisiert, sicher vortragen ohne Lampenfieber &amp; perfekte Redezeit-Garantie. <br /><br /><strong>Hohe Conversion durch „Copy &amp; Paste“-Prinzip!<br /><br />Worte, die berühren – ohne den Stress des Schreibens.</strong><br /><br />Jeder kennt diesen Moment: Ein freudiges Ereignis wie eine Taufe oder ein schwerer Abschied bei einer Beerdigung steht bevor – und man findet einfach nicht die richtigen Worte. Der Druck ist hoch, die Zeit knapp und das Lampenfieber groß.<br /><br />Mit dem Reden-Bundle „Vom ersten Segen bis zum letzten Geleit“ bieten Sie Ihren Kunden die perfekte Lösung. Dieses Paket enthält 6 professionell ausformulierte Redevorlagen, die tiefgründig, würdevoll und sofort einsatzbereit sind.<br /><br /><strong>Das ist im Bundle enthalten:</strong></p>
-<p style="text-align:justify;"><br />1. Trauerrede Mann: Kraftvoll &amp; stoisch mit Zitaten von Marcus Aurelius.</p>
-<p style="text-align:justify;">2. Trauerrede Frau: Hoffnungsvoll &amp; frei nach Oscar Wilde.</p>
-<p style="text-align:justify;">3. Trauerrede Mann (18-25)</p>
-<p style="text-align:justify;">4. Trauerrede Frau (18-25)</p>
-<p style="text-align:justify;">5. Taufrede Junge: Herzlich mit dem Bild der „Brücke zum Himmel“.</p>
-<p style="text-align:justify;">6. Taufrede Mädchen: Strahlend über das „Erblühen der Welt“.<br /><br /><br /></p>
+**Vendor's marketplace description:** Helfen Sie Menschen, die richtigen Worte zu finden. 6 fix & fertige Redevorlagen für Taufe & Trauer (2x Mann/ 2x Frau/ 2x Kind). Inkl. 3 exklusiver Boni: In 5 Min. personalisiert, sicher vortragen ohne Lampenfieber & perfekte Redezeit-Garantie. Hohe Conversion durch „Copy & Paste“-Prinzip! Worte, die berühren – ohne den Stress des Schreibens. Jeder kennt diesen Moment: Ein freudiges Ereignis wie eine Taufe oder ein schwerer Abschied bei einer Beerdigung steht bevor – und man findet einfach nicht die richtigen Worte. Der Druck ist hoch, die Zeit knapp und das Lampenfieber groß. Mit dem Reden-Bundle „Vom ersten Segen bis zum letzten Geleit“ bieten Sie Ihren Kunden die perfekte Lösung. Dieses Paket enthält 6 professionell ausformulierte Redevorlagen, die tiefgründig, würdevoll und sofort einsatzbereit sind. Das ist im Bundle enthalten: 1. Trauerrede Mann: Kraftvoll & stoisch mit Zitaten von Marcus Aurelius. 2. Trauerrede Frau: Hoffnungsvoll & frei nach Oscar Wilde. 3. Trauerrede Mann (18-25) 4. Trauerrede Frau (18-25) 5. Taufrede Junge: Herzlich mit dem Bild der „Brücke zum Himmel“. 6. Taufrede Mädchen: Strahlend über das „Erblühen der Welt“.
 
 ## 2. Links
 

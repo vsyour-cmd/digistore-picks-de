@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Schlank mit Verstand®<br />Ein Programm für Frauen, die ihren Körper besser verstehen und neue Gewohnheiten entwickeln möchten.</p>
-<p>Du lernst, bewusster mit Ernährung umzugehen und wieder mehr Balance in deinen Alltag zu bringen.</p>
-<p>So entsteht ein neues Körper- und Lebensgefühl.<br />Ohne Diäten, ohne Verbote und ohne ständigen Neustart.</p>
-<p>✔ Sofortiger Zugang<br />✔ Lerne in deinem eigenen Tempo<br />✔ Lebenslanger Zugriff</p>
+**Vendor's marketplace description:** Schlank mit Verstand® Ein Programm für Frauen, die ihren Körper besser verstehen und neue Gewohnheiten entwickeln möchten. Du lernst, bewusster mit Ernährung umzugehen und wieder mehr Balance in deinen Alltag zu bringen. So entsteht ein neues Körper- und Lebensgefühl. Ohne Diäten, ohne Verbote und ohne ständigen Neustart. ✔ Sofortiger Zugang ✔ Lerne in deinem eigenen Tempo ✔ Lebenslanger Zugriff
 
 ## 2. Links
 

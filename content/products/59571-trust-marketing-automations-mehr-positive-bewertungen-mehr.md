@@ -41,45 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h1><span style="color:#993300;">AUTOMATISIERTE TRUST-MARKETING &amp; REPUTATION MARKETING </span></h1>
-<h1>ERSTELLEN</h1>
-<div>
-<div>
-<h3><strong>ICH ERSTELLE IHRE DIGITALE AUTOMATISCHE per EMAIL</strong></h3>
-</div>
-</div>
-<div>
-<div>
-<h3><strong>BEWERTUNGS-KAMPAGNE</strong></h3>
-</div>
-</div>
-<h1><span style="color:#ff6600;"> „Mehr positive Bewertungen. Mehr Vertrauen. Eine stärkere Reputation. Mehr Kunden.“</span></h1>
-<p> </p>
-</div>
-<div>
-<ul>
-<li>
-<ul>
-<li>#0 Bewertungskampagnen in 3 Sprachen – automatisch &amp; professionell</li>
-<li>#1 Automatische Bewertungsanfrage nach jedem Kundenkontakt</li>
-<li>#2 Nach jedem Verkauf, Seminar, Beratungsgespräch &amp; Service</li>
-<li>#3 Mehr positive Bewertungen in kürzerer Zeit generieren</li>
-<li>#4 Kunden systematisch zur Abgabe einer Bewertung motivieren</li>
-<li>#5 Positive Kundenerfahrungen gezielt hervorheben</li>
-<li>#6 Bewertungen von Kunden mit jeder E-Mail-Adresse ermöglichen</li>
-<li>#7 Intelligente E-Mail-Automationen mit Klick-Tipp</li>
-<li>#8 Segmentierung, Tagging &amp; individuelle Bewertungsstrecken</li>
-<li>#9 Vertrauen, Reputation &amp; Sichtbarkeit nachhaltig steigern</li>
-<li>#10Mehr Bewertungen → mehr Vertrauen → mehr Kunden &amp; Umsatz</li>
-</ul>
-</li>
-</ul>
-<p> </p>
-<ul>
-<li>Schauen Sie hier unsere Infos &amp; Video, was können wir für Euch tun sehr günstig</li>
-</ul>
-</div>
+**Vendor's marketplace description:** AUTOMATISIERTE TRUST-MARKETING & REPUTATION MARKETING ERSTELLEN ICH ERSTELLE IHRE DIGITALE AUTOMATISCHE per EMAIL BEWERTUNGS-KAMPAGNE „Mehr positive Bewertungen. Mehr Vertrauen. Eine stärkere Reputation. Mehr Kunden.“ #0 Bewertungskampagnen in 3 Sprachen – automatisch & professionell #1 Automatische Bewertungsanfrage nach jedem Kundenkontakt #2 Nach jedem Verkauf, Seminar, Beratungsgespräch & Service #3 Mehr positive Bewertungen in kürzerer Zeit generieren #4 Kunden systematisch zur Abgabe einer Bewertung motivieren #5 Positive Kundenerfahrungen gezielt hervorheben #6 Bewertungen von Kunden mit jeder E-Mail-Adresse ermöglichen #7 Intelligente E-Mail-Automationen mit Klick-Tipp #8 Segmentierung, Tagging & individuelle Bewertungsstrecken #9 Vertrauen, Reputation & Sichtbarkeit nachhaltig steigern #10Mehr Bewertungen → mehr Vertrauen → mehr Kunden & Umsatz Schauen Sie hier unsere Infos & Video, was können wir für Euch tun sehr günstig
 
 ## 2. Links
 

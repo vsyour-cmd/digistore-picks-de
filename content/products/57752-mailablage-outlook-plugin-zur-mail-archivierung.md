@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>MailAblage archiviert Outlook-E-Mails schnell, sicher und strukturiert auf Ihrem Computer oder Netzlaufwerk. Speichern Sie Nachrichten inklusive Anhängen in verschiedenen Formaten wie MSG, PDF, EML oder DOCX und organisieren Sie Ihre Ablage automatisch nach Datum, Absender oder Outlook-Ordner. Ideal für Unternehmen, Selbstständige und alle, die ihre E-Mails übersichtlich, dauerhaft und unabhängig von Outlook verwalten möchten.</p>
+**Vendor's marketplace description:** MailAblage archiviert Outlook-E-Mails schnell, sicher und strukturiert auf Ihrem Computer oder Netzlaufwerk. Speichern Sie Nachrichten inklusive Anhängen in verschiedenen Formaten wie MSG, PDF, EML oder DOCX und organisieren Sie Ihre Ablage automatisch nach Datum, Absender oder Outlook-Ordner. Ideal für Unternehmen, Selbstständige und alle, die ihre E-Mails übersichtlich, dauerhaft und unabhängig von Outlook verwalten möchten.
 
 ## 2. Links
 

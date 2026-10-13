@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Amazon PartnerNet für Anfänger – Affiliate-Kurs mit Matze</p>
-<p>Produkte ehrlich empfehlen, Partnerlinks kennzeichnen und pflegen. Dieser deutschsprachige Selbstlernkurs begleitet dich von der Idee bis zum Ergebnis: einen hilfreichen Empfehlungsentwurf und ein Register für Partnerlinks. Matze zeigt jeden Schritt am durchgehenden fiktiven Beispiel. Die Aufgaben überträgst du auf dein eigenes Projekt.</p>
-<p>Das lernst du:<br />1. Passende Inhalte zuerst<br />2. Programm und Kanal prüfen<br />3. Echte Produkterfahrung<br />4. Links und Kennzeichnung<br />5. Aktualität und Preisangaben<br />6. Pflege und Berichte</p>
-<p>Für wen? Einsteiger, die Amazon PartnerNet verstehen und Empfehlungen transparent gestalten möchten.</p>
-<p>Im Paket: PDF-Praxiskurs, PDF-Arbeitsmappe und vier bearbeitbare Vorlagen. Du gehst im eigenen Tempo vor und prüfst deine Ergebnisse anhand der Aufgaben.</p>
-<p>Für Affiliates: Der Kurs zeigt konkrete Arbeitsschritte und verspricht keine Umsätze oder Aufnahme in externe Programme. Bewirb ihn mit eigener Erfahrung, klarer Werbekennzeichnung und deinem persönlichen Digistore24-Promolink. Digitale Einmalzahlung; Affiliate-Provision laut Angebot: 40 %.</p>
-<p>Planungstools sind optional. Im Kurs kann ein gekennzeichneter Metricool-Affiliate-Link enthalten sein.</p>
+**Vendor's marketplace description:** Amazon PartnerNet für Anfänger – Affiliate-Kurs mit Matze Produkte ehrlich empfehlen, Partnerlinks kennzeichnen und pflegen. Dieser deutschsprachige Selbstlernkurs begleitet dich von der Idee bis zum Ergebnis: einen hilfreichen Empfehlungsentwurf und ein Register für Partnerlinks. Matze zeigt jeden Schritt am durchgehenden fiktiven Beispiel. Die Aufgaben überträgst du auf dein eigenes Projekt. Das lernst du: 1. Passende Inhalte zuerst 2. Programm und Kanal prüfen 3. Echte Produkterfahrung 4. Links und Kennzeichnung 5. Aktualität und Preisangaben 6. Pflege und Berichte Für wen? Einsteiger, die Amazon PartnerNet verstehen und Empfehlungen transparent gestalten möchten. Im Paket: PDF-Praxiskurs, PDF-Arbeitsmappe und vier bearbeitbare Vorlagen. Du gehst im eigenen Tempo vor und prüfst deine Ergebnisse anhand der Aufgaben. Für Affiliates: Der Kurs zeigt konkrete Arbeitsschritte und verspricht keine Umsätze oder Aufnahme in externe Programme. Bewirb ihn mit eigener Erfahrung, klarer Werbekennzeichnung und deinem persönlichen Digistore24-Promolink. Digitale Einmalzahlung; Affiliate-Provision laut Angebot: 40 %. Planungstools sind optional. Im Kurs kann ein gekennzeichneter Metricool-Affiliate-Link enthalten sein.
 
 ## 2. Links
 

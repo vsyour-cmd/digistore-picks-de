@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Menschen mit verbalen Kommunikations­störungen pflegen, betreuen und begleiten</h2>
-<p>Überall wo Kommunikation eine Herausforderung darstellt, vermittelt dieser Kurs eine Brücke zum Reden ohne Worte.</p>
-<p>Sie können BegleiterIn/PflegerIn von Menschen mit Demenz sein, von Patienten mit Sprachstörungen bis zu Komapatienten oder Sie sind Eltern, die mit ihren Kindern in den Kontakt treten wollen.</p>
+**Vendor's marketplace description:** Menschen mit verbalen Kommunikations­störungen pflegen, betreuen und begleiten Überall wo Kommunikation eine Herausforderung darstellt, vermittelt dieser Kurs eine Brücke zum Reden ohne Worte. Sie können BegleiterIn/PflegerIn von Menschen mit Demenz sein, von Patienten mit Sprachstörungen bis zu Komapatienten oder Sie sind Eltern, die mit ihren Kindern in den Kontakt treten wollen.
 
 ## 2. Links
 

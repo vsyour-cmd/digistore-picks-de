@@ -41,37 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><span style="color:#007fc6;">WEBINARIS </span> - <span style="color:#626262;">die All-in-One Webinar-Marketing-Plattform.</span></strong></p>
-<p><span style="color:#626262;">Mit WEBINARIS 4.0 bekommst Du alles, was Du benötigst, um mit Webinaren erfolgreich zu werden.<br /></span></p>
-<p> </p>
-<ul>
-<li><strong><span style="color:#626262;">Automatisierte Webinare</span></strong></li>
-<li><strong><span style="color:#626262;"><span style="color:#007fc6;">Live Webinare</span> <span style="color:#007fc6;">(NEU)</span></span></strong></li>
-<li><strong><span style="color:#007fc6;"><span style="color:#007fc6;">Meeting-Room</span> <span style="color:#007fc6;">(NEU)</span><br /></span></strong></li>
-<li><strong><span style="color:#007fc6;">Partner Webinare</span> <span style="color:#007fc6;">(NEU)</span></strong></li>
-<li><span style="color:#626262;">E-Mail Autoresponder<br /></span></li>
-<li><span style="color:#626262;">Fertige Landingpages<br /></span></li>
-<li><span style="color:#626262;">Webinar-Funnel<br /></span></li>
-<li><span style="color:#626262;">u.v.m</span></li>
-</ul>
-<p> </p>
-<p><span style="color:#007fc6;"><strong>Deine Vorteile:</strong></span></p>
-<ul>
-<li><span style="color:#626262;"><span style="color:#626262;"><strong>Kaufraten von bis zu 33,6 %</strong></span> in unserem perfekt optimierten Verkaufs-Webinar-Funnel</span></li>
-<li><span style="color:#626262;"><strong>20 % Lifetime Provision</strong> bei sehr geringer Storno-Quote von nur 2,1 %</span></li>
-<li><span style="color:#626262;"><strong>180 Tage Cookie-Laufzeit</strong> ohne Verluste durch wechselnde Browser und Geräte dank <strong>Mulit-Device-Tracking</strong><br /></span></li>
-<li><span style="color:#626262;">Große Auswahl <strong>optimierter und professionelle Werbemittel</strong>: Klickstarke Banner, Vorlagen für E-Mail-Texte, Blog-Beiträge </span></li>
-<li><span style="color:#626262;"><strong>Schnelle und persönliche Unterstützung</strong> auf Deutsch durch Online-Marketing-Manager</span></li>
-<li> </li>
-</ul>
-<p><span style="color:#626262;">Mehr zum Partnerprogramm  <span style="color:#007fc6;"><a style="color:#007fc6;" title="hier klicken und zur Webinaris-Partnerprogramm-Seite kommen" href="https://webinaris.com/partnerprogramm" target="_blank" rel="noreferrer noopener">http<span style="color:#007fc6;">s://webinaris.com/partnerprogramm</span></a></span></span></p>
-<p><span style="color:#626262;"><strong><br />Einmal geworben ... ein Leben lang mitverdienen. </strong></span></p>
-<p> </p>
-<p><span style="color:#ff0000;"><strong>WICHTIG!</strong></span></p>
-<p> </p>
-<p><span style="color:#626262;"><strong>Schritt 1:</strong><br />Beantrag unter folgendem Link die Affiliate-Mitgliedschaft: <a href="https://www.digistore24.com/signup/386620,432363,432366,399542">https://www.digistore24.com/signup/386620,432363,432366,399542</a></span></p>
-<p><span style="color:#626262;"><br /><br /><strong>Schritt 2:</strong><br />Schicke uns eine E-Mail mit folgenden Informationen an <a href="mailto:info@webinaris.com" target="_blank" rel="noreferrer noopener">info@webinaris.com</a>:<br />- Name und Anschrift<br />- Ihre Telefonnummer<br />- Ihre E-Mail Adresse<br />- Ihre Digistore24 ID<br />- Ihre Website URL<br />- Eine kurze Beschreibung, wie Du Webinaris bewerben möchtest.<br /></span></p>
-<p><span style="color:#626262;"><br /><strong>Schritt 3:</strong><br />Nach einer kurzen Prüfung schalten wir Dich frei und informieren Dich via E-Mail darüber – dann kannst Du auch schon loslegen.<br />(Bitte beachte, dass wir aufgrund von vielen Betrugsversuchen ohne die E-Mail aus Schritt 2 KEINE Accounts mehr freischalten können)</span></p>
+**Vendor's marketplace description:** WEBINARIS - die All-in-One Webinar-Marketing-Plattform. Mit WEBINARIS 4.0 bekommst Du alles, was Du benötigst, um mit Webinaren erfolgreich zu werden. Automatisierte Webinare Live Webinare (NEU) Meeting-Room (NEU) Partner Webinare (NEU) E-Mail Autoresponder Fertige Landingpages Webinar-Funnel u.v.m Deine Vorteile: Kaufraten von bis zu 33,6 % in unserem perfekt optimierten Verkaufs-Webinar-Funnel 20 % Lifetime Provision bei sehr geringer Storno-Quote von nur 2,1 % 180 Tage Cookie-Laufzeit ohne Verluste durch wechselnde Browser und Geräte dank Mulit-Device-Tracking Große Auswahl optimierter und professionelle Werbemittel : Klickstarke Banner, Vorlagen für E-Mail-Texte, Blog-Beiträge Schnelle und persönliche Unterstützung auf Deutsch durch Online-Marketing-Manager Mehr zum Partnerprogramm http s://webinaris.com/partnerprogramm Einmal geworben ... ein Leben lang mitverdienen. WICHTIG! Schritt 1: Beantrag unter folgendem Link die Affiliate-Mitgliedschaft: https://www.digistore24.com/signup/386620,432363,432366,399542 Schritt 2: Schicke uns eine E-Mail mit folgenden Informationen an info@webinaris.com : - Name und Anschrift - Ihre Telefonnummer - Ihre E-Mail Adresse - Ihre Digistore24 ID - Ihre Website URL - Eine kurze Beschreibung, wie Du Webinaris bewerben möchtest. Schritt 3: Nach einer kurzen Prüfung schalten wir Dich frei und informieren Dich via E-Mail darüber – dann kannst Du auch schon loslegen. (Bitte beachte, dass wir aufgrund von vielen Betrugsversuchen ohne die E-Mail aus Schritt 2 KEINE Accounts mehr freischalten können)
 
 ## 2. Links
 

@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Kaufvertrag leicht gemacht – Ratgeber mit Kaufvertrags-Generator</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Der Ratgeber erklärt, was in einen privaten Kaufvertrag gehört und wie man die Haftung für Mängel ausschließt. Der <strong>Kaufvertrags-Generator</strong> erstellt den Vertrag für Auto, Motorrad, Fahrrad oder andere Sachen.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Privatleute, die ihr Auto verkaufen</li>
-<li>Käufer von Gebrauchtem</li>
-<li>Verkäufer auf Kleinanzeigen-Portalen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Ein Auto oder ein teurer Gegenstand wird privat verkauft</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Quittungen und Lieferscheine, Vollmachten, Betrug erkennen) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Kaufvertrag leicht gemacht – Ratgeber mit Kaufvertrags-Generator Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Der Ratgeber erklärt, was in einen privaten Kaufvertrag gehört und wie man die Haftung für Mängel ausschließt. Der Kaufvertrags-Generator erstellt den Vertrag für Auto, Motorrad, Fahrrad oder andere Sachen. Die Zielgruppe Privatleute, die ihr Auto verkaufen Käufer von Gebrauchtem Verkäufer auf Kleinanzeigen-Portalen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Ein Auto oder ein teurer Gegenstand wird privat verkauft Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Quittungen und Lieferscheine, Vollmachten, Betrug erkennen) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

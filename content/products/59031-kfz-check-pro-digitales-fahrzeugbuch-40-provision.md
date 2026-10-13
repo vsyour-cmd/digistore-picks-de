@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>KFZ CHECK PRO – Das digitale Fahrzeugbuch</p>
-<p> </p>
-<p>Praktisches digitales Fahrzeugbuch für Fahrer und Halter von Benzin- und Dieselfahrzeugen, die Fahrzeugdaten, Wartungen, Reparaturen, Tankvorgänge und wichtige Informationen übersichtlich dokumentieren möchten.</p>
-<p> </p>
-<p>40 Seiten, interaktiv ausfüllbar – mit geeignetem PDF-Reader auf Smartphone, Tablet und PC.</p>
-<p> </p>
-<p>Produktvorteile:</p>
-<p> </p>
-<p>• Zielgruppe: Fahrer und Halter von Benzin- und Dieselfahrzeugen</p>
-<p>• Wartungs- und Reparaturhistorie</p>
-<p>• 12-Monats-Tankbuch mit Kraftstoff und AdBlue</p>
-<p>• Reifen/Räder, Warnzeichen, Kontakte und Notizen</p>
-<p>• interaktive Felder und anklickbare Kontrollkästchen</p>
-<p>• Schnellstart-Anleitung inklusive</p>
-<p>• Einmalzahlung – kein Abo</p>
-<p> </p>
-<p>Verkaufspreis: 29,90 € inkl. MwSt.</p>
-<p>Affiliate-Provision: 40 %</p>
-<p> </p>
-<p>Geeignet zur Bewerbung über Auto-, Technik-, Werkstatt-, Gebrauchtwagen- und Ratgeber-Content auf TikTok, Instagram, YouTube, Facebook, Blogs und Webseiten.</p>
-<p> </p>
-<p>Für Affiliates werden Werbemittel und Produktbilder bereitgestellt.</p>
+**Vendor's marketplace description:** KFZ CHECK PRO – Das digitale Fahrzeugbuch Praktisches digitales Fahrzeugbuch für Fahrer und Halter von Benzin- und Dieselfahrzeugen, die Fahrzeugdaten, Wartungen, Reparaturen, Tankvorgänge und wichtige Informationen übersichtlich dokumentieren möchten. 40 Seiten, interaktiv ausfüllbar – mit geeignetem PDF-Reader auf Smartphone, Tablet und PC. Produktvorteile: • Zielgruppe: Fahrer und Halter von Benzin- und Dieselfahrzeugen • Wartungs- und Reparaturhistorie • 12-Monats-Tankbuch mit Kraftstoff und AdBlue • Reifen/Räder, Warnzeichen, Kontakte und Notizen • interaktive Felder und anklickbare Kontrollkästchen • Schnellstart-Anleitung inklusive • Einmalzahlung – kein Abo Verkaufspreis: 29,90 € inkl. MwSt. Affiliate-Provision: 40 % Geeignet zur Bewerbung über Auto-, Technik-, Werkstatt-, Gebrauchtwagen- und Ratgeber-Content auf TikTok, Instagram, YouTube, Facebook, Blogs und Webseiten. Für Affiliates werden Werbemittel und Produktbilder bereitgestellt.
 
 ## 2. Links
 

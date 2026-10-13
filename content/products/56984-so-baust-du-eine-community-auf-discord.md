@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Reichweite in eine loyale Discord-Community verwandeln und nachhaltig monetarisieren</strong></p>
-<p>Als Creator hast du Reichweite – aber Discord verwandelt diese Reichweite in echte, tiefe Verbindung. Dieses E-Book zeigt dir, wie du deinen bestehenden Kanal auf YouTube, TikTok oder Instagram in einen aktiven Discord-Server verlängerst, der deinen treusten Fans ein Zuhause gibt. Du lernst, wie du Rollen und exklusive Channels als Anreiz nutzt, welche Community-Events die Aktivität nach oben treiben und wie du Server-Abos und Partnerprogramme als Einnahmequelle aufbaust. Dazu: wie du externen Traffic effizient in deinen Server leitest, wie Bots Events und Moderation übernehmen und wie du aus deiner Discord-Community heraus weitere Angebote platzierst, ohne aufdringlich zu wirken.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Bestehende Reichweite auf YouTube, TikTok &amp; Co. in Discord-Mitglieder verwandeln</li>
-<li>Rollen und exklusive Channels als Anreize für aktive Beteiligung einsetzen</li>
-<li>Community-Events, Challenges und Voice-Sessions, die Aktivität hochhalten</li>
-<li>Server-Abos und Partnerprogramme als planbaren Einkommensstrom aufbauen</li>
-<li>Bots für Event-Management und Moderation einrichten</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Reichweite in eine loyale Discord-Community verwandeln und nachhaltig monetarisieren Als Creator hast du Reichweite – aber Discord verwandelt diese Reichweite in echte, tiefe Verbindung. Dieses E-Book zeigt dir, wie du deinen bestehenden Kanal auf YouTube, TikTok oder Instagram in einen aktiven Discord-Server verlängerst, der deinen treusten Fans ein Zuhause gibt. Du lernst, wie du Rollen und exklusive Channels als Anreiz nutzt, welche Community-Events die Aktivität nach oben treiben und wie du Server-Abos und Partnerprogramme als Einnahmequelle aufbaust. Dazu: wie du externen Traffic effizient in deinen Server leitest, wie Bots Events und Moderation übernehmen und wie du aus deiner Discord-Community heraus weitere Angebote platzierst, ohne aufdringlich zu wirken. Das steckt drin: Bestehende Reichweite auf YouTube, TikTok & Co. in Discord-Mitglieder verwandeln Rollen und exklusive Channels als Anreize für aktive Beteiligung einsetzen Community-Events, Challenges und Voice-Sessions, die Aktivität hochhalten Server-Abos und Partnerprogramme als planbaren Einkommensstrom aufbauen Bots für Event-Management und Moderation einrichten Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

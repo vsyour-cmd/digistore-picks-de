@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Passives KI Affiliate Marketing 2025 – Low-Budget Funnel mit High-Price Backend &amp; 50 % Provision</strong></h2>
-<p><strong>Jetzt Affiliate werden und von einem bewährten Low-Budget-Funnel profitieren, der Leads günstig einsammelt und im Anschluss über einen E-Mail-Funnel hochpreisige Angebote verkauft.</strong></p>
-<h3><strong>Was dich erwartet:</strong></h3>
-<p>✅ <strong>50 % Provision auf den gesamten Funnel</strong><br />✅ <strong>Geräteübergreifendes Tracking – keine Provision geht verloren</strong><br />✅ <strong>Psychologisch optimierter Low-Budget-Funnel (0 € – 19,90 €)</strong><br />✅ <strong>E-Mail-Backend mit High-Price-Produkten und 15 Mailings</strong><br />✅ <strong>100 % digitales Infoprodukt – keine Logistik, kein Aufwand</strong><br />✅ <strong>Top-Zielgruppe: Einsteiger, Affiliates &amp; Online-Marketer</strong></p>
-<p> </p>
+**Vendor's marketplace description:** Passives KI Affiliate Marketing 2025 – Low-Budget Funnel mit High-Price Backend & 50 % Provision Jetzt Affiliate werden und von einem bewährten Low-Budget-Funnel profitieren, der Leads günstig einsammelt und im Anschluss über einen E-Mail-Funnel hochpreisige Angebote verkauft. Was dich erwartet: ✅ 50 % Provision auf den gesamten Funnel ✅ Geräteübergreifendes Tracking – keine Provision geht verloren ✅ Psychologisch optimierter Low-Budget-Funnel (0 € – 19,90 €) ✅ E-Mail-Backend mit High-Price-Produkten und 15 Mailings ✅ 100 % digitales Infoprodukt – keine Logistik, kein Aufwand ✅ Top-Zielgruppe: Einsteiger, Affiliates & Online-Marketer
 
 ## 2. Links
 

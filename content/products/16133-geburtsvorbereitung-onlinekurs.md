@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><span style="color:#993366;">Geburtsvorbereitung Onlinekurs von Hebamme Nadine Beermann</span></h1>
-<h2>Ideale Vorbereitung auf die Geburt für alle Schwangeren:</h2>
-<ul>
-<li>mehr als 20 Kurseinheiten als Video</li>
-<li>alle relevanten Infos rund um die Schwangerschaft, die Geburt und das Wochenbett in einem kompakten Kurs</li>
-<li>praxiserprobtes Wissen, anschaulich und ansprechend vermittelt von Hebamme Nadine Beermann</li>
-<li>erstklassiges Feedback von Kursteilnehmerinnen</li>
-</ul>
-<p><em>Perfektes Produkt auch für Hebammen, die in ihren Kursen vor Ort nicht genügend Plätze anbieten können und mit der Vermittlung dieses Onlinekurses trotzdem mitverdienen können.</em></p>
+**Vendor's marketplace description:** Geburtsvorbereitung Onlinekurs von Hebamme Nadine Beermann Ideale Vorbereitung auf die Geburt für alle Schwangeren: mehr als 20 Kurseinheiten als Video alle relevanten Infos rund um die Schwangerschaft, die Geburt und das Wochenbett in einem kompakten Kurs praxiserprobtes Wissen, anschaulich und ansprechend vermittelt von Hebamme Nadine Beermann erstklassiges Feedback von Kursteilnehmerinnen Perfektes Produkt auch für Hebammen, die in ihren Kursen vor Ort nicht genügend Plätze anbieten können und mit der Vermittlung dieses Onlinekurses trotzdem mitverdienen können.
 
 ## 2. Links
 

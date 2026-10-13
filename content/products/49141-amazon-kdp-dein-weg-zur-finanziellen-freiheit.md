@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Gestalte dein eigenes Buch und verkaufe es auf Amazon!</strong></h3>
-<div><strong>- Ohne Vorkenntnisse oder Verlag</strong></div>
-<p>Hast du schon immer davon geträumt, dein eigenes Buch in den Händen zu halten und damit auch noch Geld zu verdienen? Mit meinem Onlinekurs <strong>"Amazon KDP - Dein Weg zur finanziellen Freiheit"</strong> kann dieser Traum Wirklichkeit werden – und das ganz ohne Vorkenntnisse oder Startkapital.</p>
-<p><strong>Was dich in diesem Kurs erwartet:</strong></p>
-<ul>
-<li>Von der Buchidee bis zu Veröffentlichung. Ich zeige dir Schritt für Schritt wie das funktioniert.</li>
-<li>Wie du mithilfe von KI in einer Woche bis zu 2 Bücher erstellen kannst</li>
-<li>Buchcovergestaltung - Schritt für Schritt </li>
-<li>Tipps und Tricks, wie du komplett ohne Vorkenntnisse zum Bestseller wirst</li>
-<li>Auf was du unbedingt achten &amp; welche Fehler du vermeiden solltest</li>
-</ul>
-<p><strong>Dieser Kurs ist für dich, wenn:</strong></p>
-<ul>
-<li>Du schon immer ein Buch schreiben oder gestalten wolltest, aber nicht wusstest, wo/wie du anfangen sollst.</li>
-<li>Du dir deine finanzielle Freiheit erhöhen wünschst oder dir ein zusätzliches Einkommen generieren möchtest.</li>
-<li>Du unabhängig von einem festen Arbeitsplatz arbeiten möchtest – egal ob am Strand, im Café oder zu Hause vom Sofa aus.</li>
-</ul>
-<p><strong>Warum dieser Kurs?</strong></p>
-<ul>
-<li><strong>Von überall aus arbeiten:</strong> Du kannst arbeiten, wo und wann du willst – sei dein eigener Chef.</li>
-<li><strong>Finanzielle Freiheit:</strong> Erschaffe dir ein passives Einkommen und gewinne mehr finanzielle Sicherheit.</li>
-<li><strong>Unterstützung und Motivation:</strong> Ich zeige dir Schritt für Schritt und ganz einfach erklärt, wie du vorgehen musst.</li>
-</ul>
-<p><strong>Dein Traum, dein Buch, deine Freiheit – jetzt ist die Zeit!</strong> Melde dich noch heute an.  – lass uns gemeinsam loslegen!</p>
-<p>STARTE JETZT!</p>
+**Vendor's marketplace description:** Gestalte dein eigenes Buch und verkaufe es auf Amazon! - Ohne Vorkenntnisse oder Verlag Hast du schon immer davon geträumt, dein eigenes Buch in den Händen zu halten und damit auch noch Geld zu verdienen? Mit meinem Onlinekurs "Amazon KDP - Dein Weg zur finanziellen Freiheit" kann dieser Traum Wirklichkeit werden – und das ganz ohne Vorkenntnisse oder Startkapital. Was dich in diesem Kurs erwartet: Von der Buchidee bis zu Veröffentlichung. Ich zeige dir Schritt für Schritt wie das funktioniert. Wie du mithilfe von KI in einer Woche bis zu 2 Bücher erstellen kannst Buchcovergestaltung - Schritt für Schritt Tipps und Tricks, wie du komplett ohne Vorkenntnisse zum Bestseller wirst Auf was du unbedingt achten & welche Fehler du vermeiden solltest Dieser Kurs ist für dich, wenn: Du schon immer ein Buch schreiben oder gestalten wolltest, aber nicht wusstest, wo/wie du anfangen sollst. Du dir deine finanzielle Freiheit erhöhen wünschst oder dir ein zusätzliches Einkommen generieren möchtest. Du unabhängig von einem festen Arbeitsplatz arbeiten möchtest – egal ob am Strand, im Café oder zu Hause vom Sofa aus. Warum dieser Kurs? Von überall aus arbeiten: Du kannst arbeiten, wo und wann du willst – sei dein eigener Chef. Finanzielle Freiheit: Erschaffe dir ein passives Einkommen und gewinne mehr finanzielle Sicherheit. Unterstützung und Motivation: Ich zeige dir Schritt für Schritt und ganz einfach erklärt, wie du vorgehen musst. Dein Traum, dein Buch, deine Freiheit – jetzt ist die Zeit! Melde dich noch heute an. – lass uns gemeinsam loslegen! STARTE JETZT!
 
 ## 2. Links
 

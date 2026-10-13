@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Verspannungen lösen und die Bewegungsqualität verbessern</strong></h3>
-<h4><br /><strong>Gezielte Massage‑Gun‑Anwendung für Knie &amp; Hinterbein</strong></h4>
-<ul>
-<li>Klare Punkte, klare Reihenfolge, sofort umsetzbar</li>
-<li>Ideal bei Stolpern, Taktfehlern und fehlender</li>
-<li>Lastaufnahme</li>
-<li>Perfekt für Trainer &amp; Pferdebesitzer</li>
-<li>Unterstützt Stabilität, Schubkraft und Taktreinheit</li>
-</ul>
-<p><strong>50 % Provision auf den Kurs + 70 % auf den Komplettkurs‑Upsell.</strong></p>
+**Vendor's marketplace description:** Verspannungen lösen und die Bewegungsqualität verbessern Gezielte Massage‑Gun‑Anwendung für Knie & Hinterbein Klare Punkte, klare Reihenfolge, sofort umsetzbar Ideal bei Stolpern, Taktfehlern und fehlender Lastaufnahme Perfekt für Trainer & Pferdebesitzer Unterstützt Stabilität, Schubkraft und Taktreinheit 50 % Provision auf den Kurs + 70 % auf den Komplettkurs‑Upsell.
 
 ## 2. Links
 

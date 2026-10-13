@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>HOW to "WOW!" in INTERVIEWS<br />Media Secrets by Petra Stumpf</h4>
-<h4>für Business * Sports * Artists * Personality</h4>
-<p>Du stehst vor einem Interview? Dein Auftritt ist gefragt? Aber du weißt nicht worauf es ankommt? In diesem <strong>Crash-Guide</strong> verrät Moderatorin &amp; Media Coach <strong>Petra Stumpf</strong> die wichtigsten Geheimnisse! Wie Medien ticken und wie du dich bestmöglich präsentierst! Für deinen Dialog mit Journalisten und der Öffentlichkeit. Außerdem erfährst du, wie dein Business in die Medien kommt, und wie du einen Medien-Pitch gestaltest.</p>
-<p>Und: auch prominente Persönlichkeiten plaudern aus dem Nähkästchen!</p>
-<ul>
-<li><strong>Julian F.M. Stoeckel</strong> (Moderator &amp; Entertainer)</li>
-<li><strong>Viktor Gernot</strong> (Künstler &amp; Entertainer)</li>
-<li><strong>Reinfried Herbst</strong> (Ex-Skistar &amp; Unternehmer)</li>
-<li><strong>Gerda Rogers</strong> (Star-Astrologin)</li>
-<li><strong>Kevin Wimmer</strong> (Fußballprofi)</li>
-<li><strong>Simone von Anhalt</strong> (Internationale Künstlerin)</li>
-<li><strong>Paul Zödi</strong> (Immobilieninvestor)</li>
-<li><strong>Dr. Günther Marek</strong> (Sektionsleiter Stv. BMI, Gruppe I/C)</li>
-</ul>
-<p>Petras "Erfahrungs-Schatz" aus 15 Jahren &amp; die Tipps der Stars - auf 34 Seiten komprimiert. Simply the essential!</p>
+**Vendor's marketplace description:** HOW to "WOW!" in INTERVIEWS Media Secrets by Petra Stumpf für Business * Sports * Artists * Personality Du stehst vor einem Interview? Dein Auftritt ist gefragt? Aber du weißt nicht worauf es ankommt? In diesem Crash-Guide verrät Moderatorin & Media Coach Petra Stumpf die wichtigsten Geheimnisse! Wie Medien ticken und wie du dich bestmöglich präsentierst! Für deinen Dialog mit Journalisten und der Öffentlichkeit. Außerdem erfährst du, wie dein Business in die Medien kommt, und wie du einen Medien-Pitch gestaltest. Und: auch prominente Persönlichkeiten plaudern aus dem Nähkästchen! Julian F.M. Stoeckel (Moderator & Entertainer) Viktor Gernot (Künstler & Entertainer) Reinfried Herbst (Ex-Skistar & Unternehmer) Gerda Rogers (Star-Astrologin) Kevin Wimmer (Fußballprofi) Simone von Anhalt (Internationale Künstlerin) Paul Zödi (Immobilieninvestor) Dr. Günther Marek (Sektionsleiter Stv. BMI, Gruppe I/C) Petras "Erfahrungs-Schatz" aus 15 Jahren & die Tipps der Stars - auf 34 Seiten komprimiert. Simply the essential!
 
 ## 2. Links
 

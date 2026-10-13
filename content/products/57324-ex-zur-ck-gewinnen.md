@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Ex zurück gewinnen“</strong></p>
-<p>Der ehrliche Weg, um ihre Gefühle wieder zu wecken – Du willst deine Ex zurück? Dieser Ratgeber zeigt dir Schritt für Schritt, wie du nach der Trennung Ruhe bewahrst, typische Männerfehler vermeidest und echte Anziehung neu entfachst – ehrlich und ohne Manipulation.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Warum sie gegangen ist – und was du daraus lernen kannst</li>
-<li>Die Kontaktsperre: warum Abstand dein stärkstes Werkzeug ist</li>
-<li>Die größten Fehler, die Männer nach der Trennung machen</li>
-<li>An dir selbst arbeiten – bevor du sie zurückgewinnst</li>
-<li>Den ersten Kontakt richtig aufbauen</li>
-<li>Anziehung neu entfachen: was Frauen wirklich wollen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Ex zurück gewinnen“ Der ehrliche Weg, um ihre Gefühle wieder zu wecken – Du willst deine Ex zurück? Dieser Ratgeber zeigt dir Schritt für Schritt, wie du nach der Trennung Ruhe bewahrst, typische Männerfehler vermeidest und echte Anziehung neu entfachst – ehrlich und ohne Manipulation. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Warum sie gegangen ist – und was du daraus lernen kannst Die Kontaktsperre: warum Abstand dein stärkstes Werkzeug ist Die größten Fehler, die Männer nach der Trennung machen An dir selbst arbeiten – bevor du sie zurückgewinnst Den ersten Kontakt richtig aufbauen Anziehung neu entfachen: was Frauen wirklich wollen
 
 ## 2. Links
 

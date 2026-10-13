@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Iron Plates – Die 10 besten Low-Carb-Rezepte | Teil 1</strong><br />Dein Einstieg in die genussvolle Low-Carb-Küche!<br />In diesem kompakten E-Book erwarten dich 10 eiweißreiche, alltagstaugliche Rezepte – perfekt für Muskelaufbau, Fettverbrennung und einen gesunden Lifestyle. Einfach, lecker &amp; ohne Reue genießen!</p>
+**Vendor's marketplace description:** Iron Plates – Die 10 besten Low-Carb-Rezepte | Teil 1 Dein Einstieg in die genussvolle Low-Carb-Küche! In diesem kompakten E-Book erwarten dich 10 eiweißreiche, alltagstaugliche Rezepte – perfekt für Muskelaufbau, Fettverbrennung und einen gesunden Lifestyle. Einfach, lecker & ohne Reue genießen!
 
 ## 2. Links
 

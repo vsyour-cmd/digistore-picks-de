@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Schlafklar für Hochsensible</strong> ist ein deutschsprachiger digitaler Selbstlernkurs von Mars Kaiser für Menschen, die abends erschöpft sind und sich dennoch innerlich wach fühlen.</p>
-<p>Der Kurs verbindet verständliches Wissen über Schlaf und Reizverarbeitung mit Anregungen zur Selbstbeobachtung. Er umfasst 4 Module, 20 Lerneinheiten und 19 PDFs, darunter ein 30-Tage-Programm und vier private Reflexionshefte. Die Teilnehmenden lernen in ihrem eigenen Tempo. Individuelle Begleitung, persönliche Rückmeldungen und Calls sind nicht enthalten.</p>
-<p><strong>Für Affiliates:</strong> Das Angebot passt zu Inhalten über Hochsensibilität, abendliches Grübeln, Reizverarbeitung und Selbstfürsorge. Die klar umrissene Zielgruppe und die Verbindung aus Erklärungen und Arbeitsmaterialien bieten konkrete Anknüpfungspunkte für eine sachliche Empfehlung.</p>
-<ul>
-<li>Verkaufspreis: 199 € einmalig, kein Abonnement. Eingerichtete Ratenpläne haben denselben Gesamtbetrag.</li>
-<li>Affiliate-Provision: 30 %. Partnerschaftsanfragen werden automatisch angenommen.</li>
-<li>Produkt-ID: 730272. Den persönlichen Promolink bitte direkt über Digistore24 beziehen.</li>
-</ul>
-<p>Die tatsächliche Provisionsabrechnung richtet sich nach Digistore24. Es werden keine festen Auszahlungsbeträge, Conversion-Raten oder Einnahmen zugesagt.</p>
-<p>Bitte Werbung und Affiliate-Links klar kennzeichnen und den Kurs nicht als kostenloses Webinar bewerben. Der Kurs ersetzt keine medizinische oder psychotherapeutische Abklärung oder Behandlung und verspricht keine bestimmten Schlafergebnisse. Anhaltende oder stark belastende Schlafbeschwerden sollten fachlich abgeklärt werden.</p>
+**Vendor's marketplace description:** Schlafklar für Hochsensible ist ein deutschsprachiger digitaler Selbstlernkurs von Mars Kaiser für Menschen, die abends erschöpft sind und sich dennoch innerlich wach fühlen. Der Kurs verbindet verständliches Wissen über Schlaf und Reizverarbeitung mit Anregungen zur Selbstbeobachtung. Er umfasst 4 Module, 20 Lerneinheiten und 19 PDFs, darunter ein 30-Tage-Programm und vier private Reflexionshefte. Die Teilnehmenden lernen in ihrem eigenen Tempo. Individuelle Begleitung, persönliche Rückmeldungen und Calls sind nicht enthalten. Für Affiliates: Das Angebot passt zu Inhalten über Hochsensibilität, abendliches Grübeln, Reizverarbeitung und Selbstfürsorge. Die klar umrissene Zielgruppe und die Verbindung aus Erklärungen und Arbeitsmaterialien bieten konkrete Anknüpfungspunkte für eine sachliche Empfehlung. Verkaufspreis: 199 € einmalig, kein Abonnement. Eingerichtete Ratenpläne haben denselben Gesamtbetrag. Affiliate-Provision: 30 %. Partnerschaftsanfragen werden automatisch angenommen. Produkt-ID: 730272. Den persönlichen Promolink bitte direkt über Digistore24 beziehen. Die tatsächliche Provisionsabrechnung richtet sich nach Digistore24. Es werden keine festen Auszahlungsbeträge, Conversion-Raten oder Einnahmen zugesagt. Bitte Werbung und Affiliate-Links klar kennzeichnen und den Kurs nicht als kostenloses Webinar bewerben. Der Kurs ersetzt keine medizinische oder psychotherapeutische Abklärung oder Behandlung und verspricht keine bestimmten Schlafergebnisse. Anhaltende oder stark belastende Schlafbeschwerden sollten fachlich abgeklärt werden.
 
 ## 2. Links
 

@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong>eBook Chakra Mandala Malbuch &amp; Praxislehre für Erwachsene</strong></div>
-<div>
-<p><strong> </strong></p>
-<p><strong> </strong></p>
-<p>Das erhältst du in diesem eBook</p>
-<ul>
-<li>Grundinformationen zum Chakrasystem</li>
-<li>Die 7 Hauptchakras im Profil erklärt</li>
-<li>14 Chakra Mandala Ausmalmotive zur kreativen Entspannung zum ausdrucken</li>
-<li>weitere spirituelle Ausmalmotive</li>
-<li>Meditation-Anleitung Chakrareinigung</li>
-<li>Meditation-Anleitung Aurareinigung</li>
-</ul>
-<p> </p>
-<p><strong>Du erhältst 50% Provision für deine Weiterempfehlung!</strong></p>
-</div>
+**Vendor's marketplace description:** eBook Chakra Mandala Malbuch & Praxislehre für Erwachsene Das erhältst du in diesem eBook Grundinformationen zum Chakrasystem Die 7 Hauptchakras im Profil erklärt 14 Chakra Mandala Ausmalmotive zur kreativen Entspannung zum ausdrucken weitere spirituelle Ausmalmotive Meditation-Anleitung Chakrareinigung Meditation-Anleitung Aurareinigung Du erhältst 50% Provision für deine Weiterempfehlung!
 
 ## 2. Links
 

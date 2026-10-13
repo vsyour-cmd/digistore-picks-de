@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<p><strong>Lieber Affiliate!</strong></p>
-<p>Ich freue mich, dass Du <strong>mein <a>Videoseminar „Hufe raspeln leicht gemacht“</a></strong> verkaufen möchtest.</p>
-<p><strong>Mit Hilfe der Inhalte dieses Videoseminars können Pferdebesitzer selbst erheblich zur Gesunderhaltung und Wohlbefinden ihres Pferdes beitragen!</strong> Denn viele Pferde brauchen „Zwischenpflege“ zwischen den normalen Hufbearbeitungsterminen.</p>
-</div>
-</div>
-<div>
-<div>
-<p><strong>In diesem Videoseminar zeige ich…</strong></p>
-<ul><li><strong>viele verschiedene Techniken, wie</strong> man die Hufe seines Pferdes beraspelt!</li>
-<li>welche <strong>Energie sparenden Techniken</strong> es gibt, um die eigenen Kräfte zu schonen!</li>
-<li>mit welchen <strong>Hilfsmitteln</strong> man die Hufe seines Pferdes am besten bearbeiten sollte!</li>
-<li><strong>wie der Huf des Pferdes aufgebaut ist</strong>!</li>
-<li>welche <strong>korrektiven Raspeltechniken</strong> es gibt, um auch problematische Hufe korrigieren zu können!</li>
-<li>wichtige <strong>Sicherheitshinweise für sicheres Arbeiten am Pferdehuf</strong>!</li>
-</ul><p><strong>Dieser Videokurs hat eine Gesamtdauer von über 33 Minuten Laufzeit.</strong></p>
-</div>
-</div>
+**Vendor's marketplace description:** Lieber Affiliate! Ich freue mich, dass Du mein Videoseminar „Hufe raspeln leicht gemacht“ verkaufen möchtest. Mit Hilfe der Inhalte dieses Videoseminars können Pferdebesitzer selbst erheblich zur Gesunderhaltung und Wohlbefinden ihres Pferdes beitragen! Denn viele Pferde brauchen „Zwischenpflege“ zwischen den normalen Hufbearbeitungsterminen. In diesem Videoseminar zeige ich… viele verschiedene Techniken, wie man die Hufe seines Pferdes beraspelt! welche Energie sparenden Techniken es gibt, um die eigenen Kräfte zu schonen! mit welchen Hilfsmitteln man die Hufe seines Pferdes am besten bearbeiten sollte! wie der Huf des Pferdes aufgebaut ist ! welche korrektiven Raspeltechniken es gibt, um auch problematische Hufe korrigieren zu können! wichtige Sicherheitshinweise für sicheres Arbeiten am Pferdehuf ! Dieser Videokurs hat eine Gesamtdauer von über 33 Minuten Laufzeit.
 
 ## 2. Links
 

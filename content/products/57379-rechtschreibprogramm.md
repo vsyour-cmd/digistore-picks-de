@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Onlineprogramm zur Förderung von Lese- und Schreibfähigkeiten sowie Optimierung der Rechtschreibleistung mit Hilfe der rhythmusbasierten Förderung.</p>
-<p>Zugang 9 Monate inkl. Material, Anleitungsvideos</p>
+**Vendor's marketplace description:** Onlineprogramm zur Förderung von Lese- und Schreibfähigkeiten sowie Optimierung der Rechtschreibleistung mit Hilfe der rhythmusbasierten Förderung. Zugang 9 Monate inkl. Material, Anleitungsvideos
 
 ## 2. Links
 

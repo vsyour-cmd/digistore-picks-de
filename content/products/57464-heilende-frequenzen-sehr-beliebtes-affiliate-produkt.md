@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><span style="background-color:#99cc00;">Erhalte zwischen 3,50 und 5 Euro Provision pro Verkauf.</span></strong></p>
-<p>Einige Affiliates verdienen damit richtig gut. Sei du der nächste.</p>
-<p>Zielgruppe: Stressabbau, besser Schlafen, Ängste loserden, Spiritualität.</p>
+**Vendor's marketplace description:** Erhalte zwischen 3,50 und 5 Euro Provision pro Verkauf. Einige Affiliates verdienen damit richtig gut. Sei du der nächste. Zielgruppe: Stressabbau, besser Schlafen, Ängste loserden, Spiritualität.
 
 ## 2. Links
 

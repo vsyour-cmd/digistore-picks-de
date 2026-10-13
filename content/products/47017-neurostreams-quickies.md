@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die Quickies sind Kurzversionen von Neurostreams™ aus (fast) allen Anwendungs-Gebieten.</p>
-<p>Genauso wirksam - jedoch "schneller rein und schneller raus" in Sachen Zielfrequenz.</p>
-<p>Die Quickies dauern nur halb so lang wie die Originale.</p>
-<p> </p>
-<p><strong>Enthalten sind jeweils zwei Versionen von:</strong></p>
-<p>von den Neurostreams™ <strong>KLASSIKERN</strong>...</p>
-<ul>
-<li>Wellness Walk, Delta Frischzellenkur, DNA Talk, Co-Creation Galaxie, Zukunft schauen, Gaia Club Radio, Flow trifft Genie</li>
-</ul>
-<p>aus der Neurostreams™ <strong>ZenBox</strong>...</p>
-<ul>
-<li>Kyoto Dimension, Silberfaden, Zen Quasar</li>
-</ul>
-<p>von den Neurostreams™ <strong>Antriebswellen</strong>...</p>
-<ul>
-<li>Gamma Hammer, Frühaufsteherbelohnung, Pure Lebendigkeit</li>
-</ul>
-<p>aus dem Neurostreams™ <strong>LABOR</strong>...</p>
-<ul>
-<li>Treffpunkt Garten Eden, Power Kur, Das innere Kind [Theta]</li>
-</ul>
-<p>und vom Neurostreams™ <strong>Schlafgold</strong>...</p>
-<ul>
-<li>Einschlaf-Erzwingung, Der Rest ist Schweigen</li>
-</ul>
-<p> </p>
-<p><strong>Auch für Einsteiger und Anfänger geeignet.</strong></p>
-<p>Die Quickies-Sammlung enthält 34 abwechslungsreiche Sessions (über 8 Stunden) mit durchgehend brandneuen, bisher noch nicht gehörten Melodien.</p>
-<p>Alle Neurostreams™ sind jederzeit auf <strong>unbegrenzt viele</strong> Geräte übertragbar und können <strong>beliebig oft</strong> angehört werden!</p>
-<p>Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux.</p>
+**Vendor's marketplace description:** Die Quickies sind Kurzversionen von Neurostreams™ aus (fast) allen Anwendungs-Gebieten. Genauso wirksam - jedoch "schneller rein und schneller raus" in Sachen Zielfrequenz. Die Quickies dauern nur halb so lang wie die Originale. Enthalten sind jeweils zwei Versionen von: von den Neurostreams™ KLASSIKERN ... Wellness Walk, Delta Frischzellenkur, DNA Talk, Co-Creation Galaxie, Zukunft schauen, Gaia Club Radio, Flow trifft Genie aus der Neurostreams™ ZenBox ... Kyoto Dimension, Silberfaden, Zen Quasar von den Neurostreams™ Antriebswellen ... Gamma Hammer, Frühaufsteherbelohnung, Pure Lebendigkeit aus dem Neurostreams™ LABOR ... Treffpunkt Garten Eden, Power Kur, Das innere Kind [Theta] und vom Neurostreams™ Schlafgold ... Einschlaf-Erzwingung, Der Rest ist Schweigen Auch für Einsteiger und Anfänger geeignet. Die Quickies-Sammlung enthält 34 abwechslungsreiche Sessions (über 8 Stunden) mit durchgehend brandneuen, bisher noch nicht gehörten Melodien. Alle Neurostreams™ sind jederzeit auf unbegrenzt viele Geräte übertragbar und können beliebig oft angehört werden! Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux.
 
 ## 2. Links
 

@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>New Spirit for Money &amp; Business Kongress ist ein Evergreen Kongress.</p>
-<p>Viele Menschen erleben gerade eine Welt im Chaos, mit Ängsten und größten Herausforderungen.</p>
-<p><strong>Der Wunsch nach Freiheit, Liebe und Wohlstand für alle Menschen wird immer stärker.</strong></p>
-<p>Dieser Wunsch kommt tief aus <strong>Deinem Herzen</strong> und dort ist der Ort, wo Neues entstehen darf. Aus dieser Quelle entstehen neue Berufe und Möglichkeiten für dich.</p>
-<p>Beim <strong>New Spirit for Money &amp; Business Kongress – Zeit für neue Berufe </strong>geben Dir 38 Leader der Neuen Zeit die allerbeste Inspiration und Unterstützung auf diesem Weg in dein erfülltes Leben. </p>
-<p>Sei beim <strong>New Spirit for Money &amp; Business Kongress</strong> dabei und entdecke den New Spirit für dich!</p>
-<p>Wie du das machst, zeigen Dir folgende Experten: </p>
-<p>Adrian Giger, Amata Bayerl, Andrea Hammer, Andreas Dämon, Anja Häfner, Anna Nguyen, Anneli Eick, Daniel Hauber und Stefan Beier, Britta Gerdes-Petersen, Carmen Duffner, Claus-Stefan Duffner, Christine Schlonski, Christoph Heuermann, Conny Bock, Denys Schwarnweber, Edith Steller, Florian Günther, Ines Koban, Insha Holz, Janaina von Moos, Joschi Haunsberger, Jyotima Flak, Korinna Heintze, Konstantin Peterson, Heike Engel, Meike Hohenwarter, Norbert Hofer, Samuel Kegel, Sigrid Reutter, Stefan Dittrich, Steffen Padberg, <br />Stephan Petrowitsch, Stefanie Bruns, Timo Simon, Ulrike und Raimund Stix, Wolfgang Ehs</p>
-<p>Das New Spirit VIP Paket &amp; Bundle enthält Onlöinekurse und Videos der Sprecher im Wert von über 7095€.</p>
-<p><strong>Du erhältst 50% Affiliate Provision pro Verkauf.</strong></p>
-<p>Banner, Trailer &amp; Texte findest Du auf der Partnerprogramm Seite.</p>
-<p>Vielen herzlichen Dank für Deine Unterstützung.</p>
-<p> </p>
+**Vendor's marketplace description:** New Spirit for Money & Business Kongress ist ein Evergreen Kongress. Viele Menschen erleben gerade eine Welt im Chaos, mit Ängsten und größten Herausforderungen. Der Wunsch nach Freiheit, Liebe und Wohlstand für alle Menschen wird immer stärker. Dieser Wunsch kommt tief aus Deinem Herzen und dort ist der Ort, wo Neues entstehen darf. Aus dieser Quelle entstehen neue Berufe und Möglichkeiten für dich. Beim New Spirit for Money & Business Kongress – Zeit für neue Berufe geben Dir 38 Leader der Neuen Zeit die allerbeste Inspiration und Unterstützung auf diesem Weg in dein erfülltes Leben. Sei beim New Spirit for Money & Business Kongress dabei und entdecke den New Spirit für dich! Wie du das machst, zeigen Dir folgende Experten: Adrian Giger, Amata Bayerl, Andrea Hammer, Andreas Dämon, Anja Häfner, Anna Nguyen, Anneli Eick, Daniel Hauber und Stefan Beier, Britta Gerdes-Petersen, Carmen Duffner, Claus-Stefan Duffner, Christine Schlonski, Christoph Heuermann, Conny Bock, Denys Schwarnweber, Edith Steller, Florian Günther, Ines Koban, Insha Holz, Janaina von Moos, Joschi Haunsberger, Jyotima Flak, Korinna Heintze, Konstantin Peterson, Heike Engel, Meike Hohenwarter, Norbert Hofer, Samuel Kegel, Sigrid Reutter, Stefan Dittrich, Steffen Padberg, Stephan Petrowitsch, Stefanie Bruns, Timo Simon, Ulrike und Raimund Stix, Wolfgang Ehs Das New Spirit VIP Paket & Bundle enthält Onlöinekurse und Videos der Sprecher im Wert von über 7095€. Du erhältst 50% Affiliate Provision pro Verkauf. Banner, Trailer & Texte findest Du auf der Partnerprogramm Seite. Vielen herzlichen Dank für Deine Unterstützung.
 
 ## 2. Links
 

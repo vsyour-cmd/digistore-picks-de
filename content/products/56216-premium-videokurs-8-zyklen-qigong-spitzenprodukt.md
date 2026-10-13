@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hallo lieber Affiliate, wenn du dieses Produkt bewirbst, dann kannst du auf satte </p>
-<h2><strong>50% Provision pro Verkauf</strong></h2>
-<p>rechnen.</p>
-<p><strong>Zu jeder Zeit bin ich für dich per Email aber auch per WhatsApp 0034-649393395 erreichbar und erstelle auf Wunsch auch gerne individuelle Werbemittel.</strong></p>
-<p>Besuche über den Link unten auch gerne meine Affiliate Supportseite, denn dort findest du jede Menge sehr gute und attraktive Werbemittel: Vorlage-Newsletter, Werbebanner in allen Größen,...</p>
-<p><strong>Das bewirbst du:</strong></p>
-<p>Dieser Qigong-Kurs ist hilfreich bei Beschwerden im Bewegungsablauf, wie z.B.</p>
-<ul>
-<li>Rücken- oder Gelenksschmerzen,</li>
-<li>Stress</li>
-<li>Schlafproblemen</li>
-<li>Atembeschwerden oder</li>
-<li>effektive Gesundheitsvorsorge u.v.m.</li>
-</ul>
-<p><strong>Zielgruppe:</strong></p>
-<p>Frauen und Männer <strong>45+</strong>, welche aktiv für ihr Wohlbefinden sorgen und wieder ihre wohlverdiente <strong>körperliche Gesundheit und emotionale Ausgeglichenheit mit Qigong zurückerobern</strong> wollen.</p>
+**Vendor's marketplace description:** Hallo lieber Affiliate, wenn du dieses Produkt bewirbst, dann kannst du auf satte 50% Provision pro Verkauf rechnen. Zu jeder Zeit bin ich für dich per Email aber auch per WhatsApp 0034-649393395 erreichbar und erstelle auf Wunsch auch gerne individuelle Werbemittel. Besuche über den Link unten auch gerne meine Affiliate Supportseite, denn dort findest du jede Menge sehr gute und attraktive Werbemittel: Vorlage-Newsletter, Werbebanner in allen Größen,... Das bewirbst du: Dieser Qigong-Kurs ist hilfreich bei Beschwerden im Bewegungsablauf, wie z.B. Rücken- oder Gelenksschmerzen, Stress Schlafproblemen Atembeschwerden oder effektive Gesundheitsvorsorge u.v.m. Zielgruppe: Frauen und Männer 45+ , welche aktiv für ihr Wohlbefinden sorgen und wieder ihre wohlverdiente körperliche Gesundheit und emotionale Ausgeglichenheit mit Qigong zurückerobern wollen.
 
 ## 2. Links
 

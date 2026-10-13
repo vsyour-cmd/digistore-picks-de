@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>50% Provisionen auf jeden Verkauf der Somnia-Formel!</strong></span></p>
-<p>Stell dir vor:</p>
-<ul>
-<li>
-<p>Du legst dich abends ins Bett – und innerhalb weniger Minuten spürst du, wie dein Körper in die Ruhe gleitet und du einschlafen kannst</p>
-</li>
-<li>
-<p>Du kannst durchschlafen, ohne ständiges Aufwachen beim Schlafen</p>
-</li>
-<li>
-<p>Du kannst frühs aufwachen – erholt, klar im Kopf und voller Energie.</p>
-</li>
-<li>
-<p>Dein Tag fühlt sich leichter an, weil du wieder die Kraft hast, alles zu meistern.</p>
-</li>
-</ul>
-<p><strong>Genau das ist möglich – mit der „Schlafformel“.</strong></p>
+**Vendor's marketplace description:** 50% Provisionen auf jeden Verkauf der Somnia-Formel! Stell dir vor: Du legst dich abends ins Bett – und innerhalb weniger Minuten spürst du, wie dein Körper in die Ruhe gleitet und du einschlafen kannst Du kannst durchschlafen, ohne ständiges Aufwachen beim Schlafen Du kannst frühs aufwachen – erholt, klar im Kopf und voller Energie. Dein Tag fühlt sich leichter an, weil du wieder die Kraft hast, alles zu meistern. Genau das ist möglich – mit der „Schlafformel“.
 
 ## 2. Links
 

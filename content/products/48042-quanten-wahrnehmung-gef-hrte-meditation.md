@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong>Quantenwahrnehmung</strong></div>
-<div>
-<p>Eine geführte Wahrnehmungsübung: "Wie du die Quantenphysik und deine Wahrnehmung nutzt, um Situationen und Umstände in deinem Leben anzupassen!"</p>
-<div>Aus einem tiefen Moment der Ruhe und Entspannung heraus, nutzen wir unsere innere Wahrnehmung und bringen ein persönliches Thema, eine Situation die uns beschäftigt, in Bewegung und sorgen somit für Veränderung.</div>
-<div> </div>
-<div> </div>
-</div>
-<div><strong>Deine Vorteile als Affiliate:</strong></div>
-<div> </div>
-<ul>
-<li>50% Provision für jeden erzielten Verkauf</li>
-<li>Verbreite Ruhe, Entspannung &amp; Kraft!</li>
-</ul>
-<p> </p>
-<p>Unterstütze Menschen dabei, sich zu fühlen, zu entspannen, zur Ruhe- und in ihre Kraft zu kommen!</p>
+**Vendor's marketplace description:** Quantenwahrnehmung Eine geführte Wahrnehmungsübung: "Wie du die Quantenphysik und deine Wahrnehmung nutzt, um Situationen und Umstände in deinem Leben anzupassen!" Aus einem tiefen Moment der Ruhe und Entspannung heraus, nutzen wir unsere innere Wahrnehmung und bringen ein persönliches Thema, eine Situation die uns beschäftigt, in Bewegung und sorgen somit für Veränderung. Deine Vorteile als Affiliate: 50% Provision für jeden erzielten Verkauf Verbreite Ruhe, Entspannung & Kraft! Unterstütze Menschen dabei, sich zu fühlen, zu entspannen, zur Ruhe- und in ihre Kraft zu kommen!
 
 ## 2. Links
 

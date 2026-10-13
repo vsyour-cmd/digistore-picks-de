@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Viele Eltern wollen ruhig bleiben – aber im Alltag wird doch geschrien.</p>
-<p>Mit „Ohne Schreien – Das 7-Tage Reset“ lernen Eltern Schritt für Schritt,<br />wie sie ihr Kind liebevoll begleiten und Konflikte ohne Schreien lösen.</p>
-<p>✅ Sofort umsetzbare Strategien<br />✅ Für Kinder in der Trotzphase<br />✅ Mehr Ruhe im Familienalltag<br />✅ In nur 7 Tagen erste Veränderungen</p>
-<p>Perfekt für Eltern, die sich weniger Stress und mehr Verbindung mit ihrem Kind wünschen.</p>
-<p>Jetzt starten und den Familienalltag entspannter machen!</p>
+**Vendor's marketplace description:** Viele Eltern wollen ruhig bleiben – aber im Alltag wird doch geschrien. Mit „Ohne Schreien – Das 7-Tage Reset“ lernen Eltern Schritt für Schritt, wie sie ihr Kind liebevoll begleiten und Konflikte ohne Schreien lösen. ✅ Sofort umsetzbare Strategien ✅ Für Kinder in der Trotzphase ✅ Mehr Ruhe im Familienalltag ✅ In nur 7 Tagen erste Veränderungen Perfekt für Eltern, die sich weniger Stress und mehr Verbindung mit ihrem Kind wünschen. Jetzt starten und den Familienalltag entspannter machen!
 
 ## 2. Links
 

@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Thema:</strong> Hundepsychologie &amp; Verhalten</p>
-<p>Dieses Hörbuch erklärt verständlich, wie Hunde ihre Umwelt wahrnehmen und warum sie sich so verhalten, wie sie es tun.</p>
-<p><strong>Zielgruppe:</strong> Hundehalter:innen, Trainer:innen und alle, die Verhalten einordnen wollen statt mit Mythen oder Dominanzansätzen zu arbeiten.</p>
-<p><strong>Besonderheit:</strong><br />– fundiert &amp; verständlich<br />– ohne Erziehungsdogmen<br />– ideal für Social Media, Blogs &amp; Newsletter</p>
-<p><strong>Format:</strong><br />– digitales Hörbuch (MP3)<br />– ca. 66 Minuten<br />– sofortiger Download</p>
-<p><strong>Provision:</strong> 50 % pro Verkauf</p>
+**Vendor's marketplace description:** Thema: Hundepsychologie & Verhalten Dieses Hörbuch erklärt verständlich, wie Hunde ihre Umwelt wahrnehmen und warum sie sich so verhalten, wie sie es tun. Zielgruppe: Hundehalter:innen, Trainer:innen und alle, die Verhalten einordnen wollen statt mit Mythen oder Dominanzansätzen zu arbeiten. Besonderheit: – fundiert & verständlich – ohne Erziehungsdogmen – ideal für Social Media, Blogs & Newsletter Format: – digitales Hörbuch (MP3) – ca. 66 Minuten – sofortiger Download Provision: 50 % pro Verkauf
 
 ## 2. Links
 

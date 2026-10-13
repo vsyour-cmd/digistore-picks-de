@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>SerCuerdas The Pure Art of Serrada ng Escrima</div>
-<div> </div>
-<div>Vol. 1 -3 The Foundation Set 1-3 Vol. 1 Set1 Basic Weapons Training ca.35 min. Master JC Cabiero erklärt, zeigt und demonstriert: Ser Cuerdas, The Rattan Parts, Twirling, C-Hand, Signals, Triangel Footwork Positioning 80/20, Salute,Basic Strikes 1-12, Cincotero Flow, DeCadena Flow, Basic Blocks 1-12 Set1</div>
-<div> </div>
-<div> </div>
-<div>Vol. 2 The Foundation Set 2 Basic Weapons Training ca. 35 min. Master JC Cabiero erklärt, zeigt und demonstriert: Basic Strikes 1-12, Basic Blocks 1-12 Set 2 Lock and Block Sparring</div>
-<div> </div>
-<div> </div>
-<div>Vol. 3 The Foundation Set 3 Basic Weapons Training ca. 30 min. Master JC Cabiero erklärt, zeigt und demonstriert: Basic Strikes 1-12, Basic Blocks 1-12 Set 3 Lock and Block Sparring Advanced Weapons Training Sprache Englisch</div>
-<div> </div>
-<div>
-<div>
-<div>
-<p>Welcome to  martial arts online      </p>
-</div>
-</div>
-<div>
-<div>
-<p>Not all products are visible in the marketplace! Here you have an overview of all products and commission. Go to our affiliate support page...</p>
-<blockquote>
-<h5>https://wute-mitgliedschaften.funnelcockpit.com/affiliate/support/</h5>
-</blockquote>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** SerCuerdas The Pure Art of Serrada ng Escrima Vol. 1 -3 The Foundation Set 1-3 Vol. 1 Set1 Basic Weapons Training ca.35 min. Master JC Cabiero erklärt, zeigt und demonstriert: Ser Cuerdas, The Rattan Parts, Twirling, C-Hand, Signals, Triangel Footwork Positioning 80/20, Salute,Basic Strikes 1-12, Cincotero Flow, DeCadena Flow, Basic Blocks 1-12 Set1 Vol. 2 The Foundation Set 2 Basic Weapons Training ca. 35 min. Master JC Cabiero erklärt, zeigt und demonstriert: Basic Strikes 1-12, Basic Blocks 1-12 Set 2 Lock and Block Sparring Vol. 3 The Foundation Set 3 Basic Weapons Training ca. 30 min. Master JC Cabiero erklärt, zeigt und demonstriert: Basic Strikes 1-12, Basic Blocks 1-12 Set 3 Lock and Block Sparring Advanced Weapons Training Sprache Englisch Welcome to martial arts online Not all products are visible in the marketplace! Here you have an overview of all products and commission. Go to our affiliate support page... https://wute-mitgliedschaften.funnelcockpit.com/affiliate/support/
 
 ## 2. Links
 

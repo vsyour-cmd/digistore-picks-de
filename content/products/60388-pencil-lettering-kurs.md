@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der Pencil-Lettering-Kurs: Der Weg zu locker-leichten Handletterings mit dem Bleistift</strong></p>
-<hr />
-<p>Im Pencil-Lettering-Kurs lernen die Teilnehmer das lockere Handlettering mit dem Bleistift. Kurzweilige Lektionen laden zum Kritzeln ein und lassen sich auch unterwegs oder auf dem Sofa machen.</p>
-<p>Mit einer Kombination aus Handlettering, Illustration und Verzierung entstehen kleine Kunstwerke, die Freude machen.</p>
+**Vendor's marketplace description:** Der Pencil-Lettering-Kurs: Der Weg zu locker-leichten Handletterings mit dem Bleistift Im Pencil-Lettering-Kurs lernen die Teilnehmer das lockere Handlettering mit dem Bleistift. Kurzweilige Lektionen laden zum Kritzeln ein und lassen sich auch unterwegs oder auf dem Sofa machen. Mit einer Kombination aus Handlettering, Illustration und Verzierung entstehen kleine Kunstwerke, die Freude machen.
 
 ## 2. Links
 

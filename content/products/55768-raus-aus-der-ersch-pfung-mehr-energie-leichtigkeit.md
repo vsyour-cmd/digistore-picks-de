@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>E-Book: „Raus aus der Erschöpfung – endlich mehr Energie und Leichtigkeit im Leben!“</strong></h3>
-<p>Fühlst du dich oft müde, erschöpft und kraftlos? Dieses E-Book zeigt dir, wie du deine Energie zurückgewinnst und dich wieder wohlfühlst.</p>
-<p>✅ <strong>Erkenne die Ursachen deiner Erschöpfung</strong><br />✅ <strong>Mache Selbsttests &amp; entlarve deine Energieräuber</strong><br />✅ <strong>Nutze praktische Übungen &amp; schnelle Energie-Kicks</strong><br />✅ <strong>Erstelle deinen persönlichen Energieplan</strong></p>
-<p> </p>
+**Vendor's marketplace description:** E-Book: „Raus aus der Erschöpfung – endlich mehr Energie und Leichtigkeit im Leben!“ Fühlst du dich oft müde, erschöpft und kraftlos? Dieses E-Book zeigt dir, wie du deine Energie zurückgewinnst und dich wieder wohlfühlst. ✅ Erkenne die Ursachen deiner Erschöpfung ✅ Mache Selbsttests & entlarve deine Energieräuber ✅ Nutze praktische Übungen & schnelle Energie-Kicks ✅ Erstelle deinen persönlichen Energieplan
 
 ## 2. Links
 

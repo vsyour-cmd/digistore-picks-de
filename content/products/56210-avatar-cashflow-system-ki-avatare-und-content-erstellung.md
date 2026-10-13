@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Avatar Cashflow System</h2>
-<p><strong>Avatar Cashflow System</strong> ist ein digitaler Online-Kurs rund um KI-Avatare, Content-Erstellung und die praktische Anwendung im Online-Bereich.</p>
-<p>Enthalten sind:<br />• Ein Intro<br />• Ein „Start hier“-Bereich<br />• 7 Kursmodule<br />• Bonusinhalte zu Hooks und Avatar-Sätzen</p>
-<p>Der Kurs wird kontinuierlich erweitert und weiterentwickelt. Das neue Modul „Reichweite &amp; Einnahmen“ ist bereits fertiggestellt und im Kurs enthalten.Weitere exklusive Module befinden sich in Vorbereitung.</p>
-<p>Der Kurs vermittelt Grundlagen zu KI-Avataren, zeigt die Erstellung eines eigenen Avatars, den Aufbau von Content und Hooks sowie erste Ansätze zur praktischen Nutzung und Kundengewinnung.</p>
-<p>Zusätzlich erhalten Käufer Vorlagen und Beispiele für Hooks und Avatar-Sätze zur eigenen Verwendung.</p>
-<p>Das Produkt wird digital bereitgestellt. Der Zugriff erfolgt online nach dem Kauf über einen bereitgestellten Zugangslink.</p>
-<p>Es handelt sich um ein digitales Informationsprodukt ohne Erfolgs-, Umsatz- oder Einkommensgarantie.</p>
-<p>Rückgaberegelung:Für dieses Produkt gilt eine Rückgabefrist von 14 Tagen. Nach einer wirksamen Rückgabe bzw.Rückerstattung besteht der bezahlte Nutzungsanspruch grundsätzlich nicht mehr.</p>
+**Vendor's marketplace description:** Avatar Cashflow System Avatar Cashflow System ist ein digitaler Online-Kurs rund um KI-Avatare, Content-Erstellung und die praktische Anwendung im Online-Bereich. Enthalten sind: • Ein Intro • Ein „Start hier“-Bereich • 7 Kursmodule • Bonusinhalte zu Hooks und Avatar-Sätzen Der Kurs wird kontinuierlich erweitert und weiterentwickelt. Das neue Modul „Reichweite & Einnahmen“ ist bereits fertiggestellt und im Kurs enthalten.Weitere exklusive Module befinden sich in Vorbereitung. Der Kurs vermittelt Grundlagen zu KI-Avataren, zeigt die Erstellung eines eigenen Avatars, den Aufbau von Content und Hooks sowie erste Ansätze zur praktischen Nutzung und Kundengewinnung. Zusätzlich erhalten Käufer Vorlagen und Beispiele für Hooks und Avatar-Sätze zur eigenen Verwendung. Das Produkt wird digital bereitgestellt. Der Zugriff erfolgt online nach dem Kauf über einen bereitgestellten Zugangslink. Es handelt sich um ein digitales Informationsprodukt ohne Erfolgs-, Umsatz- oder Einkommensgarantie. Rückgaberegelung:Für dieses Produkt gilt eine Rückgabefrist von 14 Tagen. Nach einer wirksamen Rückgabe bzw.Rückerstattung besteht der bezahlte Nutzungsanspruch grundsätzlich nicht mehr.
 
 ## 2. Links
 

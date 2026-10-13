@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><strong>Deine Gelddruck-Maschine! </strong></h4>
-<p>Bewerbe unser einfach zu verkaufendes 1-Euro Angebot und erhalte Provision auf die vielen, hochkonvertierenden Upsells im Follow-Up-Funnel! </p>
-<hr />
-<h4><strong>Dein Verdienst: </strong></h4>
-<ul>
-<li><strong>Sofort-Upsell: </strong>67€ - 50% Provision</li>
-<li><strong>Upsell 2:</strong> 97€ - 50% Provision</li>
-<li><strong>Upsell 3: </strong>497€ - 45% Provision</li>
-<li>+<strong> Weitere Provisionen</strong> von unserem E-Mail-Funnel</li>
-</ul>
-<p style="text-align:center;"><span style="color:#3366ff;"><a style="color:#3366ff;" href="https://www.digistore24.com/signup/362484,362728,422807,362735,362730,367002,437144,435384,445726,445725,445990,442545,442898,442573,442546/" target="_blank" rel="noreferrer noopener">&gt;&gt;Jetzt Partner werden!&lt;&lt;</a></span></p>
-<hr />
-<p><strong>Worauf wartest du noch?</strong> Werde unser Partner und profitiere von exklusiven Vorteilen!</p>
-<p>Hohe Provisionen, starke Conversion und kostenlose Top Betreuung durch erfahrene Affiliate-Manager erwarten dich! Das bekommst du sonst nirgends!</p>
-<p><strong><span style="text-decoration:underline;">Wichtig!</span> </strong>Damit du Provision auf alle Follow-Up Produkte im Funnel bekommst, klicke jetzt auf diesen Link um dich als Affiliate für ALLE Produkte anzumelden! </p>
-<p><a href="https://www.digistore24.com/signup/362484,362728,422807,362735,362730,367002,437144,435384,445726,445725,445990,442545,442898,442573,442546/" target="_blank" rel="noreferrer noopener"><span style="color:#3366ff;"> &gt;&gt;Jetzt hier Klicken!&lt;&lt;</span></a></p>
-<p>Klicke den Link obeum dich für alle Produkte anzumelden.</p>
-<p>→ Werbemittel findest du hier: <a href="https://social.business-kickstart.de/tgg-partnerseite/" target="_blank" rel="noreferrer noopener">social.business-kickstart.de/tgg-partnerseite</a></p>
-<p>→ Bei Fragen schreibe uns an: info@coaching.business-kickstart.de</p>
+**Vendor's marketplace description:** Deine Gelddruck-Maschine! Bewerbe unser einfach zu verkaufendes 1-Euro Angebot und erhalte Provision auf die vielen, hochkonvertierenden Upsells im Follow-Up-Funnel! Dein Verdienst: Sofort-Upsell: 67€ - 50% Provision Upsell 2: 97€ - 50% Provision Upsell 3: 497€ - 45% Provision + Weitere Provisionen von unserem E-Mail-Funnel >>Jetzt Partner werden!<< Worauf wartest du noch? Werde unser Partner und profitiere von exklusiven Vorteilen! Hohe Provisionen, starke Conversion und kostenlose Top Betreuung durch erfahrene Affiliate-Manager erwarten dich! Das bekommst du sonst nirgends! Wichtig! Damit du Provision auf alle Follow-Up Produkte im Funnel bekommst, klicke jetzt auf diesen Link um dich als Affiliate für ALLE Produkte anzumelden! >>Jetzt hier Klicken!<< Klicke den Link obeum dich für alle Produkte anzumelden. → Werbemittel findest du hier: social.business-kickstart.de/tgg-partnerseite → Bei Fragen schreibe uns an: info@coaching.business-kickstart.de
 
 ## 2. Links
 

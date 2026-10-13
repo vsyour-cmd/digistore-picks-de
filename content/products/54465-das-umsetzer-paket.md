@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Das Umsetzer Paket - Der komplette Start ins Online-Business: Vom Technik-Setup zur ersten Provision – in einem Paket!</h1>
-<h4>Mit dem "Umsetzer Paket" erhalten Deine Kunden die Klick-für-Klick-Anleitung für ihr Verkaufs-Fundament UND den erprobten Fahrplan, um damit sofort Geld zu verdienen.</h4>
-<p>Bewirb unser "Umsetzer-Paket" und erhalte <strong>50% Provision</strong> und auf die Upsells, sowie <strong>15% Lifetime-Provision</strong> auf alle Folgeverkäufe!</p>
-<p> </p>
-<p><strong>Was Deine Kunden erhalten:</strong></p>
-<p>Teil 1: Der 7-teiliger Videokurs "Die Digistore24 Einstandsparty" (Das technische Fundament – sicher und fehlerfrei)</p>
-<p>Teil 2: Das GRATIS Bonus-Workbook "Affiliate Sofortumsatz" (Der Fahrplan zum Geldverdienen – sofort umsetzbar)</p>
-<p> </p>
-<div>
-<div>
-<div>
-<p><strong>Werde jetzt unser Partner und verdiene online Geld!</strong></p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div> </div>
-</div>
-</div>
-<p> </p>
+**Vendor's marketplace description:** Das Umsetzer Paket - Der komplette Start ins Online-Business: Vom Technik-Setup zur ersten Provision – in einem Paket! Mit dem "Umsetzer Paket" erhalten Deine Kunden die Klick-für-Klick-Anleitung für ihr Verkaufs-Fundament UND den erprobten Fahrplan, um damit sofort Geld zu verdienen. Bewirb unser "Umsetzer-Paket" und erhalte 50% Provision und auf die Upsells, sowie 15% Lifetime-Provision auf alle Folgeverkäufe! Was Deine Kunden erhalten: Teil 1: Der 7-teiliger Videokurs "Die Digistore24 Einstandsparty" (Das technische Fundament – sicher und fehlerfrei) Teil 2: Das GRATIS Bonus-Workbook "Affiliate Sofortumsatz" (Der Fahrplan zum Geldverdienen – sofort umsetzbar) Werde jetzt unser Partner und verdiene online Geld!
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die komplette Bibliothek: alle 88 E-Books für jede Social-Media-Plattform in einem Paket.</strong></p>
-<p>Vom Einstieg über Coach- und Influencer-Aufbau bis zum Business-Wachstum – für Instagram, TikTok, YouTube, LinkedIn, X, Facebook, Pinterest, WhatsApp und viele mehr. Alle als PDF zum Sofort-Download nach dem Kauf.</p>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet).</p>
-<p>Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Die komplette Bibliothek: alle 88 E-Books für jede Social-Media-Plattform in einem Paket. Vom Einstieg über Coach- und Influencer-Aufbau bis zum Business-Wachstum – für Instagram, TikTok, YouTube, LinkedIn, X, Facebook, Pinterest, WhatsApp und viele mehr. Alle als PDF zum Sofort-Download nach dem Kauf. Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

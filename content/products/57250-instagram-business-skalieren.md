@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Instagram Business skalieren“</strong></p>
-<p>Funnels, DM-Vertrieb und Monetarisierung – Reichweite allein bringt keine Kunden. Positionierung, Content-Strategie, Funnels, DM-Vertrieb und Monetarisierung über Produkte und Kooperationen. Für Fortgeschrittene.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Aus deinem Account ein echtes Business machen</li>
-<li>Positionierung, Angebot und Content-Strategie schärfen</li>
-<li>Funnels bauen, die aus Followern Kunden machen</li>
-<li>Werbekennzeichnung, Datenschutz und Risiken beachten</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Instagram Business skalieren“ Funnels, DM-Vertrieb und Monetarisierung – Reichweite allein bringt keine Kunden. Positionierung, Content-Strategie, Funnels, DM-Vertrieb und Monetarisierung über Produkte und Kooperationen. Für Fortgeschrittene. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Aus deinem Account ein echtes Business machen Positionierung, Angebot und Content-Strategie schärfen Funnels bauen, die aus Followern Kunden machen Werbekennzeichnung, Datenschutz und Risiken beachten
 
 ## 2. Links
 

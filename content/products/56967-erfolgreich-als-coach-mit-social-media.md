@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du auf der richtigen Plattform Vertrauen aufbaust und planbar Kunden gewinnst</strong></p>
-<p>Als Coach lebt dein Business von Vertrauen – und Social Media ist der Ort, an dem dieses Vertrauen täglich aufgebaut wird. Dieses E-Book zeigt dir, welche Plattform für deine Coaching-Nische die größte Hebelwirkung hat und wie du dort aus deinem Fachwissen Content machst, der nicht nur Reichweite, sondern planbar Anfragen bringt. Du lernst, wie du Expertise zeigst ohne alles zu verschenken, wie du durch Nähe und Konsistenz eine engagierte Community aufbaust und wie du den Funnel von der ersten Sichtbarkeit bis zum Erstgespräch vollständig abbildest. Egal ob du LinkedIn, Instagram oder YouTube bevorzugst – die Prinzipien aus diesem E-Book funktionieren auf jeder Plattform und geben dir ein übertragbares System für nachhaltigen Kundenstrom.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Plattformwahl für Coaches: wo deine Zielkunden wirklich aktiv sind</li>
-<li>Content-Strategie, die Vertrauen UND Anfragen erzeugt – auf jeder Plattform</li>
-<li>Themen finden, die deine Wunschkunden wirklich beschäftigen</li>
-<li>Expertise zeigen in Videos, Posts und Karussells ohne alles zu verschenken</li>
-<li>Der plattformübergreifende Funnel: von der Sichtbarkeit zur Kontaktaufnahme</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du auf der richtigen Plattform Vertrauen aufbaust und planbar Kunden gewinnst Als Coach lebt dein Business von Vertrauen – und Social Media ist der Ort, an dem dieses Vertrauen täglich aufgebaut wird. Dieses E-Book zeigt dir, welche Plattform für deine Coaching-Nische die größte Hebelwirkung hat und wie du dort aus deinem Fachwissen Content machst, der nicht nur Reichweite, sondern planbar Anfragen bringt. Du lernst, wie du Expertise zeigst ohne alles zu verschenken, wie du durch Nähe und Konsistenz eine engagierte Community aufbaust und wie du den Funnel von der ersten Sichtbarkeit bis zum Erstgespräch vollständig abbildest. Egal ob du LinkedIn, Instagram oder YouTube bevorzugst – die Prinzipien aus diesem E-Book funktionieren auf jeder Plattform und geben dir ein übertragbares System für nachhaltigen Kundenstrom. Das steckt drin: Plattformwahl für Coaches: wo deine Zielkunden wirklich aktiv sind Content-Strategie, die Vertrauen UND Anfragen erzeugt – auf jeder Plattform Themen finden, die deine Wunschkunden wirklich beschäftigen Expertise zeigen in Videos, Posts und Karussells ohne alles zu verschenken Der plattformübergreifende Funnel: von der Sichtbarkeit zur Kontaktaufnahme Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h2>Eine Frage der Rasse</h2>
-</div>
-<div>
-<div>
-<div>
-<div><strong>Nährstoffversorgung und Gesundheit von Pferden im Bezug auf Rasse und Herkunft, das Must-Have eBook</strong></div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<p>Pferde faszinieren durch ihre Vielfalt an Rassen, die auf der ganzen Welt heimisch sind – von den robusten Islandpferden bis hin zu den eleganten Vollblütern. Doch wusstest du, dass jedes Pferd aufgrund seiner Herkunft einen ganz individuellen Nährstoffbedarf hat? In diesem E-Book erfährst du, warum die natürliche Nährstoffzusammensetzung in den ursprünglichen Lebensräumen der Pferderassen so entscheidend für ihre Gesundheit ist.</p>
-<p>Wenn Pferde aus ihrer natürlichen Umgebung in neue Lebensräume gebracht werden, fehlen oft wichtige Mineralien und Spurenelemente, was zu Mangelerscheinungen und Erkrankungen führen kann. Krankheiten wie Sommerekzem, Mauke oder Hufprobleme haben oft ihren Ursprung in einem Ungleichgewicht der Nährstoffe. In <strong>„Eine Frage der Rasse“</strong> lernst du, wie du durch eine gezielte Fütterung Mängel ausgleichen und die Gesundheit deines Pferdes unterstützen kannst.</p>
-<p><strong>Dieses E-Book bietet<br /></strong></p>
-</div>
-</div>
+**Vendor's marketplace description:** Eine Frage der Rasse Nährstoffversorgung und Gesundheit von Pferden im Bezug auf Rasse und Herkunft, das Must-Have eBook Pferde faszinieren durch ihre Vielfalt an Rassen, die auf der ganzen Welt heimisch sind – von den robusten Islandpferden bis hin zu den eleganten Vollblütern. Doch wusstest du, dass jedes Pferd aufgrund seiner Herkunft einen ganz individuellen Nährstoffbedarf hat? In diesem E-Book erfährst du, warum die natürliche Nährstoffzusammensetzung in den ursprünglichen Lebensräumen der Pferderassen so entscheidend für ihre Gesundheit ist. Wenn Pferde aus ihrer natürlichen Umgebung in neue Lebensräume gebracht werden, fehlen oft wichtige Mineralien und Spurenelemente, was zu Mangelerscheinungen und Erkrankungen führen kann. Krankheiten wie Sommerekzem, Mauke oder Hufprobleme haben oft ihren Ursprung in einem Ungleichgewicht der Nährstoffe. In „Eine Frage der Rasse“ lernst du, wie du durch eine gezielte Fütterung Mängel ausgleichen und die Gesundheit deines Pferdes unterstützen kannst. Dieses E-Book bietet
 
 ## 2. Links
 

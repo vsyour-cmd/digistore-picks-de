@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Exklusiver Premium Tradingservice -<strong><span style="background-color:#00ff00;"> Lifetime Provision für Affiliates <br /></span></strong></p>
-<p><span style="color:#ff0000;"><strong>DAX Professional</strong> </span>- <strong>Wie unsere Kunden mit einem Zeitaufwand von maximal 5 Minuten am Tag von steigenden UND fallenden Kursen an der Börse profitieren </strong></p>
-<p style="text-align:center;"><strong><em><span style="background-color:#ffff00;">Angebot</span>:</em></strong></p>
-<ul>
-<li><strong>Lifetime Provision</strong>: Solange Ihr geworbener Kunde DAX-PRO Mitglied ist, erhalten Sie 50% der monatlichen Zahlungen</li>
-<li><strong>Lifetime Customer Value</strong>: auch bei zukünftigen Käufen Ihres geworbenen Kunden profitieren</li>
-<li><strong>Hohe Anmelde- &amp; Teilnehmerquote</strong></li>
-<li><strong>Hohe Conversion</strong> durch 30-Tage Testphase</li>
-<li><strong>Sehr geringe Stornoquote</strong></li>
-<li><strong>Sub-Affiliate Provision<br /></strong></li>
-</ul>
-<div><span style="background-color:#00ff00;">Profitieren Sie von regelmäßigen Provisionen und das Monat für Monat.</span> Bewerben Sie unseren Tradingservice jetzt auf Ihrer Webseite, Ihrem Blog oder direkt an Ihre Liste!</div>
-<div> </div>
-<div>Die DAX-Trading-Signale werden ausgesucht von Torsten Wiese, Profi Trader mit mehr als <strong>40 Jahren Daytrading</strong> Erfahrung.</div>
-<div>
-<p><strong><em>Einzigartig:</em></strong></p>
-<p><strong>- mehr als 40 Jahre Tradingerfahrung </strong></p>
-<p><strong>- Tradingsignale in Echtzeit aufs Handy</strong></p>
-<p><strong>- Erprobte Handelsstrategie </strong></p>
-</div>
-<p>Jetzt Partner werden und mit jedem geworbenen Kunden dauerhaft verdienen.</p>
-<p> </p>
+**Vendor's marketplace description:** Exklusiver Premium Tradingservice - Lifetime Provision für Affiliates DAX Professional - Wie unsere Kunden mit einem Zeitaufwand von maximal 5 Minuten am Tag von steigenden UND fallenden Kursen an der Börse profitieren Angebot : Lifetime Provision : Solange Ihr geworbener Kunde DAX-PRO Mitglied ist, erhalten Sie 50% der monatlichen Zahlungen Lifetime Customer Value : auch bei zukünftigen Käufen Ihres geworbenen Kunden profitieren Hohe Anmelde- & Teilnehmerquote Hohe Conversion durch 30-Tage Testphase Sehr geringe Stornoquote Sub-Affiliate Provision Profitieren Sie von regelmäßigen Provisionen und das Monat für Monat. Bewerben Sie unseren Tradingservice jetzt auf Ihrer Webseite, Ihrem Blog oder direkt an Ihre Liste! Die DAX-Trading-Signale werden ausgesucht von Torsten Wiese, Profi Trader mit mehr als 40 Jahren Daytrading Erfahrung. Einzigartig: - mehr als 40 Jahre Tradingerfahrung - Tradingsignale in Echtzeit aufs Handy - Erprobte Handelsstrategie Jetzt Partner werden und mit jedem geworbenen Kunden dauerhaft verdienen.
 
 ## 2. Links
 

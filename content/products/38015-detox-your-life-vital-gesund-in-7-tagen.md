@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Mit diesem Detox-Programm wieder vital und gesund werden. Eine ausführliche Tag-für-Tag-Anleitung.</strong><br />~<br />Von Ayurveda-Expertin Dr. Harsha Gramminger.</p>
-<div>
-<p><em>"Ich bin seit über 25 Jahren Ärztin und habe unzählige Methoden studiert, wie Menschen wieder gesund und fit werden können. Daraus habe ich diese Kur „Detox your Life – vital und gesund in 7 Tagen“ entwickelt."<br /></em>~ <br />Profitiere von der Expertise und der Professionalität von Dr. Harsha Gramminger. DER Ayurveda- und Gesundheits-Expertin im deutschsprachigen Raum. <strong>Erhalte satte 40% auf dieses Produkt!</strong> <br />~ <br />Bei Fragen steht Dr. Harsha Gramminger den Käufern jederzeit zur Verfügung - entsprechend ist die Storno-Quote verschwindend gering.<br />~ <br />Link zur Landingpage: <br /><strong><a href="https://www.harshagramminger.de/kurse/detox/" target="_blank" rel="noreferrer noopener">https://www.harshagramminger.de/kurse/detox/</a></strong><br />~<strong> <br /></strong>Weitere Werbemittel, wie z.B.: Banner, Facebook- oder Instagram-Posts erhältst du bei meiner Assistentin Claudia unter: chossi[at]me.com<br />~ <strong><br />Mit diesem Detox-Programm wieder vital und gesund werden. Eine ausführliche Tag-für-Tag-Anleitung.</strong></p>
-</div>
-<p> </p>
+**Vendor's marketplace description:** Mit diesem Detox-Programm wieder vital und gesund werden. Eine ausführliche Tag-für-Tag-Anleitung. ~ Von Ayurveda-Expertin Dr. Harsha Gramminger. "Ich bin seit über 25 Jahren Ärztin und habe unzählige Methoden studiert, wie Menschen wieder gesund und fit werden können. Daraus habe ich diese Kur „Detox your Life – vital und gesund in 7 Tagen“ entwickelt." ~ Profitiere von der Expertise und der Professionalität von Dr. Harsha Gramminger. DER Ayurveda- und Gesundheits-Expertin im deutschsprachigen Raum. Erhalte satte 40% auf dieses Produkt! ~ Bei Fragen steht Dr. Harsha Gramminger den Käufern jederzeit zur Verfügung - entsprechend ist die Storno-Quote verschwindend gering. ~ Link zur Landingpage: https://www.harshagramminger.de/kurse/detox/ ~ Weitere Werbemittel, wie z.B.: Banner, Facebook- oder Instagram-Posts erhältst du bei meiner Assistentin Claudia unter: chossi[at]me.com ~ Mit diesem Detox-Programm wieder vital und gesund werden. Eine ausführliche Tag-für-Tag-Anleitung.
 
 ## 2. Links
 

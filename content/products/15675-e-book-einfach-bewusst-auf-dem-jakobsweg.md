@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>2904  km | 108 Tage | 32-Liter-Rucksack | 4 Länder | 2 Beine | 1 Ziel</h2>
-<p>Ich erzähle in diesem liebevoll gestalteten E-Book in <strong>108 Tagesberichten und 500 Fotos</strong> von meiner Pilgertour von <strong>Nürnberg nach Santiago de Compostela</strong> und Finisterre.</p>
-<p>Zahlreiche <strong>Statistiken</strong>, <strong>die Route</strong> auf einer Karte, <strong>eine Packliste</strong> sowie weitere Überraschungen gibt es obendrauf.</p>
-<p>Das E-Book hat als <strong>PDF über 400 Seiten</strong> und wird auch in den Formaten <strong>EPUB, MOBI und AZW3</strong> für alle handelsüblichen E-Reader bereitgestellt.</p>
-<p><em>Bewerbe mein Produkt und bekomme <strong>30 % Provision</strong>.</em></p>
+**Vendor's marketplace description:** 2904 km | 108 Tage | 32-Liter-Rucksack | 4 Länder | 2 Beine | 1 Ziel Ich erzähle in diesem liebevoll gestalteten E-Book in 108 Tagesberichten und 500 Fotos von meiner Pilgertour von Nürnberg nach Santiago de Compostela und Finisterre. Zahlreiche Statistiken , die Route auf einer Karte, eine Packliste sowie weitere Überraschungen gibt es obendrauf. Das E-Book hat als PDF über 400 Seiten und wird auch in den Formaten EPUB, MOBI und AZW3 für alle handelsüblichen E-Reader bereitgestellt. Bewerbe mein Produkt und bekomme 30 % Provision .
 
 ## 2. Links
 

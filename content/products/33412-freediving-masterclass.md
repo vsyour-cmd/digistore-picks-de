@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="background-color:#3366ff;color:#ffffff;"><strong>Werde Teil der zunehmenden Beliebtheit des Apnoetauchens und baue dir ein passives Einkommen auf.</strong></span></h2>
-<p> </p>
-<p>Conversion geprüft und in <em>ständiger Optimierung</em> des Sales Funnels freue ich mich dir für jeden Verkauf <strong>40% Provision zukommen zu lassen</strong>.</p>
-<p>In der Freediving Masterclass lernen meine Kursteilnehmer die GESAMTE Theorie der </p>
-<ul>
-<li>Freediver*</li>
-<li>Freediver**</li>
-</ul>
-<p>Kurse.</p>
-<p>Es handelt sich also um einen Online Kurs zum Thema Apnoetauchen.</p>
-<p> </p>
+**Vendor's marketplace description:** Werde Teil der zunehmenden Beliebtheit des Apnoetauchens und baue dir ein passives Einkommen auf. Conversion geprüft und in ständiger Optimierung des Sales Funnels freue ich mich dir für jeden Verkauf 40% Provision zukommen zu lassen . In der Freediving Masterclass lernen meine Kursteilnehmer die GESAMTE Theorie der Freediver* Freediver** Kurse. Es handelt sich also um einen Online Kurs zum Thema Apnoetauchen.
 
 ## 2. Links
 

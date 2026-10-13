@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Sprich nicht mit allen. Triff die Richtigen.</strong></p>
-<p>Dieses Gratis-E-Book zeigt Affiliate-Marketing-Anfänger:innen, wie sie mit 3 einfachen Fragen ihre perfekte Zielgruppe auf Instagram, TikTok &amp; Co. finden – und Inhalte erstellen, die wirken.</p>
-<p><strong>Inhalt des E-Books:</strong></p>
-<ul>
-<li>
-<p>Die 3-Fragen-Zielgruppenformel</p>
-</li>
-<li>
-<p>Häufige Zielgruppen-Fehler &amp; wie du sie vermeidest</p>
-</li>
-<li>
-<p>Ausfüllbare Vorlage für die sofortige Umsetzung</p>
-</li>
-<li>
-<p>Praxisbeispiele &amp; Content-Ideen</p>
-</li>
-</ul>
-<p><strong>Partner-Vorteile:</strong></p>
-<ul>
-<li>
-<p>Gratis-Produkt → hohe Conversionrate</p>
-</li>
-<li>
-<p><strong>50 % Provision</strong> auf alle optionalen Add-ons</p>
-</li>
-<li>
-<p>Weitere Upsells im Backend sorgen für wiederkehrende Einnahmen</p>
-</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** Sprich nicht mit allen. Triff die Richtigen. Dieses Gratis-E-Book zeigt Affiliate-Marketing-Anfänger:innen, wie sie mit 3 einfachen Fragen ihre perfekte Zielgruppe auf Instagram, TikTok & Co. finden – und Inhalte erstellen, die wirken. Inhalt des E-Books: Die 3-Fragen-Zielgruppenformel Häufige Zielgruppen-Fehler & wie du sie vermeidest Ausfüllbare Vorlage für die sofortige Umsetzung Praxisbeispiele & Content-Ideen Partner-Vorteile: Gratis-Produkt → hohe Conversionrate 50 % Provision auf alle optionalen Add-ons Weitere Upsells im Backend sorgen für wiederkehrende Einnahmen
 
 ## 2. Links
 

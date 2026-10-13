@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>All Styles Abos der Social Dancing Academy </strong></p>
-<p>Die Social Dancing Academy ist die größte Online Tanzplattform im DACH-Raum und hat bereits über 1000 aktive und sehr zufriedene Abonnenten!</p>
-<p><strong>Vorteile für Affiliates:</strong></p>
-<p>Bewerbe jetzt das Jahresabo der Social Dancing Academy und erhalte 25% lebenslange Provision auf jährliche- UND Ratenahlungen.<br /><br /></p>
-<p>Die Academy buchen sowohl Paare als auch viele Singles, da sie über 700 Lektionen für Solo-Tänzer*innen beinhaltet.</p>
-<p><strong>Die All Styles Jahresabo beinhalten Online-Kurse der Social Dancing Academy mit bis zu 3000+ Lektionen! </strong><br /><br />Dazu gehören On-Demand Lektionen in folgenden Tanzstilen:<strong><br /></strong></p>
-<ul>
-<li><strong>Ballroom Academy </strong>(ca. 300 Lektionen)<strong><br /><br /></strong></li>
-<li><strong>Discofox Academy </strong>(ca. 200 Lektionen)<strong><br /><br /></strong></li>
-<li><strong>Salsa Academy </strong>(ca. 300 Lektionen)<strong><br /><br /></strong></li>
-<li><strong>Bachata &amp; Bachatango Academy </strong>(ca. 300 Lektionen)<strong><br /><br /></strong></li>
-<li><strong>Lindy Hop Academy </strong>(ca. 130 Lektionen)<strong><br /><br /></strong></li>
-<li><strong>Tango Academy </strong>(ca. 200 Lektionen)<strong><br /><br /></strong></li>
-<li><strong>West Coast Swing Academy </strong>(ca. 150 Lektionen)<strong><br /></strong><strong><br /></strong></li>
-<li><strong>Allgemeine Kurse und Lektionen</strong> (ca. 200 Lektionen)<strong><br /><br /></strong></li>
-<li><strong>Kizomba Academy</strong> (ca. 100 Lektionen)</li>
-</ul>
-<p><br />Sehr beliebt sind unsere <strong>regelmässige Live-Lektionen</strong> (jeden Dienstag)!</p>
-<p><strong>Wir haben 2 unterschiedliche Levels an (Jahres)Abos - Light &amp; All Inclusive</strong></p>
-<p>Die Social Dancing Academy enwickelt sich ständig weiter und es kommen immer wieder neue Figuren und Module dazu!<br />(ohne Aufzahlung). </p>
-<p>Alleine in den letzten 12 Monaten sind 1000(!) neue Videolektionen dazu gekommen.</p>
-<p><br /><br /><br /></p>
-<p> </p>
+**Vendor's marketplace description:** All Styles Abos der Social Dancing Academy Die Social Dancing Academy ist die größte Online Tanzplattform im DACH-Raum und hat bereits über 1000 aktive und sehr zufriedene Abonnenten! Vorteile für Affiliates: Bewerbe jetzt das Jahresabo der Social Dancing Academy und erhalte 25% lebenslange Provision auf jährliche- UND Ratenahlungen. Die Academy buchen sowohl Paare als auch viele Singles, da sie über 700 Lektionen für Solo-Tänzer*innen beinhaltet. Die All Styles Jahresabo beinhalten Online-Kurse der Social Dancing Academy mit bis zu 3000+ Lektionen! Dazu gehören On-Demand Lektionen in folgenden Tanzstilen: Ballroom Academy (ca. 300 Lektionen) Discofox Academy (ca. 200 Lektionen) Salsa Academy (ca. 300 Lektionen) Bachata & Bachatango Academy (ca. 300 Lektionen) Lindy Hop Academy (ca. 130 Lektionen) Tango Academy (ca. 200 Lektionen) West Coast Swing Academy (ca. 150 Lektionen) Allgemeine Kurse und Lektionen (ca. 200 Lektionen) Kizomba Academy (ca. 100 Lektionen) Sehr beliebt sind unsere regelmässige Live-Lektionen (jeden Dienstag)! Wir haben 2 unterschiedliche Levels an (Jahres)Abos - Light & All Inclusive Die Social Dancing Academy enwickelt sich ständig weiter und es kommen immer wieder neue Figuren und Module dazu! (ohne Aufzahlung). Alleine in den letzten 12 Monaten sind 1000(!) neue Videolektionen dazu gekommen.
 
 ## 2. Links
 

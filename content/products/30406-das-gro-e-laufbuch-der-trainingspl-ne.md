@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>E-Book mit über 50 Trainingsplänen für das Lauftraining:</p>
-<ul><li>16 Trainingspläne Marathon (unter 6 Stunden bis unter 2:30 Stunden)</li>
-<li>13 Trainingspläne Halbmarathon (unter 3 Stunden bis unter 1:10 Stunden)</li>
-<li>16 Trainingspläne 10 Kilometer (unter 75 Minuten bis unter 30 Minuten)</li>
-<li>12 Trainingspläne 5 Kilometer (unter 40 Minuten bis unter 15 Minuten)</li>
-</ul>
+**Vendor's marketplace description:** E-Book mit über 50 Trainingsplänen für das Lauftraining: 16 Trainingspläne Marathon (unter 6 Stunden bis unter 2:30 Stunden) 13 Trainingspläne Halbmarathon (unter 3 Stunden bis unter 1:10 Stunden) 16 Trainingspläne 10 Kilometer (unter 75 Minuten bis unter 30 Minuten) 12 Trainingspläne 5 Kilometer (unter 40 Minuten bis unter 15 Minuten)
 
 ## 2. Links
 

@@ -41,26 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong>Grundlagenkurs für Angstfrei und Lernen</strong></div>
-<div> </div>
-<div>Die Grundlage, also das Fundament für ein erfolgreiches Lernen, ein angstfreies Leben und die adäquate Steuerung deiner Emotionen bekommst du in diesem Paket.</div>
-<div> </div>
-<div>Wenn du Schwierigkeiten beim Lernen, beim Merken und beim Konzentrieren hast oder dich Ängste einschränken, nutzt du vorzugsweise nur eine Gehirnhälfte, deshalb kannst du dein volles Potenzial nicht ausschöpfen. Ich zeige dir mit dem 12 Wochenprogramm, wie du den Zugriff auf beide Gehirnhälften zurückerlangst, sodass diese optimal und dauerhaft zusammenarbeiten.</div>
-<div> </div>
-<div><strong>Kursinhalt:</strong></div>
-<ul>
-<li>Onlinekurs: Zugriff auf meine Lernvideos</li>
-<li>PDF (Trainingsplan + Anleitung)</li>
-</ul>
-<div> </div>
-<p><strong>Inhalt Online Kurs:</strong></p>
-<ul>
-<li>Vorstellungsvideo</li>
-<li>Lateralitätsbahnung Erklärung</li>
-<li>Lateralitätsbahnung Quiz</li>
-<li>Lateralitätsbahnung praktische Übungen</li>
-<li>PDF Lateralitätsbahnung </li>
-</ul>
+**Vendor's marketplace description:** Grundlagenkurs für Angstfrei und Lernen Die Grundlage, also das Fundament für ein erfolgreiches Lernen, ein angstfreies Leben und die adäquate Steuerung deiner Emotionen bekommst du in diesem Paket. Wenn du Schwierigkeiten beim Lernen, beim Merken und beim Konzentrieren hast oder dich Ängste einschränken, nutzt du vorzugsweise nur eine Gehirnhälfte, deshalb kannst du dein volles Potenzial nicht ausschöpfen. Ich zeige dir mit dem 12 Wochenprogramm, wie du den Zugriff auf beide Gehirnhälften zurückerlangst, sodass diese optimal und dauerhaft zusammenarbeiten. Kursinhalt: Onlinekurs: Zugriff auf meine Lernvideos PDF (Trainingsplan + Anleitung) Inhalt Online Kurs: Vorstellungsvideo Lateralitätsbahnung Erklärung Lateralitätsbahnung Quiz Lateralitätsbahnung praktische Übungen PDF Lateralitätsbahnung
 
 ## 2. Links
 

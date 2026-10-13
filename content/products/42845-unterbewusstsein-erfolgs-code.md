@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Online-Video-Coaching über 3 Module</strong></p>
-<p>"Wie du dein Inneres Navigatgions-System auf deine Wünsche &amp; Ziele programmierst"</p>
-<p><strong>Deine Vorteile</strong>, wenn du den Unterbewusstsein-Erfolgs-Code weiterempfiehlst:</p>
-<ul>
-<li><strong>Hohe Provisionen: </strong>Das Video-Coaching kostet 197,00 € inkl. MwSt. Du bekommst <strong>50% Provision</strong> abzgl. Digistore24-Gebühren.</li>
-<li><strong>Kontinuierlicher Verkauf</strong> durch automatisiertes Webinar mit hochwertigen Inhalten und hoher Converson.</li>
-<li><strong>Folgeprovisionen</strong> durch weiterführenden Verkaufsfunnel mit weiteren Angeboten und Upsells, wofür du weitere Provisionen erhältst.</li>
-<li><strong>Erfolgserprobte Werbemittel:</strong> Getestete E-Mails, Banner und Produktbilder, die du sofort verwenden kannst.</li>
-<li><strong>Schneller &amp; professioneller E-Mail-Support:</strong> Wenn du Fragen hast, Hilfe oder etwas spezielles brauchst, dann schreib einfach eine Mail. Probiere es aus!</li>
-</ul>
-<p><strong>Ich freue mich auf unsere Zusammenarbeit.</strong></p>
+**Vendor's marketplace description:** Online-Video-Coaching über 3 Module "Wie du dein Inneres Navigatgions-System auf deine Wünsche & Ziele programmierst" Deine Vorteile , wenn du den Unterbewusstsein-Erfolgs-Code weiterempfiehlst: Hohe Provisionen: Das Video-Coaching kostet 197,00 € inkl. MwSt. Du bekommst 50% Provision abzgl. Digistore24-Gebühren. Kontinuierlicher Verkauf durch automatisiertes Webinar mit hochwertigen Inhalten und hoher Converson. Folgeprovisionen durch weiterführenden Verkaufsfunnel mit weiteren Angeboten und Upsells, wofür du weitere Provisionen erhältst. Erfolgserprobte Werbemittel: Getestete E-Mails, Banner und Produktbilder, die du sofort verwenden kannst. Schneller & professioneller E-Mail-Support: Wenn du Fragen hast, Hilfe oder etwas spezielles brauchst, dann schreib einfach eine Mail. Probiere es aus! Ich freue mich auf unsere Zusammenarbeit.
 
 ## 2. Links
 

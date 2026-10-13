@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Lerne, wie du eigenmächtig deine Website in Chimpify erstellen und professionell nutzen kannst. </h2>
-<p>Chimpify ist ein starkes Markting-Tool, mit welchem du deine Website so aufbaust, dass du nachhaltig Neukunden gewinnen kannst.</p>
-<p>Die Funktionen sind dabei umfassend und teilweise sehr im Detail. </p>
-<p>Mit dem Videokurs Chimpify 360° befähigen wir die Nutzer von Chimpify, besser mit dem Tool zu arbeiten. </p>
-<div>
-<h2>Zielgruppe: </h2>
-<ul>
-<li>Nutzer der Software <a href="https://www.chimpify.de" target="_blank" rel="noreferrer noopener">Chimpify</a></li>
-<li>Selbstständige, die ihre Website selbst betreuen wollen </li>
-<li>User, die keine Lust mehr auf Wordpress haben, weil es zu technisch und kompliziert ist </li>
-</ul>
-<h2>Wer sind wir?</h2>
-<p>Der Onlinekurs wurde von Jan Siebert von Inboundly erstellt. <a href="https://www.inboundly.de" target="_blank" rel="noreferrer noopener">Inboundly</a> ist die #1 Chimpify Agentur und unterstützt User darin, das beste aus der Software herauszuholen, um ein erfolgreiches Online Business aufzubauen. </p>
-<p>Werde Teil und arbeite mit uns als Affiliate zusammen! </p>
-<p> </p>
-</div>
+**Vendor's marketplace description:** Lerne, wie du eigenmächtig deine Website in Chimpify erstellen und professionell nutzen kannst. Chimpify ist ein starkes Markting-Tool, mit welchem du deine Website so aufbaust, dass du nachhaltig Neukunden gewinnen kannst. Die Funktionen sind dabei umfassend und teilweise sehr im Detail. Mit dem Videokurs Chimpify 360° befähigen wir die Nutzer von Chimpify, besser mit dem Tool zu arbeiten. Zielgruppe: Nutzer der Software Chimpify Selbstständige, die ihre Website selbst betreuen wollen User, die keine Lust mehr auf Wordpress haben, weil es zu technisch und kompliziert ist Wer sind wir? Der Onlinekurs wurde von Jan Siebert von Inboundly erstellt. Inboundly ist die #1 Chimpify Agentur und unterstützt User darin, das beste aus der Software herauszuholen, um ein erfolgreiches Online Business aufzubauen. Werde Teil und arbeite mit uns als Affiliate zusammen!
 
 ## 2. Links
 

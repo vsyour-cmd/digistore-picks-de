@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Thought Leadership aufbauen, Reichweite skalieren und Kooperationen landen</strong></p>
-<p>Auf LinkedIn gibt es zwei Arten von Profilen: die, die gelesen werden – und die, die die Konversation prägen. Dieses E-Book zeigt dir den Weg zur zweiten Gruppe. Du lernst, wie du durch konsistentes Thought Leadership eine treue Followerschaft aufbaust, wie der LinkedIn-Algorithmus Reichweite an Beiträge mit hoher Dwell Time und Kommentarrate in der ersten Stunde vergeben wird und wie du das gezielt nutzt. Dazu: wie du das LinkedIn Creator-Programm und den Top-Voice-Status erreichst, wie du Kooperationen mit Marken und anderen Creator anbahnst und wie du mehrere Einnahmequellen aufbaust – von Vorträgen über digitale Produkte bis zu Markenpartnerschaften. Deine Reichweite wird zur Marke.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Thought Leadership-Content, der Diskussionen auslöst und Reichweite skaliert</li>
-<li>Den LinkedIn-Algorithmus verstehen: Dwell Time, Kommentare &amp; Verteillogik</li>
-<li>Dein Weg zum LinkedIn Creator-Modus und Top-Voice-Status</li>
-<li>Dokument-Karussells und Videobeiträge, die viral gehen</li>
-<li>Kooperationen mit Marken und anderen Creator aufbauen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Thought Leadership aufbauen, Reichweite skalieren und Kooperationen landen Auf LinkedIn gibt es zwei Arten von Profilen: die, die gelesen werden – und die, die die Konversation prägen. Dieses E-Book zeigt dir den Weg zur zweiten Gruppe. Du lernst, wie du durch konsistentes Thought Leadership eine treue Followerschaft aufbaust, wie der LinkedIn-Algorithmus Reichweite an Beiträge mit hoher Dwell Time und Kommentarrate in der ersten Stunde vergeben wird und wie du das gezielt nutzt. Dazu: wie du das LinkedIn Creator-Programm und den Top-Voice-Status erreichst, wie du Kooperationen mit Marken und anderen Creator anbahnst und wie du mehrere Einnahmequellen aufbaust – von Vorträgen über digitale Produkte bis zu Markenpartnerschaften. Deine Reichweite wird zur Marke. Das steckt drin: Thought Leadership-Content, der Diskussionen auslöst und Reichweite skaliert Den LinkedIn-Algorithmus verstehen: Dwell Time, Kommentare & Verteillogik Dein Weg zum LinkedIn Creator-Modus und Top-Voice-Status Dokument-Karussells und Videobeiträge, die viral gehen Kooperationen mit Marken und anderen Creator aufbauen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

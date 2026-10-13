@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>6 verschieden Straußbindevariationen für Profis oder Privatpersonen mit Freude an Blumen und der Floristik. Grundkenntnisse im Straußbinden ist Vorraussetzung für den Kurs.</p>
+**Vendor's marketplace description:** 6 verschieden Straußbindevariationen für Profis oder Privatpersonen mit Freude an Blumen und der Floristik. Grundkenntnisse im Straußbinden ist Vorraussetzung für den Kurs.
 
 ## 2. Links
 

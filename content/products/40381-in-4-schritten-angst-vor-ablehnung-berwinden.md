@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Diplom-Psychologen haben ein in 4 Schritten aufgebautes Lernprogramm entwickelt, mit dem Sie lernen, Ihre Angst vor Ablehnung zu überwinden.</p>
-<p>Sie erhalten eine ausführliche, praktische Anleitung und 16 Übungsblätter zum Ausdrucken. Sie können das Programm auch zusammen mit einem(r) Partner(in) durchführen, um sich gegenseitig zu unterstützen.</p>
+**Vendor's marketplace description:** Diplom-Psychologen haben ein in 4 Schritten aufgebautes Lernprogramm entwickelt, mit dem Sie lernen, Ihre Angst vor Ablehnung zu überwinden. Sie erhalten eine ausführliche, praktische Anleitung und 16 Übungsblätter zum Ausdrucken. Sie können das Programm auch zusammen mit einem(r) Partner(in) durchführen, um sich gegenseitig zu unterstützen.
 
 ## 2. Links
 

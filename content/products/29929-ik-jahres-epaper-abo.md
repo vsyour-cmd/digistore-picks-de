@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>IK-Jahres-ePaper-Abo: Jetzt für 27€ (anstatt 49€) im Jahr! Keine Ausgabe mehr verpassen!</p>
-<p>Die einzige deutschsprachige Inselzeitung, verfasst von Ibiza-Insidern und langjährigen Inselresidenten, vollgepackt mit pfiffigen Geschichten über Land und Leute und vielen wissenswerten Tipps!</p>
-<p>Immer informiert bleiben, immer Bescheid wissen, was auf Ibiza los ist, jeden Monat ein “Stückchen Ibiza” in den Händen halten</p>
-<p>Jeden Monat landet der frische IBIZA KURIER für Sie zum Herunterladen und/oder Ausdrucken im Email-Briefkasten!</p>
+**Vendor's marketplace description:** IK-Jahres-ePaper-Abo: Jetzt für 27€ (anstatt 49€) im Jahr! Keine Ausgabe mehr verpassen! Die einzige deutschsprachige Inselzeitung, verfasst von Ibiza-Insidern und langjährigen Inselresidenten, vollgepackt mit pfiffigen Geschichten über Land und Leute und vielen wissenswerten Tipps! Immer informiert bleiben, immer Bescheid wissen, was auf Ibiza los ist, jeden Monat ein “Stückchen Ibiza” in den Händen halten Jeden Monat landet der frische IBIZA KURIER für Sie zum Herunterladen und/oder Ausdrucken im Email-Briefkasten!
 
 ## 2. Links
 

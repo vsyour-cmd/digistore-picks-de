@@ -41,44 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<p><strong>Bau dir multiple Einkommensströme mit deinem Business</strong></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-
-<div>
-<div>
-<div>
-
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>Keine Lust mehr auf schwankendes Einkommen und Business im Hustle-Modus? Erfahre von 55 Expertinnen aus den Bereichen Coaching, Design, Mode, Schreiben, Musik, Video, Ernährung, Blogging &amp; Co. wie du dir multiple Einkommensströme mit digitalen Produkten aufbaust. Erschaffe dir eine profitable Tätigkeit, die Freude macht und dir ein erfülltes, unabhängiges Leben ermöglicht. Für finanzielle Freiheit und vor allem: Jede Menge Spaß &amp; Leichtigkeit.</p>
-</div>
-</div>
-<div>
-<div>
-<p><strong>55 Expert*innen geben Einblick in ihre digitalen Erfolgsprodukte</strong></p>
-<p>Mit dabei: Katrin Hill (Business-Mentoring), Kathy Ursinus (Content-Design), Janneke Duijnmaijer (Blog Your Thing), Maja Wörner (Es wird noch besser), Florian Wagner (Geldschnurrbart), Jyotima Flak (Die Minikurs-Methode), Carmen Hercegfi (Vegane Familien), Peer Wandiger (Selbstständig im Netz), Simone Ludwig (Floh im Ohr TV), Anna Lecour (Paperless Life), Yannic Roithmaier (Artistant) &amp; viele weitere.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Bau dir multiple Einkommensströme mit deinem Business Keine Lust mehr auf schwankendes Einkommen und Business im Hustle-Modus? Erfahre von 55 Expertinnen aus den Bereichen Coaching, Design, Mode, Schreiben, Musik, Video, Ernährung, Blogging & Co. wie du dir multiple Einkommensströme mit digitalen Produkten aufbaust. Erschaffe dir eine profitable Tätigkeit, die Freude macht und dir ein erfülltes, unabhängiges Leben ermöglicht. Für finanzielle Freiheit und vor allem: Jede Menge Spaß & Leichtigkeit. 55 Expert*innen geben Einblick in ihre digitalen Erfolgsprodukte Mit dabei: Katrin Hill (Business-Mentoring), Kathy Ursinus (Content-Design), Janneke Duijnmaijer (Blog Your Thing), Maja Wörner (Es wird noch besser), Florian Wagner (Geldschnurrbart), Jyotima Flak (Die Minikurs-Methode), Carmen Hercegfi (Vegane Familien), Peer Wandiger (Selbstständig im Netz), Simone Ludwig (Floh im Ohr TV), Anna Lecour (Paperless Life), Yannic Roithmaier (Artistant) & viele weitere.
 
 ## 2. Links
 

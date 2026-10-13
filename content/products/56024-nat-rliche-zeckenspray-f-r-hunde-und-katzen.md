@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Natürliches Zeckenspry für Hunde &amp; Katzen - Einfache DIY -Anleitung</strong></h2>
-<p>Zecken können für Hunde und Katzen gefährlich werden. Viele herkömmliche Mittel enthalten jedoch starke Chemikalien.</p>
-<p>Mit dieser einfachern Anleitung lernst du, wie du in wenigen Minuten ein <strong>natürliches Zeckenspray slbst herstellen kannst</strong> - mit ausgewählten ätherischen Ölen und leicht erhältlichen Zutaten.</p>
-<h3>In dieser Anleitung erfährst du:</h3>
-<ul>
-<li>Das einfache Rezept für ein natürliches Zeckenspray</li>
-<li>Welche Zutaten wirklich wirken </li>
-<li>Wie du das Spray sicher bei Hund und Katze anwendest </li>
-<li>Pracktische Tipps für optimalen Schutz beim Spaziergang</li>
-</ul>
-<p><strong>Die Anleitung ist mit der du in wenigen Minuten ein natürliches Zeckenspray für Hunde &amp; Katzen selbst herstellen kannst - sicher, günstig und sofort umsetzbar.</strong></p>
-<h3><strong>Sofort Download - Anleitung direkt nach dem Kauf verfügbar</strong></h3>
-<p><strong> </strong></p>
+**Vendor's marketplace description:** Natürliches Zeckenspry für Hunde & Katzen - Einfache DIY -Anleitung Zecken können für Hunde und Katzen gefährlich werden. Viele herkömmliche Mittel enthalten jedoch starke Chemikalien. Mit dieser einfachern Anleitung lernst du, wie du in wenigen Minuten ein natürliches Zeckenspray slbst herstellen kannst - mit ausgewählten ätherischen Ölen und leicht erhältlichen Zutaten. In dieser Anleitung erfährst du: Das einfache Rezept für ein natürliches Zeckenspray Welche Zutaten wirklich wirken Wie du das Spray sicher bei Hund und Katze anwendest Pracktische Tipps für optimalen Schutz beim Spaziergang Die Anleitung ist mit der du in wenigen Minuten ein natürliches Zeckenspray für Hunde & Katzen selbst herstellen kannst - sicher, günstig und sofort umsetzbar. Sofort Download - Anleitung direkt nach dem Kauf verfügbar
 
 ## 2. Links
 

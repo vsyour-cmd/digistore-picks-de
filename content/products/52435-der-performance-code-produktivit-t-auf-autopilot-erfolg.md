@@ -41,46 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><strong>Wie du deine Produktivität auf Autopilot stellst, Zeitfresser eliminierst und mit minimalem Aufwand konstant Ergebnisse erzielst, </strong><strong>die dich an die Spitze bringen</strong></h1>
-<h1> </h1>
-<h2><strong>Der Performance Code – <br />Produktivität auf Autopilot, Erfolg konstannt!</strong></h2>
-<p> </p>
-<div>
-<div>
-<h2>Im Performance Code lernst du:</h2>
-</div>
-<div>
-<p><strong>1. Die überraschende Macht kleiner Gewohnheiten</strong><br />Wie minimale Veränderungen zu exponentiellem Wachstum führen – und wie du sie sofort für dich nutzt.</p>
-</div>
-<div>
-<p><strong>2. Die Kraft identitätsbasierter Gewohnheiten</strong><br />Verändere nicht nur dein Verhalten, sondern auch dein Selbstbild – und werde zum Menschen, der Effizienz lebt.</p>
-</div>
-<div>
-<p><strong>3. Gewohnheiten: Endlose Erfolgsroutinen! </strong><br /><strong>Die vier Schritte der Gewohnheitsbildung</strong><br />Verstehe die Mechanik hinter jeder Routine und steuere sie gezielt und dauerhaft.</p>
-</div>
-<div>
-<p><strong>4. Auslösereize erkennen und nutzen</strong><br />Gestalte dein Umfeld so, dass Effizienz zur Selbstverständlichkeit wird.</p>
-</div>
-<div>
-<p><strong>5. Realisierungsintentionen und smarte Pläne</strong><br />Setze klare Wenn-Dann-Strategien, damit gute Gewohnheiten automatisch ablaufen.</p>
-</div>
-<div>
-<p><strong>6. Motivation ist überbewertet – das Umfeld pusht dich nach vorne</strong><br />Erfahre, wie du durch kleine Veränderungen im Umfeld Großes bewirkst.</p>
-</div>
-<div>
-<p><strong>7. Das Geheimnis der Selbstbeherrschung</strong><br />Automatisiere Disziplin, statt ständig gegen Versuchungen anzukämpfen.</p>
-</div>
-<div>
-<p><strong>8. So wird eine Gewohnheit unwiderstehlich</strong><br />Mache neue Routinen so attraktiv, dass du sie gar nicht mehr missen willst.</p>
-</div>
-<div>
-<p><strong>9. Die Rolle von Familie, Freunden und Kollegen</strong><br />Nutze die Kraft deines sozialen Umfelds für nachhaltige Veränderung.</p>
-</div>
-<div>
-<p><strong>10. Ursachen für schlechte Gewohnheiten erkennen und ersetzen</strong><br />Lerne, wie du hinderliche Muster identifizierst und durch produktive Alternativen ersetzt.</p>
-</div>
-</div>
-<p> </p>
+**Vendor's marketplace description:** Wie du deine Produktivität auf Autopilot stellst, Zeitfresser eliminierst und mit minimalem Aufwand konstant Ergebnisse erzielst, die dich an die Spitze bringen Der Performance Code – Produktivität auf Autopilot, Erfolg konstannt! Im Performance Code lernst du: 1. Die überraschende Macht kleiner Gewohnheiten Wie minimale Veränderungen zu exponentiellem Wachstum führen – und wie du sie sofort für dich nutzt. 2. Die Kraft identitätsbasierter Gewohnheiten Verändere nicht nur dein Verhalten, sondern auch dein Selbstbild – und werde zum Menschen, der Effizienz lebt. 3. Gewohnheiten: Endlose Erfolgsroutinen! Die vier Schritte der Gewohnheitsbildung Verstehe die Mechanik hinter jeder Routine und steuere sie gezielt und dauerhaft. 4. Auslösereize erkennen und nutzen Gestalte dein Umfeld so, dass Effizienz zur Selbstverständlichkeit wird. 5. Realisierungsintentionen und smarte Pläne Setze klare Wenn-Dann-Strategien, damit gute Gewohnheiten automatisch ablaufen. 6. Motivation ist überbewertet – das Umfeld pusht dich nach vorne Erfahre, wie du durch kleine Veränderungen im Umfeld Großes bewirkst. 7. Das Geheimnis der Selbstbeherrschung Automatisiere Disziplin, statt ständig gegen Versuchungen anzukämpfen. 8. So wird eine Gewohnheit unwiderstehlich Mache neue Routinen so attraktiv, dass du sie gar nicht mehr missen willst. 9. Die Rolle von Familie, Freunden und Kollegen Nutze die Kraft deines sozialen Umfelds für nachhaltige Veränderung. 10. Ursachen für schlechte Gewohnheiten erkennen und ersetzen Lerne, wie du hinderliche Muster identifizierst und durch produktive Alternativen ersetzt.
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><span style="color:#5c4cc4;">Es war noch nie so einfach!</span></h3>
-<p>Mit COACHY erstellst du einen eigenen Mitgliederbereich für deine digitalen Produkte. Die Erstellung und Bedienung ist extrem einfach und daher 10x schneller als mit Wordpress und anderen Lösungen!</p>
-<p>▶️ Es arbeiten bereits <strong>über 10.000 Coaches</strong> mit uns!<br />▶️ über <strong>400 positive Bewertungen!</strong><strong><br />▶️ </strong>Bei COACHY sind Influencer und bekannte Persönlichkeiten wie zum Beispiel<br /><strong>Calvin Hollywood, Andrea Ballschuh</strong> und <strong>Mike Fischer</strong>!</p>
-<p> </p>
-<h3><span style="color:#5c4cc4;">Deine Lifetime-Provisionen</span></h3>
-<p>Für jeden verkauften Zugang erhälst du eine <strong>Lifetime-Provision in Höhe von 25%!</strong></p>
-<h4> </h4>
-<p><a style="text-decoration:none;" href="https://www.coachy.net/de/partnerprogramm/" target="_blank" rel="noreferrer noopener"><span class="button" style="background-color:#ffda00;color:#5c4cc4;padding:10px 20px;text-transform:uppercase;font-size:16px;">Zum Partnerprogramm</span></a></p>
+**Vendor's marketplace description:** Es war noch nie so einfach! Mit COACHY erstellst du einen eigenen Mitgliederbereich für deine digitalen Produkte. Die Erstellung und Bedienung ist extrem einfach und daher 10x schneller als mit Wordpress und anderen Lösungen! ▶️ Es arbeiten bereits über 10.000 Coaches mit uns! ▶️ über 400 positive Bewertungen! ▶️ Bei COACHY sind Influencer und bekannte Persönlichkeiten wie zum Beispiel Calvin Hollywood, Andrea Ballschuh und Mike Fischer ! Deine Lifetime-Provisionen Für jeden verkauften Zugang erhälst du eine Lifetime-Provision in Höhe von 25%! Zum Partnerprogramm
 
 ## 2. Links
 

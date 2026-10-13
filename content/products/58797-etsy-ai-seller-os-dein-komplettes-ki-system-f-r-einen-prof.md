@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du möchtest KI gezielt für deinen Etsy-Shop nutzen – ohne dich durch unzählige Einzelprompts, Tools und widersprüchliche Tipps kämpfen zu müssen?</p>
-<p>Mit dem <strong>Etsy AI Seller OS Bundle</strong> erhältst du ein vollständiges, praxisorientiertes Arbeitssystem für Recherche, Produktentwicklung, Content-Erstellung, Listings, SEO, Shop-Analyse und Optimierung.</p>
-<p><strong>Im Bundle enthalten:</strong></p>
-<p>✓ <strong>Etsy AI Seller OS Playbook</strong> – verständlicher Praxisleitfaden für deinen Etsy-Shop<br />✓ <strong>120+ sofort nutzbare KI-Prompts</strong> für Recherche, Produkttexte, Content, SEO, Marketing und mehr<br />✓ <strong>25 Schritt-für-Schritt-KI-Workflows</strong> – von der ersten Idee bis zum nutzbaren Ergebnis<br />✓ <strong>Etsy Shop Audit System</strong> – finde gezielt Schwachstellen und Verbesserungspotenziale<br />✓ <strong>100-Punkte Audit Scorecard</strong> – bewerte deinen Shop strukturiert und nachvollziehbar<br />✓ <strong>KPI- &amp; Nischen-Dashboard</strong> – analysiere Produktideen und wichtige Shop-Kennzahlen<br />✓ <strong>30-Tage-Aktionsplan</strong> – klare tägliche Aufgaben für die konsequente Umsetzung</p>
-<p><strong>Das System unterstützt dich dabei:</strong></p>
-<ul>
-<li>bessere Produktideen zu entwickeln und zu bewerten</li>
-<li>Produktbeschreibungen und weiteren Content mit KI effizienter zu erstellen</li>
-<li>Keywords und Etsy-SEO strukturierter anzugehen</li>
-<li>Listings gezielt zu verbessern</li>
-<li>Marketing- und Content-Ideen schneller zu entwickeln</li>
-<li>wichtige Kennzahlen besser zu verstehen</li>
-<li>deinen Shop nicht nur nach Bauchgefühl zu optimieren</li>
-</ul>
-<p><strong>Für wen ist das Bundle geeignet?</strong></p>
-<p>Für Etsy-Einsteiger ebenso wie für aktive Verkäufer, die ihre Arbeitsabläufe strukturieren und KI sinnvoll in ihren Shop-Alltag integrieren möchten.</p>
-<p>Du brauchst kein tiefes KI-, Technik- oder Marketingwissen. Die Inhalte sind verständlich aufgebaut und führen dich Schritt für Schritt durch die einzelnen Aufgaben.</p>
-<p><strong>100 % digital · sofort nach dem Kauf verfügbar · kein Abo</strong></p>
-<p><strong>Wichtig:</strong> Das Etsy AI Seller OS ist ein Arbeits- und Unterstützungssystem. Es gibt keine Garantie für bestimmte Umsätze, Verkäufe oder Geschäftsergebnisse.</p>
+**Vendor's marketplace description:** Du möchtest KI gezielt für deinen Etsy-Shop nutzen – ohne dich durch unzählige Einzelprompts, Tools und widersprüchliche Tipps kämpfen zu müssen? Mit dem Etsy AI Seller OS Bundle erhältst du ein vollständiges, praxisorientiertes Arbeitssystem für Recherche, Produktentwicklung, Content-Erstellung, Listings, SEO, Shop-Analyse und Optimierung. Im Bundle enthalten: ✓ Etsy AI Seller OS Playbook – verständlicher Praxisleitfaden für deinen Etsy-Shop ✓ 120+ sofort nutzbare KI-Prompts für Recherche, Produkttexte, Content, SEO, Marketing und mehr ✓ 25 Schritt-für-Schritt-KI-Workflows – von der ersten Idee bis zum nutzbaren Ergebnis ✓ Etsy Shop Audit System – finde gezielt Schwachstellen und Verbesserungspotenziale ✓ 100-Punkte Audit Scorecard – bewerte deinen Shop strukturiert und nachvollziehbar ✓ KPI- & Nischen-Dashboard – analysiere Produktideen und wichtige Shop-Kennzahlen ✓ 30-Tage-Aktionsplan – klare tägliche Aufgaben für die konsequente Umsetzung Das System unterstützt dich dabei: bessere Produktideen zu entwickeln und zu bewerten Produktbeschreibungen und weiteren Content mit KI effizienter zu erstellen Keywords und Etsy-SEO strukturierter anzugehen Listings gezielt zu verbessern Marketing- und Content-Ideen schneller zu entwickeln wichtige Kennzahlen besser zu verstehen deinen Shop nicht nur nach Bauchgefühl zu optimieren Für wen ist das Bundle geeignet? Für Etsy-Einsteiger ebenso wie für aktive Verkäufer, die ihre Arbeitsabläufe strukturieren und KI sinnvoll in ihren Shop-Alltag integrieren möchten. Du brauchst kein tiefes KI-, Technik- oder Marketingwissen. Die Inhalte sind verständlich aufgebaut und führen dich Schritt für Schritt durch die einzelnen Aufgaben. 100 % digital · sofort nach dem Kauf verfügbar · kein Abo Wichtig: Das Etsy AI Seller OS ist ein Arbeits- und Unterstützungssystem. Es gibt keine Garantie für bestimmte Umsätze, Verkäufe oder Geschäftsergebnisse.
 
 ## 2. Links
 

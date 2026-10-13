@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dein 8 WOCHEN TRAININGSPLAN für einen starken Beckenboden, einen flachen Bauch und einen gesunden Rücken.</p>
-<p>Wir begleiten dich mit wertvollem Expertenwissen, Workouts und Alltagstipps. Für mehr Wohlbefinden!</p>
-<p>Beuge effektiv Beschwerden wie Inkontinenz, Rektusdiastase &amp; Beckenbodensenkung vor.</p>
-<p>Trainiere online mit uns und erlebe ein neues Körpergefühl.</p>
-<p>Trainiere wann und wo du willst. 8 Module und volle/ganze 12 Monate Zugang</p>
+**Vendor's marketplace description:** Dein 8 WOCHEN TRAININGSPLAN für einen starken Beckenboden, einen flachen Bauch und einen gesunden Rücken. Wir begleiten dich mit wertvollem Expertenwissen, Workouts und Alltagstipps. Für mehr Wohlbefinden! Beuge effektiv Beschwerden wie Inkontinenz, Rektusdiastase & Beckenbodensenkung vor. Trainiere online mit uns und erlebe ein neues Körpergefühl. Trainiere wann und wo du willst. 8 Module und volle/ganze 12 Monate Zugang
 
 ## 2. Links
 

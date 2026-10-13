@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Produkt:</strong> <em>SPBS Leadership Tutorial – Führen in Zeiten von KI, Wirtschaftskrise &amp; Generation Z</em></p>
-<p><strong>Format:</strong> Digitales Selbstlern‑Tutorial (PDF/Online) mit Übungen, Praxisbeispielen &amp; Studien</p>
-<p><strong>Zielgruppe:</strong> Unternehmer, Selbstständige, Führungskräfte, Coaches, Personalverantwortliche</p>
-<p><strong>Provision:</strong> Attraktive Vergütung pro Verkauf über deinen Affiliate‑Link</p>
-<div> </div>
-<h2> </h2>
+**Vendor's marketplace description:** Produkt: SPBS Leadership Tutorial – Führen in Zeiten von KI, Wirtschaftskrise & Generation Z Format: Digitales Selbstlern‑Tutorial (PDF/Online) mit Übungen, Praxisbeispielen & Studien Zielgruppe: Unternehmer, Selbstständige, Führungskräfte, Coaches, Personalverantwortliche Provision: Attraktive Vergütung pro Verkauf über deinen Affiliate‑Link
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="background-color:#ffff99;"><strong>Hohe Provision</strong>:</span> 50 % Provision auf jede Empfehlung!</h2>
-<h2><span style="font-size:14px;background-color:#ffff99;">Statt Holzklasse endlich Business oder First Class Flüge zu Economy Preisen ✈️</span></h2>
-<div>
-<p>Bezahle Business + First Class Flüge und Hotels in Zukunft mit Punkten anstatt mit Euro!</p>
-<p><strong>✅ Flüge + Hotels mit Punkten und Meilen zahlen anstatt mit Euros</strong><br /><strong>✅ Hacks + Tricks für zusätzliche Punkte</strong><br /><strong>✅ Willkommensbonus von 55.000 bis 150.000 Punkte</strong><br /><strong>✅ BONUS: Nie wieder warten, in 15 Min. zum VIP Raum</strong><br /><strong>✅ Erhalte 50 % Provision für jede Empfehlung</strong></p>
-<h4>Tipps und Tricks, wie du mit deinen täglichen Ausgaben Meilen &amp; Punkte sammeln kannst und diese für Reisen und Luxusurlaube einsetzt.</h4>
-<p><span style="color:#ff0000;"><strong><span style="text-decoration:underline;">Achtung:</span><br />Google-Ads und jede Search Ad Plattform sind verboten und werden abgemahnt.<br />(Brandbidding und Ad Hijacking)</strong></span></p>
-</div>
+**Vendor's marketplace description:** Hohe Provision : 50 % Provision auf jede Empfehlung! Statt Holzklasse endlich Business oder First Class Flüge zu Economy Preisen ✈️ Bezahle Business + First Class Flüge und Hotels in Zukunft mit Punkten anstatt mit Euro! ✅ Flüge + Hotels mit Punkten und Meilen zahlen anstatt mit Euros ✅ Hacks + Tricks für zusätzliche Punkte ✅ Willkommensbonus von 55.000 bis 150.000 Punkte ✅ BONUS: Nie wieder warten, in 15 Min. zum VIP Raum ✅ Erhalte 50 % Provision für jede Empfehlung Tipps und Tricks, wie du mit deinen täglichen Ausgaben Meilen & Punkte sammeln kannst und diese für Reisen und Luxusurlaube einsetzt. Achtung: Google-Ads und jede Search Ad Plattform sind verboten und werden abgemahnt. (Brandbidding und Ad Hijacking)
 
 ## 2. Links
 

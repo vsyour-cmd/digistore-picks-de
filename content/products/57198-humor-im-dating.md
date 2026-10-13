@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Humor im Dating“</strong></p>
-<p>Mit Leichtigkeit Herzen gewinnen – Humor ist eine der attraktivsten Eigenschaften überhaupt. Lerne, mit Leichtigkeit, Witz und Wärme echte Verbindung zu schaffen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Warum Humor so anziehend ist</li>
-<li>Deinen eigenen Humor finden</li>
-<li>Spielerisches Necken (ohne zu verletzen)</li>
-<li>Humor in Chats &amp; Nachrichten</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Humor im Dating“ Mit Leichtigkeit Herzen gewinnen – Humor ist eine der attraktivsten Eigenschaften überhaupt. Lerne, mit Leichtigkeit, Witz und Wärme echte Verbindung zu schaffen. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Warum Humor so anziehend ist Deinen eigenen Humor finden Spielerisches Necken (ohne zu verletzen) Humor in Chats & Nachrichten
 
 ## 2. Links
 

@@ -41,46 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<h2><strong>Das perfekte Buch für Online Marketing Anfänger - mit anschließendem hochlukrativem Funnel für Affiliates<br /></strong></h2>
-<h2><strong>Du wirst lebenslang beteiligt.<br /></strong></h2>
-<strong>10 Gründe, warum du das Buch Bedingungslose Finanzielle Freiheit bewerben solltest:</strong><br />
-<ul>
-<li><strong>3,20€ Sofortprovision bei Buchbestellung</strong></li>
-<li><strong>50% dauerhafte Beteiligung an allen Abbo-Produkten <br /></strong></li>
-<li><strong>60% Provision auf alle kommenden Einmalzahlprodukte</strong></li>
-<li><strong>Du bekommst Anleitungen zum optimalen Bewerben meiner Produkte</strong></li>
-<li>
-<p><strong>Hohe Verkaufsraten in der Geld im Internet verdienen Nische, da es Mehr für weniger Geld gibt<br /></strong></p>
-</li>
-<li>
-<p><strong>Vollautomatische Auszahlung deiner Provision durch Digistore24</strong></p>
-</li>
-<li><strong>keine überteuerten Produkte und dadurch geringe Stornoquote</strong></li>
-<li>
-<p><strong>Produkte, die Menschen wirklich helfen und es nicht nur vorgaukeln<br /></strong></p>
-</li>
-<li>
-<p><strong>Lars-Support (Ich helfe Dir, wenn du etwas nicht verstehst)<br /></strong></p>
-</li>
-<li>
-<p><strong>Ausführliche und ständige Conversion Optimierung</strong><strong><br /></strong></p>
-</li>
-</ul>
-<p><strong>Wichtig: Klicke jetzt unten rechts auf „Affiliate Support-Seite“ und erfahre konkret, wie du loslegen kannst, damit Du noch heute deine ersten Provisionen erhalten kannst!</strong></p>
-</div>
-</div>
-<div><strong>Inhalt + des Buches<br /></strong></div>
-<div><strong>-----------------------------------------------&gt;&gt;&gt;</strong></div>
-<div>
-<ul>
-<li>Konkrete Anleitung zur Finanziellen Freiheit</li>
-<li>212 Seiten, 36 Kapitel (deutsch / leichte Sprache) mit verständlichen Bildern</li>
-<li>Anleitung für "3 Schritte 4 stellige Einnahmen" und dem Weg zu den automatisierten 10.000€ Einnahmen</li>
-<li>30 Glaubenssätze für deinen Erfolgs-Weg</li>
-</ul>
-</div>
+**Vendor's marketplace description:** Das perfekte Buch für Online Marketing Anfänger - mit anschließendem hochlukrativem Funnel für Affiliates Du wirst lebenslang beteiligt. 10 Gründe, warum du das Buch Bedingungslose Finanzielle Freiheit bewerben solltest: 3,20€ Sofortprovision bei Buchbestellung 50% dauerhafte Beteiligung an allen Abbo-Produkten 60% Provision auf alle kommenden Einmalzahlprodukte Du bekommst Anleitungen zum optimalen Bewerben meiner Produkte Hohe Verkaufsraten in der Geld im Internet verdienen Nische, da es Mehr für weniger Geld gibt Vollautomatische Auszahlung deiner Provision durch Digistore24 keine überteuerten Produkte und dadurch geringe Stornoquote Produkte, die Menschen wirklich helfen und es nicht nur vorgaukeln Lars-Support (Ich helfe Dir, wenn du etwas nicht verstehst) Ausführliche und ständige Conversion Optimierung Wichtig: Klicke jetzt unten rechts auf „Affiliate Support-Seite“ und erfahre konkret, wie du loslegen kannst, damit Du noch heute deine ersten Provisionen erhalten kannst! Inhalt + des Buches ----------------------------------------------->>> Konkrete Anleitung zur Finanziellen Freiheit 212 Seiten, 36 Kapitel (deutsch / leichte Sprache) mit verständlichen Bildern Anleitung für "3 Schritte 4 stellige Einnahmen" und dem Weg zu den automatisierten 10.000€ Einnahmen 30 Glaubenssätze für deinen Erfolgs-Weg
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><span style="background-color:#ffcc00;">50% Provision auf alle E-Books, Online-Kurse &amp; Upsells</span></h1>
-<p><strong>Produkte</strong></p>
-<ul>
-<li>WordPress Kurse</li>
-<li>Joomla Kurse</li>
-<li>Webdesign Akademie (ABO)</li>
-<li>E-Books</li>
-</ul>
-<p>Alle Anleitungen und Kurse sind für Einsteiger und fortgeschrittener Anwender geeignet.</p>
-<p><strong>--&gt; Hohe Conversion-Rate:</strong> Der komplette Verkaufsprozess wird kontinuierlich optimiert.</p>
-<p><span style="color:#ff0000;"><a style="color:#ff0000;" href="https://www.oliverpfeil.de/affiliates" target="_blank" rel="noreferrer noopener">Hier geht's zum Affiliate-Programm</a></span></p>
+**Vendor's marketplace description:** 50% Provision auf alle E-Books, Online-Kurse & Upsells Produkte WordPress Kurse Joomla Kurse Webdesign Akademie (ABO) E-Books Alle Anleitungen und Kurse sind für Einsteiger und fortgeschrittener Anwender geeignet. --> Hohe Conversion-Rate: Der komplette Verkaufsprozess wird kontinuierlich optimiert. Hier geht's zum Affiliate-Programm
 
 ## 2. Links
 

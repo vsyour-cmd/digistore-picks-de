@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Nickerchen verbessern, den perfekten Tagesablauf und Entspannung finden</strong></h2>
-<p>Was tun, wenn das Baby oder Kleinkind tagsüber nur wenig oder gar nicht schläft?</p>
-<p>Viele Eltern stehen vor der Herausforderung, dass die Nickerchen ihres Kindes viel zu kurz sind oder dass sich das Einschlafen am Tag oder abends schwierig gestaltet. Quengeln, Weinen und Boykott.</p>
-<p>In ihrem neuen Mini-eBook hilft Sarah Mann (Großfamilienmama und zertifizierte Babyschlaf-Beraterin) ihren Leser:innen einen individuellen auf das Baby abgestimmten Tagesablauf zu entwickeln. Zudem gibt sie kostbare Tipps und Hilfestellungen, damit Nickerchen besser gelingen und das Baby oder Kleinkind (und damit auch die Eltern) entspannter und ausgeglichener durch den Tag kommen.</p>
-<p>PDF (26 Seiten) + Tagesplan-Ersteller</p>
-<p> </p>
-<p><span style="background-color:#ffff99;">PS: Frage uns nach einem individuellen Rabattcode für deine Community/E-Mail-Liste/etc.</span></p>
+**Vendor's marketplace description:** Nickerchen verbessern, den perfekten Tagesablauf und Entspannung finden Was tun, wenn das Baby oder Kleinkind tagsüber nur wenig oder gar nicht schläft? Viele Eltern stehen vor der Herausforderung, dass die Nickerchen ihres Kindes viel zu kurz sind oder dass sich das Einschlafen am Tag oder abends schwierig gestaltet. Quengeln, Weinen und Boykott. In ihrem neuen Mini-eBook hilft Sarah Mann (Großfamilienmama und zertifizierte Babyschlaf-Beraterin) ihren Leser:innen einen individuellen auf das Baby abgestimmten Tagesablauf zu entwickeln. Zudem gibt sie kostbare Tipps und Hilfestellungen, damit Nickerchen besser gelingen und das Baby oder Kleinkind (und damit auch die Eltern) entspannter und ausgeglichener durch den Tag kommen. PDF (26 Seiten) + Tagesplan-Ersteller PS: Frage uns nach einem individuellen Rabattcode für deine Community/E-Mail-Liste/etc.
 
 ## 2. Links
 

@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Für Affiliates:</strong> CloverSafe ist ein Passwort-Tresor als Einmallizenz. 25 % Provision auf 39,99 €, automatische Affiliate-Aufnahme.</p>
-<p>Kein Abo-Produkt – klarer einmaliger Verkauf über Digistore24.</p>
-<ul>
-<li>CloverSafe License: 39,99 € einmalig</li>
-</ul>
-<p>Salespage: <a href="https://cloversafe.org">cloversafe.org</a><br />Affiliate-Support: <a href="https://hih-digital.com/affiliates/cloversafe.html">hih-digital.com/affiliates/cloversafe.html</a></p>
+**Vendor's marketplace description:** Für Affiliates: CloverSafe ist ein Passwort-Tresor als Einmallizenz. 25 % Provision auf 39,99 €, automatische Affiliate-Aufnahme. Kein Abo-Produkt – klarer einmaliger Verkauf über Digistore24. CloverSafe License: 39,99 € einmalig Salespage: cloversafe.org Affiliate-Support: hih-digital.com/affiliates/cloversafe.html
 
 ## 2. Links
 

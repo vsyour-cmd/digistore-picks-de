@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Jeder Mensch hat Träume, wie zum Beispiel:<br />Ein schönes Auto, ein Haus im Süden, viel Zeit mit den Liebsten verbringen, Milli.onär sein, arbeiten bei freier Zeiteinteilung, schöne Luxusgüter und eine Weltreise machen.</p>
-<p><strong>Wie kannst Du dieses Traumleben erreichen?<br /></strong>Die Antwort auf diese spannende Frage findest Du beim Digital Heart Business Kongress ✨</p>
+**Vendor's marketplace description:** Jeder Mensch hat Träume, wie zum Beispiel: Ein schönes Auto, ein Haus im Süden, viel Zeit mit den Liebsten verbringen, Milli.onär sein, arbeiten bei freier Zeiteinteilung, schöne Luxusgüter und eine Weltreise machen. Wie kannst Du dieses Traumleben erreichen? Die Antwort auf diese spannende Frage findest Du beim Digital Heart Business Kongress ✨
 
 ## 2. Links
 

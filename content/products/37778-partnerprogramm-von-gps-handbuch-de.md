@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die ausführlichen und praxisorientierten Handbücher zu GPS-Geräten von Garmin!</strong></p>
-<p><strong>Einzigartige E-Books, die Anwendern*innen zu ihren GPS-Geräten informieren.</strong></p>
-<p><strong>Zielgruppen</strong>: Wandern, Fahrradfahren, Geocaching, Outdoor</p>
+**Vendor's marketplace description:** Die ausführlichen und praxisorientierten Handbücher zu GPS-Geräten von Garmin! Einzigartige E-Books, die Anwendern*innen zu ihren GPS-Geräten informieren. Zielgruppen : Wandern, Fahrradfahren, Geocaching, Outdoor
 
 ## 2. Links
 

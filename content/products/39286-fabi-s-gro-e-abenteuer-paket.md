@@ -41,56 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<h2>Ein einmaliges Online Erlebnis</h2>
-</div>
-</div>
-<div> …bei dem Kinder viel Spaß haben und spielerisch lernen.</div>
-<div> </div>
-<div>
-<div>
-<h3>Verdiene Geld mit Online Abenteuern für Kinder,</h3>
-</div>
-</div>
-<div>
-<div>…die einen hohen pädagogischen Mehrwert bieten.</div>
-<div> </div>
-<div>
-<div>
-<div>
-<div>
-<h3>Werde Affiliate-Partner von FABI.</h3>
-</div>
-</div>
-</div>
-<div> </div>
-<div>
-<div>
-<div>
-<p>• Hunderte Kinder haben bereits mit FABI gezeichnet und sind begeistert von den Kreativ-Abenteuern</p>
-<p>• Erhalte hohe Provisionen für jeden einzelnen Verkauf</p>
-<p>• viele weitere Abenteuer und größere Upsells werden hinzukommen</p>
-<p> </p>
-<h2>Mehr über meine Abenteuer</h2>
-</div>
-</div>
-</div>
-</div>
-</div>
-<p>In meinen Kreativ-Abenteuern gebe ich euch und euren Kindern einen Perspektivwechsel, indem ich euch in spannende Welten entführe. Wir gehen gemeinsam auf Zeichen-Abenteuer, erleben wie viel Fantasie doch in jedem von uns steckt und entdecken z.T. unbekannte Talente. Ich zeige euch, wie ihr mit neuen Zeichen-Methoden tolle Ideen entwickelt und umsetzt. Und das Beste: dabei stärken die Kinder auf einfache und spielerische Weise zusätzlich ihr kreatives Selbstbewusstsein.</p>
-<p>In mehreren Videos, die im Memberbereich nach dem Kauf zur Verfügung stehen, wird dein Kind durch das Abenteuer geführt. </p>
-<p><strong>Gesamtspielzeit der Videos: ca. 3,5h</strong></p>
-<p><strong>Kreativzeit der Kinder ca. 5-7 Stunden.</strong></p>
-<p> </p>
-<p>FABIS große Abenteuer Paket besteht aus den ersten drei Kreativ-Abenteuern: </p>
-<p><strong>"Rette Herrn Rumpelpumpel"</strong></p>
-<p><strong>"Die Höhlen-Expedition"</strong></p>
-<p><strong>"Das riesen-Ei"</strong></p>
-<p> </p>
-<p><strong>und als Bonus zwei Mini-Abenteuer!</strong></p>
-<p> </p>
-<p>Seid ihr bereit für die kreativen Abenteuer?</p>
+**Vendor's marketplace description:** Ein einmaliges Online Erlebnis …bei dem Kinder viel Spaß haben und spielerisch lernen. Verdiene Geld mit Online Abenteuern für Kinder, …die einen hohen pädagogischen Mehrwert bieten. Werde Affiliate-Partner von FABI. • Hunderte Kinder haben bereits mit FABI gezeichnet und sind begeistert von den Kreativ-Abenteuern • Erhalte hohe Provisionen für jeden einzelnen Verkauf • viele weitere Abenteuer und größere Upsells werden hinzukommen Mehr über meine Abenteuer In meinen Kreativ-Abenteuern gebe ich euch und euren Kindern einen Perspektivwechsel, indem ich euch in spannende Welten entführe. Wir gehen gemeinsam auf Zeichen-Abenteuer, erleben wie viel Fantasie doch in jedem von uns steckt und entdecken z.T. unbekannte Talente. Ich zeige euch, wie ihr mit neuen Zeichen-Methoden tolle Ideen entwickelt und umsetzt. Und das Beste: dabei stärken die Kinder auf einfache und spielerische Weise zusätzlich ihr kreatives Selbstbewusstsein. In mehreren Videos, die im Memberbereich nach dem Kauf zur Verfügung stehen, wird dein Kind durch das Abenteuer geführt. Gesamtspielzeit der Videos: ca. 3,5h Kreativzeit der Kinder ca. 5-7 Stunden. FABIS große Abenteuer Paket besteht aus den ersten drei Kreativ-Abenteuern: "Rette Herrn Rumpelpumpel" "Die Höhlen-Expedition" "Das riesen-Ei" und als Bonus zwei Mini-Abenteuer! Seid ihr bereit für die kreativen Abenteuer?
 
 ## 2. Links
 

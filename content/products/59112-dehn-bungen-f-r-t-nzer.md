@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Dehnübungen für Tänzer – Das ultimative E-Book</strong></h2>
-<p>Bewerbe einen hochkonvertierenden Bestseller in der Tanz- und Fitness-Nische und sichere dir lukrative Provisionen. Das E-Book bietet effektive, sichere Dehntechniken für Spagat, Beweglichkeit und schmerzfreies Training.</p>
-<p> <strong>• Verkaufspreis:</strong> 17,99 €</p>
-<p> <strong>• Provision:</strong> 60 % (starke Marge für Affiliates)</p>
-<p> <strong>• Plattform:</strong> Digistore24</p>
-<p> <strong>• Zielgruppe:</strong> Tänzer, Turner, Cheerleader und Fitness-Enthusiasten aller Level</p>
-<p>Nutze jetzt das starke Interesse an Flexibilitäts-Training für deine Kampagnen auf Instagram, TikTok, per E-Mail-Marketing oder auf deinem Blog.</p>
+**Vendor's marketplace description:** Dehnübungen für Tänzer – Das ultimative E-Book Bewerbe einen hochkonvertierenden Bestseller in der Tanz- und Fitness-Nische und sichere dir lukrative Provisionen. Das E-Book bietet effektive, sichere Dehntechniken für Spagat, Beweglichkeit und schmerzfreies Training. • Verkaufspreis: 17,99 € • Provision: 60 % (starke Marge für Affiliates) • Plattform: Digistore24 • Zielgruppe: Tänzer, Turner, Cheerleader und Fitness-Enthusiasten aller Level Nutze jetzt das starke Interesse an Flexibilitäts-Training für deine Kampagnen auf Instagram, TikTok, per E-Mail-Marketing oder auf deinem Blog.
 
 ## 2. Links
 

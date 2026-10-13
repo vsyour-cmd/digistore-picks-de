@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><br />✅ 100+ KI-Prompts für die schnellere Erstellung besserer Inhalte:</p>
-<p><strong>Format</strong>: Canva Templates</p>
-<p><br /><strong>Inhalt:</strong><br />15x Instagram Hooks<br />15x Bildunterschriften (Captions)<br />15x Reels<br />10x Karussell-Vorlagen<br />10x Beitrag-Vorlagen<br />10x Content-Ideen<br />10x Visuelle Prompts &amp; Bild-Prompts<br />10x Persönliche Marke<br />5x Marketing &amp; Sales<br />5x Viralität/Engagement</p>
+**Vendor's marketplace description:** ✅ 100+ KI-Prompts für die schnellere Erstellung besserer Inhalte: Format : Canva Templates Inhalt: 15x Instagram Hooks 15x Bildunterschriften (Captions) 15x Reels 10x Karussell-Vorlagen 10x Beitrag-Vorlagen 10x Content-Ideen 10x Visuelle Prompts & Bild-Prompts 10x Persönliche Marke 5x Marketing & Sales 5x Viralität/Engagement
 
 ## 2. Links
 

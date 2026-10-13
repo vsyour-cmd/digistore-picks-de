@@ -41,44 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>ERSTE SCHRITTE MIT DEM AMAZON KDP BUSINESS</h2>
-<h3>Dein Schritt-für-Schritt-Einstieg in die Welt des Self-Publishings</h3>
-<p>Du möchtest eigene Bücher oder eBooks veröffentlichen, weißt aber nicht, <strong>wo du anfangen sollst?</strong></p>
-<p>Dieser Kurs zeigt dir Schritt für Schritt, wie du dein eigenes KDP-Business von Grund auf startest – von der Einrichtung deines Accounts über die Wahl einer passenden Nische bis hin zu Cover, Pseudonym und Markenaufbau.</p>
-<p>Statt dich durch unzählige Informationen kämpfen zu müssen, erhältst du einen <strong>klaren Fahrplan für deine ersten Schritte im Self-Publishing.</strong></p>
-<h3>Das erwartet dich im Kurs:</h3>
-<ul>
-<li>
-<p>Wie du deinen <strong>Amazon-KDP-Account erstellst und richtig einrichtest</strong>, damit du eine solide Grundlage für dein Business hast</p>
-</li>
-<li>
-<p>Was der Unterschied zwischen <strong>Fiction und Non-Fiction</strong> ist und worauf du bei der Erstellung deines eBooks achten solltest</p>
-</li>
-<li>
-<p>Wie du eine <strong>passende und interessante Nische</strong> für deine zukünftigen Buchprojekte findest</p>
-</li>
-<li>
-<p>Wie du einen geeigneten <strong>Autorennamen bzw. ein Pseudonym</strong> entwickelst, wenn du nicht unter deinem eigenen Namen veröffentlichen möchtest</p>
-</li>
-<li>
-<p>Wie du eine <strong>Markenrecherche</strong> durchführst und Schritt für Schritt eine eigene Brand rund um deine Bücher aufbauen kannst</p>
-</li>
-<li>
-<p>Wie du ein <strong>aufmerksamkeitsstarkes und zielgruppengerechtes Cover</strong> selbst erstellst oder professionell erstellen lässt</p>
-</li>
-<li>
-<p>Worauf es beim ersten Eindruck deines Buches ankommt, damit potenzielle Leser neugierig werden und sich dein Angebot genauer ansehen</p>
-</li>
-<li>
-<p>sowie <strong>weitere kostenlose Boni</strong>, die dir den Einstieg erleichtern</p>
-</li>
-</ul>
-<h3>Von der ersten Idee zum eigenen KDP-Projekt</h3>
-<p>Gerade am Anfang können die vielen Möglichkeiten und einzelnen Schritte beim Self-Publishing schnell überwältigend wirken.</p>
-<p>Genau hier setzt dieser Kurs an.</p>
-<p>Du bekommst einen verständlichen Einstieg und erfährst, <strong>welche Schritte in welcher Reihenfolge sinnvoll sind</strong>, damit aus deiner ersten Buchidee ein strukturiertes KDP-Projekt entstehen kann.</p>
-<p>Ob du unter deinem eigenen Namen veröffentlichen oder lieber <strong>mit einem Pseudonym auftreten</strong> möchtest – du erhältst das notwendige Grundlagenwissen, um deine ersten Schritte selbstständig umzusetzen.</p>
-<p><strong>Ideal für Einsteiger, die Amazon KDP kennenlernen und sich Schritt für Schritt ein eigenes Self-Publishing-Business aufbauen möchten.</strong></p>
+**Vendor's marketplace description:** ERSTE SCHRITTE MIT DEM AMAZON KDP BUSINESS Dein Schritt-für-Schritt-Einstieg in die Welt des Self-Publishings Du möchtest eigene Bücher oder eBooks veröffentlichen, weißt aber nicht, wo du anfangen sollst? Dieser Kurs zeigt dir Schritt für Schritt, wie du dein eigenes KDP-Business von Grund auf startest – von der Einrichtung deines Accounts über die Wahl einer passenden Nische bis hin zu Cover, Pseudonym und Markenaufbau. Statt dich durch unzählige Informationen kämpfen zu müssen, erhältst du einen klaren Fahrplan für deine ersten Schritte im Self-Publishing. Das erwartet dich im Kurs: Wie du deinen Amazon-KDP-Account erstellst und richtig einrichtest , damit du eine solide Grundlage für dein Business hast Was der Unterschied zwischen Fiction und Non-Fiction ist und worauf du bei der Erstellung deines eBooks achten solltest Wie du eine passende und interessante Nische für deine zukünftigen Buchprojekte findest Wie du einen geeigneten Autorennamen bzw. ein Pseudonym entwickelst, wenn du nicht unter deinem eigenen Namen veröffentlichen möchtest Wie du eine Markenrecherche durchführst und Schritt für Schritt eine eigene Brand rund um deine Bücher aufbauen kannst Wie du ein aufmerksamkeitsstarkes und zielgruppengerechtes Cover selbst erstellst oder professionell erstellen lässt Worauf es beim ersten Eindruck deines Buches ankommt, damit potenzielle Leser neugierig werden und sich dein Angebot genauer ansehen sowie weitere kostenlose Boni , die dir den Einstieg erleichtern Von der ersten Idee zum eigenen KDP-Projekt Gerade am Anfang können die vielen Möglichkeiten und einzelnen Schritte beim Self-Publishing schnell überwältigend wirken. Genau hier setzt dieser Kurs an. Du bekommst einen verständlichen Einstieg und erfährst, welche Schritte in welcher Reihenfolge sinnvoll sind , damit aus deiner ersten Buchidee ein strukturiertes KDP-Projekt entstehen kann. Ob du unter deinem eigenen Namen veröffentlichen oder lieber mit einem Pseudonym auftreten möchtest – du erhältst das notwendige Grundlagenwissen, um deine ersten Schritte selbstständig umzusetzen. Ideal für Einsteiger, die Amazon KDP kennenlernen und sich Schritt für Schritt ein eigenes Self-Publishing-Business aufbauen möchten.
 
 ## 2. Links
 

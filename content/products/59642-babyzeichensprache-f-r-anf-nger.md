@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Babyzeichensprache für Anfänger</strong> – Der kompakte Ratgeber für junge Eltern, um Babybedürfnisse intuitiv zu verstehen und den Familienalltag zu entspannen.</p>
-<p><strong>• Preis:</strong> 17,99 €</p>
-<p><strong>• Affiliate-Provision:</strong> 60 %</p>
-<p><strong>• Zielgruppe:</strong> Eltern mit Babys (6–18 Monate)</p>
-<p> </p>
+**Vendor's marketplace description:** Babyzeichensprache für Anfänger – Der kompakte Ratgeber für junge Eltern, um Babybedürfnisse intuitiv zu verstehen und den Familienalltag zu entspannen. • Preis: 17,99 € • Affiliate-Provision: 60 % • Zielgruppe: Eltern mit Babys (6–18 Monate)
 
 ## 2. Links
 

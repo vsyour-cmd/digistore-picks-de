@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der <strong>AI ChatBot Pro</strong> ist die Lösung für Unternehmen mit vielen Anfragen. Zusätzlich zu allen Basic-Funktionen bietet er Online-Terminbuchung (Google Kalender oder internes System), automatische Lead-Erfassung, Weiterleitung an Mitarbeiter und CRM-Anbindung.</p>
-<p><strong>Warum sich die Bewerbung lohnt:</strong></p>
-<ul>
-<li>Höherer Warenkorb: 1.250 € einmalige Einrichtung + 300 € monatlich – entsprechend höhere Provision pro Sale</li>
-<li>20 % Provision auf die Einrichtung UND auf jede monatliche Rate – wiederkehrendes Einkommen</li>
-<li>Klarer Mehrwert: spart Personalkosten und gewinnt aktiv neue Leads</li>
-<li>30 Tage Geld-zurück-Garantie senkt die Kaufhürde</li>
-</ul>
-<p><strong>Ideale Zielgruppe für deine Werbung:</strong> Dienstleister, Fahrschulen, Werkstätten, Coaches, Agenturen und Praxen mit regelmäßigem Kundenkontakt und Terminvergabe.</p>
-<p>Anbieter: HeltAIum – KI- und Automatisierungslösungen für Unternehmen.</p>
+**Vendor's marketplace description:** Der AI ChatBot Pro ist die Lösung für Unternehmen mit vielen Anfragen. Zusätzlich zu allen Basic-Funktionen bietet er Online-Terminbuchung (Google Kalender oder internes System), automatische Lead-Erfassung, Weiterleitung an Mitarbeiter und CRM-Anbindung. Warum sich die Bewerbung lohnt: Höherer Warenkorb: 1.250 € einmalige Einrichtung + 300 € monatlich – entsprechend höhere Provision pro Sale 20 % Provision auf die Einrichtung UND auf jede monatliche Rate – wiederkehrendes Einkommen Klarer Mehrwert: spart Personalkosten und gewinnt aktiv neue Leads 30 Tage Geld-zurück-Garantie senkt die Kaufhürde Ideale Zielgruppe für deine Werbung: Dienstleister, Fahrschulen, Werkstätten, Coaches, Agenturen und Praxen mit regelmäßigem Kundenkontakt und Terminvergabe. Anbieter: HeltAIum – KI- und Automatisierungslösungen für Unternehmen.
 
 ## 2. Links
 

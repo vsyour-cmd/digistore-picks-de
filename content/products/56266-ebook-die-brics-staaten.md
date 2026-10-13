@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses umfangreiche Werk beleuchtet den globalen Machtwandel hin zu einer multipolaren Weltordnung und positioniert die BRICS-Staaten als zentralen Treiber dieser Entwicklung – ein hochaktuelles Thema mit wachsender Nachfrage.</p>
-<p> </p>
-<p>Es richtet sich an politisch und wirtschaftlich interessierte Leser, Entscheidungsträger sowie alle, die geopolitische Zusammenhänge verstehen wollen.</p>
-<p> </p>
-<p>Die klare Struktur, tiefgehende Analyse und breite Themenabdeckung machen das Buch sowohl für Einsteiger als auch Fortgeschrittene attraktiv.</p>
-<p> </p>
-<p>Besonders stark ist der konkrete Bezug zu Deutschland und Europa, was die Relevanz im deutschsprachigen Markt zusätzlich erhöht.</p>
-<p> </p>
-<p>Ein inhaltlich dichtes, erklärungsstarkes Produkt mit hohem Bildungswert und sehr guter Vermarktbarkeit im Bereich Wirtschaft, Politik und Zukunftstrends.</p>
+**Vendor's marketplace description:** Dieses umfangreiche Werk beleuchtet den globalen Machtwandel hin zu einer multipolaren Weltordnung und positioniert die BRICS-Staaten als zentralen Treiber dieser Entwicklung – ein hochaktuelles Thema mit wachsender Nachfrage. Es richtet sich an politisch und wirtschaftlich interessierte Leser, Entscheidungsträger sowie alle, die geopolitische Zusammenhänge verstehen wollen. Die klare Struktur, tiefgehende Analyse und breite Themenabdeckung machen das Buch sowohl für Einsteiger als auch Fortgeschrittene attraktiv. Besonders stark ist der konkrete Bezug zu Deutschland und Europa, was die Relevanz im deutschsprachigen Markt zusätzlich erhöht. Ein inhaltlich dichtes, erklärungsstarkes Produkt mit hohem Bildungswert und sehr guter Vermarktbarkeit im Bereich Wirtschaft, Politik und Zukunftstrends.
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Warum dieser Kurs für deine Zielgruppe perfekt ist:</strong> Menschen, die im Alltag unter Stress leiden und sich mehr innere Ruhe wünschen – genau das löst dieser Kurs. Ohne App, ohne Ausrüstung, ohne viel Zeit. Nur mit dem Atem.</p>
-<p><strong>Das Produkt auf einen Blick:</strong> Das 21-Tage Atemtraining mit der wissenschaftlich fundierten Mikro-Atemtechnik – entwickelt von Dr. Katrin Hegendörfer, Psychologin und systemische Therapeutin mit über 20 Jahren Erfahrung.</p>
-<p>✅ 21 tägliche Videoeinheiten (~5 Min. Input + 5 Min. Atemübung) <br />✅ 7 Bonus-Einheiten für danach <br />✅ 12 Monate Zugang – beliebig oft wiederholbar <br />✅ Keine Vorkenntnisse nötig <br />✅ Sofort anwendbar – mitten im Alltag</p>
-<p><strong>Preis:</strong> 49 € (inkl. MwSt.) <br /><strong>Zielgruppe:</strong> Gestresste Berufstätige, Eltern, Führungskräfte, alle die mehr Ruhe &amp; Resilienz wollen <strong>Conversion-Stärke:</strong> Günstig, sofort verständlich, breite Zielgruppe, starke Testimonials</p>
+**Vendor's marketplace description:** Warum dieser Kurs für deine Zielgruppe perfekt ist: Menschen, die im Alltag unter Stress leiden und sich mehr innere Ruhe wünschen – genau das löst dieser Kurs. Ohne App, ohne Ausrüstung, ohne viel Zeit. Nur mit dem Atem. Das Produkt auf einen Blick: Das 21-Tage Atemtraining mit der wissenschaftlich fundierten Mikro-Atemtechnik – entwickelt von Dr. Katrin Hegendörfer, Psychologin und systemische Therapeutin mit über 20 Jahren Erfahrung. ✅ 21 tägliche Videoeinheiten (~5 Min. Input + 5 Min. Atemübung) ✅ 7 Bonus-Einheiten für danach ✅ 12 Monate Zugang – beliebig oft wiederholbar ✅ Keine Vorkenntnisse nötig ✅ Sofort anwendbar – mitten im Alltag Preis: 49 € (inkl. MwSt.) Zielgruppe: Gestresste Berufstätige, Eltern, Führungskräfte, alle die mehr Ruhe & Resilienz wollen Conversion-Stärke: Günstig, sofort verständlich, breite Zielgruppe, starke Testimonials
 
 ## 2. Links
 

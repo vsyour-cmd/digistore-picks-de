@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><em>Mit diesem 4-wöchigen Hypnose-Onlinekurs kannst Du Deinen Schlafproblemen endlich Gute Nacht! sagen und gewinnst Deine Energie, Lebensfreude und Gesundheit zurück.</em></p>
-<p>Der Kurs enthält 3 Video-Lektionen zum Thema Gesunder Schlaf, eine Video-Kursanleitung, ein Video mit Tipps zur richtigen Hypnoseanwendung, ein Lernvideo für Autogenes Training und zwei Hypnoses zum Einschlafen und zum Durchschlafen lernen.</p>
-<p>Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.</p>
+**Vendor's marketplace description:** Mit diesem 4-wöchigen Hypnose-Onlinekurs kannst Du Deinen Schlafproblemen endlich Gute Nacht! sagen und gewinnst Deine Energie, Lebensfreude und Gesundheit zurück. Der Kurs enthält 3 Video-Lektionen zum Thema Gesunder Schlaf, eine Video-Kursanleitung, ein Video mit Tipps zur richtigen Hypnoseanwendung, ein Lernvideo für Autogenes Training und zwei Hypnoses zum Einschlafen und zum Durchschlafen lernen. Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.
 
 ## 2. Links
 

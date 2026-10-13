@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><span style="color:#800080;"><strong><big>CROWD-FUNDING - </big></strong></span></p>
-<p style="text-align:center;"><span style="color:#800080;"><strong><big>die neue schufa-freie Geldbeschaffung</big></strong></span></p>
-<p>Haben Sie eine Super-Idee, aber es fehlt Ihnen am Geld für die Umsetzung?</p>
-<p>Egal in welchem Bereich, ob geschäftlicher, künstlerischer, sozialer, privater oder sonstiger Bereich: mit dieser Methode sammeln Sie Geld ein, das Sie nicht zurückzahlen müssen.</p>
-<p>Arrogante Banken, bei denen Sie als Bittsteller vorstellig werden müssen, brauchen Sie jetzt nicht mehr.<br /><br /> Ihre Schufa ist schlecht? Macht nix, wenn Ihre Idee nur gut ist! Ist sie das, sind Hunderte oder gar Tausende Sponsoren bereit, für Ihr Projekt kleine und größere Summen zu geben.<br /><br /> Die 6 Vorteile dieser Finanzierungsmethode:</p>
-<ol>
-<li>Keine Top-Bonität und saubere Schufa erforderlich</li>
-<li>Kein Eigenkapital erforderlich</li>
-<li>Keine Einkommensnachweise erforderlich</li>
-<li>Keine Sicherheiten erforderlich</li>
-<li>Kein lästiger Papierkrieg</li>
-<li>Keine Abhängigkeit vom Wohlwollen der Banken</li>
-</ol>
-<p><big><big>HALT!</big></big><br /><br /> Es gibt noch einen 7. Vorteil: Das eingesammelte Geld muss nicht zurück gezahlt werden!</p>
-<p> </p>
-<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
-<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
-<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<strong>J<span style="color:#cc99ff;">eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</span></strong>“.</p>
-<p>2 einfache Schritte:</p>
-<ol>
-<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html </a></span>(dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge")</li>
-<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
-</ol>
-<p> </p>
-<p><em><strong> </strong></em></p>
+**Vendor's marketplace description:** CROWD-FUNDING - die neue schufa-freie Geldbeschaffung Haben Sie eine Super-Idee, aber es fehlt Ihnen am Geld für die Umsetzung? Egal in welchem Bereich, ob geschäftlicher, künstlerischer, sozialer, privater oder sonstiger Bereich: mit dieser Methode sammeln Sie Geld ein, das Sie nicht zurückzahlen müssen. Arrogante Banken, bei denen Sie als Bittsteller vorstellig werden müssen, brauchen Sie jetzt nicht mehr. Ihre Schufa ist schlecht? Macht nix, wenn Ihre Idee nur gut ist! Ist sie das, sind Hunderte oder gar Tausende Sponsoren bereit, für Ihr Projekt kleine und größere Summen zu geben. Die 6 Vorteile dieser Finanzierungsmethode: Keine Top-Bonität und saubere Schufa erforderlich Kein Eigenkapital erforderlich Keine Einkommensnachweise erforderlich Keine Sicherheiten erforderlich Kein lästiger Papierkrieg Keine Abhängigkeit vom Wohlwollen der Banken HALT! Es gibt noch einen 7. Vorteil: Das eingesammelte Geld muss nicht zurück gezahlt werden! Möchten Sie ein Ansichtsexemplar? Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz. Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „ J eden T ag R ei*cher “. 2 einfache Schritte: JTR gratis bestellen auf https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge") Email mit Ihrem Ebook-Wunsch an service@big-benn-books.com
 
 ## 2. Links
 

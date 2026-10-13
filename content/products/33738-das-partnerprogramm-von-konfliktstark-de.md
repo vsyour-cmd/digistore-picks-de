@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Empfehlen Sie unsere wertvolle Online-Seminar-Reihe für Privat-Personen und Menschen auf der Suche nach Hilfe.</p>
-<p><strong>"Konflikte lösen" ist ein Problem mit großer Reichweite.</strong></p>
-<p>Ihre Vorteile als Affiliate sind:</p>
-<ul><li><strong>50%</strong> Provision auf alle <strong>Initialprodukte</strong> und alle <strong>Folgeprodukte</strong></li>
-<li>Keine Verluste durch wechselnde Browser und Geräte dank Klick-Tipp <strong>Multi-Device-Tracking</strong> (im Durchschnitt 46 % höhere Provisionen).</li>
-<li>Mit jedem vermittelten Kontakt bewirken Sie eine bessere und <strong>friedlichere Welt</strong></li>
-</ul><p><em>(Das Partnerprogramm ist aktuell noch im Aufbau. Die Werbemittel folgen in Kürze: <a href="https://konfliktstark.de/partnerprogramm/" target="_blank" rel="noreferrer noopener">&gt;&gt; HIER</a> )</em></p>
+**Vendor's marketplace description:** Empfehlen Sie unsere wertvolle Online-Seminar-Reihe für Privat-Personen und Menschen auf der Suche nach Hilfe. "Konflikte lösen" ist ein Problem mit großer Reichweite. Ihre Vorteile als Affiliate sind: 50% Provision auf alle Initialprodukte und alle Folgeprodukte Keine Verluste durch wechselnde Browser und Geräte dank Klick-Tipp Multi-Device-Tracking (im Durchschnitt 46 % höhere Provisionen). Mit jedem vermittelten Kontakt bewirken Sie eine bessere und friedlichere Welt (Das Partnerprogramm ist aktuell noch im Aufbau. Die Werbemittel folgen in Kürze: >> HIER )
 
 ## 2. Links
 

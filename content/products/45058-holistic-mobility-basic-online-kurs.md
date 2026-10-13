@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der BASIC Kurs wendet sich speziell an <strong>Alltagshelden, Büroathleten und Gesundheitsenthusiasten</strong>, die einerseits einfach zu folgende Lösungen wollen, aber auch verstehen möchten, wie der Körper funktioniert.</p>
-<p>Das ist DAS Programm gegen <strong>Rücken- und Nackenschmerzen, Stress und Energielosigkeit</strong>. Aber nicht nur das: Du wirst lernen, wie diese Art der Bewegung <strong>jeden Aspekt deiner Gesundheit</strong> beeinflusst. Dieser Kurs ist das beste Investment in dich, was du machen kannst.</p>
-<p>Durch meinen <strong>ganzheitlichen Ansatz</strong> wirst du dich wieder frei und leicht fühlen und deinen Körper endlich selbst verstehen - in nur 5-15 Minuten am Tag.</p>
-<p>Wie Du durch Mobilityroutinen <strong>körperlich und mental gesünder, ausgeglichener und kraftvolle</strong>r wirst, für klareres Denken und mehr Energie im Alltag.</p>
-<p>Raus aus der Schmerz- und Stressschleife und zurück ins Leben!</p>
-<p><strong>Werde zu deinem eigenen holistischen Bewegungsexperten</strong> mit einer Synergie aus moderner Wissenschaft, altbewährter Weisheit und meiner Erfahrung. Gehe deinen Symptomen auf den Grund und finde wirklich nachhaltige Lösungen. <a>Hier findest du detaillierte Inhalte.</a></p>
-<ul>
-<li>75+ Video-Lektionen: Tauche ein in prägnante und effektive Videos mit 10+ Stunden Video- und Audioinhalt</li>
-<li>Komplette Bewegungsroutinen in 5 - 30 Minuten</li>
-<li>Geführte Meditationen: Erlebe einen ganzheitlichen Ansatz mit Achtsamkeitspraktiken, die einen tieferen Einblick in deinen Körper bieten</li>
-<li>Zusätzliche herunterladbare Ressourcen</li>
-<li>Live-Sessions: Nimm regelmäßig an Live-Sessions teil. Im Kurs findest du alle Aufzeichnungen vergangener Sessions</li>
-<li>Community: Werde Teil einer Gemeinschaft für Unterstützung, gemeinsame Erfahrungen und Expertenratschläge</li>
-<li>Regelmäßige Updates: Bleibe mit neuen Erkenntnissen auf dem neuesten Stand</li>
-<li>Benutzerfreundliche App und Browser-Plattform, die Flexibilität und Komfort bietet</li>
-<li>Kurs in deinem eigenen Tempo: Arbeite das Material in deinem eigenen Tempo durch, ohne Fristen oder zeitliche Einschränkungen.</li>
-</ul>
-<p>Das ist DAS Verständnis für den Körper, dass ICH mir immer gewünscht hätte!</p>
+**Vendor's marketplace description:** Der BASIC Kurs wendet sich speziell an Alltagshelden, Büroathleten und Gesundheitsenthusiasten , die einerseits einfach zu folgende Lösungen wollen, aber auch verstehen möchten, wie der Körper funktioniert. Das ist DAS Programm gegen Rücken- und Nackenschmerzen, Stress und Energielosigkeit . Aber nicht nur das: Du wirst lernen, wie diese Art der Bewegung jeden Aspekt deiner Gesundheit beeinflusst. Dieser Kurs ist das beste Investment in dich, was du machen kannst. Durch meinen ganzheitlichen Ansatz wirst du dich wieder frei und leicht fühlen und deinen Körper endlich selbst verstehen - in nur 5-15 Minuten am Tag. Wie Du durch Mobilityroutinen körperlich und mental gesünder, ausgeglichener und kraftvolle r wirst, für klareres Denken und mehr Energie im Alltag. Raus aus der Schmerz- und Stressschleife und zurück ins Leben! Werde zu deinem eigenen holistischen Bewegungsexperten mit einer Synergie aus moderner Wissenschaft, altbewährter Weisheit und meiner Erfahrung. Gehe deinen Symptomen auf den Grund und finde wirklich nachhaltige Lösungen. Hier findest du detaillierte Inhalte. 75+ Video-Lektionen: Tauche ein in prägnante und effektive Videos mit 10+ Stunden Video- und Audioinhalt Komplette Bewegungsroutinen in 5 - 30 Minuten Geführte Meditationen: Erlebe einen ganzheitlichen Ansatz mit Achtsamkeitspraktiken, die einen tieferen Einblick in deinen Körper bieten Zusätzliche herunterladbare Ressourcen Live-Sessions: Nimm regelmäßig an Live-Sessions teil. Im Kurs findest du alle Aufzeichnungen vergangener Sessions Community: Werde Teil einer Gemeinschaft für Unterstützung, gemeinsame Erfahrungen und Expertenratschläge Regelmäßige Updates: Bleibe mit neuen Erkenntnissen auf dem neuesten Stand Benutzerfreundliche App und Browser-Plattform, die Flexibilität und Komfort bietet Kurs in deinem eigenen Tempo: Arbeite das Material in deinem eigenen Tempo durch, ohne Fristen oder zeitliche Einschränkungen. Das ist DAS Verständnis für den Körper, dass ICH mir immer gewünscht hätte!
 
 ## 2. Links
 

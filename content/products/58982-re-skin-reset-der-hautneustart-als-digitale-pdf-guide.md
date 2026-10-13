@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>RE:SKIN RESET ist ein hochwertiger digitaler Hautpflege-Guide für Frauen, die ihre Haut besser verstehen und ihre tägliche Pflegeroutine gezielter aufbauen möchten.</p>
-<p>Der PDF-Guide führt Schritt für Schritt durch einen strukturierten Skin-Reset und zeigt, wie die Haut durch eine bewusst aufgebaute Routine entlastet, gepflegt und unterstützt werden kann.</p>
-<p>Enthalten sind unter anderem:</p>
-<ul>
-<li>verständliches Wissen rund um Haut und Hautbarriere</li>
-<li>typische Pflegefehler und wie man sie vermeidet</li>
-<li>Aufbau einer sinnvollen Morgen- und Abendroutine</li>
-<li>Orientierung zu Wirkstoffen und Pflegeprodukten</li>
-<li>strukturierter RESET-Plan für die tägliche Anwendung</li>
-<li>praktische Tipps für mehr Ruhe und Klarheit in der Hautpflege</li>
-<li>Checklisten und leicht umsetzbare Empfehlungen für den Alltag</li>
-</ul>
-<p>Der Guide richtet sich besonders an Frauen, die das Gefühl haben, ihre Haut mit zu vielen Produkten zu überfordern oder endlich eine klare und verständliche Hautpflege-Routine möchten.</p>
-<p><strong>Ideal für Affiliates aus den Bereichen:</strong> Beauty, Kosmetik, Hautpflege, Selfcare, Wellness und Gesundheit</p>
+**Vendor's marketplace description:** RE:SKIN RESET ist ein hochwertiger digitaler Hautpflege-Guide für Frauen, die ihre Haut besser verstehen und ihre tägliche Pflegeroutine gezielter aufbauen möchten. Der PDF-Guide führt Schritt für Schritt durch einen strukturierten Skin-Reset und zeigt, wie die Haut durch eine bewusst aufgebaute Routine entlastet, gepflegt und unterstützt werden kann. Enthalten sind unter anderem: verständliches Wissen rund um Haut und Hautbarriere typische Pflegefehler und wie man sie vermeidet Aufbau einer sinnvollen Morgen- und Abendroutine Orientierung zu Wirkstoffen und Pflegeprodukten strukturierter RESET-Plan für die tägliche Anwendung praktische Tipps für mehr Ruhe und Klarheit in der Hautpflege Checklisten und leicht umsetzbare Empfehlungen für den Alltag Der Guide richtet sich besonders an Frauen, die das Gefühl haben, ihre Haut mit zu vielen Produkten zu überfordern oder endlich eine klare und verständliche Hautpflege-Routine möchten. Ideal für Affiliates aus den Bereichen: Beauty, Kosmetik, Hautpflege, Selfcare, Wellness und Gesundheit
 
 ## 2. Links
 

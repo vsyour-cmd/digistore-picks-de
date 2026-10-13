@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die Herzreise</strong></p>
-<p>"Eine geführte Bewusstseinsreise für tiefe Entspannung und intensive Körperwahrnehmung. Erfahre und fühle, dich und deinen Körper und betrete dein ursprüngliches Kraftfeld, dein physiches Herz!"</p>
-<div> </div>
-<div><strong>Deine Vorteile als Affiliate:</strong></div>
-<div> </div>
-<ul>
-<li>25% Provision für jeden erzielten Verkauf</li>
-<li>Verbreite Ruhe, Entspannung &amp; Kraft!</li>
-</ul>
-<p> </p>
-<p>Unterstütze Menschen dabei, sich zu fühlen, zu entspannen, zur Ruhe- und ihre Kraft zu kommen!</p>
+**Vendor's marketplace description:** Die Herzreise "Eine geführte Bewusstseinsreise für tiefe Entspannung und intensive Körperwahrnehmung. Erfahre und fühle, dich und deinen Körper und betrete dein ursprüngliches Kraftfeld, dein physiches Herz!" Deine Vorteile als Affiliate: 25% Provision für jeden erzielten Verkauf Verbreite Ruhe, Entspannung & Kraft! Unterstütze Menschen dabei, sich zu fühlen, zu entspannen, zur Ruhe- und ihre Kraft zu kommen!
 
 ## 2. Links
 

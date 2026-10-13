@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Packbereit: konkrete Hilfe für den Alltag</h2>
-<p>Bearbeitbare Packvorschläge je Person statt einer gemeinsamen endlosen Liste.</p>
-<p><strong>Zielgruppe:</strong> Familien und gemeinsam Reisende, die Packlisten am Computer vorbereiten.</p>
-<p><strong>Lieferumfang:</strong> 1–60 Reisetage, bis zu 12 Personen; anpassbare Mengen, Wäscheintervall, Verkehrsmittel sowie Strand- und Campingoption; Personen- und Taschenfilter; Druckansicht. Dazu manuell speicherbare JSON-Projektdateien, integrierte Anleitung und zwei fiktive Beispielprojekte.</p>
-<p>ZIP-Download mit lokaler HTML-App für Desktop-Browser. Kein KI-Zugang nötig. Keine native Handyapp, kein Konto, keine Cloud-Synchronisierung, keine automatische Speicherung. Vorschläge individuell prüfen.</p>
-<p><strong>Einmaliger Preis:</strong> 9,99 Euro brutto. <strong>Affiliate-Provision:</strong> 30 Prozent gemäß Digistore24-Abrechnung. 30 Tage Rückgabe, 12 Monate Downloadzugang.</p>
-<p><strong>Kostenlose Probe:</strong> https://projektpreis-studio.crimetwin.chatgpt.site/packbereit/probe/</p>
-<p>Produktinfos und nutzbare Werbetexte auf der Affiliate-Support-Seite. Gewöhnliche Probenlinks enthalten keine Affiliate-Zuordnung; persönliche Verkaufslinks mit Kampagnenkennung aus Digistore24 verwenden.</p>
-<p>Neue Produkte ohne belegte Conversion- oder Verkaufsdaten. Kaufwerbung erst nach tatsächlicher Produkt- und Marktplatzfreigabe. Keine garantierten Ergebnisse, erfundenen Bewertungen oder künstliche Verknappung verwenden.</p>
+**Vendor's marketplace description:** Packbereit: konkrete Hilfe für den Alltag Bearbeitbare Packvorschläge je Person statt einer gemeinsamen endlosen Liste. Zielgruppe: Familien und gemeinsam Reisende, die Packlisten am Computer vorbereiten. Lieferumfang: 1–60 Reisetage, bis zu 12 Personen; anpassbare Mengen, Wäscheintervall, Verkehrsmittel sowie Strand- und Campingoption; Personen- und Taschenfilter; Druckansicht. Dazu manuell speicherbare JSON-Projektdateien, integrierte Anleitung und zwei fiktive Beispielprojekte. ZIP-Download mit lokaler HTML-App für Desktop-Browser. Kein KI-Zugang nötig. Keine native Handyapp, kein Konto, keine Cloud-Synchronisierung, keine automatische Speicherung. Vorschläge individuell prüfen. Einmaliger Preis: 9,99 Euro brutto. Affiliate-Provision: 30 Prozent gemäß Digistore24-Abrechnung. 30 Tage Rückgabe, 12 Monate Downloadzugang. Kostenlose Probe: https://projektpreis-studio.crimetwin.chatgpt.site/packbereit/probe/ Produktinfos und nutzbare Werbetexte auf der Affiliate-Support-Seite. Gewöhnliche Probenlinks enthalten keine Affiliate-Zuordnung; persönliche Verkaufslinks mit Kampagnenkennung aus Digistore24 verwenden. Neue Produkte ohne belegte Conversion- oder Verkaufsdaten. Kaufwerbung erst nach tatsächlicher Produkt- und Marktplatzfreigabe. Keine garantierten Ergebnisse, erfundenen Bewertungen oder künstliche Verknappung verwenden.
 
 ## 2. Links
 

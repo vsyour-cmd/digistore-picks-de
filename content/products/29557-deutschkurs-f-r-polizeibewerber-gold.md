@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hilf Schweizer Polizeikandidaten, die Aufnahmeprüfung zu bestehen, und verdien damit gutes Geld!</p>
-<p>Schweizer Polizeikorps verlangen gute Deutschkenntnisse. Viele Kandidaten unterschätzen das und fallen beim Eignungstest durch. </p>
-<p>Dieser Deutschkurs für Polizeibewerber bereitet Kandidaten auf die Aufnahmeprüfung vor. Am Ende sind sie fit, um den Deutschteil der Prüfung zu bestehen.</p>
-<p>Der Kurs bietet:</p>
-<ul>
-<li>14 Lektionen mit Erklärungen und vielen Übungen</li>
-<li>Lösungen zu allen Übungen</li>
-<li>unbeschränkt langer Zugriff, keine Zeitlimite</li>
-<li>30 Tage Geld-zurück-Garantie</li>
-<li>abhängig vom Paket (Gold/Silber/Bronze):
-<ul>
-<li>E-Mail-Unterstützung bei Fragen</li>
-<li>Korrigieren von 1-2 Aufsätzen</li>
-</ul>
-</li>
-</ul>
-<p> </p>
-<p><span style="color:#ff0000;">Du als Affiliate erhältst 50 % Provision.</span></p>
+**Vendor's marketplace description:** Hilf Schweizer Polizeikandidaten, die Aufnahmeprüfung zu bestehen, und verdien damit gutes Geld! Schweizer Polizeikorps verlangen gute Deutschkenntnisse. Viele Kandidaten unterschätzen das und fallen beim Eignungstest durch. Dieser Deutschkurs für Polizeibewerber bereitet Kandidaten auf die Aufnahmeprüfung vor. Am Ende sind sie fit, um den Deutschteil der Prüfung zu bestehen. Der Kurs bietet: 14 Lektionen mit Erklärungen und vielen Übungen Lösungen zu allen Übungen unbeschränkt langer Zugriff, keine Zeitlimite 30 Tage Geld-zurück-Garantie abhängig vom Paket (Gold/Silber/Bronze): E-Mail-Unterstützung bei Fragen Korrigieren von 1-2 Aufsätzen Du als Affiliate erhältst 50 % Provision.
 
 ## 2. Links
 

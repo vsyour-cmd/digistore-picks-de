@@ -41,60 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Ideales Partnerprogramm für JEDEN aus der Immobilienbranche. <br /></strong><em>Erhalte 20% Provision beim Verkauf von Home Staging Online Kursen. </em><br /><br /><strong><span style="background-color:#808000;color:#ffffff;">Die Staging Akademie ist Deutschlands erste Online Plattform für Home Staging Ausbildungen.</span></strong><br />Gegründet von Heike Uhlemann, in der Branche sehr bekannt. </p>
-<p>Informationen wie du unsere Kurse bewerben kannst, findest du auf unserer <a href="https://www.staging-akademie.de/affiliate-supportseite/" target="_blank" rel="noreferrer noopener">Affiliate-Supportseite.</a></p>
-<p> </p>
-<h2>Unsere Kurse: </h2>
-<p><strong>KURS: HOME STAGING STARTER</strong></p>
-<p>Geeignet für: Immobilienverkäufer, Home Staging Interessierte</p>
-<ul>
-<li>8 Schritte Formel zur optimalen Präsentation</li>
-<li>praxiserprobte Raum-für-Raum-Anleitung</li>
-<li>Einkaufsquellen der Profis</li>
-<li>Einführung in Immobilienfotografie und -vermarktung</li>
-<li>mehr als 20 Videolektionen geballtes Expertenwissen</li>
-<li>1 Jahr lang Rund-um-die-Uhr-Zugriff auf alle Inhalte</li>
-</ul>
-<p> </p>
-<p><strong>KURS: HOME STAGING PROFI</strong></p>
-<p>Geeignet für: Immobilienmakler, Home Staging im Nebenerwerb</p>
-<ul>
-<li>detailliertes Wissen zur Aufbereitung BEWOHNTER Immobilien</li>
-<li>Überlassung aller notwendigen Unterlagen, Checklisten</li>
-<li>A-Z Anleitung eines Staging Auftrags</li>
-<li>perfekter Branchen Einstieg ohne großen Kapital-/Zeiteinsatz</li>
-<li>mehr als 35 Videolektionen geballtes Expertenwissen</li>
-<li>1 Jahr lang Rund-um-die-Uhr-Zugriff auf alle Inhalte</li>
-</ul>
-<p> </p>
-<p><strong>KURS: HOME STAGING EXPERTE</strong></p>
-<p>Geeignet für: Home Staging Existenzgründer</p>
-<ul>
-<li>vollständiges Wissen zur Aufbereitung ALLER Immobilientypen</li>
-<li>Schritt-für-Schritt Anleitung zum Unternehmensaufbau</li>
-<li>Überlassung aller notwendigen Unterlagen, Checklisten</li>
-<li>über 50 Videolektionen geballtes Expertenwissen</li>
-<li>1 Jahr lang Rund-um-die-Uhr-Zugriff auf alle Inhalte</li>
-</ul>
-<p> </p>
-<p><strong>KURS: HOME STAGING INVESTOR</strong></p>
-<p>Geeignet für: Immobilien Investoren</p>
-<ul>
-<li>professionelle Home Staging Techniken</li>
-<li>8 Schritte Formel zur optimalen Präsentation</li>
-<li>praxiserprobte Raum-für-Raum-Anleitung</li>
-<li>Anleitung zur Immobilienaufbereitung</li>
-<li>A-Z Einblick in echte fix&amp;flip Projekte</li>
-<li>über 25 Videolektionen geballtes Expertenwissen</li>
-<li>1 Jahr lang Rund-um-die-Uhr-Zugriff auf alle Inhalte</li>
-</ul>
-<p> </p>
-<p><strong>KURS: HOME STAGING MASTER </strong></p>
-<p>Geeignet für: Home Staging Existenzgründer</p>
-<p>3 Tage Workshop – inkl. praktische Umsetzung eines Home Staging Projekt<br />        Wir arbeiten in kleinen Gruppen an:<br />        Konzeption und Planung Staging <br />        Praktische Umsetzung <br />        Lagerführung<br />        Social Media- und Marketing Strategien<br />        Akquise<br />        Tools &amp; Tipps im Staging Alltag<br />        <br />Voraussetzung für die Teilnahme am Workshop ist der erfolgreiche Abschluss der Online Ausbildung zum Home Staging EXPERTE. </p>
-<p>Achtung: Die Termine und Plätze des Workshop sind limitiert.  </p>
-<p>Kosten für An-Abreise, Übernachtung uns Abendessen werden von den Teilnehmern selbst übernommen.Es gelten immer die am Workshop-Termin geltenden Corona/Hygiene Vorschriften. </p>
-<p> </p>
+**Vendor's marketplace description:** Ideales Partnerprogramm für JEDEN aus der Immobilienbranche. Erhalte 20% Provision beim Verkauf von Home Staging Online Kursen. Die Staging Akademie ist Deutschlands erste Online Plattform für Home Staging Ausbildungen. Gegründet von Heike Uhlemann, in der Branche sehr bekannt. Informationen wie du unsere Kurse bewerben kannst, findest du auf unserer Affiliate-Supportseite. Unsere Kurse: KURS: HOME STAGING STARTER Geeignet für: Immobilienverkäufer, Home Staging Interessierte 8 Schritte Formel zur optimalen Präsentation praxiserprobte Raum-für-Raum-Anleitung Einkaufsquellen der Profis Einführung in Immobilienfotografie und -vermarktung mehr als 20 Videolektionen geballtes Expertenwissen 1 Jahr lang Rund-um-die-Uhr-Zugriff auf alle Inhalte KURS: HOME STAGING PROFI Geeignet für: Immobilienmakler, Home Staging im Nebenerwerb detailliertes Wissen zur Aufbereitung BEWOHNTER Immobilien Überlassung aller notwendigen Unterlagen, Checklisten A-Z Anleitung eines Staging Auftrags perfekter Branchen Einstieg ohne großen Kapital-/Zeiteinsatz mehr als 35 Videolektionen geballtes Expertenwissen 1 Jahr lang Rund-um-die-Uhr-Zugriff auf alle Inhalte KURS: HOME STAGING EXPERTE Geeignet für: Home Staging Existenzgründer vollständiges Wissen zur Aufbereitung ALLER Immobilientypen Schritt-für-Schritt Anleitung zum Unternehmensaufbau Überlassung aller notwendigen Unterlagen, Checklisten über 50 Videolektionen geballtes Expertenwissen 1 Jahr lang Rund-um-die-Uhr-Zugriff auf alle Inhalte KURS: HOME STAGING INVESTOR Geeignet für: Immobilien Investoren professionelle Home Staging Techniken 8 Schritte Formel zur optimalen Präsentation praxiserprobte Raum-für-Raum-Anleitung Anleitung zur Immobilienaufbereitung A-Z Einblick in echte fix&flip Projekte über 25 Videolektionen geballtes Expertenwissen 1 Jahr lang Rund-um-die-Uhr-Zugriff auf alle Inhalte KURS: HOME STAGING MASTER Geeignet für: Home Staging Existenzgründer 3 Tage Workshop – inkl. praktische Umsetzung eines Home Staging Projekt Wir arbeiten in kleinen Gruppen an: Konzeption und Planung Staging Praktische Umsetzung Lagerführung Social Media- und Marketing Strategien Akquise Tools & Tipps im Staging Alltag Voraussetzung für die Teilnahme am Workshop ist der erfolgreiche Abschluss der Online Ausbildung zum Home Staging EXPERTE. Achtung: Die Termine und Plätze des Workshop sind limitiert. Kosten für An-Abreise, Übernachtung uns Abendessen werden von den Teilnehmern selbst übernommen.Es gelten immer die am Workshop-Termin geltenden Corona/Hygiene Vorschriften.
 
 ## 2. Links
 

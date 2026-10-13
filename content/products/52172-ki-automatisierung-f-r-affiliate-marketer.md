@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Kostenloses KI-Freebie für Affiliates &amp; Online-Marketer – mit 50 % Provision</strong></p>
-<p>Der „KI-Umsetzungs-Blueprint“ ist ein praxisnaher 5-Tage-Plan als PDF – speziell für digitale Einsteiger, Affiliates &amp; Content Creator. Ideal für alle, die ihr Online-Business mit Künstlicher Intelligenz automatisieren wollen – ohne Technikfrust.</p>
-<p><strong>Was Affiliates erwartet:</strong></p>
-<ul>
-<li>
-<p>Perfekter Leadmagnet für Business-, KI- und Marketing-Zielgruppen</p>
-</li>
-<li>
-<p>100 % kostenloses Einstiegsprodukt – ideal für Ads, E-Mail-Listen &amp; Funnels</p>
-</li>
-<li>
-<p>Conversionstarke Landingpage mit professionellem Mockup</p>
-</li>
-<li>
-<p>50 % Provision auf Orderbump &amp; Upsell (automatisch eingebunden)</p>
-</li>
-<li>
-<p>Werbemittel inklusive (E-Mails, Headlines, Bilder, Copy)</p>
-</li>
-</ul>
-<p>➡️ Jetzt kostenlos bewerben &amp; mit KI-Marketing passiv mitverdienen!</p>
-<p>https://www.checkout-ds24.com/content/608613/51744/AFFILIATE/CAMPAIGNKEY</p>
+**Vendor's marketplace description:** Kostenloses KI-Freebie für Affiliates & Online-Marketer – mit 50 % Provision Der „KI-Umsetzungs-Blueprint“ ist ein praxisnaher 5-Tage-Plan als PDF – speziell für digitale Einsteiger, Affiliates & Content Creator. Ideal für alle, die ihr Online-Business mit Künstlicher Intelligenz automatisieren wollen – ohne Technikfrust. Was Affiliates erwartet: Perfekter Leadmagnet für Business-, KI- und Marketing-Zielgruppen 100 % kostenloses Einstiegsprodukt – ideal für Ads, E-Mail-Listen & Funnels Conversionstarke Landingpage mit professionellem Mockup 50 % Provision auf Orderbump & Upsell (automatisch eingebunden) Werbemittel inklusive (E-Mails, Headlines, Bilder, Copy) ➡️ Jetzt kostenlos bewerben & mit KI-Marketing passiv mitverdienen! https://www.checkout-ds24.com/content/608613/51744/AFFILIATE/CAMPAIGNKEY
 
 ## 2. Links
 

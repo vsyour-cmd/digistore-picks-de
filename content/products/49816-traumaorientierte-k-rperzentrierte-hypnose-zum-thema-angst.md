@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Eine wunderbare Traumaorientierte Körperzentrierte Hypnose für Dich zum Downloaden und praktischen Mitmachen.</p>
+**Vendor's marketplace description:** Eine wunderbare Traumaorientierte Körperzentrierte Hypnose für Dich zum Downloaden und praktischen Mitmachen.
 
 ## 2. Links
 

@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>★ Neu in der KI-Nische: Handbuch + Live-Grundkurs aus einer Hand ★</strong></p>
-<p>Bewirb zwei Produkte über eine Verkaufsseite: <strong>Das große KI-Handbuch – Die 4K-Methode</strong> (49,90 €) und den <strong>KI-Grundkurs für Anfänger</strong> (399 €).</p>
-<p><strong>Deine Provision:</strong><br />✔︎ KI-Handbuch: 50 % – ca. 23 € pro Verkauf<br />✔︎ KI-Grundkurs: 50 % – ca. 168 € pro Verkauf</p>
-<p><strong>Warum sich das Bewerben lohnt:</strong><br />✔︎ Starkes Kaufargument: Zum Handbuch gibt es 4 Stunden Live-Schulung gratis dazu (2 Termine à 2 Stunden)<br />✔︎ KI-Grundkurs: 7 Live-Termine à 2 Stunden, mit Teilnahmezertifikat und Buchbonus<br />✔︎ Verständlich für Einsteiger, Selbstständige und Berufstätige – mit der 4K-Methode als rotem Faden<br />✔︎ Partnerschaften werden automatisch angenommen – du kannst sofort starten<br />✔︎ Zuverlässige Zuordnung per Digistore24-Promocode auf der Verkaufsseite</p>
-<p><strong>So verlinkst du:</strong><br />https://kikompass.cloud/?aff=DEINE_DIGISTORE_ID</p>
-<p>Fragen oder Wünsche zu Werbemitteln? Schreib an lewentbindik@gmail.com</p>
+**Vendor's marketplace description:** ★ Neu in der KI-Nische: Handbuch + Live-Grundkurs aus einer Hand ★ Bewirb zwei Produkte über eine Verkaufsseite: Das große KI-Handbuch – Die 4K-Methode (49,90 €) und den KI-Grundkurs für Anfänger (399 €). Deine Provision: ✔︎ KI-Handbuch: 50 % – ca. 23 € pro Verkauf ✔︎ KI-Grundkurs: 50 % – ca. 168 € pro Verkauf Warum sich das Bewerben lohnt: ✔︎ Starkes Kaufargument: Zum Handbuch gibt es 4 Stunden Live-Schulung gratis dazu (2 Termine à 2 Stunden) ✔︎ KI-Grundkurs: 7 Live-Termine à 2 Stunden, mit Teilnahmezertifikat und Buchbonus ✔︎ Verständlich für Einsteiger, Selbstständige und Berufstätige – mit der 4K-Methode als rotem Faden ✔︎ Partnerschaften werden automatisch angenommen – du kannst sofort starten ✔︎ Zuverlässige Zuordnung per Digistore24-Promocode auf der Verkaufsseite So verlinkst du: https://kikompass.cloud/?aff=DEINE_DIGISTORE_ID Fragen oder Wünsche zu Werbemitteln? Schreib an lewentbindik@gmail.com
 
 ## 2. Links
 

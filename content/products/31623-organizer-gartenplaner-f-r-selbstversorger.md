@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Gartenplaner für Deine persönliche Selbstversorgung kommt mit einem 40-Seitigen E-Book mit zahlreichen Aufgaben, über 80 Arbeitsblätter, um den Überblick Im Garten zu behalten, plus einem To Do Listen Paket.<br /><br /></p>
-<p>Der Gartenplaner ist für Hobbygärtner, Familien und sogar für ganze Ökodörfer anwendbar. <br />Mit ihm errechnest Du Deinen jährlichen Bedarf und kannst Dich gezielt auf den Anbau von Obst, Gemüse, Nüsse, Getreidesorten und Ölsaaten konzentrieren.<br /><br /></p>
-<p>Alles in der Qualität der Biotopica Farm, dem deutschen Permakultur Hof für Hobbygärtner und Selbstversorger.</p>
+**Vendor's marketplace description:** Der Gartenplaner für Deine persönliche Selbstversorgung kommt mit einem 40-Seitigen E-Book mit zahlreichen Aufgaben, über 80 Arbeitsblätter, um den Überblick Im Garten zu behalten, plus einem To Do Listen Paket. Der Gartenplaner ist für Hobbygärtner, Familien und sogar für ganze Ökodörfer anwendbar. Mit ihm errechnest Du Deinen jährlichen Bedarf und kannst Dich gezielt auf den Anbau von Obst, Gemüse, Nüsse, Getreidesorten und Ölsaaten konzentrieren. Alles in der Qualität der Biotopica Farm, dem deutschen Permakultur Hof für Hobbygärtner und Selbstversorger.
 
 ## 2. Links
 

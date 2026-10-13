@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Empfehle mein eBuch "Heilfrequenzen - Einfache Methoden für ein angenehmeres Leben" und erhalte 50% Provision auf alle Up- &amp; Down-Sells.</strong></p>
-<p> </p>
-<p><strong>Auf der Partnerseite ist für dich alles vorbereitet. eMail Vorlagen, Social Media Texte, ...</strong></p>
-<p> </p>
-<p><strong>Heilfrequenzen - Einfache Methoden für ein angenehmeres Leben - 5 Vorteile:</strong></p>
-<p>- <strong>die wichtigsten Infos </strong>als Basics und zur Aufklärung</p>
-<p>- welche Möglichkeiten gibt es</p>
-<p>- eine <strong>Frequenz-Liste</strong> mit Anwendungs-Tipps</p>
-<p>- Infos über Musik, Quanten-Physik, Edelsteine, Symbol-Kräfte, Gerätschaften und eine Merkabah- Meditations-Anleitung</p>
-<p>- auch für <strong>Anfänger geeignet</strong></p>
-<p> </p>
-<p>Im Funnel sind <strong>weitere Provision</strong> für dich möglich</p>
-<p><a href="https://partnerprogramm.empfehlungsmeister.com" target="_blank" rel="noreferrer noopener">Zu den Werbemitteln &lt;&lt; klick</a></p>
+**Vendor's marketplace description:** Empfehle mein eBuch "Heilfrequenzen - Einfache Methoden für ein angenehmeres Leben" und erhalte 50% Provision auf alle Up- & Down-Sells. Auf der Partnerseite ist für dich alles vorbereitet. eMail Vorlagen, Social Media Texte, ... Heilfrequenzen - Einfache Methoden für ein angenehmeres Leben - 5 Vorteile: - die wichtigsten Infos als Basics und zur Aufklärung - welche Möglichkeiten gibt es - eine Frequenz-Liste mit Anwendungs-Tipps - Infos über Musik, Quanten-Physik, Edelsteine, Symbol-Kräfte, Gerätschaften und eine Merkabah- Meditations-Anleitung - auch für Anfänger geeignet Im Funnel sind weitere Provision für dich möglich Zu den Werbemitteln << klick
 
 ## 2. Links
 

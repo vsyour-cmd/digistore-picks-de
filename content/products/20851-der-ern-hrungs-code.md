@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Produkteigenschaften:</strong></h3>
-<ul>
-<li><strong>12-teiliger Kompakt-Video-Kurs</strong> (aufgeteilt in 4 umfassende Module) zur Wiederherstellung deines natürlichen Ernährungsinstinktes</li>
-<li>insgesamt mit allen Boni fast <strong>15 Stunden hochwertige Video-Inhalte</strong></li>
-<li><strong>Modul 1:</strong> Unsere moderne Ernährung und ihre Folgen</li>
-<li><strong>Modul 2:</strong> Mineralien - Bausteine des Lebens</li>
-<li><strong>Modul 3:</strong> Grundlagen einer artgerechten und natürlichen Ernährung</li>
-<li><strong>Modul 4:</strong> Dein Praxis-Einstieg in die natürliche Ernährung</li>
-<li>neuestes Insider-Wissen der Gesundheitsforschung zusammengefasst in einem praxiserprobten Programm mit klarer Schritt-für-Schritt-Anleitung</li>
-<li><strong>Bonus 1:</strong> Das 30-Tage-Stoffwechsel-Reset-Programm</li>
-<li><strong>Bonus 2:</strong> Online-Video-Seminar: Wasser - Spezial</li>
-<li><strong>Bonus 3:</strong> Diverse PDF-Skripte, Schaubilder und Infografiken</li>
-<li><strong> Bonus 4:</strong> Lebenslanger Zugriff auf alle Erweiterungen (PDFs, Video-Lektionen)</li>
-</ul>
-<h3><strong>Vorteile für dich als Anwender des Ernährungs-Codes:</strong></h3>
-<ul>
-<li>Erhöhung der allgemeinen Belastbarkeit (körperlich + psychisch)</li>
-<li>Verbesserung der Verdauung (d.h. weniger Sodbrennen, Blähungen, Unverträglichkeiten)</li>
-<li>Sinnvolle Stoffwechselumstellung mit dadurch verbundener Verbesserung des allg. Gesundheitszustandes</li>
-<li>Gesunder Gewichtsverlust bis hin zur individuellen Idealkörperform ohne Entbehrungen oder ständige Hungergefühle</li>
-<li>Mehr Klarheit im heutigen Dschungel der unzähligen Ernährungstrends und Diäten</li>
-<li>systematische und gezielte Wiederherstellung deines natürlichen Ernährungsinstinktes</li>
-</ul>
-<p><strong>FAZIT:</strong> Der Kurs vermittelt in einem klar strukturierten Aufbau neueste Erkenntnisse der Gesundheitsforschung, die jedem selbstverantwortlichen Menschen einfache Methoden und Strategien zur Verbesserung der eigenen Lebensqualität mit an die Hand geben. Dadurch werden erst die körperlichen Voraussetzungen geschafft für ein langes, gesundes und erfülltes Leben.</p>
+**Vendor's marketplace description:** Produkteigenschaften: 12-teiliger Kompakt-Video-Kurs (aufgeteilt in 4 umfassende Module) zur Wiederherstellung deines natürlichen Ernährungsinstinktes insgesamt mit allen Boni fast 15 Stunden hochwertige Video-Inhalte Modul 1: Unsere moderne Ernährung und ihre Folgen Modul 2: Mineralien - Bausteine des Lebens Modul 3: Grundlagen einer artgerechten und natürlichen Ernährung Modul 4: Dein Praxis-Einstieg in die natürliche Ernährung neuestes Insider-Wissen der Gesundheitsforschung zusammengefasst in einem praxiserprobten Programm mit klarer Schritt-für-Schritt-Anleitung Bonus 1: Das 30-Tage-Stoffwechsel-Reset-Programm Bonus 2: Online-Video-Seminar: Wasser - Spezial Bonus 3: Diverse PDF-Skripte, Schaubilder und Infografiken Bonus 4: Lebenslanger Zugriff auf alle Erweiterungen (PDFs, Video-Lektionen) Vorteile für dich als Anwender des Ernährungs-Codes: Erhöhung der allgemeinen Belastbarkeit (körperlich + psychisch) Verbesserung der Verdauung (d.h. weniger Sodbrennen, Blähungen, Unverträglichkeiten) Sinnvolle Stoffwechselumstellung mit dadurch verbundener Verbesserung des allg. Gesundheitszustandes Gesunder Gewichtsverlust bis hin zur individuellen Idealkörperform ohne Entbehrungen oder ständige Hungergefühle Mehr Klarheit im heutigen Dschungel der unzähligen Ernährungstrends und Diäten systematische und gezielte Wiederherstellung deines natürlichen Ernährungsinstinktes FAZIT: Der Kurs vermittelt in einem klar strukturierten Aufbau neueste Erkenntnisse der Gesundheitsforschung, die jedem selbstverantwortlichen Menschen einfache Methoden und Strategien zur Verbesserung der eigenen Lebensqualität mit an die Hand geben. Dadurch werden erst die körperlichen Voraussetzungen geschafft für ein langes, gesundes und erfülltes Leben.
 
 ## 2. Links
 

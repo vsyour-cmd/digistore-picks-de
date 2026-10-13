@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der fadenlauf Online Videokurs für Babybekleidung und -accessoires.</p>
-<p>Mit Kauf dieses Kurses erhältst du einen persönlichen Zugang zum Online-Videonähkurs und kannst dir alle Videos so oft und wann du möchtest anschauen.</p>
-<p>Der Kurs enthält:</p>
-<ul><li>insgesamt über 4 Stunden Video-Laufzeit</li>
-<li>11 Kapitel</li>
-<li>Theorieteil und 9 tolle Nähprojekte</li>
-<li>zeitlich unbegrenzter Zugang zum Videokurs</li>
-<li>Nähen lernen ohne örtliche und zeitliche Bindung</li>
-<li>Sofortiger Zugriff auf den Online-Kurs direkt nach dem Kauf</li>
-</ul>
+**Vendor's marketplace description:** Der fadenlauf Online Videokurs für Babybekleidung und -accessoires. Mit Kauf dieses Kurses erhältst du einen persönlichen Zugang zum Online-Videonähkurs und kannst dir alle Videos so oft und wann du möchtest anschauen. Der Kurs enthält: insgesamt über 4 Stunden Video-Laufzeit 11 Kapitel Theorieteil und 9 tolle Nähprojekte zeitlich unbegrenzter Zugang zum Videokurs Nähen lernen ohne örtliche und zeitliche Bindung Sofortiger Zugriff auf den Online-Kurs direkt nach dem Kauf
 
 ## 2. Links
 

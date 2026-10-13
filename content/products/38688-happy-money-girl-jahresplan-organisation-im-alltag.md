@@ -41,41 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Umgib dich mit Leuten, die dich inspirieren, die ehrlich zu dir sind, die dich in Krisenzeiten zum Durchhalten motivieren und dich bei deinen Zielen - besonders bei deinen finanziellen Zielen - unterstützen.</p>
-<p>Ich würde gerne dein Coach und Mentor sein.</p>
-<p> </p>
-<p>Jeden Tag begleite ich dich für mehr Erfolg im Alltag. Wähle den heutigen Tag und lies dir durch was du heute in Angriff nehmen könntest oder worüber du dir Gedanken machen kannst.</p>
-<ul>
-<li>Motivation</li>
-<li>Zeitmanagement</li>
-<li>Persönlichkeitsentwicklung</li>
-<li>Spass und Hobby</li>
-<li>Technologie und Social Media</li>
-<li>Zuhause</li>
-<li>Kleine Schritte - Grosse Wirkung</li>
-<li>Gedankenkraft - Glücklich sein</li>
-<li>Gesundheit und Fitness</li>
-<li>Geld und Finanzen</li>
-<li>Business / Selbständigkeit / Karriere</li>
-<li>Freundschaften / Familie</li>
-<li>Mahlzeiten</li>
-</ul>
-<div>
-<div>
-<div>
-<div>Du kannst sofort loslegen.</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>Wenn du mehr Zeit &amp; Lust hast, kommst du mehr rein, wenn es nicht passt, dann nicht, bis du wieder Motivation brauchst. Wir sind für dich da. Jederzeit.</div>
-</div>
-</div>
-</div>
-<div> </div>
-<div> </div>
+**Vendor's marketplace description:** Umgib dich mit Leuten, die dich inspirieren, die ehrlich zu dir sind, die dich in Krisenzeiten zum Durchhalten motivieren und dich bei deinen Zielen - besonders bei deinen finanziellen Zielen - unterstützen. Ich würde gerne dein Coach und Mentor sein. Jeden Tag begleite ich dich für mehr Erfolg im Alltag. Wähle den heutigen Tag und lies dir durch was du heute in Angriff nehmen könntest oder worüber du dir Gedanken machen kannst. Motivation Zeitmanagement Persönlichkeitsentwicklung Spass und Hobby Technologie und Social Media Zuhause Kleine Schritte - Grosse Wirkung Gedankenkraft - Glücklich sein Gesundheit und Fitness Geld und Finanzen Business / Selbständigkeit / Karriere Freundschaften / Familie Mahlzeiten Du kannst sofort loslegen. Wenn du mehr Zeit & Lust hast, kommst du mehr rein, wenn es nicht passt, dann nicht, bis du wieder Motivation brauchst. Wir sind für dich da. Jederzeit.
 
 ## 2. Links
 

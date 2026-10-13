@@ -41,34 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong><span style="color:#333333;"><span style="text-decoration:underline;"><span style="background-color:#ffff00;">55% Provision!</span></span> </span></strong></h3>
-<p> </p>
-<h4><strong>Bewirb jetzt das App Cash System und verdiene <span style="text-decoration:underline;">maximale</span> Provision!</strong></h4>
-<h4> </h4>
-<p><strong>- </strong>55% Provision auf das erste Produkt im Funnel (47€)</p>
-<p><strong>-</strong> Starker Upsell-Funnel mit bis zu <span style="text-decoration:underline;"><strong>300€ Provision</strong></span> pro Kunde!</p>
-<p><strong>-</strong> Never-ending-Email-Sequenz! Bei jedem Vekrauf bekommst du ebenfalls noch mehr Provision!</p>
-<p><strong>-</strong> Eines der profitablesten Partneprogramme auf Digistore! (Weit über 100,000€ an Affiliates ausbezahlt!)</p>
-<p> </p>
-<p><a href="https://www.digistore24.com/signup/456621,514056,499740,614532,449302,472968,362728,362484,422807,362735,362730,367002,498514,492133,460457,592764,590882,435384,437144,463226,445726,445725,445990,450717,442545,442898,442573,442546/" target="_blank" rel="noreferrer noopener"><span style="color:#3366ff;">--&gt; Jetzt für alle Produkte als Partner anmelden!</span></a></p>
-<p> </p>
-<p> </p>
-<hr />
-<h3> </h3>
-<h3><strong>Werbemittel</strong></h3>
-<p><span style="color:#3366ff;"><a style="color:#3366ff;" href="https://app-cash-system.de/affiliate-support/" target="_blank" rel="noreferrer noopener">-&gt; Zur Affiliate-Support-Seite (hier klicken)</a></span></p>
-<h3> </h3>
-<hr />
-<h3> </h3>
-<h3><strong><span style="color:#333333;">Dein Vorteile</span></strong></h3>
-<ul>
-<li><span style="color:#333333;">Neuartiger, einzigartiger Approach (hohe Conversion)</span></li>
-<li><span style="color:#333333;">Erstellt von erfahrenen Super-Affiliates - für Affiliates</span></li>
-<li>Perfmanente Splittests für max. Conversion</li>
-<li>Profi-Support für Affiliates</li>
-</ul>
-<p> </p>
-<p><span style="color:#333333;">Kontakt bei Fragen: info@coaching.business-kickstart.de</span></p>
+**Vendor's marketplace description:** 55% Provision! Bewirb jetzt das App Cash System und verdiene maximale Provision! - 55% Provision auf das erste Produkt im Funnel (47€) - Starker Upsell-Funnel mit bis zu 300€ Provision pro Kunde! - Never-ending-Email-Sequenz! Bei jedem Vekrauf bekommst du ebenfalls noch mehr Provision! - Eines der profitablesten Partneprogramme auf Digistore! (Weit über 100,000€ an Affiliates ausbezahlt!) --> Jetzt für alle Produkte als Partner anmelden! Werbemittel -> Zur Affiliate-Support-Seite (hier klicken) Dein Vorteile Neuartiger, einzigartiger Approach (hohe Conversion) Erstellt von erfahrenen Super-Affiliates - für Affiliates Perfmanente Splittests für max. Conversion Profi-Support für Affiliates Kontakt bei Fragen: info@coaching.business-kickstart.de
 
 ## 2. Links
 

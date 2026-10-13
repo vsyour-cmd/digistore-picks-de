@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die letzten 10% zum Job erfolgreich meistern.</p>
-<p>Tipps, Do´s und Dont`s. Wie es die Profis machen.  </p>
-<p>Modulinhalte:</p>
-<p>- Ihre Show</p>
-<p>- Benimm</p>
-<p>- Gesprächsverlauf</p>
-<p>- Quittung  </p>
-<p>Wir wissen wie Personalverantwortliche agieren und entscheiden  - davon profitieren Sie.  </p>
-<p>In diesem Webinar bekommen Sie WISSEN und erlangen KÖNNEN um sich professionell, zeitgemäß und erfolgreich zu bewerben.  </p>
-<p>Sie erfahren:                </p>
-<p>Wie Personaler bewerten und entscheiden                </p>
-<p>Wie eine zeitgemäße Bewerbung aussieht                </p>
-<p>Was im Anschreiben und Lebenslauf aktuell nützlich und wichtig ist                </p>
-<p>Wie Sie Ihre BeWERBUNG vom Zufall erlösen   Bewerbung ist Werbung, und ist heute Zukunftssicherung eines jeden Arbeitssuchenden, und darf keinesfalls dem Zufall überlassen werden.  </p>
-<p>Professionell und überzeugend bewerben - darüber reden wir hier und davon profitieren Sie.</p>
+**Vendor's marketplace description:** Die letzten 10% zum Job erfolgreich meistern. Tipps, Do´s und Dont`s. Wie es die Profis machen. Modulinhalte: - Ihre Show - Benimm - Gesprächsverlauf - Quittung Wir wissen wie Personalverantwortliche agieren und entscheiden - davon profitieren Sie. In diesem Webinar bekommen Sie WISSEN und erlangen KÖNNEN um sich professionell, zeitgemäß und erfolgreich zu bewerben. Sie erfahren: Wie Personaler bewerten und entscheiden Wie eine zeitgemäße Bewerbung aussieht Was im Anschreiben und Lebenslauf aktuell nützlich und wichtig ist Wie Sie Ihre BeWERBUNG vom Zufall erlösen Bewerbung ist Werbung, und ist heute Zukunftssicherung eines jeden Arbeitssuchenden, und darf keinesfalls dem Zufall überlassen werden. Professionell und überzeugend bewerben - darüber reden wir hier und davon profitieren Sie.
 
 ## 2. Links
 

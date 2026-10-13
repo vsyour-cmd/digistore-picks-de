@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der CalisReneX Anfänger-Guide richtet sich an Einsteiger, die strukturiert mit Calisthenics starten möchten. Enthalten sind Grundlagen, Trainingssystem, Progressionen, Skills, Ernährung und Wissen für messbare Fortschritte. Ideal für Fitness-, Calisthenics- und Bodyweight-Content. Affiliate-Provision: 40 %.</p>
+**Vendor's marketplace description:** Der CalisReneX Anfänger-Guide richtet sich an Einsteiger, die strukturiert mit Calisthenics starten möchten. Enthalten sind Grundlagen, Trainingssystem, Progressionen, Skills, Ernährung und Wissen für messbare Fortschritte. Ideal für Fitness-, Calisthenics- und Bodyweight-Content. Affiliate-Provision: 40 %.
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><strong><span style="color:#3366ff;">„CAPITOL POST“</span></strong></p>
-<p style="text-align:center;">Hinter den Kulissen der Mächtigen – DER Enthüllungsdienst!</p>
-<p style="text-align:center;"><span style="background-color:#ffff00;">Jetzt <span style="text-decoration:underline;"><strong>90% Provision</strong></span> sichern – NUR für unsere ersten <strong>Affiliate-Partner</strong>! </span></p>
-<p>Die „CAPOTIL POST“ ist Deutschlands mutigster Enthüllungsbrief. Exklusiv von den Machern von WATERGATE.TV! Über 20.000 Menschen lesen, kommentieren und teilen jeden Tag unsere Inhalte – und SIE können ab jetzt davon profitieren und dabei die Pressefreiheit schützen!</p>
-<p>Die „CAPITOL POST“ enthält <strong>in jeder Ausgabe die Wahrheit</strong>, die vor uns GEHEIM gehalten werden soll.</p>
-<p><strong>Wir bieten Ihnen: </strong></p>
-<ul><li>100% werblich getestete Landing-Pages!</li>
-<li>Responsive Design!</li>
-<li><span style="background-color:#ffff00;color:#3366ff;"><strong>... und natürlich 90% Provision!</strong></span></li>
-</ul>
+**Vendor's marketplace description:** „CAPITOL POST“ Hinter den Kulissen der Mächtigen – DER Enthüllungsdienst! Jetzt 90% Provision sichern – NUR für unsere ersten Affiliate-Partner ! Die „CAPOTIL POST“ ist Deutschlands mutigster Enthüllungsbrief. Exklusiv von den Machern von WATERGATE.TV! Über 20.000 Menschen lesen, kommentieren und teilen jeden Tag unsere Inhalte – und SIE können ab jetzt davon profitieren und dabei die Pressefreiheit schützen! Die „CAPITOL POST“ enthält in jeder Ausgabe die Wahrheit , die vor uns GEHEIM gehalten werden soll. Wir bieten Ihnen: 100% werblich getestete Landing-Pages! Responsive Design! ... und natürlich 90% Provision!
 
 ## 2. Links
 

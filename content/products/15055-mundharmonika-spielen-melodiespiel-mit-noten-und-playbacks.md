@@ -41,42 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ich habe einen Onlinekurs für die Mundharmonikas Melodystar von Hohner und chromatische Mundharmonika in C erstellt.</p>
-<p>Diesen Onlinekurs habe <strong>über 15 Jahre lang</strong> mit meinen Schülern entwickelt und sie sind begeistert.</p>
-<p>Dieser Onlinekurs ist geeignet für alle, die gerne <strong>Melodien</strong> auf der <strong>Mundharmonika spielen</strong> wollen.</p>
-<p>In meinem Mundharmonikakurs habe ich im Grunde genommen <strong>mehrere Kurse</strong> für folgende Mundharmonikas erarbeitet:</p>
-<p>a) Melodystar von Hohner</p>
-<p>b) chromatische Mundharmonika (bis 48 Töne) in C-Dur</p>
-<p>c) 4-Loch Mundharmonika</p>
-<p>d) Big Six von Seydel in Folklorestimmung</p>
-<p>e) Alle Mundharmonikas in Solostimmung</p>
-<p> </p>
-<p>Dieser Onlinekurs beinhaltet <strong>mehrere Hundert Lieder mit Noten und Zahlen</strong> (ideal auch für Anfänger), <strong>über 5000 Videoplaybacks</strong> und <strong>Videoanleitungen</strong>.</p>
-<p> </p>
-<p>Dieser Mundharmonikakurs ist sehr umfassend und jeder kann von Beginn an (ohne Notenkenntnisse) Mundharmonika spielen.</p>
-<p>Alter: Ab 6 - 100 Jahre!</p>
-<p> </p>
-<p>Als Lehrer für Musik und Deutsch habe ich diesen Mundharmonikakurs aus der Praxis herus für meine Schüler im Rahmen des Klassenmusizierens entwickelt. So ist das hier ein praxisnaher Mundharmonikakurs und was die Teilnehmer schätzen, ist, dass ich auch zusätzlich Videoanleitungen für die Lieder etc. mache und dass ich diesen Mundharmonikakurs ständig weiter entwickle.<br />Meine Schüler spielen bereits nach 4 Wochen Hallelujah und sind begeistert.</p>
-<p> </p>
-<p>Dieser Mundharmonikakurs ist auch für <strong>Musikhäuser</strong>, <strong>Onlineshops</strong> (Musik) usw. geeignet, die mehr Mundharmonikas verkaufen wollen und die an der Vermittlung dieses Mundharmonikakurses monatlich Geld verdienen wollen.</p>
-<p>Dieser Mundharmonikakurs ist auch geeignet für jeden, der <strong>Mundharmonikaunterricht</strong> anbieten will und der gleichzeitig diesen Mundharmonikakurs vermittelt, und dabei regelmäßig Geld verdienen will.</p>
-<p> </p>
-<p>Mundharmonikaspielen macht Spaß und ist ganz einfach.</p>
-<p>Vor allem die <strong>Videoplaybacks</strong> und die regelmäßigen <strong>Webinare</strong> sind nahezu eine Garantie dafür, dass jeder lange gerne mit meinem Mundharmonikakurs Mundharmonika spielt.</p>
-<p>Ich zeige auch dabei neben der entsprechenden <strong>Atemtechnik</strong>, <strong>Haltung</strong> usw auch, wie man <strong>Lieder</strong> interessant <strong>interpretiert</strong>, wie man auswendig spielen kann (trainiert das Gehirn) und wie man im <strong>Flow</strong> sielt.</p>
-<p> </p>
-<p>Daher ist dieser Mundharmonikakurs auch für alle, die sich entschleunigen wollen, die Flow erlernen wollen und auch für Leute, die Burnout-Probleme haben.</p>
-<p>Schon ab 10 Minuten täglich hat man in kurzer Zeit schon richtige Erfolge und kann vorspielen.</p>
-<p>Überraschen Sie Ihre Freunde und Bekannte beim nächsten Treffen mit schönen Liedern und zur Weihnachtszeit spielen Sie auf einmal Mundharmonika vor.</p>
-<p>Dieser Onlinekurs darf für alle Famlienmitglieder verwendet werden. Jede Familie zahlt also nur einen Zugang.</p>
-<p>Dieser Mundharmonikakurs ist auf auf monatlicher Basis oder jährlicher Basis.</p>
-<p>Dies bedeutet: Es gibt für jeden, der diesen Mundharmonikakurs weiterempfiehlt, regelmäßig Provisionen.</p>
-<p>Ich entwickle diesen Mundharmonikkurs ständig weiter.</p>
-<p> </p>
-<p>Viel Spaß beim Mundharmonikaspielen und beim Empfehlen!</p>
-<p> </p>
-<p><strong>Marketing:</strong><br />Für Affiliates biete ich an, dass wir zusammen für Ihre Kontakte ein Webinar (oder mehrere) machen, damit sie sich in diesen Mundharmonikakurs über Ihren Affiliatelink eintragen.</p>
-<p>Da dieser Mundharmonikakurs sehr umfassend ist und ständig weiterentwickelt wird und da ich durch meine Live-Webinare eine gute Kundenbindung aufbauen möchte, können Affiliates durch die Vermittlung meiner Onlinekurse durch monatliche oder jährliche Beiträge lange für sich finanziell profitieren.</p>
+**Vendor's marketplace description:** Ich habe einen Onlinekurs für die Mundharmonikas Melodystar von Hohner und chromatische Mundharmonika in C erstellt. Diesen Onlinekurs habe über 15 Jahre lang mit meinen Schülern entwickelt und sie sind begeistert. Dieser Onlinekurs ist geeignet für alle, die gerne Melodien auf der Mundharmonika spielen wollen. In meinem Mundharmonikakurs habe ich im Grunde genommen mehrere Kurse für folgende Mundharmonikas erarbeitet: a) Melodystar von Hohner b) chromatische Mundharmonika (bis 48 Töne) in C-Dur c) 4-Loch Mundharmonika d) Big Six von Seydel in Folklorestimmung e) Alle Mundharmonikas in Solostimmung Dieser Onlinekurs beinhaltet mehrere Hundert Lieder mit Noten und Zahlen (ideal auch für Anfänger), über 5000 Videoplaybacks und Videoanleitungen . Dieser Mundharmonikakurs ist sehr umfassend und jeder kann von Beginn an (ohne Notenkenntnisse) Mundharmonika spielen. Alter: Ab 6 - 100 Jahre! Als Lehrer für Musik und Deutsch habe ich diesen Mundharmonikakurs aus der Praxis herus für meine Schüler im Rahmen des Klassenmusizierens entwickelt. So ist das hier ein praxisnaher Mundharmonikakurs und was die Teilnehmer schätzen, ist, dass ich auch zusätzlich Videoanleitungen für die Lieder etc. mache und dass ich diesen Mundharmonikakurs ständig weiter entwickle. Meine Schüler spielen bereits nach 4 Wochen Hallelujah und sind begeistert. Dieser Mundharmonikakurs ist auch für Musikhäuser , Onlineshops (Musik) usw. geeignet, die mehr Mundharmonikas verkaufen wollen und die an der Vermittlung dieses Mundharmonikakurses monatlich Geld verdienen wollen. Dieser Mundharmonikakurs ist auch geeignet für jeden, der Mundharmonikaunterricht anbieten will und der gleichzeitig diesen Mundharmonikakurs vermittelt, und dabei regelmäßig Geld verdienen will. Mundharmonikaspielen macht Spaß und ist ganz einfach. Vor allem die Videoplaybacks und die regelmäßigen Webinare sind nahezu eine Garantie dafür, dass jeder lange gerne mit meinem Mundharmonikakurs Mundharmonika spielt. Ich zeige auch dabei neben der entsprechenden Atemtechnik , Haltung usw auch, wie man Lieder interessant interpretiert , wie man auswendig spielen kann (trainiert das Gehirn) und wie man im Flow sielt. Daher ist dieser Mundharmonikakurs auch für alle, die sich entschleunigen wollen, die Flow erlernen wollen und auch für Leute, die Burnout-Probleme haben. Schon ab 10 Minuten täglich hat man in kurzer Zeit schon richtige Erfolge und kann vorspielen. Überraschen Sie Ihre Freunde und Bekannte beim nächsten Treffen mit schönen Liedern und zur Weihnachtszeit spielen Sie auf einmal Mundharmonika vor. Dieser Onlinekurs darf für alle Famlienmitglieder verwendet werden. Jede Familie zahlt also nur einen Zugang. Dieser Mundharmonikakurs ist auf auf monatlicher Basis oder jährlicher Basis. Dies bedeutet: Es gibt für jeden, der diesen Mundharmonikakurs weiterempfiehlt, regelmäßig Provisionen. Ich entwickle diesen Mundharmonikkurs ständig weiter. Viel Spaß beim Mundharmonikaspielen und beim Empfehlen! Marketing: Für Affiliates biete ich an, dass wir zusammen für Ihre Kontakte ein Webinar (oder mehrere) machen, damit sie sich in diesen Mundharmonikakurs über Ihren Affiliatelink eintragen. Da dieser Mundharmonikakurs sehr umfassend ist und ständig weiterentwickelt wird und da ich durch meine Live-Webinare eine gute Kundenbindung aufbauen möchte, können Affiliates durch die Vermittlung meiner Onlinekurse durch monatliche oder jährliche Beiträge lange für sich finanziell profitieren.
 
 ## 2. Links
 

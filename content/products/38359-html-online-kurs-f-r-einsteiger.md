@@ -41,37 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>HTML Online-Kurs für Einsteiger</h1>
-<div>Du suchst nach einem aktuellen &amp; kompletten Onlinekurs über HTML Grundlagen und CSS Styling? 
-<div> </div>
-<div>Dann starte jetzt durch und lerne wie du im Internet einfach und im Handumdrehen eine moderne HTML5 Webseite mit aktuellem CSS3 und HTML erstellen kannst. </div>
-<div>Hier erfährst du wirklich <strong>alles</strong>, was wichtig ist für die Programmierung einer Webseite.</div>
-<div> </div>
-<div>
-<h2>Was lernst Du?</h2>
-<ul>
-<li>Aufbau von HTML von Beginn an verstehen</li>
-<li>
-<div>Grundkenntnisse in HTML und CSS</div>
-<div> </div>
-</li>
-<li>
-<div>Eigene Webseiten erstellen, gestalten und formatieren.</div>
-<div> </div>
-</li>
-<li>
-<div>Verstehen, wie jede Webseite aufgebaut ist und was der Browser macht</div>
-<div> </div>
-</li>
-<li>
-<div>Das Erstellen einer einfachen Seitenvorlage mit HTML und CSS</div>
-<div> </div>
-<div> </div>
-</li>
-</ul>
-<p><strong>Das kannst du nach dem Kurs</strong><br />- Die Sprachen HTML und CSS<br />- Eigenständige HTML Seiten bauen<br />- Verständnis für weiterführende Kurse entwickeln<br />- Lernziele kontrollieren</p>
-</div>
-</div>
+**Vendor's marketplace description:** HTML Online-Kurs für Einsteiger Du suchst nach einem aktuellen & kompletten Onlinekurs über HTML Grundlagen und CSS Styling? Dann starte jetzt durch und lerne wie du im Internet einfach und im Handumdrehen eine moderne HTML5 Webseite mit aktuellem CSS3 und HTML erstellen kannst. Hier erfährst du wirklich alles , was wichtig ist für die Programmierung einer Webseite. Was lernst Du? Aufbau von HTML von Beginn an verstehen Grundkenntnisse in HTML und CSS Eigene Webseiten erstellen, gestalten und formatieren. Verstehen, wie jede Webseite aufgebaut ist und was der Browser macht Das Erstellen einer einfachen Seitenvorlage mit HTML und CSS Das kannst du nach dem Kurs - Die Sprachen HTML und CSS - Eigenständige HTML Seiten bauen - Verständnis für weiterführende Kurse entwickeln - Lernziele kontrollieren
 
 ## 2. Links
 

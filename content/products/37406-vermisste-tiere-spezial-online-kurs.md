@@ -41,43 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h2>ONLINE: Vermisste Tiere</h2>
-</div>
-<div>Was kannst du als Tierbesitzer und/oder Tierkommunikator/in jetzt tun?</div>
-<div>
-<h4><strong>Es gibt nichts Schlimmeres als, wenn unser Hund ausbüxt oder unsere Katze nicht mehr nach Hause kommt.</strong></h4>
-<h4>Was du als Tierkommunikator/in tun kannst und was jetzt vor allem jetzt für den Tierhalter wichtig ist?</h4>
-<p>In diesem Spezial Kurs für vermisste Tiere kannst du dein Wissen weiter vertiefen.</p>
-<p>Du wirst in diesem intensiven Kurs weitere spezielle Fähigkeiten im Umgang mit vermissten Tieren erwerben, zum Beispiel: </p>
-<ul>
-<li>Besonderheiten bei der Kommunikation mit vermissten Tieren </li>
-<li>Welche ersten Schritte können / sollten unternommen werden</li>
-<li>Was kann der Tierhalter selber tun</li>
-<li>Die richtigen Fragestellungen</li>
-<li>1. Hilfe Tipps für dich als Kommunikator/in und den Halter</li>
-<li>Anwendung und Suche mit dem Pendel</li>
-<li>die vielseitige Einsatzmöglichkeit des Tensors, wie wende ich ihn richtig an</li>
-<li>Möglichkeiten und Grenzen der Kommunikation mit vermissten Tieren</li>
-<li>die 21 Tages Regelung</li>
-<li>Der richtige Umgang mit den Tierhaltern</li>
-<li>hilfreiche Tipps</li>
-<li>erkennen wie wichtig jetzt positive Glaubenssätze sind</li>
-<li>Checkliste</li>
-<li>die Kraft von Heilgebeten</li>
-<li>unterstützende Maßnahmen aus dem energetischen Bereich</li>
-<li>Teilnehmerzertifikat</li>
-</ul>
-<p><br /> </p>
-<p>Die Tierkommunikation mit vermissten Tieren ist für Mensch und Tier eine Ausnahmesituation und sehr schwierig.<br /> Hier kann die Tierkommunikation unterstützend und hilfreich sein.<br /><br /> ABER, es ist auch sehr wichtig über die Grenzen bei verschwundenen Tieren aufzuklären.<br /> In dem Seminar vermisste Tiere wird aufgezeigt, wie wir Mensch und Tier bestmöglich begleiten können.</p>
-<p> </p>
-<p>Voraussetzung für die Seminarteilname ist:</p>
-<ul>
-<li>Du hast bereits ein Basisseminar Tierkommunikation besucht (bei mir oder einer meiner Kolleginnen)</li>
-<li>Ideal aber kein muss, du hast das Seminar Messen mit der Einhandrute / 2 Tage oder das Spezial Seminar für Tiere / 1 Tag, bei mir besucht oder kannst es auch Wunsch nachträglich in der Online Tierakademie absolvieren.</li>
-</ul>
-<p> </p>
-</div>
+**Vendor's marketplace description:** ONLINE: Vermisste Tiere Was kannst du als Tierbesitzer und/oder Tierkommunikator/in jetzt tun? Es gibt nichts Schlimmeres als, wenn unser Hund ausbüxt oder unsere Katze nicht mehr nach Hause kommt. Was du als Tierkommunikator/in tun kannst und was jetzt vor allem jetzt für den Tierhalter wichtig ist? In diesem Spezial Kurs für vermisste Tiere kannst du dein Wissen weiter vertiefen. Du wirst in diesem intensiven Kurs weitere spezielle Fähigkeiten im Umgang mit vermissten Tieren erwerben, zum Beispiel: Besonderheiten bei der Kommunikation mit vermissten Tieren Welche ersten Schritte können / sollten unternommen werden Was kann der Tierhalter selber tun Die richtigen Fragestellungen 1. Hilfe Tipps für dich als Kommunikator/in und den Halter Anwendung und Suche mit dem Pendel die vielseitige Einsatzmöglichkeit des Tensors, wie wende ich ihn richtig an Möglichkeiten und Grenzen der Kommunikation mit vermissten Tieren die 21 Tages Regelung Der richtige Umgang mit den Tierhaltern hilfreiche Tipps erkennen wie wichtig jetzt positive Glaubenssätze sind Checkliste die Kraft von Heilgebeten unterstützende Maßnahmen aus dem energetischen Bereich Teilnehmerzertifikat Die Tierkommunikation mit vermissten Tieren ist für Mensch und Tier eine Ausnahmesituation und sehr schwierig. Hier kann die Tierkommunikation unterstützend und hilfreich sein. ABER, es ist auch sehr wichtig über die Grenzen bei verschwundenen Tieren aufzuklären. In dem Seminar vermisste Tiere wird aufgezeigt, wie wir Mensch und Tier bestmöglich begleiten können. Voraussetzung für die Seminarteilname ist: Du hast bereits ein Basisseminar Tierkommunikation besucht (bei mir oder einer meiner Kolleginnen) Ideal aber kein muss, du hast das Seminar Messen mit der Einhandrute / 2 Tage oder das Spezial Seminar für Tiere / 1 Tag, bei mir besucht oder kannst es auch Wunsch nachträglich in der Online Tierakademie absolvieren.
 
 ## 2. Links
 

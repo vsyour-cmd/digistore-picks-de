@@ -41,68 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die <strong>Party DJ Setbook Business PRO-Lizenz (B2B)</strong> richtet sich an <strong>Unternehmen, DJ-Agenturen, Veranstalter, Hotels, Clubs, Verleiher und Organisationen</strong>, die ihren DJs einen einheitlichen Qualitätsstandard für professionelle DJ-Sets zur Verfügung stellen möchten.</p>
-<p>Die <strong>Business PRO-Lizenz</strong> ermöglicht die gleichzeitige Nutzung durch <strong>bis zu 8 aktive Nutzer (Seats)</strong> innerhalb eines Unternehmens.</p>
-<p>Das Party DJ Setbook ist <strong>keine Playlist</strong>, <strong>keine DJ-Software</strong> und <strong>kein Autopilot</strong>.</p>
-<p>Es ist ein <strong>DJ-Navigationssystem</strong>, das bewährte Entscheidungswege statt einzelner Songvorschläge zeigt. Anstatt ständig zu überlegen <em>„Was spielen wir als Nächstes?“</em>, arbeiten alle eingesetzten DJs mit derselben klaren Struktur und einem gemeinsamen Qualitätsstandard.</p>
-<h2> </h2>
-<h2><strong>Das Alleinstellungsmerkmal</strong></h2>
-<p>Im Gegensatz zu zahlreichen Songlisten und Playlist-Sammlungen, die lediglich Musiktitel auflisten, basiert das Party DJ Setbook auf einem durchgängigen Navigationssystem aus:</p>
-<ul>
-<li>bewährten 3er- und 5er-Setstrukturen</li>
-<li>einer strukturierten BPM-Navigation für stimmige Energieverläufe</li>
-<li>einer Camelot-Key-Struktur für harmonische Übergänge</li>
-</ul>
-<p>Dadurch entstehen nicht nur Songlisten, sondern nachvollziehbare Entscheidungswege, mit denen DJs schneller passende und professionell aufgebaute DJ-Sets zusammenstellen können.</p>
-<h2> </h2>
-<h2><strong>Enthalten sind</strong></h2>
-<ul>
-<li>605 praxiserprobte DJ-Sets</li>
-<li>über 2.400 Partyhits aus 70 Jahren Musikgeschichte</li>
-<li>5 Hauptgenres (Pop, Rock, EDM, Urban, German)</li>
-<li>über 40 Subgenres</li>
-<li>bewährte 3er- und 5er-Setstrukturen</li>
-<li>BPM- und Camelot-Key-Navigation</li>
-<li>digitales PDF</li>
-<li>Sofort-Download</li>
-<li>Business PRO-Lizenz für bis zu 8 aktive Nutzer (Seats)</li>
-<li>personalisierte Unternehmenslizenz</li>
-</ul>
-<h2> </h2>
-<h2><strong>Wichtiger Hinweis</strong></h2>
-<p>Das Party DJ Setbook enthält keine Audiodateien, keine Musikdownloads, keine MP3-Dateien, keine Streaming-Playlists und keinen Zugriff auf Musikstreaming-Dienste.</p>
-<p>Es handelt sich ausschließlich um ein strukturiertes DJ-Navigationssystem mit Songtiteln, BPM-, Camelot-Key- und Setstrukturen. Die aufgeführten Musiktitel müssen vom Lizenznehmer bzw. den eingesetzten DJs eigenständig und rechtmäßig erworben oder bereits in der eigenen Musikbibliothek vorhanden sein.</p>
-<h2> </h2>
-<h2><strong>Lizenzmodell</strong></h2>
-<ul>
-<li>Business PRO-Lizenz für bis zu 8 aktive Nutzer (Seats)</li>
-<li>Personalisierte Unternehmenslizenz</li>
-<li>Laufzeit: 1 Jahr ab Kaufdatum</li>
-<li>Keine automatische Vertragsverlängerung</li>
-<li>Nach Ablauf der Lizenzlaufzeit endet das Nutzungsrecht automatisch.</li>
-<li>Für die weitere Nutzung ist der Erwerb einer neuen Jahreslizenz erforderlich.</li>
-<li>Keine automatischen Abbuchungen</li>
-<li>Keine versteckten Folgekosten</li>
-</ul>
-<h2> </h2>
-<h2><strong>Geeignet für</strong></h2>
-<ul>
-<li>DJ-Agenturen</li>
-<li>Veranstaltungsunternehmen</li>
-<li>Eventagenturen</li>
-<li>Hotels</li>
-<li>Clubs &amp; Diskotheken</li>
-<li>Verleiher</li>
-<li>Kreuzfahrtreedereien</li>
-<li>Freizeitparks</li>
-<li>Unternehmen mit bis zu 8 gleichzeitig aktiven DJs</li>
-</ul>
-<h2> </h2>
-<h2><strong>Nicht geeignet für</strong></h2>
-<p>Diese Lizenz ist ausschließlich für Unternehmen mit bis zu 8 aktiven Nutzern (Seats) vorgesehen. Unternehmen mit größerem DJ-Team sollten die Business ENTERPRISE-Lizenz (ab 9 aktiven Nutzern) wählen. Unternehmen mit bis zu 3 aktiven Nutzern können alternativ die Business BASIC-Lizenz wählen.</p>
-<h2> </h2>
-<h2><strong>Hinweis für Affiliates</strong></h2>
-<p>Die Business PRO-Lizenz ist bewusst <strong>nicht als automatisch verlängerndes Abonnement</strong> konzipiert. Nach Ablauf der einjährigen Lizenzlaufzeit endet das Nutzungsrecht automatisch. Möchte der Lizenzinhaber das Party DJ Setbook weiterhin nutzen, ist der Erwerb einer neuen Jahreslizenz erforderlich. Dadurch entstehen keine ungewollten Vertragsverlängerungen oder automatischen Abbuchungen.</p>
+**Vendor's marketplace description:** Die Party DJ Setbook Business PRO-Lizenz (B2B) richtet sich an Unternehmen, DJ-Agenturen, Veranstalter, Hotels, Clubs, Verleiher und Organisationen , die ihren DJs einen einheitlichen Qualitätsstandard für professionelle DJ-Sets zur Verfügung stellen möchten. Die Business PRO-Lizenz ermöglicht die gleichzeitige Nutzung durch bis zu 8 aktive Nutzer (Seats) innerhalb eines Unternehmens. Das Party DJ Setbook ist keine Playlist , keine DJ-Software und kein Autopilot . Es ist ein DJ-Navigationssystem , das bewährte Entscheidungswege statt einzelner Songvorschläge zeigt. Anstatt ständig zu überlegen „Was spielen wir als Nächstes?“ , arbeiten alle eingesetzten DJs mit derselben klaren Struktur und einem gemeinsamen Qualitätsstandard. Das Alleinstellungsmerkmal Im Gegensatz zu zahlreichen Songlisten und Playlist-Sammlungen, die lediglich Musiktitel auflisten, basiert das Party DJ Setbook auf einem durchgängigen Navigationssystem aus: bewährten 3er- und 5er-Setstrukturen einer strukturierten BPM-Navigation für stimmige Energieverläufe einer Camelot-Key-Struktur für harmonische Übergänge Dadurch entstehen nicht nur Songlisten, sondern nachvollziehbare Entscheidungswege, mit denen DJs schneller passende und professionell aufgebaute DJ-Sets zusammenstellen können. Enthalten sind 605 praxiserprobte DJ-Sets über 2.400 Partyhits aus 70 Jahren Musikgeschichte 5 Hauptgenres (Pop, Rock, EDM, Urban, German) über 40 Subgenres bewährte 3er- und 5er-Setstrukturen BPM- und Camelot-Key-Navigation digitales PDF Sofort-Download Business PRO-Lizenz für bis zu 8 aktive Nutzer (Seats) personalisierte Unternehmenslizenz Wichtiger Hinweis Das Party DJ Setbook enthält keine Audiodateien, keine Musikdownloads, keine MP3-Dateien, keine Streaming-Playlists und keinen Zugriff auf Musikstreaming-Dienste. Es handelt sich ausschließlich um ein strukturiertes DJ-Navigationssystem mit Songtiteln, BPM-, Camelot-Key- und Setstrukturen. Die aufgeführten Musiktitel müssen vom Lizenznehmer bzw. den eingesetzten DJs eigenständig und rechtmäßig erworben oder bereits in der eigenen Musikbibliothek vorhanden sein. Lizenzmodell Business PRO-Lizenz für bis zu 8 aktive Nutzer (Seats) Personalisierte Unternehmenslizenz Laufzeit: 1 Jahr ab Kaufdatum Keine automatische Vertragsverlängerung Nach Ablauf der Lizenzlaufzeit endet das Nutzungsrecht automatisch. Für die weitere Nutzung ist der Erwerb einer neuen Jahreslizenz erforderlich. Keine automatischen Abbuchungen Keine versteckten Folgekosten Geeignet für DJ-Agenturen Veranstaltungsunternehmen Eventagenturen Hotels Clubs & Diskotheken Verleiher Kreuzfahrtreedereien Freizeitparks Unternehmen mit bis zu 8 gleichzeitig aktiven DJs Nicht geeignet für Diese Lizenz ist ausschließlich für Unternehmen mit bis zu 8 aktiven Nutzern (Seats) vorgesehen. Unternehmen mit größerem DJ-Team sollten die Business ENTERPRISE-Lizenz (ab 9 aktiven Nutzern) wählen. Unternehmen mit bis zu 3 aktiven Nutzern können alternativ die Business BASIC-Lizenz wählen. Hinweis für Affiliates Die Business PRO-Lizenz ist bewusst nicht als automatisch verlängerndes Abonnement konzipiert. Nach Ablauf der einjährigen Lizenzlaufzeit endet das Nutzungsrecht automatisch. Möchte der Lizenzinhaber das Party DJ Setbook weiterhin nutzen, ist der Erwerb einer neuen Jahreslizenz erforderlich. Dadurch entstehen keine ungewollten Vertragsverlängerungen oder automatischen Abbuchungen.
 
 ## 2. Links
 

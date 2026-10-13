@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Metaleve</strong> is a new metabolic support product focused on common issues like low energy, slow metabolism, and weight management. Built with a clear concept and positioned as a natural solution, it’s easy to test and adapt for a broad audience (35–55+).</p>
-<p>For affiliates, this is a strong opportunity to grow and scale with a new offer at an early stage, combined with a 60% commission on the entire funnel.</p>
-<p><strong>GEO</strong>: Germany</p>
-<p><strong>Allowed traffic</strong>: FB, Google, Native, Email,YouTube</p>
-<p><strong>Non-allowed</strong>: Mobile, Push, SEO, TikTok</p>
-<p><strong>Affiliate Page</strong>: https://metaleve.com/affiliates/</p>
-<p><strong>Affiliate Support</strong>: affiliates@metaleve.com</p>
+**Vendor's marketplace description:** Metaleve is a new metabolic support product focused on common issues like low energy, slow metabolism, and weight management. Built with a clear concept and positioned as a natural solution, it’s easy to test and adapt for a broad audience (35–55+). For affiliates, this is a strong opportunity to grow and scale with a new offer at an early stage, combined with a 60% commission on the entire funnel. GEO : Germany Allowed traffic : FB, Google, Native, Email,YouTube Non-allowed : Mobile, Push, SEO, TikTok Affiliate Page : https://metaleve.com/affiliates/ Affiliate Support : affiliates@metaleve.com
 
 ## 2. Links
 

@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Online-Kurs von einem Zahnarzt – für Patienten vor einer Behandlungsentscheidung.</strong></p>
-<p>Krone oder Implantat. Erhalten oder ziehen. Welches Material. Die meisten Patienten entscheiden das, ohne die Grundlagen zu kennen – bei Beträgen, die schnell vierstellig werden. Genau da setzt dieser Kurs an.</p>
-<p>Zahnarzt und Oralchirurg Şıvan Ates erklärt in zehn Modulen, wie zahnmedizinische Behandlungsentscheidungen zustande kommen, welche Fragen im Behandlungszimmer wirklich zählen und wie sich ein Heil- und Kostenplan einordnen lässt. Kein Ersatz für den Zahnarztbesuch – die Vorbereitung darauf.</p>
-<p><strong>Warum sich die Bewerbung lohnt</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> bei einem Verkaufspreis von 179 €</li>
-<li>Akuter Kaufanlass: Der Interessent hat eine konkrete Entscheidung vor sich, oft mit vierstelligen Kosten</li>
-<li>Echte Fachautorität statt Coach-Positionierung – approbierter Zahnarzt, Oralchirurgie, Zahnärztekammer Nordrhein</li>
-<li>Nahezu kein Wettbewerb: Ratgeber zu Zahngesundheit gibt es viele, einen strukturierten Entscheidungskurs praktisch nicht</li>
-<li>Ratenzahlung (4 × 47 €) und 14 Tage Rückgaberecht senken die Kaufhürde</li>
-<li>Partnerschaften werden automatisch bestätigt – keine Wartezeit</li>
-</ul>
-<p><strong>Passende Zielgruppen</strong></p>
-<ul>
-<li>Gesundheits- und Ratgeberseiten, Newsletter, YouTube-Kanäle</li>
-<li>Communities und Foren rund um Zahngesundheit und ganzheitliche Medizin</li>
-<li>Vergleichs- und Ratgeberportale zu Zahnzusatzversicherung und Behandlungskosten</li>
-<li>Berater und Therapeuten im Gesundheits- und Präventionsbereich</li>
-</ul>
-<p><strong>Werbemittel</strong><br />Auf der Partnerseite stehen drei fertige E-Mail-Vorlagen, getestete Betreffzeilen, Social-Media-Textbausteine und Kurzbeschreibungen bereit. Grafiken in deinem Wunschformat auf Anfrage.</p>
-<p><strong>Bitte beachten</strong><br />Der Kurs bewegt sich im Gesundheitsbereich. Keine Heilungsversprechen, keine Aussagen über Behandlungserfolge, keine Vorher-Nachher-Bilder, keine Darstellung als medizinische Beratung. Kein Gebot auf unsere Markenbegriffe. Alle Spielregeln stehen auf der Partnerseite.</p>
+**Vendor's marketplace description:** Online-Kurs von einem Zahnarzt – für Patienten vor einer Behandlungsentscheidung. Krone oder Implantat. Erhalten oder ziehen. Welches Material. Die meisten Patienten entscheiden das, ohne die Grundlagen zu kennen – bei Beträgen, die schnell vierstellig werden. Genau da setzt dieser Kurs an. Zahnarzt und Oralchirurg Şıvan Ates erklärt in zehn Modulen, wie zahnmedizinische Behandlungsentscheidungen zustande kommen, welche Fragen im Behandlungszimmer wirklich zählen und wie sich ein Heil- und Kostenplan einordnen lässt. Kein Ersatz für den Zahnarztbesuch – die Vorbereitung darauf. Warum sich die Bewerbung lohnt 50 % Provision bei einem Verkaufspreis von 179 € Akuter Kaufanlass: Der Interessent hat eine konkrete Entscheidung vor sich, oft mit vierstelligen Kosten Echte Fachautorität statt Coach-Positionierung – approbierter Zahnarzt, Oralchirurgie, Zahnärztekammer Nordrhein Nahezu kein Wettbewerb: Ratgeber zu Zahngesundheit gibt es viele, einen strukturierten Entscheidungskurs praktisch nicht Ratenzahlung (4 × 47 €) und 14 Tage Rückgaberecht senken die Kaufhürde Partnerschaften werden automatisch bestätigt – keine Wartezeit Passende Zielgruppen Gesundheits- und Ratgeberseiten, Newsletter, YouTube-Kanäle Communities und Foren rund um Zahngesundheit und ganzheitliche Medizin Vergleichs- und Ratgeberportale zu Zahnzusatzversicherung und Behandlungskosten Berater und Therapeuten im Gesundheits- und Präventionsbereich Werbemittel Auf der Partnerseite stehen drei fertige E-Mail-Vorlagen, getestete Betreffzeilen, Social-Media-Textbausteine und Kurzbeschreibungen bereit. Grafiken in deinem Wunschformat auf Anfrage. Bitte beachten Der Kurs bewegt sich im Gesundheitsbereich. Keine Heilungsversprechen, keine Aussagen über Behandlungserfolge, keine Vorher-Nachher-Bilder, keine Darstellung als medizinische Beratung. Kein Gebot auf unsere Markenbegriffe. Alle Spielregeln stehen auf der Partnerseite.
 
 ## 2. Links
 

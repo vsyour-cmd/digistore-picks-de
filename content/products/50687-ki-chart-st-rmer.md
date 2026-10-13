@@ -41,39 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Mit Musik Geld verdienen, ohne musikalisch zu sein und vollkommen anonym!<br /></strong></h2>
-<p><span style="background-color:#ffff00;"><strong>50% Provision für dich im gesamten Funnel! Über 400€ im gesamten Funnel für dich als Partner pro Kunde möglich!</strong></span></p>
-<p>In diesem Premium Kurs bekommt der Kunde...</p>
-<ul>
-<li>
-<p><strong>Modul 1:</strong> Raketenstart - wie du <strong>in 15 Minuten virale Songs</strong> erstellen und innerhalb von 24h die ersten Zuhörer gewinnen kannst</p>
-</li>
-<li>
-<p><strong>Modul 2:</strong> KI-Baukasten, um perfekt den Markt zu erobern, samt allen geheimen KI-Tools und Apps um perfekt zu starten</p>
-</li>
-<li>
-<p><strong>Modul 3:</strong> Dein Gelddrucker, <strong>um 2 - 3 Einkommensströme aufzubauen</strong></p>
-</li>
-<li>
-<p><strong>Modul 4:</strong> Das Geheimnis hinter extrem erfolgreicher Spotify Playlisten, sodass die Zuhörer deine Musik rauf und runterhören wollen</p>
-</li>
-<li>
-<p><strong>Alle Module haben einen Wert von über 1500€!</strong></p>
-</li>
-<li>
-<p><strong>Bonus 1:</strong> Alle Befehle zum Kopieren und einfügen: <strong>Wert 399€</strong></p>
-</li>
-<li>
-<p><strong>Bonus 2:</strong> Sofort Cash-Strategie, für mehr als 500€, <strong>Wert 299€</strong></p>
-</li>
-<li>
-<p><strong>Bonus 3:</strong> Booster für mehr Hörer und Einnahmen, <strong>Wert 499€</strong></p>
-</li>
-<li>
-<p><strong>Bonus 4 + 5:</strong> Alle Updates &amp; Premium Support: <strong>Wert 199€</strong></p>
-</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** Mit Musik Geld verdienen, ohne musikalisch zu sein und vollkommen anonym! 50% Provision für dich im gesamten Funnel! Über 400€ im gesamten Funnel für dich als Partner pro Kunde möglich! In diesem Premium Kurs bekommt der Kunde... Modul 1: Raketenstart - wie du in 15 Minuten virale Songs erstellen und innerhalb von 24h die ersten Zuhörer gewinnen kannst Modul 2: KI-Baukasten, um perfekt den Markt zu erobern, samt allen geheimen KI-Tools und Apps um perfekt zu starten Modul 3: Dein Gelddrucker, um 2 - 3 Einkommensströme aufzubauen Modul 4: Das Geheimnis hinter extrem erfolgreicher Spotify Playlisten, sodass die Zuhörer deine Musik rauf und runterhören wollen Alle Module haben einen Wert von über 1500€! Bonus 1: Alle Befehle zum Kopieren und einfügen: Wert 399€ Bonus 2: Sofort Cash-Strategie, für mehr als 500€, Wert 299€ Bonus 3: Booster für mehr Hörer und Einnahmen, Wert 499€ Bonus 4 + 5: Alle Updates & Premium Support: Wert 199€
 
 ## 2. Links
 

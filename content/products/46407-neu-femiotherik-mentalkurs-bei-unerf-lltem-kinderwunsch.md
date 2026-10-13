@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><strong>Zum Wunschbaby durch Gelassenheit und Zuversicht!</strong></h4>
-<p>Das HÖRBUCH "<strong>Wieso deine Gedanken deinen Kinderwunsch sabotieren können?</strong>" ist ein Mentalkurs für alle Frauen, die Probleme haben schwanger zu werden. Wenn Schwangerschaft nicht klappen möchte, liegt der Grund oft darin, dass sich die Frau gedanklich selbst im Weg steht. Mit diesem Kurs kann die Frau eigenständig ihre konkreten Hindernisse identifizieren und auflösen! </p>
-<p><strong>Neben diesem HÖRBUCH gibt es auch ein gleichwertiges EBOOK.</strong> Beide Medien können über Digistore einzeln beworben und gekauft werden. <strong>Beide haben das jeweils andere Medium als AddOn im Verkaufsprozess hinterlegt!</strong></p>
-<p>Die Zahl der Paare mit Unerfülltem Kinderwunsch ist hoch. Hilf verzweifelten Paaren und verdiene einfaches Geld.</p>
-<ul>
-<li>Du erhältst <strong>40% Provision</strong> für den Verkauf dieses HÖRBUCHs</li>
-<li>Für den AddOn-Verkauf erhältst Du <strong>zusätzliche Provision</strong> in der Höhe, wie er auch für den Einzelverkauf angegeben ist.</li>
-<li>Geschrieben wurde dieser Mentalkurs von Dr. Robert Kovarik, einem Arzt für Frauenheilkunde und Rehabilitation.</li>
-<li>Dr. Kovarik ist Experte für natürliche, sog. Quietive Behandlungen aus der Kurmedizin.</li>
-<li>Mit FEMIOTHERIK hat Dr. Kovarik speziell zur Fruchtbarkeitssteigerung eine Moorkur mit heißen Torftampons entwickelt, die als Selbstanwendung Zuhause konzipiert ist.</li>
-</ul>
+**Vendor's marketplace description:** Zum Wunschbaby durch Gelassenheit und Zuversicht! Das HÖRBUCH " Wieso deine Gedanken deinen Kinderwunsch sabotieren können? " ist ein Mentalkurs für alle Frauen, die Probleme haben schwanger zu werden. Wenn Schwangerschaft nicht klappen möchte, liegt der Grund oft darin, dass sich die Frau gedanklich selbst im Weg steht. Mit diesem Kurs kann die Frau eigenständig ihre konkreten Hindernisse identifizieren und auflösen! Neben diesem HÖRBUCH gibt es auch ein gleichwertiges EBOOK. Beide Medien können über Digistore einzeln beworben und gekauft werden. Beide haben das jeweils andere Medium als AddOn im Verkaufsprozess hinterlegt! Die Zahl der Paare mit Unerfülltem Kinderwunsch ist hoch. Hilf verzweifelten Paaren und verdiene einfaches Geld. Du erhältst 40% Provision für den Verkauf dieses HÖRBUCHs Für den AddOn-Verkauf erhältst Du zusätzliche Provision in der Höhe, wie er auch für den Einzelverkauf angegeben ist. Geschrieben wurde dieser Mentalkurs von Dr. Robert Kovarik, einem Arzt für Frauenheilkunde und Rehabilitation. Dr. Kovarik ist Experte für natürliche, sog. Quietive Behandlungen aus der Kurmedizin. Mit FEMIOTHERIK hat Dr. Kovarik speziell zur Fruchtbarkeitssteigerung eine Moorkur mit heißen Torftampons entwickelt, die als Selbstanwendung Zuhause konzipiert ist.
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie Unternehmen mit Threads planbar Sichtbarkeit, Anfragen und Neukunden generieren</strong></p>
-<p>Threads bietet Unternehmen heute das, was Instagram vor zehn Jahren bot: hohe organische Reichweite, direkten Zugang zur Zielgruppe und eine Plattform, auf der Konversation und Nähe wirklich noch belohnt werden. Dieses E-Book zeigt dir, wie du Threads als planbaren Vertriebskanal aufbaust – von der Profil-Strategie über den Konversations-Funnel bis zu DM-basierten Erstgesprächen. Du lernst, wie kurze, wertvolle Text-Posts Vertrauen in deine Marke aufbauen, wie du den Instagram-Vorteil von Meta nutzt, um dein bestehendes Publikum sofort zu aktivieren, und wie du den ROI deiner Threads-Aktivitäten sauber messen kannst. Ob Dienstleister, Agentur oder lokaler Betrieb – du bekommst ein System, das auf Konversation statt auf Zufall setzt.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Threads-Vertriebsstrategie: von der ersten Sichtbarkeit zur Anfrage</li>
-<li>Konversations-Funnel: wie Replies zu Leads werden</li>
-<li>Instagram-Vorteil für Unternehmen: beide Kanäle als System nutzen</li>
-<li>Kurze Text-Posts entlang der Customer Journey planen</li>
-<li>DM-Strategie auf Threads: qualifizierte Erstgespräche führen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie Unternehmen mit Threads planbar Sichtbarkeit, Anfragen und Neukunden generieren Threads bietet Unternehmen heute das, was Instagram vor zehn Jahren bot: hohe organische Reichweite, direkten Zugang zur Zielgruppe und eine Plattform, auf der Konversation und Nähe wirklich noch belohnt werden. Dieses E-Book zeigt dir, wie du Threads als planbaren Vertriebskanal aufbaust – von der Profil-Strategie über den Konversations-Funnel bis zu DM-basierten Erstgesprächen. Du lernst, wie kurze, wertvolle Text-Posts Vertrauen in deine Marke aufbauen, wie du den Instagram-Vorteil von Meta nutzt, um dein bestehendes Publikum sofort zu aktivieren, und wie du den ROI deiner Threads-Aktivitäten sauber messen kannst. Ob Dienstleister, Agentur oder lokaler Betrieb – du bekommst ein System, das auf Konversation statt auf Zufall setzt. Das steckt drin: Threads-Vertriebsstrategie: von der ersten Sichtbarkeit zur Anfrage Konversations-Funnel: wie Replies zu Leads werden Instagram-Vorteil für Unternehmen: beide Kanäle als System nutzen Kurze Text-Posts entlang der Customer Journey planen DM-Strategie auf Threads: qualifizierte Erstgespräche führen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

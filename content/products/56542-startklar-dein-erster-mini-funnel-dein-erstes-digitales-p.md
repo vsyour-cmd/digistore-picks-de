@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>STARTKLAR ist ein 47€-Einsteigerkurs für Menschen, die ihr erstes digitales Produkt erstellen und verkaufen wollen – ohne Vorkenntnisse, ohne teures Setup, ohne monatelange Vorbereitung.</strong></p>
-<p>Der Kurs zeigt Schritt für Schritt, wie ein einfacher Mini-Funnel aufgebaut wird – von der Idee bis zum ersten Verkauf. Conversion-optimierte Salespage mit VSL. Evergreen-Produkt – funktioniert das ganze Jahr.</p>
-<p> </p>
-<p><strong>Warum sich das Bewerben lohnt:</strong></p>
-<ul>
-<li>Preis: 47€ – niedrige Einstiegshürde, hohe Conversion</li>
-<li>Order Bump: 27€ (Funnel Starter Kit) – du verdienst automatisch auch daran</li>
-<li>Gesamtpotenzial pro Kunde: bis zu 74€ Verkaufswert</li>
-<li>Zielgruppe: Deutschsprachige Anfänger im Online-Business, 25–45 Jahre</li>
-<li>Conversion-optimierte Salespage mit VSL</li>
-<li>Evergreen-Produkt – du kannst es dauerhaft bewerben</li>
-</ul>
-<p> </p>
-<p><strong>Deine Provision: 50%</strong></p>
-<p>Das bedeutet: bis zu 23,50€ pro Hauptverkauf – plus Provision auf den Order Bump.</p>
-<p> </p>
-<p><strong>Was deine Zielgruppe anspricht:</strong> Menschen, die schon lange über ein eigenes digitales Produkt nachdenken, aber nicht wissen, wo sie anfangen sollen. Kein Tech-Wissen nötig. Kein großes Budget. Nur der richtige erste Schritt.</p>
+**Vendor's marketplace description:** STARTKLAR ist ein 47€-Einsteigerkurs für Menschen, die ihr erstes digitales Produkt erstellen und verkaufen wollen – ohne Vorkenntnisse, ohne teures Setup, ohne monatelange Vorbereitung. Der Kurs zeigt Schritt für Schritt, wie ein einfacher Mini-Funnel aufgebaut wird – von der Idee bis zum ersten Verkauf. Conversion-optimierte Salespage mit VSL. Evergreen-Produkt – funktioniert das ganze Jahr. Warum sich das Bewerben lohnt: Preis: 47€ – niedrige Einstiegshürde, hohe Conversion Order Bump: 27€ (Funnel Starter Kit) – du verdienst automatisch auch daran Gesamtpotenzial pro Kunde: bis zu 74€ Verkaufswert Zielgruppe: Deutschsprachige Anfänger im Online-Business, 25–45 Jahre Conversion-optimierte Salespage mit VSL Evergreen-Produkt – du kannst es dauerhaft bewerben Deine Provision: 50% Das bedeutet: bis zu 23,50€ pro Hauptverkauf – plus Provision auf den Order Bump. Was deine Zielgruppe anspricht: Menschen, die schon lange über ein eigenes digitales Produkt nachdenken, aber nicht wissen, wo sie anfangen sollen. Kein Tech-Wissen nötig. Kein großes Budget. Nur der richtige erste Schritt.
 
 ## 2. Links
 

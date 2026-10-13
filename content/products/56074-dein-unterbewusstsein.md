@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Videokurs zum Thema Unterbewusstsein und mentale Blockaden.</p>
-<p> </p>
-<p>Der Kurs zeigt verständlich, warum viele Menschen sich selbst ausbremsen und wie sie diese Muster durchbrechen können.</p>
-<p> </p>
-<p>50 % Provision im Frontend, mit Upsells sind bis zu 87 € pro Verkauf möglich. Ideal für breite Zielgruppen.</p>
+**Vendor's marketplace description:** Videokurs zum Thema Unterbewusstsein und mentale Blockaden. Der Kurs zeigt verständlich, warum viele Menschen sich selbst ausbremsen und wie sie diese Muster durchbrechen können. 50 % Provision im Frontend, mit Upsells sind bis zu 87 € pro Verkauf möglich. Ideal für breite Zielgruppen.
 
 ## 2. Links
 

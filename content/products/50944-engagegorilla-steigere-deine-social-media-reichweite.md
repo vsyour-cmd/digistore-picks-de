@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2 style="text-align:center;">"<strong>EngageGorilla</strong>" - Die erste KI-Software, die mit kreativen Kommentaren deine Social-Media-Reichweite revolutioniert!</h2>
-<h2 style="text-align:center;">Egal ob Facebook, YouTube, LinkedIn, Instagram oder X – steigere Dein Engagement in Sekunden und dominiere Social Media!</h2>
-<p>"EngageGorilla" führt die nächste Generation des Social-Media-Managements an und macht es einfach, professionell und effizient auf Kommentare zu reagieren – unabhängig von Plattform oder Sprache.</p>
-<p>Unsere fortschrittliche Software spart Zeit, steigert die Reichweite und bringt Nutzer in direkten Kontakt mit ihrer Zielgruppe, ohne Stunden vor dem Bildschirm zu verbringen.</p>
-<p><strong>EngageGorilla ist auf allen gängigen Social-Media-Plattformen nutzbar, darunter:</strong></p>
-<p>✅ <strong>Facebook</strong><br />✅ <strong>Instagram</strong><br />✅ <strong>LinkedIn</strong><br />✅ <strong>X (ehemals Twitter)</strong><br />✅ <strong>YouTube</strong><br />✅ <strong>Pinterest</strong><br />✅ <strong>TikTok</strong><br />✅ Und viele weitere Plattformen, die Kommentarfunktionen unterstützen.</p>
-<p>Die Software ist so entwickelt, dass sie sich nahtlos in deinen Social-Media-Workflow integriert und überall dort einsetzbar ist, wo du mit deiner Community interagierst.</p>
+**Vendor's marketplace description:** " EngageGorilla " - Die erste KI-Software, die mit kreativen Kommentaren deine Social-Media-Reichweite revolutioniert! Egal ob Facebook, YouTube, LinkedIn, Instagram oder X – steigere Dein Engagement in Sekunden und dominiere Social Media! "EngageGorilla" führt die nächste Generation des Social-Media-Managements an und macht es einfach, professionell und effizient auf Kommentare zu reagieren – unabhängig von Plattform oder Sprache. Unsere fortschrittliche Software spart Zeit, steigert die Reichweite und bringt Nutzer in direkten Kontakt mit ihrer Zielgruppe, ohne Stunden vor dem Bildschirm zu verbringen. EngageGorilla ist auf allen gängigen Social-Media-Plattformen nutzbar, darunter: ✅ Facebook ✅ Instagram ✅ LinkedIn ✅ X (ehemals Twitter) ✅ YouTube ✅ Pinterest ✅ TikTok ✅ Und viele weitere Plattformen, die Kommentarfunktionen unterstützen. Die Software ist so entwickelt, dass sie sich nahtlos in deinen Social-Media-Workflow integriert und überall dort einsetzbar ist, wo du mit deiner Community interagierst.
 
 ## 2. Links
 

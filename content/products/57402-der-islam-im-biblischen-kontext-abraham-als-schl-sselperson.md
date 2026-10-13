@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Dieses Lehrheft zeigt eine überraschende, aber textlich fundierte Perspektive:</strong> <strong>Nicht Muhammad, sondern <span style="background-color:#ccffcc;">Abraham/Ibrahim</span> ist die eigentliche <span style="background-color:#ffcc99;">zentrale und prägende Schlüsselfigur</span> des Islam.</strong></p>
-<ul>
-<li>Die Broschüre erklärt verständlich und präzise: warum der Islam sich selbst über Abraham definiert</li>
-<li>wie Opferfest, „Hingabe = Islam“ und Hadsch direkt auf die biblische Abraham‑Erzählung zurückgehen</li>
-<li>wie die Verbindung zwischen Koran und Bibel strukturell funktioniert</li>
-<li>warum diese Einsicht das Gesamtbild des Islam grundlegend verändert</li>
-<li>welche spirituelle Linie sich von Abraham bis in den Islam hineinzieht</li>
-</ul>
-<p>Ein wesentlicher Unterschied, den viele westliche Leser kaum kennen: Der Islam t<strong>rennt Staat und Religion</strong> <strong>nicht</strong>, versteht den Einzelnen als Teil der <strong><em>Umma</em> </strong>(aller muslimischen Gläubigen) und bildet ein umfassendes gesellschaftliches System, das weit über einen rein privaten Glauben hinausgeht. </p>
-<p>Dieses Heft richtet sich an <strong>alle Menschen</strong>, die den z<strong>entralen Kern des Islam</strong> verstehen wollen – unabhängig von Religion, Herkunft, Bildung oder gesellschaftlicher Rolle, ob <em>Muslim</em> oder Nicht‑<em>Muslim</em>, Christ, Jude oder Agnostiker, ob akademisch gebildet oder mit oder ohne Studienabschluss, ob politisch tätig oder normaler Bürger, egal welcher ethnischen Herkunft angehörend und welche Sprache sprechend.</p>
-<ul style="list-style-type:circle;">
-<li>Es bietet eine klare, kompakte und leicht verständliche Einführung in die islamische Verbindung zur Bibel, die meist übersehen wird.</li>
-<li>Ideal für: Christen, die den Islam mit einer biblischen Verbindung verstehen möchten</li>
-<li>Menschen, die die Rolle Abrahams im Islam nachvollziehen wollen</li>
-<li>Bibelleser, die die Verbindung zwischen Koran und Bibel erkennen möchten</li>
-<li>Lehrende, Hauskreise und Studiengruppen</li>
-<li>alle, die ein kompaktes, fundiertes und gut lesbares Heft suchen</li>
-<li>alle Menschen, die den zentralen Kern des Islam verstehen wollen – unabhängig von Religion, Herkunft, Bildung oder gesellschaftlicher Rolle</li>
-</ul>
-<p>Ihre Zielgruppe erhält: eine neue Sicht auf die innere Struktur des Islam</p>
-<ul style="list-style-type:circle;">
-<li>klare Erklärungen ohne Fachjargon</li>
-<li>eine Verbindung, die das Verständnis des Islam vertieft</li>
-<li>ein prägnantes Lehrheft mit hoher Erkenntnistiefe</li>
-</ul>
-<p>Perfekt geeignet für <strong>Newsletter</strong>, <strong>YouTube‑Kanäle</strong>, <strong>christliche Bildungsarbeit</strong>, <strong>interreligiöse Themen</strong> und alle Communities, die sich mit Bibel und Islam beschäftigen.</p>
+**Vendor's marketplace description:** Dieses Lehrheft zeigt eine überraschende, aber textlich fundierte Perspektive: Nicht Muhammad, sondern Abraham/Ibrahim ist die eigentliche zentrale und prägende Schlüsselfigur des Islam. Die Broschüre erklärt verständlich und präzise: warum der Islam sich selbst über Abraham definiert wie Opferfest, „Hingabe = Islam“ und Hadsch direkt auf die biblische Abraham‑Erzählung zurückgehen wie die Verbindung zwischen Koran und Bibel strukturell funktioniert warum diese Einsicht das Gesamtbild des Islam grundlegend verändert welche spirituelle Linie sich von Abraham bis in den Islam hineinzieht Ein wesentlicher Unterschied, den viele westliche Leser kaum kennen: Der Islam t rennt Staat und Religion nicht , versteht den Einzelnen als Teil der Umma (aller muslimischen Gläubigen) und bildet ein umfassendes gesellschaftliches System, das weit über einen rein privaten Glauben hinausgeht. Dieses Heft richtet sich an alle Menschen , die den z entralen Kern des Islam verstehen wollen – unabhängig von Religion, Herkunft, Bildung oder gesellschaftlicher Rolle, ob Muslim oder Nicht‑ Muslim , Christ, Jude oder Agnostiker, ob akademisch gebildet oder mit oder ohne Studienabschluss, ob politisch tätig oder normaler Bürger, egal welcher ethnischen Herkunft angehörend und welche Sprache sprechend. Es bietet eine klare, kompakte und leicht verständliche Einführung in die islamische Verbindung zur Bibel, die meist übersehen wird. Ideal für: Christen, die den Islam mit einer biblischen Verbindung verstehen möchten Menschen, die die Rolle Abrahams im Islam nachvollziehen wollen Bibelleser, die die Verbindung zwischen Koran und Bibel erkennen möchten Lehrende, Hauskreise und Studiengruppen alle, die ein kompaktes, fundiertes und gut lesbares Heft suchen alle Menschen, die den zentralen Kern des Islam verstehen wollen – unabhängig von Religion, Herkunft, Bildung oder gesellschaftlicher Rolle Ihre Zielgruppe erhält: eine neue Sicht auf die innere Struktur des Islam klare Erklärungen ohne Fachjargon eine Verbindung, die das Verständnis des Islam vertieft ein prägnantes Lehrheft mit hoher Erkenntnistiefe Perfekt geeignet für Newsletter , YouTube‑Kanäle , christliche Bildungsarbeit , interreligiöse Themen und alle Communities, die sich mit Bibel und Islam beschäftigen.
 
 ## 2. Links
 

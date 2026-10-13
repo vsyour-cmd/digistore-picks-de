@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>„Lebe jetzt dein Wunschleben!“ ist ein nachhaltiger Online-Kurs zur persönlichen Entwicklung.</strong></p>
-<p>Der Kurs basiert auf dem Lebenskonzept The BIG 3: Fokus, Imagination und Energie.</p>
-<p><strong>Ziel ist es, Menschen dabei zu unterstützen, ihr Leben bewusst neu auszurichten und mehr Klarheit, innere Stabilität und Selbstbestimmung zu entwickeln.</strong></p>
-<p>Die Teilnehmenden arbeiten selbstständig mit klar strukturierten Inhalten und praxisorientierten Aufgaben, die direkt im Alltag umgesetzt werden.</p>
-<p>Der Kurs ist bewusst ruhig, tiefgehend und nachhaltig aufgebaut und richtet sich an Menschen, die bereit sind, Verantwortung für ihre persönliche Entwicklung zu übernehmen.</p>
-<p>Er umfasst 8 Module mit insgesamt 43 Lektionen und ist über einen Zeitraum von rund 110 Tagen angelegt. Die Inhalte werden zeitlich gesteuert freigeschaltet, um eine nachhaltige Integration sicherzustellen.</p>
-<p>Der Verkauf sowie die gesamte Zahlungsabwicklung erfolgen über Digistore24.</p>
-<p>Werbemittel für Affiliates stehen auf der Affiliate Supportseite zur Verfügung.</p>
+**Vendor's marketplace description:** „Lebe jetzt dein Wunschleben!“ ist ein nachhaltiger Online-Kurs zur persönlichen Entwicklung. Der Kurs basiert auf dem Lebenskonzept The BIG 3: Fokus, Imagination und Energie. Ziel ist es, Menschen dabei zu unterstützen, ihr Leben bewusst neu auszurichten und mehr Klarheit, innere Stabilität und Selbstbestimmung zu entwickeln. Die Teilnehmenden arbeiten selbstständig mit klar strukturierten Inhalten und praxisorientierten Aufgaben, die direkt im Alltag umgesetzt werden. Der Kurs ist bewusst ruhig, tiefgehend und nachhaltig aufgebaut und richtet sich an Menschen, die bereit sind, Verantwortung für ihre persönliche Entwicklung zu übernehmen. Er umfasst 8 Module mit insgesamt 43 Lektionen und ist über einen Zeitraum von rund 110 Tagen angelegt. Die Inhalte werden zeitlich gesteuert freigeschaltet, um eine nachhaltige Integration sicherzustellen. Der Verkauf sowie die gesamte Zahlungsabwicklung erfolgen über Digistore24. Werbemittel für Affiliates stehen auf der Affiliate Supportseite zur Verfügung.
 
 ## 2. Links
 

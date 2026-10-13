@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Neues Produkt im Online-Geld-verdienen-Bereich, das Geld in deine Tasche spült!</p>
-<p><strong>Durchschnittlich 2,50€ Verdienst pro Klick</strong></p>
-<p><strong>50% auf das Frontend Produkt (397€ VK) + 50% auf alle Upsells (Mehrere Abos für lebenslange passive Einnahmen)</strong></p>
-<p> </p>
-<p>Ideal für jeden der online Geld verdienen will</p>
-<p>Top Conversion dank Webinar</p>
-<p>Die Verkaufsseite, das Webinar und die Upsellseiten werden stetig auf Conversions optimiert.</p>
+**Vendor's marketplace description:** Neues Produkt im Online-Geld-verdienen-Bereich, das Geld in deine Tasche spült! Durchschnittlich 2,50€ Verdienst pro Klick 50% auf das Frontend Produkt (397€ VK) + 50% auf alle Upsells (Mehrere Abos für lebenslange passive Einnahmen) Ideal für jeden der online Geld verdienen will Top Conversion dank Webinar Die Verkaufsseite, das Webinar und die Upsellseiten werden stetig auf Conversions optimiert.
 
 ## 2. Links
 

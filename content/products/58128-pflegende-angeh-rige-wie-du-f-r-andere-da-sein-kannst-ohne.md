@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein ehrlicher, einfühlsamer Ratgeber für pflegende Angehörige – mit echten Übungen gegen Schuldgefühle und Erschöpfung. Ideal für Zielgruppen im Bereich Gesundheit, Pflege und Selbsthilfe.</p>
-<p> </p>
-<p>23 Kapitel, warmherzig und ehrlich, mit klarem Hinweis auf professionelle Unterstützung wo nötig. 50% Provision pro Verkauf.</p>
+**Vendor's marketplace description:** Ein ehrlicher, einfühlsamer Ratgeber für pflegende Angehörige – mit echten Übungen gegen Schuldgefühle und Erschöpfung. Ideal für Zielgruppen im Bereich Gesundheit, Pflege und Selbsthilfe. 23 Kapitel, warmherzig und ehrlich, mit klarem Hinweis auf professionelle Unterstützung wo nötig. 50% Provision pro Verkauf.
 
 ## 2. Links
 

@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Bewerbe den Bestseller Videokurs: </strong></span></p>
-<p><span style="background-color:#ffff00;"><strong>Die Affiliate Cash Machine 2.0 + Super Affiliate (du bist der nächste)!</strong></span></p>
-<p><strong>Hier gibt es die besten Videokursen zu den Themen:</strong></p>
-<p><strong>✅  Aufbau einer eigenen Affiliate Armee</strong></p>
-<p><strong>✅  Ein Produkt richtig launchen</strong></p>
-<p><strong>✅  Geld verdienen mit YouTube</strong></p>
-<p><strong>✅  E-Mail Marketing Hackz</strong></p>
-<p><strong>✅  Verschenke diese 3 Kurse an Deine Community: Die Affiliate Cash Machine 2.0/ Geldmaschine Internet und Super Affiliate (mit einem SuperStar der Affiliate Szene)</strong></p>
-<p><span style="background-color:#ffff00;"><strong>Im Upsell warten über 200 Euro Netto Provision auf Dich! inklusive einem Abo! Hohe Conversion, da es teilweise Testwochen gibt!</strong></span></p>
+**Vendor's marketplace description:** Bewerbe den Bestseller Videokurs: Die Affiliate Cash Machine 2.0 + Super Affiliate (du bist der nächste)! Hier gibt es die besten Videokursen zu den Themen: ✅ Aufbau einer eigenen Affiliate Armee ✅ Ein Produkt richtig launchen ✅ Geld verdienen mit YouTube ✅ E-Mail Marketing Hackz ✅ Verschenke diese 3 Kurse an Deine Community: Die Affiliate Cash Machine 2.0/ Geldmaschine Internet und Super Affiliate (mit einem SuperStar der Affiliate Szene) Im Upsell warten über 200 Euro Netto Provision auf Dich! inklusive einem Abo! Hohe Conversion, da es teilweise Testwochen gibt!
 
 ## 2. Links
 

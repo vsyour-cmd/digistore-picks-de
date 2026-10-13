@@ -41,33 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Produkt:</strong><br />Whitepaper „Von der Herzens-Idee zum Amazon-Shop“ – Der Schritt-für-Schritt-Guide zum eigenen Kinderbuch auf Amazon KDP</p>
-<p><strong>Beschreibung:</strong><br />Dieses 39-seitige Whitepaper zeigt kreativen Autorinnen und Autoren, wie sie ihr Kinderbuch professionell schreiben, illustrieren, gestalten und auf Amazon KDP veröffentlichen. Ein praxisnaher Leitfaden mit echten Beispielen, Checklisten, Social-Media-Strategien und einem strukturierten 4-Wochen-Plan. Ideal für alle, die ihr Herzensprojekt endlich umsetzen möchten.</p>
-<p><strong>Affiliate-Vorteile:</strong></p>
-<p><strong>Provision: 25 % </strong></p>
-<ul>
-<li>60 Tage Cookie-Laufzeit</li>
-<li>
-<p>Professionelles, ansprechend gestaltetes Produkt mit klarer Zielgruppe</p>
-</li>
-<li>
-<p>Fertige Werbetexte, Grafiken und Social-Media-Vorlagen verfügbar</p>
-</li>
-</ul>
-<p><strong>Zielgruppe:</strong><br />Kreative, Selfpublisher, Eltern, Lehrerinnen, Illustratorinnen und Autorinnen, die ein eigenes Kinderbuch veröffentlichen möchten. Besonders relevant für Communities rund um Bücher, Kreativität, Selfpublishing und Online-Business.</p>
-<p><strong>Marketing-Ideen für Partner:</strong></p>
-<ul>
-<li>
-<p>Bewerbung über Instagram, TikTok, Pinterest oder Autoren-Blogs</p>
-</li>
-<li>
-<p>Integration in Newsletter, Coaching-Programme oder YouTube-Videos</p>
-</li>
-<li>
-<p>Themenbereiche: Buch schreiben, Kinderbücher, Kreatives Arbeiten, Amazon KDP, Selfpublishing</p>
-</li>
-</ul>
-<p><strong>Kurzlink zum Produkt:</strong><br />https://www.digistore24-app.com/app/de/vendor/account/marketplace/all/preview/54476</p>
+**Vendor's marketplace description:** Produkt: Whitepaper „Von der Herzens-Idee zum Amazon-Shop“ – Der Schritt-für-Schritt-Guide zum eigenen Kinderbuch auf Amazon KDP Beschreibung: Dieses 39-seitige Whitepaper zeigt kreativen Autorinnen und Autoren, wie sie ihr Kinderbuch professionell schreiben, illustrieren, gestalten und auf Amazon KDP veröffentlichen. Ein praxisnaher Leitfaden mit echten Beispielen, Checklisten, Social-Media-Strategien und einem strukturierten 4-Wochen-Plan. Ideal für alle, die ihr Herzensprojekt endlich umsetzen möchten. Affiliate-Vorteile: Provision: 25 % 60 Tage Cookie-Laufzeit Professionelles, ansprechend gestaltetes Produkt mit klarer Zielgruppe Fertige Werbetexte, Grafiken und Social-Media-Vorlagen verfügbar Zielgruppe: Kreative, Selfpublisher, Eltern, Lehrerinnen, Illustratorinnen und Autorinnen, die ein eigenes Kinderbuch veröffentlichen möchten. Besonders relevant für Communities rund um Bücher, Kreativität, Selfpublishing und Online-Business. Marketing-Ideen für Partner: Bewerbung über Instagram, TikTok, Pinterest oder Autoren-Blogs Integration in Newsletter, Coaching-Programme oder YouTube-Videos Themenbereiche: Buch schreiben, Kinderbücher, Kreatives Arbeiten, Amazon KDP, Selfpublishing Kurzlink zum Produkt: https://www.digistore24-app.com/app/de/vendor/account/marketplace/all/preview/54476
 
 ## 2. Links
 

@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong>Premium-Programm von Diplom-Psychologin &amp; Heilpraktikerin (HeilprG)</strong></div>
-<ul>
-<li><strong>Produkt:</strong> Begleiteter 6-Wochen-Onlinekurs inkl. 4 intensiven 1:1-Online-Coachings.</li>
-<li><strong>Zielgruppe:</strong> Gesunde, reflektierte Menschen (hohe Kaufkraft) mit Leidensdruck durch negatives Denken, mangelnden Selbstwert und das Zurückstellen eigener Bedürfnisse.</li>
-<li><strong>Verkaufspreis:</strong> 1.450 € (Hoher Warenkorbwert).</li>
-<li><strong>Deine Provision:</strong> 50 % (ca. 660 € reiner Gewinn für dich pro Sale) – gilt auch für alle Ratenzahlungen.</li>
-<li><strong>Verkaufsargument:</strong> Hohe Conversion durch akademischen Titel (Dipl.-Psych.) und 7 Jahre bewährte Online-Praxis.</li>
-<li><strong>Werbemittel:</strong> Eine fertige, conversion-optimierte Verkaufsseite steht bereit.</li>
-</ul>
+**Vendor's marketplace description:** Premium-Programm von Diplom-Psychologin & Heilpraktikerin (HeilprG) Produkt: Begleiteter 6-Wochen-Onlinekurs inkl. 4 intensiven 1:1-Online-Coachings. Zielgruppe: Gesunde, reflektierte Menschen (hohe Kaufkraft) mit Leidensdruck durch negatives Denken, mangelnden Selbstwert und das Zurückstellen eigener Bedürfnisse. Verkaufspreis: 1.450 € (Hoher Warenkorbwert). Deine Provision: 50 % (ca. 660 € reiner Gewinn für dich pro Sale) – gilt auch für alle Ratenzahlungen. Verkaufsargument: Hohe Conversion durch akademischen Titel (Dipl.-Psych.) und 7 Jahre bewährte Online-Praxis. Werbemittel: Eine fertige, conversion-optimierte Verkaufsseite steht bereit.
 
 ## 2. Links
 

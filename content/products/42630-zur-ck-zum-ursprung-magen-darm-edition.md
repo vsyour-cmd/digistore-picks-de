@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die „Zurück zum Ursprung – Magen Darm Edition“ hilft Deinen Fans Magen-Darm-Probleme auf eine ganz einfache Art und Weise zu lösen.</p>
-<p>Das bringt wieder Ruhe, Leichtigkeit und Energie in den Körper, um das Leben in Freude und Wohlbefinden zu genießen.</p>
-<p>Der Kurs beruht auf dem bewährten Erfolgsprinzip von „Zurück zum Ursprung“. Aufgrund der einzigartigen Arbeitsweise von Andreas Goldemann wird in über 40 Transformationssessions schrittweise Dein ganzes System resettet, damit dieses seine Arbeit wieder ungehindert aufnehmen kann.</p>
-<p>Was erwartet Dich?</p>
-<ul>
-<li><strong>33 % Provision:</strong> Beim derzeitigen Verkaufspreis von 397 € (Brutto) sind das nach dem Abzug von Gebühren und Umsatzsteuer <strong>103,21 € (Netto)</strong> <strong>für Dich</strong> pro Vermittlung!</li>
-<li><strong>20 % Lifetime-Provision für Folgeprodukte</strong>, die Dein neu gewonnener Lead im Laufe der Jahre bei uns kauft.</li>
-<li><strong>Funnel </strong> mit 2 Freebies, Verknappung und toller Conversion.</li>
-</ul>
-<p>Andreas Goldemann ist seit über 25 Jahren als Intuitive, Klangheiler und spiritueller Begleiter tätig und hat mit seiner Arbeit vielen hunderttausend Menschen weltweit geholfen.</p>
-<p><strong>Werde jetzt unser Partner</strong> und empfiehl Deinen Fans die „Zurück zum Ursprung - Magen Darm Edition“, damit sie mehr Freude und Wohlbefinden in ihr Leben holen.</p>
+**Vendor's marketplace description:** Die „Zurück zum Ursprung – Magen Darm Edition“ hilft Deinen Fans Magen-Darm-Probleme auf eine ganz einfache Art und Weise zu lösen. Das bringt wieder Ruhe, Leichtigkeit und Energie in den Körper, um das Leben in Freude und Wohlbefinden zu genießen. Der Kurs beruht auf dem bewährten Erfolgsprinzip von „Zurück zum Ursprung“. Aufgrund der einzigartigen Arbeitsweise von Andreas Goldemann wird in über 40 Transformationssessions schrittweise Dein ganzes System resettet, damit dieses seine Arbeit wieder ungehindert aufnehmen kann. Was erwartet Dich? 33 % Provision: Beim derzeitigen Verkaufspreis von 397 € (Brutto) sind das nach dem Abzug von Gebühren und Umsatzsteuer 103,21 € (Netto) für Dich pro Vermittlung! 20 % Lifetime-Provision für Folgeprodukte , die Dein neu gewonnener Lead im Laufe der Jahre bei uns kauft. Funnel mit 2 Freebies, Verknappung und toller Conversion. Andreas Goldemann ist seit über 25 Jahren als Intuitive, Klangheiler und spiritueller Begleiter tätig und hat mit seiner Arbeit vielen hunderttausend Menschen weltweit geholfen. Werde jetzt unser Partner und empfiehl Deinen Fans die „Zurück zum Ursprung - Magen Darm Edition“, damit sie mehr Freude und Wohlbefinden in ihr Leben holen.
 
 ## 2. Links
 

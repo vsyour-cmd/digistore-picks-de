@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#ff0000;"><strong>Verschenke die Experten Formel an deine Leser / Kunden und wir zahlen dir 5€ Provision für jede Bestellung!</strong></span></h2>
-<ul>
-<li>über 230 Seiten | Sprache: Deutsch</li>
-<li>von Thomas Klußmann, Christoph J.F. Schreiber und 26 spannenden Gastautoren</li>
-<li>Coaching Bestseller: Die Anleitung für deine Kunden, wie sie ihr Wissen in ein digitales Experten Business verwandeln können!</li>
-</ul>
+**Vendor's marketplace description:** Verschenke die Experten Formel an deine Leser / Kunden und wir zahlen dir 5€ Provision für jede Bestellung! über 230 Seiten | Sprache: Deutsch von Thomas Klußmann, Christoph J.F. Schreiber und 26 spannenden Gastautoren Coaching Bestseller: Die Anleitung für deine Kunden, wie sie ihr Wissen in ein digitales Experten Business verwandeln können!
 
 ## 2. Links
 

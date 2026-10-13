@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>BZF 1 (I) Sprechfunkzeugnis (DE+EN) für den Flugfunk - Online-Kurs-Live<br /><br />(DEUTSCH + ENGLISCH)</strong></p>
-<p><strong>Empfehlen Sie diesen Online-Livekurs!</strong></p>
-<p><br />Dieser Online-Livekurs ist die absolute Grundlage für alle, die eine Pilotenlizenz erwerben wollen!</p>
-<p>Dieser Livekurs bereitet den angehenden Piloten auf die Prüfung bei der Bundesnetzagentur vor und berechtigt zu Sichtflügen (VFR) in <strong>DEUTSCH</strong> und <strong>ENGLISCH.<br /></strong>Teilname auch über <strong>Mobilgeräte</strong> wie <strong>iPad/iPhone</strong> oder allen Mobilgeräten unter <strong>Androide</strong> möglich!<br /><br /><strong>Vorteile:<br /></strong></p>
-<ul>
-<li>Es gibt keine langen Anfahrtswege, zumal die meisten Ausbildungsstätten nicht gerade um die Ecke sind. Lernen Sie bequem von zu Hause, Hotel, Büro oder auch aus dem Urlaub bzw. von Ihrem Lieblingsort (weltweit).</li>
-<li>Zeitlich flexibler Einstieg möglich; ein Kurseinstieg ist somit jederzeit möglich.</li>
-<li>Man lernt den Umgang mit einem Flugplan, der zugleich als Teilnahmeanmeldung für den jeweiligen Ausbildungsabend gilt. Praxisnahe Terminierung verpackt als Flugplan!</li>
-</ul>
-<p><strong>Gültigkeit:</strong> 365 Tage nach Anmeldung<br /><strong>Art der Durchführung:</strong> Live &amp; Echtzeit mit Fluglehrern und Controllern über das Internet</p>
+**Vendor's marketplace description:** BZF 1 (I) Sprechfunkzeugnis (DE+EN) für den Flugfunk - Online-Kurs-Live (DEUTSCH + ENGLISCH) Empfehlen Sie diesen Online-Livekurs! Dieser Online-Livekurs ist die absolute Grundlage für alle, die eine Pilotenlizenz erwerben wollen! Dieser Livekurs bereitet den angehenden Piloten auf die Prüfung bei der Bundesnetzagentur vor und berechtigt zu Sichtflügen (VFR) in DEUTSCH und ENGLISCH. Teilname auch über Mobilgeräte wie iPad/iPhone oder allen Mobilgeräten unter Androide möglich! Vorteile: Es gibt keine langen Anfahrtswege, zumal die meisten Ausbildungsstätten nicht gerade um die Ecke sind. Lernen Sie bequem von zu Hause, Hotel, Büro oder auch aus dem Urlaub bzw. von Ihrem Lieblingsort (weltweit). Zeitlich flexibler Einstieg möglich; ein Kurseinstieg ist somit jederzeit möglich. Man lernt den Umgang mit einem Flugplan, der zugleich als Teilnahmeanmeldung für den jeweiligen Ausbildungsabend gilt. Praxisnahe Terminierung verpackt als Flugplan! Gültigkeit: 365 Tage nach Anmeldung Art der Durchführung: Live & Echtzeit mit Fluglehrern und Controllern über das Internet
 
 ## 2. Links
 

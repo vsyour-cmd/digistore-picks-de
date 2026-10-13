@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ob Kraul oder eine andere Schwimmlage – lass dich filmen und erhalte eine professionelle Videoanalyse zum Festpreis! Einfach im Rahmen der Vorgaben (wie du dich filmen lassen solltest, <a href="https://www.xn--kraulkraftverstrker-uwb.de/video-stil-analyse-schwimmen/" target="_blank" rel="noreferrer noopener">findest du hier</a>) Film(e) hochladen, und nach wenigen Tagen erhältst du:</p>
-<ul>
-<li>
-<p><strong>Analyse deines Schwimmstils</strong>: Wir sagen dir genau, wo deine technischen Fehler lauern</p>
-</li>
-<li>
-<p><strong>Gegenmaßnahmen</strong>: Du erfährst, wie du diese Fehler gezielt abstellen kannst</p>
-</li>
-<li>
-<p><strong>Vom Profi</strong>: Du erhältst ausschließlich Analysen von aktuellen A- und B-Lizenz-Trainern</p>
-</li>
-<li>
-<p><strong>Video statt Text</strong>: Du bekommst ein vollkommen individuelles Video, indem deine Aufnahmen gezeigt, analysiert und ausführlich kommentiert werden – Fehler werden wenn nötig in Zeitlupe und mit Erklärungen gezeigt, warum dieser Fehler ein Problem darstellt</p>
-</li>
-<li>
-<p><strong>Einfach und sicher</strong>: Du erhältst einen privaten Upload- und Download-Link; dein Video wird nach 14 Tagen vollständig gelöscht und nicht an Dritte weitergegeben</p>
-</li>
-</ul>
-<p><strong>Alle Infos, Preise und Funktionsweise <a href="https://www.xn--kraulkraftverstrker-uwb.de/video-stil-analyse-schwimmen/" target="_blank" rel="noreferrer noopener">hier</a>!</strong></p>
+**Vendor's marketplace description:** Ob Kraul oder eine andere Schwimmlage – lass dich filmen und erhalte eine professionelle Videoanalyse zum Festpreis! Einfach im Rahmen der Vorgaben (wie du dich filmen lassen solltest, findest du hier ) Film(e) hochladen, und nach wenigen Tagen erhältst du: Analyse deines Schwimmstils : Wir sagen dir genau, wo deine technischen Fehler lauern Gegenmaßnahmen : Du erfährst, wie du diese Fehler gezielt abstellen kannst Vom Profi : Du erhältst ausschließlich Analysen von aktuellen A- und B-Lizenz-Trainern Video statt Text : Du bekommst ein vollkommen individuelles Video, indem deine Aufnahmen gezeigt, analysiert und ausführlich kommentiert werden – Fehler werden wenn nötig in Zeitlupe und mit Erklärungen gezeigt, warum dieser Fehler ein Problem darstellt Einfach und sicher : Du erhältst einen privaten Upload- und Download-Link; dein Video wird nach 14 Tagen vollständig gelöscht und nicht an Dritte weitergegeben Alle Infos, Preise und Funktionsweise hier !
 
 ## 2. Links
 

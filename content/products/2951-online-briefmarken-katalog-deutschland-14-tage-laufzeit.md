@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Online-Briefmarken-Katalog mit fester Laufzeit mit einmaliger Suche für die Sammelgebiete DDR, Bund, Deutsches Reich, Westberlin, Altdeutschland, Saarland, Besatzungszonen 1945-1949.</p>
+**Vendor's marketplace description:** Online-Briefmarken-Katalog mit fester Laufzeit mit einmaliger Suche für die Sammelgebiete DDR, Bund, Deutsches Reich, Westberlin, Altdeutschland, Saarland, Besatzungszonen 1945-1949.
 
 ## 2. Links
 

@@ -41,38 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h2><strong>DU BIST NEUGIERIG, WAS DICH ERWARTET, WENN DU DICH KOSTENLOS ZUM HASHIMOTOKONGRESS ANMELDEST?</strong></h2>
-</div>
-<div><hr /></div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<ul><li>
-<div> </div>
-​Entdecke das allerneueste Wissen über die <strong>Entstehung</strong>, <strong>Ursachen</strong> und <strong>Zusammenhänge</strong> von <strong>Hashimoto</strong>. Mit diesem Wissen wirst du ein besseres Verständnis für dich und deinen Körper haben.</li>
-<li>
-<div> </div>
-​Du wirst lernen wie dein <strong>tägliches</strong> <strong>Verhalten</strong> <strong>Hashimoto</strong> bedingt und wie du <strong>negative</strong> <strong>Verhaltensweisen</strong>verändern kannst und deine Lebensqualität dadurch verbesserst.</li>
-<li>
-<div> </div>
-​Lerne verschiedene <strong>Ernährungsprotokolle</strong> kennen, die <strong>zahlreichen Betroffenen</strong> <strong>geholfen</strong> haben und verstehe die <strong>Wirkprinzipien</strong>.</li>
-<li>
-<div> </div>
-​Spätestens nachdem der<strong> Medizin-Nobelpreis</strong> für eine Studie über den <strong>Tag-Nacht-Rhythmus</strong> verliehen wurde, weiß die Welt, dass eine gestörte <strong>innerere Uhr</strong> massiv den <strong>Hormonhaushalt</strong> beeinflusst und somit eine <strong>Ursache</strong> für <strong>Hashimoto</strong> ist. Wir erklären welche <strong>Faktoren</strong> dich <strong>beeinflussen</strong> und wie du wieder ins Gleichgewicht kommst.</li>
-<li>
-<div> </div>
-Entdecke die <strong>vielversprechendsten</strong> <strong>Behandlungsmethoden</strong> aus der <strong>Wissenschaft</strong>, wie z.B. <strong>funktionelle Medizin</strong>, <strong>mitochondriale</strong> <strong>Medizin</strong> oder <strong>TCM</strong>.</li>
-<li>
-<div> </div>
-Du wirst verstehen was mit deinem Körper in Zeiten der <strong>Hormonumstellung</strong> passiert. Stichworte: <strong>Wechseljahre</strong>, <strong>Schwangerschaft</strong>, <strong>Stillzeit</strong>.</li>
-</ul></div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** DU BIST NEUGIERIG, WAS DICH ERWARTET, WENN DU DICH KOSTENLOS ZUM HASHIMOTOKONGRESS ANMELDEST? ​Entdecke das allerneueste Wissen über die Entstehung , Ursachen und Zusammenhänge von Hashimoto . Mit diesem Wissen wirst du ein besseres Verständnis für dich und deinen Körper haben. ​Du wirst lernen wie dein tägliches Verhalten Hashimoto bedingt und wie du negative Verhaltensweisen verändern kannst und deine Lebensqualität dadurch verbesserst. ​Lerne verschiedene Ernährungsprotokolle kennen, die zahlreichen Betroffenen geholfen haben und verstehe die Wirkprinzipien . ​Spätestens nachdem der Medizin-Nobelpreis für eine Studie über den Tag-Nacht-Rhythmus verliehen wurde, weiß die Welt, dass eine gestörte innerere Uhr massiv den Hormonhaushalt beeinflusst und somit eine Ursache für Hashimoto ist. Wir erklären welche Faktoren dich beeinflussen und wie du wieder ins Gleichgewicht kommst. Entdecke die vielversprechendsten Behandlungsmethoden aus der Wissenschaft , wie z.B. funktionelle Medizin , mitochondriale Medizin oder TCM . Du wirst verstehen was mit deinem Körper in Zeiten der Hormonumstellung passiert. Stichworte: Wechseljahre , Schwangerschaft , Stillzeit .
 
 ## 2. Links
 

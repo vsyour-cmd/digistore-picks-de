@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Profitiere von 50% Provision auf alle Addons und Upsells</p>
-<h2>GPT Assist Builder</h2>
-<p><strong> – Custom GPT Edition</strong></p>
-<p>In 8 Wochen zu deinem eigenen KI-Assistenten – ohne Programmieren.</p>
-<p>Dieser Videokurs zeigt dir Schritt für Schritt, wie du dein Wissen in einen verkaufsfähigen GPT-Assistenten verwandelst. Klar aufgebaut, praxisnah und ohne Technikfrust.</p>
-<p>Du arbeitest mit einem festen System statt mit endlosem Ausprobieren.</p>
-<h3>Inhalte</h3>
-<p>• <strong>Fundament &amp; Use Case</strong><br />Warum GPT-Produkte funktionieren und wie du einen klaren, marktfähigen Anwendungsfall entwickelst</p>
-<p>• <strong>Aufbau im No-Code-Tool</strong><br />Rolle, Persönlichkeit, Stimme und Wissensbasis deines GPT sauber erstellen</p>
-<p>• <strong>Minimum-Viable-GPT</strong><br />Erste Version bauen, testen und gezielt verbessern</p>
-<p>• <strong>Verkauf &amp; Launch</strong><br />Nutzenversprechen, Positionierung, Angebotsstruktur und Launch-Plan</p>
-<p>• <strong>Skalierung</strong><br />Lizenzen, Produktfamilien und intelligente Workflows für Wachstum</p>
-<h3>Auslieferung</h3>
-<p>Sofortiger Zugriff auf alle Videos im Mitgliederbereich.</p>
+**Vendor's marketplace description:** Profitiere von 50% Provision auf alle Addons und Upsells GPT Assist Builder – Custom GPT Edition In 8 Wochen zu deinem eigenen KI-Assistenten – ohne Programmieren. Dieser Videokurs zeigt dir Schritt für Schritt, wie du dein Wissen in einen verkaufsfähigen GPT-Assistenten verwandelst. Klar aufgebaut, praxisnah und ohne Technikfrust. Du arbeitest mit einem festen System statt mit endlosem Ausprobieren. Inhalte • Fundament & Use Case Warum GPT-Produkte funktionieren und wie du einen klaren, marktfähigen Anwendungsfall entwickelst • Aufbau im No-Code-Tool Rolle, Persönlichkeit, Stimme und Wissensbasis deines GPT sauber erstellen • Minimum-Viable-GPT Erste Version bauen, testen und gezielt verbessern • Verkauf & Launch Nutzenversprechen, Positionierung, Angebotsstruktur und Launch-Plan • Skalierung Lizenzen, Produktfamilien und intelligente Workflows für Wachstum Auslieferung Sofortiger Zugriff auf alle Videos im Mitgliederbereich.
 
 ## 2. Links
 

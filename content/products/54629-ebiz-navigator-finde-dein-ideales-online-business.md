@@ -41,38 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>eBiz Navigator – Der psychologisch fundierte Weg ins Online-Business</strong></p>
-<p>Hilf Menschen, ihr ideales Online-Business zu finden – nicht das lauteste, sondern das, das wirklich zu ihnen passt.</p>
-<p>Der eBiz Navigator kombiniert Wirtschaftspsychologie und Arbeitspsychiologie mit praxisnahen Handlungsempfehlungen.</p>
-<p> </p>
-<p><strong>Provisionen</strong></p>
-<ul>
-<li>70 % Provision pro Verkauf (einmalig, kein Abo)</li>
-<li>Cookie-Laufzeit: 180 Tage</li>
-<li>Preis: 27,90 € (brutto)</li>
-</ul>
-<p> </p>
-<p><strong>Vorteile für dich als Affiliate</strong></p>
-<ul>
-<li>Kostenloser Test-Einstieg (hohe Conversion)</li>
-<li>Emotionale Bindung des Nutzers durch Persönlichkeitstest</li>
-<li>Kein Hype-Produkt, klare Nutzenkommunikation</li>
-<li>Neutraler Promolink</li>
-<li>Automatische Abwicklung über Digistore24</li>
-</ul>
-<p> </p>
-<p><strong>Dein Promolink</strong><br /><code>https://www.ebiz-navigator.de/?aff=<span style="background-color:#ffff00;">AFFILIATE</span>&amp;camp=IchBinMirWichtig</code><br /><br /><span style="background-color:#ffff00;">Wichtig:</span> Ersetze AFFILIATE mit deiner Digistore24-ID</p>
-<p> </p>
-<p><strong>Testzugang (nur für Affiliates)</strong></p>
-<p>Wir stehen für Offenheit und Authentizität.<br />Nutze den eBiz Navigator daher vollkommen kostenlos,<br />damit du ihn aus eigener Erfahrung weiterempfehlen kannst.</p>
-<p> </p>
-<ol>
-<li>Aufrufen: <a href="https://www.ebiz-navigator.de" target="_blank" rel="noreferrer noopener">www.ebiz-navigator.de</a></li>
-<li>Auf der Ergebnisseite des Persönlichkeitstest „Zugangscode eingeben“ klicken</li>
-<li>Freecode: <strong>affiliate2025</strong></li>
-</ol>
-<p>Achtung: Die Nutzung des Freecode ist nur für dich persönlich erlaubt. Keine Weitergabe an Dritte!<br /> </p>
-<p><em>Hinweis: Verkäufe werden automatisch über Digistore24 getrackt.</em></p>
+**Vendor's marketplace description:** eBiz Navigator – Der psychologisch fundierte Weg ins Online-Business Hilf Menschen, ihr ideales Online-Business zu finden – nicht das lauteste, sondern das, das wirklich zu ihnen passt. Der eBiz Navigator kombiniert Wirtschaftspsychologie und Arbeitspsychiologie mit praxisnahen Handlungsempfehlungen. Provisionen 70 % Provision pro Verkauf (einmalig, kein Abo) Cookie-Laufzeit: 180 Tage Preis: 27,90 € (brutto) Vorteile für dich als Affiliate Kostenloser Test-Einstieg (hohe Conversion) Emotionale Bindung des Nutzers durch Persönlichkeitstest Kein Hype-Produkt, klare Nutzenkommunikation Neutraler Promolink Automatische Abwicklung über Digistore24 Dein Promolink https://www.ebiz-navigator.de/?aff= AFFILIATE &camp=IchBinMirWichtig Wichtig: Ersetze AFFILIATE mit deiner Digistore24-ID Testzugang (nur für Affiliates) Wir stehen für Offenheit und Authentizität. Nutze den eBiz Navigator daher vollkommen kostenlos, damit du ihn aus eigener Erfahrung weiterempfehlen kannst. Aufrufen: www.ebiz-navigator.de Auf der Ergebnisseite des Persönlichkeitstest „Zugangscode eingeben“ klicken Freecode: affiliate2025 Achtung: Die Nutzung des Freecode ist nur für dich persönlich erlaubt. Keine Weitergabe an Dritte! Hinweis: Verkäufe werden automatisch über Digistore24 getrackt.
 
 ## 2. Links
 

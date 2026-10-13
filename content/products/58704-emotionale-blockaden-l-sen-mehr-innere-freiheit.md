@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>„Emotionale Blockaden lösen“ ist ein praxisnahes PDF-E-Book für Menschen, die belastende Gefühle, innere Widerstände und wiederkehrende negative Verhaltensmuster besser verstehen und Schritt für Schritt verändern möchten.</p>
-<p>Der Ratgeber vermittelt verständliche Impulse, praktische Übungen und alltagstaugliche Möglichkeiten, um emotionale Blockaden zu erkennen, hinderliche Gedanken loszulassen und mehr innere Freiheit, Selbstvertrauen und Lebensqualität zu entwickeln.</p>
-<p>Das Produkt richtet sich an eine breite Zielgruppe im Bereich Persönlichkeitsentwicklung, Selbsthilfe und emotionales Wohlbefinden. Durch den günstigen Verkaufspreis von einmalig 9,99 € ist die Kaufentscheidung niedrigschwellig.</p>
-<p>Das E-Book wird nach erfolgreicher Bestellung sofort digital als PDF-Datei ausgeliefert. Es eignet sich besonders zur Bewerbung über Webseiten, Blogs, soziale Medien, Newsletter und andere Angebote rund um Persönlichkeitsentwicklung und Lebenshilfe.</p>
+**Vendor's marketplace description:** „Emotionale Blockaden lösen“ ist ein praxisnahes PDF-E-Book für Menschen, die belastende Gefühle, innere Widerstände und wiederkehrende negative Verhaltensmuster besser verstehen und Schritt für Schritt verändern möchten. Der Ratgeber vermittelt verständliche Impulse, praktische Übungen und alltagstaugliche Möglichkeiten, um emotionale Blockaden zu erkennen, hinderliche Gedanken loszulassen und mehr innere Freiheit, Selbstvertrauen und Lebensqualität zu entwickeln. Das Produkt richtet sich an eine breite Zielgruppe im Bereich Persönlichkeitsentwicklung, Selbsthilfe und emotionales Wohlbefinden. Durch den günstigen Verkaufspreis von einmalig 9,99 € ist die Kaufentscheidung niedrigschwellig. Das E-Book wird nach erfolgreicher Bestellung sofort digital als PDF-Datei ausgeliefert. Es eignet sich besonders zur Bewerbung über Webseiten, Blogs, soziale Medien, Newsletter und andere Angebote rund um Persönlichkeitsentwicklung und Lebenshilfe.
 
 ## 2. Links
 

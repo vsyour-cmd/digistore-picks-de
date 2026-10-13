@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Vorsorgevollmacht und Patientenverfügung leicht gemacht – Ratgeber mit Formularen</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Ehepartner und Kinder dürfen nicht automatisch entscheiden. Der Ratgeber erklärt Vorsorgevollmacht und Patientenverfügung in einfacher Sprache und enthält die <strong>Formulare</strong> dazu.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Menschen ab 50, die vorsorgen wollen</li>
-<li>Paare und Familien, die sich gegenseitig absichern möchten</li>
-<li>Angehörige, die für ihre Eltern vorsorgen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Ein Krankheitsfall in der Familie oder ein runder Geburtstag</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Rente, Krankenkasse, KI für Senioren) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Vorsorgevollmacht und Patientenverfügung leicht gemacht – Ratgeber mit Formularen Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Ehepartner und Kinder dürfen nicht automatisch entscheiden. Der Ratgeber erklärt Vorsorgevollmacht und Patientenverfügung in einfacher Sprache und enthält die Formulare dazu. Die Zielgruppe Menschen ab 50, die vorsorgen wollen Paare und Familien, die sich gegenseitig absichern möchten Angehörige, die für ihre Eltern vorsorgen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Ein Krankheitsfall in der Familie oder ein runder Geburtstag Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Produkte (Rente, Krankenkasse, KI für Senioren) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

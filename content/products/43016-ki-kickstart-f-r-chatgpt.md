@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Endlich: 10x schneller Inhalte für dein Online-Marketing erstellen</h2>
-<p>Der ultimative Chat GPT-Video Kurs 2023 mit neuesten KI-Strategien hilft dir mühelos E-Mails, Blogartikel, Werbetexte und Video-Skripte zu erstellen.</p>
-<p>Mit 1<strong>7+ Schritt für Schritt Videos</strong> und über <strong>1.000 Inspirationen und Prompts </strong>für hochwertige Inhalte in Sekundenschnelle</p>
-<p><strong>Provisionsmodell:</strong></p>
-<p>Hauptprodukt - 50% Provision - Preis 67 €<br />Upsell 1  - 50% Provision - Preis: 27€<br />Upsell 2  - 50% Provision - Preis: 27€</p>
-<p>Mit einem einzigen Verkauf kannst du über 60€ verdienen!</p>
+**Vendor's marketplace description:** Endlich: 10x schneller Inhalte für dein Online-Marketing erstellen Der ultimative Chat GPT-Video Kurs 2023 mit neuesten KI-Strategien hilft dir mühelos E-Mails, Blogartikel, Werbetexte und Video-Skripte zu erstellen. Mit 1 7+ Schritt für Schritt Videos und über 1.000 Inspirationen und Prompts für hochwertige Inhalte in Sekundenschnelle Provisionsmodell: Hauptprodukt - 50% Provision - Preis 67 € Upsell 1 - 50% Provision - Preis: 27€ Upsell 2 - 50% Provision - Preis: 27€ Mit einem einzigen Verkauf kannst du über 60€ verdienen!
 
 ## 2. Links
 

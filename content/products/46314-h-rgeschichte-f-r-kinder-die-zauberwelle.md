@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Infos für Affiliates:</h3>
-<p>ZauberOhr erstellt liebevolle Hörspiele für Kinder, die ihr Selbstbewusstsein stärken und so für entspanntere Eltern sorgen.</p>
-<p>Unsere Hörgeschichten basieren auf langjähriger Erfahrung als Therapeutinnen und setzen direkt am Unterbewusstsein des Kindes an, so dass es spielerisch zu mehr Lebensqualität kommt.</p>
-<h3>Werbetext aus Bestellformular:</h3>
-<div>
-<div>
-<p>Gestresste Eltern = gestresste Kinder. Wir wissen das und haben ein schlechtes Gewissen. Dem Kreislauf zu entfliehen ist ein schwieriges Unterfangen. Gut, wenn wir die Möglichkeiten nutzen und unsere Kinder unterstützen, gelassen zu bleiben, wenn Mama und Papa mal wieder dem Stresspegel unterliegen.</p>
-<p>Unsere Zauberwelle bietet Kindern die einzigartige Chance, sich trotz elterlichem Stress, von der Welle der Entspannung tragen zu lassen.</p>
-</div>
-</div>
+**Vendor's marketplace description:** Infos für Affiliates: ZauberOhr erstellt liebevolle Hörspiele für Kinder, die ihr Selbstbewusstsein stärken und so für entspanntere Eltern sorgen. Unsere Hörgeschichten basieren auf langjähriger Erfahrung als Therapeutinnen und setzen direkt am Unterbewusstsein des Kindes an, so dass es spielerisch zu mehr Lebensqualität kommt. Werbetext aus Bestellformular: Gestresste Eltern = gestresste Kinder. Wir wissen das und haben ein schlechtes Gewissen. Dem Kreislauf zu entfliehen ist ein schwieriges Unterfangen. Gut, wenn wir die Möglichkeiten nutzen und unsere Kinder unterstützen, gelassen zu bleiben, wenn Mama und Papa mal wieder dem Stresspegel unterliegen. Unsere Zauberwelle bietet Kindern die einzigartige Chance, sich trotz elterlichem Stress, von der Welle der Entspannung tragen zu lassen.
 
 ## 2. Links
 

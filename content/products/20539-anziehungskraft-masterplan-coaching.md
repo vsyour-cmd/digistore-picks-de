@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Online-Videokurs über 4 Module</strong> (Über 7 Stunden Spieldauer)</p>
-<p><strong>Starke Konvertierung!<br /></strong>Verkauf über tägliches Webinar (Kann jederzeit beworben werden)</p>
-<table style="width:393px;">
-<tbody>
-<tr>
-<td style="width:81px;vertical-align:top;"><strong>1. Modul:</strong></td>
-<td style="width:300px;"><strong>Wunschblockaden auflösen</strong><br />Die Handbremse lösen, negative Energien loslassen und die Bahn freimachen für Ihre Wünsche.</td>
-</tr>
-<tr>
-<td style="width:81px;vertical-align:top;"><strong>2. Modul:</strong></td>
-<td style="width:300px;"><strong>Transformation vom Zweifler zum Schöpfer</strong><br />Verhindernde Glaubenssätze in fördernde umwandeln und Ihr Unterbewusstsein auf Ihre Wünsche programmieren.</td>
-</tr>
-<tr>
-<td style="width:81px;vertical-align:top;"><strong>3. Modul:</strong></td>
-<td style="width:300px;"><strong>Maximale Manifestierungs-Energie aufbauen</strong><br />Sie erfahren die entschiedenden Voraussetzungen, um erfolgreich zu manifestieren und wie Sie Ihre Wünsche optimal mit Energie aufladen. Zudem erhlaten Sie kraftvolle Techniken.</td>
-</tr>
-<tr>
-<td style="width:81px;vertical-align:top;"><strong>4. Modul:</strong></td>
-<td style="width:300px;"><strong>Positives Resonanzfeld aufbauen</strong><br />Wie Sie sich ein hohes Schwingungsfeld aufbauen in auf die Frequenz Ihrer Wünsche kommen</td>
-</tr>
-</tbody>
-</table>
+**Vendor's marketplace description:** Online-Videokurs über 4 Module (Über 7 Stunden Spieldauer) Starke Konvertierung! Verkauf über tägliches Webinar (Kann jederzeit beworben werden) 1. Modul: Wunschblockaden auflösen Die Handbremse lösen, negative Energien loslassen und die Bahn freimachen für Ihre Wünsche. 2. Modul: Transformation vom Zweifler zum Schöpfer Verhindernde Glaubenssätze in fördernde umwandeln und Ihr Unterbewusstsein auf Ihre Wünsche programmieren. 3. Modul: Maximale Manifestierungs-Energie aufbauen Sie erfahren die entschiedenden Voraussetzungen, um erfolgreich zu manifestieren und wie Sie Ihre Wünsche optimal mit Energie aufladen. Zudem erhlaten Sie kraftvolle Techniken. 4. Modul: Positives Resonanzfeld aufbauen Wie Sie sich ein hohes Schwingungsfeld aufbauen in auf die Frequenz Ihrer Wünsche kommen
 
 ## 2. Links
 

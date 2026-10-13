@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Hochkonvertierende Funnels für dein Business</strong></p>
-<p><strong>Sichere dir jetzt 5+ conversionsstarke Landing Pages inkl. Funnels, die dir mehr Leads und Sales bringen, ohne ständig Geld liegen zu lassen.</strong></p>
-<p>Das bekommst du alles in diesem Paket:</p>
-<p>5+ fix und fertige hochkonvertierende Landing Pages + Funnels, inkl. Upsell- und Dankesseite</p>
-<p>Einfach integrierbar, mit nur 1 Klick sind sie in deinem System und du kannst direkt beginnen, Leads und Sales zu generieren</p>
-<p>Einfach anpassbar für jedes Produkt und Business dank Variablen und Lücken</p>
-<p>Mit 1-Klick importiert und anpassbar</p>
+**Vendor's marketplace description:** Hochkonvertierende Funnels für dein Business Sichere dir jetzt 5+ conversionsstarke Landing Pages inkl. Funnels, die dir mehr Leads und Sales bringen, ohne ständig Geld liegen zu lassen. Das bekommst du alles in diesem Paket: 5+ fix und fertige hochkonvertierende Landing Pages + Funnels, inkl. Upsell- und Dankesseite Einfach integrierbar, mit nur 1 Klick sind sie in deinem System und du kannst direkt beginnen, Leads und Sales zu generieren Einfach anpassbar für jedes Produkt und Business dank Variablen und Lücken Mit 1-Klick importiert und anpassbar
 
 ## 2. Links
 

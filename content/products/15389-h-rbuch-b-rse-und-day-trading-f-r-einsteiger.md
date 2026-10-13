@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4 style="text-align:center;"><span style="color:#ff0000;"> <strong>Durch Videokurs Upsell <br />(Preis: 92 € und 197 €) <br />höhere Provisionsmöglichkeiten! <br /></strong></span></h4>
-<h4><span style="color:#800000;">• über 2 Stunden vollgepackt mit handfesten Börsenwissen, </span><br /><span style="color:#800000;"> praktischen Tipps und echten Erfahrungen</span></h4>
-<div>
-<h4><span style="color:#800000;">• Tradingstrategien</span></h4>
-<h4><span style="color:#800000;">• Chartanalysen</span></h4>
-<h4><span style="color:#800000;">• Trading-Regeln</span></h4>
-<h4><span style="color:#800000;">• Emotionale Faktoren</span></h4>
-<h4><span style="color:#800000;">• praktische Tipps zum Trader-Leben </span></h4>
-<p> </p>
-<h4 style="text-align:center;"><span style="color:#800000;">Landingpage mit Hörproben, Inhaltsverzeichnis und Video.</span><br /><br /><span style="color:#800000;">Börsenerfahrene Sprecher mit Praxisbezug. </span></h4>
-<h4 style="text-align:center;"><span style="color:#800000;">Der Hauptsprecher lebt von der Börse. </span></h4>
-</div>
+**Vendor's marketplace description:** Durch Videokurs Upsell (Preis: 92 € und 197 €) höhere Provisionsmöglichkeiten! • über 2 Stunden vollgepackt mit handfesten Börsenwissen, praktischen Tipps und echten Erfahrungen • Tradingstrategien • Chartanalysen • Trading-Regeln • Emotionale Faktoren • praktische Tipps zum Trader-Leben Landingpage mit Hörproben, Inhaltsverzeichnis und Video. Börsenerfahrene Sprecher mit Praxisbezug. Der Hauptsprecher lebt von der Börse.
 
 ## 2. Links
 

@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Schwierigste am Abnehmen kommt danach: das Gewicht halten. Der Setwert-Halteplan ist ein 12-Wochen-Selbstlernprogramm genau für diese Phase.</p>
-<p>Was drin ist:</p>
-<ul>
-<li>12 Wochen, jede Woche eine kurze Lektion, ein Menü mit Einkaufsliste und ein Training für zuhause</li>
-<li>32 eiweißreiche Rezepte mit Fotos</li>
-<li>Halte-Zone, Wochenschnitt und Fortschritt direkt in der App</li>
-<li>Web-App für Handy und PC, kein Download nötig</li>
-</ul>
-<p>Preis: 99 € einmalig, kein Abo. Provision: 40 %.</p>
-<p>Zielgruppe: Menschen im deutschsprachigen Raum, die abgenommen haben (mit Diät, Sport oder nach einer Abnehmspritze) und ihr Gewicht jetzt halten wollen. Passt zu Blogs, Pinterest, Instagram und Newslettern rund um Abnehmen, Ernährung, Rezepte und Fitness.</p>
-<p>Werbemittel (Pins, App-Bilder, Texte zum Kopieren): <a href="https://setwert.de/partner/">https://setwert.de/partner/</a></p>
-<p>Kostenloser Einstieg für deine Leser: der Halte-Check auf setwert.de rechnet Kalorien- und Eiweißbedarf nach dem Abnehmen aus.</p>
-<p>Wichtig: Keine Werbung für Abnehmspritzen oder Medikamente, keine Heilversprechen, kein Coaching versprechen (Selbstlernprogramm ohne persönliche Betreuung), kein Spam, keine Suchanzeigen auf den Markennamen «Setwert».</p>
+**Vendor's marketplace description:** Das Schwierigste am Abnehmen kommt danach: das Gewicht halten. Der Setwert-Halteplan ist ein 12-Wochen-Selbstlernprogramm genau für diese Phase. Was drin ist: 12 Wochen, jede Woche eine kurze Lektion, ein Menü mit Einkaufsliste und ein Training für zuhause 32 eiweißreiche Rezepte mit Fotos Halte-Zone, Wochenschnitt und Fortschritt direkt in der App Web-App für Handy und PC, kein Download nötig Preis: 99 € einmalig, kein Abo. Provision: 40 %. Zielgruppe: Menschen im deutschsprachigen Raum, die abgenommen haben (mit Diät, Sport oder nach einer Abnehmspritze) und ihr Gewicht jetzt halten wollen. Passt zu Blogs, Pinterest, Instagram und Newslettern rund um Abnehmen, Ernährung, Rezepte und Fitness. Werbemittel (Pins, App-Bilder, Texte zum Kopieren): https://setwert.de/partner/ Kostenloser Einstieg für deine Leser: der Halte-Check auf setwert.de rechnet Kalorien- und Eiweißbedarf nach dem Abnehmen aus. Wichtig: Keine Werbung für Abnehmspritzen oder Medikamente, keine Heilversprechen, kein Coaching versprechen (Selbstlernprogramm ohne persönliche Betreuung), kein Spam, keine Suchanzeigen auf den Markennamen «Setwert».
 
 ## 2. Links
 

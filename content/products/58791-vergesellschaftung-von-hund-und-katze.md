@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Vergesellschaftung von Hund &amp; Katze</h2>
-<p>Ein ideales Online-Trainingsprogramm für alle Tierhalter, bei denen <strong>Hund und Katze künftig gemeinsam leben sollen</strong>oder die erste Zusammenführung bereits schwierig verlaufen ist.</p>
-<p>Das Programm zeigt Schritt für Schritt, wie Hund und Katze <strong>sicher, behutsam und mit dem nötigen Verständnis für beide Tierarten aneinander gewöhnt werden können</strong>.</p>
-<p>Enthalten sind <strong>Trainingsvideos, praktische Anleitungen und ein klarer Woche-für-Woche-Trainingsplan</strong> für mehr Sicherheit, Vertrauen und ein entspannteres Zusammenleben.</p>
-<p><strong>Ideal für Affiliates mit einer Community rund um Katzen, Hunde, Haustiere, Tierverhalten und Mehrtierhaushalte.</strong></p>
+**Vendor's marketplace description:** Vergesellschaftung von Hund & Katze Ein ideales Online-Trainingsprogramm für alle Tierhalter, bei denen Hund und Katze künftig gemeinsam leben sollen oder die erste Zusammenführung bereits schwierig verlaufen ist. Das Programm zeigt Schritt für Schritt, wie Hund und Katze sicher, behutsam und mit dem nötigen Verständnis für beide Tierarten aneinander gewöhnt werden können . Enthalten sind Trainingsvideos, praktische Anleitungen und ein klarer Woche-für-Woche-Trainingsplan für mehr Sicherheit, Vertrauen und ein entspannteres Zusammenleben. Ideal für Affiliates mit einer Community rund um Katzen, Hunde, Haustiere, Tierverhalten und Mehrtierhaushalte.
 
 ## 2. Links
 

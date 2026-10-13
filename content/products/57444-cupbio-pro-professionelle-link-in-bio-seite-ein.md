@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>CUPBIO PRO - Professionelle Link-in-Bio-Seite | Einmalzahlung</p>
+**Vendor's marketplace description:** CUPBIO PRO - Professionelle Link-in-Bio-Seite | Einmalzahlung
 
 ## 2. Links
 

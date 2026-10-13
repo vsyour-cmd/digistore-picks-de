@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Das perfekte Feierabend-Business“</strong></p>
-<p>Wie du nebenbei ein digitales Einkommen aufbaust, ohne deinen Job zu kündigen – Sicheres Gehalt behalten und trotzdem ein digitales Einkommen aufbauen – Abend für Abend, Schritt für Schritt. Dieser Ratgeber zeigt dir, wie du neben dem Hauptjob ein realistisches Nebeneinkommen startest, ohne dich zu überfordern.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 12,48 € pro Verkauf (Verkaufspreis 24,95 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Die richtige Einstellung: nebenbei statt Hauruck</li>
-<li>Deine Geschäftsidee finden – realistisch und zu dir passend</li>
-<li>Die besten Feierabend-Business-Modelle im Überblick</li>
-<li>Zeitmanagement: ein Business in 5–10 Stunden pro Woche</li>
-<li>Der erste Euro: dein Angebot starten und verkaufen</li>
-<li>Rechtliches, Steuern und der Job: das musst du beachten</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Das perfekte Feierabend-Business“ Wie du nebenbei ein digitales Einkommen aufbaust, ohne deinen Job zu kündigen – Sicheres Gehalt behalten und trotzdem ein digitales Einkommen aufbauen – Abend für Abend, Schritt für Schritt. Dieser Ratgeber zeigt dir, wie du neben dem Hauptjob ein realistisches Nebeneinkommen startest, ohne dich zu überfordern. Warum dieses E-Book bewerben? 50 % Provision – ca. 12,48 € pro Verkauf (Verkaufspreis 24,95 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Die richtige Einstellung: nebenbei statt Hauruck Deine Geschäftsidee finden – realistisch und zu dir passend Die besten Feierabend-Business-Modelle im Überblick Zeitmanagement: ein Business in 5–10 Stunden pro Woche Der erste Euro: dein Angebot starten und verkaufen Rechtliches, Steuern und der Job: das musst du beachten
 
 ## 2. Links
 

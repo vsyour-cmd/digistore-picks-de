@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Mit 106 Videos – über 7 Stunden Lehrmaterial!</h4>
-<p>Das Lernpaket enthält mehr als 100 hochaufgelöste MP4-Videos.</p>
-<p>Das heißt, die Videos und das PDF-Buch sind auf ALLEN  Geräten gleichzeitig zu kopieren und so kann man optimal und flexibel auf der Gitarre lernen!</p>
-<p>Ohne Notenkenntnisse oder anderes musikalisches Vorwissen kann der Schüler direkt loslegen. Der ideale Einstieg in die Welt des Gitarrenspiels - ohne Notenkenntnisse oder musikalisches Vorwissen.</p>
-<p><strong>• Die Lehrvideos stehen sofort zur Verfügung</strong><strong><br /></strong></p>
-<p><strong>• Über 7 Stunden Lehrmaterial!</strong></p>
-<p><strong>• PDF Download zu jedem Video</strong></p>
-<p><strong>• 50 % Provision</strong></p>
-<p><strong>• Schnelle Hilfe über email</strong></p>
+**Vendor's marketplace description:** Mit 106 Videos – über 7 Stunden Lehrmaterial! Das Lernpaket enthält mehr als 100 hochaufgelöste MP4-Videos. Das heißt, die Videos und das PDF-Buch sind auf ALLEN Geräten gleichzeitig zu kopieren und so kann man optimal und flexibel auf der Gitarre lernen! Ohne Notenkenntnisse oder anderes musikalisches Vorwissen kann der Schüler direkt loslegen. Der ideale Einstieg in die Welt des Gitarrenspiels - ohne Notenkenntnisse oder musikalisches Vorwissen. • Die Lehrvideos stehen sofort zur Verfügung • Über 7 Stunden Lehrmaterial! • PDF Download zu jedem Video • 50 % Provision • Schnelle Hilfe über email
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p> </p>
-<p>Der <strong>Live-Preisvergleich</strong> bietet den Gästen Ihrer Kunden einen schnellen Überblick über die unterschiedlichen Preise Ihrer Zimmer in verschiedenen Buchungskanälen. Unser Tool lässt sich<strong> in wenigen Minuten einrichten</strong> und kinderleicht in ihre Webseite integrieren. Danach geht alles ganz automatisch.</p>
-<p>Ratenparität ist in Deutschland kein Thema mehr, auch in vielen anderen europäischen Ländern sind die Preise für ein Hotelzimmer nun individuell je Buchungskanal gestaltbar.</p>
-<ul><li>Steigern Sie die Zahl Ihrer Buchungen.</li>
-<li>Erhöhen Sie Ihre Direktbuchungsrate.</li>
-<li>Passen Sie das Design an Ihre Webseite an.</li>
-</ul><p><strong>Sie erhalten 20% monatliche oder quartalsweise Provision.</strong></p>
-<p><strong>Im Upsell bieten wir nach dem Kauf direkt weitere, hochwertigere Produkte an, an denen Sie ebenfalls beteiligt werden!</strong></p>
+**Vendor's marketplace description:** Der Live-Preisvergleich bietet den Gästen Ihrer Kunden einen schnellen Überblick über die unterschiedlichen Preise Ihrer Zimmer in verschiedenen Buchungskanälen. Unser Tool lässt sich in wenigen Minuten einrichten und kinderleicht in ihre Webseite integrieren. Danach geht alles ganz automatisch. Ratenparität ist in Deutschland kein Thema mehr, auch in vielen anderen europäischen Ländern sind die Preise für ein Hotelzimmer nun individuell je Buchungskanal gestaltbar. Steigern Sie die Zahl Ihrer Buchungen. Erhöhen Sie Ihre Direktbuchungsrate. Passen Sie das Design an Ihre Webseite an. Sie erhalten 20% monatliche oder quartalsweise Provision. Im Upsell bieten wir nach dem Kauf direkt weitere, hochwertigere Produkte an, an denen Sie ebenfalls beteiligt werden!
 
 ## 2. Links
 

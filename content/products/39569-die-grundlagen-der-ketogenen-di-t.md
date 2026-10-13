@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verkaufe unseren Abnehm E-Book Highlight <span style="background-color:#ffff00;">"Keto Kickstarter/Grundlagen"</span> </strong></p>
-<p>✅ Was ist die ketogene Diät?</p>
-<div>
-<p>✅ Vorteile einer ketogenen Diät</p>
-<p>✅ Wer sollte keine ketogene Diät machen?</p>
-<p>✅ Die Ketogene Ernährung</p>
-<p>✅ Exkurs: intermittierendes Fasten</p>
-<p>✅ Nebenwirkungen der ketogenen Diät</p>
-<p>✅ Anzeichen für Ketose</p>
-<p>✅ Deine persönliche ketogene Diät</p>
-<p>✅ 5BS? ist natürlich erlaubt</p>
-</div>
-<p><span style="background-color:#ffff00;"><strong>Du bekommst 80% der Netto Provisonen für das hochwertige E-Book (ca. 2,50 Euro)</strong></span></p>
-<p> </p>
+**Vendor's marketplace description:** Verkaufe unseren Abnehm E-Book Highlight "Keto Kickstarter/Grundlagen" ✅ Was ist die ketogene Diät? ✅ Vorteile einer ketogenen Diät ✅ Wer sollte keine ketogene Diät machen? ✅ Die Ketogene Ernährung ✅ Exkurs: intermittierendes Fasten ✅ Nebenwirkungen der ketogenen Diät ✅ Anzeichen für Ketose ✅ Deine persönliche ketogene Diät ✅ 5BS? ist natürlich erlaubt Du bekommst 80% der Netto Provisonen für das hochwertige E-Book (ca. 2,50 Euro)
 
 ## 2. Links
 

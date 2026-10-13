@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>+ über 3 Stunden Seminar aufgezeichnet </p>
-<p>+ verschiedene Pferdepersönlichkeiten</p>
-<p>+ verschiedene Menschenpersönlichkeiten</p>
-<p>+ eine Alternative für das Liveseminar</p>
-<p> </p>
-<p>Ausführliche Infos <a href="https://www.christiane-goebel.de/Horsemanshipkurse/Einblick-in-die-Pferdepsyche/" target="_blank" rel="noreferrer noopener">hier(klicken)</a> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** + über 3 Stunden Seminar aufgezeichnet + verschiedene Pferdepersönlichkeiten + verschiedene Menschenpersönlichkeiten + eine Alternative für das Liveseminar Ausführliche Infos hier(klicken)
 
 ## 2. Links
 

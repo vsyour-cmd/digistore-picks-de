@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Herz &amp; Energie Kongress ist ein Evergreen Kongress</p>
-<p>Viele Menschen erleben gerade eine Welt im Chaos, mit Ängsten und größten Herausforderungen.</p>
-<p><strong>Der Wunsch nach Frieden, Freiheit, Gesundheit und Wohlstand für alle Menschen wird immer stärker.</strong></p>
-<p>Dieser Wunsch kommt tief aus <strong>Deinem Herzen</strong> und dort ist der Ort, wo Neues entstehen darf.</p>
-<p>Beim <strong>Herz &amp; Energie Kongress </strong>geben Dir 30 Herzmentoren der Neuen Zeit die allerbeste Inspiration und Unterstützung auf diesem Weg in dein erfülltes Leben. </p>
-<p>Sei beim <strong>Herz &amp; Energie Kongress</strong> dabei und entdecke die Heilkraft der Herzmagie!</p>
-<p>Wie du das machst, zeigen Dir folgende Experten: </p>
-<p>Andreas Goldemann, Anna Nguyen, Anna-Leke von Langendorff, Anneli Eick, Armin Kittl, Bettina und Tino von Onitani, Britta Gerdes-Petersen, Carmen Duffner, Claus-Stefan Duffner, Dragica Schadegg, Gabi und Klaus Brill, Heike Engel, Joschi Haunsperger, Karl Gamper, Martina Haller, Ines Koban, Matthias Langwasser, Mark Oswald, Norbert Hofer, Olaf Schild, Patric Pedrazzoli, Samuel Kegel, Sonja Ariel von Staden, Stefanie Bruns, Siranus Sven von Staden, Susanne Vogelsang, Sebastian Maier, Steffen Padberg, Ute Ullrich und Thomas Young.</p>
-<p>Das VIP Paket &amp; Bundle enthält Onlinekurse und Videos der Sprecher im Wert von über 6404€.</p>
-<p>Du erhältst 50% Affiliate Provision auf das Paket.</p>
-<p>Banner, Trailer &amp; Texte findest Du auf der Partnerprogramm Seite.</p>
-<p>Vielen herzlichen Dank für Deine Unterstützung.</p>
+**Vendor's marketplace description:** Herz & Energie Kongress ist ein Evergreen Kongress Viele Menschen erleben gerade eine Welt im Chaos, mit Ängsten und größten Herausforderungen. Der Wunsch nach Frieden, Freiheit, Gesundheit und Wohlstand für alle Menschen wird immer stärker. Dieser Wunsch kommt tief aus Deinem Herzen und dort ist der Ort, wo Neues entstehen darf. Beim Herz & Energie Kongress geben Dir 30 Herzmentoren der Neuen Zeit die allerbeste Inspiration und Unterstützung auf diesem Weg in dein erfülltes Leben. Sei beim Herz & Energie Kongress dabei und entdecke die Heilkraft der Herzmagie! Wie du das machst, zeigen Dir folgende Experten: Andreas Goldemann, Anna Nguyen, Anna-Leke von Langendorff, Anneli Eick, Armin Kittl, Bettina und Tino von Onitani, Britta Gerdes-Petersen, Carmen Duffner, Claus-Stefan Duffner, Dragica Schadegg, Gabi und Klaus Brill, Heike Engel, Joschi Haunsperger, Karl Gamper, Martina Haller, Ines Koban, Matthias Langwasser, Mark Oswald, Norbert Hofer, Olaf Schild, Patric Pedrazzoli, Samuel Kegel, Sonja Ariel von Staden, Stefanie Bruns, Siranus Sven von Staden, Susanne Vogelsang, Sebastian Maier, Steffen Padberg, Ute Ullrich und Thomas Young. Das VIP Paket & Bundle enthält Onlinekurse und Videos der Sprecher im Wert von über 6404€. Du erhältst 50% Affiliate Provision auf das Paket. Banner, Trailer & Texte findest Du auf der Partnerprogramm Seite. Vielen herzlichen Dank für Deine Unterstützung.
 
 ## 2. Links
 

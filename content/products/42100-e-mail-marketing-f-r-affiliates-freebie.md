@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong><span style="color:#3366ff;">Einzigartiges Freebie</span> - sammle Leads wie am Schnürchen!</strong></h2>
-<p> </p>
-<p><strong>Verschenke</strong> mein eBook oder nutze es als Leadmagneten um deine Leads zu sammeln! Erhalte außerdem <strong>50% Provision</strong> pro Sale, auch bei <strong>Order Bump + Up- &amp; Downsells!</strong></p>
-<p><span style="color:#ff0000;"><strong><em>Über 100€</em> Provision beim Upsell Durchlauf möglich!</strong></span></p>
-<p> </p>
-<p><strong>Das erwartet dich:</strong></p>
-<p><strong>✅ 50% Provision</strong> pro Sale, auch bei <strong>Order Bump + Up- &amp; Downsells!</strong></p>
-<p><strong>✅ 2nd-Level-Provisionen,</strong> dank Partner-wirbt-Partner Progamm!</p>
-<p><strong>✅ Wettbewerbe und Events</strong>, mit tollen Preisen, höheren Provisonen etc.!</p>
-<p>✅ <strong>Lifetime-Provision!</strong><em><br /></em></p>
-<p>✅ <strong>fertige Vorlagen und Werbemittel!</strong></p>
-<p>Dieses eBook beinhaltet alles was nötig ist, um ein professionelles E-Mail Marketing aufzubauen und zu betreiben! Starker Mehrwert und daher sehr beliebt!</p>
-<p> </p>
-<h2><strong>E-Mail Marketing für Affiliate-Starter<br /></strong></h2>
-<p>✔️ <strong>Alles Wichtige über das E-Mail Marketing, dessen Vorteile  &amp; Funktionen!</strong></p>
-<p><strong>✔️ </strong><strong>Professionelles E-Mail Marketing in einfachen Worten und Step by Step erklärt!</strong><strong><br /></strong></p>
-<p><strong>✔️ Spare Wochen an Zeit &amp; Arbeit! Nutze diese Abkürzung und starte durch wie eine Rakete!<br /></strong></p>
-<p><strong>✔️ <span style="color:#ff0000;">*BONUS</span> -  Die besten Strategien zur Kundengewinnung zum sofort loslegen!<br /></strong></p>
-<p> </p>
-<p>Deine Kunden werden dankbar sein, dass Du ihnen diesen kostenlosen Mehrwert an die Hand gibst!</p>
-<p> </p>
-<p style="text-align:center;"><a href="https://kb-om.com/affiliate-support-seite/" target="_blank" rel="noreferrer noopener"><span style="background-color:#ff0000;"><strong>Jetzt Partner werden!</strong></span></a></p>
+**Vendor's marketplace description:** Einzigartiges Freebie - sammle Leads wie am Schnürchen! Verschenke mein eBook oder nutze es als Leadmagneten um deine Leads zu sammeln! Erhalte außerdem 50% Provision pro Sale, auch bei Order Bump + Up- & Downsells! Über 100€ Provision beim Upsell Durchlauf möglich! Das erwartet dich: ✅ 50% Provision pro Sale, auch bei Order Bump + Up- & Downsells! ✅ 2nd-Level-Provisionen, dank Partner-wirbt-Partner Progamm! ✅ Wettbewerbe und Events , mit tollen Preisen, höheren Provisonen etc.! ✅ Lifetime-Provision! ✅ fertige Vorlagen und Werbemittel! Dieses eBook beinhaltet alles was nötig ist, um ein professionelles E-Mail Marketing aufzubauen und zu betreiben! Starker Mehrwert und daher sehr beliebt! E-Mail Marketing für Affiliate-Starter ✔️ Alles Wichtige über das E-Mail Marketing, dessen Vorteile & Funktionen! ✔️ Professionelles E-Mail Marketing in einfachen Worten und Step by Step erklärt! ✔️ Spare Wochen an Zeit & Arbeit! Nutze diese Abkürzung und starte durch wie eine Rakete! ✔️ *BONUS - Die besten Strategien zur Kundengewinnung zum sofort loslegen! Deine Kunden werden dankbar sein, dass Du ihnen diesen kostenlosen Mehrwert an die Hand gibst! Jetzt Partner werden!
 
 ## 2. Links
 

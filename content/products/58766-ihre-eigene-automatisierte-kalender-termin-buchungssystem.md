@@ -41,60 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<h1><span style="color:#993300;"><strong>NIE MEHR TERMINE – VERPASSEN</strong></span></h1>
-<div><span style="color:#993300;"><strong> </strong></span></div>
-</div>
-</div>
-<div>
-<div>
-<pre><span style="color:#993300;"><strong>Sichern Sie Sich </strong><strong>Ihre Termin Buchungssystem - Ich erstelle Ihre Kalender mit bis 10 Events </strong></span></pre>
-</div>
-</div>
-<div>
-<div>
-<p><span style="color:#993300;">Nur mit 450<em>€</em> </span></p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div> </div>
-</div>
-</div>
-</div>
-<div>
-<ul>
-<li>#0 Diese Preis Für 1 Person und bis 10 Events</li>
-<li>#1 Inklusiv 1 Page erstellen für Ihre System</li>
-<li>#2 Upgraden für mehr Personen und Events ja ist möglich</li>
-<li>#3 Software Abonnementgebühren Ja sehr niedrig</li>
-<li>#4 Auf Ihrer eigenen Website, nicht auf einer Plattform</li>
-<li>#5 3 Erinnerungen (vor dem Termin)</li>
-<li>#6 1 Email (nach dem Termin)</li>
-<li>#7 Stornierungen –und automatische Änderungen</li>
-<li>#8 Anbindung mit Google Kalender oder andere</li>
-<li>#9 Anbindung an Zoom, Teams, GoToMeeting (optional)</li>
-<li>#10 Felder/Formulare/Fragen zusätzlich &amp; Datenerfassung</li>
-<li>#11 Synchronisierung mit anderer Software, möglich</li>
-<li>#12 Pflege : Ja möglich zusätzlich kostet</li>
-<li> </li>
-</ul>
-<p> </p>
-<ul>
-<li>Schauen Sie hier unsere Video, was können wir für Euch tun sehr günstig</li>
-</ul>
-</div>
-</div>
-<div>
-<div>
-<p> </p>
-</div>
-</div>
+**Vendor's marketplace description:** NIE MEHR TERMINE – VERPASSEN Sichern Sie Sich Ihre Termin Buchungssystem - Ich erstelle Ihre Kalender mit bis 10 Events Nur mit 450 € #0 Diese Preis Für 1 Person und bis 10 Events #1 Inklusiv 1 Page erstellen für Ihre System #2 Upgraden für mehr Personen und Events ja ist möglich #3 Software Abonnementgebühren Ja sehr niedrig #4 Auf Ihrer eigenen Website, nicht auf einer Plattform #5 3 Erinnerungen (vor dem Termin) #6 1 Email (nach dem Termin) #7 Stornierungen –und automatische Änderungen #8 Anbindung mit Google Kalender oder andere #9 Anbindung an Zoom, Teams, GoToMeeting (optional) #10 Felder/Formulare/Fragen zusätzlich & Datenerfassung #11 Synchronisierung mit anderer Software, möglich #12 Pflege : Ja möglich zusätzlich kostet Schauen Sie hier unsere Video, was können wir für Euch tun sehr günstig
 
 ## 2. Links
 

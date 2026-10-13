@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Hexenmeister-Werkzeug!</strong></p>
-<p>Dieses digitale Paket enthält eine Software, mit der Sie unhörbare Botschaften fürs Unterbewusstsein herstellen:</p>
-<p>Ob gesprochene Affirmationen, Afformationen oder Suggestionen - sie werden auf eine Weise unhörbar gemacht, dass sie vom Unterbewusstsein trotzdem aufgenommen und verarbeitet werden.</p>
-<p>Damit können Sie sich nun in aller RUHE stundenlang, tagelang oder wochenlang auf die erfolgreiche Erreichung Ihrer Ziele programmieren. </p>
-<p> </p>
-<p><strong>Der Anbieter verkauft dieses Produkt kontinuierlich bereits seit dem Jahr 2008... Ein Long-Seller!</strong></p>
-<p>Die Software läuft auf Windows- und auf Mac-Computern und Laptops - NICHT jedoch auf mobilen Geräten wie Smartphones und Ipads.</p>
-<p>Die mit dem Programm erstellten unhörbaren Botschaften ("Silent Subiliminals") hingegen lassen sich mit jedem Gerät abspielen, das Musik abspielen kann (also auch Smartphones und iPads).</p>
-<p> </p>
-<p><strong>Inhalte:</strong> </p>
-<ul>
-<li>Silent Subliminals Effekt (Software)</li>
-<li>Silent Subliminals Benutzerhandbuch Windows/Mac</li>
-<li>inkl. Updates und Produktsupport für 2 Jahre</li>
-<li>Marschroute (inkl. "Wie fange ich an?")</li>
-<li>E-Book „Leitfaden für Affirmationen.“</li>
-<li>E-Book „Die Aff(o)rmations-Taktik."</li>
-<li>E-Book „Die ULTRA-Methode der Selbstprogrammierung"</li>
-<li>E-Book „Die zehn hinterlistigen Fallen.“</li>
-<li>7 fertige Suggestionen zum Üben (mp3)</li>
-<li>Sofort-Zugang zum kompletten E-Mail-Kurs</li>
-</ul>
-<p><strong>BONUS:</strong> 2 Neurostreams™ - <em>Die Zukunft schauen</em> &amp; <em>Co-Creation Galaxie</em> (mp3)</p>
-<p>Sofort-Download (ca. 170 MB).</p>
-<p>30 Tage Geld-zurück-Garantie.</p>
+**Vendor's marketplace description:** Hexenmeister-Werkzeug! Dieses digitale Paket enthält eine Software, mit der Sie unhörbare Botschaften fürs Unterbewusstsein herstellen: Ob gesprochene Affirmationen, Afformationen oder Suggestionen - sie werden auf eine Weise unhörbar gemacht, dass sie vom Unterbewusstsein trotzdem aufgenommen und verarbeitet werden. Damit können Sie sich nun in aller RUHE stundenlang, tagelang oder wochenlang auf die erfolgreiche Erreichung Ihrer Ziele programmieren. Der Anbieter verkauft dieses Produkt kontinuierlich bereits seit dem Jahr 2008... Ein Long-Seller! Die Software läuft auf Windows- und auf Mac-Computern und Laptops - NICHT jedoch auf mobilen Geräten wie Smartphones und Ipads. Die mit dem Programm erstellten unhörbaren Botschaften ("Silent Subiliminals") hingegen lassen sich mit jedem Gerät abspielen, das Musik abspielen kann (also auch Smartphones und iPads). Inhalte: Silent Subliminals Effekt (Software) Silent Subliminals Benutzerhandbuch Windows/Mac inkl. Updates und Produktsupport für 2 Jahre Marschroute (inkl. "Wie fange ich an?") E-Book „Leitfaden für Affirmationen.“ E-Book „Die Aff(o)rmations-Taktik." E-Book „Die ULTRA-Methode der Selbstprogrammierung" E-Book „Die zehn hinterlistigen Fallen.“ 7 fertige Suggestionen zum Üben (mp3) Sofort-Zugang zum kompletten E-Mail-Kurs BONUS: 2 Neurostreams™ - Die Zukunft schauen & Co-Creation Galaxie (mp3) Sofort-Download (ca. 170 MB). 30 Tage Geld-zurück-Garantie.
 
 ## 2. Links
 

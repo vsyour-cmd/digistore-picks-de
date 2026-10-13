@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Sprachförderprogramm, welches die Fragefähigkeit und die Einletung von Haupt- und Nebensätzen unterstützt.</p>
-<p>Miniserien, die Dein Kind schaut und durch gezielten Input Sätze und W-Fragen über den Sprachrhythmus erwirbt.</p>
+**Vendor's marketplace description:** Sprachförderprogramm, welches die Fragefähigkeit und die Einletung von Haupt- und Nebensätzen unterstützt. Miniserien, die Dein Kind schaut und durch gezielten Input Sätze und W-Fragen über den Sprachrhythmus erwirbt.
 
 ## 2. Links
 

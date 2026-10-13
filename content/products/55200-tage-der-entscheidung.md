@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Tage der Entscheidung –<br />Erfolgreich LEBEN</h1>
-<div>
-<p>DEIN Seminar, wenn es um deine persönliche Weiterentwicklung geht.</p>
-<h2>Lerne an nur 2,5 Tagen, wie du erreichbare Ziele setzt, Selbstzweifel überwindest und mit unerschöpflicher Motivation an der Realisierung deines Traumlebens arbeitest.</h2>
-<h3>Deine Lebensziele</h3>
-<div>
-<p>Entdecke deine wahren Stärken und wie du diese nutzt, um deine Lebensziele langfristig und konsequent zu erreichen.</p>
-<h3>Die besten Methoden</h3>
-<div>
-<p>Lerne die exakten Methoden, die Hunderte erfolgreiche Menschen als ihren entscheidenden Auslöser zu privatem und beruflichem Glück bezeichnen.</p>
-<h3>Dein Erfolg</h3>
-<div>
-<p>Erfahre, wie du Erfolg nicht nur planbar, sondern zur Gewohnheit machst und damit jeden Tag deinem Traumleben ein Stück näher kommst.</p>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Tage der Entscheidung – Erfolgreich LEBEN DEIN Seminar, wenn es um deine persönliche Weiterentwicklung geht. Lerne an nur 2,5 Tagen, wie du erreichbare Ziele setzt, Selbstzweifel überwindest und mit unerschöpflicher Motivation an der Realisierung deines Traumlebens arbeitest. Deine Lebensziele Entdecke deine wahren Stärken und wie du diese nutzt, um deine Lebensziele langfristig und konsequent zu erreichen. Die besten Methoden Lerne die exakten Methoden, die Hunderte erfolgreiche Menschen als ihren entscheidenden Auslöser zu privatem und beruflichem Glück bezeichnen. Dein Erfolg Erfahre, wie du Erfolg nicht nur planbar, sondern zur Gewohnheit machst und damit jeden Tag deinem Traumleben ein Stück näher kommst.
 
 ## 2. Links
 

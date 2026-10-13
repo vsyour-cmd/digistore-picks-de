@@ -41,70 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Stressbedingter Schwindel - ein Ratgeber für Betroffene</h1>
-<p> </p>
-<p>Bei ungefähr 30 – 50 Prozent der Menschen, die unter Schwindel leiden, können die Ärzte keine organische Ursache feststellen.</p>
-<p>Der Gleichgewichtssinn funktioniert hervorragend, andere Grunderkrankungen werden ausgeschlossen und doch haben die Patienten das Gefühl, der Boden wanke unter Ihnen oder der Raum würde sich um sie drehen.</p>
-<p>Sie leiden unter stressbedingtem (psychogenem) Schwindel.</p>
-<p>Besonders gefährdet sind Personen, die eine erste Schwindelattacke als besonders bedrohlich und gefährlich empfinden. Bei Ihnen besteht die Gefahr, dass es nicht bei einem Schwindelanfall bleibt, sondern dass der Schwindel immer öfter auftritt oder sich sogar zu einem Dauerschwindel entwickelt. Sie beobachten sich furchtsam und achten auf jede Körperbewegung, ob sie vielleicht schwanken oder taumeln. Jedes Unwohlsein wird ab sofort mit Angst vor einer erneuten Schwindelattacke registriert und führt zu einem Teufelskreis. Die Angst vor dem Schwindel begleitet die Betroffenen nun ständig und ist oftmals die Ursache für die nächste Schwindelattacke. </p>
-<p>Bis zur Diagnose von psychogenem Schwindel vergehen mitunter Monate bis Jahre. Für Betroffene eine quälende Zeit.</p>
-<p>Zur Angst vorm Schwindel kommen Sorgen um den Arbeitsplatz, wenn sie sich wieder krankmelden müssen und Probleme in der Partnerschaft, Familie oder mit Freunden, wenn diese Ihre Erkrankung nicht ernst nehmen. Haben Sie auch schon mal den Satz gehört: „Stell dich nicht so an!“ Für Betroffene ein Schlag, da sie nicht ernst genommen werden. In solchen Situationen wachsen die Angst und die Unsicherheit enorm. Das Befinden und die Lebensqualität werden stark eingeschränkt.</p>
-<p>Nicht nur das Familienleben und das Freizeitverhalten sind betroffen. Viele Patienten mit stressbedingtem Schwindel können Ihrer Arbeit nicht mehr in vollem Umfang nachkommen oder werden sogar arbeitsunfähig. </p>
-<p>Dieser Ratgeber bietet Ihnen eine Fülle an Informationen und Tipps, damit Sie die Entstehung des stressbedingten Schwindels nachvollziehen und sich selbst bei akuten Schwindelanfällen helfen können – für ein Leben ohne Schwindel mit mehr Lebensqualität und Leichtigkeit. </p>
-<p><strong>Format</strong>: PDF</p>
-<p><strong>Seiten</strong>: 39</p>
-<p><strong>Preis</strong>: 6,90€</p>
-<div> </div>
-<h2>Inhaltsverzeichnis:</h2>
-<ul>
-<li>Was ist Schwindel?</li>
-<li>Wie entsteht das Schwindelgefühl?</li>
-<li>Was verursacht Schwindel?</li>
-<li>Welche verschiedenen Arten von Schwindel gibt es?</li>
-<li>Checkliste: Kommt mein Schwindel vom Stress?</li>
-</ul>
-<p> </p>
-<ul>
-<li>Der stressbedingte Schwindel</li>
-<li>Wer ist von stressbedingtem Schwindel betroffen?</li>
-<li>Bilde ich mir den Schwindel vielleicht nur ein?</li>
-<li>Wie äußert sich stressbedingter Schwindel?</li>
-<li>Auswirkungen und Folgen von stressbedingtem Schwindel</li>
-</ul>
-<p> </p>
-<ul>
-<li>Schwindel: Was will mir mein Körper sagen?</li>
-<li>Schwindel: Bin ich selber schuld?</li>
-</ul>
-<p> </p>
-<ul>
-<li>Wann sollte man bei Schwindel zum Arzt gehen?</li>
-<li>Wie wird stressbedingter Schwindel behandelt?</li>
-</ul>
-<p> </p>
-<ul>
-<li>Hilfe im Akutfall</li>
-<li>Langfristige Hilfe</li>
-</ul>
-<p> </p>
-<ul>
-<li>Heiße-7 nach Dr. Schüßler bei Schwindel</li>
-<li>Homöopathie gegen Schwindel</li>
-<li>Lavendel gegen Ängste</li>
-<li>Ginseng zur Stärkung der Widerstandskräfte</li>
-</ul>
-<p> </p>
-<ul>
-<li>Besser mit Stress umgehen</li>
-<li>Wie schnell wirken Entspannungsübungen?</li>
-<li>Autogenes Training (inkl. Anleitung)</li>
-<li>Progressive Muskelentspannung (inkl. Anleitung)</li>
-<li>Meditation (inkl. Anleitung)</li>
-<li>Achtsamkeitstraining (inkl. Achtsamkeitsübung)</li>
-<li>Sport gegen stressbedingten Schwindel</li>
-</ul>
-<div> </div>
-<p> </p>
+**Vendor's marketplace description:** Stressbedingter Schwindel - ein Ratgeber für Betroffene Bei ungefähr 30 – 50 Prozent der Menschen, die unter Schwindel leiden, können die Ärzte keine organische Ursache feststellen. Der Gleichgewichtssinn funktioniert hervorragend, andere Grunderkrankungen werden ausgeschlossen und doch haben die Patienten das Gefühl, der Boden wanke unter Ihnen oder der Raum würde sich um sie drehen. Sie leiden unter stressbedingtem (psychogenem) Schwindel. Besonders gefährdet sind Personen, die eine erste Schwindelattacke als besonders bedrohlich und gefährlich empfinden. Bei Ihnen besteht die Gefahr, dass es nicht bei einem Schwindelanfall bleibt, sondern dass der Schwindel immer öfter auftritt oder sich sogar zu einem Dauerschwindel entwickelt. Sie beobachten sich furchtsam und achten auf jede Körperbewegung, ob sie vielleicht schwanken oder taumeln. Jedes Unwohlsein wird ab sofort mit Angst vor einer erneuten Schwindelattacke registriert und führt zu einem Teufelskreis. Die Angst vor dem Schwindel begleitet die Betroffenen nun ständig und ist oftmals die Ursache für die nächste Schwindelattacke. Bis zur Diagnose von psychogenem Schwindel vergehen mitunter Monate bis Jahre. Für Betroffene eine quälende Zeit. Zur Angst vorm Schwindel kommen Sorgen um den Arbeitsplatz, wenn sie sich wieder krankmelden müssen und Probleme in der Partnerschaft, Familie oder mit Freunden, wenn diese Ihre Erkrankung nicht ernst nehmen. Haben Sie auch schon mal den Satz gehört: „Stell dich nicht so an!“ Für Betroffene ein Schlag, da sie nicht ernst genommen werden. In solchen Situationen wachsen die Angst und die Unsicherheit enorm. Das Befinden und die Lebensqualität werden stark eingeschränkt. Nicht nur das Familienleben und das Freizeitverhalten sind betroffen. Viele Patienten mit stressbedingtem Schwindel können Ihrer Arbeit nicht mehr in vollem Umfang nachkommen oder werden sogar arbeitsunfähig. Dieser Ratgeber bietet Ihnen eine Fülle an Informationen und Tipps, damit Sie die Entstehung des stressbedingten Schwindels nachvollziehen und sich selbst bei akuten Schwindelanfällen helfen können – für ein Leben ohne Schwindel mit mehr Lebensqualität und Leichtigkeit. Format : PDF Seiten : 39 Preis : 6,90€ Inhaltsverzeichnis: Was ist Schwindel? Wie entsteht das Schwindelgefühl? Was verursacht Schwindel? Welche verschiedenen Arten von Schwindel gibt es? Checkliste: Kommt mein Schwindel vom Stress? Der stressbedingte Schwindel Wer ist von stressbedingtem Schwindel betroffen? Bilde ich mir den Schwindel vielleicht nur ein? Wie äußert sich stressbedingter Schwindel? Auswirkungen und Folgen von stressbedingtem Schwindel Schwindel: Was will mir mein Körper sagen? Schwindel: Bin ich selber schuld? Wann sollte man bei Schwindel zum Arzt gehen? Wie wird stressbedingter Schwindel behandelt? Hilfe im Akutfall Langfristige Hilfe Heiße-7 nach Dr. Schüßler bei Schwindel Homöopathie gegen Schwindel Lavendel gegen Ängste Ginseng zur Stärkung der Widerstandskräfte Besser mit Stress umgehen Wie schnell wirken Entspannungsübungen? Autogenes Training (inkl. Anleitung) Progressive Muskelentspannung (inkl. Anleitung) Meditation (inkl. Anleitung) Achtsamkeitstraining (inkl. Achtsamkeitsübung) Sport gegen stressbedingten Schwindel
 
 ## 2. Links
 

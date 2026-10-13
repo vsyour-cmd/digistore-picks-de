@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Digitales Haushaltsbuch für Privatpersonen und Familien in Deutschland. Excel-Vorlage für , funktioniert in Excel, LibreOffice und Google Sheets.</p>
-<p><strong>Highlights:</strong></p>
-<ul>
-<li>12 Monatsblätter mit automatischer Auswertung</li>
-<li>Sparziel-Tracking mit Fortschrittsanzeige</li>
-<li>Fixkosten-Übersicht (einmal eintragen – nie wieder vergessen)</li>
-<li>Jahresbilanz wird automatisch berechnet</li>
-</ul>
-<p><strong>Attraktive Provision</strong> · 180 Tage Cookie · Sofort-Download · Niedrige Stornoquote</p>
-<p>Fertige Werbemittel und alle Infos: <a href="https://partner.bloomgeneration.de">partner.bloomgeneration.de</a></p>
+**Vendor's marketplace description:** Digitales Haushaltsbuch für Privatpersonen und Familien in Deutschland. Excel-Vorlage für , funktioniert in Excel, LibreOffice und Google Sheets. Highlights: 12 Monatsblätter mit automatischer Auswertung Sparziel-Tracking mit Fortschrittsanzeige Fixkosten-Übersicht (einmal eintragen – nie wieder vergessen) Jahresbilanz wird automatisch berechnet Attraktive Provision · 180 Tage Cookie · Sofort-Download · Niedrige Stornoquote Fertige Werbemittel und alle Infos: partner.bloomgeneration.de
 
 ## 2. Links
 

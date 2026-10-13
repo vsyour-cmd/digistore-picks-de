@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Dunkle Psychologie – Manipulation erkennen, verstehen &amp; dich schützen</strong></p>
-<p> </p>
-<p>Tauche ein in die verborgenen Mechanismen menschlicher Beeinflussung und lerne, wie du Manipulation sofort durchschaust. Dieses E-Book zeigt dir klar und verständlich, wie Menschen unbewusst gesteuert werden und wie du die Kontrolle behältst.</p>
-<p> </p>
-<p><strong>Das erwartet dich:</strong></p>
-<p> </p>
-<ul>
-<li>
-<p>Psychologische Tricks und Manipulationstechniken einfach erklärt</p>
-</li>
-<li>
-<p>Warnsignale, die fast niemand erkennt</p>
-</li>
-<li>
-<p>Praktische Strategien, um dich zu schützen</p>
-</li>
-<li>
-<p>Mehr Selbstbewusstsein &amp; mentale Stärke im Alltag</p>
-</li>
-</ul>
-<p> </p>
-<p><strong>Für wen ist dieses Buch?</strong></p>
-<p>Für alle, die Menschen besser verstehen, sich nicht mehr ausnutzen lassen und mentale Überlegenheit entwickeln wollen.</p>
-<p> </p>
-<p><strong>Kurz gesagt:</strong></p>
-<p>Wissen, das dir im echten Leben Macht über Situationen gibt, statt Macht über dich.</p>
+**Vendor's marketplace description:** Dunkle Psychologie – Manipulation erkennen, verstehen & dich schützen Tauche ein in die verborgenen Mechanismen menschlicher Beeinflussung und lerne, wie du Manipulation sofort durchschaust. Dieses E-Book zeigt dir klar und verständlich, wie Menschen unbewusst gesteuert werden und wie du die Kontrolle behältst. Das erwartet dich: Psychologische Tricks und Manipulationstechniken einfach erklärt Warnsignale, die fast niemand erkennt Praktische Strategien, um dich zu schützen Mehr Selbstbewusstsein & mentale Stärke im Alltag Für wen ist dieses Buch? Für alle, die Menschen besser verstehen, sich nicht mehr ausnutzen lassen und mentale Überlegenheit entwickeln wollen. Kurz gesagt: Wissen, das dir im echten Leben Macht über Situationen gibt, statt Macht über dich.
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Warum Du die "Glücklichsein-Sofortmaßnahmen" unbeding promoten solltest:</strong></p>
-<ul>
-<li>Verkauf über Infomercials (Sales-Page mit hochwertigen Inhalten für Deine Leser)</li>
-<li>Upsell auf den "Glücksnavigator" (50% von 97,-€)</li>
-<li>Weiterführende Marketing-Funnels mit lukrativen Folgeprovisionen.</li>
-<li>Stark konvertierende Verkaufsseiten.</li>
-</ul>
-<p><strong>Zum Kursinhalt:</strong></p>
-<p>Die Glücklichsein-Sofortmaßnahmen sind ein dreiteiliger Videokurs mit einer Spieldauer von über 2 Stunden. Wie der Name schon verrät, bekommen die Teilnehmer die besten Tipps und Maßnahmen an die Hand, um Lebensglück per sofort zu erzeugen. Die ersten Erfolge sind die wichtigsten für die Motivation zum Weitermachen.  Das macht die Glücklichsein-Sofortmaßnahmen besonders wertvoll.</p>
-<p>Weitere Informationen zum Produkt, zu den Werbemitteln, zu den Funnels und zu lukrativen Folgeprovisionen, findest Du auf der Affiliate-Support-Seite:</p>
-<p><strong><a href="https://erfolg-intuitiv.de/partnerprogramm-gs/" target="_blank" rel="noreferrer noopener">https://erfolg-intuitiv.de/partnerprogramm-gs/</a></strong></p>
+**Vendor's marketplace description:** Warum Du die "Glücklichsein-Sofortmaßnahmen" unbeding promoten solltest: Verkauf über Infomercials (Sales-Page mit hochwertigen Inhalten für Deine Leser) Upsell auf den "Glücksnavigator" (50% von 97,-€) Weiterführende Marketing-Funnels mit lukrativen Folgeprovisionen. Stark konvertierende Verkaufsseiten. Zum Kursinhalt: Die Glücklichsein-Sofortmaßnahmen sind ein dreiteiliger Videokurs mit einer Spieldauer von über 2 Stunden. Wie der Name schon verrät, bekommen die Teilnehmer die besten Tipps und Maßnahmen an die Hand, um Lebensglück per sofort zu erzeugen. Die ersten Erfolge sind die wichtigsten für die Motivation zum Weitermachen. Das macht die Glücklichsein-Sofortmaßnahmen besonders wertvoll. Weitere Informationen zum Produkt, zu den Werbemitteln, zu den Funnels und zu lukrativen Folgeprovisionen, findest Du auf der Affiliate-Support-Seite: https://erfolg-intuitiv.de/partnerprogramm-gs/
 
 ## 2. Links
 

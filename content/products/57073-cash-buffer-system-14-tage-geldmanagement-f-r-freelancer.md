@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>Cashflow-Planung, Puffer-Aufbau und Steuer-Rücklage für Freelancer, Creator und Solo-Selbstständige.</div>
-<div> </div>
-<div>Komplettes System mit PDF-Guide, Google Sheets Vorlage, Notion-Template und 14-Tage Implementierungsplan.</div>
-<div> </div>
-<div>Themen: Finanzplanung, Geldmanagement, Selbstständige, Freelancer Finanzen, Cash-Flow, Steuer-Rücklage, Budgetierung.</div>
+**Vendor's marketplace description:** Cashflow-Planung, Puffer-Aufbau und Steuer-Rücklage für Freelancer, Creator und Solo-Selbstständige. Komplettes System mit PDF-Guide, Google Sheets Vorlage, Notion-Template und 14-Tage Implementierungsplan. Themen: Finanzplanung, Geldmanagement, Selbstständige, Freelancer Finanzen, Cash-Flow, Steuer-Rücklage, Budgetierung.
 
 ## 2. Links
 

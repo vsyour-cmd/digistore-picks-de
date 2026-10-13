@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der ultimative Fitness-Guide 2025 ist ein All-in-One Paket für alle, die Muskeln aufbauen, Fett verbrennen und ihre Ernährung optimieren wollen.</p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Der ultimative Fitness-Guide 2025 ist ein All-in-One Paket für alle, die Muskeln aufbauen, Fett verbrennen und ihre Ernährung optimieren wollen.
 
 ## 2. Links
 

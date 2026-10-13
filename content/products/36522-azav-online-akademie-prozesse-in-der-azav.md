@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Wer die AZAV beherrschen will, der muss ich mit dem Thema Prozessmanagement auseinandersetzen.</p>
-<p>Das Training leitet die Teilnehmer*innen praxisbezogen und gut nachvollziehbar durch die Welt der AZAV-Prozesse, liefert den notwendigen theoretischen Hintergrund, ohne zu akademisch zu werden und beinhaltet Übungen und viele praxisrelevante Arbeitshilfen und Beispiele. </p>
-<p> </p>
+**Vendor's marketplace description:** Wer die AZAV beherrschen will, der muss ich mit dem Thema Prozessmanagement auseinandersetzen. Das Training leitet die Teilnehmer*innen praxisbezogen und gut nachvollziehbar durch die Welt der AZAV-Prozesse, liefert den notwendigen theoretischen Hintergrund, ohne zu akademisch zu werden und beinhaltet Übungen und viele praxisrelevante Arbeitshilfen und Beispiele.
 
 ## 2. Links
 

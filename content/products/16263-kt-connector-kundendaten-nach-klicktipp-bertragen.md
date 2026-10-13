@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der KT Connector verbindet unterschiedliche Kundensysteme, wie z.B. Web-Shops, mit der Email-Marketing-Software KlickTipp.</p>
-<p>Somit gelangen Ihre Kundendaten automatisiert in KlickTipp und können von Ihnen über KlickTipp interessenbezogen automatisiert betreut werden.</p>
+**Vendor's marketplace description:** Der KT Connector verbindet unterschiedliche Kundensysteme, wie z.B. Web-Shops, mit der Email-Marketing-Software KlickTipp. Somit gelangen Ihre Kundendaten automatisiert in KlickTipp und können von Ihnen über KlickTipp interessenbezogen automatisiert betreut werden.
 
 ## 2. Links
 

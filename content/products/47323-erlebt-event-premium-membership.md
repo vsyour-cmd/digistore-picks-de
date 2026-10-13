@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<p>365 Tage zugriff auf den exklusiven Mitgliederbreich für alle Erlebt-Event Supporter.</p>
-</div>
-<div>
-<div>
-<div> </div>
-</div>
-</div>
-<ul>
-<li><strong>Hier erhältst du Zugriff auf sämtliches Bild- und Videomaterial von allen vergangenen Events.</strong>
-<div> </div>
-</li>
-<li><strong>Du kannst dir alle Keynotes der Speaker und vieles mehr anschauen.</strong>
-<div> </div>
-</li>
-</ul>
-<div>
-<ul>
-<li><strong>Als Member erhältst du außerdem immer 10% Rabatt auf deine Tickets für die Events.</strong></li>
-</ul>
-</div>
-<div>
-<p>Sichere dir jetzt deinen Zugang und werde Teil der Erlebt-Event Community!</p>
-</div>
+**Vendor's marketplace description:** 365 Tage zugriff auf den exklusiven Mitgliederbreich für alle Erlebt-Event Supporter. Hier erhältst du Zugriff auf sämtliches Bild- und Videomaterial von allen vergangenen Events. Du kannst dir alle Keynotes der Speaker und vieles mehr anschauen. Als Member erhältst du außerdem immer 10% Rabatt auf deine Tickets für die Events. Sichere dir jetzt deinen Zugang und werde Teil der Erlebt-Event Community!
 
 ## 2. Links
 

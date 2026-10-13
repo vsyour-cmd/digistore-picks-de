@@ -41,45 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Attraktives Partnerprogramm – Teamleiter-Werkzeugkasten </strong></p>
-<p><strong>(Praxisprodukt für Führungskräfte)</strong></p>
-<p>Provision</p>
-<p>35 % Provision pro Verkauf</p>
-<p>Faire Vergütung und einfache Abwicklung über Digistore24.</p>
-<p>Produkt &amp; Zielgruppe</p>
-<p>Praxisorientiertes System für Führungskräfte im operativen Alltag:</p>
-<ul>
-<li>Teamleiter</li>
-<li>Service &amp; Industrie</li>
-<li>Produktion &amp; Werkstatt</li>
-</ul>
-<p>Löst typische Probleme wie:</p>
-<ul>
-<li>fehlende Struktur</li>
-<li>Kommunikationsprobleme</li>
-<li>wiederkehrende Fehler</li>
-<li>hoher Arbeitsdruck</li>
-</ul>
-<p>Inhalt</p>
-<p>Der Teamleiter-Werkzeugkasten besteht aus 6 Modulen:</p>
-<ul>
-<li>Struktur &amp; Planung</li>
-<li>Kommunikation &amp; Übergaben</li>
-<li>Fehleranalyse</li>
-<li>Mitarbeiterführung</li>
-<li>Prioritäten &amp; Zeitmanagement</li>
-<li>System &amp; Umsetzung</li>
-</ul>
-<p>Direkt im Alltag einsetzbar (keine Theorie)</p>
-<p>Vorteile für Affiliates</p>
-<ul>
-<li>klare Zielgruppe mit echtem Bedarf</li>
-<li>einfach zu erklären und zu bewerben</li>
-<li>digitales Produkt (sofort verfügbar)</li>
-<li>kein Supportaufwand</li>
-</ul>
-<p>Kontakt</p>
-<p>Info@at-teamtools.de</p>
+**Vendor's marketplace description:** Attraktives Partnerprogramm – Teamleiter-Werkzeugkasten (Praxisprodukt für Führungskräfte) Provision 35 % Provision pro Verkauf Faire Vergütung und einfache Abwicklung über Digistore24. Produkt & Zielgruppe Praxisorientiertes System für Führungskräfte im operativen Alltag: Teamleiter Service & Industrie Produktion & Werkstatt Löst typische Probleme wie: fehlende Struktur Kommunikationsprobleme wiederkehrende Fehler hoher Arbeitsdruck Inhalt Der Teamleiter-Werkzeugkasten besteht aus 6 Modulen: Struktur & Planung Kommunikation & Übergaben Fehleranalyse Mitarbeiterführung Prioritäten & Zeitmanagement System & Umsetzung Direkt im Alltag einsetzbar (keine Theorie) Vorteile für Affiliates klare Zielgruppe mit echtem Bedarf einfach zu erklären und zu bewerben digitales Produkt (sofort verfügbar) kein Supportaufwand Kontakt Info@at-teamtools.de
 
 ## 2. Links
 

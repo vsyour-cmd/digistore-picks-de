@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>DEIN NÄCHSTER SCHRITT — Das Bundle. E-Book, Workbook und 30-Tage-Plan als ein System. Kein Motivationsbuch, sondern ein kompletter Weg von der Erkenntnis zur täglichen Handlung. Einmalig 150 €, 50 % Provision pro Verkauf.</p>
-<h2>WORUM ES GEHT</h2>
-<p>DEIN NÄCHSTER SCHRITT ist bereits als einzelnes E-Book erfolgreich am Markt (37 €). Das Bundle ist die konsequente Erweiterung: E-Book, Begleit-Workbook und 30-Tage-Plan in einem Produkt. Kein Buch, das gelesen und vergessen wird, sondern ein System, das den Leser tatsächlich durch die Umsetzung führt.</p>
-<p>Die Positionierung ist bewusst ruhig und ehrlich statt lautstark. Zielgruppe sind Menschen zwischen 20 und 45, die sich feststeckend fühlen und das „Ich warte noch"-Gefühl kennen. Kein Hype, keine Ergebnisversprechen, keine Coach-Energie. Genau das macht die Marke glaubwürdig und die Conversion stabil.</p>
-<p> </p>
-<h2>WARUM SICH DIE BEWERBUNG LOHNT</h2>
-<p>Die Vorverkaufsseite arbeitet gezielt heraus, warum die Kombination aus allen drei Teilen entscheidend ist: Verstehen (E-Book), Reflektieren (Workbook), Handeln (30-Tage-Plan). Das liefert Affiliates ein starkes, einfach zu kommunizierendes Argument statt eines diffusen „mehr Inhalt für mehr Geld".</p>
-<p>Kein Abo, kein Erklärungsbedarf. Einmaliger Kauf, sofortiger Download, 14 Tage gesetzliches Widerrufsrecht. Geringe Kaufhürde für ein digitales Produkt dieser Preisklasse.</p>
-<p> </p>
-<h2>WAS IM BUNDLE ENTHALTEN IST</h2>
-<p>E-Book „DEIN NÄCHSTER SCHRITT" (PDF, 13 Kapitel) — die Klarheit, worum es geht. Begleit-Workbook — Reflexionsfragen und Aufgaben zu jedem Kapitel. 30-Tage-Plan — 30 konkrete, tägliche Handlungsschritte.</p>
-<p>Alle drei Teile als PDF, sofortiger Download, lebenslanger Zugriff.</p>
+**Vendor's marketplace description:** DEIN NÄCHSTER SCHRITT — Das Bundle. E-Book, Workbook und 30-Tage-Plan als ein System. Kein Motivationsbuch, sondern ein kompletter Weg von der Erkenntnis zur täglichen Handlung. Einmalig 150 €, 50 % Provision pro Verkauf. WORUM ES GEHT DEIN NÄCHSTER SCHRITT ist bereits als einzelnes E-Book erfolgreich am Markt (37 €). Das Bundle ist die konsequente Erweiterung: E-Book, Begleit-Workbook und 30-Tage-Plan in einem Produkt. Kein Buch, das gelesen und vergessen wird, sondern ein System, das den Leser tatsächlich durch die Umsetzung führt. Die Positionierung ist bewusst ruhig und ehrlich statt lautstark. Zielgruppe sind Menschen zwischen 20 und 45, die sich feststeckend fühlen und das „Ich warte noch"-Gefühl kennen. Kein Hype, keine Ergebnisversprechen, keine Coach-Energie. Genau das macht die Marke glaubwürdig und die Conversion stabil. WARUM SICH DIE BEWERBUNG LOHNT Die Vorverkaufsseite arbeitet gezielt heraus, warum die Kombination aus allen drei Teilen entscheidend ist: Verstehen (E-Book), Reflektieren (Workbook), Handeln (30-Tage-Plan). Das liefert Affiliates ein starkes, einfach zu kommunizierendes Argument statt eines diffusen „mehr Inhalt für mehr Geld". Kein Abo, kein Erklärungsbedarf. Einmaliger Kauf, sofortiger Download, 14 Tage gesetzliches Widerrufsrecht. Geringe Kaufhürde für ein digitales Produkt dieser Preisklasse. WAS IM BUNDLE ENTHALTEN IST E-Book „DEIN NÄCHSTER SCHRITT" (PDF, 13 Kapitel) — die Klarheit, worum es geht. Begleit-Workbook — Reflexionsfragen und Aufgaben zu jedem Kapitel. 30-Tage-Plan — 30 konkrete, tägliche Handlungsschritte. Alle drei Teile als PDF, sofortiger Download, lebenslanger Zugriff.
 
 ## 2. Links
 

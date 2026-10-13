@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><span style="background-color:#ffff99;">Erhalte 4 Euro Provision pro Verkauf.</span></strong></p>
-<p>Einige Affiliates verdienen damit richtig gut. Sei du der nächste.</p>
-<p><strong><span style="background-color:#ffff99;">Zielgruppe:</span></strong> Stressabbau, Innerer Frieden, Loslassen lernen, Ängste loswerden, Spiritualität.</p>
+**Vendor's marketplace description:** Erhalte 4 Euro Provision pro Verkauf. Einige Affiliates verdienen damit richtig gut. Sei du der nächste. Zielgruppe: Stressabbau, Innerer Frieden, Loslassen lernen, Ängste loswerden, Spiritualität.
 
 ## 2. Links
 

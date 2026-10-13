@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das Seminar findet ab sofort ca. alle 3-4 Wochen statt:</strong></p>
-<p>Künstliche Intelligenz ersetzt oft nicht ganze Berufe. Aber KI-Agenten übernehmen einzelne Aufgaben – eingesetzt von Menschen, die mit KI richtig umgehen können, statt sie <em>nur</em> wie Google zu benutzen.</p>
-<p>Wir unterstützen Menschen bei ihrer persönlichen, beruflichen und finanziellen Entwicklung. Das Ziel ist finanzielle Unabhängigkeit und persönliches Glück. Im Seminar lernst du, wie du dir echte Unabhängigkeit baust.</p>
-<h2>Zwei Tage. Vier Bausteine.<br />Vier mal Hebelwirkung!</h2>
-<p>Ein Crash-Kurs, der dich von Grund auf aufbaut – ohne KI-Vorwissen, ohne Programmierkenntnisse, ohne wirtschaftliche Vorkenntnisse.</p>
-<p>Weitere Infos unter <a title="Granit-Strategie.de" href="https://granit-strategie.de/" target="_blank" rel="noreferrer noopener">Granit-Strategie.de</a></p>
-<p><strong>Das Seminar findet ab sofort ca. alle 3-4 Wochen statt.</strong></p>
-<p> </p>
+**Vendor's marketplace description:** Das Seminar findet ab sofort ca. alle 3-4 Wochen statt: Künstliche Intelligenz ersetzt oft nicht ganze Berufe. Aber KI-Agenten übernehmen einzelne Aufgaben – eingesetzt von Menschen, die mit KI richtig umgehen können, statt sie nur wie Google zu benutzen. Wir unterstützen Menschen bei ihrer persönlichen, beruflichen und finanziellen Entwicklung. Das Ziel ist finanzielle Unabhängigkeit und persönliches Glück. Im Seminar lernst du, wie du dir echte Unabhängigkeit baust. Zwei Tage. Vier Bausteine. Vier mal Hebelwirkung! Ein Crash-Kurs, der dich von Grund auf aufbaut – ohne KI-Vorwissen, ohne Programmierkenntnisse, ohne wirtschaftliche Vorkenntnisse. Weitere Infos unter Granit-Strategie.de Das Seminar findet ab sofort ca. alle 3-4 Wochen statt.
 
 ## 2. Links
 

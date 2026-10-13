@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der schnelle Online-Kredit von Privatpersonen für jedermann und für jeden Zweck. Schon ab 1.000 Euro möglich.</p>
-<p><big><big>Banken? - Nein, danke!<br /> Der schnelle Online-Kredit von Privatpersonen</big></big></p>
-<p>Sie haben es satt, sich bei Banken für einen kleinen Kredit endlos demütigen zu lassen? Sie möchten bei Kreditsachbearbeitern nicht "den Diener" machen? Sie wollen keine nutzlosen Verhandlungen und Befragungen, die dann doch ohne Ergebnis enden?</p>
-<div><br /> Wie Ihnen erging es vielen Mitgliedern von neuen Internet-Communities, welche sich nun einfach von Banken lossagen und ihre Geschäfte privat untereinander abwickeln.</div>
-<div> </div>
-<div> </div>
-<div>
-<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
-<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
-<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<strong>J<span style="color:#cc99ff;">eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</span></strong>“.</p>
-<p>2 einfache Schritte:</p>
-<ol>
-<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html%20" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html </a></span>(dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge")</li>
-<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
-</ol>
-<em><strong><br /></strong></em></div>
+**Vendor's marketplace description:** Der schnelle Online-Kredit von Privatpersonen für jedermann und für jeden Zweck. Schon ab 1.000 Euro möglich. Banken? - Nein, danke! Der schnelle Online-Kredit von Privatpersonen Sie haben es satt, sich bei Banken für einen kleinen Kredit endlos demütigen zu lassen? Sie möchten bei Kreditsachbearbeitern nicht "den Diener" machen? Sie wollen keine nutzlosen Verhandlungen und Befragungen, die dann doch ohne Ergebnis enden? Wie Ihnen erging es vielen Mitgliedern von neuen Internet-Communities, welche sich nun einfach von Banken lossagen und ihre Geschäfte privat untereinander abwickeln. Möchten Sie ein Ansichtsexemplar? Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz. Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „ J eden T ag R ei*cher “. 2 einfache Schritte: JTR gratis bestellen auf https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge") Email mit Ihrem Ebook-Wunsch an service@big-benn-books.com
 
 ## 2. Links
 

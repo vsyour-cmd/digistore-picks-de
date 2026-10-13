@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du im Fediverse Vertrauen aufbaust und ohne Algorithmus planbar Kunden gewinnst</strong></p>
-<p>Mastodon ist kein Werbenetzwerk – und genau deshalb funktioniert es für Coaches so gut. Wer hier genuinen Mehrwert teilt, wird gehört, geboostet und weiterempfohlen. Dieses E-Book zeigt dir, wie du als Coach oder Beraterin auf Mastodon eine Community aufbaust, die dir vertraut und bei dir kauft. Du lernst, wie du über strategisch gesetzte Hashtags gefunden wirst, wie du Toots verfasst, die Expertise zeigen ohne zu verkäuflich zu wirken, und wie du über dezentrale Nischen-Instanzen deine Wunschkunden erreichst. Kein Pay-to-play, kein Algorithmus-Roulette: nur echte Resonanz auf echten Mehrwert. Nach diesem E-Book hast du ein Content-System, das zum offenen Charakter des Fediverse passt – und planbar Erstgespräche bringt.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Content-Strategie, die im chronologischen Feed ohne Algorithmus wirkt</li>
-<li>Hashtag-Strategie: Themen-Tags und Nischen-Tags gezielt kombinieren</li>
-<li>Toots schreiben, die Expertise zeigen ohne nach Verkauf zu klingen</li>
-<li>Über Nischen-Instanzen deine Zielgruppe direkt ansprechen</li>
-<li>Boosts als soziales Kapital aufbauen und sinnvoll nutzen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du im Fediverse Vertrauen aufbaust und ohne Algorithmus planbar Kunden gewinnst Mastodon ist kein Werbenetzwerk – und genau deshalb funktioniert es für Coaches so gut. Wer hier genuinen Mehrwert teilt, wird gehört, geboostet und weiterempfohlen. Dieses E-Book zeigt dir, wie du als Coach oder Beraterin auf Mastodon eine Community aufbaust, die dir vertraut und bei dir kauft. Du lernst, wie du über strategisch gesetzte Hashtags gefunden wirst, wie du Toots verfasst, die Expertise zeigen ohne zu verkäuflich zu wirken, und wie du über dezentrale Nischen-Instanzen deine Wunschkunden erreichst. Kein Pay-to-play, kein Algorithmus-Roulette: nur echte Resonanz auf echten Mehrwert. Nach diesem E-Book hast du ein Content-System, das zum offenen Charakter des Fediverse passt – und planbar Erstgespräche bringt. Das steckt drin: Content-Strategie, die im chronologischen Feed ohne Algorithmus wirkt Hashtag-Strategie: Themen-Tags und Nischen-Tags gezielt kombinieren Toots schreiben, die Expertise zeigen ohne nach Verkauf zu klingen Über Nischen-Instanzen deine Zielgruppe direkt ansprechen Boosts als soziales Kapital aufbauen und sinnvoll nutzen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

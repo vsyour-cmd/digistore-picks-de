@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du betreibst einen Blog zur <span style="background-color:#99cc00;">Ahnenforschung</span> oder anderen historischen Themen? Oder hast Du eine Webseite rund um das Thema Familie, Geschichte, Heraldik, Namensforschung o.ä. Schwerpunkte?</p>
-<p>Und möchtest Du mit Deiner Webseite Geld verdienen?</p>
-<p>Dann werde Affiliate und verdiene eine Provision von 50% für jeden Verkauf meines e-Books <span style="color:#800000;"><em><strong>Ahnenforschung digital organisieren - Wie Du mit guter Planung endlich Forschung und Unterlagen in den Griff bekommst</strong></em></span>.</p>
-<p>Mein e-Book spricht gleichermaßen <span style="background-color:#99cc00;">Anfanger und Fortgeschrittene in Sachen Ahnenforschung</span> an, die sich bei folgenden Aspekten wiedererkennen:</p>
-<ul><li>Du bist ein „alter Hase“ in Sachen Ahnenforschung / Genealogie und hast <strong>keinen Überblick</strong> mehr darüber, was Du alles an Unterlagen hast?</li>
-<li>Du <strong>findest Dokumente nicht mehr</strong> (so schnell) wieder, obwohl Du sicher weißt, das Du sie hast?</li>
-<li>Du hast die eine oder andere Recherche schon <strong>doppelt</strong> gemacht?</li>
-<li>Deine Dateinamen sehen aus wie <em>34olhr^1889_00301.jpg</em> und Du mußt 10 Dateien öffnen, bis Du die gesuchte gefunden hast?</li>
-<li>Oder bist Du Einsteiger und möchtest Deine Ahnenforschung <strong>„mit System“</strong> angehen?</li>
-</ul><p>Auf der Suche nach den Vorfahren Struktur und System in die eigene Ahnenforschung zu bringen ist ein Thema, das viele Forscher leider vernachlässigen.</p>
-<p>In diesem Ratgeber geht es u.a. darum, wie man:</p>
-<ul><li>eine digitale Bestandsaufnahme seiner Forschung mit allen Unterlagen macht</li>
-<li>eine Systematik zur Benennung von Verzeichnissen und Dateinamen entwickelt</li>
-<li>einen Forschungsplan mit Zielen, Aufgaben und Arbeitsschritten schreibt</li>
-</ul><p>Im deutschsprachigen Markt gibt es keine Ratgeberliteratur zu diesem wichtigen Thema, so daß das e-Book <span style="color:#800000;"><em><strong>Ahnenforschung digital organisieren - Wie Du mit guter Planung endlich Forschung und Unterlagen in den Griff bekommst</strong></em></span> hier eine Lücke füllt und wichtige Hilfestellung leisten kann.</p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Du betreibst einen Blog zur Ahnenforschung oder anderen historischen Themen? Oder hast Du eine Webseite rund um das Thema Familie, Geschichte, Heraldik, Namensforschung o.ä. Schwerpunkte? Und möchtest Du mit Deiner Webseite Geld verdienen? Dann werde Affiliate und verdiene eine Provision von 50% für jeden Verkauf meines e-Books Ahnenforschung digital organisieren - Wie Du mit guter Planung endlich Forschung und Unterlagen in den Griff bekommst . Mein e-Book spricht gleichermaßen Anfanger und Fortgeschrittene in Sachen Ahnenforschung an, die sich bei folgenden Aspekten wiedererkennen: Du bist ein „alter Hase“ in Sachen Ahnenforschung / Genealogie und hast keinen Überblick mehr darüber, was Du alles an Unterlagen hast? Du findest Dokumente nicht mehr (so schnell) wieder, obwohl Du sicher weißt, das Du sie hast? Du hast die eine oder andere Recherche schon doppelt gemacht? Deine Dateinamen sehen aus wie 34olhr^1889_00301.jpg und Du mußt 10 Dateien öffnen, bis Du die gesuchte gefunden hast? Oder bist Du Einsteiger und möchtest Deine Ahnenforschung „mit System“ angehen? Auf der Suche nach den Vorfahren Struktur und System in die eigene Ahnenforschung zu bringen ist ein Thema, das viele Forscher leider vernachlässigen. In diesem Ratgeber geht es u.a. darum, wie man: eine digitale Bestandsaufnahme seiner Forschung mit allen Unterlagen macht eine Systematik zur Benennung von Verzeichnissen und Dateinamen entwickelt einen Forschungsplan mit Zielen, Aufgaben und Arbeitsschritten schreibt Im deutschsprachigen Markt gibt es keine Ratgeberliteratur zu diesem wichtigen Thema, so daß das e-Book Ahnenforschung digital organisieren - Wie Du mit guter Planung endlich Forschung und Unterlagen in den Griff bekommst hier eine Lücke füllt und wichtige Hilfestellung leisten kann.
 
 ## 2. Links
 

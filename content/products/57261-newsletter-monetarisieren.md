@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Newsletter monetarisieren“</strong></p>
-<p>Mit deiner E-Mail-Liste Angebote verkaufen – Eine Liste ist erst wertvoll, wenn sie auf Vertrauen baut. Eigene Produkte verkaufen, Affiliate und Kooperationen, automatisierte Funnels und Sequenzen sowie bessere Kennzahlen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Vom Verteiler zum verkaufenden Newsletter</li>
-<li>Vertrauen und Beziehung als Fundament</li>
-<li>Eigene Produkte, Affiliate und Kooperationen</li>
-<li>Kennzahlen verstehen und Werbung kennzeichnen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Newsletter monetarisieren“ Mit deiner E-Mail-Liste Angebote verkaufen – Eine Liste ist erst wertvoll, wenn sie auf Vertrauen baut. Eigene Produkte verkaufen, Affiliate und Kooperationen, automatisierte Funnels und Sequenzen sowie bessere Kennzahlen. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Vom Verteiler zum verkaufenden Newsletter Vertrauen und Beziehung als Fundament Eigene Produkte, Affiliate und Kooperationen Kennzahlen verstehen und Werbung kennzeichnen
 
 ## 2. Links
 

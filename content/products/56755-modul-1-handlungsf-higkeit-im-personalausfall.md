@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Modul 1 – Handlungsfähigkeit im Personalausfall</h1>
-<p>Sie erwerben ein strukturiertes Diagnoseinstrument zur Analyse der organisatorischen Handlungsfähigkeit eines Unternehmens beim Ausfall einer zentralen kaufmännischen oder leitenden Schlüsselperson.</p>
-<p> </p>
-<p><strong>Dieses Angebot richtet sich ausschließlich an Unternehmer im Sinne des § 14 BGB.</strong></p>
-<p> </p>
-<p><strong>Das Instrument umfasst:</strong></p>
-<p>• standardisierte Analysefelder (Scoring 1–4)</p>
-<p>• gewichtete Risikoindikationen je Organisationsebene</p>
-<p>• Identifikation organisatorischer Abhängigkeiten und Vertretungsrisiken</p>
-<p>• priorisierte Maßnahmenempfehlungen (kurz-, mittel- und langfristig)</p>
-<p><strong>Produktart</strong>: Digitales Diagnoseinstrument</p>
-<p> </p>
-<p><strong>Bereitstellung</strong>: Sofortiger Download nach erfolgreicher Zahlung.</p>
-<p> </p>
-<p>Zusätzliche Bereitstellung des Download-Links per E-Mail.</p>
-<p> </p>
-<p><strong>Es handelt sich nicht um eine individuelle Rechts-, Steuer- oder Wirtschaftsprüfung.</strong></p>
+**Vendor's marketplace description:** Modul 1 – Handlungsfähigkeit im Personalausfall Sie erwerben ein strukturiertes Diagnoseinstrument zur Analyse der organisatorischen Handlungsfähigkeit eines Unternehmens beim Ausfall einer zentralen kaufmännischen oder leitenden Schlüsselperson. Dieses Angebot richtet sich ausschließlich an Unternehmer im Sinne des § 14 BGB. Das Instrument umfasst: • standardisierte Analysefelder (Scoring 1–4) • gewichtete Risikoindikationen je Organisationsebene • Identifikation organisatorischer Abhängigkeiten und Vertretungsrisiken • priorisierte Maßnahmenempfehlungen (kurz-, mittel- und langfristig) Produktart : Digitales Diagnoseinstrument Bereitstellung : Sofortiger Download nach erfolgreicher Zahlung. Zusätzliche Bereitstellung des Download-Links per E-Mail. Es handelt sich nicht um eine individuelle Rechts-, Steuer- oder Wirtschaftsprüfung.
 
 ## 2. Links
 

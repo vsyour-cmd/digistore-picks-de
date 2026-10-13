@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hier bekommst du 50 Vorlage Videos für TikTok bzw Reels.</p>
-<p> </p>
-<p>Affiliate Provision = 50%</p>
+**Vendor's marketplace description:** Hier bekommst du 50 Vorlage Videos für TikTok bzw Reels. Affiliate Provision = 50%
 
 ## 2. Links
 

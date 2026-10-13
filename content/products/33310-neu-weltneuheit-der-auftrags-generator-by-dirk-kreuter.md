@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Auftrags-Generator ist ein Produkt was sich einfach Online verkaufen lässt. <br /><br />Denn der Auftrags-Generator bietet erstmals die <br />meist-gefragteste Funktion von Vertrieblern. Dabei muss der Kunde nichts ändern sondern kann alle vorhanden Systeme weiternutzen.<br /><br />Du kannst jetzt als Affiliate von diesem einzigartigen Produkt mit <strong>30% <span style="color:#ff6600;">Lifetime</span> <span style="color:#ff6600;">Provision</span>, so wie 20% 2nd-Level-Provision</strong> profitieren.<br /><br />Das Vertrauen in die starke <strong>Marke "Dirk Kreuter"</strong> sorgt dabei für eine hohe <strong>Conversion Rate</strong>.    </p>
-<p>Die 1€ Testphase von 14 Tage führt zu schnellen Kaufentscheidungen auf der Landingpage.  </p>
-<p>Schnell sein lohnt sich, da es derzeit weltweit kein vergleichbares Produkt gibt.</p>
+**Vendor's marketplace description:** Der Auftrags-Generator ist ein Produkt was sich einfach Online verkaufen lässt. Denn der Auftrags-Generator bietet erstmals die meist-gefragteste Funktion von Vertrieblern. Dabei muss der Kunde nichts ändern sondern kann alle vorhanden Systeme weiternutzen. Du kannst jetzt als Affiliate von diesem einzigartigen Produkt mit 30% Lifetime Provision , so wie 20% 2nd-Level-Provision profitieren. Das Vertrauen in die starke Marke "Dirk Kreuter" sorgt dabei für eine hohe Conversion Rate . Die 1€ Testphase von 14 Tage führt zu schnellen Kaufentscheidungen auf der Landingpage. Schnell sein lohnt sich, da es derzeit weltweit kein vergleichbares Produkt gibt.
 
 ## 2. Links
 

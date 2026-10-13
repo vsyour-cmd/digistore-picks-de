@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Umzugklar: konkrete Hilfe für den Alltag</h2>
-<p>Ein anpassbarer Umzugsplan mit durchsuchbarem Kistenregister.</p>
-<p><strong>Zielgruppe:</strong> Menschen, die ihren privaten Umzug selbst organisieren.</p>
-<p><strong>Lieferumfang:</strong> 28 bearbeitbare Startaufgaben; bis zu 400 Aufgaben und 200 Kisten; relative Terminvorschläge; Suche nach Raum, Nummer oder Inhalt; Plan und Etiketten drucken. Dazu manuell speicherbare JSON-Projektdateien, integrierte Anleitung und zwei fiktive Beispielprojekte.</p>
-<p>ZIP-Download mit lokaler HTML-App für Desktop-Browser. Kein KI-Zugang nötig. Keine native Handyapp, kein Konto, keine Cloud-Synchronisierung, keine automatische Speicherung. Vorschläge individuell prüfen.</p>
-<p><strong>Einmaliger Preis:</strong> 14,90 Euro brutto. <strong>Affiliate-Provision:</strong> 30 Prozent gemäß Digistore24-Abrechnung. 30 Tage Rückgabe, 12 Monate Downloadzugang.</p>
-<p><strong>Kostenlose Probe:</strong> https://projektpreis-studio.crimetwin.chatgpt.site/umzugklar/probe/</p>
-<p>Produktinfos und nutzbare Werbetexte auf der Affiliate-Support-Seite. Gewöhnliche Probenlinks enthalten keine Affiliate-Zuordnung; persönliche Verkaufslinks mit Kampagnenkennung aus Digistore24 verwenden.</p>
-<p>Neue Produkte ohne belegte Conversion- oder Verkaufsdaten. Kaufwerbung erst nach tatsächlicher Produkt- und Marktplatzfreigabe. Keine garantierten Ergebnisse, erfundenen Bewertungen oder künstliche Verknappung verwenden.</p>
+**Vendor's marketplace description:** Umzugklar: konkrete Hilfe für den Alltag Ein anpassbarer Umzugsplan mit durchsuchbarem Kistenregister. Zielgruppe: Menschen, die ihren privaten Umzug selbst organisieren. Lieferumfang: 28 bearbeitbare Startaufgaben; bis zu 400 Aufgaben und 200 Kisten; relative Terminvorschläge; Suche nach Raum, Nummer oder Inhalt; Plan und Etiketten drucken. Dazu manuell speicherbare JSON-Projektdateien, integrierte Anleitung und zwei fiktive Beispielprojekte. ZIP-Download mit lokaler HTML-App für Desktop-Browser. Kein KI-Zugang nötig. Keine native Handyapp, kein Konto, keine Cloud-Synchronisierung, keine automatische Speicherung. Vorschläge individuell prüfen. Einmaliger Preis: 14,90 Euro brutto. Affiliate-Provision: 30 Prozent gemäß Digistore24-Abrechnung. 30 Tage Rückgabe, 12 Monate Downloadzugang. Kostenlose Probe: https://projektpreis-studio.crimetwin.chatgpt.site/umzugklar/probe/ Produktinfos und nutzbare Werbetexte auf der Affiliate-Support-Seite. Gewöhnliche Probenlinks enthalten keine Affiliate-Zuordnung; persönliche Verkaufslinks mit Kampagnenkennung aus Digistore24 verwenden. Neue Produkte ohne belegte Conversion- oder Verkaufsdaten. Kaufwerbung erst nach tatsächlicher Produkt- und Marktplatzfreigabe. Keine garantierten Ergebnisse, erfundenen Bewertungen oder künstliche Verknappung verwenden.
 
 ## 2. Links
 

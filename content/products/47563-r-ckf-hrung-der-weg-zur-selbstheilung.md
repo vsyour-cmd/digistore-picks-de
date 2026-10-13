@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Diese Buch führt die Leser in die Welt der Rückführung und Reinkarnation mit den Möglichkeiten der Heilung und Selbstheilung.<br />Eine Welt, die ungahnte Möglichkeiten erschließt.<br /><br />Neben dem Buch wird es in Zukunft auch ein EBook, ein  Hörbuch und weitere Dienstleistungen geben.<br /><br />Ich, Elena Theys, habe seit mehr als 20 Jahren Erfahrungen zu diesem Thema und möchte Menschen helfen und animieren, diesen Weg zu gehen. Damit können sie selbst in vielen Situationen viele Erkenntnisse, Verbesserungen und sogar ungewöhnliche Selbstheilungen aktivieren.<br /><br />Bitte unterstützen Sie mich bei dieser Aufgabe, indem Sie diese Möglichkeit teilen und dabei auch etwas verdienen.</p>
+**Vendor's marketplace description:** Diese Buch führt die Leser in die Welt der Rückführung und Reinkarnation mit den Möglichkeiten der Heilung und Selbstheilung. Eine Welt, die ungahnte Möglichkeiten erschließt. Neben dem Buch wird es in Zukunft auch ein EBook, ein Hörbuch und weitere Dienstleistungen geben. Ich, Elena Theys, habe seit mehr als 20 Jahren Erfahrungen zu diesem Thema und möchte Menschen helfen und animieren, diesen Weg zu gehen. Damit können sie selbst in vielen Situationen viele Erkenntnisse, Verbesserungen und sogar ungewöhnliche Selbstheilungen aktivieren. Bitte unterstützen Sie mich bei dieser Aufgabe, indem Sie diese Möglichkeit teilen und dabei auch etwas verdienen.
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>✅ 30x Instagram Reel Covers Vorlagen<br />✅ 30x Titel Vorlagen<br />✅ 20x Blanko Covers<br />✅ Bonus: 5x Farbpaletten &amp; Schriftarten</p>
+**Vendor's marketplace description:** ✅ 30x Instagram Reel Covers Vorlagen ✅ 30x Titel Vorlagen ✅ 20x Blanko Covers ✅ Bonus: 5x Farbpaletten & Schriftarten
 
 ## 2. Links
 

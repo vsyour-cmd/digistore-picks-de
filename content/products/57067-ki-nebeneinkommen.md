@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „KI-Nebeneinkommen"</strong></p>
-<p>Sieben erprobte Wege, mit KI nebenbei Geld zu verdienen – ehrlich verglichen: was sie verlangen, was realistisch drin ist und für wen sie passen. Du brauchst nur das eine Modell, das zu dir passt.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema: KI, Online-Business &amp; Geld verdienen</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Sieben KI-Nebeneinkommens-Modelle ehrlich vergleichen</li>
-<li>Erkennen, was jedes Modell verlangt und für wen es passt</li>
-<li>Die wichtigsten KI-Tools je Modell kennenlernen</li>
-<li>Dich auf ein passendes Modell festlegen statt zu verzetteln</li>
-<li>Mit einem klaren ersten Schritt starten</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Menschen, die mit KI und Online-Business ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „KI-Nebeneinkommen" Sieben erprobte Wege, mit KI nebenbei Geld zu verdienen – ehrlich verglichen: was sie verlangen, was realistisch drin ist und für wen sie passen. Du brauchst nur das eine Modell, das zu dir passt. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema: KI, Online-Business & Geld verdienen Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Sieben KI-Nebeneinkommens-Modelle ehrlich vergleichen Erkennen, was jedes Modell verlangt und für wen es passt Die wichtigsten KI-Tools je Modell kennenlernen Dich auf ein passendes Modell festlegen statt zu verzetteln Mit einem klaren ersten Schritt starten Für deine Zielgruppe: Menschen, die mit KI und Online-Business ehrlich Geld verdienen oder sich selbstständig machen wollen, Einsteiger und Nebenberufler Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Digitales Arbeitsbuch für Menschen, die Apps und Cloud privat oder beruflich nutzen.</p>
-<p> </p>
-<p>Kernversprechen: ZUGRIFF ≠ ERLAUBNIS.</p>
-<p> </p>
-<p>Output: persönliches DATA-PROFIL + DATA-PASS.</p>
-<p> </p>
-<p>Für Affiliates: Premium-Preis 49,80 € einmalig, 50 % Provision. Klare Verkaufsseite und Digistore24 Checkout.</p>
-<p> </p>
-<p>Bildungs-Workbook – keine Rechtsberatung, keine Einkommensversprechen.</p>
-<p> </p>
-<p>Verkaufsseite: https://data-02.pages.dev/</p>
+**Vendor's marketplace description:** Digitales Arbeitsbuch für Menschen, die Apps und Cloud privat oder beruflich nutzen. Kernversprechen: ZUGRIFF ≠ ERLAUBNIS. Output: persönliches DATA-PROFIL + DATA-PASS. Für Affiliates: Premium-Preis 49,80 € einmalig, 50 % Provision. Klare Verkaufsseite und Digistore24 Checkout. Bildungs-Workbook – keine Rechtsberatung, keine Einkommensversprechen. Verkaufsseite: https://data-02.pages.dev/
 
 ## 2. Links
 

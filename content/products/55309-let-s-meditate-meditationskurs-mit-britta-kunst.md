@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h2><strong>Was du bekommst</strong></h2>
-</div>
-<div>
-<h5>In "Let's Meditate" nehme ich dich mit auf eine transformierende dreiteilige Reise, die dich sanft<br />aus deinem Suchen in deine <strong>Höhe</strong>, <strong>Tiefe</strong> und <strong>Weite</strong> führt - dorthin, wo Klarheit, Selbstheilung und Erkenntnis <strong>bereits<br />in dir vorhanden sind</strong>.</h5>
-</div>
-<div>
-<h6>Über mindestens 3 Wochen begleite ich dich mit gezielten, anhebenden Theorie- und Praxisvideos. Schritt für Schritt wirst du in das Medtieren eingeführt und lernst, deine innere Welt bewusst zu erforschen. Zu Beginn wählst du ein persönliches Lebensthema, das dich aktuell beschäftigt.<br /><br />Jede Woche widmet sich einer bestimmten Meditationsform. Zusätzlich fokussieren wir uns in jeder Woche auf ein weiteres Thema, das deine Bewusstwerdung unterstützt, dein Meditationserlebnis intensiviert und dir als wertvolles Tool<br />für mehr Klarheit und innere Zufriedenheit<br />in deinem Leben dient.</h6>
-</div>
+**Vendor's marketplace description:** Was du bekommst In "Let's Meditate" nehme ich dich mit auf eine transformierende dreiteilige Reise, die dich sanft aus deinem Suchen in deine Höhe , Tiefe und Weite führt - dorthin, wo Klarheit, Selbstheilung und Erkenntnis bereits in dir vorhanden sind . Über mindestens 3 Wochen begleite ich dich mit gezielten, anhebenden Theorie- und Praxisvideos. Schritt für Schritt wirst du in das Medtieren eingeführt und lernst, deine innere Welt bewusst zu erforschen. Zu Beginn wählst du ein persönliches Lebensthema, das dich aktuell beschäftigt. Jede Woche widmet sich einer bestimmten Meditationsform. Zusätzlich fokussieren wir uns in jeder Woche auf ein weiteres Thema, das deine Bewusstwerdung unterstützt, dein Meditationserlebnis intensiviert und dir als wertvolles Tool für mehr Klarheit und innere Zufriedenheit in deinem Leben dient.
 
 ## 2. Links
 

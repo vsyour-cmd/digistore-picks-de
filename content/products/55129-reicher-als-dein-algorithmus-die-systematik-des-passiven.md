@@ -41,40 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Hör auf zu mieten. Fang an zu besitzen.</h1>
-<h2>Sichere dir jetzt dein Exemplar von "REICHER ALS DEIN ALGORITHMUS" und starte deinen 30-Tage-Masterplan zum automatisierten Cashflow.</h2>
-<p> </p>
-<div>
-<div>Deine Vorteile auf einen Blick:</div>
-</div>
-<div>
-<ul>
-<li>Systematik statt Chaos: Der exakte 30-Tage-Fahrplan für deinen automatisierten Lead-Funnel.</li>
-<li>Kontrolle statt Abhängigkeit: Bau dein Business auf deinem eigenen Fundament (E-Mail-Liste) auf.</li>
-<li>Bonuskapitel 1: KI-Power - Nutze die 10 sofort einsetzbaren Prompts, um Content in Minuten zu erstellen.</li>
-<li>Bonuskapitel 2: 10 virale hook Vorlagen</li>
-<li>Sofortiger Zugang: Du erhältst das E-Book direkt nach der Bestellung.</li>
-</ul>
-<p> </p>
-<div>
-<div>Deine Bestellung ist sicher:</div>
-</div>
-<div>
-<ul>
-<li>Sichere Zahlung: Deine Daten werden mit modernster SSL-Verschlüsselung geschützt.</li>
-<li>Sofortiger Zugang: Nach erfolgreicher Zahlung erhältst du sofortigen Zugang zum E-Book (PDF/ePub).</li>
-<li>Datenschutz: Wir geben deine Daten niemals an Dritte weiter. Dein Fokus liegt auf deinem Cashflow, nicht auf Spam.</li>
-</ul>
-</div>
-<div> </div>
-<div>
-<div> </div>
-<div>[JETZT KAUFEN &amp; CASHFLOW-AUTOMAT STARTEN]</div>
-<div> </div>
-<div> </div>
-<div>Wichtig: Du erhältst das E-Book "REICHER ALS DEIN ALGORITHMUS" (PDF/ePub) sofort nach Abschluss der Bestellung. Keine Wartezeit. Keine Ausreden. Starte heute.</div>
-</div>
-</div>
+**Vendor's marketplace description:** Hör auf zu mieten. Fang an zu besitzen. Sichere dir jetzt dein Exemplar von "REICHER ALS DEIN ALGORITHMUS" und starte deinen 30-Tage-Masterplan zum automatisierten Cashflow. Deine Vorteile auf einen Blick: Systematik statt Chaos: Der exakte 30-Tage-Fahrplan für deinen automatisierten Lead-Funnel. Kontrolle statt Abhängigkeit: Bau dein Business auf deinem eigenen Fundament (E-Mail-Liste) auf. Bonuskapitel 1: KI-Power - Nutze die 10 sofort einsetzbaren Prompts, um Content in Minuten zu erstellen. Bonuskapitel 2: 10 virale hook Vorlagen Sofortiger Zugang: Du erhältst das E-Book direkt nach der Bestellung. Deine Bestellung ist sicher: Sichere Zahlung: Deine Daten werden mit modernster SSL-Verschlüsselung geschützt. Sofortiger Zugang: Nach erfolgreicher Zahlung erhältst du sofortigen Zugang zum E-Book (PDF/ePub). Datenschutz: Wir geben deine Daten niemals an Dritte weiter. Dein Fokus liegt auf deinem Cashflow, nicht auf Spam. [JETZT KAUFEN & CASHFLOW-AUTOMAT STARTEN] Wichtig: Du erhältst das E-Book "REICHER ALS DEIN ALGORITHMUS" (PDF/ePub) sofort nach Abschluss der Bestellung. Keine Wartezeit. Keine Ausreden. Starte heute.
 
 ## 2. Links
 

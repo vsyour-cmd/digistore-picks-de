@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Wie du mithilfe der künstlichen Intelligenz schneller, besser und einfacher viralen Content erstellst, der nicht nur Reichweite bringt, sondern auch <strong>Cash auf dein Konto.</strong></h2>
-<p>Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt<strong> 50% Provision</strong> + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf <strong>ca. 450€ Provision im Funnel.</strong></p>
-<p>Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst!</p>
-<p>Das bekommst der Kunde in diesem absoluten GameChanger Online-Kurs:</p>
-<ul>
-<li>wie du die KI so einsetzt, dass du <strong>geniale Content-Ideen, Hooks, Captions </strong>und Content erstellst, der die User fesselt und die Kreditkarte zücken lässt…</li>
-<li>wie du geniale Inhalte mit der KI erstellst, die <strong>deine Zielgruppe ins absolute Staunen versetzt</strong> und <strong>einen Kaufrausch auslöst…</strong></li>
-<li>wie du deine Zielgruppe besser kennen wirst, als sie sich selbst, sodass du ihnen etwas anbietest, was sie unmöglich abschlagen können…</li>
-<li>wie du virale Inhalte erstellst, die deine Kasse zum Dauerklingeln bringen…</li>
-</ul>
-<p><strong>Und als Bonus</strong> bekommst du alle Tools, Vorlagen und Prompts, um aus der Masse hervorzustechen und komplett abräumen.</p>
-<p>Und einiges mehr!</p>
+**Vendor's marketplace description:** Wie du mithilfe der künstlichen Intelligenz schneller, besser und einfacher viralen Content erstellst, der nicht nur Reichweite bringt, sondern auch Cash auf dein Konto. Für alle Affiliates eine super Chance. Denn du bekommst auf dieses Produkt 50% Provision + Upsells (30 - 50%). Es sind insgesamt 5 weitere Up- und Downsell-Schritte vorhanden, für die es dann 30 - 50% Provision gibt. Damit kommst du auf ca. 450€ Provision im Funnel. Zusätzlich wird ein High Ticket Produkt verkauft, sodass du damit deine Provisionen verdoppeln kannst! Das bekommst der Kunde in diesem absoluten GameChanger Online-Kurs: wie du die KI so einsetzt, dass du geniale Content-Ideen, Hooks, Captions und Content erstellst, der die User fesselt und die Kreditkarte zücken lässt… wie du geniale Inhalte mit der KI erstellst, die deine Zielgruppe ins absolute Staunen versetzt und einen Kaufrausch auslöst… wie du deine Zielgruppe besser kennen wirst, als sie sich selbst, sodass du ihnen etwas anbietest, was sie unmöglich abschlagen können… wie du virale Inhalte erstellst, die deine Kasse zum Dauerklingeln bringen… Und als Bonus bekommst du alle Tools, Vorlagen und Prompts, um aus der Masse hervorzustechen und komplett abräumen. Und einiges mehr!
 
 ## 2. Links
 

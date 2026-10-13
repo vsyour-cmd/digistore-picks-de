@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>„Zurück in Deine Kraft – Blockaden lösen“ ist ein digitales Workbook mit 49 Seiten und 5 energetischen Übungen.</strong></p>
-<p>Die Leser lernen darin, ihre eigene Energie bewusster wahrzunehmen und zu stärken. Außerdem erhalten sie verschiedene Möglichkeiten, mit inneren Blockaden, Glaubenssätzen, alten Mustern und energetischen Strukturen zu arbeiten.</p>
-<p>Die Übungen sind so aufgebaut, dass sie selbstständig und je nach Thema immer wieder angewendet werden können.</p>
-<p><strong>Enthalten sind 5 Übungen:</strong></p>
-<ul>
-<li>Energie stärken</li>
-<li>Energie wahrnehmen</li>
-<li>Der Schritt in Deine Kraft</li>
-<li>Blockaden gezielt lösen mit dem inneren Bild</li>
-<li>Die Reise durch Deine Zeitlinie</li>
-</ul>
-<p>Das Workbook richtet sich an Menschen, die sich für Energiearbeit, Aura, Chakren und persönliche Entwicklung interessieren und selbst aktiv mit ihrer Energie arbeiten möchten.</p>
-<p><strong>Verkaufspreis: 28 €</strong><br /><strong>Affiliate-Provision: 50 %</strong></p>
-<p>Für Affiliates stehen fertige Werbetexte, Hooks, Cover, Banner und Pinterest-Pins zur Verfügung.</p>
+**Vendor's marketplace description:** „Zurück in Deine Kraft – Blockaden lösen“ ist ein digitales Workbook mit 49 Seiten und 5 energetischen Übungen. Die Leser lernen darin, ihre eigene Energie bewusster wahrzunehmen und zu stärken. Außerdem erhalten sie verschiedene Möglichkeiten, mit inneren Blockaden, Glaubenssätzen, alten Mustern und energetischen Strukturen zu arbeiten. Die Übungen sind so aufgebaut, dass sie selbstständig und je nach Thema immer wieder angewendet werden können. Enthalten sind 5 Übungen: Energie stärken Energie wahrnehmen Der Schritt in Deine Kraft Blockaden gezielt lösen mit dem inneren Bild Die Reise durch Deine Zeitlinie Das Workbook richtet sich an Menschen, die sich für Energiearbeit, Aura, Chakren und persönliche Entwicklung interessieren und selbst aktiv mit ihrer Energie arbeiten möchten. Verkaufspreis: 28 € Affiliate-Provision: 50 % Für Affiliates stehen fertige Werbetexte, Hooks, Cover, Banner und Pinterest-Pins zur Verfügung.
 
 ## 2. Links
 

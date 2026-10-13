@@ -41,38 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Herzlich Willkommen in meinem Affiliate-Bereich,</strong></p>
-<p>ich bin Matthias und es freut mich, dich hier begrüßen zu dürfen. </p>
-<p>Meine Dating-Kurse-Ratgeber liefern <strong>echten Mehrwert</strong> und der Verkaufsfunnel beschert dir reichlich Provisionen, <strong>satte 50 % auf JEDES Produkt</strong>, also auch 50 % auf alle Upsells und Downsells <strong>UND</strong> <strong>25 %</strong> auf alle direkten Upsells vom Flagship Online-Coaching-Kurs <strong><em>"Der intuitive Verführer"</em></strong>.</p>
-<p>In meinem Verkaufsfunnel erhält der Kunde folgende Produkte in folgender Reihenfolge angezeigt:</p>
-<ul>
-<li>Frontend: <em>Freundin finden / Frauen angstrei ansprechen Bundle</em> - E-Book - Preis:<strong> € 4,99</strong> - Provision 50%</li>
-<li>Upsell 1: <em>(Sex-)Erfolgsgeheimnisse außergewöhnlicher Männer - Online-Kurs - Preis: € 27,- - <strong>Provision 50%</strong></em></li>
-<li>Upsell 2: <em>Der außergewöhnliche Mann - Online-Kurs - Preis: <strong>€ 397,-</strong>  - <strong>Provision 50%</strong></em></li>
-<li><em>Upsell 3: "Der intuitive Verführer" - Online-Coaching-Programm - Preis<strong> € 1.997,-</strong> - P</em><strong>rovision 25 % ODER Option </strong>VIP - Preis <strong>€ 3.997,-</strong> - <strong>Provision 25 %</strong></li>
-</ul>
-<p><strong>================================</strong></p>
-<h3><strong>Der außergewöhnliche Mann - Online-Kurs</strong></h3>
-<div>
-<div>
-<div>
-<h4><em>Du kannst im nächsten Jahr Deines Lebens mehr erreichen als in den 5 Jahren zuvor... </em></h4>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<ul>
-<li>Du wirst zu einem Mann, der in der Lage ist, jedes Ziel zu erreichen und die Hindernisse auf dem Weg zu überspringen</li>
-<li>Du nutzt die Ressource, die von den meisten Männern in ihrem Leben niemals angezapft wird -  damit bist Du in der Lage Dein Leben zu einem Meisterwerk zu machen</li>
-<li>Du entwickelst eine außergewöhnliche Ausstrahlung auf Frauen, die neue Möglichkeiten abseits des Dir Bekannten schafft</li>
-<li>Du findest Zugang zu Deinen echten Fähigkeiten und Talenten - wie wäre es für Dich Geld mit etwas zu verdienen, das Dir wirklich Spaß macht? </li>
-<li>Du holst Dir Deine urgegebene sexuelle Intelligenz zurück: Erlebe härtere und größere Erektionen als jemals zuvor, und leite Frauen selbstsicher zum Orgasmus</li>
-</ul>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Herzlich Willkommen in meinem Affiliate-Bereich, ich bin Matthias und es freut mich, dich hier begrüßen zu dürfen. Meine Dating-Kurse-Ratgeber liefern echten Mehrwert und der Verkaufsfunnel beschert dir reichlich Provisionen, satte 50 % auf JEDES Produkt , also auch 50 % auf alle Upsells und Downsells UND 25 % auf alle direkten Upsells vom Flagship Online-Coaching-Kurs "Der intuitive Verführer" . In meinem Verkaufsfunnel erhält der Kunde folgende Produkte in folgender Reihenfolge angezeigt: Frontend: Freundin finden / Frauen angstrei ansprechen Bundle - E-Book - Preis: € 4,99 - Provision 50% Upsell 1: (Sex-)Erfolgsgeheimnisse außergewöhnlicher Männer - Online-Kurs - Preis: € 27,- - Provision 50% Upsell 2: Der außergewöhnliche Mann - Online-Kurs - Preis: € 397,- - Provision 50% Upsell 3: "Der intuitive Verführer" - Online-Coaching-Programm - Preis € 1.997,- - P rovision 25 % ODER Option VIP - Preis € 3.997,- - Provision 25 % ================================ Der außergewöhnliche Mann - Online-Kurs Du kannst im nächsten Jahr Deines Lebens mehr erreichen als in den 5 Jahren zuvor... Du wirst zu einem Mann, der in der Lage ist, jedes Ziel zu erreichen und die Hindernisse auf dem Weg zu überspringen Du nutzt die Ressource, die von den meisten Männern in ihrem Leben niemals angezapft wird - damit bist Du in der Lage Dein Leben zu einem Meisterwerk zu machen Du entwickelst eine außergewöhnliche Ausstrahlung auf Frauen, die neue Möglichkeiten abseits des Dir Bekannten schafft Du findest Zugang zu Deinen echten Fähigkeiten und Talenten - wie wäre es für Dich Geld mit etwas zu verdienen, das Dir wirklich Spaß macht? Du holst Dir Deine urgegebene sexuelle Intelligenz zurück: Erlebe härtere und größere Erektionen als jemals zuvor, und leite Frauen selbstsicher zum Orgasmus
 
 ## 2. Links
 

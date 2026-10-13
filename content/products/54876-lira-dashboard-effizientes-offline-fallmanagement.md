@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>LiRa Dashboard – Offline Fall-Management &amp; Echtzeit-Analysen</strong></p>
-<p>Das LiRa Dashboard ist ein leistungsstarkes, vollständig offline-fähiges Fall-Management-System für schnelle, sichere und übersichtliche Vorgangsbearbeitung. Ideal für Verwaltungen, Dienstleister und Teams, die effizient und datenschutzkonform arbeiten möchten.</p>
-<ul>
-<li><strong>100% lokal &amp; datensicher:</strong> Keine Cloud, keine Server, keine externen Daten.</li>
-<li><strong>Smartes Fall-Management:</strong> Akten anlegen, bearbeiten, filtern &amp; priorisieren.</li>
-<li><strong>Echtzeit-Analysen:</strong> KPI-Karten &amp; Diagramme für optimale Übersicht.</li>
-<li><strong>Produktivitäts-Tools:</strong> To-Do-Liste, Textbausteine &amp; Quick-Links integriert.</li>
-<li><strong>Auto-Backup:</strong> Lokale Sicherungen &amp; JSON-Export/Import.</li>
-</ul>
-<p>Einfach starten: ZIP entpacken, Datei öffnen – sofort einsatzbereit, auch ohne Internet.</p>
+**Vendor's marketplace description:** LiRa Dashboard – Offline Fall-Management & Echtzeit-Analysen Das LiRa Dashboard ist ein leistungsstarkes, vollständig offline-fähiges Fall-Management-System für schnelle, sichere und übersichtliche Vorgangsbearbeitung. Ideal für Verwaltungen, Dienstleister und Teams, die effizient und datenschutzkonform arbeiten möchten. 100% lokal & datensicher: Keine Cloud, keine Server, keine externen Daten. Smartes Fall-Management: Akten anlegen, bearbeiten, filtern & priorisieren. Echtzeit-Analysen: KPI-Karten & Diagramme für optimale Übersicht. Produktivitäts-Tools: To-Do-Liste, Textbausteine & Quick-Links integriert. Auto-Backup: Lokale Sicherungen & JSON-Export/Import. Einfach starten: ZIP entpacken, Datei öffnen – sofort einsatzbereit, auch ohne Internet.
 
 ## 2. Links
 

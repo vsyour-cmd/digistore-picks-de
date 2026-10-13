@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Wonnekind bietet kurze, verständliche PDF-Guides für typische Situationen in den ersten Familienjahren: Schlaf, Essen, Kita und Schule sowie Geschwister.</p>
-<p>Das Angebot passt zu deutschsprachigem Content rund um Familienalltag, Elternsein, Kleinkinder, bindungsorientierte Begleitung, Familienrezepte und Kita-Start.</p>
-<p>Affiliates erhalten 50 % Provision gemäß der im Produkt hinterlegten Digistore24-Einstellung, ein Bundle für 39 EUR und vier Einzelguides für jeweils 15 EUR, kostenlose Prüfexemplare nach bestätigter Partnerschaft, anpassbare Ideen für Reels, Storys, Pinterest und Newsletter sowie Promolinks und automatische Auszahlung über Digistore24.</p>
-<p>Es gibt keine Umsatzgarantie. Inhalte müssen ehrlich und transparent als Werbung beziehungsweise Affiliate-Inhalt gekennzeichnet werden. Keine Heil-, Erfolgs- oder Ergebnisversprechen.</p>
+**Vendor's marketplace description:** Wonnekind bietet kurze, verständliche PDF-Guides für typische Situationen in den ersten Familienjahren: Schlaf, Essen, Kita und Schule sowie Geschwister. Das Angebot passt zu deutschsprachigem Content rund um Familienalltag, Elternsein, Kleinkinder, bindungsorientierte Begleitung, Familienrezepte und Kita-Start. Affiliates erhalten 50 % Provision gemäß der im Produkt hinterlegten Digistore24-Einstellung, ein Bundle für 39 EUR und vier Einzelguides für jeweils 15 EUR, kostenlose Prüfexemplare nach bestätigter Partnerschaft, anpassbare Ideen für Reels, Storys, Pinterest und Newsletter sowie Promolinks und automatische Auszahlung über Digistore24. Es gibt keine Umsatzgarantie. Inhalte müssen ehrlich und transparent als Werbung beziehungsweise Affiliate-Inhalt gekennzeichnet werden. Keine Heil-, Erfolgs- oder Ergebnisversprechen.
 
 ## 2. Links
 

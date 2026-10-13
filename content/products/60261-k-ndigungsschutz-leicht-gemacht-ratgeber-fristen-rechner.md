@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Kündigungsschutz leicht gemacht – Ratgeber + Fristen-Rechner</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Nach einer Kündigung durch den Arbeitgeber laufen kurze Fristen, vor allem für die Kündigungsschutzklage. Der Ratgeber erklärt Fristen, Abfindung und Rechte <strong>verständlich</strong> und rechnet mit dem <strong>Fristen-Rechner</strong> die wichtigsten Termine aus.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Arbeitnehmer, denen gerade gekündigt wurde</li>
-<li>Beschäftigte, denen eine Kündigung droht</li>
-<li>Angehörige, die bei den nächsten Schritten helfen</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Gekündigt: Die Klagefrist läuft ab Zugang der Kündigung</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> ganzjährig gefragt, unabhängig von der Saison</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Ratgeber (Arbeitslosengeld, Arbeitszeugnis, Abmahnung, Kündigung, Bewerbung) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li>Der Ratgeber <strong>ersetzt keine Rechts-, Steuer- oder Sozialberatung</strong> im Einzelfall</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Kündigungsschutz leicht gemacht – Ratgeber + Fristen-Rechner Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Nach einer Kündigung durch den Arbeitgeber laufen kurze Fristen, vor allem für die Kündigungsschutzklage. Der Ratgeber erklärt Fristen, Abfindung und Rechte verständlich und rechnet mit dem Fristen-Rechner die wichtigsten Termine aus. Die Zielgruppe Arbeitnehmer, denen gerade gekündigt wurde Beschäftigte, denen eine Kündigung droht Angehörige, die bei den nächsten Schritten helfen Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Gekündigt: Die Klagefrist läuft ab Zugang der Kündigung Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: ganzjährig gefragt, unabhängig von der Saison Mehr verdienen: Weitere passende Ratgeber (Arbeitslosengeld, Arbeitszeugnis, Abmahnung, Kündigung, Bewerbung) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Der Ratgeber ersetzt keine Rechts-, Steuer- oder Sozialberatung im Einzelfall Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

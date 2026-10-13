@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong><span style="color:#3366ff;">NEUES E-Book</span> - sammle Leads wie am Schnürchen!</strong></h2>
-<p> </p>
-<p><strong>"Verschenke"</strong> mein eBook, um Leads &amp; Provisionen zu sammeln! Erhalte außerdem <strong>50% Provision</strong> pro Sale, auch bei <strong>Order Bump + Up- &amp; Downsells!</strong></p>
-<p> </p>
-<p><strong><em>Über 100€</em> Provision beim Upsell Durchlauf möglich!</strong></p>
-<p> </p>
-<p><strong>Das erwartet dich:</strong></p>
-<p><strong>✅ 50% Provision</strong> pro Sale, auch bei <strong>Order Bump + Up- &amp; Downsells!</strong></p>
-<p><strong>✅ 2nd-Level-Provisionen,</strong> dank Partner-wirbt-Partner Progamm!</p>
-<p><strong>✅ Wettbewerbe und Events</strong>, mit tollen Preisen, höheren Provisonen etc.!</p>
-<p>✅ <strong>Lifetime-Provision!</strong><em><br /></em></p>
-<p>✅ <strong>fertige Vorlagen und Werbemittel!</strong></p>
-<p> </p>
-<h2><strong>Google Ads Leitfaden für Affiliates</strong></h2>
-<p>Dieser Leitfaden ist das Sprungbrett für Affiliates in die Welt von Google Ads, um damit hochwertige Leads und Neukunden zu generieren. Da es für einen sehr geringen Preis bereitgestellt wird, sollten deine Kunden nicht lange überlegen müssen!</p>
-<p>Deine Kunden werden dankbar sein, dass Du ihnen diesen Mehrwert an die Hand gibst!</p>
-<p> </p>
-<p style="text-align:center;"><span style="background-color:#ff0000;color:#ffff00;"><a style="background-color:#ff0000;color:#ffff00;" href="https://kb-om.com/affiliate-support-seite-google-ads-leitfaden/" target="_blank" rel="noreferrer noopener"><strong>Jetzt Partner werden!</strong></a></span></p>
+**Vendor's marketplace description:** NEUES E-Book - sammle Leads wie am Schnürchen! "Verschenke" mein eBook, um Leads & Provisionen zu sammeln! Erhalte außerdem 50% Provision pro Sale, auch bei Order Bump + Up- & Downsells! Über 100€ Provision beim Upsell Durchlauf möglich! Das erwartet dich: ✅ 50% Provision pro Sale, auch bei Order Bump + Up- & Downsells! ✅ 2nd-Level-Provisionen, dank Partner-wirbt-Partner Progamm! ✅ Wettbewerbe und Events , mit tollen Preisen, höheren Provisonen etc.! ✅ Lifetime-Provision! ✅ fertige Vorlagen und Werbemittel! Google Ads Leitfaden für Affiliates Dieser Leitfaden ist das Sprungbrett für Affiliates in die Welt von Google Ads, um damit hochwertige Leads und Neukunden zu generieren. Da es für einen sehr geringen Preis bereitgestellt wird, sollten deine Kunden nicht lange überlegen müssen! Deine Kunden werden dankbar sein, dass Du ihnen diesen Mehrwert an die Hand gibst! Jetzt Partner werden!
 
 ## 2. Links
 

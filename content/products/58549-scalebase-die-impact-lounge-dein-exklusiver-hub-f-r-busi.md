@@ -41,35 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Dein Zugang zur ScaleBase – Die Impact Lounge</h3>
-<p>Du bist nur noch einen Schritt davon entfernt, dein Business auf das nächste Level zu skalieren. Werde jetzt Teil des exklusivsten "War Rooms" für Creator, Affiliates und Coaches im DACH-Raum und profitiere sofort von echtem Wachstum ohne Bullshit.</p>
-<p><strong>Das sicherst du dir mit deinem Zugang:</strong></p>
-<ul>
-<li>
-<p><strong>Das Macher-Netzwerk:</strong> Finde lukrative Partner und tausche dich auf Augenhöhe mit High-Performern aus.</p>
-</li>
-<li>
-<p><strong>Tech-Stack Meisterschaft:</strong> Exklusiver Support und geniale Automatisierungs-Hacks für <em>alfima</em>, <em>withme</em> &amp; <em>empirely (Hacks anwendbar auf alle gängigen Systeme)</em>.</p>
-</li>
-<li>
-<p><strong>Plug &amp; Play Blueprints:</strong> Direkter Zugriff auf sofort kopierbare Funnel-Vorlagen und erprobte Wachstums-Strategien.</p>
-</li>
-<li>
-<p><strong>The Freebie Toolbox:</strong> Handverlesene, kostenlose KI-Tools, die dir jeden Tag Stunden an Arbeit ersparen.</p>
-</li>
-</ul>
-<p><strong>Wichtige Informationen zur Lieferung:</strong></p>
-<ul>
-<li>
-<p><strong>Auslieferungsart:</strong> 100 % Digital (Sofortzugang)</p>
-</li>
-<li>
-<p><strong>Ablauf:</strong> Direkt nach erfolgreicher Bezahlung wird dir dein persönlicher Zugangslink vollautomatisch per E-Mail zugesendet.</p>
-</li>
-<li>
-<p>Du kannst dich in Sekundenschnelle einloggen und direkt in der Base durchstarten!</p>
-</li>
-</ul>
+**Vendor's marketplace description:** Dein Zugang zur ScaleBase – Die Impact Lounge Du bist nur noch einen Schritt davon entfernt, dein Business auf das nächste Level zu skalieren. Werde jetzt Teil des exklusivsten "War Rooms" für Creator, Affiliates und Coaches im DACH-Raum und profitiere sofort von echtem Wachstum ohne Bullshit. Das sicherst du dir mit deinem Zugang: Das Macher-Netzwerk: Finde lukrative Partner und tausche dich auf Augenhöhe mit High-Performern aus. Tech-Stack Meisterschaft: Exklusiver Support und geniale Automatisierungs-Hacks für alfima , withme & empirely (Hacks anwendbar auf alle gängigen Systeme) . Plug & Play Blueprints: Direkter Zugriff auf sofort kopierbare Funnel-Vorlagen und erprobte Wachstums-Strategien. The Freebie Toolbox: Handverlesene, kostenlose KI-Tools, die dir jeden Tag Stunden an Arbeit ersparen. Wichtige Informationen zur Lieferung: Auslieferungsart: 100 % Digital (Sofortzugang) Ablauf: Direkt nach erfolgreicher Bezahlung wird dir dein persönlicher Zugangslink vollautomatisch per E-Mail zugesendet. Du kannst dich in Sekundenschnelle einloggen und direkt in der Base durchstarten!
 
 ## 2. Links
 

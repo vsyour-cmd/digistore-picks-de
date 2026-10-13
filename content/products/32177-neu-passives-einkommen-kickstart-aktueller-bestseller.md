@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit unserem Kickstart-Buch haben wir anscheinend einen Nerv getroffen. Die Nachfrage ist enorm! Wir möchten auch dich motivieren, dieses Erfolgs-Buch zu verschenken!</p>
-<h2><span style="color:#ff0000;"><strong>Für jede Bestellung bekommst du ganze 5€ Provision (netto)!</strong></span></h2>
-<p>Du musst hier keine harte Promo fahren, um Provisionen zu kassieren – sondern lediglich das Buch als Geschenk anbieten!</p>
-<p>In unserem Partnerbereich findest du jede Menge Werbemittel inkl. E-Mail Vorlagen. So kannst du direkt durchstarten. <a>Hier gelangst du zum Partnerbereich.</a></p>
-<p>Solltest du Rückfragen haben, kontaktiere uns gerne: <a>team@gruender.de</a></p>
+**Vendor's marketplace description:** Mit unserem Kickstart-Buch haben wir anscheinend einen Nerv getroffen. Die Nachfrage ist enorm! Wir möchten auch dich motivieren, dieses Erfolgs-Buch zu verschenken! Für jede Bestellung bekommst du ganze 5€ Provision (netto)! Du musst hier keine harte Promo fahren, um Provisionen zu kassieren – sondern lediglich das Buch als Geschenk anbieten! In unserem Partnerbereich findest du jede Menge Werbemittel inkl. E-Mail Vorlagen. So kannst du direkt durchstarten. Hier gelangst du zum Partnerbereich. Solltest du Rückfragen haben, kontaktiere uns gerne: team@gruender.de
 
 ## 2. Links
 

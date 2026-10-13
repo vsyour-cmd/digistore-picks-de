@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>„Mentale Stärke ist leise“ trifft einen hochaktuellen Nerv: Stress, Dauererreichbarkeit, digitale Überforderung, Burnout und der Wunsch nach innerer Ruhe betreffen Millionen Menschen.</p>
-<p>Das Buch positioniert mentale Stärke bewusst neu – weg von Leistungsdruck, Selbstoptimierung und toxischer Härte hin zu Resilienz, Grenzen setzen, emotionaler Selbstverantwortung und innerem Frieden.</p>
-<p>Durch die starke emotionale Ansprache und die breite Zielgruppe aus gestressten Berufstätigen, Selbstoptimierern und Menschen auf der Suche nach Balance ist das Thema hervorragend vermarktbar.</p>
-<p>Ein zeitloses Self-Help-Produkt mit klarer Botschaft, hoher Relevanz und starkem Conversion-Potenzial im boomenden Markt für mentale Gesundheit und persönliche Entwicklung.</p>
+**Vendor's marketplace description:** „Mentale Stärke ist leise“ trifft einen hochaktuellen Nerv: Stress, Dauererreichbarkeit, digitale Überforderung, Burnout und der Wunsch nach innerer Ruhe betreffen Millionen Menschen. Das Buch positioniert mentale Stärke bewusst neu – weg von Leistungsdruck, Selbstoptimierung und toxischer Härte hin zu Resilienz, Grenzen setzen, emotionaler Selbstverantwortung und innerem Frieden. Durch die starke emotionale Ansprache und die breite Zielgruppe aus gestressten Berufstätigen, Selbstoptimierern und Menschen auf der Suche nach Balance ist das Thema hervorragend vermarktbar. Ein zeitloses Self-Help-Produkt mit klarer Botschaft, hoher Relevanz und starkem Conversion-Potenzial im boomenden Markt für mentale Gesundheit und persönliche Entwicklung.
 
 ## 2. Links
 

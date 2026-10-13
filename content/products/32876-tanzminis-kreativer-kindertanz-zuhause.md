@@ -41,56 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<p> "Tanzminis - Kreativer Kindertanz zuhause" ist ein Videokurs für Kinder ab 2,5 Jahren und ihre Eltern.</p>
-<h2><span style="background-color:#ff99cc;color:#ffffff;">Empfehlen Sie "Tanzminis" weiter und erhalten Sie 50% Provision!</span></h2>
-<h2><span style="color:#000000;"><strong>Über 40% cart conversion rate!</strong></span></h2>
-<h2>Was ist im Paket enthalten?</h2>
-</div>
-<div>
-<div>
-<div>
-<div>
-<h3><a>10 kindgerechte Videokurse á ca 10 Minuten</a></h3>
-<p>Über 100 Minuten Tanzvideos für 2,5- bis 4-Jährige zu den Themen: Unterwasserwelt, Wetter, Tierischer Tanzspaß, Ballett, Tanzreime und Gedichte</p>
-</div>
-</div>
-<div>
-<div>
-<h3><a>Bonusvideo: Meine Ersten Tanzschritte - Großes Lexikon</a></h3>
-<p>Das große Tanzlexikon mit den wichtigsten Grundübungen für kleine TänzerInnen.</p>
-</div>
-</div>
-<div>
-<div>
-<h3><a>Angepasst auf alle gängigen Geräte</a></h3>
-<p>Egal ob auf dem PC, TV, dem Smartphone oder Tablet, Tanzminis ist überall dabei.</p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<h3><a>PDF mit allen Reimen und Gedichten </a></h3>
-<p>Die selbst gereimten Texte im Themengebiet "Tanzreime und Gedichte" gibt es als Download in Form einer PDF</p>
-</div>
-</div>
-<div>
-<div>
-<h3><a>Integrierte Facebook-Gruppe</a></h3>
-<p>eigener Mitgliederbereich mit Kommentarfunktion zum regelmäßigen Austauschen der Fortschritte/Erfahrungen</p>
-</div>
-</div>
-<div>
-<div>
-<h3><a>Große Musikliste zum Weiterüben</a></h3>
-<p>Neben der eigens für Tanzminis eingespielten Musik garantiert eine Spotify-Liste mit jeweils passenden Titeln langen Spaß mit dem Kurs.</p>
-<p> </p>
-<h2><span style="background-color:#ff99cc;color:#ffffff;">Sprechen Sie uns gern an: partner@tanzminis.de</span></h2>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** "Tanzminis - Kreativer Kindertanz zuhause" ist ein Videokurs für Kinder ab 2,5 Jahren und ihre Eltern. Empfehlen Sie "Tanzminis" weiter und erhalten Sie 50% Provision! Über 40% cart conversion rate! Was ist im Paket enthalten? 10 kindgerechte Videokurse á ca 10 Minuten Über 100 Minuten Tanzvideos für 2,5- bis 4-Jährige zu den Themen: Unterwasserwelt, Wetter, Tierischer Tanzspaß, Ballett, Tanzreime und Gedichte Bonusvideo: Meine Ersten Tanzschritte - Großes Lexikon Das große Tanzlexikon mit den wichtigsten Grundübungen für kleine TänzerInnen. Angepasst auf alle gängigen Geräte Egal ob auf dem PC, TV, dem Smartphone oder Tablet, Tanzminis ist überall dabei. PDF mit allen Reimen und Gedichten Die selbst gereimten Texte im Themengebiet "Tanzreime und Gedichte" gibt es als Download in Form einer PDF Integrierte Facebook-Gruppe eigener Mitgliederbereich mit Kommentarfunktion zum regelmäßigen Austauschen der Fortschritte/Erfahrungen Große Musikliste zum Weiterüben Neben der eigens für Tanzminis eingespielten Musik garantiert eine Spotify-Liste mit jeweils passenden Titeln langen Spaß mit dem Kurs. Sprechen Sie uns gern an: partner@tanzminis.de
 
 ## 2. Links
 

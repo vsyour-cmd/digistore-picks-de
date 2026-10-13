@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Durch diesen Kurs erhältst jeder die Möglichkeit, viele neue Erfahrungen in der Floristik zu machen oder,bei Vorwissen seine Fähigkeiten enorm zu verbessern.</p>
-<p> </p>
-<p>Folgende 6 Gesteckebindetechniken werden im Onlinekurs gelehrt:</p>
-<ul>
-<li>Klassiker für den schmalen Tisch.</li>
-<li>Ein hohes, herabfließendes Gesteck für ein Büfett.</li>
-<li>Ein kleines Gärtchen Gesteck.</li>
-<li>Ein großes parallels Gesteck.</li>
-<li>
-<p>Ein Gesteck im Gerüst.</p>
-</li>
-<li>Ein Gesteck auf einem Steckigel.</li>
-</ul>
+**Vendor's marketplace description:** Durch diesen Kurs erhältst jeder die Möglichkeit, viele neue Erfahrungen in der Floristik zu machen oder,bei Vorwissen seine Fähigkeiten enorm zu verbessern. Folgende 6 Gesteckebindetechniken werden im Onlinekurs gelehrt: Klassiker für den schmalen Tisch. Ein hohes, herabfließendes Gesteck für ein Büfett. Ein kleines Gärtchen Gesteck. Ein großes parallels Gesteck. Ein Gesteck im Gerüst. Ein Gesteck auf einem Steckigel.
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>B2B-Leadgen, Social Selling und planbare Neukunden ohne Kaltakquise</strong></p>
-<p>Für Unternehmen und Selbstständige im B2B-Bereich ist LinkedIn die leistungsstärkste Akquise-Plattform überhaupt – wenn man sie systematisch nutzt. Dieses E-Book zeigt dir, wie du einen B2B-Leadgen-Funnel aufbaust, der aus Beiträgen, Kommentaren und gezielten DMs planbar Erstgespräche und Aufträge generiert. Du lernst, wie du Entscheider identifizierst und ansprichst, wie du über Content Vertrauen aufbaust, bevor der erste Kontakt stattfindet, und wie du Social Selling konsequent in deinen Vertriebsalltag integrierst. Inklusive: CRM-freundliche Kontaktlisten, DM-Skripte, die nicht nach Massenversand klingen, und ein klarer Fahrplan für messbare Ergebnisse – Woche für Woche.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Dein B2B-Funnel auf LinkedIn: von Sichtbarkeit zu Erstgespräch</li>
-<li>Zielkunden mit LinkedIn-Suche und Sales Navigator identifizieren</li>
-<li>Content-Strategie, die Entscheider anzieht und Vertrauen aufbaut</li>
-<li>Social Selling Index (SSI) verbessern und Reichweite gezielt steigern</li>
-<li>DM-Sequenzen, die persönlich wirken und nicht nach Spam aussehen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** B2B-Leadgen, Social Selling und planbare Neukunden ohne Kaltakquise Für Unternehmen und Selbstständige im B2B-Bereich ist LinkedIn die leistungsstärkste Akquise-Plattform überhaupt – wenn man sie systematisch nutzt. Dieses E-Book zeigt dir, wie du einen B2B-Leadgen-Funnel aufbaust, der aus Beiträgen, Kommentaren und gezielten DMs planbar Erstgespräche und Aufträge generiert. Du lernst, wie du Entscheider identifizierst und ansprichst, wie du über Content Vertrauen aufbaust, bevor der erste Kontakt stattfindet, und wie du Social Selling konsequent in deinen Vertriebsalltag integrierst. Inklusive: CRM-freundliche Kontaktlisten, DM-Skripte, die nicht nach Massenversand klingen, und ein klarer Fahrplan für messbare Ergebnisse – Woche für Woche. Das steckt drin: Dein B2B-Funnel auf LinkedIn: von Sichtbarkeit zu Erstgespräch Zielkunden mit LinkedIn-Suche und Sales Navigator identifizieren Content-Strategie, die Entscheider anzieht und Vertrauen aufbaut Social Selling Index (SSI) verbessern und Reichweite gezielt steigern DM-Sequenzen, die persönlich wirken und nicht nach Spam aussehen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

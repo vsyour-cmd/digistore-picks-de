@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Endlich Klarheit bei Deiner Hinterbliebenenrente – jetzt neu: <a>mit Lifehack</a></h3>
-<h3>Das erwartet dich:</h3>
-<p>✅ Excel-Berechnungshilfe zur Hinterbliebenenrente<br />✅ einfache Eingabe deiner Rentenpunkte, Rentenart und deines Einkommens (aktuell oder geplantes)<br />✅ direkte Berechnung deiner voraussichtlichen Rentenhöhe</p>
-<h3>Dein Ziel:</h3>
-<p>Finde heraus, wie viel dir wirklich bleibt und wie sich dein aktuelles oder zukünftiges Einkommen auf deine Hinterbliebenenrente auswirkt.</p>
-<h3>Einfach. Schnell. Verständlich.</h3>
-<p>✅ die Höhe deiner zukünftigen <strong>Witwenrente, Witwerrente oder Erziehungsrente</strong> berechnen<br />✅ verschiedene Einkommenshöhen durchspielen<br />✅ nachvollziehen, wie sich Kürzungen durch die Einkommensanrechnung auswirken<br />✅ deine finanzielle Planung besser vorbereiten</p>
-<p>Hinweis: Die Excel-Datei ist urheberrechtlich geschützt. Eine Weitergabe ist nicht erlaubt.</p>
+**Vendor's marketplace description:** Endlich Klarheit bei Deiner Hinterbliebenenrente – jetzt neu: mit Lifehack Das erwartet dich: ✅ Excel-Berechnungshilfe zur Hinterbliebenenrente ✅ einfache Eingabe deiner Rentenpunkte, Rentenart und deines Einkommens (aktuell oder geplantes) ✅ direkte Berechnung deiner voraussichtlichen Rentenhöhe Dein Ziel: Finde heraus, wie viel dir wirklich bleibt und wie sich dein aktuelles oder zukünftiges Einkommen auf deine Hinterbliebenenrente auswirkt. Einfach. Schnell. Verständlich. ✅ die Höhe deiner zukünftigen Witwenrente, Witwerrente oder Erziehungsrente berechnen ✅ verschiedene Einkommenshöhen durchspielen ✅ nachvollziehen, wie sich Kürzungen durch die Einkommensanrechnung auswirken ✅ deine finanzielle Planung besser vorbereiten Hinweis: Die Excel-Datei ist urheberrechtlich geschützt. Eine Weitergabe ist nicht erlaubt.
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="padding-left:40px;">Bewerben Sie die Hilfestellungen und Checkliste zur richtigen Vorbereitungen auf den MDK Begutachtungstermin. Um den Pflegegrad zu erhalten und eine Ablehnung zu vermeiden. </p>
+**Vendor's marketplace description:** Bewerben Sie die Hilfestellungen und Checkliste zur richtigen Vorbereitungen auf den MDK Begutachtungstermin. Um den Pflegegrad zu erhalten und eine Ablehnung zu vermeiden.
 
 ## 2. Links
 

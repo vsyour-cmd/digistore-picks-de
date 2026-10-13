@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Die Minikurs Hot Cake Methode von Jyotima Flak<br /></strong><br />Verkaufe deine Minikurse wie warme Semmeln – einfach, schnell und automatisiert.<br /><br />In diesem Kurs zeige ich dir Schritt für Schritt, wie du dir ein System aus unwiderstehlichen Minikursen aufbaust, die sich täglich verkaufen und dir treue Stammkunden bringen.<br /><br />Das bekommst du:<br />3 Module voller heißer Strategien – direkt aus der Praxis: <br />• Positionierungs-Formel – für Evergreen-Erfolg <br />• Landingpage-Formel – emotional &amp; überzeugend <br />• Unwiderstehlich-Verkaufen-Formel – für tägliche Verkäufe<br /><br />Dazu Praxis-Tipps aus über 15 Jahren Onlinebusiness und mehr als 12.000 verkauften Produkten.<br /><br />Ein weiterer Kurs plus Upsells aus Jyotimas beliebter Minikurs-Methoden-Reihe</p>
+**Vendor's marketplace description:** Die Minikurs Hot Cake Methode von Jyotima Flak Verkaufe deine Minikurse wie warme Semmeln – einfach, schnell und automatisiert. In diesem Kurs zeige ich dir Schritt für Schritt, wie du dir ein System aus unwiderstehlichen Minikursen aufbaust, die sich täglich verkaufen und dir treue Stammkunden bringen. Das bekommst du: 3 Module voller heißer Strategien – direkt aus der Praxis: • Positionierungs-Formel – für Evergreen-Erfolg • Landingpage-Formel – emotional & überzeugend • Unwiderstehlich-Verkaufen-Formel – für tägliche Verkäufe Dazu Praxis-Tipps aus über 15 Jahren Onlinebusiness und mehr als 12.000 verkauften Produkten. Ein weiterer Kurs plus Upsells aus Jyotimas beliebter Minikurs-Methoden-Reihe
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie Unternehmen mit der richtigen Plattformstrategie planbar Anfragen und Neukunden generieren</strong></p>
-<p>Für Unternehmen ist Social Media kein Spielplatz für Likes, sondern ein Vertriebskanal mit enormem Hebel – wenn man ihn richtig einsetzt. Dieses E-Book zeigt dir, wie du die für dein Business wirkungsvolle Plattform identifizierst, Content entlang der gesamten Customer Journey planst und einen Funnel aufbaust, der aus Reichweite qualifizierte Anfragen macht. Du lernst, wie Algorithmus-Grundprinzipien auf LinkedIn, Instagram und TikTok funktionieren, wie du Vertrauen in deine Marke aufbaust, Content effizient auf mehrere Kanäle ausrollt (Repurposing) und wie du den ROI deiner Aktivitäten messbar machst. Ein System, das nicht auf virale Zufälle setzt, sondern auf planbare, wiederkehrende Neukunden.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Plattformwahl für Unternehmen: LinkedIn, Instagram, TikTok und YouTube strategisch vergleichen</li>
-<li>Content entlang der Customer Journey planen und Kaufabsicht gezielt treffen</li>
-<li>Funnel aufbauen: von der ersten Sichtbarkeit bis zur Anfrage und zum Abschluss</li>
-<li>Repurposing-System: Content effizient auf mehrere Kanäle ausrollen</li>
-<li>Algorithmus-Grundprinzipien nutzen: was organische Reichweite auf allen Plattformen treibt</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie Unternehmen mit der richtigen Plattformstrategie planbar Anfragen und Neukunden generieren Für Unternehmen ist Social Media kein Spielplatz für Likes, sondern ein Vertriebskanal mit enormem Hebel – wenn man ihn richtig einsetzt. Dieses E-Book zeigt dir, wie du die für dein Business wirkungsvolle Plattform identifizierst, Content entlang der gesamten Customer Journey planst und einen Funnel aufbaust, der aus Reichweite qualifizierte Anfragen macht. Du lernst, wie Algorithmus-Grundprinzipien auf LinkedIn, Instagram und TikTok funktionieren, wie du Vertrauen in deine Marke aufbaust, Content effizient auf mehrere Kanäle ausrollt (Repurposing) und wie du den ROI deiner Aktivitäten messbar machst. Ein System, das nicht auf virale Zufälle setzt, sondern auf planbare, wiederkehrende Neukunden. Das steckt drin: Plattformwahl für Unternehmen: LinkedIn, Instagram, TikTok und YouTube strategisch vergleichen Content entlang der Customer Journey planen und Kaufabsicht gezielt treffen Funnel aufbauen: von der ersten Sichtbarkeit bis zur Anfrage und zum Abschluss Repurposing-System: Content effizient auf mehrere Kanäle ausrollen Algorithmus-Grundprinzipien nutzen: was organische Reichweite auf allen Plattformen treibt Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

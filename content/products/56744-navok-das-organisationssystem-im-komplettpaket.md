@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>NAVOK® ist das Navigationssystem für Organisationsklarheit:</strong></p>
-<p>Sechs Playbooks zu Struktur, Prozesse &amp; Steuerung, Rollen &amp; Verantwortung, Führung, Entscheidungen und Prioritäten – gebündelt im Komplettpaket "NAVOK – Das Organisationssystem" für 1.099 €.</p>
-<p><strong>Zielgruppe:</strong> Geschäftsführung im Mittelstand (200–2.000 Mitarbeitende), HR- und Organisationsentwickler, Berater und Coaches im B2B-Umfeld, die ein vollständiges, sofort einsetzbares System statt einzelner Bausteine suchen.</p>
-<p>Als Affiliate erhalten Sie <strong>50 % Provision</strong> auf jeden Verkauf. Über die NAVOK-Lifetime-Regel erhalten Sie zusätzlich automatisch Provision, wenn ein von Ihnen geworbener Kunde später eines der sechs Einzeldimension-Playbooks kauft – auch ohne erneuten Klick auf Ihren Link.</p>
-<p>Fertige Werbemittel, Social-Media-Texte und weitere Infos finden Sie auf unserer Affiliate-Support-Seite.</p>
+**Vendor's marketplace description:** NAVOK® ist das Navigationssystem für Organisationsklarheit: Sechs Playbooks zu Struktur, Prozesse & Steuerung, Rollen & Verantwortung, Führung, Entscheidungen und Prioritäten – gebündelt im Komplettpaket "NAVOK – Das Organisationssystem" für 1.099 €. Zielgruppe: Geschäftsführung im Mittelstand (200–2.000 Mitarbeitende), HR- und Organisationsentwickler, Berater und Coaches im B2B-Umfeld, die ein vollständiges, sofort einsetzbares System statt einzelner Bausteine suchen. Als Affiliate erhalten Sie 50 % Provision auf jeden Verkauf. Über die NAVOK-Lifetime-Regel erhalten Sie zusätzlich automatisch Provision, wenn ein von Ihnen geworbener Kunde später eines der sechs Einzeldimension-Playbooks kauft – auch ohne erneuten Klick auf Ihren Link. Fertige Werbemittel, Social-Media-Texte und weitere Infos finden Sie auf unserer Affiliate-Support-Seite.
 
 ## 2. Links
 

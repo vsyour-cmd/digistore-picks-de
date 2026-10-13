@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Salesora – KI-Automation für moderne Kundenkommunikation</strong></p>
-<p>Du bist Affiliate oder Vertriebspartner und möchtest ein starkes Tool vermarkten, das Unternehmen wirklich hilft?</p>
-<p>Salesora automatisiert Kundenanfragen über WhatsApp, Instagram, Facebook Messenger und Webseiten. Unternehmen können schneller antworten, Leads besser vorbereiten und Termine einfacher koordinieren – ohne Programmierung und ohne komplizierte Einrichtung.</p>
-<p><strong>Warum Salesora spannend für Affiliates ist:</strong></p>
-<p><strong>Klares Problem:</strong> Viele Unternehmen verlieren täglich Anfragen.<br /><strong>Einfache Lösung:</strong> Salesora antwortet automatisch und rund um die Uhr.<br /><strong>Leicht zu verkaufen:</strong> Der Nutzen ist sofort verständlich.<br /><strong>Schnell eingerichtet:</strong> Kein technisches Vorwissen nötig.<br /><strong>Für viele Branchen geeignet:</strong> Dienstleister, Agenturen, Praxen, Studios, Restaurants und mehr.</p>
-<p><strong>Als Affiliate bist du herzlich willkommen, Salesora aktiv zu empfehlen und mitzuvermarkten.</strong></p>
+**Vendor's marketplace description:** Salesora – KI-Automation für moderne Kundenkommunikation Du bist Affiliate oder Vertriebspartner und möchtest ein starkes Tool vermarkten, das Unternehmen wirklich hilft? Salesora automatisiert Kundenanfragen über WhatsApp, Instagram, Facebook Messenger und Webseiten. Unternehmen können schneller antworten, Leads besser vorbereiten und Termine einfacher koordinieren – ohne Programmierung und ohne komplizierte Einrichtung. Warum Salesora spannend für Affiliates ist: Klares Problem: Viele Unternehmen verlieren täglich Anfragen. Einfache Lösung: Salesora antwortet automatisch und rund um die Uhr. Leicht zu verkaufen: Der Nutzen ist sofort verständlich. Schnell eingerichtet: Kein technisches Vorwissen nötig. Für viele Branchen geeignet: Dienstleister, Agenturen, Praxen, Studios, Restaurants und mehr. Als Affiliate bist du herzlich willkommen, Salesora aktiv zu empfehlen und mitzuvermarkten.
 
 ## 2. Links
 

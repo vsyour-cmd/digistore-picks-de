@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><big>Hypnose Kurs: "Rauchen aufhören, Raucherentwöhnung"</big></h2>
-<h4>1,5 Stunden On-demand Videos für:</h4>
-<ul><li>Stärkere Motivation</li>
-<li>Leichterer Verzicht</li>
-<li>Mehr Kontrolle</li>
-<li>Trennung von Rauchen zu anderem</li>
-</ul><p><strong>Kursinhalte, Bewertungen und Vorschauvideos auf der Verkaufsseite.</strong></p>
+**Vendor's marketplace description:** Hypnose Kurs: "Rauchen aufhören, Raucherentwöhnung" 1,5 Stunden On-demand Videos für: Stärkere Motivation Leichterer Verzicht Mehr Kontrolle Trennung von Rauchen zu anderem Kursinhalte, Bewertungen und Vorschauvideos auf der Verkaufsseite.
 
 ## 2. Links
 

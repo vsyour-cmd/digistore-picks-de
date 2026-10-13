@@ -41,37 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><span style="background-color:#ffff00;">eBook</span> von YouTubes größtem Kanal zum Thema Schlaf</strong></p>
-<ul>
-<li>260 Seiten | PDF | Sprache: Deutsch</li>
-<li>Renommierte Autoren </li>
-</ul>
-<p><strong>Inhalt</strong></p>
-<ul>
-<li>
-<div>Alltagstaugliche Schlaftipps</div>
-</li>
-<li>
-<div>Die Hauptursache fast aller Schlafprobleme </div>
-</li>
-<li>
-<div>Wie Du in einen gesunden Schlafrhythmus findest</div>
-</li>
-<li>
-<div>Alles zum Thema Träumen</div>
-</li>
-<li>
-<div>uvm.</div>
-</li>
-</ul>
-<p><strong>Du bewirbst:</strong></p>
-<ul>
-<li>eBook</li>
-<li>Supplement Guide <strong>Addon</strong></li>
-<li><strong>Upsell - Workshop Durchschlafprobleme</strong></li>
-</ul>
-<p><span style="background-color:#ffff00;color:#000000;"><strong>Nachträglicher E-Mail Funnel + Splittests</strong></span></p>
-<p><span style="color:#000000;">Die physische Version wurde über 5.000x verschenkt.</span></p>
+**Vendor's marketplace description:** eBook von YouTubes größtem Kanal zum Thema Schlaf 260 Seiten | PDF | Sprache: Deutsch Renommierte Autoren Inhalt Alltagstaugliche Schlaftipps Die Hauptursache fast aller Schlafprobleme Wie Du in einen gesunden Schlafrhythmus findest Alles zum Thema Träumen uvm. Du bewirbst: eBook Supplement Guide Addon Upsell - Workshop Durchschlafprobleme Nachträglicher E-Mail Funnel + Splittests Die physische Version wurde über 5.000x verschenkt.
 
 ## 2. Links
 

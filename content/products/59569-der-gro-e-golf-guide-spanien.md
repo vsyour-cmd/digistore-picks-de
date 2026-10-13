@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Entdecke Spanien als Golfdestination. Der digitale Golf-Guide Spanien mit über 250 Seiten bietet Inspiration, Golfregionen, Golfplätze und praktische Tipps für deinen nächsten Golfurlaub.</p>
-<p>✅ Über 250 Seiten<br />✅ Spaniens wichtigste Golfregionen<br />✅ Golfplätze für jedes Spielniveau<br />✅ Hotels, Greenfees &amp; Reiseplanung<br />✅ Bonus: Golfplatz-Atlas Spanien mit über 100 Golfplätzen</p>
-<p>Du liebst Spanien und hast eine Community, die sich für <strong>Reisen, Mallorca, Auswandern, Camping, Wohnmobil, Ruhestand oder das Leben in Spanien</strong> interessiert?</p>
-<p>Dann werde <strong>Creator &amp; Influencer Partner von Nachrichten.es</strong> und empfehle unsere digitalen Spanien-Ratgeber deiner Community.</p>
-<p>Du erhältst dabei <strong>50 % Provision auf jeden erfolgreichen Verkauf</strong> über deinen persönlichen Affiliate-Link.</p>
+**Vendor's marketplace description:** Entdecke Spanien als Golfdestination. Der digitale Golf-Guide Spanien mit über 250 Seiten bietet Inspiration, Golfregionen, Golfplätze und praktische Tipps für deinen nächsten Golfurlaub. ✅ Über 250 Seiten ✅ Spaniens wichtigste Golfregionen ✅ Golfplätze für jedes Spielniveau ✅ Hotels, Greenfees & Reiseplanung ✅ Bonus: Golfplatz-Atlas Spanien mit über 100 Golfplätzen Du liebst Spanien und hast eine Community, die sich für Reisen, Mallorca, Auswandern, Camping, Wohnmobil, Ruhestand oder das Leben in Spanien interessiert? Dann werde Creator & Influencer Partner von Nachrichten.es und empfehle unsere digitalen Spanien-Ratgeber deiner Community. Du erhältst dabei 50 % Provision auf jeden erfolgreichen Verkauf über deinen persönlichen Affiliate-Link.
 
 ## 2. Links
 

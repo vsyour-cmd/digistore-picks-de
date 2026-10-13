@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Meistere die englische Sprache mit System, Struktur und pädagogischer Perfektion!</strong></p>
-<p>Dieser professionelle <strong>Englisch Master-Komplettkurs</strong> führt dich Schritt für Schritt von den Grundlagen (Niveau A1) bis zu verhandlungssicherem Englisch (Niveau B2). Entwickelt nach modernsten didaktischen Standards, verbindet der Kurs fundierte Sprachwissenschaft mit praxisnaher Didaktik – ideal für Beruf, Reise und Alltag.</p>
-<p><strong>Deine Highlights im Überblick:</strong></p>
-<ul>
-<li>
-<p><strong>100 Durchdachte Lektionen:</strong> Aufgeteilt in 4 aufeinander aufbauende Module für einen nahtlosen Lernerfolg.</p>
-</li>
-<li>
-<p><strong>Umfassendes Master-PDF Begleitbuch:</strong> Alle 100 Lektionen kompakt aufbereitet inklusive 20-Fragen-Abschluss-Quiz und detailliertem Lösungsschlüssel mit Erklärungen.</p>
-</li>
-<li>
-<p><strong>Interaktives Studio-Quiz (App):</strong> Teste dein Wissen direkt im Browser, erhalte sofortige Auswertungen und verfolge deine Lernfortschritte live.</p>
-</li>
-</ul>
-<p><strong>Starte jetzt und bringe dein Englisch auf echtes Master-Niveau!</strong></p>
+**Vendor's marketplace description:** Meistere die englische Sprache mit System, Struktur und pädagogischer Perfektion! Dieser professionelle Englisch Master-Komplettkurs führt dich Schritt für Schritt von den Grundlagen (Niveau A1) bis zu verhandlungssicherem Englisch (Niveau B2). Entwickelt nach modernsten didaktischen Standards, verbindet der Kurs fundierte Sprachwissenschaft mit praxisnaher Didaktik – ideal für Beruf, Reise und Alltag. Deine Highlights im Überblick: 100 Durchdachte Lektionen: Aufgeteilt in 4 aufeinander aufbauende Module für einen nahtlosen Lernerfolg. Umfassendes Master-PDF Begleitbuch: Alle 100 Lektionen kompakt aufbereitet inklusive 20-Fragen-Abschluss-Quiz und detailliertem Lösungsschlüssel mit Erklärungen. Interaktives Studio-Quiz (App): Teste dein Wissen direkt im Browser, erhalte sofortige Auswertungen und verfolge deine Lernfortschritte live. Starte jetzt und bringe dein Englisch auf echtes Master-Niveau!
 
 ## 2. Links
 

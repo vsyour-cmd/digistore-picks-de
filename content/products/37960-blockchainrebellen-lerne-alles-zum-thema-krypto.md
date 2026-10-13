@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>TOP-Dauereinkommen!<br />DIE komplette Ausbildung um im Kryptodschungel Durchblick zu er- und behalten.</p>
-<p>Deine Vorteile als Affiliate:</p>
-<p>hochwertiges Learning im Abo (VIP Paket: €99,90/Monat)<br />50% Provision solange das Abo läuft, jeden Monat<br />Regelmäßige Lives für alle, die uns kennenlernen wollen.</p>
-<p>Frei Hand in der Promotion.</p>
-<p>Zu den BLOCKCHAINREBELLEN:</p>
-<p>Jede Menge Grundlagenvideos und im VIP Paket persönliche Betreuung auf unserem VIP Discord Server ermöglichen es wirklich jedem, der mit einem PC oder einem Handy umgehen kann eine einfachen Einstieg in die Kryptowelt.</p>
-<p>Aber wir gehen noch weiter und beschränken uns nicht darauf, sondern ganz nebenbei zeigen wir worauf man achten muss, wie erkenne ich einen Scam, wie funktioniert Telegram, Zoom und viele andere Tools.</p>
-<p>Die Kunden benötigen dafür lediglich einen PC bzw. Laptop oder ein Tablet/Handy mit Internetzugang.</p>
-<p>Die Vorteile für deine Kunden:</p>
-<p>- eine einzigartige, qualitativ hochwertige, persönliche Online-Ausbildung<br />- das BLOCKCHAINREBELLEN Team bietet über 12 Jahre Kryptoerfahrung<br />- ortsunabhängig (z.B. bequem von zu Hause aus oder von einem anderen Ort der Welt mit Internetverbindung)<br />- über 80 Videos, in denen Schritt für Schritt alles erklärt und gezeigt wird<br />- Krypto-Basics und Krypto-Insidertipps<br />- Support per Email und Telegram<br />- regelmäßige CommunityCalls und AMAs<br />- Geldsicherheit + Rendite = zufriedene und glückliche Kunden</p>
-<p>Hier Dein Promolink:</p>
+**Vendor's marketplace description:** TOP-Dauereinkommen! DIE komplette Ausbildung um im Kryptodschungel Durchblick zu er- und behalten. Deine Vorteile als Affiliate: hochwertiges Learning im Abo (VIP Paket: €99,90/Monat) 50% Provision solange das Abo läuft, jeden Monat Regelmäßige Lives für alle, die uns kennenlernen wollen. Frei Hand in der Promotion. Zu den BLOCKCHAINREBELLEN: Jede Menge Grundlagenvideos und im VIP Paket persönliche Betreuung auf unserem VIP Discord Server ermöglichen es wirklich jedem, der mit einem PC oder einem Handy umgehen kann eine einfachen Einstieg in die Kryptowelt. Aber wir gehen noch weiter und beschränken uns nicht darauf, sondern ganz nebenbei zeigen wir worauf man achten muss, wie erkenne ich einen Scam, wie funktioniert Telegram, Zoom und viele andere Tools. Die Kunden benötigen dafür lediglich einen PC bzw. Laptop oder ein Tablet/Handy mit Internetzugang. Die Vorteile für deine Kunden: - eine einzigartige, qualitativ hochwertige, persönliche Online-Ausbildung - das BLOCKCHAINREBELLEN Team bietet über 12 Jahre Kryptoerfahrung - ortsunabhängig (z.B. bequem von zu Hause aus oder von einem anderen Ort der Welt mit Internetverbindung) - über 80 Videos, in denen Schritt für Schritt alles erklärt und gezeigt wird - Krypto-Basics und Krypto-Insidertipps - Support per Email und Telegram - regelmäßige CommunityCalls und AMAs - Geldsicherheit + Rendite = zufriedene und glückliche Kunden Hier Dein Promolink:
 
 ## 2. Links
 

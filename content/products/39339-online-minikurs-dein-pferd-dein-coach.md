@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Auf diesen online Schnupperkurs biete ich <span style="color:#ffff00;"><span style="color:#000000;background-color:#ffff00;">25%</span> <span style="color:#000000;">Provision</span></span></p>
-<p>Jeder Pferdemensch weiß über die Fähigkeiten der Pferde, Menschen in ihrenm Stärken und Ressourcen zu entwickeln.</p>
-<p>Reitlehrer, Reittherapeuthen oder auch andere Berufsgruppen die Pferde, Tiere oder Natur mit integrieren können sich hier einfache Fragen, Systemische Aufstellungsformate und verschiedene Herangehensweisen in Bezug auf den bewussten Einsatz der Pferde im Bereich Persönlichkeitsentwicklung, aneignen. </p>
-<p> </p>
-<p>Der Schnupperkurs ist die Vorstufe zu einer Online Ausbildung mit 6 Modulen und 3 Präsenztagen vor Ort um das Systemische Coaching zu erlernen. </p>
-<p>Im Bereich Coaching, sowie Arbeit mit Pferden ist dieser Kurs nahezu einmalig. </p>
-<div> </div>
+**Vendor's marketplace description:** Auf diesen online Schnupperkurs biete ich 25% Provision Jeder Pferdemensch weiß über die Fähigkeiten der Pferde, Menschen in ihrenm Stärken und Ressourcen zu entwickeln. Reitlehrer, Reittherapeuthen oder auch andere Berufsgruppen die Pferde, Tiere oder Natur mit integrieren können sich hier einfache Fragen, Systemische Aufstellungsformate und verschiedene Herangehensweisen in Bezug auf den bewussten Einsatz der Pferde im Bereich Persönlichkeitsentwicklung, aneignen. Der Schnupperkurs ist die Vorstufe zu einer Online Ausbildung mit 6 Modulen und 3 Präsenztagen vor Ort um das Systemische Coaching zu erlernen. Im Bereich Coaching, sowie Arbeit mit Pferden ist dieser Kurs nahezu einmalig.
 
 ## 2. Links
 

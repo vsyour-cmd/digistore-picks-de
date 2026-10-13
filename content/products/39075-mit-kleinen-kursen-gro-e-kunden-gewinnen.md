@@ -41,45 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><span style="color:#ff0000;"><strong>30 % Verdienst an der Minikurs-Masterclass</strong></span></h1>
-<h1><span style="color:#ff0000;"><strong>Online Kunden gewinnen mit Leichtigkeit!</strong></span></h1>
-<div> </div>
-<div> </div>
-<div><strong>Die exakte Anleitung, um mit kleinen Kursen große Kunden zu gewinnen! Mit Jyotima Flak, Onlinebusiness-Mentorin</strong></div>
-<div><strong><br /></strong>
-<div> </div>
-<div><strong>Hier bist du richtig, wenn du:</strong></div>
-<div> </div>
-<div>• online Kunden gewinnen möchtest als Selbstständige/r oder Unternehmer:in!</div>
-<div>• digitale Produkte erstellen möchtest, die man einfach auf deiner Webseite / über Social-Media kaufen kann und über die du treue Stammkunden gewinnst! (Kunden statt Leads!)</div>
-<div>• passives Einkommen generieren und dein Business skalieren möchtest! <br /><br /><strong>Also Geld verdienen – egal, was du gerade machst! </strong></div>
-<div><strong> </strong></div>
-<div> </div>
-<div><strong>In der Minikurs-Masterclass wirst du:</strong></div>
-<div> </div>
-<div>• den Hintergrund zu Minikursen erfahren, die Minikurs-Methode!</div>
-<div>• den Minikurs-Salesfunnel verstehen lernen und deinen zukünftig genauso aufbauen!</div>
-<div>• das Ziel deiner Minikurse definieren, nämlich Stammkunden und 1zu1 Kunden gewinnen!</div>
-<div>• Inhalte und Bausteine deiner Minikurse definieren!</div>
-<div>• die Art und Weise erfahren, wie du innerhalb kürzester Zeit deine Kurse automatisierst, wie du die Kurse einstellst und vieles mehr...!
-<p><strong>Die Masterclass besteht aus:<br /></strong><br />• mehreren hochkarätigen Strategie-Meetings und Video-Anleitungen!<br />• praktische Worksheets zum Sofort-Umsetzen!</p>
-<p><strong><br />Du kannst sofort starten:</strong></p>
-</div>
-<h2><strong>Nur 99,- €</strong></h2>
-<p>oder 3 x 36,- € zzgl. MwSt. </p>
-<div> </div>
-<div>Mit Jyotima Flak, Onlinebusiness-Mentorin und Salesfunnel-Queen:</div>
-<div> </div>
-<div><strong>"Mit der Minikurs-Methode habe ich meinen Umsatz 2021 verdoppelt!"</strong></div>
-<div> </div>
-<div> </div>
-<div>Die Masterclass ist einen Ergänzung zu dem Erfolgs-Ebook <strong>Die Minikurs-Methode</strong> und <strong>Dein Minikurs in 24h!</strong> Du bekommst hochkarätiges Strategie-Wissen an die Hand, wie du mit kleinen Kursen große Kunden gewinnst!</div>
-<div> </div>
-<div> </div>
-<div>Sei ein Leuchtturm, kein Teelicht!®</div>
-<div>Deine Jyotima</div>
-</div>
-<div> </div>
+**Vendor's marketplace description:** 30 % Verdienst an der Minikurs-Masterclass Online Kunden gewinnen mit Leichtigkeit! Die exakte Anleitung, um mit kleinen Kursen große Kunden zu gewinnen! Mit Jyotima Flak, Onlinebusiness-Mentorin Hier bist du richtig, wenn du: • online Kunden gewinnen möchtest als Selbstständige/r oder Unternehmer:in! • digitale Produkte erstellen möchtest, die man einfach auf deiner Webseite / über Social-Media kaufen kann und über die du treue Stammkunden gewinnst! (Kunden statt Leads!) • passives Einkommen generieren und dein Business skalieren möchtest! Also Geld verdienen – egal, was du gerade machst! In der Minikurs-Masterclass wirst du: • den Hintergrund zu Minikursen erfahren, die Minikurs-Methode! • den Minikurs-Salesfunnel verstehen lernen und deinen zukünftig genauso aufbauen! • das Ziel deiner Minikurse definieren, nämlich Stammkunden und 1zu1 Kunden gewinnen! • Inhalte und Bausteine deiner Minikurse definieren! • die Art und Weise erfahren, wie du innerhalb kürzester Zeit deine Kurse automatisierst, wie du die Kurse einstellst und vieles mehr...! Die Masterclass besteht aus: • mehreren hochkarätigen Strategie-Meetings und Video-Anleitungen! • praktische Worksheets zum Sofort-Umsetzen! Du kannst sofort starten: Nur 99,- € oder 3 x 36,- € zzgl. MwSt. Mit Jyotima Flak, Onlinebusiness-Mentorin und Salesfunnel-Queen: "Mit der Minikurs-Methode habe ich meinen Umsatz 2021 verdoppelt!" Die Masterclass ist einen Ergänzung zu dem Erfolgs-Ebook Die Minikurs-Methode und Dein Minikurs in 24h! Du bekommst hochkarätiges Strategie-Wissen an die Hand, wie du mit kleinen Kursen große Kunden gewinnst! Sei ein Leuchtturm, kein Teelicht!® Deine Jyotima
 
 ## 2. Links
 

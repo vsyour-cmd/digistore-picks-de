@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses Buch trifft einen hochaktuellen Nerv: Overthinking, Entscheidungsblockaden und Prokrastination betreffen eine breite, kaufkräftige Zielgruppe von Studenten bis Berufstätigen.</p>
-<p>Es verbindet psychologische Tiefe mit klar umsetzbaren Strategien, die den Leser konsequent vom Denken ins Handeln führen.</p>
-<p>Besonders stark ist der Fokus auf konkrete Systeme, Gewohnheiten und mentale Umprogrammierung, was ein hohes Umsetzungs- und Erfolgserlebnis verspricht.</p>
-<p>Die emotionale Ansprache rund um Angst, Perfektionismus und Selbstzweifel sorgt für starke Identifikation und hohe Kaufmotivation.</p>
-<p>Für Affiliates ein äußerst attraktives Produkt mit klarer Problemlösung, breiter Zielgruppe und überzeugendem Conversion-Potenzial.</p>
+**Vendor's marketplace description:** Dieses Buch trifft einen hochaktuellen Nerv: Overthinking, Entscheidungsblockaden und Prokrastination betreffen eine breite, kaufkräftige Zielgruppe von Studenten bis Berufstätigen. Es verbindet psychologische Tiefe mit klar umsetzbaren Strategien, die den Leser konsequent vom Denken ins Handeln führen. Besonders stark ist der Fokus auf konkrete Systeme, Gewohnheiten und mentale Umprogrammierung, was ein hohes Umsetzungs- und Erfolgserlebnis verspricht. Die emotionale Ansprache rund um Angst, Perfektionismus und Selbstzweifel sorgt für starke Identifikation und hohe Kaufmotivation. Für Affiliates ein äußerst attraktives Produkt mit klarer Problemlösung, breiter Zielgruppe und überzeugendem Conversion-Potenzial.
 
 ## 2. Links
 

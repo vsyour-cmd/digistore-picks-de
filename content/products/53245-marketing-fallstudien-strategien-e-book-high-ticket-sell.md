@@ -41,38 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>40 % Provision – messbarer Mehrwert für Performance-Affiliates</strong></p>
-<p><strong>Echtes Marketing, echte Ergebnisse – kein Lehrbuch, sondern Realität.</strong></p>
-<p>Du bewirbst ein Premium-Modul, das reale Kampagnen durchleuchtet – mit klaren Zahlen, nachvollziehbaren Learnings und adaptierbaren Strategien aus über 8 Jahren Agenturerfahrung.<br />Keine Spekulationen, kein „Vielleicht funktioniert’s“ – sondern erprobte Taktiken, die nachweislich gewirkt haben.</p>
-<h3>Warum Affiliates dieses Produkt lieben:</h3>
-<ul>
-<li>
-<p><strong>40 % Provision → 60 € pro Sale bei 149,99 € VK</strong></p>
-</li>
-<li>
-<p><strong>High-Value-Inhalt mit Proof of Concept</strong> – Fallstudien, die Vertrauen schaffen</p>
-</li>
-<li>
-<p><strong>Klare Zielgruppe:</strong> Marketer, Werbetreibende, Agenturen, Creator, Copywriter, Funnel-Experten, Unternehmer, Coaches, Selbstständige</p>
-</li>
-<li>
-<p><strong>Extrem verkaufsstark</strong>: Ideal für Ads, E-Mail-Kampagnen und Business-Zielgruppen</p>
-</li>
-<li>
-<p><strong>Teil eines 10-teiligen PDF-Systems</strong> → Upsell auf Bundle mit <strong>500 € Affiliate-Provision</strong> möglich</p>
-</li>
-<li>
-<p><strong>Optimierte Verkaufsseite mit hoher Conversion</strong></p>
-</li>
-</ul>
-<h3> </h3>
-<h4><span style="color:#ff0000;">Bonus:</span> Steuerlich absetzbar für Unternehmen</h4>
-<p> </p>
-<p><strong>Was du vermittelst:</strong><br />Dieses PDF liefert keine Theorie, sondern direkt einsetzbare Strategien aus echten Kampagnen. Die Inhalte basieren auf 800+ Projekten, Millionen an Werbebudget und über 80.000 € in Weiterbildung und Mentoring.</p>
-<p>Perfekt für Affiliates, die nicht nur verkaufen wollen – sondern echten Mehrwert transportieren.</p>
-<p> </p>
-<p><strong>Jetzt bewerben &amp; Performance mit Substanz vermarkten.</strong></p>
-<p>Möchtest du auch eine kompakte Social-Ad-Version oder eine Vorlage für Affiliate-Newsletter? Sag einfach Bescheid!</p>
+**Vendor's marketplace description:** 40 % Provision – messbarer Mehrwert für Performance-Affiliates Echtes Marketing, echte Ergebnisse – kein Lehrbuch, sondern Realität. Du bewirbst ein Premium-Modul, das reale Kampagnen durchleuchtet – mit klaren Zahlen, nachvollziehbaren Learnings und adaptierbaren Strategien aus über 8 Jahren Agenturerfahrung. Keine Spekulationen, kein „Vielleicht funktioniert’s“ – sondern erprobte Taktiken, die nachweislich gewirkt haben. Warum Affiliates dieses Produkt lieben: 40 % Provision → 60 € pro Sale bei 149,99 € VK High-Value-Inhalt mit Proof of Concept – Fallstudien, die Vertrauen schaffen Klare Zielgruppe: Marketer, Werbetreibende, Agenturen, Creator, Copywriter, Funnel-Experten, Unternehmer, Coaches, Selbstständige Extrem verkaufsstark : Ideal für Ads, E-Mail-Kampagnen und Business-Zielgruppen Teil eines 10-teiligen PDF-Systems → Upsell auf Bundle mit 500 € Affiliate-Provision möglich Optimierte Verkaufsseite mit hoher Conversion Bonus: Steuerlich absetzbar für Unternehmen Was du vermittelst: Dieses PDF liefert keine Theorie, sondern direkt einsetzbare Strategien aus echten Kampagnen. Die Inhalte basieren auf 800+ Projekten, Millionen an Werbebudget und über 80.000 € in Weiterbildung und Mentoring. Perfekt für Affiliates, die nicht nur verkaufen wollen – sondern echten Mehrwert transportieren. Jetzt bewerben & Performance mit Substanz vermarkten. Möchtest du auch eine kompakte Social-Ad-Version oder eine Vorlage für Affiliate-Newsletter? Sag einfach Bescheid!
 
 ## 2. Links
 

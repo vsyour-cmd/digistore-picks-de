@@ -41,45 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ankava ist ein modernes Autoankauf-Widget, das Autohändlern hilft, mehr Fahrzeuge von privaten Verkäufern anzukaufen.</p>
-<p>Statt eines klassischen Kontaktformulars führt Ankava Fahrzeugbesitzer Schritt für Schritt durch einen spielerischen, intuitiven Prozess zur Fahrzeugeingabe.<br />Dadurch bleiben Interessenten länger auf der Website und schließen ihre Anfrage deutlich häufiger ab.</p>
-<h3>Ihre Vorteile auf einen Blick</h3>
-<ul>
-<li>
-<p>Mehr vollständig ausgefüllte Autoankauf-Anfragen</p>
-</li>
-<li>
-<p>Längere Verweildauer auf Ihrer Website</p>
-</li>
-<li>
-<p>Höhere Abschlussquote im Ankauf</p>
-</li>
-<li>
-<p>Weniger unbrauchbare oder unvollständige Leads</p>
-</li>
-<li>
-<p>Moderne Nutzererfahrung statt statischem Formular</p>
-</li>
-</ul>
-<p>Viele private Verkäufer empfinden den Prozess als deutlich angenehmer als herkömmliche Kontaktformulare und brechen ihn seltener ab.</p>
-<h3>Funktionsweise</h3>
-<ul>
-<li>
-<p>Einbindung als Widget auf Ihrer Website</p>
-</li>
-<li>
-<p>Schritt-für-Schritt Fahrzeugeingabe für Verkäufer</p>
-</li>
-<li>
-<p>Strukturierte und qualifizierte Lead-Daten für Händler</p>
-</li>
-<li>
-<p>Geeignet für Desktop und Mobilgeräte</p>
-</li>
-</ul>
-<h3>Testphase</h3>
-<p>Ankava kann <strong>7 Tage kostenlos</strong> getestet werden.<br />Während der Testphase ist keine Einschränkung der Funktionen vorhanden.</p>
-<p> </p>
+**Vendor's marketplace description:** Ankava ist ein modernes Autoankauf-Widget, das Autohändlern hilft, mehr Fahrzeuge von privaten Verkäufern anzukaufen. Statt eines klassischen Kontaktformulars führt Ankava Fahrzeugbesitzer Schritt für Schritt durch einen spielerischen, intuitiven Prozess zur Fahrzeugeingabe. Dadurch bleiben Interessenten länger auf der Website und schließen ihre Anfrage deutlich häufiger ab. Ihre Vorteile auf einen Blick Mehr vollständig ausgefüllte Autoankauf-Anfragen Längere Verweildauer auf Ihrer Website Höhere Abschlussquote im Ankauf Weniger unbrauchbare oder unvollständige Leads Moderne Nutzererfahrung statt statischem Formular Viele private Verkäufer empfinden den Prozess als deutlich angenehmer als herkömmliche Kontaktformulare und brechen ihn seltener ab. Funktionsweise Einbindung als Widget auf Ihrer Website Schritt-für-Schritt Fahrzeugeingabe für Verkäufer Strukturierte und qualifizierte Lead-Daten für Händler Geeignet für Desktop und Mobilgeräte Testphase Ankava kann 7 Tage kostenlos getestet werden. Während der Testphase ist keine Einschränkung der Funktionen vorhanden.
 
 ## 2. Links
 

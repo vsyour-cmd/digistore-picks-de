@@ -41,36 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>1:1 Premium Online</strong></p>
-<p><strong>Schluss mit endloser Mindset-Arbeit: Aktiviere deine Frequenz direkt über das Nervensystem.</strong></p>
-<p>Der Perspektivwechsel – Wie du ohne kognitives Umformulieren von Glaubenssätzen und frei von „Weghaben-Wollen“ in deine wahrhafte Integration und Entfaltung kommst.</p>
-<p><strong>Das Fundament: Vom Verstand ins reine Erleben</strong></p>
-<ul>
-<li>
-<p><strong>Die Beta-Falle verlassen:</strong> Warum stundenlanges Analysieren und positives Euphemisieren von Glaubenssätzen dein System oft nur im Überlebensmodus festhält.</p>
-</li>
-<li>
-<p><strong>Kein Widerstand mehr:</strong> Wir lösen nichts mehr krampfhaft auf. Gefühle werden integriert, statt sie weghaben zu wollen.</p>
-</li>
-<li>
-<p><strong>Frequenz-Freischaltung statt Mangel-Manifestation:</strong> Du musst dir nichts mehr herbeiwünschen. Du legst die Frequenz frei, die du im Leben erfahren willst – dein System räumt im Hintergrund auf.</p>
-</li>
-</ul>
-<p><strong>Die Methode im Kurs</strong></p>
-<ul>
-<li>
-<p><strong>Kinesiologischer Entpolungs- &amp; Punkttest:</strong> Lerne, wie du deinen Körper selbst abfragst und genau erkennst, wann dein Verstand wieder verkomplizieren will.</p>
-</li>
-<li>
-<p><strong>Neuronale Ohr-Aktivierung:</strong> Setze den Vagus-Impuls über deine individuell ausgetesteten Punkte an der inneren Ohrkante und am Ohrläppchen.</p>
-</li>
-<li>
-<p><strong>Der Innere Blick:</strong> Aktiviere eine spezifische Wahrnehmungsausrichtung, die dein Gehirn direkt in den Gamma-Bereich (ab 40 Hz) steuert – für volle Präsenz mit offenen Augen mitten im Alltag, ohne dich in lange Meditationen zurückziehen zu müssen.</p>
-</li>
-<li>
-<p><strong>Praxis-Toolkit für die Hosentasche:</strong> Kompakte PDF-Checklisten und Audio-Quick-Guides für sofortige Klarheit im Alltag.</p>
-</li>
-</ul>
+**Vendor's marketplace description:** 1:1 Premium Online Schluss mit endloser Mindset-Arbeit: Aktiviere deine Frequenz direkt über das Nervensystem. Der Perspektivwechsel – Wie du ohne kognitives Umformulieren von Glaubenssätzen und frei von „Weghaben-Wollen“ in deine wahrhafte Integration und Entfaltung kommst. Das Fundament: Vom Verstand ins reine Erleben Die Beta-Falle verlassen: Warum stundenlanges Analysieren und positives Euphemisieren von Glaubenssätzen dein System oft nur im Überlebensmodus festhält. Kein Widerstand mehr: Wir lösen nichts mehr krampfhaft auf. Gefühle werden integriert, statt sie weghaben zu wollen. Frequenz-Freischaltung statt Mangel-Manifestation: Du musst dir nichts mehr herbeiwünschen. Du legst die Frequenz frei, die du im Leben erfahren willst – dein System räumt im Hintergrund auf. Die Methode im Kurs Kinesiologischer Entpolungs- & Punkttest: Lerne, wie du deinen Körper selbst abfragst und genau erkennst, wann dein Verstand wieder verkomplizieren will. Neuronale Ohr-Aktivierung: Setze den Vagus-Impuls über deine individuell ausgetesteten Punkte an der inneren Ohrkante und am Ohrläppchen. Der Innere Blick: Aktiviere eine spezifische Wahrnehmungsausrichtung, die dein Gehirn direkt in den Gamma-Bereich (ab 40 Hz) steuert – für volle Präsenz mit offenen Augen mitten im Alltag, ohne dich in lange Meditationen zurückziehen zu müssen. Praxis-Toolkit für die Hosentasche: Kompakte PDF-Checklisten und Audio-Quick-Guides für sofortige Klarheit im Alltag.
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Wie fließt Arbeit wirklich – und wo entstehen Reibung und Verzögerung? Die NAVOK<br />ProzessLandkarte macht das in einer Vorlage sichtbar: End-to-End-Prozesse,<br />Prozesscluster, Rollen, Schnittstellen, KPIs und Steuerung.</p>
-<p>Das zugrunde liegende Werkzeug stammt aus der Beratungspraxis und wurde dort bereits vielfach erfolgreich eingesetzt.</p>
-<p><strong>Zielgruppe:</strong> Führungskräfte und Prozessverantwortliche, die schnell Klarheit über<br />einen konkreten Prozessfluss brauchen, ohne gleich das komplette System einzuführen.</p>
-<p><strong>Für Sie als Affiliate:</strong> 50 % Provision. Ideal als niedrigschwelliger Einstiegspunkt für<br />Zielgruppen, die noch nicht bereit für das 229-€-Playbook sind.</p>
-<p>Digitaler Download, sofort verfügbar, ca. 2 Seiten.</p>
+**Vendor's marketplace description:** Wie fließt Arbeit wirklich – und wo entstehen Reibung und Verzögerung? Die NAVOK ProzessLandkarte macht das in einer Vorlage sichtbar: End-to-End-Prozesse, Prozesscluster, Rollen, Schnittstellen, KPIs und Steuerung. Das zugrunde liegende Werkzeug stammt aus der Beratungspraxis und wurde dort bereits vielfach erfolgreich eingesetzt. Zielgruppe: Führungskräfte und Prozessverantwortliche, die schnell Klarheit über einen konkreten Prozessfluss brauchen, ohne gleich das komplette System einzuführen. Für Sie als Affiliate: 50 % Provision. Ideal als niedrigschwelliger Einstiegspunkt für Zielgruppen, die noch nicht bereit für das 229-€-Playbook sind. Digitaler Download, sofort verfügbar, ca. 2 Seiten.
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hey liebe Affiliates.<br /><br />In diesem Kurs bündeln wir unser Wissen aus der Praxis mit unseren B2B-Kunden.<br /><br />Es geht darum, wie man ein Business mit KI automatisieren kann, um wirklich eine Steigerung der Effizienz zu erhalten.<br /><br />Damit ist dieser Kurs zum einen für Unternehmer und Selbstständige passend.<br /><br />Aber durch die Möglichkeit, ein Zertifikat zu erhalten, auch für Privatkunden, die sich beruflich weiterbilden wollen.</p>
+**Vendor's marketplace description:** Hey liebe Affiliates. In diesem Kurs bündeln wir unser Wissen aus der Praxis mit unseren B2B-Kunden. Es geht darum, wie man ein Business mit KI automatisieren kann, um wirklich eine Steigerung der Effizienz zu erhalten. Damit ist dieser Kurs zum einen für Unternehmer und Selbstständige passend. Aber durch die Möglichkeit, ein Zertifikat zu erhalten, auch für Privatkunden, die sich beruflich weiterbilden wollen.
 
 ## 2. Links
 

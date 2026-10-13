@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Im Digitalen "Banken Lexikon – mit Offshore-Banking sicher durch die Krise" erfahren Leser alles über den Vermögensschutz durch Auslandskonten. Dazu gehören:</p>
-<ul>
-<li>300 Seiten aktuellste Informationen zum Thema Offshore-Banking</li>
-<li>50 Länder und ihre Eignung im Detail</li>
-<li>200 Offshore-Banken, davon 67 im Detail</li>
-<li>Typologien der besten Banken für Deine Bedürfnisse</li>
-<li>einsteigerfreundliche Anleitungen zu Deinem ersten Offshore-Konto</li>
-<li>Spezial zu Bankgeheimnis und Informationsaustausch</li>
-<li>und vieles mehr...</li>
-</ul>
-<p>Im Angesicht von Banken-Instabilität und Staatsverschuldung sollte sich jeder Bürger mit Alternativen für seine Ersparnisse auseinandersetzen, damit sie nicht auf einmal verschwunden sind. "Weil Dein Geld Dir gehört" ist so geschrieben, dass Einsteiger durchblicken, aber selbst Fortgeschrittene sich nicht langweilen.</p>
-<p>Das Affiliate-Programm setzt sich aus einer Komission von 34% auf jeden Verkauf + 10% zusätzliche Kommisison auf sämtliche Verkäufe von selbst geworbenen Affiliates zusammen. 50% erhalten Top-Affiliates ab einer gewissen Umsatzschwelle. Weil mein Geld Dir gehört!</p>
-<p>Ausführliche Informationen auf der Support-Seite.</p>
-<p> </p>
+**Vendor's marketplace description:** Im Digitalen "Banken Lexikon – mit Offshore-Banking sicher durch die Krise" erfahren Leser alles über den Vermögensschutz durch Auslandskonten. Dazu gehören: 300 Seiten aktuellste Informationen zum Thema Offshore-Banking 50 Länder und ihre Eignung im Detail 200 Offshore-Banken, davon 67 im Detail Typologien der besten Banken für Deine Bedürfnisse einsteigerfreundliche Anleitungen zu Deinem ersten Offshore-Konto Spezial zu Bankgeheimnis und Informationsaustausch und vieles mehr... Im Angesicht von Banken-Instabilität und Staatsverschuldung sollte sich jeder Bürger mit Alternativen für seine Ersparnisse auseinandersetzen, damit sie nicht auf einmal verschwunden sind. "Weil Dein Geld Dir gehört" ist so geschrieben, dass Einsteiger durchblicken, aber selbst Fortgeschrittene sich nicht langweilen. Das Affiliate-Programm setzt sich aus einer Komission von 34% auf jeden Verkauf + 10% zusätzliche Kommisison auf sämtliche Verkäufe von selbst geworbenen Affiliates zusammen. 50% erhalten Top-Affiliates ab einer gewissen Umsatzschwelle. Weil mein Geld Dir gehört! Ausführliche Informationen auf der Support-Seite.
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Attraktives Nischenprodukt rund um Spanien, Immobilien und Auswandern</p>
-<p>Dieses digitale Praxis-Paket richtet sich an Menschen, die vom eigenen Haus in Spanien träumen und dafür ein Gesamtbudget von rund 150.000 € oder weniger einplanen.</p>
-<p>Das Thema verbindet mehrere kaufstarke Interessengebiete: Spanien, Immobilien, Auswandern, Ferienimmobilien und Leben im Süden.</p>
-<p>Das erhalten Käufer: • vollständiger Ratgeber als PDF</p>
-<p>• 15 Checklisten und Arbeitsblätter</p>
-<p>• Excel-Budgetrechner für Kaufpreis, Nebenkosten, Renovierung und Reserve</p>
-<p>• Regionenvergleich</p>
-<p>• direkter Vergleich zweier Immobilien</p>
-<p>Verkaufspreis: 12,90 €</p>
-<p>Besonders geeignet zur Bewerbung auf Spanien-, Reise-, Auswanderer- und Immobilien-Websites, in Newslettern sowie über Social Media.</p>
-<p>Das Produkt bietet einen günstigen Einstiegspreis und einen klar definierten praktischen Nutzen für eine konkrete Zielgruppe.</p>
+**Vendor's marketplace description:** Attraktives Nischenprodukt rund um Spanien, Immobilien und Auswandern Dieses digitale Praxis-Paket richtet sich an Menschen, die vom eigenen Haus in Spanien träumen und dafür ein Gesamtbudget von rund 150.000 € oder weniger einplanen. Das Thema verbindet mehrere kaufstarke Interessengebiete: Spanien, Immobilien, Auswandern, Ferienimmobilien und Leben im Süden. Das erhalten Käufer: • vollständiger Ratgeber als PDF • 15 Checklisten und Arbeitsblätter • Excel-Budgetrechner für Kaufpreis, Nebenkosten, Renovierung und Reserve • Regionenvergleich • direkter Vergleich zweier Immobilien Verkaufspreis: 12,90 € Besonders geeignet zur Bewerbung auf Spanien-, Reise-, Auswanderer- und Immobilien-Websites, in Newslettern sowie über Social Media. Das Produkt bietet einen günstigen Einstiegspreis und einen klar definierten praktischen Nutzen für eine konkrete Zielgruppe.
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Reichweite, Reputation und echte Fangemeinde auf der ehrlichsten Plattform im Netz</strong></p>
-<p>Auf Reddit kannst du keine Follower kaufen, keine Hashtags benutzen und keine Werbeanzeigen schalten – und genau das macht es so besonders. Sichtbarkeit auf Reddit bekommst du nur durch echte Qualität. Dieses E-Book zeigt dir, wie du in relevanten Subreddits zur gefragten Stimme wirst, die Upvotes, Diskussionen und sogar Medien-Anfragen generiert. Du lernst, wie der Reddit-Algorithmus Posts bewertet, welche Posting-Zeiten und -formate maximale Sichtbarkeit bringen und wie du deine Reddit-Präsenz als Sprungbrett für andere Kanäle nutzt. Außerdem: wie du deine Expertise cross-plattform verstärkst, ohne deinen Reddit-Ruf zu gefährden. Authentizität ist hier nicht optional – sie ist der einzige Weg.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Wie der Reddit-Algorithmus Posts bewertet und was das für dich bedeutet</li>
-<li>Das richtige Posting-Timing und Format für maximale Upvotes</li>
-<li>Von Kommentator zu Community-Stimme: Reputation schrittweise aufbauen</li>
-<li>Crossposting und Multi-Subreddit-Strategie ohne Spam-Risiko</li>
-<li>Reddit-Inhalte als SEO-Asset für Google-Sichtbarkeit nutzen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Reichweite, Reputation und echte Fangemeinde auf der ehrlichsten Plattform im Netz Auf Reddit kannst du keine Follower kaufen, keine Hashtags benutzen und keine Werbeanzeigen schalten – und genau das macht es so besonders. Sichtbarkeit auf Reddit bekommst du nur durch echte Qualität. Dieses E-Book zeigt dir, wie du in relevanten Subreddits zur gefragten Stimme wirst, die Upvotes, Diskussionen und sogar Medien-Anfragen generiert. Du lernst, wie der Reddit-Algorithmus Posts bewertet, welche Posting-Zeiten und -formate maximale Sichtbarkeit bringen und wie du deine Reddit-Präsenz als Sprungbrett für andere Kanäle nutzt. Außerdem: wie du deine Expertise cross-plattform verstärkst, ohne deinen Reddit-Ruf zu gefährden. Authentizität ist hier nicht optional – sie ist der einzige Weg. Das steckt drin: Wie der Reddit-Algorithmus Posts bewertet und was das für dich bedeutet Das richtige Posting-Timing und Format für maximale Upvotes Von Kommentator zu Community-Stimme: Reputation schrittweise aufbauen Crossposting und Multi-Subreddit-Strategie ohne Spam-Risiko Reddit-Inhalte als SEO-Asset für Google-Sichtbarkeit nutzen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Wer ist wofür verantwortlich – und wo entstehen Lücken oder Doppelarbeit? Die NAVOK<br />RollenLandkarte macht das in einer Vorlage sichtbar: Verantwortungsraum,<br />Aufgabenpakete, Schnittstellen, Entscheidungsvorbereitung, Delegationslogik und<br />Definition of Done.</p>
-<p>Das zugrunde liegende Werkzeug stammt aus der Beratungspraxis und wurde dort bereits vielfach erfolgreich eingesetzt.</p>
-<p><strong>Zielgruppe:</strong> Führungskräfte und HR-Verantwortliche, die schnell Klarheit über eine<br />konkrete Rolle brauchen, ohne gleich das komplette System einzuführen.</p>
-<p><strong>Für Sie als Affiliate:</strong> 50 % Provision. Ideal als niedrigschwelliger Einstiegspunkt für<br />Zielgruppen, die noch nicht bereit für das 229-€-Playbook sind.</p>
-<p>Digitaler Download, sofort verfügbar, ca. 2 Seiten.</p>
+**Vendor's marketplace description:** Wer ist wofür verantwortlich – und wo entstehen Lücken oder Doppelarbeit? Die NAVOK RollenLandkarte macht das in einer Vorlage sichtbar: Verantwortungsraum, Aufgabenpakete, Schnittstellen, Entscheidungsvorbereitung, Delegationslogik und Definition of Done. Das zugrunde liegende Werkzeug stammt aus der Beratungspraxis und wurde dort bereits vielfach erfolgreich eingesetzt. Zielgruppe: Führungskräfte und HR-Verantwortliche, die schnell Klarheit über eine konkrete Rolle brauchen, ohne gleich das komplette System einzuführen. Für Sie als Affiliate: 50 % Provision. Ideal als niedrigschwelliger Einstiegspunkt für Zielgruppen, die noch nicht bereit für das 229-€-Playbook sind. Digitaler Download, sofort verfügbar, ca. 2 Seiten.
 
 ## 2. Links
 

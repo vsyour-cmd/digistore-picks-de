@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Erreiche deine Träume vom Reisen mit Remote Academy! Lerne, wie du online Geld verdienen und von überall auf der Welt arbeiten kannst. Mit klaren Anleitungen, digitalen Lerninhalten und monatlichen Neuerungen und ist jederzeit flexibel und unabhängig. Hol dir jetzt Zugang zur Plattform und starte deine Reise in die finanzielle Freiheit!</p>
-<p> </p>
-<p>Du erhältst sofortigen Zugang per Mail zu unserem Mitgliederbereich, wo du alle Inhalte in Form von Videolektionen und digitalen Workbooks findest. In unseren Videolektionen nehmen wir Schritt für Schritt an die Hand und zeigen dir detailliert, welche Schritte du gehen musst.</p>
+**Vendor's marketplace description:** Erreiche deine Träume vom Reisen mit Remote Academy! Lerne, wie du online Geld verdienen und von überall auf der Welt arbeiten kannst. Mit klaren Anleitungen, digitalen Lerninhalten und monatlichen Neuerungen und ist jederzeit flexibel und unabhängig. Hol dir jetzt Zugang zur Plattform und starte deine Reise in die finanzielle Freiheit! Du erhältst sofortigen Zugang per Mail zu unserem Mitgliederbereich, wo du alle Inhalte in Form von Videolektionen und digitalen Workbooks findest. In unseren Videolektionen nehmen wir Schritt für Schritt an die Hand und zeigen dir detailliert, welche Schritte du gehen musst.
 
 ## 2. Links
 

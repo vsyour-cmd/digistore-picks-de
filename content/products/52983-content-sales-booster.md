@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Vom Content zum Umsatz. Wie du Content erstellst, der dir deine Traumkunden anzieht!<br /></strong></p>
-<p>Lerne, wie du Content-Marketing ⚜️ für dein Business nutzt:</p>
-<p>- damit sich die Zeit, die du investierst, ENDLICH bezahlt macht!</p>
-<p>- du ab sofort ganz genau weißt, <u>wie du durch Content Geld verdienst!</u></p>
-<p>- der Gedanke "was soll ich posten" dich nie wieder belastet!</p>
-<p><br />BIST DU BEREIT, zu lernen, <strong>wie Content für dich verkauft</strong>, während du dein Leben genießt, im Flieger zum Beach, sitzt oder einfach mal schläfst.<br /><br /></p>
-<p><strong>Auf dich warten 5 Videos <br /></strong></p>
-<ol>
-<li>Der Hack für virale Reels</li>
-<li>Wie du aus deinem Produkt hunderte Hooks kreierst, die Geld bringen!</li>
-<li>Wie du dein Produkt vermarktest, Umsätze steigen und du dich pudelwohl fühlst</li>
-<li>Wie du NIE WIEDER planlos wirst (Gamechanger für mehr Erfolg)</li>
-<li>Wie du deine Story zum Geldmagnet verwandelst</li>
-</ol>
-<p> </p>
-<p><strong>BONUS: Zusätzlich erhältst du ein XXL Workbook:</strong></p>
-<p>1. Content Creation: Mehr Follower &amp; Sales, warum Menschen kaufen, Gute vs. schlechte Reels, 6 Arten von Reels, die Umsätze bringen, Call to Aktion Variationen</p>
-<p>2. <strong>100</strong>Hooks zum Viral gehen (in 4 Bereichen: Connection, Expertise, Produkt, Schmerzpunkt) inkl. Content Planer </p>
-<p>3. Content Banken, für qualitative und faceless Reels</p>
-<p>4. <strong>80</strong> Hashtags &amp; Seo´s in 4 Bereichen</p>
-<p> </p>
-<p><br />Lass uns starten! Ich freue mich auf dich &amp; <u>DEIN Business-Wachstum</u>! </p>
-<p> </p>
+**Vendor's marketplace description:** Vom Content zum Umsatz. Wie du Content erstellst, der dir deine Traumkunden anzieht! Lerne, wie du Content-Marketing ⚜️ für dein Business nutzt: - damit sich die Zeit, die du investierst, ENDLICH bezahlt macht! - du ab sofort ganz genau weißt, wie du durch Content Geld verdienst! - der Gedanke "was soll ich posten" dich nie wieder belastet! BIST DU BEREIT, zu lernen, wie Content für dich verkauft , während du dein Leben genießt, im Flieger zum Beach, sitzt oder einfach mal schläfst. Auf dich warten 5 Videos Der Hack für virale Reels Wie du aus deinem Produkt hunderte Hooks kreierst, die Geld bringen! Wie du dein Produkt vermarktest, Umsätze steigen und du dich pudelwohl fühlst Wie du NIE WIEDER planlos wirst (Gamechanger für mehr Erfolg) Wie du deine Story zum Geldmagnet verwandelst BONUS: Zusätzlich erhältst du ein XXL Workbook: 1. Content Creation: Mehr Follower & Sales, warum Menschen kaufen, Gute vs. schlechte Reels, 6 Arten von Reels, die Umsätze bringen, Call to Aktion Variationen 2. 100 Hooks zum Viral gehen (in 4 Bereichen: Connection, Expertise, Produkt, Schmerzpunkt) inkl. Content Planer 3. Content Banken, für qualitative und faceless Reels 4. 80 Hashtags & Seo´s in 4 Bereichen Lass uns starten! Ich freue mich auf dich & DEIN Business-Wachstum !
 
 ## 2. Links
 

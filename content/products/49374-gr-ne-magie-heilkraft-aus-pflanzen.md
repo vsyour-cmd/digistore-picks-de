@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Verwöhne dein Pferd mit DIY Produkten</strong></h2>
-<h4>Grundrezepte, mit denen du bei Erkrankungen schnell etwas zur Hand hast, und genau weißt was drin ist! </h4>
-<div>
-<p>Einfache und natürliche Pferdepflege</p>
-<p>Früher haben wir nur auf fertige Pflegeprodukte und Heilmittel vertraut. Einfach die Flasche öffnen, anwenden und fertig – ohne wirklich zu wissen, was da alles drin ist und wie es auf die  Pferde wirkt. Inzwischen haben wir mit Opas geheimen Buch dazu gelernt…</p>
-<h4>„Viele Pflegeprodukte und Heilmittel, die du kaufst, können deinem Pferd mehr schaden als nutzen!“</h4>
-<p>Über 95% der herkömmlichen Pflegeprodukte stecken immer noch voll  mit Chemikalien, Duftstoffe, Farbstoffe und andere Zusätze, die nichts in einer gesunden und natürlichen Pferdepflege zu suchen haben.</p>
-<p><strong>Probleme wie:</strong></p>
-<ul>
-<li>Ekzeme</li>
-<li>Juckende und schuppige Haut</li>
-<li>Brüchige Hufe</li>
-<li>Allergien</li>
-<li>Offene Wunden</li>
-<li>Und vieles mehr…</li>
-</ul>
-<p>… können durch diese Inhaltsstoffe verstärkt oder sogar ausgelöst werden.</p>
-<p>Durch das Buch von Marions Opa stellen wir nun unsere Sachen alle selbst her und das kommt unsern Pferden zugute!</p>
-<p>Dadurch wissen wir genau was drin ist, ohne schädliche Chemikalien, können auf jedes Pferd individuell abstimmen und das Beste ist, wir sparen sehr viel Geld damit.</p>
-<p>Und das Beste: Es ist weder kompliziert noch zeitaufwändig. Mit wenigen Handgriffen und den richtigen Kräutern stellen wir wirksame Pflegeprodukte und Heilmittel her und müssen keine mehr kaufen.</p>
-<p>Du kannst das auch! Finde den Mut, zurück zur Natur zu gehen. Lass dich von der Kraft der Kräuter inspirieren und gib deinem Pferd die Pflege, die es wirklich verdient – ganz ohne Chemie, dafür mit viel Liebe und natürlichen Zutaten, die du ganz einfach selbst herstellen kannst.</p>
-</div>
+**Vendor's marketplace description:** Verwöhne dein Pferd mit DIY Produkten Grundrezepte, mit denen du bei Erkrankungen schnell etwas zur Hand hast, und genau weißt was drin ist! Einfache und natürliche Pferdepflege Früher haben wir nur auf fertige Pflegeprodukte und Heilmittel vertraut. Einfach die Flasche öffnen, anwenden und fertig – ohne wirklich zu wissen, was da alles drin ist und wie es auf die Pferde wirkt. Inzwischen haben wir mit Opas geheimen Buch dazu gelernt… „Viele Pflegeprodukte und Heilmittel, die du kaufst, können deinem Pferd mehr schaden als nutzen!“ Über 95% der herkömmlichen Pflegeprodukte stecken immer noch voll mit Chemikalien, Duftstoffe, Farbstoffe und andere Zusätze, die nichts in einer gesunden und natürlichen Pferdepflege zu suchen haben. Probleme wie: Ekzeme Juckende und schuppige Haut Brüchige Hufe Allergien Offene Wunden Und vieles mehr… … können durch diese Inhaltsstoffe verstärkt oder sogar ausgelöst werden. Durch das Buch von Marions Opa stellen wir nun unsere Sachen alle selbst her und das kommt unsern Pferden zugute! Dadurch wissen wir genau was drin ist, ohne schädliche Chemikalien, können auf jedes Pferd individuell abstimmen und das Beste ist, wir sparen sehr viel Geld damit. Und das Beste: Es ist weder kompliziert noch zeitaufwändig. Mit wenigen Handgriffen und den richtigen Kräutern stellen wir wirksame Pflegeprodukte und Heilmittel her und müssen keine mehr kaufen. Du kannst das auch! Finde den Mut, zurück zur Natur zu gehen. Lass dich von der Kraft der Kräuter inspirieren und gib deinem Pferd die Pflege, die es wirklich verdient – ganz ohne Chemie, dafür mit viel Liebe und natürlichen Zutaten, die du ganz einfach selbst herstellen kannst.
 
 ## 2. Links
 

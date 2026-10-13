@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das ist der ultimative Dienstplanungsassistent für Unternehmen aller Art! Mit diesem Excel Tool wird die Verwaltung von Schichten, Urlauben, und Qualifikationen zum Kinderspiel. So können die Arbeitsprozesse optimiert und der Aufwand für die Planung des Personals minimiert werden.</p>
-<p>Auf meiner Website findet sich noch eine detaillierte Beschreibung des Tools und seiner Vorteile: <a href="https://www.cemiscode.com/excel-tools/" target="_blank" rel="noreferrer noopener">Tools – Cemi's Code (cemiscode.com)</a></p>
-<p>Auf meinem YouTube Kanal Cemis Code habe ich ein Video Tutorial in dem ich zeige, wie das Tool gebaut wird <a href="https://youtu.be/Ej8S8JsvTKA" target="_blank" rel="noreferrer noopener">YouTube Tutorial</a></p>
-<p>Dort ist alles Schritt für Schritt erklärt, bis auf das Qualifikationsmanagement, das gibt es nur in der zu erwerbenden Vorlage. Zu Beginn des Videos zeige ich was das Tool kann.</p>
+**Vendor's marketplace description:** Das ist der ultimative Dienstplanungsassistent für Unternehmen aller Art! Mit diesem Excel Tool wird die Verwaltung von Schichten, Urlauben, und Qualifikationen zum Kinderspiel. So können die Arbeitsprozesse optimiert und der Aufwand für die Planung des Personals minimiert werden. Auf meiner Website findet sich noch eine detaillierte Beschreibung des Tools und seiner Vorteile: Tools – Cemi's Code (cemiscode.com) Auf meinem YouTube Kanal Cemis Code habe ich ein Video Tutorial in dem ich zeige, wie das Tool gebaut wird YouTube Tutorial Dort ist alles Schritt für Schritt erklärt, bis auf das Qualifikationsmanagement, das gibt es nur in der zu erwerbenden Vorlage. Zu Beginn des Videos zeige ich was das Tool kann.
 
 ## 2. Links
 

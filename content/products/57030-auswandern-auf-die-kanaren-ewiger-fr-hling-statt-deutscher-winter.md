@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Auswandern auf die Kanaren: Ewiger Frühling statt deutscher Winter"</strong></p>
-<p>Raus aus dem deutschen Winter, rein in den ewigen Frühling. Dieser Ratgeber zeigt dir, warum so viele auf die Kanaren auswandern, welche Insel zu dir passt und wie du die ersten Schritte planst.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – rund <strong>9–10 € pro Verkauf</strong> (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe: Auswandern auf die Kanaren</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Verstehen, warum die Kanaren so viele Auswanderer anziehen</li>
-<li>Die sieben Inseln im Überblick kennenlernen</li>
-<li>Das subtropische Klima samt Calima richtig einschätzen</li>
-<li>Die ersten Behördenschritte (NIE, Anmeldung, Residencia) gehen</li>
-<li>Mit einem realistischen Fahrplan ankommen</li>
-</ul>
-<p><strong>Für deine Zielgruppe:</strong> Auswanderungs-Interessierte, Kanaren-/Teneriffa-Fans, Reise- und Expat-Zielgruppen</p>
-<p>Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.</p>
+**Vendor's marketplace description:** Werde Affiliate für „Auswandern auf die Kanaren: Ewiger Frühling statt deutscher Winter" Raus aus dem deutschen Winter, rein in den ewigen Frühling. Dieser Ratgeber zeigt dir, warum so viele auf die Kanaren auswandern, welche Insel zu dir passt und wie du die ersten Schritte planst. Warum dieses E-Book bewerben? 50 % Provision – rund 9–10 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe: Auswandern auf die Kanaren Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Verstehen, warum die Kanaren so viele Auswanderer anziehen Die sieben Inseln im Überblick kennenlernen Das subtropische Klima samt Calima richtig einschätzen Die ersten Behördenschritte (NIE, Anmeldung, Residencia) gehen Mit einem realistischen Fahrplan ankommen Für deine Zielgruppe: Auswanderungs-Interessierte, Kanaren-/Teneriffa-Fans, Reise- und Expat-Zielgruppen Jetzt als Affiliate bewerben, deinen Link teilen und an jedem Verkauf mitverdienen.
 
 ## 2. Links
 

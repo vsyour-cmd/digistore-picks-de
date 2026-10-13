@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>30 Prompts. 7 Schritte. Eine vollständige Shopify-Produktseite inklusive Anzeigen und SEO — in 45 Minuten. Für deutschsprachige Shopify-Händler die aufgehört haben zu hoffen dass es sich irgendwie ergibt. Jede Nische. Sofort einsetzbar. Version 3.</p>
+**Vendor's marketplace description:** 30 Prompts. 7 Schritte. Eine vollständige Shopify-Produktseite inklusive Anzeigen und SEO — in 45 Minuten. Für deutschsprachige Shopify-Händler die aufgehört haben zu hoffen dass es sich irgendwie ergibt. Jede Nische. Sofort einsetzbar. Version 3.
 
 ## 2. Links
 

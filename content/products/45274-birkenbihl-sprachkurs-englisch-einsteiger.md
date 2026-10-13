@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Sprachkurs für Englisch Anfänger mit wenig Zeit</h3>
-<h1><strong>Wie du mit nur 10 Minuten pro Tag im Handumdrehen fließend Englisch sprichst</strong></h1>
-<p>Ohne stumpfes Vokabelpauken oder trockene Grammatik!</p>
+**Vendor's marketplace description:** Sprachkurs für Englisch Anfänger mit wenig Zeit Wie du mit nur 10 Minuten pro Tag im Handumdrehen fließend Englisch sprichst Ohne stumpfes Vokabelpauken oder trockene Grammatik!
 
 ## 2. Links
 

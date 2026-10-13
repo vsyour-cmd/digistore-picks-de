@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Starte deine Affiliate Marketing Journey<br /></strong></p>
-<p>Die Affiliate Academy Pro ist die dritte von insgesamt 3 Paketen der Affiliate Academy Reihe und beinhaltet ALLES von der normalen Affiliate Academy und der Affiliate Academy Plus.<br /><br />Ala Affiliate bekommst du lukrative <strong>45% Provision pro Verkauf</strong> und eine Conversion Optimierte Landing Page, welche dir den VErkauf vereinfacht.<br /><br />Die Affiliate Academy Pro enhält:<br /><br />1. Eine Videoanleitung mit 80+ Videos<br />2. Eine Teilnehmergruppe mit über 350 Mitgliedern<br />3. 2 Monate lang Zugang zu allen Live Zoom Meetings (alle 2 Tage)<br />4. Privaten WhatsApp Support vom Coach<br />5. Einen kompletten 1-stündigen 1zu1 Strategiecall</p>
-<p>Der perfekte Einstieg für Anfänger ins Affiliate Marketing<br />-&gt; <strong>Wissen, Support, Hilfe</strong></p>
+**Vendor's marketplace description:** Starte deine Affiliate Marketing Journey Die Affiliate Academy Pro ist die dritte von insgesamt 3 Paketen der Affiliate Academy Reihe und beinhaltet ALLES von der normalen Affiliate Academy und der Affiliate Academy Plus. Ala Affiliate bekommst du lukrative 45% Provision pro Verkauf und eine Conversion Optimierte Landing Page, welche dir den VErkauf vereinfacht. Die Affiliate Academy Pro enhält: 1. Eine Videoanleitung mit 80+ Videos 2. Eine Teilnehmergruppe mit über 350 Mitgliedern 3. 2 Monate lang Zugang zu allen Live Zoom Meetings (alle 2 Tage) 4. Privaten WhatsApp Support vom Coach 5. Einen kompletten 1-stündigen 1zu1 Strategiecall Der perfekte Einstieg für Anfänger ins Affiliate Marketing -> Wissen, Support, Hilfe
 
 ## 2. Links
 

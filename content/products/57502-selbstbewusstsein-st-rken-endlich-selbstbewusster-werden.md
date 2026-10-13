@@ -41,8 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In diesem intensiven Selbstbewusstseins-stärken-Kurs lernst du in 7 kompakten Lektionen, wie du alte Muster durchbrichst, selbstbewusster werden kannst und endlich das Leben führst, das du wirklich willst.</p>
-<p>Inkl. Bonus-Material im Wert von 139 € (E-Books zu Stress, Selbstwert, Glück, Ernährung, Motivation)</p>
+**Vendor's marketplace description:** In diesem intensiven Selbstbewusstseins-stärken-Kurs lernst du in 7 kompakten Lektionen, wie du alte Muster durchbrichst, selbstbewusster werden kannst und endlich das Leben führst, das du wirklich willst. Inkl. Bonus-Material im Wert von 139 € (E-Books zu Stress, Selbstwert, Glück, Ernährung, Motivation)
 
 ## 2. Links
 

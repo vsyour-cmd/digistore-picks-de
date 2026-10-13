@@ -41,45 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Kongress für menschliche Medizin - Krebserkrankungen</h1>
-<p>Das Paket enthält die Aufzeichnung der Vorträge <strong>beider Kongresstage</strong> (25.03.2017 - 26.03.2017) als <strong>Video-Download in HD-Qualität</strong> (mp4)</p>
-<h2>Die Vorträge</h2>
-<ol><li><strong>Krebs als Systemerkrankung</strong> (Prof. Dr. med. Jörg Spitz, Schlangenbad)</li>
-<li><strong>Wissenschaftliche Grundlagen der Medizin im 21. Jahrhundert</strong> (Dr. med. Ori Wolff, Berlin)</li>
-<li><strong>More than a vitamin: Vitamin C as a treatment for cancer  </strong>(Ph. D. Qi Chen, Kansas City/USA)</li>
-<li><strong>Aktuelle, adjuvante Verfahren in der Onkologie</strong> (PD Dr. med. Nils Thoennissen , Soest)</li>
-<li><strong>Der Krebserkrankung ganzheitlich begegnen – Individuelle Heilungswege bei schwerer Erkrankung</strong> (Dr. med. György Irmey, Heidelberg)</li>
-<li><strong>Die Bedeutung von Bewegung und Sport in der Onkologie</strong> (Petra Wirtz, Köln)</li>
-<li><strong>Ganzheitliche und patientenfreundliche Therapie von Prostatakrebs</strong> (Dr. med. Ernst Herbert Bliemeister, Ammersbek)</li>
-<li><strong>Möglichkeiten und Grenzen einer ketogenen Diät in der Onkologie</strong> (Prof. Dr. rer. hum. biol. Ulrike Kämmerer, Würzburg)</li>
-<li><strong>Die Rolle des Darmes (microbiome) bei der Krebsentstehung</strong> (Dr. med. Ralf Heinrich)</li>
-<li><strong>Mikronährstoffe in der onkologischen Intervention</strong> (Apotheker Uwe Gröber, Essen)</li>
-<li><strong>Die Bedeutung von Singen und Musik für Patienten in der Onkologie</strong> (Elke Wünnenberg, Bad Waldsee)</li>
-<li><strong>Integrative Therapie von Patienten mit Prostata- und Mammakarzinom</strong> (Prof. Dr.med. Dr. rer. nat. Bernd Pfeifer)</li>
-<li><strong>Tumor-Fatigue – Mehr als nur eine „Müdigkeit“</strong> (Dr. med. Alfred Wolf, Ulm)</li>
-<li><strong>Umwelteinflüsse und Krebserkrankungen</strong> (Dr. med. Kurt E. Müller, Kempten)</li>
-<li><strong>Problematik der Ernährung bei Krebspatienten</strong> (Dr. med. Hardy Walle, Kirkel)</li>
-<li><strong>Vitamin D und Krebs: Update 2017</strong> (Prof. Dr. med. Winfried März, Mannheim)</li>
-<li><strong>Magnesium in der Krebstherapie</strong> (PD Dr. med. Klaus Kisters, Herne)</li>
-<li><strong>Omega-3-Fettsäuren in der Onkologie – Kann man mit Fischen dem Krebs davonschwimmen?</strong> (Dr. med. Volker Schmiedel)</li>
-<li><strong>Synopsis und Perspektiven</strong> (Prof. Dr. med. Jörg Spitz, Schlangenbad)</li>
-</ol><h2>Bonusmaterial</h2>
-<ol><li><strong>Epigenetik: Schnittstelle zwischen Erbgut und Umwelt</strong> als Sonderdruck aus den "Aktuellen Gesundheitsnachrichten 27/ 2017" als <strong>PDF</strong></li>
-<li>Der Vortrag<strong> Epigenetik - Nicht die Gene steuern uns  - wir steuern unsere Gene </strong>(Prof. Dr. med. Jörg Spitz)<strong> als Video-Download in HD-Qualität (mp4)<br /></strong></li>
-</ol><p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Kongress für menschliche Medizin - Krebserkrankungen Das Paket enthält die Aufzeichnung der Vorträge beider Kongresstage (25.03.2017 - 26.03.2017) als Video-Download in HD-Qualität (mp4) Die Vorträge Krebs als Systemerkrankung (Prof. Dr. med. Jörg Spitz, Schlangenbad) Wissenschaftliche Grundlagen der Medizin im 21. Jahrhundert (Dr. med. Ori Wolff, Berlin) More than a vitamin: Vitamin C as a treatment for cancer (Ph. D. Qi Chen, Kansas City/USA) Aktuelle, adjuvante Verfahren in der Onkologie (PD Dr. med. Nils Thoennissen , Soest) Der Krebserkrankung ganzheitlich begegnen – Individuelle Heilungswege bei schwerer Erkrankung (Dr. med. György Irmey, Heidelberg) Die Bedeutung von Bewegung und Sport in der Onkologie (Petra Wirtz, Köln) Ganzheitliche und patientenfreundliche Therapie von Prostatakrebs (Dr. med. Ernst Herbert Bliemeister, Ammersbek) Möglichkeiten und Grenzen einer ketogenen Diät in der Onkologie (Prof. Dr. rer. hum. biol. Ulrike Kämmerer, Würzburg) Die Rolle des Darmes (microbiome) bei der Krebsentstehung (Dr. med. Ralf Heinrich) Mikronährstoffe in der onkologischen Intervention (Apotheker Uwe Gröber, Essen) Die Bedeutung von Singen und Musik für Patienten in der Onkologie (Elke Wünnenberg, Bad Waldsee) Integrative Therapie von Patienten mit Prostata- und Mammakarzinom (Prof. Dr.med. Dr. rer. nat. Bernd Pfeifer) Tumor-Fatigue – Mehr als nur eine „Müdigkeit“ (Dr. med. Alfred Wolf, Ulm) Umwelteinflüsse und Krebserkrankungen (Dr. med. Kurt E. Müller, Kempten) Problematik der Ernährung bei Krebspatienten (Dr. med. Hardy Walle, Kirkel) Vitamin D und Krebs: Update 2017 (Prof. Dr. med. Winfried März, Mannheim) Magnesium in der Krebstherapie (PD Dr. med. Klaus Kisters, Herne) Omega-3-Fettsäuren in der Onkologie – Kann man mit Fischen dem Krebs davonschwimmen? (Dr. med. Volker Schmiedel) Synopsis und Perspektiven (Prof. Dr. med. Jörg Spitz, Schlangenbad) Bonusmaterial Epigenetik: Schnittstelle zwischen Erbgut und Umwelt als Sonderdruck aus den "Aktuellen Gesundheitsnachrichten 27/ 2017" als PDF Der Vortrag Epigenetik - Nicht die Gene steuern uns - wir steuern unsere Gene (Prof. Dr. med. Jörg Spitz) als Video-Download in HD-Qualität (mp4)
 
 ## 2. Links
 

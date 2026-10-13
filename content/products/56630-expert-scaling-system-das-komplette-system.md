@@ -41,28 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Expert Scaling System — Das komplette System für automatisierte Onlinekurs- und Coaching-Verkäufe. Für Coaches, Trainer und Berater.</p>
-<p> </p>
-<p><strong>Kurzbeschreibung:</strong></p>
-<p>997€-Komplettsystem mit trainiertem GPT, Funnel-Aufbau, Skripten und allen zukünftigen Modulen. Drei starke Testimonials. Für Audiences die ihr Wissen automatisiert verkaufen wollen.</p>
-<p>  </p>
-<p><strong>Warum deine Audience das kaufen wird:</strong></p>
-<p>Das Expert Scaling System ist das vollständige Aufbau-System für Coaches, Trainer und Berater die ihr Wissen in Onlinekurse und Coachings verwandeln wollen — und das automatisiert verkaufen, ohne täglich selbst präsent zu sein.</p>
-<p>Kein Einzelkurs. Kein Theorie-Konstrukt. Ein System das aus allen Bausteinen besteht die dafür gebraucht werden:</p>
-<p><strong>Positionierung und Angebot</strong> — inklusive speziell trainiertem GPT der das Angebot zielgruppengerecht positioniert und Texte schreibt, die konvertieren.</p>
-<p><strong>Funnel-System</strong> — Aufbau von Funnel, Ads und gestaffeltem Angebot für automatisierte Verkäufe.</p>
-<p><strong>Verkaufstexte</strong> — fertige Skripte auf Basis von Marketingpsychologie für Anzeigen, Landingpages und E-Mails.</p>
-<p>Bonus: P.R.O.F.I.T.-Framework zum Download. Alle zukünftigen Module inklusive.</p>
-<p>  </p>
-<p><strong>Für wen ist das?</strong></p>
-<p>Coaches, Trainer, Berater und Kursersteller die ein vollständiges, funktionierendes System wollen — und nicht fünf Einzelkurse zusammenstückeln wollen.</p>
-<p>  </p>
-<p><strong>Warum es konvertiert:</strong></p>
-<p>997€ für ein Komplettsystem mit trainiertem GPT, fertigen Skripten und lebenslangen Updates ist ein klar kommunizierbarer Wert. Drei ausführliche Testimonials mit echten Namen und Berufen. Kein Guru-Versprechen, kein Hochglanz-Posing — Ralf Wenda ist IHK-Dozent, Wirtschaftsinformatiker und selbst aktiver Kursersteller.</p>
-<p>  </p>
-<p><strong>Für dich als Affiliate:</strong></p>
-<p>997€-Ticket mit starker Conversion-Grundlage durch das kostenlose Webinar als Einstieg. Deine Audience schaut sich das Webinar an — der Verkauf läuft automatisch.</p>
-<p>Für etablierte Partner mit eigener Community, E-Mail-Liste oder Werbekanal in der Zielgruppe gibt es ein erweitertes Kooperationsmodell mit deutlich höheren Konditionen. Details auf Anfrage: ralfwenda.education/partner-support/</p>
+**Vendor's marketplace description:** Expert Scaling System — Das komplette System für automatisierte Onlinekurs- und Coaching-Verkäufe. Für Coaches, Trainer und Berater. Kurzbeschreibung: 997€-Komplettsystem mit trainiertem GPT, Funnel-Aufbau, Skripten und allen zukünftigen Modulen. Drei starke Testimonials. Für Audiences die ihr Wissen automatisiert verkaufen wollen. Warum deine Audience das kaufen wird: Das Expert Scaling System ist das vollständige Aufbau-System für Coaches, Trainer und Berater die ihr Wissen in Onlinekurse und Coachings verwandeln wollen — und das automatisiert verkaufen, ohne täglich selbst präsent zu sein. Kein Einzelkurs. Kein Theorie-Konstrukt. Ein System das aus allen Bausteinen besteht die dafür gebraucht werden: Positionierung und Angebot — inklusive speziell trainiertem GPT der das Angebot zielgruppengerecht positioniert und Texte schreibt, die konvertieren. Funnel-System — Aufbau von Funnel, Ads und gestaffeltem Angebot für automatisierte Verkäufe. Verkaufstexte — fertige Skripte auf Basis von Marketingpsychologie für Anzeigen, Landingpages und E-Mails. Bonus: P.R.O.F.I.T.-Framework zum Download. Alle zukünftigen Module inklusive. Für wen ist das? Coaches, Trainer, Berater und Kursersteller die ein vollständiges, funktionierendes System wollen — und nicht fünf Einzelkurse zusammenstückeln wollen. Warum es konvertiert: 997€ für ein Komplettsystem mit trainiertem GPT, fertigen Skripten und lebenslangen Updates ist ein klar kommunizierbarer Wert. Drei ausführliche Testimonials mit echten Namen und Berufen. Kein Guru-Versprechen, kein Hochglanz-Posing — Ralf Wenda ist IHK-Dozent, Wirtschaftsinformatiker und selbst aktiver Kursersteller. Für dich als Affiliate: 997€-Ticket mit starker Conversion-Grundlage durch das kostenlose Webinar als Einstieg. Deine Audience schaut sich das Webinar an — der Verkauf läuft automatisch. Für etablierte Partner mit eigener Community, E-Mail-Liste oder Werbekanal in der Zielgruppe gibt es ein erweitertes Kooperationsmodell mit deutlich höheren Konditionen. Details auf Anfrage: ralfwenda.education/partner-support/
 
 ## 2. Links
 

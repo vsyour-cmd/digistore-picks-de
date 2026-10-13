@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Von null Followern zur For-You-Page – dein Start ohne Vorkenntnisse</strong></p>
-<p>TikTok belohnt niemanden dafür, dass er schon lange dabei ist – es belohnt dich dafür, dass du heute einen guten Hook machst. Dieses E-Book zeigt dir, wie die For-You-Page wirklich funktioniert und wie du deine ersten Videos so baust, dass der Algorithmus sie ausspielt. Du lernst, wie du in einer bis zwei Sekunden die volle Aufmerksamkeit packst, welche nativen Trends und Sounds deinen Start beschleunigen und warum Storytime-Formate auch ohne Follower viral gehen können. Kein teures Equipment, kein großes Publikum nötig – nur die richtigen Entscheidungen in den ersten drei Sekunden. Am Ende hast du einen klaren Posting-Plan, dein erstes Set an Videos fertig und weißt genau, welche Metriken – Completion Rate, Rewatch und Shares – dein Wachstum wirklich steuern.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Wie die For-You-Page funktioniert – und wie du von Anfang an auf ihr landest</li>
-<li>Hook-Formeln, die in 1–2 Sekunden fesseln</li>
-<li>Nische &amp; Profil-Setup: so sendest du dem Algorithmus das richtige Signal</li>
-<li>Natives TikTok produzieren: Trends, Sounds und Text-Overlays richtig nutzen</li>
-<li>Storytime &amp; Loop-Formate, die Completion Rate und Rewatch steigern</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Von null Followern zur For-You-Page – dein Start ohne Vorkenntnisse TikTok belohnt niemanden dafür, dass er schon lange dabei ist – es belohnt dich dafür, dass du heute einen guten Hook machst. Dieses E-Book zeigt dir, wie die For-You-Page wirklich funktioniert und wie du deine ersten Videos so baust, dass der Algorithmus sie ausspielt. Du lernst, wie du in einer bis zwei Sekunden die volle Aufmerksamkeit packst, welche nativen Trends und Sounds deinen Start beschleunigen und warum Storytime-Formate auch ohne Follower viral gehen können. Kein teures Equipment, kein großes Publikum nötig – nur die richtigen Entscheidungen in den ersten drei Sekunden. Am Ende hast du einen klaren Posting-Plan, dein erstes Set an Videos fertig und weißt genau, welche Metriken – Completion Rate, Rewatch und Shares – dein Wachstum wirklich steuern. Das steckt drin: Wie die For-You-Page funktioniert – und wie du von Anfang an auf ihr landest Hook-Formeln, die in 1–2 Sekunden fesseln Nische & Profil-Setup: so sendest du dem Algorithmus das richtige Signal Natives TikTok produzieren: Trends, Sounds und Text-Overlays richtig nutzen Storytime & Loop-Formate, die Completion Rate und Rewatch steigern Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

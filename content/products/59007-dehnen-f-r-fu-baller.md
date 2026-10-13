@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Promi-Fakten</strong></h2>
-<p> <strong>• Produkt:</strong> "Dehnen für Fußballer" (E-Book)</p>
-<p> <strong>• Preis:</strong> 17,99 €</p>
-<p><strong> • Provision:</strong> 60 % (starke Marge für dein Affiliate-Konto)</p>
-<p><strong> • Zielgruppe:</strong> Fußballer, Trainer und Sportler, die ihre Beweglichkeit verbessern und Verletzungen (z. B. Leiste, Oberschenkel) vorbeugen wollen.</p>
-<p>Kurz-Pitch für deine Kanäle</p>
-<p> </p>
-<h3><strong>Schluss mit verkürzten Muskeln und Zerrungen auf dem Platz!</strong></h3>
-<p>Das E-Book "Dehnen für Fußballer" liefert die effektivsten Routinen für mehr Flexibilität, schnellere Regeneration und echten Verletzungsschutz. Perfekt für Amateure und ambitionierte Kicker – sofort umsetzbar und auf den Punkt gebracht.</p>
-<p>[Jetzt bewerben &amp; 60% Provision sichern] (Affiliate-Link)</p>
-<p> </p>
+**Vendor's marketplace description:** Promi-Fakten • Produkt: "Dehnen für Fußballer" (E-Book) • Preis: 17,99 € • Provision: 60 % (starke Marge für dein Affiliate-Konto) • Zielgruppe: Fußballer, Trainer und Sportler, die ihre Beweglichkeit verbessern und Verletzungen (z. B. Leiste, Oberschenkel) vorbeugen wollen. Kurz-Pitch für deine Kanäle Schluss mit verkürzten Muskeln und Zerrungen auf dem Platz! Das E-Book "Dehnen für Fußballer" liefert die effektivsten Routinen für mehr Flexibilität, schnellere Regeneration und echten Verletzungsschutz. Perfekt für Amateure und ambitionierte Kicker – sofort umsetzbar und auf den Punkt gebracht. [Jetzt bewerben & 60% Provision sichern] (Affiliate-Link)
 
 ## 2. Links
 

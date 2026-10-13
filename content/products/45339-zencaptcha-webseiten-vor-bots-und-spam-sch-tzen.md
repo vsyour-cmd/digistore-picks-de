@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>Zencaptcha schützt Webseiten vor Spam und betrügerischen Aktivitäten. Falsche und temporäre E-Mail-Adressen werden erkannt und Bots werden herausgefordert, noch bevor sie sich registrieren oder zum Newsletter abonnieren können. Verbessert die Qualität der Nutzerdaten und spart wertvolle Server-Ressourcen und Geld. 100% DSGVO-konform.</div>
-<div> </div>
-<div><strong>Deine Vorteile als Affiliate:</strong></div>
-<div> </div>
-<div>✅ Datenschutzfreundliche Technologie aus Europa</div>
-<div>✅ Bei Website-Betreibern sehr beliebte Software</div>
-<div>✅ Einzigartig und 100% DSGVO-konform</div>
-<div>✅ <strong>Weltweite</strong> grenzüberschreitende Provisionen (durch mehrsprachige internationale Software)</div>
-<div>✅ <strong>Monatlich wiederkehrende Provisionen von <span style="color:#0000ff;">25%</span><br /></strong></div>
-</div>
+**Vendor's marketplace description:** Zencaptcha schützt Webseiten vor Spam und betrügerischen Aktivitäten. Falsche und temporäre E-Mail-Adressen werden erkannt und Bots werden herausgefordert, noch bevor sie sich registrieren oder zum Newsletter abonnieren können. Verbessert die Qualität der Nutzerdaten und spart wertvolle Server-Ressourcen und Geld. 100% DSGVO-konform. Deine Vorteile als Affiliate: ✅ Datenschutzfreundliche Technologie aus Europa ✅ Bei Website-Betreibern sehr beliebte Software ✅ Einzigartig und 100% DSGVO-konform ✅ Weltweite grenzüberschreitende Provisionen (durch mehrsprachige internationale Software) ✅ Monatlich wiederkehrende Provisionen von 25%
 
 ## 2. Links
 

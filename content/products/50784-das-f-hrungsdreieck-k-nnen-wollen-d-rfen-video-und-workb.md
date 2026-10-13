@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Entdecke die drei zentralen Aspekte erfolgreicher Führung – Können, Wollen und Dürfen. In nur 30 Minuten lernst Du, wie Du Deine Mitarbeiter:innen gezielt motivierst und Blockaden auflöst. Ergänzt durch ein praxisorientiertes Workbook.</p>
-<p>Das Führungsdreieck – Können, Wollen, Dürfen – Video + Workbook  </p>
-<p>Entdecke die drei zentralen Aspekte erfolgreicher Führung – Können, Wollen und Dürfen. In nur 30 Minuten lernst Du, wie Du Deine Mitarbeiter:innen gezielt motivierst und Blockaden auflöst. Ergänzt durch ein praxisorientiertes Workbook.</p>
-<ul>
-<li>Führung mit Klarheit – das Führungsdreieck als Schlüssel zu mehr Erfolg im Team.</li>
-</ul>
-<p>Das Führungsdreieck beleuchtet die drei wichtigsten Faktoren für gelungene Führung: Können, Wollen und Dürfen. Dieses Modell hilft Dir, Hindernisse zu erkennen und die Zusammenarbeit im Team nachhaltig zu verbessern.  </p>
-<p>Das erwartet Dich:</p>
-<p style="text-align:justify;">Ein 30-minütiges Video, das die Grundlagen des Führungsdreiecks erklärt:  </p>
-<p>Können: Wie Du Fähigkeiten gezielt förderst.  </p>
-<p>Wollen: Wie Du Motivation weckst und aufrechterhältst.  </p>
-<p> Dürfen: Wie Du Rahmenbedingungen schaffst, die produktives Arbeiten ermöglichen.  </p>
-<p>Ein Workbook, das praktische Übungen, Reflexionen und Checklisten enthält, um das Modell direkt im Arbeitsalltag anzuwenden.  </p>
-<p>Das lernst Du:</p>
-<ul>
-<li>Warum Mitarbeiter:innen auf Widerstand gehen oder sich zurückziehen.  </li>
-<li>Wie Du Motivation gezielt steigerst und Blockaden löst.  </li>
-<li>Wie Du Dein Team befähigst, mit Klarheit und Eigenverantwortung zu arbeiten.  </li>
-</ul>
-<p>Für wen geeignet:</p>
-<ul>
-<li>Führungskräfte, die ihr Team besser verstehen und gezielt fördern möchten. </li>
-<li>Coaches, die das Modell in Workshops oder Coachings einsetzen wollen.  </li>
-</ul>
-<p>Preis: Nur 7,99 €    </p>
+**Vendor's marketplace description:** Entdecke die drei zentralen Aspekte erfolgreicher Führung – Können, Wollen und Dürfen. In nur 30 Minuten lernst Du, wie Du Deine Mitarbeiter:innen gezielt motivierst und Blockaden auflöst. Ergänzt durch ein praxisorientiertes Workbook. Das Führungsdreieck – Können, Wollen, Dürfen – Video + Workbook Entdecke die drei zentralen Aspekte erfolgreicher Führung – Können, Wollen und Dürfen. In nur 30 Minuten lernst Du, wie Du Deine Mitarbeiter:innen gezielt motivierst und Blockaden auflöst. Ergänzt durch ein praxisorientiertes Workbook. Führung mit Klarheit – das Führungsdreieck als Schlüssel zu mehr Erfolg im Team. Das Führungsdreieck beleuchtet die drei wichtigsten Faktoren für gelungene Führung: Können, Wollen und Dürfen. Dieses Modell hilft Dir, Hindernisse zu erkennen und die Zusammenarbeit im Team nachhaltig zu verbessern. Das erwartet Dich: Ein 30-minütiges Video, das die Grundlagen des Führungsdreiecks erklärt: Können: Wie Du Fähigkeiten gezielt förderst. Wollen: Wie Du Motivation weckst und aufrechterhältst. Dürfen: Wie Du Rahmenbedingungen schaffst, die produktives Arbeiten ermöglichen. Ein Workbook, das praktische Übungen, Reflexionen und Checklisten enthält, um das Modell direkt im Arbeitsalltag anzuwenden. Das lernst Du: Warum Mitarbeiter:innen auf Widerstand gehen oder sich zurückziehen. Wie Du Motivation gezielt steigerst und Blockaden löst. Wie Du Dein Team befähigst, mit Klarheit und Eigenverantwortung zu arbeiten. Für wen geeignet: Führungskräfte, die ihr Team besser verstehen und gezielt fördern möchten. Coaches, die das Modell in Workshops oder Coachings einsetzen wollen. Preis: Nur 7,99 €
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Interaktive, browserbasierte Cyber-Awareness-Mission für Geschäftsführungen und Vorstände. Das NIS2 Management Decision Lab trainiert Entscheidungen zu kritischen Diensten, Eindämmung, Meldung, Notbetrieb, Wiederanlauf, Lieferantenzugriff und Restrisiko anhand eines realistischen Ransomware-Szenarios. Unternehmen erhalten eine strukturierte Management-Beschlussakte, ein gewichtetes Ergebnis und einen Teilnahme-Nachweis. Start per Mission-Code, ohne persönliche Teilnehmerkonten und ohne Abo. 40 % Affiliate-Provision – beim 100er-Paket entspricht das nominal bis zu 79,60 € Provision pro Verkauf.</p>
+**Vendor's marketplace description:** Interaktive, browserbasierte Cyber-Awareness-Mission für Geschäftsführungen und Vorstände. Das NIS2 Management Decision Lab trainiert Entscheidungen zu kritischen Diensten, Eindämmung, Meldung, Notbetrieb, Wiederanlauf, Lieferantenzugriff und Restrisiko anhand eines realistischen Ransomware-Szenarios. Unternehmen erhalten eine strukturierte Management-Beschlussakte, ein gewichtetes Ergebnis und einen Teilnahme-Nachweis. Start per Mission-Code, ohne persönliche Teilnehmerkonten und ohne Abo. 40 % Affiliate-Provision – beim 100er-Paket entspricht das nominal bis zu 79,60 € Provision pro Verkauf.
 
 ## 2. Links
 

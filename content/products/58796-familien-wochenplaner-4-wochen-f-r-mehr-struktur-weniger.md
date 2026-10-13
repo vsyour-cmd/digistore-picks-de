@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mehr Struktur im Familienalltag, weniger Chaos! Der Familien-Wochenplaner unterstützt Eltern dabei, Termine, Aufgaben und wichtige To-dos übersichtlich zu organisieren. Über 4 Wochen entsteht Schritt für Schritt mehr Ordnung im Alltag – damit weniger vergessen wird und mehr wertvolle Familienzeit bleibt. Ideal für Mamas und Familien, die ihren Alltag einfacher und entspannter gestalten möchten.</p>
+**Vendor's marketplace description:** Mehr Struktur im Familienalltag, weniger Chaos! Der Familien-Wochenplaner unterstützt Eltern dabei, Termine, Aufgaben und wichtige To-dos übersichtlich zu organisieren. Über 4 Wochen entsteht Schritt für Schritt mehr Ordnung im Alltag – damit weniger vergessen wird und mehr wertvolle Familienzeit bleibt. Ideal für Mamas und Familien, die ihren Alltag einfacher und entspannter gestalten möchten.
 
 ## 2. Links
 

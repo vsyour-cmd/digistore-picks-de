@@ -41,43 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>PRODUKTIVITÄT AUF EINEM NEUEN LEVEL</h2>
-<h3>Schaffe in 2 Wochen, wofür du früher gefühlt 2 Monate gebraucht hast</h3>
-<p>Mehr schaffen bedeutet nicht automatisch, länger zu arbeiten.</p>
-<p>Dieser Premium-Kurs zeigt Schritt für Schritt, wie Teilnehmer ihre Arbeitsweise optimieren, Zeitfresser eliminieren und ihre wichtigsten Aufgaben <strong>schneller, strukturierter und mit weniger Stress</strong> erledigen können.</p>
-<p>Das Ziel: <strong>Mehr Ergebnisse in weniger Zeit – und endlich wieder das Gefühl, am Ende des Tages wirklich etwas geschafft zu haben.</strong></p>
-<h3>Das erwartet die Teilnehmer:</h3>
-<ul>
-<li>
-<p>Strategien, mit denen sie ihre <strong>Produktivität ab sofort deutlich steigern</strong> und wesentlich mehr in kürzerer Zeit erledigen können</p>
-</li>
-<li>
-<p>Methoden, um <strong>weniger Zeit mit unwichtigen Aufgaben zu verschwenden</strong> und sich konsequent auf das Wesentliche zu konzentrieren</p>
-</li>
-<li>
-<p>Ein System, mit dem Aufgaben <strong>schneller und strukturierter abgearbeitet</strong> werden können</p>
-</li>
-<li>
-<p>Praktische Techniken gegen die ständig wachsende To-do-Liste und das Gefühl, <strong>nie wirklich fertig zu werden</strong></p>
-</li>
-<li>
-<p>Strategien für einen entspannteren Arbeitsalltag mit dem Ziel, <strong>weniger Überstunden und Wochenendarbeit</strong> zu benötigen</p>
-</li>
-<li>
-<p><strong>Templates und sofort einsetzbare Vorlagen</strong>, damit das Gelernte nicht nur Theorie bleibt</p>
-</li>
-<li>
-<p>Eine <strong>glasklare Schritt-für-Schritt-Anleitung</strong>, die genau zeigt, was wann und wie umgesetzt werden sollte</p>
-</li>
-<li>
-<p>und weitere Produktivitätsstrategien für Beruf und Alltag</p>
-</li>
-</ul>
-<h3>Nicht länger arbeiten. Besser arbeiten.</h3>
-<p>Der Kurs richtet sich an Selbstständige, Unternehmer, Angestellte und alle, die das Gefühl kennen, den ganzen Tag beschäftigt zu sein – und trotzdem mit einer langen Liste unerledigter Aufgaben Feierabend zu machen.</p>
-<p>Statt noch mehr Stunden in den Arbeitstag zu quetschen, lernen die Teilnehmer, ihre vorhandene Zeit <strong>konsequenter und produktiver einzusetzen</strong>.</p>
-<p>Das Ergebnis soll ein Arbeitsalltag sein, in dem wichtige Aufgaben schneller erledigt werden, der Kopf am Abend freier ist und wieder <strong>mehr Zeit für die Dinge bleibt, die außerhalb der Arbeit wichtig sind.</strong></p>
-<p><strong>Ein praxisorientierter Premium-Kurs für alle, die weniger beschäftigt sein und dafür mehr erledigt bekommen möchten.</strong></p>
+**Vendor's marketplace description:** PRODUKTIVITÄT AUF EINEM NEUEN LEVEL Schaffe in 2 Wochen, wofür du früher gefühlt 2 Monate gebraucht hast Mehr schaffen bedeutet nicht automatisch, länger zu arbeiten. Dieser Premium-Kurs zeigt Schritt für Schritt, wie Teilnehmer ihre Arbeitsweise optimieren, Zeitfresser eliminieren und ihre wichtigsten Aufgaben schneller, strukturierter und mit weniger Stress erledigen können. Das Ziel: Mehr Ergebnisse in weniger Zeit – und endlich wieder das Gefühl, am Ende des Tages wirklich etwas geschafft zu haben. Das erwartet die Teilnehmer: Strategien, mit denen sie ihre Produktivität ab sofort deutlich steigern und wesentlich mehr in kürzerer Zeit erledigen können Methoden, um weniger Zeit mit unwichtigen Aufgaben zu verschwenden und sich konsequent auf das Wesentliche zu konzentrieren Ein System, mit dem Aufgaben schneller und strukturierter abgearbeitet werden können Praktische Techniken gegen die ständig wachsende To-do-Liste und das Gefühl, nie wirklich fertig zu werden Strategien für einen entspannteren Arbeitsalltag mit dem Ziel, weniger Überstunden und Wochenendarbeit zu benötigen Templates und sofort einsetzbare Vorlagen , damit das Gelernte nicht nur Theorie bleibt Eine glasklare Schritt-für-Schritt-Anleitung , die genau zeigt, was wann und wie umgesetzt werden sollte und weitere Produktivitätsstrategien für Beruf und Alltag Nicht länger arbeiten. Besser arbeiten. Der Kurs richtet sich an Selbstständige, Unternehmer, Angestellte und alle, die das Gefühl kennen, den ganzen Tag beschäftigt zu sein – und trotzdem mit einer langen Liste unerledigter Aufgaben Feierabend zu machen. Statt noch mehr Stunden in den Arbeitstag zu quetschen, lernen die Teilnehmer, ihre vorhandene Zeit konsequenter und produktiver einzusetzen . Das Ergebnis soll ein Arbeitsalltag sein, in dem wichtige Aufgaben schneller erledigt werden, der Kopf am Abend freier ist und wieder mehr Zeit für die Dinge bleibt, die außerhalb der Arbeit wichtig sind. Ein praxisorientierter Premium-Kurs für alle, die weniger beschäftigt sein und dafür mehr erledigt bekommen möchten.
 
 ## 2. Links
 

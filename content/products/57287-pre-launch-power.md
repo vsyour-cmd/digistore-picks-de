@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Pre-Launch-Power“</strong></p>
-<p>Spannung aufbauen, bevor du verkaufst – Der wichtigste Teil eines Launches passiert oft, bevor es etwas zu kaufen gibt. Warum der Pre-Launch entscheidet, eine Warteliste aufbauen, Geschichten und Einblicke teilen und die Zielgruppe einbeziehen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Warum der Pre-Launch über den Erfolg entscheidet</li>
-<li>Spannung und echte Vorfreude erzeugen</li>
-<li>Eine Warteliste aufbauen</li>
-<li>Einwilligung und faire Erwartungen</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Pre-Launch-Power“ Spannung aufbauen, bevor du verkaufst – Der wichtigste Teil eines Launches passiert oft, bevor es etwas zu kaufen gibt. Warum der Pre-Launch entscheidet, eine Warteliste aufbauen, Geschichten und Einblicke teilen und die Zielgruppe einbeziehen. Warum dieses E-Book bewerben? 50 % Provision – ca. 9,95 € pro Verkauf (Verkaufspreis 19,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Warum der Pre-Launch über den Erfolg entscheidet Spannung und echte Vorfreude erzeugen Eine Warteliste aufbauen Einwilligung und faire Erwartungen
 
 ## 2. Links
 

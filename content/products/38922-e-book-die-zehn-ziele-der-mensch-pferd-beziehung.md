@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><span style="color:#3366ff;"><strong>„Erst wenn wir unserer Pferd verstehen, kann unser Pferd auch uns verstehen.“</strong></span></div>
-<div><strong><br /></strong> E-Book von Martin Keuzer</div>
-<div>Pferdetrainer und Gründer der MKA Horsemanship Academy</div>
-<div> </div>
-<div>Dieses E-Book zeigt allen Reitern und Pferdebesitzern, wie sie die Beziehung zu ihrem Pferd um ein Vielfaches verbessern, Stress auf beiden Seiten vermeiden und ein gesundes und motiviertes Pferd erhalten.</div>
-<div> </div>
-<div>Unabhängig von der Reitdisziplin und des Reitstils haben wir es mit einem Lebewesen zu tun, das von seiner Natur aus nicht geschaffen ist für die Welt des Menschen und die Welt des Reitens. Unsere Pferde sind Fluchttiere und haben ein enorm hohes Sicherheitsbedürfniss. Aus diesem Grund schließen sie sich zu einem Herdenverband zusammen, zum Überleben des Einzelnen. Nur in der Gruppe fühlen sie sich sicher und können ihr Sicherheitsbedürfniss befriedigen.</div>
-<div>
-<p>Der Mensch kann niemals vollständig die Gruppe ersetzen, er kann nur versuchen, das Sicherheitsbedürfnis seines Pferdes soweit es ihm möglich ist zu befriedigen. Der Mensch muss lernen, wie ein Pferd denkt, wie es fühlt und wie es lernt. Wie es seine Umgebung wahr nimmt und wie es den Menschen selber wahr nimmt.</p>
-<p> </p>
-</div>
-<div>
-<p>Im Laufe der letzten Jahre haben sich 10 große Ziele für die Mensch-Pferd-Beziehung entwickelt. Sie belaufen sich auf das instinktive Verhalten des Pferdes, seinen ganz speziellen Verhaltenskategorien und seinen Grundbedürfnissen. Wenn wir jedes einzelne Ziel erreichen, erreichen wir letztendlich das übergeordnete 10te Ziel – die natürliche Versammlung (Physisch und Psychisch).</p>
-<p> </p>
-</div>
-<div>"Ich wünsche Ihnen nun viel Freude beim Lesen und Erfolg bei der Umsetzung.“ Martin Kreuzer</div>
-<div> </div>
-<div>
-<p>E-Book <strong>„Die zehn Ziele unserer Mensch-Pferd-Beziehung“</strong></p>
-<p><strong><br /></strong> 40 Seiten <strong>nur € 9,95</strong></p>
-<p> </p>
-<p><span style="color:#3366ff;"><strong>Lieber Affiliate, vielen Dank für deine Unterstützung. Ich freue mich auf eine gute Zusammenarbeit! </strong></span></p>
-<p><span style="color:#3366ff;"><em>Martin Kreuzer</em></span><strong><br /></strong></p>
-<p> </p>
-<p> </p>
-</div>
+**Vendor's marketplace description:** „Erst wenn wir unserer Pferd verstehen, kann unser Pferd auch uns verstehen.“ E-Book von Martin Keuzer Pferdetrainer und Gründer der MKA Horsemanship Academy Dieses E-Book zeigt allen Reitern und Pferdebesitzern, wie sie die Beziehung zu ihrem Pferd um ein Vielfaches verbessern, Stress auf beiden Seiten vermeiden und ein gesundes und motiviertes Pferd erhalten. Unabhängig von der Reitdisziplin und des Reitstils haben wir es mit einem Lebewesen zu tun, das von seiner Natur aus nicht geschaffen ist für die Welt des Menschen und die Welt des Reitens. Unsere Pferde sind Fluchttiere und haben ein enorm hohes Sicherheitsbedürfniss. Aus diesem Grund schließen sie sich zu einem Herdenverband zusammen, zum Überleben des Einzelnen. Nur in der Gruppe fühlen sie sich sicher und können ihr Sicherheitsbedürfniss befriedigen. Der Mensch kann niemals vollständig die Gruppe ersetzen, er kann nur versuchen, das Sicherheitsbedürfnis seines Pferdes soweit es ihm möglich ist zu befriedigen. Der Mensch muss lernen, wie ein Pferd denkt, wie es fühlt und wie es lernt. Wie es seine Umgebung wahr nimmt und wie es den Menschen selber wahr nimmt. Im Laufe der letzten Jahre haben sich 10 große Ziele für die Mensch-Pferd-Beziehung entwickelt. Sie belaufen sich auf das instinktive Verhalten des Pferdes, seinen ganz speziellen Verhaltenskategorien und seinen Grundbedürfnissen. Wenn wir jedes einzelne Ziel erreichen, erreichen wir letztendlich das übergeordnete 10te Ziel – die natürliche Versammlung (Physisch und Psychisch). "Ich wünsche Ihnen nun viel Freude beim Lesen und Erfolg bei der Umsetzung.“ Martin Kreuzer E-Book „Die zehn Ziele unserer Mensch-Pferd-Beziehung“ 40 Seiten nur € 9,95 Lieber Affiliate, vielen Dank für deine Unterstützung. Ich freue mich auf eine gute Zusammenarbeit! Martin Kreuzer
 
 ## 2. Links
 

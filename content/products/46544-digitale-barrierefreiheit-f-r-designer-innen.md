@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewerbe unseren Online-Kurs für digitale Barrierefreiheit für Designer*innen. <br /><br />Digitale Barrierefreiheit wird Pflicht 2025 und Firmen müssen bis dahin ihre Leute schulen, um Barrierefreiheit in ihre Prozesse zu integrieren. Unser Online-Kurs für Designer*innen bringt Designer*innen das barrierefreie Gestalten bei.<strong><br /><br />Vorteile als Affiliate:</strong></p>
-<ul>
-<li>25 % auf jeden Verkauf</li>
-<li>5 % unserer Einnahmen werden an einen guten Zweck gespendet</li>
-<li>Getestetes Werbematerial von uns<br /><br /></li>
-</ul>
-<p><strong>Warum dieser Kurs sich verkauft:</strong></p>
-<ul>
-<li>Wir haben die auffälligste Marke im Bereich der digitalen Barrierefreiheit.</li>
-<li>Wir haben eine große Followerschaft von knapp 8000 Follower auf LinkedIn</li>
-<li>Wir arbeiten mit großen Marken, wie der Aktion Menschen zusammen</li>
-<li>Wir haben einen der beliebtesten Blogs zum Thema digitale Barrierefreiheit<br /><br /><br /></li>
-</ul>
-<p><strong>Dein Promolink:</strong><br />Dein Promolink senden wir dir im Anschluss per Mail zu!</p>
-<p>Bei weiteren Fragen kontaktiere uns gerne unter: hallo@gehirngerecht.digital</p>
+**Vendor's marketplace description:** Bewerbe unseren Online-Kurs für digitale Barrierefreiheit für Designer*innen. Digitale Barrierefreiheit wird Pflicht 2025 und Firmen müssen bis dahin ihre Leute schulen, um Barrierefreiheit in ihre Prozesse zu integrieren. Unser Online-Kurs für Designer*innen bringt Designer*innen das barrierefreie Gestalten bei. Vorteile als Affiliate: 25 % auf jeden Verkauf 5 % unserer Einnahmen werden an einen guten Zweck gespendet Getestetes Werbematerial von uns Warum dieser Kurs sich verkauft: Wir haben die auffälligste Marke im Bereich der digitalen Barrierefreiheit. Wir haben eine große Followerschaft von knapp 8000 Follower auf LinkedIn Wir arbeiten mit großen Marken, wie der Aktion Menschen zusammen Wir haben einen der beliebtesten Blogs zum Thema digitale Barrierefreiheit Dein Promolink: Dein Promolink senden wir dir im Anschluss per Mail zu! Bei weiteren Fragen kontaktiere uns gerne unter: hallo@gehirngerecht.digital
 
 ## 2. Links
 

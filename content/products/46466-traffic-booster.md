@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong><em>Bewerbe den Bestseller Kurs Traffic Booster!</em></strong></div>
-<div> </div>
-<div><strong><em>Hier gibt es alles zu den Themen:</em></strong></div>
-<div>
-<p><strong><em>✅  Streng geheime Traffic Methoden</em></strong></p>
-<p><strong><em>✅  </em>Perfekt für Affiliates und Vendoren</strong></p>
-<p><strong><em>✅  </em>Praktische Tipps und Tricks</strong></p>
-<p><strong>50 % Provision für Dich</strong></p>
-<p><strong>Im Upsell warten über 150 Euro Netto Provision auf Dich und ein Abo für wiederkehrente Provisionen! </strong></p>
-</div>
+**Vendor's marketplace description:** Bewerbe den Bestseller Kurs Traffic Booster! Hier gibt es alles zu den Themen: ✅ Streng geheime Traffic Methoden ✅ Perfekt für Affiliates und Vendoren ✅ Praktische Tipps und Tricks 50 % Provision für Dich Im Upsell warten über 150 Euro Netto Provision auf Dich und ein Abo für wiederkehrente Provisionen!
 
 ## 2. Links
 

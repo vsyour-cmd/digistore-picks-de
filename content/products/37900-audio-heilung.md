@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die Audio Heilung beinhaltet 2 CDs:</p>
-<ul>
-<li>Heilung von Selbst</li>
-<li>Frequenzreisen im Quantenfeld</li>
-<li>1 Anleitungsbooklet</li>
-<li>Die jeweiligen CDs in den Formaten mp3 und wav.</li>
-</ul>
-<p>Ihre Vorteile:</p>
-<ul>
-<li><strong>40%</strong> Provision für den Verkauf der AudioHeilung als <strong>Download Produkt</strong></li>
-<li>Schnelle und persönliche Unterstützung auf Deutsch durch unser Team</li>
-<li>Weltweit einzigartiges Produkt ganz auf erforschter wissenschaftlicher Grundlage</li>
-<li>Auf unsere Affiliate Support Seite erhalten Sie eine Kurzeinführung, Bilder und E-Mail Texte</li>
-</ul>
-<p><strong>Hinweis:</strong> Nach dem Klick auf <strong>"Jetzt promoten" </strong>erhältst du eine E-Mail von uns. Absender: doitAkademie<strong><br /></strong></p>
-<p><strong>Bitte bestätige deine E-Mail Adresse</strong> mit Klick auf den Link in der E-Mail mit dem Betreff: "Ein Klick fehlt noch..." um weitere Unterstützung und Informationen per E-Mail von uns zu erhalten.</p>
+**Vendor's marketplace description:** Die Audio Heilung beinhaltet 2 CDs: Heilung von Selbst Frequenzreisen im Quantenfeld 1 Anleitungsbooklet Die jeweiligen CDs in den Formaten mp3 und wav. Ihre Vorteile: 40% Provision für den Verkauf der AudioHeilung als Download Produkt Schnelle und persönliche Unterstützung auf Deutsch durch unser Team Weltweit einzigartiges Produkt ganz auf erforschter wissenschaftlicher Grundlage Auf unsere Affiliate Support Seite erhalten Sie eine Kurzeinführung, Bilder und E-Mail Texte Hinweis: Nach dem Klick auf "Jetzt promoten" erhältst du eine E-Mail von uns. Absender: doitAkademie Bitte bestätige deine E-Mail Adresse mit Klick auf den Link in der E-Mail mit dem Betreff: "Ein Klick fehlt noch..." um weitere Unterstützung und Informationen per E-Mail von uns zu erhalten.
 
 ## 2. Links
 

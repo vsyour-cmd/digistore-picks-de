@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Deine Vorteile:</strong></p>
-<ul>
-<li>Hohe Provisionen von 44% für Produkte bis 90 Euro und 22% Provision für Produkte ab 150 Euro</li>
-<li>Bereits über 10.000 verkaufte Produkte</li>
-</ul>
-<p><strong>Pavlina Klemm </strong>ist Bestseller-Autorin der Reihe <strong>Lichtbotschaften von den Plejaden</strong></p>
-<p><strong>Die Produkte:</strong></p>
-<ul>
-<li>Digitale Download Produkte VK 15,-€</li>
-<li>Regelmäßige Online Meditationsabende VK 35,-€</li>
-<li>Umfangreicher Onlinekurs VK 199,-€</li>
-</ul>
+**Vendor's marketplace description:** Deine Vorteile: Hohe Provisionen von 44% für Produkte bis 90 Euro und 22% Provision für Produkte ab 150 Euro Bereits über 10.000 verkaufte Produkte Pavlina Klemm ist Bestseller-Autorin der Reihe Lichtbotschaften von den Plejaden Die Produkte: Digitale Download Produkte VK 15,-€ Regelmäßige Online Meditationsabende VK 35,-€ Umfangreicher Onlinekurs VK 199,-€
 
 ## 2. Links
 

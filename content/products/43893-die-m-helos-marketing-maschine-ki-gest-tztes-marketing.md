@@ -41,29 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>* Affiliate-Partner erhalten 50% Provision. Wiederkehrend.</p>
-<p>Die Marketing-Maschine bietet den Nutzer eine Vielzahl an Tools fürs Marketing an. </p>
-<p><strong>Einfach Lückentexte ausfüllen</strong>, Zielgruppe und Produkt eingeben -&gt; die KI erledigt den Rest.</p>
-<p>Schnell, einfach und gut sind die Faktoren, die Selbständige und kleine Unternehmen heute nach vorne bringen.</p>
-<p>Deshalb sind die Tools einfach nutzbar,  weil die Zielgruppe wenig Zeit für Marketing hat, aber gute Ergebnisse benötigt.</p>
-<p><strong>Tools sind u.a.:</strong></p>
-<ul>
-<li>Positionierung (Zielgruppe, Probleme, Kaufmotive)</li>
-<li>Blogartikel / Content-Erstellung</li>
-<li>Marketing mit dem DISG-Modell</li>
-<li>Marketing mit Metaprogrammen (NLP)</li>
-<li>Marketing für Human Design</li>
-<li>Marketing für Spiral Dynamics</li>
-<li>Marketing für Heilberufe</li>
-<li>Framework für das Optimieren von Split-Tests</li>
-<li>Psychologische Trigger (nach Zielgruppe)</li>
-</ul>
-<p>Leite die Interessenten auf die ersten beiden Lektionen, die frei verfügbar sind. Hier kannst du dich selber vom Mehrwert der Tool überzeugen -&gt; <a href="https://sinnstiften.biz/course/start/" target="_blank" rel="noreferrer noopener">Link zur 1. Seite</a></p>
-<p>Eine Contentseite dafür ist vorhanden. Spätestens wenn sie sich für die 7 Tage Testversion eingetragen haben, verwandelt ein starker Conversion-Funnel die Interessenten in Käufe.</p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** * Affiliate-Partner erhalten 50% Provision. Wiederkehrend. Die Marketing-Maschine bietet den Nutzer eine Vielzahl an Tools fürs Marketing an. Einfach Lückentexte ausfüllen , Zielgruppe und Produkt eingeben -> die KI erledigt den Rest. Schnell, einfach und gut sind die Faktoren, die Selbständige und kleine Unternehmen heute nach vorne bringen. Deshalb sind die Tools einfach nutzbar, weil die Zielgruppe wenig Zeit für Marketing hat, aber gute Ergebnisse benötigt. Tools sind u.a.: Positionierung (Zielgruppe, Probleme, Kaufmotive) Blogartikel / Content-Erstellung Marketing mit dem DISG-Modell Marketing mit Metaprogrammen (NLP) Marketing für Human Design Marketing für Spiral Dynamics Marketing für Heilberufe Framework für das Optimieren von Split-Tests Psychologische Trigger (nach Zielgruppe) Leite die Interessenten auf die ersten beiden Lektionen, die frei verfügbar sind. Hier kannst du dich selber vom Mehrwert der Tool überzeugen -> Link zur 1. Seite Eine Contentseite dafür ist vorhanden. Spätestens wenn sie sich für die 7 Tage Testversion eingetragen haben, verwandelt ein starker Conversion-Funnel die Interessenten in Käufe.
 
 ## 2. Links
 

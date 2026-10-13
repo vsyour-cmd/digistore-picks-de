@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein faszinierendes und wenig ausgeschöpftes Thema mit hoher Neugier- und Aha-Wirkung:</p>
-<p>Dieses Buch zeigt, wie Düfte unbewusst Emotionen, Erinnerungen und sogar Kaufentscheidungen steuern.</p>
-<p>Die Verbindung aus Wissenschaft, Psychologie und konkreten Alltagsbeispielen sorgt für starke Aufmerksamkeit und hohen Mehrwert für eine breite Zielgruppe.</p>
-<p>Besonders attraktiv für Content in den Bereichen Mindset, Marketing, Psychologie und persönliche Entwicklung.</p>
-<p>Der überraschende Erkenntnisfaktor erzeugt starke Klick- und Kaufimpulse.</p>
-<p>Ein vielseitig vermarktbares Produkt mit hohem Viral- und Conversion-Potenzial.</p>
+**Vendor's marketplace description:** Ein faszinierendes und wenig ausgeschöpftes Thema mit hoher Neugier- und Aha-Wirkung: Dieses Buch zeigt, wie Düfte unbewusst Emotionen, Erinnerungen und sogar Kaufentscheidungen steuern. Die Verbindung aus Wissenschaft, Psychologie und konkreten Alltagsbeispielen sorgt für starke Aufmerksamkeit und hohen Mehrwert für eine breite Zielgruppe. Besonders attraktiv für Content in den Bereichen Mindset, Marketing, Psychologie und persönliche Entwicklung. Der überraschende Erkenntnisfaktor erzeugt starke Klick- und Kaufimpulse. Ein vielseitig vermarktbares Produkt mit hohem Viral- und Conversion-Potenzial.
 
 ## 2. Links
 

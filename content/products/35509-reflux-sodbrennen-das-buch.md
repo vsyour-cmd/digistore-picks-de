@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Reflux &amp; Sodbrennen - Das Buch beantwortet auf über 80 Seiten die wichtigsten Fragen rund um das Thema Reflux und chronisches Sodbrennen. Wie äussert sich die Erkrankung, was kann man selbst dagegen tun. Wie sollte man seinen Lebensstil ändern, seine Ernährung und welche Möglichkeiten der Heilung gibt es. Zu guter Letzt gibt es eine Klinikliste mit den zertifizierten Reflux Zentren in Deutschland, Österreich und der Schweiz, für die Menschen, bei denen eine Operation unumgänglich wird, um die Krankheit zu heilen.</p>
+**Vendor's marketplace description:** Reflux & Sodbrennen - Das Buch beantwortet auf über 80 Seiten die wichtigsten Fragen rund um das Thema Reflux und chronisches Sodbrennen. Wie äussert sich die Erkrankung, was kann man selbst dagegen tun. Wie sollte man seinen Lebensstil ändern, seine Ernährung und welche Möglichkeiten der Heilung gibt es. Zu guter Letzt gibt es eine Klinikliste mit den zertifizierten Reflux Zentren in Deutschland, Österreich und der Schweiz, für die Menschen, bei denen eine Operation unumgänglich wird, um die Krankheit zu heilen.
 
 ## 2. Links
 

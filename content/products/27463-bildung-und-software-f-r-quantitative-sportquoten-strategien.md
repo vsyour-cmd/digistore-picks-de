@@ -41,71 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><span style="color:#ff6600;"><strong>Sports Betting Academy</strong></span></h1>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>Die Sports Betting Academy ist eine <strong>Bildungs- &amp; Research-Plattform</strong> für quantitative Strategien rund um Sportquoten – Statistik, Erwartungswerte, Arbitrage/Surebets und Market Microstructure. Wir behandeln Sportquoten wie <strong>Preis- und Risikomärkte</strong>, vergleichbar mit systematischen Anlagestrategien. <strong>Wir sind kein Buchmacher, nehmen keine Einsätze an und vermitteln keine Wetten.</strong></p>
-<p><strong>6× in Serie auf ProvenExpert: „Top Dienstleister“ &amp; „Top Empfehlung“ (2020–2025)</strong><br /><a>https://www.provenexpert.com/de-de/sports-betting-academy/</a></p>
-<hr />
-<h3>Masterzugänge &amp; Geltungsbereich</h3>
-<ul>
-<li>
-<p><strong>Masterzugang Deutschland</strong> – exklusiv für Teilnehmende <strong>mit Wohnsitz in Deutschland</strong>; Inhalte, Prozesse und Beispiele sind auf <strong>deutsches Recht</strong> ausgerichtet.</p>
-</li>
-<li>
-<p><strong>Masterzugang Österreich</strong> – für <strong>deutschsprachige Teilnehmende außerhalb Deutschlands</strong>; Inhalte an <strong>österreichische</strong> Rahmenbedingungen angepasst.</p>
-</li>
-</ul>
-<hr />
-<h3>Das erwartet dich im Masterzugang</h3>
-<ul>
-<li>
-<p><strong>Live on Tour (limitierte Plätze)</strong><br />Research- &amp; Community-Gruppe mit Daniel Winter-Holzinger: Analyse von Setups in Echtzeit, Erkennen von Preisabweichungen, Absicherungs-/Hedging-Logik, saubere Dokumentation von Entscheidungswegen.</p>
-</li>
-<li>
-<p><strong>Research-Stream </strong><br />Kuratiertes Research zu Quotendifferenzen, Value-Setups und Arbitrage/Surebets als Lehrbeispiele – inkl. Rahmenbedingungen (Gebühren, Limits, Regeln, Timing). <strong>Keine</strong> Aufforderung zum Abschluss von Wetten.</p>
-</li>
-<li>
-<p><strong>Wissen zur Marktmechanik &amp; Regulierung</strong><br />Quotenbildung, Ineffizienzen, Risiko-Profile, Order- und Abrechnungslogik auf Wettbörsen – mit DE/AT-Fokus.</p>
-</li>
-<li>
-<p><strong>Live-Coaching (wöchentlich 3 Stunden)</strong><br />Methodik zu Arbitrage/Surebets, Value-Erkennung und regelbasierten Strategien auf Wettbörsen – mit Backtests, Simulationen und klaren Decision-Frameworks (unter Berücksichtigung der nationalen Vorgaben).</p>
-</li>
-<li>
-<p><strong>Fallbeispiele (Video-Library)</strong><br />Schritt-für-Schritt-Analysen realer/hypothetischer Cases: Annahmen, Risiko, Timing, Regelwerke, Hedging.</p>
-</li>
-<li>
-<p><strong>Didaktische Tools/Rechner</strong><br />Arbitrage-/Surebet-Rechner, Value-Rechner, High-Variance-Szenario-Rechner, Matched-Betting-Rechner, Trading-Rechner, Hypothesen-Checker („Heiliger Gral“), System- und Kombinationsrechner mit Absicherungslogik.</p>
-</li>
-<li>
-<p><strong>Themenblock Wettbörsen (Market Microstructure)</strong><br />Ordertypen, Gebühren, Latenzen, Hedging und Abrechnung – praxisnah aufbereitet für Deutschland und Österreich.</p>
-</li>
-<li>
-<p><strong>Masterclasses</strong><br /><strong>Value-Scanner Masterclass</strong> – Workflow zur Identifikation von Preisabweichungen (Value).<br /><strong>Kehrwert-Strategien Masterclass</strong> – Mathematische Herleitung, Parameterwahl, Praxisgrenzen (Limits, Void, Regeländerungen).</p>
-</li>
-</ul>
-<hr />
-<h3>Abo &amp; Konditionen</h3>
-<p>Flexibles Abo-Modell (monatlich/jährlich), kündbar zur gewählten Laufzeit.<br />Checkout &amp; Rechnungsabwicklung über <strong>Digistore24</strong>.<br />Teilnahme <strong>ab 18 Jahren</strong>.</p>
-<hr />
-<h3>Affiliate-Programm (optional für Partner)</h3>
-<p>Bis zu <strong>25 % Lifetime-Provision</strong> (produktabhängig) mit <strong>Multi-/Cross-Device-Tracking</strong>.<br />Vorlagen-Paket: Tracking-Links &amp; QR-Codes (Affiliate-ID), E-Mail-, Web- &amp; Social-Vorlagen, Landing-Snippets für DE/AT, kurze How-Tos zum Research-Wording.<br />Hinweis: Es wird eine <strong>Bildungs-/Research-Plattform</strong> beworben – keine Aufforderung zum Abschluss von Wetten. Kaufabwicklung über Digistore24.</p>
-<hr />
-<h3>Affiliate-Datenschutzhinweis</h3>
-<p>Beim Klick auf einen Affiliate-Link erfolgt <strong>Tracking</strong> zur Zuordnung der Empfehlung. Für diese Verarbeitung ist der jeweilige <strong>Affiliate</strong> Verantwortlicher im Sinne der DSGVO. Der Kauf erfolgt über <strong>Digistore24</strong>.</p>
-<hr />
-<h3>Bestellhinweis (neues Bestellformular)</h3>
-<p>Mit Klick auf „Jetzt bestellen“ werden personenbezogene Daten zur Kaufabwicklung an <strong>Digistore24</strong> übertragen. Inhalte sind <strong>Bildung &amp; Research</strong> zu Statistik/Arbitrage. Operative Umsetzung liegt bei dir und erfolgt nur im Rahmen der geltenden Gesetze. <strong>18+.<br /></strong><br /><strong>Wir sind kein Wettanbieter; es werden keine Einsätze über uns abgewickelt.</strong></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Sports Betting Academy Die Sports Betting Academy ist eine Bildungs- & Research-Plattform für quantitative Strategien rund um Sportquoten – Statistik, Erwartungswerte, Arbitrage/Surebets und Market Microstructure. Wir behandeln Sportquoten wie Preis- und Risikomärkte , vergleichbar mit systematischen Anlagestrategien. Wir sind kein Buchmacher, nehmen keine Einsätze an und vermitteln keine Wetten. 6× in Serie auf ProvenExpert: „Top Dienstleister“ & „Top Empfehlung“ (2020–2025) https://www.provenexpert.com/de-de/sports-betting-academy/ Masterzugänge & Geltungsbereich Masterzugang Deutschland – exklusiv für Teilnehmende mit Wohnsitz in Deutschland ; Inhalte, Prozesse und Beispiele sind auf deutsches Recht ausgerichtet. Masterzugang Österreich – für deutschsprachige Teilnehmende außerhalb Deutschlands ; Inhalte an österreichische Rahmenbedingungen angepasst. Das erwartet dich im Masterzugang Live on Tour (limitierte Plätze) Research- & Community-Gruppe mit Daniel Winter-Holzinger: Analyse von Setups in Echtzeit, Erkennen von Preisabweichungen, Absicherungs-/Hedging-Logik, saubere Dokumentation von Entscheidungswegen. Research-Stream Kuratiertes Research zu Quotendifferenzen, Value-Setups und Arbitrage/Surebets als Lehrbeispiele – inkl. Rahmenbedingungen (Gebühren, Limits, Regeln, Timing). Keine Aufforderung zum Abschluss von Wetten. Wissen zur Marktmechanik & Regulierung Quotenbildung, Ineffizienzen, Risiko-Profile, Order- und Abrechnungslogik auf Wettbörsen – mit DE/AT-Fokus. Live-Coaching (wöchentlich 3 Stunden) Methodik zu Arbitrage/Surebets, Value-Erkennung und regelbasierten Strategien auf Wettbörsen – mit Backtests, Simulationen und klaren Decision-Frameworks (unter Berücksichtigung der nationalen Vorgaben). Fallbeispiele (Video-Library) Schritt-für-Schritt-Analysen realer/hypothetischer Cases: Annahmen, Risiko, Timing, Regelwerke, Hedging. Didaktische Tools/Rechner Arbitrage-/Surebet-Rechner, Value-Rechner, High-Variance-Szenario-Rechner, Matched-Betting-Rechner, Trading-Rechner, Hypothesen-Checker („Heiliger Gral“), System- und Kombinationsrechner mit Absicherungslogik. Themenblock Wettbörsen (Market Microstructure) Ordertypen, Gebühren, Latenzen, Hedging und Abrechnung – praxisnah aufbereitet für Deutschland und Österreich. Masterclasses Value-Scanner Masterclass – Workflow zur Identifikation von Preisabweichungen (Value). Kehrwert-Strategien Masterclass – Mathematische Herleitung, Parameterwahl, Praxisgrenzen (Limits, Void, Regeländerungen). Abo & Konditionen Flexibles Abo-Modell (monatlich/jährlich), kündbar zur gewählten Laufzeit. Checkout & Rechnungsabwicklung über Digistore24 . Teilnahme ab 18 Jahren . Affiliate-Programm (optional für Partner) Bis zu 25 % Lifetime-Provision (produktabhängig) mit Multi-/Cross-Device-Tracking . Vorlagen-Paket: Tracking-Links & QR-Codes (Affiliate-ID), E-Mail-, Web- & Social-Vorlagen, Landing-Snippets für DE/AT, kurze How-Tos zum Research-Wording. Hinweis: Es wird eine Bildungs-/Research-Plattform beworben – keine Aufforderung zum Abschluss von Wetten. Kaufabwicklung über Digistore24. Affiliate-Datenschutzhinweis Beim Klick auf einen Affiliate-Link erfolgt Tracking zur Zuordnung der Empfehlung. Für diese Verarbeitung ist der jeweilige Affiliate Verantwortlicher im Sinne der DSGVO. Der Kauf erfolgt über Digistore24 . Bestellhinweis (neues Bestellformular) Mit Klick auf „Jetzt bestellen“ werden personenbezogene Daten zur Kaufabwicklung an Digistore24 übertragen. Inhalte sind Bildung & Research zu Statistik/Arbitrage. Operative Umsetzung liegt bei dir und erfolgt nur im Rahmen der geltenden Gesetze. 18+. Wir sind kein Wettanbieter; es werden keine Einsätze über uns abgewickelt.
 
 ## 2. Links
 

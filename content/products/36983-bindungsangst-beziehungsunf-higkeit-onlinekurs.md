@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Empfehle meinen Onlinekurs (249€-499€) und nutze diese</strong><strong> Vorteile:<br /></strong></p>
-<p> </p>
-<ul>
-<li><strong>Hohe Provision</strong>: Erhalte 40 % Provision</li>
-<li><strong>Hohe Bekanntheit</strong>: Onlinekurs eines bekannten Beziehungspsychologen (ARD, ZDF, Focus, Stern …) </li>
-<li><strong>Laufende Optimierung</strong> der Verkaufs-Funnel + geringe Stornoquote</li>
-<li><strong>Hochconvertierende Werbemittel</strong>: Banner, E-Mail-Textvorlagen werden laufend optimiert ... (mehr auf meiner Affiliate-Supportseite --&gt;)</li>
-</ul>
-<p> </p>
-<p>Der optimierte Weg zum Sale mit dem <strong>Multi-Device-Tracking:</strong></p>
-<p> </p>
-<ul>
-<li><strong>Perfekter Sales-Weg</strong>: Leite deine User auf meinen kostenlosen Onlinetest ("<em>Habe ich Bindungsangst?</em>") oder das Webinar ("<em>3 Geheimnisse bei Bindungsängste</em>n"). Sie werden danach perfekt zum Onlinekurs geführt.</li>
-<li><strong>Keine Sales verlieren</strong>: Durch das Multi-Device-Tracking werden dir auch spätere Sales zugeordnet, auch wenn der User von einem anderen Gerät kauft!</li>
-<li><strong>Content statt Sales</strong>: Indem die User nicht auf eine Verkaufsseite geleitet werden, sondern kostenlosen Input über die Onlinetests und Webinare erhalten, schenkst du ihnen hochwertigen Content, bist kein "nerviger" Verkäufer, baust also Vertrauen auf und erhöhst damit die Salesquote signifikant!</li>
-</ul>
-<p> </p>
-<p>Melde dich jetzt als Affiliate an, schenke deinen Usern hochwertigen Content (Onlinetests &amp; Webinare) und generiere passives Einkommen.</p>
-<p> </p>
-<p>Auf eine gewinnbringende Zusammenarbeit!</p>
-<p style="text-align:left;"> </p>
-<p style="text-align:left;"><a href="https://www.wielandstolzenburg.de/partnerprogramm/" target="_blank" rel="noreferrer noopener"> &gt; ALLE INFOS ZUM PARTNERPROGRAMM </a></p>
-<p> </p>
-<p>Beste Grüße,<br />Wieland Stolzenburg</p>
-<p> </p>
-<p>PS: Brand-Bidding auf "Wieland Stolzenburg®" und Varianten ist nicht erlaubt!</p>
+**Vendor's marketplace description:** Empfehle meinen Onlinekurs (249€-499€) und nutze diese Vorteile: Hohe Provision : Erhalte 40 % Provision Hohe Bekanntheit : Onlinekurs eines bekannten Beziehungspsychologen (ARD, ZDF, Focus, Stern …) Laufende Optimierung der Verkaufs-Funnel + geringe Stornoquote Hochconvertierende Werbemittel : Banner, E-Mail-Textvorlagen werden laufend optimiert ... (mehr auf meiner Affiliate-Supportseite -->) Der optimierte Weg zum Sale mit dem Multi-Device-Tracking: Perfekter Sales-Weg : Leite deine User auf meinen kostenlosen Onlinetest (" Habe ich Bindungsangst? ") oder das Webinar (" 3 Geheimnisse bei Bindungsängste n"). Sie werden danach perfekt zum Onlinekurs geführt. Keine Sales verlieren : Durch das Multi-Device-Tracking werden dir auch spätere Sales zugeordnet, auch wenn der User von einem anderen Gerät kauft! Content statt Sales : Indem die User nicht auf eine Verkaufsseite geleitet werden, sondern kostenlosen Input über die Onlinetests und Webinare erhalten, schenkst du ihnen hochwertigen Content, bist kein "nerviger" Verkäufer, baust also Vertrauen auf und erhöhst damit die Salesquote signifikant! Melde dich jetzt als Affiliate an, schenke deinen Usern hochwertigen Content (Onlinetests & Webinare) und generiere passives Einkommen. Auf eine gewinnbringende Zusammenarbeit! > ALLE INFOS ZUM PARTNERPROGRAMM Beste Grüße, Wieland Stolzenburg PS: Brand-Bidding auf "Wieland Stolzenburg®" und Varianten ist nicht erlaubt!
 
 ## 2. Links
 

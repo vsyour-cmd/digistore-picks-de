@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><span style="font-size:18px;">Handbuch für Investoren</span></strong></p>
-<p><strong>Cleverer Vermögensaufbau mit Aktien</strong></p>
-<p><span style="background-color:#ff9900;"><strong>Du erhältst 5€ Provision für jedes verschenkte Buch!</strong></span></p>
-<ul>
-<li>überarbeitete und erweiterte Auflage</li>
-<li>über 130 Seiten | Sprache: Deutsch</li>
-<li>von Florian Günther</li>
-<li>Versand erfolgt durch die Deutsche Post</li>
-<li>Ideal auch als Geschenk!</li>
-</ul>
-<p><span style="background-color:#ffff00;">Addon: Du erhältst 50% Provision für die Hörbuch &amp; Ebook Version 14,99€</span></p>
-<p><span style="text-decoration:underline;">Zum Autor Florian Günther: </span><br />Florian ist einer der führenden Aktien Investoren im deutschsprachigen Raum. Er ist Nr. 1-Bestseller-Autor im Bereich „Banken“, Top-Branchen-Insider und seit über 15 Jahren an den internationalen Geld- und Kapitalmärkten tätig. </p>
-<p>In seinem Buch zeigt er an Hand von anschaulichen Beispielen, wie Geldanlage trotz unruhiger Zeiten und ungewisser Zukunft geht.</p>
-<p><strong>Melde dich als Affiliate an und starte mit dem Promoten von "Handbuch für Investoren" der clevere Vermögensaufbau mit Aktien</strong></p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Handbuch für Investoren Cleverer Vermögensaufbau mit Aktien Du erhältst 5€ Provision für jedes verschenkte Buch! überarbeitete und erweiterte Auflage über 130 Seiten | Sprache: Deutsch von Florian Günther Versand erfolgt durch die Deutsche Post Ideal auch als Geschenk! Addon: Du erhältst 50% Provision für die Hörbuch & Ebook Version 14,99€ Zum Autor Florian Günther: Florian ist einer der führenden Aktien Investoren im deutschsprachigen Raum. Er ist Nr. 1-Bestseller-Autor im Bereich „Banken“, Top-Branchen-Insider und seit über 15 Jahren an den internationalen Geld- und Kapitalmärkten tätig. In seinem Buch zeigt er an Hand von anschaulichen Beispielen, wie Geldanlage trotz unruhiger Zeiten und ungewisser Zukunft geht. Melde dich als Affiliate an und starte mit dem Promoten von "Handbuch für Investoren" der clevere Vermögensaufbau mit Aktien
 
 ## 2. Links
 

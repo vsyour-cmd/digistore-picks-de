@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Beach Body Feeling Konzept verändert das Körpergefühl jeder Frau! Folgendes ist darin enthalten:</p>
-<p> </p>
-<ul>
-<li>Full Body Workouts mit Fokus: Schlanke Beine, flacher Bauch &amp; straffe Arme</li>
-<li>Cardio Sessions für mehr Definition</li>
-<li>Yoga Stretching Flows für den Stoffwechselpush</li>
-<li>Faszientraining für straffe &amp; entspannte Muskeln</li>
-<li>Anleitung zur Geräusch-Meditation</li>
-<li>Nutrition Handout mit Tipps &amp; Infos für das langfristige Traumkörpergefühl</li>
-<li>Rezepte Ebook mit 40 Low Carb Rezepten vom Frühstück bis zum Abendessen, inkl. Dessert, Kuchen &amp; Brot</li>
-<li>Beauty Rituale mit Anti Aging &amp; Anti Cellulite Effekt</li>
-<li>Beauty Handout mit den wichtigsten Tipps &amp; Beauty Tools</li>
-<li>Lernvideos mit Infos zu Insulin, Hormone, Motivation, Kompensationsverhalten, Mindset etc.</li>
-</ul>
+**Vendor's marketplace description:** Das Beach Body Feeling Konzept verändert das Körpergefühl jeder Frau! Folgendes ist darin enthalten: Full Body Workouts mit Fokus: Schlanke Beine, flacher Bauch & straffe Arme Cardio Sessions für mehr Definition Yoga Stretching Flows für den Stoffwechselpush Faszientraining für straffe & entspannte Muskeln Anleitung zur Geräusch-Meditation Nutrition Handout mit Tipps & Infos für das langfristige Traumkörpergefühl Rezepte Ebook mit 40 Low Carb Rezepten vom Frühstück bis zum Abendessen, inkl. Dessert, Kuchen & Brot Beauty Rituale mit Anti Aging & Anti Cellulite Effekt Beauty Handout mit den wichtigsten Tipps & Beauty Tools Lernvideos mit Infos zu Insulin, Hormone, Motivation, Kompensationsverhalten, Mindset etc.
 
 ## 2. Links
 

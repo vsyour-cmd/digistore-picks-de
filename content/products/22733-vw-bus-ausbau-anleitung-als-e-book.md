@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In unserem E-Book "VW T5 Ausbau Anleitung" erfährst du, wie du einen VW Bus vom Transporter zum Campervan selbst ausbauen kannst. </p>
-<p> </p>
-<p><strong>Im Download-Paket ist folgendes enthalten:</strong></p>
-<ul><li>Das 244 Seiten lange E-Book in drei Versionen als PDF, Mobi und E-Pub</li>
-<li>Die VW Bus Camping Checkliste als PDF</li>
-<li>Eine Vorlage für die Kosten Kalkulation als PDF</li>
-<li>Die Werkzeugliste als PDF</li>
-</ul><p> </p>
-<p><strong>Diese Themen werden im E-Book behandelt:</strong></p>
-<ul><li>Schritt für Schritt "Do it yourself" Anleitung</li>
-<li>Ausbauvarianten für verschiedene Anforderungen mit und ohne Module</li>
-<li>Inspirationsquelle und Ideengeber für Bus Selbstausbauer</li>
-<li>Checklisten, Hackz, Tipps und Tricks sowie jede Menge Ideen</li>
-<li>Notwendige Werkzeuge und Hilfe bei der Budgetkalkulation</li>
-<li>Gutschein im Wert von € 20,- vom Ausbauunternehmen Bus4fun.de (Mindestbestellwert € 150,-)</li>
-</ul><p> </p>
-<p><strong>Über die Autoren:</strong></p>
-<p>Melanie und Juergen Schlotze haben zwei VW T5 Busse komplett in Eigenregie und ohne eigene Werkstatt ausgebaut und den kompletten Umbau des zweiten Busses in diesem E-Book dokumentiert. Ihr Blog <a href="http://www.lifetravellerz.com">www.lifetravellerz.com</a> verzeichnet 500.000 page views im Jahr und ist ein Anlaufpunkt für VW Bus Ausbauer im deutschsprachigen Raum. </p>
+**Vendor's marketplace description:** In unserem E-Book "VW T5 Ausbau Anleitung" erfährst du, wie du einen VW Bus vom Transporter zum Campervan selbst ausbauen kannst. Im Download-Paket ist folgendes enthalten: Das 244 Seiten lange E-Book in drei Versionen als PDF, Mobi und E-Pub Die VW Bus Camping Checkliste als PDF Eine Vorlage für die Kosten Kalkulation als PDF Die Werkzeugliste als PDF Diese Themen werden im E-Book behandelt: Schritt für Schritt "Do it yourself" Anleitung Ausbauvarianten für verschiedene Anforderungen mit und ohne Module Inspirationsquelle und Ideengeber für Bus Selbstausbauer Checklisten, Hackz, Tipps und Tricks sowie jede Menge Ideen Notwendige Werkzeuge und Hilfe bei der Budgetkalkulation Gutschein im Wert von € 20,- vom Ausbauunternehmen Bus4fun.de (Mindestbestellwert € 150,-) Über die Autoren: Melanie und Juergen Schlotze haben zwei VW T5 Busse komplett in Eigenregie und ohne eigene Werkstatt ausgebaut und den kompletten Umbau des zweiten Busses in diesem E-Book dokumentiert. Ihr Blog www.lifetravellerz.com verzeichnet 500.000 page views im Jahr und ist ein Anlaufpunkt für VW Bus Ausbauer im deutschsprachigen Raum.
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Essbare Wildpflanzen – 200 Arten bestimmen und verwenden</strong></h3>
-<p>Entdecke die grüne Kraft der Natur! Dieses E-Book zeigt dir, wie du 200 heimische Wildpflanzen sicher bestimmst, giftige Doppelgänger vermeidest und sie direkt in der Küche oder als Hausmittel nutzt.</p>
-<p> <strong>• Preis:</strong> 17,99 €</p>
-<p><strong> • Provision:</strong> 60 %</p>
-<p>Starte jetzt dein grünes Abenteuer und mach die Natur zu deinem Garten!</p>
+**Vendor's marketplace description:** Essbare Wildpflanzen – 200 Arten bestimmen und verwenden Entdecke die grüne Kraft der Natur! Dieses E-Book zeigt dir, wie du 200 heimische Wildpflanzen sicher bestimmst, giftige Doppelgänger vermeidest und sie direkt in der Küche oder als Hausmittel nutzt. • Preis: 17,99 € • Provision: 60 % Starte jetzt dein grünes Abenteuer und mach die Natur zu deinem Garten!
 
 ## 2. Links
 

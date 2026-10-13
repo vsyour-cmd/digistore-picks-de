@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Introvertierte Stärken in Kombination mit extravertierten Fähigkeiten bedeutet Erfolg - egal ob privat oder beruflich.</p>
-<p>Ist dir auch schon aufgefallen, daß spontane und kommunikativ starke Menschen durch ihr lauteres Auftreten oft als stärker und kompetenter eingeschätzt werden?</p>
-<p>Durch INTREX sind Introvertierte in der Lage, diesen Effekt für sich seriös und glaubhaft zu verstärken.</p>
-<p>Durch die INTREX-Strategie erlangen introvertierte Menschen extravertierte Fähigkeiten, wie (Selbst-) Wirksamkeit, Kommunikationsstärke und Durchsetzungsvermögen.</p>
-<p>Die in der Praxis über viele Jahre von mir entwickelte Strategie führt bei aktiver Nutzung zu mehr Sichtbarkeit, Wertschätzung und Anerkennung.</p>
-<p>Techniken aus der Typbestimmung und Verhaltensforschung führen zu Selbsterkenntnis und der Fähigkeit, andere besser einschätzen zu können.</p>
-<p>Ziel ist es, introvertierte Menschen mit ihren vorhandenen Stärken, wie z.B. Empathie, Achtsamkeit und Beobachtungsgabe, mit extravertierten Fähikeiten wie Kommunikationsstärke, sicheres Auftreten und Durchsetzungskraft auszustatten.</p>
-<p>Diese Kombination versetzt sie in die Lage, lautere, eher oberlächliche Menschen förmlich in den Schatten zu stellen.</p>
-<p>Sie werden deutlich mehr wahrgenommen und stahlen durch die ruhige Art, verbunden mit der neu entwickelten Dynamik eine starke Persönlichkeit aus.</p>
-<p>Dadurch wirken sie vertrauenswürdig und kompetent. </p>
-<p>Basierend auf meinen eigenen Erfahrung als Introvertierter in Verbindung mit meinem beruflichen Weg als Berater, Verkäufer und Trainer in Handel und Vertrieb habe ich die INTREX-Strategie entwickelt.</p>
-<p>Sie umfaßt Wissen aus selbst erlebter Theorie und Praxis. Damit unterscheidet sich das INTREX-Coaching deutlich von evtl. Mitbewerbern ohne persönlicher Erfahrung.</p>
-<p>Emotionale Intelligenz ist der rote Faden für ein Programm, von dem die Anwender ein Leben lang profitieren. Es stärkt die eigene Persönlichkeit und wirkt durch strategische Elemente sehr positiv auf die berufliche Entwicklung.</p>
-<p>In einem Zeitraum von 8 Wochen werden die wichtigsten Bereiche aus Typ- und Verhaltenslehre vermittelt.</p>
-<p>Mit Hilfe von einzelnen Videosegmenten, verbunden mit schriftlichen und praktischen Übungen wird in einem 1 zu 1- Coaching auf die individuelle Situation eingegangen.</p>
-<p>Eigene, ganz persönliche Herausforderungen werden in persönlichen Online-Gesprächen erörtert. Lösungen werden gemeinsam entwickelt, sodaß am Ende eine individuell auf die Teilnehmer abgestimmte Erfolgsstrategie entsteht.</p>
-<p>Persönlich und beruflich anzuwendende Marketingstrategien werden ebenfalls besprochen, damit die Wirkung mit der Umsetzung des gelernten möglichst groß und dauerhaft ist.</p>
-<p>Zur Sicherung der Umsetzung dient ein Abschließendes ZOOM-Gespräch, das als Bonus 2 bis 3 Monate nach Abschluß des offiziellen Coaching statt findet.</p>
-<p>Hier werden nochmals Fragen beantwortet und Strategien zur dauerhaften Umsetzung von INTREX besprochen.</p>
-<p>Video-Info über <a href="https://vimeo.com/1165700986?fl=pl&amp;fe=sh" target="_blank" rel="noreferrer noopener">Intrex</a></p>
-<p><a href="https://drive.google.com/file/d/16MsqnRQlXO7OjlgQhtmuzNumzfVS5bMP/view?usp=sharing" target="_blank" rel="noreferrer noopener">Schriftliche Info über das Coachng</a></p>
-<p>Empathische Grüße,</p>
-<p>Andreas Kott</p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Introvertierte Stärken in Kombination mit extravertierten Fähigkeiten bedeutet Erfolg - egal ob privat oder beruflich. Ist dir auch schon aufgefallen, daß spontane und kommunikativ starke Menschen durch ihr lauteres Auftreten oft als stärker und kompetenter eingeschätzt werden? Durch INTREX sind Introvertierte in der Lage, diesen Effekt für sich seriös und glaubhaft zu verstärken. Durch die INTREX-Strategie erlangen introvertierte Menschen extravertierte Fähigkeiten, wie (Selbst-) Wirksamkeit, Kommunikationsstärke und Durchsetzungsvermögen. Die in der Praxis über viele Jahre von mir entwickelte Strategie führt bei aktiver Nutzung zu mehr Sichtbarkeit, Wertschätzung und Anerkennung. Techniken aus der Typbestimmung und Verhaltensforschung führen zu Selbsterkenntnis und der Fähigkeit, andere besser einschätzen zu können. Ziel ist es, introvertierte Menschen mit ihren vorhandenen Stärken, wie z.B. Empathie, Achtsamkeit und Beobachtungsgabe, mit extravertierten Fähikeiten wie Kommunikationsstärke, sicheres Auftreten und Durchsetzungskraft auszustatten. Diese Kombination versetzt sie in die Lage, lautere, eher oberlächliche Menschen förmlich in den Schatten zu stellen. Sie werden deutlich mehr wahrgenommen und stahlen durch die ruhige Art, verbunden mit der neu entwickelten Dynamik eine starke Persönlichkeit aus. Dadurch wirken sie vertrauenswürdig und kompetent. Basierend auf meinen eigenen Erfahrung als Introvertierter in Verbindung mit meinem beruflichen Weg als Berater, Verkäufer und Trainer in Handel und Vertrieb habe ich die INTREX-Strategie entwickelt. Sie umfaßt Wissen aus selbst erlebter Theorie und Praxis. Damit unterscheidet sich das INTREX-Coaching deutlich von evtl. Mitbewerbern ohne persönlicher Erfahrung. Emotionale Intelligenz ist der rote Faden für ein Programm, von dem die Anwender ein Leben lang profitieren. Es stärkt die eigene Persönlichkeit und wirkt durch strategische Elemente sehr positiv auf die berufliche Entwicklung. In einem Zeitraum von 8 Wochen werden die wichtigsten Bereiche aus Typ- und Verhaltenslehre vermittelt. Mit Hilfe von einzelnen Videosegmenten, verbunden mit schriftlichen und praktischen Übungen wird in einem 1 zu 1- Coaching auf die individuelle Situation eingegangen. Eigene, ganz persönliche Herausforderungen werden in persönlichen Online-Gesprächen erörtert. Lösungen werden gemeinsam entwickelt, sodaß am Ende eine individuell auf die Teilnehmer abgestimmte Erfolgsstrategie entsteht. Persönlich und beruflich anzuwendende Marketingstrategien werden ebenfalls besprochen, damit die Wirkung mit der Umsetzung des gelernten möglichst groß und dauerhaft ist. Zur Sicherung der Umsetzung dient ein Abschließendes ZOOM-Gespräch, das als Bonus 2 bis 3 Monate nach Abschluß des offiziellen Coaching statt findet. Hier werden nochmals Fragen beantwortet und Strategien zur dauerhaften Umsetzung von INTREX besprochen. Video-Info über Intrex Schriftliche Info über das Coachng Empathische Grüße, Andreas Kott
 
 ## 2. Links
 

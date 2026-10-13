@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewerben Sie jetzt das Lotto Trickbuch und verdienen Sie <strong><span style="background-color:#ffff00;">60% Provision</span></strong> pro Verkauf!</p>
-<p><strong><em>Vorteil von unserem Partnerprogramm:</em></strong></p>
-<p><em>-Marktführender im Bereich Lotto auf Digistore </em></p>
-<p><em>-Hohe Zufriedenheit durch Kunden</em></p>
-<p><em>-60% Provision</em></p>
-<p><em>-Hochkonvertierende Werbemittel</em></p>
+**Vendor's marketplace description:** Bewerben Sie jetzt das Lotto Trickbuch und verdienen Sie 60% Provision pro Verkauf! Vorteil von unserem Partnerprogramm: -Marktführender im Bereich Lotto auf Digistore -Hohe Zufriedenheit durch Kunden -60% Provision -Hochkonvertierende Werbemittel
 
 ## 2. Links
 

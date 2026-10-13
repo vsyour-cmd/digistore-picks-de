@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Tennisfilme von 1x1SPORT</p>
+**Vendor's marketplace description:** Tennisfilme von 1x1SPORT
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Eine schriftliche Form des Rufgesprächs – für stille Seelen</p>
-<p>Manche Fragen tragen ein Flüstern in sich.<br />Kein lauter Ruf. Kein erklärtes Ziel.<br />Nur ein inneres Drängen, das sagt:</p>
-<p>„Ich muss es fragen. Und ich hoffe, dass jemand antwortet.“</p>
-<p><strong>Der Brief an das Licht</strong> ist eine Einladung an genau dieses Flüstern.<br />Du schreibst uns – eine Frage, ein Thema, ein innerer Knoten.<br />Nicht für eine Beratung. Nicht für einen Ratschlag.<br />Sondern als Ruf aus deinem Innersten.</p>
-<p>Bei Fragen bitte Kontakt zu Matthias aufnehmen.</p>
-<p>Schnelle und persönliche Unterstützung auf Deutsch durch Ihren Affiliate-Manager auf unserer Support Seite: <a>http://lana.li/affiliate</a>.</p>
-<p>Wir freuen uns auf eine erfolgreiche Partnerschaft!</p>
+**Vendor's marketplace description:** Eine schriftliche Form des Rufgesprächs – für stille Seelen Manche Fragen tragen ein Flüstern in sich. Kein lauter Ruf. Kein erklärtes Ziel. Nur ein inneres Drängen, das sagt: „Ich muss es fragen. Und ich hoffe, dass jemand antwortet.“ Der Brief an das Licht ist eine Einladung an genau dieses Flüstern. Du schreibst uns – eine Frage, ein Thema, ein innerer Knoten. Nicht für eine Beratung. Nicht für einen Ratschlag. Sondern als Ruf aus deinem Innersten. Bei Fragen bitte Kontakt zu Matthias aufnehmen. Schnelle und persönliche Unterstützung auf Deutsch durch Ihren Affiliate-Manager auf unserer Support Seite: http://lana.li/affiliate . Wir freuen uns auf eine erfolgreiche Partnerschaft!
 
 ## 2. Links
 

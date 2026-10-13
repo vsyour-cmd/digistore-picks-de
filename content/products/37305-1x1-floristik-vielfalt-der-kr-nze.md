@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In diesem Videopaket lernst du 6 völlig verschiedene, wichtige Techniken der Kranzgestaltung kennen.</p>
-<p>Neben dem „Wickeln“ wird auch die Technik des Windens mit biegsamen Zweigen gezeigt. Ebenso das Stecken mit frischen Blumen, sowie einer bezaubernden Methode des Schlingens und Knotens.</p>
-<p>Folgende 6 Kranz-Techniken wirst du in diesem Onlinekurs erlernen:</p>
-<ul>
-<li>Kranz gesteckt in Steckmasse</li>
-<li>Blüten im Weidenring</li>
-<li>Kränzchen – Luftig gebunden</li>
-<li>Gewickeltes Kränzchen</li>
-<li>Gepflanzter Kranz</li>
-<li>Kranz aus Wasserhyazinthe</li>
-</ul>
+**Vendor's marketplace description:** In diesem Videopaket lernst du 6 völlig verschiedene, wichtige Techniken der Kranzgestaltung kennen. Neben dem „Wickeln“ wird auch die Technik des Windens mit biegsamen Zweigen gezeigt. Ebenso das Stecken mit frischen Blumen, sowie einer bezaubernden Methode des Schlingens und Knotens. Folgende 6 Kranz-Techniken wirst du in diesem Onlinekurs erlernen: Kranz gesteckt in Steckmasse Blüten im Weidenring Kränzchen – Luftig gebunden Gewickeltes Kränzchen Gepflanzter Kranz Kranz aus Wasserhyazinthe
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dieses Produkt richtet sich an Menschen, die ständig „im Kopf“ sind und nicht abschalten können.</p>
-<p>Geführte Fantasiereisen bringen den Nutzer innerhalb von 20 Minuten zurück in einen ruhigen, klaren Zustand – ohne Meditationstechniken oder Vorkenntnisse.</p>
-<p>Ideal für:</p>
-<ul>
-<li>Stress im Alltag</li>
-<li>Einschlafprobleme</li>
-<li>innere Unruhe</li>
-<li>mentale Überlastung</li>
-</ul>
-<p>Besonderheit:<br />Funktioniert auch für Menschen, die sagen: „Meditation klappt bei mir nicht.“</p>
-<p>
+**Vendor's marketplace description:** Dieses Produkt richtet sich an Menschen, die ständig „im Kopf“ sind und nicht abschalten können. Geführte Fantasiereisen bringen den Nutzer innerhalb von 20 Minuten zurück in einen ruhigen, klaren Zustand – ohne Meditationstechniken oder Vorkenntnisse. Ideal für: Stress im Alltag Einschlafprobleme innere Unruhe mentale Überlastung Besonderheit: Funktioniert auch für Menschen, die sagen: „Meditation klappt bei mir nicht.“
 
 ## 2. Links
 

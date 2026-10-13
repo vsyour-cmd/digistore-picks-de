@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In diesem Seminar zeige ich dir, wie du die Dynamik deiner Hundegruppe verstehst und lernst sie erfolgreich zu managen.</p>
+**Vendor's marketplace description:** In diesem Seminar zeige ich dir, wie du die Dynamik deiner Hundegruppe verstehst und lernst sie erfolgreich zu managen.
 
 ## 2. Links
 

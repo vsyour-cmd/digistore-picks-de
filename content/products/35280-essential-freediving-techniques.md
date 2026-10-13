@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><span style="background-color:#3366ff;color:#ffffff;">7 essentielle Techniken beim Apnoetauchen</span></h1>
-<p>Dieses eBook, dass über 70% meiner Kunden beim Kauf des Apnoetauchen eBooks als Initialkauf annehmen sind absolut begeistert, was sich in der niedrigen Stornorate wiederspiegelt.</p>
-<p>Profitiere also von der geringen Eintrittsschwelle in meinen Salesfunnel und baue dir mit regelmäßigen Provisionen ein passives Einkommen auf.</p>
-<p>In diesem eBook lernen meine Kunden 7 wichtige Techniken zum Entspannen und wie Sie den unangenehmen Atemreiz beinahe vergessen, um noch länger unter Wasser verweilen zu können. Eine passende Ergänzung zum Apnoetauchen eBook!</p>
+**Vendor's marketplace description:** 7 essentielle Techniken beim Apnoetauchen Dieses eBook, dass über 70% meiner Kunden beim Kauf des Apnoetauchen eBooks als Initialkauf annehmen sind absolut begeistert, was sich in der niedrigen Stornorate wiederspiegelt. Profitiere also von der geringen Eintrittsschwelle in meinen Salesfunnel und baue dir mit regelmäßigen Provisionen ein passives Einkommen auf. In diesem eBook lernen meine Kunden 7 wichtige Techniken zum Entspannen und wie Sie den unangenehmen Atemreiz beinahe vergessen, um noch länger unter Wasser verweilen zu können. Eine passende Ergänzung zum Apnoetauchen eBook!
 
 ## 2. Links
 

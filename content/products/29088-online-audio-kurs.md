@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Online Audio Kurs</p>
-<p>führt zu:</p>
-<ul><li>Entspannung</li>
-<li>Neue Gedanken</li>
-<li>Bessere Stressbewältigung</li>
-<li>Abnehmen</li>
-</ul><p>Mit einer Bibiliothek aus ca 70 geführten Meditationen.</p>
+**Vendor's marketplace description:** Online Audio Kurs führt zu: Entspannung Neue Gedanken Bessere Stressbewältigung Abnehmen Mit einer Bibiliothek aus ca 70 geführten Meditationen.
 
 ## 2. Links
 

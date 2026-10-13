@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>POD Prompt Studio Normal 50 richtet sich an Einsteiger und Kreative, die eigene Motive für Print-on-Demand entwickeln möchten.</p>
-<p>Das Abo umfasst 50 Bildgenerierungen je persönlichem Abrechnungszeitraum von vier Wochen. Das Studio verbindet Motiv-Prompts, jeweils zehn passende Tags und KI-Bildgenerierung. Kunden erhalten transparente PNG-Dateien mit 1024 × 1536 Pixeln zur eigenen Weiterbearbeitung und Vorbereitung für ihre Zielplattform.</p>
-<p>Für Affiliates eignet sich das Angebot zur Ansprache von Menschen, die erste Motivideen umsetzen und die weitere Gestaltung selbst übernehmen möchten.</p>
+**Vendor's marketplace description:** POD Prompt Studio Normal 50 richtet sich an Einsteiger und Kreative, die eigene Motive für Print-on-Demand entwickeln möchten. Das Abo umfasst 50 Bildgenerierungen je persönlichem Abrechnungszeitraum von vier Wochen. Das Studio verbindet Motiv-Prompts, jeweils zehn passende Tags und KI-Bildgenerierung. Kunden erhalten transparente PNG-Dateien mit 1024 × 1536 Pixeln zur eigenen Weiterbearbeitung und Vorbereitung für ihre Zielplattform. Für Affiliates eignet sich das Angebot zur Ansprache von Menschen, die erste Motivideen umsetzen und die weitere Gestaltung selbst übernehmen möchten.
 
 ## 2. Links
 

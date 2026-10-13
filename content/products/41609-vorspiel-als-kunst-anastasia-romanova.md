@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Bewerbe den ersten wirklich seriösen Online-Kurs der Männer beibringt ein aufregender Liebhaber zu sein</h1>
-<p>Hier wird Männern beigebraucht selbstbewusst mi ihrem Körper umzugehen und wie man Frauen zum Höhepunkt bringt.</p>
-<p>Mit einer Provision von 35% auf Erst- sowie auf Folgeprodukte ist es besonders attraktiv unsere Angebote zu bewerben. Weitere Kurs-Angebote werden in kürze folgen.</p>
-<p>Gemeinsam mit Intimfitness Expertin Anastasia Romanova entwickeln wir Angebote für die Themen intime Gesundheit und Erotik und haben für den deutschsprachigen Raum die Vision das Thema in eine positive Richtung zu mobilisieren.</p>
+**Vendor's marketplace description:** Bewerbe den ersten wirklich seriösen Online-Kurs der Männer beibringt ein aufregender Liebhaber zu sein Hier wird Männern beigebraucht selbstbewusst mi ihrem Körper umzugehen und wie man Frauen zum Höhepunkt bringt. Mit einer Provision von 35% auf Erst- sowie auf Folgeprodukte ist es besonders attraktiv unsere Angebote zu bewerben. Weitere Kurs-Angebote werden in kürze folgen. Gemeinsam mit Intimfitness Expertin Anastasia Romanova entwickeln wir Angebote für die Themen intime Gesundheit und Erotik und haben für den deutschsprachigen Raum die Vision das Thema in eine positive Richtung zu mobilisieren.
 
 ## 2. Links
 

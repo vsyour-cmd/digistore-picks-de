@@ -41,51 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<p><strong>Der THERAPEUTIC TOUCH </strong>Online-Einstiegerkurs<br /><strong>Die Kunst der heilsamen Berührung</strong></p>
-<p><strong>THERAPEUTIC TOUCH (TT) ist eine ganzheitliche Pflegeintervention und komplementäre Behandlungsmethode.</strong> <br />Vor mehr als 40 Jahren wurde die standardisierte Methode an der New Yorker Universität 1972 von der Professorin für Krankenpflege Prof. Dr. Dolores Krieger gemeinsam mit Dora Kunz für den Einsatz in der modernen Krankenpflege auf der Basis alter Heiltraditionen entwickelt.<br /><br />THERAPEUTIC TOUCH sieht den Menschen im Sinne des Pflegemodells der Pflegewissenschaftlerin Prof. Martha Rogers als offenes bioelektronisches Energiesystem, das sich im ständigen Austausch mit der Umgebung befindet.</p>
-<div>Das Ziel von THERAPEUTIC TOUCH</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<p>Das Ziel der Behandlungsmethode ist es, das Energiefeld des Menschen mittels der Hände zu harmonisieren und dadurch indirekt die Selbstheilungskräfte des Menschen anzuregen.</p>
-<div><strong>Die klinische Praxis zeigt, dass THERAPEUTIC TOUCH eine erfolgreiche energetische Unterstützungsmaßnahme ist</strong></div>
-</div>
-<div>
-<div>
-<ul>
-<li>
-<p>bei chronischen Erkrankungen</p>
-</li>
-<li>
-<p>bei onkologischen Erkrankungen im Bereich der Entspannung</p>
-</li>
-<li>
-<p>bei prä- und postoperativen Phasen</p>
-</li>
-<li>
-<p>in der Schwangerschaft</p>
-</li>
-<li>
-<p>in der Palliativpflege und Sterbebegleitung</p>
-</li>
-<li>
-<p>bei Maßnahmen zur Gesundheitsförderung und Prävention</p>
-</li>
-</ul>
-</div>
-</div>
-<div>
-<div>
-<p><strong>Die THERAPEUTIC TOUCH Methode ist durch mehr als 600 Pilot- und Fallstudien in ihrer Wirksamkeit belegt.</strong> In den USA und in Europa wird THERAPEUTIC TOUCH in Klinken und in freien Praxen erfolgreich angewandt. </p>
-</div>
-</div>
-</div>
-<p><strong>Als Affiliate erhältst Du 25% Provision für jeden Verkauf. </strong> </p>
+**Vendor's marketplace description:** Der THERAPEUTIC TOUCH Online-Einstiegerkurs Die Kunst der heilsamen Berührung THERAPEUTIC TOUCH (TT) ist eine ganzheitliche Pflegeintervention und komplementäre Behandlungsmethode. Vor mehr als 40 Jahren wurde die standardisierte Methode an der New Yorker Universität 1972 von der Professorin für Krankenpflege Prof. Dr. Dolores Krieger gemeinsam mit Dora Kunz für den Einsatz in der modernen Krankenpflege auf der Basis alter Heiltraditionen entwickelt. THERAPEUTIC TOUCH sieht den Menschen im Sinne des Pflegemodells der Pflegewissenschaftlerin Prof. Martha Rogers als offenes bioelektronisches Energiesystem, das sich im ständigen Austausch mit der Umgebung befindet. Das Ziel von THERAPEUTIC TOUCH Das Ziel der Behandlungsmethode ist es, das Energiefeld des Menschen mittels der Hände zu harmonisieren und dadurch indirekt die Selbstheilungskräfte des Menschen anzuregen. Die klinische Praxis zeigt, dass THERAPEUTIC TOUCH eine erfolgreiche energetische Unterstützungsmaßnahme ist bei chronischen Erkrankungen bei onkologischen Erkrankungen im Bereich der Entspannung bei prä- und postoperativen Phasen in der Schwangerschaft in der Palliativpflege und Sterbebegleitung bei Maßnahmen zur Gesundheitsförderung und Prävention Die THERAPEUTIC TOUCH Methode ist durch mehr als 600 Pilot- und Fallstudien in ihrer Wirksamkeit belegt. In den USA und in Europa wird THERAPEUTIC TOUCH in Klinken und in freien Praxen erfolgreich angewandt. Als Affiliate erhältst Du 25% Provision für jeden Verkauf.
 
 ## 2. Links
 

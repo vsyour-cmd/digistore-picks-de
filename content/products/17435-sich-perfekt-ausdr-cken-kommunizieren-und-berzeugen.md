@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Willst du die Geheimnisse der Kommunikation lernen und Folgendes?</strong></h2>
-<ul><li>Du lernst Lampenfieber und Angst zu beseitigen.</li>
-<li>Lerne, wie du dich in jedem Gespräch sicher und wohl fühlst.</li>
-<li>Wie du immer die passenden Worte findest, besonders, wenn du dich gerade nicht so auskennst und trotzdem gut dastehen willst.</li>
-<li>Entdecke Methoden, mit denen du besonders intelligent und spontan auf verbale Angriffe reagierst und deinen Angreifer mundtot machst. Wenn du willst, kannst du damit jedes Streitgespräch für dich gewinnen und dabei kannst du sogar die Sympathie auf deiner Seite halten.</li>
-<li>Lerne, wie du Gedächtnislücken und den Mangel an Inspiration vermeidest.</li>
-<li>Du wirst immer die richtige Antwort oder Reaktion finden, eine die richtig reinhaut.</li>
-<li>Mit dieser Kommunikationsmethode wirst du deine Ziele schnell erreichen, auch wenn die meisten gegen dich sind.</li>
-<li>Wie du in deinem Freundes- und Familienkreis mit Streitgesprächen umgehen solltest.</li>
-<li>Du wirst die Emotionen bewusst ansprechen oder provozieren können.</li>
-<li>Du wirst die “Goldenen Worte” kennen, die die Leute gerne hören, und auch die Worte die du lieber vermeiden solltest.</li>
-<li>Wie du richtig und gewinnbringend debattierst und brillante Konversationen hältst.</li>
-<li>Du wirst in der Lage sein spontan und improvisiert die Parole zu übernehmen.</li>
-<li>Mit diesen Tricks wirst du unter allen Umständen den Respekt an dich ziehen.</li>
-</ul>
+**Vendor's marketplace description:** Willst du die Geheimnisse der Kommunikation lernen und Folgendes? Du lernst Lampenfieber und Angst zu beseitigen. Lerne, wie du dich in jedem Gespräch sicher und wohl fühlst. Wie du immer die passenden Worte findest, besonders, wenn du dich gerade nicht so auskennst und trotzdem gut dastehen willst. Entdecke Methoden, mit denen du besonders intelligent und spontan auf verbale Angriffe reagierst und deinen Angreifer mundtot machst. Wenn du willst, kannst du damit jedes Streitgespräch für dich gewinnen und dabei kannst du sogar die Sympathie auf deiner Seite halten. Lerne, wie du Gedächtnislücken und den Mangel an Inspiration vermeidest. Du wirst immer die richtige Antwort oder Reaktion finden, eine die richtig reinhaut. Mit dieser Kommunikationsmethode wirst du deine Ziele schnell erreichen, auch wenn die meisten gegen dich sind. Wie du in deinem Freundes- und Familienkreis mit Streitgesprächen umgehen solltest. Du wirst die Emotionen bewusst ansprechen oder provozieren können. Du wirst die “Goldenen Worte” kennen, die die Leute gerne hören, und auch die Worte die du lieber vermeiden solltest. Wie du richtig und gewinnbringend debattierst und brillante Konversationen hältst. Du wirst in der Lage sein spontan und improvisiert die Parole zu übernehmen. Mit diesen Tricks wirst du unter allen Umständen den Respekt an dich ziehen.
 
 ## 2. Links
 

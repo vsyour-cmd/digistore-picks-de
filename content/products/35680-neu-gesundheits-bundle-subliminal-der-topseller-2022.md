@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Empfehle unsere Audio-Paket für Silent Subliminals weiter und verdiene mit an über 20 Upsells/Cross-Sells!</strong></h2>
-<h4><strong><br /><span style="background-color:#ffcc00;">Beteilige dich an unserer Mission gegen den zur transformation des Bewusstseins sowie kollektiven Stress der Menschen und verdiene einfaches Geld.</span><br /><br /></strong></h4>
-<p><strong>Deine Vorteile:</strong></p>
-<p><strong>--&gt;</strong> Hohe Provision von bis zu 50%  </p>
-<p><strong>--&gt;</strong> Garantiert etwas für deine Kunden dabei: In über 15 Lebensbereichen und Nischen aktiv (z.B Gesundheit, Wohlstand, Liebe &amp; Beziehungen, Bewusstsein, Freude, Abnhemen, Persönlichkeitsentwicklung etc.)</p>
-<p><strong>--&gt;</strong> Getestet und optimiert: Bereits über 1.000 verkaufte Produkte seit Anfang Juni 2020</p>
-<p><strong>--&gt;</strong> Magisch hohe Conversions und grandioser Kundenwert: Profitiere mit an unseren hochoptimierten Verkaufsfunneln<br /><br /></p>
-<p>--&gt; Unglaublich geringe Stornoquote</p>
-<p><span style="background-color:#ffcc00;">Super zufriedene Kunden, die tolle Ergebnisse mit dem <strong>Körperliche Gesundheit -Paket </strong>machen und schnell Erfolge erzielen</span></p>
-<p>Du erhältst Provisionen für jeden weiteren Verkauf!</p>
-<p>Nach dem Verkauf über dich wird der Kunde systematisch durch zahlreiche Upsell- und Cross-Sell-Kampagnen geführt.</p>
-<p>Melde dich jetzt als Affiliate an und wirst für alle Produkte freigeschaltet! Baue dir ein passives Einkommen auf.</p>
-<p><em><strong>Auf eine erfolgreiche Aktion!</strong></em></p>
-<p>Beste Grüße,<br />Dein Team von EARNETIC</p>
-<h2><strong> </strong></h2>
+**Vendor's marketplace description:** Empfehle unsere Audio-Paket für Silent Subliminals weiter und verdiene mit an über 20 Upsells/Cross-Sells! Beteilige dich an unserer Mission gegen den zur transformation des Bewusstseins sowie kollektiven Stress der Menschen und verdiene einfaches Geld. Deine Vorteile: --> Hohe Provision von bis zu 50% --> Garantiert etwas für deine Kunden dabei: In über 15 Lebensbereichen und Nischen aktiv (z.B Gesundheit, Wohlstand, Liebe & Beziehungen, Bewusstsein, Freude, Abnhemen, Persönlichkeitsentwicklung etc.) --> Getestet und optimiert: Bereits über 1.000 verkaufte Produkte seit Anfang Juni 2020 --> Magisch hohe Conversions und grandioser Kundenwert: Profitiere mit an unseren hochoptimierten Verkaufsfunneln --> Unglaublich geringe Stornoquote Super zufriedene Kunden, die tolle Ergebnisse mit dem Körperliche Gesundheit -Paket machen und schnell Erfolge erzielen Du erhältst Provisionen für jeden weiteren Verkauf! Nach dem Verkauf über dich wird der Kunde systematisch durch zahlreiche Upsell- und Cross-Sell-Kampagnen geführt. Melde dich jetzt als Affiliate an und wirst für alle Produkte freigeschaltet! Baue dir ein passives Einkommen auf. Auf eine erfolgreiche Aktion! Beste Grüße, Dein Team von EARNETIC
 
 ## 2. Links
 

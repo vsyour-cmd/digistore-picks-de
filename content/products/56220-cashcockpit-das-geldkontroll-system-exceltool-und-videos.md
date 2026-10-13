@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bewirb jetzt <strong>CashCockpit - Das GeldKontroll-System</strong> als Affiliate und profitiere von einem qualitativ hochwertigen Angebot und hohen Conversion Rates!</p>
-<p><strong>Deine Vorteile:</strong><br /> </p>
-<ul>
-<li>50% Provision für jeden einzelnen Verkauf (gilt für jedes verkaufte Produkt)</li>
-<li>Verkaufsraten von durchschnittlich 8% durch hoch konvertierende Seiten</li>
-<li>Alle Marketing-Materialien bereits fix und fertig vorbereitet – erstellt mit wenigen Klicks</li>
-<li>Vielfach getestetes und optimiertes Marketing</li>
-</ul>
-<p>Melde dich jetzt zum Partnerprogramm an und generiere sofort die ersten Provisionen mit einem für den Markt hoch relevanten und verkaufsstarken Angebot!</p>
+**Vendor's marketplace description:** Bewirb jetzt CashCockpit - Das GeldKontroll-System als Affiliate und profitiere von einem qualitativ hochwertigen Angebot und hohen Conversion Rates! Deine Vorteile: 50% Provision für jeden einzelnen Verkauf (gilt für jedes verkaufte Produkt) Verkaufsraten von durchschnittlich 8% durch hoch konvertierende Seiten Alle Marketing-Materialien bereits fix und fertig vorbereitet – erstellt mit wenigen Klicks Vielfach getestetes und optimiertes Marketing Melde dich jetzt zum Partnerprogramm an und generiere sofort die ersten Provisionen mit einem für den Markt hoch relevanten und verkaufsstarken Angebot!
 
 ## 2. Links
 

@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Das Download-Paket mit dem vollständigen Sortiment aller experimentell-therapeutischen Neurostreams<sup>TM</sup></p>
-<p>Folgende Selbstbehandlungen sind enthalten:</p>
-<ul>
-<li><strong>Bei der Sache</strong> - Gegen Erwachsenen-ADHS (10 Titel, je 30 min)</li>
-<li><strong>Happiness - </strong>Bei Depressionen (10 Titel, je 30 min)</li>
-<li><strong>Heiterkeit vor der Schlacht - </strong>Lampenfieber senken (10 Titel, je 30 min)</li>
-<li><strong>Morphium Jacuzzi in 432 Hertz - </strong>Experimentelle Beats gegen Fibromyalgie (10 Titel, je 30 min)</li>
-<li><strong>Planet Relax - </strong>Tiefenentspannung zu jeder Zeit (10 Titel, je 30 min)</li>
-<li><strong>Power Kur - </strong>Immunsystem stärken (10 Titel, je 30 min)</li>
-<li><strong>Schleusenöffner - </strong>Blutdruck senken ohne Medikamente (13 Titel, je 30 min)</li>
-<li><strong>Das innere Kind (THETA) - </strong>seelische Selbstheilungen (10 Titel, je 30 min)</li>
-<li><strong>Wolkig bis heiter - </strong>Suchtlindernde Beruhigungsklänge (10 Titel, je 30 min)</li>
-<li><strong>Den Löwen reiten - </strong>Gegen Angst und Anspannung (10 Titel, je 30 min)</li>
-<li><strong>Mini Alpha Breaks - </strong>Reset-Knopf drücken, kurz Energie tanken (10 Titel, je 15 min)</li>
-<li><strong>Treffpunkt Garten Eden - </strong>bei Ruhelosigkeit (10 Titel, je 30 min)</li>
-</ul>
-<p> </p>
-<p><strong>Gesamtzahl</strong>: 123 Neurostreams™</p>
-<p><strong>Spielzeit</strong>: über 57 Stunden</p>
-<p><strong>Speicherplatz</strong>: 3,7 Gigabyte</p>
-<p>Die Downloads sollten zunächst auf einem Computer oder Laptop erfolgen (egal ob Windows, Mac oder Linux) und dort entzippt werden.</p>
-<p>Alle Neurostreams™ sind jederzeit auf <strong>unbegrenzt viele</strong> Geräte übertragbar und können <strong>beliebig oft</strong> angehört werden!</p>
-<p>Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux.</p>
-<p><strong>Sofort-Zugang</strong> nach Geldeingang!</p>
-<p><strong>2 Jahre</strong> Produktsupport inklusive.</p>
+**Vendor's marketplace description:** Das Download-Paket mit dem vollständigen Sortiment aller experimentell-therapeutischen Neurostreams TM Folgende Selbstbehandlungen sind enthalten: Bei der Sache - Gegen Erwachsenen-ADHS (10 Titel, je 30 min) Happiness - Bei Depressionen (10 Titel, je 30 min) Heiterkeit vor der Schlacht - Lampenfieber senken (10 Titel, je 30 min) Morphium Jacuzzi in 432 Hertz - Experimentelle Beats gegen Fibromyalgie (10 Titel, je 30 min) Planet Relax - Tiefenentspannung zu jeder Zeit (10 Titel, je 30 min) Power Kur - Immunsystem stärken (10 Titel, je 30 min) Schleusenöffner - Blutdruck senken ohne Medikamente (13 Titel, je 30 min) Das innere Kind (THETA) - seelische Selbstheilungen (10 Titel, je 30 min) Wolkig bis heiter - Suchtlindernde Beruhigungsklänge (10 Titel, je 30 min) Den Löwen reiten - Gegen Angst und Anspannung (10 Titel, je 30 min) Mini Alpha Breaks - Reset-Knopf drücken, kurz Energie tanken (10 Titel, je 15 min) Treffpunkt Garten Eden - bei Ruhelosigkeit (10 Titel, je 30 min) Gesamtzahl : 123 Neurostreams™ Spielzeit : über 57 Stunden Speicherplatz : 3,7 Gigabyte Die Downloads sollten zunächst auf einem Computer oder Laptop erfolgen (egal ob Windows, Mac oder Linux) und dort entzippt werden. Alle Neurostreams™ sind jederzeit auf unbegrenzt viele Geräte übertragbar und können beliebig oft angehört werden! Die Mp3-Dateien laufen problemlos auf Computern, Laptops, Netbooks, Tablets, iPads, Smartphones, iPhones - egal ob Android, Windows, Apple oder Linux. Sofort-Zugang nach Geldeingang! 2 Jahre Produktsupport inklusive.
 
 ## 2. Links
 

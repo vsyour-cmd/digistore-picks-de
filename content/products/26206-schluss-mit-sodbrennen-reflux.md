@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>eBook und Ressourcen zur Behandlung von Sodbrennen und anderen Symptomen von Reflux.</p>
+**Vendor's marketplace description:** eBook und Ressourcen zur Behandlung von Sodbrennen und anderen Symptomen von Reflux.
 
 ## 2. Links
 

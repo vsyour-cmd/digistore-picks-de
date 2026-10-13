@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>SMILE ist Olivers kompaktes Selbstlern-Programm für mehr Lebensglück, Klarheit und innere Ausrichtung. Niederschwelliger Preis, hohe Conversion, perfekte Eintrittstür in die gesamte Glücks-Welt der Magierschule.</p>
-<p><strong>Was dich erwartet</strong></p>
-<ul>
-<li>40 % Sofort-Provision pro Verkauf (= 16 € bei 40 €)</li>
-<li>20 % lifetime auf alle Folgekäufe deiner Empfehlung – auch Jahre später</li>
-<li>Lifetime-Kundenzuordnung nach Erstkauf (nicht nur 180-Tage-Cookie)</li>
-<li>Kostenloser Geschenk-Funnel über GlücksBewusst – du verschenkst Content, der Funnel verkauft</li>
-<li>Logischer Upsell-Weg: SMILE → Glückscoach-Ausbildung (2.160 € → 432 € Provision für dich)</li>
-<li><a href="https://magierschule.de/werbemittel" target="_blank" rel="noreferrer noopener">Klickstarke Werbemittel: Banner, Mailtexte, Social-Snippets</a></li>
-</ul>
-<p><strong>Der Funnel (entscheidender Vorteil):</strong> Du musst SMILE nicht direkt verkaufen. Du verschenkst den kostenlosen GlücksBewusst-Mini-Kurs – darin wird SMILE organisch platziert. Wer SMILE bucht, ist später oft offen für die Glückscoach-Jahresausbildung. Darauf erhältst du 40 % auf einen Betrag von über 2K = &gt; 800 € zusätzlich.</p>
-<p><strong>Für wen das passt</strong> Coaches, Mental-Trainer, Yogalehrer, Newsletter-Betreiber, Blogger und Creator im Bereich Persönlichkeitsentwicklung, Glück und Selbstführung.</p>
-<p>Schau dir die Werbemittel an. Da ist jetzt schon sehr viel möglich. Sprich uns an, wenn du Sonderlösungen brauchst.</p>
+**Vendor's marketplace description:** SMILE ist Olivers kompaktes Selbstlern-Programm für mehr Lebensglück, Klarheit und innere Ausrichtung. Niederschwelliger Preis, hohe Conversion, perfekte Eintrittstür in die gesamte Glücks-Welt der Magierschule. Was dich erwartet 40 % Sofort-Provision pro Verkauf (= 16 € bei 40 €) 20 % lifetime auf alle Folgekäufe deiner Empfehlung – auch Jahre später Lifetime-Kundenzuordnung nach Erstkauf (nicht nur 180-Tage-Cookie) Kostenloser Geschenk-Funnel über GlücksBewusst – du verschenkst Content, der Funnel verkauft Logischer Upsell-Weg: SMILE → Glückscoach-Ausbildung (2.160 € → 432 € Provision für dich) Klickstarke Werbemittel: Banner, Mailtexte, Social-Snippets Der Funnel (entscheidender Vorteil): Du musst SMILE nicht direkt verkaufen. Du verschenkst den kostenlosen GlücksBewusst-Mini-Kurs – darin wird SMILE organisch platziert. Wer SMILE bucht, ist später oft offen für die Glückscoach-Jahresausbildung. Darauf erhältst du 40 % auf einen Betrag von über 2K = > 800 € zusätzlich. Für wen das passt Coaches, Mental-Trainer, Yogalehrer, Newsletter-Betreiber, Blogger und Creator im Bereich Persönlichkeitsentwicklung, Glück und Selbstführung. Schau dir die Werbemittel an. Da ist jetzt schon sehr viel möglich. Sprich uns an, wenn du Sonderlösungen brauchst.
 
 ## 2. Links
 

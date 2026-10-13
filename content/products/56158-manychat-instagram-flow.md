@@ -41,24 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<h2><strong>ManyChat-Flow der sich selbst verkauft</strong></h2>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div><strong>Affiliate-Infos</strong></div>
-<div>Hey, toll dass du mein Produkt als Affiliate bewerben möchtest!</div>
-<div> </div>
-<div><strong>Was genau ist das Produkt?</strong></div>
-<div>ManyChat-Flow der sich selbst verkauft ist eine fertige Verkaufssequenz die für Facebook-Beiträge und Reels realisiert ist.<br /><br /></div>
-<div><strong>Was verdienst du als Affiliate?</strong></div>
-<div>Für jeden erfolgreichen Verkauf erhältst du satte 70 % Provision auf den Netto-Verkaufspreis (abzüglich der Digistore24-Kosten). Der Verkaufpreis ist aktuell 17,00 € inkl. MwSt.</div>
-</div>
+**Vendor's marketplace description:** ManyChat-Flow der sich selbst verkauft Affiliate-Infos Hey, toll dass du mein Produkt als Affiliate bewerben möchtest! Was genau ist das Produkt? ManyChat-Flow der sich selbst verkauft ist eine fertige Verkaufssequenz die für Facebook-Beiträge und Reels realisiert ist. Was verdienst du als Affiliate? Für jeden erfolgreichen Verkauf erhältst du satte 70 % Provision auf den Netto-Verkaufspreis (abzüglich der Digistore24-Kosten). Der Verkaufpreis ist aktuell 17,00 € inkl. MwSt.
 
 ## 2. Links
 

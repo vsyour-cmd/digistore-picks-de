@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Hunde aus dem Süden</h1>
-<p>Immer seltener adoptieren wir einen Welpen von einem deutschen Züchter.</p>
-<h3>Immer öfter nehmen wir einen Hund aus dem Tierheim oder aus einer Notvermittlung.</h3>
-<p>Genauso oft kommen diese Hunde aus Südeuropa.</p>
-<h3>Das bedeutet auch, dass alle diese Hunde eine Vorgeschichte haben und die kann unterschiedlicher kaum sein.</h3>
-<p><strong><em>Um dafür zu sensibilisieren und ein besseres Verständnis oder auch Erleichterung oder Geduld bei dem Zusammenleben zu kreieren, habe ich dieses Webinar für Euch gemacht.</em></strong></p>
-<p>Ich wünsch Euch viel Spaß damit!</p>
+**Vendor's marketplace description:** Hunde aus dem Süden Immer seltener adoptieren wir einen Welpen von einem deutschen Züchter. Immer öfter nehmen wir einen Hund aus dem Tierheim oder aus einer Notvermittlung. Genauso oft kommen diese Hunde aus Südeuropa. Das bedeutet auch, dass alle diese Hunde eine Vorgeschichte haben und die kann unterschiedlicher kaum sein. Um dafür zu sensibilisieren und ein besseres Verständnis oder auch Erleichterung oder Geduld bei dem Zusammenleben zu kreieren, habe ich dieses Webinar für Euch gemacht. Ich wünsch Euch viel Spaß damit!
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Schritt für Schritt Guide: Von der Shop-Registrierung bis zum 1.Verkauf</p>
-<p>Digitales Produkt/kein Versand</p>
-<p>Produkt wird nach dem Kauf zum Download bereitgestellt.</p>
+**Vendor's marketplace description:** Schritt für Schritt Guide: Von der Shop-Registrierung bis zum 1.Verkauf Digitales Produkt/kein Versand Produkt wird nach dem Kauf zum Download bereitgestellt.
 
 ## 2. Links
 

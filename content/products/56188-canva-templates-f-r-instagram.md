@@ -41,58 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<h1>Social-Media-TEMPLATE BUNDLE "Work &amp; Flow"</h1>
-</div>
-</div>
-<div>
-<div>
-<h2>Deine Abkürzung für deinen Instagram Feed</h2>
-</div>
-</div>
-<div> </div>
-<div>
-<p>Du möchtest einen ansprechenden Instagram-Account haben, dir fehlt aber die Zeit, stundenlang Beitragsbilder zu erstellen? Meine Designvorlagen nehmen dir die meiste Arbeit ab! Mit diesem Template-Bundle erhältst du gesamt über 350 Designvorlagen, die du alle auf deine Farben, Schriften und deine Marke anpassen kannst. Alle Vorlagen wurden mit dem kostenlosen Online-Tool CANVA erstellt.</p>
-<p> </p>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div><strong>Das Template-Bundle enthält:</strong></div>
-<div> </div>
-<div>
-<div>
-<ul>
-<li>6 unterschiedliche Feed-Designs, gesamt über 350 Vorlagen</li>
-<li>Vielseitig kombinierbar</li>
-<li>Frei anpassbar auf deine Marke</li>
-<li>inkl. CANVA-Anleitung </li>
-<li>Bonus: Workshop "Produktivitätsbooster" für Selbstständige</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div> </div>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div> </div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Social-Media-TEMPLATE BUNDLE "Work & Flow" Deine Abkürzung für deinen Instagram Feed Du möchtest einen ansprechenden Instagram-Account haben, dir fehlt aber die Zeit, stundenlang Beitragsbilder zu erstellen? Meine Designvorlagen nehmen dir die meiste Arbeit ab! Mit diesem Template-Bundle erhältst du gesamt über 350 Designvorlagen, die du alle auf deine Farben, Schriften und deine Marke anpassen kannst. Alle Vorlagen wurden mit dem kostenlosen Online-Tool CANVA erstellt. Das Template-Bundle enthält: 6 unterschiedliche Feed-Designs, gesamt über 350 Vorlagen Vielseitig kombinierbar Frei anpassbar auf deine Marke inkl. CANVA-Anleitung Bonus: Workshop "Produktivitätsbooster" für Selbstständige
 
 ## 2. Links
 

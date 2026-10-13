@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „Sexuelle Spannung aufbauen mit Respekt“</strong></p>
-<p>Anziehung, Flirt und Grenzen im Gleichgewicht – Echte Anziehung entsteht auf Augenhöhe. Lerne, Spannung und Flirt aufzubauen – immer im Einklang mit Respekt, Konsens und Grenzen.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Was sexuelle Spannung wirklich ist</li>
-<li>Die Basis: Respekt, Konsens &amp; Sicherheit</li>
-<li>Anziehung durch Präsenz &amp; Selbstsicherheit</li>
-<li>Flirten mit Worten: Andeutung &amp; Spiel</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „Sexuelle Spannung aufbauen mit Respekt“ Anziehung, Flirt und Grenzen im Gleichgewicht – Echte Anziehung entsteht auf Augenhöhe. Lerne, Spannung und Flirt aufzubauen – immer im Einklang mit Respekt, Konsens und Grenzen. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Was sexuelle Spannung wirklich ist Die Basis: Respekt, Konsens & Sicherheit Anziehung durch Präsenz & Selbstsicherheit Flirten mit Worten: Andeutung & Spiel
 
 ## 2. Links
 

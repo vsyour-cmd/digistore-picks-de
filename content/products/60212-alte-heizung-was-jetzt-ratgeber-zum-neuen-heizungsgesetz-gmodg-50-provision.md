@@ -41,23 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Seit dem 29. Juli 2026 gilt das neue Gebäudemodernisierungsgesetz (GModG). Viele Eigentümer mit älterer Öl- oder Gasheizung fragen sich jetzt: Muss die Heizung raus? Was kostet das Weiterheizen? Welche Förderung gibt es?</p>
-<p>Der Ratgeber <strong>„Alte Heizung – was jetzt?“</strong> von Immobilienmakler Marko Will (myhome-Makler, Nürnberg) beantwortet genau diese Fragen – verständlich, mit Rechenbeispielen und Checklisten:</p>
-<ul>
-<li>Austauschpflicht und 30-Jahre-Regel nach dem neuen Gesetz</li>
-<li>Biotreppe und CO₂-Preis</li>
-<li>Förderung bis 80 % mit Rechenbeispielen und der richtigen Reihenfolge beim Antrag</li>
-<li>Kaufen, verkaufen und vermieten mit alter Heizung</li>
-<li>Fahrplan in sieben Schritten, Checklisten, FAQ und Glossar</li>
-</ul>
-<p>Format: E-Book als PDF, 50 Seiten, Sofort-Download.</p>
-<p><strong>Für Partner:</strong></p>
-<ul>
-<li>50 % Provision pro Verkauf</li>
-<li>Zielgruppe: Eigentümer, Käufer, Verkäufer, Erben und Vermieter von Häusern mit älterer Öl- oder Gasheizung</li>
-<li>Fertige Werbemittel für Facebook, Instagram, TikTok, YouTube und Google Ads sowie Werbetexte auf der Affiliate-Support-Seite</li>
-<li>Bitte keine übertriebenen Versprechen (z. B. garantierte Förderung); der Ratgeber ersetzt keine Rechts-, Steuer- oder Energieberatung. Keine Google-Ads-Anzeigen auf die Marke „myhome-Makler“.</li>
-</ul>
+**Vendor's marketplace description:** Seit dem 29. Juli 2026 gilt das neue Gebäudemodernisierungsgesetz (GModG). Viele Eigentümer mit älterer Öl- oder Gasheizung fragen sich jetzt: Muss die Heizung raus? Was kostet das Weiterheizen? Welche Förderung gibt es? Der Ratgeber „Alte Heizung – was jetzt?“ von Immobilienmakler Marko Will (myhome-Makler, Nürnberg) beantwortet genau diese Fragen – verständlich, mit Rechenbeispielen und Checklisten: Austauschpflicht und 30-Jahre-Regel nach dem neuen Gesetz Biotreppe und CO₂-Preis Förderung bis 80 % mit Rechenbeispielen und der richtigen Reihenfolge beim Antrag Kaufen, verkaufen und vermieten mit alter Heizung Fahrplan in sieben Schritten, Checklisten, FAQ und Glossar Format: E-Book als PDF, 50 Seiten, Sofort-Download. Für Partner: 50 % Provision pro Verkauf Zielgruppe: Eigentümer, Käufer, Verkäufer, Erben und Vermieter von Häusern mit älterer Öl- oder Gasheizung Fertige Werbemittel für Facebook, Instagram, TikTok, YouTube und Google Ads sowie Werbetexte auf der Affiliate-Support-Seite Bitte keine übertriebenen Versprechen (z. B. garantierte Förderung); der Ratgeber ersetzt keine Rechts-, Steuer- oder Energieberatung. Keine Google-Ads-Anzeigen auf die Marke „myhome-Makler“.
 
 ## 2. Links
 

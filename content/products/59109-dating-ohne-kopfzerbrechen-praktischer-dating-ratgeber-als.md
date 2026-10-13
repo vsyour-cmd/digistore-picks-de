@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Dating ohne Kopfzerbrechen ist ein kompakter, praxisnaher Dating-Ratgeber für Menschen, die beim Kennenlernen mehr Sicherheit und Klarheit gewinnen möchten.</p>
-<p>Das digitale eBook behandelt Themen rund um Dating, Kennenlernen und Beziehungen und vermittelt leicht verständliche Tipps und praktische Strategien.</p>
-<p>Ideal für Affiliates im Bereich Dating, Liebe, Beziehungen und persönliche Entwicklung.</p>
-<p>Verkaufspreis: 6,99 € Produktart: Digitales eBook / sofortiger Download</p>
+**Vendor's marketplace description:** Dating ohne Kopfzerbrechen ist ein kompakter, praxisnaher Dating-Ratgeber für Menschen, die beim Kennenlernen mehr Sicherheit und Klarheit gewinnen möchten. Das digitale eBook behandelt Themen rund um Dating, Kennenlernen und Beziehungen und vermittelt leicht verständliche Tipps und praktische Strategien. Ideal für Affiliates im Bereich Dating, Liebe, Beziehungen und persönliche Entwicklung. Verkaufspreis: 6,99 € Produktart: Digitales eBook / sofortiger Download
 
 ## 2. Links
 

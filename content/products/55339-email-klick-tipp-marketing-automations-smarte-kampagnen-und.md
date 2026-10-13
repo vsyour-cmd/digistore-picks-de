@@ -41,48 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<h1><span style="color:#993300;">EMAIL <span style="color:#800000;">KLICK-TIPP</span> MARKETING AUTOMATIONS – KAMPAGNEN &amp; FUNNELS </span></h1>
-<h1>ERSTELLEN &amp; PFLEGE</h1>
-<h1>  130€/Monat </h1>
-<div>
-<div>
-<p>(Paket Automat A3 = 2Stunden/Monat)</p>
-</div>
-</div>
-<h1>ABO / Kündbar / Down-Updatebar  </h1>
-<p> </p>
-</div>
-</div>
-<div>
-<div>
-<ul>
-<li>
-<ul>
-<li>#0 Einrichtung &amp; Pflege von Automationen</li>
-<li>#1 E-Mail-Sequenzen &amp; Newsletter-Erstellung</li>
-<li>  #2 Analyse &amp; Optimierung deiner Funnels  </li>
-<li>  #3 Technische Integration &amp; Verknüpfung  </li>
-<li>#4 Segmentierung &amp; Tagging</li>
-<li>  #5 Beratung &amp; Strategie-Calls</li>
-<li> </li>
-<li> #6 Pflege / Betreuung / Unterstützung</li>
-<li>  #7 Reporting &amp; Fortschrittsübersicht  </li>
-<li>  #8 Texterstellung &amp; Optimierung (optional)  </li>
-<li>  #9 Support &amp; technische Fehlerbehebung  </li>
-<li>  #10 Erweiterungen &amp; Extras</li>
-<li>  #11 Landingpages erstellen und jede Art von Pages  </li>
-</ul>
-</li>
-</ul>
-<p> </p>
-<p> </p>
-<ul>
-<li>Schauen Sie hier unsere Infos &amp; Video, was können wir für Euch tun sehr günstig</li>
-</ul>
-</div>
-</div>
+**Vendor's marketplace description:** EMAIL KLICK-TIPP MARKETING AUTOMATIONS – KAMPAGNEN & FUNNELS ERSTELLEN & PFLEGE 130€/Monat (Paket Automat A3 = 2Stunden/Monat) ABO / Kündbar / Down-Updatebar #0 Einrichtung & Pflege von Automationen #1 E-Mail-Sequenzen & Newsletter-Erstellung #2 Analyse & Optimierung deiner Funnels #3 Technische Integration & Verknüpfung #4 Segmentierung & Tagging #5 Beratung & Strategie-Calls #6 Pflege / Betreuung / Unterstützung #7 Reporting & Fortschrittsübersicht #8 Texterstellung & Optimierung (optional) #9 Support & technische Fehlerbehebung #10 Erweiterungen & Extras #11 Landingpages erstellen und jede Art von Pages Schauen Sie hier unsere Infos & Video, was können wir für Euch tun sehr günstig
 
 ## 2. Links
 

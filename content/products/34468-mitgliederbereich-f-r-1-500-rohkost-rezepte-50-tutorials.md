@@ -41,34 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hier bei CreateRawVision zeige ich dir, wie du köstliche und unvergleichliche Rohkost Rezepte zubereitest, die andere in Erstaunen versetzen können.</p>
-<p>Bereits seit 2013 zeige ich Interessierten wie köstliche und natürliche Rohkost Rezepte zubereitet werden. Bewusstes, vitalstoffreiches und köstliches Essen muss nicht schwer zuzubereiten sein und ich zeige dir wie!</p>
-<p>Für nur 19 Euro im Monat bekommst du uneingeschränkten Zugang zu über 1.500 Rohkost-Rezepten und vielen Tutorials. </p>
-<h2>Warum solltest du Rohkost in Deine Ernährung Einbauen?</h2>
-<ul>
-<li>Weil du es verdient hast, dich fit und energiegeladen zu fühlen!</li>
-<li>Weil du es verdient hast, frische, naturbelassene Lebensmittel zu dir zu nehmen!</li>
-<li>Weil du es verdient hast, bewusst und achtsam mit deinem Körper umzugehen!</li>
-<li>Weil du es verdient hast, Lebensfreude und Leichtigkeit in deinen Alltag zu bringen!</li>
-</ul>
-<div>
-<h2>Das bekommst du für nur 19 EUR im Monat</h2>
-<ul>
-<li>1.500+ vegane Rohkost Rezepte</li>
-<li>50+ Tipps, Tutorials und Schritt-für-Schritt-Anleitungen</li>
-<li>Einsteigerkurs "Rohkost Leicht Gemacht" mit 60+ Lektionen</li>
-<li>Mitgliederbereich mit einfacher Bedienung und kurzen Ladezeiten</li>
-<li>Neue Rohkost Rezepte, Tipps und Schritt-für-Schritt-Anleitungen werden ergänzend hochgeladen</li>
-<li>Aktive Mitgestaltung durch Wunschrezepte</li>
-<li>Erstellen von eigenen Rezeptsammlungen</li>
-<li>Pflege, Aktualisierung und Verbesserung des Mitgliederbereiches, der Inhalte und Rezepte</li>
-<li>Rückfrage-Möglichkeiten zu den Rohkost Rezepten – mit zeitnahen Antworten</li>
-<li>Gut sortierte Rezepte in verschiedenen Kategorien</li>
-<li>Rohkost-Zubereitungstechniken</li>
-<li>Druckbare Rezepte im PDF-Format</li>
-<li>Empfehlungen für von mir gut recherchierte und erprobte Produkte</li>
-</ul>
-</div>
+**Vendor's marketplace description:** Hier bei CreateRawVision zeige ich dir, wie du köstliche und unvergleichliche Rohkost Rezepte zubereitest, die andere in Erstaunen versetzen können. Bereits seit 2013 zeige ich Interessierten wie köstliche und natürliche Rohkost Rezepte zubereitet werden. Bewusstes, vitalstoffreiches und köstliches Essen muss nicht schwer zuzubereiten sein und ich zeige dir wie! Für nur 19 Euro im Monat bekommst du uneingeschränkten Zugang zu über 1.500 Rohkost-Rezepten und vielen Tutorials. Warum solltest du Rohkost in Deine Ernährung Einbauen? Weil du es verdient hast, dich fit und energiegeladen zu fühlen! Weil du es verdient hast, frische, naturbelassene Lebensmittel zu dir zu nehmen! Weil du es verdient hast, bewusst und achtsam mit deinem Körper umzugehen! Weil du es verdient hast, Lebensfreude und Leichtigkeit in deinen Alltag zu bringen! Das bekommst du für nur 19 EUR im Monat 1.500+ vegane Rohkost Rezepte 50+ Tipps, Tutorials und Schritt-für-Schritt-Anleitungen Einsteigerkurs "Rohkost Leicht Gemacht" mit 60+ Lektionen Mitgliederbereich mit einfacher Bedienung und kurzen Ladezeiten Neue Rohkost Rezepte, Tipps und Schritt-für-Schritt-Anleitungen werden ergänzend hochgeladen Aktive Mitgestaltung durch Wunschrezepte Erstellen von eigenen Rezeptsammlungen Pflege, Aktualisierung und Verbesserung des Mitgliederbereiches, der Inhalte und Rezepte Rückfrage-Möglichkeiten zu den Rohkost Rezepten – mit zeitnahen Antworten Gut sortierte Rezepte in verschiedenen Kategorien Rohkost-Zubereitungstechniken Druckbare Rezepte im PDF-Format Empfehlungen für von mir gut recherchierte und erprobte Produkte
 
 ## 2. Links
 

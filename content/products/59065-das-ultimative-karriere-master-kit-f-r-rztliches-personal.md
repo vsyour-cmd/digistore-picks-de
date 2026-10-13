@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Karriere-Masterkit für Ärzte – Dein Leitfaden für Bewerbungen, Klinikwechsel und strategische Karriereplanung</strong></p>
-<p>Das Karriere-Masterkit für Ärzte begleitet dich strukturiert durch alle Schritte einer ärztlichen Bewerbung – von der Zielklinik-Auswahl bis zur Vertragsverhandlung. Mit sofort einsetzbaren Vorlagen für Anschreiben und Lebenslauf. Sofort als PDF verfügbar.</p>
-<p>Das ist enthalten:</p>
-<ul>
-<li>Strategische Karriere- und Stellenplanung inkl. Kriterienkatalog für die Klinikauswahl</li>
-<li>Professionelle Bewerbungsunterlagen: Lebenslauf, Anschreiben, vollständige Bewerbungsmappe</li>
-<li>Checkliste für alle erforderlichen Dokumente (Approbation, Facharztanerkennung, Zeugnisse)</li>
-<li>Vorbereitung auf Vorstellungsgespräch, Hospitation und Gehaltsverhandlung</li>
-<li>Vollständige Muster-Vorlagen für Anschreiben und Lebenslauf (sofort befüllbar)</li>
-<li>Bonus: Verhandlungstipps für AT-Verträge, Poolbeteiligung und Fortbildungsbudget</li>
-</ul>
-<p>Sofortiger Download – kein Abo, keine versteckten Kosten.</p>
+**Vendor's marketplace description:** Karriere-Masterkit für Ärzte – Dein Leitfaden für Bewerbungen, Klinikwechsel und strategische Karriereplanung Das Karriere-Masterkit für Ärzte begleitet dich strukturiert durch alle Schritte einer ärztlichen Bewerbung – von der Zielklinik-Auswahl bis zur Vertragsverhandlung. Mit sofort einsetzbaren Vorlagen für Anschreiben und Lebenslauf. Sofort als PDF verfügbar. Das ist enthalten: Strategische Karriere- und Stellenplanung inkl. Kriterienkatalog für die Klinikauswahl Professionelle Bewerbungsunterlagen: Lebenslauf, Anschreiben, vollständige Bewerbungsmappe Checkliste für alle erforderlichen Dokumente (Approbation, Facharztanerkennung, Zeugnisse) Vorbereitung auf Vorstellungsgespräch, Hospitation und Gehaltsverhandlung Vollständige Muster-Vorlagen für Anschreiben und Lebenslauf (sofort befüllbar) Bonus: Verhandlungstipps für AT-Verträge, Poolbeteiligung und Fortbildungsbudget Sofortiger Download – kein Abo, keine versteckten Kosten.
 
 ## 2. Links
 

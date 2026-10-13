@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div> </div>
-<div>
-<div>
-<div>Der Videokurs „Pentatonik-Workshop“ von Christian Konrad richtet sich an E-Gitarristen ganz unterschiedlicher spielerischer Levels. Vermittelt wird die Improvisation mit der Pentatonik.</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>Zunächst die harmonischen Grundlagen besprochen und die wichtigsten Einsteiger-Fragen beantwortet:<br />Was ist eine Pentatonik? <br />Was ist der Unterschied zwischen Dur- und Moll-Pentatonik? <br />Wie sind diese aufgebaut?<br />Nach den Grundlagen werden viele unterschiedlich schwere Konzepte vorgestellt, die Pentatonik interessanter klingen zu lassen und effektiver zu nutzen.<br />In 15 Lektionen und 80 Übungen erhalten sowohl fortgeschrittene Anfänger als auch erfahrene Gitarristen viele neue Impulse, ihr Solospiel entscheidend zu verbessern.</div>
-</div>
-</div>
+**Vendor's marketplace description:** Der Videokurs „Pentatonik-Workshop“ von Christian Konrad richtet sich an E-Gitarristen ganz unterschiedlicher spielerischer Levels. Vermittelt wird die Improvisation mit der Pentatonik. Zunächst die harmonischen Grundlagen besprochen und die wichtigsten Einsteiger-Fragen beantwortet: Was ist eine Pentatonik? Was ist der Unterschied zwischen Dur- und Moll-Pentatonik? Wie sind diese aufgebaut? Nach den Grundlagen werden viele unterschiedlich schwere Konzepte vorgestellt, die Pentatonik interessanter klingen zu lassen und effektiver zu nutzen. In 15 Lektionen und 80 Übungen erhalten sowohl fortgeschrittene Anfänger als auch erfahrene Gitarristen viele neue Impulse, ihr Solospiel entscheidend zu verbessern.
 
 ## 2. Links
 

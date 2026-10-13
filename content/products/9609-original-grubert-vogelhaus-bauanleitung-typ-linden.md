@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Orginal Grubert Vogelh&auml;user. Feinste Vogelhaus Manufaktur aus Bayern.</strong></p>
-<p>Handgemachte Luxus Vogelh&auml;user aus Bestem L&auml;rchenholz. Blockhausoptik.&nbsp;</p>
-<p>F&uuml;r das Modell Typ "Linden" haben wir eine Bauanleitung erstellt.</p>
-<p><strong>Die Anleitung wird sehr gut angenommen und richtet sich an Bastler, Handwerker und Heimwerker mit Haus und Garten. Oder an Personen die gerne etwas Luxus verschenken wollen.</strong></p>
-<p>Die Zielgruppe ist im Alter 45 + und verf&uuml;gt &uuml;ber ein Eigenheim mit Garten.</p>
-<p>Es wird eine .pdf datei ausgeliefert und 85 Videos, die ganz genau bis ins Detail die Arbeitsschritte beschreiben um ein Original Grubert Vogelhaus zu bauen.</p>
-<p>Die Conversion ist super und die Stornoquote sehr gering!</p>
-<p>Provision ist 50%</p>
-<p>&nbsp;</p>
+**Vendor's marketplace description:** Orginal Grubert Vogelh&auml;user. Feinste Vogelhaus Manufaktur aus Bayern. Handgemachte Luxus Vogelh&auml;user aus Bestem L&auml;rchenholz. Blockhausoptik. F&uuml;r das Modell Typ "Linden" haben wir eine Bauanleitung erstellt. Die Anleitung wird sehr gut angenommen und richtet sich an Bastler, Handwerker und Heimwerker mit Haus und Garten. Oder an Personen die gerne etwas Luxus verschenken wollen. Die Zielgruppe ist im Alter 45 + und verf&uuml;gt &uuml;ber ein Eigenheim mit Garten. Es wird eine .pdf datei ausgeliefert und 85 Videos, die ganz genau bis ins Detail die Arbeitsschritte beschreiben um ein Original Grubert Vogelhaus zu bauen. Die Conversion ist super und die Stornoquote sehr gering! Provision ist 50%
 
 ## 2. Links
 

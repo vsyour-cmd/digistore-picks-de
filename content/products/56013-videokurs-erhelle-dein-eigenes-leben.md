@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Der Videokurs „Erhelle dein Leben“ – für mehr Klarheit, Bewusstsein und innere Balance wird angeboten.</p>
-<p>Perfektes Geschenk für deine Community!</p>
-<p>Der Kurs hilft dabei, Gedanken, Gefühle und Entscheidungen besser zu verstehen, neue Perspektiven zu entwickeln und mehr Balance im Alltag zu finden – einfach erklärt in kompakten Videolektionen.</p>
-<p>Ideal für Anfänger und Fortgeschrittene im Bereich Persönlichkeitsentwicklung.</p>
-<p>Sehr hohe Conversion durch einfachen Einstieg.</p>
-<p>Du erhältst 50 % Provision auf den gesamten Funnel.</p>
-<p>Hauptprodukt: 49,90 €<br />Mit Upsells sind bis zu 137 € Provision pro Kunde möglich.</p>
-<p>Automatisierter Funnel wird laufend optimiert.</p>
-<p>Viel Erfolg!</p>
+**Vendor's marketplace description:** Der Videokurs „Erhelle dein Leben“ – für mehr Klarheit, Bewusstsein und innere Balance wird angeboten. Perfektes Geschenk für deine Community! Der Kurs hilft dabei, Gedanken, Gefühle und Entscheidungen besser zu verstehen, neue Perspektiven zu entwickeln und mehr Balance im Alltag zu finden – einfach erklärt in kompakten Videolektionen. Ideal für Anfänger und Fortgeschrittene im Bereich Persönlichkeitsentwicklung. Sehr hohe Conversion durch einfachen Einstieg. Du erhältst 50 % Provision auf den gesamten Funnel. Hauptprodukt: 49,90 € Mit Upsells sind bis zu 137 € Provision pro Kunde möglich. Automatisierter Funnel wird laufend optimiert. Viel Erfolg!
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><em><strong>KI Avatar - Deine 24/7 Geldmaschine</strong></em></div>
-<div> </div>
-<div><em><strong>✅ </strong>Deine Community bekommt einen Blueprint zur  Geldmaschine KI Avatar</em></div>
-<div> </div>
-<div><em><strong>✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet</strong></em></div>
-<div><br /><em><strong>Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm...</strong></em></div>
-<div> </div>
-<div><em><strong>Du kannst durch Upsells und AddOn bis zu 123 Euro</strong></em></div>
+**Vendor's marketplace description:** KI Avatar - Deine 24/7 Geldmaschine ✅ Deine Community bekommt einen Blueprint zur Geldmaschine KI Avatar ✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm... Du kannst durch Upsells und AddOn bis zu 123 Euro
 
 ## 2. Links
 

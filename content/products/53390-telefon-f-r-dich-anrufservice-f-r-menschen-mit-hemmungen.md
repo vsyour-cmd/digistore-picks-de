@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du kennst Menschen, die Angst vor Telefonaten haben oder keine Zeit für lästige Anrufe?</p>
-<p>Mit unserem empathischen Anrufservice übernehmen wir Gespräche mit Ämtern, Ärzten, Vermietern &amp; Co. Diskret, menschlich &amp; effizient.</p>
-<p> </p>
-<p>
+**Vendor's marketplace description:** Du kennst Menschen, die Angst vor Telefonaten haben oder keine Zeit für lästige Anrufe? Mit unserem empathischen Anrufservice übernehmen wir Gespräche mit Ämtern, Ärzten, Vermietern & Co. Diskret, menschlich & effizient.
 
 ## 2. Links
 

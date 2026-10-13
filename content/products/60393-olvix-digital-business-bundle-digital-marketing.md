@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>ZWEI KURSE. EIN PAKET. DEIN DIGITALER START.</strong></p>
-<p> </p>
-<p>Das OLVIX Digital Business Bundle verbindet zwei sich ergänzende Kurse:</p>
-<p> </p>
-<p><strong>✓ DIGITAL BUSINESS BASE</strong></p>
-<p>Verständlicher Einstieg ins digitale Business – von den Grundlagen bis zu konkreten Möglichkeiten, eigene digitale Produkte aufzubauen und anzubieten.</p>
-<p> </p>
-<p><strong>✓ MIND HACK MARKETING</strong></p>
-<p>Verstehe, wie modernes Marketing funktioniert, wie Aufmerksamkeit entsteht und wie du digitale Produkte überzeugender präsentieren und vermarkten kannst.</p>
-<p> </p>
-<p><strong>Statt beide Kurse einzeln für 148 € zu kaufen, erhältst du das komplette Bundle für 139 €.</strong></p>
-<p> </p>
-<p>Digital starten. Marketing verstehen. Wissen praktisch anwenden.</p>
+**Vendor's marketplace description:** ZWEI KURSE. EIN PAKET. DEIN DIGITALER START. Das OLVIX Digital Business Bundle verbindet zwei sich ergänzende Kurse: ✓ DIGITAL BUSINESS BASE Verständlicher Einstieg ins digitale Business – von den Grundlagen bis zu konkreten Möglichkeiten, eigene digitale Produkte aufzubauen und anzubieten. ✓ MIND HACK MARKETING Verstehe, wie modernes Marketing funktioniert, wie Aufmerksamkeit entsteht und wie du digitale Produkte überzeugender präsentieren und vermarkten kannst. Statt beide Kurse einzeln für 148 € zu kaufen, erhältst du das komplette Bundle für 139 €. Digital starten. Marketing verstehen. Wissen praktisch anwenden.
 
 ## 2. Links
 

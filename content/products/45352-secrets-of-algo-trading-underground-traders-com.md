@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>SECRETS OF ALGO-TRADING</strong> <br />Das ultimative Komplettpaket für alle Trader, die Algo-Trading von Grund auf richtig erlernen möchten!<br /><br /><br /><strong>informative LANDINGPAGE </strong><br /><a href="https://underground-traders.com/secrets-of-algotrading/" target="_blank" rel="noreferrer noopener"><span style="color:#0000ff;">https://underground-traders.com/secrets-of-algotrading/</span></a></p>
-<p><br /><br /><strong>100% TRUST</strong><br />In unserem sehr hochwertigen GRATIS Ratgeber<br />"THE ULTIMATE GUIDE" erfährt der Interessent bereits alle Details, was ihn in diesem PREMIUM-Videokurs erwartet. Niemand muss hier also die Katze im Sack kaufen!!!<br /><br />Anschließend erfolgt die Bewerbung über Follow-Up-Mails, wodurch die Salesrate nochmals deutlich gesteigert wird.</p>
-<p> </p>
-<hr />
-<p><br /><br /><strong>Du möchtest exklusiver Partner werden ?</strong> <br />Dann besuche unsere Partner-Webseite und bewirb dich mit deinem individuellen Konzept:<br /><a href="https://underground-traders.com/partner/" target="_blank" rel="noreferrer noopener"><span style="color:#0000ff;">https://underground-traders.com/partner</span></a></p>
-<p> </p>
-<p><strong>Sende uns deine Partner-Anfrage an diese Adresse:</strong> <span style="color:#0000ff;"><a style="color:#0000ff;">partner@underground-traders.com</a></span></p>
-<p> </p>
-<hr />
-<p> </p>
-<ul>
-<li>Für unsere Affiliate-Partner stellen wir hochwertiges Werbematerial (wie z.B. Werbebanner, hochwertige Werbevideos, Bilder etc.) kostenlos zur Verfügung</li>
-<li>Je nach Größe deiner Reichweite oder der Anzahl deiner Sales, passen wir deine Provision gerne nach oben an</li>
-</ul>
-<ul>
-<li>Als unser Partner arbeitest in einem Markt mit nur wenig Affiliate-Konkurrenz!!</li>
-</ul>
-<ul>
-<li>Durch unsere tägliche Bezahlwerbung genießt du als Partner einen hohen Wiedererkennungswert</li>
-</ul>
-<ul>
-<li>Bitte beachte die <strong>Kriterien für eine genehmigte Partnerschaft auf dieser Webseite:</strong><br /><a href="https://underground-traders.com/partner/" target="_blank" rel="noreferrer noopener"><span style="color:#0000ff;">https://underground-traders.com/partner</span></a></li>
-</ul>
-<p> </p>
-<hr />
-<p><br />Gerne unterstützen wir dich mit all unserer Erfahrung auf deinem Weg zum unabhängigen Partner.<br />Lass uns gemeinsam, Hand in Hand durchstarten und genieße die Vorteile einer Exklusiv-Partnschaft mit<br /><span style="color:#000080;"><strong>UNDERGROUND-TRADERS.COM</strong></span></p>
+**Vendor's marketplace description:** SECRETS OF ALGO-TRADING Das ultimative Komplettpaket für alle Trader, die Algo-Trading von Grund auf richtig erlernen möchten! informative LANDINGPAGE https://underground-traders.com/secrets-of-algotrading/ 100% TRUST In unserem sehr hochwertigen GRATIS Ratgeber "THE ULTIMATE GUIDE" erfährt der Interessent bereits alle Details, was ihn in diesem PREMIUM-Videokurs erwartet. Niemand muss hier also die Katze im Sack kaufen!!! Anschließend erfolgt die Bewerbung über Follow-Up-Mails, wodurch die Salesrate nochmals deutlich gesteigert wird. Du möchtest exklusiver Partner werden ? Dann besuche unsere Partner-Webseite und bewirb dich mit deinem individuellen Konzept: https://underground-traders.com/partner Sende uns deine Partner-Anfrage an diese Adresse: partner@underground-traders.com Für unsere Affiliate-Partner stellen wir hochwertiges Werbematerial (wie z.B. Werbebanner, hochwertige Werbevideos, Bilder etc.) kostenlos zur Verfügung Je nach Größe deiner Reichweite oder der Anzahl deiner Sales, passen wir deine Provision gerne nach oben an Als unser Partner arbeitest in einem Markt mit nur wenig Affiliate-Konkurrenz!! Durch unsere tägliche Bezahlwerbung genießt du als Partner einen hohen Wiedererkennungswert Bitte beachte die Kriterien für eine genehmigte Partnerschaft auf dieser Webseite: https://underground-traders.com/partner Gerne unterstützen wir dich mit all unserer Erfahrung auf deinem Weg zum unabhängigen Partner. Lass uns gemeinsam, Hand in Hand durchstarten und genieße die Vorteile einer Exklusiv-Partnschaft mit UNDERGROUND-TRADERS.COM
 
 ## 2. Links
 

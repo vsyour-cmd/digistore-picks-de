@@ -41,30 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Adventskalender leicht gemacht – E-Book zum Ausdrucken</h4>
-<p><strong>Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo</strong></p>
-<p><strong>Das Produkt</strong></p>
-<p>Das E-Book enthält 72 fertige Ideen für 24 besondere Tage als Kärtchen zum Ausdrucken, für Familie, Kinder und Partner, dazu die Zahlen von 1 bis 24 und fünf Bastelideen.</p>
-<p><strong>Die Zielgruppe</strong></p>
-<ul>
-<li>Eltern, die einen Kalender selbst machen wollen</li>
-<li>Paare, die etwas Persönliches verschenken</li>
-<li>Menschen, denen gekaufte Kalender zu teuer sind</li>
-</ul>
-<p><strong>Warum sich die Bewerbung für Sie lohnt</strong></p>
-<ul>
-<li><strong>Klarer Kaufanlass:</strong> Der Dezember steht vor der Tür</li>
-<li><strong>Günstiger Preis:</strong> einfache, schnelle Kaufentscheidung</li>
-<li><strong>Sofort-Download:</strong> kein Versand, keine Rückfragen, kein Abo</li>
-<li><strong>Nachfrage:</strong> stark gefragt von Oktober bis Anfang Dezember</li>
-<li><strong>Mehr verdienen:</strong> Weitere passende Produkte (Kalender und Planer 2027, Haushaltsbuch und Sparen) werden automatisch für Sie freigeschaltet</li>
-</ul>
-<p><strong>Wichtige Werbehinweise</strong></p>
-<ul>
-<li><strong>Keine Garantien</strong> auf bestimmte Beträge oder Ergebnisse versprechen</li>
-<li><strong>Keine fremden Marken oder Logos</strong> verwenden</li>
-<li><strong>Kein Spam</strong></li>
-</ul>
+**Vendor's marketplace description:** Adventskalender leicht gemacht – E-Book zum Ausdrucken Stand Oktober 2026 · Sofort-Download als PDF · Kein Abo Das Produkt Das E-Book enthält 72 fertige Ideen für 24 besondere Tage als Kärtchen zum Ausdrucken, für Familie, Kinder und Partner, dazu die Zahlen von 1 bis 24 und fünf Bastelideen. Die Zielgruppe Eltern, die einen Kalender selbst machen wollen Paare, die etwas Persönliches verschenken Menschen, denen gekaufte Kalender zu teuer sind Warum sich die Bewerbung für Sie lohnt Klarer Kaufanlass: Der Dezember steht vor der Tür Günstiger Preis: einfache, schnelle Kaufentscheidung Sofort-Download: kein Versand, keine Rückfragen, kein Abo Nachfrage: stark gefragt von Oktober bis Anfang Dezember Mehr verdienen: Weitere passende Produkte (Kalender und Planer 2027, Haushaltsbuch und Sparen) werden automatisch für Sie freigeschaltet Wichtige Werbehinweise Keine Garantien auf bestimmte Beträge oder Ergebnisse versprechen Keine fremden Marken oder Logos verwenden Kein Spam
 
 ## 2. Links
 

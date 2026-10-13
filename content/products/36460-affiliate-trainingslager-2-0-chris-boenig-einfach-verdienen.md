@@ -41,31 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#00ccff;">Produktinfos</span></h2>
-<p>Online-Kurs: Die Anleitung die mir von 0€ half bis zu 226€ Provision am Tag zu verdienen.</p>
-<h2><span style="color:#00ccff;">Vorteile für dich als Affiliate</span></h2>
-<p>✔ Hilft jedem beim Online Geld verdienen &amp; Affiliate Marketing <strong>(100% passend) </strong></p>
-<p>✔ Kostenloser Testzugang für dich auf Nachfrage = noch besser weiterempfehlen <strong>(100% ehrlich)</strong></p>
-<p>✔ <strong>80-100 % Provision auf Upsells+<a href="https://help.digistore24.com/de/articles/1176-lifetime-affiliate-regelung-aktivieren" target="_blank" rel="noreferrer noopener">Lifetime</a>: </strong>max. 110€ + Wettbewerb mit Preisen</p>
-<p>✔ <span style="text-decoration:underline;"><strong><a href="https://www.digistore24-app.com/account/partnerarea/193971/de" target="_blank" rel="noreferrer noopener">Große Auswahl optimierter Werbemittel</a></strong>:</span> klickstarke Bild- &amp; Textvorlagen die mir selbst Verkäufe brachten.</p>
-<h2><span style="color:#00ccff;">Verdienstaussicht als Affiliate </span></h2>
-<table style="border-color:#00CCFF;width:300px;" border="2">
-<tbody>
-<tr>
-<td><strong>Deine Verkäufe</strong></td>
-<td><strong>Deine Einnahmen</strong></td>
-</tr>
-<tr>
-<td>1</td>
-<td>bis zu 110€</td>
-</tr>
-<tr>
-<td>100</td>
-<td>bis zu 11000€</td>
-</tr>
-</tbody>
-</table>
-<div class="button" style="padding-top:10px;"><span style="background-color:#00ccff;color:#ffffff;"><strong><a style="background-color:#00ccff;color:#ffffff;" href="https://www.digistore24-app.com/account/partnerarea/193971/de" target="_blank" rel="noreferrer noopener">Alle Infos zum Affiliate Programm ▶</a></strong></span></div>
+**Vendor's marketplace description:** Produktinfos Online-Kurs: Die Anleitung die mir von 0€ half bis zu 226€ Provision am Tag zu verdienen. Vorteile für dich als Affiliate ✔ Hilft jedem beim Online Geld verdienen & Affiliate Marketing (100% passend) ✔ Kostenloser Testzugang für dich auf Nachfrage = noch besser weiterempfehlen (100% ehrlich) ✔ 80-100 % Provision auf Upsells+ Lifetime : max. 110€ + Wettbewerb mit Preisen ✔ Große Auswahl optimierter Werbemittel : klickstarke Bild- & Textvorlagen die mir selbst Verkäufe brachten. Verdienstaussicht als Affiliate Deine Verkäufe Deine Einnahmen 1 bis zu 110€ 100 bis zu 11000€ Alle Infos zum Affiliate Programm ▶
 
 ## 2. Links
 

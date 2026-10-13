@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Online Videokurs für Hobbywinzer bzw. Weinmacher. In der Schritt-für-Schritt Anleitung wird genau erklärt, wie man seinen eigenen Wein Zuhause produzieren kann.</p>
-<p>Die Webseite wurde auf die Kundengruppe optimiert. Hauptsächlich ältere Menschen mit gutem Einkommen interessieren sich für dieses Hobby. Meine Recherche zum Keyword "Wein selber machen" kam zu folgenden Ergbnis (durchschnittliche Suchhäufigkeit):</p>
-<p>Jan 1.300 Suchanfragen<br />Feb 1.000<br />Mär 1.000<br />Apr 1.300<br />Mai 1.600<br />Jun 2.400<br /><strong>Juli 3.600</strong><br /><strong>Aug 5.400</strong><br /><strong>Sep 9.900</strong><br /><strong>Okt 6.600</strong><br />Nov 2.400<br />Dez 1.900</p>
-<p>Durchschnittlich 2.900</p>
-<p>Es handelt sich bei diesem Produkt also um ein saisonales, da die meisten Früchte für die Weinproduktion Mitte bis Ende des Jahres reif werden. Es lohnt sich also eine verstärkte Bewerbung zwischen Juli bis November.</p>
-<p>Falls bestimmte Werbemittel oder dergleichen benötigt werden kann mir unter <a href="mailto:sergio@aktivautark.de">sergio@aktivautark.de</a> geschrieben werden.</p>
+**Vendor's marketplace description:** Online Videokurs für Hobbywinzer bzw. Weinmacher. In der Schritt-für-Schritt Anleitung wird genau erklärt, wie man seinen eigenen Wein Zuhause produzieren kann. Die Webseite wurde auf die Kundengruppe optimiert. Hauptsächlich ältere Menschen mit gutem Einkommen interessieren sich für dieses Hobby. Meine Recherche zum Keyword "Wein selber machen" kam zu folgenden Ergbnis (durchschnittliche Suchhäufigkeit): Jan 1.300 Suchanfragen Feb 1.000 Mär 1.000 Apr 1.300 Mai 1.600 Jun 2.400 Juli 3.600 Aug 5.400 Sep 9.900 Okt 6.600 Nov 2.400 Dez 1.900 Durchschnittlich 2.900 Es handelt sich bei diesem Produkt also um ein saisonales, da die meisten Früchte für die Weinproduktion Mitte bis Ende des Jahres reif werden. Es lohnt sich also eine verstärkte Bewerbung zwischen Juli bis November. Falls bestimmte Werbemittel oder dergleichen benötigt werden kann mir unter sergio@aktivautark.de geschrieben werden.
 
 ## 2. Links
 

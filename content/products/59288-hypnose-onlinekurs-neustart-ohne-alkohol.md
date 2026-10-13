@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit diesem Hypnose-Onlinekurs von Pet Anthony befreist Du Dich von Deinem Hang zum Alkohol und genießt Dein Leben in Gesundeheit und Freiheit.</p>
-<p>Dieser 5-wöchige Kurs enthält 3 spezielle Hypnosen und inkludiert eine 4-wöchige Nachbetreuung per e-mail. </p>
-<p>Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.</p>
+**Vendor's marketplace description:** Mit diesem Hypnose-Onlinekurs von Pet Anthony befreist Du Dich von Deinem Hang zum Alkohol und genießt Dein Leben in Gesundeheit und Freiheit. Dieser 5-wöchige Kurs enthält 3 spezielle Hypnosen und inkludiert eine 4-wöchige Nachbetreuung per e-mail. Pet Anthony ist erfolgreiche Hypnosetherapeutin, Autorin und Betreiberin des gleichnamigen Youtube Kanals mit mehr als 70.000 Abonnenten. Sie hat sich auf dysfunktionale Familiensysteme, Kindheit und die transgenerationale Weitergabe von Trauma spezialisiert.
 
 ## 2. Links
 

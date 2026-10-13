@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Digitales Arbeitsbuch: FÄHIGKEIT ≠ BERECHTIGUNG. Agenten-Regelwerk + Agenten-Pass. Premium 49,80 €, 50 % Commission. Klare Salespage, Digistore Checkout. Bildungs-Workbook — keine Rechtsberatung, keine Einkommensversprechen.</p>
+**Vendor's marketplace description:** Digitales Arbeitsbuch: FÄHIGKEIT ≠ BERECHTIGUNG. Agenten-Regelwerk + Agenten-Pass. Premium 49,80 €, 50 % Commission. Klare Salespage, Digistore Checkout. Bildungs-Workbook — keine Rechtsberatung, keine Einkommensversprechen.
 
 ## 2. Links
 

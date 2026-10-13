@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Familien-Vermögen<br />aufbauen und schützen</h1>
-<div>Verdiene 7 € Provision als Affiliate-Partner von Professor Moneys neuem Buch</div>
-<div>
-<h2>Was der Leser aus diesem Buch lernen kann?</h2>
-<ul>
-<li>was Eltern konkret tun müssen, damit sie ihren finanziellen Wohlstand aufbauen und erhalten?</li>
-<li>die Lebens- oder Rentenversicherung, der Bausparvertrag und Riester-Vertrag im Test</li>
-<li>wie man die finanzielle Zukunft seiner Kinder sichert</li>
-<li>wie man sein Geld vor dem großen Crash bewahrt</li>
-<li>wie man sein Geld jetzt und im Rentenalter schützt</li>
-<li>warum die Inflation gerade für Eltern existenzbedrohend ist</li>
-<li>wie man die größten Anlegerfehler vermeidet</li>
-</ul>
-<p>Solltest du Fragen haben, dann schreibe uns jederzeit gerne eine E-Mail an: <a>info@professor-money.de</a></p>
-</div>
+**Vendor's marketplace description:** Familien-Vermögen aufbauen und schützen Verdiene 7 € Provision als Affiliate-Partner von Professor Moneys neuem Buch Was der Leser aus diesem Buch lernen kann? was Eltern konkret tun müssen, damit sie ihren finanziellen Wohlstand aufbauen und erhalten? die Lebens- oder Rentenversicherung, der Bausparvertrag und Riester-Vertrag im Test wie man die finanzielle Zukunft seiner Kinder sichert wie man sein Geld vor dem großen Crash bewahrt wie man sein Geld jetzt und im Rentenalter schützt warum die Inflation gerade für Eltern existenzbedrohend ist wie man die größten Anlegerfehler vermeidet Solltest du Fragen haben, dann schreibe uns jederzeit gerne eine E-Mail an: info@professor-money.de
 
 ## 2. Links
 

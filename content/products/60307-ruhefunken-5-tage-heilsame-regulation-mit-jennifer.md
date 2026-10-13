@@ -41,25 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>RUHEFUNKEN – 5 Tage heilsam &amp; reguliert zu dir</strong></p>
-<p>Mit der Traumaorientierten Körperzentrierten Hypnose und Jennifer als deine Begleiterin.</p>
-<ul>
-<li>Fühlst du dich manchmal so, als würdest du dich im Kontakt mit anderen verlieren?</li>
-<li>Als wäre deine Aufmerksamkeit mehr beim Gegenüber als bei dir selbst?</li>
-<li>Versuchst du zu gefallen, dich anzupassen, bist gedanklich in der Vergangenheit oder in der Zukunft – und spürst dabei, dass du dich nicht wirklich gehalten, sicher und stabil fühlst?</li>
-<li>Hängt dir der Tag und Momente lange nach und du zweifelst an dir und deinem Verhalten?</li>
-<li>Suchst du Sicherheit &amp; Halt in guten Rahmenbedingungen während du innerlich in Unruhe und Unsicherheit bist?</li>
-</ul>
-<p><em>Dann ist RUHEFUNKEN genau das Richtige für dich.</em></p>
-<p>Hier geht es darum, über Wissen hinauszugehen und in deinem Körper eine neue, tiefe Erfahrung von Regulation, Sicherheit, Gehaltensein und Genährtsein zu machen – ohne dabei beim anderen oder in Gedanken in der Vergangenheit oder Zukunft festzuhängen.</p>
-<p> </p>
-<p><strong>Lass dich 5 Tage mit 5 Traumaorientierten Körperzentrierten Hypnosen in ein Gefühl von Sicherheit, Halt &amp; Wert geleiten.</strong></p>
-<p>Den Zugang zu allen Inhalten im persönlichen Online-Bereich und über die App auf deinem Handy hast du für 5 Tage. </p>
-<p> </p>
-<p>Ich freue mich sehr, dass du diesen Weg für dich wählst – und dich selbst über deinen Körper und ein reguliertes Nervensystem wiederfindest.</p>
-<p> </p>
-<p><strong>Deine </strong></p>
-<p><strong>Jennifer</strong></p>
+**Vendor's marketplace description:** RUHEFUNKEN – 5 Tage heilsam & reguliert zu dir Mit der Traumaorientierten Körperzentrierten Hypnose und Jennifer als deine Begleiterin. Fühlst du dich manchmal so, als würdest du dich im Kontakt mit anderen verlieren? Als wäre deine Aufmerksamkeit mehr beim Gegenüber als bei dir selbst? Versuchst du zu gefallen, dich anzupassen, bist gedanklich in der Vergangenheit oder in der Zukunft – und spürst dabei, dass du dich nicht wirklich gehalten, sicher und stabil fühlst? Hängt dir der Tag und Momente lange nach und du zweifelst an dir und deinem Verhalten? Suchst du Sicherheit & Halt in guten Rahmenbedingungen während du innerlich in Unruhe und Unsicherheit bist? Dann ist RUHEFUNKEN genau das Richtige für dich. Hier geht es darum, über Wissen hinauszugehen und in deinem Körper eine neue, tiefe Erfahrung von Regulation, Sicherheit, Gehaltensein und Genährtsein zu machen – ohne dabei beim anderen oder in Gedanken in der Vergangenheit oder Zukunft festzuhängen. Lass dich 5 Tage mit 5 Traumaorientierten Körperzentrierten Hypnosen in ein Gefühl von Sicherheit, Halt & Wert geleiten. Den Zugang zu allen Inhalten im persönlichen Online-Bereich und über die App auf deinem Handy hast du für 5 Tage. Ich freue mich sehr, dass du diesen Weg für dich wählst – und dich selbst über deinen Körper und ein reguliertes Nervensystem wiederfindest. Deine Jennifer
 
 ## 2. Links
 

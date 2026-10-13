@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Liebe Affiliates,</p>
-<p>Immobilienmakler gehören zu den kaufkräftigsten Zielgruppen im B2B-Bereich. Mit diesem fertigen Copy-&amp;-Paste Prompt-Kit lösen wir ihr größtes Problem: Zeitmangel beim Schreiben von Exposés und Social Media Content.</p>
-<p>Warum es sich für Sie lohnt, dieses Produkt zu bewerben:<br />- Sensationelle 50 % Provision (über 14 € Netto-Verdienst pro Verkauf für Sie!)<br />- Extrem hohe Conversion-Rate dank des unschlagbaren Impulskauf-Preises von nur 29 €.<br />- Absolut keine Storno-Quote, da es sich um ein sofort nutzbares, digitales Download-Produkt handelt.</p>
-<p>Nutzen Sie Ihre Reichweite in den Bereichen Immobilien, Finanzen, Marketing oder KI und sichern Sie sich passive Einnahmen auf Autopilot!</p>
+**Vendor's marketplace description:** Liebe Affiliates, Immobilienmakler gehören zu den kaufkräftigsten Zielgruppen im B2B-Bereich. Mit diesem fertigen Copy-&-Paste Prompt-Kit lösen wir ihr größtes Problem: Zeitmangel beim Schreiben von Exposés und Social Media Content. Warum es sich für Sie lohnt, dieses Produkt zu bewerben: - Sensationelle 50 % Provision (über 14 € Netto-Verdienst pro Verkauf für Sie!) - Extrem hohe Conversion-Rate dank des unschlagbaren Impulskauf-Preises von nur 29 €. - Absolut keine Storno-Quote, da es sich um ein sofort nutzbares, digitales Download-Produkt handelt. Nutzen Sie Ihre Reichweite in den Bereichen Immobilien, Finanzen, Marketing oder KI und sichern Sie sich passive Einnahmen auf Autopilot!
 
 ## 2. Links
 

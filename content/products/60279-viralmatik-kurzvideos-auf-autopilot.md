@@ -41,41 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2 style="text-align:center;"><span style="background-color:#fedc31;color:#000000;"><strong>Empfehle Viralmatik – Kurzvideos auf Autopilot – und verdiene an jeder Zahlung mit</strong></span></h2>
-<p style="text-align:center;"><strong>25 % Provision auf jede Zahlung · Einstieg für deine Leute: 7 Tage für 1 € · danach automatisch 199 € pro Jahr</strong></p>
-<p><a href="https://viralmatik.com/partnerprogramm" target="_blank" rel="noreferrer noopener"><strong>&gt;&gt; Hier geht es zum Partnerprogramm mit allen Werbemitteln</strong></a></p>
-<hr />
-<h3><strong>Was ist Viralmatik?</strong></h3>
-<p>Viralmatik ist eine KI-Software, die jeden Tag ein fertiges Kurzvideo baut – mit Text, KI-Stimme, Bildern, Untertiteln und Musik – und es <strong>selbst auf Instagram und TikTok postet</strong>. Ohne Kamera, ohne Gesicht, ohne Schnitt.</p>
-<p>Damit löst Viralmatik das Problem, an dem viele scheitern, die online sichtbar werden wollen: <strong>jeden Tag dranbleiben</strong>.</p>
-<h3><strong>Was deine Kunden bekommen</strong></h3>
-<ul>
-<li>Jeden Tag ein neues Kurzvideo – automatisch gebaut</li>
-<li>Automatisches Posten auf Instagram und TikTok, zu fester Uhrzeit</li>
-<li>Keine Kosten pro Video, keine Credits</li>
-<li>Viral-Kompass: lernt aus den Zahlen und baut mehr von dem, was läuft</li>
-<li>5 Starthelfer als PDF (u. a. 30-Tage-Startplan, Hook-Speicher mit 120 Aufhängern)</li>
-<li>Geführte Einrichtung in rund 10 Minuten</li>
-</ul>
-<h3><strong>Warum es sich gut empfehlen lässt</strong></h3>
-<ul>
-<li><strong>Kleine Hürde:</strong> 7 Tage für 1 € – leichte Entscheidung für deine Leser und Follower</li>
-<li><strong>Video-Verkaufsseite:</strong> ein 6-Minuten-Video erklärt alles – du musst nichts erklären</li>
-<li><strong>Breite Zielgruppe:</strong> Selbstständige, Coaches, Creator, Einsteiger – auch 45+ und ohne Technik-Kenntnisse</li>
-<li><strong>Wiederkehrend:</strong> Du bist bei jeder Verlängerung (199 € pro Jahr) mit 25 % dabei</li>
-</ul>
-<h3><strong>Dein Verdienst</strong></h3>
-<ul>
-<li>25 % Provision auf jede Zahlung des Kunden – Einstieg und jede Verlängerung (Digistore-Berechnung vom Nettobetrag)</li>
-<li>Automatische Freischaltung – sofort loslegen</li>
-<li>Abrechnung und Auszahlung über Digistore24</li>
-</ul>
-<h3><strong>Werbemittel</strong></h3>
-<p>E-Mail-Vorlagen, Social-Media-Posts und Werbebilder findest du auf der Partnerseite – inklusive Link-Generator für deinen persönlichen Partnerlink.</p>
-<p><a href="https://viralmatik.com/partnerprogramm" target="_blank" rel="noreferrer noopener"><strong>&gt;&gt; Zu den Werbemitteln</strong></a></p>
-<p><strong>Faire Regeln:</strong> Bitte keine Verdienst- oder Einkommensversprechen, kein Spam, Werbung gleich am Anfang kennzeichnen, Mails nur an Abonnenten mit Einwilligung und keine Anzeigen auf den Namen „Viralmatik“ in Suchmaschinen.</p>
-<p>Fragen? Schreib uns: <a href="mailto:info@supportmanager.org">info@supportmanager.org</a></p>
-<p>Viel Erfolg und eine Menge Provisionen wünscht<br />Torsten Jaeger</p>
+**Vendor's marketplace description:** Empfehle Viralmatik – Kurzvideos auf Autopilot – und verdiene an jeder Zahlung mit 25 % Provision auf jede Zahlung · Einstieg für deine Leute: 7 Tage für 1 € · danach automatisch 199 € pro Jahr >> Hier geht es zum Partnerprogramm mit allen Werbemitteln Was ist Viralmatik? Viralmatik ist eine KI-Software, die jeden Tag ein fertiges Kurzvideo baut – mit Text, KI-Stimme, Bildern, Untertiteln und Musik – und es selbst auf Instagram und TikTok postet . Ohne Kamera, ohne Gesicht, ohne Schnitt. Damit löst Viralmatik das Problem, an dem viele scheitern, die online sichtbar werden wollen: jeden Tag dranbleiben . Was deine Kunden bekommen Jeden Tag ein neues Kurzvideo – automatisch gebaut Automatisches Posten auf Instagram und TikTok, zu fester Uhrzeit Keine Kosten pro Video, keine Credits Viral-Kompass: lernt aus den Zahlen und baut mehr von dem, was läuft 5 Starthelfer als PDF (u. a. 30-Tage-Startplan, Hook-Speicher mit 120 Aufhängern) Geführte Einrichtung in rund 10 Minuten Warum es sich gut empfehlen lässt Kleine Hürde: 7 Tage für 1 € – leichte Entscheidung für deine Leser und Follower Video-Verkaufsseite: ein 6-Minuten-Video erklärt alles – du musst nichts erklären Breite Zielgruppe: Selbstständige, Coaches, Creator, Einsteiger – auch 45+ und ohne Technik-Kenntnisse Wiederkehrend: Du bist bei jeder Verlängerung (199 € pro Jahr) mit 25 % dabei Dein Verdienst 25 % Provision auf jede Zahlung des Kunden – Einstieg und jede Verlängerung (Digistore-Berechnung vom Nettobetrag) Automatische Freischaltung – sofort loslegen Abrechnung und Auszahlung über Digistore24 Werbemittel E-Mail-Vorlagen, Social-Media-Posts und Werbebilder findest du auf der Partnerseite – inklusive Link-Generator für deinen persönlichen Partnerlink. >> Zu den Werbemitteln Faire Regeln: Bitte keine Verdienst- oder Einkommensversprechen, kein Spam, Werbung gleich am Anfang kennzeichnen, Mails nur an Abonnenten mit Einwilligung und keine Anzeigen auf den Namen „Viralmatik“ in Suchmaschinen. Fragen? Schreib uns: info@supportmanager.org Viel Erfolg und eine Menge Provisionen wünscht Torsten Jaeger
 
 ## 2. Links
 

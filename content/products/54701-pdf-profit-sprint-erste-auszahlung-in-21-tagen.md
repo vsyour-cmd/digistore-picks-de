@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du startest ohne Vorwissen und willst schnell Ergebnisse. Dieser kompakte Guide zeigt dir, wie du dein erstes PDF oder einen Affiliate Deal in 21 Tagen umsetzt und deine erste Auszahlung erreichst. Du bekommst klare Tagesaufgaben, kurze Checklisten und einfache Schritte. Du nutzt wenige Tools. Du arbeitest ohne Chaos. Du kommst in 21 Tagen zum Ergebnis.</p>
-<p><strong>Inhalt:</strong><br />• 21-Tage-Plan mit täglichen Aufgaben<br />• Checklisten für Ziel, Nische, Angebot und Content<br />• Schritt für Schritt Anleitung für dein erstes PDF<br />• Minimal Toolstack für schnelle Umsetzung<br />• Trafficplan mit Reels, Communities und Suchposts<br />• Vorlage für Landingpage, Zahlungslink und Tracking<br />• Fehlerliste und Quickstart-Seite</p>
-<p><strong>Für wen:</strong><br />Für Einsteiger. Für alle, die erste digitale Einnahmen wollen. Für Creator, die ihr erstes PDF schnell starten wollen.</p>
-<p><strong>Lieferung: Sofortdownload als PDF.</strong></p>
+**Vendor's marketplace description:** Du startest ohne Vorwissen und willst schnell Ergebnisse. Dieser kompakte Guide zeigt dir, wie du dein erstes PDF oder einen Affiliate Deal in 21 Tagen umsetzt und deine erste Auszahlung erreichst. Du bekommst klare Tagesaufgaben, kurze Checklisten und einfache Schritte. Du nutzt wenige Tools. Du arbeitest ohne Chaos. Du kommst in 21 Tagen zum Ergebnis. Inhalt: • 21-Tage-Plan mit täglichen Aufgaben • Checklisten für Ziel, Nische, Angebot und Content • Schritt für Schritt Anleitung für dein erstes PDF • Minimal Toolstack für schnelle Umsetzung • Trafficplan mit Reels, Communities und Suchposts • Vorlage für Landingpage, Zahlungslink und Tracking • Fehlerliste und Quickstart-Seite Für wen: Für Einsteiger. Für alle, die erste digitale Einnahmen wollen. Für Creator, die ihr erstes PDF schnell starten wollen. Lieferung: Sofortdownload als PDF.
 
 ## 2. Links
 

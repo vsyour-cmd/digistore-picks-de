@@ -41,8 +41,6 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2> </h2>
-
 ## 2. Links
 
 - **Promo link (affiliate):** https://www.digistore24.com/redir/55085/adminstore/

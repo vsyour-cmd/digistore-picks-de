@@ -41,43 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>E-MAILS, DIE VERKAUFEN</h2>
-<h3>Entdecke die Formeln hinter E-Mails, die geöffnet, gelesen und geklickt werden</h3>
-<p>Du kannst das beste Angebot der Welt haben – wenn deine E-Mails <strong>nicht geöffnet und gelesen werden</strong>, wird kaum jemand davon erfahren.</p>
-<p>Genau hier setzt dieser Kurs an.</p>
-<p>Du lernst Schritt für Schritt, wie du <strong>Betreffzeilen und E-Mails entwickelst, die Aufmerksamkeit erzeugen, Interesse wecken und deine Leser gezielt zur nächsten Handlung führen.</strong></p>
-<p>Statt jedes Mal vor einem leeren Dokument zu sitzen und zu überlegen, was du schreiben sollst, bekommst du <strong>konkrete Formeln, Beispiele, Tools und Strategien</strong>, die du für dein eigenes E-Mail-Marketing einsetzen kannst.</p>
-<h3>Das bekommst du im Kurs:</h3>
-<ul>
-<li>
-<p><strong>Bewährte Formeln für aufmerksamkeitsstarke Headlines und Betreffzeilen</strong>, mit denen du deine Zielgruppe neugierig auf deine E-Mails machst</p>
-</li>
-<li>
-<p>Empfehlungen für <strong>professionelle Tools</strong>, mit denen du deine Zielgruppe gezielter erreichen und dein E-Mail-Marketing effizienter gestalten kannst</p>
-</li>
-<li>
-<p>Strategien für <strong>organische und teilbare Kampagnen</strong>, mit denen du deine E-Mail-Liste auch ohne hohe Werbeausgaben weiter aufbauen kannst</p>
-</li>
-<li>
-<p>Eine Übersicht wirkungsvoller <strong>Wörter und Formulierungen</strong>, die Aufmerksamkeit, Neugier und Handlungsbereitschaft fördern können</p>
-</li>
-<li>
-<p>Zahlreiche <strong>erprobte Betreffzeilen und Headline-Beispiele</strong>, an denen du dich orientieren und die du für dein eigenes Business adaptieren kannst</p>
-</li>
-<li>
-<p>Methoden, um Betreffzeilen für unterschiedliche Situationen zu entwickeln – von <strong>Neugier und Pain Points bis hin zu Angeboten, Reaktivierung und Personalisierung</strong></p>
-</li>
-<li>
-<p>und weitere praktische Strategien für E-Mails, die nicht einfach nur im Postfach landen, sondern <strong>wahrgenommen werden</strong></p>
-</li>
-</ul>
-<h3>Schluss mit langweiligen Betreffzeilen</h3>
-<p>Deine Betreffzeile entscheidet innerhalb weniger Augenblicke darüber, ob deine E-Mail überhaupt eine Chance bekommt.</p>
-<p>Deshalb lernst du nicht einfach nur, „schöner“ zu schreiben.</p>
-<p>Du bekommst ein System, mit dem du <strong>gezielt Aufmerksamkeit erzeugst und deine Botschaft auf wenige wirkungsvolle Worte reduzierst.</strong></p>
-<p>Ob Newsletter, Verkaufs-E-Mail, Launch oder Follow-up:</p>
-<p><strong>Du erhältst das Handwerkszeug, um aus gewöhnlichen E-Mails verkaufsorientierte Kommunikation zu machen.</strong></p>
-<p>Ideal für Unternehmer, Affiliates, Coaches, Dienstleister und Online-Marketer, die <strong>mehr aus ihrer bestehenden E-Mail-Liste herausholen und gleichzeitig neue Kontakte gewinnen möchten.</strong></p>
+**Vendor's marketplace description:** E-MAILS, DIE VERKAUFEN Entdecke die Formeln hinter E-Mails, die geöffnet, gelesen und geklickt werden Du kannst das beste Angebot der Welt haben – wenn deine E-Mails nicht geöffnet und gelesen werden , wird kaum jemand davon erfahren. Genau hier setzt dieser Kurs an. Du lernst Schritt für Schritt, wie du Betreffzeilen und E-Mails entwickelst, die Aufmerksamkeit erzeugen, Interesse wecken und deine Leser gezielt zur nächsten Handlung führen. Statt jedes Mal vor einem leeren Dokument zu sitzen und zu überlegen, was du schreiben sollst, bekommst du konkrete Formeln, Beispiele, Tools und Strategien , die du für dein eigenes E-Mail-Marketing einsetzen kannst. Das bekommst du im Kurs: Bewährte Formeln für aufmerksamkeitsstarke Headlines und Betreffzeilen , mit denen du deine Zielgruppe neugierig auf deine E-Mails machst Empfehlungen für professionelle Tools , mit denen du deine Zielgruppe gezielter erreichen und dein E-Mail-Marketing effizienter gestalten kannst Strategien für organische und teilbare Kampagnen , mit denen du deine E-Mail-Liste auch ohne hohe Werbeausgaben weiter aufbauen kannst Eine Übersicht wirkungsvoller Wörter und Formulierungen , die Aufmerksamkeit, Neugier und Handlungsbereitschaft fördern können Zahlreiche erprobte Betreffzeilen und Headline-Beispiele , an denen du dich orientieren und die du für dein eigenes Business adaptieren kannst Methoden, um Betreffzeilen für unterschiedliche Situationen zu entwickeln – von Neugier und Pain Points bis hin zu Angeboten, Reaktivierung und Personalisierung und weitere praktische Strategien für E-Mails, die nicht einfach nur im Postfach landen, sondern wahrgenommen werden Schluss mit langweiligen Betreffzeilen Deine Betreffzeile entscheidet innerhalb weniger Augenblicke darüber, ob deine E-Mail überhaupt eine Chance bekommt. Deshalb lernst du nicht einfach nur, „schöner“ zu schreiben. Du bekommst ein System, mit dem du gezielt Aufmerksamkeit erzeugst und deine Botschaft auf wenige wirkungsvolle Worte reduzierst. Ob Newsletter, Verkaufs-E-Mail, Launch oder Follow-up: Du erhältst das Handwerkszeug, um aus gewöhnlichen E-Mails verkaufsorientierte Kommunikation zu machen. Ideal für Unternehmer, Affiliates, Coaches, Dienstleister und Online-Marketer, die mehr aus ihrer bestehenden E-Mail-Liste herausholen und gleichzeitig neue Kontakte gewinnen möchten.
 
 ## 2. Links
 

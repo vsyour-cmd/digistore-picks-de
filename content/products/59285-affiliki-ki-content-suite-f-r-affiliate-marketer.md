@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>AffiliKI ist eine deutschsprachige Windows-Software, die Affiliate-Marketern hilft, KI-gestützt Content für ihre Promotions zu erstellen – ohne Abo, mit einer einmaligen Zahlung.</strong></p>
-<p>Warum sich die Bewerbung lohnt:</p>
-<ul>
-<li>50 % Provision pro Verkauf</li>
-<li>Klare, wachsende Nische: deutschsprachige Affiliate-Marketer, die KI-Tools für ihre Arbeit suchen</li>
-<li>Einmalzahlung statt Abo – leichter zu verkaufen, kein "schon wieder ein Abo"-Einwand</li>
-<li>Eigenständiges Desktop-Tool, kein aufgesetzter Hype, klar abgegrenztes Produkt</li>
-<li>Fertiges Affiliate-Support-Material vorhanden (Argumente, Texte, Vorlagen zum Copy-Paste)</li>
-</ul>
-<p>Zielgruppe: Affiliate-Marketer, Nebenberufler und Online-Business-Einsteiger im deutschsprachigen Raum, die ihren Content-Prozess vereinfachen wollen.<br /><br /><strong>Systemvoraussetzung:</strong> Windows 10 oder 11 (64-Bit). Nicht für Mac oder Linux.</p>
+**Vendor's marketplace description:** AffiliKI ist eine deutschsprachige Windows-Software, die Affiliate-Marketern hilft, KI-gestützt Content für ihre Promotions zu erstellen – ohne Abo, mit einer einmaligen Zahlung. Warum sich die Bewerbung lohnt: 50 % Provision pro Verkauf Klare, wachsende Nische: deutschsprachige Affiliate-Marketer, die KI-Tools für ihre Arbeit suchen Einmalzahlung statt Abo – leichter zu verkaufen, kein "schon wieder ein Abo"-Einwand Eigenständiges Desktop-Tool, kein aufgesetzter Hype, klar abgegrenztes Produkt Fertiges Affiliate-Support-Material vorhanden (Argumente, Texte, Vorlagen zum Copy-Paste) Zielgruppe: Affiliate-Marketer, Nebenberufler und Online-Business-Einsteiger im deutschsprachigen Raum, die ihren Content-Prozess vereinfachen wollen. Systemvoraussetzung: Windows 10 oder 11 (64-Bit). Nicht für Mac oder Linux.
 
 ## 2. Links
 

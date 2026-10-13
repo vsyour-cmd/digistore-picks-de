@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Individuelles Beziehungscoaching mit vedischer Horoskop-Analyse</h3>
-<p>Tiefenanalyse unbewusster Blockaden für eine Neuausrichtung und Impulssetzung für lebendige Beziehungen. - Persönlichkeitsentwicklung -</p>
-<p>Eine eigene etablierte Website als Beziehungscoach, Heilpraktikerin, Astrologin und Autorin und zufriedene Klientenstimmen unter: <a href="http://www.naturheilpraxis-hoeck.de">www.naturheilpraxis-hoeck.de</a> </p>
-<p>Cookielaufzeit: Standardeinstellung Digistore24 (üblich 180 Tage)</p>
-<p>Gerne gebe ich 30% Provision bei Verkauf.</p>
-<p>Zuverlässiges Tracking über Digistore24</p>
-<p>Suche gerne den Kontakt über <a href="mailto:hpheidi.hoeck@gmail.com">hpheidi.hoeck@gmail.com</a> bezüglich weiteres Werbematerial, Texte, Bilder</p>
-<p> </p>
+**Vendor's marketplace description:** Individuelles Beziehungscoaching mit vedischer Horoskop-Analyse Tiefenanalyse unbewusster Blockaden für eine Neuausrichtung und Impulssetzung für lebendige Beziehungen. - Persönlichkeitsentwicklung - Eine eigene etablierte Website als Beziehungscoach, Heilpraktikerin, Astrologin und Autorin und zufriedene Klientenstimmen unter: www.naturheilpraxis-hoeck.de Cookielaufzeit: Standardeinstellung Digistore24 (üblich 180 Tage) Gerne gebe ich 30% Provision bei Verkauf. Zuverlässiges Tracking über Digistore24 Suche gerne den Kontakt über hpheidi.hoeck@gmail.com bezüglich weiteres Werbematerial, Texte, Bilder
 
 ## 2. Links
 

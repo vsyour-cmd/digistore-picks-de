@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Mini-E-Buch– Einfach starten,sicher aufbauen</strong></h2>
-<h3><strong>Dein Online-Einkommen ab 40+ mit System – Mit Struktur statt Stress baust du dir Schritt für Schritt ein Online-Einkommen auf, das zu deinem Leben passt.</strong></h3>
-<h3><strong>Das bekommst Du im Mini-E-Buch:</strong></h3>
-<h3><strong>Kapitel 1: Ich sehe dich</strong></h3>
-<h3><strong>Kapitel 2: Die 3 größten Fallen</strong></h3>
-<h3><strong>Kapitel 3: Dein System, das zu Dir passt</strong></h3>
-<h3><strong>Kapitel 4: Das 3-Säulen-Modell</strong></h3>
-<h3><strong>Kapitel 5: Die 3-Sofortschritte</strong></h3>
-<h3><strong>Kapitel 6: Bleib dran</strong></h3>
-<h3><strong>Kapitel 7: Anfängerfehler vermeiden</strong></h3>
+**Vendor's marketplace description:** Mini-E-Buch– Einfach starten,sicher aufbauen Dein Online-Einkommen ab 40+ mit System – Mit Struktur statt Stress baust du dir Schritt für Schritt ein Online-Einkommen auf, das zu deinem Leben passt. Das bekommst Du im Mini-E-Buch: Kapitel 1: Ich sehe dich Kapitel 2: Die 3 größten Fallen Kapitel 3: Dein System, das zu Dir passt Kapitel 4: Das 3-Säulen-Modell Kapitel 5: Die 3-Sofortschritte Kapitel 6: Bleib dran Kapitel 7: Anfängerfehler vermeiden
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ein hochrelevantes Zukunftsthema mit enormem Informations- und Diskussionspotenzial:</p>
-<p>Dieses Buch beleuchtet Deutschlands Energiewende fundiert und verständlich – von Kohleausstieg, Atomkraft und Erdgasabhängigkeit bis hin zu erneuerbaren Energien, politischen Entscheidungen und wirtschaftlichen Auswirkungen.</p>
-<p>Es spricht eine breite Zielgruppe an, darunter politisch Interessierte, Unternehmer, Investoren, Studenten und Menschen, die die Zukunft der Energieversorgung verstehen wollen.</p>
-<p>Durch die Kombination aus Aktualität, wirtschaftlicher Relevanz und gesellschaftlicher Brisanz bietet das Buch starke Verkaufsargumente für Content-Marketing, News-Traffic und themenspezifische Zielgruppen.</p>
-<p>Ein spannendes Produkt für Affiliates, die von einem dauerhaft präsenten Zukunftsmarkt profitieren möchten.</p>
+**Vendor's marketplace description:** Ein hochrelevantes Zukunftsthema mit enormem Informations- und Diskussionspotenzial: Dieses Buch beleuchtet Deutschlands Energiewende fundiert und verständlich – von Kohleausstieg, Atomkraft und Erdgasabhängigkeit bis hin zu erneuerbaren Energien, politischen Entscheidungen und wirtschaftlichen Auswirkungen. Es spricht eine breite Zielgruppe an, darunter politisch Interessierte, Unternehmer, Investoren, Studenten und Menschen, die die Zukunft der Energieversorgung verstehen wollen. Durch die Kombination aus Aktualität, wirtschaftlicher Relevanz und gesellschaftlicher Brisanz bietet das Buch starke Verkaufsargumente für Content-Marketing, News-Traffic und themenspezifische Zielgruppen. Ein spannendes Produkt für Affiliates, die von einem dauerhaft präsenten Zukunftsmarkt profitieren möchten.
 
 ## 2. Links
 

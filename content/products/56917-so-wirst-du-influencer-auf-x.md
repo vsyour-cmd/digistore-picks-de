@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Reichweite aufbauen, eine loyale Community binden und mit X Geld verdienen</strong></p>
-<p>Auf X entstehen die Trends, Meinungen und Gespräche, die das Netz bewegen – und als Influencer kannst du mittendrin sein. Dieses E-Book zeigt dir, wie du mit Threads, Quote-Posts und konsequentem Build-in-public eine loyale Community aufbaust, die nicht nur liked, sondern bookmarkt, teilt und empfiehlt. Du lernst, wie du den X-Algorithmus für virale Reichweite nutzt, wie du dich für X Premium und den Ads-Revenue-Share qualifizierst und wie du Markenkooperationen akquirierst, die fair bezahlt sind. Dazu: alle Einnahmequellen auf X im Überblick – von Creator-Monetarisierung über Sponsoring bis zu eigenen Produkten und Newslettern. Dein Kanal wird vom Account zur Marke.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Virale Formate für Threads, Polls und Quote-Posts</li>
-<li>Community-Aufbau: Follower zu Fans und Brand Ambassadors machen</li>
-<li>X Premium &amp; Ads-Revenue-Share: Voraussetzungen und Optimierung</li>
-<li>Kooperationen akquirieren und faire Preise verhandeln</li>
-<li>Alle Einnahmequellen: Creator-Monetarisierung, Sponsoring, Produkte</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Reichweite aufbauen, eine loyale Community binden und mit X Geld verdienen Auf X entstehen die Trends, Meinungen und Gespräche, die das Netz bewegen – und als Influencer kannst du mittendrin sein. Dieses E-Book zeigt dir, wie du mit Threads, Quote-Posts und konsequentem Build-in-public eine loyale Community aufbaust, die nicht nur liked, sondern bookmarkt, teilt und empfiehlt. Du lernst, wie du den X-Algorithmus für virale Reichweite nutzt, wie du dich für X Premium und den Ads-Revenue-Share qualifizierst und wie du Markenkooperationen akquirierst, die fair bezahlt sind. Dazu: alle Einnahmequellen auf X im Überblick – von Creator-Monetarisierung über Sponsoring bis zu eigenen Produkten und Newslettern. Dein Kanal wird vom Account zur Marke. Das steckt drin: Virale Formate für Threads, Polls und Quote-Posts Community-Aufbau: Follower zu Fans und Brand Ambassadors machen X Premium & Ads-Revenue-Share: Voraussetzungen und Optimierung Kooperationen akquirieren und faire Preise verhandeln Alle Einnahmequellen: Creator-Monetarisierung, Sponsoring, Produkte Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

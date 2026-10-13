@@ -41,53 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p> </p>
-<ul>
-<li>
-<h4><span style="background-color:#ffff00;">Jeder Affiliate verdient 70% Provision</span><br /><span style="background-color:#ffff00;">pro verkauftem Buch (Taschenbuch) </span></h4>
-</li>
-<li><span style="background-color:#ffff00;">...und dann am gesamten Funnel!!!</span></li>
-</ul>
-<p> </p>
-<h3>Darauf darfst du dich freuen:<br /><br /></h3>
-<ul>
-<li>
-<h4>7 effektive Methoden, um in Zukunft mit negativen Gedanken noch besser fertig zu werden</h4>
-</li>
-<li>
-<h4>Hilfreiche Lebensweisheiten</h4>
-</li>
-<li>
-<h4>Du wirst lernen und besser verstehen, was Denken genau ist und dadurch mehr Einfluss auf deinen Zustand nehmen können</h4>
-</li>
-<li>
-<h4>Du erhältst einige äußerst bewährte Mental Übungen, um dein Gehirn in den Glücklichsein-Modus zu schalten sowie Wertvolle Denkanstöße<br /><br /></h4>
-</li>
-<li>
-<h4>Außerdem:<br /><br /></h4>
-</li>
-<li>
-<h4>Motivierende Zitate von großen Persönlichkeiten</h4>
-</li>
-<li>
-<h4>Du wirst lernen, dir neue Verhaltensmuster anzueignen</h4>
-</li>
-<li>
-<h4>Wertvolles Know-how aus dem Bereich der Persönlichkeitsentwicklung und Potenzialentfaltung</h4>
-</li>
-<li>
-<h4>Inspirierende Metaphern sowie hilfreiche Lebensweisheiten</h4>
-</li>
-<li>
-<h4>Einführung in wirkungsvolle Techniken des NLP</h4>
-</li>
-<li>
-<h4>Das Mindset erfolgreicher Menschen</h4>
-</li>
-<li>
-<h4>Und noch vieles mehr!</h4>
-</li>
-</ul>
+**Vendor's marketplace description:** Jeder Affiliate verdient 70% Provision pro verkauftem Buch (Taschenbuch) ...und dann am gesamten Funnel!!! Darauf darfst du dich freuen: 7 effektive Methoden, um in Zukunft mit negativen Gedanken noch besser fertig zu werden Hilfreiche Lebensweisheiten Du wirst lernen und besser verstehen, was Denken genau ist und dadurch mehr Einfluss auf deinen Zustand nehmen können Du erhältst einige äußerst bewährte Mental Übungen, um dein Gehirn in den Glücklichsein-Modus zu schalten sowie Wertvolle Denkanstöße Außerdem: Motivierende Zitate von großen Persönlichkeiten Du wirst lernen, dir neue Verhaltensmuster anzueignen Wertvolles Know-how aus dem Bereich der Persönlichkeitsentwicklung und Potenzialentfaltung Inspirierende Metaphern sowie hilfreiche Lebensweisheiten Einführung in wirkungsvolle Techniken des NLP Das Mindset erfolgreicher Menschen Und noch vieles mehr!
 
 ## 2. Links
 

@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="background-color:#ffff00;"><strong>Verkaufe unseren neuen TopSeller zum Thema Rhetorik und Charisma </strong></span></p>
-<ul>
-<li>
-<p>✅  Sofort mehr Selbstbewusstsein!</p>
-</li>
-<li>
-<p>✅  Lerne funktionierenden Methoden für gelungene  Kommunikation</p>
-</li>
-<li>
-<p> Entwickle ein neues positives Mindset</p>
-</li>
-<li>
-<p>✅  Werde schlagfertig und beweise dein Können vor anderen Leuten</p>
-</li>
-<li>
-<p>✅  Schluss mit Nervosität und Lampenfieber</p>
-</li>
-<li>
-<p>✅  5BS? ist natürlich erlaubt</p>
-</li>
-</ul>
-<p> </p>
-<ul>
-<li><span style="background-color:#ffff00;"><strong>Du bekommst 80% von der Netto Provision des E-Books (ca. 2,5 Euro)</strong></span></li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** Verkaufe unseren neuen TopSeller zum Thema Rhetorik und Charisma ✅ Sofort mehr Selbstbewusstsein! ✅ Lerne funktionierenden Methoden für gelungene Kommunikation Entwickle ein neues positives Mindset ✅ Werde schlagfertig und beweise dein Können vor anderen Leuten ✅ Schluss mit Nervosität und Lampenfieber ✅ 5BS? ist natürlich erlaubt Du bekommst 80% von der Netto Provision des E-Books (ca. 2,5 Euro)
 
 ## 2. Links
 

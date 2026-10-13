@@ -41,59 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>3-Karten-Methode – Farbe als Resonanz-Werkzeug im Coaching</h2>
-<p>Die <strong>3-Karten-Methode</strong> ist ein kompakter, erfahrungsorientierter Selbstlern Methode für Coaches, Therapeut:innen und Heilpraktiker:innen, die ihre Arbeit um einen intuitiven und zugleich professionellen Zugang erweitern möchten.</p>
-<p>Im Mittelpunkt stehen drei intuitiv gewählte Farbkarten. Dabei geht es ausdrücklich <strong>nicht um Farbdeutung oder starre Farbpsychologie</strong>.</p>
-<p>Die Farben dienen als Resonanz-Werkzeug.</p>
-<p>Sie helfen dabei, den gewohnten Denkmodus für einen Moment zu unterbrechen und neben der rationalen Ebene auch <strong>Wahrnehmung, Gefühl, Körperempfinden und Intuition</strong> stärker in den Prozess einzubeziehen.</p>
-<p>Gerade das macht die Methode für viele Fachpersonen interessant:</p>
-<p>Klient wissen heute häufig sehr genau, was ihr Thema ist. Sie haben reflektiert, gelesen, analysiert und verstanden – und kommen trotzdem nicht weiter.</p>
-<p>Die <strong>3-Karten-Methode</strong> eröffnet hier einen anderen Gesprächszugang.</p>
-<p>Statt sofort nach weiteren Erklärungen zu suchen, wird zunächst wahrgenommen:</p>
-<p>Was löst eine Farbe aus?<br />Was zieht an oder stößt ab?<br />Welche Gedanken, Gefühle, Erinnerungen oder inneren Bilder entstehen?</p>
-<p>Die Deutungshoheit bleibt dabei immer beim Klienten.</p>
-<p>Die 3-Karten-Methode ist ein sofort einsetzbarer Selbstlern Methode der <strong>Embodied Color® Academy</strong>   mit :</p>
-<p><strong>Workbook</strong>(34 Seiten)</p>
-<p>Klar strukturiert: Methode, Haltung, Einsatzmöglichkeiten und ein vertiefendes Kapitel zu jeder der 13 Farben.</p>
-<p><strong>13 Farbkarten</strong></p>
-<p>Druckbare Karten, Ausschnitte aus den Original-Kunstwerken von Fia Biba. Plus Blanko-Vorlage für den eigenen Set.</p>
-<h4>Audio-Impulse</h4>
-<p>Ergänzende Audios zur Vertiefung deiner Haltung als Coach, eigenständig nutzbar, in deinem Tempo.</p>
-<p> </p>
-<h3>Für wen ist das Produkt gedacht?</h3>
-<p>Für Coaches, Therapeut:innen und Heilpraktiker:innen, die:</p>
-<ul>
-<li>erfahrungsorientierter arbeiten möchten,</li>
-<li>Gespräche um eine intuitive Ebene ergänzen wollen,</li>
-<li>kreative Methoden professionell einsetzen möchten,</li>
-<li>Klient stärker ins eigene Wahrnehmen bringen wollen,</li>
-<li>nach einem unkomplizierten Werkzeug für festgefahrene Gesprächssituationen suchen,</li>
-<li>Farbe nutzen möchten, ohne Menschen aufgrund ihrer Farbwahl festzulegen.</li>
-</ul>
-<p> </p>
-<p>Die Methode lässt sich in bestehende Coaching- und Therapieansätze integrieren und erfordert keine umfangreiche Zusatzausbildung.</p>
-<p> </p>
-<p>Als kreative Vertiefung der 3-Karten-Methode steht zusätzlich das <strong>Visionboard mit deinen drei Farben</strong> zur Verfügung.Das separat für <strong>50 €</strong> erhältliche Erweiterungstool stehen nicht zuerst äußere Ziele im Mittelpunkt.</p>
-<p>Die drei Farben aus der 3-Karten-Methode werden weitergeführt und über Bilder, Formen, Worte und Materialien vertieft.</p>
-<p>Die Frage lautet weniger:</p>
-<p><strong>Was möchte ich besitzen oder erreichen?</strong></p>
-<p>Sondern vielmehr:</p>
-<p><strong>Wie möchte ich sein?<br />Was möchte ich stärker erleben?<br />Welche Qualität möchte mehr Raum bekommen?</strong></p>
-<p>Ein kreatives Werkzeug für Coaching, Therapie und Workshops, das innere Orientierung sichtbar und erlebbar machen kann.</p>
-<p> </p>
-<p>Sie bilden gleichzeitig den Einstieg in eine wachsende Produktwelt rund um Farbe als Resonanz-Werkzeug in Coaching, Therapie und Beratung.</p>
-<p> </p>
-<h3>Warum sich die 3-Karten-Methode gut für Affiliate-Werbung eignet</h3>
-<p>Das Thema lässt sich leicht verständlich und aufmerksamkeitsstark kommunizieren.</p>
-<p>Starke Werbeaufhänger sind zum Beispiel:</p>
-<ul>
-<li>„Was tun, wenn dein Klient sein Thema längst verstanden hat?“</li>
-<li>„Nicht jede gute Coachingfrage muss mit Worten beginnen.“</li>
-<li>„Wie kommst du im Coaching vom Denken wieder ins Wahrnehmen?“</li>
-<li>„Farbe im Coaching – ohne Farbdeutung und ohne esoterische Schublade.“</li>
-<li>„Eine einfache Methode, die einen überraschend anderen Gesprächszugang ermöglicht.“</li>
-</ul>
-<p>Die Methode spricht eine klar definierte professionelle Zielgruppe an und lässt sich sowohl über fachliche Inhalte als auch über neugierig machende Social-Media-Posts, Newsletter, Blogbeiträge oder Reels bewerben.</p>
+**Vendor's marketplace description:** 3-Karten-Methode – Farbe als Resonanz-Werkzeug im Coaching Die 3-Karten-Methode ist ein kompakter, erfahrungsorientierter Selbstlern Methode für Coaches, Therapeut:innen und Heilpraktiker:innen, die ihre Arbeit um einen intuitiven und zugleich professionellen Zugang erweitern möchten. Im Mittelpunkt stehen drei intuitiv gewählte Farbkarten. Dabei geht es ausdrücklich nicht um Farbdeutung oder starre Farbpsychologie . Die Farben dienen als Resonanz-Werkzeug. Sie helfen dabei, den gewohnten Denkmodus für einen Moment zu unterbrechen und neben der rationalen Ebene auch Wahrnehmung, Gefühl, Körperempfinden und Intuition stärker in den Prozess einzubeziehen. Gerade das macht die Methode für viele Fachpersonen interessant: Klient wissen heute häufig sehr genau, was ihr Thema ist. Sie haben reflektiert, gelesen, analysiert und verstanden – und kommen trotzdem nicht weiter. Die 3-Karten-Methode eröffnet hier einen anderen Gesprächszugang. Statt sofort nach weiteren Erklärungen zu suchen, wird zunächst wahrgenommen: Was löst eine Farbe aus? Was zieht an oder stößt ab? Welche Gedanken, Gefühle, Erinnerungen oder inneren Bilder entstehen? Die Deutungshoheit bleibt dabei immer beim Klienten. Die 3-Karten-Methode ist ein sofort einsetzbarer Selbstlern Methode der Embodied Color® Academy mit : Workbook (34 Seiten) Klar strukturiert: Methode, Haltung, Einsatzmöglichkeiten und ein vertiefendes Kapitel zu jeder der 13 Farben. 13 Farbkarten Druckbare Karten, Ausschnitte aus den Original-Kunstwerken von Fia Biba. Plus Blanko-Vorlage für den eigenen Set. Audio-Impulse Ergänzende Audios zur Vertiefung deiner Haltung als Coach, eigenständig nutzbar, in deinem Tempo. Für wen ist das Produkt gedacht? Für Coaches, Therapeut:innen und Heilpraktiker:innen, die: erfahrungsorientierter arbeiten möchten, Gespräche um eine intuitive Ebene ergänzen wollen, kreative Methoden professionell einsetzen möchten, Klient stärker ins eigene Wahrnehmen bringen wollen, nach einem unkomplizierten Werkzeug für festgefahrene Gesprächssituationen suchen, Farbe nutzen möchten, ohne Menschen aufgrund ihrer Farbwahl festzulegen. Die Methode lässt sich in bestehende Coaching- und Therapieansätze integrieren und erfordert keine umfangreiche Zusatzausbildung. Als kreative Vertiefung der 3-Karten-Methode steht zusätzlich das Visionboard mit deinen drei Farben zur Verfügung.Das separat für 50 € erhältliche Erweiterungstool stehen nicht zuerst äußere Ziele im Mittelpunkt. Die drei Farben aus der 3-Karten-Methode werden weitergeführt und über Bilder, Formen, Worte und Materialien vertieft. Die Frage lautet weniger: Was möchte ich besitzen oder erreichen? Sondern vielmehr: Wie möchte ich sein? Was möchte ich stärker erleben? Welche Qualität möchte mehr Raum bekommen? Ein kreatives Werkzeug für Coaching, Therapie und Workshops, das innere Orientierung sichtbar und erlebbar machen kann. Sie bilden gleichzeitig den Einstieg in eine wachsende Produktwelt rund um Farbe als Resonanz-Werkzeug in Coaching, Therapie und Beratung. Warum sich die 3-Karten-Methode gut für Affiliate-Werbung eignet Das Thema lässt sich leicht verständlich und aufmerksamkeitsstark kommunizieren. Starke Werbeaufhänger sind zum Beispiel: „Was tun, wenn dein Klient sein Thema längst verstanden hat?“ „Nicht jede gute Coachingfrage muss mit Worten beginnen.“ „Wie kommst du im Coaching vom Denken wieder ins Wahrnehmen?“ „Farbe im Coaching – ohne Farbdeutung und ohne esoterische Schublade.“ „Eine einfache Methode, die einen überraschend anderen Gesprächszugang ermöglicht.“ Die Methode spricht eine klar definierte professionelle Zielgruppe an und lässt sich sowohl über fachliche Inhalte als auch über neugierig machende Social-Media-Posts, Newsletter, Blogbeiträge oder Reels bewerben.
 
 ## 2. Links
 

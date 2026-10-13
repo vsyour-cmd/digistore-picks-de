@@ -41,14 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><em><strong>Erstellen eines Verkaufsfunnels in 5 Minuten dank AI:</strong></em></div>
-<div> </div>
-<div><em><strong>✅ </strong>Deine Community erhält einen Leitfaden, wie Sie ihren Verkaufsfunnel innerhalb von 5 Minuten erstellen können (statt 3 Tage).</em></div>
-<div> </div>
-<div><em><strong>✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet</strong></em></div>
-<div><br /><em><strong>Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm...</strong></em></div>
-<div> </div>
-<div><em><strong>Du kannst durch Upsells und AddOn bis zu 173 Euro</strong></em></div>
+**Vendor's marketplace description:** Erstellen eines Verkaufsfunnels in 5 Minuten dank AI: ✅ Deine Community erhält einen Leitfaden, wie Sie ihren Verkaufsfunnel innerhalb von 5 Minuten erstellen können (statt 3 Tage). ✅ Durch Schritt für Schritt Anleitung, ist es für jeden Anfänger geeignet Wir schenken Deiner Community noch weitere Kurse über Chat GPT, Canva, YouTube, Etsy, Udemy uvm... Du kannst durch Upsells und AddOn bis zu 173 Euro
 
 ## 2. Links
 

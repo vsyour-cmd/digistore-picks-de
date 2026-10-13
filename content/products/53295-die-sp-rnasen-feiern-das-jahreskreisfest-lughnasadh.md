@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Die Spürnasen feiern das Jahreskreisfest Lughnasadh</strong></h3>
-<p><strong>Ein Onlinekurs für Kinder mit Geschichten, Naturwissen und Kreativität</strong></p>
-<p>Dieser familienfreundlich gestaltete Onlinekurs lädt Kinder (und ihre Familien) dazu ein, das alte Fest <strong>Lughnasadh</strong> mit allen Sinnen zu entdecken.</p>
-<p>Gemeinsam mit den Naturspürnasen und dem sprechenden Hund <strong>Oscar</strong> erleben die Kinder eine spannende Hörgeschichte, <strong>basteln,</strong> entdecken <strong>alte Mythen</strong>, erfahren <strong>geschichtliche Hintergründe </strong>und wie es heute gefeiert wird.</p>
-<p>Der Kurs verbindet <strong>altes Wissen</strong> mit der heutigen Zeit, lässt Kinder in die Natur eintauchen und sorgt für leuchtende Augen beim Feiern.</p>
-<p> </p>
-<p><strong>Das erwartet euch:</strong><br />– eine mitreißende Geschichte zum Hören mit Bildern (mehr als 60 Minuten in 5 Teile untergliedert)<br />– ein großes Workbook zum herunterladen<br />– Ritualanleitungen und Rezepte<br />– kindgerechtes Wissen rund um Lughnasadh, Ernte und Natur<br />– interaktive Quizze </p>
-<p>Alles, was ihr braucht: etwas Zeit, Neugier und Lust auf ein Fest!</p>
-<p>Es beginnt vor dem Bildschirm und führt davon weg.</p>
+**Vendor's marketplace description:** Die Spürnasen feiern das Jahreskreisfest Lughnasadh Ein Onlinekurs für Kinder mit Geschichten, Naturwissen und Kreativität Dieser familienfreundlich gestaltete Onlinekurs lädt Kinder (und ihre Familien) dazu ein, das alte Fest Lughnasadh mit allen Sinnen zu entdecken. Gemeinsam mit den Naturspürnasen und dem sprechenden Hund Oscar erleben die Kinder eine spannende Hörgeschichte, basteln, entdecken alte Mythen , erfahren geschichtliche Hintergründe und wie es heute gefeiert wird. Der Kurs verbindet altes Wissen mit der heutigen Zeit, lässt Kinder in die Natur eintauchen und sorgt für leuchtende Augen beim Feiern. Das erwartet euch: – eine mitreißende Geschichte zum Hören mit Bildern (mehr als 60 Minuten in 5 Teile untergliedert) – ein großes Workbook zum herunterladen – Ritualanleitungen und Rezepte – kindgerechtes Wissen rund um Lughnasadh, Ernte und Natur – interaktive Quizze Alles, was ihr braucht: etwas Zeit, Neugier und Lust auf ein Fest! Es beginnt vor dem Bildschirm und führt davon weg.
 
 ## 2. Links
 

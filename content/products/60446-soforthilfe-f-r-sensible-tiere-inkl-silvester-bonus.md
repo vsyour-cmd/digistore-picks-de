@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Die „Soforthilfe für sensible Tiere“ ist für Tierhalterinnen, deren Tier bei Lärm, Gewitter, Tierarztbesuchen, Besuch oder Veränderungen in Stress oder Panik gerät. Sie bekommen einen Kurs, den sie sofort anwenden, für Hunde, Katzen, Pferde und alle Tiere, die sensibel auf Stress, Veränderung oder Reize reagieren.</p>
-<p>Das Produkt<br />Online-Kurs von Verena Lumina Felten, Tierbotschafterin und Seelenheilerin mit über 1.000 Begleitungen von Mensch und Tier. Die Käuferin bekommt sofort Zugang zu:</p>
-<p>- Warum sensible Tiere so reagieren<br />- Sofort-Erdung für Mensch und Tier<br />- Berührungs-Übung<br />- Das Akut-Protokoll für den Panikmoment<br />- Schnell wieder bei dir sein<br />- Die Stimme, die beruhigt (Audio zum gemeinsamen Hören)<br />- Was tun, wenn es eskaliert<br />- Bonus: Masterclass „Sensible Tiere &amp; ihre Ängste“<br />- Bonus: Heilreise „Im Tempel der Erlösung“</p>
-<p>Zusätzlich gibt es bis 30.11.2026 einen separaten Silvester-Bonus: das Silvester-Heilfeld, zwei Energieübertragungen am 31.12. und die Telegram-Gruppe „Luminas Silvesterkreis“.</p>
+**Vendor's marketplace description:** Die „Soforthilfe für sensible Tiere“ ist für Tierhalterinnen, deren Tier bei Lärm, Gewitter, Tierarztbesuchen, Besuch oder Veränderungen in Stress oder Panik gerät. Sie bekommen einen Kurs, den sie sofort anwenden, für Hunde, Katzen, Pferde und alle Tiere, die sensibel auf Stress, Veränderung oder Reize reagieren. Das Produkt Online-Kurs von Verena Lumina Felten, Tierbotschafterin und Seelenheilerin mit über 1.000 Begleitungen von Mensch und Tier. Die Käuferin bekommt sofort Zugang zu: - Warum sensible Tiere so reagieren - Sofort-Erdung für Mensch und Tier - Berührungs-Übung - Das Akut-Protokoll für den Panikmoment - Schnell wieder bei dir sein - Die Stimme, die beruhigt (Audio zum gemeinsamen Hören) - Was tun, wenn es eskaliert - Bonus: Masterclass „Sensible Tiere & ihre Ängste“ - Bonus: Heilreise „Im Tempel der Erlösung“ Zusätzlich gibt es bis 30.11.2026 einen separaten Silvester-Bonus: das Silvester-Heilfeld, zwei Energieübertragungen am 31.12. und die Telegram-Gruppe „Luminas Silvesterkreis“.
 
 ## 2. Links
 

@@ -41,22 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Werde Affiliate für „50 kreative Date-Ideen“</strong></p>
-<p>Für jeden Typ, jedes Budget, jede Jahreszeit – Schluss mit Standard-Dates. 50 kreative Ideen für jedes Budget, jede Jahreszeit und jeden Typ – damit eure Treffen in Erinnerung bleiben.</p>
-<p><strong>Warum dieses E-Book bewerben?</strong></p>
-<ul>
-<li><strong>50 % Provision</strong> – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €)</li>
-<li>Gefragtes Thema mit großer Zielgruppe</li>
-<li>Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel</li>
-<li>Digitales Produkt – keine Versandkosten, attraktive Marge</li>
-</ul>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Kostenlos &amp; günstig</li>
-<li>Aktiv &amp; draußen</li>
-<li>Kreativ &amp; gemeinsam gestalten</li>
-<li>Kulinarisch</li>
-</ul>
+**Vendor's marketplace description:** Werde Affiliate für „50 kreative Date-Ideen“ Für jeden Typ, jedes Budget, jede Jahreszeit – Schluss mit Standard-Dates. 50 kreative Ideen für jedes Budget, jede Jahreszeit und jeden Typ – damit eure Treffen in Erinnerung bleiben. Warum dieses E-Book bewerben? 50 % Provision – ca. 8,95 € pro Verkauf (Verkaufspreis 17,90 €) Gefragtes Thema mit großer Zielgruppe Professionelle Verkaufsseite, sofortige PDF-Auslieferung, geprüfter Funnel Digitales Produkt – keine Versandkosten, attraktive Marge Das steckt drin: Kostenlos & günstig Aktiv & draußen Kreativ & gemeinsam gestalten Kulinarisch
 
 ## 2. Links
 

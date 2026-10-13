@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du willst online Geld verdienen — aber du willst nicht, dass dein Chef, deine Familie oder deine Kollegen davon wissen.</p>
-<p><em><strong>Genau dafür ist dieses E-Book geschrieben.</strong> </em></p>
-<p>„Stille Einnahmen" zeigt dir 9 konkrete Wege, wie du anonym und ohne Vorwissen ein digitales Nebeneinkommen aufbaust. Kein Social-Media-Auftritt. Kein echter Name. Kein Risiko für deinen Ruf.</p>
-<p><strong>WAS DU BEKOMMST:</strong></p>
-<p>✓ 9 vollständige Strategien — von digitalen Produkten über Ghost-Writing bis zu Affiliate-Seiten</p>
-<p>✓ Für jede Strategie: die besten Plattformen, realistische Einkommenszahlen und einen Schnellstart-Tipp</p>
-<p>✓ Sofort anwendbar — keine Vorerfahrung, kein Budget nötig</p>
-<p>✓ 21 Seiten, klar strukturiert, kein Filler-Content</p>
-<p><strong>FÜR WEN:</strong> → Angestellte, die nebenberuflich starten wollen, ohne Aufmerksamkeit zu erregen → Menschen mit Geldsorgen, die diskret handeln wollen → Alle, die Angst vor Sichtbarkeit haben, aber trotzdem ausbrechen wollen SOFORT-DOWNLOAD — du erhältst dein PDF innerhalb von Sekunden nach dem Kauf.</p>
+**Vendor's marketplace description:** Du willst online Geld verdienen — aber du willst nicht, dass dein Chef, deine Familie oder deine Kollegen davon wissen. Genau dafür ist dieses E-Book geschrieben. „Stille Einnahmen" zeigt dir 9 konkrete Wege, wie du anonym und ohne Vorwissen ein digitales Nebeneinkommen aufbaust. Kein Social-Media-Auftritt. Kein echter Name. Kein Risiko für deinen Ruf. WAS DU BEKOMMST: ✓ 9 vollständige Strategien — von digitalen Produkten über Ghost-Writing bis zu Affiliate-Seiten ✓ Für jede Strategie: die besten Plattformen, realistische Einkommenszahlen und einen Schnellstart-Tipp ✓ Sofort anwendbar — keine Vorerfahrung, kein Budget nötig ✓ 21 Seiten, klar strukturiert, kein Filler-Content FÜR WEN: → Angestellte, die nebenberuflich starten wollen, ohne Aufmerksamkeit zu erregen → Menschen mit Geldsorgen, die diskret handeln wollen → Alle, die Angst vor Sichtbarkeit haben, aber trotzdem ausbrechen wollen SOFORT-DOWNLOAD — du erhältst dein PDF innerhalb von Sekunden nach dem Kauf.
 
 ## 2. Links
 

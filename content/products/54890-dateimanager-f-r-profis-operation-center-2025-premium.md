@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Operation Center ist unsere bekannte Dateimanagement-Software mit zwei Dateifenstern und Dateivorschau.</p>
-<p> </p>
-<p><strong>Wichtige Features:</strong></p>
-<p>• Dateimanager mit FTP- und ZIP-Unterstützung<br />• lauffähig auf x64, x86 und ARM64<br />• integrierte Fotoverwaltung<br />• integrierter Editor für Textdateien, Richtext und Bilder<br />• verschiedene auswählbare Designs<br />• Speicherbelegung von Laufwerken analysieren<br />• Auffinden von mehrfach vorhandenen Dateien auf einem Laufwerk<br />• Sicheres Löschen von Dateien<br />• Aufzeichnen von Audiodateien<br />• Dia-Schau mit vielen Effekten<br />• Wartung des Computers</p>
-<p><br />Weitere Informationen finden Sie auf der Produktseite:<br /><a href="https://www.jmmgc.com/operationcenter/">https://www.jmmgc.com/operationcenter/</a></p>
-<p> </p>
+**Vendor's marketplace description:** Operation Center ist unsere bekannte Dateimanagement-Software mit zwei Dateifenstern und Dateivorschau. Wichtige Features: • Dateimanager mit FTP- und ZIP-Unterstützung • lauffähig auf x64, x86 und ARM64 • integrierte Fotoverwaltung • integrierter Editor für Textdateien, Richtext und Bilder • verschiedene auswählbare Designs • Speicherbelegung von Laufwerken analysieren • Auffinden von mehrfach vorhandenen Dateien auf einem Laufwerk • Sicheres Löschen von Dateien • Aufzeichnen von Audiodateien • Dia-Schau mit vielen Effekten • Wartung des Computers Weitere Informationen finden Sie auf der Produktseite: https://www.jmmgc.com/operationcenter/
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<h2>Der gesunde und ganzheitliche Ayur-Yoga-Basis-Kurs</h2>
-</div>
-</div>
-<div>
-<p><em>"Von und mit Yogatherapie Experte Remo Rittiner. </em><em>Wie du die effektivsten Wirkungen mit Yoga erzielst und ungesunde Fehler vermeiden kannst."</em></p>
-<p>Profitiere von der Expertise und der Professionalität von Remo Rittiner. Der Yogatherapie-Experte. Erhalte satte 90 % Provision!</p>
-<p>Bei Fragen steht Remo Rittiner den Käufern jederzeit zur Verfügung - entsprechend ist die Storno-Quote verschwindend gering.</p>
-</div>
+**Vendor's marketplace description:** Der gesunde und ganzheitliche Ayur-Yoga-Basis-Kurs "Von und mit Yogatherapie Experte Remo Rittiner. Wie du die effektivsten Wirkungen mit Yoga erzielst und ungesunde Fehler vermeiden kannst." Profitiere von der Expertise und der Professionalität von Remo Rittiner. Der Yogatherapie-Experte. Erhalte satte 90 % Provision! Bei Fragen steht Remo Rittiner den Käufern jederzeit zur Verfügung - entsprechend ist die Storno-Quote verschwindend gering.
 
 ## 2. Links
 

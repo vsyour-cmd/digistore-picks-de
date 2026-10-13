@@ -41,18 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Fertiges Pre-Sale Page System für Affiliates – ideal zur besseren Monetarisierung von Content und E-Mail-Klicks</strong></p>
-<p>Das Pre-Sale Page System ist perfekt für Affiliates, die ihre Besucher nicht direkt auf Verkaufsseiten schicken, sondern gezielt über Content zur Empfehlung führen möchten.</p>
-<p>Die Zielgruppe ist groß, da viele bereits E-Mail-Marketing oder Content nutzen, aber ihre Klicks noch nicht optimal in Provisionen umwandeln.</p>
-<p>Du empfiehlst kein theoretisches Konzept, sondern ein fertiges System aus Content-Seiten und E-Mails, das sofort eingesetzt werden kann – und erhältst <strong>50% Provision</strong> auf alle Verkäufe.</p>
-<p> </p>
-<p><strong>Warum dieses Produkt gut konvertiert:</strong></p>
-<p>• Klare Problemlösung (mehr Provisionen aus bestehenden Klicks)<br />• Verständlicher Ansatz (Content + Empfehlung statt direkter Verkauf)<br />• Große Zielgruppe im Affiliate- und Online-Marketing Bereich<br />• Sofort einsetzbar ohne komplizierte Technik</p>
-<p> </p>
-<p><strong>Das ist im Produkt enthalten:</strong></p>
-<p>• 31 fertige Pre-Sale Pages (Content-Seiten)<br />• 62 passende E-Mails<br />• Zentrale Steuerung aller Affiliate-Links<br />• Erweiterbar mit eigenen Seiten<br />• White-Label Nutzungsrechte</p>
-<p>&gt;&gt; <a href="https://www.imhub.de/lp/affiliates" target="_blank" rel="noreferrer noopener">Hier findest du Werbematerial und weitere Infos</a></p>
-<p> </p>
+**Vendor's marketplace description:** Fertiges Pre-Sale Page System für Affiliates – ideal zur besseren Monetarisierung von Content und E-Mail-Klicks Das Pre-Sale Page System ist perfekt für Affiliates, die ihre Besucher nicht direkt auf Verkaufsseiten schicken, sondern gezielt über Content zur Empfehlung führen möchten. Die Zielgruppe ist groß, da viele bereits E-Mail-Marketing oder Content nutzen, aber ihre Klicks noch nicht optimal in Provisionen umwandeln. Du empfiehlst kein theoretisches Konzept, sondern ein fertiges System aus Content-Seiten und E-Mails, das sofort eingesetzt werden kann – und erhältst 50% Provision auf alle Verkäufe. Warum dieses Produkt gut konvertiert: • Klare Problemlösung (mehr Provisionen aus bestehenden Klicks) • Verständlicher Ansatz (Content + Empfehlung statt direkter Verkauf) • Große Zielgruppe im Affiliate- und Online-Marketing Bereich • Sofort einsetzbar ohne komplizierte Technik Das ist im Produkt enthalten: • 31 fertige Pre-Sale Pages (Content-Seiten) • 62 passende E-Mails • Zentrale Steuerung aller Affiliate-Links • Erweiterbar mit eigenen Seiten • White-Label Nutzungsrechte >> Hier findest du Werbematerial und weitere Infos
 
 ## 2. Links
 

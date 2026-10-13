@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Wandern im Bayerischen Wald mit Kindern</strong></h2>
-<p><strong>Preis:</strong> 12,99 € | <strong>Provision:</strong> 60 % (~7,79 €)</p>
-<p> </p>
-<h3><strong>Unvergessliche Familienabenteuer ohne Frust! </strong></h3>
-<p>Schluss mit quengelnden Kindern auf dem Wanderweg. Dieses E-Book liefert Eltern handverlesene, kinderfreundliche Routen, clevere Motivations-Tricks und die besten Ausflugsziele im Bayerischen Wald.</p>
-<p><strong>• Warum bewerben?</strong> Perfekt für die stark nachgefragte Familien- und Outdoor-Nische, ideal für Blogs, Social Media &amp; E-Mail-Marketing – bei lukrativen 60 % Provision!</p>
-<p> </p>
+**Vendor's marketplace description:** Wandern im Bayerischen Wald mit Kindern Preis: 12,99 € | Provision: 60 % (~7,79 €) Unvergessliche Familienabenteuer ohne Frust! Schluss mit quengelnden Kindern auf dem Wanderweg. Dieses E-Book liefert Eltern handverlesene, kinderfreundliche Routen, clevere Motivations-Tricks und die besten Ausflugsziele im Bayerischen Wald. • Warum bewerben? Perfekt für die stark nachgefragte Familien- und Outdoor-Nische, ideal für Blogs, Social Media & E-Mail-Marketing – bei lukrativen 60 % Provision!
 
 ## 2. Links
 

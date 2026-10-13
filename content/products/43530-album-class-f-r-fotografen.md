@@ -41,32 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h2>Du möchtest mehr Alben verkaufen, deinen Umsatz steigern und deine Kunden noch glücklicher machen?<br /><br /></h2>
-<div>
-<div>
-<div><strong>In diesem Online-Kurs lernst du wie du Alben strategisch vermarktest, erfolgreich verkaufst und so gestaltest, dass deine Kunden sie lieben werden.</strong></div>
-<div> </div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<p>⁉️ Welche Anbieter sind zu empfehlen?</p>
-<p>⁉️ Was sollen meine Alben kosten?</p>
-<p>⁉️ Wie gestalte und bestelle ich ein Album?</p>
-<p>⁉️ Welche Tools brauche ich und wie nutze ich sie?</p>
-<p>⁉️ Wie vermarkte und verkaufe ich meine Alben?</p>
-<p>⁉️ Welche Prozesse beschleunigen meine Arbeit?</p>
-<div> </div>
-<p>Hochwertig produzierte Alben sind das logischste Produkt, das wir als Fotograf*innen zusätzlich anbieten können. Es macht keinen Sinn, dass deine Kund*innen viel Geld für ihre Fotos auf den Tisch legen, um diese dann auf der Festplatte liegen zu haben. Die Hochzeitsfotos oder die Fotos der eigenen Familie sollten nicht am Smartphone oder Laptop präsentiert werden, denn sie kommen in einem hochwertigen Album mit besonderem Papier einfach viel mehr zur Geltung. <strong>Um Alben erfolgreich verkaufen zu können brauchst du einige automatisierte Prozesse. Du musst außerdem lernen, wie du ein Album erstellst, es vermarktest und verkaufst, auch wenn du introvertiert bist.</strong></p>
-</div>
-</div>
-</div>
-<div> </div>
-</div>
+**Vendor's marketplace description:** Du möchtest mehr Alben verkaufen, deinen Umsatz steigern und deine Kunden noch glücklicher machen? In diesem Online-Kurs lernst du wie du Alben strategisch vermarktest, erfolgreich verkaufst und so gestaltest, dass deine Kunden sie lieben werden. ⁉️ Welche Anbieter sind zu empfehlen? ⁉️ Was sollen meine Alben kosten? ⁉️ Wie gestalte und bestelle ich ein Album? ⁉️ Welche Tools brauche ich und wie nutze ich sie? ⁉️ Wie vermarkte und verkaufe ich meine Alben? ⁉️ Welche Prozesse beschleunigen meine Arbeit? Hochwertig produzierte Alben sind das logischste Produkt, das wir als Fotograf*innen zusätzlich anbieten können. Es macht keinen Sinn, dass deine Kund*innen viel Geld für ihre Fotos auf den Tisch legen, um diese dann auf der Festplatte liegen zu haben. Die Hochzeitsfotos oder die Fotos der eigenen Familie sollten nicht am Smartphone oder Laptop präsentiert werden, denn sie kommen in einem hochwertigen Album mit besonderem Papier einfach viel mehr zur Geltung. Um Alben erfolgreich verkaufen zu können brauchst du einige automatisierte Prozesse. Du musst außerdem lernen, wie du ein Album erstellst, es vermarktest und verkaufst, auch wenn du introvertiert bist.
 
 ## 2. Links
 

@@ -41,20 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<p>Hypnoshape ist ein einzigartiges, bisher noch nicht dagewesenes Konzept zum Abnehmen.</p>
-</div>
-</div>
-<div>
-<div>
-<ul>
-<li>Hypnotisches Magenband und Abnehmhypnose</li>
-<li>Effektives Ernährungskonzept (Ketogene Ernährung)</li>
-<li>Mentaltraining</li>
-</ul>
-</div>
-</div>
+**Vendor's marketplace description:** Hypnoshape ist ein einzigartiges, bisher noch nicht dagewesenes Konzept zum Abnehmen. Hypnotisches Magenband und Abnehmhypnose Effektives Ernährungskonzept (Ketogene Ernährung) Mentaltraining
 
 ## 2. Links
 

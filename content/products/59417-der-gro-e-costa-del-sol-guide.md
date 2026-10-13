@@ -41,12 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Der umfassende digitale Ratgeber für Urlauber, Spanien-Liebhaber, Familien, Paare und alle, die die Costa del Sol nicht nur besuchen, sondern wirklich kennenlernen möchten.</strong></p>
-<p>Die Costa del Sol gehört zu den beliebtesten Regionen Spaniens. Kilometerlange Strände, malerische Buchten, historische Altstädte, weiße Bergdörfer und das mediterrane Lebensgefühl machen sie zu einem der vielseitigsten Reiseziele Europas.</p>
-<p><strong>Der große Costa-del-Sol-Guide</strong> begleitet dich von Málaga bis Manilva und von Nerja bis in die beeindruckende Bergwelt Andalusiens. Entdecke die schönsten Orte, Strände, Sehenswürdigkeiten, Naturerlebnisse, Ausflüge und kulinarischen Highlights – ergänzt durch zahlreiche praktische Tipps für einen gelungenen Aufenthalt.</p>
-<p>Du liebst Spanien und hast eine Community, die sich für <strong>Reisen, Mallorca, Auswandern, Camping, Wohnmobil, Ruhestand oder das Leben in Spanien</strong> interessiert?</p>
-<p>Dann werde <strong>Creator &amp; Influencer Partner von Nachrichten.es</strong> und empfehle unsere digitalen Spanien-Ratgeber deiner Community.</p>
-<p>Du erhältst dabei <strong>50 % Provision auf jeden erfolgreichen Verkauf</strong> über deinen persönlichen Affiliate-Link.</p>
+**Vendor's marketplace description:** Der umfassende digitale Ratgeber für Urlauber, Spanien-Liebhaber, Familien, Paare und alle, die die Costa del Sol nicht nur besuchen, sondern wirklich kennenlernen möchten. Die Costa del Sol gehört zu den beliebtesten Regionen Spaniens. Kilometerlange Strände, malerische Buchten, historische Altstädte, weiße Bergdörfer und das mediterrane Lebensgefühl machen sie zu einem der vielseitigsten Reiseziele Europas. Der große Costa-del-Sol-Guide begleitet dich von Málaga bis Manilva und von Nerja bis in die beeindruckende Bergwelt Andalusiens. Entdecke die schönsten Orte, Strände, Sehenswürdigkeiten, Naturerlebnisse, Ausflüge und kulinarischen Highlights – ergänzt durch zahlreiche praktische Tipps für einen gelungenen Aufenthalt. Du liebst Spanien und hast eine Community, die sich für Reisen, Mallorca, Auswandern, Camping, Wohnmobil, Ruhestand oder das Leben in Spanien interessiert? Dann werde Creator & Influencer Partner von Nachrichten.es und empfehle unsere digitalen Spanien-Ratgeber deiner Community. Du erhältst dabei 50 % Provision auf jeden erfolgreichen Verkauf über deinen persönlichen Affiliate-Link.
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>„KI Strom-Spar Cheat-Code" ist ein Praxis-Guide mit echten, woechentlich gemessenen Spar-Zahlen: Solar + Speicher + dynamischer Stromtarif, automatisch gesteuert per Home Assistant.</div>
-<div> </div>
-<div>WARUM ES SICH FUER DICH LOHNT:</div>
-<div>• Hochaktuelles Thema — seit 2025 muss jeder Stromanbieter einen dynamischen Tarif anbieten. Millionen suchen, wie man damit spart.</div>
-<div>• Echte Beweise statt Theorie -&gt; hohe Conversion.</div>
-<div>• Breite Zielgruppe: Balkonkraftwerk-/PV-Besitzer, Smart-Home-Fans, E-Auto-Fahrer, Sparfuechse.</div>
-<div>• 50 % Provision, 180-Tage-Cookie, guenstiger Impulskauf-Preis.</div>
-<div> </div>
-<div>FERTIGES WERBEMATERIAL (Texte, Banner, E-Mail-Vorlagen):</div>
-<div>https://cihanoezkaya.de/partner.html</div>
+**Vendor's marketplace description:** „KI Strom-Spar Cheat-Code" ist ein Praxis-Guide mit echten, woechentlich gemessenen Spar-Zahlen: Solar + Speicher + dynamischer Stromtarif, automatisch gesteuert per Home Assistant. WARUM ES SICH FUER DICH LOHNT: • Hochaktuelles Thema — seit 2025 muss jeder Stromanbieter einen dynamischen Tarif anbieten. Millionen suchen, wie man damit spart. • Echte Beweise statt Theorie -> hohe Conversion. • Breite Zielgruppe: Balkonkraftwerk-/PV-Besitzer, Smart-Home-Fans, E-Auto-Fahrer, Sparfuechse. • 50 % Provision, 180-Tage-Cookie, guenstiger Impulskauf-Preis. FERTIGES WERBEMATERIAL (Texte, Banner, E-Mail-Vorlagen): https://cihanoezkaya.de/partner.html
 
 ## 2. Links
 

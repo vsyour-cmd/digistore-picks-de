@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Stressmanagement-Planer – mehr Ruhe und Klarheit im Alltag </strong></p>
-<p>✓ Praktische Übungen zur Stressreduktion</p>
-<p>✓ Atem-, Bewegungs- und Entspannungsübungen</p>
-<p>✓ Reflexionsfragen und Stress-Skala ✓ Persönlicher Anti-Stress-Plan</p>
-<p>✓ Mehr Klarheit und bewusste Auszeiten</p>
-<p>✓ Einfach und direkt im Alltag anwendbar</p>
-<p>Digitaler Planer als PDF zum Download.</p>
+**Vendor's marketplace description:** Stressmanagement-Planer – mehr Ruhe und Klarheit im Alltag ✓ Praktische Übungen zur Stressreduktion ✓ Atem-, Bewegungs- und Entspannungsübungen ✓ Reflexionsfragen und Stress-Skala ✓ Persönlicher Anti-Stress-Plan ✓ Mehr Klarheit und bewusste Auszeiten ✓ Einfach und direkt im Alltag anwendbar Digitaler Planer als PDF zum Download.
 
 ## 2. Links
 

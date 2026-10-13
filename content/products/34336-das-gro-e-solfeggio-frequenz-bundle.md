@@ -41,35 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>- Die Solfeggio - Frequenzen -</strong></p>
-<p><strong>Verkaufspreis: 17,- Euro / Provision für den Affiliate: 50%</strong></p>
-<p><strong>+</strong></p>
-<p><strong>Upsell: 7,99 Euro / Provision 50%</strong></p>
-<p> </p>
-<p><strong>Inhalt besteht aus: 6 MP3-Dateien und 2 eBooks.</strong></p>
-<p> </p>
-<p><strong>Der Inhalt im Detail:</strong></p>
-<p> </p>
-<p>1 x MP3-Datei: <strong>396</strong><strong> Hz</strong> Wirkung: Befreiung von Schuld &amp; Angst</p>
-<p>1 x MP3-Datei: <strong>417 Hz</strong> Wirkung: Entfernung negativer Energien</p>
-<p>1 x MP3-Datei: <strong>528</strong><strong> Hz</strong> Wirkung: Positive Transformation</p>
-<p>1 x MP3-Datei: <strong>639</strong><strong> Hz</strong> Wirkung: Harmonische Beziehung(en)</p>
-<p>1 x MP3-Datei: <strong>741 </strong><strong>Hz</strong> Wirkung: Erwachen der Intuition</p>
-<p>1 x MP3-Datei: <strong>852</strong><strong> Hz</strong> Wirkung: Rückkehr zur spirituellen Ordnung</p>
-<p> +</p>
-<p><strong>2 x eBooks: (PDF-Format)</strong></p>
-<p>Die Solfeggio Frequenzen - Die verschollenen und heilenden Frequenzen</p>
-<p><strong>Inhalt:</strong></p>
-<div>
-<p>In diesem eBook finden Sie die erweiterte Fassung der Texte auf dieser Webseite. Mehr Texte, mehr Inhalte und erweiterte Kapitel.</p>
-<p><strong>Erfahren Sie:</strong></p>
-<ul>
-<li>Wie sich die Frequenzen auf die einzelnen Chakren auswirken.</li>
-<li>Wie Sie am besten mit den einzelnen Solffegio-Frequenzen arbeiten.</li>
-<li>Wie eine unbekannte Technik Ihre negativen Glaubenssätze in positive umprogrammiert.</li>
-</ul>
-<p><strong>... und vieles mehr.</strong></p>
-</div>
+**Vendor's marketplace description:** - Die Solfeggio - Frequenzen - Verkaufspreis: 17,- Euro / Provision für den Affiliate: 50% + Upsell: 7,99 Euro / Provision 50% Inhalt besteht aus: 6 MP3-Dateien und 2 eBooks. Der Inhalt im Detail: 1 x MP3-Datei: 396 Hz Wirkung: Befreiung von Schuld & Angst 1 x MP3-Datei: 417 Hz Wirkung: Entfernung negativer Energien 1 x MP3-Datei: 528 Hz Wirkung: Positive Transformation 1 x MP3-Datei: 639 Hz Wirkung: Harmonische Beziehung(en) 1 x MP3-Datei: 741 Hz Wirkung: Erwachen der Intuition 1 x MP3-Datei: 852 Hz Wirkung: Rückkehr zur spirituellen Ordnung + 2 x eBooks: (PDF-Format) Die Solfeggio Frequenzen - Die verschollenen und heilenden Frequenzen Inhalt: In diesem eBook finden Sie die erweiterte Fassung der Texte auf dieser Webseite. Mehr Texte, mehr Inhalte und erweiterte Kapitel. Erfahren Sie: Wie sich die Frequenzen auf die einzelnen Chakren auswirken. Wie Sie am besten mit den einzelnen Solffegio-Frequenzen arbeiten. Wie eine unbekannte Technik Ihre negativen Glaubenssätze in positive umprogrammiert. ... und vieles mehr.
 
 ## 2. Links
 

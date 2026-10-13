@@ -41,38 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Mit <strong>designdeinverein.de</strong> können Vereine endlich <strong>professionelle Instagram-Posts</strong> und Grafiken im <strong>eigenen Vereinsdesign</strong> erstellen – ganz ohne Design- oder Technikkenntnisse.</p>
-<p>Das bedeutet für Vereine:</p>
-<ul>
-<li>
-<p><strong>Einheitliches Branding</strong> für Social Media, Website &amp; Vereinsleben</p>
-</li>
-<li>
-<p><strong>Einfache Bedienung</strong> – auch für Ehrenamtliche ohne Vorkenntnisse</p>
-</li>
-<li>
-<p><strong>Zeitersparnis pur</strong> durch Vorlagen und automatisierte Designs</p>
-</li>
-<li>
-<p><strong>Leichtes Outsourcing</strong>: Jeder im Verein kann sofort mitarbeiten</p>
-</li>
-</ul>
-<p>Für Affiliates ist das eine echte Goldgrube:</p>
-<ul>
-<li>
-<p><strong>Riesiger Markt</strong>: Über 600.000 Vereine allein in Deutschland</p>
-</li>
-<li>
-<p><strong>Klare Lösung für ein akutes Problem</strong>: Social Media &amp; Außenauftritt</p>
-</li>
-<li>
-<p><strong>Hohe Conversion-Chancen</strong> dank starkem Nutzwert</p>
-</li>
-<li>
-<p><strong>Attraktive Provisionen</strong> auf jeden Verkauf</p>
-</li>
-</ul>
-<p>Vereine brauchen Social Media – wir machen es für sie <strong>einfach, professionell und zeitsparend</strong>. Werde jetzt Affiliate und profitiere von diesem wachsenden Markt!</p>
+**Vendor's marketplace description:** Mit designdeinverein.de können Vereine endlich professionelle Instagram-Posts und Grafiken im eigenen Vereinsdesign erstellen – ganz ohne Design- oder Technikkenntnisse. Das bedeutet für Vereine: Einheitliches Branding für Social Media, Website & Vereinsleben Einfache Bedienung – auch für Ehrenamtliche ohne Vorkenntnisse Zeitersparnis pur durch Vorlagen und automatisierte Designs Leichtes Outsourcing : Jeder im Verein kann sofort mitarbeiten Für Affiliates ist das eine echte Goldgrube: Riesiger Markt : Über 600.000 Vereine allein in Deutschland Klare Lösung für ein akutes Problem : Social Media & Außenauftritt Hohe Conversion-Chancen dank starkem Nutzwert Attraktive Provisionen auf jeden Verkauf Vereine brauchen Social Media – wir machen es für sie einfach, professionell und zeitsparend . Werde jetzt Affiliate und profitiere von diesem wachsenden Markt!
 
 ## 2. Links
 

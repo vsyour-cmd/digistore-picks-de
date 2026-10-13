@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Verdienen Sie Geld, das Ihnen alleine gehört</strong><br /> Schutz vor Steuern<br /> Schutz vor Schnüfflern<br /> Schutz vor Abmahnungen<br /> Schutz vor Hackern<br /> Schutz beim Online-Banking</p>
-<p>Wir leben in einer Zeit wie noch keiner zuvor - im Zeitalter des Internet. Seit 1993 gibt es das öffentliche Internet und seitdem hat es unser Leben revolutioniert.</p>
-<p>Das Internet eröffnet und Chancen, ortsunabhängig Geld zu verdienen. Und wenn man es geschickt macht, auch weitgehend steuerfrei.</p>
-<p>Die konventionellen Steueroasen der realen Welt werden immer weniger und sind immer schwieriger zu betreten, eigentlich nur etwas für Menschen mit viel Geld.<br /><br /> Das virtuelle Steueroasen-Universum des Internet wir dagegen immer größer, denn täglich stoßen bis zu 1 Million neuer User dazu.</p>
-<p><span style="color:#ff0000;background-color:#ffff00;"><strong>Möchten Sie ein Ansichtsexemplar?</strong></span></p>
-<p>Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz.</p>
-<p>Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „<span style="color:#cc99ff;"><strong><span style="color:#000000;">J</span>eden <span style="color:#000000;">T</span>ag <span style="color:#000000;">R</span>ei*cher</strong></span>“.</p>
-<p>2 einfache Schritte:</p>
-<ol>
-<li><strong>JTR</strong> gratis bestellen auf <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html%20" target="_blank" rel="noreferrer noopener">https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html </a></span>(dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge")</li>
-<li>Email mit Ihrem Ebook-Wunsch an <a>service@big-benn-books.com</a></li>
-</ol>
-<p> </p>
-<p><em><strong> </strong></em></p>
-<p> </p>
+**Vendor's marketplace description:** Verdienen Sie Geld, das Ihnen alleine gehört Schutz vor Steuern Schutz vor Schnüfflern Schutz vor Abmahnungen Schutz vor Hackern Schutz beim Online-Banking Wir leben in einer Zeit wie noch keiner zuvor - im Zeitalter des Internet. Seit 1993 gibt es das öffentliche Internet und seitdem hat es unser Leben revolutioniert. Das Internet eröffnet und Chancen, ortsunabhängig Geld zu verdienen. Und wenn man es geschickt macht, auch weitgehend steuerfrei. Die konventionellen Steueroasen der realen Welt werden immer weniger und sind immer schwieriger zu betreten, eigentlich nur etwas für Menschen mit viel Geld. Das virtuelle Steueroasen-Universum des Internet wir dagegen immer größer, denn täglich stoßen bis zu 1 Million neuer User dazu. Möchten Sie ein Ansichtsexemplar? Unter der Vendor-ID „BIGbenn1“ finden Sie sämtliche Ebooks von mir auf dem Digistore-Marktplatz. Als mein registrierter Affiliate können Sie 1 Ebook nach Wahl von mir bekommen für eine Eintragung in meinen Gratis-Newsletter „ J eden T ag R ei*cher “. 2 einfache Schritte: JTR gratis bestellen auf https://www.benn-verlag.de/newsletter-jeden-tag-reicher.html (dort bekommen Sie zusätzlich auch das nicht verkäufliche "Lexikon der kostenlosen Dinge") Email mit Ihrem Ebook-Wunsch an service@big-benn-books.com
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Ukulele Einsteiger-Kurs — Das komplette Lernpaket</strong></h2>
-<h3>Alles was du brauchst, um Ukulele zu lernen — in einem Paket.</h3>
-<h3>Webanwendung — läuft auf Mobil, Tablet &amp; Desktop. Kein Download, kein Install.</h3>
-<h3>✔ 80 Minuten Videomaterial · Schritt für Schritt erklärt</h3>
-<h3>✔ 4 interaktive Lern-Tools · Songbook · Einsteiger-Guide · 5 Handbücher</h3>
-<h3>✔ Unterlagen zu jedem Kapitel · Akkordblätter · Play-along Infos</h3>
-<h3>✔ Akkorde · Tonleitern · Rhythmus · Akkordfolgen — alles in einem</h3>
-<h3>✔ Einmalige Zahlung — kein Abo · 30 Tage Geld-zurück-Garantie</h3>
-<hr />
-<h3> </h3>
+**Vendor's marketplace description:** Ukulele Einsteiger-Kurs — Das komplette Lernpaket Alles was du brauchst, um Ukulele zu lernen — in einem Paket. Webanwendung — läuft auf Mobil, Tablet & Desktop. Kein Download, kein Install. ✔ 80 Minuten Videomaterial · Schritt für Schritt erklärt ✔ 4 interaktive Lern-Tools · Songbook · Einsteiger-Guide · 5 Handbücher ✔ Unterlagen zu jedem Kapitel · Akkordblätter · Play-along Infos ✔ Akkorde · Tonleitern · Rhythmus · Akkordfolgen — alles in einem ✔ Einmalige Zahlung — kein Abo · 30 Tage Geld-zurück-Garantie
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>ChatGPT ohne Angst ist ein verständliches Praxisbuch für Einsteiger, die ChatGPT sicher und sinnvoll nutzen möchten.</p>
-<p>Das Workbook zeigt Schritt für Schritt, wie klare Eingaben entstehen, Ergebnisse geprüft und typische Anfängerfehler vermieden werden. Die Leser lernen, wie sie ChatGPT für Ideen, Texte, Planung und wiederkehrende Aufgaben im Online-Business einsetzen können.</p>
-<p>Das Produkt richtet sich besonders an Selbstständige, Content Creator und Menschen, die sich nebenberuflich ein Online-Business aufbauen möchten. Technische Vorkenntnisse sind nicht erforderlich.</p>
-<p>Enthalten sind verständliche Erklärungen, konkrete Beispiele und praktische Übungen für die direkte Umsetzung.</p>
-<p>Die Leser erfahren unter anderem:</p>
-<p>• wie gute Eingaben aufgebaut sind<br />• warum ungenaue Prompts oft zu unbrauchbaren Ergebnissen führen<br />• wie Antworten geprüft und verbessert werden<br />• wie ChatGPT bei Content, Planung und Texten unterstützen kann<br />• welche Daten und Informationen nicht eingegeben werden sollten</p>
-<p>Das Praxisbuch vermittelt eine realistische Arbeitsweise mit ChatGPT. Es enthält keine Einkommensversprechen und ersetzt keine individuelle Rechts-, Datenschutz- oder Unternehmensberatung.</p>
+**Vendor's marketplace description:** ChatGPT ohne Angst ist ein verständliches Praxisbuch für Einsteiger, die ChatGPT sicher und sinnvoll nutzen möchten. Das Workbook zeigt Schritt für Schritt, wie klare Eingaben entstehen, Ergebnisse geprüft und typische Anfängerfehler vermieden werden. Die Leser lernen, wie sie ChatGPT für Ideen, Texte, Planung und wiederkehrende Aufgaben im Online-Business einsetzen können. Das Produkt richtet sich besonders an Selbstständige, Content Creator und Menschen, die sich nebenberuflich ein Online-Business aufbauen möchten. Technische Vorkenntnisse sind nicht erforderlich. Enthalten sind verständliche Erklärungen, konkrete Beispiele und praktische Übungen für die direkte Umsetzung. Die Leser erfahren unter anderem: • wie gute Eingaben aufgebaut sind • warum ungenaue Prompts oft zu unbrauchbaren Ergebnissen führen • wie Antworten geprüft und verbessert werden • wie ChatGPT bei Content, Planung und Texten unterstützen kann • welche Daten und Informationen nicht eingegeben werden sollten Das Praxisbuch vermittelt eine realistische Arbeitsweise mit ChatGPT. Es enthält keine Einkommensversprechen und ersetzt keine individuelle Rechts-, Datenschutz- oder Unternehmensberatung.
 
 ## 2. Links
 

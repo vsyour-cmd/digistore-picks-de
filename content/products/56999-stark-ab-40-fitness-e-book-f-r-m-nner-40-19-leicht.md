@@ -41,10 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>„Stark ab 40" ist das komplette Trainings- und Ernährungssystem für Männer ab 40 – hochwertiges PDF-E-Book (ca. 50 Seiten) inkl. Bonus-Trainingsplan.</p>
-<p>Warum sich die Bewerbung lohnt:<br />- Große, kaufkräftige Zielgruppe: Männer 40+, die wieder fit, stark und energiegeladen werden wollen<br />- Niedriger Einstiegspreis (19 €) = hohe Conversion<br />- Professionelle Verkaufsseite + Funnel mit kostenlosem Lead-Magnet bereits vorhanden<br />- 14-Tage-Geld-zurück-Garantie senkt die Kaufhürde</p>
-<p>Ideale Traffic-Quellen: Instagram/TikTok/YouTube Reels, Facebook-Gruppen (Fitness &amp; Gesundheit ab 40), E-Mail-Listen im Männer-/Gesundheitsbereich.</p>
-<p>Werbemittel (Cover, Reel-Skripte) findest du im Reiter „Werbemittel". Viel Erfolg!</p>
+**Vendor's marketplace description:** „Stark ab 40" ist das komplette Trainings- und Ernährungssystem für Männer ab 40 – hochwertiges PDF-E-Book (ca. 50 Seiten) inkl. Bonus-Trainingsplan. Warum sich die Bewerbung lohnt: - Große, kaufkräftige Zielgruppe: Männer 40+, die wieder fit, stark und energiegeladen werden wollen - Niedriger Einstiegspreis (19 €) = hohe Conversion - Professionelle Verkaufsseite + Funnel mit kostenlosem Lead-Magnet bereits vorhanden - 14-Tage-Geld-zurück-Garantie senkt die Kaufhürde Ideale Traffic-Quellen: Instagram/TikTok/YouTube Reels, Facebook-Gruppen (Fitness & Gesundheit ab 40), E-Mail-Listen im Männer-/Gesundheitsbereich. Werbemittel (Cover, Reel-Skripte) findest du im Reiter „Werbemittel". Viel Erfolg!
 
 ## 2. Links
 

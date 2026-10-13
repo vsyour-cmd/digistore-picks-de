@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>⭐ <strong>Die Affiliate Erfolgscommunity: Profit Buddies Cash Club</strong></h1>
-<p> </p>
-<p>Bewirb unser einsteigerfreundliches Online-Kurs-System im Bereich <strong>Affiliate-Marketing &amp; Online Geld verdienen</strong> und verdiene attraktive Provisionen!</p>
-<p> </p>
-<p><span style="text-decoration:underline;"><span style="background-color:#ffff00;"><strong>Deine Vorteile:</strong></span></span></p>
-<ul>
-<li><strong>Hohe Provisionen:</strong><br />Smarte Funnelarchitektur, die dich an Upsells, Downsells und Mail Follow-Ups beteiligt!<br /><br /></li>
-<li><strong>Sichere Conversions:</strong><br />Stetige A/B Splittests stellen das Maximum an Provisionen für dich sicher!<br /><br /></li>
-<li><strong>Geringe Stornoquoten:</strong><br />Erfolgreiche Kunden und damit eine hohe Kundenzufriedenheit stehen an erster Stelle!<br /><br /></li>
-<li><strong>Schnelle und unkomplizierte Freischaltung:</strong><br />Du kannst direkt mit deiner Promo starten und bekommst die Provision sofort gutgeschrieben (Paid Ads tauglich!)</li>
-</ul>
-<p><br />Umfangreiche Werbemittel &amp; alle anderen Produtke fidnest du hier:<br /><a href="https://www.profitbuddies.de/partnerprogramm-uebersicht/" target="_blank" rel="noreferrer noopener">https://www.profitbuddies.de/partnerprogramm-uebersicht/</a><br /><br /></p>
-<p>Bei Fragen schreibe uns gerne: support@profitbuddies.de</p>
+**Vendor's marketplace description:** ⭐ Die Affiliate Erfolgscommunity: Profit Buddies Cash Club Bewirb unser einsteigerfreundliches Online-Kurs-System im Bereich Affiliate-Marketing & Online Geld verdienen und verdiene attraktive Provisionen! Deine Vorteile: Hohe Provisionen: Smarte Funnelarchitektur, die dich an Upsells, Downsells und Mail Follow-Ups beteiligt! Sichere Conversions: Stetige A/B Splittests stellen das Maximum an Provisionen für dich sicher! Geringe Stornoquoten: Erfolgreiche Kunden und damit eine hohe Kundenzufriedenheit stehen an erster Stelle! Schnelle und unkomplizierte Freischaltung: Du kannst direkt mit deiner Promo starten und bekommst die Provision sofort gutgeschrieben (Paid Ads tauglich!) Umfangreiche Werbemittel & alle anderen Produtke fidnest du hier: https://www.profitbuddies.de/partnerprogramm-uebersicht/ Bei Fragen schreibe uns gerne: support@profitbuddies.de
 
 ## 2. Links
 

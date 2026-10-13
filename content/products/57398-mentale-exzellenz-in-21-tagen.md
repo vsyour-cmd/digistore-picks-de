@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><span style="color:#ff0000;"><strong>Hinweis: Im Webinar selbst wird ein 100-€-Gutschein angeboten. Das bedeutet, die Provision beträgt etwa 70€ pro Affiliate-Verkauf!</strong></span></h3>
-<h4>Update Juli 26: Es gibt eine weitere Verkaufsseite mit einem vorgeschalteten Webinar. Damit können mehrere Zielgruppen abgeholt werden. Am Ende beider Webinare, wird das gleiche Produkt beworben: <br /><br />https://www.checkout-ds24.com/content/683993/55572/AFFILIATE/CAMPAIGNKEY</h4>
-<h2><strong>Mentale Exzellenz in 21 Tagen</strong></h2>
-<p>Ein intensives 21-Tage-Programm für mehr mentale Stärke, Fokus und emotionale Klarheit.</p>
-<p>Das erwartet dich:</p>
-<ul>
-<li>21 Video-Module mit konkreten Übungen für den Aufbau deiner mentalen Stärke vom Fundament auf!</li>
-<li>Workbook &amp; Reflexionsaufgaben zu jeder einzelnen Lektion</li>
-<li>Secret Podcast mit allen Folgen als Audio-Version, um die Inhalte als Podcast jederzeit hören und vertiefen zu können</li>
-<li>KI-Kursbuddy für Fragen, Reflexion &amp; schnellere Umsetzung</li>
-<li>Bonus: Monatliche Live Q&amp;As für die ersten 3 Monate</li>
-</ul>
-<p>Für alle, die mentale Stärke nicht nur verstehen — sondern wirklich trainieren wollen. Inkl. 14-tägigem Rückgaberecht, wenn du nicht mit dem Kurs klar kommst.</p>
+**Vendor's marketplace description:** Hinweis: Im Webinar selbst wird ein 100-€-Gutschein angeboten. Das bedeutet, die Provision beträgt etwa 70€ pro Affiliate-Verkauf! Update Juli 26: Es gibt eine weitere Verkaufsseite mit einem vorgeschalteten Webinar. Damit können mehrere Zielgruppen abgeholt werden. Am Ende beider Webinare, wird das gleiche Produkt beworben: https://www.checkout-ds24.com/content/683993/55572/AFFILIATE/CAMPAIGNKEY Mentale Exzellenz in 21 Tagen Ein intensives 21-Tage-Programm für mehr mentale Stärke, Fokus und emotionale Klarheit. Das erwartet dich: 21 Video-Module mit konkreten Übungen für den Aufbau deiner mentalen Stärke vom Fundament auf! Workbook & Reflexionsaufgaben zu jeder einzelnen Lektion Secret Podcast mit allen Folgen als Audio-Version, um die Inhalte als Podcast jederzeit hören und vertiefen zu können KI-Kursbuddy für Fragen, Reflexion & schnellere Umsetzung Bonus: Monatliche Live Q&As für die ersten 3 Monate Für alle, die mentale Stärke nicht nur verstehen — sondern wirklich trainieren wollen. Inkl. 14-tägigem Rückgaberecht, wenn du nicht mit dem Kurs klar kommst.
 
 ## 2. Links
 

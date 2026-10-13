@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Gut laufendes eBook mit weiteren Upsells, die den Umsatz erh&ouml;hen.</p>
-<p>Thema: Garmin GPS Empf&auml;nger Oregon 600, 650 Anleitung, Benutzung, Navigation.</p>
-<p>Zielgruppe: Wanderer, Radfahrer und Outdoor-Leute, die einen Oregon 6x besitzen.</p>
+**Vendor's marketplace description:** Gut laufendes eBook mit weiteren Upsells, die den Umsatz erh&ouml;hen. Thema: Garmin GPS Empf&auml;nger Oregon 600, 650 Anleitung, Benutzung, Navigation. Zielgruppe: Wanderer, Radfahrer und Outdoor-Leute, die einen Oregon 6x besitzen.
 
 ## 2. Links
 

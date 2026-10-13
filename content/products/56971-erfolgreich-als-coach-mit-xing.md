@@ -41,17 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Wie du im DACH-Business-Netzwerk Vertrauen aufbaust und planbar Kunden gewinnst</strong></p>
-<p>Als Coach lebt dein Business von Vertrauen – und XING ist die Plattform, auf der dieses Vertrauen im deutschsprachigen Geschäftsumfeld täglich wächst. Dieses E-Book zeigt dir, wie du aus deinem Fachwissen Content und Profilpräsenz machst, die nicht nur Aufmerksamkeit, sondern planbar Anfragen aus der DACH-Region bringen. Du lernst, wie du dein Profil als digitale Visitenkarte positionierst, über Beiträge und Artikel Expertise zeigst ohne alles zu verschenken, wie XING-Gruppen als Reichweiten-Motor für Coaches funktionieren und wie du Events und Webinare über XING füllst. Statt auf Zufallskontakte zu hoffen, hast du nach diesem E-Book ein System, das dich als Autorität deiner Nische im DACH-Raum positioniert und deinen Kalender mit Erstgesprächen füllt.</p>
-<p><strong>Das steckt drin:</strong></p>
-<ul>
-<li>Profil als Verkaufsseite gestalten – so liest dein Wunschkunde ihn</li>
-<li>Content-Strategie für XING: Beiträge und Artikel, die Vertrauen erzeugen</li>
-<li>Gruppen gezielt nutzen: Sichtbarkeit in deiner Zielgruppen-Community</li>
-<li>Events und Webinare über XING ankündigen und füllen</li>
-<li>Direktnachrichten als Conversion-Kanal professionell einsetzen</li>
-</ul>
-<p><strong>Für Affiliates:</strong> 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.</p>
+**Vendor's marketplace description:** Wie du im DACH-Business-Netzwerk Vertrauen aufbaust und planbar Kunden gewinnst Als Coach lebt dein Business von Vertrauen – und XING ist die Plattform, auf der dieses Vertrauen im deutschsprachigen Geschäftsumfeld täglich wächst. Dieses E-Book zeigt dir, wie du aus deinem Fachwissen Content und Profilpräsenz machst, die nicht nur Aufmerksamkeit, sondern planbar Anfragen aus der DACH-Region bringen. Du lernst, wie du dein Profil als digitale Visitenkarte positionierst, über Beiträge und Artikel Expertise zeigst ohne alles zu verschenken, wie XING-Gruppen als Reichweiten-Motor für Coaches funktionieren und wie du Events und Webinare über XING füllst. Statt auf Zufallskontakte zu hoffen, hast du nach diesem E-Book ein System, das dich als Autorität deiner Nische im DACH-Raum positioniert und deinen Kalender mit Erstgesprächen füllt. Das steckt drin: Profil als Verkaufsseite gestalten – so liest dein Wunschkunde ihn Content-Strategie für XING: Beiträge und Artikel, die Vertrauen erzeugen Gruppen gezielt nutzen: Sichtbarkeit in deiner Zielgruppen-Community Events und Webinare über XING ankündigen und füllen Direktnachrichten als Conversion-Kanal professionell einsetzen Für Affiliates: 50 % Provision auf jeden Verkauf (von Digistore24 auf den Nettobetrag berechnet). Im Anschluss bekommen Käufer im Funnel passende Komplett-Pakete angeboten, sodass du an der ganzen Verkaufskette mitverdienst. Werbemittel und deinen persönlichen Link findest du auf der Partner-Seite von social-media-planer.de.
 
 ## 2. Links
 

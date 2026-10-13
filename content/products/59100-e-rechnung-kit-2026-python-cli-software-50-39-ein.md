@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Software-ZIP / Python-CLI (v1.0.1): Stripe/JSON → XRechnung 3.0.2 &amp; ZUGFeRD 2.5.2, plus Empfang und lokale Archivierung. Selbst gehostet, offline — kein Cloud-SaaS. Verkaufspreis 39,00 € einmalig. Affiliate-Provision 50 %. Rückerstattung 14 Tage. Verkaufsseite: <a href="https://e-rechnung-kit.pages.dev">https://e-rechnung-kit.pages.dev</a> — Orderform: <a href="https://www.digistore24.com/product/729781">https://www.digistore24.com/product/729781</a>. Produkttyp Software (nicht E-Book). Kein Steuer-/Rechtsrat; validate  KoSIT. Nicht verwechseln mit Finanzamt-klar (PDF-Workbook für Solos).</p>
+**Vendor's marketplace description:** Software-ZIP / Python-CLI (v1.0.1): Stripe/JSON → XRechnung 3.0.2 & ZUGFeRD 2.5.2, plus Empfang und lokale Archivierung. Selbst gehostet, offline — kein Cloud-SaaS. Verkaufspreis 39,00 € einmalig. Affiliate-Provision 50 %. Rückerstattung 14 Tage. Verkaufsseite: https://e-rechnung-kit.pages.dev — Orderform: https://www.digistore24.com/product/729781 . Produkttyp Software (nicht E-Book). Kein Steuer-/Rechtsrat; validate KoSIT. Nicht verwechseln mit Finanzamt-klar (PDF-Workbook für Solos).
 
 ## 2. Links
 

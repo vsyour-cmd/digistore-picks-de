@@ -41,21 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Das praxisnahe Workbook für alle, die aus dem hektischen Alltag aussteigen und wieder ganz bei sich ankommen wollen!</strong></p>
-<p>Dieses interaktive Workbook unterstützt deine Zielgruppe Schritt für Schritt dabei, den Fokus vom Außen zurück ins Innen zu lenken. Es bietet gezielte Übungen, gestaltete Seiten und Impulse, um eigene Bedürfnisse wahrzunehmen, sanft aber bestimmt Grenzen zu setzen und sich im Alltag fest in der eigenen Mitte zu verankern.</p>
-<p><strong>Vorteile für Käufer:</strong></p>
-<ul>
-<li>
-<p>Sofortiger PDF-Download</p>
-</li>
-<li>
-<p>Praxisnahe Seiten, Achtsamkeitsmethoden &amp; Reflexionen</p>
-</li>
-<li>
-<p>Perfekt für alle, die nach konkreten Tools zur Stressbewältigung &amp; Selbstanbindung suchen</p>
-</li>
-</ul>
-<p>Ideal für Affiliates in den Nischen Coaching, Mentale Gesundheit, Selfcare, Achtsamkeit und Persönlichkeitsentwicklung!</p>
+**Vendor's marketplace description:** Das praxisnahe Workbook für alle, die aus dem hektischen Alltag aussteigen und wieder ganz bei sich ankommen wollen! Dieses interaktive Workbook unterstützt deine Zielgruppe Schritt für Schritt dabei, den Fokus vom Außen zurück ins Innen zu lenken. Es bietet gezielte Übungen, gestaltete Seiten und Impulse, um eigene Bedürfnisse wahrzunehmen, sanft aber bestimmt Grenzen zu setzen und sich im Alltag fest in der eigenen Mitte zu verankern. Vorteile für Käufer: Sofortiger PDF-Download Praxisnahe Seiten, Achtsamkeitsmethoden & Reflexionen Perfekt für alle, die nach konkreten Tools zur Stressbewältigung & Selbstanbindung suchen Ideal für Affiliates in den Nischen Coaching, Mentale Gesundheit, Selfcare, Achtsamkeit und Persönlichkeitsentwicklung!
 
 ## 2. Links
 

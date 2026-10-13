@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>EGroupware bietet einen Online Kalender für die Organisation von Events und Ressourcen, das Kontaktmanagement mit CRM, eine Aufgaben-Verwaltung, sowie einen Online Fileserver, der durch Projektmanagement und Ticketsystem abgerundet wird.</p>
-<p>Die Groupware vernetzt alle Informationen auf einer online Unternehmensplattform. Die Lösung läuft unabhängig von Betriebssystemen auf jedem Desktop-Browser und in der mobilen Version auch auf Smartphones und Tablets.</p>
-<p>Weitere Informationen finden Sie auf www.egroupware.org</p>
+**Vendor's marketplace description:** EGroupware bietet einen Online Kalender für die Organisation von Events und Ressourcen, das Kontaktmanagement mit CRM, eine Aufgaben-Verwaltung, sowie einen Online Fileserver, der durch Projektmanagement und Ticketsystem abgerundet wird. Die Groupware vernetzt alle Informationen auf einer online Unternehmensplattform. Die Lösung läuft unabhängig von Betriebssystemen auf jedem Desktop-Browser und in der mobilen Version auch auf Smartphones und Tablets. Weitere Informationen finden Sie auf www.egroupware.org
 
 ## 2. Links
 

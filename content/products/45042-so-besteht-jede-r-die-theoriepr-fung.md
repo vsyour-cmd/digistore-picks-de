@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Hast Du mit dem Verkehrsguru Videokurs gelernt und warst zufrieden?</strong> - Dann kannst Du hier andere davon überzeugen, dass unser Kurs gut ist! </p>
-<p>Dabei kannst Du auch Geld verdienen und gleichzeitig vielen anderen das Gefühl von</p>
-<blockquote>
-<p><strong> "<span style="color:#008000;"><em>YEAAAAH ENDLICH HAB ICH DIE PRÜFUNG BESTANDEN</em></span>"</strong></p>
-</blockquote>
-<p>vermitteln. Theorie ist nämlich einfach, wenn man alles versteht.</p>
-<p> </p>
-<p>Wir freuen uns auf dich. </p>
-<p>Dein Verkehrsguru</p>
+**Vendor's marketplace description:** Hast Du mit dem Verkehrsguru Videokurs gelernt und warst zufrieden? - Dann kannst Du hier andere davon überzeugen, dass unser Kurs gut ist! Dabei kannst Du auch Geld verdienen und gleichzeitig vielen anderen das Gefühl von " YEAAAAH ENDLICH HAB ICH DIE PRÜFUNG BESTANDEN " vermitteln. Theorie ist nämlich einfach, wenn man alles versteht. Wir freuen uns auf dich. Dein Verkehrsguru
 
 ## 2. Links
 

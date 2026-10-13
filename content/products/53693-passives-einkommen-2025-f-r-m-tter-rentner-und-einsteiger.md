@@ -41,19 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4 style="text-align:center;">Dieses digitale E-Book vermittelt praxisnahes Wissen im Bereich Online Marketing und bietet zusätzlich wertvolle Tipps für Buisness, Investment und Familienalltag.</h4>
-<p style="text-align:center;"> </p>
-<h4><strong><em>Zielgruppe:</em></strong></h4>
-<p>- Berufstätige, die sich ein zweites Standbein aufbauen wollen</p>
-<p>- Familien und Rentner, die sich für zusätzliche Einkommensquellen interessieren</p>
-<p>- Einsteiger die praxisnahe Anleitungen im Online Marketing suchen</p>
-<p> </p>
-<h4><strong><em>Vorteile als Affiliate</em></strong></h4>
-<p>- attraktive Provision von 50% pro Verkauf</p>
-<p>- steigende Nachfrage im Bereich Online Buisness &amp; Familienprodukte</p>
-<p> </p>
-<p> </p>
-<h4 style="text-align:center;"><strong>Jetzt Affiliate werden und mit jedem Verkauf sofort verdienen!</strong></h4>
+**Vendor's marketplace description:** Dieses digitale E-Book vermittelt praxisnahes Wissen im Bereich Online Marketing und bietet zusätzlich wertvolle Tipps für Buisness, Investment und Familienalltag. Zielgruppe: - Berufstätige, die sich ein zweites Standbein aufbauen wollen - Familien und Rentner, die sich für zusätzliche Einkommensquellen interessieren - Einsteiger die praxisnahe Anleitungen im Online Marketing suchen Vorteile als Affiliate - attraktive Provision von 50% pro Verkauf - steigende Nachfrage im Bereich Online Buisness & Familienprodukte Jetzt Affiliate werden und mit jedem Verkauf sofort verdienen!
 
 ## 2. Links
 

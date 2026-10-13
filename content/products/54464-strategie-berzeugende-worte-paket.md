@@ -41,27 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><span style="background-color:#ffff00;">Strategie + überzeugende Worte Paket</span> - Die unschlagbare Kombination für deinen Online-Erfolg: Die richtige Strategie trifft auf die überzeugendsten Worte!</h1>
-<h4>Deine Kunden werden entdecken, wie du mit dem erprobten Fahrplan zum Sofortumsatz UND der Kunst der Verkaufspsychologie ihr Affiliate-Business auf das nächste Level heben.</h4>
-<p>Bewirb unser "Strategie + überzeugende Worte Paket" und erhalte <strong>50% Provision</strong> und auf die Upsells, sowie <strong>15% Lifetime-Provision</strong> auf alle Folgeverkäufe!</p>
-<p> </p>
-<p><strong>Was Deine Kunden erhalten:</strong></p>
-<p>Teil 1: Workbook "Affiliate Sofortumsatz" (Praxiserprobte Strategie für schnelle Ergebnisse) </p>
-<p>Teil 2: GRATIS Bonus: Das E-Book "Verkaufspsychologie &amp; Copywriting" (Die Fähigkeit, mit Worten zu verkaufen)  </p>
-<p> </p>
-<div>
-<div>
-<div>
-<p><strong>Werde jetzt unser Partner und verdiene online Geld!</strong></p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div> </div>
-</div>
-</div>
-<p> </p>
+**Vendor's marketplace description:** Strategie + überzeugende Worte Paket - Die unschlagbare Kombination für deinen Online-Erfolg: Die richtige Strategie trifft auf die überzeugendsten Worte! Deine Kunden werden entdecken, wie du mit dem erprobten Fahrplan zum Sofortumsatz UND der Kunst der Verkaufspsychologie ihr Affiliate-Business auf das nächste Level heben. Bewirb unser "Strategie + überzeugende Worte Paket" und erhalte 50% Provision und auf die Upsells, sowie 15% Lifetime-Provision auf alle Folgeverkäufe! Was Deine Kunden erhalten: Teil 1: Workbook "Affiliate Sofortumsatz" (Praxiserprobte Strategie für schnelle Ergebnisse) Teil 2: GRATIS Bonus: Das E-Book "Verkaufspsychologie & Copywriting" (Die Fähigkeit, mit Worten zu verkaufen) Werde jetzt unser Partner und verdiene online Geld!
 
 ## 2. Links
 

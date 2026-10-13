@@ -41,15 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du möchtest das Laravel Framework von Grund auf lernen inkl. der Funktionsweise? Wir zeigen dir das Laravel Framework nach der bewährten laravel-seminar.de Methode. Freue dich auf einen ständig aktualisierten Laravel Kurs, der dir alle wichtigen Grundlagen beibringt.</p>
-<p><strong>Deine Vorteile</strong></p>
-<p>- Laravel Einstieg finden - für Einsteiger geeignet<br />- Perfekte Basics mit anschaulichen Beispielen<br />- Erfahrungen des Trainers von jahrelangen Inhouse Seminaren<br />- Theorie und Praxis vereint<br />- Endlich die Technologie verstehen<br />- Schritt für Schritt<br />- Nicht nur Nachprogrammieren</p>
-<p><strong>Inhalte Laravel Onlinekurs</strong></p>
-<p>Dieser Laravel Online Kurs ist auf die Erfahrung jahrelanger ausgezeichneter In-House Seminare aufgebaut. </p>
-<p>Hunderte Kunden &amp; Unternehmen, europaweit schenkten dem Kurs bereits ihr <strong>Vertrauen</strong>. Profitiere von angepassten Übungen, Quizzes und exklusivem Material!</p>
-<p>In diesem Kurs zeigen wir dir das beliebte Laravel PHP Backend Framework nach der bewährten laravel-seminar.de Methode. </p>
-<p>Wir beginnen mit den <strong>Grundlagen</strong>, erörtern die <strong>Vorteile</strong> eines MCV Frameworks und gehen Schritt für Schritt die wichtigsten <strong>Komponenten</strong> von Laravel durch.</p>
-<p>Lerne von wo Du willst und starte noch heute! Lerne PHP Online!</p>
+**Vendor's marketplace description:** Du möchtest das Laravel Framework von Grund auf lernen inkl. der Funktionsweise? Wir zeigen dir das Laravel Framework nach der bewährten laravel-seminar.de Methode. Freue dich auf einen ständig aktualisierten Laravel Kurs, der dir alle wichtigen Grundlagen beibringt. Deine Vorteile - Laravel Einstieg finden - für Einsteiger geeignet - Perfekte Basics mit anschaulichen Beispielen - Erfahrungen des Trainers von jahrelangen Inhouse Seminaren - Theorie und Praxis vereint - Endlich die Technologie verstehen - Schritt für Schritt - Nicht nur Nachprogrammieren Inhalte Laravel Onlinekurs Dieser Laravel Online Kurs ist auf die Erfahrung jahrelanger ausgezeichneter In-House Seminare aufgebaut. Hunderte Kunden & Unternehmen, europaweit schenkten dem Kurs bereits ihr Vertrauen . Profitiere von angepassten Übungen, Quizzes und exklusivem Material! In diesem Kurs zeigen wir dir das beliebte Laravel PHP Backend Framework nach der bewährten laravel-seminar.de Methode. Wir beginnen mit den Grundlagen , erörtern die Vorteile eines MCV Frameworks und gehen Schritt für Schritt die wichtigsten Komponenten von Laravel durch. Lerne von wo Du willst und starte noch heute! Lerne PHP Online!
 
 ## 2. Links
 

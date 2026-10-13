@@ -41,7 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Umfangreiches Ebook über die Seifenherstellung zu Hause.</p>
+**Vendor's marketplace description:** Umfangreiches Ebook über die Seifenherstellung zu Hause.
 
 ## 2. Links
 

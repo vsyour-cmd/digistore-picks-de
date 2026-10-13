@@ -41,11 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Forensic System</strong></p>
-<p>Erforschen Sie das Vorleben Ihres Rechners und werden Sie zum Datendetektiv! Nicht nur für Tüftler und Neugierige! Und alles mit nur wenigen Klicks und Scans, auch für Einsteiger!</p>
-<p>Das SecuPerts Forensic System enthält viele Recherche,- Analyse- und Backup-Werkzeuge, die zum IT-Detektiv am eigenen PC werden lassen.</p>
-<p>Das SecuPerts Forensic System ist vor allem dann von unschätzbarem Wert, wenn auch Bekannte oder gar Fremde Zugriff auf Ihren PC haben oder hatten! Sie glauben nicht was dann alles geschehen sein kann.</p>
-<p>Kompatibel mit allen (!) Version von Windows!<br /><br />Lieferung erfolgt umgehend per Download und die Software muss auf einem USB Stick installiert werden (dieser wird nicht mitgeliefert).</p>
+**Vendor's marketplace description:** Forensic System Erforschen Sie das Vorleben Ihres Rechners und werden Sie zum Datendetektiv! Nicht nur für Tüftler und Neugierige! Und alles mit nur wenigen Klicks und Scans, auch für Einsteiger! Das SecuPerts Forensic System enthält viele Recherche,- Analyse- und Backup-Werkzeuge, die zum IT-Detektiv am eigenen PC werden lassen. Das SecuPerts Forensic System ist vor allem dann von unschätzbarem Wert, wenn auch Bekannte oder gar Fremde Zugriff auf Ihren PC haben oder hatten! Sie glauben nicht was dann alles geschehen sein kann. Kompatibel mit allen (!) Version von Windows! Lieferung erfolgt umgehend per Download und die Software muss auf einem USB Stick installiert werden (dieser wird nicht mitgeliefert).
 
 ## 2. Links
 

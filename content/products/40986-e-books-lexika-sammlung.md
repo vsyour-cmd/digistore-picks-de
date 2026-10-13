@@ -41,9 +41,7 @@ language: "de"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Du möchtest ein umfangreiches Staatenlos-Wissen aufbauen? Dann profitiere von unserem Lexika-Rabatt. Du bekommst alle vier Lexika zum Preis von 329 € statt für 470 €.</p>
-<p>In den vier E-Books bekommst Du hilfreiche Tipps zu den Themen Auswandern, Firmengründung, Bankkonten eröffnen und Staatsbürgerschaften erlangen. </p>
-<p> </p>
+**Vendor's marketplace description:** Du möchtest ein umfangreiches Staatenlos-Wissen aufbauen? Dann profitiere von unserem Lexika-Rabatt. Du bekommst alle vier Lexika zum Preis von 329 € statt für 470 €. In den vier E-Books bekommst Du hilfreiche Tipps zu den Themen Auswandern, Firmengründung, Bankkonten eröffnen und Staatsbürgerschaften erlangen.
 
 ## 2. Links
 
